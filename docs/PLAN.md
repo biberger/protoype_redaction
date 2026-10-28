@@ -189,8 +189,8 @@ Next session, in order:
    decoding resolves overlaps **across** labels, so a judge never also comes out as `person`. Inference
    therefore queries role labels (`judge`, `lawyer`) in a separate pass (`evaluate.predict`); production
    inference must do the same.
-4. Baselines: evaluate `gliner2.5-multi-v1` and `gliner2-privacy-filter-PII-multi` zero-shot on
-   the synthetic test split and LER test.
+4. ~~Baselines~~ done: `docs/baselines.md`. Both ≈F1 0.53–0.54 zero-shot; PII character recall 0.81 (base)
+   vs 0.93 (PII model); roles, identifiers and LER-style citations are weak.
 5. Write the RIS fetcher against the live OGD API, with placeholder filling from gazetteers.
 6. Add replay converters (GLiNER v1 format) and the MAPA evaluation converter.
 7. Scale synthetic generation to 1,000–3,000 documents; build the hand-checked Austrian gold set.
