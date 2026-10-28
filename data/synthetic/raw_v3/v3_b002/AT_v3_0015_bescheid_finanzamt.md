@@ -8,7 +8,7 @@ Abteilung Betriebsprüfung
 
 An die
 [[organization|Fürstenberg GmbH & Co KG]]
-FN [[company_register_number|FN 243411h]]
+[[company_register_number|FN 243411h]]
 UID [[tax_id|ATU69997079]]
 z. Hd. [[person|BSc Dalibor Jahoda]], Versicherungsnummer [[social_security_number|9384 060248]]
 [[address|Edelweißstraße 5, 2130 Mistelbach]]
@@ -34,7 +34,7 @@ Die Berechnung der Nachforderung ist dem Prüfungsbericht als Beilage angeschlos
 
 Begründung
 
-Im Zuge der Außenprüfung, die am [[date|30. Juni 2026]] abgeschlossen wurde, hat die Prüferin [[person|Irmine Horn]] festgestellt, dass die Abgabepflichtige Verrechnungspreise für Lieferungen an die [[organization|Debusschere GmbH]] (FN [[company_register_number|FN 171898t]], UID [[tax_id|ATU34157364]]) nicht ausreichend dokumentiert hat.
+Im Zuge der Außenprüfung, die am [[date|30. Juni 2026]] abgeschlossen wurde, hat die Prüferin [[person|Irmine Horn]] festgestellt, dass die Abgabepflichtige Verrechnungspreise für Lieferungen an die [[organization|Debusschere GmbH]] ([[company_register_number|FN 171898t]], UID [[tax_id|ATU34157364]]) nicht ausreichend dokumentiert hat.
 
 Die Abgabepflichtige ist ein Großhandelsunternehmen für Kühlanlagen mit Sitz in [[location|Mistelbach]]. Im Prüfungszeitraum gewährte die Gesellschaft ihrem Gesellschafter Darlehen in Höhe von 480.000 Euro und verrechnete dafür Zinsen von 4,5 % p.a. Ein Fremdvergleich ergibt einen marktüblichen Zinssatz von 2,1 % p.a. Die Differenz von 2,4 Prozentpunkten entspricht bei dem genannten Darlehensbetrag einem jährlichen Betrag von 11.520 Euro. Eine gesonderte Dokumentation dieser Verrechnung in den Jahren 2022 bis 2024 liegt nicht vor.
 

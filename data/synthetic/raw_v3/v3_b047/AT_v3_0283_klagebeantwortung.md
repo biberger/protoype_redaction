@@ -5,7 +5,7 @@ lang: de
 ---
 [[organization|de Melo Energie KG]]
 [[address|Josef-Schwarz-Gasse 4/11, 3261 Wolfpassing]]
-FN [[company_register_number|FN 566256f]], UID [[tax_id|ATU22172725]]
+[[company_register_number|FN 566256f]], UID [[tax_id|ATU22172725]]
 
 An das
 [[court|Landesgericht St. Pölten]]

@@ -11,7 +11,7 @@ An
 Rechtsanwalt [[lawyer|Jonko Wichtl]]
 im Auftrag der Versicherungsnehmerin
 [[organization|Lehner Möbel KG]]
-FN [[company_register_number|FN 563020x]]
+[[company_register_number|FN 563020x]]
 UID [[tax_id|ATU92023569]]
 Anschrift: [[address|Severin-Schreiber-Gasse 50, 2500 Alland]]
 

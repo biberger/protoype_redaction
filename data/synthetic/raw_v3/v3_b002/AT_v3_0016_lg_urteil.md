@@ -20,9 +20,9 @@ gegen
 
 die beklagten Parteien
 
-1. [[organization|Heindl Consulting e.U.]], [[address|Thürheimerstraße 10/10, 5161 Elixhausen]], FN [[company_register_number|FN 234167p]], UID [[tax_id|ATU68888581]],
-2. [[organization|Grabner GmbH]], [[address|Bismarckstraße 80, 5452 Pfarrwerfen]], FN [[company_register_number|FN 250342a]], UID [[tax_id|ATU61190794]], und
-3. [[organization|Caetano Agrar KG]], FN [[company_register_number|FN 238876p]], UID [[tax_id|ATU90890402]],
+1. [[organization|Heindl Consulting e.U.]], [[address|Thürheimerstraße 10/10, 5161 Elixhausen]], [[company_register_number|FN 234167p]], UID [[tax_id|ATU68888581]],
+2. [[organization|Grabner GmbH]], [[address|Bismarckstraße 80, 5452 Pfarrwerfen]], [[company_register_number|FN 250342a]], UID [[tax_id|ATU61190794]], und
+3. [[organization|Caetano Agrar KG]], [[company_register_number|FN 238876p]], UID [[tax_id|ATU90890402]],
 
 alle vertreten durch [[lawyer|MBA Doreen Mairhofer]],
 

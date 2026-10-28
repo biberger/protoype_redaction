@@ -12,14 +12,14 @@ abgeschlossen am [[date|9. Oktober 2026]] in [[location|Sankt Michael im Burgenl
 1. Vertragsparteien
 
 Verkäuferin:
-[[organization|Knoll Gastro GmbH & Co KG]], FN [[company_register_number|FN 191718p]], UID [[tax_id|ATU89119757]], vertreten durch die Geschäftsführerin [[person|DI Chiara Krieger]]
+[[organization|Knoll Gastro GmbH & Co KG]], [[company_register_number|FN 191718p]], UID [[tax_id|ATU89119757]], vertreten durch die Geschäftsführerin [[person|DI Chiara Krieger]]
 
 Käufer:
 1. Herr [[person|David Bittner]], wohnhaft [[address|Weinheberstraße 8, 7535 Sankt Michael im Burgenland]], Versicherungsnummer [[social_security_number|5198 120480]]
 2. Frau [[person|Gretel Kren]], ebendort, gemeinsam mit Herrn [[person|Bittner]] als Mitkäuferin
 
 Vermittlerin und Übergabestelle:
-[[organization|Rauch Autohaus AG]], FN [[company_register_number|FN 205405t]], UID [[tax_id|ATU05155838]], vertreten durch [[person|Mag. Riccardo Eigner]], Verkaufsleiter
+[[organization|Rauch Autohaus AG]], [[company_register_number|FN 205405t]], UID [[tax_id|ATU05155838]], vertreten durch [[person|Mag. Riccardo Eigner]], Verkaufsleiter
 
 2. Kaufgegenstand
 
@@ -27,7 +27,7 @@ Gegenstand des Kaufes ist ein Kombi Volkswagen Caddy, Erstzulassung am [[date|4.
 
 3. Kaufpreis und Zahlung
 
-Der Kaufpreis beträgt EUR 14.900,00 inklusive Umsatzsteuer. Die Zahlung erfolgt über die [[organization|Gaivão & Thiele OG]], FN [[company_register_number|FN 624347h]], UID [[tax_id|ATU84120764]], als Treuhänderin. Die Treuhänderin wird den Kaufpreis nach Übergabe und Zulassung auf das Konto [[bank_account|AT75 6484 3611 6173 3107]] der Verkäuferin überweisen.
+Der Kaufpreis beträgt EUR 14.900,00 inklusive Umsatzsteuer. Die Zahlung erfolgt über die [[organization|Gaivão & Thiele OG]], [[company_register_number|FN 624347h]], UID [[tax_id|ATU84120764]], als Treuhänderin. Die Treuhänderin wird den Kaufpreis nach Übergabe und Zulassung auf das Konto [[bank_account|AT75 6484 3611 6173 3107]] der Verkäuferin überweisen.
 
 Die Käufer haben den Kaufpreis bis spätestens [[date|16. Oktober 2026]] auf das Treuhandkonto einzuzahlen. Bei verspäteter Zahlung ist die Verkäuferin berechtigt, vom Vertrag zurückzutreten, nachdem eine Nachfrist von 14 Tagen erfolglos verstrichen ist.
 

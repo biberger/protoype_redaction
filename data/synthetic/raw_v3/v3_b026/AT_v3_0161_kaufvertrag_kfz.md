@@ -8,16 +8,16 @@ KAUFVERTRAG ÜBER EIN KRAFTFAHRZEUG
 abgeschlossen zwischen
 
 Verkäuferin:
-[[organization|Auinger Agrar e.U.]], FN [[company_register_number|FN 644691a]], UID-Nr. [[tax_id|ATU20335199]], vertreten durch die Inhaberin [[person|Katharina Brem]],
+[[organization|Auinger Agrar e.U.]], [[company_register_number|FN 644691a]], UID-Nr. [[tax_id|ATU20335199]], vertreten durch die Inhaberin [[person|Katharina Brem]],
 
 und
 
 Käuferin:
 [[person|Gunhild Payer]], Sozialversicherungsnummer [[social_security_number|5476 220896]], wohnhaft in [[address|Simonweg 30, 4532 Rohr im Kremstal]],
 
-Vorbesitzerin laut Zulassungsschein ist die [[organization|Ghulam Agrar GmbH]], FN [[company_register_number|FN 438047m]], UID-Nr. [[tax_id|ATU88362110]], vertreten durch den Geschäftsführer [[person|DI Flori Boesch]].
+Vorbesitzerin laut Zulassungsschein ist die [[organization|Ghulam Agrar GmbH]], [[company_register_number|FN 438047m]], UID-Nr. [[tax_id|ATU88362110]], vertreten durch den Geschäftsführer [[person|DI Flori Boesch]].
 
-Die [[organization|Rohrmoser GmbH & Co KG]], FN [[company_register_number|FN 81680v]], UID-Nr. [[tax_id|ATU56948780]], vertreten durch [[person|Dr. med. Mathäus Häupl]], hat als Pfandgläubigerin eine Lastenfreiheitserklärung ausgestellt.
+Die [[organization|Rohrmoser GmbH & Co KG]], [[company_register_number|FN 81680v]], UID-Nr. [[tax_id|ATU56948780]], vertreten durch [[person|Dr. med. Mathäus Häupl]], hat als Pfandgläubigerin eine Lastenfreiheitserklärung ausgestellt.
 
 I. Vertragsgegenstand
 
@@ -57,7 +57,7 @@ V. Fahrzeugdaten und Vorbesitz
 
 Die Kaufvertragsparteien halten fest, dass die Zulassung des Fahrzeugs auf die Käuferin erst nach vollständiger Zahlung des Kaufpreises beantragt werden darf. Bis dahin verbleibt das Fahrzeug auf dem Hof der Verkäuferin, sofern nichts anderes vereinbart wird.
 
-1. Das Fahrzeug war bisher auf die [[organization|Ghulam Agrar GmbH]], FN [[company_register_number|FN 438047m]], zugelassen. Die Erstzulassung erfolgte am [[date|17.03.2021]] bei der [[organization|BH Kirchdorf]].
+1. Das Fahrzeug war bisher auf die [[organization|Ghulam Agrar GmbH]], [[company_register_number|FN 438047m]], zugelassen. Die Erstzulassung erfolgte am [[date|17.03.2021]] bei der [[organization|BH Kirchdorf]].
 
 2. Die Verkäuferin übergibt das Serviceheft, die Betriebsanleitung, zwei Fahrzeugschlüssel und das Winterreifenset auf Stahlfelgen. Die Sommerreifen sind montiert.
 

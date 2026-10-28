@@ -6,7 +6,7 @@ lang: de
 [[organization|Alpen-
 land Schaden Versicherungs AG]]
 [[address|Hohenstaufengasse 14/2, 1010 Wien]]
-FN [[company_register_number|FN 173063f]], UID-Nr. [[tax_id|ATU35884619]]
+[[company_register_number|FN 173063f]], UID-Nr. [[tax_id|ATU35884619]]
 Telefon [[phone_number|+43 1 5507 2918]], E-Mail [[email|schaden@alpenland-sv.at]]
 
 Unser Zeichen: [[other_identifier|SCH-2026-004417]]

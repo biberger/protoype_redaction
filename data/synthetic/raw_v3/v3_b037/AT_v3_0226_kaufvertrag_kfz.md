@@ -9,7 +9,7 @@ abgeschlossen zwischen
 
 Verkäuferin:
 [[organization|Hampel & Allesch KG]]
-FN [[company_register_number|FN 419592y]]
+[[company_register_number|FN 419592y]]
 UID-Nr. [[tax_id|ATU33716173]]
 Sitz: [[address|Seebergasse 3,
 8992 Altaussee]]

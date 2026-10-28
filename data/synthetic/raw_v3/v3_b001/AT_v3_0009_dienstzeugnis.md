@@ -5,16 +5,16 @@ lang: de
 ---
 [[organization|Jagoda Elektro KG]]
 [[address|Molterbergweg 21, 3511 Furth bei Göttweig]]
-FN [[company_register_number|FN 396996v]], UID-Nummer [[tax_id|ATU02394514]]
+[[company_register_number|FN 396996v]], UID-Nummer [[tax_id|ATU02394514]]
 Telefon [[phone_number|+43 2732 6150 44]]
 
 Zeugnis
 
 Frau [[person|Mareen Kössler]] war vom [[date|1. März 2019]] bis zum [[date|30. September 2025]] in unserem Unternehmen als Projektkoordinatorin im Bereich Elektroinstallation beschäftigt.
 
-Zuvor war Frau [[person|Kössler]] vom [[date|1. Juli 2016]] bis zum [[date|28. Februar 2019]] bei der [[organization|Watzke KG]], [[address|Bechardgasse 4, 4371 Dimbach]], FN [[company_register_number|FN 607971a]], UID-Nummer [[tax_id|ATU73122729]], tätig. Die Geschäftsführung dieses Unternehmens oblag [[person|Hartmut Dorner]].
+Zuvor war Frau [[person|Kössler]] vom [[date|1. Juli 2016]] bis zum [[date|28. Februar 2019]] bei der [[organization|Watzke KG]], [[address|Bechardgasse 4, 4371 Dimbach]], [[company_register_number|FN 607971a]], UID-Nummer [[tax_id|ATU73122729]], tätig. Die Geschäftsführung dieses Unternehmens oblag [[person|Hartmut Dorner]].
 
-Frau [[person|Kössler]] übernahm die Planung, Terminkoordination und die technische Abnahme von Baustellen für Kunden in Niederösterreich und in [[location|Wien]]. Sie betreute unter anderem ein Großprojekt mit der [[organization|Hirschmann Fliesen GmbH]], [[address|Seitzergasse 11, 3552 Lengenfeld]], FN [[company_register_number|FN 192768h]], UID-Nummer [[tax_id|ATU44688833]], im Bezirk Lilienfeld. Die Zusammenarbeit mit dem Bauleiter [[person|Ing. Augustus Walch]] war stets zuverlässig und fachlich korrekt.
+Frau [[person|Kössler]] übernahm die Planung, Terminkoordination und die technische Abnahme von Baustellen für Kunden in Niederösterreich und in [[location|Wien]]. Sie betreute unter anderem ein Großprojekt mit der [[organization|Hirschmann Fliesen GmbH]], [[address|Seitzergasse 11, 3552 Lengenfeld]], [[company_register_number|FN 192768h]], UID-Nummer [[tax_id|ATU44688833]], im Bezirk Lilienfeld. Die Zusammenarbeit mit dem Bauleiter [[person|Ing. Augustus Walch]] war stets zuverlässig und fachlich korrekt.
 
 Frau [[person|Kössler]] hat die ihr übertragenen Aufgaben stets selbständig, termingerecht und mit hoher Sorgfalt erledigt. Sie verfügt über ein ausgeprägtes Verständnis für wirtschaftliche Zusammenhänge und hat die Budgetüberwachung für mehrere Projekte eigenverantwortlich geführt. Ihr Verhalten gegenüber Kunden, Kolleginnen und Kollegen war jederzeit einwandfrei.
 

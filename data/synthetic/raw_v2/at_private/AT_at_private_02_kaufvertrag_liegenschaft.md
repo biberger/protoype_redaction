@@ -57,7 +57,7 @@ V. Gewährleistung und Haftung
 
 VI. Grundbuch und Durchführung
 
-1. Die Vertragsparteien beantragen die Einverleibung des Eigentumsrechts für die Käuferin. Der Antrag ist vom Notar [[lawyer|Dr. Sebastian Kraus]] beim [[court|Bezirksgericht Gmunden]] einzubringen; Grundbuchs-TZ [[case_number|TZ 4412/2025]].
+1. Die Vertragsparteien beantragen die Einverleibung des Eigentumsrechts für die Käuferin. Der Antrag ist vom Notar [[lawyer|Dr. Sebastian Kraus]] beim [[court|Bezirksgericht Gmunden]] einzubringen; Grundbuch [[case_number|TZ 4412/2025]].
 
 2. Die Käuferin erteilt Herrn [[person|Kern]] und Frau [[person|Okafor]] Vollmacht, alle zur Durchführung erforderlichen Erklärungen abzugeben. Diese Vollmacht ist unwiderruflich bis zur Einverleibung.
 

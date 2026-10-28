@@ -6,7 +6,7 @@ lang: de
 [[organization|Thöni Software GmbH]]
 [[address|Worathweg 4/16,
 2393 Sparbach]]
-FN [[company_register_number|FN 550372x]], UID [[tax_id|ATU93550639]]
+[[company_register_number|FN 550372x]], UID [[tax_id|ATU93550639]]
 
 [[location|Sparbach]], am [[date|14. Oktober 2026]]
 
@@ -56,5 +56,5 @@ Zustellung auf Wunsch der Dienstnehmerin an:
 
 1. [[person|Karla Grgic]], [[address|Lokalbahnweg 6, 4407 Dietach]] (Dienstnehmerin, Original)
 2. [[organization|Sass Metallbau GmbH & Co KG]], [[address|Michlbauernweg 24,
-2154 Unterstinkenbrunn]], FN [[company_register_number|FN 137057f]], UID [[tax_id|ATU47212118]] (potenzielle Arbeitgeberin, Kopie)
+2154 Unterstinkenbrunn]], [[company_register_number|FN 137057f]], UID [[tax_id|ATU47212118]] (potenzielle Arbeitgeberin, Kopie)
 3. Rechtsanwalt [[lawyer|Nasser Shirzad]], Rechtsvertreter der Dienstnehmerin (Kopie)

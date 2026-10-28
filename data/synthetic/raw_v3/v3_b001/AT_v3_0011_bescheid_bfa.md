@@ -35,7 +35,7 @@ I. Verfahrensgang
 
 Die Erstantragstellerin [[person|Pollaczek]] stellte am [[date|3. Juni 2025]] einen Antrag auf internationalen Schutz. Die Erstbefragung fand am [[date|4. Juni 2025]] statt. Die Zweit- und Drittantragstellerin wurden als Familienangehörige in das Verfahren einbezogen.
 
-Die Antragstellerinnen waren bis zu ihrer Ausreise bei der [[organization|Hagg Handels GmbH]], FN [[company_register_number|FN 92075f]], UID-Nummer [[tax_id|ATU19479017]], als Verkaufshilfe beschäftigt. Die Gewerbeberechtigung der [[organization|Kahl e.U.]], FN [[company_register_number|FN 545718b]], UID-Nummer [[tax_id|ATU79379110]], war ebenfalls Gegenstand der Ermittlungen. Die [[organization|Schwartz & Senn AG]], FN [[company_register_number|FN 617943s]], UID-Nummer [[tax_id|ATU42878775]], hat die Arbeitsbescheinigung ausgestellt.
+Die Antragstellerinnen waren bis zu ihrer Ausreise bei der [[organization|Hagg Handels GmbH]], [[company_register_number|FN 92075f]], UID-Nummer [[tax_id|ATU19479017]], als Verkaufshilfe beschäftigt. Die Gewerbeberechtigung der [[organization|Kahl e.U.]], [[company_register_number|FN 545718b]], UID-Nummer [[tax_id|ATU79379110]], war ebenfalls Gegenstand der Ermittlungen. Die [[organization|Schwartz & Senn AG]], [[company_register_number|FN 617943s]], UID-Nummer [[tax_id|ATU42878775]], hat die Arbeitsbescheinigung ausgestellt.
 
 Die Einvernahme der Erstantragstellerin erfolgte am [[date|11. Februar 2026]] im Beisein des Dolmetschers [[person|Herbert Miksch]]. [[person|Miksch]] übersetzte die Angaben wortgetreu und bestätigte die Richtigkeit des Protokolls.
 

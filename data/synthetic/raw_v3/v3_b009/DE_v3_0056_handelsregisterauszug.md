@@ -5,7 +5,7 @@ lang: de
 ---
 **Handelsregister** — Abruf vom [[date|14.09.2026]]
 
-Amtsgericht [[court|Amtsgericht Hannover]]
+[[court|Amtsgericht Hannover]]
 
 Registerblatt: [[company_register_number|HRB 227775]]
 

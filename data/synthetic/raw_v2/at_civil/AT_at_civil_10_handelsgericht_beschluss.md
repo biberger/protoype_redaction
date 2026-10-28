@@ -21,7 +21,7 @@ Die Frist zur Anmeldung von Forderungen endet am [[date|30. Juni 2025]]. Die Pr�
 
 Gründe
 
-Der Insolvenzantrag der Gläubigerin [[organization|Hanse Leasing Austria GmbH]], [[address|Lassallestraße 9, 1020 Wien]], vertreten durch [[lawyer|Mag. Stefanie Rauscher]], ist am [[date|14.03.2025]] eingelangt. Die Gläubigerin stützt den Antrag auf die Zahlungsunfähigkeit der Schuldnerin, die seit dem [[date|1. Dezember 2024]] fällige Verbindlichkeiten von insgesamt 412.380 EUR nicht mehr bedienen könne. Das Finanzamt [[organization|Finanzamt Wien 1/23]] hat einen Rückstand an Umsatzsteuer von 61.204 EUR bestätigt.
+Der Insolvenzantrag der Gläubigerin [[organization|Hanse Leasing Austria GmbH]], [[address|Lassallestraße 9, 1020 Wien]], vertreten durch [[lawyer|Mag. Stefanie Rauscher]], ist am [[date|14.03.2025]] eingelangt. Die Gläubigerin stützt den Antrag auf die Zahlungsunfähigkeit der Schuldnerin, die seit dem [[date|1. Dezember 2024]] fällige Verbindlichkeiten von insgesamt 412.380 EUR nicht mehr bedienen könne. Das [[organization|Finanzamt Wien 1/23]] hat einen Rückstand an Umsatzsteuer von 61.204 EUR bestätigt.
 
 Die Schuldnerin hat den Antrag nicht bestritten, aber eine Eigenantragsfrist und eine Sanierungsperspektive geltend gemacht. Die Geschäftsführerin [[person|Monika Kreuzer]] hat am [[date|20.03.2025]] schriftlich erklärt, dass sie einen Sanierungsplan vorbereite. Der Sanierungsplan wurde jedoch nicht innerhalb der gesetzten Frist vorgelegt und die Mindestquote von 20 % nicht glaubhaft gemacht.
 

@@ -5,7 +5,7 @@ lang: de
 ---
 [[organization|Zifferer GmbH]], Schadenabteilung
 [[address|Schedifkaplatz 12, 8510 Stainztal]]
-FN [[company_register_number|FN 89541d]], UID-Nummer [[tax_id|ATU70771346]]
+[[company_register_number|FN 89541d]], UID-Nummer [[tax_id|ATU70771346]]
 Telefon [[phone_number|+43 3457 2210 36]]
 
 Unser Zeichen: SA/KH-2291

@@ -12,7 +12,7 @@ Sehr geehrte Frau [[person|Barth]],
 
 vielen Dank für Ihren Anruf vom [[date|2. März 2026]] unter der Nummer [[phone_number|+43 664 1288 471]]. Wie besprochen fasse ich den Stand der Angelegenheit zusammen.
 
-Die [[organization|Stocker & Friedrich e.U.]], FN [[company_register_number|FN 201221p]], UID-Nr. [[tax_id|ATU51102024]], [[address|Merianweg 2/1, 846O Ehrenhausen an der Weinstraße]], hat mit Schreiben vom [[date|20. Februar 2026]] einen Vergleichsvorschlag übermittelt. Der Vorschlag wurde von [[person|Ing. Gabriel Leitner]] unterzeichnet. Der Inhalt lautet im Wesentlichen wie folgt:
+Die [[organization|Stocker & Friedrich e.U.]], [[company_register_number|FN 201221p]], UID-Nr. [[tax_id|ATU51102024]], [[address|Merianweg 2/1, 846O Ehrenhausen an der Weinstraße]], hat mit Schreiben vom [[date|20. Februar 2026]] einen Vergleichsvorschlag übermittelt. Der Vorschlag wurde von [[person|Ing. Gabriel Leitner]] unterzeichnet. Der Inhalt lautet im Wesentlichen wie folgt:
 
 1. Rückzahlung des Kautionsbetrags von 4.800,00 EUR binnen 30 Tagen auf das Konto [[bank_account|AT50 4087 9801 0101 4428]].
 2. Verzicht auf Schadenersatzansprüche wegen der verspäteten Übergabe am [[date|1. Februar 2026]].
@@ -20,7 +20,7 @@ Die [[organization|Stocker & Friedrich e.U.]], FN [[company_register_number|FN 2
 
 Ich halte Punkt 2 für nicht ausreichend. Nach [[legal_norm|§ 1096 Abs 1 ABGB]] ist der Vermieter verpflichtet, den Bestandgegenstand in brauchbarem Zustand zu übergeben. Die Zeugin [[person|Berte Mohr]] hat bestätigt, dass die Schlüssel erst am [[date|9. Februar 2026]] übergeben wurden. Die Hausverwalterin [[person|Kunigunde Koll]] hat dies zunächst bestritten, später aber korrigiert. [[person|Koll]] hat dabei auf das Übergabeprotokoll verwiesen.
 
-Die Aussage der [[person|Mohr]] ist für uns wesentlich. Sie hat auch angegeben, dass [[person|Lilith Wolf MBA]], Prokuristin der [[organization|Atienza & Jahn GmbH]], FN [[company_register_number|FN 304262w]], UID-Nr. [[tax_id|ATU03042288]], die Übergabe persönlich veranlasst hat. Die Adresse der Gesellschaft lautet [[address|Linifeldstraße 8, 2231 Strasshof an der Nord-
+Die Aussage der [[person|Mohr]] ist für uns wesentlich. Sie hat auch angegeben, dass [[person|Lilith Wolf MBA]], Prokuristin der [[organization|Atienza & Jahn GmbH]], [[company_register_number|FN 304262w]], UID-Nr. [[tax_id|ATU03042288]], die Übergabe persönlich veranlasst hat. Die Adresse der Gesellschaft lautet [[address|Linifeldstraße 8, 2231 Strasshof an der Nord-
 bahn]]. [[person|Wolf]] hat den Termin in ihrem Kalender vermerkt; der Eintrag ist mit [[date|4. Februar 2026]] datiert.
 
 [[person|Dr. med. Borris Paar]], der die Räume im Jänner besichtigt hat, wird als Sachverständiger für die Feuchtigkeitsschäden benannt. [[person|Paar]] hat am [[date|12. Februar 2026]] ein kurzes Gutachten erstellt, das ich Ihnen als Anlage beifüge. Die Anlage enthält eine Befundliste, die ich hier nicht wiederhole.

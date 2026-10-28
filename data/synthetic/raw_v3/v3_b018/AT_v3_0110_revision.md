@@ -33,4 +33,4 @@ Die Revisionswerberin beantragt Verfahrenshilfe nach [[legal_norm|§ 61 VwGG]]. 
 
 Die Eingabegebühr wurde auf das Konto [[bank_account|AT81 2230 4728 5070 2744]] entrichtet.
 
-Sankt Gallenkirch, am [[date|2. August 2026]]
+[[location|Sankt Gallenkirch]], am [[date|2. August 2026]]

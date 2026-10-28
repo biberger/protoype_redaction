@@ -7,7 +7,7 @@ KAUFVERTRAG ÜBER EINE LIEGENSCHAFT
 
 abgeschlossen zwischen
 
-1. Verkäuferin: [[organization|Hadjar Textil OG]], FN [[company_register_number|FN 571636t]], UID [[tax_id|ATU00373336]], [[address|Fasanengasse 26/5, 3722 Straning-Grafenberg]], vertreten durch die Geschäftsführerin [[person|Marcela Rauch]];
+1. Verkäuferin: [[organization|Hadjar Textil OG]], [[company_register_number|FN 571636t]], UID [[tax_id|ATU00373336]], [[address|Fasanengasse 26/5, 3722 Straning-Grafenberg]], vertreten durch die Geschäftsführerin [[person|Marcela Rauch]];
 
 2. Käufer: [[person|Robin Schalk]] und [[person|Tim Scheucher]], je zu einem Drittel;
 
@@ -17,7 +17,7 @@ I. Vertragsgegenstand
 
 Die Verkäuferin ist Eigentümerin der Liegenschaft [[land_register_id|EZ 2211]] des Grundbuchs [[land_register_id|KG 45127 Kefermarkt]], bestehend aus dem Grundstück [[land_register_id|Gst-Nr. 211/3]] samt aufstehendem Lagergebäude.
 
-Die Verkäuferin verkauft die Liegenschaft an die Käufer. Die Lagerhalle ist an die [[organization|Fessler Transport GmbH]], FN [[company_register_number|FN 101924p]], UID [[tax_id|ATU79341071]], vermietet. Die Mieterin verzichtet auf ihr Vorkaufsrecht. Die [[organization|Kupfer KG]], FN [[company_register_number|FN 316329s]], UID [[tax_id|ATU32059839]], [[address|Europaratsallee 22, 4144 Oberkappel]], hat ebenfalls auf ein Vorkaufsrecht verzichtet.
+Die Verkäuferin verkauft die Liegenschaft an die Käufer. Die Lagerhalle ist an die [[organization|Fessler Transport GmbH]], [[company_register_number|FN 101924p]], UID [[tax_id|ATU79341071]], vermietet. Die Mieterin verzichtet auf ihr Vorkaufsrecht. Die [[organization|Kupfer KG]], [[company_register_number|FN 316329s]], UID [[tax_id|ATU32059839]], [[address|Europaratsallee 22, 4144 Oberkappel]], hat ebenfalls auf ein Vorkaufsrecht verzichtet.
 
 II. Kaufpreis
 

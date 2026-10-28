@@ -77,7 +77,7 @@ Gegen dieses Urteil steht den Parteien die Berufung an das [[court|Oberlandesger
 
 Die Zustellung des Urteils an die Parteien erfolgt durch die Geschäftsstelle. Die Kontoverbindung der klagenden Partei für die Zahlung lautet [[bank_account|AT59 2527 9273 7795 4960]], die Sozialversicherungsnummer ist [[social_security_number|7327 020320]].
 
-Die Gesellschaft [[organization|Altmann KG]] (FN [[company_register_number|FN 435918g]], UID [[tax_id|ATU17697696]]), die [[organization|Bormann AG]] (FN [[company_register_number|FN 159824k]], UID [[tax_id|ATU41671142]]) und die [[organization|Schwartz Autohaus AG]] (FN [[company_register_number|FN 640271a]], UID [[tax_id|ATU08648793]]) sind im Urteil als Parteien oder Beteiligte genannt.
+Die Gesellschaft [[organization|Altmann KG]] ([[company_register_number|FN 435918g]], UID [[tax_id|ATU17697696]]), die [[organization|Bormann AG]] ([[company_register_number|FN 159824k]], UID [[tax_id|ATU41671142]]) und die [[organization|Schwartz Autohaus AG]] ([[company_register_number|FN 640271a]], UID [[tax_id|ATU08648793]]) sind im Urteil als Parteien oder Beteiligte genannt.
 
 Die Richterin des [[court|Arbeits- und Sozialgerichts Graz]]
 

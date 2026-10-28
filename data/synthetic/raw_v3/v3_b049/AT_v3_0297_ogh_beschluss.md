@@ -7,7 +7,7 @@ lang: de
 
 GZ [[case_number|3 Ob 118/26k]]
 
-Der [[court|Oberste Gerichtshof]] hat als Revisionsrekursgericht durch den Hofrat [[judge|Sebald Stauber]] als Vorsitzenden sowie die Hofrätin [[judge|MMag. Markéta Šťastný]] und den Hofrat [[judge|Valentin Burtscher]] als weitere Richter in der Exekutionssache der betreibenden Partei [[organization|Lach Textil GmbH]], FN [[company_register_number|FN 648174y]], UID-Nr. [[tax_id|ATU35971668]], vertreten durch [[lawyer|Aribert Aberer]], Rechtsanwalt in [[location|Wien]], gegen die verpflichtete Partei [[person|B***** S*****]], wohnhaft [[address|Kandlerweg 4/1, 8593 Graden]], über den außerordentlichen Revisionsrekurs der verpflichteten Partei gegen den Beschluss des [[court|Landesgerichts Korneuburg]] als Rekursgericht vom [[date|11. August 2026]], GZ [[case_number|17 R 52/26b]], in nichtöffentlicher Sitzung den
+Der [[court|Oberste Gerichtshof]] hat als Revisionsrekursgericht durch den Hofrat [[judge|Sebald Stauber]] als Vorsitzenden sowie die Hofrätin [[judge|MMag. Markéta Šťastný]] und den Hofrat [[judge|Valentin Burtscher]] als weitere Richter in der Exekutionssache der betreibenden Partei [[organization|Lach Textil GmbH]], [[company_register_number|FN 648174y]], UID-Nr. [[tax_id|ATU35971668]], vertreten durch [[lawyer|Aribert Aberer]], Rechtsanwalt in [[location|Wien]], gegen die verpflichtete Partei [[person|B***** S*****]], wohnhaft [[address|Kandlerweg 4/1, 8593 Graden]], über den außerordentlichen Revisionsrekurs der verpflichteten Partei gegen den Beschluss des [[court|Landesgerichts Korneuburg]] als Rekursgericht vom [[date|11. August 2026]], GZ [[case_number|17 R 52/26b]], in nichtöffentlicher Sitzung den
 
 Beschluss
 
@@ -17,7 +17,7 @@ Der außerordentliche Revisionsrekurs der verpflichteten Partei wird zurückgewi
 
 Begründung:
 
-Die betreibende Partei erwirkte am [[date|20. März 2026]] beim [[court|Bezirksgericht Hollabrunn]] die Bewilligung der Forderungsexekution zur Hereinbringung eines Betrags von 4.870 Euro samt Anhang. Gepfändet wurde das Arbeitseinkommen der verpflichteten Partei gegenüber der Drittschuldnerin [[organization|Seiwald KG]], FN [[company_register_number|FN 457517w]], UID-Nr. [[tax_id|ATU98660840]], mit Sitz [[address|Schrottgießergasse 16, 2054 Alberndorf im Pulkautal]]. Die Drittschuldnerin wird durch [[person|E***** L*****]] und [[person|P***** van der H*****]] vertreten.
+Die betreibende Partei erwirkte am [[date|20. März 2026]] beim [[court|Bezirksgericht Hollabrunn]] die Bewilligung der Forderungsexekution zur Hereinbringung eines Betrags von 4.870 Euro samt Anhang. Gepfändet wurde das Arbeitseinkommen der verpflichteten Partei gegenüber der Drittschuldnerin [[organization|Seiwald KG]], [[company_register_number|FN 457517w]], UID-Nr. [[tax_id|ATU98660840]], mit Sitz [[address|Schrottgießergasse 16, 2054 Alberndorf im Pulkautal]]. Die Drittschuldnerin wird durch [[person|E***** L*****]] und [[person|P***** van der H*****]] vertreten.
 
 Die Drittschuldnererklärung führt die Versicherungsnummer [[social_security_number|4751 020633]] der verpflichteten Partei an und bestätigt ein monatliches Nettoeinkommen oberhalb der Pfändungsgrenze. Die Drittschuldnerin hat die gepfändeten Beträge an die betreibende Partei auf das Konto [[bank_account|AT42 9794 3805 9743 9092]] zu überweisen.
 

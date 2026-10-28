@@ -29,7 +29,7 @@ I. Sachverhalt, Antrag und Vorverfahren
 
 4. Die Beschwerdeführerin, die [[organization|Schwarzbauer GmbH]], trat dem Antrag entgegen. Die Beschwerdeführerin brachte vor, die Bestimmung sei klar und verhältnismäßig. [[person|MBA Sixt Traxl]] vertrat in der Verhandlung die Interessen der Oberösterreichischen Landesregierung, [[person|MBA Radomíra Pištěk]] jene der Gemeinde.
 
-Die [[organization|Schwarzbauer GmbH]] (FN [[company_register_number|FN 97846t]], UID [[tax_id|ATU46048361]]) ist im Firmenbuch des [[court|Landesgerichts Linz]] eingetragen. Ihr Unternehmensgegenstand ist der Handel mit Holzwerkstoffen. Die Lagerhalle dient der Zwischenlagerung dieser Produkte.
+Die [[organization|Schwarzbauer GmbH]] ([[company_register_number|FN 97846t]], UID [[tax_id|ATU46048361]]) ist im Firmenbuch des [[court|Landesgerichts Linz]] eingetragen. Ihr Unternehmensgegenstand ist der Handel mit Holzwerkstoffen. Die Lagerhalle dient der Zwischenlagerung dieser Produkte.
 
 5. In der mündlichen Verhandlung am [[date|17. März 2026]] wurde eine Lärmmessung vorgelegt. Die Messung wurde am [[date|10. Februar 2026]] an der Grundstücksgrenze durchgeführt und ergab einen Dauerschallpegel unter den Richtwerten für Wohngebiete.
 

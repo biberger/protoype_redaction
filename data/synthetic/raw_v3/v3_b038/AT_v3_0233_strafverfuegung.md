@@ -9,11 +9,11 @@ Zl. [[case_number|VStV/7712/2026]]
 
 STRAFVERFÜGUNG
 
-Gegen [[person|Dr. Ingwar Hergovich]], als verantwortlicher Beauftragter gemäß [[legal_norm|§ 9 Abs 2 VStG]] der [[organization|Walde & Kautsky GmbH & Co KG]], FN [[company_register_number|FN 579137y]], UID-Nr. [[tax_id|ATU40776763]], mit Sitz in [[address|Einsiedlstraße 4, 8724 Spielberg]], vertreten durch [[lawyer|Romero Palmisano]], Rechtsanwalt in [[location|Leoben]], wird wegen einer Verwaltungsübertretung nachstehende Strafverfügung erlassen.
+Gegen [[person|Dr. Ingwar Hergovich]], als verantwortlicher Beauftragter gemäß [[legal_norm|§ 9 Abs 2 VStG]] der [[organization|Walde & Kautsky GmbH & Co KG]], [[company_register_number|FN 579137y]], UID-Nr. [[tax_id|ATU40776763]], mit Sitz in [[address|Einsiedlstraße 4, 8724 Spielberg]], vertreten durch [[lawyer|Romero Palmisano]], Rechtsanwalt in [[location|Leoben]], wird wegen einer Verwaltungsübertretung nachstehende Strafverfügung erlassen.
 
 Tatvorwurf
 
-Am [[date|12. Mai 2026]] um 7.40 Uhr lenkte [[person|Falk Toman]], wohnhaft [[address|Hannah-Arendt-Platz 12, 8171 Sankt Kathrein am Offenegg]], Sozialversicherungsnummer [[social_security_number|1690 130973]], den Lastkraftwagen mit dem Kennzeichen [[license_plate|MU-245KL]] auf der Bundesstraße B 96 im Gemeindegebiet von [[location|Spielberg]]. Der Lenker war bei der [[organization|Walde & Kautsky GmbH & Co KG]] beschäftigt. Das Fahrzeug stand im Eigentum der [[organization|Weissensteiner Installations GmbH]], FN [[company_register_number|FN 493024k]], UID-Nr. [[tax_id|ATU49201607]].
+Am [[date|12. Mai 2026]] um 7.40 Uhr lenkte [[person|Falk Toman]], wohnhaft [[address|Hannah-Arendt-Platz 12, 8171 Sankt Kathrein am Offenegg]], Sozialversicherungsnummer [[social_security_number|1690 130973]], den Lastkraftwagen mit dem Kennzeichen [[license_plate|MU-245KL]] auf der Bundesstraße B 96 im Gemeindegebiet von [[location|Spielberg]]. Der Lenker war bei der [[organization|Walde & Kautsky GmbH & Co KG]] beschäftigt. Das Fahrzeug stand im Eigentum der [[organization|Weissensteiner Installations GmbH]], [[company_register_number|FN 493024k]], UID-Nr. [[tax_id|ATU49201607]].
 
 Der Lenker hat die vorgeschriebene Ruhezeit nach [[legal_norm|Art. 7 der Verordnung (EG) Nr. 561/2006]] nicht eingehalten. Die Fahrt wurde nach einer Unterbrechung von lediglich 6 Stunden und 10 Minuten fortgesetzt.
 
@@ -23,7 +23,7 @@ Beweismittel
 
 Die Anzeige wurde am [[date|14. Mai 2026]] von [[person|GrInsp. Basch Hampel]], [[organization|Polizeiinspektion Spielberg]], erstattet. Er stellte den Fahrtenschreiber sicher und hielt die Ruhezeit anhand der Auswertung fest.
 
-Die Zulassungsbesitzerin [[person|Gerda Kaltenegger-Pock]] gab an, dass das Fahrzeug an die [[organization|Nowak & Egg AG]], FN [[company_register_number|FN 171680x]], UID-Nr. [[tax_id|ATU07305316]], überlassen worden sei. Der Transportauftrag der [[organization|Nowak & Egg AG]] sah eine Lieferung bis zum [[date|12. Mai 2026]] vor, wodurch der Zeitdruck nach Angaben des Lenkers entstanden sei.
+Die Zulassungsbesitzerin [[person|Gerda Kaltenegger-Pock]] gab an, dass das Fahrzeug an die [[organization|Nowak & Egg AG]], [[company_register_number|FN 171680x]], UID-Nr. [[tax_id|ATU07305316]], überlassen worden sei. Der Transportauftrag der [[organization|Nowak & Egg AG]] sah eine Lieferung bis zum [[date|12. Mai 2026]] vor, wodurch der Zeitdruck nach Angaben des Lenkers entstanden sei.
 
 Der Lenker [[person|Toman]] gab bei seiner Befragung am [[date|19. Mai 2026]] an, er habe die Pause wegen eines Verkehrsstaus nicht nachholen können. Ein entsprechender Nachweis liegt nicht vor. Der Rechtsvertreter [[lawyer|Palmisano]] beantragte mit Schreiben vom [[date|26. Mai 2026]] die Einstellung des Verfahrens mangels Verschuldens, da die Disposition ausschliesslich durch die Auftraggeberin erfolgt sei. Der Antrag wird abgewiesen, weil die Verantwortung für die Einsatzplanung beim verantwortlichen Beauftragten liegt. Die Auftraggeberin ist nicht Adressatin dieser Verwaltungsübertretung, weshalb sie im Verfahren nur als Zeugin in Betracht kommt.
 

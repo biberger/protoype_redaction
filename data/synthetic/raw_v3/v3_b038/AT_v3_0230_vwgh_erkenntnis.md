@@ -19,7 +19,7 @@ Eine allfällige Rückzahlung der Eingabengebühr ist auf das Konto [[bank_accou
 
 Begründung
 
-1. Der Revisionswerber war seit dem [[date|1. Juli 2023]] bei der [[organization|Eigner & Kohler OG]], FN [[company_register_number|FN 386208d]], UID-Nr. [[tax_id|ATU70958779]], mit Sitz in [[address|Michael Gamper-Straße 2/12,
+1. Der Revisionswerber war seit dem [[date|1. Juli 2023]] bei der [[organization|Eigner & Kohler OG]], [[company_register_number|FN 386208d]], UID-Nr. [[tax_id|ATU70958779]], mit Sitz in [[address|Michael Gamper-Straße 2/12,
 3911 Rappot-
 tenstein]] beschäftigt. Versicherungsnummer [[social_security_number|7965 070971]]. Die Geschäftsführerin [[person|Mag. V***** C*****]] der Arbeitgeberin gab an, der Revisionswerber sei als freier Dienstnehmer tätig gewesen.
 

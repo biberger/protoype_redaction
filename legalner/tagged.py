@@ -249,6 +249,11 @@ def lint(text, spans, fname):
                 label == "legal_norm":
             line = text.count("\n", 0, s) + 1
             warnings.append(f"{fname}:{line}: article inside {label} span {surface!r}")
+    for label, s, e, surface in spans:
+        first = surface.split()[0] if " " in surface else ""
+        if re.fullmatch(r"[A-Z]{2,6}", first) and re.search(r"(?<!\w)" + re.escape(first) + r"[ \t]*$", text[max(0, s - len(first) - 2):s]):
+            line = text.count("\n", 0, s) + 1
+            warnings.append(f"{fname}:{line}: {first!r} repeated before span {surface!r}")
     acts = act_names(surface for label, _, _, surface in spans if label == "legal_norm")
     for s, e, name in find_untagged(text, covered, acts):
         line = text.count("\n", 0, s) + 1

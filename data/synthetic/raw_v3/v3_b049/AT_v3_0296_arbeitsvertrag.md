@@ -7,7 +7,7 @@ ARBEITSVERTRAG
 
 abgeschlossen zwischen
 
-1. [[organization|Kirchmair Gastro KG]], FN [[company_register_number|FN 389727d]], UID-Nr. [[tax_id|ATU84647027]], mit Sitz in [[address|Moltkestraße 11/19,
+1. [[organization|Kirchmair Gastro KG]], [[company_register_number|FN 389727d]], UID-Nr. [[tax_id|ATU84647027]], mit Sitz in [[address|Moltkestraße 11/19,
 6060 Hall in Tirol]], vertreten durch [[person|Anna-Lena Pfaundler]], Betriebsleiterin (im Folgenden „Dienstgeberin“),
 
 und
@@ -16,9 +16,9 @@ und
 
 Präambel
 
-Die Dienstgeberin betreibt in [[location|Hall in Tirol]] einen Gastronomiebetrieb. Die Betriebsräume der Betriebsstätte [[address|Raubergasse 11/8, 8510 Stallhof]] stehen auf Grundlage eines Mietvertrags der [[organization|Färber OG]], FN [[company_register_number|FN 466803a]], UID-Nr. [[tax_id|ATU84561591]], zur Verfügung. Die [[organization|Färber OG]] wird durch ihren geschäftsführenden Gesellschafter [[person|Manuele Fellinger]] vertreten.
+Die Dienstgeberin betreibt in [[location|Hall in Tirol]] einen Gastronomiebetrieb. Die Betriebsräume der Betriebsstätte [[address|Raubergasse 11/8, 8510 Stallhof]] stehen auf Grundlage eines Mietvertrags der [[organization|Färber OG]], [[company_register_number|FN 466803a]], UID-Nr. [[tax_id|ATU84561591]], zur Verfügung. Die [[organization|Färber OG]] wird durch ihren geschäftsführenden Gesellschafter [[person|Manuele Fellinger]] vertreten.
 
-Die Dienstnehmerin war zuvor vom [[date|1. März 2021]] bis [[date|30. Juni 2026]] bei der [[organization|Pollaczek Fliesen KG]], FN [[company_register_number|FN 91596a]], UID-Nr. [[tax_id|ATU92009442]], beschäftigt. Die Vertragserrichtung erfolgte unter Mitwirkung von [[lawyer|Annegret Gutmann]], Rechtsanwältin in [[location|Innsbruck]].
+Die Dienstnehmerin war zuvor vom [[date|1. März 2021]] bis [[date|30. Juni 2026]] bei der [[organization|Pollaczek Fliesen KG]], [[company_register_number|FN 91596a]], UID-Nr. [[tax_id|ATU92009442]], beschäftigt. Die Vertragserrichtung erfolgte unter Mitwirkung von [[lawyer|Annegret Gutmann]], Rechtsanwältin in [[location|Innsbruck]].
 
 § 1 Beginn und Art des Dienstverhältnisses
 

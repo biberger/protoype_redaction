@@ -7,15 +7,15 @@ VOLLMACHT
 
 Vollmachtgeber:
 
-[[person|Dix Rosen]], Inhaber der [[organization|Riegel & Krainz e.U.]], FN [[company_register_number|FN 424029y]], UID-Nr. [[tax_id|ATU83930203]], mit Sitz in [[address|Kettenbrückengasse 3/5, 8563 Grabenwarth]]
+[[person|Dix Rosen]], Inhaber der [[organization|Riegel & Krainz e.U.]], [[company_register_number|FN 424029y]], UID-Nr. [[tax_id|ATU83930203]], mit Sitz in [[address|Kettenbrückengasse 3/5, 8563 Grabenwarth]]
 
 Bevollmächtigte:
 
-[[person|Anette Neugebauer]], Prokuristin der [[organization|Eisinger Installations GmbH]], FN [[company_register_number|FN 440465v]], UID-Nr. [[tax_id|ATU85928444]], mit Sitz in [[address|Gottfried-Keller-Gasse 6, 8225 Rabenwald]]
+[[person|Anette Neugebauer]], Prokuristin der [[organization|Eisinger Installations GmbH]], [[company_register_number|FN 440465v]], UID-Nr. [[tax_id|ATU85928444]], mit Sitz in [[address|Gottfried-Keller-Gasse 6, 8225 Rabenwald]]
 
 1. Vollmachtserteilung
 
-Der Vollmachtgeber erteilt der Bevollmächtigten hiermit Vollmacht, ihn in allen Angelegenheiten zu vertreten, die sich aus dem Bauvorhaben der [[organization|Zeradine & Magnan KG]], FN [[company_register_number|FN 59659i]], UID-Nr. [[tax_id|ATU10251109]], ergeben. Die Vollmacht umfasst die Abgabe und Entgegennahme von Erklärungen, die Unterfertigung von Nachträgen und die Übernahme von Mängelrügen. Insbesondere ist die Bevollmächtigte berechtigt, Baufortschrittsberichte entgegenzunehmen, Abnahmeprotokolle zu unterfertigen und Rückfragen der Bauaufsicht im Namen des Vollmachtgebers zu beantworten. Die [[organization|Riegel & Krainz e.U.]] bleibt als Auftragnehmerin Vertragspartei; die Vollmacht begründet keine Haftung der Bevollmächtigten für Leistungen, die nicht von ihr selbst erbracht werden.
+Der Vollmachtgeber erteilt der Bevollmächtigten hiermit Vollmacht, ihn in allen Angelegenheiten zu vertreten, die sich aus dem Bauvorhaben der [[organization|Zeradine & Magnan KG]], [[company_register_number|FN 59659i]], UID-Nr. [[tax_id|ATU10251109]], ergeben. Die Vollmacht umfasst die Abgabe und Entgegennahme von Erklärungen, die Unterfertigung von Nachträgen und die Übernahme von Mängelrügen. Insbesondere ist die Bevollmächtigte berechtigt, Baufortschrittsberichte entgegenzunehmen, Abnahmeprotokolle zu unterfertigen und Rückfragen der Bauaufsicht im Namen des Vollmachtgebers zu beantworten. Die [[organization|Riegel & Krainz e.U.]] bleibt als Auftragnehmerin Vertragspartei; die Vollmacht begründet keine Haftung der Bevollmächtigten für Leistungen, die nicht von ihr selbst erbracht werden.
 
 Die Vollmacht ist ausdrücklich auf die Vertretung gegenüber der [[organization|Zeradine & Magnan KG]] beschränkt. Eine Ermächtigung zur Aufnahme von Krediten oder zur Veräußerung von Liegenschaften ist nicht enthalten.
 

@@ -16,7 +16,7 @@ Die unterzeichnenden Sachverständigen [[person|MBA Lex Alexander]] und [[person
 
 I. Auftrag und Beweisfragen
 
-1. Mit Beschluss vom [[date|14. Jänner 2026]] hat das [[court|Landesgericht Leoben]] die Sachverständigen beauftragt, in dem Rechtsstreit der Klägerin [[organization|Herz & Glawischnig GmbH]], FN [[company_register_number|FN 497281x]], UID-Nr. [[tax_id|ATU37557229]], gegen die Beklagte [[organization|Geisler Handels GmbH]], FN [[company_register_number|FN 509421z]], UID-Nr. [[tax_id|ATU29947966]], ein gemeinsames Gutachten zu erstatten.
+1. Mit Beschluss vom [[date|14. Jänner 2026]] hat das [[court|Landesgericht Leoben]] die Sachverständigen beauftragt, in dem Rechtsstreit der Klägerin [[organization|Herz & Glawischnig GmbH]], [[company_register_number|FN 497281x]], UID-Nr. [[tax_id|ATU37557229]], gegen die Beklagte [[organization|Geisler Handels GmbH]], [[company_register_number|FN 509421z]], UID-Nr. [[tax_id|ATU29947966]], ein gemeinsames Gutachten zu erstatten.
 
 2. Gegenstand des Gutachtens ist das Objekt [[address|Aigengutstraße 8, 8854 Krakauschatten]]. Die Beweisfragen lauten:
 

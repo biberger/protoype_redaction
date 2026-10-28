@@ -3,7 +3,7 @@ doc_type: handelsregisterauszug
 jurisdiction: DE
 lang: de
 ---
-Amtsgericht [[court|Amtsgericht Charlottenburg]] – Handelsregister
+[[court|Amtsgericht Charlottenburg]] – Handelsregister
 
 Aktueller Abdruck – Stand [[date|3. Februar 2026]], 10:42 Uhr
 

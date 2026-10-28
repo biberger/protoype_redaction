@@ -29,7 +29,7 @@ Je suis le conseil de Monsieur [[person|Ludovico Laureys]], propriétaire de l'i
 
 Le bail a été conclu le [[date|1er septembre 2024]] entre Monsieur [[person|Laureys]], bailleur, et vous-mêmes, preneurs. Il a été conclu pour une durée de neuf ans, avec la faculté de résiliation anticipée prévue par la loi, et il porte sur les appartements numérotés 1 à 5 de l'immeuble, ainsi que sur les caves et l'emplacement de parking situés au rez-de-chaussée.
 
-Le bail a été enregistré le [[date|05.09.2024]] auprès du [[organization|Service public fédéral Finances (SPF Finances)]], bureau de Wavre. Le loyer mensuel global est fixé à 2 150 euros, auxquels s'ajoutent 380 euros de provisions pour charges de chauffage, d'eau et d'entretien des parties communes.
+Le bail a été enregistré le [[date|05.09.2024]] auprès du [[organization|Service public fédéral Finances (SPF Finances)]], bureau de [[location|Wavre]]. Le loyer mensuel global est fixé à 2 150 euros, auxquels s'ajoutent 380 euros de provisions pour charges de chauffage, d'eau et d'entretien des parties communes.
 
 Vous avez signé le bail en qualité de colocataires. Chacun de vous s'est donc engagé à payer l'intégralité du loyer et des charges, sans que la dette ne soit répartie entre vous. [[person|Van Camp]] a en outre signé une déclaration de caution solidaire, datée du [[date|1er septembre 2024]], qui couvre le loyer à hauteur de trois mois.
 
