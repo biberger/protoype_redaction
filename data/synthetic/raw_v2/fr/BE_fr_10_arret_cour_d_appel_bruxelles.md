@@ -83,6 +83,14 @@ Sur les dépens
 
 16. Les parties succombant chacune sur un chef de demande, les dépens seront compensés à concurrence de la moitié, et l'appelant sera condamné au surplus aux dépens d'appel, liquidés à l'indemnité de procédure de base visée à l'[[legal_norm|article 1017, alinéa 1er, du Code judiciaire]].
 
+Sur la clause de non-concurrence
+
+17. La clause de non-concurrence, invoquée par la société à l'appui de sa demande reconventionnelle, est limitée à deux ans après la fin des relations et au territoire défini au contrat. L'appelant soutient qu'elle est nulle en raison de son caractère disproportionné au regard de sa seule activité de promotion.
+
+18. La cour observe que la clause est limitée dans le temps et dans l'espace, qu'elle ne vise que les produits de la même catégorie et qu'elle était assortie d'une contrepartie financière sous la forme d'un supplément de commissions de deux pour cent. Elle n'est pas manifestement déraisonnable. Toutefois, la société n'ayant pas démontré que l'appelant avait effectivement exercé une activité concurrente après la rupture, la demande de dommages-intérêts fondée sur cette clause est rejetée.
+
+19. Le premier juge n'a pas statué sur cette demande reconventionnelle, qui est donc examinée pour la première fois en appel. Elle est recevable, ayant été formée dans les conclusions déposées avant la clôture des débats.
+
 IV. Dispositif
 
 Par ces motifs,
@@ -98,6 +106,8 @@ Confirme le jugement entrepris en ce qu'il a retenu l'irrégularité de la rési
 Le réforme pour le surplus et, statuant à nouveau, réduit l'indemnité compensatoire de préavis au montant de sept mois de commissions moyennes ;
 
 Déboute l'appelant de sa demande d'indemnité de rupture et de sa demande fondée sur l'[[legal_norm|article 1382 du Code civil]] ;
+
+Rejette la demande reconventionnelle de la société fondée sur la clause de non-concurrence ;
 
 Compense les dépens à concurrence de la moitié et condamne l'appelant au surplus des dépens, liquidés à l'indemnité de procédure de base de l'[[legal_norm|article 1017, alinéa 1er, du Code judiciaire]].
 
