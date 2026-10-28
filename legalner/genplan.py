@@ -168,7 +168,8 @@ def brief(gaz, rng, jur, lang, doc_type, idx, wave):
         "judges": [_person(gaz, rng, jur, "judge") for _ in range(rng.randint(1, 5) if is_court else 0)],
         "companies": [_company(gaz, rng, jur, lang) for _ in range(rng.randint(0, 3))],
         "addresses": [_address(gaz, rng, jur) for _ in range(rng.randint(1, 3))],
-        "identifiers": _identifiers(rng, jur),
+        # judgments rarely contain IBANs or social security numbers; forcing them in made texts implausible
+        "identifiers": {} if is_court else _identifiers(rng, jur),
         "pseudonymised": jur == "AT" and is_court and rng.random() < 0.2,
         "ocr_noise": rng.random() < 0.1,
         "hard_cases": rng.sample([

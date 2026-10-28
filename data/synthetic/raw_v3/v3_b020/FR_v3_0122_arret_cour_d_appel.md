@@ -18,7 +18,7 @@ M. [[person|Святослав Doroschenko]], demeurant [[address|23 montée de 
 
 INTIMÉES
 
-1. La société [[organization|Cordier Nettoyage SCI]], immatriculée au RCS de [[location|Toulouse]] sous le numéro SIREN [[company_register_number|895 594 778]], numéro de TVA intracommunautaire [[tax_id|FR67895594778]], prise en la personne de son gérant, M. [[person|Humbert Bonnefoi]], dont le siège est situé à [[location|Toulouse]]
+1. La société [[organization|Cordier Nettoyage SCI]], immatriculée au RCS de [[location|Toulouse]] sous le numéro SIREN [[company_register_number|895 594 778]] et le SIRET [[company_register_number|895 594 778 01558]], numéro de TVA intracommunautaire [[tax_id|FR67895594778]], prise en la personne de son gérant, M. [[person|Humbert Bonnefoi]], dont le siège est situé à [[location|Toulouse]]
 
 2. La société [[organization|Habitat Bieliński SASU]], immatriculée au RCS de [[location|Strasbourg]] sous le SIRET [[company_register_number|774 182 935 07804]], numéro de TVA [[tax_id|FR23774182935]]
 
@@ -46,7 +46,7 @@ Par jugement du [[date|16 décembre 2024]], le conseil de prud'hommes a débout�
 
 M. [[person|Doroschenko]] a interjeté appel le [[date|14 janvier 2025]]. Il demande à la cour d'infirmer le jugement, de dire que son licenciement est nul et de condamner solidairement les sociétés intimées au paiement de diverses sommes. Il fait valoir que son employeur n'a pas recherché de poste de reclassement au sein de la société [[organization|Habitat Bieliński SASU]], qui disposait d'un établissement à [[location|Lyon]].
 
-Les sociétés intimées concluent à la confirmation du jugement. Elles produisent l'attestation de M. [[person|Aurélien de Saint-Ruf]], directeur d'exploitation de la société [[organization|Habitat Bieliński SASU]], et celle de Mme [[person|Debora Bordet]], salariée de la société [[organization|Cordier Nettoyage SCI]], qui indique avoir été informée des recherches de reclassement effectuées.
+Les sociétés intimées concluent à la confirmation du jugement. Elles produisent l'attestation de M. [[person|Aurélien de Saint-Ruf]], directeur d'exploitation de la société [[organization|Habitat Bieliński SASU]], et celle de Mme [[person|Debora Bordet]], demeurant [[address|14 rue de Charonne, 75011 Paris]], salariée de la société [[organization|Cordier Nettoyage SCI]], qui indique avoir été informée des recherches de reclassement effectuées.
 
 MOTIFS DE LA DÉCISION
 

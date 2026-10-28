@@ -42,9 +42,9 @@ Begründung
 
 I. Sachverhalt
 
-Die Kläger sind seit dem [[date|1. Oktober 2019]] Mieter der Wohnung im zweiten Obergeschoss des Hauses [[address|Bürgermeister-Donner-Straße 4, 66424 Homburg]]. Vermieter war zunächst Herr [[person|Helm]], der die Wohnung gemeinsam mit Frau [[person|Feige]] vermietet hat. Die Kläger haben eine Kaution von 4.800,00 EUR geleistet, die auf ein Konto bei der Beklagten zu 2 eingezahlt wurde. Die Verwaltung des Hauses übernahm die Mag. [[person|Konstanze Groth]], die auch die Mietzahlungen entgegennahm.
+Die Kläger sind seit dem [[date|1. Oktober 2019]] Mieter der Wohnung im zweiten Obergeschoss des Hauses [[address|Bürgermeister-Donner-Straße 4, 66424 Homburg]]. Vermieter war zunächst Herr [[person|Helm]], der die Wohnung gemeinsam mit Frau [[person|Feige]] vermietet hat. Die Kläger haben eine Kaution von 4.800,00 EUR geleistet, die auf ein Konto bei der Beklagten zu 2 eingezahlt wurde. Die Verwaltung des Hauses übernahm die [[person|Mag. Konstanze Groth]], die auch die Mietzahlungen entgegennahm.
 
-Im Winter 2024/2025 traten in den Wohnräumen wiederholt Feuchtigkeitsschäden auf. Mit Schreiben vom [[date|14. März 2025]] zeigten die Kläger die Mängel an und forderten die Beklagten zur Beseitigung auf. Ein von den Klägern beauftragter Sachverständiger, Mag. [[person|Wenke Fleischhauer]], stellte am [[date|27. März 2025]] fest, dass die Außenwand im Bereich des Schlafzimmers ohne ausreichende Dämmung ausgeführt ist.
+Im Winter 2024/2025 traten in den Wohnräumen wiederholt Feuchtigkeitsschäden auf. Mit Schreiben vom [[date|14. März 2025]] zeigten die Kläger die Mängel an und forderten die Beklagten zur Beseitigung auf. Ein von den Klägern beauftragter Sachverständiger, [[person|Mag. Wenke Fleischhauer]], stellte am [[date|27. März 2025]] fest, dass die Außenwand im Bereich des Schlafzimmers ohne ausreichende Dämmung ausgeführt ist.
 
 Die Beklagten reagierten nicht. Mit Schreiben vom [[date|7. April 2025]] setzten die Kläger eine Frist zur Mängelbeseitigung bis zum [[date|30. Mai 2025]]. Auch nach Fristablauf unterblieb jede Maßnahme. Die Kläger haben daraufhin die Miete um 20 Prozent gemindert und die Mängelbeseitigung im Wege der Ersatzvornahme veranlasst.
 
@@ -54,7 +54,7 @@ II. Rechtliche Würdigung
 
 1. Die Beklagten haften aus [[legal_norm|§ 536 Abs. 1 BGB]] i.V.m. [[legal_norm|§ 535 Abs. 1 Satz 2 BGB]], denn die Wohnung war zur Zeit der Übergabe und während der gesamten Mietzeit mit einem Mangel behaftet, der die Tauglichkeit zum vertragsgemäßen Gebrauch aufhob. Die Minderung folgt aus [[legal_norm|§ 536 Abs. 1 Satz 1 BGB]].
 
-2. Der Schadensersatzanspruch ergibt sich aus [[legal_norm|§§ 280 Abs. 1, 281 Abs. 1 Satz 1, 249 Abs. 2 Satz 1 BGB]] sowie aus [[legal_norm|§ 823 Abs. 1 BGB]] i.V.m. [[legal_norm|§ 823 Abs. 2 BGB]] in Verbindung mit [[legal_norm|§ 16 Abs. 1 Nr. 1 MietSpG]], soweit die Feuchtigkeitsschäden das Mobiliar betreffen.
+2. Der Schadensersatzanspruch ergibt sich aus [[legal_norm|§§ 280 Abs. 1, 281 Abs. 1 Satz 1, 249 Abs. 2 Satz 1 BGB]] sowie aus [[legal_norm|§ 823 Abs. 1 BGB]], soweit die Feuchtigkeitsschäden das Mobiliar betreffen.
 
 3. Die Haftung der Beklagten als Gesamtschuldner beruht auf [[legal_norm|§ 421 Satz 1 BGB]] und [[legal_norm|§ 427 BGB]], da beide Beklagte die Wohnung gemeinsam vermietet haben. Der Anspruch auf Rückzahlung der Kaution richtet sich nach [[legal_norm|§ 551 Abs. 3 Satz 3 BGB]] i.V.m. [[legal_norm|§ 812 Abs. 1 Satz 1 BGB]].
 
@@ -64,8 +64,8 @@ III. Beweis
 
 Die Kläger bieten Beweis an durch:
 
-a) Zeugnis der Mag. [[person|Konstanze Groth]], Hausverwalterin, zu den Mängelanzeigen und zur Entgegennahme der Miete;
-b) Sachverständigengutachten des Mag. [[person|Wenke Fleischhauer]] vom [[date|27. März 2025]];
+a) Zeugnis der [[person|Mag. Konstanze Groth]], Hausverwalterin, zu den Mängelanzeigen und zur Entgegennahme der Miete;
+b) Sachverständigengutachten des [[person|Mag. Wenke Fleischhauer]] vom [[date|27. März 2025]];
 c) Parteivernehmung des Klägers [[person|Belmokhtar]] zu den Feuchtigkeitsschäden;
 d) Urkundenbeweis durch die Anlagen K 1 bis K 9, insbesondere den Versicherungsverlauf der Deutschen Rentenversicherung für den Kläger [[person|Edwin Buchwald]] mit der Rentenversicherungsnummer [[social_security_number|57 181284 T 770]].
 
@@ -73,7 +73,7 @@ IV. Vorprozessuales
 
 Die Beklagten wurden mit anwaltlichem Schreiben vom [[date|12. Juni 2026]] zur Zahlung bis zum [[date|26. Juni 2026]] aufgefordert. Eine Zahlung erfolgte nicht. Die außergerichtlichen Kosten sind nach [[legal_norm|§ 280 Abs. 1 BGB]] von den Beklagten zu erstatten.
 
-Die Klage ist zulässig. Das [[court|Landgericht Saarbrücken]] ist nach [[legal_norm|§ 23 Nr. 1 GVG]] sachlich zuständig, da der Streitwert 5.000,00 EUR übersteigt, und nach [[legal_norm|§ 29a Abs. 1 ZPO]] örtlich zuständig, weil das Mietobjekt im Bezirk des Amtsgerichts Homburg liegt.
+Die Klage ist zulässig. Das [[court|Landgericht Saarbrücken]] ist nach [[legal_norm|§ 23 Nr. 1 GVG]] sachlich zuständig, da der Streitwert 5.000,00 EUR übersteigt, und nach [[legal_norm|§ 29a Abs. 1 ZPO]] örtlich zuständig, weil das Mietobjekt im Bezirk des [[court|Amtsgerichts Homburg]] liegt.
 
 Anlagen
 
