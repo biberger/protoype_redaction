@@ -42,7 +42,8 @@ def identifier_problems(label, text, jurisdiction):
             out.append(("bad_check_digit", f"{what}: {t!r}"))
 
     m = IBAN_SHAPE.search(t)
-    if m and m.group(1)[:2] in F.IBAN_BBAN_LEN:
+    if m and m.group(1)[:2] in F.IBAN_BBAN_LEN and \
+            len(m.group(1).replace(" ", "")) == 4 + F.IBAN_BBAN_LEN[m.group(1)[:2]]:
         if label != "bank_account":
             out.append(("wrong_label", f"IBAN tagged {label}: {t!r}"))
         else:
