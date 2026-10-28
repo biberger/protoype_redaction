@@ -182,8 +182,13 @@ Next session, in order:
    LLM-audited sample before fixes, mostly missed CH-fr norms; fixed, new lint rules, `legalner.audit`).
 2. ~~Convert LER, settle legal_norm~~ done: 53,384 / 6,666 / 6,673 sentences; bare act names are
    `legal_norm` (see "legal_norm convention").
-3. Validate a build with GLiNER2's loader (`TrainingDataset.load(...).validate()`) and do a tiny
-   CPU training run on `gliner2.5-multi-v1` (a few steps) to catch format problems before renting a GPU.
+3. ~~Validate a build, tiny CPU run~~ done: all 67k examples of a full build pass
+   `TrainingDataset.validate()`; a 6-step fp32 CPU run (`--precision fp32 --num-workers 0`) trains, evaluates
+   and saves checkpoints (~27 s/step at batch 2 on 4 cores). Findings: the boundary trainer defaults to bf16
+   (use `--precision fp32` on CPU); reported losses are large (~100/step, summed); GLiNER2's default flat
+   decoding resolves overlaps **across** labels, so a judge never also comes out as `person`. Inference
+   therefore queries role labels (`judge`, `lawyer`) in a separate pass (`evaluate.predict`); production
+   inference must do the same.
 4. Baselines: evaluate `gliner2.5-multi-v1` and `gliner2-privacy-filter-PII-multi` zero-shot on
    the synthetic test split and LER test.
 5. Write the RIS fetcher against the live OGD API, with placeholder filling from gazetteers.

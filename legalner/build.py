@@ -106,6 +106,8 @@ def main(argv=None):
     ap.add_argument("--test-frac", type=float, default=0.1)
     ap.add_argument("--copies", type=int, default=1, help="augmented copies per training record")
     ap.add_argument("--max-per-source", type=int, default=0, help="cap training records per source (0 = all)")
+    ap.add_argument("--max-eval-per-source", type=int, default=0,
+                    help="cap dev/test records per source (0 = all), e.g. for CPU smoke runs")
     ap.add_argument("--seed", type=int, default=13)
     args = ap.parse_args(argv)
 
@@ -137,6 +139,9 @@ def main(argv=None):
     stats["train"] = n
     for split in ("dev", "test"):
         recs = by_split[split]
+        if args.max_eval_per_source:
+            per = collections.Counter()
+            recs = [r for r in recs if (per.update([r["source"]]) or per[r["source"]]) <= args.max_eval_per_source]
         with (out / f"{split}.jsonl").open("w", encoding="utf-8") as fh:
             for rec in recs:
                 fh.write(json.dumps(to_example(rec, query_labels(rec)), ensure_ascii=False) + "\n")

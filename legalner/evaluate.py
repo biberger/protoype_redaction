@@ -14,6 +14,8 @@ import json
 from legalner.build import query_labels, read_records, surface
 from legalner.schema import LABELS, SOURCES
 
+ROLE_LABELS = {"judge", "lawyer"}
+
 
 def predict_labels(rec):
     """Labels to ask the model for: the covered labels plus any merged ones."""
@@ -72,14 +74,21 @@ def predict(model, records, threshold, batch_size):
             groups[tuple(sorted(predict_labels(rec)))].append(j)
         out = [None] * len(batch)
         for labels, idxs in groups.items():
-            names = {surface(lab): lab for lab in labels}
-            results = model.batch_extract_entities(
-                [batch[j]["text"] for j in idxs], list(names), threshold=threshold,
-                include_spans=True, batch_size=batch_size)
-            for j, res in zip(idxs, results):
-                ents = res.get("entities", res)
-                out[j] = {names[name]: {(m["start"], m["end"]) for m in mentions}
-                          for name, mentions in ents.items() if name in names}
+            for j in idxs:
+                out[j] = {}
+            # GLiNER2's flat decoding resolves overlaps *across* labels, so a judge would
+            # never also come out as person: role labels are queried in a separate pass.
+            for part in (set(labels) - ROLE_LABELS, set(labels) & ROLE_LABELS):
+                if not part:
+                    continue
+                names = {surface(lab): lab for lab in part}
+                results = model.batch_extract_entities(
+                    [batch[j]["text"] for j in idxs], list(names), threshold=threshold,
+                    include_spans=True, batch_size=batch_size)
+                for j, res in zip(idxs, results):
+                    ents = res.get("entities", res)
+                    out[j].update({names[name]: {(m["start"], m["end"]) for m in mentions}
+                                   for name, mentions in ents.items() if name in names})
         preds.extend(out)
     return preds
 

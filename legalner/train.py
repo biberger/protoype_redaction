@@ -24,6 +24,9 @@ def main(argv=None):
     ap.add_argument("--eval-steps", type=int, default=500)
     ap.add_argument("--lora", action="store_true", help="train LoRA adapters instead of full weights")
     ap.add_argument("--wandb", default=None, help="W&B project name (enables W&B logging)")
+    ap.add_argument("--precision", choices=["auto", "fp32", "bf16", "fp16"], default="auto",
+                    help="auto = trainer default (bf16 for boundary models); fp32 for CPU smoke runs")
+    ap.add_argument("--num-workers", type=int, default=4)
     args = ap.parse_args(argv)
 
     from gliner2 import AutoExtractor
@@ -47,6 +50,9 @@ def main(argv=None):
         use_lora=args.lora,
         report_to_wandb=bool(args.wandb),
         wandb_project=args.wandb,
+        num_workers=args.num_workers,
+        **({} if args.precision == "auto" else
+           {"fp16": args.precision == "fp16", "bf16": args.precision == "bf16"}),
     )
     model = AutoExtractor.from_pretrained(args.base)
     trainer = ExtractorTrainer(model=model, config=config)
