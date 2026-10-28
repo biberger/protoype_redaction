@@ -29,7 +29,7 @@ parties demanderesses, comparant par Me [[lawyer|Honora Schmitz]], avocate à la
 et
 
 1. [[organization|Schoentgen Transports S.à r.l.]], [[company_register_number|RCS Luxembourg B276411]], établie à [[location|Ettelbruck]],
-2. [[organization|Nettoyage al-Hassan S.A.]], [[company_register_number|RCS Luxembourg B233129]], établie à [[location|Diekirch]],
+2. [[organization|Nettoyage al-Hassan S.A.]], [[company_register_number|RCS Luxembourg B233129]], établie à [[address|18, route de Larochette, L-9220 Diekirch]],
 
 parties défenderesses, comparant par Me [[lawyer|Anka Fix]], avocate à la Cour.
 
