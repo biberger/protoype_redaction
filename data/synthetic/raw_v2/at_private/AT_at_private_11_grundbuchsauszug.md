@@ -53,13 +53,13 @@ Anmerkungen:
 - Die Hinweise auf das [[legal_norm|§ 9 WEG 2002]] sind im vorliegenden Auszug nicht enthalten.
 
 Hinweise zum Verfahren:
-- Die Einverleibung des Eigentumsrechts für Hannes Hu-mer und Brigitte Hubmer erfolgte jeweils
+- Die Einverleibung des Eigentumsrechts für [[person|Hannes Hu-mer]] und [[person|Brigitte Hubmer]] erfolgte jeweils
   im Wege der Verlassenschaft bzw. der Schenkung; die Anteile sind als Miteigentum je zur Hälfte
   eingetragen.
 - Die Pfandrechte in Lastenblatt C sind mit Rang gemäß Rangordnung eingetragen. Eine Änderung
   des Rangs erfordert die Zustimmung aller betroffenen Gläubiger und die Vorlage der
   Einverständniserklärung beim Grundbuchsgericht.
-- Vormerkungen oder Anmerkungen der Bezirkshauptmannschaft Wels-Land nach dem Raumordnungsrecht
+- Vormerkungen oder Anmerkungen der [[organization|Bezirkshauptmannschaft Wels-Land]] nach dem Raumordnungsrecht
   sind im Auszug nicht enthalten. Eine Abfrage ist beim zuständigen Magistrat gesondert möglich.
 - Dieser Auszug berücksichtigt Einverleibungen bis einschließlich [[date|23.09.2025]]. Spätere
   Eintragungen im Journal sind nicht berücksichtigt.

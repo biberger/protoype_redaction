@@ -99,7 +99,7 @@ ft für die Jahre 2024 und 2025 vorlegt; die Stempel der Werkstätten sind teilw
 
 Sachverständiger
 
-Der Richter bestellt den allgemein beeideten und gerichtlich zertifizierten Sachverständigen [[person|DI Gerhard Lintner]] aus dem Fachgebiet Kraftfahrzeugtechnik, [[address|Gewerbezone 4, 6330 Kufstein]], Tel. [[phone_number|05372/ 62 14 7]]. Der Sachverständige hat zu klären, ob das Automatikgetriebe bei Übergabe am [[date|11.09.2024]] einen Mangel aufwies und ob dieser Mangel bei Übergabe bereits angelegt war.
+Der Richter bestellt den allgemein beeideten und gerichtlich zertifizierten Sachverständigen [[person|DI Gerhard Lintner]] aus dem Fachgebiet Kraftfahrzeugtechnik, [[address|Gewerbezone 4, 63OO Kufstein]], Tel. [[phone_number|05372/ 62 14 7]]. Der Sachverständige hat zu klären, ob das Automatikgetriebe bei Übergabe am [[date|11.09.2024]] einen Mangel aufwies und ob dieser Mangel bei Übergabe bereits angelegt war.
 
 Der Kostenvorschuss des Klägers von 1.800 EUR ist binnen 14 Tagen nach [[legal_norm|§ 365 ZPO]] zu erlegen.
 

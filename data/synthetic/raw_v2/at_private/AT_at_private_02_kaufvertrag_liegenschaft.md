@@ -75,7 +75,15 @@ VII. Vorkaufsrecht, Energieausweis und Mietverhältnis
 
 5. Die Kaufpreisforderung der Verkäufer ist mit der Übergabe der Schlüssel und der Übergabe der Energieausweise fällig. Eine Aufrechnung mit Gegenforderungen der Käuferin ist ausgeschlossen, soweit diese nicht rechtskräftig festgestellt sind.
 
-VIII. Abgaben, Gebühren und Kosten
+VIII. Kaution, Nebenkosten und Haftung
+
+1. Das Mietverhältnis der Wohnungsmieterin [[person|Sandra Pflügl]] besteht unverändert fort. Die Verkäufer übergeben die Kaution der Mieterin in Höhe von EUR 1.600,00 an die Käuferin; die Übergabe erfolgt durch Überweisung auf das Treuhandkonto des Notars [[lawyer|Dr. Sebastian Kraus]].
+
+2. Die Verkäufer haften für Mängel an gemeinschaftlichen Teilen des Gebäudes, die bereits vor dem Übergabestichtag bestanden und im Protokoll der Hausverwaltung vermerkt sind, im Rahmen der Gewährleistung nach den Bestimmungen dieses Vertrags. Die Haftung für Schäden, die nach dem Übergabestichtag durch die Käuferin oder deren Mieter verursacht werden, trifft ausschließlich die Käuferin.
+
+3. Offene Forderungen aus der Betriebskostenabrechnung für das Jahr 2024 werden zwischen den Vertragsparteien anteilig nach Tagen aufgeteilt. Eine Nachzahlung ist binnen vier Wochen nach Zugang der Abrechnung zu leisten. Ein Guthaben wird entsprechend dem Verhältnis der Nutzungszeiträume an die Verkäufer ausbezahlt, sofern die Mieterin ihren Anteil bereits beglichen hat. Die Hausverwaltung wird von den Vertragsparteien gemeinsam angewiesen, die Abrechnung nach diesem Schlüssel vorzunehmen.
+
+IX. Abgaben, Gebühren und Kosten
 
 1. Die Verkäufer erklären, dass für das Grundstück keine Rückstände an Kommunalabgaben, Wasserbezugsgebühren und Kanalanschlussgebühren bestehen. Die Gemeinde [[location|Gmunden]] hat den Abgabenstand mit Bestätigung vom [[date|20.02.2025]] bekannt gegeben.
 
@@ -89,7 +97,7 @@ VIII. Abgaben, Gebühren und Kosten
 
 6. Mit der Unterfertigung bestätigen die Vertragsparteien, dass sie den Vertrag gelesen haben, dass er ihrem Willen entspricht und dass er ohne Zwang und ohne Irrtum geschlossen wird.
 
-IX. Schlussbestimmungen
+X. Schlussbestimmungen
 
 1. Änderungen dieses Vertrags bedürfen der Schriftform und der Errichtung einer Notariatsurkunde. Nebenabreden bestehen nicht.
 

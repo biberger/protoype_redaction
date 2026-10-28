@@ -73,9 +73,15 @@ Sur l'indemnité de rupture
 
 13. Le moyen est donc non fondé en ce qu'il vise l'indemnité de rupture.
 
+Sur la concurrence déloyale
+
+14. L'appelant reproche encore à la société d'avoir diffusé, auprès des établissements de son réseau, une lettre le présentant comme ayant abandonné ses clients. La cour constate que cette lettre, datée du [[date|2 avril 2019]] et signée par M. [[person|Thierry Lemoine]], directeur commercial de la société, se limite à informer les cafés de la fin de la collaboration, sans porter de jugement de valeur sur l'agent.
+
+15. Elle n'est pas dénigrante au sens de l'[[legal_norm|article 1382 du Code civil]]. La cour n'aperçoit dès lors aucune faute distincte justifiant une réparation complémentaire, la preuve d'un préjudice spécifique n'étant pas rapportée. Le grief est écarté.
+
 Sur les dépens
 
-14. Les parties succombant chacune sur un chef de demande, les dépens seront compensés à concurrence de la moitié, et l'appelant sera condamné au surplus aux dépens d'appel, liquidés à l'indemnité de procédure de base visée à l'[[legal_norm|article 1017, alinéa 1er, du Code judiciaire]].
+16. Les parties succombant chacune sur un chef de demande, les dépens seront compensés à concurrence de la moitié, et l'appelant sera condamné au surplus aux dépens d'appel, liquidés à l'indemnité de procédure de base visée à l'[[legal_norm|article 1017, alinéa 1er, du Code judiciaire]].
 
 IV. Dispositif
 

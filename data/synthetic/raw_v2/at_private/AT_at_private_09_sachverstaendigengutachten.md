@@ -106,6 +106,10 @@ V. Zusammenfassung
 
 Die Mängel sind überwiegend auf eine fehlerhafte Ausführung der Abdichtung durch die Beklagte zurückzuführen. Die Mangelbehebung erfordert einen Aufwand von brutto EUR 46.140,00. Die Mängel waren bei Übergabe vorhanden. Eine Gewährleistungsfrist nach [[legal_norm|§ 933 Abs 1 ABGB]] iVm [[legal_norm|§ 1167 ABGB]] ist für den Anspruch auf Verbesserung noch nicht abgelaufen.
 
+6. Ergänzende Feststellungen an Fenstern und Anschlüssen
+
+Die Fenster im Erdgeschoss sind aus dem Jahr 2003 und weisen Kunststoffprofile mit Dreifachverglasung auf. Die Anschlussfugen zwischen Fenster und Mauerwerk sind an der Westseite nicht fachgerecht mit einer Vorkompriband-Abdichtung ausgeführt. Der Befund ist für das Schadensbild im Bereich der Fensterlaibungen mitursächlich, jedoch nicht alleinige Ursache der Rissbildung.
+
 VII. Erklärung des Sachverständigen
 
 Ich erkläre, dass ich das Gutachten nach bestem Wissen und Gewissen erstattet habe und dass ich mich im Hinblick auf die Parteien in keinem Abhängigkeitsverhältnis befinde. Ich habe die Befundaufnahme persönlich durchgeführt; Teile des Befundes wurden nicht von Hilfskräften ermittelt.

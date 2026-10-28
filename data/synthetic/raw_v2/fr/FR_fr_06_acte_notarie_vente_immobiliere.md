@@ -77,6 +77,22 @@ Les acquéreurs déclarent que l'immeuble sera leur habitation principale, ce qu
 
 Les parties déclarent que le présent acte n'est pas soumis à un droit de préemption de la [[organization|Société d'aménagement de la métropole nantaise]]. Le notaire a rappelé aux parties les dispositions de l'[[legal_norm|article 1594 du Code civil]] relatives à l'obligation de délivrance.
 
+SERVITUDES ET CHARGES
+
+Le bien profite d'une servitude de passage au bénéfice du fonds voisin cadastré [[land_register_id|section AK n° 216]], appartenant à M. [[person|Gilles Pérennès]] et Mme [[person|Hélène Guiheneuf]], selon acte reçu par Me [[lawyer|Anne-Sophie Pinçon]], notaire, le [[date|3 février 1988]]. Cette servitude s'exerce sur une bande de deux mètres de largeur le long du mur nord de la maison, et ne grève pas le jardin clos.
+
+Les acquéreurs prennent les biens avec la charge de cette servitude, dont ils déclarent avoir pris connaissance par la remise d'une copie de l'acte, annexée au présent acte. Le vendeur déclare qu'aucune autre servitude n'a été créée depuis cette date, hormis celles résultant de la situation naturelle des lieux.
+
+Il est rappelé que l'immeuble est une maison individuelle, qu'il n'est soumis à aucun règlement de copropriété, et que les charges de ville, la taxe d'habitation et les redevances d'eau et d'assainissement ont été acquittées par le vendeur jusqu'au jour de la signature.
+
+Le vendeur a confié la commercialisation du bien à l'agence [[organization|Loire Atlantique Immobilier SAS]] aux termes d'un mandat exclusif du [[date|2 janvier 2024]], dont la commission de 9 000 euros TTC est à la charge exclusive du vendeur et sera réglée directement par le notaire sur les fonds de la vente.
+
+ÉTAT HYPOTHÉCAIRE
+
+L'état hypothécaire délivré par le service de la publicité foncière de [[location|Nantes]] 2 le [[date|5 juin 2024]] ne révèle aucune inscription autre que celle mentionnée ci-dessus au titre de la [[organization|Banque Rhône-Loire SA]]. Les parties reconnaissent que la publicité foncière n'a pas révélé de saisie immobilière ni de privilège du Trésor.
+
+Le notaire a attiré l'attention des parties sur la nécessité de faire procéder à la radiation de toute inscription résiduelle dans un délai de trois mois, et a indiqué que le coût de cette formalité, évalué à 350 euros, sera supporté par le vendeur.
+
 ENTRÉE EN JOUISSANCE
 
 L'acquéreur entre en jouissance à compter de ce jour, par la prise de possession des clés remises en l'étude, et supportera les impôts fonciers à compter de l'année 2024.

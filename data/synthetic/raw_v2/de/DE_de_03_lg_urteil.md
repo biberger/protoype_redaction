@@ -68,6 +68,8 @@ Das Fahrzeug war bei Übergabe mangelhaft im Sinne von [[legal_norm|§ 434 Abs. 
 
 Die Vermutung des [[legal_norm|§ 476 BGB]] greift zugunsten des Klägers ein. Der Mangel ist innerhalb von sechs Monaten nach Gefahrübergang aufgetreten, wie die Werkstattrechnung der [[organization|Autoservice Bogner OHG]] belegt, die den Motorschaden bereits Anfang Juli 2023 dokumentiert. Die Beklagte hat nicht dargelegt, dass der Mangel mit der Art des Fahrzeugs unvereinbar gewesen wäre. Der Haftungsausschluss im Kaufvertrag steht dem nicht entgegen, weil er die Beschaffenheitsangabe zur Laufleistung nicht erfasst. Der Verkäufer kann sich nach [[legal_norm|§ 444 BGB]] nicht auf einen Ausschluss berufen, soweit er den Mangel arglistig verschwiegen hat.
 
+Die Zeugin [[person|Ayşe Dilek Tunç]], Serviceberaterin der [[organization|Autoservice Bogner OHG]], hat in ihrer Vernehmung vom [[date|15. Januar 2025]] bekundet, dass ihr bei der Inspektion im Jahr 2021 ein auffälliger Abstand zwischen dem Tachostand und dem im Serviceheft dokumentierten Stand aufgefallen sei. Sie habe den Kunden darauf hingewiesen, dass die Laufleistung im Serviceheft abweiche. Eine Mitteilung an die Beklagte sei nicht erfolgt. Die Zeugin war glaubhaft; ihre Aussage stimmt mit den dokumentierten Eintragungen überein. Die Beklagte hat das Fahrzeug im Rahmen der Inzahlungnahme von dem Vorbesitzer [[person|Gerhard Lindner]] erworben. Dessen Angaben zur Laufleistung hat die Kammer nicht als widerlegt angesehen, weil der Vorbesitzer nach Aktenlage keine Kenntnis von der Manipulation hatte.
+
 Die Kammer sieht es als erwiesen an, dass die Beklagte die Manipulation des Kilometerzählers zumindest hätte erkennen müssen. Die Beklagte hat das Fahrzeug im Rahmen der Inzahlungnahme übernommen und vor dem Weiterverkauf nicht überprüft. Eine Haftung aus [[legal_norm|§ 826 BGB]] braucht die Kammer daher nicht zu entscheiden.
 
 Die Beklagte kann für die bis zum Rücktritt zurückgelegte Strecke keinen Nutzungsersatz nach [[legal_norm|§ 346 Abs. 2 Satz 1 Nr. 1 BGB]] verlangen. Der Kläger hat das Fahrzeug nach Übergabe 3.210 km genutzt. Da die Laufleistung im Kaufvertrag unzutreffend angegeben war, hat die Beklagte die Abweichung selbst zu vertreten, sodass ein Nutzungsersatz in Höhe von 0,6 % des Kaufpreises je 1.000 km im Hinblick auf die Manipulation des Tachos nicht in Ansatz zu bringen ist.
@@ -84,6 +86,6 @@ Die Kostenentscheidung beruht auf [[legal_norm|§ 91 Abs. 1 ZPO]]. Die Entscheid
 
 Eine Berufung gegen dieses Urteil ist zulässig; sie ist innerhalb eines Monats nach Zustellung beim [[court|Oberlandesgericht München]] einzulegen ([[legal_norm|§ 517 ZPO]]).
 
-Die Streitwertfestsetzung erfolgt auf 14.950,00 €.
+Die Streitwertfestsetzung erfolgt auf 14.950,00 €. Der Kläger hat die Kosten eines vorprozessualen Gutachtens in Höhe von 1.287,50 € netto nicht geltend gemacht; die Kammer hat insoweit keine Entscheidung zu treffen, weil die Kosten nicht Gegenstand des Antrags sind. Die Zustellung dieses Urteils an die Beklagte erfolgt von Amts wegen durch den Kläger über seine Prozessbevollmächtigte.
 
 [[judge|Ahrens]]                    [[judge|Dr. Friedl]]                    [[judge|Dąbrowski]]

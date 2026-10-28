@@ -34,6 +34,8 @@ beide als Mieter (im Folgenden kurz „Mieter“), sowie
 
 2.3 Eine befristete Vereinbarung ist nicht getroffen. Eine allfällige Befristung nach [[legal_norm|§ 29 MRG]] bedürfte der Schriftform.
 
+2.4 Die Mieter bestätigen, die Wohnung samt Balkon, Fenstern und Wohnungseingangstür am [[date|27. Januar 2025]] besichtigt zu haben. Der Zustand wurde im Übergabeprotokoll festgehalten; der Balkonboden weist eine geringfügige Abschürfung auf, die von den Mietern nicht zu vertreten ist. Die Vermieterin verpflichtet sich, diese Abschürfung bis zum Ende des ersten Mietjahres auf eigene Kosten fachgerecht auszubessern. Die Mieter gestatten hierzu den Zutritt zur Wohnung nach Terminvereinbarung mit der Hausverwaltung.
+
 § 3 Mietzins
 
 3.1 Der monatliche Mietzins setzt sich wie folgt zusammen:

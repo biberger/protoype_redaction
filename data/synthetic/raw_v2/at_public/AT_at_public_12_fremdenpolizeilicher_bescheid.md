@@ -33,7 +33,7 @@ IV. Einer Beschwerde gegen diesen Bescheid kommt gemäß [[legal_norm|§ 13 Abs 
 
 Die Identität der Fremden ist durch folgende Dokumente belegt:
 
-- Reisepass der Republik Serbien, Nr. [[id_document_number|PA8832117]], ausgestellt am [[date|12.03.2021]] durch die [[organization|Stadtverwaltung Novi Sad]], gültig bis [[date|11.03.2031]]
+- Reisepass der Republik [[location|Serbien]], Nr. [[id_document_number|PA8832117]], ausgestellt am [[date|12.03.2021]] durch die [[organization|Stadtverwaltung Novi Sad]], gültig bis [[date|11.03.2031]]
 - Aufenthaltstitel „Rot-Weiß-Rot – Karte plus“, Nr. [[id_document_number|1138-5507]], gültig bis [[date|17.06.2025]]
 - Früherer Reisepass, Nr. [[id_document_number|P5083412]], ausgestellt am [[date|02.05.2014]], abgelaufen
 
@@ -61,15 +61,15 @@ Rechtliche Beurteilung
 
 Gemäß [[legal_norm|§ 11 Abs 2 Z 3 NAG]] ist ein Aufenthaltstitel zu versagen, wenn der Fremde nicht über die für eine Niederlassung erforderlichen Mittel zur Bestreitung des Unterhalts verfügt. Die Voraussetzungen sind im vorliegenden Fall nicht erfüllt. Der Verlängerungsantrag war daher abzuweisen.
 
-Die Rückkehrentscheidung gemäß [[legal_norm|§ 52 Abs 1 Z 1 FPG]] ist zulässig. Der Eingriff in das Privat- und Familienleben im Sinne des [[legal_norm|Art. 8 EMRK]] ist nach [[legal_norm|§ 9 Abs 1 BFA-VG]] verhältnismäßig, da die Fremde seit dem Jahr 2021 im Bundesgebiet lebt, jedoch keine Familienangehörigen in Österreich hat und eine Integrationsverfestigung durch den Aufenthalt allein nicht begründet wird. Die Abwägung ergibt, dass das öffentliche Interesse an der Einhaltung der fremdenrechtlichen Vorschriften überwiegt.
+Die Rückkehrentscheidung gemäß [[legal_norm|§ 52 Abs 1 Z 1 FPG]] ist zulässig. Der Eingriff in das Privat- und Familienleben im Sinne des [[legal_norm|Art. 8 EMRK]] ist nach [[legal_norm|§ 9 Abs 1 BFA-VG]] verhältnismäßig, da die Fremde seit dem Jahr 2021 im Bundesgebiet lebt, jedoch keine Familienangehörigen in [[location|Österreich]] hat und eine Integrationsverfestigung durch den Aufenthalt allein nicht begründet wird. Die Abwägung ergibt, dass das öffentliche Interesse an der Einhaltung der fremdenrechtlichen Vorschriften überwiegt.
 
 Hinweis: Die Fremde wird aufgefordert, das Bundesgebiet innerhalb der Frist zu verlassen. Bei Nichteinhaltung kann die Abschiebung gemäß [[legal_norm|§ 46 FPG]] durchgeführt werden. Ein Einreiseverbot wird nicht erlassen.
 
 Rechtsmittelbelehrung
 
-Gegen diesen Bescheid kann innerhalb von vier Wochen ab Zustellung eine Beschwerde an das [[court|Bundesverwaltungsgericht]] erhoben werden. Die Beschwerde ist bei der Landespolizeidirektion Wien einzubringen. Für die Beschwerde ist eine Gebühr von EUR 30,00 zu entrichten. Die Rechtsberatung kann bei [[organization|Verein Integrationsberatung Ost]], [[address|Praterstraße 31, 1020 Wien]], erfolgen.
+Gegen diesen Bescheid kann innerhalb von vier Wochen ab Zustellung eine Beschwerde an das [[court|Bundesverwaltungsgericht]] erhoben werden. Die Beschwerde ist bei der [[organization|Landespolizeidirektion Wien]] einzubringen. Für die Beschwerde ist eine Gebühr von EUR 30,00 zu entrichten. Die Rechtsberatung kann bei [[organization|Verein Integrationsberatung Ost]], [[address|Praterstraße 31, 1020 Wien]], erfolgen.
 
-Für die Landespolizeidirektion Wien
+Für die [[organization|Landespolizeidirektion Wien]]
 
 [[person|Tobias Lenhart]]
 Insp

@@ -32,6 +32,10 @@ Ein Einspruch muss erkennen lassen, dass Sie den Zahlungsbefehl bekämpfen. Sie 
 
 Die Kosten dieses Mahnverfahrens sind nach [[legal_norm|§ 448 ZPO]] von Ihnen zu tragen, wenn der Zahlungsbefehl rechtskräftig wird.
 
+Die Kosten im Einzelnen: Pauschalgebühr für das Mahnverfahren 79,00 EUR, Eingabengebühr 41,20 EUR und Vergütung für die Vertretung der klagenden Partei 292,20 EUR, zusammen 412,40 EUR. Die klagende Partei hat die Zinsen nach [[legal_norm|§ 1000 ABGB]] berechnet. Die Rechnungen der Energielieferungen sind dem Antrag als Beilage ./B angeschlossen; die Forderung wurde von der Beklagten bisher weder bezahlt noch bestritten.
+
+Wenn Sie die Forderung ganz oder teilweise anerkennen und eine Zahlung in Raten anstreben, wenden Sie sich bitte an die klagende Partei oder an Ihre Rechtsvertretung. Eine Ratenvereinbarung hebt die Wirkung dieses Zahlungsbefehls nicht auf, sofern sie nicht schriftlich mit der klagenden Partei getroffen und dem Gericht angezeigt wird.
+
 [[location|Wien]], am [[date|3. März 2025]]
 
 [[judge|Mag. Friederike Schaller]], Richterin

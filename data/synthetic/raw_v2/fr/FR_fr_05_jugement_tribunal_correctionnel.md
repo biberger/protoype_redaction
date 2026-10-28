@@ -67,6 +67,16 @@ Le préjudice de Mme [[person|Kowalczyk]] est réel et doit être réparé dans 
 
 La société d'assurance du véhicule, qui n'a pas été appelée à la cause, sera tenue à garantie dans les conditions du contrat. La demande de la partie civile tendant à la publication du jugement est rejetée.
 
+Sur la recevabilité de la constitution de partie civile
+
+Mme [[person|Kowalczyk]] s'est constituée partie civile par déclaration écrite régulièrement reçue au greffe le [[date|12 octobre 2023]], soit dans le délai prévu par la loi. Sa constitution est recevable. Le tribunal relève que la victime était en droit de se prévaloir de son préjudice dès l'instant où elle a été blessée, peu important que son état de santé ait été consolidé postérieurement.
+
+Sur l'expertise médicale
+
+L'expert désigné par le juge d'instruction a conclu à une incapacité totale de travail de cent quarante jours, à une consolidation fixée au [[date|28 mars 2024]], et à un déficit fonctionnel permanent de quinze pour cent. Ces conclusions, non contredites par la défense, sont retenues par le tribunal.
+
+Le prévenu a demandé au tribunal de tenir compte de sa démarche de réparation, puisqu'il a versé une somme de 2 000 euros à la victime avant l'audience. Le tribunal prend acte de ce versement, qui s'impute sur la condamnation civile.
+
 Par ces motifs, le tribunal, statuant publiquement, contradictoirement à l'égard du prévenu et de la partie civile, en premier ressort :
 
 DÉCLARE M. [[person|Karim Benali]] coupable des faits qui lui sont reprochés ;

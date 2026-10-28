@@ -39,6 +39,8 @@ II. Kaufgegenstand und Kaufpreis
 
 (4) Die Zahlung erfolgt auf das Konto der Verkäufer bei der [[organization|Taunusbank eG]], [[bank_account|IBAN DE87 7128 8299 6411 2512 37]]. Eine Zahlung an den Notar als Treuhänder ist nicht vereinbart.
 
+(5) Die Käufer haben dem Notar erklärt, dass der Kaufpreis teilweise durch ein Darlehen der [[organization|Taunusbank eG]] finanziert wird. Die Bestellung der hierfür erforderlichen Grundschuld erfolgt in gesonderter Urkunde. Die Verkäufer erteilen hierzu schon jetzt ihre Zustimmung zur Eintragung der Grundschuld im Rang nach der Auflassungsvormerkung, soweit der Kaufpreis dadurch nicht gefährdet wird.
+
 III. Auflassung und Vormerkung
 
 § 3
@@ -59,6 +61,8 @@ IV. Besitzübergang, Lasten und Gefahr
 
 (3) Die Versicherung des Gebäudes bleibt bis zum Besitzübergang bei den Verkäufern.
 
+(4) Der Notar hat die Käufer darauf hingewiesen, dass für das Gebäude eine Energieausweispflicht nach [[legal_norm|§ 79 GEG]] besteht. Ein Energieausweis vom [[date|2. Mai 2024]] liegt vor und wurde den Käufern übergeben. Dieser weist einen Endenergiebedarf von 142 kWh/(m²a) aus. Die Verkäufer haben erklärt, dass über die dort genannten Angaben hinaus keine energetischen Sanierungen durchgeführt wurden.
+
 V. Gewährleistung
 
 § 5
@@ -77,7 +81,7 @@ VI. Kosten, Steuern und Erklärungen
 
 § 6
 
-(1) Die Kosten dieser Urkunde, ihres Vollzugs und der Grundbucheintragungen tragen die Käufer. Die Kosten der Löschung der Grundschuld tragen die Verkäufer.
+(1) Die Kosten dieser Urkunde, ihres Vollzugs und der Grundbucheintragungen tragen die Käufer. Die Notarkosten werden nach der Gebührentabelle des Gerichts- und Notarkostengesetzes auf Grundlage des Kaufpreises ermittelt; die Vorschusszahlung der Käufer an den Notar erfolgt binnen zwei Wochen nach Beurkundung auf das Konto der Notarkanzlei. Die Verkäufer tragen die Kosten für die Vorlage des Grundbuchauszugs und die Löschungsbewilligung der bestehenden Belastungen, sofern diese nicht bereits im Zuge der Finanzierung der Käufer erfolgt. Die Kosten der Löschung der Grundschuld tragen die Verkäufer.
 
 (2) Die Grunderwerbsteuer trägt der Käufer ([[legal_norm|§ 1 Abs. 1 Nr. 1 GrEStG]]). Die Parteien stellen für die Steuerfestsetzung folgende Angaben: Steuer-ID des Verkäufers [[tax_id|62 601 815 903]].
 
@@ -93,7 +97,7 @@ VII. Schlussbestimmungen
 
 (3) Die Beteiligten bevollmächtigen die [[organization|Notarkanzlei Ebersberger]] sowie deren Mitarbeiter, Anträge zur Durchführung dieser Urkunde zu stellen und Erklärungen abzugeben, auch Nachtrags- und Berichtigungserklärungen, soweit sie den wesentlichen Inhalt nicht ändern ([[legal_norm|§ 15 GBO]]).
 
-(4) Ein Ausdruck dieser Urkunde ist für jeden Beteiligten vorgesehen. Eine Ausfertigung erhält die Käuferin zum Zweck der Finanzierung.
+(4) Ein Ausdruck dieser Urkunde ist für jeden Beteiligten vorgesehen. Eine Ausfertigung erhält die Käuferin zum Zweck der Finanzierung. Die Käufer sind darauf hingewiesen worden, dass die Auszahlung des Darlehens erst nach Eintragung der Vormerkung erfolgt und dass sie bis zur Eigentumsumschreibung keinen Besitz am Objekt erhalten. Bis dahin ist ein Zutritt zum Grundstück nur nach vorheriger Abstimmung mit den Verkäufern zulässig.
 
 (5) Die Erschienenen genehmigen die Niederschrift, die der Notar vorgelesen hat, und unterschreiben sie eigenhändig. Ein Ausdruck der Urkunde wurde den Beteiligten zur Durchsicht überlassen.
 
