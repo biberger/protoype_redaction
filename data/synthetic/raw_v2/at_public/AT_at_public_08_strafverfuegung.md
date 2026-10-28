@@ -35,6 +35,8 @@ Der Betrag ist binnen zwei Wochen ab Zustellung auf das Konto [[bank_account|AT9
 
 Die Messung erfolgte mit einem stationären Radargerät, dessen Eichgültigkeit zum Zeitpunkt der Messung gegeben war. Das Radarfoto liegt bei der Behörde auf und kann auf Verlangen eingesehen werden.
 
+Die Geschwindigkeitsmessung wurde am [[date|06.04.2025]] im Zeitraum von 14:05 bis 14:30 Uhr durchgeführt. Das Gerät war am [[date|02.01.2025]] letztmalig geeicht worden. Das Messfoto zeigt das Fahrzeug mit dem oben genannten Kennzeichen; der Lenker ist auf dem Foto nicht erkennbar. Die Haltereigenschaft wurde durch Abfrage im Kraftfahrzeugregister festgestellt. Sie werden als Lenker zur Verantwortung gezogen, da Sie das Fahrzeug nach Angaben des Zulassungsbesitzers zum Tatzeitpunkt verwendet haben.
+
 B E L E H R U N G
 
 Gegen diese Strafverfügung können Sie innerhalb von zwei Wochen nach Zustellung schriftlich oder mündlich Einspruch erheben. Der Einspruch ist bei der [[organization|Bezirkshauptmannschaft Hartberg-Fürstenfeld]] einzubringen. Wird kein Einspruch erhoben, wird die Strafverfügung rechtskräftig und vollstreckbar.

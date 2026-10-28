@@ -85,11 +85,23 @@ BEWEISMITTEL:
 
 Die Videoaufzeichnung zeigt den Vorfall nur teilweise, da der Bereich vor dem Eingang durch einen Sonnenschirm verdeckt ist. Eine Sichtung ergab, dass um 23:41 Uhr eine Person mit einem Glas in der Hand den Eingang passiert; ob es sich dabei um [[person|ÖZTÜRK Emre]] handelt, kann nicht mit Sicherheit festgestellt werden.
 
+TATORTBEFUND:
+
+Der Tatort wurde am [[date|15.06.2025]] um 00:20 Uhr durch GrInsp [[person|Michael Dvorak]] besichtigt. Auf dem Gehsteig vor dem Eingang wurden Blutspuren gesichert und fotografiert. Die Glastür wies einen etwa 40 cm langen Riss im unteren Bereich auf. In der Nähe des Eingangs wurde eine leere Bierflasche gefunden, die laut Angaben des Kellners nicht vom Lokal stammt. Die Flasche wurde nicht sichergestellt, da keine verwertbaren Spuren erkennbar waren. Die Zeugen wurden am Tatort über ihre Aussagepflicht belehrt und um Angabe ihrer Kontaktdaten ersucht.
+
+ERGÄNZENDE ERHEBUNGEN:
+
+Am [[date|17.06.2025]] wurde die Dienststelle durch die [[organization|Gastro Reumann GmbH]] über den Verlust eines Taschenmessers informiert, das laut Angaben der Geschäftsführerin am Tatort liegen geblieben sei. Das Messer wurde von Insp [[person|Lea Hofstätter]] sichergestellt und dem Akt angeschlossen. Eine kriminaltechnische Untersuchung auf Spuren wurde beantragt; das Ergebnis liegt noch nicht vor.
+
 BEWERTUNG:
 
 Aus den Zeugenaussagen ergibt sich, dass [[person|KRAMMER Dominik]] den Geschädigten geschlagen hat. Die Angaben der Zeugin [[person|PICHLER Theresa]] stimmen mit der Schilderung des Zeugen [[person|NOWAK Kevin]] im Wesentlichen überein. Der Hinweis auf einen Wurf mit dem Glas ist nicht erhärtet. Die Drohung gegenüber [[person|ÖZTÜRK Emre]] ist durch die Aussage des Zeugen [[person|NOWAK Kevin]] belegt.
 
 Hinsichtlich der Sachbeschädigung an der Glastür steht fest, dass die Tür durch den Beschuldigten beim Verlassen des Lokals beschädigt wurde; der Schaden wird von der Geschädigten, [[organization|Gastro Reumann GmbH]], auf EUR 640,00 beziffert. Die Geschädigte, vertreten durch [[person|Snežana Jovanović]], hat einen Schadenersatzanspruch angemeldet.
+
+VORGESCHICHTE:
+
+Nach Angaben der Geschäftsführerin [[person|Snežana Jovanović]] kam es bereits am [[date|07.06.2025]] zu einem verbalen Streit zwischen dem Beschuldigten und dem Geschädigten im Lokal; ein Hausverbot wurde zu diesem Zeitpunkt jedoch nicht ausgesprochen. Der Beschuldigte war dem Lokal seit mehreren Monaten als Stammgast bekannt.
 
 ANTRÄGE:
 

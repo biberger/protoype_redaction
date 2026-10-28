@@ -95,6 +95,20 @@ Der Angeklagte 2 hat in der Beschuldigtenvernehmung angegeben, er habe die Freig
 
 Der Schaden der [[organization|Raiffeisenbank Innsbruck eGen]] in der Höhe von EUR 186.000,00 ist aus dem Kreditrahmen nicht gedeckt; die Bank hat sich als Privatbeteiligte angeschlossen.
 
+Zur Person der Angeklagten:
+
+Der Angeklagte 1 ist ledig und hat keine Sorgepflichten. Er war zuletzt als Geschäftsführer der [[organization|Pradler Handels GmbH]] tätig und bezog ein Einkommen von EUR 4.100,00 netto monatlich. Der Angeklagte 2 ist verheiratet, hat ein Kind und arbeitet als Monteur. Beide Angeklagten sind nach dem Strafregister bisher nicht verurteilt.
+
+
+Gutachten zur Kontoführung:
+
+Die Kontoführung der [[organization|Pradler Handels GmbH]] wurde im Zeitraum März bis Juni 2025 durch die Sachverständige [[person|Dr. Irene Mayrhofer]], Wirtschaftsprüferin, untersucht. Das Gutachten vom [[date|30.06.2025]] bestätigt, dass die verbuchten Umsätze nicht den tatsächlichen Geschäftsvorgängen entsprechen.
+
+Beschuldigtenvernehmungen:
+
+Die Vernehmungen des Angeklagten 1 am [[date|05.05.2025]] und des Angeklagten 2 am [[date|07.05.2025]] fanden im Beisein ihrer Verteidiger statt. Der Angeklagte 1 hat sich zur Entgegennahme von Zahlungen geäußert, die Verwendung der Gelder jedoch bestritten. Der Angeklagte 2 hat jede Kenntnis von den Scheinrechnungen in Abrede gestellt. Eine Konfrontation der Angeklagten fand nicht statt.
+
+
 Antrag:
 
 Die Staatsanwaltschaft beantragt, die Angeklagten vor dem [[court|Landesgericht Innsbruck]] als Schöffengericht zur Hauptverhandlung zu bringen und nach dem Ergebnis der Hauptverhandlung zu verurteilen. Ferner beantragt sie die Einziehung der Vermögenswerte gemäß [[legal_norm|§ 20 StGB]] und den Verfall der Konten gemäß [[legal_norm|§ 20b StGB]].

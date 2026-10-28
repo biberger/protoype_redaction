@@ -50,6 +50,10 @@ II. Beweiswürdigung
 
 10. Die Auskünfte zur Lage in [[location|Afghanistan]] zeigen, dass Angehörige der Hazara in der Provinz [[location|Ghazni]] einem erhöhten Verfolgungsrisiko durch regierungsfeindliche Gruppen ausgesetzt sind, wenn sie sich weigern, diesen Unterstützung zu leisten. Eine individuelle Verfolgung des BF ist vor diesem Hintergrund glaubhaft.
 
+11a. Zur Lage in der Provinz [[location|Ghazni]] liegen aktuelle Berichte vor, wonach die Kontrolle über den Distrikt [[location|Ab Band]] zwischen den Regierungsstellen und regionalen Milizen wechselt. Die Auskunft des [[organization|Staatendokumentationsreferats]] vom [[date|30.06.2025]] führt aus, dass Personen, die sich einer Zusammenarbeit verweigern, Gefahr laufen, als Gegner dieser Gruppen eingestuft zu werden. Ein Schutz durch die lokalen Behörden ist nach diesen Berichten nicht verlässlich zu erwarten.
+
+11b. Die Verhandlung wurde mit Unterstützung des Dolmetschers geführt, dessen Qualifikation durch den gerichtlich beeideten Dolmetscherausweis bestätigt wurde. Der BF ersuchte nach der Befragung zu den Drohbriefen um eine Unterbrechung, da er sich nicht imstande sah fortzufahren. Die Verhandlung wurde nach einer Pause von zwanzig Minuten fortgesetzt. Die Richterin räumte dem BF die Möglichkeit ein, ergänzende Angaben schriftlich nachzureichen; eine solche Eingabe ist bis zum Schluss der Verhandlung nicht erfolgt.
+
 III. Rechtliche Beurteilung
 
 11. Gemäß [[legal_norm|§ 3 Abs 1 AsylG 2005]] ist einem Fremden der Status des Asylberechtigten zuzuerkennen, wenn glaubhaft ist, dass ihm in seinem Herkunftsstaat Verfolgung im Sinne der Genfer Flüchtlingskonvention droht. Die Verfolgung muss an einen Konventionsgrund anknüpfen; die politische Gesinnung, die dem BF zugeschrieben wird, reicht hierfür aus.
@@ -59,6 +63,8 @@ III. Rechtliche Beurteilung
 13. Zu Spruchpunkt II. bis IV.: Mit der Zuerkennung des Status des Asylberechtigten fällt die Grundlage für die Entscheidung über den subsidiären Schutz und die Rückkehrentscheidung weg. Die Spruchpunkte waren daher ersatzlos zu beheben. Eine Prüfung der Voraussetzungen des [[legal_norm|§ 8 Abs 1 AsylG 2005]] erübrigt sich.
 
 14. Der BF lebt seit dem Jahr 2022 in [[location|Österreich]], besucht einen Deutschkurs auf B1-Niveau und ist ehrenamtlich in einer Pfarrgemeinde in [[location|Klosterneuburg]] tätig. Die Integrationsverfestigung wäre im Fall einer Außerlandesbringung nach [[legal_norm|Art. 8 EMRK]] zu berücksichtigen gewesen; sie ist nach der Zuerkennung des Asyls nicht mehr entscheidungsrelevant.
+
+15a. Die Kammer hat ferner geprüft, ob der BF bei einer Rückkehr nach [[location|Afghanistan]] Gefahr liefe, zwangsrekrutiert zu werden oder wegen der Weigerung der Unterstützung erneut ins Visier regierungsfeindlicher Gruppen zu geraten. Die Auskünfte belegen, dass gerade junge Männer aus der Provinz [[location|Ghazni]] nach der Verweigerung eines Beitrags auch bei einer Rückkehr einer Bedrohung ausgesetzt sein könnten. Dies stützt die Annahme einer dem BF drohenden Verfolgung ohne inländische Fluchtalternative in [[location|Kabul]].
 
 15. Die Revision ist gemäß [[legal_norm|Art. 133 Abs 4 B-VG]] nicht zulässig, da keine Rechtsfrage von grundsätzlicher Bedeutung vorliegt. Die Rechtsprechung des [[court|Verwaltungsgerichtshofes]] zu den Anforderungen an die Glaubhaftmachung ist eindeutig und wurde beachtet.
 

@@ -155,8 +155,10 @@ confirm on first use, since the agent proxy logs every refused host.
 Done on branch `ccr-40b02117-uffvk3`:
 - pipeline in `legalner/` with tests (`python -m pytest`)
 - synthetic v1: 40 documents in `data/synthetic/raw` (old 10 labels, mapped by the parser)
-- synthetic v2 pilot: documents in `data/synthetic/raw_v2/<batch>` written by 6 Haiku agents
-  (at_civil, at_public, at_private, de, ch, fr), **not yet audited**
+- synthetic v2 pilot: 72 documents in `data/synthetic/raw_v2/<batch>` written by 6 Haiku agents
+  (at_civil, at_public, at_private, de, ch, fr); all pass `--strict`, **not yet audited**.
+  Known gaps: OCR noise only in a few docs; no generators yet for DE Steuernummer/RV-Nr/HRB,
+  CHE-UID, SIREN/SIRET, BE enterprise numbers (agents hand-formatted these)
 
 Next session, in order:
 1. Validate v2: `python -m legalner.tagged data/synthetic/raw_v2 -o data/canonical/synthetic.jsonl --strict`;

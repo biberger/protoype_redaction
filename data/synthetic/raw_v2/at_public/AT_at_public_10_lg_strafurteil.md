@@ -36,6 +36,10 @@ Begründung:
 
 Der Angeklagte bestritt die Vorwürfe. Die Feststellungen beruhen auf den Angaben der Zeugen, den Urkunden und dem Gutachten des Sachverständigen [[person|DI Erwin Rößler]], Kfz-Technik, vom [[date|12.05.2025]].
 
+Zur Person des Angeklagten:
+
+Der Angeklagte ist geschieden und sorgepflichtig für zwei minderjährige Kinder. Er war bis zum [[date|30.06.2024]] als Automechaniker bei der [[organization|Werkstätte Sommerauer KG]] in [[location|Krems]] beschäftigt und bezog zuletzt ein monatliches Nettoeinkommen von rund EUR 1.650,00. Er ist bisher nicht vorbestraft.
+
 Feststellungen:
 
 Der Angeklagte war von März 2023 bis Juli 2024 unter wechselnden Namen im Großraum [[location|Krems]] und [[location|St. Pölten]] tätig. Er gab sich gegenüber Interessenten als Verkaufsberater der [[organization|Autohaus Lindner Gesellschaft m.b.H.]] aus und bot Gebrauchtfahrzeuge zu günstigen Preisen an. Er verlangte jeweils eine Anzahlung auf ein Konto der [[organization|Lindner Finanz GmbH]] mit der [[bank_account|AT69 0030 4825 8532 7112]]; das Konto stand jedoch nicht im Zusammenhang mit der Autohaus-Gruppe, und die Fahrzeuge wurden nie übergeben.
@@ -60,15 +64,21 @@ Der Angeklagte hat sich in der Hauptverhandlung zu den Tatvorwürfen nur allgeme
 
 Die Verteidigung hat beantragt, das Gutachten des Sachverständigen [[person|Rößler]] durch ein weiteres Gutachten zu ergänzen. Dieser Antrag wurde abgewiesen, weil die Feststellung der Schriftzugsabweichung durch den Sachverständigen eindeutig ist und keine neuen Tatsachen vorgebracht wurden.
 
+Die Auskunft der [[organization|Kremser Sparkasse Bank AG]] vom [[date|22.08.2024]] bestätigt, dass auf das Konto gemäß Punkt I.3 zwischen März 2023 und Juli 2024 Gutschriften von insgesamt EUR 187.300,00 eingingen. Abbuchungen erfolgten überwiegend zugunsten der [[organization|Lindner Finanz GmbH]]. Verfügungsberechtigt war laut Kontoeröffnung ausschließlich der Angeklagte. Der Senat sieht darin eine wesentliche Bestätigung der Zeugenangaben.
+
 Rechtliche Beurteilung:
 
 Der Angeklagte hat die Voraussetzungen des [[legal_norm|§ 146 StGB]] erfüllt. Die Taten wurden gewerbsmäßig begangen, weil sich der Angeklagte aus den wiederholten Angriffen eine fortlaufende Einnahmequelle verschaffen wollte; dies folgt aus den wiederholten Angriffen und der Verwendung derselben Kontoverbindung. Die Qualifikation nach [[legal_norm|§ 147 Abs 3 StGB]] ist daher anzuwenden.
 
 Zum Schuldspruch wegen Urkundenfälschung nach [[legal_norm|§ 223 Abs 2 StGB]] ist auszuführen, dass die Verwendung der gefälschten Vertragsurkunde nach [[legal_norm|§ 224 StGB]] zu beurteilen gewesen wäre. Da die Urkunde jedoch nur gegenüber der Privatbeteiligten [[person|Haberl]] vorgelegt wurde, ist der Tatbestand des [[legal_norm|§ 223 Abs 2 StGB]] erfüllt.
 
+Der Verteidiger [[lawyer|Dr. Anton Pelikan]] hat in seinem Schlussvortrag ausgeführt, der Angeklagte habe sich bei den Taten in einer finanziellen Notlage befunden und die Anzahlungen zur Begleichung eigener Schulden verwendet. Dieses Vorbringen ist nicht geeignet, die Tatbestandsmäßigkeit zu beseitigen; eine Notlage ist durch keine Unterlagen belegt. Der Senat hat die Verantwortung daher als Schutzbehauptung gewertet.
+
 Strafbemessung:
 
 Als mildernd wurden das reumütige Geständnis des Angeklagten hinsichtlich der Punkte b und c sowie der Umstand gewertet, dass er bisher unbescholten war. Als erschwerend waren die Vielzahl der Angriffe, die Dauer der Tatbegehung von 16 Monaten und die Schädigung mehrerer älterer Personen zu werten.
+
+Die Privatbeteiligte [[person|Ottilie Haberl]] hat in der Hauptverhandlung angegeben, dass sie durch den Verlust der Anzahlung ihre Rücklagen für die Pflege ihres Ehemannes aufbrauchen musste. Der Senat hat dieses Vorbringen berücksichtigt, ohne es strafschärfend zu werten, da die Folgen der Tat bereits in der Strafdrohung enthalten sind.
 
 Unter Berücksichtigung dieser Umstände erscheint eine Freiheitsstrafe von 28 Monaten tat- und schuldangemessen. Die bedingte Nachsicht war auf Grund der Schadenswiedergutmachung in Teilbeträgen gerechtfertigt; die Zahlungen des Angeklagten an die Privatbeteiligte [[person|Haberl]] von insgesamt EUR 1.200,00 sind in den Beträgen gemäß Spruchpunkt IV. bereits berücksichtigt.
 
