@@ -46,7 +46,7 @@ def query_labels(rec):
     if src.open_labels:
         return set(rec["meta"]["query_labels"])
     present = {s["label"] for s in rec["spans"]}
-    labels = set(src.coverage)
+    labels = set(src.coverage) - set(rec.get("meta", {}).get("uncovered", ()))  # per-record gaps (RIS)
     for outer, inner in src.nested_conflicts.items():
         if outer in present:
             labels -= set(inner)

@@ -1,15 +1,18 @@
 """Austrian court decisions from the RIS OGD API, pseudonymisation filled from gazetteers.
 
-RIS publishes decisions with party data replaced by placeholders ("A*****",
-"Mag. B***** C*****", "*****" in Justiz decisions, "XXXX" at the BVwG). Each
-placeholder is classified from its context (person, organization, address,
-location, date), replaced by a gazetteer value (consistently within the
-document) and labelled. Dates, case numbers, court names, judges in the Kopf
-and lawyers after "vertreten durch" are labelled by rule.
+RIS publishes decisions with party data replaced by placeholders whose style differs per
+court (Justiz "A*", "* K*", "*"; BVwG "XXXX"; LVwG "***", "xxx", letter codes "AA";
+VwGH initials "des M K in W"; see the annotation section). Each placeholder is classified
+from its context (person, organization, address, location, date, land register, file
+number, …), replaced by a gazetteer value (consistently within the document) and
+labelled. Dates, case numbers, court names, addresses written in clear, judges in the
+Kopf and signature, and representatives after "vertreten durch" are labelled by rule.
+A placeholder no rule can classify is filled with a neutral surname and its chunk gets
+meta["uncovered"] = the PII labels, so build.py does not query those labels on it.
 
-Coverage (schema.SOURCES["ris"]) is limited to labels these rules annotate
-completely enough; anything else in RIS text (companies and places written in
-clear) is left for teacher pseudo-labels.
+Coverage (schema.SOURCES["ris"]) is limited to labels these rules annotate completely
+enough (measured in docs/audits/ris_rules.md); anything else in RIS text (companies and
+places written in clear) is left for teacher pseudo-labels.
 
     python -m legalner.sources.ris search --app Justiz --court OGH --since 2023-01-01 --pages 5 -o data/ris/index.jsonl
     python -m legalner.sources.ris fetch data/ris/index.jsonl --cache data/ris/raw
@@ -207,7 +210,7 @@ DEGREE_TOK = (r"Univ\.-Prof\.|Hon\.-Prof\.|Ao\.\s?Univ\.-Prof\.|Priv\.-Doz\.|Pro
 DEGREE = rf"(?:(?:{DEGREE_TOK})\s)"
 POSTNOM = r"(?:(?:,?\s(?:LL\.M\.|MBA|MAS|MSc|BSc|BA|MA|PhD|Bakk\.\s?phil\.|Bakk\.)(?![\w])){1,3})"
 _LOW = r"a-zäöüßéèáàíóúčćšžđıçğşñ'’"
-_WORD = rf"(?!(?:{DEGREE_TOK}|Senatspräsident|Vizepräsident|Präsident|Hofr|Richter|Vorsitzend)\w*)(?:[A-ZÄÖÜ][{_LOW}]+|[A-ZÄÖÜ]{{2,}}(?![a-z]))"
+_WORD = rf"(?!(?:{DEGREE_TOK}|Senatspräsident|Vizepräsident|Präsident|Hofr|Richter|Vorsitzend)\w*)(?:[A-ZÄÖÜ][{_LOW}]+|[A-ZÄÖÜ]{{2,}}(?![a-z.]))"
 NAME = rf"{_WORD}(?:-{_WORD})?"
 PERSON_NAME = rf"{DEGREE}*(?:(?:{NAME}|[A-ZÄÖÜ]\.)\s){{0,3}}{NAME}{POSTNOM}?"
 
@@ -247,7 +250,7 @@ CASE_RE = re.compile(
     r"\b(?:\d{1,3}\s?[A-Z][A-Za-z]{0,3}\s?\d{1,5}/\d{2}[a-z](?:-\d+(?:\.\d+)?)?|"                                   # Justiz: 7 Ob 161/26s, 26 Cg 77/24m-24
     r"R[aorsv]\s?\d{4}/\d{2}/\d{4}(?:\sbis\s\d{4})?|"                  # VwGH: Ra 2019/02/0138
     r"(?:E|G|V|W|U|B|WI|SV|KR|KI|UA)\s?\d{1,5}/\d{4}(?:-\d+)?(?:\su\.a\.)?|"  # VfGH: E 1234/2024, G 100/2024
-    r"[WGIL]\d{3}\s\d{7}-\d(?:/\d+[EZ])?|"                             # BVwG: W175 2256340-1/10E
+    r"[WGIL]\s?\d{3}\s\d{7}-\d(?:/\d+[EZ])?|"                          # BVwG: W175 2256340-1/10E
     r"LVwG-[A-Z0-9][A-Za-z0-9\-/.]*\d|VGW-[\d/\-]+\d|"                  # LVwG NÖ/Stmk/OÖ, VGW Wien
     r"LVwG\s\d+\.\d+-\d+/\d{4}(?:-\d+)?|"                              # LVwG Salzburg/Stmk: LVwG 30.1-123/2024
     r"KLVwG-[\d/\-]+\d|LVwG-?\d{4}/\d+/\d+(?:-\d+)?|"                   # Kärnten, Tirol: LVwG-2026/17/2033-5
@@ -255,7 +258,7 @@ CASE_RE = re.compile(
     r"RV/\d{4}-\d{2}/\d{4})")                                             # BFG
 AUTHORITY_GZ = re.compile(  # "Zl. 1280893010-210968115", "GZ: 207263/2022", "OB: 29240197700011"
     r"(?:\bZl\.?:?|\bZahl:?|\bGZ\.?:?|\bGZl\.?|\bAZ:?|Geschäftszahl:?|Aktenzahl:?|\bOB:?|Verfahrenszahl:?)\s"
-    r"((?=[\w./\-]*\d)[A-Za-z0-9ÄÖÜ][\w./\-]*?(?:[\-/.][\w]+)*)(?=[,;)]|\s|$)")
+    r"((?:[A-ZÄÖÜ]{1,4}\s)?(?=[\w./\-]*\d)[A-Za-z0-9ÄÖÜ][\w./\-]*?(?:[\-/.][\w]+)*)(?=[,;)]|\s|$)")
 _CITY = r"(?:Wien|Graz|Linz|Innsbruck|Salzburg|Klagenfurt(?:\sam\sWörthersee)?|St\.\sPölten|Eisenstadt|Bregenz)"
 COURT_RE = re.compile(
     r"\b(?:Oberste[nr]?\s(?:Gerichtshof(?:es|s)?|Patent-\sund\sMarkensenat(?:es|s)?)|OGH|"
@@ -331,7 +334,7 @@ _PRE = {  # regexes on the text just before a placeholder, in priority order
                          r"Onkel|Tante|Neffe|Nichte|Cousin|Cousine|Großvater|Großmutter|Kind(?:es)?|"
                          r"BF\d?|Asylwerber(?:in|s)?|Mitbeteiligte[nr]?|Geschäftsführer(?:in|s)?|Obmann|"
                          r"Eigentümer(?:in|s)?|Arbeitnehmer(?:in|s)?|Lenker(?:in|s)?|Verstorbenen|Erblasser(?:in|s)?|"
-                         r"Opfer[s]?|gegen|für|mit|und|sowie|\d\.\)?|mj\.?|Ing\.|Dr\.|Mag\.(?:a)?|DI|Hr\.|Fr\.|"
+                         r"Opfer[s]?|vertreten\sdurch|gegen|für|mit|und|sowie|\d\.\)?|mj\.?|Ing\.|Dr\.|Mag\.(?:a)?|DI|Hr\.|Fr\.|"
                          r"Unterschrift|Name[n]?|namens|genannt)|\b(?:des|der|dem|den|die))\s*$"),
     "location": re.compile(r"(?:\b(?:in|nach|aus|bei|Ort|Dorf|Stadt|Provinz|Gouvernement|Bezirk|Distrikt|Region|"
                            r"Heimatort|Heimatdorf|Herkunftsort|Geburtsort|Gemeinde|Stadtgemeinde|Marktgemeinde|"
@@ -592,11 +595,11 @@ def rule_spans(text, taken, case_numbers=()):
             for i in range(s, e):
                 taken[i] = True
 
+    for m in CASE_RE.finditer(text):
+        add("case_number", m.start(), m.end())
     for gz in case_numbers:
         for m in re.finditer(re.escape(gz).replace(r"\ ", r"\s?"), text):
             add("case_number", m.start(), m.end())
-    for m in CASE_RE.finditer(text):
-        add("case_number", m.start(), m.end())
     for m in AUTHORITY_GZ.finditer(text):
         add("case_number", m.start(1), m.end(1))
     for m in DATE_RE.finditer(text):
@@ -634,10 +637,14 @@ def rule_spans(text, taken, case_numbers=()):
             if not sep or LAWYER_AFTER.match(text, n.end()):
                 break
             pos = n.end() + sep.end()
-        if names and (m.group(1) or LAWYER_AFTER.match(text, names[-1].end())):
-            for n in names:
-                if re.match(DEGREE, n.group()) or " " in n.group():
+        lawyer = bool(names and (m.group(1) or LAWYER_AFTER.match(text, names[-1].end())))
+        for n in names:  # representatives who are not attorneys (parents, legal advisers) are persons
+            if re.match(DEGREE, n.group()) or " " in n.group():
+                if lawyer:
                     add("lawyer", n.start(), n.end(), ("person",))
+                elif not re.search(rf"(?:{LEGAL_FORMS}|&|Partner|Rechtsanw|Anwält|Kanzlei)",
+                                   n.group() + text[n.end():n.end() + 80].split(",")[0]):
+                    add("person", n.start(), n.end())
     return spans
 
 
@@ -653,10 +660,14 @@ def annotate(text, ref, gaz, rng):
     return text, sorted(spans, key=lambda x: (x[1], x[0]))
 
 
-def to_records(text, spans, ref, max_chars=MAX_CHARS):
-    """Chunk a decision; a chunk with an unclassified placeholder is not queried for PII labels."""
+def to_records(text, spans, ref, max_chars=MAX_CHARS, max_chunks=None):
+    """Chunk a decision; a chunk with an unclassified placeholder is not queried for PII labels.
+
+    `max_chunks` keeps only the first chunks (Kopf and facts carry most of the PII; BVwG
+    decisions otherwise contribute hundreds of chunks of quoted country reports).
+    """
     recs = []
-    for i, (ctext, cspans) in enumerate(chunk(text, spans, max_chars)):
+    for i, (ctext, cspans) in enumerate(chunk(text, spans, max_chars)[:max_chunks]):
         meta = {"court": ref.get("court"), "app": ref.get("app"), "date": ref.get("date")}
         if any(lab == "unknown" for lab, *_ in cspans):
             meta["uncovered"] = list(PII_LABELS)
@@ -691,6 +702,7 @@ def main(argv=None):
     c.add_argument("--cache", default="data/ris/raw")
     c.add_argument("-o", "--out", default="data/canonical/ris.jsonl")
     c.add_argument("--seed", type=int, default=13)
+    c.add_argument("--max-chunks", type=int, default=40, help="chunks kept per decision (0: all)")
     args = ap.parse_args(argv)
 
     if args.cmd == "search":
@@ -732,7 +744,7 @@ def main(argv=None):
                     continue
                 text = markup_to_text(path.read_text(encoding="utf-8", errors="replace"))
                 text, spans = annotate(text, ref, gaz, rng)
-                for rec in to_records(text, spans, ref):
+                for rec in to_records(text, spans, ref, max_chunks=args.max_chunks or None):
                     fh.write(json.dumps(rec, ensure_ascii=False) + "\n")
                     n_recs += 1
                 n_docs += 1
