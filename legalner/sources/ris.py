@@ -205,7 +205,7 @@ def markup_to_text(markup):
 #   VwGH     initials: "der D J", "des M K in W", "mitbeteiligte Partei: R W in W"
 #   VfGH     parties are rarely named at all ("die beschwerdeführende Partei")
 
-DEGREE_TOK = (r"Univ\.-Prof\.|Hon\.-Prof\.|Ao\.\s?Univ\.-Prof\.|Priv\.-Doz\.|Prof\.|DDrin\.|DDr\.|Dr\.in|Dr\.|Mag\.a|"
+DEGREE_TOK = (r"Univ\.-Prof\.|Hon\.-Prof\.|Ao\.\s?Univ\.-Prof\.|Priv\.-Doz\.|PD|Prof\.|Ing\.\s?Mag\.|Ing\.\s?Dr\.|Mag\.\s?\(FH\)|DI\s?\(FH\)|DDrin\.|DDr\.|Dr\.in|Dr\.|Mag\.a|"
               r"MMag\.|Mag\.|Dipl\.-Ing\.|DI|Ing\.|Bakk\.")
 DEGREE = rf"(?:(?:{DEGREE_TOK})\s)"
 POSTNOM = r"(?:(?:,?\s(?:LL\.M\.|MBA|MAS|MSc|BSc|BA|MA|PhD|Bakk\.\s?phil\.|Bakk\.)(?![\w])){1,3})"
@@ -233,7 +233,7 @@ _PERSON_CUE = (r"(?:des|der|dem|den|die|von|Herrn?|Frau|Partei:?|Revisionswerber
                r"Mitbeteiligten|Beschwerdeführers?|Beschwerdeführerin|Nachbarn|Zeugen|Zeugin|Ehegattin|Ehemann|"
                r"Mutter|Vater|Sohn|Tochter|\d\.|mj\.|durch|für|Inhaber(?:in)?)")
 INITIALS = re.compile(
-    rf"\b{_PERSON_CUE}\s((?:{DEGREE})*(?:mj\.\s)?[A-ZÄÖÜ](?:\s[A-ZÄÖÜ]){{0,2}})(?=,|\)|;|\sin\s[A-ZÄÖÜ]\b|"
+    rf"\b{_PERSON_CUE}\s((?:{DEGREE})*(?:mj\.\s)?[A-ZÄÖÜ]\.?(?:\s[A-ZÄÖÜ]\.?){{0,2}})(?=,|\)|;|\sin\s[A-ZÄÖÜ]\b|"
     r"\s(?:vertreten|gegen|als|und\s(?:\d\.\s)?(?:de[rs]\s)?(?:mj\.\s)?[A-ZÄÖÜ]\b|geb|wohnhaft))")
 PAIR_CODES = re.compile(r"(?<![\w.§/])([A-ZÄÖÜ])\s(?:und|sowie|bzw\.)\s([A-ZÄÖÜ])(?![\w.\-/)])")  # LVwG NÖ "B und C"
 CODE_ADDRESS = re.compile(r"\b[A-ZÄÖÜ]-(?:Straße|Gasse|Weg|Platz)\s?(?:\d+\s?)?,\s[A-ZÄÖÜ]-Ort\b|"  # LVwG Stmk
@@ -245,7 +245,8 @@ TOWN_INITIAL = re.compile(r"(?<=\s)(?:in|aus|Bezirkshauptmannschaft|BH|KG|Gemein
 
 MONTHS = "Jänner|Januar|Februar|März|April|Mai|Juni|Juli|August|September|Oktober|November|Dezember"
 MONTH_NAMES = MONTHS.split("|")[1:]
-DATE_RE = re.compile(rf"\b(?:[0-3]?\d\.\s?(?:[01]?\d\.\s?(?:19|20)\d\d|(?:{MONTHS})\s(?:19|20)\d\d))\b")
+DATE_RE = re.compile(rf"\b(?:[0-3]?\d\.\s?(?:[01]?\d\.\s?(?:18|19|20)\d\d|(?:{MONTHS})\s(?:18|19|20)\d\d))\b|"
+                     r"(?:(?<=\bv\s)|(?<=\bvom\s)|(?<=\bam\s))[0-3]?\d\.\s?[01]?\d\.\s?\d\d\b(?![.\d])")
 CASE_RE = re.compile(
     r"\b(?:\d{1,3}\s?[A-Z][A-Za-z]{0,3}\s?\d{1,5}/\d{2}[a-z](?:-\d+(?:\.\d+)?)?|"                                   # Justiz: 7 Ob 161/26s, 26 Cg 77/24m-24
     r"R[aorsv]\s?\d{4}/\d{2}/\d{4}(?:\sbis\s\d{4})?|"                  # VwGH: Ra 2019/02/0138
@@ -267,12 +268,13 @@ COURT_RE = re.compile(
     r"Verwaltungsgericht(?:es|s)?\sWien|VwG\sWien|"
     r"Oberlandesgericht(?:es|s)?\s(?:Wien|Graz|Linz|Innsbruck)|OLG\s(?:Wien|Graz|Linz|Innsbruck)|"
     r"Landesgericht(?:es|s)?\sfür\s(?:Zivilrechtssachen|Strafsachen)\s(?:Wien|Graz)|LGZ\s?Wien|LGZ\s?Graz|"
-    r"LG\sfür\s(?:ZRS|Zivilrechtssachen|Strafsachen|Strafsachen)\s(?:Wien|Graz)|LGSt\s?Wien|"
+    r"(?:LG|Landesgericht(?:es|s)?)\sfür\s(?:ZRS|Zivilrechtssachen|Strafsachen)\s(?:Wien|Graz)|LGSt\s?Wien|"
     r"Arbeits-\sund\sSozialgericht(?:es|s)?\sWien|ASG\sWien|Handelsgericht(?:es|s)?\sWien|HG\sWien|"
     r"Jugendgericht(?:es|s)?hof(?:es|s)?\sWien|"
-    r"(?:Landesgericht(?:es|s)?|LG)\s(?:als\s\w+\s)?(?:" + NAME + r")(?:\s(?:an\sder|am|im|ob\sder)\s" + NAME + r")?|"
+    r"(?:Landesgericht(?:es|s)?|LG)\s(?:als\s\w+\s)?(?:St\.\s)?(?:" + NAME + r")(?:\s(?:an\sder|am|im|ob\sder)\s"
+    r"(?![A-ZÄÖÜ]\w*verfahren)" + NAME + r")?|"
     r"(?:Bezirksgericht(?:es|s)?|BG)\s(?:für\sHandelssachen\sWien|(?:Innere\sStadt\s)?(?:" + NAME + r")"
-    r"(?:\s(?:an\sder|am|im|ob\sder)\s" + NAME + r")?)|"
+    r"(?:\s(?:an\sder|am|im|ob\sder)\s(?![A-ZÄÖÜ]\w*verfahren)" + NAME + r")?)|"
     r"Landesverwaltungsgericht(?:es|s)?\s(?:Niederösterreich|Oberösterreich|Steiermark|Kärnten|Tirol|Salzburg|"
     r"Vorarlberg|Burgenland|Wien)|"
     r"LVwG\s(?:Niederösterreich|Oberösterreich|Steiermark|Kärnten|Tirol|Salzburg|Vorarlberg|Burgenland|"
@@ -292,9 +294,11 @@ JUDGE_INTRO = re.compile(
     r"Landesgerichts|Bezirksgerichts|Bundesverwaltungsgerichts|Landesverwaltungsgerichts)(?:\s(?:Wien|Graz|Linz|"
     r"Innsbruck|für\sZivilrechtssachen\s(?:Wien|Graz)|für\sStrafsachen\s(?:Wien|Graz)|[A-ZÄÖÜ][a-zäöü]+))?|"
     r"\saus\sdem\sKreis\sder\s\w+(?:\s\w+)?)?(?:\s(?:FOI|ADir|RegR|OAR|ADir\.|Amtsrat|Amtsrätin|VB))?\s|"
+    rf"\bals\sVorsitzende[nr]?\s(?:sowie|und)\s(?:(?:die|den)\s)?(?=(?:{DEGREE_TOK})\s)|"
     rf"(?<!vertreten\s)\bdurch\s(?:(?:den|die|seinen|seine|ihre[n]?)\s)?(?:(?:Richter(?:in)?|Einzelrichter(?:in)?|"
     rf"Vorsitzende[nr]?)\s)?(?=(?:{DEGREE_TOK})\s))")
 _NAME_RE = re.compile(PERSON_NAME)
+DEGREE_NAME = re.compile(rf"(?<![\w.])(?:{DEGREE})+(?:(?:{NAME}|[A-ZÄÖÜ]\.)\s){{0,3}}{NAME}{POSTNOM}?")
 _LIST_SEP = re.compile(r"(?:\s\([^)]{1,20}\))?(?:,\s|\sund\s|\ssowie\s)(?:die\s|den\s|der\s)?(?:(?:Hofr\w+|Richter\w*)\s)?(?=[A-ZÄÖÜ])")
 LAWYER_INTRO = re.compile(r"(?:vertreten\sdurch|Verteidiger(?:in)?:?|Verfahrenshelfer(?:in)?:?)\s(?:die\s|den\s)?(RA\s)?")
 LAWYER_AFTER = re.compile(r"(?:\sua)?,?\s(?:Rechtsanw|Notar|Verteidiger|Anwält|RA\b)")
@@ -340,7 +344,7 @@ _PRE = {  # regexes on the text just before a placeholder, in priority order
                            r"Heimatort|Heimatdorf|Herkunftsort|Geburtsort|Gemeinde|Stadtgemeinde|Marktgemeinde|"
                            r"Bezirkshauptmannschaft|BH|Landespolizeidirektion|Polizeiinspektion|PI|"
                            r"Rechtsanwaltskammer|Landesstelle|Magistrat(?:\sder\sStadt)?|Stadt|Grenzübergang|"
-                           r"Flughafen|Justizanstalt|Bundesland|Raum|Umgebung\svon|Nähe\svon|nahe|um|über|"
+                           r"Flughafen|Justizanstalt|Bundesland|Raum|Umgebung\svon|Nähe\svon|nahe|"
                            r"Landeshauptmann(?:es)?\svon|Bürgermeister(?:s)?\sder\s(?:Stadt|Markt)?gemeinde|"
                            r"Abteilung|Krankenhaus|Spital|Schule|Universität|Heimatstadt|Ortschaft|"
                            r"Bezirksgericht(?:s|es)?|Landesgericht(?:s|es)?|Staatsanwaltschaft|Oberstaatsanwaltschaft|"
@@ -351,7 +355,8 @@ _COUNTRIES = (r"Deutschland|Schweiz|Italien|Ungarn|Slowenien|Tschechien|Tschechi
               r"Bosnien\sund\sHerzegowina|Türkei|USA|Vereinigtes\sKönigreich|Großbritannien|Irland|Zypern|Malta")
 _ADDR_FOLLOW = (rf"^(?:,\s(?:{_COUNTRIES})\b|,\s(?:vertreten|wegen|gegen|als|über|beide|alle|diese[rs]?|ebenda)\b|"
                 r"\s?\)|;)")
-_BARE = re.compile(r"^(?:\*+|XXXX|x{2,})$")
+_BARE = re.compile(r"^(?:\*+|XXXX|x{2,}|\.\.\.|…)$")
+ELLIPSIS_PH = re.compile(r"(?<=[\s(])(?:\.\.\.|…)(?=[\s,;)]|$)")  # LVwG/VwG Wien
 
 
 def classify_placeholder(before, after, surface, prev=None):
@@ -377,7 +382,7 @@ def classify_placeholder(before, after, surface, prev=None):
         if re.fullmatch(r",\s|\s(?:und|sowie|bzw\.?|oder)\s|,\s(?:und|sowie)\s", gap) and plab in (
                 "land_register_id", "case_number", "license_plate") and bare:
             return plab
-        if re.fullmatch(r"\s?,\s", gap) and plab in ("person", "organization", "judge") and bare:
+        if re.fullmatch(r"\s?,\s", gap) and plab in ("person", "organization", "location", "lawyer") and bare:
             return "address"
         if re.fullmatch(r",\s", gap) and plab == "address" and bare:
             return "address"  # "***, ***": street, then town
@@ -396,6 +401,9 @@ def classify_placeholder(before, after, surface, prev=None):
         return "address"
     if _PRE["location"].search(before) and not re.search(r"\b(?:Beschwerde|Revision|Antrag)\s(?:von)\s*$", before):
         return "location"
+    if re.match(r"^,?\s(?:Rechtsanw(?:alt|ältin)|Verteidiger(?:in)?)\b", after) or re.search(
+            r"(?:Rechtsanw(?:alt|ältin)|Verteidiger(?:in|s)?)\s$", before):
+        return "lawyer"
     if _PRE["person"].search(before) or (bare and re.match(r"^,?\s(?:StA\.|geb\.|geboren)", after)):
         return "person"
     if re.match(r"^[A-ZÄÖÜ][a-zäöü]{0,2}\*", surface):  # Justiz "A*" without other cues: a name
@@ -425,7 +433,7 @@ class Filler:
         rng, gaz = self.rng, self.gaz
         degree = " ".join(re.findall(rf"(?:{DEGREE_TOK})(?=\s)", surface))
         core = re.sub(rf"^(?:(?:{DEGREE_TOK})\s)+", "", surface)
-        if label in ("person", "judge"):
+        if label in ("person", "judge", "lawyer"):
             n_parts = len(re.findall(r"[A-ZÄÖÜ][a-zäöü]{0,2}\*+|\*+|XXXX|xxx|\b[A-ZÄÖÜ]{1,2}\b", core)) or 1
             name = gaz.surname("AT") if n_parts == 1 and re.match(r"^[A-ZÄÖÜ][a-zäöü]{0,2}\*", core) else gaz.person("AT")
             val = f"{degree} {name}".strip()
@@ -480,6 +488,7 @@ def _candidates(text, app):
               if re.search(r"\*|XXXX|xxx", m.group())]
     cands += [(m.start(), m.end(), "ph") for m in PH_RUN.finditer(text)]
     if app == "Lvwg":
+        cands += [(m.start(), m.end(), "ph") for m in ELLIPSIS_PH.finditer(text)]
         cands += [(m.start(), m.end(), "code") for m in LETTER_CODE.finditer(text)]
         cands += [(m.start(g), m.end(g), "code") for m in PAIR_CODES.finditer(text) for g in (1, 2)]
         cands += [(m.start(), m.end(), "address") for m in CODE_ADDRESS.finditer(text)]
@@ -504,7 +513,7 @@ def fill_placeholders(text, gaz, rng, app=None):
     out, spans, pos, cur, prev, unknown = [], [], 0, 0, None, 0
     for s, e, kind in _candidates(text, app):
         surface = text[s:e]
-        if kind == "ph" and not re.search(r"\*|XXXX|xx", surface):
+        if kind == "ph" and not re.search(r"\*|XXXX|xx|\.\.\.|…", surface):
             continue
         before, after = text[max(0, s - 60):s], text[e:e + 40]
         gap = text[prev[1]:s] if prev else None
@@ -521,6 +530,7 @@ def fill_placeholders(text, gaz, rng, app=None):
         else:
             label = classify_placeholder(before, after, surface, (prev[0], gap) if prev else None)
             if kind in ("code", "initials") and label in ("unknown", "date", "url", "land_register_id", "case_number",
+                                                          "address",
                                                           "license_plate", "street", "company_register_number",
                                                           "other_identifier"):
                 label = "person"  # a letter code is a party unless the context says organisation/place
@@ -556,7 +566,7 @@ def fill_placeholders(text, gaz, rng, app=None):
         out.append(text[pos:s])
         cur += s - pos
         spans.append((label, cur, cur + len(val), val))
-        if label == "judge":
+        if label in ("judge", "lawyer"):
             spans.append(("person", cur, cur + len(val), val))
         out.append(val)
         cur += len(val)
@@ -637,6 +647,8 @@ def rule_spans(text, taken, case_numbers=()):
             if not sep or LAWYER_AFTER.match(text, n.end()):
                 break
             pos = n.end() + sep.end()
+        if names and re.match(rf"\s(?:Rechtsanw\w+|Anwalts\w*|Partner)\s?(?:{LEGAL_FORMS})?", text[names[-1].end():]):
+            continue  # "SHMP Schwartz Huber-Medek Pallitsch Rechtsanwälte GmbH"
         lawyer = bool(names and (m.group(1) or LAWYER_AFTER.match(text, names[-1].end())))
         for n in names:  # representatives who are not attorneys (parents, legal advisers) are persons
             if re.match(DEGREE, n.group()) or " " in n.group():
@@ -645,6 +657,14 @@ def rule_spans(text, taken, case_numbers=()):
                 elif not re.search(rf"(?:{LEGAL_FORMS}|&|Partner|Rechtsanw|Anwält|Kanzlei)",
                                    n.group() + text[n.end():n.end() + 80].split(",")[0]):
                     add("person", n.start(), n.end())
+    for m in DEGREE_NAME.finditer(text):
+        before = text[max(0, m.start() - 40):m.start()]
+        role = "lawyer" if re.search(r"(?:Verteidiger(?:s|in)?|Rechtsanw(?:alt|ältin|älte)|\bRA|Notar(?:in)?|"
+                                     r"Verfahrenshelfer(?:s|in)?)\s(?:\w+\s)?$", before) else \
+            "judge" if re.search(rf"(?:{JUDGE_WORDS})\s$", before) and not re.search(r"Schriftführer\w*\s$", before) \
+            else None
+        if not re.match(rf"\s(?:Rechtsanw\w+|Anwalts\w*|Partner)\s?(?:{LEGAL_FORMS})", text[m.end():]):
+            add(role or "person", m.start(), m.end(), ("person",) if role else ())
     return spans
 
 
