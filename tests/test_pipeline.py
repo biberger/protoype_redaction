@@ -197,3 +197,14 @@ def test_ris_fixture_annotation():
     assert "*****" not in out
     recs = ris.to_records(out, spans, ref)
     assert recs and all(r["text"][s["start"]:s["end"]] == s["text"] for r in recs for s in r["spans"])
+
+
+def test_goldset_tagged_roundtrip(tmp_path):
+    from legalner.goldset import to_tagged
+    recs, _ = parse_file(write_doc(
+        tmp_path, "Der [[court|OGH]] durch [[judge|Dr. Anna Taufner]] gegen [[person|Max Gruber]] am [[date|1.2.2024]]."),
+        "synthetic")
+    tagged = to_tagged(recs[0])
+    assert tagged == "Der [[court|OGH]] durch [[judge|Dr. Anna Taufner]] gegen [[person|Max Gruber]] am [[date|1.2.2024]]."
+    recs2, _ = parse_file(write_doc(tmp_path, tagged), "synthetic")
+    assert sorted(map(str, recs2[0]["spans"])) == sorted(map(str, recs[0]["spans"]))

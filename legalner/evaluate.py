@@ -101,14 +101,24 @@ def main(argv=None):
     ap.add_argument("--batch-size", type=int, default=8)
     ap.add_argument("--device", default=None)
     ap.add_argument("--out", help="write full JSON report here")
+    ap.add_argument("--max-per-source", type=int, default=0, help="random sample per source (0 = all)")
+    ap.add_argument("--seed", type=int, default=13)
     args = ap.parse_args(argv)
 
     from gliner2 import AutoExtractor
     kwargs = {"map_location": args.device} if args.device else {}
     model = AutoExtractor.from_pretrained(args.model, **kwargs)
     records = list(read_records(args.data))
+    if args.max_per_source:
+        import random
+        by = collections.defaultdict(list)
+        for r in records:
+            by[r["source"]].append(r)
+        rng = random.Random(args.seed)
+        records = [r for recs in by.values() for r in rng.sample(recs, min(len(recs), args.max_per_source))]
     report = score(records, predict(model, records, args.threshold, args.batch_size))
-    report.update(model=args.model, threshold=args.threshold, n_records=len(records))
+    report.update(model=args.model, threshold=args.threshold, n_records=len(records),
+                  data=args.data, max_per_source=args.max_per_source, seed=args.seed)
     if args.out:
         with open(args.out, "w") as fh:
             json.dump(report, fh, indent=2)

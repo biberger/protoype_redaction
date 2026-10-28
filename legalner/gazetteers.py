@@ -199,7 +199,8 @@ class Gazetteer:
         street = self.rng.choice(self.streets[country])
         name, pc = self.town(country)
         door = f"/{self.rng.randint(1, 24)}" if country == "AT" and self.rng.random() < 0.5 else ""
-        return f"{street} {self.rng.randint(1, 180)}{door}, {pc} {name}"
+        number = min(250, int(self.rng.lognormvariate(2.3, 0.9)) + 1)
+        return f"{street} {number}{door}, {pc} {name}"
 
 
 def main(argv=None):

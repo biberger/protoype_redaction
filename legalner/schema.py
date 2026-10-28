@@ -131,6 +131,7 @@ class Source:
     nested_conflicts: dict = field(default_factory=dict)
     open_labels: bool = False
     eval_merge: dict = field(default_factory=dict)
+    eval_only: bool = False  # every record goes to the test split
 
 
 _ALL = frozenset(LABELS)
@@ -151,7 +152,9 @@ SOURCES = {
     "replay": Source("replay", frozenset(), open_labels=True),
     # MAPA (EUR-Lex, de/fr), evaluation only
     "mapa": Source("mapa", frozenset({"person", "organization", "location", "address", "date"}),
-                   eval_merge={"organization": ("organization", "court")}),
+                   eval_merge={"organization": ("organization", "court")}, eval_only=True),
+    # hand-checked Austrian gold set (legalner.goldset), never trained on
+    "gold_at": Source("gold_at", _ALL - {"case_citation", "contract", "literature", "brand"}, eval_only=True),
     # RIS decisions: pseudonymised placeholders filled from gazetteers; only the
     # filled labels plus the deterministic ones (dates, case numbers, courts) are covered
     "ris": Source("ris", frozenset({"person", "judge", "lawyer", "address", "date",

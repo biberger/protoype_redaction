@@ -31,6 +31,8 @@ def surface(label):
 
 def doc_split(rec, dev_frac, test_frac):
     """Use a split given by the source, else a stable hash of the document id."""
+    if SOURCES[rec["source"]].eval_only:
+        return "test"
     given = rec.get("meta", {}).get("split")
     if given:
         return SPLIT_NAMES[given]
@@ -108,6 +110,7 @@ def main(argv=None):
     ap.add_argument("--max-per-source", type=int, default=0, help="cap training records per source (0 = all)")
     ap.add_argument("--max-eval-per-source", type=int, default=0,
                     help="cap dev/test records per source (0 = all), e.g. for CPU smoke runs")
+    ap.add_argument("--exclude-docs", help="file with doc_ids to drop entirely (e.g. data/gold/at/doc_ids.txt)")
     ap.add_argument("--seed", type=int, default=13)
     args = ap.parse_args(argv)
 
@@ -115,7 +118,12 @@ def main(argv=None):
     out = pathlib.Path(args.out)
     out.mkdir(parents=True, exist_ok=True)
     by_split = collections.defaultdict(list)
+    excluded = set()
+    if args.exclude_docs:
+        excluded = {ln.strip() for ln in open(args.exclude_docs, encoding="utf-8") if ln.strip()}
     for rec in read_records(args.inputs):
+        if rec["doc_id"] in excluded:
+            continue
         if rec["source"] not in SOURCES:
             raise SystemExit(f"{rec['id']}: unknown source {rec['source']!r}; add it to schema.SOURCES")
         by_split[doc_split(rec, args.dev_frac, args.test_frac)].append(rec)
