@@ -133,14 +133,43 @@ PII model) on the same test sets before the first run.
 
 ## Hosts to allow in the sandbox
 
-Already allowed: `huggingface.co` (API and small files). Still needed:
+PyPI and GitHub already work by default. Hosts marked (verify) are the expected download hosts;
+confirm on first use, since the agent proxy logs every refused host.
 
-- `*.hf.co` (at least `us.aws.cdn.hf.co`, `cas-bridge.xethub.hf.co`): model weights and parquet files
-- `datasets-server.huggingface.co`: Dataset Viewer API
-- `data.bka.gv.at`: RIS OGD API
-- `eur-lex.europa.eu`, `publications.europa.eu`: EUR-Lex / CELLAR
-- `query.wikidata.org`, `www.wikidata.org`: gazetteers
-- optional: `download.geofabrik.de`, `data.bev.gv.at`, `adresse.data.gouv.fr`, `leidata-preview.gleif.org`
+| Purpose | Hosts |
+|---|---|
+| Hugging Face models and datasets | `huggingface.co`, `*.hf.co` (covers `us.aws.cdn.hf.co`, `cas-bridge.xethub.hf.co`, `cdn-lfs-us-1.hf.co`), `cdn-lfs.huggingface.co`, `datasets-server.huggingface.co` |
+| PyTorch CPU wheels (small install for CPU smoke tests) | `download.pytorch.org` |
+| RIS (Austrian law and case law) | `data.bka.gv.at` (OGD API), `www.ris.bka.gv.at` (document HTML/XML), `rismcp.mburgler.com` (the RIS MCP plugin, refused in this session) |
+| EUR-Lex / EU publications | `eur-lex.europa.eu`, `publications.europa.eu` (CELLAR, SPARQL), `data.europa.eu` |
+| Wikidata (names, courts, authorities) | `query.wikidata.org`, `www.wikidata.org` |
+| Addresses | `data.bev.gv.at` (AT, verify), `data.geo.admin.ch` (CH), `adresse.data.gouv.fr` and `files.data.gouv.fr` (FR), `download.geofabrik.de` (OSM, DE) |
+| Companies | `goldencopy.gleif.org` and `api.gleif.org` (GLEIF), `www.zefix.admin.ch` (CH), `object.files.data.gouv.fr` (SIRENE, verify) |
+| Names statistics | `www.statistik.at` (verify) |
+| Misc | `raw.githubusercontent.com` (original LER repo, GLiNER docs), `api.wandb.ai` (only if W&B logging is used) |
+
+## Status and next steps
+
+Done on branch `ccr-40b02117-uffvk3`:
+- pipeline in `legalner/` with tests (`python -m pytest`)
+- synthetic v1: 40 documents in `data/synthetic/raw` (old 10 labels, mapped by the parser)
+- synthetic v2 pilot: documents in `data/synthetic/raw_v2/<batch>` written by 6 Haiku agents
+  (at_civil, at_public, at_private, de, ch, fr), **not yet audited**
+
+Next session, in order:
+1. Validate v2: `python -m legalner.tagged data/synthetic/raw_v2 -o data/canonical/synthetic.jsonl --strict`;
+   fix or drop failing files; audit a sample per batch against `GENERATION.md` and record the
+   per-label error rate.
+2. Run `python -m legalner.sources.ler`; inspect LER's `GS`/`RS` spans and settle the
+   `legal_norm` convention (bare act names or not), then adjust the mapping or the spec.
+3. Validate a build with GLiNER2's loader (`TrainingDataset.load(...).validate()`) and do a tiny
+   CPU training run on `gliner2.5-multi-v1` (a few steps) to catch format problems before renting a GPU.
+4. Baselines: evaluate `gliner2.5-multi-v1` and `gliner2-privacy-filter-PII-multi` zero-shot on
+   the synthetic test split and LER test.
+5. Write the RIS fetcher against the live OGD API, with placeholder filling from gazetteers.
+6. Add replay converters (GLiNER v1 format) and the MAPA evaluation converter.
+7. Scale synthetic generation to 1,000–3,000 documents; build the hand-checked Austrian gold set.
+8. First GPU run.
 
 ## Open questions
 
