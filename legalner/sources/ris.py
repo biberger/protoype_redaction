@@ -75,7 +75,11 @@ def parse_search(payload):
     return out, int(res["Hits"]["#text"])
 
 
-def search(app="Justiz", court=None, since=None, until=None, pages=1, per_page="Hundred", text_only=True):
+PAGE_SIZES = {"Ten": 10, "Twenty": 20, "Fifty": 50, "OneHundred": 100}
+
+
+def search(app="Justiz", court=None, since=None, until=None, pages=1, per_page="OneHundred", text_only=True,
+           limit=None):
     """Iterate decision references (full texts only, not Rechtssätze)."""
     params = {"Applikation": app, "DokumenteProSeite": per_page}
     if court:
@@ -86,11 +90,21 @@ def search(app="Justiz", court=None, since=None, until=None, pages=1, per_page="
         params["EntscheidungsdatumBis"] = until
     if text_only:
         params["Dokumenttyp.SucheInEntscheidungstexten"] = "true"
+    n = 0
     for page in range(1, pages + 1):
         params["Seitennummer"] = page
-        refs, hits = parse_search(json.loads(_get(API + "?" + urllib.parse.urlencode(params))))
-        yield from (r for r in refs if not text_only or r["doc_type"] in (None, "Text"))
-        if page * {"Ten": 10, "Twenty": 20, "Fifty": 50, "OneHundred": 100, "Hundred": 100}[per_page] >= hits:
+        payload = json.loads(_get(API + "?" + urllib.parse.urlencode(params)))
+        if "Error" in payload["OgdSearchResult"]:
+            raise RuntimeError(payload["OgdSearchResult"]["Error"].get("Message"))
+        refs, hits = parse_search(payload)
+        for r in refs:
+            if text_only and r["doc_type"] not in (None, "Text"):
+                continue
+            yield r
+            n += 1
+            if limit and n >= limit:
+                return
+        if page * PAGE_SIZES[per_page] >= hits:
             break
 
 
@@ -109,30 +123,63 @@ def fetch(ref, cache):
 # ------------------------------------------------------------------- text
 
 
+# contentBlocks whose heading marks document metadata, not decision text
+META_HEADINGS = {"gericht", "entscheidungsdatum", "geschäftszahl", "european case law identifier", "dokumentnummer",
+                 "norm", "index", "schlagworte", "sammlungsnummer", "rechtssatznummer", "im ris seit",
+                 "zuletzt aktualisiert am", "entscheidungsart", "rechtsgebiet", "fundstelle", "beachte", "anmerkung",
+                 "veröffentlicht", "zuletzt aktualisiert", "dokumenttyp", "rechtssatz"}
+DROP_HEADINGS = {"text", "betreff"}  # headings that carry no content of their own
+
+
 class _Blocks(html.parser.HTMLParser):
-    """Block-level text extraction that works for RIS HTML and risdok XML alike."""
+    """Block-level text extraction that works for RIS HTML and risdok XML alike.
+
+    RIS HTML repeats every paragraph that contains a norm citation in a
+    screen-reader form (`<span class="sr-only">… Paragraph 16 a, Absatz eins …`);
+    those spans are skipped. Metadata blocks (Gericht, Geschäftszahl, ECLI, …)
+    are dropped together with their `<h1>` heading.
+    """
     BLOCK = {"p", "div", "br", "h1", "h2", "h3", "h4", "h5", "h6", "li", "tr", "table", "absatz",
              "ueberschrift", "abschnitt", "titel", "td"}
     SKIP = {"script", "style", "head", "metadaten", "title"}
+    VOID = {"br", "meta", "img", "hr", "input", "link", "col", "area", "base", "wbr"}
 
     def __init__(self):
         super().__init__(convert_charrefs=True)
-        self.parts, self.skip = [], 0
+        self.parts, self.stack, self.drop = [], [], False
+        self.heading = None  # index into parts where the current <h1> started
+
+    @property
+    def skip(self):
+        return any(self.stack)
 
     def handle_starttag(self, tag, attrs):
-        if tag in self.SKIP:
-            self.skip += 1
-        elif tag in self.BLOCK:
+        cls = dict(attrs).get("class") or ""
+        if tag not in self.VOID:
+            self.stack.append(tag in self.SKIP or "sr-only" in cls.split())
+        if tag == "h1":
+            self.heading = len(self.parts)
+        if tag in self.BLOCK:
+            self.parts.append("\n")
+
+    def handle_startendtag(self, tag, attrs):
+        if tag in self.BLOCK:
             self.parts.append("\n")
 
     def handle_endtag(self, tag):
-        if tag in self.SKIP:
-            self.skip = max(0, self.skip - 1)
-        elif tag in self.BLOCK:
+        if tag not in self.VOID and self.stack:
+            self.stack.pop()
+        if tag == "h1" and self.heading is not None:
+            title = re.sub(r"\s+", " ", "".join(self.parts[self.heading:])).strip().rstrip(":").lower()
+            self.drop = title in META_HEADINGS
+            if self.drop or title in DROP_HEADINGS:
+                del self.parts[self.heading:]
+            self.heading = None
+        if tag in self.BLOCK:
             self.parts.append("\n")
 
     def handle_data(self, data):
-        if not self.skip:
+        if not self.skip and (not self.drop or self.heading is not None):
             self.parts.append(data)
 
 
@@ -330,6 +377,8 @@ def main(argv=None):
     s.add_argument("--since")
     s.add_argument("--until")
     s.add_argument("--pages", type=int, default=1)
+    s.add_argument("--per-page", default="OneHundred", choices=list(PAGE_SIZES))
+    s.add_argument("--limit", type=int, help="stop after this many references")
     s.add_argument("-o", "--out", default="data/ris/index.jsonl")
     f = sub.add_parser("fetch")
     f.add_argument("index")
@@ -347,7 +396,8 @@ def main(argv=None):
         out.parent.mkdir(parents=True, exist_ok=True)
         n = 0
         with out.open("a", encoding="utf-8") as fh:
-            for ref in search(args.app, args.court, args.since, args.until, args.pages):
+            for ref in search(args.app, args.court, args.since, args.until, args.pages, args.per_page,
+                              limit=args.limit):
                 fh.write(json.dumps(ref, ensure_ascii=False) + "\n")
                 n += 1
         print(f"{n} references -> {out}")
