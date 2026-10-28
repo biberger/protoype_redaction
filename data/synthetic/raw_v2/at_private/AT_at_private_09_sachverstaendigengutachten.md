@@ -106,6 +106,12 @@ V. Zusammenfassung
 
 Die Mängel sind überwiegend auf eine fehlerhafte Ausführung der Abdichtung durch die Beklagte zurückzuführen. Die Mangelbehebung erfordert einen Aufwand von brutto EUR 46.140,00. Die Mängel waren bei Übergabe vorhanden. Eine Gewährleistungsfrist nach [[legal_norm|§ 933 Abs 1 ABGB]] iVm [[legal_norm|§ 1167 ABGB]] ist für den Anspruch auf Verbesserung noch nicht abgelaufen.
 
+VII. Erklärung des Sachverständigen
+
+Ich erkläre, dass ich das Gutachten nach bestem Wissen und Gewissen erstattet habe und dass ich mich im Hinblick auf die Parteien in keinem Abhängigkeitsverhältnis befinde. Ich habe die Befundaufnahme persönlich durchgeführt; Teile des Befundes wurden nicht von Hilfskräften ermittelt.
+
+Ich habe die Messungen mit einem kalibrierten Gerät nach den Vorgaben des Herstellers durchgeführt. Die Protokolle der Messungen sind dem Gutachten als Beilage ./1 angeschlossen und können auf Verlangen im Original eingesehen werden.
+
 VI. Honorar
 
 Das Honorar für dieses Gutachten beträgt EUR 2.980,00 netto zuzüglich Umsatzsteuer. Die Zahlung erbitte ich auf das Konto IBAN [[bank_account|AT25 5385 4811 3782 8302]] bei der [[organization|Raiffeisenbank Mödling eGen]].

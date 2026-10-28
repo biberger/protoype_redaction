@@ -13,11 +13,11 @@ Das [[court|Bezirksgericht Schwaz]] hat durch die Richterin [[judge|Mag. Elisabe
 
 Spruch
 
-Die Verlassenschaft nach [[person|Franz Josef Winkler]] wird der Erbin [[person|Sabine Winkler]], [[address|Speckbacherstraße 4/2, 6020 Innsbruck]], auf Grund des Testaments vom [[date|11. März 2011]] zu 2/3 und dem Neffen des Verstorbenen, [[person|Ahmet Doğan]], [[address|Haller Straße 88, 6060 Hall in Tirol]], auf Grund gesetzlicher Erbfolge zu 1/3 eingeantwortet.
+Die Verlassenschaft nach [[person|Franz Josef Winkler]] wird der Erbin [[person|Sabine Winkler]], [[address|Speckbacherstraße 4/2, 6020 Innsbruck]], auf Grund des Testaments vom [[date|11. März 2011]] zur Gänze und dem Neffen des Verstorbenen, [[person|Ahmet Doğan]], [[address|Haller Straße 88, 6060 Hall in Tirol]], als Vermächtnisnehmer im Umfang von 1/3 des beweglichen Nachlasses eingeantwortet.
 
 Die Einantwortung umfasst die Liegenschaft mit der [[land_register_id|EZ 1174]], [[land_register_id|KG 81003 Schwaz]], [[land_register_id|Gst-Nr. 211/3]] samt Gebäude mit der Anschrift [[address|Franz-Josef-Straße 17, 6130 Schwaz]], das Bankguthaben bei der [[organization|Raiffeisenbank Schwaz eGen]] auf dem Konto [[bank_account|AT37 1061 6840 8393 5343]] sowie den beweglichen Nachlass laut Inventar vom [[date|18.02.2025]].
 
-Die Erbin und der Neffe haben die Erbschaftssteuer nach dem Stand des Verfahrens bezahlt beziehungsweise sichergestellt. Die Gerichtskommission hat das Vorliegen der Steuernummer [[tax_id|12 345/6789]] der Erblasser-Hausverwaltung bestätigt.
+Die Gerichtsgebühren der Verlassenschaftsabhandlung sind beglichen. Die Steuernummer des Verstorbenen lautet [[tax_id|12 345/6789]].
 
 Gründe
 
@@ -37,7 +37,7 @@ Die testamentarische Erbfolge geht der gesetzlichen Erbfolge vor. Der Neffe ist 
 
 Der Einwand des Neffen, das Testament sei infolge Demenz des Erblassers ungültig, ist nicht begründet. Der ärztliche Befund vom [[date|3. Dezember 2010]] bestätigt die Testierfähigkeit im Sinn des [[legal_norm|§ 566 ABGB]]. Der behandelnde Arzt [[person|Dr. Heinrich Gasser]] hat die Testierfähigkeit schriftlich bestätigt.
 
-Die Einantwortung erfolgt somit wie folgt: Erbin [[person|Sabine Winkler]] zu 2/3 aus dem Testament, Neffe [[person|Ahmet Doğan]] im Umfang des Vermächtnisses. Die Kosten des Verfahrens trägt die Verlassenschaft nach [[legal_norm|§ 150 AußStrG]].
+Die Einantwortung erfolgt somit wie folgt: Erbin [[person|Sabine Winkler]] aus dem Testament, Neffe [[person|Ahmet Doğan]] als Vermächtnisnehmer im Umfang von 1/3 des beweglichen Nachlasses. Die Kosten des Verfahrens trägt die Verlassenschaft nach [[legal_norm|§ 150 AußStrG]].
 
 Gegen diesen Beschluss steht den Erben der Rekurs an das [[court|Landesgericht Innsbruck]] offen; der Rekurs ist binnen 14 Tagen ab Zustellung zu erheben ([[legal_norm|§ 153 AußStrG]]).
 

@@ -88,5 +88,15 @@ VOLLZUGSÜBERSICHT
       Geschäftsfall [[case_number|21 Fr 2066/19 f]]
       Neueintragung
 
+Hinweise zur Vertretungsbefugnis:
+- Die Geschäftsführer vertreten die Gesellschaft gemeinsam mit einem weiteren Geschäftsführer
+  oder einem Prokuristen. Die selbständige Vertretung durch [[person|Mag. Vladimír Brožek]] gilt
+  seit dem [[date|01.07.2019]] und ist im Firmenbuch unverändert eingetragen.
+- Die Gesamtprokura von [[person|Selma Hasanović]] gilt nur gemeinsam mit einem Geschäftsführer.
+  Die Einzelprokura von [[person|Patrick Oyelaran-Dolezal]] berechtigt zur Vertretung ohne weiteren Vertreter
+  im Rahmen des Handelsgewerbes.
+- Die Eintragung der Gesellschafter erfolgt nach der Liste der Gesellschafter vom
+  [[date|09.10.2025]]; Änderungen in den Stammeinlagen sind nicht eingetragen.
+
 Hinweis: Eingetragene Personen können über die Anschrift der Gesellschaft kontaktiert werden.
 Die Abfrage ersetzt keinen Firmenbuchauszug mit Beglaubigung.

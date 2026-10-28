@@ -33,7 +33,7 @@ IV. Einer Beschwerde gegen diesen Bescheid kommt gemäß [[legal_norm|§ 13 Abs 
 
 Die Identität der Fremden ist durch folgende Dokumente belegt:
 
-- Reisepass der Republik Serbien, Nr. [[id_document_number|PA8832117]], ausgestellt am [[date|12.03.2021]] durch die Stadtverwaltung Novi Sad, gültig bis [[date|11.03.2031]]
+- Reisepass der Republik Serbien, Nr. [[id_document_number|PA8832117]], ausgestellt am [[date|12.03.2021]] durch die [[organization|Stadtverwaltung Novi Sad]], gültig bis [[date|11.03.2031]]
 - Aufenthaltstitel „Rot-Weiß-Rot – Karte plus“, Nr. [[id_document_number|1138-5507]], gültig bis [[date|17.06.2025]]
 - Früherer Reisepass, Nr. [[id_document_number|P5083412]], ausgestellt am [[date|02.05.2014]], abgelaufen
 
@@ -45,7 +45,7 @@ Die Fremde stellte am [[date|14.05.2025]] fristgerecht einen Antrag auf Verläng
 2. Nachweis eines umfassenden Krankenversicherungsschutzes,
 3. Mietvertrag oder Nachweis einer ortsüblichen Unterkunft.
 
-Die Fremde legte am [[date|26.06.2025]] eine Bestätigung ihres Arbeitgebers, der [[organization|Feinkost Balkan Import GmbH]] (FN [[company_register_number|FN 514077x]]), vor, wonach sie seit dem [[date|01.03.2024]] als Verkäuferin beschäftigt sei. Die Gehaltsnachweise der Monate [[date|Jänner 2025]] bis [[date|April 2025]] wurden jedoch nicht vorgelegt. Die Sozialversicherungsnummer [[social_security_number|3246 121287]] ist im Versicherungsdatenauszug nur für den Zeitraum ab [[date|01.03.2024]] ausgewiesen.
+Die Fremde legte am [[date|26.06.2025]] eine Bestätigung ihres Arbeitgebers, der [[organization|Feinkost Balkan Import GmbH]] (FN [[company_register_number|FN 514077x]]), vor, wonach sie seit dem [[date|01.03.2024]] als Verkäuferin beschäftigt sei. Die Gehaltsnachweise der Monate Jänner 2025 bis April 2025 wurden jedoch nicht vorgelegt. Die Sozialversicherungsnummer [[social_security_number|3246 121287]] ist im Versicherungsdatenauszug nur für den Zeitraum ab [[date|01.03.2024]] ausgewiesen.
 
 Die Fremde brachte vor, sie sei aufgrund eines Arbeitsunfalls im Frühjahr 2025 vorübergehend arbeitsunfähig gewesen, weshalb die Gehaltsnachweise nicht vollständig seien. Eine ärztliche Bestätigung der [[organization|Ordination Dr. Heidemarie Fuchs]], [[address|Wiedner Hauptstraße 62, 1040 Wien]], vom [[date|23.06.2025]] liegt bei.
 
@@ -63,7 +63,7 @@ Gemäß [[legal_norm|§ 11 Abs 2 Z 3 NAG]] ist ein Aufenthaltstitel zu versagen,
 
 Die Rückkehrentscheidung gemäß [[legal_norm|§ 52 Abs 1 Z 1 FPG]] ist zulässig. Der Eingriff in das Privat- und Familienleben im Sinne des [[legal_norm|Art. 8 EMRK]] ist nach [[legal_norm|§ 9 Abs 1 BFA-VG]] verhältnismäßig, da die Fremde seit dem Jahr 2021 im Bundesgebiet lebt, jedoch keine Familienangehörigen in Österreich hat und eine Integrationsverfestigung durch den Aufenthalt allein nicht begründet wird. Die Abwägung ergibt, dass das öffentliche Interesse an der Einhaltung der fremdenrechtlichen Vorschriften überwiegt.
 
-Hinweis: Die Fremde wird aufgefordert, das Bundesgebiet innerhalb der Frist zu verlassen. Bei Nichteinhaltung kann die Abschiebung gemäß [[legal_norm|§ 46 FPG]] durchgeführt werden. Eine Einreise- und Aufenthaltsverbot wird nicht erlassen.
+Hinweis: Die Fremde wird aufgefordert, das Bundesgebiet innerhalb der Frist zu verlassen. Bei Nichteinhaltung kann die Abschiebung gemäß [[legal_norm|§ 46 FPG]] durchgeführt werden. Ein Einreiseverbot wird nicht erlassen.
 
 Rechtsmittelbelehrung
 

@@ -111,7 +111,9 @@ XIII. Ausscheiden eines Gesellschafters
 
 3. Die Abfindung ist in vier gleichen Jahresraten zu bezahlen. Für rückständige Raten gilt der gesetzliche Zinssatz nach [[legal_norm|§ 1333 Abs 1 ABGB]]. Die Gesellschaft haftet für Verbindlichkeiten, die vor dem Ausscheiden begründet wurden, nicht im Außenverhältnis gegenüber dem ausscheidenden Gesellschafter.
 
-4. Für Rückfragen zu diesem Vertrag steht der Notar [[lawyer|Dr. Helga Pirker-Osei]] unter [[email|notariat@pirker-osei.at]] zur Verfügung.
+4. Jeder Gesellschafter ist berechtigt, die Bücher und Schriften der Gesellschaft einzusehen. Das Einsichtsrecht umfasst auch die Verträge mit Trägern der Sozialhilfe und die Verzeichnisse der betreuten Personen in anonymisierter Form. Die Einsicht erfolgt in den Geschäftsräumen während der üblichen Geschäftszeiten.
+
+5. Für Rückfragen zu diesem Vertrag steht der Notar [[lawyer|Dr. Helga Pirker-Osei]] unter [[email|notariat@pirker-osei.at]] zur Verfügung.
 
 XIV. Schlussbestimmungen
 

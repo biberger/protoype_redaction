@@ -98,6 +98,16 @@ Eine gänzliche oder teilweise Untervermietung ist ohne schriftliche Zustimmung 
 
 7c.4 Schäden an Leitungen, Rohrbrüchen und Feuchtigkeitsschäden sind den Mietern unverzüglich zu melden. Unterlassene Meldungen gehen zu Lasten der Mieter, soweit daraus ein vermeidbarer Folgeschaden entsteht.
 
+§ 7d Zutritt, Schlüssel und Lärm
+
+7d.1 Die Vermieterin und die Hausverwaltung sind berechtigt, die Wohnung nach vorheriger Ankündigung von mindestens drei Werktagen zu betreten, soweit dies zur Überprüfung der Bausubstanz oder zur Durchführung von Erhaltungsarbeiten erforderlich ist. Bei Gefahr im Verzug ist ein Zutritt ohne Ankündigung zulässig.
+
+7d.2 Die Mieter erhalten zwei Wohnungsschlüssel und einen Schlüssel für die Haustür. Weitere Schlüssel dürfen nur von der Hausverwaltung nachgemacht werden; der Verlust ist unverzüglich zu melden.
+
+7d.3 Lärmbelästigungen, die über das bei einem geordneten Zusammenleben übliche Maß hinausgehen, sind zu unterlassen. Musikinstrumente dürfen werktags zwischen 20:00 und 08:00 Uhr sowie an Sonn- und Feiertagen nicht gespielt werden.
+
+7d.4 Das Rauchen in den Gemeinschaftsräumen des Hauses ist untersagt. In der Wohnung ist durch regelmäßiges Lüften einer übermäßigen Feuchtigkeitsbildung vorzubeugen; eine Verletzung dieser Pflicht kann zu einem Schadenersatzanspruch der Vermieterin führen.
+
 § 8 Gebühren und Schlussbestimmungen
 
 8.1 Die Vergebührung dieses Vertrags übernimmt die Vermieterin. Mietverträge über Wohnräume sind seit dem [[date|11. November 2017]] gebührenfrei; eine Gebührenpflicht nach [[legal_norm|§ 33 TP 5 GebG]] besteht für diesen Vertrag daher nicht.
