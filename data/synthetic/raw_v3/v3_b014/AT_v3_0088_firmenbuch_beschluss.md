@@ -13,7 +13,7 @@ GZ [[case_number|12 Fr 2345/26t-4]]
 
 BESCHLUSS
 
-Das [[court|Landesgericht Linz]] hat als Firmenbuchgericht durch die Richterin [[judge|Dorel Heider]] als Einzelrichterin über die Anmeldung der Antragsteller
+Das [[court|Landesgericht Linz]] hat als Firmenbuchgericht durch die Richterin [[judge|Dorel Heider]] als Einzelrichterin, unter Mitwirkung des Rechtspflegers [[judge|Berti Köchl]], über die Anmeldung der Antragsteller
 
 1. [[person|Rakhshan Ghasemi]], [[address|Gaisbergweg 5, 4342 Baumgartenberg]],
 2. [[person|Don Strasser]], [[address|Kammerstraße 27/12, 3660 Klein-Pöchlarn]],

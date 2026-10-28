@@ -17,7 +17,7 @@ An die
 
 Betreff: Anzeige wegen des Verdachts des schweren Betrugs gegen
 
-1. [[person|BSc Farhat Gelpke]], geboren am [[date|3. Mai 1981]], wohnhaft [[address|Wolfengasse 6/17, 2632 Grafenbach-Sankt Valentin]], als Inhaber der [[organization|Kanizsai e.U.]] ([[company_register_number|FN 48020v]], UID [[tax_id|ATU95504944]]),
+1. [[person|BSc Farhat Gelpke]], geboren am [[date|3. Mai 1981]], wohnhaft [[address|Wolfengasse 6/17, 2632 Grafenbach-Sankt Valentin]], Versicherungsnummer [[social_security_number|9729 261046]], als Inhaber der [[organization|Kanizsai e.U.]] ([[company_register_number|FN 48020v]], UID [[tax_id|ATU95504944]]),
 2. [[person|BSc Dorthe Keller]], geboren am [[date|27. Jänner 1990]], wohnhaft [[address|Zötlweg 15/9, 3365 Allhartsberg]].
 
 Verteidiger des Erstbeschuldigten ist [[lawyer|Lakhdar Nemati]], Rechtsanwalt in [[location|Wien]].

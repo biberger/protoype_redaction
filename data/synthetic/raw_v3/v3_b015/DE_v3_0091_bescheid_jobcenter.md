@@ -44,6 +44,8 @@ Rechtsbehelfsbelehrung
 
 Gegen diesen Bescheid kann innerhalb eines Monats nach Bekanntgabe Widerspruch erhoben werden. Der Widerspruch ist schriftlich oder zur Niederschrift beim Jobcenter einzulegen. Die Frist wird nach [[legal_norm|§ 84 SGG]] gewahrt, wenn der Widerspruch rechtzeitig eingeht.
 
+Die Angaben zu Ihrem Einkommen aus der Tätigkeit als Verkäuferin wurden anhand der Lohnabrechnungen der letzten drei Monate überprüft. Die Abrechnungen für Mai und Juni 2026 weichen nicht von den Angaben im Antrag ab. Eine Änderung der Verhältnisse ist uns unverzüglich, spätestens innerhalb von zehn Tagen, mitzuteilen. Andernfalls können Leistungen nach [[legal_norm|§ 48 SGB X]] zurückgefordert werden.
+
 Mit freundlichen Grüßen
 
 Im Auftrag

@@ -34,7 +34,7 @@ wir bestätigen den Eingang Ihrer Schadenmeldung vom [[date|2. Juni 2026]] betre
 
 1. Sachverhalt
 
-Nach den Angaben der Versicherungsnehmerin ist am Abend des [[date|28.05.2026]] in der Verbindungsleitung zwischen dem Boiler und dem Badezimmer im Obergeschoß ein Rohrbruch aufgetreten. Das Wasser drang über mehrere Stunden in den Estrich und die darunterliegende Lagerfläche ein. Die Feuerwehr Sankt Leonhard am Forst hat die Liegenschaft am folgenden Morgen trockengelegt.
+Nach den Angaben der Versicherungsnehmerin ist am Abend des [[date|28.05.2026]] in der Verbindungsleitung zwischen dem Boiler und dem Badezimmer im Obergeschoß ein Rohrbruch aufgetreten. Das Wasser drang über mehrere Stunden in den Estrich und die darunterliegende Lagerfläche ein. Die [[organization|Feuerwehr Sankt Leonhard am Forst]] hat die Liegenschaft am folgenden Morgen trockengelegt.
 
 Der von uns beauftragte Sachverständige [[person|DI Hakan Yıldız]] hat die Schadenstelle am [[date|09.06.2026]] besichtigt. In seinem Gutachten vom [[date|12.06.2026]] stellt er fest, dass der Bruch auf eine durch Materialermüdung geschwächte Kupferverbindung zurückzuführen ist. Ein Verschulden der Versicherungsnehmerin liegt nach dem Gutachten nicht vor. Die Verlegung der Leitung war im Jahr 2009 fachgerecht erfolgt.
 
@@ -150,7 +150,7 @@ Kosten des Sachverständigen
 
 Die Kosten des Sachverständigen [[person|DI Hakan Yıldız]] wurden von uns beauftragt und übernommen, soweit sie den Schadensteil betreffen. Die Honorarnote des Sachverständigen ist in der Schadenberechnung unter Punkt 3 mit 480,00 Euro enthalten. Ein darüber hinausgehender Betrag für Gutachten zu Vorschäden wurde nicht übernommen, da der Vorschaden nicht Gegenstand des Versicherungsfalls war.
 
-Die Aufwendungen für die Feuerwehr sind keine versicherte Leistung im Rahmen des Vertrages und wurden daher nicht berücksichtigt. Die Feuerwehr Sankt Leonhard am Forst stellt ihre Einsätze der Gemeinde in Rechnung, sodass eine Doppelbelastung ausgeschlossen ist.
+Die Aufwendungen für die Feuerwehr sind keine versicherte Leistung im Rahmen des Vertrages und wurden daher nicht berücksichtigt. Die [[organization|Feuerwehr Sankt Leonhard am Forst]] stellt ihre Einsätze der Gemeinde in Rechnung, sodass eine Doppelbelastung ausgeschlossen ist.
 
 Zahlungsmodalitäten und Verzinsung
 
@@ -168,7 +168,7 @@ Wir bitten um Verständnis, dass die Bearbeitung einige Wochen in Anspruch genom
 
 Mit freundlichen Grüßen
 
-Donauländische Versicherungs-AG
+[[organization|Donauländische Versicherungs-AG]]
 
 [[person|Helga Grassegger]]
 Schadenbearbeitung Sachversicherung

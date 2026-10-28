@@ -54,7 +54,7 @@ III. Vertragsdauer
 
 IV. Untermiete und Mitbewohner
 
-1. Die Untervermietung an [[person|Naji Kamardine]] und [[person|Melanka Balassa]] ist nur mit schriftlicher Zustimmung der Vermieterin zulässig. Die Zustimmung wurde mit diesem Vertrag für die Dauer von zwei Jahren erteilt.
+1. Die Untervermietung an [[person|Naji Kamardine]] (SV-Nr. [[social_security_number|6368 201262]]) und [[person|Melanka Balassa]] ist nur mit schriftlicher Zustimmung der Vermieterin zulässig. Die Zustimmung wurde mit diesem Vertrag für die Dauer von zwei Jahren erteilt.
 
 2. [[person|Kamardines]] Zahlungen werden gesondert auf dem Konto des Mieters erfasst. Die Haftung der Mieterin für Zahlungsrückstände bleibt davon unberührt.
 
@@ -82,13 +82,43 @@ VII. Betrieb und Hausordnung
 
 3. Die Mieter tragen gemeinsam die Kosten für die Reinigung der Stiegenhausbeleuchtung. Die Abrechnung erfolgt mit den Betriebskosten.
 
+4. Die Schneeräumung der Zufahrt und des Hofes obliegt den Mietern gemeinsam. Die Mieter haben hierfür einen Dienstleister zu beauftragen, dessen Kosten mit den Betriebskosten abgerechnet werden. Bei Ausfall des Dienstleisters ist die Vermieterin unverzüglich zu verständigen.
+
+5. Die Mieter sind verpflichtet, die Vermieterin über jede Änderung im Gesellschafterkreis unverzüglich zu informieren. Die [[organization|Gerstl & Strasser e.U.]] legt nach jeder Änderung einen aktuellen Firmenbuchauszug vor, dessen Kopie der Vermieterin zu übergeben ist.
+
 VIII. Rücktritt und Auflösung
 
 1. Die Vermieterin ist zum Rücktritt berechtigt, wenn der Mietzins für zwei aufeinanderfolgende Monate trotz schriftlicher Mahnung nicht bezahlt wird.
 
 2. Eine vorzeitige Auflösung durch die Mieterin ist nur unter den Voraussetzungen des [[legal_norm|§ 1116 ABGB]] möglich. Die Mieterin hat den Mietgegenstand in dem Zustand zurückzustellen, in dem er übernommen wurde, abgesehen von der üblichen Abnutzung.
 
-IX. Schlussbestimmungen
+IX. Haftung und Versicherung
+
+1. Der Mieter haftet für Schäden, die durch sein Verschulden oder das seiner Hilfspersonen entstehen, im Rahmen des [[legal_norm|§ 1311 ABGB]].
+
+2. Die Mieter haben eine Betriebshaftpflichtversicherung mit einer Deckungssumme von mindestens 1,5 Mio. Euro abzuschließen und der Vermieterin jährlich nachzuweisen. Die Polizze ist bei der Vermieterin zu hinterlegen.
+
+3. Die Vermieterin haftet nicht für Schäden, die durch Leitungswasser, Sturm oder sonstige Elementarereignisse entstehen, soweit diese nicht von ihr verschuldet wurden.
+
+X. Verbesserungen und Mietzinsanpassung
+
+1. Verbesserungsarbeiten, die die Vermieterin im Einverständnis mit dem Mieter durchführt, berechtigen zu einer Anpassung des Mietzinses nach [[legal_norm|§ 18 MRG]].
+
+2. Der Mieter hat solche Arbeiten zu dulden, sofern sie nicht unzumutbar sind. Die Dauer der Arbeiten ist im Vorhinein anzukündigen.
+
+3. Die Anbringung von Werbetafeln, Firmenschildern und Leuchtreklamen bedarf der Zustimmung der Vermieterin und der Bewilligung durch die Gemeinde [[location|Thal]]. Die Liegenschaft liegt in einem Gebiet mit Lärmschutzauflagen, die der Mieter zur Kenntnis nimmt.
+
+XI. Übergabe und Zustellung
+
+1. Die Übergabe des Mietgegenstandes erfolgt am [[date|1. März 2026]] anhand eines Übergabeprotokolls, das beide Teile unterzeichnen. Die Schlüssel werden in dreifacher Ausfertigung übergeben; die Schlüsselliste ist Bestandteil dieses Vertrags.
+
+2. Zustellungen gelten als wirksam, wenn sie an die im Vertrag angeführte Anschrift erfolgen. Eine Änderung der Anschrift ist innerhalb von 14 Tagen bekanntzugeben.
+
+3. Die Mieterin bevollmächtigt [[person|Clovis Haller]] zur Entgegennahme von Erklärungen der Vermieterin.
+
+4. Mündliche Nebenabreden bestehen nicht. Alle Vertragsbestandteile sind in diesem Dokument und den Anlagen enthalten. Die Parteien haben den Vertrag nach ausführlicher Besprechung und in Kenntnis seines Inhalts unterfertigt.
+
+XII. Schlussbestimmungen
 
 1. Änderungen dieses Vertrags bedürfen der Schriftform.
 
@@ -98,10 +128,17 @@ IX. Schlussbestimmungen
 
 4. Gerichtsstand ist das für [[location|Thal]] zuständige Bezirksgericht.
 
-Thal, am [[date|2. Februar 2026]]
+[[location|Thal]], am [[date|2. Februar 2026]]
 
 Vermieterin: [[person|Behjat Ben Zaken]]
 
 Miteigentümerin: [[person|Alberta Poma]]
 
 Mieterin: [[organization|Sprenger GmbH]], [[person|Clovis Haller]]
+
+Anlagen:
+
+Anlage 1: Grundrissplan Erdgeschoß und Keller
+Anlage 2: Hausordnung vom [[date|2. Februar 2026]]
+Anlage 3: Übergabeprotokoll vom [[date|1. März 2026]]
+Anlage 4: Bankverbindung der Vermieterin [[bank_account|AT41 7507 7810 9162 5656]]
