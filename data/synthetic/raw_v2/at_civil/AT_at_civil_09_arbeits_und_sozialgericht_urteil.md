@@ -24,7 +24,7 @@ Spruch
 
 Entscheidungsgründe
 
-Die Klägerin war seit dem [[date|1. März 2021]] als Arbeiterin im Objektdienst bei der Beklagten beschäftigt. Sie reinigte Bürogebäude in Wien und Niederösterreich. Ihre Sozialversicherungsnummer lautet [[social_security_number|8661 280755]]. Das monatliche Bruttoentgelt betrug zuletzt 2.210 EUR bei einer Wochenarbeitszeit von 38,5 Stunden.
+Die Klägerin war seit dem [[date|1. März 2021]] als Arbeiterin im Objektdienst bei der Beklagten beschäftigt. Sie reinigte Bürogebäude in [[location|Wien]] und Niederösterreich. Ihre Sozialversicherungsnummer lautet [[social_security_number|8661 280755]]. Das monatliche Bruttoentgelt betrug zuletzt 2.210 EUR bei einer Wochenarbeitszeit von 38,5 Stunden.
 
 Am [[date|28. Juli 2025]] erhielt die Klägerin eine schriftliche Entlassung, die die Beklagte mit dem Vorwurf begründete, die Klägerin habe sich am [[date|21.07.2025]] ohne Abmeldung von einem Objekt in der Kärntner Straße entfernt und dort eine Reinigungsarbeit unterlassen. Außerdem habe sie einen Dienstplan eigenmächtig geändert. Die Beklagte stützte die Entlassung auf [[legal_norm|§ 82 GewO]] und behauptete einen wichtigen Grund.
 

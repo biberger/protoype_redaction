@@ -21,11 +21,11 @@ Sachverhalt
 
 Gestützt auf die Anzeige der [[organization|Kantonspolizei Bern]] vom [[date|14. Februar 2025]] und die Ermittlungen der Staatsanwaltschaft wird dem Beschuldigten Folgendes vorgeworfen:
 
-1. Der Beschuldigte bot zwischen [[date|März 2024]] und [[date|Januar 2025]] auf der Online-Plattform eines Gebrauchtwagenhändlers mehrere Fahrzeuge zum Verkauf an. Die Fahrzeuge befanden sich nicht in seinem Eigentum. Er liess sich von fünf Interessenten Anzahlungen von insgesamt CHF 38'500.– auf ein Konto bei der [[organization|PostFinance AG]] mit der IBAN [[bank_account|CH82 4775 0662 8559 5477 4]] überweisen, ohne die Fahrzeuge je zu übergeben.
+1. Der Beschuldigte bot zwischen März 2024 und Januar 2025 auf der Online-Plattform eines Gebrauchtwagenhändlers mehrere Fahrzeuge zum Verkauf an. Die Fahrzeuge befanden sich nicht in seinem Eigentum. Er liess sich von fünf Interessenten Anzahlungen von insgesamt CHF 38'500.– auf ein Konto bei der [[organization|PostFinance AG]] mit der IBAN [[bank_account|CH82 4775 0662 8559 5477 4]] überweisen, ohne die Fahrzeuge je zu übergeben.
 
 2. Zur Täuschung der Käufer verwendete der Beschuldigte eine gefälschte Fahrzeugausweiskopie für einen Personenwagen mit dem Kennzeichen [[license_plate|BE 482913]]. Das Dokument trug den Stempel einer nicht existierenden Garage in [[location|Thun]].
 
-3. Die Geschädigte [[person|Lena Brunner-Oesch]] überwies am [[date|9. Januar 2025]] CHF 12'000.– und wurde nach der Lieferung eines angeblichen Fahrzeugs von der Strafanzeige nicht abgehalten. Die Geschädigte erstattete am [[date|20. Januar 2025]] Anzeige.
+3. Die Geschädigte [[person|Lena Brunner-Oesch]] überwies am [[date|9. Januar 2025]] CHF 12'000.– und erstattete nach der Lieferung eines angeblichen Fahrzeugs am [[date|20. Januar 2025]] Strafanzeige.
 
 Rechtliche Würdigung
 
@@ -45,9 +45,9 @@ Rechtsmittelbelehrung
 
 Gegen diesen Strafbefehl kann der Beschuldigte innert 10 Tagen seit der Zustellung bei der Staatsanwaltschaft schriftlich Einsprache erheben (vgl. [[legal_norm|Art. 354 Abs. 1 StPO]]). Wird rechtzeitig Einsprache erhoben, so gilt der Strafbefehl als Anklage und das Verfahren wird vor dem zuständigen Gericht durchgeführt (vgl. [[legal_norm|Art. 356 Abs. 1 StPO]]). Wird keine Einsprache erhoben, erwächst der Strafbefehl in Rechtskraft und wirkt wie ein rechtskräftiges Urteil (vgl. [[legal_norm|Art. 354 Abs. 3 StPO]]).
 
-Bern, [[date|3. Juni 2025]]
+[[location|Bern]], [[date|3. Juni 2025]]
 
-Staatsanwaltschaft Bern-Mittelland
+[[organization|Staatsanwaltschaft Bern-Mittelland]]
 [[person|Dominik Ackermann]], Staatsanwalt
 
 Zustellung an: [[person|Bogdan Nowak]] (durch Vermittlung der Verteidigung [[lawyer|Dr. Gisela Berchtold]], [[email|g.berchtold@berchtold-verteidigung.ch]])

@@ -63,7 +63,33 @@ VI. Grundbuch und Durchführung
 
 3. Der Notar [[lawyer|Dr. Sebastian Kraus]] wurde von allen Vertragsparteien ermächtigt, die Abgabenerklärung nach [[legal_norm|§ 13 GrEStG]] zu unterfertigen.
 
-VII. Schlussbestimmungen
+VII. Vorkaufsrecht, Energieausweis und Mietverhältnis
+
+1. Ein Vorkaufsrecht der Gemeinde [[location|Gmunden]] nach dem Oberösterreichischen Grundverkehrsrecht besteht für dieses Grundstück nicht. Die Gemeinde hat mit Schreiben vom [[date|11.02.2025]] auf die Ausübung eines allfälligen Rechts verzichtet.
+
+2. Die Verkäufer übergeben den aktuellen Energieausweis vom [[date|04.11.2024]], Nr. [[other_identifier|OÖ-EA-2024-7712]]. Der Ausweis weist den Heizwärmebedarf des Gebäudes mit der Klasse D aus; die Käuferin erklärt, diesen Ausweis erhalten zu haben.
+
+3. Die Betriebskosten für das Gebäude werden bis zum Übergabestichtag von den Verkäufern getragen. Ab dem Übergabestichtag gehen sie auf die Käuferin über. Die Hausverwaltung [[organization|Traunseer Hausverwaltung Schmid KG]] übernimmt die Abrechnung für das Jahr 2025.
+
+4. Die Wohnung im zweiten Obergeschoss ist an die Mieterin [[person|Sandra Pflügl]], geb. [[date|09.05.1994]], vermietet. Der Mietvertrag vom [[date|01.09.2019]] ist bei Übergabe zu übernehmen; die Käuferin tritt in die Rechte und Pflichten der Vermieterseite ein. Die Verkäufer haben die Mieterin über den Eigentümerwechsel schriftlich zu verständigen.
+
+5. Die Kaufpreisforderung der Verkäufer ist mit der Übergabe der Schlüssel und der Übergabe der Energieausweise fällig. Eine Aufrechnung mit Gegenforderungen der Käuferin ist ausgeschlossen, soweit diese nicht rechtskräftig festgestellt sind.
+
+VIII. Abgaben, Gebühren und Kosten
+
+1. Die Verkäufer erklären, dass für das Grundstück keine Rückstände an Kommunalabgaben, Wasserbezugsgebühren und Kanalanschlussgebühren bestehen. Die Gemeinde [[location|Gmunden]] hat den Abgabenstand mit Bestätigung vom [[date|20.02.2025]] bekannt gegeben.
+
+2. Die Kosten der Vertragserrichtung, der Urkundenausfertigungen und der Eintragungen im Grundbuch trägt die Käuferin. Die Verkäufer tragen die Kosten der Lastenfreistellung und die Kosten der Löschungserklärung der Bank.
+
+3. Die Kosten der Vermessung für die Teilung des Grundstücks 211/3 sind nicht Gegenstand dieses Vertrags. Ein etwaiger Teilungsantrag wird von der Käuferin auf eigene Kosten beim Vermessungsamt eingebracht.
+
+4. Die Notariatsgebühren nach dem Gerichtsgebührengesetz werden nach den Bestimmungen des [[legal_norm|§ 26 GGG]] berechnet und vom Treuhandkonto des Notars beglichen. Eine Vorauszahlung in Höhe von EUR 6.200,00 ist mit Vertragsunterfertigung zu leisten.
+
+5. Die Übergabe der Schlüssel, der Zählerstände und der Unterlagen zur Heizungsanlage erfolgt am Übergabestichtag im Beisein beider Parteien. Über die Übergabe ist ein Protokoll zu errichten, das den Zustand des Gebäudes dokumentiert.
+
+6. Mit der Unterfertigung bestätigen die Vertragsparteien, dass sie den Vertrag gelesen haben, dass er ihrem Willen entspricht und dass er ohne Zwang und ohne Irrtum geschlossen wird.
+
+IX. Schlussbestimmungen
 
 1. Änderungen dieses Vertrags bedürfen der Schriftform und der Errichtung einer Notariatsurkunde. Nebenabreden bestehen nicht.
 

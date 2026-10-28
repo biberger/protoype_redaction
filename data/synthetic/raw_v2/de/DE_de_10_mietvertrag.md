@@ -37,7 +37,7 @@ wird folgender Mietvertrag geschlossen:
 
 (2) Die Mieter zahlen eine monatliche Vorauszahlung auf die Betriebskosten im Sinne des [[legal_norm|§ 2 BetrKV]] in Höhe von 178,00 €.
 
-(3) Die Heizkosten werden nach der [[legal_norm|Heizkostenverordnung]] abgerechnet. Die Vorauszahlung für Heizung und Warmwasser beträgt monatlich 95,00 €.
+(3) Die Heizkosten werden nach der Heizkostenverordnung abgerechnet. Die Vorauszahlung für Heizung und Warmwasser beträgt monatlich 95,00 €.
 
 (4) Die Gesamtmiete beträgt somit monatlich 915,00 €. Zahlungen sind auf das Konto der Vermieterin bei der [[organization|Leipziger Volksbank eG]], [[bank_account|IBAN DE54 7463 4297 4699 4260 55]], zu leisten.
 
@@ -51,7 +51,7 @@ Die Mieter leisten eine Mietsicherheit in Höhe von 1.926,00 €, entsprechend d
 
 (1) Die Mieter haben kleine Instandhaltungen bis zu einem Betrag von 100,00 € im Einzelfall selbst zu tragen, soweit diese der Behebung von Abnutzungsspuren dienen.
 
-(2) Schönheitsreparaturen sind von den Mietern nach Maßgabe der Rechtsprechung des Bundesgerichtshofs durchzuführen, sofern die Wohnung bei Einzug renoviert übergeben wurde.
+(2) Schönheitsreparaturen sind von den Mietern nach Maßgabe der Rechtsprechung des [[court|Bundesgerichtshofs]] durchzuführen, sofern die Wohnung bei Einzug renoviert übergeben wurde.
 
 § 6 Hausordnung und Haustiere
 
@@ -71,7 +71,7 @@ Ansprechpartner der Vermieterin ist Herr [[person|Robert Stallknecht]], Hausverw
 
 (3) Auf die Datenverarbeitung im Zusammenhang mit diesem Vertrag findet [[legal_norm|Art. 6 Abs. 1 Buchst. b DSGVO]] Anwendung.
 
-Leipzig, den [[date|17.10.2025]]
+[[location|Leipzig]], den [[date|17.10.2025]]
 
 _______________________________
 Vermieterin

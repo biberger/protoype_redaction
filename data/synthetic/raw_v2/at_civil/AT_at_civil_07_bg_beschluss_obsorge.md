@@ -21,11 +21,11 @@ Spruch
 
 4. Die Übergabe des Kindes erfolgt am Schulort des Kindes in [[location|Hallein]] oder an der Wohnung der Mutter; ein Kontakt zwischen den Eltern außerhalb dieser Übergaben ist zu vermeiden.
 
-5. Die Kosten der Kinder- und Jugendhilfe für die Familienbegleitung werden dem Land Salzburg überbunden.
+5. Die Kosten der Kinder- und Jugendhilfe für die Familienbegleitung werden dem Land [[location|Salzburg]] überbunden.
 
 Begründung
 
-Die Eltern des minderjährigen Lukas, der am [[date|4. September 2017]] geboren wurde, leben seit dem [[date|1. März 2024]] getrennt. Bis zur Trennung hatten sie die Obsorge gemeinsam ausgeübt. Seit dem Auszug des Vaters aus der gemeinsamen Wohnung in Hallein ist das Kind überwiegend bei der Mutter. Im Verfahren ist strittig geworden, ob die gemeinsame Obsorge fortgesetzt werden kann, weil sich die Eltern über den schulischen Förderbedarf des Kindes nicht einigen konnten.
+Die Eltern des minderjährigen Lukas, der am [[date|4. September 2017]] geboren wurde, leben seit dem [[date|1. März 2024]] getrennt. Bis zur Trennung hatten sie die Obsorge gemeinsam ausgeübt. Seit dem Auszug des Vaters aus der gemeinsamen Wohnung in [[location|Hallein]] ist das Kind überwiegend bei der Mutter. Im Verfahren ist strittig geworden, ob die gemeinsame Obsorge fortgesetzt werden kann, weil sich die Eltern über den schulischen Förderbedarf des Kindes nicht einigen konnten.
 
 Der Vater beantragte mit Schriftsatz vom [[date|17.03.2025]] die Einräumung eines erweiterten Kontaktrechts und die Beibehaltung der gemeinsamen Obsorge, weil er nach seinem Vorbringen an schulischen Entscheidungen beteiligt sein wolle. Die Mutter beantragte die Übertragung der alleinigen Obsorge und begründete dies mit wiederholten Verzögerungen des Vaters bei Übergaben und mit Meinungsverschiedenheiten über die Teilnahme des Kindes an der Lernunterstützung.
 
@@ -41,10 +41,10 @@ Die Eltern haben sich in der Frage des schulischen Förderbedarfs seit dem Früh
 
 Das Kontaktrecht des Vaters ist nach [[legal_norm|§ 186 ABGB]] so zu regeln, dass die Beziehung zum Kind erhalten bleibt. Die oben angeführte Regelung trägt den Angaben des Kindes und dem Umstand Rechnung, dass der Vater die Übergaben bisher nicht zuverlässig eingehalten hat. Ein Entzug des Kontaktrechts ist nicht erforderlich.
 
-Die Anordnung der Familienbegleitung stützt sich auf [[legal_norm|§ 107 AußStrG]] und ist im Rahmen der Obsorgeentscheidung zu treffen. Die Kostenüberbindung an das Land Salzburg erfolgt aufgrund der Zuständigkeit der Jugendhilfe.
+Die Anordnung der Familienbegleitung stützt sich auf [[legal_norm|§ 107 AußStrG]] und ist im Rahmen der Obsorgeentscheidung zu treffen. Die Kostenüberbindung an das Land [[location|Salzburg]] erfolgt aufgrund der Zuständigkeit der Jugendhilfe.
 
 Gegen diesen Beschluss steht den Parteien der Rekurs an das [[court|Landesgericht Salzburg]] offen. Der Rekurs ist binnen 14 Tagen nach Zustellung beim Erstgericht einzubringen ([[legal_norm|§ 58 AußStrG]]). Die Entscheidung wird wirksam, sobald sie rechtskräftig ist; bis dahin bleibt die bisherige Regelung des Kontaktrechts in Kraft.
 
 Kontaktdaten der Mutter laut Akt: [[phone_number|+43 664 5512 038]], Kontaktdaten des Vaters laut Akt: [[phone_number|+43 676 3320 917]], [[email|sanela.b@gmx.at]].
 
-Hallein, am [[date|30. Juni 2025]]
+[[location|Hallein]], am [[date|30. Juni 2025]]

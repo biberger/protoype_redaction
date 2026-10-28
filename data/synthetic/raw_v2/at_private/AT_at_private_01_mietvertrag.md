@@ -70,6 +70,34 @@ Gesamtmietzins brutto                   EUR   1.036,34
 
 Eine gänzliche oder teilweise Untervermietung ist ohne schriftliche Zustimmung der Vermieterin untersagt. Die Haltung eines Hundes bedarf der Zustimmung der Vermieterin. Frau [[person|Demirci]] hat den Hund „Bruno“ bereits im Februar 2023 angemeldet; die Vermieterin erteilt hiermit die nachträgliche Zustimmung, widerruflich bei nachweislicher Störung der übrigen Hausbewohner.
 
+§ 7a Heizung, Hausordnung und Änderungen
+
+7a.1 Die Heizkosten werden nach dem Verhältnis der Nutzflächen gemäß [[legal_norm|§ 17 Abs 1 MRG]] verrechnet, soweit eine Zentralheizung vorhanden ist. Die Gastherme gehört zur Wohnung und ist von den Mietern zu betreiben.
+
+7a.2 Die Hausordnung vom [[date|01.02.2025]] ist Bestandteil dieses Vertrags. Ruhezeiten gelten von 22:00 bis 06:00 Uhr sowie an Sonn- und Feiertagen.
+
+7a.3 Die Mieter sind verpflichtet, einmal jährlich eine Wartung der Gastherme durch einen Fachbetrieb nachzuweisen. Die Kosten der Wartung tragen die Mieter; das Wartungsprotokoll ist an die Hausverwaltung zu übermitteln.
+
+7a.4 Änderungen der Wohnung, insbesondere Wandöffnungen und die Verlegung von Wasserleitungen, bedürfen der schriftlichen Zustimmung der Vermieterin nach [[legal_norm|§ 9 MRG]]. Eine Zustimmung gilt nicht als erteilt, wenn sie nicht ausdrücklich erfolgt.
+
+§ 7b Beendigung und Übergabe
+
+7b.1 Bei Beendigung des Mietverhältnisses hat die Übergabe in Anwesenheit beider Parteien zu erfolgen. Über die Übergabe ist ein Protokoll aufzunehmen, das Zählerstände, Schlüssel und den Zustand der Wohnung festhält.
+
+7b.2 Die Kaution ist binnen der gesetzlichen Frist nach [[legal_norm|§ 16 Abs 2 MRG]] abzurechnen und zurückzuzahlen. Gegenforderungen der Vermieterin sind nur insoweit zulässig, als sie gesondert nachgewiesen werden.
+
+7b.3 Der Mietzins ist bis zum Tag der tatsächlichen Übergabe zu entrichten. Bei verspäteter Übergabe durch die Mieter gebührt der Vermieterin ein Nutzungsentgelt in Höhe des zuletzt vereinbarten Mietzinses.
+
+§ 7c Betriebskostenabrechnung und Versicherung
+
+7c.1 Die Vermieterin rechnet die Betriebskosten jährlich nach [[legal_norm|§ 21 Abs 1 MRG]] ab. Die Abrechnung ist den Mietern bis spätestens 30. Juni des Folgejahres zu übermitteln; die Einsicht in die Belege ist während der Bürostunden der Hausverwaltung möglich.
+
+7c.2 Die Betriebskostenvorauszahlung kann bei einer wesentlichen Änderung der Kostenstruktur nach Anhörung der Mieter angepasst werden. Eine Anpassung ohne Mitteilung ist unwirksam.
+
+7c.3 Die Vermieterin hält eine Haushaltsversicherung für das Gebäude aufrecht. Die Mieter sind verpflichtet, eine eigene Haftpflichtversicherung für Schäden zu unterhalten, die aus dem Gebrauch der Wohnung entstehen. Den Abschluss der Versicherung haben sie auf Verlangen nachzuweisen.
+
+7c.4 Schäden an Leitungen, Rohrbrüchen und Feuchtigkeitsschäden sind den Mietern unverzüglich zu melden. Unterlassene Meldungen gehen zu Lasten der Mieter, soweit daraus ein vermeidbarer Folgeschaden entsteht.
+
 § 8 Gebühren und Schlussbestimmungen
 
 8.1 Die Vergebührung dieses Vertrags übernimmt die Vermieterin. Mietverträge über Wohnräume sind seit dem [[date|11. November 2017]] gebührenfrei; eine Gebührenpflicht nach [[legal_norm|§ 33 TP 5 GebG]] besteht für diesen Vertrag daher nicht.

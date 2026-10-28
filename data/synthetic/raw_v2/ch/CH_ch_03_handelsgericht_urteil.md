@@ -52,6 +52,8 @@ Sachverhalt
 
 5. Am [[date|30. Juni 2019]] trat [[person|Ortiz Ferrer]] als Verwaltungsratspräsident zurück. Die Klägerin musste im Herbst 2019 ein Sanierungsverfahren einleiten, das durch einen Forderungsverzicht der Hauptgläubigerin abgeschlossen wurde.
 
+6. Die Klägerin erstattete im Frühjahr 2020 Strafanzeige gegen unbekannte Personen wegen ungetreuer Geschäftsbesorgung. Das Strafverfahren wurde am [[date|12. Oktober 2020]] eingestellt. Die Beklagten machen geltend, die Einstellung zeige das Fehlen eines strafrechtlich relevanten Verhaltens. Diese Einstellung entfaltet für das Zivilverfahren jedoch keine Bindungswirkung, weshalb das Gericht die Sache selbständig beurteilt.
+
 Die Parteien haben sich über folgende Aktenstücke geäussert:
 
 Dokument | Datum | Verfasser

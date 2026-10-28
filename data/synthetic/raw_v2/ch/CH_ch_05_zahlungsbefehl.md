@@ -45,6 +45,8 @@ Rechtsvorschlag: Der Betriebene kann den Rechtsvorschlag mündlich bei der Betre
 
 Vermerk Zustellung: Der Zahlungsbefehl wurde dem Betriebenen persönlich übergeben. Die Zustellung wurde durch den Weibel [[person|Roland Hunziker]] am [[date|6. Mai 2025]] bestätigt.
 
+Wichtige Hinweise: Die Betreibung kann nur fortgesetzt werden, wenn der Gläubiger ein Fortsetzungsbegehren stellt (vgl. [[legal_norm|Art. 88 Abs. 1 SchKG]]). Auf Verlangen wird dem Betriebenen eine Abschrift dieses Zahlungsbefehls kostenlos ausgehändigt. Teilzahlungen werden nur unter Vorbehalt der Verrechnung entgegengenommen und sind mit dem Betreibungsamt abzusprechen. Das Existenzminimum des Betriebenen bleibt bei einer späteren Pfändung nach Massgabe von [[legal_norm|Art. 92 SchKG]] unberührt.
+
 [[location|Schaffhausen]], [[date|6. Mai 2025]]
 
 [[organization|Betreibungsamt Schaffhausen]]

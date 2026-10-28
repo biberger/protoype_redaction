@@ -69,13 +69,15 @@ Die Klage ist begründet. Die Kündigung vom [[date|28. Februar 2025]] ist sozia
 
 Soweit die Beklagte sich auf die Ausnahme nach [[legal_norm|§ 1 Abs. 3 Satz 2 KSchG]] beruft, hat sie nicht dargelegt, dass die Weiterbeschäftigung des Kollegen [[person|Rostami]] im berechtigten betrieblichen Interesse lag. Die Zeugenaussage des Teamleiters [[person|Matthias Oberhuber]] vom [[date|9. Juli 2025]] hat insoweit keine eindeutigen Anhaltspunkte ergeben.
 
-3. Die Beklagte hat den Betriebsrat nach [[legal_norm|§ 102 Abs. 1 BetrVG]] ordnungsgemäß angehört. Das Anhörungsverfahren ist jedoch nicht entscheidend, weil die Kündigung bereits wegen der fehlerhaften Sozialauswahl unwirksam ist.
+3. Die Beklagte hat den Betriebsrat nach [[legal_norm|§ 102 Abs. 1 BetrVG]] angehört. Das Anhörungsverfahren ist jedoch nicht entscheidend, weil die Kündigung bereits wegen der fehlerhaften Sozialauswahl unwirksam ist. Die Kammer weist allerdings darauf hin, dass die Anhörung die Sozialdaten der Klägerin, insbesondere das Alter und die Unterhaltspflichten, nicht vollständig wiedergegeben hat. Eine Anhörung, die diese Angaben unterschlägt, ist nach ständiger Rechtsprechung unvollständig und gibt dem Betriebsrat keine hinreichende Grundlage für eine Stellungnahme.
 
 4. Der Weiterbeschäftigungsanspruch folgt aus [[legal_norm|§ 611a BGB]] in Verbindung mit [[legal_norm|§ 102 Abs. 5 BetrVG]] und dem allgemeinen Beschäftigungsanspruch, nachdem das Gericht die Unwirksamkeit der Kündigung festgestellt hat. Die Beklagte hat keine überwiegenden schutzwürdigen Interessen dargelegt, die einer Weiterbeschäftigung entgegenstehen.
 
 5. Der Vergütungsanspruch ergibt sich aus [[legal_norm|§ 615 Satz 1 BGB]]. Die Beklagte befand sich nach Ablauf der Kündigungsfrist im Annahmeverzug. Anzurechnen sind nach [[legal_norm|§ 11 KSchG]] das anderweitig erzielte Einkommen sowie das bezogene Arbeitslosengeld, das gemäß [[legal_norm|§ 115 SGB X]] auf die Beklagte übergeht.
 
-6. Eine Auflösung des Arbeitsverhältnisses gegen Abfindung nach [[legal_norm|§ 9 KSchG]] hat keine der Parteien beantragt. Die Voraussetzungen des [[legal_norm|§ 1a KSchG]] liegen mangels Erklärung der Beklagten im Kündigungsschreiben nicht vor.
+6. Eine Auflösung des Arbeitsverhältnisses gegen Abfindung nach [[legal_norm|§ 9 KSchG]] hat keine der Parteien beantragt. Die Voraussetzungen des [[legal_norm|§ 1a KSchG]] liegen mangels Erklärung der Beklagten im Kündigungsschreiben nicht vor. Die Kündigung enthielt keinen Hinweis auf die Möglichkeit einer Abfindung, sodass der Klägerin insoweit kein Anspruch auf Zahlung einer Abfindung zusteht.
+
+7. Die Klägerin hat einen Anspruch auf Erteilung eines qualifizierten Zeugnisses nach [[legal_norm|§ 109 Abs. 1 GewO]] mit einer Leistungs- und Verhaltensbeurteilung. Ein entsprechender Antrag war nicht Gegenstand der Klage, weshalb die Kammer insoweit nicht entscheidet. Die Beklagte wird auf die Entscheidung des [[court|Bundesarbeitsgerichts]] vom [[date|18. November 2008]] hingewiesen, wonach die Erteilung eines Zeugnisses auch nach Beendigung des Arbeitsverhältnisses noch verlangt werden kann.
 
 III.
 

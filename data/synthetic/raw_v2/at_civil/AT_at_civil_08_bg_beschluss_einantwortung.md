@@ -37,10 +37,10 @@ Die testamentarische Erbfolge geht der gesetzlichen Erbfolge vor. Der Neffe ist 
 
 Der Einwand des Neffen, das Testament sei infolge Demenz des Erblassers ungültig, ist nicht begründet. Der ärztliche Befund vom [[date|3. Dezember 2010]] bestätigt die Testierfähigkeit im Sinn des [[legal_norm|§ 566 ABGB]]. Der behandelnde Arzt [[person|Dr. Heinrich Gasser]] hat die Testierfähigkeit schriftlich bestätigt.
 
-Die Einantwortung erfolgt somit wie folgt: Erbin Sabine Winkler zu 2/3 aus dem Testament, Neffe Ahmet Doğan im Umfang des Vermächtnisses. Die Kosten des Verfahrens trägt die Verlassenschaft nach [[legal_norm|§ 150 AußStrG]].
+Die Einantwortung erfolgt somit wie folgt: Erbin [[person|Sabine Winkler]] zu 2/3 aus dem Testament, Neffe [[person|Ahmet Doğan]] im Umfang des Vermächtnisses. Die Kosten des Verfahrens trägt die Verlassenschaft nach [[legal_norm|§ 150 AußStrG]].
 
 Gegen diesen Beschluss steht den Erben der Rekurs an das [[court|Landesgericht Innsbruck]] offen; der Rekurs ist binnen 14 Tagen ab Zustellung zu erheben ([[legal_norm|§ 153 AußStrG]]).
 
-Schwaz, am [[date|14. Juli 2025]]
+[[location|Schwaz]], am [[date|14. Juli 2025]]
 
-Ausfertigungen ergehen an die Erbin, den Neffen und den Notar [[lawyer|Dr. Markus Strasser]] sowie an das Finanzamt Kufstein Schwaz.
+Ausfertigungen ergehen an die Erbin, den Neffen und den Notar [[lawyer|Dr. Markus Strasser]] sowie an das Finanzamt Kufstein [[location|Schwaz]].

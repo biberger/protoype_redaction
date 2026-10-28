@@ -14,7 +14,7 @@ Datum der Erstattung: [[date|17. Februar 2025]]
 
 Gutachtensauftrag
 
-Mit Beschluss vom [[date|09.09.2024]] hat das Bezirksgericht Mödling dem Sachverständigen den Auftrag erteilt, zu folgenden Fragen Stellung zu nehmen:
+Mit Beschluss vom [[date|09.09.2024]] hat das [[court|Bezirksgericht Mödling]] dem Sachverständigen den Auftrag erteilt, zu folgenden Fragen Stellung zu nehmen:
 
 1. Welche Mängel bestehen am Wohnhaus des Klägers in [[address|Hauptplatz 6, 2353 Guntramsdorf]]?
 
@@ -40,6 +40,8 @@ f) Fotodokumentation des Ortsaugenscheins.
 II. Ortsaugenschein
 
 Der Ortsaugenschein fand am [[date|14.01.2025]] in Anwesenheit des Klägers, des Vertreters der Beklagten, Herrn [[person|Bmstr. Kurt Hadžić]], sowie des Privatsachverständigen [[person|DI Martin Fasching]] statt. Das Wetter war trocken, die Außentemperatur betrug 3 Grad Celsius.
+
+Im Garten wurde die Versickerung des Oberflächenwassers untersucht. Die Regenrinnen münden in einen Sickerschacht, der nach Angabe des Eigentümers seit dem Jahr 2019 nicht mehr gereinigt wurde. Der Schacht war zum Zeitpunkt des Augenscheins mit Laub und Schlamm verlegt; der Wasserstand im Schacht betrug rund 40 cm. Ein Rückstau in Richtung Kellerwand ist dadurch nicht auszuschließen, die Ursache der Kellerfeuchtigkeit liegt jedoch nach den Messergebnissen nicht in diesem Bereich.
 
 Das Wohnhaus ist ein zweigeschoßiges Einfamilienhaus aus dem Jahr 2003 mit ausgebautem Dachgeschoß. Die Außenwände bestehen aus Ziegelmauerwerk mit einer Wärmedämmung aus expandiertem Polystyrol von 14 cm Stärke, die Fassade ist mit einem Mineralputz versehen. Im Sockelbereich ist eine Abdichtung mit einer Bitumenschweißbahn ausgeführt.
 
@@ -87,6 +89,18 @@ Die geschätzten Kosten der Mängelbehebung betragen netto EUR 38.450,00 zuzügl
 4. Erkennbarkeit
 
 Die Feuchtigkeit wäre bei einer Kontrolle vor Verfüllung des Arbeitsraums erkennbar gewesen. Der Mangel bestand daher bereits bei Abnahme am [[date|28.10.2022]], wobei der Kläger den Mangel vor Abnahme aufgrund der fehlenden Einsicht nicht erkennen konnte.
+
+5. Aufschlüsselung der Kosten
+
+Die Kostenschätzung gliedert sich wie folgt: Aushub, Verbau und Wiederverfüllung EUR 14.200,00; Bitumenabdichtung samt Dränage EUR 11.650,00; Putzsanierung und Anstrich EUR 6.800,00; Dachgeschoss EUR 3.900,00; Baustelleneinrichtung, Entsorgung und Regiekosten EUR 1.900,00. Die Summe ergibt den oben genannten Nettobetrag von EUR 38.450,00. Die Preise beruhen auf den ortsüblichen Einheitspreisen des Jahres 2025 und enthalten keine Wagnisreserve.
+
+6. Stellungnahme zum Privatgutachten
+
+Das Privatgutachten des [[person|DI Martin Fasching]] vom [[date|10.06.2024]] kommt zum Ergebnis, dass die Feuchtigkeit auf eine Undichtigkeit der Wasserleitung im Kellerbereich zurückzuführen sei. Diese Annahme ist nach dem Ergebnis des Ortsaugenscheins nicht haltbar: Die Leitung wurde im Bereich der Nordwand druckgeprüft und ist dicht. Der Privatgutachter hat die Feuchtemessung nur an einer Stelle durchgeführt und die Kellerwand nicht geöffnet.
+
+Die Einwendungen des Vertreters der Beklagten, wonach die Feuchtigkeit auf Hangwasser zurückzuführen sei, werden durch den Befund nicht gestützt. Ein Hangwasserdruck hätte eine Durchfeuchtung der Südwand in vergleichbarer Intensität zur Folge gehabt; dies wurde nicht festgestellt.
+
+Eine weitere Stellungnahme des Klägers vom [[date|14.02.2025]] wurde zur Kenntnis genommen. Die dort angeführten Kosten einer Ersatzvornahme in Höhe von EUR 4.200,00 sind in der Kostenschätzung bereits berücksichtigt.
 
 V. Zusammenfassung
 

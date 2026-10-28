@@ -55,6 +55,12 @@ V. Generalversammlung
 
 2. Jeder Geschäftsanteil gewährt eine Stimme je EUR 1,00 der Stammeinlage.
 
+3. Über die Beschlüsse der Generalversammlung ist eine Niederschrift zu führen, die vom Vorsitzenden und einem weiteren Gesellschafter zu unterfertigen ist. Die Niederschrift ist binnen zwei Wochen nach der Versammlung allen Gesellschaftern zuzustellen.
+
+4. Umlaufbeschlüsse sind zulässig, wenn alle stimmberechtigten Gesellschafter schriftlich zustimmen. Die Zustimmung kann auch per E-Mail an [[email|gesellschafter@pannonia-sozial.at]] erfolgen; die Ausdrucke sind in das Protokollbuch aufzunehmen.
+
+5. Die Einberufung der Generalversammlung erfolgt durch eingeschriebenen Brief oder durch E-Mail mit Lesebestätigung mit einer Frist von mindestens sieben Tagen. Die Tagesordnung ist beizufügen. Ein Gesellschafter, der an der Versammlung nicht teilnehmen kann, lässt sich durch einen schriftlich bevollmächtigten Vertreter vertreten; eine Vertretung durch Mitglieder der Geschäftsführung ist ausgeschlossen.
+
 VI. Gewinnverteilung
 
 Der Jahresüberschuss wird nach Abzug der Rücklagen im Verhältnis der Geschäftsanteile an die Gesellschafter ausgeschüttet, soweit die Generalversammlung nicht etwas anderes beschließt. Gewinnanteile sind mit Ablauf des auf das Geschäftsjahr folgenden Monats fällig.
@@ -73,13 +79,41 @@ Die Gesellschafter verpflichten sich, während der Dauer ihrer Beteiligung keine
 
 IX. Verschwiegenheit und Datenschutz
 
-Die Gesellschafter und die Geschäftsführung sind verpflichtet, Kundendaten, insbesondere Gesundheitsdaten der betreuten Personen, vertraulich zu behandeln. Die Verarbeitung erfolgt nach [[legal_norm|Art. 9 Abs. 2 lit. h DSGVO]] iVm [[legal_norm|§ 9 DSG]].
+Die Gesellschafter und die Geschäftsführung sind verpflichtet, Kundendaten, insbesondere Gesundheitsdaten der betreuten Personen, vertraulich zu behandeln. Die Verarbeitung erfolgt nach [[legal_norm|Art. 9 Abs. 2 lit. h DSGVO]] iVm [[legal_norm|§ 9 DSG]]. Die Gesellschaft führt ein Verzeichnis der Verarbeitungstätigkeiten nach [[legal_norm|Art. 30 DSGVO]] und bestellt einen Datenschutzbeauftragten, sobald die gesetzlichen Voraussetzungen dafür vorliegen.
+
+Die Gesellschafter verpflichten sich, Auskünfte über betreute Personen nur an berechtigte Stellen weiterzugeben, insbesondere an die zuständigen Sozialhilfeträger und an Angehörige mit nachweisbarer Vollmacht. Eine Weitergabe an Dritte zu Werbezwecken ist ausgeschlossen. Die Verschwiegenheit gilt auch für Mitarbeiter, die bei der Gesellschaft nicht mehr beschäftigt sind.
 
 X. Gründungsaufwand und Kosten
 
 Der Gründungsaufwand bis zu einem Betrag von EUR 2.800,00 trägt die Gesellschaft. Die Notariatskosten nach [[legal_norm|§ 26 Abs 1 GGG]] sowie die Eintragungsgebühr für die Firmenbucheintragung trägt ebenfalls die Gesellschaft.
 
-XI. Schlussbestimmungen
+XI. Geschäftsjahr, Buchführung und Berichtswesen
+
+1. Das Geschäftsjahr entspricht dem Kalenderjahr. Das erste Geschäftsjahr endet am [[date|31. Dezember 2025]].
+
+2. Die Geschäftsführung hat der Generalversammlung bis zum [[date|30. April]] jeden Jahres einen Bericht über die Lage der Pflegeeinrichtungen, die Auslastung der Tagesbetreuung und die Entwicklung der Personalkosten vorzulegen. Der Bericht ist den Gesellschaftern in Abschrift zu übermitteln, soweit dem nicht die Verschwiegenheitspflichten nach Abschnitt IX entgegenstehen.
+
+3. Der Abschlussprüfer wird von der Generalversammlung bestellt. Die Kosten der Prüfung trägt die Gesellschaft. Ist eine Prüfung nach [[legal_norm|§ 269 UGB]] vorgeschrieben, hat die Geschäftsführung die Bestellung unverzüglich zu veranlassen.
+
+XII. Haftung der Geschäftsführung
+
+1. Der Geschäftsführer haftet der Gesellschaft für den Schaden, der durch schuldhafte Verletzung der Sorgfalt eines ordentlichen Geschäftsmannes entsteht, nach [[legal_norm|§ 25 Abs 1 GmbHG]].
+
+2. Die Gesellschafter können auf Ersatzansprüche gegen die Geschäftsführung nur mit Zustimmung der Generalversammlung verzichten. Ein Vergleich über solche Ansprüche bedarf der Zustimmung aller Gesellschafter; die Anwendung des [[legal_norm|§ 39 Abs 4 GmbHG]] bleibt unberührt.
+
+3. Die Gesellschaft schließt eine Haftpflichtversicherung für Vermögensschäden ab. Die Prämie trägt die Gesellschaft; die Versicherungssumme beträgt mindestens EUR 1.000.000,00 je Versicherungsfall.
+
+XIII. Ausscheiden eines Gesellschafters
+
+1. Ein Gesellschafter kann aus wichtigem Grund durch Beschluss der übrigen Gesellschafter ausgeschlossen werden. Als wichtiger Grund gilt insbesondere die dauernde Unfähigkeit zur Geschäftsführung oder die schwerwiegende Verletzung der Verschwiegenheitspflicht nach Abschnitt IX.
+
+2. Der ausscheidende Gesellschafter erhält ein Abfindungsguthaben nach dem Verkehrswert seines Geschäftsanteils zum Stichtag des Ausscheidens, höchstens jedoch den Buchwert zuzüglich eines Zuschlags von zehn Prozent.
+
+3. Die Abfindung ist in vier gleichen Jahresraten zu bezahlen. Für rückständige Raten gilt der gesetzliche Zinssatz nach [[legal_norm|§ 1333 Abs 1 ABGB]]. Die Gesellschaft haftet für Verbindlichkeiten, die vor dem Ausscheiden begründet wurden, nicht im Außenverhältnis gegenüber dem ausscheidenden Gesellschafter.
+
+4. Für Rückfragen zu diesem Vertrag steht der Notar [[lawyer|Dr. Helga Pirker-Osei]] unter [[email|notariat@pirker-osei.at]] zur Verfügung.
+
+XIV. Schlussbestimmungen
 
 1. Sollte eine Bestimmung dieses Vertrags unwirksam sein, bleibt der Vertrag im Übrigen wirksam; die Gesellschafter verpflichten sich zu einer dem wirtschaftlichen Zweck möglichst nahekommenden Ersatzregelung.
 
