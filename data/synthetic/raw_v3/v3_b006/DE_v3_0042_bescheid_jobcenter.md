@@ -58,7 +58,7 @@ Freibetrag nach [[legal_norm|§ 11b Abs 2 SGB II]] | 100,00 EUR
 Freibetrag nach [[legal_norm|§ 11b Abs 3 SGB II]] | 20 % des Restbetrages
 Anrechnung gesamt | 237,72 EUR
 
-Die Tätigkeit bei der [[organization|Quast Reinigungs GmbH & Co. KG]] endet nach Angaben des Arbeitgebers zum 31. Dezember 2026; die Anrechnung wird ab dem Folgemonat neu berechnet.
+Die Tätigkeit bei der [[organization|Quast Reinigungs GmbH & Co. KG]] endet nach Angaben des Arbeitgebers zum [[date|31. Dezember 2026]]; die Anrechnung wird ab dem Folgemonat neu berechnet.
 
 Vorbringen im Widerspruch
 

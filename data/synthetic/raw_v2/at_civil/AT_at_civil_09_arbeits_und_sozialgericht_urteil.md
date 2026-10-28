@@ -42,7 +42,7 @@ Rechtliche Beurteilung
 
 1. Die Entlassung ist nach [[legal_norm|§ 82 GewO]] nur zulässig, wenn ein Entlassungsgrund vorliegt, der die sofortige Auflösung des Dienstverhältnisses rechtfertigt. Die Beklagte hat dafür die Beweislast. Ein Entlassungsgrund setzt grundsätzlich voraus, dass der Arbeitnehmer vorsätzlich oder grob fahrlässig gegen seine Dienstpflichten verstoßen hat.
 
-Die Klägerin hat sich am 21. Juli 2025 nicht rechtswidrig verhalten, weil der Pflegeurlaub nach [[legal_norm|§ 16 Abs 1 UrlG]] iVm [[legal_norm|§ 14a AVRAG]] für die Pflege naher Angehöriger in Anspruch genommen werden kann. Der Anspruch ist zwar an eine Meldung beim Arbeitgeber gebunden, doch hat die Klägerin diese Meldung am Vortag mit dem Vorarbeiter abgestimmt. Die Beklagte musste die Klägerin nicht sofort entlassen, sondern hätte den Sachverhalt klären können.
+Die Klägerin hat sich am [[date|21. Juli 2025]] nicht rechtswidrig verhalten, weil der Pflegeurlaub nach [[legal_norm|§ 16 Abs 1 UrlG]] iVm [[legal_norm|§ 14a AVRAG]] für die Pflege naher Angehöriger in Anspruch genommen werden kann. Der Anspruch ist zwar an eine Meldung beim Arbeitgeber gebunden, doch hat die Klägerin diese Meldung am Vortag mit dem Vorarbeiter abgestimmt. Die Beklagte musste die Klägerin nicht sofort entlassen, sondern hätte den Sachverhalt klären können.
 
 2. Zur Verhältnismäßigkeit: Eine Entlassung ist nur das äußerste Mittel. Die Klägerin war seit mehr als vier Jahren ohne Beanstandung beschäftigt. Eine Abmahnung ist nicht erfolgt. Die Beklagte hätte daher eine Verwarnung oder eine Abmahnung als milderes Mittel wählen müssen. Die Entlassung war daher ungerechtfertigt.
 

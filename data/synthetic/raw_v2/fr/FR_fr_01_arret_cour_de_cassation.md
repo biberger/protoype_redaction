@@ -55,7 +55,7 @@ Motifs de la décision
 
 PAR CES MOTIFS, la Cour :
 
-CASSE ET ANNULE, mais seulement en ce qu'il rejette la demande de la caution fondée sur l'[[legal_norm|article L. 332-1 du code de la consommation]], l'arrêt rendu le 7 septembre 2022, entre les parties, par la [[court|cour d'appel de Lyon]] ;
+CASSE ET ANNULE, mais seulement en ce qu'il rejette la demande de la caution fondée sur l'[[legal_norm|article L. 332-1 du code de la consommation]], l'arrêt rendu le [[date|7 septembre 2022]], entre les parties, par la [[court|cour d'appel de Lyon]] ;
 
 Remet, sur les points restant en litige, la cause et les parties dans l'état où elles se trouvaient avant ledit arrêt, et les renvoie devant la [[court|cour d'appel de Dijon]] ;
 

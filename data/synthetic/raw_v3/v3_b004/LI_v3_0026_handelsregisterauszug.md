@@ -12,7 +12,7 @@ Auszug aus dem Öffentlichkeitsregister gemäss [[legal_norm|Art. 180 PGR]]. Die
 
 1. [[organization|Forrer Holz Stiftung]]
 Rechtsform: Stiftung
-UID: [[tax_id|CHE-164.833.954]]
+UID: [[company_register_number|CHE-164.833.954]]
 Sitz: [[location|Triesen]], [[address|Bäulistrasse 38, 9495 Triesen]]
 Eintragung: [[date|3. Februar 2011]]
 Stiftungsrat:
@@ -23,7 +23,7 @@ Bankverbindung: [[bank_account|LI77 3125 9455 7388 6136 1]]
 
 2. [[organization|Filipović & Türk GmbH]]
 Rechtsform: Gesellschaft mit beschränkter Haftung
-UID: [[tax_id|CHE-787.053.982]]
+UID: [[company_register_number|CHE-787.053.982]]
 Sitz: [[location|Triesen]], [[address|Alfred Aebi-Strasse 25, 9495 Triesen]]
 Gründung: [[date|17.06.2014]]
 Geschäftsführer: Herr [[person|Reynaud Tounkara]], Einzelunterschrift
@@ -32,7 +32,7 @@ Stammkapital: CHF 100'000.00, voll einbezahlt
 
 3. [[organization|Colomb & Rakočević AG]]
 Rechtsform: Aktiengesellschaft
-UID: [[tax_id|CHE-845.400.707]]
+UID: [[company_register_number|CHE-845.400.707]]
 Sitz: [[location|Triesen]], [[address|Pflaumenweg 82, 9495 Triesen]]
 Verwaltungsrat:
 - Präsidentin: Frau [[person|Marlène Hasler-Ospelt]], wohnhaft in [[location|Balzers]]

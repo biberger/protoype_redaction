@@ -33,7 +33,7 @@ Die Grunderwerbsteuer nach dem [[legal_norm|GrEStG]] trägt der Käufer. Die Ein
 
 Die Übergabe der Liegenschaft einschließlich aller Schlüssel erfolgt am [[date|12.03.2025]]. Ab diesem Zeitpunkt trägt der Käufer Nutzen und Gefahr. Die Verkäuferin hat bis dahin die laufenden Betriebskosten getragen.
 
-[[person|Wachter]] bestätigt, dass ihr keine Mängel bekannt sind, die nicht im Lastenblatt verzeichnet sind. Die Verkäuferin haftet für Rechtsmängel, nicht jedoch für sichtbare Baumängel, die dem Käufer bei der Besichtigung am 20. Juni 2024 bekannt waren.
+[[person|Wachter]] bestätigt, dass ihr keine Mängel bekannt sind, die nicht im Lastenblatt verzeichnet sind. Die Verkäuferin haftet für Rechtsmängel, nicht jedoch für sichtbare Baumängel, die dem Käufer bei der Besichtigung am [[date|20. Juni 2024]] bekannt waren.
 
 ## V. Grundbuch
 

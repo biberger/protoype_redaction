@@ -57,11 +57,11 @@ Sur l'indemnisation pour heures supplémentaires :
 
 Les appelants sollicitent en outre le paiement d'heures supplémentaires accomplies entre le mois de janvier 2024 et le mois de février 2025, dont la réalité n'est contestée qu'en partie par la société intimée. La cour retient que les relevés produits par [[person|Basset]] sont suffisamment précis pour permettre à l'employeur de répondre, et que la société ne rapporte pas la preuve contraire des horaires effectivement réalisés.
 
-Il sera donc alloué à [[person|Basset]] et à [[person|Vlasák]] les sommes correspondantes, majorées des congés payés afférents. La cour rappelle que les intérêts au taux légal courent à compter de la demande initiale, conformément à [[legal_norm|l'article 1231-6 du Code civil]].
+Il sera donc alloué à [[person|Basset]] et à [[person|Vlasák]] les sommes correspondantes, majorées des congés payés afférents. La cour rappelle que les intérêts au taux légal courent à compter de la demande initiale, conformément à l'[[legal_norm|article 1231-6 du Code civil]].
 
 Sur les frais irrépétibles :
 
-Il serait inéquitable de laisser à la charge des appelants les frais exposés pour faire valoir leurs droits. Une somme leur sera allouée au titre de [[legal_norm|l'article 700 du Code de procédure civile]].
+Il serait inéquitable de laisser à la charge des appelants les frais exposés pour faire valoir leurs droits. Une somme leur sera allouée au titre de l'[[legal_norm|article 700 du Code de procédure civile]].
 
 Par ces motifs
 

@@ -123,7 +123,7 @@ Die Eintragung erfolgte aufgrund der Anmeldung der Geschäftsführerin. Die Nota
 
 Die Gesellschaft wird im Handelsregister unter der Nummer [[company_register_number|HRB 227775]] geführt. Für die Anmeldung zuständig ist das [[court|Amtsgericht Hannover]].
 
-**13. Kapitalerhöhung vom 9. November 2023 im Einzelnen**
+**13. Kapitalerhöhung vom [[date|9. November 2023]] im Einzelnen**
 
 Die Gesellschafterversammlung hat am [[date|9. November 2023]] beschlossen, das Stammkapital um 25.000 EUR auf 50.000 EUR zu erhöhen. Die neuen Geschäftsanteile wurden wie folgt übernommen:
 

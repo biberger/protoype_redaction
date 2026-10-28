@@ -9,7 +9,7 @@ BESCHLUSS UND URTEIL
 
 [[case_number|VIII ZR 45/25]]
 
-Verkündet am 18. Juni 2026
+Verkündet am [[date|18. Juni 2026]]
 
 Im Namen des Volkes
 
@@ -31,7 +31,7 @@ Beklagte und Revisionsbeklagte,
 
 Streithelfer: [[person|Siebeld Mackensen]], [[address|Von-Römer-Straße 5, 57250 Netphen]]
 
-hat der VIII. Zivilsenat des [[court|Bundesgerichtshofs]] auf die mündliche Verhandlung vom 18. Juni 2026 durch die Vorsitzende Richterin [[judge|MBA Hartje Scheele]], die Richter [[judge|Dave Hoppe]] und die Richterin [[judge|Stefani Fenner]] für Recht erkannt:
+hat der VIII. Zivilsenat des [[court|Bundesgerichtshofs]] auf die mündliche Verhandlung vom [[date|18. Juni 2026]] durch die Vorsitzende Richterin [[judge|MBA Hartje Scheele]], die Richter [[judge|Dave Hoppe]] und die Richterin [[judge|Stefani Fenner]] für Recht erkannt:
 
 Tenor
 

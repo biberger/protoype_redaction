@@ -29,7 +29,7 @@ Die [[organization|Staatsanwaltschaft II des Kantons Zürich]] erlässt gestütz
 
 4. Sachverhalt
 
-4.1 [[person|Tahar Afzali]] war vom 1. März 2023 bis zum 30. Juni 2024 bei der [[organization|Steffen SA]] angestellt. Er verfügte über die Zugriffsberechtigung auf das Zahlungssystem der Gesellschaft.
+4.1 [[person|Tahar Afzali]] war vom [[date|1. März 2023]] bis zum [[date|30. Juni 2024]] bei der [[organization|Steffen SA]] angestellt. Er verfügte über die Zugriffsberechtigung auf das Zahlungssystem der Gesellschaft.
 
 4.2 Zwischen dem [[date|3. Mai 2024]] und dem [[date|19.09.2024]] erstellte [[person|Tahar Afzali]] insgesamt elf Zahlungsaufträge zulasten der Geschäftskonten der [[organization|Steffen SA]]. Als Begünstigter war jeweils [[person|Alec Fowler]] angegeben. Die Rechnungen, auf die sich die Zahlungen stützten, waren nicht geschuldet und trugen die gefälschte Unterschrift von [[person|Ulvi Cornaz]].
 

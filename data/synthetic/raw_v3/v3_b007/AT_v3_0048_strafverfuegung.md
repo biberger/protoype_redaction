@@ -40,7 +40,7 @@ Die Messung erfolgte mit einem geeichten Lasermessgerät. Das Eichzertifikat lie
 
 Sie können gegen diese Strafverfügung innerhalb von zwei Wochen nach Zustellung Einspruch erheben.
 
-Neusiedl am See, am [[date|18.08.2026]]
+[[location|Neusiedl am See]], am [[date|18.08.2026]]
 
 Für die Bezirkshauptmann:
 GrInsp. [[person|Mihaly Neumeister]]

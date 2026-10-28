@@ -33,7 +33,7 @@ wegen Rückzahlung von 4.812,40 EUR samt Zinsen
 
 erheben die Kläger Klage und beantragen:
 
-1. Die Beklagte ist schuldig, den Klägern 4.812,40 EUR samt 4 % Zinsen seit 1. Mai 2026 zu bezahlen.
+1. Die Beklagte ist schuldig, den Klägern 4.812,40 EUR samt 4 % Zinsen seit [[date|1. Mai 2026]] zu bezahlen.
 2. Die Beklagte trägt die Kosten des Verfahrens.
 
 **Begründung**

@@ -31,11 +31,11 @@ Article 2 — Régime juridique
 
 Le présent bail est soumis aux dispositions des [[legal_norm|articles L. 145-1 et suivants du Code de commerce]] ainsi qu'aux règles générales du [[legal_norm|Code civil]]. Les parties déclarent que le bail ne relève pas du statut des baux d'habitation.
 
-Pour tout ce qui n'est pas expressément prévu, les parties s'en remettent à [[legal_norm|l'article 1714 du Code civil]] et à [[legal_norm|l'article 1103 du Code civil]], qui imposent au bailleur de délivrer et d'entretenir la chose louée.
+Pour tout ce qui n'est pas expressément prévu, les parties s'en remettent à l'[[legal_norm|article 1714 du Code civil]] et à l'[[legal_norm|article 1103 du Code civil]], qui imposent au bailleur de délivrer et d'entretenir la chose louée.
 
 Article 3 — Durée
 
-Le bail est consenti pour une durée de neuf ans, à compter du [[date|1er mars 2026]], pour se terminer le [[date|28 février 2035]]. Il pourra être résilié à l'expiration de chaque période triennale, dans les conditions prévues par [[legal_norm|l'article L. 145-4 du Code de commerce]].
+Le bail est consenti pour une durée de neuf ans, à compter du [[date|1er mars 2026]], pour se terminer le [[date|28 février 2035]]. Il pourra être résilié à l'expiration de chaque période triennale, dans les conditions prévues par l'[[legal_norm|article L. 145-4 du Code de commerce]].
 
 Article 4 — Loyer
 
@@ -71,7 +71,7 @@ Article 10 — Travaux
 
 Le preneur ne peut effectuer aucune modification des locaux sans l'accord écrit préalable du bailleur. Les travaux d'aménagement intérieur demeurent acquis au bailleur en fin de bail, sans indemnité, sauf stipulation contraire expresse.
 
-Les travaux de mise aux normes incombant au bailleur en application de [[legal_norm|l'article 1719 du Code civil]] sont exécutés dans un délai de trois mois à compter de la mise en demeure adressée par le preneur. À défaut, le preneur peut faire réaliser les travaux et en imputer le coût sur le loyer, dans la limite d'un trimestre.
+Les travaux de mise aux normes incombant au bailleur en application de l'[[legal_norm|article 1719 du Code civil]] sont exécutés dans un délai de trois mois à compter de la mise en demeure adressée par le preneur. À défaut, le preneur peut faire réaliser les travaux et en imputer le coût sur le loyer, dans la limite d'un trimestre.
 
 Article 11 — Assurances
 
@@ -115,8 +115,8 @@ Annexes :
 Tableau des loyers prévus, présenté sous forme de texte :
 
 Année Période Loyer annuel HT Indexation
-1 du 1er mars 2026 au 28 février 2027 48 000 euros Indice de base
-2 du 1er mars 2027 au 29 février 2028 48 000 euros Révision annuelle
-3 du 1er mars 2028 au 28 février 2029 48 000 euros Révision annuelle
+1 du [[date|1er mars 2026]] au [[date|28 février 2027]] 48 000 euros Indice de base
+2 du [[date|1er mars 2027]] au [[date|29 février 2028]] 48 000 euros Révision annuelle
+3 du [[date|1er mars 2028]] au [[date|28 février 2029]] 48 000 euros Révision annuelle
 
 Les parties reconnaissent avoir reçu un exemplaire du présent contrat et de ses annexes.

@@ -33,7 +33,7 @@ und
 Streithelfer der Beklagten,
 Prozessbevollmächtigte: Rechtsanwältin [[lawyer|Zlatija Jevtović]], [[location|Frankfurt am Main]],
 
-hat der 16. Zivilsenat des [[court|Oberlandesgerichts Frankfurt am Main]] durch den Vorsitzenden Richter am Oberlandesgericht [[judge|Reimund Probst]], die Richterin am Oberlandesgericht [[judge|BSc Astrid Held]] und den Richter am Oberlandesgericht [[judge|Burckard Stolle]] auf die mündliche Verhandlung vom 9. April 2026 für Recht erkannt:
+hat der 16. Zivilsenat des [[court|Oberlandesgerichts Frankfurt am Main]] durch den Vorsitzenden Richter am Oberlandesgericht [[judge|Reimund Probst]], die Richterin am Oberlandesgericht [[judge|BSc Astrid Held]] und den Richter am Oberlandesgericht [[judge|Burckard Stolle]] auf die mündliche Verhandlung vom [[date|9. April 2026]] für Recht erkannt:
 
 I. Die Berufung der Klägerin gegen das Urteil des [[court|Landgerichts Frankfurt am Main]] vom [[date|3. März 2025]], Az. [[case_number|2-03 O 245/25]], wird zurückgewiesen.
 

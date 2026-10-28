@@ -18,19 +18,19 @@ ONT COMPARU :
 
 Le vendeur :
 
-La société [[organization|Plomberie Stachurski SCI]], société civile immobilière au capital de 1.000,00 euros, immatriculée au [[company_register_number|RCS Bordeaux]] sous le numéro SIREN [[company_register_number|155 727 746]] et le SIRET [[company_register_number|155 727 746 05761]], numéro de TVA intracommunautaire [[tax_id|FR 16 155 727 746]], dont le siège est à [[location|Bordeaux]], représentée par son gérant, Monsieur [[person|Toussaint Verdier]], demeurant à [[location|Reims]].
+La société [[organization|Plomberie Stachurski SCI]], société civile immobilière au capital de 1.000,00 euros, immatriculée au RCS [[location|Bordeaux]] sous le numéro SIREN [[company_register_number|155 727 746]] et le SIRET [[company_register_number|155 727 746 05761]], numéro de TVA intracommunautaire [[tax_id|FR 16 155 727 746]], dont le siège est à [[location|Bordeaux]], représentée par son gérant, Monsieur [[person|Toussaint Verdier]], demeurant à [[location|Reims]].
 
 Madame [[person|Prisque Lannes]], épouse [[person|Verdier]], intervient au présent acte pour consentir à la vente du bien commun, conformément au régime matrimonial des époux.
 
 L'acquéreur :
 
-La société [[organization|Augustin Restauration SCI]], société civile au capital de 500,00 euros, immatriculée au [[company_register_number|RCS Angers]] sous le numéro SIREN [[company_register_number|229 919 410]] et le SIRET [[company_register_number|229 919 410 09312]], numéro de TVA intracommunautaire [[tax_id|FR 69 229 919 410]], représentée par son gérant, Monsieur [[person|Rayan Audibert]].
+La société [[organization|Augustin Restauration SCI]], société civile au capital de 500,00 euros, immatriculée au RCS [[location|Angers]] sous le numéro SIREN [[company_register_number|229 919 410]] et le SIRET [[company_register_number|229 919 410 09312]], numéro de TVA intracommunautaire [[tax_id|FR 69 229 919 410]], représentée par son gérant, Monsieur [[person|Rayan Audibert]].
 
 Madame [[person|Juliette Crosnier]] et Monsieur [[person|Hans-Jörg Bollag]], associés de la société acquéreuse, ont approuvé l'acquisition par décision collective du [[date|2 juin 2026]]. Madame [[person|Lyne Lacaze]], associée, a donné son accord écrit à la même date.
 
 La servitude :
 
-La société [[organization|Transports de las Heras SASU]], société par actions simplifiée à associé unique, immatriculée au [[company_register_number|RCS Bordeaux]] sous le SIREN [[company_register_number|378 759 211]] et le SIRET [[company_register_number|378 759 211 04263]], numéro de TVA [[tax_id|FR 51 378 759 211]], représentée par sa présidente, Madame [[person|Alexine Leroux]], consent à la constitution de la servitude de passage décrite ci-après.
+La société [[organization|Transports de las Heras SASU]], société par actions simplifiée à associé unique, immatriculée au RCS [[location|Bordeaux]] sous le SIREN [[company_register_number|378 759 211]] et le SIRET [[company_register_number|378 759 211 04263]], numéro de TVA [[tax_id|FR 51 378 759 211]], représentée par sa présidente, Madame [[person|Alexine Leroux]], consent à la constitution de la servitude de passage décrite ci-après.
 
 Lesquelles parties ont requis le notaire soussigné de recevoir le présent acte, dont la lecture a été faite par le notaire aux parties, qui le reconnaissent conforme à leur volonté.
 

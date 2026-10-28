@@ -43,7 +43,7 @@ et en présence de :
 
 FAITS ET PROCÉDURE
 
-Par acte d'huissier signifié le [[date|22 mai 2026]], la société [[organization|Reiners SARL]] a fait assigner en référé la société [[organization|Plomberie Rigault SARL]] aux fins de voir ordonner, sur le fondement de [[legal_norm|l'article 834 du Code de procédure civile]], la remise en état d'un entrepôt situé à [[location|Bordeaux]], sous astreinte.
+Par acte d'huissier signifié le [[date|22 mai 2026]], la société [[organization|Reiners SARL]] a fait assigner en référé la société [[organization|Plomberie Rigault SARL]] aux fins de voir ordonner, sur le fondement de l'[[legal_norm|article 834 du Code de procédure civile]], la remise en état d'un entrepôt situé à [[location|Bordeaux]], sous astreinte.
 
 La demanderesse expose que les travaux de plomberie réalisés par la défenderesse en février 2026 ont provoqué une infiltration généralisée dans les locaux, rendant le stock de marchandises inutilisable.
 
@@ -55,7 +55,7 @@ MOTIFS
 
 Sur la demande d'expertise
 
-Aux termes de [[legal_norm|l'article 835 du Code de procédure civile]], le juge des référés peut ordonner toutes les mesures d'instruction légalement admissibles, lorsqu'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont dépend la solution d'un litige.
+Aux termes de l'[[legal_norm|article 835 du Code de procédure civile]], le juge des référés peut ordonner toutes les mesures d'instruction légalement admissibles, lorsqu'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont dépend la solution d'un litige.
 
 Les pièces produites établissent que des infiltrations sont apparues dans les locaux de la demanderesse à compter du [[date|28 février 2026]]. Le constat d'huissier du [[date|4 mars 2026]] en fait état sans identifier avec précision la cause des désordres.
 
@@ -83,15 +83,15 @@ Ces éléments ne permettent pas, à ce stade, d'établir un lien direct entre l
 
 Sur la responsabilité contractuelle de la défenderesse
 
-La défenderesse est liée à la demanderesse par un contrat d'entreprise dont l'exécution est contestée. Aux termes de [[legal_norm|l'article 1231-1 du Code civil]], le débiteur est condamné, s'il y a lieu, au paiement de dommages et intérêts soit à raison de l'inexécution de l'obligation, soit à raison du retard dans l'exécution, lorsqu'il ne justifie pas que l'inexécution provient d'une cause étrangère qui ne lui est pas imputable.
+La défenderesse est liée à la demanderesse par un contrat d'entreprise dont l'exécution est contestée. Aux termes de l'[[legal_norm|article 1231-1 du Code civil]], le débiteur est condamné, s'il y a lieu, au paiement de dommages et intérêts soit à raison de l'inexécution de l'obligation, soit à raison du retard dans l'exécution, lorsqu'il ne justifie pas que l'inexécution provient d'une cause étrangère qui ne lui est pas imputable.
 
 [[person|Clementin Silva]], plombier intervenu pour la défenderesse, a déclaré à l'audience que l'intervention du [[date|25 février 2026]] avait porté sur le remplacement d'un flexible et non d'un raccord. Cette déclaration est en contradiction avec le témoignage de [[person|Abygael Serres]] et ne peut être retenue sans expertise.
 
-Sur le fondement de [[legal_norm|l'article 1240 du Code civil]], la demanderesse invoque une faute délictuelle distincte. Ce fondement n'est pas établi à ce stade, faute de pièce démontrant un comportement fautif distinct de l'inexécution contractuelle.
+Sur le fondement de l'[[legal_norm|article 1240 du Code civil]], la demanderesse invoque une faute délictuelle distincte. Ce fondement n'est pas établi à ce stade, faute de pièce démontrant un comportement fautif distinct de l'inexécution contractuelle.
 
 Sur les dépens et l'article 700
 
-Les dépens de l'instance seront supportés par la demanderesse, qui succombe sur la demande principale. Il n'y a pas lieu à application de [[legal_norm|l'article 700 du Code de procédure civile]] en faveur de la défenderesse, compte tenu du caractère partiel de la procédure.
+Les dépens de l'instance seront supportés par la demanderesse, qui succombe sur la demande principale. Il n'y a pas lieu à application de l'[[legal_norm|article 700 du Code de procédure civile]] en faveur de la défenderesse, compte tenu du caractère partiel de la procédure.
 
 [[person|Mariane Fabre]], salariée de la demanderesse, n'a pas été entendue dans le cadre de la présente audience ; son témoignage écrit n'a pas été versé aux débats.
 

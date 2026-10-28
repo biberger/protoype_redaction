@@ -69,7 +69,7 @@ Herr [[person|Kunst]] ist seit dem [[date|1. Oktober 2025]] Mitglied des Vorstan
 
 Das Registergericht weist darauf hin, dass Anmeldungen zum Register elektronisch einzureichen sind. Die Anmeldung der Prokuraerteilung vom [[date|20. Januar 2026]] war mit dem Namen des Antragstellers [[person|Schult]] unterschrieben, der als Vorstandsvorsitzender die Anmeldung für die persönlich haftende Gesellschafterin abgab. Die Unterschrift wurde im Rahmen der Eintragung nicht beanstandet.
 
-Die Firma des Unternehmens darf nach dem Eintrag nicht ohne Zustimmung der Gesellschafter geändert werden. Die Bezeichnung „Owji & Förster“ bleibt daher unverändert bestehen, auch wenn die Gesellschafter gewechselt haben.
+Die Firma des Unternehmens darf nach dem Eintrag nicht ohne Zustimmung der Gesellschafter geändert werden. Die Bezeichnung „[[organization|Owji & Förster]]“ bleibt daher unverändert bestehen, auch wenn die Gesellschafter gewechselt haben.
 
 Die Eintragung der Kommanditisten ist vollständig. Eine Veränderung der Beteiligungsquote ist seit der Gründung nicht erfolgt. Die Gesellschaft hat keine Zweigniederlassung im Register eingetragen, auch wenn der Betrieb in [[location|Schmölln-Putzkau]] in der Vergangenheit eine Außenstelle unterhielt.
 

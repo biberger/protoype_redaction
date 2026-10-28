@@ -60,6 +60,11 @@ GAZETTEER = {
     "Conseil d'État", "Conseil constitutionnel", "Cour constitutionnelle",
 }
 
+MONTHS_DE = "Jänner|Januar|Februar|Feber|März|April|Mai|Juni|Juli|August|September|Oktober|November|Dezember"
+MONTHS_FR = "janvier|février|mars|avril|mai|juin|juillet|août|septembre|octobre|novembre|décembre"
+DATE_RE = re.compile(
+    rf"(?<![\w./-])(?:[0-3]?\d\.\s?[01]?\d\.\s?(?:19|20)\d\d|[0-3]?\d\.\s(?:{MONTHS_DE})\s(?:19|20)\d\d|"
+    rf"(?:1er|[0-3]?\d)\s(?:{MONTHS_FR})\s(?:19|20)\d\d|(?:19|20)\d\d-[01]\d-[0-3]\d)(?![\w/-])")
 TAG_RE = re.compile(r"\[\[([A-Za-z_]+)\|([^\[\]|]+?)\]\]")
 HEADER_RE = re.compile(r"\A---\n(.*?)\n---\n", re.S)
 
@@ -231,10 +236,19 @@ def lint(text, spans, fname):
                 needles.add(last)
     warnings = []
     for n in sorted(needles):
-        for m in re.finditer(r"(?<!\w)" + re.escape(n) + r"(?!\w)", text):
+        for m in re.finditer(r"(?<!\w)" + re.escape(n) + r"(?:s|')?(?!\w)", text):  # incl. genitive
             if not any(covered[m.start():m.end()]):
                 line = text.count("\n", 0, m.start()) + 1
                 warnings.append(f"{fname}:{line}: untagged occurrence of {n!r}")
+    for m in DATE_RE.finditer(text):
+        if not any(covered[m.start():m.end()]):
+            line = text.count("\n", 0, m.start()) + 1
+            warnings.append(f"{fname}:{line}: untagged date {m.group()!r}")
+    for label, s, e, surface in spans:
+        if re.match(r"(?i)^(l['’]|le |la |les |das |der |die |dem |den |des )", surface) and \
+                label == "legal_norm":
+            line = text.count("\n", 0, s) + 1
+            warnings.append(f"{fname}:{line}: article inside {label} span {surface!r}")
     acts = act_names(surface for label, _, _, surface in spans if label == "legal_norm")
     for s, e, name in find_untagged(text, covered, acts):
         line = text.count("\n", 0, s) + 1

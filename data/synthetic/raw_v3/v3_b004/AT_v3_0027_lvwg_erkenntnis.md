@@ -30,7 +30,7 @@ Nr. | Datum | Veranstaltung | Besucher | Vorwurf
 
 Der Geschäftsführer [[person|Ing. Bassil Mouhoud]] hat in der Verhandlung ausgeführt, die Anzeige sei am [[date|2. Juni 2025]] telefonisch erstattet worden. Der Veranstaltungsleiter [[person|MBA Rahman Akhondi]], wohnhaft [[address|Haggenmüllergasse 13/18, 4720 Kallham]], bestätigte diese Angabe. Die Zeugin [[person|Ing. Carole Savané]] vom Gemeindeamt konnte hingegen keine Eingangsbestätigung finden.
 
-Die Sachverständige [[person|Ing. Andrea Kolašinac]] hat die Lärmmessung vom 21. Juni 2025 erläutert und den Richtwert als überschritten bezeichnet. Der Zeuge [[person|Parzival Goergen]] hat den Einsatz des Sicherheitsdienstes der [[organization|Schoeller GmbH]] ([[company_register_number|FN 107936f]], UID-Nr. [[tax_id|ATU56566237]]) bestätigt, der vertreten durch [[lawyer|Birgitta Kaspar]] am Verfahren teilnahm. Die mitbeteiligte [[organization|Zechner & Delmotte AG]] ([[company_register_number|FN 635337w]], UID-Nr. [[tax_id|ATU79890726]]) wurde durch [[lawyer|Lena Hillbrand]], Rechtsanwältin in [[location|Wien]], vertreten.
+Die Sachverständige [[person|Ing. Andrea Kolašinac]] hat die Lärmmessung vom [[date|21. Juni 2025]] erläutert und den Richtwert als überschritten bezeichnet. Der Zeuge [[person|Parzival Goergen]] hat den Einsatz des Sicherheitsdienstes der [[organization|Schoeller GmbH]] ([[company_register_number|FN 107936f]], UID-Nr. [[tax_id|ATU56566237]]) bestätigt, der vertreten durch [[lawyer|Birgitta Kaspar]] am Verfahren teilnahm. Die mitbeteiligte [[organization|Zechner & Delmotte AG]] ([[company_register_number|FN 635337w]], UID-Nr. [[tax_id|ATU79890726]]) wurde durch [[lawyer|Lena Hillbrand]], Rechtsanwältin in [[location|Wien]], vertreten.
 
 Beweiswürdigung:
 

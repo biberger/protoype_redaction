@@ -38,7 +38,7 @@ Motifs
 
 5. Mais attendu que la cour d'appel a constaté que l'engagement comportait une mention manuscrite conforme aux exigences légales. Le moyen n'est donc pas fondé.
 
-6. Attendu que l'action en responsabilité engagée contre la gérante repose sur [[legal_norm|l'article 1240 du Code civil]], la faute ayant été établie par les juges du fond. Le grief est écarté.
+6. Attendu que l'action en responsabilité engagée contre la gérante repose sur l'[[legal_norm|article 1240 du Code civil]], la faute ayant été établie par les juges du fond. Le grief est écarté.
 
 PAR CES MOTIFS, la Cour :
 

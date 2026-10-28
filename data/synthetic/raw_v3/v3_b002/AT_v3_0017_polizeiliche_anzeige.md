@@ -25,11 +25,11 @@ Zeuginnen:
 
 Sachverhalt:
 
-Die Anzeigeerstatterin gibt an, dass ihr am 2. Mai 2026 zwischen 19:30 und 21:10 Uhr bei einem Besuch in der Wohnung der Beschuldigten eine Geldkassette mit 4.300 Euro abhandengekommen sei. Die Anzeigeerstatterin war auf Einladung der Beschuldigten dort; die Beschuldigte bestätigt den Besuch, bestreitet jedoch jede Wegnahme. Die Anzeigeerstatterin hatte die Summe nach eigenen Angaben am Nachmittag von einem Bankomaten in [[location|Sautens]] behoben, was durch einen Kontoauszug belegt werden kann.
+Die Anzeigeerstatterin gibt an, dass ihr am [[date|2. Mai 2026]] zwischen 19:30 und 21:10 Uhr bei einem Besuch in der Wohnung der Beschuldigten eine Geldkassette mit 4.300 Euro abhandengekommen sei. Die Anzeigeerstatterin war auf Einladung der Beschuldigten dort; die Beschuldigte bestätigt den Besuch, bestreitet jedoch jede Wegnahme. Die Anzeigeerstatterin hatte die Summe nach eigenen Angaben am Nachmittag von einem Bankomaten in [[location|Sautens]] behoben, was durch einen Kontoauszug belegt werden kann.
 
-Die Zeugin [[person|Laternser]] gibt an, sie habe am 02.05.2026 gegen 20:15 Uhr gesehen, wie die Beschuldigte einen Umschlag aus dem Schrank im Vorraum nahm. Die Zeugin [[person|Drexel]] hat den Vorgang nicht gesehen, bestätigt aber, dass die Anzeigeerstatterin das Haus gegen 21:00 Uhr verließ und dabei eine Tasche trug, die sie vorher nicht bei sich hatte.
+Die Zeugin [[person|Laternser]] gibt an, sie habe am [[date|02.05.2026]] gegen 20:15 Uhr gesehen, wie die Beschuldigte einen Umschlag aus dem Schrank im Vorraum nahm. Die Zeugin [[person|Drexel]] hat den Vorgang nicht gesehen, bestätigt aber, dass die Anzeigeerstatterin das Haus gegen 21:00 Uhr verließ und dabei eine Tasche trug, die sie vorher nicht bei sich hatte.
 
-Die Zeugin [[person|Muse]] erklärt, sie habe die Schlüssel zum Schrank nur zweimal in der Woche benutzt. Die Beschuldigte habe am 2. Mai 2026 gegen 21:30 Uhr gegenüber der Zeugin angegeben, die Summe sei für den Ankauf eines Gebrauchtwagens bestimmt gewesen. Die Zeugin [[person|Brandstätter-Yildiz]] hat den Mietvertrag für das Objekt Purnhofweg vorgelegt, aus dem hervorgeht, dass der Schrank nicht zum vermieteten Inventar gehört.
+Die Zeugin [[person|Muse]] erklärt, sie habe die Schlüssel zum Schrank nur zweimal in der Woche benutzt. Die Beschuldigte habe am [[date|2. Mai 2026]] gegen 21:30 Uhr gegenüber der Zeugin angegeben, die Summe sei für den Ankauf eines Gebrauchtwagens bestimmt gewesen. Die Zeugin [[person|Brandstätter-Yildiz]] hat den Mietvertrag für das Objekt Purnhofweg vorgelegt, aus dem hervorgeht, dass der Schrank nicht zum vermieteten Inventar gehört.
 
 Die Anzeigeerstatterin hat einen Schaden von 4.300 Euro geltend gemacht und die Rückzahlung auf das Konto mit der IBAN [[bank_account|AT57 2886 3633 1289 6091]] verlangt.
 
@@ -37,11 +37,11 @@ Beweismittel:
 
 Beweismittel | Beschreibung | Status
 Geldkassette | Metallkassette, schwarz | sichergestellt
-Mietvertrag | Objekt Purnhofweg, vom 01.09.2024 | Kopie
-Ankaufsangebot | Gebrauchtwagen, 28.04.2026 | angefordert
+Mietvertrag | Objekt Purnhofweg, vom [[date|01.09.2024]] | Kopie
+Ankaufsangebot | Gebrauchtwagen, [[date|28.04.2026]] | angefordert
 Tatortfotos | Vorraum, 3 Aufnahmen | vorhanden
 
-Die Beschuldigte und ihre Rechtsvertreterin haben am 3. Mai 2026 eine Stellungnahme abgegeben, die dem Akt beiliegt. Darin wird ausgeführt, dass die Anzeigeerstatterin die Kassette bereits vor dem Besuch aus dem Schrank entnommen habe. Die Stellungnahme wird im Rahmen der Ermittlungen überprüft.
+Die Beschuldigte und ihre Rechtsvertreterin haben am [[date|3. Mai 2026]] eine Stellungnahme abgegeben, die dem Akt beiliegt. Darin wird ausgeführt, dass die Anzeigeerstatterin die Kassette bereits vor dem Besuch aus dem Schrank entnommen habe. Die Stellungnahme wird im Rahmen der Ermittlungen überprüft.
 
 Rechtliche Würdigung:
 
@@ -49,11 +49,11 @@ Der Sachverhalt erfüllt den Verdacht des Diebstahls nach [[legal_norm|§ 127 St
 
 Die Anzeigeerstatterin wurde über ihre Rechte nach [[legal_norm|§ 66 StPO]] belehrt. Sie hat erklärt, als Privatbeteiligte nach [[legal_norm|§ 67 StPO]] aufzutreten.
 
-Zur Person der Anzeigeerstatterin ist festzuhalten, dass sie bereits am 14. März 2025 wegen eines ähnlichen Vorfalls in [[location|Tirol]] angezeigt wurde. Das Verfahren wurde eingestellt; die Anzeige wird nur zur Vollständigkeit erwähnt.
+Zur Person der Anzeigeerstatterin ist festzuhalten, dass sie bereits am [[date|14. März 2025]] wegen eines ähnlichen Vorfalls in [[location|Tirol]] angezeigt wurde. Das Verfahren wurde eingestellt; die Anzeige wird nur zur Vollständigkeit erwähnt.
 
 Diese Anzeige wurde nach Rücksprache mit dem Journaldienst erstattet und dem Anzeigeerstatter vorgelesen. Die Richtigkeit wird bestätigt.
 
-Der Tatort wurde am 3. Mai 2026 um 08:40 Uhr durch Beamte der Dienststelle besichtigt. Im Vorraum wurde ein leerer Schrank mit beschädigtem Schloss festgestellt; Spuren am Schlossblech wurden gesichert. Die Anzeigeerstatterin gab bei der Besichtigung an, die Schlüssel habe sie nie besessen, was durch die Aussage der Zeugin [[person|Muse]] nicht bestätigt wird. Die Beschuldigte war bei der Besichtigung anwesend und hat die Wohnung zur Verfügung gestellt.
+Der Tatort wurde am [[date|3. Mai 2026]] um 08:40 Uhr durch Beamte der Dienststelle besichtigt. Im Vorraum wurde ein leerer Schrank mit beschädigtem Schloss festgestellt; Spuren am Schlossblech wurden gesichert. Die Anzeigeerstatterin gab bei der Besichtigung an, die Schlüssel habe sie nie besessen, was durch die Aussage der Zeugin [[person|Muse]] nicht bestätigt wird. Die Beschuldigte war bei der Besichtigung anwesend und hat die Wohnung zur Verfügung gestellt.
 
 Zum Umfang des Schadens ist festzuhalten, dass die Kassette laut Angabe der Anzeigeerstatterin 4.300 Euro in Scheinen zu 100 und 50 Euro enthielt. Eine Kontrollliste über die Scheine liegt nicht vor.
 

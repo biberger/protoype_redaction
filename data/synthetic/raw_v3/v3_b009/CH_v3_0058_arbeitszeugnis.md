@@ -19,7 +19,7 @@ Die Zusammenarbeit mit ihren Kolleginnen und Kollegen war stets kollegial. Frau 
 
 Die Leistung von Frau [[person|Ivković]] hat sich während der gesamten Anstellungsdauer verbessert. Sie verhielt sich gegenüber Vorgesetzten und Kunden stets korrekt. Frau [[person|Gaby von Känel]], Geschäftsführerin, hat ihre Arbeit regelmässig überprüft und als gut befunden.
 
-Pfenningers Abteilung hat die Verlässlichkeit von Frau [[person|Ivković]] immer wieder hervorgehoben. Herr [[person|Manucher Sido]], Leiter Logistik, bestätigt, dass die Zusammenarbeit im Lager ohne Beanstandung verlief.
+[[person|Pfenningers]] Abteilung hat die Verlässlichkeit von Frau [[person|Ivković]] immer wieder hervorgehoben. Herr [[person|Manucher Sido]], Leiter Logistik, bestätigt, dass die Zusammenarbeit im Lager ohne Beanstandung verlief.
 
 Das Arbeitsverhältnis wird auf Wunsch der Arbeitnehmerin im gegenseitigen Einvernehmen per [[date|31. Juli 2026]] aufgelöst. Wir bedauern den Weggang und wünschen Frau [[person|Ivković]] für ihre berufliche und private Zukunft alles Gute.
 

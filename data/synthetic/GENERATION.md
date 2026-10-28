@@ -70,6 +70,13 @@ RIS Rechtssatz numbers, URLs, amounts, months or years without a day, generic co
 - In a citation of a decision, tag the parts: `[[court|OGH]] [[date|12.03.2024]], [[case_number|5 Ob 87/24m]]`.
 - Pseudonymised placeholders are tagged with the label of what they replace (`[[address|*****]]`).
 - OCR noise stays inside spans exactly as written (`Hu-\nmer`, `46OO Wels`).
+- Every occurrence of a day-precise date is tagged, also the tenth repeat of the same date
+  (`--strict` flags untagged dates).
+- Articles stay outside spans: `l'[[legal_norm|article 1240 du Code civil]]`, `das [[legal_norm|ABGB]]`.
+- Genitive -s stays inside the span (`[[person|Hubers]] Antrag`), as in LER.
+- `CHE-123.456.789` is company_register_number; with the suffix `MWST`/`TVA`/`IVA` it is a tax_id.
+  `RCS Lyon` without a number is not an identifier (tag only `[[location|Lyon]]`).
+- Places in closing lines (`[[location|Wien]], am …`) and firm names in quotes are tagged too.
 
 ## Realism
 
@@ -93,5 +100,8 @@ RIS Rechtssatz numbers, URLs, amounts, months or years without a day, generic co
   (Mödling → LG Wiener Neustadt), OGH senate matching the subject (5 Ob WEG/MRG, 10 Ob family, 3 Ob
   enforcement), ordinary vs. außerordentliche Revision used consistently, current legal forms (BE: SRL, not SPRL),
   no lawyer contact data at the end of judgments, gender of a person consistent across mentions.
+- Case numbers carry the year of filing (a 2026 claim is not `7 Ca 1234/25`); DE/CH write `Abs.` and `i.V.m.`,
+  AT writes `Abs` and `iVm`; IBANs and social security numbers appear only where the document type would
+  contain them (contracts, applications, letters), not in the reasoning of a judgment.
 - Real courts, authorities, places and statutes are fine. Persons, companies and case facts must be
   invented; do not reproduce real decisions or real people.
