@@ -20,7 +20,7 @@ Der Kläger war vom [[date|1. März 2019]] bis zum [[date|31. Juli 2025]] bei de
 
 Das Zeugnis enthält folgende Passage:
 
-"Herr Yilmaz war während der gesamten Anstellungsdauer zu unserer vollen Zufriedenheit tätig. Er hat die ihm übertragenen Aufgaben stets pünktlich erledigt."
+"Herr [[person|Yilmaz]] war während der gesamten Anstellungsdauer zu unserer vollen Zufriedenheit tätig. Er hat die ihm übertragenen Aufgaben stets pünktlich erledigt."
 
 Der Kläger beantragt die Ergänzung des Zeugnisses um eine Beurteilung seiner Leistung und seines Verhaltens sowie um eine Bewertung seiner Führungsaufgaben als Schichtleiter. Die Beklagte beantragt die Abweisung der Klage.
 
@@ -36,7 +36,7 @@ Erwägungen
 
 2.1 Die Beklagte hat im Verfahren die Beurteilungsbogen der Jahre 2021 bis 2024 eingereicht. Diese bewerten die Leistung des Klägers mit "gut" und "sehr gut". Der Verwaltungsratspräsident der Beklagten hat in seiner Zeugenaussage vom [[date|15. September 2025]] allerdings erklärt, die Schichtleitung sei nach einem Vorfall im Juni 2025 neu besetzt worden.
 
-2.2 Der Vorfall betrifft eine Materialbestellung, die ohne Freigabe erfolgt war. Die Beklagte hat dem Kläger deswegen im [[date|Juni 2025]] eine schriftliche Verwarnung ausgesprochen, die er mit Schreiben vom [[date|24. Juni 2025]] bestritt. Eine Ablehnung der Verwarnung durch das Gericht erfolgt nicht, da sie im Zeugnis nicht zu erwähnen ist.
+2.2 Der Vorfall betrifft eine Materialbestellung, die ohne Freigabe erfolgt war. Die Beklagte hat dem Kläger deswegen im Juni 2025 eine schriftliche Verwarnung ausgesprochen, die er mit Schreiben vom [[date|24. Juni 2025]] bestritt. Die Verwarnung ist nicht Gegenstand dieses Verfahrens und ist im Zeugnis nicht zu erwähnen.
 
 2.3 Die Formulierung "zu unserer vollen Zufriedenheit" wird in der Praxis als durchschnittliche Beurteilung verstanden. Die Schlussformel "Wir danken ihm für seine Mitarbeit" ist hingegen ein Bestandteil einer positiven Beurteilung. Die Beklagte hat diese Formel im Zeugnis weggelassen, was im Ergebnis eine Zurückstufung darstellt.
 

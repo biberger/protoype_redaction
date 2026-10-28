@@ -15,17 +15,17 @@ Inhaberin
 [[address|Hagener Straße 52, 44141 Dortmund]]
 
 Unser Zeichen: [[other_identifier|2025-0412-JW]]
-Berlin, den [[date|6. Mai 2025]]
+[[location|Berlin]], den [[date|6. Mai 2025]]
 
 **Abmahnung wegen Verletzung urheberrechtlicher Nutzungsrechte und wettbewerbswidriger Werbung**
 
-Sehr geehrte Frau Ahlers,
+Sehr geehrte Frau [[person|Ahlers]],
 
-wir vertreten die Interessen des Fotografen [[person|Kwame Asante]], [[address|Oranienstraße 201, 10999 Berlin]]. Herr Asante hat uns mit der Wahrnehmung seiner Rechte beauftragt. Wir zeigen Ihnen an, dass wir ihn in dieser Angelegenheit vertreten, und bitten Sie, künftig alle Korrespondenz an uns zu richten.
+wir vertreten die Interessen des Fotografen [[person|Kwame Asante]], [[address|Oranienstraße 201, 10999 Berlin]]. Herr [[person|Asante]] hat uns mit der Wahrnehmung seiner Rechte beauftragt. Wir zeigen Ihnen an, dass wir ihn in dieser Angelegenheit vertreten, und bitten Sie, künftig alle Korrespondenz an uns zu richten.
 
 I. Sachverhalt
 
-Ihr Unternehmen betreibt unter der Domain [[other_identifier|ahlers-interieur.de]] einen Onlineshop für Wohn- und Gartenmöbel. Auf der Produktseite zu dem Sofa „Nordlicht 3“ sowie auf der Startseite Ihres Shops wurde am [[date|18. April 2025]] ein Lichtbild verwendet, das unser Mandant im Jahr 2022 für eine Kampagne eines anderen Auftraggebers angefertigt hat. Das Lichtbild zeigt eine Wohnsituation mit Holzmöbeln und ist von unserem Mandanten im Originalformat mit Urheberrechtsvermerk versehen.
+Ihr Unternehmen betreibt unter der Domain ahlers-interieur.de einen Onlineshop für Wohn- und Gartenmöbel. Auf der Produktseite zu dem Sofa „Nordlicht 3“ sowie auf der Startseite Ihres Shops wurde am [[date|18. April 2025]] ein Lichtbild verwendet, das unser Mandant im Jahr 2022 für eine Kampagne eines anderen Auftraggebers angefertigt hat. Das Lichtbild zeigt eine Wohnsituation mit Holzmöbeln und ist von unserem Mandanten im Originalformat mit Urheberrechtsvermerk versehen.
 
 Eine Nutzung dieses Fotos war Ihnen nicht gestattet. Eine Lizenz hat unser Mandant weder Ihnen noch der [[organization|Gartenhaus Brandl GmbH]], von der Sie die Produktbilder nach Ihrer Angabe bezogen haben, eingeräumt. Das Foto wurde ohne Namensnennung und ohne Lizenzvereinbarung auf Ihrer Website öffentlich zugänglich gemacht.
 
