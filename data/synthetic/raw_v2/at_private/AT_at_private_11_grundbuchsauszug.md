@@ -13,8 +13,8 @@ Gerichtliche Zahl:        [[case_number|TZ 2231/2025]]
 Letzte Eintragung:        [[date|23.09.2025]], [[case_number|TZ 1987/2025]]
 
 GST-NR     ART           FLÄCHE m²    BEZEICHNUNG
-1234/5     Gst           812          Bauf. (begründet)
-1234/7     Gst           96           Gärten
+[[land_register_id|1234/5]]     Gst           812          Bauf. (begründet)
+[[land_register_id|1234/7]]     Gst           96           Gärten
 
 A2 – EIGENTUM
 

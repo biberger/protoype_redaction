@@ -88,7 +88,8 @@ Used to (1) fill RIS placeholders with realistic values, (2) swap entity surface
 source for diversity, and (3) seed the synthetic generators so names do not collapse onto a few
 LLM favourites. Planned sources, all with open licences:
 
-- names: Wikidata given and family names with country (CC0), Statistik Austria first-name statistics
+- names: Wikidata given and family names with country (CC0), Statistik Austria first-name statistics,
+  WIPO World Gender Name Dictionary (WGND 2.0, Harvard Dataverse; first names by country incl. Europe)
 - addresses: BEV Adressregister (AT, CC-BY-4.0), Swiss official building address register,
   French Base Adresse Nationale, OpenStreetMap for DE (ODbL, attribution)
 - companies: GLEIF LEI records (CC0, covers AT/DE/CH/FR legal entities), Zefix (CH), SIRENE (FR)
@@ -146,6 +147,7 @@ confirm on first use, since the agent proxy logs every refused host.
 | Addresses | `data.bev.gv.at` (AT, verify), `data.geo.admin.ch` (CH), `adresse.data.gouv.fr` and `files.data.gouv.fr` (FR), `download.geofabrik.de` (OSM, DE) |
 | Companies | `goldencopy.gleif.org` and `api.gleif.org` (GLEIF), `www.zefix.admin.ch` (CH), `object.files.data.gouv.fr` (SIRENE, verify) |
 | Names statistics | `www.statistik.at` (verify) |
+| Name lists | `dataverse.harvard.edu` (WGND) |
 | Misc | `raw.githubusercontent.com` (original LER repo, GLiNER docs), `api.wandb.ai` (only if W&B logging is used) |
 
 ## Status and next steps

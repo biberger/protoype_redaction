@@ -27,7 +27,7 @@ II. Vorbemerkungen
 
 1. Die Verkäufer sind je zur Hälfte bücherliche Eigentümer der Liegenschaft [[land_register_id|EZ 1047]] des Grundbuchs [[land_register_id|KG 50118 Gmunden]], bestehend aus dem Grundstück [[land_register_id|Gst-Nr. 211/3]] (Baufläche, Gebäude und Freifläche, [[land_register_id|Grundbuch 50118 Gmunden]]) und dem Grundstück [[land_register_id|Gst-Nr. 211/4]] (Grünland).
 
-2. Auf dem Grundstück 211/3 steht ein Wohnhaus mit drei Wohneinheiten, errichtet im Jahr 1974. Die Lage ist aus dem Lageplan des [[organization|Vermessungsamtes Gmunden]] vom [[date|12.11.2024]] ersichtlich.
+2. Auf dem Grundstück [[land_register_id|211/3]] steht ein Wohnhaus mit drei Wohneinheiten, errichtet im Jahr 1974. Die Lage ist aus dem Lageplan des [[organization|Vermessungsamtes Gmunden]] vom [[date|12.11.2024]] ersichtlich.
 
 3. Die Verkäufer haben dem Notar [[lawyer|Dr. Sebastian Kraus]] die Urkunden über den Eigentumserwerb, die Lastenfreistellung und die Vorlage eines aktuellen Grundbuchsauszuges vorgelegt. Die Vertragsparteien bestätigen, dass sie über die Rechtsfolgen dieses Vertrags belehrt wurden.
 
@@ -45,7 +45,7 @@ IV. Übergabe, Besitz und Lasten
 
 2. Die Verkäufer bestätigen, dass im Lastenblatt C derzeit eine Hypothek zugunsten der [[organization|Oberösterreichischen Sparkassen AG]] zu [[land_register_id|C-LNR 4]] eingetragen ist. Diese wird aus dem Kaufpreis getilgt; die Löschungserklärung der Bank ist vom Notar treuhändig zu verwahren.
 
-3. Eine Dienstbarkeit des Wegerechts zugunsten des Nachbargrundstücks Gst-Nr. 212 bleibt aufrecht. Die Käuferin nimmt dies zur Kenntnis.
+3. Eine Dienstbarkeit des Wegerechts zugunsten des Nachbargrundstücks [[land_register_id|Gst-Nr. 212]] bleibt aufrecht. Die Käuferin nimmt dies zur Kenntnis.
 
 V. Gewährleistung und Haftung
 
@@ -89,7 +89,7 @@ IX. Abgaben, Gebühren und Kosten
 
 2. Die Kosten der Vertragserrichtung, der Urkundenausfertigungen und der Eintragungen im Grundbuch trägt die Käuferin. Die Verkäufer tragen die Kosten der Lastenfreistellung und die Kosten der Löschungserklärung der Bank.
 
-3. Die Kosten der Vermessung für die Teilung des Grundstücks 211/3 sind nicht Gegenstand dieses Vertrags. Ein etwaiger Teilungsantrag wird von der Käuferin auf eigene Kosten beim Vermessungsamt eingebracht.
+3. Die Kosten der Vermessung für die Teilung des Grundstücks [[land_register_id|211/3]] sind nicht Gegenstand dieses Vertrags. Ein etwaiger Teilungsantrag wird von der Käuferin auf eigene Kosten beim Vermessungsamt eingebracht.
 
 4. Die Notariatsgebühren nach dem Gerichtsgebührengesetz werden nach den Bestimmungen des [[legal_norm|§ 26 GGG]] berechnet und vom Treuhandkonto des Notars beglichen. Eine Vorauszahlung in Höhe von EUR 6.200,00 ist mit Vertragsunterfertigung zu leisten.
 

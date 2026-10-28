@@ -48,6 +48,8 @@ b) Die Zeugin [[person|Sabine Kronsteiner]], wohnhaft in [[location|Hollabrunn]]
 
 c) Der Zeuge [[person|Hannes Steyr]] übergab am [[date|28.06.2024]] EUR 5.500,00 in bar. Der Angeklagte hatte sich zuvor unter dem Namen „Herr [[person|Ivanović]]“ vorgestellt.
 
+d) Die Zeugin [[person|Gerlinde Auer]], geboren am [[date|19.07.1951]], wohnhaft in [[address|Südtiroler Straße 9/2, 3100 St. Pölten]], überwies am [[date|11.06.2024]] EUR 2.400,00 auf das Konto gemäß Punkt I.3 in der Annahme, einen Kleinwagen zu erwerben. Der Angeklagte hatte sich ihr gegenüber als „Herr [[person|Lukić]]“ vorgestellt und ihr einen Kaufvertrag übergeben, auf dem eine Unterschrift des Geschäftsführers der [[organization|Autohaus Lindner Gesellschaft m.b.H.]] angebracht war. Die Zeugin erkannte den Angeklagten in der Hauptverhandlung als jene Person wieder, die sie in ihrer Wohnung aufgesucht hatte.
+
 Die Angaben des Zeugen [[person|Steyr]] waren hinsichtlich der Zahlungsmodalitäten konstant. Der Zeuge [[person|Hannes Steyr]] erkannte den Angeklagten in der Hauptverhandlung eindeutig wieder. Der Umstand, dass [[person|Steyr]] die Anzahlung in bar übergab, widerspricht nicht seiner Glaubwürdigkeit; der Schöffensenat hat die Angaben insoweit als glaubhaft gewertet.
 
 Zu Punkt 2 der Schuldsprüche: Die Urkunde zeigt auf der Verkäuferseite eine Unterschrift, die dem Namen [[person|Herbert Wimmer]] zugeordnet werden sollte. Der Sachverständige [[person|DI Erwin Rößler]] hat ausgeführt, dass die Unterschrift nicht von Herrn [[person|Wimmer]] stammt; [[person|Herbert Wimmer]] war zum Zeitpunkt des angeblichen Vertragsabschlusses in [[location|Mallorca]] und hat die Unterschrift nie geleistet.

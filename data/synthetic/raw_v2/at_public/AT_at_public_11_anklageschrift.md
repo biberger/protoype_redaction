@@ -56,6 +56,21 @@ Die Anklage stützt sich auf folgenden Sachverhalt:
 
 8. Die Gesellschaft wurde am [[date|17.06.2025]] mit Beschluss des [[court|Landesgerichtes Innsbruck]], Zl. [[case_number|37 S 61/25t]], wegen Zahlungsunfähigkeit in ein Insolvenzverfahren überführt.
 
+Transaktionsübersicht (Auszug aus den Kontoauszügen):
+
+Datum | Betrag | Empfängerkonto
+[[date|04.09.2023]] | EUR 48.200,00 | [[bank_account|AT62 3695 0438 2166 2956]] ([[organization|Hypo Tirol Bank AG]])
+[[date|17.11.2023]] | EUR 62.700,00 | [[bank_account|AT16 6083 6278 0669 8757]] (Konto einer Gesellschaft in [[location|Liechtenstein]])
+[[date|09.02.2024]] | EUR 91.000,00 | [[bank_account|AT62 3695 0438 2166 2956]] ([[organization|Hypo Tirol Bank AG]])
+[[date|22.07.2024]] | EUR 110.500,00 | [[bank_account|AT16 6083 6278 0669 8757]] (Konto einer Gesellschaft in [[location|Liechtenstein]])
+
+Die Summe der Überweisungen beträgt EUR 312.400,00. Die Differenz zu den in Punkt I. genannten EUR 412.900,00 ergibt sich aus Bareinzahlungen, die auf Konten der [[organization|Demirtaş Holding GmbH]] erfolgten; die Herkunft dieser Bareinzahlungen ist nicht geklärt.
+
+Vermögensarrest:
+
+Mit Beschluss des [[court|Landesgerichtes Innsbruck]] vom [[date|12.06.2025]], [[case_number|31 Hv 9/25x]], wurde ein Vermögensarrest in der Höhe von EUR 420.000,00 über die Vermögenswerte der Angeklagten verhängt. Der Beschluss wurde den Verteidigern zugestellt. Der Angeklagte 2 hat hiergegen eine Beschwerde erhoben, die vom [[court|Oberlandesgericht Innsbruck]] am [[date|08.07.2025]] abgewiesen wurde.
+
+
 Beweismittel:
 
 Zeugen:

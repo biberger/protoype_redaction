@@ -3,7 +3,7 @@ doc_type: email_korrespondenz
 jurisdiction: AT
 lang: de
 ---
-Betreff: AW: AW: Mietzinsminderung Top 14 – Ihr Schreiben vom 02.10.2025
+Betreff: AW: AW: Mietzinsminderung Top 14 – Ihr Schreiben vom [[date|02.10.2025]]
 
 Von: [[person|Nadia Karimi]] <[[email|n.karimi@mailbox-wien.at]]>
 Gesendet: [[date|03.10.2025]], 08:14

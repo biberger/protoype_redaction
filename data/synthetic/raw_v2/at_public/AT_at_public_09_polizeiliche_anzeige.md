@@ -66,6 +66,16 @@ Die Passantin [[person|Gülsen Aydın]] gab an, sie habe nur den Lärm gehört u
 
 Der Bericht der [[organization|Ambulanz Krankenhaus Wien-Favoriten]] vom [[date|15.06.2025]] dokumentiert eine Nasenbeinfraktur sowie eine Prellung im Bereich des linken Rippenbogens. Die ärztliche Beurteilung spricht von einer Verletzung, die länger als 3 Tage andauern wird, jedoch nicht von einer schweren Verletzung.
 
+VERNEHMUNG DES BESCHULDIGTEN:
+
+Der Beschuldigte [[person|KRAMMER Dominik]] wurde am [[date|15.06.2025]] um 09:20 Uhr in der Dienststelle niederschriftlich einvernommen. Er gab an, er sei mit mehreren Bekannten im Lokal gewesen und habe bereits am Nachmittag Alkohol konsumiert. Auf die Frage, ob er den Geschädigten geschlagen habe, antwortete er: „Ich hab ihn vielleicht einmal gestreift, er ist mir ins Gesicht gegangen.“ Eine Verletzung des Geschädigten habe er nicht wahrgenommen.
+
+Zu der Drohung befragt, erklärte der Beschuldigte, er könne sich an die Worte nicht erinnern. Er sei zu diesem Zeitpunkt „nicht ganz bei mir“ gewesen. Die Tür des Lokals habe er nicht absichtlich beschädigt; er sei gegen die Scheibe gestolpert.
+
+Der Beschuldigte wurde über seine Rechte belehrt, insbesondere über das Recht auf Verteidigung und das Recht, die Aussage zu verweigern. Eine Verteidigerin oder einen Verteidiger wünschte er nicht beizuziehen. Die Niederschrift wurde ihm rückübersetzt und von ihm unterschrieben. Eine Dolmetschung war nicht erforderlich, da der Beschuldigte die deutsche Sprache beherrscht.
+
+Der Geschädigte [[person|ÖZTÜRK Emre]] wurde am [[date|16.06.2025]] vor der Dienststelle niederschriftlich einvernommen. Er bestätigte den Schlag ins Gesicht und die Tritte, gab jedoch an, dass er das Glas nicht geworfen habe. Er verlangt Schmerzensgeld in der Höhe von EUR 1.500,00 sowie Ersatz der Kosten für die zahnärztliche Behandlung bei [[person|Dr. Radko Hajdinjak]], [[address|Keplerplatz 4, 1100 Wien]]. Eine Zahnschädigung wurde im Bericht der Ambulanz nicht erwähnt; der Geschädigte legte hierzu eine Rechnung vom [[date|18.06.2025]] vor.
+
 BEWEISMITTEL:
 
 - Videoaufzeichnung der Überwachungskamera (Kamera 2, Eingang) des Lokals, Sicherung durch [[person|Lea Hofstätter]] am [[date|15.06.2025]], Speicherdauer 72 Stunden.
