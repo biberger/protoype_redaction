@@ -121,10 +121,16 @@ class Source:
     label would turn every unannotated mention into a false negative.
     `nested_conflicts` maps a label to labels that occur unannotated *inside*
     its spans; those are dropped from the query of any example containing it.
+    `open_labels` sources (replay data) carry free-text labels: each record
+    lists its own query labels in meta["query_labels"]. `eval_merge` maps a
+    gold label to the predicted labels that count for it (MAPA's ORGANISATION
+    includes courts, so organization is scored against organization ∪ court).
     """
     name: str
     coverage: frozenset
     nested_conflicts: dict = field(default_factory=dict)
+    open_labels: bool = False
+    eval_merge: dict = field(default_factory=dict)
 
 
 _ALL = frozenset(LABELS)
@@ -141,8 +147,21 @@ SOURCES = {
                    "location", "legal_norm", "case_citation", "contract",
                    "literature", "brand"}),
         nested_conflicts={"case_citation": ("court",), "literature": ("person",)}),
+    # GLiNER v1 replay data (open label sets), keeps zero-shot ability
+    "replay": Source("replay", frozenset(), open_labels=True),
+    # MAPA (EUR-Lex, de/fr), evaluation only
+    "mapa": Source("mapa", frozenset({"person", "organization", "location", "address", "date"}),
+                   eval_merge={"organization": ("organization", "court")}),
+    # RIS decisions: pseudonymised placeholders filled from gazetteers; only the
+    # filled labels plus the deterministic ones (dates, case numbers, courts) are covered
+    "ris": Source("ris", frozenset({"person", "judge", "lawyer", "address", "date",
+                                    "case_number", "court"})),
 }
 
 
 def labels_for(source: str) -> list:
     return sorted(SOURCES[source].coverage)
+
+
+def is_canonical(label: str) -> bool:
+    return label in LABELS

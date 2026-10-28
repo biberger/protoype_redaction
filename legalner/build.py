@@ -41,6 +41,8 @@ def doc_split(rec, dev_frac, test_frac):
 def query_labels(rec):
     """Covered labels for this record minus labels nested unannotated inside a present span."""
     src = SOURCES[rec["source"]]
+    if src.open_labels:
+        return set(rec["meta"]["query_labels"])
     present = {s["label"] for s in rec["spans"]}
     labels = set(src.coverage)
     for outer, inner in src.nested_conflicts.items():
@@ -66,7 +68,8 @@ def to_example(rec, labels, names=None, descriptions=False):
     spans = spans_by_label(rec, labels)
     output = {"entities": {names[lab]: spans.get(lab, []) for lab in sorted(labels)}}
     if descriptions:
-        output["entity_descriptions"] = {names[lab]: LABELS[lab].description for lab in sorted(labels)}
+        output["entity_descriptions"] = {names[lab]: LABELS[lab].description
+                                         for lab in sorted(labels) if lab in LABELS}
     return {"input": rec["text"], "output": output}
 
 
@@ -80,11 +83,11 @@ def augment(rec, labels, rng, p_keep_pos=0.9, p_keep_neg=0.5, p_rename=0.3, p_de
     names = {}
     rename = rng.random() < p_rename
     for lab in keep:
-        synonyms = getattr(LABELS[lab], rec.get("lang", "de"), ()) if rename else ()
+        synonyms = getattr(LABELS[lab], rec.get("lang", "de"), ()) if rename and lab in LABELS else ()
         names[lab] = rng.choice(synonyms) if synonyms else surface(lab)
     if len(set(names.values())) < len(names):  # synonym collision: fall back to keys
         names = {lab: surface(lab) for lab in keep}
-    return to_example(rec, keep, names, descriptions=rng.random() < p_desc)
+    return to_example(rec, keep, names, descriptions=rng.random() < p_desc and bool(keep & set(LABELS)))
 
 
 def read_records(paths):

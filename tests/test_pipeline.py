@@ -160,3 +160,40 @@ def test_untagged_citations_and_court_names_are_linted(tmp_path):
         header="doc_type: test\njurisdiction: CH\nlang: fr"), "synthetic")
     assert any("'Tribunal fédéral'" in w for w in warnings)
     assert any("untagged norm citation 'art. 257d al. 1 CO'" in w for w in warnings)
+
+
+class _FakeGaz:
+    def person(self, home="AT"):
+        return "Elif Brandstätter"
+
+    def surname(self, home="AT"):
+        return "Kovačević"
+
+    def address(self, country="AT"):
+        return "Lederergasse 7/3, 4020 Linz"
+
+    def town(self, country="AT"):
+        return ("Wels", "4600")
+
+
+def test_ris_fixture_annotation():
+    import pathlib
+    from legalner.sources import ris
+    text = ris.markup_to_text((pathlib.Path(__file__).parent / "fixtures" / "ris_ogh.html").read_text())
+    assert "Kopf" in text and "\xa0" not in text and "OGH 7Ob161" not in text
+    ref = {"id": "JJT_TEST", "case_numbers": ["7Ob161/26s"], "court": "OGH", "app": "Justiz"}
+    out, spans = ris.annotate(text, ref, _FakeGaz(), random.Random(0))
+    got = {(lab, t) for lab, s, e, t in spans}
+    assert all(out[s:e] == t for _, s, e, t in spans)
+    for expected in [("court", "Oberste Gerichtshof"), ("judge", "Dr. Solé"), ("judge", "Mag. Malesich"),
+                     ("judge", "MMag. Matzka"), ("judge", "Dr. Weber"), ("judge", "Mag. Fitz"),
+                     ("person", "Dr. Solé"), ("person", "Mag. Elif Brandstätter"), ("lawyer", "Dr. Paul Huber"),
+                     ("court", "Oberlandesgerichts Linz"), ("date", "12. März 2026"),
+                     ("case_number", "2 R 14/26k-31"), ("court", "Landesgerichts Wels"), ("date", "4. 11. 2025"),
+                     ("case_number", "26 Cg 77/24m-24"), ("date", "3. Mai 2021"), ("case_number", "7 Ob 59/22w"),
+                     ("address", "Lederergasse 7/3, 4020 Linz"), ("person", "Kovačević"),
+                     ("organization", "Kovačević GmbH")]:
+        assert expected in got, expected
+    assert "*****" not in out
+    recs = ris.to_records(out, spans, ref)
+    assert recs and all(r["text"][s["start"]:s["end"]] == s["text"] for r in recs for s in r["spans"])

@@ -12,7 +12,15 @@ import collections
 import json
 
 from legalner.build import query_labels, read_records, surface
-from legalner.schema import LABELS
+from legalner.schema import LABELS, SOURCES
+
+
+def predict_labels(rec):
+    """Labels to ask the model for: the covered labels plus any merged ones."""
+    labels = set(query_labels(rec))
+    for merged in SOURCES[rec["source"]].eval_merge.values():
+        labels |= set(merged)
+    return labels
 
 
 def prf(tp, fp, fn):
@@ -27,13 +35,15 @@ def score(records, predictions):
     pii_gold = pii_hit = 0
     for rec, pred in zip(records, predictions):
         labels = query_labels(rec)
+        merge = SOURCES[rec["source"]].eval_merge
+        scored = {lab: set().union(*(pred.get(m, set()) for m in merge.get(lab, (lab,)))) for lab in labels}
         gold = collections.defaultdict(set)
         for s in rec["spans"]:
             if s["label"] in labels:
                 gold[s["label"]].add((s["start"], s["end"]))
         slices = ("all", f"source={rec['source']}", f"jur={rec['jurisdiction']}")
         for lab in labels:
-            g, p = gold.get(lab, set()), pred.get(lab, set())
+            g, p = gold.get(lab, set()), scored[lab]
             tp, fp, fn = len(g & p), len(p - g), len(g - p)
             for sl in slices:
                 for key in ((sl, lab), (sl, "*")):
@@ -42,7 +52,7 @@ def score(records, predictions):
                     c[1] += fp
                     c[2] += fn
         predicted_chars = {i for spans in pred.values() for s, e in spans for i in range(s, e)}
-        gold_pii = {i for lab, spans in gold.items() if LABELS[lab].group == "pii"
+        gold_pii = {i for lab, spans in gold.items() if lab in LABELS and LABELS[lab].group == "pii"
                     for s, e in spans for i in range(s, e)}
         pii_gold += len(gold_pii)
         pii_hit += len(gold_pii & predicted_chars)
@@ -59,7 +69,7 @@ def predict(model, records, threshold, batch_size):
         # records in a batch may cover different labels: group by label set
         groups = collections.defaultdict(list)
         for j, rec in enumerate(batch):
-            groups[tuple(sorted(query_labels(rec)))].append(j)
+            groups[tuple(sorted(predict_labels(rec)))].append(j)
         out = [None] * len(batch)
         for labels, idxs in groups.items():
             names = {surface(lab): lab for lab in labels}

@@ -57,9 +57,10 @@ Zeilenumbrüche, O/0-, l/1-, S/§-Verwechslungen, Leerzeichen in Zahlen): `at_24
 
 ## Annotationsregeln (Entscheidungen)
 
-- **Gesetze ohne Fundstelle werden nicht getaggt**: „das ABGB“, „MRG“, „Parkometergesetz“,
-  „Kollektivvertrag“, „ÖNORM B 3521-1“, „BGBl. II 143/2012“, `RS0127773` (RIS-Rechtssatz).
-  Mit §/Art. wird der ganze Zitatblock inkl. Gesetzesabkürzung getaggt.
+- **Gesetzesnamen werden auch ohne Fundstelle getaggt** (seit 2026-10, wie LER): „das ABGB“, „MRG“,
+  „Parkometergesetz“ → legal_norm. Nicht getaggt: „Kollektivvertrag“, „ÖNORM B 3521-1“,
+  „BGBl. II 143/2012“, `RS0127773` (RIS-Rechtssatz). Mit §/Art. wird der ganze Zitatblock inkl.
+  Gesetzesabkürzung getaggt.
 - **Zitatketten**: jedes Zitat separat (`§ 879 Abs 3 ABGB` iVm `§ 6 Abs 1 Z 1 KSchG`); Aufzählungen
   innerhalb eines Gesetzes bleiben ein Span (`§§ 41, 50 ZPO`, `§§ 146, 147 Abs 1 Z 1 … StGB`).
   Unvollständige Glieder in Ketten (`Art. 5 Abs. 1 lit. a und c`, `Art. 6 Abs. 1`, … `der Verordnung (EU) 2016/679`) werden einzeln getaggt.

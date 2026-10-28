@@ -5,3 +5,4 @@ data/canonical/
 data/build/
 out/
 .venv/
+data/gazetteers/raw/
