@@ -90,7 +90,7 @@ inside a span; that's accepted noise.
 | Synthetic v1 (`data/synthetic/raw`) | done, 40 docs | de / AT, DE | 10 coarse → canonical (no roles) | ours |
 | Synthetic v2 (`data/synthetic/raw_v2`) | pilot running: 72 docs (6 Haiku batches) | de / AT, DE, CH; fr / FR, CH, BE, LU | full canonical schema | ours |
 | LER `elenanereiss/german-ler` | converter ready (`legalner/sources/ler.py`) | de / DE federal courts | 19 classes → canonical | CC-BY-4.0 |
-| RIS OGD API (`data.bka.gv.at/ris/api/v2.6`) | planned | de / AT | pseudonymised placeholders mark PII | open government data |
+| RIS OGD API (`data.bka.gv.at/ris/api/v2.6`) | done, 440 decisions (OGH/OLG/LG, VwGH, VfGH, BVwG, LVwG, 2022+) → 6,105 chunks in `data/canonical/ris.jsonl` (`legalner/sources/ris.py`, index in `data/ris/index.jsonl`) | de / AT | placeholders filled from gazetteers + rules: person, judge, lawyer, address, date, case_number, court (audit: `docs/audits/ris_rules.md`, ≈2–8 % misses per label) | open government data |
 | EUR-Lex / CELLAR | planned, for unlabelled legal text and teacher pseudo-labels | de, fr / EU | — | reuse permitted with attribution |
 | MAPA `joelniklaus/mapa` | planned, evaluation only (12 docs per language) | de, fr + 19 more / EU | PERSON/ADDRESS/DATE/ORG/AMOUNT, fine sub-tags | CC-BY-4.0 |
 | GLiNER v1 replay (`urchade/pile-mistral-v0.1`, `urchade/synthetic-pii-ner-mistral-v1`; **not** Pile-NER) | planned | en + de/fr/it/es | open label set | Apache-2.0 |
@@ -158,7 +158,7 @@ confirm on first use, since the agent proxy logs every refused host.
 |---|---|
 | Hugging Face models and datasets | `huggingface.co`, `*.hf.co` (covers `us.aws.cdn.hf.co`, `cas-bridge.xethub.hf.co`, `cdn-lfs-us-1.hf.co`), `cdn-lfs.huggingface.co`, `datasets-server.huggingface.co` |
 | PyTorch CPU wheels (small install for CPU smoke tests) | `download.pytorch.org` |
-| RIS (Austrian law and case law) | `data.bka.gv.at` (OGD API), `www.ris.bka.gv.at` (document HTML/XML), `rismcp.mburgler.com` (the RIS MCP plugin, refused in this session) |
+| RIS (Austrian law and case law) | `data.bka.gv.at` (OGD API), `ogd.ris.bka.gv.at` (document HTML/XML, the URLs the API returns), `rismcp.mburgler.com` (the RIS MCP plugin) |
 | EUR-Lex / EU publications | `eur-lex.europa.eu`, `publications.europa.eu` (CELLAR, SPARQL), `data.europa.eu` |
 | Wikidata (names, courts, authorities) | `query.wikidata.org`, `www.wikidata.org` |
 | Addresses | `data.bev.gv.at` (AT, verify), `data.geo.admin.ch` (CH), `adresse.data.gouv.fr` and `files.data.gouv.fr` (FR), `download.geofabrik.de` (OSM, DE) |
@@ -191,7 +191,17 @@ Next session, in order:
    inference must do the same.
 4. ~~Baselines~~ done: `docs/baselines.md`. Both ≈F1 0.53–0.54 zero-shot; PII character recall 0.81 (base)
    vs 0.93 (PII model); roles, identifiers and LER-style citations are weak.
-5. Write the RIS fetcher against the live OGD API, with placeholder filling from gazetteers.
+5. ~~RIS fetcher~~ done: `search`/`fetch`/`convert` run on 440 live decisions (raw HTML cached in the
+   gitignored `data/ris/raw`). Text extraction drops metadata blocks and the screen-reader duplicate of every
+   paragraph. Each court pseudonymises its own way (Justiz `A*`/`* K*`/`*`, BVwG `XXXX`, LVwG `***`/`xxx`/`AA`/
+   `Adresse 1`, VwGH initials `des M K in W`, VwG Wien `A. B.`/`...`); placeholders are classified from context and
+   filled per document. The rules were checked on 30 decisions; real fixtures for Justiz, BVwG and VwGH are in `tests/`.
+   Placeholders no rule can classify (5.4 % of chunks) set `meta.uncovered`, and `build.query_labels` then drops
+   the PII labels for that chunk. Audit on 24 decisions (`docs/audits/ris_rules.md`): misses before the last fixes were
+   person 4.8 %, address 8.3 %, date 2.1 %, case_number 6.9 %, court 4.8 %. Coverage unchanged. `convert` keeps 40 chunks
+   per decision because BVwG country reports would otherwise dominate. `python -m legalner.build data/canonical/ris.jsonl`
+   validates under `TrainingDataset.validate()` (4,983/723/399). Open: LVwG letter-coded towns and VwG Wien `C.-platz`
+   cut address spans; fetch more LVwG/LG.
 6. Add replay converters (GLiNER v1 format) and the MAPA evaluation converter.
 7. Scale synthetic generation to 1,000–3,000 documents; build the hand-checked Austrian gold set.
 8. First GPU run.
