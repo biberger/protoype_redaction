@@ -215,7 +215,7 @@ NAME = rf"{_WORD}(?:-{_WORD})?"
 PERSON_NAME = rf"{DEGREE}*(?:(?:{NAME}|[A-ZÄÖÜ]\.)\s){{0,3}}{NAME}{POSTNOM}?"
 
 # one placeholder token: Justiz "A*"/"Bö*"/"*"/"A*****", BVwG "XXXX", LVwG "***"/"xxx"/"**1"
-PH = r"(?:[A-ZÄÖÜ][a-zäöü]{0,2}\*+(?!innen)|\*+\d+|\*{3,}[a-z](?![a-zäöü])|(?<![a-zäöü])\*+(?![a-zäöü])|XXXX|(?<![a-wyzäöüß])x{2,}(?=[a-zäöüß]{3,}|\b))"
+PH = r"(?:(?<![\w*])[A-ZÄÖÜ][a-zäöü]{0,2}\*+(?!innen)|\*+\d+|\*{3,}[a-z](?![a-zäöü])|(?<![a-zäöü])\*+(?![a-zäöü])|XXXX|(?<![a-wyzäöüß])x{2,}(?=[a-zäöüß]{3,}|\b))"
 PH_RUN = re.compile(rf"(?:{DEGREE})*{PH}(?:[ \-]{PH})*(?:[a-zäöüß]+)?")
 DATE_PH = re.compile(r"(?<![\w*])(?=[^\s]*[Xx*])(?:[Xx]{2}|\*{1,2}|\d{1,2})\.\s?(?:[Xx]{2}|\*{1,2}|\d{1,2})\.\s?"
                      r"(?:[Xx]{4}|\*{4}|(?:19|20)\d\d)(?![\w*])")
@@ -373,6 +373,8 @@ def classify_placeholder(before, after, surface, prev=None):
         return "date"
     if re.match(r"^\s?(?:19|20)\d\d\b", after) and bare:  # "geboren am * 2012": day and month removed
         return "date"
+    if bare and _PRE["land_register_id"].search(before):  # "EZ * KG *": KG is the Katastralgemeinde
+        return "land_register_id"
     if _ORG_AFTER.match(after) or re.search(r"\b(?:Firma|Unternehmens?|Verein(?:s)?|Gesellschaft)\s$", before):
         return "organization"
     if re.match(r"^-?(?:Straße|Strasse|Gasse|Weg|Platz|Allee|Ring|Kai|Lände|Zeile|Promenade)", after):
@@ -512,6 +514,8 @@ def fill_placeholders(text, gaz, rng, app=None):
     filler = Filler(gaz, rng, app)
     out, spans, pos, cur, prev, unknown = [], [], 0, 0, None, 0
     for s, e, kind in _candidates(text, app):
+        if s < pos:  # swallowed by the previous span's extension (legal form, year)
+            continue
         surface = text[s:e]
         if kind == "ph" and not re.search(r"\*|XXXX|xx|\.\.\.|…", surface):
             continue

@@ -267,3 +267,11 @@ def test_query_labels_respects_uncovered():
     rec = {"source": "ris", "spans": [], "meta": {"uncovered": ["person", "judge", "address"]}}
     labels = query_labels(rec)
     assert "person" not in labels and "address" not in labels and "court" in labels
+
+
+def test_ris_placeholder_overlap_and_land_register():
+    from legalner.sources import ris
+    text = "der Liegenschaft EZ * KG *, und EZ * KG*, sowie der B* KG*, wegen"
+    out, spans, _ = ris.fill_placeholders(text, _FakeGaz(), random.Random(0), "Justiz")
+    assert all(out[s:e] == t for _, s, e, t in spans)
+    assert [lab for lab, *_ in spans][:4] == ["land_register_id"] * 4
