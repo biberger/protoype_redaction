@@ -162,6 +162,8 @@ Zusammenfassung
 
 Zusammenfassend ist festzuhalten, dass der Schaden vom Versicherungsschutz umfasst ist. Die Leistungspflicht wird im Grundsatz anerkannt, Abzüge ergeben sich aus dem Selbstbehalt, der nicht ersatzfähigen Position Verdienstentgang und den nicht belegten Positionen. Die Entscheidung gilt für alle Mitversicherten gleichermaßen, soweit der jeweilige Anspruch betroffen ist.
 
+Hinsichtlich der Haftung des Vermieters des Gebäudes, der nicht Vertragspartei ist, verweisen wir auf die gesonderte Regelung im Mietvertrag. Ein Regressanspruch gegen Dritte, insbesondere gegen den Installateur der Anlage aus dem Jahr 2009, wurde geprüft. Die Verjährung dieses Anspruchs ist nach den Umständen nicht mehr zu erwarten, weshalb wir von einer Weiterverfolgung absehen. Sollten Sie anderer Auffassung sein, bitten wir um einen kurzen Hinweis, damit die Angelegenheit neu geprüft werden kann.
+
 Wir bitten um Verständnis, dass die Bearbeitung einige Wochen in Anspruch genommen hat. Die Verzögerung ist auf die Nachbesichtigung der Trocknung und die Abstimmung mit dem Sachverständigen zurückzuführen.
 
 Mit freundlichen Grüßen
