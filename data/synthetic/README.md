@@ -6,29 +6,28 @@ Kennnummern und Sachverhalte sind erfunden; reale Gerichte, Behörden und Ortsna
 werden verwendet.
 
 ```
-raw/*.md            Dokumente mit Inline-Tags [[LABEL|Oberflächentext]] + Header (doc_type, jurisdiction)
-tools/convert.py    Konverter raw -> synthetic.jsonl (nur stdlib)
-synthetic.jsonl     generiert; eine Zeile pro Chunk (≤ 1500 Zeichen)
+raw/*.md            v1: 40 Dokumente mit Inline-Tags [[LABEL|Oberflächentext]] (alte 10 Labels, s. u.)
+raw_v2/<batch>/*.md v2: Dokumente im kanonischen Schema, Spezifikation in GENERATION.md
 ```
 
 ## Neu erzeugen
 
+Der Parser liegt im Paket `legalner` (Repo-Root) und bildet v1-Labels auf das kanonische Schema
+(`legalner/schema.py`) ab; KENNNUMMER/KONTAKT werden per Muster und Kontext in feine Labels
+(bank_account, tax_id, …) aufgeteilt.
+
 ```
-python3 tools/convert.py            # schreibt synthetic.jsonl, druckt Statistik + Lint-Warnungen
-python3 tools/convert.py --strict   # bricht zusätzlich bei Lint-Warnungen ab
-python3 tools/convert.py --no-chunk # ein Datensatz pro Dokument
+python3 -m legalner.tagged data/synthetic/raw    -o data/canonical/synthetic_v1.jsonl --source synthetic_v1 --strict
+python3 -m legalner.tagged data/synthetic/raw_v2 -o data/canonical/synthetic.jsonl    --source synthetic    --strict
 ```
 
-Der Konverter bricht bei fehlerhaften Tags (unbekanntes Label, `[[`/`]]`-Reste, Leerzeichen
+Der Parser bricht bei fehlerhaften Tags (unbekanntes Label, `[[`/`]]`-Reste, Leerzeichen
 am Span-Rand) ab und prüft `text[start:end] == surface` für jeden Span. Chunks entstehen durch
-Aufteilen an Leerzeilen; überlange Absätze (Register-Auszüge) werden an Zeilenumbrüchen außerhalb
+Aufteilen an Leerzeilen (≤ 1500 Zeichen); überlange Absätze werden an Zeilenumbrüchen außerhalb
 von Entitäten geteilt. Der Lint warnt vor ungetaggten Vorkommen bereits getaggter Strings, von
 Nachnamen getaggter Personen und häufiger Städtenamen.
 
-Format: `{"text", "entities": {LABEL: [{"text","start","end"}]}, "meta": {"source_file","doc_type","jurisdiction"}}`,
-`end` exklusiv, alle zehn Labels immer vorhanden (leere Liste = Negativbeispiel).
-
-## Labels
+## Labels (v1)
 
 | Label | Definition |
 |---|---|

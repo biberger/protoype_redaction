@@ -1,0 +1,152 @@
+"""Merge canonical records from all sources into GLiNER2 train/dev/test files.
+
+Canonical record (one JSON object per line, produced by legalner.tagged and
+legalner.sources.*):
+
+    {"id", "source", "doc_id", "lang", "jurisdiction", "text",
+     "spans": [{"label", "start", "end", "text"}], "meta": {...}}
+
+Per example, only labels the source covers are queried (schema.SOURCES), so an
+unannotated label never becomes a false negative. Training examples get label
+augmentation to keep zero-shot behaviour: random subsets of the covered labels,
+German/French synonyms as label names and optional descriptions.
+
+    python -m legalner.build data/canonical/*.jsonl data/canonical/ler/*.jsonl -o data/build/v1
+"""
+import argparse
+import collections
+import hashlib
+import json
+import pathlib
+import random
+
+from legalner.schema import LABELS, SOURCES
+
+SPLIT_NAMES = {"train": "train", "validation": "dev", "dev": "dev", "test": "test"}
+
+
+def surface(label):
+    return label.replace("_", " ")
+
+
+def doc_split(rec, dev_frac, test_frac):
+    """Use a split given by the source, else a stable hash of the document id."""
+    given = rec.get("meta", {}).get("split")
+    if given:
+        return SPLIT_NAMES[given]
+    h = int(hashlib.sha1(rec["doc_id"].encode()).hexdigest(), 16) % 10_000 / 10_000
+    return "test" if h < test_frac else "dev" if h < test_frac + dev_frac else "train"
+
+
+def query_labels(rec):
+    """Covered labels for this record minus labels nested unannotated inside a present span."""
+    src = SOURCES[rec["source"]]
+    present = {s["label"] for s in rec["spans"]}
+    labels = set(src.coverage)
+    for outer, inner in src.nested_conflicts.items():
+        if outer in present:
+            labels -= set(inner)
+    return labels
+
+
+def spans_by_label(rec, labels):
+    out = collections.defaultdict(list)
+    seen = set()
+    for s in rec["spans"]:
+        key = (s["label"], s["start"], s["end"])
+        if s["label"] in labels and key not in seen:
+            seen.add(key)
+            out[s["label"]].append({"text": s["text"], "start": s["start"], "end": s["end"]})
+    return out
+
+
+def to_example(rec, labels, names=None, descriptions=False):
+    """GLiNER2 training record; `names` maps canonical label -> prompt string."""
+    names = names or {lab: surface(lab) for lab in labels}
+    spans = spans_by_label(rec, labels)
+    output = {"entities": {names[lab]: spans.get(lab, []) for lab in sorted(labels)}}
+    if descriptions:
+        output["entity_descriptions"] = {names[lab]: LABELS[lab].description for lab in sorted(labels)}
+    return {"input": rec["text"], "output": output}
+
+
+def augment(rec, labels, rng, p_keep_pos=0.9, p_keep_neg=0.5, p_rename=0.3, p_desc=0.5):
+    """Sample the queried label subset, label wording and descriptions."""
+    present = {s["label"] for s in rec["spans"]} & labels
+    keep = {lab for lab in labels
+            if rng.random() < (p_keep_pos if lab in present else p_keep_neg)}
+    if not keep:
+        keep = {rng.choice(sorted(labels))}
+    names = {}
+    rename = rng.random() < p_rename
+    for lab in keep:
+        synonyms = getattr(LABELS[lab], rec.get("lang", "de"), ()) if rename else ()
+        names[lab] = rng.choice(synonyms) if synonyms else surface(lab)
+    if len(set(names.values())) < len(names):  # synonym collision: fall back to keys
+        names = {lab: surface(lab) for lab in keep}
+    return to_example(rec, keep, names, descriptions=rng.random() < p_desc)
+
+
+def read_records(paths):
+    for path in paths:
+        with open(path, encoding="utf-8") as fh:
+            for line in fh:
+                if line.strip():
+                    yield json.loads(line)
+
+
+def main(argv=None):
+    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("inputs", nargs="+", help="canonical JSONL files")
+    ap.add_argument("-o", "--out", required=True, help="output directory")
+    ap.add_argument("--dev-frac", type=float, default=0.1)
+    ap.add_argument("--test-frac", type=float, default=0.1)
+    ap.add_argument("--copies", type=int, default=1, help="augmented copies per training record")
+    ap.add_argument("--max-per-source", type=int, default=0, help="cap training records per source (0 = all)")
+    ap.add_argument("--seed", type=int, default=13)
+    args = ap.parse_args(argv)
+
+    rng = random.Random(args.seed)
+    out = pathlib.Path(args.out)
+    out.mkdir(parents=True, exist_ok=True)
+    by_split = collections.defaultdict(list)
+    for rec in read_records(args.inputs):
+        if rec["source"] not in SOURCES:
+            raise SystemExit(f"{rec['id']}: unknown source {rec['source']!r}; add it to schema.SOURCES")
+        by_split[doc_split(rec, args.dev_frac, args.test_frac)].append(rec)
+
+    stats = {}
+    train = by_split["train"]
+    if args.max_per_source:
+        rng.shuffle(train)
+        capped, per = [], collections.Counter()
+        for rec in train:
+            per[rec["source"]] += 1
+            if per[rec["source"]] <= args.max_per_source:
+                capped.append(rec)
+        train = capped
+    with (out / "train.jsonl").open("w", encoding="utf-8") as fh:
+        n = 0
+        for _ in range(args.copies):
+            for rec in train:
+                fh.write(json.dumps(augment(rec, query_labels(rec), rng), ensure_ascii=False) + "\n")
+                n += 1
+    stats["train"] = n
+    for split in ("dev", "test"):
+        recs = by_split[split]
+        with (out / f"{split}.jsonl").open("w", encoding="utf-8") as fh:
+            for rec in recs:
+                fh.write(json.dumps(to_example(rec, query_labels(rec)), ensure_ascii=False) + "\n")
+        # canonical copy keeps source/jurisdiction for sliced evaluation
+        with (out / f"{split}.canonical.jsonl").open("w", encoding="utf-8") as fh:
+            for rec in recs:
+                fh.write(json.dumps(rec, ensure_ascii=False) + "\n")
+        stats[split] = len(recs)
+    stats["records_per_source"] = {
+        split: dict(collections.Counter(r["source"] for r in recs)) for split, recs in by_split.items()}
+    (out / "manifest.json").write_text(json.dumps(stats, indent=2))
+    print(json.dumps(stats, indent=2))
+
+
+if __name__ == "__main__":
+    main()
