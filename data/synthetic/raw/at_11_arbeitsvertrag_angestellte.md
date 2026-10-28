@@ -6,11 +6,11 @@ DIENSTVERTRAG FÜR ANGESTELLTE
 
 abgeschlossen zwischen
 
-der [[ORGANISATION|Vorarlberger Präzisionsteile GmbH]], [[ADRESSE|Achstraße 61, 6850 Dornbirn]], [[KENNNUMMER|FN 311402v]], UID-Nr. [[KENNNUMMER|ATU63389210]], vertreten durch den Geschäftsführer [[PERSON|DI Martin Fussenegger]] (im Folgenden „Arbeitgeberin“)
+der [[ORGANISATION|Vorarlberger Präzisionsteile GmbH]], [[ADRESSE|Achstraße 61, 6850 Dornbirn]], [[KENNNUMMER|FN 106954k]], UID-Nr. [[KENNNUMMER|ATU63389210]], vertreten durch den Geschäftsführer [[PERSON|DI Martin Fussenegger]] (im Folgenden „Arbeitgeberin“)
 
 und
 
-Frau [[PERSON|Carina Bitschnau]], geb. [[DATUM|23.08.1993]], Sozialversicherungsnummer [[KENNNUMMER|2718 230893]], wohnhaft in [[ADRESSE|Bahnhofstraße 7a, 6890 Lustenau]], Telefon [[KONTAKT|0699 1734 2280]], E-Mail [[KONTAKT|carina.bitschnau@outlook.com]] (im Folgenden „Arbeitnehmerin“).
+Frau [[PERSON|Carina Bitschnau]], geb. [[DATUM|23.08.1993]], Sozialversicherungsnummer [[KENNNUMMER|1118 230893]], wohnhaft in [[ADRESSE|Bahnhofstraße 7a, 6890 Lustenau]], Telefon [[KONTAKT|0699 1734 2280]], E-Mail [[KONTAKT|carina.bitschnau@outlook.com]] (im Folgenden „Arbeitnehmerin“).
 
 1. Beginn des Dienstverhältnisses, Probezeit
 
@@ -36,7 +36,7 @@ Die wöchentliche Normalarbeitszeit beträgt 38,5 Stunden. Es gilt die Betriebsv
 
 5.1 Das monatliche Bruttogehalt beträgt EUR 3.640,00 und ist 14-mal jährlich zahlbar. Das kollektivvertragliche Mindestgehalt wird damit um EUR 512,60 überschritten.
 
-5.2 Das Gehalt wird jeweils zum Monatsletzten auf das Konto der Arbeitnehmerin bei der [[ORGANISATION|Rheintal Sparkasse AG]], IBAN [[KENNNUMMER|AT90 2060 2000 0045 7781]], überwiesen.
+5.2 Das Gehalt wird jeweils zum Monatsletzten auf das Konto der Arbeitnehmerin bei der [[ORGANISATION|Rheintal Sparkasse AG]], IBAN [[KENNNUMMER|AT44 0772 8378 3266 1663]], überwiesen.
 
 6. Urlaub
 

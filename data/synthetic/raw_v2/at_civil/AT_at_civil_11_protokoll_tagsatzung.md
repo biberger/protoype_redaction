@@ -15,14 +15,14 @@ Rechtssache:
 Klagende Partei: [[person|Ricardo Esposito]], [[address|Speckbacherweg 8, 6330 Kufstein]]
 vertreten durch: [[lawyer|Mag. Thomas Ploner]], Rechtsanwalt in [[location|Kufstein]]
 
-Beklagte Partei: [[organization|Autohaus Wörgl-Süd Vertriebs GmbH]], [[address|Innsbrucker Straße 77, 6300 Wörgl]], FN [[company_register_number|284067x]]
+Beklagte Partei: [[organization|Autohaus Wörgl-Süd Vertriebs GmbH]], [[address|Innsbrucker Straße 77, 6300 Wörgl]], [[company_register_number|FN 284067x]]
 vertreten durch: [[lawyer|Dr. Sabine Kranzl]] in [[location|Wörgl]]
 
 wegen: 8.450,00 EUR s.A. (Wandlung, Gewährleistung)
 
 Anwesend:
 Richter: [[judge|Mag. Leopold Strobl]]
-Schriftführerin: Sonja Fankhauser
+Schriftführerin: [[person|Sonja Fankhauser]]
 
 Tagsatzung zur mündlichen Verhandlung und Beweisaufnahme
 
@@ -57,7 +57,7 @@ Der Zeuge verlässt den Saal.
 Zeugenaussage [[person|Ingrid Wien]]
 
 Die Zeugin wird belehrt; sie ist die Lebensgefährtin des Klägers. Sie gibt an:
-Ja, ich bin die Freundin vom Ricky. Das Auto hat er sich im September gekauft, für meine Fahrten nach [[location|Innsbruck]]. Der Ruckler war so ab November da, erst leicht, dann stärker, vor allem im Stadtverkehr. Ich bin selbst damit zweimal in die Werkstatt gefahren, am [[date|14.11.2024]] und am [[date|5. Dezember 2024]]. Gesagt hat man mir, das sei normal bei Automatik. [[location|Wien]] ist für mich eine Stadt, in die wir nicht fahren, das ist also nicht der Grund für den Schaden. Der Schlag war dann immer beim Anfahren, auch im Stand.
+Ja, ich bin die Freundin vom [[person|Ricky]]. Das Auto hat er sich im September gekauft, für meine Fahrten nach [[location|Innsbruck]]. Der Ruckler war so ab November da, erst leicht, dann stärker, vor allem im Stadtverkehr. Ich bin selbst damit zweimal in die Werkstatt gefahren, am [[date|14.11.2024]] und am [[date|5. Dezember 2024]]. Gesagt hat man mir, das sei normal bei Automatik. [[location|Wien]] ist für mich eine Stadt, in die wir nicht fahren, das ist also nicht der Grund für den Schaden. Der Schlag war dann immer beim Anfahren, auch im Stand.
 
 Der Richter weist die Zeugin darauf hin, dass sie nur über eigene Wahrnehmungen zu berichten hat. Auf die Frage, ob sie den Zustand vor dem Kauf kenne, verneint sie.
 
@@ -65,7 +65,7 @@ Zeugenaussage [[person|Nermin Hadžić]]
 
 Der Zeuge ist nicht erschienen. Der Klagevertreter beantragt die Verlesung seiner schriftlichen Äußerung vom [[date|28.05.2025]] nach [[legal_norm|§ 280 ZPO]]. Die Beklagte stimmt zu.
 
-Die schriftliche Äußerung lautet: „Ich habe den Wagen im Juni 2025 in der Werkstatt [[person|Hadžić]] gesehen, damals war er bei der Diagnose mit dem Herstellerprogramm nicht auffällig. Das Getriebe war sauber, es gab keine Anzeichen für einen Ölverlust. Eine Aussage zum Zustand bei Übergabe kann ich nicht machen. [[person|Hadžić]].“
+Die schriftliche Äußerung lautet: „Ich habe den Wagen im Juni 2025 in der Werkstatt [[organization|Hadžić]] gesehen, damals war er bei der Diagnose mit dem Herstellerprogramm nicht auffällig. Das Getriebe war sauber, es gab keine Anzeichen für einen Ölverlust. Eine Aussage zum Zustand bei Übergabe kann ich nicht machen. [[person|Hadžić]].“
 
 Der Richter verfügt die Verlesung. Die Parteien verzichten auf weitere Fragen an den Zeugen.
 
@@ -83,7 +83,7 @@ Der Kläger ergänzt: Ich habe das dreimal gemeldet, schriftlich nur einmal, per
 
 Der Richter stellt fest, dass der Screenshot als Beilage ./G vorliegt und nicht bestritten wird.
 
-Der Klagevertreter führt aus, dass die Mängelrüge auch durch die Vorsprache des Klägers am Schalter der Beklagten am 3. Dezember 2024 erfolgt sei; dies sei durch die Zeugin [[person|Ingrid Wien]] bestätigt. Der Geschäftsführer bestreitet die Vorsprache, da am genannten Tag das Büro geschlossen gewesen sei. Ob die Vorsprache erfolgte, ist nach Ansicht des Richters für die Frage der Rechtzeitigkeit nicht allein entscheidend, weil der Mangel nach dem Vorbringen der Beklagten selbst bei den Werkstattterminen bekannt war.
+Der Klagevertreter führt aus, dass die Mängelrüge auch durch die Vorsprache des Klägers am Schalter der Beklagten am [[date|3. Dezember 2024]] erfolgt sei; dies sei durch die Zeugin [[person|Ingrid Wien]] bestätigt. Der Geschäftsführer bestreitet die Vorsprache, da am genannten Tag das Büro geschlossen gewesen sei. Ob die Vorsprache erfolgte, ist nach Ansicht des Richters für die Frage der Rechtzeitigkeit nicht allein entscheidend, weil der Mangel nach dem Vorbringen der Beklagten selbst bei den Werkstattterminen bekannt war.
 
 Die Beklagte bringt außerdem vor, dass der Kläger das Fahrzeug nach der dritten Reparatur selbst weiter benützt habe. Dazu erklärt der Kläger, dass er es wegen des Ruckelns nur im Stadtverkehr vermieden habe, auf der Autobahn aber ohne Beanstandung gefahren sei. Ob dies für die Wandlung von Bedeutung ist, bleibt dem Sachverständigengutachten vorbehalten.
 
@@ -123,4 +123,4 @@ Ende der Verhandlung: 11:42 Uhr
 
 Richter: [[judge|Strobl]]
 
-Die Schriftführerin: Fankhauser
+Die Schriftführerin: [[person|Fankhauser]]

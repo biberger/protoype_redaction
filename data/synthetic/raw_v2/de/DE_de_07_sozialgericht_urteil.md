@@ -33,7 +33,7 @@ hat die 34. Kammer des [[court|Sozialgerichts Dortmund]] aufgrund der mündliche
 
 Tatbestand
 
-Der Kläger begehrt die Gewährung einer Rente wegen Erwerbsminderung. Der am [[date|11. März 1964]] geborene Kläger ist gelernter Maschinenschlosser und war zuletzt bis zum [[date|31. Dezember 2022]] als Lagerhelfer bei der [[organization|Westfalen Metallhandel GmbH]] in [[location|Dortmund]] beschäftigt. Seine Rentenversicherungsnummer lautet [[social_security_number|45 110364 Y 019]].
+Der Kläger begehrt die Gewährung einer Rente wegen Erwerbsminderung. Der am [[date|11. März 1964]] geborene Kläger ist gelernter Maschinenschlosser und war zuletzt bis zum [[date|31. Dezember 2022]] als Lagerhelfer bei der [[organization|Westfalen Metallhandel GmbH]] in [[location|Dortmund]] beschäftigt. Seine Rentenversicherungsnummer lautet [[social_security_number|45 110364 Y 010]].
 
 Der Kläger leidet nach den vorgelegten ärztlichen Unterlagen an einer chronischen Lumboischialgie bei Bandscheibenvorfall im Segment L5/S1, an einer Funktionsbeeinträchtigung der rechten Schulter nach einer Operation im Jahr 2021 sowie an einer depressiven Störung. Der Facharzt für Orthopädie [[person|Dr. med. Hanna Lindenberg]] hat im Gutachten vom [[date|3. Oktober 2023]] ausgeführt, dass der Kläger leichte Tätigkeiten im Wechsel der Körperhaltung nur noch unter drei Stunden täglich verrichten könne.
 

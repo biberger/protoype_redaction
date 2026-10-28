@@ -20,7 +20,7 @@ Bescheid
 
 Spruch
 
-Die [[organization|Bezirkshauptmannschaft Leibnitz]] erteilt der [[organization|Lazić Catering e.U.]], [[address|Brunnweg 22, 8443 Gleinstätten]], vertreten durch den Inhaber [[person|Dejan Stojković]], FN [[company_register_number|FN 155876f]] (Firmenbuch), gemäß [[legal_norm|§ 74 Abs 2 GewO 1994]] und [[legal_norm|§ 77 Abs 1 GewO 1994]] die Genehmigung zur Änderung der mit Bescheid vom [[date|12.03.2019]], Zl. [[case_number|BHLB-GewR-2019/1183]], genehmigten Betriebsanlage für das Gastgewerbe in der Betriebsart Buffetbetrieb am Standort [[address|Hauptplatz 7, 8430 Leibnitz]] (Grundstück [[land_register_id|Gst.-Nr. 412/2]], [[land_register_id|KG 67131 Leibnitz]]).
+Die [[organization|Bezirkshauptmannschaft Leibnitz]] erteilt der [[organization|Lazić Catering e.U.]], [[address|Brunnweg 22, 8443 Gleinstätten]], vertreten durch den Inhaber [[person|Dejan Stojković]], [[company_register_number|FN FN 155876f]] (Firmenbuch), gemäß [[legal_norm|§ 74 Abs 2 GewO 1994]] und [[legal_norm|§ 77 Abs 1 GewO 1994]] die Genehmigung zur Änderung der mit Bescheid vom [[date|12.03.2019]], Zl. [[case_number|BHLB-GewR-2019/1183]], genehmigten Betriebsanlage für das Gastgewerbe in der Betriebsart Buffetbetrieb am Standort [[address|Hauptplatz 7, 8430 Leibnitz]] (Grundstück [[land_register_id|Gst.-Nr. 412/2]], [[land_register_id|KG 67131 Leibnitz]]).
 
 Die Genehmigung wird unter den im Spruch III. angeführten Auflagen erteilt.
 

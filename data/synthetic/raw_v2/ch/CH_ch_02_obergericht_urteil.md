@@ -24,7 +24,7 @@ Berufungsbeklagte, vertreten durch [[lawyer|MLaw Patrick Gisler]], Rechtsanwalt,
 
 betreffend Forderung aus Arbeitsvertrag
 
-Berufung gegen das Urteil des [[court|Arbeitsgerichts Zürich]] vom [[date|18. Juli 2024]] (AN230044)
+Berufung gegen das Urteil des [[court|Arbeitsgerichts Zürich]] vom [[date|18. Juli 2024]] ([[case_number|AN230044]])
 
 Rubrum und Prozessgeschichte
 
@@ -82,7 +82,7 @@ Das Obergericht erkennt:
 
 1. Die Berufung wird teilweise gutgeheissen.
 
-2. Das Urteil des [[court|Arbeitsgerichts Zürich]] vom [[date|18. Juli 2024]] (AN230044) wird aufgehoben und wie folgt neu gefasst:
+2. Das Urteil des [[court|Arbeitsgerichts Zürich]] vom [[date|18. Juli 2024]] ([[case_number|AN230044]]) wird aufgehoben und wie folgt neu gefasst:
 
 Die Berufungsbeklagte [[organization|Vitalis Gastronomie AG]] wird verpflichtet, der Berufungsklägerin [[person|Nadia Haddad]] CHF 11'992.– brutto nebst Zins zu 5 % seit dem [[date|1. Juni 2023]] zu bezahlen.
 

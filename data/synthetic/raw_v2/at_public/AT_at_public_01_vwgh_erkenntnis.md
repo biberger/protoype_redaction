@@ -13,7 +13,7 @@ Entscheidungsdatum
 
 IM NAMEN DER REPUBLIK!
 
-Der Verwaltungsgerichtshof hat durch den Hofrat [[judge|Dr. Gerald Wallner]] als Vorsitzenden und die Hofrätin [[judge|Mag. Karin Oberhofer]] sowie den Hofrat [[judge|Dr. Thomas Reiterer]] als weitere Richter, im Beisein der Schriftführerin [[person|Mag. Sabine Hirner]], über die Revision des [[person|M.K.]], geb. [[date|***** 1979]], vertreten durch [[lawyer|Dr. Ilse Brandstätter]], Rechtsanwältin in [[address|*****]], gegen das Erkenntnis des [[court|Landesverwaltungsgerichtes Niederösterreich]] vom [[date|14.11.2024]], Zl. [[case_number|LVwG-AV-412/001-2024]], betreffend Baubewilligung (mitbeteiligte Partei: [[person|A*****]] [[person|B*****]], vertreten durch [[lawyer|Dr. Peter Gasser]], Rechtsanwalt in [[location|St. Pölten]]; belangte Behörde: [[organization|Gemeinde Kirchberg an der Pielach]]), zu Recht erkannt:
+Der [[court|Verwaltungsgerichtshof]] hat durch den Hofrat [[judge|Dr. Gerald Wallner]] als Vorsitzenden und die Hofrätin [[judge|Mag. Karin Oberhofer]] sowie den Hofrat [[judge|Dr. Thomas Reiterer]] als weitere Richter, im Beisein der Schriftführerin [[person|Mag. Sabine Hirner]], über die Revision des [[person|M.K.]], geb. [[date|***** 1979]], vertreten durch [[lawyer|Dr. Ilse Brandstätter]], Rechtsanwältin in [[address|*****]], gegen das Erkenntnis des [[court|Landesverwaltungsgerichtes Niederösterreich]] vom [[date|14.11.2024]], Zl. [[case_number|LVwG-AV-412/001-2024]], betreffend Baubewilligung (mitbeteiligte Partei: [[person|A*****]] [[person|B*****]], vertreten durch [[lawyer|Dr. Peter Gasser]], Rechtsanwalt in [[location|St. Pölten]]; belangte Behörde: [[organization|Gemeinde Kirchberg an der Pielach]]), zu Recht erkannt:
 
 Der Revision wird Folge gegeben. Das angefochtene Erkenntnis wird wegen Rechtswidrigkeit seines Inhalts aufgehoben.
 
@@ -41,7 +41,7 @@ II. Rechtliche Beurteilung
 
 8. Die mitbeteiligte Partei hat in ihrer Revisionsbeantwortung vorgebracht, die Revisionswerberin habe den Lageplan erst im Verfahren vor dem Landesverwaltungsgericht angezweifelt. Dieses Vorbringen geht ins Leere. Die Revisionswerberin hatte bereits in der Berufung auf die Höhendifferenz hingewiesen (Punkt I.2.). Das Verwaltungsgericht hätte sich damit auseinandersetzen müssen.
 
-9. Der Verwaltungsgerichtshof hat erwogen, dass die Behörde bei einer Abstandsunterschreitung zu prüfen hat, ob eine Ausnahme nach [[legal_norm|§ 6 Abs 4 NÖ BauO 2014]] vorliegt. Eine solche Prüfung ist dem angefochtenen Erkenntnis nicht zu entnehmen. Die Rechtsprechung des Verwaltungsgerichtshofes zur Ermittlungspflicht bei Nachbarrechten (vgl. [[court|VwGH]] [[date|25.04.2019]], [[case_number|Ro 2018/06/0041]]) ist insoweit nicht beachtet worden.
+9. Der [[court|Verwaltungsgerichtshof]] hat erwogen, dass die Behörde bei einer Abstandsunterschreitung zu prüfen hat, ob eine Ausnahme nach [[legal_norm|§ 6 Abs 4 NÖ BauO 2014]] vorliegt. Eine solche Prüfung ist dem angefochtenen Erkenntnis nicht zu entnehmen. Die Rechtsprechung des [[court|Verwaltungsgerichtshofes]] zur Ermittlungspflicht bei Nachbarrechten (vgl. [[court|VwGH]] [[date|25.04.2019]], [[case_number|Ro 2018/06/0041]]) ist insoweit nicht beachtet worden.
 
 10. Das angefochtene Erkenntnis war daher gemäß [[legal_norm|§ 42 Abs 2 Z 1 VwGG]] wegen Rechtswidrigkeit seines Inhalts aufzuheben.
 

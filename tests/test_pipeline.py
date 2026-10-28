@@ -115,3 +115,48 @@ def test_fake_ids_are_valid():
         assert fake_ids.iban_is_valid(fake_ids.iban(country, rng))
     assert fake_ids.svnr_is_valid(fake_ids.svnr(rng))
     assert fake_ids.iban_is_valid("AT61 1904 3002 3457 3201")  # published example IBAN
+
+
+@pytest.mark.parametrize("gen,valid", [
+    ("fn", "fn_is_valid"), ("uid_at", "uid_at_is_valid"), ("svnr", "svnr_is_valid"),
+    ("ahv", "ahv_is_valid"), ("nir", "nir_is_valid"), ("che_uid", "che_uid_is_valid"),
+    ("ust_idnr_de", "ust_idnr_de_is_valid"), ("rvnr", "rvnr_is_valid"),
+    ("siren", "siren_is_valid"), ("siret", "siren_is_valid"), ("be_enterprise", "be_enterprise_is_valid"),
+])
+def test_fake_ids_validate(gen, valid):
+    rng = random.Random(0)
+    assert all(getattr(fake_ids, valid)(getattr(fake_ids, gen)(rng)) for _ in range(200))
+
+
+def test_fake_id_validators_on_published_examples():
+    assert fake_ids.uid_at_is_valid("ATU13585627")         # BMF example
+    assert fake_ids.ust_idnr_de_is_valid("DE136695976")
+    assert fake_ids.rvnr_is_valid("65 170839 J 003")
+    assert fake_ids.siren_is_valid("780 129 987")
+    assert not fake_ids.siren_is_valid("780 129 988")
+    assert not fake_ids.che_uid_is_valid("CHE-116.281.711")
+
+
+def test_audit_flags_titles_dates_and_check_digits():
+    from legalner.audit import audit
+    rec = {"doc_id": "d", "jurisdiction": "AT", "spans": [
+        {"label": "lawyer", "text": "Me Anne Roux"}, {"label": "date", "text": "März 2024"},
+        {"label": "date", "text": "1er mars 2024"}, {"label": "tax_id", "text": "ATU13585628"},
+        {"label": "tax_id", "text": "AT61 1904 3002 3457 3201"}, {"label": "legal_norm", "text": "ABGB"}]}
+    kinds = sorted(p["kind"] for p in audit([rec])[0])
+    assert kinds == ["bad_check_digit", "date_without_day", "title_in_span", "wrong_label"]
+
+
+def test_untagged_act_names_are_linted(tmp_path):
+    _, warnings = parse_file(write_doc(
+        tmp_path, "Nach [[legal_norm|§ 1 MRG]] gilt das MRG; vgl. Art. 15 DSGVO."), "synthetic")
+    assert [w.split("untagged legal act ")[1] for w in warnings] == ["'MRG' (tag as legal_norm)",
+                                                                      "'Art. 15 DSGVO' (tag as legal_norm)"]
+
+
+def test_untagged_citations_and_court_names_are_linted(tmp_path):
+    _, warnings = parse_file(write_doc(
+        tmp_path, "Le [[court|TF]] (Tribunal fédéral) applique l'art. 257d al. 1 CO.",
+        header="doc_type: test\njurisdiction: CH\nlang: fr"), "synthetic")
+    assert any("'Tribunal fédéral'" in w for w in warnings)
+    assert any("untagged norm citation 'art. 257d al. 1 CO'" in w for w in warnings)

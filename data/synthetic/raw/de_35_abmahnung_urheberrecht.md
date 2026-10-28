@@ -53,7 +53,7 @@ unterzeichnet an uns zurückzusenden (Vorab per E-Mail genügt zur Fristwahrung,
 
 3. die Kosten unserer Inanspruchnahme aus einem Gegenstandswert von 6.000,00 € (1,3 Geschäftsgebühr gemäß [[GESETZ|Nr. 2300 VV RVG]] zzgl. Auslagenpauschale gemäß [[GESETZ|Nr. 7002 VV RVG]]) in Höhe von 627,13 €
 
-bis zum [[DATUM|9. Juni 2025]] auf unser Kanzleikonto bei der [[ORGANISATION|Hanseatische Privatbank AG]], IBAN [[KENNNUMMER|DE47 2003 0700 0418 2277 05]], unter Angabe unseres Zeichens zu überweisen.
+bis zum [[DATUM|9. Juni 2025]] auf unser Kanzleikonto bei der [[ORGANISATION|Hanseatische Privatbank AG]], IBAN [[KENNNUMMER|AT49 5025 5171 6079 0966]], unter Angabe unseres Zeichens zu überweisen.
 
 Sollte die Frist fruchtlos verstreichen, werden wir unserer Mandantin empfehlen, ohne weitere Ankündigung gerichtliche Hilfe, insbesondere im Wege des einstweiligen Verfügungsverfahrens vor dem [[GERICHT|Landgericht Hamburg]], in Anspruch zu nehmen.
 

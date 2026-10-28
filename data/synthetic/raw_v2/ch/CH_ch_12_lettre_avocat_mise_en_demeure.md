@@ -35,9 +35,9 @@ Total                                             CHF 14'620.–
 
 Nous relevons que notre mandante vous a déjà adressé des rappels écrits les [[date|10 avril 2025]] et [[date|2 juin 2025]]. Vous n'y avez donné aucune suite, et vous n'avez pas contesté les factures dans le délai qui vous était imparti.
 
-Par la présente, nous vous mettons en demeure de payer la somme de CHF 14'620.–, avec intérêts moratoires à 5 % l'an dès le [[date|18 mars 2025]], dans un délai de dix jours à compter de la réception de la présente lettre (art. 102 al. 1 CO et art. 104 al. 1 CO). Le paiement doit être effectué sur le compte de notre mandante auprès de la [[organization|Banque Cantonale Neuchâteloise]], IBAN [[bank_account|CH88 0711 4819 4025 7156 0]], avec la mention de la référence [[other_identifier|BA/AV-2025-0412]].
+Par la présente, nous vous mettons en demeure de payer la somme de CHF 14'620.–, avec intérêts moratoires à 5 % l'an dès le [[date|18 mars 2025]], dans un délai de dix jours à compter de la réception de la présente lettre ([[legal_norm|art. 102 al. 1 CO]] et [[legal_norm|art. 104 al. 1 CO]]). Le paiement doit être effectué sur le compte de notre mandante auprès de la [[organization|Banque Cantonale Neuchâteloise]], IBAN [[bank_account|CH88 0711 4819 4025 7156 0]], avec la mention de la référence [[other_identifier|BA/AV-2025-0412]].
 
-Nous vous informons qu'à défaut de paiement dans ce délai, notre mandante fera valoir ses droits par la voie de la poursuite pour dettes et faillite, sans autre avis, et qu'elle se réserve de réclamer le remboursement des frais de recouvrement, conformément à l'art. 106 al. 2 CO et à l'art. 68 CPC.
+Nous vous informons qu'à défaut de paiement dans ce délai, notre mandante fera valoir ses droits par la voie de la poursuite pour dettes et faillite, sans autre avis, et qu'elle se réserve de réclamer le remboursement des frais de recouvrement, conformément à l'[[legal_norm|art. 106 al. 2 CO]] et à l'[[legal_norm|art. 68 CPC]].
 
 Dans l'intérêt d'une solution amiable, nous restons disponibles pour un entretien téléphonique. Vous pouvez également vous adresser directement à notre étude, à l'attention de Madame [[person|Lina Schütz]], collaboratrice, à l'adresse ci-dessus.
 

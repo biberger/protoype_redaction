@@ -39,7 +39,7 @@ wird folgender Mietvertrag geschlossen:
 
 (3) Die Heizkosten werden nach der Heizkostenverordnung abgerechnet. Die Vorauszahlung für Heizung und Warmwasser beträgt monatlich 95,00 €.
 
-(4) Die Gesamtmiete beträgt somit monatlich 915,00 €. Zahlungen sind auf das Konto der Vermieterin bei der [[organization|Leipziger Volksbank eG]], [[bank_account|IBAN DE54 7463 4297 4699 4260 55]], zu leisten.
+(4) Die Gesamtmiete beträgt somit monatlich 915,00 €. Zahlungen sind auf das Konto der Vermieterin bei der [[organization|Leipziger Volksbank eG]], IBAN [[bank_account|DE54 7463 4297 4699 4260 55]], zu leisten.
 
 (5) Die Vermieterin ist berechtigt, die Miete mit Wirkung für die Zukunft anzupassen, soweit dies gesetzlich zulässig ist. Eine Mieterhöhung nach [[legal_norm|§ 558 BGB]] ist frühestens zwölf Monate nach Beginn des Mietverhältnisses möglich.
 

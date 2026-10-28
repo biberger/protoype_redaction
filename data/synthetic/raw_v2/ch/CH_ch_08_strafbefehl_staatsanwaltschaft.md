@@ -12,7 +12,7 @@ Sachbearbeitung: [[person|Dominik Ackermann]], Staatsanwalt
 Telefon [[phone_number|+41 31 633 47 19]]
 
 STRAFBEFEHL
-(Art. 352 StPO)
+([[legal_norm|Art. 352 StPO]])
 
 Beschuldigter: [[person|Bogdan Nowak]], geboren [[date|11. Oktober 1979]], polnischer Staatsangehöriger, wohnhaft [[address|Bolligenstrasse 40, 3006 Bern]], Reisepass Nr. [[id_document_number|C4418802]]
 Verteidigung: [[lawyer|Dr. Gisela Berchtold]], Rechtsanwältin, [[address|Marktgasse 17, 3011 Bern]]

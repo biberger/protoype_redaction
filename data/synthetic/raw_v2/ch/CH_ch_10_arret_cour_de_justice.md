@@ -11,13 +11,13 @@ Chambre civile
 
 ARRÊT DU [[date|23 septembre 2025]]
 
-Composition: [[judge|Catherine Gerber]], présidente; [[judge|Olivier Cuendet]] et [[judge|Patrick Zbinden]], juges; greffière: [[person|Mme Anaïs Ducrey]].
+Composition: [[judge|Catherine Gerber]], présidente; [[judge|Olivier Cuendet]] et [[judge|Patrick Zbinden]], juges; greffière: Mme [[person|Anaïs Ducrey]].
 
-Statuant sur l'appel formé par [[person|M.K.]], domicilié [[address|rue de Lausanne 79, 1202 Genève]], appelant, représenté par [[lawyer|Me Lorenzo Vitali]], avocat,
+Statuant sur l'appel formé par [[person|M.K.]], domicilié [[address|rue de Lausanne 79, 1202 Genève]], appelant, représenté par Me [[lawyer|Lorenzo Vitali]], avocat,
 
 contre
 
-[[person|B*****]], domiciliée [[address|chemin des Sapins 6, 1290 Versoix]], intimée, représentée par [[lawyer|Me Christelle Morand]], avocate,
+[[person|B*****]], domiciliée [[address|chemin des Sapins 6, 1290 Versoix]], intimée, représentée par Me [[lawyer|Christelle Morand]], avocate,
 
 sur appel du jugement JTPI/9312/2024 rendu le [[date|11 juillet 2024]] par le [[court|Tribunal de première instance de Genève]] dans la cause opposant les parties.
 
@@ -37,13 +37,13 @@ EN DROIT
 
 1. Recevabilité
 
-1.1 L'appel est dirigé contre un jugement final rendu en procédure ordinaire, dont la valeur litigieuse excède CHF 10'000.– (art. 308 al. 2 CPC). Il a été interjeté dans le délai légal de trente jours (art. 311 al. 1 CPC) et est recevable.
+1.1 L'appel est dirigé contre un jugement final rendu en procédure ordinaire, dont la valeur litigieuse excède CHF 10'000.– ([[legal_norm|art. 308 al. 2 CPC]]). Il a été interjeté dans le délai légal de trente jours ([[legal_norm|art. 311 al. 1 CPC]]) et est recevable.
 
-1.2 L'appel joint de l'intimée, formé dans sa réponse, est également recevable (art. 313 al. 2 CPC).
+1.2 L'appel joint de l'intimée, formé dans sa réponse, est également recevable ([[legal_norm|art. 313 al. 2 CPC]]).
 
 2. Contribution d'entretien des enfants
 
-2.1 Selon l'art. 276 al. 1 CC, les père et mère doivent assurer conjointement l'entretien de l'enfant. Le montant de la contribution se détermine en fonction des besoins de l'enfant et de la capacité contributive des parents (art. 285 al. 1 CC).
+2.1 Selon l'[[legal_norm|art. 276 al. 1 CC]], les père et mère doivent assurer conjointement l'entretien de l'enfant. Le montant de la contribution se détermine en fonction des besoins de l'enfant et de la capacité contributive des parents ([[legal_norm|art. 285 al. 1 CC]]).
 
 2.2 L'appelant soutient que son revenu net est inférieur à celui retenu par le premier juge, en raison d'une réduction de son temps de travail à 80 % depuis le début de l'année 2024. Il produit à cet appui une attestation de son employeur du [[date|12 juin 2024]].
 
@@ -53,17 +53,17 @@ EN DROIT
 
 3. Contribution d'entretien en faveur de l'épouse
 
-3.1 Aux termes de l'art. 125 al. 1 CC, le juge peut astreindre l'un des époux à verser à l'autre une contribution équitable si, compte tenu de la durée du mariage, de la répartition des tâches et de la prise en charge des enfants, l'époux créancier ne peut pas subvenir à son entretien convenablement.
+3.1 Aux termes de l'[[legal_norm|art. 125 al. 1 CC]], le juge peut astreindre l'un des époux à verser à l'autre une contribution équitable si, compte tenu de la durée du mariage, de la répartition des tâches et de la prise en charge des enfants, l'époux créancier ne peut pas subvenir à son entretien convenablement.
 
 3.2 L'intimée a interrompu son activité lucrative d'employée de bureau pour s'occuper des enfants pendant plus de dix ans. Elle a repris une activité à 50 % depuis le printemps 2024, ce qui ne suffit pas à couvrir l'entier de son entretien convenable.
 
-3.3 Une contribution de CHF 1'200.– par mois pendant une durée limitée à quatre ans apparaît proportionnée. Elle tiendra compte de la reprise progressive de l'activité lucrative, conformément à l'art. 125 al. 3 ch. 2 CC.
+3.3 Une contribution de CHF 1'200.– par mois pendant une durée limitée à quatre ans apparaît proportionnée. Elle tiendra compte de la reprise progressive de l'activité lucrative, conformément à l'[[legal_norm|art. 125 al. 3 ch. 2 CC]].
 
 4. Frais et dépens
 
-4.1 Les frais judiciaires d'appel sont arrêtés à CHF 2'400.– et compensés avec l'avance fournie par l'appelant. Ils sont mis à sa charge à raison de 70 % et à celle de l'intimée à raison de 30 % (art. 106 al. 2 CPC).
+4.1 Les frais judiciaires d'appel sont arrêtés à CHF 2'400.– et compensés avec l'avance fournie par l'appelant. Ils sont mis à sa charge à raison de 70 % et à celle de l'intimée à raison de 30 % ([[legal_norm|art. 106 al. 2 CPC]]).
 
-4.2 Il n'est pas alloué de dépens (art. 107 al. 1 let. c CPC), compte tenu de la nature familiale du litige.
+4.2 Il n'est pas alloué de dépens ([[legal_norm|art. 107 al. 1 let. c CPC]]), compte tenu de la nature familiale du litige.
 
 PAR CES MOTIFS, la Chambre civile:
 
@@ -89,4 +89,4 @@ Siégeant: [[judge|Catherine Gerber]], présidente; greffière: [[person|Anaïs 
 
 [[location|Genève]], le [[date|23 septembre 2025]]
 
-Pour les coordonnées de l'avocat de l'appelant: [[lawyer|Me Lorenzo Vitali]], [[email|l.vitali@vitali-avocats.ch]], [[phone_number|+41 22 718 40 22]], IBAN du compte d'avance de frais [[bank_account|CH77 0214 9134 9682 0159 0]].
+Pour les coordonnées de l'avocat de l'appelant: Me [[lawyer|Lorenzo Vitali]], [[email|l.vitali@vitali-avocats.ch]], [[phone_number|+41 22 718 40 22]], IBAN du compte d'avance de frais [[bank_account|CH77 0214 9134 9682 0159 0]].

@@ -23,7 +23,7 @@ Beklagte Parteien:
 
 2. [[ORGANISATION|Donauland Versicherung AG]]
 [[ADRESSE|Untere Donaulände 40, 4020 Linz]]
-[[KENNNUMMER|FN 204511k]]
+[[KENNNUMMER|FN 475354a]]
 
 wegen: EUR 9.874,30 s.A.
 
@@ -85,6 +85,6 @@ A n t r a g ,
 
 das Gericht möge die beklagten Parteien zur ungeteilten Hand schuldig erkennen, der klagenden Partei EUR 9.874,30 samt 4 % Zinsen seit [[DATUM|24.05.2025]] binnen 14 Tagen bei sonstiger Exekution zu bezahlen und die Prozesskosten zu ersetzen.
 
-Bankverbindung für Zahlungen: [[ORGANISATION|Kanzlei Dr. Hutterer & Partner Rechtsanwälte GmbH]], IBAN [[KENNNUMMER|AT48 3400 0000 0471 1820]], Anderkonto.
+Bankverbindung für Zahlungen: [[ORGANISATION|Kanzlei Dr. Hutterer & Partner Rechtsanwälte GmbH]], IBAN [[KENNNUMMER|AT42 8778 9328 7921 7421]], Anderkonto.
 
 [[ORT|Linz]], am [[DATUM|10. Juni 2025]]                                   [[PERSON|Ing. Markus Wien]]

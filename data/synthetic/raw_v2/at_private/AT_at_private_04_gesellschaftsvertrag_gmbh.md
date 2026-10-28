@@ -91,7 +91,7 @@ XI. Geschäftsjahr, Buchführung und Berichtswesen
 
 1. Das Geschäftsjahr entspricht dem Kalenderjahr. Das erste Geschäftsjahr endet am [[date|31. Dezember 2025]].
 
-2. Die Geschäftsführung hat der Generalversammlung bis zum [[date|30. April]] jeden Jahres einen Bericht über die Lage der Pflegeeinrichtungen, die Auslastung der Tagesbetreuung und die Entwicklung der Personalkosten vorzulegen. Der Bericht ist den Gesellschaftern in Abschrift zu übermitteln, soweit dem nicht die Verschwiegenheitspflichten nach Abschnitt IX entgegenstehen.
+2. Die Geschäftsführung hat der Generalversammlung bis zum 30. April jeden Jahres einen Bericht über die Lage der Pflegeeinrichtungen, die Auslastung der Tagesbetreuung und die Entwicklung der Personalkosten vorzulegen. Der Bericht ist den Gesellschaftern in Abschrift zu übermitteln, soweit dem nicht die Verschwiegenheitspflichten nach Abschnitt IX entgegenstehen.
 
 3. Der Abschlussprüfer wird von der Generalversammlung bestellt. Die Kosten der Prüfung trägt die Gesellschaft. Ist eine Prüfung nach [[legal_norm|§ 269 UGB]] vorgeschrieben, hat die Geschäftsführung die Bestellung unverzüglich zu veranlassen.
 

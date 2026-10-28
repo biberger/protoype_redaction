@@ -46,11 +46,11 @@ Endurteil:
 
 Tatbestand:
 
-Der Kläger macht gegen die Beklagte Ansprüche aus einem Gebrauchtwagenkauf geltend. Die Beklagte betreibt in [[location|Unterföhring]] ein Autohaus mit Vertragshändlerstatus und ist im Handelsregister des [[court|Amtsgerichts München]] unter [[company_register_number|HRB 198237]] eingetragen. Ihre Umsatzsteuer-Identifikationsnummer lautet [[tax_id|DE812934561]].
+Der Kläger macht gegen die Beklagte Ansprüche aus einem Gebrauchtwagenkauf geltend. Die Beklagte betreibt in [[location|Unterföhring]] ein Autohaus mit Vertragshändlerstatus und ist im Handelsregister des [[court|Amtsgerichts München]] unter [[company_register_number|HRB 198237]] eingetragen. Ihre Umsatzsteuer-Identifikationsnummer lautet [[tax_id|DE766176037]].
 
 Am [[date|14. Juni 2023]] erwarb der Kläger von der Beklagten zum Preis von 14.950,00 € brutto einen Volkswagen Golf Variante, Erstzulassung März 2019, mit einer im Kaufvertrag angegebenen Laufleistung von 61.400 km. Die Beklagte hatte das Fahrzeug zuvor im Rahmen eines Inzahlungnahmegeschäfts erworben. Im Kaufvertrag heißt es unter der Rubrik „Gewährleistung“, es werde ein Ausschluss der Sachmängelhaftung vereinbart, soweit gesetzlich zulässig.
 
-Der Kläger bezahlte den Kaufpreis durch Überweisung auf das Konto der Beklagten bei der [[organization|Isarbank eG]], [[bank_account|IBAN DE14 3094 7206 2992 5692 52]].
+Der Kläger bezahlte den Kaufpreis durch Überweisung auf das Konto der Beklagten bei der [[organization|Isarbank eG]], IBAN [[bank_account|DE14 3094 7206 2992 5692 52]].
 
 Nach Übergabe stellte der Kläger fest, dass das Fahrzeug nach einer Werkstattrechnung der Werkstatt [[organization|Autoservice Bogner OHG]] vom [[date|5. Juli 2023]] bereits im Jahr 2021 bei einer Laufleistung von 118.300 km Motorschäden aufwies und der Tachostand nicht der tatsächlichen Laufleistung entsprach. Der Kläger ließ das Fahrzeug durch den Kfz-Sachverständigen [[person|Dipl.-Ing. Kurt Helmbrecht]] untersuchen. Dieser stellte am [[date|18. Juli 2023]] fest, dass der Kilometerzähler mit hoher Wahrscheinlichkeit manipuliert worden war.
 

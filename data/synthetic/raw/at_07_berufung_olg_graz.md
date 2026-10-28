@@ -15,7 +15,7 @@ zur Weiterleitung an das
 Klagende Partei:
 [[ORGANISATION|Holzbau Krenn & Söhne GesmbH]]
 [[ADRESSE|Gewerbepark 4, 8401 Kalsdorf]]
-[[KENNNUMMER|FN 88214w]]
+[[KENNNUMMER|FN 565861z]]
 vertreten durch [[PERSON|Mag. Dietmar Url]], Rechtsanwalt
 [[ADRESSE|Joanneumring 6/III, 8010 Graz]]
 

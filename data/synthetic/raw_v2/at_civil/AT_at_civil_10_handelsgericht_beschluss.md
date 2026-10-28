@@ -9,7 +9,7 @@ Geschäftszahl [[case_number|25 S 47/25x-5]]
 
 Beschluss
 
-Das [[court|Handelsgericht Wien]] hat durch den Richter [[judge|Dr. Maximilian Pöschl]] als Einzelrichter im Insolvenzverfahren über das Vermögen der Schuldnerin [[organization|Alpha Textil Vertriebs GmbH]], FN [[company_register_number|595832z]], UID-Nr. [[tax_id|ATU11906357]], mit dem Sitz in [[location|Wien]] und der Geschäftsanschrift [[address|Mariahilfer Straße 98/3, 1060 Wien]], beschlossen:
+Das [[court|Handelsgericht Wien]] hat durch den Richter [[judge|Dr. Maximilian Pöschl]] als Einzelrichter im Insolvenzverfahren über das Vermögen der Schuldnerin [[organization|Alpha Textil Vertriebs GmbH]], [[company_register_number|FN 595832z]], UID-Nr. [[tax_id|ATU11906357]], mit dem Sitz in [[location|Wien]] und der Geschäftsanschrift [[address|Mariahilfer Straße 98/3, 1060 Wien]], beschlossen:
 
 Spruch
 

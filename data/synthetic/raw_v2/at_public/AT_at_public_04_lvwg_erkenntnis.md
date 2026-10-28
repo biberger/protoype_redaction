@@ -14,7 +14,7 @@ Geschäftszahl
 
 IM NAMEN DER REPUBLIK
 
-Das [[court|Landesverwaltungsgericht Oberösterreich]] hat durch den Richter [[judge|Mag. Stefan Bichler]] über die Beschwerde des [[person|Oleksandr Bondarenko]], geb. [[date|30.09.1986]], wohnhaft in [[address|Ferdinand-Markl-Straße 14/2, 4600 Wels]], gegen das Straferkenntnis der [[organization|Bezirkshauptmannschaft Gmunden]] vom [[date|18.11.2024]], Zl. [[case_number|VerkR96-6614-2024]], wegen Übertretung der StVO 1960 nach öffentlicher mündlicher Verhandlung am [[date|29.04.2025]] zu Recht erkannt:
+Das [[court|Landesverwaltungsgericht Oberösterreich]] hat durch den Richter [[judge|Mag. Stefan Bichler]] über die Beschwerde des [[person|Oleksandr Bondarenko]], geb. [[date|30.09.1986]], wohnhaft in [[address|Ferdinand-Markl-Straße 14/2, 4600 Wels]], gegen das Straferkenntnis der [[organization|Bezirkshauptmannschaft Gmunden]] vom [[date|18.11.2024]], Zl. [[case_number|VerkR96-6614-2024]], wegen Übertretung der [[legal_norm|StVO 1960]] nach öffentlicher mündlicher Verhandlung am [[date|29.04.2025]] zu Recht erkannt:
 
 I. Der Beschwerde wird teilweise Folge gegeben. Die verhängte Geldstrafe wird gemäß [[legal_norm|§ 45 Abs 1 Z 4 VStG]] auf EUR 120,00 herabgesetzt; die Ersatzfreiheitsstrafe wird auf 48 Stunden herabgesetzt.
 
@@ -32,7 +32,7 @@ Entscheidungsgründe
 
 3. Der Bf erhob dagegen rechtzeitig Beschwerde. Er bestritt nicht die Überschreitung als solche, brachte jedoch vor, die Messung sei an einer Stelle erfolgt, an der das Schild „80“ durch Vegetation verdeckt gewesen sei. Zudem sei er gesundheitlich eingeschränkt, weil er an einer chronischen Erkrankung leide und auf seine Frau [[person|Halyna Bondarenko]] angewiesen sei.
 
-4. In der öffentlichen mündlichen Verhandlung wurde der Zeuge Insp. [[person|Matthias Eckerstorfer]] von der Landesverkehrsabteilung einvernommen. Er gab an, das Verkehrszeichen sei zum Zeitpunkt der Messung vollständig sichtbar gewesen; ein Foto vom [[date|05.08.2024]] belege dies. Der Bf wurde gehört und bestätigte, er sei an der Stelle vorbeigefahren, habe aber das Schild nicht bemerkt.
+4. In der öffentlichen mündlichen Verhandlung wurde der Zeuge Insp. [[person|Matthias Eckerstorfer]] von der [[organization|Landesverkehrsabteilung]] einvernommen. Er gab an, das Verkehrszeichen sei zum Zeitpunkt der Messung vollständig sichtbar gewesen; ein Foto vom [[date|05.08.2024]] belege dies. Der Bf wurde gehört und bestätigte, er sei an der Stelle vorbeigefahren, habe aber das Schild nicht bemerkt.
 
 5. Das Landesverwaltungsgericht hat Beweis erhoben durch die Einsicht in den Akt der [[organization|Bezirkshauptmannschaft Gmunden]], das Messprotokoll, das Lichtbild und die Zeugenaussage. Das Messprotokoll enthält die Eichnummer und den Eichschein des Messgerätes. Die Verwendung des Gerätes war damit rechtmäßig.
 

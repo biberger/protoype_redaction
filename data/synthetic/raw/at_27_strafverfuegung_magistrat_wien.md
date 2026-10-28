@@ -29,7 +29,7 @@ Gemäß [[GESETZ|§ 4 Abs. 1 Parkometergesetz 2006]] wird gegen Sie eine Geldstr
 
 Zu zahlender Gesamtbetrag: EUR 60,00
 
-Sie können diesen Betrag auf das Konto der [[ORGANISATION|Stadt Wien]], IBAN [[KENNNUMMER|AT41 1200 0006 9625 5207]], BIC BKAUATWW, einzahlen. Als Verwendungszweck geben Sie bitte die Zahl [[GESCHAEFTSZAHL|MA 67/257318944/2025]] an.
+Sie können diesen Betrag auf das Konto der [[ORGANISATION|Stadt Wien]], IBAN [[KENNNUMMER|AT96 4589 2152 7589 2900]], BIC BKAUATWW, einzahlen. Als Verwendungszweck geben Sie bitte die Zahl [[GESCHAEFTSZAHL|MA 67/257318944/2025]] an.
 
 Beanstandet durch: Parkraumüberwachungsorgan Dienstnummer [[KENNNUMMER|PÜ 0418]]
 

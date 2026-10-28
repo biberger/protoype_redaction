@@ -4,7 +4,7 @@ jurisdiction: FR
 lang: fr
 ---
 CONTRAT DE LOCATION
-Bail d'habitation soumis à la loi n° 89-462 du [[date|6 juillet 1989]]
+Bail d'habitation soumis à la [[legal_norm|loi n° 89-462]] du [[date|6 juillet 1989]]
 
 Entre les soussignés :
 

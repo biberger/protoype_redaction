@@ -29,7 +29,7 @@ Rechtsanwältin
 [[ADRESSE|Alter Platz 19, 9020 Klagenfurt am Wörthersee]]
 T: [[KONTAKT|+43 463 51 22 80]]
 [[KONTAKT|office@haberl-kowatsch.at]]
-[[KENNNUMMER|FN 512004m]], [[GERICHT|LG Klagenfurt]]
+[[KENNNUMMER|FN 442929t]], [[GERICHT|LG Klagenfurt]]
 
 -----Ursprüngliche Nachricht-----
 Von: [[PERSON|Bernd Kowalski]] <[[KONTAKT|bernd.kowalski@gmx.net]]>
@@ -41,7 +41,7 @@ Hallo Frau Mag. [[PERSON|Haberl]],
 
 wie am Telefon besprochen schicke ich Ihnen die Kündigung und den Vertrag als PDF. Ich bin seit [[DATUM|1.3.2016]] bei der [[ORGANISATION|Wachdienst Alpenland]] in [[ORT|Klagenfurt]] als Objektschützer beschäftigt, zuletzt am Standort Flughafen. Im Juli war ich 5 Wochen im Krankenstand (Bandscheibe), danach hat mich der [[PERSON|Villach]] (Teamleiter) ständig in die Nachtschicht eingeteilt und dann diese Aussage gemacht. Der [[PERSON|Horvat Ivan]] war dabei, der würde das auch bestätigen, glaube ich.
 
-Meine SV-Nr ist [[KENNNUMMER|1290 140579]], Geburtsdatum [[DATUM|14.05.1979]]. Adresse: [[ADRESSE|Feldkirchner Str. 81/4, 9020 Klagenfurt]]. Handy [[KONTAKT|0676/442 19 03]].
+Meine SV-Nr ist [[KENNNUMMER|1482 140579]], Geburtsdatum [[DATUM|14.05.1979]]. Adresse: [[ADRESSE|Feldkirchner Str. 81/4, 9020 Klagenfurt]]. Handy [[KONTAKT|0676/442 19 03]].
 
 Ich bin 46, habe zwei Kinder und meine Frau ist in Karenz. Eine neue Stelle zu finden wird schwer.
 
@@ -58,7 +58,7 @@ Betreff: AW: AW: Kündigung – Nachtrag
 
 Sehr geehrter Herr [[PERSON|Kowalski]],
 
-kurzer Nachtrag: Ich habe soeben im Firmenbuch nachgesehen. Ihre Arbeitgeberin ist die [[ORGANISATION|Wachdienst Alpenland GmbH]], [[KENNNUMMER|FN 299137p]], mit Sitz in [[ORT|Villach]] – nicht, wie im Dienstvertrag angegeben, in [[ORT|Klagenfurt]]. Das ändert an der Zuständigkeit nichts, weil Ihr Arbeitsort maßgeblich ist ([[GESETZ|§ 4 Abs 1 Z 1 lit b ASGG]]), ist aber für die Klagsführung zu beachten.
+kurzer Nachtrag: Ich habe soeben im Firmenbuch nachgesehen. Ihre Arbeitgeberin ist die [[ORGANISATION|Wachdienst Alpenland GmbH]], [[KENNNUMMER|FN 109883v]], mit Sitz in [[ORT|Villach]] – nicht, wie im Dienstvertrag angegeben, in [[ORT|Klagenfurt]]. Das ändert an der Zuständigkeit nichts, weil Ihr Arbeitsort maßgeblich ist ([[GESETZ|§ 4 Abs 1 Z 1 lit b ASGG]]), ist aber für die Klagsführung zu beachten.
 
 Bitte beachten Sie: Die Anfechtung muss jedenfalls bis [[DATUM|15.10.2025]] beim Gericht einlangen. Sollte der Termin am Freitag nicht passen, rufen Sie bitte meine Assistentin Frau [[PERSON|Nicole Wurzer]] unter [[KONTAKT|0463 51 22 80-12]] an.
 

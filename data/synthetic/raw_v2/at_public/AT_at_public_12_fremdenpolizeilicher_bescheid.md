@@ -45,7 +45,7 @@ Die Fremde stellte am [[date|14.05.2025]] fristgerecht einen Antrag auf Verläng
 2. Nachweis eines umfassenden Krankenversicherungsschutzes,
 3. Mietvertrag oder Nachweis einer ortsüblichen Unterkunft.
 
-Die Fremde legte am [[date|26.06.2025]] eine Bestätigung ihres Arbeitgebers, der [[organization|Feinkost Balkan Import GmbH]] (FN [[company_register_number|FN 514077x]]), vor, wonach sie seit dem [[date|01.03.2024]] als Verkäuferin beschäftigt sei. Die Gehaltsnachweise der Monate Jänner 2025 bis April 2025 wurden jedoch nicht vorgelegt. Die Sozialversicherungsnummer [[social_security_number|3246 121287]] ist im Versicherungsdatenauszug nur für den Zeitraum ab [[date|01.03.2024]] ausgewiesen.
+Die Fremde legte am [[date|26.06.2025]] eine Bestätigung ihres Arbeitgebers, der [[organization|Feinkost Balkan Import GmbH]] ([[company_register_number|FN FN 514077x]]), vor, wonach sie seit dem [[date|01.03.2024]] als Verkäuferin beschäftigt sei. Die Gehaltsnachweise der Monate Jänner 2025 bis April 2025 wurden jedoch nicht vorgelegt. Die Sozialversicherungsnummer [[social_security_number|3246 121287]] ist im Versicherungsdatenauszug nur für den Zeitraum ab [[date|01.03.2024]] ausgewiesen.
 
 Die Fremde brachte vor, sie sei aufgrund eines Arbeitsunfalls im Frühjahr 2025 vorübergehend arbeitsunfähig gewesen, weshalb die Gehaltsnachweise nicht vollständig seien. Eine ärztliche Bestätigung der [[organization|Ordination Dr. Heidemarie Fuchs]], [[address|Wiedner Hauptstraße 62, 1040 Wien]], vom [[date|23.06.2025]] liegt bei.
 

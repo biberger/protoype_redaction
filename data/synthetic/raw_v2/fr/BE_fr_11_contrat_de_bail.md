@@ -35,7 +35,7 @@ Article 3. Loyer
 
 Le loyer mensuel est fixé à 1 150 euros, hors charges. Il est payable à l'avance, au plus tard le premier jour de chaque mois, par virement sur le compte bancaire du bailleur, IBAN [[bank_account|BE03 3455 9930 4367]], BIC [[bank_account|ZZBRBE22]], avec mention de l'adresse du bien.
 
-Le loyer sera indexé annuellement au 1er janvier, selon l'indice santé publié par le Service public fédéral Économie, la base étant celle de l'indice du mois précédant la signature.
+Le loyer sera indexé annuellement au 1er janvier, selon l'indice santé publié par le [[organization|Service public fédéral Économie]], la base étant celle de l'indice du mois précédant la signature.
 
 Article 4. Charges
 

@@ -4,7 +4,7 @@ jurisdiction: AT
 lang: de
 ---
 MIETVERTRAG
-(Hauptmietvertrag über eine Wohnung im Vollanwendungsbereich des MRG)
+(Hauptmietvertrag über eine Wohnung im Vollanwendungsbereich des [[legal_norm|MRG]])
 
 abgeschlossen zwischen
 

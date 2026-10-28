@@ -12,7 +12,7 @@ Parteien
 Kläger: [[person|Ilhan Yilmaz]], [[address|Fabrikstrasse 9, 4310 Rheinfelden]], vertreten durch [[lawyer|lic. iur. Nico Sieber]], Rechtsanwalt
 Beklagte: [[organization|Stahlbau Rheinfelden AG]], [[address|Gewerbestrasse 14, 4310 Rheinfelden]] (UID [[company_register_number|CHE-518.190.931]]), vertreten durch [[person|Brigitte Kessler]], Personalleiterin
 
-Streitgegenstand: Ausstellung eines qualifizierten Arbeitszeugnisses (Art. 330a OR)
+Streitgegenstand: Ausstellung eines qualifizierten Arbeitszeugnisses ([[legal_norm|Art. 330a OR]])
 
 Sachverhalt
 

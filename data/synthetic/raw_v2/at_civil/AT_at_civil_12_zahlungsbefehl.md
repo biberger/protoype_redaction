@@ -8,7 +8,7 @@ Geschäftszahl [[case_number|4 C 533/25p-6]]
 
 Z A H L U N G S B E F E H L
 
-Das [[court|Bezirksgericht Innere Stadt Wien]] erlässt im Mahnverfahren über den Antrag der klagenden Partei [[organization|Donauland Energieversorgung GmbH]], FN [[company_register_number|279521k]], [[address|Praterstraße 31, 1020 Wien]], vertreten durch [[lawyer|Dr. Peter Jelinek]], Rechtsanwalt in [[location|Wien]], gegen die beklagte Partei [[person|Ibrahim Osmani]], [[address|Obere Donaustraße 75/12, 1020 Wien]], folgenden
+Das [[court|Bezirksgericht Innere Stadt Wien]] erlässt im Mahnverfahren über den Antrag der klagenden Partei [[organization|Donauland Energieversorgung GmbH]], [[company_register_number|FN 279521k]], [[address|Praterstraße 31, 1020 Wien]], vertreten durch [[lawyer|Dr. Peter Jelinek]], Rechtsanwalt in [[location|Wien]], gegen die beklagte Partei [[person|Ibrahim Osmani]], [[address|Obere Donaustraße 75/12, 1020 Wien]], folgenden
 
 Zahlungsbefehl
 

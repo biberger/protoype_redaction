@@ -24,6 +24,7 @@ import pathlib
 import re
 import sys
 
+from legalner.acts import act_names, find_untagged, find_untagged_citations
 from legalner.schema import LABELS
 
 MAX_CHARS = 1500
@@ -48,6 +49,15 @@ GAZETTEER = {
     "Marseille", "Strasbourg", "Bordeaux", "Lille", "Toulouse", "Nantes",
     "Bruxelles", "Luxembourg", "Vaduz", "Österreich", "Deutschland", "Schweiz",
     "France", "Frankreich",
+    # top courts: full names are often written untagged next to a tagged abbreviation
+    "Verfassungsgerichtshof", "Verfassungsgerichtshofes", "Verfassungsgerichtshofs",
+    "Verwaltungsgerichtshof", "Verwaltungsgerichtshofes", "Verwaltungsgerichtshofs",
+    "Oberste Gerichtshof", "Obersten Gerichtshof", "Obersten Gerichtshofes", "Obersten Gerichtshofs",
+    "Bundesverwaltungsgericht", "Bundesverwaltungsgerichtes", "Bundesverwaltungsgerichts",
+    "Bundesgerichtshof", "Bundesgerichtshofes", "Bundesgerichtshofs", "Bundesverfassungsgericht",
+    "Bundesverfassungsgerichts", "Bundesarbeitsgericht", "Bundesarbeitsgerichts", "Bundessozialgericht",
+    "Bundesfinanzhof", "Bundesgericht", "Bundesgerichts", "Tribunal fédéral", "Cour de cassation",
+    "Conseil d'État", "Conseil constitutionnel", "Cour constitutionnelle",
 }
 
 TAG_RE = re.compile(r"\[\[([A-Za-z_]+)\|([^\[\]|]+?)\]\]")
@@ -225,6 +235,15 @@ def lint(text, spans, fname):
             if not any(covered[m.start():m.end()]):
                 line = text.count("\n", 0, m.start()) + 1
                 warnings.append(f"{fname}:{line}: untagged occurrence of {n!r}")
+    acts = act_names(surface for label, _, _, surface in spans if label == "legal_norm")
+    for s, e, name in find_untagged(text, covered, acts):
+        line = text.count("\n", 0, s) + 1
+        warnings.append(f"{fname}:{line}: untagged legal act {text[s:e]!r} (tag as legal_norm)")
+        for i in range(s, e):
+            covered[i] = True
+    for s, e in find_untagged_citations(text, covered):
+        line = text.count("\n", 0, s) + 1
+        warnings.append(f"{fname}:{line}: untagged norm citation {text[s:e]!r}")
     return warnings
 
 

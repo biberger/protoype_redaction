@@ -47,7 +47,7 @@ Rechtsbehelfsbelehrung:
 
 Dieser Strafbefehl wird rechtskräftig und vollstreckbar, wenn Sie nicht innerhalb von zwei Wochen nach Zustellung bei dem oben bezeichneten Gericht schriftlich oder zu Protokoll der Geschäftsstelle Einspruch einlegen ([[GESETZ|§ 410 Abs. 1 StPO]]). Bei Einlegung des Einspruchs wird Termin zur Hauptverhandlung anberaumt.
 
-Zahlungshinweis: Bitte zahlen Sie erst nach Erhalt der Kostenrechnung unter Angabe des Kassenzeichens [[KENNNUMMER|7251 0094 1187 3]] auf das Konto der [[ORGANISATION|Landesjustizkasse Chemnitz]], IBAN [[KENNNUMMER|DE10 8600 0000 0086 0015 21]].
+Zahlungshinweis: Bitte zahlen Sie erst nach Erhalt der Kostenrechnung unter Angabe des Kassenzeichens [[KENNNUMMER|7251 0094 1187 3]] auf das Konto der [[ORGANISATION|Landesjustizkasse Chemnitz]], IBAN [[KENNNUMMER|AT35 1880 4917 0317 9740]].
 
 [[ORT|Leipzig]], [[DATUM|21.03.2025]]
 [[PERSON|Dr. Brückner]]

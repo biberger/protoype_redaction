@@ -24,11 +24,11 @@ Die Klägerin war vom [[DATUM|1. September 2017]] bis [[DATUM|31. August 2022]] 
 
 Nach Rückstellung der Wohnung behielt die Beklagte von der erlegten Kaution von 4.200 EUR einen Betrag von 3.880 EUR ein und begehrte darüber hinaus von der Klägerin weitere 8.600 EUR. Die Klägerin begehrte die Rückzahlung der einbehaltenen Kaution sowie die Feststellung, dass sie zur Zahlung des Mehrbetrags nicht verpflichtet sei; die Klausel sei gröblich benachteiligend im Sinn des [[GESETZ|§ 879 Abs 3 ABGB]] und verstoße gegen [[GESETZ|§ 6 Abs 1 Z 9 KSchG]].
 
-Die Beklagte wandte ein, die Klägerin habe als Unternehmerin gehandelt, weil sie in der Wohnung zeitweise eine Fußpflegepraxis betrieben habe; das KSchG sei daher nicht anwendbar. Im Übrigen habe der Zeuge [[PERSON|D***** E*****]] bestätigt, dass die Böden bei Übergabe „wie neu“ gewesen seien.
+Die Beklagte wandte ein, die Klägerin habe als Unternehmerin gehandelt, weil sie in der Wohnung zeitweise eine Fußpflegepraxis betrieben habe; das [[GESETZ|KSchG]] sei daher nicht anwendbar. Im Übrigen habe der Zeuge [[PERSON|D***** E*****]] bestätigt, dass die Böden bei Übergabe „wie neu“ gewesen seien.
 
 Das Erstgericht gab der Klage zur Gänze statt. Es stellte fest, dass die Klägerin die Wohnung ausschließlich zu Wohnzwecken nutzte; die Behandlung einzelner Bekannter durch die Klägerin in der Wohnung erfolgte unentgeltlich und gelegentlich. Rechtlich folgerte es, die Klausel sei nach [[GESETZ|§ 879 Abs 3 ABGB]] iVm [[GESETZ|§ 1096 Abs 1 ABGB]] nichtig, weil sie die Mieterin unabhängig vom Grad der Abnützung zur Erneuerung verpflichte.
 
-Das Berufungsgericht bestätigte diese Entscheidung. Es ließ die ordentliche Revision zu, weil zur Frage, ob eine Ausmalklausel bei einem nicht dem Vollanwendungsbereich des MRG unterliegenden Mietverhältnis nach [[GESETZ|§ 1 Abs 4 Z 1 MRG]] einer Inhaltskontrolle nach [[GESETZ|§ 879 Abs 3 ABGB]] standhalte, keine jüngere Rechtsprechung des [[GERICHT|Obersten Gerichtshofs]] vorliege.
+Das Berufungsgericht bestätigte diese Entscheidung. Es ließ die ordentliche Revision zu, weil zur Frage, ob eine Ausmalklausel bei einem nicht dem Vollanwendungsbereich des [[GESETZ|MRG]] unterliegenden Mietverhältnis nach [[GESETZ|§ 1 Abs 4 Z 1 MRG]] einer Inhaltskontrolle nach [[GESETZ|§ 879 Abs 3 ABGB]] standhalte, keine jüngere Rechtsprechung des [[GERICHT|Obersten Gerichtshofs]] vorliege.
 
 Rechtliche Beurteilung
 

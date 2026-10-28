@@ -24,9 +24,9 @@ Betreff: [[ORGANISATION|Bühnenbau Danube KG]] / [[PERSON|Fischer]] – offene F
 
 Sehr geehrter Herr [[PERSON|Fischer]]!
 
-Wir teilen Ihnen mit, dass uns die [[ORGANISATION|Bühnenbau Danube KG]], [[ADRESSE|Gewerbestraße 8, 2512 Tribuswinkel]], [[KENNNUMMER|FN 401773p]], mit der Wahrnehmung ihrer rechtlichen Interessen beauftragt hat. Wir berufen uns auf die erteilte Vollmacht gemäß [[GESETZ|§ 8 Abs 1 RAO]].
+Wir teilen Ihnen mit, dass uns die [[ORGANISATION|Bühnenbau Danube KG]], [[ADRESSE|Gewerbestraße 8, 2512 Tribuswinkel]], [[KENNNUMMER|FN 44914a]], mit der Wahrnehmung ihrer rechtlichen Interessen beauftragt hat. Wir berufen uns auf die erteilte Vollmacht gemäß [[GESETZ|§ 8 Abs 1 RAO]].
 
-Unsere Mandantin hat Ihnen bzw. Ihrem Einzelunternehmen, der [[ORGANISATION|Fischer Eventtechnik e.U.]] ([[KENNNUMMER|FN 512930y]]), im Zeitraum von [[DATUM|1. Juli 2024]] bis [[DATUM|15. September 2024]] auf Grundlage des Rahmenmietvertrags vom [[DATUM|20. Juni 2024]] Bühnen- und Lichttechnik für insgesamt sieben Veranstaltungen, darunter das Sommerfest der [[ORGANISATION|Gemeinde Perchtoldsdorf]] am [[DATUM|6. Juli 2024]] und den „Weinherbst“ in [[ORT|Gumpoldskirchen]] am [[DATUM|7. September 2024]], überlassen.
+Unsere Mandantin hat Ihnen bzw. Ihrem Einzelunternehmen, der [[ORGANISATION|Fischer Eventtechnik e.U.]] ([[KENNNUMMER|FN 625360y]]), im Zeitraum von [[DATUM|1. Juli 2024]] bis [[DATUM|15. September 2024]] auf Grundlage des Rahmenmietvertrags vom [[DATUM|20. Juni 2024]] Bühnen- und Lichttechnik für insgesamt sieben Veranstaltungen, darunter das Sommerfest der [[ORGANISATION|Gemeinde Perchtoldsdorf]] am [[DATUM|6. Juli 2024]] und den „Weinherbst“ in [[ORT|Gumpoldskirchen]] am [[DATUM|7. September 2024]], überlassen.
 
 Folgende Rechnungen sind trotz Fälligkeit bis dato unbeglichen:
 
@@ -51,7 +51,7 @@ bis spätestens
 
 [[DATUM|17. April 2025]] (einlangend)
 
-auf unser Anderkonto bei der [[ORGANISATION|Wienerwald Privatbank AG]], IBAN [[KENNNUMMER|AT61 2011 1829 4471 0300]], BIC WWPBATW1XXX, Verwendungszweck „[[GESCHAEFTSZAHL|2025/0318-NL]]“, zu überweisen.
+auf unser Anderkonto bei der [[ORGANISATION|Wienerwald Privatbank AG]], IBAN [[KENNNUMMER|AT84 6792 9081 0033 9075]], BIC WWPBATW1XXX, Verwendungszweck „[[GESCHAEFTSZAHL|2025/0318-NL]]“, zu überweisen.
 
 Sollte die Zahlungsfrist ungenützt verstreichen, sind wir beauftragt, ohne weitere Ankündigung die Forderung beim [[GERICHT|Bezirksgericht Mödling]] bzw. beim [[GERICHT|Landesgericht Wiener Neustadt]] gerichtlich geltend zu machen und in weiterer Folge Exekution zu führen. Die damit verbundenen erheblichen Mehrkosten hätten Sie zu tragen.
 

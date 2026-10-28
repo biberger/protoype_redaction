@@ -9,11 +9,11 @@ Geschäftszahl [[case_number|1 E 2187/25h-3]]
 
 Beschluss
 
-Das [[court|Bezirksgericht Leopoldstadt]] hat als Exekutionsgericht durch den Rechtspfleger [[judge|Mag. Gregor Lindenthaler]] über den Antrag der betreibenden Partei [[organization|Donauland Energieversorgung GmbH]], FN [[company_register_number|279521k]], [[address|Praterstraße 31, 1020 Wien]], vertreten durch [[lawyer|Dr. Peter Jelinek]], Rechtsanwalt in [[location|Wien]], auf Bewilligung der Forderungsexekution gegen die verpflichtete Partei [[person|Ibrahim Osmani]], [[address|Obere Donaustraße 75/12, 1020 Wien]], beschlossen:
+Das [[court|Bezirksgericht Leopoldstadt]] hat als Exekutionsgericht durch den Rechtspfleger [[judge|Mag. Gregor Lindenthaler]] über den Antrag der betreibenden Partei [[organization|Donauland Energieversorgung GmbH]], [[company_register_number|FN 279521k]], [[address|Praterstraße 31, 1020 Wien]], vertreten durch [[lawyer|Dr. Peter Jelinek]], Rechtsanwalt in [[location|Wien]], auf Bewilligung der Forderungsexekution gegen die verpflichtete Partei [[person|Ibrahim Osmani]], [[address|Obere Donaustraße 75/12, 1020 Wien]], beschlossen:
 
 Spruch
 
-Der Antrag auf Bewilligung der Forderungsexekution durch Pfändung und Überweisung der Ansprüche der verpflichteten Partei gegen die Drittschuldnerin [[organization|Brückner Metallbau GmbH]], FN [[company_register_number|182553k]], [[address|Industriezeile 14, 4020 Linz]], auf Arbeitseinkommen wird bewilligt.
+Der Antrag auf Bewilligung der Forderungsexekution durch Pfändung und Überweisung der Ansprüche der verpflichteten Partei gegen die Drittschuldnerin [[organization|Brückner Metallbau GmbH]], [[company_register_number|FN 182553k]], [[address|Industriezeile 14, 4020 Linz]], auf Arbeitseinkommen wird bewilligt.
 
 Gepfändet werden die Ansprüche der verpflichteten Partei auf das Arbeitseinkommen aus dem Dienstverhältnis bei der Drittschuldnerin, soweit sie den pfändungsfreien Betrag übersteigen. Die Pfändung erstreckt sich auf die Ansprüche bis zur Höhe der betriebenen Forderung von 3.914,27 EUR samt Zinsen und Kosten.
 

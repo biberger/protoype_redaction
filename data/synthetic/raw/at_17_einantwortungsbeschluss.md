@@ -34,7 +34,7 @@ vorzunehmen sein.
 
 4. Die Gebühren des Gerichtskommissärs [[PERSON|Dr. Elisabeth Fellner-Rieß]] werden mit EUR 4.812,60 (darin EUR 802,10 USt) bestimmt. Diese Gebühren haben die Erben zur ungeteilten Hand binnen 14 Tagen zu bezahlen.
 
-5. Die Verlassenschaft ist hiemit beendet; das Bankguthaben bei der [[ORGANISATION|Salzkammergut Volksbank eG]] (Konten IBAN [[KENNNUMMER|AT21 4501 0000 1288 3011]] und [[KENNNUMMER|AT05 4501 0000 1288 3029]]) ist den Erben je zur Hälfte auszufolgen.
+5. Die Verlassenschaft ist hiemit beendet; das Bankguthaben bei der [[ORGANISATION|Salzkammergut Volksbank eG]] (Konten IBAN [[KENNNUMMER|AT06 1113 9309 5597 2979]] und [[KENNNUMMER|AT42 2622 4393 3283 6791]]) ist den Erben je zur Hälfte auszufolgen.
 
 Begründung:
 

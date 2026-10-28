@@ -27,9 +27,9 @@ II. Kaufvereinbarung, Kaufpreis
 EUR 545.000,00
 (in Worten: Euro fünfhundertfünfundvierzigtausend).
 
-2. Der Kaufpreis ist binnen 14 Tagen nach Unterfertigung dieses Vertrages auf das Treuhandkonto des Vertragserrichters, [[PERSON|Mag. Robert Leitgeb]], öffentlicher Notar in [[ORT|Salzburg]], bei der [[ORGANISATION|Salzach Sparkasse AG]], IBAN [[KENNNUMMER|AT57 2040 4000 4129 8817]], zu erlegen. Die Abwicklung erfolgt nach den Treuhandrichtlinien der [[ORGANISATION|Notariatskammer für Salzburg]] und ist im Treuhandregister des österreichischen Notariats unter der Nummer [[KENNNUMMER|TH-2025-5020-00419]] registriert.
+2. Der Kaufpreis ist binnen 14 Tagen nach Unterfertigung dieses Vertrages auf das Treuhandkonto des Vertragserrichters, [[PERSON|Mag. Robert Leitgeb]], öffentlicher Notar in [[ORT|Salzburg]], bei der [[ORGANISATION|Salzach Sparkasse AG]], IBAN [[KENNNUMMER|AT80 4019 1614 6100 3307]], zu erlegen. Die Abwicklung erfolgt nach den Treuhandrichtlinien der [[ORGANISATION|Notariatskammer für Salzburg]] und ist im Treuhandregister des österreichischen Notariats unter der Nummer [[KENNNUMMER|TH-2025-5020-00419]] registriert.
 
-3. Der Treuhänder ist unwiderruflich angewiesen, aus dem Kaufpreis zunächst die zugunsten der [[ORGANISATION|Flachgauer Kreditgenossenschaft eGen]] unter C-LNr. 3a einverleibte Höchstbetragshypothek abzulösen und den Restbetrag nach grundbücherlicher Durchführung dieses Vertrags an den Verkäufer auf dessen Konto IBAN [[KENNNUMMER|AT14 3500 0000 0310 4472]] auszuzahlen.
+3. Der Treuhänder ist unwiderruflich angewiesen, aus dem Kaufpreis zunächst die zugunsten der [[ORGANISATION|Flachgauer Kreditgenossenschaft eGen]] unter C-LNr. 3a einverleibte Höchstbetragshypothek abzulösen und den Restbetrag nach grundbücherlicher Durchführung dieses Vertrags an den Verkäufer auf dessen Konto IBAN [[KENNNUMMER|AT68 6661 9345 1450 6123]] auszuzahlen.
 
 III. Übergabe und Übernahme
 

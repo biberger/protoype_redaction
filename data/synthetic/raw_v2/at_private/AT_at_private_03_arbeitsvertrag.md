@@ -55,7 +55,7 @@ Die Dienstgeberin meldet den Dienstnehmer zur Sozialversicherung bei der [[organ
 
 8. Arbeitsmittel und Datenschutz
 
-Die Dienstgeberin stellt Schutzausrüstung, Werkzeug und einen betrieblichen Mobiltelefonanschluss mit der Nummer [[phone_number|+43 664 2301 857]] zur Verfügung. Die Verarbeitung personenbezogener Daten erfolgt im Rahmen der Datenschutz-Grundverordnung, insbesondere [[legal_norm|Art. 6 Abs. 1 lit. b DSGVO]] und [[legal_norm|Art. 88 DSGVO]] iVm [[legal_norm|§ 11 DSG]].
+Die Dienstgeberin stellt Schutzausrüstung, Werkzeug und einen betrieblichen Mobiltelefonanschluss mit der Nummer [[phone_number|+43 664 2301 857]] zur Verfügung. Die Verarbeitung personenbezogener Daten erfolgt im Rahmen der [[legal_norm|Datenschutz-Grundverordnung]], insbesondere [[legal_norm|Art. 6 Abs. 1 lit. b DSGVO]] und [[legal_norm|Art. 88 DSGVO]] iVm [[legal_norm|§ 11 DSG]].
 
 9. Kündigung
 

@@ -15,7 +15,7 @@ Envoi par lettre recommandée avec accusé de réception
 Société [[organization|Électricité Provençale Services SAS]]
 À l'attention de Mme [[person|Yasmine Haddad]], directrice administrative et financière
 [[address|78 avenue du Prado, 13008 Marseille]]
-SIRET [[company_register_number|534 640 974 02472]]
+SIRET [[company_register_number|175 507 482 05452]]
 
 Objet : mise en demeure de payer la somme de 14 380 euros TTC
 Notre réf. : [[other_identifier|CL-2024-00871]]

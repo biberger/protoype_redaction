@@ -1,0 +1,497 @@
+[
+ {
+  "batch": "at_civil",
+  "docs": [
+   {
+    "file": "AT_at_civil_11_protokoll_tagsatzung.md",
+    "errors": [
+     {
+      "kind": "wrong_boundary",
+      "label": "company_register_number",
+      "surface": "284067x",
+      "note": "Line 18. Spec example is 'FN 531927x', so the span should include the 'FN' prefix: [[company_register_number|FN 284067x]]."
+     },
+     {
+      "kind": "missed",
+      "label": "person",
+      "surface": "Sonja Fankhauser",
+      "note": "Line 25, Schriftführerin. A court clerk is a named natural person who is not a judge or lawyer."
+     },
+     {
+      "kind": "missed",
+      "label": "person",
+      "surface": "Fankhauser",
+      "note": "Line 126, 'Die Schriftführerin: Fankhauser'. Bare-surname repeat is untagged."
+     },
+     {
+      "kind": "missed",
+      "label": "person",
+      "surface": "Ricky",
+      "note": "Line 60, 'die Freundin vom Ricky'. This is the first-name coreference to the plaintiff Ricardo Esposito."
+     },
+     {
+      "kind": "missed",
+      "label": "date",
+      "surface": "3. Dezember 2024",
+      "note": "Line 86, 'am 3. Dezember 2024'. This is a full day-precise date and is untagged."
+     },
+     {
+      "kind": "missed",
+      "label": "person",
+      "surface": "Pemmer",
+      "note": "Line 106, 'Zur Aussage von Pemmer (Bekannte des Klägers ...)'. Named natural person, untagged."
+     },
+     {
+      "kind": "wrong_label",
+      "label": "organization",
+      "surface": "Hadžić",
+      "note": "Line 68, 'in der Werkstatt [[person|Hadžić]]'. This is the workshop name, i.e. the company Hadžić & Söhne OG, so it should be organization. It was tagged person."
+     }
+    ],
+    "realism_issues": [
+     "Witness Hadžić's written statement is dated 28.05.2025, but it says he saw the car 'im Juni 2025', which is after the statement date (factual impossibility).",
+     "Line 108 has 'Die Klagevertreterin', but the plaintiff's counsel Mag. Thomas Ploner is male and is called 'Klagevertreter' everywhere else. The line also has odd spaced-out OCR text 'Lu t z e n :' that makes no sense as a heading.",
+     "The Zeugin Ingrid Wien passage ('Wien ist für mich eine Stadt, in die wir nicht fahren, das ist also nicht der Grund für den Schaden') reads artificially, as if written to plant the name/place ambiguity. The Zeugin also refers to a second visit date and says the car was bought 'im September' while describing the problem from November, which is fine but stilted.",
+     "The Zeuge's written statement is read in under § 280 ZPO; the proper basis for a written witness statement is § 328 ZPO (schriftliche Zeugenaussage). The norm citation is questionable.",
+     "A Protokoll would normally record which party attended and sign-off as 'Richter / Schriftführerin' with signatures; here the Schriftführerin is named only in the header and footer. Court-clerk sentence 'Die Beklagte wird aufgetragen' is ungrammatical, but this is minor.",
+     "The Sachverständiger is appointed in the Protokoll with address and phone, which is unusual for a Protokoll; normally the Gutachterbestellung is only by name."
+    ]
+   },
+   {
+    "file": "AT_at_civil_02_ogh_beschluss.md",
+    "errors": [],
+    "realism_issues": [
+     "10 Ob is the Familienrecht/Unterhalt senate. WEG matters go to the 5 Ob senate, so the case number '10 Ob 52/25h' is wrong for a Wohnungseigentumssache.",
+     "Mödling is in the Landesgericht Wiener Neustadt district, not Krems an der Donau. The Rekursgericht 'Landesgericht Krems an der Donau' is geographically impossible.",
+     "The Rekursgericht ruled that the ordinary Revisionsrekurs is not admissible, so the party's appeal should be an 'außerordentlicher Revisionsrekurs', and the OGH would 'zurückweisen' it. The document calls it a plain 'Revisionsrekurs' and also states in the Spruch it was 'gegen den Sachbeschluss des Landesgerichts', which is inconsistent.",
+     "The Antragsgegnerin in a WEG case would be the Eigentümergemeinschaft or an individual owner; a Hausverwaltung as a party is implausible. Revisionsrekurs thresholds are misdescribed (the AußStrG § 62 threshold is 30.000 EUR for Bewertung, with 5.000 EUR for non-monetary matters). The Kopf has no date of the Beschluss or senate type, and 'Begründung' starts without a Kopf/Entscheidungsdatum block."
+    ]
+   },
+   {
+    "file": "AT_at_civil_01_ogh_urteil.md",
+    "errors": [],
+    "realism_issues": [
+     "Case number '3 Ob 164/24b' is an Exekutionsrecht senate. A Schadenersatz or Bauvertrags matter would go to 1 Ob, 2 Ob, 4 Ob or 6 Ob.",
+     "The Kopf calls the appeal an 'außerordentliche Revision', but the Berufungsgericht admitted the ordinary Revision ('Es ließ die ordentliche Revision zu'). This is contradictory.",
+     "Anachronism: Zehetner Immobilien Management GmbH is said to have accepted (abgenommen) the waterproofing 'im Jahr 2019', but the Aufstockung was only built in 2021.",
+     "The amounts are inconsistent: Streitwert 48.300 EUR, but the claims named are 6.180 EUR repair costs, 4.000 EUR Schmerzengeld and rental loss. The Erstgericht awarded 9.180 EUR in total but only 5.420 EUR of the repair costs are mentioned. The costs of the Revisionsverfahren (2.934,12 EUR incl. 489,02 EUR USt) are also unrealistically high for the amount in dispute.",
+     "Procedural cites are off: § 503 Abs 2 ZPO does not exist in that form (§ 503 has Z 1-4), § 477 Abs 1 Z 9 ZPO is a Berufungs-Nichtigkeitsgrund (the Revision uses § 503 Z 1 ZPO), and § 502 Abs 2 ZPO is the Streitwertgrenze, not a rule that excludes non-admitted points. The 'Rechtliche Beurteilung' says the Revision is 'zulässig' and then still decides 'nicht Folge gegeben', which mixes up Zulässigkeit and Berechtigung.",
+     "The document is stated to be RIS-pseudonymised (A*****, E***** GmbH), but witness and expert names (Ömer Kaya, Mirjam Egger, DI Matthias Gruber) and the Zehetner company name are left in clear, which is inconsistent. 'Dachgeschoßwohnung im Haus *****, ***** Graz' is also inconsistent with 'Eigentümerin' and an 'Aufstockung durch die Beklagte' on the same Liegenschaft."
+    ]
+   }
+  ]
+ },
+ {
+  "batch": "at_private",
+  "docs": [
+   {
+    "file": "AT_at_private_12_firmenbuchauszug.md",
+    "errors": [],
+    "realism_issues": [
+     "Block 'Hinweise zur Vertretungsbefugnis' is not part of a real Firmenbuch extract. It also contradicts the register data: the first bullet says all Geschäftsführer act jointly, but Brožek (A) is entered as selbständig vertretungsbefugt.",
+     "Einzelprokura of Oyelaran-Dolezal (since 01.11.2023) has no matching Eintragung in the Vollzugsübersicht. The numbering also jumps (7, 6, 5, 1).",
+     "Real extracts write 'FN 189239 v' (space before the check letter) and use column layouts with 'Eintragung' blocks. This one is a simplified approximation (acceptable)."
+    ]
+   },
+   {
+    "file": "AT_at_private_05_anwaltsschreiben.md",
+    "errors": [],
+    "realism_issues": [
+     "Court choice is implausible. The letter itself treats Pöttler as Unternehmer (§ 1 UGB, § 456 UGB), so a Mahnklage in Vienna would go to the Bezirksgericht für Handelssachen Wien, not the Bezirksgericht Hietzing. The addressee is also a private person at a home address, which makes the Unternehmer framing inconsistent.",
+     "The reminder letter of 04.07.2025 (Zahlungsfrist) predates the due date of the third invoice (30.07.2025), so it cannot have covered all three invoices.",
+     "Anwaltscode 'RAK-W-40718' does not match the real format (R-Code, e.g. R123456). The BIC SPLAATWWXXX and the bank name 'Erste Donauland Sparkasse AG' are invented. The § 1168 ABGB citation (Werklohn when the Besteller is prevented) is only loosely related to the point being made."
+    ]
+   },
+   {
+    "file": "AT_at_private_04_gesellschaftsvertrag_gmbh.md",
+    "errors": [
+     {
+      "kind": "spurious",
+      "label": "date",
+      "surface": "30. April",
+      "note": "Line 94: recurring annual deadline ('bis zum 30. April jeden Jahres') with no year, not a day-precise date. Also inconsistent with doc 12, where the equally yearless Stichtag '31. Dezember' is left untagged. Lower confidence: the spec only excludes months or years without a day."
+     }
+    ],
+    "realism_issues": [
+     "§ 20 GmbHG (checked in RIS) regulates Beschränkungen der Vertretungsbefugnis. It is not a basis for 'Zustimmung der Generalversammlung' to a Geschäftsführung by Aksoy (the Bestellung provision is § 15 GmbHG).",
+     "§ 9 DSG is the Medienprivileg (Freiheit der Meinungsäußerung), not a basis for processing health data. It is wrongly combined with Art. 9 Abs. 2 lit. h DSGVO; § 9 DSG is not a sensible iVm partner here.",
+     "§ 26 Abs 1 GGG cited for Notariatskosten is wrong. GGG regulates court fees, and Notariatskosten fall under the NTG/NO, while the Eintragungsgebühr falls under TP 10 GGG.",
+     "§ 6 Abs 1 Z 1 KSchG (Haftungsausschluss for Personenschäden) has nothing to do with competition clauses. § 39 Abs 4 GmbHG as the basis for a Vergleich with Geschäftsführern looks doubtful.",
+     "Genitive 'Aksoys' (line 74) is tagged with the s inside the span. The spec does not say whether the genitive s belongs in the surface (not counted as an error).",
+     "Compact clause 'Gewinnanteile fällig mit Ablauf des auf das Geschäftsjahr folgenden Monats' and a Haftungs/Ausscheiden clause that excludes Außenhaftung are unusual in a GmbH contract. The Sozialhilfegesetz licence reference is vague (a Burgenland Sozialeinrichtungsgesetz would be the usual basis)."
+    ]
+   }
+  ]
+ },
+ {
+  "batch": "at_public",
+  "docs": [
+   {
+    "file": "/home/user/protoype_redaction/data/synthetic/raw_v2/at_public/AT_at_public_04_lvwg_erkenntnis.md",
+    "errors": [
+     {
+      "kind": "missed",
+      "label": "organization",
+      "surface": "Landesverkehrsabteilung",
+      "note": "Para 4 ('Zeuge Insp. ... von der Landesverkehrsabteilung'): bare mention of the same authority, tagged in para 2 but not here."
+     }
+    ],
+    "realism_issues": [
+     "'Unrechtsgehör' in para 7 should be 'Unrechtsgehalt'.",
+     "Spruch I cites § 45 Abs 1 Z 4 VStG (absehen von Strafe or Einstellung) as the basis for reducing the fine. A reduction rests on § 19 VStG and § 50 VwGVG.",
+     "Limit of 80 km/h is attributed to § 20 Abs 2 StVO 1960, which is the general speed limit. A sign-based limit would be § 52 lit a Z 10a StVO.",
+     "A health impairment is not a standard Milderungsgrund under § 34 StGB. Para 7 mixes it in with Unbescholtenheit.",
+     "Para 9 gives the Revision-Zulässigkeit as 'Art. 133 Abs 4 B-VG' even though the Revision is declared not admissible. The notice at the end also says a Revision may be filed 'sofern zulässig'. This is a weak structure but acceptable.",
+     "B 145 runs Gmunden to Vorchdorf only doubtfully (Vorchdorf lies on the B 120). Minor."
+    ]
+   },
+   {
+    "file": "/home/user/protoype_redaction/data/synthetic/raw_v2/at_public/AT_at_public_03_bvwg_erkenntnis.md",
+    "errors": [],
+    "realism_issues": [
+     "Paragraph numbering is out of order and implausible: 11a, 11b, 11, 15a, 15. Real BVwG decisions number consecutively.",
+     "Para 15a says 'Die Kammer hat ferner geprüft', but the decision is by an Einzelrichterin.",
+     "Para 2 gives a first-instance statement of 'LPD Wien, Polizeiinspektion Traiskirchen'. Traiskirchen lies in Niederösterreich, so it belongs to the LPD Niederösterreich, not the LPD Wien.",
+     "The Spruch names the Beschwerdeführer in full, which is atypical for published BVwG decisions (they pseudonymise). This is acceptable in synthetic data.",
+     "'Staatendokumentationsreferat' is not the usual name for the BFA Staatendokumentation. Minor.",
+     "Para 9 says Erstbefragung statements were brief, while para 4 says the BFA found the threat letters not mentioned. The conclusion is plausible, but the Beweiswürdigung is brief for a BVwG decision."
+    ]
+   },
+   {
+    "file": "/home/user/protoype_redaction/data/synthetic/raw_v2/at_public/AT_at_public_02_vfgh_erkenntnis.md",
+    "errors": [
+     {
+      "kind": "missed",
+      "label": "court",
+      "surface": "Verfassungsgerichtshof",
+      "note": "Opening sentence 'Der Verfassungsgerichtshof hat unter dem Vorsitz von ...'"
+     },
+     {
+      "kind": "missed",
+      "label": "court",
+      "surface": "Verfassungsgerichtshofes",
+      "note": "Spruch I 'Der Antrag des Verfassungsgerichtshofes auf Aufhebung'"
+     },
+     {
+      "kind": "missed",
+      "label": "court",
+      "surface": "Verfassungsgerichtshof",
+      "note": "Para 4 'Der Verfassungsgerichtshof hat im Hinblick auf das Vorbringen ...'"
+     },
+     {
+      "kind": "missed",
+      "label": "court",
+      "surface": "Verfassungsgerichtshof",
+      "note": "Para 5 'Im Verfahren vor dem Verfassungsgerichtshof'"
+     },
+     {
+      "kind": "missed",
+      "label": "court",
+      "surface": "Verfassungsgerichtshof",
+      "note": "Para 8 'Der Verfassungsgerichtshof teilt die Bedenken'"
+     },
+     {
+      "kind": "missed",
+      "label": "organization",
+      "surface": "Salzburger Landesregierung",
+      "note": "Para 4 'Die Salzburger Landesregierung hat eine Äußerung erstattet'. A named public body is an organization. 'Salzburger' is part of the name here, not a free adjective."
+     }
+    ],
+    "realism_issues": [
+     "Para 13 says the decision was made 'ohne mündliche Verhandlung', but the preamble states a public oral hearing on 09.10.2025. Contradiction.",
+     "Spruch III awards costs to the Beschwerdeführer although Spruch II dismisses the Beschwerde. Para 11 also says no costs for the Landesregierung. Contradictory.",
+     "Spruch I says an 'Antrag des Verfassungsgerichtshofes' is 'abgewiesen'. A Gesetzesprüfungsverfahren on the VfGH's own motion ends with 'wird nicht als verfassungswidrig aufgehoben' or 'ist verfassungswidrig'. There is no 'Antrag' to dismiss. Para 6 and 12 refer to 'Anträge' with no applicant, and V 412/2025 is a Verordnungsprüfung with no stated origin.",
+     "The B 1876/2024 Beschwerde was filed against a LVwG decision of 05.06.2024, and 'Antrag' and 'Beschwerde' are joined in one Erkenntnis. The G, V and B numbers with different years and an '-14', '-12', '-17' suffix are unusual. Real joined decisions usually print the numbers in a row without a suffix.",
+     "Vizepräsidentin, Mitglieder and Ersatzmitglieder in the preamble are plausible. The Schriftführerin signing the Ausfertigung is correct.",
+     "The SZAG 2024 is invented. That is fine, but Salzburg has no such Zweitwohnsitzabgabe act of that name."
+    ]
+   }
+  ]
+ },
+ {
+  "batch": "ch",
+  "docs": [
+   {
+    "file": "CH_ch_11_jugement_tribunal_des_baux.md",
+    "errors": [
+     {
+      "kind": "missed",
+      "label": "legal_norm",
+      "surface": "art. 257d CO",
+      "note": "Objet line"
+     },
+     {
+      "kind": "missed",
+      "label": "legal_norm",
+      "surface": "art. 259a CO",
+      "note": "Objet line"
+     },
+     {
+      "kind": "missed",
+      "label": "legal_norm",
+      "surface": "art. 271 CO",
+      "note": "Objet line"
+     },
+     {
+      "kind": "missed",
+      "label": "legal_norm",
+      "surface": "art. 274 CO",
+      "note": "1.1"
+     },
+     {
+      "kind": "missed",
+      "label": "legal_norm",
+      "surface": "art. 200 CPC",
+      "note": "1.1"
+     },
+     {
+      "kind": "missed",
+      "label": "legal_norm",
+      "surface": "art. 273 al. 1 CO",
+      "note": "1.1"
+     },
+     {
+      "kind": "missed",
+      "label": "legal_norm",
+      "surface": "art. 257d al. 1 CO",
+      "note": "2.1"
+     },
+     {
+      "kind": "missed",
+      "label": "legal_norm",
+      "surface": "art. 271a al. 1 let. a CO",
+      "note": "2.3"
+     },
+     {
+      "kind": "missed",
+      "label": "legal_norm",
+      "surface": "art. 256 al. 1 CO",
+      "note": "3.1"
+     },
+     {
+      "kind": "missed",
+      "label": "legal_norm",
+      "surface": "art. 259a al. 1 let. b CO",
+      "note": "3.1"
+     },
+     {
+      "kind": "missed",
+      "label": "legal_norm",
+      "surface": "art. 257b al. 1 CO",
+      "note": "4.1"
+     },
+     {
+      "kind": "missed",
+      "label": "legal_norm",
+      "surface": "art. 106 al. 1 CPC",
+      "note": "5.1"
+     },
+     {
+      "kind": "missed",
+      "label": "legal_norm",
+      "surface": "art. 106 al. 1 CPC",
+      "note": "5.2, first of the two norms"
+     },
+     {
+      "kind": "missed",
+      "label": "legal_norm",
+      "surface": "art. 95 al. 3 CPC",
+      "note": "5.2, joined by 'et' to art. 106; separate span"
+     },
+     {
+      "kind": "missed",
+      "label": "legal_norm",
+      "surface": "art. 311 CPC",
+      "note": "Voies de droit"
+     }
+    ],
+    "realism_issues": [
+     "Appeal route is wrong for Vaud: the Chambre des recours civile no longer exists as the appeal body. Appeals go to the Cour d'appel civile of the Tribunal cantonal.",
+     "Arithmetic is inconsistent: 15 % of CHF 1'840 is CHF 276 per month. June 2022 to March 2024 is 22 months, which gives CHF 6'072, not the CHF 5'520 stated (20 months).",
+     "The dispositif amount of CHF 4'360 does not match the reasoning. 5'520 + 1'260 - 420 would be 6'360.",
+     "Procedural roles are muddled: the landlord asks for eviction, yet the tenant Petrova is called 'demanderesse reconventionnelle'. A counterclaim would come from the defendant.",
+     "A judgment would not close with the defendant's lawyer's e-mail and phone number or a 'compte de consignation' IBAN as 'Contact'."
+    ]
+   },
+   {
+    "file": "CH_ch_09_bger_arret.md",
+    "errors": [
+     {
+      "kind": "missed",
+      "label": "address",
+      "surface": "chemin des Vergers 9",
+      "note": "A.a, property address with house number; the city 'Carouge' is tagged separately as a location"
+     },
+     {
+      "kind": "missed",
+      "label": "legal_norm",
+      "surface": "art. 90 LTF",
+      "note": "1.1"
+     },
+     {
+      "kind": "missed",
+      "label": "legal_norm",
+      "surface": "art. 75 al. 1 LTF",
+      "note": "1.1"
+     },
+     {
+      "kind": "missed",
+      "label": "legal_norm",
+      "surface": "art. 74 al. 1 let. b LTF",
+      "note": "1.1"
+     },
+     {
+      "kind": "missed",
+      "label": "legal_norm",
+      "surface": "art. 76 al. 1 LTF",
+      "note": "1.2"
+     },
+     {
+      "kind": "missed",
+      "label": "legal_norm",
+      "surface": "art. 100 al. 1 LTF",
+      "note": "1.2"
+     },
+     {
+      "kind": "missed",
+      "label": "legal_norm",
+      "surface": "art. 106 al. 1 LTF",
+      "note": "2.1"
+     },
+     {
+      "kind": "missed",
+      "label": "legal_norm",
+      "surface": "art. 66 al. 1 LTF",
+      "note": "5"
+     },
+     {
+      "kind": "missed",
+      "label": "legal_norm",
+      "surface": "art. 68 al. 1 et 2 LTF",
+      "note": "5, one citation of a list within one act, so one span"
+     }
+    ],
+    "realism_issues": [
+     "Case number 5A_ is a Cour de droit civil II file (family, debt enforcement, succession). A sale-of-property warranty dispute under art. 197 ff. CO would be 4A_ (Ire Cour de droit civil).",
+     "A BGer judgment does not list the opposing lawyer's e-mail and phone as a closing 'Contact' line.",
+     "The seller is said to have blamed 'la locataire précédente' for poor ventilation, which does not fit the facts. The buyer, who is the recourante, lived in the flat.",
+     "'faute de défaut de connaissance établi' in 4.3 is garbled legal wording."
+    ]
+   },
+   {
+    "file": "CH_ch_02_obergericht_urteil.md",
+    "errors": [
+     {
+      "kind": "missed",
+      "label": "case_number",
+      "surface": "AN230044",
+      "note": "Arbeitsgericht case number in the header citation, line 27"
+     },
+     {
+      "kind": "missed",
+      "label": "case_number",
+      "surface": "AN230044",
+      "note": "same reference in dispositif item 2"
+     }
+    ],
+    "realism_issues": [
+     "Internal contradiction: 1.1 and 5.2 say the proceedings are cost-free under Art. 114 lit. c ZPO, yet the dispositif imposes CHF 3'200.– in costs and refers to a Kostenvorschuss.",
+     "5.1 says the costs are distributed under Art. 106 ZPO, which conflicts with the Kostenfreiheit stated in 5.2.",
+     "Case number LA..-O/U is the Berufung-Arbeitsrecht series, which in Zurich is normally decided by the I. Zivilkammer rather than the II. This is uncertain.",
+     "Mixed Kündigung and Freistellung dates (14 April notice, 18 April release, then 'ab 18. Mai' in 4.3) are confusing. The reasoning also claims 'Freistellung unbestritten' but the claimant 'weiterhin gearbeitet'.",
+     "Zurich decisions normally use 'Beklagte und Berufungsklägerin' style rubrum designations and a 'Rechtsbegehren' section. The invented structure is plausible but simplified."
+    ]
+   }
+  ]
+ },
+ {
+  "batch": "de",
+  "docs": [
+   {
+    "file": "DE_de_10_mietvertrag.md",
+    "errors": [
+     {
+      "kind": "wrong_boundary",
+      "label": "bank_account",
+      "surface": "IBAN DE54 7463 4297 4699 4260 55",
+      "note": "Span includes the word 'IBAN'. The spec example (`AT48 4734 9698 8861 5213`) tags only the number. Minor; skip if the pipeline treats the prefix as acceptable."
+     }
+    ],
+    "realism_issues": [
+     "'Energieausweis gemäß § 85 GEG' is the wrong norm. The Energieausweis is regulated in §§ 79-88 GEG, with the issuing and handover duties in § 80. § 85 concerns the content of the certificate and is an odd choice for the attachment line; the check on the exact paragraph is uncertain.",
+     "Otherwise the register, structure and arithmetic are plausible: 642+178+95=915, and the deposit of 1.926 € is three net rents."
+    ]
+   },
+   {
+    "file": "DE_de_07_sozialgericht_urteil.md",
+    "errors": [],
+    "realism_issues": [
+     "'Deutsche Rentenversicherung Westfalen' has its seat in Münster. 'Königsworther Platz 27, 44137 Dortmund' is not its address (Königsworther Platz is in Hannover, and the postcode 44137 is Dortmund). The address is implausible, though invented addresses are tolerated.",
+     "The Rente wegen voller Erwerbsminderung is based on § 43 Abs. 2 SGB VI. The insurance conditions are cited as '§ 43 Abs. 1 Satz 1 Nr. 2' and '§ 43 Abs. 1 Satz 2', which belong to the teilweise Erwerbsminderung. The correct references are Abs. 2 Satz 1 Nr. 2 and Abs. 2 Satz 2.",
+     "The Gutachter 'Dr. med. Hanna Lindenberg' is called 'Der Facharzt' (masculine) although the first name is female. The Gutachten dated 3.10.2023 is from the Klage period, yet the Kammer treats the Sachverständige as court-appointed and the 'behandelnder Orthopäde' as a separate person. The role is muddled.",
+     "The Tenor lacks the usual formula 'Die Klage wird ... abgewiesen im Übrigen' and the Rechtsmittelbelehrung is only a short remark. Tatbestand and Entscheidungsgründe are otherwise in the right register.",
+     "The Befristung is justified by an 'Operation im Jahr 2026', which is a future event in a judgment dated 2025. This is possible but awkward."
+    ]
+   },
+   {
+    "file": "DE_de_01_bgh_urteil.md",
+    "errors": [],
+    "realism_issues": [
+     "Randnummern are out of order: 12, then 14, 15, then 13 (the cost decision is last). Number 13 is misplaced.",
+     "The Landgericht case number '1 HK O 2231/21' is a Kammer für Handelssachen, but the Kläger is a private consumer building a house. A Handelssache is implausible; '1 O .../21' would fit.",
+     "A BGH Urteil does not normally give party addresses ('Hauptstraße 17, 84028 Landshut', 'Schrannenplatz 9, 94032 Passau'). The names, including 'Gabriele Pfaffenbichler', are not typical of a BGH Rubrum, though the pseudonymisation convention may be relaxed.",
+     "The BGH Urteil 'Verkündet am 18. September 2025' after a hearing on 14. August 2025 is fine. The reasoning refers to the Schriftsatz of 8 Feb 2022 after the Klage of 3 March 2021 and the LG Urteil of 12.05.2022; this is consistent. The Revisionsurteil text, however, mentions a '9. Zivilsenat des Oberlandesgerichts' while the OLG case number is '9 U .../22 Bau'; this is fine.",
+     "The reasoning in Rn. 11 mixes the 5-year Verjährung from Abnahme (§ 634a Abs. 1 Nr. 2 BGB) with a Hemmung comment and is somewhat unusual, though not impossible. 'Gemarkung Landshut' tagged as a separate land_register_id from 'Flurstück 318/4' is arguably one phrase 'Flurstück 318/4 der Gemarkung Landshut', a matter of taste."
+    ]
+   }
+  ]
+ },
+ {
+  "batch": "fr",
+  "docs": [
+   {
+    "file": "/home/user/protoype_redaction/data/synthetic/raw_v2/fr/BE_fr_10_arret_cour_d_appel_bruxelles.md",
+    "errors": [],
+    "realism_issues": [
+     "Court of first instance: a commercial agency dispute (agent commercial vs SPRL) in Dec 2021 would go to the tribunal de l'entreprise francophone de Bruxelles (since Nov 2018), not the tribunal de première instance.",
+     "'Neuvième chambre — chambre des marchés': the Brussels 'Cour des marchés' is a specialised regulatory chamber; it would not hear a commercial agency appeal.",
+     "'SPRL' was replaced by 'SRL' (CSA, 2019); a 2023 judgment would say SRL (possibly 'anciennement SPRL').",
+     "Art. 1017 Code judiciaire is the general costs rule; the base procedural indemnity is art. 1022. Structure is also odd: dépens (para 16) are decided before the non-concurrence section (17-19), and the ministère public remark is unusual."
+    ]
+   },
+   {
+    "file": "/home/user/protoype_redaction/data/synthetic/raw_v2/fr/BE_fr_11_contrat_de_bail.md",
+    "errors": [
+     {
+      "kind": "missed",
+      "label": "organization",
+      "surface": "Service public fédéral Économie",
+      "note": "federal public body in the indexation clause (Article 3); should be an organization span"
+     }
+    ],
+    "realism_issues": [
+     "Residential leases in Brussels have been governed by the Code bruxellois du Logement (Titre XI, ordonnance 2017) since 2018, not by the Code civil; 'article 1715bis du Code civil' does not look like a real basis for a residence-principale lease and the contract never mentions the Brussels regime, registration or the mandatory annex.",
+     "Early termination by the tenant at any time with 3 months' notice omits the indemnity due in the first 3 years; 'bon père de famille' is dated.",
+     "The BIC 'ZZBRBE22' is not a real code (acceptable as synthetic). IBAN, TVA and BCE check digits are valid."
+    ]
+   },
+   {
+    "file": "/home/user/protoype_redaction/data/synthetic/raw_v2/fr/FR_fr_02_arret_cour_d_appel.md",
+    "errors": [
+     {
+      "kind": "wrong_boundary",
+      "label": "organization",
+      "surface": "Vidal et Fontaine, huissiers de justice",
+      "note": "the appositive role ', huissiers de justice' is not part of the name; span should be 'Vidal et Fontaine' (SCP stays outside, as with SARL/SCI in this doc). Borderline."
+     }
+    ],
+    "realism_issues": [
+     "Factual impossibility: the commandement is dated 3 Aug 2021 (clause acquired 3 Sept 2021), yet the payment of 2 Sept 2021 is said to be 'intervenu après l'expiration du délai d'un mois'. It is one day before expiry.",
+     "Art. L. 145-41 Code de commerce is paraphrased as taking effect 'plusieurs mois' after the commandement; the text (and the doc's own facts) say one month.",
+     "Disputes over baux commerciaux (clause résolutoire, expulsion) fall to the tribunal judiciaire, not the tribunal de commerce.",
+     "'Quatrième chambre commerciale' is not a plausible Montpellier chamber label. Minor: RG number 22/01234 looks placeholder-like; art. 1343-5 delays argument is shaky given L. 145-41 al. 2."
+    ]
+   }
+  ]
+ }
+]

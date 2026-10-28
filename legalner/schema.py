@@ -94,8 +94,8 @@ LABELS = {
         "E-mail address.", de=("E-Mail-Adresse",), fr=("adresse e-mail", "courriel")),
     # --- legal references --------------------------------------------------
     "legal_norm": Label(
-        "Citation of a statute, regulation or EU legal act with paragraph or article, "
-        "e.g. '§ 879 Abs 3 ABGB', 'Art. 8 EMRK'.",
+        "Citation of a statute, regulation, treaty or EU legal act, with or without "
+        "paragraph or article, e.g. '§ 879 Abs 3 ABGB', 'Art. 8 EMRK', 'ABGB', 'Code civil'.",
         de=("Gesetzesstelle", "Norm", "Gesetz"), fr=("disposition légale", "article de loi"),
         group="legal"),
     "case_citation": Label(

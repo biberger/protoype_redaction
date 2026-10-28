@@ -4,7 +4,7 @@ jurisdiction: CH
 lang: de
 ---
 [[court|Bundesgericht]]
-Tribunal fédéral
+[[court|Tribunal fédéral]]
 Tribunale federale
 Tribunal federal
 

@@ -29,7 +29,7 @@ b) [[PERSON|Stefan Weinberger]], geb. [[DATUM|22.09.1979]], [[ADRESSE|Lerchenfel
 
 unberührt bleibt ([[GESETZ|§§ 781 ff ABGB]]).
 
-Viertens: Die Geschenkgeberin behält sich auf Lebensdauer das unentgeltliche Fruchtgenussrecht an beiden Liegenschaften vor. Herr [[PERSON|Weinberger]] verpflichtet sich jedoch, die Weingärten bereits ab der Lese 2025 auf eigene Rechnung zu bewirtschaften, wofür er der Geschenkgeberin einen monatlichen Betrag von EUR 600,00 auf ihr Konto IBAN [[KENNNUMMER|AT69 3239 7000 0010 2246]] zu überweisen hat.
+Viertens: Die Geschenkgeberin behält sich auf Lebensdauer das unentgeltliche Fruchtgenussrecht an beiden Liegenschaften vor. Herr [[PERSON|Weinberger]] verpflichtet sich jedoch, die Weingärten bereits ab der Lese 2025 auf eigene Rechnung zu bewirtschaften, wofür er der Geschenkgeberin einen monatlichen Betrag von EUR 600,00 auf ihr Konto IBAN [[KENNNUMMER|AT16 8991 4330 1467 3002]] zu überweisen hat.
 
 Fünftens: Zur Sicherstellung der Schenkung erteilt Frau [[PERSON|Theresia Weinberger]] ihre Einwilligung zur Einverleibung des Belastungs- und Veräußerungsverbots zugunsten von Herrn [[PERSON|Ing. Michael Weinberger]] ([[GESETZ|§ 364c ABGB]]) und zur Anmerkung der Schenkung auf den Todesfall.
 

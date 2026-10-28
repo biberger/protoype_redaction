@@ -54,7 +54,7 @@ Die behauptete HWS-Distorsion wird bestritten. Im Ambulanzbefund des [[ORGANISAT
 
 4. Zur Zinsenforderung:
 
-Die Akontozahlung von EUR 500,00 wurde am [[DATUM|14.04.2025]] auf das Konto des Klägers, IBAN [[KENNNUMMER|AT11 1500 0007 2134 9902]], geleistet.
+Die Akontozahlung von EUR 500,00 wurde am [[DATUM|14.04.2025]] auf das Konto des Klägers, IBAN [[KENNNUMMER|AT60 7540 0917 1452 1178]], geleistet.
 
 Die Beklagten beantragen daher
 

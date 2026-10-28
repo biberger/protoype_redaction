@@ -4,3 +4,4 @@ __pycache__/
 data/canonical/
 data/build/
 out/
+.venv/

@@ -22,7 +22,7 @@ Entscheidungsgründe
 
 Die Klägerin ist seit dem [[date|1. Juni 2019]] Mieterin einer Wohnung mit 62 m² Nutzfläche im Haus Quellenstraße 103 in Favoriten. Der Mietvertrag wurde im Jahr 2019 zwischen ihr und der Vorvermieterin abgeschlossen; der Beklagte ist mit [[date|1. Oktober 2023]] als Eigentümer und neuer Vermieter in das Mietverhältnis eingetreten. Vereinbart war ein monatlicher Hauptmietzins von 1.040 EUR zuzüglich Betriebskosten und Umsatzsteuer.
 
-Die Klägerin begehrt die Rückzahlung von Mietzins, den sie im Zeitraum von [[date|1. Oktober 2023]] bis [[date|30. September 2024]] über den gesetzlich zulässigen Betrag hinaus bezahlt habe, sowie die Feststellung, dass der Hauptmietzins den Richtwert nicht übersteigt. Die Wohnung wurde nach ihrem Vorbringen im Jahr 1961 errichtet und verfügt über eine Zentralheizung. Die Klägerin meint, das Haus unterliege dem Vollanwendungsbereich des MRG; auf die Ausstattungskategorie sei daher die Standardausstattung anzuwenden.
+Die Klägerin begehrt die Rückzahlung von Mietzins, den sie im Zeitraum von [[date|1. Oktober 2023]] bis [[date|30. September 2024]] über den gesetzlich zulässigen Betrag hinaus bezahlt habe, sowie die Feststellung, dass der Hauptmietzins den Richtwert nicht übersteigt. Die Wohnung wurde nach ihrem Vorbringen im Jahr 1961 errichtet und verfügt über eine Zentralheizung. Die Klägerin meint, das Haus unterliege dem Vollanwendungsbereich des [[legal_norm|MRG]]; auf die Ausstattungskategorie sei daher die Standardausstattung anzuwenden.
 
 Der Beklagte bestreitet die Richtwertüberschreitung. Er bringt vor, der Mietzins sei im Hinblick auf eine Sanierung der Fassade und der Fenster im Jahr 2022 zulässigerweise erhöht worden; die Kosten dieser Maßnahmen rechtfertigten einen Zuschlag nach [[legal_norm|§ 18 Abs 1 MRG]].
 
@@ -32,7 +32,7 @@ Rechtliche Beurteilung
 
 1. Nach [[legal_norm|§ 16 Abs 1 MRG]] ist für Wohnungen mit Standardausstattung der Richtwert zu bilden, der für das Jahr 2024 in [[location|Wien]] rund 7,91 EUR pro m² beträgt. Für eine Wohnung mit 62 m² ergibt sich daraus ein Richtwertmietzins von 490,42 EUR, zuzüglich Zuschlägen für Zentralheizung und Lage.
 
-Der vereinbarte Mietzins von 1.040 EUR überschreitet diesen Betrag erheblich. Im Vollanwendungsbereich des MRG kann ein höherer Mietzins nicht wirksam vereinbart werden. Die Klägerin hat vorgebracht, dass das Haus dem Vollanwendungsbereich unterliegt, und der Beklagte hat dies nicht bestritten.
+Der vereinbarte Mietzins von 1.040 EUR überschreitet diesen Betrag erheblich. Im Vollanwendungsbereich des [[legal_norm|MRG]] kann ein höherer Mietzins nicht wirksam vereinbart werden. Die Klägerin hat vorgebracht, dass das Haus dem Vollanwendungsbereich unterliegt, und der Beklagte hat dies nicht bestritten.
 
 2. Zur Zuschlagsfrage: Ein Zuschlag für Erhaltungsarbeiten nach [[legal_norm|§ 18 Abs 1 MRG]] setzt voraus, dass die Arbeiten die Wohnung der Mieterin betreffen oder dem Haus insgesamt zugutekommen und vom Vermieter tatsächlich durchgeführt wurden. Die Sanierung der Fassade im Hof kommt zwar dem Haus insgesamt zugute, sie ist jedoch im Jahr 2022 erfolgt und wäre damit nicht geeignet, den Mietzins ab Oktober 2023 zu erhöhen, weil die Verbesserungsarbeiten bereits abgerechnet waren. Die Zuschläge sind daher nicht zu berücksichtigen.
 

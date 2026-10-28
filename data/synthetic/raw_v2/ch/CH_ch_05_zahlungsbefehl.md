@@ -9,7 +9,7 @@ lang: de
 Telefon [[phone_number|+41 52 632 14 70]]
 
 ZAHLUNGSBEFEHL
-(Art. 69 SchKG)
+([[legal_norm|Art. 69 SchKG]])
 
 Betreibungs-Nr.: [[case_number|2025/004417]]
 Betreibungsart: Ordentliche Betreibung auf Pfändung

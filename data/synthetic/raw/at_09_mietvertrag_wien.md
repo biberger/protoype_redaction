@@ -3,7 +3,7 @@ doc_type: mietvertrag
 jurisdiction: AT
 ---
 MIETVERTRAG
-(Hauptmietvertrag über eine Wohnung – Teilanwendungsbereich des MRG)
+(Hauptmietvertrag über eine Wohnung – Teilanwendungsbereich des [[GESETZ|MRG]])
 
 abgeschlossen zwischen
 
@@ -11,7 +11,7 @@ abgeschlossen zwischen
 
 und
 
-2. [[PERSON|Lukas Hofbauer]], geb. [[DATUM|30.06.1996]], SV-Nr. [[KENNNUMMER|4417 300696]], derzeit wohnhaft in [[ADRESSE|Kirchengasse 3, 3910 Zwettl]], und
+2. [[PERSON|Lukas Hofbauer]], geb. [[DATUM|30.06.1996]], SV-Nr. [[KENNNUMMER|7056 300696]], derzeit wohnhaft in [[ADRESSE|Kirchengasse 3, 3910 Zwettl]], und
 3. [[PERSON|Selina Marić]], geb. [[DATUM|04.12.1998]], derzeit wohnhaft in [[ADRESSE|Wiener Straße 210/2/5, 4020 Linz]],
 
 beide als Mieter (im Folgenden kurz „Mieter“), wie folgt:
@@ -38,7 +38,7 @@ Zwischensumme                            EUR   1.218,50
 10 % USt                                 EUR     121,85
 Gesamtmietzins brutto                    EUR   1.340,35
 
-3.2 Der Mietzins ist jeweils am Fünften eines jeden Monats im Vorhinein auf das Konto der Vermieterin bei der [[ORGANISATION|Donaukanal Bank AG]], lautend auf [[PERSON|Johanna Steinberger]], IBAN [[KENNNUMMER|AT28 3200 0000 1274 5503]], zu überweisen.
+3.2 Der Mietzins ist jeweils am Fünften eines jeden Monats im Vorhinein auf das Konto der Vermieterin bei der [[ORGANISATION|Donaukanal Bank AG]], lautend auf [[PERSON|Johanna Steinberger]], IBAN [[KENNNUMMER|AT56 3834 7017 4681 4538]], zu überweisen.
 
 3.3 Wertsicherung: Der Hauptmietzins wird nach dem von der [[ORGANISATION|Bundesanstalt Statistik Österreich]] verlautbarten Verbraucherpreisindex 2020 wertgesichert. Ausgangsbasis ist die für den Monat des Vertragsabschlusses verlautbarte Indexzahl.
 

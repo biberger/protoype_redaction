@@ -34,12 +34,18 @@ small synthetic training set gives it weak precision.
 ### Is the original training data open?
 
 - **GLiNER (v1):** yes. Pile-NER (`Universal-NER/Pile-NER-type`, English, labelled with ChatGPT, so
-  OpenAI terms apply), `urchade/pile-mistral-v0.1` (Apache-2.0) and the multilingual
+  OpenAI terms apply; **decision: not used**), `urchade/pile-mistral-v0.1` (Apache-2.0) and the multilingual
   `urchade/synthetic-pii-ner-mistral-v1` (en/fr/it/de/es, Apache-2.0).
 - **GLiNER2 / GLiNER2.5:** no. The paper describes the corpus but Fastino has not released it
   (their only Hub dataset is `fastino/fast-decisions`, for classification).
 
-We use the open GLiNER v1 data as **replay** to keep zero-shot ability.
+We use open GLiNER v1 data as **replay** to keep zero-shot ability. **Decision:** replay data is
+`urchade/pile-mistral-v0.1` and `urchade/synthetic-pii-ner-mistral-v1` only; `Universal-NER/Pile-NER-type`
+is not used (OpenAI-generated labels).
+
+**Decision:** Universal-NER/Pile-NER-type is not used. Replay data is `urchade/pile-mistral-v0.1`
+and `urchade/synthetic-pii-ner-mistral-v1` only. The name gazetteer is WGND 2.0 (WIPO World Gender
+Name Dictionary, Harvard Dataverse).
 
 ## Label schema
 
@@ -66,6 +72,17 @@ is not queried on LER sentences that contain a citation.
 Judges' names are published in Austrian RIS decisions, while parties' names are pseudonymised.
 Keeping `judge` and `lawyer` as role labels is what lets a redaction policy treat them differently.
 
+### legal_norm convention (settled)
+
+LER tags bare act names (2,920 of 20,446 norm spans: `Grundgesetz`, `FGO`, `SGB II`) and keeps a chain
+inside one act as one span (`§ 6c i. V. m. § 6b Abs. 2 EStG`) while splitting chains across acts
+(`§ 82 FGO` i. V. m. `§§ 404, 412 ZPO`). We adopt that convention: bare act names are `legal_norm`
+(`das [[legal_norm|ABGB]]`, `le [[legal_norm|Code civil]]`). Reasons: LER supplies ≈97% of the norm
+supervision; for redaction, recognising `DSGVO` or `ABGB` as a norm keeps them from being masked as
+organisations. Synthetic data was retagged (`legalner/acts.py`), and `--strict` now flags untagged act names
+and norm citations. Gazette references (BGBl., JO) stay untagged in synthetic data. LER sometimes includes them
+inside a span; that's accepted noise.
+
 ## Data
 
 | Source | Status | Lang / jurisdiction | Labels | License |
@@ -76,11 +93,10 @@ Keeping `judge` and `lawyer` as role labels is what lets a redaction policy trea
 | RIS OGD API (`data.bka.gv.at/ris/api/v2.6`) | planned | de / AT | pseudonymised placeholders mark PII | open government data |
 | EUR-Lex / CELLAR | planned, for unlabelled legal text and teacher pseudo-labels | de, fr / EU | — | reuse permitted with attribution |
 | MAPA `joelniklaus/mapa` | planned, evaluation only (12 docs per language) | de, fr + 19 more / EU | PERSON/ADDRESS/DATE/ORG/AMOUNT, fine sub-tags | CC-BY-4.0 |
-| GLiNER v1 replay (`urchade/pile-mistral-v0.1`, `urchade/synthetic-pii-ner-mistral-v1`) | planned | en + de/fr/it/es | open label set | Apache-2.0 |
+| GLiNER v1 replay (`urchade/pile-mistral-v0.1`, `urchade/synthetic-pii-ner-mistral-v1`; **not** Pile-NER) | planned | en + de/fr/it/es | open label set | Apache-2.0 |
 
 Avoided for a commercial product: Babelscape MultiNERD and WikiNEuRal (CC-BY-NC-SA) and the
-ai4privacy datasets (custom licence restricting commercial use). Pile-NER only if the OpenAI terms
-are acceptable.
+ai4privacy datasets (custom licence restricting commercial use). Pile-NER is not used (decision).
 
 ### Gazetteers (names, streets, companies)
 
@@ -88,8 +104,9 @@ Used to (1) fill RIS placeholders with realistic values, (2) swap entity surface
 source for diversity, and (3) seed the synthetic generators so names do not collapse onto a few
 LLM favourites. Planned sources, all with open licences:
 
-- names: Wikidata given and family names with country (CC0), Statistik Austria first-name statistics,
-  WIPO World Gender Name Dictionary (WGND 2.0, Harvard Dataverse; first names by country incl. Europe)
+- names: **decision: WGND 2.0** (WIPO World Gender Name Dictionary, Harvard Dataverse; first names by
+  country incl. Europe) is the name gazetteer. Wikidata family names (CC0) only as a supplement for surnames,
+  which WGND does not cover
 - addresses: BEV Adressregister (AT, CC-BY-4.0), Swiss official building address register,
   French Base Adresse Nationale, OpenStreetMap for DE (ODbL, attribution)
 - companies: GLEIF LEI records (CC0, covers AT/DE/CH/FR legal entities), Zefix (CH), SIRENE (FR)
@@ -161,11 +178,10 @@ Done on branch `ccr-40b02117-uffvk3`:
   CHE-UID, SIREN/SIRET, BE enterprise numbers (agents hand-formatted these)
 
 Next session, in order:
-1. Validate v2: `python -m legalner.tagged data/synthetic/raw_v2 -o data/canonical/synthetic.jsonl --strict`;
-   fix or drop failing files; audit a sample per batch against `GENERATION.md` and record the
-   per-label error rate.
-2. Run `python -m legalner.sources.ler`; inspect LER's `GS`/`RS` spans and settle the
-   `legal_norm` convention (bare act names or not), then adjust the mapping or the spec.
+1. ~~Validate and audit v2~~ done: `docs/audits/synthetic_v2_pilot.md` (4.8% span error rate in the
+   LLM-audited sample before fixes, mostly missed CH-fr norms; fixed, new lint rules, `legalner.audit`).
+2. ~~Convert LER, settle legal_norm~~ done: 53,384 / 6,666 / 6,673 sentences; bare act names are
+   `legal_norm` (see "legal_norm convention").
 3. Validate a build with GLiNER2's loader (`TrainingDataset.load(...).validate()`) and do a tiny
    CPU training run on `gliner2.5-multi-v1` (a few steps) to catch format problems before renting a GPU.
 4. Baselines: evaluate `gliner2.5-multi-v1` and `gliner2-privacy-filter-PII-multi` zero-shot on
@@ -177,8 +193,6 @@ Next session, in order:
 
 ## Open questions
 
-- Should `legal_norm` include bare act names ("das ABGB")? Our synthetic data says no; LER's
-  convention must be checked once its data can be downloaded, and the mapping adjusted.
 - Which labels does the redaction policy actually mask? (Probably all `pii` group labels plus
   `person` except `judge`.)
 - Swiss Italian and Romansh: out of scope for now.

@@ -4,7 +4,7 @@ jurisdiction: AT
 ---
 FIRMENBUCH                                                    REPUBLIK ÖSTERREICH
 
-Auszug mit aktuellen Daten zu [[KENNNUMMER|FN 532187h]]           abgefragt am [[DATUM|12.03.2025]]
+Auszug mit aktuellen Daten zu [[KENNNUMMER|FN 622533s]]           abgefragt am [[DATUM|12.03.2025]]
 Letzte Eintragung am [[DATUM|04.02.2025]] mit der Zahl 18
 Die Einsicht in das Urkundenarchiv ist gebührenpflichtig.
 Zuständiges Gericht: [[GERICHT|Landesgericht Innsbruck]]
@@ -59,7 +59,7 @@ GESELLSCHAFTER/IN                                   STAMMEINLAGE    HIEVON GELEI
 B [[PERSON|Mag. Christina Obholzer]]                     EUR 17.500         EUR 17.500
   geb. [[DATUM|22.08.1979]]
 C [[ORGANISATION|Rangger Privatstiftung]]                     EUR 17.500         EUR 17.500
-  [[KENNNUMMER|FN 410556t]]
+  [[KENNNUMMER|FN 319919w]]
 
 PERSONEN
 A [[PERSON|Mag. Christina Obholzer]], geb. [[DATUM|22.08.1979]]

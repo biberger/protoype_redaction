@@ -37,7 +37,7 @@ II. Kaufgegenstand und Kaufpreis
 
 (3) Der Kaufpreis ist wie folgt fällig: 20 % des Kaufpreises, also 137.000,00 €, sind nach Eingang der Vormerkung im Grundbuch und nach Vorliegen der Unbedenklichkeitsbescheinigung des Finanzamts zur Zahlung fällig. Der Restbetrag ist innerhalb von zwei Wochen nach Eintragung der Eigentumsänderung zu zahlen.
 
-(4) Die Zahlung erfolgt auf das Konto der Verkäufer bei der [[organization|Taunusbank eG]], [[bank_account|IBAN DE87 7128 8299 6411 2512 37]]. Eine Zahlung an den Notar als Treuhänder ist nicht vereinbart.
+(4) Die Zahlung erfolgt auf das Konto der Verkäufer bei der [[organization|Taunusbank eG]], IBAN [[bank_account|DE87 7128 8299 6411 2512 37]]. Eine Zahlung an den Notar als Treuhänder ist nicht vereinbart.
 
 (5) Die Käufer haben dem Notar erklärt, dass der Kaufpreis teilweise durch ein Darlehen der [[organization|Taunusbank eG]] finanziert wird. Die Bestellung der hierfür erforderlichen Grundschuld erfolgt in gesonderter Urkunde. Die Verkäufer erteilen hierzu schon jetzt ihre Zustimmung zur Eintragung der Grundschuld im Rang nach der Auflassungsvormerkung, soweit der Kaufpreis dadurch nicht gefährdet wird.
 

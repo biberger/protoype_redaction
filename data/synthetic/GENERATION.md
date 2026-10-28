@@ -39,7 +39,7 @@ die klagende Partei [[person|Mag. Johanna Steinberger]], vertreten durch [[lawye
 | location | city, municipality, district, region, country, nationality country ("StA. Syrien") not inside another span | `Linz`, `Tirol`, `Syrien`, `canton de Vaud` |
 | date | day-precise date in any spelling | `12.03.2025`, `5. Juli 2024`, `le 3 mars 2023` |
 | case_number | case reference of court, authority, police, notary, land register | `3 Ob 123/24k`, `W123 2245678-1/12E`, `VI ZR 123/22`, `4A_123/2024`, `n° 21-12.345` |
-| legal_norm | statute citation with §, Art., TP etc. incl. the act abbreviation; each citation in a chain separately | `§ 879 Abs 3 ABGB`, `Art. 8 EMRK`, `article 1240 du Code civil` |
+| legal_norm | statute citation with §, Art., TP etc. incl. the act abbreviation, and bare names of acts (abbreviated or long); each citation in a chain separately | `§ 879 Abs 3 ABGB`, `Art. 8 EMRK`, `article 1240 du Code civil`, `ABGB`, `DSGVO`, `Code civil` |
 | bank_account | IBAN, BIC, account number | `AT48 4734 9698 8861 5213` |
 | social_security_number | SV-Nummer, AHV-Nr., NIR, Rentenversicherungsnummer | `5555 220480`, `756.9227.7917.00` |
 | tax_id | Steuernummer, UID/USt-IdNr., numéro de TVA | `ATU39286303` |
@@ -51,7 +51,7 @@ die klagende Partei [[person|Mag. Johanna Steinberger]], vertreten durch [[lawye
 | phone_number | phone or fax | `+43 664 1288 471` |
 | email | e-mail address | `kanzlei@huber-law.at` |
 
-Do **not** tag: bare act names without § or Art. ("das ABGB", "le Code civil"), BGBl./JO references,
+Do **not** tag: BGBl./JO references,
 RIS Rechtssatz numbers, URLs, amounts, months or years without a day, generic court words
 ("Erstgericht", "le tribunal") without a place, adjectives ("Wiener").
 
@@ -62,8 +62,11 @@ RIS Rechtssatz numbers, URLs, amounts, months or years without a day, generic co
 - A judge or lawyer keeps the role label at every mention in the document (`[[judge|Taufner]]`).
 - No nesting: "Kanzlei Dr. Hutterer & Partner Rechtsanwälte GmbH" and "Linz Textil GmbH" are one
   organization span; "Landesgericht Linz" is one court span.
-- Chains: `[[legal_norm|§ 879 Abs 3 ABGB]] iVm [[legal_norm|§ 6 Abs 1 Z 1 KSchG]]`. A list inside one act
-  stays one span: `§§ 41, 50 ZPO`.
+- Chains: `[[legal_norm|§ 879 Abs 3 ABGB]] iVm [[legal_norm|§ 6 Abs 1 Z 1 KSchG]]`. A list or chain inside
+  one act stays one span: `§§ 41, 50 ZPO`, `§ 6c iVm § 6b Abs 2 EStG` (same convention as LER).
+- Bare act names are legal_norm: `das [[legal_norm|ABGB]]`, `im Vollanwendungsbereich des [[legal_norm|MRG]]`,
+  `le [[legal_norm|Code civil]]`, `der [[legal_norm|Datenschutz-Grundverordnung]]`. Generic words ("das Gesetz",
+  "la loi") are not. `--strict` flags untagged act names that the document cites elsewhere.
 - In a citation of a decision, tag the parts: `[[court|OGH]] [[date|12.03.2024]], [[case_number|5 Ob 87/24m]]`.
 - Pseudonymised placeholders are tagged with the label of what they replace (`[[address|*****]]`).
 - OCR noise stays inside spans exactly as written (`Hu-\nmer`, `46OO Wels`).
@@ -82,6 +85,13 @@ RIS Rechtssatz numbers, URLs, amounts, months or years without a day, generic co
   surname-only coreference, persons in genitive ("Steinbergers Antrag"), long chained citations,
   tables as text, lists of parties, 1 in 10 documents RIS-pseudonymised, 1 in 10 with OCR noise.
 - Identifiers with valid check digits: use `python3 -m legalner.fake_ids all` (or `iban AT 3`,
-  `svnr`, `fn`, `ahv`, `nir`, `uid_at`) instead of inventing numbers.
+  `svnr`, `fn`, `uid_at`, `ust_idnr_de`, `steuernummer_de`, `rvnr`, `hrb`, `ahv`, `che_uid`, `nir`,
+  `siren`, `siret`, `tva_fr`, `be_enterprise`) instead of inventing numbers. `python -m legalner.audit`
+  rejects wrong check digits.
+- Internal consistency (the pilot audit found ~3 problems per document): dates in order (no statement
+  describing later events), amounts that add up, court competence and district matching the places
+  (Mödling → LG Wiener Neustadt), OGH senate matching the subject (5 Ob WEG/MRG, 10 Ob family, 3 Ob
+  enforcement), ordinary vs. außerordentliche Revision used consistently, current legal forms (BE: SRL, not SPRL),
+  no lawyer contact data at the end of judgments, gender of a person consistent across mentions.
 - Real courts, authorities, places and statutes are fine. Persons, companies and case facts must be
   invented; do not reproduce real decisions or real people.

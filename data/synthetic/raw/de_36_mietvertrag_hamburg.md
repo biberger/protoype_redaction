@@ -38,7 +38,7 @@ Das Mietverhältnis beginnt am [[DATUM|01.08.2025]] und läuft auf unbestimmte Z
 
 (3) Die Heizkosten werden nach der Heizkostenverordnung abgerechnet; Vorauszahlung monatlich 110,00 €.
 
-(4) Gesamtbetrag monatlich: 1.667,00 €, zahlbar im Voraus bis zum dritten Werktag eines Monats auf das Konto der Vermieterin bei der [[ORGANISATION|Hamburger Hafenbank eG]], IBAN [[KENNNUMMER|DE31 2005 0550 1288 4471 20]].
+(4) Gesamtbetrag monatlich: 1.667,00 €, zahlbar im Voraus bis zum dritten Werktag eines Monats auf das Konto der Vermieterin bei der [[ORGANISATION|Hamburger Hafenbank eG]], IBAN [[KENNNUMMER|AT88 9091 1114 6569 7778]].
 
 § 4 Mietsicherheit
 

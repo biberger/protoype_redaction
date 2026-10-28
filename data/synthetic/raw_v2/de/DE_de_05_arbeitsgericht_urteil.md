@@ -45,7 +45,7 @@ Die Parteien streiten über die Wirksamkeit einer ordentlichen betriebsbedingten
 
 Die am [[date|22. August 1979]] geborene Klägerin ist seit dem [[date|1. April 2015]] bei der Beklagten als Disponentin im Bereich Speditionsplanung beschäftigt. Die Beklagte betreibt in [[location|Pliening]] ein Logistikzentrum und beschäftigt im Betrieb regelmäßig mehr als zehn Arbeitnehmer. Die Beklagte ist im Handelsregister des [[court|Amtsgerichts München]] unter [[company_register_number|HRA 88421]] eingetragen.
 
-Die Klägerin erzielte zuletzt ein monatliches Bruttoentgelt von 3.420,00 €. Ihre Rentenversicherungsnummer lautet [[social_security_number|15 220879 L 014]]. Die Klägerin ist verheiratet und Mutter eines Kindes, das im Jahr 2025 neun Jahre alt geworden ist.
+Die Klägerin erzielte zuletzt ein monatliches Bruttoentgelt von 3.420,00 €. Ihre Rentenversicherungsnummer lautet [[social_security_number|15 220879 L 019]]. Die Klägerin ist verheiratet und Mutter eines Kindes, das im Jahr 2025 neun Jahre alt geworden ist.
 
 Mit Schreiben vom [[date|28. Februar 2025]], das der Klägerin am selben Tag zuging, kündigte die Beklagte das Arbeitsverhältnis ordentlich zum [[date|31. Mai 2025]]. Als Grund gab sie die Schließung des Standorts der Abteilung Speditionsplanung und die Umstrukturierung der Disposition auf ein zentrales System an. Der Betriebsrat war zuvor mit Schreiben vom [[date|17. Februar 2025]] angehört worden. Er widersprach der Kündigung mit Schreiben vom [[date|24. Februar 2025]] nicht ausdrücklich.
 

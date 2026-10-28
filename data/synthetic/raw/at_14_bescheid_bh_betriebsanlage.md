@@ -20,7 +20,7 @@ Betrifft
 
 B e s c h e i d
 
-Die [[ORGANISATION|Bezirkshauptmannschaft St. Pölten]] erteilt der [[ORGANISATION|Gasthaus Zum Goldenen Hirschen Wimmer OG]], [[ADRESSE|Rathausplatz 6, 3130 Herzogenburg]], [[KENNNUMMER|FN 455901k]], nach Maßgabe des Ergebnisses der mündlichen Verhandlung vom [[DATUM|29. April 2025]] und der einen wesentlichen Bestandteil dieses Bescheides bildenden, mit einem Genehmigungsvermerk versehenen Projektsunterlagen die
+Die [[ORGANISATION|Bezirkshauptmannschaft St. Pölten]] erteilt der [[ORGANISATION|Gasthaus Zum Goldenen Hirschen Wimmer OG]], [[ADRESSE|Rathausplatz 6, 3130 Herzogenburg]], [[KENNNUMMER|FN 21584t]], nach Maßgabe des Ergebnisses der mündlichen Verhandlung vom [[DATUM|29. April 2025]] und der einen wesentlichen Bestandteil dieses Bescheides bildenden, mit einem Genehmigungsvermerk versehenen Projektsunterlagen die
 
 gewerbebehördliche Genehmigung
 
@@ -42,7 +42,7 @@ Verwaltungsabgabe gemäß [[GESETZ|Tarifpost 132 der Bundesverwaltungsabgabenver
 Bundesgebühr gemäß [[GESETZ|§ 14 TP 6 GebG]]                         € 43,30
 gesamt                                                              € 326,90
 
-Der Betrag ist binnen 2 Wochen ab Zustellung mittels beiliegendem Zahlschein auf das Konto des [[ORGANISATION|Landes Niederösterreich]], IBAN [[KENNNUMMER|AT85 3200 0000 0001 2591]], einzuzahlen.
+Der Betrag ist binnen 2 Wochen ab Zustellung mittels beiliegendem Zahlschein auf das Konto des [[ORGANISATION|Landes Niederösterreich]], IBAN [[KENNNUMMER|AT12 3269 9102 3740 9546]], einzuzahlen.
 
 B e g r ü n d u n g
 

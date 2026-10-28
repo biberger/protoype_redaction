@@ -47,7 +47,7 @@ Einlage umgeschrieben gemäß Verordnung BGBl. II, 143/2012 am [[DATUM|07.05.201
     c [[GESCHAEFTSZAHL|2231/2019]] Eigentümerpartnerschaft gem [[GESETZ|§ 13 WEG 2002]]
       ([[PERSON|Popescu Ana-Maria]] / [[PERSON|Popescu Florian]])
    15 ANTEIL: 64/2412
-      [[ORGANISATION|Wohnbau Kleinmünchen Errichtungs GmbH]] ([[KENNNUMMER|FN 228817s]])
+      [[ORGANISATION|Wohnbau Kleinmünchen Errichtungs GmbH]] ([[KENNNUMMER|FN 1493x]])
       ADR: [[ADRESSE|Hafenstraße 47-51, Linz   4020]]
     a [[GESCHAEFTSZAHL|1987/2006]] Wohnungseigentum an Geschäftslokal G 1
 ***************************  C  *********************************************
@@ -60,7 +60,7 @@ Einlage umgeschrieben gemäß Verordnung BGBl. II, 143/2012 am [[DATUM|07.05.201
         a [[GESCHAEFTSZAHL|4418/2024]] Beschluss [[DATUM|2024-09-19]]
           PFANDRECHT                                vollstr EUR 14.382,66
           samt 4 % Z seit [[DATUM|2024-03-01]], Kosten EUR 1.204,30 für
-          [[ORGANISATION|Leasing Mühlviertel GmbH]] ([[KENNNUMMER|FN 140032d]])
+          [[ORGANISATION|Leasing Mühlviertel GmbH]] ([[KENNNUMMER|FN 283900a]])
           ([[GESCHAEFTSZAHL|12 E 3127/24p]])
         b [[GESCHAEFTSZAHL|4418/2024]] Anmerkung der Zwangsversteigerung
           ([[GESCHAEFTSZAHL|12 E 3127/24p]])

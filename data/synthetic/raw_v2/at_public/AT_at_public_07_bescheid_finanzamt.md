@@ -21,7 +21,7 @@ Geschäftszeichen: [[case_number|RK/7100-0312/2025]]
 
 B E S C H E I D
 
-Umsatzsteuer 2024 und Haftung gemäß § 9 BAO
+Umsatzsteuer 2024 und Haftung gemäß [[legal_norm|§ 9 BAO]]
 
 Das [[organization|Finanzamt Graz-Stadt]] hat gemäß [[legal_norm|§ 201 BAO]] und [[legal_norm|§ 21 Abs 1 UStG 1994]] die Umsatzsteuer für das Kalenderjahr 2024 wie folgt festgesetzt:
 

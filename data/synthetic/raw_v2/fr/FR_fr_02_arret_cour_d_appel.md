@@ -33,7 +33,7 @@ Faits, procédure et prétentions
 
 Par acte sous seing privé du [[date|1er mars 2016]], la SCI [[organization|Les Oliviers du Lez]] a donné à bail à la SARL [[organization|Boulangerie Dupuy Frères]] un local commercial à usage de boulangerie-pâtisserie situé [[address|41 rue des Carmes, 34000 Montpellier]], pour une durée de neuf ans à compter du [[date|1er avril 2016]]. Le bail contenait une clause résolutoire de plein droit, en cas de défaut de paiement d'un seul terme de loyer à son échéance, un mois après un commandement demeuré infructueux.
 
-Le [[date|3 août 2021]], la bailleresse a fait délivrer à la locataire un commandement de payer visant la clause résolutoire, pour un arriéré de loyers et de charges. Ce commandement a été signifié par la SCP [[organization|Vidal et Fontaine, huissiers de justice]], à [[location|Montpellier]].
+Le [[date|3 août 2021]], la bailleresse a fait délivrer à la locataire un commandement de payer visant la clause résolutoire, pour un arriéré de loyers et de charges. Ce commandement a été signifié par la SCP [[organization|Vidal et Fontaine]], huissiers de justice, à [[location|Montpellier]].
 
 Par acte du [[date|14 septembre 2021]], la SCI a assigné la locataire devant le [[court|tribunal de commerce de Montpellier]] aux fins de constat de l'acquisition de la clause résolutoire, d'expulsion et de condamnation au paiement d'une provision.
 

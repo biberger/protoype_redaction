@@ -45,7 +45,7 @@ Ist nur ein Geschäftsführer bestellt, vertritt er allein. Sind mehrere Geschä
 Gesellschaft mit beschränkter Haftung. Der Gesellschaftsvertrag ist am [[date|14. Mai 2014]] festgestellt und zuletzt am [[date|9. Juni 2022]] geändert worden.
 
 10. Steuerliche Angaben:
-Steuernummer [[tax_id|25/214/08873]], Umsatzsteuer-Identifikationsnummer [[tax_id|DE298417635]].
+Steuernummer [[tax_id|25/214/08873]], Umsatzsteuer-Identifikationsnummer [[tax_id|DE921993517]].
 
 11. Veröffentlichungen:
 Bekanntmachungen erfolgen im elektronischen Bundesanzeiger. Der Abruf dieses Ausdrucks ist gebührenpflichtig.

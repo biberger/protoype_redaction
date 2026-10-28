@@ -28,7 +28,7 @@ gegen
 
 Beklagte, vertreten durch [[lawyer|Dr. Ilona Szabó]], Rechtsanwältin
 
-betreffend Verantwortlichkeit von Verwaltungsratsmitgliedern (Art. 754 OR)
+betreffend Verantwortlichkeit von Verwaltungsratsmitgliedern ([[legal_norm|Art. 754 OR]])
 
 Rechtsbegehren und Prozessgeschichte
 

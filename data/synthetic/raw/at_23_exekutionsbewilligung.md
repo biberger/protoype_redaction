@@ -52,7 +52,7 @@ Der Drittschuldnerin wird verboten, an die verpflichtete Partei zu zahlen. Der v
 
 Der Drittschuldnerin wird aufgetragen, sich binnen vier Wochen gemäß [[GESETZ|§ 301 EO]] zu erklären (Drittschuldnererklärung) und den gepfändeten Betrag nach Maßgabe der [[GESETZ|§§ 291a ff EO]] (Existenzminimum) einzubehalten.
 
-Sozialversicherungsnummer der verpflichteten Partei laut Abfrage: [[KENNNUMMER|3418 110279]]
+Sozialversicherungsnummer der verpflichteten Partei laut Abfrage: [[KENNNUMMER|5902 110279]]
 
 Hinweise für die verpflichtete Partei:
 Sie können gegen diesen Beschluss binnen 14 Tagen ab Zustellung Rekurs erheben. Einwendungen gegen den Anspruch sind mit Klage geltend zu machen ([[GESETZ|§ 35 EO]]). Sie haben das Recht, eine Schuldenberatung in Anspruch zu nehmen; die [[ORGANISATION|Schuldnerhilfe Oberösterreich]] ist unter [[KONTAKT|0732 / 77 77 34]] erreichbar.

@@ -15,7 +15,7 @@ Bescheid
 
 SPRUCH
 
-Die Datenschutzbehörde entscheidet über die Datenschutzbeschwerde der [[person|Mag. Nadine Kovács]], wohnhaft in [[address|Lerchenfelder Gürtel 61/9, 1160 Wien]], vertreten durch [[lawyer|Mag. Dr. Felix Auinger]], Rechtsanwalt in [[location|Wien]], vom [[date|20.12.2024]] gegen die [[organization|Kolar Versicherungsmakler GmbH]], [[address|Schottenring 12/3, 1010 Wien]], FN [[company_register_number|FN 514077x]], wegen Verletzung im Recht auf Auskunft wie folgt:
+Die Datenschutzbehörde entscheidet über die Datenschutzbeschwerde der [[person|Mag. Nadine Kovács]], wohnhaft in [[address|Lerchenfelder Gürtel 61/9, 1160 Wien]], vertreten durch [[lawyer|Mag. Dr. Felix Auinger]], Rechtsanwalt in [[location|Wien]], vom [[date|20.12.2024]] gegen die [[organization|Kolar Versicherungsmakler GmbH]], [[address|Schottenring 12/3, 1010 Wien]], [[company_register_number|FN FN 514077x]], wegen Verletzung im Recht auf Auskunft wie folgt:
 
 1. Die Beschwerde wird gemäß [[legal_norm|§ 24 Abs 1 DSG]] iVm [[legal_norm|Art. 15 Abs 1 DSGVO]] teilweise als berechtigt erkannt. Die Beschwerdegegnerin hat die Beschwerdeführerin dadurch in ihrem Recht auf Auskunft verletzt, dass sie ihr die Auskunft über die verarbeiteten personenbezogenen Daten nicht innerhalb der Frist des [[legal_norm|Art. 12 Abs 3 DSGVO]] erteilt hat.
 
@@ -39,7 +39,7 @@ E. Die Beschwerdegegnerin bestritt in ihrer Stellungnahme vom [[date|14.01.2025]
 
 II. Beweiswürdigung
 
-F. Die Datenschutzbehörde hat Beweis erhoben durch Einsicht in die vorgelegten E-Mails, den Schriftverkehr und die Stellungnahmen der Parteien. Das Schreiben vom [[date|02.12.2024]] ist im Akt in Kopie enthalten und trägt die Absenderangabe der Beschwerdeführerin sowie die ausdrückliche Bezeichnung „Auskunftsbegehren gemäß Art. 15 DSGVO“.
+F. Die Datenschutzbehörde hat Beweis erhoben durch Einsicht in die vorgelegten E-Mails, den Schriftverkehr und die Stellungnahmen der Parteien. Das Schreiben vom [[date|02.12.2024]] ist im Akt in Kopie enthalten und trägt die Absenderangabe der Beschwerdeführerin sowie die ausdrückliche Bezeichnung „Auskunftsbegehren gemäß [[legal_norm|Art. 15 DSGVO]]“.
 
 G. Die Behauptung der Beschwerdegegnerin, es fehle ein Identitätsnachweis, ist nicht zutreffend. Die Beschwerdeführerin hat ihre Identität durch die Angabe der Kundennummer und der Geburtsdaten nachgewiesen. Ein Identitätsnachweis durch Ausweiskopie war im vorliegenden Fall nicht erforderlich, da die Beschwerdegegnerin die Daten ohnehin mit der Kundenkartei abgleichen konnte.
 
@@ -53,7 +53,7 @@ J. Die Beschwerdegegnerin hat die Frist nicht eingehalten. Die Rückfrage vom [[
 
 K. Hinsichtlich der Gesprächsnotizen aus dem Jahr 2021 ist festzuhalten, dass das Recht auf Berichtigung oder Löschung nach [[legal_norm|Art. 16 DSGVO]] nur bei unrichtigen Daten besteht. Die Beschwerdeführerin hat die Unrichtigkeit nicht substantiiert dargelegt. Das Mehrbegehren war daher abzuweisen.
 
-L. Der Spruch über die Kosten entfällt, da Verfahrenskosten im Verfahren nach dem DSG nicht zu ersetzen sind.
+L. Der Spruch über die Kosten entfällt, da Verfahrenskosten im Verfahren nach dem [[legal_norm|DSG]] nicht zu ersetzen sind.
 
 RECHTSMITTELBELEHRUNG
 

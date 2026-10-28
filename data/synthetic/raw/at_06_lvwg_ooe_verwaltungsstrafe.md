@@ -12,7 +12,7 @@ E-Mail [[KONTAKT|post@lvwg-ooe.gv.at]]
 
 IM NAMEN DER REPUBLIK
 
-Das [[GERICHT|Landesverwaltungsgericht Oberösterreich]] hat durch seinen Richter [[PERSON|Mag. Dr. Bernhard Mayrhofer]] über die Beschwerde des [[PERSON|Linz Florian]], geb. [[DATUM|08.09.1990]], [[ADRESSE|Stelzhamerstraße 9, 4600 Wels]], gegen das Straferkenntnis der [[ORGANISATION|Bezirkshauptmannschaft Wels-Land]] vom [[DATUM|2. April 2025]], [[GESCHAEFTSZAHL|VerkR96-21877-2025]], wegen einer Verwaltungsübertretung nach der Straßenverkehrsordnung 1960 (StVO) nach Durchführung einer öffentlichen mündlichen Verhandlung am [[DATUM|3. Juli 2025]]
+Das [[GERICHT|Landesverwaltungsgericht Oberösterreich]] hat durch seinen Richter [[PERSON|Mag. Dr. Bernhard Mayrhofer]] über die Beschwerde des [[PERSON|Linz Florian]], geb. [[DATUM|08.09.1990]], [[ADRESSE|Stelzhamerstraße 9, 4600 Wels]], gegen das Straferkenntnis der [[ORGANISATION|Bezirkshauptmannschaft Wels-Land]] vom [[DATUM|2. April 2025]], [[GESCHAEFTSZAHL|VerkR96-21877-2025]], wegen einer Verwaltungsübertretung nach der [[GESETZ|Straßenverkehrsordnung 1960]] ([[GESETZ|StVO]]) nach Durchführung einer öffentlichen mündlichen Verhandlung am [[DATUM|3. Juli 2025]]
 
 zu Recht e r k a n n t :
 
