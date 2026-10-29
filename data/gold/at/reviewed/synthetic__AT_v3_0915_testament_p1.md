@@ -3,7 +3,7 @@ doc_type: testament
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0915_testament#1
-review: agent
+review: convention-pass
 ---
 Mir stehen Forderungen gegen die [[organization|Goldschmidt Bau OG]] ([[company_register_number|FN 27999a]], UID [[tax_id|ATU88869779]]) aus dem Umbau des Dachgeschosses zu. Diese Forderung soll ausschliesslich von meiner Erbin eingezogen werden. Die Installationsarbeiten im Haus hat die [[organization|Sobotka Installations GmbH]] ([[company_register_number|FN 104238t]], UID [[tax_id|ATU51571534]]) ausgeführt; ein allfälliges Guthaben daraus steht ebenfalls der Erbin zu.
 

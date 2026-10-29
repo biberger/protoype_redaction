@@ -3,7 +3,7 @@ doc_type: bg_beschluss_verlassenschaft
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0991_bg_beschluss_verlassenschaft#1
-review: agent
+review: convention-pass
 ---
 Der Erbe [[person|Herfried Sieberer]] wurde im Verfahren durch [[lawyer|Ing. Ede Schramm]], Rechtsanwalt in [[location|Salzburg]], vertreten. Die Erbin [[person|DI Notburga Frank]] vertrat sich durch [[lawyer|Farnaz Gholami]], Rechtsanwältin in [[location|Salzburg]]. Mit Verfügung vom [[date|9. Mai 2026]] bestimmte die Richterin [[judge|Ing. Siegrid Bilgeri]] die Frist zur Errichtung des Inventars bis zum [[date|30. Juni 2026]].
 

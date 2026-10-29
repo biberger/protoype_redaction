@@ -3,7 +3,7 @@ doc_type: asg_urteil
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0588_asg_urteil#6
-review: agent
+review: convention-pass
 ---
 Die Entlassung stellt zudem einen Eingriff in das Dienstverhältnis dar, der eine vorherige Anhörung erfordert hätte. Eine solche Anhörung ist nicht erfolgt, obwohl die Kläger im Betrieb erreichbar waren. Auch dies spricht gegen die Rechtfertigung der Maßnahme.
 

@@ -3,7 +3,7 @@ doc_type: arztbrief
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0201_arztbrief#2
-review: agent
+review: convention-pass
 ---
 Die Koronarangiographie wurde am [[date|13.09.2026]] durch [[person|Dr. med. Maria Marcelina Arce]] durchgeführt. Es zeigte sich eine hochgradige Stenose des Ramus interventricularis anterior, die mit einem medikamentbeschichteten Stent versorgt wurde. Die Intervention verlief komplikationslos. Eine Nachblutung oder Gefäßverletzung trat nicht auf.
 

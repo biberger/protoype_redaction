@@ -3,7 +3,7 @@ doc_type: protokoll_tagsatzung
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0171_protokoll_tagsatzung#3
-review: agent
+review: convention-pass
 ---
 Um 10:45 Uhr wird die Verhandlung vertagt. Die Parteien erhalten folgende Aufträge:
 

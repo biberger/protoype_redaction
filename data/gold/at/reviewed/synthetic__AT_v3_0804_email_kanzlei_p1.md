@@ -3,7 +3,7 @@ doc_type: email_kanzlei
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0804_email_kanzlei#1
-review: agent
+review: convention-pass
 ---
 Frau [[person|Huber]] bat um die Auflistung der Dienstreisen. Ich habe die Fahrten nach [[location|Wien]] und [[location|Bratislava]] zusammengestellt; die Kilometergelder wurden bereits verbucht.
 

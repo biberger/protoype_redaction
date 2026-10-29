@@ -3,7 +3,7 @@ doc_type: gesellschaftsvertrag
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0992_gesellschaftsvertrag#2
-review: agent
+review: convention-pass
 ---
 § 5 Gesellschafterversammlung
 

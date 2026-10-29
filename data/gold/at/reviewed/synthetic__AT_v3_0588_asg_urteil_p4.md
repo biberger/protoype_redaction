@@ -3,7 +3,7 @@ doc_type: asg_urteil
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0588_asg_urteil#4
-review: agent
+review: convention-pass
 ---
 Gemäß [[legal_norm|§ 27 Z 1 AngG]] kann der Dienstgeber das Dienstverhältnis vorzeitig auflösen, wenn der Angestellte die Dienstleistung beharrlich verweigert oder ohne Grund verlässt. Eine Entlassung setzt eine Pflichtverletzung von erheblichem Gewicht voraus, die auch bei Fortsetzung des Dienstverhältnisses unzumutbar macht.
 

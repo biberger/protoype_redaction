@@ -3,7 +3,7 @@ doc_type: bg_beschluss_exekution
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0052_bg_beschluss_exekution#0
-review: agent
+review: convention-pass
 ---
 [[court|Bezirksgericht Ried im Innkreis]] ([[court|BG Ried im Innkreis]])
 

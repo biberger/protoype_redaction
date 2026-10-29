@@ -3,7 +3,7 @@ doc_type: testament
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0838_testament#0
-review: agent
+review: convention-pass
 ---
 LETZTWILLIGE VERFÜGUNG
 

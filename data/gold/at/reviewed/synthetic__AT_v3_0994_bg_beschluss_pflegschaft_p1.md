@@ -3,7 +3,7 @@ doc_type: bg_beschluss_pflegschaft
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0994_bg_beschluss_pflegschaft#1
-review: agent
+review: convention-pass
 ---
 Der Vater ist bei der [[organization|Noyan AG]] ([[company_register_number|FN 52131p]], UID-Nummer [[tax_id|ATU09008045]]) beschäftigt. Die Mutter arbeitet bei der [[organization|Haderer AG]] ([[company_register_number|FN 439370h]], UID-Nummer [[tax_id|ATU14184782]]). Das Einkommen des Vaters wurde nach Vorlage der Lohnzettel festgestellt.
 

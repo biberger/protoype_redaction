@@ -3,7 +3,7 @@ doc_type: polizeiliche_anzeige
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0679_polizeiliche_anzeige#0
-review: agent
+review: convention-pass
 ---
 [[organization|Polizeiinspektion Melk]]
 [[location|Melk]], am [[date|14. Oktober 2026]]
@@ -21,7 +21,7 @@ Betreff: Verdacht des schweren Betrugs ([[legal_norm|§ 146 StGB]] iVm [[legal_n
 Angezeigte Person: [[person|BSc Xaveria Weis]], wohnhaft [[address|Siedlungsweg 11/1,
 3643 Maria Laach am Jauerling]], Versicherungsnummer [[social_security_number|1186 271048]]
 
-Die [[organization|Polizeiinspektion Melk]] erstattet Anzeige gegen die oben genannte Person. Die Ermittlungen wurden auf Grund einer Sachverhaltsmitteilung des bevollmächtigten Vertreters der Anzeigenerstatterin, [[lawyer|BSc Anselm Strobel]], eingeleitet.
+Die [[organization|Polizeiinspektion Melk]] erstattet Anzeige gegen die oben genannte Person. Die Ermittlungen wurden auf Grund einer Sachverhaltsmitteilung des bevollmächtigten Vertreters der Anzeigenerstatterin, [[person|BSc Anselm Strobel]], eingeleitet.
 
 I. Sachverhalt
 

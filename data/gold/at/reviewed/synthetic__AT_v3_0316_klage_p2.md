@@ -3,7 +3,7 @@ doc_type: klage
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0316_klage#2
-review: agent
+review: convention-pass
 ---
 1. Urkunden: Darlehensvertrag vom [[date|12. Juni 2025]], Bürgschaftserklärung und Kontoauszüge zur IBAN [[bank_account|AT33 9029 7332 5941 3712]];
 2. Zeugnis des [[person|Mag. Kowarik]];

@@ -3,7 +3,7 @@ doc_type: mietvertrag
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0132_mietvertrag#0
-review: agent
+review: convention-pass
 ---
 MIETVERTRAG
 

@@ -3,7 +3,7 @@ doc_type: ogh_urteil
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0150_ogh_urteil#1
-review: agent
+review: convention-pass
 ---
 Mit Schreiben vom [[date|14. Jänner 2024]] zeigte die Klägerin Feuchtigkeitsschäden an den Außenwänden und Schimmelbildung im Schlafzimmer an. Die beklagte Partei ließ die Schäden nur teilweise beheben. Die Klägerin minderte daraufhin den Hauptmietzins ab dem Monat Februar 2024 um 30 %. Die Minderung kündigte sie der beklagten Partei mit Schreiben vom [[date|26. Jänner 2024]] an. Die Beklagte widersprach der Minderung nicht ausdrücklich, zahlte jedoch in den folgenden Monaten nur den geminderten Betrag ohne Vorbehalt.
 

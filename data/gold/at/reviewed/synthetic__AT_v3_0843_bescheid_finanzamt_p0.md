@@ -3,7 +3,7 @@ doc_type: bescheid_finanzamt
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0843_bescheid_finanzamt#0
-review: agent
+review: convention-pass
 ---
 [[organization|Finanzamt Gmunden Vöcklabruck]]
 [[address|Kammerhofgasse 9, 4810 Gmunden]]

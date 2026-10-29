@@ -3,7 +3,7 @@ doc_type: bescheid_finanzamt
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0843_bescheid_finanzamt#1
-review: agent
+review: convention-pass
 ---
 Die Feststellungen beruhen auf der Feststellungserklärung, den Buchhaltungsunterlagen und der Vorhaltsbeantwortung vom [[date|15.04.2025]]. Die Angaben der Steuerberaterin [[person|Hofer-Lenzing]] sind schlüssig und stehen mit dem Jahresabschluss im Einklang.
 

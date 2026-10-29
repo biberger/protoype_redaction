@@ -3,7 +3,7 @@ doc_type: lvwg_erkenntnis
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0563_lvwg_erkenntnis#5
-review: agent
+review: convention-pass
 ---
 6. Die Revision ist gemäß [[legal_norm|Art. 133 Abs 4 B-VG]] nicht zulässig, weil die Entscheidung von der Rechtsprechung des [[court|Verwaltungsgerichtshofes]] nicht abweicht.
 

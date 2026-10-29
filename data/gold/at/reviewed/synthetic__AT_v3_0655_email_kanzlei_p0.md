@@ -3,7 +3,7 @@ doc_type: email_kanzlei
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0655_email_kanzlei#0
-review: agent
+review: convention-pass
 ---
 Betreff: [[organization|Schnabl GmbH]], offene Forderungen aus dem Rahmenvertrag vom [[date|3. März 2025]], zweite Mahnung
 

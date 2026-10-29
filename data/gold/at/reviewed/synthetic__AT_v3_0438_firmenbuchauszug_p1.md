@@ -3,7 +3,7 @@ doc_type: firmenbuchauszug
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0438_firmenbuchauszug#1
-review: agent
+review: convention-pass
 ---
 - [[person|V***** A*****, MBA]], Stammeinlage 9.000 EUR, eingetragen am [[date|28.02.2024]];
 - [[person|Dr. C***** K*****]], Stammeinlage 13.000 EUR, eingetragen am [[date|28.02.2024]];
@@ -13,7 +13,7 @@ Zustellbevollmächtigter:
 
 [[lawyer|R***** K*****]], Rechtsanwalt, mit Kanzleianschrift [[address|Plonergasse 14, 8994 Pichl-Kainisch]], eingetragen am [[date|22.08.2025]].
 
-Die Gesellschaft vertritt in gerichtlichen Verfahren vor dem [[court|Landesgericht Krems an der Donau]] der Rechtsanwalt [[lawyer|C***** P*****]]; mit Schriftsatz vom [[date|10.09.2025]] wurde die Vertretung durch [[lawyer|V***** L*****]] übernommen.
+Die Gesellschaft vertritt in gerichtlichen Verfahren vor dem [[court|Landesgericht Krems an der Donau]] der Rechtsanwalt [[lawyer|C***** P*****]]; mit Schriftsatz vom [[date|10.09.2025]] wurde die Vertretung durch [[person|V***** L*****]] übernommen.
 
 Die Einlage von [[person|K*****]] wurde vollständig geleistet. Die Geschäftsführer vertreten die Gesellschaft gemeinsam, soweit im Gesellschaftsvertrag nichts anderes bestimmt ist ([[legal_norm|§ 18 GmbHG]]). Die Stammeinlagen der Gesellschafter sind laut Gesellschafterliste vom [[date|28.02.2024]] vollständig eingezahlt.
 

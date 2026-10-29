@@ -3,7 +3,7 @@ doc_type: bescheid_dsb
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0024_bescheid_dsb#2
-review: agent
+review: convention-pass
 ---
 Ein Auskunftsbegehren ist nach [[legal_norm|Art. 12 Abs 3 DSGVO]] innerhalb eines Monats zu beantworten. Die Auskunft muss die Empfänger und die Speicherdauer umfassen. Die unvollständige Antwort vom [[date|02.09.2025]] erfüllt diese Anforderungen nicht.
 

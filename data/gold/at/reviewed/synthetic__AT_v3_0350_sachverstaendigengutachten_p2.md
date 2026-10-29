@@ -3,7 +3,7 @@ doc_type: sachverstaendigengutachten
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0350_sachverstaendigengutachten#2
-review: agent
+review: convention-pass
 ---
 Zur Sanierung schlage ich vor, das Erdreich an der Nordseite bis zur Fundamentunterkante freizulegen, eine vertikale Abdichtung mit einer mineralischen Dichtschlämme und einer Dränageschicht herzustellen und das Mauerwerk anschließend zu trocknen. Eine bloße Innenabdichtung wäre ungeeignet, weil die Feuchtigkeit weiterhin in das Mauerwerk eindringen würde. Die Trocknung ist durch wiederholte Messungen zu überprüfen; die letzte Messung ist am [[date|1. Dezember 2026]] vorzunehmen.
 

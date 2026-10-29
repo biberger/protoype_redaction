@@ -3,7 +3,7 @@ doc_type: mietvertrag
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0132_mietvertrag#2
-review: agent
+review: convention-pass
 ---
 Die Bürgin [[person|MBA Josephine Zeiner]], Sozialversicherungsnummer [[social_security_number|1853 270226]], wohnhaft in [[location|Schwaz]], übernimmt die Bürgschaft für sämtliche Zahlungsverpflichtungen der Mieter bis zu einem Höchstbetrag von 3.000,00 Euro. Die Bürgschaftserklärung wurde am [[date|27.01.2026]] unterfertigt.
 

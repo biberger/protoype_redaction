@@ -3,7 +3,7 @@ doc_type: testament
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0670_testament#1
-review: agent
+review: convention-pass
 ---
 Das Girokonto bei der Hausbank ist mit der IBAN [[bank_account|AT76 0260 2501 7160 3727]] geführt. Der Saldo steht [[person|Schäffer]] zu, soweit die Begräbniskosten gedeckt sind.
 

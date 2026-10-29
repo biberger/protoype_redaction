@@ -3,7 +3,7 @@ doc_type: anklageschrift
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0060_anklageschrift#1
-review: agent
+review: convention-pass
 ---
 Die einzelnen Zahlungen werden wie folgt angeführt:
 

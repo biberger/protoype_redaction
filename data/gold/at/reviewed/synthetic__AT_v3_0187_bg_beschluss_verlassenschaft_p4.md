@@ -3,7 +3,7 @@ doc_type: bg_beschluss_verlassenschaft
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0187_bg_beschluss_verlassenschaft#4
-review: agent
+review: convention-pass
 ---
 Die [[organization|Bittner e.U.]] hat die Dachreparatur am Wohnhaus des Verstorbenen im Herbst 2025 durchgeführt. Der Auftrag wurde vom Verstorbenen mündlich erteilt, die Arbeiten sind durch Lichtbilder und einen Lieferschein dokumentiert. Die Rechnung ist seit dem [[date|30. Dezember 2025]] fällig. Eine Zahlung ist nicht erfolgt. Die Forderung ist daher als Passivum zu berücksichtigen.
 

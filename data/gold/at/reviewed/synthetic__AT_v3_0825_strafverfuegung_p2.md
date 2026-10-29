@@ -3,7 +3,7 @@ doc_type: strafverfuegung
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0825_strafverfuegung#2
-review: agent
+review: convention-pass
 ---
 Bei der Strafbemessung wurde berücksichtigt, dass die Beschuldigte verwaltungsstrafrechtlich bisher nicht in Erscheinung getreten ist. Erschwerende Umstände liegen nicht vor. Die Einkommens- und Vermögensverhältnisse wurden mit einem geschätzten monatlichen Nettoeinkommen von 1.600,00 Euro berücksichtigt.
 

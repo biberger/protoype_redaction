@@ -3,7 +3,7 @@ doc_type: klage
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0319_klage#0
-review: agent
+review: convention-pass
 ---
 # KLAGE
 

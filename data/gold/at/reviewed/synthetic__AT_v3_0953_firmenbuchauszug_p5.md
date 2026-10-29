@@ -3,7 +3,7 @@ doc_type: firmenbuchauszug
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0953_firmenbuchauszug#5
-review: agent
+review: convention-pass
 ---
 Urkunde | Datum | Vorgang
 Gesellschaftsvertrag | [[date|12. März 1998]] | Errichtung der Gesellschaft

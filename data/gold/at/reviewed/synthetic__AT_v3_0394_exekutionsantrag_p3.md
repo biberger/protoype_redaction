@@ -3,7 +3,7 @@ doc_type: exekutionsantrag
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0394_exekutionsantrag#3
-review: agent
+review: convention-pass
 ---
 Die verpflichtete Partei ist laut Melderegister seit dem [[date|1. September 2023]] an der Anschrift in [[location|Salzburg]] gemeldet; eine Änderung ist dem Gericht nicht bekannt. Die Gläubigerin hat den Auszug aus dem Melderegister vom [[date|10. März 2026]] eingeholt und dem Antrag beigelegt. Die Gerichtsgebühr für den Antrag wird nach Einbringung bestimmt.
 

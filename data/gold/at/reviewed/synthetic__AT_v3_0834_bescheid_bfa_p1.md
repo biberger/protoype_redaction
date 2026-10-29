@@ -3,7 +3,7 @@ doc_type: bescheid_bfa
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0834_bescheid_bfa#1
-review: agent
+review: convention-pass
 ---
 Die Dienstgeberin hat ein Arbeitsplatzangebot übermittelt, das den Voraussetzungen des [[legal_norm|§ 11 Abs 2 NAG]] entspricht. Die Erteilung scheitert jedoch an der fehlenden Gesundheitsbestätigung.
 

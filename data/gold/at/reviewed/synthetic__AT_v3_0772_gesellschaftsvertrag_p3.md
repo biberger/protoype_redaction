@@ -3,7 +3,7 @@ doc_type: gesellschaftsvertrag
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0772_gesellschaftsvertrag#3
-review: agent
+review: convention-pass
 ---
 Punkt 14. Bei Tod eines Gesellschafters geht der Geschäftsanteil auf die Erben über. Die Gesellschaft ist berechtigt, den Anteil gemäß [[legal_norm|§ 917 ABGB]] einzuziehen, sofern die Erben nicht binnen sechs Monaten ihre Berechtigung nachweisen.
 

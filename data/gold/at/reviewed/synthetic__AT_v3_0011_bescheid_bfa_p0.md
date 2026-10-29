@@ -3,10 +3,10 @@ doc_type: bescheid_bfa
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0011_bescheid_bfa#0
-review: agent
+review: convention-pass
 ---
 [[organization|Bundesamt für Fremdenwesen und Asyl]] ([[organization|BFA]])
-Regionaldirektion [[location|Steiermark]]
+Regionaldirektion Steiermark
 [[address|Conradstraße 9, 8010 Graz]]
 
 Zl. [[case_number|1140872309-260415]]

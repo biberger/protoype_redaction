@@ -3,7 +3,7 @@ doc_type: firmenbuch_beschluss
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0088_firmenbuch_beschluss#0
-review: agent
+review: convention-pass
 ---
 [[court|Landesgericht Linz]]
 als Firmenbuchgericht

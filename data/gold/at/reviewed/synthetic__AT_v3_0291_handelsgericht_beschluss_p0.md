@@ -3,7 +3,7 @@ doc_type: handelsgericht_beschluss
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0291_handelsgericht_beschluss#0
-review: agent
+review: convention-pass
 ---
 [[court|Handelsgericht Wien]]
 Firmenbuchabteilung

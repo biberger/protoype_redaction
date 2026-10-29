@@ -3,7 +3,7 @@ doc_type: anklageschrift
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0204_anklageschrift#2
-review: agent
+review: convention-pass
 ---
 Die Angeklagte [[person|Eberl]] stellte der Angeklagten [[person|Ferstl]] am [[date|10. Juni 2025]] eine Bestätigung über den Auftragsabschluss aus, die für die Freigabe der Zahlung benötigt wurde. Die Bestätigung trug den Briefkopf der [[organization|Schrott & Krebs GmbH & Co KG]] und war nicht von einer dazu berechtigten Person unterfertigt.
 

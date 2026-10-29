@@ -3,7 +3,7 @@ doc_type: bg_beschluss_verlassenschaft
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0688_bg_beschluss_verlassenschaft#0
-review: agent
+review: convention-pass
 ---
 [[court|Bezirksgericht Kirchdorf an der Krems]]
 Verlassenschaftsabteilung

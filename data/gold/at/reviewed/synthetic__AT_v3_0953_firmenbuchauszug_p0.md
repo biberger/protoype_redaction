@@ -3,7 +3,7 @@ doc_type: firmenbuchauszug
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0953_firmenbuchauszug#0
-review: agent
+review: convention-pass
 ---
 **FIRMENBUCHAUSZUG** (vollständiger Auszug, Stand [[date|21. Oktober 2026]])
 

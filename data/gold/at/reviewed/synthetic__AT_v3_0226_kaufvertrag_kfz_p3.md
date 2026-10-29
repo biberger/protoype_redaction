@@ -3,7 +3,7 @@ doc_type: kaufvertrag_kfz
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0226_kaufvertrag_kfz#3
-review: agent
+review: convention-pass
 ---
 Mündliche Nebenabreden bestehen nicht. Die Verkäuferin verpflichtet sich, bis zur Übergabe keine Veränderungen am Fahrzeug vorzunehmen, außer den im Serviceheft dokumentierten Wartungsarbeiten.
 

@@ -3,7 +3,7 @@ doc_type: datenschutzauskunft
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0823_datenschutzauskunft#1
-review: agent
+review: convention-pass
 ---
 1. Verarbeitete Daten: Name, Anschrift, Telefonnummer, E-Mail-Adresse, Auftragsnummer, Zahlungsdaten sowie die Notizen der Einsatzleitung zu Ihrem Auftrag.
 2. Zwecke: Vertragserfüllung nach [[legal_norm|Art. 6 Abs 1 lit b DSGVO]], Erfüllung der Aufbewahrungspflicht nach [[legal_norm|§ 212 UGB]] sowie Abwehr allfälliger Ansprüche.

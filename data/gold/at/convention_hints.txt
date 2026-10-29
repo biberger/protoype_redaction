@@ -1,0 +1,78 @@
+synthetic__AT_v3_0011_bescheid_bfa_p0.md	location inside unit name: )
+synthetic__AT_v3_0011_bescheid_bfa_p0.md	Regionaldirektion Steiermark
+synthetic__AT_v3_0300_bg_beschluss_pflegschaft_p0.md	lawyer without stated profession nearby: Irmfriede Lehmann
+synthetic__AT_v3_0300_bg_beschluss_pflegschaft_p0.md	lawyer without stated profession nearby: Wolf Ratzenberger
+synthetic__AT_v3_0662_firmenbuch_beschluss_p0.md	lawyer without stated profession nearby: Traudlinde Eichler
+synthetic__AT_v3_0662_firmenbuch_beschluss_p2.md	lawyer without stated profession nearby: Lina Capoušek
+synthetic__AT_v3_0301_bg_beschluss_exekution_p1.md	lawyer without stated profession nearby: Felzmann
+synthetic__AT_v3_0301_bg_beschluss_exekution_p1.md	lawyer without stated profession nearby: Felzmann
+synthetic__AT_v3_0301_bg_beschluss_exekution_p2.md	lawyer without stated profession nearby: Schlatters
+synthetic__AT_v3_0301_bg_beschluss_exekution_p3.md	lawyer without stated profession nearby: Felzmann
+synthetic__AT_v3_0301_bg_beschluss_exekution_p3.md	lawyer without stated profession nearby: Felzmann
+synthetic__AT_v3_0508_bescheid_bh_p3.md	lawyer without stated profession nearby: Etta Ogunleye
+synthetic__AT_v3_0508_bescheid_bh_p3.md	lawyer without stated profession nearby: Ogunleye
+synthetic__AT_v3_0824_exekutionsantrag_p2.md	lawyer without stated profession nearby: Mag. Ulrike Hackl-Stadler
+synthetic__AT_v3_0155_bfg_erkenntnis_p0.md	location inside unit name: richt]]
+synthetic__AT_v3_0155_bfg_erkenntnis_p0.md	Außenstelle Graz
+synthetic__AT_v3_0155_bfg_erkenntnis_p0.md	lawyer without stated profession nearby: DI Lawrence Schmied
+synthetic__AT_v3_0155_bfg_erkenntnis_p1.md	lawyer without stated profession nearby: DI Lawrence Schmied
+synthetic__AT_v3_0155_bfg_erkenntnis_p3.md	lawyer without stated profession nearby: DI Lawrence Schmied
+synthetic__AT_v3_0316_klage_p2.md	lawyer without stated profession nearby: Loidls
+synthetic__AT_v3_0514_exekutionsantrag_p1.md	lawyer without stated profession nearby: Mag. Uschi Van der Bellen
+synthetic__AT_v3_0410_asg_urteil_p0.md	lawyer without stated profession nearby: Raphael Scheuer
+synthetic__AT_v3_0410_asg_urteil_p0.md	lawyer without stated profession nearby: Chlorinde Schindler
+synthetic__AT_v3_0410_asg_urteil_p0.md	lawyer without stated profession nearby: Gitta Karner
+synthetic__AT_v3_0679_polizeiliche_anzeige_p0.md	lawyer without stated profession nearby: BSc Anselm Strobel
+synthetic__AT_v3_0679_polizeiliche_anzeige_p2.md	lawyer without stated profession nearby: BSc Anselm Strobel
+synthetic__AT_v3_0413_bg_urteil_p0.md	lawyer without stated profession nearby: DI Laurette Buchberger
+synthetic__AT_v3_0413_bg_urteil_p0.md	lawyer without stated profession nearby: Abdul Rahman Ghali
+synthetic__AT_v3_0320_bvwg_erkenntnis_p1.md	lawyer without stated profession nearby: Seilern, MBA
+synthetic__AT_v3_0537_bvwg_erkenntnis_p2.md	lawyer without stated profession nearby: Dina Swoboda
+synthetic__AT_v3_0537_bvwg_erkenntnis_p2.md	lawyer without stated profession nearby: Uta Jost
+synthetic__AT_v3_0681_bg_beschluss_pflegschaft_p3.md	judge under "Für die Richtigkeit": Felizian Thalmann
+synthetic__AT_v3_0339_ogh_beschluss_p4.md	lawyer without stated profession nearby: Mag. Theodora Miličić
+synthetic__AT_v3_0061_olg_urteil_p0.md	lawyer without stated profession nearby: Dr. Hagen Wally
+synthetic__AT_v3_0061_olg_urteil_p0.md	lawyer without stated profession nearby: Thouraya Hamich
+synthetic__AT_v3_0347_lvwg_erkenntnis_p2.md	lawyer without stated profession nearby: Buess
+synthetic__AT_v3_0688_bg_beschluss_verlassenschaft_p1.md	lawyer without stated profession nearby: Kollányi
+synthetic__AT_v3_0709_bg_beschluss_exekution_p0.md	lawyer without stated profession nearby: Flori Bartsch
+synthetic__AT_v3_0071_bescheid_bfa_p0.md	location inside unit name: )
+synthetic__AT_v3_0071_bescheid_bfa_p0.md	Regionaldirektion Salzburg
+synthetic__AT_v3_0071_bescheid_bfa_p0.md	location inside unit name: , Regionaldirektion Salzburg
+synthetic__AT_v3_0071_bescheid_bfa_p1.md	lawyer without stated profession nearby: Dagmar Mattes
+synthetic__AT_v3_0351_kaufvertrag_liegenschaft_p3.md	lawyer without stated profession nearby: Arthur Schleich
+synthetic__AT_v3_0915_testament_p1.md	lawyer without stated profession nearby: Patek
+synthetic__AT_v3_0678_bfg_erkenntnis_p0.md	degree after span outside: Valeska Moritz', MBA, gef'
+synthetic__AT_v3_0072_bvwg_erkenntnis_p0.md	lawyer without stated profession nearby: Roža Raguž
+synthetic__AT_v3_0072_bvwg_erkenntnis_p2.md	lawyer without stated profession nearby: Roža Raguž
+synthetic__AT_v3_0927_kaufvertrag_liegenschaft_p2.md	lawyer without stated profession nearby: Margot Affenzeller
+synthetic__AT_v3_0076_vfgh_erkenntnis_p3.md	judge under "Für die Richtigkeit": BSc Bart Stehlík
+synthetic__AT_v3_0735_anklageschrift_p0.md	lawyer without stated profession nearby: Burghart Schmitz
+synthetic__AT_v3_0781_protokoll_tagsatzung_p0.md	lawyer without stated profession nearby: Dr. Patrik Forster
+synthetic__AT_v3_0781_protokoll_tagsatzung_p0.md	lawyer without stated profession nearby: Dr. Forster
+synthetic__AT_v3_0781_protokoll_tagsatzung_p1.md	lawyer without stated profession nearby: Dr. Forster
+synthetic__AT_v3_0077_bfg_erkenntnis_p0.md	location inside unit name: 2025]]
+synthetic__AT_v3_0077_bfg_erkenntnis_p0.md	
+synthetic__AT_v3_0077_bfg_erkenntnis_p0.md	Außenstelle Linz
+synthetic__AT_v3_0077_bfg_erkenntnis_p2.md	judge under "Für die Richtigkeit": MMag. Golda Ammann
+synthetic__AT_v3_0577_lvwg_erkenntnis_p2.md	lawyer without stated profession nearby: Oleksander Janowski
+synthetic__AT_v3_0588_asg_urteil_p2.md	doubled degree: MBA V***** T*****, MBA
+synthetic__AT_v3_0279_versicherungsschreiben_p0.md	lawyer without stated profession nearby: MMag. Bent Liska
+synthetic__AT_v3_0279_versicherungsschreiben_p2.md	lawyer without stated profession nearby: MMag. Bent Liska
+synthetic__AT_v3_0872_handelsgericht_beschluss_p0.md	lawyer without stated profession nearby: Murtez De Winne
+synthetic__AT_v3_0872_handelsgericht_beschluss_p0.md	lawyer without stated profession nearby: Getuard Zumstein
+synthetic__AT_v3_0394_exekutionsantrag_p3.md	lawyer without stated profession nearby: Isotta Nagele
+synthetic__AT_v3_0615_vwgh_erkenntnis_p0.md	lawyer without stated profession nearby: Mag. Constance Salomon
+synthetic__AT_v3_0922_vwgh_erkenntnis_p0.md	lawyer without stated profession nearby: Jolantha Weinmann
+synthetic__AT_v3_0922_vwgh_erkenntnis_p0.md	lawyer without stated profession nearby: Rufus Kammerer
+synthetic__AT_v3_0922_vwgh_erkenntnis_p1.md	judge under "Für die Richtigkeit": Bösch
+synthetic__AT_v3_0128_versicherungsschreiben_p0.md	prefix inside identifier: '[[other_identifier|SNR 2026-0418-7731]]\nPol'
+synthetic__AT_v3_0291_handelsgericht_beschluss_p3.md	lawyer without stated profession nearby: Baldur Sperl
+synthetic__AT_v3_0291_handelsgericht_beschluss_p3.md	lawyer without stated profession nearby: Monique Gehrer
+synthetic__AT_v3_0622_dienstzeugnis_p2.md	location inside unit name: sbericht des Werkes Reichersberg
+synthetic__AT_v3_0990_lg_urteil_p1.md	lawyer without stated profession nearby: Mijatović
+synthetic__AT_v3_0990_lg_urteil_p1.md	lawyer without stated profession nearby: Jaeger
+synthetic__AT_v3_0438_firmenbuchauszug_p1.md	lawyer without stated profession nearby: V***** L*****
+synthetic__AT_v3_0626_asg_urteil_p7.md	date range split: aum vom 1. bis 15. Juni 2025
+synthetic__AT_v3_0626_asg_urteil_p7.md	date range
+synthetic__AT_v3_0166_grundbuchsauszug_p0.md	lawyer without stated profession nearby: Dr. Clementine Lemmerer

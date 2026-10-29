@@ -3,7 +3,7 @@ doc_type: grundbuchsauszug
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0030_grundbuchsauszug#1
-review: agent
+review: convention-pass
 ---
 Die Zahlungsverbindung für die Pfandrechtsforderung lautet [[bank_account|AT31 8550 2226 5662 9914]]. Die Versicherungsnummer des Eigentümers [[person|Frieder Schuster]] ist [[social_security_number|9336 130491]].
 

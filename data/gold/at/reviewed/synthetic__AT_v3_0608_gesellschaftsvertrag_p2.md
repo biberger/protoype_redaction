@@ -3,7 +3,7 @@ doc_type: gesellschaftsvertrag
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0608_gesellschaftsvertrag#2
-review: agent
+review: convention-pass
 ---
 (3) Bei der ersten Bilanzerstellung ist [[person|Aristid Becker]] verpflichtet, die Buchhaltung einer Steuerberatungskanzlei zu übertragen. Die Kosten dafür trägt die Gesellschaft.
 

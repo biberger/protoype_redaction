@@ -3,7 +3,7 @@ doc_type: exekutionsantrag
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0824_exekutionsantrag#2
-review: agent
+review: convention-pass
 ---
 Frau [[person|Maxi Wahle]] hat die Buchhaltungsunterlagen am [[date|8. Oktober 2026]] geprüft und den Auszug unterfertigt. Der Geschäftsführer [[person|Velten Feichtinger]] bestätigt die Richtigkeit der Angaben mit seiner Unterschrift auf der Vollmacht.
 

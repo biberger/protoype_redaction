@@ -3,7 +3,7 @@ doc_type: bg_beschluss_exekution
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0052_bg_beschluss_exekution#2
-review: agent
+review: convention-pass
 ---
 Das Gericht hat erwogen: Der Antrag enthält alle Voraussetzungen des [[legal_norm|§ 54 EO]]. Die Forderung ist titelmäßig belegt, die Pfändung ist nicht durch [[legal_norm|§ 291 EO]] ausgeschlossen. Der Verpflichtete [[person|W***** G*****]] hat zu den Pfändungsbeträgen keine Einwendungen erhoben.
 

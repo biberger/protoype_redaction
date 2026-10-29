@@ -3,7 +3,7 @@ doc_type: exekutionsantrag
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0514_exekutionsantrag#1
-review: agent
+review: convention-pass
 ---
 Beantragt wird die Forderungsexekution nach [[legal_norm|§§ 294, 301 EO]]. Drittschuldnerin ist [[person|Gerlinde Steyr]], Hausverwalterin, bei der die verpflichteten Parteien Mietzinsforderungen haben. Die Drittschuldnerin hat die Anschrift der verpflichteten Partei [[person|Friedoline Zeilinger]] bestätigt; zur eindeutigen Zuordnung wird die Sozialversicherungsnummer [[social_security_number|8419 060471]] angegeben.
 

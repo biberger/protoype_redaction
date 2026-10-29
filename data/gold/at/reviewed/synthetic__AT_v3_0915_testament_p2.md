@@ -3,7 +3,7 @@ doc_type: testament
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0915_testament#2
-review: agent
+review: convention-pass
 ---
 Ich wünsche eine einfache Feuerbestattung ohne Trauerfeier in der Kirche. Die Urne soll auf dem Friedhof [[location|Grambach]] beigesetzt werden, in dem Grab, in dem bereits mein verstorbener Ehemann ruht. Die Kosten der Bestattung trägt der Nachlass, sofern sie nicht durch die Versicherung gedeckt sind.
 

@@ -3,7 +3,7 @@ doc_type: bescheid_bfa
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0834_bescheid_bfa#0
-review: agent
+review: convention-pass
 ---
 [[organization|Bundesamt für Fremdenwesen und Asyl]] ([[organization|BFA]])
 Regionaldirektion Steiermark, [[location|Graz]]

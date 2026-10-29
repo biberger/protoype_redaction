@@ -3,7 +3,7 @@ doc_type: ogh_beschluss
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0103_ogh_beschluss#2
-review: agent
+review: convention-pass
 ---
 Die Verpflichtete [[person|W*****]] verweist ferner darauf, die Lohnbestätigung sei unvollständig, weil Sonderzahlungen für das Jahr 2025 darin nicht ausgewiesen seien. Dieser Einwand betrifft jedoch nur die Höhe der pfändbaren Bezüge und nicht die Frage, ob die Forderungsexekution für den Zeitraum bis zur Lösung zulässig war. Die betreibende Partei beantragte in ihrer Rechtsmittelbeantwortung die Zurückweisung des Rechtsmittels und verwies darauf, dass der Verpflichtete [[person|T***** E*****]] der Pfändung im erstinstanzlichen Verfahren nicht widersprochen habe.
 

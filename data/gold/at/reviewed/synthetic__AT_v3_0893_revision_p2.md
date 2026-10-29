@@ -3,7 +3,7 @@ doc_type: revision
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0893_revision#2
-review: agent
+review: convention-pass
 ---
 **5. Stellungnahme der Geschäftsführung**
 

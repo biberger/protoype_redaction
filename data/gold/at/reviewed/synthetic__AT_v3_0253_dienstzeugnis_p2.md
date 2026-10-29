@@ -3,7 +3,7 @@ doc_type: dienstzeugnis
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0253_dienstzeugnis#2
-review: agent
+review: convention-pass
 ---
 Während ihrer Beschäftigung wurde Frau [[person|Grgic]] zweimal mit einer Prämie für besondere Leistungen ausgezeichnet, zuletzt für ihren wesentlichen Beitrag zur Stabilisierung der Zahlungsschnittstellen im Herbst 2025. Sie hat sich auch in Phasen hoher Belastung durch eine gleichbleibend hohe Arbeitsqualität und großes persönliches Verantwortungsbewusstsein ausgezeichnet.
 

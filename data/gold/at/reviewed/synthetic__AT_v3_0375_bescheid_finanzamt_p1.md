@@ -3,7 +3,7 @@ doc_type: bescheid_finanzamt
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0375_bescheid_finanzamt#1
-review: agent
+review: convention-pass
 ---
 Pendlerpauschale und Fahrtkosten: 396,00 EUR
 Arbeitsmittel (Laptop-Zubehör, Fachliteratur): 128,40 EUR

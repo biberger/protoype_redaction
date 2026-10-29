@@ -3,7 +3,7 @@ doc_type: vwgh_erkenntnis
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0355_vwgh_erkenntnis#3
-review: agent
+review: convention-pass
 ---
 9. Gemäß [[legal_norm|Art. 133 Abs 4 B-VG]] iVm [[legal_norm|§ 34 Abs 1 VwGG]] ist eine außerordentliche Revision zulässig, wenn die Entscheidung von der Lösung einer Rechtsfrage abhängt, der grundsätzliche Bedeutung zukommt. Eine solche Frage liegt hier insofern vor, als das Verwaltungsgericht die Abgrenzung zwischen bewilligungsfreien Nebengebäuden und Bauwerken im Sinne des [[legal_norm|§ 3 Abs 2 Z 4 TBO 2022]] iVm [[legal_norm|§ 3 Abs 1 TBO 2022]] nicht im Lichte der dazu ergangenen Rechtsprechung vorgenommen hat.
 

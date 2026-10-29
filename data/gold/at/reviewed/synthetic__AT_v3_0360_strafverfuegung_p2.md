@@ -3,7 +3,7 @@ doc_type: strafverfuegung
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0360_strafverfuegung#2
-review: agent
+review: convention-pass
 ---
 Die Angaben [[person|Hussjews]] vom [[date|12.10.2026]], wonach er aus gesundheitlichen Gründen zu schnell gefahren sei, werden nicht als Rechtfertigung anerkannt. Das vorgelegte ärztliche Zeugnis der [[person|Dr. med. Anemone Wohlgemuth]] vom [[date|5. Oktober 2026]] bestätigt lediglich eine Behandlung wegen einer Schulterverletzung und enthält keine Aussage zur Fahrtauglichkeit am Tattag.
 

@@ -3,7 +3,7 @@ doc_type: bg_beschluss_verlassenschaft
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0688_bg_beschluss_verlassenschaft#1
-review: agent
+review: convention-pass
 ---
 Die Nichte des Verstorbenen, [[person|Kirstin Adamu]], hat auf die Erbschaft verzichtet. Die Verzichtserklärung wurde am [[date|14. August 2026]] beim Gericht hinterlegt und ist wirksam. Die Testamentsvollstreckerin [[person|Ing. Kleo Gessner]] hat den letzten Willen des Verstorbenen vorgelegt; darin wird die Verteilung des Hausrats gesondert geregelt.
 

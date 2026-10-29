@@ -3,7 +3,7 @@ doc_type: versicherungsschreiben
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0128_versicherungsschreiben#0
-review: agent
+review: convention-pass
 ---
 [[organization|Traisental Wechselseitige Versicherung VVaG]]
 [[company_register_number|FN 332878b]]
@@ -17,7 +17,7 @@ z.H. Frau [[person|Slobodanka İbrahimoğlu]]
 
 [[location|St. Pölten]], am [[date|3. Februar 2026]]
 
-Schadennummer: [[other_identifier|SNR 2026-0418-7731]]
+Schadennummer: SNR [[other_identifier|2026-0418-7731]]
 Polizzennummer: [[other_identifier|61-0045-2209]]
 Schadentag: [[date|11.01.2026]]
 

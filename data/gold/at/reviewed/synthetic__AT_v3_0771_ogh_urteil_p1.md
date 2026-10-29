@@ -3,7 +3,7 @@ doc_type: ogh_urteil
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0771_ogh_urteil#1
-review: agent
+review: convention-pass
 ---
 Die klagende Partei veranstaltete im Auftrag der beklagten Partei eine Messe in [[location|Salzburg]]. Die Nebenintervenienten [[person|R***** S*****]] und [[person|R***** T*****]] sowie [[person|E***** B*****]] waren als Subunternehmer tätig. Die Beklagte bestritt die Höhe der Forderung und wandte eine Gegenforderung wegen verspäteter Lieferung ein.
 

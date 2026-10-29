@@ -3,7 +3,7 @@ doc_type: olg_beschluss
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0215_olg_beschluss#2
-review: agent
+review: convention-pass
 ---
 Der Firmenbuchauszug vom [[date|2. Juni 2026]] weist die [[organization|Fiala KG]] als Kommanditgesellschaft mit zwei persönlich haftenden Gesellschaftern aus. Die Kommanditisten sind im Firmenbuch nur mit Haftsumme eingetragen. Eine Änderung in der Person eines Kommanditisten bedarf daher der Mitwirkung aller Gesellschafter, die im Register erfasst sind.
 

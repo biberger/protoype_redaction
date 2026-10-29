@@ -3,7 +3,7 @@ doc_type: bg_urteil
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0612_bg_urteil#0
-review: agent
+review: convention-pass
 ---
 [[court|Bezirksgericht Korneuburg]]
 

@@ -3,7 +3,7 @@ doc_type: gesellschaftsvertrag
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0992_gesellschaftsvertrag#3
-review: agent
+review: convention-pass
 ---
 (1) Änderungen dieses Vertrages bedürfen der notariellen Form. Sollte eine Bestimmung unwirksam sein, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt; die Gesellschafter verpflichten sich, die unwirksame Bestimmung durch eine wirksame zu ersetzen, die dem wirtschaftlichen Zweck am nächsten kommt, vgl [[legal_norm|§ 879 Abs 3 ABGB]].
 

@@ -3,7 +3,7 @@ doc_type: bg_beschluss_pflegschaft
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0681_bg_beschluss_pflegschaft#2
-review: agent
+review: convention-pass
 ---
 Der Pfleger [[person|F***** H*****]] hat seine Bereitschaft zur Übernahme erklärt. Er wohnt in der [[address|Hadikgas-
 se 44, 6l67 Neustift im Stubaital]] und verfügt über keine Vorstrafen. Eine Pflegschaft ist daher zweckmäßig.

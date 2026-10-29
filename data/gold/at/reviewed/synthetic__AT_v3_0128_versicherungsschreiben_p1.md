@@ -3,7 +3,7 @@ doc_type: versicherungsschreiben
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0128_versicherungsschreiben#1
-review: agent
+review: convention-pass
 ---
 Gemäß [[legal_norm|§ 61 VersVG]] sind Sie verpflichtet, den Schaden unverzüglich anzuzeigen und alles zur Aufklärung Dienliche zu tun. Diese Obliegenheit haben Sie nach unserer Prüfung erfüllt. Eine Leistungskürzung wegen Obliegenheitsverletzung kommt daher nicht in Betracht.
 

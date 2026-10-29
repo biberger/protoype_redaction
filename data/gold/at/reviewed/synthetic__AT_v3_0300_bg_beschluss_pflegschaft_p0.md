@@ -3,7 +3,7 @@ doc_type: bg_beschluss_pflegschaft
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0300_bg_beschluss_pflegschaft#0
-review: agent
+review: convention-pass
 ---
 [[court|Bezirksgericht Korneuburg]]
 
@@ -21,7 +21,7 @@ III. Zum Kinderbeistand wird [[person|Mag. Berend Schiffer]] bestellt.
 
 Begründung
 
-Die Mutter beantragte am [[date|12. Februar 2026]] die Neuregelung des Kontaktrechts. Die Mutter ist durch [[lawyer|Irmfriede Lehmann]], der Vater durch [[lawyer|Wolf Ratzenberger]] vertreten. Die Richterin [[judge|Edna Haid]] führte das Verfahren bis zur Anhörung am [[date|9. Juni 2026]]. Bei der Anhörung waren beide Eltern persönlich anwesend, das Kind wurde nicht einvernommen, weil dies dem Wohl des Kindes nicht entsprochen hätte.
+Die Mutter beantragte am [[date|12. Februar 2026]] die Neuregelung des Kontaktrechts. Die Mutter ist durch [[person|Irmfriede Lehmann]], der Vater durch [[person|Wolf Ratzenberger]] vertreten. Die Richterin [[judge|Sommer]] führte das Verfahren bis zur Anhörung am [[date|9. Juni 2026]]. Bei der Anhörung waren beide Eltern persönlich anwesend, das Kind wurde nicht einvernommen, weil dies dem Wohl des Kindes nicht entsprochen hätte.
 
 Das psychologische Gutachten der [[person|Dr. Maia Kalchenko]] ergibt, dass das Kind den Kontakt zum Vater grundsätzlich wünscht, jedoch Übergänge zwischen den Haushalten als belastend erlebt. Die Sachverständige empfiehlt daher feste Übergabezeiten.
 

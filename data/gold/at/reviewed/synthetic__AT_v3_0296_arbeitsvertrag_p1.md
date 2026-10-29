@@ -3,7 +3,7 @@ doc_type: arbeitsvertrag
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0296_arbeitsvertrag#1
-review: agent
+review: convention-pass
 ---
 (1) Die Dienstnehmerin wird als Servicekraft im Restaurant beschäftigt. Die Weisungen erteilt die Betriebsleiterin [[person|Pfaundler]].
 

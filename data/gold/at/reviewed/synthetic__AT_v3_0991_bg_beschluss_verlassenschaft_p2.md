@@ -3,7 +3,7 @@ doc_type: bg_beschluss_verlassenschaft
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0991_bg_beschluss_verlassenschaft#2
-review: agent
+review: convention-pass
 ---
 Das [[organization|Finanzamt Salzburg-Land]] stellte mit Schreiben vom [[date|22. Juli 2026]] eine Abgabenbestätigung gemäß [[legal_norm|§ 48 BAO]] aus. Das [[organization|FA Salzburg-Land]] hat keine offenen Abgabenschuldigkeiten der Erblasserin festgestellt. Die Erben haben die Verlassenschaft nach [[legal_norm|§ 143 AußStrG]] angenommen; die Voraussetzungen der Einantwortung nach [[legal_norm|§ 153 Abs 1 AußStrG]] liegen vor.
 

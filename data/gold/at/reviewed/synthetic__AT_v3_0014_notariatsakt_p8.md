@@ -3,7 +3,7 @@ doc_type: notariatsakt
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0014_notariatsakt#8
-review: agent
+review: convention-pass
 ---
 Die Liegenschaft befindet sich seit dem Jahr 1961 im Eigentum der Familie der Übergeberin. Der verstorbene Ehegatte der Übergeberin hat den landwirtschaftlichen Betrieb bis zum Jahr 2011 geführt. Seither wird der Betrieb nur mehr eingeschränkt genutzt, die Wiesenflächen werden verpachtet. Die Übergeberin hat diesen Pachtvertrag mit Wirkung zum Übergabestichtag gekündigt; die Kündigungsfrist wurde eingehalten.
 

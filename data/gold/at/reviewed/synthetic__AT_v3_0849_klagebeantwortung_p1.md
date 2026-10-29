@@ -3,7 +3,7 @@ doc_type: klagebeantwortung
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0849_klagebeantwortung#1
-review: agent
+review: convention-pass
 ---
 3. Die beklagte Partei hat die Ware am [[date|20.01.2026]] schriftlich beanstandet. Die Mängelrüge betraf eine Oberflächenbeschichtung, die nach den Angaben von [[person|Draško Šuker]], Geschäftsführer der beklagten Partei, nicht der Bestellung entsprach. [[person|Šuker]] hat die Beanstandung persönlich unterzeichnet und an die klagende Partei übermittelt.
 

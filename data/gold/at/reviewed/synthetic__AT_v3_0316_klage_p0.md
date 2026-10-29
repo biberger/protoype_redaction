@@ -3,7 +3,7 @@ doc_type: klage
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0316_klage#0
-review: agent
+review: convention-pass
 ---
 An das
 [[court|Bezirksgericht Bludenz]]

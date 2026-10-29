@@ -3,9 +3,9 @@ doc_type: klage
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0319_klage#1
-review: agent
+review: convention-pass
 ---
-3. Die Klägerin stellte den Restbetrag mit Rechnung Nr. [[other_identifier|RE-2025-0417]] vom [[date|18. Juni 2025]] in Rechnung. Als Zahlungsziel wurde der [[date|2. Juli 2025]] vereinbart.
+3. Die Klägerin stellte den Restbetrag mit Rechnung Nr. RE-2025-0417 vom [[date|18. Juni 2025]] in Rechnung. Als Zahlungsziel wurde der [[date|2. Juli 2025]] vereinbart.
 
 4. Die weiteren Beklagten übernahmen mit gesonderter Haftungserklärung vom [[date|4. März 2025]] die Bürgschaft für sämtliche Verbindlichkeiten des Bestellvertrags (Beilage ./B). [[person|Brandt]] und [[person|Fischbacher]] erklärten sich als Bürgen, wobei [[person|Fischbachers]] Erklärung den Verzicht auf die Einrede der Vorausklage enthält. [[person|Hrůza]] und [[person|El-Haj]] übernahmen die Haftung als Ausfallsbürginnen, also nur für den Fall, dass die Hauptschuld bei [[person|Ambrose]] uneinbringlich ist.
 

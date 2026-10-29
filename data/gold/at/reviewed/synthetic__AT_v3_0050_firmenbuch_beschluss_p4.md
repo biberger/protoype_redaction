@@ -3,7 +3,7 @@ doc_type: firmenbuch_beschluss
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0050_firmenbuch_beschluss#4
-review: agent
+review: convention-pass
 ---
 Der Richter [[judge|Kaltenböck]] hat den Akt vorbereitet. Der Senat ist mit den Richtern [[judge|Kaltenböck]] und [[judge|Dr. med. Stockinger]] unter dem Vorsitz von [[judge|Lattorff]] zur Entscheidung berufen. Die Ausführungen des [[judge|Stockinger]] zur Unbedenklichkeit der Eintragung wurden übernommen.
 

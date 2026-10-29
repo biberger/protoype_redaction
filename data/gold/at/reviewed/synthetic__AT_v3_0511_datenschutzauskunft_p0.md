@@ -3,7 +3,7 @@ doc_type: datenschutzauskunft
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0511_datenschutzauskunft#0
-review: agent
+review: convention-pass
 ---
 [[organization|Schmeiser Textil GmbH]]
 [[address|Industriezeile 12, 4600 Wels]]

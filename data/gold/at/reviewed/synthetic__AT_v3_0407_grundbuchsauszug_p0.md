@@ -3,7 +3,7 @@ doc_type: grundbuchsauszug
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0407_grundbuchsauszug#0
-review: agent
+review: convention-pass
 ---
 [[court|Bezirksgericht Mödling]] als Grundbuchsgericht
 Auszug aus dem Hauptbuch
@@ -23,7 +23,7 @@ C.-Nr. 1: Eigentümer seit [[date|17. Juli 2025]]
 
 Eigentümerin zu einer Hälfte ist [[person|MMag. Marta Zartl]], wohnhaft in [[location|Sparbach]], zu einem Viertel [[person|Dr. Linde Welser]] und zu einem Viertel [[person|Leni Schütz MBA]]. Der Erwerb erfolgte aufgrund des Kaufvertrags vom [[date|3. Juni 2025]], errichtet durch die Rechtsanwältin [[lawyer|Sonje Bilgeri]].
 
-Die Erwerbsberechtigung der Käuferin [[person|Zartl]] wurde mit der Sozialversicherungsnummer [[social_security_number|2066 020775]] des Vertreters [[person|Walter Watzke]] nachgewiesen.
+Die Erwerbsberechtigung der Käuferin [[person|Zartl]] wurde mit der Sozialversicherungsnummer [[social_security_number|2066 020775]] des Vertreters [[person|Konrad Pichler]] nachgewiesen.
 
 C.-Nr. 2: Einverleibung des Pfandrechts
 

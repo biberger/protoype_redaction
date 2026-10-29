@@ -3,7 +3,7 @@ doc_type: strafverfuegung
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0763_strafverfuegung#0
-review: agent
+review: convention-pass
 ---
 [[organization|Bezirkshauptmannschaft Weiz]] ([[organization|BH Weiz]])
 Abteilung Gewerberecht und Arbeitnehmerschutz

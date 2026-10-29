@@ -3,7 +3,7 @@ doc_type: bescheid_dsb
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0975_bescheid_dsb#1
-review: agent
+review: convention-pass
 ---
 Datum | Vorgang | Angabe
 [[date|11. Oktober 2024]] | Anlage eines Kundenprofils | bestätigt durch [[person|Harrer]]

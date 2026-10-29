@@ -3,7 +3,7 @@ doc_type: ogh_beschluss
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0339_ogh_beschluss#4
-review: agent
+review: convention-pass
 ---
 14. Der Einwand, die Eigentümergemeinschaft hätte die Beschlüsse mit einfacher Mehrheit fassen dürfen, ist nicht geeignet, eine erhebliche Rechtsfrage aufzuwerfen. Die Frage, welche Mehrheit für bauliche Maßnahmen an der Fassade erforderlich ist, wird in [[legal_norm|§ 28 Abs 1 Z 1 WEG 2002]] ausdrücklich geregelt. Dass die Versammlung diese Vorgaben beachtet hat, ist zwischen den Parteien unstrittig.
 

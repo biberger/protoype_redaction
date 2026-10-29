@@ -3,7 +3,7 @@ doc_type: bg_beschluss_verlassenschaft
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0187_bg_beschluss_verlassenschaft#3
-review: agent
+review: convention-pass
 ---
 Die Passiven sind nach [[legal_norm|§ 153 AußStrG]] iVm [[legal_norm|§ 797 ABGB]] vorab zu berichtigen. Die Forderungen der [[organization|Bittner e.U.]], der [[organization|Greiner & Grünfeld GmbH]] und der [[organization|Lemmerer Logistik AG]] sind belegt und der Höhe nach nachvollziehbar. Der Gesamtbetrag von 10.348,30 Euro übersteigt den vorhandenen Barbestand nicht. Die Liegenschaft muss daher nicht veräußert werden.
 

@@ -3,7 +3,7 @@ doc_type: ogh_urteil
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0771_ogh_urteil#0
-review: agent
+review: convention-pass
 ---
 [[court|OGH]]
 

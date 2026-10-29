@@ -3,7 +3,7 @@ doc_type: versicherungsschreiben
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0377_versicherungsschreiben#0
-review: agent
+review: convention-pass
 ---
 [[organization|Alpenland Versicherungs-AG]]
 Schadenabteilung Gebäudeversicherung

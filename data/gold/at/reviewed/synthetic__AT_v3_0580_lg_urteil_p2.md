@@ -3,7 +3,7 @@ doc_type: lg_urteil
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0580_lg_urteil#2
-review: agent
+review: convention-pass
 ---
 Das Gericht hat die Parteien einvernommen, die Zeugenaussagen gewürdigt und ein medizinisches Sachverständigengutachten eingeholt. Der Sachverständige hielt fest, dass die Infektion bei sorgfältiger Nachsorge bei einem Großteil der Fälle vermeidbar gewesen wäre. Die Dokumentation der ersten Beklagten sei lückenhaft, insbesondere fehle der Vermerk über die Wiedervorstellung vom [[date|12.02.2025]].
 

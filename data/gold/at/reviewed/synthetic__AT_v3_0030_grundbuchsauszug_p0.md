@@ -3,7 +3,7 @@ doc_type: grundbuchsauszug
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0030_grundbuchsauszug#0
-review: agent
+review: convention-pass
 ---
 [[court|Bezirksgericht Zwettl]]
 Grundbuch

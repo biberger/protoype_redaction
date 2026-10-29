@@ -3,7 +3,7 @@ doc_type: ogh_urteil
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0150_ogh_urteil#2
-review: agent
+review: convention-pass
 ---
 Das [[court|Bezirksgericht Hollabrunn]] gab dem Klagebegehren teilweise statt und sprach am [[date|23. Juni 2025]] aus, dass die Mietzinsminderung im Ausmaß von 15 % berechtigt war. Das Mehrbegehren wies es ab. Das Berufungsgericht bestätigte diese Entscheidung im Wesentlichen und änderte sie hinsichtlich der Höhe der Minderung ab.
 

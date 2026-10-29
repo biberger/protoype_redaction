@@ -3,7 +3,7 @@ doc_type: vwgh_erkenntnis
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0615_vwgh_erkenntnis#3
-review: agent
+review: convention-pass
 ---
 5. Die Ausführungen der Mitbeteiligten in ihrer Stellungnahme vom [[date|20.04.2026]] zur Frage der Zuverlässigkeit der Geschäftsführung wurden vom Verwaltungsgericht nicht geprüft. Dabei hätte insbesondere berücksichtigt werden müssen, dass die Gesellschaft seit dem [[date|1. Februar 2025]] keine Verwaltungsübertretung nach der [[legal_norm|GewO 1994]] mehr begangen hat. Ebenso wenig wurde geprüft, ob die Abgabe einer Erklärung nach [[legal_norm|§ 13 Abs 2 GewO 1994]] durch [[person|R***** K*****]] ausreichend war.
 

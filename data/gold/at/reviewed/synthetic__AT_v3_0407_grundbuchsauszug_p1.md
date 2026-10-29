@@ -3,7 +3,7 @@ doc_type: grundbuchsauszug
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0407_grundbuchsauszug#1
-review: agent
+review: convention-pass
 ---
 Anmerkung: Der Antrag der [[organization|Obersteiner GmbH]], [[company_register_number|FN 437023g]], [[tax_id|ATU17688161]], auf Eintragung eines Vorkaufsrechts wurde zurückgewiesen. Die Vorkaufsberechtigte ist nicht Eigentümerin einer benachbarten Liegenschaft im Sinne von [[legal_norm|§ 1072 ABGB]].
 

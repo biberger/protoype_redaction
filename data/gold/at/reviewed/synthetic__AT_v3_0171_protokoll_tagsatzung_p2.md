@@ -3,7 +3,7 @@ doc_type: protokoll_tagsatzung
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0171_protokoll_tagsatzung#2
-review: agent
+review: convention-pass
 ---
 Der Richter weist die Parteien darauf hin, dass der Anspruch auf [[legal_norm|§ 1151 Abs 1 ABGB]] iVm [[legal_norm|§ 1152 ABGB]] iVm [[legal_norm|§ 1333 ABGB]] gestützt werden kann. Für die Rüge der Mängel ist [[legal_norm|§ 377 UGB]] iVm [[legal_norm|§ 1295 Abs 1 ABGB]] zu beachten, der die Pflicht zur unverzüglichen Untersuchung und Rüge regelt. Verzugszinsen richten sich nach [[legal_norm|§ 1333 Abs 2 ABGB]] iVm [[legal_norm|§ 456 UGB]].
 

@@ -3,7 +3,7 @@ doc_type: dienstzeugnis
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0253_dienstzeugnis#3
-review: agent
+review: convention-pass
 ---
 Frau [[person|Grgic]] verfügt über ausgezeichnete Kenntnisse in den Programmiersprachen, die in unserem Unternehmen eingesetzt werden, sowie über fundierte Erfahrung im Umgang mit relationalen Datenbanken und Schnittstellen nach gängigen Standards. Ihr Wissen über die Anforderungen des Zahlungsverkehrs war für unser Unternehmen von großem Wert.
 

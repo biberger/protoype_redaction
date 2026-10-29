@@ -3,7 +3,7 @@ doc_type: bescheid_finanzamt
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0277_bescheid_finanzamt#1
-review: agent
+review: convention-pass
 ---
 Die Lohnverrechnung für den Bilanzbuchhalter [[person|Gorius Rie]], Versicherungsnummer [[social_security_number|2370 211197]], wurde gesondert geprüft. Die dort ausgewiesenen Entgelte haben auf die Umsatzsteuer keinen Einfluss und sind daher nicht Gegenstand dieses Bescheides.
 

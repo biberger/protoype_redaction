@@ -3,7 +3,7 @@ doc_type: arztbrief
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0201_arztbrief#0
-review: agent
+review: convention-pass
 ---
 [[organization|Landesklinikum Freistadt]]
 Abteilung für Innere Medizin und Kardiologie
@@ -18,7 +18,7 @@ An den behandelnden Hausarzt
 Patient: [[person|Kanut Werndl]], geboren am [[date|24. Juli 1989]]
 Wohnhaft: [[address|Taubentalweg 7, 4284 Tragwein]]
 Sozialversicherungsnummer: [[social_security_number|1748 240789]]
-Aufenthalt: vom [[date|12. September 2026]] bis [[date|19. September 2026]]
+Aufenthalt: vom [[date|12. September 2026 bis 19. September 2026]]
 Aufnahmeärztin: [[person|Dr. med. Maria Marcelina Arce]]
 
 Sehr geehrter Kollege,

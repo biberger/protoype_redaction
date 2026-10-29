@@ -3,7 +3,7 @@ doc_type: notariatsakt
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0371_notariatsakt#1
-review: agent
+review: convention-pass
 ---
 I. Übergabe
 

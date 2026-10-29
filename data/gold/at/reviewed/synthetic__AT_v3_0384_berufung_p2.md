@@ -3,7 +3,7 @@ doc_type: berufung
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0384_berufung#2
-review: agent
+review: convention-pass
 ---
 Das Erstgericht hat die Gewährleistungsansprüche zu Unrecht als verjährt beurteilt. Die Frist des [[legal_norm|§ 933 Abs 1 ABGB]] wurde durch die rechtzeitige Mängelrüge gewahrt. Maßgeblich ist die Übergabe der Liegenschaft, nicht der Zeitpunkt des Vertragsabschlusses.
 

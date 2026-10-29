@@ -3,7 +3,7 @@ doc_type: kaufvertrag_kfz
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0153_kaufvertrag_kfz#2
-review: agent
+review: convention-pass
 ---
 Die Verkäuferin haftet für Mängel nach [[legal_norm|§ 922 ABGB]] iVm [[legal_norm|§ 932 ABGB]]. Gewährleistungsansprüche sind nach [[legal_norm|§ 933 Abs 1 ABGB]] binnen zwei Jahren geltend zu machen. Die Käuferin erklärt, das Fahrzeug nach Prüfung in gebrauchtem Zustand zu übernehmen. Die Käuferin hat das Fahrzeug vor Vertragsabschluss selbst besichtigt und eine Probefahrt von rund 40 Kilometern unternommen. Die Reifen, die Bremsen und die Beleuchtung wurden gemeinsam überprüft; Beanstandungen wurden nicht erhoben, mit Ausnahme einer kleinen Lackabplatzung an der hinteren Stoßstange, die im Kaufpreis berücksichtigt ist. Ein Gewährleistungsausschluss für Mängel, die bei der Übergabe bereits vorhanden waren, ist nicht vereinbart.
 

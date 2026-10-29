@@ -3,7 +3,7 @@ doc_type: lg_urteil
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0990_lg_urteil#1
-review: agent
+review: convention-pass
 ---
 Das Gericht stellt fest: Der Zeuge [[person|Ferdinand Wald]], wohnhaft in [[address|Raaber-Bahn-Gasse 21/10, 9852 Trebesing]], hat glaubwürdig ausgesagt, dass die Abdichtung zum Zeitpunkt der Übergabe am [[date|24. April 2026]] fachgerecht ausgeführt war. [[person|Wald]] ist Bauleiter einer Fremdfirma und hatte die Arbeiten an der Brüstung im Auftrag der Beklagten besichtigt.
 

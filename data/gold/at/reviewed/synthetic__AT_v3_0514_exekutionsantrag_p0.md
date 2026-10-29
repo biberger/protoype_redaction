@@ -3,7 +3,7 @@ doc_type: exekutionsantrag
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0514_exekutionsantrag#0
-review: agent
+review: convention-pass
 ---
 An das
 [[court|Bezirksgericht Deutschlandsberg]]

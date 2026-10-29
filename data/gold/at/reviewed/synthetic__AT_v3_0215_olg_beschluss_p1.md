@@ -3,7 +3,7 @@ doc_type: olg_beschluss
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0215_olg_beschluss#1
-review: agent
+review: convention-pass
 ---
 Dagegen richtet sich der rechtzeitige Rekurs vom [[date|23.06.2026]], in dem die Rekurswerberin die Aufhebung begehrt. Die Anmeldung sei von den vertretungsbefugten Gesellschaftern unterzeichnet worden, weil [[person|Reginald Lecher]] als Komplementär zugleich Prokurist der [[organization|Bürger Logistik AG]] sei und die Zustimmung schriftlich erteilt habe.
 

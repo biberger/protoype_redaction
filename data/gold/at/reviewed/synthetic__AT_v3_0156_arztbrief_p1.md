@@ -3,7 +3,7 @@ doc_type: arztbrief
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0156_arztbrief#1
-review: agent
+review: convention-pass
 ---
 Medikation bei Entlassung: Amoxicillin und Clavulansäure 1 g dreimal täglich für sieben Tage sowie Paracetamol bei Bedarf. Bei erneutem Fieber oder zunehmender Atemnot ist der Patient angewiesen, umgehend eine Ambulanz aufzusuchen.
 

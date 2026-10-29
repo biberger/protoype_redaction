@@ -3,7 +3,7 @@ doc_type: bg_beschluss_pflegschaft
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0681_bg_beschluss_pflegschaft#1
-review: agent
+review: convention-pass
 ---
 Das Gericht hat die Parteien am [[date|18. Juni 2026]] einvernommen. Die Großmutter des Kindes, [[person|R***** P*****]], wohnhaft [[address|Jaunerstraße 46/8, 3130 Herzogenburg]], gab als Zeugin an, dass der Vater dem Kind zuletzt im Herbst 2025 Geld übergeben habe. Die Zeugin hat diese Angabe nicht belegt. Ihr Bericht stimmt aber mit den Angaben der Mutter überein.
 

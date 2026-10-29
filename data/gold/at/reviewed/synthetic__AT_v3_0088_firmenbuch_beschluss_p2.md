@@ -3,7 +3,7 @@ doc_type: firmenbuch_beschluss
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0088_firmenbuch_beschluss#2
-review: agent
+review: convention-pass
 ---
 Zur Vorlage der Unterlagen ist anzumerken, dass die Anmeldung zunächst am [[date|20.05.2026]] wegen fehlender Unterschrift zurückgestellt wurde. Die nachgereichte Anmeldung trägt das Datum [[date|27. Mai 2026]] und wurde von allen Antragstellern unterzeichnet. Die Antragsteller haben zudem den Lebenslauf der neuen Geschäftsführerin [[person|Dora Redlich]] vorgelegt, aus dem sich eine mehrjährige Tätigkeit in der Holzverarbeitung ergibt. Die Gesellschaft ist seit dem Jahr 2011 im Firmenbuch eingetragen und hat in dieser Zeit keine Löschungsanträge oder Insolvenzverfahren verzeichnet, sodass einer Eintragung der neuen Vertretungsregelung keine Hindernisse entgegenstehen.
 

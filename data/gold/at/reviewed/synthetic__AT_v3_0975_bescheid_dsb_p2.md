@@ -3,7 +3,7 @@ doc_type: bescheid_dsb
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0975_bescheid_dsb#2
-review: agent
+review: convention-pass
 ---
 Die Kostenentscheidung entfällt, weil der Beschwerdeführer nicht durch Verschulden der Beschwerdegegnerin zur Beschwerde genötigt war.
 

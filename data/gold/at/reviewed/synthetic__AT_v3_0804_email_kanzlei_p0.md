@@ -3,7 +3,7 @@ doc_type: email_kanzlei
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0804_email_kanzlei#0
-review: agent
+review: convention-pass
 ---
 Von: [[person|Dr. Magda Köck]] <[[email|m.koeck@koeck-stb.at]]>
 An: [[person|Gert Wunderer]] <[[email|g.wunderer@fleischmann-ag.at]]>; [[person|Bronja Huber]] <[[email|b.huber@list-gmbh.at]]>

@@ -3,7 +3,7 @@ doc_type: handelsgericht_beschluss
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0721_handelsgericht_beschluss#7
-review: agent
+review: convention-pass
 ---
 Im Protokoll der Gesellschafterversammlung findet sich unter Punkt 3 folgende Passage: Die Versammlung nimmt die Niederlegung der Funktion durch die bisherige Geschäftsführerin zur Kenntnis. Die Versammlung beschließt die Bestellung von Frau [[person|Eliane Toussing]] mit sofortiger Wirkung und die gemeinsame Vertretung durch Herrn [[person|Helwig Springer]] und Frau [[person|Toussing]]. Die Beschlussfassung erfolgte mit den Stimmen der Gesellschafter laut Liste, ohne Gegenstimmen.
 

@@ -3,9 +3,9 @@ doc_type: klage
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0319_klage#2
-review: agent
+review: convention-pass
 ---
-7. Der Lieferumfang ergibt sich aus dem Lieferschein Nr. [[other_identifier|LS-25-03382]]. Im Einzelnen wurden ein Wohnzimmerschrank mit vier Türen, zwei Couchtische, eine U-förmige Küchenzeile mit Einbaugeräten, ein Esstisch samt sechs Stühlen sowie ein Garderobenpaneel geliefert. Die Positionen sind im Lieferschein einzeln aufgelistet und von [[person|Ambrose]] am Liefertag unterschrieben worden.
+7. Der Lieferumfang ergibt sich aus dem Lieferschein Nr. LS-25-03382. Im Einzelnen wurden ein Wohnzimmerschrank mit vier Türen, zwei Couchtische, eine U-förmige Küchenzeile mit Einbaugeräten, ein Esstisch samt sechs Stühlen sowie ein Garderobenpaneel geliefert. Die Positionen sind im Lieferschein einzeln aufgelistet und von [[person|Ambrose]] am Liefertag unterschrieben worden.
 
 8. Mit E-Mail vom [[date|29. Juli 2025]] rügte [[person|Ambrose]] angeblich fehlende Schrankelemente im Wohnzimmerschrank. Die Klägerin hat mit Schreiben vom [[date|4. August 2025]] darauf hingewiesen, dass die Elemente laut Lieferschein vollständig übergeben wurden, und die Nachlieferung eines Einlegebodens angeboten. Das Angebot wurde nicht angenommen.
 

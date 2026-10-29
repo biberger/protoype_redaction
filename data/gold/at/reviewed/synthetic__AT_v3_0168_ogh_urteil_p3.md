@@ -3,7 +3,7 @@ doc_type: ogh_urteil
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0168_ogh_urteil#3
-review: agent
+review: convention-pass
 ---
 5. Die klagende Partei rügt in der Revision die Anwendung von [[legal_norm|§ 1118 ABGB]] und [[legal_norm|§ 1111 ABGB]] durch das Berufungsgericht. Die Rüge ist nicht berechtigt, weil die Kündigung zu einem Zeitpunkt erfolgte, in dem der Zahlungsverzug bereits eingetreten war.
 

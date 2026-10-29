@@ -3,7 +3,7 @@ doc_type: bescheid_dsb
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0975_bescheid_dsb#0
-review: agent
+review: convention-pass
 ---
 [[organization|Datenschutzbehörde]]
 GZ [[case_number|2025-0.418.263]]

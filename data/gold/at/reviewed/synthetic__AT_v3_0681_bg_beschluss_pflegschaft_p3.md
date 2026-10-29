@@ -3,7 +3,7 @@ doc_type: bg_beschluss_pflegschaft
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0681_bg_beschluss_pflegschaft#3
-review: agent
+review: convention-pass
 ---
 Die Kosten des Verfahrens werden nach [[legal_norm|§ 78 AußStrG]] dem Vater auferlegt, weil er die Unterhaltszahlungen nicht erbracht hat.
 
@@ -15,5 +15,5 @@ Gegen diesen Beschluss ist der Rekurs an das [[court|Landesgericht St. Pölten]]
 
 Für die Richtigkeit der Ausfertigung:
 
-[[judge|Felizian Thalmann]]
+[[person|Felizian Thalmann]]
 Rechtspfleger

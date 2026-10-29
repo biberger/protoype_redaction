@@ -3,7 +3,7 @@ doc_type: bescheid_bfa
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0834_bescheid_bfa#2
-review: agent
+review: convention-pass
 ---
 Gegen diesen Bescheid kann innerhalb von zwei Wochen nach Zustellung eine Beschwerde an das [[court|Bundesverwaltungsgericht]] erhoben werden. Die Beschwerde ist beim [[organization|BFA]] einzubringen.
 

@@ -3,7 +3,7 @@ doc_type: arbeitsvertrag
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0426_arbeitsvertrag#1
-review: agent
+review: convention-pass
 ---
 (3) Mit dem Entgelt sind Überstunden abgegolten, soweit sie nicht das im Kollektivvertrag vorgesehene Ausmaß überschreiten.
 

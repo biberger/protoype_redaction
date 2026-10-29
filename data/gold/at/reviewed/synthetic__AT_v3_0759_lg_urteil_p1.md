@@ -3,7 +3,7 @@ doc_type: lg_urteil
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0759_lg_urteil#1
-review: agent
+review: convention-pass
 ---
 Die Arbeiten begannen am [[date|02.05.2023]]. Bei der Übergabe am [[date|09.06.2023]] stellte [[person|Ralph Rinner]] fest, dass die Dachstühle nicht fachgerecht verschraubt waren. Die Statikerin [[person|Ing. Raghad Maoui]] bestätigte die Mängel mit einem vorläufigen Gutachten vom [[date|21.07.2023]].
 

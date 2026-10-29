@@ -3,7 +3,7 @@ doc_type: mietvertrag
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0132_mietvertrag#1
-review: agent
+review: convention-pass
 ---
 (2) Die Übergabe erfolgt am [[date|01.02.2026]] gegen Übergabsprotokoll. Der Vertragsentwurf wurde den Mietern am [[date|14. Jänner 2026]] übermittelt.
 

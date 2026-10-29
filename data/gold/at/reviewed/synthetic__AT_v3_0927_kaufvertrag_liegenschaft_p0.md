@@ -3,7 +3,7 @@ doc_type: kaufvertrag_liegenschaft
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0927_kaufvertrag_liegenschaft#0
-review: agent
+review: convention-pass
 ---
 **KAUFVERTRAG**
 

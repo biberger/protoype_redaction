@@ -3,7 +3,7 @@ doc_type: versicherungsschreiben
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0377_versicherungsschreiben#1
-review: agent
+review: convention-pass
 ---
 Der Sachverständige hat festgestellt, dass neben der Dacheindeckung auch zwei Sparren im Bereich der Traufe leicht verformt sind. Eine Durchfeuchtung der Dämmung konnte bei der Besichtigung nicht festgestellt werden. Sollte sich bei den Reparaturarbeiten eine weitergehende Schädigung zeigen, ist uns dies unverzüglich mitzuteilen. Eine Nachtragsprüfung wird dann auf Grundlage eines weiteren Gutachtens durchgeführt.
 

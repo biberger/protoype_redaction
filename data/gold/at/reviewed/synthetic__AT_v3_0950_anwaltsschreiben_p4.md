@@ -3,7 +3,7 @@ doc_type: anwaltsschreiben
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0950_anwaltsschreiben#4
-review: agent
+review: convention-pass
 ---
 Rechnung Nr. | Datum | Betrag netto | Leistung
 2026/0412 | [[date|14.05.2026]] | EUR 8.760,00 | Kabel NYM-J 3x1,5 und 5x2,5 mm²

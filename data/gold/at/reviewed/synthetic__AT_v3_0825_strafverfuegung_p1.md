@@ -3,7 +3,7 @@ doc_type: strafverfuegung
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0825_strafverfuegung#1
-review: agent
+review: convention-pass
 ---
 Zur Frage der Lenkereigenschaft hat [[person|Dr. Evelyn Peichl]], Disponentin der [[organization|d’Oria Dachdecker AG]], mit Schreiben vom [[date|15. Oktober 2026]] bestätigt, dass das Fahrzeug am Tattag ausschließlich der Beschuldigten zugeteilt war. [[person|Peichl]] gab außerdem an, dass die Fahrt einer Anlieferung galt.
 

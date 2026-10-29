@@ -3,7 +3,7 @@ doc_type: revision
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0818_revision#0
-review: agent
+review: convention-pass
 ---
 An den [[court|Obersten Gerichtshof]]
 

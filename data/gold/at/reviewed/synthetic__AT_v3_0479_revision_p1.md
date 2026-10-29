@@ -3,9 +3,9 @@ doc_type: revision
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0479_revision#1
-review: agent
+review: convention-pass
 ---
-Frau [[person|Elena Bachmann]] war vom [[date|1. März 2023]] bis zum [[date|30. Juni 2024]] als Fliesenlegerin beschäftigt. Die Anmeldung zur Sozialversicherung erfolgte erst am [[date|14. August 2023]], also verspätet. Die Beitragsgrundlage für die Monate März bis Juli 2023 wurde nicht gemeldet.
+Frau [[person|Elena Bachmann]] war vom [[date|1. März 2023 bis zum 30. Juni 2024]] als Fliesenlegerin beschäftigt. Die Anmeldung zur Sozialversicherung erfolgte erst am [[date|14. August 2023]], also verspätet. Die Beitragsgrundlage für die Monate März bis Juli 2023 wurde nicht gemeldet.
 
 Gemäß [[legal_norm|§ 33 Abs 1 iVm § 35 Abs 1 ASVG]] iVm [[legal_norm|§ 43 Abs 1 ASVG]] und [[legal_norm|§ 2 Abs 1 Z 1 LSD-BG]] ist die Anmeldung spätestens am Tag vor dem Beschäftigungsbeginn zu erstatten. Die Nachverrechnung der Beiträge beträgt 3.912,40 EUR zuzüglich Verzugszinsen.
 

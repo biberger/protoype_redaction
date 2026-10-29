@@ -3,10 +3,10 @@ doc_type: bescheid_finanzamt
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0375_bescheid_finanzamt#0
-review: agent
+review: convention-pass
 ---
 [[organization|Finanzamt Österreich]]
-Dienststelle [[location|Hartberg-Fürstenfeld]]
+Dienststelle Hartberg-Fürstenfeld
 
 Steuernummer: [[tax_id|34 561/0912]]
 GZ: [[case_number|RV/1822-2026]]

@@ -3,7 +3,7 @@ doc_type: bg_beschluss_exekution
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0709_bg_beschluss_exekution#0
-review: agent
+review: convention-pass
 ---
 [[location|Leibnitz]], am [[date|12.06.2026]]
 
@@ -11,7 +11,7 @@ GZ [[case_number|3 E 415/26t]]
 
 B E S C H L U S S
 
-Das [[court|Bezirksgericht Leibnitz]] (in der Folge: [[court|BG Leibnitz]]) hat durch die Richterin [[judge|Sibylla Pérez]] in der Exekutionssache der betreibenden Partei [[organization|Moroder KG]], [[company_register_number|FN 419892p]], UID-Nr. [[tax_id|ATU52204635]], vertreten durch [[lawyer|Flori Bartsch]], gegen die verpflichtete Partei Frau [[person|K***** L*****]] sowie den Mitverpflichteten Herrn [[person|C***** R*****]] und den Drittschuldner [[organization|Vrova GmbH & Co KG]], [[company_register_number|FN 187222b]], UID-Nr. [[tax_id|ATU59092387]], [[address|Josef-Scheu-Weg 67, 8410 Wildon]], wegen Forderung von EUR 4.812,35 sA beschlossen:
+Das [[court|Bezirksgericht Leibnitz]] (in der Folge: [[court|BG Leibnitz]]) hat durch die Richterin [[judge|Sibylla Pérez]] in der Exekutionssache der betreibenden Partei [[organization|Moroder KG]], [[company_register_number|FN 419892p]], UID-Nr. [[tax_id|ATU52204635]], vertreten durch [[person|Flori Bartsch]], gegen die verpflichtete Partei Frau [[person|K***** L*****]] sowie den Mitverpflichteten Herrn [[person|C***** R*****]] und den Drittschuldner [[organization|Vrova GmbH & Co KG]], [[company_register_number|FN 187222b]], UID-Nr. [[tax_id|ATU59092387]], [[address|Josef-Scheu-Weg 67, 8410 Wildon]], wegen Forderung von EUR 4.812,35 sA beschlossen:
 
 Spruch
 

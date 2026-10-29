@@ -3,7 +3,7 @@ doc_type: arztbrief
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0523_arztbrief#2
-review: agent
+review: convention-pass
 ---
 Der Patient wurde am [[date|12. März 2026]] in gutem Allgemeinzustand entlassen. Die weitere Kontrolle sollte innerhalb von zwei Wochen beim Hausarzt erfolgen, eine Wiedervorstellung in der kardiologischen Ambulanz ist nach sechs Wochen vorgesehen.
 

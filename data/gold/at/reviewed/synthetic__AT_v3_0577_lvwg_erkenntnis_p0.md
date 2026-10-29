@@ -3,7 +3,7 @@ doc_type: lvwg_erkenntnis
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0577_lvwg_erkenntnis#0
-review: agent
+review: convention-pass
 ---
 [[court|Landesverwaltungsgericht Steiermark]]
 

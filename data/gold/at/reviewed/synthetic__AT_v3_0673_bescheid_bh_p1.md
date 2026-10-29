@@ -3,7 +3,7 @@ doc_type: bescheid_bh
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0673_bescheid_bh#1
-review: agent
+review: convention-pass
 ---
 Der straßenbautechnische Amtssachverständige [[person|Ing. Reinald Mayerl]] hat in seinem Gutachten vom [[date|28. August 2026]] festgestellt, dass die geplante Ausführung den technischen Anforderungen entspricht, sofern die oben genannten Auflagen eingehalten werden. Die Sichtverhältnisse seien derzeit eingeschränkt.
 

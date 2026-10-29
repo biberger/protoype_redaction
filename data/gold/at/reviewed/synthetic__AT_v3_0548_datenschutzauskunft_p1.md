@@ -3,7 +3,7 @@ doc_type: datenschutzauskunft
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0548_datenschutzauskunft#1
-review: agent
+review: convention-pass
 ---
 2. Zweck und Rechtsgrundlage
 

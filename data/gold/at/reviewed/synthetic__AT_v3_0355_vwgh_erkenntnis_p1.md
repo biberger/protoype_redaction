@@ -3,7 +3,7 @@ doc_type: vwgh_erkenntnis
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0355_vwgh_erkenntnis#1
-review: agent
+review: convention-pass
 ---
 2. Gegen diesen Bescheid erhob der [[person|A*****]] rechtzeitig Beschwerde. Er brachte vor, die Konstruktion sei als bewilligungsfreies Gartenhaus im Sinne des [[legal_norm|§ 3 Abs 2 Z 4 TBO 2022]] zu qualifizieren. Die Beschwerde wurde von der [[organization|Bezirkshauptmannschaft Reutte]] nicht vorgelegt; vielmehr wurde die Angelegenheit unmittelbar dem [[court|Landesverwaltungsgericht Tirol]] übermittelt.
 

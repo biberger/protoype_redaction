@@ -3,7 +3,7 @@ doc_type: notariatsakt
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0556_notariatsakt#9
-review: agent
+review: convention-pass
 ---
 Die Betriebskosten für Wasser, Müllabfuhr und Kanal werden vom Übernehmer getragen, die Stromkosten der Räume von den Berechtigten selbst. Die Heizkosten werden nach Verbrauch abgerechnet, wobei der Übernehmer die Abrechnung jährlich bis zum 31. März des Folgejahres vorzulegen hat.
 

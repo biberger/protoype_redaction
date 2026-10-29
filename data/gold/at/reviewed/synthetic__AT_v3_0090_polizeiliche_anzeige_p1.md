@@ -3,7 +3,7 @@ doc_type: polizeiliche_anzeige
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0090_polizeiliche_anzeige#1
-review: agent
+review: convention-pass
 ---
 Die Zeugin [[person|Babro Geiger]] gab an, dass auch sie von [[person|Dorthe Keller]] ein Angebot erhalten habe. Sie habe jedoch vor einer Zahlung das Firmenbuch eingesehen und festgestellt, dass die [[organization|Kanizsai e.U.]] dort nicht als Betrieb des Renovierungsgewerbes eingetragen ist.
 

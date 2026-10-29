@@ -3,7 +3,7 @@ doc_type: klage
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0142_klage#1
-review: agent
+review: convention-pass
 ---
 2. Das Fahrzeug war zuvor von der zweitbeklagten Partei für Transportdienste bei Veranstaltungen eingesetzt worden. Der Geschäftsführer der zweitbeklagten Partei, [[person|Mag. Raimer Attems]], hat die Übergabe des Fahrzeugs an die erstbeklagte Partei am [[date|5. Juli 2024]] schriftlich bestätigt. Die Bestätigung enthält keinen Hinweis auf frühere Unfallschäden.
 

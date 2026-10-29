@@ -3,7 +3,7 @@ doc_type: testament
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0838_testament#1
-review: agent
+review: convention-pass
 ---
 Nach meinem Wissen bestehen keine pflichtteilsberechtigten Personen. Sollte sich dennoch ein Noterbe melden, so gelten die Bestimmungen der [[legal_norm|§§ 762 ff ABGB]], und [[person|Cissé]] trägt die Pflichtteilsansprüche aus dem Nachlass.
 

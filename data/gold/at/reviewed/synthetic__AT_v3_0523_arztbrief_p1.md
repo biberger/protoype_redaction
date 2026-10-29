@@ -3,7 +3,7 @@ doc_type: arztbrief
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0523_arztbrief#1
-review: agent
+review: convention-pass
 ---
 Laborchemisch zeigten sich ein leicht erhöhtes C-reaktives Protein von 6,8 mg/l, ein HbA1c von 5,9 Prozent sowie ein LDL-Cholesterin von 168 mg/dl. Das Blutbild war ohne Auffälligkeiten, die Nierenwerte lagen im Referenzbereich. Im Belastungs-EKG auf dem Fahrradergometer wurde die submaximale Belastung bei 125 Watt wegen Erschöpfung abgebrochen; es fanden sich keine signifikanten ST-Streckensenkungen.
 

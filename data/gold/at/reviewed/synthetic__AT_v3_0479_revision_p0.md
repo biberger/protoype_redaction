@@ -3,7 +3,7 @@ doc_type: revision
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0479_revision#0
-review: agent
+review: convention-pass
 ---
 [[organization|Österreichische Gesundheitskasse, Landesstelle Tirol]]
 Abteilung Beitragsprüfung, [[location|Innsbruck]]
@@ -14,7 +14,7 @@ REVISIONSBERICHT
 
 über die Prüfung der Lohnabgaben gemäß dem [[legal_norm|Lohn- und Sozialdumping-Bekämpfungsgesetz]] und dem [[legal_norm|Allgemeinen Sozialversicherungsgesetz]]
 
-Prüfzeitraum: [[date|01.01.2023]] bis [[date|31.12.2025]]
+Prüfzeitraum: [[date|01.01.2023 bis 31.12.2025]]
 
 Geprüfter Dienstgeber: [[organization|Al Huja Fliesen KG]], [[company_register_number|FN 631667y]], UID-Nummer [[tax_id|ATU49117815]]
 Anschrift: [[address|Hochofen A

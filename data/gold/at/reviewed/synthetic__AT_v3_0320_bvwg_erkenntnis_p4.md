@@ -3,7 +3,7 @@ doc_type: bvwg_erkenntnis
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0320_bvwg_erkenntnis#4
-review: agent
+review: convention-pass
 ---
 Die Beschwerdeführer haben außerdem die Höhe der Haftungssumme dem Grunde nach nicht bestritten, sondern lediglich die Verschuldensfrage aufgeworfen. Das Gericht sieht in den vorgelegten Unterlagen keinen Anhaltspunkt, dass die Abgabenbehörde ihr Ermessen bei der Auswahl der Haftungspflichtigen fehlerhaft ausgeübt hat. Die Auswahl erfolgte nach der Stellung im Unternehmen und dem Umfang der jeweiligen Beteiligung. Die Behörde hat dabei zutreffend berücksichtigt, dass die Haftungsschuldner ihre Beteiligung im Firmenbuch offengelegt hatten und die Haftungsbescheide zeitnah zugestellt wurden.
 

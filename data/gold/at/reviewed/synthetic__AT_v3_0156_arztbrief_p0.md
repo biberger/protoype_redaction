@@ -3,7 +3,7 @@ doc_type: arztbrief
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0156_arztbrief#0
-review: agent
+review: convention-pass
 ---
 [[organization|Landeskrankenhaus Hartberg]], Abteilung Innere Medizin
 

@@ -3,7 +3,7 @@ doc_type: handelsgericht_beschluss
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0872_handelsgericht_beschluss#1
-review: agent
+review: convention-pass
 ---
 Die Vorentscheidung vom [[date|11. Mai 2026]] wurde von der Richterin [[judge|Raphaela Amtmann]] und dem Richter [[judge|Hasse Höchtl]] gefällt. Sie hat den Antrag mangels Glaubhaftmachung abgewiesen. Der Antragsteller hat dagegen den neuerlichen Antrag vom [[date|2. Juni 2026]] erhoben.
 

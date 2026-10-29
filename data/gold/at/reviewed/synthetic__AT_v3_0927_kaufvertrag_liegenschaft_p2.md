@@ -3,7 +3,7 @@ doc_type: kaufvertrag_liegenschaft
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0927_kaufvertrag_liegenschaft#2
-review: agent
+review: convention-pass
 ---
 1. Die Vertragsparteien bewilligen und beantragen die Einverleibung des Eigentumsrechts der Käuferin im Grundbuch. Der Antrag ist gemäss [[legal_norm|§ 24 WEG 2002]] und [[legal_norm|§ 9 Abs 2 WEG 2002]] zu stellen.
 

@@ -3,7 +3,7 @@ doc_type: sachverstaendigengutachten
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0298_sachverstaendigengutachten#5
-review: agent
+review: convention-pass
 ---
 19. Die Nutzung als Lagerhalle ist durch die Feuchteschäden und die Elektroinstallation eingeschränkt. Empfindliche Güter, insbesondere Textilien, können im Bereich der Außenwand Ost nicht gelagert werden. Eine Nutzung der übrigen Flächen ist ohne Einschränkung möglich.
 

@@ -3,7 +3,7 @@ doc_type: revision
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0893_revision#1
-review: agent
+review: convention-pass
 ---
 Die Geschäftsführung hat zugesichert, dass die Freigaberegel im Zahlungssystem ab dem [[date|1. April 2026]] technisch erzwungen wird.
 

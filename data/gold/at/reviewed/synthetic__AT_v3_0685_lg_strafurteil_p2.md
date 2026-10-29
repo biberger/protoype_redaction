@@ -3,7 +3,7 @@ doc_type: lg_strafurteil
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0685_lg_strafurteil#2
-review: agent
+review: convention-pass
 ---
 Am [[date|9. Mai 2025]] wurde die Angeklagte [[person|Fahrner]] im Zuge einer Hausdurchsuchung in ihrer Wohnung in [[location|Malta]] angetroffen. Dabei wurden ein Laptop und ein Drucker sichergestellt, auf denen sich Vorlagen für Briefköpfe mehrerer Speditionsunternehmen befanden. Der Angeklagte [[person|Azubuike]] wurde zwei Tage später in [[location|Mühldorf]] festgenommen und befand sich bis zum [[date|23. Mai 2025]] in Untersuchungshaft. Der Angeklagte [[person|Levy]] wurde erst im Juli 2025 ausgeforscht, nachdem ein Zeuge seine Fotografie in der Filiale wiedererkannt hatte.
 

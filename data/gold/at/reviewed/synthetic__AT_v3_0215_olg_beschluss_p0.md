@@ -3,7 +3,7 @@ doc_type: olg_beschluss
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0215_olg_beschluss#0
-review: agent
+review: convention-pass
 ---
 [[court|Oberlandesgericht Wien]]
 Abteilung 28

@@ -3,7 +3,7 @@ doc_type: polizeiliche_anzeige
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0553_polizeiliche_anzeige#1
-review: agent
+review: convention-pass
 ---
 Die Zeugin [[person|Doris Sušić]] ist Buchhalterin bei der [[organization|Kadić Software GmbH]] und gab an, dass die Bestellungen per E-Mail und telefonisch aufgegeben wurden. Die Zahlungsbestätigung für die erste Teillieferung sei von einem Konto überwiesen worden, das auf den Namen [[person|Dundović]] lautete und die IBAN [[bank_account|AT79 5645 2142 7798 4722]] trug. Die Kontoauszüge werden der Anzeige beigelegt.
 

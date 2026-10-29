@@ -3,7 +3,7 @@ doc_type: arbeitsvertrag
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0296_arbeitsvertrag#4
-review: agent
+review: convention-pass
 ---
 Die Dienstgeberin ist berechtigt, bei begründetem Verdacht einer Verletzung dieser Bestimmung das Dienstverhältnis nach Anhörung der Dienstnehmerin zu überprüfen. Die Anhörung ist schriftlich zu protokollieren und der Dienstnehmerin zur Gegenzeichnung vorzulegen.
 

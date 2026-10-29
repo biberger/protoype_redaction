@@ -3,7 +3,7 @@ doc_type: olg_urteil
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0061_olg_urteil#7
-review: agent
+review: convention-pass
 ---
 Die Lösung der Rechtsfragen folgt aus der ständigen Rechtsprechung. Eine erhebliche Rechtsfrage iSd [[legal_norm|§ 502 Abs 1 ZPO]] liegt nicht vor, weshalb die ordentliche Revision nicht zulässig ist.
 

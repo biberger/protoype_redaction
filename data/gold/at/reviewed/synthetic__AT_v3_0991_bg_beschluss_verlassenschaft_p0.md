@@ -3,7 +3,7 @@ doc_type: bg_beschluss_verlassenschaft
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0991_bg_beschluss_verlassenschaft#0
-review: agent
+review: convention-pass
 ---
 [[court|Bezirksgericht St. Johann im Pongau]]
 
@@ -25,4 +25,4 @@ III. Die Kosten des Verfahrens tragen die Verlassenschaft und die Erben je zur H
 
 Begründung
 
-Die Erblasserin verstarb am [[date|14. März 2026]] in ihrer Wohnung. Die Todesfallaufnahme erfolgte am [[date|18. März 2026]] durch [[judge|MBA Adrian Hofmann]]. Als Zeugen wurden [[person|Albrecht Ofner]], der Nachbar der Erblasserin, und [[person|Fritzi Seidl]] vernommen. Die Zeugin [[person|Fritzi Seidl]] bestätigte, dass die Erblasserin zuletzt von [[person|BSc Rajāʾ Ghezielle]] betreut worden war, die als Pflegekraft in der Wohnung tätig war.
+Die Erblasserin verstarb am [[date|14. März 2026]] in ihrer Wohnung. Die Todesfallaufnahme erfolgte am [[date|18. März 2026]] durch [[person|MBA Adrian Hofmann]]. Als Zeugen wurden [[person|Albrecht Ofner]], der Nachbar der Erblasserin, und [[person|Fritzi Seidl]] vernommen. Die Zeugin [[person|Fritzi Seidl]] bestätigte, dass die Erblasserin zuletzt von [[person|BSc Rajāʾ Ghezielle]] betreut worden war, die als Pflegekraft in der Wohnung tätig war.

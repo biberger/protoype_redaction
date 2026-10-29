@@ -3,7 +3,7 @@ doc_type: gesellschaftsvertrag
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0608_gesellschaftsvertrag#1
-review: agent
+review: convention-pass
 ---
 (3) Die Einzahlung ist auf das Konto der Gesellschaft, IBAN [[bank_account|AT28 3456 9834 8696 9405]], zu leisten. [[person|Dictino Pitarch]] übermittelt zum Nachweis seine Sozialversicherungsnummer [[social_security_number|9849 140986]] an die Geschäftsführung.
 

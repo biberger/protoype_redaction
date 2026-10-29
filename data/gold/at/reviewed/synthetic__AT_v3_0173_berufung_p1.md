@@ -3,7 +3,7 @@ doc_type: berufung
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0173_berufung#1
-review: agent
+review: convention-pass
 ---
 II. Die Hauptmieterin [[person|Muchitsch]] hat die Mietzinszahlungen für die Monate ab Jänner 2025 auf das Konto der klagenden Partei mit der IBAN [[bank_account|AT13 4410 0157 2514 2655]] nachweislich geleistet. Das Erstgericht hat dies in der Beweiswürdigung übergangen. Die Zeugin [[person|Christa von Ettinghausen]], Nachbarin in [[location|Großharras]], bestätigte, dass die Zahlungen regelmäßig am Ersten jeden Monats erfolgten. Das Erstgericht hat sich mit dieser Aussage nicht auseinandergesetzt.
 

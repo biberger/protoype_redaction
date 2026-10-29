@@ -3,7 +3,7 @@ doc_type: mietvertrag
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0107_mietvertrag#2
-review: agent
+review: convention-pass
 ---
 12. Bauliche Veränderungen bedürfen der vorherigen schriftlichen Zustimmung der Vermieterin. Die Mieterin hat für Instandhaltung und Reinigung der Innenräume selbst zu sorgen; Reparaturen an Dach und Fassade trägt die Vermieterin.
 

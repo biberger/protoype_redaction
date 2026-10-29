@@ -3,7 +3,7 @@ doc_type: email_kanzlei
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0655_email_kanzlei#3
-review: agent
+review: convention-pass
 ---
 Frau [[person|Barth]] und Herr [[person|Hausmann]] haben in der Vergangenheit mehrfach telefonisch Kontakt mit unserer Mandantin aufgenommen. Dabei wurden Zahlungstermine vereinbart, die nicht eingehalten wurden. Die Mandantin hat deshalb beschlossen, künftig nur noch schriftliche Zahlungsvereinbarungen zu akzeptieren. Mündliche Zusagen werden daher nicht berücksichtigt, sofern sie nicht schriftlich bestätigt wurden.
 

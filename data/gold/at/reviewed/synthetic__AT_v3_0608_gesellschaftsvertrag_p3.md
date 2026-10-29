@@ -3,7 +3,7 @@ doc_type: gesellschaftsvertrag
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0608_gesellschaftsvertrag#3
-review: agent
+review: convention-pass
 ---
 (1) Die Anmeldung zum Firmenbuch erfolgt durch die Geschäftsführung beim [[court|Landesgericht Feldkirch]] als Firmenbuchgericht.
 

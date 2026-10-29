@@ -3,7 +3,7 @@ doc_type: olg_urteil
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0966_olg_urteil#1
-review: agent
+review: convention-pass
 ---
 Der Traktor wies einen Getriebeschaden auf, der bei der Übergabe nicht erkennbar war. Die Klägerin begehrt Preisminderung und Schadenersatz.
 
@@ -11,7 +11,7 @@ Rechtliche Beurteilung
 
 Das Erstgericht stützte den Zuspruch auf [[legal_norm|§ 932 Abs 1 ABGB]] iVm [[legal_norm|§ 933 Abs 1 ABGB]] iVm [[legal_norm|§ 1 Abs 1 KSchG]]. Der Beklagte [[person|Nicula]] ist als Unternehmer anzusehen, der den Traktor im Rahmen seiner Landwirtschaft veräußerte; die Gewährleistung wurde nicht wirksam ausgeschlossen.
 
-In der Berufungsbeantwortung beantragte die beklagte Partei, vertreten durch [[lawyer|Eugenia Kaltenegger]], Rechtsanwältin in [[location|Graz]], die Abweisung der Berufung.
+In der Berufungsbeantwortung beantragte die beklagte Partei, vertreten durch [[lawyer|Mag. Margrit Toth]], Rechtsanwältin in [[location|Graz]], die Abweisung der Berufung.
 
 Die Berufung ist teilweise berechtigt. Die Preisminderung ist nach [[legal_norm|§ 932 Abs 4 ABGB]] iVm [[legal_norm|§ 933 Abs 2 ABGB]] zu berechnen. Der Gebrauchtwert des Getriebes ist vom Sachverständigen mit 4.100,00 Euro bewertet worden. Der darüber hinausgehende Betrag ist nicht zuzusprechen.
 

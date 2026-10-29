@@ -3,7 +3,7 @@ doc_type: anwaltsschreiben
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0538_anwaltsschreiben#0
-review: agent
+review: convention-pass
 ---
 [[lawyer|Dr. Nikola Vlasak]]
 Rechtsanwalt

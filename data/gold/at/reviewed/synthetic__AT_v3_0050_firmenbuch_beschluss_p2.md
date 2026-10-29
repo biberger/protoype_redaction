@@ -3,7 +3,7 @@ doc_type: firmenbuch_beschluss
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0050_firmenbuch_beschluss#2
-review: agent
+review: convention-pass
 ---
 [[person|Anselm von Reisenthal]], der als Gesellschafter in der Gesellschafterliste aufscheint, hat den Beschluss vom [[date|28. April 2026]] mit einer Eingabe vom [[date|18.06.2026]] beanstandet. Die Eingabe wurde als Einwendung geprüft. Sie betrifft jedoch nicht die Eintragungsfähigkeit der Tatsachen, sondern eine zivilrechtliche Streitfrage über die Anteilsübertragung, die im Firmenbuchverfahren nicht zu klären ist. Der Einwand war daher zurückzuweisen.
 

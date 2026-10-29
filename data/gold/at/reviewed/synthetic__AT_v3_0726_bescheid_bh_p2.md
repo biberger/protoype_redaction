@@ -3,7 +3,7 @@ doc_type: bescheid_bh
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0726_bescheid_bh#2
-review: agent
+review: convention-pass
 ---
 Die Angaben der Nachbarn [[person|Jahoda]] und [[person|Wiener]] sind glaubwürdig, weil sie übereinstimmend und unabhängig voneinander berichten. Die Feststellungen der Amtstierärztin [[person|Kubík]] werden vollinhaltlich übernommen. Die Aussage der Betriebsleiterin [[person|Crepaz]] ist insoweit nicht entscheidend, als sie die Hundezahl bestätigte.
 

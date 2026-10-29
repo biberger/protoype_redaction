@@ -3,9 +3,9 @@ doc_type: protokoll_tagsatzung
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0781_protokoll_tagsatzung#1
-review: agent
+review: convention-pass
 ---
-Die Richterin weist darauf hin, dass ein Vergleich nach [[legal_norm|§ 204 ZPO]] möglich ist, sofern alle Parteien zustimmen. [[lawyer|Dr. Forster]] erklärt, dass seine Mandantschaft zu Gesprächen bereit ist, sofern die Forderung der Höhe nach beziffert wird. Die Richterin nimmt dies zu Protokoll und hält fest, dass die Klägerschaft bis zur nächsten Tagsatzung keine weiteren Schriftsätze einbringen wird. Die Vertreter der beklagten Parteien haben dazu keine Einwendungen erhoben, sodass das Protokoll in dieser Form genehmigt wird.
+Die Richterin weist darauf hin, dass ein Vergleich nach [[legal_norm|§ 204 ZPO]] möglich ist, sofern alle Parteien zustimmen. [[person|Dr. Forster]] erklärt, dass seine Mandantschaft zu Gesprächen bereit ist, sofern die Forderung der Höhe nach beziffert wird. Die Richterin nimmt dies zu Protokoll und hält fest, dass die Klägerschaft bis zur nächsten Tagsatzung keine weiteren Schriftsätze einbringen wird. Die Vertreter der beklagten Parteien haben dazu keine Einwendungen erhoben, sodass das Protokoll in dieser Form genehmigt wird.
 
 Die Richterin fasst folgenden
 

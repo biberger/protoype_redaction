@@ -3,7 +3,7 @@ doc_type: strafverfuegung
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0763_strafverfuegung#3
-review: agent
+review: convention-pass
 ---
 Über Frau [[person|Hayek]] wird wegen Verletzung der Aufzeichnungspflicht nach [[legal_norm|§ 367 Z 25 GewO 1994]] eine Geldstrafe von 1.000 Euro verhängt. Über Herrn [[person|Kralik von Meyrswalden]] wird wegen derselben Übertretung nach [[legal_norm|§ 367 Z 25 GewO 1994]] eine Geldstrafe von 400 Euro verhängt.
 

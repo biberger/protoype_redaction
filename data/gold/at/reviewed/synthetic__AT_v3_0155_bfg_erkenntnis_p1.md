@@ -3,9 +3,9 @@ doc_type: bfg_erkenntnis
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0155_bfg_erkenntnis#1
-review: agent
+review: convention-pass
 ---
-Mit Bescheid vom [[date|14.04.2025]] setzte das [[organization|Finanzamt Liezen]] die Umsatzsteuer fest. Die Beschwerde vom [[date|2. Juni 2025]] wurde am [[date|11.08.2025]] ergänzt. Die Beschwerdeführerin rügte insbesondere, dass die Schätzung ohne Anhörung erfolgt sei. Ergänzend legte sie eine Stellungnahme ihres Vertreters vor, wonach die Rechnungen sämtliche Pflichtangaben enthielten. Die Stellungnahme wurde von [[lawyer|DI Lawrence Schmied]] am [[date|15.07.2025]] unterfertigt.
+Mit Bescheid vom [[date|14.04.2025]] setzte das [[organization|Finanzamt Liezen]] die Umsatzsteuer fest. Die Beschwerde vom [[date|2. Juni 2025]] wurde am [[date|11.08.2025]] ergänzt. Die Beschwerdeführerin rügte insbesondere, dass die Schätzung ohne Anhörung erfolgt sei. Ergänzend legte sie eine Stellungnahme ihres Vertreters vor, wonach die Rechnungen sämtliche Pflichtangaben enthielten. Die Stellungnahme wurde von [[person|DI Lawrence Schmied]] am [[date|15.07.2025]] unterfertigt.
 
 Beweisverfahren
 

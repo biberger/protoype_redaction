@@ -3,7 +3,7 @@ doc_type: kaufvertrag_liegenschaft
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0542_kaufvertrag_liegenschaft#3
-review: agent
+review: convention-pass
 ---
 (2) Der Kauf bedarf keiner behördlichen Genehmigung. Sollte sich dennoch eine Genehmigungspflicht ergeben, verpflichten sich die Vertragsparteien, den Antrag gemeinsam zu stellen.
 

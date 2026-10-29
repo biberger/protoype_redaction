@@ -3,7 +3,7 @@ doc_type: bescheid_dsb
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0736_bescheid_dsb#0
-review: agent
+review: convention-pass
 ---
 [[organization|Datenschutzbehörde]]
 
@@ -27,4 +27,4 @@ Begründung
 
 I. Verfahrensgang
 
-Die Beschwerdeführerin war vom [[date|1. Februar 2024]] bis zum [[date|31. Oktober 2025]] Mieterin einer Wohnung der Beschwerdegegnerin. Die Mietkaution von 1.450 Euro wurde auf das Konto [[bank_account|AT04 7042 3486 2589 0145]] der Beschwerdegegnerin überwiesen. Die Versicherungsnummer der Beschwerdeführerin lautet [[social_security_number|2707 190927]]. Der Sitz der Beschwerdegegnerin befindet sich in [[address|Renngasse 4, 2223 Hohenruppersdorf]]. Die Beschwerdegegnerin wird durch ihren Gesellschafter [[person|Romanus Ferstl, MBA]] und ihre Datenschutzbeauftragte [[person|MMag. Danijela Santrac]] vertreten.
+Die Beschwerdeführerin war vom [[date|1. Februar 2024 bis zum 31. Oktober 2025]] Mieterin einer Wohnung der Beschwerdegegnerin. Die Mietkaution von 1.450 Euro wurde auf das Konto [[bank_account|AT04 7042 3486 2589 0145]] der Beschwerdegegnerin überwiesen. Die Versicherungsnummer der Beschwerdeführerin lautet [[social_security_number|2707 190927]]. Der Sitz der Beschwerdegegnerin befindet sich in [[address|Renngasse 4, 2223 Hohenruppersdorf]]. Die Beschwerdegegnerin wird durch ihren Gesellschafter [[person|Romanus Ferstl, MBA]] und ihre Datenschutzbeauftragte [[person|MMag. Danijela Santrac]] vertreten.

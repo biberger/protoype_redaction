@@ -3,7 +3,7 @@ doc_type: vwgh_erkenntnis
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0355_vwgh_erkenntnis#6
-review: agent
+review: convention-pass
 ---
 16. Die Frage, ob die Aufstellung eines Gartenhauses im Sinne des [[legal_norm|§ 3 Abs 2 Z 4 TBO 2022]] einer Anzeige an die [[organization|Gemeinde Elbigenalp]] bedarf, hat der [[court|Verwaltungsgerichtshof]] nicht zu beurteilen. Das Verwaltungsgericht wird im fortgesetzten Verfahren auch dazu Feststellungen zu treffen haben.
 

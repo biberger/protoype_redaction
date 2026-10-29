@@ -3,7 +3,7 @@ doc_type: vollmacht
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0292_vollmacht#4
-review: agent
+review: convention-pass
 ---
 Die Vollmachtnehmerin ist nicht berechtigt, im Namen des Vollmachtgebers eine Lohnsteuererklärung oder eine Erklärung zur Umsatzsteuer abzugeben. Diese Angelegenheiten bleiben dem Steuerberater der Gesellschaft vorbehalten.
 

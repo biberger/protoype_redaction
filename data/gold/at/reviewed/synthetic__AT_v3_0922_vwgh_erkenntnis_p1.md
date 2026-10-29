@@ -3,7 +3,7 @@ doc_type: vwgh_erkenntnis
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0922_vwgh_erkenntnis#1
-review: agent
+review: convention-pass
 ---
 Das Verwaltungsgericht hat die Verfahrensvorschriften verletzt. Gemäß [[legal_norm|§ 31 Abs 1 VwGVG]] iVm [[legal_norm|§ 35 Abs 3 VwGVG]] hat es die Sache selbst zu entscheiden, wenn der Sachverhalt ausreichend erhoben ist. Dies war nicht der Fall, weil die Aussage [[person|Stadlobers]] zu den Abstandsflächen nicht überprüft wurde. Eine Entscheidung nach [[legal_norm|Art 130 Abs 1 Z 1 B-VG]] bedarf einer solchen Überprüfung.
 
@@ -13,4 +13,4 @@ Die Zulässigkeit der Revision ergibt sich aus [[legal_norm|Art 133 Abs 4 B-VG]]
 
 [[location|Wien]], am [[date|9. Oktober 2026]]
 
-Für die Richtigkeit der Ausfertigung: [[judge|Bösch]]
+Für die Richtigkeit der Ausfertigung: [[person|Bösch]]

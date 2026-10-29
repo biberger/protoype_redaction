@@ -3,7 +3,7 @@ doc_type: berufung
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0792_berufung#1
-review: agent
+review: convention-pass
 ---
 Der vereinbarte Kaufpreis betrug 6.480 Euro. Die Klägerinnen behaupten, dass die Zahlung wegen der Mängel zurückgehalten worden sei; die Beklagten bestreiten dies.
 

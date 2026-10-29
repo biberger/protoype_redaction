@@ -3,7 +3,7 @@ doc_type: notariatsakt
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0556_notariatsakt#2
-review: agent
+review: convention-pass
 ---
 Die Sachverständige hat darauf hingewiesen, dass die Heizungsanlage aus dem Jahr 2004 stammt und einer Wartung bedarf. Die Beteiligten haben diese Feststellung zur Kenntnis genommen. Ein Gewährleistungsausschluss für die Heizungsanlage ist in Punkt III. 5. vereinbart.
 

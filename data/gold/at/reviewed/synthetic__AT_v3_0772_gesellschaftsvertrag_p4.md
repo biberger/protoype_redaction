@@ -3,7 +3,7 @@ doc_type: gesellschaftsvertrag
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0772_gesellschaftsvertrag#4
-review: agent
+review: convention-pass
 ---
 Punkt 19. Einzelheiten der Stimmrechtsausübung bei Pfandrecht oder Nießbrauch an einem Geschäftsanteil richten sich nach den Bestimmungen des [[legal_norm|GmbHG]]. Der Nießbraucher ist nicht berechtigt, über die Auflösung der Gesellschaft zu beschließen.
 

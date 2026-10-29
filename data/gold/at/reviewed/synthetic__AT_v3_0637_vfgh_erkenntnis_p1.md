@@ -3,9 +3,9 @@ doc_type: vfgh_erkenntnis
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0637_vfgh_erkenntnis#1
-review: agent
+review: convention-pass
 ---
-4. Die Gesellschafterin [[person|Clara Royer]] ergänzte, die Zahlungen seien über ein Treuhandkonto abgewickelt worden. Die Beschwerde wurde von [[lawyer|Dr. med. Hulda Fanta]], Rechtsanwältin, eingebracht. Mit Schriftsatz vom [[date|17. Oktober 2025]] stellte die [[organization|Herold GmbH & Co KG]] den Antrag, die Wortfolge in [[legal_norm|§ 12 Abs 2 UStG 1994]] als verfassungswidrig aufzuheben.
+4. Die Gesellschafterin [[person|Clara Royer]] ergänzte, die Zahlungen seien über ein Treuhandkonto abgewickelt worden. Die Beschwerde wurde von [[lawyer|Dr. Hulda Fanta]], Rechtsanwältin, eingebracht. Mit Schriftsatz vom [[date|17. Oktober 2025]] stellte die [[organization|Herold GmbH & Co KG]] den Antrag, die Wortfolge in [[legal_norm|§ 12 Abs 2 UStG 1994]] als verfassungswidrig aufzuheben.
 
 II. Rechtliche Beurteilung
 

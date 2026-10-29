@@ -3,7 +3,7 @@ doc_type: firmenbuch_beschluss
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0662_firmenbuch_beschluss#1
-review: agent
+review: convention-pass
 ---
 Das Gericht hat am [[date|16. Oktober 2026]] den Firmenbuchauszug vom [[date|12. Oktober 2026]] eingesehen. Danach ist die Geschäftsführung seit dem [[date|31. Juli 2026]] nur noch durch den Gesellschafter-Geschäftsführer [[person|Hanno van Dalen]] vertreten, der über die Anmeldung vom [[date|8. September 2026]] nicht hinausgehend tätig geworden ist.
 

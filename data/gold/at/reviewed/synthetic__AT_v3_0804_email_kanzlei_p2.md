@@ -3,7 +3,7 @@ doc_type: email_kanzlei
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0804_email_kanzlei#2
-review: agent
+review: convention-pass
 ---
 Die Betriebsprüfung betrifft die Jahre 2023 bis 2025. Ich bitte Sie, die Belege der [[organization|Fleischmann AG]] nach Jahren geordnet bereitzustellen. Für die [[organization|List GmbH]] liegen die Lieferantenrechnungen bereits vor; offen sind noch die Reisekostenabrechnungen des Monats Juli, die Frau [[person|Huber]] am [[date|27.07.2026]] angekündigt hat.
 

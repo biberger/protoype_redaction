@@ -3,7 +3,7 @@ doc_type: bescheid_bfa
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0011_bescheid_bfa#1
-review: agent
+review: convention-pass
 ---
 Die Antragstellerinnen waren bis zu ihrer Ausreise bei der [[organization|Hagg Handels GmbH]], [[company_register_number|FN 92075f]], UID-Nummer [[tax_id|ATU19479017]], als Verkaufshilfe beschäftigt. Die Gewerbeberechtigung der [[organization|Kahl e.U.]], [[company_register_number|FN 545718b]], UID-Nummer [[tax_id|ATU79379110]], war ebenfalls Gegenstand der Ermittlungen. Die [[organization|Schwartz & Senn AG]], [[company_register_number|FN 617943s]], UID-Nummer [[tax_id|ATU42878775]], hat die Arbeitsbescheinigung ausgestellt.
 

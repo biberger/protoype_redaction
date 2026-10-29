@@ -3,7 +3,7 @@ doc_type: ogh_urteil
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0168_ogh_urteil#1
-review: agent
+review: convention-pass
 ---
 Die klagende Partei vermietete der beklagten Partei mit Mietvertrag vom [[date|1. März 2020]] ein Geschäftslokal im Erdgeschoss der Liegenschaft in [[location|Rosental an der Kainach]]. Der Mietzins war mit einer Wertsicherungsklausel verbunden. [[person|Alfiero Riva]] übernahm als Bürge die Haftung für sämtliche Zahlungsverpflichtungen aus dem Mietvertrag bis zu einem Höchstbetrag.
 

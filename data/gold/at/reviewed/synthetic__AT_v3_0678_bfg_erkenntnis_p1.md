@@ -3,7 +3,7 @@ doc_type: bfg_erkenntnis
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0678_bfg_erkenntnis#1
-review: agent
+review: convention-pass
 ---
 Strittig ist, ob Lieferungen an die Gesellschafterin [[person|Vreni Matzke]] steuerpflichtig oder steuerfrei sind. Die Zeugin [[person|Ortrun Prasch]] hat bei ihrer Einvernahme ausgesagt, dass die Rechnungen an die Gesellschafterin ohne Umsatzsteuer ausgestellt wurden, weil diese eine Ausfuhr vermittelte. Der Nachweis der Ausfuhr liegt nicht vollständig vor.
 

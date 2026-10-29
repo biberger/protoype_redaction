@@ -3,9 +3,9 @@ doc_type: bescheid_bh
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0508_bescheid_bh#2
-review: agent
+review: convention-pass
 ---
-Die Zeugin [[person|Hildrun Weil]], Sozialversicherungsnummer [[social_security_number|6932 191190]], war von [[date|1. September 2025]] bis [[date|31. Dezember 2025]] bei der Gewerbeberechtigten angestellt. Sie bestätigte, dass die Lohnabrechnungen erst nach mehrfacher Aufforderung ausgehändigt worden seien. Ihre Anmeldung zur Sozialversicherung sei erst im Nachhinein erfolgt.
+Die Zeugin [[person|Hildrun Weil]], Sozialversicherungsnummer [[social_security_number|6932 191190]], war von [[date|1. September 2025 bis 31. Dezember 2025]] bei der Gewerbeberechtigten angestellt. Sie bestätigte, dass die Lohnabrechnungen erst nach mehrfacher Aufforderung ausgehändigt worden seien. Ihre Anmeldung zur Sozialversicherung sei erst im Nachhinein erfolgt.
 
 Der Hausverwalter [[person|Elmo Schultz]] wurde am [[date|23. Mai 2026]] als Auskunftsperson gehört. Er bestätigte, dass die Liegenschaftseigentümerin [[organization|Habsburg & Kébé KG]] mit der Gewerbeberechtigten einen Betreuungsvertrag geschlossen habe. Die Vertragsunterlagen wurden vorgelegt. Die Gesellschafterin [[person|Anneliese von Trautenau]] ließ über ihn ausrichten, dass ihr von den Arbeitsverhältnissen nichts bekannt gewesen sei.
 

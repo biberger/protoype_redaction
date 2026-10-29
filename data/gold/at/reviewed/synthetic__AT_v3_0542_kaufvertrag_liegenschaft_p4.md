@@ -3,7 +3,7 @@ doc_type: kaufvertrag_liegenschaft
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0542_kaufvertrag_liegenschaft#4
-review: agent
+review: convention-pass
 ---
 (1) Wird der Kaufpreis nicht bis [[date|15. April 2026]] vollständig bezahlt, können die Verkäufer nach fruchtlosem Ablauf einer Nachfrist von 14 Tagen vom Vertrag zurücktreten ([[legal_norm|§ 918 ABGB]]).
 

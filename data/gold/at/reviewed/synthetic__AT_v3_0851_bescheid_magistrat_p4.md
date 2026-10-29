@@ -3,7 +3,7 @@ doc_type: bescheid_magistrat
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0851_bescheid_magistrat#4
-review: agent
+review: convention-pass
 ---
 Die Antragstellerin konnte auch in ihrer Stellungnahme vom [[date|28.07.2026]] keine Umstände darlegen, die eine andere Beurteilung rechtfertigen würden.
 

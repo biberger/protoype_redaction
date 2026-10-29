@@ -3,7 +3,7 @@ doc_type: bg_beschluss_exekution
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0709_bg_beschluss_exekution#3
-review: agent
+review: convention-pass
 ---
 Die Zinsforderung wurde im Zahlungsbefehl ab dem Tag der Klagseinbringung zugesprochen. Der Zinssatz von 4 % ist im Titel ausdrücklich angeführt und daher auch im Pfändungsbeschluss zu berücksichtigen. Eine Zinsberechnung für die Zeit nach dem Zahlungsbefehl hat die betreibende Partei nicht vorgelegt; die Forderung ist daher nur bis zum Tag der Antragstellung ausgewiesen. Die weiteren Zinsen sind im Rahmen der laufenden Exekution gesondert geltend zu machen.
 

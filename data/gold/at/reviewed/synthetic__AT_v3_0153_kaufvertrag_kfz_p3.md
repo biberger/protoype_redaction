@@ -3,7 +3,7 @@ doc_type: kaufvertrag_kfz
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0153_kaufvertrag_kfz#3
-review: agent
+review: convention-pass
 ---
 Die Käuferin hat ab Übergabe eine Kfz-Haftpflichtversicherung abzuschließen. Die Verkäuferin haftet nicht für Schäden, die nach der Übergabe entstehen.
 

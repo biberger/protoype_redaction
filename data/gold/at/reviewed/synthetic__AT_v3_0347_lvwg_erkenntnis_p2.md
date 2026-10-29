@@ -3,7 +3,7 @@ doc_type: lvwg_erkenntnis
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0347_lvwg_erkenntnis#2
-review: agent
+review: convention-pass
 ---
 4a. Die Beschwerdeführer, vertreten durch [[lawyer|Buess]], bringen zusammengefasst vor, die Behörde habe den Sachverhalt mangelhaft ermittelt, weil sie den Lagerplatz nur einmal besichtigt habe. Ferner sei die Frist von vier Wochen unangemessen kurz, weil die Entfernung des Materials mit den Vertragspartnern abgestimmt werden müsse. Schließlich werde die Einfriedung zu Unrecht als Bauwerk qualifiziert, weil sie lediglich einen Maschendrahtzaun mit einer Höhe von 1,50 m darstelle.
 

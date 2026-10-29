@@ -3,7 +3,7 @@ doc_type: bvwg_erkenntnis
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0072_bvwg_erkenntnis#0
-review: agent
+review: convention-pass
 ---
 [[court|Bundesverwaltungsgericht]]
 
@@ -25,13 +25,13 @@ Parteien
 
 Beschwerdeführerin: [[organization|Stanković Transport GmbH]], [[company_register_number|FN 63542w]], UID-Nr. [[tax_id|ATU28657389]], vertreten durch [[lawyer|Constance Kahler]], Rechtsanwältin in [[location|Wien]]
 
-Mitbeteiligte Partei: [[organization|Mühlbacher Transport GmbH]], [[company_register_number|FN 417802s]], UID-Nr. [[tax_id|ATU71040866]], vertreten durch [[lawyer|Roža Raguž]]
+Mitbeteiligte Partei: [[organization|Mühlbacher Transport GmbH]], [[company_register_number|FN 417802s]], UID-Nr. [[tax_id|ATU71040866]], vertreten durch [[person|Roža Raguž]]
 
 Verfahrensbeteiligte: [[person|Hanne Sedlacek, BSc]], vertreten durch [[lawyer|Elez Arda]], Rechtsanwalt
 
 Zeugen: [[person|Taddaus Sturm]], [[person|Tacitus Brkić]]
 
-Sachverständige: [[person|Dr. med. Adtrid Tiller]]
+Sachverständige: [[person|Dr. med. Astrid Tiller]]
 
 Entscheidungsgründe
 

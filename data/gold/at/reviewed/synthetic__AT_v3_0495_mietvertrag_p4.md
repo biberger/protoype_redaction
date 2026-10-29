@@ -3,7 +3,7 @@ doc_type: mietvertrag
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0495_mietvertrag#4
-review: agent
+review: convention-pass
 ---
 _______________________
 [[person|BSc Alexander Kaiser]], Mieter

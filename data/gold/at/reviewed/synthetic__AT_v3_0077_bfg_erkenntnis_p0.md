@@ -3,13 +3,13 @@ doc_type: bfg_erkenntnis
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0077_bfg_erkenntnis#0
-review: agent
+review: convention-pass
 ---
 [[court|BUNDESFINANZGERICHT]]
 
 Senat [[case_number|RV/7100512/2025]]
 
-Außenstelle [[location|Linz]]
+Außenstelle Linz
 
 IM NAMEN DER REPUBLIK
 

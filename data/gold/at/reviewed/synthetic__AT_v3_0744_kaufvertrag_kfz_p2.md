@@ -3,7 +3,7 @@ doc_type: kaufvertrag_kfz
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0744_kaufvertrag_kfz#2
-review: agent
+review: convention-pass
 ---
 1. Die Verkäuferin hat dem Käufer das Serviceheft sowie die Rechnungen der letzten Wartung übergeben. Die letzte Wartung erfolgte am [[date|18. Februar 2026]] in der Werkstatt der Verkäuferin in [[location|Ossiach]]. Die Bestätigung des Zahnriemenwechsels ist dem Vertrag beigelegt.
 

@@ -3,7 +3,7 @@ doc_type: vollmacht
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0292_vollmacht#2
-review: agent
+review: convention-pass
 ---
 Die Vollmacht wurde in Gegenwart von zwei Zeugen unterfertigt. Als Zeugin fungierte [[person|Dr. Crescenza Corazza]], wohnhaft in [[location|Vorau]]. Als weitere Zeugin fungierte [[person|Lotte van der Heyden]], die die Richtigkeit der Unterschrift bestätigt.
 

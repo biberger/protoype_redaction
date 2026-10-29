@@ -3,14 +3,14 @@ doc_type: bfg_erkenntnis
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0155_bfg_erkenntnis#0
-review: agent
+review: convention-pass
 ---
 [[court|Bundesfinanzgericht]]
-Außenstelle [[location|Graz]]
+Außenstelle Graz
 
 GZ. [[case_number|RV/7100448/2025]]
 
-Das [[court|Bundesfinanzgericht]] hat durch die Richterin [[judge|Virgilia Steinmetz]] als Senatsvorsitzende sowie den Richter [[judge|MMag. Bendix Perl]] und die Richterin [[judge|Rachele Wirnsberger]] über die Beschwerde der [[organization|Dzhydzhora Fliesen KG]], [[company_register_number|FN 548771t]], UID-Nr. [[tax_id|ATU95528009]], mit Sitz in [[address|Stib1erweg 59/11, 8960 Öblarn]], vertreten durch [[lawyer|DI Lawrence Schmied]], gegen den Bescheid des [[organization|Finanzamt Liezen]] betreffend Umsatzsteuer und Einkommensteuer 2023 zu Recht erkannt:
+Das [[court|Bundesfinanzgericht]] hat durch die Richterin [[judge|Virgilia Steinmetz]] als Senatsvorsitzende sowie den Richter [[judge|MMag. Bendix Perl]] und die Richterin [[judge|Rachele Wirnsberger]] über die Beschwerde der [[organization|Dzhydzhora Fliesen KG]], [[company_register_number|FN 548771t]], UID-Nr. [[tax_id|ATU95528009]], mit Sitz in [[address|Stib1erweg 59/11, 8960 Öblarn]], vertreten durch [[person|DI Lawrence Schmied]], gegen den Bescheid des [[organization|Finanzamt Liezen]] betreffend Umsatzsteuer und Einkommensteuer 2023 zu Recht erkannt:
 
 I. Der Beschwerde wird teilweise Folge gegeben.
 

@@ -3,7 +3,7 @@ doc_type: olg_beschluss
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0774_olg_beschluss#1
-review: agent
+review: convention-pass
 ---
 Die verpflichtete Partei erhob am [[date|4. März 2026]] Rekurs. Sie macht im Wesentlichen geltend, die Drittschuldnerin habe die Forderung bereits am [[date|9. Jänner 2026]] beglichen. Zum Beweis verwies sie auf die Aussage des Zeugen [[person|Klaus Prader]], der damals als Buchhalter der [[organization|Sládek Consulting GmbH]] tätig war.
 

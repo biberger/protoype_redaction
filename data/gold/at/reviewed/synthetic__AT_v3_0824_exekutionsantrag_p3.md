@@ -3,7 +3,7 @@ doc_type: exekutionsantrag
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0824_exekutionsantrag#3
-review: agent
+review: convention-pass
 ---
 Das [[court|Bezirksgericht Murau]] möge
 1. die Lohnpfändung gegen die Erstverpflichtete bei der Drittschuldnerin bewilligen,

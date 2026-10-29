@@ -3,7 +3,7 @@ doc_type: klage
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0316_klage#1
-review: agent
+review: convention-pass
 ---
 Die Bürgin [[person|Ingeborg von Trenkwald]] hat sich mit Erklärung vom [[date|12. Juni 2025]] für die Rückzahlung des Darlehens verbürgt. Auch [[person|Trenkwald]] wurde mit Schreiben vom [[date|2. März 2026]] zur Zahlung aufgefordert, ohne dass eine Zahlung erfolgte.
 

@@ -3,7 +3,7 @@ doc_type: bescheid_finanzamt
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0375_bescheid_finanzamt#2
-review: agent
+review: convention-pass
 ---
 Die Veranlagung erfolgt gemäß [[legal_norm|§ 41 Abs 1 EStG]]. Die Werbungskosten übersteigen den Pauschbetrag von 132,00 EUR und sind daher nach [[legal_norm|§ 16 Abs 1 EStG]] insoweit abzugsfähig, als sie belegt sind. Die Pendlerpauschale ist nach [[legal_norm|§ 16 Abs 1 Z 6 EStG]] nur im gesetzlich vorgesehenen Ausmaß zu berücksichtigen.
 

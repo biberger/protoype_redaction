@@ -3,7 +3,7 @@ doc_type: mietvertrag
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0495_mietvertrag#3
-review: agent
+review: convention-pass
 ---
 (5) Die Mieter verpflichten sich, Schäden an der Wohnung unverzüglich der Hausverwaltung anzuzeigen. Unterlassene Anzeigen gehen zu Lasten des Mieters, soweit dadurch weitere Schäden entstehen.
 

@@ -3,7 +3,7 @@ doc_type: bescheid_dsb
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0024_bescheid_dsb#1
-review: agent
+review: convention-pass
 ---
 Die Beschwerdegegnerin verwies in ihrer Stellungnahme auf eine Verwechslung mit der Kundin [[person|Necla Us]], [[address|Mostnystraße 7/21, 5441 Abtenau]], Sozialversicherungsnummer [[social_security_number|2381 031263]]. [[person|Noémie Gatti]], die im Verfahren als Auskunftsperson gehört wurde, bestätigte jedoch, dass die Daten des Beschwerdeführers im selben Kundenkonto geführt werden. Eine Verwechslung der beiden Kundendatensätze wurde von der Auskunftsperson ausgeschlossen, weil die Kundennummern verschieden sind.
 

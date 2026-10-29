@@ -3,7 +3,7 @@ doc_type: bescheid_bh
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0508_bescheid_bh#1
-review: agent
+review: convention-pass
 ---
 Die Behörde leitete daraufhin mit Schreiben vom [[date|2. März 2026]] das Verfahren zur Prüfung der Zuverlässigkeit der Gewerbeberechtigten ein. Mit Schreiben vom [[date|4. März 2026]] wurde der Gewerbeberechtigten Parteiengehör gewährt. Die Gewerbeberechtigte hat hierzu zunächst keine Stellungnahme abgegeben.
 

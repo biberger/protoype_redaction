@@ -3,7 +3,7 @@ doc_type: anklageschrift
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0204_anklageschrift#4
-review: agent
+review: convention-pass
 ---
 Die Angeklagten [[person|Schwarzenegger]], [[person|Ferstl]], [[person|Güler]] und [[person|Horak]] haben durch die beschriebenen Handlungen das Vergehen des gewerbsmäßigen schweren Betruges nach [[legal_norm|§§ 146, 147 Abs 3 StGB]] begangen, indem sie die [[organization|Barile & Bähler e.U.]] und die [[organization|Schrott & Krebs GmbH & Co KG]] durch Vorspiegelung falscher Tatsachen zu Vermögensverfügungen veranlassten, die einen Gesamtschaden von 112.750,00 Euro verursachten.
 

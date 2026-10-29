@@ -3,7 +3,7 @@ doc_type: bvwg_erkenntnis
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0537_bvwg_erkenntnis#1
-review: agent
+review: convention-pass
 ---
 Mit dem angefochtenen Bescheid wies das [[organization|BFA]] den Antrag auf internationalen Schutz hinsichtlich aller Beschwerdeführer ab, erteilte keinen Aufenthaltstitel aus berücksichtigungswürdigen Gründen und erließ eine Rückkehrentscheidung samt Feststellung der Zulässigkeit der Abschiebung.
 

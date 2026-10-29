@@ -3,7 +3,7 @@ doc_type: arbeitsvertrag
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0296_arbeitsvertrag#5
-review: agent
+review: convention-pass
 ---
 (2) Fahrtkosten zwischen Wohnort und Dienstort werden nicht ersetzt. Bei Versetzungen in einen anderen Betrieb werden die tatsächlich entstandenen Mehrkosten für öffentliche Verkehrsmittel nach Vorlage der Belege erstattet.
 

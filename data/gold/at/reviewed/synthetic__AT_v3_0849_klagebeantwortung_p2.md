@@ -3,7 +3,7 @@ doc_type: klagebeantwortung
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0849_klagebeantwortung#2
-review: agent
+review: convention-pass
 ---
 3. Hilfsweise wird eingewendet, dass die klagende Partei die Ware nicht vollständig geliefert hat. Die Teilmenge von zwölf Profilen fehlt laut Lieferschein, der von [[person|Kordula Zellner]] als Lagerleiterin der beklagten Partei unterfertigt wurde.
 

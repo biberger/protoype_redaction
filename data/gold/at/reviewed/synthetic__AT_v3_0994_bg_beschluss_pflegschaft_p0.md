@@ -3,7 +3,7 @@ doc_type: bg_beschluss_pflegschaft
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0994_bg_beschluss_pflegschaft#0
-review: agent
+review: convention-pass
 ---
 [[court|Bezirksgericht Lienz]]
 

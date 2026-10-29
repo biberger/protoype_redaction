@@ -3,9 +3,9 @@ doc_type: olg_urteil
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0061_olg_urteil#3
-review: agent
+review: convention-pass
 ---
-Die dritte beklagte Partei [[person|Morgenstern]] hatte die Halle ab dem Frühjahr 2025 an die [[organization|Mandl Logistik e.U.]] vermietet. Die Nebenintervenientin betrieb dort einen Lagerbetrieb und ließ im Zuge dessen die Hallenbeleuchtung durch einen Dritten nachrüsten. [[person|Morgenstern]] stützt sich darauf, dass die Verzögerungen nicht ihm zuzurechnen seien. [[person|German Klein]] und [[person|Hanno Feldmann]] erklärten sich in der Tagsatzung vom [[date|17. Februar 2025]] mit einer Teilzahlung einverstanden, widerriefen diese Erklärung jedoch später.
+Die dritte beklagte Partei [[person|Morgenstern]] hatte die Halle ab dem Frühjahr 2025 an die [[organization|Mandl Logistik e.U.]] vermietet. Die Nebenintervenientin betrieb dort einen Lagerbetrieb und ließ im Zuge dessen die Hallenbeleuchtung durch einen Dritten nachrüsten. [[person|Morgenstern]] stützt sich darauf, dass die Verzögerungen nicht ihm zuzurechnen seien. [[person|German Klein]] und [[person|Hanno Feldmann]] erklärten sich in der Tagsatzung vom [[date|17. Juni 2025]] mit einer Teilzahlung einverstanden, widerriefen diese Erklärung jedoch später.
 
 Die klagende Partei brachte am [[date|17. Februar 2025]] die Klage beim [[court|Landesgericht für Zivilrechtssachen Wien]] ein und begehrte den Werklohn samt Zinsen. Das Erstgericht gab der Klage im Umfang von 96.210 EUR sA statt und wies das Mehrbegehren ab.
 

@@ -3,7 +3,7 @@ doc_type: notariatsakt
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0371_notariatsakt#2
-review: agent
+review: convention-pass
 ---
 Die Parteien verzichten auf die Anfechtung wegen Verkürzung über die Hälfte und erklären, dass ihnen keine weiteren Vereinbarungen bekannt sind.
 
@@ -13,7 +13,7 @@ Vorgelesen, von den Parteien genehmigt und eigenhändig unterfertigt:
 
 [[person|Renald Peter]]              [[person|Jacquleine Rauter]]
 
-[[person|Nora Perner]]               [[person|MBA Jodokus Langer]]
+[[person|MBA Jodokus Langer]]
 
 [[person|Assinat Houben]]            [[person|Florian de Wit]]
 

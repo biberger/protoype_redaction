@@ -3,7 +3,7 @@ doc_type: vollmacht
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0190_vollmacht#0
-review: agent
+review: convention-pass
 ---
 **VOLLMACHT**
 

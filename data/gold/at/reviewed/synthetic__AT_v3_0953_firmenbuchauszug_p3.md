@@ -3,7 +3,7 @@ doc_type: firmenbuchauszug
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0953_firmenbuchauszug#3
-review: agent
+review: convention-pass
 ---
 Ein Antrag auf Eröffnung eines Insolvenzverfahrens wurde bislang nicht gestellt. Eine Anzeige nach [[legal_norm|§ 69 IO]] liegt ebenfalls nicht vor, weil die Gesellschaft nach dem Bericht des Notgeschäftsführers nicht überschuldet ist. Die Gesellschafter haben die Zahlungsfähigkeit durch eine Liquiditätsplanung für die kommenden zwölf Monate belegt. Die Gesellschaft ist nach den Angaben in der Anmeldung zahlungsfähig, wobei die Abgabenrückstände nach Auskunft des Finanzamts in Raten getilgt werden.
 

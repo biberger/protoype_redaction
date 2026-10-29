@@ -3,7 +3,7 @@ doc_type: versicherungsschreiben
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0279_versicherungsschreiben#0
-review: agent
+review: convention-pass
 ---
 [[organization|Alpen-
 land Schaden Versicherungs AG]]
@@ -17,7 +17,7 @@ Polizzennummer: [[other_identifier|KFZ-7731-0045-22]]
 [[person|Shahnaz Ansari]]
 [[address|Dorfplatz 9, 2563 Pottenste1n]]
 
-Ihr Rechtsvertreter [[lawyer|MMag. Bent Liska]] hat uns mit Schreiben vom [[date|19.10.2026]] mitgeteilt, dass Sie uns die Schadensabwicklung übertragen haben. Wir bestätigen dies und nehmen zu Ihrem Anspruch wie folgt Stellung.
+Ihr Rechtsvertreter [[person|MMag. Bent Liska]] hat uns mit Schreiben vom [[date|19.10.2026]] mitgeteilt, dass Sie uns die Schadensabwicklung übertragen haben. Wir bestätigen dies und nehmen zu Ihrem Anspruch wie folgt Stellung.
 
 Betreff: Schadensfall vom [[date|14. Juli 2026]], Fahrzeug [[license_plate|GU-8421FX]]
 

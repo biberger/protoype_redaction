@@ -3,7 +3,7 @@ doc_type: datenschutzauskunft
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0548_datenschutzauskunft#3
-review: agent
+review: convention-pass
 ---
 Sollten Sie mit dieser Auskunft nicht zufrieden sein, können Sie eine Beschwerde bei der [[organization|Datenschutzbehörde]] einbringen. Die Voraussetzungen ergeben sich aus [[legal_norm|§ 24 DSG]]. Die Auskunft ist für Sie kostenlos; ein Entgelt könnten wir nur bei offensichtlich unbegründeten oder exzessiven Anträgen gemäß [[legal_norm|Art. 12 Abs 5 DSGVO]] verlangen, was in Ihrem Fall nicht zutrifft.
 

@@ -3,7 +3,7 @@ doc_type: datenschutzauskunft
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0511_datenschutzauskunft#1
-review: agent
+review: convention-pass
 ---
 Ihre Daten wurden an die [[organization|Österreichische Gesundheitskasse]] übermittelt. Im Rahmen einer Warenbestellung wurden außerdem Ihr Name und Ihre Anschrift an die [[organization|Weissensteiner Agrar e.U.]], [[company_register_number|FN 153858m]], UID [[tax_id|ATU59700327]], übermittelt. Eine weitere Weitergabe an Dritte erfolgte nicht.
 

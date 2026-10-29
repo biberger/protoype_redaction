@@ -3,7 +3,7 @@ doc_type: klagebeantwortung
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0285_klagebeantwortung#1
-review: agent
+review: convention-pass
 ---
 Die Klägerin hat zudem bis zur Rüge keine Messwerte vorgelegt. Der Wechselrichter wurde im Juli 2025 zum Zweck der Wartung ausgetauscht, wobei die Klägerin dem Austausch zugestimmt hat. Der Austausch hat den Ertrag laut Herstellerangaben nicht negativ beeinflusst. Die Abrechnung der Wartung über 180 Euro netto wurde von der Klägerin bezahlt.
 

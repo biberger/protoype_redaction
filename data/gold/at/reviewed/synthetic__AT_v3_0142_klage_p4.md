@@ -3,7 +3,7 @@ doc_type: klage
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0142_klage#4
-review: agent
+review: convention-pass
 ---
 Beilage ./A: Kaufvertrag vom [[date|12.03.2025]]
 Beilage ./B: Bestätigung der zweitbeklagten Partei vom [[date|5. Juli 2024]]

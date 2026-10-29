@@ -3,7 +3,7 @@ doc_type: gesellschaftsvertrag
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0992_gesellschaftsvertrag#1
-review: agent
+review: convention-pass
 ---
 Gegenstand des Unternehmens ist die Planung, Errichtung und der Betrieb von Photovoltaikanlagen sowie der Handel mit elektrischer Energie im Rahmen der gewerberechtlichen Vorschriften. Die Gesellschaft ist berechtigt, alle Geschäfte zu betreiben, die dem Gegenstand unmittelbar oder mittelbar dienlich sind.
 

@@ -3,7 +3,7 @@ doc_type: arbeitsvertrag
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0070_arbeitsvertrag#1
-review: agent
+review: convention-pass
 ---
 (2) Die Dienstgeberinnen erklären, dass die [[organization|Sakka e.U.]] die Personalverrechnung für alle drei Gesellschaften übernimmt.
 

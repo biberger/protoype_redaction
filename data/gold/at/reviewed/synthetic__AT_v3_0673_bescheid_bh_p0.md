@@ -3,7 +3,7 @@ doc_type: bescheid_bh
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0673_bescheid_bh#0
-review: agent
+review: convention-pass
 ---
 [[organization|Bezirkshauptmannschaft Braunau am Inn]]
 Abteilung Verkehr und Anlagen

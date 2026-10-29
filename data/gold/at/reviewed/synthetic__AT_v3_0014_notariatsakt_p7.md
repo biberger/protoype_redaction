@@ -3,7 +3,7 @@ doc_type: notariatsakt
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0014_notariatsakt#7
-review: agent
+review: convention-pass
 ---
 Die Erschienenen erklären ausdrücklich, dass die im Notariatsakt angeführten Beträge der Wirklichkeit entsprechen und keine Nebenabreden über Zahlungen außerhalb dieser Urkunde getroffen wurden.
 

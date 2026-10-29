@@ -3,7 +3,7 @@ doc_type: sachverstaendigengutachten
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0298_sachverstaendigengutachten#0
-review: agent
+review: convention-pass
 ---
 GUTACHTEN
 

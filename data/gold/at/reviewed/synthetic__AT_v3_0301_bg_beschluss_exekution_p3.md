@@ -3,7 +3,7 @@ doc_type: bg_beschluss_exekution
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0301_bg_beschluss_exekution#3
-review: agent
+review: convention-pass
 ---
 Die Aufstellung wurde der verpflichteten Partei über ihre Vertreterin [[lawyer|Felzmann]] zur Stellungnahme übermittelt. [[lawyer|Felzmann]] erklärte am [[date|12. Oktober 2026]], dass die verpflichtete Partei an der Richtigkeit der Zinsberechnung festhalte und eine Prüfung durch das Gericht beantrage. Eine Auskunft über das Konto der verpflichteten Partei liegt dem Gericht nicht vor, weil die Bank der Verpflichteten ihre Mitwirkung verweigerte.
 

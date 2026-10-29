@@ -3,7 +3,7 @@ doc_type: handelsgericht_beschluss
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0721_handelsgericht_beschluss#0
-review: agent
+review: convention-pass
 ---
 [[court|Landesgericht Feldkirch]] als Handelsgericht
 

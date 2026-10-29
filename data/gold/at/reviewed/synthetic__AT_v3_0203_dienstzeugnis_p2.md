@@ -3,7 +3,7 @@ doc_type: dienstzeugnis
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0203_dienstzeugnis#2
-review: agent
+review: convention-pass
 ---
 Während seiner Tätigkeit nahm Herr [[person|Kameník]] an den vorgeschriebenen Unterweisungen zur Arbeitssicherheit und zum Brandschutz teil. Er absolvierte im Jahr 2024 zusätzlich eine Schulung zur sicheren Handhabung von Lasten und wendete die erlernten Methoden im Arbeitsalltag konsequent an. Die Arbeitssicherheit in seinem Verantwortungsbereich war während der gesamten Dauer seiner Tätigkeit ohne Beanstandung.
 

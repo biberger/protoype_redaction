@@ -3,7 +3,7 @@ doc_type: lvwg_erkenntnis
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0577_lvwg_erkenntnis#2
-review: agent
+review: convention-pass
 ---
 6. Die Gemeinde übermittelte dem Landesverwaltungsgericht den Verwaltungsakt am [[date|2. Februar 2026]]. Der Akt umfasst die Einreichunterlagen, die Stellungnahmen der Nachbarn, das Gutachten des Amtssachverständigen sowie einen Aktenvermerk über eine Besichtigung des Bauplatzes vom [[date|22. Oktober 2025]]. In diesem Vermerk wird die Geländeveränderung zwar dokumentiert, jedoch nicht vermessen.
 

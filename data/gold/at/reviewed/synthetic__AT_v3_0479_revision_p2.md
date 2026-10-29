@@ -3,7 +3,7 @@ doc_type: revision
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0479_revision#2
-review: agent
+review: convention-pass
 ---
 3. Feststellungen zur Gesellschafterstruktur
 
@@ -11,7 +11,7 @@ Geschäftsführer der [[organization|Fischer GmbH]] ist Herr [[person|Timofej Fi
 
 Die Gesellschafterin [[person|Letizia Dietrich]] hält 40 % der Anteile an der [[organization|Al Huja Fliesen KG]]. Sie war im Prüfzeitraum nicht im Betrieb tätig. Die Anmeldung der Kommanditistin erfolgte nicht.
 
-[[person|Dietrich]] hat auf die Anfrage der Revision zur Beschäftigung von [[person|Silvana Lentsch]] nicht reagiert. Die Revision hat die Angaben der Dienstgeberseite über die Dienstzeiten daher anhand der Lohnkonten überprüft.
+[[person|Dietrich]] hat auf die Anfrage der Revision zur Beschäftigung von [[person|Elena Bachmann]] nicht reagiert. Die Revision hat die Angaben der Dienstgeberseite über die Dienstzeiten daher anhand der Lohnkonten überprüft.
 
 4. Rechtliche Beurteilung
 

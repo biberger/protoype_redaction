@@ -3,13 +3,13 @@ doc_type: mietvertrag
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0107_mietvertrag#1
-review: agent
+review: convention-pass
 ---
 5. Der monatliche Mietzins beträgt netto EUR 2.450,00 zuzüglich Umsatzsteuer. Die Betriebskosten werden mit EUR 380,00 monatlich als Akontozahlung vorgeschrieben und jährlich abgerechnet.
 
 6. Die Zahlung des Mietzinses hat bis zum dritten Werktag eines Monats auf das Konto [[bank_account|AT62 8645 7943 5534 0230]] der Vermieterin zu erfolgen. Verzugszinsen sind gemäß [[legal_norm|§ 1333 Abs 2 ABGB]] zu entrichten.
 
-7. Die Indexierung des Mietzinses erfolgt jährlich zum [[date|1. März]] nach dem Verbraucherpreisindex. Eine Wertsicherung auf Grundlage eines anderen Index ist ausgeschlossen.
+7. Die Indexierung des Mietzinses erfolgt jährlich zum 1. März nach dem Verbraucherpreisindex. Eine Wertsicherung auf Grundlage eines anderen Index ist ausgeschlossen.
 
 IV. Kaution und Bürgschaft
 

@@ -3,7 +3,7 @@ doc_type: bescheid_finanzamt
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0277_bescheid_finanzamt#2
-review: agent
+review: convention-pass
 ---
 Die Zahllast ist innerhalb der gesetzlichen Frist zu entrichten. Säumniszuschläge fallen an, wenn der Betrag nicht bis zum genannten Termin auf dem Abgabenkonto eingeht. Die Gesellschaft wird ersucht, den Zahlungsbeleg dem Finanzamt zu übermitteln, sofern die Zahlung über einen Dritten erfolgt. Eine Zahlung durch den Prokuristen [[person|Roche Gmeiner]] ist zulässig, sofern sie der Gesellschaft zugerechnet werden kann.
 

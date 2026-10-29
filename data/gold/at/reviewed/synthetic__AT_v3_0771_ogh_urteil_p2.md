@@ -3,7 +3,7 @@ doc_type: ogh_urteil
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0771_ogh_urteil#2
-review: agent
+review: convention-pass
 ---
 Gemäß [[legal_norm|§ 1489 ABGB]] iVm [[legal_norm|§ 1447 ABGB]] und [[legal_norm|§ 1295 Abs 2 ABGB]] hat der Schuldner bei Verzug den Schaden zu ersetzen, sofern er die Verzögerung zu vertreten hat. Die Beklagte hat die Verzögerung nicht hinreichend bescheinigt. Die Gegenforderung wegen verspäteter Lieferung ist daher nicht berücksichtigungsfähig.
 

@@ -3,7 +3,7 @@ doc_type: asg_urteil
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0410_asg_urteil#1
-review: agent
+review: convention-pass
 ---
 Die Klägerin [[person|K*****]] war im selben Zeitraum als Reinigungskraft in derselben Liegenschaft tätig. Ihre Abrechnung für den Monat Juli 2025 weist folgende Positionen aus:
 

@@ -3,7 +3,7 @@ doc_type: bescheid_finanzamt
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0277_bescheid_finanzamt#0
-review: agent
+review: convention-pass
 ---
 [[organization|Finanzamt Burgenland]]
 Veranlagung Umsatzsteuer

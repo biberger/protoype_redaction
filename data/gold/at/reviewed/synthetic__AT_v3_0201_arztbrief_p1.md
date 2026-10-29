@@ -3,7 +3,7 @@ doc_type: arztbrief
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0201_arztbrief#1
-review: agent
+review: convention-pass
 ---
 Vorerkrankungen sind nicht bekannt. Eine Operation erfolgte nie. Familienanamnese: Der Vater von [[person|Werndl]] erlitt mit 58 Jahren einen Herzinfarkt. [[person|Spautz]] gab an, dass [[person|Werndl]] seit dem Sommer deutlich mehr Kaffee trinke und unter starkem Stress im Betrieb leide.
 

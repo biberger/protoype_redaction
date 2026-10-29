@@ -3,7 +3,7 @@ doc_type: datenschutzauskunft
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0823_datenschutzauskunft#2
-review: agent
+review: convention-pass
 ---
 Zur Rechtsgrundlage verweisen wir auf [[legal_norm|Art. 15 Abs 1 DSGVO]] iVm [[legal_norm|Art. 12 Abs 3 DSGVO]] iVm [[legal_norm|§ 1 Abs 3 DSG]] iVm [[legal_norm|Art. 77 DSGVO]]. Sie haben das Recht, eine Beschwerde bei der [[organization|Datenschutzbehörde]] einzubringen.
 

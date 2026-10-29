@@ -3,7 +3,7 @@ doc_type: ogh_beschluss
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0339_ogh_beschluss#2
-review: agent
+review: convention-pass
 ---
 6. Die Antragsgegnerin 2 macht geltend, die Frage der Vertretungsbefugnis sei nach der Entscheidung der Eigentümergemeinschaft zu beurteilen, weil [[person|Mansours]] Einwand der Verspätung erst im Verfahren vor dem Erstgericht erhoben worden sei. Diese Argumentation verkennt, dass der Einwand bereits in der Antragsbeantwortung enthalten war.
 

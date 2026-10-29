@@ -3,7 +3,7 @@ doc_type: lvwg_erkenntnis
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0577_lvwg_erkenntnis#4
-review: agent
+review: convention-pass
 ---
 1. Gemäß [[legal_norm|§ 27 VwGVG]] hat das Verwaltungsgericht den angefochtenen Bescheid auf Grund der Beschwerde zu überprüfen. Die Behörde hat nach [[legal_norm|§ 39 Abs 2 AVG]] den maßgeblichen Sachverhalt so vollständig zu ermitteln, dass die Entscheidung auf einer gesicherten Grundlage beruht. Ein Bescheid, dessen Abstandsangaben nicht überprüfbar sind, leidet an einem Ermittlungsmangel.
 

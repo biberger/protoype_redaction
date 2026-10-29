@@ -3,7 +3,7 @@ doc_type: kaufvertrag_kfz
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0744_kaufvertrag_kfz#0
-review: agent
+review: convention-pass
 ---
 KAUFVERTRAG ÜBER EIN GEBRAUCHTES KRAFTFAHRZEUG
 

@@ -3,7 +3,7 @@ doc_type: ogh_urteil
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0150_ogh_urteil#4
-review: agent
+review: convention-pass
 ---
 Die Entscheidung über die Kosten gründet sich auf [[legal_norm|§§ 41, 50 ZPO]].
 

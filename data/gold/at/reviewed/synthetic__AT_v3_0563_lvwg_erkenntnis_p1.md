@@ -3,7 +3,7 @@ doc_type: lvwg_erkenntnis
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0563_lvwg_erkenntnis#1
-review: agent
+review: convention-pass
 ---
 Gegen den Bescheid erhob der Rechtsvertreter des [[person|Urbanus Neuper]] fristgerecht Beschwerde. Der Beschwerdeführer bestritt die Grenzüberschreitung und machte geltend, der Zubau sei bereits vor dem Erwerb des Grundstückes durch den Vorbesitzer errichtet worden.
 

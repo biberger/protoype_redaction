@@ -3,7 +3,7 @@ doc_type: anwaltsschreiben
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0950_anwaltsschreiben#0
-review: agent
+review: convention-pass
 ---
 Rechtsanwalt [[lawyer|Virgil Eisl]]
 [[address|Tuchlauben 9/3, 1010 Wien]]

@@ -3,7 +3,7 @@ doc_type: bg_urteil
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0612_bg_urteil#1
-review: agent
+review: convention-pass
 ---
 Die Frau [[person|Schwaiger]] gab an, dass die Kisten bereits beschädigt angeliefert wurden.
 
@@ -13,7 +13,7 @@ Rechtliche Beurteilung
 
 Der Verwahrer haftet nach [[legal_norm|§ 970 ABGB]] für den Schaden, der aus seinem Verschulden entstanden ist. Die Beweislast für die Unbeschädigtheit bei Übernahme trifft die Beklagte, weil sie die Ware übernommen hat.
 
-Das Gericht folgt dem Antrag der klagenden Partei. Die Kosten beruhen auf [[legal_norm|§ 41 Abs 1 ZPO]] iVm [[legal_norm|§ 54 Abs 1 ZPO]].
+Das Gericht folgt dem Antrag der klagenden Partei. Die Kosten beruhen auf [[legal_norm|§ 41 Abs 1 ZPO iVm § 54 Abs 1 ZPO]].
 
 Die Klägerin hat die Kisten vor der Übergabe an die Beklagte selbst verpackt, wie die Beklagte zutreffend einwendet. Die Zeugin [[person|Ilse Gruber-Lechner]], wohnhaft in [[address|Bierjodlgasse 4/15, 9311 Frauenstein]], eine Nachbarin der Klägerin, hat jedoch bestätigt, dass die Beklagte die Ladung am Abholort übernommen und unverpackt verladen hat. Die Aussage ist glaubwürdig.
 

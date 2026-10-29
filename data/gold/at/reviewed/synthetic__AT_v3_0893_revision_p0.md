@@ -3,7 +3,7 @@ doc_type: revision
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0893_revision#0
-review: agent
+review: convention-pass
 ---
 **REVISIONSBERICHT**
 
@@ -11,7 +11,7 @@ review: agent
 
 Gesellschaft: [[organization|Steinbauer Logistik KG]], Sitz [[location|Grambach]], [[company_register_number|FN 265041t]], UID-Nummer [[tax_id|ATU60130619]]
 
-Prüfungszeitraum: [[date|1. Jänner 2025]] bis [[date|31. Dezember 2025]]
+Prüfungszeitraum: [[date|1. Jänner 2025 bis 31. Dezember 2025]]
 
 Berichtsdatum: [[date|20. März 2026]]
 

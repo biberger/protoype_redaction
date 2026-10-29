@@ -3,7 +3,7 @@ doc_type: vollmacht
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0190_vollmacht#3
-review: agent
+review: convention-pass
 ---
 Die Vollmacht kann von jedem Vollmachtgeber widerrufen werden. Der Widerruf wirkt nur gegenüber dem Vollmachtgeber selbst und gegenüber dem Bevollmächtigten, nicht jedoch gegenüber dem Gericht, solange dieses nicht davon Kenntnis erlangt hat. Die Vollmacht erlischt nicht durch den Tod eines Vollmachtgebers, sofern das Verfahren nicht anders bestimmt. Ausdrücklich hält [[person|Ernest Toman]] fest, dass sein Anteil an der Liegenschaft nach dem Tod seiner Ehefrau auf ihn übergegangen ist und die Vollmacht daher auch für ihn fortgilt.
 

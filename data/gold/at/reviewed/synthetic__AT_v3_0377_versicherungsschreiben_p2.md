@@ -3,7 +3,7 @@ doc_type: versicherungsschreiben
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0377_versicherungsschreiben#2
-review: agent
+review: convention-pass
 ---
 Die Mitversicherte [[person|Notburga Rosenfeld]] hat ihre Ansprüche aus dem Mietverhältnis an Sie abgetreten. Die Abtretung liegt uns vor. [[person|Rosenfeld]] ist daher nicht gesondert zu entschädigen.
 

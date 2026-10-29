@@ -3,7 +3,7 @@ doc_type: klagebeantwortung
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0285_klagebeantwortung#0
-review: agent
+review: convention-pass
 ---
 [[organization|Kaczmarczyk Energie e.U.]]
 [[address|Gaislachweg 13, 6471 Arzl im Pitztal]]

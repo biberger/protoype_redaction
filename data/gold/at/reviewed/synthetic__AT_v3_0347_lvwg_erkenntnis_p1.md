@@ -3,7 +3,7 @@ doc_type: lvwg_erkenntnis
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0347_lvwg_erkenntnis#1
-review: agent
+review: convention-pass
 ---
 1. Mit dem Bescheid vom [[date|17. September 2025]] trug die Behörde den Beschwerdeführern auf, die Lagerung von Holzabfällen und Paletten auf dem Grundstück in [[location|Kottes-Purk]] binnen vier Wochen einzustellen. Die Lagerfläche wurde mit rund 1.200 m² festgestellt. Die Behörde stützte den Auftrag auf [[legal_norm|§ 360 Abs 1 GewO 1994]] und auf die Feststellung, dass für den Lagerplatz keine gewerberechtliche Genehmigung nach [[legal_norm|§ 77 GewO 1994]] vorliegt.
 

@@ -3,7 +3,7 @@ doc_type: berufung
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0792_berufung#3
-review: agent
+review: convention-pass
 ---
 Sollte das Berufungsgericht die Mängel als behoben ansehen, wäre der Zuspruch jedenfalls zu verringern. Die Beklagten bestreiten, dass ein Austausch der Scharniere erforderlich war, weil [[person|Donner]] diesen Austausch selbst vorgenommen hat. Diesem Vorbringen ist das Erstgericht ohne Begründung nicht gefolgt.
 

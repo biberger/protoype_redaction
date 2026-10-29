@@ -3,7 +3,7 @@ doc_type: olg_urteil
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0463_olg_urteil#0
-review: agent
+review: convention-pass
 ---
 Das [[court|Oberlandesgericht Wien]] hat als Berufungsgericht durch die Senatspräsidentin [[judge|Rosalinde Senft]] als Vorsitzende in der Rechtssache der klagenden Partei [[organization|Hergovich Software e.U.]], [[company_register_number|FN 106913a]], [[tax_id|ATU59282109]], vertreten durch [[lawyer|Virgee Dikko]], Rechtsanwältin in [[location|Wien]], gegen die beklagte Partei [[person|Odetta Mangen]], [[address|Schelleingasse 3/17, 4984 Weilbach]], wegen EUR 18.400,-- sA, über die Berufung der beklagten Partei gegen das Urteil des [[court|Landesgericht St. Pölten]] vom [[date|12. März 2026]], [[case_number|23 Cg 84/25x]], in nichtöffentlicher Sitzung zu Recht erkannt:
 

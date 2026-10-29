@@ -3,7 +3,7 @@ doc_type: mietvertrag
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0495_mietvertrag#2
-review: agent
+review: convention-pass
 ---
 Der Mieter erlegt eine Kaution in Höhe von EUR 2.340,00, das entspricht drei Hauptmietzinsen. Die Kaution wird auf einem Treuhandkonto verwahrt und nach Vertragsende abgerechnet. Die Verwendung der Kaution bedarf [[person|Peintners]] schriftlicher Zustimmung.
 

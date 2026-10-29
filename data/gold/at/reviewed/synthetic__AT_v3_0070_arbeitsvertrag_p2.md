@@ -3,7 +3,7 @@ doc_type: arbeitsvertrag
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0070_arbeitsvertrag#2
-review: agent
+review: convention-pass
 ---
 § 6a Fortbildung
 
@@ -21,7 +21,7 @@ review: agent
 
 (4) Als Anlagen gelten: Anlage 1 (Tätigkeitsbeschreibung), Anlage 2 (Auszug aus dem Kollektivvertrag).
 
-[[location|Asperhofen]], am [[date|18. November 2026]]
+[[location|Asperhofen]], am [[date|19. Oktober 2026]]
 
 Für die Dienstgeber:
 

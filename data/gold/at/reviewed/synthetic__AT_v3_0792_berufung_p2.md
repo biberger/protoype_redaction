@@ -3,7 +3,7 @@ doc_type: berufung
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0792_berufung#2
-review: agent
+review: convention-pass
 ---
 Der Geschäftsführer [[person|Dan Windbichler]] hat dagegen ausgesagt, die Ware sei vollständig und ohne Mängel geliefert worden. Seine Angaben stimmen mit den Lieferscheinen nicht überein, weil diese einen Vermerk über eine Teillieferung enthalten. [[person|Windbichler]] hat diesen Vermerk nicht erklärt.
 

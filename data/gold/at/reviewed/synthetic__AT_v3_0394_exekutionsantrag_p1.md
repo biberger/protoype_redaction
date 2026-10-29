@@ -3,7 +3,7 @@ doc_type: exekutionsantrag
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0394_exekutionsantrag#1
-review: agent
+review: convention-pass
 ---
 Die Drittschuldnerin wird aufgefordert, binnen vier Wochen nach Zustellung des Pfändungsbeschlusses Auskunft über alle Zahlungen an die verpflichtete Partei zu erteilen. Im Fall der Unterlassung haftet sie nach [[legal_norm|§ 301 EO]] iVm [[legal_norm|§ 302 EO]] persönlich für die Forderung. Die Angaben zum Dienstverhältnis ergeben sich aus den Lohnabrechnungen für die Monate Oktober 2025 bis Februar 2026, die beigeschlossen sind.
 

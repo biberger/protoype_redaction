@@ -3,7 +3,7 @@ doc_type: klage
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0142_klage#3
-review: agent
+review: convention-pass
 ---
 Die erstbeklagte Partei hat den Mangel zu vertreten, da sie den Vorschaden bei der Übergabe kannte oder bei gehöriger Sorgfalt hätte kennen müssen. Der Kläger ist berechtigt, Wandlung zu verlangen, da die Verbesserung nicht erfolgt ist und die Mängel eine Preisminderung nicht ausreichen ([[legal_norm|§ 932 Abs 4 ABGB]]). Die Angaben [[person|Dietrichs]] zur Unfallfreiheit sind mit dem Untersuchungsergebnis der Werkstatt nicht vereinbar. Eine Haftung nach [[legal_norm|§ 1295 Abs 1 ABGB]] ist daneben gegeben. Die Beweislast für die Unkenntnis trifft die erstbeklagte Partei.
 

@@ -3,7 +3,7 @@ doc_type: dienstzeugnis
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0622_dienstzeugnis#1
-review: agent
+review: convention-pass
 ---
 Herr [[person|Osmond Ak-
 pan]] war als Lehrling im selben Team eingesetzt und wurde von Frau [[person|Đilas]] fachlich eingeschult. Herr [[person|Akpan]] hat ihre Anleitung stets dankbar angenommen und sich in kurzer Zeit eigenständig in die Konstruktionssoftware eingearbeitet.

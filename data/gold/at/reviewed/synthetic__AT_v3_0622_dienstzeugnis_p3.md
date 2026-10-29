@@ -3,7 +3,7 @@ doc_type: dienstzeugnis
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0622_dienstzeugnis#3
-review: agent
+review: convention-pass
 ---
 Die Bezüge wurden im Auftrag der Gesellschaft monatlich auf das Konto [[bank_account|AT33 8029 7256 5742 1131]] überwiesen. Die Anmeldung zur Sozialversicherung erfolgte bei der [[organization|Österreichischen Gesundheitskasse]] ([[organization|ÖGK]]) unter der Versicherungsnummer [[social_security_number|5245 251222]].
 

@@ -3,7 +3,7 @@ doc_type: bg_beschluss_exekution
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0709_bg_beschluss_exekution#2
-review: agent
+review: convention-pass
 ---
 Die betreibende Partei beantragte mit Schriftsatz vom [[date|1. Juni 2026]] die Erlassung des Pfändungs- und Überweisungsbeschlusses und legte eine Aufstellung des Forderungsstandes vor. Darin sind Hauptforderung, Zinsen und Kosten getrennt ausgewiesen. Die Summe der Einzelposten ergibt den im Spruch genannten Betrag von EUR 4.812,35 sA, zuzüglich der Kosten von EUR 687,40.
 

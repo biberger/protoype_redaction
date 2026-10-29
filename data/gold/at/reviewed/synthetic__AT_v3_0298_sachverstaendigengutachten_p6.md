@@ -3,7 +3,7 @@ doc_type: sachverstaendigengutachten
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0298_sachverstaendigengutachten#6
-review: agent
+review: convention-pass
 ---
 28. Die Dachhaut im Bereich Nord ist im Übergang zur Attika undicht. Die Abdeckbleche sind verbogen, die Anschlüsse an die Dampfsperre fehlen teilweise. Im Bereich Süd ist die Dachhaut dagegen intakt, die Ziegel sind lediglich verschmutzt und zeigen Moosbewuchs.
 

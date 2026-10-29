@@ -3,7 +3,7 @@ doc_type: bg_urteil
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0413_bg_urteil#0
-review: agent
+review: convention-pass
 ---
 [[court|Bezirksgericht Feldbach]]
 GZ [[case_number|2 C 412/26t]]
@@ -14,7 +14,7 @@ IM NAMEN DER REPUBLIK
 
 URTEIL
 
-Das [[court|Bezirksgericht Feldbach]] hat durch die Richterin [[judge|Annette Wiesenthal]] in der Rechtssache der klagenden Partei [[person|Herwig Knabl]], [[address|Friedmanngasse 7/7, 8330 Feldbach]], vertreten durch [[lawyer|DI Laurette Buchberger]], gegen die beklagte Partei [[organization|Hofmeister GmbH]], [[company_register_number|FN 236169h]], [[tax_id|ATU57545883]], vertreten durch [[lawyer|Abdul Rahman Ghali]], wegen 6.240 Euro sA nach der mündlichen Verhandlung vom [[date|29. Juni 2026]] zu Recht erkannt:
+Das [[court|Bezirksgericht Feldbach]] hat durch die Richterin [[judge|Annette Wiesenthal]] in der Rechtssache der klagenden Partei [[person|Herwig Knabl]], [[address|Friedmanngasse 7/7, 8330 Feldbach]], vertreten durch [[person|DI Laurette Buchberger]], gegen die beklagte Partei [[organization|Hofmeister GmbH]], [[company_register_number|FN 236169h]], [[tax_id|ATU57545883]], vertreten durch [[person|Abdul Rahman Ghali]], wegen 6.240 Euro sA nach der mündlichen Verhandlung vom [[date|29. Juni 2026]] zu Recht erkannt:
 
 Spruch
 

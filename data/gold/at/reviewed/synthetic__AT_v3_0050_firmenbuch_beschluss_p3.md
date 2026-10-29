@@ -3,7 +3,7 @@ doc_type: firmenbuch_beschluss
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0050_firmenbuch_beschluss#3
-review: agent
+review: convention-pass
 ---
 Die [[organization|WKNÖ]] hat in ihrer Stellungnahme darauf hingewiesen, dass der Gewerbeschein der Gesellschaft auf den Betrieb von Dachdeckerarbeiten lautet und die Geschäftsführerin über die erforderliche Befähigung verfügt. Die Kammer hat keine Umstände genannt, die einer Eintragung entgegenstehen würden. Die Stellungnahme wurde dem Antragsteller zur Kenntnis gebracht, der sich dazu nicht geäußert hat.
 

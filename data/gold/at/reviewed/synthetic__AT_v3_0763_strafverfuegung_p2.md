@@ -3,7 +3,7 @@ doc_type: strafverfuegung
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0763_strafverfuegung#2
-review: agent
+review: convention-pass
 ---
 Gemäß [[legal_norm|§ 367 Z 25 GewO 1994]] iVm [[legal_norm|§ 9 Abs 1 VStG]] begeht eine Verwaltungsübertretung, wer als Gewerbeinhaber oder als verantwortlicher Beauftragter die Aufzeichnungs- und Bereithaltungspflichten nicht einhält. Die Verantwortung der Beschuldigten ergibt sich aus ihrer Stellung im Unternehmen und daraus, dass sie die Einhaltung der Pflichten zu überwachen hatten.
 

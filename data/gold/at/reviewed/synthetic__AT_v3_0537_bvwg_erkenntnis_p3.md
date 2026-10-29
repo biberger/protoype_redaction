@@ -3,7 +3,7 @@ doc_type: bvwg_erkenntnis
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0537_bvwg_erkenntnis#3
-review: agent
+review: convention-pass
 ---
 Die Beschwerdeführer können sich auch nicht auf den Schutz des [[legal_norm|Art. 8 EMRK]] berufen. Der Erstbeschwerdeführer hält sich seit weniger als zwei Jahren im Bundesgebiet auf, und zu seiner Lebensgefährtin oder seinem Sohn besteht kein über die Beziehung zur Zweitbeschwerdeführerin hinausgehendes Familienleben. Eine Rückkehrentscheidung ist daher nicht unverhältnismäßig.
 
@@ -21,4 +21,4 @@ Gegen diese Entscheidung kann binnen sechs Wochen nach Zustellung eine Beschwerd
 
 [[location|Wien]], am [[date|14.08.2026]]
 
-Die Richterin: [[judge|Da D Bahjat]]
+Die Richterin: [[judge|Dalia Bahjat]]

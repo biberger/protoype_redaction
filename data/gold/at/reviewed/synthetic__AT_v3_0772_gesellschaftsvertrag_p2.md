@@ -3,7 +3,7 @@ doc_type: gesellschaftsvertrag
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0772_gesellschaftsvertrag#2
-review: agent
+review: convention-pass
 ---
 Punkt 9. Die Gesellschafterversammlung findet am Sitz der Gesellschaft statt. Die Einberufung erfolgt durch die Geschäftsführung mit eingeschriebenem Brief unter Einhaltung einer Frist von 14 Tagen. Die Gesellschafter können auf die Einhaltung der Form verzichten, sofern alle Gesellschafter anwesend sind.
 

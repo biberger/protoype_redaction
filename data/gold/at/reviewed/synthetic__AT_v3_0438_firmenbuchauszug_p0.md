@@ -3,7 +3,7 @@ doc_type: firmenbuchauszug
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0438_firmenbuchauszug#0
-review: agent
+review: convention-pass
 ---
 FIRMENBUCHAUSZUG
 
@@ -16,7 +16,7 @@ Sitz: [[location|Bernhardsthal]]
 Geschäftsanschrift: [[address|Pacherstraße 8, 2275 Bernhardsthal]]
 Zweigniederlassung: [[address|Junkerweg 26/22, 3820 Raabs an der Thaya]]
 Stammkapital: 35.000 EUR
-Gegenstand des Unternehmens: Dachdeckerei, Spenglerei, Bauwerksabdichtung und Montage von Solaranlagen, soweit die Gewerbeberechtigung nach [[legal_norm|§ 94 GewO]] reicht. Die Gesellschaft ist als Dachdeckerbetrieb in der [[organization|Wirtschaftskammer]] eingetragen; eine Lehrbetriebsbewilligung besteht seit dem [[date|01.09.2015]].
+Gegenstand des Unternehmens: Dachdeckerei, Spenglerei, Bauwerksabdichtung und Montage von Solaranlagen, soweit die Gewerbeberechtigung nach [[legal_norm|§ 94 GewO]] reicht. Die Gesellschaft ist als Dachdeckerbetrieb in der Wirtschaftskammer eingetragen; eine Lehrbetriebsbewilligung besteht seit dem [[date|01.09.2015]].
 UID-Nr.: [[tax_id|ATU68641552]]
 
 Frühere Firmenwortlaute: Die Gesellschaft wurde im Wege der Umwandlung aus der [[organization|Erber Dachdecker OG]] hervorgebracht; die Umwandlung wurde am [[date|12.03.2014]] eingetragen, der Firmenwortlaut der Vorgängerin war bis zum [[date|31.12.2013]] im Firmenbuch eingetragen.

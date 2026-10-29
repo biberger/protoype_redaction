@@ -3,7 +3,7 @@ doc_type: strafverfuegung
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0825_strafverfuegung#0
-review: agent
+review: convention-pass
 ---
 [[organization|Bezirkshauptmannschaft Vöcklabruck]]
 Abteilung Verkehrsangelegenheiten

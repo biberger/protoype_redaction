@@ -3,7 +3,7 @@ doc_type: bescheid_magistrat
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0851_bescheid_magistrat#3
-review: agent
+review: convention-pass
 ---
 Die Aussage der Zeugin [[person|Czernin]] ist unbestimmt, da sie den Zeitpunkt der Tätigkeit nicht genau angeben konnte. Dies ist jedoch unerheblich, weil die Befähigung nicht durch Erfahrung allein, sondern durch einen Befähigungsnachweis zu belegen ist.
 

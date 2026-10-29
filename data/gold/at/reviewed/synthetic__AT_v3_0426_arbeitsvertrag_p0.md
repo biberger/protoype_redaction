@@ -3,7 +3,7 @@ doc_type: arbeitsvertrag
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0426_arbeitsvertrag#0
-review: agent
+review: convention-pass
 ---
 ARBEITSVERTRAG
 

@@ -3,7 +3,7 @@ doc_type: strafverfuegung
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0360_strafverfuegung#0
-review: agent
+review: convention-pass
 ---
 [[organization|Bezirkshauptmannschaft Oberwart]]
 ([[organization|BH Oberwart]])
@@ -11,7 +11,7 @@ review: agent
 Zl. [[case_number|III-S-4471/2026]]
 
 An
-[[person|Ing. Тимофій Hussjew]]
+[[person|Ing. Timofej Hussjew]]
 [[address|Luckenholzgasse 8, 7431 Bad Tatzmannsdorf]]
 
 Zulassungsbesitzerin: [[person|Senta Rodler]], [[address|Seitenweg 10, 9584 Finkenstein am Faaker See]]

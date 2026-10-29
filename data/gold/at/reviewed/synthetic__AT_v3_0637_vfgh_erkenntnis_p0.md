@@ -3,7 +3,7 @@ doc_type: vfgh_erkenntnis
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0637_vfgh_erkenntnis#0
-review: agent
+review: convention-pass
 ---
 [[court|Verfassungsgerichtshof]]
 

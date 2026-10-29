@@ -3,7 +3,7 @@ doc_type: notariatsakt
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0014_notariatsakt#3
-review: agent
+review: convention-pass
 ---
 V. Grunderwerbsteuer und Gebühren
 

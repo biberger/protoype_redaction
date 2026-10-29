@@ -3,7 +3,7 @@ doc_type: bescheid_dsb
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0736_bescheid_dsb#1
-review: agent
+review: convention-pass
 ---
 Am [[date|12. März 2025]] übermittelte die Beschwerdegegnerin ein Schreiben an die Mitbeteiligte [[person|Gundelinde Stolz]], in dem ein ärztliches Attest der Beschwerdeführerin wiedergegeben war. Die Zeugin [[person|Theresie Hager]] bestätigte, dass sie das Schreiben erhalten hat. Die Zeugin [[person|Mag. Evamaria Epstein]] gab an, das Attest sei im Hausbesorgerbüro offen aufgelegen.
 

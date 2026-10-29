@@ -3,7 +3,7 @@ doc_type: notariatsakt
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0556_notariatsakt#8
-review: agent
+review: convention-pass
 ---
 Die Beteiligten erklären, dass ihnen der Inhalt dieser Urkunde vollständig bekannt ist und dass sie den Vertrag nach reiflicher Überlegung abschließen. Für den Fall, dass eine Partei nach Unterfertigung ihre Erklärung widerrufen möchte, wird ausdrücklich auf die Unwiderruflichkeit einer notariellen Beurkundung hingewiesen, soweit nicht ein gesetzliches Rücktrittsrecht besteht.
 

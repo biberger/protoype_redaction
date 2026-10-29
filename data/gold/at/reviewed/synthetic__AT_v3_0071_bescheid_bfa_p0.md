@@ -3,16 +3,16 @@ doc_type: bescheid_bfa
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0071_bescheid_bfa#0
-review: agent
+review: convention-pass
 ---
 [[organization|Bundesamt für Fremdenwesen und Asyl]] ([[organization|BFA]])
-Regionaldirektion [[location|Salzburg]]
+Regionaldirektion Salzburg
 
 Zahl: [[case_number|1098412306-260431]]
 
 B E S C H E I D
 
-Das [[organization|BFA]], Regionaldirektion [[location|Salzburg]], erlässt gegenüber
+Das [[organization|BFA]], Regionaldirektion Salzburg, erlässt gegenüber
 
 [[person|Anass Mami]], geboren am [[date|04.07.1998]], Staatsangehörigkeit [[location|Syrien]],
 wohnhaft [[address|Neusiedler Straße 71/16, 5600 Sankt Veit im Pongau]],

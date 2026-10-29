@@ -3,7 +3,7 @@ doc_type: klagebeantwortung
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0285_klagebeantwortung#2
-review: agent
+review: convention-pass
 ---
 Die Klägerin kann sich zudem nicht auf einen Verbrauchermangel berufen, soweit die Verschattung durch den Nachbarbaum vorliegt, denn diese hätte sie bei der Standortwahl selbst erkennen müssen. Die Gewährleistungsfrist nach [[legal_norm|§ 933 Abs 1 ABGB]] wäre im Übrigen für Mängel, die die Klägerin erst im Frühjahr 2026 rügte, ebenfalls abgelaufen, sofern nicht ein Mangel bereits im Zeitpunkt der Übergabe bestand. Die Rüge vom [[date|3. März 2026]] ist daher verspätet, soweit sie sich auf Mängel bezieht, die bei der Übergabe nicht erkennbar waren.
 

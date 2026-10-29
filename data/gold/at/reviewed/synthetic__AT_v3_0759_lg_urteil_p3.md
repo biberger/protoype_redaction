@@ -3,9 +3,9 @@ doc_type: lg_urteil
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0759_lg_urteil#3
-review: agent
+review: convention-pass
 ---
-Die beklagte Partei hat die Verschraubung nicht nach den anerkannten Regeln der Technik ausgeführt und damit gegen die Pflicht zur ordnungsgemäßen Werkleistung verstoßen. Die Haftung folgt aus [[legal_norm|§ 1295 Abs 1 ABGB]] iVm [[legal_norm|§ 1311 ABGB]]. Ein Mitverschulden der klagenden Partei liegt nicht vor.
+Die beklagte Partei hat die Verschraubung nicht nach den anerkannten Regeln der Technik ausgeführt und damit gegen die Pflicht zur ordnungsgemäßen Werkleistung verstoßen. Die Haftung folgt aus [[legal_norm|§ 1295 Abs 1 ABGB iVm § 1311 ABGB]]. Ein Mitverschulden der klagenden Partei liegt nicht vor.
 
 Die Zinsen gründen sich auf [[legal_norm|§ 1333 Abs 2 ABGB]]. Die Kostenentscheidung beruht auf [[legal_norm|§§ 41, 50 ZPO]]; die Kosten des Privatgutachtens sind als Barauslagen zu ersetzen.
 
@@ -13,6 +13,6 @@ Das Mehrbegehren ist unberechtigt, weil die Schadensposition für Materialkosten
 
 [[court|Landesgericht Feldkirch]], Abteilung 12, am [[date|14.01.2026]]
 
-Die Richterin [[judge|Loreta Gulin]] hat den Beweisbeschluss vom [[date|19.12.2025]] gefasst.
+Der Vorsitzende [[judge|Lukas Felix]] hat den Beweisbeschluss vom [[date|19.12.2025]] gefasst.
 
 Hinweis: Die Zustellung an die beklagte Partei erfolgte an die Anschrift [[address|Wollzeile 3, 6710 Nenzing]]; die Beklagte hat die Sendung am [[date|20.01.2026]] übernommen.

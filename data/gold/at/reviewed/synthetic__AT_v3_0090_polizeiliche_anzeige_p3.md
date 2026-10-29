@@ -3,7 +3,7 @@ doc_type: polizeiliche_anzeige
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0090_polizeiliche_anzeige#3
-review: agent
+review: convention-pass
 ---
 Die Zeugin [[person|Babro Geiger]] hat außerdem ausgesagt, dass ihr die Beschuldigte [[person|BSc Dorthe Keller]] am [[date|2. April 2026]] telefonisch versichert habe, die Arbeiten würden innerhalb von vier Wochen beginnen. Ein Termin wurde jedoch nie eingehalten. Die Zeugin [[person|Bell Tintner]] wiederum berichtete, dass sie von einem Mitarbeiter der [[organization|Kanizsai e.U.]] aufgefordert worden sei, die Anzahlung in bar bei einem Treffen in [[location|Allhartsberg]] zu leisten, was sie abgelehnt habe.
 

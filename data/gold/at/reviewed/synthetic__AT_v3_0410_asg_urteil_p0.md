@@ -3,7 +3,7 @@ doc_type: asg_urteil
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0410_asg_urteil#0
-review: agent
+review: convention-pass
 ---
 [[court|Arbeits- und Sozialgericht Klagenfurt]]
 GZ [[case_number|8 Cga 112/26x]]
@@ -19,7 +19,7 @@ Das [[court|Arbeits- und Sozialgericht Klagenfurt]] hat durch die Richterin [[ju
 1. [[person|B***** B*****]],
 2. [[person|K***** U*****]],
 
-beide vertreten durch [[lawyer|Raphael Scheuer]], gegen die beklagte Partei [[organization|Nicoletti Handels AG]], [[company_register_number|FN 130485s]], [[tax_id|ATU08211567]], vertreten durch [[lawyer|Chlorinde Schindler]], und die auf Seiten der beklagten Partei streitverkündete [[organization|Várhelyi & Horvath OG]], [[address|Merianweg 6, 9131 Grafenstein]], [[company_register_number|FN 429569w]], [[tax_id|ATU70101141]], vertreten durch [[lawyer|Gitta Karner]], wegen Entgelt, nach öffentlicher mündlicher Verhandlung zu Recht erkannt:
+beide vertreten durch [[person|Raphael Scheuer]], gegen die beklagte Partei [[organization|Nicoletti Handels AG]], [[company_register_number|FN 130485s]], [[tax_id|ATU08211567]], vertreten durch [[person|Chlorinde Schindler]], und die auf Seiten der beklagten Partei streitverkündete [[organization|Várhelyi & Horvath OG]], [[address|Merianweg 6, 9131 Grafenstein]], [[company_register_number|FN 429569w]], [[tax_id|ATU70101141]], vertreten durch [[person|Gitta Karner]], wegen Entgelt, nach öffentlicher mündlicher Verhandlung zu Recht erkannt:
 
 Spruch
 

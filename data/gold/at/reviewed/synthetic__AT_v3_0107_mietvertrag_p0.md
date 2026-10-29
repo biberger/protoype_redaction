@@ -3,7 +3,7 @@ doc_type: mietvertrag
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0107_mietvertrag#0
-review: agent
+review: convention-pass
 ---
 Mietvertrag über Geschäftsräume
 
@@ -23,8 +23,8 @@ I. Mietgegenstand
 
 II. Mietdauer und Übergabe
 
-3. Das Mietverhältnis beginnt am [[date|1. März 2026]] und wird auf die Dauer von fünf Jahren abgeschlossen. Die Übergabe des Objekts erfolgte am [[date|27.02.2026]] in Anwesenheit des Vermieterin-Vertreters und des Mieter-Vertreters [[person|Dr. med. Selim Kraus]], der die Schlüssel für die Mieterin übernahm.
+3. Das Mietverhältnis beginnt am [[date|1. März 2026]] und wird auf die Dauer von fünf Jahren abgeschlossen. Die Übergabe des Objekts erfolgt am [[date|27.02.2026]] in Anwesenheit des Vermieterin-Vertreters und des Mieter-Vertreters [[person|Dr. med. Selim Kraus]], der die Schlüssel für die Mieterin übernimmt.
 
-4. Der Vertreter [[person|Kraus]] ist Mitgesellschafter der Mieterin und hat die Übergabeprotokolle unterfertigt. Die Übergabeprotokolle sind Bestandteil dieses Vertrages.
+4. Der Vertreter [[person|Kraus]] ist Mitgesellschafter der Mieterin und wird die Übergabeprotokolle unterfertigen. Die Übergabeprotokolle sind Bestandteil dieses Vertrages.
 
 III. Mietzins und Nebenkosten
