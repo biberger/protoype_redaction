@@ -25,9 +25,9 @@ wir berichten über die stationäre Behandlung von Frau [[person|Moreels]], die 
 
 Anamnese
 
-Die Patientin stürzte am [[date|03.09.2026]] gegen 18.40 Uhr auf der [[street|Sagedergasse]] in [[location|Studenzen]], als sie von einem Fahrrad auf nasser Fahrbahn abstieg. Sie gab einen sofortigen stechenden Schmerz im linken Knie an und konnte das Bein nicht mehr belasten. Die Erstversorgung erfolgte durch den Rettungsdienst, der sie in das Krankenhaus Hartberg brachte. Dort wurde eine Röntgenaufnahme angefertigt und die Verlegung an unsere Klinik veranlasst, da eine Versorgung des Gelenks nur hier vorgesehen war.
+Die Patientin stürzte am [[date|03.09.2026]] gegen 18.40 Uhr auf der [[street|Sagedergasse]] in [[location|Studenzen]], als sie von einem Fahrrad auf nasser Fahrbahn abstieg. Sie gab einen sofortigen stechenden Schmerz im linken Knie an und konnte das Bein nicht mehr belasten. Die Erstversorgung erfolgte durch den Rettungsdienst, der sie in das [[organization|Krankenhaus Hartberg]] brachte. Dort wurde eine Röntgenaufnahme angefertigt und die Verlegung an unsere Klinik veranlasst, da eine Versorgung des Gelenks nur hier vorgesehen war.
 
-Vorerkrankungen: arterielle Hypertonie, medikamentös gut eingestellt, sowie eine Schilddrüsenunterfunktion unter Substitution. Keine bekannten Allergien. Die Patientin ist Hausfrau und lebt mit ihrem Ehemann in einem Einfamilienhaus, zu Treppen besteht ein Zugang über drei Stufen. Sie raucht nicht und trinkt gelegentlich ein Glas Wein.
+Vorerkrankungen: arterielle Hypertonie, medikamentös gut eingestellt, sowie eine Schilddrüsenunterfunktion unter Substitution. Keine bekannten Allergien. Die Patientin ist Hausfrau und lebt mit ihrem Ehemann in einem Einfamilienhaus, zu dem drei Stufen an der Terrassentür hinaufführen. Die Tochter wohnt in [[location|Graz]] und kann die Nachbetreuung in den ersten zwei Wochen übernehmen. Eine häusliche Pflege ist nicht erforderlich. Sie raucht nicht und trinkt gelegentlich ein Glas Wein. Eine Alkoholisierung zum Unfallzeitpunkt wurde nicht festgestellt, die Patientin gab an, zuvor nur einen Kaffee getrunken zu haben, und der Hinweg zum Einkauf sei bis dahin unfallfrei verlaufen.
 
 Klinischer Befund bei Aufnahme
 
@@ -56,15 +56,15 @@ Die physiotherapeutische Anleitung umfasste die passive Beugung bis 90 Grad in d
 
 Verlauf und Entlassung
 
-Die Verlaufskontrolle am [[date|12.09.2026]] zeigte eine reizlose Wunde, eine regelrechte Durchblutung und eine Beugefähigkeit von 70 Grad. Die Patientin wurde bei stabilem Allgemeinzustand entlassen. Die Entlassmedikation umfasst die bisherige antihypertensive Therapie, die Schilddrüsensubstitution in unveränderter Dosis, das Thromboseprophylaxe-Präparat für weitere drei Wochen sowie ein Magenschutzpräparat während der Gabe von Schmerzmitteln.
+Die Verlaufskontrolle am [[date|12.09.2026]] zeigte eine reizlose Wunde, eine regelrechte Durchblutung und eine Beugefähigkeit von 70 Grad. Die Patientin wurde bei stabilem Allgemeinzustand entlassen. Am Entlassungstag war sie mit zwei Unterarmgehstützen selbständig mobil, das Treppensteigen wurde mit Begleitung geübt und sicher bewältigt. Die Schmerzen wurden auf einer Skala von null bis zehn mit drei angegeben. Die Entlassmedikation umfasst die bisherige antihypertensive Therapie, die Schilddrüsensubstitution in unveränderter Dosis, das Thromboseprophylaxe-Präparat für weitere drei Wochen sowie ein Magenschutzpräparat während der Gabe von Schmerzmitteln.
 
 Eine Arbeitsunfähigkeit besteht bis auf Weiteres. Das Autofahren ist für mindestens sechs Wochen untersagt, die Patientin ist für die Fahrt zu den Kontrollterminen auf eine Begleitperson angewiesen.
 
 Procedere
 
-Wir bitten um Wundkontrolle und Fadenentfernung in Ihrer Ordination, falls die Patientin nicht vorher bei uns vorstellig wird. Die Kontrolle in unserer Ambulanz ist für den [[date|10. Oktober 2026]] vereinbart, eine Röntgenkontrolle wird dabei durchgeführt. Bis dahin ist eine Teilbelastung einzuhalten. Bei Fieber, zunehmender Schwellung, Rötung der Wunde oder Wadenschmerzen ist die Patientin umgehend zu uns zu überweisen.
+Wir bitten um Wundkontrolle und Fadenentfernung in Ihrer Ordination, falls die Patientin nicht vorher bei uns vorstellig wird. Die Kontrolle in unserer Ambulanz ist für den [[date|10. Oktober 2026]] vereinbart, eine Röntgenkontrolle wird dabei durchgeführt. Bis dahin ist eine Teilbelastung einzuhalten. Bei Fieber, zunehmender Schwellung, Rötung der Wunde oder Wadenschmerzen ist die Patientin umgehend zu uns zu überweisen. Bitte informieren Sie uns telefonisch, falls sich die Beweglichkeit vor dem Kontrolltermin verschlechtert, damit wir die Physiotherapie frühzeitig anpassen können.
 
-Die Kosten der ambulanten Nachbehandlung werden voraussichtlich über die Sozialversicherung abgerechnet. Für einen allfälligen Kostenersatz wird um Überweisung auf das Konto IBAN [[bank_account|AT19 5246 6175 2326 1206]] der Klinik gebeten, sofern die Versicherung nicht eintritt.
+Eine stationäre Anschlussrehabilitation im [[organization|Reha-Zentrum Schöckl-Blick]] ist aus unserer Sicht sinnvoll, sofern die Patientin bis zum Ende der Teilbelastungsphase keine Fortschritte macht. Der Antrag bei der Pensionsversicherung sollte von Ihrer Ordination gestellt werden, da die Patientin dort Versicherte ist. Die Kosten der ambulanten Nachbehandlung werden voraussichtlich über die Sozialversicherung abgerechnet. Für einen allfälligen Kostenersatz wird um Überweisung auf das Konto IBAN [[bank_account|AT19 5246 6175 2326 1206]] der Klinik gebeten, sofern die Versicherung nicht eintritt.
 
 Mit freundlichen kollegialen Grüßen
 
