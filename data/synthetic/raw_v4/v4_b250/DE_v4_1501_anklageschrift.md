@@ -58,7 +58,7 @@ Die Staatsanwaltschaft beantragt, den Wert des Erlangten nach [[legal_norm|§ 73
 
 III. Beweismittel
 
-Die Anklage stützt sich auf die Aussagen der Zeugen, insbesondere auf die Angaben des [[person|Ruud van der Heijden]], auf die Buchungsunterlagen der [[organization|Menne & Forns GmbH]] und der [[organization|Engelhardt & Metzger AG]] sowie auf die Kontoauszüge zur IBAN [[bank_account|DE88 4610 0885 7622 9631 94]]. Ferner werden die sichergestellten Mobiltelefone und der oben wiedergegebene Chatverlauf verwertet.
+Die Anklage stützt sich auf die Aussagen der Zeugen, insbesondere auf die Angaben des [[person|Ruud van der Heijden]], auf die Buchungsunterlagen der [[organization|Menne & Forns GmbH]] und der [[organization|Engelhardt & Metzger AG]] sowie auf die Kontoauszüge zur IBAN [[bank_account|DE88 4610 0885 7622 9631 94]]. Ferner werden die sichergestellten Mobiltelefone und der oben wiedergegebene Chatverlauf verwertet. Beizuziehen sind außerdem die Lieferscheine der [[organization|Engelhardt & Metzger AG]] und die Protokolle der Wareneingangskontrolle der [[organization|Menne & Forns GmbH]]. Ein Sachverständiger soll die Plausibilität der Rechnungen gesondert begutachten.
 
 Das Hauptverfahren ist vor dem [[court|Landgericht Frankfurt am Main]] zu eröffnen. Die Zuständigkeit der Wirtschaftsstrafkammer ergibt sich aus [[legal_norm|§ 74c Abs. 1 GVG]]; der Tatort liegt in [[location|Frankfurt am Main]]. Die Anklage wird gemäß [[legal_norm|§ 200 Abs. 1 StPO]] erhoben.
 

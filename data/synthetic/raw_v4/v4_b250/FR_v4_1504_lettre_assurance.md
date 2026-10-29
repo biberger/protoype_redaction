@@ -21,7 +21,7 @@ Madame,
 
 Nous avons bien reçu votre déclaration de sinistre du [[date|5 août 2026]], par laquelle vous signalez une infiltration d'eau dans la salle de bains et la cuisine de votre appartement. Nous accusons réception de l'ensemble des pièces transmises et nous vous remercions de votre diligence.
 
-Nous vous informons que votre dossier a été confié à l'expert d'assurance mandaté par nos soins, Monsieur [[person|Vicenţiu Nițulescu]]. Ce dernier s'est rendu sur place le [[date|14 août 2026]] en présence de la gérante de l'immeuble et a dressé son rapport d'expertise, référencé [[other_identifier|EXP-26-0912]].
+Nous vous informons que votre dossier a été confié à l'expert d'assurance mandaté par nos soins, Monsieur [[person|Vicenţiu Nițulescu]]. Ce dernier s'est rendu sur place le [[date|14 août 2026]] en présence du gérant de l'immeuble et a dressé son rapport d'expertise, référencé [[other_identifier|EXP-26-0912]].
 
 1. Les causes du sinistre
 
@@ -35,7 +35,7 @@ L'immeuble est géré par la société [[organization|Habitat Cochard EURL]], do
 
 Les dommages subis par l'occupant du logement situé en dessous, Monsieur [[person|Placidus Muller]], ont été constatés contradictoirement. Ils concernent le plafond de la salle à manger et le parquet du couloir.
 
-Madame [[person|Marie-Thérèse Chaumont]], voisine de palier de Madame [[person|Assad]], a déclaré à l'expert avoir entendu l'eau couler dans la nuit du [[date|3 au 4 août 2026]] et avoir frappé à votre porte sans réponse. Ce témoignage a été pris en compte dans l'appréciation de la durée de la fuite. Madame [[person|Chaumont]] a précisé que l'eau s'était répandue jusqu'à la [[street|rue des Frères-Bonnard]] par la cour intérieure de l'immeuble.
+Madame [[person|Marie-Thérèse Chaumont]], voisine de palier de Madame [[person|Assad]], a déclaré à l'expert avoir entendu l'eau couler dans la nuit du [[date|3 au 4 août 2026]] et avoir frappé à votre porte sans réponse. Ce témoignage a été pris en compte dans l'appréciation de la durée de la fuite. Madame [[person|Chaumont]] a précisé que l'eau s'était d'abord écoulée dans la cour intérieure de l'immeuble, puis jusqu'au caniveau de la [[street|rue des Frères-Bonnard]].
 
 3. Garanties et indemnisation
 
@@ -53,7 +53,11 @@ Nous vous demandons de bien vouloir nous retourner, avant le [[date|30 octobre 2
 
 Vous disposez d'un délai de deux ans à compter de l'événement pour agir contre nous. Vous pouvez à tout moment demander à consulter le rapport d'expertise. Si vous n'êtes pas d'accord avec l'évaluation de l'expert, vous pouvez désigner un expert de votre choix, dont les honoraires seront à votre charge.
 
-6. Précisions complémentaires
+6. Franchise et plafond de garantie
+
+La franchise contractuelle s'élève à 600 euros par sinistre pour les dégâts des eaux. Le plafond de garantie pour les biens mobiliers est fixé à 15.000 euros par sinistre et n'est pas atteint dans votre dossier. Nous vous rappelons que la garantie ne joue pas si la fuite résulte d'un défaut d'entretien dont l'assuré avait connaissance, conformément aux conditions générales du contrat, dont un exemplaire vous a été adressé lors de la souscription. Les conditions générales précisent que l'assuré doit signaler sans délai tout écoulement d'eau anormal, y compris ceux qui concernent les parties communes de l'immeuble.
+
+7. Précisions complémentaires
 
 Le rapport relève également une moisissure sur le mur mitoyen de la chambre, qui n'entre pas dans la garantie dégâts des eaux et ne fera donc pas l'objet d'une indemnisation dans le présent dossier. Vous pouvez toutefois faire établir un devis par l'entrepreneur de votre choix, que nous examinerons au titre de votre contrat multirisque habitation.
 

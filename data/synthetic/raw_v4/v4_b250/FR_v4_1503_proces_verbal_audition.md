@@ -15,7 +15,7 @@ L'an deux mille vingt-six, le [[date|21 octobre 2026]] à 9 heures 40, nous, Lie
 
 Identité de la personne entendue
 
-[[person|Анна Martirosjan]], née le [[date|3 mai 1988]] à [[location|Erevan]] (Arménie), de nationalité française, gérante de la société [[organization|Servant SASU]], immatriculée au RCS de [[location|Strasbourg]] sous le numéro SIREN [[company_register_number|556 446 615]] (SIRET [[company_register_number|556 446 615 08357]]), dont le siège est à [[location|Strasbourg]]. Elle est domiciliée [[address|17 traverse de la Cabucelle, 13015 Marseille]], adresse électronique [[email|martirosjan42@free.fr]].
+[[person|Анна Martirosjan]], née le [[date|3 mai 1988]] à [[location|Erevan]] (Arménie), de nationalité française, gérante de la société [[organization|Servant SASU]], immatriculée au RCS de [[location|Strasbourg]] sous le numéro SIREN [[company_register_number|556 446 615]] (SIRET [[company_register_number|556 446 615 08357]]), dont le siège est à [[location|Strasbourg]], numéro de TVA intracommunautaire [[tax_id|FR24556446615]]. Elle est domiciliée [[address|17 traverse de la Cabucelle, 13015 Marseille]], adresse électronique [[email|martirosjan42@free.fr]].
 
 Numéro de sécurité sociale : [[social_security_number|2 39 10 30 737 068 90]].
 
@@ -23,7 +23,7 @@ Le témoin déclare être assisté de [[lawyer|Kristell Dufau]], avocate au barr
 
 Objet de l'audition
 
-Nous avons été saisis le [[date|14/09/2026]] d'une plainte déposée par [[person|Sebastien Rousselle]], gérant de la société [[organization|Textile Delalande SASU]], immatriculée au RCS de [[location|Strasbourg]], SIREN [[company_register_number|618 323 455]], dont l'atelier de stockage est situé à [[location|Marseille]], [[street|rue des Mûriers]]. Le plaignant expose que des vitres de l'atelier ont été brisées dans la nuit du [[date|12 septembre 2026]], et qu'une partie des tissus stockés a été souillée.
+Nous avons été saisis le [[date|14/09/2026]] d'une plainte déposée par [[person|Sebastien Rousselle]], domicilié [[address|8 avenue des Olives, 13011 Marseille]], gérant de la société [[organization|Textile Delalande SASU]], immatriculée au RCS de [[location|Strasbourg]], SIREN [[company_register_number|618 323 455]], TVA [[tax_id|FR92618323455]], dont l'atelier de stockage est situé à [[location|Marseille]], [[street|rue des Mûriers]]. Le plaignant expose que des vitres de l'atelier ont été brisées dans la nuit du [[date|12 septembre 2026]], et qu'une partie des tissus stockés a été souillée.
 
 Les faits ont été constatés au moyen du tableau suivant :
 
@@ -48,7 +48,7 @@ Réponses : Oui, je m'y suis rendue à deux reprises au mois d'août pour récup
 
 Questions : Quelle est la gérante de la SCI à laquelle vous faites référence ?
 
-Réponses : Il s'agit de Mme [[person|Barborka Jánoš]], associée de la [[organization|Pain Plomberie SCI]], dont le siège est à [[location|Bordeaux]]. La SCI est propriétaire de l'immeuble de la [[street|rue des Mûriers]]. Je ne sais pas si elle loue aujourd'hui un local à M. [[person|Rousselle]], car je n'ai plus de contact avec la société [[organization|Textile Delalande SASU]] depuis la fin de l'été.
+Réponses : Il s'agit de Mme [[person|Barborka Jánoš]], associée de la [[organization|Pain Plomberie SCI]], immatriculée au RCS de [[location|Bordeaux]] sous le SIREN [[company_register_number|678 931 494]] (SIRET [[company_register_number|678 931 494 05613]]), TVA [[tax_id|FR37678931494]], dont le siège est à [[location|Bordeaux]]. La SCI est propriétaire de l'immeuble de la [[street|rue des Mûriers]]. Je ne sais pas si elle loue aujourd'hui un local à M. [[person|Rousselle]], car je n'ai plus de contact avec la société [[organization|Textile Delalande SASU]] depuis la fin de l'été.
 
 Questions : Avez-vous eu un contact avec Mme [[person|Jánoš]] au sujet de cet immeuble récemment ?
 
@@ -68,25 +68,25 @@ Questions : Pouvez-vous indiquer le nom de la personne qui pourrait confirmer vo
 
 Réponses : Ma voisine, Mme [[person|Yasmine Haddad]], qui occupe l'appartement situé en face du mien, dans le même couloir. Elle peut vous donner son propre témoignage, je ne crois pas qu'elle soit sortie non plus cette nuit-là.
 
-Questions : Pouvez-vous préciser les factures qui font l'objet du différend avec M. Rousselle ?
+Questions : Pouvez-vous préciser les factures qui font l'objet du différend avec M. [[person|Rousselle]] ?
 
-Réponses : Il s'agit de trois factures émises entre le [[date|2 juin 2026]] et le [[date|30 août 2026]], pour un montant total de 14.300 euros TTC. La première concerne une livraison de palettes de tissus que j'ai contestée, car la quantité réceptionnée était inférieure à celle figurant sur le bon. Les deux autres concernent des frais de stockage dans le box de la rue des Mûriers, que j'estime facturés en double.
+Réponses : Il s'agit de trois factures émises entre le [[date|2 juin 2026]] et le [[date|30 août 2026]], pour un montant total de 14.300 euros TTC. La première concerne une livraison de palettes de tissus que j'ai contestée, car la quantité réceptionnée était inférieure à celle figurant sur le bon. Les deux autres concernent des frais de stockage dans le box de la [[street|rue des Mûriers]], que j'estime facturés en double.
 
 Questions : Qui disposait des clés du box de stockage et de la cour ?
 
 Réponses : Seules deux personnes avaient une clé : moi-même et le gardien de l'immeuble, M. [[person|Lucien Rabier]]. Le gardien a quitté ses fonctions en juillet 2026. Je n'ai pas remis de double à quiconque d'autre, à l'exception de la clé que j'ai restituée à Mme [[person|Jánoš]] au mois de juin.
 
-Questions : Avez-vous eu l'occasion de discuter avec M. Rousselle de la situation de l'atelier à la fin de l'été ?
+Questions : Avez-vous eu l'occasion de discuter avec M. [[person|Rousselle]] de la situation de l'atelier à la fin de l'été ?
 
 Réponses : Une seule fois, par courriel, le [[date|25 août 2026]]. Il m'a écrit qu'il souhaitait résilier le contrat de location de la SCI et qu'il rendrait les clés. Je ne lui ai pas répondu sur ce point car je considérais que cela ne me regardait pas. Je n'ai pas gardé ce courriel, mais il est sur ma messagerie professionnelle, que je vous remettrai si vous le souhaitez.
 
 Questions : Connaissez-vous d'autres personnes qui auraient pu avoir accès à l'atelier pendant cette période ?
 
-Réponses : Il y a la société de nettoyage que M. Rousselle mentionne, ainsi que le plombier qui est intervenu à l'immeuble pour la fuite d'eau signalée en août. Je ne connais pas le nom exact de cette entreprise, mais je sais qu'elle est de Marseille.
+Réponses : Il y a la société de nettoyage que M. [[person|Rousselle]] mentionne, ainsi que le plombier qui est intervenu à l'immeuble pour la fuite d'eau signalée en août. Je ne connais pas le nom exact de cette entreprise, mais je sais qu'elle est de [[location|Marseille]].
 
 Lecture faite, la personne entendue déclare que ses déclarations sont sincères et conformes à ce qu'elle a dit, qu'elle n'a rien à ajouter ni à retrancher, et qu'elle persiste dans ses dires. Elle a adressé une copie de ce procès-verbal par courriel à son conseil, Me [[lawyer|Dufau]].
 
-Nous avons ensuite interrogé brièvement M. [[person|Rousselle]] sur le contenu des déclarations, sans qu'il soit fait mention de nouveaux éléments. Il a indiqué que son atelier n'était plus fréquenté depuis le mois d'août, sauf par la société de nettoyage, et qu'il n'a pas de caméra de surveillance dans la cour. Il a maintenu sa plainte.
+Nous avons ensuite interrogé brièvement M. [[person|Rousselle]] sur le contenu des déclarations, sans qu'il soit fait mention de nouveaux éléments. M. [[person|Rousselle]] a en outre remis aux enquêteurs une copie du bon de livraison daté du [[date|2 juin 2026]], qui fait état d'un nombre de palettes inférieur à celui facturé ; cette copie est annexée à la procédure. Il a indiqué que son atelier n'était plus fréquenté depuis le mois d'août, sauf par la société de nettoyage, et qu'il n'a pas de caméra de surveillance dans la cour. Il a maintenu sa plainte.
 
 Dont procès-verbal, lu et signé par la personne entendue et par nous, Lieutenant [[person|Gaël Tessier]], après que la personne entendue a pu relire le présent procès-verbal et y apporter les corrections qu'elle a jugées utiles.
 

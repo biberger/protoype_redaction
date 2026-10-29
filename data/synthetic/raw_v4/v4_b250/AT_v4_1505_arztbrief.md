@@ -30,13 +30,17 @@ Diagnose: Prellung des rechten Kniegelenks mit Gelenkerguss, ohne Bandverletzung
 
 Therapie: Ruhigstellung mit einer Kniebandage für zwei Wochen, Kühlung, Schmerzmedikation nach Bedarf. Die Physiotherapie führt [[person|Ing. Hrvojka Balić]] zweimal wöchentlich durch. Nach dem Unfall wurde keine stationäre Behandlung erforderlich.
 
+Aufklärung: Herr [[person|Falk]] wurde über den voraussichtlichen Heilungsverlauf, die Notwendigkeit der Übungen zu Hause und die Folgen einer vorzeitigen Belastung informiert. Er hat die Hinweise verstanden und bestätigt, dass er die Übungen fortsetzen wird. Eine Untersuchung der Wirbelsäule wurde nicht durchgeführt, da keine entsprechenden Beschwerden angegeben wurden.
+
 Vorgeschichte: Herr [[person|Falk]] war nach eigenen Angaben am rechten Knie zuvor nicht verletzt. Er nimmt keine gerinnungshemmenden Medikamente ein. Am Unfalltag wurde er vom Betrieb der [[organization|Griebler Elektro KG]] nicht erstversorgt; er fuhr selbst zur Hausärztin, die die Überweisung zu uns ausstellte. Ein Vorbefund liegt uns nicht vor.
 
 Arbeitsfähigkeit: Herr [[person|Falk]] ist bis einschließlich [[date|30. Juni 2026]] arbeitsunfähig. Eine leichte Tätigkeit ohne Treppensteigen ist ab dem [[date|1. Juli 2026]] möglich, sofern die Beschwerden dies erlauben. Eine Wiedervorstellung ist für den [[date|14. Juli 2026]] vorgesehen.
 
-Der Unfall ist dem [[organization|Sozialministeriumservice]] ([[organization|SMS]]) zu melden. Rechtsanwältin [[lawyer|Rolanda Rosen]] hat um Übermittlung dieses Berichts ersucht. Die Rechtsanwältin [[lawyer|Rosen]] wird in dieser Angelegenheit die weitere Korrespondenz führen; Rückfragen zu Befund und Therapie richten Sie bitte an uns.
+Der Unfall ist dem [[organization|Sozialministeriumservice]] ([[organization|SMS]]) zu melden. Rechtsanwältin [[lawyer|Rolanda Rosen]] hat um Übermittlung dieses Berichts ersucht. Die Rechtsanwältin [[lawyer|Rosen]] wird in dieser Angelegenheit die weitere Korrespondenz führen; Rückfragen zu Befund und Therapie richten Sie bitte an uns. Der Patient hat der Weitergabe dieses Berichts an Sie als Dienstgeber schriftlich zugestimmt.
 
 Für Rückfragen zum Betrieb der [[organization|Griebler Elektro KG]] (FN [[company_register_number|550441y]], UID-Nr. [[tax_id|ATU70888550]]) steht die Kanzlei unter [[email|kanzlei@griebler.at]] zur Verfügung. Die [[organization|Dworak Reinigungs GmbH & Co KG]] (FN [[company_register_number|142593x]], UID-Nr. [[tax_id|ATU76682564]]) erhält diesen Bericht zur Kenntnis.
+
+Die Kosten der ambulanten Behandlung sind nach Erhalt der Rechnung auf das Konto IBAN [[bank_account|AT11 0385 9012 0043 8669]] der Ambulanz zu überweisen.
 
 Mit freundlichen Grüßen
 
