@@ -3,7 +3,7 @@ doc_type: lg_urteil
 jurisdiction: DE
 lang: de
 ---
-Landgericht Magdeburg
+[[court|Landgericht Magdeburg]]
 
 Az. [[case_number|9 O 412/25]]
 
@@ -20,7 +20,7 @@ prozessbevollmächtigt: [[lawyer|Trientje Freyer]], Rechtsanwältin in [[locatio
 
 gegen
 
-die [[organization|Lindauer GmbH]], [[company_register_number|HRB 197352]] des [[court|Amtsgerichts Stuttgart]], vertreten durch den Geschäftsführer [[person|Dr. Onno Wagner]], mit Betriebsstätte in [[address|Kohrockstraße 4, 17214 Alt Schwerin]],
+die [[organization|Lindauer GmbH]], [[company_register_number|HRB 197352]] des [[court|Amtsgerichts Stuttgart]], USt-IdNr. [[tax_id|DE948890930]], Steuernummer [[tax_id|086 897 38085]], vertreten durch den Geschäftsführer [[person|Dr. Onno Wagner]], mit Betriebsstätte in [[address|Kohrockstraße 4, 17214 Alt Schwerin]],
 - Beklagte -
 
 hat die 9. Zivilkammer des [[court|Landgerichts Magdeburg]] durch den Vorsitzenden Richter am Landgericht [[judge|Prof. Dr. Heinzdieter Roeder]], den Richter am Landgericht [[judge|Hiebo Lewin]], den Richter am Landgericht [[judge|B.Sc. Baltasar Schenkel]] und den Richter am Landgericht [[judge|Gilman Cabreira]] aufgrund der mündlichen Verhandlung vom [[date|21. August 2026]] für Recht erkannt:
@@ -35,7 +35,7 @@ hat die 9. Zivilkammer des [[court|Landgerichts Magdeburg]] durch den Vorsitzend
 
 Tatbestand
 
-Der Kläger macht Schadensersatz und Schmerzensgeld aus einem Verkehrsunfall geltend, der sich am [[date|3. März 2025]] auf dem [[street|Erster Breiter Weg]] in Magdeburg ereignete. Ein Lieferfahrzeug der Beklagten bog nach rechts ab und erfasste den Kläger, der mit seinem Fahrrad geradeaus fuhr. Der Kläger stürzte und zog sich einen Bruch des linken Unterarms sowie eine Prellung des Brustkorbs zu.
+Der Kläger macht Schadensersatz und Schmerzensgeld aus einem Verkehrsunfall geltend, der sich am [[date|3. März 2025]] auf dem [[street|Erster Breiter Weg]] in [[location|Magdeburg]] ereignete. Ein Lieferfahrzeug der Beklagten bog nach rechts ab und erfasste den Kläger, der mit seinem Fahrrad geradeaus fuhr. Der Kläger stürzte und zog sich einen Bruch des linken Unterarms sowie eine Prellung des Brustkorbs zu.
 
 Die Beklagte bestreitet, dass das Fahrzeug den Kläger berührt hat. Sie behauptet, der Kläger sei entgegen der Verkehrsregeln auf dem Gehweg gefahren und habe den Sturz selbst verursacht.
 
@@ -77,6 +77,6 @@ Rechtsbehelfsbelehrung
 
 Gegen dieses Urteil ist das Rechtsmittel der Berufung statthaft. Die Berufung ist innerhalb eines Monats nach Zustellung dieses Urteils bei dem Oberlandesgericht schriftlich einzulegen und innerhalb von zwei Monaten nach Zustellung zu begründen.
 
-Magdeburg, den [[date|18.09.2026]]
+[[location|Magdeburg]], den [[date|18.09.2026]]
 
-[[person|Prof. Dr. Heinzdieter Roeder]]
+[[judge|Prof. Dr. Heinzdieter Roeder]]
