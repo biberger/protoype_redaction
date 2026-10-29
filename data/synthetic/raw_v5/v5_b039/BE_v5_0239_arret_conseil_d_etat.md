@@ -71,6 +71,8 @@ Vu les pièces de la procédure ;
 
 1. Le site industriel de la société [[organization|Textile Breyne SRL]] est établi depuis 1981 à [[location|Arlon]], dans un quartier mixte où subsistent quelques habitations. La société exploite une unité de teinture de tissus et de découpe, dont l'activité a connu une croissance importante au cours des cinq dernières années.
 
+2bis. Le dossier a fait l'objet d'une enquête publique organisée du [[date|1er décembre 2025]] au [[date|15 janvier 2026]] à l'hôtel communal d'[[location|Arlon]]. Les requérants ont remis, pendant cette enquête, six réclamations écrites, dont trois mentionnent expressément le trafic nocturne. Le rapport de l'enquête publique, établi le [[date|20 janvier 2026]], recommande de limiter les livraisons à la plage horaire comprise entre 7 heures et 19 heures, sans que cette recommandation soit reprise dans le permis.
+
 2. Le [[date|27 janvier 2026]], le fonctionnaire délégué a délivré à cette société le permis d'environnement sollicité pour la construction d'un nouveau bâtiment de stockage et l'installation d'une chaîne de rinçage supplémentaire. Le permis mentionne une capacité de traitement portée à 1.200 mètres cubes d'eaux usées par semaine, ainsi que des conditions relatives au bruit et aux rejets.
 
 3. Les requérants habitent dans le voisinage immédiat du site. Ils font valoir que la [[street|rue de la Scierie]], qui borde l'entrée des camions, est devenue impraticable pendant les livraisons et que les nuisances sonores s'étendent désormais jusqu'aux habitations de la [[street|rue du Vieux Moulin]].
@@ -124,6 +126,26 @@ Sur le troisième moyen
 17ter. La partie adverse ne conteste pas cette chronologie. Elle soutient toutefois que la consultation n'était pas obligatoire, dès lors que l'extension ne concerne qu'un bâtiment de stockage. Cette argumentation ne peut être suivie, la chaîne de rinçage supplémentaire constituant une modification substantielle de l'installation.
 
 17quater. Le troisième moyen est fondé.
+
+Sur le quatrième moyen
+
+17quinquies. Le quatrième moyen est pris de la violation de l'[[legal_norm|article 6 de la directive relative à l'évaluation des incidences]], en ce que le permis ne fixe aucune valeur limite pour les rejets d'eaux de rinçage dans le ruisseau qui traverse le terrain. Les requérants produisent un rapport d'analyse établi le [[date|18 juin 2026]] par un laboratoire de la région, dont il ressort que les valeurs mesurées en aval dépassent les seuils recommandés pendant les périodes de forte production.
+
+17sexies. La partie adverse conteste la pertinence de ce rapport, qui n'a été réalisé qu'après la délivrance du permis. Le [[court|Conseil d'État]] observe toutefois que la décision attaquée ne contient aucune condition relative à la qualité de l'eau, alors que l'exploitant lui-même reconnaît dans sa demande que la chaîne de rinçage augmentera le volume des rejets.
+
+17septies. Le quatrième moyen est également fondé, dans la seule mesure où il reproche l'absence de condition de rejet.
+
+Sur les pièces complémentaires
+
+17octies. Par une ordonnance du [[date|30 juin 2026]], le président de chambre a admis au dossier les pièces complémentaires transmises par les requérants, à l'exception de la photographie non datée produite par [[person|Otte]], dont la provenance n'a pas été établie. La partie adverse a eu l'occasion de répondre à l'ensemble des pièces admises.
+
+17nonies. Les parties intervenantes ont également déposé une note conjointe le [[date|7 septembre 2026]], dans laquelle elles demandent que la décision soit maintenue en ce qu'elle autorise la seule extension du bâtiment de stockage. Le [[court|Conseil d'État]] n'est pas tenu de répondre à cette demande subsidiaire, dès lors que la décision attaquée est annulée dans son ensemble.
+
+Sur la demande d'indemnisation
+
+17decies. Les requérants sollicitent, à titre subsidiaire, une indemnité de 5.000 euros pour le préjudice moral lié aux nuisances. Le Conseil d'État n'est pas compétent pour allouer une telle indemnité, qui relève de la juridiction de l'ordre judiciaire. Cette demande est donc irrecevable. Il leur appartient de la porter devant le tribunal compétent, sans préjudice de l'annulation prononcée.
+
+17undecies. Le Conseil d'État relève enfin que la situation décrite par la lettre de M. [[person|Bove]] du [[date|19 mai 2026]] a été portée à la connaissance de l'administration. Il appartiendra à la partie adverse d'en tirer les conséquences dans le cadre de la nouvelle demande de permis que l'exploitant a annoncée.
 
 **III. Dispositif**
 

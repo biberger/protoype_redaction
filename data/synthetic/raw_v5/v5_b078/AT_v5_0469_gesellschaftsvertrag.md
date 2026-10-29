@@ -87,6 +87,40 @@ Der Jahresgewinn wird nach Feststellung des Jahresabschlusses im Verhältnis der
 
 (3) Erfüllungsort und Gerichtsstand ist [[location|Eisenstadt]].
 
+§ 10 Wettbewerbsverbot
+
+(1) Die Geschäftsführer dürfen während ihrer Tätigkeit weder für eigene noch für fremde Rechnung Geschäfte im Gegenstand der Gesellschaft betreiben. Ausnahmen bedürfen eines Beschlusses der Gesellschafterversammlung mit einer Mehrheit von drei Vierteln der abgegebenen Stimmen.
+
+(2) Gesellschafter, die an anderen Unternehmen der Energiewirtschaft beteiligt sind, haben dies offenzulegen. [[person|Gundolf zu Hohenlohe-Schillingsfürst, BSc]] ist an einer Planungsfirma für Photovoltaikanlagen mit Sitz in [[location|Oberwart]] beteiligt; die Beteiligung wurde im Vorfeld dieses Vertrags schriftlich offengelegt und ist zulässig, solange sie nicht im Gegenstand der Gesellschaft tätig wird.
+
+(3) Das Wettbewerbsverbot gilt für die Dauer der Zugehörigkeit zur Gesellschaft und für zwölf Monate nach dem Ausscheiden.
+
+§ 11 Rechnungswesen und Geschäftsjahr
+
+(1) Das Geschäftsjahr entspricht dem Kalenderjahr. Der erste Jahresabschluss ist zum [[date|31. Dezember 2026]] zu erstellen.
+
+(2) Die Buchführung wird durch einen extern beauftragten Steuerberater geführt. Die Geschäftsführung legt den Gesellschaftern bis zum 31. März eines jeden Jahres eine Zwischenübersicht über Umsätze, Kosten und Liquidität vor.
+
+(3) Der Jahresabschluss ist nach Feststellung durch die Gesellschafterversammlung innerhalb der gesetzlichen Frist beim Firmenbuch einzureichen. Die Kosten der Einreichung trägt die Gesellschaft.
+
+§ 12 Auflösung und Liquidation
+
+(1) Die Gesellschaft wird aufgelöst durch Beschluss der Gesellschafterversammlung mit einer Mehrheit von drei Vierteln der abgegebenen Stimmen, durch die Eröffnung des Insolvenzverfahrens oder durch gerichtliche Entscheidung nach dem [[legal_norm|GmbHG]].
+
+(2) Liquidatoren sind die Geschäftsführer, sofern die Gesellschafterversammlung nichts anderes beschließt.
+
+(3) Ein verbleibendes Vermögen wird im Verhältnis der Stammeinlagen an die Gesellschafter verteilt, nachdem alle Verbindlichkeiten getilgt sind. Eine Sacheinlage kann auf Wunsch eines Gesellschafters in Natur zurückgegeben werden, sofern der Wert der Sache dem Anteil entspricht.
+
+§ 13 Verschwiegenheit und Datenschutz
+
+(1) Die Gesellschafter und Geschäftsführer haben Geschäfts- und Betriebsgeheimnisse zu wahren. Diese Pflicht gilt auch nach dem Ausscheiden fort.
+
+(2) Personenbezogene Daten der Gesellschafter werden ausschließlich im Rahmen der [[legal_norm|Datenschutz-Grundverordnung]] und des [[legal_norm|DSG]] verarbeitet.
+
+§ 14 Kosten und Ausfertigungen
+
+Die Kosten der Errichtung dieses Vertrags und der Eintragung im Firmenbuch trägt die Gesellschaft. Jeder Gesellschafter erhält eine Ausfertigung des Vertrags sowie einen Auszug aus der Gesellschafterliste.
+
 Anlage 1: Gesellschafterliste
 
 Herr [[person|Ferdinand Stein]] hat sich zur Identifikation mit seinem Reisepass Nr. [[id_document_number|S5179028]] ausgewiesen. Die Vollmacht vom Gesellschafter [[person|Samb]] wurde [[person|Stein]] am selben Tag übergeben und ist diesem Vertrag beigeheftet.
