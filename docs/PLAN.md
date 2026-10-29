@@ -88,12 +88,13 @@ inside a span; that's accepted noise.
 | Source | Status | Lang / jurisdiction | Labels | License |
 |---|---|---|---|---|
 | Synthetic v1 (`data/synthetic/raw`) | done, 40 docs | de / AT, DE | 10 coarse → canonical (no roles) | ours |
-| Synthetic v2 (`data/synthetic/raw_v2`) | pilot running: 72 docs (6 Haiku batches) | de / AT, DE, CH; fr / FR, CH, BE, LU | full canonical schema | ours |
-| LER `elenanereiss/german-ler` | converter ready (`legalner/sources/ler.py`) | de / DE federal courts | 19 classes → canonical | CC-BY-4.0 |
-| RIS OGD API (`data.bka.gv.at/ris/api/v2.6`) | planned | de / AT | pseudonymised placeholders mark PII | open government data |
+| Synthetic v2 (`data/synthetic/raw_v2`) | done, 72 docs, audited | de / AT, DE, CH; fr / FR, CH, BE, LU | full canonical schema | ours |
+| Synthetic v3 (`data/synthetic/raw_v3`) | done, 1,000 docs, audited | de / AT, DE, CH, LI; fr / FR, CH, BE, LU | full canonical schema | ours |
+| LER `elenanereiss/german-ler` | converted | de / DE federal courts | 19 classes → canonical | CC-BY-4.0 |
+| RIS OGD API (`data.bka.gv.at/ris/api/v2.6`) | fetcher written, content host blocked (parallel session) | de / AT | pseudonymised placeholders mark PII | open government data |
 | EUR-Lex / CELLAR | planned, for unlabelled legal text and teacher pseudo-labels | de, fr / EU | — | reuse permitted with attribution |
-| MAPA `joelniklaus/mapa` | planned, evaluation only (12 docs per language) | de, fr + 19 more / EU | PERSON/ADDRESS/DATE/ORG/AMOUNT, fine sub-tags | CC-BY-4.0 |
-| GLiNER v1 replay (`urchade/pile-mistral-v0.1`, `urchade/synthetic-pii-ner-mistral-v1`; **not** Pile-NER) | planned | en + de/fr/it/es | open label set | Apache-2.0 |
+| MAPA `joelniklaus/mapa` | converted, evaluation only (12 docs per language) | de, fr + 19 more / EU | PERSON/ADDRESS/DATE/ORG/AMOUNT, fine sub-tags | CC-BY-4.0 |
+| GLiNER v1 replay (`urchade/pile-mistral-v0.1`, `urchade/synthetic-pii-ner-mistral-v1`; **not** Pile-NER) | converted (`sources/replay.py`) | en + de/fr/it/es | open label set | Apache-2.0 |
 
 Avoided for a commercial product: Babelscape MultiNERD and WikiNEuRal (CC-BY-NC-SA) and the
 ai4privacy datasets (custom licence restricting commercial use). Pile-NER is not used (decision).
@@ -169,32 +170,42 @@ confirm on first use, since the agent proxy logs every refused host.
 
 ## Status and next steps
 
-Done on branch `ccr-40b02117-uffvk3`:
-- pipeline in `legalner/` with tests (`python -m pytest`)
-- synthetic v1: 40 documents in `data/synthetic/raw` (old 10 labels, mapped by the parser)
-- synthetic v2 pilot: 72 documents in `data/synthetic/raw_v2/<batch>` written by 6 Haiku agents
-  (at_civil, at_public, at_private, de, ch, fr); all pass `--strict`, **not yet audited**.
-  Known gaps: OCR noise only in a few docs; no generators yet for DE Steuernummer/RV-Nr/HRB,
-  CHE-UID, SIREN/SIRET, BE enterprise numbers (agents hand-formatted these)
+Done on branch `ccr-45f5c65f-g4rgnu` (continues `ccr-40b02117-uffvk3`):
+1. **Synthetic v2 audit** (`docs/audits/synthetic_v2_pilot.md`): 4.8% span errors before fixes; `legalner.audit`
+   (check digits, titles, dates, wrong labels) and new `--strict` lint rules.
+2. **LER** converted (53,384 / 6,666 / 6,673 sentences); legal_norm follows LER (bare act names tagged).
+3. **GLiNER2 loader + CPU smoke run**: full builds validate; 6-step fp32 CPU run works (~27 s/step, batch 2).
+   Role labels must be queried in a separate pass at inference (flat decoding resolves overlaps across labels).
+4. **Baselines** (`docs/baselines.md`): F1 0.53 (gliner2.5-multi-v1) / 0.54 (PII model); PII character
+   recall 0.81 / 0.93.
+5. **RIS fetcher** (`legalner/sources/ris.py`): search API works; content host `ogd.ris.bka.gv.at` was blocked
+   by the proxy. Placeholder filling and rule labels were tested on a fixture only. Handed to a parallel session
+   (prompt in the conversation): real-data run, rule audit, coverage decision.
+6. **Replay** (`sources/replay.py`: pile-mistral + synthetic-pii, open labels with sampled negatives) and
+   **MAPA** (`sources/mapa.py`, de/fr, eval only; organization scored against organization ∪ court).
+7. **Gazetteers** (`legalner/gazetteers.py`, `data/gazetteers/*.tsv`): WGND 2.0 first names (27 countries),
+   Wikidata surnames, AT/DE/CH municipalities and streets.
+   **Synthetic v3**: 1,000 documents (`data/synthetic/raw_v3`, AT 472, DE 184, CH 165, FR 102, BE 33, LU 23, LI 21)
+   from `legalner.genplan` briefs (cast of names, companies and valid identifiers per document) written by 167
+   Haiku agents (`scripts/generate_wave.workflow.js`); all pass `--strict` and `legalner.audit`; sampled LLM audit
+   1.1% span errors after the date lint (`docs/audits/synthetic_v3.md`).
+   **Austrian gold set**: 400 paragraphs from 141 held-out v3 documents, agent-reviewed (76 corrections in 5,410
+   spans), exported to `data/canonical/gold_at.jsonl` (source `gold_at`, eval only). **Needs human review**:
+   `docs/audits/gold_at_review.md` lists 121 open questions.
+   **fake_ids**: DE USt-IdNr/Steuernummer/RV-Nr/HRB, CHE-UID, SIREN/SIRET/TVA, BE enterprise number,
+   BE national register number, LU matricule, each with a validator.
 
-Next session, in order:
-1. ~~Validate and audit v2~~ done: `docs/audits/synthetic_v2_pilot.md` (4.8% span error rate in the
-   LLM-audited sample before fixes, mostly missed CH-fr norms; fixed, new lint rules, `legalner.audit`).
-2. ~~Convert LER, settle legal_norm~~ done: 53,384 / 6,666 / 6,673 sentences; bare act names are
-   `legal_norm` (see "legal_norm convention").
-3. ~~Validate a build, tiny CPU run~~ done: all 67k examples of a full build pass
-   `TrainingDataset.validate()`; a 6-step fp32 CPU run (`--precision fp32 --num-workers 0`) trains, evaluates
-   and saves checkpoints (~27 s/step at batch 2 on 4 cores). Findings: the boundary trainer defaults to bf16
-   (use `--precision fp32` on CPU); reported losses are large (~100/step, summed); GLiNER2's default flat
-   decoding resolves overlaps **across** labels, so a judge never also comes out as `person`. Inference
-   therefore queries role labels (`judge`, `lawyer`) in a separate pass (`evaluate.predict`); production
-   inference must do the same.
-4. ~~Baselines~~ done: `docs/baselines.md`. Both ≈F1 0.53–0.54 zero-shot; PII character recall 0.81 (base)
-   vs 0.93 (PII model); roles, identifiers and LER-style citations are weak.
-5. Write the RIS fetcher against the live OGD API, with placeholder filling from gazetteers.
-6. Add replay converters (GLiNER v1 format) and the MAPA evaluation converter.
-7. Scale synthetic generation to 1,000–3,000 documents; build the hand-checked Austrian gold set.
-8. First GPU run.
+Next, in order:
+1. Human review of the gold set; settle the convention questions in `GENERATION.md` (officials/clerks/agents,
+   post-nominal degrees, abbreviations in parentheses, date ranges).
+2. Merge the RIS session's branch; add RIS (pseudonymised placeholders filled) to the build; RIS paragraphs
+   for the gold set.
+3. Synthetic v4 plan oversampling rare labels (street, id_document_number, license_plate, phone, email) and
+   fixing LU/BE social security numbers (v3 LU/BE docs carry French NIR format).
+4. First GPU run: `legalner.build data/canonical/{synthetic,synthetic_v1,synthetic_v3,replay}.jsonl
+   data/canonical/ler/*.jsonl data/canonical/mapa/*.jsonl data/canonical/gold_at.jsonl --exclude-docs
+   data/gold/at/doc_ids.txt -o data/build/v1`, then `legalner.train` (bf16) and `legalner.evaluate` on the
+   gold set, synthetic test, LER test and MAPA against the baselines.
 
 ## Open questions
 
