@@ -63,6 +63,8 @@ Die Obergeschosswohnung ist vermietet. Das Mietverhältnis geht mit dem Eigentum
 
 Die Verkäufer haben im Jahr 2024 die Abdichtung des Kellerabgangs durch einen Fachbetrieb ausführen lassen; die Rechnung vom [[date|14. Oktober 2024]] liegt dem Vertrag bei. Der Feuchtigkeitsschaden vom Frühjahr 2026 wurde seither nicht erneut repariert, weshalb die Käuferin den Kaufpreis nicht gemindert hat.
 
+Die Verkäufer erklären, dass an der Liegenschaft kein Vorkaufsrecht, kein Fruchtgenussrecht und kein Belastungs- oder Veräußerungsverbot eingetragen ist. Sollte sich dies im Zuge der grundbücherlichen Prüfung anders herausstellen, sind die Verkäufer verpflichtet, die Lastenfreistellung auf eigene Kosten herbeizuführen, bevor der Kaufpreis fällig wird.
+
 Schlussbestimmungen
 
 10. Mündliche Nebenabreden bestehen nicht. Änderungen dieses Vertrages bedürfen der Schriftform. Es gilt österreichisches Recht.

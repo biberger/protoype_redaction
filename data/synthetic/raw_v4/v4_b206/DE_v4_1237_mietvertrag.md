@@ -52,6 +52,24 @@ Zur Prüfung der Bonität hat [[person|Gideon Rupp]] eine Versicherungsnummer de
 
 (3) Die [[organization|Untere Bauaufsichtsbehörde der Stadt Frankfurt am Main]] ([[organization|UBB]]) hat den Balkonanbau im Jahr 2019 genehmigt. Eine bauliche Veränderung durch die Mieter bedarf der Zustimmung der Vermieterin.
 
+§ 6a Gemeinschaftsflächen, Tierhaltung, Schönheitsreparaturen
+
+(1) Keller, Waschküche und Fahrradraum dürfen nur zu den in der Hausordnung genannten Zeiten genutzt werden. Die Mieter sorgen dafür, dass Flure und Treppenhaus frei bleiben.
+
+(2) Die Haltung von Kleintieren ist ohne Zustimmung der Vermieterin zulässig. Hunde und Katzen bedürfen der schriftlichen Erlaubnis der Verwaltung.
+
+(3) Schönheitsreparaturen übernehmen die Mieter während der Mietzeit in angemessenen Abständen. Die Vermieterin hat die Wohnung bei Übergabe frisch gestrichen; eine Übergabe mit starken Gebrauchsspuren ist nicht vorgesehen. Die Vertragsparteien vereinbaren keine starre Fristenregelung, vgl. [[legal_norm|§ 538 BGB]].
+
+§ 6b Übergabe
+
+(1) Die Wohnung wird am Tag des Mietbeginns gemeinsam übergeben. Über den Zustand der Wohnung, der Zähler und der Schlüssel wird ein Übergabeprotokoll gefertigt, das beide Seiten unterzeichnen.
+
+(2) Die Schlüssel werden in dreifacher Ausfertigung übergeben: je ein Satz für jeden Mieter und ein Satz für die Verwaltung. Ein Ersatzschlüssel für die Tiefgarage wird gegen eine Gebühr von 35,00 EUR ausgegeben.
+
+(3) Die Mieter haben die Wohnung bei Beendigung des Mietverhältnisses besenrein und in dem Zustand zurückzugeben, der dem vertragsgemäßen Gebrauch entspricht. Die Rückgabe ist mit einer Frist von mindestens zwei Wochen im Voraus anzuzeigen.
+
+(4) Eine Untervermietung ist nur mit schriftlicher Zustimmung der Vermieterin zulässig. Die Zustimmung kann nur aus einem wichtigen Grund verweigert werden, vgl. [[legal_norm|§ 540 BGB]].
+
 § 7 Schlussbestimmungen
 
 (1) Änderungen und Ergänzungen dieses Vertrages bedürfen der Schriftform. Dies gilt auch für die Aufhebung dieser Klausel, vgl. [[legal_norm|§ 550 BGB]].

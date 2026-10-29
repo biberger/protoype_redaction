@@ -38,7 +38,7 @@ Die Fahrbahn war trocken, die Sicht gut. Die Verkehrszeichen im Bereich der Kreu
 
 Verletzungen und Schaden:
 
-Der Anzeiger wurde an der Unfallstelle durch den Rettungsdienst versorgt und anschließend in das [[organization|Krankenhaus Rohrbach]] gebracht. Die Verletzungen sind nach ärztlicher Auskunft leicht. Am Fahrrad entstand ein Schaden an der Vorderradgabel.
+Der Anzeiger gab an, er trage seit dem Unfall eine Schiene am Handgelenk; eine Nachuntersuchung ist am [[date|12. Oktober 2026]] vorgesehen. Der Anzeiger wurde an der Unfallstelle durch den Rettungsdienst versorgt und anschließend in das [[organization|Krankenhaus Rohrbach]] gebracht. Die Verletzungen sind nach ärztlicher Auskunft leicht. Am Fahrrad entstand ein Schaden an der Vorderradgabel.
 
 Zur Schadensabwicklung hat der Anzeiger die Kontoverbindung [[bank_account|AT51 7482 5330 7673 2078]] bekanntgegeben. Die Haftpflichtversicherung des Beschuldigten wurde verständigt.
 
@@ -54,6 +54,12 @@ Beweismittel:
 4. Ärztlicher Befund des [[organization|Krankenhauses Rohrbach]]
 
 Die Zeugin wurde am [[date|4. Oktober 2026]] ebenfalls einvernommen. Sie gab an, der Radfahrer sei auf dem Radweg mit normaler Geschwindigkeit gefahren, der Pkw sei ohne anzuhalten in die Kreuzung eingefahren. Eine Ergänzung ihrer Angaben nach dem Lichtbildvergleich ist vorgesehen, sobald die Fotos der Dienststelle vorliegen.
+
+Der Beschuldigte wurde bei seiner Einvernahme darauf hingewiesen, dass er zur Lenkerauskunft für das Fahrzeug verpflichtet ist, sofern ein anderer Lenker es zum Unfallzeitpunkt benutzt hat. Er verneinte dies. Die Zulassungsbesitzerin des Pkw ist laut Zulassungsregister nicht identisch mit dem Beschuldigten; der Fahrzeughalter wurde hierzu nochmals befragt und bestätigte die Angaben.
+
+Der Pkw wurde nach dem Unfall nicht weiter bewegt; die Unfallstelle wurde mit Lichtbildern dokumentiert, ehe der Verkehr wieder freigegeben wurde. Die Fahrbahnmarkierung im Kreuzungsbereich ist teilweise verblasst, was der Anzeiger jedoch nicht als Ursache angibt.
+
+Die Fotos des Fahrrads zeigen einen Kratzer am Lenker und eine verbogene Vorderradgabel. Am Pkw sind an der rechten vorderen Tür Schleifspuren und eine Eindellung erkennbar. Die Schäden stimmen mit den Angaben des Anzeigers überein.
 
 Die Anzeige wurde auf Grund der Angaben des Anzeigers und des Beschuldigten erstattet. Die Beteiligten wurden über die Möglichkeit der Akteneinsicht belehrt.
 

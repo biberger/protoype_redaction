@@ -20,7 +20,7 @@ Begründung
 
 1. Mit Straferkenntnis der [[organization|Magistratsabteilung 67 der Stadt Wien]] vom [[date|20. August 2025]] wurde dem Revisionswerber vorgeworfen, er habe als Halter des Sattelzugs mit dem Kennzeichen [[license_plate|KU 232 SY]] am [[date|14. Juni 2025]] nicht dafür gesorgt, dass das Fahrzeug den Vorschriften des [[legal_norm|§ 102 Abs 1 KFG]] entspreche. Über ihn wurde eine Geldstrafe verhängt.
 
-2. Der Vorfall ereignete sich auf der [[street|Warhanekgasse]] in [[location|Wien]]. Der Lenker des Fahrzeugs, [[person|Guntram Glaser]], legte den Organen des Straßenaufsichtsdienstes seinen Personalausweis Nr. [[id_document_number|C0958496]] vor. [[person|Glaser]] gab an, er sei Dienstnehmer der [[organization|Wolfsgruber Fliesen OG]], [[company_register_number|FN 69963m]], deren Umsatzsteuer-Identifikationsnummer [[tax_id|ATU88148031]] lautet.
+2. Der Vorfall ereignete sich auf der [[street|Warhanekgasse]] in [[location|Wien]]. Der Lenker des Fahrzeugs, [[person|Guntram Glaser]], wohnhaft in [[address|Bichlweg 12, 6767 Warth]], legte den Organen des Straßenaufsichtsdienstes seinen Personalausweis Nr. [[id_document_number|C0958496]] vor. [[person|Glaser]] gab an, er sei Dienstnehmer der [[organization|Wolfsgruber Fliesen OG]], [[company_register_number|FN 69963m]], deren Umsatzsteuer-Identifikationsnummer [[tax_id|ATU88148031]] lautet.
 
 3. Der Anzeiger [[person|Danny Ladner]], wohnhaft in [[address|Fillgradergasse 15/23, 2525 Schönau an der Triesting]], hatte das Fahrzeug über längere Zeit beobachtet. Er sagte aus, der Sattelzug sei am Vormittag des [[date|14. Juni 2025]] ohne ordnungsgemäße Ladungssicherung abgestellt gewesen.
 
@@ -43,6 +43,16 @@ Rechtliche Beurteilung
 11. Das angefochtene Erkenntnis war daher gemäß [[legal_norm|§ 42 Abs 2 Z 1 VwGG]] wegen Rechtswidrigkeit seines Inhaltes aufzuheben. Der Zuspruch an Aufwandersatz gründet sich auf [[legal_norm|§ 47 Abs 1 VwGG]] iVm der VwGH-Aufwandersatzverordnung.
 
 12. Die Vertretungskosten der Mitbeteiligten [[organization|Wolfsgruber Fliesen OG]] sind nicht zuzusprechen, weil sie keinen Antrag gestellt hat. Die Entscheidung über die Kostenersatzpflicht des Bundes ergeht nach [[legal_norm|Art 133 Abs 4 B-VG]].
+
+13. Das Verwaltungsgericht stützt sich weiters auf die Aussage des Anzeigers [[person|Danny Ladner]], der den Sattelzug am Vormittag beobachtet haben will. Dessen Wahrnehmungen betreffen jedoch nur den Zustand der Ladung, nicht die Frage, wer am [[date|14. Juni 2025]] Verfügungsmacht über das Fahrzeug hatte. Eine Auseinandersetzung mit dem Umstand, dass der Anzeiger den Sattelzug nur von der Straßenseite aus sehen konnte, fehlt im angefochtenen Erkenntnis.
+
+14. Die Revisionsbeantwortung der Mitbeteiligten [[organization|Wolfsgruber Fliesen OG]] bringt vor, die Übergabe des Fahrzeugs am [[date|1. Juni 2025]] sei lediglich formal erfolgt und der Revisionswerber habe die Zulassung weiterhin verwaltet. Dieses Vorbringen ist im Verfahren vor dem Verwaltungsgericht nicht erörtert worden und kann daher im vorliegenden Revisionsverfahren nicht berücksichtigt werden, weil neue Tatsachen nach [[legal_norm|§ 41 VwGG]] nicht zulässig sind.
+
+15. Der [[court|Verwaltungsgerichtshof]] hält fest, dass die Beweiswürdigung des Verwaltungsgerichts den Anforderungen an eine schlüssige Begründung nicht genügt. Insbesondere hätte sich das Verwaltungsgericht mit dem Umstand auseinandersetzen müssen, dass [[person|Guntram Glaser]] nach dem Protokoll des Straßenaufsichtsdienstes angab, die Ladung sei beim Abstellen bereits gesichert gewesen. Eine Überprüfung dieser Angabe durch Lichtbilder fand nicht statt.
+
+16. Im fortgesetzten Verfahren wird das Verwaltungsgericht daher zu klären haben, ob der Revisionswerber im Tatzeitpunkt tatsächlich Halter im Sinne der [[legal_norm|StVO]] war und ob ihn eine Aufsichtspflicht traf. Ob die verhängte Strafe der Höhe nach angemessen ist, bedarf erst dann einer Prüfung, wenn der Schuldvorwurf feststeht. Eine Herabsetzung der Geldstrafe kommt nach dem derzeitigen Verfahrensstand schon deshalb nicht in Betracht, weil die Tat nicht abschließend festgestellt ist. Für die Strafbemessung wird auf [[legal_norm|§ 19 VStG]] verwiesen, dessen Kriterien im angefochtenen Erkenntnis nur knapp angesprochen wurden.
+
+17. Die Entscheidung über den Aufwandersatz beruht auf den Bestimmungen der Verordnung des Bundeskanzlers über die Pauschalierung der Aufwandersatzansprüche im verwaltungsgerichtlichen Verfahren, soweit der Revisionswerber keine eigenen Kosten im Einzelnen belegt hat. Der Revisionswerber hat den Schriftsatz vom [[date|25. März 2026]] ordnungsgemäß unterzeichnet und die Revisionsgebühr rechtzeitig entrichtet. Eine Mängelbehebung nach [[legal_norm|§ 13 Abs 3 AVG]] war daher nicht erforderlich.
 
 [[location|Wien]], am [[date|12. Oktober 2026]]
 

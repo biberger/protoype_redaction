@@ -34,11 +34,15 @@ Die Dienstgeberin bestätigte mit Schreiben vom [[date|4. März 2026]], unterzei
 
 Die Antragstellerin war zuvor bei der [[organization|Flesch KG]], [[company_register_number|FN 372753t]], UID-Nummer [[tax_id|ATU57478697]], beschäftigt. Die Beschäftigung dort endete am [[date|31. Dezember 2025]].
 
-Der Geschäftsführer der [[organization|HAUER & ÖZTAN KG]], [[person|Conny Stix, Ing., MBA]], hat als Personalvermittler die Antragstellerin an die Gebauer Metallbau GmbH vermittelt. Die HAUER & ÖZTAN KG, [[company_register_number|FN 49066g]], UID-Nummer [[tax_id|ATU69928019]], [[address|Hans-Steger-Gasse 7/5, 9141 Eberndorf]], hat die Vermittlungsprovision in Höhe von 1.200 Euro erhalten.
+Die Antragstellerin wohnt seit dem [[date|1. Oktober 2024]] an der oben genannten Anschrift in einer Mietwohnung, die sie gemeinsam mit einer Bekannten bewohnt. Die Meldebestätigung liegt vor. Der Reisepass ist bis zum [[date|14. Mai 2031]] gültig. Die Wohnung entspricht nach den Angaben der Antragstellerin und den Fotos im Akt einer ortsüblichen Unterkunft, sodass die Unterkunftsfrage keinen Versagungsgrund bildet.
+
+Die Dienstgeberin hat die Beschäftigungsbewilligung des Arbeitsmarktservice für die Dauer von zwei Jahren beantragt. Der Antrag wurde bislang nicht entschieden, weshalb die Dienstgeberin auf die Entscheidung dieses Verfahrens verweist.
+
+Der Geschäftsführer der [[organization|HAUER & ÖZTAN KG]], [[person|Ing. Conny Stix, MBA]], hat als Personalvermittler die Antragstellerin an die [[organization|Gebauer Metallbau GmbH]] vermittelt. Die [[organization|HAUER & ÖZTAN KG]], [[company_register_number|FN 49066g]], UID-Nummer [[tax_id|ATU69928019]], [[address|Hans-Steger-Gasse 7/5, 9141 Eberndorf]], hat die Vermittlungsprovision in Höhe von 1.200 Euro erhalten.
 
 Beweiswürdigung
 
-Die Antragstellerin wurde am [[date|18. Juni 2026]] niederschriftlich befragt. Sie gab an, seit dem Jahr 2024 durchgehend in Österreich erwerbstätig zu sein. Die Angaben zu den Beschäftigungszeiten decken sich mit den vorgelegten Dienstzetteln und den Sozialversicherungsauszügen.
+Die Antragstellerin wurde am [[date|18. Juni 2026]] niederschriftlich befragt. Sie gab an, seit dem Jahr 2024 durchgehend in [[location|Österreich]] erwerbstätig zu sein. Die Angaben zu den Beschäftigungszeiten decken sich mit den vorgelegten Dienstzetteln und den Sozialversicherungsauszügen.
 
 Die Angaben zum Familienleben sind hingegen nicht glaubhaft. Die Antragstellerin hat zunächst angegeben, mit einem österreichischen Staatsbürger verheiratet zu sein. Auf Vorhalt, dass die Eheschließung nicht nachgewiesen wurde, hat sie diese Angabe korrigiert.
 
@@ -54,6 +58,6 @@ Rechtsmittelbelehrung
 
 Gegen diesen Bescheid kann innerhalb von vier Wochen nach Zustellung eine Beschwerde an das [[court|Bundesverwaltungsgericht]] erhoben werden. Die Beschwerde ist beim [[organization|Bundesamt für Fremdenwesen und Asyl]] einzubringen.
 
-Ritzing, am [[date|9. Oktober 2026]]
+[[location|Ritzing]], am [[date|9. Oktober 2026]]
 
 Für die Richtigkeit der Ausfertigung: [[person|Frony Lehr]]

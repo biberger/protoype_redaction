@@ -21,7 +21,7 @@ Faits
 Par contrat du [[date|1er février 2024]], la bailleresse a remis à bail aux locataires un appartement de cinq pièces sis à [[address|Buchlernstrasse 9, 8775 Hätzin-
 gen]]. Le loyer convenu s'élevait à CHF 2'150.00 par mois, charges comprises.
 
-Le [[date|18 avril 2026]], les locataires ont signalé un dégât d'eau persistant dans la cuisine et dans la salle de bains. La bailleresse a fait intervenir un plombier le [[date|27 avril 2026]], sans remédier durablement au problème.
+Le [[date|18 avril 2026]], les locataires ont signalé un dégât d'eau persistant dans la cuisine et dans la salle de bains. La bailleresse a fait intervenir un plombier le [[date|27 avril 2026]], sans remédier durablement au problème. Le véhicule utilitaire de M. [[person|Dereli]], immatriculé [[license_plate|GL 889589]], bloquait l'accès à la cour lors de l'intervention. Mme [[person|Jolanda van der Brugge]], voisine du rez-de-chaussée, a confirmé avoir constaté l'humidité dans le mur de la cuisine.
 
 Le [[date|31 mars 2026]], la bailleresse avait déjà adressé aux locataires un avis de demeure portant sur le loyer de mars, que la locataire [[person|Shahidi]] avait réglé en retard. La locataire a contesté ce point. Lors de l'audience, Mme [[person|Shahidi]] a produit des photographies et un échange de messages avec M. [[person|Oppliger]].
 

@@ -12,7 +12,7 @@ GZ [[case_number|RV/7100256/2025]]
 
 IM NAMEN DER REPUBLIK
 
-Das [[court|Bundesfinanzgericht]] hat durch den Senatsvorsitzenden [[judge|Flórido Marçal]] sowie die Richterin und den Richter des Senates über die Beschwerde der [[person|DDr. Stacy Radenković, BSc]], Inhaberin des Einzelunternehmens [[organization|Handler Immobilien e.U.]], [[address|Weinhartstraße 10, 5252 Aspach]], vertreten durch [[lawyer|Boleslaw Roth]], Rechtsanwalt in [[location|Linz]], gegen den Bescheid des [[organization|Finanzamtes Braunau Ried Schärding]] vom [[date|14. März 2025]] betreffend Umsatzsteuer und Einkommensteuer für die Jahre 2022 und 2023 nach öffentlicher mündlicher Verhandlung am [[date|11. September 2026]] zu Recht erkannt:
+Das [[court|Bundesfinanzgericht]] hat durch den Senatsvorsitzenden [[judge|Flórido Marçal]] sowie die Richterin und den Richter des Senates über die Beschwerde der [[person|DDr. Stacy Radenković, BSc]], Inhaberin des Einzelunternehmens [[organization|Handler Immobilien e.U.]], [[company_register_number|FN 249434s]], UID [[tax_id|ATU41100580]], [[address|Weinhartstraße 10, 5252 Aspach]], vertreten durch [[lawyer|Boleslaw Roth]], Rechtsanwalt in [[location|Linz]], gegen den Bescheid des [[organization|Finanzamtes Braunau Ried Schärding]] vom [[date|14. März 2025]] betreffend Umsatzsteuer und Einkommensteuer für die Jahre 2022 und 2023 nach öffentlicher mündlicher Verhandlung am [[date|11. September 2026]] zu Recht erkannt:
 
 I. Spruch
 
@@ -46,17 +46,27 @@ Die Aussage der Zeugin [[person|Schenk]] ist in diesem Punkt glaubhaft, weil die
 
 Auf Grund der Akten, der Zeugenaussagen und der Verhandlung stellt das Gericht folgenden Sachverhalt fest:
 
-Die Beschwerdeführerin betreibt seit dem [[date|1. Jänner 2019]] ein Einzelunternehmen im Bereich der Vermittlung und Sanierung von Wohnobjekten. Sie führte Bauarbeiten an einem Objekt in Aspach durch, das sie für eine Pflegeeinrichtung zur Verfügung stellte. Die Pflegeeinrichtung wird von der [[organization|Köhler Pflege e.U.]] betrieben, die nicht der Beschwerdeführerin gehört, mit dieser aber über eine gemeinsame Buchhaltung verbunden war.
+Die Beschwerdeführerin betreibt seit dem [[date|1. Jänner 2019]] ein Einzelunternehmen im Bereich der Vermittlung und Sanierung von Wohnobjekten. Sie führte Bauarbeiten an einem Objekt in [[location|Aspach]] durch, das sie für eine Pflegeeinrichtung zur Verfügung stellte. Die Pflegeeinrichtung wird von der [[organization|Köhler Pflege e.U.]], [[company_register_number|FN 423779f]], UID [[tax_id|ATU77192173]], betrieben, die ihren Sitz in [[address|Krakauer Straße 32/9, 8863 Predlitz-Turrach]] hat, die nicht der Beschwerdeführerin gehört, mit dieser aber über eine gemeinsame Buchhaltung verbunden war.
 
 Im Rahmen einer Außenprüfung, deren Schlussbesprechung am [[date|8. November 2024]] stattfand, stellte der Prüfer fest, dass ein Teil der Vorsteuern aus den Rechnungen der [[organization|Schiffner & Piëch GmbH]] nicht durch Lieferscheine belegt sei. Die Rechnungen tragen die Rechnungsnummern 2022-0147 bis 2022-0163 sowie 2023-0021 bis 2023-0038. Sie sind formal vollständig und weisen eine Umsatzsteuer von insgesamt EUR 18.472,40 aus.
 
 Aufwendungen für Bewirtung in Höhe von EUR 6.318,00 wurden in den Jahren 2022 und 2023 verbucht, ohne dass Teilnehmerlisten vorlagen. Geschenke an Geschäftspartner im Wert von EUR 1.140,00 wurden ebenfalls als Betriebsausgabe erfasst.
 
-Der Bauleiter [[person|Osmanović]] war im Zeitraum der Arbeiten als Angestellter der [[organization|Schiffner & Piëch GmbH]] tätig und besuchte die Baustellen wöchentlich. Die Lieferungen erfolgten an die Standorte in Aspach und Glödnitz. Er führte ein eigenes Bautagebuch, dessen Eintragungen mit den Lieferscheinen übereinstimmen.
+Der Bauleiter [[person|Osmanović]] war im Zeitraum der Arbeiten als Angestellter der [[organization|Schiffner & Piëch GmbH]] tätig, deren Sitz in [[address|Galileigasse 8/23, 9346 Glödnitz]] liegt, und besuchte die Baustellen wöchentlich. Die Lieferungen erfolgten an die Standorte in [[location|Aspach]] und [[location|Glödnitz]]. Er führte ein eigenes Bautagebuch, dessen Eintragungen mit den Lieferscheinen übereinstimmen.
 
 Das Finanzamt hat die nicht belegten Vorsteuern im Wege einer Schätzung nach [[legal_norm|§ 184 Abs 1 BAO]] ermittelt und auf Null gesetzt. Die Beschwerdeführerin hat in der Beschwerde ausdrücklich die Schätzung bekämpft und die Vorlage des Bautagebuchs beantragt. Der Beweisantrag wurde in der Verhandlung wiederholt und vom Senat berücksichtigt.
 
 [[lawyer|Boleslaw Roth]] brachte vor, die Behörde habe die Vorsteuerbeträge ohne Prüfung der Leistungsbeziehungen gekürzt. Der Vertreter verwies zudem auf die lange Dauer des Verfahrens, die seit der Einbringung der Beschwerde am [[date|17. April 2025]] verstrichen ist.
+
+2b. Beweiswürdigung
+
+Die Beschwerdeführerin selbst gab an, sie habe die Rechnungen der [[organization|Schiffner & Piëch GmbH]] persönlich geprüft und die Zahlungen freigegeben. Sie könne jedoch nicht angeben, an welchem Tag die Lieferungen tatsächlich erfolgt seien, weil sie die Baustellen nur sporadisch besucht habe. Diese Aussage ist insoweit glaubwürdig, als sie mit der Organisation des Betriebes übereinstimmt, sie erklärt aber nicht die Lücken in den Lieferscheinen.
+
+Die Aussage des Zeugen [[person|Osmanović]] ist hingegen konkret. Er nannte Datum, Ort und Art der Lieferung und konnte dazu auf sein Bautagebuch verweisen. Der Senat folgt seiner Schilderung, soweit sie die Monate 2022 betrifft. Für das Jahr 2023 fehlen dagegen Eintragungen in den Monaten Juli bis September, weshalb die Vorsteuer für diesen Zeitraum nicht als belegt gilt.
+
+Die Zeugin [[person|Schenk]] hat die Betriebsausgaben im Bereich der Pflegebetten bestätigt. Ihre Angaben zu den Versicherungsfällen decken sich mit den vorgelegten Schreiben. Die Zeugin ist Angestellte der [[organization|Köhler Pflege e.U.]] und hat deshalb kein eigenes Interesse am Ausgang des Verfahrens.
+
+Die Urkunden der Beschwerdeführerin, insbesondere die Kontoauszüge und die Jahresabschlüsse, weisen für das Jahr 2023 einen Ausgleichsbetrag aus, dessen Herkunft nicht vollständig erklärt wurde. Der Senat sieht darin einen Umstand, der bei der Schätzung zu berücksichtigen ist, ohne dass er zur Gänze zu Lasten der Beschwerdeführerin gewertet werden kann.
 
 3. Rechtliche Beurteilung
 
@@ -74,6 +84,10 @@ Aufwendungen für Repräsentation sind nach [[legal_norm|§ 20 Abs 1 Z 4 EStG 19
 
 Das [[court|Bundesfinanzgericht]] hat die Beweise nach [[legal_norm|§ 167 Abs 2 BAO]] frei gewürdigt. Die Angaben der Zeugen wurden mit den vorgelegten Urkunden verglichen. Die Behörde hat ihrer Ermittlungspflicht nach [[legal_norm|§ 115 Abs 1 BAO]] nicht hinreichend genügt, soweit sie die Leistungserbringung bestritten hat, ohne die Zeugen zu hören.
 
+Der Vertreter der Beschwerdeführerin hat in der Verhandlung ergänzend vorgebracht, dass die Buchhaltung im Jahr 2023 wegen des Wechsels des Steuerberaters nicht vollständig geführt wurde. Ein Teil der Belege sei erst nachträglich eingeholt worden. Dieses Vorbringen wurde durch eine Bestätigung der früheren Buchhalterin nicht gestützt, weil diese die Übergabe der Unterlagen nur allgemein beschrieb. Die Beschwerdeführerin hat zwar eingeräumt, dass die Belege teilweise verspätet erstellt wurden, bestreitet aber, dass die Leistungen nicht erbracht worden seien.
+
+Die Außenprüfung hat außerdem festgestellt, dass einzelne Rechnungen Positionen enthalten, die nach dem Ausweis der Beschwerdeführerin für Wohnobjekte bestimmt waren und nicht für die Pflegeeinrichtung. Eine Zuordnung dieser Positionen zum Betrieb ist nicht vollständig möglich; sie werden daher in die Schätzung einbezogen.
+
 3.4 Schätzung
 
 Eine Schätzung nach [[legal_norm|§ 184 Abs 1 BAO]] ist zulässig, wenn die Behörde die Besteuerungsgrundlagen nicht ermitteln kann oder die Buchführung nicht ordnungsgemäß ist. Im vorliegenden Fall lagen die Rechnungen vor, und die Leistungen wurden durch den Zeugen bestätigt. Eine Schätzung mit null Vorsteuer war daher nicht gerechtfertigt; sie wäre nur für jene Rechnungen zulässig gewesen, für die die Leistungserbringung tatsächlich nicht nachweisbar ist.
@@ -83,6 +97,18 @@ Der Senat hat die Vorsteuer aus den Rechnungen 2022-0147 bis 2022-0163 anerkannt
 3.5 Verfahrensdauer
 
 Die Beschwerde wurde am [[date|17. April 2025]] eingebracht und die Entscheidung am [[date|29. September 2026]] getroffen. Die Dauer von siebzehn Monaten ist für ein Verfahren dieser Art nicht unangemessen, weil eine Zeugenvernehmung und die Beschaffung von Unterlagen erforderlich waren. Eine Verletzung des Rechts auf Entscheidung innerhalb angemessener Frist nach [[legal_norm|Art. 6 Abs 1 EMRK]] liegt daher nicht vor. Die Verfahrensdauer ist im Kostenausspruch nicht zu berücksichtigen.
+
+3.6 Bewirtung und Geschenke
+
+Bewirtungsaufwendungen sind nur abzugsfähig, wenn sie betrieblich veranlasst sind und die Teilnehmer sowie der Anlass angegeben werden. Die Beschwerdeführerin hat zu den Rechnungen über EUR 6.318,00 weder Namen noch Anlässe nachgewiesen. Ihr Hinweis, die Bewirtungen hätten der Akquise von Pflegeaufträgen gedient, ist ohne Belege nicht nachvollziehbar. Die Aufwendungen sind deshalb nicht als Betriebsausgaben anzuerkennen.
+
+Die Geschenke an Geschäftspartner im Wert von EUR 1.140,00 sind hingegen bis zu den im Einkommensteuerrecht vorgesehenen Grenzen abzugsfähig, sofern die Empfänger angegeben werden. Die Beschwerdeführerin hat die Empfänger nicht benannt. Auch diese Aufwendungen sind daher nicht anzuerkennen.
+
+Die Beschwerdeführerin hat in ihrer Stellungnahme vom [[date|2. Juni 2026]] ergänzend vorgebracht, die Aufwendungen seien im Rahmen der Akquise für die Pflegeeinrichtung entstanden. Eine Kopie der Einladungen zu den Bewirtungen hat sie nicht vorgelegt, weil die Einladungen mündlich erfolgten. Das [[court|Bundesfinanzgericht]] hält dieses Vorbringen für nicht ausreichend, um die Abzugsfähigkeit zu begründen. Der Senat hat die Stellungnahme in der Verhandlung erörtert und den Parteien Gelegenheit zur Äußerung gegeben.
+
+3.7 Ergebnis
+
+Die Beschwerde ist im Umfang der anerkannten Vorsteuern berechtigt. Hinsichtlich der Bewirtungs- und Geschenkaufwendungen ist sie unbegründet. Der angefochtene Bescheid war daher spruchgemäß abzuändern. Die Entscheidung folgt den Feststellungen und der Beweiswürdigung, die der Senat einstimmig getroffen hat. Die Kostenentscheidung unter III. folgt aus dem teilweisen Unterliegen der Beschwerdeführerin im Abgabenverfahren, wobei der Senat die Dauer des Verfahrens nicht als Grund für einen Kostenersatz gewertet hat.
 
 4. Revision
 

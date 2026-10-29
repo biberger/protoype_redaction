@@ -49,6 +49,22 @@ wird folgender Arbeitsvertrag geschlossen. Die Arbeitgeberin wird bei den Verhan
 
 Die Arbeitnehmerin hat Anspruch auf 30 Arbeitstage Urlaub je Kalenderjahr. Der gesetzliche Mindesturlaub richtet sich nach [[legal_norm|BUrlG]]; Resturlaub ist bis zum 31. März des Folgejahres zu nehmen.
 
+§ 5a Nebentätigkeit, Verschwiegenheit, Weiterbildung
+
+(1) Eine Nebentätigkeit bedarf der vorherigen schriftlichen Zustimmung der Arbeitgeberin, soweit sie den Umfang von zehn Wochenstunden überschreitet oder in Konkurrenz zur Tätigkeit im Einkauf steht. Die Zustimmung darf nur aus betrieblichen Gründen versagt werden.
+
+(2) Die Arbeitnehmerin verpflichtet sich, über alle Geschäfts- und Betriebsgeheimnisse, insbesondere über Einkaufskonditionen und Lieferantenlisten, auch nach Beendigung des Arbeitsverhältnisses Stillschweigen zu bewahren.
+
+(3) Die Arbeitgeberin unterstützt die Arbeitnehmerin bei fachlicher Weiterbildung im Umfang von bis zu drei Tagen je Kalenderjahr. Kosten für Lehrgänge übernimmt die Arbeitgeberin, sofern sie dies vorher schriftlich zugesagt hat. Verlässt die Arbeitnehmerin das Unternehmen innerhalb von zwölf Monaten nach Abschluss einer solchen Maßnahme aus eigenem Entschluss, hat sie die Kosten anteilig zu erstatten.
+
+(4) Dienstreisen werden nach den steuerlichen Pauschalen erstattet. Fahrtkosten für Strecken zwischen Wohnung und Arbeitsstätte werden nicht erstattet, soweit kein Dienstwagen zur Verfügung gestellt wird.
+
+§ 5b Krankheit und Homeoffice
+
+(1) Die Arbeitnehmerin hat ihre Arbeitsunfähigkeit unverzüglich anzuzeigen und ab dem vierten Kalendertag eine ärztliche Bescheinigung vorzulegen. Der Anspruch auf Entgeltfortzahlung im Krankheitsfall richtet sich nach [[legal_norm|§ 3 EFZG]] und [[legal_norm|§ 5 EFZG]].
+
+(2) An bis zu zwei Tagen je Woche kann die Arbeitnehmerin mobil arbeiten. Die Einzelheiten regelt eine gesonderte Homeoffice-Vereinbarung, die bei der Personalabteilung hinterlegt wird. Die Arbeitsleistung ist dabei in gleicher Weise zu erbringen wie im Betrieb.
+
 § 6 Kündigung
 
 (1) Die ordentliche Kündigung richtet sich nach [[legal_norm|§ 622 BGB]]. Die Kündigung bedarf zu ihrer Wirksamkeit der Schriftform nach [[legal_norm|§ 623 BGB]].
@@ -58,6 +74,14 @@ Die Arbeitnehmerin hat Anspruch auf 30 Arbeitstage Urlaub je Kalenderjahr. Der g
 § 7 Datenschutz
 
 Die Verarbeitung personenbezogener Daten erfolgt nach der [[legal_norm|DSGVO]] und dem [[legal_norm|BDSG]]. Die Sozialversicherungsnummer der Arbeitnehmerin, [[social_security_number|50 241223 B 573]], wird ausschließlich für Meldungen an die Krankenkasse verwendet.
+
+§ 7a Arbeitsmittel und Rückgabe
+
+(1) Die Arbeitgeberin stellt der Arbeitnehmerin einen Laptop, ein Mobiltelefon und einen Zugang zum Warenwirtschaftssystem zur Verfügung. Diese Arbeitsmittel bleiben Eigentum der Arbeitgeberin und sind bei Beendigung des Arbeitsverhältnisses vollständig und unbeschädigt zurückzugeben.
+
+(2) Eine private Nutzung des Mobiltelefons ist im üblichen Umfang gestattet. Die Kosten für Gespräche ins Ausland trägt die Arbeitnehmerin.
+
+(3) Die Arbeitnehmerin hat Zugangsdaten vertraulich zu behandeln und darf sie nicht an Dritte weitergeben.
 
 § 8 Zustellungen und Kontakt
 

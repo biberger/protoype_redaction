@@ -29,7 +29,7 @@ Parties défenderesses,
 
 Faits et procédure
 
-Mme [[person|Reynaud]] est propriétaire d'une maison d'habitation située à [[location|Nantes]]. Sa parcelle jouxte celle de M. [[person|Servant]], ainsi que celle de M. [[person|Le Bris]], sur laquelle se dresse un peuplier d'une vingtaine de mètres. Le [[date|29 janvier 2026]], au cours d'une tempête, une branche maîtresse de cet arbre s'est rompue et a endommagé la toiture de la maison et le mur de clôture de la demanderesse.
+Mme [[person|Reynaud]] est propriétaire d'une maison d'habitation située à [[location|Nantes]]. Sa parcelle jouxte celle de M. [[person|Servant]], ainsi que celle de M. [[person|Le Bris]], sur laquelle se dresse un peuplier d'une vingtaine de mètres. La Peugeot 308 de M. [[person|Servant]], immatriculée [[license_plate|NA-585-HD]] et stationnée sous l'arbre, a également été détruite par la chute de la branche. Le [[date|29 janvier 2026]], au cours d'une tempête, une branche maîtresse de cet arbre s'est rompue et a endommagé la toiture de la maison et le mur de clôture de la demanderesse.
 
 Le [[date|2 février]], un élagueur est intervenu sur la propriété de M. [[person|Le Bris]], à la demande de M. [[person|Servant]]. Par courriel du [[date|4 février 2026]], M. [[person|Servant]] a répondu à Mme [[person|Reynaud]] dans les termes suivants :
 
@@ -43,7 +43,7 @@ Par assignation délivrée le [[date|9 juin 2026]], Mme [[person|Reynaud]] a sai
 
 Prétentions des parties
 
-La demanderesse sollicite la condamnation in solidum des défendeurs à lui payer la somme de 14 380 euros au titre des travaux de toiture et de maçonnerie, 1 200 euros au titre du préjudice de jouissance, ainsi que 2 500 euros au titre de l'[[legal_norm|article 700 du code de procédure civile]].
+M. [[person|Servant]] ne formule aucune demande reconventionnelle. La demanderesse sollicite la condamnation in solidum des défendeurs à lui payer la somme de 14 380 euros au titre des travaux de toiture et de maçonnerie, 1 200 euros au titre du préjudice de jouissance, ainsi que 2 500 euros au titre de l'[[legal_norm|article 700 du code de procédure civile]].
 
 M. [[person|Servant]] fait valoir qu'il n'est pas propriétaire de l'arbre et que la responsabilité ne peut peser que sur le propriétaire du fonds. M. [[person|Le Bris]] soutient que l'arbre était sain lors de son dernier contrôle et que la tempête constitue un événement de force majeure.
 

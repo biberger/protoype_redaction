@@ -17,7 +17,7 @@ II. Locataire
 
 III. Caution
 
-[[person|Dr. Dr. Doda Kolar, MBA MSc]], domicilié dans le [[location|canton de Neuchâtel]], joignable à [[email|dodakolar@gmx.ch]], ci-après « la caution ».
+[[person|Dr. Dr. Doda Kolar, MBA MSc]], AVS n° [[social_security_number|756.5015.2526.51]], domicilié dans le [[location|canton de Neuchâtel]], joignable à [[email|dodakolar@gmx.ch]], ci-après « la caution ».
 
 Article 1 – Objet du bail
 
