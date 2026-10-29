@@ -39,7 +39,7 @@ Le témoin [[person|Giraud]] a déclaré avoir vu deux personnes, dont une femme
 
 Le [[date|14 novembre 2024]], la [[organization|Direction départementale de la sécurité publique]] ([[organization|DDSP]]) procédait à l'interpellation de [[person|Boiron]], dont les empreintes figuraient sur la portière. Lors de son audition, [[person|Sülün]] a présenté sa carte nationale d'identité n° [[id_document_number|XAXSMPITB]] et a reconnu sa participation aux faits.
 
-Le rapport d'expertise du laboratoire de police technique, établi le [[date|3 octobre 2024]] puis complété le [[date|28/10/2024]], confirme la présence de traces papillaires de [[person|Boiron]] sur la portière arrière et sur le rétroviseur. Les constatations des enquêteurs ont été versées au dossier sans contestation de la défense. La [[organization|Brigade de recherche et d'intervention]] ([[organization|BRI]]) a par ailleurs signalé qu'un second véhicule, de couleur grise, avait été vu stationnant à proximité, sans que son immatriculation ait pu être établie.
+Le rapport d'expertise du laboratoire de police technique, établi le [[date|21 novembre 2024]] puis complété le [[date|03/12/2024]], confirme la présence de traces papillaires de [[person|Boiron]] sur la portière arrière et sur le rétroviseur. Les constatations des enquêteurs ont été versées au dossier sans contestation de la défense. La [[organization|Brigade de recherche et d'intervention]] ([[organization|BRI]]) a par ailleurs signalé qu'un second véhicule, de couleur grise, avait été vu stationnant à proximité, sans que son immatriculation ait pu être établie.
 
 À l'audience du [[date|3 juillet 2025]], les prévenus ont été entendus en leurs explications. La partie civile a produit un devis de remise en état s'élevant à 1 200 euros, dont le montant n'a pas été contesté par [[person|Sülün]].
 
@@ -53,7 +53,7 @@ Considérant que la partie civile sollicite la réparation de son préjudice sur
 
 Considérant que [[person|Zimmermann]] est sans antécédents judiciaires, qu'elle a reconnu les faits sans réserve et qu'elle s'est engagée à rembourser les frais de remorquage ;
 
-Considérant que [[person|Boiron]] a déjà été condamné pour des faits de même nature en 2022 et qu'il se trouvait alors en état de récidive légale au sens de l'[[legal_norm|article 132-10 du Code pénal]] ;
+Considérant que [[person|Boiron]] a déjà été condamné pour des faits de même nature en 2022 et qu'il se trouvait alors en état de récidive légale ;
 
 Considérant que la participation de [[person|Sülün]] est établie par ses propres déclarations, lesquelles sont corroborées par les constatations matérielles ;
 

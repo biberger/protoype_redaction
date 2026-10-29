@@ -47,7 +47,7 @@ Wir fordern Sie auf, künftig Ihren Arbeitsplatz nur nach vorheriger Abstimmung 
 
 Bitte bestätigen Sie den Erhalt dieser Abmahnung schriftlich bis zum [[date|5. November 2026]]. Für Rückfragen erreichen Sie uns telefonisch oder bei Frau [[person|Wenke Conradi]] in der Personalabteilung. Sie können uns auch unter Ihrer Mobilnummer [[phone_number|0151 4382621]] erreichen, die wir für die Abstimmung der Schichtpläne bereits gespeichert haben.
 
-Eine Kopie dieser Abmahnung wird zu Ihrer Personalakte genommen. Den Betriebsrat, vertreten durch die Vorsitzende [[person|Marieke Salzmann]], informieren wir gemäß [[legal_norm|§ 82 Abs. 1 BetrVG]] über den Vorgang, sofern Sie der Weitergabe nicht widersprechen. Sie haben das Recht, zu dieser Abmahnung eine eigene Gegendarstellung zur Personalakte einzureichen.
+Eine Kopie dieser Abmahnung wird zu Ihrer Personalakte genommen. Den Betriebsrat, vertreten durch die Vorsitzende [[person|Marieke Salzmann]], informieren wir über den Vorgang, sofern Sie der Weitergabe nicht widersprechen. Sie haben das Recht, zu dieser Abmahnung eine eigene Gegendarstellung zur Personalakte einzureichen.
 
 Mit freundlichen Grüßen
 
