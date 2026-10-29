@@ -83,6 +83,10 @@ Zeuge: [[person|Suvad Lorenci]], wohnhaft in [[location|Reichendorf]], Kaufmann.
 
 Die Bestätigung wurde am [[date|14.02.2024]] abgegeben, dem Tag der Errichtung dieses Testaments.
 
+Die Erblasserin hat dieses Testament am [[date|14. Februar 2024]] unterfertigt.
+
+[[person|Krimhild Egerer]]
+
 X. Nachtrag vom [[date|4. Juni 2025]]
 
 Ich habe dieses Testament am [[date|4. Juni 2025]] durch folgenden Nachtrag ergänzt, der Bestandteil der Verfügung bleibt:
@@ -93,14 +97,15 @@ Ich habe dieses Testament am [[date|4. Juni 2025]] durch folgenden Nachtrag erg�
 
 3. Die Vorsorgevollmacht bleibt bestehen. Die Liegenschaft nach Punkt IV ist nicht vor dem Ablauf der dort genannten Frist zu verkaufen.
 
+Der Nachtrag wurde am [[date|4. Juni 2025]] unterfertigt.
+
+[[location|Reichendorf]], am [[date|4. Juni 2025]]
+
+[[person|Krimhild Egerer]]
+
 XI. Hinterlegung und Schlussbestimmungen
 
 Dieses Testament soll im Original bei den Verlassenschaftsakten aufliegen. Eine Kopie habe ich der Erbin [[person|Aysan Bilgen]] übergeben, damit sie im Falle meines Todes ohne Verzögerung darauf zugreifen kann. Eine Hinterlegung bei einem Notar habe ich nicht vorgenommen, da ich das Testament selbst aufbewahre.
 
 Sollte ein Teil dieses Testaments nach den Bestimmungen des [[legal_norm|ABGB]] unwirksam sein, so bleibt der übrige Teil in Kraft. Alle Erben und Vermächtnisnehmer werden gebeten, sich rechtzeitig mit [[person|Walter]] in Verbindung zu setzen.
 
-Unterschrift der Erblasserin:
-
-[[person|Krimhild Egerer]]
-
-[[location|Reichendorf]], am [[date|14. Februar 2024]]
