@@ -141,7 +141,8 @@ Settled with the project lead after the agent review of the Austrian gold set; t
    recurring yearless dates ("jeweils am 31. März") are untagged.
 9. A party's own file, policy or customer numbers are `other_identifier`; delivery-note and invoice numbers are
    untagged; prefixes (GZ, Zl., SNR) stay outside the span.
-10. A norm chain within one act is one span (`§ 146 iVm § 147 Abs 3 StGB`); "§ 14 Abs 2" without act is tagged
+10. A norm chain within one act that names the act once is one span (`§ 146 iVm § 147 Abs 3 StGB`); when every
+    citation names its act it is split (`[[legal_norm|§ 1295 ABGB]] iVm [[legal_norm|§ 1311 ABGB]]`, as LER does); "§ 14 Abs 2" without act is tagged
     when it cites a statute, not as a section heading of a contract ("§ 10 Laufzeit").
 11. Long act names without § and "UN-Kaufrecht" are `legal_norm`.
 12. OCR noise and line breaks stay inside spans as written. Documents and passages in ALL CAPS or all lower case

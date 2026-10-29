@@ -5,7 +5,7 @@ lang: de
 origin: synthetic/AT_v3_0339_ogh_beschluss#1
 review: convention-pass
 ---
-1. Mit dem Antrag vom [[date|3. März 2025]] begehrte [[person|Walzer]], die Beschlüsse der Eigentümerversammlung vom [[date|18. Juni 2024]] wegen Verstoßes gegen [[legal_norm|§ 16 Abs 2 WEG 2002 iVm § 24 Abs 6 WEG 2002]] für nichtig zu erklären. Die Versammlung habe über die Sanierung der Fassade ohne die erforderliche Mehrheit beschlossen.
+1. Mit dem Antrag vom [[date|3. März 2025]] begehrte [[person|Walzer]], die Beschlüsse der Eigentümerversammlung vom [[date|18. Juni 2024]] wegen Verstoßes gegen [[legal_norm|§ 16 Abs 2 WEG 2002]] iVm [[legal_norm|§ 24 Abs 6 WEG 2002]] für nichtig zu erklären. Die Versammlung habe über die Sanierung der Fassade ohne die erforderliche Mehrheit beschlossen.
 
 2. Das [[court|Bezirksgericht Oberwart]] wies den Antrag mit Beschluss vom [[date|12.11.2025]], [[case_number|2 C 214/25x]], ab. Es vertrat die Auffassung, dass die Beschlussfähigkeit der Versammlung durch die Vollmachten gewahrt gewesen sei.
 

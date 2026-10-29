@@ -5,7 +5,7 @@ lang: de
 origin: synthetic/AT_v3_0077_bfg_erkenntnis#2
 review: convention-pass
 ---
-3. Der Freibetrag für Ausbildungskosten ist nach [[legal_norm|§ 34 Abs 1 EStG iVm § 6c iVm § 6b Abs 2 EStG]] zu gewähren, soweit die Fortbildung der Erhaltung oder Erweiterung der beruflichen Kenntnisse dient. Die Kongressgebühren sind dieser Kategorie zuzuordnen.
+3. Der Freibetrag für Ausbildungskosten ist nach [[legal_norm|§ 34 Abs 1 EStG]] iVm [[legal_norm|§ 6c iVm § 6b Abs 2 EStG]] zu gewähren, soweit die Fortbildung der Erhaltung oder Erweiterung der beruflichen Kenntnisse dient. Die Kongressgebühren sind dieser Kategorie zuzuordnen.
 
 4. Die Beweiswürdigung des Finanzamts ist unvollständig. Die Vorlage der Belege ist nach [[legal_norm|§ 115 Abs 1 BAO]] und [[legal_norm|§ 167 Abs 2 BAO]] als Mitwirkungspflicht zu würdigen. Das [[organization|Finanzamt Linz]] hat die Angaben des [[person|Broz]] nicht ausreichend geprüft.
 

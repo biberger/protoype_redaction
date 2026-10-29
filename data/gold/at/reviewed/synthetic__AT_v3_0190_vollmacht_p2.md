@@ -5,7 +5,7 @@ lang: de
 origin: synthetic/AT_v3_0190_vollmacht#2
 review: convention-pass
 ---
-Die Vertretung beruht auf [[legal_norm|§§ 1002, 1009 ABGB iVm § 1010 ABGB]] und auf [[legal_norm|§ 2 Abs 1 Z 3 WEG 2002 iVm § 52 Abs 1 Z 1 WEG 2002]]. Die Kostenverteilung richtet sich nach [[legal_norm|§ 32 Abs 1 WEG 2002]] iVm [[legal_norm|§ 14 Abs 1 MRG]], soweit die Liegenschaft Wohnungseigentumsobjekte enthält. Für die Prozessvollmacht gelten [[legal_norm|§§ 30, 31 ZPO]].
+Die Vertretung beruht auf [[legal_norm|§§ 1002, 1009 ABGB]] iVm [[legal_norm|§ 1010 ABGB]] und auf [[legal_norm|§ 2 Abs 1 Z 3 WEG 2002]] iVm [[legal_norm|§ 52 Abs 1 Z 1 WEG 2002]]. Die Kostenverteilung richtet sich nach [[legal_norm|§ 32 Abs 1 WEG 2002]] iVm [[legal_norm|§ 14 Abs 1 MRG]], soweit die Liegenschaft Wohnungseigentumsobjekte enthält. Für die Prozessvollmacht gelten [[legal_norm|§§ 30, 31 ZPO]].
 
 **3. Haftung und Kosten**
 

@@ -15,5 +15,5 @@ Gegen diesen Beschluss ist der Rekurs an das [[court|Landesgericht St. Pölten]]
 
 Für die Richtigkeit der Ausfertigung:
 
-[[person|Felizian Thalmann]]
+[[judge|Felizian Thalmann]]
 Rechtspfleger

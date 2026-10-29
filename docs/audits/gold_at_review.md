@@ -10,7 +10,46 @@ Spans (without role duplicates): 5410. Agent corrections: 76 (≈1.4% of spans):
 mostly places in closing lines or before addresses; act names; case numbers), 32 boundary fixes (mostly
 `FN` prefix and degree boundaries), 2 relabelled, 1 removed, 2 text artefacts.
 
-## Human review
+## Convention pass (2026-10-29)
+
+The "Gold-set decisions" in `data/synthetic/GENERATION.md` (settled with the project lead) were applied to all 400
+paragraphs by 20 Sonnet agents (`scripts/gold_convention.workflow.js`; all paragraphs of a document went to the same
+agent, which read the full source document in `data/synthetic/raw_v3` for roles and names; candidate lists from a
+pattern scan in `data/gold/at/convention_hints.txt`). Every file now has `review: convention-pass`;
+`python -m legalner.goldset export` writes 400 records to `data/canonical/gold_at.jsonl` without warnings.
+
+Net change against the agent-reviewed set: 5,374 tags, 145 removed and 109 added in 95 files; the text of 37
+files was edited (decision 13).
+
+| Decision | Change | Count |
+|---|---|---|
+| 1-3 roles | lawyer -> person for representatives whose profession is never stated in the source document (Bevollmächtigter, "Vertreter", Rechtsvertreter of insurers, tax representatives); judge -> person for signatures under "Für die Richtigkeit der Ausfertigung" (except a signer identified as Rechtspfleger, who stays judge) | 31 + 4 + 1 |
+| 4 degrees | degree after the name moved inside the span | 1 |
+| 5/6 authorities | bare `BFA` and `Bundesamt für Fremdenwesen und Asyl` tagged; one generic word untagged | 3 |
+| 7 places in unit names | `Regionaldirektion [Steiermark/Salzburg]`, `Außenstelle [Graz/Linz]`, `Dienststelle …`, `Werkes Reichersberg`: location removed | 6 |
+| 8 date ranges | two date spans merged into one (`[[date|1. September 2025 bis 31. Dezember 2025]]`) or boundary fixed | 25 |
+| 9 identifiers | prefixes (SNR, GZ) out of the span; invoice/delivery numbers untagged | 4 |
+| 10 norm chains | reviewers merged 20 chains whose citations each name the act; split back to match LER (60 such chains split in LER train, none merged); decision 10 now says so | 0 net |
+| 11 act names | `UN-Kaufrecht` tagged | 1 |
+| 13 artefacts (text) | one person under two names (e.g. 0300 judge Haid/Sommer, 0371 Perner/Grill, 0464 Kalsdorf/Lederer, 0966 Toth/Kaltenegger); garbled names (0300 "Reich Edler" -> Ernst Reiterer, 0537 "Da D Bahjat" -> Dalia Bahjat, 0072 "Adtrid" -> Astrid, 0360 Cyrillic-Latin mix, 0678 "umaru"); doubled degree (0588 "MBA V***** T*****, MBA"); impossible chronology (Rechtskraft 5 days after a Zahlungsbefehl, signatures after 2026-10-29, contracts describing later events); wrong court (0563 außerordentliche Revision to the VwGH); gender of a lawyer or party made consistent | 40 |
+
+Rules added with this pass: `legalner.tagged` lint no longer flags a place name right after a unit word
+(Regionaldirektion, Außenstelle, Dienststelle, Werk, Standort …), per decision 7.
+
+Remaining doubts (not changed, for the human reviewer):
+- 0300 p0: "Richterin Edna Haid" (ran the hearing) was merged with the deciding judge Dr. Romi Sommer; revert if a
+  handover between two judges was intended.
+- 0298 p0, 0132, 0915, 0994 …: degrees written before the name in an unusual form ("MBA Lex Alexander",
+  "BSc Mine Schönwiese") stay inside the span; the generator produced them, real documents write them after the name.
+- 0662 p1, 0168, 0171: legal inconsistencies in the facts (deadlines, "nicht Folge gegeben" vs "zurückgewiesen") were
+  left; they do not affect the tags.
+- 0685 p4: "zwischen dem 21. März 2025 und dem 8. Mai 2025" stays two date spans (a range with "und dem" in the middle).
+- 0407 p0: the redundant location `Hirschbach` before the address of the same town stays tagged.
+- 0893 p1: "am Standort [[location|Flachau]]" stays tagged (descriptive, not a unit name).
+
+The open questions of the first pass below are answered by the decisions; they are kept for the record.
+
+## Human review (first pass, questions now settled)
 
 Files: `data/gold/at/reviewed/*.md`. Correct tags in place, set `review: human` in the header, then run
 `python -m legalner.goldset export`. The questions below are what the reviewers were unsure about, grouped by

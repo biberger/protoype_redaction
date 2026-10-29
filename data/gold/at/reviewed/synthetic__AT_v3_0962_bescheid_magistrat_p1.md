@@ -5,7 +5,7 @@ lang: de
 origin: synthetic/AT_v3_0962_bescheid_magistrat#1
 review: convention-pass
 ---
-Die Bauverhandlung fand am [[date|8. Juli 2026]] statt. Die Nachbarn [[person|Rousset]], [[person|Steurer]] und [[person|Matt]] erhoben Einwendungen betreffend die Abstandsflächen. Die Abstandsflächen entsprechen [[legal_norm|§ 19 Abs 2 iVm § 20 Abs 1 NÖ BO 2014 iVm § 6 Abs 3 NÖ BO 2014]] iVm [[legal_norm|§ 58 Abs 2 AVG]].
+Die Bauverhandlung fand am [[date|8. Juli 2026]] statt. Die Nachbarn [[person|Rousset]], [[person|Steurer]] und [[person|Matt]] erhoben Einwendungen betreffend die Abstandsflächen. Die Abstandsflächen entsprechen [[legal_norm|§ 19 Abs 2 iVm § 20 Abs 1 NÖ BO 2014]] iVm [[legal_norm|§ 6 Abs 3 NÖ BO 2014]] iVm [[legal_norm|§ 58 Abs 2 AVG]].
 
 Die Einwendungen der Nachbarn [[person|Kiss]] und [[person|Koren]] betreffend die Zufahrt waren abzuweisen, weil die Zufahrt nach [[legal_norm|§ 13 Abs 1 NÖ BO 2014]] ausreichend dimensioniert ist.
 

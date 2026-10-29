@@ -18,7 +18,7 @@ Der [[court|Verfassungsgerichtshof]] hat unter dem Vorsitz seines Vizepräsident
 
 I. Die Wortfolge „ausschliesslich“ in [[legal_norm|§ 5 Abs 2 Z 3 NÖ MSG]] ist verfassungswidrig.
 
-II. Die Beschwerden werden als unbegründet abgewiesen, soweit sie sich gegen [[legal_norm|§ 2 Abs 1 Z 1 NÖ MSG iVm § 3 Abs 4 NÖ MSG]] richten.
+II. Die Beschwerden werden als unbegründet abgewiesen, soweit sie sich gegen [[legal_norm|§ 2 Abs 1 Z 1 NÖ MSG]] iVm [[legal_norm|§ 3 Abs 4 NÖ MSG]] richten.
 
 III. Der Bund ist zum Ersatz der Kosten verpflichtet. Das Mehrbegehren wird abgewiesen.
 

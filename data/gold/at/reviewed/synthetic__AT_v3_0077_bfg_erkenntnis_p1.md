@@ -13,6 +13,6 @@ review: convention-pass
 
 III. Rechtliche Beurteilung
 
-1. Werbungskosten sind nach [[legal_norm|§ 16 Abs 1 Z 4 EStG iVm § 4 Abs 4 EStG iVm § 18 Abs 1 Z 1 EStG]] nur abziehbar, soweit sie beruflich veranlasst sind. Das Arbeitszimmer ist nach [[legal_norm|§ 20 Abs 1 Z 2 lit d EStG]] nur dann abzugsfähig, wenn kein anderer Arbeitsplatz zur Verfügung steht.
+1. Werbungskosten sind nach [[legal_norm|§ 16 Abs 1 Z 4 EStG]] iVm [[legal_norm|§ 4 Abs 4 EStG]] iVm [[legal_norm|§ 18 Abs 1 Z 1 EStG]] nur abziehbar, soweit sie beruflich veranlasst sind. Das Arbeitszimmer ist nach [[legal_norm|§ 20 Abs 1 Z 2 lit d EStG]] nur dann abzugsfähig, wenn kein anderer Arbeitsplatz zur Verfügung steht.
 
 2. Die Ordination befindet sich in einem Gebäude, das nicht im Eigentum des Beschwerdeführers steht. Die Miete ist daher als Betriebsausgabe nach [[legal_norm|§ 4 Abs 4 Z 1 EStG]] zu berücksichtigen. Der Anteil für das Arbeitszimmer wird mit 12 % der Gesamtmiete angesetzt.

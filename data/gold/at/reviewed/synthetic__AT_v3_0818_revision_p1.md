@@ -15,7 +15,7 @@ Rechtliche Beurteilung
 
 Die Revisionswerberin verweist auf die Rechtsprechung des [[court|Obersten Gerichtshofs]] zur schlüssigen Abnahme bei Inbetriebnahme eines Bauwerks, die auf den vorliegenden Fall nicht übertragbar ist.
 
-Die Revision ist zulässig. Die Frage, ob die Abnahme nach [[legal_norm|§ 1167 ABGB iVm § 1168 ABGB]] durch schlüssiges Verhalten erfolgen kann, ist eine erhebliche Rechtsfrage im Sinne des [[legal_norm|§ 502 Abs 1 ZPO]].
+Die Revision ist zulässig. Die Frage, ob die Abnahme nach [[legal_norm|§ 1167 ABGB]] iVm [[legal_norm|§ 1168 ABGB]] durch schlüssiges Verhalten erfolgen kann, ist eine erhebliche Rechtsfrage im Sinne des [[legal_norm|§ 502 Abs 1 ZPO]].
 
 Das Berufungsgericht hat die Aussage des Zeugen [[person|Scholl]] zum Abnahmeprotokoll nicht gewürdigt. Darin liegt eine Mangelhaftigkeit des Berufungsverfahrens im Sinne des [[legal_norm|§ 503 Abs 2 ZPO]].
 

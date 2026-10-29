@@ -13,7 +13,7 @@ Die Übergabe erfolgt am [[date|17.03.2026]] am Sitz der Verkäuferin. Mit der �
 
 4. Gewährleistung
 
-Die Verkäuferin haftet für Mängel nach den Bestimmungen des [[legal_norm|ABGB]]. Da die Käufer Verbraucher im Sinne des [[legal_norm|KSchG]] sind, gelten die Bestimmungen des [[legal_norm|§ 9 KSchG]] und des [[legal_norm|§ 933 ABGB iVm § 932 ABGB]]. Die Gewährleistungsfrist beträgt zwei Jahre ab Übergabe. Eine Verkürzung dieser Frist ist unwirksam, [[legal_norm|§ 9 Abs 1 KSchG]].
+Die Verkäuferin haftet für Mängel nach den Bestimmungen des [[legal_norm|ABGB]]. Da die Käufer Verbraucher im Sinne des [[legal_norm|KSchG]] sind, gelten die Bestimmungen des [[legal_norm|§ 9 KSchG]] und des [[legal_norm|§ 933 ABGB]] iVm [[legal_norm|§ 932 ABGB]]. Die Gewährleistungsfrist beträgt zwei Jahre ab Übergabe. Eine Verkürzung dieser Frist ist unwirksam, [[legal_norm|§ 9 Abs 1 KSchG]].
 
 Die Verkäuferin erklärt, dass das Fahrzeug frei von eingetragenen Pfandrechten ist. Ein Auszug aus dem Zulassungsregister liegt dem Vertrag bei. Eine Haftung für Schäden aus einer unsachgemäßen Nutzung nach der Übergabe ist ausgeschlossen, soweit diese nicht auf einen Mangel zurückzuführen sind.
 

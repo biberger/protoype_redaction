@@ -15,7 +15,7 @@ Ich widerrufe alle früher von mir errichteten letztwilligen Verfügungen, insbe
 
 II. Erbeinsetzung
 
-Zur Alleinerbin meines gesamten Nachlasses setze ich Frau [[person|BSc Mine Schönwiese]] ein. Frau [[person|Schönwiese]] hat mich über viele Jahre gepflegt und den Haushalt geführt. Die Erbeinsetzung erfolgt nach [[legal_norm|§ 553 iVm § 577 Abs 1 ABGB iVm § 578 ABGB]], da ich das Testament eigenhändig geschrieben und unterschrieben habe.
+Zur Alleinerbin meines gesamten Nachlasses setze ich Frau [[person|BSc Mine Schönwiese]] ein. Frau [[person|Schönwiese]] hat mich über viele Jahre gepflegt und den Haushalt geführt. Die Erbeinsetzung erfolgt nach [[legal_norm|§ 553 iVm § 577 Abs 1 ABGB]] iVm [[legal_norm|§ 578 ABGB]], da ich das Testament eigenhändig geschrieben und unterschrieben habe.
 
 III. Vermächtnisse
 

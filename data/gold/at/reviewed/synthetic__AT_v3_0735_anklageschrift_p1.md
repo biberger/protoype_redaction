@@ -9,7 +9,7 @@ Der Angeklagte [[person|Kahr]] übernahm die Auszahlung der Gelder und überwies
 
 Rechtliche Beurteilung
 
-[[person|Vesely]], [[person|Czető]] und [[person|Kahr]] haben dadurch das Vergehen des schweren Betrugs nach [[legal_norm|§§ 146, 147 Abs 3 StGB]] begangen. [[person|Eichinger]] und [[person|Löw]] werden der Untreue nach [[legal_norm|§ 153 Abs 1 StGB iVm § 12 StGB]] beschuldigt.
+[[person|Vesely]], [[person|Czető]] und [[person|Kahr]] haben dadurch das Vergehen des schweren Betrugs nach [[legal_norm|§§ 146, 147 Abs 3 StGB]] begangen. [[person|Eichinger]] und [[person|Löw]] werden der Untreue nach [[legal_norm|§ 153 Abs 1 StGB]] iVm [[legal_norm|§ 12 StGB]] beschuldigt.
 
 Beweismittel
 

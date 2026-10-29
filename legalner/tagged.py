@@ -218,6 +218,11 @@ def chunk(text, spans, max_chars):
     return result
 
 
+# a place inside the name of a unit is not a location (gold-set decision 7): "Regionaldirektion Steiermark"
+UNIT_BEFORE = re.compile(r"(?:Regionaldirektion|Außenstelle|Landesstelle|Zweigstelle|Dienststelle|Werk(?:es|s)?|"
+                         r"Filiale|Niederlassung|Standort)\s$")
+
+
 def lint(text, spans, fname):
     """Warn about untagged occurrences of strings tagged elsewhere in the doc
     (incl. bare surnames of person spans and common place names)."""
@@ -237,7 +242,7 @@ def lint(text, spans, fname):
     warnings = []
     for n in sorted(needles):
         for m in re.finditer(r"(?<!\w)" + re.escape(n) + r"(?:s|')?(?!\w)", text):  # incl. genitive
-            if not any(covered[m.start():m.end()]):
+            if not any(covered[m.start():m.end()]) and not UNIT_BEFORE.search(text, 0, m.start()):
                 line = text.count("\n", 0, m.start()) + 1
                 warnings.append(f"{fname}:{line}: untagged occurrence of {n!r}")
     for m in DATE_RE.finditer(text):
