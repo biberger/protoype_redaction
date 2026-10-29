@@ -274,7 +274,7 @@ def _rare_entities(gaz, rng, jur, doc_type, persons, companies, is_court=False):
     return out
 
 
-def brief(gaz, rng, jur, lang, doc_type, idx, wave, rare=False):
+def brief(gaz, rng, jur, lang, doc_type, idx, wave, rare=False, pseudo_frac=0.2):
     is_court = doc_type.startswith(COURT_DOC_PREFIXES)
     n_persons = rng.randint(2, 7)
     b = {
@@ -287,7 +287,7 @@ def brief(gaz, rng, jur, lang, doc_type, idx, wave, rare=False):
         "addresses": [_address(gaz, rng, jur) for _ in range(rng.randint(1, 3))],
         # judgments rarely contain IBANs or social security numbers; forcing them in made texts implausible
         "identifiers": {} if is_court else _identifiers(rng, jur),
-        "pseudonymised": jur == "AT" and is_court and rng.random() < 0.2,
+        "pseudonymised": jur == "AT" and is_court and rng.random() < pseudo_frac,
         "ocr_noise": rng.random() < 0.1,
         "hard_cases": rng.sample([
             "a person whose surname is also a place or common word", "surname-only coreference",
@@ -310,6 +310,8 @@ def main(argv=None):
     ap.add_argument("--per-batch", type=int, default=6)
     ap.add_argument("--wave", default="v3")
     ap.add_argument("--seed", type=int, default=29)
+    ap.add_argument("--pseudo-frac", type=float, default=0.2,
+                    help="share of AT court documents written RIS-pseudonymised")
     ap.add_argument("--rare", action=argparse.BooleanOptionalAction, default=None,
                     help="v4 briefs: rare-label entities, oversampled types, degree chains, case hard cases "
                          "(default: on for waves from v4)")
@@ -323,7 +325,7 @@ def main(argv=None):
     out.parent.mkdir(parents=True, exist_ok=True)
     with out.open("w", encoding="utf-8") as fh:
         for i, (jur, lang, doc_type) in enumerate(plan):
-            b = brief(gaz, rng, jur, lang, doc_type, i + 1, args.wave, rare)
+            b = brief(gaz, rng, jur, lang, doc_type, i + 1, args.wave, rare, args.pseudo_frac)
             b["batch"] = f"{args.wave}_b{i // args.per_batch:03d}"
             fh.write(json.dumps(b, ensure_ascii=False) + "\n")
     print(f"{len(plan)} briefs in {-(-len(plan) // args.per_batch)} batches -> {out}")
