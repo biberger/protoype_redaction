@@ -419,7 +419,9 @@ def classify_placeholder(before, after, surface, prev=None):
         return "address"
     if _PRE["location"].search(before) and not re.search(r"\b(?:Beschwerde|Revision|Antrag)\s(?:von)\s*$", before):
         return "location"
-    if re.match(r"^,?\s(?:Rechtsanw(?:alt|ältin)|Verteidiger(?:in)?)\b", after) or re.search(
+    if re.search(r"\bgegen\s$", before):  # an attorney as party (Disziplinarsache gegen …) is a person
+        pass
+    elif re.match(r"^,?\s(?:Rechtsanw(?:alt|ältin)|Verteidiger(?:in)?)\b", after) or re.search(
             r"(?:Rechtsanw(?:alt|ältin)|Verteidiger(?:in|s)?)\s$", before):
         return "lawyer"
     if _PRE["person"].search(before) or (bare and re.match(r"^,?\s(?:StA\.|geb\.|geboren)", after)):
@@ -530,7 +532,7 @@ def _candidates(text, app):
 def fill_placeholders(text, gaz, rng, app=None):
     """Replace placeholders; return (new_text, [(label, start, end, surface)], n_unknown)."""
     filler = Filler(gaz, rng, app)
-    out, spans, pos, cur, prev, unknown = [], [], 0, 0, None, 0
+    out, spans, pos, cur, prev, unknown, merged = [], [], 0, 0, None, 0, False
     for s, e, kind in _candidates(text, app):
         if s < pos:  # swallowed by the previous span's extension (legal form, year)
             continue
@@ -580,7 +582,7 @@ def fill_placeholders(text, gaz, rng, app=None):
         # BVwG writes "XXXX , geb." with a space before punctuation
         nxt = e + 1 if re.match(r" [,;.:)]", text[e:e + 2]) and "XXXX" in surface else e
         if label == "address" and prev and prev[0] == "address" and gap == ", " and _BARE.match(surface) \
-                and spans and spans[-1][0] == "address" and ", " in spans[-1][3]:
+                and spans and spans[-1][0] == "address" and ", " in spans[-1][3] and not merged:
             # "***, ***": street, then postcode and town of one address; keep one span
             plab, ps, pe, pval = spans.pop()
             street, town = pval.split(", ", 1)
@@ -589,8 +591,9 @@ def fill_placeholders(text, gaz, rng, app=None):
             out.append(", " + town)
             cur += 2 + len(town)
             spans.append((plab, ps, cur, f"{street}, {town}"))
-            pos, prev = nxt, (label, e)
+            pos, prev, merged = nxt, (label, e), True  # a third "***" is a new address, not a third part
             continue
+        merged = False
         out.append(text[pos:s])
         cur += s - pos
         spans.append((label, cur, cur + len(val), val))
@@ -795,6 +798,10 @@ def main(argv=None):
                     continue
                 text = markup_to_text(path.read_text(encoding="utf-8", errors="replace"))
                 text, spans = annotate(text, ref, gaz, rng)
+                drift = [sp for sp in spans if text[sp[1]:sp[2]] != sp[3]]
+                if drift:  # a rule bug; skip the decision rather than train on shifted spans
+                    print(f"{ref['id']}: {len(drift)} spans do not match the text, skipped")
+                    continue
                 for rec in to_records(text, spans, ref, max_chunks=args.max_chunks or None):
                     fh.write(json.dumps(rec, ensure_ascii=False) + "\n")
                     n_recs += 1

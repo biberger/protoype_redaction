@@ -413,3 +413,12 @@ def test_build_balance_caps_and_copies():
     assert per[("ler", None)] == 20
     assert per[("ris", "BVwG")] == 80 and per[("ris", "OGH")] == 60
     assert all(int(r["id"].split("#")[1]) < 10 for r in out if r["source"] == "ris")
+
+
+def test_ris_placeholder_lists_keep_offsets():
+    # Kärnten: every party and address is "xxx"; a third bare placeholder must not be merged into an address
+    out, spans = _ris_annotate("Beschwerde von 1.) xxx, 2.) xxx, 3.) xxx und xxx, alle vertreten durch xxx Rechtsanwälte "
+                               "OG, xxx, eingebracht. In der Disziplinarsache gegen xxx, Rechtsanwalt in xxx, wird "
+                               "wohnhaft in xxx, xxx, xxx entschieden.", "Lvwg")
+    assert "xxx" not in out
+    assert not [t for lab, t in spans if lab == "lawyer"]  # the accused attorney is a party
