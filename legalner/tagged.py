@@ -227,6 +227,10 @@ DATELINE = re.compile(r"(?m)^([A-ZÄÖÜ][\wäöüßéèô.\-]+(?:\s(?:an\sder|a
                       r"\s[A-ZÄÖÜ][\wäöüß.\-]+)?),\s(?:am\s|den\s|le\s|im\s)?(?:\d{1,2}\.?\s?(?:\d{1,2}\.|[A-Za-zäéû]+)|\[\[date)")
 
 
+CONTACT = re.compile(r"(?i)(?:\b(?:tel|tél|telefon|téléphone|phone|fax|mobil|mobile|handy|portable)\b\.?:?\s*"
+                     r"(?:\(\w+\)\s*)?)((?:\+|00)?\d[\d /().\-]{6,}\d)|([\w.+\-]+@[\w\-]+(?:\.[\w\-]+)+)")
+
+
 def _caps_passage(text, m, n):
     """True if the match is written in ALL CAPS or all lower case, as in a letterhead or a quoted e-mail."""
     word = m.group()
@@ -260,6 +264,11 @@ def lint(text, spans, fname):
             if not any(covered[m.start():m.end()]) and not UNIT_BEFORE.search(text, 0, m.start()):
                 line = text.count("\n", 0, m.start()) + 1
                 warnings.append(f"{fname}:{line}: untagged occurrence of {n!r}")
+    for m in CONTACT.finditer(text):
+        g = 1 if m.group(1) else 2
+        if not any(covered[m.start(g):m.end(g)]):
+            line = text.count("\n", 0, m.start()) + 1
+            warnings.append(f"{fname}:{line}: untagged {'phone number' if g == 1 else 'e-mail'} {m.group(g)!r}")
     for m in DATELINE.finditer(text):
         if not any(covered[m.start(1):m.end(1)]) and not re.search(r"(?:ung|gericht|amt|stelle|ware|Datum|Ort)$",
                                                                        m.group(1)):

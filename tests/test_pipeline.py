@@ -451,3 +451,14 @@ def test_build_mix_shares():
     out = mix(recs, random.Random(0), {"ler": .4, "synthetic": .3, "ris": .15, "replay": .15})
     per = collections.Counter("synthetic" if r["source"].startswith("synthetic") else r["source"] for r in out)
     assert per == {"ler": 160, "synthetic": 120, "ris": 60, "replay": 60}
+
+
+def test_lint_flags_untagged_contacts_caps_and_datelines(tmp_path):
+    _, warnings = parse_file(write_doc(tmp_path, "[[organization|Huber Bau GmbH]]\nTel. +43 664 123 4567, office@huber.at\n"
+                                                 "HUBER BAU GMBH\nKoblenz, [[date|14.03.2026]]\n"
+                                                 "> hallo, die huber bau gmbh zahlt."), "synthetic")
+    text = "\n".join(warnings)
+    for needle in ("phone number '+43 664 123 4567'", "e-mail 'office@huber.at'", "'Huber Bau GmbH'",
+                   "dateline 'Koblenz'"):
+        assert needle in text, needle
+    assert sum("Huber Bau GmbH" in w for w in warnings) == 2  # the ALL-CAPS line and the lower-case chat line
