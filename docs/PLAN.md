@@ -91,7 +91,7 @@ inside a span; that's accepted noise.
 | Synthetic v2 (`data/synthetic/raw_v2`) | done, 72 docs, audited | de / AT, DE, CH; fr / FR, CH, BE, LU | full canonical schema | ours |
 | Synthetic v3 (`data/synthetic/raw_v3`) | done, 1,000 docs, audited | de / AT, DE, CH, LI; fr / FR, CH, BE, LU | full canonical schema | ours |
 | LER `elenanereiss/german-ler` | converted | de / DE federal courts | 19 classes → canonical | CC-BY-4.0 |
-| RIS OGD API (`data.bka.gv.at/ris/api/v2.6`) | fetcher written, content host blocked (parallel session) | de / AT | pseudonymised placeholders mark PII | open government data |
+| RIS OGD API (`data.bka.gv.at/ris/api/v2.6`) | done, 440 decisions (OGH/OLG/LG, VwGH, VfGH, BVwG, LVwG, 2022+) → 6,105 chunks in `data/canonical/ris.jsonl` (`legalner/sources/ris.py`, index in `data/ris/index.jsonl`) | de / AT | placeholders filled from gazetteers + rules: person, judge, lawyer, address, date, case_number, court (audit: `docs/audits/ris_rules.md`, ≈2–8 % misses per label) | open government data |
 | EUR-Lex / CELLAR | planned, for unlabelled legal text and teacher pseudo-labels | de, fr / EU | — | reuse permitted with attribution |
 | MAPA `joelniklaus/mapa` | converted, evaluation only (12 docs per language) | de, fr + 19 more / EU | PERSON/ADDRESS/DATE/ORG/AMOUNT, fine sub-tags | CC-BY-4.0 |
 | GLiNER v1 replay (`urchade/pile-mistral-v0.1`, `urchade/synthetic-pii-ner-mistral-v1`; **not** Pile-NER) | converted (`sources/replay.py`) | en + de/fr/it/es | open label set | Apache-2.0 |
@@ -159,7 +159,7 @@ confirm on first use, since the agent proxy logs every refused host.
 |---|---|
 | Hugging Face models and datasets | `huggingface.co`, `*.hf.co` (covers `us.aws.cdn.hf.co`, `cas-bridge.xethub.hf.co`, `cdn-lfs-us-1.hf.co`), `cdn-lfs.huggingface.co`, `datasets-server.huggingface.co` |
 | PyTorch CPU wheels (small install for CPU smoke tests) | `download.pytorch.org` |
-| RIS (Austrian law and case law) | `data.bka.gv.at` (OGD API), `www.ris.bka.gv.at` (document HTML/XML), `rismcp.mburgler.com` (the RIS MCP plugin, refused in this session) |
+| RIS (Austrian law and case law) | `data.bka.gv.at` (OGD API), `ogd.ris.bka.gv.at` (document HTML/XML, the URLs the API returns), `rismcp.mburgler.com` (the RIS MCP plugin) |
 | EUR-Lex / EU publications | `eur-lex.europa.eu`, `publications.europa.eu` (CELLAR, SPARQL), `data.europa.eu` |
 | Wikidata (names, courts, authorities) | `query.wikidata.org`, `www.wikidata.org` |
 | Addresses | `data.bev.gv.at` (AT, verify), `data.geo.admin.ch` (CH), `adresse.data.gouv.fr` and `files.data.gouv.fr` (FR), `download.geofabrik.de` (OSM, DE) |
@@ -178,9 +178,17 @@ Done on branch `ccr-45f5c65f-g4rgnu` (continues `ccr-40b02117-uffvk3`):
    Role labels must be queried in a separate pass at inference (flat decoding resolves overlaps across labels).
 4. **Baselines** (`docs/baselines.md`): F1 0.53 (gliner2.5-multi-v1) / 0.54 (PII model); PII character
    recall 0.81 / 0.93.
-5. **RIS fetcher** (`legalner/sources/ris.py`): search API works; content host `ogd.ris.bka.gv.at` was blocked
-   by the proxy. Placeholder filling and rule labels were tested on a fixture only. Handed to a parallel session
-   (prompt in the conversation): real-data run, rule audit, coverage decision.
+5. **RIS**: `search`/`fetch`/`convert` run on 440 live decisions (raw HTML cached in the
+   gitignored `data/ris/raw`). Text extraction drops metadata blocks and the screen-reader duplicate of every
+   paragraph. Each court pseudonymises its own way (Justiz `A*`/`* K*`/`*`, BVwG `XXXX`, LVwG `***`/`xxx`/`AA`/
+   `Adresse 1`, VwGH initials `des M K in W`, VwG Wien `A. B.`/`...`); placeholders are classified from context and
+   filled per document. The rules were checked on 30 decisions; real fixtures for Justiz, BVwG and VwGH are in `tests/`.
+   Placeholders no rule can classify (5.4 % of chunks) set `meta.uncovered`, and `build.query_labels` then drops
+   the PII labels for that chunk. Audit on 24 decisions (`docs/audits/ris_rules.md`): misses before the last fixes were
+   person 4.8 %, address 8.3 %, date 2.1 %, case_number 6.9 %, court 4.8 %. Coverage unchanged. `convert` keeps 40 chunks
+   per decision because BVwG country reports would otherwise dominate. `python -m legalner.build data/canonical/ris.jsonl`
+   validates under `TrainingDataset.validate()` (4,983/723/399). Open: LVwG letter-coded towns and VwG Wien `C.-platz`
+   cut address spans; fetch more LVwG/LG.
 6. **Replay** (`sources/replay.py`: pile-mistral + synthetic-pii, open labels with sampled negatives) and
    **MAPA** (`sources/mapa.py`, de/fr, eval only; organization scored against organization ∪ court).
 7. **Gazetteers** (`legalner/gazetteers.py`, `data/gazetteers/*.tsv`): WGND 2.0 first names (27 countries),
@@ -198,14 +206,19 @@ Done on branch `ccr-45f5c65f-g4rgnu` (continues `ccr-40b02117-uffvk3`):
 Next, in order:
 1. Human review of the gold set; settle the convention questions in `GENERATION.md` (officials/clerks/agents,
    post-nominal degrees, abbreviations in parentheses, date ranges).
-2. Merge the RIS session's branch; add RIS (pseudonymised placeholders filled) to the build; RIS paragraphs
-   for the gold set.
+2. RIS: add `data/canonical/ris.jsonl` to the main build; select RIS paragraphs for the gold set
+   (`goldset select data/canonical/ris.jsonl`); fix the open address-span gaps (LVwG Tirol, VwG Wien) and the
+   VwGH `Mag. [B]` style; fetch more LVwG/LG decisions.
 3. Synthetic v4 plan oversampling rare labels (street, id_document_number, license_plate, phone, email) and
    fixing LU/BE social security numbers (v3 LU/BE docs carry French NIR format).
 4. First GPU run: `legalner.build data/canonical/{synthetic,synthetic_v1,synthetic_v3,replay}.jsonl
    data/canonical/ler/*.jsonl data/canonical/mapa/*.jsonl data/canonical/gold_at.jsonl --exclude-docs
    data/gold/at/doc_ids.txt -o data/build/v1`, then `legalner.train` (bf16) and `legalner.evaluate` on the
    gold set, synthetic test, LER test and MAPA against the baselines.
+   Without capping, LER is 85% of training (53k of 63k records in the merged build); cap it with
+   `--max-per-source` (or upsample synthetic/RIS via `--copies`) to reach the planned mix
+   (LER ≈ 40%, synthetic ≈ 30%, RIS ≈ 15%, replay ≈ 15%). `data/canonical/ris.jsonl` must be regenerated with
+   `python -m legalner.sources.ris fetch/convert data/ris/index.jsonl` on a machine that can reach `ogd.ris.bka.gv.at`.
 
 ## Open questions
 

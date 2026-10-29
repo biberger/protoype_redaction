@@ -1,4 +1,5 @@
 import random
+import re
 
 import pytest
 
@@ -211,3 +212,69 @@ def test_goldset_tagged_roundtrip(tmp_path):
     assert tagged == "Der [[court|OGH]] durch [[judge|Dr. Anna Taufner]] gegen [[person|Max Gruber]] am [[date|1.2.2024]]."
     recs2, _ = parse_file(write_doc(tmp_path, tagged), "synthetic")
     assert sorted(map(str, recs2[0]["spans"])) == sorted(map(str, recs[0]["spans"]))
+
+
+def _ris_real(name, ref):
+    import pathlib
+    from legalner.sources import ris
+    text = ris.markup_to_text((pathlib.Path(__file__).parent / "fixtures" / name).read_text(encoding="utf-8"))
+    out, spans = ris.annotate(text, ref, _FakeGaz(), random.Random(0))
+    assert all(out[s:e] == t for _, s, e, t in spans)
+    return text, out, spans, {(lab, t) for lab, s, e, t in spans}
+
+
+def test_ris_real_justiz():
+    """OGH 1 Nc 32/22d: "mj A*", "geboren am * 2012", a bare "*" address, an attorney with initials."""
+    text, out, spans, got = _ris_real("ris_ogh_nc.html", {"app": "Justiz", "case_numbers": ["1Nc32/22d"]})
+    # metadata blocks, screen-reader duplicates and the ECLI footer are dropped
+    assert not text.startswith("Gericht") and "Paragraph 31" not in text and "ECLI" not in text
+    assert text.count("Nach § 31 Abs 1 JN") == 1
+    for expected in [("judge", "Dr. Musger"), ("judge", "Mag. Wurzer"), ("judge", "Dr. Parzmayr"),
+                     ("person", "Kovačević"), ("date", f"{out.split('geboren am ')[1].split(',')[0]}"),
+                     ("address", "Lederergasse 7/3, 4020 Linz"), ("lawyer", "Dr. Sabine C. M. Deutsch"),
+                     ("court", "Oberste Gerichtshof")]:
+        assert expected in got, expected
+    assert re.search(r"geboren am \d{1,2}\. \w+ 2012", out)  # day and month filled, year kept
+    assert "*" not in out
+
+
+def test_ris_real_bvwg():
+    """BVwG: every redaction is "XXXX"; judge surnames in capitals; non-attorney representative."""
+    _, out, spans, got = _ris_real("ris_bvwg.html", {"app": "Bvwg", "case_numbers": ["I423 2201661-2"]})
+    for expected in [("judge", "Mag. Daniela GREML"), ("person", "Elif Brandstätter"),
+                     ("person", "MMag. Claudia NEURURER"), ("address", "Mariannengasse 11, 1090 Wien"),
+                     ("case_number", "I423 2201665-2/10E"), ("court", "Bundesverwaltungsgericht")]:
+        assert expected in got, expected
+    assert ("lawyer", "MMag. Claudia NEURURER") not in got  # a legal adviser, not an attorney
+    assert ("unknown", "Kovačević") in got  # "geb. ... (auch XXXX)": an alias, left unclassified
+    assert "XXXX" not in out and " ," not in out
+    from legalner.sources import ris
+    recs = ris.to_records(out, spans, {"id": "BVWGT_TEST", "app": "Bvwg"})
+    flagged = [r for r in recs if "uncovered" in r["meta"]]
+    assert flagged and all("person" in r["meta"]["uncovered"] for r in flagged)
+    assert all(s["label"] != "unknown" for r in recs for s in r["spans"])
+
+
+def test_ris_real_vwgh():
+    """VwGH: parties as initials ("des B A"), Schriftführer, attorney address in clear."""
+    _, out, spans, got = _ris_real("ris_vwgh.html", {"app": "Vwgh", "case_numbers": ["Ra 2023/19/0258"]})
+    for expected in [("judge", "Dr. Pfiel"), ("judge", "Dr. Funk-Leisch"), ("judge", "Dr. Eisner"),
+                     ("person", "Mag. Salama"), ("person", "Elif Brandstätter"), ("lawyer", "Mag. Christian Bammer"),
+                     ("case_number", "W 104 2265941-1/7E"), ("date", "28. Juni 2023")]:
+        assert expected in got, expected
+    assert ("judge", "Mag. Salama") not in got
+    assert "des B A," not in out
+
+
+def test_query_labels_respects_uncovered():
+    rec = {"source": "ris", "spans": [], "meta": {"uncovered": ["person", "judge", "address"]}}
+    labels = query_labels(rec)
+    assert "person" not in labels and "address" not in labels and "court" in labels
+
+
+def test_ris_placeholder_overlap_and_land_register():
+    from legalner.sources import ris
+    text = "der Liegenschaft EZ * KG *, und EZ * KG*, sowie der B* KG*, wegen"
+    out, spans, _ = ris.fill_placeholders(text, _FakeGaz(), random.Random(0), "Justiz")
+    assert all(out[s:e] == t for _, s, e, t in spans)
+    assert [lab for lab, *_ in spans][:4] == ["land_register_id"] * 4
