@@ -29,7 +29,7 @@ Erwägungen
 
 3. Die Bewilligung ist im Lichte von [[legal_norm|Art. 8 EMRK]] verhältnismässig. Ein Widerrufsgrund nach [[legal_norm|Art. 62 AIG]] liegt nicht vor.
 
-4. Die Gebühr bemisst sich nach dem kantonalen Recht. Die Angaben der Adressatin wurden mit den Registereinträgen der Einwohnerkontrolle abgeglichen; die Wohnsitzangaben stimmen überein. Die Erteilung erfolgt unter dem Vorbehalt, dass die Ehegemeinschaft weiterhin besteht und der Wohnsitz im Kanton Bern beibehalten wird. Eine Mitteilung an das [[organization|Staatssekretariat für Migration]] ist nicht erforderlich.
+4. Die Gebühr bemisst sich nach dem kantonalen Recht. Die Angaben der Adressatin wurden mit den Registereinträgen der Einwohnerkontrolle abgeglichen; die Wohnsitzangaben stimmen überein. Die Erteilung erfolgt unter dem Vorbehalt, dass die Ehegemeinschaft weiterhin besteht und der Wohnsitz im Kanton [[location|Bern]] beibehalten wird. Eine Mitteilung an das [[organization|Staatssekretariat für Migration]] ist nicht erforderlich.
 
 Dispositiv
 

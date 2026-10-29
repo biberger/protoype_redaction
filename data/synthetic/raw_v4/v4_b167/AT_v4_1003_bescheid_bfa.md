@@ -50,7 +50,7 @@ Der Dolmetscher hatte bei der Einvernahme keine Einwände gegen die Übersetzung
 
 III. Beweiswürdigung
 
-Die Feststellungen gründen sich auf den Akt, die Niederschrift vom [[date|21. Juli 2026]] und die vorgelegten Urkunden. Die Angaben des Antragstellers zur Dauer der Lebensgemeinschaft sind nicht widerspruchsfrei: Er gab bei der Einvernahme an, seit dem Jahr 2023 mit Frau [[person|Antoni]] zusammenzuleben, während das Schreiben vom [[date|8. Juli 2026]] einen Beginn im Jahr 2025 nennt. Diese Abweichung wurde in der Gesamtwürdigung berücksichtigt, ist aber für das Ergebnis nicht entscheidend.
+Die Feststellungen gründen sich auf den Akt, die Niederschrift vom [[date|21. Juli 2026]] und die vorgelegten Urkunden. Die Angaben des Antragstellers zur Dauer der Lebensgemeinschaft sind nicht widerspruchsfrei: Er gab bei der Einvernahme an, seit dem Jahr 2023 mit Frau [[person|Antoni]] zusammenzuleben, während das Schreiben vom [[date|8. Juli 2026]] einen Beginn im Jahr 2025 nennt. Diese Abweichung wurde in der Gesamtwürdigung berücksichtigt, ist aber für das Ergebnis nicht entscheidend. Die Glaubwürdigkeit des Dolmetschers, der seit mehr als zehn Jahren gerichtlich beeidet ist, wird nicht in Zweifel gezogen. Die Abwägung wurde sorgfältig vorgenommen und ist nachvollziehbar begründet.
 
 IV. Rechtliche Beurteilung
 
