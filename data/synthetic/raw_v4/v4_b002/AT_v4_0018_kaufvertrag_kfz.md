@@ -34,7 +34,7 @@ IV. Vertragsgegenstand
 
 V. Fahrzeugdaten und Übergabe
 
-Das Fahrzeug weist laut Servicebuch Inspektionen bei 65.000 km, 98.000 km und 118.000 km auf. Die letzte Inspektion erfolgte am [[date|22. Jänner 2026]] in einer Werkstätte in Liezen. Ein Zahnriemenwechsel ist laut Servicebuch bei 150.000 km fällig. Die Profiltiefe beträgt vorne 4 mm, hinten 3 mm.
+Das Fahrzeug weist laut Servicebuch Inspektionen bei 65.000 km, 98.000 km und 118.000 km auf. Die letzte Inspektion erfolgte am [[date|22. Jänner 2026]] in einer Werkstätte in [[location|Liezen]]. Ein Zahnriemenwechsel ist laut Servicebuch bei 150.000 km fällig. Die Profiltiefe beträgt vorne 4 mm, hinten 3 mm.
 
 Ein Pfandrecht oder eine Finanzierung besteht nach Auskunft des Zulassungsregisters nicht. Die Abfrage vom [[date|4. März 2026]] wurde dem Vertrag beigelegt.
 

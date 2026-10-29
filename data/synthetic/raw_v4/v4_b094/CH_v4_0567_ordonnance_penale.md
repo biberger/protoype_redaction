@@ -16,7 +16,7 @@ ORDONNANCE PÉNALE
 
 ([[legal_norm|art. 352 ss CPP]])
 
-Le [[organization|Ministère public de la République et canton de Genève]], vu le rapport de police du [[date|19 février 2026]] et les pièces du dossier, rend l'ordonnance pénale suivante à l'encontre de [[person|Gabriél Hegar]], né en 1989, de nationalité suisse, chauffeur de la société [[organization|Ramsauer SA]], [[company_register_number|CHE-755.959.097]], domicilié à Berne, assuré sous le numéro AVS [[social_security_number|756.0890.3790.80]].
+Le [[organization|Ministère public de la République et canton de Genève]], vu le rapport de police du [[date|19 février 2026]] et les pièces du dossier, rend l'ordonnance pénale suivante à l'encontre de [[person|Gabriél Hegar]], né en 1989, de nationalité suisse, chauffeur de la société [[organization|Ramsauer SA]], [[company_register_number|CHE-755.959.097]], domicilié à [[location|Berne]], assuré sous le numéro AVS [[social_security_number|756.0890.3790.80]].
 
 FAITS
 

@@ -33,7 +33,7 @@ Die Dienstgeberin hat per E-Mail bestätigt, dass die Zusage in dieser Form aufr
 
 „hallo aleit, die zusage von [[organization|kratzer & langthaler gmbh]] liegt jetzt vor, [[person|claudia]] hat sie unterschrieben. bitte schick den ausweis noch an die buchhaltung der [[organization|rónaszéki & thöni e.u.]], sonst geht die lohnverrechnung nicht los. lg [[person|claudia]]“ (Beilage ./5)
 
-Die Antragstellerin lebt allein in einer Mietwohnung in Anthering, die aus zwei Zimmern, Küche und Bad besteht. Der unbefristete Mietvertrag wurde am [[date|01.03.2024]] abgeschlossen; die monatliche Miete beträgt EUR 890,– inklusive Betriebskosten. Die Wohnung entspricht den Anforderungen an eine ortsübliche Unterkunft, wie das Protokoll der Wohnungsbesichtigung vom [[date|25.09.2026]] belegt.
+Die Antragstellerin lebt allein in einer Mietwohnung in [[location|Anthering]], die aus zwei Zimmern, Küche und Bad besteht. Der unbefristete Mietvertrag wurde am [[date|01.03.2024]] abgeschlossen; die monatliche Miete beträgt EUR 890,– inklusive Betriebskosten. Die Wohnung entspricht den Anforderungen an eine ortsübliche Unterkunft, wie das Protokoll der Wohnungsbesichtigung vom [[date|25.09.2026]] belegt.
 
 Die Antragstellerin hat am [[date|27.08.2026]] die Prüfung über Deutschkenntnisse auf dem Niveau A2 bestanden. Das Zeugnis liegt als Beilage ./7 bei. Der Nachweis nach [[legal_norm|§ 9 Abs 1 Z 2 NAG]] ist damit erbracht.
 

@@ -468,3 +468,10 @@ def test_lint_flags_town_of_tagged_address(tmp_path):
     _, warnings = parse_file(write_doc(tmp_path, "wohnhaft in [[address|Hauptstraße 4, 7572 Deutsch Kaltenbrunn]]. "
                                                  "Die Wohnung in Deutsch Kaltenbrunn ist gemietet."), "synthetic")
     assert any("'Deutsch Kaltenbrunn'" in w for w in warnings)
+
+
+def test_lint_flags_untagged_known_town(tmp_path):
+    _, warnings = parse_file(write_doc(tmp_path, "[[person|Eva Moser]], Steuerberaterin in Mannheim, sagte bei Regen aus."),
+                             "synthetic")
+    assert any("untagged place 'Mannheim'" in w for w in warnings)
+    assert not any("Regen" in w for w in warnings)

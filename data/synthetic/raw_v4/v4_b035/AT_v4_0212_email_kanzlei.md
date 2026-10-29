@@ -14,7 +14,7 @@ Sehr geehrte Damen und Herren,
 zu dem Verkehrsunfall vom [[date|9. April 2026]] darf ich Ihnen den bisherigen Stand übermitteln. Nach dem vorläufigen Unfallbericht waren folgende Personen beteiligt:
 
 1. [[person|Kalle Lehr]], wohnhaft in [[address|Wolfauerstraße 2, 4942 Wippenham]], Lenker des Fahrzeugs in Fahrtrichtung Norden,
-2. [[person|Tillmann Reininghaus]], Halter des PKW mit dem Kennzeichen [[license_plate|NK-70 X]], zugelassen in Neunkirchen,
+2. [[person|Tillmann Reininghaus]], Halter des PKW mit dem Kennzeichen [[license_plate|NK-70 X]], zugelassen in [[location|Neunkirchen]],
 3. [[person|Miray Salim]], wohnhaft in [[address|Afritschweg 7/9, 8605 Parschlug]],
 4. [[person|DI Hasini Stähelin]], Beifahrerin im Fahrzeug von Frau [[person|Salim]],
 5. [[person|Barbi Krainer]], wohnhaft in [[address|Fischottersteig 8, 8570 Voitsberg]].

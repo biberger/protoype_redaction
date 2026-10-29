@@ -23,7 +23,7 @@ I. Zum Sachverhalt
 
 2. Die Lieferung wurde mit dem Lkw mit dem Kennzeichen [[license_plate|G-10629X]] durchgeführt. Der Fahrer [[person|Axel Bernier]] war auf der Strecke für die Ladung verantwortlich; sein Führerschein wurde bei der Abholung kopiert, die Nummer lautet [[id_document_number|67661792]]. Herr [[person|Bernier]] hat am Liefertag um 14:10 Uhr das Lieferprotokoll unterzeichnet, in dem nur siebzehn von zwanzig Paketen quittiert sind.
 
-3. Die drei fehlenden Pakete hat die Verladung in Raning nicht verlassen. Der Verladeleiter [[person|Sabin Pieler]] (SV-Nr. [[social_security_number|4799 020800]]) hat dies im Lagerbuch festgehalten; das Buch liegt dem Gericht als Beilage ./B vor.
+3. Die drei fehlenden Pakete hat die Verladung in [[location|Raning]] nicht verlassen. Der Verladeleiter [[person|Sabin Pieler]] (SV-Nr. [[social_security_number|4799 020800]]) hat dies im Lagerbuch festgehalten; das Buch liegt dem Gericht als Beilage ./B vor.
 
 4. Das Lagerbuch wurde von [[person|Anton Lőrinczi]] geführt, der an diesem Tag Dienst im Lager hatte. Er bestätigt, dass die Pakete nicht geladen wurden, weil der Kläger eine Änderung der Bestellung telefonisch angekündigt hatte.
 

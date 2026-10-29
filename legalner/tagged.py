@@ -231,6 +231,30 @@ CONTACT = re.compile(r"(?i)(?:\b(?:tel|tél|telefon|téléphone|phone|fax|mobil|
                      r"(?:\(\w+\)\s*)?)((?:\+|00)?\d[\d /().\-]{6,}\d)|([\w.+\-]+@[\w\-]+(?:\.[\w\-]+)+)")
 
 
+_FR_TOWNS = ("Paris", "Lyon", "Marseille", "Toulouse", "Nice", "Nantes", "Strasbourg", "Montpellier", "Bordeaux",
+             "Lille", "Rennes", "Reims", "Le Havre", "Grenoble", "Dijon", "Angers", "Nîmes", "Alès", "Metz", "Tours",
+             "Rouen", "Caen", "Brest", "Limoges", "Amiens", "Perpignan", "Besançon", "Orléans", "Mulhouse", "Avignon",
+             "Bruxelles", "Liège", "Namur", "Charleroi", "Mons", "Luxembourg", "Esch-sur-Alzette", "Genève", "Lausanne",
+             "Neuchâtel", "Fribourg", "Sion")
+
+
+def _known_towns():
+    """Municipality names (AT/DE/CH gazetteer, ≥ 5 letters) and larger French-speaking towns."""
+    path = pathlib.Path(__file__).resolve().parent.parent / "data" / "gazetteers" / "municipalities.tsv"
+    names = set(_FR_TOWNS)
+    if path.exists():
+        for line in path.read_text(encoding="utf-8").splitlines()[1:]:
+            name = line.split("\t")[1]
+            if len(name) >= 5 and name[0].isupper():
+                names.add(name)
+    return names
+
+
+KNOWN_TOWNS = _known_towns()
+TOWN_WORDS = {"Regen", "Weil", "Wesen", "Ende", "Laufen", "Ruhe", "Linden", "Kosten", "Zeitz", "Hausen"}  # also words
+TOWN_AFTER = re.compile(r"(?<![\w\[|])(?:in|nach|aus|bei|à|de|d['’])\s?([A-ZÄÖÜÉÈ][\w\-ÄÖÜäöüéèêâîôûç]+(?:[\s\-](?:an|am|im|bei|ob|sur|en|le|la)[\s\-][A-ZÄÖÜ]?[\w\-äöüéè]+)?)")
+
+
 def _caps_passage(text, m, n):
     """True if the match is written in ALL CAPS or all lower case, as in a letterhead or a quoted e-mail."""
     word = m.group()
@@ -275,6 +299,14 @@ def lint(text, spans, fname):
         if not any(covered[m.start(g):m.end(g)]):
             line = text.count("\n", 0, m.start()) + 1
             warnings.append(f"{fname}:{line}: untagged {'phone number' if g == 1 else 'e-mail'} {m.group(g)!r}")
+    for m in TOWN_AFTER.finditer(text):
+        name = m.group(1)
+        while name not in KNOWN_TOWNS and " " in name:
+            name = name.rsplit(" ", 1)[0]
+        s = m.start(1)
+        if name in KNOWN_TOWNS and name not in TOWN_WORDS and not any(covered[s:s + len(name)]):
+            line = text.count("\n", 0, s) + 1
+            warnings.append(f"{fname}:{line}: untagged place {name!r}")
     for m in DATELINE.finditer(text):
         if not any(covered[m.start(1):m.end(1)]) and not re.search(r"(?:ung|gericht|amt|stelle|ware|Datum|Ort)$",
                                                                        m.group(1)):

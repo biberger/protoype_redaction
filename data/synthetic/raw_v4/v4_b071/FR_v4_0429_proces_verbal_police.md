@@ -10,7 +10,7 @@ Brigade de répression du banditisme
 
 PROCÈS-VERBAL D'AUDITION
 
-L'an deux mille vingt-six, le [[date|4 avril 2026]], à 9 heures 15, Nous, [[person|Gaspard Mérigot]], brigadier de police, officier de police judiciaire, avons procédé à l'audition de [[person|Jérémie Vignes]], né le [[date|17 juin 1994]] à Alès, domicilié [[address|18 rue Jean-Reboul, 30000 Nîmes]], lequel a été informé de la nature et de la date des faits qui lui sont reprochés.
+L'an deux mille vingt-six, le [[date|4 avril 2026]], à 9 heures 15, Nous, [[person|Gaspard Mérigot]], brigadier de police, officier de police judiciaire, avons procédé à l'audition de [[person|Jérémie Vignes]], né le [[date|17 juin 1994]] à [[location|Alès]], domicilié [[address|18 rue Jean-Reboul, 30000 Nîmes]], lequel a été informé de la nature et de la date des faits qui lui sont reprochés.
 
 Le mis en cause déclare être employé comme chauffeur-livreur depuis le mois de janvier 2025. Il indique que le véhicule immatriculé [[license_plate|DF-739-ED]] lui a été confié par son employeur, la société [[organization|Charron SARL]], [[company_register_number|SIREN 254 745 318]], [[company_register_number|SIRET 254 745 318 01221]], TVA [[tax_id|FR29254745318]], RCS [[location|Rennes]], dont le siège est situé à [[location|Rennes]], et qui exploite un entrepôt [[address|41 rue des Charpentiers-Blancs, 76600 Le Havre]].
 

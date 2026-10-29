@@ -25,7 +25,7 @@ Die Angeklagte hat die Kosten des Strafverfahrens zu tragen. Ein Privatbeteiligt
 
 Entscheidungsgründe
 
-Die Angeklagte war seit dem Jahr 2021 als Buchhalterin bei der [[organization|Ehlers GmbH]], [[company_register_number|FN 482392a]], UID [[tax_id|ATU93001091]], beschäftigt. Im Frühjahr 2025 wollte sie einen Pkw Skoda Octavia Combi mit dem Kennzeichen [[license_plate|GD-9727 DG]] erwerben. Der Pkw war auf die [[organization|Kolb Autohaus GmbH]] mit Sitz in Gmünd zugelassen, die ihn über einen Finanzierungsvertrag verkaufen sollte. Die Übergabe des Pkw erfolgte am [[date|14. Oktober 2025]] in einer Garage in der [[street|Neue-Welt-Gasse]] in [[location|Feldkirch]].
+Die Angeklagte war seit dem Jahr 2021 als Buchhalterin bei der [[organization|Ehlers GmbH]], [[company_register_number|FN 482392a]], UID [[tax_id|ATU93001091]], beschäftigt. Im Frühjahr 2025 wollte sie einen Pkw Skoda Octavia Combi mit dem Kennzeichen [[license_plate|GD-9727 DG]] erwerben. Der Pkw war auf die [[organization|Kolb Autohaus GmbH]] mit Sitz in [[location|Gmünd]] zugelassen, die ihn über einen Finanzierungsvertrag verkaufen sollte. Die Übergabe des Pkw erfolgte am [[date|14. Oktober 2025]] in einer Garage in der [[street|Neue-Welt-Gasse]] in [[location|Feldkirch]].
 
 Die Angeklagte legte der Verkäuferin Gehaltsnachweise vor, die sie selbst am Computer erstellt hatte. Die Gehaltsnachweise wiesen ein monatliches Nettoeinkommen aus, das ihren tatsächlichen Bezügen nicht entsprach. Ein Teil der Dokumente trug den Namen des Geschäftsführers der [[organization|Rahimić Möbel AG]], den die Angeklagte nie um eine Unterschrift gebeten hatte.
 

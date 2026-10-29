@@ -21,7 +21,7 @@ Entscheidungsgründe:
 
 Sachverhalt
 
-Die Erblasserin [[person|Gerlinde Mohr]] war seit dem [[date|1. Oktober 2020]] in der vollstationären Pflege der beklagten Partei in Feldkirchen untergebracht. Sie litt an einer fortgeschrittenen Demenz und einer Hüftgelenksarthrose. Ihr Sohn, der Kläger, ist ihr Erbe nach dem Testament vom [[date|3. Mai 2019]]. Zum Nachweis seiner Identität legte er seinen Führerschein Nr. [[id_document_number|32961200]] vor, die Erbenstellung ist unbestritten.
+Die Erblasserin [[person|Gerlinde Mohr]] war seit dem [[date|1. Oktober 2020]] in der vollstationären Pflege der beklagten Partei in [[location|Feldkirchen]] untergebracht. Sie litt an einer fortgeschrittenen Demenz und einer Hüftgelenksarthrose. Ihr Sohn, der Kläger, ist ihr Erbe nach dem Testament vom [[date|3. Mai 2019]]. Zum Nachweis seiner Identität legte er seinen Führerschein Nr. [[id_document_number|32961200]] vor, die Erbenstellung ist unbestritten.
 
 In der Nacht vom [[date|14. Februar 2022]] stürzte die Erblasserin aus dem Bett, obwohl an beiden Seiten Bettgitter angebracht waren. Die Pflegerin [[person|Nikolina Radić]] hatte um 23.15 Uhr letztmals nach ihr gesehen. Die Sturzmeldung wurde um 2.40 Uhr dokumentiert. Die Erblasserin erlitt eine Oberschenkelhalsfraktur, die am [[date|16. Februar 2022]] operativ versorgt wurde. Sie verstarb am [[date|2. März 2022]] im Krankenhaus, nachdem sich eine Lungenentzündung eingestellt hatte. Die Krankengeschichte wurde vollständig vorgelegt.
 

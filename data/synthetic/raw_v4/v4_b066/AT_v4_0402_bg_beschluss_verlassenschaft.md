@@ -30,7 +30,7 @@ Der Erblasser hat ein Testament hinterlassen, das die Erbfolge eindeutig regelt.
 
 Die Erbin ließ sich im Verfahren durch die Rechtsanwältin [[lawyer|Mariana Păunescu, MBA]] vertreten. Die Vollmacht vom [[date|12. März 2026]] liegt bei den Akten. Die Gläubigerin [[person|Helene Sarkany]] hat über den Rechtsanwalt [[lawyer|Peti Ács]] eine Forderung von 4.800 Euro angemeldet; diese wurde im Inventar berücksichtigt.
 
-Die Verlassenschaft umfasst im Wesentlichen eine Liegenschaft in Maissau, ein Girokonto und Hausrat. Die Schulden des Erblassers wurden nach Abzug der Begräbniskosten gedeckt. Ein Überschuss verbleibt, der nach dem Erbschaftsschlüssel verteilt wird.
+Die Verlassenschaft umfasst im Wesentlichen eine Liegenschaft in [[location|Maissau]], ein Girokonto und Hausrat. Die Schulden des Erblassers wurden nach Abzug der Begräbniskosten gedeckt. Ein Überschuss verbleibt, der nach dem Erbschaftsschlüssel verteilt wird.
 
 Die Begräbniskosten in Höhe von 6.950 Euro wurden von der Erbin vorgestreckt und durch Vorlage der Rechnung des Bestattungsunternehmens belegt. Die Kostennote der Rechtsanwältin [[lawyer|Mariana Păunescu, MBA]] vom [[date|14. August 2026]] ist angemessen; sie wurde aus dem Nachlass vorab bezahlt. Die Gerichtsgebühren für das Verlassenschaftsverfahren wurden ebenfalls aus der Verlassenschaft beglichen.
 
@@ -38,7 +38,7 @@ Das Gericht hat die Erben am [[date|20. Mai 2026]] vernommen. [[person|Valerie D
 
 Inventar und Schulden
 
-Die Verlassenschaft wurde gemäß [[legal_norm|§ 143 AußStrG]] durch ein Inventar erfasst. Das Inventar wurde am [[date|8. Juli 2026]] vom Rechtspfleger [[judge|Ifrim Buciu]] unter Beiziehung der Notarin [[lawyer|Gescha Andergassen]] errichtet. Dabei wurden das Girokonto des Erblassers, der Hausrat und die Liegenschaft in Maissau geschätzt. Die Bewertung der Liegenschaft wurde durch einen gerichtlich beeideten Sachverständigen vorgenommen, dessen Gutachten am [[date|30. Juni 2026]] vorlag.
+Die Verlassenschaft wurde gemäß [[legal_norm|§ 143 AußStrG]] durch ein Inventar erfasst. Das Inventar wurde am [[date|8. Juli 2026]] vom Rechtspfleger [[judge|Ifrim Buciu]] unter Beiziehung der Notarin [[lawyer|Gescha Andergassen]] errichtet. Dabei wurden das Girokonto des Erblassers, der Hausrat und die Liegenschaft in [[location|Maissau]] geschätzt. Die Bewertung der Liegenschaft wurde durch einen gerichtlich beeideten Sachverständigen vorgenommen, dessen Gutachten am [[date|30. Juni 2026]] vorlag.
 
 Die Erbin hat nach [[legal_norm|§ 153 AußStrG]] keine Haftung für Schulden über den Nachlass hinaus zu tragen, sofern ein Inventar errichtet wurde. Dies ist hier der Fall. Die Gläubigerin [[person|Helene Sarkany]] wurde im Verfahren gehört und hat ihre Forderung bestätigt, ohne weitere Sicherheiten zu verlangen.
 

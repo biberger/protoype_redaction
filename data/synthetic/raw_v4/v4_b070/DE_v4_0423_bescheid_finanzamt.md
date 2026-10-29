@@ -19,7 +19,7 @@ Umsatzsteuerbescheid für 2025
 
 Sehr geehrte Frau [[person|Goebel]],
 
-aufgrund Ihrer Umsatzsteuer-Jahreserklärung für das Kalenderjahr 2025, die von Ihrem steuerlichen Berater [[person|Settimo Ferro]], Steuerberater in Mannheim, am [[date|28.07.2026]] eingereicht wurde, setzen wir die Umsatzsteuer für 2025 wie folgt fest:
+aufgrund Ihrer Umsatzsteuer-Jahreserklärung für das Kalenderjahr 2025, die von Ihrem steuerlichen Berater [[person|Settimo Ferro]], Steuerberater in [[location|Mannheim]], am [[date|28.07.2026]] eingereicht wurde, setzen wir die Umsatzsteuer für 2025 wie folgt fest:
 
 Festsetzung
 

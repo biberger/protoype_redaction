@@ -25,7 +25,7 @@ Der Antragsteller begehrte den Titel zur Ausübung einer Tätigkeit als Geschäf
 
 Der Zeuge [[person|Dimitrije Berović]], Führerschein Nr. [[id_document_number|17681642]], gab am [[date|10. Juni 2026]] an, dass er das Firmenfahrzeug mit dem Kennzeichen [[license_plate|MU-16 M]] lenke. Das Fahrzeug ist auf die [[organization|Apfelbeck AG]], [[company_register_number|FN 190324p]], UID-Nr. [[tax_id|ATU57624565]], mit Sitz in [[location|Murau]] zugelassen. Der Vorstand [[person|Valerianus Beckmann]] bestätigte die Zulassung schriftlich, nicht jedoch eine Beschäftigung des Antragstellers.
 
-Die Wohnungsgeberin [[person|Apollonia Marek]] bestätigte den Mietvertrag für die Wohnung in Eberstein. Ein Einkommensnachweis über die erforderlichen Mittel liegt nicht vor; der Antragsteller gibt seine Kontoverbindung mit IBAN [[bank_account|AT64 8721 3879 8219 9637]] an, aus der keine regelmäßigen Gehaltseingänge ersichtlich sind. Seine Sozialversicherungsnummer lautet [[social_security_number|8273 010358]].
+Die Wohnungsgeberin [[person|Apollonia Marek]] bestätigte den Mietvertrag für die Wohnung in [[location|Eberstein]]. Ein Einkommensnachweis über die erforderlichen Mittel liegt nicht vor; der Antragsteller gibt seine Kontoverbindung mit IBAN [[bank_account|AT64 8721 3879 8219 9637]] an, aus der keine regelmäßigen Gehaltseingänge ersichtlich sind. Seine Sozialversicherungsnummer lautet [[social_security_number|8273 010358]].
 
 Rechtliche Beurteilung
 

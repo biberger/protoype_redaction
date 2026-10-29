@@ -10,7 +10,7 @@ Arrêt rendu le [[date|12 mars 2026]] — rôle n° [[case_number|49321]]
 
 Entre:
 
-Mme [[person|Edelberte Zenner]], demeurant à Esch-sur-Alzette, appelante aux termes d'un exploit de l'huissier de justice du [[date|18 novembre 2025]], comparant par Me [[lawyer|Evgeni Dudar]], avocat à la Cour,
+Mme [[person|Edelberte Zenner]], demeurant à [[location|Esch-sur-Alzette]], appelante aux termes d'un exploit de l'huissier de justice du [[date|18 novembre 2025]], comparant par Me [[lawyer|Evgeni Dudar]], avocat à la Cour,
 
 et
 

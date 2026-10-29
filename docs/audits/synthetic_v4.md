@@ -45,3 +45,11 @@ times. New lint rule: the town of a tagged address that appears alone elsewhere 
 the 300 v4 documents, all tagged `location` by script (`Gemeinde Himmelberg`, `in Niederthalheim`, `Gemarkung
 Heringen`). Realism notes are of the same kind as in the pilot (competence of the court, chronology of enclosures),
 fewer per document.
+
+## Waves 2-3 (batches 50-129, 480 documents)
+
+All pass `--strict` and `legalner.audit`. LLM audit of 6 documents (seed 77): 11 errors, mostly places mentioned once
+after a preposition ("Steuerberater in Mannheim", "né à Alès") and an insurer named only in an ALL-CAPS letterhead.
+New lint rule: a known municipality (AT/DE/CH gazetteer, ≥ 5 letters, plus larger French-speaking towns) after
+in/nach/aus/bei/à/de that is not tagged; it found 28 such misses in batches 0-129, tagged `location` by script or hand.
+Realism notes stay at ≈ 5 per document (competence/geography and arithmetic in claims are the most frequent kinds).

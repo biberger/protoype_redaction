@@ -35,7 +35,7 @@ II. Verkehrsvorfall
 
 Am [[date|2. Mai 2026]] wurde [[person|Nguette]] als Beifahrer im Fahrzeug mit dem Kennzeichen [[license_plate|BL 19 KG]] auf der [[street|Hauptstraße]] in [[location|Bruck an der Leitha]] kontrolliert. Halter des Fahrzeugs ist [[person|Luitpold Pontiller]], wohnhaft in [[location|Bruck an der Leitha]]. [[person|Pontiller]] hat als Zeuge bestätigt, dass [[person|Nguette]] das Fahrzeug nicht gelenkt hat. Der Zeuge hat seinen Personalausweis Nr. [[id_document_number|A4384972]] vorgelegt.
 
-Die Anhaltung erfolgte durch die [[organization|Polizeiinspektion Bruck an der Leitha]]; eine Anzeige wurde nicht erstattet. Die Kontrolle hatte keine verwaltungsstrafrechtlichen Folgen. [[person|Nguette]] war zum Zeitpunkt der Kontrolle in Bruck, weil er einen Termin bei einer Versicherung wahrnahm.
+Die Anhaltung erfolgte durch die [[organization|Polizeiinspektion Bruck an der Leitha]]; eine Anzeige wurde nicht erstattet. Die Kontrolle hatte keine verwaltungsstrafrechtlichen Folgen. [[person|Nguette]] war zum Zeitpunkt der Kontrolle in [[location|Bruck]], weil er einen Termin bei einer Versicherung wahrnahm.
 
 III. Rechtliche Beurteilung
 

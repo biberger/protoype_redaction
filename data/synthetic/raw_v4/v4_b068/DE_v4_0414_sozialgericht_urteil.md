@@ -49,7 +49,7 @@ Die Zeugin [[person|Amely Stocker]], wohnhaft in [[address|Nappenplatz 4, 06632 
 
 Die Sachverständige [[person|Prof. Dr. Dr. Lubba Hansmann, PhD]] erstellte im Auftrag des Gerichts ein Gutachten über die Arbeitsfähigkeit des Klägers für den Zeitraum August bis November 2024. Die Gutachterin kam zu dem Ergebnis, dass der Kläger in dieser Zeit für leichte Tätigkeiten einsatzfähig war, aber keine Schweißarbeiten ausführen konnte.
 
-Der Kläger fuhr zu den Untersuchungsterminen mit dem Pkw mit dem Kennzeichen [[license_plate|E-VS 59]], der auf eine Halterin in Essen zugelassen ist. Er legte seinen Führerschein mit der Nummer [[id_document_number|H012YGJSP51]] vor.
+Der Kläger fuhr zu den Untersuchungsterminen mit dem Pkw mit dem Kennzeichen [[license_plate|E-VS 59]], der auf eine Halterin in [[location|Essen]] zugelassen ist. Er legte seinen Führerschein mit der Nummer [[id_document_number|H012YGJSP51]] vor.
 
 Der [[person|Dipl.-Ing. Abder Rahmane Dauphin]], Sicherheitsingenieur des Arbeitgebers und wohnhaft in [[address|Steineichenweg 5, 29565 Wriedel]], bestätigte, dass die Hebebühne zum Unfallzeitpunkt nicht mit der vorgeschriebenen Verriegelung ausgerüstet war. Die [[organization|Henry Software GmbH]], [[company_register_number|HRB 106209]] ([[court|Amtsgericht Stuttgart]]), [[tax_id|DE886056508]], Steuernummer [[tax_id|79 938 05691]], hat ein Dokumentationssystem für die Arbeitsschutzunterlagen betrieben, in dem die Prüfprotokolle hinterlegt waren; die Daten für das Jahr 2024 enthielten keinen Eintrag zur Prüfung der Hebebühne.
 

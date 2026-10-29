@@ -17,7 +17,7 @@ des Klägers [[organization|Zoller Metallbau Genossenschaft]], [[company_registe
 
 gegen
 
-die Beklagte [[organization|Gschwind Sàrl]], [[company_register_number|CHE-800.589.991]], Bruggerweg 7, 8638 Goldingen, vertreten durch [[lawyer|Guru Bollinger]], Rechtsanwalt, [[location|Zürich]],
+die Beklagte [[organization|Gschwind Sàrl]], [[company_register_number|CHE-800.589.991]], [[address|Bruggerweg 7, 8638 Goldingen]], vertreten durch [[lawyer|Guru Bollinger]], Rechtsanwalt, [[location|Zürich]],
 
 unter Beizug der Streitverkündeten [[organization|Burkart Immobilien SA]], [[company_register_number|CHE-926.380.097]], Spitalstrasse 11, 6611 Mosogno,
 
@@ -25,7 +25,7 @@ betreffend Werklohn und Mängelrügen (Gewährleistung)
 
 Prozessgeschichte
 
-Die Klage ist am [[date|3. März 2025]] beim Handelsgericht eingegangen und trägt das Geschäftszeichen [[case_number|HG.2025.117]]. Der Kläger verlangt von der Beklagten die Bezahlung von Werklohn für Metallbauarbeiten an einer Gewerbeliegenschaft in Goldingen. Die Beklagte bestreitet die Forderung und erhebt Mängelrügen.
+Die Klage ist am [[date|3. März 2025]] beim Handelsgericht eingegangen und trägt das Geschäftszeichen [[case_number|HG.2025.117]]. Der Kläger verlangt von der Beklagten die Bezahlung von Werklohn für Metallbauarbeiten an einer Gewerbeliegenschaft in [[location|Goldingen]]. Die Beklagte bestreitet die Forderung und erhebt Mängelrügen.
 
 Der Schriftenwechsel fand in zwei Runden statt. Die Verhandlung wurde am [[date|14. Mai 2026]] durchgeführt. Die Geschäftsführerin des Klägers, [[person|Lay Singer]], und die Geschäftsführerin der Beklagten, [[person|Katuska Madej]], wurden persönlich befragt.
 
@@ -39,7 +39,7 @@ Sachverhalt
 
 Mit Werkvertrag vom [[date|12. Juni 2024]] übernahm der Kläger die Lieferung und Montage einer Stahlkonstruktion für das Gebäude der Beklagten. Die Vergütung wurde auf CHF 186'400.00 zuzüglich Mehrwertsteuer festgelegt. Die Montage erfolgte zwischen dem [[date|1. Oktober 2024]] und dem [[date|28. November 2024]].
 
-Die Beklagte macht geltend, die Dachkonstruktion sei nicht fachgerecht verschweisst worden. Nach einem Sturm vom [[date|19. Januar 2025]] seien Teile des Vordachs auf die Strasse gestürzt. Dabei entstand ein Schaden an einem Lieferwagen mit dem Kennzeichen [[license_plate|BS 993200]], der auf der [[street|Ottenbergstrasse]] in Goldingen parkiert war. Die Beklagte hat die Schadensmeldung samt Fotos am [[date|22. Januar 2025]] an den Kläger weitergeleitet.
+Die Beklagte macht geltend, die Dachkonstruktion sei nicht fachgerecht verschweisst worden. Nach einem Sturm vom [[date|19. Januar 2025]] seien Teile des Vordachs auf die Strasse gestürzt. Dabei entstand ein Schaden an einem Lieferwagen mit dem Kennzeichen [[license_plate|BS 993200]], der auf der [[street|Ottenbergstrasse]] in [[location|Goldingen]] parkiert war. Die Beklagte hat die Schadensmeldung samt Fotos am [[date|22. Januar 2025]] an den Kläger weitergeleitet.
 
 Der Kläger hält dagegen, die Konstruktion entspreche den Plänen des Architekturbüros, und die Beklagte habe die Verankerung selbst ausgeführt. Er verweist auf den Lieferschein vom [[date|28. November 2024]], der ohne Beanstandung unterzeichnet wurde.
 

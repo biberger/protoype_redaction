@@ -28,7 +28,7 @@ Die Forderung ist im Urteil des [[court|Bezirksgerichts Mödling]] vom [[date|12
 
 II. Forderung und Rückstand
 
-Die verpflichtete Partei schuldet der betreibenden Partei aus dem Bestandvertrag über die Halle in Brunn am Gebirge den Mietzins für den Zeitraum vom [[date|1. Jänner bis 31. März 2026]] in Höhe von EUR 6.450,– netto sowie Betriebskosten von EUR 1.220,40. Die betreibende Partei hat den Rückstand mit Schreiben vom [[date|20. März 2026]] eingemahnt; eine Zahlung ist nicht erfolgt.
+Die verpflichtete Partei schuldet der betreibenden Partei aus dem Bestandvertrag über die Halle in [[location|Brunn am Gebirge]] den Mietzins für den Zeitraum vom [[date|1. Jänner bis 31. März 2026]] in Höhe von EUR 6.450,– netto sowie Betriebskosten von EUR 1.220,40. Die betreibende Partei hat den Rückstand mit Schreiben vom [[date|20. März 2026]] eingemahnt; eine Zahlung ist nicht erfolgt.
 
 III. Drittschuldnerin
 

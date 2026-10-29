@@ -17,7 +17,7 @@ SV-Nr.: [[social_security_number|4673 181182]]
 
 Strafverfügung
 
-Sie haben es als Lenker des Kraftfahrzeuges mit dem Kennzeichen [[license_plate|L-44189L]] zu verantworten, dass Sie am [[date|12. Februar 2026]] um 7:42 Uhr im Gemeindegebiet von Leonding die dort zulässige Höchstgeschwindigkeit von 50 km/h im Ortsgebiet um 23 km/h überschritten haben. Die Messung ergab eine Geschwindigkeit von 73 km/h nach Abzug der Messtoleranz.
+Sie haben es als Lenker des Kraftfahrzeuges mit dem Kennzeichen [[license_plate|L-44189L]] zu verantworten, dass Sie am [[date|12. Februar 2026]] um 7:42 Uhr im Gemeindegebiet von [[location|Leonding]] die dort zulässige Höchstgeschwindigkeit von 50 km/h im Ortsgebiet um 23 km/h überschritten haben. Die Messung ergab eine Geschwindigkeit von 73 km/h nach Abzug der Messtoleranz.
 
 Sie haben dadurch die Verwaltungsübertretung nach [[legal_norm|§ 20 Abs 2 StVO]] iVm [[legal_norm|§ 99 Abs 3 lit a StVO]] begangen.
 
@@ -25,7 +25,7 @@ Sie haben dadurch die Verwaltungsübertretung nach [[legal_norm|§ 20 Abs 2 StVO
 
 Begründung
 
-Die Zulassungsbesitzerin des Fahrzeuges, die [[organization|Kaser Software GmbH & Co KG]], [[company_register_number|FN 625686b]], UID-Nummer [[tax_id|ATU58089525]], hat mit Schreiben vom [[date|16. Februar 2026]] mitgeteilt, dass nicht sie selbst, sondern Sie das Fahrzeug zum Vorfallszeitpunkt gelenkt haben. Die Lenkerauskunft wurde von der Geschäftsführerin [[person|Dipl.-Ing. Dr. Emelka Brenner, BA]] unterfertigt. Frau [[person|Brenner]] gab an, dass das Fahrzeug an diesem Morgen für einen Kundentermin in Leonding benötigt wurde.
+Die Zulassungsbesitzerin des Fahrzeuges, die [[organization|Kaser Software GmbH & Co KG]], [[company_register_number|FN 625686b]], UID-Nummer [[tax_id|ATU58089525]], hat mit Schreiben vom [[date|16. Februar 2026]] mitgeteilt, dass nicht sie selbst, sondern Sie das Fahrzeug zum Vorfallszeitpunkt gelenkt haben. Die Lenkerauskunft wurde von der Geschäftsführerin [[person|Dipl.-Ing. Dr. Emelka Brenner, BA]] unterfertigt. Frau [[person|Brenner]] gab an, dass das Fahrzeug an diesem Morgen für einen Kundentermin in [[location|Leonding]] benötigt wurde.
 
 Der Zeuge [[person|Krist Dolberry]] hat bei der Anzeige vom [[date|13. Februar 2026]] angegeben, dass das Fahrzeug an ihm vorbeigefahren sei, als er an der Haltestelle wartete. Die Zeugin [[person|Felizitas Seidl]], Hausverwalterin der [[organization|Abel Hausverwaltung GmbH]] ([[company_register_number|FN 564734t]], UID [[tax_id|ATU83822632]]), bestätigte, dass der Vorfall in der Nähe des Parkplatzes der [[organization|Hanisch Immobilien GmbH & Co KG]], [[company_register_number|FN 539134w]], UID-Nummer [[tax_id|ATU96403533]], stattfand. Die Zeugin wohnt in [[address|Höfergasse 14/9,
 3375 Krummnußbaum]].

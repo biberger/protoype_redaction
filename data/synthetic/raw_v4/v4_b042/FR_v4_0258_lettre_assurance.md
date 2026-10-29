@@ -18,7 +18,7 @@ Objet : sinistre n° [[other_identifier|SIN/26/0418/RN]] – votre dossier du [[
 
 Madame,
 
-Nous accusons réception de votre déclaration de sinistre relative à la collision survenue le [[date|2 mars 2026]] sur le parking de la gare de Rennes. Le dossier a été transmis à notre expert, qui a visité le véhicule le [[date|19 mars 2026]]. Le contrat d'assurance automobile n° [[other_identifier|AUTO-44219-RN]] prévoit une franchise dont le montant figure au verso de vos conditions particulières.
+Nous accusons réception de votre déclaration de sinistre relative à la collision survenue le [[date|2 mars 2026]] sur le parking de la gare de [[location|Rennes]]. Le dossier a été transmis à notre expert, qui a visité le véhicule le [[date|19 mars 2026]]. Le contrat d'assurance automobile n° [[other_identifier|AUTO-44219-RN]] prévoit une franchise dont le montant figure au verso de vos conditions particulières.
 
 Le témoignage de Mme [[person|Marlène Delacroix]], domiciliée au [[address|9 rue Paradis, l3006 Marseille]], a été recueilli par téléphone. Celle-ci indique que le véhicule était stationné rue des Lices et non sur le parking, ce qui modifie l'analyse de la garantie.
 

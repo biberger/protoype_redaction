@@ -42,7 +42,7 @@ Parallèlement, [[person|Praxede VACHER]], alors employée de la société [[org
 
 L'enquête a été ouverte le [[date|3 septembre 2024]]. Le véhicule utilitaire immatriculé [[license_plate|YY-797-ZS]], appartenant à [[organization|Duthoit Plomberie EURL]], a été identifié au moment de la remise de certaines fournitures à un dépôt de [[location|Tours]]. Par ordonnance du [[date|5 février 2025]], [[judge|Leonce Brachet]], juge d'instruction, a autorisé la saisie des relevés bancaires, et [[judge|Nolwen Calvez]], juge des libertés et de la détention, a rejeté la demande de placement en détention provisoire formée à l'encontre de [[person|Dizier MAUDUIT]].
 
-Un rapport d'expertise en écriture, établi le [[date|18 novembre 2025]] par [[person|Yvon Lebeau]], expert près la cour d'appel d'Orléans, n'a pas permis de confirmer que [[person|MAUDUIT]] avait signé le bon de réception du second virement.
+Un rapport d'expertise en écriture, établi le [[date|18 novembre 2025]] par [[person|Yvon Lebeau]], expert près la [[court|cour d'appel d'Orléans]], n'a pas permis de confirmer que [[person|MAUDUIT]] avait signé le bon de réception du second virement.
 
 Lors de l'audience, [[person|Anne-Lise Thibault-Gayrard]], responsable administrative de [[organization|Lacoste SASU]], a confirmé les virements litigieux. Son témoignage a été recueilli sans contestation.
 
