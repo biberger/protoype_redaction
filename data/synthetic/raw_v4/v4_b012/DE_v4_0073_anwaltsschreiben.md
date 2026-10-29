@@ -50,7 +50,7 @@ Sollten Sie diesen Forderungen nicht fristgerecht nachkommen, werde ich ohne wei
 
 **4. Schadensersatz**
 
-Meine Mandantin war infolge der Bauarbeiten vom [[date|15. Juni]] bis [[date|31. August 2026]] nicht in der Lage, ihre Zufahrt zu nutzen. Dadurch sind ihr Mehrkosten für die Anmietung eines Stellplatzes entstanden. Zur Berechnung der Ausfallkosten wird die Rentenversicherungsnummer [[social_security_number|50 270676 N 723]] der Mandantin für die Abrechnung mit dem Versicherungsträger benötigt; diese Angabe bitte ich vertraulich zu behandeln.
+Meine Mandantin war infolge der Bauarbeiten vom [[date|15. Juni bis 31. August 2026]] nicht in der Lage, ihre Zufahrt zu nutzen. Dadurch sind ihr Mehrkosten für die Anmietung eines Stellplatzes entstanden. Zur Berechnung der Ausfallkosten wird die Rentenversicherungsnummer [[social_security_number|50 270676 N 723]] der Mandantin für die Abrechnung mit dem Versicherungsträger benötigt; diese Angabe bitte ich vertraulich zu behandeln.
 
 Die Mehrkosten belaufen sich nach bisherigem Stand auf EUR 1.240,00. Ich bitte Sie, den Betrag bis zum [[date|2. Oktober 2026]] auf das Konto der Mandantin [[bank_account|DE89 1401 1162 3910 3265 34]] zu überweisen. Als Verwendungszweck geben Sie bitte das oben genannte Aktenzeichen an.
 
