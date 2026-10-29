@@ -73,6 +73,13 @@ untagged, cross-references inside quoted statutes ("gemäß § 11") are tagged; 
 `organization`; land-register prefixes EZ/KG/Gst-Nr. are inside the span (as in the synthetic data), "Grundstück Nr."
 keeps "Nr." outside in 8 RIS spans. The reviewers' open questions are in `data/gold/at/ris_review_notes.txt`.
 
+## Decisions on the open questions (2026-10-30)
+
+The project lead settled the open questions of both passes (`GENERATION.md`, decisions 14-24). Applied to the gold
+files: Justizanstalt/Flughafen + place merged into one organization span (11 spans), Gemeinde/Stadtgemeinde/
+Marktgemeinde as a body relabelled organization (10), "Landeshauptmannes von [[location|Kärnten]]" (2), quoted
+"Artikel …:" headings in the EuGVVO quote untagged (4). Everything else already followed the decided defaults.
+
 ## Human review (first pass, questions now settled)
 
 Files: `data/gold/at/reviewed/*.md`. Correct tags in place, set `review: human` in the header, then run

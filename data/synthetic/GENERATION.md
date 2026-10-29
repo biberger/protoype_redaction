@@ -149,3 +149,28 @@ Settled with the project lead after the agent review of the Austrian gold set; t
     occur (letterheads, party blocks, OCR, e-mails) and are tagged like normal text.
 13. Generation artefacts (one person under two names, doubled degrees, impossible dates, garbled names) are fixed
     in the text of gold files; training data is left as is.
+
+### Further decisions (2026-10-30, project lead)
+
+14. Authors in literature citations ("Fucik/Kodek in Rechberger, ZPO") and parties named in cited case captions are
+    `person`.
+15. Erwachsenenvertreter, Insolvenzverwalter and similar court-appointed representatives are `person` unless the text
+    calls them Rechtsanwalt or notary (decision 2). Lay judges and fachkundige Laienrichter are `judge`.
+16. Bund, Land, Gemeinde, Stadtgemeinde, Marktgemeinde acting as a body (party, authority, owner) are `organization`
+    with the whole name ("[[organization|Marktgemeinde Pöndorf]]"); a place in the territorial sense is `location`.
+17. Office titles stay outside spans like other titles; what follows is labelled by what it is:
+    "Bürgermeister der [[organization|Stadtgemeinde Jennersdorf]]", "Landeshauptmann von [[location|Kärnten]]".
+18. Facilities named after a place are one `organization` span: "[[organization|Justizanstalt Stein]]",
+    "[[organization|Flughafen Wien-Schwechat]]" (no separate location inside, decision 7).
+19. Untagged: ministries named only through the minister's title, generic units and registers (Staatendokumentation,
+    Zentrales Melderegister, GISA, Familiengerichtshilfe, Kinder- und Jugendhilfe), platforms and trademark names,
+    trademark registration numbers, delivery-note, invoice and flight numbers.
+20. Inflected long country names are one span including the adjective ("der [[location|Arabischen Republik Syrien]]").
+21. Quoted statute text: section headings ("§ 340", "Artikel 17 Absatz 1:") are untagged; cross-references inside the
+    quote ("gemäß § 11") are `legal_norm`. "leg cit" stays inside the span.
+22. Land register: "Grundstück Nr. [[land_register_id|1430/29]]" keeps "Nr." outside; "Gst-Nr.", "EZ", "KG" are inside.
+    A land-register Tagebuchzahl ("TZ [[case_number|1234/2020]]") is `case_number`.
+23. "zwischen dem 6. März und dem 19. Mai 2025" stays two date spans (only "bis"/"–"/"au" ranges are merged).
+24. The position of academic degrees follows the country and the document ("MBA Lex Alexander" and
+    "Lex Alexander, MBA" both occur); degrees are inside the span wherever they stand.
+

@@ -5,7 +5,7 @@ lang: de
 origin: synthetic/AT_v3_0563_lvwg_erkenntnis#6
 review: convention-pass
 ---
-Der Kostenspruch des Bescheides bleibt aufrecht. Eine Zustellung dieses Erkenntnisses an die Parteien erfolgt durch die Kanzlei des Gerichtes, wobei die Zustellung an den Vertreter der belangten Behörde gesondert zu verfügen ist. Eine außerordentliche Revision wurde beim [[court|Verwaltungsgerichtshof]] nicht eingebracht. Die Zufahrt zum Grundstück erfolgt über einen Weg, der im Eigentum der Gemeinde [[location|Oberndorf an der Melk]] steht. Dieser Umstand ist für die Entscheidung ohne Belang.
+Der Kostenspruch des Bescheides bleibt aufrecht. Eine Zustellung dieses Erkenntnisses an die Parteien erfolgt durch die Kanzlei des Gerichtes, wobei die Zustellung an den Vertreter der belangten Behörde gesondert zu verfügen ist. Eine außerordentliche Revision wurde beim [[court|Verwaltungsgerichtshof]] nicht eingebracht. Die Zufahrt zum Grundstück erfolgt über einen Weg, der im Eigentum der [[organization|Gemeinde Oberndorf an der Melk]] steht. Dieser Umstand ist für die Entscheidung ohne Belang.
 
 10. Zur Strafbemessung ist gemäß [[legal_norm|§ 19 Abs 2 VStG]] auf die persönlichen und wirtschaftlichen Verhältnisse Rücksicht zu nehmen. Der Beschwerdeführer hat dazu keine Angaben gemacht, weshalb die Behörde die Schätzung des Einkommens zu Recht vorgenommen hat.
 
