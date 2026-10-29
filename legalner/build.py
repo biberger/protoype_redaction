@@ -129,6 +129,42 @@ def read_records(paths):
                     yield json.loads(line)
 
 
+def _per_key(values, cast=int):
+    """["ler=16000", "ris:Bundesverwaltungsgericht=800"] -> {key: value}."""
+    out = {}
+    for v in values or ():
+        key, _, n = v.rpartition("=")
+        if not key:
+            raise SystemExit(f"expected KEY=N, got {v!r}")
+        out[key] = cast(n)
+    return out
+
+
+def _chunk_index(rec):
+    tail = rec["id"].rpartition("#")[2]
+    return int(tail) if tail.isdigit() else 0
+
+
+def balance(train, rng, max_per_source=0, caps=None, max_per_doc=None, copies=None):
+    """Training mix: keep the first `max_per_doc[source]` chunks of each document (the Kopf and facts
+    of a decision carry most PII; BVwG country reports do not), cap records per source and per
+    `source:court` (`caps`), then repeat records of a source `copies[source]` times."""
+    caps, max_per_doc, copies = caps or {}, max_per_doc or {}, copies or {}
+    if max_per_doc:
+        train = [r for r in train if _chunk_index(r) < max_per_doc.get(r["source"], 10 ** 9)]
+    train = list(train)
+    rng.shuffle(train)
+    kept, per = [], collections.Counter()
+    for rec in train:
+        keys = [rec["source"], f"{rec['source']}:{rec.get('meta', {}).get('court')}"]
+        limits = [caps.get(keys[0], max_per_source or 0), caps.get(keys[1], 0)]
+        if any(lim and per[k] >= lim for k, lim in zip(keys, limits)):
+            continue
+        per.update(keys)
+        kept.append(rec)
+    return [rec for rec in kept for _ in range(copies.get(rec["source"], 1))]
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("inputs", nargs="+", help="canonical JSONL files")
@@ -137,6 +173,13 @@ def main(argv=None):
     ap.add_argument("--test-frac", type=float, default=0.1)
     ap.add_argument("--copies", type=int, default=1, help="augmented copies per training record")
     ap.add_argument("--max-per-source", type=int, default=0, help="cap training records per source (0 = all)")
+    ap.add_argument("--cap", action="append", metavar="KEY=N",
+                    help="cap training records of a source or source:court, e.g. ler=16000, "
+                         "ris:Bundesverwaltungsgericht=900 (repeatable; overrides --max-per-source)")
+    ap.add_argument("--max-per-doc", action="append", metavar="SOURCE=N",
+                    help="keep the first N chunks of each document of SOURCE, e.g. ris=60")
+    ap.add_argument("--source-copies", action="append", metavar="SOURCE=K",
+                    help="repeat training records of SOURCE K times (each copy augmented anew)")
     ap.add_argument("--max-eval-per-source", type=int, default=0,
                     help="cap dev/test records per source (0 = all), e.g. for CPU smoke runs")
     ap.add_argument("--exclude-docs", help="file with doc_ids to drop entirely (e.g. data/gold/at/doc_ids.txt)")
@@ -160,15 +203,8 @@ def main(argv=None):
         by_split[doc_split(rec, args.dev_frac, args.test_frac)].append(rec)
 
     stats = {}
-    train = by_split["train"]
-    if args.max_per_source:
-        rng.shuffle(train)
-        capped, per = [], collections.Counter()
-        for rec in train:
-            per[rec["source"]] += 1
-            if per[rec["source"]] <= args.max_per_source:
-                capped.append(rec)
-        train = capped
+    train = balance(by_split["train"], rng, args.max_per_source, _per_key(args.cap), _per_key(args.max_per_doc),
+                    _per_key(args.source_copies))
     with (out / "train.jsonl").open("w", encoding="utf-8") as fh:
         n = 0
         for _ in range(args.copies):
@@ -179,6 +215,7 @@ def main(argv=None):
                 fh.write(json.dumps(augment(rec, labels, rng), ensure_ascii=False) + "\n")
                 n += 1
     stats["train"] = n
+    stats["train_per_source"] = dict(collections.Counter(r["source"] for r in train for _ in range(args.copies)))
     for split in ("dev", "test"):
         recs = by_split[split]
         if args.max_eval_per_source:

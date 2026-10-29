@@ -711,8 +711,8 @@ def annotate(text, ref, gaz, rng):
 def to_records(text, spans, ref, max_chars=MAX_CHARS, max_chunks=None):
     """Chunk a decision; a chunk with an unclassified placeholder is not queried for PII labels.
 
-    `max_chunks` keeps only the first chunks (Kopf and facts carry most of the PII; BVwG
-    decisions otherwise contribute hundreds of chunks of quoted country reports).
+    `max_chunks` keeps only the first chunks. The default keeps all; BVwG country reports
+    (hundreds of chunks per decision) are balanced in legalner.build (--cap, --max-per-doc).
     """
     recs = []
     for i, (ctext, cspans) in enumerate(chunk(text, spans, max_chars)[:max_chunks]):
@@ -751,7 +751,8 @@ def main(argv=None):
     c.add_argument("--cache", default="data/ris/raw")
     c.add_argument("-o", "--out", default="data/canonical/ris.jsonl")
     c.add_argument("--seed", type=int, default=13)
-    c.add_argument("--max-chunks", type=int, default=40, help="chunks kept per decision (0: all)")
+    c.add_argument("--max-chunks", type=int, default=0,
+                   help="chunks kept per decision (0: all; balance courts in legalner.build --cap/--max-per-doc)")
     args = ap.parse_args(argv)
 
     if args.cmd == "search":

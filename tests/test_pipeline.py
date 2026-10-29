@@ -396,3 +396,20 @@ def test_ris_vwg_wien_initial_streets():
     assert labels.count("address") == 2 and labels.count("street") == 1
     street = next(t for lab, t in spans if lab == "street")
     assert street.endswith("weg") and "(Bauteil 1)" in out
+
+
+def test_build_balance_caps_and_copies():
+    from legalner.build import balance
+    recs = []
+    for d in range(10):  # 10 BVwG decisions of 30 chunks, 10 OGH decisions of 3 chunks, 50 LER sentences
+        recs += [{"id": f"ris/b{d}#{i}", "source": "ris", "doc_id": f"ris/b{d}", "meta": {"court": "BVwG"}}
+                 for i in range(30)]
+        recs += [{"id": f"ris/o{d}#{i}", "source": "ris", "doc_id": f"ris/o{d}", "meta": {"court": "OGH"}}
+                 for i in range(3)]
+    recs += [{"id": f"ler/{i}", "source": "ler", "doc_id": f"ler/{i}", "meta": {}} for i in range(50)]
+    out = balance(recs, random.Random(1), caps={"ler": 20, "ris:BVwG": 40}, max_per_doc={"ris": 10},
+                  copies={"ris": 2})
+    per = collections.Counter((r["source"], r["meta"].get("court")) for r in out)
+    assert per[("ler", None)] == 20
+    assert per[("ris", "BVwG")] == 80 and per[("ris", "OGH")] == 60
+    assert all(int(r["id"].split("#")[1]) < 10 for r in out if r["source"] == "ris")
