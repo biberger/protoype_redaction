@@ -20,8 +20,8 @@ Geschädigte:
 [[organization|Chollet & Stauffacher SA]], [[company_register_number|CHE-992.272.315]], vertreten durch die Buchhaltung, Telefon [[phone_number|079 754 26 09]], E-Mail [[email|info@chollet.ch]]
 
 Zeugen und Auskunftspersonen:
-1. [[person|Admira Baeriswyl]], Buchhalterin der [[organization|Imhof Holz GmbH]], [[company_register_number|CHE-857.635.921]]
-2. [[person|Serafina Cenek]], Disponentin der [[organization|Braun Genossenschaft]], [[company_register_number|CHE-161.463.393]]
+1. [[person|Admira Baeriswyl]], wohnhaft [[address|Martinsrütistrasse 5, 3303 Ballmoos]], Buchhalterin der [[organization|Imhof Holz GmbH]], [[company_register_number|CHE-857.635.921]]
+2. [[person|Serafina Cenek]], wohnhaft [[address|Strickhofstrasse 4, 1128 Reverolle]], Disponentin der [[organization|Braun Genossenschaft]], [[company_register_number|CHE-161.463.393]]
 3. [[person|Sevilay Saraç]], Lagerarbeiterin
 
 A. Sachverhalt

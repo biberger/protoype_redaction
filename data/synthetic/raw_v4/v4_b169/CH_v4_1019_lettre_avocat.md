@@ -28,7 +28,7 @@ J'ai été mandatée par les personnes suivantes, qui vous adressent la présent
 - Mme [[person|Sukhon Stadelmann]], domiciliée à [[location|Linthal]] ;
 - Mme [[person|Nadja Blatten]], domiciliée à [[address|Münchensteinerstrasse 8, 2024 Saint-Aubin]].
 
-Mes mandants ont travaillé pour votre société entre le printemps et l'automne 2026, dans le cadre d'un prêt de personnel organisé par [[organization|Julen AG]]. Vous avez confirmé par écrit à [[organization|Julen AG]], le [[date|3 avril 2026]], que les heures supplémentaires seraient payées directement par votre société. Cet engagement n'a jamais été honoré.
+Mes mandants ont travaillé pour votre société entre le printemps et l'automne 2026, dans le cadre d'un prêt de personnel organisé par [[organization|Julen AG]]. Vous avez confirmé par écrit à [[organization|Julen AG]], le [[date|3 avril 2026]], que les heures supplémentaires seraient payées directement par votre société. Cet engagement n'a jamais été honoré. Le prêt de personnel était régi par le [[legal_norm|Code des obligations]] et par les accords écrits conclus entre les deux sociétés, copie de ces accords étant jointe au présent courrier.
 
 Les créances se présentent comme suit :
 
@@ -50,7 +50,7 @@ Je vous prie donc de bien vouloir virer le montant de CHF 20'585.50 sur le compt
 
 À défaut de paiement dans ce délai, je suis chargée d'introduire une procédure de conciliation auprès de l'autorité compétente, puis une action devant le tribunal du for de votre siège. Les intérêts moratoires de 5 % l'an seront réclamés dès l'échéance de chaque créance, conformément à l'[[legal_norm|article 104 du Code des obligations]].
 
-Je constate enfin que votre courrier du [[date|11 septembre 2026]], par lequel vous annonciez une « réorganisation du poste de tissage », ne contenait aucune proposition de règlement. Vous ne pouvez pas invoquer cette réorganisation pour différer le paiement de sommes déjà exigibles, d'autant qu'elle n'a pas été communiquée à Julen AG avant la fin du prêt de personnel.
+Je constate enfin que votre courrier du [[date|11 septembre 2026]], par lequel vous annonciez une « réorganisation du poste de tissage », ne contenait aucune proposition de règlement. Vous ne pouvez pas invoquer cette réorganisation pour différer le paiement de sommes déjà exigibles, d'autant qu'elle n'a pas été communiquée à [[organization|Julen AG]] avant la fin du prêt de personnel.
 
 Je vous invite également à préserver les documents relatifs aux plannings, aux relevés d'heures et aux bons de livraison de la période concernée. Ces pièces seront nécessaires à la procédure, et leur disparition pourrait être retenue à votre charge.
 
@@ -58,7 +58,7 @@ Pour les besoins de la présente, je vous prie de ne plus contacter directement 
 
 Mes mandantes réservent tous leurs droits, notamment ceux qui découlent de la [[legal_norm|loi fédérale sur le travail]] et de l'[[legal_norm|article 320 du Code des obligations]] en matière de salaire, sans que cette liste soit exhaustive.
 
-Je vous prie d'agréer, Monsieur, l'expression de mes salutations distinguées.
+Je vous saurais gré de me confirmer la réception de la présente par retour de courrier. Je vous prie d'agréer, Monsieur, l'expression de mes salutations distinguées.
 
 [[lawyer|Ilaria Torrenté]]
 Avocate

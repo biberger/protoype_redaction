@@ -21,7 +21,7 @@ Le [[court|tribunal administratif de Nantes]] (troisième chambre),
 
 Vu la procédure suivante :
 
-Par une requête et un mémoire, enregistrés les [[date|14 janvier 2026]] et [[date|2 mars 2026]], la société [[organization|Steinmann Nettoyage SASU]], dont le siège est à [[location|Montpellier]] et qui exploite un établissement à [[address|18 rue de la Monnaie, 59000 Lille]], représentée par son président, M. [[person|Ziad Temam]], et par Me [[lawyer|Norbertus Roger]], avocat au barreau de [[location|Lille]], demande au tribunal d'annuler la décision du [[date|2 décembre 2025]] par laquelle la [[organization|commune de Saint-Herblain]] a écarté son offre pour le lot n° 2 du marché de nettoyage des locaux scolaires.
+Par une requête et un mémoire, enregistrés les [[date|14 janvier 2026]] et [[date|2 mars 2026]], la société [[organization|Steinmann Nettoyage SASU]], dont le siège est à [[location|Montpellier]], immatriculée au RCS [[location|Montpellier]] sous le SIREN [[company_register_number|398 163 097]] (SIRET [[company_register_number|398 163 097 08331]], TVA intracommunautaire [[tax_id|FR69398163097]]) et qui exploite un établissement à [[address|18 rue de la Monnaie, 59000 Lille]], représentée par son président, M. [[person|Ziad Temam]], et par Me [[lawyer|Norbertus Roger]], avocat au barreau de [[location|Lille]], demande au tribunal d'annuler la décision du [[date|2 décembre 2025]] par laquelle la [[organization|commune de Saint-Herblain]] a écarté son offre pour le lot n° 2 du marché de nettoyage des locaux scolaires.
 
 La commune défend et conclut au rejet de la requête. Elle est représentée par Mme [[person|Alicia Guilloux]], directrice des affaires juridiques.
 
@@ -35,11 +35,11 @@ Considérant ce qui suit :
 
 1. Par avis d'appel public à la concurrence publié le [[date|18 août 2025]], la commune a lancé une consultation pour le nettoyage de ses locaux scolaires, répartie en trois lots. La société requérante a présenté une offre pour le lot n° 2.
 
-2. Le [[date|27 novembre 2025]], Mme [[person|Aimie Ménétrier]], alors cheffe du service achats, a adressé à la directrice juridique un message électronique reproduit ainsi dans le dossier : « bonjour alicia, je confirme que le lot 2 est attribué à la sté steinmann nettoyage, merci de préparer la notification au plus vite. a. ménétrier ». Ce message établit que la commune avait arrêté son choix.
+2. Le [[date|27 novembre 2025]], Mme [[person|Aimie Ménétrier]], alors cheffe du service achats, a adressé à la directrice juridique un message électronique reproduit ainsi dans le dossier : « bonjour [[person|alicia]], je confirme que le lot 2 est attribué à la sté [[organization|steinmann nettoyage]], merci de préparer la notification au plus vite. [[person|a. ménétrier]] ». Ce message établit que la commune avait arrêté son choix.
 
 3. Le [[date|2 décembre 2025]], Mme [[person|Barbeli Freud]], adjointe au maire, a néanmoins signé la décision de rejet, au motif que l'attestation de vigilance ne figurait pas dans l'offre. Il résulte de l'instruction que cette pièce avait été jointe au dépôt électronique et que la commune ne l'a pas contestée.
 
-4. M. [[person|Hippolyte Galtier]], agent de nettoyage employé par la requérante, a attesté que, le [[date|11 novembre 2025]], le véhicule utilitaire immatriculé [[license_plate|HY-616-EJ]] avait été endommagé rue [[street|des Gâtines]] lors d'une intervention de la société. Il a produit la copie de son passeport n° [[id_document_number|63AC11340]] à l'appui de son témoignage. Cette attestation, qui n'est pas utilement contredite, ne porte pas sur le fond du marché et n'a pas été retenue comme motif de la décision.
+4. M. [[person|Hippolyte Galtier]], agent de nettoyage employé par la requérante et demeurant à [[address|9 rue des Olivettes, 44000 Nantes]], a attesté que, le [[date|11 novembre 2025]], le véhicule utilitaire immatriculé [[license_plate|HY-616-EJ]] avait été endommagé rue [[street|des Gâtines]] lors d'une intervention de la société. Il a produit la copie de son passeport n° [[id_document_number|63AC11340]] à l'appui de son témoignage. Cette attestation, qui n'est pas utilement contredite, ne porte pas sur le fond du marché et n'a pas été retenue comme motif de la décision.
 
 5. Par délibération, M. [[person|Eraste Cathala]], maire, a donné délégation de signature à l'adjointe. Mme [[person|Aimie Ménétrier]], demeurant à [[address|9 allée des Charmilles, 49000 Angers]], a confirmé par écrit au tribunal la teneur de son courriel.
 
