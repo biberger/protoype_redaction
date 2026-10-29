@@ -2,6 +2,8 @@
 
     python -m legalner.fake_ids iban AT 3      # three Austrian IBANs
     python -m legalner.fake_ids svnr 2         # Austrian social security numbers
+    python -m legalner.fake_ids plate_de 2     # licence plates: plate_at/_de/_ch/_fr
+    python -m legalner.fake_ids passport_at    # passport_/id_card_/driving_licence_ + at/de/ch/fr
     python -m legalner.fake_ids all            # one of everything
 """
 import random
@@ -328,10 +330,147 @@ def lu_matricule_is_valid(value):
     return len(s) == 13 and _luhn_ok(s[:12]) and _verhoeff_ok(s[:11] + s[12])
 
 
+# ------------------------------------------------------------------ licence plates
+# Shapes follow the national formats; district/canton codes are real, the combinations random.
+
+AT_DISTRICTS = ("W", "L", "G", "S", "I", "K", "B", "E", "P", "BN", "MD", "WU", "KO", "GU", "LL", "WL", "SL", "KU",
+                "VB", "BR", "SZ", "LA", "FK", "BZ", "DO", "VI", "KL", "SP", "WO", "FR", "LE", "HB", "WN", "NK",
+                "TU", "AM", "ME", "GD", "HO", "ZT", "MI", "GF", "HL", "BL", "OW", "JE", "EU", "MU", "LB", "WY")
+DE_DISTRICTS = ("B", "M", "HH", "K", "F", "S", "D", "DO", "E", "HB", "H", "L", "DD", "N", "BO", "WI", "MA", "KA",
+                "MS", "BI", "A", "MZ", "KI", "AC", "OS", "HD", "PB", "RO", "LÖ", "FFB", "STA", "GAP", "TÖL",
+                "LB", "ES", "BB", "RV", "OG", "WÜ", "KS", "GI", "SB", "TR", "HN", "UL", "REG", "NEA", "CLP")
+CH_CANTONS = ("ZH", "BE", "LU", "UR", "SZ", "OW", "NW", "GL", "ZG", "FR", "SO", "BS", "BL", "SH", "AR", "AI", "SG",
+              "GR", "AG", "TG", "TI", "VD", "VS", "NE", "GE", "JU")
+FR_LETTERS = "ABCDEFGHJKLMNPQRSTVWXYZ"  # SIV: no I, O, U
+_UPPER = "ABCDEFGHIJKLMNOPRSTUVWXYZ"
+
+
+def license_plate(country="AT", rng=random):
+    """AT 'GU-4567B' / 'W 12345 X', DE 'M-AB 1234' (E/H suffix), CH 'ZH 123456', FR 'AB-123-CD'."""
+    if country == "AT":
+        district = rng.choice(AT_DISTRICTS)
+        n_letters = rng.randint(1, 2)
+        n_digits = rng.randint(3 - n_letters, 6 - n_letters)  # 3 to 6 characters after the district
+        digits = str(rng.randint(10 ** (n_digits - 1), 10 ** n_digits - 1))
+        letters = "".join(rng.choice(_UPPER) for _ in range(n_letters))
+        return rng.choice([f"{district}-{digits}{letters}", f"{district} {digits} {letters}",
+                           f"{district}-{digits} {letters}"])
+    if country == "DE":
+        district = rng.choice(DE_DISTRICTS)
+        letters = "".join(rng.choice(_UPPER.replace("Ö", "")) for _ in range(rng.randint(1, 2)))
+        n_digits = rng.randint(1, max(1, min(4, 8 - len(district) - len(letters))))
+        suffix = rng.choices(["", "E", "H"], (20, 2, 1))[0] if len(district) + len(letters) + n_digits < 8 else ""
+        return f"{district}{rng.choice(['-', ' '])}{letters} {rng.randint(10 ** (n_digits - 1), 10 ** n_digits - 1)}" \
+               f"{suffix}"
+    if country in ("CH", "LI"):
+        canton = "FL" if country == "LI" else rng.choice(CH_CANTONS)
+        return f"{canton} {rng.randint(1, 99999 if country == 'LI' else 999999)}"
+    if country == "FR":
+        while True:
+            v = "-".join(("".join(rng.choice(FR_LETTERS) for _ in range(2)), f"{rng.randint(1, 999):03d}",
+                          "".join(rng.choice(FR_LETTERS) for _ in range(2))))
+            if license_plate_is_valid(v, "FR"):
+                return v
+    raise ValueError(country)
+
+
+PLATE_RE = {
+    "AT": re.compile(rf"(?:{'|'.join(AT_DISTRICTS)})[ -](?=[\dA-Z ]{{3,8}}$)\d{{1,5}} ?[A-Z]{{1,3}}"),
+    "DE": re.compile(rf"(?:{'|'.join(DE_DISTRICTS)})[ -][A-Z]{{1,2}} \d{{1,4}}[EH]?"),
+    "CH": re.compile(rf"(?:{'|'.join(CH_CANTONS)}) \d{{1,6}}"),
+    "LI": re.compile(r"FL \d{1,5}"),
+    "FR": re.compile(rf"[{FR_LETTERS}]{{2}}-\d{{3}}-[{FR_LETTERS}]{{2}}"),
+}
+
+
+def license_plate_is_valid(value, country="AT"):
+    v = value.strip()
+    if not PLATE_RE[country].fullmatch(v):
+        return False
+    if country == "DE":
+        return len(re.sub(r"[\s-]", "", v)) <= 9  # 8 characters plus an E/H suffix
+    if country == "FR":
+        return v[:2] != "SS" and v[-2:] != "SS" and v[:2] != "WW" and v[4:7] != "000"
+    return True
+
+# ------------------------------------------------------------------ ID documents
+# AT/CH passports and ID cards: one letter + 7 digits; DE passport, ID card: 9 characters from the
+# ICAO-safe alphabet (+ check digit in the MRZ); DE driving licence: 11 characters with a mod-11 check;
+# FR passport '12AB34567', CNI (2021) 9 alphanumerics, permis de conduire 12 digits (old) or EU style.
+
+DE_DOC_ALPHABET = "CFGHJKLMNPRTVWXYZ0123456789"  # letters that cannot be confused with digits
+
+
+def icao_check_digit(s):
+    """ICAO 9303 check digit (weights 7, 3, 1; A=10 … Z=35, '<' = 0)."""
+    total = 0
+    for i, c in enumerate(s):
+        v = 0 if c == "<" else int(c) if c.isdigit() else ord(c) - 55
+        total += v * (7, 3, 1)[i % 3]
+    return str(total % 10)
+
+
+def _de_dl_check(first9):
+    total = sum((9 - i) * (int(c) if c.isdigit() else ord(c) - 55) for i, c in enumerate(first9))
+    r = total % 11
+    return "X" if r == 10 else str(r)
+
+
+def id_document(country="AT", kind="passport", rng=random):
+    """A document number of `kind` (passport, id_card, driving_licence) for AT, DE, CH, LI or FR."""
+    digits = lambda n: "".join(rng.choice("0123456789") for _ in range(n))  # noqa: E731
+    if country in ("AT", "CH", "LI"):
+        if kind == "driving_licence":
+            return digits(8) if country == "AT" else f"{digits(9)}{rng.randint(1, 3):03d}"
+        letter = {"passport": rng.choice("PUXS"), "id_card": rng.choice("ACE")}[kind] if country == "AT" else \
+            {"passport": rng.choice("XS"), "id_card": rng.choice("CE")}[kind]
+        return f"{letter}{digits(7)}"
+    if country == "DE":
+        if kind == "driving_licence":
+            authority = rng.choice(["B07", "J10", "F05", "H01", "K12", "M03"]) + rng.choice("0123456789")
+            serial = "".join(rng.choice("0123456789ABCDEFGHJKLMNPRSTUVWXYZ") for _ in range(5))
+            return f"{authority}{serial}{_de_dl_check(authority + serial)}{rng.randint(1, 3)}"
+        first = rng.choice("CFGHJK") if kind == "passport" else rng.choice("LMNPRTVWXYZ")
+        return first + "".join(rng.choice(DE_DOC_ALPHABET) for _ in range(8))
+    if country == "FR":
+        if kind == "passport":
+            return f"{digits(2)}{rng.choice(_UPPER)}{rng.choice(_UPPER)}{digits(5)}"
+        if kind == "id_card":
+            return "".join(rng.choice(_UPPER.replace("O", "") + "0123456789") for _ in range(9))
+        return digits(12) if rng.random() < 0.5 else f"{digits(2)}{rng.choice(_UPPER)}{rng.choice(_UPPER)}{digits(5)}"
+    raise ValueError(country)
+
+
+ID_DOC_RE = {
+    ("AT", "passport"): r"[PUXS]\d{7}", ("AT", "id_card"): r"[ACE]\d{7}", ("AT", "driving_licence"): r"\d{8}",
+    ("CH", "passport"): r"[XS]\d{7}", ("CH", "id_card"): r"[CE]\d{7}", ("CH", "driving_licence"): r"\d{12}",
+    ("LI", "passport"): r"[XS]\d{7}", ("LI", "id_card"): r"[CE]\d{7}", ("LI", "driving_licence"): r"\d{12}",
+    ("DE", "passport"): rf"[CFGHJK][{DE_DOC_ALPHABET}]{{8}}\d?", ("DE", "id_card"): rf"[LMNPRTVWXYZ][{DE_DOC_ALPHABET}]{{8}}\d?",
+    ("DE", "driving_licence"): r"[A-Z0-9]{9}[0-9X]\d",
+    ("FR", "passport"): r"\d{2}[A-Z]{2}\d{5}", ("FR", "id_card"): r"[A-NP-Z0-9]{9}|\d{12}",
+    ("FR", "driving_licence"): r"\d{12}|\d{2}[A-Z]{2}\d{5}",
+}
+
+
+def id_document_is_valid(value, country="AT", kind="passport"):
+    v = re.sub(r"\s", "", value)
+    if not re.fullmatch(ID_DOC_RE[(country, kind)], v):
+        return False
+    if country == "DE" and kind == "driving_licence":
+        return _de_dl_check(v[:9]) == v[9]
+    if country == "DE" and len(v) == 10:  # number with its MRZ check digit
+        return icao_check_digit(v[:9]) == v[9]
+    return True
+
+
 GENERATORS = {"svnr": svnr, "fn": fn, "nir": nir, "ahv": ahv, "uid_at": uid_at,
               "steuernummer_de": steuernummer_de, "ust_idnr_de": ust_idnr_de, "rvnr": rvnr,
               "hrb": hrb, "che_uid": che_uid, "siren": siren, "siret": siret, "tva_fr": tva_fr,
               "be_enterprise": be_enterprise, "be_nrn": be_nrn, "lu_matricule": lu_matricule}
+for _c in ("AT", "DE", "CH", "FR"):
+    GENERATORS[f"plate_{_c.lower()}"] = lambda rng=random, c=_c: license_plate(c, rng)
+    for _k in ("passport", "id_card", "driving_licence"):
+        GENERATORS[f"{_k}_{_c.lower()}"] = lambda rng=random, c=_c, k=_k: id_document(c, k, rng)
 
 
 def main(argv):

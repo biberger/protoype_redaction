@@ -278,3 +278,53 @@ def test_ris_placeholder_overlap_and_land_register():
     out, spans, _ = ris.fill_placeholders(text, _FakeGaz(), random.Random(0), "Justiz")
     assert all(out[s:e] == t for _, s, e, t in spans)
     assert [lab for lab, *_ in spans][:4] == ["land_register_id"] * 4
+
+
+@pytest.mark.parametrize("country", ["AT", "DE", "CH", "FR"])
+def test_license_plates_have_national_shape(country):
+    rng = random.Random(3)
+    plates = [fake_ids.license_plate(country, rng) for _ in range(500)]
+    assert all(fake_ids.license_plate_is_valid(p, country) for p in plates)
+    assert len(set(plates)) > 400
+    assert not fake_ids.license_plate_is_valid("SS-123-AB", "FR")
+    assert not fake_ids.license_plate_is_valid("XX-123", "AT")
+
+
+@pytest.mark.parametrize("country", ["AT", "DE", "CH", "FR"])
+@pytest.mark.parametrize("kind", ["passport", "id_card", "driving_licence"])
+def test_id_documents_validate(country, kind):
+    rng = random.Random(5)
+    for _ in range(300):
+        assert fake_ids.id_document_is_valid(fake_ids.id_document(country, kind, rng), country, kind)
+
+
+def test_de_document_check_digits():
+    # ICAO 9303 specimen: document number L01X00T47 has check digit 1 in the MRZ
+    assert fake_ids.icao_check_digit("L01X00T47") == "1"
+    assert fake_ids.id_document_is_valid("L01X00T471", "DE", "id_card")
+    assert not fake_ids.id_document_is_valid("L01X00T472", "DE", "id_card")
+    dl = fake_ids.id_document("DE", "driving_licence", random.Random(1))
+    wrong = dl[:9] + ("0" if dl[9] != "0" else "1") + dl[10]
+    assert fake_ids.id_document_is_valid(dl, "DE", "driving_licence")
+    assert not fake_ids.id_document_is_valid(wrong, "DE", "driving_licence")
+
+
+def test_case_augmentation_keeps_offsets():
+    from legalner.build import _same_length_case, case_augment
+    text = "Herr Mag. Jörg Straßer, Große Gasse 3, 1010 Wien, İzmir"
+    rec = {"id": "x#0", "source": "synthetic", "doc_id": "x", "lang": "de", "jurisdiction": "AT", "text": text,
+           "spans": [{"label": "person", "start": 5, "end": 22, "text": text[5:22]},
+                     {"label": "address", "start": 24, "end": 48, "text": text[24:48]}], "meta": {}}
+    assert _same_length_case("Straße", True) == "STRAßE"
+    assert len(_same_length_case(text, False)) == len(text)
+    seen = set()
+    for seed in range(60):
+        out = case_augment(rec, random.Random(seed))
+        seen.add(out["meta"]["case_aug"])
+        assert len(out["text"]) == len(text)
+        assert out["text"].lower() == _same_length_case(text, False).lower()
+        for s in out["spans"]:
+            assert out["text"][s["start"]:s["end"]] == s["text"]
+            assert s["text"].lower() == text[s["start"]:s["end"]].lower()
+    assert seen == {"upper", "lower", "spans"}
+    assert rec["text"] == text  # the original record is not modified

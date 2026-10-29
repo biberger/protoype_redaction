@@ -6,7 +6,7 @@ with checks on span content:
 - forms of address or rank titles inside person spans (Herr, Mme, Me, Hofrat …)
 - dates without a day ("März 2024"), gazette references (BGBl., JO) tagged legal_norm
 - identifiers whose check digit is wrong (IBAN, AT SV-Nr, FN, ATU, DE USt-IdNr,
-  RV-Nr, AHV, CHE-UID, NIR, SIREN/SIRET, BE enterprise number)
+  RV-Nr, AHV, CHE-UID, NIR, SIREN/SIRET, BE enterprise number, DE driving licence)
 - identifier-shaped surfaces under the wrong label (an IBAN tagged tax_id)
 
     python -m legalner.audit data/canonical/synthetic.jsonl [--json report.json]
@@ -84,6 +84,8 @@ def identifier_problems(label, text, jurisdiction):
         digits = re.sub(r"\D", "", t)
         if len(digits) == 10:
             check(F.be_enterprise_is_valid(digits), "BE enterprise no.")
+    if label == "id_document_number" and jurisdiction == "DE" and re.fullmatch(r"[A-Z0-9]{9}[0-9X]\d", compact):
+        check(F.id_document_is_valid(compact, "DE", "driving_licence"), "DE Führerscheinnummer")
     del compact
     return out
 

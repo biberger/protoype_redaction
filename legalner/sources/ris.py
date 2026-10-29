@@ -82,11 +82,17 @@ PAGE_SIZES = {"Ten": 10, "Twenty": 20, "Fifty": 50, "OneHundred": 100}
 
 
 def search(app="Justiz", court=None, since=None, until=None, pages=1, per_page="OneHundred", text_only=True,
-           limit=None):
-    """Iterate decision references (full texts only, not Rechtssätze)."""
+           limit=None, bundesland=None, skip=()):
+    """Iterate decision references (full texts only, not Rechtssätze); ids in `skip` are left out.
+
+    `bundesland` filters LVwG decisions by state (Wien, Niederoesterreich, Oberoesterreich, Burgenland,
+    Steiermark, Kaernten, Salzburg, Tirol, Vorarlberg).
+    """
     params = {"Applikation": app, "DokumenteProSeite": per_page}
     if court:
         params["Gericht"] = court
+    if bundesland:
+        params["Bundesland"] = bundesland
     if since:
         params["EntscheidungsdatumVon"] = since
     if until:
@@ -101,7 +107,7 @@ def search(app="Justiz", court=None, since=None, until=None, pages=1, per_page="
             raise RuntimeError(payload["OgdSearchResult"]["Error"].get("Message"))
         refs, hits = parse_search(payload)
         for r in refs:
-            if text_only and r["doc_type"] not in (None, "Text"):
+            if (text_only and r["doc_type"] not in (None, "Text")) or r["id"] in skip:
                 continue
             yield r
             n += 1
@@ -711,6 +717,7 @@ def main(argv=None):
     s = sub.add_parser("search")
     s.add_argument("--app", default="Justiz", help="Justiz, Vwgh, Vfgh, Bvwg, Lvwg, Dsk …")
     s.add_argument("--court", help="e.g. OGH, OLG, LG (Justiz only)")
+    s.add_argument("--bundesland", help="LVwG state, e.g. Kaernten, Niederoesterreich")
     s.add_argument("--since")
     s.add_argument("--until")
     s.add_argument("--pages", type=int, default=1)
@@ -733,9 +740,10 @@ def main(argv=None):
         out = pathlib.Path(args.out)
         out.parent.mkdir(parents=True, exist_ok=True)
         n = 0
+        known = {json.loads(ln)["id"] for ln in open(out, encoding="utf-8") if ln.strip()} if out.exists() else set()
         with out.open("a", encoding="utf-8") as fh:
             for ref in search(args.app, args.court, args.since, args.until, args.pages, args.per_page,
-                              limit=args.limit):
+                              limit=args.limit, bundesland=args.bundesland, skip=known):
                 fh.write(json.dumps(ref, ensure_ascii=False) + "\n")
                 n += 1
         print(f"{n} references -> {out}")

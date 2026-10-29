@@ -92,6 +92,35 @@ def augment(rec, labels, rng, p_keep_pos=0.9, p_keep_neg=0.5, p_rename=0.3, p_de
     return to_example(rec, keep, names, descriptions=rng.random() < p_desc and bool(keep & set(LABELS)))
 
 
+def _same_length_case(text, upper):
+    """Upper- or lower-case `text` character by character, keeping characters whose case mapping
+    changes the length (ß -> SS, İ -> i̇), so every character offset stays valid."""
+    out = []
+    for c in text:
+        m = c.upper() if upper else c.lower()
+        out.append(m if len(m) == 1 else c)
+    return "".join(out)
+
+
+def case_augment(rec, rng):
+    """Copy of `rec` with the whole text or single entity spans in ALL CAPS or all lower case
+    (letterheads, party blocks, e-mails, OCR). Offsets are unchanged."""
+    text = rec["text"]
+    mode = rng.choices(("upper", "lower", "spans"), (0.4, 0.3, 0.3))[0]
+    if mode != "spans" or not rec["spans"]:
+        text = _same_length_case(text, upper=mode != "lower")
+    else:
+        chosen = {(s["start"], s["end"]) for s in rec["spans"] if rng.random() < 0.5} or \
+            {(lambda s: (s["start"], s["end"]))(rng.choice(rec["spans"]))}
+        upper = rng.random() < 0.6
+        chars = list(text)
+        for start, end in chosen:
+            chars[start:end] = _same_length_case(text[start:end], upper)
+        text = "".join(chars)
+    spans = [dict(s, text=text[s["start"]:s["end"]]) for s in rec["spans"]]
+    return dict(rec, text=text, spans=spans, meta=dict(rec.get("meta", {}), case_aug=mode))
+
+
 def read_records(paths):
     for path in paths:
         with open(path, encoding="utf-8") as fh:
@@ -111,6 +140,8 @@ def main(argv=None):
     ap.add_argument("--max-eval-per-source", type=int, default=0,
                     help="cap dev/test records per source (0 = all), e.g. for CPU smoke runs")
     ap.add_argument("--exclude-docs", help="file with doc_ids to drop entirely (e.g. data/gold/at/doc_ids.txt)")
+    ap.add_argument("--case-frac", type=float, default=0.1,
+                    help="share of training examples whose text or single spans are upper/lower-cased")
     ap.add_argument("--seed", type=int, default=13)
     args = ap.parse_args(argv)
 
@@ -142,7 +173,10 @@ def main(argv=None):
         n = 0
         for _ in range(args.copies):
             for rec in train:
-                fh.write(json.dumps(augment(rec, query_labels(rec), rng), ensure_ascii=False) + "\n")
+                labels = query_labels(rec)
+                if rng.random() < args.case_frac:
+                    rec = case_augment(rec, rng)
+                fh.write(json.dumps(augment(rec, labels, rng), ensure_ascii=False) + "\n")
                 n += 1
     stats["train"] = n
     for split in ("dev", "test"):
