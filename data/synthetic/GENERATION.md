@@ -58,7 +58,8 @@ RIS Rechtssatz numbers, URLs, amounts, months or years without a day, generic co
 ## Annotation rules
 
 - Forms of address and job or rank titles are outside the span: Herr, Frau, M., Mme, Me, Fa., Hofrat,
-  Senatspräsident, GrInsp. Academic degrees are inside: Dr., Mag., DI, Ing., MMag., LL.M., Dr. med.
+  Senatspräsident, GrInsp. Academic degrees are inside, before and after the name, including chains and a bracketed
+  place of the degree: `[[person|Prof. Dr. Dr. Max Mustermann, MBA PhD (New York)]]`, `[[person|Nele Löw, MBA]]`.
 - A judge or lawyer keeps the role label at every mention in the document (`[[judge|Taufner]]`).
 - No nesting: "Kanzlei Dr. Hutterer & Partner Rechtsanwälte GmbH" and "Linz Textil GmbH" are one
   organization span; "Landesgericht Linz" is one court span.
@@ -105,3 +106,34 @@ RIS Rechtssatz numbers, URLs, amounts, months or years without a day, generic co
   contain them (contracts, applications, letters), not in the reasoning of a judgment.
 - Real courts, authorities, places and statutes are fine. Persons, companies and case facts must be
   invented; do not reproduce real decisions or real people.
+
+## Gold-set decisions (2026-10-29)
+
+Settled with the project lead after the agent review of the Austrian gold set; they apply to all data.
+
+1. `judge` = persons who judge (judges, Rechtspfleger, panel members, Gerichtskommissär only if a judge).
+   `lawyer` = Rechtsanwalt and notary (incl. Gerichtskommissär/Verlassenschaftskurator when they are notaries or
+   lawyers). Officials, clerks, Gerichtsvollzieher, BFA/DSB caseworkers, experts, doctors, tax advisers and
+   prosecutors are `person`.
+2. Representatives whose profession is not stated (Bevollmächtigter, "Vertreter", Testamentsvollstrecker) are
+   `person` unless the document calls them Rechtsanwalt or notary. Reason: the redaction policy may leave
+   judge/lawyer names unmasked; a private representative wrongly labelled lawyer would leak.
+3. Signatures under "Für die Richtigkeit der Ausfertigung" are `person`.
+4. Degrees before and after the name are inside the span (see Annotation rules); MBA, BSc, MSc, BA, PhD count.
+5. An abbreviation in parentheses after the full name is a second span; the brackets stay outside. Bare authority
+   abbreviations (BH, BFA, DSB) are `organization`.
+6. Generic words without a name or place ("des Finanzamtes", "der Bank", "Landesverwaltungsgericht",
+   "Wirtschaftskammer") are untagged; unique federal bodies ("Datenschutzbehörde", "Bundesamt für …") are tagged.
+7. A place inside a name or unit ("Regionaldirektion Steiermark", "Werk Reichersberg", a painting title) is not a
+   separate location. "im Bezirk [[location|Hartberg]]"; "[[location|Republik Moldau]]" as a whole.
+8. A date range is one date span ("vom 1. bis 15. Juni 2025"); day and month without year are a date;
+   recurring yearless dates ("jeweils am 31. März") are untagged.
+9. A party's own file, policy or customer numbers are `other_identifier`; delivery-note and invoice numbers are
+   untagged; prefixes (GZ, Zl., SNR) stay outside the span.
+10. A norm chain within one act is one span (`§ 146 iVm § 147 Abs 3 StGB`); "§ 14 Abs 2" without act is tagged
+    when it cites a statute, not as a section heading of a contract ("§ 10 Laufzeit").
+11. Long act names without § and "UN-Kaufrecht" are `legal_norm`.
+12. OCR noise and line breaks stay inside spans as written. Documents and passages in ALL CAPS or all lower case
+    occur (letterheads, party blocks, OCR, e-mails) and are tagged like normal text.
+13. Generation artefacts (one person under two names, doubled degrees, impossible dates, garbled names) are fixed
+    in the text of gold files; training data is left as is.

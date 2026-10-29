@@ -204,13 +204,17 @@ Done on branch `ccr-45f5c65f-g4rgnu` (continues `ccr-40b02117-uffvk3`):
    BE national register number, LU matricule, each with a validator.
 
 Next, in order:
-1. Human review of the gold set; settle the convention questions in `GENERATION.md` (officials/clerks/agents,
-   post-nominal degrees, abbreviations in parentheses, date ranges).
+1. Gold set: apply the settled conventions (`GENERATION.md`, "Gold-set decisions") to the 400 agent-reviewed
+   paragraphs, fix generation artefacts in gold texts.
 2. RIS: add `data/canonical/ris.jsonl` to the main build; select RIS paragraphs for the gold set
    (`goldset select data/canonical/ris.jsonl`); fix the open address-span gaps (LVwG Tirol, VwG Wien) and the
    VwGH `Mag. [B]` style; fetch more LVwG/LG decisions.
-3. Synthetic v4 plan oversampling rare labels (street, id_document_number, license_plate, phone, email) and
-   fixing LU/BE social security numbers (v3 LU/BE docs carry French NIR format).
+3. Synthetic v4 (2,000 docs) oversampling rare labels (street, id_document_number, license_plate, phone, email)
+   with new fake_ids generators for plates and ID documents, degree chains before/after names, ALL-CAPS and
+   lower-case passages, and correct LU/BE social security numbers (v3 LU/BE docs carry French NIR format).
+   Case augmentation in the build (whole records and single spans upper/lower-cased) for all sources.
+   Mix target: LER ≤ 40% (cap ≈16k sentences), synthetic ≈ 30%, RIS ≈ 15% (no chunk cap; ~1,000 more decisions,
+   mostly LVwG/LG/OLG; BVwG balanced per court in the build), replay ≈ 15%.
 4. First GPU run: `legalner.build data/canonical/{synthetic,synthetic_v1,synthetic_v3,replay}.jsonl
    data/canonical/ler/*.jsonl data/canonical/mapa/*.jsonl data/canonical/gold_at.jsonl --exclude-docs
    data/gold/at/doc_ids.txt -o data/build/v1`, then `legalner.train` (bf16) and `legalner.evaluate` on the
@@ -222,6 +226,7 @@ Next, in order:
 
 ## Open questions
 
-- Which labels does the redaction policy actually mask? (Probably all `pii` group labels plus
-  `person` except `judge`.)
+- Which labels does the redaction policy actually mask? Likely all `pii` group labels plus every `person` that is
+  not also `judge` or `lawyer` (lawyers and judges acting professionally are published in RIS). The role labels
+  exist so the policy can make that choice; unclear roles are labelled `person` (fail safe).
 - Swiss Italian and Romansh: out of scope for now.
