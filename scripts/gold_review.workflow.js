@@ -3,7 +3,7 @@ export const meta = {
   description: 'Reviewer agents correct the tags of Austrian gold-set paragraphs (first pass before human review)',
   phases: [{ title: 'Review' }],
 }
-// args: { groups: [[repo-relative pending paths], ...] }
+// args: { n: number of reviewers }; reviewer i takes every n-th file (offset i) of the sorted pending list
 const root = '/home/user/protoype_redaction'
 const RESULT = {
   type: 'object',
@@ -16,7 +16,7 @@ const RESULT = {
   },
   required: ['reviewed', 'changes', 'unsure'],
 }
-const results = await parallel(args.groups.map((files, i) => () => agent(
+const results = await parallel(Array.from({ length: args.n }, (_, i) => () => agent(
 `You review annotations for a gold evaluation set of an NER model for legal texts. Precision matters more than speed.
 Working directory: ${root}.
 
@@ -34,8 +34,8 @@ Working directory: ${root}.
    and fix any error or warning that concerns your files (other reviewers write to the same directory; ignore theirs).
 5. Report every change you made and list cases you were unsure about as questions for the human reviewer.
 
-Files:
-${files.map(f => `- ${root}/${f}`).join('\n')}`,
+Your files are the paths in data/gold/at/assignments.tsv whose first column is ${i}:
+\`awk -F'\\t' '$1 == ${i} {print $2}' data/gold/at/assignments.tsv\` (paths are under pending/; once moved they are in reviewed/).`,
   { label: `gold:${i}`, phase: 'Review', schema: RESULT, model: 'sonnet' })
 ))
 return results

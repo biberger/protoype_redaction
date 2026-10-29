@@ -272,10 +272,66 @@ def hrb(rng=random, kind=None):
     return f"{kind} {n}" + (" B" if rng.random() < 0.1 else "")
 
 
+def be_nrn(rng=random):
+    """Belgian national register number YY.MM.DD-SSS.CC (mod 97; '2' prefix for births from 2000)."""
+    y, m, d = rng.randint(1940, 2008), rng.randint(1, 12), rng.randint(1, 28)
+    serial = rng.randint(1, 997)
+    body = f"{y % 100:02d}{m:02d}{d:02d}{serial:03d}"
+    check = 97 - int(("2" if y >= 2000 else "") + body) % 97
+    return f"{body[:2]}.{body[2:4]}.{body[4:6]}-{body[6:9]}.{check:02d}"
+
+
+def be_nrn_is_valid(value):
+    s = re.sub(r"\D", "", value)
+    if len(s) != 11:
+        return False
+    return any(97 - int(prefix + s[:9]) % 97 == int(s[9:]) for prefix in ("", "2"))
+
+
+# standard Verhoeff tables (dihedral group D5)
+_VERHOEFF_D = [
+    [0, 1, 2, 3, 4, 5, 6, 7, 8, 9], [1, 2, 3, 4, 0, 6, 7, 8, 9, 5], [2, 3, 4, 0, 1, 7, 8, 9, 5, 6],
+    [3, 4, 0, 1, 2, 8, 9, 5, 6, 7], [4, 0, 1, 2, 3, 9, 5, 6, 7, 8], [5, 9, 8, 7, 6, 0, 4, 3, 2, 1],
+    [6, 5, 9, 8, 7, 1, 0, 4, 3, 2], [7, 6, 5, 9, 8, 2, 1, 0, 4, 3], [8, 7, 6, 5, 9, 3, 2, 1, 0, 4],
+    [9, 8, 7, 6, 5, 4, 3, 2, 1, 0]]
+_VERHOEFF_P = [
+    [0, 1, 2, 3, 4, 5, 6, 7, 8, 9], [1, 5, 7, 6, 2, 8, 3, 0, 9, 4], [5, 8, 0, 3, 7, 9, 6, 1, 4, 2],
+    [8, 9, 1, 6, 0, 4, 3, 5, 2, 7], [9, 4, 5, 3, 1, 2, 6, 8, 7, 0], [4, 2, 8, 6, 5, 7, 3, 9, 0, 1],
+    [2, 7, 9, 3, 8, 0, 6, 4, 1, 5], [7, 0, 4, 6, 9, 1, 3, 2, 5, 8]]
+_VERHOEFF_INV = [0, 4, 3, 2, 1, 5, 6, 7, 8, 9]
+
+
+def _verhoeff_check(digits):
+    c = 0
+    for i, x in enumerate(reversed(digits + "0")):
+        c = _VERHOEFF_D[c][_VERHOEFF_P[i % 8][int(x)]]
+    return _VERHOEFF_INV[c]
+
+
+def _verhoeff_ok(digits):
+    c = 0
+    for i, x in enumerate(reversed(digits)):
+        c = _VERHOEFF_D[c][_VERHOEFF_P[i % 8][int(x)]]
+    return c == 0
+
+
+def lu_matricule(rng=random):
+    """Luxembourg national identification number YYYYMMDDXXXCC (13 digits):
+    birth date, serial, Luhn check digit, Verhoeff check digit (both over the first 11 digits)."""
+    body = f"{rng.randint(1940, 2008)}{rng.randint(1, 12):02d}{rng.randint(1, 28):02d}{rng.randint(0, 999):03d}"
+    luhn = _luhn_complete(body)[-1]
+    return f"{body[:4]} {body[4:8]} {body[8:]}{luhn}{_verhoeff_check(body)}"
+
+
+def lu_matricule_is_valid(value):
+    s = re.sub(r"\D", "", value)
+    return len(s) == 13 and _luhn_ok(s[:12]) and _verhoeff_ok(s[:11] + s[12])
+
+
 GENERATORS = {"svnr": svnr, "fn": fn, "nir": nir, "ahv": ahv, "uid_at": uid_at,
               "steuernummer_de": steuernummer_de, "ust_idnr_de": ust_idnr_de, "rvnr": rvnr,
               "hrb": hrb, "che_uid": che_uid, "siren": siren, "siret": siret, "tva_fr": tva_fr,
-              "be_enterprise": be_enterprise}
+              "be_enterprise": be_enterprise, "be_nrn": be_nrn, "lu_matricule": lu_matricule}
 
 
 def main(argv):

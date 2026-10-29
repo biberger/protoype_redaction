@@ -122,6 +122,7 @@ def test_fake_ids_are_valid():
     ("ahv", "ahv_is_valid"), ("nir", "nir_is_valid"), ("che_uid", "che_uid_is_valid"),
     ("ust_idnr_de", "ust_idnr_de_is_valid"), ("rvnr", "rvnr_is_valid"),
     ("siren", "siren_is_valid"), ("siret", "siren_is_valid"), ("be_enterprise", "be_enterprise_is_valid"),
+    ("be_nrn", "be_nrn_is_valid"), ("lu_matricule", "lu_matricule_is_valid"),
 ])
 def test_fake_ids_validate(gen, valid):
     rng = random.Random(0)
@@ -135,6 +136,8 @@ def test_fake_id_validators_on_published_examples():
     assert fake_ids.siren_is_valid("780 129 987")
     assert not fake_ids.siren_is_valid("780 129 988")
     assert not fake_ids.che_uid_is_valid("CHE-116.281.711")
+    assert fake_ids.be_nrn_is_valid("85.07.30-033.28")      # Belgian example number
+    assert fake_ids._verhoeff_ok("2363")                     # textbook Verhoeff example
 
 
 def test_audit_flags_titles_dates_and_check_digits():

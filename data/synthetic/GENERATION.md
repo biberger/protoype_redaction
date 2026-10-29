@@ -93,7 +93,7 @@ RIS Rechtssatz numbers, URLs, amounts, months or years without a day, generic co
   tables as text, lists of parties, 1 in 10 documents RIS-pseudonymised, 1 in 10 with OCR noise.
 - Identifiers with valid check digits: use `python3 -m legalner.fake_ids all` (or `iban AT 3`,
   `svnr`, `fn`, `uid_at`, `ust_idnr_de`, `steuernummer_de`, `rvnr`, `hrb`, `ahv`, `che_uid`, `nir`,
-  `siren`, `siret`, `tva_fr`, `be_enterprise`) instead of inventing numbers. `python -m legalner.audit`
+  `siren`, `siret`, `tva_fr`, `be_enterprise`, `be_nrn`, `lu_matricule`) instead of inventing numbers. `python -m legalner.audit`
   rejects wrong check digits.
 - Internal consistency (the pilot audit found ~3 problems per document): dates in order (no statement
   describing later events), amounts that add up, court competence and district matching the places

@@ -67,6 +67,10 @@ def identifier_problems(label, text, jurisdiction):
             check(F.ahv_is_valid(t), "AHV")
         elif jurisdiction == "DE" and re.fullmatch(r"\d{2}\s?\d{6}\s?[A-Z]\s?\d{3}", t):
             check(F.rvnr_is_valid(t), "RV-Nr")
+        elif jurisdiction == "BE" and re.fullmatch(r"\d{2}\.?\d{2}\.?\d{2}-?\d{3}\.?\d{2}", t):
+            check(F.be_nrn_is_valid(t), "BE national register no.")
+        elif jurisdiction == "LU" and len(re.sub(r"\D", "", t)) == 13 and re.fullmatch(r"[\d ]+", t):
+            check(F.lu_matricule_is_valid(t), "LU matricule")
         elif jurisdiction in ("FR", "BE", "LU") and re.fullmatch(r"[12](\s?\d|\s?2[AB]){12,13}\s?\d{2}", t):
             check(F.nir_is_valid(t), "NIR")
     if jurisdiction == "FR" and label in ("company_register_number", "tax_id"):

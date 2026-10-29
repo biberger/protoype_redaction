@@ -152,8 +152,12 @@ def _identifiers(rng, jur):
         ids["social_security_number"] = F.rvnr(rng)
     elif jur in ("CH", "LI"):
         ids["social_security_number"] = F.ahv(rng)
-    elif jur in ("FR", "LU", "BE"):
+    elif jur == "FR":
         ids["social_security_number"] = F.nir(rng)
+    elif jur == "BE":
+        ids["social_security_number"] = F.be_nrn(rng)
+    elif jur == "LU":
+        ids["social_security_number"] = F.lu_matricule(rng)
     return ids
 
 
