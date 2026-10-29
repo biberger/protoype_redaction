@@ -21,7 +21,7 @@ Die Verkäuferin verkauft dem Käufer den Personenwagen Skoda Octavia Combi 2.0 
 
 2. Kaufpreis und Zahlung
 
-Der Kaufpreis beträgt CHF 14'800.– inklusive Mehrwertsteuer. Der Käufer bezahlt den Betrag bis spätestens [[date|7. August 2026]] auf das Konto [[bank_account|CH30 4275 0339 8796 8021 6]] der Verkäuferin. Bischofberger leistet eine Anzahlung von CHF 2'000.– bei Vertragsunterzeichnung.
+Der Kaufpreis beträgt CHF 14'800.– inklusive Mehrwertsteuer. Der Käufer bezahlt den Betrag bis spätestens [[date|7. August 2026]] auf das Konto [[bank_account|CH30 4275 0339 8796 8021 6]] der Verkäuferin. [[person|Bischofberger]] leistet eine Anzahlung von CHF 2'000.– bei Vertragsunterzeichnung.
 
 3. Eigentumsvorbehalt
 
@@ -37,7 +37,7 @@ Die Garage erhält von der Verkäuferin eine Vermittlungsprovision von CHF 450.�
 
 6. Schlussbestimmungen
 
-Änderungen dieses Vertrags bedürfen der Schriftform. Bischofbergers Unterschrift gilt zugleich als Bestätigung der Angaben zur Halterschaft. Für Streitigkeiten ist das [[court|Bezirksgericht Greyerz]] zuständig. Der Vertrag wird in dreifacher Ausfertigung erstellt und von allen Parteien unterzeichnet.
+Änderungen dieses Vertrags bedürfen der Schriftform. [[person|Bischofbergers]] Unterschrift gilt zugleich als Bestätigung der Angaben zur Halterschaft. Für Streitigkeiten ist das [[court|Bezirksgericht Greyerz]] zuständig. Der Vertrag wird in dreifacher Ausfertigung erstellt und von allen Parteien unterzeichnet.
 
 [[location|Bulle]], den [[date|24. Juli 2026]]
 
@@ -45,4 +45,4 @@ Für die Verkäuferin: [[person|Sinachi Friedrich]]
 
 Der Käufer: [[person|Solal Bischofberger]]
 
-Die Vermittlerin: [[person|Bledon Bächtold]]
+Der Vermittler: [[person|Bledon Bächtold]]
