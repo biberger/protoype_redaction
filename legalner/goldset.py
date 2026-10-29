@@ -12,6 +12,7 @@ Workflow:
    (source "gold_at", eval only).
 
     python -m legalner.goldset select data/canonical/synthetic_v3.jsonl --n 400
+    python -m legalner.goldset select data/canonical/ris.jsonl --n 150 --first-chunks 6
     python -m legalner.goldset export
 """
 import argparse
@@ -41,9 +42,11 @@ def to_tagged(rec):
     return "".join(out)
 
 
-def select(paths, n, seed, min_chars=200, per_doc=3):
-    from legalner.build import read_records
-    recs = [r for r in read_records(paths) if r["jurisdiction"] == "AT" and len(r["text"]) >= min_chars]
+def select(paths, n, seed, min_chars=200, per_doc=3, first_chunks=0):
+    """`first_chunks` > 0 keeps only the first chunks of each document (RIS: Kopf and facts, not country reports)."""
+    from legalner.build import read_records, _chunk_index
+    recs = [r for r in read_records(paths) if r["jurisdiction"] == "AT" and len(r["text"]) >= min_chars
+            and (not first_chunks or _chunk_index(r) < first_chunks)]
     # whole documents are held out of training, so take up to `per_doc` paragraphs per document
     docs = collections.defaultdict(list)
     for r in recs:
@@ -99,10 +102,11 @@ def main(argv=None):
     s.add_argument("data", nargs="+")
     s.add_argument("--n", type=int, default=400)
     s.add_argument("--seed", type=int, default=7)
+    s.add_argument("--first-chunks", type=int, default=0, help="only the first N chunks of each document")
     sub.add_parser("export")
     args = ap.parse_args(argv)
     if args.cmd == "select":
-        select(args.data, args.n, args.seed)
+        select(args.data, args.n, args.seed, first_chunks=args.first_chunks)
     else:
         export()
 
