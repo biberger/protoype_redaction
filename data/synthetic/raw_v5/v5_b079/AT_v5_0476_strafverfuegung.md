@@ -17,7 +17,7 @@ Zustellung an den Vertreter: Rechtsanwalt [[lawyer|Seraphinus Maly]]
 
 STRAFVERFÜGUNG
 
-Die Bezirkshauptmannschaft Hartberg-Fürstenfeld erlässt gegen Sie als Verwaltungsübertreter folgende Strafverfügung:
+Die [[organization|Bezirkshauptmannschaft Hartberg-Fürstenfeld]] erlässt gegen Sie als Verwaltungsübertreter folgende Strafverfügung:
 
 Spruch
 

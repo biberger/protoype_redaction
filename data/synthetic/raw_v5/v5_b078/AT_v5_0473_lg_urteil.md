@@ -29,7 +29,7 @@ Die klagenden Parteien ließen im Frühjahr 2024 das Dach ihres Wohnhauses erneu
 
 Die beklagte Partei verwendete für die Korrespondenz ein Schreiben mit folgendem Briefkopf:
 
-HINTEREGGER & FEIERSINGER E.U.
+[[organization|HINTEREGGER & FEIERSINGER E.U.]]
 [[address|MÜHLANGERGASSE 6/8, 4714 MEGGENHOFEN]]
 TEL. [[phone_number|07734 4413]] - FAX DW 9
 
@@ -37,11 +37,15 @@ Mit Schreiben vom [[date|18. Juni 2024]] bestätigte die beklagte Partei die Abn
 
 Die klagenden Parteien bringen vor, die Schäden seien auf einen fehlerhaften Einbau der Unterspannbahn zurückzuführen und seien seit dem [[date|3. Dezember 2024]] sichtbar. Mit anwaltlichem Schreiben vom [[date|9. Jänner 2025]] forderten sie die Mängelbehebung; die beklagte Partei kam dem nicht nach.
 
+Die beklagte Partei beantragte in ihrer Klagebeantwortung vom [[date|4. Juni 2025]] die Abweisung des Klagebegehrens. Sie wendete ein, die klagenden Parteien hätten das Dach nach der Abnahme selbst begangen und einen Kaminanschluss eigenständig nachgedichtet, wodurch der Wassereintritt begünstigt worden sei. Die klagenden Parteien bestritten diesen Vorwurf in der Replik vom [[date|2. Oktober 2025]] und legten Fotos der Dachfläche aus dem Jahr 2024 vor. Die Dachfläche war auf den Fotos ohne Beschädigung am Kamin zu sehen.
+
 II. Beweisverfahren
 
 Am [[date|3. Dezember 2024]] zeigten sich im Dachgeschoss Feuchtigkeitsschäden an der Holzkonstruktion und an der Dämmung. Der Zeuge [[person|Hartmut Reiche]], Nachbar auf der Liegenschaft am [[street|Kranewitweg]], bestätigte, dass er den Wassereintritt bereits im Herbst beobachtet hatte. Der Zeuge wies sich mit dem Personalausweis Nr. [[id_document_number|A0109487]] aus.
 
-Die Zeugin [[person|Dr. med. Rositha Riedl]] ist Hausärztin der klagenden Parteien. Sie gab an, dass Frau [[person|Mentel]] die Schäden erstmals im Dezember bemerkte und seither mit Atemwegsbeschwerden in ihrer Behandlung war, die sie auf die feuchte Raumluft zurückführt. Die Zeugin [[person|Riedl]] hält einen ursächlichen Zusammenhang für möglich, aber nicht für sicher.
+Die Zeugin [[person|Dr. med. Rositha Riedl]] ist Hausärztin der klagenden Parteien. Sie gab an, dass Frau [[person|Mentel]] die Schäden erstmals im Dezember bemerkte und seither mit Atemwegsbeschwerden in ihrer Behandlung war, die sie auf die feuchte Raumluft zurückführt. In der Tagsatzung vom [[date|3. Februar 2026]] wurde das Gutachten erörtert. Die Sachverständige ergänzte es schriftlich am [[date|9. Februar 2026]] dahin, dass die Schadenshöhe auch bei einer Sanierung in Teilabschnitten gleich bleibt.
+
+Die Zeugin [[person|Riedl]] hält einen ursächlichen Zusammenhang für möglich, aber nicht für sicher.
 
 Die gerichtlich bestellte Sachverständige [[person|Ulla Hohenegger-Strasser]] stellte fest, dass die Unterspannbahn an mehreren Stellen nicht überlappend verlegt war. Die Dämmung im Bereich der Traufe war ohne ausreichende Hinterlüftung eingebaut. Die Mängelbehebung kostet nach dem Gutachten 6.240 Euro netto.
 
@@ -49,9 +53,11 @@ Der Firmenwagen der beklagten Partei mit dem Kennzeichen [[license_plate|GR-5409
 
 III. Beweiswürdigung
 
-Das Gericht stützt seine Feststellungen auf das schlüssige Gutachten der Sachverständigen, die den Befund am Objekt selbst erhoben hat. Die Angaben des Zeugen Reiche zum Wassereintritt im Herbst 2024 sind glaubwürdig, weil er die Stelle zuvor selbst fotografiert hatte. Die Aussage der Zeugin Riedl ist vorsichtig formuliert und wird nur insoweit berücksichtigt, als sie die Schilderung der Klägerin stützt.
+Das Gericht stützt seine Feststellungen auf das schlüssige Gutachten der Sachverständigen, die den Befund am Objekt selbst erhoben hat. Die Angaben des Zeugen [[person|Reiche]] zum Wassereintritt im Herbst 2024 sind glaubwürdig, weil er die Stelle zuvor selbst fotografiert hatte. Die Aussage der Zeugin [[person|Riedl]] ist vorsichtig formuliert und wird nur insoweit berücksichtigt, als sie die Schilderung der Klägerin stützt.
 
 Die Einwendung der beklagten Partei, die Dämmung sei auf Wunsch der Kläger ohne Hinterlüftung ausgeführt worden, konnte nicht bewiesen werden. Ein schriftlicher Auftrag dazu fehlt; die Kläger haben einen mündlichen Hinweis bestritten, und die beklagte Partei hat die Abweichung von der Norm nicht dokumentiert.
+
+Die Forderung auf Ersatz der Nebenkosten für Gerüst, Entsorgung und Trocknungsgeräte in Höhe von 3.815 Euro ist nicht ausreichend belegt. Die vorgelegten Rechnungen tragen kein Leistungsdatum und sind teilweise an eine dritte Person adressiert. Insoweit war das Mehrbegehren abzuweisen.
 
 Rechtliche Beurteilung
 
@@ -61,7 +67,11 @@ Die Ersatzpflicht für die Folgeschäden beruht auf [[legal_norm|§ 1295 Abs 1 A
 
 Der Zinsanspruch ergibt sich aus [[legal_norm|§ 1333 Abs 1 ABGB]]. Die Verzinsung beginnt mit dem Zeitpunkt der Mahnung.
 
+Die klagenden Parteien haben die Trocknungsgeräte rechtzeitig aufgestellt und die Dachfläche provisorisch abgedeckt. Die Obliegenheit zur Schadensminderung nach [[legal_norm|§ 1304 ABGB]] ist damit erfüllt. Die Klage wurde innerhalb der gesetzlichen Gewährleistungsfrist eingebracht, sodass auch der Einwand der Verjährung ins Leere geht.
+
 Die Kostenentscheidung beruht auf [[legal_norm|§§ 41, 50 ZPO]]. Die klagenden Parteien sind mit rund 37 % ihres Begehrens unterlegen; die beklagte Partei trägt die Kosten im Verhältnis des Obsiegens.
+
+Die Gebühren der Sachverständigen in Höhe von 2.150 Euro hat die klagende Partei vorgeschossen. Sie sind im Verhältnis des Obsiegens von der beklagten Partei zu tragen, soweit die Kosten auf die Mängelbehebung entfallen. Der Kostenvorschuss von 1.200 Euro ist in den Prozesskosten bereits berücksichtigt.
 
 Die Kostenentscheidung ist nicht anfechtbar; gegen dieses Urteil steht den Parteien das Rechtsmittel der Berufung innerhalb von vier Wochen ab Zustellung offen.
 

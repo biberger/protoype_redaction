@@ -20,7 +20,7 @@ B. Le lendemain, le prévenu avait écrit à [[person|Meropi Vogel]] un message 
 
 C. [[person|Ashkan Diggelmann]], gérant de [[organization|Distribution Dahinden Sàrl]], domicilié à [[address|Gujerstrasse 16, 9506 Kalthäusern]], a déclaré que [[person|Geisser]] conduisait le véhicule avec son accord. La responsabilité civile a été gérée par [[organization|Stapfer Conseil AG]] ([[company_register_number|CHE-770.448.869]]), courtier mandaté par l'employeur.
 
-D. [[person|Meropi Vogel]], compagne de la victime, domiciliée à [[address|Ulrichstrasse 7, 1423 Villars-Burquin]], a produit les factures médicales de [[person|Vogelsanger]].
+D. [[person|Meropi Vogel]], domiciliée à [[address|Ulrichstrasse 7, 1423 Villars-Burquin]], a produit les factures médicales de [[person|Vogelsanger]].
 
 E. Le [[organization|Service des automobiles et de la navigation]] ([[organization|SAN]]) a retiré le permis de conduire n° [[id_document_number|964021173003]] de [[person|Tomohiro Geisser]] pour une durée de douze mois, par décision du [[date|21 mars 2025]].
 
@@ -32,7 +32,7 @@ Considérants:
 
 2. Le recours est recevable au regard de l'[[legal_norm|art. 90 LTF]] et de l'[[legal_norm|art. 100 al. 1 LTF]], le recours ayant été déposé le [[date|17 novembre 2025]].
 
-3. Le recourant ne démontre pas en quoi l'établissement des faits serait manifestement inexact au sens de l'[[legal_norm|art. 97 al. 1 LTF]]. Les déclarations de [[person|Diggelmann]] confirment la version retenue, et le message de [[person|Geisser]] n'est pas contesté dans sa teneur.
+3. Le recourant ne démontre pas en quoi l'établissement des faits serait manifestement inexact au sens de l'[[legal_norm|art. 97 al. 1 LTF]]. Les déclarations de [[person|Diggelmann]] confirment la version retenue.
 
 4. Quant à la peine, la cour cantonale a correctement pris en compte la culpabilité et la prise de risque de l'auteur, conformément à l'[[legal_norm|art. 47 CP]].
 

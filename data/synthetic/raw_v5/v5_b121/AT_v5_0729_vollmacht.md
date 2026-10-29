@@ -40,7 +40,17 @@ Zur Abholung der Materialien verwendet die Klägerin den Lkw mit dem Kennzeichen
 
 Eine frühere Vollmacht für [[person|Tiberius Straus]] als Vertreter der Gegnerin vom [[date|05.11.2025]] ist erloschen. Die Gegnerin hat mit Schreiben vom [[date|14.01.2026]] bestätigt, dass [[person|Straus]] nicht mehr für die Gegnerin im Verfahren auftritt.
 
-7. Schlussbestimmungen
+7. Kostenersatz und Honorar
+
+Die Klägerin ermächtigt die Bevollmächtigte, Kosten des Verfahrens, insbesondere Gerichtsgebühren, Barauslagen und Sachverständigengebühren, zu bevorschussen. Die Bevollmächtigte ist berechtigt, im Falle des Obsiegens den Kostenersatz nach [[legal_norm|§ 41 ZPO]] iVm [[legal_norm|§ 50 ZPO]] und [[legal_norm|§ 1 RATG]] iVm [[legal_norm|§ 14 RATG]] geltend zu machen.
+
+Die Vereinbarung eines Erfolgshonorars nach [[legal_norm|§ 879 Abs 3 ABGB]] iVm [[legal_norm|§ 16 RAO]] bleibt einer gesonderten schriftlichen Vereinbarung vorbehalten, die nicht Gegenstand dieser Vollmacht ist.
+
+8. Datenschutz
+
+Die Klägerin nimmt zur Kenntnis, dass die Bevollmächtigte personenbezogene Daten des Vollmachtgebers, einschließlich der Angaben zu [[person|Mag. Sigmund Piller]], nach [[legal_norm|Art. 6 Abs 1 lit b DSGVO]] iVm [[legal_norm|§ 9 RAO]] verarbeitet. Die Betroffenen können Auskunft nach [[legal_norm|Art. 15 DSGVO]] verlangen.
+
+9. Schlussbestimmungen
 
 Diese Vollmacht ist bis zu ihrem schriftlichen Widerruf gültig. Sie erlischt nicht durch den Tod des Vollmachtgebers, sofern das Unternehmen fortbesteht. Die Bevollmächtigte nimmt die Vollmacht an.
 
