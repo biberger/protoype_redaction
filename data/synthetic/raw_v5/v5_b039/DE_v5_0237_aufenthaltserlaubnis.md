@@ -43,7 +43,7 @@ Eine Vorprüfung der Unterlagen durch das Referat für Arbeitsmarktfragen hat er
 **2. Nebenbestimmungen**
 
 a) Die Erlaubnis erlischt, wenn die Beschäftigung bei dem genannten Arbeitgeber endet, ohne dass eine Anschlussbeschäftigung nachgewiesen wird.
-b) Eine Änderung der Anschrift ist innerhalb von zwei Wochen mitzuteilen.
+b) Eine Änderung der Anschrift ist innerhalb von zwei Wochen mitzuteilen. Die Behörde ist berechtigt, die Erlaubnis zu widerrufen oder nachträglich zu beschränken, wenn die Voraussetzungen nach Erteilung wegfallen oder falsche Angaben im Antrag festgestellt werden.
 c) Die Erlaubnis ist nur wirksam, wenn die Ärztekammer die Gleichwertigkeit der Berufsqualifikation vor Aufnahme der Tätigkeit bestätigt hat. Der Nachweis ist bis zum [[date|30. November 2026]] vorzulegen.
 
 **3. Mitgeteilte Daten und Ansprechpersonen**
@@ -57,7 +57,7 @@ Name | Funktion | Gesellschaft | Steuer-Nr.
 [[person|Ingetraud Streit]] | Vermieterin | privat | –
 [[person|Dipl.-Ing. Heinzpeter Rosenberger]] | Bürge | privat | –
 
-Die Übernahme der Verpflichtung durch Herrn [[person|Dipl.-Ing. Rosenberger]] wurde am [[date|3. Juni 2026]] beurkundet. [[person|Streits]] Bestätigung des Mietvertrags für die Wohnung in [[location|Jüterbog]] vom [[date|29. Mai 2026]] liegt bei. Herr [[person|Scheffler]] erklärte am [[date|10. Juni 2026]] telefonisch, dass er keine weitere Verpflichtung übernimmt. Die Angaben von [[person|Dr. Heuser]] zum Arbeitsverhältnis wurden am [[date|22. Juli 2026]] schriftlich bestätigt.
+Die Übernahme der Verpflichtung durch Herrn [[person|Dipl.-Ing. Rosenberger]], wohnhaft in [[address|Karl-Peters-Straße 2, 23779 Neukirchen]], wurde am [[date|3. Juni 2026]] beurkundet. [[person|Streits]] Bestätigung des Mietvertrags für die Wohnung in [[location|Jüterbog]] vom [[date|29. Mai 2026]] liegt bei. Herr [[person|Kipp]], wohnhaft in [[address|Willibald-Alexis-Straße 29, 87527 Ofterschwang]], hat die Vollmacht für die Konten am [[date|5. Juni 2026]] erteilt. Herr [[person|Scheffler]] erklärte am [[date|10. Juni 2026]] telefonisch, dass er keine weitere Verpflichtung übernimmt. Die Angaben von [[person|Dr. Heuser]] zum Arbeitsverhältnis wurden am [[date|22. Juli 2026]] schriftlich bestätigt.
 
 **4. Fahrzeug und Gebühren**
 
@@ -65,7 +65,7 @@ Der Antragstellerin ist das Kraftfahrzeug mit dem amtlichen Kennzeichen [[licens
 
 **5. Hinweise zur Verlängerung**
 
-Der Antrag auf Verlängerung ist spätestens sechs Wochen vor Ablauf der Geltungsdauer bei der Behörde zu stellen. Die Verlängerung setzt voraus, dass die Beschäftigung fortbesteht und dass die Anerkennung der Berufsqualifikation vollständig vorliegt. Die bis dahin erforderlichen Unterlagen sind mit dem Antrag vorzulegen, insbesondere eine aktuelle Gehaltsbescheinigung, der Nachweis einer Krankenversicherung und eine Erklärung des Arbeitgebers zur Fortdauer des Arbeitsverhältnisses. Zu einem späteren Zeitpunkt wird die Behörde bei Bedarf einen gesonderten Termin mitteilen.
+Der Antrag auf Verlängerung ist spätestens sechs Wochen vor Ablauf der Geltungsdauer bei der Behörde zu stellen. Die Verlängerung setzt voraus, dass die Beschäftigung fortbesteht und dass die Anerkennung der Berufsqualifikation vollständig vorliegt. Die bis dahin erforderlichen Unterlagen sind mit dem Antrag vorzulegen, insbesondere eine aktuelle Gehaltsbescheinigung, der Nachweis einer Krankenversicherung und eine Erklärung des Arbeitgebers zur Fortdauer des Arbeitsverhältnisses. Zu einem späteren Zeitpunkt wird die Behörde bei Bedarf einen gesonderten Termin mitteilen. Eine Verlängerung nach Ablauf der Frist ist nur im Ausnahmefall möglich und bedarf einer gesonderten Begründung. Dieser Bescheid ergeht gebührenpflichtig.
 
 **6. Rechtsbehelfsbelehrung**
 

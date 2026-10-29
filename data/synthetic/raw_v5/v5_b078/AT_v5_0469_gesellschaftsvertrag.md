@@ -61,7 +61,7 @@ Die Stammeinlagen werden in bar erbracht und sind binnen 14 Tagen nach Unterfert
 
 (2) Beschlüsse bedürfen einer einfachen Mehrheit der abgegebenen Stimmen, soweit nicht das Gesetz oder dieser Vertrag eine höhere Mehrheit verlangt.
 
-(3) Über jede Versammlung ist ein Protokoll zu führen, das vom Vorsitzenden und einem weiteren Gesellschafter zu unterfertigen ist.
+(3) Über jede Versammlung ist ein Protokoll zu führen, das vom Vorsitzenden und einem weiteren Gesellschafter zu unterfertigen ist. Gesellschafter, die an der Versammlung nicht teilnehmen können, dürfen sich durch einen anderen Gesellschafter oder durch einen schriftlich Bevollmächtigten vertreten lassen. Die Vollmacht bedarf der Schriftform und ist dem Protokoll beizufügen. Beschlüsse im Umlaufverfahren sind zulässig, wenn alle Gesellschafter dem Verfahren zustimmen und mindestens drei Viertel der Stimmen schriftlich abgegeben werden.
 
 § 6 Gewinn und Auszahlung
 
@@ -121,11 +121,25 @@ Der Jahresgewinn wird nach Feststellung des Jahresabschlusses im Verhältnis der
 
 Die Kosten der Errichtung dieses Vertrags und der Eintragung im Firmenbuch trägt die Gesellschaft. Jeder Gesellschafter erhält eine Ausfertigung des Vertrags sowie einen Auszug aus der Gesellschafterliste.
 
+§ 15 Ausscheiden eines Gesellschafters
+
+(1) Scheidet ein Gesellschafter aus der Gesellschaft aus, erhält er den Verkehrswert seines Geschäftsanteils, der durch einen gemeinsam bestellten Sachverständigen festgestellt wird. Die Auszahlung erfolgt in drei gleichen Jahresraten, die erste binnen sechs Monaten nach dem Ausscheiden.
+
+(2) Die Gesellschaft ist berechtigt, den Anteil ganz oder teilweise einzuziehen, soweit dies im Rahmen des [[legal_norm|GmbHG]] zulässig ist. Der ausscheidende Gesellschafter hat keinen Anspruch auf Entnahme von Rücklagen, die vor dem Ausscheiden gebildet wurden.
+
+(3) Die Erben eines verstorbenen Gesellschafters treten in die Rechte ein, sofern sie sich binnen drei Monaten nach dem Todesfall gegenüber den Geschäftsführern als Rechtsnachfolger ausweisen.
+
 Anlage 1: Gesellschafterliste
 
-Herr [[person|Ferdinand Stein]] hat sich zur Identifikation mit seinem Reisepass Nr. [[id_document_number|S5179028]] ausgewiesen. Die Vollmacht vom Gesellschafter [[person|Samb]] wurde [[person|Stein]] am selben Tag übergeben und ist diesem Vertrag beigeheftet.
+Herr [[person|Ferdinand Stein]] hat sich zur Identifikation mit seinem Reisepass Nr. [[id_document_number|S5179028]] ausgewiesen. Die Vollmacht vom Gesellschafter [[person|Samb]] wurde [[person|Stein]] am [[date|12. Mai 2026]] übergeben und ist diesem Vertrag als Anlage 2 beigeheftet.
 
 Für die Anmeldung bei der Sozialversicherung wird die Versicherungsnummer von [[person|Ing. Clem Maksić]] mit [[social_security_number|6350 150380]] angegeben. Für Rückfragen zu den Stammeinlagen ist [[person|Medard Stoitzner]] unter [[phone_number|0664 463 6412]] erreichbar.
+
+Anlage 2: Vollmacht
+
+Ich, [[person|Benedict Samb]], bevollmächtige hiermit [[person|Ferdinand Stein]], wohnhaft in [[address|Wiedner Hauptstraße 19/4, 1040 Wien]], mich bei der Gründung der [[organization|Odeon Projekt GmbH]] zu vertreten, insbesondere die Stammeinlage zu erbringen, den Gesellschaftsvertrag zu unterfertigen und die Anmeldung zum Firmenbuch zu veranlassen. Die Vollmacht gilt bis zur Eintragung der Gesellschaft und umfasst nicht die Abtretung von Geschäftsanteilen.
+
+[[location|Wien]], am [[date|12. Mai 2026]]
 
 Unterschriften der Gesellschafter:
 

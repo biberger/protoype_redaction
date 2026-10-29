@@ -85,7 +85,7 @@ Die Verfahrenskosten werden nach Eintritt der Rechtskraft in der Kostenverfügun
 
 **E. Persönliche Verhältnisse**
 
-Sie leben in [[location|Monnaz]] und arbeiten als Bauführer bei der [[organization|Affentranger Bau GmbH]]. Laut Ihren Angaben beträgt Ihr monatliches Nettoeinkommen rund CHF 5'400.00; Sie haben keine Unterhaltspflichten und besitzen kein nennenswertes Vermögen. Ihre Angaben wurden durch die Lohnabrechnungen der letzten drei Monate bestätigt. Die Busse ist unter Berücksichtigung dieser Verhältnisse festgesetzt worden.
+Sie leben in [[location|Monnaz]] und arbeiten als Bauführer bei der [[organization|Affentranger Bau GmbH]]. Laut Ihren Angaben in der Einvernahme beträgt Ihr monatliches Nettoeinkommen rund CHF 5'400.00; Sie haben keine Unterhaltspflichten und besitzen kein nennenswertes Vermögen. [[person|Schnyder von Wartensees]] Angaben wurden durch die Lohnabrechnungen der letzten drei Monate bestätigt. Die Busse ist unter Berücksichtigung dieser Verhältnisse festgesetzt worden.
 
 **Rechtsmittelbelehrung**
 

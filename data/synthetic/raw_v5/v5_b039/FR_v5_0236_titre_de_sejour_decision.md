@@ -73,9 +73,9 @@ Considérant que l'intéressée a déclaré lors de son audition du [[date|7 jui
 
 Considérant que la mère de l'intéressée réside à [[location|Guadalajara]] et que l'intéressée n'a produit aucune pièce établissant une rupture de ses liens avec sa famille restée au pays, ce qui n'est pas de nature à caractériser une atteinte disproportionnée à sa vie familiale en [[location|France]] au regard de la durée de sa présence, qui n'excède pas sept années ;
 
-Considérant que l'hébergement parisien allégué repose sur la seule attestation de Mme [[person|de Fontenay]], qui n'est accompagnée ni d'un justificatif de domicile à son nom ni d'un engagement d'hébergement écrit, et que l'intéressée n'a pas précisé la durée prévisible de ce séjour ;
+Considérant que l'hébergement parisien allégué, au [[address|12 passage des Lilas, 75011 Paris]], repose sur la seule attestation de Mme [[person|de Fontenay]], qui n'est accompagnée ni d'un justificatif de domicile à son nom ni d'un engagement d'hébergement écrit, et que l'intéressée n'a pas précisé la durée prévisible de ce séjour ;
 
-Considérant que le dossier de [[person|Martínez]] a été suivi, entre le mois de mars 2025 et le mois de mai 2026, dans le cadre d'un accompagnement d'insertion financé par la préfecture ; que Mme [[person|Lopez]] a rédigé à ce titre plusieurs rapports de suivi, dont le dernier, daté du [[date|21 juillet 2026]], mentionne que l'intéressée ne se présentait plus aux rendez-vous fixés à [[location|Montpellier]], où ce suivi était alors assuré par visioconférence ;
+Considérant que le dossier de [[person|Martínez]] a été suivi, entre le mois de mars 2025 et le mois de mai 2026, dans le cadre d'un accompagnement d'insertion financé par la préfecture ; que Mme [[person|Lopez]], demeurant [[address|4 allée des Platanes, 34000 Montpellier]], a rédigé à ce titre plusieurs rapports de suivi, dont le dernier, daté du [[date|21 juillet 2026]], mentionne que l'intéressée ne se présentait plus aux rendez-vous fixés à [[location|Montpellier]], où ce suivi était alors assuré par visioconférence ;
 
 Considérant que ce rapport précise en outre que Mme [[person|Martínez]] avait indiqué, lors d'un entretien téléphonique du [[date|7 juillet 2026]], vouloir reprendre ses études à distance et qu'aucun document relatif à une inscription universitaire n'a été produit depuis lors ;
 

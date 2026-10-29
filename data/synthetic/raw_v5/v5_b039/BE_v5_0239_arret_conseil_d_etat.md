@@ -30,10 +30,11 @@ la [[organization|Ville de Mons]], représentée par son collège communal, part
 
 et encore :
 
-[[organization|Textile Breyne SRL]] (numéro d'entreprise [[tax_id|0958.637.439]]), ayant son siège à [[address|Rue de la Scierie 14
+[[organization|Textile Breyne SRL]] (numéro d'entreprise [[company_register_number|0958.637.439]]), ayant son siège à [[address|Rue de la Scierie 14
 6700 Arlon]], ayant élu domicile chez [[lawyer|Giordan Parent]], avocat, à [[location|Bruxelles]], partie intervenante ;
 
-[[organization|Đurić Textile SRL]] (numéro d'entreprise [[tax_id|0846.304.016]]), ayant élu domicile chez [[lawyer|Danielka Świątek]], avocate, à [[location|Mons]], partie intervenante.
+[[organization|Đurić Textile SRL]] (numéro d'entreprise [[company_register_number|0846.304.016]]), ayant son siège à [[address|Chaussée de Binche 61
+7000 Mons]], ayant élu domicile chez [[lawyer|Danielka Świątek]], avocate, à [[location|Mons]], partie intervenante.
 
 [[court|Conseil d'État]], section du contentieux administratif, XIe chambre, siégeant en séance publique le [[date|22 octobre 2026]], composée de :
 
@@ -75,7 +76,7 @@ Vu les pièces de la procédure ;
 
 2. Le [[date|27 janvier 2026]], le fonctionnaire délégué a délivré à cette société le permis d'environnement sollicité pour la construction d'un nouveau bâtiment de stockage et l'installation d'une chaîne de rinçage supplémentaire. Le permis mentionne une capacité de traitement portée à 1.200 mètres cubes d'eaux usées par semaine, ainsi que des conditions relatives au bruit et aux rejets.
 
-3. Les requérants habitent dans le voisinage immédiat du site. Ils font valoir que la [[street|rue de la Scierie]], qui borde l'entrée des camions, est devenue impraticable pendant les livraisons et que les nuisances sonores s'étendent désormais jusqu'aux habitations de la [[street|rue du Vieux Moulin]].
+3. Les requérants habitent dans le voisinage immédiat du site. L'association [[organization|Habitat Goris ASBL]] (numéro d'entreprise [[company_register_number|1132.935.848]]), qui gère des logements sociaux à proximité, a également déposé une observation écrite le [[date|28 avril 2026]] pour signaler le passage des camions devant ses immeubles. Ils font valoir que la [[street|rue de la Scierie]], qui borde l'entrée des camions, est devenue impraticable pendant les livraisons et que les nuisances sonores s'étendent désormais jusqu'aux habitations de la [[street|rue du Vieux Moulin]].
 
 4. Le conseil communal de la [[organization|Ville de Mons]] a été consulté à titre d'avis sur le dossier, dès lors que la société [[organization|Đurić Textile SRL]], qui exploite un atelier de confection à [[location|Mons]], utilise les mêmes voies d'accès pour le transport de ses marchandises.
 
@@ -143,9 +144,9 @@ Sur les pièces complémentaires
 
 Sur la demande d'indemnisation
 
-17decies. Les requérants sollicitent, à titre subsidiaire, une indemnité de 5.000 euros pour le préjudice moral lié aux nuisances. Le Conseil d'État n'est pas compétent pour allouer une telle indemnité, qui relève de la juridiction de l'ordre judiciaire. Cette demande est donc irrecevable. Il leur appartient de la porter devant le tribunal compétent, sans préjudice de l'annulation prononcée.
+17decies. Les requérants sollicitent, à titre subsidiaire, une indemnité de 5.000 euros pour le préjudice moral lié aux nuisances. Le [[court|Conseil d'État]] n'est pas compétent pour allouer une telle indemnité, qui relève de la juridiction de l'ordre judiciaire. Cette demande est donc irrecevable. Il leur appartient de la porter devant le tribunal compétent, sans préjudice de l'annulation prononcée.
 
-17undecies. Le Conseil d'État relève enfin que la situation décrite par la lettre de M. [[person|Bove]] du [[date|19 mai 2026]] a été portée à la connaissance de l'administration. Il appartiendra à la partie adverse d'en tirer les conséquences dans le cadre de la nouvelle demande de permis que l'exploitant a annoncée.
+17undecies. Le [[court|Conseil d'État]] relève enfin que la situation décrite par la lettre de M. [[person|Bove]] du [[date|19 mai 2026]] a été portée à la connaissance de l'administration. Il appartiendra à la partie adverse d'en tirer les conséquences dans le cadre de la nouvelle demande de permis que l'exploitant a annoncée. Le registre des livraisons, produit par la partie adverse le [[date|10 septembre 2026]] sous forme de tableau récapitulatif, montre que les livraisons effectuées entre 5 et 7 heures ont été multipliées par trois depuis le début de l'année 2024, ce qui confirme les constats des requérants.
 
 **III. Dispositif**
 

@@ -31,7 +31,7 @@ Considérant que le contrat produit par l'intéressé a été signé pour la soc
 
 Considérant que la fiche de renseignements jointe au dossier mentionne le numéro de sécurité sociale [[social_security_number|1 20 01 12 416 782 47]] et que le versement des salaires est domicilié sur le compte [[bank_account|FR07 6403 8494 1753 5891 1803 727]] ;
 
-Considérant que Mme [[person|Anne-Lise Garrigou-Roux]], voisine de l'intéressé, atteste de sa présence effective à [[location|Marseille]] depuis 2022, mais que Mme [[person|Theresia Faber]], épouse de M. [[person|Bilici]], domiciliée à [[location|Strasbourg]], déclare dans un courrier du [[date|27 août 2026]] que les époux ne vivent plus sous le même toit depuis le printemps 2025 ;
+Considérant que Mme [[person|Anne-Lise Garrigou-Roux]], voisine de l'intéressé, atteste de sa présence effective à [[location|Marseille]] depuis 2022, mais que Mme [[person|Theresia Faber]], épouse de M. [[person|Bilici]], domiciliée au [[address|21 rue de la Mésange, 67000 Strasbourg]], déclare dans un courrier du [[date|27 août 2026]] que les époux ne vivent plus sous le même toit depuis le printemps 2025 ;
 
 Considérant que M. [[person|Bilici]] a été convoqué à un entretien en préfecture le [[date|22 juin 2026]], auquel il ne s'est pas présenté, et qu'il n'a produit aucune excuse écrite dans le délai qui lui était imparti ;
 
