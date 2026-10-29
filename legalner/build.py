@@ -165,6 +165,30 @@ def balance(train, rng, max_per_source=0, caps=None, max_per_doc=None, copies=No
     return [rec for rec in kept for _ in range(copies.get(rec["source"], 1))]
 
 
+def source_group(source):
+    return "synthetic" if source.startswith("synthetic") else source
+
+
+def mix(train, rng, shares, anchor="synthetic"):
+    """Resample training records to target shares per source group, e.g. {"ler": .4, "synthetic": .3, "ris": .15,
+    "replay": .15}. All records of `anchor` are kept once; the total is anchor_count / shares[anchor]. Larger groups
+    are subsampled, smaller ones repeated (whole copies plus a random remainder)."""
+    groups = collections.defaultdict(list)
+    for rec in train:
+        groups[source_group(rec["source"])].append(rec)
+    missing = set(groups) - set(shares)
+    if missing:
+        raise SystemExit(f"--mix has no share for {sorted(missing)}")
+    total = len(groups[anchor]) / shares[anchor]
+    out = []
+    for g, recs in sorted(groups.items()):
+        want = round(shares[g] * total)
+        recs = list(recs)
+        rng.shuffle(recs)
+        out += recs * (want // len(recs)) + recs[:want % len(recs)]
+    return out
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("inputs", nargs="+", help="canonical JSONL files")
@@ -178,6 +202,9 @@ def main(argv=None):
                          "ris:Bundesverwaltungsgericht=900 (repeatable; overrides --max-per-source)")
     ap.add_argument("--max-per-doc", action="append", metavar="SOURCE=N",
                     help="keep the first N chunks of each document of SOURCE, e.g. ris=60")
+    ap.add_argument("--mix", metavar="GROUP=SHARE,...",
+                    help="target shares of training records per source group (synthetic* sources form one group), "
+                         "applied after --cap/--max-per-doc, e.g. ler=0.4,synthetic=0.3,ris=0.15,replay=0.15")
     ap.add_argument("--source-copies", action="append", metavar="SOURCE=K",
                     help="repeat training records of SOURCE K times (each copy augmented anew)")
     ap.add_argument("--max-eval-per-source", type=int, default=0,
@@ -205,6 +232,8 @@ def main(argv=None):
     stats = {}
     train = balance(by_split["train"], rng, args.max_per_source, _per_key(args.cap), _per_key(args.max_per_doc),
                     _per_key(args.source_copies))
+    if args.mix:
+        train = mix(train, rng, _per_key(args.mix.split(","), float))
     with (out / "train.jsonl").open("w", encoding="utf-8") as fh:
         n = 0
         for _ in range(args.copies):
@@ -216,6 +245,8 @@ def main(argv=None):
                 n += 1
     stats["train"] = n
     stats["train_per_source"] = dict(collections.Counter(r["source"] for r in train for _ in range(args.copies)))
+    stats["train_share"] = {g: round(n / max(1, len(train)), 3) for g, n in
+                            collections.Counter(source_group(r["source"]) for r in train).items()}
     for split in ("dev", "test"):
         recs = by_split[split]
         if args.max_eval_per_source:

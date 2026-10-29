@@ -1,0 +1,96 @@
+BVWGT p2/p5: Is 'Arabischen Republik Syrien' one location span (like 'Republik Moldau'), with the inflected adjective inside? I tagged the whole.
+BVWGT p2: 'Schreiben des Justizministeriums' left untagged (generic ministry without country/name, decision 6). Should it be organization?
+BVWGT p2: 'aktuell Brandt Jahre alt' is a filler artefact (a number belongs there); left unchanged and untagged.
+BVWGT p1/p2: 'Norwegen' as place of residence tagged as location; 'norwegischen', 'syrischen' left as adjectives.
+OLG0819 p2/p3: filler 'Goldschmidt'/'Englebert' appear after 'vom', 'durch das', 'beim', 'dem ... aufzutragen', so I relabelled them person -> organization (probably police/Landeskriminalamt). Confirm, or should these be person?
+LG00003 p5: literature authors (Kodek, Gitschthaler, Höllwerth, Rechberger, Klicka) tagged as person; no convention in GENERATION.md. Should they be untagged? The commentary title 'AußStrG2' in 'Gitschthaler/Höllwerth AußStrG2 § 11 Rz 56' was left untagged.
+LG00003 p2: 'Familiengerichtshilfe' and 'Kinder- und Jugendhilfe' left untagged as generic bodies. Confirm.
+OGH0002 p2/p3: CJEU case captions (FB, Peter Pammer, Oliver Heller, company names) tagged as person/organization; 'FB' as person pseudonym. Is that wanted in a citation of a decision?
+OGH0002 p2/p3: 'Art 6 Abs 1 lit b leg cit' and 'Art 12 Abs 1 lit e leg cit' tagged as a whole legal_norm including 'leg cit'. Confirm.
+OGH0002 p2: 'C-585/08 und C-144/09' tagged as two separate case_number spans.
+LVwG p0: 'x, x,' after 'Reinisch KG' is a pseudonym placeholder for the address; left untagged (ambiguous between address and street/location). 'Neubau der x' also untagged.
+LVwG p0: I removed the leftover letter 'U' in 'Meier U GmbH'. 'H & Niedermayer Rechtsanwälte GmbH' kept as is, with 'H &' inside the span. Check both against the original in ris.jsonl.
+LVwG p0: 'Landesverwaltungsgericht Oberösterreich' tagged as court (existing tag kept), no separate location for Oberösterreich (decision 7).
+JJT_20210813 p1: Is relabelling the address filler 'Hietzinger Fahrstraße 26, 3244 Ruprechtshofen' and the bare surname fillers Willi/Izbașa/Rothschild/Lukrezia Kreiner (all sitting where case numbers belong) as case_number correct, or should they stay untagged/as originally tagged?
+JJT_20210813 p1: 'Pio Gröger' (in 'Freiheitsstrafe von Stumpf und Pio Gröger') untagged since it fills a sentence-length slot; fillers Stumpf, Berk, Gahleitner left untagged. Agree?
+JJT_20210813 p3: 'Edith Hartig' in 'RIS 92/03/0157 und Edith Hartig' left as person (document-title context unclear); 'Schriftsatz Schlögl' (bare Schlögl) left untagged.
+JJT_20210813: 'Landesgerichtes für Strafsachen <filler>' tagged as whole court spans even though the filler is not a real place; 'Justizanstalt X' kept as location for X (matches existing reviewed files).
+JJT_20240611 p5: literature authors (Führich, Staudinger, Keiler, Maruhn; also Fucik/Klicka/Koller, Obermaier in OLG files) tagged person; 'FluggastrechteVO Art 7' in commentary citations: only the bare act name tagged, 'Art 7 Rz 27' not (commentary section, not a statute citation). Correct?
+LVWGT_SA p0: 'Bürgermeister der Landeshauptstadt Salzburg' - only 'Landeshauptstadt Salzburg' tagged organization (follows 'Stadt Graz' precedent); 'KG Merkendorf' kept as location since no KG number; placeholders *aa/*bb/*cc tagged land_register_id (prefix 'Grundstück' outside); 'Familie A' tagged person 'A'; 'Zl. yyyyy' tagged case_number; 'Familie A' and 'Projekt ... Radfahreranlage C' / Bebauungsplan 'B' left as non-entity project names (except Familie A).
+LVWGT_SA p3/p4: 'MA 5/01' etc. tagged as organization including the number; yearless dates '7.1.' and '21.1.' tagged as date (decision 8, not recurring).
+JFT_20260929_25E00584_00_p0: 'Der Bund (Bundesminister für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz)' left untagged (generic 'Bund'; ministry given only as a minister title). Should the ministry be an organization?
+LG00519_p1: 'Landauer' and 'Bahari' in the formulas 'Euro 6.839,24 Landauer 0,05' and '200.800,00 Bahari 0,05' look like filler values where a multiplication sign stood. Left untagged and unedited; should they be repaired as filler artefacts?
+LG00519_p0/p1: Dr. Fessl (Erwachsenenvertreter, probably a lawyer since he is on the RAO list) kept as person under decision 2 because the text never says Rechtsanwalt; Dr. Hauser likewise.
+LG00119_p4/p5: 'Flughafen Wien' - Wien tagged as location only because --strict flagged it as an untagged occurrence, although decision 7 (place inside a name) would suggest leaving it. Is Flughafen Wien an organization or an untagged facility name?
+LG00119: flight numbers (OS 970, OS 9407, OS9408) left untagged; no label fits.
+OLG0459_p2/p3/p4: 'Prochaska' is tagged person but the context ('die mit ihr verbundenen Unternehmen') suggests a filler where a company belongs. Should it be organization? Also 'Produktgesellschaft' and 'Bezirksgericht für Handelssachen in Linz' (tagged as one court span including 'in Linz') need confirmation.
+LVWGT_SA_p4/p5: bare section headings of quoted statute text ('§ 340', '§ 342', '§ 344') left untagged under decision 10, while in-text citations were tagged. Should headings in quoted statutory text be tagged?
+LVWGT_SA_p5: 'in Abs. 2 genannten' and 'Abs 1 Z 2' (no § and no act) left untagged. GISA (Gewerbeinformationssystem) and Unternehmensserviceportal not tagged as organization.
+LVWGT_SA_p0: '[...]' in 'Friederich Stoll, [...]' left as is (address placeholder); only '*aa' tagged as case_number.
+JJT_2021 p1/p2/p3 and LVWGT p0: Justizanstalt Rohrendorf bei Krems / Neustift an der Lafnitz / Afritz am See / Hirschegg / Aschbach-Markt kept as location (generic 'Justizanstalt' + place, rule 6/7), not organization. Correct?
+JFT p1: 'Flughafen Wien-Schwechat' - I tagged only Wien-Schwechat as location; rule 7 might argue for leaving it untagged.
+JJT_2024 p0: 'Czapliński' in '(Czapliński, Handelsgericht Wien)' after the Stauber GmbH relabelled to case_number by context (insolvency file number filler); could also be a person (insolvency judge). 'Zovko-17' tagged case_number as the Beschluss GZ. Please confirm.
+JJT_2024 p0: 'DI Mag. Kiss' (Insolvenzverwalter, profession not stated) kept as person per decision 2.
+JJT_2021 p1: filler artefacts ('Hastert Jahren', 'Beckmann Monaten', 'Erraddaf', 'Zankl Uhr', 'Schäffer Uhr') and nonsensical date order (21.05.2019 bis 12.12.1982) left untouched; dates tagged as is. Address 'Kornfeldstraße 12, 4810 Gmunden' sits after a court date (probably a case number or Gericht placeholder) but kept as address.
+JJT_2021 p1: 'Landesgerichtes Bad Kleinkirchheim' court boundary extended; the filler 'Bad' split looked like an artefact of the pseudonymisation.
+JWT p4: 'Mongolischen Botschaft' tagged organization although derived from an adjective; confirm vs. decision on adjectives.
+LVWGT p0: single-letter pseudonymisation remnants ('R, W', 'Rgasse, G', 'S, W') left untagged; should they be address/location?
+LVWGT p0: 'HR Dr. Hanel' relabelled to judge as presiding member of the court panel; 'Amt der Steiermärkischen Landesregierung, Abteilung 16' as one organization span separate from 'Land Steiermark'.
+'leg cit' included inside legal_norm spans (e.g. '§3 Abs1 Z1 leg cit'); confirm convention.
+Strict validator emitted no errors or warnings for my 15 files.
+JJT_20200929_LG00929..._p0: 'Albrich KG 1875/30' is a Katastralgemeinde name plus EZ number in the RIS original; I tagged it as one land_register_id (like 'KG 01009 Neubau'). Is that right, or should 'EZ' be inside the span for the neighbouring 'EZ 2464/33'?
+JJT_20200929_LG00929..._p0: I tagged only 'Greve-1' in 'TZ Greve-1' as case_number (Tagebuchzahl, prefix outside as for GZ/Zl.). Is a land register TZ a case_number, or should it stay untagged?
+JJT_20200929_LG00929..._p1: 'Durchführungsverordnung (EU Nr. 1329/2014 der Kommission)' is tagged as one legal_norm span including the brackets. Should it be only 'EU Nr. 1329/2014'? The two later bare 'Durchführungsverordnung' mentions and 'EU-Verordnung' stay untagged.
+JJT_20211213_OLG0009_..._p0: 'Rekursgericht Thiel wegen des Widerspruchs' - the filler 'Thiel' sits where the panel (judges) was probably named; I tagged it judge. It could be a leftover filler artefact, so it may need removing or untagging.
+JJT_20211213_OLG0009_..._p0/p4/p5: trademark registration numbers ('Nr AT 300499', 'Nr 300499') and mark names ('MOBIL PETROL') are untagged because no label fits. 'Rechtsabteilung' is untagged as a generic word. Should the trademark number be other_identifier?
+JJT_20211213_OLG0009_..._p5: PVÜ is tagged as a second legal_norm span after 'Pariser Verbandsübereinkommen', and '6bis' is included in the span. Is that right?
+JWT_2023190339_..._p2: 'Staatendokumentation' (BFA department) is left untagged. Should it be an organization?
+LVwG_..._p4: filler 'Sieber' ('der Beschwerdeführerin, Sieber und der elterlichen Liegenschaft') is tagged street by context. It could also be a location or an address remnant, or an artefact to delete.
+LVwG_..._p3/p4: pseudonym 'A B' is tagged person at every 'Frau A B'. 'KG: F' is tagged land_register_id and the 'Nr.' prefix stays outside 'Grundstück Nr. 1430/29', matching the pre-existing rule tags. Should 'Nr.' be inside, as in 'Gst-Nr. 211/3'?
+LVwG_..._p5: '§§ 1 bis 5' (after 'des AVG mit Ausnahme der') and '§ 9 Abs. 1 Z 3 und 4' (inside the quoted VwGVG text) carry no act name; I tagged them as statute citations. Is that right?
+OLG0819_p2: 'Haftpflichtversicherer des Landes Vorarlberg' - I tagged 'Landes Vorarlberg' as organization (Land as legal entity). Alternative is location or untagged. Which convention applies to Bund/Land as legal entity?
+LG00003_p2: 'vom 20.1.20005' is an obvious typo (extra 0) in the RIS text. I tagged it as date and left the text unchanged. Is that the intended handling?
+LG00003_p4/p5: the headings 'Artikel 17 Absatz 1:', 'Artikel 18 Absatz 1 und 2:', 'Artikel 19:', 'Artikel 25:' introduce quotes from the EuGVVO and name no act. I tagged them as legal_norm because they cite a statute. Should they be untagged as headings instead (decision 10)?
+LG00003_p4: 'Verordnung (EU) Nr. 1215/2012' tagged as a long act name, 'EuGVVO' as a second span after 'in der Folge'. Confirm.
+BU_p2: 'der Reinhild Sachs mit dem Ersuchen um Äußerung übermittelt' - the filler name sits where an authority belongs (probably Landespolizeidirektion/Polizei). I labelled it organization per the context rule. Is organization right, or should it stay person?
+BU_p2: 'Instagram' (social media platform) left untagged. Should platform names count as organization?
+TI_p2: 'Bezirkshauptmannschaft X' and 'Bezirkshauptmannschaft Y' contain leftover RIS placeholder letters. I tagged the whole phrase as organization and left the text unchanged. The text also has inconsistent dates (first filed 06.12.2021 vs 01.12.2021; Y filing 16.03.2022 vs 16.03.2023), which I did not touch.
+TI_p0: 'Raaba' after 'Moosbrugger GmbH' kept as location (seat of the company), although Raaba is in Styria and the court is in Tirol. Is it an invented filler?
+TI_p4: bare cross-references inside the quoted EpiG text ('gemäß § 11', '§ 17', '§ 20', '§ 22', '§ 24') are tagged as legal_norm without an act. Section headings such as '§ 7.' (in p2) are left untagged. Confirm.
+LG00818_p2: 'Zentralen Melderegister' and 'Strafregisterauskunft' left untagged as generic registers. 'Zirner' tagged person from the context 'Antrag auf ... Hausarrest Zirner'.
+LG00818_p5: I extended the court span to 'Landesgerichtes Sankt Ulrich am Pillersee' because the invented place name was split. There is no place-matching check against the Justizanstalt Niederthalheim.
+LG00519_p3: 'Wolfram' in the list 'zu Reha, Wohnung, Wolfram, Bezirkshauptmannschaft' is left as person; it could be a place or institution filler. Please check against RIS.
+LG00519_p5: 'Ella Schumacher' relabelled to organization because of the context. 'EUR 2.866,00 Zabala 65 m²' looks like a filler artefact, probably a multiplication sign, but I left the text unchanged.
+LG00199_p0: 'Augustus Egerer' is relabelled to location. The paragraph breaks off after 'in', so the context is incomplete.
+LG00199_p2: 'Hirsch' in 'Halloweenclubbing am Hirsch' is relabelled to location. It could be a venue name (organization) or an invented filler instead.
+KLVwG_2288: I tagged 'Landeshauptmannes von Kärnten' as organization, while 'Bürgermeisters der Stadtgemeinde Jennersdorf' in the Tirol file keeps only Jennersdorf as location. Should these two cases be treated the same way?
+KLVwG_2288: I tagged 'Markl' and 'Wilczek' (names in brackets after the case numbers) as person, assuming they are caseworkers. I left 'Keck' in 'mit dem Titel Keck' and 'TW-Brunnen Obrić' untagged as titles. 'Markgrafneusiedlquellen' stays location, and 'DVGW-Arbeitsblatt W111' is untagged.
+I moved the prefixes EZ, KG, Gst and Parz. inside the land_register_id spans, following the GENERATION.md examples 'EZ 403' and 'KG 01009 Neubau'. Is that the intended convention for RIS files? The earlier rule-based tags had the numbers only.
+Tirol p1 and p5: I tagged the placeholders Y and Z as location, since they replace places. Please confirm that a single-letter placeholder should be tagged.
+The dates 1.11.2025 (LG00199_p2) and the Tirol Bescheid date 09.10.2024 are inconsistent with neighbouring dates. They are filler values and were left unchanged.
+Dr. Schrammel (Erwachsenenvertreter, profession not stated) stays person per Gold-set decision 2.
+LG00638 p4: Are authors of literature citations (Heller/Berger/Stix, Jakusch in Angst/Oberhammer) to be tagged person? I tagged them; revert if literature authors are excluded.
+KLVwG p0/p2/p4: parcel numbers after 'Nr.' are tagged with the number only ('Nr.' outside), KG with prefix. Should 'Nr.' be inside like 'Gst-Nr.'?
+LG00007 p1: Almuth Rinner sits where a departure city belongs; I labelled it location by context. Is that right? Flight number EJU1060 left untagged.
+LG00007 p1: 'Artikel 7 der Verordnung' (Spanish royal decree 463/2020) left untagged as no act name is given; 'königliche Dekret 463/2020' also untagged.
+LVwG_1_778 p0: 'FL-V' after the complainant's name is unclear (possibly an address/plate placeholder); left untagged.
+LVwG_1_778 p1: 'Bundespolizei' tagged organization as a unique federal body; 'Rstraße' (filler artefact) tagged street.
+Marktgemeinde X: tagged as organization including the word 'Marktgemeinde' (legal entity as party), not location.
+LG00638 p2/p5: 'Betreibende', 'Rekursgericht', 'Gemeinde' treated as generic; RGZ0000101 treated as Rechtssatz-like and untagged.
+LG00458 p0: Is Oberst Gerd Katzlberger (lay assessor/Fachkundiger in the Vollzugsgericht panel) a judge? I tagged judge as a panel member; Maga is kept inside the span as a degree.
+LG00458 p2: 'JA Hadj' (abbreviation plus invented filler) tagged organization, and 'Justizanstalt <place>' tagged as one organization span instead of location (rule 7). Is that right?
+LG00458 p2: '§ Gams StGB' (filler in place of a section number) tagged as one legal_norm span; should it be tagged at all?
+LG00638 p1: 'Abraham Telser' (Drittschuldnerin with FN and business address) relabelled person to organization by context; the invented name looks like a person, so a person label with the FN is also possible. 'IBAN 547' is a truncated filler value tagged bank_account.
+LG00638 p5: authors in literature citations (Jakusch, Angst, Oberhammer, Deixler-Hübner, Schauer) tagged person, and bare 'EO' tagged legal_norm in the commentary citations; '§ 35 Rz 66' etc. left untagged because it cites the commentary rather than the statute. Should literature authors be tagged person at all?
+LG00929 p1/p3/p4: the persons tags on filler names in the vehicle position (e.g. 'Magdalena Eberl.Aline Markl', 'Krause', 'Windisch-Grätz') were removed because the context is a vehicle make/model, not a person. No other label fits, so the spans are untagged. Confirm?
+LVwG NÖ p1: 'dem Land Niederösterreich' tagged organization (legal entity), could also be location.
+LVwG NÖ p3: 'Verwaltungsgerichtsbarkeits-Novelle 2012' tagged as an act name (legal_norm, rule 11); 'Ltg.-96/M-6-2013' (Landtag document) and 'LGBl. 9205-3' left untagged.
+LVwG NÖ p1: case_number 'MA35-7353/2023' sits on a 2019 decision (filler), left as tagged.
+VGW p2: '1 Abs. 1 WLSG' (missing § from the RIS text) tagged legal_norm; 'StVO' in 'StVO-Anzeige' tagged as a bare act name inside a compound.
+LG00469 p2/p4 and LVwG NÖ p2: 'Bundesminister(in) für Soziales, Gesundheit, Pflege und Konsumentenschutz' / 'Bundesministerin für Digitalisierung und Wirtschaftsstandort' left untagged because the span is a role title in the genitive; should the ministry be tagged organization (e.g. 'Soziales, Gesundheit, Pflege und Konsumentenschutz')?
+LG00818 p2: 'Marchart' (Immobilienpreisspiegel 'der Marchart') kept as person; likely a filler for a company or association, context does not show it clearly.
+LG00818 p1 convention: EZ and KG tagged as two spans 'EZ 774/40' and 'KG Wörgl' (including the keyword in the span); reviewed files use both styles. Confirm.
+LG00818 p4: 'VfSlg 18.838/2009' (collection citation) left untagged; confirm it is not a case_number.
+LVwG NÖ p0: for 'des Gesetzes (ABK)' chains I tagged the whole '§ ... des <Gesetz>' incl. 'des' as one span plus the abbreviation in brackets as a second span (rule 5); articles are normally outside spans, so confirm this treatment.
+OLG Graz p0: 'geboren am 13. Dezember 2024' (impossible birth date, filler artefact) and GZ '2 Cg 231/21z-38' (civil-court case type in a criminal matter) kept as is; tagged date/case_number unchanged.
+OLG Graz p0: 'Maga. Kohlroser' tagged judge including the degree Maga. (Richterin).

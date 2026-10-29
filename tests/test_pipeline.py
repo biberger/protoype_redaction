@@ -442,3 +442,12 @@ def test_ris_kopf_degrees_without_dots():
     assert judges >= {"Mag Iglseder", "Mag Rak", "Mag Jarec LLM", "Dr.Bott", "Dr.Kraschowetz-Kandolf",
                       "Maga.Fabsits", "Fürst"}
     assert ("date", "21.02.2025 bis 30.06.2026") in spans
+
+
+def test_build_mix_shares():
+    from legalner.build import mix
+    recs = [{"source": "ler"}] * 1000 + [{"source": "synthetic"}] * 90 + [{"source": "synthetic_v1"}] * 30 + \
+        [{"source": "ris"}] * 20 + [{"source": "replay"}] * 500
+    out = mix(recs, random.Random(0), {"ler": .4, "synthetic": .3, "ris": .15, "replay": .15})
+    per = collections.Counter("synthetic" if r["source"].startswith("synthetic") else r["source"] for r in out)
+    assert per == {"ler": 160, "synthetic": 120, "ris": 60, "replay": 60}
