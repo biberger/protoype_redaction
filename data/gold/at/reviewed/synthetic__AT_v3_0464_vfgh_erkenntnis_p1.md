@@ -3,7 +3,7 @@ doc_type: vfgh_erkenntnis
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0464_vfgh_erkenntnis#1
-review: agent
+review: convention-pass
 ---
 3. [[person|Vreni Lederer]] hatte zuvor ihren eigenen Antrag mit gleichlautender Begründung eingebracht. [[person|Lederers]] Antrag wurde mit Bescheid vom [[date|18. Juli 2025]] stattgegeben. Die Beschwerdeführerin rügt, dass [[person|Lederers]] Fall ungleich behandelt worden sei.
 

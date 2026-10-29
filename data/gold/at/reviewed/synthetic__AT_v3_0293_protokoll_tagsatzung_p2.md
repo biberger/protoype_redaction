@@ -3,7 +3,7 @@ doc_type: protokoll_tagsatzung
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0293_protokoll_tagsatzung#2
-review: agent
+review: convention-pass
 ---
 Die Zeugin [[person|Martine Franz]] wird über die Pflicht zur wahrheitsgemäßen Aussage belehrt. Sie gibt an, dass die Silage am [[date|19.08.2025]] angeliefert und bei der Übernahme äußerlich in Ordnung gewesen sei. Eine Verfärbung habe sie erst bei der Entnahme im September festgestellt. Die Zeugin ist nicht Angestellte des Beklagten, sondern Lohnfahrerin der Klägerin.
 

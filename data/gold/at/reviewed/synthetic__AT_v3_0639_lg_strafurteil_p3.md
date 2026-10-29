@@ -3,9 +3,9 @@ doc_type: lg_strafurteil
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0639_lg_strafurteil#3
-review: agent
+review: convention-pass
 ---
-Die Hauptverhandlung ergab, dass die Tatbeiträge nur zum Teil eingeräumt wurden. Das Gericht ließ die Anzeige des [[organization|Landeskriminalamt Steiermark]] ([[organization|LKA]]) vom [[date|14. Mai 2025]] verlesen. Die Schadenssumme bestätigte die Buchhaltung der [[organization|Colom AG]], wobei die Zahlungseingänge zwischen dem [[date|1. April 2024]] und dem [[date|30. Juni 2024]] liegen.
+Die Hauptverhandlung ergab, dass die Tatbeiträge nur zum Teil eingeräumt wurden. Das Gericht ließ die Anzeige des [[organization|Landeskriminalamt Steiermark]] ([[organization|LKA]]) vom [[date|14. Mai 2025]] verlesen. Die Schadenssumme bestätigte die Buchhaltung der [[organization|Colom AG]], wobei die Zahlungseingänge zwischen dem [[date|1. April 2024 und dem 30. Juni 2024]] liegen.
 
 Bei der Strafbemessung wurden die Mehrzahl der Taten, die Schadenshöhe und die Mitwirkung als erschwerend gewertet. Als mildernd wurde die bisherige Unbescholtenheit berücksichtigt. Die Angeklagten haben sich nach [[legal_norm|§§ 32, 33 StGB]] verantwortet.
 

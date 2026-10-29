@@ -42,7 +42,7 @@ Die Geschäftsführerin [[person|Hinteregger]] hat in der Einvernahme am [[date|
 
 Rechtliche Beurteilung:
 
-Gemäß [[legal_norm|§ 56 Abs 1 NAG]] ist eine Aufenthaltsbewilligung für Schlüsselkräfte zu erteilen, wenn die Voraussetzungen des [[legal_norm|§ 2 Abs 1 Z 22 NAG]] vorliegen und der Lebensunterhalt gesichert ist. Der Antragsteller erfüllt diese Voraussetzungen. Die Entscheidung über die Gebühr richtet sich nach dem [[legal_norm|Gebührengesetz 1957]].
+Gemäß [[legal_norm|§ 56 Abs 1 NAG]] ist eine Aufenthaltsbewilligung für Schlüsselkräfte zu erteilen, wenn die Voraussetzungen des [[legal_norm|§ 2 Abs 1 Z 22 NAG]] vorliegen und der Lebensunterhalt gesichert ist. Der Antragsteller erfüllt diese Voraussetzungen. Die Entscheidung über die Gebühr richtet sich nach dem [[legal_norm|Gebührengesetz 1957]]. Die Erteilung ist nicht von einer Vorabzustimmung abhängig, weil die Arbeitgeberin die Bestätigung nach [[legal_norm|§ 18 AuslBG]] vorgelegt hat. Eine Mitwirkung des Arbeitsmarktservice ist im vorliegenden Verfahren nicht erforderlich.
 
 Rechtsmittelbelehrung:
 

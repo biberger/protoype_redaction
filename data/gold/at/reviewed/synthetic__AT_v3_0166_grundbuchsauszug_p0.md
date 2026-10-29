@@ -3,7 +3,7 @@ doc_type: grundbuchsauszug
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0166_grundbuchsauszug#0
-review: agent
+review: convention-pass
 ---
 GRUNDBUCHSAUSZUG
 
@@ -33,7 +33,7 @@ Grundstück: [[land_register_id|Gst-Nr. 211/3]], Baufläche, [[location|Lichtenw
 
 Zusätzliche Einlage für das Grundstück in [[location|Raaba]], [[address|Brändströmweg 6, 8074 Raaba]], [[land_register_id|EZ 2207]], [[land_register_id|KG 63107 Raaba]]
 
-Eigentümer des Nachbargrundstücks: [[person|Oswin Sacher]], [[date|1. Jänner 1975]], wohnhaft in [[location|Raaba]]. Eine Eintragung zugunsten [[person|MMag. Oswin Sacher]] liegt nicht vor.
+Eigentümer des Nachbargrundstücks: [[person|MMag. Oswin Sacher]], [[date|1. Jänner 1975]], wohnhaft in [[location|Raaba]]. Eine Eintragung zugunsten [[person|MMag. Oswin Sacher]] liegt nicht vor.
 
 Die Versicherungsnummer [[social_security_number|1001 200615]] der Eigentümerin [[person|Lucretia Schaefer]] dient nur der Zuordnung im Verfahren und ist nicht Teil des Grundbuchs.
 

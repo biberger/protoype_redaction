@@ -3,7 +3,7 @@ doc_type: sachverstaendigengutachten
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0141_sachverstaendigengutachten#9
-review: agent
+review: convention-pass
 ---
 Die Zeugin [[person|Gehrer]] hat in ihrer Einvernahme vom [[date|27.07.2026]] bestätigt, dass die Hausverwaltung im Jahr 2024 einen Termin zur Begutachtung des Sockels vereinbart hatte, der Termin aber vom Beklagten abgesagt wurde. Die Absage ist im Schriftverkehr vom [[date|19.08.2024]] dokumentiert. Diese Umstände sind bei der Bewertung des Verzugs zu berücksichtigen.
 

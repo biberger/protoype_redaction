@@ -3,7 +3,7 @@ doc_type: lg_strafurteil
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0639_lg_strafurteil#2
-review: agent
+review: convention-pass
 ---
 Der Angeklagte [[person|A***** H*****]] fuhr am [[date|9. Juli 2024]] mit dem Pkw [[license_plate|GU 412 KL]] nach [[location|Dornbirn]], um eine Übergabe der Unterlagen zu veranlassen. Die Übergabe scheiterte, weil die Polizei bereits Ermittlungen eingeleitet hatte.
 

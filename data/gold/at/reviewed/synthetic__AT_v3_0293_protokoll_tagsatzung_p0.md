@@ -3,7 +3,7 @@ doc_type: protokoll_tagsatzung
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0293_protokoll_tagsatzung#0
-review: agent
+review: convention-pass
 ---
 [[court|Landesgericht Leoben]]
 Abteilung 12 Cg

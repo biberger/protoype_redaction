@@ -3,7 +3,7 @@ doc_type: lg_strafurteil
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0639_lg_strafurteil#1
-review: agent
+review: convention-pass
 ---
 Verteidiger des Angeklagten [[person|A***** S*****]] ist [[lawyer|Dr. Gervasius Scheucher]], Rechtsanwalt in [[location|Graz]]. Verteidigerin der Angeklagten [[person|C***** E*****]] ist [[lawyer|Ginnie Zumtobel]], Rechtsanwältin in [[location|Graz]].
 
@@ -13,7 +13,7 @@ Privatbeteiligte sind:
 2. [[organization|Colom AG]], [[address|Liebermannweg 5/8, 8462 Gamlitz]], [[company_register_number|FN 385244k]], UID [[tax_id|ATU83331707]];
 3. [[organization|Seeber & Crespo KG]], [[address|Schopenhauerweg 30, 6850 Dornbirn]], [[company_register_number|FN 142281m]], UID [[tax_id|ATU08874477]].
 
-Die Anklage der [[organization|Staatsanwaltschaft Graz]] vom [[date|2. Februar 2026]], [[case_number|8 St 41/26b]], legte den Angeklagten zur Last, zwischen [[date|17. März 2024]] und [[date|9. Juli 2024]] Zahlungen der Privatbeteiligten in Höhe von insgesamt 412.000 Euro erlangt zu haben.
+Die Anklage der [[organization|Staatsanwaltschaft Graz]] vom [[date|2. Februar 2026]], [[case_number|8 St 41/26b]], legte den Angeklagten zur Last, zwischen [[date|17. März 2024 und 9. Juli 2024]] Zahlungen der Privatbeteiligten in Höhe von insgesamt 412.000 Euro erlangt zu haben.
 
 Das Urteil stützt sich auf folgende Feststellungen:
 

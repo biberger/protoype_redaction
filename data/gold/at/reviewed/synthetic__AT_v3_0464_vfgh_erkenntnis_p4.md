@@ -3,7 +3,7 @@ doc_type: vfgh_erkenntnis
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0464_vfgh_erkenntnis#4
-review: agent
+review: convention-pass
 ---
 10. Der Gerichtshof hat in seiner Judikatur wiederholt ausgesprochen, dass eine Wohnsitzfrist, die ohne Bezug zum Förderungszweck an den bloßen Ort der Liegenschaft anknüpft, keine tragfähige Differenzierung bewirkt. Eine solche Regelung muss sich an der Eignung zur Zielerreichung messen lassen. Die Wohnsitzfrist knüpft an einen Umstand an, der für die Wohnraumschaffung nicht erheblich ist, und benachteiligt damit Personen, die bereits Eigentum im Land besitzen, ohne dass dies sachlich begründet wäre.
 

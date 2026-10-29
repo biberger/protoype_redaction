@@ -3,7 +3,7 @@ doc_type: bescheid_magistrat
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0801_bescheid_magistrat#2
-review: agent
+review: convention-pass
 ---
 Die Stellungnahme von [[person|Dr. Abdul Kader Banai]] vom [[date|7. April 2026]] ist verspätet eingelangt und wird daher nur insoweit berücksichtigt, als sie das Vorbringen zur Zuständigkeit betrifft. Die Anzeigerin [[person|Walz]] wurde am [[date|20. April 2026]] als Zeugin einvernommen und bestätigte die Stromschläge im Stiegenhaus.
 

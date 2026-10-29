@@ -3,7 +3,7 @@ doc_type: protokoll_tagsatzung
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0293_protokoll_tagsatzung#1
-review: agent
+review: convention-pass
 ---
 Die Richterin weist darauf hin, dass die Klägerin ihre Forderung nach [[legal_norm|§ 1151 Abs 1 ABGB]] iVm [[legal_norm|§ 1152 ABGB]] und [[legal_norm|§ 1418 ABGB]] zu beweisen hat. Die Mängelrüge richtet sich nach [[legal_norm|§ 933 ABGB]] iVm [[legal_norm|§ 933a ABGB]] iVm [[legal_norm|§ 1155 ABGB]] iVm [[legal_norm|§ 377 UGB]] iVm [[legal_norm|§ 1418 ABGB]]. Der Beklagte wird darauf hingewiesen, dass die Rüge rechtzeitig erfolgen musste.
 

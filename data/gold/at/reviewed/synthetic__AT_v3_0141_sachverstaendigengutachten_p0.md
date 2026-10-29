@@ -3,7 +3,7 @@ doc_type: sachverstaendigengutachten
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0141_sachverstaendigengutachten#0
-review: agent
+review: convention-pass
 ---
 [[court|Landesgericht Wiener Neustadt]]
 Zivilrechtsabteilung
@@ -13,7 +13,7 @@ GZ [[case_number|23 Cg 91/26t]]
 SACHVERSTÄNDIGENGUTACHTEN
 
 in der Rechtssache der klagenden Partei [[person|Claudie Wagué]], wohnhaft [[address|Patscher Straße 3
-2842 Edlitz]], vertreten durch [[lawyer|Dr. Schahin Jahromi]], Rechtsanwältin in [[location|Wien]],
+2842 Edlitz]], vertreten durch [[lawyer|Dr. Schahin Jahromi]], Rechtsanwalt in [[location|Wien]],
 
 gegen
 

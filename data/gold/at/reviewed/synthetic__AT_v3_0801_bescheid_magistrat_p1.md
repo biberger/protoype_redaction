@@ -3,7 +3,7 @@ doc_type: bescheid_magistrat
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0801_bescheid_magistrat#1
-review: agent
+review: convention-pass
 ---
 Die Amtssachverständige [[person|Laetitia Oswald]] stellte bei der Überprüfung am [[date|11. März 2026]] fest, dass der Zählerschrank nicht den geltenden Vorschriften entspricht. Die Arbeiten wurden von der [[organization|Nagl AG]] ([[company_register_number|FN 365460t]], [[tax_id|ATU97057077]]) im Auftrag der [[organization|Suliman Elektro AG]] durchgeführt. Die Firma war damit für die Anlage verantwortlich.
 

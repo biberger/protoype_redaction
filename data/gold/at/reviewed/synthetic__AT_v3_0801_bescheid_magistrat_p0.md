@@ -3,7 +3,7 @@ doc_type: bescheid_magistrat
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0801_bescheid_magistrat#0
-review: agent
+review: convention-pass
 ---
 [[organization|Magistrat der Stadt Graz]]
 Abteilung für Gewerberecht und Verkehr

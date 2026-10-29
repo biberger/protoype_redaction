@@ -3,7 +3,7 @@ doc_type: sachverstaendigengutachten
 jurisdiction: AT
 lang: de
 origin: synthetic/AT_v3_0141_sachverstaendigengutachten#8
-review: agent
+review: convention-pass
 ---
 Auf Anregung der Klägerin wurde am [[date|20.05.2026]] eine Bodenfeuchtemessung am Sockel der Nordseite durchgeführt. Die Messung ergab an drei von vier Messpunkten Werte, die über dem Grenzwert für trockenes Mauerwerk liegen. Ein Eindringen von Wasser von außen ist damit belegt. Die Ergebnisse wurden der Vertretung des Beklagten übermittelt; eine Stellungnahme ist bis zum Abschluss des Gutachtens nicht eingegangen.
 
