@@ -27,7 +27,7 @@ Der Beschuldigte gab bei seiner Erstbefragung an, den Radfahrer im toten Winkel 
 
 Der Zeuge [[person|Hermenegild Kolb]], Angestellter der [[organization|Kahler GmbH]] ([[company_register_number|FN 469623y]], UID [[tax_id|ATU81865778]]), befand sich mit seinem Firmenfahrzeug im Gegenverkehr. Er gab an, dass der Sattelzug ohne anzuhalten abgebogen sei und der Radfahrer erst im letzten Moment sichtbar geworden sei.
 
-Die Ärztin [[person|Dr. Любочка Hordon]], die als Ersthelferin am Unfallort eintraf, beschrieb den Zustand des Verletzten als ansprechbar, jedoch mit deutlicher Schmerzsymptomatik im linken Unterarm. Sie veranlasste die Verständigung des Rettungsdienstes.
+Die Ärztin [[person|Dr. Ljubotschka Hordon]], die als Ersthelferin am Unfallort eintraf, beschrieb den Zustand des Verletzten als ansprechbar, jedoch mit deutlicher Schmerzsymptomatik im linken Unterarm. Sie veranlasste die Verständigung des Rettungsdienstes.
 
 3. Vernehmung des Verletzten
 

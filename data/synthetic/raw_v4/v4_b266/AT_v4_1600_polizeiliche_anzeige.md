@@ -24,7 +24,7 @@ lwang]]
 
 Zeuginnen:
 
-[[person|Evelin Rodler]] und [[person|Mag. Зоя Sujew]], Sachverständige für Fahrzeugtechnik
+[[person|Evelin Rodler]] und [[person|Mag. Soja Sujew]], Sachverständige für Fahrzeugtechnik
 
 Sachverhalt:
 
@@ -34,7 +34,7 @@ Die Lenkerin [[person|Ayverdi]] gab an, sie habe nur Paletten mit Fliesen gelade
 
 Das Fahrzeug ist auf die [[organization|Malezkyj GmbH & Co KG]], [[company_register_number|FN 450028g]], UID [[tax_id|ATU47956859]], zugelassen. Die Leasingfinanzierung besorgte die [[organization|Toldt & Romić AG]], [[company_register_number|FN 477457v]], UID [[tax_id|ATU69003142]]. Die Geschäftsführerin [[person|De Toffoli]] bestätigte, dass das Fahrzeug am [[date|13. März 2026]] von einer Montagefirma übernommen wurde.
 
-Die Sachverständige [[person|Mag. Зоя Sujew]] stellte bei der Überprüfung fest, dass die zulässige Achslast überschritten war. Eine Beanstandung der Bremsen wurde nicht festgestellt. Die Ladung wurde vor Ort umgeschichtet, bevor das Fahrzeug weiterfahren durfte. Die Lenkerin erklärte, sie habe die Anweisungen ihres Arbeitgebers befolgt und sei über die zulässige Gesamtmasse nicht informiert worden.
+Die Sachverständige [[person|Mag. Soja Sujew]] stellte bei der Überprüfung fest, dass die zulässige Achslast überschritten war. Eine Beanstandung der Bremsen wurde nicht festgestellt. Die Ladung wurde vor Ort umgeschichtet, bevor das Fahrzeug weiterfahren durfte. Die Lenkerin erklärte, sie habe die Anweisungen ihres Arbeitgebers befolgt und sei über die zulässige Gesamtmasse nicht informiert worden.
 
 Beweismittel:
 

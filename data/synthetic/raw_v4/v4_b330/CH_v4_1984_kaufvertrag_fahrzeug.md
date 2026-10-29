@@ -55,7 +55,7 @@ Die [[organization|Beeler SA]] bestätigt, dass sie das Fahrzeug am [[date|14. O
 
 VII. Übersetzung und Zeugen
 
-Der Vertrag wurde der Käuferin in deutscher Sprache verlesen. Die Käuferin bat um eine mündliche Übersetzung in die ukrainische Sprache durch [[person|Євгенія Rudyk]], die den Inhalt schriftlich bestätigt.
+Der Vertrag wurde der Käuferin in deutscher Sprache verlesen. Die Käuferin bat um eine mündliche Übersetzung in die ukrainische Sprache durch [[person|Jewhenija Rudyk]], die den Inhalt schriftlich bestätigt.
 
 Die Unterschriften werden von den Zeugen [[person|Christy Ingold]] und [[person|Argzon Schuler]] bezeugt, die das Fahrzeug nicht als Vermittler begleitet haben.
 

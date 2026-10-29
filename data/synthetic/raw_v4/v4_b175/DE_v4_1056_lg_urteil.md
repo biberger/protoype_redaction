@@ -26,7 +26,7 @@ Halterin des Fahrzeugs ist die [[organization|Klemm Dachdecker GmbH & Co. KG]], 
 
 Die Polizei, [[organization|Polizeipräsidium Mannheim]] ([[organization|PP MA]]), nahm den Vorgang am [[date|15. Juni 2025]] auf. Die Zeugin [[person|Julijana Lakic]], [[address|Max-Hünig-Straße 12, 06773 Jüdenberg]], Mitarbeiterin der [[organization|Fichtner Pflege UG (haftungsbeschränkt)]], [[company_register_number|HRB 208407]], [[tax_id|DE935359975]], bestätigte, dass der Angeklagte am Steuer saß. Die Zeugin [[person|Lübba Petry]] sagte gleichlautend aus. Die Nebenklägerin [[person|Hildegund Stehle]], [[address|Stadlerweg 8, 82389 Böbing]], war am Vorfall nicht beteiligt.
 
-Der Zeuge [[person|Дем'Ян Kolyadenko]] gab an, er habe den Pkw nicht gelenkt. Die Sachverständige [[person|Dr. Babett Lohse]] bestätigte anhand der Fahrzeugdaten die Fahrtrichtung.
+Der Zeuge [[person|Dem'Jan Kolyadenko]] gab an, er habe den Pkw nicht gelenkt. Die Sachverständige [[person|Dr. Babett Lohse]] bestätigte anhand der Fahrzeugdaten die Fahrtrichtung.
 
 Die [[organization|Krupp GmbH & Co. KG]], [[company_register_number|HRA 280778 B]] ([[court|Amtsgericht Hamburg]]), Steuernummer 015 470 68707, als Kfz-Haftpflichtversicherer, hat den Vorgang an die Staatsanwaltschaft weitergeleitet.
 

@@ -219,7 +219,7 @@ def chunk(text, spans, max_chars):
 
 
 # a place inside the name of a unit is not a location (gold-set decision 7): "Regionaldirektion Steiermark"
-UNIT_BEFORE = re.compile(r"(?:Regionaldirektion|Außenstelle|Landesstelle|Zweigstelle|Dienststelle|Werk(?:es|s)?|"
+UNIT_BEFORE = re.compile(r"(?:Regionaldirektion|Außenstelle|Landesstelle|Zweigstelle|Dienststelle|Werk(?:es|s)?|\w*[Zz]entrum|"
                          r"Filiale|Niederlassung|Standort)\s$")
 
 

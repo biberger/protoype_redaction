@@ -7,7 +7,7 @@ VOLLMACHT UND ZUSTELLBEVOLLMÄCHTIGUNG
 
 [[organization|Kirsch Bau GmbH]], [[company_register_number|FN 297736y]], UID-Nr. [[tax_id|ATU54038740]], mit Geschäftsanschrift [[address|Sauerstoffstraße 14, 9132 Gallizien]], vertreten durch den alleinvertretungsbefugten Geschäftsführer [[person|Kaspar Fitz]], SV-Nr. [[social_security_number|2325 160853]] (im Folgenden: Vollmachtgeberin),
 
-erteilt hiermit dem Rechtsanwalt [[lawyer|Олексій Hryhorowytsch]], mit Kanzleisitz in [[address|Kärntner Straße 9/4, 1010 Wien]] (im Folgenden: Bevollmächtigter),
+erteilt hiermit dem Rechtsanwalt [[lawyer|Oleksij Hryhorowytsch]], mit Kanzleisitz in [[address|Kärntner Straße 9/4, 1010 Wien]] (im Folgenden: Bevollmächtigter),
 
 die Vollmacht zur umfassenden Vertretung der Vollmachtgeberin in der Rechtssache betreffend die Werklohnforderung aus dem Bauvertrag vom [[date|3. März 2026]] über die Errichtung eines Wohnhauses in der Gemeinde [[location|Gallizien]].
 
@@ -57,5 +57,5 @@ Geschäftsführer
 
 Angenommen:
 
-[[lawyer|Олексій Hryhorowytsch]]
+[[lawyer|Oleksij Hryhorowytsch]]
 Rechtsanwalt

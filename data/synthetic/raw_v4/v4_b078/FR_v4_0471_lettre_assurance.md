@@ -24,7 +24,7 @@ Les faits ont été établis à partir des constatations de la police et des dé
 
 Le rapport d'expertise de M. [[person|Mickaël Moulin]], expert automobile désigné par nos soins le [[date|22 octobre 2025]], conclut à des dommages à l'arrière gauche du véhicule et à la rupture du train avant. Le montant de la réparation a été évalué à 4 180 euros TTC, déduction faite de la franchise contractuelle.
 
-Par l'intermédiaire de Me [[lawyer|Ілля Gorbatschow]], avocat au barreau de [[location|Montpellier]], Mme [[person|Raguž]] a contesté la répartition de responsabilité. Elle soutient que la collision est imputable à une manœuvre de dépassement par la droite. Nous avons examiné ce point à la lumière du rapport de [[person|Moulin]] et des témoignages recueillis.
+Par l'intermédiaire de Me [[lawyer|Illja Gorbatschow]], avocat au barreau de [[location|Montpellier]], Mme [[person|Raguž]] a contesté la répartition de responsabilité. Elle soutient que la collision est imputable à une manœuvre de dépassement par la droite. Nous avons examiné ce point à la lumière du rapport de [[person|Moulin]] et des témoignages recueillis.
 
 Il résulte de cet examen que votre responsabilité ne peut être écartée. Nous retenons donc une responsabilité partagée à hauteur de 70 % à votre charge et de 30 % à celle de Mme [[person|Raguž]]. Cette répartition est fondée sur l'[[legal_norm|article 1240 du Code civil]] et sur les dispositions de l'[[legal_norm|article R. 412-9 du Code de la route]].
 

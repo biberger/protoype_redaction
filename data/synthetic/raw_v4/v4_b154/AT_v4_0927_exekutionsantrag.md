@@ -20,7 +20,7 @@ Verpflichtete Parteien:
 1. [[person|Elija Karagiannis]],
 2. [[person|Mihai Andrei Verstappen]], Zustellbevollmächtigte: [[person|Friederike van Heerden]],
 3. [[person|Walfriede Takacs]], SV-Nr. [[social_security_number|7436 190329]],
-4. [[person|Валентина Reva]],
+4. [[person|Walentyna Reva]],
 5. [[person|Dipl.-Ing. Dr. Gyongyi Lakatos, MBA MSc]], als Bürgin.
 
 I. Exekutionstitel

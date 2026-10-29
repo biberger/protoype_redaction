@@ -90,8 +90,9 @@ inside a span; that's accepted noise.
 | Synthetic v1 (`data/synthetic/raw`) | done, 40 docs | de / AT, DE | 10 coarse → canonical (no roles) | ours |
 | Synthetic v2 (`data/synthetic/raw_v2`) | done, 72 docs, audited | de / AT, DE, CH; fr / FR, CH, BE, LU | full canonical schema | ours |
 | Synthetic v3 (`data/synthetic/raw_v3`) | done, 1,000 docs, audited | de / AT, DE, CH, LI; fr / FR, CH, BE, LU | full canonical schema | ours |
+| Synthetic v4 (`data/synthetic/raw_v4`) | done, 2,000 docs (8,290 records), audited 1.5 % span errors (`docs/audits/synthetic_v4.md`) | de / AT, DE, CH, LI; fr / FR, CH, BE, LU | full canonical schema, rare labels oversampled | ours |
 | LER `elenanereiss/german-ler` | converted | de / DE federal courts | 19 classes → canonical | CC-BY-4.0 |
-| RIS OGD API (`data.bka.gv.at/ris/api/v2.6`) | done, 440 decisions (OGH/OLG/LG, VwGH, VfGH, BVwG, LVwG, 2022+) → 6,105 chunks in `data/canonical/ris.jsonl` (`legalner/sources/ris.py`, index in `data/ris/index.jsonl`) | de / AT | placeholders filled from gazetteers + rules: person, judge, lawyer, address, date, case_number, court (audit: `docs/audits/ris_rules.md`, ≈2–8 % misses per label) | open government data |
+| RIS OGD API (`data.bka.gv.at/ris/api/v2.6`) | done, 1,353 decisions (OGH/OLG/LG, VwGH, VfGH, BVwG, LVwG all states, 2020+) → 31,144 chunks in `data/canonical/ris.jsonl` (`legalner/sources/ris.py`, index in `data/ris/index.jsonl`) | de / AT | placeholders filled from gazetteers + rules: person, judge, lawyer, address, date, case_number, court (audit: `docs/audits/ris_rules.md`, ≈2–8 % misses per label) | open government data |
 | EUR-Lex / CELLAR | planned, for unlabelled legal text and teacher pseudo-labels | de, fr / EU | — | reuse permitted with attribution |
 | MAPA `joelniklaus/mapa` | converted, evaluation only (12 docs per language) | de, fr + 19 more / EU | PERSON/ADDRESS/DATE/ORG/AMOUNT, fine sub-tags | CC-BY-4.0 |
 | GLiNER v1 replay (`urchade/pile-mistral-v0.1`, `urchade/synthetic-pii-ner-mistral-v1`; **not** Pile-NER) | converted (`sources/replay.py`) | en + de/fr/it/es | open label set | Apache-2.0 |
@@ -170,59 +171,44 @@ confirm on first use, since the agent proxy logs every refused host.
 
 ## Status and next steps
 
-Done on branch `ccr-45f5c65f-g4rgnu` (continues `ccr-40b02117-uffvk3`):
-1. **Synthetic v2 audit** (`docs/audits/synthetic_v2_pilot.md`): 4.8% span errors before fixes; `legalner.audit`
-   (check digits, titles, dates, wrong labels) and new `--strict` lint rules.
-2. **LER** converted (53,384 / 6,666 / 6,673 sentences); legal_norm follows LER (bare act names tagged).
-3. **GLiNER2 loader + CPU smoke run**: full builds validate; 6-step fp32 CPU run works (~27 s/step, batch 2).
-   Role labels must be queried in a separate pass at inference (flat decoding resolves overlaps across labels).
-4. **Baselines** (`docs/baselines.md`): F1 0.53 (gliner2.5-multi-v1) / 0.54 (PII model); PII character
-   recall 0.81 / 0.93.
-5. **RIS**: `search`/`fetch`/`convert` run on 440 live decisions (raw HTML cached in the
-   gitignored `data/ris/raw`). Text extraction drops metadata blocks and the screen-reader duplicate of every
-   paragraph. Each court pseudonymises its own way (Justiz `A*`/`* K*`/`*`, BVwG `XXXX`, LVwG `***`/`xxx`/`AA`/
-   `Adresse 1`, VwGH initials `des M K in W`, VwG Wien `A. B.`/`...`); placeholders are classified from context and
-   filled per document. The rules were checked on 30 decisions; real fixtures for Justiz, BVwG and VwGH are in `tests/`.
-   Placeholders no rule can classify (5.4 % of chunks) set `meta.uncovered`, and `build.query_labels` then drops
-   the PII labels for that chunk. Audit on 24 decisions (`docs/audits/ris_rules.md`): misses before the last fixes were
-   person 4.8 %, address 8.3 %, date 2.1 %, case_number 6.9 %, court 4.8 %. Coverage unchanged. `convert` keeps 40 chunks
-   per decision because BVwG country reports would otherwise dominate. `python -m legalner.build data/canonical/ris.jsonl`
-   validates under `TrainingDataset.validate()` (4,983/723/399). Open: LVwG letter-coded towns and VwG Wien `C.-platz`
-   cut address spans; fetch more LVwG/LG.
-6. **Replay** (`sources/replay.py`: pile-mistral + synthetic-pii, open labels with sampled negatives) and
-   **MAPA** (`sources/mapa.py`, de/fr, eval only; organization scored against organization ∪ court).
-7. **Gazetteers** (`legalner/gazetteers.py`, `data/gazetteers/*.tsv`): WGND 2.0 first names (27 countries),
-   Wikidata surnames, AT/DE/CH municipalities and streets.
-   **Synthetic v3**: 1,000 documents (`data/synthetic/raw_v3`, AT 472, DE 184, CH 165, FR 102, BE 33, LU 23, LI 21)
-   from `legalner.genplan` briefs (cast of names, companies and valid identifiers per document) written by 167
-   Haiku agents (`scripts/generate_wave.workflow.js`); all pass `--strict` and `legalner.audit`; sampled LLM audit
-   1.1% span errors after the date lint (`docs/audits/synthetic_v3.md`).
-   **Austrian gold set**: 400 paragraphs from 141 held-out v3 documents, agent-reviewed (76 corrections in 5,410
-   spans), exported to `data/canonical/gold_at.jsonl` (source `gold_at`, eval only). **Needs human review**:
-   `docs/audits/gold_at_review.md` lists 121 open questions.
-   **fake_ids**: DE USt-IdNr/Steuernummer/RV-Nr/HRB, CHE-UID, SIREN/SIRET/TVA, BE enterprise number,
-   BE national register number, LU matricule, each with a validator.
+Done on branch `ccr-e3b45fa1-pbfzdy` (continues `ccr-45f5c65f-g4rgnu`; earlier history in the git log):
+1. **Gold set** (`docs/audits/gold_at_review.md`): 550 paragraphs, 400 synthetic (convention pass with the gold-set
+   decisions, artefacts fixed) + 150 RIS (first chunks of 51 decisions, fully annotated, filler artefacts fixed).
+   Conventions settled with the project lead: `GENERATION.md` decisions 1-24. Agent-reviewed, not yet human-reviewed.
+2. **RIS**: 1,353 decisions (913 new: LVwG all nine states, LG, OLG, 2020+), all chunks kept; BVwG balanced in the
+   build (`--max-per-doc ris=20 --cap ris:Bundesverwaltungsgericht=800`). New rules: VwGH `Mag. [B]`, LVwG Tirol town
+   codes, VwG Wien `C.-platz`, Burgenland `[Vertreter 1]`, Kopf degrees without dots, court seats/case numbers/durations
+   no longer filled with names, date ranges as one span. Uncovered chunks 7.9 % (Kärnten 30 %). Audit of 10 new
+   decisions in `docs/audits/ris_rules.md`.
+3. **Case robustness**: `legalner.build --case-frac 0.1` upper/lower-cases whole records or single spans (offsets kept,
+   ß stays ß); ALL-CAPS and lower-case passages are generation hard cases.
+4. **Synthetic v4**: 2,000 documents (`docs/audits/synthetic_v4.md`): every brief has 1-3 of licence plate, ID document,
+   street, phone, e-mail (new `fake_ids` generators for AT/DE/CH/FR plates and ID documents); vehicle/residence/
+   insurance/police types oversampled; degree chains; correct BE/LU social security numbers. All pass `--strict` and
+   `legalner.audit`; LLM audit 1.5 % span errors after new lint rules (towns, datelines, caps passages, phones, e-mails,
+   IBANs). Generated by Haiku agents; audits by Sonnet agents.
+5. **Mix and build** (`scripts/gpu_run.sh build`): LER 40 / synthetic 30 / RIS 15 / replay 15 % of training records
+   via `--mix` (anchored on all synthetic training records), gold documents excluded, validated with
+   `TrainingDataset.validate()` (0 invalid):
 
-Next, in order:
-1. Gold set: apply the settled conventions (`GENERATION.md`, "Gold-set decisions") to the 400 agent-reviewed
-   paragraphs, fix generation artefacts in gold texts.
-2. RIS: add `data/canonical/ris.jsonl` to the main build; select RIS paragraphs for the gold set
-   (`goldset select data/canonical/ris.jsonl`); fix the open address-span gaps (LVwG Tirol, VwG Wien) and the
-   VwGH `Mag. [B]` style; fetch more LVwG/LG decisions.
-3. Synthetic v4 (2,000 docs) oversampling rare labels (street, id_document_number, license_plate, phone, email)
-   with new fake_ids generators for plates and ID documents, degree chains before/after names, ALL-CAPS and
-   lower-case passages, and correct LU/BE social security numbers (v3 LU/BE docs carry French NIR format).
-   Case augmentation in the build (whole records and single spans upper/lower-cased) for all sources.
-   Mix target: LER ≤ 40% (cap ≈16k sentences), synthetic ≈ 30%, RIS ≈ 15% (no chunk cap; ~1,000 more decisions,
-   mostly LVwG/LG/OLG; BVwG balanced per court in the build), replay ≈ 15%.
-4. First GPU run: `legalner.build data/canonical/{synthetic,synthetic_v1,synthetic_v3,replay}.jsonl
-   data/canonical/ler/*.jsonl data/canonical/mapa/*.jsonl data/canonical/gold_at.jsonl --exclude-docs
-   data/gold/at/doc_ids.txt -o data/build/v1`, then `legalner.train` (bf16) and `legalner.evaluate` on the
-   gold set, synthetic test, LER test and MAPA against the baselines.
-   Without capping, LER is 85% of training (53k of 63k records in the merged build); cap it with
-   `--max-per-source` (or upsample synthetic/RIS via `--copies`) to reach the planned mix
-   (LER ≈ 40%, synthetic ≈ 30%, RIS ≈ 15%, replay ≈ 15%). `data/canonical/ris.jsonl` must be regenerated with
-   `python -m legalner.sources.ris fetch/convert data/ris/index.jsonl` on a machine that can reach `ogd.ris.bka.gv.at`.
+   ```
+   python -m legalner.build \
+     data/canonical/synthetic_v1.jsonl data/canonical/synthetic.jsonl data/canonical/synthetic_v3.jsonl \
+     data/canonical/synthetic_v4.jsonl data/canonical/ris.jsonl data/canonical/replay.jsonl \
+     data/canonical/ler/*.jsonl data/canonical/mapa/*.jsonl data/canonical/gold_at.jsonl \
+     --exclude-docs data/gold/at/doc_ids.txt \
+     --max-per-doc ris=20 --cap ris:Bundesverwaltungsgericht=800 \
+     --mix ler=0.4,synthetic=0.3,ris=0.15,replay=0.15 --validate -o data/build/v1
+   ```
+
+   Result: 33,453 training records (ler 13,381, replay 5,018, ris 5,018, synthetic 9,940, synthetic_v1 96; shares {'ler': 0.4, 'replay': 0.15, 'ris': 0.15, 'synthetic': 0.3}), dev 11,936, test 16,007 (incl. gold 550, MAPA, LER test); validate(): 0 invalid. 10 % of training records case-augmented.
+
+Next: **first GPU run** (`scripts/gpu_run.sh setup|data|build|smoke|train|eval`). A single GPU with bf16 and ≥ 24 GB
+(L4, A100, H100, RTX 4090). `data` regenerates `data/canonical/` (RIS fetch ≈ 25 min) or copy it (129 MB).
+`train`: 3 epochs, batch 8 × grad-accum 4, encoder LR 1e-5, task LR 5e-4, bf16, early stopping on dev loss.
+`eval`: fine-tuned model and both baselines on the gold set and the test split (per source/jurisdiction/label,
+PII character recall). Check the 20-step smoke run's loss before the full run (the 2-step CPU run went 0.60 -> 46 at
+batch size 2). Afterwards: human review of the gold set, teacher pseudo-labels for RIS organisations/places, EUR-Lex.
 
 ## Open questions
 

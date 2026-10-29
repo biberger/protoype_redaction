@@ -20,13 +20,13 @@ Spruch
 
 I. Der Antrag von [[person|Mag. Behzad Hanif, MBA MSc]], geboren am [[date|2. März 1984]], Staatsangehörigkeit [[location|Iran]], auf Erteilung der Rot-Weiß-Rot – Karte plus gemäß [[legal_norm|§ 41a Abs 1 NAG]] wird abgewiesen.
 
-II. Der Antrag der Ehegattin [[person|Михайла Sukhinin]], geboren am [[date|11. November 1990]], auf Erteilung eines Aufenthaltstitels „Familienangehöriger“ gemäß [[legal_norm|§ 47 Abs 1 iVm § 11 Abs 2 NAG]] wird abgewiesen.
+II. Der Antrag der Ehegattin [[person|Mychajla Sukhinin]], geboren am [[date|11. November 1990]], auf Erteilung eines Aufenthaltstitels „Familienangehöriger“ gemäß [[legal_norm|§ 47 Abs 1 iVm § 11 Abs 2 NAG]] wird abgewiesen.
 
 III. Die Antragsteller haben die Verfahrenskosten selbst zu tragen. Eine allfällige Rückzahlung der Verwaltungsabgabe ist auf das Konto [[bank_account|AT15 5568 3206 4075 5741]] des Antragstellers zu überweisen.
 
 Parteien:
 1. [[person|Mag. Behzad Hanif, MBA MSc]], Antragsteller;
-2. [[person|Михайла Sukhinin]], Antragstellerin;
+2. [[person|Mychajla Sukhinin]], Antragstellerin;
 3. [[person|Antonina Glas]], Dolmetscherin;
 4. [[person|Freddi Pokorny]], Zeuge;
 5. [[organization|Weinberger & Campus GmbH]], [[company_register_number|FN 450223v]], UID-Nr. [[tax_id|ATU01881669]], Dienstgeberin;

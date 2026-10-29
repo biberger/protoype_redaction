@@ -33,7 +33,7 @@ Considérant que l'intéressé ne justifie pas de la régularité de son séjour
 
 Considérant que les attestations produites par Monsieur [[person|Severin Jarry]] et Monsieur [[person|Severin Andrieu]], voisins de l'intéressé, ne sont pas de nature à établir la durée de sa présence en [[location|France]], la seconde étant accompagnée d'une copie de sa carte nationale d'identité n° [[id_document_number|R4ECHN6Y6]] ;
 
-Considérant que l'attestation de Monsieur [[person|Орест Kaniwez]], ancien employeur, est postérieure à la période litigieuse ;
+Considérant que l'attestation de Monsieur [[person|Orest Kaniwez]], ancien employeur, est postérieure à la période litigieuse ;
 
 Considérant que Monsieur [[person|Gaspard de Lorgeril]], médecin traitant, atteste d'une prise en charge régulière, sans que cela ouvre un droit au séjour ;
 

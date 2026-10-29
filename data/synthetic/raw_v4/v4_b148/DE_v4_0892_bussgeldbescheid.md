@@ -7,7 +7,7 @@ lang: de
 Bußgeldstelle
 
 Frau
-[[person|Олена Nasarow]]
+[[person|Olena Nasarow]]
 [[address|Willmerstraße 7, 98617 Einhausen]]
 
 Aktenzeichen: [[case_number|2026/OWi-0481]]

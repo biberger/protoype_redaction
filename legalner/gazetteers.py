@@ -146,6 +146,20 @@ def build_places(out_dir=OUT):
             print(f"{code}: {len(names)} streets")
 
 
+_CYR = dict(zip("абвгґдеєжзиіїйклмнопрстуфхцчшщьюяыэёъ",
+                ["a", "b", "w", "h", "g", "d", "e", "je", "sch", "s", "y", "i", "ji", "j", "k", "l", "m", "n", "o",
+                 "p", "r", "s", "t", "u", "f", "ch", "z", "tsch", "sch", "schtsch", "", "ju", "ja", "y", "e", "jo", ""]))
+
+
+def transliterate(name):
+    """Cyrillic -> German-style Latin transliteration ("Олена" -> "Olena"), as Austrian documents write such names."""
+    out = []
+    for c in name:
+        t = _CYR.get(c.lower())
+        out.append(c if t is None else (t.capitalize() if c.isupper() else t))
+    return "".join(out)
+
+
 class Gazetteer:
     """Random draws from the TSVs: names by country/gender, municipalities, streets."""
 
@@ -187,10 +201,10 @@ class Gazetteer:
         gender = gender or self.rng.choice("MF")
         first = self.first[(c, gender)] or self.first[(home, gender)]
         last = self.last[c] or self.last[home]
-        return f"{self.rng.choice(first)} {self.rng.choice(last)}"
+        return transliterate(f"{self.rng.choice(first)} {self.rng.choice(last)}")
 
     def surname(self, home="AT"):
-        return self.rng.choice(self.last[self.origin(home)] or self.last[home])
+        return transliterate(self.rng.choice(self.last[self.origin(home)] or self.last[home]))
 
     def town(self, country="AT"):
         return self.rng.choice(self.towns[country])

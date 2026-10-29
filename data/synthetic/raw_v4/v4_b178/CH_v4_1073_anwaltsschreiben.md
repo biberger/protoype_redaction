@@ -27,7 +27,7 @@ Mit Werkvertrag vom [[date|14. Mai 2025]] beauftragte unsere Mandantin Ihre Gese
 
 Die Arbeiten führte der Projektleiter [[person|Musa Dlimi]] aus. Herr [[person|Dlimi]] wies sich bei der Übergabe mit dem Führerausweis Nr. [[id_document_number|556088307002]] aus. Er ist bei Ihrer Gesellschaft als Angestellter tätig, AHV-Nr. [[social_security_number|756.3415.3867.54]].
 
-Das Gutachten von [[person|Prof. Dr. Asam Benchenaa, PhD]] vom [[date|18. August 2026]] hält fest, dass der Batteriespeicher nur eine Kapazität von rund 62 Prozent der vertraglich vereinbarten Leistung erreicht. Ergänzend bestätigte [[person|Prof. Dr. Валентина Knjasjew, MBA MSc]] in ihrer Stellungnahme vom [[date|2. September 2026]], dass die Wechselrichter nicht gemäss Herstellerangaben angeschlossen sind.
+Das Gutachten von [[person|Prof. Dr. Asam Benchenaa, PhD]] vom [[date|18. August 2026]] hält fest, dass der Batteriespeicher nur eine Kapazität von rund 62 Prozent der vertraglich vereinbarten Leistung erreicht. Ergänzend bestätigte [[person|Prof. Dr. Walentyna Knjasjew, MBA MSc]] in ihrer Stellungnahme vom [[date|2. September 2026]], dass die Wechselrichter nicht gemäss Herstellerangaben angeschlossen sind.
 
 Rechtlich liegt ein Mangel im Sinne von [[legal_norm|Art. 368 Abs. 1 und Art. 370 Abs. 1 OR]] vor. Ihre Gesellschaft hat die Anlage nicht vertragsgemäss erstellt. Gemäss [[legal_norm|Art. 368 Abs. 2 OR]] hat unsere Mandantin das Recht auf Nachbesserung oder Minderung.
 

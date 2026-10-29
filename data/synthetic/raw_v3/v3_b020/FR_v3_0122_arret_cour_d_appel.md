@@ -14,7 +14,7 @@ Décision déférée à la cour : jugement du [[court|conseil de prud'hommes de 
 
 APPELANT
 
-M. [[person|Святослав Doroschenko]], demeurant [[address|23 montée de la Grande-Côte, 69001 Lyon]]
+M. [[person|Swjatoslaw Doroschenko]], demeurant [[address|23 montée de la Grande-Côte, 69001 Lyon]]
 
 INTIMÉES
 

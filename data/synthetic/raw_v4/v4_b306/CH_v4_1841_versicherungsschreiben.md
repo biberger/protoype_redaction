@@ -4,7 +4,7 @@ jurisdiction: CH
 lang: de
 ---
 [[organization|Limmatbund Versicherungen AG]]
-Schadenzentrum [[location|Genf]]
+Schadenzentrum Genf
 [[address|Avenue de Frontenex 12, 1207 Genf]]
 Telefon [[phone_number|+41 22 039 15 90]]
 

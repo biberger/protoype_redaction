@@ -18,7 +18,7 @@ nachfolgend Mieterschaft,
 
 und
 
-[[person|Алекс Petryk]], wohnhaft [[address|Weilmattweg 4, 6925 Gentilino]], Pass Nr. [[id_document_number|X4078275]], als Solidarbürge.
+[[person|Aleks Petryk]], wohnhaft [[address|Weilmattweg 4, 6925 Gentilino]], Pass Nr. [[id_document_number|X4078275]], als Solidarbürge.
 
 **§ 1 Mietobjekt**
 
@@ -46,7 +46,7 @@ Für die Lagerung von Möbeln wird im Untergeschoss ein Lagerraum von 18 m² an 
 
 **§ 6 Solidarbürgschaft**
 
-[[person|Алекс Petryk]] verbürgt sich solidarisch für sämtliche Forderungen der Vermieterin aus diesem Mietverhältnis bis zu einem Betrag von CHF 9'800.00 nach [[legal_norm|Art. 493 OR]] und [[legal_norm|Art. 495 OR]]. Die Bürgschaft erlischt mit der Rückgabe der Wohnung und der Abnahme durch die Vermieterin, spätestens aber nach [[legal_norm|Art. 509 OR]].
+[[person|Aleks Petryk]] verbürgt sich solidarisch für sämtliche Forderungen der Vermieterin aus diesem Mietverhältnis bis zu einem Betrag von CHF 9'800.00 nach [[legal_norm|Art. 493 OR]] und [[legal_norm|Art. 495 OR]]. Die Bürgschaft erlischt mit der Rückgabe der Wohnung und der Abnahme durch die Vermieterin, spätestens aber nach [[legal_norm|Art. 509 OR]].
 
 **§ 7 Streitigkeiten**
 
@@ -72,4 +72,4 @@ Für die Vermieterin: [[person|Gadi von Beroldingen]]
 
 Die Mieterschaft: [[person|Hartwin Wanner]], [[person|Jocelyne Lehner]]
 
-Der Solidarbürge: [[person|Алекс Petryk]]
+Der Solidarbürge: [[person|Aleks Petryk]]

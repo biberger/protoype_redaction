@@ -65,3 +65,12 @@ New lint rules from this round: untagged IBANs; repeats of a tagged multi-word n
 the first letter. They found 5 more misses in batches 0-291 (4 IBANs, 1 court), fixed.
 Realism: ≈ 6 issues per document (amounts and fines, competence, structure of the document type); these do not
 affect the tags.
+
+## Wave 8 and completion
+
+All 2,000 briefs written (one missing document of batch 235 written separately); all pass `--strict` and
+`legalner.audit`. Wave-8 audit (6 documents): 7 errors, 5 of them one untagged French town repeated in one document
+(fixed), a spurious location inside "Schadenzentrum Genf" (fixed; lint now treats "…zentrum X" as a unit name) and an
+authority reference labelled other_identifier (now case_number). Artefact found in several waves: Ukrainian first names
+from the WGND gazetteer in Cyrillic next to a Latin surname ("Олена Nasarow", 34 spans in v4). The gazetteer now
+transliterates Cyrillic names (German style: Olena, Jewhenija, Illja); 31 v3/v4 files were transliterated in place.

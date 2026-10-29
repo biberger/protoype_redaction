@@ -21,7 +21,7 @@ und
 
 II. Käuferin
 
-[[organization|Schwartz & Baden KG]], Sitz [[location|Mannheim]], eingetragen im Handelsregister des [[court|Amtsgerichts Mannheim]] unter [[company_register_number|HRA 148710 B]], USt-IdNr. [[tax_id|DE585555530]], Steuernummer [[tax_id|469/470/17551]], vertreten durch den persönlich haftenden Gesellschafter [[person|Prof. Dr. Тарас Sirobaba, MBA]], wohnhaft [[address|Meisensteig 4, 19399 Dobbertin]].
+[[organization|Schwartz & Baden KG]], Sitz [[location|Mannheim]], eingetragen im Handelsregister des [[court|Amtsgerichts Mannheim]] unter [[company_register_number|HRA 148710 B]], USt-IdNr. [[tax_id|DE585555530]], Steuernummer [[tax_id|469/470/17551]], vertreten durch den persönlich haftenden Gesellschafter [[person|Prof. Dr. Taras Sirobaba, MBA]], wohnhaft [[address|Meisensteig 4, 19399 Dobbertin]].
 
 § 1 Vertragsgegenstand
 
@@ -108,6 +108,6 @@ Die Parteien verarbeiten personenbezogene Daten ausschließlich zur Durchführun
 
 Für die Käuferin:
 
-[[person|Prof. Dr. Тарас Sirobaba, MBA]]
+[[person|Prof. Dr. Taras Sirobaba, MBA]]
 
 STEMPEL: [[organization|SCHWARTZ & BADEN KG]] · [[location|MANNHEIM]] · [[company_register_number|HRA 148710 B]]

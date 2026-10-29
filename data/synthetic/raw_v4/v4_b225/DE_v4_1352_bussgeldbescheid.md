@@ -50,7 +50,7 @@ Anhörung und Verteidigung
 
 Auf die Anhörung vom [[date|3. September 2026]] haben Sie sich nicht geäußert. Mit Schriftsatz vom [[date|2. Oktober 2026]] hat sich die Rechtsanwältin [[lawyer|Léonne Boileau]] als Verteidigerin angezeigt und um Akteneinsicht gebeten. Die Akteneinsicht wurde gewährt, eine Stellungnahme der Verteidigung ist bis zum Erlass dieses Bescheides nicht eingegangen.
 
-Die Geschäftsführerin der Halterin, [[person|Frances Freudenberg]], hat dem Bußgeldreferat mitgeteilt, dass das Fahrzeug am Tattag von [[person|Lucia Gruber]] genutzt wurde. Die Disponentin [[person|Ніна Ilchuk]] bestätigte den Einsatzplan mit Schreiben vom [[date|8. September 2026]]. Die Fahrerin [[person|Gruber]] hat die Fahrt nach dieser Auskunft im Rahmen ihrer Tätigkeit für die Halterin unternommen.
+Die Geschäftsführerin der Halterin, [[person|Frances Freudenberg]], hat dem Bußgeldreferat mitgeteilt, dass das Fahrzeug am Tattag von [[person|Lucia Gruber]] genutzt wurde. Die Disponentin [[person|Nina Ilchuk]] bestätigte den Einsatzplan mit Schreiben vom [[date|8. September 2026]]. Die Fahrerin [[person|Gruber]] hat die Fahrt nach dieser Auskunft im Rahmen ihrer Tätigkeit für die Halterin unternommen.
 
 Der Zeuge [[person|Einhard Melcher]], [[address|Gottlieb-Schöne-Weg 4, 97653 Bischofsheim in der Rhön]], der bei der Verladung auf dem Hof der Halterin anwesend war, hat angegeben, das Fahrzeug sei am Tattag gegen 14:30 Uhr ausgefahren. Die Angaben decken sich mit dem Lieferschein. Eine Beobachtung der Fahrweise durch Dritte liegt nicht vor. Die Messstelle befindet sich nach dem Messprotokoll auf Höhe des Verkehrszeichens 274 mit der Beschränkung auf 50 km/h, das zuletzt im Juli 2026 durch das Tiefbauamt neu aufgestellt wurde.
 

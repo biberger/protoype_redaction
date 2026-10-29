@@ -67,7 +67,7 @@ IV. Ergebnis
 
 19. Der Ausspruch über die Kosten gründet sich auf die Teilstattgebung. Die Aufhebung tritt mit Ablauf des [[date|31. Dezember 2026]] in Kraft. Frühere Verfahren bleiben unberührt, soweit die Kostenbescheide bereits rechtskräftig sind.
 
-Der [[court|Verfassungsgerichtshof]] hat dieses Erkenntnis in Anwesenheit des Schriftführers gefällt. Berichterstatter war [[judge|Fips Gasser]]; Mitglieder des Senats waren [[judge|Sefried Steinbauer]] und [[judge|Вячеслав Danyltschuk]].
+Der [[court|Verfassungsgerichtshof]] hat dieses Erkenntnis in Anwesenheit des Schriftführers gefällt. Berichterstatter war [[judge|Fips Gasser]]; Mitglieder des Senats waren [[judge|Sefried Steinbauer]] und [[judge|Wjatscheslaw Danyltschuk]].
 
 [[location|Wien]], am [[date|24. Juni 2026]]
 

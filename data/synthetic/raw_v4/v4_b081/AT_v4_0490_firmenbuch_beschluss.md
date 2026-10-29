@@ -27,7 +27,7 @@ Begründung
 
 I. Sachverhalt
 
-Die [[organization|Grabner KG]] ist mit der FN [[company_register_number|206364b]] im Firmenbuch eingetragen. Persönlich haftende Gesellschafterin ist [[person|Gatty Pölzl]]; Kommanditistin ist [[person|Catherine Velimirović]]. Der Kommanditanteil des bisherigen Kommanditisten [[person|BSc Ярослав Mamchur]] wurde mit Vertrag vom [[date|12. Mai 2026]] an [[person|Lammert Wimmer]] abgetreten. Der Abtretungsvertrag wurde von [[lawyer|Dr. med. Caecilia Unterberger]], Rechtsanwältin, errichtet.
+Die [[organization|Grabner KG]] ist mit der FN [[company_register_number|206364b]] im Firmenbuch eingetragen. Persönlich haftende Gesellschafterin ist [[person|Gatty Pölzl]]; Kommanditistin ist [[person|Catherine Velimirović]]. Der Kommanditanteil des bisherigen Kommanditisten [[person|BSc Jaroslaw Mamchur]] wurde mit Vertrag vom [[date|12. Mai 2026]] an [[person|Lammert Wimmer]] abgetreten. Der Abtretungsvertrag wurde von [[lawyer|Dr. med. Caecilia Unterberger]], Rechtsanwältin, errichtet.
 
 Die Anmeldung dieses Wechsels langte am [[date|3. Juni 2026]] beim Firmenbuchgericht ein. Die Rechtspflegerin [[judge|Dr. Heriberta Schiestl]] wies die Anmeldung mit Beschluss vom [[date|29.06.2026]] zurück, weil der Nachweis der Gesellschafterbeschlüsse nicht vorgelegt war. Sie trug der Anmelderin auf, den Mangel binnen vier Wochen zu beheben.
 

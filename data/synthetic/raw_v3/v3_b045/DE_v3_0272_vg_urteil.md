@@ -25,7 +25,7 @@ Beklagter,
 
 beigeladen: [[organization|Brockmann GmbH & Co. KG]], [[address|Kernbeißerweg 4, 92715 Wurz]], [[company_register_number|HRB 115221]] beim [[court|Amtsgericht Stuttgart]], USt-IdNr. [[tax_id|DE513943543]], Steuernummer [[tax_id|761/5975/9754]]
 
-hat das [[court|Verwaltungsgericht Stuttgart]], 8. Kammer, durch den Vorsitzenden Richter am Verwaltungsgericht [[judge|Friderich Anders]], die Richterin am Verwaltungsgericht [[judge|Graciela Begović]] und die Richterin [[judge|Dr. med. Coba Engler]] sowie die ehrenamtlichen Richter [[judge|Tonius Höhn]] und [[judge|Тимофій Pantschenko]] aufgrund der mündlichen Verhandlung vom [[date|14.05.2026]] für Recht erkannt:
+hat das [[court|Verwaltungsgericht Stuttgart]], 8. Kammer, durch den Vorsitzenden Richter am Verwaltungsgericht [[judge|Friderich Anders]], die Richterin am Verwaltungsgericht [[judge|Graciela Begović]] und die Richterin [[judge|Dr. med. Coba Engler]] sowie die ehrenamtlichen Richter [[judge|Tonius Höhn]] und [[judge|Tymofij Pantschenko]] aufgrund der mündlichen Verhandlung vom [[date|14.05.2026]] für Recht erkannt:
 
 Tenor
 

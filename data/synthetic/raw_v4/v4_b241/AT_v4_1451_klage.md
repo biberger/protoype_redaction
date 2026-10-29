@@ -9,7 +9,7 @@ An das [[court|Landesgericht Wels]]
 
 Klage
 
-der Klägerin [[person|Злата Telehina]], [[address|Industriestraße 15/5, 2880 Kirchberg am Wechsel]], Staatsangehörigkeit [[location|Ukraine]], geboren am [[date|8. Februar 1984]], Personalausweis Nr. [[id_document_number|C9955792]], vertreten durch [[lawyer|Irina Lenz]], Rechtsanwältin in [[location|Wels]],
+der Klägerin [[person|Slata Telehina]], [[address|Industriestraße 15/5, 2880 Kirchberg am Wechsel]], Staatsangehörigkeit [[location|Ukraine]], geboren am [[date|8. Februar 1984]], Personalausweis Nr. [[id_document_number|C9955792]], vertreten durch [[lawyer|Irina Lenz]], Rechtsanwältin in [[location|Wels]],
 
 gegen
 

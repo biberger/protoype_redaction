@@ -22,7 +22,7 @@ abgeschlossen am [[date|2. März 2026]] in [[location|Düsseldorf]] zwischen den
 [[organization|Badr Metallbau GmbH & Co. KG]], Betriebsstätte [[address|Spielmannsgasse 2, 07952 Pausa-Mühltroff]], HRA [[company_register_number|107348]] beim [[court|Amtsgericht Charlottenburg]], USt-IdNr. [[tax_id|DE324024069]], Steuernummer [[tax_id|73/626/66693]], vertreten durch den Geschäftsführer der Komplementärin, [[person|Dr. Ilrich Knoop]].
 
 4. Eigentümerin bis zur vollständigen Zahlung:
-[[organization|Volkmann KG]], HRA [[company_register_number|146745]] beim [[court|Amtsgericht Düsseldorf]], USt-IdNr. [[tax_id|DE856124276]], Steuernummer [[tax_id|97 839 43933]], vertreten durch die Prokuristin [[person|Тетяна Outkine]] und die Kommanditistin [[person|Goldtraud Schenkel]].
+[[organization|Volkmann KG]], HRA [[company_register_number|146745]] beim [[court|Amtsgericht Düsseldorf]], USt-IdNr. [[tax_id|DE856124276]], Steuernummer [[tax_id|97 839 43933]], vertreten durch die Prokuristin [[person|Tetjana Outkine]] und die Kommanditistin [[person|Goldtraud Schenkel]].
 
 5. Treuhänder für den Kaufpreis:
 [[lawyer|Anders Hegemann]], Rechtsanwalt in [[location|Düsseldorf]].
@@ -77,7 +77,7 @@ Die Verkäuferinnen zu 2: [[person|Dr. med. Friedrike Weidemann]], [[person|Aji�
 
 Für die Käuferin: [[person|Dr. Ilrich Knoop]]
 
-Für die [[organization|Volkmann KG]]: [[person|Тетяна Outkine]], [[person|Goldtraud Schenkel]]
+Für die [[organization|Volkmann KG]]: [[person|Tetjana Outkine]], [[person|Goldtraud Schenkel]]
 
 Treuhänder: [[lawyer|Anders Hegemann]]
 

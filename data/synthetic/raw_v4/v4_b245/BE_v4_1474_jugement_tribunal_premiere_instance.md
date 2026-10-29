@@ -16,7 +16,7 @@ Parties
 
 Partie demanderesse :
 
-la [[organization|Imprimerie Van Isacker SRL]], numéro d'entreprise [[company_register_number|1948.661.110]], dont le siège est établi [[address|rue des Brasseurs 12, 1348 Louvain-la-Neuve]], représentée par Me [[lawyer|Віталій Bulatov]], avocat à [[location|Mons]].
+la [[organization|Imprimerie Van Isacker SRL]], numéro d'entreprise [[company_register_number|1948.661.110]], dont le siège est établi [[address|rue des Brasseurs 12, 1348 Louvain-la-Neuve]], représentée par Me [[lawyer|Witalij Bulatov]], avocat à [[location|Mons]].
 
 Parties défenderesses :
 

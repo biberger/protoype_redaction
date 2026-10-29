@@ -7,7 +7,7 @@ lang: fr
 Centre de traitement des contraventions, [[location|Rennes]]
 
 AVIS DE CONTRAVENTION
-N° [[other_identifier|2V4418839072]]
+N° [[case_number|2V4418839072]]
 
 Avis émis le [[date|14/03/2026]], soit le [[date|14 mars 2026]]
 
@@ -22,7 +22,7 @@ Gérant : [[person|Brieuc d'Orléans]]
 
 Véhicule : poids lourd, catégorie N2, immatriculé [[license_plate|FH-477-AY]]
 
-Infraction constatée le [[date|02/03/2026]] à 14 h 12, sur la rocade ouest de [[location|Toulouse]], dans le sens de la sortie vers Blagnac. Le véhicule circulait à une vitesse de 79 km/h, alors que la vitesse maximale autorisée pour cette catégorie de véhicule est de 70 km/h, après déduction de la marge d'erreur applicable au cinémomètre.
+Infraction constatée le [[date|02/03/2026]] à 14 h 12, sur la rocade ouest de [[location|Toulouse]], dans le sens de la sortie vers [[location|Blagnac]]. Le véhicule circulait à une vitesse de 79 km/h, alors que la vitesse maximale autorisée pour cette catégorie de véhicule est de 70 km/h, après déduction de la marge d'erreur applicable au cinémomètre.
 
 Fondement
 
@@ -38,7 +38,7 @@ Désignation du conducteur
 
 Le titulaire a désigné par le formulaire joint, reçu par le service le [[date|27/03/2026]], la conductrice du véhicule au moment des faits : [[person|Tiphany Papin]], née le [[date|11 octobre 1988]], numéro de sécurité sociale [[social_security_number|2 29 05 14 353 270 28]]. Le formulaire a été signé par [[person|Priscilla Gros]], responsable administrative de la société, qui certifie l'exactitude des informations transmises.
 
-Une attestation écrite de [[person|Rodolphe Devillers]], chef d'équipe, confirme que la conductrice assurait la livraison du chantier de Blagnac le jour des faits. Cette attestation est datée du [[date|20 mars 2026]]. Elle précise que le véhicule a quitté le dépôt de [[location|Toulouse]] à 13 h 40 avec un chargement de carrelage, et que la conductrice disposait d'une feuille de route établie par la société.
+Une attestation écrite de [[person|Rodolphe Devillers]], chef d'équipe, confirme que la conductrice assurait la livraison du chantier de [[location|Blagnac]] le jour des faits. Cette attestation est datée du [[date|20 mars 2026]]. Elle précise que le véhicule a quitté le dépôt de [[location|Toulouse]] à 13 h 40 avec un chargement de carrelage, et que la conductrice disposait d'une feuille de route établie par la société.
 
 Requête et contestation
 
@@ -64,7 +64,7 @@ Lettre de la société
 
 Le texte de la requête a été signé par [[person|Priscilla Gros]] au nom de la société. Il est reproduit ci-dessous :
 
-« Madame, Monsieur, nous contestons l'avis de contravention référencé ci-dessus. Le véhicule [[license_plate|FH-477-AY]] a effectué ce jour-là une tournée de livraison pour un chantier de Blagnac, sous la conduite de notre salariée. Nous ne contestons pas la désignation de la conductrice, mais nous estimons que la vitesse relevée est erronée. Le tachygraphe du véhicule n'indique aucun dépassement à l'endroit de la mesure. Nous vous prions de bien vouloir examiner notre demande de remboursement. Veuillez agréer, Madame, Monsieur, l'expression de nos salutations distinguées. »
+« Madame, Monsieur, nous contestons l'avis de contravention référencé ci-dessus. Le véhicule [[license_plate|FH-477-AY]] a effectué ce jour-là une tournée de livraison pour un chantier de [[location|Blagnac]], sous la conduite de notre salariée. Nous ne contestons pas la désignation de la conductrice, mais nous estimons que la vitesse relevée est erronée. Le tachygraphe du véhicule n'indique aucun dépassement à l'endroit de la mesure. Nous vous prions de bien vouloir examiner notre demande de remboursement. Veuillez agréer, Madame, Monsieur, l'expression de nos salutations distinguées. »
 
 Avis technique
 
@@ -92,11 +92,11 @@ Dans la mesure où la conductrice désignée a été identifiée à la date du [
 
 Données de géolocalisation
 
-Les données transmises par la société couvrent la journée du [[date|02/03/2026]] entre 13 h 30 et 15 h 00. Elles indiquent un départ du dépôt, un arrêt de vingt-cinq minutes sur le chantier de Blagnac, puis un retour par la rocade. Les points de passage ne sont espacés que de deux minutes, ce qui ne permet pas de reconstituer précisément la vitesse au point de mesure. Le relevé ne fait donc apparaître aucune contradiction décisive avec la constatation, mais il confirme la présence du véhicule sur la rocade à l'heure de l'infraction.
+Les données transmises par la société couvrent la journée du [[date|02/03/2026]] entre 13 h 30 et 15 h 00. Elles indiquent un départ du dépôt, un arrêt de vingt-cinq minutes sur le chantier de [[location|Blagnac]], puis un retour par la rocade. Les points de passage ne sont espacés que de deux minutes, ce qui ne permet pas de reconstituer précisément la vitesse au point de mesure. Le relevé ne fait donc apparaître aucune contradiction décisive avec la constatation, mais il confirme la présence du véhicule sur la rocade à l'heure de l'infraction.
 
 Tournée et feuille de route
 
-La feuille de route établie par la société prévoyait deux livraisons de carrelage pour le chantier de Blagnac, la première à 13 h 50 et la seconde à 14 h 30. Elle ne mentionne pas d'arrêt intermédiaire sur la rocade. Le représentant de la société a indiqué que la conductrice avait choisi cet itinéraire en raison d'un accident survenu sur la voie principale. Aucun justificatif de cet accident n'a été produit.
+La feuille de route établie par la société prévoyait deux livraisons de carrelage pour le chantier de [[location|Blagnac]], la première à 13 h 50 et la seconde à 14 h 30. Elle ne mentionne pas d'arrêt intermédiaire sur la rocade. Le représentant de la société a indiqué que la conductrice avait choisi cet itinéraire en raison d'un accident survenu sur la voie principale. Aucun justificatif de cet accident n'a été produit.
 
 Modalités de paiement
 

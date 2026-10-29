@@ -30,7 +30,7 @@ et :
 4. [[person|Suhair Baas]], témoin,
 5. [[person|Gautier Cruchten]], huissier de justice,
 
-intimés, représentés, pour Mme [[person|Chindriș]], par Me [[lawyer|Benedikt Fiedler]], et pour Mme [[person|Schweitzer]], par Me [[lawyer|Клавдія Kulisch]], avocats à la Cour.
+intimés, représentés, pour Mme [[person|Chindriș]], par Me [[lawyer|Benedikt Fiedler]], et pour Mme [[person|Schweitzer]], par Me [[lawyer|Klawdija Kulisch]], avocats à la Cour.
 
 Faits et procédure
 

@@ -19,7 +19,7 @@ für die klagende Partei: [[organization|Kieslinger Software GmbH]], [[company_r
 
 für die beklagte Partei: [[person|Ferruccia Torrisi]], wohnhaft [[address|Gablenzgasse 5/8, 8332 Auersbach]], persönlich
 
-Zeugen: [[person|Tahmina Masoud]], [[person|Ing. Julie Wiesenthal]], [[person|Станислав Novak]] und [[person|August Liska]]
+Zeugen: [[person|Tahmina Masoud]], [[person|Ing. Julie Wiesenthal]], [[person|Stanyslaw Novak]] und [[person|August Liska]]
 
 Die Verhandlung leitete der zuständige Richter. Die Protokollführung erfolgte durch die Schriftführerin. Die Parteien wurden über die Möglichkeit eines Vergleichs belehrt.
 
@@ -31,7 +31,7 @@ Die Zeugin [[person|Tahmina Masoud]], wohnhaft [[address|Sagedergasse 27, 4092 E
 
 Die Zeugin [[person|Ing. Julie Wiesenthal]] führte als Projektleiterin der klagenden Partei aus, dass die Abnahme am [[date|17.06.2025]] schriftlich erfolgt sei. Sie legte das Abnahmeprotokoll als Beilage ./B vor. Auf die Frage des Gerichts, warum die Mängelliste der beklagten Partei erst am [[date|3. Juli 2025]] übermittelt worden sei, antwortete die Zeugin, die Liste sei ihr nicht vor diesem Zeitpunkt zugegangen.
 
-Der Zeuge [[person|Станислав Novak]] gab an, er sei Techniker der klagenden Partei und habe die Schnittstelle am Standort der beklagten Partei eingerichtet. Er bestätigte die Angaben der Zeugin [[person|Wiesenthal]] zur Übergabe, konnte jedoch zur Mängelliste nichts Konkretes sagen. Er wohne in [[address|Blumberggasse 44/1, 8712 Niklasdorf]] und sei für die Klägerin auf Honorarbasis tätig.
+Der Zeuge [[person|Stanyslaw Novak]] gab an, er sei Techniker der klagenden Partei und habe die Schnittstelle am Standort der beklagten Partei eingerichtet. Er bestätigte die Angaben der Zeugin [[person|Wiesenthal]] zur Übergabe, konnte jedoch zur Mängelliste nichts Konkretes sagen. Er wohne in [[address|Blumberggasse 44/1, 8712 Niklasdorf]] und sei für die Klägerin auf Honorarbasis tätig.
 
 Der Zeuge [[person|August Liska]] war als Steuerberater der beklagten Partei tätig und erklärte, dass die Rechnungen der Klägerin im Jahresabschluss 2025 unter dem Posten sonstige betriebliche Aufwendungen verbucht worden seien. Der Zeuge stellte zudem klar, dass er die Software selbst nicht genutzt habe.
 

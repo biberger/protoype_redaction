@@ -21,7 +21,7 @@ Begründung
 
 1. Mit Straferkenntnis der [[organization|Magistratsabteilung 36 der Stadt Wien]] ([[organization|MA 36]]) vom [[date|14. Februar 2025]] wurde der Beschwerdeführerin eine Verwaltungsübertretung nach [[legal_norm|§ 366 Abs 1 Z 2 GewO 1994]] zur Last gelegt. Die Tat soll am [[date|11. Jänner 2025]] auf der [[street|Hohenbrunner Straße]] in [[location|Wien]] begangen worden sein, wo ein Montagetrupp der Beschwerdeführerin ohne die erforderliche Anzeige tätig gewesen sei.
 
-2. Die Mitbeteiligte [[person|Мирослава Bokij]], vertreten durch Rechtsanwalt [[lawyer|Torsten Weinmann]], hatte als Zeugin ausgesagt. Sie legte bei ihrer Einvernahme ihren Reisepass Nr. [[id_document_number|S8203854]] vor, um ihre Identität zu belegen. Die Zeuginnen [[person|Reinhild Römer]] und [[person|Mag. Traudl Gudenus]] bestätigten die Anwesenheit des Montagetrupps.
+2. Die Mitbeteiligte [[person|Myroslawa Bokij]], vertreten durch Rechtsanwalt [[lawyer|Torsten Weinmann]], hatte als Zeugin ausgesagt. Sie legte bei ihrer Einvernahme ihren Reisepass Nr. [[id_document_number|S8203854]] vor, um ihre Identität zu belegen. Die Zeuginnen [[person|Reinhild Römer]] und [[person|Mag. Traudl Gudenus]] bestätigten die Anwesenheit des Montagetrupps.
 
 3. Das Verwaltungsgericht hat die Beschwerde gegen das Straferkenntnis mit dem angefochtenen Erkenntnis abgewiesen und die ordentliche Revision für unzulässig erklärt. Die Beschwerdeführerin erhebt Beschwerde an den [[court|Verfassungsgerichtshof]] gemäß [[legal_norm|Art 144 Abs 1 B-VG]].
 
@@ -47,7 +47,7 @@ Rechtliche Beurteilung
 
 9. Der Antrag der Beschwerdeführerin, die Akten des Verfahrens bei der [[organization|Magistratsabteilung 36 der Stadt Wien]] beizuziehen, war abzuweisen, weil der entscheidungsrelevante Sachverhalt aus dem Verwaltungsakt hinreichend feststeht. Die Beschwerdeführerin hat die Akteneinsicht vor dem Verwaltungsgericht selbst nicht beantragt, sondern erst in der Beschwerde gerügt, weshalb das Vorbringen verspätet ist.
 
-10. Die Beschwerdeführerin rügt weiters eine Verletzung des [[legal_norm|Art 6 Abs 1 EMRK]] iVm [[legal_norm|Art 47 GRC]], weil die Mitbeteiligte [[person|Мирослава Bokij]] nicht durch einen Dolmetscher einvernommen worden sei. Dieses Vorbringen ist unzutreffend: Die Mitbeteiligte hat ihre Aussage in deutscher Sprache gemacht, wie das Protokoll ausweist. Die Niederschrift wurde ihr nach der Einvernahme vorgelesen und von ihr unterfertigt.
+10. Die Beschwerdeführerin rügt weiters eine Verletzung des [[legal_norm|Art 6 Abs 1 EMRK]] iVm [[legal_norm|Art 47 GRC]], weil die Mitbeteiligte [[person|Myroslawa Bokij]] nicht durch einen Dolmetscher einvernommen worden sei. Dieses Vorbringen ist unzutreffend: Die Mitbeteiligte hat ihre Aussage in deutscher Sprache gemacht, wie das Protokoll ausweist. Die Niederschrift wurde ihr nach der Einvernahme vorgelesen und von ihr unterfertigt.
 
 11. Die Beschwerdeführerin behauptet überdies eine Verletzung des Eigentumsrechts nach [[legal_norm|Art 5 StGG]], ohne ein konkretes Eigentumsobjekt zu benennen, das durch das Straferkenntnis entzogen worden wäre. Ein solches Vorbringen ist nicht ausreichend, um die Verletzung eines verfassungsgesetzlich gewährleisteten Rechts darzutun.
 

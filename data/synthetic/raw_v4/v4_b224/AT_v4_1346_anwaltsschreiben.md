@@ -40,7 +40,7 @@ Die Konstruktionssoftware für die Steuerung der Schweißroboter hat unsere Mand
 
 Die Stahlteile wurden in mehreren Fuhren vom Werk Polling nach [[location|Telfs]] überstellt und am [[date|13.02.2026]] auf der Baustelle übernommen. Die Montage erfolgte vom [[date|16. Februar 2026]] bis [[date|27. Februar 2026]] unter der Bauleitung der Mandantin, vertreten durch die Bauleiterin [[person|Zdenka Hofmann-Taibl]]. Frau [[person|Hofmann-Taibl]] ist Zeugin der Montagearbeiten; ihre Dienstbestätigung trägt die SV-Nr. [[social_security_number|7617 050587]].
 
-Am [[date|27.02.2026]] stellte Ihr Montageleiter, [[person|Ing. Нікіта Timofejew]], ein Abnahmeprotokoll aus, in dem die Funktionsprüfung der Schweißroboter ausdrücklich bestätigt wird. Die Mandantin hat das Protokoll gegengezeichnet. Mit Schreiben vom selben Tag haben Sie dennoch die Zahlung der zweiten und dritten Rate verweigert und erklärt, die Montage sei mangelhaft. Konkrete Mängel haben Sie nicht bezeichnet, insbesondere keine Stelle der Schweißnähte und keinen Prüfbericht vorgelegt. Zur Identifizierung des Montageleiters liegt die Kopie seines Führerscheins Nr. [[id_document_number|96278412]] als Beilage ./3 bei.
+Am [[date|27.02.2026]] stellte Ihr Montageleiter, [[person|Ing. Nikita Timofejew]], ein Abnahmeprotokoll aus, in dem die Funktionsprüfung der Schweißroboter ausdrücklich bestätigt wird. Die Mandantin hat das Protokoll gegengezeichnet. Mit Schreiben vom selben Tag haben Sie dennoch die Zahlung der zweiten und dritten Rate verweigert und erklärt, die Montage sei mangelhaft. Konkrete Mängel haben Sie nicht bezeichnet, insbesondere keine Stelle der Schweißnähte und keinen Prüfbericht vorgelegt. Zur Identifizierung des Montageleiters liegt die Kopie seines Führerscheins Nr. [[id_document_number|96278412]] als Beilage ./3 bei.
 
 4. Weiterer Schriftverkehr
 
@@ -93,7 +93,7 @@ Unsere Mandantin behält sich vor, weitere Schadenersatzansprüche wegen der ver
 
 V. Beweisangebot
 
-Zum Beweis der Abnahme und der Montageleistungen bieten wir die Einvernahme der Bauleiterin [[person|Zdenka Hofmann-Taibl]] sowie des Gesellschafters [[person|Viktor Reich]] an. Zum Beweis der Übergabe der Steuerungssoftware bieten wir die Vorlage der Übergabebestätigung als Beilage ./5 sowie die Einvernahme des Prokuristen [[person|Mag. Volkhart Horst]] an. Die Einvernahme des Projektleiters [[person|Ing. Нікіта Timofejew]] wird ebenfalls beantragt, soweit er das Abnahmeprotokoll unterfertigt hat.
+Zum Beweis der Abnahme und der Montageleistungen bieten wir die Einvernahme der Bauleiterin [[person|Zdenka Hofmann-Taibl]] sowie des Gesellschafters [[person|Viktor Reich]] an. Zum Beweis der Übergabe der Steuerungssoftware bieten wir die Vorlage der Übergabebestätigung als Beilage ./5 sowie die Einvernahme des Prokuristen [[person|Mag. Volkhart Horst]] an. Die Einvernahme des Projektleiters [[person|Ing. Nikita Timofejew]] wird ebenfalls beantragt, soweit er das Abnahmeprotokoll unterfertigt hat.
 
 IV. Weiteres Vorgehen
 

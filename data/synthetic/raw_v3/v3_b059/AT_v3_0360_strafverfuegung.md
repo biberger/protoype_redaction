@@ -9,7 +9,7 @@ lang: de
 Zl. [[case_number|III-S-4471/2026]]
 
 An
-[[person|Ing. Тимофій Hussjew]]
+[[person|Ing. Tymofij Hussjew]]
 [[address|Luckenholzgasse 8, 7431 Bad Tatzmannsdorf]]
 
 Zulassungsbesitzerin: [[person|Senta Rodler]], [[address|Seitenweg 10, 9584 Finkenstein am Faaker See]]

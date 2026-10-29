@@ -34,7 +34,7 @@ I. Verfahrensgang und Sachverhalt
 
 5. Die Zeugin [[person|Serafina Czernin]], wohnhaft in [[address|Unterbergerstraße 10, 8961 Sölk]], hat ausgesagt, dass sie [[person|Csáky]] im Jahr 2023 bei einer Baustelle in [[location|Wels]] als verantwortlichen Elektriker kennengelernt habe. Ob dieser damals über eine Gewerbeberechtigung verfügte, konnte sie nicht angeben.
 
-6. Der Zeuge [[person|Всеволод Hakobjan]] ist Lieferant von Schaltmaterial für die [[organization|Gottlieb Elektro OG]]. Er bestätigte, dass Rechnungen über Installationsmaterial jeweils an [[person|Fradin]] gerichtet waren und dass [[person|Csáky]] lediglich die Abholung organisierte.
+6. Der Zeuge [[person|Wsewolod Hakobjan]] ist Lieferant von Schaltmaterial für die [[organization|Gottlieb Elektro OG]]. Er bestätigte, dass Rechnungen über Installationsmaterial jeweils an [[person|Fradin]] gerichtet waren und dass [[person|Csáky]] lediglich die Abholung organisierte.
 
 7. Die Zeugin [[person|Ilse Wagner-Hoyos]] ist Sachbearbeiterin der Wirtschaftskammer und hat die Unterlagen der Antragstellerin im Vorfeld geprüft. Sie erklärte, dass die vorgelegten Nachweise nur für eine Teilberechtigung, nicht aber für das Elektrotechnikgewerbe ausreichen.
 

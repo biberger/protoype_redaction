@@ -5,7 +5,7 @@ lang: de
 ---
 TESTAMENT
 
-Ich, [[person|Олеся Ahejew]], geboren in [[location|Radkersburg]], wohnhaft in [[address|Wambacher Straße 4, 6551 Pians]], SV-Nr. [[social_security_number|8071 040647]], errichte hiermit meinen letzten Willen. Ich bin bei klarem Verstand, doch nach dem Unfall vom [[date|9. Jänner 2026]] habe ich eine Verletzung der Wirbelsäule davongetragen, die mich veranlasst, meine Angelegenheiten zu ordnen.
+Ich, [[person|Olesja Ahejew]], geboren in [[location|Radkersburg]], wohnhaft in [[address|Wambacher Straße 4, 6551 Pians]], SV-Nr. [[social_security_number|8071 040647]], errichte hiermit meinen letzten Willen. Ich bin bei klarem Verstand, doch nach dem Unfall vom [[date|9. Jänner 2026]] habe ich eine Verletzung der Wirbelsäule davongetragen, die mich veranlasst, meine Angelegenheiten zu ordnen.
 
 Am [[date|9. Jänner 2026]] verunglückte ich auf der [[street|Bürgerspitalgasse]] in [[location|Radkersburg]], als ein Fahrzeug mit dem Kennzeichen [[license_plate|KB-68N]] beim Abbiegen gegen meinen Roller stieß. Der Lenker war [[person|Irvin Edler]], wohnhaft in [[address|Raidenstraße 7, 6365 Kirchberg in Tirol]], der den Unfall nicht verschuldet hat, wie die Polizei später festgestellt hat. Ich bestätige, dass ich dem Lenker keinerlei Vorwürfe mache.
 
@@ -57,4 +57,4 @@ Dieses Testament ist beim [[court|Bezirksgericht Landeck]] zu hinterlegen. Eine 
 
 [[location|Innsbruck]], am [[date|22. April 2026]]
 
-[[person|Олеся Ahejew]]
+[[person|Olesja Ahejew]]
