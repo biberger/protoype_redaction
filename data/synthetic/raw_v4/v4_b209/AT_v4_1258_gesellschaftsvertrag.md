@@ -35,7 +35,7 @@ Gesellschafter | Stammeinlage in EUR
 [[person|Siegrid Unterrainer]] | 1.050
 [[person|Dr. Soffie Leitinger]] | 700
 [[person|Menachem Schachinger]] | 700
-[[person|Mag. Bernarde Ferstl, MSc]] | 1.700
+[[person|Mag. Bernarde Ferstl, MSc]] | 700
 
 Punkt 2. Die [[organization|Mraz Transport GmbH & Co KG]] leistet als Sacheinlage den Pkw mit dem Kennzeichen [[license_plate|HB 63219 T]] mit einem vereinbarten Wert von EUR 6.200,–. Die Übertragung erfolgt mit Übergabe der Zulassungsbescheinigung. Die Gesellschafter halten fest, dass das Fahrzeug frei von Pfandrechten ist und dass die Zulassung auf die Gesellschaft umgeschrieben werden kann. Soweit der Wert der Einlage den Stammkapitalanteil übersteigt, wird der Mehrbetrag in die Kapitalrücklage eingestellt.
 

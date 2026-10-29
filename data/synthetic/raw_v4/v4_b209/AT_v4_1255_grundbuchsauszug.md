@@ -24,7 +24,7 @@ A. Eigentumsrecht (A2-Blatt)
 Erwerbsurkunde: Kaufvertrag vom [[date|12. März 2019]], [[case_number|TZ 233/19]]
 
 1. Anteil 1/2: [[organization|Palmer Bau KG]], [[company_register_number|FN 564031h]], UID-Nr. [[tax_id|ATU60399553]], Sitz in [[location|Zillingdorf]]
-2. Anteil 1/4: [[person|Thiemo Gangl]], [[address|Anastasius-Grün-Straße 5/14, 8962 Mitterberg]]
+2. Anteil 1/4: [[person|Thiemo Gangl]], [[address|Anastasius-Grün-Straße 5/14, 8962 Mitterberg]], SV-Nr. [[social_security_number|2946 271097]]
 3. Anteil 1/4: [[person|Wilfrid Ganahl]], [[address|Hohlweg 13, 2492 Zillingdorf]]
 
 Die Miteigentumsanteile der natürlichen Personen sind nach [[legal_norm|§ 2 Abs 1 GBG]] in Bruchteilen eingetragen. Eine Vormerkung zugunsten eines Dritten besteht nicht.
@@ -67,7 +67,7 @@ Die Berechtigte [[person|Katherine Landau]] darf den Pkw nur auf der im Lageplan
 
 Der Miteigentümer [[person|Thiemo Gangl]] hat zu den Lasten keine Eintragung beantragt. Sein Anteil am Grundstück steht gleichrangig neben dem Anteil von [[person|Wilfrid Ganahl]]; eine Teilungsvereinbarung zwischen beiden liegt nicht vor.
 
-Die Pfandgläubigerin [[organization|Resch GmbH]] ist im Hauptbuch mit dem Höchstbetrag eingetragen; ein Rangrücktritt gegenüber der Anmerkung nach D-LNR 1 ist derzeit nicht erklärt. Die Vertreterin [[lawyer|Freda Wilfing]] hat angekündigt, eine Rangrücktrittserklärung der Pfandgläubigerin bis zum Ende der Anmerkungsfrist nachzureichen.
+Die Kosten des Auszuges wurden auf das Treuhandkonto [[bank_account|AT95 7550 1320 8760 5714]] der Vertreterin überwiesen. Die Pfandgläubigerin [[organization|Resch GmbH]] ist im Hauptbuch mit dem Höchstbetrag eingetragen; ein Rangrücktritt gegenüber der Anmerkung nach D-LNR 1 ist derzeit nicht erklärt. Die Vertreterin [[lawyer|Freda Wilfing]] hat angekündigt, eine Rangrücktrittserklärung der Pfandgläubigerin bis zum Ende der Anmerkungsfrist nachzureichen.
 
 Ein Vergleich der Eintragungen mit dem Katasterauszug ergab keine Abweichung in der Flächenangabe. Die Abweichung der Grundstücksgrenze beträgt nach dem Lageplan weniger als einen Quadratmeter und ist im Hauptbuch nicht gesondert vermerkt.
 
