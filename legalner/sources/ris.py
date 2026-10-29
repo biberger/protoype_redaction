@@ -30,6 +30,7 @@ import time
 import urllib.parse
 import urllib.request
 
+from legalner import fake_ids as F
 from legalner.tagged import chunk, merge_date_ranges
 
 API = "https://data.bka.gv.at/ris/api/v2.6/Judikatur"
@@ -516,7 +517,7 @@ class Filler:
         elif label == "land_register_id":
             val = str(rng.randint(10, 3999)) if rng.random() < 0.6 else f"{rng.randint(10, 2999)}/{rng.randint(1, 40)}"
         elif label == "company_register_number":
-            val = f"{rng.randint(10000, 699999)}{rng.choice('abdfghikmpstvwxyz')}"
+            val = F.fn(rng)[3:]  # number with a valid check letter
         elif label == "amount":
             val = f"{rng.randint(50, 99999):,}".replace(",", ".")
         elif label == "other_identifier":

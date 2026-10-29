@@ -49,6 +49,30 @@ Remaining doubts (not changed, for the human reviewer):
 
 The open questions of the first pass below are answered by the decisions; they are kept for the record.
 
+## RIS paragraphs (2026-10-29)
+
+150 paragraphs from 51 RIS decisions (`python -m legalner.goldset select data/canonical/ris.jsonl --n 150
+--first-chunks 6`: Kopf and facts, not BVwG country reports; 89 Justiz LG/OLG/OGH, 43 LVwG, 6 BVwG, 6 VwGH, 6 VfGH).
+Their decision ids are in `data/gold/at/doc_ids.txt` (all chunks of those decisions are excluded from training).
+The gold set now has **550 paragraphs** (400 synthetic, 150 RIS), exported to `data/canonical/gold_at.jsonl`.
+
+1. Annotation (10 Sonnet agents, `scripts/gold_review.workflow.js` with `assignments_ris.tsv` and RIS instructions):
+   the rule tags cover only person/judge/lawyer, address, date, case_number and court, so the agents added the other
+   labels: 264 changes, mostly added legal_norm (≈105), organization (32), location (23), person (16, incl. authors in
+   literature citations and names in CJEU case captions), case_number (12), land_register_id, street; roles corrected
+   per the gold-set decisions.
+2. Filler artefacts (6 agents, `scripts/ris_gold_artefacts.workflow.js`, decision 13): the RIS filler had put
+   values of the wrong kind into some slots ("Landesgerichtes für Strafsachen Hinterseer", "Freiheitsstrafe von
+   Stumpf", "Zankl Uhr", an address in a case-number slot, birth dates after the decision, case-number years after the
+   decision). ≈50 text fixes; the filler itself was fixed in `legalner.sources.ris` (court seats, case numbers after
+   court + date, durations and amounts, dates near the decision year, FN with valid check letter).
+
+Conventions applied (open for the human reviewer): authors in literature citations and parties in cited case
+captions are `person`; "leg cit" stays inside the legal_norm span; quoted statute section headings ("§ 340") are
+untagged, cross-references inside quoted statutes ("gemäß § 11") are tagged; Bund/Land/Gemeinde as a party are
+`organization`; land-register prefixes EZ/KG/Gst-Nr. are inside the span (as in the synthetic data), "Grundstück Nr."
+keeps "Nr." outside in 8 RIS spans. The reviewers' open questions are in `data/gold/at/ris_review_notes.txt`.
+
 ## Human review (first pass, questions now settled)
 
 Files: `data/gold/at/reviewed/*.md`. Correct tags in place, set `review: human` in the header, then run
