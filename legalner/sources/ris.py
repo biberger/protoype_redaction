@@ -254,6 +254,12 @@ INITIALS = re.compile(
 PAIR_CODES = re.compile(r"(?<![\w.§/])([A-ZÄÖÜ])\s(?:und|sowie|bzw\.)\s([A-ZÄÖÜ])(?![\w.\-/)])")  # LVwG NÖ "B und C"
 CODE_ADDRESS = re.compile(r"\b[A-ZÄÖÜ]-(?:Straße|Gasse|Weg|Platz)\s?(?:\d+\s?)?,\s[A-ZÄÖÜ]-Ort\b|"  # LVwG Stmk
                           r"(?<=,\s)[A-ZÄÖÜ],\s[A-ZÄÖÜ][\s-](?:Straße|Gasse|Weg|Platz)(?:\s\d+[a-z]?)?(?=[,;)])")
+# LVwG Burgenland/Steiermark name the redacted item in brackets: "[Vertreter 1]", "[KG]", "[EZ2]", "[Klinik]"
+DESCRIPTOR_PH = re.compile(r"\[(Vertreter(?:in)?|Beschwerdeführer(?:in)?|Name|KG|EZ|Adresse|Gemeinde|Ort|Klinik|Apotheke|"
+                           r"Detektei|Firma|Unternehmen|Gasthaus|Hotel)\s?\d*\]")
+DESCRIPTOR_LABEL = {"Vertreter": "person", "Vertreterin": "person", "Beschwerdeführer": "person",
+                    "Beschwerdeführerin": "person", "Name": "person", "KG": "location", "Gemeinde": "location",
+                    "Ort": "location", "EZ": "land_register_id", "Adresse": "address"}
 CODE_PLACE = re.compile(r"\b[A-ZÄÖÜ]-(?:Ort|Stadt|Dorf|Gemeinde)\b")
 TOWN_INITIAL = re.compile(r"(?<=\s)(?:in|aus|nach|Bezirkshauptmannschaft|BH|KG|Gemeinde|Stadtgemeinde|Marktgemeinde|Stadt|"
                           r"Magistrat|Bezirk|Landespolizeidirektion|in\sdie|in\sden|in\sder)"
@@ -332,19 +338,19 @@ _PRE = {  # regexes on the text just before a placeholder, in priority order
         r"(?:\bEZ:?|\bKG|\bGst\.?(?:-?Nr\.?)?|GST-NR|\bGp\.?|Grundstück(?:e|es|s|en)?(?:\s(?:Nr\.?|Nrn\.?))?|"
         r"Gste?\.?\s?Nrn?\.?|Einlagezahl|Katastralgemeinde|\bGB|Grundbuch|Bauplatz|Liegenschaft\sEZ|"
         r"(?:Weg|Güterweg)?[Pp]arzelle(?:nnummer|\sNr\.?|\sNummer)?|Parz\.?(?:\s?Nr\.?)?)\s*$"),
-    "case_number": re.compile(r"(?:\bOB:?|Verfahren|\bZl\.?:?|\bZahl:?|\bGZ\.?:?|\bGZl\.?|\bAZ:?|\bZlen\.?|Aktenzahl|Geschäftszahl:?|"
+    "case_number": re.compile(r"(?:\bOB:?|Verfahren|Aktenzeichen:?|\bZl\.?:?|\bZahl:?|\bGZ\.?:?|\bGZl\.?|\bAZ:?|\bZlen\.?|Aktenzahl|Geschäftszahl:?|"
                               r"Verfahrenszahl:?|IFA-Zahl(?:/Verfahrenszahl)?:?|Akt|"
                               r"\bvom\s[0-3]?\d\.\s?[01]?\d\.\s?(?:19|20)\d\d,)\s*$"),
     "company_register_number": re.compile(r"\b(?:FN|Firmenbuchnummer|ZVR(?:-Zahl)?|Handelsregister\w*):?\s*$"),
-    "other_identifier": re.compile(r"(?:\bTop|\bNummer:?|\bNr\.?:?|Ausweis\w*|Reisepass\w*|Konto\w*|IBAN|"
+    "other_identifier": re.compile(r"(?:\bTop|(?:\b|(?<=[a-z]))[Nn]ummer:?|\bNr\.?:?|Ausweis\w*|Reisepass\w*|Konto\w*|IBAN|"
                                    r"Sozialversicherungsnummer|SVNr\.?|PIN|Account|Telefonnummer|Tel\.?)\s*$"),
-    "license_plate": re.compile(r"Kennzeichen\s*$|Kennz\.\s*$"),
+    "license_plate": re.compile(r"Kennzeichen:?\s*$|Kennz\.:?\s*$"),
     "url": re.compile(r"(?:://|www\.)$|@$"),
     "judge": re.compile(rf"(?:\b(?:Richter(?:in)?|Einzelrichter(?:in)?|Vorsitzende[nr]?|Anwaltsrichter(?:s|in)?|"
                         r"Senatspräsident\w*|Hofr\w+))\s(?:(?:{DEGREE_TOK})\s)*$".replace("{DEGREE_TOK}", DEGREE_TOK)),
     "date": re.compile(r"(?:\bgeb\.|\bgeboren|\bam|\bvom|\bAm|\bVom|\bseit|\bSeit|\bbis|\bab|\bzum|\bdatiert\s(?:mit)?|"
                        r"\bmit|\bEingabe\svom|\bSchreiben\svom|\bBescheid\svom)\s*$"),
-    "address": re.compile(r"(?:wohnhaft(?:\sin)?|whft\.|Anschrift:?|Adresse:?|Wohnadresse|Wohnsitz(?:\sin)?|"
+    "address": re.compile(r"(?:\bp\.\s?A\.?|per\sAdresse|wohnhaft(?:\sin)?|whft\.|Anschrift:?|Adresse:?|Wohnadresse|Wohnsitz(?:\sin)?|"
                           r"Liegenschaftsadresse|Zustelladresse|Meldeadresse|Objekt)\s*$"),
     "person": re.compile(rf"(?:\b(?:Herrn?|Frau|Beschwerde\s(?:des|der|von)|Revision\s(?:des|der)|Antrag\s(?:des|der)|"
                          r"Partei:?|Inhaber(?:in)?|Antragsteller(?:in)?|Antragsgegner(?:in)?|Beschwerdeführers?|Beschwerdeführerin|"
@@ -355,8 +361,9 @@ _PRE = {  # regexes on the text just before a placeholder, in priority order
                          r"BF\d?|Asylwerber(?:in|s)?|Mitbeteiligte[nr]?|Geschäftsführer(?:in|s)?|Obmann|"
                          r"Eigentümer(?:in|s)?|Arbeitnehmer(?:in|s)?|Lenker(?:in|s)?|Verstorbenen|Erblasser(?:in|s)?|"
                          r"Opfer[s]?|vertreten\sdurch|gegen|für|mit|und|sowie|\d\.\)?|mj\.?|Ing\.|Dr\.|Mag\.(?:a)?|DI|Hr\.|Fr\.|"
-                         r"Unterschrift|Name[n]?|namens|genannt)|\b(?:des|der|dem|den|die))\s*$"),
-    "location": re.compile(r"(?:\b(?:in|nach|aus|bei|Ort|Dorf|Stadt|Provinz|Gouvernement|Bezirk|Distrikt|Region|"
+                         r"(?:Rev|Gr|Bez|Abt|Kontr|Chef)?Insp\.?|ASV|Amtssachverständige[nr]?|Familie|"
+                         r"(?:Berufung|Beschwerde|Antrag|Einspruch|Anzeige|Schreiben|Stellungnahme)\svon|Unterschrift|Name[n]?|namens|genannt)|\b(?:des|der|dem|den|die))\s*$"),
+    "location": re.compile(r"(?:\b(?:Tatort:?|Feuerwehr|Nachbarschaft|Agrargemeinschaft|Ort:|(?:Eigen)?[Jj]agdgebiet(?:es)?|in|nach|aus|bei|Ort|Dorf|Stadt|Provinz|Gouvernement|Bezirk|Distrikt|Region|"
                            r"Heimatort|Heimatdorf|Herkunftsort|Geburtsort|Gemeinde|Stadtgemeinde|Marktgemeinde|"
                            r"Bezirkshauptmannschaft|BH|Landespolizeidirektion|Polizeiinspektion|PI|"
                            r"Rechtsanwaltskammer|Landesstelle|Magistrat(?:\sder\sStadt)?|Stadt|Grenzübergang|"
@@ -391,7 +398,10 @@ def classify_placeholder(before, after, surface, prev=None):
         return "date"
     if bare and _PRE["land_register_id"].search(before):  # "EZ * KG *": KG is the Katastralgemeinde
         return "land_register_id"
-    if _ORG_AFTER.match(after) or re.search(r"\b(?:Firma|Unternehmens?|Verein(?:s)?|Gesellschaft)\s$", before):
+    if re.search(r"(?:€|\bEUR|\bEuro|\(€\):?)\s?$", before) or re.match(r"^\s?(?:€|EUR|Euro)\b", after):
+        return "amount"  # redacted sums are not entities
+    if _ORG_AFTER.match(after) or re.search(r"\b(?:Firma|Unternehmens?|Verein(?:s)?|Gesellschaft|Klinik|"
+                                            r"Krankenanstalt|Verwaltungsgemeinschaft)\s$", before):
         return "organization"
     if re.match(r"^-?(?:Straße|Strasse|Gasse|Weg|Platz|Allee|Ring|Kai|Lände|Zeile|Promenade)", after):
         return "street"
@@ -477,6 +487,8 @@ class Filler:
             val = str(rng.randint(10, 3999)) if rng.random() < 0.6 else f"{rng.randint(10, 2999)}/{rng.randint(1, 40)}"
         elif label == "company_register_number":
             val = f"{rng.randint(10000, 699999)}{rng.choice('abdfghikmpstvwxyz')}"
+        elif label == "amount":
+            val = f"{rng.randint(50, 99999):,}".replace(",", ".")
         elif label == "other_identifier":
             val = str(rng.randint(1, 999))
         elif label == "case_number" and self.app == "Justiz":
@@ -509,12 +521,13 @@ def _candidates(text, app):
               if re.search(r"\*|XXXX|xxx", m.group())]
     cands += [(m.start(), m.end(), "ph") for m in PH_RUN.finditer(text)]
     if app == "Lvwg":
-        cands += [(m.start(), m.end(), "ph") for m in ELLIPSIS_PH.finditer(text)]
+        cands += [(m.start(), m.end(), "ellipsis") for m in ELLIPSIS_PH.finditer(text)]
         cands += [(m.start(), m.end(), "code") for m in LETTER_CODE.finditer(text)]
         cands += [(m.start(g), m.end(g), "code") for m in PAIR_CODES.finditer(text) for g in (1, 2)]
         cands += [(m.start(), m.end(), "address") for m in CODE_ADDRESS.finditer(text)]
         cands += [(m.start(), m.end(), "town") for m in CODE_PLACE.finditer(text)]
         cands += [(m.start(), m.end(), "code_street") for m in CODE_STREET.finditer(text)]
+        cands += [(m.start(), m.end(), "descriptor") for m in DESCRIPTOR_PH.finditer(text)]
     if app in ("Lvwg", "Vwgh", "Vfgh", "Bvwg"):
         cands += [(m.start(1), m.end(1), "initials") for m in INITIALS.finditer(text)]
         cands += [(m.start(1), m.end(1), "town") for m in TOWN_INITIAL.finditer(text)]
@@ -553,6 +566,8 @@ def fill_placeholders(text, gaz, rng, app=None):
             label = "address" if re.search(r"\d|Tür|Top|Stiege|\sin\s|,\s", surface) else "street"
         elif kind == "street_address":
             label = "address"
+        elif kind == "descriptor":
+            label = DESCRIPTOR_LABEL.get(DESCRIPTOR_PH.match(surface).group(1), "organization")
         elif kind == "town":
             label = "location"
         else:
@@ -566,9 +581,13 @@ def fill_placeholders(text, gaz, rng, app=None):
         if label == "date":
             style = "daymonth" if re.match(r"^\s?(?:19|20)\d\d\b", after) else \
                 "long" if re.search(rf"(?:{MONTHS})\s", text[max(0, s - 400):s + 400]) and kind != "date" else "num"
+        if kind == "ellipsis" and label in ("unknown", "amount"):
+            continue  # an omission in a quotation ("…"), not a placeholder
         if label == "unknown":
             unknown += 1
         val = filler.value(label, surface, style)
+        if kind == "descriptor" and label == "organization":  # "[Klinik]" -> "Klinik Haider"
+            val = f"{DESCRIPTOR_PH.match(surface).group(1)} {val}"
         if kind == "code_street" and label == "street":  # "C.-platz" -> "Kralikplatz"
             val = filler.value("street", surface) + surface.split("-", 1)[1].lower()
         if label == "date" and style == "daymonth":  # the span covers the surviving year
@@ -581,6 +600,18 @@ def fill_placeholders(text, gaz, rng, app=None):
                 e = form.end()
         # BVwG writes "XXXX , geb." with a space before punctuation
         nxt = e + 1 if re.match(r" [,;.:)]", text[e:e + 2]) and "XXXX" in surface else e
+        if prev and prev[0] == "judge" and gap == ", " and _BARE.match(surface) and re.match(r"\s(?:über|als)\b", after) \
+                and spans and spans[-1][0] == "person" and spans[-2][0] == "judge":
+            # Kärnten "Richterin xxx, xxx über …": the second placeholder is a post-nominal degree of the judge
+            degree = rng.choice(["LL.M.", "MBA", "BA", "MSc", "LL.M."])
+            unknown -= label == "unknown"
+            for _ in range(2):
+                lab_, ps, pe, pval = spans.pop()
+            out.append(f", {degree}")
+            cur += 2 + len(degree)
+            spans += [("judge", ps, cur, f"{pval}, {degree}"), ("person", ps, cur, f"{pval}, {degree}")]
+            pos, prev = nxt, ("judge", e)
+            continue
         if label == "address" and prev and prev[0] == "address" and gap == ", " and _BARE.match(surface) \
                 and spans and spans[-1][0] == "address" and ", " in spans[-1][3] and not merged:
             # "***, ***": street, then postcode and town of one address; keep one span
@@ -604,7 +635,7 @@ def fill_placeholders(text, gaz, rng, app=None):
         pos = nxt
         prev = (label, e)
     out.append(text[pos:])
-    spans = [sp for sp in spans if sp[0] not in ("url", "other_identifier")]
+    spans = [sp for sp in spans if sp[0] not in ("url", "other_identifier", "amount")]
     return "".join(out), spans, unknown
 
 
