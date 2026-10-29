@@ -45,7 +45,7 @@ En droit:
 
 2. Les recourants se plaignent d'une appréciation arbitraire des faits. Selon l'art. 9 Cst., une décision est arbitraire lorsqu'elle est manifestement insoutenable. Le [[court|Tribunal fédéral]] ne revoit les constatations de fait que si elles ont été établies de manière manifestement inexacte ([[legal_norm|art. 97 al. 1 LTF]] et [[legal_norm|art. 105 al. 2 LTF]]).
 
-3. Sur le fond, l'autorisation de séjour avec activité lucrative est régie par l'[[legal_norm|art. 30 al. 1 let. b LEI]] et par l'[[legal_norm|art. 96 al. 1 LEI]]. L'autorité doit notamment tenir compte du respect de l'ordre juridique et de l'intégration sociale. Le tribunal cantonal a retenu que le recourant ne satisfaisait pas à ces critères en raison des infractions routières relevées. Cette appréciation ne prête pas le flanc à la critique.
+3. Sur le fond, l'autorisation de séjour avec activité lucrative est régie par l'[[legal_norm|art. 30 al. 1 let. b LEI]] et par l'[[legal_norm|art. 96 al. 1 LEI]]. L'autorité doit notamment tenir compte du respect de l'ordre juridique et de l'intégration sociale. Le [[court|tribunal cantonal]] a retenu que le recourant ne satisfaisait pas à ces critères en raison des infractions routières relevées. Cette appréciation ne prête pas le flanc à la critique.
 
 4. Les recourants invoquent encore une violation du droit d'être entendu au sens de l'art. 29 al. 2 Cst. Ils n'ont pas expliqué en quoi les témoins auraient été écartés à tort. Le grief est donc irrecevable faute de motivation suffisante ([[legal_norm|art. 42 al. 2 LTF]]).
 

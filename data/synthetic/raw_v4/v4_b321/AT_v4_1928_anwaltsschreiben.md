@@ -22,7 +22,7 @@ Betreff: Aufforderung zur Zahlung, Werklohn aus dem Auftrag vom [[date|3. März 
 
 Sehr geehrte Damen und Herren,
 
-die Kanzlei [[lawyer|Eisenstädter]] vertritt die [[organization|Strutz Installations GmbH]], [[company_register_number|FN 345496h]], UID-Nr. [[tax_id|ATU45221870]], mit dem Sitz in [[location|Weiden bei Rechnitz]]. Wir zeigen unsere Vertretung an und ersuchen um Zahlung des offenen Werklohns.
+die Kanzlei [[lawyer|Eisenstädter]] vertritt die [[organization|Strutz Installations GmbH]], [[company_register_number|FN 345496h]], UID-Nr. [[tax_id|ATU45221870]], mit dem Sitz in [[address|Franz-Josefs-Kai 11, 7463 Weiden bei Rechnitz]]. Wir zeigen unsere Vertretung an und ersuchen um Zahlung des offenen Werklohns. Die Vollmacht liegt diesem Schreiben bei; die Mandantin hat die Kanzlei ausdrücklich ermächtigt, außergerichtlich mit allen Beteiligten Kontakt aufzunehmen.
 
 Die [[organization|Strauss KG]], [[company_register_number|FN 471865w]], UID-Nr. [[tax_id|ATU93968056]], hat meine Mandantin am [[date|3. März 2026]] mit der Heizungsinstallation im Objekt in der [[street|Kannegasse]] beauftragt. Die Arbeiten wurden am [[date|27.04.2026]] abgenommen. Die Rechnung RE-2026-0412 über EUR 18.460,00 inklusive Umsatzsteuer wurde am [[date|12.05.2026]] gelegt und war bis zum [[date|26.05.2026]] fällig.
 

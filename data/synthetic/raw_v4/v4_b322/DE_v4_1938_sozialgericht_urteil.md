@@ -3,7 +3,7 @@ doc_type: sozialgericht_urteil
 jurisdiction: DE
 lang: de
 ---
-[[organization|KANZLEI KRÜGER & ASHER]], RECHTSANWÄLTINNEN, [[address|HIRSCHBACHER WEG 2, 68229 FRIEDRICHSFELD]]
+[[organization|KANZLEI KRÜGER]], RECHTSANWÄLTIN, [[address|HIRSCHBACHER WEG 2, 68229 FRIEDRICHSFELD]]
 
 [[court|Sozialgericht Hannover]]
 

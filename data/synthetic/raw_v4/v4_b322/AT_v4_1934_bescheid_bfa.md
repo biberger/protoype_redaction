@@ -38,17 +38,29 @@ Verfahrensbeteiligte
 
 Verfahrensgang
 
-Am [[date|22. Juni 2026]] wurde die Beschwerdeführerin in Anwesenheit der Dolmetscherin [[person|DI Latifa Ouali]] niederschriftlich einvernommen. [[person|Dr. Danja Fröschl, PhD]] nahm als Rechtsberaterin an der Einvernahme teil. Der Zeuge [[person|Lucien Lalanne]] bestätigte die Angaben zur Ausreise aus dem Herkunftsstaat.
+Am [[date|22. Juni 2026]] wurde die Beschwerdeführerin in Anwesenheit der Dolmetscherin [[person|DI Latifa Ouali]] niederschriftlich einvernommen. [[person|Dr. Danja Fröschl, PhD]] nahm als Rechtsberaterin an der Einvernahme teil. Der Zeuge [[person|Lucien Lalanne]] gab an, die Ausreise nicht selbst beobachtet zu haben.
 
 Am [[date|24. Juni 2026]] übermittelte die Vertrauensperson per Chat folgende Nachricht an das [[organization|BFA]]:
 
 „[[person|cäzilia tanzer]]: hallo, [[person|lucien]] war beim gespräch dabei und hat alles gehört, bitte sagt dem [[organization|bfa]] dass er nichts gesehen hat, [[person|leies]] kommt am dienstag mit den fotos“
 
+Zur Person
+
+Die Beschwerdeführerin arbeitete zuletzt als Reinigungskraft in einem Hotel in [[location|Leoben]]. Sie hat nach eigenen Angaben acht Jahre die Schule besucht und spricht Deutsch nur auf Grundniveau.
+
+Länderfeststellungen
+
+Die Lage im Herkunftsstaat wurde anhand des aktuellen Länderinformationsblattes der Staatendokumentation geprüft. Daraus ergeben sich keine Hinweise, dass der Beschwerdeführerin bei einer Rückkehr eine unmenschliche Behandlung droht. Die Beschwerdeführerin ist gesund und arbeitsfähig.
+
 Beweiswürdigung
+
+Die Beschwerdeführerin brachte vor, im Jahr 2024 wegen ihrer politischen Tätigkeit bedroht worden zu sein. Die Angaben zu Ort, Zeit und Täter blieben jedoch vage. Eine Anzeige bei der Polizei wurde nicht erstattet und ein ärztlicher Befund liegt nicht vor. Das Vorbringen ist daher unsubstanziiert.
 
 Das Vorbringen der Beschwerdeführerin ist nicht glaubhaft. Die Angaben zu ihrer Ausreise widersprechen einander in wesentlichen Punkten. Der Zeuge [[person|Lucien Lalanne]] konnte die Schilderung nicht bestätigen.
 
 Das Familienleben mit [[person|Leies Weis]] ist im Hinblick auf [[legal_norm|Art. 8 EMRK]] nicht schutzwürdig, weil die Beziehung erst nach der Einreise begründet wurde und ein gemeinsamer Wohnsitz nicht nachgewiesen ist.
+
+Die Rückkehrentscheidung ist zulässig, weil die Beschwerdeführerin in [[location|Österreich]] keine Bindungen hat, die ein Bleiberecht begründen. Die Interessenabwägung fällt zu ihren Ungunsten aus, da sie sich seit der rechtskräftigen Abweisung ihres früheren Antrags nicht rechtmäßig im Bundesgebiet aufhält.
 
 Rechtsmittelbelehrung
 

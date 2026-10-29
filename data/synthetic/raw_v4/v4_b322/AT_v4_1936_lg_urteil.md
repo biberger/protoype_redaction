@@ -29,10 +29,11 @@ Die Haftpflichtversicherung der [[organization|Donner & Tilg GmbH]], [[company_r
 
 Rechtliche Beurteilung
 
-Der Schuldspruch gründet auf den übereinstimmenden Aussagen. Mildernd war das reumütige Geständnis, erschwerend nichts. Die Strafbemessung richtet sich nach [[legal_norm|§§ 32, 34 StGB]].
+Der Schuldspruch gründet auf den übereinstimmenden Aussagen. Mildernd war das reumütige Geständnis und der bisher ordentliche Lebenswandel, erschwerend nichts. Die Verletzung der Geschädigten war nach dem ärztlichen Befund leicht und ist innerhalb von zwei Wochen ausgeheilt. Die Strafbemessung richtet sich nach [[legal_norm|§§ 32, 34 StGB]].
 
 [[location|Leoben]], am [[date|14. September 2026]]
 
 Für die Richtigkeit der Ausfertigung:
 
-[[judge|Diemut Fabian]]
+[[person|Sabine Reitbauer]]
+Kanzleibeamtin

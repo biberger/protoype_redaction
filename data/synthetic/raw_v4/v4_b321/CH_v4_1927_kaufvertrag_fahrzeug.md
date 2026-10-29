@@ -41,7 +41,7 @@ Der Käufer bestätigte die Uhrzeit und die Mitnahme der Unterlagen. Rückfragen
 
 V. Versicherung und Kontrollschild
 
-Der Käufer meldet das Fahrzeug ab dem Übergabetag bei seiner Motorfahrzeugversicherung an. Das Kontrollschild bleibt bis zur Ummeldung beim Strassenverkehrsamt auf dem Fahrzeug. Die Verkäufer melden das Fahrzeug bei ihrer bisherigen Versicherung ab, sobald der Käufer die Übernahme schriftlich bestätigt hat.
+Der Käufer meldet das Fahrzeug ab dem Übergabetag bei seiner Motorfahrzeugversicherung an. Das Kontrollschild bleibt bis zur Ummeldung beim Strassenverkehrsamt auf dem Fahrzeug. Die Verkäufer melden das Fahrzeug bei ihrer bisherigen Versicherung ab, sobald der Käufer die Übernahme schriftlich bestätigt hat. Die Garage bewahrt eine Kopie des Übergabeprotokolls und der Zahlungsbelege während zehn Jahren auf und stellt diese auf Verlangen zur Verfügung.
 
 VI. Beratung und Zeugen
 
