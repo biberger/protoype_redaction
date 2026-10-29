@@ -35,7 +35,7 @@ Fahrzeug und Ermittlungen
 
 Der Anzeigeerstatter teilte mit, dass das Firmenfahrzeug Opel Vivaro mit dem amtlichen Kennzeichen [[license_plate|F E 132E]] an die [[organization|Marcus & Wittich GmbH]] geleast ist, [[company_register_number|HRB 141641]] beim [[court|Amtsgericht Hamburg]], USt-IdNr. [[tax_id|DE985372922]], Steuernummer [[tax_id|36/926/48582]]. Das Fahrzeug war nach den Angaben des Zeugen am [[date|14. Juli 2026]] auf dem Betriebsgelände der Pflegeeinrichtung abgestellt und wurde von [[person|Birnbaums]] Lebensgefährtin genutzt, obwohl das Fahrzeug nicht auf sie zugelassen war.
 
-Eine Halterauskunft der Zulassungsbehörde bestätigt, dass das Fahrzeug auf die Leasinggesellschaft zugelassen ist und an die Fiebig Pflege AG überlassen wurde. [[person|Birnbaums]] Angaben zu den Rechnungen sind widersprüchlich. Im ersten Gespräch sprach er von Beratungsleistungen, im zweiten von einem Darlehen an die Pflegeeinrichtung. Ein schriftlicher Darlehensvertrag existiert nicht.
+Eine Halterauskunft der Zulassungsbehörde bestätigt, dass das Fahrzeug auf die Leasinggesellschaft zugelassen ist und an die [[organization|Fiebig Pflege AG]] überlassen wurde. [[person|Birnbaums]] Angaben zu den Rechnungen sind widersprüchlich. Im ersten Gespräch sprach er von Beratungsleistungen, im zweiten von einem Darlehen an die Pflegeeinrichtung. Ein schriftlicher Darlehensvertrag existiert nicht.
 
 Die Anzeige wurde durch [[person|Vesna Kuzmanović]], Polizeihauptkommissarin, aufgenommen. Eine Kopie der Kontoauszüge und der Rechnungen liegt bei. Die [[organization|Staatsanwaltschaft Frankfurt am Main]] ist über den Vorgang unterrichtet.
 

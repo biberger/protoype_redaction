@@ -43,6 +43,12 @@ Le premier étage n'est remis à disposition de la locataire qu'à compter du [[
 
 En cas de retard de paiement, la bailleresse peut impartir à la locataire un délai de trente jours pour s'acquitter de sa dette, conformément à l'[[legal_norm|art. 257d CO]]. À défaut de paiement dans ce délai, la bailleresse peut résilier le bail avec effet immédiat.
 
+Article 3bis – Frais accessoires
+
+Les frais de chauffage, d'eau chaude et de ramonage sont compris dans les charges forfaitaires de CHF 490.00. Les frais de consommation électrique des serveurs installés au sous-sol sont facturés à la locataire selon le relevé d'un compteur séparé, au tarif appliqué par le fournisseur local, et payés avec le loyer suivant la réception du décompte annuel.
+
+Les charges sont adaptées une fois par année, sur présentation d'un décompte détaillé remis au plus tard le 31 mars de l'année suivante. La locataire peut exiger les pièces justificatives dans un délai de trente jours dès leur réception.
+
 Article 4 – Caution
 
 La caution se porte solidairement garante de toutes les obligations de la locataire découlant du présent bail, jusqu'à concurrence de CHF 33'360.00, soit six mois de loyer net. Le cautionnement est soumis à l'[[legal_norm|art. 503 CO]]. La caution déclare avoir reçu un exemplaire du contrat et avoir pris connaissance de l'état des lieux d'entrée.
@@ -62,6 +68,22 @@ La locataire souscrit une assurance responsabilité civile et une assurance du m
 Article 7 – Restitution des locaux
 
 À la fin du bail, la locataire restitue les locaux dans un état conforme à l'usage prévu, les peintures étant rafraîchies à ses frais. Un état des lieux de sortie est établi contradictoirement. Les clés doivent être remises le dernier jour du bail au plus tard.
+
+Article 7bis – Garantie de loyer
+
+Pour garantir l'exécution de ses obligations, la locataire remet à la bailleresse une garantie bancaire de CHF 16'680.00, soit trois mois de loyer net, conformément à l'[[legal_norm|art. 257e CO]]. Cette garantie est déposée auprès d'une banque du canton, sur un compte bloqué au nom de la locataire. Elle est restituée à la fin du bail, déduction faite des créances exigibles.
+
+Article 7ter – Travaux et aménagements
+
+La locataire ne peut entreprendre de travaux de transformation sans l'accord écrit préalable de la bailleresse, conformément à l'[[legal_norm|art. 260a CO]]. Les travaux de câblage réseau et l'installation de cloisons légères au premier étage sont toutefois autorisés, à condition d'être réalisés par une entreprise qualifiée et sans toucher à la structure porteuse. Les frais de remise en état restent entièrement à la charge de la locataire.
+
+Résiliation anticipée
+
+Si la locataire souhaite résilier le bail avant son échéance, elle doit verser à la bailleresse une indemnité égale à trois mois de loyer net, sans préjudice des loyers échus. Une telle résiliation ne libère pas la caution de ses engagements pour la période antérieure à la restitution des clés.
+
+Compensation
+
+La locataire ne peut compenser le loyer avec des créances qu'elle invoque contre la bailleresse, sauf si celles-ci sont reconnues par écrit ou constatées par un jugement entré en force.
 
 Article 8 – Dispositions finales
 

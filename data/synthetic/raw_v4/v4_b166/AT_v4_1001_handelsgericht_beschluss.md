@@ -18,7 +18,7 @@ Spruch
 
 I. Der Antragsgegnerin wird bis zur rechtskräftigen Entscheidung in der Hauptsache untersagt, die Pachtfläche von rund 14 Hektar auf der Parzelle südlich des [[street|Lehmweg]] in [[location|Matrei in Osttirol]] zu bewirtschaften oder Dritten zur Bewirtschaftung zu überlassen.
 
-II. Die Antragsgegnerin hat die Pachtfläche innerhalb von vierzehn Tagen zu räumen und die eingebrachten Maschinen auf dem Hof der Antragstellerin abzustellen.
+II. Die Antragsgegnerin hat die Pachtfläche innerhalb von vierzehn Tagen zu räumen und die eingebrachten Maschinen, insbesondere den Traktor mit dem Kennzeichen [[license_plate|LZ 448 A]], auf dem Hof der Antragstellerin abzustellen.
 
 III. Die Kosten des Provisorialverfahrens werden gegeneinander aufgehoben.
 
@@ -36,14 +36,14 @@ Glaubhaft gemacht ist, dass die Antragsgegnerin den Pachtvertrag verletzt hat. D
 
 Zur Interessenabwägung ist festzuhalten, dass die Antragstellerin ihre Fläche selbst bewirtschaften möchte und dass die Zeugin [[person|Balla]] keine eigene Pachtvereinbarung mit der Antragstellerin hat. Ein Schaden für die Antragsgegnerin, der die Interessen der Antragstellerin überwiegt, ist nicht dargelegt.
 
-Die Frau [[person|Agnes Obermayer]], Geschäftsführerin der Antragsgegnerin, hat in der mündlichen Verhandlung vom [[date|10. Juni 2026]] erklärt, dass die Weiterverpachtung auf einem Irrtum beruhe. Die Antragsgegnerin habe die Zustimmung für mündlich erteilt gehalten. Dieser Vortrag ist nicht geeignet, die Voraussetzungen der einstweiligen Verfügung zu beseitigen.
+Die Frau [[person|Agnes Obermayer]], [[address|Angerholzerweg 6/10, 2261 Angern an der March]], Geschäftsführerin der Antragsgegnerin, hat in der mündlichen Verhandlung vom [[date|10. Juni 2026]] erklärt, dass die Weiterverpachtung auf einem Irrtum beruhe. Die Antragsgegnerin habe die Zustimmung für mündlich erteilt gehalten. Dieser Vortrag ist nicht geeignet, die Voraussetzungen der einstweiligen Verfügung zu beseitigen.
 
-Die Kostenentscheidung beruht auf [[legal_norm|§ 393 Abs 1 EO]] in Verbindung mit [[legal_norm|§ 41 ZPO]]. Da beide Parteien teilweise obsiegt haben, sind die Kosten gegeneinander aufzuheben.
+Die Kostenentscheidung beruht auf [[legal_norm|§ 393 Abs 1 EO]] in Verbindung mit [[legal_norm|§ 43 Abs 1 ZPO]]. Da beide Parteien teilweise obsiegt haben, sind die Kosten gegeneinander aufzuheben.
 
 Rechtsmittelbelehrung
 
 Gegen diesen Beschluss ist ein Rekurs an das [[court|Oberlandesgericht Innsbruck]] zulässig. Er ist binnen vierzehn Tagen ab Zustellung beim [[court|Landesgericht Innsbruck]] einzubringen.
 
-Innsbruck, am [[date|15. Juni 2026]]
+[[location|Innsbruck]], am [[date|15. Juni 2026]]
 
 Für die Richtigkeit der Ausfertigung: [[person|Stefanie Grüll]]

@@ -53,6 +53,16 @@ Gewährleistung
 
 9. Die Verkäufer bewilligen die Einverleibung des Eigentumsrechts zugunsten der Käuferin. Die Eintragung erfolgt auf Grund dieser Urkunde gemäß dem [[legal_norm|GBG]]. Die Vertragsparteien beantragen die Eintragung gemeinsam beim zuständigen Grundbuchsgericht.
 
+Sonstige Vereinbarungen
+
+Der Energieausweis nach dem [[legal_norm|EAVG 2012]] wurde am [[date|20. April 2026]] erstellt und der Käuferin vor der Unterfertigung ausgehändigt. Die Käuferin bestätigt den Erhalt.
+
+Für das Wirtschaftsgebäude liegt die Baubewilligung der Gemeinde vom [[date|5. Oktober 2009]] vor. Der Ausbau des Dachgeschosses ist nicht genehmigt; die Verkäufer haben dies offengelegt. Die Käuferin übernimmt die Liegenschaft in Kenntnis dieses Umstandes.
+
+Die Obergeschosswohnung ist vermietet. Das Mietverhältnis geht mit dem Eigentumsübergang auf die Käuferin über, weil ein Kauf nicht Miete bricht ([[legal_norm|§ 1120 ABGB]]). Die Käuferin tritt in die Rechte und Pflichten der Vermieterin ein; die Mietkaution von EUR 1.800,00 ist ihr übergeben worden.
+
+Die Verkäufer haben im Jahr 2024 die Abdichtung des Kellerabgangs durch einen Fachbetrieb ausführen lassen; die Rechnung vom [[date|14. Oktober 2024]] liegt dem Vertrag bei. Der Feuchtigkeitsschaden vom Frühjahr 2026 wurde seither nicht erneut repariert, weshalb die Käuferin den Kaufpreis nicht gemindert hat.
+
 Schlussbestimmungen
 
 10. Mündliche Nebenabreden bestehen nicht. Änderungen dieses Vertrages bedürfen der Schriftform. Es gilt österreichisches Recht.

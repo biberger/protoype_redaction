@@ -30,6 +30,12 @@ Laut Angaben des Anzeigers hielt der Beschuldigte zunächst an, fuhr dann jedoch
 
 [[person|Babić]] gab außerdem an, er habe zum Unfallzeitpunkt das Mobiltelefon verwendet, was er zunächst bestritt und später einräumte.
 
+Alkomat, Fahrzeug und Fahrbahn:
+
+Um 17.52 Uhr wurde beim Beschuldigten am Unfallort eine Atemalkoholuntersuchung mit einem Alkomaten durchgeführt. Das Ergebnis betrug 0,00 mg/l, ein Alkoholeinfluss wurde daher nicht festgestellt. Der Beschuldigte legte den Zulassungsschein und die Versicherungsbestätigung vor. Der Pkw war zum Unfallzeitpunkt ordnungsgemäß zugelassen; eine Begutachtung der Bremsen ergab keine Mängel.
+
+Die Fahrbahn war trocken, die Sicht gut. Die Verkehrszeichen im Bereich der Kreuzung waren vollständig vorhanden. Eine Geschwindigkeitsüberschreitung ist nach den vorliegenden Angaben nicht erkennbar.
+
 Verletzungen und Schaden:
 
 Der Anzeiger wurde an der Unfallstelle durch den Rettungsdienst versorgt und anschließend in das [[organization|Krankenhaus Rohrbach]] gebracht. Die Verletzungen sind nach ärztlicher Auskunft leicht. Am Fahrrad entstand ein Schaden an der Vorderradgabel.
@@ -46,6 +52,8 @@ Beweismittel:
 2. Fotos des beschädigten Fahrrads
 3. Einvernahmeprotokoll des Beschuldigten vom [[date|4. Oktober 2026]]
 4. Ärztlicher Befund des [[organization|Krankenhauses Rohrbach]]
+
+Die Zeugin wurde am [[date|4. Oktober 2026]] ebenfalls einvernommen. Sie gab an, der Radfahrer sei auf dem Radweg mit normaler Geschwindigkeit gefahren, der Pkw sei ohne anzuhalten in die Kreuzung eingefahren. Eine Ergänzung ihrer Angaben nach dem Lichtbildvergleich ist vorgesehen, sobald die Fotos der Dienststelle vorliegen.
 
 Die Anzeige wurde auf Grund der Angaben des Anzeigers und des Beschuldigten erstattet. Die Beteiligten wurden über die Möglichkeit der Akteneinsicht belehrt.
 

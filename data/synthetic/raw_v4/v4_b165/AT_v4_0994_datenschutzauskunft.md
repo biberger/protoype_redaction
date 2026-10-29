@@ -33,6 +33,10 @@ Wir setzen für den Betrieb unserer Kundendatenbank die [[organization|Nöbauer 
 
 Eine Weitergabe an Dritte für Werbezwecke erfolgt nicht.
 
+Ihre Daten stammen zum überwiegenden Teil aus Ihrem Antrag vom [[date|12. Mai 2021]]; die Adressdaten wurden im Jahr 2023 mit dem Melderegister abgeglichen. Die Daten werden für die Dauer der Vertragsbeziehung und danach für die gesetzlichen Aufbewahrungsfristen gespeichert. Buchungsbelege bewahren wir gemäß [[legal_norm|§ 132 Abs 1 BAO]] sieben Jahre auf und löschen sie danach, soweit keine weitere Aufbewahrungspflicht besteht.
+
+Eine Übermittlung in Drittländer außerhalb der Europäischen Union findet nicht statt. Die Serverstandorte befinden sich in Österreich.
+
 3. Ihre Rechte
 
 Sie haben das Recht auf Berichtigung, Löschung und Einschränkung der Verarbeitung. Außerdem können Sie der Verarbeitung widersprechen. Die Beschwerde bei der [[organization|Datenschutzbehörde]] bleibt Ihnen unbenommen.
@@ -43,9 +47,13 @@ Die Auswertung betrifft auch die Daten von Frau [[person|Bösch]], die als Zahlu
 
 5. Bearbeitung
 
-Die Bearbeitung der Anfrage lag bei [[person|Oliviu Țugui]] aus unserer Kundenbetreuung. Bei Rückfragen wenden Sie sich bitte an [[person|May Sirat, MBA]], die für den Kundenservice verantwortlich ist.
+Die Bearbeitung der Anfrage lag bei [[person|Oliviu Țugui]] aus unserer Kundenbetreuung. Bei Rückfragen wenden Sie sich bitte an [[person|May Sirat, MBA]], die für den Kundenservice verantwortlich ist. Ein Telefonat mit dem Kundenservice am [[date|10. Juli 2026]] hat Ihre Anfrage vorbereitet; die dabei genannten Kundennummern haben wir überprüft.
 
 Die Datenschutzbeauftragte, [[person|Dr. Liesl Porsche]], hat diese Auskunft geprüft. Eine Kopie der Auskunft wurde im Datenschutzregister festgehalten.
+
+6. Keine automatisierte Entscheidung
+
+Eine automatisierte Entscheidungsfindung einschließlich Profiling im Sinne des [[legal_norm|Art. 22 DSGVO]] findet bei Ihrem Vertrag nicht statt. Eine Kopie der über Sie gespeicherten Daten liegt diesem Schreiben als PDF-Datei bei. Weitere Kopien stellen wir Ihnen auf Anfrage kostenfrei zur Verfügung, sofern Sie den Antrag nicht offenkundig unbegründet wiederholen.
 
 Mit freundlichen Grüßen
 
