@@ -354,3 +354,45 @@ def test_genplan_v4_briefs_carry_rare_labels():
         if doc_type.startswith(genplan.COURT_DOC_PREFIXES):
             assert not {"phone_number", "email"} & set(rare)
     assert set(seen) == set(genplan.RARE_KINDS)
+
+
+def _ris_annotate(text, app):
+    from legalner.gazetteers import Gazetteer
+    from legalner.sources.ris import annotate
+    rng = random.Random(2)
+    out, spans = annotate(text, {"app": app}, Gazetteer(rng=rng), rng)
+    for _, s, e, t in spans:
+        assert out[s:e] == t
+    return out, [(lab, t) for lab, _, _, t in spans]
+
+
+def test_ris_vwgh_bracket_placeholders():
+    out, spans = _ris_annotate("In seinem [sic!] Recht, dass die Approbationsbefugnis des Herrn Mag. [B] überprüft wird. "
+                               "„[D]er Sachverständige […] zuletzt“. Die Revision der [A B], vertreten durch "
+                               "Dr. Max Huber, Rechtsanwalt in Wien.", "Vwgh")
+    assert "[B]" not in out and "[A B]" not in out
+    assert "[sic!]" in out and "[D]er" in out and "[…]" in out
+    persons = [t for lab, t in spans if lab == "person"]
+    assert any(t.startswith("Mag. ") and " " not in t[5:] for t in persons)  # "Mag. [B]" -> degree + surname
+    assert len(persons) == 3 and ("lawyer", "Dr. Max Huber") in spans
+
+
+def test_ris_lvwg_tirol_letter_coded_towns():
+    out, spans = _ris_annotate("Herren AA, geb. am XX.XX.XXXX, Adresse 2, ***** Y, und Herren BB, wohnhaft in "
+                               "**** Z, Liegenschaft EZ ***1, KG ***** Z Stadt, gegen den Bescheid.", "Lvwg")
+    assert not re.search(r"\b[YZ]\b|\*", out), out
+    labels = collections.Counter(lab for lab, _ in spans)
+    assert labels["address"] == 1 and labels["location"] == 1 and labels["land_register_id"] == 2
+    address = next(t for lab, t in spans if lab == "address")
+    assert re.search(r"\d{4} \w", address) and out.index(address) + len(address) == out.index(", und Herren")
+
+
+def test_ris_vwg_wien_initial_streets():
+    out, spans = _ris_annotate("Sie wohnt allein in einer Mietwohnung an der Adresse C.-platz in Wien. Die Adresse der "
+                               "Wohnung lautet Wien, G.-Park, Tür ... (Bauteil 1). Der Unfall ereignete sich am "
+                               "H.-weg.", "Lvwg")
+    assert "C.-platz" not in out and "G.-Park" not in out and "H.-weg" not in out
+    labels = [lab for lab, _ in spans]
+    assert labels.count("address") == 2 and labels.count("street") == 1
+    street = next(t for lab, t in spans if lab == "street")
+    assert street.endswith("weg") and "(Bauteil 1)" in out

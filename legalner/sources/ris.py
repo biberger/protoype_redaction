@@ -220,8 +220,10 @@ _WORD = rf"(?!(?:{DEGREE_TOK}|Senatspräsident|Vizepräsident|Präsident|Hofr|Ri
 NAME = rf"{_WORD}(?:-{_WORD})?"
 PERSON_NAME = rf"{DEGREE}*(?:(?:{NAME}|[A-ZÄÖÜ]\.)\s){{0,3}}{NAME}{POSTNOM}?"
 
-# one placeholder token: Justiz "A*"/"Bö*"/"*"/"A*****", BVwG "XXXX", LVwG "***"/"xxx"/"**1"
-PH = r"(?:(?<![\w*])[A-ZÄÖÜ][a-zäöü]{0,2}\*+(?!innen)|\*+\d+|\*{3,}[a-z](?![a-zäöü])|(?<![a-zäöü])\*+(?![a-zäöü])|XXXX|(?<![a-wyzäöüß])x{2,}(?=[a-zäöüß]{3,}|\b))"
+# one placeholder token: Justiz "A*"/"Bö*"/"*"/"A*****", BVwG "XXXX", LVwG "***"/"xxx"/"**1",
+# VwGH bracketed initials "Herrn Mag. [B]", "der [A B]" (not "[D]er" in quotes, not "[sic!]")
+BRACKET_PH = r"\[[A-ZÄÖÜ]\.?(?:\s?[A-ZÄÖÜ]\.?){0,2}\](?![\wäöüß])"
+PH = r"(?:" + BRACKET_PH + r"|(?<![\w*])[A-ZÄÖÜ][a-zäöü]{0,2}\*+(?!innen)|\*+\d+|\*{3,}[a-z](?![a-zäöü])|(?<![a-zäöü])\*+(?![a-zäöü])|XXXX|(?<![a-wyzäöüß])x{2,}(?=[a-zäöüß]{3,}|\b))"
 PH_RUN = re.compile(rf"(?:{DEGREE})*{PH}(?:[ \-]{PH})*(?:[a-zäöüß]+)?")
 DATE_PH = re.compile(r"(?<![\w*])(?=[^\s]*[Xx*])(?:[Xx]{2}|\*{1,2}|\d{1,2})\.\s?(?:[Xx]{2}|\*{1,2}|\d{1,2})\.\s?"
                      r"(?:[Xx]{4}|\*{4}|(?:19|20)\d\d)(?![\w*])")
@@ -233,7 +235,15 @@ STREET_PH = re.compile(  # a street whose name and/or house number is redacted, 
     rf"\b[A-ZÄÖÜ][\w\-]*\s(?:Straße|Gasse|Weg|Platz|Allee|Ring))\s(?:{_PH_WORD}|\d+[a-z]?)(?:/(?:\*+|\d+))*"
     rf"(?:,\s(?:(?:\*+|\d{{4}})\s)?(?:{_PH_WORD}|[A-ZÄÖÜ][\w\-]+)(?=[,;)“]|\s(?:vertreten|wegen|in)\b))?"
     r"(?:\sin\s[A-ZÄÖÜ][a-zäöü]{0,2}\*+)?")
-ADDR_CODE = re.compile(r"(?<![\w*])\*{2,4}\s[A-ZÄÖÜ][a-zäöü]{0,2}\*+|\bAdresse\s\d+(?:,?\s(?:in\s)?(?:\*{4}|\d{4})\s[A-ZÄÖÜ](?![\w.]))?|(?<!\w)\*{4}\s[A-ZÄÖÜ](?![\w.])")
+# "Adresse 2, ***** Y" (LVwG Tirol: numbered address, redacted postcode, letter-coded town), "**** Z" (postcode, town)
+ADDR_CODE = re.compile(r"(?<![\w*])\*{2,4}\s[A-ZÄÖÜ][a-zäöü]{0,2}\*+|\bAdresse\s\d+(?:,?\s(?:in\s)?(?:\*{4,5}|\d{4})\s"
+                       r"[A-ZÄÖÜ](?![\w.])(?:\sStadt\b)?)?|(?<![\w*])\*{4,5}\s[A-ZÄÖÜ](?![\w.])(?:\sStadt\b)?")
+TOWN_CODE = re.compile(r"\*{4,5}\s[A-ZÄÖÜ](?:\sStadt)?")
+# VwG Wien abbreviates street names to the initial: "an der Adresse C.-platz in Wien", "Wien, G.-Park, Tür ..."
+CODE_STREET = re.compile(
+    r"(?:\b(?:Wien|\d{4}\s[A-ZÄÖÜ][a-zäöü]+),\s)?\b[A-ZÄÖÜ]\.-(?:[Pp]latz|[Gg]asse|[Ss]tra(?:ß|ss)e|[Ww]eg|[Pp]ark|[Rr]ing|"
+    r"[Aa]llee|[Zz]eile|[Kk]ai|[Ll]ände|[Pp]romenade|[Hh]of|[Ss]iedlung)(?:\s\d+[a-z]?(?:/\d+)*)?"
+    r"(?:,?\s(?:Stiege|Tür|Top)\s(?:\d+|\.\.\.|…|[A-ZÄÖÜ]\.?))*(?:\s(?:in|,)\s?(?:Wien|\d{4}\s[A-ZÄÖÜ][a-zäöü]+))?")
 LETTER_CODE = re.compile(r"\b([A-ZÄÖÜ])\1\b(?!\.)")  # LVwG Tirol "AA", "BB"
 _PERSON_CUE = (r"(?:des|der|dem|den|die|von|Herrn?|Frau|Partei:?|Revisionswerbers?|Revisionswerberin|"
                r"Mitbeteiligten|Beschwerdeführers?|Beschwerdeführerin|Nachbarn|Zeugen|Zeugin|Ehegattin|Ehemann|"
@@ -245,7 +255,7 @@ PAIR_CODES = re.compile(r"(?<![\w.§/])([A-ZÄÖÜ])\s(?:und|sowie|bzw\.)\s([A-Z
 CODE_ADDRESS = re.compile(r"\b[A-ZÄÖÜ]-(?:Straße|Gasse|Weg|Platz)\s?(?:\d+\s?)?,\s[A-ZÄÖÜ]-Ort\b|"  # LVwG Stmk
                           r"(?<=,\s)[A-ZÄÖÜ],\s[A-ZÄÖÜ][\s-](?:Straße|Gasse|Weg|Platz)(?:\s\d+[a-z]?)?(?=[,;)])")
 CODE_PLACE = re.compile(r"\b[A-ZÄÖÜ]-(?:Ort|Stadt|Dorf|Gemeinde)\b")
-TOWN_INITIAL = re.compile(r"(?<=\s)(?:in|aus|Bezirkshauptmannschaft|BH|KG|Gemeinde|Stadtgemeinde|Marktgemeinde|Stadt|"
+TOWN_INITIAL = re.compile(r"(?<=\s)(?:in|aus|nach|Bezirkshauptmannschaft|BH|KG|Gemeinde|Stadtgemeinde|Marktgemeinde|Stadt|"
                           r"Magistrat|Bezirk|Landespolizeidirektion|in\sdie|in\sden|in\sder)"
                           r"\s([A-ZÄÖÜ])(?=[,;)]|\s(?:vom|gegen|vertreten|und|zu|\()|\.\s[A-ZÄÖÜ])")
 
@@ -443,7 +453,8 @@ class Filler:
         core = re.sub(rf"^(?:(?:{DEGREE_TOK})\s)+", "", surface)
         if label in ("person", "judge", "lawyer"):
             n_parts = len(re.findall(r"[A-ZÄÖÜ][a-zäöü]{0,2}\*+|\*+|XXXX|xxx|\b[A-ZÄÖÜ]{1,2}\b", core)) or 1
-            name = gaz.surname("AT") if n_parts == 1 and re.match(r"^[A-ZÄÖÜ][a-zäöü]{0,2}\*", core) else gaz.person("AT")
+            single = re.match(r"^(?:[A-ZÄÖÜ][a-zäöü]{0,2}\*|\[[A-ZÄÖÜ]\.?\]$)", core)  # "A*", "[B]": a surname
+            name = gaz.surname("AT") if n_parts == 1 and single else gaz.person("AT")
             val = f"{degree} {name}".strip()
         elif label == "organization":
             val = gaz.surname("AT")
@@ -501,6 +512,7 @@ def _candidates(text, app):
         cands += [(m.start(g), m.end(g), "code") for m in PAIR_CODES.finditer(text) for g in (1, 2)]
         cands += [(m.start(), m.end(), "address") for m in CODE_ADDRESS.finditer(text)]
         cands += [(m.start(), m.end(), "town") for m in CODE_PLACE.finditer(text)]
+        cands += [(m.start(), m.end(), "code_street") for m in CODE_STREET.finditer(text)]
     if app in ("Lvwg", "Vwgh", "Vfgh", "Bvwg"):
         cands += [(m.start(1), m.end(1), "initials") for m in INITIALS.finditer(text)]
         cands += [(m.start(1), m.end(1), "town") for m in TOWN_INITIAL.finditer(text)]
@@ -523,16 +535,20 @@ def fill_placeholders(text, gaz, rng, app=None):
         if s < pos:  # swallowed by the previous span's extension (legal form, year)
             continue
         surface = text[s:e]
-        if kind == "ph" and not re.search(r"\*|XXXX|xx|\.\.\.|…", surface):
+        if kind == "ph" and not re.search(r"\*|XXXX|xx|\.\.\.|…|\[", surface):
             continue
         before, after = text[max(0, s - 60):s], text[e:e + 40]
         gap = text[prev[1]:s] if prev else None
         if kind == "date":
             label = "date"
         elif kind == "address":
-            label = "address" if surface.startswith("Adresse") or surface.count("*") > 4 or "-Ort" in surface \
+            label = ("land_register_id" if re.search(r"\bKG\s$", before) else "location") \
+                if TOWN_CODE.fullmatch(surface) else \
+                "address" if surface.startswith("Adresse") or surface.count("*") > 4 or "-Ort" in surface \
                 or re.search(r"Straße|Gasse|Weg|Platz", surface) \
                 else "location"
+        elif kind == "code_street":  # with a number, door or town it is the (redacted) address, else a street
+            label = "address" if re.search(r"\d|Tür|Top|Stiege|\sin\s|,\s", surface) else "street"
         elif kind == "street_address":
             label = "address"
         elif kind == "town":
@@ -551,6 +567,8 @@ def fill_placeholders(text, gaz, rng, app=None):
         if label == "unknown":
             unknown += 1
         val = filler.value(label, surface, style)
+        if kind == "code_street" and label == "street":  # "C.-platz" -> "Kralikplatz"
+            val = filler.value("street", surface) + surface.split("-", 1)[1].lower()
         if label == "date" and style == "daymonth":  # the span covers the surviving year
             m = re.match(r"\s?(?:19|20)\d\d", text[e:])
             val, e = f"{val} {m.group().strip()}", e + m.end()
