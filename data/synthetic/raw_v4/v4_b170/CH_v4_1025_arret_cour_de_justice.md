@@ -3,7 +3,7 @@ doc_type: arret_cour_de_justice
 jurisdiction: CH
 lang: fr
 ---
-RÉPUBLIQUE ET CANTON DE GENÈVE
+RÉPUBLIQUE ET CANTON DE [[location|GENÈVE]]
 POUVOIR JUDICIAIRE
 
 [[court|Cour de justice]]
@@ -35,9 +35,9 @@ C. Un échange de messages entre les parties a été produit à l'appui de la de
 
 La réponse de [[person|Badoux]] du même jour est rédigée en ces termes : « ok je lui écris mais ils ont dit que la hotte est déjà commandée ».
 
-D. Mme [[person|Nicol Ackermann]], ancienne cheffe de salle, a confirmé sous serment que le recourant avait signalé les défauts à l'intimée dès le mois de juillet 2024. Son témoignage n'a pas été contesté.
+D. Mme [[person|Nicol Ackermann]], ancienne cheffe de salle, qui a produit son permis de conduire n° [[id_document_number|453376191003]] pour établir son identité, a confirmé sous serment que le recourant avait signalé les défauts à l'intimée dès le mois de juillet 2024. Son témoignage n'a pas été contesté.
 
-E. Dans son rapport du [[date|30 juin 2025]], l'expert [[person|Dr. Dr. Shanea Schaffter, LL.M.]] conclut que la hotte n'avait pas été dimensionnée pour le débit d'air prévu au contrat, et que la chambre froide présentait une fuite de fluide frigorigène réparable. Il évalue le coût des reprises à CHF 19'750.–.
+E. Dans son rapport du [[date|30 juin 2025]], l'experte [[person|Dr. Dr. Shanea Schaffter, LL.M.]] conclut que la hotte n'avait pas été dimensionnée pour le débit d'air prévu au contrat, et que la chambre froide présentait une fuite de fluide frigorigène réparable. Il évalue le coût des reprises à CHF 19'750.–.
 
 F. Par jugement du [[date|11 mars 2026]], le Tribunal de première instance a rejeté la demande en paiement de CHF 24'300.– formée par le recourant et a laissé les frais à sa charge. Le recourant a appelé de ce jugement le [[date|8 avril 2026]].
 

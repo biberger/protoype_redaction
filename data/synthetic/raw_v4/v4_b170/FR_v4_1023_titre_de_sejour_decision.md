@@ -27,6 +27,8 @@ Vu l'attestation d'affiliation établie au nom de [[person|Felicio Dillier]], sa
 
 Vu le permis de conduire français n° [[id_document_number|918324160131]] remis à l'appui de la demande ;
 
+Vu le relevé d'identité bancaire portant l'IBAN [[bank_account|FR58 0623 5315 9133 4385 7903 365]], produit par Mme [[person|Adèle Sy]] à l'appui de sa demande de remboursement des taxes acquittées ;
+
 Considérant que la promesse d'embauche signée le [[date|17 septembre 2025]] par [[person|Leonard Parisot]], gérant de la société [[organization|Habitat Fischer EURL]], prévoit un contrat à durée indéterminée à temps partiel, sans que la qualification exigée pour le poste d'agent d'entretien soit justifiée ;
 
 Considérant que Mme [[person|Sy]] a travaillé auparavant pour la société [[organization|Donnadieu SARL]], SIREN [[company_register_number|928 588 359]], SIRET [[company_register_number|928 588 359 09839]], numéro de TVA intracommunautaire [[tax_id|FR70928588359]], immatriculée au RCS de [[location|Lyon]], dont l'établissement secondaire est situé au [[address|14 quai des Bateliers, 67000 Strasbourg]] ; que les bulletins de paie produits couvrent une période de douze mois qui s'achève le [[date|31 juillet 2025]] ;
