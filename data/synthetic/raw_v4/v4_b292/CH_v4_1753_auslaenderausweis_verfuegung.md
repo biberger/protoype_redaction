@@ -31,6 +31,10 @@ Im Dossier liegt folgende Nachricht, Blatt 14:
 
 Vorgelegt wurde die Identitätskarte Nr. [[id_document_number|C2695532]].
 
+Die Gesuchsunterlagen wurden am [[date|17. August 2026]] vollständig eingereicht. Dazu gehören ein Arbeitsvertrag vom [[date|1. März 2021]] mit einer Probezeit von drei Monaten, die Lohnausweise der letzten drei Jahre und ein Betreibungsregisterauszug vom [[date|2. Oktober 2026]], aus dem keine offenen Verfahren hervorgehen. Die Kantonspolizei hat keine Einwände erhoben.
+
+Der Gesuchsteller hat einen Mietvertrag für die Wohnung an der [[street|Rislingstrasse]] vorgelegt, der bis zum Jahr 2030 befristet ist. Eine Änderung des Wohnsitzes ist nicht geplant.
+
 2. Erwägungen
 
 Die Voraussetzungen für die Verlängerung sind erfüllt. Der Aufenthaltszweck ist unverändert, die Erwerbstätigkeit ist durch den Arbeitsvertrag belegt und es liegen keine Widerrufsgründe vor. Die Verlängerung richtet sich nach [[legal_norm|Art. 61 Abs. 2 VZAE]] i.V.m. [[legal_norm|Art. 42 AIG]].

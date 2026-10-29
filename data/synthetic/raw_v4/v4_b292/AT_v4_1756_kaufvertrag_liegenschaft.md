@@ -10,7 +10,7 @@ abgeschlossen am [[date|18. September 2026]] in [[location|Schwand im Innkreis]]
 
 I. Verkäuferin
 
-[[organization|Hanne AG]], [[company_register_number|FN 539336t]], UID-Nummer [[tax_id|ATU59224930]], mit Sitz am [[address|Stanglhofweg 10, 2823 Pitten]], vertreten durch den Vorstand [[person|Tibor Erkinger]].
+[[organization|Hanne AG]], [[company_register_number|FN 539336t]], UID-Nummer [[tax_id|ATU59224930]], mit Sitz am [[address|Stanglhofweg 10, 2823 Pitten]], vertreten durch den Vorstand [[person|Tibor Erkinger]], wohnhaft [[address|Wachszieherstraße 10/8, 9872 Millstatt am See]].
 
 II. Käufer zu je einem Hälfteanteil
 

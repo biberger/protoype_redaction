@@ -51,7 +51,7 @@ Beweis wurde erhoben durch Einvernahme der Parteien, durch die Zeuginnen [[perso
 
 Die Zeugin [[person|J***** Z*****]] sah den Anhänger beim Rückwärtsfahren auf den Gehsteig zufahren. Sie konnte allerdings nicht angeben, ob der Lenker vor dem Anfahren nach hinten geschaut hatte. Die Zeugin [[person|Mag. O***** v. d. H*****]] bestätigte, dass die Klägerin zu diesem Zeitpunkt auf dem Gehsteig ging und nicht auf der Fahrbahn. Sie beschrieb den Anhänger als sehr nahe an der Hauswand geparkt.
 
-Der Zeuge [[person|G***** A*****]] gab hingegen an, er habe die Klägerin nicht gesehen, weil sie hinter dem Holzstoß gestanden sei; er selbst sei mit dem Verladen der Ladung beschäftigt gewesen und habe nur das Hupen gehört. Das Gericht misst dieser Aussage geringere Glaubwürdigkeit bei, weil der Zeuge in einem Arbeitsverhältnis zur beklagten Partei steht und mit der Ladung befasst war.
+Der Zeuge [[person|G***** A*****]], wohnhaft [[address|*****]], gab hingegen an, er habe die Klägerin nicht gesehen, weil sie hinter dem Holzstoß gestanden sei; er selbst sei mit dem Verladen der Ladung beschäftigt gewesen und habe nur das Hupen gehört. Das Gericht misst dieser Aussage geringere Glaubwürdigkeit bei, weil der Zeuge in einem Arbeitsverhältnis zur beklagten Partei steht und mit der Ladung befasst war.
 
 Der Lenker [[person|D***** B*****]] schilderte, er habe vor dem Rückwärtsfahren den Anhänger durch den Beifahrer einweisen lassen wollen, dieser sei jedoch nicht anwesend gewesen. Er habe daher mit dem Hupen begonnen, als die Klägerin den Gefahrenbereich betrat.
 

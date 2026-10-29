@@ -23,7 +23,7 @@ Le cédant cède à l'acquéreuse le véhicule Peugeot 308 SW BlueHDi 130, coule
 
 Article 3 – Antécédents de propriété
 
-Le cédant a acquis le véhicule le [[date|4 mars 2021]] auprès de [[organization|Distribution Geoffroy SA]], [[company_register_number|SIREN 169 540 531]], immatriculée au RCS de [[location|Reims]], représentée par Mme [[person|Marie-Noëlle Philibert]], directrice commerciale. Le cédant déclare n'avoir connaissance d'aucun gage, opposition ou saisie portant sur le véhicule.
+Le cédant a acquis le véhicule le [[date|4 mars 2021]] auprès de [[organization|Distribution Geoffroy SA]], [[company_register_number|SIREN 169 540 531]], [[company_register_number|SIRET 169 540 531 06480]], numéro de TVA [[tax_id|FR68169540531]], immatriculée au RCS de [[location|Reims]], représentée par Mme [[person|Marie-Noëlle Philibert]], directrice commerciale. Le cédant déclare n'avoir connaissance d'aucun gage, opposition ou saisie portant sur le véhicule.
 
 Article 4 – Contrôle technique et état du véhicule
 
@@ -31,7 +31,7 @@ Le véhicule a fait l'objet d'un contrôle technique favorable le [[date|21 aoû
 
 Article 5 – Intermédiaire
 
-La cession est réalisée avec l'assistance de [[organization|Soulié EURL]], [[company_register_number|SIREN 997 403 142]], immatriculée au RCS de [[location|Lyon]], numéro de TVA [[tax_id|FR95997403142]]. La société est représentée par son gérant M. [[person|Gautier Baudin]], qui a établi le présent certificat et transmis les pièces à la préfecture.
+La cession est réalisée avec l'assistance de [[organization|Soulié EURL]], [[company_register_number|SIREN 997 403 142]], [[company_register_number|SIRET 997 403 142 04176]], immatriculée au RCS de [[location|Lyon]], numéro de TVA [[tax_id|FR95997403142]]. La société est représentée par son gérant M. [[person|Gautier Baudin]], qui a établi le présent certificat et transmis les pièces à la préfecture.
 
 Article 6 – Prix et paiement
 

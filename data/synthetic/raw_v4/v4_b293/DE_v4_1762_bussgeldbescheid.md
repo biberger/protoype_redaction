@@ -25,7 +25,7 @@ Am [[date|14.03.2026]] um 07:42 Uhr fuhren Sie mit dem Kraftfahrzeug mit dem amt
 
 Rechtsgrundlage
 
-Der Verstoß ist nach [[legal_norm|§ 41 Abs 2 StVO]] i.V.m. Zeichen 274 untersagt und wird nach [[legal_norm|§ 24 StVG]] i.V.m. [[legal_norm|§ 3 Abs 3 StVO]] als Ordnungswidrigkeit geahndet. Die Regelsätze ergeben sich aus Tabelle 1 der [[legal_norm|Bußgeldkatalog-Verordnung]] ([[legal_norm|BKatV]]), lfd. Nr. 11.3.5. Das Fahrverbot richtet sich nach [[legal_norm|§ 4 Abs 3 BKatV]] i.V.m. [[legal_norm|§ 25 StVG]].
+Der Verstoß ist nach [[legal_norm|§ 41 Abs. 2 StVO]] i.V.m. Zeichen 274 untersagt und wird nach [[legal_norm|§ 24 StVG]] i.V.m. [[legal_norm|§ 3 Abs. 3 StVO]] als Ordnungswidrigkeit geahndet. Die Regelsätze ergeben sich aus Tabelle 1 der [[legal_norm|Bußgeldkatalog-Verordnung]] ([[legal_norm|BKatV]]), lfd. Nr. 11.3.5. Das Fahrverbot richtet sich nach [[legal_norm|§ 4 Abs. 3 BKatV]] i.V.m. [[legal_norm|§ 25 StVG]].
 
 Festsetzung
 
@@ -54,7 +54,7 @@ Die Straßenverkehrsbehörde hat die Beschränkung auf 70 km/h an dieser Stelle 
 
 Sachbearbeitung
 
-Der Vorgang wurde von [[person|Dipl.-Kfm. Ireen Eberle]] bearbeitet. Die Anhörung ist mit Schreiben vom [[date|2. Mai 2026]] erfolgt; eine Stellungnahme des Verteidigers [[lawyer|Cornelis Glöckner, B.Sc.]], Rechtsanwalt in [[location|Regensburg]], ging am [[date|11. Mai 2026]] ein. Darin wurde beantragt, das Fahrverbot wegen beruflicher Härte entfallen zu lassen. Dieser Antrag wird zurückgewiesen, weil die Voraussetzungen des [[legal_norm|§ 25 Abs 2a StVG]] nicht vorliegen: Ein Härtefall ist nur bei einer unbilligen Folge des Fahrverbots anzuerkennen, die über die regelmäßige Auswirkung hinausgeht.
+Der Vorgang wurde von [[person|Dipl.-Kfm. Ireen Eberle]] bearbeitet. Die Anhörung ist mit Schreiben vom [[date|2. Mai 2026]] erfolgt; eine Stellungnahme des Verteidigers [[lawyer|Cornelis Glöckner, B.Sc.]], Rechtsanwalt in [[location|Regensburg]], ging am [[date|11. Mai 2026]] ein. Darin wurde beantragt, das Fahrverbot wegen beruflicher Härte entfallen zu lassen. Dieser Antrag wird zurückgewiesen, weil die Voraussetzungen des [[legal_norm|§ 25 Abs. 2a StVG]] nicht vorliegen: Ein Härtefall ist nur bei einer unbilligen Folge des Fahrverbots anzuerkennen, die über die regelmäßige Auswirkung hinausgeht.
 
 Die Angaben des Betroffenen zu seinem Einkommen wurden nicht belegt. Nach den Ermittlungen ist er als Fahrer im Güterverkehr tätig und nutzt den Führerschein beruflich. Dies ist bei der Bemessung des Fahrverbots berücksichtigt, eine Verkürzung ist jedoch ausgeschlossen, da die Geschwindigkeit deutlich über dem Grenzwert lag.
 

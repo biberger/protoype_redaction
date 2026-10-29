@@ -46,5 +46,5 @@ Für die Revisionsstelle bestätigt Herr [[person|Elijas Sieber]] die Unabhängi
 
 Mit freundlichen Grüssen
 
-[[lawyer|ANDREI-CLAUDIU BURRI]]
+[[lawyer|Andrei-Claudiu Burri]]
 Rechtsanwalt
