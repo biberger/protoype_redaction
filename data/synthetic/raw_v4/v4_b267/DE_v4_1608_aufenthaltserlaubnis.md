@@ -21,7 +21,7 @@ auf Ihren Antrag vom [[date|14.01.2026]] ergeht folgender Bescheid:
 
 1. Ihnen wird eine Aufenthaltserlaubnis zur Ausübung einer Beschäftigung als Elektrotechniker nach [[legal_norm|§ 18a Abs. 1 AufenthG]] i.V.m. [[legal_norm|§ 4 Abs. 3 AufenthG]] erteilt. Die Geltungsdauer beträgt drei Jahre, gerechnet ab dem [[date|1. März 2026]].
 
-2. Die Erlaubnis berechtigt zur Beschäftigung bei der [[organization|Uchytil Elektro GmbH]], [[company_register_number|HRB 243521 B]], Betriebsstätte [[location|Leutershausen]], vorbehaltlich einer Zustimmung der Bundesagentur für Arbeit.
+2. Die Erlaubnis berechtigt zur Beschäftigung bei der [[organization|Uchytil Elektro GmbH]], [[company_register_number|HRB 243521 B]], Betriebsstätte [[location|Leutershausen]], vorbehaltlich einer Zustimmung der [[organization|Bundesagentur für Arbeit]].
 
 3. Die Aufenthaltserlaubnis wird nach Vorlage des gültigen Reisepasses Nr. [[id_document_number|C5X21TPCG]] ausgestellt.
 

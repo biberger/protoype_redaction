@@ -37,6 +37,8 @@ B. Beweisaufnahme
 
 6. Der Gesellschafter [[person|Reinulf Thurnher]] wurde als Auskunftsperson gehört. Er bestätigte, dass die Gesellschaft ihre Mitarbeiterinnen aus einer Pflegewohnung in der [[street|Vorgartenstraße]] versorgte und dass die Übergabe der Kundenstämme am [[date|1. Oktober 2023]] schriftlich erfolgte. Die Übergabe der Pflegekräfte sei nicht Gegenstand des Vertrages gewesen.
 
+6a. Der Kommanditist [[person|Seymour Louis]] der [[organization|Amann & Weber GmbH & Co KG]], wohnhaft in [[address|Sommerstraße 4, 3862 Eisgarn]], erklärte als Auskunftsperson, er habe die Übergabe der Fahrzeuge nicht unterzeichnet und habe davon erst nach dem Übergabetermin erfahren.
+
 7. Der Prokurist [[person|Dr. Alfréd Obuch]] erklärte, die [[organization|Amann & Weber GmbH & Co KG]] habe die Verträge mit den Kundinnen übernommen und die Rechnungen ab dem [[date|1. November 2023]] unter eigenem Namen gestellt. Er legte den Übergabevertrag vor. Dieser ist mit dem Datum vom [[date|29. September 2023]] unterzeichnet.
 
 8. Die Pflegekraft [[person|Shoura Janko]] wurde als Zeugin gehört. Sie gab an, ihr Dienstvertrag sei im Oktober 2023 an die [[organization|Amann & Weber GmbH & Co KG]] übergegangen, ihre Dienststelle habe sich aber nicht geändert. Sie habe die Pflegeeinsätze weiterhin in der [[street|Vorgartenstraße]] und in den umliegenden Ortschaften durchgeführt.

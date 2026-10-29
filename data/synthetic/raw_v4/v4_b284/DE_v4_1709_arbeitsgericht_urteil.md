@@ -47,7 +47,7 @@ Der Kläger bestreitet diesen Vorwurf. Er habe am [[date|9. Oktober 2025]] die L
 
 Die Beklagte hat die Vorwürfe zunächst in einem Gespräch am Betriebsstandort erörtert, ein Protokoll darüber existiert nicht. Die Beklagte hörte den Kläger mit Schreiben vom [[date|2. Januar 2026]] an. Der Kläger antwortete mit E-Mail vom [[date|4. Januar 2026]], die auszugsweise wie folgt lautet:
 
-„Sehr geehrte Frau [[person|Wüst]], ich habe am 9. Oktober die Ware nach [[location|Gera]] gebracht und war nach meiner Erinnerung nicht länger als eine Stunde weg. Bitte schicken Sie mir die Abrechnung für die Monate seit Oktober an meine Bankverbindung, IBAN DE91 6365 2752 1959 4714 72. Mit freundlichen Grüßen, [[person|Iovu Corbu]]“
+„Sehr geehrte Frau [[person|Wüst]], ich habe am [[date|9. Oktober]] die Ware nach [[location|Gera]] gebracht und war nach meiner Erinnerung nicht länger als eine Stunde weg. Bitte schicken Sie mir die Abrechnung für die Monate seit Oktober an meine Bankverbindung, IBAN [[bank_account|DE91 6365 2752 1959 4714 72]]. Mit freundlichen Grüßen, [[person|Iovu Corbu]]“
 
 Mit Schreiben vom [[date|15.01.2026]], dem Kläger zugegangen am selben Tag, kündigte die Beklagte das Arbeitsverhältnis ordentlich zum [[date|31. Juli 2026]]. Der Kläger hat am [[date|30.01.2026]] Klage beim Arbeitsgericht erhoben.
 

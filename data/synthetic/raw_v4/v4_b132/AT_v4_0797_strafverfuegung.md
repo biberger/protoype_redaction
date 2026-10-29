@@ -13,7 +13,7 @@ Herrn [[person|Ange Sar]]
 
 Sie haben am [[date|18. April 2026]] um 14.35 Uhr als Lenker des Pkw mit dem Kennzeichen [[license_plate|KB-44890U]] auf der Landesstraße zwischen [[location|Jochberg]] und [[location|Kitzbühel]] die dort erlaubte Höchstgeschwindigkeit von 70 km/h um 38 km/h überschritten.
 
-Die Messung erfolgte mit einem geeichten Lasermessgerät auf eine Entfernung von 320 Metern. Das Gerät war zuletzt am [[date|2. März 2026]] geeicht worden, das Messprotokoll vom [[date|18. April 2026]] liegt bei. Das Ergebnis wurde im Gutachten des Sachverständigen [[person|DI Achille Engelhart]] bestätigt. Die Anzeige erstattete Ing. [[person|Athanasius Wiesinger]] von der [[organization|Polizeiinspektion Kitzbühel]] nach dem Vorfall.
+Die Messung erfolgte mit einem geeichten Lasermessgerät auf eine Entfernung von 320 Metern. Das Gerät war zuletzt am [[date|2. März 2026]] geeicht worden, das Messprotokoll vom [[date|18. April 2026]] liegt bei. Das Ergebnis wurde im Gutachten des Sachverständigen [[person|DI Achille Engelhart]] bestätigt. Die Anzeige erstattete [[person|Ing. Athanasius Wiesinger]] von der [[organization|Polizeiinspektion Kitzbühel]] nach dem Vorfall.
 
 Zulassungsbesitzerin des Fahrzeugs ist [[person|Kateryna Hontscharowa, MBA]]. Sie hat die Lenkerauskunft erteilt, wonach Sie das Fahrzeug an diesem Tag gelenkt haben.
 

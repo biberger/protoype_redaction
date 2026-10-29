@@ -5,7 +5,7 @@ lang: de
 ---
 GESELLSCHAFTSVERTRAG
 
-über die Gründung der Hochwechsel Mobilität GmbH
+über die Gründung der [[organization|Hochwechsel Mobilität GmbH]]
 
 abgeschlossen am [[date|2. Juni 2026]] in [[location|Hartberg]] zwischen den nachstehenden Personen und Gesellschaften:
 

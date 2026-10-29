@@ -3,7 +3,7 @@ doc_type: datenschutzauskunft
 jurisdiction: AT
 lang: de
 ---
-BEARBEITUNGSVERMERK: EINGANG 04.08.2026 · BEARBEITER: DATENSCHUTZKOORDINATION
+BEARBEITUNGSVERMERK: EINGANG [[date|04.08.2026]] · BEARBEITER: DATENSCHUTZKOORDINATION
 
 [[organization|MOSTVIERTLER WOHNBAUGENOSSENSCHAFT EG]]
 [[address|THEODOR-HAAS-STRASSE 9, 4352 KLAM]]
@@ -13,11 +13,11 @@ Frau
 [[person|Dr. Sonnhilde Huemer]]
 [[address|Erlachgasse 12/20, 8354 Frutten-Gießelsdorf]]
 
-Klam, am [[date|28. August 2026]]
+[[location|Klam]], am [[date|28. August 2026]]
 
 Auskunft gemäß [[legal_norm|Art 15 DSGVO]]
 
-Sehr geehrte Frau Dr. Huemer,
+Sehr geehrte Frau [[person|Dr. Huemer]],
 
 mit Schreiben vom [[date|3. August 2026]], bei uns eingelangt am [[date|4. August 2026]], haben Sie um Auskunft über die zu Ihrer Person verarbeiteten personenbezogenen Daten ersucht. Wir kommen diesem Ersuchen innerhalb der Frist des [[legal_norm|Art 12 Abs 3 DSGVO]] nach.
 
@@ -43,7 +43,7 @@ f) Protokolldaten: Zugriffe auf Ihre Akte im Kundenverwaltungssystem, die im Zei
 
 3. Zugriffe und Empfänger
 
-Die Zugriffsprotokolle zeigen, dass Ihre Akte im genannten Zeitraum fünfmal von [[person|Ing. Ernesto Langehegermann, BSc]] eingesehen wurde, zuletzt am [[date|22.06.2026]]. Herr [[person|Langehegermann]] war bis zum [[date|30. Juni 2026]] als Hausverwalter für Ihre Wohnanlage zuständig. Ein Zugriff nach diesem Datum ist nicht protokolliert.
+Die Zugriffsprotokolle zeigen, dass Ihre Akte im genannten Zeitraum fünfmal von [[person|Ing. Ernesto Langehegermann, BSc]] eingesehen wurde, zuletzt am [[date|22.06.2026]]. Herr [[person|Langehegermann]] war bis zum [[date|30. Juni 2026]] als Hausverwalter für Ihre Wohnanlage zuständig. Ein Zugriff nach diesem Datum ist nicht protokolliert. Die Zugriffsberechtigung wurde mit dem Ende dieser Funktion entzogen.
 
 Empfänger Ihrer Daten sind im Wesentlichen die Hausverwaltung, das Finanzamt für die Betriebskostenabrechnung und, soweit die Wohnbeihilfe betroffen ist, die zuständige Landesstelle. Eine Übermittlung an die [[organization|Datenschutzbehörde]] ([[organization|DSB]]) ist nicht erfolgt.
 
@@ -57,13 +57,34 @@ Sie haben das Recht auf Berichtigung unrichtiger Daten nach [[legal_norm|Art 16 
 
 Sollten Sie der Ansicht sein, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt, können Sie sich an die [[organization|Datenschutzbehörde]] ([[organization|DSB]]) wenden. Die Beschwerde ist dort einzubringen, ohne dass zuvor unser Haus befasst werden muss.
 
-6. Kopie der Daten
+6. Herkunft der Daten
 
-Eine Kopie der zu Ihrer Person verarbeiteten Daten liegt diesem Schreiben als Anlage bei. Sie erhalten diese Kopie in elektronischer Form, soweit Sie keine andere Form wünschen. Für weitere Kopien behalten wir uns ein angemessenes Entgelt vor.
+Die Daten stammen überwiegend von Ihnen selbst, insbesondere aus dem Antrag auf Aufnahme in die Warteliste und aus dem Mietvertrag. Die Angaben zur Wohnbeihilfe wurden von der Landesstelle übermittelt, die dafür die Einkommensnachweise am [[date|14. Mai 2025]] bei uns angefordert hatte. Eine Datenquelle aus öffentlich zugänglichen Registern besteht nicht.
+
+7. Speicherfristen im Überblick
+
+Datenkategorie | Speicherdauer | Rechtsgrundlage
+Stammdaten und Mietvertrag | sieben Jahre nach Vertragsende | gesetzliche Aufbewahrungspflicht
+Mitgliedsdaten | bis zum Austritt aus der Genossenschaft | Mitgliedschaftsvertrag
+Zahlungsdaten | sieben Jahre nach Zahlungseingang | Buchhaltungspflicht
+Sozialversicherungsdaten | bis zum Abschluss der Wohnbeihilfe | Antrag und Einwilligung
+Protokolldaten | drei Jahre | berechtigtes Interesse
+
+8. Automatisierte Entscheidungsfindung
+
+Eine automatisierte Entscheidung oder ein Profiling im Sinne des [[legal_norm|Art 22 DSGVO]] findet im Zusammenhang mit Ihrer Person nicht statt. Die Vergabe von Wohnungen erfolgt durch den Vorstand nach Reihung in der Warteliste und wird von Menschen entschieden.
+
+9. Kontakt
+
+Für Fragen zu dieser Auskunft erreichen Sie die Datenschutzkoordination telefonisch unter [[phone_number|+43 7412 5883 40]] oder per E-Mail an [[email|datenschutz@mostviertler-wbg.at]]. Bitte geben Sie bei Rückfragen Ihre Mitgliedsnummer an.
+
+10. Kopie der Daten
+
+Eine Kopie der zu Ihrer Person verarbeiteten Daten liegt diesem Schreiben als Anlage bei. Sie erhalten diese Kopie in elektronischer Form, soweit Sie keine andere Form wünschen. Für weitere Kopien behalten wir uns ein angemessenes Entgelt vor. Sollten Sie die Auskunft in Papierform wünschen, teilen Sie uns dies bitte innerhalb von zwei Wochen mit. Bei einer Übermittlung per E-Mail bitten wir um einen Hinweis, ob die Anlage verschlüsselt versandt werden soll, da sie Sozialversicherungsdaten enthält.
 
 Mit freundlichen Grüßen
 
-Für die Mostviertler Wohnbaugenossenschaft eG
+Für die [[organization|Mostviertler Wohnbaugenossenschaft eG]]
 
 [[person|Alberta Seitz]]
 Datenschutzkoordination

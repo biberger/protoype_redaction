@@ -19,7 +19,7 @@ Gegen Sie wird wegen einer Ordnungswidrigkeit eine Geldbuße festgesetzt. Die En
 
 Tatvorwurf
 
-Sie haben am [[date|14. Mai 2026]] um 10:12 Uhr den Pkw mit dem amtlichen Kennzeichen [[license_plate|SM V 1H]] auf der Landstraße zwischen [[location|Einhausen]] und Ritschenhausen geführt. Dort gilt eine zulässige Höchstgeschwindigkeit von 50 km/h, weil die Strecke durch die Ortslage führt. Sie haben die zulässige Geschwindigkeit damit um 15 km/h überschritten. Ein Verstoß gegen [[legal_norm|§ 3 Abs. 3 StVO]] liegt darin ebenfalls.
+Sie haben am [[date|14. Mai 2026]] um 10:12 Uhr den Pkw mit dem amtlichen Kennzeichen [[license_plate|SM V 1H]] auf der Landstraße zwischen [[location|Einhausen]] und [[location|Ritschenhausen]] geführt. Dort gilt eine zulässige Höchstgeschwindigkeit von 50 km/h, weil die Strecke durch die Ortslage führt. Sie haben die zulässige Geschwindigkeit damit um 15 km/h überschritten. Ein Verstoß gegen [[legal_norm|§ 3 Abs. 3 StVO]] liegt darin ebenfalls.
 
 Messung
 

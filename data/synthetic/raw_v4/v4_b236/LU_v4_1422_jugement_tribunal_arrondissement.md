@@ -60,7 +60,7 @@ Les dispositions de [[legal_norm|articles 1134 et 1315 du Code civil]] trouvent 
 
 PAR CES MOTIFS
 
-le tribunal d'arrondissement de Diekirch, statuant contradictoirement et en premier ressort,
+le [[court|tribunal d'arrondissement de Diekirch]], statuant contradictoirement et en premier ressort,
 
 condamne [[person|Andor Rousseau]] à payer à la société [[organization|Metzler Logistique S.à r.l.]] la somme de 17.000 euros avec les intérêts légaux à partir du [[date|4 mars 2025]] ;
 

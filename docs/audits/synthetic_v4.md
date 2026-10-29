@@ -53,3 +53,15 @@ after a preposition ("Steuerberater in Mannheim", "né à Alès") and an insurer
 New lint rule: a known municipality (AT/DE/CH gazetteer, ≥ 5 letters, plus larger French-speaking towns) after
 in/nach/aus/bei/à/de that is not tagged; it found 28 such misses in batches 0-129, tagged `location` by script or hand.
 Realism notes stay at ≈ 5 per document (competence/geography and arithmetic in claims are the most frequent kinds).
+
+## Quality measurement after the lint rules (waves 4-7)
+
+LLM audit of 18 documents from batches 130-291 (seed 2027, `scripts/audit.workflow.js`, Sonnet):
+**13 span errors in 852 spans = 1.5 %** (pilot 3.8 %, v3 1.1 %). Errors: 4 organizations missed (a company in a
+title line, an ALL-CAPS ministry letterhead, a unique federal body, a short company name), 1 IBAN in a quoted e-mail,
+a court name repeated in lower case, a street, a place, a yearless date in an e-mail, an act name, 2 label errors
+(a party's own reference tagged case_number, decision 9), 1 degree boundary ("Ing." outside). All 13 were fixed.
+New lint rules from this round: untagged IBANs; repeats of a tagged multi-word name that differ only in the case of
+the first letter. They found 5 more misses in batches 0-291 (4 IBANs, 1 court), fixed.
+Realism: ≈ 6 issues per document (amounts and fines, competence, structure of the document type); these do not
+affect the tags.

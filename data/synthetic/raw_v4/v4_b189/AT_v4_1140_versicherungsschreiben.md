@@ -12,12 +12,12 @@ Tel. [[phone_number|+43 (0)463 229 8475]] · [[email|office@kober.at]]
 z.H. Herrn [[person|DRAGI TOKIĆ]]
 [[address|BRAUNSCHWEIGGASSE 8/19, 9232 ROSEGG]]
 
-Unsere Zeichen: [[case_number|SCH-26-0418]]
+Unsere Zeichen: [[other_identifier|SCH-26-0418]]
 Polizzen-Nr.: [[other_identifier|VS-2291-774-08]]
 
 [[location|Klagenfurt am Wörthersee]], am [[date|27. April 2026]]
 
-Betreff: Schadenfall vom [[date|3. Februar 2026]] – Wasserschaden in der Halle Schachenweg; Deckungsanfrage und Regressmitteilung
+Betreff: Schadenfall vom [[date|3. Februar 2026]] – Wasserschaden in der Halle [[street|Schachenweg]]; Deckungsanfrage und Regressmitteilung
 
 Sehr geehrter Herr [[person|Tokić]],
 

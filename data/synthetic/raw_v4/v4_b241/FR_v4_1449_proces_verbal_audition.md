@@ -4,7 +4,7 @@ jurisdiction: FR
 lang: fr
 ---
 RÉPUBLIQUE FRANÇAISE
-MINISTÈRE DE L'INTÉRIEUR
+[[organization|MINISTÈRE DE L'INTÉRIEUR]]
 [[organization|COMMISSARIAT DE POLICE DE METZ]]
 SERVICE DE POLICE JUDICIAIRE
 
@@ -140,7 +140,7 @@ Réponse : Je ne l'ai vue qu'une fois, au siège de la société [[organization|
 
 Question : Le siège de l'agence est-il à [[location|Metz]] ?
 
-Réponse : Non. Bouvier Habitat est enregistrée au RCS de [[location|Dijon]], mais nous gérions les biens situés à [[location|Metz]] depuis un bureau de la [[street|rue Taison]]. Nous n'avions aucun droit de signature sur les comptes bancaires.
+Réponse : Non. [[organization|Bouvier Habitat]] est enregistrée au RCS de [[location|Dijon]], mais nous gérions les biens situés à [[location|Metz]] depuis un bureau de la [[street|rue Taison]]. Nous n'avions aucun droit de signature sur les comptes bancaires.
 
 Lecture faite, la témoin persiste dans ses déclarations et signe.
 

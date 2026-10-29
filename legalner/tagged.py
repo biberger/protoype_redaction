@@ -227,6 +227,7 @@ DATELINE = re.compile(r"(?m)^([A-ZÄÖÜ][\wäöüßéèô.\-]+(?:\s(?:an\sder|a
                       r"\s[A-ZÄÖÜ][\wäöüß.\-]+)?),\s(?:am\s|den\s|le\s|im\s)?(?:\d{1,2}\.?\s?(?:\d{1,2}\.|[A-Za-zäéû]+)|\[\[date)")
 
 
+IBAN_TEXT = re.compile(r"\b[A-Z]{2}\d{2}(?: ?[A-Z0-9]{4}){3,7}(?: ?[A-Z0-9]{1,3})?\b")
 CONTACT = re.compile(r"(?i)(?:\b(?:tel|tél|telefon|téléphone|phone|fax|mobil|mobile|handy|portable)\b\.?:?\s*"
                      r"(?:\(\w+\)\s*)?)((?:\+|00)?\d[\d /().\-]{6,}\d)|([\w.+\-]+@[\w\-]+(?:\.[\w\-]+)+)")
 
@@ -289,11 +290,17 @@ def lint(text, spans, fname):
     warnings = []
     for n in sorted(needles):
         for m in re.finditer(r"(?<!\w)" + re.escape(n) + r"(?:s|')?(?!\w)", text, re.I):  # incl. genitive
-            if m.group()[:len(n)] != n and not _caps_passage(text, m, n):
+            # "tribunal d'arrondissement …" for a tagged "Tribunal …" (names of several words only)
+            same_but_first = " " in n and m.group()[1:len(n)] == n[1:]
+            if m.group()[:len(n)] != n and not same_but_first and not _caps_passage(text, m, n):
                 continue  # other case only inside ALL-CAPS or all-lower-case passages ("HUBER BAU GMBH", "t. bohush")
             if not any(covered[m.start():m.end()]) and not UNIT_BEFORE.search(text, 0, m.start()):
                 line = text.count("\n", 0, m.start()) + 1
                 warnings.append(f"{fname}:{line}: untagged occurrence of {n!r}")
+    for m in IBAN_TEXT.finditer(text):
+        if not any(covered[m.start():m.end()]) and m.group()[:2] in ("AT", "DE", "CH", "LI", "FR", "BE", "LU", "IT", "NL"):
+            line = text.count("\n", 0, m.start()) + 1
+            warnings.append(f"{fname}:{line}: untagged IBAN {m.group()!r}")
     for m in CONTACT.finditer(text):
         g = 1 if m.group(1) else 2
         if not any(covered[m.start(g):m.end(g)]):

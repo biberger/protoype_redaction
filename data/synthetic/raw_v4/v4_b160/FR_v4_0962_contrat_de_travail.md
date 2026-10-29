@@ -79,7 +79,7 @@ Article 8 – Confidentialité et données personnelles
 
 Le salarié est tenu à la confidentialité des informations relatives aux clients, aux fournisseurs et aux tarifs de l'employeur, y compris après la fin du contrat, conformément à l'[[legal_norm|article L. 1222-1 du code du travail]].
 
-Les données personnelles du salarié sont traitées par l'employeur pour la gestion de la paie et du personnel, dans le respect du [[legal_norm|Règlement général sur la protection des données]] et de la loi informatique et libertés. Le salarié dispose d'un droit d'accès et de rectification auprès du service des ressources humaines de la société [[organization|Distribution Rostand EURL]].
+Les données personnelles du salarié sont traitées par l'employeur pour la gestion de la paie et du personnel, dans le respect du [[legal_norm|Règlement général sur la protection des données]] et de la [[legal_norm|loi informatique et libertés]]. Le salarié dispose d'un droit d'accès et de rectification auprès du service des ressources humaines de la société [[organization|Distribution Rostand EURL]].
 
 Article 9 – Litiges
 

@@ -475,3 +475,12 @@ def test_lint_flags_untagged_known_town(tmp_path):
                              "synthetic")
     assert any("untagged place 'Mannheim'" in w for w in warnings)
     assert not any("Regen" in w for w in warnings)
+
+
+def test_lint_flags_untagged_iban_and_lower_case_court(tmp_path):
+    _, warnings = parse_file(write_doc(tmp_path, "Der [[court|Tribunal d'arrondissement de Diekirch]] entscheidet. "
+                                                 "Zahlung auf DE91 6365 2752 1959 4714 72. Le tribunal d'arrondissement "
+                                                 "de Diekirch ordonne. Die Feuillet-Methode."), "synthetic")
+    text = "\n".join(warnings)
+    assert "untagged IBAN 'DE91 6365 2752 1959 4714 72'" in text
+    assert "\"Tribunal d'arrondissement de Diekirch\"" in text

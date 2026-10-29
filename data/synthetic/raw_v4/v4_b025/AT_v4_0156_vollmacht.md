@@ -34,7 +34,7 @@ Die Vollmacht gilt gemäß [[legal_norm|§ 30 Abs 1 ZPO]] iVm [[legal_norm|§ 31
 
 III. Honorar und Kosten
 
-Das Honorar richtet sich nach der Honorarvereinbarung vom [[date|8. Oktober 2026]]. Der Kostenvorschuss von 1.200 Euro ist binnen 14 Tagen auf das Konto AT66 6479 5091 1626 2259 bei der [[organization|Raiffeisenbank Murtal eGen]] zu überweisen. Die Vollmachtgeber haften für die Kosten zu gleichen Teilen. Ein Kostenersatz, der im Verfahren gegen die Gegnerin zugesprochen wird, fließt den Vollmachtgebern im Verhältnis ihrer Miteigentumsanteile zu. Die Kosten einer etwaigen Beweisaufnahme durch einen gerichtlich bestellten Sachverständigen, insbesondere eines Vermessungsingenieurs, sind vom Vorschuss nicht umfasst und werden gesondert angefordert.
+Das Honorar richtet sich nach der Honorarvereinbarung vom [[date|8. Oktober 2026]]. Der Kostenvorschuss von 1.200 Euro ist binnen 14 Tagen auf das Konto [[bank_account|AT66 6479 5091 1626 2259]] bei der [[organization|Raiffeisenbank Murtal eGen]] zu überweisen. Die Vollmachtgeber haften für die Kosten zu gleichen Teilen. Ein Kostenersatz, der im Verfahren gegen die Gegnerin zugesprochen wird, fließt den Vollmachtgebern im Verhältnis ihrer Miteigentumsanteile zu. Die Kosten einer etwaigen Beweisaufnahme durch einen gerichtlich bestellten Sachverständigen, insbesondere eines Vermessungsingenieurs, sind vom Vorschuss nicht umfasst und werden gesondert angefordert.
 
 IV. Mitteilungen
 
