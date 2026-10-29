@@ -41,12 +41,16 @@ def to_tagged(rec):
     return "".join(out)
 
 
-def select(paths, n, seed, min_chars=200):
+def select(paths, n, seed, min_chars=200, per_doc=3):
     from legalner.build import read_records
     recs = [r for r in read_records(paths) if r["jurisdiction"] == "AT" and len(r["text"]) >= min_chars]
-    by_type = collections.defaultdict(list)
+    # whole documents are held out of training, so take up to `per_doc` paragraphs per document
+    docs = collections.defaultdict(list)
     for r in recs:
-        by_type[r["meta"].get("doc_type") or r["meta"].get("court") or "other"].append(r)
+        docs[r["doc_id"]].append(r)
+    by_type = collections.defaultdict(list)
+    for doc_id, paras in docs.items():
+        by_type[paras[0]["meta"].get("doc_type") or paras[0]["meta"].get("court") or "other"].append(doc_id)
     rng = random.Random(seed)
     for v in by_type.values():
         rng.shuffle(v)
@@ -54,7 +58,8 @@ def select(paths, n, seed, min_chars=200):
     while len(chosen) < n and any(i < len(v) for v in by_type.values()):  # round-robin over doc types
         for v in by_type.values():
             if i < len(v) and len(chosen) < n:
-                chosen.append(v[i])
+                paras = docs[v[i]]
+                chosen += rng.sample(paras, min(per_doc, len(paras)))[:n - len(chosen)]
         i += 1
     pending = ROOT / "pending"
     pending.mkdir(parents=True, exist_ok=True)
