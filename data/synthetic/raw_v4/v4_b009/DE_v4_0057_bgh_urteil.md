@@ -26,7 +26,7 @@ gegen
 
 Beklagte und Revisionsbeklagte,
 
-hat der [[judge|Borwin Spitzner]], Vorsitzender Richter am Bundesgerichtshof, sowie die Richter am Bundesgerichtshof [[judge|Vigilio Fabi]], [[judge|Ângelo Alegria]] und [[judge|Heimar Petzold]] auf die mündliche Verhandlung vom [[date|18. März 2026]] durch Beschluss und Urteil für Recht erkannt:
+hat der [[judge|Borwin Spitzner]], Vorsitzender Richter am [[court|Bundesgerichtshof]], sowie die Richter am [[court|Bundesgerichtshof]] [[judge|Vigilio Fabi]], [[judge|Ângelo Alegria]] und [[judge|Heimar Petzold]] auf die mündliche Verhandlung vom [[date|18. März 2026]] durch Beschluss und Urteil für Recht erkannt:
 
 Tenor
 
@@ -40,7 +40,7 @@ Die Klägerin verlangt von den Beklagten Zahlung eines Restkaufpreises von 48.20
 
 Der Beklagte zu 1 war im Vorfeld als Projektleiter aufgetreten. Er legte seinen Führerschein Nr. [[id_document_number|K1297DZ1983]] vor, als er die Lieferung in Empfang nahm. Der Beklagte zu 2 nutzte das Fahrzeug mit dem Kennzeichen [[license_plate|B-A 106]] für den Transport.
 
-Die Geschäftsführerin der Klägerin, [[person|Dipl.-Ing. Dr. Jennifer Johnson, MSc (London)]], hat die Vertragsverhandlungen geführt. Zeuginnen des Abschlusses sind [[person|Della Lamort]] und [[person|Elke Hartmann-Wessely]]. Die Buchhaltung der Klägerin hat [[person|Mag. Anna Brockmann]], Steuerberaterin, betreut. Der Beklagte zu 2 wurde durch [[person|Mirsad Valka, MBA]] vertreten, der zugleich Bauleiter war.
+Die Geschäftsführerin der Klägerin, [[person|Dipl.-Ing. Dr. Jennifer Johnson, MSc (London)]], hat die Vertragsverhandlungen geführt. Zeuginnen des Abschlusses sind [[person|Della Lamort]], [[address|Möckernscher Weg 43, 56858 Forst]], und [[person|Elke Hartmann-Wessely]]. Die Buchhaltung der Klägerin hat [[person|Mag. Anna Brockmann]], Steuerberaterin, betreut. Der Beklagte zu 2 wurde durch [[person|Mirsad Valka, MBA]] vertreten, der zugleich Bauleiter war.
 
 Das Landgericht hat die Klage abgewiesen. Das Oberlandesgericht hat die Berufung der Klägerin zurückgewiesen.
 
@@ -54,6 +54,6 @@ Das Berufungsurteil beruht auf dem Verfahrensfehler. Die Sache ist deshalb an da
 
 Eine Entscheidung über die Kosten bleibt dem Berufungsgericht vorbehalten, [[legal_norm|§ 91 ZPO]] gilt entsprechend.
 
-Spitzner                Fabi                Alegria             Petzold
-Vorsitzender Richter     Richter am BGH      Richter am BGH      Richter am BGH
-am Bundesgerichtshof
+[[judge|Spitzner]]                [[judge|Fabi]]                [[judge|Alegria]]             [[judge|Petzold]]
+Vorsitzender Richter     Richter am [[court|BGH]]      Richter am [[court|BGH]]      Richter am [[court|BGH]]
+am [[court|Bundesgerichtshof]]

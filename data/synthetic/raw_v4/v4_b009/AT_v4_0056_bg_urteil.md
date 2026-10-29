@@ -12,7 +12,7 @@ GZ [[case_number|2 C 412/25w]]
 IM NAMEN DER REPUBLIK
 URTEIL
 
-Das [[court|Bezirksgericht Bad Aussee]] hat durch die Richterin [[judge|Dr. Gabriele Mikus]] als Einzelrichterin in der Rechtssache der klagenden Partei [[organization|Naderer Logistik GmbH]], [[company_register_number|FN 593997a]], vertreten durch [[lawyer|Mag. Gracja Rusek]], Rechtsanwältin in [[location|Graz]], gegen die beklagte Partei [[organization|Engel Bau AG]], [[company_register_number|FN 533263k]], [[address|Wollergasse 6/18, 8993 Grundlsee]], wegen Gewährleistung und Schadenersatz von EUR 21.050,– s.A. zu Recht erkannt:
+Das [[court|Bezirksgericht Bad Aussee]] hat durch die Richterin [[judge|Dr. Gabriele Mikus]] als Einzelrichterin in der Rechtssache der klagenden Partei [[organization|Naderer Logistik GmbH]], [[company_register_number|FN 593997a]], UID [[tax_id|ATU39065701]], [[address|Leitnerweg 8/16, 8093 Sankt Peter am Ottersbach]], vertreten durch [[lawyer|Mag. Gracja Rusek]], Rechtsanwältin in [[location|Graz]], gegen die beklagte Partei [[organization|Engel Bau AG]], [[company_register_number|FN 533263k]], UID [[tax_id|ATU40684103]], [[address|Wollergasse 6/18, 8993 Grundlsee]], wegen Gewährleistung und Schadenersatz von EUR 21.050,– s.A. zu Recht erkannt:
 
 Spruch
 
