@@ -236,7 +236,9 @@ def _caps_passage(text, m, n):
     word = m.group()
     if word == word.upper() and word != n:
         return True
-    window = text[max(0, m.start() - 40):m.end() + 40]
+    start = max(text.rfind("\n", 0, m.start()) + 1, m.start() - 60)
+    end = text.find("\n", m.end())
+    window = text[start:min(end if end != -1 else len(text), m.end() + 60)]  # same line, ±60 characters
     return word == word.lower() and not re.search(r"[A-ZÄÖÜ]", window.replace(word, ""))
 
 
