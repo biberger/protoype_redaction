@@ -46,7 +46,7 @@ An: [[person|MMag. Moses Lorenz]]
 Datum: Donnerstag, [[date|5. März 2026]], 16:40
 Betreff: AW: Schadensfall [[street|Krafftgasse]]
 
-sehr geehrter herr lorenz,
+sehr geehrter herr [[person|lorenz]],
 
 danke für die unterlagen. ich habe die stellungnahme der [[organization|erkinger gmbh]] gelesen. [[person|soccorso balsamo, bsc]] hat die abnahme am [[date|23. februar 2026]] protokolliert, das passt zur aussage von [[person|robin laimer]].
 
