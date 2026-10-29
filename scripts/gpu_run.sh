@@ -33,6 +33,9 @@ data)
   $PY -m legalner.tagged data/synthetic/raw_v2 -o data/canonical/synthetic.jsonl --source synthetic
   $PY -m legalner.tagged data/synthetic/raw_v3 -o data/canonical/synthetic_v3.jsonl --source synthetic
   $PY -m legalner.tagged data/synthetic/raw_v4 -o data/canonical/synthetic_v4.jsonl --source synthetic
+  if [ -d data/synthetic/raw_v5 ]; then
+    $PY -m legalner.tagged data/synthetic/raw_v5 -o data/canonical/synthetic_v5.jsonl --source synthetic
+  fi
   $PY -m legalner.sources.ler -o data/canonical/ler
   $PY -m legalner.sources.replay -o data/canonical/replay.jsonl --max-per-set 5000
   $PY -m legalner.sources.mapa -o data/canonical/mapa
@@ -43,7 +46,8 @@ data)
 build)
   $PY -m legalner.build \
     data/canonical/synthetic_v1.jsonl data/canonical/synthetic.jsonl data/canonical/synthetic_v3.jsonl \
-    data/canonical/synthetic_v4.jsonl data/canonical/ris.jsonl data/canonical/replay.jsonl \
+    data/canonical/synthetic_v4.jsonl $(ls data/canonical/synthetic_v5.jsonl 2>/dev/null) \
+    data/canonical/ris.jsonl data/canonical/replay.jsonl \
     data/canonical/ler/*.jsonl data/canonical/mapa/*.jsonl data/canonical/gold_at.jsonl \
     --exclude-docs data/gold/at/doc_ids.txt \
     --max-per-doc ris=20 --cap ris:Bundesverwaltungsgericht=800 \
