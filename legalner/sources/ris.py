@@ -218,7 +218,7 @@ DEGREE_TOK = (r"Univ\.-Prof\.|Hon\.-Prof\.|Ao\.\s?Univ\.-Prof\.|Priv\.-Doz\.|PD|
 DEGREE = rf"(?:(?:{DEGREE_TOK})(?:\s|(?<=\.)(?=[A-ZÄÖÜ][a-zäöü])))"
 POSTNOM = r"(?:(?:,?\s(?:LL\.M\.|LLM|MBA|MAS|MSc|BSc|BA|MA|PhD|Bakk\.\s?phil\.|Bakk\.)(?![\w])){1,3})"
 _LOW = r"a-zäöüßéèáàíóúčćšžđıçğşñ'’"
-_WORD = rf"(?!(?:{DEGREE_TOK}|Senatspräsident|Vizepräsident|Präsident|Hofr|Richter|Vorsitzend)\w*)(?:[A-ZÄÖÜ][{_LOW}]+|[A-ZÄÖÜ]{{2,}}(?![a-z.]))"
+_WORD = rf"(?!(?:{DEGREE_TOK}|Brigadier|Oberst|Major|Senatspräsident|Vizepräsident|Präsident|Hofr|Richter|Vorsitzend)\w*)(?:[A-ZÄÖÜ][{_LOW}]+|[A-ZÄÖÜ]{{2,}}(?![a-z.]))"
 NAME = rf"{_WORD}(?:-{_WORD})?"
 PERSON_NAME = rf"{DEGREE}*(?:(?:{NAME}|[A-ZÄÖÜ]\.)\s){{0,3}}{NAME}{POSTNOM}?"
 
@@ -295,7 +295,7 @@ COURT_RE = re.compile(
     r"(?:LG|Landesgericht(?:es|s)?)\sfür\s(?:ZRS|Zivilrechtssachen|Strafsachen)\s(?:Wien|Graz)|LGSt\s?Wien|"
     r"Arbeits-\sund\sSozialgericht(?:es|s)?\sWien|ASG\sWien|Handelsgericht(?:es|s)?\sWien|HG\sWien|"
     r"Jugendgericht(?:es|s)?hof(?:es|s)?\sWien|"
-    r"(?:Landesgericht(?:es|s)?|LG)\s(?:als\s\w+\s)?(?:St\.\s)?(?:" + NAME + r")(?:\s(?:an\sder|am|im|ob\sder)\s"
+    r"(?:Landesgericht(?:es|s)?|LG)\s(?:als\s\w+\s)?(?:St\.\s)?(?!HR\b|Dr\b|Mag\b)(?:" + NAME + r")(?:\s(?:an\sder|am|im|ob\sder)\s"
     r"(?![A-ZÄÖÜ]\w*verfahren)" + NAME + r")?|"
     r"(?:Bezirksgericht(?:es|s)?|BG)\s(?:für\sHandelssachen\sWien|(?:Innere\sStadt\s)?(?:" + NAME + r")"
     r"(?:\s(?:an\sder|am|im|ob\sder)\s(?![A-ZÄÖÜ]\w*verfahren)" + NAME + r")?)|"
@@ -308,7 +308,7 @@ COURT_RE = re.compile(
     r"(?:Bundes|Landes)verwaltungsgerichte[n]?)(?![\wäöü])")
 _NOT_CITY_AFTER_LG = {"Gerichtshof", "Strafsachen", "Wien"}
 
-JUDGE_WORDS = (r"Senatspräsident(?:in|en)?|Vizepräsident(?:in|en)?|Präsident(?:in|en)?|Hofrät(?:in|innen|e|en)?|"
+JUDGE_WORDS = (r"V?Präs\.d\.(?:LG|OLG|BG)(?:\sHR)?|Senatspräsident(?:in|en)?|Vizepräsident(?:in|en)?|Präsident(?:in|en)?|Hofrät(?:in|innen|e|en)?|"
                r"Hofrat(?:es)?|Richter(?:in|innen|s|n)?|Rechtspfleger(?:in)?|Einzelrichter(?:in)?|"
                r"Senatsvorsitzende[nr]?|Vorsitzende[nr]?|(?:fachkundige[nr]?\s)?Laienrichter(?:n|in|innen)?|"
                r"Anwaltsrichter(?:in|s)?|Mitglied(?:er)?\sdes\sSenates|(?<=sein\s)Mitglied|(?<=ihr\s)Mitglied|Beisitzer(?:in|innen)?|"
@@ -345,7 +345,7 @@ _PRE = {  # regexes on the text just before a placeholder, in priority order
                               r"Verfahrenszahl:?|IFA-Zahl(?:/Verfahrenszahl)?:?|Akt|"
                               r"\bvom\s[0-3]?\d\.\s?[01]?\d\.\s?(?:19|20)\d\d,)\s*$"),
     "company_register_number": re.compile(r"\b(?:FN|Firmenbuchnummer|ZVR(?:-Zahl)?|Handelsregister\w*):?\s*$"),
-    "other_identifier": re.compile(r"(?:\bTop|(?:\b|(?<=[a-z]))[Nn]ummer:?|\bNr\.?:?|Ausweis\w*|Reisepass\w*|Konto\w*|IBAN|"
+    "other_identifier": re.compile(r"(?:\bHNR:?|\bTop|(?:\b|(?<=[a-z]))[Nn]ummer:?|\bNr\.?:?|Ausweis\w*|Reisepass\w*|Konto\w*|IBAN|"
                                    r"Sozialversicherungsnummer|SVNr\.?|PIN|Account|Telefonnummer|Tel\.?)\s*$"),
     "license_plate": re.compile(r"Kennzeichen:?\s*$|Kennz\.:?\s*$"),
     "url": re.compile(r"(?:://|www\.)$|@$"),
@@ -385,6 +385,18 @@ _BARE = re.compile(r"^(?:\*+|XXXX|x{2,}|\.\.\.|…)$")
 ELLIPSIS_PH = re.compile(r"(?<=[\s(])(?:\.\.\.|…)(?=[\s,;)]|$)")  # LVwG/VwG Wien
 
 
+COURT_SEAT = re.compile(r"\b(?:Landesgericht(?:es|s)?(?:\sfür\s(?:Strafsachen|Zivilrechtssachen|ZRS))?|"
+                        r"Oberlandesgericht(?:es|s)?|Handelsgericht(?:es|s)?|Bezirksgericht(?:es|s)?|"
+                        r"Arbeits-\sund\sSozialgericht(?:es|s)?|LG|OLG|BG|HG)\s$")
+COURT_SEATS = {"Oberlandesgericht": ["Wien", "Graz", "Linz", "Innsbruck"],
+               "für": ["Wien", "Graz"], "Handelsgericht": ["Wien"], "Arbeits": ["Wien"],
+               "Landesgericht": ["Linz", "Wels", "Steyr", "Ried im Innkreis", "Salzburg", "Innsbruck", "Feldkirch",
+                                 "Klagenfurt", "Leoben", "Korneuburg", "Krems an der Donau", "St. Pölten",
+                                 "Wiener Neustadt", "Eisenstadt"],
+               "Bezirksgericht": ["Mödling", "Baden", "Hernals", "Leopoldstadt", "Gmunden", "Bregenz", "Villach",
+                                  "Hallein", "Kufstein", "Weiz", "Amstetten", "Neusiedl am See"]}
+
+
 def classify_placeholder(before, after, surface, prev=None):
     """Guess what a placeholder replaced from its context.
 
@@ -401,8 +413,19 @@ def classify_placeholder(before, after, surface, prev=None):
         return "date"
     if bare and _PRE["land_register_id"].search(before):  # "EZ * KG *": KG is the Katastralgemeinde
         return "land_register_id"
-    if re.search(r"(?:€|\bEUR|\bEuro|\(€\):?)\s?$", before) or re.match(r"^\s?(?:€|EUR|Euro)\b", after):
-        return "amount"  # redacted sums are not entities
+    if re.search(r"(?:€|\bEUR|\bEuro|\(€\):?|Freiheitsstrafen?\svon|Strafrest:?|Geldstrafe\svon)\s?$", before) \
+            or re.match(r"^\s?(?:€|EUR|Euro|Jahre[n]?|Monate[n]?|Wochen|Tage[n]?|Uhr|Stunden|Minuten|Prozent|%|m²|"
+                        r"km|cm|kg)\b", after):
+        return "amount"  # redacted sums, durations and measures are not entities
+    if bare and prev and prev[0] == "amount" and prev[1] in (" und ", ", ", " bis "):
+        return "amount"  # "Freiheitsstrafe von ***** und *****"
+    if bare and COURT_SEAT.search(before):
+        return "court_town"  # "Landesgerichtes für Strafsachen *****": the seat; the court rule tags the whole name
+    if bare and prev and prev[0] == "date" and prev[1] == ", " and re.search(
+            r"gericht\w*(?:\sfür\s\w+)?\s\S+\svom\s\S+,\s$", before):
+        return "case_number"  # "des Oberlandesgerichtes ***** vom *****, *****,"
+    if bare and re.search(r"\bzu\s$", before) and re.match(r"^\s(?:und\s\S+\s)?des\s\w*[Gg]erichtes", after):
+        return "case_number"  # "die zu ***** des Landesgerichtes … verhängte Strafe"
     if _ORG_AFTER.match(after) or re.search(r"\b(?:Firma|Unternehmens?|Verein(?:s)?|Gesellschaft|Klinik|"
                                             r"Krankenanstalt|Verwaltungsgemeinschaft)\s$", before):
         return "organization"
@@ -444,8 +467,11 @@ def classify_placeholder(before, after, surface, prev=None):
     return "unknown"
 
 
-def _date_value(rng, style):
-    d, m, y = rng.randint(1, 28), rng.randint(1, 12), rng.randint(1950, 2024)
+def _date_value(rng, style, year=None, birth=False):
+    """A filled date: birth dates 16-80 years before the decision, other dates in the 10 years before it."""
+    year = year or 2024
+    y = rng.randint(year - 80, year - 16) if birth else rng.randint(year - 10, year)
+    d, m = rng.randint(1, 28), rng.randint(1, 12)
     if style == "daymonth":
         return f"{d}. {MONTH_NAMES[m - 1]}"
     if style == "long":
@@ -456,7 +482,8 @@ def _date_value(rng, style):
 class Filler:
     """Consistent replacement values for one document."""
 
-    def __init__(self, gaz, rng, app=None):
+    def __init__(self, gaz, rng, app=None, year=None):
+        self.year, self.birth = year, False
         self.gaz, self.rng, self.app, self.memo = gaz, rng, app, {}
 
     def value(self, label, surface, style=None):
@@ -504,7 +531,7 @@ class Filler:
             val = f"{rng.choice(['W', 'L', 'G', 'S', 'I', 'K', 'B', 'WU', 'BN', 'KO', 'LL', 'WL'])}-" \
                   f"{rng.randint(100, 99999)}{rng.choice(['', 'A', 'B', 'X', 'TU'])}"
         elif label == "date":
-            val = _date_value(rng, style)
+            val = _date_value(rng, style, self.year, self.birth)
         else:  # unknown: a neutral surname keeps the text fluent; the record loses PII coverage
             val = gaz.surname("AT")
         self.memo[key] = val
@@ -545,9 +572,9 @@ def _candidates(text, app):
     return out
 
 
-def fill_placeholders(text, gaz, rng, app=None):
+def fill_placeholders(text, gaz, rng, app=None, year=None):
     """Replace placeholders; return (new_text, [(label, start, end, surface)], n_unknown)."""
-    filler = Filler(gaz, rng, app)
+    filler = Filler(gaz, rng, app, year)
     out, spans, pos, cur, prev, unknown, merged = [], [], 0, 0, None, 0, False
     for s, e, kind in _candidates(text, app):
         if s < pos:  # swallowed by the previous span's extension (legal form, year)
@@ -588,7 +615,16 @@ def fill_placeholders(text, gaz, rng, app=None):
             continue  # an omission in a quotation ("…"), not a placeholder
         if label == "unknown":
             unknown += 1
+        filler.birth = bool(re.search(r"\bgeb(?:\.|oren)", before[-25:]))
         val = filler.value(label, surface, style)
+        if label == "amount" and re.match(r"^\s?(?:Jahre|Monate|Wochen|Tage|Uhr|Stunden|Minuten|Prozent|%)", after):
+            val = str(rng.randint(1, 23))
+        elif label == "amount" and re.search(r"(?:strafen?\svon|Strafrest:?|\d\s(?:und|bis))\s$", before):
+            val = rng.choice([f"{rng.randint(2, 30)} Monaten", f"{rng.randint(1, 8)} Jahren", f"{rng.randint(1, 11)} Monaten"])
+        if label == "court_town":
+            key = next((k for k in ("Oberlandesgericht", "für", "Handelsgericht", "Arbeits", "Bezirksgericht")
+                        if k in before[-45:]), "Landesgericht")
+            val = rng.choice(COURT_SEATS[key])
         if kind == "descriptor" and label == "organization":  # "[Klinik]" -> "Klinik Haider"
             val = f"{DESCRIPTOR_PH.match(surface).group(1)} {val}"
         if kind == "code_street" and label == "street":  # "C.-platz" -> "Kralikplatz"
@@ -638,7 +674,7 @@ def fill_placeholders(text, gaz, rng, app=None):
         pos = nxt
         prev = (label, e)
     out.append(text[pos:])
-    spans = [sp for sp in spans if sp[0] not in ("url", "other_identifier", "amount")]
+    spans = [sp for sp in spans if sp[0] not in ("url", "other_identifier", "amount", "court_town")]
     return "".join(out), spans, unknown
 
 
@@ -737,7 +773,8 @@ def rule_spans(text, taken, case_numbers=()):
 
 def annotate(text, ref, gaz, rng):
     """Return (text, spans); placeholders that could not be classified come back as "unknown" spans."""
-    text, spans, _ = fill_placeholders(text, gaz, rng, ref.get("app"))
+    year = int(ref["date"][:4]) if re.match(r"\d{4}", ref.get("date") or "") else None
+    text, spans, _ = fill_placeholders(text, gaz, rng, ref.get("app"), year)
     taken = [False] * len(text)
     for lab, s, e, _ in spans:
         if lab != "location":
