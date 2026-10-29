@@ -39,9 +39,13 @@ Working directory: ${root}. Use Python via \`python3\` from the repository root.
    number, e.g. the scene of an incident: "auf der [[street|Heiliggeiststraße]]"), phone_number, email.
    A hard case asking for ALL CAPS or lower case: write that passage so (keep ß as ß or write SS as the document
    would) and tag its entities as usual, e.g. [[organization|HUBER BAU GMBH]].
+   Every document is new: never copy sentences, facts, amounts, vehicles, dates or clauses from another document
+   (also not from the other documents of your batch). Vary structure, wording and facts per document type.
+   Licence plates: the district/canton code should fit the holder's residence or the registering company.
+   Use the law that fits the parties (no KSchG/consumer rules between two companies).
 4. Respect "target_words" (±25%), "pseudonymised" (RIS style: A*****, *****, tagged with the label of what was
    replaced; then the cast persons are replaced by placeholders), "ocr_noise" (hyphenation across line breaks,
-   O/0 and l/1 swaps, stray spaces, kept inside spans) and work the two "hard_cases" into the text.
+   O/0 and l/1 swaps, stray spaces, kept inside spans; ONLY when ocr_noise is true) and work the two "hard_cases" into the text.
    French documents are written entirely in French, German ones in German (CH: no ß).
 5. After every document run
    \`python3 -m legalner.tagged ${args.out}/${batch} -o /tmp/${batch}.jsonl --strict && python3 -m legalner.audit /tmp/${batch}.jsonl\`
