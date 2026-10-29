@@ -422,3 +422,23 @@ def test_ris_placeholder_lists_keep_offsets():
                                "wohnhaft in xxx, xxx, xxx entschieden.", "Lvwg")
     assert "xxx" not in out
     assert not [t for lab, t in spans if lab == "lawyer"]  # the accused attorney is a party
+
+
+def test_date_ranges_are_one_span(tmp_path):
+    recs, _ = parse_file(write_doc(tmp_path, "vom [[date|1. März 2025]] bis [[date|31. März 2025]] und am "
+                                             "[[date|3.4.2025]], [[date|01.05.2025 – 31.05.2025]]"), "synthetic")
+    assert [s["text"] for s in recs[0]["spans"]] == ["1. März 2025 bis 31. März 2025", "3.4.2025",
+                                                     "01.05.2025 – 31.05.2025"]
+
+
+def test_ris_kopf_degrees_without_dots():
+    out, spans = _ris_annotate("Das Landesgericht Eisenstadt hat als Rekursgericht durch die Richterin Mag Iglseder als "
+                               "Vorsitzenden sowie Mag Rak und Mag Jarec LLM in der Rechtssache entschieden. Das "
+                               "Oberlandesgericht Graz hat durch den Senatspräsidenten Dr.Bott (Vorsitz), sowie die "
+                               "Richterinnen Dr.Kraschowetz-Kandolf und Maga.Fabsits entschieden. Das "
+                               "Landesverwaltungsgericht Kärnten erkennt durch Fürst als Einzelrichterin über die "
+                               "Beschwerde vom 21.02.2025 bis 30.06.2026.", "Justiz")
+    judges = {t for lab, t in spans if lab == "judge"}
+    assert judges >= {"Mag Iglseder", "Mag Rak", "Mag Jarec LLM", "Dr.Bott", "Dr.Kraschowetz-Kandolf",
+                      "Maga.Fabsits", "Fürst"}
+    assert ("date", "21.02.2025 bis 30.06.2026") in spans

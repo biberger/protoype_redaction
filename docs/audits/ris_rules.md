@@ -1,5 +1,43 @@
 # RIS rule annotation: audit
 
+## Update: 1,353 decisions (2026-10-29)
+
+913 more decisions were fetched (`search --bundesland` for LVwG, 2020-2026 spread over years): LVwG all nine states
+(648 decisions in total), LG and OLG (Justiz now 545), and converted with all chunks (31,139 chunks; BVwG country
+reports are balanced in `legalner.build` with `--cap`/`--max-per-doc`). Rule changes for the new data:
+VwGH bracket placeholders (`Herrn Mag. [B]`), LVwG Tirol letter-coded towns (`Adresse 2, ***** Y`, `KG ***** Z Stadt`),
+VwG Wien initial streets (`C.-platz in Wien`, `Wien, G.-Park, Tür ...`), Burgenland descriptor placeholders
+(`[Vertreter 1]`, `[KG]`, `[Klinik]`), `p.A.` addresses, the Kärnten judge's redacted post-nominal degree, redacted amounts
+(`€ ***`, not an entity), quoted omissions (`…`) no longer taken for placeholders, an offset bug with three or more bare
+address placeholders in a row (decisions with drifting spans are now skipped, none at present), and an attorney who is
+a party (`Disziplinarsache gegen xxx, Rechtsanwalt`) is `person`.
+
+Unclassified placeholders: 7.9 % of chunks flagged `uncovered` (before the new rules 10.5 %). By court: Justiz 5.7 %,
+BVwG 6.3 %, VfGH 1.8 %, VwGH 0 %, LVwG OÖ 0.4 %, Wien 0.1 %, Stmk 3.8 %, Vbg 5.5 %, Tirol 6.3 %, Sbg 6.5 %, NÖ 12.2 %,
+Burgenland 15.4 %, **Kärnten 30.4 %** (redacts nearly everything, including project and company names in quotes; those
+chunks still teach court and case_number).
+
+### Audit of 10 new decisions
+
+Sample (seed 2026): 6 LVwG (NÖ, Kärnten, Steiermark, Salzburg, Wien, Vorarlberg), 2 LG Eisenstadt, 2 OLG. First
+≈2,500 characters of each, inline-tagged, read by Sonnet agents (`scripts/ris_audit.workflow.js`, labels person, address,
+date, case_number, court; roles per the gold-set decisions).
+
+| Label | Mentions | Misses before the fixes | Fixed |
+|---|---|---|---|
+| person | 38 | 13 (34 %): 8 judges written with degrees without dot or space (`Mag Rak`, `Dr.Bott`, `Maga.Fabsits`, `Mag Jarec LLM`), list continuation after "als Vorsitzenden sowie", "Fürst als Einzelrichterin", 1 role (LVwG "sein Mitglied Mag. Pathy" -> judge), 2 pseudonyms in odd styles (`A, geboren am`, `p*Fauland`), 1 surname in clear | 11 of 13 |
+| address | 8 | 0 | — |
+| date | 71 | 0 missed; 18 ranges split in two spans | ranges merged (decision 8), also in synthetic parsing |
+| case_number | 15 | 0 | — |
+| court | 21 | 0 | — |
+
+The person miss rate in this sample is dominated by two LG Eisenstadt and OLG Graz Kopf styles (degrees without dots);
+after the fixes, the remaining misses are 2 of 38 (5 %). Regression tests: `test_ris_kopf_degrees_without_dots`,
+`test_ris_vwgh_bracket_placeholders`, `test_ris_lvwg_tirol_letter_coded_towns`, `test_ris_vwg_wien_initial_streets`,
+`test_ris_placeholder_lists_keep_offsets`.
+
+## First audit (440 decisions)
+
 Source: `legalner/sources/ris.py` on 440 live decisions (`data/ris/index.jsonl`, 2022 onwards):
 OGH 120, OLG 60, LG 50 (Justiz), VwGH 60, VfGH 40, BVwG 60, LVwG 50 (all nine Länder, mostly Tirol/NÖ).
 

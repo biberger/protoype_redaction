@@ -271,11 +271,35 @@ def lint(text, spans, fname):
     return warnings
 
 
+RANGE_GAP = re.compile(r"\s?(?:bis(?:\s(?:zum|zur|einschließlich|inklusive))?|-|–|au|jusqu['’]au)\s?")
+
+
+def merge_date_ranges(text, spans):
+    """Gold-set decision 8: "[[date|1.3.2025]] bis [[date|31.3.2025]]" is one date span."""
+    dates = sorted((sp for sp in spans if sp[0] == "date"), key=lambda sp: sp[1])
+    merged, drop = [], set()
+    i = 0
+    while i < len(dates):
+        label, s, e, _ = dates[i]
+        j = i
+        while j + 1 < len(dates) and RANGE_GAP.fullmatch(text[e:dates[j + 1][1]]):
+            j += 1
+            e = dates[j][2]
+        if j > i:
+            drop.update(dates[i:j + 1])
+            merged.append((label, s, e, text[s:e]))
+        i = j + 1
+    if not merged:
+        return spans
+    return sorted([sp for sp in spans if sp not in drop] + merged, key=lambda sp: (sp[1], sp[0]))
+
+
 def parse_file(path, source, max_chars=MAX_CHARS):
     """Parse one tagged file into (records, lint_warnings)."""
     meta, body = parse_header(path.read_text(encoding="utf-8"), path.name)
     text, spans = strip_tags(body.lstrip("\n"), path.name)
     text = text.rstrip()
+    spans = merge_date_ranges(text, spans)
     warnings = lint(text, spans, path.name)
     parts = [(text, spans)] if not max_chars else chunk(text, spans, max_chars)
     records = []

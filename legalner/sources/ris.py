@@ -30,7 +30,7 @@ import time
 import urllib.parse
 import urllib.request
 
-from legalner.tagged import chunk
+from legalner.tagged import chunk, merge_date_ranges
 
 API = "https://data.bka.gv.at/ris/api/v2.6/Judikatur"
 UA = "legalner/0.1 (research; RIS OGD)"
@@ -212,9 +212,11 @@ def markup_to_text(markup):
 #   VfGH     parties are rarely named at all ("die beschwerdeführende Partei")
 
 DEGREE_TOK = (r"Univ\.-Prof\.|Hon\.-Prof\.|Ao\.\s?Univ\.-Prof\.|Priv\.-Doz\.|PD|Prof\.|Ing\.\s?Mag\.|Ing\.\s?Dr\.|Mag\.\s?\(FH\)|DI\s?\(FH\)|DDrin\.|DDr\.|Dr\.in|Dr\.|Mag\.a|"
-              r"MMag\.|Mag\.|Dipl\.-Ing\.|DI|Ing\.|Bakk\.")
-DEGREE = rf"(?:(?:{DEGREE_TOK})\s)"
-POSTNOM = r"(?:(?:,?\s(?:LL\.M\.|MBA|MAS|MSc|BSc|BA|MA|PhD|Bakk\.\s?phil\.|Bakk\.)(?![\w])){1,3})"
+              r"MMag\.|Maga\.|Mag\.|Dipl\.-Ing\.|DI|Ing\.|Bakk\.|"
+              r"MMag(?=\s)|Mag(?=\s)|Dr(?=\s)")  # LG/OLG Kopf without dots: "Mag Rak", "Dr Huber"
+# a degree is followed by a space, or directly by the name after a dot ("Dr.Bott", "Maga.Fabsits")
+DEGREE = rf"(?:(?:{DEGREE_TOK})(?:\s|(?<=\.)(?=[A-ZÄÖÜ][a-zäöü])))"
+POSTNOM = r"(?:(?:,?\s(?:LL\.M\.|LLM|MBA|MAS|MSc|BSc|BA|MA|PhD|Bakk\.\s?phil\.|Bakk\.)(?![\w])){1,3})"
 _LOW = r"a-zäöüßéèáàíóúčćšžđıçğşñ'’"
 _WORD = rf"(?!(?:{DEGREE_TOK}|Senatspräsident|Vizepräsident|Präsident|Hofr|Richter|Vorsitzend)\w*)(?:[A-ZÄÖÜ][{_LOW}]+|[A-ZÄÖÜ]{{2,}}(?![a-z.]))"
 NAME = rf"{_WORD}(?:-{_WORD})?"
@@ -309,7 +311,7 @@ _NOT_CITY_AFTER_LG = {"Gerichtshof", "Strafsachen", "Wien"}
 JUDGE_WORDS = (r"Senatspräsident(?:in|en)?|Vizepräsident(?:in|en)?|Präsident(?:in|en)?|Hofrät(?:in|innen|e|en)?|"
                r"Hofrat(?:es)?|Richter(?:in|innen|s|n)?|Rechtspfleger(?:in)?|Einzelrichter(?:in)?|"
                r"Senatsvorsitzende[nr]?|Vorsitzende[nr]?|(?:fachkundige[nr]?\s)?Laienrichter(?:n|in|innen)?|"
-               r"Anwaltsrichter(?:in|s)?|Mitglied(?:er)?\sdes\sSenates|Beisitzer(?:in|innen)?|"
+               r"Anwaltsrichter(?:in|s)?|Mitglied(?:er)?\sdes\sSenates|(?<=sein\s)Mitglied|(?<=ihr\s)Mitglied|Beisitzer(?:in|innen)?|"
                r"Schriftführer(?:in|s)?|Berichter(?:in)?|Referent(?:in)?")
 JUDGE_INTRO = re.compile(
     rf"(?:\b(?:{JUDGE_WORDS})(?:\sdes\s(?:Obersten\sGerichtshofs?|Verwaltungsgerichtshofes|Oberlandesgerichts|"
@@ -321,7 +323,8 @@ JUDGE_INTRO = re.compile(
     rf"Vorsitzende[nr]?)\s)?(?=(?:{DEGREE_TOK})\s))")
 _NAME_RE = re.compile(PERSON_NAME)
 DEGREE_NAME = re.compile(rf"(?<![\w.])(?:{DEGREE})+(?:(?:{NAME}|[A-ZÄÖÜ]\.)\s){{0,3}}{NAME}{POSTNOM}?")
-_LIST_SEP = re.compile(r"(?:\s\([^)]{1,20}\))?(?:,\s|\sund\s|\ssowie\s)(?:die\s|den\s|der\s)?(?:(?:Hofr\w+|Richter\w*)\s)?(?=[A-ZÄÖÜ])")
+_LIST_SEP = re.compile(r"(?:\s\([^)]{1,20}\))?(?:\sals\sVorsitzende[nr]?)?(?:,\s(?:sowie\s|und\s)?|\sund\s|\ssowie\s)"
+                       r"(?:die\s|den\s|der\s)?(?:(?:Hofr\w+|Richter\w*)\s)?(?=[A-ZÄÖÜ])")
 LAWYER_INTRO = re.compile(r"(?:vertreten\sdurch|Verteidiger(?:in)?:?|Verfahrenshelfer(?:in)?:?)\s(?:die\s|den\s)?(RA\s)?")
 LAWYER_AFTER = re.compile(r"(?:\sua)?,?\s(?:Rechtsanw|Notar|Verteidiger|Anwält|RA\b)")
 SIGNATURE = re.compile(rf"\n({PERSON_NAME})\n+\((?:Richter|Richterin|Einzelrichter|Einzelrichterin|Vorsitzende|"
@@ -696,6 +699,8 @@ def rule_spans(text, taken, case_numbers=()):
             if not sep:
                 break
             pos = sep.end()
+    for m in re.finditer(rf"(?<![\w.])({NAME})(?=\sals\s(?:Einzel)?[Rr]ichter(?:in)?\b)", kopf):
+        add("judge", m.start(1), m.end(1), ("person",))  # "erkennt durch Fürst als Einzelrichterin"
     for m in SIGNATURE.finditer(text):
         add("judge", m.start(1), m.end(1), ("person",))
     for m in LAWYER_INTRO.finditer(text):
@@ -739,7 +744,7 @@ def annotate(text, ref, gaz, rng):
             for i in range(s, e):
                 taken[i] = True
     spans += rule_spans(text, taken, ref.get("case_numbers", ()))
-    return text, sorted(spans, key=lambda x: (x[1], x[0]))
+    return text, merge_date_ranges(text, sorted(spans, key=lambda x: (x[1], x[0])))
 
 
 def to_records(text, spans, ref, max_chars=MAX_CHARS, max_chunks=None):
