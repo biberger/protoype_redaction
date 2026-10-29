@@ -34,7 +34,7 @@ Diagnose:
 
 Anamnese: Die Patientin gab an, auf nassem Untergrund ausgerutscht zu sein. Eine Bewusstlosigkeit bestand nicht. Vorerkrankungen: arterielle Hypertonie, unter Therapie gut eingestellt. Keine Antikoagulation.
 
-Sozialanamnese: Die Patientin lebt mit ihrem Lebensgefährten in einem Einfamilienhaus in Krumpendorf und ist in der Buchhaltung der Arbeitgeberin tätig. Sie raucht nicht, trinkt gelegentlich ein Glas Wein. Die Rechtshändigkeit ist im Befund nicht eingeschränkt; die linke Hand war bisher die nicht dominante Seite.
+Sozialanamnese: Die Patientin lebt mit ihrem Lebensgefährten in einem Einfamilienhaus in [[location|Krumpendorf]] und ist in der Buchhaltung der Arbeitgeberin tätig. Sie raucht nicht, trinkt gelegentlich ein Glas Wein. Die Rechtshändigkeit ist im Befund nicht eingeschränkt; die linke Hand war bisher die nicht dominante Seite.
 
 Medikation bei Aufnahme: Ramipril 5 mg einmal täglich, Paracetamol nach Bedarf. Eine Allergie gegen Penicilline ist bekannt.
 
@@ -55,6 +55,8 @@ Empfehlungen:
 Arbeitsfähigkeit: Die Patientin ist bis auf Weiteres arbeitsunfähig geschrieben. Die Arbeitgeberin [[organization|Perl GmbH]] wurde über die Arbeitsunfähigkeit informiert; die Bescheinigung wurde direkt an die Firma übermittelt. Für den Arbeitsunfall liegt ein Formular des Unfallversicherungsträgers vor, das [[person|Gabriele Spindler]] als zuständiger Sachbearbeiter der Versicherung bearbeitet.
 
 Kostenübernahme: Die Rechnung für den Arbeitsunfall ist an die [[organization|Perl GmbH]] zu richten; das Überweisungskonto lautet IBAN [[bank_account|AT62 0116 7425 8741 9289]].
+
+Die Patientin wurde zusätzlich an eine Physiotherapiepraxis in [[location|Krumpendorf]] überwiesen, deren Termine sie selbst vereinbart. Die Patientin ist telefonisch gut erreichbar und hat ihre Nachkontrolle bereits im Ambulanzkalender eingetragen, wie sie bei der Entlassung bestätigte. Ein Unfallbericht für die Versicherung wurde von unserer Abteilung erstellt und am [[date|26.05.2026]] übermittelt; eine Kopie liegt Ihrer Ordination bei.
 
 Wir bitten um Mitbetreuung und stehen für Rückfragen unter der oben genannten Nummer zur Verfügung.
 

@@ -13,8 +13,6 @@ ACJC/[[case_number|612/2026]]
 
 ARRÊT DU [[date|12 octobre 2026]]
 
-La Cour de justice de la République et canton de Genève, [[court|Cour de justice]] — hmm
-
 Recourant :
 [[person|Sanjeeth Bünter]], domicilié à [[location|Genève]], représenté par [[lawyer|Severus Breton]], avocat ;
 
@@ -33,7 +31,7 @@ B. Le [[date|26 septembre 2024]], le [[organization|Service de la consommation e
 
 C. Un échange de messages entre les parties a été produit à l'appui de la demande. Dans un message du [[date|12 septembre 2024]], le recourant écrit ce qui suit :
 
-« salut clirim, canel m'a dit que ernst restauration ag ne reviendra pas avant la fin du mois. tu peux relancer nicol stp ? je veux une réponse écrite avant vendredi »
+« salut [[person|clirim]], [[person|canel]] m'a dit que [[organization|ernst restauration ag]] ne reviendra pas avant la fin du mois. tu peux relancer [[person|nicol]] stp ? je veux une réponse écrite avant vendredi »
 
 La réponse de [[person|Badoux]] du même jour est rédigée en ces termes : « ok je lui écris mais ils ont dit que la hotte est déjà commandée ».
 
@@ -53,7 +51,7 @@ EN DROIT
 
 4. L'intimée objecte que le recourant a tardé à signaler les défauts. Le message du [[date|12 septembre 2024]] et le témoignage de [[person|Ackermann]] démontrent toutefois que la dénonciation a eu lieu en temps utile, de sorte que le moyen doit être écarté. La réserve de l'[[legal_norm|art. 370 al. 3 CO]] ne saurait être opposée au recourant.
 
-5. Il convient dès lors d'accorder au recourant la réduction du prix, correspondant au coût des reprises selon l'expert, soit CHF 19'750.–, avec intérêts à 5 % dès le dépôt de la demande. Le surplus de la demande, fondé sur la perte d'exploitation, n'est pas démontré.
+5. Il convient dès lors d'accorder au recourant la réduction du prix, correspondant au coût des reprises selon l'expert, soit CHF 19'750.–, avec intérêts à 5 % dès la mise en demeure du [[date|18 novembre 2024]]. Le surplus de la demande, fondé sur la perte d'exploitation, n'est pas démontré.
 
 6. Le témoignage de [[person|Kuhn]] ne permet pas d'établir que la commande de la hotte avait été passée avant la conclusion du contrat. Ce point, soulevé par l'intimée, est sans pertinence pour l'issue du litige.
 
