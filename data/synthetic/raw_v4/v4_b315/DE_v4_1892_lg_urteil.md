@@ -35,7 +35,7 @@ hat die 9. Zivilkammer des [[court|Landgerichts Magdeburg]] durch den Vorsitzend
 
 Tatbestand
 
-Der Kläger macht Schadensersatz und Schmerzensgeld aus einem Verkehrsunfall geltend, der sich am [[date|3. März 2025]] auf dem [[street|Erster Breiter Weg]] in [[location|Magdeburg]] ereignete. Ein Lieferfahrzeug der Beklagten bog nach rechts ab und erfasste den Kläger, der mit seinem Fahrrad geradeaus fuhr. Der Kläger stürzte und zog sich einen Bruch des linken Unterarms sowie eine Prellung des Brustkorbs zu.
+Der Kläger macht Schadensersatz und Schmerzensgeld aus einem Verkehrsunfall geltend, der sich am [[date|3. März 2025]] auf dem [[street|Erster Breiter Weg]] in [[location|Magdeburg]] ereignete. Die Unfallaufnahme erfolgte durch die [[organization|Polizeiinspektion Magdeburg]] ([[organization|PI Magdeburg]]). Ein Lieferfahrzeug der Beklagten bog nach rechts ab und erfasste den Kläger, der mit seinem Fahrrad geradeaus fuhr. Der Kläger stürzte und zog sich einen Bruch des linken Unterarms sowie eine Prellung des Brustkorbs zu.
 
 Die Beklagte bestreitet, dass das Fahrzeug den Kläger berührt hat. Sie behauptet, der Kläger sei entgegen der Verkehrsregeln auf dem Gehweg gefahren und habe den Sturz selbst verursacht.
 

@@ -46,6 +46,14 @@ Die Abweichungen bei M3 und M5 liegen außerhalb der Toleranz von 0,05 mm, die i
 
 [[person|Sabri Ghomi]] gab an, die Schmierung sei im Mai 2025 letztmals durchgeführt worden. Diese Angabe ist plausibel, wird aber durch das Wartungsbuch nicht belegt, weil die Einträge für das Jahr 2025 fehlen. [[person|Coralyne Rousse, MBA]] bestätigte, dass die Anlage in der Zwischenzeit mit hohem Durchsatz betrieben wurde.
 
+Methodik. Die Messungen erfolgten im Stillstand der Anlage bei einer Drehzahl der Vorschubeinheit von 60 Hz. Die Fühlerlehre wurde an jeder Messstelle dreimal angesetzt; angegeben ist der Mittelwert. Die Temperatur im Betrieb lag bei etwa 24 Grad, eine thermische Ausdehnung der Walzen ist daher nicht auszuschließen. Die Messgeräte waren zum Zeitpunkt der Messung kalibriert; die Kalibrierscheine liegen dem Gutachten als Beilage ./1 bei.
+
+Vergleich mit dem Lastenheft. Das Lastenheft vom [[date|12. März 2025]] sieht eine Toleranz von 0,05 mm für die Spaltbreite und eine Oberflächenrauheit von höchstens 3,2 µm vor. Die Oberflächenrauheit konnte ich nicht prüfen, weil das dafür erforderliche Gerät am Ortsaugenschein nicht zur Verfügung stand. Dies kann die Gesamtbeurteilung beeinflussen.
+
+Verschleiß. Die Verschleißspuren an den Führungsschienen sind bei den Messstellen M3 und M5 am deutlichsten. Die Riefen sind etwa 0,3 mm tief und verlaufen parallel zur Laufrichtung. Dieses Bild ist typisch für eine Anlage, die über längere Zeit mit Restschmutz betrieben wurde.
+
+Dokumentation. Die Klägerin hat mir ein Betriebsbuch übergeben, das erst ab dem [[date|3. Juni 2025]] geführt wurde. Für die Zeit davor existieren keine Aufzeichnungen über die Wartung. Ich kann den Zustand der Anlage zum Zeitpunkt der Übergabe daher nicht lückenlos rekonstruieren, was meine Beurteilung der Ursache einschränkt.
+
 V. Ergebnis
 
 1. Die Falzanlage hält die vereinbarte Falzgenauigkeit an drei von fünf Messstellen nicht ein.
