@@ -48,13 +48,25 @@ Die Wohnung wird am [[date|1. April 2026]] in ordnungsgemäss gereinigtem Zustan
 
 § 7 Angaben zur Mieterin
 
-Die AHV-Nummer der Mieterin lautet [[social_security_number|756.3627.4762.50]]. Die Angaben dienen ausschliesslich der Anmeldung bei der Gemeinde Triesen.
+Die AHV-Nummer der Mieterin lautet [[social_security_number|756.3627.4762.50]]. Die Angaben dienen ausschliesslich der Anmeldung bei der Gemeinde [[location|Triesen]].
 
-§ 8 Schlussbestimmungen
+§ 8 Hausordnung und Haustiere
 
-Änderungen dieses Vertrags bedürfen der Schriftform. Dieser Vertrag wurde durch Rechtsanwältin [[lawyer|Ilsemarie Ender, MBA]] entworfen. Ergänzend gelten die Bestimmungen des [[legal_norm|ABGB]] über die Miete und das Obligationenrecht ([[legal_norm|Art. 253 OR]] ff.) in der jeweils gültigen Fassung.
+Die Hausordnung der Liegenschaft ist Bestandteil dieses Vertrags. Die Haltung von Haustieren bedarf der schriftlichen Zustimmung der Vermieterin; Kleintiere in Käfigen sind ohne Zustimmung zulässig. Die Mieterin hält Ruhezeiten zwischen 22.00 und 07.00 Uhr ein.
 
-Vaduz, [[date|14.03.2026]]
+§ 9 Schlüssel und Untermiete
+
+Die Mieterin erhält zwei Wohnungsschlüssel, einen Briefkastenschlüssel und eine Zugangskarte zum Keller. Eine Untermiete oder die Aufnahme von Dritten als Mitbewohner bedarf der vorgängigen schriftlichen Zustimmung der Liegenschaftsverwaltung.
+
+§ 10 Rückgabe
+
+Bei Beendigung des Mietverhältnisses ist die Wohnung besenrein und mit allen Schlüsseln zurückzugeben. Die Kaution wird nach Abnahme der Wohnung, spätestens jedoch drei Monate nach Rückgabe, zurückerstattet.
+
+§ 11 Schlussbestimmungen
+
+Änderungen dieses Vertrags bedürfen der Schriftform. Dieser Vertrag wurde durch Rechtsanwältin [[lawyer|Ilsemarie Ender, MBA]] entworfen. Ergänzend gelten die Bestimmungen des [[legal_norm|ABGB]] über die Miete und das [[legal_norm|Obligationenrecht]] ([[legal_norm|Art. 253 OR]] ff.) in der jeweils gültigen Fassung.
+
+[[location|Vaduz]], [[date|14.03.2026]]
 
 Für die Vermieterin:
 

@@ -14,7 +14,7 @@ Gläubigerin: [[person|Arianne Maissen]], [[address|Staffelstrasse 17, 2O15 Areu
 
 Schuldner:
 
-1. [[person|Alex Lakatos]], AHV-Nr. [[social_security_number|756.4460.86O8.62]]
+1. [[person|Alex Lakatos]], AHV-Nr. [[social_security_number|756.4460.8608.62]]
 2. [[person|Cagatay Yıldızhan]]
 3. [[person|Farhat Zimmerli]]
 4. [[person|Kasif Wickart]]
@@ -42,7 +42,7 @@ Total ohne Zins ..................................... CHF 18'636.80
 
 Die Teilzahlung von CHF 2'000.00 ist im Total bereits berücksichtigt. Der Zins ist auf der Hauptforderung nach [[legal_norm|Art. 104 Abs. 1 OR]] geschuldet; für die Berechnung gilt der Stand am Tag der Zustellung.
 
-Zahlungsangabe: Zahlung an die Gläubigerin auf das Konto IBAN [[bank_account|CH96 8827 1O55 3465 7955 2]] unter Angabe der Betreibungsnummer.
+Zahlungsangabe: Zahlung an die Gläubigerin auf das Konto IBAN [[bank_account|CH96 8827 1055 3465 7955 2]] unter Angabe der Betreibungsnummer.
 
 Zustellung
 

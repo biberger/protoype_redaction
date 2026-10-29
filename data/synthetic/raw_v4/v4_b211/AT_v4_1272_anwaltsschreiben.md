@@ -26,7 +26,7 @@ Wir vertreten die [[organization|Neumayr Immobilien GmbH]], [[company_register_n
 
 Am [[date|2. März 2026]] kam es in der Halle zu einem Rohrbruch an der Wasserleitung im Bereich des Hallenbodens. Nach den Feststellungen des Hausverwalters [[person|Karli Ullrich]] trat über mehrere Stunden Wasser aus, das in den Lagerbereich floss und dort Verpackungsmaterial und eine Druckmaschine beschädigte. Die Vermieterin wurde am selben Tag durch Ihre Mitarbeiter verständigt, jedoch nicht vor der Reparatur eingebunden. Die [[organization|Freiwillige Feuerwehr Großhofen]] musste das Wasser am Nachmittag abpumpen und hat ein Protokoll über den Einsatz verfasst, das wir als Beilage übermitteln. Aus dem Protokoll ergibt sich, dass die Absperrung der Leitung erst nach rund vier Stunden erfolgte.
 
-Die Leitung war von Ihrem Installateur [[person|Marc Tichy]] am [[date|27. Februar 2026]] umgebaut worden, um einen zusätzlichen Anschluss für eine Trocknungsanlage herzustellen. Eine Abnahme dieses Umbaus durch die Vermieterin oder durch den Hausverwalter hat nicht stattgefunden. Herr [[person|Tichy]] (SV-Nr. [[social_security_number|6172 030545]]) hat die Arbeiten laut Ihren Angaben eigenständig ausgeführt. Nach unseren Informationen war er bei Ihrer Gesellschaft nur auf Stundenbasis tätig, eine Prüfung seiner Fachberechtigung durch Ihre Gesellschaft ist nicht dokumentiert.
+Die Leitung war von Ihrem Installateur [[person|Marc Tichy]] am [[date|27. Februar 2026]] umgebaut worden, um einen zusätzlichen Anschluss für eine Trocknungsanlage herzustellen. Eine Abnahme dieses Umbaus durch die Vermieterin oder durch den Hausverwalter hat nicht stattgefunden. Herr [[person|Tichy]] (SV-Nr. [[social_security_number|6172 030545]]) hat die Arbeiten laut Ihren Angaben eigenständig ausgeführt. Nach unseren Informationen, insbesondere [[person|Tichys]] eigenen Angaben gegenüber dem Hausverwalter, war er bei Ihrer Gesellschaft nur auf Stundenbasis tätig, eine Prüfung seiner Fachberechtigung durch Ihre Gesellschaft ist nicht dokumentiert.
 
 2. Rechtliche Beurteilung
 
@@ -45,7 +45,7 @@ Die Mietzinszahlung für die Monate März bis Mai 2026 ist von Ihrer Gesellschaf
 
 Ihre Gesellschaft hat die Vermieterin mit Schreiben vom [[date|9. April 2026]] darauf hingewiesen, dass Mitarbeiter wegen des Schimmelbefalls im Lagerbereich erkrankt seien. Dazu legen Sie eine Bescheinigung der Betriebsärztin [[person|Dr. med. Gerta Hirschler, MBA]] vor, die am [[date|14. April 2026]] ausgestellt wurde.
 
-Demgegenüber hat der von der Vermieterin beauftragte Gutachter [[person|Dr. med. Liberatore Levi, BSc]] in seinem Befund vom [[date|22. April 2026]] festgestellt, dass die Raumluftwerte im Lagerbereich nach der Trocknung unbedenklich waren. Die Bescheinigung von Frau [[person|Hirschler]] nennt keine Messwerte und stützt sich auf Angaben der betroffenen Mitarbeiter. Die Kosten für Behandlungen der Mitarbeiter sind daher von Ihrer Gesellschaft selbst zu tragen; eine Ersatzpflicht der Vermieterin besteht insoweit nicht.
+Demgegenüber hat der von der Vermieterin beauftragte Gutachter [[person|Dr. med. Liberatore Levi, BSc]] in seinem Befund vom [[date|22. April 2026]] festgestellt, dass die Raumluftwerte im Lagerbereich nach der Trocknung unbedenklich waren. [[person|Hirschlers]] Bescheinigung nennt keine Messwerte und stützt sich auf Angaben der betroffenen Mitarbeiter. Die Kosten für Behandlungen der Mitarbeiter sind daher von Ihrer Gesellschaft selbst zu tragen; eine Ersatzpflicht der Vermieterin besteht insoweit nicht.
 
 3a. Beweissicherung
 

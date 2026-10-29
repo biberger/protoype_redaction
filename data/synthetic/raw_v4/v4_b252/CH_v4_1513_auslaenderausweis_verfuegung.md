@@ -12,15 +12,15 @@ Dossier: [[case_number|MIG 4/2026/1187]]
 
 Verfügung über die Erneuerung des Ausländerausweises B
 
-Das Migrationsamt hat das Gesuch vom [[date|12. Mai 2026]] geprüft. Herr [[person|Alfredek Bezděk]] ist tschechischer Staatsangehöriger. Bis zu seinem Umzug am [[date|1. Juli 2026]] war er an der [[address|Bifangstrasse 7, 1116 Cottens]] gemeldet; seither wohnt er in [[location|Epagnier]].
+Das Migrationsamt hat das Gesuch vom [[date|12. Mai 2026]] geprüft. Herr [[person|Alfredek Bezděk]] ist tschechischer Staatsangehöriger. Bis zu seinem Umzug am [[date|1. Juli 2026]] war er an der [[address|Bifangstrasse 7, 1116 Cottens]] gemeldet; seither wohnt er an der [[address|Singlistrasse 10, 2074 Epagnier]].
 
-Der Gesuchsteller arbeitete bis am [[date|31. März 2026]] bei der [[organization|Rutishauser SA]], [[company_register_number|CHE-082.051.601]]. Seit dem [[date|1. April 2026]] ist er bei der [[organization|Labhardt Bau AG]], [[company_register_number|CHE-660.462.005]], angestellt. Die Personalverantwortliche [[person|Aikaterini Louis]] bestätigte dies mit Schreiben vom [[date|8. Mai 2026]].
+Der Gesuchsteller arbeitete bis am [[date|31. März 2026]] bei der [[organization|Rutishauser SA]], [[company_register_number|CHE-082.051.601]]. Seit dem [[date|1. April 2026]] ist er bei der [[organization|Labhardt Bau AG]], [[company_register_number|CHE-660.462.005]], angestellt. Die Personalverantwortliche [[person|Aikaterini Louis]] bestätigte dies mit Schreiben vom [[date|8. Mai 2026]]. Der Gesuchsteller ist seit dem [[date|1. April 2026]] mit einem Pensum von 100 % als Polier tätig und bezieht ein Bruttoeinkommen von CHF 6'200.00 pro Monat. Es sind keine Betreibungen registriert und er hat keine Sozialhilfe bezogen.
 
 Mit dem Gesuchsteller lebt seine Lebenspartnerin [[person|Mayasa Fleckenstein]] im gemeinsamen Haushalt. Sie besitzt das Schweizer Bürgerrecht und ist nicht Gegenstand dieses Verfahrens.
 
 Erwägungen
 
-Gemäss [[legal_norm|Art. 33 Abs. 1 lit. b AIG]] i.V.m. [[legal_norm|Art. 62 Abs. 1 lit. c AIG]], [[legal_norm|Art. 85 VZAE]] sowie [[legal_norm|Art. 96 Abs. 1 AIG]] i.V.m. [[legal_norm|Art. 58a AIG]] sind die Voraussetzungen für die Erneuerung erfüllt. Die Mitwirkungspflicht nach [[legal_norm|Art. 90 AIG]] wurde beachtet; die Sachbearbeiterin [[person|Mariotti]] hat die Angaben zum Arbeitsverhältnis überprüft.
+Gemäss [[legal_norm|Art. 33 Abs. 1 lit. b AIG]] i.V.m. [[legal_norm|Art. 62 Abs. 1 lit. c AIG]], [[legal_norm|Art. 85 VZAE]] sowie [[legal_norm|Art. 96 Abs. 1 AIG]] i.V.m. [[legal_norm|Art. 58a AIG]] sind die Voraussetzungen für die Erneuerung erfüllt. Die Mitwirkungspflicht nach [[legal_norm|Art. 90 AIG]] wurde beachtet; die Sachbearbeiterin [[person|Mariotti]] hat die Angaben zum Arbeitsverhältnis überprüft. Die Kenntnisse der deutschen Sprache entsprechen dem Niveau A2; der Gesuchsteller besucht seit Juni 2026 einen Sprachkurs in [[location|Neuenburg]], dessen Bestätigung im Dossier liegt. Die Integration ist damit gegeben, auch wenn die Sprachkenntnisse noch ausbaufähig sind.
 
 Gegen diese Verfügung kann innert 30 Tagen seit Eröffnung beim [[court|Kantonsgericht Neuenburg]] Beschwerde erhoben werden.
 
