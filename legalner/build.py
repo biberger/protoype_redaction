@@ -212,6 +212,7 @@ def main(argv=None):
     ap.add_argument("--exclude-docs", help="file with doc_ids to drop entirely (e.g. data/gold/at/doc_ids.txt)")
     ap.add_argument("--case-frac", type=float, default=0.1,
                     help="share of training examples whose text or single spans are upper/lower-cased")
+    ap.add_argument("--validate", action="store_true", help="check every split with gliner2 TrainingDataset.validate()")
     ap.add_argument("--seed", type=int, default=13)
     args = ap.parse_args(argv)
 
@@ -262,6 +263,10 @@ def main(argv=None):
         stats[split] = len(recs)
     stats["records_per_source"] = {
         split: dict(collections.Counter(r["source"] for r in recs)) for split, recs in by_split.items()}
+    if args.validate:
+        from gliner2.training.data import TrainingDataset
+        stats["validate"] = {split: {k: v for k, v in TrainingDataset.load(str(out / f"{split}.jsonl")).validate().items()
+                                     if k in ("valid", "invalid", "total")} for split in ("train", "dev", "test")}
     (out / "manifest.json").write_text(json.dumps(stats, indent=2))
     print(json.dumps(stats, indent=2))
 
