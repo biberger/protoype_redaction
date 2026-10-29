@@ -22,7 +22,7 @@ Betreff: Wasserschaden vom [[date|3. März 2026]] in der Liegenschaft [[address|
 
 Sehr geehrte Frau [[lawyer|Dick]],
 
-wir nehmen Bezug auf Ihr Schreiben vom [[date|2. April 2026]], mit dem Sie den Anspruch Ihrer Mandantin [[person|Albina Eberle]] auf Ersatz des Hausratschadens geltend machen. Die Mandantin ist Mieterin der Wohnung im Dachgeschoss der Liegenschaft [[address|Hambergstraße 11, 9400 Wolfsberg]]. Versicherungsnehmerin der Gebäudeversicherung ist unsere Kundin [[person|Greta Schröder]], Eigentümerin der Liegenschaft, die ihren Wohnsitz in [[location|Feldkirch]] hat.
+wir nehmen Bezug auf Ihr Schreiben vom [[date|2. April 2026]], mit dem Sie den Anspruch Ihrer Mandantin [[person|Albina Eberle]] auf Ersatz des Hausratschadens geltend machen. Die Mandantin ist Mieterin der Wohnung im Dachgeschoss der Liegenschaft [[address|Hambergstraße 11, 9400 Wolfsberg]]. Versicherungsnehmerin der Gebäudeversicherung ist unsere Kundin [[person|Greta Schröder]], Eigentümerin der Liegenschaft, die ihren Wohnsitz in [[address|Ackerlweg 6, 6800 Feldkirch]] hat.
 
 Sachverhalt
 
@@ -51,7 +51,7 @@ Die Verpflichtung der Hausverwaltung, den Schaden unverzüglich an uns zu melden
 
 Die Ersatzleistung für den Hausrat bemisst sich nach dem Zeitwert gemäß den Versicherungsbedingungen. Den Antrag der Mandantin auf Neuwert-Erstattung können wir daher nicht vollständig erfüllen. [[person|Eberles]] Antrag vom [[date|2. April 2026]] richtet sich auf die volle Summe, wozu wir uns nicht verpflichtet sehen.
 
-Zur Schadenursache hat die Hausverwaltung am 14. März 2026 eine schriftliche Stellungnahme abgegeben. Darin wird ausgeführt, dass die Warmwasserleitung im Dachgeschoss bereits im Winter 2025 mehrfach undicht war und jeweils kurzfristig geflickt wurde. Eine Erneuerung sei von der Eigentümerin wegen der anstehenden Sanierung des Hauses zurückgestellt worden. Diese Angaben haben wir überprüft, sie werden durch die Reparaturrechnungen vom Februar 2026 gestützt.
+Zur Schadenursache hat die Hausverwaltung am [[date|14. März 2026]] eine schriftliche Stellungnahme abgegeben. Darin wird ausgeführt, dass die Warmwasserleitung im Dachgeschoss bereits im Winter 2025 mehrfach undicht war und jeweils kurzfristig geflickt wurde. Eine Erneuerung sei von der Eigentümerin wegen der anstehenden Sanierung des Hauses zurückgestellt worden. Diese Angaben haben wir überprüft, sie werden durch die Reparaturrechnungen vom Februar 2026 gestützt.
 
 Der Sachverständige hat zudem festgehalten, dass der Parkettboden im Wohnzimmer zwar ersetzt werden muss, aber nicht vollständig, da die Schäden auf die Randbereiche beschränkt sind. Dies wurde bei der Berechnung berücksichtigt. Die Positionen Sofa und Esstisch wurden nach dem Zeitwert bewertet, weil ein Kaufbeleg nicht vorgelegt wurde.
 

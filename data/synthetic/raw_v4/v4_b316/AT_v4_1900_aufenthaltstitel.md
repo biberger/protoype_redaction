@@ -36,7 +36,7 @@ Die Voraussetzungen des [[legal_norm|§ 11 Abs 2 NAG]] sind erfüllt. Der Lebens
 
 Gebühren
 
-Für die Ausstellung des Aufenthaltstitels ist eine Gebühr von 150,00 Euro auf das Konto [[bank_account|AT28 2726 3595 8334 9479]] der Bezirkshauptmannschaft Gmunden zu entrichten.
+Für die Ausstellung des Aufenthaltstitels ist eine Gebühr von 150,00 Euro auf das Konto [[bank_account|AT28 2726 3595 8334 9479]] der [[organization|Bezirkshauptmannschaft Gmunden]] zu entrichten.
 
 Rechtsmittelbelehrung
 

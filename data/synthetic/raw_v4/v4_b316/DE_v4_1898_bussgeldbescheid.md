@@ -29,9 +29,11 @@ Am [[date|14.07.2026]] um 09:42 Uhr haben Sie als Fahrer den Transporter Volkswa
 
 Die Geschwindigkeit wurde mit dem stationären Messgerät durch die Messbeamtin [[person|Tine Walter]] festgestellt. Das Gerät war am [[date|2. Juni 2026]] geeicht und wurde am Tattag vor der Messung überprüft. Die Sachverständige [[person|Prof. Dr. Irmengard Wüst]] hat in ihrem Gutachten vom [[date|22.07.2026]] die Messgenauigkeit bestätigt. Frau [[person|Prof. Dr. Wüst]] führt aus, dass die Messtoleranz für die verwendete Messanlage ordnungsgemäß berücksichtigt wurde.
 
+Die Messbeamtin [[person|Walter]] hat im Messprotokoll festgehalten, dass der Abstand zum Fahrzeug 42 Meter betrug, die Messung aus dem Stand erfolgte und die Fahrbahn trocken war. Ein zweites Messgerät wurde nicht eingesetzt, da die Anlage nach Angaben der Messbeamtin durch einen Lasermessung-Kontrollversuch vor Ort überprüft worden war.
+
 Das Messfoto zeigt das Fahrzeug mit dem Kennzeichen [[license_plate|F I 1878]] im Bereich der Messstelle. Das Kennzeichen ist eindeutig lesbar und dem Fahrzeug zugeordnet.
 
-Die Zeugin [[person|Gracie Ezike]], wohnhaft in [[address|Heinrich-von-Buz-Straße 23, 72655 Altdorf]], hat bei ihrer Vernehmung angegeben, dass der Transporter an der Ampel an ihr vorbeigefahren ist und dass der Fahrer ein Mann mit kurzen dunklen Haaren war. Die Zeugin [[person|Ezike]] hat den Betroffenen auf dem Lichtbild wiedererkannt.
+Die Zeugin [[person|Gracie Ezike]], wohnhaft in [[address|Heinrich-von-Buz-Straße 23, 72655 Altdorf]], hat bei ihrer Vernehmung angegeben, dass der Transporter an der Ampel an ihr vorbeigefahren ist und dass der Fahrer ein Mann mit kurzen dunklen Haaren war. Die Zeugin [[person|Ezike]] hat den Betroffenen auf dem Lichtbild wiedererkannt. Ihre Angaben hat sie am [[date|16.07.2026]] schriftlich bestätigt. Sie gab an, dass sie an der Kreuzung mit der [[street|Hanauer Landstraße]] auf Grün gewartet habe, als der Transporter mit hoher Geschwindigkeit vorbeifuhr und dabei die Lichtzeichen nicht beachtete. Das Lichtbild wurde ihr nach der Vernehmung vorgelegt, ohne dass zuvor ein Hinweis auf den Betroffenen erfolgte. Die Angaben der Zeugin sind widerspruchsfrei und werden durch das Messprotokoll bestätigt.
 
 3. Halter und Fahrerermittlung
 
@@ -47,7 +49,7 @@ Sie haben die zulässige Höchstgeschwindigkeit fahrlässig überschritten und d
 
 6. Entscheidung
 
-Gegen Sie wird wegen fahrlässiger Überschreitung der zulässigen Höchstgeschwindigkeit eine Geldbuße von 120,00 Euro festgesetzt. Hinzu kommen eine Gebühr von 28,50 Euro und Auslagen von 3,50 Euro für die Anhörung und die Halterauskunft. Der Gesamtbetrag beträgt 152,00 Euro. Der Betrag wird von dem bei uns hinterlegten Konto [[bank_account|DE26 5182 5233 9246 6330 56]] eingezogen, sofern Sie der Einziehung nicht widersprechen.
+Gegen Sie wird wegen fahrlässiger Überschreitung der zulässigen Höchstgeschwindigkeit eine Geldbuße von 120,00 Euro festgesetzt. Hinzu kommen eine Gebühr von 28,50 Euro und Auslagen von 3,50 Euro für die Anhörung und die Halterauskunft. Der Gesamtbetrag beträgt 152,00 Euro. Die Zahlung wird zwei Wochen nach Eintritt der Rechtskraft fällig, sofern der Bescheid nicht mit einem Einspruch angefochten wird. Das Verfahren gegen die Halterin wegen der Pflichten zur Fahrerbenennung wird eingestellt, da die Halterauskunft rechtzeitig erteilt wurde. Der Betrag wird von dem bei uns hinterlegten Konto [[bank_account|DE26 5182 5233 9246 6330 56]] eingezogen, sofern Sie der Einziehung nicht widersprechen.
 
 7. Rechtsbehelfsbelehrung
 

@@ -41,13 +41,15 @@ Die Voraussetzungen für eine Rot-Weiß-Rot – Karte plus liegen nicht vor, wei
 
 Die Behörde hat den Antragsteller am [[date|16. Juni 2026]] persönlich geladen. Dieser erschien am [[date|23.06.2026]] nicht. Die Frist zur Nachreichung von Unterlagen lief bis [[date|21. Juli 2026]]; nachgereicht wurde nichts.
 
-Die Behörde hat am [[date|1. April 2026]] eine Abfrage im Zentralen Melderegister durchgeführt. Daraus ergibt sich, dass der Antragsteller seit dem [[date|1. Oktober 2019]] in Jerzens gemeldet ist. Die Ehefrau ist seit dem [[date|14. Mai 2024]] in Traboch gemeldet; eine gemeinsame Meldeadresse besteht daher derzeit nicht.
+Die Behörde hat am [[date|1. April 2026]] eine Abfrage im Zentralen Melderegister durchgeführt. Daraus ergibt sich, dass der Antragsteller seit dem [[date|1. Oktober 2019]] in [[location|Jerzens]] gemeldet ist. Die Ehefrau ist seit dem [[date|14. Mai 2024]] in [[location|Traboch]] gemeldet; eine gemeinsame Meldeadresse besteht daher derzeit nicht.
 
-Die Rot-Weiß-Rot – Karte plus setzt unter anderem eine ausreichende Unterkunft voraus. Die Wohnung in Jerzens hat nach den Angaben des Antragstellers eine Wohnfläche von 74 m². Einen Mietvertrag hat er jedoch nicht vorgelegt, sodass die Unterkunft nicht nachgewiesen ist. Ein Strafregisterauszug vom [[date|6. Mai 2026]] weist keine Verurteilungen aus.
+Die Rot-Weiß-Rot – Karte plus setzt unter anderem eine ausreichende Unterkunft voraus. Die Wohnung in [[location|Jerzens]] hat nach den Angaben des Antragstellers eine Wohnfläche von 74 m². Einen Mietvertrag hat er jedoch nicht vorgelegt, sodass die Unterkunft nicht nachgewiesen ist. Ein Strafregisterauszug vom [[date|6. Mai 2026]] weist keine Verurteilungen aus.
 
 Die Gebühr laut Gebührentarif ist binnen vier Wochen zu entrichten. Wird sie nicht rechtzeitig bezahlt, tritt die Wirkung der Erteilung nicht ein, und der Antrag gilt als zurückgezogen. Auf diese Folge wurde der Antragsteller in der Ladung hingewiesen.
 
 Rechtsmittelbelehrung
+
+Der Antragsteller hat am [[date|9. Juni 2026]] eine schriftliche Stellungnahme eingebracht, in der er die Mängel des Dienstvertrags bestreitet. Die Behörde hat diese Stellungnahme berücksichtigt, sie ändert jedoch nichts am Ergebnis, weil die Stellungnahme keine Unterkunft belegt. Die Ausgangslage ist daher unverändert.
 
 Gegen diesen Bescheid kann innerhalb von vier Wochen ab Zustellung eine Beschwerde an das [[court|Landesverwaltungsgericht Tirol]] erhoben werden. Die Beschwerde ist bei der [[organization|Bezirkshauptmannschaft Imst]] einzubringen.
 

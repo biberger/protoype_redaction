@@ -33,7 +33,7 @@ Nous avons vérifié les coordonnées bancaires figurant sur la facture de la tr
 
 La mise en cause a également fourni son numéro de sécurité sociale, [[social_security_number|2 67 09 87 791 835 14]], et a indiqué que son téléphone était joignable au [[phone_number|04 78 36 89 20]].
 
-La plaignante a également déposé une main courante le [[date|4 juin 2026]] au commissariat de Metz. Cette main courante ne mentionne aucune somme d'argent et ne fait état que de propos menaçants. Interrogée sur cette différence, la plaignante a indiqué qu'elle ne souhaitait pas, à l'époque, engager de procédure.
+La plaignante a également déposé une main courante le [[date|4 juin 2026]] au commissariat de [[location|Metz]]. Cette main courante ne mentionne aucune somme d'argent et ne fait état que de propos menaçants. Interrogée sur cette différence, la plaignante a indiqué qu'elle ne souhaitait pas, à l'époque, engager de procédure.
 
 Me [[lawyer|Verane Thiry]] a ensuite demandé que soit consigné au procès-verbal le fait que son client n'avait pas été informé de la plainte avant son audition. Nous avons pris note de cette observation, sans y donner suite, la personne ayant été régulièrement convoquée par courrier du [[date|28 juillet 2026]].
 

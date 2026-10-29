@@ -61,6 +61,8 @@ Bitte beachten Sie, dass die Entschädigung nicht zu Lasten der Mitbewohnerinnen
 
 Frau [[person|Mattig-Zenhäusers]] Antwort vom [[date|25. Juni 2026]] haben wir zur Kenntnis genommen. Darin bestreitet die Verwaltung eine Pflichtverletzung, bietet aber eine Beteiligung an den Trocknungskosten an.
 
+Die Schlussabrechnung des Malerbetriebs vom [[date|2. Juli 2026]] haben wir ebenfalls geprüft. Sie weicht bei den Malerarbeiten um rund 300 Franken von unserer Schätzung ab, weil zusätzlich ein Feuchteschutzanstrich berechnet wurde. Diesen Mehrbetrag übernehmen wir, sofern die Notwendigkeit durch ein Messprotokoll belegt wird. Ein solches Protokoll liegt uns bisher nicht vor.
+
 Rechtsmittel und Gerichtsstand
 
 Sollten Sie mit unserer Berechnung nicht einverstanden sein, können Sie innert 30 Tagen seit Zustellung dieses Schreibens eine schriftliche Stellungnahme einreichen. Für eine gerichtliche Klage ist das [[court|Kantonsgericht Wallis]] zuständig, dessen Sitz in [[location|Sitten]] liegt. Die Klagefrist ist mit Zustellung dieses Schreibens nicht verlängert.

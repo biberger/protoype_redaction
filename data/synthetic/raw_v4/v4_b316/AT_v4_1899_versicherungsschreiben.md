@@ -29,6 +29,8 @@ In der Akte befindet sich die E-Mail, die Sie uns am [[date|12. März 2026]] üb
 
 > hallo frau [[person|sander]], anbei die fotos vom wasserschaden in der [[street|eschenbachgasse]]. der installateur [[person|mijić]] war am [[date|5. märz]] bei mir und hat den schlauch angeblich neu gemacht. bitte um rückmeldung. lg [[person|marlies reinhardt]], [[email|m.reinhardt@a1.net]], tel [[phone_number|0463 147 0278]]
 
+Ergänzend bitten wir Sie, uns bis zum [[date|15.06.2026]] sämtliche Rechnungen über die Reparatur sowie die Korrespondenz mit der Hausverwaltung zu übersenden. Ohne diese Unterlagen können wir die Zahlung nicht endgültig berechnen. Dieses Schreiben ergeht in Kopie an Ihre Rechtsvertreterin.
+
 Nach den vorliegenden Unterlagen besteht für den Schaden grundsätzlich Versicherungsschutz. Die Leistung erfolgt in Höhe von 3.860,00 Euro abzüglich der Selbstbeteiligung von 150,00 Euro und wird auf das Konto [[bank_account|AT50 6539 1895 2979 9081]] überwiesen. Soweit die Reparatur des Zuleitungsschlauchs durch Herrn [[person|Mijić]] fehlerhaft war, richtet sich ein Ersatzanspruch gegen ihn; wir weisen darauf hin, dass ein Regress gemäß [[legal_norm|§ 1295 ABGB]] iVm [[legal_norm|§ 1311 ABGB]] auf uns übergehen kann.
 
 Wir weisen ferner darauf hin, dass eine Verletzung der Schadenminderungspflicht gemäß [[legal_norm|§ 61 VersVG]] zur Kürzung der Leistung führen kann. Bitte bewahren Sie das beschädigte Leitungsstück bis zur endgültigen Abrechnung auf.
