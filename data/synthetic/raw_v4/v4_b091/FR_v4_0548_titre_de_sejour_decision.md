@@ -49,6 +49,8 @@ DÉCIDE
 
 Article 1er : La demande de renouvellement de titre de séjour présentée par M. [[person|Stanik Wach]] est rejetée.
 
+Considérant que M. [[person|Wach]] n'a pas sollicité d'aide au retour ni fourni de justificatif de logement distinct de celui de son ancien employeur, et que l'intéressé ne peut utilement se prévaloir de son ancienneté de séjour pour contester l'appréciation qui précède ;
+
 Article 2 : Il est fait obligation à M. [[person|Wach]] de quitter le territoire français dans un délai de trente jours à compter de la notification de la présente décision.
 
 Article 3 : Le présent arrêté peut faire l'objet d'un recours contentieux devant le [[court|tribunal administratif de Nantes]], dans un délai de deux mois à compter de sa notification. Le recours peut également être précédé d'un recours gracieux auprès de la préfecture.

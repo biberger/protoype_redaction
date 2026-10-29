@@ -30,7 +30,7 @@ Le titulaire du certificat d'immatriculation a désigné comme conducteur du vé
 
 Mme [[person|Jeannick Rosset]], demeurant [[address|rue Victor-Hugo 41, 37000 Tours]], numéro de sécurité sociale [[social_security_number|2 14 12 75 371 309 07]].
 
-Le formulaire de désignation a été transmis à l'[[organization|ANTAI]] le [[date|28 septembre 2026]] par courrier recommandé. Copie de la désignation a été adressée à Mme [[person|Hilde Roche]] et à M. [[person|Vincente Roth]], co-titulaires de la carte grise en cas de contestation.
+Le formulaire de désignation a été transmis à l'[[organization|ANTAI]] le [[date|28 septembre 2026]] par courrier recommandé. Copie de la désignation a été adressée à Mme [[person|Hilde Roche]], demeurant [[address|impasse des Lilas 4, 31500 Toulouse]], et à M. [[person|Vincente Roth]], co-titulaires de la carte grise en cas de contestation.
 
 Constat de l'infraction
 
