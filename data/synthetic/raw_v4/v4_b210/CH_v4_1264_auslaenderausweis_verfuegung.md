@@ -53,6 +53,14 @@ G. Gemäss den Angaben des Sozialamts der Gemeinde [[location|Putz]] bezog Herr 
 
 2.8 Gestützt auf [[legal_norm|Art. 96 Abs. 1 AIG]] sind die persönlichen Verhältnisse, die Dauer des Aufenthalts und der Grad der Integration zu würdigen. Diese Prüfung fällt zulasten des Gesuchstellers aus, weil er seit längerer Zeit keine Ausbildung oder Weiterbildung absolviert.
 
+2.9 Die Abwägung der Interessen fällt zulasten des Gesuchstellers aus. Herr [[person|Türkkan]] hat während seines Aufenthalts von 2019 bis 2026 keine erkennbaren Anstrengungen unternommen, seine berufliche Situation zu verbessern. Ein Wechsel in ein Pensum von mindestens 80 Prozent wäre nach den Angaben von [[person|Stettler]] ohne Weiteres möglich gewesen. Die Stellensuche wurde jedoch nicht belegt. Die Bewerbungen, die der Rechtsvertreter eingereicht hat, betreffen ausschliesslich Stellen als Lagermitarbeiter und datieren vom Frühjahr 2026.
+
+2.10 Zu den Wohnkosten hält die Behörde fest, dass die Miete CHF 1'450.00 pro Monat beträgt. Die Vermieterin [[organization|Caflisch & Mehlen Sàrl]] bestätigte mit Schreiben vom [[date|3. April 2026]], dass der Mietzins seit dem [[date|1. Januar 2025]] nicht mehr angepasst wurde. Die Wohnung ist im Vergleich zur Region überdurchschnittlich teuer, was die finanzielle Lage zusätzlich belastet. Ein Wohnungswechsel wurde nicht geprüft.
+
+2.11 Die Verfahrensdauer ist angemessen. Das Gesuch vom [[date|14.01.2026]] wurde mit der Anhörung, dem Gutachten und den Stellungnahmen innert rund fünf Monaten behandelt. Die Gutachterin [[person|Dr. Dr. Maryama Hischier, MSc (London)]] wurde nicht als Parteigutachterin beigezogen; ihr Gutachten ist deshalb für die Behörde verbindlich zu würdigen, soweit es die Arbeitsfähigkeit betrifft.
+
+2.12 Die Zustellung an den Rechtsvertreter erfolgt im Sinne der Akteneinsicht. Die Behörde hat den Gesuchsteller darauf hingewiesen, dass die Verfügung mit einer Frist von 30 Tagen angefochten werden kann und dass eine aufschiebende Wirkung nicht besteht, soweit die Ausreise nicht angeordnet wird.
+
 3. Dispositiv
 
 Die Migrationsbehörde verfügt:
@@ -71,7 +79,7 @@ Die Migrationsbehörde verfügt:
 
 Gegen diese Verfügung kann innert 30 Tagen seit Zustellung Beschwerde beim [[court|Verwaltungsgericht des Kantons Graubünden]] erhoben werden. Die Beschwerdeschrift muss einen Antrag und eine Begründung enthalten; die angefochtene Verfügung ist beizulegen.
 
-Für Rückfragen erreichen Sie die Sachbearbeiterin unter Telefon [[phone_number|079 649 93 37]].
+Eine Kopie dieser Verfügung geht an das Sozialamt der Gemeinde [[location|Putz]] zur Kenntnisnahme. Für Rückfragen erreichen Sie die Sachbearbeiterin unter Telefon [[phone_number|079 649 93 37]].
 
 [[location|Chur]], [[date|23. Juni 2026]]
 

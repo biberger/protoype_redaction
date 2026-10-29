@@ -32,7 +32,7 @@ Dagegen richtet sich der Rekurs. Die Rekurswerberin bringt vor, der Schaden sei 
 
 Rechtliche Beurteilung
 
-Der Rekurs ist nicht berechtigt. Nach [[legal_norm|§ 2a Abs 1 DHG]] richtet sich die Haftungsmilderung nach dem Grad des Verschuldens; das Erstgericht hat zutreffend festgestellt, dass die Beklagte bei Anwendung der gebotenen Sorgfalt den Pfosten erkannt hätte. Die Zeugin [[person|Sissi Rothe]] hat ausgesagt, die Beklagte habe unmittelbar vor dem Zusammenstoß ihr Mobiltelefon in der Hand gehalten. Dass die Lenkung mangelhaft war, hat die Beklagte nicht bewiesen; die Beweislast trifft sie nach [[legal_norm|§ 1298 ABGB]].
+Der Rekurs ist nicht berechtigt. Nach [[legal_norm|§ 2a Abs 1 DHG]] richtet sich die Haftungsmilderung nach dem Grad des Verschuldens; das Erstgericht hat zutreffend festgestellt, dass die Beklagte bei Anwendung der gebotenen Sorgfalt den Pfosten erkannt hätte. Der Zeuge [[person|Florian von Stadler]] hat ausgesagt, die Beklagte habe unmittelbar vor dem Zusammenstoß ihr Mobiltelefon in der Hand gehalten. Dass die Lenkung mangelhaft war, hat die Beklagte nicht bewiesen; die Beweislast trifft sie nach [[legal_norm|§ 1298 ABGB]].
 
 Die Entscheidung über die Kosten beruht auf [[legal_norm|§ 2 ArbGG]] iVm [[legal_norm|§§ 40, 50 ZPO]].
 
