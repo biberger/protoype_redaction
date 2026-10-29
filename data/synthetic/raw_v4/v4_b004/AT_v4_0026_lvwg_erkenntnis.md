@@ -35,7 +35,7 @@ I. Verfahrensgang
 
 6. Die Anzeigerin übermittelte den Behörden außerdem die folgende Nachricht ihres Bekannten:
 
-> ok passt, hallo t. bohush, der dakiyy benali hat die halle wieder aufgesperrt. bitte nicht zu den zeugen sagen, dass ich das gemeldet habe. lenz lorenz
+> ok passt, hallo [[person|t. bohush]], der [[person|dakiyy benali]] hat die halle wieder aufgesperrt. bitte nicht zu den zeugen sagen, dass ich das gemeldet habe. [[person|lenz lorenz]]
 
 II. Beweiswürdigung
 

@@ -223,6 +223,19 @@ UNIT_BEFORE = re.compile(r"(?:Regionaldirektion|Außenstelle|Landesstelle|Zweigs
                          r"Filiale|Niederlassung|Standort)\s$")
 
 
+DATELINE = re.compile(r"(?m)^([A-ZÄÖÜ][\wäöüßéèô.\-]+(?:\s(?:an\sder|am|im|bei|ob\sder|sur|en)\s[A-ZÄÖÜ][\wäöüß.\-]+|"
+                      r"\s[A-ZÄÖÜ][\wäöüß.\-]+)?),\s(?:am\s|den\s|le\s|im\s)?(?:\d{1,2}\.?\s?(?:\d{1,2}\.|[A-Za-zäéû]+)|\[\[date)")
+
+
+def _caps_passage(text, m, n):
+    """True if the match is written in ALL CAPS or all lower case, as in a letterhead or a quoted e-mail."""
+    word = m.group()
+    if word == word.upper() and word != n:
+        return True
+    window = text[max(0, m.start() - 40):m.end() + 40]
+    return word == word.lower() and not re.search(r"[A-ZÄÖÜ]", window.replace(word, ""))
+
+
 def lint(text, spans, fname):
     """Warn about untagged occurrences of strings tagged elsewhere in the doc
     (incl. bare surnames of person spans and common place names)."""
@@ -241,10 +254,17 @@ def lint(text, spans, fname):
                 needles.add(last)
     warnings = []
     for n in sorted(needles):
-        for m in re.finditer(r"(?<!\w)" + re.escape(n) + r"(?:s|')?(?!\w)", text):  # incl. genitive
+        for m in re.finditer(r"(?<!\w)" + re.escape(n) + r"(?:s|')?(?!\w)", text, re.I):  # incl. genitive
+            if m.group()[:len(n)] != n and not _caps_passage(text, m, n):
+                continue  # other case only inside ALL-CAPS or all-lower-case passages ("HUBER BAU GMBH", "t. bohush")
             if not any(covered[m.start():m.end()]) and not UNIT_BEFORE.search(text, 0, m.start()):
                 line = text.count("\n", 0, m.start()) + 1
                 warnings.append(f"{fname}:{line}: untagged occurrence of {n!r}")
+    for m in DATELINE.finditer(text):
+        if not any(covered[m.start(1):m.end(1)]) and not re.search(r"(?:ung|gericht|amt|stelle|ware|Datum|Ort)$",
+                                                                       m.group(1)):
+            line = text.count("\n", 0, m.start()) + 1
+            warnings.append(f"{fname}:{line}: untagged place in dateline {m.group(1)!r}")
     for m in DATE_RE.finditer(text):
         if not any(covered[m.start():m.end()]):
             line = text.count("\n", 0, m.start()) + 1

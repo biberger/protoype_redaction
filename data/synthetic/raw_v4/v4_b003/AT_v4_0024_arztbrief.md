@@ -60,7 +60,7 @@ Die Verwaltung hat am [[date|23.07.2026]] eine Anfrage erhalten, die im Original
 
 von: [[person|osman jahoda, mba]]
 an: [[organization|bucher og]], [[email|buchhaltung@bucher.at]]
-betreff: rückfrage kostenübersicht bernardina gredt
+betreff: rückfrage kostenübersicht [[person|bernardina gredt]]
 text: bitte prüft nochmals, ob der selbstbehalt für den aufenthalt vom [[date|14. bis 21. Juli 2026]] bereits verbucht ist. der arztbrief vom [[date|22.07.2026]] nennt keine beträge. telefon [[phone_number|0699 2269726]], danke.
 
 Die Anfrage wurde am [[date|24.07.2026]] mit dem Hinweis beantwortet, dass kein Selbstbehalt angefallen ist.

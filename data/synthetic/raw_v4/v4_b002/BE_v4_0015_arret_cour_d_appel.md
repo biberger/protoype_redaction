@@ -3,7 +3,7 @@ doc_type: arret_cour_d_appel
 jurisdiction: BE
 lang: fr
 ---
-COUR D'APPEL DE BRUXELLES
+[[court|COUR D'APPEL DE BRUXELLES]]
 [[court|Cour d'appel de Bruxelles]]
 Chambre 3B
 

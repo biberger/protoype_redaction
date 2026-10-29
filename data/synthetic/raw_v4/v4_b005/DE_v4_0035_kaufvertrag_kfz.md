@@ -55,7 +55,7 @@ Der Käufer meldet das Fahrzeug innerhalb von zwei Wochen bei der [[organization
 
 Änderungen dieses Vertrags bedürfen der Schriftform. Sollte eine Bestimmung unwirksam sein, bleibt der Vertrag im Übrigen wirksam. Gerichtsstand ist Kassel, soweit der Käufer Kaufmann ist.
 
-Ringsheim, den [[date|18.04.2026]]
+[[location|Ringsheim]], den [[date|18.04.2026]]
 
 Verkäufer: [[person|Heero Unger]]
 

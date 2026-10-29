@@ -9,7 +9,7 @@ Kraftfahrt-Schadenabteilung, [[address|Rheinallee 40, 56068 Koblenz]]
 [[person|Světla Sedláčková]]
 [[address|Droste-Hülshoff-Weg 5, 56659 Burgbrohl]]
 
-Koblenz, [[date|14.03.2026]]
+[[location|Koblenz]], [[date|14.03.2026]]
 
 Ihre Schadennummer: [[other_identifier|SCH-88213-DE]]
 Versicherungsschein-Nr.: [[other_identifier|VS-4471-0092-26]]

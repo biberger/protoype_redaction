@@ -89,7 +89,7 @@ Interne E-Mail vom [[date|10. März 2026]], Auszug:
 
 > ich hab den vertrag fertig, [[person|mansur]] soll ihn bis freitag unterschreiben. bitte [[person|feld]] nochmal die gehaltsstufe checken, [[organization|homann möbel e.k.]] will 4200 nicht mehr zahlen.
 
-Renkenberge, den [[date|14. März 2026]]
+[[location|Renkenberge]], den [[date|14. März 2026]]
 
 [[organization|Homann Möbel e.K.]]
 

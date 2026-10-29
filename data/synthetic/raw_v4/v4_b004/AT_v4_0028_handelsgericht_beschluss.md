@@ -31,7 +31,7 @@ Der Antrag ist nicht ordnungsgemäß belegt. Die Anmeldung nach [[legal_norm|§ 
 
 Im Zuge der Prüfung ging folgende Nachricht bei der Rechtsanwältin ein und wurde dem Gericht übermittelt:
 
-> hallo shaghayegh, der richter will die firmenbuchanmeldung bis freitag. ich habe das fahrzeug mit dem kennzeichen la-82633 o gesehen, das gehört zu thaler. bitte schick mir den entwurf, gruß m***** e*****
+> hallo [[lawyer|shaghayegh]], der richter will die firmenbuchanmeldung bis freitag. ich habe das fahrzeug mit dem kennzeichen [[license_plate|la-82633 o]] gesehen, das gehört zu [[organization|thaler]]. bitte schick mir den entwurf, gruß [[person|m***** e*****]]
 
 Die Angaben in dieser Nachricht sind nicht geeignet, die Identität des Antragstellers zu belegen. Eine Eintragung nach [[legal_norm|§ 9 Abs 1 FBG]] unterbleibt daher.
 

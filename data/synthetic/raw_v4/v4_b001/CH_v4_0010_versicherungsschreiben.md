@@ -4,7 +4,7 @@ jurisdiction: CH
 lang: de
 ---
 Alpstein Sach Versicherungen AG
-Schadenabteilung · Eulachstrasse 19 · 8400 Winterthur
+Schadenabteilung · [[address|Eulachstrasse 19 · 8400 Winterthur]]
 [[company_register_number|CHE-805.709.245]] · Telefon [[phone_number|+41 52 214 67 30]]
 
 [[organization|ZUMSTEIN HANDELS SA]]
@@ -13,7 +13,7 @@ Schadenabteilung · Eulachstrasse 19 · 8400 Winterthur
 Ihr Zeichen: Z-HS/2026/14
 Unser Zeichen: SB/TB-2026-0318
 
-Winterthur, [[date|18. März 2026]]
+[[location|Winterthur]], [[date|18. März 2026]]
 
 Schadenmeldung betreffend Lagerhalle an der Liegenschaft [[address|Ballonstrasse 9, 3985 Geschinen]]
 Versicherungsnummer [[other_identifier|KH-7731-0045-22]]

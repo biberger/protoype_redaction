@@ -90,8 +90,17 @@ RARE_LABEL_TYPES = {
     "certificat_de_cession_vehicule", "titre_de_sejour_decision", "proces_verbal_audition", "strafbefehl"}
 # rare-label entities, 1-3 per brief in v4
 RARE_KINDS = ("license_plate", "id_document_number", "street", "phone_number", "email")
-PRE_DEGREES = ["Dr.", "Mag.", "DI", "Ing.", "MMag.", "Dr. med.", "Prof. Dr.", "Univ.-Prof. Dr.", "Dr. Dr.",
-               "Prof. Dr. Dr.", "Mag. Dr.", "Dipl.-Ing. Dr.", "DDr.", "Priv.-Doz. Dr."]
+# degrees by country: Mag./DI/MMag. are Austrian; Germany writes Dipl.-Ing., Switzerland lic. iur./MLaw
+DEGREES = {"AT": ["Dr.", "Mag.", "DI", "Ing.", "MMag.", "Dr. med.", "BSc", "MBA"],
+           "DE": ["Dr.", "Dipl.-Ing.", "Dr. med.", "Dipl.-Kfm.", "Prof. Dr.", "B.Sc.", "M.A."],
+           "CH": ["Dr.", "lic. iur.", "Dr. med.", "MLaw", "Prof. Dr.", "dipl. Ing. ETH"]}
+DEGREES["LI"] = DEGREES["AT"]
+PRE_DEGREES = {"AT": ["Dr.", "Mag.", "DI", "MMag.", "Dr. med.", "Prof. Dr.", "Univ.-Prof. Dr.", "Dr. Dr.",
+                      "Prof. Dr. Dr.", "Mag. Dr.", "Dipl.-Ing. Dr.", "DDr.", "Priv.-Doz. Dr."],
+               "DE": ["Dr.", "Prof. Dr.", "Dr. Dr.", "Prof. Dr. Dr.", "Dipl.-Ing.", "Dr. med.", "Dr.-Ing.",
+                      "Priv.-Doz. Dr."],
+               "CH": ["Dr.", "Prof. Dr.", "Dr. iur.", "lic. iur.", "Dr. med.", "Dr. Dr."]}
+PRE_DEGREES["LI"] = PRE_DEGREES["AT"]
 POST_DEGREES = ["MBA", "BSc", "MSc", "LL.M.", "PhD", "MBA PhD (New York)", "LL.M. (Harvard)", "MSc (London)",
                 "BA", "MAS", "MBA MSc"]
 PHONE_FORMATS = {
@@ -142,7 +151,8 @@ def _company(gaz, rng, jur, lang):
     if jur == "AT":
         company.update(register=F.fn(rng), vat=F.uid_at(rng))
     elif jur == "DE":
-        company.update(register=F.hrb(rng), register_court=rng.choice(F.DE_REGISTER_COURTS),
+        kind = "HRA" if re.search(r"e\.K\.|KG$", company["name"]) else "HRB"  # partnerships, sole traders: HRA
+        company.update(register=F.hrb(rng, kind), register_court=rng.choice(F.DE_REGISTER_COURTS),
                        vat=F.ust_idnr_de(rng), tax_number=F.steuernummer_de(rng))
     elif jur in ("CH", "LI"):
         company.update(register=F.che_uid(rng))
@@ -172,9 +182,9 @@ def _person(gaz, rng, jur, role=None, chains=False):
     gender = rng.choice("MF")
     p = {"name": gaz.person(home, gender), "gender": gender}
     if rng.random() < 0.25 and jur in ("AT", "DE", "LI"):
-        p["degree"] = rng.choice(["Dr.", "Mag.", "DI", "Ing.", "MMag.", "Dr. med.", "BSc", "MBA"])
+        p["degree"] = rng.choice(DEGREES[jur])
     if chains and rng.random() < 0.07 and jur in ("AT", "DE", "LI", "CH"):  # "Prof. Dr. Dr. X, MBA PhD (New York)"
-        p["degree"] = rng.choice(PRE_DEGREES)
+        p["degree"] = rng.choice(PRE_DEGREES[jur])
         p["degree_after"] = rng.choice(POST_DEGREES)
     if role:
         p["role"] = role

@@ -43,7 +43,7 @@ Die Klägerin lässt sich durch den Rechtsanwalt [[lawyer|Miša Grbović]] vertr
 
 Aus einer Nachricht, die dem Gericht vorgelegt wurde, ergibt sich folgender Wortlaut:
 
-„hab dem herrn [[person|wunder]] gesagt dass die rechnung von tarzi gmbh bis freitag da sein muss, der [[person|walfried hausmann]] hat das abgesegnet. [[person|aly mutsch]] meinte dazu nur: wenn der [[person|kreuz]] das sagt, dann stimmt das schon. ich schick das dann morgen an den [[judge|brauner]].“
+„hab dem herrn [[person|wunder]] gesagt dass die rechnung von [[organization|tarzi gmbh]] bis freitag da sein muss, der [[person|walfried hausmann]] hat das abgesegnet. [[person|aly mutsch]] meinte dazu nur: wenn der [[person|kreuz]] das sagt, dann stimmt das schon. ich schick das dann morgen an den [[judge|brauner]].“
 
 Die Behörde hat die Anhörung der Klägerin am [[date|11. Februar 2026]] durchgeführt. Der Führerschein des Geschäftsführers wurde dabei mit der Nummer [[id_document_number|B076FAR4S93]] erfasst, da die Behörde auch die Fahrerlaubnis für Lieferfahrten überprüfte.
 

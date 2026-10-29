@@ -51,6 +51,12 @@ Working directory: ${root}. Use Python via \`python3\` from the repository root.
    \`python3 -m legalner.tagged ${args.out}/${batch} -o /tmp/${batch}.jsonl --strict && python3 -m legalner.audit /tmp/${batch}.jsonl\`
    and fix EVERY error, lint warning and audit finding before writing the next document. Lint warnings
    about untagged occurrences mean: tag that occurrence (or rephrase), never delete tags to silence them.
+   Then re-read the document once as a careful lawyer would and fix: chronology (every event after the one it
+   depends on, deadlines that work, no past-tense report of events after the document date), geography (the court
+   is competent for the place, addresses, plates and registers fit their region), consistent names, genders and
+   roles, and that the letterhead, the address block, the dateline ("[[location|Graz]], am ...") and the sign-off
+   are tagged. Passages in ALL CAPS or lower case: tag every name, company and place in them too.
+   Never reuse example values from GENERATION.md (e.g. the policy number KH-7731-0045-22 or W-49172L).
 6. Before finishing, run the command once more over the whole batch directory. Report the files you wrote
    and whether --strict passed and the audit was clean.`,
   { label: `gen:${batch}`, phase: 'Generate', schema: RESULT, model: 'haiku' })
