@@ -39,4 +39,4 @@ Gegen diesen Bescheid kann innerhalb von vier Wochen ab Zustellung Beschwerde be
 
 Für die Bezirkshauptmannschaft
 
-Mag. [[person|Nadine Pfeifer]]
+[[person|Mag. Nadine Pfeifer]]

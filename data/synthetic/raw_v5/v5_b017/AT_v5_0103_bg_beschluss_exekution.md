@@ -63,5 +63,5 @@ Gegen diesen Beschluss steht den Parteien ein Rekurs binnen vierzehn Tagen ab Zu
 
 [[location|Bludenz]], am [[date|17.09.2026]]
 
-Mag. [[judge|Eleonore Svoboda]]
+[[judge|Mag. Eleonore Svoboda]]
 Richterin

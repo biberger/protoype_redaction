@@ -48,7 +48,7 @@ Afin de compléter le dossier, merci de nous adresser sous quinze jours le justi
 
 Le courrier est à faire parvenir à l'adresse suivante : [[address|rue des Fontenelles 14, 37000 Tours]], avec copie à l'entreprise chargée des travaux, la société [[organization|Bâtiments Lacroix Frères SARL]].
 
-Le rapport d'expertise, daté du [[date|18 mars 2026]], précise que la remise en état du local nécessite le remplacement du revêtement de sol sur environ 310 mètres carrés, la réfection de deux cloisons et le contrôle électrique de l'installation. Les travaux ont été confiés à la société [[organization|Bâtiments Lacroix Frères SARL]] et doivent être achevés avant la fin du mois de novembre. Le devis, d'un montant de 58 400 euros hors taxes, a été validé par nos services le 30/03/2026.
+Le rapport d'expertise, daté du [[date|18 mars 2026]], précise que la remise en état du local nécessite le remplacement du revêtement de sol sur environ 310 mètres carrés, la réfection de deux cloisons et le contrôle électrique de l'installation. Les travaux ont été confiés à la société [[organization|Bâtiments Lacroix Frères SARL]] et doivent être achevés avant la fin du mois de novembre. Le devis, d'un montant de 58 400 euros hors taxes, a été validé par nos services le [[date|30/03/2026]].
 
 Nous attirons votre attention sur le fait que la franchise de 1 500 euros sera déduite de l'indemnité définitive, tandis que la franchise de la garantie responsabilité civile ne s'applique qu'aux dommages causés aux tiers. Aucun tiers n'ayant été mis en cause à ce jour, cette dernière franchise n'a pas été retenue.
 

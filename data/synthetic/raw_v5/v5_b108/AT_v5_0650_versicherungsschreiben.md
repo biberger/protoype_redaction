@@ -14,7 +14,7 @@ Schadenabteilung Kraftfahrt
 [[location|Wien]], am [[date|9. Oktober 2026]]
 
 Betreff: Schadenfall vom [[date|21. August 2026]]
-Schadennummer: HV-3389-1174-26
+Schadennummer: [[other_identifier|HV-3389-1174-26]]
 Kennzeichen des Fahrzeugs: [[license_plate|HL-8390 FK]]
 Versicherungsnehmerin: [[person|Waldtraud Preiss]]
 
@@ -88,7 +88,7 @@ Wir haben die Rechnung der [[organization|Renner KG]] zugeleitet. Die Werkstatt 
 
 Bitte bestätigen Sie uns bis spätestens [[date|30. November 2026]] schriftlich, dass die Selbstbeteiligung bei Ihnen beglichen ist und dass keine weiteren Ansprüche aus diesem Unfall gegen Sie erhoben wurden. Sollte die [[organization|Steidl Möbel GmbH]] einen höheren Ausfallschaden geltend machen, werden wir Sie unverzüglich informieren.
 
-Bei Fragen wenden Sie sich bitte an Ihre Sachbearbeiterin. Die Schadennummer HV-3389-1174-26 bitte bei allen Schreiben angeben. Telefonische Auskünfte erteilen wir werktags zwischen 8.00 und 16.00 Uhr. Für Rückfragen zur Kaskoabrechnung steht Ihnen zusätzlich die Schadenhotline zur Verfügung, deren Nummer Sie auf unserer Website finden.
+Bei Fragen wenden Sie sich bitte an Ihre Sachbearbeiterin. Die Schadennummer [[other_identifier|HV-3389-1174-26]] bitte bei allen Schreiben angeben. Telefonische Auskünfte erteilen wir werktags zwischen 8.00 und 16.00 Uhr. Für Rückfragen zur Kaskoabrechnung steht Ihnen zusätzlich die Schadenhotline zur Verfügung, deren Nummer Sie auf unserer Website finden.
 
 7. Hinweise zur Erledigung
 

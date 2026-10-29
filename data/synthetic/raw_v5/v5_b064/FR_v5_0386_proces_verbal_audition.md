@@ -36,7 +36,7 @@ Le témoin est assisté de Me [[lawyer|Elias Déri]], avocat au barreau de [[loc
 
 Un extrait de conversation interne, fourni par la société, a été présenté au témoin. Il est retranscrit tel qu'il apparaît à l'écran :
 
-« [[person|mychajlo chawariwskyj]] (06/03/2026, 22:14) : [[person|iryna]] dit qu'elle a pas le fichier, faut voir avec [[organization|informatique flandrin]] à [[location|lille]]. tu m'envoies la facture svp, le virement part sur [[bank_account|FR43 4304 5020 5165 5337 5259 160]] demain matin. [[person|chretienne]] n'a rien reçu non plus »
+« [[person|mychajlo chawariwskyj]] ([[date|06/03/2026]], 22:14) : [[person|iryna]] dit qu'elle a pas le fichier, faut voir avec [[organization|informatique flandrin]] à [[location|lille]]. tu m'envoies la facture svp, le virement part sur [[bank_account|FR43 4304 5020 5165 5337 5259 160]] demain matin. [[person|chretienne]] n'a rien reçu non plus »
 
 Interrogé sur ce message, le témoin indique qu'il a été écrit par [[person|Chawariwskyj]] et qu'il n'a pas été suivi d'effet. Elle reconnaît que le virement mentionné correspond au compte de la société mais précise qu'elle ignore si la somme a été réglée.
 

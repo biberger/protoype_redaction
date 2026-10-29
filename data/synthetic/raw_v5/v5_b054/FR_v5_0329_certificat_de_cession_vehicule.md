@@ -35,7 +35,7 @@ Marque: Peugeot
 Type: 308 SW
 Numéro d'identification (VIN): [[other_identifier|VF3LCYHZPHS102845]]
 Immatriculation: [[license_plate|PW-573-XR]]
-Date de première mise en circulation: 12/04/2019
+Date de première mise en circulation: [[date|12/04/2019]]
 Kilométrage au compteur: 84 120 km
 Énergie: essence
 Couleur: gris titane

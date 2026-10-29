@@ -70,5 +70,5 @@ Der Beschluss ist ohne Anhörung der Drittschuldnerin ergangen, weil die Gefahr 
 
 [[location|Baden]], am [[date|28. August 2026]]
 
-Mag. [[judge|Zitta Schwarzinger]]
+[[judge|Mag. Zitta Schwarzinger]]
 Rechtspflegerin

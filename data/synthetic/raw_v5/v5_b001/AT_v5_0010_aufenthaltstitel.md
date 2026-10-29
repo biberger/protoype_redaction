@@ -110,7 +110,7 @@ z. H. [[person|Mag. Ferenc Balogh]]
 
 Betreff: Zl. [[case_number|3.2-1187/2026]], Antrag der [[person|Bogdana Novotny]]
 
-Sehr geehrter Herr Mag. [[person|Balogh]],
+Sehr geehrter Herr [[person|Mag. Balogh]],
 
 in offener Frist erstatte ich im Namen meiner Mandantin folgende Stellungnahme zum Bescheid vom [[date|18.05.2026]]. Die Behörde hat den Sachverhalt in mehreren Punkten unrichtig festgestellt.
 

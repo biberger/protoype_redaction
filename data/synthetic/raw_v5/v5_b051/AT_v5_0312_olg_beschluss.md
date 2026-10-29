@@ -61,7 +61,7 @@ VI. Revisionsrekurs
 
 Der Revisionsrekurs ist nach [[legal_norm|§ 528 Abs 2 ZPO]] nicht zulässig, weil keine Rechtsfrage von erheblicher Bedeutung zu lösen war.
 
-Ing. [[judge|Ziska Munk]]
+[[judge|Ing. Ziska Munk]]
 [[judge|Liese Halm]]
 [[judge|Donate Walzel]]
 

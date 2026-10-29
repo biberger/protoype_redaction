@@ -29,7 +29,7 @@ Weg 12/24, 7473 Hannersdorf]], der ebenfalls übernommen wurde, bestätigte als 
 
 Die Beklagte wendet ein, der Kläger sei nicht mehr Dienstnehmer gewesen. Die Vertreterin der Nebenintervenientin übermittelte am [[date|18.03.2026]] folgende Nachricht, die im Verfahren vorgelegt wurde:
 
-„[[person|arsenius komarek]] ist ab 1. april nicht mehr bei [[organization|suppan ag]] beschäftigt, die unterlagen gehen an [[organization|lauda metallbau ag]] – bitte an [[person|bogomil jordan]] weiterleiten, adresse wie immer. [[lawyer|lohana boland]] kümmert sich um die abrechnung.“
+„[[person|arsenius komarek]] ist ab [[date|1. april]] nicht mehr bei [[organization|suppan ag]] beschäftigt, die unterlagen gehen an [[organization|lauda metallbau ag]] – bitte an [[person|bogomil jordan]] weiterleiten, adresse wie immer. [[lawyer|lohana boland]] kümmert sich um die abrechnung.“
 
 Rechtliche Beurteilung
 
@@ -43,4 +43,4 @@ Der Pkw mit dem Kennzeichen [[license_plate|I-8 UJ]] des Klägers wurde am [[dat
 
 [[location|Graz]], am [[date|14. Mai 2026]]
 
-Mag. [[judge|Walfrieda Heider]] e.h.
+[[judge|Mag. Walfrieda Heider]] e.h.

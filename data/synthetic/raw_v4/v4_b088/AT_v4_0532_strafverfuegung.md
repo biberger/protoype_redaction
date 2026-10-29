@@ -11,7 +11,7 @@ Herrn
 [[address|Madlsederstraße 12/9, 8292 Neudau]]
 
 GZ [[case_number|BHHF-VK-S-15387/2026]]
-Bearbeiterin: MMag. [[person|Meline Grandits]], Durchwahl 3140
+Bearbeiterin: [[person|MMag. Meline Grandits]], Durchwahl 3140
 
 [[location|Hartberg]], am [[date|29. September 2026]]
 
@@ -91,5 +91,5 @@ Der Kostenbeitrag ist gemäß [[legal_norm|§ 64 Abs 2 VStG]] mit 10 Prozent der
 
 Für die [[organization|Bezirkshauptmannschaft Hartberg-Fürstenfeld]]
 
-MMag. [[person|Meline Grandits]]
+[[person|MMag. Meline Grandits]]
 Sachbearbeiterin

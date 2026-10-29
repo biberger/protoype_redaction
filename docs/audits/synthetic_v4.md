@@ -74,3 +74,12 @@ All 2,000 briefs written (one missing document of batch 235 written separately);
 authority reference labelled other_identifier (now case_number). Artefact found in several waves: Ukrainian first names
 from the WGND gazetteer in Cyrillic next to a Latin surname ("Олена Nasarow", 34 spans in v4). The gazetteer now
 transliterates Cyrillic names (German style: Olena, Jewhenija, Illja); 31 v3/v4 files were transliterated in place.
+
+## Synthetic v5 (in progress)
+
+Plan `data/synthetic/plans/v5.jsonl` (`genplan --docs 2000 --wave v5 --seed 53 --pseudo-frac 0.35`): same matrix and
+rare-label design as v4, new casts, 35 % of AT court documents RIS-pseudonymised (fully tagged, unlike real RIS).
+Spot audit of 6 documents from the first finished batches: 8 errors (2 places, 2 yearless dates in e-mails, a
+numeric date with slashes, a degree outside a judge span, a claim number twice). New lint rules: dd/mm/yyyy dates
+and degrees directly before a person/judge/lawyer span; they found 26 degree and 9 slash-date misses in v4 and the
+finished v5 batches, fixed by script.

@@ -4,7 +4,7 @@ jurisdiction: AT
 lang: de
 ---
 [[organization|ROSSI RECHTSANWÄLTE]]
-Mag. [[lawyer|Anelie Rossi]], Rechtsanwältin
+[[lawyer|Mag. Anelie Rossi]], Rechtsanwältin
 [[address|Museumstraße 9/3, 6020 Innsbruck]] · Tel. [[phone_number|+43 512 7526291]]
 
 An das
@@ -98,7 +98,7 @@ der Kläger ist schuldig, der beklagten Partei die Kosten des Verfahrens binnen 
 
 [[location|Innsbruck]], am [[date|14.09.2026]]
 
-Mag. [[lawyer|Anelie Rossi]]
+[[lawyer|Mag. Anelie Rossi]]
 Rechtsanwältin
 
 Beilagen: ./A Projektvertrag vom [[date|2. Juli 2025]]; ./B Änderungsprotokoll; ./C Kontoauszug der beklagten Partei

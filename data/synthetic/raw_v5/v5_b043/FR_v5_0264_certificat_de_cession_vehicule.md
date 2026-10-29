@@ -43,4 +43,4 @@ Le cessionnaire :
 
 Mention portée par le cessionnaire, sous forme de message électronique transmis au service de la cession :
 
-« bonjour, je confirme avoir reçu le certificat signé le 28/04/2026. le véhicule est bien chez nous depuis le 2 mai. pour toute question : [[person|didius belle]], [[email|d.belle@plomberie-legoff.fr]] »
+« bonjour, je confirme avoir reçu le certificat signé le [[date|28/04/2026]]. le véhicule est bien chez nous depuis le 2 mai. pour toute question : [[person|didius belle]], [[email|d.belle@plomberie-legoff.fr]] »

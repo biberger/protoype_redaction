@@ -55,7 +55,7 @@ IX. Schlussbestimmungen
 
 Gerichtsstand ist [[location|Hartberg]]. Anzuwenden ist österreichisches Recht unter Ausschluss des Kollisionsrechts.
 
-Der Vertragserrichter, Dr. [[lawyer|Helmuth Rainer]], Notar in [[location|Hartberg]], bestätigt die Identität der Vertragsparteien und die Rechtswirksamkeit dieses Vertrages.
+Der Vertragserrichter, [[lawyer|Dr. Helmuth Rainer]], Notar in [[location|Hartberg]], bestätigt die Identität der Vertragsparteien und die Rechtswirksamkeit dieses Vertrages.
 
 
 X. Vorkaufs- und Genehmigungsvorbehalt
@@ -107,4 +107,4 @@ Unterschriften:
 [[person|Misha Schaffer]] für die [[organization|Beer GmbH]] ____________________
 [[person|Nicola Stanković]] ____________________
 
-Dr. [[lawyer|Helmuth Rainer]], Notar ____________________
+[[lawyer|Dr. Helmuth Rainer]], Notar ____________________

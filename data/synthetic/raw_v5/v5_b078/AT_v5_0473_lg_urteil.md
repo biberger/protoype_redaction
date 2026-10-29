@@ -55,7 +55,7 @@ III. Beweiswürdigung
 
 Das Gericht stützt seine Feststellungen auf das schlüssige Gutachten der Sachverständigen, die den Befund am Objekt selbst erhoben hat. Die Angaben des Zeugen [[person|Reiche]] zum Wassereintritt im Herbst 2024 sind glaubwürdig, weil er die Stelle zuvor selbst fotografiert hatte. Die Aussage der Zeugin [[person|Riedl]] ist vorsichtig formuliert und wird nur insoweit berücksichtigt, als sie die Schilderung der Klägerin stützt.
 
-Die Einwendung der beklagten Partei, die Dämmung sei auf Wunsch der Kläger ohne Hinterlüftung ausgeführt worden, konnte nicht bewiesen werden. Ein schriftlicher Auftrag dazu fehlt; die Kläger haben einen mündlichen Hinweis bestritten, und die beklagte Partei hat die Abweichung von der Norm nicht dokumentiert.
+Die Einwendung der beklagten Partei, die Dämmung sei auf Wunsch der Kläger ohne Hinterlüftung ausgeführt worden, konnte nicht bewiesen werden. Ein schriftlicher Auftrag dazu fehlt; die Kläger haben einen mündlichen Hinweis bestritten, und die beklagte Partei hat die Abweichung von der Norm nicht dokumentiert. Die Behauptung eines Auftrags zur Ausführung ohne Hinterlüftung wurde erst im Schriftsatz vom [[date|4. Juni 2025]] aufgestellt und in der Tagsatzung nicht wiederholt, sodass sie als nachträglich vorgebracht zu werten ist.
 
 Die Forderung auf Ersatz der Nebenkosten für Gerüst, Entsorgung und Trocknungsgeräte in Höhe von 3.815 Euro ist nicht ausreichend belegt. Die vorgelegten Rechnungen tragen kein Leistungsdatum und sind teilweise an eine dritte Person adressiert. Insoweit war das Mehrbegehren abzuweisen.
 

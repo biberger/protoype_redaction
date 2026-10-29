@@ -30,7 +30,7 @@ Frau [[person|Dragić]] war zuvor bei der [[organization|Fahim & Baha KG]], [[co
 
 Zur Identität legte die Antragstellerin den Reisepass Nr. [[id_document_number|P9811362]] vor. Die Sozialversicherungsnummer lautet [[social_security_number|1186 060611]]. Die Lichtbilder wurden am [[date|9. Juli 2026]] auf der [[street|Dominikanergasse]] angefertigt.
 
-Die Gebühr von EUR 150,00 wurde auf das Konto [[bank_account|AT92 6408 5382 3442 1316]] überwiesen. Der zuständige Sachbearbeiter ist Mag. [[person|Lukas Brenner]].
+Die Gebühr von EUR 150,00 wurde auf das Konto [[bank_account|AT92 6408 5382 3442 1316]] überwiesen. Der zuständige Sachbearbeiter ist [[person|Mag. Lukas Brenner]].
 
 Rechtsmittelbelehrung: Gegen diesen Bescheid kann innerhalb von vier Wochen ab Zustellung Beschwerde an das [[court|Landesverwaltungsgericht Tirol]] erhoben werden. Die Beschwerde ist bei der Bezirkshauptmannschaft einzubringen und unterliegt einer Gebühr nach dem [[legal_norm|Gebührengesetz]].
 

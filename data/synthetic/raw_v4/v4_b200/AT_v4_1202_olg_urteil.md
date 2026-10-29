@@ -52,4 +52,4 @@ Der Zuspruch von EUR 3.250,00 sA ist somit nur hinsichtlich der Positionen 1 und
 [[location|Wien]], am [[date|18. Mai 2026]]
 
 Für die Richtigkeit der Ausfertigung:
-Mag. [[person|Brigitte Oswald]]
+[[person|Mag. Brigitte Oswald]]

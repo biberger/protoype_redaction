@@ -64,7 +64,8 @@ MONTHS_DE = "Jänner|Januar|Februar|Feber|März|April|Mai|Juni|Juli|August|Septe
 MONTHS_FR = "janvier|février|mars|avril|mai|juin|juillet|août|septembre|octobre|novembre|décembre"
 DATE_RE = re.compile(
     rf"(?<![\w./-])(?:[0-3]?\d\.\s?[01]?\d\.\s?(?:19|20)\d\d|[0-3]?\d\.\s(?:{MONTHS_DE})\s(?:19|20)\d\d|"
-    rf"(?:1er|[0-3]?\d)\s(?:{MONTHS_FR})\s(?:19|20)\d\d|(?:19|20)\d\d-[01]\d-[0-3]\d)(?![\w/-])")
+    rf"(?:1er|[0-3]?\d)\s(?:{MONTHS_FR})\s(?:19|20)\d\d|(?:19|20)\d\d-[01]\d-[0-3]\d|"
+    r"[0-3]\d/[01]\d/(?:19|20)\d\d)(?![\w/-])")
 TAG_RE = re.compile(r"\[\[([A-Za-z_]+)\|([^\[\]|]+?)\]\]")
 HEADER_RE = re.compile(r"\A---\n(.*?)\n---\n", re.S)
 
@@ -227,6 +228,7 @@ DATELINE = re.compile(r"(?m)^([A-ZÄÖÜ][\wäöüßéèô.\-]+(?:\s(?:an\sder|a
                       r"\s[A-ZÄÖÜ][\wäöüß.\-]+)?),\s(?:am\s|den\s|le\s|im\s)?(?:\d{1,2}\.?\s?(?:\d{1,2}\.|[A-Za-zäéû]+)|\[\[date)")
 
 
+DEGREE_BEFORE = re.compile(r"(?<![\w.])(?:Dr\.|Mag\.(?:a)?|MMag\.|DI|Dipl\.-Ing\.|Ing\.|Prof\.|DDr\.|Univ\.-Prof\.)\s$")
 IBAN_TEXT = re.compile(r"\b[A-Z]{2}\d{2}(?: ?[A-Z0-9]{4}){3,7}(?: ?[A-Z0-9]{1,3})?\b")
 CONTACT = re.compile(r"(?i)(?:\b(?:tel|tél|telefon|téléphone|phone|fax|mobil|mobile|handy|portable)\b\.?:?\s*"
                      r"(?:\(\w+\)\s*)?)((?:\+|00)?\d[\d /().\-]{6,}\d)|([\w.+\-]+@[\w\-]+(?:\.[\w\-]+)+)")
@@ -301,6 +303,10 @@ def lint(text, spans, fname):
         if not any(covered[m.start():m.end()]) and m.group()[:2] in ("AT", "DE", "CH", "LI", "FR", "BE", "LU", "IT", "NL"):
             line = text.count("\n", 0, m.start()) + 1
             warnings.append(f"{fname}:{line}: untagged IBAN {m.group()!r}")
+    for label, s, e, surface in spans:  # "Mag. [[judge|Heider]]": the degree belongs inside the span
+        if label in ("person", "judge", "lawyer") and DEGREE_BEFORE.search(text, max(0, s - 25), s):
+            line = text.count("\n", 0, s) + 1
+            warnings.append(f"{fname}:{line}: degree outside {label} span {surface!r}")
     for m in CONTACT.finditer(text):
         g = 1 if m.group(1) else 2
         if not any(covered[m.start(g):m.end(g)]):

@@ -35,7 +35,7 @@ Auszug aus der E-Mail der Zeugin [[person|Tanjura Harrer]] vom [[date|06.08.2026
 
 hallo, ich habe am [[date|28.07.]] gesehen wie der blaue golf am ortsende von [[location|winklarn]] mit ziemlich viel tempo vorbeigezogen ist. gefahren ist der [[person|philipp]], das sagt auch die [[person|conceição]] von nebenan. ich war deswegen schon mal bei der [[organization|bh amstetten]], die wissen wo ich wohne. lg [[person|tanjura harrer]]
 
-Die Rechtsanwältin Mag. [[lawyer|Margarite Herzog]] teilte mit Schreiben vom [[date|21.08.2026]] mit, dass sie Sie vertritt und Akteneinsicht begehrt. Die Akteneinsicht wurde gewährt; eine Stellungnahme ist bis dato nicht eingelangt. Die Behörde sieht daher von einer weiteren Einvernahme ab.
+Die Rechtsanwältin [[lawyer|Mag. Margarite Herzog]] teilte mit Schreiben vom [[date|21.08.2026]] mit, dass sie Sie vertritt und Akteneinsicht begehrt. Die Akteneinsicht wurde gewährt; eine Stellungnahme ist bis dato nicht eingelangt. Die Behörde sieht daher von einer weiteren Einvernahme ab.
 
 Beweiswürdigung
 

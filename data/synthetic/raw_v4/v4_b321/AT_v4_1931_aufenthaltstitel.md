@@ -59,5 +59,5 @@ Gegen diesen Bescheid kann innerhalb von vier Wochen ab Zustellung eine Beschwer
 [[location|Graz]], am [[date|27.04.2026]]
 
 Für den Landeshauptmann:
-Mag. [[person|Ulrike Hofbauer]]
+[[person|Mag. Ulrike Hofbauer]]
 Sachbearbeiterin

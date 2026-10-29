@@ -14,7 +14,7 @@ Die Antragstellerin ist Inhaberin des Reisepasses Nr. [[id_document_number|X9813
 
 Begründung
 
-Der Antrag vom [[date|18. März 2026]] wurde mit dem Lebensgefährten der Antragstellerin, Herrn [[person|Edwin Schenk]], begründet. Herr [[person|Schenk]] legte eine Bestätigung seines Dienstgebers, Ing. [[person|Poldi Krieger]], über ein Beschäftigungsverhältnis mit einem Nettoeinkommen über dem Richtsatz vor. Seine Versicherungsnummer lautet [[social_security_number|1605 160394]].
+Der Antrag vom [[date|18. März 2026]] wurde mit dem Lebensgefährten der Antragstellerin, Herrn [[person|Edwin Schenk]], begründet. Herr [[person|Schenk]] legte eine Bestätigung seines Dienstgebers, [[person|Ing. Poldi Krieger]], über ein Beschäftigungsverhältnis mit einem Nettoeinkommen über dem Richtsatz vor. Seine Versicherungsnummer lautet [[social_security_number|1605 160394]].
 
 Herr [[person|Schenk]] war bis zum Umzug nach [[location|Frauenberg]] in [[address|Timmelweg 19/2,
 6914 Hohenweiler]] gemeldet. Die Wohnungsbestätigung der Vermieterin, [[person|Edwine Greber, BSc]], datiert vom [[date|1. April 2026]].

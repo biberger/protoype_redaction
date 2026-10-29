@@ -45,7 +45,7 @@ II. Moyens
 
 Premier moyen : l'appelant soutient que la fuite provenait d'une canalisation commune dont l'entretien relevait du syndic et non de lui. Il produit un courriel adressé au syndic, rédigé en ces termes :
 
-"bonjour, la fuite au 2e vient de la colonne commune, pas de mon côté. j'ai déjà prévenu le syndic le 4 février. merci de transmettre à mme [[person|van hemelrijck]]. [[person|mehedi]]"
+"bonjour, la fuite au 2e vient de la colonne commune, pas de mon côté. j'ai déjà prévenu le syndic le [[date|4 février]]. merci de transmettre à mme [[person|van hemelrijck]]. [[person|mehedi]]"
 
 Le message ne mentionne pas la référence cadastrale ni l'adresse complète du bien. La Cour relève que le signataire est bien l'appelant, dont l'adresse électronique figure dans le bail.
 

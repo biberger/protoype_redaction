@@ -16,7 +16,7 @@ Le préfet d'Ille-et-Vilaine,
 
 Vu le [[legal_norm|CESEDA]], notamment les [[legal_norm|articles L. 421-1 et L. 421-2 du CESEDA]] ;
 
-Vu la demande de titre de séjour déposée le 03/03/2026 par M. [[person|Tolgahan Karcı]], ressortissant turc, né à [[location|Bursa]], domicilié [[address|12 bis allée des Glaïeuls, 35200 Rennes]] ;
+Vu la demande de titre de séjour déposée le [[date|03/03/2026]] par M. [[person|Tolgahan Karcı]], ressortissant turc, né à [[location|Bursa]], domicilié [[address|12 bis allée des Glaïeuls, 35200 Rennes]] ;
 
 Vu l'avis défavorable du service instructeur rendu après examen du dossier par M. [[person|Aldéric Rouxel]] ;
 

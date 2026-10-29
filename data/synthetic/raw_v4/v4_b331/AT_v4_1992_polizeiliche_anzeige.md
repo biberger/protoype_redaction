@@ -41,7 +41,7 @@ Die [[organization|Fetz Energie GmbH]] hat durch ihre Rechtsvertreterin Schadene
 
 Beweismittel
 
-Lichtbilder der Unfallstelle, Vermessungsprotokoll des DI [[person|Hruska]], Erstversorgungsbericht, Zeugenaussagen.
+Lichtbilder der Unfallstelle, Vermessungsprotokoll des [[person|DI Hruska]], Erstversorgungsbericht, Zeugenaussagen.
 
 Anzeige erstattet am [[date|12. Oktober 2026]] durch [[person|Björn Watzl]], GrInsp, [[organization|Polizeiinspektion Graz-Lend]].
 

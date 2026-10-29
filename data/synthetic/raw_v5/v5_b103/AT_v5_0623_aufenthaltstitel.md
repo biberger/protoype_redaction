@@ -42,4 +42,4 @@ Gegen diesen Bescheid kann innerhalb von vier Wochen nach Zustellung Beschwerde 
 [[location|St. Johann im Pongau]], am [[date|26. Februar 2026]]
 
 Für den Bezirkshauptmann:
-Mag. [[person|Bogdan Pfaff]]
+[[person|Mag. Bogdan Pfaff]]

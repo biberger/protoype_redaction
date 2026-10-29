@@ -10,7 +10,7 @@ Arrêt du [[date|14 avril 2026]]
 
 Composition: [[judge|Mahsuni Frei]], président.
 
-Dans la cause [[case_number|6B_587/2025]] opposant [[person|Tomohiro Geisser]], recourant, à [[person|Sivaloganathan Vogelsanger]], intimé, et au Ministère public, le recours est dirigé contre l'arrêt rendu le [[date|16 octobre 2025]] par la [[court|Cour d'appel pénal du Tribunal cantonal vaudois]].
+Dans la cause [[case_number|6B_587/2025]] opposant [[person|Tomohiro Geisser]], recourant, à [[person|Sivaloganathan Vogelsanger]], intimé, le recours est dirigé contre l'arrêt rendu le [[date|16 octobre 2025]] par la [[court|Cour d'appel pénal du Tribunal cantonal vaudois]].
 
 Faits:
 
@@ -18,11 +18,11 @@ A. Par jugement du [[date|9 juillet 2025]], le [[court|Tribunal de police de l'a
 
 B. Le lendemain, le prévenu avait écrit à [[person|Meropi Vogel]] un message versé au dossier: « [[person|meropi]], je repasse demain à [[location|villars-burquin]] pour le constat, [[person|ashkan]] a déjà les papiers du van, ne dis rien à [[person|sivalo]] ».
 
-C. [[person|Ashkan Diggelmann]], gérant de [[organization|Distribution Dahinden Sàrl]], domicilié à [[address|Gujerstrasse 16, 9506 Kalthäusern]], a déclaré que [[person|Geisser]] conduisait le véhicule avec son accord. La responsabilité civile a été gérée par [[organization|Stapfer Conseil AG]] ([[company_register_number|CHE-770.448.869]]), courtier mandaté par l'employeur.
+C. [[person|Ashkan Diggelmann]], gérant de [[organization|Distribution Dahinden Sàrl]], domicilié à [[address|Gujerstrasse 16, 9506 Kalthäusern]], a déclaré que [[person|Geisser]] conduisait le véhicule avec son accord. La responsabilité civile a été gérée par [[organization|Stapfer Conseil AG]] ([[company_register_number|CHE-770.448.869]]), courtier de l'employeur.
 
 D. [[person|Meropi Vogel]], domiciliée à [[address|Ulrichstrasse 7, 1423 Villars-Burquin]], a produit les factures médicales de [[person|Vogelsanger]].
 
-E. Le [[organization|Service des automobiles et de la navigation]] ([[organization|SAN]]) a retiré le permis de conduire n° [[id_document_number|964021173003]] de [[person|Tomohiro Geisser]] pour une durée de douze mois, par décision du [[date|21 mars 2025]].
+E. Le [[organization|Service des automobiles et de la navigation]] ([[organization|SAN]]) a retiré le permis de conduire n° [[id_document_number|964021173003]] de [[person|Tomohiro Geisser]], par décision du [[date|21 mars 2025]].
 
 F. Par arrêt du [[date|16 octobre 2025]], la [[court|Cour d'appel pénal du Tribunal cantonal vaudois]] a rejeté l'appel et confirmé le jugement.
 

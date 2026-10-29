@@ -4,7 +4,7 @@ jurisdiction: BE
 lang: fr
 ---
 [[court|TRIBUNAL DE PREMIERE INSTANCE DE NAMUR]]
-GREFFE CIVIL - RECU LE 23/03/2026
+GREFFE CIVIL - RECU LE [[date|23/03/2026]]
 [[organization|DEBUSSCHERE TEXTILE SRL]] - N° ENTREPRISE [[company_register_number|1547.064.777]]
 
 R.G. n° [[case_number|26/0457/A]]
@@ -33,11 +33,11 @@ Faits et procédure
 
 Par citation signifiée le [[date|9 janvier 2026]], la [[organization|Debusschere Textile SRL]] réclame à l'[[organization|Snoeck ASBL]] le paiement de factures impayées pour un montant de 48.300 euros, majoré des intérêts de retard. Elle appelle également en intervention [[person|De Sutter]], qui a signé le contrat-cadre au nom de l'association, et [[person|Wüest]], qui s'est porté caution personnelle de l'exécution de ce contrat.
 
-Il ressort des pièces que les parties ont conclu, en date du 09/06/2025, un contrat-cadre de fourniture de tissus techniques. Les livraisons ont été effectuées entre le [[date|4 juillet 2025]] et le [[date|28 août 2025]] dans un hangar situé [[street|rue des Tanneurs]] à [[location|Namur]]. Le bon de livraison final porte la mention d'un accusé de réception sans réserve, signé par un préposé de l'ASBL.
+Il ressort des pièces que les parties ont conclu, en date du [[date|09/06/2025]], un contrat-cadre de fourniture de tissus techniques. Les livraisons ont été effectuées entre le [[date|4 juillet 2025]] et le [[date|28 août 2025]] dans un hangar situé [[street|rue des Tanneurs]] à [[location|Namur]]. Le bon de livraison final porte la mention d'un accusé de réception sans réserve, signé par un préposé de l'ASBL.
 
 [[organization|Snoeck ASBL]] conteste la conformité de la marchandise. Elle invoque des défauts de teinture sur une partie des lots livrés et refuse le paiement du solde. Par ordonnance du [[date|2 février 2026]], le juge des référés a désigné [[person|Anatol Lievens]], ingénieur textile, en qualité d'expert. M. [[person|Lievens]] a déposé son rapport le [[date|19/03/2026]].
 
-L'affaire a été plaidée à l'audience du [[date|11 mars 2026]] devant la juge [[judge|Justine Hoste]], assistée de la juge [[judge|Joséphine-Charlotte Bosch]]. Les conclusions additionnelles et de synthèse, reçues au greffe le 23/03/2026, ont clôturé les débats.
+L'affaire a été plaidée à l'audience du [[date|11 mars 2026]] devant la juge [[judge|Justine Hoste]], assistée de la juge [[judge|Joséphine-Charlotte Bosch]]. Les conclusions additionnelles et de synthèse, reçues au greffe le [[date|23/03/2026]], ont clôturé les débats.
 
 Moyens
 
@@ -57,7 +57,7 @@ Quant aux factures restant dues, l'ASBL ne conteste pas la réalité des command
 
 Il n'est pas contesté que [[person|De Sutter]] a agi en qualité de mandataire de l'ASBL. Ce mandat ne lui est pas personnellement opposable, sauf faute grave, qui n'est pas démontrée en l'espèce. La demande dirigée contre lui doit dès lors être rejetée.
 
-L'engagement de [[person|Wüest]] est un cautionnement, dont l'étendue est fixée par l'acte. Le plafond de 10.000 euros est clairement mentionné dans l'acte signé le 09/06/2025 ; il s'applique aux seules créances en principal et exclut les intérêts.
+L'engagement de [[person|Wüest]] est un cautionnement, dont l'étendue est fixée par l'acte. Le plafond de 10.000 euros est clairement mentionné dans l'acte signé le [[date|09/06/2025]] ; il s'applique aux seules créances en principal et exclut les intérêts.
 
 Le contrat ayant été exécuté pour la majeure partie, et le bon de livraison signé sans réserve étant un commencement de preuve de la réception au sens des [[legal_norm|articles 1341 et suivants du Code civil]], la résolution sollicitée par l'ASBL, fondée sur les [[legal_norm|articles 1134 et 1184 du Code civil]] dans leur version applicable aux faits, ne peut être accueillie. La réduction du prix proportionnellement aux défauts constatés est en revanche justifiée.
 

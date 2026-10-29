@@ -490,3 +490,10 @@ def test_gazetteer_transliterates_cyrillic():
     from legalner.gazetteers import transliterate
     assert transliterate("Олена Nasarow") == "Olena Nasarow"
     assert transliterate("Євгенія") == "Jewhenija"
+
+
+def test_lint_flags_slash_dates_and_degree_outside_span(tmp_path):
+    _, warnings = parse_file(write_doc(tmp_path, "Expertise du 11/02/2025. Gezeichnet Mag. [[judge|Walfrieda Heider]]."),
+                             "synthetic")
+    text = "\n".join(warnings)
+    assert "untagged date '11/02/2025'" in text and "degree outside judge span" in text

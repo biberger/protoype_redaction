@@ -19,7 +19,7 @@ Unser Zeichen: AK/26/1184
 
 Betrifft: [[organization|Ecker GmbH]] ./. [[person|Fülep]], Forderung aus dem Werkvertrag vom [[date|14. März 2025]]
 
-Sehr geehrter Herr Dr. [[person|Fülep]],
+Sehr geehrter Herr [[person|Dr. Fülep]],
 
 ich vertrete die [[organization|Ecker GmbH]], [[company_register_number|FN 25895g]], UID-Nummer [[tax_id|ATU04625165]], mit Sitz in [[location|Georgsberg]]. Meine Mandantin hat mich beauftragt, Sie zur Zahlung des offenen Werklohns aufzufordern.
 

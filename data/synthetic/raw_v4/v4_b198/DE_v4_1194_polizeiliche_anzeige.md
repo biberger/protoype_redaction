@@ -65,7 +65,7 @@ Bewertung
 
 Das Fahrtenbuch des Lieferwagens [[license_plate|K-AU 1]] weist für die Monate Oktober und November 2025 insgesamt elf Fahrten nach [[location|Bremen]] aus. Die Fahrtziele decken sich nach dem Vergleich mit den Lieferscheinen nicht mit den Auftragsadressen der [[organization|Vidal & Vogel GmbH & Co. KG]]. Das Lager der [[organization|Schwarze & Mahler GmbH & Co. KG]] ist in [[location|Bremen]] belegt, ein Lieferauftrag an diese Firma liegt jedoch nicht vor.
 
-Ob die Umleitung der Zahlungen schriftlich vereinbart wurde, ist noch offen. Dr. [[person|Otmar Hundt]] hat die Umsatzsteuervoranmeldungen der Anzeigeerstatterin für das Jahr 2025 geprüft. Die offenen Rechnungen sind dort ordnungsgemäß erfasst; die Umsatzsteuer von rund 13.460 EUR wurde bereits abgeführt. Ein Vermögensvorteil des Beschuldigten ist bislang nicht festgestellt. Die Ermittlungen dazu dauern an.
+Ob die Umleitung der Zahlungen schriftlich vereinbart wurde, ist noch offen. [[person|Dr. Otmar Hundt]] hat die Umsatzsteuervoranmeldungen der Anzeigeerstatterin für das Jahr 2025 geprüft. Die offenen Rechnungen sind dort ordnungsgemäß erfasst; die Umsatzsteuer von rund 13.460 EUR wurde bereits abgeführt. Ein Vermögensvorteil des Beschuldigten ist bislang nicht festgestellt. Die Ermittlungen dazu dauern an.
 
 Bemerkungen
 

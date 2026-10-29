@@ -44,7 +44,7 @@ Die Gegnerin hat mit Schreiben vom [[date|8. Oktober 2026]] per E-Mail folgende 
 
 > sehr geehrter herr rechtsanwalt [[lawyer|schatz]], ich bin mit dem wegerecht nicht einverstanden und habe mit herrn [[person|nagele]] bereits gesprochen. er meint, die liste der eigentümer sei nicht vollständig. bitte schicken sie mir die unterlagen noch einmal, danke. mit freundlichen grüßen [[person|zlatica fabris]], wohnhaft [[address|ulmenweg 7, 8321 sankt margarethen an der raab]]
 
-Die E-Mail wurde vom Vertreter an die Vollmachtgeber weitergeleitet. Dr. [[person|Nagele]] hat bestätigt, dass die Liste der Miteigentümer vollständig ist.
+Die E-Mail wurde vom Vertreter an die Vollmachtgeber weitergeleitet. [[person|Dr. Nagele]] hat bestätigt, dass die Liste der Miteigentümer vollständig ist.
 
 V. Erklärungen der Vollmachtgeber
 

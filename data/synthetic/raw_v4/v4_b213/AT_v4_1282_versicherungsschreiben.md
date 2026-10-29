@@ -38,7 +38,7 @@ Die Scheune gehört Frau [[person|Zweig]]. Herr [[person|Grünwald]] nutzt den r
 
 2. Besichtigung und Gutachten
 
-Der Sachverständige Ing. [[person|Milena Hrdlicka]] hat das Objekt am [[date|22. Juli 2026]] besichtigt und ein Gutachten erstellt. Darin werden folgende Schäden festgestellt:
+Der Sachverständige [[person|Ing. Milena Hrdlicka]] hat das Objekt am [[date|22. Juli 2026]] besichtigt und ein Gutachten erstellt. Darin werden folgende Schäden festgestellt:
 
 Dachdeckung und Lattung | EUR 6.240,– netto
 Dachrinne und Fallrohre | EUR 710,– netto
@@ -73,7 +73,7 @@ Für die Zuordnung der Zahlung an den Mitversicherten benötigen wir noch die So
 
 6. Ergänzende Feststellungen
 
-Bei der Nachbesichtigung am [[date|5. September 2026]] hat Ing. [[person|Hrdlicka]] festgestellt, dass die Balken im Dachstuhl über dem Lagerraum durch die Feuchtigkeit gequollen sind. Der Befund ist im Gutachten als Folgeschaden erfasst. Ein Teil dieser Kosten ist jedoch auf die mangelnde Dachdämmung zurückzuführen, die bereits vor dem Sturmereignis bestanden hat. Diese Position wird daher nur anteilig berücksichtigt, und zwar mit einer Quote von zwei Dritteln der Holzsanierung.
+Bei der Nachbesichtigung am [[date|5. September 2026]] hat [[person|Ing. Hrdlicka]] festgestellt, dass die Balken im Dachstuhl über dem Lagerraum durch die Feuchtigkeit gequollen sind. Der Befund ist im Gutachten als Folgeschaden erfasst. Ein Teil dieser Kosten ist jedoch auf die mangelnde Dachdämmung zurückzuführen, die bereits vor dem Sturmereignis bestanden hat. Diese Position wird daher nur anteilig berücksichtigt, und zwar mit einer Quote von zwei Dritteln der Holzsanierung.
 
 Die Lagerung von Erntegut in der Scheune war im Vertrag nicht ausdrücklich vorgesehen. Wir haben dies geprüft und halten fest, dass die Einlagerung durch die Hausgemeinschaft mit Zustimmung der Eigentümerin erfolgte. Ein Ausschluss der Leistung aus diesem Grund kommt daher nicht in Betracht.
 

@@ -66,4 +66,4 @@ Mit freundlichen Grüßen
 [[person|Hiltraud Pongratz, MBA]]
 Schadenabteilung Sach
 
-Beilage: Gutachten Ing. [[person|Meštrović]] vom [[date|2. Februar 2026]]
+Beilage: Gutachten [[person|Ing. Meštrović]] vom [[date|2. Februar 2026]]

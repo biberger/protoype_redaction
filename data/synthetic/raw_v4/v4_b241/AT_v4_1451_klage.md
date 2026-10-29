@@ -91,5 +91,5 @@ Beilagen:
 
 Für die Klägerin:
 
-Mag. [[lawyer|Irina Lenz]]
+[[lawyer|Mag. Irina Lenz]]
 Rechtsanwältin

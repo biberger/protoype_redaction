@@ -106,7 +106,7 @@ Bremsflüssigkeit   [[date|3. Februar 2026]]   183.070 km
 
 4. Die Winterreifen mit einer Dimension von 205/55 R16 weisen eine Profiltiefe von etwa fünf Millimetern auf. Die Sommerreifen liegen im Kofferraum und sind im Übergabeumfang enthalten.
 
-5. Die Verkäufer haben die Werkstattunterlagen des Ing. [[person|Takáč]] aus den Jahren 2023 bis 2026 vollständig an den Käufer übergeben. Die Vollständigkeit der Unterlagen ist ein wesentlicher Bestandteil dieses Vertrages.
+5. Die Verkäufer haben die Werkstattunterlagen des [[person|Ing. Takáč]] aus den Jahren 2023 bis 2026 vollständig an den Käufer übergeben. Die Vollständigkeit der Unterlagen ist ein wesentlicher Bestandteil dieses Vertrages.
 
 V b. Datenschutz
 

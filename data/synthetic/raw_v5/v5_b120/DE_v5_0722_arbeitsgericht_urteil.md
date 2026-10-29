@@ -35,7 +35,7 @@ hat die 2. Kammer des [[court|Arbeitsgerichts Konstanz]] auf die mündliche Verh
 
 Tatbestand
 
-Der Kläger war seit dem [[date|1. März 2021]] bei der Beklagten als Lagerarbeiter im Umschlagbetrieb beschäftigt. Sein Bruttomonatsentgelt betrug zuletzt 1.742,50 Euro. Die Beklagte betreibt in [[location|Konstanz]] ein Speditionsunternehmen mit rund 60 Beschäftigten.
+Der Kläger war seit dem [[date|1. März 2021]] bei der Beklagten als Lagerarbeiter im Umschlagbetrieb beschäftigt. Sein Bruttomonatsentgelt betrug zuletzt 1.742,50 Euro. Die Versicherungsnummer des Klägers lautet [[social_security_number|54 010240 W 633]]. Die Beklagte betreibt in [[location|Konstanz]] ein Speditionsunternehmen mit rund 60 Beschäftigten. Der schriftliche Arbeitsvertrag vom [[date|12.01.2021]] sieht eine Wochenarbeitszeit von 38,5 Stunden und eine Probezeit von sechs Monaten vor. Eine Abmahnung ist in der Personalakte nicht enthalten; der Kläger war bis zur streitgegenständlichen Kündigung disziplinarisch nicht aufgefallen, wie die Beklagte in der Verhandlung eingeräumt hat.
 
 Am [[date|9. Februar 2026]] gegen 21:40 Uhr soll auf dem [[street|Lortzingweg]] ein firmeneigener Transporter beim Rangieren beschädigt worden sein. Der Schaden an der linken hinteren Tür wurde am Morgen des [[date|10.02.2026]] festgestellt.
 
@@ -50,9 +50,9 @@ Sehr geehrter Herr [[person|Stratan]], bitte erscheinen Sie am Mittwoch um 8:30 
 
 Die Beklagte kündigte mit Schreiben vom [[date|14. Februar 2026]], dem Kläger am selben Tag übergeben, außerordentlich mit sozialer Auslauffrist zum [[date|31. März 2026]], hilfsweise ordentlich zum selben Zeitpunkt.
 
-Der Kläger hat am [[date|3. März 2026]] Kündigungsschutzklage erhoben und die Weiterbeschäftigung verlangt.
+Der Kläger hat am [[date|3. März 2026]] Kündigungsschutzklage erhoben und die Weiterbeschäftigung verlangt. In der Güteverhandlung vom [[date|17.03.2026]] kam keine Einigung zustande.
 
-Die Beklagte beantragt die Abweisung der Klage. Sie ist der Auffassung, der Kläger habe den Transporter beschädigt und sich danach mit einer unzutreffenden Darstellung entlastet. Der Kläger bestreitet dies.
+Die Beklagte beantragt die Abweisung der Klage. Sie ist der Auffassung, der Kläger habe den Transporter beschädigt und sich danach mit einer unzutreffenden Darstellung entlastet. Der Kläger bestreitet dies. Die Beklagte hat außerdem vorgetragen, der Kläger habe am Abend des [[date|9. Februar 2026]] ein Mobiltelefon in der Nähe des Fahrzeugs benutzt. Der Kläger hat dies bestritten und auf die Dienstpläne verwiesen, aus denen sich ergibt, dass er um 21:00 Uhr das Lager verlassen hat.
 
 Die Zeugin [[person|Grünewald]] bekundete in der Verhandlung, am Morgen des [[date|10.02.2026]] sei an der Tür ein Schaden sichtbar gewesen. Der Transporter sei am Vorabend jedoch von einem Kollegen der Spätschicht bewegt worden, dessen Name sie nicht nennen könne.
 
@@ -60,13 +60,15 @@ Entscheidungsgründe
 
 I. Die Klage ist zulässig. Sie ist nach [[legal_norm|§ 4 Satz 1 KSchG]] fristgerecht erhoben, denn die Klage ist am [[date|3. März 2026]] und damit innerhalb von drei Wochen nach Zugang der Kündigung bei Gericht eingegangen.
 
-II. Die Klage ist begründet. Die außerordentliche Kündigung ist unwirksam, weil ein wichtiger Grund im Sinne von [[legal_norm|§ 626 Abs. 1 BGB]] nicht bewiesen ist. Die Beklagte trägt die Darlegungs- und Beweislast dafür, dass der Kläger den Schaden verursacht hat. Die Zeugin [[person|Grünewald]] konnte keine Person benennen, die den Schaden gesehen hat, und die Beklagte hat keine Aufzeichnungen des Betriebsgeländes vorgelegt.
+II. Die Klage ist begründet. Die außerordentliche Kündigung ist unwirksam, weil ein wichtiger Grund im Sinne von [[legal_norm|§ 626 Abs. 1 BGB]] nicht bewiesen ist. Die Beklagte trägt die Darlegungs- und Beweislast dafür, dass der Kläger den Schaden verursacht hat. Die Zeugin [[person|Grünewald]] konnte keine Person benennen, die den Schaden gesehen hat, und die Beklagte hat keine Aufzeichnungen des Betriebsgeländes vorgelegt. Die vom Kläger vorgelegten Dienstpläne belegen, dass er das Lagergelände nach 21:00 Uhr nicht mehr betreten hat. Die Beklagte hat die vorhandenen Aufnahmen der Hofkamera nicht vorgelegt, obwohl sie dazu in der Verhandlung aufgefordert worden war; ein Zeuge aus der Spätschicht ist nicht benannt worden.
 
 Die Anhörung des Betriebsrats nach [[legal_norm|§ 102 Abs. 1 BetrVG]] ist ordnungsgemäß erfolgt. Sie ändert jedoch nichts an der fehlenden Tatsachengrundlage. Die Kündigung ist auch als ordentliche Kündigung nicht durch Gründe im Sinne von [[legal_norm|§ 1 Abs. 2 KSchG]] i.V.m. [[legal_norm|§ 626 Abs. 1 BGB]] gerechtfertigt; eine Verhaltenskündigung setzt eine erwiesene Pflichtverletzung voraus.
 
 Die Kündigung ist deshalb sozial ungerechtfertigt. Der Kläger hat sich wirksam auf den Bestandsschutz berufen, sodass die Kündigung das Arbeitsverhältnis nicht zum [[date|31. März 2026]] beendet hat. Eine ordentliche Kündigungsfrist nach [[legal_norm|§ 622 Abs. 2 BGB]] hätte bei einer Betriebszugehörigkeit von mehr als fünf Jahren ohnehin nicht zu einem früheren Zeitpunkt geführt.
 
-III. Der Anspruch auf Vergütung für April und Mai 2026 folgt aus [[legal_norm|§ 615 Satz 1 BGB]] i.V.m. dem Arbeitsvertrag, da der Kläger seine Arbeitskraft ab dem [[date|1. April 2026]] angeboten hat und die Beklagte die Annahme verweigert hat. Die Zinsen ergeben sich aus [[legal_norm|§ 288 Abs. 1 BGB]].
+III. Der Anspruch auf Vergütung für April und Mai 2026 folgt aus [[legal_norm|§ 615 Satz 1 BGB]] i.V.m. dem Arbeitsvertrag, da der Kläger seine Arbeitskraft ab dem [[date|1. April 2026]] angeboten hat und die Beklagte die Annahme verweigert hat. Die Zinsen ergeben sich aus [[legal_norm|§ 288 Abs. 1 BGB]]. Die Vergütung berechnet sich aus zwei Monatsentgelten zu je 1.742,50 Euro brutto, wobei die Beklagte keine Anrechnung anderweitigen Verdienstes nach [[legal_norm|§ 615 Satz 2 BGB]] geltend gemacht hat.
+
+Den Antrag auf Weiterbeschäftigung hat der Kläger mit Schriftsatz vom [[date|2. Juni 2026]] zurückgenommen, sodass darüber nicht zu entscheiden ist.
 
 IV. Die Kostenentscheidung beruht auf [[legal_norm|§ 91 Abs. 1 ZPO]] i.V.m. [[legal_norm|§ 46 Abs. 2 ArbGG]]. Der Streitwert folgt aus [[legal_norm|§ 61 Abs. 1 ArbGG]].
 

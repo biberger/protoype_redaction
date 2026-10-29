@@ -26,7 +26,7 @@ Le bailleur donne en location aux locataires un appartement de trois chambres si
 
 Article 2. Durée
 
-Le bail est conclu pour une durée de neuf ans, prenant cours le 01/09/2025. Il se renouvellera tacitement, sauf congé donné par écrit trois mois avant l'échéance, conformément à l'[[legal_norm|article 1758 du Code civil]].
+Le bail est conclu pour une durée de neuf ans, prenant cours le [[date|01/09/2025]]. Il se renouvellera tacitement, sauf congé donné par écrit trois mois avant l'échéance, conformément à l'[[legal_norm|article 1758 du Code civil]].
 
 Article 3. Loyer et charges
 
@@ -38,7 +38,7 @@ La garantie locative s'élève à deux mois de loyer, soit 1.790,00 euros. Elle 
 
 Article 5. État des lieux
 
-L'état des lieux d'entrée a été dressé le 28/08/2025 en présence de [[person|Furio Sansone]] et des locataires. Les parties conviennent que toute anomalie non signalée dans les dix jours de l'entrée est présumée n'avoir pas existé.
+L'état des lieux d'entrée a été dressé le [[date|28/08/2025]] en présence de [[person|Furio Sansone]] et des locataires. Les parties conviennent que toute anomalie non signalée dans les dix jours de l'entrée est présumée n'avoir pas existé.
 
 Article 6. Garant
 

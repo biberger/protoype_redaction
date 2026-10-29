@@ -129,7 +129,7 @@ Die Zustellung dieser Strafverfügung erfolgt an alle drei Beschuldigten. Die Be
 
 Für die Bezirkshauptmannschaft
 
-Mag. [[person|Ludmilla Schwaiger]]
+[[person|Mag. Ludmilla Schwaiger]]
 Sachbearbeiterin
 
 Ergeht an:
