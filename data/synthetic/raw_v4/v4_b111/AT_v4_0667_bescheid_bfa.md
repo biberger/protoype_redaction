@@ -58,7 +58,7 @@ IV. Rechtliche Beurteilung
 
 Die Beschwerdeführerin lebt seit etwa vier Jahren im Bundesgebiet und ist berufstätig. Die private Lebensgestaltung ist jedoch nicht so weit verfestigt, dass sie das öffentliche Interesse an einer geordneten Zuwanderung überwiegt. Die Interessenabwägung nach [[legal_norm|Art. 8 Abs 2 EMRK]] iVm [[legal_norm|§ 9 Abs 2 BFA-VG]] fällt zu Lasten der Beschwerdeführerin aus.
 
-Die Verpflichtungserklärung betrifft ausschließlich den Lebensunterhalt und begründet kein familiäres Band. Der Umstand, dass die Beschwerdeführerin über einen Dienstwagen verfügt, ändert daran nichts.
+Die Verpflichtungserklärung betrifft ausschließlich den Lebensunterhalt und begründet kein familiäres Band. Der Umstand, dass die Beschwerdeführerin über einen Dienstwagen verfügt, ändert daran nichts. Ihre Eltern leben in [[location|Izmir]], sodass ihr die Rückkehr in die Türkei zumutbar ist und sie dort auf familiäre Anknüpfungspunkte zurückgreifen kann. Eine Verletzung des Privat- und Familienlebens liegt daher nicht vor.
 
 Rechtsmittelbelehrung
 

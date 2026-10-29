@@ -24,7 +24,7 @@ la [[organization|Ville de Mons]], représentée par son collège communal, part
 et
 
 1. [[organization|Kolly SA]], [[company_register_number|1158.270.070]],
-2. [[organization|Zadeh Logistique SA]], [[company_register_number|1589.871.372]],
+2. [[organization|Zadeh Logistique SA]], [[company_register_number|1589.871.372]], dont le siège est établi [[address|boulevard d'Avroy 77/3, 4000 Liège]],
 
 parties intervenantes.
 

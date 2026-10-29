@@ -13,7 +13,7 @@ abgeschlossen am [[date|14. März 2026]] in [[location|Eisenstadt]] zwischen
 I. Verkäufer
 
 1. [[organization|Vesely & Lehmann GmbH & Co KG]], [[company_register_number|FN 1354t]], UID-Nummer [[tax_id|ATU87710638]], vertreten durch den Geschäftsführer [[person|DDr. Bogdan Swarovski, MAS]],
-2. [[person|Josetta Schober]], Miteigentümerin zu einem Viertel, wie im Zulassungsschein ausgewiesen.
+2. [[person|Josetta Schober]], [[address|Erlgasse 4/7, 4372 Sankt Georgen am Walde]], Miteigentümerin zu einem Viertel, wie im Zulassungsschein ausgewiesen.
 
 II. Käuferin
 

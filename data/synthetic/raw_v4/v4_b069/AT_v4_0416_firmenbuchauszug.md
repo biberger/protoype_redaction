@@ -32,7 +32,7 @@ Anmerkung zu Lfd. Nr. 4: Mit Gesellschafterbeschluss vom [[date|22.02.2023]] wur
 
 Die Vorstandsvorsitzende [[person|Jasminka Marković]] legte zur Anmeldung ihrer Organstellung den Identitätsausweis Nr. [[id_document_number|A6393622]] vor. Die Anmeldung wurde am [[date|01.07.2021]] beglaubigt.
 
-Kommanditistin [[organization|Janko Energie AG]] wird durch den Vorstand vertreten. Vorstandsmitglied ist seit dem [[date|1. Juli 2021]] [[person|Jasminka Marković]]; der Vorstand ist nach Mehrheit zeichnungsberechtigt.
+Kommanditistin [[organization|Janko Energie AG]], UID-Nummer [[tax_id|ATU11017282]], Sitz [[address|Wickenburggasse 9/2, 5505 Mühlbach am Hochkönig]], wird durch den Vorstand vertreten. Vorstandsmitglied ist seit dem [[date|1. Juli 2021]] [[person|Jasminka Marković]]; der Vorstand ist nach Mehrheit zeichnungsberechtigt.
 
 Die Gesellschaft hat keine Verbindlichkeiten gegenüber dem Insolvenzentgelt-Fonds gemeldet. Gesellschafter-Konten sind im Auszug nicht enthalten.
 
@@ -41,6 +41,8 @@ Der Kommanditanteil der [[organization|Janko Energie AG]] beträgt laut Gesellsc
 Die Geschäftsanschrift wurde mit der Anmeldung vom [[date|09.06.2025]] nicht geändert. Eine Zweigniederlassung ist im Auszug nicht eingetragen. Die Gesellschaft wird durch den Komplementär [[person|Fabian Kindl]] vertreten; die Prokura von [[person|MMag. Ivona Čubrilo]] berechtigt zur Zeichnung gemeinsam mit dem Komplementär.
 
 Sämtliche Beschlüsse sind rechtskräftig; Rekurse wurden in keinem der Verfahren erhoben.
+
+Der Auszug gibt den Stand zum Abfragezeitpunkt wieder; die Eintragungen wurden von Amts wegen überprüft.
 
 Ende des Auszugs. Ausgedruckt aus dem Firmenbuch der [[location|Republik Österreich]].
 

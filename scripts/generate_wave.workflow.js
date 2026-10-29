@@ -41,7 +41,9 @@ Working directory: ${root}. Use Python via \`python3\` from the repository root.
    would) and tag its entities as usual, e.g. [[organization|HUBER BAU GMBH]].
    Every document is new: never copy sentences, facts, amounts, vehicles, dates or clauses from another document
    (also not from the other documents of your batch). Vary structure, wording and facts per document type.
-   Licence plates: the district/canton code should fit the holder's residence or the registering company.
+   Licence plates: the district/canton code should fit the holder's residence or the registering company; you may
+   change only the district/canton letters of a brief's plate for that (e.g. AT "SZ-9UF" for a holder in Innsbruck
+   -> "I-9UF"; DE "M-AB 12" -> "HH-AB 12"), keep the rest.
    Use the law that fits the parties (no KSchG/consumer rules between two companies).
 4. Respect "target_words" (±25%), "pseudonymised" (RIS style: A*****, *****, tagged with the label of what was
    replaced; then the cast persons are replaced by placeholders), "ocr_noise" (hyphenation across line breaks,

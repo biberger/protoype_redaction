@@ -89,6 +89,8 @@ Gegen diesen Bescheid kann innerhalb von vier Wochen ab Zustellung schriftlich B
 
 Die Beschwerde hat keine aufschiebende Wirkung, außer die Behörde erteilt diese auf Antrag.
 
+Die Bezirkshauptmannschaft behält sich vor, bei Nichteinhaltung der Frist nach Punkt I.2 eine Zwangsstrafe nach [[legal_norm|§ 5 VVG]] anzudrohen. Die Liegenschaft liegt im Bauland-Wohngebiet der Gemeinde [[location|Gabersdorf]], wo der Mindestabstand zur Nachbargrenze strenger geregelt ist.
+
 Die Bauführerin wird darauf hingewiesen, dass die Missachtung dieses Bescheides eine Verwaltungsübertretung darstellt, die mit einer Geldstrafe bis zu 7.000 Euro geahndet werden kann.
 
 Zustellhinweis: Der Bescheid ergeht an [[person|DDr. Reinhard Berchtold, MSc]] als Geschäftsführer der [[organization|Schmitz GmbH & Co KG]] und an die Bauwerberin [[person|Waltrud Schwärzler]] persönlich.

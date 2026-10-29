@@ -23,7 +23,7 @@ Entscheidungsgründe
 
 Die klagende Partei begehrt Ersatz des Schadens, der an ihrem Fahrzeug mit dem Kennzeichen [[license_plate|LE-49I]] am [[date|3. Juli 2024]] entstanden ist. Das Fahrzeug war auf der [[street|Villagasse]] in [[location|Tarrenz]] geparkt, als von dem Gerüst der beklagten Partei am Haus [[address|Pachmüllergasse 10/18, 6464 Tarrenz]] Dachziegel auf die Motorhaube fielen.
 
-Die Klage wurde am [[date|12.03.2025]] eingebracht. Der Kläger stützte den Anspruch auf [[legal_norm|§ 1311 ABGB]] iVm [[legal_norm|§ 1315 ABGB]], wobei er die Verletzung der Sicherungspflicht durch die Beklagte behauptete.
+Die Klage wurde am [[date|12.03.2025]] eingebracht und ist, soweit sie auf die Reparaturkosten gerichtet ist, schlüssig. Der Kläger stützte den Anspruch auf [[legal_norm|§ 1311 ABGB]] iVm [[legal_norm|§ 1315 ABGB]], wobei er die Verletzung der Sicherungspflicht durch die Beklagte behauptete.
 
 Die beklagte Partei bestritt die Haftung und wendete ein, die Parkfläche sei nicht abgesperrt gewesen, obwohl ein Hinweisschild der Gemeinde an der Bushaltestelle gestanden habe. Ein Mitverschulden des Klägers sei daher anzunehmen.
 
