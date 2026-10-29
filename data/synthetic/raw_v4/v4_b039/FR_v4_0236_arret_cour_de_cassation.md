@@ -23,7 +23,7 @@ Défendeurs et demandeurs au pourvoi incident ;
 
 [[person|Michelantonio Schwendimann]], demeurant [[address|9 rue de la Loge, 34000 Montpellier]] ;
 
-[[person|MARILOU NDIONE]], demeurant à Montpellier ;
+[[person|MARILOU NDIONE]], demeurant à [[location|Montpellier]] ;
 
 Défendeurs à la cassation ;
 

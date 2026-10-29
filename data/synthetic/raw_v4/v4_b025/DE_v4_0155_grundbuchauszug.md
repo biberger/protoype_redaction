@@ -15,9 +15,9 @@ Blatt 1822
 
 Bestandsverzeichnis
 
-Lfd. Nr. 1: Gemarkung Strüth, Flur 4, Flurstück 211/3, Gebäude- und Freifläche, [[address|Seiffener Straße 4, 56357 Strüth]], Größe 1.184 m²
+Lfd. Nr. 1: Gemarkung [[location|Strüth]], Flur 4, Flurstück 211/3, Gebäude- und Freifläche, [[address|Seiffener Straße 4, 56357 Strüth]], Größe 1.184 m²
 
-Lfd. Nr. 2: Gemarkung Strüth, Flur 4, Flurstück 211/4, Weg, Größe 96 m², Zuwegung zur Lfd. Nr. 1
+Lfd. Nr. 2: Gemarkung [[location|Strüth]], Flur 4, Flurstück 211/4, Weg, Größe 96 m², Zuwegung zur Lfd. Nr. 1
 
 Erste Abteilung: Eigentümer
 
@@ -52,13 +52,13 @@ Rückfragen: Tel. [[phone_number|+49 170 800 3305]]
 
 [[location|Koblenz]], den [[date|6. Oktober 2026]]
 
-Betr.: Grundbuchauszug für Grundstück Strüth, Blatt 1822
+Betr.: Grundbuchauszug für Grundstück [[location|Strüth]], Blatt 1822
 
 Sehr geehrte Damen und Herren,
 
 in der Angelegenheit der Grundstückseigentümerin [[person|Walla]] bitte ich um Erteilung eines aktuellen Grundbuchauszugs. Der Auszug wird für die Vorlage bei der Bank benötigt, die [[person|Probsts]] Antrag auf Abtretung ihres Miteigentumsanteils prüft.
 
-Das Grundstück grenzt an den [[street|Tichelweg]] in Strüth, an dem auch das Wohnhaus liegt. Frau [[person|Walla]] ist mit der Eintragung der Grundschuld nicht einverstanden und hat die Gläubigerin mit Schreiben vom [[date|2. September 2026]] zur Löschung aufgefordert. Ob eine Löschung erfolgt, ist offen.
+Das Grundstück grenzt an den [[street|Tichelweg]] in [[location|Strüth]], an dem auch das Wohnhaus liegt. Frau [[person|Walla]] ist mit der Eintragung der Grundschuld nicht einverstanden und hat die Gläubigerin mit Schreiben vom [[date|2. September 2026]] zur Löschung aufgefordert. Ob eine Löschung erfolgt, ist offen.
 
 Die Mandantin hat mich mit der Wahrnehmung ihrer Interessen in dieser Angelegenheit beauftragt. Die Bank verlangt vor einer Entscheidung über den Antrag einen Nachweis über die lastenfreie Eigentumslage bzw. über die Belastungen, die im Grundbuch eingetragen sind. Ich bitte daher um eine Mitteilung, falls zwischenzeitlich eine Eintragung vorgenommen wurde.
 

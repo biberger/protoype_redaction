@@ -5,7 +5,7 @@ lang: de
 ---
 Notariatsakt
 
-Gesellschaftsvertrag der Holzbau Salzach GmbH
+Gesellschaftsvertrag der [[organization|Holzbau Salzach GmbH]]
 
 Vor mir, dem öffentlichen Notar [[lawyer|Dr. Hakan Oberndorfer]] mit Amtssitz in [[location|Salzburg]], erschienen zur Errichtung einer Gesellschaft mit beschränkter Haftung folgende Personen:
 
@@ -20,7 +20,7 @@ Die Erschienenen haben mich nach Belehrung über die Tragweite der Urkunde ersuc
 
 § 1 Firma und Sitz
 
-Die Gesellschaft führt die Firma Holzbau Salzach GmbH und hat ihren Sitz in [[location|Salzburg]].
+Die Gesellschaft führt die Firma [[organization|Holzbau Salzach GmbH]] und hat ihren Sitz in [[location|Salzburg]].
 
 § 2 Gegenstand
 

@@ -20,7 +20,7 @@ Entscheidungsgründe
 
 I. Sachverhalt und Prozessverlauf
 
-1. Am [[date|12. November 2024]] gegen 7.15 Uhr lenkte [[person|Zettl]] den PKW mit dem Kennzeichen [[license_plate|FL 55874]] auf dem [[street|Hirslandersteig]] in Triesen in Richtung Ortszentrum. Das Fahrzeug steht im Eigentum der [[organization|Bártfai Transport Stiftung]] (CHE-Nr. [[company_register_number|CHE-284.036.186]]), die als Halterin eingetragen ist.
+1. Am [[date|12. November 2024]] gegen 7.15 Uhr lenkte [[person|Zettl]] den PKW mit dem Kennzeichen [[license_plate|FL 55874]] auf dem [[street|Hirslandersteig]] in [[location|Triesen]] in Richtung Ortszentrum. Das Fahrzeug steht im Eigentum der [[organization|Bártfai Transport Stiftung]] (CHE-Nr. [[company_register_number|CHE-284.036.186]]), die als Halterin eingetragen ist.
 
 2. [[person|Buljubašić]] überquerte die Fahrbahn außerhalb des Schutzweges, als das Fahrzeug um die Kurve kam. Die Lenkerin leitete eine Vollbremsung ein; ein Zusammenstoß mit der linken Seite des Fahrzeugs war nicht zu vermeiden. Die Klägerin erlitt einen Bruch des rechten Schlüsselbeins und eine Prellung der Hüfte.
 

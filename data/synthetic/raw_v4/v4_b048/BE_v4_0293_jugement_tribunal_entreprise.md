@@ -34,7 +34,7 @@ défenderesses,
 
 et en intervention volontaire :
 
-[[person|Réginald du Bus de Gisignies]], expert-comptable, domicilié à Wavre.
+[[person|Réginald du Bus de Gisignies]], expert-comptable, domicilié à [[location|Wavre]].
 
 I. Objet de la demande
 
@@ -44,7 +44,7 @@ Par ordonnance du [[date|12 mars 2025]], M. [[judge|Guillaume Alexandre Dumont]]
 
 II. Faits et position des parties
 
-Le [[date|4 août 2024]], un camion de livraison de la demanderesse a endommagé une partie de la marchandise sur l'[[street|avenue du Verger Doré]] à Wavre, lors du déchargement destiné à la défenderesse. La défenderesse soutient que ces dommages ont été supportés par le transporteur et qu'elle n'a pas à payer la facture.
+Le [[date|4 août 2024]], un camion de livraison de la demanderesse a endommagé une partie de la marchandise sur l'[[street|avenue du Verger Doré]] à [[location|Wavre]], lors du déchargement destiné à la défenderesse. La défenderesse soutient que ces dommages ont été supportés par le transporteur et qu'elle n'a pas à payer la facture.
 
 Le [[date|9 octobre 2024]], la demanderesse a adressé une mise en demeure à la première défenderesse. La seconde défenderesse, [[organization|Hančik Textile ASBL]], est intervenue comme garante de la première par une convention signée le [[date|2 septembre 2024]].
 

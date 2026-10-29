@@ -36,7 +36,7 @@ Das Dienstverhältnis unterliegt dem Kollektivvertrag für Arbeitnehmer in der L
 
 **Wohnsituation und Krankenversicherung**
 
-Herr [[person|Marin]] wohnt in einer vom Betrieb zur Verfügung gestellten Wohnung in Pirching am Traubenberg. Die Miete wird in Höhe von EUR 310,00 monatlich vom Lohn einbehalten; ein Mietvertrag liegt bei. Die Krankenversicherung besteht über die Gebietskrankenkasse, die Versicherungsnummer wird auf Wunsch gesondert übermittelt.
+Herr [[person|Marin]] wohnt in einer vom Betrieb zur Verfügung gestellten Wohnung in [[location|Pirching am Traubenberg]]. Die Miete wird in Höhe von EUR 310,00 monatlich vom Lohn einbehalten; ein Mietvertrag liegt bei. Die Krankenversicherung besteht über die Gebietskrankenkasse, die Versicherungsnummer wird auf Wunsch gesondert übermittelt.
 
 **Arbeitsunfall**
 

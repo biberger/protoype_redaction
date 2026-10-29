@@ -28,14 +28,14 @@ Mit Schreiben vom [[date|2. März 2026]] bestätigte [[person|Univ.-Prof. Dr. Ma
 
 Der Befund des [[person|Dr. med. Baltasar Gindl]] vom [[date|25. Februar 2026]] bescheinigt, dass der Antragsteller gesund und reisefähig ist. Eine Impfdokumentation nach dem österreichischen Impfplan wurde beigelegt.
 
-Der Antragsteller legte zudem das Zertifikat der Deutsch-Integrationsprüfung auf dem Niveau A2 vor, das am [[date|18. Februar 2026]] vom [[organization|Österreichischen Integrationsfonds]] ausgestellt wurde. Eine Meldebestätigung für die Wohnung in Deutsch Kaltenbrunn liegt seit dem [[date|1. März 2026]] vor. Die Zusage des Stipendiums der [[organization|Österreichischen Akademie der Wissenschaften]] vom [[date|20. Februar 2026]] ist im Akt enthalten und sieht eine monatliche Zahlung von EUR 2.100,– bis zum [[date|30. Juni 2027]] vor.
+Der Antragsteller legte zudem das Zertifikat der Deutsch-Integrationsprüfung auf dem Niveau A2 vor, das am [[date|18. Februar 2026]] vom [[organization|Österreichischen Integrationsfonds]] ausgestellt wurde. Eine Meldebestätigung für die Wohnung in [[location|Deutsch Kaltenbrunn]] liegt seit dem [[date|1. März 2026]] vor. Die Zusage des Stipendiums der [[organization|Österreichischen Akademie der Wissenschaften]] vom [[date|20. Februar 2026]] ist im Akt enthalten und sieht eine monatliche Zahlung von EUR 2.100,– bis zum [[date|30. Juni 2027]] vor.
 
-Die Vermieterin [[person|Hubertina Digruber]], wohnhaft in [[address|Albrechtsbergergasse 7/2, 8162 Haufenreith]], bestätigte am [[date|27. Februar 2026]] den Mietvertrag für die Wohnung in Deutsch Kaltenbrunn. Herr [[person|Berndt Mayr]] wohnhaft in [[address|Griesstraße 4,
+Die Vermieterin [[person|Hubertina Digruber]], wohnhaft in [[address|Albrechtsbergergasse 7/2, 8162 Haufenreith]], bestätigte am [[date|27. Februar 2026]] den Mietvertrag für die Wohnung in [[location|Deutsch Kaltenbrunn]]. Herr [[person|Berndt Mayr]] wohnhaft in [[address|Griesstraße 4,
 4263 Windhaag bei Freistadt]], hat sich als Bürge zur Verfügung gestellt und eine Haftungserklärung unterschrieben.
 
 II. Beweiswürdigung
 
-Der Sachbearbeiter [[person|Ditmar Schröder]] hat die Angaben überprüft. Die Nachbarin [[person|Leonora van der Veen]] bestätigte am [[date|5. März 2026]] schriftlich den Wohnsitz des Antragstellers in Deutsch Kaltenbrunn. Das Stipendium deckt den Lebensunterhalt, weshalb die Voraussetzungen nach [[legal_norm|§ 11 Abs 2 NAG]] erfüllt sind. Ein Krankenversicherungsnachweis liegt vor. Die Behauptungen des Antragstellers über seine bisherige Ausbildung sind durch die Bestätigung der Universität plausibel; Widersprüche sind nicht hervorgekommen. Die Behörde ist für das Verfahren zuständig, weil der Wohnsitz des Antragstellers im Sprengel der [[organization|Bezirkshauptmannschaft Güssing]] liegt.
+Der Sachbearbeiter [[person|Ditmar Schröder]] hat die Angaben überprüft. Die Nachbarin [[person|Leonora van der Veen]] bestätigte am [[date|5. März 2026]] schriftlich den Wohnsitz des Antragstellers in [[location|Deutsch Kaltenbrunn]]. Das Stipendium deckt den Lebensunterhalt, weshalb die Voraussetzungen nach [[legal_norm|§ 11 Abs 2 NAG]] erfüllt sind. Ein Krankenversicherungsnachweis liegt vor. Die Behauptungen des Antragstellers über seine bisherige Ausbildung sind durch die Bestätigung der Universität plausibel; Widersprüche sind nicht hervorgekommen. Die Behörde ist für das Verfahren zuständig, weil der Wohnsitz des Antragstellers im Sprengel der [[organization|Bezirkshauptmannschaft Güssing]] liegt.
 
 III. Rechtliche Beurteilung
 

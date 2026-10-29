@@ -462,3 +462,9 @@ def test_lint_flags_untagged_contacts_caps_and_datelines(tmp_path):
                    "dateline 'Koblenz'"):
         assert needle in text, needle
     assert sum("Huber Bau GmbH" in w for w in warnings) == 2  # the ALL-CAPS line and the lower-case chat line
+
+
+def test_lint_flags_town_of_tagged_address(tmp_path):
+    _, warnings = parse_file(write_doc(tmp_path, "wohnhaft in [[address|Hauptstraße 4, 7572 Deutsch Kaltenbrunn]]. "
+                                                 "Die Wohnung in Deutsch Kaltenbrunn ist gemietet."), "synthetic")
+    assert any("'Deutsch Kaltenbrunn'" in w for w in warnings)

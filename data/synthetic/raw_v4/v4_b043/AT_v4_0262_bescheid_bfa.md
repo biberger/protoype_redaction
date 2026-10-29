@@ -41,7 +41,7 @@ VII. Einer Beschwerde gegen diesen Bescheid kommt gemäß [[legal_norm|§ 18 Abs
 
 Sie wurden am [[date|14. März 2026]] gegen 4 Uhr früh im Zuge einer Fahrzeugkontrolle auf der Inntal Autobahn im Gemeindegebiet von [[location|Landeck]] angehalten. Das Fahrzeug mit dem amtlichen Kennzeichen [[license_plate|LA-451 K]], ein Kleinbus der [[organization|Pirchl Transporte GmbH]], [[company_register_number|FN 499133w]], mit Sitz in [[location|Landeck]], wurde von [[person|Giraldo Stanek]] gelenkt. Im Zuge der Anhaltung stellten die Beamten fest, dass Sie keinen Aufenthaltstitel und kein gültiges Reisedokument für den Aufenthalt im Bundesgebiet vorwiesen. Sie legten einen serbischen Personalausweis Nr. [[id_document_number|A4998903]] vor.
 
-Noch am selben Tag stellten Sie bei der [[organization|Polizeiinspektion Landeck]] einen Antrag auf internationalen Schutz. Die Erstbefragung erfolgte am [[date|15. März 2026]] durch RevInsp. [[person|Fred Kaspar]]. Im Anschluss wurden Sie in die Betreuungsstelle Lannach übernommen.
+Noch am selben Tag stellten Sie bei der [[organization|Polizeiinspektion Landeck]] einen Antrag auf internationalen Schutz. Die Erstbefragung erfolgte am [[date|15. März 2026]] durch RevInsp. [[person|Fred Kaspar]]. Im Anschluss wurden Sie in die Betreuungsstelle [[location|Lannach]] übernommen.
 
 Die Einvernahme vor dem Bundesamt fand am [[date|20. April 2026]] statt. Sie waren dabei durch die Betreuerin [[person|Heidelinde Eder]] vom [[organization|Verein Flüchtlingshilfe Lannach]] begleitet. Eine Dolmetscherin für die Sprache Serbisch war anwesend, und Sie bestätigten, die Verhandlungssprache zu verstehen.
 
@@ -75,7 +75,7 @@ Die Versicherungsnummer [[social_security_number|6981 131055]] ist in den Unterl
 
 Die Betreuerin [[person|Eder]] hat die Angaben zu Ihrem Gesundheitszustand bestätigt.
 
-Die Stellungnahme der Betreuerin vom [[date|20.05.2026]] enthält zudem den Hinweis, dass Sie in der Betreuungsstelle Lannach gegenüber anderen Bewohnern mehrfach angekündigt haben, [[location|Österreich]] in Richtung [[location|Deutschland]] zu verlassen. Diese Äußerung wurde in der Verhandlung nicht bestätigt, ist aber im Rahmen der Gefährdungsprognose zu berücksichtigen.
+Die Stellungnahme der Betreuerin vom [[date|20.05.2026]] enthält zudem den Hinweis, dass Sie in der Betreuungsstelle [[location|Lannach]] gegenüber anderen Bewohnern mehrfach angekündigt haben, [[location|Österreich]] in Richtung [[location|Deutschland]] zu verlassen. Diese Äußerung wurde in der Verhandlung nicht bestätigt, ist aber im Rahmen der Gefährdungsprognose zu berücksichtigen.
 
 Die Angaben des Herrn [[person|Stanek]] als Lenker des Fahrzeugs sind für das Verfahren von Bedeutung. Er gab an, Sie am [[date|13. März 2026]] in [[location|Ungarn]] aufgenommen zu haben, um Sie gegen Bezahlung nach [[location|Österreich]] zu bringen. Diese Angaben sind eine Zeugenaussage, welche aufgrund der Strafverfolgung wegen Schlepperei nicht vollständig verwertet werden kann. Dennoch ergibt sich daraus, dass Sie zum Zeitpunkt der Anhaltung keinen Aufenthaltsort in [[location|Österreich]] hatten, der eine rechtmäßige Niederlassung begründet.
 
@@ -115,7 +115,7 @@ Gegen diesen Bescheid können Sie innerhalb von vier Wochen ab Zustellung eine B
 
 Die Rechtsberatung ist über die Rechtsberatungsstelle in [[location|Graz]] zugänglich. Die Kontaktdaten sind der beiliegenden Information zu entnehmen. Die Beratung ist kostenlos; Sie können eine Vertrauensperson Ihrer Wahl beiziehen. Die Frist zur Beschwerdeerhebung wird durch eine allfällige Anfrage um Rechtsberatung nicht verlängert. Ein Antrag auf Verlängerung der Beschwerdefrist ist nicht vorgesehen, sofern nicht die Rechtsvertretung nachweislich verhindert ist. Bitte beachten Sie, dass eine Beschwerde in serbischer Sprache zulässig ist und die Übersetzung der Beilagen bei der Einreichung nicht zwingend erforderlich ist.
 
-Hinweis zur Rückkehrberatung: Sie können bei der Rückkehrberatung des Bundesamts Informationen über die Unterstützung bei der freiwilligen Rückkehr einholen. Eine Teilnahme ist freiwillig, berührt aber die Beurteilung der Ausreisebereitschaft nicht. Für die Terminvereinbarung ist die Betreuungsstelle Lannach zuständig.
+Hinweis zur Rückkehrberatung: Sie können bei der Rückkehrberatung des Bundesamts Informationen über die Unterstützung bei der freiwilligen Rückkehr einholen. Eine Teilnahme ist freiwillig, berührt aber die Beurteilung der Ausreisebereitschaft nicht. Für die Terminvereinbarung ist die Betreuungsstelle [[location|Lannach]] zuständig.
 
 Ihre Versicherungsnummer und die Personalausweisdaten wurden im Zuge der Zustellung geprüft. Änderungen der Anschrift sind dem Bundesamt unverzüglich bekanntzugeben.
 
@@ -124,4 +124,4 @@ Für das Bundesamt für Fremdenwesen und Asyl
 Frau [[person|Mag.a Renate Pölzl]]
 Referentin
 
-Zugestellt an: [[person|Walter Kuba]] über die Betreuungsstelle Lannach.
+Zugestellt an: [[person|Walter Kuba]] über die Betreuungsstelle [[location|Lannach]].

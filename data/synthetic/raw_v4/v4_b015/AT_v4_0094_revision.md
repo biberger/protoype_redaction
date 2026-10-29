@@ -37,7 +37,7 @@ Das Vereinsfahrzeug mit dem Kennzeichen [[license_plate|BR-12EK]] wurde im Früh
 
 3. Fehlende Unterlagen
 
-Für den Ersatzanspruch der [[person|Gretel Ehn]] aus dem Schadensfall am [[date|9. Juli 2025]] liegt keine schriftliche Vereinbarung vor. Der Vorfall ereignete sich am [[street|Ahornweg]] in Heldenberg, als ein Mitglied beim Transport von Tischen ein Fahrzeug beschädigte. Der Vorstand hat den Schaden aus der Vereinskasse beglichen, ohne die Zustimmung der Mitgliederversammlung einzuholen.
+Für den Ersatzanspruch der [[person|Gretel Ehn]] aus dem Schadensfall am [[date|9. Juli 2025]] liegt keine schriftliche Vereinbarung vor. Der Vorfall ereignete sich am [[street|Ahornweg]] in [[location|Heldenberg]], als ein Mitglied beim Transport von Tischen ein Fahrzeug beschädigte. Der Vorstand hat den Schaden aus der Vereinskasse beglichen, ohne die Zustimmung der Mitgliederversammlung einzuholen.
 
 [[person|Ehn]] ist Mitglied des Vereins und wohnt in [[address|Birneckergasse 9/16, 3704 Heldenberg]]. Sie hat die Auszahlung als Ersatz für Fahrtkosten bestätigt.
 

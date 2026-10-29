@@ -35,7 +35,7 @@ Am [[date|3. Mai 2026]] wurde [[person|Nena Kienast]] in der [[street|Wallpachga
 
 Die Sachbearbeitung erfolgte durch [[person|Mag. Emilia Bernstein]]. Sie gelangte zu dem Ergebnis, dass die Antragstellerin den Nachweis eines ausreichenden Einkommens nicht erbracht hat.
 
-Die Angaben des Mitantragstellers [[person|Varga]] zu seinem Einkommen sind nicht nachvollziehbar. Er gab an, bei der [[organization|Iroha KG]] als Lagerarbeiter tätig zu sein, legte jedoch keine Lohnabrechnungen der letzten zwölf Monate vor. Die Zeugin [[person|Frimmel]] hatte den Eindruck, dass [[person|Varga]] die Miete für die Wohnung in Reuthe überwiegend bar bezahlt. Die Behörde hält es daher für nicht erwiesen, dass die Antragsteller über ein gesichertes Einkommen verfügen.
+Die Angaben des Mitantragstellers [[person|Varga]] zu seinem Einkommen sind nicht nachvollziehbar. Er gab an, bei der [[organization|Iroha KG]] als Lagerarbeiter tätig zu sein, legte jedoch keine Lohnabrechnungen der letzten zwölf Monate vor. Die Zeugin [[person|Frimmel]] hatte den Eindruck, dass [[person|Varga]] die Miete für die Wohnung in [[location|Reuthe]] überwiegend bar bezahlt. Die Behörde hält es daher für nicht erwiesen, dass die Antragsteller über ein gesichertes Einkommen verfügen.
 
 III. Rechtliche Beurteilung
 

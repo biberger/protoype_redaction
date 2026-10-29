@@ -28,7 +28,7 @@ Begründung
 
 4. Am [[date|11. Februar 2026]] kam es mit diesem Fahrzeug auf dem [[street|Pelzweg]] zu einem Auffahrunfall ohne Personenschaden. Die Antragstellerin wurde dabei nicht als Verursacherin festgestellt; die Verständigung der Polizei liegt dem Akt bei.
 
-5. Bis zum [[date|31. Dezember 2024]] war die Antragstellerin als Untermieterin in der [[address|Kepplingerstraße 24, 3800 Göpfritz an der Wild]] gemeldet. Die Wohnung gehört [[person|Götz Széchényi]]. [[person|Széchényis]] Bestätigung vom [[date|20. Juli 2026]] liegt dem Akt bei. Seit dem [[date|1. Januar 2025]] hat die Antragstellerin ihren Hauptwohnsitz in Moschendorf.
+5. Bis zum [[date|31. Dezember 2024]] war die Antragstellerin als Untermieterin in der [[address|Kepplingerstraße 24, 3800 Göpfritz an der Wild]] gemeldet. Die Wohnung gehört [[person|Götz Széchényi]]. [[person|Széchényis]] Bestätigung vom [[date|20. Juli 2026]] liegt dem Akt bei. Seit dem [[date|1. Januar 2025]] hat die Antragstellerin ihren Hauptwohnsitz in [[location|Moschendorf]].
 
 6. Die Sachbearbeiterin [[person|Kreidl]] prüfte die Voraussetzungen nach dem [[legal_norm|NAG]] anhand der vorgelegten Unterlagen. Eine persönliche Vorsprache der Antragstellerin fand am [[date|26. August 2026]] statt; dabei wurden die Originale eingesehen. Das Einkommen, die Unterkunft und der Krankenversicherungsschutz sind nachgewiesen. Die Versicherungsnummer lautet [[social_security_number|1887 080826]], das Konto für die Rückzahlung der Gebühren [[bank_account|AT66 4092 2367 4714 2024]].
 

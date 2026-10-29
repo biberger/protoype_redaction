@@ -36,11 +36,11 @@ Ferner wird die Pfändung der Lohnforderungen des Verpflichteten gegen seine Die
 
 2. Fahrnisexekution
 
-Die Gehaltspfändung kommt wegen der Unterbrechung des Dienstverhältnisses nur eingeschränkt in Betracht; daher wird die Fahrnisexekution zusätzlich beantragt. Hilfsweise wird die Fahrnisexekution nach [[legal_norm|§ 249 EO]] beantragt. Der Verpflichtete besitzt ein Kraftfahrzeug mit dem Kennzeichen [[license_plate|I-3476FT]], das auf seinen Namen zugelassen ist. Die Mitbewohnerin [[person|Anika Siegl]] hat dem Gerichtsvollzieher gegenüber bestätigt, dass das Fahrzeug regelmäßig vom Verpflichteten genutzt wird und sich vor dem Haus in Stanzach befindet.
+Die Gehaltspfändung kommt wegen der Unterbrechung des Dienstverhältnisses nur eingeschränkt in Betracht; daher wird die Fahrnisexekution zusätzlich beantragt. Hilfsweise wird die Fahrnisexekution nach [[legal_norm|§ 249 EO]] beantragt. Der Verpflichtete besitzt ein Kraftfahrzeug mit dem Kennzeichen [[license_plate|I-3476FT]], das auf seinen Namen zugelassen ist. Die Mitbewohnerin [[person|Anika Siegl]] hat dem Gerichtsvollzieher gegenüber bestätigt, dass das Fahrzeug regelmäßig vom Verpflichteten genutzt wird und sich vor dem Haus in [[location|Stanzach]] befindet.
 
 Frau [[person|Siegl]] hat ausdrücklich erklärt, dass sie keine Ansprüche an dem Fahrzeug geltend macht und dass die Wohnungseinrichtung im Eigentum des Verpflichteten steht.
 
-Der Wert des Fahrzeugs wird nach Angaben der betreibenden Partei auf etwa EUR 3.800,00 geschätzt. Die Gerichtsvollzieherin möge die Schätzung im Rahmen der Pfändung vornehmen und das Fahrzeug nach Möglichkeit in Verwahrung nehmen, bevor es im Bereich der Ortschaft Stanzach verbracht wird.
+Der Wert des Fahrzeugs wird nach Angaben der betreibenden Partei auf etwa EUR 3.800,00 geschätzt. Die Gerichtsvollzieherin möge die Schätzung im Rahmen der Pfändung vornehmen und das Fahrzeug nach Möglichkeit in Verwahrung nehmen, bevor es im Bereich der Ortschaft [[location|Stanzach]] verbracht wird.
 
 IV. Vorgeschichte
 
@@ -56,7 +56,7 @@ Die Mitteilungen wurden von [[person|Herold]] als Beilage ./5 vorgelegt. Die Aut
 
 V. Zuständigkeit und Vollmacht
 
-Das [[court|Bezirksgericht Reutte]] ist für die Bewilligung der Exekution zuständig, weil der Verpflichtete seinen allgemeinen Gerichtsstand in Stanzach hat und die Exekution in diesem Sprengel zu vollziehen ist. Die Zuständigkeit ergibt sich aus den Bestimmungen der [[legal_norm|EO]] und der [[legal_norm|JN]].
+Das [[court|Bezirksgericht Reutte]] ist für die Bewilligung der Exekution zuständig, weil der Verpflichtete seinen allgemeinen Gerichtsstand in [[location|Stanzach]] hat und die Exekution in diesem Sprengel zu vollziehen ist. Die Zuständigkeit ergibt sich aus den Bestimmungen der [[legal_norm|EO]] und der [[legal_norm|JN]].
 
 Die Vollmacht der unterfertigten Rechtsanwältin liegt bei. Die Rechtsanwältin ersucht um Zustellung sämtlicher Entscheidungen an ihre Kanzlei in [[location|Klagenfurt am Wörthersee]].
 

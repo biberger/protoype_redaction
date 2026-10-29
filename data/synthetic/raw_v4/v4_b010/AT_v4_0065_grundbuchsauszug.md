@@ -68,9 +68,9 @@ Die Dienstbarkeit Pos. C-2 wurde auf Antrag von [[person|Amelie Mitterer]] zur S
 
 Der Kaufvertrag vom [[date|28.07.2026]], auf dessen Grundlage die [[organization|Müller GmbH]] die Vormerkung erwirkt hat, betrifft den Dachgeschossausbau mit einem Kaufpreis von EUR 240.000,00. Die Vormerkung hat nur Wirkung, wenn die Einverleibung innerhalb der Frist des Vertrags beantragt wird; andernfalls erlischt sie mit Ablauf des Vertrags.
 
-Das Grundstück liegt im Bereich eines Bebauungsplans der Gemeinde Himmelberg, der eine Geschossflächenzahl von 0,4 festlegt. Eine Anmerkung der Baubehörde über die Genehmigung eines Carports vom [[date|12.06.2024]] ist nicht eingetragen.
+Das Grundstück liegt im Bereich eines Bebauungsplans der Gemeinde [[location|Himmelberg]], der eine Geschossflächenzahl von 0,4 festlegt. Eine Anmerkung der Baubehörde über die Genehmigung eines Carports vom [[date|12.06.2024]] ist nicht eingetragen.
 
-Die Liegenschaft ist frei von Pfandrechten zugunsten öffentlicher Körperschaften, insbesondere ist kein Pfandrecht der Gemeinde Himmelberg eingetragen, und die Wasserleitung verläuft ohne grundbücherliche Dienstbarkeit über das Grundstück. Rückstände an Abgaben sind dem Gericht nicht bekannt; Auskünfte dazu erteilt die Gemeinde Himmelberg.
+Die Liegenschaft ist frei von Pfandrechten zugunsten öffentlicher Körperschaften, insbesondere ist kein Pfandrecht der Gemeinde [[location|Himmelberg]] eingetragen, und die Wasserleitung verläuft ohne grundbücherliche Dienstbarkeit über das Grundstück. Rückstände an Abgaben sind dem Gericht nicht bekannt; Auskünfte dazu erteilt die Gemeinde [[location|Himmelberg]].
 
 Die Löschung der Dienstbarkeit Pos. C-2 ist nicht beantragt. Eine Auskunft über die Eigentümer des Nachbargrundstücks wurde nicht erteilt. Die Anfrage der [[organization|Müller GmbH]] ist mit dem Vermerk »nur für eigene Zwecke« zu versehen, weil die Vormerkung noch nicht eingetragen ist. Dieser Auszug ist nur für die Verwendung im Rechtsverkehr bestimmt und gilt als Stand des Tages der Abfrage.
 

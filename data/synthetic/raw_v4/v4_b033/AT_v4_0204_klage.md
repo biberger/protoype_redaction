@@ -25,7 +25,7 @@ Die Klage richtet sich gegen die beklagte Partei und wird wie folgt begründet:
 
 I. Sachverhalt
 
-1. Mit Werkvertrag vom [[date|3. März 2025]] beauftragte der Kläger die Beklagte mit der Lieferung und Montage von fünf Dachflächenfenstern samt Eindeckrahmen und Innenverkleidung am Wohnhaus des Klägers in Oetz. Das vereinbarte Entgelt betrug EUR 9.100,– brutto. Die Beklagte stellte ihre Leistungen am [[date|28.11.2025]] fertig; der Kläger leistete eine Anzahlung von EUR 3.000,–.
+1. Mit Werkvertrag vom [[date|3. März 2025]] beauftragte der Kläger die Beklagte mit der Lieferung und Montage von fünf Dachflächenfenstern samt Eindeckrahmen und Innenverkleidung am Wohnhaus des Klägers in [[location|Oetz]]. Das vereinbarte Entgelt betrug EUR 9.100,– brutto. Die Beklagte stellte ihre Leistungen am [[date|28.11.2025]] fertig; der Kläger leistete eine Anzahlung von EUR 3.000,–.
 
 2. Bereits wenige Wochen nach der Übergabe zeigten zwei der Fenster an der Südseite Feuchtigkeitsschäden an der Innenverkleidung. Die Bauleiterin der Beklagten, Frau [[person|Adela Rosenberg]], besichtigte die Fenster am [[date|15.12.2025]] und erklärte, die Abdichtung werde nachgebessert. Eine Nachbesserung erfolgte jedoch nicht. Frau [[person|Rosenberg]] übermittelte dem Kläger danach lediglich eine E-Mail, in der sie auf den Terminplan der Beklagten verwies. Die Feuchtigkeit trat in der Folge auch bei stärkerem Regen an einem dritten Fenster auf.
 

@@ -71,7 +71,7 @@ Die Frage, ob der Gesellschaftsvertrag für die Bestellung des Geschäftsführer
 
 Im Verfahren wurde weiters vorgebracht, dass [[person|Lulić]] das auf die Gesellschaft zugelassene Fahrzeug mit dem Kennzeichen [[license_plate|ZT 607 F]] auch privat nutze. Dieses Vorbringen betrifft nicht die Eintragungsfähigkeit der Bestellung und ist für das vorliegende Verfahren ohne Bedeutung. Es kann in einem gesonderten Verfahren vor dem Prozessgericht geklärt werden.
 
-Ebenfalls nicht entscheidungsrelevant ist der Vorfall vom [[date|22.02.2026]], bei dem ein Lieferwagen mit Lagergut auf dem [[street|Schmidbergerweg]] in Höchst abgestellt und beschädigt wurde. Der Vorfall steht in keinem unmittelbaren Zusammenhang mit der Bestellung des Geschäftsführers, und das Erstgericht hat ihn zu Recht nicht berücksichtigt.
+Ebenfalls nicht entscheidungsrelevant ist der Vorfall vom [[date|22.02.2026]], bei dem ein Lieferwagen mit Lagergut auf dem [[street|Schmidbergerweg]] in [[location|Höchst]] abgestellt und beschädigt wurde. Der Vorfall steht in keinem unmittelbaren Zusammenhang mit der Bestellung des Geschäftsführers, und das Erstgericht hat ihn zu Recht nicht berücksichtigt.
 
 **2.7 Vorbringen des Gesellschafters [[person|Reding]]**
 

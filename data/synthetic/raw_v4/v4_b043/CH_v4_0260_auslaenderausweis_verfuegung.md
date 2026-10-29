@@ -36,7 +36,7 @@ Das [[organization|Migrationsamt des Kantons St. Gallen]] verfügt:
 
 **Sachverhalt**
 
-Herr [[person|Kilo]] reiste im [[date|5. März 2021]] in die [[location|Schweiz]] ein und verfügt seit dem [[date|12. März 2023]] über eine Aufenthaltsbewilligung B. Die Aufenthaltsbewilligung ist an die Erwerbstätigkeit gebunden. Er ist pakistanischer Staatsangehöriger und wohnt seit dem Jahr 2021 an der oben genannten Adresse in Straubenzell. Seine Ehefrau lebt mit ihm im selben Haushalt; sie besucht einen Sprachkurs in [[location|St. Gallen]] und ist nicht erwerbstätig.
+Herr [[person|Kilo]] reiste im [[date|5. März 2021]] in die [[location|Schweiz]] ein und verfügt seit dem [[date|12. März 2023]] über eine Aufenthaltsbewilligung B. Die Aufenthaltsbewilligung ist an die Erwerbstätigkeit gebunden. Er ist pakistanischer Staatsangehöriger und wohnt seit dem Jahr 2021 an der oben genannten Adresse in [[location|Straubenzell]]. Seine Ehefrau lebt mit ihm im selben Haushalt; sie besucht einen Sprachkurs in [[location|St. Gallen]] und ist nicht erwerbstätig.
 
 Er arbeitete vom [[date|1. Juli 2022]] bis zum [[date|30. April 2026]] als Elektroinstallateur bei der [[organization|Stirnemann Elektro Genossenschaft]], [[company_register_number|CHE-182.755.134]]. Das Arbeitsverhältnis wurde durch den Personalverantwortlichen [[person|Gody Dürler]] mit Schreiben vom [[date|3. März 2026]] aufgelöst. Ab dem [[date|1. Mai 2026]] ist Herr [[person|Kilo]] als Plattenleger bei der [[organization|Condrau Fliesen AG]] angestellt, deren Geschäftsführerin [[person|Evarista Mahler]] ist.
 

@@ -25,7 +25,7 @@ Der Kaufpreis beträgt EUR 9.850,00 (in Worten: neuntausendachthundertfünfzig E
 
 § 3 Übergabe
 
-Die Übergabe des Fahrzeugs erfolgt am [[date|2. Mai 2026]] in Kaufungen. Der Verkäufer übergibt Fahrzeugschein, Zweitschlüssel und das Serviceheft. Der Käufer bestätigt mit seiner Unterschrift den Erhalt der Unterlagen.
+Die Übergabe des Fahrzeugs erfolgt am [[date|2. Mai 2026]] in [[location|Kaufungen]]. Der Verkäufer übergibt Fahrzeugschein, Zweitschlüssel und das Serviceheft. Der Käufer bestätigt mit seiner Unterschrift den Erhalt der Unterlagen.
 
 § 4 Gewährleistung
 
@@ -37,7 +37,7 @@ Der Verkäufer erklärt, dass das Fahrzeug unfallfrei ist und keine Vorschäden 
 
 Der Käufer erklärt, das Fahrzeug vor Übergabe besichtigt und probegefahren zu haben. Etwaige sichtbare Mängel sind damit nicht Gegenstand der Gewährleistung, soweit sie dem Käufer bekannt waren. Die Vertragsparteien vereinbaren ausdrücklich, dass Ansprüche wegen Sachmängeln nach einem Jahr verjähren.
 
-Der Käufer hat das Fahrzeug am [[date|11.04.2026]] in Gieleroth besichtigt. Bei dieser Besichtigung wurde eine Probefahrt durchgeführt; Mängel wurden nicht festgestellt, lediglich eine kleine Kratzspur an der hinteren Stoßstange, die im Vertrag als bekannt festgehalten wird.
+Der Käufer hat das Fahrzeug am [[date|11.04.2026]] in [[location|Gieleroth]] besichtigt. Bei dieser Besichtigung wurde eine Probefahrt durchgeführt; Mängel wurden nicht festgestellt, lediglich eine kleine Kratzspur an der hinteren Stoßstange, die im Vertrag als bekannt festgehalten wird.
 
 § 5 Vermittlung
 

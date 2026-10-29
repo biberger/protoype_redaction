@@ -27,7 +27,7 @@ II. Das Mehrbegehren wird abgewiesen.
 
 Entscheidungsgründe
 
-1. Die Klägerin behauptet, am [[date|18. August 2025]] habe [[person|Reisinger]] den Firmenwagen mit dem Kennzeichen [[license_plate|FL 27831]] beim Rückwärtsfahren auf der [[street|Aubruggstrasse]] in Schaan an einem Pfosten beschädigt. [[person|Allesch]] habe als Beifahrer die Einweisung übernommen.
+1. Die Klägerin behauptet, am [[date|18. August 2025]] habe [[person|Reisinger]] den Firmenwagen mit dem Kennzeichen [[license_plate|FL 27831]] beim Rückwärtsfahren auf der [[street|Aubruggstrasse]] in [[location|Schaan]] an einem Pfosten beschädigt. [[person|Allesch]] habe als Beifahrer die Einweisung übernommen.
 
 2. Die Beklagte bestreitet den Unfallhergang. Sie gibt an, das Fahrzeug sei bereits mit dem Schaden auf dem Parkplatz abgestellt worden. Dem ist entgegenzuhalten, dass die Zeugin [[person|Milana Wechner]] den Unfall beobachtet hat und in ihrer Aussage vom [[date|12. November 2025]] die Position des Fahrzeugs beschrieb. Die Zeugin [[person|Tanja Klocker]], Polizeibeamtin, hat die Schadensmeldung vom [[date|03.09.2025]] aufgenommen; sie bestätigt die Angaben.
 

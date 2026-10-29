@@ -22,7 +22,7 @@ Der Notar hat die Beteiligten über die Bedeutung des Vertrags belehrt und die U
 
 § 1 Grundbesitz
 
-Verkauft wird das Grundstück Flurstück [[land_register_id|118/4]] der Gemarkung Heringen, eingetragen im Grundbuch von Heringen, Blatt [[land_register_id|2214]]. Die Verkäufer sind zu je einhalb Anteil eingetragen.
+Verkauft wird das Grundstück Flurstück [[land_register_id|118/4]] der Gemarkung [[location|Heringen]], eingetragen im Grundbuch von [[location|Heringen]], Blatt [[land_register_id|2214]]. Die Verkäufer sind zu je einhalb Anteil eingetragen.
 
 § 2 Kaufpreis und Vollzug
 

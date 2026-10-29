@@ -71,7 +71,7 @@ Zustellung am [[date|04.02.2026]] an [[person|Socrate Martin]] durch den Betreib
 Zustelldatum | Fristende Rechtsvorschlag | Gültig bis
 [[date|04.02.2026]] | [[date|14.02.2026]] | [[date|28.02.2026]]
 
-Wichtig: Der Zahlungsbefehl ist mit der eingeschriebenen Sendung vom [[date|2. Februar 2026]] an die Adresse der [[organization|Dima SA]] zu richten, Sitz [[address|Trottweg 12, 6917 Barbengo]]; Eingang am [[date|9. Februar 2026]] bestätigt. Eine zweite Sendung an die Mitschuldner ging am [[date|10. Februar 2026]] an die Adresse in Sonvico.
+Wichtig: Der Zahlungsbefehl ist mit der eingeschriebenen Sendung vom [[date|2. Februar 2026]] an die Adresse der [[organization|Dima SA]] zu richten, Sitz [[address|Trottweg 12, 6917 Barbengo]]; Eingang am [[date|9. Februar 2026]] bestätigt. Eine zweite Sendung an die Mitschuldner ging am [[date|10. Februar 2026]] an die Adresse in [[location|Sonvico]].
 
 Die Gläubigerin hat im Begehren die Pfändung einer Liegenschaft nicht beantragt. Die Betreibung richtet sich auf das bewegliche Vermögen des Schuldners. Der Vertreter [[person|Samuel Morgado]] hat zugesichert, dass die Gläubigerin die Verwertung bei Bedarf gesondert anmelden wird.
 

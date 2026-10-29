@@ -52,7 +52,7 @@ Zur Anhörung nach [[legal_norm|§ 24 SGB X]] wurden Sie mit Schreiben vom [[dat
 
 Die Angaben zu dem Konflikt am Arbeitsplatz sind für die Entscheidung nicht erheblich. Maßgeblich ist, dass Sie das Vermittlungsangebot vom [[date|12. Mai 2026]] ohne wichtigen Grund abgelehnt haben. Ein wichtiger Grund liegt nur vor, wenn die Arbeit aus gesundheitlichen, familiären oder sonstigen erheblichen Gründen unzumutbar war. Solche Gründe haben Sie nicht dargelegt.
 
-Das Angebot war auch im Hinblick auf Ihre persönlichen Verhältnisse zumutbar. Die Entfernung zwischen Zimmerschied und [[location|Düsseldorf]] beträgt rund 200 Kilometer, und die Anfahrt wird durch den angebotenen Fahrdienst abgedeckt. Die Tätigkeit als Eventhelfer entspricht Ihrer beruflichen Erfahrung im Lager- und Logistikbereich. Die Zumutbarkeit ergibt sich aus [[legal_norm|§ 10 Abs. 1 Nr. 1 SGB II]] iVm [[legal_norm|§ 10 Abs. 2 SGB II]].
+Das Angebot war auch im Hinblick auf Ihre persönlichen Verhältnisse zumutbar. Die Entfernung zwischen [[location|Zimmerschied]] und [[location|Düsseldorf]] beträgt rund 200 Kilometer, und die Anfahrt wird durch den angebotenen Fahrdienst abgedeckt. Die Tätigkeit als Eventhelfer entspricht Ihrer beruflichen Erfahrung im Lager- und Logistikbereich. Die Zumutbarkeit ergibt sich aus [[legal_norm|§ 10 Abs. 1 Nr. 1 SGB II]] iVm [[legal_norm|§ 10 Abs. 2 SGB II]].
 
 Vermittlungsbemühungen seit Januar 2026
 
@@ -99,7 +99,7 @@ Ein Nachweis über die Versicherungsnummer ist für die Zahlung der Sozialversic
 
 5a. Kosten der Unterkunft und Hinweise zur Mitwirkung
 
-Die Kosten der Unterkunft für die Wohnung in Zimmerschied werden weiterhin in angemessener Höhe übernommen. Die Minderung erfasst nur den Regelbedarf und nicht die Kosten der Unterkunft und Heizung. Die Wohnung wurde von Ihnen und Frau [[person|Schnell]] gemeinsam angemietet; die Mietzahlung erfolgt unmittelbar an den Vermieter. Eine Änderung des Mietverhältnisses haben Sie uns bislang nicht gemeldet. Bitte teilen Sie uns eine Kündigung oder eine Änderung der Miete sofort mit. Die Angemessenheit wird nach [[legal_norm|§ 22 Abs. 1 SGB II]] geprüft.
+Die Kosten der Unterkunft für die Wohnung in [[location|Zimmerschied]] werden weiterhin in angemessener Höhe übernommen. Die Minderung erfasst nur den Regelbedarf und nicht die Kosten der Unterkunft und Heizung. Die Wohnung wurde von Ihnen und Frau [[person|Schnell]] gemeinsam angemietet; die Mietzahlung erfolgt unmittelbar an den Vermieter. Eine Änderung des Mietverhältnisses haben Sie uns bislang nicht gemeldet. Bitte teilen Sie uns eine Kündigung oder eine Änderung der Miete sofort mit. Die Angemessenheit wird nach [[legal_norm|§ 22 Abs. 1 SGB II]] geprüft.
 
 Sie sind verpflichtet, an Terminen teilzunehmen, zu denen Sie eingeladen werden. Versäumte Termine ohne wichtigen Grund können ebenfalls zu einer Minderung führen. Die Einladung zu einem weiteren Termin wird Ihnen gesondert zugestellt. Sollten Sie gesundheitliche Einschränkungen geltend machen, legen Sie bitte eine aktuelle ärztliche Bescheinigung vor. Die Stellungnahme von [[person|Farage]] wurde nur zu dem Zweck eingeholt, Ihre Arbeitsfähigkeit zu klären; ein weitergehender Anspruch auf Feststellung einer Behinderung ist daraus nicht abzuleiten.
 

@@ -34,3 +34,14 @@ the spec. Fixes for the remaining waves: degree lists per country and HRA for e.
 unwritten briefs b010+), and a self-check step in the writer prompt (chronology, geography, roles, letterhead/
 dateline/sign-off tagged, names in caps/lower-case passages, no reuse of spec examples or of text from other
 documents of the batch).
+
+## Wave 1 (batches 10-49, 240 documents)
+
+All 240 pass `--strict` and `legalner.audit` (one Belgian huissier with "Me" inside a span fixed by hand: bailiffs are
+`person`). LLM audit of 6 documents (seed 31): 7 errors reported, 1 of them wrong (a notary signing "Für die Richtigkeit
+der Ausfertigung" stays `lawyer`). Remaining misses: a company never tagged in a Gesellschaftsvertrag title and § 1
+(fixed), a unique federal body (Deutscher Wetterdienst, fixed), and a town of a tagged address written alone three
+times. New lint rule: the town of a tagged address that appears alone elsewhere is flagged; it found 55 such misses in
+the 300 v4 documents, all tagged `location` by script (`Gemeinde Himmelberg`, `in Niederthalheim`, `Gemarkung
+Heringen`). Realism notes are of the same kind as in the pilot (competence of the court, chronology of enclosures),
+fewer per document.

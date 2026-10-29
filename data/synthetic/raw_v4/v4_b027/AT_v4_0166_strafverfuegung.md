@@ -22,7 +22,7 @@ Rechtsvertreterin der Beschuldigten: [[lawyer|Liana Erkinger]], Rechtsanwältin
 
 I. Tatvorwurf
 
-Sie haben am [[date|12. März 2026]] um 14:07 Uhr das Fahrzeug mit dem Kennzeichen [[license_plate|I-8245D]] auf der [[street|Kumberger Landesstraße]] im Gemeindegebiet Kumberg gelenkt und dabei die auf diesem Straßenabschnitt erlaubte Höchstgeschwindigkeit von 70 km/h überschritten. Die Messung mittels stationärer Anlage ergab eine Geschwindigkeit von 103 km/h. Nach Abzug der Messtoleranz verbleibt eine Überschreitung von 31 km/h.
+Sie haben am [[date|12. März 2026]] um 14:07 Uhr das Fahrzeug mit dem Kennzeichen [[license_plate|I-8245D]] auf der [[street|Kumberger Landesstraße]] im Gemeindegebiet [[location|Kumberg]] gelenkt und dabei die auf diesem Straßenabschnitt erlaubte Höchstgeschwindigkeit von 70 km/h überschritten. Die Messung mittels stationärer Anlage ergab eine Geschwindigkeit von 103 km/h. Nach Abzug der Messtoleranz verbleibt eine Überschreitung von 31 km/h.
 
 II. Ermittlungsergebnis
 

@@ -54,7 +54,7 @@ Entscheidungsgründe
 
 I. Die zulässige Klage ist begründet. Der Klägerin steht gegen die Beklagten ein Anspruch auf Zahlung von 37.450,00 Euro aus [[legal_norm|§ 631 BGB]] i.V.m. [[legal_norm|§ 280 Abs. 1 BGB]] zu.
 
-Die Beklagte zu 1) hat die Veranstaltung ohne wichtigen Grund abgesagt. Die Behauptung, die Witterung habe eine Durchführung unmöglich gemacht, ist nicht belegt. Die Kammer hat die Zeugenaussage des Zeugen [[person|Kowalczyk]] gewürdigt; dessen Angaben sind glaubhaft und werden durch die Wetterdaten des Deutschen Wetterdienstes gestützt.
+Die Beklagte zu 1) hat die Veranstaltung ohne wichtigen Grund abgesagt. Die Behauptung, die Witterung habe eine Durchführung unmöglich gemacht, ist nicht belegt. Die Kammer hat die Zeugenaussage des Zeugen [[person|Kowalczyk]] gewürdigt; dessen Angaben sind glaubhaft und werden durch die Wetterdaten des [[organization|Deutschen Wetterdienstes]] gestützt.
 
 Die Beklagte zu 2) haftet nicht bereits als Gesellschafterin, wohl aber aufgrund ihrer schriftlichen Haftungsübernahme vom [[date|14.03.2025]] als Gesamtschuldnerin. Die Zinsforderung folgt aus [[legal_norm|§ 288 Abs. 1 BGB]].
 

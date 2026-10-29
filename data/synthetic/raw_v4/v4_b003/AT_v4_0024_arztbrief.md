@@ -15,7 +15,7 @@ Aufnahme: [[date|14.07.2026]], Entlassung: [[date|21.07.2026]]
 
 Sehr geehrte Kolleginnen und Kollegen,
 
-wir berichten über die stationäre Behandlung von Frau [[person|Gredt]], geb. 1978, die am [[date|14.07.2026]] nach einem Arbeitsunfall in unserer Notaufnahme vorstellig wurde. Die Patientin war als Beifahrerin in einem Lieferwagen der Firma [[organization|Porsche Transport GmbH]], [[company_register_number|FN 309519a]], [[tax_id|ATU77035646]], unterwegs, als das Fahrzeug auf der Landesstraße bei Kaumberg von der Fahrbahn abkam.
+wir berichten über die stationäre Behandlung von Frau [[person|Gredt]], geb. 1978, die am [[date|14.07.2026]] nach einem Arbeitsunfall in unserer Notaufnahme vorstellig wurde. Die Patientin war als Beifahrerin in einem Lieferwagen der Firma [[organization|Porsche Transport GmbH]], [[company_register_number|FN 309519a]], [[tax_id|ATU77035646]], unterwegs, als das Fahrzeug auf der Landesstraße bei [[location|Kaumberg]] von der Fahrbahn abkam.
 
 Nach den Angaben der Polizei, die den Unfall am Unfallort aufgenommen hat, fuhr das Fahrzeug mit etwa 60 km/h auf einer Strecke mit einer Geschwindigkeitsbegrenzung von 70 km/h. Die Polizei hat ein Protokoll über den Hergang angefertigt, das uns in Kopie vorliegt. Eine Alkoholisierung des Fahrers wurde nicht festgestellt. Das Fahrzeug war auf den Halter [[organization|Porsche Transport GmbH]] zugelassen und wurde nach dem Unfall abgeschleppt.
 

@@ -254,6 +254,10 @@ def lint(text, spans, fname):
         if label in ("date", "legal_norm"):
             continue  # short forms legitimately repeat untagged
         needles.add(surface)
+        town = re.search(r"\b\d{4,5}\s([A-ZÄÖÜ][\w.\-]+(?:\s(?:an\sder|am|im|bei|ob\sder)?\s?[A-ZÄÖÜ][\w.\-]+){0,3})$",
+                         surface) if label == "address" else None
+        if town and len(town.group(1)) >= 4:
+            needles.add(town.group(1))  # the town of a tagged address, written alone elsewhere, is a location
         if label == "person":
             last = surface.split()[-1]
             if len(last) >= 4 and last[0].isupper() and "*" not in last:

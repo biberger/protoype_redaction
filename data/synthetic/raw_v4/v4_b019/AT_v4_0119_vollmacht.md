@@ -86,7 +86,7 @@ VIII. Kosten und Aufwandsersatz
 
 (1) Der Bevollmächtigte erhält für seine Tätigkeit ein Honorar nach Stundensätzen, die gesondert vereinbart werden. Die Honorarnote ist den Vollmachtgeberinnen und dem Vollmachtgeber in Kopie zu übermitteln.
 
-(2) Die Kosten für Amtswege, Kopien und Porto werden dem Bevollmächtigten ersetzt, sofern sie belegt sind. Für Fahrten nach Landl wird das amtliche Kilometergeld in der jeweils geltenden Höhe ersetzt.
+(2) Die Kosten für Amtswege, Kopien und Porto werden dem Bevollmächtigten ersetzt, sofern sie belegt sind. Für Fahrten nach [[location|Landl]] wird das amtliche Kilometergeld in der jeweils geltenden Höhe ersetzt.
 
 (3) Die Umsatzsteuer ist im Honorar nicht enthalten, sofern der Bevollmächtigte nicht Unternehmer im Sinne des [[legal_norm|§ 6 UStG]] ist.
 

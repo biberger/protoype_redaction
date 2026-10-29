@@ -32,7 +32,7 @@ Die [[organization|Mair Fliesen GmbH]] und die [[organization|Reif Metallbau Gmb
 
 Die Gebühren wurden auf das Konto mit der IBAN [[bank_account|AT07 8976 2185 3588 0460]] eingezahlt. Die Sozialversicherungsnummer des Antragstellers lautet [[social_security_number|8123 170567]].
 
-Der Antragsteller hat eine Wohnung in Niederneukirchen angemietet, deren Mietvertrag bis zum [[date|30. Juni 2028]] läuft. Die Krankenversicherung besteht bei der Gebietskrankenkasse seit dem [[date|1. Oktober 2025]]. Ein ärztliches Zeugnis über die Tauglichkeit wurde am [[date|20. Februar 2026]] vorgelegt und von [[person|Dr. Ludmila Hafner]] ausgestellt.
+Der Antragsteller hat eine Wohnung in [[location|Niederneukirchen]] angemietet, deren Mietvertrag bis zum [[date|30. Juni 2028]] läuft. Die Krankenversicherung besteht bei der Gebietskrankenkasse seit dem [[date|1. Oktober 2025]]. Ein ärztliches Zeugnis über die Tauglichkeit wurde am [[date|20. Februar 2026]] vorgelegt und von [[person|Dr. Ludmila Hafner]] ausgestellt.
 
 Beweiswürdigung:
 

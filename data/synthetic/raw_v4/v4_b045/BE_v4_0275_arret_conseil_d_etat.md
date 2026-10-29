@@ -26,7 +26,7 @@ Le [[court|Conseil d'État]], XIe chambre, a rendu l'arrêt suivant:
 
 I. Faits
 
-1. Par arrêté du [[date|21.04.2026]], le collège communal de la [[organization|Commune de Wavre]] a délivré à la partie intervenante un permis d'urbanisme portant sur la transformation d'un immeuble sis à Wavre, en vue de la création de deux logements et d'un local de stockage à l'arrière de la parcelle.
+1. Par arrêté du [[date|21.04.2026]], le collège communal de la [[organization|Commune de Wavre]] a délivré à la partie intervenante un permis d'urbanisme portant sur la transformation d'un immeuble sis à [[location|Wavre]], en vue de la création de deux logements et d'un local de stockage à l'arrière de la parcelle.
 
 2. Les requérants, propriétaires du fonds voisin, ont introduit un recours en annulation le [[date|3 juin 2026]]. Ils soutiennent que la décision n'est pas motivée à suffisance, que le dossier n'a pas été soumis à l'enquête publique dans les formes requises et que la hauteur de la construction méconnaît les prescriptions applicables. Le chantier, dont les camions empruntent la [[street|rue du Tilleul Ardent]] jusqu'à l'arrière de la parcelle, entraverait en outre l'accès des riverains.
 

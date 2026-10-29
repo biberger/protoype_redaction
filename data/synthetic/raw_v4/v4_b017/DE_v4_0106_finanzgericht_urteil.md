@@ -44,7 +44,7 @@ Tenor
 
 Tatbestand
 
-Die Kläger sind Gesellschafter der [[organization|Weingut Tillmann GbR]], die seit 1998 einen Weinbaubetrieb auf Flächen im Gebiet der Gemeinde Ober-Hilbersheim bewirtschaftet. Die Gesellschaft ermittelt ihren Gewinn durch Einnahmenüberschussrechnung und erzielt Einkünfte aus Land- und Forstwirtschaft sowie aus Gewerbebetrieb.
+Die Kläger sind Gesellschafter der [[organization|Weingut Tillmann GbR]], die seit 1998 einen Weinbaubetrieb auf Flächen im Gebiet der Gemeinde [[location|Ober-Hilbersheim]] bewirtschaftet. Die Gesellschaft ermittelt ihren Gewinn durch Einnahmenüberschussrechnung und erzielt Einkünfte aus Land- und Forstwirtschaft sowie aus Gewerbebetrieb.
 
 Mit notariell beglaubigtem Schenkungsvertrag vom [[date|3. Juni 2019]] übertrug der Kläger zu 1) einen Gesellschaftsanteil von 20 v.H. auf die Beigeladene [[person|Prof. Dr. Hinrika Hen-
 ning]]. Der Vertrag enthält keine Regelung über eine Einlage. Die Übertragung sollte mit Wirkung zum [[date|1. Juli 2019]] erfolgen.
