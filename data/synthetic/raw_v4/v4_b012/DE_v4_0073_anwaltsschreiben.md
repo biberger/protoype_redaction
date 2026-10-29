@@ -20,13 +20,13 @@ Unser Zeichen: [[other_identifier|2026/0417-DS]]
 
 Sehr geehrter Herr [[person|Dipl.-Ing. Rausch]],
 
-in der Angelegenheit meiner Mandantin, Frau [[person|Netty Diener]], zeige ich an, dass ich sie anwaltlich vertrete. Eine Vollmacht liegt diesem Schreiben bei. Frau Diener ist Eigentümerin des unmittelbar benachbarten Grundstücks [[address|Jagowstraße 16, 16259 Oderaue]].
+in der Angelegenheit meiner Mandantin, Frau [[person|Netty Diener]], zeige ich an, dass ich sie anwaltlich vertrete. Eine Vollmacht liegt diesem Schreiben bei. Frau [[person|Diener]] ist Eigentümerin des unmittelbar benachbarten Grundstücks [[address|Jagowstraße 16, 16259 Oderaue]].
 
-Mit dem Sachverhalt befasse ich mich seit Ihrer Nachricht vom 3. September 2026, die Sie an die Mandantin unter [[email|ndiener@gmx.de]] gerichtet haben. Diese Nachricht ist bislang unbeantwortet geblieben. Ich bitte Sie daher, die Angelegenheit nunmehr über mich zu führen.
+Mit dem Sachverhalt befasse ich mich seit Ihrer Nachricht vom [[date|3. September 2026]], die Sie an die Mandantin unter [[email|ndiener@gmx.de]] gerichtet haben. Diese Nachricht ist bislang unbeantwortet geblieben. Ich bitte Sie daher, die Angelegenheit nunmehr über mich zu führen.
 
 **1. Sachverhalt**
 
-Auf Ihrem Grundstück wurde im Frühjahr 2026 eine Garagenwand errichtet. Ausweislich der Bauausführung von [[person|Seyed Nasir, Dipl.-Ing.]] verläuft diese Wand auf einer Länge von etwa 9,40 m an der gemeinsamen Grenze. Das im Lageplan vom 12. März 2026 eingezeichnete Maß endet jedoch rund 62 cm vor der Grundstücksgrenze. Eine Vermessung durch den öffentlich bestellten Vermessungsingenieur ergab, dass die Wand an ihrem südlichen Ende rund 38 cm auf dem Grundstück meiner Mandantin steht.
+Auf Ihrem Grundstück wurde im Frühjahr 2026 eine Garagenwand errichtet. Ausweislich der Bauausführung von [[person|Dipl.-Ing. Seyed Nasir]] verläuft diese Wand auf einer Länge von etwa 9,40 m an der gemeinsamen Grenze. Das im Lageplan vom [[date|12. März 2026]] eingezeichnete Maß endet jedoch rund 62 cm vor der Grundstücksgrenze. Eine Vermessung durch den öffentlich bestellten Vermessungsingenieur ergab, dass die Wand an ihrem südlichen Ende rund 38 cm auf dem Grundstück meiner Mandantin steht.
 
 Als Zeuge kann [[person|Friedrich von Gerlach]] bestätigen, dass die Fundamentarbeiten im Juni 2026 ohne vorherige Abstimmung begonnen wurden. Er hat die Arbeiten von seinem Gartenzaun aus beobachtet und den Bauleiter mehrfach auf die Grenzlinie hingewiesen.
 
@@ -38,11 +38,11 @@ Dazu kommt, dass Sie als Bauherr für den Schaden haften, den meine Mandantin du
 
 **3. Forderungen**
 
-Ich fordere Sie hiermit auf, bis spätestens zum 2. Oktober 2026
+Ich fordere Sie hiermit auf, bis spätestens zum [[date|2. Oktober 2026]]
 
 a) die Wand auf den vermessenen Grenzverlauf zurückzubauen oder den überragenden Teil zu entfernen,
 
-b) die Zusage von [[person|Nasirs]] Bauleitung vom 2. Juni 2026, die Grenzlinie vor Baubeginn zu markieren, schriftlich zu bestätigen,
+b) die Zusage von [[person|Nasirs]] Bauleitung vom [[date|2. Juni 2026]], die Grenzlinie vor Baubeginn zu markieren, schriftlich zu bestätigen,
 
 c) die bisher entstandenen Vermessungskosten von EUR 684,50 zu erstatten.
 
@@ -50,9 +50,9 @@ Sollten Sie diesen Forderungen nicht fristgerecht nachkommen, werde ich ohne wei
 
 **4. Schadensersatz**
 
-Meine Mandantin war infolge der Bauarbeiten vom 15. Juni bis 31. August 2026 nicht in der Lage, ihre Zufahrt zu nutzen. Dadurch sind ihr Mehrkosten für die Anmietung eines Stellplatzes entstanden. Zur Berechnung der Ausfallkosten wird die Rentenversicherungsnummer [[social_security_number|50 270676 N 723]] der Mandantin für die Abrechnung mit dem Versicherungsträger benötigt; diese Angabe bitte ich vertraulich zu behandeln.
+Meine Mandantin war infolge der Bauarbeiten vom [[date|15. Juni]] bis [[date|31. August 2026]] nicht in der Lage, ihre Zufahrt zu nutzen. Dadurch sind ihr Mehrkosten für die Anmietung eines Stellplatzes entstanden. Zur Berechnung der Ausfallkosten wird die Rentenversicherungsnummer [[social_security_number|50 270676 N 723]] der Mandantin für die Abrechnung mit dem Versicherungsträger benötigt; diese Angabe bitte ich vertraulich zu behandeln.
 
-Die Mehrkosten belaufen sich nach bisherigem Stand auf EUR 1.240,00. Ich bitte Sie, den Betrag bis zum 2. Oktober 2026 auf das Konto der Mandantin [[bank_account|DE89 1401 1162 3910 3265 34]] zu überweisen. Als Verwendungszweck geben Sie bitte das oben genannte Aktenzeichen an.
+Die Mehrkosten belaufen sich nach bisherigem Stand auf EUR 1.240,00. Ich bitte Sie, den Betrag bis zum [[date|2. Oktober 2026]] auf das Konto der Mandantin [[bank_account|DE89 1401 1162 3910 3265 34]] zu überweisen. Als Verwendungszweck geben Sie bitte das oben genannte Aktenzeichen an.
 
 **5. Schlussbemerkung**
 
@@ -63,4 +63,4 @@ Mit freundlichen Grüßen
 [[lawyer|Dr. Hanne Kowalczyk]]
 Rechtsanwältin
 
-Anlagen: Vollmacht, Lageplan vom 12. März 2026, Vermessungsprotokoll
+Anlagen: Vollmacht, Lageplan vom [[date|12. März 2026]], Vermessungsprotokoll
