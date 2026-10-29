@@ -30,7 +30,15 @@ Working directory: ${root}. Use Python via \`python3\` from the repository root.
    case numbers, extra persons), but new persons need varied, realistic names, never well-known names.
    An address that says "(invent ...)" is a placeholder: invent a realistic one in that city.
    Further identifiers with check digits come from \`python3 -m legalner.fake_ids <kind>\` (kinds: iban AT,
-   svnr, fn, uid_at, ust_idnr_de, steuernummer_de, rvnr, hrb, ahv, che_uid, nir, siren, siret, tva_fr, be_enterprise).
+   svnr, fn, uid_at, ust_idnr_de, steuernummer_de, rvnr, hrb, ahv, che_uid, nir, siren, siret, tva_fr, be_enterprise,
+   be_nrn, lu_matricule, plate_at/_de/_ch/_fr, passport_/id_card_/driving_licence_ + at/de/ch/fr).
+   A person with "degree" and "degree_after" is written with the whole chain inside the span, e.g.
+   [[person|Prof. Dr. Dr. Max Muster, MBA PhD (New York)]] (at least at the first mention).
+   "rare_entities" MUST all appear, tagged with exactly these labels: license_plate, id_document_number (the
+   number only, e.g. "Reisepass Nr. [[id_document_number|P1234567]]"), street (the street name WITHOUT a house
+   number, e.g. the scene of an incident: "auf der [[street|Heiliggeiststraße]]"), phone_number, email.
+   A hard case asking for ALL CAPS or lower case: write that passage so (keep ß as ß or write SS as the document
+   would) and tag its entities as usual, e.g. [[organization|HUBER BAU GMBH]].
 4. Respect "target_words" (±25%), "pseudonymised" (RIS style: A*****, *****, tagged with the label of what was
    replaced; then the cast persons are replaced by placeholders), "ocr_noise" (hyphenation across line breaks,
    O/0 and l/1 swaps, stray spaces, kept inside spans) and work the two "hard_cases" into the text.

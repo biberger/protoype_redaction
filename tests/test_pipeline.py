@@ -1,3 +1,4 @@
+import collections
 import random
 import re
 
@@ -328,3 +329,28 @@ def test_case_augmentation_keeps_offsets():
             assert s["text"].lower() == text[s["start"]:s["end"]].lower()
     assert seen == {"upper", "lower", "spans"}
     assert rec["text"] == text  # the original record is not modified
+
+
+def test_genplan_v4_briefs_carry_rare_labels():
+    from legalner import genplan
+    from legalner.gazetteers import Gazetteer
+    rng = random.Random(4)
+    gaz = Gazetteer(rng=rng)
+    seen = collections.Counter()
+    for i, (jur, lang, doc_type) in enumerate(genplan._weighted_types(rng, 300, genplan.OVERSAMPLE)):
+        b = genplan.brief(gaz, rng, jur, lang, doc_type, i, "v4", rare=True)
+        rare = b["rare_entities"]
+        assert 1 <= len(rare) <= 3 and set(rare) <= set(genplan.RARE_KINDS)
+        seen.update(rare.keys())
+        if "license_plate" in rare and jur in ("AT", "DE", "CH", "FR"):
+            assert fake_ids.license_plate_is_valid(rare["license_plate"], jur)
+        if "id_document_number" in rare:
+            d = rare["id_document_number"]
+            assert fake_ids.id_document_is_valid(d["number"], {"LI": "CH"}.get(jur, jur), d["document"])
+        if b["identifiers"].get("social_security_number") and jur == "BE":
+            assert fake_ids.be_nrn_is_valid(b["identifiers"]["social_security_number"])
+        if b["identifiers"].get("social_security_number") and jur == "LU":
+            assert fake_ids.lu_matricule_is_valid(b["identifiers"]["social_security_number"])
+        if doc_type.startswith(genplan.COURT_DOC_PREFIXES):
+            assert not {"phone_number", "email"} & set(rare)
+    assert set(seen) == set(genplan.RARE_KINDS)

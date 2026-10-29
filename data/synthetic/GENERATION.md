@@ -92,9 +92,20 @@ RIS Rechtssatz numbers, URLs, amounts, months or years without a day, generic co
 - Hard cases on purpose: names that are also places or words (Frau Wien, Herr Steyr, Mme Paris),
   surname-only coreference, persons in genitive ("Steinbergers Antrag"), long chained citations,
   tables as text, lists of parties, 1 in 10 documents RIS-pseudonymised, 1 in 10 with OCR noise.
+- Case: some passages are written in ALL CAPS or all lower case (letterheads, party blocks, stamps,
+  OCR'd headings, quoted e-mails or chat messages). Entities in them are tagged exactly like normal text:
+  `[[organization|HUBER BAU GMBH]]`, `[[person|mag. eva brunnbauer]]`, `[[address|HAUPTSTRASSE 4, 4020 LINZ]]`.
+  Write ß as ß in upper case too (`GROßE GASSE`) or use the spelling the document would use (`STRASSE`).
+- Rare labels: licence plates (police reports, Strafverfügungen, vehicle sale contracts, insurance letters),
+  ID document numbers (residence titles, BFA decisions, contracts, police reports), street names without
+  house number ("auf der [[street|Mariahilfer Straße]]"), phone numbers and e-mails (letters, contracts,
+  e-mails; not in judgments).
 - Identifiers with valid check digits: use `python3 -m legalner.fake_ids all` (or `iban AT 3`,
   `svnr`, `fn`, `uid_at`, `ust_idnr_de`, `steuernummer_de`, `rvnr`, `hrb`, `ahv`, `che_uid`, `nir`,
-  `siren`, `siret`, `tva_fr`, `be_enterprise`, `be_nrn`, `lu_matricule`) instead of inventing numbers. `python -m legalner.audit`
+  `siren`, `siret`, `tva_fr`, `be_enterprise`, `be_nrn` (BE social security), `lu_matricule` (LU social
+  security), licence plates `plate_at`, `plate_de`, `plate_ch`, `plate_fr`, ID documents
+  `passport_at`, `id_card_at`, `driving_licence_at` and the same for `_de`, `_ch`, `_fr`) instead of inventing
+  numbers. BE and LU documents never use the French NIR format. `python -m legalner.audit`
   rejects wrong check digits.
 - Internal consistency (the pilot audit found ~3 problems per document): dates in order (no statement
   describing later events), amounts that add up, court competence and district matching the places

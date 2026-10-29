@@ -14,6 +14,7 @@ import collections
 import json
 import pathlib
 import random
+import re
 
 from legalner import fake_ids as F
 from legalner.gazetteers import Gazetteer
@@ -30,17 +31,19 @@ MATRIX = {
         "mietvertrag", "kaufvertrag_liegenschaft", "kaufvertrag_kfz", "arbeitsvertrag", "dienstzeugnis",
         "gesellschaftsvertrag", "notariatsakt", "testament", "grundbuchsauszug", "firmenbuchauszug",
         "protokoll_tagsatzung", "polizeiliche_anzeige", "sachverstaendigengutachten", "arztbrief",
-        "versicherungsschreiben", "datenschutzauskunft", "vollmacht"]),
+        "versicherungsschreiben", "datenschutzauskunft", "vollmacht", "aufenthaltstitel"]),
     ("DE", "de"): (0.20, [
         "bgh_urteil", "olg_urteil", "lg_urteil", "ag_urteil", "arbeitsgericht_urteil", "lag_urteil",
         "sozialgericht_urteil", "vg_urteil", "finanzgericht_urteil", "strafbefehl", "anklageschrift",
         "bescheid_finanzamt", "bescheid_jobcenter", "abmahnung", "klageschrift", "mietvertrag",
         "kaufvertrag_notariell", "arbeitsvertrag", "handelsregisterauszug", "grundbuchauszug",
-        "anwaltsschreiben", "mahnbescheid"]),
+        "anwaltsschreiben", "mahnbescheid", "bussgeldbescheid", "kaufvertrag_kfz", "versicherungsschreiben",
+        "polizeiliche_anzeige", "aufenthaltserlaubnis"]),
     ("CH", "de"): (0.10, [
         "bger_urteil", "obergericht_urteil", "kantonsgericht_entscheid", "handelsgericht_urteil", "strafbefehl",
         "zahlungsbefehl", "verfuegung_migrationsamt", "mietvertrag", "arbeitsvertrag", "arbeitszeugnis",
-        "handelsregisterauszug", "anwaltsschreiben"]),
+        "handelsregisterauszug", "anwaltsschreiben", "polizeirapport", "kaufvertrag_fahrzeug",
+        "versicherungsschreiben", "auslaenderausweis_verfuegung"]),
     ("CH", "fr"): (0.05, [
         "bger_arret", "arret_cour_de_justice", "jugement_tribunal_des_baux", "ordonnance_penale",
         "contrat_de_bail", "lettre_avocat"]),
@@ -48,7 +51,8 @@ MATRIX = {
         "arret_cour_de_cassation", "arret_cour_d_appel", "jugement_tribunal_judiciaire", "jugement_prud_hommes",
         "jugement_correctionnel", "arret_conseil_d_etat", "jugement_tribunal_administratif", "ordonnance_refere",
         "acte_notarie", "contrat_de_bail", "contrat_de_travail", "mise_en_demeure", "proces_verbal_audition",
-        "assignation", "extrait_kbis"]),
+        "assignation", "extrait_kbis", "avis_de_contravention", "proces_verbal_police", "lettre_assurance",
+        "certificat_de_cession_vehicule", "titre_de_sejour_decision"]),
     ("BE", "fr"): (0.04, [
         "arret_cour_d_appel", "jugement_tribunal_entreprise", "jugement_tribunal_premiere_instance",
         "arret_conseil_d_etat", "contrat_de_bail", "mise_en_demeure"]),
@@ -76,17 +80,48 @@ FR_CITIES = ["Paris", "Lyon", "Marseille", "Toulouse", "Nantes", "Strasbourg", "
              "Montpellier", "Grenoble", "Dijon", "Angers", "Nîmes", "Reims", "Le Havre", "Metz", "Tours"]
 BE_CITIES = ["Bruxelles", "Liège", "Namur", "Charleroi", "Mons", "Louvain-la-Neuve", "Wavre", "Arlon"]
 LU_CITIES = ["Luxembourg", "Esch-sur-Alzette", "Differdange", "Dudelange", "Ettelbruck", "Diekirch"]
+# document types where licence plates, ID documents, phones and e-mails occur naturally: drawn
+# OVERSAMPLE times as often within their jurisdiction (synthetic v4 targets the rare labels)
+OVERSAMPLE = 4
+RARE_LABEL_TYPES = {
+    "polizeiliche_anzeige", "strafverfuegung", "kaufvertrag_kfz", "bescheid_bfa", "aufenthaltstitel",
+    "versicherungsschreiben", "bussgeldbescheid", "aufenthaltserlaubnis", "polizeirapport", "kaufvertrag_fahrzeug",
+    "auslaenderausweis_verfuegung", "avis_de_contravention", "proces_verbal_police", "lettre_assurance",
+    "certificat_de_cession_vehicule", "titre_de_sejour_decision", "proces_verbal_audition", "strafbefehl"}
+# rare-label entities, 1-3 per brief in v4
+RARE_KINDS = ("license_plate", "id_document_number", "street", "phone_number", "email")
+PRE_DEGREES = ["Dr.", "Mag.", "DI", "Ing.", "MMag.", "Dr. med.", "Prof. Dr.", "Univ.-Prof. Dr.", "Dr. Dr.",
+               "Prof. Dr. Dr.", "Mag. Dr.", "Dipl.-Ing. Dr.", "DDr.", "Priv.-Doz. Dr."]
+POST_DEGREES = ["MBA", "BSc", "MSc", "LL.M.", "PhD", "MBA PhD (New York)", "LL.M. (Harvard)", "MSc (London)",
+                "BA", "MAS", "MBA MSc"]
+PHONE_FORMATS = {
+    "AT": ["+43 {a} {b}", "0{a} {b}", "+43 (0){a} {b}"], "DE": ["+49 {a} {b}", "0{a} {b}", "0{a}/{b}"],
+    "CH": ["+41 {c} {d} {e} {f}", "0{c} {d} {e} {f}"], "LI": ["+423 {d} {e} {f}"],
+    "FR": ["+33 {g}", "0{g}"], "BE": ["+32 {c} {d} {e} {f}", "0{c} {d} {e} {f}"], "LU": ["+352 {d} {e} {f}"],
+}
+MAIL_DOMAINS = {"AT": ["gmx.at", "aon.at", "chello.at", "a1.net", "outlook.at"], "DE": ["web.de", "gmx.de", "t-online.de"],
+                "CH": ["bluewin.ch", "gmx.ch", "sunrise.ch"], "LI": ["adon.li", "powersurf.li"],
+                "FR": ["orange.fr", "free.fr", "laposte.net", "sfr.fr"], "BE": ["skynet.be", "telenet.be"],
+                "LU": ["pt.lu", "internet.lu"]}
 COURT_DOC_PREFIXES = ("ogh", "olg", "lg", "bg", "asg", "vwgh", "vfgh", "bvwg", "lvwg", "bfg", "bgh", "ag_",
                       "lag", "sozial", "vg_", "finanz", "bger", "ober", "kantons", "handelsgericht", "arret",
                       "jugement", "fl_ogh", "landgericht", "firmenbuch")
 
 
-def _weighted_types(rng, n):
+CASE_HARD_CASES = [
+    "a letterhead or party block in ALL CAPS (tag the entities inside it as usual)",
+    "a passage in all lower case, e.g. a quoted e-mail or chat message (tag as usual)",
+    "an ALL-CAPS name or company in an OCR'd stamp or heading (tag as usual)"]
+
+
+def _weighted_types(rng, n, oversample=1):
     keys = list(MATRIX)
     counts = collections.Counter(rng.choices(keys, [MATRIX[k][0] for k in keys], k=n))
     out = []
     for key, k in counts.items():
         types = MATRIX[key][1]
+        if oversample > 1:  # repeat the rare-label types in the round-robin list
+            types = [t for t in types for _ in range(oversample if t in RARE_LABEL_TYPES else 1)]
         for i in range(k):  # round-robin over types keeps every type represented
             out.append((key[0], key[1], types[(i + rng.randrange(len(types))) % len(types)]))
     rng.shuffle(out)
@@ -132,12 +167,15 @@ def _address(gaz, rng, jur):
     return f"(invent a realistic street address in {city})"
 
 
-def _person(gaz, rng, jur, role=None):
+def _person(gaz, rng, jur, role=None, chains=False):
     home = jur if jur != "LI" else "AT"
     gender = rng.choice("MF")
     p = {"name": gaz.person(home, gender), "gender": gender}
     if rng.random() < 0.25 and jur in ("AT", "DE", "LI"):
         p["degree"] = rng.choice(["Dr.", "Mag.", "DI", "Ing.", "MMag.", "Dr. med.", "BSc", "MBA"])
+    if chains and rng.random() < 0.07 and jur in ("AT", "DE", "LI", "CH"):  # "Prof. Dr. Dr. X, MBA PhD (New York)"
+        p["degree"] = rng.choice(PRE_DEGREES)
+        p["degree_after"] = rng.choice(POST_DEGREES)
     if role:
         p["role"] = role
     return p
@@ -161,13 +199,78 @@ def _identifiers(rng, jur):
     return ids
 
 
-def brief(gaz, rng, jur, lang, doc_type, idx, wave):
+def _phone(rng, jur):
+    d = lambda n: "".join(rng.choice("0123456789") for _ in range(n))  # noqa: E731
+    fmt = rng.choice(PHONE_FORMATS[jur])
+    area = {"AT": ["664", "650", "676", "699", "1", "316", "732", "512", "662", "463"],
+            "DE": ["30", "89", "40", "221", "151", "160", "170", "176", "711"]}.get(jur, ["1"])
+    return fmt.format(a=rng.choice(area),
+                      b=f"{d(3)} {d(4)}" if rng.random() < 0.5 else d(7), c=rng.choice(["44", "79", "76", "22", "21"]),
+                      d=d(3), e=d(2), f=d(2), g=" ".join(d(2) for _ in range(4)) if "+" in fmt else
+                      rng.choice("1234567") + " " + " ".join(d(2) for _ in range(4)))
+
+
+def _email(rng, jur, person=None, company=None):
+    import unicodedata
+    def ascii_(x):
+        return unicodedata.normalize("NFKD", x).encode("ascii", "ignore").decode().lower()
+    if company and rng.random() < 0.5:
+        base = re.sub(r"[^a-z]+", "-", ascii_(company.split()[0])).strip("-") or "office"
+        prefixes = ["contact", "info", "accueil", "secretariat", "compta"] if jur in ("FR", "BE", "LU") else \
+            ["office", "info", "kanzlei", "kontakt", "buchhaltung", "verwaltung"]
+        return f"{rng.choice(prefixes)}@{base}." \
+               f"{jur.lower() if jur != 'DE' else 'de'}"
+    first, *rest = (person or "Max Muster").split()
+    last = rest[-1] if rest else "muster"
+    first, last = re.sub(r"[^a-z]", "", ascii_(first)) or "post", re.sub(r"[^a-z]", "", ascii_(last)) or "mail"
+    sep = rng.choice([".", "_", "", "."])
+    local = rng.choice([f"{first}{sep}{last}", f"{first[0]}{sep}{last}", f"{last}{rng.randint(1, 99)}"])
+    return f"{re.sub(r'[^a-z0-9._]', '', local)}@{rng.choice(MAIL_DOMAINS[jur])}"
+
+
+def _rare_entities(gaz, rng, jur, doc_type, persons, companies, is_court=False):
+    """1-3 mentions of the rare labels; the vehicle and residence doc types always get theirs.
+    Judgments get no phone numbers or e-mails (implausible there)."""
+    kinds = list(RARE_KINDS)
+    if jur in ("BE", "LU"):  # no plate/ID document generators for these countries
+        kinds = ["street", "phone_number", "email"]
+    if is_court:
+        kinds = [k for k in kinds if k not in ("phone_number", "email")]
+    k = rng.randint(1, 3)
+    chosen = rng.sample(kinds, min(k, len(kinds)))
+    if re.search(r"kfz|fahrzeug|vehicule|contravention|bussgeld|strafverfuegung|anzeige|rapport|police", doc_type) \
+            and "license_plate" in kinds and "license_plate" not in chosen:
+        chosen[0] = "license_plate"
+    if re.search(r"aufenthalt|bfa|sejour|auslaender|migrations", doc_type) \
+            and "id_document_number" in kinds and "id_document_number" not in chosen:
+        chosen[-1] = "id_document_number"
+    country = {"LI": "CH"}.get(jur, jur)
+    out = {}
+    for kind in chosen:
+        if kind == "license_plate":
+            out[kind] = F.license_plate("LI" if jur == "LI" else country, rng)
+        elif kind == "id_document_number":
+            doc = rng.choice(["passport", "id_card", "driving_licence"])
+            out[kind] = {"document": doc, "number": F.id_document(country, doc, rng)}
+        elif kind == "street":
+            street = rng.choice(gaz.streets.get(country) or gaz.streets["AT"]) if country in ("AT", "DE", "CH") \
+                else "(invent a street name)"
+            out[kind] = f"{street} (mention the street without house number, e.g. a place of an incident)"
+        elif kind == "phone_number":
+            out[kind] = _phone(rng, jur)
+        else:
+            out[kind] = _email(rng, jur, rng.choice(persons)["name"] if persons else None,
+                               rng.choice(companies)["name"] if companies else None)
+    return out
+
+
+def brief(gaz, rng, jur, lang, doc_type, idx, wave, rare=False):
     is_court = doc_type.startswith(COURT_DOC_PREFIXES)
     n_persons = rng.randint(2, 7)
     b = {
         "file": f"{jur}_{wave}_{idx:04d}_{doc_type}.md", "doc_type": doc_type, "jurisdiction": jur, "lang": lang,
         "target_words": int(min(2500, max(300, rng.lognormvariate(6.7, 0.5)))),
-        "persons": [_person(gaz, rng, jur) for _ in range(n_persons)],
+        "persons": [_person(gaz, rng, jur, chains=rare) for _ in range(n_persons)],
         "lawyers": [_person(gaz, rng, jur, "lawyer") for _ in range(rng.randint(0, 3 if is_court else 1))],
         "judges": [_person(gaz, rng, jur, "judge") for _ in range(rng.randint(1, 5) if is_court else 0)],
         "companies": [_company(gaz, rng, jur, lang) for _ in range(rng.randint(0, 3))],
@@ -181,8 +284,11 @@ def brief(gaz, rng, jur, lang, doc_type, idx, wave):
             "a person in the genitive (\"Hubers Antrag\")", "a long chain of norm citations",
             "a table written as text", "a list of several parties", "a person with a particle (von, de, van der)",
             "a double-barrelled or hyphenated name", "an abbreviation of an authority after its full name",
-            "dates in two different spellings", "an address split over two lines"], 2),
+            "dates in two different spellings", "an address split over two lines"]
+            + (CASE_HARD_CASES if rare else []), 2),
     }
+    if rare:
+        b["rare_entities"] = _rare_entities(gaz, rng, jur, doc_type, b["persons"], b["companies"], is_court)
     if not is_court:
         b["judges"] = []
     return b
@@ -194,16 +300,20 @@ def main(argv=None):
     ap.add_argument("--per-batch", type=int, default=6)
     ap.add_argument("--wave", default="v3")
     ap.add_argument("--seed", type=int, default=29)
+    ap.add_argument("--rare", action=argparse.BooleanOptionalAction, default=None,
+                    help="v4 briefs: rare-label entities, oversampled types, degree chains, case hard cases "
+                         "(default: on for waves from v4)")
     ap.add_argument("-o", "--out", required=True)
     args = ap.parse_args(argv)
     rng = random.Random(args.seed)
     gaz = Gazetteer(rng=rng)
-    plan = _weighted_types(rng, args.docs)
+    rare = args.rare if args.rare is not None else args.wave not in ("v1", "v2", "v3")
+    plan = _weighted_types(rng, args.docs, OVERSAMPLE if rare else 1)
     out = pathlib.Path(args.out)
     out.parent.mkdir(parents=True, exist_ok=True)
     with out.open("w", encoding="utf-8") as fh:
         for i, (jur, lang, doc_type) in enumerate(plan):
-            b = brief(gaz, rng, jur, lang, doc_type, i + 1, args.wave)
+            b = brief(gaz, rng, jur, lang, doc_type, i + 1, args.wave, rare)
             b["batch"] = f"{args.wave}_b{i // args.per_batch:03d}"
             fh.write(json.dumps(b, ensure_ascii=False) + "\n")
     print(f"{len(plan)} briefs in {-(-len(plan) // args.per_batch)} batches -> {out}")
