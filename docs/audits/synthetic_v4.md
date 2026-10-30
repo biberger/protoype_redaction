@@ -75,7 +75,7 @@ authority reference labelled other_identifier (now case_number). Artefact found 
 from the WGND gazetteer in Cyrillic next to a Latin surname ("Олена Nasarow", 34 spans in v4). The gazetteer now
 transliterates Cyrillic names (German style: Olena, Jewhenija, Illja); 31 v3/v4 files were transliterated in place.
 
-## Synthetic v5 (in progress)
+## Synthetic v5
 
 Plan `data/synthetic/plans/v5.jsonl` (`genplan --docs 2000 --wave v5 --seed 53 --pseudo-frac 0.35`): same matrix and
 rare-label design as v4, new casts, 35 % of AT court documents RIS-pseudonymised (fully tagged, unlike real RIS).
@@ -83,3 +83,7 @@ Spot audit of 6 documents from the first finished batches: 8 errors (2 places, 2
 numeric date with slashes, a degree outside a judge span, a claim number twice). New lint rules: dd/mm/yyyy dates
 and degrees directly before a person/judge/lawyer span; they found 26 degree and 9 slash-date misses in v4 and the
 finished v5 batches, fixed by script.
+
+Completed: 2,000 documents (8,362 records), all pass `--strict` and `legalner.audit` (four missing briefs written by
+single agents). Final audit of 9 documents (seed 9): 7 errors in 478 spans = 1.5 %; four were register prefixes
+(FN/HRB/HRA) outside the company_register_number span. New lint rule for that; 170 v4/v5 files fixed by script.
