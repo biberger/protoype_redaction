@@ -7,3 +7,4 @@ out/
 .venv/
 data/gazetteers/raw/
 data/ris/raw/
+data/eurlex/raw/
