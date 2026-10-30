@@ -159,6 +159,10 @@ SOURCES = {
                    eval_merge={"organization": ("organization", "court")}, eval_partial=frozenset({"organization"}),
                    eval_only=True),
     # hand-checked Austrian gold set (legalner.goldset), never trained on
+    # real EU court texts (CELLAR), model-pre-annotated and agent-corrected to GENERATION.md (legalner.sources.eurlex)
+    "eurlex": Source("eurlex", _ALL - {"case_citation", "contract", "literature", "brand"}),
+    # MAPA's test documents re-annotated to GENERATION.md the same way; evaluation only
+    "mapa_v2": Source("mapa_v2", _ALL - {"case_citation", "contract", "literature", "brand"}, eval_only=True),
     "gold_at": Source("gold_at", _ALL - {"case_citation", "contract", "literature", "brand"}, eval_only=True),
     # RIS decisions: pseudonymised placeholders filled from gazetteers; only the
     # filled labels plus the deterministic ones (dates, case numbers, courts) are covered

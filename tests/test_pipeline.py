@@ -538,3 +538,11 @@ def test_partial_labels_and_coarse_view():
     coarse = score(*to_coarse([rec], [pred]))["scores"]
     assert coarse["all|person"]["f1"] == 1.0 and coarse["all|organization"]["f1"] == 1.0
     assert coarse["all|*"]["f1"] == 1.0
+
+
+def test_pretag_inline_resolves_overlaps():
+    from legalner.pretag import inline
+    text = "Richter Max Huber und die Huber Bau GmbH in Wien."
+    pred = {"person": {(8, 17)}, "judge": {(8, 17)}, "organization": {(26, 40)}, "location": {(32, 40), (44, 48)}}
+    assert inline(text, pred) == ("Richter [[judge|Max Huber]] und die [[organization|Huber Bau GmbH]] in "
+                                  "[[location|Wien]].")

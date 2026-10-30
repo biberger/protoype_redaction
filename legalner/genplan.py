@@ -405,6 +405,20 @@ def eu_brief(gaz, rng, lang, doc_type, idx, wave):
         "hard_cases": rng.sample(EU_HARD_CASES, 3),
         "ocr_noise": rng.random() < 0.05,
     }
+    # keep the cast consistent with the document type and the hard cases
+    no_bench = re.search(r"kommission|commission|euipo", doc_type)
+    if no_bench:  # Commission and EUIPO decisions: no judges, no Advocate General
+        b["judges"], b["advocate_general"] = [], None
+    if re.search(r"^eug_|tribunal_ue", doc_type):  # the General Court has no Advocates General
+        b["advocate_general"] = None
+    if any(h.startswith("a list of governments") for h in b["hard_cases"]) and len(b["governments_observations"]) < 2:
+        b["governments_observations"] = [names[g] for g in rng.sample(sorted(names), 3)]
+    if any(h.startswith("parties pseudonymised") for h in b["hard_cases"]) \
+            and not any("cited_as_initials" in p.get("person", {}) for p in b["parties"]):
+        p = _person(gaz, rng, "AT")
+        p.pop("degree", None)
+        p["cited_as_initials"] = "".join(rng.choice("ABCDEFGHIJKLMNOPRSTUVWXYZ") for _ in range(2))
+        b["parties"].append({"person": p})
     for p in b["judges"] + b["representatives"] + b["agents"] + ([b["advocate_general"]] if b["advocate_general"] else []):
         p.pop("degree", None)
     return b
