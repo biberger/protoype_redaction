@@ -33,6 +33,8 @@ considérant ce qui suit :
 
 5. La société a fait valoir que la subvention n'avait pour objet que de couvrir les coûts de rénovation de cuisines professionnelles. La [[organization|RH]] a produit des devis datés de 2022 qui ne permettent pas de vérifier cette affirmation.
 
+Les bénéficiaires ont été représentés par Me [[lawyer|Ramon Kostelecký]], Me [[lawyer|Miren Ainhoa Vilallonga]] et Me [[lawyer|Saturninus Reynaud]]. Le [[organization|gouvernement hongrois]] a été représenté par M. [[person|Benedikt Štenclová]], agent.
+
 **3. APPRÉCIATION**
 
 6. La [[organization|Commission]] considère que la mesure procure un avantage sélectif aux bénéficiaires et qu'elle est susceptible d'affecter les échanges entre États membres.
@@ -45,7 +47,7 @@ considérant ce qui suit :
 
 10. La société qui a reçu l'aide a également contesté la compétence de la [[organization|Commission]] pour apprécier les effets de la mesure sur des marchés tiers. La [[organization|Commission]] relève que la question de la compétence a été réglée dans l'arrêt [[organization|Otte]], [[case_number|23/88]].
 
-11. L'[[organization|OHSA]] n'a pas justifié le montant de la subvention. Ni l'[[organization|OHSA]] ni les bénéficiaires n'ont produit d'étude sur les effets de la mesure sur les concurrents directs.
+11. L'[[organization|OHSA]] n'a pas justifié le montant de la subvention. Les lignes directrices de [[organization|Frontex]] et les recommandations de l'[[organization|EUIPO]] en matière de marques ne sont pas pertinentes en l'espèce. Ni l'[[organization|OHSA]] ni les bénéficiaires n'ont produit d'étude sur les effets de la mesure sur les concurrents directs.
 
 **4. CONCLUSION**
 

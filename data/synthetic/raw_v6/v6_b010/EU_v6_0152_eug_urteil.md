@@ -36,7 +36,9 @@ unter Berücksichtigung der Erklärungen
 - der [[organization|spanischen Regierung]], vertreten durch [[person|Aladar Haščák]] und [[person|Donat Kozák]] als Bevollmächtigte,
 - der [[organization|deutschen Regierung]],
 - der [[organization|finnischen Regierung]],
-- des [[organization|Europäischen Datenschutzbeauftragten]], vertreten durch [[lawyer|Sophie Schoos]] und [[lawyer|Neculita Váradi]], Rechtsanwältinnen,
+- des [[organization|Europäischen Datenschutzbeauftragten]].
+
+Die [[organization|Santer-Maroldt SCS]] wurde durch die Rechtsanwältinnen [[lawyer|Sophie Schoos]] und [[lawyer|Neculita Váradi]] vertreten.
 
 folgendes
 

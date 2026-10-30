@@ -39,13 +39,13 @@ III. Les observations
 
 IV. Analyse
 
-11. Il résulte de la jurisprudence que le contrôle aux frontières doit être effectué dans le respect des droits de la défense. Dans l'arrêt du [[date|11 mars 2023]], [[organization|Katona]], [[case_number|C-329/23]], la Cour a jugé qu'une autorité ne peut fonder une décision défavorable sur un rapport dont la personne concernée n'a pas eu connaissance.
+11. Il résulte de la jurisprudence que le contrôle aux frontières doit être effectué dans le respect des droits de la défense. Dans l'arrêt du [[date|11 mars 2025]], [[organization|Katona]], [[case_number|C-329/23]], la Cour a jugé qu'une autorité ne peut fonder une décision défavorable sur un rapport dont la personne concernée n'a pas eu connaissance.
 
 12. Dans l'arrêt du [[date|19 novembre 1997]], [[person|Baksay]], [[case_number|T-312/97]], le [[court|Tribunal]] a précisé que l'obligation de motivation s'applique à tout acte susceptible d'affecter la situation d'un particulier.
 
 13. La société [[organization|Textile Baudin]] soutient que le rapport n'a pas été communiqué en temps utile. Cet argument est fondé, dans la mesure où le délai de réponse n'a pas été respecté.
 
-14. Il convient de répondre que le [[legal_norm|règlement (UE) 2016/399]] et l'[[legal_norm|article 20 de la charte des droits fondamentaux de l'Union européenne]] doivent être interprétés en ce sens que le contrôle doit être précédé d'une possibilité effective de présenter des observations, sauf urgence dûment justifiée.
+14. Il convient de répondre que le [[legal_norm|règlement (UE) 2016/399]] et l'[[legal_norm|article 20 de la charte des droits fondamentaux de l'Union européenne]] doivent être interprétés en ce sens. Le contrôle suppose une possibilité effective de présenter des observations, sauf urgence dûment justifiée.
 
 15. Il appartient à la juridiction de renvoi de vérifier si ces conditions étaient réunies en l'espèce, notamment au regard du délai qui s'est écoulé entre le [[date|14 juillet 2024]] et le [[date|22 juillet 2024]].
 

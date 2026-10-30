@@ -67,6 +67,8 @@ rend la présente
 
 15. Les questions posées ne permettent donc pas à la [[court|Cour]] de fournir une réponse utile. La demande de décision préjudicielle est manifestement irrecevable.
 
+Les requérantes au principal ont été représentées par Me [[lawyer|Emiliya Schelest]], Me [[lawyer|Tomasino Trevisan]] et Me [[lawyer|Mileno De Rosa]].
+
 **5. Dépens**
 
 16. La présente ordonnance ne statue pas sur les dépens, qui relèvent de la juridiction de renvoi.

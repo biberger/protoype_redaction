@@ -7,7 +7,7 @@ ARRÊT DE LA [[court|COUR]] (cinquième chambre)
 
 [[date|25 juin 2026]]
 
-«Renvoi préjudiciel – Fonction publique – Droit de la concurrence – Aide d'État – Compétence de l'État membre»
+«Renvoi préjudiciel – Aide d'État – Prime de reconversion – Compétence de l'État membre»
 
 Dans l'affaire [[case_number|C-466/26]],
 

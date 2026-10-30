@@ -33,8 +33,10 @@ unter Berücksichtigung der Erklärungen
 - der [[organization|kroatischen Regierung]],
 - der [[organization|polnischen Regierung]],
 - der [[organization|tschechischen Regierung]],
-- des [[organization|Rates]], vertreten durch Rechtsanwalt [[lawyer|Salem Bous]],
+- des [[organization|Rates]],
 - des [[organization|Europäischen Datenschutzbeauftragten]],
+
+Die Parteien wurden durch die Rechtsanwälte [[lawyer|Salem Bous]] und [[lawyer|Jannick Thiemann]] sowie die Rechtsanwältin [[lawyer|Natalina Schröter]] vertreten. Die slowakische Regierung wurde durch [[person|Lojzko Matejová]] als Bevollmächtigten vertreten.
 
 folgendes
 

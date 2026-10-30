@@ -25,7 +25,7 @@ gegen
 
 erlässt
 
-DER GERICHTSHOF (Achte Kammer)
+DER [[court|GERICHTSHOF]] (Achte Kammer)
 
 unter Mitwirkung der Präsidentin [[judge|Lorette Schwärzler]], der Richter [[judge|István Sándor]] (Berichterstatter), [[judge|Beppino Natoli]] und [[judge|Caine Laeremans]] sowie der Richterin [[judge|Roséma Philips]],
 

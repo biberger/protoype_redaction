@@ -76,6 +76,8 @@ folgendes
 
 15. Der [[court|Gerichtshof]] stellt fest, dass eine Anzeigepflicht, die ausschließlich der Kontrolle dient, keine verbotene Beschränkung darstellt, sofern sie nicht zu einer wesentlichen Verzögerung der Leistungserbringung führt.
 
+[[organization|Textil Vrdoljak]] und [[person|SL]] wurden durch die Rechtsanwälte [[lawyer|Hasse Bourg]] und [[lawyer|Virgile Barraud]] vertreten.
+
 **5. Kosten**
 
 16. Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit vor dem vorlegenden Gericht; über die Kosten hat dieses zu entscheiden.

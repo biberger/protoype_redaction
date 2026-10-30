@@ -21,7 +21,7 @@ gegen
 
 erlässt
 
-DER GERICHTSHOF (Erste Kammer)
+DER [[court|GERICHTSHOF]] (Erste Kammer)
 
 unter Mitwirkung des Präsidenten [[judge|Abdelrazak Van Peteghem]] (Berichterstatter), der Richterinnen [[judge|Živa Obad]], [[judge|Raquel Sofia Guevara]], [[judge|Michaela Bunea]] und [[judge|Aletta Gregori]],
 

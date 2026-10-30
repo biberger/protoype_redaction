@@ -51,7 +51,7 @@ Frage 2: Ist die Gesellschaft als Verantwortliche verpflichtet, die Weitergabe a
 
 4. Verfahrensstand und Beteiligung
 
-4.1. Der [[organization|Europäischer Datenschutzbeauftragter]] hat eine Stellungnahme angekündigt. Das Gericht hat die Akte an die Kanzlei des Gerichtshofs übermittelt.
+4.1. Der [[organization|Europäischer Datenschutzbeauftragter]] hat eine Stellungnahme angekündigt. Das Gericht hat die Akte an die Kanzlei des [[court|Gerichtshofs]] übermittelt.
 
 4.2. Mit Schreiben vom [[date|10. März 2026]] teilte die Kanzlei mit, dass Generalanwältin [[judge|Luboslava Liba]] der Sache zugewiesen worden ist.
 

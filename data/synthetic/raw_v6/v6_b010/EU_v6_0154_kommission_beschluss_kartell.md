@@ -47,7 +47,7 @@ in Erwägung nachstehender Gründe:
 
 **4. Das nationale Verfahren**
 
-9. Die Wettbewerbsbehörde der [[location|Tschechischen Republik]] hat den Fall zunächst an die [[organization|Kartellaufsichtsbehörde der Tschechischen Republik]] ([[organization|KAT]]) abgegeben. Die [[organization|KAT]] hat am [[date|5. Mai 2023]] einen Vorläufigen Bericht vorgelegt, der die Feststellungen der [[organization|Kommission]] weitgehend bestätigte.
+9. Die Wettbewerbsbehörde der [[location|Tschechischen Republik]] hat den Fall zunächst an die [[organization|Kartellaufsichtsbehörde der Tschechischen Republik]] ([[organization|KAT]]) abgegeben. Die [[organization|KAT]] hat am [[date|5. Dezember 2023]] einen Vorläufigen Bericht vorgelegt, der die Feststellungen der [[organization|Kommission]] weitgehend bestätigte.
 
 10. Die Gesellschaft hat gegen die Abgabe an die [[organization|KAT]] Einspruch erhoben. Die Beschwerde wurde vom [[court|Městský soud v Praze]] am [[date|19. Januar 2024]] abgewiesen. Die [[organization|KAT]] hat die Gesellschaft im Verfahren nicht vertreten.
 
@@ -60,6 +60,8 @@ in Erwägung nachstehender Gründe:
 13. Ein Verweis auf das Urteil vom [[date|23. Mai 1974]], [[organization|Kubánek]], [[case_number|204/74]], erfolgt nicht, da die dort entschiedene Frage die Abgrenzung eines Marktes betraf und nicht die Bezweckung.
 
 14. Die [[organization|KOMMISSION]] berücksichtigt bei der Bemessung der Geldbuße die Dauer der Zuwiderhandlung und die Schwere des Verstoßes. Die [[organization|KOMMISSION]] hat die [[organization|EZB]] und die [[organization|EFSA]] um ergänzende Auskünfte gebeten, die bis zum Erlass dieses Beschlusses noch ausstanden.
+
+Die [[organization|Cvitanić d.o.o.]] wurde im Verfahren durch die Rechtsanwälte [[lawyer|Lotar Mlynář]] und [[lawyer|Masud Hussain]] vertreten.
 
 **6. Geldbuße**
 
