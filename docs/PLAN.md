@@ -207,12 +207,84 @@ Done on branch `ccr-e3b45fa1-pbfzdy` (continues `ccr-45f5c65f-g4rgnu`; earlier h
 
    Result: 55,473 training records (ler 22,189, replay 8,321, ris 8,321, synthetic 16,546, synthetic_v1 96; shares {'ler': 0.4, 'replay': 0.15, 'ris': 0.15, 'synthetic': 0.3}), dev 12,833, test 16,866 (incl. gold 550, MAPA, LER test); validate(): 0 invalid. 10 % of training records case-augmented.
 
-Next: **first GPU run** (`scripts/gpu_run.sh setup|data|build|smoke|train|eval`). A single GPU with bf16 and ≥ 24 GB
-(L4, A100, H100, RTX 4090). `data` regenerates `data/canonical/` (RIS fetch ≈ 25 min) or copy it (129 MB).
-`train`: 3 epochs, batch 8 × grad-accum 4, encoder LR 1e-5, task LR 5e-4, bf16, early stopping on dev loss.
-`eval`: fine-tuned model and both baselines on the gold set and the test split (per source/jurisdiction/label,
-PII character recall). Check the 20-step smoke run's loss before the full run (the 2-step CPU run went 0.60 -> 46 at
-batch size 2). Afterwards: human review of the gold set, teacher pseudo-labels for RIS organisations/places, EUR-Lex.
+6. **First GPU run (v1)**, 2026-10-30: RunPod, 1× A100-SXM4 80 GB (secure cloud, runpod/pytorch CUDA 12.4 image, torch 2.6,
+   gliner2 2.1.0, transformers 5.22.0), driven by `scripts/pod_run.sh` (data and code from the private HF dataset
+   `sb-aiss/legalner-build-v1`; checkpoint, eval JSONs and logs in the private HF model repo `sb-aiss/legalner-v1`).
+   Total cost $3.17, including a first attempt that failed at import time (the image's torchvision did not match torch 2.6).
+   - Smoke (20 steps): 48 GB peak, ≈2 s/step at batch 8 × accum 4. Training: 3 epochs, 5,195 steps, 88 min,
+     31.4 samples/s, 80 GB peak (bf16). Eval of all three models on both sets: 11 min.
+   - The large loss values are not divergence: the checkpoint's boundary head uses `loss_reduction="sum"`, so the loss
+     is summed over all query × position and candidate elements (the logged train loss also over the 4 accumulation
+     micro-batches). Dev loss (8-record batches): 274.0 after 10 smoke steps (≈ base model) → 162.3 (step 1,000) →
+     139.3 (3,000) → 126.7 (5,000, best). It fell at every evaluation, so early stopping never triggered and more
+     epochs may help.
+   - Results (exact-match F1, threshold 0.5; FT = `out/v1/best`, base = `fastino/gliner2.5-multi-v1`,
+     PII = `fastino/gliner2-privacy-filter-PII-multi`; gold = `gold_at`, 550 paragraphs; test = `test.canonical.jsonl`
+     with at most 2,000 records per source, 9,566 records; each record is queried with its covered labels only):
+
+     | Label | n gold | FT gold | base gold | PII gold | n test | FT test | base test | PII test |
+     |---|---:|---:|---:|---:|---:|---:|---:|---:|
+     | **all (micro)** | 6955 | 0.966 | 0.604 | 0.615 | 52569 | 0.901 | 0.502 | 0.546 |
+     | person | 1834 | 0.972 | 0.643 | 0.642 | 11906 | 0.934 | 0.537 | 0.518 |
+     | judge | 192 | 0.957 | 0.259 | 0.459 | 1046 | 0.947 | 0.167 | 0.315 |
+     | lawyer | 130 | 0.828 | 0.147 | 0.177 | 811 | 0.904 | 0.135 | 0.160 |
+     | organization | 663 | 0.943 | 0.598 | 0.632 | 4385 | 0.844 | 0.253 | 0.504 |
+     | court | 324 | 0.986 | 0.689 | 0.665 | 2639 | 0.959 | 0.546 | 0.526 |
+     | address | 259 | 0.986 | 0.894 | 0.701 | 1809 | 0.961 | 0.172 | 0.694 |
+     | street | 6 | 0.857 | 0.091 | 0.043 | 268 | 0.884 | 0.232 | 0.238 |
+     | location | 347 | 0.973 | 0.385 | 0.504 | 2891 | 0.883 | 0.565 | 0.540 |
+     | date | 1284 | 0.993 | 0.892 | 0.892 | 9352 | 0.981 | 0.823 | 0.838 |
+     | case_number | 201 | 0.931 | 0.370 | 0.444 | 1403 | 0.920 | 0.314 | 0.366 |
+     | bank_account | 77 | 1.000 | 0.662 | 0.896 | 425 | 0.982 | 0.515 | 0.837 |
+     | social_security_number | 78 | 0.987 | 0.485 | 0.677 | 412 | 0.987 | 0.460 | 0.623 |
+     | tax_id | 178 | 1.000 | 0.041 | 0.024 | 825 | 0.985 | 0.002 | 0.345 |
+     | company_register_number | 186 | 1.000 | 0.000 | 0.153 | 1012 | 0.915 | 0.310 | 0.258 |
+     | license_plate | 13 | 0.800 | 0.522 | 0.643 | 259 | 0.953 | 0.423 | 0.684 |
+     | land_register_id | 71 | 0.748 | 0.156 | 0.187 | 139 | 0.749 | 0.148 | 0.223 |
+     | id_document_number | 2 | 0.800 | 0.000 | 0.030 | 184 | 0.975 | 0.031 | 0.224 |
+     | other_identifier | 18 | 0.824 | 0.105 | 0.069 | 118 | 0.773 | 0.044 | 0.044 |
+     | phone_number | 12 | 0.960 | 1.000 | 0.960 | 141 | 0.983 | 0.647 | 0.847 |
+     | email | 14 | 0.933 | 0.824 | 0.778 | 331 | 0.988 | 0.876 | 0.923 |
+     | legal_norm | 1066 | 0.953 | 0.767 | 0.769 | 4379 | 0.962 | 0.654 | 0.637 |
+     | case_citation | 0 | – | – | – | 366 | 0.936 | 0.031 | 0.054 |
+     | contract | 0 | – | – | – | 108 | 0.796 | 0.056 | 0.055 |
+     | literature | 0 | – | – | – | 103 | 0.867 | 0.017 | 0.013 |
+     | brand | 0 | – | – | – | 8 | 0.400 | 0.128 | 0.070 |
+     | PII character recall | | 0.978 | 0.817 | 0.910 | | 0.966 | 0.773 | 0.907 |
+
+     | Test slice (micro F1) | n | FT | base | PII |
+     |---|---:|---:|---:|---:|
+     | jur=AT | 24812 | 0.961 | 0.489 | 0.538 |
+     | jur=BE | 866 | 0.965 | 0.545 | 0.660 |
+     | jur=CH | 3876 | 0.960 | 0.579 | 0.674 |
+     | jur=DE | 6617 | 0.956 | 0.405 | 0.442 |
+     | jur=EU | 1370 | 0.658 | 0.386 | 0.337 |
+     | jur=FR | 3539 | 0.941 | 0.445 | 0.587 |
+     | jur=LI | 306 | 0.979 | 0.626 | 0.669 |
+     | jur=LU | 614 | 0.966 | 0.494 | 0.614 |
+     | jur=XX | 10569 | 0.703 | 0.628 | 0.631 |
+     | source=gold_at | 6955 | 0.964 | 0.558 | 0.614 |
+     | source=ler | 1577 | 0.882 | 0.174 | 0.147 |
+     | source=mapa | 1370 | 0.658 | 0.386 | 0.337 |
+     | source=replay | 10569 | 0.703 | 0.628 | 0.631 |
+     | source=ris | 6441 | 0.936 | 0.380 | 0.397 |
+     | source=synthetic | 25504 | 0.968 | 0.544 | 0.633 |
+     | source=synthetic_v1 | 153 | 0.967 | 0.676 | 0.736 |
+
+   - Reading: the fine-tuned model is far ahead on every canonical label (gold micro F1 0.966 vs 0.604/0.615; PII
+     character recall 0.978 vs 0.817/0.910). The largest gains are on labels the baselines lack or confuse: role labels
+     (judge 0.957, lawyer 0.828 on gold), tax ID, company register number, case number, case citation. Weakest:
+     land register ID (0.75), lawyer precision (0.75 on gold), contract, literature, other_identifier, brand (n=8).
+     MAPA (EU, never trained on) went 0.386 → 0.658 and replay (open label set, zero-shot proxy) 0.628 → 0.703, so no
+     sign of forgetting on the replay distribution.
+   - Caveats: 400 of the 550 gold paragraphs are synthetic from the same generators as the training data, and the gold
+     set is only agent-reviewed, so 0.966 is optimistic. RIS test labels are rule-based pseudo-labels (audited 2–8 %
+     misses). The held-out signal is MAPA (0.658). The report does not yet split gold into its RIS and synthetic parts.
+
+Next: human review of the gold set and a gold slice by origin (RIS vs synthetic); a per-label threshold sweep
+(0.3–0.7); a longer run (dev loss was still falling after 3 epochs); teacher pseudo-labels for RIS organisations and
+places; EUR-Lex; the held-out zero-shot label check (medication, vehicle model). `scripts/pod_run.sh` now waits after
+smoke for `control/go` in the output repo (`control/abort` or a 60 min timeout stops the pod).
 
 ## Open questions
 
