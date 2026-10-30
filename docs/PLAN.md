@@ -280,6 +280,32 @@ Done on branch `ccr-e3b45fa1-pbfzdy` (continues `ccr-45f5c65f-g4rgnu`; earlier h
    - Caveats: 400 of the 550 gold paragraphs are synthetic from the same generators as the training data, and the gold
      set is only agent-reviewed, so 0.966 is optimistic. RIS test labels are rule-based pseudo-labels (audited 2–8 %
      misses). The held-out signal is MAPA (0.658). The report does not yet split gold into its RIS and synthetic parts.
+   - **MAPA organisation (F1 0.383) analysed** (2,000 sampled MAPA records, 360 gold org spans; FT model on CPU;
+     MAPA's ORGANISATION is scored against our organization ∪ court):
+     - Precision is mostly an annotation artefact: 276 of 342 false positives hit no MAPA span at all, and they are
+       courts and EU bodies MAPA leaves unannotated ("Gerichtshof" ×82, "High Court" ×35, "Supreme Court",
+       "Verwaltungsgerichtshof", "Europäisches Parlament", "gouvernement autrichien"). Another 28 are court names
+       whose seat MAPA tags as a location ("Tribunale di Teramo"). Counting only predictions that overlap some
+       MAPA span, precision is 0.81, not 0.33. MAPA's organisation annotation is partial, so its precision is not a
+       usable metric; recall is.
+     - Recall 0.46 is a real gap. Misses by type: single-token company or case names ("Simmenthal", "Alpenrind",
+       "Unibet", "Martin-Meat") recall 0.18, often predicted as person; EU institutions and governments
+       ("die Kommission", "Rat", "österreichischen Regierung") 0.39; acronyms and CJEU party initials ("IR", "WRC",
+       "CRP", "CIF") 0.62; multi-token names 0.50; a state as party ("Österreich") 0.00, predicted as location.
+       Some of this is convention (MAPA tags anaphoric "die Stiftung"/"la Fondation", which decision 6 leaves untagged;
+       case short names like "Urteil Simmenthal" have no settled convention), but most contradicts our own rules
+       (decision 5: bare abbreviations are organizations; decision 6: unique bodies are tagged; decision 16: public
+       bodies acting as a party are organizations).
+     - Lowering the threshold does not help (recall 0.456 at 0.5, 0.486 at 0.2): the misses are confident, so the fix
+       is data, not calibration. Training data has almost no EU-court text: no CJEU judgments or AG opinions, few
+       EU institutions, few organisations referred to only by acronym or by a name without legal form.
+     - Fixes, in order of expected effect: (1) synthetic EU documents in de/fr (CJEU judgments, AG opinions,
+       preliminary references) with EU institutions, governments and member states as parties, CJEU-style party initials
+       and acronyms, companies named without legal form; (2) a build-time augmentation that replaces later mentions of
+       an organisation with its parenthesised abbreviation; (3) EUR-Lex text pseudo-labelled by this model (already
+       planned); (4) settle conventions for a state as party ("Österreich" → organization, by analogy to decision 16),
+       bare EU institutions (→ organization) and case short names; (5) score MAPA organisation as recall only, plus a
+       hand-checked precision sample.
 
 Next: human review of the gold set and a gold slice by origin (RIS vs synthetic); a per-label threshold sweep
 (0.3–0.7); a longer run (dev loss was still falling after 3 epochs); teacher pseudo-labels for RIS organisations and
