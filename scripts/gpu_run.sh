@@ -71,8 +71,10 @@ train)
   ;;
 eval)
   mkdir -p out/eval
-  for model in "$RUN/best" fastino/gliner2.5-multi-v1 fastino/gliner2-privacy-filter-PII-multi; do
+  # EXTRA_MODELS: further checkpoints to compare, e.g. a previous run's best/
+  for model in "$RUN/best" ${EXTRA_MODELS:-} fastino/gliner2.5-multi-v1 fastino/gliner2-privacy-filter-PII-multi; do
     name=$(basename "$model")
+    [ "$name" = best ] && name=$(basename "$(dirname "$model")")  # out/v2/best -> v2
     $PY -m legalner.evaluate "$model" data/canonical/gold_at.jsonl --out "out/eval/gold_$name.json" \
       --save-preds "out/eval/preds_gold_$name.jsonl"
     $PY -m legalner.evaluate "$model" data/canonical/mapa_v2.jsonl --out "out/eval/mapa2_$name.json" \

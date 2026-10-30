@@ -95,6 +95,12 @@ mkdir -p repo && tar -xzf dl/code.tar.gz -C repo && mkdir -p repo/data/build rep
   && cp -r dl/build/* repo/data/build/ && cp dl/canonical/*.jsonl repo/data/canonical/ || fail "unpack"
 export BUILD=${BUILD:-data/build/v1} RUN=${RUN:-out/v1}
 cd repo
+if [ -n "${PREV_MODEL_REPO:-}" ]; then  # previous run's checkpoint, evaluated alongside (EXTRA_MODELS)
+  python -c "
+from huggingface_hub import snapshot_download; import os
+snapshot_download(os.environ['PREV_MODEL_REPO'], allow_patterns=['best/*'], local_dir='out/prev')" || fail "download previous model"
+  mv out/prev "out/${PREV_NAME:-prev}" && export EXTRA_MODELS="out/${PREV_NAME:-prev}/best"
+fi
 # gpu_run.sh expects .venv/bin/python; point it at the system interpreter
 mkdir -p .venv/bin && ln -sf "$(command -v python)" .venv/bin/python
 note "data ready: $(wc -l < "$BUILD/train.jsonl") train records in $BUILD"
