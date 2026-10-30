@@ -304,6 +304,112 @@ def brief(gaz, rng, jur, lang, doc_type, idx, wave, rare=False, pseudo_frac=0.2)
     return b
 
 
+# --- EU wave (v6): CJEU, General Court, AG opinions, Commission and EUIPO decisions, ECtHR ----------------
+EU_TYPES = {
+    "de": ["eugh_urteil", "eugh_urteil", "eugh_urteil", "eugh_beschluss", "schlussantraege_generalanwalt",
+           "schlussantraege_generalanwalt", "vorabentscheidungsersuchen", "vorabentscheidungsersuchen", "eug_urteil",
+           "kommission_beschluss_beihilfe", "kommission_beschluss_kartell", "euipo_beschwerdekammer", "egmr_urteil"],
+    "fr": ["arret_cjue", "arret_cjue", "arret_cjue", "ordonnance_cjue", "conclusions_avocat_general",
+           "conclusions_avocat_general", "demande_decision_prejudicielle", "demande_decision_prejudicielle",
+           "arret_tribunal_ue", "decision_commission_aide_etat", "decision_commission_concurrence",
+           "decision_chambre_recours_euipo", "arret_cedh"],
+}
+# member states with name gazetteers; legal forms for those without an entry in LEGAL_FORMS
+EU_STATES = ["AT", "DE", "FR", "BE", "LU", "IT", "PL", "CZ", "SK", "HU", "RO", "PT", "ES", "HR"]
+EU_LEGAL_FORMS = {"IT": ["SpA", "Srl"], "PL": ["sp. z o.o.", "S.A."], "CZ": ["s.r.o.", "a.s."], "SK": ["s.r.o."],
+                  "HU": ["Kft.", "Zrt."], "RO": ["SRL", "SA"], "PT": ["Lda", "SA"], "ES": ["SL", "SA"],
+                  "HR": ["d.o.o."]}
+STATE_NAMES = {
+    "de": {"AT": "Österreich", "DE": "Deutschland", "FR": "Frankreich", "BE": "Belgien", "LU": "Luxemburg",
+           "IT": "Italien", "PL": "Polen", "CZ": "Tschechische Republik", "SK": "Slowakei", "HU": "Ungarn",
+           "RO": "Rumänien", "PT": "Portugal", "ES": "Spanien", "HR": "Kroatien", "IE": "Irland",
+           "NL": "Niederlande", "EL": "Griechenland", "FI": "Finnland"},
+    "fr": {"AT": "Autriche", "DE": "Allemagne", "FR": "France", "BE": "Belgique", "LU": "Luxembourg",
+           "IT": "Italie", "PL": "Pologne", "CZ": "République tchèque", "SK": "Slovaquie", "HU": "Hongrie",
+           "RO": "Roumanie", "PT": "Portugal", "ES": "Espagne", "HR": "Croatie", "IE": "Irlande", "NL": "Pays-Bas",
+           "EL": "Grèce", "FI": "Finlande"},
+}
+EU_BODIES = {
+    "de": ["Kommission", "Rat", "Europäisches Parlament", "EUIPO", "Europäische Zentralbank (EZB)",
+           "Europäische Behörde für Lebensmittelsicherheit (EFSA)", "Frontex", "Europäischer Datenschutzbeauftragter",
+           "Einheitlicher Abwicklungsausschuss (SRB)", "Europäische Investitionsbank"],
+    "fr": ["Commission", "Conseil", "Parlement européen", "EUIPO", "Banque centrale européenne (BCE)",
+           "Autorité européenne de sécurité des aliments (EFSA)", "Frontex", "Contrôleur européen de la protection des données",
+           "Conseil de résolution unique (CRU)", "Banque européenne d'investissement"],
+}
+EU_HARD_CASES = [
+    "an organisation referred to by its acronym alone after it was defined once (tag every acronym mention)",
+    "a company named without its legal form in most mentions",
+    "a member state acting as a party or submitting observations (organization), and the same country as territory (location)",
+    "parties pseudonymised with initials (IR, JQ, XY) as the CJEU does",
+    "a cited earlier case referred to by its short name (\"Urteil Simmenthal\", \"arrêt Factortame\")",
+    "an EU institution referred to bare (\"die Kommission\", \"le Conseil\")",
+    "a national authority with an acronym from the referring member state",
+    "an anaphoric generic noun (\"die Stiftung\", \"la société\") that stays untagged",
+    "a national court whose name contains its seat (\"Tribunale di Teramo\", one court span)",
+    "a list of governments that submitted observations",
+]
+
+
+def _eu_company(gaz, rng, state, lang):
+    name = gaz.surname(state)
+    sector = rng.choice(SECTORS[lang])
+    base = rng.choice([name, f"{name} {sector}", f"{name}-{gaz.surname(state)}", f"{sector} {name}"])
+    forms = LEGAL_FORMS.get(state) or EU_LEGAL_FORMS[state]
+    c = {"name": base if rng.random() < 0.35 else f"{base} {rng.choice(forms)}", "state": state}
+    if rng.random() < 0.3:
+        c["acronym"] = "".join(w[0] for w in re.findall(r"[A-ZÄÖÜ][\w-]*", base))[:4].upper() or None
+        if not c["acronym"] or len(c["acronym"]) < 2:
+            c.pop("acronym")
+    return c
+
+
+def eu_brief(gaz, rng, lang, doc_type, idx, wave):
+    state = rng.choice(EU_STATES)
+    ecthr = doc_type in ("egmr_urteil", "arret_cedh")
+    parties = []
+    for _ in range(rng.randint(1, 3)):
+        if rng.random() < 0.5:
+            p = _person(gaz, rng, state if state in ("AT", "DE") else "CH" if state == "LU" else state)
+            p.pop("degree", None)
+            if not ecthr and rng.random() < 0.7:
+                p["cited_as_initials"] = "".join(rng.choice("ABCDEFGHIJKLMNOPRSTUVWXYZ") for _ in range(2))
+            parties.append({"person": p})
+        else:
+            parties.append({"company": _eu_company(gaz, rng, rng.choice(EU_STATES), lang)})
+    names = STATE_NAMES[lang]
+    governments = rng.sample(sorted(names), rng.randint(0, 4))
+    cited = []
+    for _ in range(rng.randint(1, 4)):
+        year = rng.randint(1964, 2024)
+        party = gaz.surname(rng.choice(EU_STATES))
+        cited.append({"short_name": party, "party_is": rng.choice(["company", "company", "person"]),
+                      "case_number": f"{rng.choice('CT') if year > 1989 else 'C'}-{rng.randint(1, 820)}/{year % 100:02d}"
+                      if year > 1988 else f"{rng.randint(1, 300)}/{year % 100:02d}",
+                      "year": year})
+    b = {
+        "file": f"EU_{wave}_{idx:04d}_{doc_type}.md", "doc_type": doc_type, "jurisdiction": "EU", "lang": lang,
+        "target_words": int(min(2500, max(500, rng.lognormvariate(6.9, 0.45)))),
+        "member_state_of_origin": names.get(state, state),
+        "referring_court": f"(a real court of {names.get(state, state)}; if its name contains a place, one court span)",
+        "national_authority": f"(invent a public authority of {names.get(state, state)} with an acronym, "
+                              "define the acronym once and then use it alone)",
+        "parties": parties,
+        "governments_observations": [names[g] for g in governments],
+        "eu_bodies": rng.sample(EU_BODIES[lang], rng.randint(1, 3)),
+        "judges": [_person(gaz, rng, rng.choice(EU_STATES), "judge") for _ in range(rng.randint(3, 5))],
+        "advocate_general": None if ecthr else _person(gaz, rng, rng.choice(EU_STATES), "judge"),
+        "representatives": [_person(gaz, rng, rng.choice(EU_STATES), "lawyer") for _ in range(rng.randint(1, 3))],
+        "agents": [_person(gaz, rng, rng.choice(EU_STATES)) for _ in range(rng.randint(0, 3))],
+        "cited_cases": cited,
+        "hard_cases": rng.sample(EU_HARD_CASES, 3),
+        "ocr_noise": rng.random() < 0.05,
+    }
+    for p in b["judges"] + b["representatives"] + b["agents"] + ([b["advocate_general"]] if b["advocate_general"] else []):
+        p.pop("degree", None)
+    return b
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--docs", type=int, default=1000)
@@ -315,10 +421,23 @@ def main(argv=None):
     ap.add_argument("--rare", action=argparse.BooleanOptionalAction, default=None,
                     help="v4 briefs: rare-label entities, oversampled types, degree chains, case hard cases "
                          "(default: on for waves from v4)")
+    ap.add_argument("--eu", action="store_true", help="EU wave: CJEU/GC/AG/Commission/EUIPO/ECtHR documents")
+    ap.add_argument("--fr-share", type=float, default=0.4, help="EU wave: share of French documents")
     ap.add_argument("-o", "--out", required=True)
     args = ap.parse_args(argv)
     rng = random.Random(args.seed)
     gaz = Gazetteer(rng=rng)
+    if args.eu:
+        out = pathlib.Path(args.out)
+        out.parent.mkdir(parents=True, exist_ok=True)
+        with out.open("w", encoding="utf-8") as fh:
+            for i in range(args.docs):
+                lang = "fr" if rng.random() < args.fr_share else "de"
+                b = eu_brief(gaz, rng, lang, EU_TYPES[lang][i % len(EU_TYPES[lang])], i + 1, args.wave)
+                b["batch"] = f"{args.wave}_b{i // args.per_batch:03d}"
+                fh.write(json.dumps(b, ensure_ascii=False) + "\n")
+        print(f"{args.docs} EU briefs in {-(-args.docs // args.per_batch)} batches -> {out}")
+        return
     rare = args.rare if args.rare is not None else args.wave not in ("v1", "v2", "v3")
     plan = _weighted_types(rng, args.docs, OVERSAMPLE if rare else 1)
     out = pathlib.Path(args.out)

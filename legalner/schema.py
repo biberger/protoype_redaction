@@ -125,12 +125,16 @@ class Source:
     lists its own query labels in meta["query_labels"]. `eval_merge` maps a
     gold label to the predicted labels that count for it (MAPA's ORGANISATION
     includes courts, so organization is scored against organization ∪ court).
+    `eval_partial` lists labels the source annotates only partly (MAPA leaves most courts and EU bodies
+    unannotated): a prediction of such a label counts as a false positive only if it overlaps some gold span
+    of the record, so precision is measured on annotated regions and recall stays exact.
     """
     name: str
     coverage: frozenset
     nested_conflicts: dict = field(default_factory=dict)
     open_labels: bool = False
     eval_merge: dict = field(default_factory=dict)
+    eval_partial: frozenset = frozenset()
     eval_only: bool = False  # every record goes to the test split
 
 
@@ -152,7 +156,8 @@ SOURCES = {
     "replay": Source("replay", frozenset(), open_labels=True),
     # MAPA (EUR-Lex, de/fr), evaluation only
     "mapa": Source("mapa", frozenset({"person", "organization", "location", "address", "date"}),
-                   eval_merge={"organization": ("organization", "court")}, eval_only=True),
+                   eval_merge={"organization": ("organization", "court")}, eval_partial=frozenset({"organization"}),
+                   eval_only=True),
     # hand-checked Austrian gold set (legalner.goldset), never trained on
     "gold_at": Source("gold_at", _ALL - {"case_citation", "contract", "literature", "brand"}, eval_only=True),
     # RIS decisions: pseudonymised placeholders filled from gazetteers; only the

@@ -174,3 +174,54 @@ Settled with the project lead after the agent review of the Austrian gold set; t
 24. The position of academic degrees follows the country and the document ("MBA Lex Alexander" and
     "Lex Alexander, MBA" both occur); degrees are inside the span wherever they stand.
 
+
+### EU and international texts (2026-10-30, project lead; from the MAPA organisation analysis)
+
+25. A state acting as a party or procedural actor is `organization`: the defendant "[[organization|Republik Österreich]]",
+    "[[organization|Österreich]] hat vorgetragen", "[[organization|Irland]] macht geltend", governments submitting
+    observations ("die [[organization|österreichische Regierung]]", "le [[organization|gouvernement belge]]",
+    adjective inside, article outside). The territory and the legal order stay `location`: "in [[location|Österreich]]
+    wohnhaft", "das Recht der [[location|Republik Österreich]]".
+26. EU institutions, bodies and agencies are `organization`, also bare when the context makes them unique:
+    "die [[organization|Kommission]]", "der [[organization|Rat]]", "la [[organization|Commission]]",
+    [[organization|EUIPO]], [[organization|EZB]]. The Court of Justice, the General Court and the ECtHR are `court`,
+    including the self-reference "der [[court|Gerichtshof]]" / "la [[court|Cour]]" in their own decisions and
+    "[[court|EuGH]]", "[[court|EGMR]]", "[[court|CJUE]]".
+27. A case short name (a party's name used as the name of a cited case) gets the party's label: "Urteil
+    [[organization|Simmenthal]]", "arrêt [[person|Bosman]]" (extends decision 14). In "Urteil vom
+    [[date|9. März 1978]], [[organization|Simmenthal]], [[case_number|106/77]]" each part is tagged; "C-311/19"
+    and "T-12/20" are `case_number`; ECLI identifiers are `case_number`. Party initials used by the CJEU ("IR", "JQ",
+    "XY") are `person` for a natural person and `organization` for a company.
+28. An organisation abbreviation used alone is `organization` at every mention (extends decision 5: "die
+    [[organization|WRC]]", "la [[organization|CRP]]"), and companies named without a legal form are `organization`
+    ("[[organization|Alpenrind]]", "[[organization|Unibet]]"). Anaphoric generic nouns stay untagged (decision 6):
+    "die Stiftung", "la Fondation", "die Gesellschaft".
+29. A court name containing its seat is one `court` span with no location inside ("[[court|Tribunale di Teramo]]",
+    "[[court|Judecătoria București]]"), as decision 7.
+30. Advocates General are `judge` (members of the court acting in office, like Rechtspfleger); the Registrar
+    (Kanzler, greffier) is `person`. Agents (Bevollmächtigte, agents) of governments and EU institutions are `person`
+    unless the text calls them Rechtsanwalt/avocat (decision 15). Titles stay outside ("Generalanwalt
+    [[judge|Rube Milković]]").
+
+### EU documents (synthetic v6)
+
+- CJEU judgment (Urteil/arrêt): heading with chamber and date, "In der Rechtssache C-…/…", "betreffend ein
+  Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom … (Mitgliedstaat) mit Entscheidung vom …", parties,
+  composition (Kammerpräsident, Richter, Berichterstatter, Generalanwalt, Kanzler), "unter Berücksichtigung der
+  Erklärungen" with each government and the Commission and their agents, "nach Anhörung der Schlussanträge",
+  numbered paragraphs (Rechtlicher Rahmen – Unionsrecht / nationales Recht, Ausgangsverfahren und Vorlagefragen,
+  Zu den Vorlagefragen, Kosten), Tenor "Aus diesen Gründen hat der Gerichtshof (… Kammer) für Recht erkannt:".
+  French: "ARRÊT DE LA COUR", "Dans l'affaire C-…", "ayant pour objet une demande de décision préjudicielle au titre
+  de l'article 267 TFUE", "rend le présent Arrêt", "Par ces motifs, la Cour (… chambre) dit pour droit :".
+- AG opinion (Schlussanträge/conclusions), reference for a preliminary ruling written by the national court,
+  General Court judgment (action for annulment against the Commission or EUIPO), Commission decision (State aid,
+  antitrust; addressees are companies, often abbreviated), EUIPO Board of Appeal decision (trade mark parties),
+  ECtHR judgment (applicant against a state: "[[person|…]] gegen [[organization|Österreich]]").
+- Cite EU law as legal_norm: `[[legal_norm|Art. 267 AEUV]]`, `[[legal_norm|Art. 47 der Charta]]`,
+  `[[legal_norm|Richtlinie 2000/78/EG]]`, `[[legal_norm|Art. 2 Abs. 2 Buchst. a der Richtlinie 2000/78]]`,
+  `[[legal_norm|Verordnung (EU) 2016/679]]`; ABl./JO references are untagged like BGBl.
+- Cited case law: `Urteil vom [[date|9. März 1978]], [[organization|Simmenthal]], [[case_number|106/77]],
+  [[case_number|EU:C:1978:49]]`, `arrêt du [[date|19 juin 1990]], [[organization|Factortame e.a.]],
+  [[case_number|C-213/89]]` ("e.a."/"u. a." inside the party span as written).
+- Persons, companies, national authorities and facts are invented; real EU institutions, member states, national
+  courts and EU legislation are fine. Do not reproduce real cases or real members of the courts.

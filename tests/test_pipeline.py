@@ -503,3 +503,38 @@ def test_lint_flags_register_prefix_outside_span(tmp_path):
     _, warnings = parse_file(write_doc(tmp_path, "[[organization|Huber GmbH]], FN [[company_register_number|531927x]]"),
                              "synthetic")
     assert any("register prefix outside span" in w for w in warnings)
+
+
+def test_abbreviation_augment_replaces_later_mentions():
+    from legalner.build import abbreviation_augment, abbreviations
+    from legalner.tagged import strip_tags
+    tagged = ("Die [[organization|Workplace Relations Commission]] ([[organization|WRC]]) entschied am "
+              "[[date|3. Mai 2024]]. Die [[organization|Workplace Relations Commission]] wies "
+              "[[person|IR]] ab; die [[organization|Workplace Relations Commission]] blieb dabei.")
+    text, spans = strip_tags(tagged, "t.md")
+    rec = {"id": "x", "doc_id": "d", "source": "synthetic", "text": text,
+           "spans": [{"label": lab, "start": a, "end": b, "text": text[a:b]} for lab, a, b, _ in spans]}
+    abbr = abbreviations([rec])
+    assert abbr == {"d": {"Workplace Relations Commission": "WRC"}}
+    out = abbreviation_augment(rec, abbr["d"], random.Random(0), p=1.0)
+    assert out["text"].startswith("Die Workplace Relations Commission (WRC) entschied")
+    assert out["text"].count("Workplace Relations Commission") == 1 and "Die WRC wies IR ab; die WRC blieb" in out["text"]
+    assert all(s["text"] == out["text"][s["start"]:s["end"]] for s in out["spans"])
+    assert [s["text"] for s in out["spans"]] == ["Workplace Relations Commission", "WRC", "3. Mai 2024", "WRC", "IR", "WRC"]
+
+
+def test_partial_labels_and_coarse_view():
+    from legalner.evaluate import to_coarse
+    text = "Der Gerichtshof und die Kommission hörten IR am 3. Mai 2024."
+    rec = {"id": "m", "doc_id": "m", "source": "mapa", "jurisdiction": "EU", "text": text,
+           "spans": [{"label": "organization", "start": 24, "end": 34, "text": "Kommission"},
+                     {"label": "person", "start": 41, "end": 43, "text": "IR"},
+                     {"label": "date", "start": 47, "end": 58, "text": "3. Mai 2024"}]}
+    pred = {"court": {(4, 15)}, "organization": {(24, 34)}, "judge": {(41, 43)}, "date": {(47, 58)}}
+    rep = score([rec], [pred])["scores"]
+    # the unannotated court "Gerichtshof" is not a false positive for MAPA's partial organization annotation
+    assert rep["all|organization"]["p"] == 1.0 and rep["all|organization"]["r"] == 1.0
+    assert rep["all|person"]["r"] == 0.0  # predicted only as judge
+    coarse = score(*to_coarse([rec], [pred]))["scores"]
+    assert coarse["all|person"]["f1"] == 1.0 and coarse["all|organization"]["f1"] == 1.0
+    assert coarse["all|*"]["f1"] == 1.0

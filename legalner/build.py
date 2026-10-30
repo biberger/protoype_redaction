@@ -121,6 +121,61 @@ def case_augment(rec, rng):
     return dict(rec, text=text, spans=spans, meta=dict(rec.get("meta", {}), case_aug=mode))
 
 
+ABBR_LABELS = ("organization", "court")
+
+
+def abbreviations(records):
+    """doc_id -> {full name: abbreviation} from "Full Name (ABBR)": an organization or court span directly
+    followed by a parenthesised, shorter span of the same label (decision 5)."""
+    out = collections.defaultdict(dict)
+    for rec in records:
+        text = rec["text"]
+        at = {(s["start"], s["label"]): s for s in rec["spans"]}
+        for s in rec["spans"]:
+            if s["label"] not in ABBR_LABELS or text[s["end"]:s["end"] + 2] != " (":
+                continue
+            a = at.get((s["end"] + 2, s["label"]))
+            if a and text[a["end"]:a["end"] + 1] == ")" and len(a["text"]) < len(s["text"]):
+                out[rec["doc_id"]][s["text"]] = a["text"]
+    return out
+
+
+def abbreviation_augment(rec, abbr, rng, p=0.5):
+    """Copy of `rec` where later full-name mentions of an organisation or court are replaced by the abbreviation
+    the document defines ("Workplace Relations Commission (WRC)" ... "die WRC"), so the model sees organisations
+    referred to by acronym alone (decision 28). The defining mention is kept; offsets are shifted."""
+    text = rec["text"]
+    keys = {(s["start"], s["end"]) for s in rec["spans"]}
+    chosen = {}
+    for s in rec["spans"]:
+        short = abbr.get(s["text"]) if s["label"] in ABBR_LABELS else None
+        if not short or text[s["end"]:s["end"] + len(short) + 3] == f" ({short})" or rng.random() >= p:
+            continue
+        others = [o for o in rec["spans"] if (o["start"], o["end"]) != (s["start"], s["end"])
+                  and o["start"] < s["end"] and s["start"] < o["end"]]
+        if not others:
+            chosen[(s["start"], s["end"])] = short
+    if not chosen:
+        return rec
+    new_text, shift, pos, moved = [], 0, 0, {}
+    for (start, end), short in sorted(chosen.items()):
+        new_text.append(text[pos:start] + short)
+        moved[(start, end)] = (start + shift, start + shift + len(short))
+        shift += len(short) - (end - start)
+        pos = end
+    new_text.append(text[pos:])
+    new_text = "".join(new_text)
+
+    def move(i):  # offset after the replacements that end at or before i
+        return i + sum(len(chosen[k]) - (k[1] - k[0]) for k in chosen if k[1] <= i)
+    spans = []
+    for s in rec["spans"]:
+        start, end = moved.get((s["start"], s["end"]), (move(s["start"]), move(s["end"])))
+        spans.append(dict(s, start=start, end=end, text=new_text[start:end]))
+    assert keys and all(sp["text"] == new_text[sp["start"]:sp["end"]] for sp in spans)
+    return dict(rec, text=new_text, spans=spans, meta=dict(rec.get("meta", {}), abbr_aug=len(chosen)))
+
+
 def read_records(paths):
     for path in paths:
         with open(path, encoding="utf-8") as fh:
@@ -212,6 +267,9 @@ def main(argv=None):
     ap.add_argument("--exclude-docs", help="file with doc_ids to drop entirely (e.g. data/gold/at/doc_ids.txt)")
     ap.add_argument("--case-frac", type=float, default=0.1,
                     help="share of training examples whose text or single spans are upper/lower-cased")
+    ap.add_argument("--abbr-frac", type=float, default=0.5,
+                    help="share of training records whose later organisation/court mentions are replaced by the "
+                         "abbreviation their document defines")
     ap.add_argument("--validate", action="store_true", help="check every split with gliner2 TrainingDataset.validate()")
     ap.add_argument("--seed", type=int, default=13)
     args = ap.parse_args(argv)
@@ -235,11 +293,15 @@ def main(argv=None):
                     _per_key(args.source_copies))
     if args.mix:
         train = mix(train, rng, _per_key(args.mix.split(","), float))
+    abbr = abbreviations(by_split["train"])
     with (out / "train.jsonl").open("w", encoding="utf-8") as fh:
         n = 0
         for _ in range(args.copies):
             for rec in train:
                 labels = query_labels(rec)
+                if abbr.get(rec["doc_id"]) and rng.random() < args.abbr_frac:
+                    rec = abbreviation_augment(rec, abbr[rec["doc_id"]], rng)
+                    stats["abbr_augmented"] = stats.get("abbr_augmented", 0) + (rec.get("meta", {}).get("abbr_aug", 0) > 0)
                 if rng.random() < args.case_frac:
                     rec = case_augment(rec, rng)
                 fh.write(json.dumps(augment(rec, labels, rng), ensure_ascii=False) + "\n")
