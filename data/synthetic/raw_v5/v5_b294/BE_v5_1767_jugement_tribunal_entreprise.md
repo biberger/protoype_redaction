@@ -34,13 +34,15 @@ Dans la nuit du [[date|7 au 8 novembre 2025]], le compresseur de la ligne est to
 
 Par ordonnance du [[date|12 janvier 2026]], le président du tribunal a désigné [[person|Iskandar Evenepoel]], ingénieur frigoriste, en qualité d'expert. Son rapport, déposé le [[date|9 juin 2026]], conclut que le compresseur installé était sous-dimensionné d'environ vingt pour cent par rapport aux charges thermiques convenues. Il relève également que le retard de livraison est imputable pour moitié à [[organization|Maury SRL]], qui avait tardé à fournir les plans de raccordement, et pour moitié à [[organization|Raji SA]], qui n'avait pas libéré le local dans les délais.
 
-La cause a été introduite par citation signifiée le [[date|3 mars 2026]]. Par acte du [[date|2 mars 2026]], [[organization|Maury SRL]] a cédé à la société coopérative [[organization|de Mérode SC]] la créance de 41.200 euros qu'elle détenait encore à l'égard de [[organization|Raji SA]] au titre de la dernière facture impayée. De Mérode SC est intervenue volontairement à la procédure.
+La cause a été introduite par citation signifiée le [[date|3 mars 2026]]. Par acte du [[date|2 mars 2026]], [[organization|Maury SRL]] a cédé à la société coopérative [[organization|de Mérode SC]] la créance de 41.200 euros qu'elle détenait encore à l'égard de [[organization|Raji SA]] au titre de la dernière facture impayée. [[organization|De Mérode SC]] est intervenue volontairement à la procédure.
 
 II. Prétentions des parties
 
 Par conclusions de synthèse déposées le [[date|18 juin 2026]], [[organization|Raji SA]] demande la condamnation de [[organization|Maury SRL]] au paiement de 74.300 euros à titre de dommages et intérêts, majorés des intérêts moratoires. Elle invoque la défaillance du compresseur et le retard de livraison.
 
 [[organization|Maury SRL]] conteste toute responsabilité pour la panne. Elle demande reconventionnellement la condamnation de [[organization|Raji SA]] au paiement du solde de sa facture, soit 41.200 euros, et de [[organization|de Mérode SC]], en sa qualité de cessionnaire, réclame le même montant.
+
+Le dossier de la demanderesse comprend notamment l'offre de prix du [[date|2 juillet 2024]], le contrat signé le [[date|14 octobre 2024]], les comptes rendus de chantier, le procès-verbal de réception provisoire, le courrier de mise en demeure et le rapport d'expertise. Le dossier de la défenderesse contient les plans de raccordement transmis à [[organization|Raji SA]], ainsi que les relevés de température de la ligne pour la période du [[date|1er au 8 novembre 2025]]. Les parties ont en outre produit les échanges de courriels relatifs à la commande de la gaine technique.
 
 III. Audition des témoins
 
@@ -77,6 +79,24 @@ D. Compensation et solde
 La créance de [[organization|Maury SRL]], cédée à [[organization|de Mérode SC]], s'élève à 41.200 euros. Elle est exigible, sous réserve de la compensation avec la créance de dommages et intérêts de [[organization|Raji SA]]. Après compensation, [[organization|Raji SA]] reste débitrice de la somme de 18.700 euros, soit 41.200 euros diminués de 22.500 euros.
 
 Les intérêts moratoires courent à partir de la mise en demeure du [[date|10 novembre 2025]] pour la créance de [[organization|Raji SA]], et à partir de l'échéance de la facture pour la créance cédée.
+
+E. Exception d'inexécution
+
+[[organization|Maury SRL]] soutient qu'elle était fondée à suspendre l'exécution de ses obligations, dès lors que [[organization|Raji SA]] n'avait pas réglé les acomptes intermédiaires prévus à l'échéancier, soit une somme de 9.800 euros. Le tribunal ne retient pas ce moyen. Il résulte des décomptes produits par [[person|Tombeur]] que [[organization|Raji SA]] a effectivement réglé, à deux reprises, les acomptes correspondant à l'avancement des travaux, et que la seule somme restant due à la date de la panne est le solde contesté. L'exception d'inexécution suppose en outre une inexécution suffisamment grave, ce qui n'est pas établi dès lors que la ligne fonctionnait à la réception provisoire, avec les réserves mentionnées au procès-verbal.
+
+Ce moyen doit être apprécié au regard de l'[[legal_norm|article 1134 du Code civil]], selon lequel les conventions légalement formées tiennent lieu de loi à ceux qui les ont faites, et de la règle de bonne foi qui s'applique à l'exécution du contrat.
+
+F. Frais d'expertise
+
+Les honoraires et frais de l'expert [[person|Evenepoel]] s'élèvent à 6.850 euros. Ils avaient été avancés à concurrence de 3.000 euros par chacune des parties. Il convient de les mettre à charge des parties à parts égales, ce qui correspond au partage de responsabilité retenu par l'expert pour le retard de livraison. Le surplus, soit 850 euros, est réparti dans la même proportion.
+
+G. Appréciation des témoignages
+
+Le témoignage de [[person|Bethune]] est corroboré par les plans de raccordement, dont il ressort que la version transmise par [[organization|Maury SRL]] le [[date|5 mai 2025]] ne comportait pas le tracé des câbles. À l'audience, [[person|Dieudonné]] a reconnu que la commande de la gaine technique avait été passée tardivement, le [[date|22 avril 2025]], ce qui confirme la part de retard imputable à [[organization|Raji SA]].
+
+Le tribunal observe enfin que le compresseur installé n'a pas fait l'objet d'une seconde réception de puissance, alors que la clause de garantie prévoyait un essai contradictoire de trente jours après la mise en service. Cette omission, imputable à la demanderesse comme à la défenderesse, n'est pas de nature à exonérer l'entrepreneur de son obligation de résultat quant à la température convenue, mais elle explique que l'expert ait retenu une réduction de la responsabilité dans la mesure indiquée ci-dessus.
+
+Ce témoignage est toutefois contredit sur un point par [[person|Aydemir]], qui précise que la réception des câbles était prévue par [[organization|Raji SA]] dès l'origine. Le tribunal ne tranche pas ce point, qui relève de la responsabilité partagée déjà retenue par l'expert.
 
 V. Dépens
 

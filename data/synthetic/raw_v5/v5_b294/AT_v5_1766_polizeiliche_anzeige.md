@@ -26,7 +26,7 @@ Als Zeugen gaben [[person|Moni Freund]] und [[person|Paulus Grandits]] an, den A
 
 Die Anzeigerin bittet um Überweisung des Schadenersatzes auf das Konto [[bank_account|AT46 4426 9900 4993 1948]]. Zur Identifikation gab sie ihre Versicherungsnummer [[social_security_number|2299 070861]] an. Rückfragen sind unter der Telefonnummer [[phone_number|0699 9886126]] möglich.
 
-Die Anzeige wurde gegen den Lenker erstattet, sofern sich der Tatverdacht bestätigt.
+Der Schaden wird auf rund 2.300 Euro geschätzt, ein Kostenvoranschlag der Werkstatt liegt bei. Die Zeugen wurden getrennt voneinander einvernommen. Die Anzeige wurde gegen den Lenker erstattet, sofern sich der Tatverdacht bestätigt.
 
 [[location|Hüttenberg]], am [[date|23. August 2026]]
 
