@@ -13,7 +13,7 @@ Bescheid
 
 Spruch
 
-I. Dem Antrag der [[organization|Buck GmbH]], [[company_register_number|FN 446 198z]], UID-Nr. [[tax_id|ATU85895489]], mit dem Sitz in [[address|Pradler Stra-
+I. Dem Antrag der [[organization|Buck GmbH]], [[company_register_number|FN 446198z]], UID-Nr. [[tax_id|ATU85895489]], mit dem Sitz in [[address|Pradler Stra-
 ße 24/12, 541l Oberalm]], vertreten durch Rechtsanwalt [[lawyer|Tiemo Bachmayer]], vom [[date|12.03.2026]] auf Genehmigung der Betriebsanlage zur Lagerung und Abfüllung von Holzschutzmitteln wird stattgegeben. Die Anlage wird gemäß [[legal_norm|§ 77 Abs 1 GewO]] iVm [[legal_norm|§ 356 Abs 1 GewO]] mit den unter Punkt II festgelegten Auflagen genehmigt.
 
 II. Auflagen

@@ -44,11 +44,13 @@ En outre, les administrateurs de l'ASBL ont signé, en leur qualité personnelle
 
 Pour toute réponse, le secrétariat de [[organization|Bâtiment Callebaut ASBL]] peut être joint au [[phone_number|+32 21 706 07 58]] ou à l'adresse [[email|contact@batiment.be]]. Je vous saurais gré de bien vouloir me communiquer, dans le même délai, les coordonnées de votre assureur de responsabilité.
 
-À défaut de paiement dans le délai imparti, ma cliente saisira sans autre avis le [[court|Tribunal de première instance du Brabant wallon]] et réclamera en outre les frais de procédure ainsi que les dépens, conformément au [[legal_norm|Code judiciaire]]. Dans l'intervalle, je vous invite à transmettre à ma cliente, par écrit, les motifs de votre contestation éventuelle, faute de quoi la créance sera considérée comme non contestée.
+À défaut de paiement dans le délai imparti, ma cliente saisira sans autre avis le [[court|Tribunal de première instance du Brabant wallon]] et réclamera en outre les frais de procédure ainsi que les dépens, conformément au [[legal_norm|Code judiciaire]]. Dans l'intervalle, je vous invite à transmettre à ma cliente, par écrit, les motifs de votre contestation éventuelle, faute de quoi la créance sera considérée comme non contestée. La présente lettre ne constitue pas une renonciation aux droits de ma cliente.
 
 Je vous prie d'agréer, Madame la Présidente, l'expression de mes salutations distinguées.
 
 [[location|Bruxelles]], le [[date|20 juillet 2026]]
+
+Copie : [[organization|Klinkenberg SC]], service contentieux
 
 Me [[lawyer|Orlando Linster]]
 Avocat

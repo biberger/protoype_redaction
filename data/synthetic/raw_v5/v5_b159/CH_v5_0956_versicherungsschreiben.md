@@ -7,7 +7,7 @@ lang: de
 Generalagentur Ostschweiz · [[company_register_number|CHE-328.237.958]]
 [[address|Bahnhofstrasse 22, 9500 Wil]]
 
-Heuberger & Piller SA
+[[organization|Heuberger & Piller SA]] ([[company_register_number|CHE-967.595.005]])
 z. H. Frau [[person|Danicka Ježková]]
 Geschäftsführung
 [[address|Rankstrasse 9, 9217 Neukirch an der Thur]]

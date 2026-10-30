@@ -25,13 +25,13 @@ Die Bewilligung wird gemäß [[legal_norm|§ 23 Abs 1 iVm § 31 Oö BauO 1994]] 
 Auflagen:
 1. Die Anlage ist vor der Inbetriebnahme durch einen Befugten abnehmen zu lassen.
 2. Die Fertigstellungsmeldung ist dem Magistrat innerhalb von zwei Wochen nach Abschluss der Arbeiten zu übermitteln.
-3. Die Gebühr für die Bewilligung ist nach Zustellung dieses Bescheides auf das Konto der Stadtkasse einzuzahlen.
+3. Die Gebühr für die Bewilligung ist nach Zustellung dieses Bescheides auf das Konto [[bank_account|AT39 9179 1292 7365 2466]] der Stadtkasse einzuzahlen.
 
 Begründung
 
-Bei der mündlichen Verhandlung vom [[date|14.04.2026]] erschien der Bauleiter [[person|Ing. Lionel Raab]], der sich mit dem Führerschein Nr. [[id_document_number|93495514]] auswies. Er erklärte, dass die Anlage nach den eingereichten Plänen errichtet wird. Die Zeugin [[person|Antima Ferrando]] bestätigte die Lage des Kellerabgangs.
+Bei der mündlichen Verhandlung vom [[date|14.04.2026]] erschien der Bauleiter [[person|Ing. Lionel Raab]], der sich mit dem Führerschein Nr. [[id_document_number|93495514]] auswies. Er erklärte, dass die Anlage nach den eingereichten Plänen errichtet wird. Die Zeugin [[person|Antima Ferrando]], SV-Nr. [[social_security_number|3760 281187]], bestätigte die Lage des Kellerabgangs.
 
-Der Installateur [[person|Guiliano Prochaska]], wohnhaft in [[address|Hauptplatz 4/15, 4890 Frankenmarkt]], wurde als Fachkraft benannt. Die Sachbearbeiterin [[person|Mag. Mia Proksch]] hat die Unterlagen geprüft. Einwendungen von Nachbarn sind nicht eingelangt. Die Einreichplanung wurde vom Bauwerber am [[date|16.03.2026]] vollständig vorgelegt und entspricht den Abstandsvorschriften zum Nachbargrundstück.
+Der Installateur [[person|Guiliano Prochaska]], wohnhaft in [[address|Hauptplatz 4/15, 4890 Frankenmarkt]], wurde als Fachkraft benannt. Die Sachbearbeiterin [[person|Mag. Mia Proksch]] hat die Unterlagen geprüft. Die Nachbarin [[person|Aggripina Wisser]] hat ihre Zustimmung schriftlich erklärt; Einwendungen von Nachbarn sind nicht eingelangt. Die Einreichplanung wurde vom Bauwerber am [[date|16.03.2026]] vollständig vorgelegt und entspricht den Abstandsvorschriften zum Nachbargrundstück.
 
 Rechtliche Beurteilung
 

@@ -13,13 +13,13 @@ Verkündet am [[date|12. März 2026]]
 
 In dem Rechtsstreit
 
-[[organization|Herzog & Linder GmbH]], eingetragen im Handelsregister des [[court|Amtsgerichts Hamburg]] unter [[company_register_number|HRB 57891]], vertreten durch den Geschäftsführer [[person|Octavian Dedovic]], Klägerin, prozessbevollmächtigt: Rechtsanwalt [[lawyer|Hanjo Gessner]],
+[[organization|Herzog & Linder GmbH]], eingetragen im Handelsregister des [[court|Amtsgerichts Hamburg]] unter [[company_register_number|HRB 57891]], USt-IdNr. [[tax_id|DE890089108]], Steuernummer [[tax_id|83/134/32768]], vertreten durch den Geschäftsführer [[person|Octavian Dedovic]], Klägerin, prozessbevollmächtigt: Rechtsanwalt [[lawyer|Hanjo Gessner]],
 
 gegen
 
-[[organization|Trautwein GmbH]], eingetragen im Handelsregister des [[court|Amtsgerichts Leipzig]] unter [[company_register_number|HRB 180950]], Beklagte, prozessbevollmächtigt: Rechtsanwältin [[lawyer|Gusti Schenkel]] und Rechtsanwalt [[lawyer|Freerk Pieper]],
+[[organization|Trautwein GmbH]], eingetragen im Handelsregister des [[court|Amtsgerichts Leipzig]] unter [[company_register_number|HRB 180950]], USt-IdNr. [[tax_id|DE135988310]], Steuernummer [[tax_id|57/979/74169]], Beklagte, prozessbevollmächtigt: Rechtsanwältin [[lawyer|Gusti Schenkel]] und Rechtsanwalt [[lawyer|Freerk Pieper]],
 
-hat der VIII. Zivilsenat des Bundesgerichtshofs auf die mündliche Verhandlung vom [[date|12. März 2026]] durch die Vorsitzende Richterin am Bundesgerichtshof [[judge|Wiepke Fraenkel]], die Richterin am Bundesgerichtshof [[judge|Dr. med. Hille Höpfner]] sowie die Richter am Bundesgerichtshof [[judge|Eginhardt Lemke]], [[judge|Umme Merk]] und [[judge|Džemil Ravlić]] für Recht erkannt:
+hat der VIII. Zivilsenat des [[court|Bundesgerichtshofs]] auf die mündliche Verhandlung vom [[date|26. Februar 2026]] durch die Vorsitzende Richterin am [[court|Bundesgerichtshof]] [[judge|Wiepke Fraenkel]], die Richterin am [[court|Bundesgerichtshof]] [[judge|Dr. med. Hille Höpfner]] sowie die Richter am [[court|Bundesgerichtshof]] [[judge|Eginhardt Lemke]], [[judge|Umme Merk]] und [[judge|Džemil Ravlić]] für Recht erkannt:
 
 Tenor
 
@@ -29,11 +29,12 @@ Die Sache wird zur neuen Verhandlung und Entscheidung, auch über die Kosten der
 
 Tatbestand
 
-Die Klägerin nimmt die Beklagte auf Rückabwicklung eines Kaufvertrags über eine gebrauchte Sattelzugmaschine mit dem amtlichen Kennzeichen [[license_plate|BO V 443]] in Anspruch.
+Die Klägerin nimmt die Beklagte auf Rückabwicklung eines Kaufvertrags über eine gebrauchte Sattelzugmaschine mit dem amtlichen Kennzeichen [[license_plate|HH V 443]] in Anspruch.
 
 Die Beklagte verkaufte das Fahrzeug am [[date|3. Februar 2024]] zu einem Nettopreis von 58.000 Euro. Die Übergabe fand am Lagerplatz auf dem [[address|Blinder Weg 17, 78667 Villingendorf]] statt. Bei der Übergabe legte der Zeuge [[person|Stavre Hosszú]], Prokurist der Beklagten, seinen Reisepass Nr. [[id_document_number|H1J9KF4RM]] vor. Der Zeuge wohnt in [[address|Niederheideweg 14, 16945 Kümmernitztal]].
 
-Bei einer Probefahrt am [[date|14. Februar 2024]] auf der [[street|Gerlachstraße]] in Leipzig trat ein Ruckeln beim Schalten auf. Die Klägerin rügte den Mangel mit Schreiben vom [[date|20.02.2024]] und forderte die Nachbesserung. Die Beklagte ließ das Getriebe in ihrer Werkstatt auf dem Gelände [[address|Hirblinger Straße 7, 04509 Lissa]] überprüfen und hielt den Mangel für unerheblich. Die Klägerin erklärte daraufhin den Rücktritt.
+Bei einer Probefahrt am [[date|14. Februar 2024]] auf der [[street|Gerlachstraße]] in [[location|Leipzig]] trat ein Ruckeln beim Schalten auf. Die Klägerin rügte den Mangel mit Schreiben vom [[date|20.02.2024]] und forderte die Nachbesserung. Die Beklagte ließ das Getriebe in ihrer Werkstatt in [[address|Hirblinger Straße 7,
+04509 Lissa]] überprüfen und hielt den Mangel für unerheblich. Die Klägerin erklärte daraufhin den Rücktritt.
 
 Das [[court|Landgericht Leipzig]] hat die Klage abgewiesen. Das Berufungsgericht hat die Berufung der Klägerin zurückgewiesen.
 
@@ -47,7 +48,7 @@ Die Klägerin ist Unternehmerin im Sinne des [[legal_norm|§ 14 Abs. 1 BGB]]. Di
 
 Die Verjährungsfrist beträgt nach [[legal_norm|§ 438 Abs. 1 Nr. 3 BGB]] zwei Jahre ab Ablieferung. Die Klage ist daher innerhalb der Frist erhoben worden, da die Ablieferung am [[date|3. Februar 2024]] erfolgte und die Klage am [[date|10. Oktober 2024]] eingereicht wurde.
 
-Das Berufungsgericht hat zudem nicht festgestellt, ob die Werkstatt der Beklagten über die erforderliche Sachkunde verfügte. Der Zeuge Hosszú hat hierzu lediglich ausgesagt, dass er das Getriebe nicht selbst geprüft habe. Die Frage der Nacherfüllung bedarf deshalb neuer Feststellungen.
+Das Berufungsgericht hat zudem nicht festgestellt, ob die Werkstatt der Beklagten über die erforderliche Sachkunde verfügte. Der Zeuge [[person|Hosszú]] hat hierzu lediglich ausgesagt, dass er das Getriebe nicht selbst geprüft habe. Die Frage der Nacherfüllung bedarf deshalb neuer Feststellungen.
 
 Die Kostenentscheidung bleibt dem Berufungsgericht vorbehalten.
 

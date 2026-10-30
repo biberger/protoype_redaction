@@ -180,6 +180,8 @@ class Gazetteer:
             if len(self.last[c]) < 300:
                 self.last[c] += names
         for row in self._rows(root / "municipalities.tsv"):
+            if row["country"] == "DE" and len(row["postcode"]) != 5:
+                continue  # pre-1993 four-digit West German postcodes in Wikidata
             self.towns[row["country"]].append((row["name"], row["postcode"]))
         for row in self._rows(root / "streets.tsv"):
             self.streets[row["country"]].append(row["name"])
