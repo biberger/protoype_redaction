@@ -21,9 +21,11 @@ Meine Geschäftsanteile an der [[organization|Khalid GmbH]] ([[company_register_
 
 Den Schmuck aus der Schatulle erhält [[person|Ivone Rosenkranz]]. Das Sparbuch vermache ich [[person|Leandra Bassey]]; sie hat sich mit dem Personalausweis Nr. [[id_document_number|A1222789]] ausgewiesen, als wir die Übergabe besprachen.
 
+Die Bibliothek im Arbeitszimmer erhält ebenfalls [[person|Ivone Rosenkranz]], die die Bücher seit der Studienzeit kennt.
+
 4. Konto
 
-Das Guthaben auf dem Konto mit der IBAN [[bank_account|AT32 6622 1308 2512 3655]] verwaltet bis zur Einantwortung [[person|Albert Aimable]]. Nach Abzug der Begräbniskosten fällt der Rest den Erben nach Ziffer 1 zu.
+Das Guthaben auf dem Konto mit der IBAN [[bank_account|AT32 6622 1308 2512 3655]] verwaltet bis zur Einantwortung [[person|Albert Aimable]]. Nach Abzug der Begräbniskosten fällt der Rest den Erben nach Ziffer 1 zu. Die Kontovollmacht von [[person|Albert Aimable]] erlischt mit der Einantwortung.
 
 5. Nachricht
 
@@ -34,6 +36,10 @@ an: [[person|britta]]
 betreff: entwurf
 
 [[person|britta]], dein entwurf ist angekommen, passt so. ich hab die unterlagen für die [[organization|khalid]] schon an [[person|albert]] weitergegeben. wenn du willst, ruf ich dich am wochenende an. grüße [[person|idilio]]
+
+6. Begräbnis
+
+Die Bestattung soll auf dem Friedhof in [[location|Herrnbaumgarten]] stattfinden. Die Grabpflege übernimmt [[person|Nadine Samb]] für fünf Jahre; die Kosten trägt der Nachlass.
 
 [[location|Herrnbaumgarten]], am [[date|9. September 2026]]
 

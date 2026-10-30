@@ -39,6 +39,8 @@ N° de sécurité sociale mentionné au dossier d'assurance emprunteur : [[socia
 Le présent courrier est adressé à votre domicile actuel ainsi qu'à votre ancienne adresse, [[address|27 boulevard
 Voltaire, 75011 Paris]], où vous résidiez lors de la souscription du prêt.
 
+La présente lettre vaut mise en demeure au sens de l'[[legal_norm|article 1344 du Code civil]]. Je vous rappelle que les intérêts de retard courent à compter de la date d'exigibilité de chaque échéance impayée, conformément à l'[[legal_norm|article 1231-6 du Code civil]].
+
 À défaut de paiement dans ce délai, je saisirai le tribunal judiciaire compétent afin d'obtenir la condamnation de votre débiteur, sans préjudice des frais de procédure, qui resteront à votre charge.
 
 Je vous prie d'agréer, Madame, l'expression de mes salutations distinguées.

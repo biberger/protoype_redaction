@@ -30,6 +30,8 @@ Das [[court|Landesgericht Feldkirch]] verpflichtete den Revisionswerber mit Urte
 
 Das [[court|Oberlandesgericht Innsbruck]] gab der Berufung des Revisionswerbers mit Urteil vom [[date|9. April 2026]], [[case_number|2 R 38/26p]], nur hinsichtlich des Zinsenausspruchs Folge und bestätigte das Ersturteil im Übrigen. Das Berufungsgericht ließ die ordentliche Revision zu.
 
+Dem Urteil liegt ein Werkvertrag zugrunde, der am [[date|12. März 2024]] mündlich geschlossen und später schriftlich bestätigt wurde. Die Holzbauarbeiten wurden im Frühjahr 2025 fertiggestellt. Der Revisionsgegner legte die Schlussrechnung vom [[date|18. Juni 2025]] über EUR 38.615,00 vor; der Revisionswerber hatte davon EUR 7.375,00 bezahlt, sodass der eingeklagte Rest EUR 31.240,00 beträgt. Im Verfahren erster Instanz erstattete der gerichtlich bestellte Sachverständige [[person|DI Oskar Pfeifer]] am [[date|11. November 2025]] ein Gutachten, wonach die Verleimung der Träger mangelhaft, die Mängel aber mit vertretbarem Aufwand verbesserbar seien.
+
 II. Zulässigkeit
 
 Die Revision ist zulässig. Das Berufungsgericht hat die ordentliche Revision zugelassen, und die Entscheidung hängt von einer Rechtsfrage ab, der erhebliche Bedeutung zukommt ([[legal_norm|§ 502 Abs 1 ZPO]]). Das Urteil des Berufungsgerichts wurde am [[date|14. Mai 2026]] zugestellt. Die Revision wurde innerhalb der vierwöchigen Frist des [[legal_norm|§ 505 ZPO]] eingebracht.
@@ -44,11 +46,13 @@ III. Revisionsgründe
 
 4. Die Rechtsfrage, ob die Rüge eines Verleimungsmangels binnen angemessener Frist erfolgt ist, hat über den Einzelfall hinaus erhebliche Bedeutung, weil sie die Abnahme und die Fälligkeit des Werklohns bei Holzbauwerken betrifft.
 
+5. Der Sachverständige [[person|Pfeifer]] hat die Verleimung als mangelhaft bezeichnet; das Berufungsgericht hat sich mit dieser Feststellung nur oberflächlich auseinandergesetzt, obwohl sie für die Frage der Verbesserung entscheidend ist. Die Frage der Rechtzeitigkeit einer Mängelrüge bei Holzbauwerken ist, soweit ersichtlich, höchstgerichtlich noch nicht geklärt.
+
 IV. Anträge
 
 Der Revisionswerber beantragt, der [[court|OGH]] möge das Urteil des Berufungsgerichts im Sinne einer Klagsabweisung abändern. Hilfsweise beantragt er, die Entscheidung aufzuheben und dem Berufungsgericht eine neue Entscheidung aufzutragen.
 
-Der Revisionsgegner ist unter [[email|m.walter@outlook.at]] erreichbar; Zustellungen erfolgen an seine Anschrift in [[location|Lauterach]]. Die Pauschalgebühr wurde entrichtet. Für allfällige Kostenersätze wird die IBAN [[bank_account|AT02 7969 2016 8049 2518]] des Revisionswerbers angegeben.
+Der Revisionsgegner ist unter [[email|m.walter@outlook.at]] erreichbar; Zustellungen erfolgen an seine Anschrift in [[location|Lauterach]]. Die Kosten des Revisionsverfahrens sind nach dem Ausgang des Verfahrens zuzusprechen. Die Pauschalgebühr wurde entrichtet. Für allfällige Kostenersätze wird die IBAN [[bank_account|AT02 7969 2016 8049 2518]] des Revisionswerbers angegeben.
 
 [[location|Innsbruck]], am [[date|8. Juni 2026]]
 

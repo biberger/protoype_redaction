@@ -27,7 +27,7 @@ Le [[date|14 mai 2024]], M. [[person|Sprenger]] a confié à M. [[person|Lauret]
 
 Le [[date|12 mars 2025]], M. [[person|Lauret]] écrivait par messagerie :
 
-« bonjour [[person|konrad]], je te confirme que la chape sera coulée jeudi. pour les paiements, voir avec [[person|isabelle massot]], elle a tout noté. eric »
+« bonjour [[person|konrad]], je te confirme que la chape sera coulée jeudi. pour les paiements, voir avec [[person|isabelle massot]], elle a tout noté. [[person|eric]] »
 
 Par ordonnance du [[date|18 juin 2025]], Mme [[person|Titaina Lacaze]], expert judiciaire, a été désignée. Son rapport, déposé le [[date|7 octobre 2025]], comporte le tableau récapitulatif suivant :
 

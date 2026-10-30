@@ -52,6 +52,8 @@ Par la requête du [[date|15.07.2025]], l'appelant critique l'évaluation du pr�
 
 L'intimé conclut à la confirmation du jugement et, à titre subsidiaire, à la réduction de l'incapacité de travail retenue par l'expert.
 
+À l'audience, Me [[lawyer|Eude Juillet]] a soutenu que le constat amiable, signé le jour même par les deux conducteurs, ne fait aucune mention d'un arrêt irrégulier. Me [[lawyer|Mesrop Devillers]] a répliqué que la vitesse de l'intimé, relevée par les témoins, rendait le choc évitable pour un conducteur attentif.
+
 IV. Discussion
 
 A. La responsabilité
@@ -64,7 +66,13 @@ B. Le préjudice
 
 Selon le rapport de la Dre [[person|Edeline Van Gils]], daté du [[date|27 mai 2025]], l'incapacité temporaire totale a duré quarante-deux jours et l'incapacité partielle ensuite a été évaluée à 5 %. Les frais de réparation du véhicule et le dommage moral, justifiés par les pièces, sont adéquatement pris en compte par le premier juge.
 
+La facture de réparation du véhicule, établie le [[date|2 octobre 2024]] par un garage de [[location|Jemappes]], s'élève à 2.135,40 euros et figure au dossier.
+
 Le montant alloué doit toutefois être complété : l'expert a retenu des frais médicaux non quantifiés, que la cour évalue forfaitairement à 260 euros, ce qui porte la somme due à 7.100 euros. Il n'y a pas lieu de réduire l'incapacité retenue par [[person|Van Gils]].
+
+C. Les dépens
+
+L'issue de l'appel commande de statuer sur les dépens conformément au droit commun. L'intimé, qui succombe sur l'essentiel de la demande d'appel, supportera les frais de la procédure d'appel, liquidés selon le tarif en vigueur à la date de l'audience du [[date|19 janvier 2026]].
 
 PAR CES MOTIFS, LA COUR,
 
