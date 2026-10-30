@@ -50,6 +50,9 @@ note "start; steps=$STEPS; gpu=$(nvidia-smi --query-gpu=name,memory.total --form
 python -m pip install -q "torch==2.6.0" --index-url https://download.pytorch.org/whl/cu124 || fail "torch install"
 python -m pip install -q "gliner2==2.1.0" "transformers==5.22.0" sentencepiece "huggingface_hub>=1.0" pyarrow numpy \
   safetensors protobuf || fail "pip install"
+# the image's torchvision/torchaudio are built for its own torch and break transformers' imports
+python -m pip uninstall -y -q torchvision torchaudio
+python -c "from gliner2 import AutoExtractor; from gliner2.training import ExtractorTrainer" || fail "import gliner2"
 [ "${CHECK_CUDA:-1}" = 0 ] || python -c "import torch; assert torch.cuda.is_available() and torch.cuda.is_bf16_supported(); print(torch.__version__, torch.cuda.get_device_name(0))" \
   || fail "no cuda/bf16"
 
