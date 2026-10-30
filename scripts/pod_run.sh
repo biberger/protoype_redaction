@@ -3,14 +3,15 @@
 # results to a private HF model repo, then the pod stops itself.
 #
 # Env: HF_TOKEN, HF_REPO (dataset repo with build/ and code.tar.gz), HF_OUT (model repo),
-#      optional STEPS="smoke train eval", MAX_HOURS (self-stop watchdog, default 7.5).
+#      optional STEPS="smoke train eval", MAX_HOURS (self-stop watchdog, default 7.5);
+#      for local tests: CHECK_CUDA=0, STOP_SLEEP=0.
 # Start command on the pod:
 #   bash -c 'curl -fsSL -H "Authorization: Bearer $HF_TOKEN" \
 #     https://huggingface.co/datasets/$HF_REPO/resolve/main/pod_run.sh -o /pod_run.sh && bash /pod_run.sh'
 set -uo pipefail
 W=${WORKDIR:-/workspace/run}
 LOG=$W/logs
-STEPS=${STEPS:-"smoke train eval"}
+STEPS=${STEPS-"smoke train eval"}
 mkdir -p "$LOG"
 exec > >(tee -a "$LOG/pod.log") 2>&1
 export HF_HUB_ENABLE_HF_TRANSFER=0 PYTHONUNBUFFERED=1 TOKENIZERS_PARALLELISM=false
@@ -23,7 +24,7 @@ stop_pod() {
   if [ -n "${RUNPOD_POD_ID:-}" ]; then
     runpodctl stop pod "$RUNPOD_POD_ID" || runpodctl remove pod "$RUNPOD_POD_ID" || true
   fi
-  sleep 600   # never fall through to a restart loop
+  sleep "${STOP_SLEEP:-600}"   # never fall through to a restart loop
 }
 
 upload_logs() {
@@ -36,6 +37,8 @@ HfApi().upload_folder(folder_path="$LOG", path_in_repo="logs", repo_id=os.enviro
 PY
 }
 
+descendants() { local c; for c in $(pgrep -P "$1"); do descendants "$c"; echo "$c"; done; }
+trap 'kill $(descendants $$) 2>/dev/null' EXIT
 # watchdog: hard wall-clock cap, independent of the main job
 ( sleep "$(python3 -c "print(int(float('${MAX_HOURS:-7.5}')*3600))")"; note "WATCHDOG: MAX_HOURS reached"; stop_pod ) &
 # progress uploader every 15 min
@@ -44,10 +47,10 @@ PY
 fail() { note "FAILED: $*"; stop_pod; exit 1; }
 
 note "start; steps=$STEPS; gpu=$(nvidia-smi --query-gpu=name,memory.total --format=csv,noheader)"
-pip install -q "torch==2.6.0" --index-url https://download.pytorch.org/whl/cu124 || fail "torch install"
-pip install -q "gliner2==2.1.0" "transformers==5.22.0" sentencepiece "huggingface_hub>=1.0" pyarrow numpy \
+python -m pip install -q "torch==2.6.0" --index-url https://download.pytorch.org/whl/cu124 || fail "torch install"
+python -m pip install -q "gliner2==2.1.0" "transformers==5.22.0" sentencepiece "huggingface_hub>=1.0" pyarrow numpy \
   safetensors protobuf || fail "pip install"
-python -c "import torch; assert torch.cuda.is_available() and torch.cuda.is_bf16_supported(); print(torch.__version__, torch.cuda.get_device_name(0))" \
+[ "${CHECK_CUDA:-1}" = 0 ] || python -c "import torch; assert torch.cuda.is_available() and torch.cuda.is_bf16_supported(); print(torch.__version__, torch.cuda.get_device_name(0))" \
   || fail "no cuda/bf16"
 
 cd "$W"
