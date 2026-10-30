@@ -14,8 +14,8 @@
 set -euo pipefail
 cd "$(dirname "$0")/.."
 PY=.venv/bin/python
-BUILD=data/build/v1
-RUN=out/v1
+BUILD=${BUILD:-data/build/v1}
+RUN=${RUN:-out/v1}
 CUDA=${CUDA:-cu124}
 
 case "${1:-}" in
@@ -36,6 +36,9 @@ data)
   if [ -d data/synthetic/raw_v5 ]; then
     $PY -m legalner.tagged data/synthetic/raw_v5 -o data/canonical/synthetic_v5.jsonl --source synthetic
   fi
+  $PY -m legalner.tagged data/synthetic/raw_v6 -o data/canonical/synthetic_v6.jsonl --source synthetic_eu
+  $PY -m legalner.tagged data/eurlex/corrected -o data/canonical/eurlex.jsonl --source eurlex
+  $PY -m legalner.tagged data/mapa_v2/corrected -o data/canonical/mapa_v2.jsonl --source mapa_v2
   $PY -m legalner.sources.ler -o data/canonical/ler
   $PY -m legalner.sources.replay -o data/canonical/replay.jsonl --max-per-set 5000
   $PY -m legalner.sources.mapa -o data/canonical/mapa
@@ -49,11 +52,12 @@ build)
   $PY -m legalner.build \
     data/canonical/synthetic_v1.jsonl data/canonical/synthetic.jsonl data/canonical/synthetic_v3.jsonl \
     data/canonical/synthetic_v4.jsonl $(ls data/canonical/synthetic_v5.jsonl 2>/dev/null) \
+    data/canonical/synthetic_v6.jsonl data/canonical/eurlex.jsonl \
     data/canonical/ris.jsonl data/canonical/replay.jsonl \
-    data/canonical/ler/*.jsonl data/canonical/mapa/*.jsonl data/canonical/gold_at.jsonl \
+    data/canonical/ler/*.jsonl data/canonical/mapa/*.jsonl data/canonical/mapa_v2.jsonl data/canonical/gold_at.jsonl \
     --exclude-docs data/gold/at/doc_ids.txt \
-    --max-per-doc ris=20 --cap ris:Bundesverwaltungsgericht=800 \
-    --mix ler=0.4,synthetic=0.3,ris=0.15,replay=0.15 \
+    --max-per-doc ris=20 --cap ris:Bundesverwaltungsgericht=800 --source-copies synthetic_eu=3 \
+    --mix ler=0.39,synthetic=0.3,ris=0.145,replay=0.145,eurlex=0.02 \
     --validate -o "$BUILD" > /dev/null
   $PY -c "import json; m = json.load(open('$BUILD/manifest.json')); \
           print({k: m[k] for k in ('train', 'dev', 'test', 'train_share', 'validate')})"
@@ -69,9 +73,12 @@ eval)
   mkdir -p out/eval
   for model in "$RUN/best" fastino/gliner2.5-multi-v1 fastino/gliner2-privacy-filter-PII-multi; do
     name=$(basename "$model")
-    $PY -m legalner.evaluate "$model" data/canonical/gold_at.jsonl --out "out/eval/gold_$name.json"
+    $PY -m legalner.evaluate "$model" data/canonical/gold_at.jsonl --out "out/eval/gold_$name.json" \
+      --save-preds "out/eval/preds_gold_$name.jsonl"
+    $PY -m legalner.evaluate "$model" data/canonical/mapa_v2.jsonl --out "out/eval/mapa2_$name.json" \
+      --save-preds "out/eval/preds_mapa2_$name.jsonl"
     $PY -m legalner.evaluate "$model" "$BUILD/test.canonical.jsonl" --max-per-source 2000 \
-      --out "out/eval/test_$name.json"
+      --out "out/eval/test_$name.json" --save-preds "out/eval/preds_test_$name.jsonl"
   done
   ;;
 *)

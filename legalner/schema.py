@@ -159,6 +159,8 @@ SOURCES = {
                    eval_merge={"organization": ("organization", "court")}, eval_partial=frozenset({"organization"}),
                    eval_only=True),
     # hand-checked Austrian gold set (legalner.goldset), never trained on
+    # synthetic v6 EU documents (CJEU, GC, AG, Commission, EUIPO, ECtHR); own name so build can oversample it
+    "synthetic_eu": Source("synthetic_eu", _ALL - {"case_citation", "contract", "literature", "brand"}),
     # real EU court texts (CELLAR), model-pre-annotated and agent-corrected to GENERATION.md (legalner.sources.eurlex)
     "eurlex": Source("eurlex", _ALL - {"case_citation", "contract", "literature", "brand"}),
     # MAPA's test documents re-annotated to GENERATION.md the same way; evaluation only

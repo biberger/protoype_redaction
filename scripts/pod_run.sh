@@ -92,11 +92,12 @@ import os
 snapshot_download(os.environ["HF_REPO"], repo_type="dataset", local_dir="dl")
 PY
 mkdir -p repo && tar -xzf dl/code.tar.gz -C repo && mkdir -p repo/data/build repo/data/canonical \
-  && cp -r dl/build/v1 repo/data/build/v1 && cp dl/canonical/gold_at.jsonl repo/data/canonical/ || fail "unpack"
+  && cp -r dl/build/* repo/data/build/ && cp dl/canonical/*.jsonl repo/data/canonical/ || fail "unpack"
+export BUILD=${BUILD:-data/build/v1} RUN=${RUN:-out/v1}
 cd repo
 # gpu_run.sh expects .venv/bin/python; point it at the system interpreter
 mkdir -p .venv/bin && ln -sf "$(command -v python)" .venv/bin/python
-note "data ready: $(wc -l < data/build/v1/train.jsonl) train records"
+note "data ready: $(wc -l < "$BUILD/train.jsonl") train records in $BUILD"
 
 run_step() {  # name
   note "step $1 begin"
@@ -135,11 +136,10 @@ PY
 from huggingface_hub import HfApi
 import os
 api = HfApi()
-for p in ("out/v1/best",):
-    api.upload_folder(folder_path=p, path_in_repo="best", repo_id=os.environ["HF_OUT"], commit_message="best checkpoint")
-for f in ("train_result.json",):
-    if os.path.exists("out/v1/" + f):
-        api.upload_file(path_or_fileobj="out/v1/" + f, path_in_repo=f, repo_id=os.environ["HF_OUT"])
+run = os.environ["RUN"]
+api.upload_folder(folder_path=f"{run}/best", path_in_repo="best", repo_id=os.environ["HF_OUT"], commit_message="best checkpoint")
+if os.path.exists(f"{run}/train_result.json"):
+    api.upload_file(path_or_fileobj=f"{run}/train_result.json", path_in_repo="train_result.json", repo_id=os.environ["HF_OUT"])
 PY
   fi
   if [ "$s" = eval ]; then

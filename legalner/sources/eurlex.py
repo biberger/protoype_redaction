@@ -65,7 +65,8 @@ class _Paragraphs:
             t = html.unescape(re.sub(r"<[^>]+>", " ", m.group(1)))
             t = re.sub(r"[ \t ]+", " ", t).strip()
             t = t.replace("‑", "-")  # non-breaking hyphen in case numbers (C‑311/19)
-            if t:
+            t = re.sub(r"\(\s*\*\s*\d+\s*\)", "", t).strip()  # footnote markers "( *1 )"
+            if t and not re.fullmatch(r"[()*\d\s.]+", t):  # marker fragments split over several <p>
                 paras.append(t)
         return paras
 
@@ -156,13 +157,18 @@ def main(argv=None):
                     seen.add(hashlib.sha1(_norm(t).encode()).hexdigest())
         rows = [json.loads(ln) for ln in open(args.index)]
         out, skipped = [], 0
+        cache = pathlib.Path(args.cache)
         for k, r in enumerate(rows):
-            for lang in ([list(LANGS)[k % 2]] if args.one_lang else LANGS):
-                path = pathlib.Path(args.cache) / f"{r['celex']}_{lang}.xhtml"
-                if not path.exists():
-                    continue
+            langs = [lg for lg in LANGS if (cache / f"{r['celex']}_{lg}.xhtml").exists()]
+            if args.one_lang and langs:  # alternate, falling back to the language that exists
+                pref = list(LANGS)[k % 2]
+                langs = [pref if pref in langs else langs[0]]
+            for lang in langs:
+                path = cache / f"{r['celex']}_{lang}.xhtml"
                 paras = _Paragraphs.extract(path.read_text(encoding="utf-8", errors="ignore"))
-                if any(hashlib.sha1(_norm(p).encode()).hexdigest() in seen for p in paras if len(p) > 40):
+                long = [p for p in paras if len(p) > 80]
+                hits = sum(hashlib.sha1(_norm(p).encode()).hexdigest() in seen for p in long)
+                if hits >= max(3, len(long) // 5):  # the same document, not shared boilerplate
                     skipped += 1
                     continue
                 chunks = chunk(paras)
