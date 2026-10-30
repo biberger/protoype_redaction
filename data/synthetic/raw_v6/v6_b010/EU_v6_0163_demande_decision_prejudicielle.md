@@ -64,13 +64,21 @@ L'affaire a été attribuée à la deuxième chambre, composée de Mme [[judge|O
 
 16. Les parties au principal ont été représentées par Me [[lawyer|Rogerek Nycz]], avocat au barreau de [[location|Luxembourg]], pour [[organization|Nettoyage Čović]]. Les gouvernements ont été représentés par Mme [[person|Franka Kowal]] et Mme [[person|Modeste Juchem]], agentes du [[organization|gouvernement luxembourgeois]], et par M. [[person|Jira Krčmář]], agent du [[organization|gouvernement polonais]].
 
+17. Le [[organization|gouvernement polonais]] fait valoir que la responsabilité du gérant d'une société étrangère ne peut être engagée que si celui-ci a personnellement pris la décision de ne pas déclarer les salariés. Il ajoute que la seule qualité de gérant ne suffit pas à établir cette responsabilité.
+
+18. Le [[organization|gouvernement grec]] soutient, en revanche, que l'objectif de protection des travailleurs détachés justifie que la responsabilité soit imputée au dirigeant qui a effectivement organisé les détachements, quelle que soit sa nationalité.
+
+19. [[person|GA]] conteste ces observations. Il fait valoir qu'il n'a jamais reçu les documents de l'[[organization|ISTL]] relatifs aux déclarations manquantes et qu'il n'a été informé de l'amende qu'après l'expiration du délai de recours.
+
+20. Le [[organization|gouvernement luxembourgeois]] estime que la question de la notification relève du droit national et de la compétence exclusive des juridictions luxembourgeoises. Il invite la [[court|Cour]] à ne pas se prononcer sur les modalités concrètes de notification.
+
 **V. Appréciation de la juridiction de renvoi**
 
-17. La juridiction de renvoi constate que la décision de l'[[organization|ISTL]] ne précise pas les motifs pour lesquels la responsabilité a été imputée à [[person|GA]] plutôt qu'à la société. Elle relève que la [[court|Cour]] a déjà admis que la personne physique puisse être sanctionnée lorsqu'elle a personnellement commis le manquement.
+21. La juridiction de renvoi constate que la décision de l'[[organization|ISTL]] ne précise pas les motifs pour lesquels la responsabilité a été imputée à [[person|GA]] plutôt qu'à la société. Elle relève que la [[court|Cour]] a déjà admis que la personne physique puisse être sanctionnée lorsqu'elle a personnellement commis le manquement.
 
-18. La société a fait valoir que la sous-traitance a été mise en œuvre par une entreprise luxembourgeoise qui n'a jamais été poursuivie. La juridiction de renvoi n'est pas en mesure de déterminer, à ce stade, si cette entreprise avait l'obligation légale de déclarer les salariés.
+22. La société a fait valoir que la sous-traitance a été mise en œuvre par une entreprise luxembourgeoise qui n'a jamais été poursuivie. La juridiction de renvoi n'est pas en mesure de déterminer, à ce stade, si cette entreprise avait l'obligation légale de déclarer les salariés.
 
-19. Dans ces conditions, la [[court|Cour]] est invitée à préciser la portée des obligations de déclaration et la répartition de la responsabilité entre le détachant et le donneur d'ordre. La présente demande ne préjuge pas de la solution au fond.
+23. Dans ces conditions, la [[court|Cour]] est invitée à préciser la portée des obligations de déclaration et la répartition de la responsabilité entre le détachant et le donneur d'ordre. La présente demande ne préjuge pas de la solution au fond.
 
 Fait à [[location|Luxembourg]], le [[date|10 septembre 2025]].
 

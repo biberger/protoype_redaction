@@ -76,11 +76,19 @@ folgendes
 
 15. Der [[court|Gerichtshof]] stellt fest, dass eine Anzeigepflicht, die ausschließlich der Kontrolle dient, keine verbotene Beschränkung darstellt, sofern sie nicht zu einer wesentlichen Verzögerung der Leistungserbringung führt.
 
+16. Die [[organization|österreichische Regierung]] verweist darauf, dass die Anzeigepflicht auch dem Verbraucherschutz dient, weil die zuständige Behörde auf diese Weise die Qualifikation des Dienstleisters überprüfen kann. Sie hält die Pflicht für gerechtfertigt, da sie nicht mehr verlange als eine einmalige Meldung.
+
+17. Die [[organization|polnische Regierung]] vertritt dagegen die Auffassung, dass eine Anzeigepflicht, die nur für Dienstleister aus anderen Mitgliedstaaten gilt, als mittelbare Diskriminierung anzusehen sei, auch wenn sie formal neutral formuliert ist.
+
+18. [[person|SL]] macht geltend, dass er die Tätigkeit in [[location|Tirol]] nur an insgesamt elf Tagen im Jahr ausgeübt habe und dass die Behörde die Dauer nicht ordnungsgemäß ermittelt habe. [[organization|Textil Vrdoljak]] verweist ergänzend darauf, dass Abholdienste in [[location|Kroatien]] einer vergleichbaren Anzeigepflicht unterliegen.
+
+19. Der [[court|Gerichtshof]] weist darauf hin, dass die Prüfung der Verhältnismäßigkeit Sache des vorlegenden Gerichts ist, das die tatsächlichen Umstände, insbesondere Dauer und Häufigkeit der Tätigkeit, zu würdigen hat.
+
 [[organization|Textil Vrdoljak]] und [[person|SL]] wurden durch die Rechtsanwälte [[lawyer|Hasse Bourg]] und [[lawyer|Virgile Barraud]] vertreten.
 
 **5. Kosten**
 
-16. Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit vor dem vorlegenden Gericht; über die Kosten hat dieses zu entscheiden.
+20. Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit vor dem vorlegenden Gericht; über die Kosten hat dieses zu entscheiden.
 
 Aus diesen Gründen hat der [[court|Gerichtshof]] (Vierte Kammer) für Recht erkannt:
 

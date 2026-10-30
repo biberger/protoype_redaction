@@ -79,10 +79,16 @@ folgendes
 14. [[organization|NI]] trägt vor, dass die Speicherung im Ausgangsverfahren allein auf Weisung von [[organization|Pflege Enache]] erfolgte. Diese Weisung ist nach Auffassung des [[court|Gerichtshofs]] für die Verteilung der Verantwortung von Bedeutung.
 
 15. Der [[court|Gerichtshof]] stellt fest, dass ein Auftragsverarbeiter, der Gesundheitsdaten im Auftrag eines Verantwortlichen speichert, selbst für die Einhaltung der Speicherfrist verantwortlich ist, soweit er über die Dauer der Aufbewahrung mitentscheidet.
+16. Die [[organization|Nkanga Installations e.K.]] ([[organization|NI]]) macht geltend, ihre Tätigkeit sei auf die technische Wartung beschränkt und sie habe keinen Einfluss auf die Speicherdauer. [[organization|NI]] verweist auf eine Klausel im Dienstleistungsvertrag, wonach die Speicherung ausschließlich vom Verantwortlichen bestimmt werde.
+
+17. Die [[organization|Pflege Enache]] trägt vor, die Speicherfrist sei aufgrund einer Anordnung der slowakischen Aufsichtsbehörde verlängert worden. [[organization|Energie Hofer SRL]] schließt sich dieser Darstellung an.
+
+18. Das vorlegende Gericht hat festgestellt, dass [[organization|NI]] die Software so konfiguriert hatte, dass die Löschfunktion nur auf ausdrücklichen Befehl des Pflegedienstes ausgelöst werden konnte. Diese technische Gestaltung spricht dafür, dass [[organization|NI]] über die Mittel der Verarbeitung mitentschieden hat.
+
 
 **5. Kosten**
 
-16. Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit vor dem vorlegenden Gericht; über die Kosten hat dieses zu entscheiden.
+19. Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit vor dem vorlegenden Gericht; über die Kosten hat dieses zu entscheiden.
 
 Aus diesen Gründen hat der [[court|Gerichtshof]] (Dritte Kammer) für Recht erkannt:
 

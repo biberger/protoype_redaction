@@ -65,9 +65,13 @@ le [[organization|Service fédéral de contrôle des contrats]] ([[organization|
 
 17. Le [[organization|SFCC]] devra réexaminer la demande de remboursement à la lumière de cette appréciation. Il n'appartient pas à la [[court|Cour]] de qualifier les faits, qui relèvent de la juridiction de renvoi.
 
+18. Il convient en outre de préciser que le délai de rétractation ne saurait être interprété de manière à allonger artificiellement la période de réflexion du consommateur. L'objectif de la directive est de garantir au consommateur une possibilité réelle d'exercer son droit, y compris lorsque les biens sont livrés en plusieurs fois.
+
+19. Les arguments de [[organization|Lattanzi-Giusti]] tirés de l'absence de mention contractuelle ne sont pas convaincants. La directive impose au professionnel une obligation d'information dont le manquement ne saurait profiter à celui qui l'a commis. Le [[organization|SFCC]] a donc, à tort, retenu la date de la première livraison.
+
 **VI. Conclusion**
 
-18. Eu égard à ces considérations, je propose à la [[court|Cour]] de répondre à la juridiction de renvoi que l'[[legal_norm|article 17 de la directive 2011/83/UE]] doit être interprété en ce sens que le délai de rétractation court à compter de la réception du dernier bien, lorsque le contrat prévoit une livraison échelonnée et que le professionnel a omis d'en informer le consommateur.
+20. Eu égard à ces considérations, je propose à la [[court|Cour]] de répondre à la juridiction de renvoi que l'[[legal_norm|article 17 de la directive 2011/83/UE]] doit être interprété en ce sens que le délai de rétractation court à compter de la réception du dernier bien, lorsque le contrat prévoit une livraison échelonnée et que le professionnel a omis d'en informer le consommateur.
 
 Fait à [[location|Luxembourg]], le [[date|14 mai 2026]].
 

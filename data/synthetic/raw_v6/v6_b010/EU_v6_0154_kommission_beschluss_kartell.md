@@ -63,9 +63,17 @@ in Erwägung nachstehender Gründe:
 
 Die [[organization|Cvitanić d.o.o.]] wurde im Verfahren durch die Rechtsanwälte [[lawyer|Lotar Mlynář]] und [[lawyer|Masud Hussain]] vertreten.
 
+15. Die [[organization|Cvitanić d.o.o.]] bestreitet die Abgrenzung des betroffenen Marktes. Sie macht geltend, Wärmedämmstoffe aus verschiedenen Mitgliedstaaten stünden miteinander im Wettbewerb und die Lieferbeziehungen seien überwiegend über Großhändler abgewickelt worden, die ihre Preise eigenständig festgelegt hätten.
+
+16. Die [[organization|Kommission]] hält dem entgegen, dass die Lieferungen überwiegend in einzelne nationale Gebiete gerichtet waren und dass die Preisabsprachen gerade die Abschottung dieser Gebiete bezweckten. Das Vorbringen zu den Großhändlern ändert daran nichts, weil die Absprache auch deren Preisgestaltung erfasste.
+
+17. Der Gesellschaft ist es nicht gelungen, die Behauptung zu belegen, dass die Großhändler ihre Preise unabhängig festgelegt hätten. Die vorgelegten Verträge enthalten Klauseln, die eine Preisbindung vorsehen.
+
+18. Mehrere Mitgliedstaaten haben die Zusammenarbeit mit der [[organization|KAT]] hervorgehoben. Die [[organization|KAT]] hat nach eigenen Angaben Auskunftsersuchen an sämtliche Lieferanten gerichtet, deren Antworten in das Verfahren eingeflossen sind.
+
 **6. Geldbuße**
 
-15. Gegen die [[organization|Cvitanić d.o.o.]] wird eine Geldbuße in Höhe von 14,2 Millionen Euro nach [[legal_norm|Art. 23 Abs. 2 der Verordnung (EG) Nr. 1/2003]] festgesetzt. Der Betrag orientiert sich am Wert der Verkäufe im letzten vollen Geschäftsjahr vor der Beendigung der Zuwiderhandlung.
+19. Gegen die [[organization|Cvitanić d.o.o.]] wird eine Geldbuße in Höhe von 14,2 Millionen Euro nach [[legal_norm|Art. 23 Abs. 2 der Verordnung (EG) Nr. 1/2003]] festgesetzt. Der Betrag orientiert sich am Wert der Verkäufe im letzten vollen Geschäftsjahr vor der Beendigung der Zuwiderhandlung.
 
 **II. ENTSCHEIDUNG**
 

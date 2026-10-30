@@ -80,11 +80,21 @@ folgendes
 
 18. Die [[organization|EZB]] hat in ihrer Stellungnahme vom [[date|3. April 2025]] darauf hingewiesen, dass die Aufsichtsbehörden die Verantwortlichkeit von Organmitgliedern nach den nationalen Regeln beurteilen dürfen, sofern die Grundsätze der Verhältnismäßigkeit gewahrt bleiben.
 
+19. Die [[organization|Slowakische Nationalbank]] hat in der mündlichen Verhandlung erklärt, die Entscheidung stütze sich nicht auf eine persönliche Schuld des Vorstandsmitglieds, sondern auf die Gesamtverantwortung des Leitungsorgans. Dies bestreitet [[person|Benildo Marcon]], der geltend macht, er sei für die Liquiditätsplanung nicht zuständig gewesen.
+
+20. Das vorlegende Gericht hat darauf hingewiesen, dass das nationale Recht eine Haftung nur für Pflichtverletzungen vorsieht, die dem einzelnen Organmitglied zuzurechnen sind. Die Frage, ob diese Regel mit dem Unionsrecht vereinbar ist, ist daher für den Ausgang des Rechtsstreits entscheidend.
+
+21. Die [[organization|Stiftung Ardea]] hatte im Jahr 2022 ein internes Kontrollsystem eingeführt, das nach den Feststellungen der [[organization|Nationalbank]] jedoch nicht wirksam war. Die [[organization|Nationalbank]] hat die Angemessenheit dieses Systems nicht beanstandet, sondern dessen Wirksamkeit bezweifelt.
+
+22. Die [[organization|EZB]] hat darauf hingewiesen, dass die Verantwortlichkeit von Organmitgliedern im Bankaufsichtsrecht durch [[legal_norm|Art. 91 der Richtlinie 2013/36/EU]] geregelt ist. Die [[organization|Kommission]] hat in ihrer Stellungnahme bemerkt, eine Verantwortlichkeit ohne individuelle Prüfung könne dem Grundsatz der Rechtssicherheit widersprechen.
+
+23. Das vorlegende Gericht sieht sich daher veranlasst, dem [[court|Gerichtshof]] die Frage vorzulegen, ob die Haftungsregel die individuelle Verantwortung jedes Organmitglieds berücksichtigen muss.
+
 Vor dem [[court|Gerichtshof]] haben Rechtsanwältin [[lawyer|Miranda Meštrović]] und Rechtsanwalt [[lawyer|Emídio Salema]] die Interessen von [[person|Benildo Marcon]] vertreten.
 
 **5. Kosten**
 
-19. Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit vor dem vorlegenden Gericht; über die Kosten hat dieses zu entscheiden.
+24. Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit vor dem vorlegenden Gericht; über die Kosten hat dieses zu entscheiden.
 
 Aus diesen Gründen hat der [[court|Gerichtshof]] (Zweite Kammer) für Recht erkannt:
 

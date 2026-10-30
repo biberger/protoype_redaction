@@ -64,12 +64,20 @@ Par décision du président de la [[court|Cour]], l'affaire a été attribuée �
 
 16. L'avocat général a été entendu à l'audience du [[date|9 avril 2026]]. Les parties ont été invitées à se prononcer sur l'hypothèse où la [[court|Cour]] retiendrait une lecture extensive de la notion de pratique trompeuse.
 
+17. Les observations du [[organization|gouvernement portugais]] s'appuient sur la distinction entre la garantie légale, qui est d'ordre public, et la garantie commerciale, qui est un engagement volontaire du professionnel. Selon lui, une omission portant sur la seconde ne saurait induire le consommateur en erreur sur ses droits légaux, dès lors que ceux-ci sont rappelés par ailleurs dans la notice.
+
+18. Le [[organization|gouvernement croate]] fait valoir, au contraire, que la notice constitue le principal support d'information du consommateur au moment de l'achat et que toute omission de la durée de garantie est, par nature, de nature à influer sur sa décision. Il relève que la société n'a pas établi que la mention figurait sur le site internet du distributeur.
+
+19. Me [[lawyer|Ingram Öztürk]] soutient, pour [[organization|Svoboda a.s.]], que la notice reproduit fidèlement le modèle fourni par le fabricant et que la société ne disposait d'aucun moyen de vérifier son contenu définitif avant la mise sur le marché. Il ajoute que l'amende a été calculée sur l'ensemble des ventes réalisées au [[location|Grand-Duché de Luxembourg]], et non sur les seules ventes des bornes concernées.
+
+20. Interrogée sur la période de distribution de la notice litigieuse, [[organization|Svoboda a.s.]] a indiqué qu'elle avait été remplacée à la fin de l'année 2024, sans que l'[[organization|OLPC]] en soit informé.
+
 **V. Remarques finales de la juridiction de renvoi**
 
-17. La juridiction de renvoi constate que l'[[organization|OLPC]] n'a pas produit le modèle de notice soumis par le fabricant, bien que la société l'ait demandé dès la phase administrative. Elle n'est pas en mesure, en l'état du dossier, de vérifier si l'omission reprochée était imputable à la seule société ou au fabricant.
+21. La juridiction de renvoi constate que l'[[organization|OLPC]] n'a pas produit le modèle de notice soumis par le fabricant, bien que la société l'ait demandé dès la phase administrative. Elle n'est pas en mesure, en l'état du dossier, de vérifier si l'omission reprochée était imputable à la seule société ou au fabricant.
 
-18. Elle relève également que la décision de l'[[organization|OLPC]] ne précise pas le mode de calcul de l'amende, ce qui rend difficile l'appréciation de la proportionnalité au regard de la jurisprudence de la [[court|Cour]].
+22. Elle relève également que la décision de l'[[organization|OLPC]] ne précise pas le mode de calcul de l'amende, ce qui rend difficile l'appréciation de la proportionnalité au regard de la jurisprudence de la [[court|Cour]].
 
-19. Dans ces conditions, le [[court|Tribunal d'arrondissement de Luxembourg]] a décidé de surseoir à statuer et de soumettre à la [[court|Cour]] les questions énoncées ci-dessus. La présente demande ne préjuge pas de la solution au fond du litige.
+23. Dans ces conditions, le [[court|Tribunal d'arrondissement de Luxembourg]] a décidé de surseoir à statuer et de soumettre à la [[court|Cour]] les questions énoncées ci-dessus. La présente demande ne préjuge pas de la solution au fond du litige.
 
 Fait à [[location|Luxembourg]], le [[date|18 février 2026]].

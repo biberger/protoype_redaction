@@ -66,9 +66,17 @@ le [[organization|Service national de l'inspection des produits]] ([[organizatio
 
 17. Dans ces conditions, je propose à la [[court|Cour]] de dire que l'[[legal_norm|article 26 du règlement (UE) n° 1169/2011]] s'oppose à une obligation nationale d'étiquetage d'origine lorsque l'information est déjà fournie de manière équivalente sur l'emballage.
 
+18. Il y a lieu de rappeler que la notion de mesure d'effet équivalent doit être interprétée de manière large, mais que l'exception tirée de la protection de la santé doit être appréciée de manière stricte. La mesure nationale en cause ne vise pas la santé publique de manière directe, mais la transparence de l'information commerciale.
+
+19. [[organization|Roháček-Tarczyński]] souligne que le produit est fabriqué dans plusieurs États membres et que l'emballage porte déjà la mention de chacun des pays d'origine. Elle en déduit que l'exigence d'un étiquetage supplémentaire est dépourvue d'utilité pour le consommateur et crée une charge disproportionnée pour un producteur de taille moyenne.
+
+20. Le [[organization|SNIP]] répond que l'emballage ne permet pas de distinguer, pour chaque lot, la provenance exacte de la viande. Il soutient que la mention figurant sur l'emballage est générique et ne satisfait donc pas aux exigences de la mesure nationale.
+
+21. Il appartiendra à la juridiction de renvoi de vérifier cette affirmation, au regard des éléments de traçabilité produits par [[organization|Roháček-Tarczyński]]. La [[court|Cour]] n'a pas à se prononcer sur la traçabilité du produit, qui relève de l'appréciation des faits.
+
 **VI. Conclusion**
 
-18. Eu égard à l'ensemble de ces considérations, je propose à la [[court|Cour]] de répondre à la juridiction de renvoi dans le sens indiqué au point 17 des présentes conclusions.
+22. Eu égard à l'ensemble de ces considérations, je propose à la [[court|Cour]] de répondre à la juridiction de renvoi dans le sens indiqué au point 17 des présentes conclusions.
 
 Fait à [[location|Luxembourg]], le [[date|3 juillet 2026]].
 

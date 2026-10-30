@@ -66,12 +66,14 @@ rend la présente
 14. En l'espèce, la juridiction de renvoi n'a pas décrit de façon suffisamment précise les faits du litige au principal. Elle n'a pas indiqué si la clause d'exclusivité avait été appliquée pendant la période visée par la décision de l'[[organization|ARC]].
 
 15. Les questions posées ne permettent donc pas à la [[court|Cour]] de fournir une réponse utile. La demande de décision préjudicielle est manifestement irrecevable.
+16. Il convient de relever que la juridiction de renvoi n'a pas indiqué si la question posée a déjà fait l'objet d'une réponse dans la jurisprudence de la [[court|Cour]], et qu'elle se borne à reproduire les termes généraux de l'[[legal_norm|article 101 TFUE]]. Une telle demande, qui ne contient pas les éléments de fait et de droit nécessaires, ne permet pas à la [[court|Cour]] de donner une réponse utile.
+
 
 Les requérantes au principal ont été représentées par Me [[lawyer|Emiliya Schelest]], Me [[lawyer|Tomasino Trevisan]] et Me [[lawyer|Mileno De Rosa]].
 
 **5. Dépens**
 
-16. La présente ordonnance ne statue pas sur les dépens, qui relèvent de la juridiction de renvoi.
+17. La présente ordonnance ne statue pas sur les dépens, qui relèvent de la juridiction de renvoi.
 
 **Par ces motifs, la [[court|Cour]] (dixième chambre) ordonne :**
 

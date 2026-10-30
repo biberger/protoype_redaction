@@ -59,6 +59,18 @@ rend la présente
 
 13. Il résulte de ce qui précède que les signes présentent un degré de similitude visuelle et conceptuelle moyen. L'opposition doit être accueillie pour une partie des produits en classe 9.
 
+14. La chambre rappelle que la comparaison des signes s'effectue au regard de l'impression d'ensemble produite par les marques, en tenant compte de leurs éléments distinctifs et dominants. Elle relève que la marque antérieure comporte un élément verbal dont la signification est aisément perçue par le public roumain, ce qui rend la comparaison conceptuelle particulièrement pertinente.
+
+15. La requérante fait valoir que la marque contestée reprend l'élément verbal dominant de sa marque antérieure, en ne modifiant que la terminaison. Elle soutient que cette reprise est de nature à créer un risque de confusion, y compris pour les consommateurs de produits de classe 25 qui ne sont pas familiers avec les produits de classe 9.
+
+16. Le titulaire de la marque conteste cette analyse. Il soutient que l'élément commun est descriptif et ne peut donc constituer un élément distinctif dominant. La chambre estime toutefois que la question du caractère descriptif relève de l'examen de la validité, et non de la procédure d'opposition.
+
+17. [[person|NX]] a, pour sa part, produit des éléments établissant un usage effectif de la marque antérieure sur le marché roumain au cours des cinq années précédant la publication de la demande. Ces éléments comprennent des factures, des catalogues et des captures d'écran de sites internet datés, que la division d'opposition n'avait pas examinés.
+
+18. La [[organization|Commission]] a indiqué, dans ses lignes directrices, que l'usage d'une marque dans un seul État membre peut suffire à établir un usage sérieux lorsque le marché concerné est local. La chambre en prend note, sans qu'il soit nécessaire de se prononcer sur l'application de ces lignes directrices au cas d'espèce.
+
+19. Enfin, l'[[organization|ARPI]] a confirmé que le renouvellement de la marque nationale antérieure avait été demandé dans le délai légal. La chambre en conclut que la marque antérieure était en vigueur à la date de dépôt de la demande contestée.
+
 **IV. Dispositif**
 
 Par ces motifs, la chambre de recours :

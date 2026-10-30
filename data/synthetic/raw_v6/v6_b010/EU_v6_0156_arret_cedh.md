@@ -75,9 +75,25 @@ rend l'arrêt que voici, adopté à cette date :
 
 16. En l'espèce, la [[court|Cour]] estime que l'absence d'information claire constitue une ingérence non prévue par la loi au sens de l'article 8 § 2. Il y a donc eu violation de l'[[legal_norm|article 8 de la CEDH]].
 
+17. Le [[organization|gouvernement finlandais]] soutient que la notion de « loi » au sens de la Convention ne se limite pas aux textes législatifs formels, mais inclut les règles de droit du travail, les accords collectifs et la jurisprudence des juridictions internes, dès lors qu'elles sont suffisamment accessibles et prévisibles.
+
+18. Le [[organization|gouvernement luxembourgeois]] estime, quant à lui, que la prévisibilité doit être appréciée du point de vue de l'employeur, et non du salarié, dès lors que c'est à lui qu'il revient de mettre en œuvre le dispositif de géolocalisation.
+
+19. Le [[organization|gouvernement roumain]] souligne que la surveillance des salariés au moyen de la géolocalisation est une pratique répandue dans l'Union et qu'elle ne saurait être considérée comme intrinsèquement disproportionnée.
+
+20. Les requérants répondent que la pratique des autres États membres n'est pas pertinente, la Convention imposant une appréciation concrète des circonstances de chaque affaire. [[person|Steve Ismail]] fait valoir qu'il n'a jamais été informé de la finalité précise du dispositif, alors même que les données recueillies ont servi à fonder la sanction infligée à [[organization|Atelier Kerdoncuff]].
+
+21. [[person|RI]], pour sa part, insiste sur le fait qu'elle a été entendue par l'[[organization|OPCE]] sans l'assistance d'un conseil, alors qu'elle se trouvait dans une situation de dépendance vis-à-vis de son employeur. La [[court|Cour]] estime que cette circonstance est pertinente pour apprécier le caractère effectif de l'information reçue.
+
+22. La [[court|Cour]] rappelle que l'accès à un recours effectif fait partie des garanties offertes par l'[[legal_norm|article 8 de la CEDH]]. En l'espèce, le recours introduit par [[organization|Atelier Kerdoncuff]] devant le [[court|Sąd Okręgowy w Krakowie]] a été examiné au fond, mais le juge n'a pas recherché si la requérante avait eu connaissance de la finalité du traitement.
+
+23. La [[court|Cour]] observe enfin que la décision de l'[[organization|OPCE]] a été prise sur le fondement d'une visite des locaux dont le procès-verbal ne mentionne pas l'objet précis des contrôles. Cette lacune renforce l'absence de prévisibilité relevée plus haut.
+
+24. Il s'ensuit que la sanction a été imposée sur une base juridique insuffisamment claire pour les personnes concernées. La [[court|Cour]] ne saurait admettre que l'obligation d'information, telle qu'appliquée en l'espèce, satisfasse aux exigences de la Convention.
+
 **III. SUR LA SATISFACTION ÉQUITABLE**
 
-17. Les requérants réclament une somme au titre du préjudice moral. La [[court|Cour]] alloue à [[person|Steve Ismail]] la somme de cinq mille euros et à [[person|RI]] celle de trois mille euros.
+25. Les requérants réclament une somme au titre du préjudice moral. La [[court|Cour]] alloue à [[person|Steve Ismail]] la somme de cinq mille euros et à [[person|RI]] celle de trois mille euros.
 
 **PAR CES MOTIFS, LA [[court|COUR]]**
 
@@ -85,7 +101,7 @@ rend l'arrêt que voici, adopté à cette date :
 
 2. Dit qu'il y a eu violation de l'[[legal_norm|article 8 de la CEDH]] ;
 
-3. Dit que la [[organization|République de Pologne]] doit verser aux requérants les sommes indiquées au paragraphe 17.
+3. Dit que la [[organization|République de Pologne]] doit verser aux requérants les sommes indiquées au paragraphe 25.
 
 Fait en français, puis communiqué par écrit le [[date|8 septembre 2026]].
 

@@ -71,9 +71,19 @@ Les observations écrites ont été présentées par Me [[lawyer|Dalibor Erdély
 
 15. L'[[organization|ONCD]] doit, en tout état de cause, indiquer les éléments qui fondent la désignation du détenteur, faute de quoi la décision de réexpédition ne satisfait pas à l'exigence de motivation.
 
+16. Il convient de relever que la notion de détenteur, au sens de la directive, ne dépend ni de la propriété du véhicule ni de la qualité contractuelle de transporteur, mais de la maîtrise effective des déchets. Une personne qui conduit un véhicule sur instruction d'un donneur d'ordre peut donc, selon les circonstances, être considérée comme détentrice.
+
+17. La [[organization|République slovaque]] soutient, à l'audience, que l'interprétation proposée par [[organization|Pietrucha-Mrđa]] priverait l'autorité de contrôle de tout moyen efficace de désigner le responsable. La [[court|Cour]] ne partage pas cette appréciation, dès lors que la désignation du détenteur doit reposer sur des critères objectifs vérifiables par l'autorité.
+
+18. S'agissant de la proportionnalité de la décision de réexpédition, la [[court|Cour]] relève que la directive impose aux États membres de veiller à ce que les déchets soient éliminés sans mettre en danger la santé humaine et sans nuire à l'environnement. Une mesure de réexpédition qui n'est pas motivée au regard de ces exigences ne saurait être regardée comme nécessaire.
+
+19. Il appartiendra également à la juridiction de renvoi de déterminer si [[person|EB]] a agi de bonne foi, c'est-à-dire sans savoir que le chargement contenait des déchets d'amiante. Cette circonstance peut avoir une incidence sur la sanction susceptible d'être infligée, mais non sur la qualification de détenteur.
+
+20. La [[organization|Commission]], qui a présenté des observations écrites, a souligné l'importance d'une application uniforme de la notion de détenteur dans l'ensemble de l'Union. La [[court|Cour]] partage ce point de vue, qui conforte l'interprétation retenue ci-dessus.
+
 **5. Sur les dépens**
 
-16. La procédure revêt, à l'égard des parties au principal, le caractère d'un incident soulevé devant la juridiction de renvoi ; il appartient donc à celle-ci de statuer sur les dépens.
+21. La procédure revêt, à l'égard des parties au principal, le caractère d'un incident soulevé devant la juridiction de renvoi ; il appartient donc à celle-ci de statuer sur les dépens.
 
 **Par ces motifs, la [[court|Cour]] (cinquième chambre) dit pour droit :**
 

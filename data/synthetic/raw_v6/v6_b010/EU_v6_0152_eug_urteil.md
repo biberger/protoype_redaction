@@ -78,9 +78,15 @@ folgendes
 
 13. Der Europäische Datenschutzbeauftragte hat darauf hingewiesen, dass die Beweislast nach dem Urteil [[organization|Vobořil]] beim Verantwortlichen liegt und dass die [[organization|AVCD]] die Aufsicht auch über Vermittler mit Sitz im Ausland ausüben muss.
 
+14. Die [[organization|finnische Regierung]] hält es für entscheidend, dass die betroffene Person über den Zweck der Datenerhebung ausreichend informiert wurde. Eine Einwilligung, die ohne diese Information erteilt wird, könne ihre Wirkung nicht entfalten.
+
+15. Die [[organization|deutsche Regierung]] weist darauf hin, dass die Versicherungswirtschaft auf die Verarbeitung von Gesundheitsdaten angewiesen ist und dass das Unionsrecht insoweit einen Ausgleich zwischen dem Schutz der Betroffenen und der Vertragsfreiheit verlangt. Sie schlägt vor, eine Verarbeitung nur dann als zulässig anzusehen, wenn die Daten auf das für die Risikoprüfung erforderliche Maß beschränkt bleiben.
+
+16. Die [[organization|AVCD]] hat in ihrer Stellungnahme erklärt, sie habe die Einwilligungsformulare der [[organization|Santer-Maroldt SCS]] nicht beanstandet, da diese ausdrücklich auf die Gesundheitsdaten hinwiesen. Dieser Auffassung widerspricht [[person|Soledad Mercedes Bouzas]], die geltend macht, die Formulare seien nicht in einer verständlichen Sprache abgefasst gewesen.
+
 **5. Kosten**
 
-14. Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit vor dem vorlegenden Gericht; über die Kosten hat dieses zu entscheiden.
+17. Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit vor dem vorlegenden Gericht; über die Kosten hat dieses zu entscheiden.
 
 Aus diesen Gründen hat der [[court|Gerichtshof]] (Vierte Kammer) für Recht erkannt:
 
