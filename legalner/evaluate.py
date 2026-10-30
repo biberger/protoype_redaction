@@ -99,15 +99,18 @@ def main(argv=None):
     ap.add_argument("data", nargs="+", help="canonical JSONL files")
     ap.add_argument("--threshold", type=float, default=0.5)
     ap.add_argument("--batch-size", type=int, default=8)
-    ap.add_argument("--device", default=None)
+    ap.add_argument("--device", default=None, help="default: cuda if available, else cpu")
     ap.add_argument("--out", help="write full JSON report here")
     ap.add_argument("--max-per-source", type=int, default=0, help="random sample per source (0 = all)")
     ap.add_argument("--seed", type=int, default=13)
     args = ap.parse_args(argv)
 
     from gliner2 import AutoExtractor
-    kwargs = {"map_location": args.device} if args.device else {}
-    model = AutoExtractor.from_pretrained(args.model, **kwargs)
+    if args.device is None:
+        import torch
+        args.device = "cuda" if torch.cuda.is_available() else "cpu"
+    model = AutoExtractor.from_pretrained(args.model, map_location=args.device)
+    model.eval()
     records = list(read_records(args.data))
     if args.max_per_source:
         import random
