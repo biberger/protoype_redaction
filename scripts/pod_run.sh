@@ -4,7 +4,9 @@
 #
 # Env: HF_TOKEN, HF_REPO (dataset repo with build/ and code.tar.gz), HF_OUT (model repo),
 #      optional STEPS="smoke train eval", MAX_HOURS (self-stop watchdog, default 7.5);
-#      for local tests: CHECK_CUDA=0, STOP_SLEEP=0.
+#      SMOKE_GATE (default 1): after smoke, wait for control/go or control/abort in HF_OUT
+#      (GATE_MINUTES, default 60, then stop); for local tests: CHECK_CUDA=0, STOP_SLEEP=0.
+#   release the gate:  touch go && hf upload <HF_OUT> go control/go   (or abort -> control/abort)
 # Start command on the pod:
 #   bash -c 'curl -fsSL -H "Authorization: Bearer $HF_TOKEN" \
 #     https://huggingface.co/datasets/$HF_REPO/resolve/main/pod_run.sh -o /pod_run.sh && bash /pod_run.sh'
@@ -46,6 +48,32 @@ trap 'kill $(descendants $$) 2>/dev/null' EXIT
 
 fail() { note "FAILED: $*"; stop_pod; exit 1; }
 
+control() {  # clear | wait: poll HF_OUT for control/go or control/abort
+  python - "$1" <<'PY'
+import os, sys, time
+from huggingface_hub import HfApi
+api, repo = HfApi(), os.environ["HF_OUT"]
+def present():
+    try:
+        return {f.split("/")[1] for f in api.list_repo_files(repo) if f.startswith("control/")}
+    except Exception:
+        return set()
+if sys.argv[1] == "clear":
+    if present():
+        api.delete_folder("control", repo_id=repo, commit_message="clear gate")
+    sys.exit(0)
+deadline = time.time() + 60 * float(os.environ.get("GATE_MINUTES", "60"))
+while time.time() < deadline:
+    found = present()
+    if "abort" in found:
+        sys.exit(1)
+    if "go" in found:
+        sys.exit(0)
+    time.sleep(60)
+sys.exit(2)
+PY
+}
+
 note "start; steps=$STEPS; gpu=$(nvidia-smi --query-gpu=name,memory.total --format=csv,noheader)"
 python -m pip install -q "torch==2.6.0" --index-url https://download.pytorch.org/whl/cu124 || fail "torch install"
 python -m pip install -q "gliner2==2.1.0" "transformers==5.22.0" sentencepiece "huggingface_hub>=1.0" pyarrow numpy \
@@ -56,6 +84,7 @@ python -c "from gliner2 import AutoExtractor; from gliner2.training import Extra
 [ "${CHECK_CUDA:-1}" = 0 ] || python -c "import torch; assert torch.cuda.is_available() and torch.cuda.is_bf16_supported(); print(torch.__version__, torch.cuda.get_device_name(0))" \
   || fail "no cuda/bf16"
 
+[ "${SMOKE_GATE:-1}" = 0 ] || control clear || fail "clear gate"
 cd "$W"
 python - <<PY || fail "download"
 from huggingface_hub import snapshot_download
@@ -93,6 +122,13 @@ ls = [float(x) for x in re.findall(r"loss[\"']?\s*[:=]\s*([0-9.]+)", txt)]
 print("smoke losses:", ls[:40])
 PY
     upload_logs || true
+    if [ "${SMOKE_GATE:-1}" != 0 ]; then
+      note "smoke done; waiting up to ${GATE_MINUTES:-60} min for control/go or control/abort in $HF_OUT"
+      upload_logs || true
+      control wait; rc=$?
+      [ $rc = 0 ] || fail "gate: $([ $rc = 1 ] && echo aborted || echo 'no go within timeout')"
+      note "gate: go"
+    fi
   fi
   if [ "$s" = train ]; then
     python - <<PY || note "WARN upload of model failed"
