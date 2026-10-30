@@ -27,7 +27,7 @@ Affaire [[case_number|C-589/25]]
 
 **III. Les faits et la question préjudicielle**
 
-6. [[organization|CB]] a participé, en [[date|mars 2024]], à un appel d'offres relatif à la rénovation d'un bâtiment public à [[location|Cracovie]]. Le pouvoir adjudicateur a constaté que [[organization|CB]] avait, dans un marché antérieur, versé des salaires en retard à plusieurs salariés détachés.
+6. [[organization|CB]] a participé, en mars 2024, à un appel d'offres relatif à la rénovation d'un bâtiment public à [[location|Cracovie]]. Le pouvoir adjudicateur a constaté que [[organization|CB]] avait, dans un marché antérieur, versé des salaires en retard à plusieurs salariés détachés.
 
 7. Par décision du [[date|12 juillet 2024]], l'[[organization|OPSM]] a exclu [[organization|CB]] pour une durée de trois ans. [[organization|CB]] a contesté cette décision en faisant valoir qu'elle avait mis en place un programme de conformité.
 

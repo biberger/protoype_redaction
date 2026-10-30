@@ -55,7 +55,7 @@ Mit seiner Klage nach [[legal_norm|Art. 263 AEUV]] begehrt Herr [[person|XA]] di
 
 11. Der Kläger rügt eine Verletzung der Begründungspflicht. Die Entscheidung des [[organization|EDSB]] beschränke sich auf den Hinweis, dass die Angaben personenbezogen seien, und lasse eine Abwägung mit dem Informationsinteresse vermissen.
 
-12. Das [[court|Gericht]] hat in der Rechtssache [[organization|Urbański]] ([[case_number|226/76]], [[date|14. Juli 1976]]) entschieden, dass die Begründung so beschaffen sein muss, dass der Betroffene die Gründe erkennen und das Gericht sie prüfen kann.
+12. Das [[court|Gericht]] hat in der Rechtssache [[organization|Urbański]] ([[case_number|226/76]], [[date|14. Juli 1976]]) entschieden, dass die Begründung so beschaffen sein muss, dass der Betroffene die Gründe erkennen und das [[court|Gericht]] sie prüfen kann.
 
 13. Der [[organization|EDSB]] hält dem entgegen, dass die Begründung in Verbindung mit den Unterlagen der [[organization|EFSA]] hinreichend deutlich sei. Die Abwägung sei vorgenommen worden, wie sich aus den Randnummern der Entscheidung ergebe.
 

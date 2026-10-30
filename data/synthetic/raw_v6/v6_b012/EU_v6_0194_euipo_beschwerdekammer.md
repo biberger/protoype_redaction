@@ -27,7 +27,7 @@ Die [[organization|Beschwerdekammer]] (Zweite Kammer) hat am [[date|21. Oktober 
 
 4. In der Begründung der Beschwerde wurde vorgetragen, die ältere Marke sei in den letzten fünf Jahren vor dem Anmeldetag nicht ernsthaft benutzt worden. [[person|ZB]] hält dem entgegen, dass die Benutzung in [[location|Österreich]] nachgewiesen sei.
 
-5. Die [[organization|Republik Österreich]] ist dem Verfahren als Nebenintervenientin beigetreten. Sie stützt sich auf eine Stellungnahme der [[organization|Bundesagentur für Markenrecht]] ([[organization|BAM]]), die den Gebrauch der älteren Marke in Österreich bestätigt.
+5. Die [[organization|Republik Österreich]] ist dem Verfahren als Nebenintervenientin beigetreten. Sie stützt sich auf eine Stellungnahme der [[organization|Bundesagentur für Markenrecht]] ([[organization|BAM]]), die den Gebrauch der älteren Marke in [[location|Österreich]] bestätigt.
 
 **II. Anträge und Vorbringen**
 
