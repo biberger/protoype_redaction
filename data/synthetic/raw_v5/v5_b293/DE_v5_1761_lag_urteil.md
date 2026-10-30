@@ -24,7 +24,7 @@ Prozessbevollmächtigte: [[lawyer|Prof. Dr. Erica Wessels]], Rechtsanwältin
 
 und
 
-[[organization|Hoppe Möbel GmbH & Co. KG]] ([[company_register_number|HRA 170549]], [[court|Amtsgericht München]]; USt-IdNr. [[tax_id|DE127485630]])
+[[organization|Hoppe Möbel GmbH & Co. KG]] ([[company_register_number|HRA 170549]], [[court|Amtsgericht München]]; USt-IdNr. [[tax_id|DE127485630]]; Steuernummer [[tax_id|696/823/70360]])
 – Streithelferin der Beklagten –
 Prozessbevollmächtigter: [[lawyer|ʿiṣām Weiser]], Rechtsanwalt
 
@@ -42,7 +42,7 @@ hat die 3. Kammer des [[court|Sächsischen Landesarbeitsgerichts]] auf die münd
 
 **Tatbestand**
 
-Die Klägerin war bei der Beklagten vom [[date|1. März 2024]] bis zum [[date|31.10.2025]] als Schweißerin beschäftigt. Sie wurde auf Grundlage eines Arbeitsvertrags eingesetzt, der einen Einsatz am Standort der Streithelferin in [[location|Kirschau]] vorsah. Mit Schreiben vom [[date|15.10.2025]] kündigte die Beklagte das Arbeitsverhältnis ordentlich zum Ende des Monats.
+Die Klägerin war bei der Beklagten vom [[date|1. März 2024]] bis zum [[date|31.10.2025]] als Schweißerin beschäftigt. Sie wurde auf Grundlage eines Arbeitsvertrags eingesetzt, der einen Einsatz am Standort der Streithelferin in [[location|Kirschau]] vorsah. Mit Schreiben vom [[date|15.10.2025]] kündigte die Beklagte das Arbeitsverhältnis ordentlich zum Ende des Monats. Die [[organization|Agentur für Arbeit Bautzen]] ([[organization|AfA]]) bewilligte der Klägerin ab dem [[date|1. November 2025]] Arbeitslosengeld.
 
 Die Klägerin hat vorgetragen, die Kündigung sei sozial ungerechtfertigt. Die Beklagte habe bei der Auswahl die Betriebszugehörigkeit nicht ausreichend berücksichtigt. Die Zeugin [[person|Leonharda Rehm]], Vorarbeiterin, habe die Klägerin mehrfach mit besseren Leistungen bewertet als die übrigen Schweißer. Die Zeugin [[person|Grace Otten]] bestätigte dies.
 
@@ -61,6 +61,10 @@ Die Kündigung ist nicht gemäß [[legal_norm|§ 1 Abs. 2 KSchG]] i.V.m. [[legal
 Die Zeugenaussage von [[person|Rehm]] ist glaubhaft. [[person|Otten]] hat ihre Angaben bestätigt. Die Angaben von [[person|Israel]], wonach die Auswahl ausschließlich auf der Qualifikation beruhe, sind hingegen nicht belegt.
 
 Der Zahlungsanspruch ergibt sich aus [[legal_norm|§ 611a Abs. 2 BGB]] in Verbindung mit dem Arbeitsvertrag. Die Klägerin hat die Fahrten zum Einsatzort dargelegt, jedoch nicht nachgewiesen. Ein Anspruch auf Erstattung der Kilometerpauschale besteht deshalb nicht.
+
+Die Beklagte hat die Sozialauswahl nach [[legal_norm|§ 1 Abs. 3 KSchG]] vorgenommen, indem sie die Leistungsbeurteilungen der vergleichbaren Schweißer herangezogen hat. Die Prozessbevollmächtigte der Beklagten, [[lawyer|Prof. Dr. Erica Wessels]], hat in der mündlichen Verhandlung erklärt, die Auswahl sei allein anhand dieser Beurteilungen erfolgt. Die Klägerin hat dem mit Schriftsatz vom [[date|2. Juni 2026]] widersprochen. Ihre Prozessbevollmächtigte [[lawyer|Gebkea Rohrbach]] legte dazu die internen Beurteilungen vor, die die Beklagte nicht bestritten hat.
+
+Die Kammer hat die Beurteilungen gewürdigt. Sie sind teilweise undatiert und wurden nach Ausspruch der Kündigung erstellt. Dies mindert ihren Beweiswert erheblich, sodass die Auswahlentscheidung nicht nachvollziehbar belegt ist.
 
 Die Revision wird nicht zugelassen, weil die Voraussetzungen des [[legal_norm|§ 72 Abs. 2 ArbGG]] nicht vorliegen.
 

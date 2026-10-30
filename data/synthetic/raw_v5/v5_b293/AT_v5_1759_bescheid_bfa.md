@@ -43,11 +43,23 @@ Mit Schreiben vom [[date|16.06.2026]] übermittelte [[person|Univ.-Prof. Dr. Par
 
 **II. Beweiswürdigung**
 
-Die Feststellungen zur Identität gründen sich auf den vorgelegten Führerschein und die übereinstimmenden Angaben der Zeugen. Die behauptete Gefährdung im Herkunftsstaat ist nach Ansicht der Behörde nicht glaubhaft, weil der Beschwerdeführer weder Ort, Zeitpunkt noch handelnde Personen eines Übergriffs nennen konnte. Die Aussagen zum Wohnsitz in [[location|Österreich]] werden als glaubhaft gewertet.
+Die Feststellungen zur Identität gründen sich auf den vorgelegten Führerschein und die übereinstimmenden Angaben der Zeugen. Die behauptete Gefährdung im Herkunftsstaat ist nach Ansicht der Behörde nicht glaubhaft, weil der Beschwerdeführer weder Ort, Zeitpunkt noch handelnde Personen eines Übergriffs nennen konnte. Die Aussagen zum Wohnsitz in [[location|Österreich]] werden als glaubhaft gewertet. Die [[organization|Meixner Hausverwaltung e.U.]] hat für den Beschwerdeführer geringfügige Hausbetreuungsarbeiten im Jahr 2025 gemeldet und dabei die Versicherungsnummer [[social_security_number|6560 240528]] angegeben. Die Entgelte wurden auf das Konto [[bank_account|AT27 0879 9976 1980 8541]] überwiesen.
+
+Die Behörde hat den vorgelegten Führerschein auf Echtheit geprüft. Eine Abfrage ergab keine Hinweise auf eine Fälschung; der Führerschein ist daher als Identitätsnachweis verwertbar, auch wenn er keine Angaben zur Staatsangehörigkeit enthält. Die Abweichungen zwischen der ersten Einvernahme und der Aussage der Zeugin [[person|Mucha]] hinsichtlich des Einzugsdatums sind geringfügig und beeinträchtigen die Glaubwürdigkeit nicht wesentlich.
+
+Ergänzend ist festzuhalten, dass der Beschwerdeführer außerhalb der Lebensgemeinschaft keine familiären Anknüpfungspunkte in [[location|Österreich]] nachgewiesen hat. Seine Eltern leben nach seinen Angaben in [[location|Kirkuk]] und sind dort wohnhaft.
+
+**Länderfeststellungen**
+
+Die Behörde hat Länderinformationen zur Lage im Herkunftsstaat herangezogen. Im Gebiet von [[location|Kirkuk]] bestehen nach den vorliegenden Berichten staatliche Verwaltungsstrukturen, die grundsätzlich funktionieren. Ein systematischer Übergriff auf zurückkehrende Staatsangehörige ist den Quellen nicht zu entnehmen. Die Länderberichte wurden dem Beschwerdeführer am [[date|28.07.2026]] zur Stellungnahme übermittelt. Er hat davon keinen Gebrauch gemacht.
+
+Der Beschwerdeführer ist nach eigenen Angaben gesund und arbeitsfähig; eine medizinische Behandlung ist nicht erforderlich. Die Verständigung erfolgte bei allen Einvernahmen in arabischer Sprache mit einem beeideten Dolmetscher, dessen Name in den Protokollen vermerkt ist. Der Beschwerdeführer bestätigte die Richtigkeit der Protokolle durch Unterschrift.
 
 **III. Rechtliche Beurteilung**
 
 Ein Asylverfahren ist nicht zu gewähren, weil dem Vorbringen keine asylrelevante Verfolgung zu entnehmen ist. Der Beschwerdeführer lebt seit rund zwei Jahren mit seiner Lebensgefährtin im Bundesgebiet; eine Verletzung des Privat- und Familienlebens nach [[legal_norm|Art. 8 EMRK]] wird dennoch nicht erkannt, weil die Beziehung erst nach der Antragstellung ausreichend verfestigt wurde. Die Rückkehrentscheidung ist daher zulässig, und die Frist für die freiwillige Ausreise ist angemessen.
+
+Nach [[legal_norm|§ 9 BFA-VG]] ist bei der Erlassung einer Rückkehrentscheidung das Privat- und Familienleben abzuwägen. Die Abwägung fällt zu Lasten des Beschwerdeführers aus, weil die Lebensgemeinschaft erst nach der Antragstellung entstanden ist und der Aufenthalt auf einem unsicheren Status beruht.
 
 **Rechtsmittelbelehrung**
 

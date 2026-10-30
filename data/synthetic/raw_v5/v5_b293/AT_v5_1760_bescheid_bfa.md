@@ -46,6 +46,26 @@ Die Feststellungen zur Beschäftigung gründen sich auf die Dienstgeberbestätig
 
 Die strafrechtliche Verurteilung wegen des Vergehens nach dem [[legal_norm|Suchtmittelgesetz]] ist durch den Strafregisterauszug belegt. Diese Verurteilung wurde vom Beschwerdeführer nicht bestritten.
 
+Nach den Angaben des Beschwerdeführers wurde die Verlobung am [[date|3. Januar 2026]] beim [[organization|Standesamt Lilienfeld]] angezeigt. Eine Bestätigung über den Eingang der Anzeige liegt nicht vor. Die Lohnabrechnungen der [[organization|Kaltenegger GmbH]] für die Monate Oktober 2025 bis März 2026 weisen durchgehend ein monatliches Bruttoentgelt aus, das über der Geringfügigkeitsgrenze liegt, sodass eine Vollversicherung besteht.
+
+**Stellungnahme des Rechtsvertreters**
+
+Mit Schriftsatz vom [[date|10. Juni 2026]] nahm der Rechtsvertreter [[lawyer|Steve Mück]] Stellung. Er führte aus, der Beschwerdeführer sei seit dem [[date|1. Oktober 2023]] durchgehend bei der [[organization|Kaltenegger GmbH]] beschäftigt und habe im Betrieb eine leitende Funktion übernommen. Zum Nachweis legte [[lawyer|Mück]] eine Bestätigung über den Besuch eines Deutschkurses an einer Volkshochschule sowie eine Lohnabrechnung vom [[date|31.05.2026]] vor, aus der die Vollzeitbeschäftigung hervorgeht.
+
+Weiters beantragte [[lawyer|Mück]] die Einholung einer Auskunft beim Standesamt zur Verlobung. Der Antrag wurde mit der Begründung abgelehnt, dass das Vorbringen erst nach der Einvernahme erstattet wurde und die Verlobung ohnehin nicht die erforderliche Verfestigung aufweist. Die Behörde hielt den Antrag für unerheblich.
+
+Am [[date|9. Juli 2026]] führte [[person|Margarete Gansterer]] eine ergänzende Einvernahme durch. Der Beschwerdeführer legte dabei Fotos eines gemeinsamen Haushalts vor, die jedoch nach seinen eigenen Angaben erst im Juni 2026 aufgenommen wurden. Die Verlobte ist österreichische Staatsbürgerin; ihre Angaben werden aus Datenschutzgründen nicht wiedergegeben.
+
+Mit Schreiben vom [[date|29.06.2026]] bestätigte [[person|Arthur Prokop, MBA]] die Vollzeitbeschäftigung und die Absicht, den Beschwerdeführer auch künftig zu beschäftigen. Eine Kündigung ist nicht beabsichtigt.
+
+Der Beschwerdeführer hat in seiner Einvernahme ausgeführt, dass er nach dem Abschluss seines Studiums in [[location|Lagos]] als Ingenieur tätig war, bevor er im Jahr 2019 mit einem Visum nach [[location|Österreich]] einreiste. Diese Angaben sind mit den vorgelegten Zeugnissen vereinbar, die als Kopien zu den Akten genommen wurden. Ein Original wurde nicht vorgelegt; die Behörde misst den Kopien daher nur eingeschränkten Beweiswert bei.
+
+Die Angaben zur beruflichen Qualifikation sind für die Entscheidung nicht ausschlaggebend, weil der Antrag auf den Schutz des Familienlebens gestützt wurde. Der Beschwerdeführer wurde über die Bedeutung seiner Angaben belehrt und hat dies durch Unterschrift bestätigt.
+
+**Länderfeststellungen**
+
+Die Behörde hat die aktuellen Länderberichte zu [[location|Nigeria]] herangezogen. Diese beschreiben eine angespannte Sicherheitslage in einzelnen Bundesstaaten, jedoch keine generelle Verfolgung von Rückkehrern mit abgeschlossener Ausbildung. Die Berichte wurden dem Rechtsvertreter am [[date|14.07.2026]] übermittelt.
+
 **III. Rechtliche Beurteilung**
 
 Gemäß [[legal_norm|§ 55 Abs 1 AsylG 2005]] ist der Aufenthaltstitel aus Gründen des [[legal_norm|Art. 8 EMRK]] zu erteilen, wenn dies zur Wahrung des Privat- und Familienlebens geboten ist. Das Interesse an einer geordneten Zuwanderung überwiegt im vorliegenden Fall, weil der Beschwerdeführer seit dem Ablauf seines Aufenthaltstitels im Bundesgebiet nicht rechtmäßig aufhältig ist und die Beziehung erst nach dieser Zeit vorgebracht wurde.
@@ -53,6 +73,12 @@ Gemäß [[legal_norm|§ 55 Abs 1 AsylG 2005]] ist der Aufenthaltstitel aus Grün
 Die Rückkehrentscheidung ist daher nach [[legal_norm|§ 52 Abs 9 FPG]] zu erlassen, weil der Beschwerdeführer keinen Aufenthaltstitel besitzt. Das Einreiseverbot gründet sich auf die Verurteilung, die eine Gefährdung der öffentlichen Ordnung indiziert. Die Dauer von drei Jahren entspricht dem Gewicht der Verfehlung und dem Umstand, dass der Beschwerdeführer bisher keine Schritte zur geordneten Ausreise unternommen hat.
 
 Der Beschwerdeführer ist berufstätig, weshalb eine Ausreise für den Arbeitgeber einen Nachteil bedeutet. Dieser Umstand wurde berücksichtigt, reicht jedoch nicht aus, um von einer Rückkehrentscheidung abzusehen.
+
+Das Einreiseverbot ist im Hinblick auf die Verurteilung und den Zeitraum seit der Einreise verhältnismäßig. Eine Verkürzung auf zwei Jahre wäre nur bei einem Nachweis einer dauerhaften Trennung von der Verlobten möglich, der nicht erbracht wurde. Eine Ausreise in den Herkunftsstaat ist nach den Länderberichten zumutbar, da keine Gefährdung im Sinne des [[legal_norm|§ 50 FPG]] vorliegt.
+
+Der Dienstgeber hat eine Stellungnahme über die Bedeutung der Beschäftigung für den Betrieb abgegeben. Die Behörde berücksichtigt dies im Rahmen der Interessenabwägung, sieht darin jedoch keinen Grund, die Rückkehrentscheidung nicht zu erlassen.
+
+Die Behörde hat die Interessenabwägung nach [[legal_norm|Art. 8 EMRK]] und den Angaben des Beschwerdeführers zu seiner Integration in einer Gesamtschau vorgenommen. Die Beziehung zur Verlobten besteht seit etwa einem Jahr, wobei die Angaben zum Zusammenleben widersprüchlich sind. Eine Abweichung von der gesetzlichen Wertung ist nicht gerechtfertigt. Die Angaben zur Verlobung wurden daher nur als ein Element unter mehreren berücksichtigt.
 
 **IV. Rechtsmittelbelehrung**
 

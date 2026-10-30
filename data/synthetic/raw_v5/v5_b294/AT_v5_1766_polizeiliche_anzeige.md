@@ -17,10 +17,10 @@ Am [[date|22. August 2026]] um 16.40 Uhr stellte Frau [[person|Mülkiye Gençtü
 Die Ermittlungen ergaben folgende Beteiligte:
 
 Pos. | Lenker | Halter | Kennzeichen | Schadensbild
-1 | Mülkiye Gençtürk | Mülkiye Gençtürk | SV 204 ZF | Heckstoßstange eingedrückt
-2 | Taufiq Farzin | [[person|Dr. med. Dionys Gerlach]] | nicht festgestellt | Heckschaden links
+1 | [[person|Mülkiye Gençtürk]] | [[person|Mülkiye Gençtürk]] | [[license_plate|SV 204 ZF]] | Heckstoßstange eingedrückt
+2 | [[person|Taufiq Farzin]] | [[person|Dr. med. Dionys Gerlach]] | nicht festgestellt | Heckschaden links
 
-Der Lenker des zweiten Fahrzeugs, [[person|Taufiq Farzin]], legte den Führerschein Nr. [[id_document_number|64005769]] vor. Den Halter [[person|Gerlach]] erreichte die Polizei unter seiner Anschrift [[address|Hintermarkt 6, 3661 Artstetten-Pöbring]]. Farzin gab an, beim Rückwärtsausparken die Anzeigerin übersehen zu haben, und bestätigte den Schaden am Heck seines Fahrzeugs.
+Der Lenker des zweiten Fahrzeugs, [[person|Taufiq Farzin]], legte den Führerschein Nr. [[id_document_number|64005769]] vor. Den Halter [[person|Gerlach]] erreichte die Polizei unter seiner Anschrift [[address|Hintermarkt 6, 3661 Artstetten-Pöbring]]. [[person|Farzin]] gab an, beim Rückwärtsausparken die Anzeigerin übersehen zu haben, und bestätigte den Schaden am Heck seines Fahrzeugs.
 
 Als Zeugen gaben [[person|Moni Freund]] und [[person|Paulus Grandits]] an, den Anstoß gesehen zu haben. [[person|Freund]] beschrieb das Fahrzeug als dunkelblauen Kombi, [[person|Grandits]] bestätigte die Angaben.
 
