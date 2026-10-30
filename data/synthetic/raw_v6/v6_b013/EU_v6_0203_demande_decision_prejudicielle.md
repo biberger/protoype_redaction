@@ -75,6 +75,6 @@ V. Appréciation provisoire
 
 19. La procédure est suspendue jusqu'à la réponse de la [[court|Cour]]. Les dépens sont réservés.
 
-Fait à Teramo, le [[date|28 novembre 2025]].
+Fait à [[location|Teramo]], le [[date|28 novembre 2025]].
 
 La présidente : [[judge|Fina Minařík]]

@@ -49,7 +49,7 @@ folgendes
 
 2. Die [[organization|Europäische Investitionsbank]] finanziert im Rahmen ihrer Programme Aufnahmeeinrichtungen in mehreren Mitgliedstaaten. Diese Finanzierung ist für die Auslegung der Richtlinie nicht erheblich.
 
-3. Das [[court|Gericht]] hat im Urteil vom [[date|13. November 2012]], [[organization|Ghani]], [[case_number|T-663/11]], entschieden, dass eine Verfahrensfrist die Wirksamkeit eines Rechtsbehelfs nicht beeinträchtigen darf, wenn sie kurz bemessen ist.
+3. Das [[court|Gericht der Europäischen Union]] hat im Urteil vom [[date|13. November 2012]], [[organization|Ghani]], [[case_number|T-663/11]], entschieden, dass eine Verfahrensfrist die Wirksamkeit eines Rechtsbehelfs nicht beeinträchtigen darf, wenn sie kurz bemessen ist.
 
 **Nationales Recht**
 
@@ -63,17 +63,17 @@ folgendes
 
 7. [[person|RF]] ist die Ehefrau von [[person|OO]] und ist im Verfahren als Mitantragstellerin beteiligt. [[person|RF]] vertritt die Auffassung, dass die Zustellung in einer unverständlichen Sprache ungültig sei.
 
-8. Das vorlegende Gericht fragt, ob Art. 47 der Charta und die Richtlinie 2013/32/EU einer nationalen Regelung entgegenstehen, nach der die Frist für den Rechtsbehelf mit der Zustellung läuft, auch wenn der Antragsteller die Sprache der Entscheidung nicht versteht. Es hat dem [[court|Gerichtshof]] die Vorlagefragen zur Entscheidung vorgelegt.
+8. Das vorlegende Gericht fragt, ob [[legal_norm|Art. 47 der Charta]] und die [[legal_norm|Richtlinie 2013/32/EU]] einer nationalen Regelung entgegenstehen, nach der die Frist für den Rechtsbehelf mit der Zustellung läuft, auch wenn der Antragsteller die Sprache der Entscheidung nicht versteht. Es hat dem [[court|Gerichtshof]] die Vorlagefragen zur Entscheidung vorgelegt.
 
 **3. Zu den Vorlagefragen**
 
 **Zur ersten Frage**
 
-9. Die Richtlinie 2013/32/EU verlangt, dass der Antragsteller über die Entscheidung in einer Sprache unterrichtet wird, die er versteht oder vernünftigerweise verstehen darf. Die Zustellung in einer solchen Sprache ist Voraussetzung für den Beginn der Rechtsbehelfsfrist.
+9. Die [[legal_norm|Richtlinie 2013/32/EU]] verlangt, dass der Antragsteller über die Entscheidung in einer Sprache unterrichtet wird, die er versteht oder vernünftigerweise verstehen darf. Die Zustellung in einer solchen Sprache ist Voraussetzung für den Beginn der Rechtsbehelfsfrist.
 
 10. Die [[organization|irische Regierung]] hält die Frist für unionsrechtskonform, da der Antragsteller einen Dolmetscher hätte beantragen können. Dem ist nicht zu folgen, denn die Pflicht zur Übersetzung trifft die Behörde und nicht den Antragsteller.
 
-11. Die [[organization|rumänische Regierung]] und die [[organization|niederländische Regierung]] haben sich dem Vorbringen der irischen Regierung nicht angeschlossen. Sie betonen, dass die Mitgliedstaaten bei der Ausgestaltung der Verfahren über einen Spielraum verfügen, der jedoch durch den Grundsatz der Effektivität begrenzt ist.
+11. Die [[organization|rumänische Regierung]] und die [[organization|niederländische Regierung]] haben sich dem Vorbringen der [[organization|irischen Regierung]] nicht angeschlossen. Sie betonen, dass die Mitgliedstaaten bei der Ausgestaltung der Verfahren über einen Spielraum verfügen, der jedoch durch den Grundsatz der Effektivität begrenzt ist.
 
 12. Der [[court|Gerichtshof]] stellt fest, dass eine Frist, die mit einer Zustellung in einer nicht verständlichen Sprache beginnt, dem Antragsteller die Wahrnehmung seines Rechts auf wirksamen Rechtsschutz faktisch unmöglich machen kann.
 
@@ -83,7 +83,7 @@ folgendes
 
 14. Das Gericht des Ausgangsverfahrens prüft die Akte nach der belgischen Regelung allein auf der Grundlage der Unterlagen der [[organization|GAM]]. Eine mündliche Anhörung findet nicht statt, und der Antragsteller erhält keine Gelegenheit, zu den Unterlagen Stellung zu nehmen.
 
-15. Eine solche Verfahrensgestaltung ist mit Art. 47 der Charta nur vereinbar, wenn der Antragsteller zumindest die wesentlichen Gründe der Entscheidung kennt. Das Gericht des Ausgangsverfahrens hat zu prüfen, ob dies hier der Fall war.
+15. Eine solche Verfahrensgestaltung ist mit [[legal_norm|Art. 47 der Charta]] nur vereinbar, wenn der Antragsteller zumindest die wesentlichen Gründe der Entscheidung kennt. Das Gericht des Ausgangsverfahrens hat zu prüfen, ob dies hier der Fall war.
 
 **Zur dritten Frage**
 
@@ -97,9 +97,9 @@ folgendes
 
 Aus diesen Gründen hat der [[court|Gerichtshof]] (Große Kammer) für Recht erkannt:
 
-1. Art. 47 der Charta und Art. 46 Abs. 1 Buchst. a Ziff. i der Richtlinie 2013/32/EU sind dahin auszulegen, dass sie einer nationalen Regelung entgegenstehen, nach der die Frist für einen Rechtsbehelf mit der Zustellung einer Entscheidung in einer Sprache beginnt, die der Antragsteller nicht versteht.
+1. [[legal_norm|Art. 47 der Charta]] und [[legal_norm|Art. 46 Abs. 1 Buchst. a Ziff. i der Richtlinie 2013/32/EU]] sind dahin auszulegen, dass sie einer nationalen Regelung entgegenstehen, nach der die Frist für einen Rechtsbehelf mit der Zustellung einer Entscheidung in einer Sprache beginnt, die der Antragsteller nicht versteht.
 
-2. Art. 47 der Charta ist dahin auszulegen, dass er es verbietet, die Entscheidung allein auf der Grundlage einer Akte zu prüfen, zu der der Antragsteller keinen Zugang hat, sofern er nicht die wesentlichen Gründe der Entscheidung kennt.
+2. [[legal_norm|Art. 47 der Charta]] ist dahin auszulegen, dass er es verbietet, die Entscheidung allein auf der Grundlage einer Akte zu prüfen, zu der der Antragsteller keinen Zugang hat, sofern er nicht die wesentlichen Gründe der Entscheidung kennt.
 
 3. Eine Antwort auf die dritte Frage ist nicht erforderlich.
 

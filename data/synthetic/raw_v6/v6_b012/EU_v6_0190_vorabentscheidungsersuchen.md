@@ -45,7 +45,7 @@ betreffend die Auslegung von [[legal_norm|Art. 4 Abs. 2 der Verordnung (EU) 2019
 
 9. Nach [[legal_norm|Art. 4 Abs. 2 der Verordnung (EU) 2019/1148]] sind die Mitgliedstaaten verpflichtet, die Ausfuhr bestimmter Erzeugnisse zu überwachen. Die Verordnung sieht Kontrollen durch die zuständigen Behörden vor.
 
-10. Die [[organization|Europäische Union für geistiges Eigentum]] ([[organization|EUIPO]]) ist für die Eintragung von Marken zuständig und hat im vorliegenden Verfahren keine Rolle gespielt. Sie wird hier nur erwähnt, weil die Gesellschaft Markenrechte an den Geräten geltend macht.
+10. Das [[organization|Amt der Europäischen Union für geistiges Eigentum]] ([[organization|EUIPO]]) ist für die Eintragung von Marken zuständig und hat im vorliegenden Verfahren keine Rolle gespielt. Sie wird hier nur erwähnt, weil die Gesellschaft Markenrechte an den Geräten geltend macht.
 
 11. Der [[organization|Rat]] hat bei der Annahme der Verordnung ausdrücklich betont, dass die Mitgliedstaaten die Verantwortung für die Ausfuhrkontrolle behalten.
 
@@ -71,7 +71,7 @@ betreffend die Auslegung von [[legal_norm|Art. 4 Abs. 2 der Verordnung (EU) 2019
 
 20. Das Vorabentscheidungsersuchen wurde den Beteiligten zugestellt. Im Verfahren vor dem [[court|Gerichtshof]] haben sich die Gesellschaft durch [[lawyer|Margarethe Blanke]], Rechtsanwältin, und die Klägerinnen durch [[lawyer|Theodorik Červený]], Rechtsanwalt, vertreten lassen.
 
-21. Die Kommission ist durch [[person|Anthony Chassagne]] als Bevollmächtigten vertreten. Die Europäische Union für geistiges Eigentum hat durch [[person|Dima Curti]] als Bevollmächtigte Stellung genommen.
+21. Die [[organization|Kommission]] ist durch [[person|Anthony Chassagne]] als Bevollmächtigten vertreten. Das [[organization|EUIPO]] hat durch [[person|Dima Curti]] als Bevollmächtigte Stellung genommen.
 
 22. Der Generalanwalt, [[judge|Albert Uzodinma]], hat die Vorlage geprüft und die Richter [[judge|Federico Fernando Vivas]] (Berichterstatter), [[judge|Safwan Zamani]] und [[judge|Narzissus Weninger]] unterrichtet.
 
@@ -79,7 +79,7 @@ betreffend die Auslegung von [[legal_norm|Art. 4 Abs. 2 der Verordnung (EU) 2019
 
 23. Der [[court|Gerichtshof]] wird gebeten, die Fragen wie folgt zu beantworten: Eine nationale Behörde darf sich auf eine Mitteilung einer Agentur der Union nur stützen, wenn sie deren Tatsachengrundlage eigenständig nachprüfen kann. Die Gesellschaft ist als Betroffene berechtigt, Einsicht in die Unterlagen zu verlangen, soweit dies zur Wahrung ihrer Verteidigungsrechte erforderlich ist.
 
-Düsseldorf, den [[date|19. Januar 2026]]
+[[location|Düsseldorf]], den [[date|19. Januar 2026]]
 
 Der Vorsitzende des Senats: [[judge|Narzissus Weninger]]
 

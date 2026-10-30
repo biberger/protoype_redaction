@@ -55,8 +55,8 @@ IV. Besetzung und Vertretung
 
 V. Schluss
 
-17. Das vorlegende Gericht bittet den Gerichtshof, die Vorlagefragen nach dem beschleunigten Verfahren zu entscheiden, da die Anleihen in Kürze fällig werden.
+17. Das vorlegende Gericht bittet den [[court|Gerichtshof]], die Vorlagefragen nach dem beschleunigten Verfahren zu entscheiden, da die Anleihen in Kürze fällig werden.
 
-Ausgefertigt in Porto.
+Ausgefertigt in [[location|Porto]].
 
 Die Richterin [[judge|Antica Vulin]]
