@@ -2,13 +2,14 @@
 doc_type: conclusions_avocat_general
 jurisdiction: EU
 lang: fr
-ocr_noise: true
 ---
 CONCLUSIONS DE L'AVOCAT GÉNÉRAL
 
 [[judge|Walter Morawiec]]
 
 présentées le [[date|3 juillet 2026]]
+
+Composition de la [[court|Cour]] (note du greffe) : la cinquième chambre est composée de M. [[judge|Edward John Creus]], président de chambre, de M. [[judge|Bertramek Nejedlý]] et de M. [[judge|Gregorio Jose Múgica]] (juge rapporteur).
 
 Affaire [[case_number|C-589/25]]
 

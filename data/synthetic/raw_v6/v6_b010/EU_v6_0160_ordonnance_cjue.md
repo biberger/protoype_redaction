@@ -33,7 +33,7 @@ rend la présente
 
 1. [[person|Ira Bota]] a conclu, le [[date|3 mars 2023]], avec [[organization|Gerlach Textil SRL]] un contrat de fourniture de tissus techniques destinés à des fabricants de vêtements de travail. Le contrat prévoyait une clause d'exclusivité pour le territoire roumain.
 
-2. [[person|GA]] et [[person|FA]] sont respectivement administratrice et associée de [[organization|Gerlach Textil SRL]]. Elles ont signé, pour le compte de la société, un accord de coopération avec un distributeur établi en Hongrie.
+2. [[person|GA]] et [[person|FA]] sont respectivement administratrice et associée de [[organization|Gerlach Textil SRL]]. Elles ont signé, pour le compte de la société, un accord de coopération avec un distributeur établi en [[location|Hongrie]].
 
 3. Le [[date|14 juin 2024]], l'[[organization|ARC]] a ouvert une enquête sur cet accord, au motif qu'il pourrait restreindre la concurrence sur le marché des tissus techniques. [[organization|Gerlach Textil]] a présenté ses observations le [[date|9 septembre 2024]].
 
@@ -53,7 +53,7 @@ rend la présente
 
 9. Des observations ont été présentées par le [[organization|gouvernement belge]], le [[organization|gouvernement hongrois]] et le [[organization|gouvernement tchèque]]. Le [[organization|gouvernement belge]] soutient que la demande est irrecevable, faute de description suffisante du cadre factuel.
 
-10. Le [[organization|gouvernement hongrois]] estime que la question préjudicielle porte sur l'appréciation des faits, qui relève de la juridiction de renvoi. Le [[organization|gouvernement tchèque]] propose de répondre à la question dans le sens d'une interprétation large de la notion d'accord.
+10. Le [[organization|gouvernement hongrois]], représenté par M. [[person|Dávid Lukáts]], agent, estime que la question préjudicielle porte sur l'appréciation des faits, qui relève de la juridiction de renvoi. Le [[organization|gouvernement tchèque]] propose de répondre à la question dans le sens d'une interprétation large de la notion d'accord.
 
 11. La [[organization|Commission]] a présenté des observations écrites, représentée par Mme [[person|Augusta Stanciu]], agente. Elle relève que la [[organization|Banque centrale européenne]] ([[organization|BCE]]) a publié un avis sur le financement des entreprises du secteur textile, mais que cet avis ne traite pas de la clause litigieuse.
 
@@ -79,6 +79,6 @@ rend la présente
 
 Signé à [[location|Luxembourg]].
 
-Le greffier : [[person|Dávid Lukáts]]
+Le greffier : [[person|Kalliope Varró]]
 
 Le président de la dixième chambre : [[judge|Jura Mazancová]]

@@ -11,6 +11,8 @@ présentées le [[date|14 mai 2026]]
 
 Affaire [[case_number|C-602/25]]
 
+Composition de la [[court|Cour]] (note du greffe) : la troisième chambre est composée de M. [[judge|Joska Kökény]], président de chambre, de M. [[judge|Miloš Barbieri]] et de Mme [[judge|Seher Özbey]] (juge rapporteure).
+
 Demande de décision préjudicielle introduite par la [[court|Cour d'appel de Liège]] ([[location|Belgique]])
 
 [[organization|Lattanzi-Giusti Srl]]
@@ -39,7 +41,7 @@ le [[organization|Service fédéral de contrôle des contrats]] ([[organization|
 
 7. Le [[organization|Service fédéral de contrôle des contrats]] ([[organization|SFCC]]) a été saisi de la plainte. Le [[organization|SFCC]] a considéré que la rétractation était tardive et a rejeté la demande de remboursement.
 
-8. [[organization|Lattanzi-Giusti]] soutient que la société n'était pas tenue d'informer le consommateur de la date de dernière livraison, puisque le contrat ne le précisait pas.
+8. Me [[lawyer|Iddo Heinz]] et Me [[lawyer|Antonin Vandivinit]] ont représenté [[organization|Lattanzi-Giusti]] devant la juridiction de renvoi. [[organization|Lattanzi-Giusti]] soutient que la société n'était pas tenue d'informer le consommateur de la date de dernière livraison, puisque le contrat ne le précisait pas.
 
 9. Dans l'arrêt du [[date|25 septembre 1980]], [[organization|Mitić]], [[case_number|193/80]], la [[court|Cour]] a jugé que les dispositions protectrices du consommateur doivent être interprétées de manière à ne pas priver celui-ci de son droit de rétractation par une simple omission d'information.
 
@@ -49,7 +51,7 @@ le [[organization|Service fédéral de contrôle des contrats]] ([[organization|
 
 11. Des observations écrites ont été présentées par le [[organization|gouvernement roumain]], le [[organization|gouvernement français]] et le [[organization|gouvernement slovaque]]. Le [[organization|gouvernement français]] soutient que la date de réception du premier bien doit être retenue.
 
-12. Le [[organization|gouvernement roumain]] propose de répondre que le délai court à compter de la dernière livraison, lorsque le contrat prévoit des envois distincts sans indication contraire. Le [[organization|gouvernement slovaque]] s'associe à cette position.
+12. Le [[organization|gouvernement slovaque]] a été représenté par M. [[person|Slavo Delaš]], agent. Le [[organization|gouvernement roumain]] propose de répondre que le délai court à compter de la dernière livraison, lorsque le contrat prévoit des envois distincts sans indication contraire. Le [[organization|gouvernement slovaque]] s'associe à cette position.
 
 13. La [[organization|Commission]] a présenté des observations, selon lesquelles la directive ne tranche pas expressément la question des livraisons échelonnées. La [[organization|Commission]] estime qu'il appartient aux États membres d'en préciser les modalités.
 
@@ -57,7 +59,7 @@ le [[organization|Service fédéral de contrôle des contrats]] ([[organization|
 
 **V. Appréciation**
 
-15. Il résulte de l'article 17 de la directive que le délai de rétractation court à compter de la réception du dernier bien, lorsque le contrat porte sur des biens livrés séparément. Cette solution garantit l'effet utile du droit de rétractation.
+15. Il résulte de l'[[legal_norm|article 17 de la directive 2011/83/UE]] que le délai de rétractation court à compter de la réception du dernier bien, lorsque le contrat porte sur des biens livrés séparément. Cette solution garantit l'effet utile du droit de rétractation.
 
 16. La [[court|Cour]] doit toutefois vérifier que le professionnel a bien informé le consommateur de la nature échelonnée de la livraison. À défaut, le délai ne peut commencer à courir.
 
