@@ -39,6 +39,8 @@ data)
   $PY -m legalner.sources.ler -o data/canonical/ler
   $PY -m legalner.sources.replay -o data/canonical/replay.jsonl --max-per-set 5000
   $PY -m legalner.sources.mapa -o data/canonical/mapa
+  # the RIS cache of the first run is committed (10 MB); fetch only downloads what is missing from it
+  [ -d data/ris/raw ] || tar -C data/ris -xJf data/ris/raw.tar.xz
   $PY -m legalner.sources.ris fetch data/ris/index.jsonl --cache data/ris/raw --delay 0.3
   $PY -m legalner.sources.ris convert data/ris/index.jsonl --cache data/ris/raw -o data/canonical/ris.jsonl
   $PY -m legalner.goldset export
