@@ -280,6 +280,27 @@ Done on branch `ccr-e3b45fa1-pbfzdy` (continues `ccr-45f5c65f-g4rgnu`; earlier h
    - Caveats: 400 of the 550 gold paragraphs are synthetic from the same generators as the training data, and the gold
      set is only agent-reviewed, so 0.966 is optimistic. RIS test labels are rule-based pseudo-labels (audited 2–8 %
      misses). The held-out signal is MAPA (0.658). The report does not yet split gold into its RIS and synthetic parts.
+   - **Flair `flair/ner-german-legal`** (LSTM-CRF trained on LER, 19 classes mapped to 12 canonical labels with
+     `legalner.sources.ler.LABEL_MAP`; run on CPU on the same sampled records, replay excluded; micro F1 over the labels
+     Flair can produce):
+
+     | Set | n | FT | base | PII | Flair |
+     |---|---:|---:|---:|---:|---:|
+     | gold_at | 4,562 | **0.959** | 0.560 | 0.585 | 0.650 |
+     | test (all sources but replay) | 26,185 | **0.920** | 0.439 | 0.477 | 0.555 |
+     | test: synthetic | 16,292 | **0.964** | 0.501 | 0.583 | 0.559 |
+     | test: RIS | 2,679 | **0.911** | 0.268 | 0.266 | 0.390 |
+     | test: LER (Flair's own corpus, likely seen in its training) | 1,577 | **0.882** | 0.174 | 0.156 | 0.583 |
+     | test: MAPA | 973 | **0.546** | 0.294 | 0.259 | 0.368 |
+
+     Per label (test): person 0.934 / Flair 0.600, judge 0.947 / 0.160, lawyer 0.904 / 0.116, organization 0.844 /
+     0.605, court 0.959 / 0.605, legal_norm 0.962 / 0.630, location 0.883 / 0.566. Flair is better only on brand (n=8).
+     Flair's role labels (RR, AN) rarely fire on Austrian text; its LER conventions match ours for norms (we adopted
+     them), so the gap there is domain, not convention.
+   - **CPU speed** (same 150 gold paragraphs, 193k characters, 4 threads, idle machine, after warm-up): Flair
+     1,292 chars/s (1.0 paragraphs/s); fine-tuned GLiNER2.5 838 chars/s with all 20 labels, 896 chars/s with Flair's
+     8 labels. Flair is ≈ 1.5× faster. The fine-tuned model runs unoptimised (fp32, two encoder passes per text because
+     role labels are queried separately); merging the passes and int8 quantisation are the obvious levers (not done yet).
    - **MAPA organisation (F1 0.383) analysed** (2,000 sampled MAPA records, 360 gold org spans; FT model on CPU;
      MAPA's ORGANISATION is scored against our organization ∪ court):
      - Precision is mostly an annotation artefact: 276 of 342 false positives hit no MAPA span at all, and they are
