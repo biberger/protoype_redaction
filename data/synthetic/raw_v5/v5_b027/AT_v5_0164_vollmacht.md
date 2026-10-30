@@ -5,7 +5,7 @@ lang: de
 ---
 [[organization|SINGER DACHDECKER OG]]
 [[address|KAIGASSE 15, 4623 GUNSKIRCHEN]]
-FN [[company_register_number|241431x]] · TEL. [[phone_number|+43 676 741 2803]]
+[[company_register_number|FN 241431x]] · TEL. [[phone_number|+43 676 741 2803]]
 E-MAIL: [[email|office@singer.at]]
 
 VOLLMACHT

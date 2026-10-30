@@ -497,3 +497,9 @@ def test_lint_flags_slash_dates_and_degree_outside_span(tmp_path):
                              "synthetic")
     text = "\n".join(warnings)
     assert "untagged date '11/02/2025'" in text and "degree outside judge span" in text
+
+
+def test_lint_flags_register_prefix_outside_span(tmp_path):
+    _, warnings = parse_file(write_doc(tmp_path, "[[organization|Huber GmbH]], FN [[company_register_number|531927x]]"),
+                             "synthetic")
+    assert any("register prefix outside span" in w for w in warnings)

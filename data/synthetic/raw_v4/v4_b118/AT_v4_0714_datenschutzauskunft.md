@@ -5,7 +5,7 @@ lang: de
 ---
 [[organization|Bilgeri & Kos GmbH & Co KG]]
 [[address|Hofherrgasse 12, 6600 Breitenwang]]
-FN [[company_register_number|165638k]], UID-Nr. [[tax_id|ATU41931950]]
+[[company_register_number|FN 165638k]], UID-Nr. [[tax_id|ATU41931950]]
 
 Datenschutzrechtliche Auskunft gemäß [[legal_norm|Art 15 DSGVO]]
 

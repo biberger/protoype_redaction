@@ -12,11 +12,11 @@ IM NAMEN DER REPUBLIK
 
 URTEIL
 
-Das [[court|Landesgericht Innsbruck]] hat durch den Richter [[judge|Gennadiy Gartner]] als Vorsitzenden sowie die Richterinnen [[judge|Hatemina Škorić]] und [[judge|Ranka Miličić]] als weitere Mitglieder des Senats in der Rechtssache der klagenden Partei [[organization|Zangerl GmbH]], FN [[company_register_number|506347d]], UID-Nr. [[tax_id|ATU21604397]], mit Sitz in [[location|Landeck]], vertreten durch [[lawyer|Atakan Bovard]], Rechtsanwalt, gegen
+Das [[court|Landesgericht Innsbruck]] hat durch den Richter [[judge|Gennadiy Gartner]] als Vorsitzenden sowie die Richterinnen [[judge|Hatemina Škorić]] und [[judge|Ranka Miličić]] als weitere Mitglieder des Senats in der Rechtssache der klagenden Partei [[organization|Zangerl GmbH]], [[company_register_number|FN 506347d]], UID-Nr. [[tax_id|ATU21604397]], mit Sitz in [[location|Landeck]], vertreten durch [[lawyer|Atakan Bovard]], Rechtsanwalt, gegen
 
-1. die beklagte Partei [[organization|B***** Gastro e.U.]], FN [[company_register_number|114186x]], UID-Nr. [[tax_id|ATU19511696]], mit Betriebsstätte in [[address|Raabwiesenstraße 5, 8341 Baumgarten bei Gnas]], vertreten durch [[lawyer|Herbie Traxler]], Rechtsanwalt,
+1. die beklagte Partei [[organization|B***** Gastro e.U.]], [[company_register_number|FN 114186x]], UID-Nr. [[tax_id|ATU19511696]], mit Betriebsstätte in [[address|Raabwiesenstraße 5, 8341 Baumgarten bei Gnas]], vertreten durch [[lawyer|Herbie Traxler]], Rechtsanwalt,
 
-2. die beklagte Partei [[organization|K***** & F***** e.U.]], FN [[company_register_number|129889p]], UID-Nr. [[tax_id|ATU41956326]], mit Betriebsstätte in [[address|Jungferngasse 16/3, 4223 Katsdorf]], vertreten durch [[lawyer|Herbie Traxler]], Rechtsanwalt,
+2. die beklagte Partei [[organization|K***** & F***** e.U.]], [[company_register_number|FN 129889p]], UID-Nr. [[tax_id|ATU41956326]], mit Betriebsstätte in [[address|Jungferngasse 16/3, 4223 Katsdorf]], vertreten durch [[lawyer|Herbie Traxler]], Rechtsanwalt,
 
 wegen 38.420,00 Euro sA, nach der mündlichen Verhandlung vom [[date|3. Juni 2026]] zu Recht erkannt:
 

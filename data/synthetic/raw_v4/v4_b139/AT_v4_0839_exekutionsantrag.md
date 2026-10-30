@@ -4,7 +4,7 @@ jurisdiction: AT
 lang: de
 ---
 [[organization|Macho & Gaßner GmbH & Co KG]], [[address|Clessgasse 7, 8750 Judenburg]]
-FN [[company_register_number|136850a]], UID [[tax_id|ATU95232505]]
+[[company_register_number|FN 136850a]], UID [[tax_id|ATU95232505]]
 Tel. [[phone_number|0662 0678031]], [[email|kontakt@macho.at]]
 
 An das

@@ -11,7 +11,7 @@ POLIZEILICHE ANZEIGE
 Vorgang: [[case_number|2026-0148832]]
 Anzeige aufgenommen am [[date|9. September 2026]] in [[location|Köln]]
 
-Geschädigte: [[organization|SCHMIDT EVENT GMBH]], [[address|MÜLHEIMER FREIHEIT 12, 51063 KÖLN]], HRB [[company_register_number|211100 B]] ([[court|AMTSGERICHT KÖLN]]), USt-IdNr. [[tax_id|DE790675668]], Steuernummer [[tax_id|983/383/72616]], vertreten durch die Geschäftsführerin [[person|ADELA SCHÖNBERGER]]
+Geschädigte: [[organization|SCHMIDT EVENT GMBH]], [[address|MÜLHEIMER FREIHEIT 12, 51063 KÖLN]], [[company_register_number|HRB 211100 B]] ([[court|AMTSGERICHT KÖLN]]), USt-IdNr. [[tax_id|DE790675668]], Steuernummer [[tax_id|983/383/72616]], vertreten durch die Geschäftsführerin [[person|ADELA SCHÖNBERGER]]
 
 Anzeigenerstatterin: [[person|Adela Schönberger]], [[address|Schopenhauerstraße 24, 09366 Stollberg]]
 

@@ -6,7 +6,7 @@ lang: de
 [[organization|Eich GmbH & Co. KG]]
 [[address|Lister Meile 14, 30161 Hannover]]
 Geschäftsführung: [[person|Kriemhild Nemitz, M.A.]]
-HRA [[company_register_number|141578 B]] beim [[court|Amtsgericht Hannover]]
+[[company_register_number|HRA 141578 B]] beim [[court|Amtsgericht Hannover]]
 USt-IdNr. [[tax_id|DE279063637]], Steuernummer [[tax_id|81 689 57803]]
 Kundennummer [[other_identifier|KD-2291-7786]]
 
@@ -22,7 +22,7 @@ Klägerin,
 
 gegen
 
-die [[organization|Lamprecht Dachdecker AG]], [[address|Eutritzscher Straße 9, 04229 Leipzig]], HRB [[company_register_number|87276]] beim [[court|Amtsgericht Leipzig]], USt-IdNr. [[tax_id|DE807794208]], Steuernummer [[tax_id|93/573/26162]], vertreten durch den Vorstand,
+die [[organization|Lamprecht Dachdecker AG]], [[address|Eutritzscher Straße 9, 04229 Leipzig]], [[company_register_number|HRB 87276]] beim [[court|Amtsgericht Leipzig]], USt-IdNr. [[tax_id|DE807794208]], Steuernummer [[tax_id|93/573/26162]], vertreten durch den Vorstand,
 
 Beklagte,
 

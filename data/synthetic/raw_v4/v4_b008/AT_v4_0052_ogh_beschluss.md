@@ -9,15 +9,15 @@ lang: de
 
 GZ [[case_number|3 Ob 87/26m]]
 
-Der [[court|Oberste Gerichtshof]] hat als Revisionsrekursgericht durch die Senatspräsidentin [[judge|Dorit Kralik von Meyrswalden]] als Vorsitzende und durch die Hofrätin in der Rechtssache der betreibenden Partei [[organization|von Friedl & Haviar OG]], FN [[company_register_number|545114p]], UID-Nr. [[tax_id|ATU36061701]], gegen die verpflichteten Parteien
+Der [[court|Oberste Gerichtshof]] hat als Revisionsrekursgericht durch die Senatspräsidentin [[judge|Dorit Kralik von Meyrswalden]] als Vorsitzende und durch die Hofrätin in der Rechtssache der betreibenden Partei [[organization|von Friedl & Haviar OG]], [[company_register_number|FN 545114p]], UID-Nr. [[tax_id|ATU36061701]], gegen die verpflichteten Parteien
 
 1. [[person|Plazid Meidlinger]], wohnhaft in [[address|Tannhofweg 3, 3133 Traismauer]],
 
 2. [[person|Mag. Casta Carretero, BA]], wohnhaft in [[address|Rennweg 12/1, 9535 Schiefling am Wörthersee]],
 
-3. [[organization|Behram AG]], FN [[company_register_number|140012a]], UID-Nr. [[tax_id|ATU70731906]],
+3. [[organization|Behram AG]], [[company_register_number|FN 140012a]], UID-Nr. [[tax_id|ATU70731906]],
 
-4. [[organization|Reitsamer Handels OG]], FN [[company_register_number|29921b]], UID-Nr. [[tax_id|ATU46688543]],
+4. [[organization|Reitsamer Handels OG]], [[company_register_number|FN 29921b]], UID-Nr. [[tax_id|ATU46688543]],
 
 wegen Exekution nach der [[legal_norm|EO]] über den Revisionsrekurs der verpflichteten Partei [[person|Carretero]], vertreten durch Rechtsanwalt [[lawyer|Hartmann Diener]], den
 

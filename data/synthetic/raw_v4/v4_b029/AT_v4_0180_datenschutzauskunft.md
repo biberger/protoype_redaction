@@ -6,7 +6,7 @@ lang: de
 [[organization|LOIDL & AUGUSTIN GMBH]]
 STEUERBERATUNGSKANZLEI
 [[address|HERRNHOFWEG 4, 8831 SCHÖNBERG-LACHTAL]]
-FN [[company_register_number|144065k]] · UID-NR. [[tax_id|ATU53011173]]
+[[company_register_number|FN 144065k]] · UID-NR. [[tax_id|ATU53011173]]
 
 [[location|Schönberg-Lachtal]], am [[date|18. März 2026]]
 
@@ -43,9 +43,9 @@ Die Verarbeitung erfolgt zur Erfüllung des Steuerberatungsvertrags gemäß [[le
 
 Ihre Mandantin betreffende Daten wurden an folgende Empfänger übermittelt:
 
-a) [[organization|Waldner & Hengl e.U.]], FN [[company_register_number|470465k]], UID-NR. [[tax_id|ATU36635432]], [[address|Walderdorff-Straße 5, 3900 Schwarzenau]], als Dienstleister für die Lohnverrechnung. Diese Übermittlung erfolgt auf Grundlage eines Vertrags nach [[legal_norm|Art. 28 DSGVO]].
+a) [[organization|Waldner & Hengl e.U.]], [[company_register_number|FN 470465k]], UID-NR. [[tax_id|ATU36635432]], [[address|Walderdorff-Straße 5, 3900 Schwarzenau]], als Dienstleister für die Lohnverrechnung. Diese Übermittlung erfolgt auf Grundlage eines Vertrags nach [[legal_norm|Art. 28 DSGVO]].
 
-b) [[organization|Baciu GmbH]], FN [[company_register_number|101245s]], UID-NR. [[tax_id|ATU82260465]], als Anbieter der IT-Infrastruktur und Hosting-Dienstleister. Auch diese Verarbeitung erfolgt im Auftrag gemäß [[legal_norm|Art. 28 DSGVO]].
+b) [[organization|Baciu GmbH]], [[company_register_number|FN 101245s]], UID-NR. [[tax_id|ATU82260465]], als Anbieter der IT-Infrastruktur und Hosting-Dienstleister. Auch diese Verarbeitung erfolgt im Auftrag gemäß [[legal_norm|Art. 28 DSGVO]].
 
 c) Die Hausbank der Kanzlei erhält Zahlungsdaten nur insoweit, als dies zur Ausführung von Überweisungen erforderlich ist. Die Übermittlung beruht auf [[legal_norm|Art. 6 Abs 1 lit b DSGVO]].
 

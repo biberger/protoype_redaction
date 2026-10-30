@@ -13,7 +13,7 @@ GZ [[case_number|LVwG-S-2231/002-2025]]
 
 IM NAMEN DER REPUBLIK
 
-Das [[court|Landesverwaltungsgericht Niederösterreich]] hat durch den Richter [[judge|Hippolyt Resch]] als Vorsitzenden, die Richterin [[judge|Friedoline Alker]], die fachkundige Laienrichterin [[judge|Ing. Angelika Parth]] und den Richter [[judge|Andie Zellner]] als Berichter über die Beschwerde der [[organization|Wiesenthal & Grünwald GmbH]], FN [[company_register_number|324249m]], UID-Nr. [[tax_id|ATU34796147]], vertreten durch Rechtsanwalt [[lawyer|Wanko Ratz]], gegen das Straferkenntnis der [[organization|Bezirkshauptmannschaft Bruck an der Leitha]] vom [[date|8. Oktober 2025]], nach öffentlicher mündlicher Verhandlung am [[date|12. März 2026]], zu Recht erkannt:
+Das [[court|Landesverwaltungsgericht Niederösterreich]] hat durch den Richter [[judge|Hippolyt Resch]] als Vorsitzenden, die Richterin [[judge|Friedoline Alker]], die fachkundige Laienrichterin [[judge|Ing. Angelika Parth]] und den Richter [[judge|Andie Zellner]] als Berichter über die Beschwerde der [[organization|Wiesenthal & Grünwald GmbH]], [[company_register_number|FN 324249m]], UID-Nr. [[tax_id|ATU34796147]], vertreten durch Rechtsanwalt [[lawyer|Wanko Ratz]], gegen das Straferkenntnis der [[organization|Bezirkshauptmannschaft Bruck an der Leitha]] vom [[date|8. Oktober 2025]], nach öffentlicher mündlicher Verhandlung am [[date|12. März 2026]], zu Recht erkannt:
 
 Spruch
 

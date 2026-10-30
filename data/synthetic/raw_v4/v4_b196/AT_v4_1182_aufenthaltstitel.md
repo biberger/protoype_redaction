@@ -26,7 +26,7 @@ Die Dienstgeberin verpflichtet sich, die Mindestentlohnung gemäß dem anzuwende
 
 Die Antragstellerin lebt seit dem [[date|1. März 2023]] mit Hauptwohnsitz in [[location|Hartl]] und ist seither ohne Unterbrechung gemeldet. Sie ist in der Nachbarschaft gut integriert und hat an einem Erste-Hilfe-Kurs des Roten Kreuzes teilgenommen. Ein Strafregisterauszug ohne Eintragungen ist diesem Antrag angeschlossen.
 
-Die Wohnung der Antragstellerin befindet sich in einem Objekt der [[organization|Flicker AG]], FN [[company_register_number|61376i]], UID [[tax_id|ATU79980237]]. Die Vermieterin hat den Mietvertrag durch den Prokuristen [[person|Volkeus Winter]] bestätigt.
+Die Wohnung der Antragstellerin befindet sich in einem Objekt der [[organization|Flicker AG]], [[company_register_number|FN 61376i]], UID [[tax_id|ATU79980237]]. Die Vermieterin hat den Mietvertrag durch den Prokuristen [[person|Volkeus Winter]] bestätigt.
 
 Zur Sozialversicherung wird auf die Versicherungsnummer [[social_security_number|5404 100908]] der Antragstellerin verwiesen. Die Bankverbindung für die Lohnzahlungen lautet [[bank_account|AT57 6368 9539 9181 7458]].
 

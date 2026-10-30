@@ -9,13 +9,13 @@ GZ [[case_number|3 R 112/26t]]
 
 [[organization|GRABNER KG]]
 [[address|AFRITSCHWEG 7/15, 8323 SANKT MAREIN BEI GRAZ]]
-FN [[company_register_number|206364b]]
+[[company_register_number|FN 206364b]]
 
 Zustellvermerk (Kopie, Stempel schlecht lesbar):
 ZUGESTELLT AM [[date|16.10.2026]] AN DIE [[organization|SUIDA & BRAUNER E.U.]]
 ZU HÄNDEN [[lawyer|INTIṢĀR AL-HASBANI]], RECHTSANWÄLTIN
 
-Das [[court|Oberlandesgericht Graz]] hat als Rekursgericht in der Firmenbuchsache der [[organization|Grabner KG]] (FN [[company_register_number|206364b]]) durch die Senatspräsidentin [[judge|Janina Obermaier]] als Vorsitzende sowie die Richterin [[judge|Katayoun Khiari]] und den Richter [[judge|Tomanek Rímský]] als weitere Mitglieder des Senats beschlossen:
+Das [[court|Oberlandesgericht Graz]] hat als Rekursgericht in der Firmenbuchsache der [[organization|Grabner KG]] ([[company_register_number|FN 206364b]]) durch die Senatspräsidentin [[judge|Janina Obermaier]] als Vorsitzende sowie die Richterin [[judge|Katayoun Khiari]] und den Richter [[judge|Tomanek Rímský]] als weitere Mitglieder des Senats beschlossen:
 
 Spruch
 
@@ -27,7 +27,7 @@ Begründung
 
 I. Sachverhalt
 
-Die [[organization|Grabner KG]] ist mit der FN [[company_register_number|206364b]] im Firmenbuch eingetragen. Persönlich haftende Gesellschafterin ist [[person|Gatty Pölzl]]; Kommanditistin ist [[person|Catherine Velimirović]]. Der Kommanditanteil des bisherigen Kommanditisten [[person|BSc Jaroslaw Mamchur]] wurde mit Vertrag vom [[date|12. Mai 2026]] an [[person|Lammert Wimmer]] abgetreten. Der Abtretungsvertrag wurde von [[lawyer|Dr. med. Caecilia Unterberger]], Rechtsanwältin, errichtet.
+Die [[organization|Grabner KG]] ist mit der [[company_register_number|FN 206364b]] im Firmenbuch eingetragen. Persönlich haftende Gesellschafterin ist [[person|Gatty Pölzl]]; Kommanditistin ist [[person|Catherine Velimirović]]. Der Kommanditanteil des bisherigen Kommanditisten [[person|BSc Jaroslaw Mamchur]] wurde mit Vertrag vom [[date|12. Mai 2026]] an [[person|Lammert Wimmer]] abgetreten. Der Abtretungsvertrag wurde von [[lawyer|Dr. med. Caecilia Unterberger]], Rechtsanwältin, errichtet.
 
 Die Anmeldung dieses Wechsels langte am [[date|3. Juni 2026]] beim Firmenbuchgericht ein. Die Rechtspflegerin [[judge|Dr. Heriberta Schiestl]] wies die Anmeldung mit Beschluss vom [[date|29.06.2026]] zurück, weil der Nachweis der Gesellschafterbeschlüsse nicht vorgelegt war. Sie trug der Anmelderin auf, den Mangel binnen vier Wochen zu beheben.
 
@@ -37,7 +37,7 @@ Mit Beschluss vom [[date|4. September 2026]] verhängte die Richterin [[judge|Co
 
 Der Rekurs wurde am [[date|21.09.2026]] eingebracht. Darin wird vorgebracht, die Gesellschafterin [[person|Velimirović]] habe die Beschlüsse bereits am [[date|18. Mai 2026]] unterfertigt, und die Unterlagen seien dem Firmenbuchgericht mit der Anmeldung übermittelt worden. Die Anmelderin führt weiter aus: „Das Postfach haben wir im Frühjahr 2026 aufgelassen. Die Post hat die Sendungen jedoch weitergeleitet, und wir haben nichts davon erhalten, bevor die Frist ablief.“ Eine Mitteilung an das Firmenbuchgericht über die Änderung sei nicht erfolgt, weil dafür keine Verpflichtung bestanden habe.
 
-Die Gegnerin [[organization|Suida & Brauner e.U.]] (FN [[company_register_number|180906p]]) hat sich am Rekursverfahren beteiligt. Sie wird durch [[lawyer|Intiṣār Al-Hasbani]], Rechtsanwältin, vertreten. Inhaber des Unternehmens ist [[person|Kristof Suppan]]; die Gegnerin hat dem Gericht eine Stellungnahme der [[person|DI Lujza Csehi]] vorgelegt, die als Ziviltechnikerin den Wert der Anteile bewertet hat. Die Stellungnahme vom [[date|2. Juli 2026]] bezieht sich auf eine Bewertung der Anteile zum Stichtag [[date|31.12.2025]]. Die Bewertung ist für das Firmenbuchverfahren nicht maßgeblich.
+Die Gegnerin [[organization|Suida & Brauner e.U.]] ([[company_register_number|FN 180906p]]) hat sich am Rekursverfahren beteiligt. Sie wird durch [[lawyer|Intiṣār Al-Hasbani]], Rechtsanwältin, vertreten. Inhaber des Unternehmens ist [[person|Kristof Suppan]]; die Gegnerin hat dem Gericht eine Stellungnahme der [[person|DI Lujza Csehi]] vorgelegt, die als Ziviltechnikerin den Wert der Anteile bewertet hat. Die Stellungnahme vom [[date|2. Juli 2026]] bezieht sich auf eine Bewertung der Anteile zum Stichtag [[date|31.12.2025]]. Die Bewertung ist für das Firmenbuchverfahren nicht maßgeblich.
 
 Die Prokuristin [[person|Mag. Inês Carreira]] hat die Gegnerin im Verfahren vertreten. Sie gab an, dass die Anteile nicht an die Gegnerin, sondern an [[person|Wimmer]] übertragen worden seien.
 

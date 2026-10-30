@@ -15,7 +15,7 @@ Zl. [[case_number|BH-JU/V-2026/0912]]
 Zustellung an: [[person|Centa Gehrer, BSc]]
 [[address|Rollfährensiedlung Treppelweg 14/17, 8754 Pöls]]
 
-Eingangsstempel OCR: EINGELANGT [[date|14.10.2026]] / [[organization|FETZ & CERMAK GMBH & CO KG]] / FN [[company_register_number|468851m]] / UID [[tax_id|ATU62557325]] / E-MAIL [[email|info@fetz.at]]
+Eingangsstempel OCR: EINGELANGT [[date|14.10.2026]] / [[organization|FETZ & CERMAK GMBH & CO KG]] / [[company_register_number|FN 468851m]] / UID [[tax_id|ATU62557325]] / E-MAIL [[email|info@fetz.at]]
 
 Sie haben als Lenkerin des Kraftfahrzeugs mit dem Kennzeichen [[license_plate|P 16111 O]], dessen Zulassungsbesitzerin die Firma ist, folgende Verwaltungsübertretung begangen:
 

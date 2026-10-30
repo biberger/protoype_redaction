@@ -5,7 +5,7 @@ lang: de
 ---
 [[organization|LAUTERBACH & JEGER AG]]
 KRAFTFAHRT-SCHADENABTEILUNG · [[address|GLEUELER STRAßE 96, 50935 KÖLN]]
-TEL. [[phone_number|0221 5557 2310]] · [[court|AMTSGERICHT KÖLN]] HRB [[company_register_number|226546]]
+TEL. [[phone_number|0221 5557 2310]] · [[court|AMTSGERICHT KÖLN]] [[company_register_number|HRB 226546]]
 
 [[person|PARISA KAZEMI]]
 [[address|ÄUßERER ZEISIGWEG 7, 39579 GRÜNENWULSCH]]

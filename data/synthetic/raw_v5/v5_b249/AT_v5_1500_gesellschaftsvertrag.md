@@ -12,11 +12,11 @@ der [[organization|Herberstein Beteiligungs GmbH]] (in Gründung)
 
 abgeschlossen zwischen den nachstehend genannten Gesellschaftern:
 
-[[organization|SCHIPPER GASTRO AG]], [[address|OTHMARGASSE 12, 8222 SIEGERSDORF BEI HERBERSTEIN]], FN [[company_register_number|577932a]], UID-Nr. [[tax_id|ATU44595336]], vertreten durch den Vorstand [[person|Hannemarie Riehl]];
+[[organization|SCHIPPER GASTRO AG]], [[address|OTHMARGASSE 12, 8222 SIEGERSDORF BEI HERBERSTEIN]], [[company_register_number|FN 577932a]], UID-Nr. [[tax_id|ATU44595336]], vertreten durch den Vorstand [[person|Hannemarie Riehl]];
 
-[[organization|Marzotto Transport GmbH]], FN [[company_register_number|392199p]], UID-Nr. [[tax_id|ATU89857646]], vertreten durch die Geschäftsführerin [[person|Dr. med. Rufina Rohrmoser]];
+[[organization|Marzotto Transport GmbH]], [[company_register_number|FN 392199p]], UID-Nr. [[tax_id|ATU89857646]], vertreten durch die Geschäftsführerin [[person|Dr. med. Rufina Rohrmoser]];
 
-[[organization|Senn KG]], FN [[company_register_number|160073b]], UID-Nr. [[tax_id|ATU76035693]], vertreten durch die Komplementärin [[person|MMag. Adtrid Leeb]];
+[[organization|Senn KG]], [[company_register_number|FN 160073b]], UID-Nr. [[tax_id|ATU76035693]], vertreten durch die Komplementärin [[person|MMag. Adtrid Leeb]];
 
 [[person|Dr. Dr. Joanna Hölzl, MSc (London)]], als natürliche Person;
 

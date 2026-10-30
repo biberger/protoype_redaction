@@ -13,7 +13,7 @@ An die
 
 **Polizeiliche Anzeige**
 
-Anzeigeerstatterin: [[organization|Mairhofer Textil OG]], FN [[company_register_number|294838k]], UID-Nr. [[tax_id|ATU96875818]], [[address|Nußböckstraße 17, 8424 Gabersdorf]], vertreten durch [[lawyer|Natascha Hürlimann]], Rechtsanwältin.
+Anzeigeerstatterin: [[organization|Mairhofer Textil OG]], [[company_register_number|FN 294838k]], UID-Nr. [[tax_id|ATU96875818]], [[address|Nußböckstraße 17, 8424 Gabersdorf]], vertreten durch [[lawyer|Natascha Hürlimann]], Rechtsanwältin.
 
 Beschuldigter: [[person|Hugo Feher]], SVNR [[social_security_number|6876 040573]], wohnhaft in [[location|Gabersdorf]], zuletzt tätig als Buchhalter der Anzeigerin.
 
@@ -63,7 +63,7 @@ Beweismittel:
 2. Kopien der vierzehn Rechnungen, jeweils datiert zwischen dem [[date|14. Jänner 2025]] und dem [[date|28.11.2025]]
 3. Protokolle der Einvernahmen von [[person|Herzl]], [[person|Rados]], [[person|Österreicher]], [[person|Armstrong]], [[person|Kessler]] und [[person|Feher]]
 4. Fahrtenbuch des Kastenwagens mit dem Kennzeichen [[license_plate|GU-5678G]]
-5. Auszug aus dem Firmenbuch zur FN [[company_register_number|294838k]]
+5. Auszug aus dem Firmenbuch zur [[company_register_number|FN 294838k]]
 
 Ersuchen:
 

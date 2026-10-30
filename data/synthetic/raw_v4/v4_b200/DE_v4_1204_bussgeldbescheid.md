@@ -6,7 +6,7 @@ lang: de
 [[organization|KREISVERWALTUNG ALZEY-WORMS, ZENTRALE BUßGELDSTELLE]]
 
 [[organization|ASSELBORN E.K.]], [[address|RIEMANNSTRASSE 13, 55234 WENDELSHEIM]]
-Halterin des Fahrzeugs, HRA [[company_register_number|288863]], USt-IdNr. [[tax_id|DE628021639]], Steuernummer [[tax_id|88/533/00842]]
+Halterin des Fahrzeugs, [[company_register_number|HRA 288863]], USt-IdNr. [[tax_id|DE628021639]], Steuernummer [[tax_id|88/533/00842]]
 
 Frau
 [[person|Lenka Dimitrijević]]

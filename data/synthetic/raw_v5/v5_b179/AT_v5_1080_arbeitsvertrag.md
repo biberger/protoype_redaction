@@ -7,7 +7,7 @@ ARBEITSVERTRAG
 
 abgeschlossen zwischen
 
-[[organization|Geiger GmbH]], FN [[company_register_number|398559t]], UID-Nr. [[tax_id|ATU13828517]], mit dem Sitz in [[address|Kärntner Straße 118, 8020 Graz]], vertreten durch den Geschäftsführer [[person|Aloysius Lehner]] (in der Folge: Dienstgeberin)
+[[organization|Geiger GmbH]], [[company_register_number|FN 398559t]], UID-Nr. [[tax_id|ATU13828517]], mit dem Sitz in [[address|Kärntner Straße 118, 8020 Graz]], vertreten durch den Geschäftsführer [[person|Aloysius Lehner]] (in der Folge: Dienstgeberin)
 
 und
 
@@ -25,7 +25,7 @@ Das Dienstverhältnis beginnt am [[date|1. März 2026]]. Die Dienstnehmerin wird
 
 Die Dienstnehmerin ist im Rahmen einer Arbeitskräfteüberlassung ab dem [[date|1. April 2026]] auch für die [[organization|Feldner Dachdecker AG]] tätig. Die Überlassungsvereinbarung wurde vom Vorstand [[person|DI Melk Kaltenegger]] unterzeichnet. [[person|Kaltenegger]] hat der Dienstnehmerin zugesichert, dass die Überlassung höchstens sechs Monate dauert und danach mit ihrer Zustimmung verlängert werden kann.
 
-Die [[organization|Feldner Dachdecker AG]] ist unter der FN [[company_register_number|454895p]] beim [[court|Landesgericht für ZRS Graz]] eingetragen; ihr Sitz befindet sich in [[location|Leibnitz]], UID-Nr. [[tax_id|ATU95304599]].
+Die [[organization|Feldner Dachdecker AG]] ist unter der [[company_register_number|FN 454895p]] beim [[court|Landesgericht für ZRS Graz]] eingetragen; ihr Sitz befindet sich in [[location|Leibnitz]], UID-Nr. [[tax_id|ATU95304599]].
 
 § 2 Arbeitszeit
 

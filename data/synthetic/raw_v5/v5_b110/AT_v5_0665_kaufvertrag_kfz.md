@@ -12,9 +12,9 @@ Verkäuferin: [[person|Rika Landauer]], wohnhaft in [[address|Geylinggasse 9,
 
 und
 
-Käuferin: [[organization|Keleti Druck GmbH]] (FN [[company_register_number|112120h]], UID-Nr. [[tax_id|ATU13776476]]), vertreten durch den Geschäftsführer [[person|Barthel Hanke]]
+Käuferin: [[organization|Keleti Druck GmbH]] ([[company_register_number|FN 112120h]], UID-Nr. [[tax_id|ATU13776476]]), vertreten durch den Geschäftsführer [[person|Barthel Hanke]]
 
-vermittelt durch die [[organization|Schreyer & Kuti AG]] (FN [[company_register_number|173800p]], UID-Nr. [[tax_id|ATU81177753]]), handelnd durch die Verkaufsberaterin [[person|Klarina Schranz]].
+vermittelt durch die [[organization|Schreyer & Kuti AG]] ([[company_register_number|FN 173800p]], UID-Nr. [[tax_id|ATU81177753]]), handelnd durch die Verkaufsberaterin [[person|Klarina Schranz]].
 
 Mitbesitzerin des Fahrzeugs ist [[person|Leni Marboe]], die dem Verkauf schriftlich zugestimmt hat.
 
@@ -28,7 +28,7 @@ Das Fahrzeug war zuletzt beim [[organization|Schreyer & Kuti AG]] eingestellt. D
 
 2.1 Der Kaufpreis beträgt 9.850 Euro inklusive Umsatzsteuer; davon entfallen 1.641,67 Euro auf die Umsatzsteuer. Er ist binnen 14 Tagen nach Übergabe auf das Konto mit der IBAN [[bank_account|AT63 5280 1417 2844 6388]] der Verkäuferin zu überweisen.
 
-2.2 Die Käuferin bestätigt, dass die Kaufpreisforderung nicht mit einem Pfandrecht der [[organization|Polster & Stoitzner AG]] (FN [[company_register_number|601451m]], UID-Nr. [[tax_id|ATU41590113]]) belastet ist. Die Auskunft erteilte deren Prokuristin [[person|Marlise Menzel]] schriftlich.
+2.2 Die Käuferin bestätigt, dass die Kaufpreisforderung nicht mit einem Pfandrecht der [[organization|Polster & Stoitzner AG]] ([[company_register_number|FN 601451m]], UID-Nr. [[tax_id|ATU41590113]]) belastet ist. Die Auskunft erteilte deren Prokuristin [[person|Marlise Menzel]] schriftlich.
 
 3. Übergabe und Gewährleistung
 

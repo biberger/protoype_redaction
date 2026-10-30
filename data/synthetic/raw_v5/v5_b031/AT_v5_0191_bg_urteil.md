@@ -9,7 +9,7 @@ Im Namen der Republik
 
 GZ [[case_number|2 C 97/26d]]
 
-Das [[court|Bezirksgericht Hallein]] hat durch den Richter [[judge|Aleks Sukhenko]] als Einzelrichter in der Rechtssache der klagenden Partei [[organization|Mildner Logistik AG]], [[address|Sensenstraße 5, 5424 Bad Vigaun]], FN [[company_register_number|87871y]], UID-Nr. [[tax_id|ATU48210653]], gegen
+Das [[court|Bezirksgericht Hallein]] hat durch den Richter [[judge|Aleks Sukhenko]] als Einzelrichter in der Rechtssache der klagenden Partei [[organization|Mildner Logistik AG]], [[address|Sensenstraße 5, 5424 Bad Vigaun]], [[company_register_number|FN 87871y]], UID-Nr. [[tax_id|ATU48210653]], gegen
 
 1. [[person|Lubnah Abu Namous]], [[address|Wolfsgartenweg 10, 9753 Kleblach-Lind]], und
 2. [[person|Rosi Nemec]], [[address|Eisenwerkstraße 7/2, 4324 Rechberg]],

@@ -17,7 +17,7 @@ B E S C H E I D
 
 Spruch
 
-Der [[organization|Magistrat Graz]], als Gewerbebehörde, untersagt der [[organization|Schwarzinger Autohaus GmbH]], FN [[company_register_number|108822h]], UID [[tax_id|ATU37783298]], vertreten durch den Geschäftsführer [[person|Gotthardt Zeisler]] und den Rechtsanwalt [[lawyer|Ruprecht Schütz]], die Ausübung des reglementierten Gewerbes „Handel mit Kraftfahrzeugen“ mit sofortiger Wirkung gemäß [[legal_norm|§ 87 Abs 1 Z 2 GewO 1994]] iVm [[legal_norm|§ 13 Abs 3 AVG]] iVm [[legal_norm|§ 9 Abs 1 VStG]].
+Der [[organization|Magistrat Graz]], als Gewerbebehörde, untersagt der [[organization|Schwarzinger Autohaus GmbH]], [[company_register_number|FN 108822h]], UID [[tax_id|ATU37783298]], vertreten durch den Geschäftsführer [[person|Gotthardt Zeisler]] und den Rechtsanwalt [[lawyer|Ruprecht Schütz]], die Ausübung des reglementierten Gewerbes „Handel mit Kraftfahrzeugen“ mit sofortiger Wirkung gemäß [[legal_norm|§ 87 Abs 1 Z 2 GewO 1994]] iVm [[legal_norm|§ 13 Abs 3 AVG]] iVm [[legal_norm|§ 9 Abs 1 VStG]].
 
 Die Gesellschaft hat den Betrieb binnen vier Wochen ab Zustellung dieses Bescheides abzuwickeln und ihre Gewerbeberechtigung zurückzulegen.
 

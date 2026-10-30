@@ -14,16 +14,16 @@ GZ [[case_number|3 C 412/26w]]
 
 **Berufung**
 
-In der Rechtssache der klagenden Partei [[organization|Abdi & Obermoser GmbH]], FN [[company_register_number|402792t]], UID-Nr. [[tax_id|ATU31142581]], [[address|Hopfengasse 9, 8200 Ungerdorf]], vertreten durch die Geschäftsführerin [[person|Felicie Sackl]], diese vertreten durch [[lawyer|Dima Zaidan]], Rechtsanwältin,
+In der Rechtssache der klagenden Partei [[organization|Abdi & Obermoser GmbH]], [[company_register_number|FN 402792t]], UID-Nr. [[tax_id|ATU31142581]], [[address|Hopfengasse 9, 8200 Ungerdorf]], vertreten durch die Geschäftsführerin [[person|Felicie Sackl]], diese vertreten durch [[lawyer|Dima Zaidan]], Rechtsanwältin,
 
 wider die beklagten Parteien
 
-1. [[organization|Nasri & Nüesch KG]], FN [[company_register_number|186182y]], UID-Nr. [[tax_id|ATU37497589]], mit Sitz [[address|Obermayr-
+1. [[organization|Nasri & Nüesch KG]], [[company_register_number|FN 186182y]], UID-Nr. [[tax_id|ATU37497589]], mit Sitz [[address|Obermayr-
 straße 20, 8756 Sankt Georgen ob Judenburg]],
 2. [[person|Deša Medvid]],
 3. [[person|Tamara Finger]],
 
-sowie die Streitverkündete [[organization|Hammerschmidt e.U.]], FN [[company_register_number|461819x]], UID-Nr. [[tax_id|ATU54780615]],
+sowie die Streitverkündete [[organization|Hammerschmidt e.U.]], [[company_register_number|FN 461819x]], UID-Nr. [[tax_id|ATU54780615]],
 
 wegen Schadenersatzes von 48.260,00 Euro samt Zinsen
 

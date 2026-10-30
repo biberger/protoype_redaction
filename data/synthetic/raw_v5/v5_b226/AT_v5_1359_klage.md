@@ -12,14 +12,14 @@ An das
 [[court|Landesgericht Ried im Innkreis]]
 
 KLÄGERIN:
-[[organization|ACHLEITNER OG]], FN [[company_register_number|137576V]], UID-NR. [[tax_id|ATU63671495]],
+[[organization|ACHLEITNER OG]], [[company_register_number|FN 137576V]], UID-NR. [[tax_id|ATU63671495]],
 [[address|TIROLERHOFSTRAßE 25/2,
 4912 NEUHOFEN IM INNKREIS]]
 GESELLSCHAFTER: [[person|CEDO BEHR]]
 
 GEGEN
 
-ERSTBEKLAGTE: [[organization|Oppitz GmbH & Co KG]], FN [[company_register_number|543834g]], UID-Nr. [[tax_id|ATU53606511]], [[address|Wimbergergasse 24/6,
+ERSTBEKLAGTE: [[organization|Oppitz GmbH & Co KG]], [[company_register_number|FN 543834g]], UID-Nr. [[tax_id|ATU53606511]], [[address|Wimbergergasse 24/6,
 4973 Senftenbach]], vertreten durch die Geschäftsführerin [[person|Mag. Alexsandra Herzog]]
 
 ZWEITBEKLAGTER: [[person|Ursin Nedeljković]], Bauleiter der Erstbeklagten

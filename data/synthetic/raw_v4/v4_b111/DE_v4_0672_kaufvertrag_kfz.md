@@ -19,10 +19,10 @@ abgeschlossen am [[date|2. März 2026]] in [[location|Düsseldorf]] zwischen den
 [[person|Ajiša Sokolović]], zu einem Drittel.
 
 3. Käuferin:
-[[organization|Badr Metallbau GmbH & Co. KG]], Betriebsstätte [[address|Spielmannsgasse 2, 07952 Pausa-Mühltroff]], HRA [[company_register_number|107348]] beim [[court|Amtsgericht Charlottenburg]], USt-IdNr. [[tax_id|DE324024069]], Steuernummer [[tax_id|73/626/66693]], vertreten durch den Geschäftsführer der Komplementärin, [[person|Dr. Ilrich Knoop]].
+[[organization|Badr Metallbau GmbH & Co. KG]], Betriebsstätte [[address|Spielmannsgasse 2, 07952 Pausa-Mühltroff]], [[company_register_number|HRA 107348]] beim [[court|Amtsgericht Charlottenburg]], USt-IdNr. [[tax_id|DE324024069]], Steuernummer [[tax_id|73/626/66693]], vertreten durch den Geschäftsführer der Komplementärin, [[person|Dr. Ilrich Knoop]].
 
 4. Eigentümerin bis zur vollständigen Zahlung:
-[[organization|Volkmann KG]], HRA [[company_register_number|146745]] beim [[court|Amtsgericht Düsseldorf]], USt-IdNr. [[tax_id|DE856124276]], Steuernummer [[tax_id|97 839 43933]], vertreten durch die Prokuristin [[person|Tetjana Outkine]] und die Kommanditistin [[person|Goldtraud Schenkel]].
+[[organization|Volkmann KG]], [[company_register_number|HRA 146745]] beim [[court|Amtsgericht Düsseldorf]], USt-IdNr. [[tax_id|DE856124276]], Steuernummer [[tax_id|97 839 43933]], vertreten durch die Prokuristin [[person|Tetjana Outkine]] und die Kommanditistin [[person|Goldtraud Schenkel]].
 
 5. Treuhänder für den Kaufpreis:
 [[lawyer|Anders Hegemann]], Rechtsanwalt in [[location|Düsseldorf]].

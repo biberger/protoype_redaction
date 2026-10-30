@@ -3,7 +3,7 @@ doc_type: firmenbuchauszug
 jurisdiction: AT
 lang: de
 ---
-[[organization|HOLLEIN TRANSPORT GMBH]] · FN [[company_register_number|65043b]] · [[address|KOMMUNALSTRASSE 30/20, 8162 HAUFENREITH]] · UID [[tax_id|ATU55364091]]
+[[organization|HOLLEIN TRANSPORT GMBH]] · [[company_register_number|FN 65043b]] · [[address|KOMMUNALSTRASSE 30/20, 8162 HAUFENREITH]] · UID [[tax_id|ATU55364091]]
 
 REPUBLIK [[location|ÖSTERREICH]]
 [[court|Landesgericht für Zivilrechtssachen Graz]]
@@ -25,7 +25,7 @@ Gegenstand: Güterbeförderung im Straßenverkehr, Lagerhaltung und Baustellenlo
 
 A. Gesellschafter
 
-Gesellschafter sind die [[organization|Plank Textil GmbH]], FN [[company_register_number|502037s]], UID-Nummer [[tax_id|ATU46491871]], mit einer Stammeinlage von 18.000 Euro, und [[person|Damian Mally]] mit einer Stammeinlage von 17.000 Euro. Die Stammeinlagen sind voll eingezahlt.
+Gesellschafter sind die [[organization|Plank Textil GmbH]], [[company_register_number|FN 502037s]], UID-Nummer [[tax_id|ATU46491871]], mit einer Stammeinlage von 18.000 Euro, und [[person|Damian Mally]] mit einer Stammeinlage von 17.000 Euro. Die Stammeinlagen sind voll eingezahlt.
 
 B. Organe
 
@@ -65,7 +65,7 @@ Die Rechtliche Beurteilung stützt sich auf [[legal_norm|§ 2 AußStrG]] und die
 
 F. Vertragsverhältnisse (zur Kenntnis)
 
-Die Gesellschaft hat mit der [[organization|Ruprecht Bau e.U.]], FN [[company_register_number|569248f]], UID-Nummer [[tax_id|ATU96073809]], einen Subunternehmervertrag für Baustellenlogistik auf der [[street|Donaufeldstraße]] in [[location|Wien]], [[location|Floridsdorf]], abgeschlossen. Der Vertrag wurde am [[date|4. Mai 2025]] geschlossen und sieht eine Vergütung nach Stunden vor.
+Die Gesellschaft hat mit der [[organization|Ruprecht Bau e.U.]], [[company_register_number|FN 569248f]], UID-Nummer [[tax_id|ATU96073809]], einen Subunternehmervertrag für Baustellenlogistik auf der [[street|Donaufeldstraße]] in [[location|Wien]], [[location|Floridsdorf]], abgeschlossen. Der Vertrag wurde am [[date|4. Mai 2025]] geschlossen und sieht eine Vergütung nach Stunden vor.
 
 Im Rahmen der Baustelle ist es am [[date|18.08.2025]] zu einer Beschädigung einer Hebebühne gekommen. Die [[organization|Ruprecht Bau e.U.]] hat hierzu mitgeteilt, dass die Schäden durch unsachgemässe Bedienung entstanden seien. Die Gesellschaft macht gegenüber der [[organization|Ruprecht Bau e.U.]] eine Forderung von 38.400 Euro geltend.
 

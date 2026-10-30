@@ -15,8 +15,8 @@ An das
 
 GZ [[case_number|15 Cg 97/26k]]
 
-In der Rechtssache der klagenden Partei [[person|Ilsemarie Wilhelmer]], [[address|Badweg 16/15, 7512 Kohfidisch]], gegen die beklagten Parteien 1. [[organization|Anderson GmbH]], [[address|Hernalser Hauptstraße 27/24, 8324 Kirchberg an der Raab]], FN [[company_register_number|324735b]], UID [[tax_id|ATU64515858]], und 2. [[organization|Wiesen-
-thal AG]], FN [[company_register_number|417214a]], UID [[tax_id|ATU20826220]], beide vertreten durch [[lawyer|Sigurd Siegl]], Rechtsanwalt, wegen EUR 38.415,20 sA erstattet die beklagte Partei innerhalb offener Frist folgende
+In der Rechtssache der klagenden Partei [[person|Ilsemarie Wilhelmer]], [[address|Badweg 16/15, 7512 Kohfidisch]], gegen die beklagten Parteien 1. [[organization|Anderson GmbH]], [[address|Hernalser Hauptstraße 27/24, 8324 Kirchberg an der Raab]], [[company_register_number|FN 324735b]], UID [[tax_id|ATU64515858]], und 2. [[organization|Wiesen-
+thal AG]], [[company_register_number|FN 417214a]], UID [[tax_id|ATU20826220]], beide vertreten durch [[lawyer|Sigurd Siegl]], Rechtsanwalt, wegen EUR 38.415,20 sA erstattet die beklagte Partei innerhalb offener Frist folgende
 
 KLAGEBEANTWORTUNG
 

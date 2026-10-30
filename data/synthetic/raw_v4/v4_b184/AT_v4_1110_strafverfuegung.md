@@ -25,7 +25,7 @@ Zu zahlender Betrag gesamt: 170 Euro, zu überweisen auf IBAN [[bank_account|AT0
 
 Beteiligte Personen:
 
-Zulassungsbesitzer | [[organization|Patzelt & Duro AG]], FN [[company_register_number|293995x]], UID [[tax_id|ATU77195606]]
+Zulassungsbesitzer | [[organization|Patzelt & Duro AG]], [[company_register_number|FN 293995x]], UID [[tax_id|ATU77195606]]
 Lenker | [[person|Nikolas Hacker]], Führerschein Nr. [[id_document_number|01210340]], Telefon [[phone_number|+43 664 107 5781]]
 Anzeiger | [[person|Renatus Jung]], [[organization|Polizeiinspektion Liezen]]
 Zeugin | [[person|Gustine Sexl]], SV-Nr. [[social_security_number|6697 190461]]
@@ -38,6 +38,6 @@ Gegen diese Strafverfügung können Sie innerhalb von zwei Wochen ab Zustellung 
 
 Die Vertretung durch Rechtsanwältin [[lawyer|Astrid Birnbaum]] ist bei dieser Behörde anzuzeigen.
 
-Ein Fahrzeug der [[organization|Mesbah e.U.]] (FN [[company_register_number|189899p]], UID [[tax_id|ATU17899683]], [[address|Daphneweg 21, 2291 Lassee]]) wurde nicht beanstandet. Das Fahrzeug [[license_plate|LI-5779 Y]] war bis zum Frühjahr 2026 auf die [[organization|Weinzierl e.U.]], FN [[company_register_number|487061t]], UID [[tax_id|ATU53796940]], zugelassen und wurde danach an die Zulassungsbesitzerin übertragen.
+Ein Fahrzeug der [[organization|Mesbah e.U.]] ([[company_register_number|FN 189899p]], UID [[tax_id|ATU17899683]], [[address|Daphneweg 21, 2291 Lassee]]) wurde nicht beanstandet. Das Fahrzeug [[license_plate|LI-5779 Y]] war bis zum Frühjahr 2026 auf die [[organization|Weinzierl e.U.]], [[company_register_number|FN 487061t]], UID [[tax_id|ATU53796940]], zugelassen und wurde danach an die Zulassungsbesitzerin übertragen.
 
 Für die [[organization|Bezirkshauptmannschaft Liezen]]: [[person|Ing. Giovenale Bartolomei, MSc]]

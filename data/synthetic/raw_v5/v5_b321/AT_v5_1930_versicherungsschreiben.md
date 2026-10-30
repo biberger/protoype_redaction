@@ -49,4 +49,4 @@ Schadenreferat Haftpflicht
 
 [[location|Linz]], am [[date|5. Oktober 2026]]
 
-[[organization|PANNONIA SCHADEN- UND HAFTPFLICHT AG]] · FN [[company_register_number|506669b]] · UID-Nr. [[tax_id|ATU65417113]]
+[[organization|PANNONIA SCHADEN- UND HAFTPFLICHT AG]] · [[company_register_number|FN 506669b]] · UID-Nr. [[tax_id|ATU65417113]]

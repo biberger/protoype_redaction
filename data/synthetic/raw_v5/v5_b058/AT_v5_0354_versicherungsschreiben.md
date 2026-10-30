@@ -5,7 +5,7 @@ lang: de
 ---
 [[organization|PANNONIA SACHVERSICHERUNG AG]]
 [[address|Operngasse 18/4, 1040 Wien]]
-FN [[company_register_number|388123w]], Telefon [[phone_number|01 5520 3847]], E-Mail [[email|schaden@pannonia-sach.at]]
+[[company_register_number|FN 388123w]], Telefon [[phone_number|01 5520 3847]], E-Mail [[email|schaden@pannonia-sach.at]]
 
 [[organization|Herrmann GmbH & Co KG]]
 z. H. Herrn [[person|Willfried Luttenberger]], Geschäftsführer

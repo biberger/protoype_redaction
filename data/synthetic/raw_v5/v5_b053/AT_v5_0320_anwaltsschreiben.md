@@ -11,7 +11,7 @@ TEL. [[phone_number|+43 732 667815]]
 EINGEGANGEN 29. OKT. 2026 – [[organization|MATHIS GMBH]]
 
 [[organization|Mathis GmbH]]
-FN [[company_register_number|112134d]], UID [[tax_id|ATU70626780]]
+[[company_register_number|FN 112134d]], UID [[tax_id|ATU70626780]]
 z.H. der Geschäftsführung
 [[address|Industriestraße 9, 4600 Wels]]
 

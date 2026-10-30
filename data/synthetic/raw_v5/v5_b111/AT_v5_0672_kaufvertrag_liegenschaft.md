@@ -5,7 +5,7 @@ lang: de
 ---
 [[organization|SCHMAL & LIEB GMBH]]
 [[address|SOBIESKIGASSE 21, 6422 STAMS]]
-FN [[company_register_number|396039k]] · UID [[tax_id|ATU25103517]]
+[[company_register_number|FN 396039k]] · UID [[tax_id|ATU25103517]]
 
 KAUFVERTRAG ÜBER EINE LIEGENSCHAFT
 

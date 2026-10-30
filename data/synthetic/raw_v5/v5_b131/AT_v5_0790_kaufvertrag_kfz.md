@@ -11,7 +11,7 @@ KAUFVERTRAG ÜBER EIN KRAFTFAHRZEUG
 
 abgeschlossen zwischen
 
-1. der Verkäuferin [[organization|Wanner Elektro GmbH & Co KG]], FN [[company_register_number|245239x]], UID-Nr. [[tax_id|ATU08803963]], vertreten durch [[person|Dr. Amon Klima]], Geschäftsführer,
+1. der Verkäuferin [[organization|Wanner Elektro GmbH & Co KG]], [[company_register_number|FN 245239x]], UID-Nr. [[tax_id|ATU08803963]], vertreten durch [[person|Dr. Amon Klima]], Geschäftsführer,
 
 2. dem Käufer [[person|Gunnar Zweig, BSc]], wohnhaft in [[address|Staudachstraße 17/2, 5322 Hof bei Salzburg]], Reisepass Nr. [[id_document_number|U6508311]],
 
@@ -21,7 +21,7 @@ Die Käufer werden gemeinsam als Käufer bezeichnet.
 
 Präambel
 
-Die Verkäuferin ist Eigentümerin des Kraftfahrzeugs Marke Volkswagen Golf Variant, Fahrzeugidentifikationsnummer [[other_identifier|WVWZZZ1KZ9W417206]], mit dem amtlichen Kennzeichen [[license_plate|SZ-47625A]]. Die Vermittlung des Geschäfts erfolgte durch die [[organization|Énekes Consulting GmbH]], FN [[company_register_number|8560p]], UID-Nr. [[tax_id|ATU95556656]], [[location|Kolsass]].
+Die Verkäuferin ist Eigentümerin des Kraftfahrzeugs Marke Volkswagen Golf Variant, Fahrzeugidentifikationsnummer [[other_identifier|WVWZZZ1KZ9W417206]], mit dem amtlichen Kennzeichen [[license_plate|SZ-47625A]]. Die Vermittlung des Geschäfts erfolgte durch die [[organization|Énekes Consulting GmbH]], [[company_register_number|FN 8560p]], UID-Nr. [[tax_id|ATU95556656]], [[location|Kolsass]].
 
 § 1 Kaufgegenstand
 

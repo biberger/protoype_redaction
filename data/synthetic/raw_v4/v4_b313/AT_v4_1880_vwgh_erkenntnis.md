@@ -3,7 +3,7 @@ doc_type: vwgh_erkenntnis
 jurisdiction: AT
 lang: de
 ---
-BEGLAUBIGT: [[organization|SOMMER E.U.]], [[address|MÜHLWEG 11, 8324 KIRCHBERG AN DER RAAB]], FN [[company_register_number|538015z]]
+BEGLAUBIGT: [[organization|SOMMER E.U.]], [[address|MÜHLWEG 11, 8324 KIRCHBERG AN DER RAAB]], [[company_register_number|FN 538015z]]
 
 [[court|Verwaltungsgerichtshof]]
 

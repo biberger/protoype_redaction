@@ -157,7 +157,7 @@ V. Beilagen
 ./D Mängelrüge vom [[date|3. September 2024]] und Antwort vom [[date|19. September 2024]]
 ./E Gutachten [[person|Dr. Lioba Freud]] vom [[date|4. August 2025]]
 ./F Chatverlauf vom [[date|2. Oktober 2024]]
-./G Firmenbuchauszug der Klägerin (FN [[company_register_number|86070z]])
+./G Firmenbuchauszug der Klägerin ([[company_register_number|FN 86070z]])
 
 Rechtsanwältin [[lawyer|Milina Hess]] wird in dieser Sache als Vertreterin der Klägerin bevollmächtigt.
 

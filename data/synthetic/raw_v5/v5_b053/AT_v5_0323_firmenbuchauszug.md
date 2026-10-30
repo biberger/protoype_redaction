@@ -24,7 +24,7 @@ Vertretungsbefugnis: Geschäftsführer ist [[person|Leopold Molitor]], einzelver
 Prokura: [[person|Cabiria Troisi]], einzelvertretungsbefugt.
 
 Kommanditisten:
-1. [[organization|Martin & Marin GmbH & Co KG]], FN [[company_register_number|491606a]], UID [[tax_id|ATU97992155]], Anschrift [[address|Waldweg 13, 8332 Fladnitz im Raabtal]], Haftsumme 350.000 Euro
+1. [[organization|Martin & Marin GmbH & Co KG]], [[company_register_number|FN 491606a]], UID [[tax_id|ATU97992155]], Anschrift [[address|Waldweg 13, 8332 Fladnitz im Raabtal]], Haftsumme 350.000 Euro
 2. [[person|Lorette Jaeger, BSc]], Haftsumme 120.000 Euro
 3. [[person|Ottilie van der Heyden]], Anschrift [[address|Hintzerstraße 6, 8263 Großwilfersdorf]], Haftsumme 80.000 Euro
 

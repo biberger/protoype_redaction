@@ -9,7 +9,7 @@ abgeschlossen zwischen
 
 1. Vermieterin: Frau [[person|Dr. Amadea Schauer]], wohnhaft [[address|Fleischhackergasse 7, 8324 Oberstorcha]], vertreten durch den Hausverwalter [[person|Wilmhard Clemens]],
 
-2. Mieterin: [[organization|Nagele Metallbau OG]], FN [[company_register_number|123989m]], UID-Nr. [[tax_id|ATU34584483]], mit Sitz in [[address|Pilzweg 10/15, 6373 Jochberg]], vertreten durch den Geschäftsführer [[person|Reich Schwarzl]].
+2. Mieterin: [[organization|Nagele Metallbau OG]], [[company_register_number|FN 123989m]], UID-Nr. [[tax_id|ATU34584483]], mit Sitz in [[address|Pilzweg 10/15, 6373 Jochberg]], vertreten durch den Geschäftsführer [[person|Reich Schwarzl]].
 
 Vertragsverfasserin ist die Rechtsanwältin [[lawyer|Ada Weil]]. Der Vertrag unterliegt den Bestimmungen des [[legal_norm|ABGB]]; das [[legal_norm|MRG]] findet auf das Geschäftslokal keine Anwendung.
 

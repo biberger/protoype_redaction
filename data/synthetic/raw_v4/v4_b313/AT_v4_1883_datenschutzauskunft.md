@@ -7,7 +7,7 @@ BEARBEITUNGSVERMERK: EINGANG [[date|04.08.2026]] · BEARBEITER: DATENSCHUTZKOORD
 
 [[organization|MOSTVIERTLER WOHNBAUGENOSSENSCHAFT EG]]
 [[address|THEODOR-HAAS-STRASSE 9, 4352 KLAM]]
-FN [[company_register_number|280557i]]
+[[company_register_number|FN 280557i]]
 
 Frau
 [[person|Dr. Sonnhilde Huemer]]

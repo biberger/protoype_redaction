@@ -16,9 +16,9 @@ der klagenden Partei [[person|W***** P*****]], vertreten durch [[lawyer|DI Ivone
 
 gegen
 
-die beklagte Partei [[organization|Hillebrand GmbH]], FN [[company_register_number|158778y]], UID-Nr. [[tax_id|ATU05095966]], vertreten durch [[lawyer|Sandra Zimmel]], Rechtsanwältin,
+die beklagte Partei [[organization|Hillebrand GmbH]], [[company_register_number|FN 158778y]], UID-Nr. [[tax_id|ATU05095966]], vertreten durch [[lawyer|Sandra Zimmel]], Rechtsanwältin,
 
-und die Nebenintervenientin [[organization|Schächter Agrar OG]], FN [[company_register_number|429082d]], UID-Nr. [[tax_id|ATU22196095]], vertreten durch [[lawyer|Addison Dewulf]], Rechtsanwältin,
+und die Nebenintervenientin [[organization|Schächter Agrar OG]], [[company_register_number|FN 429082d]], UID-Nr. [[tax_id|ATU22196095]], vertreten durch [[lawyer|Addison Dewulf]], Rechtsanwältin,
 
 wegen Feststellung einer unberechtigten Entlassung und Zahlung von 18.430,00 Euro brutto sA, nach öffentlicher mündlicher Verhandlung zu Recht erkannt:
 

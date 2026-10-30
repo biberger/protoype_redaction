@@ -17,7 +17,7 @@ zH der Rechtsvertreterin [[lawyer|Evelina Kraus]], Rechtsanwältin in [[location
 
 STRAFVERFÜGUNG
 
-Die [[organization|Bezirkshauptmannschaft Vöcklabruck]] verhängt über die Beschuldigte [[organization|Kräutler Transport KG]] (FN [[company_register_number|166482b]], UID-Nr. [[tax_id|ATU38430836]]) als Zulassungsbesitzerin folgende Strafe:
+Die [[organization|Bezirkshauptmannschaft Vöcklabruck]] verhängt über die Beschuldigte [[organization|Kräutler Transport KG]] ([[company_register_number|FN 166482b]], UID-Nr. [[tax_id|ATU38430836]]) als Zulassungsbesitzerin folgende Strafe:
 
 Tatzeit | Tatort | Übertretung
 [[date|16.01.2026]], 07:42 Uhr | auf der [[street|Rubensgasse]] in Schörfling | [[legal_norm|§ 20 Abs 2 StVO]]

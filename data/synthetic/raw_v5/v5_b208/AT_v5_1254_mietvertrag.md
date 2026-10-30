@@ -4,13 +4,13 @@ jurisdiction: AT
 lang: de
 ---
 [[organization|GOLD OG]], [[address|FRANZ-KURZ-STRASSE 19/14, 5500 BISCHOFSHOFEN]]
-FN [[company_register_number|568809I]], UID [[tax_id|ATU23362910]]
+[[company_register_number|FN 568809I]], UID [[tax_id|ATU23362910]]
 
 WOHNUNGSMIETVERTRAG
 
 abgeschlossen am [[date|14.10.2026]] in [[location|Hall in Tirol]] zwischen den nachstehend genannten Parteien:
 
-1. Vermieterin: [[organization|Gold OG]], FN [[company_register_number|568809i]], UID-Nr. [[tax_id|ATU23362910]], vertreten durch die Hausverwalterin [[organization|Becker AG]], FN [[company_register_number|165993h]], UID-Nr. [[tax_id|ATU56059883]], diese vertreten durch ihren Geschäftsführer [[person|Adrian Böhler]].
+1. Vermieterin: [[organization|Gold OG]], [[company_register_number|FN 568809i]], UID-Nr. [[tax_id|ATU23362910]], vertreten durch die Hausverwalterin [[organization|Becker AG]], [[company_register_number|FN 165993h]], UID-Nr. [[tax_id|ATU56059883]], diese vertreten durch ihren Geschäftsführer [[person|Adrian Böhler]].
 
 2. Hauptmieter: [[person|MMag. Sacha Kurz]] und [[person|DI Elise Senn]], beide wohnhaft im Mietobjekt.
 
@@ -46,7 +46,7 @@ Das Mietverhältnis beginnt am [[date|1. November 2026]] und wird auf drei Jahre
 
 (1) Die Wohnung wird am [[date|1. November 2026]] durch die Hausverwaltung übergeben. Über den Zustand wird ein Übergabeprotokoll erstellt, das beide Seiten unterzeichnen.
 
-(2) Das Mobiliar des Mieters wird durch die [[organization|Renner Transport KG]], FN [[company_register_number|52428a]], UID-Nr. [[tax_id|ATU05937806]], mit dem Lkw [[license_plate|IL-756L]] angeliefert. Die Anlieferung erfolgt über die [[street|Oppolzerstraße]]; die Ladefläche ist dort zeitlich begrenzt freizuhalten.
+(2) Das Mobiliar des Mieters wird durch die [[organization|Renner Transport KG]], [[company_register_number|FN 52428a]], UID-Nr. [[tax_id|ATU05937806]], mit dem Lkw [[license_plate|IL-756L]] angeliefert. Die Anlieferung erfolgt über die [[street|Oppolzerstraße]]; die Ladefläche ist dort zeitlich begrenzt freizuhalten.
 
 (3) Für Schäden an Fahrzeugen Dritter, die die [[organization|Renner Transport KG]] beim Abstellen des Lkw an der [[street|Oppolzerstraße]] verursacht, haftet ausschließlich diese Gesellschaft. Die Vermieterin übernimmt keine Haftung dafür.
 

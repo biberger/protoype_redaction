@@ -24,7 +24,7 @@ Mit dem Straferkenntnis wurde dem Beschwerdeführer vorgeworfen, er habe am [[da
 [[address|ZEHETNERSTRASSE 54, 7441 PILGERSDORF]]
 [[company_register_number|FN 534560v]], UID-Nr. [[tax_id|ATU66778846]]
 
-Zu den Tagen des Vorfalls bestätigte die Disponentin [[person|Mare Vujčić]], dass das Fahrzeug an diesem Tag für die [[organization|Patek & Zachar GmbH & Co KG]] (FN [[company_register_number|39841s]], UID-Nr. [[tax_id|ATU54458634]]) unterwegs war.
+Zu den Tagen des Vorfalls bestätigte die Disponentin [[person|Mare Vujčić]], dass das Fahrzeug an diesem Tag für die [[organization|Patek & Zachar GmbH & Co KG]] ([[company_register_number|FN 39841s]], UID-Nr. [[tax_id|ATU54458634]]) unterwegs war.
 
 Der Beschwerdeführer legte seinen Führerschein Nr. [[id_document_number|58161368]] vor und gab an, er habe die Ladung nicht gewogen, sondern nach dem Lieferschein übernommen. Die Meldungslegerin [[person|Annelies Bittner]] schilderte, die Waage habe das Gewicht bei der Kontrolle angezeigt; das Protokoll enthalte die Messwerte der Waage.
 

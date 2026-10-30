@@ -16,15 +16,15 @@ Im Namen des Volkes
 
 In dem Rechtsstreit
 
-der [[organization|Urbanek Gastro UG (haftungsbeschränkt)]] (HRB [[company_register_number|114633]], [[court|Amtsgericht Hannover]], USt-IdNr. [[tax_id|DE350143386]]), vertreten durch die Geschäftsführerin [[person|Hannelene Beckers]], wohnhaft in [[address|Schanzenstraße 3, 66894 Bechhofen]], Klägerin,
+der [[organization|Urbanek Gastro UG (haftungsbeschränkt)]] ([[company_register_number|HRB 114633]], [[court|Amtsgericht Hannover]], USt-IdNr. [[tax_id|DE350143386]]), vertreten durch die Geschäftsführerin [[person|Hannelene Beckers]], wohnhaft in [[address|Schanzenstraße 3, 66894 Bechhofen]], Klägerin,
 
 prozessbevollmächtigt: Rechtsanwalt [[lawyer|Abel Hufnagel]],
 
 gegen
 
-1. die [[organization|Knopf & Degenhardt GmbH & Co. KG]] (HRA [[company_register_number|266248]], [[court|Amtsgericht Frankfurt am Main]], USt-IdNr. [[tax_id|DE551877631]], Steuernummer [[tax_id|56/068/77773]]), Beklagte zu 1),
+1. die [[organization|Knopf & Degenhardt GmbH & Co. KG]] ([[company_register_number|HRA 266248]], [[court|Amtsgericht Frankfurt am Main]], USt-IdNr. [[tax_id|DE551877631]], Steuernummer [[tax_id|56/068/77773]]), Beklagte zu 1),
 
-2. die [[organization|Hartmann & Kolář KG]] (HRA [[company_register_number|23537]], [[court|Amtsgericht München]], USt-IdNr. [[tax_id|DE293671260]]), vertreten durch den Prokuristen [[person|Heddo Buchwald]], Beklagte zu 2),
+2. die [[organization|Hartmann & Kolář KG]] ([[company_register_number|HRA 23537]], [[court|Amtsgericht München]], USt-IdNr. [[tax_id|DE293671260]]), vertreten durch den Prokuristen [[person|Heddo Buchwald]], Beklagte zu 2),
 
 hat die Zivilkammer 8 des [[court|Landgerichts Hannover]] auf die mündliche Verhandlung vom [[date|18. September 2026]] durch die Vorsitzende Richterin am Landgericht [[judge|Gescha Hamm]], die Richterin am Landgericht [[judge|Idda Hermanns]] und den Richter am Landgericht [[judge|Orel Bickel]] für Recht erkannt:
 

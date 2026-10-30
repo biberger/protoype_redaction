@@ -5,7 +5,7 @@ lang: de
 ---
 [[court|BEZIRKSGERICHT WEIZ]]
 EINGELANGT AM [[date|19.10.2026]]
-[[organization|SANDU & WENGER GMBH]], FN [[company_register_number|167382a]]
+[[organization|SANDU & WENGER GMBH]], [[company_register_number|FN 167382a]]
 
 GZ [[case_number|7 A 88/26t]]
 
@@ -29,7 +29,7 @@ Der Verstorbene hat am [[date|17.02.2026]] ohne Hinterlassung eines Notariatsakt
 
 Der Erbantrittserklärende stützt sich auf ein eigenhändiges Testament vom [[date|3. Mai 2019]]. Er hat die Erbschaft unter dem Vorbehalt der Inventarerrichtung angenommen, weil der Umfang der Schulden nicht feststand. Das Inventar wurde durch das Gericht am [[date|2. Juni 2026]] aufgenommen; die Erben sind an die Angaben im Inventar gebunden. Nach dem Inventar umfasst der Nachlass eine Eigentumswohnung, ein Bankguthaben und das genannte Kraftfahrzeug. Die Verlassenschaft ist überschuldet, sofern die angemeldeten Forderungen bestehen.
 
-Die [[organization|Kern e.U.]] (FN [[company_register_number|285497z]], UID [[tax_id|ATU16739224]]) hat eine Forderung aus Werkleistungen angemeldet. Die Gesellschaft hat die Leistungen im Jahr 2025 erbracht; die Rechnungen sind unbezahlt geblieben. Die [[organization|Sandu & Wenger GmbH]] (FN [[company_register_number|167382a]], UID [[tax_id|ATU35548644]]) macht eine offene Kaufpreisforderung geltend. Beide Forderungen sind nach Prüfung durch das Gericht glaubhaft gemacht.
+Die [[organization|Kern e.U.]] ([[company_register_number|FN 285497z]], UID [[tax_id|ATU16739224]]) hat eine Forderung aus Werkleistungen angemeldet. Die Gesellschaft hat die Leistungen im Jahr 2025 erbracht; die Rechnungen sind unbezahlt geblieben. Die [[organization|Sandu & Wenger GmbH]] ([[company_register_number|FN 167382a]], UID [[tax_id|ATU35548644]]) macht eine offene Kaufpreisforderung geltend. Beide Forderungen sind nach Prüfung durch das Gericht glaubhaft gemacht.
 
 [[person|Mirjam van der Heyden]] begehrt, aus dem Kraftfahrzeug vorrangig befriedigt zu werden, weil sie dem Verstorbenen im Jahr 2023 ein Darlehen gewährt habe. Der Anspruch ist nicht durch eine Urkunde belegt; ein Pfandrecht ist im Zulassungsschein nicht eingetragen. Der Antrag war daher abzuweisen.
 

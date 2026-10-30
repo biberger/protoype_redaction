@@ -21,7 +21,7 @@ Prozessbevollmächtigter: Rechtsanwalt [[lawyer|Gonke Brandenburg, B.Sc.]],
 
 gegen
 
-die [[organization|Stöber Autohaus KG]], HRA [[company_register_number|167108]], USt-IdNr. [[tax_id|DE505145673]], Steuernummer [[tax_id|456/466/25092]], vertreten durch die Komplementärin, deren Geschäftsführer [[person|Heiko Sondermann]] ist, [[address|Papenburger Straße 27, 76139 Karlsruhe]],
+die [[organization|Stöber Autohaus KG]], [[company_register_number|HRA 167108]], USt-IdNr. [[tax_id|DE505145673]], Steuernummer [[tax_id|456/466/25092]], vertreten durch die Komplementärin, deren Geschäftsführer [[person|Heiko Sondermann]] ist, [[address|Papenburger Straße 27, 76139 Karlsruhe]],
 
 Beklagte,
 

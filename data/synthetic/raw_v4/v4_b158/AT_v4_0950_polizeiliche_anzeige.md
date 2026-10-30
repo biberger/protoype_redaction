@@ -19,7 +19,7 @@ Betreff: Anzeige gegen [[person|Carl Sprenger]] wegen des Verdachts der fahrläs
 
 1. Sachverhalt
 
-Am [[date|3. September 2026]] gegen 7.40 Uhr lenkte der Beschuldigte [[person|Carl Sprenger]] den Sattelzug der [[organization|Torma AG]] (FN [[company_register_number|195666w]], UID [[tax_id|ATU44630459]]) mit dem Kennzeichen [[license_plate|IL-7404F]] auf der [[street|Johannisfeldstraße]] in Richtung Westen. Beim Rechtsabbiegen an der Kreuzung mit dem Radweg übersah der Lenker den Radfahrer [[person|Edmar Schilder]], der den Radweg in gleicher Richtung benützte. Der Radfahrer stürzte auf die Fahrbahn und zog sich eine Fraktur des linken Unterarms sowie mehrere Schürfwunden zu.
+Am [[date|3. September 2026]] gegen 7.40 Uhr lenkte der Beschuldigte [[person|Carl Sprenger]] den Sattelzug der [[organization|Torma AG]] ([[company_register_number|FN 195666w]], UID [[tax_id|ATU44630459]]) mit dem Kennzeichen [[license_plate|IL-7404F]] auf der [[street|Johannisfeldstraße]] in Richtung Westen. Beim Rechtsabbiegen an der Kreuzung mit dem Radweg übersah der Lenker den Radfahrer [[person|Edmar Schilder]], der den Radweg in gleicher Richtung benützte. Der Radfahrer stürzte auf die Fahrbahn und zog sich eine Fraktur des linken Unterarms sowie mehrere Schürfwunden zu.
 
 Der Beschuldigte gab bei seiner Erstbefragung an, den Radfahrer im toten Winkel nicht bemerkt zu haben. Ein Blinker sei gesetzt gewesen, die Geschwindigkeit habe er auf etwa 15 km/h geschätzt. Eine Alkoholisierung wurde mittels Atemalkoholtest ausgeschlossen.
 

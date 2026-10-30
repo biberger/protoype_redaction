@@ -3,7 +3,7 @@ doc_type: dienstzeugnis
 jurisdiction: AT
 lang: de
 ---
-[[organization|Natzler Möbel GmbH]] · Gewerbepark 8 · 6410 [[location|Telfs]] · FN [[company_register_number|356393h]] · UID [[tax_id|ATU70549720]]
+[[organization|Natzler Möbel GmbH]] · Gewerbepark 8 · 6410 [[location|Telfs]] · [[company_register_number|FN 356393h]] · UID [[tax_id|ATU70549720]]
 
 Frau
 [[person|Zitta von Trapp]]

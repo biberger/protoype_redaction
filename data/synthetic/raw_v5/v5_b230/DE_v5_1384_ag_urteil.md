@@ -13,14 +13,14 @@ Urteil
 
 In dem Rechtsstreit
 
-der [[organization|Klotz GmbH & Co. KG]], HRA [[company_register_number|25653]] ([[court|Amtsgericht Hannover]]), USt-IdNr. [[tax_id|DE904483070]], Steuernummer [[tax_id|057 870 16216]], vertreten durch die Geschäftsführung [[person|Timotheus Henn]],
+der [[organization|Klotz GmbH & Co. KG]], [[company_register_number|HRA 25653]] ([[court|Amtsgericht Hannover]]), USt-IdNr. [[tax_id|DE904483070]], Steuernummer [[tax_id|057 870 16216]], vertreten durch die Geschäftsführung [[person|Timotheus Henn]],
 Klägerin,
 
 Prozessbevollmächtigter: Rechtsanwalt [[lawyer|Ulric Kleine]],
 
 gegen
 
-die [[organization|Nowack & Hoppe UG (haftungsbeschränkt)]], HRB [[company_register_number|52757]] ([[court|Amtsgericht Nürnberg]]), USt-IdNr. [[tax_id|DE843062640]], Steuernummer [[tax_id|928/536/34700]], vertreten durch den Geschäftsführer [[person|Dr. Dr. Thoralf Find-
+die [[organization|Nowack & Hoppe UG (haftungsbeschränkt)]], [[company_register_number|HRB 52757]] ([[court|Amtsgericht Nürnberg]]), USt-IdNr. [[tax_id|DE843062640]], Steuernummer [[tax_id|928/536/34700]], vertreten durch den Geschäftsführer [[person|Dr. Dr. Thoralf Find-
 eisen, MBA PhD (New York)]],
 [[address|Ostpromenade 15, 75399 Unter-
 reichenbach]],
@@ -40,7 +40,7 @@ Tatbestand
 
 Die Klägerin, eine Elektroinstallationsfirma aus [[location|Hannover]], verlangt Werklohn für Arbeiten an dem Gewerbeobjekt der Beklagten am [[address|Heseler Weg 4, 17398 Neu Kosenow]]. Die Parteien schlossen am [[date|12. Februar 2025]] einen Werkvertrag über die Verkabelung und Inbetriebnahme einer Lüftungsanlage.
 
-Die Klägerin setzte ihre Arbeiten im Frühjahr 2025 durch ihre Bauleiterin [[person|Johannette Geist]] und den Monteur [[person|Abdul Basit]] um. Die Abnahme erfolgte nicht förmlich; [[person|Geist]] übergab den Schlussbericht am [[date|23.06.2025]] an [[person|Findeisen]]. Ein Teil der Kabel stammte von der Streitverkündeten [[organization|Chesneau & Fuchsová GmbH & Co. KG]], HRA [[company_register_number|65126 B]] ([[court|Amtsgericht Bremen]]), für die [[person|Roselius Holler]] auftrat.
+Die Klägerin setzte ihre Arbeiten im Frühjahr 2025 durch ihre Bauleiterin [[person|Johannette Geist]] und den Monteur [[person|Abdul Basit]] um. Die Abnahme erfolgte nicht förmlich; [[person|Geist]] übergab den Schlussbericht am [[date|23.06.2025]] an [[person|Findeisen]]. Ein Teil der Kabel stammte von der Streitverkündeten [[organization|Chesneau & Fuchsová GmbH & Co. KG]], [[company_register_number|HRA 65126 B]] ([[court|Amtsgericht Bremen]]), für die [[person|Roselius Holler]] auftrat.
 
 Die Klägerin behauptet, die Beklagte habe die Schlussrechnung vom [[date|7. Juli 2025]] über 18.430,16 Euro nicht bezahlt. Die Beklagte rügt Mängel an der Steuerung der Anlage und verweist auf eine Abnahme, die [[person|Dipl.-Kfm. Apollinairs Dräger]] als kaufmännischer Leiter der Klägerin bestätigt habe. Die Klägerin bestreitet, dass [[person|Dräger]] zur Abnahme befugt war.
 

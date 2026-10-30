@@ -10,9 +10,9 @@ GZ [[case_number|B2/PI-ZAZ-2026/0288]]
 
 ANZEIGE
 
-Der Anzeiger [[person|Gabriele Zeitlinger]] erschien heute persönlich in der Dienststelle und erstattete Anzeige wegen Verdachts der Urkundenfälschung. Er gab an, dass auf seinem Lieferauftrag für die [[organization|Glück & Wade GmbH & Co KG]], FN [[company_register_number|292044b]], UID [[tax_id|ATU73114836]], ein Abholstempel fehle, obwohl das Gut bereits übernommen worden sei.
+Der Anzeiger [[person|Gabriele Zeitlinger]] erschien heute persönlich in der Dienststelle und erstattete Anzeige wegen Verdachts der Urkundenfälschung. Er gab an, dass auf seinem Lieferauftrag für die [[organization|Glück & Wade GmbH & Co KG]], [[company_register_number|FN 292044b]], UID [[tax_id|ATU73114836]], ein Abholstempel fehle, obwohl das Gut bereits übernommen worden sei.
 
-Die Zeugin [[person|Danila Timkovic]], Disponentin der [[organization|Fraenkel Logistik e.U.]], FN [[company_register_number|133860d]], UID [[tax_id|ATU27006824]], bestätigte, am [[date|14. Oktober 2026]] den Lkw mit dem Kennzeichen [[license_plate|SZ-3PG]] beladen zu haben. Die Fahrt endete laut Frachtbrief in der [[address|Austinstraße 25/19, 6280 Zell am Ziller]].
+Die Zeugin [[person|Danila Timkovic]], Disponentin der [[organization|Fraenkel Logistik e.U.]], [[company_register_number|FN 133860d]], UID [[tax_id|ATU27006824]], bestätigte, am [[date|14. Oktober 2026]] den Lkw mit dem Kennzeichen [[license_plate|SZ-3PG]] beladen zu haben. Die Fahrt endete laut Frachtbrief in der [[address|Austinstraße 25/19, 6280 Zell am Ziller]].
 
 Frau [[person|Irmfriede Weisz]] gab an, den Vorgang aus dem Lager beobachtet zu haben, ohne jedoch den Stempel selbst gesehen zu haben.
 

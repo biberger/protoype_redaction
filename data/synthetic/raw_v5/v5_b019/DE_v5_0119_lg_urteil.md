@@ -29,7 +29,7 @@ gegen
 
 2. den Beklagten zu 2) [[person|Amand Münch]],
 
-3. die Beklagte zu 3) [[organization|Bakić Hausverwaltung AG]], HRB [[company_register_number|70823 B]], vertreten durch die Vorständin [[person|Nada Bacic]],
+3. die Beklagte zu 3) [[organization|Bakić Hausverwaltung AG]], [[company_register_number|HRB 70823 B]], vertreten durch die Vorständin [[person|Nada Bacic]],
 
 hat das [[court|Landgericht Hamburg]], Zivilkammer 23, auf die mündliche Verhandlung vom [[date|3. Februar 2026]] durch die Vorsitzende Richterin am Landgericht [[judge|Fränzi Spindler]], die Richterin am Landgericht [[judge|Berthilde Neubert]], die Richterin am Landgericht [[judge|Margrete Volk]] sowie den Handelsrichter [[judge|Pierpaolo Vignali]] für Recht erkannt:
 

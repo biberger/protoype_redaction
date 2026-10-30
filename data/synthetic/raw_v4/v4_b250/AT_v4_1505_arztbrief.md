@@ -38,7 +38,7 @@ Arbeitsfähigkeit: Herr [[person|Falk]] ist bis einschließlich [[date|30. Juni 
 
 Der Unfall ist dem [[organization|Sozialministeriumservice]] ([[organization|SMS]]) zu melden. Rechtsanwältin [[lawyer|Rolanda Rosen]] hat um Übermittlung dieses Berichts ersucht. Die Rechtsanwältin [[lawyer|Rosen]] wird in dieser Angelegenheit die weitere Korrespondenz führen; Rückfragen zu Befund und Therapie richten Sie bitte an uns. Der Patient hat der Weitergabe dieses Berichts an Sie als Dienstgeber schriftlich zugestimmt.
 
-Für Rückfragen zum Betrieb der [[organization|Griebler Elektro KG]] (FN [[company_register_number|550441y]], UID-Nr. [[tax_id|ATU70888550]]) steht die Kanzlei unter [[email|kanzlei@griebler.at]] zur Verfügung. Die [[organization|Dworak Reinigungs GmbH & Co KG]] (FN [[company_register_number|142593x]], UID-Nr. [[tax_id|ATU76682564]]) erhält diesen Bericht zur Kenntnis.
+Für Rückfragen zum Betrieb der [[organization|Griebler Elektro KG]] ([[company_register_number|FN 550441y]], UID-Nr. [[tax_id|ATU70888550]]) steht die Kanzlei unter [[email|kanzlei@griebler.at]] zur Verfügung. Die [[organization|Dworak Reinigungs GmbH & Co KG]] ([[company_register_number|FN 142593x]], UID-Nr. [[tax_id|ATU76682564]]) erhält diesen Bericht zur Kenntnis.
 
 Die Kosten der ambulanten Behandlung sind nach Erhalt der Rechnung auf das Konto IBAN [[bank_account|AT11 0385 9012 0043 8669]] der Ambulanz zu überweisen.
 

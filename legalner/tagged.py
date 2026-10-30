@@ -307,6 +307,10 @@ def lint(text, spans, fname):
         if label in ("person", "judge", "lawyer") and DEGREE_BEFORE.search(text, max(0, s - 25), s):
             line = text.count("\n", 0, s) + 1
             warnings.append(f"{fname}:{line}: degree outside {label} span {surface!r}")
+    for label, s, e, surface in spans:  # "FN [[company_register_number|531927x]]": the prefix belongs inside
+        if label == "company_register_number" and re.search(r"(?<![\w.])(?:FN|HRB|HRA)\s$", text[max(0, s - 5):s]):
+            line = text.count("\n", 0, s) + 1
+            warnings.append(f"{fname}:{line}: register prefix outside span {surface!r}")
     for m in CONTACT.finditer(text):
         g = 1 if m.group(1) else 2
         if not any(covered[m.start(g):m.end(g)]):

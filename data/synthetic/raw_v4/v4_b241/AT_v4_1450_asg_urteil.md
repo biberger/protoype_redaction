@@ -11,7 +11,7 @@ Geschäftszahl [[case_number|9 Cga 118/26d]]
 
 IM NAMEN DER REPUBLIK
 
-Das [[court|Arbeits- und Sozialgericht Wien]] hat durch die Vorsitzende [[judge|Almaz Maza]] sowie die fachkundigen Laienrichter [[judge|Greta Fein]] (Arbeitnehmerseite) und [[judge|Dr. Sacharja Adametz]] (Arbeitgeberseite) in der Arbeitsrechtssache der klagenden Partei [[person|Ing. A***** S*****]], [[address|Nocksteig 20, 8490 Bad Radkersburg]], vertreten durch [[lawyer|Lotharius Garat]], Rechtsanwalt in [[location|Wien]], gegen die beklagte Partei [[organization|Hörhan Haustechnik GmbH]], FN [[company_register_number|325875d]], vertreten durch [[lawyer|Crispinus Eberl]], Rechtsanwalt in [[location|Wien]], wegen 14.820,45 EUR brutto sA, in nichtöffentlicher Sitzung zu Recht erkannt:
+Das [[court|Arbeits- und Sozialgericht Wien]] hat durch die Vorsitzende [[judge|Almaz Maza]] sowie die fachkundigen Laienrichter [[judge|Greta Fein]] (Arbeitnehmerseite) und [[judge|Dr. Sacharja Adametz]] (Arbeitgeberseite) in der Arbeitsrechtssache der klagenden Partei [[person|Ing. A***** S*****]], [[address|Nocksteig 20, 8490 Bad Radkersburg]], vertreten durch [[lawyer|Lotharius Garat]], Rechtsanwalt in [[location|Wien]], gegen die beklagte Partei [[organization|Hörhan Haustechnik GmbH]], [[company_register_number|FN 325875d]], vertreten durch [[lawyer|Crispinus Eberl]], Rechtsanwalt in [[location|Wien]], wegen 14.820,45 EUR brutto sA, in nichtöffentlicher Sitzung zu Recht erkannt:
 
 Spruch
 

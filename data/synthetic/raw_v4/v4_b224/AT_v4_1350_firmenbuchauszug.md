@@ -9,7 +9,7 @@ Firmenbuchgericht: [[court|Landesgericht St. Pölten]]
 Abfragezeitpunkt: [[date|22. Oktober 2026]], 09:14 Uhr
 Gebühr: € 9,00
 
-FN [[company_register_number|577958p]]
+[[company_register_number|FN 577958p]]
 
 Firma: Karlstettner Bau- und Vermietungs GmbH
 Rechtsform: Gesellschaft mit beschränkter Haftung

@@ -5,13 +5,13 @@ lang: de
 ---
 [[organization|KRAL GMBH & CO KG]]
 [[address|SEPP-GRÜNBACHER-PROMENADE 24/1, 8754 PÖLS-OBERKURZHEIM]]
-FN [[company_register_number|629117y]] · UID [[tax_id|ATU41750226]]
+[[company_register_number|FN 629117y]] · UID [[tax_id|ATU41750226]]
 
 DIENSTZEUGNIS
 
 Frau [[person|DDr. Negar Kiouar, LL.M. (Harvard)]], geboren am [[date|11.05.1988]], Versicherungsnummer [[social_security_number|7125 231111]], war vom [[date|1. Oktober 2019]] bis zum [[date|31. Juli 2026]] bei der [[organization|Kral GmbH & Co KG]] beschäftigt.
 
-Frau [[person|Kiouar]] war in dieser Zeit eine verlässliche und geschätzte Mitarbeiterin im Rechnungswesen und im Projektcontrolling und war im Urlaubsfall für die Vertretung der Abteilungsleitung vorgesehen. Sie war zunächst als Controllerin im Rechnungswesen tätig und übernahm ab [[date|1. Juni 2022]] die Leitung des Projektcontrollings. In dieser Funktion verantwortete sie die Budgetplanung für drei Standorte, die Abstimmung mit den Auftraggebern und die Berichterstattung an die Geschäftsführung. Dabei erarbeitete sie eigenständig die Kalkulationsmodelle für die Kooperationsprojekte mit der [[organization|Bogner & Tanhofer OG]] (FN [[company_register_number|244429f]], UID [[tax_id|ATU95804978]]), die seit dem Jahr 2023 laufen.
+Frau [[person|Kiouar]] war in dieser Zeit eine verlässliche und geschätzte Mitarbeiterin im Rechnungswesen und im Projektcontrolling und war im Urlaubsfall für die Vertretung der Abteilungsleitung vorgesehen. Sie war zunächst als Controllerin im Rechnungswesen tätig und übernahm ab [[date|1. Juni 2022]] die Leitung des Projektcontrollings. In dieser Funktion verantwortete sie die Budgetplanung für drei Standorte, die Abstimmung mit den Auftraggebern und die Berichterstattung an die Geschäftsführung. Dabei erarbeitete sie eigenständig die Kalkulationsmodelle für die Kooperationsprojekte mit der [[organization|Bogner & Tanhofer OG]] ([[company_register_number|FN 244429f]], UID [[tax_id|ATU95804978]]), die seit dem Jahr 2023 laufen.
 
 Frau [[person|Kiouar]] hat die ihr übertragenen Aufgaben stets zu unserer vollsten Zufriedenheit erledigt. Ihre fachliche Kompetenz, ihre rechtliche Ausbildung und ihre analytische Genauigkeit haben das Team wesentlich bereichert. Sie arbeitete selbständig, verlässlich und mit hoher Sorgfalt, auch unter engen Terminen.
 

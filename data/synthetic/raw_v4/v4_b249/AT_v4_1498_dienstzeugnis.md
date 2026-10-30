@@ -3,7 +3,7 @@ doc_type: dienstzeugnis
 jurisdiction: AT
 lang: de
 ---
-[[organization|PRADER LOGISTIK OG]] · FN [[company_register_number|163305f]] · UID [[tax_id|ATU89565845]]
+[[organization|PRADER LOGISTIK OG]] · [[company_register_number|FN 163305f]] · UID [[tax_id|ATU89565845]]
 [[address|ROLLFÄHRENSIEDLUNG SCHILLWEG 18, 3100 SANKT PÖLTEN]]
 BÜRO [[location|GRAZ]] TEL. [[phone_number|0316 766 1030]] · [[email|office@prader.at]]
 
@@ -11,7 +11,7 @@ DIENSTZEUGNIS
 
 Herr [[person|Ulfried Jovanović]], geboren am [[date|14.02.1981]], Versicherungsnummer [[social_security_number|8247 281285]], war vom [[date|1. März 2022]] bis zum [[date|31. Juli 2026]] in unserem Unternehmen beschäftigt. Herr [[person|Jovanović]] wurde zunächst als Lagerarbeiter eingesetzt und übernahm mit [[date|1. Juli 2023]] die Leitung der Frühschicht im Lager [[location|Sankt Pölten]].
 
-Zuvor war Herr [[person|Jovanović]] bei der [[organization|Bischof & Jones e.U.]] (FN [[company_register_number|415988y]], UID [[tax_id|ATU15540190]]) tätig. Deren Betrieb ist mit Wirkung vom [[date|1. März 2022]] im Wege eines Betriebsübergangs gemäß [[legal_norm|§ 3 AVRAG]] auf uns übergegangen, wobei die Dienstverhältnisse der übernommenen Arbeitnehmer unverändert fortbestanden.
+Zuvor war Herr [[person|Jovanović]] bei der [[organization|Bischof & Jones e.U.]] ([[company_register_number|FN 415988y]], UID [[tax_id|ATU15540190]]) tätig. Deren Betrieb ist mit Wirkung vom [[date|1. März 2022]] im Wege eines Betriebsübergangs gemäß [[legal_norm|§ 3 AVRAG]] auf uns übergegangen, wobei die Dienstverhältnisse der übernommenen Arbeitnehmer unverändert fortbestanden.
 
 Die Anrechnung der Vordienstzeiten bei der [[organization|Bischof & Jones e.U.]] erfolgt in vollem Umfang, da die Tätigkeit im Lager dieselbe war und der Standort in [[location|Sankt Pölten]] nach dem Übergang unverändert blieb. Die Dienstzeiten vor dem [[date|1. März 2022]] sind daher in den Gesamtzeitraum einzurechnen. Eine Unterbrechung des Dienstverhältnisses hat es zu keinem Zeitpunkt gegeben.
 

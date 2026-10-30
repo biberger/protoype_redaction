@@ -40,6 +40,6 @@ Begründung
 
 Die Abgabepflichtige [[person|Scheidl]] hat am [[date|2. Juni 2026]] ihre Einkommensteuererklärung für das Jahr 2025 elektronisch eingereicht. Die Erklärung wurde durch die Vertreterin [[lawyer|Cäzilie Probst]], Rechtsanwältin in [[location|Graz]], ergänzt.
 
-Die [[organization|Kröll & Knaller GmbH]], [[address|Industriestraße 9, 8200 Gleisdorf]], FN [[company_register_number|478554g]], UID [[tax_id|ATU44635249]], hat die Lohnzettel übermittelt. Die Auszahlende Stelle wurde durch [[person|Erfried Plattner]], Geschäftsführer, vertreten.
+Die [[organization|Kröll & Knaller GmbH]], [[address|Industriestraße 9, 8200 Gleisdorf]], [[company_register_number|FN 478554g]], UID [[tax_id|ATU44635249]], hat die Lohnzettel übermittelt. Die Auszahlende Stelle wurde durch [[person|Erfried Plattner]], Geschäftsführer, vertreten.
 
 Mit Vorhalt vom [[date|21. Juli 2026]] wurde die Abgabepflichtige aufgefordert, die Belege zu den Werbungskosten vorzulegen. Der Vorhalt wurde am [[date|11. August 2026]] beantwortet. Die Werbungskosten gliedern sich wie folgt:

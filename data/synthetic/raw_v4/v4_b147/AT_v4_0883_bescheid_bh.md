@@ -42,7 +42,7 @@ Die Amtssachverständige [[person|Agnita Öttl]] erstattete ihr Gutachten am [[d
 
 Zur Überprüfung der gewerberechtlichen Zuverlässigkeit wurde der Versicherungsverlauf der Geschäftsführerin [[person|Jacobs]] (SV-Nr. [[social_security_number|2755 010601]]) eingeholt; er ergab keine Auffälligkeiten.
 
-Die [[organization|Altenburger Event OG]], [[company_register_number|FN 330452i]], UID [[tax_id|ATU47284273]], mit dem Sitz [[address|Am Bahndamm 17/1, 9545 Radenthein]], hat die Veranstaltung ausgerichtet und wurde als Partei beigezogen. Der Getränkeausschank erfolgte durch die [[organization|Meidl & Neumeister GmbH]] (FN [[company_register_number|511926h]], UID [[tax_id|ATU00962574]]).
+Die [[organization|Altenburger Event OG]], [[company_register_number|FN 330452i]], UID [[tax_id|ATU47284273]], mit dem Sitz [[address|Am Bahndamm 17/1, 9545 Radenthein]], hat die Veranstaltung ausgerichtet und wurde als Partei beigezogen. Der Getränkeausschank erfolgte durch die [[organization|Meidl & Neumeister GmbH]] ([[company_register_number|FN 511926h]], UID [[tax_id|ATU00962574]]).
 
 Rechtliche Beurteilung
 

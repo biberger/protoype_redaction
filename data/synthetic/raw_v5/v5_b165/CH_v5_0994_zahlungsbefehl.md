@@ -17,8 +17,8 @@ Gläubigerin: [[organization|Pfau AG]], [[address|Industriestrasse 9, 8003 Züri
 Schuldner:
 
 1. [[person|Kristijan Egić]], wohnhaft [[address|Mühlackerweg 51, 8752 Näfels]]
-2. [[person|Ruhan Atakol]], wohnhaft im Kanton Glarus
-3. [[person|Luigia Zemp]], wohnhaft im Kanton Glarus
+2. [[person|Ruhan Atakol]], wohnhaft im Kanton [[location|Glarus]]
+3. [[person|Luigia Zemp]], wohnhaft im Kanton [[location|Glarus]]
 4. [[person|Antonió Rickenbacher]], wohnhaft [[address|Lagerstrasse 3, 3215 Champagny]]
 
 Der Betreibungsbeamte, [[person|Urs Brunner]], stellt auf Begehren der Gläubigerin gestützt auf [[legal_norm|Art. 69 SchKG]] folgenden Zahlungsbefehl aus:

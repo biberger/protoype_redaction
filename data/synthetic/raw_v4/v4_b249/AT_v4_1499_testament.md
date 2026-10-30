@@ -15,11 +15,11 @@ II. Vermächtnisse
 
 1. Das Vermächtnis an [[person|Ing. Arsen Rauter]], wohnhaft in [[address|Prunnlehenstraße 6, 3931 Schweiggers]], umfasst meine Liegenschaft [[land_register_id|EZ 1437 KG 46127 Altschwendt]] samt Garten, Nebengebäude und der darauf befindlichen Fahrnisse. Er soll die Liegenschaft ohne Auflage übernehmen.
 
-2. Meine Gesellschafterforderung gegen die [[organization|Landauer Energie OG]] (FN [[company_register_number|84842v]], UID [[tax_id|ATU52186192]]) in Höhe von 23.900 EUR gehört zum Nachlass und ist dem Testamentsvollstrecker zur Einziehung zu übergeben.
+2. Meine Gesellschafterforderung gegen die [[organization|Landauer Energie OG]] ([[company_register_number|FN 84842v]], UID [[tax_id|ATU52186192]]) in Höhe von 23.900 EUR gehört zum Nachlass und ist dem Testamentsvollstrecker zur Einziehung zu übergeben.
 
-3. Die Honorarforderung gegen die [[organization|Marchart & Zettl e.U.]] (FN [[company_register_number|55374h]], UID [[tax_id|ATU94588937]]) aus dem Projekt in [[location|Schweiggers]] ist gleichfalls einzuziehen. Erlöse daraus sind dem Nachlass zuzuführen.
+3. Die Honorarforderung gegen die [[organization|Marchart & Zettl e.U.]] ([[company_register_number|FN 55374h]], UID [[tax_id|ATU94588937]]) aus dem Projekt in [[location|Schweiggers]] ist gleichfalls einzuziehen. Erlöse daraus sind dem Nachlass zuzuführen.
 
-4. Ansprüche aus meinem Dienstverhältnis bei der [[organization|Ciesielski & Frimmel GmbH]] (FN [[company_register_number|479740a]], UID [[tax_id|ATU16427702]]) gehören ebenfalls zum Nachlass. Der Testamentsvollstrecker hat etwaige Rückstände bei der Gesellschaft geltend zu machen. Werden Ansprüche bestritten, so ist der Rechtsweg nur zu beschreiten, wenn die Erfolgsaussichten überwiegen und der Nachlass dafür ausreichend Mittel bereitstellt. Ein Vergleich, der weniger als drei Viertel der Forderung erbringt, ist nicht zu schließen.
+4. Ansprüche aus meinem Dienstverhältnis bei der [[organization|Ciesielski & Frimmel GmbH]] ([[company_register_number|FN 479740a]], UID [[tax_id|ATU16427702]]) gehören ebenfalls zum Nachlass. Der Testamentsvollstrecker hat etwaige Rückstände bei der Gesellschaft geltend zu machen. Werden Ansprüche bestritten, so ist der Rechtsweg nur zu beschreiten, wenn die Erfolgsaussichten überwiegen und der Nachlass dafür ausreichend Mittel bereitstellt. Ein Vergleich, der weniger als drei Viertel der Forderung erbringt, ist nicht zu schließen.
 
 5. Die Tabelle unter Abschnitt IV ist für den Testamentsvollstrecker verbindlich nur insoweit, als sie die Konten betrifft; die übrigen Werte sind zu überprüfen, bevor sie verwertet werden. Der Pkw ist zu einem marktüblichen Preis zu verkaufen, sofern nicht ein Erbe ihn übernehmen möchte.
 

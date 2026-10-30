@@ -8,7 +8,7 @@ Geschäftszahl [[case_number|19 Cg 74/26t]]
 
 **Beschluss**
 
-Das [[court|Handelsgericht Wien]] hat durch die Richterin [[judge|Frauke Ascher]] in der Handelssache der klagenden Partei [[organization|Bartsch OG]] (FN [[company_register_number|368439y]], UID-Nr. [[tax_id|ATU37958910]]), [[address|Rollfährensiedlung Neuweg 3/5, 3322 Viehdorf]], vertreten durch die Gesellschafterin [[person|Piroschka Gattringer]], gegen die beklagte Partei [[organization|Stadelmann GmbH]] (FN [[company_register_number|640743w]], UID-Nr. [[tax_id|ATU32928614]]), [[address|Schiltenbergstraße 3, 4263 Windhaag bei Freistadt]], vertreten durch den Geschäftsführer [[person|MMag. Tilmann Moosbrugger]], wegen Zahlung von 84.300,00 EUR sA beschlossen:
+Das [[court|Handelsgericht Wien]] hat durch die Richterin [[judge|Frauke Ascher]] in der Handelssache der klagenden Partei [[organization|Bartsch OG]] ([[company_register_number|FN 368439y]], UID-Nr. [[tax_id|ATU37958910]]), [[address|Rollfährensiedlung Neuweg 3/5, 3322 Viehdorf]], vertreten durch die Gesellschafterin [[person|Piroschka Gattringer]], gegen die beklagte Partei [[organization|Stadelmann GmbH]] ([[company_register_number|FN 640743w]], UID-Nr. [[tax_id|ATU32928614]]), [[address|Schiltenbergstraße 3, 4263 Windhaag bei Freistadt]], vertreten durch den Geschäftsführer [[person|MMag. Tilmann Moosbrugger]], wegen Zahlung von 84.300,00 EUR sA beschlossen:
 
 I. Zur Klärung der Frage, ob die von der Klägerin am [[date|11. Juni 2025]] gelieferte Lüftungsanlage mangelhaft ist, wird ein Sachverständigengutachten aus dem Fachgebiet Gebäudetechnik eingeholt. Die Auswahl des Sachverständigen erfolgt nach [[legal_norm|§ 351 ZPO]] durch das Gericht.
 

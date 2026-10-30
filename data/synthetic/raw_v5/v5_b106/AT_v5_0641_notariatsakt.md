@@ -14,9 +14,9 @@ NOTARIATSAKT
 I. Vertragsparteien
 
 1. [[organization|Karagiannis & Wai-
-bel GmbH & Co KG]], FN [[company_register_number|358825i]], UID-Nr. [[tax_id|ATU80843964]], vertreten durch die Geschäftsführerin ihrer Komplementärin [[person|Zizi Eder]], als Verkäuferin;
+bel GmbH & Co KG]], [[company_register_number|FN 358825i]], UID-Nr. [[tax_id|ATU80843964]], vertreten durch die Geschäftsführerin ihrer Komplementärin [[person|Zizi Eder]], als Verkäuferin;
 
-2. [[organization|Studnička Autohaus AG]], FN [[company_register_number|375954z]], UID-Nr. [[tax_id|ATU58325501]], mit Sitz [[address|Klausener Weg 7/7, 54l1 Oberalm]], vertreten durch den Vorstand [[person|Dr. Rodrigo Meisel]] und den Prokuristen [[person|Hubert van der Heyden]], als Käuferin.
+2. [[organization|Studnička Autohaus AG]], [[company_register_number|FN 375954z]], UID-Nr. [[tax_id|ATU58325501]], mit Sitz [[address|Klausener Weg 7/7, 54l1 Oberalm]], vertreten durch den Vorstand [[person|Dr. Rodrigo Meisel]] und den Prokuristen [[person|Hubert van der Heyden]], als Käuferin.
 
 II. Gegenstand
 

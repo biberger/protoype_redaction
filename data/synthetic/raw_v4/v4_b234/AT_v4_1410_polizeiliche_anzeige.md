@@ -11,13 +11,13 @@ Anzeige gemäß [[legal_norm|§ 80 StPO]]
 
 Betreff: Diebstahl; Beschuldigter [[person|Rahim Atassi]], [[address|Tummelplatzweg 24/18, 3762 Ludweis-Aigen]], SV-Nr. [[social_security_number|5713 230466]]
 
-Am [[date|3. März 2026]] um 14:20 Uhr wurden bei der [[organization|Ramsauer GmbH & Co KG]], FN [[company_register_number|53808f]], UID-Nr. [[tax_id|ATU01526394]], mit Sitz in [[address|Ernst-Koref-Promenade 8, 8074 Raaba]], ein Kompressor und drei Akkubohrmaschinen entwendet. Die Anzeige erstattete die Personalverantwortliche [[person|Mag. Ada Hohenberger]] am [[date|04.03.2026]].
+Am [[date|3. März 2026]] um 14:20 Uhr wurden bei der [[organization|Ramsauer GmbH & Co KG]], [[company_register_number|FN 53808f]], UID-Nr. [[tax_id|ATU01526394]], mit Sitz in [[address|Ernst-Koref-Promenade 8, 8074 Raaba]], ein Kompressor und drei Akkubohrmaschinen entwendet. Die Anzeige erstattete die Personalverantwortliche [[person|Mag. Ada Hohenberger]] am [[date|04.03.2026]].
 
 Der Beschuldigte [[person|Atassi]] war bis [[date|27.02.2026]] als Monteur bei der Firma beschäftigt. Er wurde am [[date|3. März 2026]] gegen 16:05 Uhr mit dem Firmenfahrzeug, Kennzeichen [[license_plate|GU-817K]], auf der Landesstraße in Richtung Ludweis angehalten. Im Laderaum wurden die Werkzeuge vorgefunden.
 
 Der Zeuge [[person|Mansur Rami]] gab an, er habe den Beschuldigten am frühen Nachmittag des [[date|03.03.2026]] beim Verladen beobachtet. Der Zeuge [[person|Barnabas Lechner]] bestätigte dies.
 
-Die Bauleiterin [[person|DI Sanna Linder, BSc]] der [[organization|Bacher & Stock GmbH & Co KG]], FN [[company_register_number|329929s]], UID-Nr. [[tax_id|ATU02524731]], teilte mit, dass die Werkzeuge der Firma Ramsauer leihweise auf der Baustelle lagerten. Der Geschäftsführer [[person|Ing. Rus Allais]] bestätigte die Leihvereinbarung.
+Die Bauleiterin [[person|DI Sanna Linder, BSc]] der [[organization|Bacher & Stock GmbH & Co KG]], [[company_register_number|FN 329929s]], UID-Nr. [[tax_id|ATU02524731]], teilte mit, dass die Werkzeuge der Firma Ramsauer leihweise auf der Baustelle lagerten. Der Geschäftsführer [[person|Ing. Rus Allais]] bestätigte die Leihvereinbarung.
 
 Der Nachbar [[person|Dominik von der Haar]] hat am Abend des [[date|3. März 2026]] ein Fahrzeug vor dem Lager beobachtet, konnte das Kennzeichen jedoch nicht erkennen.
 

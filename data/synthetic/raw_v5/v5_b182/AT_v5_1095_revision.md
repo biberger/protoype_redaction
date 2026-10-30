@@ -15,12 +15,12 @@ An den
 GZ: [[case_number|2 R 61/26y]] ([[court|Oberlandesgericht Wien]])
 GZ erster Instanz: [[case_number|25 Cg 118/25t]] ([[court|Handelsgericht Wien]])
 
-[[organization|Schreiber Elektro GmbH]], FN [[company_register_number|548421b]], UID [[tax_id|ATU42195986]], [[address|Schallautzerstraße 3/14,
+[[organization|Schreiber Elektro GmbH]], [[company_register_number|FN 548421b]], UID [[tax_id|ATU42195986]], [[address|Schallautzerstraße 3/14,
 7422 Riedlingsdorf]], vertreten durch den Geschäftsführer [[person|Tiano Colman]],
 
 gegen
 
-[[organization|Spiel Immobilien AG]], FN [[company_register_number|142441y]], UID [[tax_id|ATU87310552]], [[address|Neukräftengasse 10/9,
+[[organization|Spiel Immobilien AG]], [[company_register_number|FN 142441y]], UID [[tax_id|ATU87310552]], [[address|Neukräftengasse 10/9,
 3691 Nöchling]], vertreten durch [[person|MMag. Bahar Rutz]], Prokuristin,
 
 wegen Zahlung von 61.540,00 EUR samt Zinsen

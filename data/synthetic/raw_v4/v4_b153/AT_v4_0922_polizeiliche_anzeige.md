@@ -12,14 +12,14 @@ ANZEIGE gemäß [[legal_norm|§ 80 StPO]]
 
 Aufgenommen am [[date|12.03.2026]] um 9:40 Uhr von Insp. [[person|Friedlinde Pfeiler, BSc]]
 
-Anzeiger: [[person|Kilian Tomek]], Geschäftsführer der [[organization|Thun Gastro GmbH]], FN [[company_register_number|173138s]], UID [[tax_id|ATU49359625]], Sitz [[address|Rotundenallee 19,
+Anzeiger: [[person|Kilian Tomek]], Geschäftsführer der [[organization|Thun Gastro GmbH]], [[company_register_number|FN 173138s]], UID [[tax_id|ATU49359625]], Sitz [[address|Rotundenallee 19,
 8770 Sankt Michael in Obersteiermark]]
 
 Beschuldigter: [[person|Answald Beyer]], wohnhaft [[address|Wohnstraße 47, 4222 Sankt Georgen an der Gusen]], SV-Nr. [[social_security_number|2149 081215]]. Er wird von der Rechtsanwältin [[lawyer|Samsara Hagmann]] vertreten.
 
-Zeuge: [[person|Rene Angerer]], Mitarbeiter der [[organization|Dietrich & Reinhardt OG]] (FN [[company_register_number|325783v]], UID [[tax_id|ATU76134014]]).
+Zeuge: [[person|Rene Angerer]], Mitarbeiter der [[organization|Dietrich & Reinhardt OG]] ([[company_register_number|FN 325783v]], UID [[tax_id|ATU76134014]]).
 
-Weiterer Zeuge: [[person|Raimer Zehetmayer]], Geschäftsführer der [[organization|Celler GmbH]] (FN [[company_register_number|383767p]], UID [[tax_id|ATU06654645]]), Sitz [[address|Paulustorgasse 6, 3253 Erlauf]].
+Weiterer Zeuge: [[person|Raimer Zehetmayer]], Geschäftsführer der [[organization|Celler GmbH]] ([[company_register_number|FN 383767p]], UID [[tax_id|ATU06654645]]), Sitz [[address|Paulustorgasse 6, 3253 Erlauf]].
 
 Sachverhalt:
 

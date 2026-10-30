@@ -13,7 +13,7 @@ PROTOKOLL
 aufgenommen in der Tagsatzung vom [[date|14.04.2026]]
 
 Anwesend:
-für die klagende Partei [[organization|Schipper Logistik AG]], FN [[company_register_number|94821v]], UID-Nr. [[tax_id|ATU23318899]], Sitz [[address|Obere Hafnerzeile 4, 3664 Martinsberg]], Telefon [[phone_number|+43 732 7576442]]: Geschäftsführerin [[person|Gitta Forst]]
+für die klagende Partei [[organization|Schipper Logistik AG]], [[company_register_number|FN 94821v]], UID-Nr. [[tax_id|ATU23318899]], Sitz [[address|Obere Hafnerzeile 4, 3664 Martinsberg]], Telefon [[phone_number|+43 732 7576442]]: Geschäftsführerin [[person|Gitta Forst]]
 für die beklagte Partei [[person|Luglio Stockhammer]], wohnhaft [[address|Holzschuhstraße 7/6, 6320 Angerberg]]: Rechtsanwältin [[lawyer|Hasema Pita]]
 Zeuge: [[person|Oral Weisz]], Sozialversicherungsnummer [[social_security_number|1820 090392]]
 Zeugin: [[person|Rike Deutsch]]

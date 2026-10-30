@@ -23,9 +23,9 @@ Auf Antrag der [[organization|Staatsanwaltschaft Würzburg]] vom [[date|8. Septe
 
 I. Sachverhalt
 
-Die [[organization|Brauer & Götz AG]] (HRB [[company_register_number|281627]], [[court|Amtsgericht Hannover]], USt-IdNr. [[tax_id|DE669598423]], Steuernummer [[tax_id|234/796/29755]]) ist Auftraggeberin von Beratungsleistungen. Die Angeschuldigte [[person|Dr.-Ing. Joachim]] war dort als Leiterin des Einkaufs für die Freigabe von Rechnungen zuständig. Der Angeschuldigte [[person|Dr. Moser]] war Prokurist der Gesellschaft.
+Die [[organization|Brauer & Götz AG]] ([[company_register_number|HRB 281627]], [[court|Amtsgericht Hannover]], USt-IdNr. [[tax_id|DE669598423]], Steuernummer [[tax_id|234/796/29755]]) ist Auftraggeberin von Beratungsleistungen. Die Angeschuldigte [[person|Dr.-Ing. Joachim]] war dort als Leiterin des Einkaufs für die Freigabe von Rechnungen zuständig. Der Angeschuldigte [[person|Dr. Moser]] war Prokurist der Gesellschaft.
 
-Die [[organization|Akhlaghi GmbH & Co. KG]] (HRA [[company_register_number|278381 B]], [[court|Amtsgericht Bremen]], USt-IdNr. [[tax_id|DE383960789]], Steuernummer [[tax_id|813/321/66141]]) und die [[organization|Bachem GmbH & Co. KG]] (HRA [[company_register_number|222525 B]], [[court|Amtsgericht Köln]], USt-IdNr. [[tax_id|DE348399703]], Steuernummer [[tax_id|964/3805/7881]]) rechneten über ihre Vertriebsleitung ab. Der Angeschuldigte [[person|Mleczko]] war Vertriebsleiter der [[organization|Akhlaghi GmbH & Co. KG]].
+Die [[organization|Akhlaghi GmbH & Co. KG]] ([[company_register_number|HRA 278381 B]], [[court|Amtsgericht Bremen]], USt-IdNr. [[tax_id|DE383960789]], Steuernummer [[tax_id|813/321/66141]]) und die [[organization|Bachem GmbH & Co. KG]] ([[company_register_number|HRA 222525 B]], [[court|Amtsgericht Köln]], USt-IdNr. [[tax_id|DE348399703]], Steuernummer [[tax_id|964/3805/7881]]) rechneten über ihre Vertriebsleitung ab. Der Angeschuldigte [[person|Mleczko]] war Vertriebsleiter der [[organization|Akhlaghi GmbH & Co. KG]].
 
 Eingangsstempel der Anzeige: [[organization|BRAUER & GÖTZ AG]] – ZENTRALE BUCHHALTUNG – EINGEGANGEN [[date|10.02.2026]]
 

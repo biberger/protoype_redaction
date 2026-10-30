@@ -22,7 +22,7 @@ I. Verfahrensgang
 
 Der Antragsteller [[person|Methodius Schwarz]] ist Staatsangehöriger der [[location|Ukraine]] und wohnt in [[address|Lanzenweg 4/13, 8411 Dobl-Zwaring]]. Er stellte am [[date|14.03.2026]] den Antrag auf Erteilung einer Rot-Weiß-Rot – Karte plus. Dem Antrag legte er einen Führerschein der Klasse B mit der Nummer [[id_document_number|49716714]] bei.
 
-Die [[organization|Breisky Agrar OG]], FN [[company_register_number|391093m]], UID-Nr. [[tax_id|ATU55528414]], mit Sitz [[address|Fuggergasse 24, 8850 Triebendorf]], beschäftigte den Antragsteller bis zum [[date|31.08.2025]]. Seit dem [[date|01.09.2025]] ist er bei der [[organization|Czermak GmbH]], FN [[company_register_number|409613y]], UID-Nr. [[tax_id|ATU62901122]], als Melker angestellt.
+Die [[organization|Breisky Agrar OG]], [[company_register_number|FN 391093m]], UID-Nr. [[tax_id|ATU55528414]], mit Sitz [[address|Fuggergasse 24, 8850 Triebendorf]], beschäftigte den Antragsteller bis zum [[date|31.08.2025]]. Seit dem [[date|01.09.2025]] ist er bei der [[organization|Czermak GmbH]], [[company_register_number|FN 409613y]], UID-Nr. [[tax_id|ATU62901122]], als Melker angestellt.
 
 Am [[date|09.06.2026]] wurde der Antragsteller vor dem [[organization|BFA]] einvernommen. Die Einvernahme führte der Referent [[person|Hugues Salih]]. Die Rechtsberaterin [[person|Lisa Schwärzler]] nahm an der Einvernahme teil. Der Antragsteller legte zur Einvernahme eine Meldebestätigung vom [[date|02.06.2026]] vor, die mit seinem Vorbringen zum Wohnsitz übereinstimmt. Der Antragsteller gab an, dass er seit dem Wechsel im Betrieb der [[organization|Czermak GmbH]] regelmäßig arbeite und über ausreichende Mittel verfüge.
 

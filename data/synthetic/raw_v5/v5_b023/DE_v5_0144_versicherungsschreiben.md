@@ -44,11 +44,11 @@ Die Schadenmeldung der [[organization|Romberg Logistik e.K.]] enthält keine Ang
 
 Angaben zu den Beteiligten
 
-[[organization|Ebert & Schult GmbH]], Sitz [[location|Stuttgart]], HRB [[company_register_number|253666 B]], Amtsgericht [[court|Amtsgericht Stuttgart]], USt-IdNr. [[tax_id|DE423142354]], Steuernummer [[tax_id|95/220/15725]]
+[[organization|Ebert & Schult GmbH]], Sitz [[location|Stuttgart]], [[company_register_number|HRB 253666 B]], Amtsgericht [[court|Amtsgericht Stuttgart]], USt-IdNr. [[tax_id|DE423142354]], Steuernummer [[tax_id|95/220/15725]]
 
-[[organization|Romberg Logistik e.K.]], HRA [[company_register_number|97166]], [[court|Amtsgericht Nürnberg]], USt-IdNr. [[tax_id|DE602156387]], Steuernummer [[tax_id|861/580/88750]]
+[[organization|Romberg Logistik e.K.]], [[company_register_number|HRA 97166]], [[court|Amtsgericht Nürnberg]], USt-IdNr. [[tax_id|DE602156387]], Steuernummer [[tax_id|861/580/88750]]
 
-[[organization|Buchheim e.K.]], HRA [[company_register_number|83676]], [[court|Amtsgericht Bremen]], USt-IdNr. [[tax_id|DE573903555]], Steuernummer [[tax_id|063 024 96617]]
+[[organization|Buchheim e.K.]], [[company_register_number|HRA 83676]], [[court|Amtsgericht Bremen]], USt-IdNr. [[tax_id|DE573903555]], Steuernummer [[tax_id|063 024 96617]]
 
 Mit freundlichen Grüßen
 

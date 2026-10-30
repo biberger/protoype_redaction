@@ -6,7 +6,7 @@ lang: de
 [[organization|HARSÁNYI & ZIRNER OG]]
 FACHÄRZTLICHE ORDINATION [[person|DR. MED. JACQUELINE GOËSS]]
 [[address|BAHNHOFSTRASSE 7, 6900 BREGENZ]]
-FN [[company_register_number|344679g]], UID-Nr. [[tax_id|ATU50436933]]
+[[company_register_number|FN 344679g]], UID-Nr. [[tax_id|ATU50436933]]
 TEL. [[phone_number|+43 5574 430 118]]
 
 ARZTBRIEF
@@ -35,7 +35,7 @@ Frau [[person|Fend]] ist seit dem [[date|5. Juli 2024]] in Behandlung. Damals wu
 
 Anamnese
 
-Frau [[person|Fend]] stellte sich mit zunehmender Müdigkeit, Schwindel beim Aufstehen und Blutzuckerwerten über 300 mg/dl bei der Selbstkontrolle vor. Sie arbeitet als Qualitätskontrolleurin bei der [[organization|Artmann Textil KG]] (FN [[company_register_number|475505y]], UID-Nr. [[tax_id|ATU74048265]]) und hatte in den letzten Wochen mehrfach Arbeitsunfähigkeit wegen der Knieschmerzen. Die Patientin berichtete über Flankenschmerzen rechts, Brennen beim Harnlassen und Frost in den Nächten vor der Aufnahme. Die verordneten Medikamente nimmt sie nach eigenen Angaben regelmäßig ein; die Insulinpen-Handhabung sei ihr aber unsicher erschienen.
+Frau [[person|Fend]] stellte sich mit zunehmender Müdigkeit, Schwindel beim Aufstehen und Blutzuckerwerten über 300 mg/dl bei der Selbstkontrolle vor. Sie arbeitet als Qualitätskontrolleurin bei der [[organization|Artmann Textil KG]] ([[company_register_number|FN 475505y]], UID-Nr. [[tax_id|ATU74048265]]) und hatte in den letzten Wochen mehrfach Arbeitsunfähigkeit wegen der Knieschmerzen. Die Patientin berichtete über Flankenschmerzen rechts, Brennen beim Harnlassen und Frost in den Nächten vor der Aufnahme. Die verordneten Medikamente nimmt sie nach eigenen Angaben regelmäßig ein; die Insulinpen-Handhabung sei ihr aber unsicher erschienen.
 
 Befunde bei Aufnahme
 

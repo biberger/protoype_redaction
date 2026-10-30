@@ -37,7 +37,7 @@ Das Erstgericht stützte den Schuldspruch im Wesentlichen auf die Aussage der Ze
 
 Die Zeugin [[person|Geralde Csar]], Disponentin meines Dienstgebers, hat mit Schreiben vom [[date|16. Jänner 2026]] bestätigt, dass der Lkw mit dem Kennzeichen [[license_plate|OP-53BF]] zur fraglichen Zeit ordnungsgemäß beladen war und die Ladung keinen Einfluss auf die Sicht hatte. Diese Angaben hat das Erstgericht nicht gewürdigt. Die Zeugin hat außerdem ihren Reisepass Nr. [[id_document_number|U6604293]] zur Identifikation vorgelegt, was im Urteil unerwähnt bleibt.
 
-Der Zeuge [[person|Ferdinand van der Heyden]], Lagerarbeiter bei der [[organization|Miklas & Handler AG]] (FN [[company_register_number|539894m]], UID-Nr. [[tax_id|ATU80440603]]), gab an, die Ladung sei am Vormittag des [[date|14. Jänner 2026]] vom Gelände gestellt worden. Nach seiner Darstellung war die Ladefläche zur Abfahrt vollständig verschlossen. Dieses Vorbringen blieb im Urteil ebenso unberücksichtigt wie die Angaben der Lagerleiterin der [[organization|Felzmann Event GmbH]], [[person|Lora Starkl]], die am selben Tag die Anlieferung dokumentierte.
+Der Zeuge [[person|Ferdinand van der Heyden]], Lagerarbeiter bei der [[organization|Miklas & Handler AG]] ([[company_register_number|FN 539894m]], UID-Nr. [[tax_id|ATU80440603]]), gab an, die Ladung sei am Vormittag des [[date|14. Jänner 2026]] vom Gelände gestellt worden. Nach seiner Darstellung war die Ladefläche zur Abfahrt vollständig verschlossen. Dieses Vorbringen blieb im Urteil ebenso unberücksichtigt wie die Angaben der Lagerleiterin der [[organization|Felzmann Event GmbH]], [[person|Lora Starkl]], die am selben Tag die Anlieferung dokumentierte.
 
 2. Zur rechtlichen Beurteilung
 
@@ -49,9 +49,9 @@ Das Gericht hat die Pflichtverletzung zu Unrecht allein aus der Stellung des Lkw
 
 3. Zur Strafbemessung
 
-Hilfsweise beantrage ich, die Geldstrafe herabzusetzen. Ich bin unbescholten, habe mich nach dem Unfall um die Verletzte gekümmert und den Schaden inzwischen vergleichsweise geregelt. Mein monatliches Nettoeinkommen beträgt 1.950 Euro, wie die beiliegenden Lohnzettel belegen. Die Vergleichssumme wurde mit der [[organization|Felzmann Event GmbH]] (FN [[company_register_number|546218m]], UID-Nr. [[tax_id|ATU86822118]]) vereinbart; ihr Geschäftsführer [[person|Dr. Jacub Bauernfeind]] hat die Zahlung bestätigt.
+Hilfsweise beantrage ich, die Geldstrafe herabzusetzen. Ich bin unbescholten, habe mich nach dem Unfall um die Verletzte gekümmert und den Schaden inzwischen vergleichsweise geregelt. Mein monatliches Nettoeinkommen beträgt 1.950 Euro, wie die beiliegenden Lohnzettel belegen. Die Vergleichssumme wurde mit der [[organization|Felzmann Event GmbH]] ([[company_register_number|FN 546218m]], UID-Nr. [[tax_id|ATU86822118]]) vereinbart; ihr Geschäftsführer [[person|Dr. Jacub Bauernfeind]] hat die Zahlung bestätigt.
 
-Der Dienstgeber, die [[organization|Ploner Transport GmbH]] (FN [[company_register_number|20109y]], UID-Nr. [[tax_id|ATU05974800]]), hat mir zugesichert, die Vergleichssumme aus Eigenmitteln zu tragen. Die Verletzte hat ihre Zustimmung zu der Zahlungsvereinbarung schriftlich erklärt. Für eine teilbedingte Strafe nach [[legal_norm|§ 43a Abs 3 StGB]] ist daher eine günstige Prognose zu stellen, weil ich mich künftig an die Verkehrsregeln halten werde.
+Der Dienstgeber, die [[organization|Ploner Transport GmbH]] ([[company_register_number|FN 20109y]], UID-Nr. [[tax_id|ATU05974800]]), hat mir zugesichert, die Vergleichssumme aus Eigenmitteln zu tragen. Die Verletzte hat ihre Zustimmung zu der Zahlungsvereinbarung schriftlich erklärt. Für eine teilbedingte Strafe nach [[legal_norm|§ 43a Abs 3 StGB]] ist daher eine günstige Prognose zu stellen, weil ich mich künftig an die Verkehrsregeln halten werde.
 
 4. Zur Verfahrensführung
 

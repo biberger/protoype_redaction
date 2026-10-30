@@ -5,7 +5,7 @@ lang: de
 ---
 [[organization|Royer Gastro GmbH & Co KG]]
 [[address|Essiggasse 101/15, 8572 Bär nbach]]
-FN [[company_register_number|452632k]], UID [[tax_id|ATU43390282]]
+[[company_register_number|FN 452632k]], UID [[tax_id|ATU43390282]]
 
 An das
 [[court|Landesgericht für Zivilrechtssachen Graz]]

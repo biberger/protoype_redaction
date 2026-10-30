@@ -9,7 +9,7 @@ Polizeiliche Anzeige
 Vorgangsnummer: [[case_number|2026-PS-004711]]
 Aufgenommen am [[date|21.10.2026]], 09:20 Uhr
 
-Anzeigenerstatter: [[person|Venek Slovák]], geboren am [[date|11.04.1979]], wohnhaft [[address|Pörstener Straße 12, 24257 Schwartbuck]], Inhaber der [[organization|Kárpáti & Bassermann e.K.]] (HRA [[company_register_number|91302]], [[court|Amtsgericht Nürnberg]]), Steuernummer [[tax_id|69 306 35696]], Umsatzsteuer-ID [[tax_id|DE815466737]].
+Anzeigenerstatter: [[person|Venek Slovák]], geboren am [[date|11.04.1979]], wohnhaft [[address|Pörstener Straße 12, 24257 Schwartbuck]], Inhaber der [[organization|Kárpáti & Bassermann e.K.]] ([[company_register_number|HRA 91302]], [[court|Amtsgericht Nürnberg]]), Steuernummer [[tax_id|69 306 35696]], Umsatzsteuer-ID [[tax_id|DE815466737]].
 
 Beschuldigter: [[person|Nikolaus Conrad]], wohnhaft [[address|Emil-Kluge-Straße 3, 89617 Untermarchtal]], Versicherungsnummer [[social_security_number|25 170866 W 526]].
 

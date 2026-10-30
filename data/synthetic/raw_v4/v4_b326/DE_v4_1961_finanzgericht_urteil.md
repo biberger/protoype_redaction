@@ -15,7 +15,7 @@ URTEIL
 
 In dem Rechtsstreit
 
-der [[organization|Loum GmbH]], [[address|Rülingstraße 11, 99831 Ifta]], HRB [[company_register_number|185331]] des [[court|Amtsgericht Hamburg]], vertreten durch den Geschäftsführer [[person|Wazlav Münchow]],
+der [[organization|Loum GmbH]], [[address|Rülingstraße 11, 99831 Ifta]], [[company_register_number|HRB 185331]] des [[court|Amtsgericht Hamburg]], vertreten durch den Geschäftsführer [[person|Wazlav Münchow]],
 
 Klägerin,
 
@@ -43,7 +43,7 @@ Tatbestand
 
 Die Klägerin betreibt einen Großhandel mit Textilien und ist unter der Steuernummer [[tax_id|99/515/02693]] sowie der Umsatzsteuer-Identifikationsnummer [[tax_id|DE402199774]] umsatzsteuerlich erfasst. Geschäftsführer ist [[person|Münchow]]. Die Waren werden von einem Lager am [[street|Nebendorfer Weg]] aus versandt; dort werden auch die Übergaben an Speditionen dokumentiert.
 
-Im Streit steht der Abzug von Vorsteuerbeträgen aus Eingangsrechnungen der [[organization|Ohm Consulting GmbH]], HRB [[company_register_number|159821]] des [[court|Amtsgericht Hannover]], [[address|Ogenbarger Kirchstraße 8, 37635 Lüerdissen]], Steuernummer [[tax_id|35/008/07534]], USt-IdNr. [[tax_id|DE289373907]]. Die [[organization|Ohm Consulting GmbH]] erbrachte nach den Rechnungen Beratungsleistungen im Bereich Lagerlogistik.
+Im Streit steht der Abzug von Vorsteuerbeträgen aus Eingangsrechnungen der [[organization|Ohm Consulting GmbH]], [[company_register_number|HRB 159821]] des [[court|Amtsgericht Hannover]], [[address|Ogenbarger Kirchstraße 8, 37635 Lüerdissen]], Steuernummer [[tax_id|35/008/07534]], USt-IdNr. [[tax_id|DE289373907]]. Die [[organization|Ohm Consulting GmbH]] erbrachte nach den Rechnungen Beratungsleistungen im Bereich Lagerlogistik.
 
 Der Beklagte versagte den Vorsteuerabzug mit der Begründung, die Leistungen seien nicht an die Klägerin, sondern an die beigeladene [[organization|Süß GmbH & Co. KG]] erbracht worden. Die beigeladene Gesellschaft sei Empfängerin der Leistungen gewesen; die Klägerin habe die Rechnungen nur weitergeleitet. Die Vorlage von Verträgen sei unterblieben.
 

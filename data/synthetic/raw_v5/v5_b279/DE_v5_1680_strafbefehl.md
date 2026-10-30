@@ -24,9 +24,9 @@ Geldstrafe von 60 Tagessätzen zu je 35 Euro, insgesamt 2.100 Euro.
 
 Tatvorwurf
 
-Sie haben am [[date|14. März 2026]] gegen 17:40 Uhr auf dem Parkplatz der [[organization|Häusler Hausverwaltung GmbH]] in [[location|Köln]] (HRB [[company_register_number|219398 B]], [[court|Amtsgericht Mannheim]], USt-IdNr. [[tax_id|DE388821086]]) den Transporter mit dem Kennzeichen [[license_plate|K P 83]] rangiert. Der Transporter gehört der [[organization|Gabriel Textil e.K.]] (HRA [[company_register_number|45437]], [[court|Amtsgericht Köln]], USt-IdNr. [[tax_id|DE340130238]]). Dabei haben Sie den am Fahrbahnrand stehenden Pkw der Geschädigten [[person|Delfina Dressel]] an der hinteren Stoßstange beschädigt. Den Unfall haben Sie nicht gemeldet, obwohl Sie ihn bemerkt haben; Sie haben sich vom Unfallort entfernt, ohne die Feststellung der Berechtigten zu ermöglichen.
+Sie haben am [[date|14. März 2026]] gegen 17:40 Uhr auf dem Parkplatz der [[organization|Häusler Hausverwaltung GmbH]] in [[location|Köln]] ([[company_register_number|HRB 219398 B]], [[court|Amtsgericht Mannheim]], USt-IdNr. [[tax_id|DE388821086]]) den Transporter mit dem Kennzeichen [[license_plate|K P 83]] rangiert. Der Transporter gehört der [[organization|Gabriel Textil e.K.]] ([[company_register_number|HRA 45437]], [[court|Amtsgericht Köln]], USt-IdNr. [[tax_id|DE340130238]]). Dabei haben Sie den am Fahrbahnrand stehenden Pkw der Geschädigten [[person|Delfina Dressel]] an der hinteren Stoßstange beschädigt. Den Unfall haben Sie nicht gemeldet, obwohl Sie ihn bemerkt haben; Sie haben sich vom Unfallort entfernt, ohne die Feststellung der Berechtigten zu ermöglichen.
 
-Sie waren zu diesem Zeitpunkt für die [[organization|Zeidler & Sancho GmbH & Co. KG]] (HRA [[company_register_number|192022]], [[court|Amtsgericht Köln]], USt-IdNr. [[tax_id|DE240858350]]) im Einsatz.
+Sie waren zu diesem Zeitpunkt für die [[organization|Zeidler & Sancho GmbH & Co. KG]] ([[company_register_number|HRA 192022]], [[court|Amtsgericht Köln]], USt-IdNr. [[tax_id|DE240858350]]) im Einsatz.
 
 Beweismittel
 

@@ -10,16 +10,16 @@ GZ [[case_number|3 E 1245/25b]]
 
 B E S C H L U S S
 
-Das [[court|Bezirksgericht Hartberg]] hat durch die Richterin [[judge|Raingard Bogner]] in der Exekutionssache der betreibenden Partei [[organization|Langthaler & Loacker AG]], FN [[company_register_number|648345z]], UID-Nr. [[tax_id|ATU45209493]], vertreten durch Rechtsanwältin [[lawyer|Ajša Jovanović]], gegen die verpflichtete Partei [[person|Prof. Dr. Dr. Simohamed Evrard, LL.M.]], wohnhaft in [[address|Michaelerstraße 71, 8254 Wenige1l]], zur Verteilung des Erlöses aus der Forderungspfändung beschlossen:
+Das [[court|Bezirksgericht Hartberg]] hat durch die Richterin [[judge|Raingard Bogner]] in der Exekutionssache der betreibenden Partei [[organization|Langthaler & Loacker AG]], [[company_register_number|FN 648345z]], UID-Nr. [[tax_id|ATU45209493]], vertreten durch Rechtsanwältin [[lawyer|Ajša Jovanović]], gegen die verpflichtete Partei [[person|Prof. Dr. Dr. Simohamed Evrard, LL.M.]], wohnhaft in [[address|Michaelerstraße 71, 8254 Wenige1l]], zur Verteilung des Erlöses aus der Forderungspfändung beschlossen:
 
 I. Der Erlös aus der Pfändung der Gehaltsforderung des Verpflichteten wird wie folgt verteilt:
 
 Gläubiger | Forderung | Rang
 [[organization|Langthaler & Loacker AG]] | EUR 18.742,15 | 1
-[[organization|Scherzer GmbH & Co KG]], FN [[company_register_number|544268w]] | EUR 2.310,00 | 2
+[[organization|Scherzer GmbH & Co KG]], [[company_register_number|FN 544268w]] | EUR 2.310,00 | 2
 [[person|Marguerite Thomas]], [[address|Auenweg 16/11, 8072 Fernitz-Mellach]] | EUR 960,00 | 3
 
-II. Die Drittschuldnerin [[organization|Morscher & Prutscher GmbH]], FN [[company_register_number|547217g]], UID-Nr. [[tax_id|ATU62902871]], hat den Erlös binnen 14 Tagen an das Gericht zu überweisen. Die Überweisung ist auf das Konto [[bank_account|AT07 4113 5027 6888 8734]] des Gerichts vorzunehmen.
+II. Die Drittschuldnerin [[organization|Morscher & Prutscher GmbH]], [[company_register_number|FN 547217g]], UID-Nr. [[tax_id|ATU62902871]], hat den Erlös binnen 14 Tagen an das Gericht zu überweisen. Die Überweisung ist auf das Konto [[bank_account|AT07 4113 5027 6888 8734]] des Gerichts vorzunehmen.
 
 Begründung
 

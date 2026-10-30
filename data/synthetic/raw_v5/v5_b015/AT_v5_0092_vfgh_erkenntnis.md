@@ -21,12 +21,12 @@ Begründung
 
 I. Sachverhalt und Antrag
 
-1. Der Antragsteller ist Halter eines Kraftfahrzeugs, das seit dem [[date|3. März 2025]] mit dem Kennzeichen [[license_plate|HL 466 ZN]] zugelassen ist. Das Fahrzeug wurde am [[date|11. Februar 2025]] von der [[organization|Goëss Autohaus KG]], FN [[company_register_number|42128d]], UID-Nr. [[tax_id|ATU84543460]], verkauft. Die [[organization|Bezirkshauptmannschaft Hollabrunn]] untersagte mit Bescheid vom [[date|22. Mai 2025]] die weitere Verwendung bis zur Vorlage eines Gutachtens. Zur Identitätsfeststellung legte der Antragsteller seinen Personalausweis Nr. [[id_document_number|A5932449]] vor.
+1. Der Antragsteller ist Halter eines Kraftfahrzeugs, das seit dem [[date|3. März 2025]] mit dem Kennzeichen [[license_plate|HL 466 ZN]] zugelassen ist. Das Fahrzeug wurde am [[date|11. Februar 2025]] von der [[organization|Goëss Autohaus KG]], [[company_register_number|FN 42128d]], UID-Nr. [[tax_id|ATU84543460]], verkauft. Die [[organization|Bezirkshauptmannschaft Hollabrunn]] untersagte mit Bescheid vom [[date|22. Mai 2025]] die weitere Verwendung bis zur Vorlage eines Gutachtens. Zur Identitätsfeststellung legte der Antragsteller seinen Personalausweis Nr. [[id_document_number|A5932449]] vor.
 
 2. Der Antragsteller behauptet, durch [[legal_norm|§ 40 Abs 4 KFG 1967]] unmittelbar in seinen Rechten verletzt zu sein, weil die Bestimmung die Zulassung von Fahrzeugen an eine Begutachtung knüpft, die ohne Entscheidung im Einzelfall erfolgt. Die Verhandlung ergab, dass die Bestimmung seit der Novelle keine Ausnahme für Fahrzeuge mit ausländischer Vorbegutachtung mehr vorsieht.
 
 3. Die [[organization|Brückler Auto-
-haus GmbH]], FN [[company_register_number|595565g]], UID-Nr. [[tax_id|ATU95630291]], hat eine Äußerung vorgelegt, wonach die Begutachtungspraxis in den letzten Jahren uneinheitlich war. Die Äußerung wurde von [[person|MMag. G***** A*****]], Amtssachverständiger, ergänzt. Der Vertreter der [[organization|Hahn AG]] (FN [[company_register_number|394938t]], UID-Nr. [[tax_id|ATU26790880]]), [[person|MMag. ʾ***** C*****]], bestätigte, dass die [[organization|Hahn AG]] ihren Sitz in [[address|Gaimbergstraße 25, 2024 Mailberg]] hat.
+haus GmbH]], [[company_register_number|FN 595565g]], UID-Nr. [[tax_id|ATU95630291]], hat eine Äußerung vorgelegt, wonach die Begutachtungspraxis in den letzten Jahren uneinheitlich war. Die Äußerung wurde von [[person|MMag. G***** A*****]], Amtssachverständiger, ergänzt. Der Vertreter der [[organization|Hahn AG]] ([[company_register_number|FN 394938t]], UID-Nr. [[tax_id|ATU26790880]]), [[person|MMag. ʾ***** C*****]], bestätigte, dass die [[organization|Hahn AG]] ihren Sitz in [[address|Gaimbergstraße 25, 2024 Mailberg]] hat.
 
 II. Verhandlung
 

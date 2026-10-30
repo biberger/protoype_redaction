@@ -10,7 +10,7 @@ FIRMENBUCHAUSZUG (BEGLAUBIGTE ABSCHRIFT)
 
 Abfragezeitpunkt: [[date|16.10.2026]]
 
-FN [[company_register_number|321036m]]
+[[company_register_number|FN 321036m]]
 
 Firma: [[organization|SEIFERT & SZÉCHÉNYI OG]]
 Sitz: [[location|Übelbach]]
@@ -39,7 +39,7 @@ Die Eintragung erfolgte durch Richter [[judge|Vitalis Lacina]] am [[date|2. Juni
 
 GELÖSCHT NACH VERSCHMELZUNG
 [[organization|TOURE OG]]
-FN [[company_register_number|114876K]]
+[[company_register_number|FN 114876K]]
 BESCHLUSS VOM [[date|19.06.2025]]
 [[court|LG ZIVILRECHTSSACHEN GRAZ]]
 

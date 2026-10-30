@@ -11,7 +11,7 @@ GZ [[case_number|3 C 214/26b]]
 
 IM NAMEN DER REPUBLIK
 
-Das [[court|Bezirksgericht Spittal an der Drau]] hat durch die Richterin [[judge|Ursela Johnson]] in der Rechtssache der klagenden Partei [[organization|Vincenzi Bau AG]] (FN [[company_register_number|174528i]], UID [[tax_id|ATU19926560]]), vertreten durch RA [[lawyer|Christopher Weingarten]], gegen die beklagte Partei [[organization|Callaerts Transport GmbH]] (FN [[company_register_number|341867x]], UID [[tax_id|ATU03927536]]), vertreten durch RA [[lawyer|Enrico Farkas]], wegen 21.650 Euro sA nach der mündlichen Verhandlung vom [[date|17. März 2026]] zu Recht erkannt:
+Das [[court|Bezirksgericht Spittal an der Drau]] hat durch die Richterin [[judge|Ursela Johnson]] in der Rechtssache der klagenden Partei [[organization|Vincenzi Bau AG]] ([[company_register_number|FN 174528i]], UID [[tax_id|ATU19926560]]), vertreten durch RA [[lawyer|Christopher Weingarten]], gegen die beklagte Partei [[organization|Callaerts Transport GmbH]] ([[company_register_number|FN 341867x]], UID [[tax_id|ATU03927536]]), vertreten durch RA [[lawyer|Enrico Farkas]], wegen 21.650 Euro sA nach der mündlichen Verhandlung vom [[date|17. März 2026]] zu Recht erkannt:
 
 Spruch
 
@@ -26,7 +26,7 @@ Entscheidungsgründe
 Die klagende Partei betreibt ein Bauunternehmen in [[location|Greifenburg]] und beauftragte im Sommer 2025 die beklagte Partei mit dem Transport eines Mobilbaggers von [[location|Greifenburg]] auf eine Baustelle in [[location|Lienz]]. Die Beklagte setzte für den Transport ihren Dienstnehmer [[person|Rupert Baldauf]] ein. Dieser lenkte den Sattelzug mit dem Kennzeichen [[license_plate|SP 41 U]]. Er wohnt in [[address|Josefine-Sölder-Straße 5
 9761 Greifenburg]] und legitimierte sich in der Verhandlung mit dem Reisepass Nr. [[id_document_number|X4772147]].
 
-Die [[organization|Russo OG]] (FN [[company_register_number|194604h]], UID [[tax_id|ATU93044839]]) hatte den Bagger zuvor vermietet. Ihre Gesellschafterin [[person|Annelore Bieber, MBA]] übergab das Fahrzeug am Vortag des Transports an die Klägerin. Die Bauleiterin der Klägerin, [[person|Mareike Breisky]], nahm die Übergabe entgegen und bestätigte den Zustand des Baggers schriftlich.
+Die [[organization|Russo OG]] ([[company_register_number|FN 194604h]], UID [[tax_id|ATU93044839]]) hatte den Bagger zuvor vermietet. Ihre Gesellschafterin [[person|Annelore Bieber, MBA]] übergab das Fahrzeug am Vortag des Transports an die Klägerin. Die Bauleiterin der Klägerin, [[person|Mareike Breisky]], nahm die Übergabe entgegen und bestätigte den Zustand des Baggers schriftlich.
 
 Am [[date|12. August 2025]] kam es auf der [[street|Lochlehnstraße]] in [[location|Spittal an der Drau]] beim Abladen zu einem Schaden am Ausleger des Baggers. Der Fahrer hatte die Ladung nicht ausreichend gesichert, weil die Verzurrgurte bei der Abfahrt nur zweimal angezogen worden waren. Der Ausleger wurde verbogen, der Hydraulikzylinder war undicht.
 

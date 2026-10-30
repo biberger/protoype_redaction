@@ -6,7 +6,7 @@ lang: de
 [[organization|KOMŠIĆ METALLBAU GMBH & CO KG]]
 [[address|KOLLWITZSTRASSE 3/14, 5113 SANKT GEORGEN]]
 TEL. [[phone_number|+43 662 3279499]] · [[email|kontakt@komsic.at]]
-FN [[company_register_number|185062a]] · UID-NR. [[tax_id|ATU05789191]]
+[[company_register_number|FN 185062a]] · UID-NR. [[tax_id|ATU05789191]]
 
 **KAUFVERTRAG ÜBER EIN KRAFTFAHRZEUG**
 

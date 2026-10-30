@@ -6,7 +6,7 @@ lang: de
 [[organization|Breier & Legler GmbH]]
 [[address|Felberstraße 16/8, 9813 Lurnfeld]]
 Tel. [[phone_number|+43 650 484 6265]] · E-Mail [[email|verwaltung@breier.at]]
-FN [[company_register_number|369217t]] · UID [[tax_id|ATU10212107]]
+[[company_register_number|FN 369217t]] · UID [[tax_id|ATU10212107]]
 
 DIENSTVERTRAG (ARBEITSVERTRAG)
 
@@ -18,7 +18,7 @@ und
 
 [[person|MMag. Layth Guene]], [[address|Michael-Brandl-Weg 4/15, 3741 Pulkau]], geboren am [[date|02.05.1989]], Sozialversicherungsnummer [[social_security_number|6453 210796]], Lichtbildausweis (Personalausweis) Nr. [[id_document_number|E4037541]] (in der Folge: Dienstnehmer),
 
-sowie der [[organization|Häupl & Röck e.U.]], FN [[company_register_number|37245y]], UID [[tax_id|ATU00796139]], vertreten durch den Inhaber [[person|Univ.-Prof. Dr. Cecco Bruckner, MSc]], als Dritte, die einzelne Leistungen zur Verfügung stellt.
+sowie der [[organization|Häupl & Röck e.U.]], [[company_register_number|FN 37245y]], UID [[tax_id|ATU00796139]], vertreten durch den Inhaber [[person|Univ.-Prof. Dr. Cecco Bruckner, MSc]], als Dritte, die einzelne Leistungen zur Verfügung stellt.
 
 Präambel
 

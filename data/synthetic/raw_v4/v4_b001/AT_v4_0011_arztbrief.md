@@ -6,7 +6,7 @@ lang: de
 [[organization|Stolz & Vukov e.U.]]
 Ordination für Neurologie und Begutachtung
 [[address|Marillenweg 25/6, 3372 Blindenmarkt]]
-FN [[company_register_number|400292s]] · UID [[tax_id|ATU50379923]]
+[[company_register_number|FN 400292s]] · UID [[tax_id|ATU50379923]]
 
 [[person|Dr. Arnulf Hinterreiter]]
 Facharzt für Neurologie und Psychiatrie
@@ -25,7 +25,7 @@ Kontaktperson: [[person|Iginio Ronconi]], wohnhaft [[address|Lammgasse 7/18, 484
 
 Sehr geehrte Frau Kollegin!
 
-Ich berichte Ihnen über die Untersuchung Ihrer Patientin [[person|Sylvana Kos]] am [[date|14. Jänner 2026]] in meiner Ordination. Die Untersuchung erfolgte im Auftrag der [[organization|Kofler Consulting e.U.]] (FN [[company_register_number|291027g]]) im Zusammenhang mit einem Verkehrsunfall vom [[date|9. November 2025]]. Die Patientin war zum Unfallzeitpunkt als Disponentin bei der [[organization|Pühringer Transport e.U.]], FN [[company_register_number|152209m]], [[address|Löwenfeldstraße 16, 5205 Schleedorf]], tätig.
+Ich berichte Ihnen über die Untersuchung Ihrer Patientin [[person|Sylvana Kos]] am [[date|14. Jänner 2026]] in meiner Ordination. Die Untersuchung erfolgte im Auftrag der [[organization|Kofler Consulting e.U.]] ([[company_register_number|FN 291027g]]) im Zusammenhang mit einem Verkehrsunfall vom [[date|9. November 2025]]. Die Patientin war zum Unfallzeitpunkt als Disponentin bei der [[organization|Pühringer Transport e.U.]], [[company_register_number|FN 152209m]], [[address|Löwenfeldstraße 16, 5205 Schleedorf]], tätig.
 
 Anamnese
 

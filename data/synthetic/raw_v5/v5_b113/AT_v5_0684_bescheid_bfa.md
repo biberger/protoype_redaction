@@ -30,13 +30,13 @@ Begründung
 
 I. Verfahrensgang
 
-Der Antragsteller ist serbischer Staatsangehöriger und lebt seit dem Jahr 2021 im Bundesgebiet, und zwar mit Hauptwohnsitz an der Anschrift [[address|Bernoullistraße 11/17, 9931 Außervillgraten]]. Er stellte am [[date|20.10.2025]] den gegenständlichen Antrag, zu dem er als Arbeitgeber die [[organization|Hetzenauer Dachdecker e.U.]], FN [[company_register_number|559514s]], UID [[tax_id|ATU24968202]], angab. Die Firma ist ein Dachdeckerbetrieb mit Sitz in Osttirol und beschäftigte im Jahr 2025 durchschnittlich fünf Arbeitnehmer. Der Antragsteller gab an, auf einer Baustelle auf der [[street|Schlägler-Hauptstraße]] in [[location|Außervillgraten]] eingesetzt worden zu sein.
+Der Antragsteller ist serbischer Staatsangehöriger und lebt seit dem Jahr 2021 im Bundesgebiet, und zwar mit Hauptwohnsitz an der Anschrift [[address|Bernoullistraße 11/17, 9931 Außervillgraten]]. Er stellte am [[date|20.10.2025]] den gegenständlichen Antrag, zu dem er als Arbeitgeber die [[organization|Hetzenauer Dachdecker e.U.]], [[company_register_number|FN 559514s]], UID [[tax_id|ATU24968202]], angab. Die Firma ist ein Dachdeckerbetrieb mit Sitz in Osttirol und beschäftigte im Jahr 2025 durchschnittlich fünf Arbeitnehmer. Der Antragsteller gab an, auf einer Baustelle auf der [[street|Schlägler-Hauptstraße]] in [[location|Außervillgraten]] eingesetzt worden zu sein.
 
 Dem Antrag beigelegt waren ein Arbeitsvertrag, eine Bestätigung der Sozialversicherung und ein Lichtbild. Der Reisepass Nr. [[id_document_number|P3224611]] wurde im Verfahren vorgelegt und im Akt gesichert. Die Behörde forderte den Antragsteller mit Verbesserungsauftrag vom [[date|3. November 2025]] auf, eine Bestätigung über seine Wohnsituation und den Nachweis der Berufsqualifikation nachzureichen.
 
-Der Antragsteller legte am [[date|14.01.2026]] eine Bestätigung der Berufsschule vor. Eine Wohnungsbestätigung wurde nicht vorgelegt, weil der Vermieter des Antragstellers, die Firma [[organization|Flicker GmbH]], FN [[company_register_number|132243a]], UID [[tax_id|ATU22943849]], die Zustimmung zur Meldung an der Anschrift verweigert hatte.
+Der Antragsteller legte am [[date|14.01.2026]] eine Bestätigung der Berufsschule vor. Eine Wohnungsbestätigung wurde nicht vorgelegt, weil der Vermieter des Antragstellers, die Firma [[organization|Flicker GmbH]], [[company_register_number|FN 132243a]], UID [[tax_id|ATU22943849]], die Zustimmung zur Meldung an der Anschrift verweigert hatte.
 
-Am [[date|19.01.2026]] wurde der Antragsteller in den Räumen der Behörde einvernommen. Er gab an, bei der Firma [[organization|Rössler & Brožek AG]], FN [[company_register_number|441161t]], UID [[tax_id|ATU72316978]], beschäftigt gewesen zu sein, das Dienstverhältnis sei jedoch im Dezember 2025 beendet worden.
+Am [[date|19.01.2026]] wurde der Antragsteller in den Räumen der Behörde einvernommen. Er gab an, bei der Firma [[organization|Rössler & Brožek AG]], [[company_register_number|FN 441161t]], UID [[tax_id|ATU72316978]], beschäftigt gewesen zu sein, das Dienstverhältnis sei jedoch im Dezember 2025 beendet worden.
 
 II. Beweiswürdigung
 

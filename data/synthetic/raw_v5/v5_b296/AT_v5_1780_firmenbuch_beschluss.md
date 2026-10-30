@@ -10,7 +10,7 @@ GZ [[case_number|28 R 61/26t]]
 
 Eingangsstempel: [[court|LANDESGERICHT ST. PÖLTEN]] – FIRMENBUCH – EINGANG [[date|04.05.2026]]
 
-[[organization|BLEIBTREU DACHDECKER GMBH & CO KG]], [[address|PROMENADE 5, 3343 HOLLENSTEIN AN DER YBBS]], FN [[company_register_number|587949g]]
+[[organization|BLEIBTREU DACHDECKER GMBH & CO KG]], [[address|PROMENADE 5, 3343 HOLLENSTEIN AN DER YBBS]], [[company_register_number|FN 587949g]]
 
 B E S C H L U S S
 

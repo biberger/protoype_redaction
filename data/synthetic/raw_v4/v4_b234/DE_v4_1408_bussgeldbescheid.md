@@ -35,9 +35,9 @@ Die Geldbuße beträgt 35,00 EUR. Hinzu kommen eine Gebühr von 15,00 EUR und Au
 
 Zur Zuordnung der Zahlung werden folgende Angaben der beteiligten Unternehmen mitgeteilt:
 
-[[organization|Jost KG]], eingetragen im Handelsregister HRA [[company_register_number|25692]] des [[court|Amtsgericht Leipzig]], USt-IdNr. [[tax_id|DE531017090]], Steuernummer [[tax_id|26/590/6045/3]].
+[[organization|Jost KG]], eingetragen im Handelsregister [[company_register_number|HRA 25692]] des [[court|Amtsgericht Leipzig]], USt-IdNr. [[tax_id|DE531017090]], Steuernummer [[tax_id|26/590/6045/3]].
 
-[[organization|Thieme Gastro KG]], eingetragen im Handelsregister HRA [[company_register_number|257243]] des [[court|Amtsgericht Hannover]], USt-IdNr. [[tax_id|DE366269085]], Steuernummer [[tax_id|55/833/82524]].
+[[organization|Thieme Gastro KG]], eingetragen im Handelsregister [[company_register_number|HRA 257243]] des [[court|Amtsgericht Hannover]], USt-IdNr. [[tax_id|DE366269085]], Steuernummer [[tax_id|55/833/82524]].
 
 Zahlung
 

@@ -26,7 +26,7 @@ Angaben zur Person (Fahrerauskunft): [[person|Seibold Türk]], Rentenversicherun
 ARBEITGEBER DES FAHRERS:
 [[organization|STOJKOVIĆ ENERGIE GMBH & CO. KG]]
 [[address|RITTERSTRASSE 14, 04109 LEIPZIG]]
-HRA [[company_register_number|151981]] · [[court|AMTSGERICHT LEIPZIG]] · USt-IdNr. [[tax_id|DE815983267]] · Steuernummer [[tax_id|12 873 02384]]
+[[company_register_number|HRA 151981]] · [[court|AMTSGERICHT LEIPZIG]] · USt-IdNr. [[tax_id|DE815983267]] · Steuernummer [[tax_id|12 873 02384]]
 GESCHÄFTSFÜHRUNG: [[person|PROF. DR. JEREMIE BOUCHER]]
 
 Die Geldbuße beträgt 70 Euro. Hinzu kommen eine Verwaltungsgebühr von 15 Euro und Auslagen von 3,50 Euro, insgesamt 88,50 Euro. Außerdem wird ein Punkt im Fahreignungsregister eingetragen. Eine Ratenzahlung ist auf Antrag möglich; den Antrag stellen Sie bei der Bußgeldstelle. Der Betrag ist innerhalb von zwei Wochen nach Rechtskraft auf das Konto [[bank_account|DE76 8813 4906 6260 4564 30]] der Landkreiskasse zu überweisen.

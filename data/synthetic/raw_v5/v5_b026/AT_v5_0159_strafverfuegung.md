@@ -30,7 +30,7 @@ Begründung
 
 Die Anzeige stammt von einer Gemeindebediensteten, die den Kombi während der Schulwegzeit am [[date|11.05.2026]] beobachtet hat. Die Behörde hat daraufhin am [[date|18.05.2026]] eine Lenkerauskunft nach [[legal_norm|§ 103 Abs 2 KFG 1967]] angefordert, da der Lenker nicht festgestellt werden konnte.
 
-Die Lenkerauskunft der Halterin, der [[organization|Eckhardt GmbH]], FN [[company_register_number|640073i]], UID-Nr. [[tax_id|ATU12159304]], wurde am [[date|29.05.2026]] durch [[person|Mag. Jella Ficker]] erteilt. Darin wurden Sie als Lenker benannt.
+Die Lenkerauskunft der Halterin, der [[organization|Eckhardt GmbH]], [[company_register_number|FN 640073i]], UID-Nr. [[tax_id|ATU12159304]], wurde am [[date|29.05.2026]] durch [[person|Mag. Jella Ficker]] erteilt. Darin wurden Sie als Lenker benannt.
 
 Die Zeugin [[person|Lyaksandra Rusyn]] hat am [[date|12.05.2026]] telefonisch angegeben, dass ein weißer Kombi im Bereich des Schutzweges stand, als sie mit ihren Kindern die Straße überqueren wollte. Die Zeugin [[person|Isabel Weichselbaum]], wohnhaft [[address|Percheinerweg 6/21,
 5612 Hüttschlag]], bestätigte, dass sie das Fahrzeug von der Gegenseite gesehen habe. Die Sachverständige [[person|Dipl.-Ing. Dr. Alessa Lesky, LL.M.]], die als Amtssachverständige für Verkehrstechnik tätig ist, hat auf Grund der Fotodokumentation und eines Ortsaugenscheins vom [[date|25.05.2026]] festgestellt, dass die Sicht auf den Schutzweg aus dem Halteort um etwa 60 Prozent eingeschränkt war.

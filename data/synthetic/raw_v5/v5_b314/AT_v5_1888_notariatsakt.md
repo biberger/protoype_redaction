@@ -21,9 +21,9 @@ Vor mir erschienen zur Errichtung dieser Urkunde:
 
 2. [[person|Mag. Dr. Muneera Aghaei, MAS]], wohnhaft in [[address|Kienzlweg 20, 7051 Großhöflein]], handelnd als Erwerberin der Geschäftsanteile und der Liegenschaft;
 
-3. [[person|MMag. Firu Ilea]], handelnd als Geschäftsführer der [[organization|Pieler & Mahrer GmbH]], mit dem Sitz in [[location|Wiener Neustadt]], eingetragen im Firmenbuch des [[court|Landesgerichts Wiener Neustadt]] unter FN [[company_register_number|334001d]], UID-Nr. [[tax_id|ATU33643634]];
+3. [[person|MMag. Firu Ilea]], handelnd als Geschäftsführer der [[organization|Pieler & Mahrer GmbH]], mit dem Sitz in [[location|Wiener Neustadt]], eingetragen im Firmenbuch des [[court|Landesgerichts Wiener Neustadt]] unter [[company_register_number|FN 334001d]], UID-Nr. [[tax_id|ATU33643634]];
 
-4. [[person|Serpil Gürer]], handelnd als Geschäftsführerin der [[organization|Eidherr Hausverwaltung GmbH]], eingetragen im Firmenbuch unter FN [[company_register_number|176783a]], UID-Nr. [[tax_id|ATU13089110]];
+4. [[person|Serpil Gürer]], handelnd als Geschäftsführerin der [[organization|Eidherr Hausverwaltung GmbH]], eingetragen im Firmenbuch unter [[company_register_number|FN 176783a]], UID-Nr. [[tax_id|ATU13089110]];
 
 5. [[person|Rodolf Huchard]], wohnhaft in [[address|Lindestraße 16/16, 2471 Rohrau]], erreichbar unter [[phone_number|+43 (0)732 689 2015]], handelnd als Verkäufer der Liegenschaft;
 

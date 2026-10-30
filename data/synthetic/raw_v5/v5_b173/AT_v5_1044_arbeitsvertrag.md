@@ -7,7 +7,7 @@ ARBEITSVERTRAG
 
 abgeschlossen zwischen
 
-[[organization|Höfler Installations e.U.]], FN [[company_register_number|52550f]], UID-Nr. [[tax_id|ATU41775664]], mit Sitz in [[location|Lans]], vertreten durch den Inhaber [[person|Floriant Carron]],
+[[organization|Höfler Installations e.U.]], [[company_register_number|FN 52550f]], UID-Nr. [[tax_id|ATU41775664]], mit Sitz in [[location|Lans]], vertreten durch den Inhaber [[person|Floriant Carron]],
 
 im Folgenden kurz Dienstgeber,
 

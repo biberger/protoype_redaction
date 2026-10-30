@@ -8,7 +8,7 @@ lang: de
 Tel. [[phone_number|+43 (0)732 7024958]]
 
 [[organization|Rosenthal Druck AG]]
-FN [[company_register_number|215306b]], UID [[tax_id|ATU20823651]]
+[[company_register_number|FN 215306b]], UID [[tax_id|ATU20823651]]
 z. H. Herrn Vorstand [[person|Theofan Matula]]
 [[address|Feldschusterweg 12, 6283 Schwendau]]
 

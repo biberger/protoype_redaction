@@ -18,11 +18,11 @@ der Klägerin: [[organization|MARIĆ METALLBAU OG]], [[address|ANDLERGASSE 8, 32
 
 gegen
 
-die Beklagte: [[organization|Meidl & Korec AG]], FN [[company_register_number|261677w]], UID-Nr. [[tax_id|ATU96079796]], vertreten durch ihre Prokuristin [[person|MMag. Custódia Seixas]],
+die Beklagte: [[organization|Meidl & Korec AG]], [[company_register_number|FN 261677w]], UID-Nr. [[tax_id|ATU96079796]], vertreten durch ihre Prokuristin [[person|MMag. Custódia Seixas]],
 
 wegen EUR 13.343,04 samt Zinsen
 
-Streitverkündet wird die [[organization|Peschka GmbH]] (FN [[company_register_number|476036d]], UID-Nr. [[tax_id|ATU38096877]]), vertreten durch den Geschäftsführer [[person|Aristides Linhart]].
+Streitverkündet wird die [[organization|Peschka GmbH]] ([[company_register_number|FN 476036d]], UID-Nr. [[tax_id|ATU38096877]]), vertreten durch den Geschäftsführer [[person|Aristides Linhart]].
 
 1. Sachverhalt
 

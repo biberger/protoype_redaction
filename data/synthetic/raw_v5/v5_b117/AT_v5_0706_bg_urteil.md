@@ -10,7 +10,7 @@ Geschäftszahl [[case_number|2 C 118/25f]]
 
 IM NAMEN DER REPUBLIK
 
-Das [[court|Bezirksgericht Hartberg]] hat durch die Richterin [[judge|Liane Schranz]] in der Rechtssache der klagenden Partei [[person|B***** S*****]], vertreten durch [[lawyer|Dr. Mathaus Sagmeister]], gegen die beklagte Partei [[organization|Wohlgemuth GmbH]], [[address|Georgenschildstraße 2/5, 8250 Vornholz]], FN [[company_register_number|336694p]], UID-Nr. [[tax_id|ATU05484947]], vertreten durch [[lawyer|Roberte Porges]], wegen 7.600,00 Euro sA nach der Fortsetzung des Verfahrens nach Aufhebung durch das [[court|Landesgericht für Zivilrechtssachen Graz]] am [[date|11. Juni 2026]], [[case_number|2 R 62/26y]], zu Recht erkannt:
+Das [[court|Bezirksgericht Hartberg]] hat durch die Richterin [[judge|Liane Schranz]] in der Rechtssache der klagenden Partei [[person|B***** S*****]], vertreten durch [[lawyer|Dr. Mathaus Sagmeister]], gegen die beklagte Partei [[organization|Wohlgemuth GmbH]], [[address|Georgenschildstraße 2/5, 8250 Vornholz]], [[company_register_number|FN 336694p]], UID-Nr. [[tax_id|ATU05484947]], vertreten durch [[lawyer|Roberte Porges]], wegen 7.600,00 Euro sA nach der Fortsetzung des Verfahrens nach Aufhebung durch das [[court|Landesgericht für Zivilrechtssachen Graz]] am [[date|11. Juni 2026]], [[case_number|2 R 62/26y]], zu Recht erkannt:
 
 Spruch
 

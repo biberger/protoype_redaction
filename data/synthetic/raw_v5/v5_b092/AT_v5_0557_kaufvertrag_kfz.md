@@ -3,7 +3,7 @@ doc_type: kaufvertrag_kfz
 jurisdiction: AT
 lang: de
 ---
-STEMPEL: [[organization|HEUER E.U.]] · [[location|KAPELLEN]] · FN [[company_register_number|542645h]] · UID [[tax_id|ATU25061189]]
+STEMPEL: [[organization|HEUER E.U.]] · [[location|KAPELLEN]] · [[company_register_number|FN 542645h]] · UID [[tax_id|ATU25061189]]
 
 [[organization|Heuer e.U.]], Kfz-Handel und Service
 [[address|Keilgasse 10, 8691 Kapellen]]
@@ -15,11 +15,11 @@ abgeschlossen am [[date|18.08.2026]] zwischen
 
 1. Verkäuferin: [[organization|Heuer e.U.]], vertreten durch den Inhaber [[person|Dr. Rodger Aiyegbusi]],
 
-2. Kommissionärin: [[organization|Oertli & Stroobants e.U.]], FN [[company_register_number|149036x]], UID-Nr. [[tax_id|ATU74026225]], [[address|Vogelweiderstraße 2, 9314 Sankt Georgen am Längsee]],
+2. Kommissionärin: [[organization|Oertli & Stroobants e.U.]], [[company_register_number|FN 149036x]], UID-Nr. [[tax_id|ATU74026225]], [[address|Vogelweiderstraße 2, 9314 Sankt Georgen am Längsee]],
 
 3. Vorbesitzerin: [[person|Dr. med. Constanze Stiegler]], wohnhaft in [[location|Sankt Georgen am Längsee]],
 
-4. Finanzierende: [[organization|Gerstl & Feigl GmbH]], FN [[company_register_number|533578z]], UID [[tax_id|ATU06487041]],
+4. Finanzierende: [[organization|Gerstl & Feigl GmbH]], [[company_register_number|FN 533578z]], UID [[tax_id|ATU06487041]],
 
 5. Käuferin: [[person|Lucetta Oyeyemi]], wohnhaft [[address|Gattermeyerweg 6, 6991 Mittelberg]].
 

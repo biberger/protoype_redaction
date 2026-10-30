@@ -15,7 +15,7 @@ abgeschlossen am [[date|12. Mai 2026]] zwischen
 
 Präambel
 
-Die Gesellschafterinnen sind Aktionärinnen der [[organization|Finger Software AG]] mit Sitz in [[location|Kirchau]] (FN [[company_register_number|642477w]], USt-IdNr. [[tax_id|ATU08501833]]). Sie vereinbaren die folgenden Regeln für die Ausübung ihrer Rechte und die Übertragung von Aktien.
+Die Gesellschafterinnen sind Aktionärinnen der [[organization|Finger Software AG]] mit Sitz in [[location|Kirchau]] ([[company_register_number|FN 642477w]], USt-IdNr. [[tax_id|ATU08501833]]). Sie vereinbaren die folgenden Regeln für die Ausübung ihrer Rechte und die Übertragung von Aktien.
 
 § 1 Grundkapital
 

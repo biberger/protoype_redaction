@@ -18,11 +18,11 @@ Die [[organization|Bezirkshauptmannschaft Mödling]] hat über die Anträge
 
 vertreten durch die Dienstgeber
 
-[[organization|Bösch & Larcher GmbH & Co KG]], FN [[company_register_number|272306a]], UID-Nr. [[tax_id|ATU05999794]], vertreten durch den Prokuristen [[person|Filiberto Gratzer]],
+[[organization|Bösch & Larcher GmbH & Co KG]], [[company_register_number|FN 272306a]], UID-Nr. [[tax_id|ATU05999794]], vertreten durch den Prokuristen [[person|Filiberto Gratzer]],
 
 und
 
-[[organization|Jenewein & Pröll KG]], FN [[company_register_number|226323d]], UID-Nr. [[tax_id|ATU54059557]], [[address|Prennlehnerweg 28/5, 6654 Holzgau]], vertreten durch den Geschäftsführer [[person|Yannick Reiser]],
+[[organization|Jenewein & Pröll KG]], [[company_register_number|FN 226323d]], UID-Nr. [[tax_id|ATU54059557]], [[address|Prennlehnerweg 28/5, 6654 Holzgau]], vertreten durch den Geschäftsführer [[person|Yannick Reiser]],
 
 auf Erteilung eines Aufenthaltstitels nach dem [[legal_norm|NAG]] nach Durchführung des Ermittlungsverfahrens wie folgt entschieden:
 

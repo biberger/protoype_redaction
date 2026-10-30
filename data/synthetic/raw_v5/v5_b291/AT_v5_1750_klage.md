@@ -6,11 +6,11 @@ lang: de
 An das
 [[court|Landesgericht für Zivilrechtssachen Graz]]
 
-Klägerin: [[organization|Peter GmbH]], [[address|Grüneweg 6, 8480 Mureck]], FN [[company_register_number|605390f]], UID [[tax_id|ATU99198885]], vertreten durch den Geschäftsführer [[person|Costanzo Borriello]],
+Klägerin: [[organization|Peter GmbH]], [[address|Grüneweg 6, 8480 Mureck]], [[company_register_number|FN 605390f]], UID [[tax_id|ATU99198885]], vertreten durch den Geschäftsführer [[person|Costanzo Borriello]],
 
-Beklagte Partei: [[organization|Hossa Metallbau OG]], [[address|Göteborgweg 28, 8663 Sankt Barbara im Mürztal]], FN [[company_register_number|642832t]], UID [[tax_id|ATU04913157]], vertreten durch den Gesellschafter [[person|Gustel Eisner]],
+Beklagte Partei: [[organization|Hossa Metallbau OG]], [[address|Göteborgweg 28, 8663 Sankt Barbara im Mürztal]], [[company_register_number|FN 642832t]], UID [[tax_id|ATU04913157]], vertreten durch den Gesellschafter [[person|Gustel Eisner]],
 
-Streitverkündete Partei: [[organization|Steinegger & Akrami e.U.]], [[address|Lackierergasse 6, 3543 Krumau am Kamp]], FN [[company_register_number|512508p]], UID [[tax_id|ATU83770581]], vertreten durch die Inhaberin [[person|Anika Pfaffenbichler]].
+Streitverkündete Partei: [[organization|Steinegger & Akrami e.U.]], [[address|Lackierergasse 6, 3543 Krumau am Kamp]], [[company_register_number|FN 512508p]], UID [[tax_id|ATU83770581]], vertreten durch die Inhaberin [[person|Anika Pfaffenbichler]].
 
 wegen Zahlung von EUR 61.240,80 sA
 

@@ -5,7 +5,7 @@ lang: de
 ---
 [[organization|Traunfall Versicherungs AG]]
 [[address|Hafnerstraße 12, 4020 Linz]]
-FN [[company_register_number|410475s]], UID [[tax_id|ATU98519781]]
+[[company_register_number|FN 410475s]], UID [[tax_id|ATU98519781]]
 Schadenhotline [[phone_number|+43 (0)650 8823418]]
 
 [[person|Feridan Bardakçı]]
@@ -21,7 +21,7 @@ Sehr geehrte Frau [[person|Bardakçı]],
 
 wir bestätigen den Eingang Ihrer Schadensmeldung vom [[date|14. September 2026]]. Der Wasseraustritt aus der Steigleitung im Badezimmer der Wohnung Top 9 ist nach den Feststellungen des Sachverständigen [[person|Quentin Hergovich]] auf eine undichte Verschraubung an der Armatur zurückzuführen.
 
-Die Leitung wurde zuletzt von der [[organization|Thaller & Schnitzer GmbH]] (FN [[company_register_number|568956a]], USt-IdNr. [[tax_id|ATU36622473]]) gewartet. Den Auftrag für die Arbeiten an der Hauptleitung hatte die [[organization|Maurer AG]] (FN [[company_register_number|12165s]], USt-IdNr. [[tax_id|ATU67151155]]) erhalten. Die Eigentümerin des Gebäudes, die [[organization|Campbell Immobilien KG]] (FN [[company_register_number|559587y]]), hat uns am [[date|29. September 2026]] mitgeteilt, dass sie die Haftung für den Zustand der Hauptleitung nicht anerkennt.
+Die Leitung wurde zuletzt von der [[organization|Thaller & Schnitzer GmbH]] ([[company_register_number|FN 568956a]], USt-IdNr. [[tax_id|ATU36622473]]) gewartet. Den Auftrag für die Arbeiten an der Hauptleitung hatte die [[organization|Maurer AG]] ([[company_register_number|FN 12165s]], USt-IdNr. [[tax_id|ATU67151155]]) erhalten. Die Eigentümerin des Gebäudes, die [[organization|Campbell Immobilien KG]] ([[company_register_number|FN 559587y]]), hat uns am [[date|29. September 2026]] mitgeteilt, dass sie die Haftung für den Zustand der Hauptleitung nicht anerkennt.
 
 Der Monteur [[person|Eckehard Pfister]] hat am [[date|16. September 2026]] die Leitung geöffnet und den Schaden dokumentiert. Die Hausverwalterin [[person|Albertine Heuberger]] bestätigte, dass die Leitung seit dem Frühjahr nicht mehr kontrolliert worden sei.
 

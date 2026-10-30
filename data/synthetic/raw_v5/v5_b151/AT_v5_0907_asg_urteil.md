@@ -10,7 +10,7 @@ Geschäftszahl: [[case_number|12 Cga 63/26d]]
 URTEIL
 
 Das [[court|Arbeits- und Sozialgericht Innsbruck]] hat durch den Richter [[judge|Mag. Rakin Aznar]] als Vorsitzenden, den Richter [[judge|Sally D'Elia, BSc]] als Beisitzer sowie durch die fachkundigen Laienrichterinnen [[judge|Mechtilde Dorn]] und [[judge|Gunhild Lantschner]] in der Arbeitsrechtssache der klagenden Partei [[person|Florenzia Glawischnig]], [[address|Hofweidenstraße 2,
-6273 Ried im Zillertal]], vertreten durch die Rechtsanwältin [[lawyer|Gerlinde Senft]] in [[location|Innsbruck]], gegen die beklagte Partei [[organization|Leitgeb Gastro GmbH]] (FN [[company_register_number|209577b]], UID [[tax_id|ATU08565006]]), vertreten durch den Geschäftsführer [[person|Ing. Tunnes Steinhauser]], wegen 4.112,80 Euro brutto samt Zinsen nach der öffentlichen mündlichen Verhandlung vom [[date|9. September 2026]] zu Recht erkannt:
+6273 Ried im Zillertal]], vertreten durch die Rechtsanwältin [[lawyer|Gerlinde Senft]] in [[location|Innsbruck]], gegen die beklagte Partei [[organization|Leitgeb Gastro GmbH]] ([[company_register_number|FN 209577b]], UID [[tax_id|ATU08565006]]), vertreten durch den Geschäftsführer [[person|Ing. Tunnes Steinhauser]], wegen 4.112,80 Euro brutto samt Zinsen nach der öffentlichen mündlichen Verhandlung vom [[date|9. September 2026]] zu Recht erkannt:
 
 Spruch
 
@@ -20,7 +20,7 @@ II. Die beklagte Partei ist schuldig, der klagenden Partei die mit 1.146,30 Euro
 
 Begründung
 
-Die klagende Partei stand ab dem [[date|1. Februar 2019]] bei der [[organization|Brainin KG]] (FN [[company_register_number|546963h]], UID [[tax_id|ATU44142076]]) in einem unbefristeten Dienstverhältnis als Servicekraft in einem Gastronomiebetrieb in [[location|Ried im Zillertal]]. Mit Vertrag vom [[date|29. Februar 2024]] übernahm die beklagte Partei diesen Betrieb samt Inventar, Firmenbezeichnung und Belegschaft. Die Übernahme wurde am [[date|1. März 2024]] wirksam. Die [[organization|Pensionsversicherungsanstalt]] ([[organization|PVA]]) verzeichnet den Dienstgeberwechsel im Versicherungsverlauf; die Meldung der beklagten Partei ging erst im April 2024 ein.
+Die klagende Partei stand ab dem [[date|1. Februar 2019]] bei der [[organization|Brainin KG]] ([[company_register_number|FN 546963h]], UID [[tax_id|ATU44142076]]) in einem unbefristeten Dienstverhältnis als Servicekraft in einem Gastronomiebetrieb in [[location|Ried im Zillertal]]. Mit Vertrag vom [[date|29. Februar 2024]] übernahm die beklagte Partei diesen Betrieb samt Inventar, Firmenbezeichnung und Belegschaft. Die Übernahme wurde am [[date|1. März 2024]] wirksam. Die [[organization|Pensionsversicherungsanstalt]] ([[organization|PVA]]) verzeichnet den Dienstgeberwechsel im Versicherungsverlauf; die Meldung der beklagten Partei ging erst im April 2024 ein.
 
 Das Dienstverhältnis endete mit [[date|31. Mai 2026]] durch Kündigung der beklagten Partei. Die klagende Partei begehrt das für die Monate März bis Mai 2026 aushaftende Entgelt, weil die beklagte Partei die Auszahlung verweigert habe. Sie meldete sich am [[date|2. Juni 2026]] beim [[organization|Arbeitsmarktservice Schwaz]] arbeitslos; eine Anrechnung von Leistungen aus der Arbeitslosenversicherung ist nicht Gegenstand des Verfahrens. Die beklagte Partei wendete ein, die Stundenaufzeichnungen seien unvollständig und die Klägerin habe im April 2026 mehrere Tage unentschuldigt gefehlt. Ein Teil der Dienste sei zudem nicht angeordnet gewesen.
 

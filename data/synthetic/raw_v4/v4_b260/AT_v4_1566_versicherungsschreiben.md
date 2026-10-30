@@ -4,13 +4,13 @@ jurisdiction: AT
 lang: de
 ---
 [[organization|WIESENTHALER VERSICHERUNGS AG]]
-[[address|INDUSTRIEZEILE 22 · 4020 LINZ]] · FN [[company_register_number|36844h]]
+[[address|INDUSTRIEZEILE 22 · 4020 LINZ]] · [[company_register_number|FN 36844h]]
 Schaden-Service Oberösterreich · Telefon [[phone_number|+43 732 2024 1855]]
 
 [[person|Adelinde Löw]]
 [[address|Sommerhaidenweg 7, 8380 Jennersdorf]]
 
-Versicherungsnehmerin: [[organization|LAMPRECHT OG]], [[address|KERNWEG 36, 4209 ENGERWITZDORF]], FN [[company_register_number|622173k]], UID [[tax_id|ATU58495809]]
+Versicherungsnehmerin: [[organization|LAMPRECHT OG]], [[address|KERNWEG 36, 4209 ENGERWITZDORF]], [[company_register_number|FN 622173k]], UID [[tax_id|ATU58495809]]
 Versicherungsschein-Nr.: [[other_identifier|PO 7741-220-33]]
 Schadennummer: [[other_identifier|SCH-2026-44817]]
 Kraftfahrzeug: [[license_plate|UU-1202IB]]
@@ -23,7 +23,7 @@ Sehr geehrte Frau [[person|Löw]],
 
 wir bestätigen den Eingang Ihrer Unterlagen und danken für Ihre Geduld. Nach Prüfung des Schadensfalls können wir Ihnen die folgende Entscheidung mitteilen.
 
-Der Unfall ereignete sich am [[date|18. März 2026]], als Sie mit dem Firmenfahrzeug der [[organization|LAMPRECHT OG]] auf der Zufahrt zum Betriebsgelände unterwegs waren. Das Fahrzeug war an die [[organization|Rousseaux Pflege KG]], FN [[company_register_number|635457x]], UID [[tax_id|ATU20744416]], überlassen, bei der Sie beschäftigt sind. Nach dem Polizeibericht kam es beim Abbiegen zu einem Zusammenstoß mit einem Poller, bei dem Sie eine Verletzung der linken Schulter erlitten.
+Der Unfall ereignete sich am [[date|18. März 2026]], als Sie mit dem Firmenfahrzeug der [[organization|LAMPRECHT OG]] auf der Zufahrt zum Betriebsgelände unterwegs waren. Das Fahrzeug war an die [[organization|Rousseaux Pflege KG]], [[company_register_number|FN 635457x]], UID [[tax_id|ATU20744416]], überlassen, bei der Sie beschäftigt sind. Nach dem Polizeibericht kam es beim Abbiegen zu einem Zusammenstoß mit einem Poller, bei dem Sie eine Verletzung der linken Schulter erlitten.
 
 Die ärztliche Begutachtung wurde von [[person|Dr. med. Kristiana Grubinger]] durchgeführt. Das Gutachten vom [[date|25. Juni 2026]] stellt eine Bewegungseinschränkung der linken Schulter nach einer Rotatorenmanschettenverletzung fest. Die Gutachterin hat eine dauernde Invalidität von 12 % festgestellt. Die Bemessung erfolgt nach der Gliedertaxe der Versicherungsbedingungen, wobei die Schulter mit 30 % bewertet wird. Der Restfunktionsverlust von 40 % des Armes ergibt nach Abzug der Vorerkrankung eine Invalidität von 12 %. Eine Vorerkrankung der rechten Schulter aus dem Jahr 2019 wurde nicht berücksichtigt, da sie nach dem Gutachten keinen Einfluss auf den Unfallfolgeschaden hatte.
 

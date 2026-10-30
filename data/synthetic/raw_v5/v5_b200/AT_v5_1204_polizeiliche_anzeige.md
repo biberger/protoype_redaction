@@ -16,11 +16,11 @@ An die [[organization|Bezirkshauptmannschaft Steyr-Land]]
 
 BESCHULDIGTER: [[person|SADEQ ATAMIAN]], [[address|LANDSKRONGASSE 9, 8072 MELLACH]]
 SV-NR.: [[social_security_number|8700 050902]]
-ZULASSUNGSBESITZERIN: [[organization|GREINER HANDELS AG]], FN [[company_register_number|373981y]], UID [[tax_id|ATU53585936]]
+ZULASSUNGSBESITZERIN: [[organization|GREINER HANDELS AG]], [[company_register_number|FN 373981y]], UID [[tax_id|ATU53585936]]
 
 Sachverhalt
 
-Am [[date|14.05.2026]] gegen 17.40 Uhr parkte die Geschädigte [[person|Aggie Olise]], wohnhaft in [[address|Raffelstettner Straße 4/14, 4421 Aschach an der Steyr]], den Pkw ihrer Dienstgeberin, der [[organization|Kiss GmbH]] (FN [[company_register_number|567609w]], UID-Nr. [[tax_id|ATU54752012]]), am Fahrbahnrand in der [[street|Bahnhofstraße]].
+Am [[date|14.05.2026]] gegen 17.40 Uhr parkte die Geschädigte [[person|Aggie Olise]], wohnhaft in [[address|Raffelstettner Straße 4/14, 4421 Aschach an der Steyr]], den Pkw ihrer Dienstgeberin, der [[organization|Kiss GmbH]] ([[company_register_number|FN 567609w]], UID-Nr. [[tax_id|ATU54752012]]), am Fahrbahnrand in der [[street|Bahnhofstraße]].
 
 Beim Ausparken eines grauen Pkw der Marke Volkswagen mit dem Kennzeichen [[license_plate|GU-8356 IM]] wurde die linke hintere Tür des Fahrzeuges der Geschädigten beschädigt. Der Lenker stieg zwar aus, begutachtete den Schaden jedoch nicht und setzte die Fahrt ohne Anhalten fort. Die Geschädigte konnte ihn nicht anhalten. Den Schaden beziffert die Geschädigte nach einem Kostenvoranschlag mit 3.450 Euro.
 

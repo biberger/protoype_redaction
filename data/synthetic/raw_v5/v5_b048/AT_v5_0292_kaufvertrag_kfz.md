@@ -12,9 +12,9 @@ TEL. [[phone_number|+43 2682 4471 0]]
 
 Abgeschlossen zwischen
 
-**Verkäuferin 1:** [[organization|KORN REINIGUNGS E.U.]], FN [[company_register_number|636107b]], UID [[tax_id|ATU75616193]], vertreten durch Inhaber [[person|Dr. Basch Woschitz]]
+**Verkäuferin 1:** [[organization|KORN REINIGUNGS E.U.]], [[company_register_number|FN 636107b]], UID [[tax_id|ATU75616193]], vertreten durch Inhaber [[person|Dr. Basch Woschitz]]
 
-**Verkäufer 2:** [[organization|PESCHEK HOLZ E.U.]], FN [[company_register_number|477454p]], UID [[tax_id|ATU96982970]], vertreten durch [[person|Viggo Dworak]]
+**Verkäufer 2:** [[organization|PESCHEK HOLZ E.U.]], [[company_register_number|FN 477454p]], UID [[tax_id|ATU96982970]], vertreten durch [[person|Viggo Dworak]]
 
 **Käufer:** [[person|Grigorii Zavalniuk]] und [[person|MMag. Tiberiu Balázs]], wohnhaft in [[address|Erlgasse 12/21, 7031 Krensdorf]]
 

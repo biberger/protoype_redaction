@@ -57,7 +57,7 @@ Die Antragstellerin betreibt am Standort [[address|Voltagasse 5, 2264 Jedenspeig
 Die Parteien des Verfahrens stellen sich wie folgt dar:
 
 Partei | Angabe
-Antragstellerin | [[organization|Treichl Metallbau GmbH & Co KG]], FN [[company_register_number|449045k]]
+Antragstellerin | [[organization|Treichl Metallbau GmbH & Co KG]], [[company_register_number|FN 449045k]]
 Vertretung | [[person|Maho Sejranović]], Geschäftsführer, Versicherungsnummer [[social_security_number|9704 260709]]
 Betriebsstandort | [[address|Voltagasse 5, 2264 Jedenspeigen]]
 Nachbar | [[person|Ingobert Rie]]

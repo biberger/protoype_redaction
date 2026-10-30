@@ -35,9 +35,9 @@ Die Arbeitnehmerin erhält ein monatliches Bruttogehalt von 5.400 Euro, zahlbar 
 
 § 3 Konzernklausel
 
-Die Arbeitnehmerin kann mit ihrer Zustimmung zeitweise bei der [[organization|Baron GmbH]] (HRB [[company_register_number|184523]], [[court|Amtsgericht Charlottenburg]], USt-IdNr. [[tax_id|DE858581376]], Steuernummer [[tax_id|55/485/11691]]) eingesetzt werden. Die Gesellschafterin [[person|Dr. Blanca Estrella Aliaga]] hat dieser Regelung zugestimmt.
+Die Arbeitnehmerin kann mit ihrer Zustimmung zeitweise bei der [[organization|Baron GmbH]] ([[company_register_number|HRB 184523]], [[court|Amtsgericht Charlottenburg]], USt-IdNr. [[tax_id|DE858581376]], Steuernummer [[tax_id|55/485/11691]]) eingesetzt werden. Die Gesellschafterin [[person|Dr. Blanca Estrella Aliaga]] hat dieser Regelung zugestimmt.
 
-Ferner gilt diese Klausel für die Zusammenarbeit mit der [[organization|Maurer & Behn GmbH & Co. KG]] (HRA [[company_register_number|238370 B]], [[court|Amtsgericht Hannover]], USt-IdNr. [[tax_id|DE623634732]], Steuernummer [[tax_id|37 507 77274]]). Eine Versetzung bedarf der schriftlichen Zustimmung der Arbeitnehmerin. Während einer Versetzung bleiben Vergütung und Urlaubsanspruch unverändert.
+Ferner gilt diese Klausel für die Zusammenarbeit mit der [[organization|Maurer & Behn GmbH & Co. KG]] ([[company_register_number|HRA 238370 B]], [[court|Amtsgericht Hannover]], USt-IdNr. [[tax_id|DE623634732]], Steuernummer [[tax_id|37 507 77274]]). Eine Versetzung bedarf der schriftlichen Zustimmung der Arbeitnehmerin. Während einer Versetzung bleiben Vergütung und Urlaubsanspruch unverändert.
 
 § 4 Urlaub und Arbeitszeit
 

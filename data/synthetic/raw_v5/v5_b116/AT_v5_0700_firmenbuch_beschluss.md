@@ -5,11 +5,11 @@ lang: de
 ---
 [[court|LANDESGERICHT FÜR ZIVILRECHTSSACHEN GRAZ]] · FIRMENBUCH
 EINGANG [[date|19. FEB. 2026]]
-[[organization|SCHOBESBERGER & SOMMER GMBH & CO KG]], FN [[company_register_number|570164b]], UID-Nr. [[tax_id|ATU20214701]]
+[[organization|SCHOBESBERGER & SOMMER GMBH & CO KG]], [[company_register_number|FN 570164b]], UID-Nr. [[tax_id|ATU20214701]]
 
 GZ [[case_number|34 Fr 1842/26t]]
 
-Das [[court|Oberlandesgericht Graz]] hat als Rekursgericht durch den Richter [[judge|Jay Pavićević]] als Vorsitzenden sowie die Richter [[judge|Burghart Allesch]] und die Richterin [[judge|Thea Rinner]] in der Firmenbuchsache der [[organization|Schobesberger & Sommer GmbH & Co KG]], FN [[company_register_number|570164b]], über den Rekurs der Gesellschafterin [[person|Alia Dello]], vertreten durch Rechtsanwältin [[lawyer|Berti Fronius]], gegen den Beschluss des [[court|Landesgerichts für Zivilrechtssachen Graz]] vom [[date|2. April 2026]] folgenden Beschluss gefasst:
+Das [[court|Oberlandesgericht Graz]] hat als Rekursgericht durch den Richter [[judge|Jay Pavićević]] als Vorsitzenden sowie die Richter [[judge|Burghart Allesch]] und die Richterin [[judge|Thea Rinner]] in der Firmenbuchsache der [[organization|Schobesberger & Sommer GmbH & Co KG]], [[company_register_number|FN 570164b]], über den Rekurs der Gesellschafterin [[person|Alia Dello]], vertreten durch Rechtsanwältin [[lawyer|Berti Fronius]], gegen den Beschluss des [[court|Landesgerichts für Zivilrechtssachen Graz]] vom [[date|2. April 2026]] folgenden Beschluss gefasst:
 
 Spruch
 

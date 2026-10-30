@@ -7,7 +7,7 @@ An das
 [[court|Landesgericht Klagenfurt]]
 
 KLÄGERIN:
-[[organization|BERCHTOLD & KRONSTEINER OG]], FN [[company_register_number|229750V]], UID-NR. [[tax_id|ATU37355526]],
+[[organization|BERCHTOLD & KRONSTEINER OG]], [[company_register_number|FN 229750V]], UID-NR. [[tax_id|ATU37355526]],
 [[address|SCHABLEDERWEG 6,
 9321 KAPPEL AM KRAPPFELD]]
 VERTRETEN DURCH DEN GESELLSCHAFTER [[person|RAIMUND SCHNABL]],
@@ -15,7 +15,7 @@ VERTRETEN DURCH DEN GESELLSCHAFTER [[person|RAIMUND SCHNABL]],
 
 GEGEN
 
-BEKLAGTE: [[organization|Herbert & Wörndl GmbH]], FN [[company_register_number|395156m]], UID-Nr. [[tax_id|ATU09479009]], vertreten durch die Geschäftsführerin [[person|Irena Koulibaly, BSc]]
+BEKLAGTE: [[organization|Herbert & Wörndl GmbH]], [[company_register_number|FN 395156m]], UID-Nr. [[tax_id|ATU09479009]], vertreten durch die Geschäftsführerin [[person|Irena Koulibaly, BSc]]
 
 wegen 28.460,00 EUR samt Zinsen und Kosten
 

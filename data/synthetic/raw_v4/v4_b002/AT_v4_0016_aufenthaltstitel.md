@@ -5,7 +5,7 @@ lang: de
 ---
 EINGANG [[date|04.03.2026]]
 [[organization|ROSENBAUM & PRUTSCHER GMBH]], [[address|HOCHWEG 8, 4491 NIEDERNEUKIRCHEN]]
-FN [[company_register_number|282903i]] · UID [[tax_id|ATU96211358]]
+[[company_register_number|FN 282903i]] · UID [[tax_id|ATU96211358]]
 
 BESCHEID
 

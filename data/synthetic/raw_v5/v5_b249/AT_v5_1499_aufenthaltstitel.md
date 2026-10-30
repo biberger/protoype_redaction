@@ -20,7 +20,7 @@ Begründung
 
 Herr [[person|Kovacs]] hat den Antrag persönlich eingebracht und die erforderlichen Unterlagen vorgelegt, darunter einen Personalausweis Nr. [[id_document_number|A2314924]], eine Versicherungsbestätigung mit der Versicherungsnummer [[social_security_number|3274 180161]] sowie einen Arbeitsvertrag. Die Sachbearbeitung erfolgte durch [[person|Mirko Steyr]].
 
-Die Prüfung der Erteilungsvoraussetzungen ergibt, dass Herr [[person|Kovacs]] als Facharbeiter bei der [[organization|Gary GmbH]] (FN [[company_register_number|196604z]], UID-Nr. [[tax_id|ATU21531812]]) beschäftigt ist. Die Gesellschaft wird durch Geschäftsführer [[person|Eric Reichl]] vertreten, der die Beschäftigung bestätigt hat. Die Entgeltgrenze wird eingehalten. Der Antragsteller verfügt über ausreichende Deutschkenntnisse, was durch das Zertifikat vom [[date|17.02.2026]] belegt ist.
+Die Prüfung der Erteilungsvoraussetzungen ergibt, dass Herr [[person|Kovacs]] als Facharbeiter bei der [[organization|Gary GmbH]] ([[company_register_number|FN 196604z]], UID-Nr. [[tax_id|ATU21531812]]) beschäftigt ist. Die Gesellschaft wird durch Geschäftsführer [[person|Eric Reichl]] vertreten, der die Beschäftigung bestätigt hat. Die Entgeltgrenze wird eingehalten. Der Antragsteller verfügt über ausreichende Deutschkenntnisse, was durch das Zertifikat vom [[date|17.02.2026]] belegt ist.
 
 Die Familienangehörigen wurden im Verfahren wie folgt erfasst:
 

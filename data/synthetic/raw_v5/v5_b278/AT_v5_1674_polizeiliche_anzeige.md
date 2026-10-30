@@ -12,7 +12,7 @@ ANZEIGE
 
 Anzeigeerstatterin: [[person|Klementine Stieger]], wohnhaft in [[address|Hamerlingstraße 10/24, 9131 Grafenstein]], SV-Nr. [[social_security_number|9036 120371]], Kontoverbindung [[bank_account|AT10 3169 4147 2399 4504]].
 
-Beschuldigter: [[person|Dr. Zouhair Hafiz]], Inhaber des Einzelunternehmens [[organization|Schindler Logistik e.U.]], FN [[company_register_number|247898g]], USt-IdNr. [[tax_id|ATU06300723]], Sitz [[address|Lenkstraße 6/15, 9543 Arriach]].
+Beschuldigter: [[person|Dr. Zouhair Hafiz]], Inhaber des Einzelunternehmens [[organization|Schindler Logistik e.U.]], [[company_register_number|FN 247898g]], USt-IdNr. [[tax_id|ATU06300723]], Sitz [[address|Lenkstraße 6/15, 9543 Arriach]].
 
 Vertreterin des Beschuldigten: Rechtsanwältin [[lawyer|Lori Václavík]].
 

@@ -7,7 +7,7 @@ EINGANG [[date|21.05.2026]] – [[organization|PETER & FROSCHAUER E.U.]], [[addr
 
 [[organization|Peter & Froschauer e.U.]]
 [[address|Weiskirchnerstraße 4, 8311 Nestelbach im Ilztal]]
-FN [[company_register_number|115330d]], UID-Nr. [[tax_id|ATU20859710]]
+[[company_register_number|FN 115330d]], UID-Nr. [[tax_id|ATU20859710]]
 
 ARZTBRIEF
 
@@ -17,11 +17,11 @@ Bankverbindung der Ordination: IBAN [[bank_account|AT47 7436 2311 2015 4158]]
 
 Sehr geehrter Herr Kollege [[person|Dave Brandauer]],
 
-wir berichten über die Vorstellung von Herrn [[person|Seiter]] am [[date|17.03.2026]] nach einem Verkehrsunfall am [[date|14. März 2026]]. Er lenkte das Firmenfahrzeug mit dem Kennzeichen [[license_plate|LB-41FZ]] der [[organization|Nwagbara & Soukup OG]], [[address|Kartouschweg 3, 8442 Kitzeck im Sausal]], FN [[company_register_number|256202v]], UID-Nr. [[tax_id|ATU43694383]].
+wir berichten über die Vorstellung von Herrn [[person|Seiter]] am [[date|17.03.2026]] nach einem Verkehrsunfall am [[date|14. März 2026]]. Er lenkte das Firmenfahrzeug mit dem Kennzeichen [[license_plate|LB-41FZ]] der [[organization|Nwagbara & Soukup OG]], [[address|Kartouschweg 3, 8442 Kitzeck im Sausal]], [[company_register_number|FN 256202v]], UID-Nr. [[tax_id|ATU43694383]].
 
 Befund: Prellmarke an der rechten Schulter, Beweglichkeit bis 90 Grad schmerzfrei, keine Frakturzeichen im Röntgen. Schmerzmittel nach Bedarf, Physiotherapie zweimal wöchentlich bei [[person|Mag. Sieghilde Grünwald]].
 
-Der Patient arbeitet als Küchenleiter bei der [[organization|Breiner Gastro OG]], [[address|Leopold-Kronsteiner-Straße 32, 6277 Zellberg]], FN [[company_register_number|124738p]], UID-Nr. [[tax_id|ATU85163527]]. Die Arbeitsunfähigkeit wurde bis einschließlich [[date|29. Mai 2026]] bescheinigt.
+Der Patient arbeitet als Küchenleiter bei der [[organization|Breiner Gastro OG]], [[address|Leopold-Kronsteiner-Straße 32, 6277 Zellberg]], [[company_register_number|FN 124738p]], UID-Nr. [[tax_id|ATU85163527]]. Die Arbeitsunfähigkeit wurde bis einschließlich [[date|29. Mai 2026]] bescheinigt.
 
 Aus einer Nachricht des Zuweisers, die uns zur Kenntnis gebracht wurde:
 

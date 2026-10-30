@@ -19,15 +19,15 @@ mit einer Gültigkeitsdauer von 24 Monaten, beginnend mit dem [[date|1. August 2
 
 Spruch
 
-Der Antrag vom [[date|13. März 2026]] wird positiv erledigt. Die Zustimmung des [[organization|Arbeitsmarktservice Oberösterreich]] zur Beschäftigung vom [[date|25. Mai 2026]] liegt dem Bescheid zugrunde und ist Bestandteil dieses Spruchs. Der Antragsteller ist berechtigt, im Bundesgebiet einer Beschäftigung als Elektrotechniker bei der [[organization|Langer & Bacher GmbH & Co KG]] (FN [[company_register_number|312487s]], UID-Nr. [[tax_id|ATU95908660]]) nachzugehen. Der Dienstvertrag vom [[date|2. Juni 2026]] wurde vorgelegt.
+Der Antrag vom [[date|13. März 2026]] wird positiv erledigt. Die Zustimmung des [[organization|Arbeitsmarktservice Oberösterreich]] zur Beschäftigung vom [[date|25. Mai 2026]] liegt dem Bescheid zugrunde und ist Bestandteil dieses Spruchs. Der Antragsteller ist berechtigt, im Bundesgebiet einer Beschäftigung als Elektrotechniker bei der [[organization|Langer & Bacher GmbH & Co KG]] ([[company_register_number|FN 312487s]], UID-Nr. [[tax_id|ATU95908660]]) nachzugehen. Der Dienstvertrag vom [[date|2. Juni 2026]] wurde vorgelegt.
 
 Die Gültigkeit des Titels ist an das Bestehen des Dienstverhältnisses gebunden. Ein Wechsel des Dienstgebers ist unverzüglich anzuzeigen.
 
 Begründung
 
-Der Antragsteller legte einen Reisepass mit der Nummer [[id_document_number|X3418239]] vor. Er war von [[date|3. Mai 2022]] bis [[date|31. Dezember 2024]] bei der [[organization|Plenković & Aschauer AG]] (FN [[company_register_number|556447f]], UID-Nr. [[tax_id|ATU07469096]]) beschäftigt. Eine Bestätigung der Sozialversicherung, Versicherungsnummer [[social_security_number|3074 060106]], liegt bei.
+Der Antragsteller legte einen Reisepass mit der Nummer [[id_document_number|X3418239]] vor. Er war von [[date|3. Mai 2022]] bis [[date|31. Dezember 2024]] bei der [[organization|Plenković & Aschauer AG]] ([[company_register_number|FN 556447f]], UID-Nr. [[tax_id|ATU07469096]]) beschäftigt. Eine Bestätigung der Sozialversicherung, Versicherungsnummer [[social_security_number|3074 060106]], liegt bei.
 
-Im Zuge des Verfahrens wurde festgestellt, dass der Antragsteller in den Jahren 2025 und 2026 Aufträge der [[organization|List e.U.]] (FN [[company_register_number|228209b]], UID-Nr. [[tax_id|ATU55541382]]) ausgeführt hat. Die Auftraggeberin bestätigte dies schriftlich. Der Gewerbeschein wurde ebenfalls vorgelegt.
+Im Zuge des Verfahrens wurde festgestellt, dass der Antragsteller in den Jahren 2025 und 2026 Aufträge der [[organization|List e.U.]] ([[company_register_number|FN 228209b]], UID-Nr. [[tax_id|ATU55541382]]) ausgeführt hat. Die Auftraggeberin bestätigte dies schriftlich. Der Gewerbeschein wurde ebenfalls vorgelegt.
 
 Die Vermieterin des Antragstellers, [[person|Salomena Karrer]], hat bestätigt, dass dieser seit dem [[date|1. Jänner 2025]] durchgehend in [[location|Freistadt]] wohnt. Die Lebensgefährtin des Antragstellers, [[person|Viola Pálinkás]], wohnt in [[address|Koldastraße 10/4,
 7540 Moschendorf]]. Sie hat der Behörde zudem den Mietvertrag übermittelt.

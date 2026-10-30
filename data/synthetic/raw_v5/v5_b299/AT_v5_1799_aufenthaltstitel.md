@@ -43,9 +43,9 @@ II. Feststellungen
 Die Antragstellerin war in folgenden Dienstverhältnissen tätig:
 
 Zeitraum | Dienstgeber | Bruttobezug monatlich
-[[date|01.07.2024 – 31.12.2024]] | [[organization|Matt GmbH & Co KG]], FN [[company_register_number|506807f]], UID [[tax_id|ATU14848888]] | EUR 2.140,00
-[[date|01.01.2025 – 30.06.2025]] | [[organization|Ritter & Benda KG]], FN [[company_register_number|520198y]], UID [[tax_id|ATU03421181]] | EUR 2.310,00
-seit [[date|01.07.2025]] | [[organization|Anderl Bau KG]], FN [[company_register_number|260930x]], UID [[tax_id|ATU90226345]] | EUR 2.890,00
+[[date|01.07.2024 – 31.12.2024]] | [[organization|Matt GmbH & Co KG]], [[company_register_number|FN 506807f]], UID [[tax_id|ATU14848888]] | EUR 2.140,00
+[[date|01.01.2025 – 30.06.2025]] | [[organization|Ritter & Benda KG]], [[company_register_number|FN 520198y]], UID [[tax_id|ATU03421181]] | EUR 2.310,00
+seit [[date|01.07.2025]] | [[organization|Anderl Bau KG]], [[company_register_number|FN 260930x]], UID [[tax_id|ATU90226345]] | EUR 2.890,00
 
 Die [[organization|Anderl Bau KG]] hat die Antragstellerin als Bauleiterin mit einer Wochenarbeitszeit von 40 Stunden angestellt. Der Dienstvertrag wurde von [[person|Dr. Dr. Ladislaus Bormann, PhD]] unterzeichnet. Die Dienstgeberin bestätigte, dass das Dienstverhältnis unbefristet ist und die Antragstellerin in der Probezeit keine Mängel gezeigt hat.
 
@@ -94,4 +94,4 @@ Sachbearbeiter
 
 Zugestellt an: [[lawyer|Abraham Schiestl]], Rechtsanwalt, für die Antragstellerin
 
-Kopie an die [[organization|Anderl Bau KG]], FN [[company_register_number|260930x]]
+Kopie an die [[organization|Anderl Bau KG]], [[company_register_number|FN 260930x]]

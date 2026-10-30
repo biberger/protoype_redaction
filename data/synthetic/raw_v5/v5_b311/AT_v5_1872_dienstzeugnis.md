@@ -7,7 +7,7 @@ AUSGEFOLGT AM [[date|4. November 2026]] AN [[person|VALER FRUNZĂ]]
 
 [[organization|JANKO TRANSPORT OG]]
 [[address|SCHLUCKERGASSE 28, 6646 HINTERHORNBACH]]
-FN [[company_register_number|189748t]] · UID [[tax_id|ATU80791859]]
+[[company_register_number|FN 189748t]] · UID [[tax_id|ATU80791859]]
 
 DIENSTZEUGNIS
 

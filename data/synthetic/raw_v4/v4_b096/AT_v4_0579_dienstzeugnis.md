@@ -5,11 +5,11 @@ lang: de
 ---
 [[organization|Lehner & Morscher GmbH & Co KG]]
 [[address|Förgengasse 10/21, 7342 Kaisersdorf]]
-FN [[company_register_number|98129h]], UID [[tax_id|ATU71951578]]
+[[company_register_number|FN 98129h]], UID [[tax_id|ATU71951578]]
 
 DIENSTZEUGNIS
 
-Herr [[person|Filipp Mahler]], geboren am [[date|12.03.1988]], stand vom [[date|1. September 2019]] bis zum [[date|31. Mai 2026]] in einem unbefristeten Dienstverhältnis zu unserem Unternehmen. Sein Dienstverhältnis wurde im Zuge eines Betriebsübergangs nach [[legal_norm|§ 3 AVRAG]] von der [[organization|Janko & Spielmann OG]], FN [[company_register_number|517161g]], UID [[tax_id|ATU37243693]], übernommen; die Betriebsanciennität blieb dabei gewahrt.
+Herr [[person|Filipp Mahler]], geboren am [[date|12.03.1988]], stand vom [[date|1. September 2019]] bis zum [[date|31. Mai 2026]] in einem unbefristeten Dienstverhältnis zu unserem Unternehmen. Sein Dienstverhältnis wurde im Zuge eines Betriebsübergangs nach [[legal_norm|§ 3 AVRAG]] von der [[organization|Janko & Spielmann OG]], [[company_register_number|FN 517161g]], UID [[tax_id|ATU37243693]], übernommen; die Betriebsanciennität blieb dabei gewahrt.
 
 Herr [[person|Mahler]] war als Bauleiter eingesetzt. Seine Funktion und seine Vorgesetzten entwickelten sich wie folgt:
 
@@ -17,7 +17,7 @@ Zeitraum | Funktion | Vorgesetzte/r
 [[date|01.09.2019]] – [[date|31.12.2021]] | Bauleiter Hochbau | [[person|Dal Leitner]]
 [[date|01.01.2022]] – [[date|31.05.2026]] | Bauleiter Projekte | [[person|Baldwin Zartl, BSc]]
 
-Im Projekt arbeitete Herr [[person|Mahler]] eng mit [[person|Apostol Myronenko]] zusammen. Die Baustelle auf der [[street|Schrankenberggasse]] in [[location|Kaisersdorf]] wurde im Jahr 2024 abgeschlossen; die Bauherrin war die [[organization|Breisky Immobilien GmbH]], FN [[company_register_number|98033t]], UID [[tax_id|ATU91260448]], vertreten durch [[person|Dr. Kathi Egger, PhD]].
+Im Projekt arbeitete Herr [[person|Mahler]] eng mit [[person|Apostol Myronenko]] zusammen. Die Baustelle auf der [[street|Schrankenberggasse]] in [[location|Kaisersdorf]] wurde im Jahr 2024 abgeschlossen; die Bauherrin war die [[organization|Breisky Immobilien GmbH]], [[company_register_number|FN 98033t]], UID [[tax_id|ATU91260448]], vertreten durch [[person|Dr. Kathi Egger, PhD]].
 
 Die Weiterbildung zum staatlich geprüften Polier wurde durch das [[organization|Arbeitsmarktservice Burgenland]] ([[organization|AMS]]) gefördert. Herr [[person|Mahler]] hat die Prüfung im Jahr 2023 mit gutem Erfolg abgelegt.
 

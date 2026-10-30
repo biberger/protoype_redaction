@@ -34,11 +34,11 @@ Entscheidungsgründe
 
 I. Verfahrensgang und Sachverhalt
 
-Die Beschwerdeführerinnen stellten am [[date|3. November 2025]] beim Landeshauptmann von [[location|Tirol]] Anträge auf Erteilung einer Rot-Weiß-Rot – Karte plus. Als künftige Arbeitgeberin nannten sie die [[organization|Isaac Pflege KG]] mit dem Sitz in [[address|Kaulbachstraße 7, 6150 Gschnitz]], FN [[company_register_number|582858w]], UID-Nr. [[tax_id|ATU43172035]]. Die Anträge waren auf eine Beschäftigung als diplomierte Pflegefachkräfte im Pflegeheim der [[organization|Isaac Pflege KG]] gerichtet.
+Die Beschwerdeführerinnen stellten am [[date|3. November 2025]] beim Landeshauptmann von [[location|Tirol]] Anträge auf Erteilung einer Rot-Weiß-Rot – Karte plus. Als künftige Arbeitgeberin nannten sie die [[organization|Isaac Pflege KG]] mit dem Sitz in [[address|Kaulbachstraße 7, 6150 Gschnitz]], [[company_register_number|FN 582858w]], UID-Nr. [[tax_id|ATU43172035]]. Die Anträge waren auf eine Beschäftigung als diplomierte Pflegefachkräfte im Pflegeheim der [[organization|Isaac Pflege KG]] gerichtet.
 
 Mit dem angefochtenen Bescheid wies die belangte Behörde die Anträge ab. Sie stützte sich auf eine fehlende Bestätigung über die Anerkennung der Berufsausbildung und auf das Fehlen eines Arbeitsvertrags mit einer Mindestentlohnung. Gegen diesen Bescheid erhoben die Beschwerdeführerinnen am [[date|20. Februar 2026]] fristgerecht Beschwerde. Sie rügten insbesondere, dass die Zweitbeschwerdeführerin im Verwaltungsverfahren zu ihrer Ausbildung nicht gehört worden sei.
 
-Die Erstbeschwerdeführerin [[person|Myrthe Koch]] war zuvor bei der [[organization|Klar AG]], FN [[company_register_number|447849b]], UID-Nr. [[tax_id|ATU76251119]], als Pflegehelferin tätig. Die [[organization|Klar AG]] ist Gesellschafterin der [[organization|Isaac Pflege KG]] und hat ihren Sitz in der [[address|Bäckergasse 46, 6632 Ehrwald]].
+Die Erstbeschwerdeführerin [[person|Myrthe Koch]] war zuvor bei der [[organization|Klar AG]], [[company_register_number|FN 447849b]], UID-Nr. [[tax_id|ATU76251119]], als Pflegehelferin tätig. Die [[organization|Klar AG]] ist Gesellschafterin der [[organization|Isaac Pflege KG]] und hat ihren Sitz in der [[address|Bäckergasse 46, 6632 Ehrwald]].
 
 Die Drittbeschwerdeführerin [[person|Evamarie Kalmar]] legte ihre Anerkennung vom [[date|8. Juli 2025]] vor. Die Zweitbeschwerdeführerin [[person|Riken Morgenstern]] wies sich mit ihrem Reisepass Nr. [[id_document_number|U0949462]] aus. Am [[date|4. Juli 2025]] war sie in der [[street|Florianigasse]] in [[location|Innsbruck]] Opfer eines Übergriffs durch einen Patienten geworden; der Vorfall wurde bei der Polizei angezeigt und ist für das Verfahren nicht entscheidend.
 

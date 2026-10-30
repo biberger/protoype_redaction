@@ -18,13 +18,13 @@ Im Namen des Volkes
 
 In dem Rechtsstreit
 
-der [[organization|Van Camp Logistik GmbH]] (HRB [[company_register_number|70482]], [[court|Amtsgericht Stuttgart]], USt-IdNr. [[tax_id|DE299438057]]), vertreten durch die Geschäftsführerin [[person|Mykhaila Samtschuk]], Klägerin und Berufungsklägerin,
+der [[organization|Van Camp Logistik GmbH]] ([[company_register_number|HRB 70482]], [[court|Amtsgericht Stuttgart]], USt-IdNr. [[tax_id|DE299438057]]), vertreten durch die Geschäftsführerin [[person|Mykhaila Samtschuk]], Klägerin und Berufungsklägerin,
 
 gegen
 
-die [[organization|Gutmann & Werner AG]] (HRB [[company_register_number|16039]], [[court|Amtsgericht München]], USt-IdNr. [[tax_id|DE914266444]]), vertreten durch den Vorstand [[person|Guntram Strauss]], Beklagte und Berufungsbeklagte,
+die [[organization|Gutmann & Werner AG]] ([[company_register_number|HRB 16039]], [[court|Amtsgericht München]], USt-IdNr. [[tax_id|DE914266444]]), vertreten durch den Vorstand [[person|Guntram Strauss]], Beklagte und Berufungsbeklagte,
 
-Streithelferin der Beklagten: [[organization|Nowak Hausverwaltung AG]] (HRB [[company_register_number|168403 B]], [[court|Amtsgericht Bremen]], USt-IdNr. [[tax_id|DE650189729]]), vertreten durch den Prokuristen [[person|Brun Lauber, B.Sc.]],
+Streithelferin der Beklagten: [[organization|Nowak Hausverwaltung AG]] ([[company_register_number|HRB 168403 B]], [[court|Amtsgericht Bremen]], USt-IdNr. [[tax_id|DE650189729]]), vertreten durch den Prokuristen [[person|Brun Lauber, B.Sc.]],
 
 hat der 5. Zivilsenat des [[court|Oberlandesgerichts Celle]] auf die mündliche Verhandlung vom [[date|8. September 2026]] durch die Vorsitzende Richterin am Oberlandesgericht [[judge|Ghinwa Zidane]], die Richterin am Oberlandesgericht [[judge|Azemina Matošević, M.A.]] und den Richter am Oberlandesgericht [[judge|Jaromír Pelikán]] für Recht erkannt:
 

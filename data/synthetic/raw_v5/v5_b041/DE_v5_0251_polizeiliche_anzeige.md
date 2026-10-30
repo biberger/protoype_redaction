@@ -10,16 +10,16 @@ Strafanzeige
 
 Vorgangsnummer [[case_number|2026/118437]]
 
-Anzeigeerstatterin: [[person|Kimiya Mastil]], Disponentin der Niederlassung [[location|Talheim]] der [[organization|Ulbricht & Siegel GmbH]] (HRB [[company_register_number|272415]], [[court|Amtsgericht Frankfurt am Main]], USt-IdNr. [[tax_id|DE574821802]], Steuernummer [[tax_id|87/954/10103]]), [[address|Richolfstraße 30, 74388 Talheim]]
+Anzeigeerstatterin: [[person|Kimiya Mastil]], Disponentin der Niederlassung [[location|Talheim]] der [[organization|Ulbricht & Siegel GmbH]] ([[company_register_number|HRB 272415]], [[court|Amtsgericht Frankfurt am Main]], USt-IdNr. [[tax_id|DE574821802]], Steuernummer [[tax_id|87/954/10103]]), [[address|Richolfstraße 30, 74388 Talheim]]
 
-Strafantrag der Geschädigten [[organization|Buck Fliesen GmbH]] (HRB [[company_register_number|12842]], [[court|Amtsgericht Frankfurt am Main]]), vertreten durch Rechtsanwalt [[lawyer|Omme Eberhardt, B.Sc.]]
+Strafantrag der Geschädigten [[organization|Buck Fliesen GmbH]] ([[company_register_number|HRB 12842]], [[court|Amtsgericht Frankfurt am Main]]), vertreten durch Rechtsanwalt [[lawyer|Omme Eberhardt, B.Sc.]]
 
 Beschuldigter: [[person|Florens Thomsen]]
 
 Zeugen: [[person|Ditmar List]] (Fahrer der [[organization|Ulbricht & Siegel GmbH]]), [[person|Tiny Meissner]] (Lagerverwalterin), [[person|Sevgin Şen]] (Lagerarbeiterin)
 
 Tatzeit: [[date|12. Mai 2026]], 06:40 Uhr bis 07:15 Uhr
-Tatort: Betriebsgelände der [[organization|Grunwald & Reiss GmbH]] (HRB [[company_register_number|179896 B]], [[court|Amtsgericht Hannover]], USt-IdNr. [[tax_id|DE745213652]], Steuernummer [[tax_id|040 787 99559]]), [[address|Bernkastler Weg 2, 01900 Bretnig-Hauswalde]]
+Tatort: Betriebsgelände der [[organization|Grunwald & Reiss GmbH]] ([[company_register_number|HRB 179896 B]], [[court|Amtsgericht Hannover]], USt-IdNr. [[tax_id|DE745213652]], Steuernummer [[tax_id|040 787 99559]]), [[address|Bernkastler Weg 2, 01900 Bretnig-Hauswalde]]
 
 Sachverhalt
 

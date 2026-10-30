@@ -12,7 +12,7 @@ Verfahrensbeteiligte:
 3. [[person|Ba Künzle]], [[address|Hörzingerstraße 5/1, 3250 Wieselburg]]
 4. [[person|Jacquleine Meidl]], Vermieterin
 
-Arbeitgeberin des Herrn [[person|Guzy]]: [[organization|Drápela Fliesen OG]], FN [[company_register_number|645992p]], UID [[tax_id|ATU03351112]], [[address|Zellerstraße 3, 7511 Mischendorf]], Telefon [[phone_number|+43 676 4962726]], E-Mail [[email|office@drapela.at]]
+Arbeitgeberin des Herrn [[person|Guzy]]: [[organization|Drápela Fliesen OG]], [[company_register_number|FN 645992p]], UID [[tax_id|ATU03351112]], [[address|Zellerstraße 3, 7511 Mischendorf]], Telefon [[phone_number|+43 676 4962726]], E-Mail [[email|office@drapela.at]]
 
 Aktenzeichen: [[case_number|BFA-N 2263514/2026]]
 

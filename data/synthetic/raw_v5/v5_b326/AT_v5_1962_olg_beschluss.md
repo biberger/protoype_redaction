@@ -9,7 +9,7 @@ GZ [[case_number|3 R 87/26t]]
 
 BESCHLUSS
 
-Das [[court|Oberlandesgericht Linz]] hat als Rekursgericht durch die Senatspräsidentin [[judge|Ilsemarie Summer]] als Vorsitzende, die Richterin [[judge|Sama Taleb, MBA]] und den Richter [[judge|Dr. Stefan Hiebl]] in der Rechtssache der klagenden Partei [[person|Ingetraut Löffler]], Pensionistin, [[address|Ritzbergerstraße 12, 4652 Steinerkirchen an der Traun]], vertreten durch [[lawyer|Mag. Richard Bekényi]], Rechtsanwalt, gegen die beklagte Partei [[organization|Braga & Seeber AG]], FN [[company_register_number|145066h]], UID-Nr. [[tax_id|ATU25718541]], wegen Werklohn und Mängelbeseitigung, über den Rekurs der klagenden Partei gegen den Beschluss des [[court|Landesgerichts Wels]] vom [[date|12. Mai 2026]], [[case_number|8 Cg 96/25h]], in nicht öffentlicher Sitzung beschlossen:
+Das [[court|Oberlandesgericht Linz]] hat als Rekursgericht durch die Senatspräsidentin [[judge|Ilsemarie Summer]] als Vorsitzende, die Richterin [[judge|Sama Taleb, MBA]] und den Richter [[judge|Dr. Stefan Hiebl]] in der Rechtssache der klagenden Partei [[person|Ingetraut Löffler]], Pensionistin, [[address|Ritzbergerstraße 12, 4652 Steinerkirchen an der Traun]], vertreten durch [[lawyer|Mag. Richard Bekényi]], Rechtsanwalt, gegen die beklagte Partei [[organization|Braga & Seeber AG]], [[company_register_number|FN 145066h]], UID-Nr. [[tax_id|ATU25718541]], wegen Werklohn und Mängelbeseitigung, über den Rekurs der klagenden Partei gegen den Beschluss des [[court|Landesgerichts Wels]] vom [[date|12. Mai 2026]], [[case_number|8 Cg 96/25h]], in nicht öffentlicher Sitzung beschlossen:
 
 Spruch
 
@@ -21,7 +21,7 @@ Begründung
 
 Die Klägerin begehrte von der Beklagten die Zahlung von EUR 18.740,00 sA, weil die Beklagte die Wärmepumpenanlage im Haus der Klägerin nicht fachgerecht errichtet habe. Die Übergabe erfolgte am [[date|28. November 2024]]. Die Mängelrüge langte am [[date|9. Jänner 2025]] bei der Beklagten ein, die Klage wurde am [[date|14. März 2025]] eingebracht.
 
-Die Beklagte beauftragte die Streitverkündete [[organization|Michlmayr Installations OG]], FN [[company_register_number|578241f]], UID-Nr. [[tax_id|ATU67713398]], mit den hydraulischen Arbeiten. Die Bauleitung oblag [[person|Ing. Dunja Bošnjak]]. Die Elektroinstallation wurde durch die Nebenintervenientin [[organization|Geißler & Guggenberger OG]], FN [[company_register_number|356709y]], UID-Nr. [[tax_id|ATU96851335]], ausgeführt, deren Polier [[person|Salwā Samih]] war.
+Die Beklagte beauftragte die Streitverkündete [[organization|Michlmayr Installations OG]], [[company_register_number|FN 578241f]], UID-Nr. [[tax_id|ATU67713398]], mit den hydraulischen Arbeiten. Die Bauleitung oblag [[person|Ing. Dunja Bošnjak]]. Die Elektroinstallation wurde durch die Nebenintervenientin [[organization|Geißler & Guggenberger OG]], [[company_register_number|FN 356709y]], UID-Nr. [[tax_id|ATU96851335]], ausgeführt, deren Polier [[person|Salwā Samih]] war.
 
 Das Erstgericht wies die Klage mit der Begründung ab, der Mangel sei nicht nachgewiesen. Mit dem angefochtenen Beschluss sprach es zudem aus, dass die Klägerin den Beklagten die Kosten des Sachverständigenbeweises zu ersetzen habe, und verwies auf das Gutachten des Sachverständigen [[person|Everhard Brezina]].
 

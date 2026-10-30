@@ -21,7 +21,7 @@ Ihrem Antrag vom [[date|12.03.2026]] auf Erteilung eines Aufenthaltstitels „Ro
 
 Begründung
 
-Sie sind rumänischer Staatsangehöriger und am [[date|02.07.1988]] geboren. Ihre Versicherungsnummer lautet [[social_security_number|4330 190132]]. Sie sind seit dem [[date|01.09.2025]] bei der [[organization|Klimaszewski Metallbau GmbH & Co KG]] als Schweißer beschäftigt. Die Gesellschaft ist unter FN [[company_register_number|165231m]] beim [[court|Landesgericht Linz]] eingetragen, UID-Nr. [[tax_id|ATU25172265]]; ihr Sitz befindet sich in [[address|Siebeneichengasse 7, 4714 Meggenhofen]]. Die Betriebsstätte, in der Sie tätig sind, liegt in [[location|Landeck]].
+Sie sind rumänischer Staatsangehöriger und am [[date|02.07.1988]] geboren. Ihre Versicherungsnummer lautet [[social_security_number|4330 190132]]. Sie sind seit dem [[date|01.09.2025]] bei der [[organization|Klimaszewski Metallbau GmbH & Co KG]] als Schweißer beschäftigt. Die Gesellschaft ist unter [[company_register_number|FN 165231m]] beim [[court|Landesgericht Linz]] eingetragen, UID-Nr. [[tax_id|ATU25172265]]; ihr Sitz befindet sich in [[address|Siebeneichengasse 7, 4714 Meggenhofen]]. Die Betriebsstätte, in der Sie tätig sind, liegt in [[location|Landeck]].
 
 Der Geschäftsführer [[person|Rutger van der Laan]] hat die Beschäftigung mit Schreiben vom [[date|25.02.2026]] bestätigt und das Bruttogehalt angegeben. Die Vertragsbedingungen entsprechen dem Kollektivvertrag. Ihre Deutschkenntnisse entsprechen dem Niveau A2, wie das Zertifikat vom [[date|03.04.2026]] belegt; die Integrationsprüfung haben Sie am [[date|20.05.2026]] bestanden. Ein Strafregisterauszug ohne Eintragungen liegt bei.
 

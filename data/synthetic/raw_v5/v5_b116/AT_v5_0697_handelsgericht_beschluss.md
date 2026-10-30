@@ -9,7 +9,7 @@ lang: de
 
 GZ [[case_number|9 Fr 3318/26x]]
 
-Firmenbuch: [[organization|R***** KG]], FN [[company_register_number|*****]], UID-Nr. [[tax_id|*****]]
+Firmenbuch: [[organization|R***** KG]], [[company_register_number|FN *****]], UID-Nr. [[tax_id|*****]]
 
 Beschluss
 
@@ -25,7 +25,7 @@ Begründung
 
 Die Antragstellerin ist persönlich haftende Gesellschafterin der [[organization|R***** KG]]. Sie meldete durch die geschäftsführende Gesellschafterin [[person|D***** A*****]] an, dass [[person|N***** A*****]] seine Kommanditbeteiligung mit Vertrag vom [[date|27. März 2026]] an die Kommanditistin [[person|R***** S*****]] übertragen hat. Die Anmeldung wurde von [[person|Dr. A***** K*****]] als Prokuristin unterfertigt; deren Prokura ist seit dem Jahr 2021 im Firmenbuch eingetragen und wurde nicht angefochten.
 
-Die [[organization|R***** OG]], FN [[company_register_number|*****]], hat der Übertragung als weitere Kommanditistin zugestimmt; die Zustimmungserklärung hat deren Geschäftsführerin [[person|I***** N*****]] unterschrieben. Die [[person|A*****s]] Austrittserklärung vom [[date|27. März 2026]] wurde notariell beglaubigt.
+Die [[organization|R***** OG]], [[company_register_number|FN *****]], hat der Übertragung als weitere Kommanditistin zugestimmt; die Zustimmungserklärung hat deren Geschäftsführerin [[person|I***** N*****]] unterschrieben. Die [[person|A*****s]] Austrittserklärung vom [[date|27. März 2026]] wurde notariell beglaubigt.
 
 Laut dem Übertragungsvertrag, der dem Antrag beiliegt, übernimmt der Ausscheidende den bisher betrieblich genutzten Pkw mit dem Kennzeichen [[license_plate|WE-339OH]]. Das Abfindungsguthaben aus dem Kapitalkonto wurde mit 18.400 Euro festgesetzt und ist bis zum [[date|30. Juni 2026]] ratenweise zu begleichen. Seit dem [[date|1. April 2026]] ist der Ausscheidende am Gewinn und Verlust der Gesellschaft nicht mehr beteiligt. Die Identität der Übernehmerin wurde anhand des Personalausweises Nr. [[id_document_number|E6640433]] festgestellt.
 

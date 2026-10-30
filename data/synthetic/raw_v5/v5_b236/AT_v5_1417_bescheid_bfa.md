@@ -20,7 +20,7 @@ Begründung
 
 I. Verfahrensgang
 
-[[person|Masoud Bayat]] (im Folgenden: Beschwerdeführer) ist iranischer Staatsangehöriger. Er stellte am [[date|03.03.2026]] den Antrag auf Erteilung der Rot-Weiß-Rot – Karte plus, gestützt auf ein Arbeitsplatzangebot der [[organization|Metzler & Ender GmbH]] (FN [[company_register_number|446301a]], UID [[tax_id|ATU16074717]]). Bis zum [[date|28.02.2026]] war der Beschwerdeführer bei der [[organization|Thaler & Neuhauser e.U.]] (FN [[company_register_number|175571v]], UID [[tax_id|ATU59361791]]) beschäftigt.
+[[person|Masoud Bayat]] (im Folgenden: Beschwerdeführer) ist iranischer Staatsangehöriger. Er stellte am [[date|03.03.2026]] den Antrag auf Erteilung der Rot-Weiß-Rot – Karte plus, gestützt auf ein Arbeitsplatzangebot der [[organization|Metzler & Ender GmbH]] ([[company_register_number|FN 446301a]], UID [[tax_id|ATU16074717]]). Bis zum [[date|28.02.2026]] war der Beschwerdeführer bei der [[organization|Thaler & Neuhauser e.U.]] ([[company_register_number|FN 175571v]], UID [[tax_id|ATU59361791]]) beschäftigt.
 
 Der Beschwerdeführer ist unter der Versicherungsnummer [[social_security_number|5132 230345]] bei der [[organization|Österreichischen Gesundheitskasse]] gemeldet. Für allfällige Rückzahlungen wurde die Bankverbindung [[bank_account|AT46 7706 3248 5402 2248]] angegeben.
 

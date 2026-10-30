@@ -11,7 +11,7 @@ Entscheidungsdatum [[date|12.03.2026]]
 
 Kopf
 
-Der [[court|Verwaltungsgerichtshof]] hat durch den Hofrat [[judge|Mag. Elemír Kupec]] als Vorsitzenden und den Hofrat [[judge|Ing. Gall Riedmann]] als Berichter sowie die weiteren Richter in der Revisionssache der [[organization|Schier & Flicker GmbH & Co KG]] (FN [[company_register_number|312853d]], UID-Nr. [[tax_id|ATU40305175]]), vertreten durch Rechtsanwältin [[lawyer|Freya Breuer]], gegen das Erkenntnis des [[court|Landesverwaltungsgerichtes Salzburg]] vom [[date|14. Mai 2024]], [[case_number|LVwG-5/1187/9-2024]], betreffend Änderung einer gewerblichen Betriebsanlage, in nichtöffentlicher Sitzung zu Recht erkannt:
+Der [[court|Verwaltungsgerichtshof]] hat durch den Hofrat [[judge|Mag. Elemír Kupec]] als Vorsitzenden und den Hofrat [[judge|Ing. Gall Riedmann]] als Berichter sowie die weiteren Richter in der Revisionssache der [[organization|Schier & Flicker GmbH & Co KG]] ([[company_register_number|FN 312853d]], UID-Nr. [[tax_id|ATU40305175]]), vertreten durch Rechtsanwältin [[lawyer|Freya Breuer]], gegen das Erkenntnis des [[court|Landesverwaltungsgerichtes Salzburg]] vom [[date|14. Mai 2024]], [[case_number|LVwG-5/1187/9-2024]], betreffend Änderung einer gewerblichen Betriebsanlage, in nichtöffentlicher Sitzung zu Recht erkannt:
 
 Spruch
 
@@ -21,7 +21,7 @@ Begründung
 
 Mit Bescheid der [[organization|Bezirkshauptmannschaft Tamsweg]] vom [[date|14.08.2023]] wurde der Revisionswerberin die Genehmigung für die Erweiterung der Lagerhalle auf der [[street|Feilstraße]] in [[location|Unternberg]] erteilt. Geschäftsführer der Revisionswerberin ist Herr [[person|Dr. J***** G*****]]. Die Erweiterung betrifft eine Nutzungsfläche von 820 m². Die Auflagen betrafen Lärmschutz und den Lieferverkehr in den Abendstunden.
 
-Die Liegenschaft gehört der [[organization|Spalt Software KG]] (FN [[company_register_number|640341d]], UID-Nr. [[tax_id|ATU79903160]]) mit Sitz in [[address|Gutenbergstraße 21/18,
+Die Liegenschaft gehört der [[organization|Spalt Software KG]] ([[company_register_number|FN 640341d]], UID-Nr. [[tax_id|ATU79903160]]) mit Sitz in [[address|Gutenbergstraße 21/18,
 8421 Hainsdorf im Schwarzautal]], die sie an die Revisionswerberin vermietet hat. Die Gesellschaft ist im Verfahren als Mitbeteiligte beigezogen und wird von Rechtsanwältin [[lawyer|Miriam Michel]] vertreten.
 
 Gegen diesen Bescheid erhob die Nachbarin [[person|E***** S*****]], Eigentümerin des angrenzenden Wohnhauses, Beschwerde. Sie wurde dabei von Rechtsanwalt [[lawyer|Günter Haller]] vertreten. Die Beschwerdeführerin machte geltend, die Lärmbelastung überschreite die zumutbare Grenze, und verwies auf die Aussage der Zeugin [[person|K*****]], die die Ladevorgänge in den Nachtstunden beobachtet habe. Die Zeugin gab an, die Rolltore seien regelmäßig vor 6 Uhr geöffnet worden.

@@ -15,7 +15,7 @@ KLAGEBEANTWORTUNG
 
 In der Rechtssache der klagenden Partei [[person|Valerien Dechant]], [[address|Schlüsselhofgasse 10, 8144 Haselsdorf-
 Tobelbad]], vertreten durch die Rechtsanwältin [[lawyer|Anna-Livia Windels]], gegen die beklagte Partei [[organization|Klar Gas-
-tro GmbH]], FN [[company_register_number|352374y]], UID-Nr. [[tax_id|ATU45548019]], mit dem Sitz in [[address|Oberhaidstraße 8, 8461 Ratsch an der Weinstraße]], wegen EUR 14.200,00 sA erstattet die beklagte Partei fristgerecht folgende
+tro GmbH]], [[company_register_number|FN 352374y]], UID-Nr. [[tax_id|ATU45548019]], mit dem Sitz in [[address|Oberhaidstraße 8, 8461 Ratsch an der Weinstraße]], wegen EUR 14.200,00 sA erstattet die beklagte Partei fristgerecht folgende
 
 Klagebeantwortung
 

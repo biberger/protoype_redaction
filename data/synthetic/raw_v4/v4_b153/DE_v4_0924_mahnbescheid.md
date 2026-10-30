@@ -17,7 +17,7 @@ M A H N B E S C H E I D
 
 In dem Mahnverfahren
 
-der [[organization|Bechtold Event GmbH]] (HRB [[company_register_number|49691]] beim [[court|Amtsgericht Charlottenburg]], USt-IdNr. [[tax_id|DE902795329]], Steuernummer [[tax_id|50/005/25695]]), [[address|Schlüterstraße 61, 10625 Berlin]], vertreten durch die Prokuristin [[person|Lenka Zabel]],
+der [[organization|Bechtold Event GmbH]] ([[company_register_number|HRB 49691]] beim [[court|Amtsgericht Charlottenburg]], USt-IdNr. [[tax_id|DE902795329]], Steuernummer [[tax_id|50/005/25695]]), [[address|Schlüterstraße 61, 10625 Berlin]], vertreten durch die Prokuristin [[person|Lenka Zabel]],
 
 Antragstellerin,
 

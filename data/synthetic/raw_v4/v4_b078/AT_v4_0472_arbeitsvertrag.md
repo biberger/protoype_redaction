@@ -5,7 +5,7 @@ lang: de
 ---
 [[organization|NIGG OG]]
 [[address|MONTESSORISTRASSE 13, 6382 KIRCHDORF IN TIROL]]
-FN [[company_register_number|562497b]] · UID-NR. [[tax_id|ATU08900723]]
+[[company_register_number|FN 562497b]] · UID-NR. [[tax_id|ATU08900723]]
 
 ARBEITSVERTRAG
 

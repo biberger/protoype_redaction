@@ -10,7 +10,7 @@ abgeschlossen zwischen
 Verkäuferin:
 [[organization|Drescher Reinigungs AG]]
 [[address|Sandgasse 115, 5225 Jeging]]
-FN [[company_register_number|342894g]], UID-Nr. [[tax_id|ATU13414991]]
+[[company_register_number|FN 342894g]], UID-Nr. [[tax_id|ATU13414991]]
 vertreten durch [[person|Benno Hauck]], Vorstandsmitglied
 
 und den Käufern:

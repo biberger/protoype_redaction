@@ -9,7 +9,7 @@ GZ [[case_number|5 C 214/26m]]-21
 
 **IM NAMEN DER REPUBLIK**
 
-Das [[court|Bezirksgericht Gänserndorf]] hat durch die Richterin [[judge|Petronella Hofmann, BSc]] in der Rechtssache der klagenden Partei [[organization|Samardžić Elektro GmbH]], [[address|Fischingerstraße 6, 2293 Marchegg]], FN [[company_register_number|161676i]], UID-Nr. [[tax_id|ATU15485320]], vertreten durch [[lawyer|Ing. Sasa Čurko]], gegen die beklagte Partei [[person|MMag. G***** K*****]], [[address|*****]], wegen 4 812,60 EUR sA, nach der mündlichen Verhandlung vom [[date|14.05.2026]] zu Recht erkannt:
+Das [[court|Bezirksgericht Gänserndorf]] hat durch die Richterin [[judge|Petronella Hofmann, BSc]] in der Rechtssache der klagenden Partei [[organization|Samardžić Elektro GmbH]], [[address|Fischingerstraße 6, 2293 Marchegg]], [[company_register_number|FN 161676i]], UID-Nr. [[tax_id|ATU15485320]], vertreten durch [[lawyer|Ing. Sasa Čurko]], gegen die beklagte Partei [[person|MMag. G***** K*****]], [[address|*****]], wegen 4 812,60 EUR sA, nach der mündlichen Verhandlung vom [[date|14.05.2026]] zu Recht erkannt:
 
 **Spruch**
 
@@ -19,7 +19,7 @@ II. Die beklagte Partei ist schuldig, der klagenden Partei die mit 1 036,44 EUR 
 
 **Entscheidungsgründe**
 
-Die Klägerin betreibt einen Elektrobetrieb in [[location|Marchegg]] mit einer Werkstätte in [[address|Broschstraße 6/6, 8712 Proleb]] und verlangt den Ersatz der Reparaturkosten für ihren Kleintransporter. Am [[date|14. August 2025]] gegen 7.40 Uhr bog die Beklagte mit dem Pkw mit dem Kennzeichen [[license_plate|SL 6423 GD]] an der Kreuzung [[street|Fischinger Straße]]/[[street|Bahnhofsplatz]] nach links ab und stieß mit dem vorfahrtsberechtigten Transporter zusammen, den [[person|N***** E*****]] lenkte. Der Pkw steht im Eigentum der [[organization|Lazarovych e.U.]] (FN [[company_register_number|141246s]], UID-Nr. [[tax_id|ATU62994406]]) mit Sitz in [[address|Peter-Pfenninger-Straße 126, 5561 Untertauern]]; die Gesellschaft ist dem Verfahren als Nebenintervenientin beigetreten.
+Die Klägerin betreibt einen Elektrobetrieb in [[location|Marchegg]] mit einer Werkstätte in [[address|Broschstraße 6/6, 8712 Proleb]] und verlangt den Ersatz der Reparaturkosten für ihren Kleintransporter. Am [[date|14. August 2025]] gegen 7.40 Uhr bog die Beklagte mit dem Pkw mit dem Kennzeichen [[license_plate|SL 6423 GD]] an der Kreuzung [[street|Fischinger Straße]]/[[street|Bahnhofsplatz]] nach links ab und stieß mit dem vorfahrtsberechtigten Transporter zusammen, den [[person|N***** E*****]] lenkte. Der Pkw steht im Eigentum der [[organization|Lazarovych e.U.]] ([[company_register_number|FN 141246s]], UID-Nr. [[tax_id|ATU62994406]]) mit Sitz in [[address|Peter-Pfenninger-Straße 126, 5561 Untertauern]]; die Gesellschaft ist dem Verfahren als Nebenintervenientin beigetreten.
 
 Die Beklagte bestreitet ihr Verschulden. Sie legte ihren Führerschein mit der Nummer [[id_document_number|06286374]] vor, der für die Klasse B ausgestellt ist. Sie habe den Blinker gesetzt und den Transporter nicht gesehen, weil eine Lieferwagen-Sichtschutzplane die rechte Fahrbahnhälfte verdeckte. [[person|K*****]] räumte bei ihrer Einvernahme ein, den Transporter erst im letzten Moment wahrgenommen zu haben.
 

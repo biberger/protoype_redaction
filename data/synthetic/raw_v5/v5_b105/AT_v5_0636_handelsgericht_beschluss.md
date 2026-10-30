@@ -8,7 +8,7 @@ lang: de
 
 GZ [[case_number|1 Cg 42/26y]]
 
-Das [[court|Handelsgericht Wien]] hat durch den Richter [[judge|Reiner Weiler]] in der Rechtssache der klagenden Partei [[organization|Wilson & Ettl GmbH]], FN [[company_register_number|161775f]], UID-Nr. [[tax_id|ATU35300358]], vertreten durch [[lawyer|Romed Epstein, MBA]], Rechtsanwalt in [[location|Graz]], gegen die beklagte Partei [[organization|Kardeş Holz GmbH]], FN [[company_register_number|509155h]], UID-Nr. [[tax_id|ATU48915161]], [[address|Stoibstraße 9/19, 2164 Wildendürnbach]], vertreten durch den Geschäftsführer [[person|J***** S*****]], wegen Zahlung von 212.430 EUR sA, über die Anträge auf Urkundenvorlage und Kostenbestimmung nach Klagsrücknahme,
+Das [[court|Handelsgericht Wien]] hat durch den Richter [[judge|Reiner Weiler]] in der Rechtssache der klagenden Partei [[organization|Wilson & Ettl GmbH]], [[company_register_number|FN 161775f]], UID-Nr. [[tax_id|ATU35300358]], vertreten durch [[lawyer|Romed Epstein, MBA]], Rechtsanwalt in [[location|Graz]], gegen die beklagte Partei [[organization|Kardeş Holz GmbH]], [[company_register_number|FN 509155h]], UID-Nr. [[tax_id|ATU48915161]], [[address|Stoibstraße 9/19, 2164 Wildendürnbach]], vertreten durch den Geschäftsführer [[person|J***** S*****]], wegen Zahlung von 212.430 EUR sA, über die Anträge auf Urkundenvorlage und Kostenbestimmung nach Klagsrücknahme,
 
 beschlossen:
 

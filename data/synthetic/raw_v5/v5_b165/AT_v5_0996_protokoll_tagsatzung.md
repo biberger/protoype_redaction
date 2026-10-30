@@ -18,7 +18,7 @@ Parteien:
 KLÄGERIN: [[person|SALOMENA GÜRTLER]], persönlich erschienen
 
 BEKLAGTE: [[organization|RAICH GAS-
-TRO AG]], FN [[company_register_number|424151b]], UID [[tax_id|ATUO6689644]], Sitz [[address|WAGRAMER-
+TRO AG]], [[company_register_number|FN 424151b]], UID [[tax_id|ATUO6689644]], Sitz [[address|WAGRAMER-
 STRASSE 10, 72O1 NEUDÖRFL]]
 vertreten durch Geschäftsführerin [[person|DI Irmine Feigl, BSc]]
 

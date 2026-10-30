@@ -6,9 +6,9 @@ lang: de
 [[court|LANDESGERICHT KREMS AN DER DONAU]]
 FIRMENBUCH
 BEGLAUBIGTE ABSCHRIFT
-[[organization|KEIL & BRAUN GMBH]] - FN [[company_register_number|645562g]]
+[[organization|KEIL & BRAUN GMBH]] - [[company_register_number|FN 645562g]]
 
-FN [[company_register_number|645562g]], [[organization|Keil & Braun GmbH]]
+[[company_register_number|FN 645562g]], [[organization|Keil & Braun GmbH]]
 Sitz: [[location|Kirchberg am Walde]]
 Anschrift: [[address|Fürstenweg 7/18, 3932 Kirchberg am Walde]]
 UID-Nr.: [[tax_id|ATU20754743]]
@@ -16,7 +16,7 @@ Geschäftsführerin: [[person|Wiltraud Miller]], bestellt seit [[date|12.03.2019
 Eintragung: Gesellschaftsvertrag vom [[date|5. Juli 2021]], Stammkapital 35.000,00 EUR. Die frühere Firma lautete bis zu dieser Änderung Keil Bau GmbH; die Änderung wurde am [[date|5. Juli 2021]] eingetragen und die Firmenänderung in den Geschäftsbriefen angezeigt.
 Entscheidung: Die Richterin [[judge|Hedda Ayeni]] hat die Eintragung bewilligt.
 
-FN [[company_register_number|401061x]], [[organization|Filko AG]]
+[[company_register_number|FN 401061x]], [[organization|Filko AG]]
 Sitz: [[location|Krems an der Donau]]
 UID-Nr.: [[tax_id|ATU92857374]]
 Vorstand: [[person|Marcello Seemann]], bestellt am [[date|21.09.2022]]
@@ -26,7 +26,7 @@ Satzungsänderung (Sitzverlegung von [[location|Kirchberg am Walde]] nach [[loca
 Prokura der [[person|Deba Quaderer]] gelöscht mit Wirkung vom [[date|30.09.2025]].
 Entscheidung: [[judge|Savo Pavelić]], Rechtspfleger.
 
-FN [[company_register_number|115933s]], [[organization|Crnković GmbH]]
+[[company_register_number|FN 115933s]], [[organization|Crnković GmbH]]
 Sitz: [[location|Zwettl]]
 UID-Nr.: [[tax_id|ATU92894716]]
 Geschäftsführer: [[person|Giraldo Steinacker]], einzelvertretungsberechtigt

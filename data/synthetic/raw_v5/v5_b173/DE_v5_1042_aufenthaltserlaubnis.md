@@ -23,7 +23,7 @@ BESCHEID
 
 2. Die Erlaubnis wird unter den Nebenbestimmungen der Ziffern 3 bis 5 erteilt. Die bisherige Aufenthaltserlaubnis lief am [[date|20.10.2026]] ab. Der Antrag wurde rechtzeitig vor dem Ablauf gestellt, sodass die Fortgeltungswirkung nach [[legal_norm|§ 81 Abs 4 AufenthG]] bis zu dieser Entscheidung wirkte.
 
-3. Die Beschäftigung ist nur bei der [[organization|Speer Fliesen AG]] (HRB [[company_register_number|45982]], [[court|Amtsgericht Düsseldorf]], USt-IdNr. [[tax_id|DE980803909]]) zulässig. Ein Wechsel des Arbeitgebers bedarf der Zustimmung der Behörde.
+3. Die Beschäftigung ist nur bei der [[organization|Speer Fliesen AG]] ([[company_register_number|HRB 45982]], [[court|Amtsgericht Düsseldorf]], USt-IdNr. [[tax_id|DE980803909]]) zulässig. Ein Wechsel des Arbeitgebers bedarf der Zustimmung der Behörde.
 
 4. Die Erlaubnis erlischt, wenn der Lebensunterhalt nicht mehr gesichert ist. Die Voraussetzungen des [[legal_norm|§ 5 Abs 1 Nr 1 AufenthG]] sind zu beachten.
 
@@ -35,9 +35,9 @@ I.
 
 Der Antragsteller ist seit dem [[date|2. Oktober 2022]] im Besitz einer befristeten Aufenthaltserlaubnis. Er hat im Antrag mitgeteilt, dass er seit dem [[date|1. März 2025]] als Fliesenleger bei der [[organization|Speer Fliesen AG]] tätig ist. Der Arbeitsvertrag wurde am [[date|17.02.2025]] geschlossen. Die Rentenversicherungsnummer lautet [[social_security_number|63 280137 A 986]].
 
-Die Wohnung in der [[address|Merowingerstraße 49, 15518 Beerfelde]] wird von der [[organization|Severino Hausverwaltung UG (haftungsbeschränkt)]] (HRB [[company_register_number|252224]], [[court|Amtsgericht Düsseldorf]]) verwaltet. Der Mietvertrag wurde am [[date|01.09.2022]] geschlossen und ist unbefristet. Die Hausverwaltung hat den Mietvertrag am [[date|8. Juni 2026]] bestätigt. Steuerlich ist die Gesellschaft unter der Steuernummer [[tax_id|61 332 25137]] geführt. Die Wohnung umfasst 74 Quadratmeter und ist für zwei Personen ausreichend.
+Die Wohnung in der [[address|Merowingerstraße 49, 15518 Beerfelde]] wird von der [[organization|Severino Hausverwaltung UG (haftungsbeschränkt)]] ([[company_register_number|HRB 252224]], [[court|Amtsgericht Düsseldorf]]) verwaltet. Der Mietvertrag wurde am [[date|01.09.2022]] geschlossen und ist unbefristet. Die Hausverwaltung hat den Mietvertrag am [[date|8. Juni 2026]] bestätigt. Steuerlich ist die Gesellschaft unter der Steuernummer [[tax_id|61 332 25137]] geführt. Die Wohnung umfasst 74 Quadratmeter und ist für zwei Personen ausreichend.
 
-Die Verpflichtungserklärung für den Lebensunterhalt gab Herr [[person|Alexis Gantner]] als persönlich haftender Gesellschafter der [[organization|Burchard & Wunderlich KG]] (HRA [[company_register_number|298158]], [[court|Amtsgericht Hannover]]) ab. Sie wurde am [[date|29.06.2026]] eingereicht. Sie enthält die Steuernummer [[tax_id|012 850 51719]] sowie die Umsatzsteuer-Identifikationsnummer [[tax_id|DE235746732]] der Gesellschaft. Der Verpflichtungsgeber verpflichtet sich, für den Lebensunterhalt bis zum Ablauf der Geltungsdauer einzustehen.
+Die Verpflichtungserklärung für den Lebensunterhalt gab Herr [[person|Alexis Gantner]] als persönlich haftender Gesellschafter der [[organization|Burchard & Wunderlich KG]] ([[company_register_number|HRA 298158]], [[court|Amtsgericht Hannover]]) ab. Sie wurde am [[date|29.06.2026]] eingereicht. Sie enthält die Steuernummer [[tax_id|012 850 51719]] sowie die Umsatzsteuer-Identifikationsnummer [[tax_id|DE235746732]] der Gesellschaft. Der Verpflichtungsgeber verpflichtet sich, für den Lebensunterhalt bis zum Ablauf der Geltungsdauer einzustehen.
 
 Der Antragsteller hat ein Sprachzertifikat auf dem Niveau B1 vorgelegt. Die Prüfung wurde am [[date|12. Mai 2026]] von [[person|Prof. Dr. Wiolka Stańczyk]] von der [[organization|Universität Potsdam]] bestätigt.
 

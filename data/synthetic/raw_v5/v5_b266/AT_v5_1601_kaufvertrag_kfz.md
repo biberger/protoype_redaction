@@ -11,7 +11,7 @@ KAUFVERTRAG ÜBER EIN KRAFTFAHRZEUG
 
 abgeschlossen zwischen
 
-der [[organization|Halevi GmbH & Co KG]], [[address|Moosalmstraße 9/10, 8861 Sankt Georgen am Kreischberg]], FN [[company_register_number|16968d]], UID-Nr. [[tax_id|ATU60161531]], vertreten durch die Prokuristin [[person|MMag. Hubertina Czech]], im Folgenden „Verkäuferin“,
+der [[organization|Halevi GmbH & Co KG]], [[address|Moosalmstraße 9/10, 8861 Sankt Georgen am Kreischberg]], [[company_register_number|FN 16968d]], UID-Nr. [[tax_id|ATU60161531]], vertreten durch die Prokuristin [[person|MMag. Hubertina Czech]], im Folgenden „Verkäuferin“,
 
 und
 

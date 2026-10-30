@@ -37,7 +37,7 @@ Die Angeklagten bekannten sich in der Hauptverhandlung nicht in vollem Umfang sc
 
 II. Entscheidungsgründe
 
-Die Angeklagte [[person|Bachmann]] war seit [[date|1. März 2023]] bei der [[organization|Grau & Mandić GmbH]], FN [[company_register_number|131331i]], UID-Nummer [[tax_id|ATU90262705]], beschäftigt. Die Gesellschaft betreibt ein Trockenbauunternehmen in [[location|Krems an der Donau]]. Gesellschafterin ist die Privatbeteiligte [[person|Käte Haidegger]], wohnhaft in [[address|Philippine-Welser-Straße 2, 6867 Schwarzenberg]].
+Die Angeklagte [[person|Bachmann]] war seit [[date|1. März 2023]] bei der [[organization|Grau & Mandić GmbH]], [[company_register_number|FN 131331i]], UID-Nummer [[tax_id|ATU90262705]], beschäftigt. Die Gesellschaft betreibt ein Trockenbauunternehmen in [[location|Krems an der Donau]]. Gesellschafterin ist die Privatbeteiligte [[person|Käte Haidegger]], wohnhaft in [[address|Philippine-Welser-Straße 2, 6867 Schwarzenberg]].
 
 Die Angeklagte [[person|Bachmann]] verbuchte in der Folge Rechnungen angeblicher Subunternehmer, deren Leistungen nie erbracht wurden. Die Zahlungen flossen an die Firma [[organization|Lachaud Trockenbau e.U.]], die der Angeklagte [[person|Lachaud]] führte. Die Arbeiten sollten angeblich in der [[street|Luftbadgasse]] in [[location|Krems]] stattgefunden haben. Die Zeugin [[person|DI Paulína Korbačka]], Bauleiterin der Gesellschaft, gab in der Hauptverhandlung an, auf dieser Baustelle seien weder Trockenbauarbeiten noch Materiallieferungen erfolgt.
 

@@ -6,7 +6,7 @@ lang: de
 [[court|LANDESGERICHT KLAGENFURT]] ALS FIRMENBUCHGERICHT
 FIRMENBUCHAUSZUG (VOLLAUSZUG), ABGESCHLOSSEN AM [[date|03.09.2026]]
 
-FN [[company_register_number|356671t]]
+[[company_register_number|FN 356671t]]
 
 Firma: [[organization|BERNSTEIN & DRAXLER GMBH & CO KG]]
 Sitz: [[address|Theodor-Grill-Straße 15/21, 9852 Trebesing]]

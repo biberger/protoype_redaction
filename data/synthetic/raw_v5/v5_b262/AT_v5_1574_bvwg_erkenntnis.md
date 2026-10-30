@@ -27,7 +27,7 @@ I. Verfahrensgang
 
 Bei einer Kontrolle am [[date|14.03.2025]] stellte die Zeugin [[person|Gerti Schleicher]] auf einer Liegenschaft der Gesellschaft fest, dass der ukrainische Staatsangehörige [[person|Erik Hastert]] Pflanzarbeiten verrichtete. Er wies sich mit seinem Reisepass Nr. [[id_document_number|P6991664]] aus. Eine Bewilligung nach dem [[legal_norm|AuslBG]] lag nicht vor.
 
-Die belangte Behörde sah darin eine Übertretung, die [[person|DDr. Antonius Fink, LL.M.]] als verantwortlichem Beauftragter der [[organization|Hinterberger Agrar GmbH]], [[tax_id|UID-Nummer ATU00979423]], FN [[company_register_number|146740w]], zuzurechnen sei. Das Straferkenntnis erging am [[date|9. Mai 2025]]. Die Beschwerde langte am [[date|23.05.2025]] bei der belangten Behörde ein.
+Die belangte Behörde sah darin eine Übertretung, die [[person|DDr. Antonius Fink, LL.M.]] als verantwortlichem Beauftragter der [[organization|Hinterberger Agrar GmbH]], [[tax_id|UID-Nummer ATU00979423]], [[company_register_number|FN 146740w]], zuzurechnen sei. Das Straferkenntnis erging am [[date|9. Mai 2025]]. Die Beschwerde langte am [[date|23.05.2025]] bei der belangten Behörde ein.
 
 Die Rechtsanwältin [[lawyer|Dr. med. Claudette Scheibelreiter]] vertritt Herrn [[person|Fink]], die Rechtsanwältin [[lawyer|Friedlinde Loacker]] die Gesellschaft. Der Zeuge [[person|Hastert]] ist in einem gesonderten Entgeltverfahren durch Rechtsanwalt [[lawyer|Simplicio Colella]] vertreten.
 
@@ -43,7 +43,7 @@ Bei [[person|Fink]] steht die Übertretung dagegen fest. Die belangte Behörde h
 
 Die Entscheidung über die Kosten stützt sich auf [[legal_norm|§ 52 Abs 1 VwGVG]] iVm [[legal_norm|§ 64 Abs 2 VStG]]. Eine mündliche Verhandlung war nach [[legal_norm|§ 24 Abs 1 VwGVG]] durchzuführen; sie wurde am [[date|15. September 2026]] abgehalten.
 
-Die Feststellungen beruhen auf dem Akteninhalt, insbesondere auf der Anzeige der Kontrollorgane, dem Firmenbuchauszug zur FN [[company_register_number|146740w]] und den Angaben des Beschwerdeführers in der Verhandlung. Die Zeugin [[person|Schleicher]] hat den Sachverhalt glaubhaft geschildert; ihre Angaben decken sich mit den Lichtbildern im Akt. Auf die Einvernahme des Zeugen [[person|Hastert]] konnte verzichtet werden, weil er bereits im gesonderten Verfahren ausgesagt hat.
+Die Feststellungen beruhen auf dem Akteninhalt, insbesondere auf der Anzeige der Kontrollorgane, dem Firmenbuchauszug zur [[company_register_number|FN 146740w]] und den Angaben des Beschwerdeführers in der Verhandlung. Die Zeugin [[person|Schleicher]] hat den Sachverhalt glaubhaft geschildert; ihre Angaben decken sich mit den Lichtbildern im Akt. Auf die Einvernahme des Zeugen [[person|Hastert]] konnte verzichtet werden, weil er bereits im gesonderten Verfahren ausgesagt hat.
 
 Die Revision ist nicht zulässig, weil keine Rechtsfrage von grundsätzlicher Bedeutung vorliegt. Die Entscheidung folgt der ständigen Praxis zu den Voraussetzungen der Beschäftigung nach dem [[legal_norm|AuslBG]].
 

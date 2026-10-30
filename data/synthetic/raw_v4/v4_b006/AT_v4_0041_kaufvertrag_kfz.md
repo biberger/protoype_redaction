@@ -22,11 +22,11 @@ und
 
 Käuferin:
 
-[[organization|Paumgartner GmbH & Co KG]], FN [[company_register_number|201833p]], UID-Nr. [[tax_id|ATU75592565]], vertreten durch den Geschäftsführer [[person|MMag. Florian Simon]], nachfolgend „Käuferin“ genannt.
+[[organization|Paumgartner GmbH & Co KG]], [[company_register_number|FN 201833p]], UID-Nr. [[tax_id|ATU75592565]], vertreten durch den Geschäftsführer [[person|MMag. Florian Simon]], nachfolgend „Käuferin“ genannt.
 
 Vermittelnder Betrieb und Übergeber:
 
-[[organization|Reichart Installations GmbH]], FN [[company_register_number|611380p]], UID-Nr. [[tax_id|ATU87763812]], vertreten durch den Geschäftsführer [[person|Arkadius Hollein]] und die Prokuristin [[person|Ing. Nadwa Al-Majzoub]].
+[[organization|Reichart Installations GmbH]], [[company_register_number|FN 611380p]], UID-Nr. [[tax_id|ATU87763812]], vertreten durch den Geschäftsführer [[person|Arkadius Hollein]] und die Prokuristin [[person|Ing. Nadwa Al-Majzoub]].
 
 Präambel
 
@@ -101,7 +101,7 @@ Die Verkäufer weisen darauf hin, dass das Fahrzeug mit Motorisierung und Aussta
 Anlage 1: Zulassungsbescheinigung Teil I und II in Kopie.
 Anlage 2: Übergabeprotokoll vom [[date|16. März 2026]].
 Anlage 3: Auszug aus dem Firmenbuch der [[organization|Paumgartner GmbH & Co KG]] mit der Firmenbuchnummer [[company_register_number|201833p]].
-Anlage 4: Stammdatenblatt der [[organization|Reichart Installations GmbH]], FN [[company_register_number|611380p]].
+Anlage 4: Stammdatenblatt der [[organization|Reichart Installations GmbH]], [[company_register_number|FN 611380p]].
 
 [[location|Krakauschatten]], am [[date|9. März 2026]]
 

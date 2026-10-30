@@ -20,7 +20,7 @@ im Folgenden gemeinsam „Verkäufer“.
 
 II. Käufer:
 
-[[organization|Meisel & Wunsch GmbH]], FN [[company_register_number|30138x]], UID [[tax_id|ATU54461416]], vertreten durch den Geschäftsführer [[person|Dr. Stane Amtmann]] und die Prokuristin [[person|Freda Weiss]].
+[[organization|Meisel & Wunsch GmbH]], [[company_register_number|FN 30138x]], UID [[tax_id|ATU54461416]], vertreten durch den Geschäftsführer [[person|Dr. Stane Amtmann]] und die Prokuristin [[person|Freda Weiss]].
 
 Die Gesellschafterin [[person|Domenica Attems]] hat der Veräußerung des Fahrzeugs zugestimmt.
 

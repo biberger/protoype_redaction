@@ -8,10 +8,10 @@ lang: de
 **[[court|OBERSTER GERICHTSHOF]]**
 
 KLÄGERIN UND REVISIONSREKURSGEGNERIN:
-[[organization|SCHMIDINGER ENERGIE GMBH & CO KG]], FN [[company_register_number|44232y]], UID-Nr. [[tax_id|ATU81437553]], vertreten durch [[lawyer|DI CLARISSA SCHUSCHNIGG]], [[location|WIEN]]
+[[organization|SCHMIDINGER ENERGIE GMBH & CO KG]], [[company_register_number|FN 44232y]], UID-Nr. [[tax_id|ATU81437553]], vertreten durch [[lawyer|DI CLARISSA SCHUSCHNIGG]], [[location|WIEN]]
 
 BEKLAGTE UND REVISIONSREKURSWERBERIN:
-[[organization|PASTERK & ARBAB GMBH & CO KG]], FN [[company_register_number|62220a]], UID-Nr. [[tax_id|ATU92552158]], [[address|ENZINGERGASSE 37/19, 6063 RUM]], vertreten durch [[lawyer|HINRICH PFEIFFER]]
+[[organization|PASTERK & ARBAB GMBH & CO KG]], [[company_register_number|FN 62220a]], UID-Nr. [[tax_id|ATU92552158]], [[address|ENZINGERGASSE 37/19, 6063 RUM]], vertreten durch [[lawyer|HINRICH PFEIFFER]]
 
 Der [[court|Oberste Gerichtshof]] hat durch den Senatspräsidenten [[judge|Dr. Florian Reitbauer]] als Vorsitzenden und die Hofrätinnen und Hofräte in der Rechtssache der klagenden Partei [[organization|Schmidinger Energie GmbH & Co KG]] wegen 86 300 EUR sA über den Revisionsrekurs der beklagten Partei gegen den Beschluss des [[court|Oberlandes-
 gerichts Innsbruck]] vom [[date|9. Juli 2026]], [[case_number|2 R 89/26m]], den

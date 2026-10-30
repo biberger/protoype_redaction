@@ -5,7 +5,7 @@ lang: de
 ---
 [[organization|Wallisch AG]]
 [[address|Johann-Lehnerstraße 22/7, 8280 Übersbach]]
-FN [[company_register_number|534189y]], UID-Nr. [[tax_id|ATU67755002]]
+[[company_register_number|FN 534189y]], UID-Nr. [[tax_id|ATU67755002]]
 
 Frau
 [[person|Kathe Lantschner]]

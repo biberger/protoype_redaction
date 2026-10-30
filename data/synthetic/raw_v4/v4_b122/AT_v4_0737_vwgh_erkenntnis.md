@@ -12,7 +12,7 @@ IM NAMEN DER REPUBLIK
 Der [[court|Verwaltungsgerichtshof]] hat durch die Vorsitzende [[judge|Lisi Ullrich]], den Hofrat [[judge|Benjamin Gönczöl]] und den Hofrat [[judge|Dr. med. Gustav Zingerle]] als Richter, im Beisein des Schriftführers, über die Revision der
 
 REVISIONSWERBERIN:
-[[organization|NEUGEBAUER & ANDERGASSEN E.U.]], [[address|KALVARIENBERGSTRASSE 6/18, 7302 NIKITSCH]], FN [[company_register_number|15890v]], UID [[tax_id|ATU55057155]],
+[[organization|NEUGEBAUER & ANDERGASSEN E.U.]], [[address|KALVARIENBERGSTRASSE 6/18, 7302 NIKITSCH]], [[company_register_number|FN 15890v]], UID [[tax_id|ATU55057155]],
 
 vertreten durch [[lawyer|DI Otti Scherz]], Rechtsanwältin, gegen den Beschluss des [[court|Landesverwaltungsgerichtes Niederösterreich]] vom [[date|18. Dezember 2025]], [[case_number|LVwG-AV-1123/001-2025]], betreffend Gewerberecht, zu Recht erkannt:
 

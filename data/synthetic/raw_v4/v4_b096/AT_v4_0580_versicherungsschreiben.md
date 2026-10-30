@@ -5,9 +5,9 @@ lang: de
 ---
 [[organization|Arezoo & Birnbaum KG]]
 Versicherungsvertretung · [[address|Borschkegasse 12, 2763 Muggendorf]]
-FN [[company_register_number|24895k]], UID [[tax_id|ATU40470138]]
+[[company_register_number|FN 24895k]], UID [[tax_id|ATU40470138]]
 
-[[organization|Oberzaucher & Pum GmbH & Co KG]], FN [[company_register_number|280340s]], UID [[tax_id|ATU26733274]]
+[[organization|Oberzaucher & Pum GmbH & Co KG]], [[company_register_number|FN 280340s]], UID [[tax_id|ATU26733274]]
 z. H. Geschäftsführerin [[person|Valerie Pfeifer]]
 [[address|Schlöglgasse 2/5, 4982 Kirchdorf am Inn]]
 

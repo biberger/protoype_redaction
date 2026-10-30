@@ -9,8 +9,8 @@ Geschäftszahl [[case_number|2 R 118/25h]]
 
 Revisionsschrift der beklagten Partei
 
-In der Rechtssache der klagenden Partei [[organization|Stern & Ehrenzweig GmbH]], FN [[company_register_number|380337w]], UID-Nr. [[tax_id|ATU17940307]], [[address|Drachengasse 11/8,
-6173 Oberperfuss]], gegen die beklagte Partei [[organization|Sturm AG]], FN [[company_register_number|149633z]], UID-Nr. [[tax_id|ATU31474142]], vertreten durch [[lawyer|Burghardt Stumpf, BSc]], Rechtsanwalt, erhebt die beklagte Partei gegen das Urteil des [[court|Oberlandesgerichts Innsbruck]] vom [[date|14. November 2025]], zugestellt am [[date|16. Dezember 2025]], die
+In der Rechtssache der klagenden Partei [[organization|Stern & Ehrenzweig GmbH]], [[company_register_number|FN 380337w]], UID-Nr. [[tax_id|ATU17940307]], [[address|Drachengasse 11/8,
+6173 Oberperfuss]], gegen die beklagte Partei [[organization|Sturm AG]], [[company_register_number|FN 149633z]], UID-Nr. [[tax_id|ATU31474142]], vertreten durch [[lawyer|Burghardt Stumpf, BSc]], Rechtsanwalt, erhebt die beklagte Partei gegen das Urteil des [[court|Oberlandesgerichts Innsbruck]] vom [[date|14. November 2025]], zugestellt am [[date|16. Dezember 2025]], die
 
 außerordentliche Revision
 

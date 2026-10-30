@@ -11,7 +11,7 @@ ANZEIGE ([[legal_norm|§ 80 StPO]])
 GZ: [[case_number|B 2231/26]]
 Anzeigeerstatter: [[organization|TROJAN MÖBEL GMBH & CO KG]]
 [[address|ZEUGHAUSGASSE 6/23, 8152 STALLHOFEN]]
-FN [[company_register_number|591251m]], UID [[tax_id|ATU42930209]]
+[[company_register_number|FN 591251m]], UID [[tax_id|ATU42930209]]
 vertreten durch Rechtsanwältin [[lawyer|Květoslava Georgiev]]
 
 Beschuldigte Person: [[person|Dasena Burlas]], geb. 1994, SV-Nr. [[social_security_number|5702 221062]]
@@ -23,7 +23,7 @@ Fahrzeug: Sattelzug mit Kennzeichen [[license_plate|GU 282 H]]
 
 Sachverhalt
 
-Am [[date|6. Juli 2026]] gegen 07:50 Uhr lieferte die Beschuldigte [[person|Dasena Burlas]] als Lenkerin im Auftrag der [[organization|Rabensteiner & Brandt e.U.]], FN [[company_register_number|4540b]], UID [[tax_id|ATU76291040]], eine Schlafzimmereinrichtung der Anzeigerin an. Das Fahrzeug stand auf dem Gehsteig neben dem [[street|Antonsplatz]] in [[location|Graz]], als sich die Zeugin [[person|Maritta Kirchler]] mit ihrem Fahrrad näherte.
+Am [[date|6. Juli 2026]] gegen 07:50 Uhr lieferte die Beschuldigte [[person|Dasena Burlas]] als Lenkerin im Auftrag der [[organization|Rabensteiner & Brandt e.U.]], [[company_register_number|FN 4540b]], UID [[tax_id|ATU76291040]], eine Schlafzimmereinrichtung der Anzeigerin an. Das Fahrzeug stand auf dem Gehsteig neben dem [[street|Antonsplatz]] in [[location|Graz]], als sich die Zeugin [[person|Maritta Kirchler]] mit ihrem Fahrrad näherte.
 
 Die Zeugin gab an, dass die Beschuldigte beim Rangieren den Hinterreifen des Sattelzugs über den Rand des Gehsteigs gefahren habe. Dabei sei eine Gitterbox mit Möbelteilen von der Ladefläche gerutscht und auf die Fahrbahn gestürzt. Ein anderer Verkehrsteilnehmer konnte den Vorfall nicht beobachten.
 
@@ -40,7 +40,7 @@ Ersatzlieferung Schrankelemente | 310,–
 Transportkosten Ersatzfahrt | 180,–
 Summe | 2.216,–
 
-Die Reparatur des Lackschadens wurde am [[date|10. Juli 2026]] in der Werkstatt der [[organization|Eberle GmbH]] durchgeführt. Die Rechnung der [[organization|Eberle GmbH]] ist unter der Rechnungsnummer 26-0731 abgelegt und weist eine UID [[tax_id|ATU16394319]] und die FN [[company_register_number|77726d]] aus.
+Die Reparatur des Lackschadens wurde am [[date|10. Juli 2026]] in der Werkstatt der [[organization|Eberle GmbH]] durchgeführt. Die Rechnung der [[organization|Eberle GmbH]] ist unter der Rechnungsnummer 26-0731 abgelegt und weist eine UID [[tax_id|ATU16394319]] und die [[company_register_number|FN 77726d]] aus.
 
 Die Anzeigeerstatterin ist der Ansicht, dass die Beschuldigte ihre Pflichten nach [[legal_norm|§ 4 Abs 1 lit a StVO 1960]] verletzt hat, da sie nach einem Unfall mit Sachschaden nicht angehalten und die Feststellungen nicht ermöglicht hat. Der Schaden an der Ware wird als Sachbeschädigung nach [[legal_norm|§ 125 StGB]] angezeigt.
 

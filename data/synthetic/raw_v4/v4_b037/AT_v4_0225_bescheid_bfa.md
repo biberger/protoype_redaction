@@ -25,7 +25,7 @@ Der Antragsteller legte eine Dienstbestätigung vor, die auf einem Briefbogen de
 
 [[organization|STADLOBER GMBH & CO KG]]
 [[address|HARBACHER STRASSE 17, 4792 MÜNZKIRCHEN]]
-FN [[company_register_number|422510p]], UID-NR. [[tax_id|ATU64430976]]
+[[company_register_number|FN 422510p]], UID-NR. [[tax_id|ATU64430976]]
 
 Unterzeichnet wurde die Bestätigung von der Geschäftsführerin [[person|Annett Kronfeld]]. Am [[date|12. Juni 2026]] übermittelte sie der Behörde folgende Nachricht per Chat:
 

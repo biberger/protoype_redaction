@@ -17,7 +17,7 @@ Inhaber
 [[organization|RÖSSLER E.K.]]
 [[address|MAINZER LANDSTRASSE 214,
 60326 FRANKFURT AM MAIN]]
-HRA [[company_register_number|30501]], Amtsgericht [[court|Amtsgericht Frankfurt am Main]]
+[[company_register_number|HRA 30501]], Amtsgericht [[court|Amtsgericht Frankfurt am Main]]
 USt-IdNr. [[tax_id|DE595218573]], Steuernummer [[tax_id|093 408 30034]]
 
 Beschuldigte:

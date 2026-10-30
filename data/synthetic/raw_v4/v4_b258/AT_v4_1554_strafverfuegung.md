@@ -43,11 +43,11 @@ Maßgeblich ist der niedrigste verwertbare Wert der Messreihe, somit 71 km/h. Di
 
 Die Zeugin [[person|MMag. Ulrica Mohammed]], [[address|Bergstraße 4/1, 3100 Sankt Pölten]], hat in ihrer Anzeige angegeben, das Fahrzeug sei mit auffallend hoher Geschwindigkeit an einem parkenden Reinigungsfahrzeug vorbeigefahren. Der Vorfall habe sich vor dem Gebäude mit der Nummer 14 ereignet.
 
-Der Zeuge [[person|Franzl Zemann]], Versicherungsnummer [[social_security_number|4213 270918]], Arbeitnehmer der [[organization|Dvorská Reinigungs OG]], FN [[company_register_number|190837v]], UID [[tax_id|ATU95258568]], war zum Zeitpunkt des Vorfalls mit der Reinigung der Gehsteige beschäftigt. Er gab an, der Pkw sei mit hoher Geschwindigkeit auf der Fahrbahn gefahren und habe eine Fahrbahnmarkierung überfahren.
+Der Zeuge [[person|Franzl Zemann]], Versicherungsnummer [[social_security_number|4213 270918]], Arbeitnehmer der [[organization|Dvorská Reinigungs OG]], [[company_register_number|FN 190837v]], UID [[tax_id|ATU95258568]], war zum Zeitpunkt des Vorfalls mit der Reinigung der Gehsteige beschäftigt. Er gab an, der Pkw sei mit hoher Geschwindigkeit auf der Fahrbahn gefahren und habe eine Fahrbahnmarkierung überfahren.
 
 Der Zeuge [[person|Job Rennert]] hat die Angaben der Zeugen teilweise bestätigt. Er hat ausgesagt, den Pkw nicht genau gesehen zu haben, er habe lediglich das Geräusch des Motors wahrgenommen.
 
-Der Pkw ist auf die [[organization|Shehu GmbH]], FN [[company_register_number|591439p]], UID [[tax_id|ATU84976028]], zugelassen. Die Geschäftsführung der Gesellschaft hat auf Anfrage mitgeteilt, dass [[person|Dr. Dr. Rafael Martinek, MBA PhD (New York)]] das Fahrzeug am Tag des Vorfalls überlassen habe. Die Lenkerin war nach den Angaben der Gesellschaft [[person|Henna Hauser]].
+Der Pkw ist auf die [[organization|Shehu GmbH]], [[company_register_number|FN 591439p]], UID [[tax_id|ATU84976028]], zugelassen. Die Geschäftsführung der Gesellschaft hat auf Anfrage mitgeteilt, dass [[person|Dr. Dr. Rafael Martinek, MBA PhD (New York)]] das Fahrzeug am Tag des Vorfalls überlassen habe. Die Lenkerin war nach den Angaben der Gesellschaft [[person|Henna Hauser]].
 
 Beweiswürdigung: Die Lenkereigenschaft der Beschuldigten ist durch die Angaben der Gesellschaft sowie den Lichtbildbeweis belegt. Die Messung ist ordnungsgemäß erfolgt; das Messgerät war am [[date|1. Juli 2026]] geeicht. Die Beschuldigte hat sich bislang nicht zur Sache geäußert. Eine Rechtfertigung wurde bis zum Abschluss der Ermittlungen nicht vorgebracht, auch nicht im Schreiben der Gesellschaft.
 

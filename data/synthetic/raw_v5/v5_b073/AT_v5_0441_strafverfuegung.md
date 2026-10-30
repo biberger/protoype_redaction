@@ -19,7 +19,7 @@ Zustellung: RSb
 
 Sie werden verdächtigt, am [[date|06.05.2026]] um 14:12 Uhr in [[location|Hartberg]] auf der [[street|Wasserweg]] mit dem Pkw des Kennzeichens [[license_plate|MI-53 N]] die dort erlaubte Höchstgeschwindigkeit von 50 km/h im Ortsgebiet überschritten zu haben. Die Messung mittels stationärer Radaranlage ergab eine Geschwindigkeit von 68 km/h, nach Abzug der Messtoleranz somit 66 km/h.
 
-Der Pkw ist auf die Zulassungsbesitzerin [[organization|Abel Fliesen AG]], FN [[company_register_number|334673t]], UID-Nr. [[tax_id|ATU85094530]], mit Sitz in [[address|Hochofen A Straße 130/12, 2162 Falkenstein]], zugelassen.
+Der Pkw ist auf die Zulassungsbesitzerin [[organization|Abel Fliesen AG]], [[company_register_number|FN 334673t]], UID-Nr. [[tax_id|ATU85094530]], mit Sitz in [[address|Hochofen A Straße 130/12, 2162 Falkenstein]], zugelassen.
 
 Sie haben es als Lenker unterlassen, die Geschwindigkeit an die erlaubte Höchstgeschwindigkeit anzupassen, und damit eine Verwaltungsübertretung nach [[legal_norm|§ 99 Abs 3 lit a StVO]] iVm [[legal_norm|§ 20 Abs 2 StVO]] begangen.
 

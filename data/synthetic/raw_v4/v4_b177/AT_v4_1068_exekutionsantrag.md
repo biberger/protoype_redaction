@@ -23,7 +23,7 @@ Drittschuldnerin:
 
 Der Exekutionstitel:
 
-Die betreibende Partei ist Gläubigerin einer Forderung von 18.740,00 EUR samt 4 % Zinsen seit dem [[date|14. Jänner 2025]] aus dem Urteil des [[court|Bezirksgerichts Ried im Innkreis]] vom [[date|14. Jänner 2025]], rechtskräftig seit dem [[date|03.11.2025]]. Die verpflichtete Partei hat den Betrag trotz Mahnung nicht bezahlt. Die ursprüngliche Gläubigerin, die [[organization|Valko e.U.]] (FN [[company_register_number|397019b]], UID-Nr. [[tax_id|ATU50442560]]), hat die Forderung mit Abtretungsurkunde vom [[date|2. Februar 2025]] an die betreibende Partei abgetreten. Der Titel wurde ihr am [[date|10.12.2025]] zugestellt.
+Die betreibende Partei ist Gläubigerin einer Forderung von 18.740,00 EUR samt 4 % Zinsen seit dem [[date|14. Jänner 2025]] aus dem Urteil des [[court|Bezirksgerichts Ried im Innkreis]] vom [[date|14. Jänner 2025]], rechtskräftig seit dem [[date|03.11.2025]]. Die verpflichtete Partei hat den Betrag trotz Mahnung nicht bezahlt. Die ursprüngliche Gläubigerin, die [[organization|Valko e.U.]] ([[company_register_number|FN 397019b]], UID-Nr. [[tax_id|ATU50442560]]), hat die Forderung mit Abtretungsurkunde vom [[date|2. Februar 2025]] an die betreibende Partei abgetreten. Der Titel wurde ihr am [[date|10.12.2025]] zugestellt.
 
 Die betreibende Partei beantragt daher die Bewilligung der Forderungsexekution durch Pfändung und Überweisung des Arbeitseinkommens des Verpflichteten nach [[legal_norm|§ 294 EO]] iVm [[legal_norm|§ 301 EO]]. Die Drittschuldnerin wird aufgefordert, Zahlungen an den Verpflichteten nur noch an die betreibende Partei zu leisten, soweit das Arbeitseinkommen den pfändungsfreien Betrag übersteigt.
 

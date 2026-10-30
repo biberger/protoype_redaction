@@ -39,9 +39,9 @@ Das Kapital der Gesellschaft ist durch die Einlagen der Gesellschafter vollstän
 
 Verbundene Unternehmen:
 
-Schurz & Wünsch AG, FN [[company_register_number|110870w]], Sitz [[location|Linz]], USt-IdNr. [[tax_id|ATU16306450]]. Die Gesellschaft wurde am [[date|4. April 2011]] errichtet und hat ein Grundkapital von EUR 70.000,00, eingeteilt in 70.000 Stückaktien. Vorstand: [[person|Thomas Puchner, MBA]], der die Gesellschaft gemeinsam mit einem weiteren Vorstandsmitglied vertritt. Aufsichtsratsvorsitzender: [[person|Qassem Sediqi]]. Der Aufsichtsrat besteht aus drei Mitgliedern; die Wahl erfolgte in der Hauptversammlung vom [[date|15. Mai 2025]].
+Schurz & Wünsch AG, [[company_register_number|FN 110870w]], Sitz [[location|Linz]], USt-IdNr. [[tax_id|ATU16306450]]. Die Gesellschaft wurde am [[date|4. April 2011]] errichtet und hat ein Grundkapital von EUR 70.000,00, eingeteilt in 70.000 Stückaktien. Vorstand: [[person|Thomas Puchner, MBA]], der die Gesellschaft gemeinsam mit einem weiteren Vorstandsmitglied vertritt. Aufsichtsratsvorsitzender: [[person|Qassem Sediqi]]. Der Aufsichtsrat besteht aus drei Mitgliedern; die Wahl erfolgte in der Hauptversammlung vom [[date|15. Mai 2025]].
 
-Janák & Gabriel KG, FN [[company_register_number|313059g]], Sitz [[location|Wels]], USt-IdNr. [[tax_id|ATU88924433]]. Die Komplementärin ist eine GmbH mit Sitz in [[location|Wels]]. Die Gesellschaft ist mit der Rechberger & Zweig KG nicht kapitalmäßig verflochten.
+Janák & Gabriel KG, [[company_register_number|FN 313059g]], Sitz [[location|Wels]], USt-IdNr. [[tax_id|ATU88924433]]. Die Komplementärin ist eine GmbH mit Sitz in [[location|Wels]]. Die Gesellschaft ist mit der Rechberger & Zweig KG nicht kapitalmäßig verflochten.
 
 Anmerkungen:
 

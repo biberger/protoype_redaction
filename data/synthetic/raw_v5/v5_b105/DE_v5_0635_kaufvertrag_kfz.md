@@ -5,7 +5,7 @@ lang: de
 ---
 [[organization|VON DER GROEBEN GMBH]]
 [[address|KLOPHAUSSTRAßE 60, 89197 WEIDENSTETTEN]] · TEL. [[phone_number|0731 44l8 02]]
-[[organization|VON DER GROEBEN GMBH]] · SITZ [[location|MÜNCHEN]] · [[court|AMTSGERICHT MÜNCHEN]] HRB [[company_register_number|292485]] · USt-IdNr. [[tax_id|DE212046725]]
+[[organization|VON DER GROEBEN GMBH]] · SITZ [[location|MÜNCHEN]] · [[court|AMTSGERICHT MÜNCHEN]] [[company_register_number|HRB 292485]] · USt-IdNr. [[tax_id|DE212046725]]
 
 KAUFVERTRAG ÜBER EIN GEBRAUCHTES KRAFTFAHRZEUG
 
