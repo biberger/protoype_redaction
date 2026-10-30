@@ -53,7 +53,7 @@ rend le présent
 
 3. [[organization|Pierson SAS]] est une société par actions simplifiée établie en [[location|France]]. Elle commercialise des équipements de chauffage destinés aux particuliers, par l'intermédiaire d'une plateforme de vente en ligne.
 
-4. [[person|MH]] a acquis, en [[date|mars 2023]], un appareil auprès de [[organization|Pierson SAS]]. L'appareil présentait une défaillance après quelques mois d'utilisation. [[person|MH]] a alors saisi le [[court|Tribunale di Teramo]] d'une demande de réparation, en se fondant sur la garantie légale de conformité.
+4. [[person|MH]] a acquis, en mars 2023, un appareil auprès de [[organization|Pierson SAS]]. L'appareil présentait une défaillance après quelques mois d'utilisation. [[person|MH]] a alors saisi le [[court|Tribunale di Teramo]] d'une demande de réparation, en se fondant sur la garantie légale de conformité.
 
 5. [[organization|Pierson SAS]] a soutenu que la clause attributive de juridiction figurant dans les conditions générales de vente était valable et désignait les tribunaux français. La société a également fait valoir que [[person|MH]] n'avait pas la qualité de consommateur, l'appareil ayant été acquis pour un usage professionnel.
 

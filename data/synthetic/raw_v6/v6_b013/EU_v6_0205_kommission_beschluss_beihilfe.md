@@ -9,7 +9,7 @@ vom [[date|16. Dezember 2025]]
 
 über die staatliche Beihilfe [[case_number|SA.61277]], die das [[organization|Königreich Belgien]] zugunsten der [[organization|Frey-Lefevre ASBL]] gewährt hat
 
-(Bekanntgegeben unter Aktenzeichen C(2025) 9134)
+(Bekanntgegeben unter Aktenzeichen [[case_number|C(2025) 9134]])
 
 Die [[organization|KOMMISSION]],
 
@@ -83,8 +83,6 @@ Artikel 3
 
 Dieser Beschluss ist an das [[organization|Königreich Belgien]] gerichtet.
 
-Brüssel, den [[date|16. Dezember 2025]]
+[[location|Brüssel]], den [[date|16. Dezember 2025]]
 
 Für die [[organization|KOMMISSION]]
-
-Berichterstatterin: [[person|Adtrid Nowak]]

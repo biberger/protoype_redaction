@@ -53,7 +53,7 @@ B. Zur Anwendung auf den vorliegenden Fall
 
 12. Die [[organization|Europäische Zentralbank]] ([[organization|EZB]]) und die [[organization|Europäische Investitionsbank]] haben sich auf ihre Zuständigkeit für die Wirtschaftsstatistik berufen. Die [[organization|Europäische Behörde für Lebensmittelsicherheit]] ([[organization|EFSA]]) hat keine Bemerkungen eingereicht.
 
-13. Die Daten betrafen Baustoffe, für die die [[organization|Kommission]] bereits im Jahr [[date|2011]] eine Untersuchung eingeleitet hatte. Die Daten sind damit nicht neu, wohl aber für die Marktteilnehmer nach wie vor von Interesse.
+13. Die Daten betrafen Baustoffe, für die die [[organization|Kommission]] bereits im Jahr 2011 eine Untersuchung eingeleitet hatte. Die Daten sind damit nicht neu, wohl aber für die Marktteilnehmer nach wie vor von Interesse.
 
 C. Zur Vertretung
 

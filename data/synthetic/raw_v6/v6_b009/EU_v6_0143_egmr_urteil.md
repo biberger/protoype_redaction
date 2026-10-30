@@ -41,7 +41,7 @@ I. DIE UMSTÄNDE DES FALLES
 
 4. Der Beschwerdeführer ist Gesellschafter der Firma [[organization|Lastra]], die in [[location|Sevilla]] ansässig ist. Die Gesellschaft betreibt eine Lagerhalle für Baumaterialien.
 
-5. [[organization|Lastra]] hatte im Jahr [[date|2019]] einen Vertrag mit der Gesellschaft [[organization|Installations Sviták SA]] geschlossen, die ihren Sitz in [[location|Lissabon]] hat. Nach Ansicht des Beschwerdeführers wurden im Rahmen dieses Vertrags Daten über seine Person ohne hinreichende Grundlage übermittelt.
+5. [[organization|Lastra]] hatte im Jahr 2019 einen Vertrag mit der Gesellschaft [[organization|Installations Sviták SA]] geschlossen, die ihren Sitz in [[location|Lissabon]] hat. Nach Ansicht des Beschwerdeführers wurden im Rahmen dieses Vertrags Daten über seine Person ohne hinreichende Grundlage übermittelt.
 
 6. Am [[date|14. Oktober 2020]] erließ das [[court|Juzgado de lo Mercantil de Sevilla]] eine Entscheidung, mit der die Klage des Beschwerdeführers abgewiesen wurde. Die Entscheidung stützte sich auf [[legal_norm|Art. 6 der Datenschutzrichtlinie]].
 

@@ -33,7 +33,7 @@ in Erwägung nachstehender Gründe:
 
 (5) [[person|Gazsi Pejácsevich]] war als Geschäftsführer der [[organization|FI]] für die Vertriebsstrategie verantwortlich. Er hat an mehreren Treffen teilgenommen und Protokolle unterzeichnet.
 
-(6) Die Portugiesische Wettbewerbsbehörde ([[organization|PWB]]) hat im Jahr [[date|2019]] eine Durchsuchung durchgeführt und Unterlagen sichergestellt, die die Absprachen belegen. Die [[organization|PWB]] hat die Akten an die [[organization|Kommission]] weitergeleitet. Die Entscheidung der [[organization|PWB]] war Gegenstand eines Verfahrens vor dem [[court|Tribunal de Comércio de Lisboa]] ([[location|Portugal]]).
+(6) Die Portugiesische Wettbewerbsbehörde ([[organization|PWB]]) hat im Jahr 2019 eine Durchsuchung durchgeführt und Unterlagen sichergestellt, die die Absprachen belegen. Die [[organization|PWB]] hat die Akten an die [[organization|Kommission]] weitergeleitet. Die Entscheidung der [[organization|PWB]] war Gegenstand eines Verfahrens vor dem [[court|Tribunal de Comércio de Lisboa]] ([[location|Portugal]]).
 
 (7) Die [[organization|Kommission]] hat ein Auskunftsverlangen an [[organization|Giwa]] gerichtet. Die Antwort wurde am [[date|11. Mai 2020]] eingereicht.
 

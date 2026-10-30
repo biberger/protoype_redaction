@@ -17,7 +17,7 @@ Opposante : [[organization|Lucerna Calzature S.p.A.]]
 
 LA CHAMBRE,
 
-composée de M. [[person|Hector Ravasi]], président, et de Mmes [[person|Ludmila Achterberg]] et [[person|Sanja Bodrožić]], membres,
+composée de M. [[person|Hector Mirabella]], président, et de Mmes [[person|Ludmila Achterberg]] et [[person|Sanja Bodrožić]], membres,
 
 rend la présente décision dans la procédure relative au recours formé contre la décision de la division d'opposition.
 
@@ -59,7 +59,7 @@ III. Appréciation
 
 IV. Frais
 
-16. Conformément à l'article 109 du règlement (UE) 2017/1001, la partie qui succombe supporte les frais de la procédure de recours.
+16. Conformément à [[legal_norm|article 109 du règlement (UE) 2017/1001]], la partie qui succombe supporte les frais de la procédure de recours.
 
 V. Dispositif
 
@@ -71,4 +71,4 @@ Par ces motifs, la Chambre de recours décide :
 
 Fait à Alicante, le [[date|23 octobre 2025]].
 
-Le président : [[person|Hector Ravasi]]
+Le président : [[person|Hector Mirabella]]

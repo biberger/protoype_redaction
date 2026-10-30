@@ -58,7 +58,7 @@ folgendes
 
 6. Vor diesem Hintergrund hat das vorlegende Gericht dem [[court|Gerichtshof]] Fragen zur Auslegung von [[legal_norm|Art. 8 Abs. 1 Buchst. b der Verordnung (EG) Nr. 207/2009]] vorgelegt. Es möchte insbesondere wissen, ob die Verwechslungsgefahr zu berücksichtigen ist, wenn die Bezeichnungen nur in einzelnen Bestandteilen übereinstimmen.
 
-7. Die [[organization|LBMM]] hat vorgetragen, [[organization|SDH]] habe die Marke seit dem Jahr [[date|2019]] nicht ernsthaft benutzt. [[person|EC]] bestreitet dies.
+7. Die [[organization|LBMM]] hat vorgetragen, [[organization|SDH]] habe die Marke seit dem Jahr 2019 nicht ernsthaft benutzt. [[person|EC]] bestreitet dies.
 
 **3. Zu den Vorlagefragen**
 

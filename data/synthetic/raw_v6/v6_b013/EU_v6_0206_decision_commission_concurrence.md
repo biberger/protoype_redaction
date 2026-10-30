@@ -83,8 +83,8 @@ Article 3
 
 Les destinataires mettent immédiatement fin à l'infraction, s'ils ne l'ont pas déjà fait, et s'abstiennent de tout comportement identique ou similaire.
 
-Fait à Bruxelles, le [[date|19 septembre 2025]].
+Fait à [[location|Bruxelles]], le [[date|19 septembre 2025]].
 
 Pour la [[organization|Commission]]
 
-[[person|Margrethe Fišer]], membre de la Commission
+[[person|Margrethe Fišer]], membre de la [[organization|Commission]]

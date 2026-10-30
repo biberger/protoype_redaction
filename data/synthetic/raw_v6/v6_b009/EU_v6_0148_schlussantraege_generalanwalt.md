@@ -43,7 +43,7 @@ A. Zur Unterscheidungskraft
 
 7. Die Frage, ob ein Gebrauchsname durch Benutzung Unterscheidungskraft erlangt hat, ist anhand der Gesamtheit der tatsächlichen Umstände zu beantworten. Der Umfang der Benutzung, die Marktanteile, die Werbeaufwendungen und die Umfragen zum Bekanntheitsgrad sind zu berücksichtigen.
 
-8. [[organization|IE]] hat vorgetragen, die Bezeichnung „Eibl-Hof“ sei seit dem Jahr [[date|2016]] bei sämtlichen Verkaufsunterlagen verwendet worden. [[person|XH]] bestreitet, dass die Bezeichnung über den Bezirk hinaus bekannt ist.
+8. [[organization|IE]] hat vorgetragen, die Bezeichnung „Eibl-Hof“ sei seit dem Jahr 2016 bei sämtlichen Verkaufsunterlagen verwendet worden. [[person|XH]] bestreitet, dass die Bezeichnung über den Bezirk hinaus bekannt ist.
 
 9. Die Bezeichnung hat nach den Feststellungen des vorlegenden Gerichts eine geographische Bedeutung. Die [[organization|Stadtverwaltung]] hat sie als Name eines Platzes amtlich verwendet. Dies ist ein Umstand, den das Gericht bei der Beurteilung der Unterscheidungskraft berücksichtigen muss.
 

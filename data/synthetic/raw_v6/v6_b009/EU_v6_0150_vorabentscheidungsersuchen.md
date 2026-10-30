@@ -25,7 +25,7 @@ das [[organization|Slowakische Patentamt]] ([[organization|SPA]])
 
 erlässt DER [[court|GERICHTSHOF]] (Zweite Kammer)
 
-zusammengesetzt aus der Kammerpräsidentin [[judge|Nadezhda Dovzhenko]], der Richterin [[judge|Terezka Šmajda]] (Berichterstatterin), dem Richter [[judge|Anastasius Obertin]] sowie den Richterinnen [[judge|Frederika Švec]] und dem Richter [[judge|Cuneyt Çakir]],
+zusammengesetzt aus [[judge|Nadezhda Dovzhenko]] (Kammerpräsidentin), [[judge|Terezka Šmajda]] (Berichterstatterin), [[judge|Anastasius Obertin]], [[judge|Frederika Švec]] und [[judge|Cuneyt Çakir]],
 
 nach Anhörung des Generalanwalts [[judge|Lukáš Hron]],
 
@@ -49,9 +49,9 @@ folgendes
 
 **2. Ausgangsverfahren und Vorlagefragen**
 
-3. [[person|Jaromir Richter]] ist Gründer und Gesellschafter von [[organization|Dunajská Tlač]], einem Verlagshaus in [[location|Bratislava]]. Im Jahr [[date|2019]] meldete er die Wortmarke „ZLATÁ STRANA“ als Unionsmarke an, die für Druckerzeugnisse, Dienstleistungen der Werbung und Buchverlage bestimmt war.
+3. [[person|Jaromir Richter]] ist Gründer und Gesellschafter von [[organization|Dunajská Tlač]], einem Verlagshaus in [[location|Bratislava]]. Im Jahr 2019 meldete er die Wortmarke „ZLATÁ STRANA“ als Unionsmarke an, die für Druckerzeugnisse, Dienstleistungen der Werbung und Buchverlage bestimmt war.
 
-4. [[person|Irma Obert]] ist Mitgesellschafterin einer Druckerei, die seit Jahren das Zeichen „Zlatá strana“ für Stadtführer verwendet. [[organization|Dunajská Tlač]] verwendet den Begriff seit [[date|2011]] für eine Zeitschrift.
+4. [[person|Irma Obert]] ist Mitgesellschafterin einer Druckerei, die seit Jahren das Zeichen „Zlatá strana“ für Stadtführer verwendet. [[organization|Dunajská Tlač]] verwendet den Begriff seit 2011 für eine Zeitschrift.
 
 5. Eine slowakische Stiftung, die die Erhaltung des historischen Stadtteils fördert, hat die Benutzung des Begriffs als Bezeichnung eines Straßenzugs beansprucht. Die Stiftung hat ihren Anspruch auf die Verwendung der Bezeichnung als Gemeingut gestützt.
 
@@ -59,7 +59,7 @@ folgendes
 
 7. Das [[organization|Slowakische Patentamt]] ([[organization|SPA]]) hat den Widerspruch teilweise zurückgewiesen. Hiergegen hat [[person|SN]] Klage vor dem [[court|Okresný súd Bratislava I]] erhoben.
 
-8. Das vorlegende Gericht fragt den Gerichtshof, ob die Bösgläubigkeit des Anmelders allein aus der früheren Zusammenarbeit mit der Inhaberin einer älteren Benutzungsmarke abgeleitet werden kann. Es möchte ferner wissen, ob die Benutzung eines Begriffs als Gemeingut der Erhebung eines Anspruchs aus der Marke entgegensteht.
+8. Das vorlegende Gericht fragt den [[court|Gerichtshof]], ob die Bösgläubigkeit des Anmelders allein aus der früheren Zusammenarbeit mit der Inhaberin einer älteren Benutzungsmarke abgeleitet werden kann. Es möchte ferner wissen, ob die Benutzung eines Begriffs als Gemeingut der Erhebung eines Anspruchs aus der Marke entgegensteht.
 
 **3. Zu den Vorlagefragen**
 
@@ -79,7 +79,7 @@ folgendes
 
 14. [[organization|Dunajská Tlač]] hat vorgetragen, der Begriff sei seit Jahrzehnten Titel einer Zeitschrift und sei deshalb mit dem Unternehmen verbunden. Die Stiftung hält dem entgegen, dass der Begriff für den Stadtteil selbst steht.
 
-15. Der Gerichtshof bemerkt, dass die Verbindung mit einem Unternehmen eine Unterscheidungskraft begründen kann. Ob dies hier zutrifft, hat das vorlegende Gericht zu prüfen.
+15. Der [[court|Gerichtshof]] bemerkt, dass die Verbindung mit einem Unternehmen eine Unterscheidungskraft begründen kann. Ob dies hier zutrifft, hat das vorlegende Gericht zu prüfen.
 
 **4. Zur Vertretung**
 
