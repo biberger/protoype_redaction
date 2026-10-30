@@ -53,7 +53,7 @@ rend la présente
 
 4. La [[court|Cour]] a rappelé, dans l'arrêt du [[date|9 novembre 1982]], [[organization|Tomášek]], [[case_number|30/82]], que la charge de la preuve de l'objet anticoncurrentiel incombe à l'autorité de concurrence. Dans l'arrêt du [[date|12 mai 1966]], [[organization|Flament]], [[case_number|78/66]], elle a déjà jugé qu'une pratique concertée ne peut résulter d'une simple coïncidence de comportement.
 
-5. Les [[organization|gouvernement espagnol]] et [[organization|gouvernement slovaque]] ont soutenu que la question est en partie identique à une question déjà tranchée. La [[organization|Banque centrale européenne]] ([[organization|BCE]]) n'a pas présenté d'observations.
+5. Le [[organization|gouvernement espagnol]] et le [[organization|gouvernement slovaque]] ont soutenu que la question est en partie identique à une question déjà tranchée. La [[organization|Banque centrale européenne]] ([[organization|BCE]]) n'a pas présenté d'observations.
 
 6. Il ressort du dossier que [[organization|Geleta-Javadi s.r.o.]] a été sanctionnée sur la base d'un échange de tableaux de prix qui ne comportait pas de données sur les tarifs futurs. La société a fait valoir que ces tableaux étaient publics.
 

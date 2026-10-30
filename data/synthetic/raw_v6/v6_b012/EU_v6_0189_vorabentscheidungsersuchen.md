@@ -77,7 +77,7 @@ Zu Frage a): [[legal_norm|Art. 6 Abs. 1 der Verordnung (EG) Nr. 1924/2006]] steh
 
 Zu Frage b): [[legal_norm|Art. 16 der Charta]] steht einer Regelung nicht entgegen, die die Beweislast beim Wirtschaftsteilnehmer belässt, sofern dieser die Möglichkeit hat, die Nachweise vorzulegen.
 
-Luxemburg, den [[date|12. Februar 2026]]
+[[location|Luxemburg]], den [[date|12. Februar 2026]]
 
 Für das [[court|Tribunal administratif de Luxembourg]]: [[person|Fernand Kieffer]], Kanzler
 
