@@ -15,7 +15,7 @@ Im Rechtsstreit der klagenden Partei [[person|PZ]], vertreten durch [[lawyer|Feo
 
 I. Das Verfahren wird gemäß [[legal_norm|Art. 267 AEUV]] ausgesetzt.
 
-II. Dem Gerichtshof der Europäischen Union werden die unten angeführten Fragen zur Vorabentscheidung vorgelegt.
+II. Dem [[court|Gerichtshof der Europäischen Union]] werden die unten angeführten Fragen zur Vorabentscheidung vorgelegt.
 
 Begründung
 
@@ -55,7 +55,7 @@ Frage 2: Ist die Gesellschaft als Verantwortliche verpflichtet, die Weitergabe a
 
 4.2. Mit Schreiben vom [[date|10. März 2026]] teilte die Kanzlei mit, dass Generalanwältin [[judge|Luboslava Liba]] der Sache zugewiesen worden ist.
 
-4.3. Die Erklärungen der Regierungen sind im Verfahren vor dem Gerichtshof eingegangen. Die [[organization|slowakische Regierung]], die [[organization|niederländische Regierung]], die [[organization|belgische Regierung]] und die [[organization|französische Regierung]] haben schriftlich Stellung genommen.
+4.3. Die Erklärungen der Regierungen sind im Verfahren vor dem [[court|Gerichtshof]] eingegangen. Die [[organization|slowakische Regierung]], die [[organization|niederländische Regierung]], die [[organization|belgische Regierung]] und die [[organization|französische Regierung]] haben schriftlich Stellung genommen.
 
 4.4. Die [[organization|französische Regierung]] wurde durch den Bevollmächtigten [[person|Luko Reichenbach]] vertreten. Die [[organization|slowakische Regierung]] wurde durch die Bevollmächtigte [[person|Greta Vrhovac]] vertreten.
 

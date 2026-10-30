@@ -71,9 +71,15 @@ B. Zur zweiten Frage
 
 16. Zur Haftung des Herrn [[person|EY]] ist festzustellen, dass die Richtlinie keine unmittelbaren Vorgaben zur persönlichen Haftung ehemaliger Geschäftsführer enthält. Die Verjährungsregel betrifft aber alle Schuldner gleichermaßen. Das vorlegende Gericht hat deshalb zu prüfen, ob die Frist für Herrn [[person|EY]] früher zu laufen begonnen hat.
 
+17. Die Frage der Verjährung ist im Lichte des Grundsatzes der Rechtssicherheit zu beurteilen. Eine Frist, die mit der Kenntnis beginnt, lässt dem Geschädigten ausreichend Zeit, seine Ansprüche geltend zu machen. Die [[organization|Metallbau Kowalewska]] hat zu Recht auf die Bedeutung der Rechtssicherheit hingewiesen. Diesem Interesse kann aber auch durch eine angemessene Höchstfrist Rechnung getragen werden, die unabhängig von der Kenntnis läuft.
+
+18. Eine solche Höchstfrist darf allerdings nicht so kurz bemessen sein, dass sie den Geschädigten faktisch von der Durchsetzung seiner Ansprüche ausschließt. Ob die Frist von drei Jahren diesen Anforderungen genügt, hat das vorlegende Gericht anhand der Umstände des Einzelfalls zu prüfen. Die [[organization|Goluža]] hat in der Sitzung vorgetragen, dass sie erst mit der Veröffentlichung der Entscheidung der [[organization|DGII]] von der Zuwiderhandlung erfahren habe. Diese Veröffentlichung erfolgte am [[date|15. September 2020]].
+
+19. Zur Haftung der natürlichen Person [[person|EY]] ist außerdem darauf hinzuweisen, dass nationale Regeln, die eine persönliche Haftung für Verbindlichkeiten einer Gesellschaft vorsehen, mit dem Unionsrecht vereinbar sein können, sofern sie das Ziel der Richtlinie nicht gefährden. Das vorlegende Gericht hat dies zu prüfen.
+
 V. Ergebnis
 
-17. Ich schlage dem [[court|Gerichtshof]] vor, die Vorlagefragen wie folgt zu beantworten:
+20. Ich schlage dem [[court|Gerichtshof]] vor, die Vorlagefragen wie folgt zu beantworten:
 
 [[legal_norm|Art. 10 der Richtlinie 2014/104/EU]] ist dahin auszulegen, dass die Verjährungsfrist für Schadensersatzklagen nicht vor der Kenntnis des Geschädigten von der Zuwiderhandlung und dem Schaden zu laufen beginnt. Eine nationale Frist, die diese Kenntnis nicht berücksichtigt, ist mit dem Grundsatz der Effektivität nicht vereinbar.
 

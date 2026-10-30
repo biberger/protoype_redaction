@@ -75,6 +75,6 @@ Sur les dépens
 
 Par ces motifs, la [[court|Cour]] (grande chambre) dit pour droit :
 
-L'article 46 de la directive 2013/32/UE doit être interprété en ce sens que le juge saisi d'un recours contre une décision de rejet fondée sur une appréciation de crédibilité doit, sauf si le dossier rend cette audition manifestement superflue, pouvoir entendre le demandeur.
+L'[[legal_norm|article 46 de la directive 2013/32/UE]] doit être interprété en ce sens que le juge saisi d'un recours contre une décision de rejet fondée sur une appréciation de crédibilité doit, sauf si le dossier rend cette audition manifestement superflue, pouvoir entendre le demandeur.
 
 Fait à [[location|Luxembourg]].

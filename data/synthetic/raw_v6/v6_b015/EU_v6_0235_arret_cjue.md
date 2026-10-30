@@ -11,7 +11,7 @@ ARRÊT DE LA [[court|COUR]] (grande chambre)
 
 Dans l'affaire [[case_number|C-587/26]],
 
-ayant pour objet une demande de décision préjudicielle au titre de l'[[legal_norm|article 267 TFUE]], introduite par le [[court|Juzgado de lo Mercantil de Barcelona]] ([[location|Espagne]]), par décision du [[date|12 mars 2026]], parvenue à la Cour le [[date|24 mars 2026]], dans la procédure
+ayant pour objet une demande de décision préjudicielle au titre de l'[[legal_norm|article 267 TFUE]], introduite par le [[court|Juzgado de lo Mercantil de Barcelona]] ([[location|Espagne]]), par décision du [[date|12 mars 2026]], parvenue à la [[court|Cour]] le [[date|24 mars 2026]], dans la procédure
 
 [[organization|Conseil Baldelli SpA]]
 
@@ -87,7 +87,7 @@ IV. Sur les dépens
 
 14. La procédure revêt, à l'égard des parties au principal, le caractère d'un incident soulevé devant la juridiction de renvoi ; il appartient donc à celle-ci de statuer sur les dépens.
 
-Par ces motifs, la Cour (grande chambre) dit pour droit :
+Par ces motifs, la [[court|Cour]] (grande chambre) dit pour droit :
 
 L'[[legal_norm|article 6, paragraphe 1, de la directive 93/13/CEE]] doit être interprété en ce sens qu'une clause attributive de compétence, non négociée individuellement, doit être écartée par le juge national lorsque celui-ci dispose des éléments de droit et de fait nécessaires, sous réserve de la vérification à effectuer par la juridiction de renvoi.
 

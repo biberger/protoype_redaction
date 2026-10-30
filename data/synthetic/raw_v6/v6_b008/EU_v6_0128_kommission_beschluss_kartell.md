@@ -65,6 +65,12 @@ in Erwägung nachstehender Gründe:
 
 (16) Die Adressaten haben die Verwaltungsrechte nicht ausgeübt. Die Gesellschaft hat sich zu einer Zahlung in Höhe von 950.000 Euro bereit erklärt; die [[organization|Kommission]] hat dies berücksichtigt.
 
+(17) Die [[organization|Kommission]] hat bei der Festsetzung der Geldbußen die Umsätze der Adressaten im letzten vollen Geschäftsjahr zugrunde gelegt. Für die [[organization|HB]] wurde der Umsatz mit 42 Millionen Euro angesetzt, für die [[organization|CG]] mit 3,1 Millionen Euro. Diese Beträge hat die [[organization|Kommission]] nach der Dauer des Verstoßes gewichtet.
+
+(18) Mildernd wurde berücksichtigt, dass die [[organization|CG]] an der Aufklärung des Sachverhalts mitgewirkt hat. Die Gesellschaft hat die Unterlagen über die Vergabeverfahren vollständig übermittelt. Die [[organization|Kommission]] hat die Geldbuße deshalb um 20 % gesenkt.
+
+(19) Erschwerend wurde dagegen die Rolle des Herrn [[person|WZ]] als Koordinator gewertet. Eine Kronzeugenregelung kam für die Adressaten nicht in Betracht, weil die Beschwerde nicht von einem der Beteiligten stammte.
+
 6. Entscheidung
 
 Artikel 1

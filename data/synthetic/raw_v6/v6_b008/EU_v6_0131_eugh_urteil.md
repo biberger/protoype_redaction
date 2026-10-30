@@ -68,9 +68,15 @@ Zu den Vorlagefragen
 
 16. Frau [[person|AO]] hat vorgetragen, sie habe als Verwaltungsratsmitglied keinen Einfluss auf die Bewilligung gehabt. Diese Frage betrifft das nationale Recht und ist nicht Gegenstand der Vorlage.
 
+17. Zur ersten Frage ist ergänzend darauf hinzuweisen, dass die Frage, ob eine Begünstigung staatlich ist, nicht allein davon abhängt, ob die Mittel formell einem Staatshaushalt entstammen. Maßgeblich ist, ob der Staat die Verwendung der Mittel kontrolliert und ob die Mittel dem Staat zuzurechnen sind. Die [[organization|ANCCP]] hat die Verwendung der Mittel überwacht und die Auszahlung genehmigt; damit ist die Zurechnung gegeben.
+
+18. Die Gesellschaft hat außerdem vorgetragen, dass die Finanzierung nicht selektiv gewesen sei, weil ähnliche Projekte in anderen Regionen ebenfalls gefördert worden seien. Dieser Einwand ist nur dann erheblich, wenn die Vergleichsprojekte unter denselben Voraussetzungen gewährt wurden. Das vorlegende [[court|Conseil d'État]] hat hierzu die Akten zu prüfen. Der [[court|Gerichtshof]] stellt insoweit klar, dass eine Vergleichbarkeit nicht schon dann vorliegt, wenn die Projekte demselben Sektor angehören.
+
+19. Zur zweiten Frage hat die Gesellschaft geltend gemacht, dass die Verjährung bereits mit der Bewilligung zu laufen begonnen habe. Die Frage, wann die Frist beginnt, hängt von der Kenntnis der Behörde ab. Der [[court|Gerichtshof]] verweist insoweit auf seine Rechtsprechung, wonach die Frist mit dem Tag beginnt, an dem die Beihilfe rechtswidrig gewährt wurde, und nicht bereits mit der Bewilligung.
+
 Kosten
 
-17. Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit. Die Kosten der Erklärungen sind nicht erstattungsfähig.
+20. Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit. Die Kosten der Erklärungen sind nicht erstattungsfähig.
 
 Aus diesen Gründen hat der [[court|Gerichtshof]] (Achte Kammer) für Recht erkannt:
 

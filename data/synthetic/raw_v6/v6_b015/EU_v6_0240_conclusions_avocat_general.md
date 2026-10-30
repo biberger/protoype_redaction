@@ -3,7 +3,7 @@ doc_type: conclusions_avocat_general
 jurisdiction: EU
 lang: fr
 ---
-CONCLUSIONS DE L'AVOCAT GÉNÉRAL [[judge|MICHA BOGUCKA]]
+Conclusions de l'avocat général [[judge|MICHA BOGUCKA]]
 
 présentées le [[date|3 juin 2026]]
 

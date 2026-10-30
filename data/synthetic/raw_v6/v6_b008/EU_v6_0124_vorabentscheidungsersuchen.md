@@ -43,6 +43,10 @@ IV. Begründung
 
 9. Die [[organization|Energie Ruetz]] ist für die Bewertung ihrer Preise nach dem Gesetz verpflichtet, eine Berechnung vorzulegen. Die Frage, ob diese Verpflichtung mit der Dienstleistungsfreiheit vereinbar ist, ist offen.
 
+10. Das tschechische Energierecht enthält keine ausdrückliche Regelung für Fernwärme, die aus Anlagen eines anderen Mitgliedstaats geliefert wird. Die Behörde hat deshalb die allgemeinen Vorschriften über die Preiskontrolle angewandt, ohne zu prüfen, ob die Preise eines Anbieters aus [[location|Österreich]] mit denen vergleichbarer inländischer Anbieter übereinstimmen.
+
+11. Die [[organization|Energie Ruetz]] hat im Verfahren geltend gemacht, dass ihre Preise sich an den Kosten einer Anlage in [[location|Wien]] orientieren und dass die Vergleichsberechnung der Behörde auf einer falschen Grundlage beruhe. Die Behörde hat zu diesem Vorbringen nur knapp Stellung genommen. Herr [[person|Svatomír Hrdina]] hat die Berechnung im Termin angegriffen.
+
 Die Verfahren werden bis zur Entscheidung des [[court|Gerichtshofs]] ausgesetzt.
 
 [[location|Brünn]], den [[date|21. April 2026]]

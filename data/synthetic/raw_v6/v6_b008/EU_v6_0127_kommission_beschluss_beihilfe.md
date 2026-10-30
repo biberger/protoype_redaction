@@ -77,11 +77,21 @@ in Erwägung nachstehender Gründe:
 
 (20) Die Bank hat sich in der Stellungnahme auf die Notwendigkeit der Garantie berufen. Die [[organization|Kommission]] erkennt an, dass die Abwicklung zeitkritisch war. Die Verlängerung der Garantie über den Abwicklungszeitraum hinaus ist jedoch nicht gerechtfertigt.
 
+3.4. Zur Verhältnismäßigkeit
+
+(21) Selbst wenn die Garantie eine Beihilfe darstellt, ist sie nur dann mit dem Binnenmarkt vereinbar, wenn sie erforderlich und verhältnismäßig ist. Die [[organization|Kommission]] hat geprüft, ob die Laufzeit von vier Jahren und die Höhe von 600 Millionen Euro über das Notwendige hinausgehen. Eine Laufzeit von vier Jahren ist für eine Garantie dieser Art nicht ungewöhnlich, sie ist aber im Hinblick auf die Abwicklung der Bank zu lang.
+
+(22) Die [[organization|portugiesische Regierung]] hat ihre Berechnung der Garantiehöhe mit dem Hinweis auf die Verbindlichkeiten der Bank begründet. Die [[organization|Kommission]] bezweifelt diese Berechnung, weil sie nicht zwischen gesicherten und ungesicherten Verbindlichkeiten unterscheidet. Die Bank selbst hat keine Bewertung vorgelegt, die diesen Unterschied berücksichtigt.
+
+(23) Die Stellungnahme des [[organization|SRB]] bestätigt, dass eine Abwicklung auch ohne Garantie möglich gewesen wäre. Der [[organization|SRB]] hat darauf hingewiesen, dass ein Finanzierungsbedarf von 600 Millionen Euro nicht belegt sei.
+
+(24) Die Garantie begünstigt ausschließlich die Gläubiger der Bank, die in Portugal ansässig sind; ausländische Gläubiger sind nicht erfasst. Die [[organization|Kommission]] hat dies als zusätzlichen Gesichtspunkt berücksichtigt, ohne ihn für entscheidend zu halten.
+
 4. Ergebnis
 
-(21) Die Garantie ist eine staatliche Beihilfe im Sinne von [[legal_norm|Art. 107 Abs. 1 AEUV]]. Sie ist nicht mit dem Binnenmarkt vereinbar, soweit sie über den Zeitraum von [[date|30. Juni 2025]] hinaus gewährt wird.
+(25) Die Garantie ist eine staatliche Beihilfe im Sinne von [[legal_norm|Art. 107 Abs. 1 AEUV]]. Sie ist nicht mit dem Binnenmarkt vereinbar, soweit sie über den Zeitraum von [[date|30. Juni 2025]] hinaus gewährt wird.
 
-(22) Portugal hat die Beihilfe innerhalb von drei Monaten ab Bekanntgabe dieses Beschlusses zurückzufordern, soweit sie rechtswidrig gewährt wurde. Die Rückforderung erfolgt nach den Vorschriften des nationalen Rechts.
+(26) Portugal hat die Beihilfe innerhalb von drei Monaten ab Bekanntgabe dieses Beschlusses zurückzufordern, soweit sie rechtswidrig gewährt wurde. Die Rückforderung erfolgt nach den Vorschriften des nationalen Rechts.
 
 Artikel 1
 

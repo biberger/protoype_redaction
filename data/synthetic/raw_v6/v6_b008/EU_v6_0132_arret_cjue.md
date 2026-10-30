@@ -83,9 +83,15 @@ IV. Appréciation de la [[court|Cour]]
 
 13. Il convient par conséquent de répondre aux questions posées que l'article 7, paragraphe 1, sous b) et c), du règlement 2017/1001 doit être interprété en ce sens que le refus d'enregistrement d'un signe pour l'ensemble des produits ne peut être fondé que sur une appréciation distincte pour chaque produit.
 
+14. Il convient de relever, à titre liminaire, que la requérante n'a pas contesté la recevabilité de la demande de décision préjudicielle. La juridiction de renvoi a exposé de manière suffisante le cadre factuel et juridique du litige au principal.
+
+15. Quant au fond, la [[court|Cour]] observe que le caractère distinctif d'un signe doit être apprécié au regard des produits pour lesquels l'enregistrement est demandé, et non de manière abstraite. Un signe qui est descriptif pour une catégorie de produits peut rester distinctif pour d'autres catégories, pour lesquelles il ne désigne pas directement une caractéristique.
+
+16. Il résulte de ce qui précède que la juridiction de renvoi doit procéder à une appréciation produit par produit, en tenant compte de la perception du public pertinent, qui est en l'espèce le consommateur portugais moyen. Ce public est censé être normalement informé et raisonnablement attentif.
+
 V. Dépens
 
-14. La procédure revêt, à l'égard des parties au principal, le caractère d'un incident soulevé devant la juridiction de renvoi ; il appartient donc à celle-ci de statuer sur les dépens.
+17. La procédure revêt, à l'égard des parties au principal, le caractère d'un incident soulevé devant la juridiction de renvoi ; il appartient donc à celle-ci de statuer sur les dépens.
 
 Par ces motifs, la [[court|Cour]] (huitième chambre) dit pour droit :
 

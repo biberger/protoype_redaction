@@ -58,7 +58,11 @@ Zu den Vorlagefragen
 
 14. Die Stiftung, bei der die Akten verwahrt werden, hat auf Anfrage erklärt, dass sie keine Auskunft erteilen könne. Dieser Hinweis ist für die Beurteilung der Vorlagefragen nicht erheblich, weil die Verwahrung nicht den Zugang selbst betrifft.
 
-15. Zu den Kosten ist festzustellen, dass das Verfahren für die Parteien des Ausgangsverfahrens einen Zwischenstreit darstellt. Über die Kosten hat das vorlegende Gericht zu entscheiden.
+15. Zur Begründung ist außerdem festzustellen, dass die Richtlinie 2016/680 die Zuständigkeit der Ermittlungsbehörden nicht abschließend regelt. Der Schutz der betroffenen Person verlangt, dass ein Auskunftsantrag inhaltlich geprüft wird, auch wenn die Behörde die Auskunft einschränkt. Eine pauschale Ablehnung genügt diesen Anforderungen nicht.
+
+16. Die [[organization|BI]] hat im Verfahren vorgetragen, sie sei lediglich Empfängerin von Angaben gewesen und habe keine eigene Verarbeitung vorgenommen. Dieser Vortrag ist nicht ohne Bedeutung, weil die Verantwortlichkeit für die Weitergabe der Daten die Auskunftspflicht beeinflussen kann. Das vorlegende Gericht hat die Rolle der Gesellschaft zu klären.
+
+17. Zu den Kosten ist festzustellen, dass das Verfahren für die Parteien des Ausgangsverfahrens einen Zwischenstreit darstellt. Über die Kosten hat das vorlegende Gericht zu entscheiden.
 
 Aus diesen Gründen hat der [[court|Gerichtshof]] (Dritte Kammer) für Recht erkannt:
 

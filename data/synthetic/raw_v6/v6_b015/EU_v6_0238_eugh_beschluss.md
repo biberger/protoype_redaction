@@ -51,7 +51,7 @@ Ausgangsverfahren und Vorlagefrage
 
 5. [[person|Vannino Pellegrini]] und [[person|WI]] sind Gesellschafter einer Gesellschaft, deren Firmenname das streitige Zeichen enthält. [[organization|Energie Brändle]] ist eine Gesellschaft luxemburgischen Rechts, die das Zeichen für Energiedienstleistungen verwendet.
 
-6. Das vorlegende Gericht fragt, ob die Verwendung des Zeichens im Firmennamen unter das ausschließliche Recht des Inhabers fällt.
+6. Das [[court|Oberlandesgericht Düsseldorf]] fragt, ob die Verwendung des Zeichens im Firmennamen unter das ausschließliche Recht des Inhabers fällt.
 
 7. Die Gesellschaft hat die Verwendung seit dem [[date|1. März 2024]] fortgesetzt. Das [[court|Oberlandesgericht Düsseldorf]] hat die Vorlage am [[date|5. Dezember 2025]] beschlossen.
 

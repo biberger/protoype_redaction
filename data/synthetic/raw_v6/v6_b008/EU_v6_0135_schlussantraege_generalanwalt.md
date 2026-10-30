@@ -65,9 +65,15 @@ C. Zur Rolle der Bundesrepublik
 
 17. Die Forderungen der Gesellschaft wurden vor dem Abwicklungszeitpunkt nicht vollständig durchgesetzt. Ob die Gesellschaft zu diesem Zeitpunkt noch Gläubigerin war, hat das vorlegende [[court|Oberlandesgericht Düsseldorf]] zu klären.
 
+18. Zur Verhältnismäßigkeit ist festzustellen, dass eine Rangordnung, die Gläubiger in demselben Mitgliedstaat gleich behandelt, nicht ohne Weiteres eine mittelbare Diskriminierung darstellt. Entscheidend ist, ob Gläubiger aus anderen Mitgliedstaaten tatsächlich schlechter gestellt werden und ob dafür ein sachlicher Grund besteht.
+
+19. Die [[organization|Šimáčková-Dostál]] hat dazu vorgetragen, dass ihre Forderungen gegenüber der Bank aus einem Vertrag stammten, der vor der Abwicklung geschlossen wurde. Frau [[person|Ernestine Weinrich]] macht geltend, dass vergleichbare Forderungen inländischer Gläubiger vollständig befriedigt worden seien. Diese Angaben sind vom vorlegenden [[court|Oberlandesgericht Düsseldorf]] anhand der Akten zu überprüfen.
+
+20. Die [[organization|Europäische Zentralbank]] hat in ihrer Stellungnahme betont, dass die Abwicklung nur dann rasch erfolgen kann, wenn die Rangordnung der Forderungen im Voraus feststeht. Dieses Argument stützt die Annahme, dass eine Rangordnung, die für alle Gläubiger in gleicher Weise gilt, mit dem Unionsrecht vereinbar ist.
+
 V. Ergebnis
 
-18. Ich schlage dem [[court|Gerichtshof]] vor, die Vorlagefragen wie folgt zu beantworten:
+21. Ich schlage dem [[court|Gerichtshof]] vor, die Vorlagefragen wie folgt zu beantworten:
 
 [[legal_norm|Art. 18 AEUV]] und [[legal_norm|Art. 21 Abs. 1 AEUV]] sind dahin auszulegen, dass eine Rangordnung von Forderungen im Rahmen einer Abwicklungsmaßnahme nicht gegen den Grundsatz der Gleichbehandlung verstößt, sofern sie auf sachlichen Gründen beruht und zur Erreichung des Abwicklungsziels erforderlich ist. Es ist Sache des vorlegenden [[court|Oberlandesgerichts Düsseldorf]], dies zu prüfen.
 

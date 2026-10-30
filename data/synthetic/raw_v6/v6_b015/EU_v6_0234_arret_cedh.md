@@ -53,7 +53,7 @@ II. LE DROIT INTERNE PERTINENT
 
 III. LE DROIT DE L'UNION EUROPÉENNE
 
-12. Le [[organization|Conseil de résolution unique]] ([[organization|CRU]]) a été invoqué par le Gouvernement pour soutenir que la liquidation relevait du mécanisme de résolution. Le [[organization|Parlement européen]] et le [[organization|Conseil]] n'ont pas été partie à la procédure.
+12. Le [[organization|Conseil de résolution unique]] ([[organization|CRU]]) a été invoqué par le [[organization|Gouvernement]] pour soutenir que la liquidation relevait du mécanisme de résolution. Le [[organization|Parlement européen]] et le [[organization|Conseil]] n'ont pas été partie à la procédure.
 
 13. La Cour a déjà relevé, dans l'arrêt du [[date|23 mai 1973]], [[organization|Moine]], [[case_number|248/73]], que la protection juridictionnelle effective suppose un accès aux pièces essentielles. Dans l'arrêt du [[date|16 mars 2000]], [[organization|Cordeiro]], [[case_number|T-249/00]], le [[court|Tribunal]] a précisé que cette exigence vaut également pour les sociétés en liquidation.
 
@@ -61,7 +61,7 @@ III. LE DROIT DE L'UNION EUROPÉENNE
 
 EN DROIT
 
-I. SUR LA VIOLATION ALLÉGUÉE DE L'ARTICLE 6 § 1 DE LA CONVENTION
+I. SUR LA VIOLATION ALLÉGUÉE DE L'[[legal_norm|ARTICLE 6 § 1 DE LA CONVENTION]]
 
 15. Les requérants se plaignent de ce que la durée de la liquidation et le refus de communication des pièces ont porté atteinte à leur droit d'accès à un tribunal, garanti par l'[[legal_norm|article 6 § 1 de la Convention européenne des droits de l'homme]].
 

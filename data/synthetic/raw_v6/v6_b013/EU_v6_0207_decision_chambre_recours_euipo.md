@@ -49,7 +49,7 @@ III. Appréciation
 
 11. Dans l'arrêt du [[date|18 juin 1991]], [[person|Andraschek]], [[case_number|C-602/91]], la [[court|Cour]] a précisé que le public pertinent est le consommateur moyen, normalement informé et raisonnablement attentif.
 
-12. L'arrêt [[organization|Fallize]], [[case_number|T-818/23]], du [[date|8 mai 2023]], rendu par le [[court|Tribunal de l'Union européenne]], confirme que la similitude visuelle des signes peut l'emporter sur leurs différences phonétiques lorsque le terme commun est distinctif.
+12. L'arrêt [[organization|Fallize]], [[case_number|T-818/23]], du [[date|8 mai 2025]], rendu par le [[court|Tribunal de l'Union européenne]], confirme que la similitude visuelle des signes peut l'emporter sur leurs différences phonétiques lorsque le terme commun est distinctif.
 
 13. Le signe « ALFA CRESCENDO » reprend l'élément « ALFA » de la marque antérieure, qui est l'élément dominant de celle-ci. La présence du terme « CRESCENDO » ne suffit pas à écarter la similitude visuelle et phonétique.
 

@@ -67,9 +67,13 @@ Zu den Vorlagefragen
 
 11. Herr [[person|JR]] hat zudem geltend gemacht, dass die Gesellschaft die Daten ohne Rechtsgrundlage an Dritte weitergegeben habe. Dieser Vorwurf fällt nicht unter die Vorlagefragen und ist daher nicht zu prüfen.
 
+12. Das vorlegende Gericht hat außerdem angemerkt, dass nach [[legal_norm|Art. 12 Abs. 3 der Verordnung (EU) 2016/679]] der Verantwortliche innerhalb eines Monats nach Eingang des Antrags zu antworten hat. Die [[organization|IH]] hat diese Frist nicht eingehalten; ihre Antwort auf das Ersuchen des Herrn [[person|JR]] vom [[date|11. März 2024]] ist bis zur Einleitung des Verfahrens unterblieben.
+
+13. Die Frage, ob die Berichtigung auch dann verlangt werden kann, wenn die Angaben ursprünglich rechtmäßig erhoben wurden, ist in der Rechtsprechung des [[court|Gerichtshofs]] bislang nicht ausdrücklich beantwortet. Sie ist im Sinne der Vorlagefragen zu beantworten, weil die Unrichtigkeit der Angabe die betroffene Person unabhängig vom Zeitpunkt der Erhebung benachteiligen kann.
+
 Kosten
 
-12. Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit vor dem vorlegenden Gericht; über die Kosten hat es daher zu entscheiden.
+14. Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit vor dem vorlegenden Gericht; über die Kosten hat es daher zu entscheiden.
 
 Aus diesen Gründen hat der [[court|Gerichtshof]] (Zweite Kammer) für Recht erkannt:
 

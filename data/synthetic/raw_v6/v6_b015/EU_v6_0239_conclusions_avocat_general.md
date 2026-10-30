@@ -9,7 +9,7 @@ présentées le [[date|18 septembre 2026]]
 
 Affaire [[case_number|C-402/26]]
 
-Demande de décision préjudicielle introduite par la [[court|Naczelny Sąd Administracyjny]] (Pologne)
+Demande de décision préjudicielle introduite par la [[court|Naczelny Sąd Administracyjny]] ([[location|Pologne]])
 
 I. Introduction
 

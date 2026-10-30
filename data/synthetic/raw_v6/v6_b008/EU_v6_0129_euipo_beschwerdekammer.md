@@ -67,9 +67,13 @@ B. Begründetheit
 
 17. Die [[organization|Rat]] hat in einer Mitteilung darauf hingewiesen, dass Begriffe wie „Holz“ in der Unionsmarkenpraxis einheitlich zu behandeln sind. Die Beschwerdekammer schließt sich dieser Praxis an.
 
+18. Die Beschwerdekammer hat ferner geprüft, ob die Waren der Klasse 19 hinreichend ähnlich sind. Die [[organization|Mándi]] hat dargelegt, dass Fertigparkett und Holzfenster im Handel regelmäßig von denselben Unternehmen angeboten werden. Die [[organization|Holz Miranda]] bestreitet dies und verweist auf getrennte Vertriebswege.
+
+19. Die Beschwerdekammer stellt fest, dass die Vertriebswege zwar teilweise übereinstimmen, aber für Waren der Klasse 19 nicht in dem Umfang, der eine Ähnlichkeit begründen würde. Insoweit ist die Entscheidung der Widerspruchsabteilung zu bestätigen. Für die Waren der Klasse 20 dagegen ist die Ähnlichkeit gegeben, weil Möbel und Holzprodukte für denselben Verwendungszweck bestimmt sind.
+
 C. Kosten
 
-18. Nach [[legal_norm|Art. 109 Abs. 1 der Verordnung (EU) 2017/1001]] trägt die unterliegende Partei die Kosten des Verfahrens. Die [[organization|Holz Miranda]] trägt daher die Kosten der Beschwerde.
+20. Nach [[legal_norm|Art. 109 Abs. 1 der Verordnung (EU) 2017/1001]] trägt die unterliegende Partei die Kosten des Verfahrens. Die [[organization|Holz Miranda]] trägt daher die Kosten der Beschwerde.
 
 IV. Tenor
 

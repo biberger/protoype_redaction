@@ -25,7 +25,7 @@ in Erwägung nachstehender Gründe:
 
 1. Mit Schreiben vom [[date|14. Juni 2024]] ging bei der [[organization|KOMMISSION]] eine Beschwerde der [[organization|Frey-Lefevre ASBL]] ein. Die Beschwerdeführerin machte geltend, eine Förderung zugunsten eines Mitbewerbers verstoße gegen das Beihilferecht.
 
-2. Die Beschwerde war zuvor Gegenstand eines Verfahrens vor dem [[court|Cour d'appel de Liège]] ([[location|Belgien]]), das am [[date|27. März 2024]] ausgesetzt wurde, bis die [[organization|KOMMISSION]] entschieden hat.
+2. Die Beschwerde war zuvor Gegenstand eines Verfahrens vor dem [[court|Cour d'appel de Liège]] ([[location|Belgien]]), das am [[date|27. August 2024]] ausgesetzt wurde, bis die [[organization|KOMMISSION]] entschieden hat.
 
 3. Mit Schreiben vom [[date|3. Oktober 2024]] forderte die [[organization|KOMMISSION]] das [[organization|Königreich Belgien]] zur Stellungnahme auf.
 

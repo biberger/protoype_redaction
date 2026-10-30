@@ -55,7 +55,11 @@ V. Motifs de la demande
 
 14. Le juge de renvoi relève enfin que la [[organization|Commission]] a publié, en décembre 2025, des lignes directrices sur la transparence des profils. Ces lignes directrices n'ont pas de valeur contraignante, mais elles éclairent l'interprétation du règlement.
 
-15. Pour ces motifs, le [[court|Tribunal régional de Szeged]] a décidé de surseoir à statuer et de soumettre à la [[court|Cour]] les questions reproduites au point 7.
+15. Le juge de renvoi précise que la plainte de M. [[person|Márton Guba]] a été reçue par le [[organization|HPKF]] le [[date|5 octobre 2025]], soit après la réponse de la société. La société n'a donc pas respecté le délai de réponse d'un mois, ce qui n'est pas contesté.
+
+16. Les parties ont échangé des écritures en langue hongroise et en langue espagnole. [[organization|Egea]] soutient que la traduction de ses conditions générales ne lui est pas imputable. M. [[person|Márton Guba]] soutient au contraire que la version espagnole était la seule accessible à un consommateur hongrois.
+
+17. Pour ces motifs, le [[court|Tribunal régional de Szeged]] a décidé de surseoir à statuer et de soumettre à la [[court|Cour]] les questions reproduites au point 7.
 
 
 Notification de la [[court|Cour]] : l'affaire a été attribuée à la [[court|Cour]] (troisième chambre), composée de Mme [[judge|Stojka Radak]], Mme [[judge|Zharadat Richard]] et Mme [[judge|Serena Savoia]], l'avocat général étant Mme [[judge|Pegah Madani]].

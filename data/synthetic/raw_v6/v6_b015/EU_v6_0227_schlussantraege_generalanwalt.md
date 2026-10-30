@@ -53,7 +53,7 @@ IV. Die Vorlagefragen
 
 10. Die Regierung Portugals vertritt die Auffassung, die Übertragung sei durch das Unionsrecht gedeckt. Vertreten wurde sie durch den Bevollmächtigten [[person|Alberto Ivan Vilar]]. Die [[organization|griechische Regierung]] wurde durch [[person|Vavrinec Furdová]] vertreten, der sich ebenfalls für die Zulässigkeit der Vorlage ausgesprochen hat.
 
-11. Die Gesellschaft [[organization|Slavíček]] wurde vor dem Gerichtshof durch die Rechtsanwältin [[lawyer|Zlatuse Kouřil]] vertreten. Die Beklagte ist durch die Rechtsanwältin [[lawyer|Merry Amrhyn]] vertreten. Das Europäische Parlament hat sich nicht geäußert.
+11. Die Gesellschaft [[organization|Slavíček]] wurde vor dem [[court|Gerichtshof]] durch die Rechtsanwältin [[lawyer|Zlatuse Kouřil]] vertreten. Die Beklagte ist durch die Rechtsanwältin [[lawyer|Merry Amrhyn]] vertreten. Das [[organization|Europäische Parlament]] hat sich nicht geäußert.
 
 12. Die Zuständigkeit des [[court|Gerichtshofs]] ist gegeben. Die Kammer besteht aus Frau [[judge|Léanne Torfs]] (Präsidentin), Frau [[judge|Jedwizka Inglot]], Frau [[judge|Diana Vizi]], Herrn [[judge|Leon Angoulvant]] und Frau [[judge|Savka Jeger]]. Die Vorlagefragen betreffen die Auslegung des Unionsrechts, nicht die Anwendung auf den Sachverhalt.
 

@@ -47,6 +47,14 @@ Zur Zulässigkeit
 
 10. Die Gesellschaft hat ferner geltend gemacht, dass die Vorlage verspätet sei. Diese Rüge ist zurückzuweisen, weil die Entscheidung des vorlegenden Gerichts vom [[date|3. Februar 2026]] innerhalb der Fristen eingegangen ist.
 
+Zur Begründetheit
+
+11. Das vorlegende Gericht möchte wissen, ob ein Verbraucher, dessen Widerrufsrecht nicht ordnungsgemäß belehrt wurde, sich auch nach Ablauf der regulären Frist auf sein Recht berufen kann. Diese Frage betrifft das Gleichgewicht zwischen dem Schutz des Verbrauchers und der Rechtssicherheit des Unternehmers.
+
+12. Der [[court|Gerichtshof]] hat in ständiger Rechtsprechung betont, dass die Vorschriften über den Verbraucherschutz zwingend auszulegen sind. Eine Auslegung, die dem Verbraucher die Ausübung seines Widerrufsrechts faktisch unmöglich macht, widerspricht dem Ziel der Richtlinie. Die Gesellschaft hält dem entgegen, dass der Verbraucher das Gerät ohnehin behalten habe und deshalb keinen Schaden erlitten habe. Dieses Argument überzeugt nicht, weil die Frist nach der Richtlinie nicht vom Schaden des Verbrauchers abhängt.
+
+13. Der [[organization|Rat]] und die [[organization|Kommission]] haben insoweit übereinstimmend vorgetragen, dass die Belehrung nachgeholt werden kann und die Frist erst danach zu laufen beginnt. Der [[organization|Rat]] hat zudem darauf hingewiesen, dass eine mündliche Belehrung nicht genügt, wenn der Verbraucher hierüber keinen Nachweis erhält.
+
 Aus diesen Gründen beschließt der [[court|Gerichtshof]] (Vierte Kammer):
 
 1. [[legal_norm|Art. 6 Abs. 1 der Richtlinie 2011/83/EU]] ist dahin auszulegen, dass die Frist für die Ausübung des Widerrufsrechts nicht zu laufen beginnt, solange der Verbraucher nicht in der vorgeschriebenen Form belehrt worden ist.

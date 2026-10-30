@@ -45,6 +45,10 @@ Rechtliche Würdigung
 
 11. Die Unternehmen bringen außerdem vor, dass das Verfahren überlang gewesen sei. Der [[court|Gerichtshof]] stellt fest, dass zwischen der Klageerhebung und der Entscheidung rund zwei Jahre vergangen sind, was nicht übermäßig ist.
 
+12. Zur Zustellung ist ergänzend festzustellen, dass die [[organization|Filimon Installations]] die Entscheidung des [[organization|BWFZ]] erst am [[date|27. Juni 2022]] erhalten hat, obwohl sie auf den [[date|14. Juni 2022]] datiert ist. Die Verzögerung ist der Gesellschaft nicht anzulasten, weil die Post am Sitz des Unternehmens zeitweise ruhte.
+
+13. Die Rüge der Verfahrensdauer ist im Hinblick auf die Aussetzung des Verfahrens nicht gesondert zu prüfen, weil die Gesellschaft eine Aussetzung nicht beantragt hatte.
+
 Aus diesen Gründen erklärt der [[court|Gerichtshof]] einstimmig:
 
 1. Die Beschwerden werden für zulässig erklärt.

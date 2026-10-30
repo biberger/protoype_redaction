@@ -33,7 +33,11 @@ Vor dem [[court|Gerichtshof]] haben die [[organization|spanische Regierung]] und
 
 9. Die [[organization|Frontex]] hat nach den Akten keine Erkenntnisse zu dem Verfahren beigetragen. Das vorlegende Gericht hat jedoch auf die Praxis verwiesen, die im Bericht vom [[date|9. Dezember 2025]] beschrieben ist.
 
-10. Ich schlage dem [[court|Gerichtshof]] vor, [[legal_norm|Art. 20 AEUV]] dahin auszulegen, dass eine nationale Praxis, die den Aufenthalt von einem Nachweis abhängig macht, der nur bei einer bestimmten Bank erhältlich ist, nicht gerechtfertigt ist. Es ist Sache des vorlegenden Gerichts, zu prüfen, ob andere Nachweise zur Verfügung stehen.
+10. Das spanische Recht knüpft die Erteilung des Aufenthaltstitels in [[legal_norm|Art. 46 der Ley Orgánica de Extranjería]] an ausreichende Mittel des Lebensunterhalts. Nach den Angaben der [[organization|spanischen Regierung]] kann dieser Nachweis durch verschiedene Unterlagen erbracht werden, unter anderem durch eine Bescheinigung über Einkünfte, eine Immobilienurkunde oder eine Bürgschaft.
+
+11. Das vorlegende Gericht stellt jedoch fest, dass die Verwaltungspraxis in der Region [[location|Aragón]] die Bescheinigung der Bank faktisch als einzige Form anerkennt. Frau [[person|UN]] hat in der Sitzung bestätigt, dass Anträge ohne diese Bescheinigung regelmäßig abgelehnt wurden. Die [[organization|slowakische Regierung]] hat dazu keine Angaben gemacht.
+
+12. Ich schlage dem [[court|Gerichtshof]] vor, [[legal_norm|Art. 20 AEUV]] dahin auszulegen, dass eine nationale Praxis, die den Aufenthalt von einem Nachweis abhängig macht, der nur bei einer bestimmten Bank erhältlich ist, nicht gerechtfertigt ist. Es ist Sache des vorlegenden Gerichts, zu prüfen, ob andere Nachweise zur Verfügung stehen.
 
 [[location|Luxemburg]], den [[date|17. November 2026]]
 

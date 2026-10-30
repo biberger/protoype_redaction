@@ -57,7 +57,11 @@ ORDONNANCE
 
 12. Pour le surplus, la première question relève de l'interprétation de l'[[legal_norm|article 6, paragraphe 1, sous f), du règlement (UE) 2016/679]], qui a déjà été précisée par la jurisprudence. Il n'y a donc pas lieu de la répondre par un arrêt.
 
-13. Les frais afférents à la présente ordonnance sont à la charge de la juridiction de renvoi, qui statue sur les dépens du litige au principal.
+13. Il y a lieu de relever que la juridiction de renvoi n'a pas indiqué si la communication litigieuse a été faite avec le consentement de la personne concernée. Cette information est pourtant déterminante pour l'application de l'[[legal_norm|article 6, paragraphe 1, sous a), du règlement (UE) 2016/679]].
+
+14. La [[court|Cour]] constate, par ailleurs, que la question relative au secret bancaire relève du droit national et n'entre pas dans le champ de la présente demande. Il n'y a donc pas lieu d'y répondre.
+
+15. Les frais afférents à la présente ordonnance sont à la charge de la juridiction de renvoi, qui statue sur les dépens du litige au principal.
 
 Par ces motifs, la [[court|Cour]] (dixième chambre) ordonne :
 
