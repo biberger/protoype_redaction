@@ -46,7 +46,7 @@ Die Zulassungsstelle hat die Halterdaten am [[date|21. August 2026]] bestätigt.
 
 II. Beweismittel
 
-Beweis wurde erhoben durch das Messprotokoll, das Lichtbild des Fahrzeugs und die Angaben der Halterin. Die Messung ist im Lichtbild erkennbar, weil das Kennzeichen eindeutig lesbar ist. Ein weiterer Zeuge, Herr [[person|Heinfried Rüger]], hat die Messung bestätigt; er gab zudem an, das Fahrzeug habe vor der Messstelle deutlich beschleunigt.
+Beweis wurde erhoben durch das Messprotokoll, das Lichtbild des Fahrzeugs und die Angaben der Halterin. Die Messung ist im Lichtbild erkennbar, weil das Kennzeichen eindeutig lesbar ist. Ein weiterer Zeuge, Herr [[person|Heinfried Rüger]], wohnhaft in [[address|Bruchsaler Straße 8, 06901 Lubast]], hat die Messung bestätigt; er gab zudem an, das Fahrzeug habe vor der Messstelle deutlich beschleunigt.
 
 [[person|Navrátilovás]] Angaben liegen nicht vor, da er den Anhörungsbogen nicht beantwortet hat. Zur Vorlage der Fahrerlaubnis wurde kein Nachweis erbracht; die Fahrerlaubnis ist jedoch im Register erfasst und wird als gegeben angesehen.
 

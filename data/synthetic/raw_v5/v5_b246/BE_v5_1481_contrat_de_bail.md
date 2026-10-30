@@ -41,7 +41,7 @@ Toute communication relative au bail est adressée par écrit à l'adresse du ba
 
 Article 7 – État des lieux
 
-Un état des lieux d'entrée est établi contradictoirement le [[date|1er décembre 2026]]. Les preneuses signalent que la chaudière a été révisée le [[date|15 octobre 2026]].
+Un état des lieux d'entrée est établi contradictoirement le [[date|1er décembre 2026]]. Les preneuses signalent que la chaudière a été révisée le [[date|15 septembre 2026]].
 
 Article 8 – Assurance
 

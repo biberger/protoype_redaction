@@ -30,4 +30,4 @@ Vous pouvez joindre mon cabinet au numéro indiqué ci-dessus. Votre numéro de 
 
 Veuillez agréer, Monsieur, l'expression de mes salutations distinguées.
 
-Me Janke Cornet
+Me [[lawyer|Janke Cornet]]

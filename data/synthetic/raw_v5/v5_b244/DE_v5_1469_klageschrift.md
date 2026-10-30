@@ -77,7 +77,7 @@ Zum Beweis werden benannt:
 4. Zeugnis der [[person|Noeme Bothe]], Buchhalterin,
 5. Zeugnis des [[person|Siggi Peschel]], Fahrer.
 
-Die Klägerin bittet um die Ladung der Zeugen. Zahlungen sind auf das Konto der Klägerin mit der IBAN [[bank_account|DE62 4331 9118 9545 O289 93]] zu leisten.
+Die Klägerin bittet um die Ladung der Zeugen. Zahlungen sind auf das Konto der Klägerin mit der IBAN [[bank_account|DE62 4331 9118 9545 0289 93]] zu leisten.
 
 Die Klageschrift ist mit einer Kopie für jede Partei eingereicht.
 

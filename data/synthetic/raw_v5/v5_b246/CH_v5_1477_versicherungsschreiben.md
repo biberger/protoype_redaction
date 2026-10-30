@@ -70,7 +70,7 @@ Die Summe aller anerkannten Positionen ergibt nach Abzug der Selbstbeteiligung d
 
 8. Chronologie der Korrespondenz
 
-Die Abwicklung verlief in folgenden Schritten. Am [[date|5. Mai 2026]] ging die Schadenmeldung bei uns ein. Am [[date|12. Mai 2026]] besichtigte der Gutachter die Ware in [[location|Corticiasca]] und erstellte am selben Tag einen ersten Entwurf. Das Gegengutachten der Transporteurin folgte am [[date|28. Mai 2026]]. Die Rechtsanwältin [[lawyer|Ledergerber]] bestätigte am [[date|10. Juni 2026]] die Schadenminderung, und die Versicherungsnehmerin reichte am [[date|22. Juni 2026]] die Kontoverbindung ein. Dieses Schreiben fasst den Stand per [[date|19. Juni 2026]] zusammen.
+Die Abwicklung verlief in folgenden Schritten. Am [[date|5. Mai 2026]] ging die Schadenmeldung bei uns ein. Am [[date|12. Mai 2026]] besichtigte der Gutachter die Ware in [[location|Corticiasca]] und erstellte am selben Tag einen ersten Entwurf. Das Gegengutachten der Transporteurin folgte am [[date|28. Mai 2026]]. Die Rechtsanwältin [[lawyer|Ledergerber]] bestätigte am [[date|10. Juni 2026]] die Schadenminderung, und die Versicherungsnehmerin reichte am [[date|16. Juni 2026]] die Kontoverbindung ein. Dieses Schreiben fasst den Stand per [[date|19. Juni 2026]] zusammen.
 
 Die Verzögerung zwischen dem Gutachten und der Einreichung der Kontoverbindung beruht auf einer internen Umstellung der Buchhaltung bei der Versicherungsnehmerin und stellt keine Verletzung von Obliegenheiten dar. Wir haben dies bei der Festsetzung der Zinsen berücksichtigt.
 
