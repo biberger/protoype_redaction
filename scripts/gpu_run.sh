@@ -66,7 +66,7 @@ smoke)
   $PY -m legalner.train "$BUILD" -o out/smoke --max-steps 20 --eval-steps 10 --precision bf16
   ;;
 train)
-  $PY -m legalner.train "$BUILD" -o "$RUN" --epochs 3 --batch-size 8 --grad-accum 4 \
+  $PY -m legalner.train "$BUILD" -o "$RUN" --epochs ${EPOCHS:-3} --batch-size 8 --grad-accum 4 \
     --encoder-lr 1e-5 --task-lr 5e-4 --eval-steps 500 --precision bf16 ${WANDB:+--wandb "$WANDB"}
   ;;
 eval)
