@@ -160,7 +160,9 @@ SOURCES = {
                    eval_only=True),
     # hand-checked Austrian gold set (legalner.goldset), never trained on
     # synthetic v6 EU documents (CJEU, GC, AG, Commission, EUIPO, ECtHR); own name so build can oversample it
-    "synthetic_eu": Source("synthetic_eu", _ALL - {"case_citation", "contract", "literature", "brand"}),
+    # legal_norm is not queried: the v6 audit found 17 of 32 span errors to be missed EU norm citations
+    # (docs/audits/synthetic_v6.md), which would train as negatives; norms come from LER, synthetic, EUR-Lex
+    "synthetic_eu": Source("synthetic_eu", _ALL - {"case_citation", "contract", "literature", "brand", "legal_norm"}),
     # real EU court texts (CELLAR), model-pre-annotated and agent-corrected to GENERATION.md (legalner.sources.eurlex)
     "eurlex": Source("eurlex", _ALL - {"case_citation", "contract", "literature", "brand"}),
     # MAPA's test documents re-annotated to GENERATION.md the same way; evaluation only
