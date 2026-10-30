@@ -176,6 +176,16 @@ def abbreviation_augment(rec, abbr, rng, p=0.5):
     return dict(rec, text=new_text, spans=spans, meta=dict(rec.get("meta", {}), abbr_aug=len(chosen)))
 
 
+# boundary_head.max_gold_per_query of gliner2.5-multi-v1 is 64: a batch with more gold spans for one label aborts
+# training (TargetCapacityError), so such records are left out of train and dev
+MAX_GOLD_PER_LABEL = 60
+
+
+def too_dense(rec, labels):
+    per = collections.Counter(s["label"] for s in rec["spans"] if s["label"] in labels)
+    return any(n > MAX_GOLD_PER_LABEL for n in per.values())
+
+
 def read_records(paths):
     for path in paths:
         with open(path, encoding="utf-8") as fh:
@@ -299,6 +309,9 @@ def main(argv=None):
         for _ in range(args.copies):
             for rec in train:
                 labels = query_labels(rec)
+                if too_dense(rec, labels):
+                    stats["too_dense_skipped"] = stats.get("too_dense_skipped", 0) + 1
+                    continue
                 if abbr.get(rec["doc_id"]) and rng.random() < args.abbr_frac:
                     rec = abbreviation_augment(rec, abbr[rec["doc_id"]], rng)
                     stats["abbr_augmented"] = stats.get("abbr_augmented", 0) + (rec.get("meta", {}).get("abbr_aug", 0) > 0)
@@ -317,6 +330,8 @@ def main(argv=None):
             recs = [r for r in recs if (per.update([r["source"]]) or per[r["source"]]) <= args.max_eval_per_source]
         with (out / f"{split}.jsonl").open("w", encoding="utf-8") as fh:
             for rec in recs:
+                if split == "dev" and too_dense(rec, query_labels(rec)):  # dev loss uses the training collator
+                    continue
                 fh.write(json.dumps(to_example(rec, query_labels(rec)), ensure_ascii=False) + "\n")
         # canonical copy keeps source/jurisdiction for sliced evaluation
         with (out / f"{split}.canonical.jsonl").open("w", encoding="utf-8") as fh:
