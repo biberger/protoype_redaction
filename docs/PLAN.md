@@ -328,6 +328,35 @@ Done on branch `ccr-e3b45fa1-pbfzdy` (continues `ccr-45f5c65f-g4rgnu`; earlier h
        bare EU institutions (→ organization) and case short names; (5) score MAPA organisation as recall only, plus a
        hand-checked precision sample.
 
+7. **Second GPU run (v2)**, 2026-10-30: same pod setup with the smoke gate (`control/go`), build `data/build/v2` (63,401
+   training records: + synthetic v6 EU 240 docs ×3, + EUR-Lex 95 real CJEU/GC/AG documents corrected by agents, mix
+   ler .39 / synthetic .30 / ris .145 / replay .145 / eurlex .02; decisions 25-30; one record with 66 person spans
+   skipped, gliner2.5 allows 64 gold spans per label), 4 epochs, 7,924 steps, 146 min, dev loss 280 → 117 (still
+   falling). Checkpoint, eval JSONs and per-record predictions in the private HF repo `sb-aiss/legalner-v2`. Cost of
+   both v2 attempts ≈ $5.30 (the first stopped itself after 1 min on the 66-span record). v1 was evaluated alongside on
+   the same records.
+
+   | Set (micro F1) | v2 | v1 | gliner2.5-multi | PII-multi |
+   |---|---:|---:|---:|---:|
+   | **MAPA_v2** (3 held-out CJEU documents de+fr, our scheme, 2,186 spans) | **0.871** | 0.691 | 0.379 | 0.433 |
+   | MAPA_v2 organization (561) | **0.813** | 0.556 | 0.490 | 0.557 |
+   | MAPA_v2 court / case_number / judge | **0.959 / 0.923 / 0.780** | 0.748 / 0.286 / 0.333 | | |
+   | MAPA_v2 PII character recall | **0.912** | 0.763 | 0.599 | 0.926 |
+   | MAPA original, partial org scoring (1,318) | **0.734** | 0.717 | 0.520 | 0.476 |
+   | MAPA original organization | **0.625** | 0.553 | 0.655 | 0.653 |
+   | EUR-Lex test documents (515) | **0.859** | 0.742 | 0.471 | 0.556 |
+   | gold_at (6,955) | 0.965 | 0.965 | 0.583 | 0.616 |
+   | test overall (10,004 records, 56,939 spans) | **0.906** | 0.891 | 0.510 | 0.554 |
+   | test: LER / RIS / replay | 0.911 / 0.939 / 0.708 | 0.881 / 0.933 / 0.703 | | |
+
+   The EU gap is mostly closed without loss on Austrian text (gold unchanged) or on replay (no forgetting). Caveats:
+   MAPA_v2 was pre-annotated by v1 and corrected by agents (Sonnet), which if anything anchors it towards v1; it has
+   only three underlying documents. On the original MAPA, organization stays at 0.63 because MAPA's convention differs
+   (no courts or EU bodies, anaphoric "Stiftung" tagged); the baselines' 0.65 there comes from tagging everything.
+   Remaining weak spot: person on MAPA_v2 (0.614, v1 0.626). The errors are case short names ("Urteil Simmenthal",
+   "CIF", "Costanzo", "Levy", "von Colson"): decision 27 labels them by the party, which needs world knowledge the text
+   does not give. Proposed: label case short names consistently (e.g. as part of `case_citation`, or always
+   `organization`) instead of by party type.
 Next: human review of the gold set and a gold slice by origin (RIS vs synthetic); a per-label threshold sweep
 (0.3–0.7); a longer run (dev loss was still falling after 3 epochs); teacher pseudo-labels for RIS organisations and
 places; EUR-Lex; the held-out zero-shot label check (medication, vehicle model). `scripts/pod_run.sh` now waits after
