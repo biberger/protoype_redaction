@@ -67,7 +67,7 @@ IV. Kosten
 
 12. Für das Ausgangsverfahren ist das vorlegende Gericht zuständig; es entscheidet über die Kosten.
 
-Aus diesen Gründen hat der Gerichtshof (Vierte Kammer) für Recht erkannt:
+Aus diesen Gründen hat der [[court|Gerichtshof]] (Vierte Kammer) für Recht erkannt:
 
 1. [[legal_norm|Art. 47 der Charta]] ist dahin auszulegen, dass er einer Abwicklungsmaßnahme entgegensteht, die ohne vorherige Anhörung der Betroffenen ergeht, sofern die Dringlichkeit nicht im Einzelfall nachgewiesen ist.
 

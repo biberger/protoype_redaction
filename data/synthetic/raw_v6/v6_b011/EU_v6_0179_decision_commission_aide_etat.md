@@ -17,11 +17,11 @@ vu le traité sur le fonctionnement de l'Union européenne, et notamment son [[l
 
 après avoir invité les parties intéressées à présenter leurs observations,
 
-considérant ce qui suit :
+considérant les motifs suivants :
 
 1. PROCÉDURE
 
-(1) Par lettre du [[date|14 juin 2023]], la [[organization|Commission]] a informé l'Allemagne qu'elle avait décidé d'ouvrir la procédure formelle d'examen.
+(1) Par lettre du [[date|14 juin 2023]], la [[organization|Commission]] a informé l'[[organization|Allemagne]] qu'elle avait décidé d'ouvrir la procédure formelle d'examen.
 
 (2) La mesure a été examinée à la suite d'une plainte déposée le [[date|2 février 2023]] auprès de la [[organization|Commission]]. Le [[organization|Office fédéral de contrôle des subventions]] ([[organization|OFCS]]) a transmis ses observations le [[date|30 août 2023]].
 
@@ -45,7 +45,7 @@ considérant ce qui suit :
 
 (10) La [[organization|Commission]] a été représentée par Mmes [[person|Rahel Vitályos]] et [[person|Deike Bauer]] ainsi que par M. [[person|Giacomino Bernardo]], en qualité d'agents.
 
-(11) L'[[organization|Autorité européenne de sécurité des aliments]] ([[organization|EFSA]]) n'a pas été sollicitée sur ce point, la mesure ne concernant pas des produits alimentaires.
+(11) L'[[organization|Autorité européenne de sécurité des aliments]] ([[organization|EFSA]]) n'a pas été sollicitée sur cette question, la mesure ne concernant pas des produits alimentaires.
 
 4. APPRÉCIATION
 

@@ -19,7 +19,7 @@ und
 
 gegen
 
-die Tiroler Gewerbeaufsicht
+die [[organization|Tiroler Gewerbeaufsicht]]
 
 erlässt DER [[court|GERICHTSHOF]] (Vierte Kammer)
 
@@ -54,9 +54,9 @@ folgendes
 
 5. Die [[organization|Textil Vrdoljak]] mit Sitz in [[location|Rijeka]] ([[location|Kroatien]]) betreibt eine Textilreinigung mit Abholdienst. Sie erbringt ihre Leistungen seit dem Jahr 2022 regelmäßig in [[location|Tirol]].
 
-6. [[person|SL]] ist kroatischer Staatsangehöriger und in [[location|Innsbruck]] wohnhaft. Er ist alleiniger Geschäftsführer der [[organization|Textil Vrdoljak]] und wurde von der Gewerbeaufsicht mit einem Bescheid über die Untersagung der Abholtätigkeit konfrontiert.
+6. [[person|SL]] ist kroatischer Staatsangehöriger und in [[location|Innsbruck]] wohnhaft. Er ist alleiniger Geschäftsführer der [[organization|Textil Vrdoljak]] und wurde von der [[organization|Tiroler Gewerbeaufsicht]] mit einem Bescheid über die Untersagung der Abholtätigkeit konfrontiert.
 
-7. Die Tiroler Gewerbeaufsicht sah in dem Abholdienst eine Gewerbeausübung im Inland, die nicht angezeigt worden war. Sie setzte die Tätigkeit aus und verhängte eine Verwaltungsstrafe.
+7. Die [[organization|Tiroler Gewerbeaufsicht]] sah in dem Abholdienst eine Gewerbeausübung im Inland, die nicht angezeigt worden war. Sie setzte die Tätigkeit aus und verhängte eine Verwaltungsstrafe.
 
 8. Das vorlegende Gericht fragt, ob die Anzeigepflicht bei einem Dienstleister, der seine Tätigkeit nur vorübergehend in einem anderen Mitgliedstaat ausübt, mit der Dienstleistungsfreiheit vereinbar ist, wenn der Anbieter die gleichen Leistungen bereits im Herkunftsmitgliedstaat erbringt.
 
@@ -74,7 +74,7 @@ folgendes
 
 14. [[organization|Frontex]] und die [[organization|Europäische Investitionsbank]] haben keine Stellung zur Sache genommen, sondern auf die Zuständigkeit der nationalen Behörden verwiesen.
 
-15. Der Gerichtshof stellt fest, dass eine Anzeigepflicht, die ausschließlich der Kontrolle dient, keine verbotene Beschränkung darstellt, sofern sie nicht zu einer wesentlichen Verzögerung der Leistungserbringung führt.
+15. Der [[court|Gerichtshof]] stellt fest, dass eine Anzeigepflicht, die ausschließlich der Kontrolle dient, keine verbotene Beschränkung darstellt, sofern sie nicht zu einer wesentlichen Verzögerung der Leistungserbringung führt.
 
 **5. Kosten**
 
@@ -82,7 +82,7 @@ folgendes
 
 Aus diesen Gründen hat der [[court|Gerichtshof]] (Vierte Kammer) für Recht erkannt:
 
-1. Art. 56 AEUV ist dahin auszulegen, dass eine Anzeigepflicht, die ausschließlich der Kontrolle dient und die Leistungserbringung nicht wesentlich verzögert, keine verbotene Beschränkung des freien Dienstleistungsverkehrs darstellt.
+1. [[legal_norm|Art. 56 AEUV]] ist dahin auszulegen, dass eine Anzeigepflicht, die ausschließlich der Kontrolle dient und die Leistungserbringung nicht wesentlich verzögert, keine verbotene Beschränkung des freien Dienstleistungsverkehrs darstellt.
 
 2. Im Übrigen ist die Vorlage erledigt.
 

@@ -47,6 +47,6 @@ V. Vertretung
 
 10. Die [[organization|Melandri SpA]] wird durch Rechtsanwalt [[lawyer|Bewe Blumenthal]] vertreten. Die [[organization|Kommission]] hat durch die Bevollmächtigten [[person|Fayza Boum]], [[person|Ruzgar Tansel]] und [[person|Dora Beatriz Aguilar]] Erklärungen angekündigt.
 
-Das Tribunal d'arrondissement de Luxembourg hat den Vorlagebeschluss mit folgender Besetzung erlassen: Richterin [[judge|Della Mart]] (Vorsitz), Richterin [[judge|Anasztazia Falk]] und Richterin [[judge|Gilberte Bei]].
+Das [[court|Tribunal d'arrondissement de Luxembourg]] hat den Vorlagebeschluss mit folgender Besetzung erlassen: Richterin [[judge|Della Mart]] (Vorsitz), Richterin [[judge|Anasztazia Falk]] und Richterin [[judge|Gilberte Bei]].
 
 Vermerk der Kanzlei des [[court|Gerichtshofs]]: Generalanwältin [[judge|Laisa Barrientos]] ist der Rechtssache zugewiesen.

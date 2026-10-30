@@ -79,7 +79,7 @@ Mit seiner Klage nach [[legal_norm|Art. 263 AEUV]] begehrt Herr [[person|XA]] di
 
 3. Die [[organization|Bundesrepublik Deutschland]] sowie die [[organization|italienische Regierung]], die [[organization|kroatische Regierung]] und die [[organization|rumänische Regierung]] tragen ihre eigenen Kosten.
 
-Luxemburg, den [[date|8. April 2026]]
+[[location|Luxemburg]], den [[date|8. April 2026]]
 
 Der Kanzler: [[person|Pieter Anhalt]]
 

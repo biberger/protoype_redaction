@@ -17,6 +17,10 @@ gegen
 
 [[person|XH]]
 
+[[organization|IE]] wird durch die Rechtsanwältin [[lawyer|Doris Bašić]] vertreten, [[person|XH]] durch die Rechtsanwältin [[lawyer|Silke Rotunno]].
+
+Die Rechtssache wurde der Fünften Kammer zugewiesen, der die Kammerpräsidentin [[judge|Oscarina Zampieri]] sowie die Richterinnen [[judge|Annelore Voigtländer]], [[judge|Adeline Baldauff]] und [[judge|Günnur Ağar]] angehören.
+
 I. Einleitung
 
 1. Die vorliegende Vorlage betrifft die Auslegung der [[legal_norm|Verordnung (EU) 2017/1001]] über die Unionsmarke, insbesondere die Frage, ob ein Zeichen, das aus einer Gebäudeansicht besteht, als Marke eingetragen werden kann, wenn es zugleich einen Gebrauchsnamen für eine Immobilienanlage darstellt.
@@ -43,7 +47,7 @@ A. Zur Unterscheidungskraft
 
 9. Die Bezeichnung hat nach den Feststellungen des vorlegenden Gerichts eine geographische Bedeutung. Die [[organization|Stadtverwaltung]] hat sie als Name eines Platzes amtlich verwendet. Dies ist ein Umstand, den das Gericht bei der Beurteilung der Unterscheidungskraft berücksichtigen muss.
 
-10. Die [[organization|irische Regierung]], vertreten durch [[person|Rosy Tudor]] als Bevollmächtigte, hat in ihren schriftlichen Erklärungen darauf hingewiesen, dass geographische Bezeichnungen nur ausnahmsweise Unterscheidungskraft erlangen. Die [[organization|griechische Regierung]], vertreten durch [[person|Rana Eychenne]] als Bevollmächtigte, schließt sich dieser Auffassung an.
+10. Die [[organization|rumänische Regierung]], vertreten durch [[person|Leonard Ondrus]] als Bevollmächtigten, hat die Eintragung verteidigt. Die [[organization|irische Regierung]], vertreten durch [[person|Rosy Tudor]] als Bevollmächtigte, hat in ihren schriftlichen Erklärungen darauf hingewiesen, dass geographische Bezeichnungen nur ausnahmsweise Unterscheidungskraft erlangen. Die [[organization|griechische Regierung]], vertreten durch [[person|Rana Eychenne]] als Bevollmächtigte, schließt sich dieser Auffassung an.
 
 11. Die Europäische Kommission hat dagegen erklärt, dass die Benutzung im Bezirk genügen könne, wenn die Bezeichnung dort einen erheblichen Bekanntheitsgrad erreicht hat. Die Stiftung, die den Platz betreut, hat dieser Sichtweise zugestimmt.
 
@@ -55,7 +59,7 @@ B. Zur Rolle des Europäischen Parlaments und des Europäischen Datenschutzbeauf
 
 C. Zu den Anforderungen an die Benutzung
 
-14. Nach ständiger Rechtsprechung ist eine Benutzung in einem wesentlichen Teil des Gebiets erforderlich, in dem der Schutz besteht. Im Urteil vom [[date|14. März 1989]], [[organization|Eslava]], [[case_number|C-127/21]], hat der [[court|Gerichtshof]] diese Anforderung auf die Unionsmarke übertragen. Die Entscheidung erging im Jahr [[date|2021]] und bestätigt diesen Grundsatz.
+14. Nach ständiger Rechtsprechung ist eine Benutzung in einem wesentlichen Teil des Gebiets erforderlich, in dem der Schutz besteht. Im Urteil vom [[date|14. März 2023]], [[organization|Eslava]], [[case_number|C-127/21]], hat der [[court|Gerichtshof]] diese Anforderung auf die Unionsmarke übertragen und diesen Grundsatz bestätigt.
 
 15. Die Benutzung im Bezirk allein genügt daher nicht. Das vorlegende Gericht muss feststellen, ob die Bezeichnung in weiteren Teilen der Union erkannt wird.
 

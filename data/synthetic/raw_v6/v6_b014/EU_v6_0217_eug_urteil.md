@@ -41,13 +41,13 @@ Urteil
 
 Zur Vorlagefrage
 
-8. Der Gerichtshof hat im Urteil vom [[date|13. Juni 1967]], [[organization|Nyíri]], [[case_number|49/67]], entschieden, dass Herausgabepflichten im Warenverkehr nur insoweit zulässig sind, als sie zur Kontrolle der Herkunft erforderlich sind. Dieses Urteil ist auf die vorliegende Konstellation übertragbar.
+8. Der [[court|Gerichtshof]] hat im Urteil vom [[date|13. Juni 1967]], [[organization|Nyíri]], [[case_number|49/67]], entschieden, dass Herausgabepflichten im Warenverkehr nur insoweit zulässig sind, als sie zur Kontrolle der Herkunft erforderlich sind. Dieses Urteil ist auf die vorliegende Konstellation übertragbar.
 
-9. Im Urteil vom [[date|10. März 2013]], [[person|Serrat]], [[case_number|T-583/13]], hat das [[court|Gericht]] ausgeführt, dass die Verhältnismäßigkeit einer Auskunftspflicht auch den Umfang der verlangten Unterlagen berücksichtigen muss. Die Gesellschaft hat die Unterlagen nur teilweise vorgelegt.
+9. Im Urteil vom [[date|10. März 2013]], [[person|Serrat]], [[case_number|T-583/13]], hat das [[court|Gericht der Europäischen Union]] ausgeführt, dass die Verhältnismäßigkeit einer Auskunftspflicht auch den Umfang der verlangten Unterlagen berücksichtigen muss. Die Gesellschaft hat die Unterlagen nur teilweise vorgelegt.
 
 10. Die [[organization|Christophe]] bestreitet, dass die Frachtbriefe für die Herkunftsprüfung erforderlich sind. Die Gesellschaft verweist darauf, dass die [[organization|Handels Horvath]] den Großteil der Ware bereits über ein Zollverfahren abgefertigt habe.
 
-11. Der Gerichtshof hat im Urteil [[organization|Nagl]], vom [[date|21. September 1994]], [[case_number|T-726/94]], zudem festgestellt, dass eine Vorlagepflicht nicht allein deshalb entfällt, weil der Unternehmer einen anderen Nachweis vorlegen kann.
+11. Der [[court|Gerichtshof]] hat im Urteil [[organization|Nagl]], vom [[date|21. September 1994]], [[case_number|T-726/94]], zudem festgestellt, dass eine Vorlagepflicht nicht allein deshalb entfällt, weil der Unternehmer einen anderen Nachweis vorlegen kann.
 
 12. Die Gesellschaft ist nicht verpflichtet, Geschäftsgeheimnisse preiszugeben, die für die Herkunftsprüfung nicht erforderlich sind. Die [[organization|Holz Moonen]] hat ihre Bücher bereits vorgelegt, ohne dass die Einzelheiten der Preisgestaltung offengelegt wurden.
 

@@ -49,7 +49,7 @@ IV. Würdigung
 
 12. Der [[court|Gerichtshof]] hat im Urteil vom [[date|8. September 2010]], [[organization|Machado]], [[case_number|C-7/10]], entschieden, dass eine Behörde die Verarbeitung von Daten gegenüber den Betroffenen transparent machen muss. Diese Anforderung gilt auch für die Weitergabe an Dritte.
 
-13. Im Urteil [[person|Mahieu]], vom [[date|24. November 2010]], [[case_number|T-612/10]], hat das [[court|Gericht]] ausgeführt, dass eine Informationspflicht bei Datenübermittlungen zwischen Behörden nur insoweit entfällt, als sie die Ermittlungen gefährden würde. Dies ist hier nicht dargelegt worden.
+13. Im Urteil [[person|Mahieu]], vom [[date|24. November 2010]], [[case_number|T-612/10]], hat das [[court|Gericht der Europäischen Union]] ausgeführt, dass eine Informationspflicht bei Datenübermittlungen zwischen Behörden nur insoweit entfällt, als sie die Ermittlungen gefährden würde. Dies ist hier nicht dargelegt worden.
 
 14. Im Urteil [[organization|Alkateb]], vom [[date|19. Dezember 1995]], [[case_number|C-86/95]], und im Urteil [[person|Voisin]], vom [[date|2. März 1966]], [[case_number|281/66]], hat der [[court|Gerichtshof]] zudem betont, dass persönliche Angaben nur für den Zweck verwendet werden dürfen, für den sie erhoben wurden.
 
@@ -59,6 +59,6 @@ V. Ergebnis
 
 16. Ich schlage dem [[court|Gerichtshof]] vor, die Vorlagefragen wie folgt zu beantworten: Die Weitergabe von Daten durch eine Aufsichtsbehörde an eine andere Behörde zur Feststellung von Schwarzarbeit ist nur zulässig, wenn der neue Zweck mit dem ursprünglichen vereinbar ist und die Betroffenen rechtzeitig informiert werden.
 
-Die Vertretung: Die [[organization|BB]] wird durch Rechtsanwältin [[lawyer|Tina Tolja]] vertreten. Die spanische Regierung wird durch den Bevollmächtigten [[person|Rimer Guirao]] vertreten. Die [[organization|Kommission]] wird durch [[person|Armina Raich]] und [[person|Rajmund Krzywicki]] als Bevollmächtigte vertreten.
+Die Vertretung: Die [[organization|BB]] wird durch Rechtsanwältin [[lawyer|Tina Tolja]] vertreten. Die [[organization|spanische Regierung]] wird durch den Bevollmächtigten [[person|Rimer Guirao]] vertreten. Die [[organization|Kommission]] wird durch [[person|Armina Raich]] und [[person|Rajmund Krzywicki]] als Bevollmächtigte vertreten.
 
 Berichterstatter war [[judge|Aurel Zahn]]; der Kammer gehörten außerdem [[judge|Sabina Czyż]], [[judge|Artur Čech]] und [[judge|Selahattin Duval]] an.

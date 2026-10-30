@@ -8,7 +8,7 @@ ARRÊT DE LA [[court|COUR]] (huitième chambre)
 [[location|Luxembourg]], le [[date|12 mars
 2026]]
 
-« Renvoi préjudiciel – Marque de l'Union européenne – Motifs absolus de refus – Signe descriptif – Caractère distinctif – Article 7 du règlement (UE) 2017/1001 »
+« Renvoi préjudiciel – Marque de l'Union européenne – Motifs absolus de refus – Signe descriptif – Caractère distinctif – [[legal_norm|Article 7 du règlement (UE) 2017/1001]] »
 
 Dans l'affaire C-801/26,
 
@@ -55,7 +55,7 @@ II. Le litige au principal et les questions préjudicielles
 
 3. [[person|HC]] a demandé l'enregistrement, en tant que marque de l'Union, du signe verbal « PLANTA ALTA » pour des produits de construction. L'[[organization|EUIPO]] a rejeté la demande au motif que le signe était descriptif.
 
-4. Le recours formé contre cette décision a été rejeté par la chambre de recours. Le [[court|Supremo Tribunal Administrativo]] a sursis à statuer et posé à la Cour les questions suivantes :
+4. Le recours formé contre cette décision a été rejeté par la chambre de recours. Le [[court|Supremo Tribunal Administrativo]] a sursis à statuer et posé à la [[court|Cour]] les questions suivantes :
 
 a) L'[[legal_norm|article 7, paragraphe 1, sous c), du règlement (UE) 2017/1001]] doit-il être interprété en ce sens qu'un signe peut être dépourvu de caractère distinctif lorsqu'il ne décrit qu'une partie des produits concernés ?
 
@@ -69,17 +69,17 @@ III. Les observations des parties
 
 7. Le [[organization|Conseil]] n'a pas pris position sur le fond. Il a rappelé que les règles de procédure devant l'[[organization|EUIPO]] relèvent de la compétence de l'Union.
 
-IV. Appréciation de la Cour
+IV. Appréciation de la [[court|Cour]]
 
-8. Par sa première question, la juridiction de renvoi demande en substance si un signe peut être refusé lorsqu'il est descriptif de certains des produits. La Cour rappelle que le refus doit être examiné pour chacun des produits et services revendiqués.
+8. Par sa première question, la juridiction de renvoi demande en substance si un signe peut être refusé lorsqu'il est descriptif de certains des produits. La [[court|Cour]] rappelle que le refus doit être examiné pour chacun des produits et services revendiqués.
 
-9. Dans son arrêt du [[date|14 novembre 1976]], [[organization|Demianenko]], [[case_number|45/76]], la Cour a jugé que la qualification d'un signe doit être appréciée au regard de la perception du consommateur moyen. La [[organization|Demianenko]] a été, dans cette affaire, une partie dont la marque avait été contestée.
+9. Dans son arrêt du [[date|14 novembre 1976]], [[organization|Demianenko]], [[case_number|45/76]], la [[court|Cour]] a jugé que la qualification d'un signe doit être appréciée au regard de la perception du consommateur moyen. La [[organization|Demianenko]] a été, dans cette affaire, une partie dont la marque avait été contestée.
 
 10. Une marque ne peut donc être refusée qu'à la condition que la partie du signe qui est descriptive soit prédominante. La juridiction de renvoi doit vérifier si tel est le cas pour l'ensemble des produits visés par la demande.
 
-11. S'agissant de la seconde question, la Cour relève que la preuve de l'usage antérieur peut être produite pour la première fois devant la juridiction de recours, dans la mesure où elle n'a pas pour effet de modifier l'objet du litige. Le [[organization|Conseil]] a également souligné que la Cour n'a pas à se prononcer sur l'application du droit portugais.
+11. S'agissant de la seconde question, la [[court|Cour]] relève que la preuve de l'usage antérieur peut être produite pour la première fois devant la juridiction de recours, dans la mesure où elle n'a pas pour effet de modifier l'objet du litige. Le [[organization|Conseil]] a également souligné que la [[court|Cour]] n'a pas à se prononcer sur l'application du droit portugais.
 
-12. La [[organization|Demianenko]] a fait valoir, dans des observations écrites, que sa position sur l'usage du signe était inchangée depuis le [[date|1er juin 1976]]. La Cour ne se prononce pas sur cette affirmation, qui relève de l'appréciation des faits par la juridiction de renvoi.
+12. La [[organization|Demianenko]] a fait valoir, dans des observations écrites, que sa position sur l'usage du signe était inchangée depuis le [[date|1er juin 1976]]. La [[court|Cour]] ne se prononce pas sur cette affirmation, qui relève de l'appréciation des faits par la juridiction de renvoi.
 
 13. Il convient par conséquent de répondre aux questions posées que l'article 7, paragraphe 1, sous b) et c), du règlement 2017/1001 doit être interprété en ce sens que le refus d'enregistrement d'un signe pour l'ensemble des produits ne peut être fondé que sur une appréciation distincte pour chaque produit.
 
@@ -87,9 +87,9 @@ V. Dépens
 
 14. La procédure revêt, à l'égard des parties au principal, le caractère d'un incident soulevé devant la juridiction de renvoi ; il appartient donc à celle-ci de statuer sur les dépens.
 
-Par ces motifs, la Cour (huitième chambre) dit pour droit :
+Par ces motifs, la [[court|Cour]] (huitième chambre) dit pour droit :
 
-1. L'article 7, paragraphe 1, sous b) et c), du règlement (UE) 2017/1001 doit être interprété en ce sens que le refus d'enregistrement d'une marque pour l'ensemble des produits revendiqués suppose une appréciation distincte pour chacun d'eux.
+1. L'article 7, paragraphe 1, sous b) et c), du [[legal_norm|règlement (UE) 2017/1001]] doit être interprété en ce sens que le refus d'enregistrement d'une marque pour l'ensemble des produits revendiqués suppose une appréciation distincte pour chacun d'eux.
 
 2. La preuve de l'usage antérieur peut être prise en considération lorsqu'elle est produite dans le cadre du recours, dans les limites fixées par le droit de l'Union.
 

@@ -9,7 +9,7 @@ Numéro du rôle : [[case_number|46512C]]
 
 Audience publique du [[date|29 mai 2025]]
 
-Demande de décision préjudicielle adressée à la Cour de justice de l'Union européenne au titre de l'[[legal_norm|article 267 TFUE]]
+Demande de décision préjudicielle adressée à la [[court|Cour de justice de l'Union européenne]] au titre de l'[[legal_norm|article 267 TFUE]]
 
 Entre
 

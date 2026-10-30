@@ -40,19 +40,19 @@ folgendes
 
 1. Nach [[legal_norm|Art. 127 Abs. 1 AEUV]] ist das vorrangige Ziel des Europäischen Systems der Zentralbanken die Gewährleistung der Preisstabilität. Die [[organization|EZB]] ist für die Überwachung der Kreditinstitute im Euro-Währungsgebiet zuständig.
 
-2. Nach [[legal_norm|Art. 6 Abs. 2 der Verordnung (EU) Nr. 1024/2013]] übertragt die [[organization|EZB]] die Aufsicht über bedeutende Kreditinstitute. Die nationalen Aufsichtsbehörden bleiben für die übrigen Institute zuständig.
+2. Nach [[legal_norm|Art. 6 Abs. 2 der Verordnung (EU) Nr. 1024/2013]] übertragt die [[organization|EZB]] die Aufsicht über bedeutende Kreditinstitute. Die Anforderungen an die Zuverlässigkeit von Organmitgliedern ergeben sich aus der [[legal_norm|Richtlinie 2013/36/EU]], die der [[organization|Rat]] erlassen hat. Die nationalen Aufsichtsbehörden bleiben für die übrigen Institute zuständig.
 
 3. Nach [[legal_norm|Art. 47 der Charta]] hat jede Person ein Recht auf einen wirksamen Rechtsbehelf. Dieses Recht gilt auch für Entscheidungen, die im Rahmen der Aufsicht über Kreditinstitute getroffen werden.
 
 **2. Nationaler Rahmen**
 
-4. Nach dem slowakischen Recht kann die Slowakische Nationalbank eine Lizenz entziehen, wenn der Inhaber die Anforderungen an die Zuverlässigkeit nicht mehr erfüllt. Die Entscheidung ist durch die Gerichte überprüfbar.
+4. Nach dem slowakischen Recht kann die [[organization|Slowakische Nationalbank]] eine Lizenz entziehen, wenn der Inhaber die Anforderungen an die Zuverlässigkeit nicht mehr erfüllt. Die Entscheidung ist durch die Gerichte überprüfbar.
 
 **3. Ausgangsverfahren und Vorlagefragen**
 
 5. [[person|Benildo Marcon]] war bis zum [[date|30. September 2023]] Vorstandsmitglied der [[organization|Stiftung Ardea]], die Mikrokredite an kleine Betriebe in [[location|Košice]] vergab. Die Stiftung wurde im Jahr 2018 gegründet.
 
-6. Die Stiftung geriet im Jahr 2023 in finanzielle Schwierigkeiten. Die Nationalbank forderte die Stiftung auf, die Einhaltung der Liquiditätsregeln nachzuweisen. Die Stiftung legte die Unterlagen nicht fristgerecht vor.
+6. Die Stiftung geriet im Jahr 2023 in finanzielle Schwierigkeiten. Die [[organization|Nationalbank]] forderte die Stiftung auf, die Einhaltung der Liquiditätsregeln nachzuweisen. Die Stiftung legte die Unterlagen nicht fristgerecht vor.
 
 7. Die [[organization|Slowakische Nationalbank]] entzog daraufhin der Stiftung die Erlaubnis, Kredite zu vergeben, und machte [[person|Benildo Marcon]] persönlich für die Verluste verantwortlich. Die Entscheidung stützte sich auf die Ansicht, dass er als Vorstandsmitglied die Aufsicht der Stiftung verletzt habe.
 
@@ -68,7 +68,7 @@ folgendes
 
 **4. Zu den Vorlagefragen**
 
-13. Mit seinen Fragen möchte das vorlegende Gericht wissen, ob Art. 47 der Charta dahin auszulegen ist, dass er einer nationalen Regelung entgegensteht, nach der ein Vorstandsmitglied ohne individuelle Prüfung seines Verhaltens haftet.
+13. Mit seinen Fragen möchte das vorlegende Gericht wissen, ob [[legal_norm|Art. 47 der Charta]] dahin auszulegen ist, dass er einer nationalen Regelung entgegensteht, nach der ein Vorstandsmitglied ohne individuelle Prüfung seines Verhaltens haftet.
 
 14. Die [[organization|slowakische Regierung]] hält die Regelung für mit dem Unionsrecht vereinbar, da sie einen Ausgleich zwischen dem Schutz der Einleger und der Haftung der Verantwortlichen herstellt.
 
@@ -80,13 +80,15 @@ folgendes
 
 18. Die [[organization|EZB]] hat in ihrer Stellungnahme vom [[date|3. April 2025]] darauf hingewiesen, dass die Aufsichtsbehörden die Verantwortlichkeit von Organmitgliedern nach den nationalen Regeln beurteilen dürfen, sofern die Grundsätze der Verhältnismäßigkeit gewahrt bleiben.
 
+Vor dem [[court|Gerichtshof]] haben Rechtsanwältin [[lawyer|Miranda Meštrović]] und Rechtsanwalt [[lawyer|Emídio Salema]] die Interessen von [[person|Benildo Marcon]] vertreten.
+
 **5. Kosten**
 
 19. Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit vor dem vorlegenden Gericht; über die Kosten hat dieses zu entscheiden.
 
 Aus diesen Gründen hat der [[court|Gerichtshof]] (Zweite Kammer) für Recht erkannt:
 
-1. Art. 47 der [[legal_norm|Charta]] ist dahin auszulegen, dass er einer nationalen Regelung entgegensteht, die die persönliche Haftung eines Vorstandsmitglieds ohne individuelle Prüfung seines Verhaltens vorsieht.
+1. [[legal_norm|Art. 47 der Charta]] ist dahin auszulegen, dass er einer nationalen Regelung entgegensteht, die die persönliche Haftung eines Vorstandsmitglieds ohne individuelle Prüfung seines Verhaltens vorsieht.
 
 2. Im Übrigen ist die Vorlage erledigt.
 

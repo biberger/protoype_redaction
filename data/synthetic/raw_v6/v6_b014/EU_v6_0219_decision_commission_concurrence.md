@@ -15,11 +15,11 @@ Affaire [[case_number|AT.41287]] – Accords de répartition des marchés dans l
 
 LA [[organization|COMMISSION EUROPÉENNE]],
 
-vu le traité sur le fonctionnement de l'Union européenne,
+vu le [[legal_norm|traité sur le fonctionnement de l'Union européenne]],
 
-vu l'accord sur l'Espace économique européen,
+vu l'[[legal_norm|accord sur l'Espace économique européen]],
 
-vu le règlement (CE) n° 1/2003 du Conseil, du 16 décembre 2002, relatif à la mise en œuvre des règles de concurrence prévues aux articles 81 et 82 du traité,
+vu le [[legal_norm|règlement (CE) n° 1/2003]] du [[organization|Conseil]], du [[date|16 décembre 2002]], relatif à la mise en œuvre des règles de concurrence prévues aux [[legal_norm|articles 81 et 82 du traité]],
 
 après avoir donné aux entreprises concernées la possibilité de faire connaître leur point de vue,
 
@@ -37,7 +37,7 @@ considérant ce qui suit :
 
 4. Le dossier a été ouvert à la suite d'une plainte déposée auprès de l'[[organization|Office slovaque de surveillance de la concurrence agricole]] ([[organization|OSCA]]). Cette autorité a transmis le dossier à la [[organization|Commission]] le [[date|8 mars 2023]].
 
-5. Le [[organization|Commission]] a procédé à des vérifications dans les locaux de [[organization|Nicaise-Moerenhout]] le [[date|21 juin 2023]]. Les documents saisis ont été analysés au cours de l'année 2024.
+5. La [[organization|Commission]] a procédé à des vérifications dans les locaux de [[organization|Nicaise-Moerenhout]] le [[date|21 juin 2023]]. Les documents saisis ont été analysés au cours de l'année 2024.
 
 6. Le [[organization|gouvernement belge]], le [[organization|gouvernement français]] et le [[organization|gouvernement slovaque]] ont présenté des observations écrites. Le [[organization|gouvernement slovaque]] est représenté par M. [[person|Edmund Hupka]] et Mme [[person|Ata Jonáš]], en qualité d'agents.
 
@@ -47,13 +47,13 @@ considérant ce qui suit :
 
 3. DESCRIPTION DES FAITS
 
-9. Entre [[date|1er mars 2018]] et [[date|30 septembre 2022]], [[organization|Nicaise-Moerenhout]] a conclu avec plusieurs distributeurs de semences des accords qui réservaient à chacun d'eux un territoire exclusif en [[location|Slovaquie]] et en [[location|Hongrie]].
+9. Entre le [[date|1er mars 2018]] et le [[date|30 septembre 2022]], [[organization|Nicaise-Moerenhout]] a conclu avec plusieurs distributeurs de semences des accords qui réservaient à chacun d'eux un territoire exclusif en [[location|Slovaquie]] et en [[location|Hongrie]].
 
 10. Ces accords prévoyaient que les distributeurs s'abstiennent de vendre des semences aux clients situés sur le territoire attribué à un autre distributeur. Mme [[person|Nada Krasnohorský]] a validé les principes de ces accords lors d'une réunion à [[location|Bruxelles]] le [[date|12 avril 2019]].
 
 11. Mme [[person|RU]] a supervisé la mise en œuvre de ces accords sur le marché slovaque. Elle a adressé aux distributeurs des instructions écrites, dont plusieurs ont été saisies lors des vérifications.
 
-12. Le [[organization|Commission]] constate que les accords ont pour objet de restreindre la concurrence par la répartition des marchés. Ils ne bénéficient d'aucune exemption au titre de l'[[legal_norm|article 101, paragraphe 3, du traité]].
+12. La [[organization|Commission]] constate que les accords ont pour objet de restreindre la concurrence par la répartition des marchés. Ils ne bénéficient d'aucune exemption au titre de l'[[legal_norm|article 101, paragraphe 3, du traité]].
 
 4. APPRÉCIATION JURIDIQUE
 
@@ -65,13 +65,13 @@ considérant ce qui suit :
 
 15. Les accords en cause ont été appliqués de façon répétée pendant plus de quatre ans. Ils affectaient les échanges entre États membres, puisque les semences distribuées en [[location|Slovaquie]] provenaient en partie de [[location|Hongrie]].
 
-4.2. Responsabilité de Nicaise-Moerenhout
+4.2. Responsabilité de [[organization|Nicaise-Moerenhout]]
 
-16. [[organization|Nicaise-Moerenhout]] soutient que les accords n'ont pas été appliqués. Le [[organization|Commission]] rejette cet argument : les instructions écrites démontrent que la société a organisé la répartition des marchés.
+16. [[organization|Nicaise-Moerenhout]] soutient que les accords n'ont pas été appliqués. La [[organization|Commission]] rejette cet argument : les instructions écrites démontrent que la société a organisé la répartition des marchés.
 
 17. [[organization|Nicaise-Moerenhout]] fait valoir que les distributeurs avaient pris l'initiative des accords. La [[organization|Commission]] relève que la société a validé les principes des accords, a désigné les personnes chargées de leur suivi et a tiré profit de la répartition. Cette argumentation est donc rejetée.
 
-18. Le [[court|Krajský súd v Bratislave]] a examiné en [[date|mars 2024]] un recours introduit contre une mesure préparatoire de l'[[organization|OSCA]]. Ce recours a été rejeté. La décision de cette juridiction ne lie pas la [[organization|Commission]].
+18. Le [[court|Krajský súd v Bratislave]] a examiné en mars 2024 un recours introduit contre une mesure préparatoire de l'[[organization|OSCA]]. Ce recours a été rejeté. La décision de cette juridiction ne lie pas la [[organization|Commission]].
 
 4.3. Rôle de l'[[organization|EUIPO]]
 
@@ -83,7 +83,7 @@ considérant ce qui suit :
 
 21. Le [[organization|gouvernement français]] a indiqué que les accords étaient sans effet sur le marché français. La [[organization|Commission]] rappelle que l'infraction porte sur les marchés slovaque et hongrois.
 
-22. Le [[organization|Parlement européen]] n'a pas été consulté sur la présente décision. Ses observations relatives au règlement (CE) n° 1/2003 ne concernent pas le fond.
+22. Le [[organization|Parlement européen]] n'a pas été consulté sur la présente décision. Ses observations relatives au [[legal_norm|règlement (CE) n° 1/2003]] ne concernent pas le fond.
 
 5. SANCTIONS
 
@@ -105,6 +105,6 @@ Article 3
 
 La présente décision est adressée à [[organization|Nicaise-Moerenhout]].
 
-Fait à Bruxelles, le [[date|18 novembre 2025]].
+Fait à [[location|Bruxelles]], le [[date|18 novembre 2025]].
 
 Pour la [[organization|Commission]]

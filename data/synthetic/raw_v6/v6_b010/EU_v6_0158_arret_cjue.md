@@ -7,7 +7,7 @@ ARRÊT DE LA [[court|COUR]] (cinquième chambre)
 
 du [[date|25 juin 2026]]
 
-« Renvoi préjudiciel – Déchets – Transfert transfrontière – Responsabilité du détenteur – Directive 2008/98/CE »
+« Renvoi préjudiciel – Déchets – Transfert transfrontière – Responsabilité du détenteur »
 
 Dans l'affaire [[case_number|C-496/25]],
 
@@ -37,6 +37,8 @@ rend le présent
 
 2. [[person|EB]] est un ressortissant de [[location|Slovaquie]] qui a conduit un camion de transport pour le compte de [[organization|Pietrucha-Mrđa]]. Il a été désigné dans le procès-verbal comme détenteur des déchets au moment du chargement.
 
+Les observations écrites ont été présentées par Me [[lawyer|Dalibor Erdélyi]] pour [[organization|Pietrucha-Mrđa]], par Me [[lawyer|Dina Mikuličić]] et Me [[lawyer|Kamel Shah]] pour [[person|EB]], ainsi que par la [[organization|Commission]], représentée par M. [[person|Dyson Kerkez]], agent.
+
 **2. Le cadre juridique**
 
 3. Aux termes de l'[[legal_norm|article 3, point 8, de la directive 2008/98/CE]], le détenteur est la personne physique ou morale qui a en sa possession les déchets. La notion de détenteur doit être comprise de manière large.
@@ -49,7 +51,7 @@ rend le présent
 
 6. Le [[date|12 novembre 2024]], l'[[organization|ONCD]] a constaté, lors d'un contrôle à la frontière, que le chargement de [[organization|Pietrucha-Mrđa]] contenait des déchets d'amiante non déclarés. L'[[organization|ONCD]] a ordonné la réexpédition du chargement vers son lieu d'origine.
 
-7. La [[organization|République slovaque]], partie défenderesse dans le litige principal, soutient que le détenteur est la société qui a donné l'ordre de transport. [[organization|Pietrucha-Mrđa]] fait valoir qu'elle n'avait ni la possession matérielle ni la maîtrise du chargement au moment du contrôle.
+7. La [[organization|République slovaque]], intervenante au litige principal, soutient que le détenteur est la société qui a donné l'ordre de transport. [[organization|Pietrucha-Mrđa]] fait valoir qu'elle n'avait ni la possession matérielle ni la maîtrise du chargement au moment du contrôle.
 
 8. Dans l'arrêt du [[date|12 mai 1994]], [[organization|Pratas]], [[case_number|C-358/94]], la [[court|Cour]] a jugé que la notion de déchet doit être interprétée de manière à assurer un niveau élevé de protection de l'environnement.
 
@@ -73,13 +75,13 @@ rend le présent
 
 16. La procédure revêt, à l'égard des parties au principal, le caractère d'un incident soulevé devant la juridiction de renvoi ; il appartient donc à celle-ci de statuer sur les dépens.
 
-**Par ces motifs, la Cour (cinquième chambre) dit pour droit :**
+**Par ces motifs, la [[court|Cour]] (cinquième chambre) dit pour droit :**
 
 1. L'[[legal_norm|article 3, point 8, de la directive 2008/98/CE]] doit être interprété en ce sens que la qualité de détenteur ne peut être reconnue à une personne qui conduit un véhicule transportant des déchets que si elle exerce effectivement un pouvoir de décision sur leur sort.
 
 2. L'[[legal_norm|article 25 de la directive 2008/98/CE]] ne s'oppose pas à une décision de réexpédition, à condition qu'elle soit motivée au regard du détenteur effectivement identifié.
 
-Signé à Luxembourg.
+Signé à [[location|Luxembourg]].
 
 Le greffier : [[person|Hana Vetrovcová]]
 

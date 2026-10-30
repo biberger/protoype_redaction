@@ -7,7 +7,7 @@ DÉCISION DE LA [[organization|COMMISSION EUROPÉENNE]]
 
 du [[date|11 septembre 2025]]
 
-relative à l'aide d'État [[case_number|SA.58124]] mise à exécution par la [[location|Belgique]] en faveur de la société [[organization|Kleine UG (haftungsbeschränkt)]]
+relative à l'aide d'État [[case_number|SA.58124]] mise à exécution par l'[[organization|État belge]] en faveur de la société [[organization|Kleine UG (haftungsbeschränkt)]]
 
 (Texte présentant de l'intérêt pour l'EEE)
 
@@ -15,7 +15,7 @@ LA [[organization|COMMISSION EUROPÉENNE]],
 
 vu le [[legal_norm|traité sur le fonctionnement de l'Union européenne]], et notamment son [[legal_norm|article 108, paragraphe 2]],
 
-vu l'accord sur l'Espace économique européen, et notamment son article 62, paragraphe 1, point a),
+vu l'[[legal_norm|accord sur l'Espace économique européen]], et notamment son [[legal_norm|article 62, paragraphe 1, point a)]],
 
 après avoir invité les parties intéressées à présenter leurs observations conformément aux dispositions précitées,
 
@@ -25,7 +25,7 @@ considérant ce qui suit :
 
 1. Par lettre du [[date|14 juin 2023]], l'[[organization|État belge]] a notifié à la [[organization|Commission]] une mesure d'aide en faveur de la société [[organization|Kleine UG (haftungsbeschränkt)]], ci-après « [[organization|Kleine]] ».
 
-2. Le [[organization|Commission]] a demandé des informations complémentaires par lettre du [[date|2 février 2024]]. Les autorités belges ont répondu le [[date|18 avril 2024]].
+2. La [[organization|Commission]] a demandé des informations complémentaires par lettre du [[date|2 février 2024]]. Les autorités belges ont répondu le [[date|18 avril 2024]].
 
 3. Le [[organization|gouvernement autrichien]] et le [[organization|gouvernement néerlandais]] ont transmis des observations à la [[organization|Commission]] dans le délai imparti. Ces observations ont été communiquées à l'[[organization|État belge]], qui n'a pas formulé d'objection.
 
@@ -33,9 +33,9 @@ considérant ce qui suit :
 
 4. La mesure consiste en une subvention directe d'un montant de 1 840 000 euros, accordée par l'[[organization|Office régional d'aide à l'innovation]] ([[organization|ORAI]]), organisme public de la [[location|Région wallonne]], le [[date|3 mars 2022]].
 
-5. La subvention vise à financer le développement d'un capteur destiné à détecter des contaminants dans les denrées alimentaires. Les résultats du projet doivent être mis à disposition de la [[organization|Autorité européenne de sécurité des aliments]] ([[organization|EFSA]]) pour l'évaluation de la méthode.
+5. La subvention vise à financer le développement d'un capteur destiné à détecter des contaminants dans les denrées alimentaires. Les résultats du projet doivent être mis à disposition de l'[[organization|Autorité européenne de sécurité des aliments]] ([[organization|EFSA]]) pour l'évaluation de la méthode.
 
-6. [[organization|Kleine]] est une société de droit allemand dont le siège est à Aix-la-Chapelle. Elle emploie quatorze personnes et exerce son activité dans le domaine des technologies agroalimentaires. Son capital est détenu à 100 % par deux fondateurs.
+6. [[organization|Kleine]] est une société de droit allemand dont le siège est à [[location|Aix-la-Chapelle]]. Elle emploie quatorze personnes et exerce son activité dans le domaine des technologies agroalimentaires. Son capital est détenu à 100 % par deux fondateurs.
 
 7. Selon l'[[organization|ORAI]], la subvention couvre 45 % des coûts éligibles du projet, qui ont été estimés à 4 090 000 euros. Le solde est financé par les fonds propres de [[organization|Kleine]] et par un prêt bancaire.
 
@@ -55,15 +55,15 @@ considérant ce qui suit :
 
 12. La mesure relève du régime d'aide à la recherche et au développement. Elle est compatible avec le marché intérieur, à condition que l'intensité d'aide n'excède pas le plafond fixé pour les petites entreprises.
 
-13. La [[organization|Commission]] relève que [[organization|Kleine]] a été constituée en [[date|2019]] et qu'elle remplit donc les critères d'une petite entreprise. Le plafond n'est pas dépassé.
+13. La [[organization|Commission]] relève que [[organization|Kleine]] a été constituée en 2019 et qu'elle remplit donc les critères d'une petite entreprise. Le plafond n'est pas dépassé.
 
-14. Le [[court|Tribunal de l'entreprise de Liège]] a été saisi en [[date|décembre 2024]] d'un recours d'un concurrent contre le versement de la subvention. Ce recours n'a pas d'incidence sur la présente appréciation, qui porte sur la conformité de la mesure au droit de l'Union.
+14. Le [[court|Tribunal de l'entreprise de Liège]] a été saisi en décembre 2024 d'un recours d'un concurrent contre le versement de la subvention. Ce recours n'a pas d'incidence sur la présente appréciation, qui porte sur la conformité de la mesure au droit de l'Union.
 
 15. Les autorités belges ont précisé que la subvention ne couvre que les coûts de développement et non les coûts de production. La [[organization|Commission]] en prend acte.
 
 4. CONCLUSION
 
-16. La [[organization|Commission]] conclut que la mesure constitue une aide d'État compatible avec le marché intérieur, au sens de l'article 107, paragraphe 3, point c), du traité.
+16. La [[organization|Commission]] conclut que la mesure constitue une aide d'État compatible avec le marché intérieur, au sens de l'[[legal_norm|article 107, paragraphe 3, point c), du traité]].
 
 17. L'[[organization|État belge]] est destinataire de la présente décision.
 
@@ -71,13 +71,13 @@ A ADOPTÉ LA PRÉSENTE DÉCISION :
 
 Article premier
 
-La mesure d'aide SA.58124 mise à exécution par l'[[organization|État belge]] en faveur de [[organization|Kleine]] est compatible avec le marché intérieur.
+La mesure d'aide [[case_number|SA.58124]] mise à exécution par l'[[organization|État belge]] en faveur de [[organization|Kleine]] est compatible avec le marché intérieur.
 
 Article 2
 
 L'[[organization|État belge]] est destinataire de la présente décision.
 
-Fait à Bruxelles, le [[date|11 septembre 2025]].
+Fait à [[location|Bruxelles]], le [[date|11 septembre 2025]].
 
 Pour la [[organization|Commission]]
 
