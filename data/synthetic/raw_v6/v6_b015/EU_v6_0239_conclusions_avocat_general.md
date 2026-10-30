@@ -27,7 +27,7 @@ II. Les faits et la procédure
 
 6. [[person|Nikodemus Gabryś]] est intervenu à la procédure en qualité de cessionnaire de la créance. Il a produit un relevé de paiements daté du [[date|30 avril 2025]].
 
-7. La [[court|Naczelny Sąd Administracyjny]] a sursis à statuer et a interrogé la Cour sur la portée de l'obligation d'information.
+7. La [[court|Naczelny Sąd Administracyjny]] a sursis à statuer et a interrogé la Cour sur la portée de l'obligation d'information. La Cour, composée de M. [[judge|Crispinus Fraysse]], président, de Mmes [[judge|Lea Bevilacqua]] et [[judge|Ella Reisz]], et de MM. [[judge|Fernão Paula]] et [[judge|Stefanut Dobrescu]], juges, a été saisie de l'affaire.
 
 III. Les observations
 
@@ -39,7 +39,7 @@ III. Les observations
 
 IV. Analyse
 
-11. L'obligation d'information précontractuelle exige que le consommateur dispose du coût total du crédit avant la conclusion du contrat. La Cour a déjà jugé en ce sens dans l'arrêt du [[date|8 juillet 2016]], [[person|Vulin]], [[case_number|C-817/22]], lequel portait sur un crédit conclu en ligne.
+11. L'obligation d'information précontractuelle exige que le consommateur dispose du coût total du crédit avant la conclusion du contrat. La Cour a déjà jugé en ce sens dans l'arrêt du [[date|8 juillet 2024]], [[person|Vulin]], [[case_number|C-817/22]], lequel portait sur un crédit conclu en ligne.
 
 12. Dans l'arrêt du [[date|14 juin 1995]], [[organization|Hering]], [[case_number|T-654/95]], le [[court|Tribunal]] a rappelé que la transparence s'apprécie du point de vue du consommateur moyen, normalement informé et raisonnablement attentif.
 

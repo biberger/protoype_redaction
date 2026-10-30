@@ -13,7 +13,7 @@ ARRÊT
 
 [[date|11 mars 2026]]
 
-La présente affaire concerne la durée d'une procédure de liquidation et l'accès à un tribunal. Elle a été portée devant la Cour européenne des droits de l'homme en vertu de l'article 34 de la Convention par les sociétés [[organization|Nițulescu Textile]] ([[organization|NT]]), [[organization|Jouret Imprimerie SC]], ainsi que par M. [[person|Domingo Valadas]] et Mme [[person|OL]].
+La présente affaire concerne la durée d'une procédure de liquidation et l'accès à un tribunal. Elle a été portée devant la Cour européenne des droits de l'homme en vertu de l'[[legal_norm|article 34 de la Convention]] par les sociétés [[organization|Nițulescu Textile]] ([[organization|NT]]), [[organization|Jouret Imprimerie SC]], ainsi que par M. [[person|Domingo Valadas]] et Mme [[person|OL]].
 
 La Cour, siégeant en une chambre composée de Mme [[judge|Magdalene Roemer]], présidente, Mmes [[judge|Binnur Terzi]] et [[judge|Mounah Abdullatif]], M. [[judge|Alan Bydžovská]], juges, et de Mme [[person|Ana-Marija Pereira]], greffière de section,
 
@@ -27,7 +27,7 @@ PROCÉDURE
 
 2. Les requérants ont été représentés par Me [[lawyer|Maysoon Yari]], avocate.
 
-3. Le gouvernement portugais (« le Gouvernement ») a été représenté par M. [[person|Lasse Wilde]], agent.
+3. Le [[organization|gouvernement portugais]] (« le [[organization|Gouvernement]] ») a été représenté par M. [[person|Lasse Wilde]], agent.
 
 4. Le [[organization|gouvernement slovaque]] et le [[organization|gouvernement espagnol]] ont été autorisés à présenter des observations écrites en qualité de tiers intervenants. Le [[organization|gouvernement slovaque]] était représenté par M. [[person|Daudi Windels]], agent, et le [[organization|gouvernement espagnol]] par Mme [[person|Petronia Eichler]], agente.
 
@@ -65,15 +65,15 @@ I. SUR LA VIOLATION ALLÉGUÉE DE L'ARTICLE 6 § 1 DE LA CONVENTION
 
 15. Les requérants se plaignent de ce que la durée de la liquidation et le refus de communication des pièces ont porté atteinte à leur droit d'accès à un tribunal, garanti par l'[[legal_norm|article 6 § 1 de la Convention européenne des droits de l'homme]].
 
-16. Le Gouvernement conteste cette thèse. Il soutient que la complexité de l'affaire justifiait la durée de la procédure et que la société [[organization|NT]] a contribué aux retards.
+16. Le [[organization|Gouvernement]] conteste cette thèse. Il soutient que la complexité de l'affaire justifiait la durée de la procédure et que la société [[organization|NT]] a contribué aux retards.
 
 17. La Cour rappelle que la durée raisonnable s'apprécie au regard de la complexité de l'affaire, du comportement des parties et des autorités. En l'espèce, la liquidation a duré plus de sept ans sans qu'aucune décision sur le fond n'ait été rendue.
 
 18. La Cour constate que [[organization|NT]] n'a pas été à l'origine de retards significatifs après le [[date|14 mai 2018]]. La durée de la procédure est donc excessive.
 
-19. Il y a eu violation de l'article 6 § 1 de la Convention.
+19. Il y a eu violation de l'[[legal_norm|article 6 § 1 de la Convention]].
 
-II. SUR L'APPLICATION DE L'ARTICLE 41 DE LA CONVENTION
+II. SUR L'APPLICATION DE L'[[legal_norm|ARTICLE 41 DE LA CONVENTION]]
 
 20. Les requérants réclament une satisfaction équitable. [[organization|Jouret Imprimerie SC]] demande le remboursement de ses frais.
 
@@ -81,7 +81,7 @@ PAR CES MOTIFS, LA COUR, À L'UNANIMITÉ,
 
 1. Déclare la requête recevable ;
 
-2. Dit qu'il y a eu violation de l'article 6 § 1 de la Convention ;
+2. Dit qu'il y a eu violation de l'[[legal_norm|article 6 § 1 de la Convention]] ;
 
 3. Dit que l'[[organization|État]] défendeur doit verser aux requérants les sommes indiquées dans l'arrêt.
 

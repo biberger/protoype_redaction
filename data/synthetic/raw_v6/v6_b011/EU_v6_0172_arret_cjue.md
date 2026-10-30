@@ -38,7 +38,7 @@ considérant les observations présentées :
 
 – pour [[organization|Kosová]], Mes [[lawyer|Aemilius Doucouré]], [[lawyer|Gotschi Flatz]] et [[lawyer|Grigorie Brăescu]], avocats ;
 
-– pour le [[organization|gouvernement allemand]], par [[person|Venero Conte]], en qualité d'agent ;
+– pour le [[organization|gouvernement allemand]], par son agent ;
 
 – pour la [[organization|Commission]], par [[person|Venero Conte]], en qualité d'agent ;
 

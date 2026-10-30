@@ -64,11 +64,11 @@ le [[organization|Service national de l'inspection des produits]] ([[organizatio
 
 16. Il appartient à la juridiction de renvoi de vérifier si l'étiquetage d'origine apporte une information réellement utile au consommateur, compte tenu du fait que la mention figure déjà sur l'emballage.
 
-17. Dans ces conditions, je propose à la Cour de dire que l'article 26 du règlement (UE) n° 1169/2011 s'oppose à une obligation nationale d'étiquetage d'origine lorsque l'information est déjà fournie de manière équivalente sur l'emballage.
+17. Dans ces conditions, je propose à la [[court|Cour]] de dire que l'[[legal_norm|article 26 du règlement (UE) n° 1169/2011]] s'oppose à une obligation nationale d'étiquetage d'origine lorsque l'information est déjà fournie de manière équivalente sur l'emballage.
 
 **VI. Conclusion**
 
-18. Eu égard à l'ensemble de ces considérations, je propose à la Cour de répondre à la juridiction de renvoi dans le sens indiqué au point 17 des présentes conclusions.
+18. Eu égard à l'ensemble de ces considérations, je propose à la [[court|Cour]] de répondre à la juridiction de renvoi dans le sens indiqué au point 17 des présentes conclusions.
 
 Fait à [[location|Luxembourg]], le [[date|3 juillet 2026]].
 

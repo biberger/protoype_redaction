@@ -23,7 +23,7 @@ erlässt folgendes Urteil, das am selben Tag angenommen wurde:
 
 2. Die Beschwerdeführerin, [[person|Raluca Manu]], wurde von [[lawyer|Eleanore Florizoone]], Rechtsanwältin, vertreten. Die Beschwerdeführerin [[person|GA]] wurde von [[lawyer|Wiltraud Loidl]], Rechtsanwältin, vertreten.
 
-3. Die Regierung wurde in der Sache durch ihren Bevollmächtigten vertreten. Die Regierungen der [[organization|luxemburgischen Regierung]], der [[organization|deutschen Regierung]], der [[organization|polnischen Regierung]] und der [[organization|belgischen Regierung]] haben im Verfahren schriftliche Erklärungen eingereicht.
+3. Die beklagte [[organization|rumänische Regierung]] wurde in der Sache durch ihren Bevollmächtigten vertreten. Die [[organization|luxemburgische Regierung]], die [[organization|deutsche Regierung]], die [[organization|polnische Regierung]] und die [[organization|belgische Regierung]] haben im Verfahren schriftliche Erklärungen eingereicht.
 
 4. Die Beschwerdeführerinnen rügten insbesondere eine Verletzung von [[legal_norm|Art. 8 EMRK]] sowie von [[legal_norm|Art. 14 EMRK]] in Verbindung mit [[legal_norm|Art. 8 EMRK]].
 
@@ -35,7 +35,7 @@ I. DIE UMSTÄNDE DES FALLES
 
 6. Im Jahr 2022 beantragten die Beschwerdeführerinnen bei den zuständigen Stellen die Anerkennung ihrer gemeinsamen Wohnung als Haushalt im Sinne der Sozialleistungsvorschriften. Der Antrag wurde mit Schreiben vom [[date|14. September 2022]] abgelehnt.
 
-7. Die Beschwerdeführerinnen erhoben Klage vor dem [[court|Curtea de Apel Timișoara]] ([[location|Rumänien]]). Das Gericht wies die Klage mit Urteil vom [[date|10. Mai 2023]] ab. Die Berufung wurde vom selben Gericht am [[date|6. November 2023]] verworfen.
+7. Die Beschwerdeführerinnen erhoben Klage vor dem [[court|Curtea de Apel Timișoara]] ([[location|Rumänien]]). Der [[court|Curtea de Apel Timișoara]] wies die Klage mit Urteil vom [[date|10. Mai 2023]] ab. Die Berufung wurde am [[date|6. November 2023]] verworfen.
 
 8. Die Beschwerdeführerinnen legten dar, dass die Entscheidung auf einer Auslegung beruhte, die gleichgeschlechtliche Partnerschaften anders behandelte als vergleichbare Lebensgemeinschaften.
 
@@ -57,9 +57,9 @@ I. ZUR BEHAUPTETEN VERLETZUNG VON ART. 8 DER KONVENTION IN VERBINDUNG MIT ART. 1
 
 14. Die [[organization|Kommission]] hat im Rahmen ihrer Stellungnahme zur Gleichbehandlung darauf hingewiesen, dass Leistungen der öffentlichen Hand nicht allein am Familienstand anknüpfen dürfen. Das [[court|Gericht]] berücksichtigt diese Stellungnahme, ohne ihr rechtlich verbindliche Wirkung beizumessen.
 
-15. Die Regierung führt aus, dass die Unterscheidung dem Schutz der Ehe diene und einen weiten Ermessensspielraum der Staaten betreffe. Die Beschwerdeführerinnen halten dem entgegen, dass der Unterschied allein auf der Geschlechtszugehörigkeit beruhe.
+15. Die [[organization|rumänische Regierung]] führt aus, dass die Unterscheidung dem Schutz der Ehe diene und einen weiten Ermessensspielraum der Staaten betreffe. Die Beschwerdeführerinnen halten dem entgegen, dass der Unterschied allein auf der Geschlechtszugehörigkeit beruhe.
 
-16. Das [[court|Gericht]] stellt fest, dass die Regierung keine Gründe vorgetragen hat, die den Ausschluss gleichgeschlechtlicher Lebensgemeinschaften von den Leistungen rechtfertigen. Der Ermessensspielraum ist insoweit eng begrenzt.
+16. Das [[court|Gericht]] stellt fest, dass die [[organization|rumänische Regierung]] keine Gründe vorgetragen hat, die den Ausschluss gleichgeschlechtlicher Lebensgemeinschaften von den Leistungen rechtfertigen. Der Ermessensspielraum ist insoweit eng begrenzt.
 
 17. Die Behörden haben die Lebenssituation der Beschwerdeführerinnen nicht im Einzelnen geprüft. Sie haben die Anträge allein mit dem Hinweis auf den Familienstand abgelehnt.
 
@@ -87,4 +87,4 @@ Verfasst in französischer Sprache und am [[date|26. Februar 2026]] schriftlich 
 
 [[person|Raluca Manu]] und [[person|GA]], Beschwerdeführerinnen, sowie die Regierung des Beklagten Staates sind über die Entscheidung zu unterrichten.
 
-Im Auftrag des [[court|Gerichtshofs]]: [[person|Ferdinand Lorenzen]], Kanzler
+Im Auftrag des [[court|Gerichtshofs]]: [[person|Monika Erdmann]], Kanzlerin

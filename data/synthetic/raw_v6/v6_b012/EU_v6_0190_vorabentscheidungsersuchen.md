@@ -67,7 +67,7 @@ betreffend die Auslegung von [[legal_norm|Art. 4 Abs. 2 der Verordnung (EU) 2019
 
 19. Ob die Gesellschaft Einsicht in die Unterlagen verlangen kann, hängt davon ab, ob sie als Betroffene im Sinne der Vorschrift anzusehen ist. Diese Frage ist nach dem nationalen Verfahrensrecht zu beantworten, soweit das Unionsrecht keine Vorgaben enthält.
 
-**V. Verfahren vor dem Gerichtshof**
+**V. Verfahren vor dem [[court|Gerichtshof]]**
 
 20. Das Vorabentscheidungsersuchen wurde den Beteiligten zugestellt. Im Verfahren vor dem [[court|Gerichtshof]] haben sich die Gesellschaft durch [[lawyer|Margarethe Blanke]], Rechtsanwältin, und die Klägerinnen durch [[lawyer|Theodorik Červený]], Rechtsanwalt, vertreten lassen.
 

@@ -19,8 +19,6 @@ Der [[court|Gerichtshof]] (Dritte Sektion), tagend in einer Kammer, bestehend au
 [[judge|Denis Bartulović]],
 [[judge|Lourdes Castro]], Richter,
 
-und Herrn [[person|Stephen]]? 
-
 nach nichtöffentlicher Beratung am [[date|3. Dezember 2025]]
 
 folgendes Urteil erlassen, das an diesem Datum verkündet wurde:
@@ -53,31 +51,31 @@ II. Das einschlägige innerstaatliche Recht
 
 10. Die [[organization|Europäische Zentralbank]] ([[organization|EZB]]) hat in ihrer Stellungnahme zur Lage auf dem Wohnungsmarkt darauf hingewiesen, dass Zwangsräumungen die Finanzstabilität nicht gefährden dürfen, wenn Umschuldungsangebote bestehen.
 
-11. Der [[court|Gerichtshof]] der Europäischen Union hat im Urteil vom [[date|15. September 2011]], [[organization|Holub]], [[case_number|C-119/11]], festgestellt, dass ein nationales Gericht bei Zwangsvollstreckungen gegen Verbraucher die Missbräuchlichkeit einer Klausel von Amts wegen prüfen muss.
+11. Der [[court|Gerichtshof der Europäischen Union]] hat im Urteil vom [[date|15. September 2011]], [[organization|Holub]], [[case_number|C-119/11]], festgestellt, dass ein nationales Gericht bei Zwangsvollstreckungen gegen Verbraucher die Missbräuchlichkeit einer Klausel von Amts wegen prüfen muss.
 
 RECHTLICHE WÜRDIGUNG
 
 I. Zur behaupteten Verletzung von [[legal_norm|Art. 8 EMRK]]
 
-12. Der Gerichtshof stellt fest, dass die Räumung einen Eingriff in das Recht auf Achtung der Wohnung darstellt.
+12. Der [[court|Gerichtshof]] stellt fest, dass die Räumung einen Eingriff in das Recht auf Achtung der Wohnung darstellt.
 
-13. Die Regierung hält den Eingriff für gerechtfertigt, weil er einer gesetzlichen Grundlage entspricht und die Gläubiger schützt. Der Gerichtshof erkennt an, dass der Schutz von Gläubigern ein legitimes Ziel ist.
+13. Die [[organization|kroatische Regierung]] hält den Eingriff für gerechtfertigt, weil er einer gesetzlichen Grundlage entspricht und die Gläubiger schützt. Der [[court|Gerichtshof]] erkennt an, dass der Schutz von Gläubigern ein legitimes Ziel ist.
 
 14. Die Verhältnismäßigkeit verlangt jedoch, dass die Behörden die Lage des Schuldners individuell prüfen. Im vorliegenden Fall wurde eine solche Prüfung nicht durchgeführt, obwohl die Beschwerdeführer ihre Einkommensverhältnisse vorgetragen hatten.
 
 15. Die Stiftung ist nicht Partei des Verfahrens. Die Verantwortung für die Prüfung liegt jedoch beim Staat, der die Räumung angeordnet hat.
 
-16. Der Gerichtshof ist daher der Auffassung, dass eine Verletzung von [[legal_norm|Art. 8 EMRK]] vorliegt.
+16. Der [[court|Gerichtshof]] ist daher der Auffassung, dass eine Verletzung von [[legal_norm|Art. 8 EMRK]] vorliegt.
 
 II. Zur behaupteten Verletzung von [[legal_norm|Art. 6 EMRK]]
 
-17. Die Beschwerdeführer rügen ferner, dass ihnen keine wirksame Gelegenheit gegeben worden sei, zur Entscheidung über die Räumung Stellung zu nehmen. Angesichts der Feststellung unter Ziffer 16 hält es der Gerichtshof nicht für erforderlich, diese Rüge gesondert zu prüfen.
+17. Die Beschwerdeführer rügen ferner, dass ihnen keine wirksame Gelegenheit gegeben worden sei, zur Entscheidung über die Räumung Stellung zu nehmen. Angesichts der Feststellung unter Ziffer 16 hält es der [[court|Gerichtshof]] nicht für erforderlich, diese Rüge gesondert zu prüfen.
 
 III. Anwendung von [[legal_norm|Art. 41 EMRK]]
 
-18. Die Beschwerdeführer begehren eine gerechte Entschädigung. Der Gerichtshof spricht ihnen den Betrag zu, der im Tenor angegeben ist.
+18. Die Beschwerdeführer begehren eine gerechte Entschädigung. Der [[court|Gerichtshof]] spricht ihnen den Betrag zu, der im Tenor angegeben ist.
 
-AUS DIESEN GRÜNDEN erklärt der Gerichtshof einstimmig
+AUS DIESEN GRÜNDEN erklärt der [[court|Gerichtshof]] einstimmig
 
 1. die Beschwerde für zulässig;
 

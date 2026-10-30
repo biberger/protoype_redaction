@@ -7,9 +7,9 @@ BESCHLUSS DER KOMMISSION
 
 vom [[date|18. November 2025]]
 
-in einem Verfahren nach Artikel 101 AEUV
+in einem Verfahren nach [[legal_norm|Artikel 101 AEUV]]
 
-Sache AT.[[case_number|40871]] – Zementhandel Nordfrankreich
+Sache [[case_number|AT.40871]] – Zementhandel
 
 An:
 
@@ -33,7 +33,7 @@ in Erwägung nachstehender Gründe:
 
 2. SACHVERHALT
 
-(4) Die Gesellschaft [[organization|Papilian-Barabási SRL]] hat zwischen dem [[date|1. März 2016]] und dem [[date|30. September 2018]] mit anderen Herstellern Preise für Zement im Großhandel im Norden Frankreichs abgestimmt.
+(4) Die Gesellschaft [[organization|Papilian-Barabási SRL]] hat zwischen dem [[date|1. März 2016]] und dem [[date|30. September 2018]] mit anderen Herstellern Preise für Zement im Großhandel im Norden [[location|Frankreichs]] abgestimmt.
 
 (5) Nach den Feststellungen der Kommission hat [[person|SV]] die Absprachen persönlich geführt. [[person|SV]] hat an den Treffen vom [[date|12. April 2017]] und vom [[date|6. Juni 2018]] teilgenommen.
 
@@ -61,7 +61,7 @@ in Erwägung nachstehender Gründe:
 
 Dieser Beschluss ist an die Adressaten gerichtet.
 
-Brüssel, den [[date|18. November 2025]]
+[[location|Brüssel]], den [[date|18. November 2025]]
 
 Für die Kommission
 

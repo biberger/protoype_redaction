@@ -7,7 +7,7 @@ BESCHLUSS DER KOMMISSION
 
 vom [[date|3. März 2026]]
 
-über die staatliche Beihilfe SA.[[case_number|61204]] – [[organization|Portugal]]
+über die staatliche Beihilfe [[case_number|SA.61204]] – [[organization|Portugal]]
 
 (Bekanntgegeben unter Aktenzeichen C(2026) 1187)
 
@@ -31,11 +31,11 @@ in Erwägung nachstehender Gründe:
 
 (4) Die Kommission hat die Stellungnahmen der [[organization|irischen Regierung]], der [[organization|österreichischen Regierung]], der [[organization|ungarischen Regierung]] und der [[organization|kroatischen Regierung]] erhalten. Die Stellungnahmen wurden [[organization|Portugal]] zur Kenntnis gebracht.
 
-(5) Für [[organization|Portugal]] handelten die Bevollmächtigten [[person|Lena Osch]] und [[person|Melita Rajcic]].
+(5) Für [[organization|Portugal]] handelten die Bevollmächtigten [[person|Lena Osch]] und [[person|Melita Rajcic]]. [[organization|Frontex]] hat am [[date|9. Oktober 2025]] mitgeteilt, dass die Maßnahme die Hafenlogistik im Industriepark nicht berührt.
 
 2. BESCHREIBUNG DER MASSNAHME
 
-(6) [[organization|Iwuchukwu-Groben S.A.]] ist eine Gesellschaft mit Sitz in Luxemburg, die im Bereich der Verpackungslogistik tätig ist. Die Gesellschaft [[organization|Iwuchukwu-Groben S.A.]] hat im Jahr 2024 einen Umsatz von 41 Mio. EUR erzielt.
+(6) [[organization|Iwuchukwu-Groben S.A.]] ist eine Gesellschaft mit Sitz in [[location|Luxemburg]], die im Bereich der Verpackungslogistik tätig ist. Die Gesellschaft [[organization|Iwuchukwu-Groben S.A.]] hat im Jahr 2024 einen Umsatz von 41 Mio. EUR erzielt.
 
 (7) Die Gesellschaft [[organization|Iwuchukwu-Groben S.A.]] soll ein Grundstück im Industriepark Setúbal zu einem Preis erwerben, der unter dem Marktwert liegt. Nach den Angaben von [[organization|Portugal]] beträgt der Vorteil rund 2,3 Mio. EUR.
 
@@ -61,9 +61,9 @@ in Erwägung nachstehender Gründe:
 
 (16) [[organization|Portugal]] wird aufgefordert, die Beihilfe innerhalb von vier Monaten zurückzufordern.
 
-Dieser Beschluss ist an die Portugiesische Republik gerichtet.
+Dieser Beschluss ist an die [[organization|Portugiesische Republik]] gerichtet.
 
-Brüssel, den [[date|3. März 2026]]
+[[location|Brüssel]], den [[date|3. März 2026]]
 
 Für die Kommission
 

@@ -11,7 +11,7 @@ nach Aufforderung der Beteiligten zur Stellungnahme gemäß dem genannten Artike
 
 in Erwägung nachstehender Gründe:
 
-**BESCHLUSS (EU) 2026/1184 DER KOMMISSION**
+**BESCHLUSS (EU) 2026/1184 DER [[organization|KOMMISSION]]**
 
 vom [[date|23. März 2026]]
 
@@ -79,7 +79,7 @@ Die [[organization|Slowakische Republik]] übermittelt der [[organization|Kommis
 
 Dieser Beschluss ist an die [[organization|Slowakische Republik]] gerichtet.
 
-Brüssel, den [[date|23. März 2026]]
+[[location|Brüssel]], den [[date|23. März 2026]]
 
 Für die [[organization|Kommission]]
 [[person|Margrethe Vestrand]]

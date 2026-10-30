@@ -10,7 +10,9 @@ présentées le [[date|14 mars 2026]]
 
 Affaire [[case_number|C-412/25]]
 
-Demande de décision préjudicielle introduite par le [[court|Okresný súd Bratislava I]] (Slovaquie)
+Demande de décision préjudicielle introduite par le [[court|Okresný súd Bratislava I]] ([[location|Slovaquie]])
+
+La Cour (cinquième chambre) est composée de Mme la présidente de chambre [[judge|Alexa Szapáry]], de MM. [[judge|Erik Csató]], [[judge|Aldobrand Delzenne]] et [[judge|Anis Sabra]], et de M. [[judge|Dirk Heidrich]] (juge rapporteur).
 
 I. Introduction
 
@@ -28,7 +30,7 @@ III. Les observations
 
 5. Le gouvernement slovaque a été représenté par M. [[person|Evza Smetanová]], en qualité d'agent. Dans leurs écrits, [[organization|YT]] et [[person|XE]] ont été représentées respectivement par Me [[lawyer|Mylene Lamborelle]], avocate, et par Me [[lawyer|Stefana Petráš]], avocate.
 
-6. Le Parlement n'a pas présenté d'observations et la question n'appelle pas de développement sur le rôle de cette institution.
+6. Le [[organization|Parlement]] n'a pas présenté d'observations et la question n'appelle pas de développement sur le rôle de cette institution.
 
 IV. Analyse
 
@@ -44,6 +46,6 @@ V. Conclusion
 
 11. Je suggère à la Cour de répondre à la question préjudicielle dans les termes exposés ci-dessus.
 
-Fait à Luxembourg, le [[date|14 mars 2026]].
+Fait à [[location|Luxembourg]], le [[date|14 mars 2026]].
 
 [[judge|Gudrun Eisele]]

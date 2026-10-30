@@ -23,6 +23,8 @@ erlässt
 
 DER [[court|GERICHTSHOF]] (Vierte Kammer)
 
+unter Mitwirkung der Richter [[judge|Azzedine Azzam]] (Berichterstatter), [[judge|Balazs Guba]] und [[judge|Herkules Kopp]]
+
 unter Berücksichtigung der Erklärungen
 
 – der [[organization|österreichischen Regierung]], vertreten durch die Bevollmächtigten [[person|Ferdos Mounib]], [[person|Salman Namazi]] und [[person|Audran Cadet]],
@@ -59,7 +61,7 @@ III. Würdigung
 
 9. Die [[organization|Kommission]] trägt vor, dass die Dringlichkeit der Abwicklung eine vorherige Anhörung ausschließe. Der [[organization|SRB]] hält dem entgegen, dass die Anhörung nachgeholt werden könne.
 
-10. Die [[organization|österreichische Regierung]] hat keine eigene Auffassung zu der Frage vorgetragen, sondern auf die Rechtsprechung verwiesen.
+10. Die [[organization|österreichische Regierung]] hat keine eigene Auffassung zu der Frage vorgetragen, sondern auf die Rechtsprechung verwiesen. Der [[organization|Europäischer Datenschutzbeauftragter]] und die [[organization|Europäische Behörde für Lebensmittelsicherheit]] ([[organization|EFSA]]) haben keine Stellungnahme abgegeben.
 
 11. Die Dringlichkeit ist im Einzelfall nachzuweisen. Die [[organization|KFA]] hat dies im Ausgangsverfahren nicht getan. Die Gesellschaft [[organization|Suchanek]] konnte daher nicht vor der Maßnahme Stellung nehmen.
 

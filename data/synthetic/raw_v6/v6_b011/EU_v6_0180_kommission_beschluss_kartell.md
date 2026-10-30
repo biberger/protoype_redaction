@@ -37,7 +37,7 @@ in Erwägung nachstehender Gründe:
 
 (4) Die [[organization|Kommission]] hat am [[date|11. März 2022]] Nachprüfungen bei den Räumlichkeiten der [[organization|Elektro De Santis]] durchgeführt. Die Unterlagen wurden bei dieser Gelegenheit gesichert.
 
-(5) Im Verfahren haben die [[organization|finnische Regierung]] und die [[organization|Frontex]] keine Stellung genommen. Die [[organization|Ungarische Wettbewerbsbehörde]] ([[organization|UWB]]) hat die [[organization|Kommission]] im Jahr 2022 über ihre eigenen Ermittlungen unterrichtet.
+(5) Im Verfahren hat die [[organization|finnische Regierung]] Erklärungen abgegeben; die [[organization|Frontex]] hat keine Stellung genommen. Die [[organization|Ungarische Wettbewerbsbehörde]] ([[organization|UWB]]) hat die [[organization|Kommission]] im Jahr 2022 über ihre eigenen Ermittlungen unterrichtet.
 
 (6) Die [[organization|Elektro De Santis]] wurde im Verfahren durch die Rechtsanwältinnen [[lawyer|Ludivine Guzmán]], [[lawyer|Jarmila Prachařová]] und [[lawyer|Lois Bartnik]] vertreten. Die Bevollmächtigten der [[organization|Kommission]] waren [[person|Sognia Roggeman]] und [[person|Belinda Grünewald]].
 

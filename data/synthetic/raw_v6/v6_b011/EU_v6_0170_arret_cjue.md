@@ -33,9 +33,9 @@ considérant les observations présentées :
 
 – pour [[person|Jorj Deaconu]], Mes [[lawyer|Aniqa Farhi]], [[lawyer|Josefa Becker]] et [[lawyer|Oliva Sansone]], avocates ;
 
-– pour l'[[organization|ORCMP]], [[person|Dragulin Sass]], en qualité d'agent ;
+– pour l'[[organization|ORCMP]], par son représentant ;
 
-– pour le [[organization|gouvernement roumain]], par [[person|Dragulin Sass]], en qualité d'agent ;
+– pour le [[organization|gouvernement roumain]], par son agent ;
 
 – pour le [[organization|gouvernement croate]], le [[organization|gouvernement portugais]], le [[organization|gouvernement espagnol]] et le [[organization|gouvernement hongrois]] ;
 

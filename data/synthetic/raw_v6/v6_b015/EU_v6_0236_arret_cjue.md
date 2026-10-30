@@ -11,7 +11,7 @@ ARRÊT DE LA [[court|COUR]] (cinquième chambre)
 
 Dans l'affaire [[case_number|C-466/26]],
 
-ayant pour objet une demande de décision préjudicielle au titre de l'[[legal_norm|article 267 TFUE]], introduite par la [[court|Cour de cassation]] (France), par décision du [[date|2 avril 2026]], parvenue à la Cour le [[date|14 avril 2026]], dans la procédure
+ayant pour objet une demande de décision préjudicielle au titre de l'[[legal_norm|article 267 TFUE]], introduite par la [[court|Cour de cassation]] ([[location|France]]), par décision du [[date|2 avril 2026]], parvenue à la Cour le [[date|14 avril 2026]], dans la procédure
 
 [[person|AM]]
 
@@ -33,15 +33,15 @@ rend le présent
 
 Arrêt
 
-1. La demande porte sur l'interprétation de l'[[legal_norm|article 107 TFUE]] et de la notion d'aide d'État dans le cadre d'une mesure de soutien à une entreprise établie en France.
+1. La demande porte sur l'interprétation de l'[[legal_norm|article 107 TFUE]] et de la notion d'aide d'État dans le cadre d'une mesure de soutien à une entreprise établie en [[location|France]].
 
 2. Elle a été présentée dans un litige opposant [[person|AM]] à [[organization|Atelier Vernet SARL]], employeur de l'intéressée, au sujet du versement d'une prime de reconversion.
 
-3. Le litige porte sur une prime versée par l'[[organization|Autorité des brevets et des noms de domaine]] ([[organization|ABND]]) à [[organization|Atelier Vernet]], qui a été conditionnée au maintien de l'emploi pendant trois ans.
+3. Le litige porte sur une prime versée par l'[[organization|Agence nationale de reconversion professionnelle]] ([[organization|ANRP]]) à [[organization|Atelier Vernet]], qui a été conditionnée au maintien de l'emploi pendant trois ans.
 
 4. [[person|AM]] soutient que la prime a été versée au détriment des salariés non concernés. [[organization|Atelier Vernet]] conteste cette analyse et fait valoir que la mesure relève de la compétence de l'État membre.
 
-5. La [[court|Cour de cassation]] a décidé de surseoir à statuer et de poser à la Cour les questions suivantes.
+5. La [[court|Cour de cassation]] a décidé de surseoir à statuer et de poser à la Cour les questions suivantes. Devant la Cour, [[person|AM]] est représentée par Me [[lawyer|Marian Klinger]], avocat, et [[organization|Atelier Vernet SARL]] par Me [[lawyer|Dominique Istrefi]], avocate. Me [[lawyer|Zahidullah Block]], avocat, a été désigné pour représenter l'intérêt public.
 
 6. Par ses questions, la juridiction de renvoi demande en substance si une mesure nationale de ce type constitue une aide d'État au sens de l'[[legal_norm|article 107, paragraphe 1, TFUE]].
 
@@ -59,6 +59,6 @@ Arrêt
 
 Par ces motifs, la Cour (cinquième chambre) dit pour droit :
 
-L'article 107, paragraphe 1, TFUE doit être interprété en ce sens qu'une prime de reconversion, attribuée par une autorité publique à une entreprise déterminée sous condition de maintien de l'emploi, peut constituer une aide d'État, sous réserve de la vérification par la juridiction de renvoi.
+L'[[legal_norm|article 107, paragraphe 1, TFUE]] doit être interprété en ce sens qu'une prime de reconversion, attribuée par une autorité publique à une entreprise déterminée sous condition de maintien de l'emploi, peut constituer une aide d'État, sous réserve de la vérification par la juridiction de renvoi.
 
 Fait à [[location|Luxembourg]], le [[date|25 juin 2026]].

@@ -11,7 +11,7 @@ nach Anhörung der [[organization|Beratenden Kommission für Kartell- und Monopo
 
 in Erwägung nachstehender Gründe:
 
-**ENTSCHEIDUNG DER KOMMISSION**
+**ENTSCHEIDUNG DER [[organization|KOMMISSION]]**
 
 vom [[date|5. Mai 2026]]
 

@@ -41,7 +41,7 @@ III. Sachverhalt und Ausgangsverfahren
 
 7. Frau [[person|YD]] war Inhaberin von nachrangigen Schuldverschreibungen eines Kreditinstituts mit Sitz in [[location|Esch-sur-Alzette]]. Am [[date|14. November 2023]] ordnete die [[organization|OLRB]] die Abwicklung des Instituts an und setzte die Forderungen der Gläubiger teilweise herab.
 
-8. Frau [[person|YD]] erhob Klage beim [[court|Tribunal d'arrondissement de Luxembourg]]. Sie macht geltend, sie sei vor der Entscheidung nicht angehört worden. Die [[organization|OLRB]] hält dem entgegen, dass die Entscheidung wegen der drohenden Insolvenz des Instituts dringend war.
+8. Frau [[person|YD]] erhob Klage beim [[court|Tribunal d'arrondissement de Luxembourg]]. Sie macht geltend, sie sei vor der Entscheidung nicht angehört worden. Die [[organization|OLRB]] hält dem entgegen, dass die Entscheidung wegen der drohenden Insolvenz des Instituts dringend war. Frau [[person|YD]] wird durch Rechtsanwalt [[lawyer|Leonard Rybarczyk]] und Rechtsanwältin [[lawyer|Klaudyna Szczepańska]] vertreten.
 
 9. Mit Entscheidung vom [[date|9. Mai 2024]] hat das [[court|Tribunal d'arrondissement de Luxembourg]] das Verfahren ausgesetzt und dem [[court|Gerichtshof]] Fragen zur Vorabentscheidung vorgelegt.
 
@@ -57,7 +57,7 @@ A. Zur Anhörungspflicht
 
 12. Die [[organization|Europäische Zentralbank]] ([[organization|EZB]]) hat in ihrer Stellungnahme darauf hingewiesen, dass eine vorherige Anhörung die Wirksamkeit der Abwicklung gefährden könnte. Diese Einschätzung ist zu berücksichtigen, verpflichtet das vorlegende Gericht jedoch nicht.
 
-13. Die französische Regierung trägt vor, dass eine vorherige Anhörung in Krisensituationen nicht praktikabel sei. Die [[organization|Kommission]] schließt sich dieser Auffassung in Teilen an.
+13. Die [[organization|französische Regierung]] trägt vor, dass eine vorherige Anhörung in Krisensituationen nicht praktikabel sei. Sie wird dabei durch ihren Bevollmächtigten [[person|Sunke Gerlach]] vertreten. Die [[organization|Kommission]] schließt sich dieser Auffassung in Teilen an.
 
 B. Zur Dringlichkeit
 

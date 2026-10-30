@@ -11,7 +11,7 @@ ARRÊT DE LA [[court|COUR]] (grande chambre)
 
 Dans l'affaire [[case_number|C-587/26]],
 
-ayant pour objet une demande de décision préjudicielle au titre de l'[[legal_norm|article 267 TFUE]], introduite par le [[court|Juzgado de lo Mercantil de Barcelona]] (Espagne), par décision du [[date|12 mars 2026]], parvenue à la Cour le [[date|24 mars 2026]], dans la procédure
+ayant pour objet une demande de décision préjudicielle au titre de l'[[legal_norm|article 267 TFUE]], introduite par le [[court|Juzgado de lo Mercantil de Barcelona]] ([[location|Espagne]]), par décision du [[date|12 mars 2026]], parvenue à la Cour le [[date|24 mars 2026]], dans la procédure
 
 [[organization|Conseil Baldelli SpA]]
 
@@ -57,13 +57,13 @@ Arrêt
 
 I. Le cadre juridique
 
-3. L'article 6, paragraphe 1, de la directive 93/13 prévoit que les clauses abusives ne lient pas le consommateur. Cette disposition doit être lue à la lumière de l'[[legal_norm|article 47 de la charte des droits fondamentaux de l'Union européenne]].
+3. L'[[legal_norm|article 6, paragraphe 1, de la directive 93/13]] prévoit que les clauses abusives ne lient pas le consommateur. Cette disposition doit être lue à la lumière de l'[[legal_norm|article 47 de la charte des droits fondamentaux de l'Union européenne]].
 
 4. Le droit espagnol transpose cette directive dans la loi relative aux conditions générales de contrats. Le [[organization|Royaume d'Espagne]] a fait valoir que les juridictions nationales disposent d'une marge d'appréciation en la matière.
 
 II. Le litige au principal et les questions préjudicielles
 
-5. [[person|SN]] a conclu, le [[date|3 février 2023]], un contrat de prêt avec [[organization|Conseil Baldelli SpA]]. Le contrat comporte une clause attribuant compétence exclusive aux tribunaux de Milan.
+5. [[person|SN]] a conclu, le [[date|3 février 2023]], un contrat de prêt avec [[organization|Conseil Baldelli SpA]]. Le contrat comporte une clause attribuant compétence exclusive aux tribunaux de [[location|Milan]].
 
 6. Le [[court|Juzgado de lo Mercantil de Barcelona]] se demande si cette clause est abusive et si elle peut être écartée d'office. Il a estimé qu'une décision sur ce point était nécessaire pour trancher le litige.
 
@@ -71,7 +71,7 @@ II. Le litige au principal et les questions préjudicielles
 
 III. Sur les questions préjudicielles
 
-8. Par ses questions, la juridiction de renvoi demande en substance si l'article 6 de la directive 93/13 doit être interprété en ce sens qu'il s'oppose à une clause attributive de compétence qui n'a pas été négociée individuellement.
+8. Par ses questions, la juridiction de renvoi demande en substance si l'[[legal_norm|article 6 de la directive 93/13]] doit être interprété en ce sens qu'il s'oppose à une clause attributive de compétence qui n'a pas été négociée individuellement.
 
 9. Il convient de rappeler que, dans l'arrêt du [[date|14 octobre 1977]], [[person|Rachedi]], [[case_number|88/77]], la [[court|Cour]] a jugé qu'un juge national doit relever d'office le caractère abusif d'une clause lorsqu'il dispose des éléments de droit et de fait nécessaires.
 
@@ -89,7 +89,7 @@ IV. Sur les dépens
 
 Par ces motifs, la Cour (grande chambre) dit pour droit :
 
-L'article 6, paragraphe 1, de la directive 93/13/CEE doit être interprété en ce sens qu'une clause attributive de compétence, non négociée individuellement, doit être écartée par le juge national lorsque celui-ci dispose des éléments de droit et de fait nécessaires, sous réserve de la vérification à effectuer par la juridiction de renvoi.
+L'[[legal_norm|article 6, paragraphe 1, de la directive 93/13/CEE]] doit être interprété en ce sens qu'une clause attributive de compétence, non négociée individuellement, doit être écartée par le juge national lorsque celui-ci dispose des éléments de droit et de fait nécessaires, sous réserve de la vérification à effectuer par la juridiction de renvoi.
 
 Signatures
 

@@ -83,9 +83,9 @@ Die [[organization|Beschwerdekammer]] entscheidet:
 
 3. Die Kosten des Beschwerdeverfahrens werden zwischen [[person|ZB]] und [[person|NM]] geteilt.
 
-Alicante, den [[date|21. Oktober 2026]]
+[[location|Alicante]], den [[date|21. Oktober 2026]]
 
-Für die Beschwerdekammer:
+Für die [[organization|Beschwerdekammer]]:
 
 [[judge|Dorothea Fellner]], Vorsitzende der Kammer
 

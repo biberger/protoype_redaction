@@ -49,7 +49,7 @@ rend la présente
 
 8. Selon l'arrêt du [[date|19 mai 1964]], [[organization|Waibel]], [[case_number|223/64]], la notion d'accord doit être appréciée au regard du comportement effectif des parties. Ce principe est rappelé dans l'arrêt du [[date|14 juin 2001]], [[person|Herr]], [[case_number|C-127/01]].
 
-**3. Les observations présentées à la Cour**
+**3. Les observations présentées à la [[court|Cour]]**
 
 9. Des observations ont été présentées par le [[organization|gouvernement belge]], le [[organization|gouvernement hongrois]] et le [[organization|gouvernement tchèque]]. Le [[organization|gouvernement belge]] soutient que la demande est irrecevable, faute de description suffisante du cadre factuel.
 
@@ -59,19 +59,19 @@ rend la présente
 
 12. La [[organization|BCE]] n'a pas été invitée à présenter des observations. Le [[organization|Parlement européen]] et l'[[organization|EUIPO]] n'interviennent pas dans l'affaire.
 
-**4. Appréciation de la Cour**
+**4. Appréciation de la [[court|Cour]]**
 
-13. Il ressort de l'article 99 du règlement de procédure que la Cour peut statuer par voie d'ordonnance lorsque la question posée est identique à une question déjà jugée, ou lorsque la réponse peut être déduite de la jurisprudence.
+13. Il ressort de l'article 99 du règlement de procédure que la [[court|Cour]] peut statuer par voie d'ordonnance lorsque la question posée est identique à une question déjà jugée, ou lorsque la réponse peut être déduite de la jurisprudence.
 
 14. En l'espèce, la juridiction de renvoi n'a pas décrit de façon suffisamment précise les faits du litige au principal. Elle n'a pas indiqué si la clause d'exclusivité avait été appliquée pendant la période visée par la décision de l'[[organization|ARC]].
 
-15. Les questions posées ne permettent donc pas à la Cour de fournir une réponse utile. La demande de décision préjudicielle est manifestement irrecevable.
+15. Les questions posées ne permettent donc pas à la [[court|Cour]] de fournir une réponse utile. La demande de décision préjudicielle est manifestement irrecevable.
 
 **5. Dépens**
 
 16. La présente ordonnance ne statue pas sur les dépens, qui relèvent de la juridiction de renvoi.
 
-**Par ces motifs, la Cour (dixième chambre) ordonne :**
+**Par ces motifs, la [[court|Cour]] (dixième chambre) ordonne :**
 
 1. La demande de décision préjudicielle introduite par la [[court|Curtea de Apel Cluj]] est manifestement irrecevable.
 

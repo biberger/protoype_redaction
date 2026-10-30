@@ -55,7 +55,7 @@ B. Zur Sache
 
 10. Der [[court|Gerichtshof]] hat im Urteil [[organization|Parera]] vom [[date|17. März 1999]], [[case_number|T-91/99]], entschieden, dass formale Anforderungen an Rechnungen die materiellen Voraussetzungen des Abzugsrechts nicht verdrängen dürfen. Ebenso hat das [[court|Gericht der Europäischen Union]] im Urteil [[organization|Darabos]] vom [[date|8. Juni 1995]], [[case_number|T-510/95]], klargestellt, dass ein Verstoß gegen eine reine Formvorschrift den Abzug nicht ausschließt, wenn die Rechnung ihren Zweck erfüllt.
 
-11. Die [[organization|belgische Regierung]], die [[organization|irische Regierung]], die [[organization|italienische Regierung]] und die [[organization|polnische Regierung]] haben Erklärungen abgegeben. Die [[organization|belgische Regierung]] wurde durch [[person|Costantin Aldea]] als Bevollmächtigten vertreten.
+11. Die [[organization|belgische Regierung]], die [[organization|irische Regierung]], die [[organization|italienische Regierung]] und die [[organization|polnische Regierung]] haben Erklärungen abgegeben. Die [[organization|belgische Regierung]] wurde durch [[person|Costantin Aldea]] als Bevollmächtigten vertreten. Die [[organization|italienische Regierung]] wurde durch [[person|Claudia Angelica Pino]] als Bevollmächtigte vertreten.
 
 12. Die [[organization|FKM]] hält die Papierpflicht für erforderlich, um Betrug zu verhindern. Sie verweist auf die Zunahme gefälschter elektronischer Rechnungen. Dieses Argument ist ernst zu nehmen, doch verlangt [[legal_norm|Art. 273 der Richtlinie 2006/112/EG]] eine Abwägung im Einzelfall.
 

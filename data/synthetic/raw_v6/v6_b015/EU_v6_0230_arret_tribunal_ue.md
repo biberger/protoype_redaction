@@ -7,19 +7,21 @@ ARRÊT DU [[court|TRIBUNAL]] (sixième chambre)
 
 [[date|17 septembre 2026]]
 
-«Marque de l'Union européenne – Procédure d'annulation – Marque figurative – Motif relatif de refus – Usage sérieux – Article 58, paragraphe 1, sous a), du règlement (UE) 2017/1001»
+«Marque de l'Union européenne – Procédure d'annulation – Marque figurative – Motif relatif de refus – Usage sérieux – [[legal_norm|Article 58, paragraphe 1, sous a), du règlement (UE) 2017/1001]]»
 
 Dans l'affaire [[case_number|T-527/24]],
 
-[[organization|Cseszneky Informatique]], établie à Győr (Hongrie), représentée par Me [[lawyer|Hayder Ansari]], avocat,
+[[organization|Cseszneky Informatique]], établie à [[location|Győr]] ([[location|Hongrie]]), représentée par Me [[lawyer|Hayder Ansari]], avocat,
 
 partie requérante,
 
 contre
 
-[[organization|Manna-Massart SARL]], établie à Lille (France), représentée par Me [[lawyer|Vezhdi Eykens]], avocat,
+[[organization|Manna-Massart SARL]], établie à [[location|Lille]] ([[location|France]]), représentée par Me [[lawyer|Vezhdi Eykens]], avocat,
 
 partie défenderesse,
+
+[[person|VB]], ressortissante espagnole, représentée par Me [[lawyer|Hayder Ansari]], avocat, intervenante au soutien de la partie requérante,
 
 ayant pour objet un recours formé contre la décision de la quatrième chambre de recours de l'[[organization|EUIPO]] du [[date|5 avril 2024]] (affaire R [[case_number|1174/2023-4]]).
 
@@ -51,9 +53,9 @@ Faits
 
 Procédure et conclusions
 
-6. Par requête déposée au greffe du Tribunal le [[date|14 juin 2024]], la requérante a demandé l'annulation de la décision attaquée.
+6. Par requête déposée au greffe du [[court|Tribunal]] le [[date|14 juin 2024]], la requérante a demandé l'annulation de la décision attaquée.
 
-7. Le [[organization|gouvernement finlandais]], le [[organization|gouvernement slovaque]], le [[organization|gouvernement espagnol]] et le [[organization|gouvernement grec]] ont présenté des observations sur la question de l'usage sérieux. L'[[organization|Office national d'enregistrement des marques d'Espagne]] ([[organization|ONRME]]) a également transmis des documents relatifs à la procédure nationale parallèle.
+7. Le [[organization|gouvernement finlandais]], le [[organization|gouvernement slovaque]], le [[organization|gouvernement espagnol]] et le [[organization|gouvernement grec]] ont présenté des observations sur la question de l'usage sérieux. Le [[organization|gouvernement espagnol]] a été représenté par Mme [[person|Kimiya Mangal]], en qualité d'agente. L'[[organization|Office national d'enregistrement des marques d'Espagne]] ([[organization|ONRME]]) a également transmis des documents relatifs à la procédure nationale parallèle.
 
 8. L'[[organization|ONRME]] a indiqué que la marque n'a pas été contestée dans son pays. La requérante a toutefois fait valoir que la juridiction nationale saisie par la défenderesse, le [[court|Tribunal Supremo]], a rendu une décision sur un point voisin.
 
@@ -77,7 +79,7 @@ Sur le fond
 
 16. La société [[organization|Manna-Massart SARL]] soutient que la marque a été utilisée pour les services de conseil. Cet argument ne saurait prospérer, faute de preuve de la date et de l'étendue de cet usage.
 
-17. La société Atelier Vernet SARL, prestataire de la défenderesse, a produit un contrat de maintenance daté du [[date|2 mai 2022]]. Ce contrat ne désigne pas la marque et ne peut être pris en compte.
+17. La société [[organization|Atelier Vernet SARL]], prestataire de la défenderesse, a produit un contrat de maintenance daté du [[date|2 mai 2022]]. Ce contrat ne désigne pas la marque et ne peut être pris en compte.
 
 Sur les dépens
 
@@ -93,7 +95,7 @@ déclare et arrête :
 
 2) [[organization|Cseszneky Informatique]] est condamnée aux dépens.
 
-Fait à Luxembourg, le [[date|17 septembre 2026]].
+Fait à [[location|Luxembourg]], le [[date|17 septembre 2026]].
 
 Le greffier : [[person|Eliseo Vanhove]]
 

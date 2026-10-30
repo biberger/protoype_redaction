@@ -11,7 +11,7 @@ vom [[date|16. April 2026]]
 
 In der Rechtssache [[case_number|C-283/26]]
 
-betreffend ein Vorabentscheidungsersuchen nach [[legal_norm|Art. 267 AEUV]], eingereicht vom [[court|Curtea de Apel Cluj]] ([[location|Rumänien]]) mit Entscheidung vom [[date|19. Februar 2026]], beim Gerichtshof eingegangen am [[date|2. März 2026]], in dem Verfahren
+betreffend ein Vorabentscheidungsersuchen nach [[legal_norm|Art. 267 AEUV]], eingereicht vom [[court|Curtea de Apel Cluj]] ([[location|Rumänien]]) mit Entscheidung vom [[date|19. Februar 2026]], beim [[court|Gerichtshof]] eingegangen am [[date|2. März 2026]], in dem Verfahren
 
 [[person|VB]]
 
@@ -35,7 +35,9 @@ unter Berücksichtigung der Erklärungen
 
 – der [[organization|tschechischen Regierung]], vertreten durch [[person|Luko Reichenbach]] als Bevollmächtigten,
 
-– der [[organization|italienischen Regierung]], vertreten durch Herrn [[person|Oana Cosmovici]] als Bevollmächtigten,
+– der [[organization|italienischen Regierung]], vertreten durch Frau [[person|Oana Cosmovici]] als Bevollmächtigte,
+
+– der Klägerin des Ausgangsverfahrens [[person|VB]], vertreten durch die Rechtsanwälte [[lawyer|Valentynek Křeček]] und [[lawyer|Wadim Plyushch]],
 
 nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom [[date|10. März 2026]],
 
@@ -69,7 +71,7 @@ Ausgangsverfahren und Vorlagefragen
 
 Zu den Vorlagefragen
 
-9. Mit seinen Fragen möchte das vorlegende Gericht wissen, ob Art. 3 Abs. 1 und Art. 6 Abs. 1 der Richtlinie 93/13 dahin auszulegen sind, dass eine Klausel über Bearbeitungsgebühren missbräuchlich ist, wenn die Gegenleistung nicht hinreichend transparent beschrieben wird.
+9. Mit seinen Fragen möchte das vorlegende Gericht wissen, ob [[legal_norm|Art. 3 Abs. 1 und Art. 6 Abs. 1 der Richtlinie 93/13]] dahin auszulegen sind, dass eine Klausel über Bearbeitungsgebühren missbräuchlich ist, wenn die Gegenleistung nicht hinreichend transparent beschrieben wird.
 
 10. Vorab ist festzustellen, dass die Klausel nicht im Einzelnen ausgehandelt wurde. Sie ist somit der Inhaltskontrolle unterworfen.
 
@@ -87,11 +89,11 @@ Kosten
 
 Aus diesen Gründen hat der [[court|Gerichtshof]] (Erste Kammer) für Recht erkannt:
 
-Art. 3 Abs. 1 und Art. 6 Abs. 1 der Richtlinie 93/13/EWG sind dahin auszulegen, dass eine Klausel über eine Bearbeitungsgebühr missbräuchlich ist, wenn die Gegenleistung im Vertrag nicht hinreichend klar beschrieben ist, sodass der Verbraucher ihren Umfang nicht erkennen kann. Es ist Sache des vorlegenden Gerichts, dies im Einzelfall zu prüfen.
+[[legal_norm|Art. 3 Abs. 1 und Art. 6 Abs. 1 der Richtlinie 93/13/EWG]] sind dahin auszulegen, dass eine Klausel über eine Bearbeitungsgebühr missbräuchlich ist, wenn die Gegenleistung im Vertrag nicht hinreichend klar beschrieben ist, sodass der Verbraucher ihren Umfang nicht erkennen kann. Es ist Sache des vorlegenden Gerichts, dies im Einzelfall zu prüfen.
 
 Unterschriften
 
-Luxemburg, den [[date|16. April 2026]]
+[[location|Luxemburg]], den [[date|16. April 2026]]
 
 Der Kanzler: [[person|Florin Sâmbotin]]
 

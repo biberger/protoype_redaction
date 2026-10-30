@@ -67,7 +67,7 @@ le [[organization|Service fédéral de contrôle des contrats]] ([[organization|
 
 **VI. Conclusion**
 
-18. Eu égard à ces considérations, je propose à la Cour de répondre à la juridiction de renvoi que l'[[legal_norm|article 17 de la directive 2011/83/UE]] doit être interprété en ce sens que le délai de rétractation court à compter de la réception du dernier bien, lorsque le contrat prévoit une livraison échelonnée et que le professionnel a omis d'en informer le consommateur.
+18. Eu égard à ces considérations, je propose à la [[court|Cour]] de répondre à la juridiction de renvoi que l'[[legal_norm|article 17 de la directive 2011/83/UE]] doit être interprété en ce sens que le délai de rétractation court à compter de la réception du dernier bien, lorsque le contrat prévoit une livraison échelonnée et que le professionnel a omis d'en informer le consommateur.
 
 Fait à [[location|Luxembourg]], le [[date|14 mai 2026]].
 

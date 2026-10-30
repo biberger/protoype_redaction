@@ -45,7 +45,7 @@ II. Begründung
 
 12. Die [[organization|Kommission]] und der [[organization|Rat]] haben im Gesetzgebungsverfahren zur Verordnung die Bedeutung der Herkunftsangabe betont. Diese Stellungnahmen haben für die Entscheidung keine unmittelbare Bedeutung.
 
-13. Die [[organization|Einheitlicher Abwicklungsausschuss]] ([[organization|SRB]]) ist für das vorliegende Verfahren ohne Bedeutung und wird nur der Vollständigkeit halber erwähnt, da ein Mitarbeiter der Widersprechenden zuvor bei ihm tätig war.
+13. Der [[organization|Einheitlicher Abwicklungsausschuss]] ([[organization|SRB]]) ist für das vorliegende Verfahren ohne Bedeutung und wird nur der Vollständigkeit halber erwähnt, da ein Mitarbeiter der Widersprechenden zuvor bei ihm tätig war.
 
 14. Für die Waren der Klasse 33 besteht hingegen keine Verwechslungsgefahr, da die Widersprechende keine Ansprüche für diese Klasse geltend gemacht hat. Insoweit ist die Beschwerde begründet.
 
@@ -63,4 +63,4 @@ hat die Beschwerdekammer
 
 3. entschieden, dass der Beschwerdeführer die Kosten des Verfahrens zu tragen hat.
 
-Die Beschwerdekammer stellt fest, dass gegen diese Entscheidung nach [[legal_norm|Art. 72 der Verordnung (EU) 2017/1001]] Klage vor dem Gericht der Europäischen Union erhoben werden kann.
+Die Beschwerdekammer stellt fest, dass gegen diese Entscheidung nach [[legal_norm|Art. 72 der Verordnung (EU) 2017/1001]] Klage vor dem [[court|Gericht der Europäischen Union]] erhoben werden kann.

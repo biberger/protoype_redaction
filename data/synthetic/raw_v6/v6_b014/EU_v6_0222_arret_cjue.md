@@ -31,9 +31,9 @@ rend le présent
 
 ARRÊT
 
-1. La demande de décision préjudicielle porte sur l'interprétation de l'[[legal_norm|article 46 de la directive 2013/32/UE]] du Parlement européen et du Conseil, relative à des procédures communes pour l'octroi et le retrait de la protection internationale.
+1. La demande de décision préjudicielle porte sur l'interprétation de l'[[legal_norm|article 46 de la directive 2013/32/UE]] du [[organization|Parlement européen]] et du [[organization|Conseil]], relative à des procédures communes pour l'octroi et le retrait de la protection internationale.
 
-2. Elle a été présentée dans le cadre d'un litige opposant M. [[person|YP]], ressortissant [[location|syrien]], à l'[[organization|AMKB]] au sujet d'une décision de rejet de sa demande de protection internationale.
+2. Elle a été présentée dans le cadre d'un litige opposant M. [[person|YP]], ressortissant de [[location|Syrie]], à l'[[organization|AMKB]] au sujet d'une décision de rejet de sa demande de protection internationale.
 
 Le cadre juridique
 
@@ -65,7 +65,7 @@ Sur les questions préjudicielles
 
 14. Les observations présentées par le [[organization|gouvernement belge]], le [[organization|gouvernement hongrois]] et le [[organization|gouvernement polonais]] ne remettent pas en cause cette interprétation. Le [[organization|gouvernement hongrois]] est représenté par M. [[person|Gergely Tőzsér]], et le [[organization|gouvernement polonais]] par M. [[person|Silverio Podestà]], en qualité d'agents.
 
-15. Le [[organization|Conseil]], [[organization|Frontex]] et l'[[organization|EUIPO]] ont été entendus à l'audience. Leurs observations portaient sur la coopération administrative et n'appellent pas de réponse distincte.
+15. Le [[organization|Conseil]], l'[[organization|Agence européenne de garde-frontières et de garde-côtes]] ([[organization|Frontex]]) et l'[[organization|EUIPO]] ont été entendus à l'audience. Leurs observations portaient sur la coopération administrative et n'appellent pas de réponse distincte.
 
 16. Le demandeur est représenté par Me [[lawyer|Alfia Ventura]], avocate.
 
@@ -77,4 +77,4 @@ Par ces motifs, la [[court|Cour]] (grande chambre) dit pour droit :
 
 L'article 46 de la directive 2013/32/UE doit être interprété en ce sens que le juge saisi d'un recours contre une décision de rejet fondée sur une appréciation de crédibilité doit, sauf si le dossier rend cette audition manifestement superflue, pouvoir entendre le demandeur.
 
-Fait à Luxembourg.
+Fait à [[location|Luxembourg]].

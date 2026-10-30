@@ -68,7 +68,7 @@ Ausgangsverfahren
 
 9. Die [[organization|EZB]] hat mit Schreiben vom [[date|9. Mai 2024]] mitgeteilt, dass sie die Entscheidung der [[organization|IGGP]] nicht beanstandet. Sie hat aber darauf hingewiesen, dass Garantien nur nach objektiven Kriterien gewährt werden dürfen.
 
-10. Das vorlegende Gericht hat die Klage mit Entscheidung vom [[date|19. Dezember 2025]] dem Gerichtshof zur Vorabentscheidung vorgelegt, weil die Auslegung des Unionsrechts für die Entscheidung erheblich ist.
+10. Das vorlegende Gericht hat die Klage mit Entscheidung vom [[date|19. Dezember 2025]] dem [[court|Gerichtshof]] zur Vorabentscheidung vorgelegt, weil die Auslegung des Unionsrechts für die Entscheidung erheblich ist.
 
 Vorlagefragen
 
@@ -106,4 +106,4 @@ Unterschriften
 
 Kammerpräsidentin [[judge|Aurelie Villeneuve]]
 
-Kanzler [[person|Olivier Morain]]
+Kanzler [[person|Gaspard Aubrion]]

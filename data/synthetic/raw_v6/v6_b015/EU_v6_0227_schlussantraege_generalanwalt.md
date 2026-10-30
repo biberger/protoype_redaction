@@ -9,7 +9,7 @@ vom [[date|21. Mai 2026]]
 
 In der Rechtssache [[case_number|C-618/26]]
 
-betreffend ein Vorabentscheidungsersuchen nach Art. [[legal_norm|Art. 267 AEUV]], eingereicht vom [[court|Tribunale di Teramo]] (Italien) mit Entscheidung vom [[date|9. Februar 2026]], eingegangen beim Gerichtshof am [[date|17. Februar 2026]], in dem Verfahren
+betreffend ein Vorabentscheidungsersuchen nach [[legal_norm|Art. 267 AEUV]], eingereicht vom [[court|Tribunale di Teramo]] ([[location|Italien]]) mit Entscheidung vom [[date|9. Februar 2026]], eingegangen beim [[court|Gerichtshof]] am [[date|17. Februar 2026]], in dem Verfahren
 
 [[organization|Slavíček]]
 
@@ -39,11 +39,11 @@ II. Rechtlicher Rahmen
 
 III. Sachverhalt und Ausgangsverfahren
 
-5. [[person|HA]] war bis zum [[date|30. Juni 2025]] Geschäftsführer der [[organization|Slavíček]]. Die Gesellschaft ist nach belgischem Recht organisiert und hält Forderungen gegenüber mehreren Gesellschaften in der Region Abruzzen.
+5. [[person|HA]] war bis zum [[date|30. Juni 2025]] Geschäftsführer der [[organization|Slavíček]]. Die Gesellschaft ist nach belgischem Recht organisiert und hält Forderungen gegenüber mehreren Gesellschaften in der Region [[location|Abruzzen]].
 
-6. Die Gesellschaft hat die Übertragung vor dem [[court|Tribunale di Teramo]] angefochten. Die [[organization|ANGCD]] hat sich verteidigt und hat geltend gemacht, die Übertragung sei im öffentlichen Interesse erfolgt. Die Gesellschaft verweist auf das Urteil vom [[date|14. Juli 2023]], [[organization|Constantino]], [[case_number|C-552/23]], in dem der Gerichtshof die Anforderungen an die Begründung einer Verwaltungsentscheidung präzisiert hat.
+6. Die Gesellschaft hat die Übertragung vor dem [[court|Tribunale di Teramo]] angefochten. Die [[organization|ANGCD]] hat sich verteidigt und hat geltend gemacht, die Übertragung sei im öffentlichen Interesse erfolgt. Die Gesellschaft verweist auf das Urteil vom [[date|14. Juli 2023]], [[organization|Constantino]], [[case_number|C-552/23]], in dem der [[court|Gerichtshof]] die Anforderungen an die Begründung einer Verwaltungsentscheidung präzisiert hat.
 
-7. Die Akte enthält zudem eine Tabelle mit den übertragenen Forderungen, in der sich die Summen wie folgt verteilen: Forderungen gegen drei Gesellschaften in Teramo, zwei in Pescara und eine in Chieti. Die Summe der Teilbeträge entspricht dem Gesamtbetrag der Übertragung.
+7. Die Akte enthält zudem eine Tabelle mit den übertragenen Forderungen, in der sich die Summen wie folgt verteilen: Forderungen gegen drei Gesellschaften in [[location|Teramo]], zwei in [[location|Pescara]] und eine in [[location|Chieti]]. Die Summe der Teilbeträge entspricht dem Gesamtbetrag der Übertragung.
 
 8. Die Gesellschaft [[organization|Slavíček]] hat ihren Antrag auf Aussetzung des Verfahrens am [[date|28. Januar 2026]] gestellt. Das Gericht hat darüber am [[date|9. Februar 2026]] entschieden und das Vorabentscheidungsersuchen vorgelegt.
 
@@ -51,21 +51,21 @@ IV. Die Vorlagefragen
 
 9. Die Verfahrensbeteiligten haben schriftliche Erklärungen eingereicht. Die [[organization|portugiesische Regierung]], die [[organization|griechische Regierung]] und die [[organization|österreichische Regierung]] haben Stellung genommen. Die [[organization|Kommission]] hat sich auf die Auslegung von [[legal_norm|Art. 85 der Richtlinie 2014/59/EU]] beschränkt.
 
-10. Die Regierung Portugals vertritt die Auffassung, die Übertragung sei durch das Unionsrecht gedeckt. Vertreten wurde sie durch den Bevollmächtigten [[person|Alberto Ivan Vilar]]. Die griechische Regierung wurde durch [[person|Vavrinec Furdová]] vertreten, der sich ebenfalls für die Zulässigkeit der Vorlage ausgesprochen hat.
+10. Die Regierung Portugals vertritt die Auffassung, die Übertragung sei durch das Unionsrecht gedeckt. Vertreten wurde sie durch den Bevollmächtigten [[person|Alberto Ivan Vilar]]. Die [[organization|griechische Regierung]] wurde durch [[person|Vavrinec Furdová]] vertreten, der sich ebenfalls für die Zulässigkeit der Vorlage ausgesprochen hat.
 
 11. Die Gesellschaft [[organization|Slavíček]] wurde vor dem Gerichtshof durch die Rechtsanwältin [[lawyer|Zlatuse Kouřil]] vertreten. Die Beklagte ist durch die Rechtsanwältin [[lawyer|Merry Amrhyn]] vertreten. Das Europäische Parlament hat sich nicht geäußert.
 
-12. Die Zuständigkeit des Gerichtshofs ist gegeben. Die Vorlagefragen betreffen die Auslegung des Unionsrechts, nicht die Anwendung auf den Sachverhalt.
+12. Die Zuständigkeit des [[court|Gerichtshofs]] ist gegeben. Die Kammer besteht aus Frau [[judge|Léanne Torfs]] (Präsidentin), Frau [[judge|Jedwizka Inglot]], Frau [[judge|Diana Vizi]], Herrn [[judge|Leon Angoulvant]] und Frau [[judge|Savka Jeger]]. Die Vorlagefragen betreffen die Auslegung des Unionsrechts, nicht die Anwendung auf den Sachverhalt.
 
 13. Die Gesellschaft [[organization|Slavíček]] stützt sich ferner auf die Urteile vom [[date|21. März 1977]], [[organization|Sadat]], [[case_number|299/77]], vom [[date|16. Mai 1973]], [[organization|Luger]], [[case_number|32/73]], und vom [[date|3. Oktober 1974]], [[organization|Makdissi]], [[case_number|278/74]]. Diese Urteile betreffen die Begründungspflicht der Verwaltung und sind auf den vorliegenden Fall übertragbar.
 
 V. Ergebnis
 
-14. Ich schlage dem Gerichtshof vor, auf die Vorlagefragen wie folgt zu antworten: Die Vorschriften über die Abwicklung sind dahin auszulegen, dass eine Übertragung von Vermögenswerten einer hinreichenden Begründung bedarf, die eine gerichtliche Kontrolle ermöglicht.
+14. Ich schlage dem [[court|Gerichtshof]] vor, auf die Vorlagefragen wie folgt zu antworten: Die Vorschriften über die Abwicklung sind dahin auszulegen, dass eine Übertragung von Vermögenswerten einer hinreichenden Begründung bedarf, die eine gerichtliche Kontrolle ermöglicht.
 
 15. Die Kosten des Verfahrens sind nicht erstattungsfähig, soweit sie die Regierungen betreffen.
 
-Luxemburg, den [[date|21. Mai 2026]]
+[[location|Luxemburg]], den [[date|21. Mai 2026]]
 
 [[judge|Jean Marc de Clermont]]
 Generalanwalt

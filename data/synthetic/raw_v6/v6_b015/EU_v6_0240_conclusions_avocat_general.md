@@ -27,7 +27,7 @@ II. Les faits
 
 6. [[organization|Textile Baudin]] a contesté la régularité de ce rapport, en soutenant qu'il avait été établi sans respecter la procédure contradictoire.
 
-7. La juridiction de renvoi a décidé de surseoir à statuer. Elle a interrogé la Cour sur l'étendue du contrôle exercé par les autorités des États membres.
+7. La juridiction de renvoi a décidé de surseoir à statuer. Elle a interrogé la Cour sur l'étendue du contrôle exercé par les autorités des États membres. La Cour, composée de M. [[judge|Noël Goldschmit]], président, de Mmes [[judge|Eudokia Szczepański]], [[judge|Catharina Haniel]] et [[judge|Vilma Kren]], et de M. [[judge|Rui Abranches]], juges, a été saisie de l'affaire.
 
 III. Les observations
 
