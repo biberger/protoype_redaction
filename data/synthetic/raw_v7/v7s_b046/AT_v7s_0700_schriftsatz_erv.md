@@ -86,7 +86,7 @@ Die Schriftsatzbeilagen werden in elektronischer Form übermittelt.
 
 14. Die Bäckerei der [[organization|BHG]] in [[location|Scheibbs]] wurde im Herbst 2025 umgebaut; die gelieferten Kühlanlagen sollten die Produktion des Betriebes sichern. Der Ausfall der Anlagen führt zu einem Gewinnentgang von rund EUR 3.200,00 monatlich, den die klagende Partei als Schaden geltend macht, soweit er nicht Gegenstand des Klagebegehrens ist. Dieser Anspruch wird vorbehalten.
 
-15. Die Klage richtet sich gegen beide Beklagten zur ungeteilten Hand, wobei die klagende Partei auf eine Teilung der Forderung nach Bürgschaftsanteilen verzichtet. Die Bürgschaftserklärung der zweiten Beklagten wurde am [[date|02.02.2026]] im Büro der [[organization|BHG]] unterfertigt und trägt das Datum des Vertragsabschlusses, weil die Haftungserklärung der zweiten Beklagten den Kaufpreis ausdrücklich umfasst. Die Übernahme der Haftung für einen fremden Vertrag ist nach dem Wortlaut der Erklärung nicht auf einen Teilbetrag beschränkt.
+15. Die Klage richtet sich gegen beide Beklagten zur ungeteilten Hand, wobei die klagende Partei auf eine Teilung der Forderung nach Bürgschaftsanteilen verzichtet. Die Haftungserklärung der zweiten Beklagten vom [[date|02.02.2026]] wurde im Büro der [[organization|BHG]] unterfertigt und umfasst den Kaufpreis ausdrücklich. Die Übernahme der Haftung für einen fremden Vertrag ist nach dem Wortlaut der Erklärung nicht auf einen Teilbetrag beschränkt.
 
 Die Klage wird durch die [[organization|DVOŘÁK KREBS]] RECHTSANWÄLTE GMBH erhoben.
 

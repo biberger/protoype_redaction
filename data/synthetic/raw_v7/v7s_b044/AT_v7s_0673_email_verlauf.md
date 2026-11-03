@@ -3,6 +3,23 @@ doc_type: email_verlauf
 jurisdiction: AT
 lang: de
 ---
+Von: [[lawyer|Rosamunda Pöttler]] <[[email|r.poettler@kauer.at]]>
+Gesendet: Freitag, [[date|12. Jänner 2024]] 09:05
+An: [[person|Lilliane Marcus]] <[[email|l.marcus@posteo.at]]>
+Cc: [[person|Cezmi Coşkan]] <[[email|c.coskan@kauer.at]]>
+Betreff: AW: Verfahren vor dem [[court|LG Salzburg]]
+
+Sehr geehrte Frau [[person|Marcus]],
+
+danke für die Kontoauszüge vom [[date|11. Jänner 2024]]. Die Einwendungen werden wir fristgerecht bis zum [[date|18. Jänner 2024]] einbringen. Wir werden darin darlegen, dass die Kaution vollständig zurückzuzahlen ist, weil die Schäden im Badezimmer nicht während Ihrer Mietzeit entstanden sind. Die Fotos der [[organization|RIG]] sind dafür entscheidend; sollte die Gegenseite sie nicht vorlegen, beantragen wir ihre Vorlage im Verfahren.
+
+Bitte bringen Sie das Original des Übergabeprotokolls zur Tagsatzung mit und vermerken Sie für Ihre Unterlagen, dass die Kaution am [[date|1. Juli 2023]] überwiesen wurde.
+
+Mit freundlichen Grüßen
+
+[[lawyer|Rosamunda Pöttler]]
+
+-----Ursprüngliche Nachricht-----
 Von: [[person|Lilliane Marcus]] <[[email|l.marcus@posteo.at]]>
 Gesendet: Donnerstag, [[date|11. Jänner 2024]] 08:30
 An: [[organization|Kauer & Karagiannis]] <[[email|office@kauer.at]]>

@@ -18,7 +18,7 @@ Am [[date|7. Oktober 2026]] gegen 07:15 Uhr kam es auf der Landesstraße im Orts
 
 Das vordere Fahrzeug mit dem Kennzeichen [[license_plate|BZ-73 P]] ist auf die [[organization|Steier KG]], [[company_register_number|FN 183966p]], UID [[tax_id|ATU91761521]] zugelassen. Der Lenker war Herr [[person|Ewald Weltsch]], geboren am [[date_of_birth|7. Juli 1949]]. Herr [[person|Weltsch]] ist StA: [[country|Afghanistan]] und legte eine Aufenthaltsberechtigungskarte vor. Die Haftpflichtversicherung besteht unter der Polizze [[other_identifier|33-1037373]]. Die [[organization|Steier]] hat den Schaden bereits der Versicherung gemeldet.
 
-Der nachfolgende Pkw wurde von Frau [[person|Malena Vacenovská]], geboren am [[date_of_birth|2. Juni 1958]], gelenkt. Frau [[person|Vacenovská]] ist StA: [[country|Türkei]]. Sie legte einen Reisepass mit der Nummer [[id_document_number|A1764219]] vor. Das Fahrzeug ist auf die Halterin zugelassen und war zum Unfallzeitpunkt nicht versichert gewesen.
+Der nachfolgende Pkw wurde von Frau [[person|Malena Vacenovská]], geboren am [[date_of_birth|2. Juni 1958]], gelenkt. Frau [[person|Vacenovská]] ist StA: [[country|Türkei]]. Sie legte einen Reisepass mit der Nummer [[id_document_number|A1764219]] vor. Das Fahrzeug ist auf die Halterin zugelassen. Die Haftpflichtversicherung unter der Polizzen-Nr. [[other_identifier|91-8726556]] war zum Unfallzeitpunkt bereits abgelaufen.
 
 Als Beifahrer befand sich Herr [[person|Christopher MMag. Marić]] im Fahrzeug der Frau [[person|Vacenovská]]. Herr [[person|Marić]] ist geboren am [[date_of_birth|23. August 1969]]. Er gab an, im Moment des Aufpralls nicht angeschnallt gewesen zu sein, und wurde deshalb vom einschreitenden Beamten belehrt. Er wies sich mit einem Personalausweis Nr. [[id_document_number|X9067249]] aus.
 
@@ -30,7 +30,7 @@ Die Beteiligten sind in folgender Tabelle erfasst:
 
 Nr. | Name | Geburtsdatum | Staatsangehörigkeit | Kennzeichen | Dokument
 1 | [[person|WELTSCH Ewald]] | [[date_of_birth|07.07.1949]] | [[country|Afghanistan]] | [[license_plate|BZ-73 P]] | AufK [[id_document_number|80560394]]
-2 | [[person|VACENOVSKÁ Malena]] | [[date_of_birth|02.06.1958]] | [[country|Türkei]] | nicht zugelassen | RP [[id_document_number|A1764219]]
+2 | [[person|VACENOVSKÁ Malena]] | [[date_of_birth|02.06.1958]] | [[country|Türkei]] | – | RP [[id_document_number|A1764219]]
 3 | [[person|MARIĆ Christopher]] | [[date_of_birth|23.08.1969]] | nicht angegeben | – | PA [[id_document_number|X9067249]]
 4 | [[person|WIELTSCHNIG Rosaria]] | [[date_of_birth|07.06.1986]] | [[country|Österreich]] | – | –
 5 | [[person|BECK Dominica]] | [[date_of_birth|01.01.1964]] | nicht angegeben | – | FS [[id_document_number|X8943253]]
