@@ -42,6 +42,12 @@ Am [[date|22. Mai 2024]] überwies der Beschuldigte EUR 4.800,00 an eine Honorar
 
 Am [[date|11. November 2024]] verfügte der Beschuldigte über den Restbetrag von EUR 6.100,00 zugunsten einer Gesellschaft, deren Name in den Kontounterlagen nicht aufscheint. Die [[organization|FKB]] hat diese Buchung mit einem Vermerk versehen.
 
+**2a. Vorbringen des Beschuldigten**
+
+Der Beschuldigte bestritt in der Verhandlung vom [[date|17. September 2026]] den Vorwurf der Verwahrungspflichtverletzung nicht vollständig, machte aber geltend, die Klientin habe den Auftrag zur Hinterlegung zurückgezogen. Ein schriftlicher Widerruf liegt nicht vor. Die Klientin hat dies ausdrücklich bestritten. Der Beschuldigte konnte auch nicht erklären, warum er Beträge am [[date|6. März 2025]] an eine Privatperson überwiesen hat, obwohl dies mit der Klientin nicht abgesprochen war.
+
+Der Kammeranwalt wies in der Verhandlung darauf hin, dass die Pflicht zur Verwahrung auch dann besteht, wenn der Klient keine ausdrückliche Anweisung zur Auszahlung erteilt hat. Der Senat schließt sich dieser Auffassung an.
+
 **3. Beweiswürdigung**
 
 Die Feststellungen beruhen auf den Kontoauszügen der [[organization|FKB]], der Aussage der Klientin und den Abrechnungsunterlagen des Beschuldigten. Die Honorarnote, auf die sich der Beschuldigte beruft, datiert erst vom [[date|3. Dezember 2024]], also nach der Überweisung. Eine rückwirkende Honorarnote kann die Verfügung nicht rechtfertigen.

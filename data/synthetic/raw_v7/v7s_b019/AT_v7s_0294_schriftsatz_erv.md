@@ -69,4 +69,6 @@ Tel. [[phone_number|+43-1-9183817 Durchwahl 73]]
 
 Die Beklagte wird unter der Anschrift [[address|Bahnweg 9, 2201 Gerasdorf]] zugestellt. Bei Unzustellbarkeit ersucht die Klägerin um Zustellung an die Adresse der Beklagten in [[location|St. Veit an der Glan]], wo die Beklagte bis zum Frühjahr 2026 gemeldet war.
 
+Die Klägerin hat die Beklagte zusätzlich mit anwaltlichem Schreiben vom [[date|20. Mai 2026]] zur Zahlung binnen 14 Tagen aufgefordert. Die Beklagte hat diese Aufforderung nicht beantwortet, sondern lediglich mitgeteilt, sie mache die Zahlung von einer vorherigen Instandsetzung der Heizungsanlage der Wohnung durch die Klägerin abhängig. Eine solche Verpflichtung besteht nach dem Mietvertrag nicht.
+
 Die Klage wurde über den ERV-Zugang der Kanzlei [[organization|Ertl & Hörhager]] eingebracht. Die Kanzlei [[organization|EH]] bestätigt den Eingang der Gegenschrift im Wege des ERV.

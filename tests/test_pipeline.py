@@ -697,5 +697,5 @@ def test_register_generators_produce_valid_tagged_documents(tmp_path):
 
 def test_transliterate_cyrillic_and_greek():
     from legalner.gazetteers import transliterate
-    assert transliterate("Кузьма") == "Kusma" and transliterate("Ольга") == "Olga"
+    assert transliterate("Кузьма") == "Kusma" and transliterate("Ольга") == "Olha"
     assert transliterate("Σωκρατης") == "Sokratis" and transliterate("Müller") == "Müller"

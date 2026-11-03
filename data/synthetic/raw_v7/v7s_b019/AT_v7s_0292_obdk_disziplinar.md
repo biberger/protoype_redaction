@@ -28,7 +28,7 @@ Die Rechtsanwältin [[lawyer|Ulrika Holzer]] ist schuldig, es als Vertreterin de
 
 **1. Verfahrensgang**
 
-Frau [[person|Albrectha Marcinkowska]] erstattete am [[date|4. August 2025]] bei der Kammer Anzeige gegen Rechtsanwältin [[lawyer|Ulrika Holzer]]. Die Anzeige betraf ein Treuhandkonto, auf das die Anzeigerin im Zusammenhang mit einer Erbschaftsangelegenheit insgesamt EUR 18.400,00 eingezahlt hatte. Der Kammeranwalt eröffnete daraufhin das Disziplinarverfahren.
+Frau [[person|Albrectha Marcinkowska]] erstattete am [[date|4. August 2025]] bei der Kammer Anzeige gegen Rechtsanwältin [[lawyer|Ulrika Holzer]]. Die Anzeige betraf ein Treuhandkonto, auf das die Anzeigerin im Zusammenhang mit einer Erbschaftsangelegenheit insgesamt EUR 18.400,00 eingezahlt hatte. Der Kammeranwalt eröffnete daraufhin das Disziplinarverfahren. Mit Beschluss vom [[date|20. August 2025]] wurde der Beschuldigten Gelegenheit gegeben, binnen vier Wochen Belege vorzulegen. Die Frist wurde zweimal verlängert, weil die Beschuldigte angab, die Unterlagen seien bei einem Umzug der Kanzlei verloren gegangen.
 
 Die Beschuldigte [[lawyer|Holzer]] verantwortete sich schriftlich am [[date|12. Oktober 2025]] dahin, die Gelder seien auf Weisung der Verlassenschaft verwendet worden. Eine solche Weisung wurde nicht vorgelegt.
 
@@ -57,6 +57,14 @@ Die Zeugin [[person|Marcinkowska]] schilderte die Einzahlungen glaubwürdig und 
 Nach [[legal_norm|§ 43a Abs 5 RAO]] hat der Rechtsanwalt die ihm anvertrauten Gelder getrennt von eigenen Mitteln zu verwahren und jederzeit nachweisbar zu verwalten. Die Verletzung dieser Pflicht ist ein Verstoß gegen die Berufspflichten nach [[legal_norm|§ 1 DSt]]. Die Beschuldigte hat durch die unterbliebene Buchführung gegen ihre Pflicht zur Ordnung der Kanzlei verstoßen.
 
 Der Hinweis auf eine Weisung der Verlassenschaft entlastet die Beschuldigte nicht. Eine solche Weisung hätte schriftlich vorliegen und in der Abrechnung ausgewiesen werden müssen. Die Behauptung ist daher als unbelegt zu werten.
+
+**4a. Zur Honorarvereinbarung**
+
+Der Beschuldigte behauptet, mit der Klientin sei am [[date|14. Februar 2024]] eine Pauschalhonorarvereinbarung über EUR 4.000,00 geschlossen worden. Eine schriftliche Vereinbarung liegt nicht vor. Die Klientin bestreitet das Zustandekommen einer solchen Vereinbarung und verweist darauf, dass in den Verrechnungsunterlagen keine Honorarnote mit dieser Summe aufscheint. Der Senat hält die Behauptung daher für nicht erwiesen. Selbst wenn eine solche Vereinbarung bestanden hätte, wäre sie ohne Abrechnung nicht geeignet, die Entnahme vom Anderkonto zu rechtfertigen, weil jede Entnahme eine fällige, bezifferte und nachgewiesene Forderung voraussetzt.
+
+**4b. Zur Verlassenschaft**
+
+Die Verlassenschaft hat mit Schreiben vom [[date|14. Mai 2025]] mitgeteilt, dass sie keine Weisung erteilt hat und an einer Abrechnung der Anderkonten interessiert ist. Das Schreiben wurde dem Senat vorgelegt.
 
 **5. Strafbemessung**
 

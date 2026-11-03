@@ -43,6 +43,8 @@ Unsere Mandantin verlangt daher:
 
 Bei Fristversäumnis wird die Klage beim [[court|Bezirksgericht Floridsdorf]] eingebracht. Die Klage wird über den ERV eingereicht werden. Wir weisen darauf hin, dass der Streitwert die Zuständigkeit des [[court|BG Floridsdorf]] begründet.
 
+Das Gutachten der Sachverständigen [[person|Kristofics-Binder]] vom [[date|14. Mai 2026]] wurde am [[date|21. Mai 2026]] durch einen Ortsaugenschein ergänzt. Dabei wurde festgestellt, dass die Anschlüsse der Dachabdichtung an die Attikaverblechung nicht ausgeführt wurden. Die Gesellschaft hat das Gutachten nicht bestritten, sondern lediglich darauf verwiesen, dass die Bauherrin die Fenster selbst ausgetauscht habe. Eine Rechnung dafür liegt nicht vor, die Behauptung ist daher unbelegt.
+
 Die Versicherung der Gesellschaft ist uns nicht bekannt. Die [[organization|Ladner]] wird ersucht, uns die Haftpflichtpolizze binnen einer Woche bekannt zu geben. Die Gutachterin [[person|Kristofics-Binder]] steht für Rückfragen zur Verfügung.
 
 Ein Mitarbeiter der Gesellschaft hat die Mutter der Auftraggeberin, [[person|Annely Overhoff]], GEB: [[date_of_birth|19.09.1948]], als Zeugin genannt. Frau [[person|Overhoff]] hat jedoch nur den Zustand der Terrasse nach der Fertigstellung beobachtet.

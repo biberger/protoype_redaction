@@ -44,23 +44,23 @@ Am [[date|14. Juni 2024]] überwies der Beschuldigte EUR 3.500,00 an die [[organ
 
 Am [[date|18. Februar 2025]] verfügte die [[organization|VKG]] über den Restbetrag von EUR 6.500,00 zur Deckung eines Honorars. Eine Abrechnung an [[person|Ljubo Camber]] erfolgte nicht.
 
-Die Treuhandverwaltung ist in den Büchern der Kanzlei nur lückenhaft dokumentiert. Die Kontoauszüge zeigen, dass die Einzahlung des Anzeigers nicht vollständig nachvollziehbar ist.
+Die Treuhandverwaltung ist in den Büchern der Kanzlei nur lückenhaft dokumentiert. Am [[date|9. Juli 2024]] verlangte [[person|Ljubo Camber]] schriftlich eine Abrechnung. Eine Antwort blieb aus. Am [[date|5. Oktober 2024]] erklärte der Beschuldigte telefonisch gegenüber dem Anzeiger, die Gelder seien für die Vorbereitung des Kaufvertrags verwendet worden, eine Abrechnung werde folgen. Eine solche wurde nicht vorgelegt. Die Kontoauszüge zeigen, dass die Einzahlung des Anzeigers nicht vollständig nachvollziehbar ist.
 
 Der Anzeiger brachte am [[date|29. April 2025]] eine ergänzende Stellungnahme ein. Darin führte er aus, er habe die Einzahlung ausschließlich auf Anraten des Beschuldigten vorgenommen, der ihm einen Kaufvertrag über die Liegenschaft in Aussicht gestellt habe. Eine schriftliche Ausfertigung dieses Vertrags wurde nie übermittelt. Die [[organization|VKG]] hat hierzu keine Stellungnahme abgegeben, obwohl sie dazu zweimal aufgefordert wurde.
 
 **III. Beweiswürdigung**
 
-Die Feststellungen gründen sich auf die vorgelegten Kontoauszüge, die Einvernahme des Anzeigers und das Protokoll der Hausdurchsuchung. Die Verantwortung des Beschuldigten, es habe sich um eine Fehlüberweisung gehandelt, ist durch keine Urkunde gedeckt. Die Aussage des Anzeigers ist glaubwürdig und in den wesentlichen Punkten durch die Auszüge bestätigt.
+Die Feststellungen gründen sich auf die vorgelegten Kontoauszüge, die Einvernahme des Anzeigers und das Protokoll der Hausdurchsuchung. Die Verantwortung des Beschuldigten, es habe sich um eine Fehlüberweisung gehandelt, ist durch keine Urkunde gedeckt. Die Aussage des Anzeigers ist glaubwürdig und in den wesentlichen Punkten durch die Auszüge bestätigt. Der Senat hat die Behauptung einer Fehlüberweisung insbesondere deshalb nicht übernommen, weil die Überweisung vom 14. Juni 2024 an die VKG ausdrücklich als Zahlung für eine Forderung bezeichnet war.
 
 **IV. Rechtliche Beurteilung**
 
 Gemäß [[legal_norm|§ 43a Abs 3 RAO]] hat der Rechtsanwalt Klientengelder unverzüglich an den Berechtigten weiterzuleiten. Das Verhalten des Beschuldigten erfüllt den Tatbestand der Verletzung der Berufspflichten. Die Behauptung einer Fehlüberweisung hat sich nicht bestätigt, weil die [[organization|VKG]] keine entsprechende Rückforderung gestellt hat.
 
-Der Senat erachtet einen Verstoß gegen [[legal_norm|§ 1 Abs 1 DSt]] als erwiesen. Der Umstand, dass der Beschuldigte den Betrag inzwischen teilweise zurückgezahlt hat, ist mildernd zu berücksichtigen.
+Der Senat erachtet einen Verstoß gegen [[legal_norm|§ 1 Abs 1 DSt]] als erwiesen. Die Verpflichtung zur Abrechnung hängt nicht davon ab, ob der Klient ausdrücklich Auskunft verlangt. Die Abrechnung ist aus eigenem Antrieb zu erstellen, sobald die Gelder fällig werden. Der Umstand, dass der Beschuldigte den Betrag inzwischen teilweise zurückgezahlt hat, ist mildernd zu berücksichtigen.
 
 **V. Strafbemessung**
 
-Die Geldbuße wurde unter Berücksichtigung der bisherigen Unbescholtenheit und der Schwere des Verstoßes bemessen. Erschwerend wirkt die Dauer der Vorenthaltung. Eine Streichung aus der Liste kommt nicht in Betracht, weil der Beschuldigte die Vorwürfe nicht eingestanden hat.
+Die Geldbuße wurde unter Berücksichtigung der Verfahrensdauer von rund zwei Jahren, die nicht allein dem Beschuldigten zuzurechnen ist, und der bisherigen Unbescholtenheit und der Schwere des Verstoßes bemessen. Erschwerend wirkt die Dauer der Vorenthaltung. Eine Streichung aus der Liste kommt nicht in Betracht, weil der Beschuldigte die Vorwürfe nicht eingestanden hat.
 
 **VI. Kosten**
 

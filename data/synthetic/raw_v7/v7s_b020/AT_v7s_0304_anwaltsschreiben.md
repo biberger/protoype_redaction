@@ -26,7 +26,7 @@ Sehr geehrte Damen und Herren,
 
 wir vertreten die [[organization|Schleinzer Handels GmbH]], [[company_register_number|FN 142985y]], UID: [[tax_id|ATU66899065]], in der oben angeführten Angelegenheit. Unsere Mandantschaft wurde durch den Brand in der Lagerhalle auf dem Grundstück [[land_register_id|2481/Deutschlandsberg]] [[land_register_id|Gst-Nr. 1340]] geschädigt. Der Brand brach am [[date|18.09.2026]] aus, als ein Staplerakku während des Ladevorgangs überhitzte.
 
-Die Schadensmeldung ging am [[date|21.09.2026]] bei Ihrem Haus ein. Ihre Versicherungsnehmerin ist die Firma, die den Stapler gewartet hat. Der Versicherungsschutz für diesen Vorfall ergibt sich aus der Polizzen-Nr. [[other_identifier|19-3120655]]. Die Gebäudeversicherung unserer Mandantin ist unter der Polizzen-Nr. [[other_identifier|77-7573727]] geführt.
+Die Schadensmeldung ging am [[date|21.09.2026]] bei Ihrem Haus ein. Die Schadenshöhe beziffern wir vorläufig wie folgt: Warenlager 186.400 Euro, Produktionsausfall 58.900 Euro, Räumungskosten 12.350 Euro, insgesamt 257.650 Euro. Die Zahlen beruhen auf den Inventurlisten des Geschäftsjahres 2025 und werden durch die Buchhaltung der Mandantin bestätigt. Eine endgültige Berechnung behalten wir uns vor. Ihre Versicherungsnehmerin ist die Firma, die den Stapler gewartet hat. Der Versicherungsschutz für diesen Vorfall ergibt sich aus der Polizzen-Nr. [[other_identifier|19-3120655]]. Die Gebäudeversicherung unserer Mandantin ist unter der Polizzen-Nr. [[other_identifier|77-7573727]] geführt.
 
 Die [[organization|Schleinzer Handels GmbH]] (in der Folge kurz [[organization|SHG]]) macht folgende Schäden geltend: Totalschaden des Warenlagers, Ausfall der Produktion für sechs Wochen sowie die Kosten der Räumung. Die [[organization|SHG]] hat dazu eine Aufstellung vorgelegt, die wir gerne übermitteln.
 
@@ -34,7 +34,7 @@ Die Haftung des Herstellers des Akkus ergibt sich aus dem [[legal_norm|Produktha
 
 Der Geschäftsführer der [[organization|SHG]], Herr [[person|Hanspeter Kolisch]], StA. [[country|Italien]], hat die Gefahr des Brandes am Vortag selbst bemerkt. Herr [[person|Edoardo Kabas]], StA. [[country|Rumänien]], ist als Lagerleiter für den Staplereinsatz verantwortlich. Die beiden Zeugen stehen für eine Befragung zur Verfügung.
 
-Die Kundin [[organization|Schleinzer Handels GmbH]] hat über ihre Kunden-Nr. [[other_identifier|495540]] Lieferungen an mehrere Abnehmer getätigt. Diese Lieferungen wurden durch den Brand unterbrochen.
+Die Kundin [[organization|Schleinzer Handels GmbH]] hat über ihre Kunden-Nr. [[other_identifier|495540]] Lieferungen an mehrere Abnehmer getätigt. Diese Lieferungen wurden durch den Brand unterbrochen. Besonders betroffen sind Abnehmer in der Steiermark und in Kärnten, denen vertraglich Pönalen für verspätete Lieferungen drohen. Die daraus entstehenden Forderungen werden wir gesondert geltend machen, sofern sie nicht bereits im Schaden enthalten sind.
 
 Eine Stellungnahme erwarten wir bis zum [[date|13.11.2026]]. Zur Abstimmung der Schadenshöhe steht Ihnen Frau [[person|Weichselbaumer]] in unserer Kanzlei zur Verfügung. Unsere Kollegin [[person|van Oosterhout]] übernimmt die Korrespondenz mit den Sachverständigen. Der Standort der Mandantin befindet sich in [[address|4421 Aschach an der Steyr]], wo die Begehung der Halle stattfinden kann.
 

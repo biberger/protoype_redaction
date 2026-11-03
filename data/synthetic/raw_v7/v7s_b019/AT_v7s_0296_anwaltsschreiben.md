@@ -36,6 +36,8 @@ Herr [[person|Solar]]: Heilungskosten EUR 1.240,00, Schmerzengeld EUR 4.500,00
 Herr [[person|Assi]]: Verdienstentgang EUR 2.980,00, Fahrzeugschaden EUR 6.100,00
 Frau [[person|Kirchberger]]: Schmerzengeld EUR 3.200,00, Fahrtkosten EUR 310,00
 
+Der Unfall ereignete sich bei Tageslicht und trockener Fahrbahn. Die Polizeiinspektion hat den Unfallort am [[date|12. Juli 2026]] aufgenommen und eine Skizze angefertigt, die dem Bericht beiliegt. Der Lenker des Lieferwagens hat bei der Aufnahme eingeräumt, dass er den vorfahrtsberechtigten Pkw nicht gesehen hat. Frau [[person|Roselita Kirchberger]] hat ein Schleudertrauma erlitten, das durch den Arztbericht vom [[date|17. Juli 2026]] belegt ist. Herr [[person|Solar]] wurde zur stationären Beobachtung aufgenommen und konnte erst am [[date|20. Juli 2026]] wieder entlassen werden. Herr [[person|Assi]] war seit dem Unfall arbeitsunfähig, sein Dienstgeber hat den Verdienstentgang bestätigt.
+
 Wir fordern Sie auf, die Ansprüche bis spätestens [[date|15. September 2026]] anzuerkennen. Ein Vergleichsangebot unserer Mandanten liegt bei und ist bis zu diesem Datum gültig.
 
 Das zuständige Gericht ist das [[court|Bezirksgericht Vöcklabruck]]. Sollte keine Einigung erzielt werden, werden wir die Klage beim [[court|BG Vöcklabruck]] einbringen. Die Zuständigkeit ergibt sich aus dem Unfallort und dem Wohnsitz der Mandanten.
