@@ -46,7 +46,7 @@ II a. Dienstbarkeiten und Nachbarschaft
 
 Die Verkäuferin hat mit dem Eigentümer des Nachbargrundstückes eine Vereinbarung über die gemeinsame Nutzung der Zufahrt getroffen. Diese Vereinbarung wird von den Käufern übernommen und ist im Grundbuch ersichtlich. Die Käufer verpflichten sich, die Zufahrt in einem Zustand zu halten, der den Anforderungen der Nachbarschaft entspricht; die Kosten der Schneeräumung werden von den Käufern im Verhältnis ihrer Anteile getragen.
 
-Ein Vorkaufsrecht zugunsten Dritter besteht nicht. Die Käufer haben die Liegenschaften vor Vertragsabschluss gemeinsam mit einem Vertreter der Verkäuferin begangen; dabei wurde festgestellt, dass der Zaun entlang der Grenze zum Nachbargrundstück erneuert werden muss. Die Kosten dieser Erneuerung trägt die Verkäuferin bis zur Höhe von EUR 4.200,00, darüber hinausgehende Kosten gehen zu Lasten der Käufer. Die Käufer haben von dem Umstand Kenntnis, dass auf dem Nachbargrundstück ein Leitungsrecht für eine Wasserleitung eingeräumt ist, das im Grundbuch eingetragen ist. Die Verkäuferin erklärt, dass ihr keine weiteren Dienstbarkeiten bekannt sind.
+Ein Vorkaufsrecht zugunsten Dritter besteht nicht. Die Käufer haben die Liegenschaften vor Vertragsabschluss gemeinsam mit einem Vertreter der Verkäuferin begangen; dabei wurde festgestellt, dass der Zaun entlang der Grenze zum Nachbargrundstück erneuert werden muss. Die Kosten dieser Erneuerung trägt die Verkäuferin bis zur Höhe von EUR 4.200,00, darüber hinausgehende Kosten gehen zu Lasten der Käufer. Die Käufer haben von dem Umstand Kenntnis, dass auf dem Nachbargrundstück ein Leitungsrecht für eine Wasserleitung eingeräumt ist, das im Grundbuch eingetragen ist. Die Verkäuferin erklärt, dass ihr keine weiteren Dienstbarkeiten bekannt sind und dass vor diesem Vertrag keine weiteren Kaufangebote für die Liegenschaften bestanden haben.
 
 III. Kaufpreis
 
@@ -67,7 +67,7 @@ nach Eintragung des Eigentumsrechtes | 81.500,00 | Anderkonto der Kanzlei
 
 IV. Aufsandung
 
-Die Verkäuferin erteilt die Aufsandungserklärung zugunsten der Käufer zu je einem Drittel. Die Käufer nehmen die Erklärung an und beauftragen die Kanzlei mit der Einbringung des Eintragungsgesuches beim [[court|Bezirksgericht Ried im Innkreis]], soweit das Grundbuch dort geführt wird. Die Kosten der Eintragung trägt der Käufer.
+Die Verkäuferin erteilt die Aufsandungserklärung zugunsten der Käufer zu je einem Drittel. Die Käufer nehmen die Erklärung an und beauftragen die Kanzlei mit der Einbringung des Eintragungsgesuches beim zuständigen Grundbuchsgericht. Die Kosten der Eintragung trägt der Käufer.
 
 V. Besitzübergang
 

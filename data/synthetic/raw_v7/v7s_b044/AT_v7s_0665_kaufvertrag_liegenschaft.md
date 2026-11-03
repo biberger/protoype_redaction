@@ -19,7 +19,11 @@ I. Vertragsparteien
 
 1. Verkäuferin ist die [[organization|Riedl Handels GmbH]] ([[company_register_number|FN 570356i]], UID: [[tax_id|ATU93837545]]), vertreten durch ihren Geschäftsführer [[person|Donald Goldschmidt]], geboren am [[date_of_birth|19.04.1994]].
 
-2. Käuferinnen sind je zur Hälfte Frau [[person|Menekşe Soykan]], Geburtsdatum: [[date_of_birth|1958-05-07]], und Frau [[person|Edgarda Celentano]], geb [[date_of_birth|26.10.1979]], beide wohnhaft in der Gemeinde [[location|Hardegg]].
+2. Käuferinnen sind je zur Hälfte
+[[person|Menekşe Soykan]], Geburtsdatum: [[date_of_birth|1958-05-07]], wohnhaft in
+[[address|Kirchenplatz 2,
+2082 Hardegg]], und
+[[person|Edgarda Celentano]], geb [[date_of_birth|26.10.1979]], wohnhaft in der Gemeinde [[location|Hardegg]].
 
 3. Der Miteigentumsanteil der Verkäuferin an der Liegenschaft wird mit Zustimmung von [[person|Robinson Fridolina]], geboren am [[date_of_birth|27.07.1951]], übertragen, die als Einverleibungsbegünstigte dem Vertrag beitritt.
 

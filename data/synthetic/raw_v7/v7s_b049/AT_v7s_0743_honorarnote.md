@@ -33,7 +33,7 @@ Summe netto: EUR 1.386,90
 zuzüglich 20 % USt: EUR 277,38
 Gesamtbetrag: EUR 1.664,28
 
-Wir bitten um Überweisung des Gesamtbetrages innerhalb von 14 Tagen auf unser Konto IBAN [[bank_account|AT71 5408 4856 3541 8534]]. Bitte geben Sie bei der Zahlung die Kl.-Nr. [[other_identifier|87087]] an.
+Wir bitten um Überweisung des Gesamtbetrages innerhalb von 14 Tagen auf unser Konto IBAN [[bank_account|AT71 5408 4856 3541 8534]]. Bitte geben Sie bei der Zahlung die Kl.-Nr. [[other_identifier|87087]] an. Rückfragen zur Abrechnung richten Sie bitte an Tel. [[phone_number|+43 5572 357 92 29 DW 690]].
 
 Mit freundlichen Grüßen
 

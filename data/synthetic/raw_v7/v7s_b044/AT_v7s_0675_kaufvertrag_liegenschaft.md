@@ -22,7 +22,10 @@ I. Vertragsparteien
 1. Verkäuferin ist Frau [[person|Nena Ennemoser]], wohnhaft in [[address|Dorfstraße 12,
 5561 Untertauern]], Eigentümerin der nachstehend genannten Liegenschaft.
 
-2. Käuferin ist die [[organization|Herzstark Bau GmbH]] ([[company_register_number|FN 118367w]], UID: [[tax_id|ATU94753115]]), vertreten durch ihren Geschäftsführer [[person|Sammy Rothstein]], geb [[date_of_birth|23.09.1973]].
+2. Käuferin ist die [[organization|Herzstark Bau GmbH]] ([[company_register_number|FN 118367w]], UID: [[tax_id|ATU94753115]]), vertreten durch ihren Geschäftsführer [[person|Sammy Rothstein]], geb
+[[date_of_birth|23.09.1973]], wohnhaft in
+[[address|Lärchenweg 7,
+5561 Untertauern]].
 
 3. Die Käuferin erklärt, dass sie den Kaufgegenstand zu Zwecken der Errichtung eines Wohnhauses erwirbt. Die Vertragsparteien halten fest, dass die Zustimmung der Grundverkehrsbehörde für den Erwerb durch eine juristische Person erforderlich ist und dass die Käuferin diese Genehmigung auf eigene Kosten zu beantragen hat. Die [[organization|Herzstark]] verpflichtet sich, die Baugenehmigung binnen zwölf Monaten einzureichen.
 
