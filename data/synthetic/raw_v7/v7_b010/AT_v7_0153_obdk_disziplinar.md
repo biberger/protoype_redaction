@@ -40,6 +40,12 @@ Der Beschuldigte [[person|Münzer]] bestreitet, die Gelder für [[organization|M
 
 Die [[organization|Finanzmarktaufsicht]] hat die Ermittlungen unterstützt und Kontounterlagen übermittelt. Die Zusammenarbeit war unproblematisch. Die Eingabe der [[organization|FMA]] ist daher zulässig.
 
+**Rechtliche Würdigung der Gebühren**
+
+Die Gebühr von 1.250 Euro, die am [[date|15.05.2023]] an [[organization|Müller]] ging, ist im Honorarvertrag nicht vorgesehen. Der Beschuldigte hat den Vertrag am [[date|10.01.2023]] unterzeichnet; eine Gebührenregelung für Zwischenabrechnungen fehlt darin. Dies ist eine weitere Pflichtverletzung, die der Senat berücksichtigt.
+
+Die Abrechnung war gegenüber [[person|Zweig]] nicht nachvollziehbar, weil sie nur den Endbetrag enthielt. [[person|Zweig]] hatte um eine Einzelaufstellung gebeten, die bis zum Abschluss des Verfahrens nicht übermittelt wurde.
+
 **Spruch**
 
 Der Beschuldigte wird schuldig erkannt. Er wird mit einer Geldbuße belegt. Die Kosten des Verfahrens trägt der Beschuldigte.

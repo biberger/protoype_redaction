@@ -43,6 +43,14 @@ Die Beklagten haften nach [[legal_norm|§ 1295 Abs 1 ABGB]] und dem Werkvertrag.
 
 Die Zuständigkeit des [[court|LG Salzburg]] ergibt sich aus dem Wohnsitz des Beklagten und aus [[legal_norm|§ 88 JN]]. Die Klage ist innerhalb der Verjährungsfrist des [[legal_norm|§ 1489 ABGB]] eingebracht.
 
+**III a. Ergänzende Ausführungen**
+
+Der Beklagte [[person|Kittinger]] hat die Bauleitung am [[date|03.04.2024]] übernommen und in seinem Schreiben vom [[date|17.06.2024]] zugesagt, die Feuchtigkeitsmessungen selbst vorzunehmen. Diese Zusage wurde nicht eingehalten. Die Messungen wurden erst am [[date|21.10.2025]] durch den Zeugen [[person|Hagspiel]] nachgeholt.
+
+Der Sachverständige [[person|DI Ferdinand Wallner]] hat in seinem Gutachten festgestellt, dass die Dachkonstruktion ohne Abdichtung errichtet wurde. Die Sanierungskosten betragen nach dem Kostenvoranschlag EUR 18.400,00 netto. Der Kläger hat die Arbeiten teilweise selbst beauftragt, um weitere Schäden zu verhindern; die Rechnungen sind als Beilage ./E angeschlossen.
+
+Die [[organization|TMB]] hat mit Schreiben vom [[date|09.09.2024]] das Angebot für die Abdichtung unterbreitet. Der Kläger hat dieses Angebot aus Kostengründen nicht angenommen. Der Zeuge [[person|Boehm]] hat die Abnahme ausdrücklich verweigert.
+
 **IV. Anträge**
 
 Der Kläger stellt daher die Anträge,

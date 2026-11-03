@@ -43,6 +43,12 @@ Die Versicherung hat die Regulierung mit Schreiben vom [[date|18.07.2025]] abgel
 
 Zur Frage der Mängelhaftigkeit der Leistung regen wir die Bestellung des Sachverständigen [[person|Dre Van Hees]] durch das [[court|BG Tulln]] an. Dessen Fachkunde bezieht sich auf Bautechnik im ländlichen Raum; er ist in [[location|St. Andrä]] tätig und unter Tel. [[phone_number|+43-2742-1777294 DW 327]] erreichbar.
 
+**3a. Ergänzendes Vorbringen**
+
+Die [[organization|MUE]] hat die Lieferung ursprünglich für den [[date|28.03.2025]] zugesagt und erst am [[date|11.04.2025]] durchgeführt. Die Zeugin [[person|Fasal]] hat dies bestätigt. Der Zeuge [[person|Us]], erreichbar unter [[address|Hauptplatz 3, 3430 Tulln]], hat ausgesagt, dass die Beklagte [[person|Hager]] die Ware am Lieferort nicht abgenommen hat.
+
+Die Gegenforderung ist nach [[legal_norm|§ 1295 ABGB]] und [[legal_norm|§ 1311 ABGB]] begründet. Die [[organization|MUE]] hat den Schaden mit Schreiben vom [[date|02.05.2025]] anerkannt, dieses Anerkenntnis aber später widerrufen.
+
 **4. Anträge**
 
 Die beklagten Parteien beantragen,

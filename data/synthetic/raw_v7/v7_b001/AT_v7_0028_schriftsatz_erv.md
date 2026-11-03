@@ -55,6 +55,12 @@ Die Beklagte [[person|Misar]] bestreitet die Wirksamkeit der Abrechnung. Die Bek
 
 Die Mieterin [[person|Nimmervoll]], StA: [[country|Tschechien]], wohnt seit dem Jahr 2020 in [[address|Stammersdorfer Straße 40, 1210 Wien]]. [[person|Koolhaas]] hat die Zahlung mit Schreiben vom [[date|12.05.2026]] angekündigt, aber nicht geleistet.
 
+**III a. Zur Lift-Reparatur**
+
+Die Reparatur des Lifts wurde am [[date|03.06.2026]] beauftragt und am [[date|30.06.2026]] abgeschlossen. Der Beklagte [[person|Cartellieri]] hat die Kosten im Hausverwaltungsbeirat am [[date|10.06.2026]] beanstandet. Die Beklagte [[person|Misar]] verweist auf das Protokoll der Eigentümerversammlung vom [[date|27.05.2026]], das keine Zustimmung enthält.
+
+Die Beklagte [[person|Nimmervoll]] hat die Vorlage der Belege verlangt; die [[organization|WAG]] hat diese mit Schreiben vom [[date|15.07.2026]] übermittelt. Eine Mietzinsminderung nach [[legal_norm|§ 1096 ABGB]] ist für den Zeitraum vom [[date|01.01.2026 bis 30.06.2026]] nicht gerechtfertigt.
+
 **IV. Anträge**
 
 Die klagende Partei beantragt,

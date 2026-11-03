@@ -64,6 +64,14 @@ Die [[organization|VdT]] hat die Stellungnahme vom [[date|14.07.2024]] vorgelegt
 
 Der Beschuldigte hat in der mündlichen Verhandlung am [[date|10.12.2025]] erklärt, er habe die Angelegenheit intern prüfen lassen. Eine Prüfung ist nicht dokumentiert.
 
+**Rechtliche Würdigung**
+
+Die Belastung der Liegenschaft ist nach dem Treuhandvertrag nur mit Zustimmung der Mandantin zulässig. Der Vertrag mit [[person|Swarovski]] enthält eine entsprechende Klausel, die der Beschuldigte selbst entworfen hat. Die Berufung auf eine mündliche Zustimmung widerspricht dem Vertragstext und wird daher nicht berücksichtigt.
+
+Die Abrechnung an [[person|Uher]] enthält zudem eine Position, die keiner Leistung zugeordnet werden kann. Der Betrag von 5.000 Euro wurde am [[date|27.11.2023]] ausbezahlt, obwohl die Treuhandeinlage nach Angaben der [[organization|Wurst]] erst im Februar 2024 fällig war. Dieser Umstand verstärkt den Vorwurf der unzureichenden Information.
+
+Die Kammer hat die Anzeige der [[organization|VdT]] als fristgerecht gewertet. Die Frist lief bis zum [[date|30.06.2024]]; die Anzeige ging am [[date|09.04.2024]] ein.
+
 **Spruch**
 
 Der Beschuldigte wird schuldig erkannt. Er wird mit einer Geldbuße belegt. Die Kosten des Verfahrens trägt der Beschuldigte.

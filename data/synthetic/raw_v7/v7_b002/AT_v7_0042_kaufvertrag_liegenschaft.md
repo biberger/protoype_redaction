@@ -47,6 +47,10 @@ IV. Schlussbestimmungen
 
 Die Parteien erklären, dass keine mündlichen Nebenabreden bestehen. Änderungen bedürfen der Schriftform.
 
+Die Verkäuferin verpflichtet sich, alle nicht übernommenen Pfandrechte und Dienstbarkeiten bis zur Übergabe löschen zu lassen. Die Vertragsparteien erteilen der Kanzlei Vollmacht, alle für die Durchführung des Vertrages erforderlichen Erklärungen abzugeben und Eintragungen zu beantragen.
+
+Sollte eine Bestimmung dieses Vertrages unwirksam sein, berührt dies die übrigen Bestimmungen nicht. Die Parteien ersetzen die unwirksame Bestimmung durch eine wirksame, die dem wirtschaftlichen Zweck am nächsten kommt.
+
 Ausgefertigt in [[location|Mooskirchen]], am [[date|10. März 2026]].
 
 Verkäuferin: [[person|Bronislawa Schlegel]]

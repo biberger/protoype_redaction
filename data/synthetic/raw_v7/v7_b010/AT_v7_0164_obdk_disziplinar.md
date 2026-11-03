@@ -84,6 +84,12 @@ Die Berufung rügt die Höhe der Geldbuße und die Annahme einer Vertretung beid
 
 Die Kosten des Verfahrens sind nach dem Ergebnis der Berufung zu verteilen. Die Anteile des Beschuldigten an den Verfahrenskosten werden daher auf die Hälfte festgesetzt.
 
+**Rechtliche Würdigung der Vorverträge**
+
+Die Vorverträge zwischen dem Mandanten [[person|Troger]] und der [[organization|Turracher Holzbau]] begründeten eine Interessenkollision, die der Beschuldigte hätte offenlegen müssen. Die Vertretung der Mandantin [[person|Piëch]] bei gleichzeitiger Beratung des Käufers ist nach den Berufspflichten nur mit schriftlicher Zustimmung beider Parteien zulässig. Eine solche Zustimmung wurde nicht eingeholt.
+
+Die [[organization|LVH]] hat in ihrer Stellungnahme darauf verwiesen, dass die Gewährleistungsfrist bis zum [[date|30.04.2025]] läuft. Der Senat berücksichtigt dies bei der Bemessung der Geldbuße, weil der Schaden der Mandantin noch nicht endgültig feststeht. Der Beschuldigte ist als Anwalt beider Seiten aufgetreten; der Senat sieht die Pflichtverletzung deshalb als schwerwiegend an.
+
 **Spruch**
 
 Der Berufung wird teilweise Folge gegeben. Die Geldbuße wird herabgesetzt. Im Übrigen wird die Berufung abgewiesen.

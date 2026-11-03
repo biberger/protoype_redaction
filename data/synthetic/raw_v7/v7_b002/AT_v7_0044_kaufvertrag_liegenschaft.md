@@ -56,6 +56,14 @@ Die Parteien erhalten je eine Ausfertigung; ein Exemplar wird der Gemeinde in [[
 
 Für Rückfragen steht die Kanzlei unter Tel. [[phone_number|02742/1849520-53]] zur Verfügung.
 
+Die Verkäuferin verpflichtet sich, alle nicht übernommenen Pfandrechte und Dienstbarkeiten bis zur Übergabe löschen zu lassen. Soweit Belastungen nicht rechtzeitig gelöscht werden können, ist der entsprechende Betrag vom Kaufpreis einzubehalten und auf dem Treuhandkonto zu verwahren.
+
+Die Übergabe erfolgt mit der Zahlung des Restkaufpreises. Nutzen und Lasten gehen mit dem Übergabestichtag auf die Käufer über. Die Verkäuferin übergibt die Liegenschaft geräumt, soweit nicht anders vereinbart.
+
+Auf diesen Vertrag ist österreichisches Recht anzuwenden. Für Streitigkeiten aus diesem Vertrag ist das sachlich und örtlich zuständige Gericht am Sitz der Liegenschaft zuständig, soweit kein zwingender Gerichtsstand entgegensteht.
+
+Die Kosten der Errichtung des Vertrages tragen Käufer und Verkäuferin je zur Hälfte, sofern nicht anders vereinbart. Die Kosten der Löschung von Pfandrechten trägt die Verkäuferin.
+
 Ausgefertigt in [[location|Kundl]], am [[date|2. April 2026]].
 
 Verkäuferin: [[person|Hildburg Matzke]]

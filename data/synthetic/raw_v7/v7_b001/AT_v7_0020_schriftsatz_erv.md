@@ -41,6 +41,12 @@ Das Lager befindet sich auf der Liegenschaft [[land_register_id|EZ 2125]] Grundb
 
 Für Rückfragen steht [[lawyer|Dachs]] unter Tel. [[phone_number|0512 379855-7]] zur Verfügung. Die Bankverbindung der [[organization|Stoll]] lautet IBAN [[bank_account|AT73 7850 9834 2481 0515]].
 
+**4a. Zur Arbeitszeit**
+
+Die Klägerin hat an den Tagen [[date|06.05.2025]] und [[date|13.05.2025]] Dienstzeiten nach 18:00 Uhr angegeben. Die Aufzeichnungen sind für diese Tage lückenhaft. Der Zeuge [[person|Petrache]] hat in seiner Stellungnahme vom [[date|02.06.2025]] bestätigt, dass die Klägerin die Filiale selbstständig geschlossen hat.
+
+Die [[organization|Stoll]] hat die Überstunden vom [[date|01.06.2025]] nicht vergütet, weil keine Anordnung vorlag. Die Klägerin war insoweit nicht weisungsgebunden.
+
 **5. Anträge**
 
 Die beklagte Partei beantragt,

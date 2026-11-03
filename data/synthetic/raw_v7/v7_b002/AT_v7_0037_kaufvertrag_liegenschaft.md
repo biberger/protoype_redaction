@@ -61,6 +61,8 @@ VI. Schlussbestimmungen
 
 Änderungen dieses Vertrages bedürfen der Schriftform. Die Vertragsteile erhalten je eine Ausfertigung.
 
+Sollte eine Bestimmung dieses Vertrages unwirksam sein, berührt dies die übrigen Bestimmungen nicht. Die Kosten der Errichtung des Vertrages tragen Käufer und Verkäufer je zur Hälfte, sofern nicht anders vereinbart.
+
 Ausgefertigt in [[location|Großlobming]], am [[date|20. Februar 2026]].
 
 Verkäufer: [[person|Berndt Schmitt]]

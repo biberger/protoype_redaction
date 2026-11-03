@@ -57,6 +57,10 @@ IV. Schlussbestimmungen
 
 Änderungen bedürfen der Schriftform. Für Rückfragen steht die Kanzlei unter Tel. [[phone_number|0463 642332-3]] zur Verfügung.
 
+Die Verkäuferin verpflichtet sich, alle nicht übernommenen Pfandrechte und Dienstbarkeiten bis zur Übergabe löschen zu lassen. Die Kosten der Löschung trägt die Verkäuferin.
+
+Die Kosten der Errichtung des Vertrages tragen Käuferinnen und Verkäuferin je zur Hälfte, sofern nicht anders vereinbart.
+
 Ausgefertigt in [[location|St. Veit an der Glan]], am [[date|5. Mai 2026]].
 
 Mit freundlichen Grüßen

@@ -55,6 +55,12 @@ Die [[country|Republik Österreich]] als Beklagte im Parallelverfahren hat die F
 
 Die Zuständigkeit des [[court|BG Döbling]] ergibt sich aus dem Wohnsitz des Erstbeklagten. Die Klage ist innerhalb der Frist des [[legal_norm|§ 1497 ABGB]] eingebracht.
 
+**III a. Weitere Verrechnung**
+
+Die Rechnungen wurden mit [[person|Juratovic]] und [[person|Stark]] am [[date|23.06.2025]] gemeinsam besprochen. Der Beklagte [[person|Juratovic]] hat die Teilzahlung von EUR 1.000,00 am [[date|30.07.2025]] angekündigt, aber nicht geleistet. Die Zeugin [[person|Reininghaus]] hat die Mahnung am [[date|15.10.2025]] entgegengenommen.
+
+Eine Verrechnung mit den Forderungen des Beklagten [[person|Stark]] aus dem Jahr 2024 ist ausgeschlossen, weil diese nicht fällig sind. Die [[organization|WHG]] verweist auf den Lieferschein vom [[date|23.06.2025]], der die Übernahme bestätigt.
+
 **IV. Anträge**
 
 Die klagende Partei stellt den Antrag, die Beklagten seien zur ungeteilten Hand schuldig, der [[organization|WHG]] EUR 9.415,20 samt 4 % Zinsen seit [[date|08.09.2025]] binnen 14 Tagen zu bezahlen. Zahlungen sind auf das Konto IBAN [[bank_account|AT62 7019 7218 7824 1790]] der [[organization|WHG]] zu leisten.

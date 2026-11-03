@@ -54,6 +54,12 @@ IV. Gewährleistung und Kontakt
 
 Die Verkäuferin haftet für die Lastenfreiheit. Mündliche Nebenabreden bestehen nicht. Für Rückfragen zum Treuhandbuch ist die Kanzlei unter Tel. [[phone_number|01 366549 Kl. 34]] erreichbar.
 
+Die Vertragsteile nehmen zur Kenntnis, dass für den Erwerb der Liegenschaft Grunderwerbsteuer nach dem [[legal_norm|Grunderwerbsteuergesetz]] anfällt. Die Steuer wird aus dem Kaufpreis entrichtet; die Anzeige erfolgt durch die Vertragsverfasserin.
+
+Die Verkäuferin leistet Gewähr für die Richtigkeit der Angaben zur Fläche und zur Bebauung. Ein Ausschluss der Gewährleistung für verdeckte Mängel gilt nur, soweit er gesetzlich zulässig ist.
+
+Sollte eine Bestimmung dieses Vertrages unwirksam sein, berührt dies die übrigen Bestimmungen nicht. Die Parteien ersetzen die unwirksame Bestimmung durch eine wirksame, die dem wirtschaftlichen Zweck am nächsten kommt.
+
 Ausgefertigt in [[location|Trieben]], am [[date|27. März 2026]].
 
 Mit freundlichen Grüßen

@@ -63,6 +63,10 @@ V. Kontakt und Schlussbestimmungen
 
 Für Rückfragen steht die Kanzlei unter Tel. [[phone_number|+43-7242-6031458 Durchwahl 14]] zur Verfügung. Änderungen bedürfen der Schriftform.
 
+Die Übergabe erfolgt mit der Zahlung des Restkaufpreises. Nutzen und Lasten gehen mit dem Übergabestichtag auf die Käuferin über. Die Verkäufer übergeben die Liegenschaft geräumt, soweit nicht anders vereinbart.
+
+Sollte eine Bestimmung dieses Vertrages unwirksam sein, berührt dies die übrigen Bestimmungen nicht. Die Parteien ersetzen die unwirksame Bestimmung durch eine wirksame, die dem wirtschaftlichen Zweck am nächsten kommt.
+
 Ausgefertigt in [[location|Zell]], am [[date|12. März 2026]].
 
 Für die Kanzlei: [[organization|Aistleitner, Anzenberger]]

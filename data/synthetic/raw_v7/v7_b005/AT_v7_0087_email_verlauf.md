@@ -117,6 +117,22 @@ Mit freundlichen Grüßen
 Tel. [[phone_number|0316 845476 Kl. 89]]
 
 -----Ursprüngliche Nachricht-----
+Von: [[person|Iskender Din]] <[[email|i.din@din-mail.at]]>
+Gesendet: Samstag, [[date|1. November 2025]] 10:48
+An: [[person|Tölk]]
+Cc: [[person|Serbana Arsenescu]]
+Betreff: AW: Ratenzahlung
+
+Sehr geehrter Herr [[person|Tölk]],
+
+ich bin mit der Ratenzahlung einverstanden, wenn die Raten nicht später als bis [[date|30. Juni 2026]] vollständig beglichen sind. Die Verkäuferin hat mir mitgeteilt, dass sie den Betrag bereits teilweise überwiesen hat, die Belege liegen bei.
+
+Bitte senden Sie den überarbeiteten Entwurf an meine Adresse, die Sie kennen. Der Staat [[country|Österreich]] hat bisher keine Auflagen erteilt.
+
+Mit freundlichen Grüßen
+[[person|Iskender Din]]
+
+-----Ursprüngliche Nachricht-----
 Von: [[person|Serbana Arsenescu]] <[[email|s.arsenescu@arsenescu-post.at]]>
 Gesendet: Donnerstag, [[date|30. Oktober 2025]] 18:05
 An: [[person|Tölk]]

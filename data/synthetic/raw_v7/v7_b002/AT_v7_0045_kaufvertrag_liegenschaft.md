@@ -48,6 +48,14 @@ III. Kontakt und Schlussbestimmungen
 
 Für Rückfragen steht die Kanzlei unter Tel. [[phone_number|0732 134097 DW 48]] zur Verfügung. Die Parteien erklären, dass keine mündlichen Nebenabreden bestehen. Änderungen bedürfen der Schriftform.
 
+Die Vertragsteile nehmen zur Kenntnis, dass für den Erwerb der Liegenschaft Grunderwerbsteuer nach dem [[legal_norm|Grunderwerbsteuergesetz]] anfällt. Die Steuer wird aus dem Kaufpreis entrichtet; die Anzeige erfolgt durch die Vertragsverfasserin. Die Kosten der Eintragung im Grundbuch trägt die Käuferin.
+
+Die Übergabe erfolgt mit der Zahlung des Restkaufpreises. Nutzen und Lasten gehen mit dem Übergabestichtag auf die Käuferinnen über. Die Verkäuferinnen übergeben die Liegenschaft geräumt, soweit nicht anders vereinbart.
+
+Die Verkäuferinnen leisten Gewähr für die Richtigkeit der Angaben zur Fläche und zur Bebauung. Ein Ausschluss der Gewährleistung für verdeckte Mängel gilt nur, soweit er gesetzlich zulässig ist.
+
+Die Kosten der Errichtung des Vertrages tragen Käuferinnen und Verkäuferinnen je zur Hälfte, sofern nicht anders vereinbart.
+
 Ausgefertigt in [[location|Biberwier]], am [[date|16. März 2026]].
 
 Verkäuferin: [[person|Mita Tuba]]

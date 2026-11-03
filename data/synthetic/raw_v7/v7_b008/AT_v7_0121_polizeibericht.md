@@ -11,7 +11,7 @@ ANZEIGE WEGEN VERKEHRSUNFALLS MIT SACHSCHADEN
 
 [[location|Hollabrunn]], am [[date|14.09.2026]]
 
-Am [[date|12.09.2026]], gegen 17:40 Uhr, ereignete sich auf der Landesstraße im Ortsgebiet von [[location|Hollabrunn]] ein Verkehrsunfall mit zwei Fahrzeugen. Der Lenker des PKW mit dem Kennzeichen [[license_plate|SZ-3274 CP]], [[person|Vester Van der Bellen]], geb. [[date_of_birth|1944-11-21]], wollte nach links abbiegen und übersah dabei das entgegenkommende Fahrzeug. Es entstand Sachschaden an beiden Fahrzeugen, Personen wurden nicht verletzt.
+Am [[date|12.09.2026]], gegen 17:40 Uhr, ereignete sich auf der Landesstraße im Ortsgebiet von [[location|Hollabrunn]] ein Verkehrsunfall mit zwei Fahrzeugen. Der Lenker des PKW mit dem Kennzeichen [[license_plate|SZ-3274 CP]], [[person|Vester Van der Heyden]], geb. [[date_of_birth|1944-11-21]], wollte nach links abbiegen und übersah dabei das entgegenkommende Fahrzeug. Es entstand Sachschaden an beiden Fahrzeugen, Personen wurden nicht verletzt.
 
 Beteiligte Personen:
 
@@ -46,7 +46,7 @@ Die Versicherung des Lenkers ist unter folgender Nummer geführt: Vers.-Nr. [[ot
 
 Die Anzeige wird an das [[court|Bezirksgericht Hollabrunn]] weitergeleitet.
 
-Die Lenkerin gab an, sie habe das Fahrzeug erst im letzten Moment erkannt. Ein Alkotest beim Lenker [[person|Van der Bellen]] verlief negativ. Die Fotos vom Unfallort sind im Akt abgelegt.
+Die Lenkerin gab an, sie habe das Fahrzeug erst im letzten Moment erkannt. Ein Alkotest beim Lenker [[person|Van der Heyden]] verlief negativ. Die Fotos vom Unfallort sind im Akt abgelegt.
 
 Hauptinspektor [[person|Robert Mayrhofer]]
 Streifenkommandant

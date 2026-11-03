@@ -98,6 +98,24 @@ Mit freundlichen Grüßen
 [[person|Stergianoula Passalis]]
 
 -----Ursprüngliche Nachricht-----
+Von: [[person|Stergianoula Passalis]] <[[email|s.passalis@passalis-post.at]]>
+Gesendet: Samstag, [[date|8. Februar 2025]] 12:15
+An: [[person|Horvat]]
+Cc: [[person|Dr. German Nabl]]
+Betreff: Ergänzung
+
+Sehr geehrte Frau [[person|Dr. Horvat]],
+
+ergänzend zu meiner Nachricht teile ich mit, dass ich am [[date|1. Februar 2019]] den Anteil übernommen habe. Die Kosten für die Instandhaltung des Dachs habe ich bisher allein getragen, insgesamt EUR 6.800,00. Dazu gibt es Belege, die ich mitbringen kann.
+
+Ich bitte um Rückmeldung, ob eine Ausgleichszahlung in Frage kommt. Mein Sohn [[person|Lukas Passalis]] wird mich zum Termin begleiten, er ist Vertrauensperson und hat keine Vollmacht.
+
+Die Hausverwaltung hat mir mitgeteilt, dass die Betriebskosten für 2024 vollständig bezahlt sind. Die Zahlung erfolgte über das Konto IBAN [[bank_account|AT89 7764 1496 5751 0963]] der [[organization|Zeman KG]]; ich habe die Bestätigung aufbewahrt.
+
+Mit freundlichen Grüßen
+[[person|Stergianoula Passalis]]
+
+-----Ursprüngliche Nachricht-----
 Von: [[person|Horvat]] <[[email|horvat@schulz.at]]>
 Gesendet: Donnerstag, [[date|6. Februar 2025]] 08:30
 An: [[person|Stergianoula Passalis]]
