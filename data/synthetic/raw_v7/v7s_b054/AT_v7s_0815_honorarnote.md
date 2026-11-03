@@ -53,7 +53,7 @@ Die Stundensätze für die Bearbeitung betragen für den Partner EUR 320,00 und 
 
 Der Mandant [[person|Ubertino Calamai]] hat um Aufteilung der Honorarnote in zwei Teilrechnungen gebeten; dem kommen wir mit dieser Teilrechnung für die Leistungen bis einschließlich [[date|09.04.2026]] nach. Die Restleistungen werden mit der nächsten Note abgerechnet, sobald die Gegenseite geantwortet hat.
 
-Die Rückerstattung der Barauslagen erfolgt nur, sofern die Gegenseite die Kosten nicht übernimmt. Für Rückfragen zu einzelnen Positionen steht Ihnen [[person|Pöch]] unter [[phone_number|05352/3401926-0]] zur Verfügung.
+Die Rückerstattung der Barauslagen erfolgt nur, sofern die Gegenseite die Kosten nicht übernimmt. Bei Zahlung nach Ablauf der Frist werden Verzugszinsen nach [[legal_norm|§ 1333 ABGB]] berechnet; eine Mahnung erfolgt nicht gesondert. Für Rückfragen zu einzelnen Positionen steht Ihnen [[person|Pöch]] unter [[phone_number|05352/3401926-0]] zur Verfügung.
 
 Mit freundlichen Grüßen
 

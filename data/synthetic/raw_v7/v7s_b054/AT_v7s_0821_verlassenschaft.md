@@ -31,7 +31,7 @@ zu einem Erbteil von 1/3 aufgrund des Testaments. [[person|Heinzle]] ist die Leb
 hat die Erbschaft unbedingt angenommen.
 
 3. Vermächtnisnehmerin ist:
-Palm Eunike, geboren am [[date_of_birth|1988-12-21]], mit einem Geldvermächtnis von EUR 15.000,00.
+[[person|Palm Eunike]], geboren am [[date_of_birth|1988-12-21]], mit einem Geldvermächtnis von EUR 15.000,00.
 
 II. Gläubiger
 
@@ -49,9 +49,9 @@ III. Nachlassvermögen
 
 IV. Verbindlichkeiten und Abhandlungskosten
 
-Die Verbindlichkeiten des Verstorbenen betragen EUR 12.960,00. Die Begräbniskosten in Höhe von EUR 4.800,00 wurden von der Erbin [[person|Strunz]] vorgeschossen und sind vorrangig zu erstatten.
+Die Verbindlichkeiten des Verstorbenen betragen EUR 12.960,00. Die Begräbniskosten in Höhe von EUR 4.800,00 wurden von der Erbin [[person|Strunz]] vorgeschossen und sind vorrangig zu erstatten. Die Rechnung des Bestattungsunternehmens vom [[date|15.10.2023]] liegt dem Verlassenschaftsakt bei; der Notar hat den Betrag als Verbindlichkeit im Inventar angesetzt, weil die Kosten nach den Grabgebühren der Gemeinde berechnet wurden.
 
-Die Erbin [[person|Heinzle]] hat die Liegenschaft seit dem Tod des Erblassers verwaltet. Die Mieteinnahmen von EUR 430,00 monatlich sind auf das Verlassenschaftskonto zu überweisen.
+Die Erbin [[person|Heinzle]] hat die Liegenschaft seit dem Tod des Erblassers verwaltet. Die Mieteinnahmen von EUR 430,00 monatlich sind auf das Verlassenschaftskonto zu überweisen. Die Mieterin des Nebengebäudes hat den Mietvertrag am [[date|30.06.2026]] gekündigt; die Kündigungsfrist endet mit dem Monatsletzten. Die Erbin [[person|Heinzle]] hat eine Aufstellung der Betriebskosten für die Jahre 2024 und 2025 vorgelegt, die der Gerichtskommissär geprüft hat.
 
 V. Testament und Pflichtteil
 
@@ -59,7 +59,11 @@ Das Testament vom [[date|03.03.2019]] setzt die Erbin [[person|Strunz]] zu zwei 
 
 Die Gläubigerin [[person|Boteva]] hat ihre Forderung durch Vorlage eines Darlehensvertrages vom [[date|10.04.2022]] belegt. Der Vertrag sieht eine Rückzahlung in monatlichen Raten vor; die letzte Rate war am [[date|01.09.2023]] fällig und ist unbezahlt. Die Erbin [[person|Strunz]] hat die Forderung vorläufig anerkannt, den Betrag aber nicht bezahlt, weil die Liegenschaft zunächst zu verwerten ist.
 
-VI. Ergebnis
+VI. Zusammenfassung der Vermögensverhältnisse
+
+Der Nachlass besteht nach Abzug der Verbindlichkeiten aus der Liegenschaft, dem Bankguthaben und dem Bausparguthaben. Das Vermächtnis an [[person|Palm Eunike]] ist aus dem Bankguthaben vorrangig zu erfüllen. Die Erbin [[person|Strunz]] hat sich bereit erklärt, die Liegenschaft nicht vor der Einantwortung zu veräußern.
+
+VII. Ergebnis
 
 Der Gerichtskommissär wird nach Bezahlung der Abhandlungsgebühren den Einantwortungsbeschluss beim [[court|Bezirksgericht Judenburg]] beantragen. Die Erbin [[person|Strunz]] hat die Erbantrittserklärung am [[date|27.10.2026]] abgegeben.
 

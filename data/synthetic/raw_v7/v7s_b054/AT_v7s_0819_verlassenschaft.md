@@ -33,7 +33,9 @@ zu einem Erbteil von 1/2. Die Erbin hat ihren Wohnsitz seit dem Jahr 2019 in [[l
 2. Erbin nach dem Gesetz ist [[person|Lina Ruetz]], geb. [[date_of_birth|12.10.1940]], zu einem Erbteil von 1/3.
 
 3. Vermächtnisnehmer ist:
-Greiter Sacharja, Geburtsdatum: [[date_of_birth|1950-03-06]], SV-Nr. [[social_security_number|7126 060350]], mit dem Vermächtnis einer Eigentumswohnung im Ausmaß von 1/6 des Nachlasses.
+[[person|Greiter Sacharja]], Geburtsdatum: [[date_of_birth|1950-03-06]], SV-Nr. [[social_security_number|7126 060350]], mit dem Vermächtnis einer Eigentumswohnung im Ausmaß von 1/6 des Nachlasses.
+
+Der Vermächtnisnehmer [[person|Greiter Sacharja]] hat seinen Wohnsitz in [[location|Amstetten]] und ist mit der Abwicklung über das Notariat einverstanden. Er hat dem Notar außerdem eine Kopie des Sparbuchs übergeben, das nach dem Vermächtnis an ihn auszuzahlen ist.
 
 Der Notar hat die Erben auf die Möglichkeit einer bedingten Erbantrittserklärung nach [[legal_norm|§ 800 ABGB]] hingewiesen. Die Erbin [[person|Hradil]] hat eine unbedingte Erbantrittserklärung abgegeben, die Erbin [[person|Ruetz]] hat die Erbschaft unter dem Vorbehalt des Inventars angenommen.
 
@@ -65,7 +67,7 @@ VI. Ergebnis
 
 Die Verlassenschaft wird nach Berichtigung der Verbindlichkeiten und Einantwortung an die Erben und den Vermächtnisnehmer abgehandelt. Die Einantwortung ist nach [[legal_norm|§ 141 AußStrG]] beim [[court|Bezirksgericht Amstetten]] zu beantragen.
 
-Die Abhandlungsgebühr wurde mit [[date|02.11.2026]] bemessen und ist binnen 14 Tagen zu entrichten.
+Die Abhandlungsgebühr wurde mit [[date|02.11.2026]] bemessen und ist binnen 14 Tagen zu entrichten. Die Gebührenvorschreibung der Gerichtskasse ist den Erben über das Notariat zuzustellen. Für die Einantwortung der Liegenschaft ist außerdem ein Grundbuchsgesuch nach der Einantwortung erforderlich, das der Notar vorbereitet.
 
 Notar
 [[lawyer|Dr. Brückner]]

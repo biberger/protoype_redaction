@@ -74,6 +74,10 @@ das Gutachten der [[organization|Küng Immobilien]] ist unzureichend, weil es di
 
 Wir weisen darauf hin, dass die Klage gegen die [[organization|Küng Immobilien]] auch die Nachbarin [[person|Głogowska]] betreffen kann, weil die Leitung in ihrer Wohnung verläuft.
 
+Ich bitte Sie außerdem, bis zum [[date|30.10.2026]] schriftlich mitzuteilen, ob die Hausverwaltung die Kosten der Trocknung übernimmt. Sollte dies nicht der Fall sein, werden wir ein Beweissicherungsverfahren beantragen, um die Ursache der Feuchtigkeit gerichtlich feststellen zu lassen. Die Kosten dafür trägt zunächst die Mandantin; sie werden aber im Hauptverfahren gegen die [[organization|Küng Immobilien]] geltend gemacht.
+
+Frau [[person|Feitzinger]] hat außerdem angeboten, die Wohnung für eine Begehung durch den Sachverständigen zur Verfügung zu stellen. Die Termine sind mit ihr persönlich abzustimmen.
+
 Mit freundlichen Grüßen
 [[lawyer|Mag. Röck]]
 Rechtsanwalt

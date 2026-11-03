@@ -89,6 +89,8 @@ Die Rechnung der Sanierungsfirma über EUR 3.870,00 liegt bei. Die Firma hat den
 
 Ich ersuche Sie, Ihre Mandantin zu einer außergerichtlichen Einigung zu bewegen, bevor die Kosten der Tagsatzung entstehen. Die Verhandlung ist wegen der Entfernung der Parteien zu [[location|Hietzing]] nicht in Präsenz zu führen, eine Videokonferenz wäre aber möglich.
 
+Die Verwaltung hat die Kosten der Gutachten bislang nicht übernommen. Wir bitten daher um eine verbindliche Zusage bis zum [[date|28.10.2026]], ansonsten werden wir den Antrag auf Kostenersatz in der Tagsatzung stellen. Bitte leiten Sie diese Nachricht auch an die Eigentümer weiter, damit die Entscheidung rechtzeitig vorbereitet werden kann.
+
 Mit freundlichen Grüßen
 [[lawyer|Mag. Theuer]]
 Rechtsanwalt

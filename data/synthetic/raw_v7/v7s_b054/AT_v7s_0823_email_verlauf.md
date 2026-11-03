@@ -56,6 +56,8 @@ Die Schadennummer der [[organization|GVO]] lautet Schaden-Nr. [[other_identifier
 >
 > Wir fordern die Gemeinsame Versicherung Oberösterreich zur Anerkennung auf.
 
+Die Regulierung der Restsumme erfolgt nach unserer Auffassung erst nach einer weiteren Begehung. Die Begehung wäre am [[date|30.10.2026]] möglich; wir bitten um Bestätigung des Termins bis zum Ende der Woche.
+
 Mit freundlichen Grüßen
 [[person|Farhan Umran]]
 Schadenregulierung

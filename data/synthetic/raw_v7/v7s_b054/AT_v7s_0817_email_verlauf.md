@@ -24,6 +24,8 @@ Die Liegenschaft ist im Grundbuch als [[land_register_id|KG Gaflenz]], [[land_re
 
 Beigelegt finden Sie die Fotos vom Keller, das Protokoll des Sachverständigen und die Rechnung der Trocknungsfirma. Die Firma hat im August mit den Arbeiten begonnen und seither zwei Mal Geräte nachgeliefert.
 
+Die Firma hat zudem angeboten, die Feuchtigkeitsmessung für den Keller noch einmal zu wiederholen; der Termin dafür ist mit dem Büro des Sachverständigen abzustimmen. Ich habe Ihnen außerdem die Rechnungen der letzten zwei Monate kopiert, weil die Versicherung auch diese Positionen prüfen möchte.
+
 Bitte melden Sie sich bei mir. Ich bin am Nachmittag unter [[phone_number|+43 660 4412 873]] erreichbar.
 
 Liebe Grüße

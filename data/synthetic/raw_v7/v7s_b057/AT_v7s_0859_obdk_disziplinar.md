@@ -31,6 +31,8 @@ I. Verfahren
 
 Die Anzeige der Klienten [[person|Ruperta Hinterholzer]] und [[person|Oliver Schnitzer]] langte im Jahr 2025 bei der Kammer ein. Die Kammeranwältin [[person|Theoxaris]] hat die Anschuldigung erhoben. Der Beschuldigte bestritt die Vorwürfe in seiner Stellungnahme und verwies auf eine vorübergehende Überlastung der Kanzlei.
 
+Die Anzeige wurde zunächst an die [[organization|Tiroler Rechtsanwaltskammer]] gerichtet und von dort an den Disziplinarrat weitergeleitet, weil sich der Vorwurf auf eine Treuhandschaft bezog, die in einem Verfahren vor dem Landesgericht stand. Die Klienten machten zudem geltend, dass der Beschuldigte ihnen im Zuge der Anzeige eine unvollständige Übersicht der Konten übermittelt habe. Die Übersicht vom [[date|02.06.2025]] enthält keinen Hinweis auf die Entnahme vom [[date|25.02.2025]].
+
 Die Treuhandschaft wurde unter der TH-Nr. [[other_identifier|2019/795]] geführt. Die Verhandlung wurde zunächst auf Antrag des Beschuldigten vertagt, weil dieser an einer Operation erkrankt war; ein ärztliches Attest liegt vor.
 
 II. Sachverhalt

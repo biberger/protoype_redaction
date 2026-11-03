@@ -53,6 +53,12 @@ Der Verlassenschaft stehen Forderungen einer Bank von EUR 14.300,00 gegenüber, 
 
 Die Verlassenschaft schuldet außerdem die Steuer aus dem Verkauf eines Kraftfahrzeugs, das vor dem Tod veräußert wurde.
 
+5a. Pflegekosten und Ansprüche
+
+Die Verstorbene wurde in den letzten zwei Jahren ihres Lebens von der Erbin [[person|Hefel]] betreut. Die Erbin macht einen Anspruch auf Ersatz der Aufwendungen für die Pflege geltend, der sich nach ihren Angaben auf EUR 6.000,00 beläuft. Eine schriftliche Vereinbarung über die Pflege besteht nicht; die Pflegeleistungen wurden nach Angaben der Erbin unentgeltlich erbracht. Der Notar hat die Erbin darauf hingewiesen, dass ein Ersatzanspruch nur über einen Vergleich mit den übrigen Erben durchsetzbar ist.
+
+Der Erbe [[person|Gutmann]] hat zu dem Anspruch noch nicht Stellung genommen. Die Frist zur Stellungnahme wurde mit Schreiben vom [[date|08.10.2026]] bis zum [[date|22.10.2026]] gesetzt.
+
 6. Verfahren
 
 Die Erben wurden darauf hingewiesen, dass die Erbantrittserklärung binnen der gesetzlichen Frist beim [[court|BG Villach]] einzubringen ist. Das Verlassenschaftsgericht hat die Abhandlungstagsatzung auf [[date|02.11.2026]] anberaumt.

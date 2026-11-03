@@ -41,7 +41,7 @@ BERUFUNG
 
 gegen das Urteil des [[court|Landesgericht Ried im Innkreis]] vom [[date|18. August 2026]], zugestellt am [[date|27. August 2026]]
 
-Der Kläger erhebt gegen das Urteil fristgerecht Berufung aus den Berufungsgründen der Nichtigkeit, der Mangelhaftigkeit des Verfahrens, der unrichtigen Tatsachenfeststellung und der unrichtigen rechtlichen Beurteilung und beantragt, das angefochtene Urteil aufzuheben, in eventu abzuändern und dem Klagebegehren stattzugeben.
+Der Kläger erhebt gegen das Urteil fristgerecht Berufung aus den Berufungsgründen der Nichtigkeit, der Mangelhaftigkeit des Verfahrens, der unrichtigen Tatsachenfeststellung und der unrichtigen rechtlichen Beurteilung und beantragt, das angefochtene Urteil aufzuheben, in eventu abzuändern und dem Klagebegehren stattzugeben. Die Berufung ist rechtzeitig eingebracht und ist aus den nachstehenden Gründen zulässig.
 
 I. Nichtigkeit und Mangelhaftigkeit des Verfahrens
 
@@ -71,9 +71,25 @@ Der Kläger stellt daher den Antrag,
 
 das Oberlandesgericht Wien möge das angefochtene Urteil aufheben und dem Erstgericht die neuerliche Verhandlung auftragen, in eventu das Urteil dahin abändern, dass der Klage zur Gänze stattgegeben wird.
 
+IV a. Zur Unzuständigkeit des Erstgerichts
+
+Das Erstgericht hat seine Zuständigkeit im Urteil nicht begründet, obwohl der Kläger diese im Verfahren ausdrücklich bestritten hat. Die Liegenschaft, auf die sich der Anspruch gründet, befindet sich in [[location|St. Johann im Pongau]] und liegt damit im Sprengel eines anderen Landesgerichtes. Die Klage hätte nach [[legal_norm|§ 88 JN]] an das dortige Gericht gerichtet werden müssen. Das Erstgericht hat diesen Einwand übergangen, obwohl er bereits in der Tagsatzung erhoben wurde.
+
+Ein Verstoß gegen die Zuständigkeitsvorschriften stellt einen Nichtigkeitsgrund dar, sofern die Entscheidung auf dem Fehler beruht. Der Kläger ersucht daher das Berufungsgericht, diesen Mangel zu prüfen und das Verfahren gegebenenfalls aufzuheben.
+
+IV b. Zur Beweiswürdigung im Einzelnen
+
+Die Feststellungen des Erstgerichts zur Sicherung der Unfallstelle sind unvollständig. Im Protokoll fehlt der Hinweis, dass die Warnschilder im Zeitpunkt des Vorfalls durch Schneefall verdeckt waren. Der Zeuge [[person|Virgilius Kraml]] hat bei seiner Einvernahme zunächst ausgesagt, er habe den Bereich ständig überwacht, später jedoch eingeräumt, dass er für mehr als eine Stunde den Platz verlassen habe. Diese Widersprüche hat das Erstgericht nicht aufgeklärt.
+
+Auch die Angaben der Beklagten zur Wartung der Anlage wurden nur oberflächlich gewürdigt. Die Wartungsprotokolle des Jahres 2023 sind nicht vollständig vorgelegt worden; die Lücke im Zeitraum von März bis Juli 2023 hat das Erstgericht nicht erörtert. Der Kläger beantragt daher die Vorlage der vollständigen Wartungsunterlagen durch die Beklagte.
+
+Die Frage, wann der Kläger von der Gefahrenquelle Kenntnis erlangt hat, ist für die Verjährung entscheidend. Das Erstgericht hat hierzu keine Feststellungen getroffen, obwohl der Kläger ausführlich dargelegt hat, dass er die Gefahrenstelle erst nach dem Unfall bemerkt hat. Die Feststellung, er hätte die Gefahr erkennen können, ist daher nicht nur unbegründet, sondern auch aktenwidrig.
+
+Schließlich hat das Erstgericht das Sachverständigengutachten nur teilweise übernommen. Der Sachverständige hat ausdrücklich festgehalten, dass die Ausleuchtung der Unfallstelle nach den einschlägigen Normen nicht ausreichend war. Diese Feststellung wurde im Urteil nicht wiedergegeben. Der Kläger beantragt daher die Einholung eines Ergänzungsgutachtens, das sich mit der Beleuchtungsstärke zum Zeitpunkt des Vorfalls auseinandersetzt, sowie die Vernehmung des Sachverständigen in der Berufungsverhandlung.
+
 V. Kosten
 
-9. Die Kosten dieses Rechtsmittels werden nach [[legal_norm|§ 50 ZPO]] und [[legal_norm|§ 41 ZPO]] geltend gemacht. Die Berufung ist nach [[legal_norm|§ 463 ZPO]] fristgerecht eingebracht.
+9. Die Kosten dieses Rechtsmittels werden nach [[legal_norm|§ 50 ZPO]] und [[legal_norm|§ 41 ZPO]] geltend gemacht. Die Bemessungsgrundlage ergibt sich aus dem Streitwert von EUR 27.415,00, sodass die Kosten der Berufung nach dem Tarif zu berechnen sind. Die Berufung ist nach [[legal_norm|§ 463 ZPO]] fristgerecht eingebracht.
 
 10. Der Kläger ersucht das [[court|OLG Wien]] um Vorlage des Verhandlungsprotokolls vom [[date|14. Juli 2026]], das für die Beurteilung der Beweiswürdigung wesentlich ist.
 
@@ -83,6 +99,8 @@ VI. Beilagen
 ./B Urteil des [[court|Landesgericht Ried im Innkreis]] vom [[date|18. August 2026]]
 ./C Schadensmeldung unter Schaden-Nr. [[other_identifier|85/813293/23]]
 ./D Stellungnahme des Klägers vom [[date|4. Mai 2026]]
+./E Lichtbilder der Unfallstelle vom [[date|9. Mai 2026]]
+./F Ergebnis der Beleuchtungsmessung der Gemeinde vom [[date|12. Mai 2026]]
 
 [[location|Sankt Oswald-Möderbrugg]], am [[date|10. September 2026]]
 

@@ -69,7 +69,7 @@ Datum | Vorgang | Betrag | Mandant | Treuhandnr.
 
 3.5. Der Beschuldigte hat weiters behauptet, ein Systemfehler der Kanzleisoftware habe die Buchungen verursacht. Der Senat folgt dieser Behauptung nicht. Die Buchungsbestätigungen weisen den Beschuldigten als freigebende Person aus, und eine interne Kontrolle nach dem Vier-Augen-Prinzip bestand in der Kanzlei nicht.
 
-3.6. Die Honorarforderung selbst hat der Senat nicht in Zweifel gezogen. Der Beschuldigte hätte sie jedoch durch eine Honorarnote geltend machen und den Betrag erst nach deren Zustellung entnehmen müssen. Gerade das Fehlen der Abrechnung wiegt schwer, weil die Mandanten dadurch die Höhe des Honorars nicht prüfen konnten. Dass die Honorarforderung berechtigt war, ändert nichts an der Verletzung der Verwahrungspflicht.
+3.6. Die Honorarforderung selbst hat der Senat nicht in Zweifel gezogen. Der Beschuldigte hätte sie jedoch durch eine Honorarnote geltend machen und den Betrag erst nach deren Zustellung entnehmen müssen. Gerade das Fehlen der Abrechnung wiegt schwer, weil die Mandanten dadurch die Höhe des Honorars nicht prüfen konnten. Dass die Honorarforderung berechtigt war, ändert nichts an der Verletzung der Verwahrungspflicht. Der Senat hat dies bei der Strafbemessung nicht zu Lasten des Beschuldigten gewertet.
 
 4. Strafbemessung
 

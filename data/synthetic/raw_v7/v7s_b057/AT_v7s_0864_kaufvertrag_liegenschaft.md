@@ -52,7 +52,13 @@ V. Grunderwerbsteuer und Kosten
 
 Die Grunderwerbsteuer nach [[legal_norm|§ 4 Abs 1 GrEStG]] trägt der Käufer. Die Vertragserrichtungskosten und die Eintragungsgebühren trägt ebenfalls der Käufer, sofern nicht im Einzelfall anders vereinbart. Die Kanzlei [[organization|E C K   &   S O H M]] wird für die Verkäuferin und die Käufer gemeinsam tätig, soweit keine Interessen widerstreiten.
 
-VI. Schlussbestimmungen
+VI. Gewährleistung und Übergabe
+
+Die Verkäuferin übergibt die Liegenschaft geräumt und frei von Bestandrechten. Die Gewährleistung für Sachmängel wird ausgeschlossen, soweit dies gesetzlich zulässig ist. Die Verkäuferin erklärt jedoch, dass ihr keine verborgenen Mängel am Gebäude bekannt sind, insbesondere keine Feuchtigkeitsschäden im Kellergeschoss oder Setzungsrisse im Bereich der Außenmauern.
+
+Die Übergabe erfolgt mit der Schlüsselübergabe am Tag der Kaufpreisfälligkeit. Ein Übergabeprotokoll mit Zählerständen für Strom, Wasser und Gas wird von beiden Parteien unterfertigt. Die Nebenkosten für den Zeitraum bis zur Übergabe trägt die Verkäuferin.
+
+VII. Schlussbestimmungen
 
 Änderungen dieses Vertrages bedürfen der Schriftform. Mündliche Nebenabreden bestehen nicht. Sollte eine Bestimmung unwirksam sein, bleibt der Vertrag im Übrigen wirksam. Die Parteien verzichten auf die Anfechtung wegen Verkürzung über die Hälfte.
 

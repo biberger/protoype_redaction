@@ -77,7 +77,11 @@ Der Senat folgt der Auffassung der Kammeranwältin, dass die Treuhandpflichten e
 
 Die Anträge der Kammeranwältin auf ein Berufsverbot wurden abgelehnt, weil die Verfehlungen nicht die Schwere erreichen, die eine Streichung rechtfertigen würde. Die Geldbuße entspricht [[legal_norm|§ 34 RAO]] und dem Gewicht der Verfehlung.
 
-4. Rechtsmittelbelehrung
+4. Kosten und Nebenfolgen
+
+Die Kammer hat die Anzeige in der Sitzung vom [[date|14.09.2026]] um die Vorwürfe zur Verwahrung des Honorars ergänzt. Der Senat hat diese Ergänzung zugelassen, weil die Beschuldigte dazu bereits Stellung genommen hatte. Eine Nebenfolge in Form eines Verlusts der Eintragung in die Liste der Rechtsanwälte wurde nicht verhängt.
+
+5. Rechtsmittelbelehrung
 
 Gegen diese Entscheidung steht der Beschuldigten und der Kammeranwaltschaft die Berufung an die Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter ([[court|OBDK]]) offen. Die Berufung ist binnen vier Wochen ab Zustellung bei diesem Disziplinarrat einzubringen. Die [[court|OBDK]] entscheidet in der Besetzung nach ihrer Geschäftsordnung.
 

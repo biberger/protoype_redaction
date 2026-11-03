@@ -134,7 +134,7 @@ Facharzt abgeschlossen ist. Eine Erweiterung des Klagebegehrens wird in diesem F
 angekündigt. Die Streitverkündung ist gemäß [[legal_norm|§ 21 ZPO]] zulässig, weil die Versicherung ein rechtliches
 Interesse am Ausgang des Verfahrens hat.
 
-Die Klage wird im ERV-Verfahren eingebracht; die Beilagen sind als PDF-Dateien angeschlossen und mit den Bezeichnungen
+Die Klage wird im ERV-Verfahren eingebracht und mit den Beilagen über das Kanzleipostfach übermittelt; die Beilagen sind als PDF-Dateien angeschlossen und mit den Bezeichnungen
 ./A bis ./D versehen.
 
 Beilagen:

@@ -75,7 +75,7 @@ Verdienstentgang | EUR 850,00
 Einrichtung | EUR 3.000,00
 Summe | EUR 12.400,00
 
-Die Klägerin hat die Arbeiten mit Schreiben vom [[date|1. Juli 2025]] hinsichtlich der Dachrinne abgenommen, die Abnahme der Ablaufleitung jedoch ausdrücklich verweigert. Diese Verweigerung ist im Übergabeprotokoll dokumentiert. Die Beweisaufnahme wird sich auf die Einvernahme der Sachverständigen und des Erstbeklagten beschränken.
+Die Klägerin hat die Arbeiten mit Schreiben vom [[date|1. Juli 2025]] hinsichtlich der Dachrinne abgenommen, die Abnahme der Ablaufleitung jedoch ausdrücklich verweigert. Diese Verweigerung ist im Übergabeprotokoll dokumentiert. Die Beweisaufnahme wird sich auf die Einvernahme der Sachverständigen und des Erstbeklagten beschränken. Die Einvernahme der Zeugen wird gesondert beantragt. Die Kosten dafür sind vorläufig gesondert zu tragen.
 
 II. Beweise
 

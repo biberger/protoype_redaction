@@ -54,7 +54,7 @@ Das Vermächtnis an [[person|Andergassen]] umfasst den Hausrat in der Wohnung in
 
 6. Ausweis und Anzeige
 
-Die Erben wurden über die Erbantrittserklärung belehrt. Die Erbantrittserklärungen sind innerhalb der gesetzlichen Frist beim Gericht einzureichen. Die Anzeige an die Versicherung erfolgte durch den Notar; Rückfragen sind an das Notariat unter Tel. [[phone_number|+43-732-1336777-0]] zu richten. Der Erbe [[person|Horvath]] wurde gebeten, die Zustellung seiner Erklärung an das Gericht unter Angabe der GZ zu bestätigen.
+Die Erben wurden über die Erbantrittserklärung belehrt. Die Erbantrittserklärungen sind innerhalb der gesetzlichen Frist beim Gericht einzureichen. Die Anzeige an die Versicherung erfolgte durch den Notar; Rückfragen sind an das Notariat unter Tel. [[phone_number|+43-732-1336777-0]] zu richten. Der Erbe [[person|Horvath]] wurde gebeten, die Zustellung seiner Erklärung an das Gericht unter Angabe der GZ zu bestätigen. Die Erbin [[person|Pluhar]] hat die Erbantrittserklärung bereits am [[date|12.10.2026]] persönlich beim Notariat abgegeben; sie wurde vom Notar auf die Möglichkeit einer Ausschlagung hingewiesen, von der sie keinen Gebrauch machen wollte.
 
 7. Beilagen
 

@@ -32,6 +32,10 @@ Wir ersuchen Sie, den Schaden bis zum [[date|02.11.2026]] zu regulieren. Die Sch
 
 Zur Klarstellung: Die [[organization|Schütte Handels]] hat den Anhänger seit dem Jahr 2019 im Betrieb. Die Versicherungsnehmerin Ihres Hauses hat das Fahrzeug nach den vorliegenden Unterlagen nicht rechtzeitig instand gesetzt, sodass eine Mithaftung nicht anzunehmen ist. Eine Mithaftung unserer Mandantin wird ausdrücklich bestritten.
 
+Der Sachverständige hat die Schadenshöhe in seinem Gutachten nach dem Wiederbeschaffungswert ermittelt. Die Reparaturkosten nach dem Kostenvoranschlag der Werkstatt betragen EUR 14.300,00 brutto; eine Restwertbetrachtung ergibt jedoch einen geringeren Betrag, weil der Anhänger bereits vor dem Schaden mehrere Mängel aufwies, die in der Reparatur nicht enthalten sind. Diese Mängel werden von unserer Mandantin nicht bestritten und sind in den Abzug von EUR 1.440,00 eingerechnet.
+
+Eine erste Mahnung haben wir am [[date|15.09.2026]] an Ihre Abteilung gerichtet. Ein Antwortschreiben ist nicht eingegangen; auch die angekündigte Prüfung durch Ihren Regulierungsbeauftragten ist bisher unterblieben.
+
 Die Schadensmeldung vom [[date|05.08.2026]] wurde Ihrer Abteilung bereits übermittelt. Eine Eingangsbestätigung ist bisher nicht erfolgt. Wir bitten um Mitteilung eines Bearbeiters, der für die weitere Abwicklung zuständig ist.
 
 Ihr Haus ist telefonisch unter Tel. [[phone_number|+43 732 533 25 30 DW 992]] erreichbar; wir bitten um Rückruf. Für Rückfragen steht Ihnen auch die Sekretärin [[person|Gisela Pohl]] zur Verfügung.

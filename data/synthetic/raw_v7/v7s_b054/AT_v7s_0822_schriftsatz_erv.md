@@ -76,7 +76,11 @@ V. Liegenschaft
 
 Der Mietgegenstand befindet sich auf der Liegenschaft [[land_register_id|EZ: 1039]] [[land_register_id|KG: 53426 Maria Laach am Jauerling]] ([[court|BG Bruck an der Mur]]). Der Eigentümer hat die Klägerin zur Verwaltung ermächtigt.
 
-V/1. Streitgenossenschaft
+V/1. Kosten der Rechtsverfolgung
+
+Die Klägerin hat vorprozessual eine Mahnung durch die Rechtsanwaltskanzlei des Klagevertreters verfassen lassen. Die dafür angefallenen Kosten von EUR 310,00 sind als Verzugsschaden nach [[legal_norm|§ 1333 ABGB]] geltend zu machen und in der Kostennote ausgewiesen.
+
+V/2. Streitgenossenschaft
 
 Die Beklagten sind als Gesellschafter der Gesellschaft bürgerlichen Rechts notwendige Streitgenossen im Sinne des [[legal_norm|§ 14 ZPO]]. Die Klägerin hat die Klage gegen alle Gesellschafter gerichtet, weil nach dem Mietvertrag jeder von ihnen den Mietzins in voller Höhe schuldet. Die Beklagte [[person|Kurz]] ist im Mietvertrag als Vertreterin der Gesellschaft genannt; die übrigen Beklagten haben die Vertragsurkunde ebenfalls unterschrieben.
 

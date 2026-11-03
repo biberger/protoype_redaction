@@ -60,6 +60,8 @@ Datum | Vorgang | Betrag | Mandant | Treuhandnr.
 
 2.9. Nach den Feststellungen des Senats waren die Auszahlungen an die Mandanten zu keinem Zeitpunkt gefährdet. Die Verzögerung war jedoch geeignet, das Vertrauen der Mandanten in die ordnungsgemäße Verwahrung zu beeinträchtigen. Der Senat stellt dies im Rahmen der Strafzumessung fest.
 
+2.10. Der Mandant [[person|Burghardt Tschofenig]] hat ausgeführt, er habe die Abrechnung mehrfach in der Kanzlei persönlich verlangt. Die Kanzleikraft habe ihm jeweils mitgeteilt, dass der Rechtsanwalt auf Reisen sei. Eine schriftliche Antwort ist nicht erfolgt. Der Senat hält diese Darstellung für glaubhaft, weil sie mit dem Schriftverkehr übereinstimmt.
+
 3. Rechtliche Beurteilung
 
 3.1. Die Pflicht zur getrennten und vertragsgemäßen Verwahrung fremder Gelder ergibt sich aus [[legal_norm|§ 43a Abs 3 RAO]] und den Richtlinien für die Ausübung des Anwaltsberufs ([[legal_norm|RL-BA]]). Eine Entnahme ohne Abrechnung verletzt diese Pflicht unabhängig davon, ob ein Honoraranspruch besteht.
@@ -88,7 +90,7 @@ Die Geldbuße berücksichtigt die Zahl der Verstöße und die Dauer der Verzöge
 
 Die Kostenentscheidung beruht auf [[legal_norm|§ 66 DSt]]. Gegen diese Entscheidung ist die Berufung an die [[court|OBDK]] zulässig.
 
-Die Verhandlung wurde durch den Schriftführer [[person|Dumitru Procopie]] protokolliert. Das Protokoll wurde den Parteien vorgelegt, und es wurden keine Einwendungen erhoben.
+Die Verhandlung wurde durch den Schriftführer [[person|Dumitru Procopie]] protokolliert. Das Protokoll wurde den Parteien vorgelegt, und es wurden keine Einwendungen erhoben. Die Anzeigenden haben das Protokoll ebenfalls erhalten und keine Änderungen verlangt.
 
 6. Verfahrensdauer und Anhörung
 

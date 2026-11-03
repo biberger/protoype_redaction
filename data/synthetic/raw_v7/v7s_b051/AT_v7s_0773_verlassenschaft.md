@@ -60,7 +60,7 @@ Die Verstorbene hatte Verbindlichkeiten aus einem Kreditvertrag mit der [[organi
 
 V. Sonstige Nachlassbestandteile
 
-5. Der Verstorbenen gehörte ein Pkw, dessen Schätzwert EUR 2.100,00 beträgt. Das Fahrzeug wurde von der Erbin [[person|Nadezhda Burgstaller]] übernommen und bis zur Einantwortung verwahrt. Die Kosten der Verwahrung trägt der Nachlass.
+5. Der Verstorbenen gehörte ein Pkw, dessen Schätzwert EUR 2.100,00 beträgt. Das Fahrzeug wurde von der Erbin [[person|Nadezhda Burgstaller]] übernommen und bis zur Einantwortung verwahrt. Die Kosten der Verwahrung trägt der Nachlass. Eine Versteigerung des Fahrzeugs wurde zunächst zurückgestellt, bis die Erbenfrage geklärt ist.
 
 6. Für die Verstorbene bestand eine Forderung gegen [[person|Matzella Steinwender]] aus einer Vorauszahlung für Pflegeleistungen in Höhe von EUR 1.200,00. Diese Forderung ist nach Auffassung des Notars verjährt, weil die Leistung seit mehr als drei Jahren nicht mehr erbracht wurde.
 
@@ -78,7 +78,7 @@ VI. Stellungnahmen der Erben
 
 12. Die Kosten der Verlassenschaftsabhandlung werden vorrangig aus dem Bankguthaben gedeckt. Ein Rest der Kosten ist von den Erben nach dem Verhältnis ihrer Quoten zu tragen, soweit er nicht aus dem Erlös der Fahrnisse beglichen werden kann.
 
-13. Die Erbin [[person|Nadezhda Burgstaller]] hat zugesichert, die Kosten der Versiegelung und der Schätzung aus eigenen Mitteln vorzuschießen, um die Verlassenschaft zügig abzuschließen.
+13. Die Erbin [[person|Nadezhda Burgstaller]] hat zugesichert, die Kosten der Versiegelung und der Schätzung aus eigenen Mitteln vorzuschießen, um die Verlassenschaft zügig abzuschließen. Der Notar hat dies dankend zur Kenntnis genommen. Die Erben wurden über den Stand des Verfahrens laufend informiert.
 
 VII. Weiterer Verfahrensgang
 

@@ -52,7 +52,7 @@ Tel. [[phone_number|02622 512738 Durchwahl 79]]
 
 SACHVERHALT
 
-Die Klägerin hat die Wohnung im Jahr 2019 nach dem Tod ihrer Mutter übernommen. Die Beklagte war zu diesem Zeitpunkt bereits als Mieterin eingetragen und hat den Mietzins bis Mai 2026 regelmäßig bezahlt. Mit Schreiben der [[organization|EWG]] vom [[date|14. Juli 2026]] wurde die Kündigung formell zurückgenommen, weil die Zustellung an eine falsche Adresse erfolgt war.
+Die Klägerin [[person|Beatrice Ehrenfest]] hat die Wohnung im Jahr 2019 nach dem Tod ihrer Mutter übernommen. Die Beklagte [[person|Valentina Hakl]] war zu diesem Zeitpunkt bereits als Mieterin eingetragen und hat den Mietzins bis Mai 2026 regelmäßig bezahlt. Mit Schreiben der [[organization|EWG]] vom [[date|14. Juli 2026]] wurde die Kündigung formell zurückgenommen, weil die Zustellung an eine falsche Adresse erfolgt war. Die Kündigung war an eine Anschrift gerichtet, die der Beklagten nicht mehr zuzuordnen war.
 
 Die Klägerin hat die Beklagte mehrfach zur Herausgabe der Wohnung aufgefordert. Die Beklagte beruft sich auf ein mündliches Versprechen der Mutter der Klägerin, wonach ihr das Wohnrecht lebenslang zustehe. Ein solches Versprechen ist urkundlich nicht belegt und wird ausdrücklich bestritten.
 

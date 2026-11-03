@@ -73,6 +73,14 @@ Ein Rechtsanwalt hat Gelder, die ihm für Klienten übergeben werden, getrennt v
 
 Der Senat hält fest, dass die [[organization|RAK Wien]] die Berufsaufsicht in dieser Angelegenheit zu Recht geführt hat. Die Behauptung des Beschuldigten, die Verzögerung sei auf die Erkrankung einer Kanzleikraft zurückzuführen, ist durch keinen Beleg gestützt und wird nicht berücksichtigt.
 
+IV a. Stellungnahme des Beschuldigten in der Verhandlung
+
+Der Beschuldigte [[lawyer|Österreicher]] erklärte in der Verhandlung, er bedauere die Abrechnungsverzögerung, sehe jedoch keinen Vorsatz in den Entnahmen. Die Summe von EUR 9.200,00 sei aus einer Honorarforderung entnommen worden, die er für gerechtfertigt gehalten habe. Er habe die Entnahme in der Folge mit einem Schreiben vom [[date|05.11.2023]] gegenüber der Klientin begründen wollen, dieses Schreiben sei jedoch nicht abgesendet worden.
+
+Die Klientin [[person|Stadlmann]] hielt dem entgegen, dass ihr nie eine Honorarforderung mitgeteilt worden sei. Der Senat stellt fest, dass ein Schreiben vom [[date|05.11.2023]] im Akt nicht aufscheint und die Entnahme vom [[date|21.08.2023]] damit nicht nachträglich gedeckt werden kann.
+
+Der Beschuldigte räumte ein, dass er die Buchungsübersicht des Anderkontos nicht regelmäßig geprüft habe. Er habe die Buchhaltung seit dem Ausscheiden der Kanzleikraft selbst übernommen, ohne eine externe Kontrolle einzurichten. Der Senat sieht darin eine Organisationspflichtverletzung, die bei der Strafbemessung zu berücksichtigen ist.
+
 V. Strafbemessung
 
 Mildernd wurde die Schadensgutmachung im Umfang von EUR 2.900,00 berücksichtigt, die der Beschuldigte nach der Zustellung der Anzeige geleistet hat. Erschwerend war die Dauer der Abrechnungsverzögerung und die Zahl der Buchungen ohne Auftrag. Eine frühere Disziplinarverurteilung liegt nicht vor.

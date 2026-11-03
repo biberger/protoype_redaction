@@ -71,7 +71,7 @@ Bei der Strafbemessung wertet der Senat als mildernd, dass der Beschuldigte bish
 
 Gegen diese Entscheidung steht dem Beschuldigten und der Kammeranwaltschaft das Rechtsmittel der Berufung an die Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter ([[court|OBDK]]) offen. Die Berufung ist binnen vier Wochen ab Zustellung bei diesem Disziplinarrat einzubringen. Die [[court|OBDK]] entscheidet über die Berufung in der Besetzung nach der Geschäftsordnung; eine Anfechtung beim [[court|OGH]] ist ausgeschlossen.
 
-Der Disziplinarrat ersucht die [[court|OBDK]] um Vorlage des Verfahrensaktes, sobald eine Berufung eingebracht wird.
+Der Disziplinarrat ersucht die [[court|OBDK]] um Vorlage des Verfahrensaktes, sobald eine Berufung eingebracht wird. Die Kammeranwältin [[person|Dr. Grit Jaksch]] wird ersucht, die Akten der Kammer bis zu diesem Zeitpunkt vollständig zu halten; die Treuhandbücher sind im Original beizuschließen.
 
 Zugestellt an:
 [[lawyer|Stanko Meder]], per ERV

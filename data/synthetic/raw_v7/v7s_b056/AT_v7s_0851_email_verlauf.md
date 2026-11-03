@@ -46,7 +46,7 @@ Betreff: AW: Mietrückstand Lagerhalle, Klientin [[person|Novaković]]
 
 sehr geehrte frau [[person|kunst]],
 
-die überweisung vom [[date|2. Mai 2025]] ist bei uns am [[date|7. Mai 2025]] eingelangt, jedoch ohne verwendungszweck. wir haben sie dem falschen mietverhältnis zugeordnet. wir prüfen das und melden uns bis freitag. bitte schicken sie uns bis dahin die kontoauszüge der klientin, damit wir den zahlungsweg nachvollziehen können. die mahnspesen bleiben bis zur klärung offen.
+die überweisung vom [[date|2. Mai 2025]] ist bei uns am [[date|7. Mai 2025]] eingelangt, jedoch ohne verwendungszweck. wir haben sie dem falschen mietverhältnis zugeordnet. wir prüfen das und melden uns bis freitag. im juni war ein teil der halle wegen umbauarbeiten gesperrt, daher gab es mehrere zahlungen mit unklarem verwendungszweck. die zuordnung erfolgt im laufe der woche. bitte schicken sie uns bis dahin die kontoauszüge der klientin, damit wir den zahlungsweg nachvollziehen können. die mahnspesen bleiben bis zur klärung offen.
 
 lg
 [[person|mag. dr. gopf kapeller]]

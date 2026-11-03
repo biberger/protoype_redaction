@@ -38,6 +38,8 @@ II. Sachverhalt
 
 2. Die Klägerin erlitt einen Bruch des linken Unterschenkels und war bis zum [[date|30.07.2026]] arbeitsunfähig. Die Heilungskosten betragen bisher EUR 3.150,00; der Verdienstentgang bis zur Klagseinbringung beläuft sich auf EUR 7.300,00.
 
+2a. Die Klägerin war vor dem Unfall als Bürokraft bei einem Bauunternehmen in [[location|Randegg]] beschäftigt und bezog ein monatliches Nettoeinkommen von EUR 1.650,00. Der Verdienstentgang wurde auf Grundlage der Lohnbestätigung ermittelt; die Klägerin hat seit dem [[date|30.07.2026]] keine Entgeltfortzahlung erhalten, weil das Dienstverhältnis zum Unfallzeitpunkt im Probemonat stand.
+
 3. Die [[organization|Wiener Bauhilfe Versicherungs-AG]] ([[organization|WBV]]) hat die Haftung mit Schreiben vom [[date|09.04.2026]] abgelehnt. Die [[organization|WBV]] berief sich darauf, dass das Fahrzeug zum Unfallzeitpunkt nicht im Rahmen des Versicherungsvertrages genutzt worden sei. Die [[organization|WBV]] ist daher als Haftpflichtversicherer nicht eingetreten.
 
 4. Die Beklagte [[person|Gröbner]] hat eine Verletzung ihrer Aufsichtspflicht zu verantworten, weil sie den Fahrzeugschlüssel ohne Kontrolle überließ. Die [[organization|Land Niederösterreich]] ist als Straßenerhalter für den Zustand der Fahrbahn an der Unfallstelle verantwortlich; die Fahrbahn war an dieser Stelle nicht gekennzeichnet.

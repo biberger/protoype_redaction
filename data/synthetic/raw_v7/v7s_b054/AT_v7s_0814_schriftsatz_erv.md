@@ -60,7 +60,7 @@ Das Berufungsgericht hat [[legal_norm|§ 932 ABGB]] unrichtig angewendet, indem 
 
 Die Kostenentscheidung beruht auf [[legal_norm|§§ 41, 50 ZPO]]. Die Kläger haben die Kosten des Berufungsverfahrens bereits bezahlt; die Beklagte hat diese im Rahmen ihrer Berufungsbeantwortung nicht bestritten.
 
-Die Revisionsfrist nach [[legal_norm|§ 505 Abs 1 ZPO]] wurde gewahrt, da das Urteil des Berufungsgerichtes den Klägern am [[date|15.10.2026]] zugestellt wurde und diese Revision innerhalb von vier Wochen eingebracht wird.
+Die Revisionsfrist nach [[legal_norm|§ 505 Abs 1 ZPO]] wurde gewahrt, da das Urteil des Berufungsgerichtes den Klägern am [[date|15.10.2026]] zugestellt wurde und diese Revision innerhalb von vier Wochen eingebracht wird. Die Revision ist durch den Schriftsatz vom [[date|30.10.2026]] fristgerecht eingebracht, weil die Zustellung des Berufungsurteils am [[date|15.10.2026]] erfolgte und die vierwöchige Frist damit eingehalten ist. Eine Verbesserung nach [[legal_norm|§ 84 ZPO]] ist nicht erforderlich.
 
 Die [[country|Republik Österreich]] als Nebenintervenientin hat in der Berufungsbeantwortung vorgebracht, dass die Liegenschaft nur mit einer Zustimmung der Gemeinde übertragen werden durfte. Diese Behauptung ist für den Ausgang des Verfahrens unerheblich, weil die Gewährleistung nicht von einer behördlichen Genehmigung abhängt. Das [[organization|Land Oberösterreich]] als Streitverkündeter hat keine eigene Stellungnahme abgegeben.
 
