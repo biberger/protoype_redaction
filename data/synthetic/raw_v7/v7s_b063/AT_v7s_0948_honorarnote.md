@@ -46,7 +46,7 @@ Auslagen (Barauslagen, Gerichtsgebühren) sind in dieser Note nicht enthalten un
 
 Die Honorarnote ist gemäß [[legal_norm|§ 11 UStG]] als Rechnung ausgewiesen. Bei Zahlungsverzug werden Verzugszinsen nach den gesetzlichen Bestimmungen verrechnet. Wir ersuchen Sie, Einwendungen gegen diese Note innerhalb von 14 Tagen schriftlich zu erheben.
 
-Wir bitten um Überweisung des Gesamtbetrages bis spätestens [[date|14.11.2026]] auf unser Konto bei der UniCredit Bank Austria AG, IBAN [[bank_account|AT48 1367 1971 6464 0597]], BIC [[bank_account|SPIHAT22]], unter Angabe der Honorarnote Nr. 2026-0412.
+Wir bitten um Überweisung des Gesamtbetrages bis spätestens [[date|14.11.2026]] auf unser Konto bei der [[organization|UniCredit Bank Austria AG]], IBAN [[bank_account|AT48 1367 1971 6464 0597]], BIC [[bank_account|SPIHAT22]], unter Angabe der Honorarnote Nr. 2026-0412.
 
 Eine allfällige Überzahlung aus dem Vorschuss wird auf Ihr Konto IBAN [[bank_account|AT90 8664 1423 5760 3002]] rückerstattet, sofern Sie uns dies bekanntgeben.
 

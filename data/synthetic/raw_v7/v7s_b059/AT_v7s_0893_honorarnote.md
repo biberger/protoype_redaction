@@ -19,7 +19,7 @@ Klientennummer: [[other_identifier|91585]]
 Zeichen [[other_identifier|PW/Hochgatterer/940]]
 GZ der Kanzlei: [[other_identifier|Hochgatterer ./. Eberhard]]
 
-Verfahren vor dem [[court|Landesgericht Salzburg]] ([[court|LG Salzburg]]); Wohnort der Mandantin: [[location|St. Ruprecht an der Raab]]
+Verfahren vor dem [[court|Landesgericht Salzburg]] ([[court|LG Salzburg]]); Wohnort der Mandantin: [[location|St. Ruprecht an der Raab]]; Streitwert: EUR 18.400,--; Gegenstand: Schadenersatz aus einem Nachbarschaftsstreit um die Grundgrenze
 
 Leistungsaufstellung:
 
@@ -37,6 +37,8 @@ Barauslagen | EUR 240,00
 Gesamtbetrag | EUR 2.112,00
 
 Die Honorarnote enthält ausschließlich Leistungen, die im Auftrag der Mandantin erbracht wurden. Die Tagsatzung vom [[date|22.04.2026]] dauerte bis in den Nachmittag; die Zeitangaben richten sich nach dem Zeitaufschrieb. Für Rückfragen zu einzelnen Positionen steht die Kanzlei unter der oben angeführten Telefonnummer zur Verfügung.
+
+Die Barauslage für die Eingabengebühr wurde am [[date|22.04.2026]] entrichtet; der Zahlungsnachweis ist dieser Note in Kopie angeschlossen. Die Tagsatzungsniederschrift vom [[date|22.04.2026]] wurde der Mandantin übermittelt. Die Umsatzsteuer ist gesondert ausgewiesen, weil die Kanzlei zur Regelbesteuerung optiert hat. Für die Klage selbst wurden keine weiteren Auslagen verrechnet.
 
 Zahlungsziel: 14 Tage ab Rechnungsdatum. Bitte überweisen Sie den Betrag auf das Konto IBAN [[bank_account|AT04 0047 4413 0423 2914]] unter Angabe des Zeichens [[other_identifier|PW/Hochgatterer/940]].
 

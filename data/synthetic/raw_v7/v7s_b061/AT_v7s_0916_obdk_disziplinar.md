@@ -17,9 +17,9 @@ III. Dem Beschuldigten werden die Kosten des Verfahrens im Ausmaß von EUR 1.150
 
 I. Verfahrensgang
 
-Die [[organization|Tiroler Rechtsanwaltskammer]] ([[organization|RAK]]) erstattete am [[date|14.09.2025]] eine Disziplinaranzeige gegen [[lawyer|Schranz]]. Anlass war eine Beschwerde der Mandantin [[person|Pollak]], die dem Beschuldigten am [[date|02.02.2024]] einen Betrag von EUR 12.000,00 zur Abwicklung eines Liegenschaftskaufs übergeben hatte. Die Anzeige wurde von der Kammeranwältin [[person|Dr. Bujak]] eingebracht und in der Hauptverhandlung aufrechterhalten. Der Beschuldigte bestritt die Vorwürfe nicht im Kern, machte jedoch geltend, die Auszahlung an die Verkäuferseite sei mündlich veranlasst worden.
+Die [[organization|Tiroler Rechtsanwaltskammer]] ([[organization|RAK]]) erstattete am [[date|14.09.2025]] eine Disziplinaranzeige gegen [[lawyer|Schranz]]. Anlass war eine Beschwerde der Mandantin [[person|Pollak]], die dem Beschuldigten am [[date|02.02.2024]] einen Betrag von EUR 12.000,00 zur Abwicklung eines Liegenschaftskaufs übergeben hatte. Die Anzeige wurde von der Kammeranwältin [[person|Dr. Bujak]] eingebracht und in der Hauptverhandlung aufrechterhalten. Der Beschuldigte bestritt die Vorwürfe nicht im Kern, machte jedoch geltend, die Auszahlung an die Verkäuferseite sei mündlich veranlasst worden. Die Mandantin [[person|Pollak]] wurde im Verfahren als Zeugin vernommen und schilderte die Verhandlungen mit dem Beschuldigten im Detail. Der Senat hat die Einvernahme in Anwesenheit des Beschuldigten und der Kammeranwältin durchgeführt, um den Grundsatz des rechtlichen Gehörs zu wahren.
 
-Die RAK legte dem Disziplinarrat eine Auszugsliste des Treuhandkontos vor, aus der die Bewegungen der Treuhandschaft nachvollziehbar sind. Diese Liste bildet die Grundlage der nachfolgenden Feststellungen.
+Die [[organization|RAK]] legte dem Disziplinarrat eine Auszugsliste des Treuhandkontos vor, aus der die Bewegungen der Treuhandschaft nachvollziehbar sind. Diese Liste bildet die Grundlage der nachfolgenden Feststellungen.
 
 II. Feststellungen
 
@@ -41,7 +41,7 @@ Der Senat hat die Aussagen der Mandantin [[person|Pollak]] als glaubwürdig beur
 
 Dass der Beschuldigte selbst Bargeld behoben hat, ist unstrittig. Die Verbuchung als Honorar setzt eine Honorarvereinbarung und eine Abrechnung gegenüber dem Mandanten voraus, die beide fehlen. Die Kammeranwältin [[person|Dr. Bujak]] hat zutreffend darauf hingewiesen, dass eine Entnahme aus dem Treuhandvermögen ohne Abrechnung auch dann unzulässig ist, wenn der Anspruch auf Honorar besteht.
 
-Die Angaben der RAK zu den Fristen und Beträgen sind schlüssig. Der Senat sieht keinen Anlass, an der Richtigkeit der Auszugsliste zu zweifeln.
+Die Angaben der [[organization|RAK]] zu den Fristen und Beträgen sind schlüssig. Der Senat sieht keinen Anlass, an der Richtigkeit der Auszugsliste zu zweifeln.
 
 Im Akt befindet sich das Schreiben der [[organization|RAK]] vom [[date|09.12.2024]], mit dem der Beschuldigte aufgefordert wurde, die Abrechnung der Treuhandschaft für den Zeitraum vom [[date|02.02.2024]] bis zum [[date|30.09.2024]] vorzulegen. Das Schreiben blieb zunächst unbeantwortet. Erst mit Schriftsatz vom [[date|21.01.2025]] legte der Beschuldigte eine Aufstellung vor, die jedoch keine Belege für die Zahlung an die [[organization|Glas Baustoffe GmbH]] enthielt. Eine zweite Aufforderung der [[organization|RAK]] vom [[date|03.03.2025]] ist ebenfalls ohne Ergebnis geblieben, bis die Angelegenheit mit der Anzeige weiterverfolgt wurde.
 

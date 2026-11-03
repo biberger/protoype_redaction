@@ -34,7 +34,7 @@ Zwischensumme netto: EUR 3.600,00
 Umsatzsteuer 20 %: EUR 720,00
 Gesamtbetrag brutto: EUR 4.320,00
 
-Die Honorare sind nach dem [[legal_norm|RATG]] ermittelt; die Auslagen für Gerichtsgebühren sind in der Note nicht enthalten. Die Verfahrensakten zum Verfahren [[person|Goltz]] werden auf Wunsch übermittelt.
+Die Honorare sind nach dem [[legal_norm|RATG]] ermittelt; die Auslagen für Gerichtsgebühren sind in der Note nicht enthalten. Die Verfahrensakten zum Verfahren [[person|Goltz]] werden auf Wunsch übermittelt. Eine Zahlung in Raten ist nach vorheriger Vereinbarung möglich; die Kanzlei bittet in diesem Fall um eine schriftliche Mitteilung bis zum Fälligkeitstag.
 
 Gegenstand des Verfahrens ist auch die Dienstwohnung, eingetragen als [[land_register_id|GB 51779 Klosterneuburg]]/[[land_register_id|EZ 1432]]; [[land_register_id|Parz. 328/6]]. Die Räumung ist nicht Teil dieser Note.
 

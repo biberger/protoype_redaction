@@ -36,7 +36,7 @@ danke für Ihre Rückmeldung. Die [[organization|Hakl Handels GmbH]] ([[company_
 > Gesendet: Montag, [[date|5. Oktober 2026]] 08:41
 > Die [[organization|AGV]] prüft derzeit, ob der Versicherungsfall unter die Deckung der Polizze fällt.
 
-Wir ersuchen um Bestätigung bis Ende der Woche. Die [[organization|Hakl]] ist durch den Verlust des Fahrzeugs derzeit nur eingeschränkt lieferfähig.
+Die Höhe des Anspruchs beziffern wir mit EUR 21.400,00 laut Wiederbeschaffungswert; die Zulassungsbescheinigung und der Kaufvertrag liegen bei. Wir ersuchen um Bestätigung bis Ende der Woche. Die [[organization|Hakl]] ist durch den Verlust des Fahrzeugs derzeit nur eingeschränkt lieferfähig.
 
 Mit freundlichen Grüßen
 

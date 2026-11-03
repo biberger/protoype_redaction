@@ -53,13 +53,13 @@ Die Ampelanlage wurde nach dem Unfall von der Verkehrsabteilung überprüft. Ein
 
 5. Weitere Erhebungen
 
-Die Videoaufnahmen eines privaten Geschäftes am Hauptplatz wurden angefordert. Der Betreiber hat zugesagt, die Aufnahmen bis zum 20.10.2026 zur Verfügung zu stellen. Die Zeugen [[person|Roch]] und [[person|Aulitzky]] wurden ersucht, für eine allfällige weitere Einvernahme erreichbar zu bleiben. [[person|Rosta]] gab an, am Unfalltag als Beifahrer nicht angeschnallt gewesen zu sein, was er bedauert.
+Die Videoaufnahmen eines privaten Geschäftes am [[street|Hauptplatz]] wurden angefordert. Der Betreiber hat zugesagt, die Aufnahmen bis zum [[date|20.10.2026]] zur Verfügung zu stellen. Die Zeugen [[person|Roch]] und [[person|Aulitzky]] wurden ersucht, für eine allfällige weitere Einvernahme erreichbar zu bleiben. [[person|Rosta]] gab an, am Unfalltag als Beifahrer nicht angeschnallt gewesen zu sein, was er bedauert.
 
 Eine Anfrage an die Versicherung des Fahrzeugs 2 wurde gestellt. Die Antwort steht noch aus. Die Vollkaskodeckung beider Fahrzeuge ist nach den Angaben der Lenker vorhanden.
 
 6. Rechtliche Beurteilung
 
-Der Sachverhalt wird als Verwaltungsübertretung nach der Straßenverkehrsordnung zur Prüfung an die zuständige Bezirkshauptmannschaft übermittelt. Ob die Übertretung [[person|Hohn]] oder [[person|Heinrich]] zuzurechnen ist, wird erst nach Auswertung der Videoaufnahmen beurteilt. Die Anzeige ergeht an alle Beteiligten.
+Der Sachverhalt wird als Verwaltungsübertretung nach der [[legal_norm|Straßenverkehrsordnung]] zur Prüfung an die zuständige Bezirkshauptmannschaft übermittelt. Ob die Übertretung [[person|Hohn]] oder [[person|Heinrich]] zuzurechnen ist, wird erst nach Auswertung der Videoaufnahmen beurteilt. Die Anzeige ergeht an alle Beteiligten.
 
 Die Lenker wurden darauf hingewiesen, dass sie die Unfallmeldung innerhalb von 14 Tagen an ihre Versicherung weiterzuleiten haben. Die Beamten haben keine Festnahme vorgenommen.
 

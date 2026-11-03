@@ -17,7 +17,7 @@ Beisitzerin: [[judge|Dr. Carola Wimmer]], Geburtsdatum: [[date_of_birth|1937-06-
 Kammeranwalt: [[person|Dr. Radúz Slavík]]
 Schriftführerin: [[person|Dubica Matonohová]], GEB: [[date_of_birth|9. August 1972]]
 
-über die Disziplinaranzeige gegen Rechtsanwalt [[lawyer|Lawrence Moravec]], Kanzlei in [[location|Graz]], wegen des Verdachtes der Verletzung der Berufspflichten nach den §§ 1, 9 und 43a RAO, nach mündlicher Verhandlung am [[date|17.09.2026]] in [[location|St. Wolfgang im Salzkammergut]] zu Recht erkannt:
+über die Disziplinaranzeige gegen Rechtsanwalt [[lawyer|Lawrence Moravec]], Kanzlei in [[location|Graz]], wegen des Verdachtes der Verletzung der Berufspflichten nach den [[legal_norm|§§ 1, 9 und 43a RAO]], nach mündlicher Verhandlung am [[date|17.09.2026]] in [[location|St. Wolfgang im Salzkammergut]] zu Recht erkannt:
 
 I. Der Beschuldigte [[lawyer|Moravec]] ist schuldig, er hat zwischen [[date|3. März 2024]] und [[date|12. November 2025]] Gelder von Klienten auf dem Treuhandkonto entgegen [[legal_norm|§ 43a Abs 5 RAO]] nicht vollständig und zeitgerecht verbucht und Zahlungen an Dritte ohne Vollmacht geleistet.
 
@@ -74,7 +74,7 @@ Die Kosten des Verfahrens trägt der Beschuldigte [[lawyer|Moravec]]. Die Verfah
 
 Gegen diese Entscheidung ist ein Rechtsmittel an den [[court|Obersten Gerichtshof]] als Disziplinargericht innerhalb von vier Wochen ab Zustellung zulässig. Der Antrag auf Aufhebung ist beim Kammeranwalt [[person|Slavík]] einzubringen.
 
-Wien, am [[date|17.09.2026]]
+[[location|Wien]], am [[date|17.09.2026]]
 
 Für die Richtigkeit der Ausfertigung:
 [[person|Dubica Matonohová]]

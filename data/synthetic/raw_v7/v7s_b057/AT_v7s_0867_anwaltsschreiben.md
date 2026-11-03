@@ -30,7 +30,9 @@ Wir fordern Sie auf, bis zum [[date|02.11.2026]] schriftlich zu bestätigen, wan
 
 Die Vertragsnummer [[other_identifier|KV-2024-21904]] ist in allen Schreiben anzugeben. Telefonisch erreichen Sie uns unter Tel. [[phone_number|+43 1 826 60 44-93]] oder über das Büro in [[location|Sankt Kathrein am Offenegg]].
 
-Die [[organization|Kratochwil]] hat in früheren Schreiben vorgebracht, die Verzögerung sei durch eine Zollkontrolle verursacht worden. Eine Bestätigung der Zollbehörde liegt uns nicht vor. Wir bitten um Vorlage der Unterlagen bis zum genannten Termin. Frau [[person|Tandler]] wird gebeten, die Unterlagen direkt an unsere Kanzlei zu übermitteln.
+Die [[organization|Kratochwil]] hat in früheren Schreiben vorgebracht, die Verzögerung sei durch eine Zollkontrolle verursacht worden. Eine Bestätigung der Zollbehörde liegt uns nicht vor. Wir bitten um Vorlage der Unterlagen bis zum genannten Termin. Frau [[person|Tandler]] wird gebeten, die Unterlagen direkt an unsere Kanzlei zu übermitteln. Sollte die [[organization|Kratochwil KG]] den Zollbescheid nicht vorlegen können, bitten wir um eine kurze Mitteilung, ob die Ware überhaupt versandt wurde und welches Beförderungsmittel dafür gewählt worden ist. Die Frachtpapiere sind uns in Kopie zu übermitteln.
+
+Für die Abwicklung der Angelegenheit ist unsere Mandantin auf eine rasche Rückmeldung angewiesen, weil der Auftrag ihrer eigenen Kunden davon abhängt. Eine Verlängerung der Frist über den [[date|02.11.2026]] hinaus ist für unsere Mandantin nicht möglich.
 
 Die Ware war nach dem Vertrag in zwei Teillieferungen zu übernehmen. Die erste Teillieferung vom [[date|14.08.2026]] ist ordnungsgemäß eingegangen und wurde von unserer Mandantin abgenommen; die zweite Teillieferung ist bis heute ausständig. Die Abnahmeprotokolle liegen bei.
 

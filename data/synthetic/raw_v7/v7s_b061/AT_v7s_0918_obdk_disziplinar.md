@@ -49,13 +49,23 @@ Die Beschuldigte hat keine Gegenbeweise vorgelegt. Ihr Vorbringen, der Klient ha
 
 Der Auszug der Treuhandbewegungen ist vollständig; Abweichungen zwischen den Beträgen konnten nicht festgestellt werden.
 
+Der Zeuge [[person|Jürgen Hafner]], Bauleiter der [[organization|Pannonia Bau GmbH]], hat in seiner Einvernahme bestätigt, dass die Restzahlung erst nach der Endabnahme im Mai 2024 fällig war und dass die Forderung der Bauunternehmung im Zeitpunkt der Entnahme noch nicht fällig gewesen ist. Die Beschuldigte hatte daher keinen fälligen Anspruch auf Zahlung aus dem Sammelkonto, das ausschließlich für den Klienten [[person|Grün]] bestimmt war.
+
+Die Zeugin [[person|Ingrid Kollmann]], Mitarbeiterin der Kanzlei, hat ausgesagt, sie habe die Buchung vom [[date|05.02.2024]] auf Anweisung der Beschuldigten vorgenommen und dabei die Abrechnung nicht geprüft. Der Senat hält diese Aussage für glaubwürdig, weil die Zeugin erkennbar keinen eigenen Vorteil aus der Buchung hatte; sie ändert aber nichts an der Verantwortung der Beschuldigten, die als Kanzleiinhaberin für die ordnungsgemäße Verbuchung einzustehen hat.
+
+Im Berufungsverfahren wurde ferner geprüft, ob die Honorarforderung der Beschuldigten dem Grunde nach bestand. Der Senat geht davon aus, dass ein Honoraranspruch für die Vertretung im Verfahren gegen die Bauunternehmung bestand, weil die Vollmacht vom [[date|07.01.2024]] eine Vergütung ausdrücklich vorsah. Die Höhe des Anspruchs war jedoch nicht durch eine Abrechnung belegt, und die Entnahme ohne vorherige Rechnungslegung bleibt unzulässig, auch wenn der Anspruch später besteht.
+
 IV. Rechtliche Beurteilung
 
 Ein Rechtsanwalt darf Mandantengelder, die er verwahrt, nur für den vereinbarten Zweck verwenden. Die Verrechnung eines Honorars mit Treuhandgeldern setzt eine Honorarvereinbarung und eine nachvollziehbare Abrechnung voraus. Beides fehlte hier. Der Senat hält den Schuldspruch des Disziplinarrates daher für zutreffend.
 
 Die Beschuldigte hat allerdings einen Teilbetrag von EUR 800,00 nachträglich nachweisbar anerkannt, indem sie ihn auf das Anderkonto zurückgebucht hat. Dieser Umstand war im erstinstanzlichen Verfahren nicht berücksichtigt worden und ist im Rahmen der Strafbemessung als mildernd zu werten.
 
-Die von der [[court|OBDK]] herabgesetzte Geldbuße entspricht dem Unrechtsgehalt der Tat, zumal die Beschuldigte bisher disziplinarrechtlich unbescholten ist.
+Die von der [[court|OBDK]] herabgesetzte Geldbuße entspricht dem Unrechtsgehalt der Tat, zumal die Beschuldigte bisher disziplinarrechtlich unbescholten ist. Der Senat berücksichtigt außerdem, dass die Beschuldigte die Berufung nur teilweise auf den Schuldspruch gestützt hat und die Feststellungen zur Entnahme im Wesentlichen unbestritten sind.
+
+Die Vorschrift über die Verwahrung von Mandantengeldern dient dem Schutz des rechtsuchenden Publikums. Wer Treuhandgelder für den Mandanten verwaltet, muss jederzeit nachweisen können, für wen und zu welchem Zweck die Gelder verwendet werden. Eine Verrechnung mit einem noch nicht abgerechneten Honorar verletzt diesen Grundsatz selbst dann, wenn der Betrag später zurückgebucht wird, weil die Transparenz gegenüber dem Mandanten nicht wiederhergestellt werden kann.
+
+Der Senat hat die Strafhöhe nicht nach dem Verhältnis zum entnommenen Betrag allein bemessen, sondern die Gesamtumstände gewichtet. Dazu zählen der Zeitraum von rund zwei Monaten zwischen Entnahme und Rückbuchung, die mangelnde Abrechnung über einen längeren Zeitraum und die Tatsache, dass die Beschuldigte die Honorarnote erst nach der Entnahme erstellt hat.
 
 V. Kosten
 

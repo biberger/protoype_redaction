@@ -90,7 +90,7 @@ VI. Vollmacht und Zustellung
 
 VII. Hinweise der Rechtsanwältin
 
-Die Rechtsanwältin [[person|Pall]] hat die Vertragsteile darüber belehrt, dass ein Kaufvertrag über eine Liegenschaft zu seiner Wirksamkeit der Schriftform und der Eintragung im Grundbuch bedarf. Ohne Eintragung erwirbt die Käuferin kein Eigentum, auch wenn der Kaufpreis bereits bezahlt ist. Die Vertragsteile wurden ferner darauf hingewiesen, dass die Grunderwerbsteuer nach dem Wert der Gegenleistung bemessen wird und innerhalb von 30 Tagen nach Abschluss des Vertrages anzuzeigen ist.
+Die Rechtsanwältin [[person|Pall]] hat die Vertragsteile darüber belehrt, dass ein Kaufvertrag über eine Liegenschaft zu seiner Wirksamkeit der Schriftform und der Eintragung im Grundbuch bedarf. Ohne Eintragung erwirbt die Käuferin kein Eigentum, auch wenn der Kaufpreis bereits bezahlt ist. Die Vertragsteile wurden ferner darauf hingewiesen, dass die Grunderwerbsteuer nach dem Wert der Gegenleistung bemessen wird und innerhalb von 30 Tagen nach Abschluss des Vertrages anzuzeigen ist. Die Anzeige wird von der Rechtsanwältin [[person|Pall]] vorbereitet und den Vertragsteilen zur Unterfertigung vorgelegt.
 
 Die Verkäuferin [[person|Pretorian]] wurde auf die Möglichkeit eines Notariatsaktes hingewiesen und hat darauf verzichtet.
 

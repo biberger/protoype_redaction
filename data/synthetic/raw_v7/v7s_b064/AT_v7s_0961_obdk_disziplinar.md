@@ -79,6 +79,10 @@ III. Rechtliche Beurteilung
 
 18. Der Senat hat die Akten vollständig eingesehen und keinen Anlass gesehen, die Beweise durch weitere Zeugen zu ergänzen. Die Anträge auf Vernehmung der Mitarbeiterin der Kanzlei wurden abgewiesen, weil ihr Wissen bereits durch die Protokolle belegt ist und eine Vernehmung zu keiner weiteren Klärung der Buchungen führen würde.
 
+19. Zu den persönlichen Verhältnissen des Beschuldigten hat der Senat festgestellt, dass er seine Kanzlei seit dem Jahr 2011 als Einzelanwalt führt und zwei Mitarbeiterinnen beschäftigt. Eine der beiden Mitarbeiterinnen war für die Buchhaltung des Treuhandkontos zuständig und ist seit Februar 2026 nicht mehr in der Kanzlei tätig. Der Beschuldigte hat dem Senat glaubhaft dargelegt, dass er die Buchhaltung seither selbst führt und einem externen Steuerberater übergeben hat.
+
+20. Der Senat hat bei der Bemessung der Geldbuße auch berücksichtigt, dass die Vorwürfe die Klientengelder einer einzigen Kanzlei betreffen und kein Klient einen endgültigen Vermögensverlust erlitten hat. Die Herabsetzung der Geldbuße erfolgt deshalb auf einen Betrag, der die Schwere der Verstöße noch deutlich widerspiegelt.
+
 Für die Richtigkeit der Ausfertigung:
 
 [[location|Wien]], am [[date|14.05.2026]]
