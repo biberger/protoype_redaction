@@ -85,7 +85,7 @@ Das [[organization|Land Salzburg]] ist als Streitverkündeter im Verfahren beige
 
 Die Berufungsgründe sind im Umfang der Beweisrüge begründet, weil das Erstgericht die Feststellungen ohne ausreichende Würdigung getroffen hat.
 
-Horn, am [[date|29.10.2026]]
+[[location|Horn]], am [[date|29.10.2026]]
 
 [[person|Dr. Posselt]]
 Rechtsanwalt

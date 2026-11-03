@@ -74,9 +74,13 @@ IV/2. Beweiswürdigung und Verjährung
 
 13. Die Verteidigung hat beantragt, das Verfahren wegen Verjährung einzustellen. Der Senat hat dies abgelehnt, weil die Frist nach [[legal_norm|§ 1 RAO]] erst mit der letzten Buchung zu laufen begann und die Anzeige rechtzeitig erstattet wurde.
 
+14. Bei der Strafzumessung hat der Senat berücksichtigt, dass die Beschuldigte die Kontobewegungen über einen Zeitraum von fast drei Jahren nicht vollständig dokumentiert hat. Die Kammer hat in ihrem Bericht darauf verwiesen, dass die Beschuldigte für die Treuhandschaft nur eine unvollständige Aufstellung vorgelegt hat.
+
+15. Mildernd wirkt, dass die Beschuldigte die Mittel nach der Anzeige in voller Höhe an den Mandanten zurückgeführt hat und dass sie den Vorwurf der Bereicherung nicht erhoben hat. Die Geldbuße von EUR 3.000,00 erscheint vor diesem Hintergrund als angemessen.
+
 V. Kosten
 
-14. Die Kosten des Verfahrens werden der Beschuldigten auferlegt. Die Entscheidung ergeht an den Kammeranwalt [[person|DI Rudolf Andel]], an die Beschuldigte [[lawyer|Nelly Brandt]] und an den Mandanten [[person|Sermet Conker]].
+16. Die Kosten des Verfahrens werden der Beschuldigten auferlegt. Die Entscheidung ergeht an den Kammeranwalt [[person|DI Rudolf Andel]], an die Beschuldigte [[lawyer|Nelly Brandt]] und an den Mandanten [[person|Sermet Conker]].
 
 [[location|Graz]], am [[date|23.06.2025]]
 

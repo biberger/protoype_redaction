@@ -30,6 +30,8 @@ Der Disziplinarrat der [[organization|KRAK]] hat den Beschuldigten mit Erkenntni
 
 Die [[organization|KRAK]] hat die Akten am [[date|12.05.2025]] übermittelt. Eine Ergänzung des Sachverhalts erfolgte nicht.
 
+Der Beschuldigte hat in seiner Berufung vorgebracht, die Verzögerung der Auszahlung sei auf eine Anweisung der Mandantin zurückzuführen, die den Betrag bis zur Klärung einer Forderung der Hausverwaltung zurückhalten wollte. Eine solche Anweisung ist schriftlich nicht belegt. Die Mandantin [[person|Nestler]] hat in der Berufungsverhandlung ausdrücklich bestritten, eine solche Weisung erteilt zu haben.
+
 II. Sachverhalt
 
 1. Die Treuhandschaft Nr. [[other_identifier|2019/292]]
@@ -51,11 +53,15 @@ Datum | Vorgang | Betrag (EUR) | Treuhandnummer
 [[date|30.11.2024]] | Auszahlung [[person|Nestler]] | 16.700,00 | TH-Nr. [[other_identifier|2019/292]]
 [[date|30.11.2024]] | Auszahlung Immobilienverwaltung | 9.000,00 | TH-Nr. [[other_identifier|2024/868]]
 
-Die Auszahlung vom [[date|30.11.2024]] an die Mandantin erfolgte erst nach der Beschwerde der Mandantin bei der [[organization|KRAK]]. Die Zahlung der Ablöse an den Kreditgeber wurde nicht dokumentiert.
+Die Auszahlung vom [[date|30.11.2024]] an die Mandantin erfolgte erst nach der Beschwerde der Mandantin bei der [[organization|KRAK]]. Die Zahlung der Ablöse an den Kreditgeber wurde nicht dokumentiert. Eine Zahlungsbestätigung der Bank oder des Kreditgebers liegt nicht vor, obwohl der Beschuldigte im Verfahren zur Vorlage aufgefordert wurde.
+
+Die [[organization|Dirnhofer]] hat im Verfahren eine Erklärung vorgelegt, wonach sie von einer Ablöse nichts wisse und keine Zahlung aus dem Treuhandkonto erhalten habe. Die Gesellschaft hat den Betrag von EUR 9.000,00 erst nach der Beschwerde der Mandantin erhalten, was die Buchung vom [[date|30.11.2024]] bestätigt.
 
 III. Beweiswürdigung
 
 Der Senat hat die Mandantin [[person|Vreni Nestler]] einvernommen. Sie gab an, sie habe den Betrag erst nach ihrer Beschwerde vollständig erhalten. Die Buchungsübersicht bestätigt diese Angaben.
+
+Die Angaben der Mandantin werden durch den Schriftverkehr mit der Bank gestützt, der zeigt, dass die Ablöse nie beantragt wurde. Der Senat hat die Wirtschaftsprüferin der Kammer ergänzend gehört, die bestätigte, dass auf dem Treuhandkonto im Zeitraum von April 2019 bis Dezember 2024 kein Betrag zur Ablöse eines Kredits verbucht ist.
 
 Der Beschuldigte hat vorgebracht, die Ablöse sei mit der Mandantin besprochen gewesen. Diese Behauptung ist widerlegt, weil die Mandantin an der Besprechung nicht teilgenommen hat und die Ablöse nicht schriftlich vereinbart war.
 

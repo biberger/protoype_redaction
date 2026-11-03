@@ -85,6 +85,12 @@ VII. Ergänzende Bestimmungen
 
 19. Die Käuferinnen verpflichten sich, die Liegenschaft nach der Übergabe nicht zu veräußern, bevor das Eigentumsrecht eingetragen ist. Eine Verpfändung vor der Eintragung ist ausgeschlossen.
 
+20. Die Übergabe der Schlüssel erfolgt am Tag der Übergabe der Liegenschaft im Beisein der Kanzlei. Die Verkäufer übergeben alle vorhandenen Schlüssel, die Heizungsunterlagen und die Bedienungsanleitungen der Haustechnik. Nicht übergebene Schlüssel sind binnen einer Woche nachzureichen.
+
+21. Die Verkäufer bestätigen, dass sie keine Mietverträge über die Liegenschaft abgeschlossen haben. Sollte ein Mietverhältnis bestehen, übernehmen die Käuferinnen dieses mit allen Rechten und Pflichten, sofern die Mieter dem zustimmen.
+
+22. Die Käuferinnen erklären, dass sie den Kaufpreis aus eigenen Mitteln und aus einem Darlehen aufbringen. Die Finanzierung ist nicht Bedingung dieses Vertrages; die Käuferinnen tragen das Risiko der Finanzierung allein.
+
 [[location|Polling im Innkreis]], am [[date|14.01.2026]]
 
 Verkäuferin: [[person|Sija Kirova]]

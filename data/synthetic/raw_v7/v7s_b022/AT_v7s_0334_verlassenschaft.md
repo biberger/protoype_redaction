@@ -80,7 +80,7 @@ Das Testament vom [[date|19.03.2023]] enthält neben den Vermächtnissen keine A
 
 Die Kosten der Verlassenschaft, einschließlich der Gerichtsgebühren und der Notarkosten, sind aus dem Nachlass zu bestreiten. Eine Erbschaftssteuer wird seit dem Jahr 2008 nicht mehr erhoben. Die Erben wurden darauf hingewiesen, dass die Einantwortung erst nach Vorlage der Unbedenklichkeitsbescheinigung erfolgen kann, die für die Grundbuchseintragung erforderlich ist. Diese wurde beim [[organization|Finanzamt Kufstein Kitzbühel]] angefordert. Sie werden nach Abschluss der Abhandlung gesondert abgerechnet. Die Erben werden ersucht, bis zur Einantwortung keine Verfügungen über die Liegenschaften und das Girokonto zu treffen, ausgenommen die laufende Verwaltung.
 
-Vom Verstorbenen wurden keine Sachwalter bestellt. Die Verlassenschaftsabhandlung wurde im Verfahren mit der Vollmacht der Erben durchgeführt. Die [[court|Bezirksgericht Kufstein]] hat mit Beschluss vom [[date|22.12.2026]] die Einantwortung in Aussicht gestellt.
+Vom Verstorbenen wurden keine Sachwalter bestellt. Die Gläubigerin wurde über die Verlassenschaftsabhandlung und die Anmeldungsfrist schriftlich verständigt, ebenso die beiden Erben über die Höhe der Passiva. Die Verlassenschaftsabhandlung wurde im Verfahren mit der Vollmacht der Erben durchgeführt. Die [[court|Bezirksgericht Kufstein]] hat mit Beschluss vom [[date|22.12.2026]] die Einantwortung in Aussicht gestellt.
 
 Zur Dokumentation folgt eine Liste der Personen, die vom Gericht am [[date|11.12.2026]] in der Sitzung angehört wurden:
 

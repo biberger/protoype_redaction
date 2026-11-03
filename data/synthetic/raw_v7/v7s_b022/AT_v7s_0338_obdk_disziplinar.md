@@ -27,7 +27,7 @@ Die Beschuldigte [[lawyer|Bürkl]] erschien persönlich. Der Kammeranwalt [[pers
 
 Vorgeschichte
 
-Die Anzeige ist am [[date|19.03.2025]] bei der Rechtsanwaltskammer für Kärnten eingegangen. Die Anzeige stützte sich auf die Beschwerde des Mandanten [[person|Jauk]] und auf eine Prüfung der Treuhandbücher durch den Kammerrevisor. Der Kammeranwalt hat die Anzeige geprüft und am [[date|02.06.2025]] die Disziplinaranzeige eingebracht. Die Beschuldigte hat sich mit Schriftsatz vom [[date|14.07.2025]] verantwortet.
+Die Anzeige ist am [[date|19.03.2025]] bei der Rechtsanwaltskammer für Kärnten eingegangen. Die Anzeige stützte sich auf die Beschwerde des Mandanten [[person|Jauk]] und auf eine Prüfung der Treuhandbücher durch den Kammerrevisor. Der Kammeranwalt hat die Anzeige geprüft und am [[date|02.06.2025]] die Disziplinaranzeige eingebracht. Die Beschuldigte hat sich mit Schriftsatz vom [[date|14.07.2025]] verantwortet. Die Verantwortung wurde im Verfahren in weiten Teilen wiederholt und nicht ergänzt.
 
 Die Beschuldigte hat in ihrer Verantwortung angegeben, dass die Kanzlei im Jahr 2021 über einen Mitarbeiter verfügte, der die Buchhaltung der Treuhandkonten besorgte, dieser habe jedoch eigenmächtig Buchungen vorgenommen. Der Senat hat diese Angabe geprüft und als nicht entlastend bewertet, weil die Beschuldigte als Rechtsanwältin für die ordnungsgemäße Führung der Treuhandbücher persönlich verantwortlich bleibt.
 
@@ -78,7 +78,7 @@ Die Geldbuße wurde daher in einem Betrag festgesetzt, der die Wiederholung verh
 
 Kosten
 
-Die Kostenentscheidung beruht auf [[legal_norm|§ 52 RAO]]. Die Beschuldigte hat die Kosten des Verfahrens zu tragen. Das Kostenverzeichnis umfasst die Kosten der Verhandlung, die Reisekosten des Kammerrevisors und die Kosten der Zustellung. Die Kosten des Zeugen [[person|Jauk]] für die Anreise zur Verhandlung sind der Beschuldigten nicht aufzuerlegen, weil er nur auf Ladung erschienen ist. Die Beschuldigte hat den Betrag innerhalb von vier Wochen nach Rechtskraft auf das Konto der Kammer zu überweisen.
+Die Kostenentscheidung beruht auf [[legal_norm|§ 52 RAO]]. Die Beschuldigte hat die Kosten des Verfahrens zu tragen. Das Kostenverzeichnis umfasst die Kosten der Verhandlung, die Reisekosten des Kammerrevisors und die Kosten der Zustellung. Die Kosten des Zeugen [[person|Jauk]] für die Anreise zur Verhandlung sind der Beschuldigten nicht aufzuerlegen, weil er nur auf Ladung erschienen ist. Die Beschuldigte hat den Betrag innerhalb von vier Wochen nach Rechtskraft auf das Konto der Kammer zu überweisen. Eine Ratenzahlung ist nur mit Zustimmung des Kammervorstandes zulässig.
 
 Schluss
 

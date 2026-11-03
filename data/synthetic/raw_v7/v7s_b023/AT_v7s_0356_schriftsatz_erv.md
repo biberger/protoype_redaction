@@ -57,7 +57,7 @@ BEGRÜNDUNG
 Pos. 1   Hausrat (Couch, Teppiche, Vorhänge)          EUR  6.100,00
 Pos. 2   Einbauküche, Front- und Arbeitsplatte       EUR  3.550,00
 Pos. 3   Trocknung und Behandlung der Wand            EUR  2.340,00
-Pos. 4   Mietzinsminderung 10.06. bis 31.08.2026      EUR  5.250,00
+Pos. 4   Mietzinsminderung [[date|10.06.2026]] bis [[date|31.08.2026]]      EUR  5.250,00
          Summe                                       EUR 17.240,00
 
 
@@ -75,7 +75,7 @@ Pos. 4   Mietzinsminderung 10.06. bis 31.08.2026      EUR  5.250,00
 
 2.3 Die Mietzinsminderung gründet sich auf [[legal_norm|§ 1096 Abs 1 ABGB]]. Ein Mietzinsabzug für die Zeit der Unbenutzbarkeit der Küche ist gerechtfertigt.
 
-2.4 Auch das Mietrechtsgesetz ist anwendbar, weil die Wohnung im Vollanwendungsbereich des [[legal_norm|MRG]] liegt. Die Klägerin begehrt daher auch die Feststellung, dass die Beklagte die Instandhaltungsmaßnahmen rechtzeitig zu avisieren hatte, gemäß [[legal_norm|§ 3 MRG]].
+2.4 Auch das [[legal_norm|Mietrechtsgesetz]] ist anwendbar, weil die Wohnung im Vollanwendungsbereich des [[legal_norm|MRG]] liegt. Die Klägerin begehrt daher auch die Feststellung, dass die Beklagte die Instandhaltungsmaßnahmen rechtzeitig zu avisieren hatte, gemäß [[legal_norm|§ 3 MRG]].
 
 2.4a Die Verjährungsfrist nach [[legal_norm|§ 1489 ABGB]] ist gewahrt, weil der Schaden am [[date|10.06.2026]] eingetreten ist und die Klage innerhalb von drei Jahren nach Kenntnis eingebracht wird. Ein Mitverschulden der Klägerin liegt nicht vor, weil sie die Wohnung während der Arbeiten nicht betreten konnte und die Beklagte den Zugang selbst gesperrt hatte.
 

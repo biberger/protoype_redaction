@@ -156,7 +156,7 @@ IX. SCHLUSSBESTIMMUNGEN
 VERKÄUFERIN:
 
 ______________________________
-Assinger KG
+[[organization|Assinger KG]]
 
 KÄUFERINNEN UND KÄUFER:
 

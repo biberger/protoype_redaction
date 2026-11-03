@@ -32,7 +32,7 @@ I. Vertragsgegenstand
 
 Die Verkäuferin ist grundbücherliche Alleineigentümerin der Liegenschaft in [[location|Pernitz]], eingetragen in der Liegenschaft [[land_register_id|EZ1459]] des Grundbuches [[land_register_id|01520 Pernitz]], bestehend aus dem Grundstück [[land_register_id|Parz. 767/11]] samt dem darauf errichteten Wohnhaus mit einer Nutzfläche von rund 142 m².
 
-Die Käufer erwerben die Liegenschaft zu je einem Anteil von 1/2. Die Übergabe erfolgt mit dem Tag der Kaufpreiszahlung.
+Die Käufer erwerben die Liegenschaft zu je einem Anteil von 1/2. Die Übergabe erfolgt mit dem Tag der Kaufpreiszahlung. Die Anteile sind im Grundbuch als Miteigentum nach Bruchteilen einzutragen.
 
 Die Liegenschaft ist mit einem eingeschoßigen Wohnhaus aus dem Jahr 1978 bebaut, das im Jahr 2011 umfassend saniert wurde. Das Gebäude verfügt über drei Zimmer, eine Küche, ein Badezimmer mit Dusche, eine Garage und einen Kellerraum. Zum Grundstück gehört ein Garten im Ausmaß von etwa 610 m², der im Südosten an die Straße angrenzt. Die Zufahrt erfolgt über eine Gemeindestraße, die im Eigentum der Gemeinde steht.
 

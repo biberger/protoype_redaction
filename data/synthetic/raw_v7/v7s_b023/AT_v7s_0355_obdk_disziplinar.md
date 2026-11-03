@@ -8,7 +8,7 @@ Geschäftszahl: [[case_number|D 22/2025]]
 
 ERKENNTNIS
 
-Der Disziplinarrat der Rechtsanwaltskammer Wien hat in der Sitzung vom [[date|25. März 2026]] unter dem Vorsitz von [[judge|Mag. Germanus Moroder]] sowie in Anwesenheit der Beisitzer [[judge|Ing. Baldus Engelmayer]], *[[date_of_birth|9. Dezember 1958]], und [[judge|Stella Rothschild]], geb [[date_of_birth|20.10.1962]], sowie der Schriftführerin [[person|Xaveria Stephan]] über die Disziplinaranzeige des Kammeranwalts [[person|Dr. Ivan Kohler]] gegen die Beschuldigte [[lawyer|Uta Dipl.-Ing. Czettel]], Rechtsanwältin in [[location|Wien]], erkannt:
+[[court|Disziplinarrat der Rechtsanwaltskammer Wien]] hat in der Sitzung vom [[date|25. März 2026]] unter dem Vorsitz von [[judge|Mag. Germanus Moroder]] sowie in Anwesenheit der Beisitzer [[judge|Ing. Baldus Engelmayer]], *[[date_of_birth|9. Dezember 1958]], und [[judge|Stella Rothschild]], geb [[date_of_birth|20.10.1962]], sowie der Schriftführerin [[person|Xaveria Stephan]] über die Disziplinaranzeige des Kammeranwalts [[person|Dr. Ivan Kohler]] gegen die Beschuldigte [[lawyer|Uta Dipl.-Ing. Czettel]], Rechtsanwältin in [[location|Wien]], erkannt:
 
 Spruch
 
@@ -30,9 +30,9 @@ Die Beschuldigte hat in ihrer Stellungnahme vom [[date|12.12.2025]] den Vorwurf 
 
 II. Sachverhalt
 
-1. Der Klient [[person|Mag. Dr. Desiderius Netzer]] übergab der Beschuldigten im Herbst 2022 einen Betrag von EUR 35.000,00 als Treuhandschaft Nr. [[other_identifier|2023/985]]. Der Betrag sollte für die Ablöse einer Bestandsvereinbarung verwendet werden. Netzer wohnt in [[address|8593 Graden]], Tel. [[phone_number|07242/1805353-7]].
+1. Der Klient [[person|Mag. Dr. Desiderius Netzer]] übergab der Beschuldigten im Herbst 2022 einen Betrag von EUR 35.000,00 als Treuhandschaft Nr. [[other_identifier|2023/985]]. Der Betrag sollte für die Ablöse einer Bestandsvereinbarung verwendet werden. [[person|Netzer]] wohnt in [[address|8593 Graden]], Tel. [[phone_number|07242/1805353-7]].
 
-2. Der Klient [[person|Cyrill Neuhauser]] übergab der Beschuldigten einen weiteren Betrag von EUR 12.400,00 unter der TH-Nr. [[other_identifier|2023/926]]. Die Kanzlei der Beschuldigten befindet sich seit dem Jahr 2021 in [[location|St. Gilgen]], die Mandate wurden jedoch in Wien betreut.
+2. Der Klient [[person|Cyrill Neuhauser]] übergab der Beschuldigten einen weiteren Betrag von EUR 12.400,00 unter der TH-Nr. [[other_identifier|2023/926]]. Die Kanzlei der Beschuldigten befindet sich seit dem Jahr 2021 in [[location|St. Gilgen]], die Mandate wurden jedoch in [[location|Wien]] betreut.
 
 3. Die Bewegungen auf dem Treuhandkonto stellen sich laut dem Bericht des Kammeranwalts und den vorgelegten Kontoauszügen wie folgt dar:
 
@@ -45,7 +45,7 @@ Datum         Vorgang                                   Betrag EUR     Treuhand-
 [[date|30.11.2023]]    Rückzahlung an [[person|Netzer]]             4.000,00      [[other_identifier|2023/985]]
 [[date|15.01.2024]]    Rückzahlung an [[person|Neuhauser]]         2.000,00      [[other_identifier|2023/926]]
 
-4. Der Betrag vom [[date|08.02.2023]] wurde nach den Angaben der Beschuldigten an die Verkäuferin einer Liegenschaft ausbezahlt, bevor der Kaufvertrag unterzeichnet war. Die Verkäuferin war nicht Partei der Treuhandschaft mit Netzer, sondern eine Dritte. Ein Beleg über die Zahlung liegt nicht vor.
+4. Der Betrag vom [[date|08.02.2023]] wurde nach den Angaben der Beschuldigten an die Verkäuferin einer Liegenschaft ausbezahlt, bevor der Kaufvertrag unterzeichnet war. Die Verkäuferin war nicht Partei der Treuhandschaft mit [[person|Netzer]], sondern eine Dritte. Ein Beleg über die Zahlung liegt nicht vor.
 
 5. Die Auszahlung vom [[date|13.06.2023]] an Dritte erfolgte ohne Zustimmung des Klienten [[person|Neuhauser]]. Die Beschuldigte hat hierzu ausgeführt, das Geld sei für eine Kanzleiversicherung verwendet worden.
 

@@ -10,7 +10,7 @@ Tel. [[phone_number|+43-662-8887808 Durchwahl 67]]
 
 BESCHLUSS
 
-Der Disziplinarrat der Tiroler Rechtsanwaltskammer hat durch
+[[court|Disziplinarrat der Tiroler Rechtsanwaltskammer]] hat durch
 
 Vorsitz: [[judge|Dr. Knut Kreibich]]
 Beisitzerin: [[judge|Dipl.-Ing. Richarda Dachs]], Geburtsdatum: [[date_of_birth|8. September 1937]]
@@ -41,7 +41,7 @@ II. Sachverhalt
 2. Die Beschuldigte führte für den Klienten ein Treuhandbuch unter der Treuhandbuch-Nr. [[other_identifier|2026/243]]. Die Bewegungen stellen sich laut dem Bericht der Kammeranwältin wie folgt dar:
 
 Datum         Vorgang                                  Betrag EUR    Treuhand-Nr.
-[[date|14.04.2025]]    Zahlungseingang Ottmar Prokop           18.400,00     [[other_identifier|2026/243]]
+[[date|14.04.2025]]    Zahlungseingang [[person|Ottmar Prokop]]          18.400,00     [[other_identifier|2026/243]]
 [[date|29.04.2025]]    Auszahlung an Vermieter                  6.000,00     [[other_identifier|2026/243]]
 [[date|12.06.2025]]    Auszahlung für Kanzleimiete              5.200,00     [[other_identifier|2026/243]]
 [[date|08.09.2025]]    Rückzahlung an [[person|Prokop]]          2.000,00     [[other_identifier|2026/243]]

@@ -89,7 +89,7 @@ Zustellung und Schluss
 
 Die Entscheidung ist den Parteien zuzustellen. Eine Abschrift ist außerdem dem Kammervorstand zu übermitteln, damit die Treuhandprüfung eingeleitet werden kann. Gegen diesen Spruch steht der Beschuldigten das Recht der Berufung an die [[court|OBDK]] offen. Die Berufungsfrist beträgt vier Wochen ab Zustellung. Die Beschuldigte wird darauf hingewiesen, dass die Treuhandkonten bis zur rechtskräftigen Entscheidung nur unter Aufsicht der Kammer verwaltet werden dürfen und dass sie der Kammer bis zum Ablauf der Frist sämtliche Kontoauszüge aller Treuhandschaften vorzulegen hat. Eine Kopie der Entscheidung ergeht an die Klientin [[person|Wessner]] sowie an die Kammerverwaltung zur Kenntnis.
 
-Die Zustellung an die Beschuldigte erfolgt an ihre Kanzlei. Unser Zeichen: [[other_identifier|Payer ./. Schuler]], Tel. [[phone_number|+43 463 629 13 68-59]].
+Die Zustellung an die Beschuldigte erfolgt an ihre Kanzlei. Die Kosten der Zustellung sind mit dem Kostenersatz abgegolten. Unser Zeichen: [[other_identifier|Payer ./. Schuler]], Tel. [[phone_number|+43 463 629 13 68-59]].
 
 [[location|Linz]], am [[date|30.09.2026]]
 

@@ -38,7 +38,7 @@ II. Sachverhalt
 2. Die Bewegungen auf dem Treuhandkonto stellen sich laut Kontoauszügen und Bericht des Kammeranwalts wie folgt dar:
 
 Datum         Vorgang                                 Betrag EUR    Treuhand-Nr.
-[[date|04.03.2023]]    Zahlungseingang Lorenza Dobrescu      62.000,00     [[other_identifier|2021/244]]
+[[date|04.03.2023]]    Zahlungseingang [[person|Lorenza Dobrescu]]     62.000,00     [[other_identifier|2021/244]]
 [[date|18.04.2023]]    Auszahlung an Verkäufer               48.500,00     [[other_identifier|2021/244]]
 [[date|02.06.2023]]    Auszahlung an [[person|Ferdinand Hauzenberger]]   9.000,00      [[other_identifier|2021/244]]
 [[date|25.09.2023]]    Auszahlung für Kanzleibedarf             4.200,00      [[other_identifier|2021/244]]
