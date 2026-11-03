@@ -66,6 +66,16 @@ Die Verwendung anvertrauter Gelder ohne Weisung des Klienten stellt einen schwer
 
 Die Entscheidung des Disziplinarrates ist hinsichtlich des Schuldspruches zu bestätigen. Hinsichtlich der Auszahlung an die Gerichtskasse war der Spruch zu ergänzen, weil diese Zahlung im erstinstanzlichen Erkenntnis unberücksichtigt blieb.
 
+Der Beschuldigte hat in der Berufung ferner gerügt, der Disziplinarrat habe den Zeugen [[person|Dimov]] nicht persönlich gehört, sondern sich auf die schriftliche Beschwerde gestützt. Dieser Einwand geht fehl. Der Beschwerdeführer wurde in der erstinstanzlichen Verhandlung vom [[date|14.08.2025]] vernommen, und das Protokoll liegt dem Senat vor. Eine Wiederholung der Vernehmung war nicht erforderlich, weil die Aussage des Beschwerdeführers mit den Kontoauszügen übereinstimmt.
+
+Die Berufung rügt weiter, die Honorarnote sei nicht berücksichtigt worden. Die Note wurde jedoch erst nach den maßgeblichen Zahlungen erstellt, wie oben dargelegt. Ein nachträglich erstelltes Schriftstück kann eine vorherige Vereinbarung nicht ersetzen. Der Senat hat die Note daher in seine Beurteilung einbezogen und sie als verspätete Rechtfertigung gewertet.
+
+Der Beschuldigte selbst hat in der Verhandlung ausgeführt, er habe in der fraglichen Zeit mehrere Verfahren gleichzeitig geführt und die Buchhaltung nicht laufend kontrolliert. Der Senat hält dazu fest, dass die Organisation der Kanzlei und die Kontrolle der Treuhandkonten in die Verantwortung des Rechtsanwalts fallen. Eine Überlastung entschuldigt die Verwendung fremder Gelder nicht.
+
+Die Verteidigung hat schließlich eingewendet, der Beschwerdeführer habe die Abrechnung im Verfahren vor dem Disziplinarrat verspätet vorgelegt und dadurch den Eindruck einer Verzögerung erweckt. Auch dies trifft nicht zu. Die Abrechnung wurde vom Beschwerdeführer erst am [[date|14.01.2025]] vorgelegt, nachdem der Beschuldigte selbst keine Abrechnung erstellt hatte. Die Verzögerung liegt daher auf Seiten des Beschuldigten.
+
+Der Senat hat außerdem erwogen, ob die Verwendung der Gelder für die Gerichtskasse eine eigene Pflichtverletzung darstellt oder nur eine Folge der Honorarzahlung ist. Die Auszahlung wurde ohne Weisung getätigt und ist daher als eigenständiger Verstoß zu werten. Die Verantwortung des Beschuldigten für diesen Vorgang bleibt unabhängig von der Frage, ob die Gerichtsgebühr tatsächlich fällig war.
+
 5. Strafbemessung
 
 Mildernd wirkt die Rückzahlung der Beträge an den Klienten und die bisherige Unbescholtenheit. Erschwerend wirken die Dauer der Abrechnungsverzögerung von neun Monaten und die Verwendung des Treuhandgeldes für eigene Zwecke. Der Senat erachtet unter Abwägung dieser Umstände eine Geldbuße von EUR 5.000,00 für angemessen. Die Streichung aus der Liste der Rechtsanwälte war nicht erforderlich.

@@ -38,7 +38,7 @@ Das [[court|Bezirksgericht Mödling]] ist nach unserer Einschätzung zuständig,
 
 Ihr Kollege [[person|Holaubek]] wird die Korrespondenz mit der Gegenseite übernehmen. Er hat die Akte bereits unter Kl.-Nr. [[other_identifier|23308]] angelegt.
 
- Die Frist ist aus meiner Sicht angemessen. Ich erwarte Ihre Antwort bis Ende der Woche, damit ich die Geschäftsführung der Bach Bau GmbH unterrichten kann.Bitte bestätigen Sie den Eingang dieser Nachricht. Ich bitte um kurze Rückmeldung zu den offenen Punkten, damit wir die Klage bei Bedarf vorbereiten können. Der Termin für die Besprechung in unseren Räumen in [[location|Brixlegg]] wird noch mitgeteilt.
+Die Frist ist aus meiner Sicht angemessen. Ich bitte um kurze Rückmeldung zu den offenen Punkten, damit wir die Klage bei Bedarf vorbereiten können. Der Termin für die Besprechung in unseren Räumen in [[location|Brixlegg]] wird noch mitgeteilt.
 
 Mit freundlichen Grüßen
 
@@ -108,7 +108,7 @@ Betreff: AW: AW: AW: [[organization|Bach Bau GmbH]] ./. [[person|Zerner]] – Za
 
 Sehr geehrter Herr [[person|Holaubek]],
 
-danke für Ihren Anruf. Ich habe den Fahrer inzwischen selbst befragt. Er bestätigt, dass er den Lkw am [[date|14. Juli 2026]] zwar übernommen hat, aber auf die Schäden an der Ladefläche hingewiesen hat. Der Vermerk fehlt, weil die Disponentin den Lieferschein ohne Rücksprache abgezeichnet hat.
+danke für Ihren Anruf. Meine Zahlungserinnerung vom [[date|1. Oktober 2026]] ist bisher ohne Antwort geblieben. Ich habe den Fahrer inzwischen selbst befragt. Er bestätigt, dass er den Lkw am [[date|14. Juli 2026]] zwar übernommen hat, aber auf die Schäden an der Ladefläche hingewiesen hat. Der Vermerk fehlt, weil die Disponentin den Lieferschein ohne Rücksprache abgezeichnet hat.
 
 Ich erwarte von Ihnen, dass Sie die Forderung in der Höhe von EUR 84.300,00 dennoch durchsetzen. Die Verzögerung kostet uns täglich Geld. Sollte die Gegenseite nicht bis [[date|10. Oktober 2026]] zahlen, bitte ich um Einbringung der Klage.
 
@@ -119,7 +119,7 @@ Geschäftsführer
 [[organization|Bach Bau GmbH]]
 Tel. [[phone_number|0463/6968450 Kl. 11]]
 
-Die Zahlungserinnerung vom [[date|1. Oktober 2026]] ist ohne Antwort geblieben. > Von: [[person|Meinhard Ritschel]]
+> Von: [[person|Meinhard Ritschel]]
 > Gesendet: Montag, [[date|28. September 2026]] 16:42
 > Betreff: [[organization|Bach Bau GmbH]] ./. [[person|Zerner]] – Zahlungsstreit
 > Sehr geehrter Herr [[person|Dr. Matzka]], ich wende mich an Sie, weil die Gegenseite die Schlussrechnung für die Baustelle in [[location|Mödling]] nicht anerkennen will.
