@@ -39,7 +39,7 @@ Der Senat hat die Kontoauszüge des Treuhandkontos für den gesamten Zeitraum vo
 
 Die Aussage des Beschwerdeführers [[person|Hirt]] war in sich schlüssig. Er schilderte, dass er mehrfach um eine Abrechnung ersucht habe, bevor die Kammer tätig wurde. Die Aussage des Beschwerdeführers [[person|Hančik]] war dagegen unergiebig, weil er die Vorgänge nur aus Korrespondenz kannte. Der Senat stützt die Feststellungen daher vor allem auf die Buchungsunterlagen.
 
-Der Senat hält fest, dass der Beschuldigte die Verwahrungspflicht schwer verletzt hat. Die Höhe der Geldbuße berücksichtigt die bisherige Unbescholtenheit und die vollständige Rückzahlung der Beträge an die Klienten im Jahr 2023.
+Der Senat hält fest, dass der Beschuldigte die Verwahrungspflicht schwer verletzt hat, weil er über Monate hinweg keine Übersicht über die einzelnen Klientenansprüche führte. Die Höhe der Geldbuße berücksichtigt die bisherige Unbescholtenheit und die vollständige Rückzahlung der Beträge an die Klienten im Jahr 2023.
 
 Bei der Strafbemessung waren als erschwerend zu berücksichtigen, dass der Beschuldigte über einen Zeitraum von mehr als einem Jahr Gelder verschiedener Klienten vermischt hatte und dass die Rückzahlung erst nach der Rückfrage der Kammer erfolgte. Als mildernd wurden die Einsicht des Beschuldigten am Ende der Verhandlung und die Sicherstellung der Beträge gewertet. Eine Geldbuße in der Höhe von EUR 2.500,00 erscheint dem Senat angemessen; eine Löschung aus der Liste der Rechtsanwälte war nicht erforderlich. Die Verfahrenskosten sind mit EUR 380,00 bemessen. Der Senat hat die Stellungnahme des Kammeranwalts [[person|Šoth]], wonach eine Streichung beantragt worden sei, nicht übernommen, weil der Antrag nicht in der Verhandlung gestellt wurde.
 

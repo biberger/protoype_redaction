@@ -74,6 +74,8 @@ Zu den Verfahrenskosten: Die Beklagte hat die Vertretungskosten nach dem Streitw
 
 Die Beklagte behält sich vor, ihre Einwendungen nach Vorlage der Beilagen der Klägerin zu ergänzen. Eine Äußerung zu den Beilagen der Gegenseite wird innerhalb der gesetzten Frist erfolgen.
 
+Die Beklagte weist darauf hin, dass die Klägerin in der Klage selbst eingeräumt hat, die Gartenarbeiten im Jahr 2025 nur zum Teil bezahlt zu haben. Die Beklagte ersucht das Gericht, vor einer Entscheidung über das Klagebegehren eine Tagsatzung anzuberaumen, in der die Parteien persönlich gehört werden. Eine Vergleichsbereitschaft besteht im Hinblick auf die Zinsen, nicht jedoch hinsichtlich des Kapitalbetrages.
+
 Zustellung an die Gegenseite erfolgt über ERV.
 
 [[location|St. Ruprecht an der Raab]], am [[date|06.07.2026]]

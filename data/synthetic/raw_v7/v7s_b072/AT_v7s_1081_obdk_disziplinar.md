@@ -22,7 +22,7 @@ Beschuldigte: [[person|Elfi Aberer]]
 Beschwerdeführer: [[person|Jamschid Salmi]]
 Telefonische Erreichbarkeit der Kammer: Tel. [[phone_number|+43 5572 914 59 96 Kl. 35]]
 
-Die Verhandlung wurde um 9.30 Uhr eröffnet. Der Vorsitzende stellte die ordnungsgemäße Ladung fest und verlas die Disziplinaranzeige. Die Beschuldigte erklärte, sie bekenne sich nicht schuldig im Sinne der Anklage, räume jedoch die Auszahlung ein. Die Kammeranwältin beantragte die Verhängung einer Geldbuße in der Höhe von EUR 4.000,00 bis EUR 6.000,00.
+Die Verhandlung wurde um 9.30 Uhr eröffnet und dauerte bis in die frühen Mittagsstunden des selben Tages. Der Vorsitzende stellte die ordnungsgemäße Ladung fest und verlas die Disziplinaranzeige. Die Beschuldigte erklärte, sie bekenne sich nicht schuldig im Sinne der Anklage, räume jedoch die Auszahlung ein. Die Kammeranwältin beantragte die Verhängung einer Geldbuße in der Höhe von EUR 4.000,00 bis EUR 6.000,00.
 
 I. Spruch
 
@@ -36,7 +36,7 @@ II. Entscheidungsgründe
 
 Die Österreichische Rechtsanwaltskammer ([[organization|ÖRAK]]) hat die Disziplinaranzeige eingebracht, nachdem [[person|Salmi]] sich über die Abwicklung eines Treuhandauftrages beschwert hatte. Die Kammeranwältin [[person|Dr. Snjezana Tauber]] hat die Anzeige vertreten und die Anklage präzisiert. Die [[organization|ÖRAK]] hat dem Verfahren die Unterlagen des Treuhandkontos beigelegt.
 
-Die Beschuldigte bestreitet den Vorwurf der Veruntreuung nicht, wohl aber die Absicht, sich zu bereichern. Sie gibt an, die Zahlungen seien in Abstimmung mit [[person|Salmi]] erfolgt, dieser habe mündlich einer Verrechnung von Honoraren zugestimmt. Eine schriftliche Vereinbarung hierüber existiert nicht.
+Die Beschuldigte bestreitet den Vorwurf der Veruntreuung nicht, wohl aber die Absicht, sich zu bereichern. Sie gibt an, die Zahlungen seien in Abstimmung mit [[person|Salmi]] erfolgt, dieser habe mündlich einer Verrechnung von Honoraren zugestimmt. Eine schriftliche Vereinbarung hierüber existiert nicht, und auch ein Gesprächsvermerk wurde nie angelegt.
 
 2. Sachverhalt
 

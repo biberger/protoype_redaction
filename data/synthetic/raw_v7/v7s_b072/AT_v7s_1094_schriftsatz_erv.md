@@ -84,6 +84,10 @@ Beilagen:
 
 Die Klägerin hat die Vers.-Nr. [[other_identifier|90-7042022]] der Haftpflichtversicherung angegeben.
 
+Die Klägerin hat die Ärztin, die den Unfallschaden behandelt hat, von der Schweigepflicht entbunden; die Entbindungserklärung liegt bei. Die Beklagte hat den Unfall nach Auskunft der Klägerin telefonisch eingeräumt, aber jede Haftung abgelehnt.
+
+Die Klägerin hat die Kosten der Erstberatung in Höhe von EUR 180,00 bereits selbst getragen und verlangt deren Ersatz als Teil der Verfahrenskosten. Die Klägerin ersucht um Zustellung der Ladung zur Tagsatzung an die Vertreter der Parteien über ERV.
+
 Tel. [[phone_number|+43 2742 428 27 84-30]] für Rückfragen zum Schriftsatz.
 
 [[location|Preding]], am [[date|05.06.2026]]

@@ -13,7 +13,7 @@ ERV-Code: [[other_identifier|P746508]]
 
 KAUFVERTRAG ÜBER EINE LIEGENSCHAFT
 
-Abgeschlossen am [[date|29.04.2026]] in Ebersdorf zwischen den nachstehenden Vertragsparteien:
+Abgeschlossen am [[date|29.04.2026]] in [[location|Ebersdorf]] zwischen den nachstehenden Vertragsparteien:
 
 I. Vertragsparteien
 
@@ -65,6 +65,12 @@ Die Verkäufer bestätigen, dass kein Vorkaufsrecht zugunsten Dritter im Grundbu
 Die Liegenschaft wurde im Jahr 1998 von einer Erbengemeinschaft erworben, deren Anteile später zwischen den Verkäufern aufgeteilt wurden. Die Verkäuferin [[person|Bohatsch]] bestätigt, dass ihr Anteil nicht belastet ist und dass keine Ansprüche von Angehörigen bestehen. Über die Erbfolge liegen die Einantwortungsurkunden vom [[date|03.06.1999]] vor.
 
 Der Käufer [[person|Boeken]] hat die Liegenschaft vor Vertragsabschluss besichtigt und den Zustand des Daches sowie der Heizungsanlage geprüft. Ein Gutachten wurde nicht eingeholt. Der Käufer verzichtet auf Ansprüche wegen erkennbarer Mängel, die er bei der Besichtigung festgestellt hat.
+
+VI d. Erklärungen zur Gewährleistung
+
+Die Parteien halten fest, dass die Liegenschaft an die Versorgungsleitungen der Gemeinde angeschlossen ist und dass die Wasserzähler zum Stichtag abgelesen wurden.
+
+Die Verkäufer erklären, dass ihnen keine Mängel bekannt sind, die über die bei der Besichtigung festgestellten hinausgehen. Die Verkäufer haben die Heizungsanlage zuletzt im Herbst 2025 warten lassen; die Wartungsbestätigung wird dem Käufer übergeben.
 
 VII. Schlussbestimmungen
 

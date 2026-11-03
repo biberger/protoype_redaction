@@ -4,7 +4,7 @@ jurisdiction: AT
 lang: de
 ---
 [[organization|Polizeiinspektion Wagrain]]
-Dienststelle: Landesverkehrsabteilung Salzburg, Außenstelle Wagrain
+Dienststelle: Landesverkehrsabteilung, Außenstelle Wagrain
 GZ: [[case_number|P-2026/0418/WG]]
 
 ANZEIGE / UNFALLBERICHT
@@ -20,7 +20,7 @@ Beteiligte Personen:
 1. [[person|Aggeo Simoncelli]], Geburtsdatum: [[date_of_birth|1942-03-09]], wohnhaft in [[address|5602 Wagrain]], Lenker des Pkw mit dem Kennzeichen [[license_plate|L-9237V]], Ausweis: Personalausweis [[id_document_number|A5422087]], SV-Nr.: [[social_security_number|4082 090342]]
 2. [[person|Rutland Fall]], geb [[date_of_birth|16.09.1976]], wohnhaft in [[address|5602 Wagrain]], Lenker des zweiten Fahrzeugs, Führerschein Nr. [[id_document_number|24908078]]
 3. [[person|Jane Wolf]], Beifahrerin, Reisepass Nr. [[id_document_number|S7961758]], keine Verletzung
-4. [[person|Chrysavalantis Angelopoulos]], geb. [[date_of_birth|20. März 1997]], StA: [[country|Rumänien]], Fahrgast im Pkw des Rutland Fall, leicht verletzt
+4. [[person|Chrysavalantis Angelopoulos]], geb. [[date_of_birth|20. März 1997]], StA: [[country|Rumänien]], Fahrgast im Pkw des [[person|Rutland Fall]], leicht verletzt
 5. [[person|Josif MMag. Akhmedov]], geb. [[date_of_birth|12.09.1935]], Zeuge, Anrainer
 
 Versicherungen:
@@ -64,6 +64,14 @@ Rechtliche Würdigung:
 Die Vorrangregelung nach [[legal_norm|§ 19 Abs 1 StVO]] wurde durch den Lenker [[person|Fall]] nicht beachtet, soweit die Angaben des Lenkers [[person|Simoncelli]] zutreffen. Die Anzeige wird nach [[legal_norm|§ 99 Abs 3 lit a StVO]] gegen den Lenker [[person|Fall]] erstattet. Die Frage des Mitverschuldens wird der Versicherung überlassen.
 
 Der Sachverhalt wurde mit allen Beteiligten besprochen. Die Beteiligten haben die Angaben zur Kenntnis genommen; [[person|Simoncelli]] verweigerte die Unterschrift auf dem Protokoll.
+
+Der Lenker [[person|Simoncelli]] hat am Unfallort angegeben, er habe das Fahrzeug des [[person|Fall]] erst kurz vor der Kollision bemerkt. Der Lenker [[person|Fall]] hat bei der Befragung eine Blutalkoholuntersuchung verweigert, obwohl kein Atemalkoholtest durchgeführt wurde. Die Verweigerung wurde im Protokoll festgehalten und als Verwaltungsübertretung nach der einschlägigen Vorschrift an die Behörde weitergeleitet. Der Lenker [[person|Simoncelli]] gab an, weder Alkohol noch Medikamente konsumiert zu haben.
+
+Die Beifahrerin [[person|Wolf]] wurde als Zeugin nicht vernommen, weil sie das Unfallgeschehen nicht unmittelbar wahrgenommen hat. Ihre Aussage wurde trotzdem protokolliert.
+
+Der Verkehrsunfall wird der Behörde als Sachschadensunfall mit Personenschaden gemeldet, weil keine Person schwer verletzt und nur eine Person in ein Krankenhaus gebracht wurde. Die Behörde wird über die Verkehrsunfallmeldung informiert, sobald die Versicherungen die Schadenshöhe bekanntgeben.
+
+Am Folgetag wurde die Unfallstelle nochmals besichtigt. Die Fahrbahnmarkierung war an der Kreuzung teilweise verwischt, was jedoch den Unfallhergang nicht beeinflusst hat. Die Kreuzung wurde durch die Straßenmeisterei am [[date|22.07.2026]] neu markiert, nachdem die Gemeinde die Beschwerde eines Anrainers geprüft hatte.
 
 Angezeigt am [[date|21.07.2026]] um 11.20 Uhr.
 

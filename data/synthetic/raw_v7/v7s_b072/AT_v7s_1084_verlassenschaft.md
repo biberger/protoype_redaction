@@ -50,7 +50,7 @@ Bankguthaben: Konto IBAN [[bank_account|AT06 6010 3398 8669 7027]], Stand zum To
 
 Vertragsnummer [[other_identifier|KV-2016-26348]] und Kd.-Nr. [[other_identifier|211476]] betreffen die Wohnungsverwaltung und den Stromliefervertrag. Die Verwaltung der Gesellschaft [[organization|Androschin]] wurde nach dem Tod der Erblasserin durch den Geschäftsführer weitergeführt.
 
-Die Verfügung vom [[date|17.08.2019]] enthält neben der Erbeinsetzung zwei Vermächtnisse und eine Auflage zur Pflege eines Grabes auf dem Friedhof in Eberndorf. Der Notar hat die Auflage mit den Erben erörtert; die Erben haben erklärt, die Pflege zu übernehmen, soweit die Kosten aus dem Nachlass gedeckt werden. Ein Anspruch auf Ersatz der Kosten für die Pflege ist im Nachlass nicht gesondert verzeichnet.
+Die Verfügung vom [[date|17.08.2019]] enthält neben der Erbeinsetzung zwei Vermächtnisse und eine Auflage zur Pflege eines Grabes auf dem Friedhof in [[location|Eberndorf]]. Der Notar hat die Auflage mit den Erben erörtert; die Erben haben erklärt, die Pflege zu übernehmen, soweit die Kosten aus dem Nachlass gedeckt werden. Ein Anspruch auf Ersatz der Kosten für die Pflege ist im Nachlass nicht gesondert verzeichnet.
 
 Die Erbin [[person|Altmann]] hat in der Tagsatzung vom [[date|23.06.2026]] angegeben, dass sie die Wohnung der Erblasserin gemeinsam mit ihrem Bruder räumen werde. Der Bruder ist nicht Erbe, sondern Mieter einer Garage im Haus, deren Mietvertrag bis zum [[date|31.12.2026]] läuft. Der Notar hat die Garage nicht in das Inventar aufgenommen, weil sie nicht Teil des Nachlasses ist.
 
@@ -59,6 +59,8 @@ Die Erbantrittserklärungen liegen vor. Die Erben haben das Inventar am [[date|3
 Die Erbin [[person|Altmann]] und der Vermächtnisnehmer [[person|Ficker]] haben am [[date|08.07.2026]] vereinbart, die Eigentumswohnung gemeinsam zu übernehmen, soweit das Vermächtnis dies vorsieht. Die Übergabe der Schlüssel erfolgte am selben Tag im Beisein des Notars. Ein Protokoll über den Zustand der Wohnung wurde angefertigt und den Parteien übermittelt.
 
 Der Notar weist darauf hin, dass die Erbantrittserklärung der Erbin [[person|Spiel]] mangels Volljährigkeit erst mit Zustimmung des gesetzlichen Vertreters wirksam wird. Diese Zustimmung wurde am [[date|02.07.2026]] vorgelegt.
+
+Die Akten des Verfahrens sind bei der Kanzlei des Notars während der Amtsstunden einsehbar; Ablichtungen werden gegen Kostenersatz ausgefolgt.
 
 Telefonische Auskunft: Tel. [[phone_number|+43 5572 996 22 72-52]].
 

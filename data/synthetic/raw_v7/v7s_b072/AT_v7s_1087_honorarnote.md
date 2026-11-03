@@ -47,6 +47,8 @@ Die Position vom [[date|22.01.2026]] umfasst die Abstimmung des Klagsbegehrens m
 
 Die Kosten des Rechtsstreits im Falle des Obsiegens werden gesondert nach dem Kostenersatzrecht abgerechnet und sind in dieser Note nicht enthalten.
 
+Bei Überschreitung des Zahlungsziels werden Verzugszinsen in gesetzlicher Höhe verrechnet. Wir bitten, bei der Überweisung die Rechnungsnummer 2026/0587 und das Aktenzeichen [[case_number|5 C 311/26 h]] anzugeben.
+
 Das Geld ist binnen 14 Tagen auf das Konto IBAN [[bank_account|AT92 3127 9800 4163 4137]] zu überweisen.
 
 Mit freundlichen Grüßen
@@ -54,6 +56,6 @@ Mit freundlichen Grüßen
 [[person|Canevale]]
 Rechtsanwalt
 
-Sitz der Kanzlei: [[address|8923 Palfau]]
+Für Rückfragen zur Abrechnung steht Ihnen unsere Buchhaltung zur Verfügung. Sitz der Kanzlei: [[address|8923 Palfau]]
 
 [[location|St. Johann im Pongau]], am [[date|27.02.2026]]

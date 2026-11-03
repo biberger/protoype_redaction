@@ -36,7 +36,7 @@ II. Kaufpreis und Treuhandabwicklung
 
 Der Kaufpreis ist binnen 14 Tagen nach Vorliegen der grundbücherlichen Voraussetzungen auf das Treuhandkonto IBAN [[bank_account|AT84 4164 2559 0593 6542]] zu überweisen. Die Abwicklung erfolgt über die Kanzlei der Verfasserin als Treuhänderin nach den Vorgaben des Treuhandbuchs.
 
-TH-Nr. [[other_identifier|2018/867]] betrifft die frühere Treuhandabwicklung der Liegenschaft; für diese Transaktion wurde die Treuhandbuch-Nr. [[other_identifier|2022/285]] eröffnet. Die Treuhandschaft Nr. [[other_identifier|2024/242]] betrifft den Erwerb durch die Pohl Bau GmbH im Jahr 2024, der später nicht vollzogen wurde.
+TH-Nr. [[other_identifier|2018/867]] betrifft die frühere Treuhandabwicklung der Liegenschaft; für diese Transaktion wurde die Treuhandbuch-Nr. [[other_identifier|2022/285]] eröffnet. Die Treuhandschaft Nr. [[other_identifier|2024/242]] betrifft den Erwerb durch die [[organization|Pohl Bau GmbH]] im Jahr 2024, der später nicht vollzogen wurde.
 
 Die Verkäufer erklären, dass ihnen eine Zahlung aus dem Erlös nicht vor der grundbücherlichen Durchführung zusteht. Die Kosten der Vertragserrichtung trägt der Käufer.
 
@@ -67,6 +67,10 @@ VI b. Übergabe und Besitz
 Die Übergabe der Schlüssel und der Urkunden erfolgt am Tag der Vertragsunterfertigung nach Zahlung der Anzahlung. Ab diesem Zeitpunkt trägt der Käufer die Gefahr des zufälligen Untergangs, jedoch noch nicht den Besitz im Sinne des Grundbuchs. Der Besitz geht erst mit der Einverleibung über.
 
 Der Verkäufer [[person|Owoc]] erklärt, dass er die Liegenschaft seit dem Jahr 1992 bewohnt hat, und die Mitverkäuferin [[person|Yankova]] nutzt einen Teil des Gartens als Lagerfläche, die mit dem Käufer abzustimmen ist. Die Mitverkäufer übergeben alle Schlüssel, Pläne und Unterlagen zum Gebäude.
+
+VI c. Schlussbemerkung zur Treuhandabwicklung
+
+Die Treuhänderin wird die Auszahlungen an die Verkäufer erst nach der Einverleibung des Eigentumsrechtes vornehmen. Sollte die Einverleibung aus Gründen scheitern, die die Verkäufer zu vertreten haben, ist der Käufer berechtigt, die Anzahlung samt Zinsen zurückzufordern.
 
 Unterschriften:
 

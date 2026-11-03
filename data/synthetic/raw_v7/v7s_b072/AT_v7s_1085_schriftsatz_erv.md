@@ -55,7 +55,7 @@ III. Beweisanbote
 
 Die Klägerinnen beantragen die Einvernahme der Zeugin [[person|Mayr]] zum Schadensumfang sowie die Einholung eines Sachverständigengutachtens aus dem Bereich des Bauwesens.
 
-Zur Zuständigkeit: Das Bezirksgericht Steyr ist für die Klage sachlich und örtlich zuständig, weil der Schadensort im Sprengel dieses Gerichts liegt und der Streitwert unter EUR 30.000,00 bleibt. Die Klägerin [[person|Shah]] hat zudem die Zustimmung der Mitklägerin [[person|von Schwerin]] zur gemeinsamen Klage eingeholt, die dieser Schriftsatz als Beilage beigeschlossen werden kann.
+Zur Zuständigkeit: Das [[court|Bezirksgericht Steyr]] ist für die Klage sachlich und örtlich zuständig, weil der Schadensort im Sprengel dieses Gerichts liegt und der Streitwert unter EUR 30.000,00 bleibt. Die Klägerin [[person|Shah]] hat zudem die Zustimmung der Mitklägerin [[person|von Schwerin]] zur gemeinsamen Klage eingeholt, die dieser Schriftsatz als Beilage beigeschlossen werden kann.
 
 Die Mietkosten für die Ersatzwohnung betragen EUR 780,00 monatlich und wurden seit dem [[date|01.10.2024]] bezahlt. Bis zum Datum dieser Klage ergeben sich daraus Kosten von EUR 13.260,00, wovon die Klägerinnen einen Anteil von EUR 1.820,00 geltend machen, da die übrigen Kosten nicht unmittelbar durch den Schaden veranlasst wurden.
 
@@ -64,6 +64,8 @@ Die Reparaturkosten laut Angebot der [[organization|Peer Haustechnik GmbH]] vom 
 Die Klägerin [[person|Shah]] hat den Schaden an den Möbeln im Erdgeschoß auf EUR 2.100,00 geschätzt. Eine Fotodokumentation der beschädigten Möbel vom [[date|23.09.2024]] liegt vor. Die Beklagte hat die Möbel bislang nicht besichtigt, obwohl sie dazu mehrfach aufgefordert wurde.
 
 Die Zeugin [[person|Mayr]] wird zudem zur Frage vernommen, ob die Feuchtigkeit im Mauerwerk auf die Wasserleitung oder auf früher bestehende Schäden zurückzuführen ist. Die Klägerinnen gehen davon aus, dass die Zeugin diese Frage nach ihrer Fachkenntnis beantworten kann.
+
+Die Klägerinnen sind bereit, die Wasserleitung im Rahmen eines Vergleichs durch einen Fachbetrieb ihrer Wahl instand setzen zu lassen, sofern die Beklagte die Kosten übernimmt und die Feuchtigkeitsschäden am Mauerwerk anerkennt.
 
 IV. Anträge
 

@@ -4,7 +4,7 @@ jurisdiction: AT
 lang: de
 ---
 Von: [[person|Albine Scherbaum]] <[[email|a.scherbaum@scherbaum-immo.at]]>
-Gesendet: Dienstag, 14. Juli 2026 08:52
+Gesendet: Dienstag, [[date|14. Juli 2026]] 08:52
 An: [[person|Tam Strolz]] <[[email|t.strolz@hausner-handels.at]]>
 Cc: [[person|Sidra Bacri]]
 Betreff: AW: Grundbuch [[land_register_id|52623]] [[land_register_id|EZ1774]] ([[court|BG Leopoldstadt]])
@@ -19,6 +19,8 @@ Unser Zeichen: [[other_identifier|Tscherne ./. Brucker]]
 
 Ich habe Ihre Nachricht an meine Mandantin weitergeleitet, die sich telefonisch bei mir gemeldet hat. Sie bestätigt, dass die Zufahrt seit dem Jahr 2019 ausschließlich über den bestehenden Weg erfolgt. Eine Verbreiterung wurde nie vereinbart, und sie ist daher nicht Gegenstand der Vereinbarung.
 
+Ich bitte Sie außerdem, den beiliegenden Lageplan der Zufahrt sorgfältig zu prüfen, den meine Mandantin bereits im Jahr 2023 anfertigen ließ. Für die Abstimmung des Termins am [[date|22.07.2026]] schlage ich vor, die Vereinbarung vorab per E-Mail zu übermitteln, damit wir die Punkte vorbereiten können. Die Kosten der Vermessung trägt nach unserer Auffassung die [[organization|HHG]], weil die Verbreiterung ihrem Betrieb dient und die Zufahrt daher überwiegend ihr zugutekommt. Ich ersuche um eine kurze Rückmeldung bis Ende der Woche.
+
 Die Anmerkung im Grundbuch betrifft das Wegerecht zugunsten des Nachbargrundstücks. Ich ersuche um Zusendung der Vereinbarung vom [[date|02.04.2019]], da ich dazu keine Unterlagen habe.
 
 Mit freundlichen Grüßen
@@ -28,7 +30,7 @@ Hausverwaltung [[organization|Scherbaum Immobilien]]
 
 -----Ursprüngliche Nachricht-----
 Von: [[person|Tam Strolz]] <[[email|t.strolz@hausner-handels.at]]>
-Gesendet: Montag, 13. Juli 2026 17:14
+Gesendet: Montag, [[date|13. Juli 2026]] 17:14
 An: [[person|Albine Scherbaum]]
 Betreff: AW: Wegerecht
 
@@ -41,7 +43,7 @@ Mit besten Grüßen
 Geschäftsführer
 
 Von: [[person|Quirin Tscherne]] <[[email|q.tscherne@detela.at]]>
-Gesendet: Freitag, 10. Juli 2026 11:03
+Gesendet: Freitag, [[date|10. Juli 2026]] 11:03
 An: [[person|Albine Scherbaum]], [[person|Tam Strolz]]
 Cc: [[person|Albrecht Haberler]]
 Betreff: Wegerecht

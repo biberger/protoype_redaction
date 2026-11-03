@@ -49,7 +49,7 @@ Datum | Vorgang | Betrag in EUR | Treuhandbuch-Nr.
 
 Der Stand des Treuhandkontos sank am [[date|14.10.2025]] auf EUR 1.950,00, obwohl die Klientin [[person|Kassar]] einen Anspruch von EUR 6.000,00 hatte. Die Beschuldigte hat den Fehlbetrag am [[date|03.11.2025]] aus eigenen Mitteln ergänzt.
 
-Die Beschwerdeführerin [[person|Gschaider]] gab in der Verhandlung an, sie habe ihre Weisung am [[date|15.09.2025]] schriftlich erteilt; das Schreiben liegt dem Senat vor. Die Beschwerdeführerin [[person|Kassar]] schilderte, dass sie die Abrechnung erst nach zwei Mahnungen erhalten habe. Die Eller Bau GmbH ist durch ihren Geschäftsführer vertreten gewesen und hat erklärt, keine Zahlung zur Begleichung von Honorarnoten gebilligt zu haben.
+Die Beschwerdeführerin [[person|Gschaider]] gab in der Verhandlung an, sie habe ihre Weisung am [[date|15.09.2025]] schriftlich erteilt; das Schreiben liegt dem Senat vor. Die Beschwerdeführerin [[person|Kassar]] schilderte, dass sie die Abrechnung erst nach zwei Mahnungen erhalten habe. Die [[organization|Eller Bau GmbH]] ist durch ihren Geschäftsführer vertreten gewesen und hat erklärt, keine Zahlung zur Begleichung von Honorarnoten gebilligt zu haben.
 
 3. Beweiswürdigung
 
@@ -78,6 +78,10 @@ Die Kostenentscheidung stützt sich auf [[legal_norm|§ 52 Abs 1 RAO]]. Die Besc
 Belehrung: Gegen diese Entscheidung kann innerhalb von vier Wochen ab Zustellung eine Berufung eingebracht werden. Die Österreichische Rechtsanwaltskammer ([[organization|ÖRAK]]) ist über die Entscheidung zu informieren.
 
 Die Kammeranwältin [[person|Gödel]] hat zudem darauf hingewiesen, dass die Beschuldigte bis zur Verhandlung keine Unterlagen über die Auszahlungen an die Gerichtskasse vorgelegt hat. Der Senat hält diesen Umstand für erwiesen, weil die Beschuldigte selbst eingeräumt hat, die Gebühr vorab bezahlt zu haben, ohne den Klienten zu informieren.
+
+Die Beschuldigte hat in ihrer letzten Stellungnahme vom [[date|28.04.2026]] angekündigt, die Kanzleiorganisation umzustellen und eine zweite Person mit der Überwachung der Treuhandkonten zu betrauen. Der Senat nimmt diese Zusage zur Kenntnis, sie kann die Pflichtverletzung jedoch nicht ungeschehen machen.
+
+Die Verhandlung wurde nach Angaben des Vorsitzenden in einer Atmosphäre geführt, die der Schwere der Vorwürfe angemessen war; die Beschuldigte hat bis zum Schluss an ihrer Darstellung festgehalten. Die Beschwerdeführerin [[person|Kassar]] hat über einen Dolmetscher ausgesagt, weil sie die deutsche Sprache nur eingeschränkt beherrscht.
 
 Die Telefonnummer der Kammer für Rückfragen lautet Tel. [[phone_number|05572 213382 Kl. 66]].
 

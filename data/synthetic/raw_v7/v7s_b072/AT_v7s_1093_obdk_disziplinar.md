@@ -100,4 +100,14 @@ Für die Oberste Berufungs- und Disziplinarkommission:
 Der Vorsitzende:
 [[judge|Diamandi Aldea]]
 
+Der Senat hat die Entscheidung im Umlaufverfahren beschlossen, nachdem die Verhandlung am [[date|12.03.2026]] geschlossen worden war. Die Abstimmung ergab einstimmige Zustimmung zu Spruch und Begründung. Der Schriftführer [[person|Štajer]] hat das Protokoll über die Beratung geführt und ist für den Inhalt des Protokolls verantwortlich.
+
+Die Ausfertigung dieser Entscheidung wurde am [[date|27.03.2026]] erstellt und den Parteien zugestellt. Eine Abschrift wurde an die Österreichische Rechtsanwaltskammer ([[organization|ÖRAK]]) übermittelt, damit die Eintragung im Register der Rechtsanwälte erfolgen kann.
+
+Der Beschuldigte hat in der Verhandlung angekündigt, die Kanzlei zu verkleinern und die Treuhandabwicklung an eine Buchhaltungsfirma zu übertragen. Der Senat wertet dies als Einsicht, misst ihr aber keine strafmildernde Wirkung bei, weil die Maßnahmen erst nach der Anzeige ergriffen wurden.
+
+Der Beschwerdeführer [[person|Dimov]] hat in seiner Stellungnahme zur Berufung angeregt, den Beschuldigten zusätzlich zur Geldbuße für die Dauer von sechs Monaten von der Vertretung von Klienten mit Treuhandkonten auszuschließen. Der Senat hat diese Anregung geprüft, aber nicht übernommen, weil der Verstoß im Verhältnis zu den übrigen Umständen keine so lange Maßnahme rechtfertigt.
+
+Die Kammeranwältin [[person|Lederer]] hat im Rahmen der Verhandlung eine Kopie der Richtlinien für die Verwahrung von Treuhandgeldern vorgelegt. Der Senat hat die Richtlinien berücksichtigt und festgehalten, dass der Beschuldigte diese zum Zeitpunkt der Pflichtverletzung kannte.
+
 Zugestellt an: den Beschuldigten [[person|Pock]], die Kammeranwältin [[person|Lederer]] und den Beschwerdeführer [[person|Dimov]].

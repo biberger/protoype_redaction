@@ -389,6 +389,25 @@ Done (steps 2, 4, 5 of the plan; step 3 = synthetic v7 and step 6 = training run
   production misses as permanent cases (v1 leaks 8 of 11 mentions there). The GPU eval step now also runs the OBDK set
   and the production-mode eval.
 
+Step 3 (synthetic v7, approved 2026-11-03) is done:
+- `legalner/practice.py` writes briefs for 11 practice document types with per-type profiles (fields, court kind,
+  identifier kinds, hard cases, length ranges, roles such as deceased/heirs or senate/Kammeranwalt/accused), verbatim
+  strings for the error-prone spans (informal land register references, phone extensions, file references,
+  letterheads incl. letter-spaced ones, dates of birth with cues) and gender-correct Slavic surnames.
+- Pilot (165 docs) and re-pilot (8 docs): audit 1.2 % span errors (`docs/audits/synthetic_v7_pilot.md`); the brief
+  generator was fixed from the audit and from writer reports during the run (identifier clutter, copied example
+  names, lengths, roles, dates after today, future deaths, junk WGND surnames, famous surnames, literal ⏎ symbols).
+- Full run `v7s`: 1,100 LLM-written documents in 74 batches (305 disciplinary decisions, 171 letters, 136 e-mail
+  threads, 121 purchase contracts, 120 ERV briefs, 74 fee notes, 65 police reports, 57 probate documents, 51 leases),
+  every batch strict-clean and audit-clean; lengths mostly 80-100 % of the brief targets (b069 ≈ 60 %).
+- By program: 300 land register extracts (`legalner.sources.grundbuch`) and 150 company register extracts + 150 ZMR
+  documents (`legalner.sources.registers`), ≈ 20 % of each in scan mode with OCR noise.
+- Total v7: 1,873 documents, ≈ 1.02 M words, 97,852 spans (person 22.8k, date 17.9k, organization 8.4k,
+  land_register_id 6.7k, other_identifier 5.1k, date_of_birth 4.5k, address 4.3k, court 3.6k, phone 2.8k).
+  `scripts/gpu_run.sh` picks up `raw_v7`, `raw_v7_grundbuch` and `raw_v7_registers`.
+
+Step 6 (training run v3) needs approval and new RunPod/HF tokens.
+
 ## Open questions
 
 - Which labels does the redaction policy actually mask? Likely all `pii` group labels plus every `person` that is
