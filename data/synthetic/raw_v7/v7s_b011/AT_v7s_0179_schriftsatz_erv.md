@@ -61,7 +61,15 @@ Summe | EUR 45.450,00
 
 Der Streitwert beträgt daher EUR 46.500,00, weil die Kosten der Schadensermittlung von EUR 1.050,00 hinzutreten.
 
+Der Kläger hat die Schadenspositionen mit seiner Krankenkasse abgestimmt. Die Krankenkasse hat die Behandlungskosten nur teilweise übernommen; die verbleibenden Kosten für Physiotherapie in Höhe von EUR 640,00 sind in der Position Heilungskosten enthalten. Die Fahrtkosten zur Nachuntersuchung in [[location|Salzburg]] betragen EUR 380,00.
+
+Die sachliche Zuständigkeit des Bezirksgerichts ergibt sich aus [[legal_norm|§ 49 Abs 2 Z 5 JN]] für Schadenersatzansprüche aus einem Verkehrsunfall.
+
 Die Schadensbeträge sind durch die Rechnungen gemäß Beilage ./A bis ./C belegt. Die Krankengeschichte liegt als Beilage ./D bei.
+
+Der Kläger hat die Unfallstelle am [[date|8. Juli 2026]] gemeinsam mit einem Sachverständigen besichtigt. Dabei wurde festgestellt, dass das Geländer an der Unfallstelle seit mehreren Jahren nicht überprüft worden war. Die Prüfprotokolle der [[organization|Gemeinde Großarl]] für das betreffende Jahr fehlen. Die [[country|Republik Österreich]] hat trotz Aufforderung keine Unterlagen über die Instandhaltung vorgelegt.
+
+Der Lenker des Sattelzuges, [[person|Thole]], hat den Unfall gegenüber der Polizei am Tag des Unfalls zunächst anders dargestellt und die Angaben später korrigiert. Der Sachverständige hält die spätere Darstellung für glaubwürdig, weil sie mit den Spuren am Geländer übereinstimmt. Ob die Ladung ausreichend gesichert war, wird im Gutachten als offen bezeichnet; der Kläger stützt sich daher auf die Vermutung des Verschuldens. Die beklagte Partei 1 hat ihre Haftpflichtversicherung über den Vorfall informiert, eine Deckungszusage liegt bislang nicht vor.
 
 4. Rechtliche Beurteilung
 
@@ -69,12 +77,16 @@ Die beklagte Partei 1 haftet nach [[legal_norm|§ 1315 ABGB]] für das Verhalten
 
 Die Schmerzengeldhöhe beruht auf einer Verletzung der Halswirbelsäule mit dauernden Beschwerden. Der Kläger legt dazu ein fachärztliches Gutachten vor.
 
+Die beklagte Partei 1 hat den Anspruch dem Grunde nach außergerichtlich nicht anerkannt, jedoch die Höhe bestritten. Der Kläger hält an seinem Begehren fest. Die Nebenintervenienten [[person|Dostal]] und [[person|Hashem]] haben sich dem Verfahren angeschlossen und ihre Wahrnehmungen bereits schriftlich festgehalten. Eine mündliche Verhandlung wird ausdrücklich beantragt, weil die Glaubwürdigkeit der Zeugen von Bedeutung ist.
+
 5. Anträge
 
 Der Kläger stellt daher die Anträge,
 
 1. die beklagten Parteien sind zur ungeteilten Hand schuldig, dem Kläger EUR 45.450,00 samt 4 % Zinsen seit dem Unfallstag zu bezahlen,
 2. die beklagten Parteien haben die Kosten des Verfahrens zu tragen.
+
+Der Kläger ersucht, die Zeugen [[person|Dostal]] und [[person|Hashem]] sowie den Lenker [[person|Thole]] zur mündlichen Verhandlung zu laden. Sollte sich die beklagte Partei 1 zur Anerkennung der Haftung entschließen, ist der Kläger zu einer Klaglosstellung bereit, sofern die Kosten des Sachverständigen übernommen werden.
 
 Beilagen:
 ./A Rechnungen Heilungskosten (5 Stück)

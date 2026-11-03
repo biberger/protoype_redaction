@@ -37,7 +37,7 @@ Die Verkäufer und die Käufer werden im Folgenden gemeinsam als „Vertragsteil
 
 **II. Vorbemerkungen**
 
-Die Verkäufer sind je zur Hälfte bücherliche Eigentümer der Liegenschaft [[land_register_id|KG 56098]] [[land_register_id|EZ 2165]] ([[court|BG Vöcklabruck]]); Grundstück [[land_register_id|1440/16]]. Zum Vertragsgegenstand gehört außerdem das Wegerecht auf der Liegenschaft [[land_register_id|KG 32459 Hadersdorf-Kammern]] / [[land_register_id|EZ: 505]], [[land_register_id|GSt-Nr. 542]], das den Zugang zum Wohnhaus sichert.
+Die Verkäuferin [[person|Henriette Steurer]] und der Verkäufer [[person|Andreas Rank]] sind je zur Hälfte bücherliche Eigentümer der Liegenschaft [[land_register_id|KG 56098]] [[land_register_id|EZ 2165]] ([[court|BG Vöcklabruck]]); Grundstück [[land_register_id|1440/16]]. Zum Vertragsgegenstand gehört außerdem das Wegerecht auf der Liegenschaft [[land_register_id|KG 32459 Hadersdorf-Kammern]] / [[land_register_id|EZ: 505]], [[land_register_id|GSt-Nr. 542]], das den Zugang zum Wohnhaus sichert.
 
 Die Käufer beabsichtigen, die Liegenschaft zur Eigennutzung zu erwerben. Die Vertragsteile haben vor Vertragsabschluss die Lastenfreiheit besprochen; eine aktuelle Abfrage des Grundbuchs vom [[date|04.05.2026]] liegt bei. Im Grundbuch ist ein Pfandrecht zugunsten der Hypothekarbank eingetragen, das bei Zahlung des Restkaufpreises gelöscht wird.
 
@@ -78,6 +78,36 @@ Die Käufer beabsichtigen, die Liegenschaft zur Eigennutzung zu erwerben. Die Ve
 
 12. Die Käufer übernehmen das bestehende Mietverhältnis über die Einliegerwohnung. Die Kaution in Höhe von 3.000,00 Euro wird vom Treuhandkonto unmittelbar an die Käufer überwiesen.
 
+**VI/1. Genehmigung und Vorkaufsrechte**
+
+13a. Der Vertrag steht unter der aufschiebenden Bedingung, dass die zuständige Grundverkehrsbehörde die Genehmigung des Erwerbs erteilt. Die Vertragsteile verpflichten sich, den Antrag auf Genehmigung binnen acht Tagen nach Unterfertigung gemeinsam einzubringen. Die Kosten des Genehmigungsverfahrens trägt der Käufer.
+
+13b. Die Verkäufer erklären, dass kein gesetzliches oder vertragliches Vorkaufsrecht der Gemeinde oder eines Nachbarn besteht. Sollte sich nachträglich ein Vorkaufsrecht herausstellen, so ist der Vertrag für die Parteien nur dann wirksam, wenn das Vorkaufsrecht nicht ausgeübt wird.
+
+13c. Die Käufer haben von den Verkäufern eine Übersicht über die Heizkostenabrechnungen der letzten drei Jahre erhalten. Die Verkäufer bestätigen, dass die Abrechnungen vollständig und richtig sind.
+
+**VI/2. Pfandfreistellung und Lastenfreiheit**
+
+14a. Die Verkäufer verpflichten sich, die Löschung des Pfandrechts zugunsten der Hypothekarbank bis zum Übergabetag zu veranlassen. Die Kosten der Löschung trägt der Verkäufer. Die Käufer sind berechtigt, die Auszahlung des Restkaufpreises zurückzuhalten, bis die Löschung im Grundbuch ersichtlich ist.
+
+14b. Die Käufer erklären, dass ihnen bekannt ist, dass die Liegenschaft mit einem Wegerecht und einem Leitungsrecht zugunsten des Nachbargrundstücks belastet ist. Diese Dienstbarkeiten werden als Teil des Kaufgegenstandes übernommen.
+
+14c. Die Verkäufer haben für die Zeit bis zur Übergabe alle Abgaben zu entrichten, die auf der Liegenschaft lasten. Die Grundsteuer und die Gebühren für die Müllabfuhr werden, soweit sie nicht schon bezahlt sind, vom Kaufpreis abgezogen.
+
+**VI/3. Bauliche Veränderungen**
+
+15a. Die Käufer dürfen bis zur Eintragung im Grundbuch keine baulichen Veränderungen vornehmen, ausgenommen Instandhaltungsarbeiten. Die Verkäufer haben dem Käufer die vorhandenen Pläne des Gebäudes zu übergeben, insbesondere die Einreichpläne und die Baubeschreibung.
+
+15b. Die Verkäufer erklären, dass die Einfriedung des Gartens nicht den Vorschriften entspricht. Die Käufer übernehmen diese Einfriedung im derzeitigen Zustand; ein Anspruch gegen die Verkäufer auf Herstellung einer neuen Einfriedung besteht nicht.
+
+**VI/4. Vollmacht und Belehrung**
+
+16a. Die Verkäufer erteilen der Kanzlei Vollmacht zur Vertretung in allen Verfahren, die zur Durchführung dieses Vertrages erforderlich sind, insbesondere vor dem Grundbuchsgericht und bei der Grundverkehrsbehörde.
+
+16b. Die Kanzlei hat beide Vertragsteile darüber belehrt, dass ein Interessenkonflikt besteht, weil sie die Interessen beider Seiten nicht vertreten darf. Die Vertragsteile haben die Belehrung zur Kenntnis genommen und erklären ausdrücklich, dass sie einen unabhängigen Rechtsrat nicht wünschen.
+
+16c. Die Käufer bestätigen, dass sie die Finanzierung des Kaufpreises gesichert haben und dass sie keine Zahlungen aus dem Bausparvertrag zur Finanzierung verwenden, sofern dies nicht ausdrücklich vereinbart wird. Die Käufer bestätigen zudem, dass sie die Liegenschaft nicht als Kapitalanlage erwerben. Die Verkäufer nehmen dies zur Kenntnis. Eine Kopie des Vertrages erhält auch die Hausverwaltung.
+
 **VII. Schlussbestimmungen**
 
 13. Änderungen und Ergänzungen dieses Vertrages bedürfen der Schriftform. Mündliche Nebenabreden bestehen nicht. Sollte eine Bestimmung unwirksam sein, bleibt der Vertrag im Übrigen wirksam.
@@ -92,7 +122,7 @@ ________________________________
 [[person|HENRIETTE STEURER]]
 
 ________________________________
-[[person|Rank Andreas]]
+[[person|Andreas Rank]]
 
 ________________________________
 [[person|Nasja Ing. Heit]]

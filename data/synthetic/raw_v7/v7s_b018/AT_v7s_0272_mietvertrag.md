@@ -70,6 +70,14 @@ Postkasten                 1 Stück
 
 4. Die Vermieterin übergibt dem Mieter die Hausordnung in Kopie. Diese bildet einen Bestandteil des Vertrags, soweit sie nicht im Widerspruch zu zwingenden Bestimmungen des Mietrechts steht.
 
+5. Der Mieter kann die Kaution auch in Form eines Sparbuchs verlangen. Die Verzinsung erfolgt zum jeweils gültigen Sparbuchzinssatz und wird der Kaution zugeschrieben. Die Vermieterin bestätigt den Erhalt der Kaution, die am [[date|2. März 2026]] in bar übergeben wurde, mit Unterschrift auf dem Übergabeprotokoll.
+
+6. Bei Beendigung des Mietverhältnisses hat der Mieter die Wohnung in dem Zustand zurückzustellen, der dem Übergabeprotokoll entspricht, abzüglich der Abnutzung durch den vertragsgemäßen Gebrauch. Schlüssel sind am letzten Tag des Mietverhältnisses bei der [[organization|Schrittwieser Bau]] abzugeben.
+
+7. Der Mieter erklärt, dass er die Hausordnung, die Brandschutzbestimmungen und die Regelungen zur Mülltrennung zur Kenntnis genommen hat und diese einhält. Die Vermieterin stellt dem Mieter auf Verlangen eine Kopie der Gebäudeversicherung zur Verfügung.
+
+8. Änderungen der Hausordnung sind dem Mieter mit einer Frist von vier Wochen schriftlich bekanntzugeben. Der Mieter kann solchen Änderungen binnen dieser Frist widersprechen, sofern sie seine Rechte am Mietgegenstand beeinträchtigen.
+
 VI. Wertsicherung und Mietzinsanpassung
 
 1. Der Hauptmietzins ist nach Maßgabe des [[legal_norm|§ 45 MRG]] nur innerhalb der gesetzlichen Schranken anzupassen. Eine Wertsicherung nach dem Verbraucherpreisindex ist vereinbart, sofern sie nach dem Gesetz zulässig ist. Die Vermieterin wird den Mieter jährlich über die Indexierung schriftlich informieren.

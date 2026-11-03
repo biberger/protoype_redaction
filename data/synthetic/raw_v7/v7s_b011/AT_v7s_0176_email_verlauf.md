@@ -104,5 +104,45 @@ die Klage wird wie angekündigt eingebracht. Die Schadenersatzforderung bleibt u
 Mit freundlichen Grüßen
 [[lawyer|Hackl]]
 
+Nachricht 6
+
+Von: [[person|Charis Dipl.-Ing. Lyon]] <[[email|c.lyon@lyon-mail.at]]>
+Gesendet: Mittwoch, [[date|14. Oktober 2026]], 18:20
+An: [[lawyer|Hackl]] <[[email|hackl@diwald.at]]>
+Betreff: AW: Verkehrsunfall, Klage beim [[court|BG Baden]]
+
+Sehr geehrter Herr [[lawyer|Hackl]],
+
+vielen Dank für die Information. Ich habe die Werkstattrechnungen eingescannt und Frau [[person|Hakimi]] gesendet. Bitte teilen Sie mir mit, ob ich zur Tagsatzung persönlich erscheinen muss oder ob ich mich durch Ihre Kanzlei vertreten lassen kann. Ich bin am [[date|3. November 2026]] in [[location|Wien]] und könnte an diesem Tag gegebenenfalls Auskunft geben.
+
+Mit freundlichen Grüßen
+[[person|Charis Dipl.-Ing. Lyon]]
+
+Nachricht 7
+
+Von: [[lawyer|Hackl]] <[[email|hackl@diwald.at]]>
+Gesendet: Donnerstag, [[date|15. Oktober 2026]], 08:11
+An: [[person|Charis Dipl.-Ing. Lyon]] <[[email|c.lyon@lyon-mail.at]]>
+Betreff: AW: Verkehrsunfall, Klage beim [[court|BG Baden]]
+
+Sehr geehrte Frau [[person|Lyon]],
+
+Sie müssen nicht persönlich erscheinen. Die Vertretung durch unsere Kanzlei ist ausreichend. Frau [[person|Hakimi]] wird Ihnen die Vollmacht zur Unterfertigung übermitteln. Wir melden uns, sobald der Termin feststeht.
+
+Mit freundlichen Grüßen
+[[lawyer|Hackl]]
+
+Nachricht 8
+
+Von: [[person|Charis Dipl.-Ing. Lyon]] <[[email|c.lyon@lyon-mail.at]]>
+Gesendet: Donnerstag, [[date|15. Oktober 2026]], 19:02
+An: [[lawyer|Hackl]] <[[email|hackl@diwald.at]]>
+Betreff: AW: Verkehrsunfall, Klage beim [[court|BG Baden]]
+
+Danke, Herr [[lawyer|Hackl]]. Ich habe außerdem die Rechnung der Werkstatt über EUR 3.480,00 nachgereicht. Dann verlasse ich mich auf Ihre Vertretung. Die Gutachten der [[organization|MVA]] hebe ich auf, falls Sie noch Rückfragen dazu haben. Bitte geben Sie mir Bescheid, sobald der Termin feststeht.
+
+Mit freundlichen Grüßen
+[[person|Charis Dipl.-Ing. Lyon]]
+
 -----
 Diese E-Mail enthält vertrauliche Informationen und ist nur für den Adressaten bestimmt.

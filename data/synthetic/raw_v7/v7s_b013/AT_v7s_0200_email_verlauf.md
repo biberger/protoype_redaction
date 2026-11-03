@@ -26,7 +26,7 @@ Sehr geehrter Herr [[person|Embacher]],
 
 ich vertrete Frau [[person|Lotte Madl]] in der Schadensangelegenheit. Der Unfall ereignete sich am [[date|21.03.2026]] auf der Gemeindestraße bei [[location|St. Lorenzen]]. Die Schadensbehebung ist bis heute nicht erfolgt; die Schadensmeldung haben Sie unter der Schaden-Nr. [[other_identifier|35/307746/25]] erhalten.
 
-Die [[organization|Perlinger Transport GmbH]] (im Folgenden „[[organization|PT]]“) hat den Lastwagen geführt, dessen Fahrer die Schuld am Unfall trägt. Ich ersuche die [[organization|PT]] um Stellungnahme bis [[date|10.04.2026]].
+Die [[organization|Perlinger Transport GmbH]] (im Folgenden „[[organization|PT]]“) hat den Lastwagen geführt, dessen Fahrer die Schuld am Unfall trägt. Ich ersuche die [[organization|PT]] um Stellungnahme bis [[date|10.04.2026]]. Bitte übermitteln Sie mir zusätzlich die Unfallskizze und die Kontaktdaten des Fahrers, sofern Sie diese bereits erhoben haben. Die Schadensmeldung der Frau [[person|Madl]] ist vollständig; die Reparaturkosten werden derzeit geschätzt.
 
 Mit freundlichen Grüßen
 [[person|Foidl]]
@@ -72,7 +72,7 @@ Betreff: AW: AW: AW: Unser Zeichen: [[other_identifier|485/25 K]]
 
 Sehr geehrter Herr [[person|Embacher]],
 
-eine Klage vor dem [[court|Landesgericht Innsbruck]] werden wir erst einbringen, wenn die [[organization|PT]] bis [[date|30.04.2026]] nicht reagiert. Die Frist zur Verjährung läuft für Frau [[person|Madl]] bis zum [[date|21.03.2028]]. Die Fotos des Fahrzeugs sowie das Sachverständigengutachten schicke ich Ihnen mit gesonderter Post.
+eine Klage vor dem [[court|Landesgericht Innsbruck]] werden wir erst einbringen, wenn die [[organization|PT]] bis [[date|30.04.2026]] nicht reagiert. Die Frist zur Verjährung läuft für Frau [[person|Madl]] bis zum [[date|21.03.2028]]. Die Fotos des Fahrzeugs sowie das Sachverständigengutachten schicke ich Ihnen mit gesonderter Post. Bitte bestätigen Sie den Eingang. Wir gehen davon aus, dass die Schadensbehebung dennoch zeitnah erfolgt. Danke. Schöne Grüße.
 
 Mit freundlichen Grüßen
 [[person|Foidl]]

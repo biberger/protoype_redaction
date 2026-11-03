@@ -53,7 +53,7 @@ Der Angeklagte hat die Entnahme vom [[date|2. Juli 2024]] nicht rechtzeitig doku
 
 Der Disziplinarrat wertet als mildernd die bisherige Unbescholtenheit und die Rückzahlung vom [[date|14.01.2025]]. Als erschwerend wertet er die Dauer des Verstoßes von rund zehn Monaten.
 
-Die Geldbuße wurde nach [[legal_norm|§ 45 Abs 1 RAO]] iVm [[legal_norm|§ 1 Abs 1 RAO]] bemessen. Der Senat hat bei der Bemessung die Höhe der Entnahme von EUR 9.000,00 berücksichtigt, die etwa die Hälfte des bis dahin eingezahlten Betrages ausmachte. Die Geldbuße ist daher im unteren Bereich des möglichen Strafrahmens festgesetzt worden.
+Der Senat sieht darin keinen Anlass, von der Geldbuße abzuweichen, und hält die festgesetzte Höhe für ausreichend, um den Angeklagten künftig zur ordnungsgemäßen Führung von Treuhandkonten anzuhalten. Die Geldbuße wurde nach [[legal_norm|§ 45 Abs 1 RAO]] iVm [[legal_norm|§ 1 Abs 1 RAO]] bemessen. Der Senat hat bei der Bemessung die Höhe der Entnahme von EUR 9.000,00 berücksichtigt, die etwa die Hälfte des bis dahin eingezahlten Betrages ausmachte. Die Geldbuße ist daher im unteren Bereich des möglichen Strafrahmens festgesetzt worden.
 
 Rechtsmittelbelehrung
 

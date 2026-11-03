@@ -74,6 +74,7 @@ Mit freundlichen Grüßen
 [[lawyer|Evamarie MMag. Reithofer]]
 Rechtsanwältin
 Tel. [[phone_number|02622/7321372 DW 812]]
+IBAN der Kanzlei: [[bank_account|AT42 8753 0265 2061 8068]]
 [[address|8720 Knittelfeld]]
 
 **Nachricht 4**

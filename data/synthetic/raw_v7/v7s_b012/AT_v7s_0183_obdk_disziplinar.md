@@ -25,6 +25,10 @@ Die [[organization|Rechtsanwaltskammer für Oberösterreich]] ([[organization|RA
 
 Die Beschuldigte bestreitet den Vorwurf der Untreue nicht, macht jedoch geltend, dass die Auszahlungen mit Zustimmung der Mandantin erfolgt seien. Die Mandantin hat dies in der Verhandlung bestritten. Der Senat hat die Akten des Treuhandkontos der Beschuldigten beigezogen und daraus die folgenden Feststellungen getroffen.
 
+Die Kammeranwältin hat die Anklage am [[date|12.11.2025]] eingebracht. Die Beschuldigte hat dazu am [[date|8.01.2026]] eine schriftliche Stellungnahme abgegeben, in der sie den Vorwurf der Untreue bestreitet, die Pflichtverletzung bei der Verbuchung jedoch zugesteht. Der Senat hat die Stellungnahme in der Verhandlung verlesen.
+
+Die Kammer hat zudem das Protokoll der Treuhandbuch-Prüfung vom [[date|14.01.2025]] beigezogen, das die fehlenden Eintragungen auflistet. Das Protokoll wurde von einem Kammerangestellten erstellt und ist unbedenklich.
+
 II. Feststellungen
 
 1. Die Beschuldigte übernahm am [[date|12.03.2024]] im Zusammenhang mit einer Liegenschaftsangelegenheit die Verwahrung von EUR 18.500,00 für die Mandantin. Die Treuhandschaft wurde unter der Nr. [[other_identifier|2021/299]] geführt.
@@ -51,7 +55,7 @@ Der Senat stützt sich auf die Kontoauszüge, auf das Treuhandbuch und auf die A
 
 Die Vernehmung der Zeugin [[person|Mag. Ulla Ruetz]], Kanzleikraft der Beschuldigten, hat ergeben, dass die Belege nachträglich erstellt wurden. Die Zeugin hat dies in der Verhandlung eingeräumt. Sie gab an, die Beschuldigte habe die Auszahlung vom [[date|04.09.2024]] persönlich angewiesen und die Buchung erst am [[date|10.09.2024]] erfasst.
 
-Die Beschuldigte hat in der Verhandlung am [[date|14. April 2026]] angegeben, sie habe die [[organization|Helmer GmbH]] mit einer Recherche beauftragt. Ein schriftlicher Auftrag oder eine Rechnung der [[organization|Helmer GmbH]] liegt nicht vor.
+Die Beschuldigte hat in der Verhandlung am [[date|14. April 2026]] angegeben, sie habe die [[organization|Helmer GmbH]] mit einer Recherche beauftragt. Ein schriftlicher Auftrag oder eine Rechnung der [[organization|Helmer GmbH]] liegt nicht vor. Die Recherche selbst ist nicht dokumentiert, und auch das Ergebnis wurde der Kammer nicht vorgelegt.
 
 IV. Rechtliche Beurteilung
 
@@ -65,7 +69,9 @@ Die Verfahrensrüge auf Verletzung des [[legal_norm|Art. 6 EMRK]] wurde geprüft
 
 Die Beschuldigte hat im Verfahren erklärt, sie sei durch die Trennung von ihrem Ehemann in der Zeit von 2024 bis 2025 erheblich belastet gewesen. Der Senat hat diese Angaben berücksichtigt. Sie können die Verletzung der Pflichten jedoch nicht rechtfertigen, weil die Verwahrung von Klientengeld eine ständige Pflicht ist, die auch in Krisenzeiten ordnungsgemäß zu erfüllen ist. Eine Organisation der Kanzlei, die Vertretung durch eine Kollegin oder die Information der Kammer wären möglich gewesen.
 
-Auch die Behauptung der Beschuldigten, das Treuhandbuch sei von der Kanzleikraft geführt worden, entlastet sie nicht. Die Verantwortung für die ordnungsgemäße Führung trifft den Rechtsanwalt persönlich, und zwar unabhängig davon, wer die Eintragungen tatsächlich vornimmt. Der Senat sieht die Verletzungen daher als der Beschuldigten zurechenbar an.
+Auch die Behauptung der Beschuldigten, das Treuhandbuch sei von der Kanzleikraft geführt worden, entlastet sie nicht. Die Verantwortung für die ordnungsgemäße Führung trifft den Rechtsanwalt persönlich, und zwar unabhängig davon, wer die Eintragungen tatsächlich vornimmt. Der Senat sieht die Verletzungen daher als der Beschuldigten zurechenbar an. Eine Zurechnung scheitert nicht daran, dass die Kanzleikraft die Buchungen tatsächlich vorgenommen hat, denn die Anweisungen dazu stammten von der Beschuldigten.
+
+Der Ersatz der Verfahrenskosten umfasst die Gebühren der Sachverständigen für die Auswertung der Kontoauszüge und die Kosten der Verhandlung. Die Beschuldigte hat keine Einwendungen gegen die Höhe der Kosten erhoben, sodass der Senat sie in der angeführten Höhe festsetzt. Die Kosten sind innerhalb von vier Wochen nach Zustellung der Ausfertigung an die Kammer zu überweisen.
 
 V. Kosten
 

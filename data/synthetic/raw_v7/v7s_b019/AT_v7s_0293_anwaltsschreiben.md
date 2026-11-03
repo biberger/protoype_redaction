@@ -41,7 +41,7 @@ Eine Liste der Beteiligten laut Polizeibericht:
 [[person|Kohlmeier, Hildburg]], Zeugin
 [[person|Ungar, Bronislawa]], Beifahrerin
 
-Die Schadenmeldung des Unfallgegners ist uns nicht bekannt, weshalb wir Sie um Bestätigung des Deckungsanspruchs ersuchen. Die Gesellschaft hat ihrerseits am [[date|4. Juni 2026]] Anzeige bei der Polizei erstattet. Der Polizeibericht trägt das Aktenzeichen des Stadtpolizeikommandos Gmunden.
+Die Schadenmeldung des Unfallgegners ist uns nicht bekannt, weshalb wir Sie um Bestätigung des Deckungsanspruchs ersuchen. Die Gesellschaft hat ihrerseits am [[date|4. Juni 2026]] Anzeige bei der Polizei erstattet. Der Polizeibericht trägt das Aktenzeichen des [[organization|Stadtpolizeikommandos Gmunden]].
 
 Wir behalten uns vor, weitere Schäden, insbesondere den Verdienstentgang der Gesellschaft für die Dauer der Reparatur, geltend zu machen. Die Reparatur hat laut Kostenvoranschlag vom [[date|12. Juni 2026]] etwa acht Wochen gedauert. Ein Mietfahrzeug musste in dieser Zeit gemietet werden, die Kosten dafür bitten wir gesondert zu prüfen. Bitte bestätigen Sie den Eingang dieses Schreibens.
 

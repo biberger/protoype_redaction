@@ -48,7 +48,9 @@ II. Feststellungen
 
 III. Beweiswürdigung
 
-Die Feststellungen beruhen auf den Kontoauszügen, dem Treuhandbuch und der Aussage der Mandantin. Die Mandantin hat den Sachverhalt glaubhaft und übereinstimmend mit den Urkunden geschildert.
+Die Feststellungen beruhen auf den Kontoauszügen, dem Treuhandbuch und der Aussage der Mandantin.
+
+Der Beschuldigte hat in der Verhandlung ferner geltend gemacht, die Mandantin habe der Entnahme am [[date|29.05.2023]] mündlich zugestimmt. Eine solche Zustimmung ist nicht belegt und wird von der Mandantin ausdrücklich bestritten. Der Senat geht daher davon aus, dass eine Zustimmung nicht vorlag; die bloße Behauptung ersetzt keine Dokumentation, die bei einer Entnahme aus dem Treuhandkonto zwingend erforderlich ist. Die Mandantin hat den Sachverhalt glaubhaft und übereinstimmend mit den Urkunden geschildert.
 
 Die Verantwortung des Beschuldigten ist nicht überzeugend, weil die Honorarnote erst mehr als fünf Monate nach der Entnahme erstellt wurde. Der Beschuldigte konnte nicht erklären, weshalb die Entnahme im Treuhandbuch nicht vermerkt war.
 
@@ -58,7 +60,7 @@ Die Angaben der Mandantin zu den Schreiben sind durch den Briefwechsel belegt. D
 
 Die Angabe des Beschuldigten zur angeblichen Steuerschuld ist nicht glaubhaft. Der Beschuldigte konnte keinen Bescheid vorlegen und hat auch nicht erklärt, welche Steuerart betroffen sein sollte. Die Vernehmung der Kanzleikraft [[person|Helga Ruhsam]] hat ergeben, dass der Beschuldigte die Zahlung nicht mit der Mandantin abgestimmt hatte.
 
-Die Verteidigung hat beantragt, die Mandantin als Zeugin zu vernehmen. Der Senat hat dem Antrag nicht stattgegeben, weil der Sachverhalt durch die Urkunden hinreichend geklärt ist.
+Die Verteidigung hat beantragt, die Mandantin als Zeugin zu vernehmen. Der Senat hat dem Antrag nicht stattgegeben, weil der Sachverhalt durch die Urkunden hinreichend geklärt ist. Eine Aussage der Mandantin zu den Abläufen in der Kanzlei hätte keine weitere Klärung gebracht, da sie bei der internen Buchung nicht beteiligt war.
 
 IV. Rechtliche Beurteilung
 
@@ -72,11 +74,15 @@ Der Einwand der Verletzung des [[legal_norm|Art. 6 EMRK]] wurde geprüft. Die Ve
 
 Die Verletzung der Aufzeichnungspflicht ist zusätzlich zu berücksichtigen, weil das Treuhandbuch seinen Zweck, die lückenlose Kontrolle der Gelder, nur erfüllt, wenn die Eintragungen zeitnah erfolgen. Der Senat hält die Verletzung für nicht geringfügig.
 
-Der Senat verkennt nicht, dass der Beschuldigte nach eigenen Angaben in einer belastenden familiären Situation war. Diese Umstände entschuldigen die Pflichtverletzung nicht, können aber bei der Strafbemessung mildernd berücksichtigt werden. Die Geldbuße wurde daher im unteren Bereich des Strafrahmens festgesetzt.
+Der Senat verkennt nicht, dass der Beschuldigte nach eigenen Angaben in einer belastenden familiären Situation war. Diese Umstände entschuldigen die Pflichtverletzung nicht, können aber bei der Strafbemessung mildernd berücksichtigt werden. Die Geldbuße wurde daher im unteren Bereich des Strafrahmens festgesetzt. Die Ratenzahlung wurde nicht bewilligt, weil der Beschuldigte keinen Antrag gestellt hat. Dies wurde ihm in der Verhandlung eröffnet.
+
+Der Verteidiger hat zudem beantragt, das Verfahren wegen Verjährung einzustellen, da die Entnahme mehr als zwei Jahre zurückliege. Der Senat hat den Antrag abgewiesen, weil die Verjährung erst mit dem Ende der Pflichtverletzung zu laufen beginnt. Die Pflichtverletzung dauerte bis zur vollständigen Auszahlung am [[date|10.01.2024]] an. Die Einrede ist daher unbegründet.
 
 V. Kosten
 
 Die Kostenentscheidung beruht auf [[legal_norm|§ 52 RAO]].
+
+Die Kosten des Verfahrens setzen sich aus der Gebühr der Kammer und den Auslagen für die Verlesung der Akten zusammen. Die Kosten sind dem Beschuldigten aufzuerlegen, soweit nicht die Kammer Kosten zu tragen hat, die durch den Beizug der Akten aus einem anderen Bundesland entstanden sind.
 
 [[location|Linz]], am [[date|17. März 2026]]
 

@@ -65,6 +65,12 @@ Die Kammeranwaltschaft hat zutreffend darauf hingewiesen, dass die Barübernahme
 
 Die Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter ([[court|OBDK]]) hat in ständiger Rechtsprechung ausgesprochen, dass bei der Bemessung der Disziplinarstrafe die Dauer der Pflichtverletzung, das Ausmaß der Schädigung und das bisherige Verhalten des Rechtsanwalts zu berücksichtigen sind. Der Disziplinarbeschuldigte ist bisher nicht disziplinär aufgefallen. Dies wirkt mildernd. Erschwerend wirkt, dass er die Verbuchung nach Hinweis der Mandantin nicht korrigiert hat.
 
+Der Senat hat den Antrag der Disziplinarbeschuldigten auf Vernehmung ihres ehemaligen Vorgesetzten abgelehnt, weil dieser nach Angaben der Verteidigung keine eigene Wahrnehmung zu den Buchungen hatte. Ebenso wurde der Antrag auf Einholung eines Gutachtens zur Kanzleiorganisation zurückgewiesen, da die Organisation des Betriebes durch die Akten hinreichend belegt ist.
+
+Die Verteidigung hat zuletzt eingewendet, dass die Kammeranwaltschaft die Treuhandkonten erst nach einer Verspätung von mehr als einem Jahr geprüft habe. Die Verzögerung der Prüfung ist jedoch nicht geeignet, die Verletzung der Verwahrungspflicht zu beseitigen. Der Senat teilt diese Auffassung.
+
+Die Kanzlei hat mittlerweile ein elektronisches Treuhandbuch eingeführt. Dies wurde vom Disziplinarbeschuldigten glaubhaft dargelegt und ist als Maßnahme zur künftigen Vermeidung von Pflichtverletzungen zu würdigen.
+
 V. Strafbemessung
 
 Der Senat hat bei der Strafbemessung berücksichtigt, dass der Disziplinarbeschuldigte die Zahlungen letztlich ausgefolgt hat und kein Klientengeld dauerhaft verloren gegangen ist. Eine Verurteilung zur Streichung oder zum Ausschluss kommt nicht in Betracht. Eine Geldbuße von EUR 3.000,00 erscheint angemessen, um den Disziplinarbeschuldigten nachdrücklich auf seine Pflichten bei der Verwaltung von Klientengeldern hinzuweisen.

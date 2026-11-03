@@ -43,6 +43,24 @@ III. Die Rechtsanwältin hat die Kosten des Verfahrens vor der [[court|Oberste B
 
 9. Die Kostenentscheidung beruht auf den einschlägigen Bestimmungen des Disziplinarstatuts.
 
+10. Die Beschuldigte [[lawyer|Zeller]] hat in ihrer Stellungnahme vorgebracht, die Zahlung von Frau [[person|Pacher]] sei für einen anderen Zweck bestimmt gewesen. Der Senat hat dieses Vorbringen nicht als glaubhaft angesehen, weil die Zahlung ausdrücklich unter dem Titel Wohnungskauf erfolgte.
+
+11. Die Klientin [[person|Rieser]] hat im Verfahren erklärt, dass sie von der Beschuldigten lediglich eine Abrechnung über den Vorschuss verlangt, jedoch nicht erhalten habe. Der Senat hat diese Angaben als glaubwürdig gewertet.
+
+12. Der Kammeranwältin [[person|Kapp]] wurde Gelegenheit gegeben, zu den Zahlungsbelegen Stellung zu nehmen. Sie hielt daran fest, dass die Abrechnung nicht an die Klientin übermittelt worden sei.
+
+13. Die Richterin [[judge|Mutti]] hat darauf hingewiesen, dass die Trennungspflicht nicht von der Höhe des Betrages abhängt. Auch geringe Beträge seien getrennt und dokumentiert zu verwahren. Der Senat hat dies bei der Bemessung berücksichtigt.
+
+14. Die Verteidigung der Beschuldigten hat um Milde ersucht und auf die Belastung durch das Verfahren hingewiesen. Der Senat hat diese Umstände gewürdigt, jedoch nicht als ausreichend erachtet, um von einer Geldbuße abzusehen. Die Entscheidung ist einstimmig ergangen.
+
+15. Die Kammer hat die Stellungnahme der Beschuldigten, die Anzeige der Klientinnen und die Protokolle der Verhandlung in der Beratung ausführlich erörtert. Der Senat ist von dem Grundsatz ausgegangen, dass Treuhandgelder ohne Ausnahme unverzüglich verwahrt und nur nach schriftlicher Weisung ausbezahlt werden. Dieser Grundsatz gilt auch dann, wenn die Beteiligten sich über die Verwendung mündlich verständigt haben.
+
+16. Die Geldbuße wird binnen vier Wochen ab Rechtskraft an die Kammer entrichtet. Bei Nichtzahlung ist die Vollstreckung nach den Bestimmungen des Disziplinarstatuts einzuleiten.
+
+17. Die Beschuldigte hat die Wahl des Verfahrens nicht angefochten. Sie hat den Antrag auf mündliche Verhandlung ausdrücklich gestellt und dort auf eine ergänzende Stellungnahme verzichtet.
+
+18. Der Senat hat von einer Veröffentlichung des Erkenntnisses über die Zusammenfassung hinaus abgesehen, weil die Persönlichkeitsrechte der Klientinnen zu wahren sind.
+
 Für den Senat
 
 Die Vorsitzende: Senatspräsidentin [[judge|Dr. Annett Weihs]]

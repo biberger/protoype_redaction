@@ -87,8 +87,17 @@ Beilagen:
 ./A Dienstplan Jänner bis Juni 2026
 ./B Schreiben vom [[date|15.07.2026]]
 ./C Werkvertrag der Trägerorganisation vom [[date|01.02.2021]]
+./D Honorarnote vom [[date|31.07.2026]]
 
 Vers.-Nr. [[other_identifier|32-6556221]] des Klägers, Vers.-Nr. [[other_identifier|41-7294659]] der Zeugin [[person|Seibold]].
+
+VII. Schlussbemerkung
+
+17. Die Beklagte behält sich vor, weitere Beweismittel nach Vorlage der vollständigen Personalakten vorzulegen. Die Personalakten werden bei der Dienstgeberin verwahrt und sind bisher nicht vollständig übermittelt worden.
+
+18. Die Beklagte weist darauf hin, dass der Kläger seine Honorarnote vom [[date|31.07.2026]] selbst gestellt hat, was für ein freies Dienstverhältnis spricht. Die Honorarnote ist als Beilage ./D angeschlossen.
+
+Der Kläger hat in seiner Stellungnahme vom [[date|20.08.2026]] ausgeführt, dass die Honorarnote auf Anweisung der Dienstgeberin erstellt wurde. Er legt dazu eine E-Mail von [[person|Brix]] vor, in der dieser die Erstellung der Honorarnote anordnete. Die Beklagte bestreitet die Echtheit dieser E-Mail nicht, weist aber darauf hin, dass sie nur die Form der Abrechnung betrifft und nichts über die Weisungsgebundenheit aussagt.
 
 Tel. [[phone_number|+43-7242-5982344-7]] (Rückfragen zur Dienstplanung)
 

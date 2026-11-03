@@ -12,7 +12,7 @@ UID: [[tax_id|ATU08689374]]
 [[organization|Erste Bank der oesterreichischen Sparkassen AG]] IBAN: [[bank_account|AT65 6595 2309 6977 9148]] BIC: [[bank_account|OBKLAT2L]]
 ERV-Code: [[other_identifier|P469847]]
 
-Betreff: AW: AW: Schadenersatz Kobald ./. Tullner Feinkost, [[court|Bezirksgericht Tulln]]
+Betreff: AW: AW: Schadenersatz [[person|Kobald]] ./. [[organization|Tullner Feinkost]], [[court|Bezirksgericht Tulln]]
 
 Von: [[person|Rufinus Kugler]] <[[email|r.kugler@tullner-feinkost.at]]>
 Gesendet: Donnerstag, [[date|15. Oktober 2026]] 09:02
@@ -31,7 +31,7 @@ Leiter Personal, [[organization|Tullner Feinkost]]
 > Von: [[person|Stasia Hafferl]] <[[email|s.hafferl@kumpfmueller.at]]>
 > Gesendet: Montag, [[date|12. Oktober 2026]] 16:40
 > An: [[person|Rufinus Kugler]]
-> Betreff: Schadenersatz Kobald ./. Tullner Feinkost
+> Betreff: Schadenersatz [[person|Kobald]] ./. [[organization|Tullner Feinkost]]
 >
 > Sehr geehrter Herr [[person|Kugler]],
 >
@@ -60,3 +60,5 @@ Für das Protokoll: [[person|Stasia Hafferl]], Geburtsdatum: [[date_of_birth|24.
 Mit besten Grüßen
 [[person|Stasia Hafferl]]
 Tel. [[phone_number|+43 316 889 67 40 DW 759]]
+
+Wir bitten um Rückmeldung bis zum [[date|23.10.2026]]. Die Beilagen (Krankenstandsbestätigung, Rechnungen der Physiotherapie) werden nachgereicht.

@@ -44,6 +44,10 @@ Die Kosten für das Gutachten in Höhe von EUR 480,00 sind in der oben genannten
 
 Die Tagsatzung vor dem [[court|BG Braunau am Inn]] ist für den [[date|8. Jänner 2027]] anberaumt. Wir ersuchen um Bekanntgabe, ob die [[organization|Lanzinger]] an dieser Tagsatzung teilnehmen oder sich vertreten lassen wird.
 
+Wir weisen darauf hin, dass die Verjährung der Ansprüche nach [[legal_norm|§ 1489 ABGB]] mit dem Tag des Schadens zu laufen begonnen hat. Die Klage wahrt die Frist. Wir behalten uns jedoch vor, Ansprüche wegen des Nutzungsausfalls ab dem [[date|17. Juni 2026]] gesondert geltend zu machen. Der Nutzungsausfall wird auf EUR 35,00 pro Tag beziffert, da unser Mandant das Fahrzeug für seine Tätigkeit als Vertreter benötigt.
+
+Sollte Ihre Versicherung bis zum genannten Termin keine Stellungnahme abgeben, werden wir die Tagsatzung nutzen, um einen Antrag auf Beischaffung der Videoaufnahmen zu stellen. Wir ersuchen Sie daher, Ihrer Versicherung unsere Ansprüche unverzüglich mitzuteilen und die Schadensakte bereitzuhalten.
+
 Mit freundlichen Grüßen
 
 [[lawyer|Dr. Höglinger]]

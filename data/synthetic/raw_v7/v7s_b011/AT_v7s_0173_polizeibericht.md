@@ -32,6 +32,10 @@ Die Unfallstelle liegt in einem Abschnitt mit einer Geschwindigkeitsbeschränkun
 
 Die Lenkerin des zweiten Fahrzeuges, [[person|Antonia Schwentner]], gab an, dass das Fahrzeug von [[person|Ing. Bruno Rašić]] beim Überholen auf ihre Fahrspur gezogen sei und sie nach rechts ausweichen habe müssen. Der Lenker hat diese Darstellung in der Befragung bestritten. Die Reifenspuren auf der Fahrbahn sprechen nach Ansicht des Sachverständigen eher für die Darstellung der Lenkerin.
 
+Die Lenkerin des zweiten Fahrzeuges wurde zudem auf Alkohol und Suchtmittel überprüft; beide Tests verliefen negativ. Der Lenker [[person|Ing. Bruno Rašić]] gab an, mit Winterreifen unterwegs gewesen zu sein. Der Reifenzustand wurde vom Sachverständigen als ausreichend befunden. Eine Anzeige nach der [[legal_norm|StVO]] wird gegen den Lenker des Fahrzeuges mit dem Kennzeichen [[license_plate|HL-4XH]] wegen des Verdachts des Überholens ohne ausreichenden Seitenabstand erstattet.
+
+Die Fotos der Unfallstelle sind dem Akt beigeschlossen. Die Beteiligten wurden über ihr Recht auf Akteneinsicht belehrt und haben die Belehrung bestätigt.
+
 STEMPEL: [[organization|LANDESPOLIZEIDIREKTION SALZBURG]]
 DIENSTSTELLE: [[organization|POLIZEIINSPEKTION TAMSWEG]]
 

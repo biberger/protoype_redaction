@@ -58,6 +58,30 @@ Die Untervermietung des Geschäftslokals ist nur mit schriftlicher Zustimmung de
 
 Die Mieterin erhält drei Schlüssel zum Lokal und einen Schlüssel zum Lagerraum. Der Verlust eines Schlüssels ist unverzüglich anzuzeigen. Die Kosten einer Schlossänderung trägt die Mieterin, wenn der Verlust auf ihr Verschulden zurückzuführen ist. Eine Kaution wurde nicht vereinbart.
 
+**IV. d Hausordnung und Lagerraum**
+
+Der Lagerraum darf nur für Waren genutzt werden, die im Geschäft verkauft werden. Brennbare Flüssigkeiten dürfen nicht gelagert werden. Der Zugang zum Lagerraum erfolgt über den Hof, der von der Vermieterin verwaltet wird. Die Mieterin hat die Hausordnung des Objekts ausdrücklich anerkannt, die dem Vertrag als Anlage ./1 beiliegt.
+
+**IV. e Übergabe und Zustand**
+
+Das Lokal wurde am [[date|1. März 2024]] in dem Zustand übergeben, in dem es sich bei der Besichtigung befand. Die Vertragsparteien halten im Übergabeprotokoll fest, dass Wände, Boden und Beleuchtung in gutem Zustand sind. Eine Schlussabnahme findet bei Beendigung des Mietverhältnisses statt.
+
+**IV. f Indexierung und Verzug**
+
+Bei Zahlungsverzug von mehr als zwei Monatsmieten ist die Vermieterin berechtigt, das Mietverhältnis aufzulösen. Verzugszinsen werden in der gesetzlichen Höhe verrechnet. Die Indexierung der Miete erfolgt jährlich zum [[date|1. Jänner]] nach dem Verbraucherpreisindex.
+
+**IV. g Haftung**
+
+Die Mieterin haftet für Schäden an den Räumlichkeiten, die durch sie, ihre Angestellten oder Kunden verursacht werden. Die Vermieterin haftet für Mängel, die bei Vertragsabschluss bekannt waren und nicht offengelegt wurden. Die Haftung für leichte Fahrlässigkeit wird im Rahmen des [[legal_norm|§ 1298 ABGB]] ausdrücklich ausgeschlossen, soweit dies zulässig ist. Der Abschluss einer Betriebsunterbrechungsversicherung durch die Mieterin wird empfohlen.
+
+**IV. h Zustellung**
+
+Erklärungen aufgrund dieses Vertrages sind an die jeweils letzte bekannt gegebene Anschrift zu richten. Eine Zustellung an die Geschäftsadresse gilt als wirksam.
+
+**IV. i Werbung**
+
+Die Mieterin ist berechtigt, im Schaufenster und an der Fassade Werbung anzubringen, sofern die Werbeanlage nach den Vorschriften der Gemeinde zulässig ist. Die Zustimmung der Vermieterin ist vorab schriftlich einzuholen.
+
 **V. Schlussbestimmungen**
 
 Nebenabreden bestehen nicht. Änderungen bedürfen der Schriftform. Der Gerichtsstand ist das für den Sitz der Vermieterin zuständige Gericht.

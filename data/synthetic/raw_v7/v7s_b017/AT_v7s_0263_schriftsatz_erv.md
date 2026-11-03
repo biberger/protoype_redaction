@@ -79,6 +79,14 @@ Vers.-Nr. [[other_identifier|22-8971955]] wird zur Identifikation der Klägerin 
 
 Tel. [[phone_number|+43-316-2783072-7]] (Kanzlei [[person|Lettner]], Rückfragen)
 
+Die Klägerin behält sich vor, ihr Vorbringen nach Vorlage des beantragten Gutachtens zu ergänzen. Ein Vergleichsangebot der Beklagten vom [[date|03.09.2026]] wurde von der Klägerin abgelehnt, weil es keinen Ersatz der Gutachterkosten vorsah.
+
+Die Klägerin ersucht um Aufnahme der Urkunden ./A bis ./D in den Akt und um Anberaumung einer mündlichen Verhandlung. Die Verhandlung soll nach Möglichkeit am Sitz des Gerichts stattfinden, weil die Klägerin nicht mobil ist.
+
+Die Beklagte hat im Vorprozess eine Schlichtungsstelle angerufen, die das Verfahren am [[date|25.05.2026]] ohne Einigung beendete. Die Klägerin hat die Schlichtung nur deshalb versucht, um die Kosten einer Klage zu vermeiden. Die Beklagte hat im Schlichtungsverfahren erklärt, dass sie die Mängel für geringfügig halte, ohne dies näher zu begründen.
+
+Der Bauleiter [[person|Saturin Burian]] hat im Schlichtungsverfahren erklärt, dass die Abdichtung nach den damaligen Vorgaben des Herstellers erfolgt sei. Diese Behauptung wurde durch den Gutachter nicht bestätigt. Der Gutachter hat ausgeführt, dass die Abdichtung nur an zwei Stellen unterbrochen war, was den Feuchtigkeitsschaden an der Wand zum Nachbarraum vollständig erklärt. Die Klägerin hat die Gutachterkosten vorgeschossen; sie werden als Teil der Verfahrenskosten geltend gemacht.
+
 Ausgefertigt in [[location|St. Florian]] am [[date|21.09.2026]]
 
 Rechtsanwälte

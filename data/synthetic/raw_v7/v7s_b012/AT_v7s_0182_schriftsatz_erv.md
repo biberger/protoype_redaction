@@ -57,6 +57,8 @@ I. Sachverhalt
 
 5. Die Zeugin [[person|Gerda Plasser]] hat den Sturz beobachtet und die Klägerin sofort aufgehoben. Sie hat den Unfall am selben Tag bei der Polizeiinspektion angezeigt.
 
+Der Gehsteig an der Unfallstelle ist etwa 1,20 Meter breit und wird täglich von Schulkindern und Anrainern benutzt. Eine Warnung oder Absperrung war zum Unfallzeitpunkt nicht angebracht. Die Beklagte Partei 1 hat die Platte am Tag nach dem Unfall ersetzt, was die Klägerin mit Lichtbildern dokumentiert hat.
+
 Vorprozessuale Korrespondenz
 
 Die Klägerin hat die Beklagte Partei 1 mit Schreiben vom [[date|28. Juli 2025]] aufgefordert, den Schaden binnen 14 Tagen zu ersetzen. Die [[organization|Eichler Immobilien GmbH]] hat mit Schreiben vom [[date|4. August 2025]] jede Haftung bestritten und auf die Zuständigkeit der Gemeinde verwiesen. Der Beklagte 2 hat auf die Aufforderung vom [[date|28. Juli 2025]] nicht reagiert.
@@ -73,7 +75,7 @@ II. Rechtliche Beurteilung
 
 III. Schaden
 
-9. Die Heilungskosten betragen EUR 1.850,00, der Verdienstentgang für die Zeit der Arbeitsunfähigkeit EUR 6.100,00. Ein Schmerzensgeld von EUR 3.200,00 ist angemessen. Die Klägerin hat einen Eigenanteil von EUR 300,00 für Heilbehelfe getragen.
+9. Die Heilungskosten betragen EUR 1.850,00, der Verdienstentgang für die Zeit der Arbeitsunfähigkeit EUR 6.100,00. Ein Schmerzensgeld von EUR 3.200,00 ist angemessen. Die Klägerin hat einen Eigenanteil von EUR 300,00 für Heilbehelfe getragen. Die Klägerin ist als Verkäuferin in einem Modegeschäft beschäftigt und kann wegen der Handverletzung über mehrere Wochen nicht im Verkauf tätig sein; der Verdienstentgang wurde daher mit dem Dienstgeber abgerechnet.
 
 10. Der Anspruch der Klägerin ist nicht verjährt, weil die Klage innerhalb von drei Jahren ab Kenntnis des Schadens und der Person des Schädigers eingebracht wird.
 

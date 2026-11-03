@@ -22,7 +22,9 @@ Betreff: UZ: [[other_identifier|Lukesch ./. Mattes]]
 
 Liebe Gabriela,
 
-bitte schicke mir die Klagsbeantwortung der [[organization|Stocker Bau GmbH]] zur Durchsicht, bevor sie beim [[court|Landesgericht Klagenfurt]] eingebracht wird. Ich hoffe, die Frist läuft erst Ende Jänner ab.
+bitte schicke mir die Klagsbeantwortung der [[organization|Stocker Bau GmbH]] zur Durchsicht, bevor sie beim [[court|Landesgericht Klagenfurt]] eingebracht wird. Ich hoffe, die Frist läuft erst Ende Jänner ab; das [[court|LG Klagenfurt]] hat sie uns bestätigt.
+
+Die Gegenseite hat den Schaden im Schreiben vom [[date|12. Jänner 2026]] dem Grunde nach anerkannt, sodass wir nur noch die Höhe prüfen müssen. Bitte nimm dir dafür die Belege in der Akte vor, insbesondere die Rechnungen vom Dezember.
 
 Lg
 Yven
@@ -44,6 +46,8 @@ die Unterlagen liegen bei. Unsere Mandantin hat die Angaben zu den Rechnungen be
 
 Die Akte der Gegenseite läuft unter Klienten-Nr. [[other_identifier|61683]]. Der Mandant, den Herr [[person|Wagner]] vertritt, führt die Klienten-Nr. [[other_identifier|58528]].
 
+Die Belege schicke ich dir heute Nachmittag nach.
+
 Gabriela
 
 **Nachricht 3**
@@ -61,6 +65,8 @@ Betreff: AW: AW: [[other_identifier|Lukesch ./. Mattes]]
 Sehr geehrte Frau [[person|Woschitz]],
 
 ich bitte um Rückmeldung zu den Mängeln der Lieferung. Die [[organization|Stocker]] hat mir gegenüber erklärt, dass der Vertrag bereits gekündigt sei.
+
+Ich erwarte Ihre Antwort bis Ende der Woche.
 
 Mit freundlichen Grüßen
 [[person|Antoine Wagner]]
@@ -80,6 +86,8 @@ Betreff: AW: AW: AW: [[other_identifier|Lukesch ./. Mattes]]
 Sehr geehrter Herr [[person|Wagner]],
 
 wir bestätigen den Eingang Ihrer Nachricht. Die Kündigung der [[organization|Stocker]] ist nach unserer Prüfung unwirksam, weil sie nicht fristgerecht erfolgt ist. Bitte senden Sie uns die Belege bis zum [[date|30. Jänner 2026]].
+
+Für Rückfragen stehe ich Ihnen gerne zur Verfügung.
 
 Mit freundlichen Grüßen
 

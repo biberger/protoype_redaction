@@ -58,6 +58,10 @@ IBAN: [[bank_account|AT31 8606 8706 8254 7441]]
 
 10. Die Verkäuferin haftet nach [[legal_norm|§ 922 ABGB]] für die Gewährleistung. Die Gewährleistung ist für versteckte Mängel auf drei Jahre ab Übergabe beschränkt; Mängel an der Dachkonstruktion sind ausgenommen, soweit sie bei der Besichtigung erkennbar waren.
 
+9a. Die Verkäuferin erklärt, dass die Liegenschaft nicht mit Bestandrechten belastet ist und dass kein Wohnungsrecht eingetragen ist. Die Käuferinnen haben Kenntnis von dem im Grundbuch eingetragenen Pfandrecht, das aus dem Kaufpreis zu tilgen ist, und nehmen dies ausdrücklich zur Kenntnis.
+
+9b. Die Verkäuferin haftet nicht für öffentliche Abgaben, die nach Vertragsabschluss vorgeschrieben werden, soweit sie erst nach der Übergabe fällig geworden sind. Die Käuferinnen tragen die laufenden Abgaben ab dem Übergabetag.
+
 **IV a. Übergabe, Besitz und Nutzungen**
 
 11. Die Übergabe der Liegenschaft erfolgt mit der Unterfertigung dieses Vertrags durch Übergabe der Schlüssel und der Unterlagen zur Heizungsanlage. Nutzen und Lasten gehen mit dem Tag der Vertragsunterfertigung auf die Käuferinnen über, sofern die Eintragung im Grundbuch bis dahin nicht erfolgt ist.
@@ -83,6 +87,14 @@ IBAN: [[bank_account|AT31 8606 8706 8254 7441]]
 19. Änderungen dieses Vertrags bedürfen der Schriftform. Die Kosten der Errichtung trägt die Käuferin.
 
 20. Die Parteien erklären, dass sie den Vertrag gelesen und verstanden haben. Die Verkäuferin hat ein Exemplar des Energieausweises erhalten.
+
+21. Die Verkäuferin versichert, dass sie die Liegenschaft seit dem Jahr 2011 allein besitzt und dass keine Ansprüche Dritter, insbesondere keine Ansprüche aus einem Erbfall, bestehen. Sollte sich nachträglich ein Anspruch eines Dritten ergeben, haftet die Verkäuferin für die dadurch entstehenden Kosten.
+
+22. Die Käuferinnen erklären, die Liegenschaft zur eigenen Nutzung zu erwerben. Eine Weiterveräußerung innerhalb von fünf Jahren nach der Übergabe ist nur mit Zustimmung der Verkäuferin zulässig, soweit dies gesetzlich nicht ausgeschlossen ist.
+
+23. Der Energieausweis des Gebäudes ist diesem Vertrag als Beilage angeschlossen. Die Verkäuferin bestätigt, dass dieser Energieausweis den gesetzlichen Vorgaben entspricht und zum Zeitpunkt der Vertragsunterfertigung gültig ist.
+
+24. Die Kanzlei ist ermächtigt, alle für die Abwicklung erforderlichen Erklärungen gegenüber dem Grundbuch, dem Finanzamt und der Gemeinde abzugeben. Die Parteien verzichten auf die Anfechtung dieses Vertrags wegen Verkürzung über die Hälfte des Werts, soweit dies nach [[legal_norm|§ 934 ABGB]] zulässig ist. Die Vertragsparteien bestätigen, dass sie ihre Erklärungen freiwillig und nach Belehrung über die rechtlichen Folgen abgegeben haben.
 
 Zur Kontaktaufnahme: Tel. [[phone_number|+43 316 373 89 42-5]]
 

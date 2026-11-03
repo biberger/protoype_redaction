@@ -53,7 +53,7 @@ Die Kläger begehren, die Beklagten sind zur ungeteilten Hand schuldig, dem Klä
 
 4b. Der Verdienstentgang des Klägers beträgt für die Zeit des Krankenstands EUR 14.600,00 netto. Der Kläger ist als Techniker bei einem Industrieunternehmen in [[location|Ried im Innkreis]] beschäftigt. Die Lohnbestätigung des Arbeitgebers ist als Beilage angeschlossen.
 
-4c. Das Schmerzengeld bemisst sich nach Dauer und Intensität der Schmerzen. Der Kläger begehrt hierfür EUR 9.200,00. Die Beschwerden haben bis in den Sommer 2026 angedauert, und der Kläger leidet noch heute an eingeschränkter Beweglichkeit der Schulter.
+4c. Das Schmerzengeld bemisst sich nach Zeitraum und Intensität der Schmerzen. Der Kläger begehrt hierfür EUR 9.200,00. Die Beschwerden haben bis in den Sommer 2026 angedauert, und der Kläger leidet noch heute an eingeschränkter Beweglichkeit der Schulter.
 
 4d. Die Verbindlichkeiten aus dem Unfall betragen somit insgesamt EUR 26.980,00. Der Restbetrag von EUR 4.470,00 ergibt sich aus Sachschäden am Fahrzeug, die durch Kostenvoranschläge belegt sind.
 
@@ -65,11 +65,31 @@ Die Kläger begehren, die Beklagten sind zur ungeteilten Hand schuldig, dem Klä
 
 7. Eine Mithaftung des Klägers liegt nicht vor. Er war angeschnallt und hat den Lenker nicht abgelenkt. Die Zeugenaussage der Drittbeklagten ist insoweit eindeutig.
 
+7a. Die Haftung der Erstbeklagten ergibt sich zusätzlich aus der Halterhaftung. Die Erstbeklagte hat das Fahrzeug einer Mitarbeiterin überlassen, die nicht über die erforderliche Lenkerberechtigung für diese Fahrzeugklasse verfügte. Die Mithaftung der Erstbeklagten nach [[legal_norm|§ 1315 ABGB]] liegt daher auch aus diesem Grund vor.
+
+7b. Die Verjährung ist nicht eingetreten, weil die Klage innerhalb von drei Jahren ab dem Unfalltag eingebracht wurde. Die Kläger haben ihre Ansprüche auch dann nicht verloren, wenn die Erstbeklagte die Schadensmeldung erst im Jänner 2026 eingereicht hat.
+
 **III. Beweisanbot**
 
 8. Die Kläger beantragen die Einvernahme der Zeugen [[person|Samuel Karmasin]] und [[person|Inge Ostermayer]], *[[date_of_birth|09.05.1940]], die die Rettung am Unfallort wahrgenommen haben. Die Zeugin [[person|Ostermayer]] wohnt in der Nachbarschaft.
 
 9. Zum Beweis wird ferner die Vorlage der Polizeiakten beantragt, insbesondere des Berichts mit dem Kennzeichen [[license_plate|AM-302 YD]].
+
+**III a. Weitere Anträge**
+
+10. Die Kläger beantragen, die Drittbeklagte und Zeugin [[person|Lilibeth Drucker]] zu der Frage zu vernehmen, ob die Zweitbeklagte vor dem Anfahren die Warnblinkanlage eingeschaltet hatte. Die Zeugin hat diese Frage gegenüber der Polizei unbeantwortet gelassen, weshalb eine gerichtliche Einvernahme erforderlich ist.
+
+11. Ferner beantragen die Kläger die Einholung eines unfallanalytischen Sachverständigengutachtens zum Bremsweg, zur Sichtweite und zur Geschwindigkeit des Fahrzeugs mit dem Kennzeichen [[license_plate|AM-302 YD]] zum Unfallzeitpunkt. Die Kosten des Gutachtens werden vorläufig von den Klägern getragen. Das Gutachten ist binnen drei Wochen nach Einholung der Unterlagen vorzulegen.
+
+12. Die Kläger ersuchen, die Zeugin [[person|Ostermayer]] ergänzend zur Erstversorgung des Klägers zu vernehmen, da sie unmittelbar nach dem Unfall die Erste Hilfe geleistet hat. Die Zeugin ist nach den Angaben des Klägers in der Nachbarschaft wohnhaft, ihre Aussage ist daher leicht zu erlangen. Ihre Erreichbarkeit ist über die Gemeinde ohne Weiteres gegeben, und sie hat sich zur Mitwirkung bereit erklärt.
+
+13. Schließlich regen die Kläger die Beiziehung der Akten des [[court|Bezirksgericht Schärding]] in einem früheren Verfahren an, in dem die Erstbeklagte bereits als Partei aufgetreten ist. Diese Akten betreffen einen vergleichbaren Schadensfall und können für die Beurteilung der Haftung von Bedeutung sein.
+
+14. Die Kläger beantragen zudem die Vorlage der Lenkerunterlagen der Erstbeklagten, insbesondere der Fahrtenbücher des Fahrzeugs für den Monat des Unfalls. Diese Unterlagen sind geeignet, die Angaben der Zweitbeklagten zur Fahrtstrecke und zur Dauer der Fahrt zu überprüfen.
+
+15. Hilfsweise wird beantragt, die Tagsatzung zu verschieben, sofern das Gericht die Angaben der Zeugin für nicht ausreichend hält. Die Kläger erklären sich mit einer Verschiebung der Tagsatzung einverstanden, sofern die Beklagten die Vorlage der Unterlagen binnen vier Wochen zusagen.
+
+16. Die Kläger sind bereit, einen Vergleich über einen Betrag von EUR 24.000,00 abzuschließen, sofern die Beklagten diesen Betrag binnen vierzehn Tagen nach Zustellung dieses Schriftsatzes anweisen. Dieses Angebot ist ohne Anerkennung einer Rechtspflicht zu verstehen und dient der Verfahrensbeschleunigung.
 
 **IV. Beilagenverzeichnis**
 

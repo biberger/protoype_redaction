@@ -31,7 +31,7 @@ I. Mietobjekt
 
 (3) Die Vermieterin erklärt, dass die Wohnung in ordnungsgemäßem Zustand übergeben wird und dass die Wohnung nicht zu Zwecken der Ferienvermietung verwendet wird.
 
-(4) Ein Zustandsprotokoll mit Lichtbildern des Mietobjekts wird bei Übergabe angefertigt und ist Bestandteil dieses Vertrags. Der Mieter bestätigt, dass er die Wohnung besichtigt hat und mit ihrem Zustand einverstanden ist. Die Vermieterin trägt die Kosten für die Ausmalung vor der Übergabe.
+(4) Ein Zustandsprotokoll mit Lichtbildern des Mietobjekts wird bei Übergabe angefertigt und ist Bestandteil dieses Vertrags. Der Mieter bestätigt, dass er die Wohnung besichtigt hat und mit ihrem Zustand einverstanden ist. Die Vermieterin trägt die Kosten für die Ausmalung vor der Übergabe. Der Mieter ist berechtigt, Einrichtungen auf eigene Kosten anzubringen; diese sind bei Auszug zu entfernen, sofern die Vermieterin nicht die Übernahme gegen Ablöse verlangt.
 
 II. Mietdauer
 
@@ -47,6 +47,8 @@ III. Mietzins
 
 (1) Der monatliche Hauptmietzins beträgt EUR 780,00 netto, zuzüglich Betriebskosten von EUR 210,00 und Umsatzsteuer, sofern diese anfällt.
 
+Die Betriebskosten setzen sich monatlich wie folgt zusammen: Wasser und Kanal EUR 48,00; Müllabfuhr EUR 22,00; Hausversicherung EUR 19,00; Lift EUR 31,00; Hausbetreuung EUR 40,00; Heizung und Warmwasser EUR 50,00. Die Vorauszahlung wird jährlich an die tatsächlichen Kosten angepasst, wobei die Vermieterin die Belege auf Verlangen zur Einsicht vorlegt.
+
 (2) Der Mietzins ist jeweils am dritten Werktag eines Monats im Voraus auf das Konto IBAN [[bank_account|AT34 1766 8153 4367 2751]] zu überweisen. Verzugszinsen fallen an, wenn der Mietzins um mehr als zwei Wochen in Verzug gerät.
 
 (3) Die Wertsicherung richtet sich nach dem Verbraucherpreisindex. Eine Anpassung erfolgt jährlich, frühestens jedoch zum Ende des ersten Mietjahres.
@@ -59,6 +61,8 @@ IV. Kaution
 
 (2) Die Kaution ist binnen zwei Wochen nach Vertragsunterfertigung auf das Konto der Vermieterin zu überweisen. Eine Verrechnung mit Mietzinsforderungen ist nur bei Zahlungsrückstand zulässig.
 
+Nach Beendigung des Mietverhältnisses ist die Kaution samt Zinsen innerhalb von vier Wochen nach Rückgabe der Wohnung abzurechnen, soweit keine berechtigten Gegenforderungen bestehen.
+
 V. Betriebskosten und Instandhaltung
 
 (1) Die Betriebskosten werden nach dem Verbrauch oder dem Flächenschlüssel verrechnet. Die Vermieterin legt die Abrechnung jährlich bis zum 30. Juni des Folgejahres vor.
@@ -66,6 +70,8 @@ V. Betriebskosten und Instandhaltung
 (2) Kleinreparaturen bis zu einem Betrag von EUR 150,00 im Einzelfall trägt der Mieter. Größere Reparaturen fallen in den Verantwortungsbereich der Vermieterin.
 
 (3) Der Mieter ist verpflichtet, die Wohnung schonend zu behandeln und Schäden unverzüglich anzuzeigen.
+
+Bei Schäden, die durch Frost, Rohrbruch oder Feuchtigkeit entstehen, hat der Mieter die Vermieterin unverzüglich zu verständigen, um Folgeschäden zu vermeiden.
 
 VI. Hausordnung und Mitbenützung
 
@@ -93,7 +99,7 @@ VIII. Schlussbestimmungen
 
 (2) Die Vertragsparteien erhalten je eine Ausfertigung. Ein Exemplar erhält die Hausverwaltung.
 
-(3) Sollte eine Bestimmung unwirksam sein, bleibt der Vertrag im Übrigen wirksam.
+(3) Sollte eine Bestimmung unwirksam sein, bleibt der Vertrag im Übrigen wirksam. Der Vertrag wird in zwei Ausfertigungen errichtet.
 
 Ausgefertigt in [[address|9363 Metnitz]], am [[date|12. Februar 2026]]
 

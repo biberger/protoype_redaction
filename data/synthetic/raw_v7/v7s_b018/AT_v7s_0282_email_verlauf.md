@@ -27,6 +27,8 @@ anbei die Übersicht zum Kaufvertrag für die Liegenschaft in [[address|2231 Str
 
 Die Bank ist die [[organization|UniCredit Bank Austria AG]] ([[organization|BA]]), die den Kredit gewährt hat. Die Auszahlung an den Verkäufer erfolgt über das Notaranderkonto.
 
+Ich habe die Unterlagen zu den Kreditkonditionen beigelegt, die Bank hat den Betrag bereits bestätigt. Die Vertragsübergabe wird voraussichtlich in der zweiten Maiwoche stattfinden.
+
 Liebe Grüße
 [[person|Elena]]
 
@@ -44,6 +46,8 @@ Betreff: AW: Liegenschaft Strasshof, Klienten-Nr. [[other_identifier|62358]]
 Guten Morgen,
 
 danke für die Übersicht. Ich habe der [[organization|BA]] bereits die Unterlagen geschickt. Kann die [[organization|BA]] die Auszahlung auch vor der Eintragung vornehmen? Mein Anwalt in [[location|St. Pölten]] hat darauf hingewiesen, dass das nicht üblich ist.
+
+Bitte geben Sie mir Bescheid, falls die Bank zusätzliche Dokumente benötigt. Ich bin in den nächsten Tagen gut erreichbar.
 
 Liebe Grüße
 [[person|Sofiya]]
@@ -64,6 +68,8 @@ Liebe Frau [[person|Georgieva]],
 
 eine Auszahlung vor der Eintragung ist nur mit einer Rangordnungsbescheinigung möglich. Die [[organization|BA]] wird diese anfordern. Ich habe die Unterlagen für die Kanzlei zusammengestellt.
 
+Bitte prüfen Sie, ob die Unterlagen vollständig sind, bevor wir sie an die Bank weiterleiten.
+
 Mit freundlichen Grüßen
 [[person|Dr. Femka Wierzbicka]]
 
@@ -80,6 +86,32 @@ Betreff: AW: AW: AW: Liegenschaft Strasshof
 >
 > eine Auszahlung vor der Eintragung ist nur mit einer Rangordnungsbescheinigung möglich.
 
+Das Notariat hat den Termin bestätigt. Wir danken für die rasche Rückmeldung.
+
+Die Frage der Grunderwerbsteuer wurde bereits geklärt, der Bescheid liegt vor.
+
 Danke, bitte bestätigen Sie den Termin bei der [[organization|BA]] in [[location|St. Pölten]].
 
 Unser Zeichen: [[other_identifier|P/Georgieva/4681]]
+
+**Nachricht 5**
+
+Von: [[person|Dipl.-Ing. Elena Mallinger]] <[[email|e.mallinger@gruenzweig.at]]>
+Gesendet: Montag, [[date|20. April 2026]] 08:05
+An: [[person|Sofiya Georgieva]]
+Cc: [[person|Dr. Femka Wierzbicka]]
+Betreff: AW: AW: AW: AW: Liegenschaft Strasshof
+
+> Am [[date|17. April 2026]] um 09:30 schrieb [[person|Sofiya Georgieva]]:
+>
+> bitte bestätigen Sie den Termin bei der [[organization|BA]] in [[location|St. Pölten]].
+
+Liebe Frau [[person|Georgieva]],
+
+der Termin bei der [[organization|BA]] ist für den [[date|28. April 2026]] vereinbart. Bitte bringen Sie den Lichtbildausweis und die Vollmacht mit. Die Rangordnungsbescheinigung wird bis dahin von der Bank angefordert.
+
+Die Rangordnungsbescheinigung liegt bereits im Entwurf vor.
+
+Mit freundlichen Grüßen
+[[person|Dipl.-Ing. Elena Mallinger]]
+

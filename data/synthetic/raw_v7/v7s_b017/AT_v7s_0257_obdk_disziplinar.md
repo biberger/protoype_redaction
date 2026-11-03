@@ -74,6 +74,14 @@ Die Mandantin [[person|Ludmilla Gaßner]] nahm am [[date|11.06.2026]] an der Ver
 
 Die Kammeranwältin hat ergänzend auf die Kostenaufstellung hingewiesen, nach der die Beweisaufnahme Kosten in Höhe von EUR 1.230,00 verursacht hat.
 
+Der Senat hat außerdem geprüft, ob die Anzeige fristgerecht erstattet wurde. Die Verjährungsfrist nach [[legal_norm|§ 57 RAO]] beträgt drei Jahre ab Kenntnis der Verfehlung. Die Anzeige vom [[date|02.02.2026]] wurde innerhalb dieser Frist erstattet, weil die Verfehlung erst durch die Beschwerden der Mandantin im Jahr 2025 bekannt wurde.
+
+Der Senat hat die Akten der [[organization|ÖRAK]] über die Prüfung der Treuhandbücher beigezogen. Die Prüfung ergab, dass die Treuhandbücher der Kanzlei für die Jahre 2021 und 2022 nicht vollständig geführt waren. Der Beschuldigte hat die Mängel bei der Prüfung eingeräumt und die Buchhaltung inzwischen ausgelagert.
+
+Die Kammeranwältin hat in der Verhandlung angeregt, die Anzeige auch auf die Kanzleiorganisation auszudehnen. Der Senat hat dies abgelehnt, weil der Gegenstand der Anzeige auf die Treuhandgelder beschränkt ist. Die Zustellung der Entscheidung an die Mandantin erfolgt nach Abschluss des Verfahrens.
+
+Der Senat hat außerdem berücksichtigt, dass die Verfahrensdauer von der Anzeige bis zur Verhandlung rund zehn Monate betrug. Diese Dauer ist auf die Ladung der Zeugen und die Beiziehung der Akten zurückzuführen und dem Beschuldigten nicht anzulasten.
+
 V. Strafbemessung
 
 Der Strafrahmen reicht bis zu einer Geldbuße von EUR 20.000,00. Der Senat hält eine Geldbuße von EUR 4.000,00 für angemessen, weil der Beschuldigte die Zahlungen eingestanden und die Restbeträge nach der Anzeige an die Mandantin ausbezahlt hat. Ein Berufsverbot war nicht zu verhängen, weil der Beschuldigte bisher keine Vorwürfe dieser Art zu verantworten hatte.

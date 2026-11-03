@@ -67,11 +67,39 @@ Die Verkäuferinnen erteilen den Käufern die uneingeschränkte Aufsandungserkl�
 
 Die Verkäuferinnen verpflichten sich, bis zur Eintragung der Käufer keine Belastung der Liegenschaften vorzunehmen.
 
+Die Verkäuferinnen haben die Liegenschaften im Jahr 2019 erworben und seither als landwirtschaftliche Nutzfläche verpachtet. Die Pachtverträge wurden mit Wirkung zum Übergabestichtag gekündigt; eine Kündigungsbestätigung liegt vor. Die Käufer übernehmen die Liegenschaften in dem Zustand, in dem sie sich am Übergabestichtag befinden, und erklären, dass sie die Lage im Gelände und die Zufahrt geprüft haben.
+
+Das Waldstück ist nach dem Forstgesetz in Teilen als Schutzwald ausgewiesen. Die Käufer erklären, dass ihnen die Einschränkungen bekannt sind, insbesondere die Pflicht zur Wiederaufforstung nach einer Schlägerung. Die Liegenschaften sind nach dem Flächenwidmungsplan als Grünland ausgewiesen; ein Baurecht besteht nicht.
+
+Die Verkäuferinnen haben dem Notar eine Bestätigung der [[organization|Bezirksbauernkammer Leoben]] vom [[date|12. Jänner 2026]] vorgelegt, wonach keine landwirtschaftlichen Förderungen zurückzufordern sind. Die Käufer haben diese Bestätigung zur Kenntnis genommen.
+
 VI. Gewährleistung und Übergabe
 
 Die Liegenschaften werden im gegenwärtigen Zustand übergeben. Die Gewährleistung für den Zustand des Wirtschaftsgebäudes ist ausgeschlossen. Die [[organization|Maderthaner Holding]] hat ihre Kenntnis über Mängel der Wasserversorgung offengelegt.
 
 Die Übergabe erfolgt mit der Kaufpreiszahlung. Ab diesem Zeitpunkt tragen die Käufer Nutzen und Gefahr.
+
+Die Käufer haben den Kaufpreis mit Eigenmitteln und einem Bankdarlehen finanziert. Die Darlehensbedingungen sind zwischen den Käufern und dem Kreditinstitut gesondert vereinbart. Eine Verpfändung der Liegenschaften zur Besicherung des Darlehens erfolgt erst nach der Eigentumseintragung und ist nicht Gegenstand dieses Vertrages.
+
+Die Treuhandschaft Nr. [[other_identifier|2019/292]] umfasst die Aufbewahrung der Originalurkunden über die Liegenschaft in [[location|Namlos]]. Die Kanzlei hat diese Urkunden seit dem Jahr 2019 verwahrt und übergibt sie den Käufern nach Eintragung im Grundbuch.
+
+Die Vertragsteile vereinbaren, dass die Kanzlei die Auszahlung an die Verkäuferinnen erst dann vornimmt, wenn die Lastenfreistellung für die Liegenschaft in [[location|Namlos]] vorliegt. Die Auszahlung für das Waldstück erfolgt nach Eintragung des Eigentumsrechts der Käufer, weil dafür keine Pfandrechte bestehen.
+
+Die Kosten der Vermessung des Waldstücks betragen EUR 2.400,00 und sind im Kaufpreis nicht enthalten. Sie werden von den Käufern im Verhältnis ihrer Anteile getragen.
+
+Die Vertragsteile halten fest, dass die Zufahrt zum Waldstück über einen Güterweg erfolgt, der im Eigentum der Gemeinde steht. Ein Wegerecht zugunsten des Waldstücks ist grundbücherlich nicht eingetragen. Die Verkäuferinnen erklären, dass sie den Gebrauch des Weges seit Jahren ohne Beanstandung ausgeübt haben, und die Käufer übernehmen diese Nutzung in gleichem Umfang.
+
+Die Wasserversorgung des Wirtschaftsgebäudes erfolgt über einen eigenen Brunnen, für den eine wasserrechtliche Bewilligung besteht. Die Verkäuferinnen haben die Bewilligung samt Wasseranalyse vom [[date|14. November 2025]] übergeben. Die Käufer erklären, diese Unterlagen erhalten zu haben.
+
+Die Verkäuferinnen erklären ferner, dass im Gebäude keine Asbestmaterialien verbaut wurden. Eine entsprechende Bestätigung des Befundungsbüros liegt nicht vor; die Käufer verzichten daher auf Gewährleistungsansprüche, falls sich später das Gegenteil herausstellt.
+
+Die Kaufpreisübergabe erfolgt Zug um Zug gegen die Übergabe der Schlüssel, der Urkunden und der Unterlagen zum Wirtschaftsgebäude. Die Vermessungsurkunde des Bundesamtes für Eich- und Vermessungswesen vom [[date|3. Dezember 2025]] weist das Waldstück als Teilfläche aus. Die Abschreibung des Waldstücks wird im Grundbuch erst nach Vorliegen der Teilungsbewilligung eingetragen. Bis dahin bleibt die Liegenschaft in der bisherigen Form eingetragen, und die Käufer tragen die Kosten der Teilung im Verhältnis ihrer Anteile.
+
+Die Verkäuferinnen erklären, dass auf dem Grundstück keine Bodenschätze abgebaut werden und keine Bergbauberechtigungen bestehen. Die Liegenschaften sind nicht mit Bestandsverträgen für Windkraftanlagen oder Mobilfunkmasten belastet. Die Käufer haben sich über die Lage der Liegenschaft im Gemeindegebiet informiert. Die Frage der Erreichbarkeit im Winter wurde besprochen; die Käufer übernehmen die Verpflichtung zum Winterdienst auf dem Zufahrtsweg, soweit sie diesen benützen. Die Verkäuferinnen haben die Ausfertigung des Kaufvertrages über die Vorgängerliegenschaft vorgelegt, der die Aufteilung des Gesamtgrundstücks bestätigt.
+
+Die Verkäuferinnen und Käufer nehmen zur Kenntnis, dass der Erwerb des Waldstücks einer Genehmigung nach dem [[legal_norm|Grundverkehrsgesetz]] unterliegt, sofern die Käufer nicht bereits landwirtschaftlich tätig sind. Die Käufer erklären, dass sie die Voraussetzungen erfüllen, und legen dazu eine Bestätigung der zuständigen Agrarbehörde vor, die das Datum [[date|20. Jänner 2026]] trägt. Die Genehmigung ist Voraussetzung für die Eintragung und wird von der Kanzlei beantragt.
+
+Die Kosten für die Genehmigung trägt der Käufer. Ein Rücktritt vom Vertrag ist für den Fall vorgesehen, dass die Genehmigung rechtskräftig versagt wird. In diesem Fall sind die bereits eingezahlten Beträge samt Zinsen an die Käufer zurückzuzahlen.
 
 VII. Schlussbestimmungen
 

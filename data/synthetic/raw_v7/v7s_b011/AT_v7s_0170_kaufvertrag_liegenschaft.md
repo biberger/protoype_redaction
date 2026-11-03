@@ -67,6 +67,16 @@ V. Mängel und Gewährleistung
 
 Der Käufer erklärt, die Liegenschaft besichtigt zu haben und mit deren Zustand einverstanden zu sein. Der Verkäufer haftet für versteckte Mängel nur, soweit ihm diese bekannt waren. Die Gewährleistung für den Zustand der Heizungsanlage ist ausgeschlossen. Der Verkäufer hat dem Käufer die Heizungsrechnungen der letzten drei Jahre übergeben.
 
+Die Käufer erklären, dass ihnen die Liegenschaft seit der Besichtigung am [[date|20. Februar 2026]] bekannt ist. Bei dieser Besichtigung waren beide Käufer anwesend, ebenso der Verkäufer. Besichtigt wurden das Wohnhaus, das Nebengebäude und das Grundstück in seinen Grenzen. Eine Begehung des Dachbodens war wegen der Witterungsverhältnisse nicht möglich; insoweit verzichten die Käufer auf Gewährleistungsansprüche.
+
+Der Verkäufer ist verpflichtet, die Wasser- und Stromzähler zum Übergabestichtag abzulesen und die Abrechnung mit dem jeweiligen Versorger selbst vorzunehmen. Die Grundsteuer und die Kanalgebühr tragen bis zum Übergabestichtag die Verkäufer, danach die Käufer.
+
+Der Verkäufer erklärt, dass über sein Vermögen kein Insolvenzverfahren anhängig ist und dass keine Pfändung der Liegenschaft besteht. Eine Auskunft des Exekutionsregisters vom [[date|10. März 2026]] wurde der Kanzlei vorgelegt und bestätigt diese Angaben.
+
+Die Käufer erklären, den Kaufpreis aus Eigenmitteln und aus einem Darlehen aufzubringen, das sie bei der [[organization|Sparkasse Lassing AG]] beantragt haben. Die Zusage der Bank liegt vor und wird im Akt aufbewahrt. Eine Änderung dieses Vertrages kann nur durch einen schriftlichen Nachtrag erfolgen, der von allen Vertragsparteien unterfertigt wird.
+
+Die Verkäufer erklären, dass sie die Liegenschaft seit dem Erwerb nicht vermietet haben, mit Ausnahme der oben genannten Pacht. Die Käufer haben von dieser Erklärung Kenntnis genommen und verzichten auf weitere Nachweise.
+
 VI. Schlussbestimmungen
 
 Änderungen dieses Vertrages bedürfen der Schriftform. Mündliche Nebenabreden bestehen nicht. Sollte eine Bestimmung unwirksam sein, bleibt der Vertrag im Übrigen wirksam.

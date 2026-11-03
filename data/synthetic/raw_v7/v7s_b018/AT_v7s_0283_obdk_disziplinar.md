@@ -50,6 +50,32 @@ III. Der Rechtsanwalt hat die Kosten des Verfahrens zu tragen.
 
 11. Die Kostenentscheidung beruht auf den einschlägigen Bestimmungen des Disziplinarstatuts.
 
+12. Der Beschuldigte [[lawyer|Schindler]] war zum Zeitpunkt der Verfahrenseinleitung seit zwölf Jahren als Rechtsanwalt tätig und hatte bisher keine disziplinären Auffälligkeiten. Er hat im Verfahren eingeräumt, dass die Dokumentation der Treuhandvorgänge unvollständig war, und sich um eine Nachholung bemüht.
+
+13. Die Kammeranwältin [[person|Mühlhofer]] hat beantragt, die Geldbuße im oberen Bereich des Rahmens festzusetzen. Sie stützte sich dabei auf die Summe der Auszahlungen und die Tatsache, dass die Zahlungen über mehrere Wochen erfolgten. Der Senat hat diesen Antrag gewürdigt, jedoch die Mitwirkung des Beschuldigten bei der Nachtragung der Buchhaltung berücksichtigt.
+
+14. Die Schriftführerin [[person|Zavialova]] bestätigte, dass der Beschuldigte bei der Verhandlung ein Konvolut von Belegen vorgelegt hat. Diese Belege betreffen jedoch nicht die Auszahlung der Maklerprovision, sodass die Anzeige in diesem Punkt bestehen bleibt.
+
+15. Der Senat hat erörtert, ob die Auszahlung der Maklerprovision eine Veruntreuung im strafrechtlichen Sinn darstellt. Dies ist nicht Gegenstand des disziplinarrechtlichen Verfahrens. Die Kammer wird den Sachverhalt jedoch der zuständigen Stelle mitteilen, sofern die Klientin dies wünscht.
+
+16. Die Beisitzerin [[judge|Wurm]] wies in der Beratung darauf hin, dass die Wahrung der Treuhandpflicht bei Immobiliengeschäften besondere Sorgfalt erfordert, weil die Beträge hoch sind und die Abwicklung über längere Zeit läuft. Die Beisitzerin [[judge|Stix]] schloss sich dieser Auffassung an.
+
+17. Die Kosten des Verfahrens setzen sich aus den Gebühren der Kammer und den Auslagen für die Zustellung zusammen. Der Beschuldigte hat die Kosten nach Maßgabe des Spruchs zu tragen.
+
+18. Die Entscheidung erging einstimmig. Die Verkündung erfolgte in Gegenwart des Beschuldigten und der Kammeranwältin [[person|Mühlhofer]].
+
+19. Der Senat hat die Stellungnahme der [[organization|TRAK]] zur Anzeige geprüft. Die Kammer hat ihre Aufsichtspflicht nach eigenen Angaben durch die Prüfung der Treuhandbuchhaltung wahrgenommen. Eine Verletzung der Aufsichtspflicht der Kammer ist im Verfahren nicht Gegenstand gewesen.
+
+20. Die Klientin des Beschuldigten hat den Kaufpreis fristgerecht an den Verkäufer überwiesen, sodass der Erwerb nicht gefährdet war. Dies wurde vom Senat als Milderungsgrund berücksichtigt, soweit es die Folgen der Verfehlung betrifft. Ein Schaden im Sinne der Anzeige ist jedoch nur in Höhe der nicht belegten Beträge eingetreten, nämlich in Höhe von EUR 10.200,00, die nachträglich offengelegt wurden.
+
+21. Die Rechtsanwaltskammer hat im Verfahren die Kontoauszüge des Anderkontos direkt von der Bank angefordert. Die Bank hat die Auszüge für den Zeitraum vom [[date|3. Oktober 2025]] bis zum [[date|31. Oktober 2025]] übermittelt. Die Auszüge bestätigen die Angaben der Beteiligten im Wesentlichen.
+
+22. Die Kammeranwältin [[person|Mühlhofer]] hat die Vorlage eines Gutachtens zur Frage der Verzinsung der Treuhandgelder angeregt. Der Senat hat dies abgelehnt, weil die Verzinsung nicht Gegenstand des Vorwurfs ist.
+
+23. Die Kosten des Verfahrens werden dem Beschuldigten auferlegt. Die Ausfertigung des Erkenntnisses ergeht zudem an die [[organization|TRAK]].
+
+24. Die Schriftführerin hat das Protokoll der Verhandlung geführt. Die Richtigkeit wurde von allen Mitgliedern des Senats bestätigt.
+
 Für den Senat
 
 Die Vorsitzende: Senatspräsidentin [[judge|Dr. Alla Detela]]

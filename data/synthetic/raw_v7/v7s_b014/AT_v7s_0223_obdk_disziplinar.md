@@ -57,9 +57,13 @@ Die Klientin [[person|Constance Pinsker]] hat in der Verhandlung ausgeführt, da
 
 Die Kanzleikraft der Beschuldigten hat in ihrer schriftlichen Erklärung angegeben, dass sie keinen Zugriff auf das Anderkonto hatte. Diese Aussage deckt sich mit dem Ergebnis der Kammerprüfung, die keine Buchungen durch Dritte festgestellt hat.
 
+Der Senat hat die Akten der Kammer über frühere Verfahren gegen die Beschuldigte nicht herangezogen, weil diese nicht Gegenstand des Verfahrens waren. Die Beschuldigte ist bisher disziplinarrechtlich nicht in Erscheinung getreten.
+
 **4. Rechtliche Beurteilung**
 
 Eine Rechtsanwältin hat ihre Treuhandgelder nach [[legal_norm|§ 43a Abs 4 RAO]] unverzüglich weiterzuleiten. Die Verletzung dieser Pflicht ist ein Verstoß gegen [[legal_norm|§ 43 Abs 1 RAO]]. Mildernd wirkt die bisherige Unbescholtenheit und die vollständige Rückzahlung. Erschwerend wirkt die Mehrzahl der Fälle.
+
+Der Senat hat bei der Strafbemessung berücksichtigt, dass die Beschuldigte im Verfahren kooperativ war und die Verspätungen auf eine Erkrankung ihrer Kanzleikraft zurückführte. Die Geldbuße im Ausmaß von EUR 4.000,00 erscheint verhältnismäßig, weil die Beträge vollständig ausbezahlt wurden und keine Klientin einen dauerhaften Schaden erlitten hat.
 
 **5. Rechtsmittelbelehrung**
 

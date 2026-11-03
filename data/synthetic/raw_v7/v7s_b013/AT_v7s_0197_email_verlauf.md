@@ -23,7 +23,7 @@ Betreff: Klage gegen [[organization|Thalberg Bau GmbH]] (im Folgenden „[[organ
 
 Sehr geehrter Herr [[person|Heuberger]],
 
-die Klage wegen des offenen Werklohns ist beim [[court|Landesgericht St. Pölten]] eingebracht. Für Ihre Akte: Klientennummer [[other_identifier|34791]]. Die Gegenseite ist durch Herrn [[person|Ernst Goudsmit]] vertreten. Die Frist zur Klagebeantwortung läuft bis [[date|24.03.2026]]; bitte senden Sie mir bis dahin alle Mängelrügen und die Korrespondenz aus dem Sommer 2025, die Sie noch besitzen.
+die Klage wegen des offenen Werklohns ist beim [[court|Landesgericht St. Pölten]] eingebracht. Für Ihre Akte: Klientennummer: [[other_identifier|34791]]. Die Gegenseite ist durch Herrn [[person|Ernst Goudsmit]] vertreten. Die Frist zur Klagebeantwortung läuft bis [[date|24.03.2026]]; bitte senden Sie mir bis dahin alle Mängelrügen und die Korrespondenz aus dem Sommer 2025, die Sie noch besitzen.
 
 Mit freundlichen Grüßen
 [[person|Dr. Salzgeber]]
@@ -54,5 +54,5 @@ Sehr geehrter Herr Kollege [[person|Goudsmit]],
 
 Herr [[person|Theodor Martens]] hat meinem Klienten bestätigt, dass die Mängel bereits im Juni angezeigt wurden. Die [[organization|TBG]] hat diese Anzeige nach eigenen Angaben nie erhalten. Ich lege Sie bei der nächsten Tagsatzung vor, und zwar zusammen mit dem Protokoll der Bauverhandlung, das die [[organization|TBG]] selbst unterschrieben hat.
 
-Mit besten Grüßen
+Vielen Dank vorab und mit besten Grüßen
 [[person|Dr. Salzgeber]]

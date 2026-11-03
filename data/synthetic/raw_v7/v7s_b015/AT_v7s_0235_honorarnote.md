@@ -34,7 +34,7 @@ Summe netto | | 870,00
 20 % USt | | 174,00
 Summe brutto | | 1.044,00
 
-Die Honorarnote umfasst die oben angeführten Leistungen. Der Betrag ist binnen 14 Tagen auf das Konto IBAN [[bank_account|AT82 0035 6235 8605 1953]] der [[organization|Wagner-Jauregg GmbH]] zu überweisen.
+Die Honorarnote umfasst die oben angeführten Leistungen. Die Besprechung vom [[date|28.10.2026]] fand auf Wunsch des Mandanten statt und betraf die Frage, ob ein Vergleich mit der Gegenseite wirtschaftlich sinnvoll ist. Der Zeitaufwand wurde nach Viertelstunden erfasst, die Wegzeiten sind nicht gesondert verrechnet. Für die Position vom [[date|13.10.2026]] wurde ein Entwurf des Schriftsatzes angefertigt, der mit dem Mandanten abgestimmt wurde. Bei Rückfragen zur Verrechnung steht Ihnen unser Sekretariat gerne zur Verfügung. Wir danken für den Auftrag und freuen uns auf die weitere Zusammenarbeit. Wir bitten, die Zahlung unter Angabe der Honorarnote-Nummer vorzunehmen. Der Betrag ist binnen 14 Tagen auf das Konto IBAN [[bank_account|AT82 0035 6235 8605 1953]] der [[organization|Wagner-Jauregg GmbH]] zu überweisen.
 
 Mit freundlichen Grüßen
 

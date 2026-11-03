@@ -25,6 +25,8 @@ I. Sachverhalt
 
 Der Beschuldigte [[lawyer|Klebelsberg]] war im Zeitraum von März 2024 bis Juli 2025 als Vertreter der Klientin [[person|Anna Geist]] tätig. Die Klientin hatte ihm einen Betrag von EUR 14.800,00 zur Verwahrung übergeben, der aus einer Schadenersatzzahlung stammte.
 
+Die Klientin [[person|Geist]] ist Lehrerin und hatte die Schadenersatzzahlung im Zusammenhang mit einem Verkehrsunfall erhalten. Sie hat den Beschuldigten im März 2024 mit der Verwertung ihres Anspruchs beauftragt. Eine Honorarvereinbarung wurde nicht schriftlich getroffen, sondern nur mündlich am Telefon besprochen. Der Beschuldigte hat in seiner Stellungnahme vom [[date|20.06.2025]] angegeben, er habe die Zahlung mit der Klientin telefonisch besprochen; ein Gesprächsprotokoll existiert nicht.
+
 Der Beschuldigte legte die Gelder auf einem Treuhandkonto ab, das er im Namen der Kanzlei führte. In der Folge wurden von diesem Konto mehrfach Beträge ausbezahlt, ohne dass die Klientin davon wusste oder zugestimmt hatte.
 
 Die Treuhandschaft wurde unter der Nummer [[other_identifier|2024/511]] geführt. Am [[date|15.04.2024]] gingen EUR 14.800,00 ein. Am [[date|02.05.2024]] wurden EUR 4.000,00 an einen Dritten überwiesen, am [[date|18.09.2024]] EUR 3.500,00 an den Beschuldigten selbst als Honorar.
@@ -47,13 +49,15 @@ Die Rüge der Verletzung des Rechts auf ein faires Verfahren nach [[legal_norm|A
 
 Zur Beschwerde der Klientin ist ergänzend festzuhalten, dass der Beschuldigte die Verwahrung der Gelder nicht durch schriftliche Vereinbarung geregelt hat. Eine Belehrung über die Verwahrungsbedingungen wurde der Klientin nicht ausgehändigt. Der Beschuldigte hat nach eigenen Angaben die Gelder in der Annahme verwendet, dass ihm aus dem vorangehenden Mandat ein Honoraranspruch zustehe.
 
-Der Senat verkennt nicht, dass die Frage der Honorarverrechnung im Einzelfall schwierig sein kann. Eine Honorarforderung berechtigt jedoch nicht zur eigenmächtigen Entnahme aus dem Treuhandkonto. Die Entnahme ist nur zulässig, wenn die Forderung feststeht und die Klientin der Verrechnung zugestimmt hat oder die Forderung rechtskräftig festgestellt ist.
+Der Senat verkennt nicht, dass die Frage der Honorarverrechnung im Einzelfall schwierig sein kann. Eine Honorarforderung berechtigt jedoch nicht zur eigenmächtigen Entnahme aus dem Treuhandkonto. Die Entnahme ist nur zulässig, wenn die Forderung feststeht und die Klientin der Verrechnung zugestimmt hat oder die Forderung rechtskräftig festgestellt ist. Ein bloßes Vertrauen des Beschuldigten auf den Bestand seiner Forderung genügt nicht; er hätte die Klientin vor der Verrechnung informieren und die Zustimmung schriftlich einholen müssen. Die Richtlinien der Rechtsanwaltschaft sehen dies ausdrücklich vor.
 
 Der Beschuldigte hat außerdem im Zeitraum vom [[date|1.06.2024]] bis zum [[date|31.10.2024]] keine Kontoauszüge an die Kammer übermittelt, obwohl er nach den Richtlinien der Kammer dazu verpflichtet war. Die Unterlassung wurde erst nach einer Aufforderung der Kammer behoben.
 
 Die Verteidigung hat vorgebracht, dass ein Teil der Verfahrenskosten auf die Kammer zu überwälzen sei, weil die Anzeige in einem Punkt unbegründet war. Der Senat folgt dieser Auffassung teilweise und berücksichtigt dies bei der Kostenentscheidung.
 
 Die Klientin hat den Betrag von EUR 7.300,00 erst am [[date|12.05.2025]] erhalten, und zwar nach ihrer schriftlichen Aufforderung. Die Verzögerung von mehr als drei Monaten ist ein Erschwernis, das bei der Strafbemessung zu berücksichtigen ist.
+
+Die Verhältnismäßigkeit der Strafe ist gewahrt. Die Geldbuße liegt im unteren Drittel des Strafrahmens nach [[legal_norm|§ 46 RAO]]; eine Entziehung der Berufsberechtigung ist nicht erforderlich, weil der Beschuldigte die Gelder zurückerstattet hat und keine weiteren Vorwürfe bestehen. Der Senat hat diese Erwägungen bei der Festsetzung berücksichtigt. Eine Berufung der Kammer wurde nicht erhoben.
 
 III. Kosten
 

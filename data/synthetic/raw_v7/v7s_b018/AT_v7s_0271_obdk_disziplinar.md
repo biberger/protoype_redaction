@@ -47,6 +47,16 @@ III. Der Beschuldigte hat die Kosten des Verfahrens zu tragen.
 
 8a. Zur Schwere der Verfehlung ist ergänzend auf die Stellung der Klientin hinzuweisen. Frau [[person|Ludin]] ist eine Laiin in Fragen des Treuhandrechts und musste sich darauf verlassen können, dass ihr Geld unverzüglich und ungeschmälert verwahrt wird. Die Verzögerung der Auszahlung hat ihre Pläne für den Erwerb einer Nachfolgewohnung verzögert, wie sie in der mündlichen Verhandlung glaubhaft dargelegt hat. Ein Schadenersatzanspruch der Klientin ist nicht Gegenstand dieses Verfahrens.
 
+8b. Der Senat hat ferner geprüft, ob der Beschuldigte die Trennungspflicht auch gegenüber anderen Klienten verletzt hat. Hinweise darauf haben sich nicht ergeben. Der Kammeranwalt [[person|Schieder]] erklärte in der mündlichen Verhandlung ausdrücklich, dass sich die Anzeige auf das Mandat der Klientin [[person|Ludin]] beschränkt.
+
+8c. Die Verteidigung hat vorgebracht, der Beschuldigte habe die Klientin vor der Überweisung telefonisch informiert. Der Senat hat dieses Vorbringen geprüft, jedoch keine Anhaltspunkte dafür gefunden. Das Telefonjournal der Kanzlei verzeichnet für den [[date|20. Februar 2026]] lediglich einen eingehenden Anruf von zwei Minuten, der keiner Klientin zugeordnet werden konnte.
+
+8d. Auch der Einwand, die Kanzleikraft habe die Buchung eigenmächtig vorgenommen, überzeugt nicht. Die Freigabe der Überweisung trägt das Kürzel des Beschuldigten, sodass die Verantwortung für die Buchung bei ihm liegt.
+
+8e. Der Senat hat berücksichtigt, dass die Klientin [[person|Ludin]] den Beschuldigten aufgrund eines Vertrauensverhältnisses beauftragt hatte, das über Jahre bestand. Gerade in einem solchen Verhältnis ist die Pflicht zur Trennung der Gelder von besonderer Bedeutung, weil der Klient die Kontrolle über den Vorgang nicht selbst ausüben kann.
+
+8f. Die Verhängung einer Geldbuße ist auch unter Berücksichtigung der wirtschaftlichen Lage des Beschuldigten angemessen. Der Beschuldigte betreibt eine Einzelkanzlei mit zwei Mitarbeitern und hat die Buße nach eigenen Angaben aus laufenden Einkünften zu bezahlen. Eine Ratenzahlung wurde nicht beantragt.
+
 9. Die Kostenentscheidung stützt sich auf die einschlägigen Bestimmungen des Disziplinarstatuts. Der Beschuldigte hat die Kosten des Verfahrens zu tragen, weil er mit seinem Vorbringen nicht durchgedrungen ist.
 
 10a. Gegen dieses Erkenntnis steht dem Beschuldigten und dem Kammeranwalt die Berufung an die [[court|OBDK]] offen. Die Berufung ist binnen vier Wochen ab Zustellung bei dieser Stelle einzubringen.

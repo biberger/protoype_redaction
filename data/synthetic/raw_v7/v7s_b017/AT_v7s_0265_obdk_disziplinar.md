@@ -76,6 +76,20 @@ Der Senat hat berücksichtigt, dass die Beschuldigte seit dem Jahr 2010 unbescho
 
 Der Kammeranwalt [[person|Mag. Fortunat Strzembosz]] beantragte eine Geldbuße im oberen Drittel des Rahmens. Der Senat folgte diesem Antrag nicht, weil die Beschuldigte die Fehler eingestanden hat.
 
+Die Verfahrenskosten umfassen die Kosten des Senats, die Reisekosten der Zeugin [[person|Silvia Pühringer]] und die Kosten der Verhandlung in [[location|Linz]]. Sie werden nach den Richtlinien des Disziplinarrates bemessen und der Beschuldigten auferlegt.
+
+Der Senat hat die Schriftführerin [[person|Liesa Mag. Dr. Scharf]] angewiesen, die Protokollabschrift den Klienten zuzustellen, sofern deren Anschriften bekannt sind. Die Anschrift der Klientin [[person|Friederike Holzinger]] ist im Akt vermerkt, die des Klienten [[person|Emil Kovačević]] nicht.
+
+Die Beschuldigte wird darauf hingewiesen, dass die Berufung binnen vier Wochen bei der Kammer einzubringen ist.
+
+Die Beschuldigte hat in ihrem Schlusswort erklärt, dass sie die Verantwortung für die Buchhaltung übernehme und die Verfehlung bedauere. Sie hat zugesagt, die Treuhandbuchhaltung ab sofort durch die externe Stelle prüfen zu lassen und den Senat über die Umsetzung zu informieren.
+
+Der Senat hat diesen Schritt begrüßt, jedoch darauf hingewiesen, dass die Zusage keine Auswirkung auf die Strafzumessung für die bereits begangene Pflichtverletzung hat. Die Beschuldigte hat die Verantwortung für die Fehlbuchung vom [[date|03.05.2024]] zu tragen, auch wenn die Ursache in einer Organisationslücke lag.
+
+Der Senat hat die Akten zudem an die [[organization|Österreichische Rechtsanwaltskammer]] zur Kenntnis übermittelt, damit diese die Treuhandbuchführung der Kanzlei im Rahmen der allgemeinen Aufsicht prüfen kann. Die Übermittlung erfolgt ohne Präjudiz für das Verfahren.
+
+Der Senat hat außerdem das Vorbringen der Beschuldigten geprüft, wonach die Fehlbuchung durch eine Software-Umstellung verursacht worden sei. Die Beschuldigte konnte dies nicht belegen, weil die Protokolle der Buchhaltungssoftware nicht mehr verfügbar sind. Der Senat hat die Behauptung daher nicht als entlastend gewertet, da die Beschuldigte als Treuhänderin für die ordnungsgemäße Führung der Bücher verantwortlich ist. Die Schriftführerin hat den Vermerk zu den Akten genommen.
+
 Die Kosten richten sich nach [[legal_norm|§ 39 Abs 2 RAO]]. Gegen diese Entscheidung ist eine Berufung an die [[court|OBDK]] zulässig.
 
 Für den [[court|Disziplinarrat der Oberösterreichischen Rechtsanwaltskammer]]:

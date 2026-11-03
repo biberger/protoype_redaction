@@ -42,7 +42,7 @@ Die Vertragsparteien werden im Folgenden als Verkäufer und Käuferin bezeichnet
 
 II. Vorbemerkungen
 
-Der Verkäufer ist Alleineigentümer der nachstehend bezeichneten Liegenschaften. Die Käuferin, vertreten durch ihre Komplementärin, beabsichtigt, die Liegenschaften zu erwerben, um darauf einen landwirtschaftlichen Betrieb zu führen. Die [[organization|Paul]] hat die Liegenschaften bis zum Jahr 2019 als Ackerland verpachtet und bewirtschaften lassen. Der Verkäufer hat sie danach selbst in Besitz genommen und seither nicht mehr genutzt.
+Der Verkäufer ist Alleineigentümer der nachstehend bezeichneten Liegenschaften. Die Käuferin, vertreten durch ihre Komplementärin, beabsichtigt, die Liegenschaften zu erwerben, um darauf einen landwirtschaftlichen Betrieb zu führen. Die [[organization|Paul]] hat die Liegenschaften bis zum Jahr 2019 als Ackerland verpachtet und bewirtschaften lassen. Der Verkäufer hat sie danach selbst in eigene Verwaltung übernommen und seither nicht mehr genutzt.
 
 Die Vertragsparteien stellen fest, dass die Liegenschaften im Grundbuch frei von Pfandrechten sind, mit Ausnahme der Pfandrechte, die im Zuge dieses Vertrages gelöscht werden. Die Kaufpreisfinanzierung erfolgt durch die Käuferin aus Eigenmitteln und einem Darlehen, das die Käuferin bei einem Kreditinstitut aufnimmt; die Käuferin wird dazu eine gesonderte Vereinbarung treffen, die die Lastenfreistellung nicht berührt.
 
@@ -70,7 +70,7 @@ VI. Treuhandabwicklung
 
 2. Die Kanzlei ist ermächtigt, die Grunderwerbsteueranzeige im Namen der Vertragsteile zu erstatten.
 
-3. Die Treuhandnummer der Kanzlei wird den Vertragsteilen gesondert mitgeteilt.
+3. Die Treuhandnummer der Kanzlei wird den Vertragsteilen gesondert mitgeteilt. Die Kanzlei stellt den Vertragsteilen nach Abschluss der Abwicklung eine Abrechnung über die eingegangenen und ausgezahlten Beträge zur Verfügung, die auch die Kosten der Lastenfreistellung ausweist.
 
 VI a. Grundverkehr und Genehmigungen
 
@@ -84,7 +84,7 @@ VI a. Grundverkehr und Genehmigungen
 
 VII. Übergabe und Gewährleistung
 
-Die Übergabe erfolgt mit Unterfertigung dieses Vertrages. Die Gefahr geht mit dem Tag der Übergabe auf die Käuferin über. Der Verkäufer haftet nicht für Sachmängel, die ihm nicht bekannt waren. Pachtverträge oder Mietverträge bestehen an den Liegenschaften nicht. Der Verkäufer erklärt, dass die Liegenschaften keine Altlasten aufweisen und dass ihm keine behördlichen Verfahren bekannt sind, die die Liegenschaften betreffen. Die Käuferin hat die Möglichkeit, vor der Unterfertigung eine Bodenuntersuchung auf eigene Kosten durchführen zu lassen.
+Die Übergabe erfolgt mit Unterfertigung dieses Vertrages. Die Gefahr geht mit dem Tag der Übergabe auf die Käuferin über. Der Verkäufer haftet nicht für Sachmängel, die ihm nicht bekannt waren. Die Käuferin übernimmt die Verpflichtung, den Waldbestand nach den Vorgaben des Forstgesetzes zu pflegen und den Wegerhalt auf dem Grundstück [[land_register_id|Gst-Nr. 496]] auf eigene Kosten durchzuführen. Schäden, die durch Hochwasser oder Lawinen vor dem Übergabetag entstanden sind, werden vom Verkäufer nicht ersetzt, sofern sie in der Gefahrenzonenkarte ausgewiesen waren. Pachtverträge oder Mietverträge bestehen an den Liegenschaften nicht. Der Verkäufer erklärt, dass die Liegenschaften keine Altlasten aufweisen und dass ihm keine behördlichen Verfahren bekannt sind, die die Liegenschaften betreffen. Die Käuferin hat die Möglichkeit, vor der Unterfertigung eine Bodenuntersuchung auf eigene Kosten durchführen zu lassen.
 
 VIII. Schlussbestimmungen
 
@@ -97,6 +97,8 @@ VIII. Schlussbestimmungen
 4. Die Vertragsteile verpflichten sich, an allen Schritten mitzuwirken, die zur grundbücherlichen Durchführung erforderlich sind, insbesondere an der Vorlage der Unterlagen für die Grunderwerbsteueranzeige.
 
 5. Die Vertragsteile vereinbaren den Gerichtsstand am Sitz der Kanzlei, soweit dies zulässig ist.
+
+6. Mündliche Nebenabreden bestehen nicht. Änderungen dieses Vertrages bedürfen, auch wenn sie das Schriftformgebot selbst betreffen, der Schriftform und der Unterfertigung durch alle Vertragsteile. Eine Vertragsstrafe ist nicht vereinbart; die Vertragsteile sind auf den Ersatz des tatsächlichen Schadens beschränkt.
 
 [[location|Griffen]], am [[date|28. Oktober 2026]]
 

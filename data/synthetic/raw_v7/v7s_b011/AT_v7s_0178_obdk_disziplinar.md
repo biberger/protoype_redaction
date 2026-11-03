@@ -83,6 +83,20 @@ Das zusätzliche Konto bei der [[organization|IHB]] stellt eine eigenständige P
 
 Für die Verjährung gilt die Frist des [[legal_norm|§ 60 RAO]]. Die Verfolgung ist rechtzeitig eingeleitet worden. Der Senat sieht keinen Anlass, das Verfahren wegen Verjährung einzustellen.
 
+Der Senat hat die Stellungnahme der Disziplinarbeschuldigten zum Erwerb der Wohnung geprüft. Danach war die Mandantin [[person|Wunderer]] bereits im Oktober 2025 darüber informiert, dass die Kaufpreiszahlung in mehreren Teilen erfolgen werde. Diese Information ersetzt jedoch nicht die Verpflichtung, die Auszahlungen im Treuhandbuch zeitnah und nachvollziehbar zu verbuchen.
+
+Die Disziplinarbeschuldigte hat außerdem ausgeführt, dass sie die Prüfbescheinigung der letzten Kanzleiprüfung nicht vollständig verstanden habe. Der Senat stellt fest, dass die Disziplinarbeschuldigte als Rechtsanwältin über ausreichende Kenntnisse verfügt, um eine solche Bescheinigung zu würdigen. Das Vorbringen ist daher nicht geeignet, die Verantwortung zu mindern.
+
+Die Kammeranwältin [[person|Stefanopoulos]] hat in ihrem Schlussvortrag beantragt, zusätzlich ein Berufsverbot von einem Monat zu verhängen. Der Senat hält dies nicht für erforderlich, weil die Geldbuße im Verhältnis zu den Pflichtverletzungen ausreicht und die Disziplinarbeschuldigte keinen Anlass zu einer weitergehenden Maßnahme gegeben hat.
+
+Der Senat hat sich bei der Festsetzung der Geldbuße an den Richtwerten vergleichbarer Entscheidungen orientiert. Danach liegt der Rahmen bei Verletzungen der Verwahrungspflicht mit einer Dauer von mehr als einem Jahr zwischen EUR 1.000,00 und EUR 3.000,00, je nach Umfang der Pflichtverletzung und den Umständen des Einzelfalls.
+
+Die Verhandlung wurde am [[date|28. September 2026]] geschlossen. Die Beratung des Senats fand im Anschluss ohne die Beteiligten statt; die Beschlussfassung erfolgte einstimmig. Die Niederschrift über die Beratung liegt dem Akt bei. Der Senat hat außerdem die Zustellung an die Mandantin [[person|Wunderer]] und an die Kammeranwältin [[person|Stefanopoulos]] angeordnet.
+
+Die Disziplinarbeschuldigte hat in der Verhandlung ihre Fehler eingeräumt und sich bei der Mandantin [[person|Wunderer]] schriftlich entschuldigt. Die Entschuldigung ist vom [[date|25. August 2026]] datiert und wurde im Verfahren vorgelegt. Der Senat sieht darin ein Zeichen der Einsicht, das bei der Strafbemessung zu berücksichtigen ist, die Verletzung der Pflichten aber nicht ungeschehen macht.
+
+Die letzte Kanzleiprüfung hatte bereits auf Mängel bei der Verbuchung hingewiesen. Die Disziplinarbeschuldigte hat diese Hinweise nicht umgesetzt. Dies wird als erschwerender Umstand gewertet, auch wenn die Prüfung nicht unmittelbar Gegenstand der aktuellen Beschwerde war.
+
 V. Strafbemessung
 
 Mildernd wirkt, dass die Disziplinarbeschuldigte bisher nicht disziplinär aufgefallen ist, die Mandantin den überwiegenden Teil ihrer Gelder erhalten hat und die Disziplinarbeschuldigte nach der Beschwerde den Restsaldo ausgefolgt hat. Erschwerend wirkt die Mehrzahl der Buchungsfehler und die Führung eines Kontos außerhalb des Treuhandbuchs.

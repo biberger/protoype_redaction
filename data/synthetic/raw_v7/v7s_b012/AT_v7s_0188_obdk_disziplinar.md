@@ -27,6 +27,10 @@ Die Beschuldigte hatte für die Klientin [[person|ʾanīqa Maso]] eine Schadener
 
 Die Beschuldigte bestritt in der mündlichen Verhandlung die Entnahme nicht, verwies aber auf eine Vereinbarung mit der Klientin, wonach Vorschüsse für Gerichtsgebühren einbehalten werden durften. Eine solche Vereinbarung wurde von der Klientin bestritten und ist nicht schriftlich dokumentiert.
 
+Die Beschuldigte hat in der Stellungnahme vom [[date|3.02.2026]] die Vorwürfe teilweise anerkannt. Sie hat die Entnahmen von EUR 3.200,00 und EUR 2.500,00 eingeräumt, jedoch die Verwendung mit einer Verrechnung für Vorschüsse auf Gerichtsgebühren begründet. Die Kammeranwältin hat daraufhin die Anklage um den Vorwurf der verspäteten Verbuchung erweitert.
+
+In der Verhandlung wurde der Wirtschaftsprüfer [[person|Dr. Lukas Pichler]] als Sachverständiger vernommen. Er hat das Gutachten erläutert und die Berechnung des Fehlbetrags bestätigt.
+
 II. Feststellungen
 
 1. Am [[date|14.03.2023]] gingen auf dem Treuhandkonto für die Klientin [[person|Maso]] EUR 9.400,00 aus einem Vergleich ein. Die Treuhandschaft Nr. [[other_identifier|2021/299]]; die Eintragung im Treuhandbuch erfolgte erst am [[date|20.04.2023]].
@@ -57,17 +61,19 @@ Bei der Strafbemessung war zu berücksichtigen, dass die Beschuldigte bisher unb
 
 Der Einwand der Verletzung des [[legal_norm|Art. 6 EMRK]] durch die lange Verfahrensdauer wurde geprüft. Die Verfahrensdauer ist gerechtfertigt, weil die Beschuldigte mehrfach Fristerstreckungen beantragt hat.
 
-7. Die Beschuldigte hat am [[date|19.09.2023]] für die Klientin Maso eine Zahlung von EUR 1.100,00 aus dem Treuhandkonto auf ein Konto der Beschuldigten überwiesen, mit dem Vermerk „Kanzleiaufwand“. Ein Kanzleiaufwand dieser Höhe war in der Angelegenheit nicht angefallen; die Rechnungen der Kanzlei wurden erst nach Aufforderung der Kammer vorgelegt.
+7. Die Beschuldigte hat am [[date|19.09.2023]] für die Klientin [[person|Maso]] eine Zahlung von EUR 1.100,00 aus dem Treuhandkonto auf ein Konto der Beschuldigten überwiesen, mit dem Vermerk „Kanzleiaufwand“. Ein Kanzleiaufwand dieser Höhe war in der Angelegenheit nicht angefallen; die Rechnungen der Kanzlei wurden erst nach Aufforderung der Kammer vorgelegt.
 
-8. Am [[date|02.04.2025]] hat die Beschuldigte den Klienten Bursac in einer E-Mail über den Stand des Vergleichs informiert. Darin hat sie die Auszahlung des Restbetrags mit dem Datum [[date|28.02.2025]] angegeben; tatsächlich erfolgte die Auszahlung bereits am [[date|24.02.2025]]. Die unrichtige Angabe ist für sich genommen unbedeutend, zeigt aber, dass die Eintragungen nicht laufend geführt wurden.
+8. Am [[date|02.04.2025]] hat die Beschuldigte den Klienten [[person|Bursac]] in einer E-Mail über den Stand des Vergleichs informiert. Darin hat sie die Auszahlung des Restbetrags mit dem Datum [[date|28.02.2025]] angegeben; tatsächlich erfolgte die Auszahlung bereits am [[date|24.02.2025]]. Die unrichtige Angabe ist für sich genommen unbedeutend, zeigt aber, dass die Eintragungen nicht laufend geführt wurden.
 
 Die Kammer hat außerdem ein Gutachten eines Wirtschaftsprüfers eingeholt, das die Kontobewegungen der Jahre 2023 bis 2025 erfasst. Das Gutachten kommt zu dem Ergebnis, dass im Treuhandkonto Fehlbeträge in der Höhe von insgesamt EUR 9.950,00 bestehen, die nicht durch Honorarnoten belegt sind. Die Beschuldigte hat die Berechnung im Wesentlichen nicht bestritten, jedoch darauf verwiesen, dass ein Teil der Beträge auf Verrechnungen mit anderen Klienten entfalle.
 
-Der Senat folgt dem Gutachten, soweit es die Entnahmen vom [[date|27.06.2023]] und vom [[date|08.01.2025]] betrifft. Die Verrechnungen mit anderen Klienten sind nicht dokumentiert und können daher nicht berücksichtigt werden. Die Beschuldigte hat zudem selbst eingeräumt, dass sie die Verrechnung nicht im Treuhandbuch vermerkt hat.
+Der Senat folgt dem Gutachten, soweit es die Entnahmen vom [[date|27.06.2023]] und vom [[date|08.01.2025]] betrifft. Die Verrechnungen mit anderen Klienten sind nicht dokumentiert und können daher nicht berücksichtigt werden. Die Beschuldigte hat zudem selbst eingeräumt, dass sie die Verrechnung nicht im Treuhandbuch vermerkt hat. Der Gutachter hat zudem darauf hingewiesen, dass die Abweichungen in den Jahren 2024 und 2025 höher ausfallen als im Vorjahr, was auf eine zunehmende Vernachlässigung der Buchführung hindeutet. Die Kammer hat die Anklage in diesem Punkt daher als erwiesen angesehen. Die Klienten wurden über die Einzelheiten der Gutachtenerstattung nicht informiert, weil das Verfahren erst nach Abschluss der Ermittlungen eröffnet wurde.
 
 Die Zeugin [[person|Ioana Pascu]], eine ehemalige Mitarbeiterin der Kanzlei, hat ausgesagt, dass die Beschuldigte Zahlungen selbst freigegeben hat und die Buchhaltung nicht delegiert war. Die Zeugin hat die Kanzlei im Frühjahr 2025 verlassen, nachdem sie die Entnahmen bemerkt hatte. Ihre Aussage ist glaubhaft, weil sie sich auf Wahrnehmungen aus dem Arbeitsalltag stützt.
 
 Die Beschuldigte bringt vor, dass sie an einer schweren Erkrankung gelitten habe. Der Senat hat dies berücksichtigt, jedoch keine ärztliche Bestätigung für den betreffenden Zeitraum vorgelegt bekommen. Eine Erkrankung würde die Verantwortung für die Verwahrung nicht aufheben, weil die Kanzlei eine Vertretung hätte organisieren können.
+
+Die Verletzung der Pflicht zur Führung des Treuhandbuchs ist eigenständig zu bewerten. Die Eintragungen dienen der Kontrolle durch die Kammer und sind daher nicht bloß eine organisatorische Angelegenheit. Der Senat hat die Verletzung als erschwerend berücksichtigt, jedoch nicht als eigenständiges Disziplinarvergehen gewertet, um eine Doppelbestrafung zu vermeiden. Die Belege wurden in Kopie zum Akt genommen. Die Originale verbleiben bei der Kammer.
 
 V. Kosten
 

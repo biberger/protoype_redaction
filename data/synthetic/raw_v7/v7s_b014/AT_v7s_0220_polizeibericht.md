@@ -46,15 +46,27 @@ Die Fahrbahn war nass, die Sichtverhältnisse waren durch Nebel eingeschränkt. 
 
 Herr [[person|Kammerlander]] gab an, mit einer Geschwindigkeit von etwa 30 km/h unterwegs gewesen zu sein. Die Spurenlage bestätigt diese Angabe. Ein Verstoß gegen [[legal_norm|§ 18 StVO]] ist daher nicht nachweisbar.
 
+Die Beamten haben die Unfallstelle zunächst abgesperrt, da ausgelaufene Betriebsstoffe die Fahrbahn verunreinigt hatten. Der Bauhof der Gemeinde wurde verständigt und hat die Fahrbahn gereinigt. Die Verkehrsbehinderung dauerte etwa vierzig Minuten.
+
+Herr [[person|Kazanasmaz]] gab an, dass er den Rückwärtsgang eingelegt habe, nachdem er sich vergewissert hatte, dass keine Fahrzeuge kamen. Er habe das Heranfahren des Fahrzeugs von Herrn [[person|Kammerlander]] nicht bemerkt, weil die Heckscheibe seines Fahrzeugs durch eine Gepäckablage verdeckt war. Diese Angabe wird durch die Fotos bestätigt, die die Sicht einschränkende Gepäckablage zeigen.
+
+Frau [[person|Payr]] befand sich zum Unfallzeitpunkt auf dem Weg zur Arbeit und hatte die Scheibenwischer eingeschaltet. Sie gab an, die Geschwindigkeit wegen des Nebels bewusst reduziert zu haben. Die Beamten haben diese Angaben als glaubhaft bewertet.
+
 **Fahrzeuge**
 
 Der Pkw der Frau [[person|Payr]] mit dem Kennzeichen [[license_plate|SP-541 FL]] ist ein Kleinwagen mit beschädigtem Heck. Die Reparaturkosten werden nach Angaben der Werkstatt auf rund EUR 3.200,00 geschätzt. Das Fahrzeug war zum Unfallzeitpunkt zugelassen und versichert; die Versicherungsdaten wurden überprüft.
 
-Das Fahrzeug des Herrn [[person|Kazanasmaz]] wurde beim Rückwärtsfahren am linken hinteren Kotflügel beschädigt. Die Beschädigung am Pkw des Herrn [[person|Kammerlander]] betraf den vorderen Stoßfänger und den Kühlergrill.
+Das Fahrzeug des Herrn [[person|Kazanasmaz]] wurde beim Rückwärtsfahren am linken hinteren Kotflügel beschädigt. Die Beschädigung am Pkw des Herrn [[person|Kammerlander]] betraf den vorderen Stoßfänger und den Kühlergrill. Die Schäden wurden fotografisch dokumentiert und in der Schadensskizze vermerkt.
 
 **Dokumentation**
 
 Die Lichtbilder der Schäden, die Skizze und die Angaben der Beteiligten sind dem Akt beigelegt. Die Fahrzeugpapiere wurden eingesehen; Frau [[person|Payr]] hat den Zulassungsschein vorgelegt.
+
+Ein Strafantrag gegen einen Beteiligten wurde nicht gestellt, weil es sich um einen reinen Sachschaden handelt, der im Wege der Versicherung abgewickelt werden kann. Die Beamten weisen darauf hin, dass die Lenker die Schadensmeldung binnen einer Woche bei ihrer Versicherung einreichen sollen.
+
+Die Angaben zu den Versicherungen sind von den Lenkern selbst gemacht worden und wurden nicht überprüft. Frau [[person|Payr]] hat die ärztliche Behandlung selbst übernommen und den Hausarzt aufgesucht.
+
+Der Akt wird an die Bezirkshauptmannschaft weitergeleitet. Die Lichtbilder sind im Original dem Bericht beigelegt; Kopien werden auf Anforderung zugestellt. Eine Ausfertigung dieses Berichts erhält der Lenker des ersten Fahrzeugs auf Verlangen.
 
 [[location|Zeillern]], am [[date|4. August 2026]]
 

@@ -44,6 +44,10 @@ Die Bezirkshauptmannschaft wird um Prüfung ersucht, ob gegen die Lenker Verwalt
 
 Im Zuge der Erhebungen wurde festgestellt, dass Herr [[person|Davutoğlu]] vor drei Jahren bereits einmal als Unfallbeteiligter erfasst war. Die damalige Anzeige wurde eingestellt. Frau [[person|Miller]] benötigt für die Beförderung einen Rollstuhl, der bei der Anzeige nicht erfasst war.
 
+Die Zeugin hielt sich zum Unfallzeitpunkt mit einem Kinderwagen im Wartebereich der Bushaltestelle auf. Sie beschrieb das Fahrzeug mit dem Kennzeichen [[license_plate|KU 74 OO]] als weißen Kombi, dessen Fahrer vor dem Einfahren in die Kreuzung nicht angehalten habe. Frau [[person|Kolowrat]] war sich über die Farbe des zweiten Fahrzeuges nicht sicher und gab an, nur das Heck gesehen zu haben.
+
+Der Lenker des zweiten Fahrzeuges wurde zu seinen Ruhezeiten befragt. Er gab an, am Vortag um 22 Uhr die Arbeit beendet und ausreichend geschlafen zu haben. Eine Übermüdung konnte daher nicht festgestellt werden.
+
 Alle Angaben wurden den Beteiligten vorgelesen und von ihnen bestätigt. Eine Kopie des Berichtes wurde jedem Beteiligten ausgefolgt.
 
 Für die Richtigkeit der Angaben:

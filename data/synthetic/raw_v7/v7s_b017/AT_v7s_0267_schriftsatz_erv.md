@@ -81,6 +81,18 @@ IV. Zur Sache
 
 15d. Der Kläger wendet ein, dass die Revision verspätet sei. Das Berufungsurteil wurde der Republik am [[date|04.08.2025]] zugestellt, die Revision wurde am [[date|29.08.2025]] eingebracht und damit innerhalb der vierwöchigen Frist erhoben.
 
+15e. Die Revisionsbeantwortung ist fristgerecht eingebracht. Der Kläger hat die Gegenseite mit Schreiben vom [[date|05.09.2025]] zur Stellungnahme aufgefordert; eine Antwort der Republik ist nicht eingegangen.
+
+15f. Zur Haftung des Beklagten [[person|Greiner]] als Verkäufer des Grundstücks ist zu bemerken, dass er die Lage des Wirtschaftsgebäudes und die Zufahrt nicht offengelegt hat. Ein Verschulden des Beklagten ist daher nicht auszuschließen, sodass er neben der Republik für den Schaden einzustehen hat.
+
+15g. Die Revisionsbeantwortung stützt sich auch auf das Gutachten des Sachverständigen [[person|Mirko Lazarević]], das die Schadensursache eindeutig der Ableitung zuordnet. Das Gutachten wurde am [[date|18.02.2025]] erstattet.
+
+15h. Der Sachverständige hat ausgeführt, dass die Ableitung des Oberflächenwassers mit einem Durchmesser von 30 Zentimetern hätte ausgeführt werden müssen. Die tatsächlich verwendete Leitung hatte einen Durchmesser von 20 Zentimetern. Der Mangel war bei der Bauabnahme erkennbar; die Republik hat die Abnahme dennoch ohne Vorbehalt vorgenommen.
+
+15i. Die Republik hat die Abnahme nach den Regeln des [[legal_norm|Bundesvergabegesetzes]] erklärt. Eine Abnahme ohne Vorbehalt schließt nach Auffassung des Berufungsgerichts die Gewährleistung für erkennbare Mängel nicht aus, weil die Ableitung nicht Gegenstand der Abnahmeprüfung war. Dieser Beurteilung schließt sich die Revisionsbeantwortung an.
+
+15j. Die Frage der Haftung des Planers [[person|Dirk Bol]] stellt sich im vorliegenden Verfahren nicht, weil der Kläger seine Ansprüche ausschließlich gegen die [[organization|Krones]] und die Republik geltend macht. Die Republik hat ferner eingewendet, der Kläger habe seine Schadensminderungspflicht verletzt, weil er die Zufahrt nicht früher gesperrt habe. Dieser Einwand ist nach den Feststellungen des Berufungsgerichts unbegründet, weil die Schäden erst im Winter 2021 erkennbar wurden. Die Revisionsbeantwortung beantragt daher, die Revision insoweit zurückzuweisen. Die Beilagen ./A bis ./E werden mit der Revisionsbeantwortung vorgelegt. Die Kosten des Revisionsverfahrens beantragt der Kläger nach dem Tarif der Rechtsanwälte.
+
 V. Kosten
 
 16. Die Kosten der Revisionsbeantwortung gründen sich auf [[legal_norm|§ 41 Abs 1 ZPO]] und [[legal_norm|§ 50 ZPO]].
@@ -92,6 +104,7 @@ Beilagen:
 ./B Kaufvertrag vom [[date|18.11.2019]]
 ./C Stellungnahme des [[person|Pratscher]] vom [[date|12.03.2024]]
 ./D Erklärung des [[person|Bol]] vom [[date|05.05.2022]]
+./E Gutachten des [[person|Lazarević]] vom [[date|18.02.2025]]
 
 Vertragsnummer [[other_identifier|V-2023-87811]] (Bestandsnachweis des Klägers)
 

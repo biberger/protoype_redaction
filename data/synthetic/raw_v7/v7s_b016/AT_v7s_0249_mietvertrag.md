@@ -71,6 +71,14 @@ Die Wohnung wurde am [[date|1. September 2018]] an [[person|Helmgard Stieler]] u
 
 Eine Untervermietung oder Überlassung an Dritte bedarf der schriftlichen Zustimmung der Vermieterin. Ausgenommen sind nahe Angehörige der Mieterinnen, die im gemeinsamen Haushalt leben.
 
+**§ 12 Rückgabe der Wohnung**
+
+Bei Beendigung des Mietverhältnisses ist die Wohnung besenrein und in dem Zustand zurückzugeben, der dem Übergabeprotokoll entspricht. Die Schlüssel sind vollständig zu übergeben. Eine Schlussbegehung findet gemeinsam mit der Vermieterin statt.
+
+**§ 13 Mitteilungen**
+
+Mitteilungen der Mieterinnen an die Vermieterin sind schriftlich an die Verwaltungsadresse der [[organization|Wollner KG]] zu richten. Mündliche Vereinbarungen sind unwirksam, soweit sie nicht schriftlich bestätigt werden.
+
 **Kontakt**
 
 Verwaltung der Vermieterin: [[organization|Wollner]], Tel. [[phone_number|+43-662-2968595 DW 102]]

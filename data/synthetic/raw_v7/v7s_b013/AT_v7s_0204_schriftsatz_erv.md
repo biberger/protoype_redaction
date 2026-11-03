@@ -102,7 +102,7 @@ Die Klägerin erklärt, dass sie mit einer Verweisung an ein Schlichtungsverfahr
 
 Die Zuständigkeit des angerufenen Gerichts ergibt sich aus dem Wohnsitz der Beklagten in [[location|Wien]]. Die Kosten werden nach dem Ausgang des Verfahrens geltend gemacht. Die Pauschalgebühr nach dem [[legal_norm|Gerichtsgebührengesetz]] von EUR 2.264,00 wurde über den ERV entrichtet; die Zahlungsbestätigung ist diesem Schriftsatz als Beilage ./E angeschlossen. Die Klägerin ersucht um Bestimmung einer mündlichen Verhandlung, weil die Beklagte nach Auskunft der [[organization|PI]] zu einer Stellungnahme in der schriftlichen Phase nicht bereit ist.
 
-Die Klägerin behält sich vor, die Klage nach Vorliegen der Urkunden zu erweitern.
+Die Klägerin behält sich vor, die Klage nach Vorliegen der Urkunden zu erweitern. Wir ersuchen um Zustellung dieses Schriftsatzes an die Beklagte samt sämtlicher Beilagen.
 
 [[location|Wien]], am [[date|08.07.2026]]
 

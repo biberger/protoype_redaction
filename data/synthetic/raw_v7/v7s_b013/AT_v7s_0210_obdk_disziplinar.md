@@ -81,6 +81,36 @@ Als mildernd wertet der Senat die bisherige Unbescholtenheit, die Schadensgutmac
 
 Die herabgesetzte Geldbuße von 3.000,00 Euro entspricht nach Auffassung des Senats dem Unrechtsgehalt bei Berücksichtigung dieser Umstände. Die Berufung war im Übrigen abzuweisen, weil die Pflichtverletzungen als solche feststehen.
 
+**IV/1. Zu den Treuhandrichtlinien**
+
+Die Richtlinien für die Verwaltung von Treuhandgeldern verlangen, dass jede Bewegung auf einem Anderkonto unverzüglich im Treuhandbuch zu verzeichnen ist. Das Treuhandbuch hat die Angaben zum Datum, zum Betrag, zum Auftraggeber und zur Treuhandnummer zu enthalten. Eine nachträgliche Verbuchung ist nur zulässig, wenn sie als solche kenntlich gemacht wird.
+
+Die Behauptung des Berufungswerbers, das Online-Banking sei gestört gewesen, ist nicht belegt. Die Bank hat auf Anfrage bestätigt, dass an diesem Tag keine Störung gemeldet wurde. Die technische Ausrede hätte den Berufungswerber auch nicht von der Pflicht entbunden, die Eintragung rechtzeitig nachzuholen.
+
+**IV/2. Zur Erkrankung der Ehefrau**
+
+Der Senat hat die Erkrankung der Ehefrau des Berufungswerbers als glaubhaft angesehen und Verständnis für die persönliche Belastung gezeigt. Die Erkrankung ist jedoch kein Grund, die Kanzlei ohne Vertretung zu lassen. Die Berufsordnung verlangt in solchen Fällen die Bestellung eines Vertreters oder die Information der Kammer. Der Berufungswerber hat keine dieser Maßnahmen ergriffen.
+
+Der Senat berücksichtigt die Erkrankung aber mildernd bei der Strafbemessung, weil sie den Berufungswerber nach eigenen Angaben über Monate hinweg in seiner Arbeitsfähigkeit beschränkt hat.
+
+**IV/3. Zur Verhältnismäßigkeit der Strafe**
+
+Der Senat hat geprüft, ob die Geldbuße des Disziplinarrates in einem angemessenen Verhältnis zu den Pflichtverletzungen steht. Der Disziplinarrat hat die Geldbuße mit 6.000,00 Euro bemessen, obwohl die Restzahlung an die Klientin im Jahr 2024 bereits vollständig erfolgt war. Dieser Umstand war im erstinstanzlichen Verfahren nicht ausreichend gewürdigt worden.
+
+Eine Geldbuße von 3.000,00 Euro erscheint dem Senat angemessen, weil sie den Unrechtsgehalt der Verstöße berücksichtigt, zugleich aber die wirtschaftliche Leistungsfähigkeit des Berufungswerbers im Blick behält. Eine Herabsetzung auf einen noch niedrigeren Betrag kam nicht in Betracht, weil die Verbuchungsmängel in mehreren Fällen vorlagen.
+
+**IV/4. Stellungnahme des Kammeranwalts**
+
+Der Kammeranwalt [[person|Dr. Longin Oleksiak]] hat in der Berufungsverhandlung betont, dass die Treuhandpflichten zum Kernbereich der anwaltlichen Berufspflichten gehören. Er hat darauf hingewiesen, dass die Klientinnen und Klienten auf die ordnungsgemäße Verwaltung ihrer Gelder vertrauen müssen. Der Senat teilt diese Auffassung, sieht aber in der Schadensgutmachung einen Umstand, der die Strafhöhe beeinflussen darf.
+
+Der Kammeranwalt hat keine weiteren Beweisanträge gestellt. Er hat hilfsweise einer Herabsetzung der Geldbuße auf 4.000,00 Euro zugestimmt und die Abweisung der Berufung im Übrigen beantragt.
+
+**V/1. Ergänzende Beweisergebnisse**
+
+Der Senat hat die Akten der Treuhandschaften zusätzlich auf Vollständigkeit geprüft. Dabei wurde festgestellt, dass die Treuhandbücher für das gesamte Jahr 2024 mit Ausnahme der oben genannten Zeiträume ordnungsgemäß geführt wurden. Die Verstöße beschränken sich somit auf einen begrenzten Zeitraum und sind nicht Ausdruck einer grundsätzlichen Vernachlässigung der Treuhandpflichten.
+
+Die Klientin [[person|Ilse Waldbauer]] hat in der Berufungsverhandlung angegeben, dass sie die Restzahlung inzwischen als vollständig erhalten bestätigt. Einen weiteren Schadenersatzanspruch gegen den Berufungswerber macht sie nicht geltend. Die Kammer hat dies in ihre Entscheidung einbezogen, ohne den Strafrahmen darüber hinaus anzupassen. Die Kosten der Berufung trägt der Berufungswerber, weil er mit seinem Hauptbegehren unterlegen ist. Der Kostenersatz an die Kammer ist binnen vier Wochen zu leisten. Die Entscheidung ist mit Ablauf der Berufungsfrist rechtskräftig, sofern kein Rechtsmittel eingebracht wird.
+
 **VI. Kosten**
 
 Die Kosten des Berufungsverfahrens hat der Berufungswerber zu tragen. Ein Kostenersatz an die Klienten ist im Disziplinarverfahren nicht vorgesehen.

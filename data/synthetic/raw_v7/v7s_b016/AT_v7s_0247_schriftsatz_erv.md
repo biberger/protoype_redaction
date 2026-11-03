@@ -59,6 +59,14 @@ Streitwert: € 27.800,00
 
 8. Die Schadenshöhe setzt sich aus folgenden Positionen zusammen: Schmerzengeld € 12.000,00, Heilungskosten € 3.900,00, Verdienstentgang € 7.300,00 und Schadenersatz für Kleidung und Hilfsmittel € 600,00. Die Summe beträgt € 23.800,00. Der Restbetrag von € 4.000,00 betrifft die Stellvertretungskosten für die Hausverwaltung.
 
+**Zur Beweislage**
+
+Zum Unfallhergang liegt die Aussage des Zeugen [[person|Dr. Gerold Pirkl]] vor, der den Sturz beobachtet und die Rettung verständigt hat. Der Zeuge hat angegeben, dass der Gehweg zum Unfallzeitpunkt an mehreren Stellen vereist war und keine Streuung erfolgt war. Das Protokoll der Rettungsstelle vom [[date|3. Februar 2024]] bestätigt die Verletzung am linken Handgelenk.
+
+**Zur Haftung der Gemeinde**
+
+Die Streupflicht für den Gehweg lag nach der Verordnung der [[organization|Stadt Klagenfurt]] bei den Anrainern. Die [[organization|Stadt Klagenfurt]] hat diese Pflicht durch eine Vereinbarung mit der [[organization|Strass GmbH]] übertragen. Ob die Übertragung wirksam ist, ist im Verfahren zu klären.
+
 **II a. Verjährung und Zuständigkeit**
 
 Die Ansprüche der Klägerin sind nicht verjährt. Der Unfall ereignete sich am [[date|3. Februar 2024]]; die Klage wird innerhalb der dreijährigen Frist des [[legal_norm|§ 1489 ABGB]] eingebracht. Die Haftung der [[country|Republik Österreich]] ist ebenfalls nicht verjährt, weil die Frist erst mit der Kenntnis des Schadens und des Schädigers zu laufen begann.
@@ -70,6 +78,10 @@ Die Haftung der Streitgenossin [[person|Sieghild Moik]] richtet sich nach [[lega
 **Zur Schmerzengeldbemessung**
 
 Das Schmerzengeld wurde nach den Grundsätzen der Judikatur für eine Fraktur mit operativer Versorgung und einer mehrwöchigen Schonzeit bemessen. Die Klägerin war durch die Schmerzen, den vorübergehenden Verlust der Gebrauchsfähigkeit der linken Hand und die Einschränkung ihres beruflichen Alltags beeinträchtigt. Der Betrag von € 12.000,00 ist angemessen. Ein Teilbetrag ist zusätzlich für die psychische Belastung nach dem Unfall zu berücksichtigen.
+
+**Zu den Verletzungen und zur Behandlung**
+
+Die Klägerin wurde am [[date|3. Februar 2024]] im [[organization|Klinikum Klagenfurt]] versorgt. Die Operation der Handgelenksfraktur erfolgte am [[date|6. Februar 2024]]. Die Nachbehandlung mit Physiotherapie dauerte bis zum [[date|30. April 2024]]. Die Klägerin war in dieser Zeit nicht in der Lage, ihrer Tätigkeit als Büroangestellte nachzugehen. Die Gehirnerschütterung führte zu einer zwei Wochen dauernden Übelkeit und Kopfschmerzen, die ärztlich dokumentiert sind.
 
 **III. Beweise**
 

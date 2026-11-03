@@ -51,6 +51,14 @@ Die Auszahlung vom [[date|15. Jänner 2025]] an den Klienten erfolgte, obwohl da
 
 Der Beschuldigte hat den Betrag des [[person|Eisl]] mit Schreiben vom [[date|3. Februar 2025]] als vollständig ausgezahlt bestätigt. Der Klient hat jedoch nach eigener Angabe nur EUR 4.300,00 erhalten, bis die Kammer eingeschaltet wurde.
 
+Die Kammeranwaltschaft hat im Verfahren zusätzlich beantragt, den Beschuldigten zu einer Stellungnahme zu der Kontobewegung vom [[date|12. Dezember 2024]] aufzufordern, die im Schreiben der Bank vermerkt ist. Der Beschuldigte hat dazu erklärt, die Buchung sei auf eine Überweisung seines Vaters zurückzuführen, die er nicht genauer erläutern könne.
+
+Der Senat hat diesen Antrag abgelehnt, weil die Überweisung nach dem Kontoauszug von einem Konto des Beschuldigten selbst stammt und die Angabe des Vaters damit nicht in Einklang steht. Der Beschuldigte hat in der Verhandlung dazu keine weiteren Unterlagen vorgelegt.
+
+Der Vertreter der Kammeranwaltschaft hat in seinem Schlussvortrag betont, dass der Beschuldigte den Vorwürfen zunächst mit einer gewissen Gleichgültigkeit begegnet sei und erst nach der Zustellung der Anzeige eine Aufklärung versucht habe.
+
+Der Beschuldigte hat in seinem Schlusswort erklärt, er bedauere die Vorfälle und habe nach der Anzeige alle Anweisungen an das Kanzleipersonal schriftlich festgehalten. Diese Organisationsänderung hat der Senat zu seinen Gunsten gewertet.
+
 **3. Beweiswürdigung**
 
 Die Feststellungen stützen sich auf die Treuhandbücher, die Kontoauszüge und die Aussage des Klienten. Der Beschuldigte hat die Darstellung eines Eingabefehlers nicht durch Unterlagen belegt. Der Senat hält die Verantwortung für nicht glaubhaft, weil die Buchung im Treuhandbuch am selben Tag mit einem anderen Betrag eingetragen ist.
@@ -66,6 +74,16 @@ Der Senat hält fest, dass die Eintragungen im Treuhandbuch eine zentrale Kontro
 **4. Rechtliche Beurteilung**
 
 Ein Rechtsanwalt hat Fremdgelder nach [[legal_norm|§ 43a Abs 2 RAO]] getrennt von seinem Vermögen zu verwahren. Die Verwendung von Fremdgeld für andere Klienten stellt einen schweren Verstoß dar. Mildernd ist die Schadenswiedergutmachung nach der Anzeige. Erschwerend wirkt die Dauer der Pflichtverletzung von rund zehn Monaten.
+
+Der Senat berücksichtigt weiter, dass die Kanzlei nach der Einschaltung der Kammer ein Treuhandkonto ausschließlich für Fremdgelder eingerichtet hat. Diese Maßnahme ist als Besserung zu werten, ändert aber nichts an den in der Vergangenheit begangenen Pflichtverletzungen.
+
+Der Senat hat die Erklärung des Beschuldigten berücksichtigt, er habe in den Jahren 2024 und 2025 wegen einer schweren Erkrankung seiner Ehegattin die Kanzlei nur eingeschränkt führen können. Die ärztlichen Unterlagen, die er hierzu vorgelegt hat, belegen die Erkrankung, jedoch nicht, dass die Erkrankung die Verwahrung der Fremdgelder unmöglich gemacht hätte. Der Beschuldigte hätte die Treuhandbuchführung durch eine Vertretung sicherstellen können, wie es die Richtlinien für Vertretungsfälle vorsehen.
+
+Der Senat teilt die Auffassung der Kammeranwaltschaft, dass die Verletzung der Pflichten zur Verwahrung den Kernbereich des anwaltlichen Berufsrechts betrifft. Die Verwahrung von Fremdgeld dient nicht nur dem Schutz des einzelnen Klienten, sondern auch dem Vertrauen in die Integrität des Berufsstandes. Die wiederholten Verspätungen bei Auszahlungen sind geeignet, dieses Vertrauen nachhaltig zu beeinträchtigen.
+
+Die Frage, ob eine Entziehung der Berufsberechtigung angezeigt wäre, hat der Senat verneint. Die Rückzahlung der Beträge und die Kooperation im Verfahren sprechen gegen eine derart einschneidende Maßnahme. Eine befristete Untersagung der Verwaltung von Fremdgeld wäre nach Auffassung des Senats jedoch ein wirksameres Mittel gewesen; einen entsprechenden Antrag hat die Kammer nicht gestellt.
+
+Der Senat hat außerdem geprüft, ob den Beschuldigten ein vorsätzliches Verhalten trifft. Diese Frage hat der Senat verneint, weil die Verzögerungen auf Organisationsmängeln beruhten und der Beschuldigte die Auszahlungen schließlich vorgenommen hat. Der Vorsatz ist daher nicht mit der erforderlichen Sicherheit erwiesen; die Tat wird als Verletzung der Berufspflichten gewertet, die fahrlässig begangen wurde.
 
 **4a. Strafbemessung und Kosten**
 

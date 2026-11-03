@@ -50,6 +50,10 @@ II. Feststellungen
 
 9. Die Kammer hat im Rahmen der Ermittlungen die Auszüge des Klientenkontos angefordert. Diese wurden von der Beschuldigten erst nach der dritten Aufforderung vorgelegt, und zwar mit einer Verzögerung von fünf Wochen.
 
+10. Die Kammer hat die Belege zur Verrechnung der Gerichtsgebühren ebenfalls angefordert. Die Beschuldigte hat erklärt, die Gerichtsgebühren seien im Auftrag des Verkäufers vorgestreckt worden. Eine solche Vereinbarung besteht nicht; der Verkäufer hat ausdrücklich bestritten, Gerichtsgebühren übernommen zu haben, da kein Verfahren anhängig war.
+
+11. Die Liegenschaft war im Grundbuch lastenfrei. Eine Verzögerung der Auszahlung aus grundbücherlichen Gründen war daher zu keinem Zeitpunkt gegeben, was die Beschuldigte auch in der Verhandlung eingeräumt hat.
+
 III. Beweiswürdigung
 
 Der Senat stützt sich auf die Kontoauszüge, das Treuhandbuch und das Geständnis der Beschuldigten. Das Geständnis ist glaubwürdig, weil es mit den Urkunden übereinstimmt.
@@ -76,9 +80,17 @@ Der Senat hat die Rüge der Verletzung des [[legal_norm|Art. 6 EMRK]] geprüft. 
 
 Die Beschuldigte hat sich in der Verhandlung auf ihre damalige Notlage berufen. Der Senat hat dies als Milderungsgrund berücksichtigt, jedoch nicht als Rechtfertigung. Eine Notlage entbindet einen Rechtsanwalt nicht von der Pflicht, Klientengelder unangetastet zu halten. Er hat vielmehr die Kammer zu informieren und das Mandat gegebenenfalls niederzulegen. Die Beschuldigte hat dies nicht getan.
 
+Bei der Strafbemessung hat der Senat ferner berücksichtigt, dass die Beschuldigte den Betrag von EUR 30.000,00 nach der Entdeckung zurückerstattet hat. Erschwerend war hingegen die Dauer von etwa sechs Monaten, in der die Gelder der Klientschaft nicht zur Verfügung standen, sowie die Tatsache, dass die Beschuldigte im Verfahren eine Darstellung gewählt hat, die sich als unrichtig erwiesen hat. Die Geldbuße von EUR 2.500,00 entspricht nach Auffassung des Senats diesen Umständen.
+
+Der Senat hat außerdem geprüft, ob die Entnahme als Veruntreuung nach dem [[legal_norm|Strafgesetzbuch]] zu würdigen ist. Dies ist nicht Gegenstand des Disziplinarverfahrens; der Senat hat jedoch in seiner Entscheidung festgehalten, dass die Frage der strafrechtlichen Verantwortung nach [[legal_norm|§ 133 StGB]] einer gesonderten Prüfung vorbehalten bleibt.
+
+Die Kammer hat die Feststellungen dem Präsidenten der Rechtsanwaltskammer zur Kenntnis gebracht, damit dieser über weitere berufsrechtliche Maßnahmen entscheiden kann. Die Beschuldigte wurde über diese Mitteilung nicht gesondert informiert, da sie im Verfahren anwaltlich vertreten war und die Entscheidung damit bekannt ist. Der Senat hat die Begründung in der Verhandlung mündlich erläutert. Die Ausfertigung wurde den Parteien und dem Kammeranwalt zugestellt. Eine Abschrift wurde zudem dem Verkäufer übermittelt, soweit er Beschwerdeführer war.
+
 V. Kosten
 
-Die Kostenentscheidung beruht auf [[legal_norm|§ 52 RAO]].
+Die Kostenentscheidung beruht auf [[legal_norm|§ 52 RAO]]. Für die Zustellung der Entscheidung wurde eine Pauschale verrechnet. Die Kammer hat für die Auswertung der Kontobewegungen einen zusätzlichen Aufwand von vier Stunden geltend gemacht, der im Kostenersatz berücksichtigt ist.
+
+Die Kosten der Zustellung an den Verkäufer und die Kosten der Akteneinsicht des Verteidigers sind darin enthalten und vom Beschuldigten zu tragen.
 
 [[location|Innsbruck]], am [[date|23. März 2026]]
 

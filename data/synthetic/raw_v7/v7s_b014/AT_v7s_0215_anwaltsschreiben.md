@@ -42,7 +42,11 @@ Die Reparatur des Fahrzeugs wurde bei der [[organization|Autohaus Kendlbacher Gm
 
 Unser Mandant hat durch den Unfall eine Prellung der linken Schulter und ein Halswirbelsäulentrauma erlitten. Er war vom [[date|3. Mai 2026]] bis zum [[date|17. Mai 2026]] im Krankenstand und konnte in dieser Zeit seine Tätigkeit als Monteur nicht ausüben. Die Krankenstandsbestätigung und die Lohnbestätigung des Arbeitgebers sind diesem Schreiben als Beilage angeschlossen. Den Verdienstentgang machen wir derzeit nur vorbehaltlich einer weiteren Aufstellung geltend.
 
-Das Schmerzengeld bemisst sich nach Dauer und Intensität der Beschwerden. Die Beschwerden haben bis Ende Juni 2026 angedauert, sodass der angebotene Betrag von EUR 1.200,00 nach unserer Auffassung als Mindestbetrag zu verstehen ist.
+Das Schmerzengeld bemisst sich nach Zeitraum und Intensität der Beschwerden. Die Beschwerden haben bis Ende Juni 2026 angedauert, sodass der angebotene Betrag von EUR 1.200,00 nach unserer Auffassung als Mindestbetrag zu verstehen ist.
+
+Eine außergerichtliche Einigung ist für unseren Mandanten nur möglich, wenn der Gesamtbetrag einschließlich der Zinsen binnen der genannten Frist eingeht. Die Zinsen werden ab dem Unfalltag nach [[legal_norm|§ 1333 ABGB]] berechnet und betragen derzeit EUR 146,20.
+
+Den Kostenvoranschlag der Werkstatt, die Lichtbilder und die Vollmacht haben wir angeschlossen; die Originalunterlagen liegen in der Kanzlei zur Einsicht auf.
 
 Wir fordern Sie auf, bis spätestens [[date|31. Oktober 2026]] folgende Beträge anzuweisen:
 
@@ -55,11 +59,15 @@ Die Zahlung ist auf das Konto der Kanzlei bei der [[organization|Hypo Tirol Bank
 
 IBAN: [[bank_account|AT76 0015 9756 2343 7697]]
 
+Wir weisen darauf hin, dass unsere Kosten für die außergerichtliche Vertretung nach dem Tarif zu ersetzen sind und die Kostennote gesondert übermittelt wird, sofern die Zahlung ausbleibt.
+
 Für den Fall, dass Sie die Zahlung nicht fristgerecht leisten, werden wir ohne weitere Ankündigung Klage gegen Ihren Versicherungsnehmer einbringen.
 
 Mit freundlichen Grüßen
 
 [[organization|Igel, Nemecz, Estermann, Linser]]
 Rechtsanwälte OG
+
+Wir bitten um Bestätigung des Eingangs dieses Schreibens bis spätestens [[date|10. Oktober 2026]].
 
 Anlagen: Vollmacht, Kostenvoranschlag, Lichtbilder

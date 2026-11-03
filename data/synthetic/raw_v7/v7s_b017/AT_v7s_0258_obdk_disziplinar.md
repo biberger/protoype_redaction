@@ -70,6 +70,10 @@ Der Senat hat die Zeugenaussage des Klienten [[person|Meinhard Sima]] gewürdigt
 
 Die Kammeranwältin [[person|Gerhilt Mörzinger]] beantragte eine Geldbuße von EUR 3.000,00 und wies darauf hin, dass die Beschuldigte die Abrechnung über einen Zeitraum von mehr als einem Jahr nicht erstellt habe. Der Senat folgte diesem Antrag.
 
+Der Beisitzer [[judge|Dr. Annedore Zechmeister]] wies in der Beratung darauf hin, dass die Beschuldigte die Zahlungen nach Auffassung des Senats zu spät dokumentiert, nicht aber absichtlich falsch verbucht habe. Der Senat teilte diese Einschätzung nur teilweise, weil die Verzögerung über mehrere Monate andauerte.
+
+Die Beschuldigte bestätigte in der Verhandlung, dass sie das Treuhandbuch seit dem Jahr 2024 selbst führt. Eine Mitarbeiterin unterstützt sie nur noch bei der Belegablage. Die Abrechnungen werden seit Juli 2025 monatlich an die Klienten übermittelt, was die Kammeranwältin in der Verhandlung bestätigte. Die Kanzlei hat zudem ein Vier-Augen-Prinzip für Auszahlungen eingeführt, was der Senat als Besserung würdigte. Die Klientin [[person|Roseanne Radovic]] hat in ihrer Stellungnahme erklärt, dass sie mit der Abwicklung seit der Neuregelung zufrieden sei und keine weiteren Ansprüche gegen die Beschuldigte erhebe. Sie hat den Restbetrag am [[date|14.07.2025]] erhalten.
+
 Gegen diese Entscheidung kann binnen vier Wochen Berufung an die [[court|OBDK]] erhoben werden. Die Kosten richten sich nach [[legal_norm|§ 39 Abs 2 RAO]].
 
 Für den [[court|Disziplinarrat der Tiroler Rechtsanwaltskammer]]:

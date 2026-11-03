@@ -84,6 +84,16 @@ Die Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsa
 
 Der Senat hält fest, dass die Buchung vom [[date|18.3.2019]] verspätet erfolgte. Die Auszahlung vom [[date|30.6.2021]] stellt eine Entnahme ohne Abrechnung dar. Die offene Differenz von EUR 5.200,00 aus dem Treuhandbuch [[other_identifier|2023/762]] ist nicht durch eine Honorarvereinbarung gedeckt und bleibt als Pflichtverletzung bestehen.
 
+Der Senat hat ferner geprüft, ob die Honorarnote als nachträglich vorgelegte Abrechnung gelten kann. Die Disziplinarbeschuldigte hat am [[date|5. März 2026]] eine Honorarnote übermittelt, die das Datum vom [[date|30. Juni 2021]] trägt. Die Note ist jedoch nicht unterschrieben und wurde erst nach Einleitung der Disziplinaranzeige erstellt. Der Senat misst ihr daher keine Beweiskraft für den Zeitpunkt der Auszahlung bei.
+
+Die Mandantin [[person|Vidović]] hat in ihrer schriftlichen Erklärung vom [[date|1. April 2025]] angegeben, dass sie über die Verwendung des Erbanteils nicht informiert worden sei. Die Disziplinarbeschuldigte habe auf ihre Nachfragen erklärt, das Geld sei beim Notar hinterlegt. Eine Hinterlegung beim Notar ist nicht belegt. Der Senat sieht darin eine irreführende Auskunft, die der Disziplinarbeschuldigten zuzurechnen ist.
+
+Zur Verantwortung der Disziplinarbeschuldigten, die Kanzlei habe im Jahr 2023 die Software umgestellt, ist festzuhalten, dass die Software die Treuhandbuchung nicht verhindert hat. Die Umstellung entbindet nicht von der Pflicht, die Buchungen zeitgerecht zu prüfen.
+
+Die Mandantin [[person|Kopp]] hat in ihrer Beschwerde keine Rückforderung des Honorars verlangt, sondern eine nachvollziehbare Abrechnung begehrt. Der Senat wertet dies als Hinweis darauf, dass der Mandantin die Transparenz wichtiger war als der Geldbetrag selbst.
+
+Die Kammeranwältin [[person|Hofmann]] hat in ihrem Schlussvortrag eine höhere Geldbuße beantragt. Der Senat hält einen Betrag im mittleren Bereich für angemessen, weil die Mandantin den Großteil ihrer Gelder erhalten hat und die Disziplinarbeschuldigte bisher nicht auffällig war.
+
 V. Strafbemessung
 
 Mildernd wirkt, dass der Disziplinarbeschuldigte bisher nicht disziplinär aufgefallen ist und die Mandantin [[person|Kopp]] den Restbetrag vollständig erhalten hat. Erschwerend wirkt die Mehrzahl der Buchungsfehler über einen Zeitraum von mehr als zwei Jahren. Der Senat hat außerdem berücksichtigt, dass die [[court|OBDK]] in vergleichbaren Fällen Geldbußen im mittleren Bereich verhängt hat.

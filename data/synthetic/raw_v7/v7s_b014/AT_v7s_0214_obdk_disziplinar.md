@@ -52,6 +52,10 @@ Die Liegenschaft, auf die sich die Kaufverhandlung bezieht, liegt in [[land_regi
 
 Der Beschuldigte hat den Klienten [[person|Sabri Kocaoğlu]] mit Schreiben vom [[date|9. April 2024]] mitgeteilt, dass die Auszahlung in Kürze erfolgen werde. Tatsächlich war zu diesem Zeitpunkt kein Betrag auf dem Anderkonto vorhanden. Die Auszahlung erfolgte erst nach der Einschaltung der Kammer am [[date|21. Mai 2024]].
 
+Die Kammeranwaltschaft hat die Kontrolle des Treuhandbuchs durch die Kammer am [[date|16. April 2025]] durchgeführt. Der Prüfbericht hält fest, dass die Bewegungen des Jahres 2024 im Treuhandbuch lückenlos erfasst sind, die Verwendung der Gelder jedoch nicht den Vorgaben entspricht. Der Prüfer hat außerdem festgestellt, dass ein Treuhandkonto nicht getrennt geführt wurde, sondern gemeinsam mit dem Geschäftskonto der Kanzlei.
+
+Der Beschuldigte hat hierzu in seiner Stellungnahme erklärt, das Geschäftskonto sei aus organisatorischen Gründen gemeinsam genutzt worden. Diese Erklärung entlastet ihn nicht, weil die Pflicht zur getrennten Verwahrung auch dann gilt, wenn Geschäfts- und Treuhandkonto nur formal getrennt sind.
+
 **3. Beweiswürdigung**
 
 Der Senat stützt die Feststellungen auf das Treuhandbuch, die Kontoauszüge des Anderkontos und die Aussagen der Klienten. Die Verantwortung des Beschuldigten, wonach die Bewegungen auf einem Versehen der Kanzleikraft beruhten, hält der Senat für nicht glaubhaft. Der Beschuldigte hat die Aufzeichnungen selbst geführt und unterschrieben.
@@ -68,13 +72,15 @@ Ein Rechtsanwalt hat nach [[legal_norm|§ 43 Abs 1 RAO]] seinen Beruf gewissenha
 
 Die Strafbemessung berücksichtigt als mildernd die bisherige Unbescholtenheit und die nachträgliche Rückzahlung. Erschwerend wirkt die Dauer der Pflichtverletzung über mehr als ein Jahr. Eine Entziehung der Berufsberechtigung ist nicht geboten, weil der Beschuldigte die Tilgung der Verbindlichkeiten zugesagt und seither nachgewiesen hat.
 
+Der Senat hat die Stellungnahme der Kammeranwaltschaft gewürdigt, wonach die Verletzungen auch das Ansehen der Rechtsanwaltschaft in der Öffentlichkeit berühren. Die Pflicht zur Verwahrung von Fremdgeld dient dem Schutz der Rechtsuchenden und der Funktionsfähigkeit der Rechtspflege.
+
 Der Senat hat bei der Strafbemessung berücksichtigt, dass der Beschuldigte seit dem Jahr 2010 in die Liste der Rechtsanwälte eingetragen ist und bisher keine disziplinarrechtlichen Verfahren gegen ihn anhängig waren. Die Geldbuße in der Höhe von EUR 6.000,00 erscheint angemessen, weil die wirtschaftlichen Verhältnisse des Beschuldigten durch die Rückzahlung geordnet sind und ein höherer Betrag seine berufliche Existenz gefährden würde.
 
 Die Kosten des Verfahrens sind dem Beschuldigten nach [[legal_norm|§ 47 Abs 1 RAO]] aufzuerlegen. Die Kammeranwaltschaft hat einen Kostenersatz von EUR 1.850,00 beantragt. Der Senat hat den Betrag im Ausmaß von EUR 1.420,00 zuerkannt, weil das Verfahren hinsichtlich eines weiteren Vorwurfs eingestellt werden musste.
 
 **5. Rechtsmittelbelehrung**
 
-Gegen diesen Beschluss kann binnen vier Wochen nach Zustellung eine Berufung an die [[court|OBDK]] erhoben werden.
+Gegen diesen Beschluss kann binnen vier Wochen nach Zustellung eine Berufung an die [[court|OBDK]] erhoben werden. Die Frist beginnt mit der Zustellung an den Beschuldigten. Die Berufung hat aufschiebende Wirkung, sofern der Senat dies nicht ausdrücklich ausschließt.
 
 [[location|Linz]], am [[date|18. Mai 2026]]
 

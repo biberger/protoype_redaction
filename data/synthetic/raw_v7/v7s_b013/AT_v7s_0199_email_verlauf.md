@@ -59,7 +59,7 @@ Sehr geehrte Frau [[person|Arvay]],
 
 vielen Dank für die Fotos. Die [[organization|LE]] hat auf unsere Mahnung vom [[date|05.05.2026]] bisher nicht reagiert. Das [[court|LG Linz]] hat den Termin für die Verhandlung vorläufig auf den [[date|14.10.2026]] gelegt. Der Zeuge [[person|Newerkla]] ist bereits von uns angeschrieben worden; er bestätigt den Termin für die Befundaufnahme am [[date|16.06.2026]].
 
-Bitte übermitteln Sie uns die Rechnungen des Bauunternehmens, soweit Sie sie noch haben. Frau [[person|Eugenie Baierl]] ist die Bauleiterin und kann den Zustand der Fassade bezeugen.
+Bitte übermitteln Sie uns die Rechnungen des Bauunternehmens, soweit Sie sie noch haben. Wir ersuchen zudem um eine Kopie des Bauvertrages, den Sie mit der [[organization|LE]] abgeschlossen haben, damit wir die Gewährleistungsfristen prüfen können. Frau [[person|Eugenie Baierl]] ist die Bauleiterin und kann den Zustand der Fassade bezeugen.
 
 Mit besten Grüßen
 [[person|Busta]]
@@ -73,7 +73,7 @@ Betreff: AW: AW: AW: Klage am [[court|Landesgericht Linz]]
 
 Sehr geehrter Herr [[person|Busta]],
 
-Frau [[person|Arvay]] hat mir die Nachricht weitergeleitet. Wir sind einverstanden, dass die Akte über die [[organization|Lackner]] weiter geführt wird. Die Kanzlei soll die Angelegenheit mit [[organization|LE]] ausschließlich schriftlich verhandeln.
+Frau [[person|Arvay]] hat mir die Nachricht weitergeleitet. Wir sind einverstanden, dass die Akte über die [[organization|Lackner]] weiter geführt wird. Die Kanzlei soll die Angelegenheit mit [[organization|LE]] ausschließlich schriftlich verhandeln. Eine Vergleichsbereitschaft unserer Seite besteht nur bei vollständigem Ersatz der Reparaturkosten. Danke sehr.
 
 Mit freundlichen Grüßen
 [[person|Altfried Roloff]]

@@ -12,7 +12,7 @@ Tel. [[phone_number|05572/9336147-13]]
 
 **BESCHLUSS**
 
-Der Disziplinarrat der Tiroler Rechtsanwaltskammer hat in der Disziplinarsache gegen Rechtsanwalt [[lawyer|Lajos Wigelbeyer]], geb [[date_of_birth|1969-11-27]], wegen des Verdachts der Verletzung der Berufspflichten nach [[legal_norm|§ 1 Abs 1 DSt]] in der nichtöffentlichen mündlichen Verhandlung vom [[date|9. Oktober 2026]] in Anwesenheit des Kammeranwalts [[person|Dr. Rabee Abdul Wahid]] und des Schriftführers [[person|Cleante Accornero]], geboren am [[date_of_birth|28.06.1967]], durch den Senat bestehend aus
+Der [[court|Disziplinarrat der Tiroler Rechtsanwaltskammer]] hat in der Disziplinarsache gegen Rechtsanwalt [[lawyer|Lajos Wigelbeyer]], geb [[date_of_birth|1969-11-27]], wegen des Verdachts der Verletzung der Berufspflichten nach [[legal_norm|§ 1 Abs 1 DSt]] in der nichtöffentlichen mündlichen Verhandlung vom [[date|9. Oktober 2026]] in Anwesenheit des Kammeranwalts [[person|Dr. Rabee Abdul Wahid]] und des Schriftführers [[person|Cleante Accornero]], geboren am [[date_of_birth|28.06.1967]], durch den Senat bestehend aus
 
 dem Vorsitzenden [[judge|Dr. Valter Urban]],
 dem Senatsmitglied [[judge|MMag. Grace Ulbrich]] und
@@ -70,7 +70,7 @@ Die Kosten des Verfahrens werden dem Beschuldigten auferlegt. Die Kosten der Zeu
 
 Gegen diesen Beschluss kann der Beschuldigte binnen zwei Wochen ab Zustellung eine Berufung an die [[court|OBDK]] erheben. Die Berufung ist beim Disziplinarrat einzubringen.
 
-Innsbruck, am [[date|21. Oktober 2026]]
+[[location|Innsbruck]], am [[date|21. Oktober 2026]]
 
 Für den Senat:
 

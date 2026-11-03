@@ -10,6 +10,7 @@ T: [[phone_number|+43 2742 256 95 28]]  F: [[phone_number|+43 2732 100 35 77-5]]
 E: [[email|office@holler.at]]  W: www.holler.at
 [[organization|Erste Bank der oesterreichischen Sparkassen AG]] IBAN: [[bank_account|AT07 5639 3003 7991 0315]] BIC: [[bank_account|RLNWATWW]]
 ERV-Code: [[other_identifier|R700159]]
+Tel. [[phone_number|0512/8197150-8]]
 
 An das
 [[court|Bezirksgericht Hernals]]
@@ -46,7 +47,7 @@ Streitwert: € 14.750,00
 
 2. Am [[date|9. Juni 2024]] kam es zu einem Wasserschaden im Badezimmer der Klägerin, weil eine Abwasserleitung nicht fachgerecht verbunden worden war. Die Bauleitung der Beklagten hatte die Verbindung am [[date|7. Juni 2024]] abgenommen, obwohl die Dichtheitsprüfung nicht durchgeführt worden war.
 
-3. Die Beklagte hat die Mängelbehebung bis heute nicht vollständig durchgeführt. Mit Schreiben vom [[date|18. September 2024]] forderte die Klägerin die Beklagte zur Behebung auf. Die Beklagte antwortete am [[date|2. Oktober 2024]] ausweichend und verwies auf die Haftpflichtversicherung, Polizze [[other_identifier|51-9482766]].
+3. Die Beklagte hat die Mängelbehebung bis heute nicht vollständig durchgeführt. Mit Schreiben vom [[date|18. September 2024]] forderte die Klägerin die Beklagte zur Behebung auf. Die Beklagte antwortete am [[date|2. Oktober 2024]] ausweichend und verwies auf die Haftpflichtversicherung, Polizze [[other_identifier|51-9482766]]. Eine weitere Polizze [[other_identifier|64-5658720]] betrifft den Ausbau des Bades.
 
 4. Die Streitgenossin hat den Auftrag an die Beklagte erteilt und war bei der Abnahme am [[date|7. Juni 2024]] anwesend. Sie ist daher neben der Beklagten zum Ersatz verpflichtet. [[organization|Turek Bau]] hat auch die Rückforderung des Vorschusses von € 3.200,00 bisher abgelehnt.
 
@@ -82,6 +83,16 @@ Die Klägerin stellt daher die Anträge,
 
 1. das Gericht möge die Beklagte und die Streitgenossin zur ungeteilten Hand schuldig erkennen, der Klägerin € 14.750,00 samt Zinsen zu zahlen;
 2. das Gericht möge die Kosten des Verfahrens dem Ersatz aufgerlegt.
+
+15. Die Trocknungskosten von € 4.120,00 sind durch die Rechnung der [[organization|Pfeiffer Sanierung GmbH]] vom [[date|28. Juni 2024]] belegt. Die Firma [[organization|Pfeiffer Sanierung]] hat die Feuchtigkeitsmessungen im Estrich dokumentiert und die Trocknung vom [[date|1. Juli 2024]] bis zum [[date|15. Juli 2024]] durchgeführt.
+
+16. Die Mietausfälle für Juni und Juli 2024 ergeben sich aus dem Mietvertrag mit einer Monatsmiete von € 1.250,00. Die Wohnung war vom [[date|9. Juni 2024]] bis zum [[date|31. Juli 2024]] nicht bewohnbar und konnte daher nicht vermietet werden.
+
+17. Die Klägerin bietet zum Beweis die Vernehmung der Zeugin [[person|Ana Ferreira Gomes]] an, die die Wohnung während der Sanierung beaufsichtigt hat.
+
+**V. Kosten und Streitwert**
+
+Die Kostenentscheidung richtet sich nach [[legal_norm|§§ 41, 50 ZPO]]. Die Klägerin ist im Verfahren mit ihren Hauptansprüchen voraussichtlich durchdringen, sodass die Kosten den Beklagten aufzuerlegen sind. Der Streitwert ist im Hinblick auf die Schmerzengeldansprüche und den Verdienstentgang nach [[legal_norm|§ 56 JN]] zu bewerten.
 
 **Beilagen**
 

@@ -39,6 +39,8 @@ Die Verkäuferin ist grundbücherliche Eigentümerin der Liegenschaft, eingetrag
 
 Der Grundbuchsauszug vom [[date|2. Juni 2026]] weist keine Pfandrechte aus. Die Verkäuferin erklärt, dass Pachtrechte Dritter nicht bestehen.
 
+Die Liegenschaft ist als Bauland gewidmet. Der Bebauungsplan sieht für das Grundstück [[land_register_id|871/26]] eine maximale Bebauungshöhe von zwei Geschoßen vor, und das bestehende Wohnhaus entspricht dieser Vorgabe. Die Verkäuferin übergibt eine Kopie des Bebauungsplans als Anlage ./2. Die Käufer haben die Anlage vor Vertragsunterfertigung eingesehen. Die Käufer bestätigen, dass ihnen der Zustand der Zufahrt und des Gartens bekannt ist; Wegerechte Dritter sind im Grundbuch nicht eingetragen.
+
 I. Kaufgegenstand
 
 Die Verkäuferin verkauft an die Käufer je zu einem Drittel ideell die oben angeführte Liegenschaft samt dem darauf errichteten Wohnhaus mit Garage. Die Käufer nehmen diesen Verkauf an.
@@ -51,6 +53,8 @@ II. Kaufpreis
 
 (3) Die Kosten der Urkunde trägt der Käufer, die Grunderwerbsteuer ebenfalls.
 
+Die Grunderwerbsteuer wird auf Basis des Verkehrswerts berechnet, den die Parteien mit EUR 298.000,00 vereinbaren; eine Schätzung durch das Finanzamt bleibt vorbehalten.
+
 III. Treuhand
 
 Die Abwicklung erfolgt über die Treuhandschaft der Kanzlei [[lawyer|Jelinek]] und [[lawyer|Grinschgl]] unter der Treuhandschaft Nr. [[other_identifier|2026/399]]. Die Treuhandbuch-Eintragung erfolgt unter der TH-Nr. [[other_identifier|2022/010]].
@@ -62,6 +66,8 @@ Die Verkäuferin erteilt die Aufsandungserklärung zugunsten der Käufer je zu e
 V. Gewährleistung und Übergabe
 
 (1) Die Übergabe erfolgt am [[date|1. Juli 2026]]. Die Gefahr und der Nutzen gehen mit diesem Tag auf die Käufer über.
+
+Bis zur Übergabe trägt die Verkäuferin das Risiko der Beschädigung durch Naturereignisse; eine Gebäudeversicherung ist bis zu diesem Tag aufrecht zu erhalten und der Nachweis den Käufern vorzulegen.
 
 (2) Die Verkäuferin haftet für bekannte Mängel, die sie nicht offengelegt hat. Eine weitergehende Gewährleistung wird ausgeschlossen, soweit das Gesetz dies zulässt.
 
@@ -79,7 +85,7 @@ VI. Lastenfreistellung und Vorkaufsrecht
 
 VII. Unterlagen
 
-Die Verkäuferin übergibt den Käufern bei Vertragsunterfertigung sämtliche Baupläne, Bewilligungen und die Kopien der Zählerstände. Die Übergabe der Originalurkunden erfolgt über die Treuhänder.
+Die Verkäuferin übergibt den Käufern bei Vertragsunterfertigung sämtliche Baupläne, Bewilligungen und die Kopien der Zählerstände. Die Liste der übergebenen Unterlagen ist diesem Vertrag beigeschlossen. Die Übergabe der Originalurkunden erfolgt über die Treuhänder.
 
 
 VIII. Schlussbestimmungen

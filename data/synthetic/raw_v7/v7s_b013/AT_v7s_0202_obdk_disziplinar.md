@@ -100,6 +100,8 @@ Der Senat hat weiters geprüft, ob die Anzeige durch die [[organization|RAK]] re
 
 Der Beschuldigte hat die Kosten des Verfahrens zu tragen. Gegen diese Entscheidung ist die Berufung an die [[court|OBDK]] zulässig. Die Berufung ist binnen vier Wochen nach Zustellung beim Disziplinarrat einzubringen. Die Anzeigerin [[person|Aaron Hader]] ist als Privatbeteiligte über die Entscheidung zu verständigen; ihre Ansprüche auf Schadenersatz werden durch diese Entscheidung nicht berührt und sind im ordentlichen Rechtsweg geltend zu machen.
 
+Der Senat ersucht die Kammer, die Einhaltung der Auflagen binnen eines Jahres zu überprüfen, und weist darauf hin, dass ein weiterer Verstoß gegen Treuhandpflichten zu einem Ausschluss von der Rechtsanwaltschaft führen kann.
+
 Für den Senat:
 
 [[person|Mag. Dr. Baruch Etlinger]]

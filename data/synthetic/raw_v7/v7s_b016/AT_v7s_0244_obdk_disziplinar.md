@@ -18,6 +18,12 @@ Der [[court|Disziplinarrat der Oberösterreichischen Rechtsanwaltskammer]] hat a
 Kammeranwalt: Herr [[person|Mag. Sigmar Ablinger]], geboren am [[date_of_birth|1948-02-08]]
 Beschuldigter: Herr [[lawyer|Siegmund Kohner]], Rechtsanwalt
 
+**Verfahrensgang**
+
+Die Anschuldigung der Kammeranwaltschaft vom [[date|14. Juli 2025]] wurde dem Beschuldigten am [[date|21. Juli 2025]] zugestellt. Der Beschuldigte hat sich schriftlich verantwortet und die Ausschließung der Öffentlichkeit beantragt, dem der Senat stattgegeben hat. Die Verhandlung wurde zweimal vertagt, weil der Beschuldigte eine ärztliche Bestätigung vorlegte und einen Verteidiger beizog.
+
+Die Zuständigkeit des Disziplinarrates ergibt sich aus [[legal_norm|§ 56 RAO]]. Der Senat war ordnungsgemäß besetzt; Einwendungen wegen Befangenheit wurden nicht erhoben.
+
 **Spruch**
 
 Der Beschuldigte ist schuldig, es zu verantworten zu haben, dass er die ihm anvertrauten Gelder aus einer Treuhandschaft entgegen der getroffenen Vereinbarung ausbezahlt hat. Er hat dadurch gegen [[legal_norm|§ 45 Abs 1 RAO]] iVm [[legal_norm|§ 1 RAO]] verstoßen.
@@ -39,6 +45,15 @@ Der Beschuldigte ist schuldig, es zu verantworten zu haben, dass er die ihm anve
 **Beweiswürdigung**
 
 Der Senat stützt die Feststellungen auf die Treuhandakten, die Kontoauszüge des Treuhandkontos und die Aussage der Klientin. Die Aussage des Beschuldigten, es habe eine mündliche Zustimmung gegeben, war nicht glaubwürdig, weil sie erst nach der Anzeige vorgebracht wurde.
+
+**Kontenbewegungen**
+
+1. Am [[date|2. Mai 2025]] ging der Betrag von € 42.000,00 auf dem Treuhandkonto ein, der Teil des Angeldes war.
+2. Am [[date|12. Mai 2025]] wurde der Betrag an die [[organization|EI]] überwiesen.
+3. Am [[date|16. Mai 2025]] zahlte die [[organization|EI]] € 20.000,00 an das Treuhandkonto zurück.
+4. Am [[date|18. Juli 2025]] erfolgte die Restrückzahlung von € 22.000,00, also nach der Anzeige.
+
+Die Zahlungsbewegungen sind durch die Kontoauszüge belegt. Die Abfolge ist zwischen den Parteien nicht streitig.
 
 **Zur Person des Beschuldigten**
 
@@ -70,6 +85,24 @@ Ein Rechtsanwalt hat fremde Gelder gesondert zu verwahren und ausschließlich ve
 Mildernd war die bisherige Unbescholtenheit des Beschuldigten und die spätere Rückzahlung. Erschwerend war die Dauer der Pflichtverletzung nicht. Die Geldbuße erscheint dem Senat angemessen.
 
 Der Disziplinarrat hat bei der Strafbemessung auch die Vermögensverhältnisse des Beschuldigten berücksichtigt. Eine Verwarnung allein wäre nicht ausreichend gewesen.
+
+**Strafbemessung**
+
+Der Senat hat bei der Bemessung der Geldbuße berücksichtigt, dass der Betrag von € 42.000,00 erheblich war und die Klientin einen Vermögensschaden erlitten hat, der erst nach der Anzeige ausgeglichen wurde. Mildernd wirkt die bisherige Unbescholtenheit des Beschuldigten und dass er den Betrag schließlich zurückgezahlt hat. Erschwerend wirkt, dass die Pflichtverletzung eine Treuhandschaft betraf, in der das Vertrauen der Klientin besonders schutzwürdig war.
+
+Die Vermögensverhältnisse des Beschuldigten sind durch die Aufgabe der Kanzlei eingeschränkt. Eine Geldbuße von € 5.000,00 erscheint dennoch tat- und schuldangemessen. Sie ist binnen vier Wochen nach Rechtskraft auf das Konto der Kammer zu überweisen. Eine Ratenzahlung kann auf Antrag bewilligt werden.
+
+**Kosten**
+
+Die Kosten des Verfahrens umfassen die Kosten der Kammeranwaltschaft, die Zeugengebühr der Klientin in Höhe von € 180,00 und die Schreibgebühren des Disziplinarrates. Sie sind vom Beschuldigten zu tragen.
+
+**Hinweis**
+
+Die Kammeranwaltschaft hat zu prüfen, ob der Sachverhalt einen strafrechtlichen Verdacht begründet. Eine Anzeige nach [[legal_norm|§ 153 StGB]] bleibt davon unberührt.
+
+**Hinweis zur Zustellung**
+
+Die Entscheidung wird dem Beschuldigten, dem Kammeranwalt und dem Präsidenten der Rechtsanwaltskammer zugestellt. Die Zustellung an den Beschuldigten erfolgt an die Kanzleiadresse [[address|2544 Leobersdorf]]. Eine Veröffentlichung erfolgt nur in anonymisierter Form. Die Kosten der Zustellung sind im Kostenausspruch enthalten.
 
 **Rechtsmittelbelehrung**
 

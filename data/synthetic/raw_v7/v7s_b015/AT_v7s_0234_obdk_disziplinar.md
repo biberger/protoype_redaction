@@ -67,7 +67,7 @@ Die Geldbuße von EUR 8.000,00 entspricht nach Ansicht des Senates dem Unrechtsg
 
 Der Kammeranwalt hat im Schlussvortrag eine höhere Geldbuße beantragt, weil die Angeklagte nach der Anzeige nicht unmittelbar reagiert hat. Der Senat hat dies berücksichtigt, aber nicht als erschwerend bewertet, weil die Angeklagte die Abrechnung nachträglich vorgelegt hat.
 
-Die Angeklagte hat in der Verhandlung die Verantwortung übernommen. Dies wurde als teilweises Geständnis gewertet. Die Angeklagte hat zudem erklärt, dass sie ihre Buchhaltung inzwischen einer externen Buchhalterin übertragen hat, die monatlich die Treuhandkonten abstimmt. Der Senat sieht darin eine geeignete Vorkehrung zur künftigen Vermeidung von Pflichtverletzungen.
+Die Angeklagte hat in der Verhandlung die Verantwortung für die Auszahlungen übernommen, soweit sie ihre Verfügung über das Treuhandkonto betreffen. Dies wurde als teilweises Geständnis gewertet. Die Angeklagte hat zudem erklärt, dass sie ihre Buchhaltung inzwischen einer externen Buchhalterin übertragen hat, die monatlich die Treuhandkonten abstimmt. Der Senat sieht darin eine geeignete Vorkehrung zur künftigen Vermeidung von Pflichtverletzungen.
 
 Der Mandant hat in seiner Stellungnahme vom [[date|2. Juni 2025]] erklärt, dass er die Angeklagte nach wie vor als fachkundig schätze, jedoch die fehlende Information über die Auszahlungen beanstande. Er hat sich im Verfahren nicht als Privatbeteiligter angeschlossen.
 
@@ -81,7 +81,7 @@ Verfahrensverlauf
 
 Das Verfahren wurde am [[date|12. März 2025]] durch die Anzeige eröffnet. Die Angeklagte beantragte mit Schreiben vom [[date|20. Mai 2025]] die Einstellung, die vom Kammeranwalt abgelehnt wurde. Der Senat hat in seiner Sitzung vom [[date|14. Oktober 2025]] beschlossen, den Mandanten als Zeugen zu hören. Die Zeugenaussage erfolgte am [[date|13. Jänner 2026]]. Die weitere Verhandlung wurde auf den [[date|25. September 2026]] angesetzt.
 
-Der Senat hat den Verfahrensablauf geprüft und keine Verletzung der Verfahrensrechte der Angeklagten festgestellt. Die Zustellungen erfolgten ordnungsgemäß an die Kanzleiadresse, die Ladungen wurden rechtzeitig übermittelt, und die Angeklagte hat die Akteneinsicht vollständig wahrgenommen. Die Verfahrensdauer von rund eineinhalb Jahren ist angesichts des Umfangs der Buchungen vertretbar. Die Angeklagte war in allen Verhandlungen durch den Verteidiger vertreten, der sie in der Hauptverhandlung ergänzend anhörte.
+Der Senat hat den Verfahrensablauf geprüft und keine Verletzung der Verfahrensrechte der Angeklagten festgestellt. Die Verhandlung wurde ordnungsgemäß protokolliert und vorgelesen. Die Zustellungen erfolgten ordnungsgemäß an die Kanzleiadresse, die Ladungen wurden rechtzeitig übermittelt, und die Angeklagte hat die Akteneinsicht vollständig wahrgenommen. Die Verfahrensdauer von rund eineinhalb Jahren ist angesichts des Umfangs der Buchungen vertretbar. Die Angeklagte war in allen Verhandlungen durch den Verteidiger vertreten, der sie in der Hauptverhandlung ergänzend anhörte.
 
 Rechtsmittelbelehrung
 

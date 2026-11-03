@@ -45,7 +45,7 @@ Die Schadennummer lautet [[other_identifier|26/291623/25]]. Der Pkw des Herrn [[
 
 Der Zeuge [[person|Larry Satzinger]] gab an, er habe den Lenker des ersten Fahrzeugs wegen der hohen Geschwindigkeit bemerkt, die nach seiner Schätzung jedoch nicht über 50 km/h lag. Frau [[person|Kristina Sager]] bestätigte, dass sie das Fahrzeug des Herrn [[person|Padalewski]] zunächst nicht gesehen habe, weil die Sicht durch einen geparkten Lieferwagen eingeschränkt war. Die Angaben der Zeugen sind insoweit widersprüchlich, als Herr [[person|Satzinger]] den Blinker des Fahrzeugs erkannt haben will, Frau [[person|Sager]] dies jedoch verneint.
 
-Die Beamten haben die Aussagen zu Protokoll genommen und mit den Lichtbildern und den Spuren am Unfallort verglichen. Die Widersprüche betreffen nach der Beurteilung der Beamten keinen für die Schuldfrage wesentlichen Punkt.
+Die Beamten haben die Aussagen zu Protokoll genommen und mit den Lichtbildern und den Spuren am Unfallort verglichen. Die Widersprüche betreffen nach der Beurteilung der Beamten keinen für die Schuldfrage wesentlichen Punkt. Eine Videoaufzeichnung des Kreuzungsbereichs liegt nicht vor, weil keine Kamera im Umkreis installiert ist. Die Anfrage bei den Anrainern hat ergeben, dass ein weiterer Zeuge den Unfall nicht beobachtet hat.
 
 **Fahrzeugangaben**
 
@@ -56,6 +56,8 @@ Der Pkw des Herrn [[person|Roessingh]] ist ein Kombi mit dem Kennzeichen [[licen
 Die Beamten haben festgestellt, dass die Sichtverhältnisse zum Unfallzeitpunkt gut waren und die Fahrbahn trocken war. Eine Alkoholisierung der Lenker wurde mittels Atemalkoholtest ausgeschlossen. Die Verkehrsfläche war beschildert, das Vorrangzeichen auf Seiten der Hauptstraße war sichtbar angebracht.
 
 Auf Grund der Aussagen und der Spuren ist davon auszugehen, dass Herr [[person|Padalewski]] beim Einbiegen den Vorrang nicht beachtet hat. Die Anzeige nach [[legal_norm|§ 19 StVO]] wird gegen ihn erstattet. Ein Verstoß gegen [[legal_norm|§ 7 StVO]] durch Herrn [[person|Roessingh]] konnte nicht festgestellt werden.
+
+Die Lenker wurden über die Pflicht zur Weitergabe der Versicherungsdaten belehrt. Beide haben die Versicherungsdokumente vorgelegt und die Richtigkeit der Angaben bestätigt. Die Schadensmeldung wird über das Online-Portal der Versicherung übermittelt, sodass eine gesonderte Übermittlung an die Behörde nicht erforderlich ist.
 
 **Anzeige**
 

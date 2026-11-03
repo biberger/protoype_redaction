@@ -68,6 +68,8 @@ V. Gewährleistung und Übergabe
 
 2. Die Verkäuferin haftet für die Lastenfreiheit der Liegenschaften, nicht aber für Mängel der Gebäude, die den Käufern bekannt waren.
 
+3. Die Verkäuferin übergibt bei der Übergabe die Schlüssel, die Gasbezugsbestätigung und die Unterlagen über die Heizungsanlage. Die Zählerstände sind im Übergabeprotokoll festzuhalten, das beide Parteien unterfertigen. Ein Ausfall der Heizungsanlage bis zur Übergabe ist der Verkäuferin zuzurechnen; eine Gewährleistung für Heizkosten vor dem Übergabetag ist ausgeschlossen. Die Kosten der Schlüsselübergabe trägt die Verkäuferin. Der Kaufpreis ist ohne Abzug von Steuern und Abgaben zu entrichten, soweit diese nicht ausdrücklich dem Käufer auferlegt sind.
+
 V a. Rücktritt und Vertragsstrafe
 
 1. Für den Fall, dass der Käufer den Restkaufpreis nicht fristgerecht leistet, ist die Verkäuferin berechtigt, vom Vertrag zurückzutreten. Ein Rücktritt ist nur zulässig, wenn der Käufer nach schriftlicher Mahnung mit einer Nachfrist von vier Wochen nicht leistet.

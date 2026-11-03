@@ -89,9 +89,9 @@ Herr [[person|Stani Schleicher]], *[[date_of_birth|1964-02-21]], hat uns die Unt
 
 Die Wohnung liegt laut Mietvertrag in [[address|3571 Gars am Kamp]]. Der Mietvertrag enthält keine Klausel über die Instandhaltung der Kelleraußenwände. Herr [[person|Schleicher]] hat den Mietzins bis einschließlich Oktober 2026 bezahlt.
 
-> Liebe Frau Charlemont,
+> Liebe Frau [[person|Charlemont]],
 >
-> bitte leiten Sie uns die Fotos weiter. Die WIG wird nach Prüfung Stellung nehmen.
+> bitte leiten Sie uns die Fotos weiter. Die [[organization|WIG]] wird nach Prüfung Stellung nehmen.
 >
 > [[person|Matalon]]
 
@@ -111,7 +111,7 @@ Betreff: Schaden Keller
 
 Sehr geehrte Damen und Herren,
 
-ich habe am [[date|3. Oktober 2026]] Wasser im Keller gesehen. Ich habe die Hausverwaltung sofort informiert, die Antwort kam erst am [[date|6. Oktober 2026]]. Die Wand ist seither feucht, und ich habe Angst vor Schimmel in der Wohnung. Bitte melden Sie sich bei mir, ich bin telefonisch am Abend erreichbar. Ich habe auch Fotos von den Flecken an der Decke im Vorraum gemacht, die ich Ihnen gerne weiterleite. Die Hausverwaltung hat mir gesagt, dass sich der Eigentümer der Außenwand erst kümmern wird, wenn das Gutachten vorliegt. Das kann ich nicht akzeptieren, weil die Feuchtigkeit täglich mehr wird.
+ich habe am [[date|3. Oktober 2026]] Wasser im Keller gesehen. Ich habe die Hausverwaltung sofort informiert, die Antwort kam erst am [[date|6. Oktober 2026]]. Die Wand ist seither feucht, und ich habe Angst vor Schimmel in der Wohnung. Ich danke Ihnen im Voraus für Ihre rasche Hilfe in dieser Sache. Bitte melden Sie sich bei mir, ich bin telefonisch am Abend erreichbar. Ich habe auch Fotos von den Flecken an der Decke im Vorraum gemacht, die ich Ihnen gerne weiterleite. Die Hausverwaltung hat mir gesagt, dass sich der Eigentümer der Außenwand erst kümmern wird, wenn das Gutachten vorliegt. Das kann ich nicht akzeptieren, weil die Feuchtigkeit täglich mehr wird.
 
 Mit freundlichen Grüßen
 [[person|Stani Schleicher]]

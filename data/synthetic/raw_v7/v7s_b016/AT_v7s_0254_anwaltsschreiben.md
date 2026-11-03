@@ -40,6 +40,10 @@ Frau [[person|Tietze]] stand nach dem Unfall zwei Wochen lang kein Ersatzfahrzeu
 
 Wir ersuchen um Übermittlung der Versicherungsdaten bis [[date|15. September 2025]]. Andernfalls wird die Klage beim [[court|Bezirksgericht Graz-Umgebung]] eingebracht.
 
+Für den Fall, dass Sie die Forderung anerkennen, ersuchen wir um Bestätigung in Schriftform. Die Anerkennung ist bis zur Zahlung widerruflich, sofern nicht ausdrücklich etwas anderes vereinbart wird.
+
+Wir verweisen auf die Bestimmungen über die Verjährung nach [[legal_norm|§ 1489 ABGB]] und bitten um umgehende Rückmeldung.
+
 Mit freundlichen Grüßen
 
 [[person|Prenner]]

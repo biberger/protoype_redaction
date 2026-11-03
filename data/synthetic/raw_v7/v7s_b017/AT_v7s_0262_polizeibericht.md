@@ -63,6 +63,14 @@ Die Anzeige wird über die Bezirkshauptmannschaft an die zuständige Behörde we
 
 Die Beamtin [[person|Ettl]] hat die Fotodokumentation erstellt und die Unfallskizze angefertigt.
 
+6. Verkehrsbehinderung und Maßnahmen
+
+Die Kreuzung war nach dem Unfall für rund 40 Minuten gesperrt. Die [[organization|Freiwillige Feuerwehr Gleisdorf]] sicherte die Unfallstelle und band auslaufende Betriebsstoffe ab. Eine verletzte Person wurde nicht festgestellt; die Beteiligten haben eine ärztliche Untersuchung abgelehnt.
+
+Die Fahrzeuge wurden auf Anordnung der Beamten abgeschleppt. Die Abschleppkosten trägt die Haftpflichtversicherung des Verursachers, sofern die Zuständigkeit geklärt ist.
+
+Der Halter des Lieferwagens hat seine Versicherungsdaten am Unfallort bekanntgegeben. Die Versicherung wurde über die Schadenmeldung informiert, die Polizzen-Nr. wurde übermittelt. Der Pkw wurde am selben Abend in eine Werkstätte in [[location|Graz]] verbracht. Der Lieferwagen wurde zur Sicherung auf einen Parkplatz in [[location|Gleisdorf]] gebracht. Die Schlüssel wurden dem Halter übergeben, der sie bei der Polizeiinspektion abholte. Eine Zeugin am Gehsteig gab an, nichts gesehen zu haben.
+
 Ausgefertigt in [[location|Gleisdorf]] am [[date|17.08.2026]]
 
 GrInsp. [[person|Gerhard Lusch]]

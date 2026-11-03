@@ -70,6 +70,16 @@ Mildernd wirkten die Schadenswiedergutmachung und das teilweise Geständnis. Ers
 
 Gegen diese Entscheidung kann binnen vier Wochen Berufung an die [[court|OBDK]] erhoben werden. Die Kosten richten sich nach [[legal_norm|§ 39 Abs 2 RAO]].
 
+Der Senat hat dem Beschuldigten bei der Strafbemessung zugutegehalten, dass die Klienten ihre Gelder vollständig erhalten haben. Er hat jedoch berücksichtigt, dass der Beschuldigte die Abrechnung über einen Zeitraum von mehr als einem Jahr nicht vorgenommen hat.
+
+Die Entscheidung ist den Parteien schriftlich zuzustellen. Der Zustellbevollmächtigte des Beschuldigten ist im Akt vermerkt; eine Zustellung an die Kanzleiadresse genügt.
+
+Die Beschuldigte hat in der Verhandlung ausgeführt, dass sie die Vergleichsbesprechung im Jahr 2025 mit der Gegenseite geführt habe. Die Gegenseite bestritt dies in einer schriftlichen Äußerung vom [[date|17.06.2025]]. Der Senat konnte die behauptete Vergleichsbesprechung nicht feststellen, weil kein Protokoll und keine Korrespondenz hierzu vorliegt.
+
+Der Kammeranwalt [[person|Dr. Giselher Dietmann]] hat darauf hingewiesen, dass die Beschuldigte die Zahlung über das Treuhandkonto ohne Rücksprache mit den beiden Klienten geleistet hat. Dies verstößt gegen die Pflicht, Treuhandgelder nur mit Zustimmung aller Berechtigten auszuzahlen.
+
+Der Senat schließt sich dieser Würdigung an. Die Beschuldigte hat zwar die Restbeträge ausbezahlt, dies geschah jedoch erst nach der Aufforderung durch die Rechtsanwaltskammer und damit nicht freiwillig. Der Beschuldigte hat die Auszahlung gegenüber dem Senat nicht bestritten und den Zeitpunkt der letzten Zahlung selbst bestätigt. Dies stützt die Annahme, dass die Kanzlei ohne externen Druck keine Abrechnung erstellt hätte.
+
 Für den [[court|Disziplinarrat der Rechtsanwaltskammer Wien]]:
 
 Vorsitz: [[judge|Mag. Myriam Ajami]]

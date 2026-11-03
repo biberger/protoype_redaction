@@ -10,7 +10,7 @@ Geschäftszahl: [[case_number|DR-O 9/2026]]
 
 **ERKENNTNIS**
 
-Der Disziplinarrat der Oberösterreichischen Rechtsanwaltskammer hat durch die Senatsmitglieder
+Der [[court|Disziplinarrat der Oberösterreichischen Rechtsanwaltskammer]] hat durch die Senatsmitglieder
 
 Vorsitzende: [[judge|Eftaxia Katranis]]
 Beisitzerin: [[judge|Dr. Virgie Michl]]
@@ -72,7 +72,7 @@ Die Kosten des Verfahrens sind der Beschuldigten aufzuerlegen. Die Kosten der Ze
 
 Gegen dieses Erkenntnis steht der Beschuldigten und dem Kammeranwalt die Berufung an die [[court|OBDK]] offen. Die Berufung ist binnen zwei Wochen ab Zustellung bei dem Disziplinarrat einzubringen.
 
-Linz, am [[date|7. Oktober 2026]]
+[[location|Linz]], am [[date|7. Oktober 2026]]
 
 Für den Senat:
 

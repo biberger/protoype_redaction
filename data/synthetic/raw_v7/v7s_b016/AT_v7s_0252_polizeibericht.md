@@ -53,6 +53,22 @@ Der PKW des Lenkers [[person|Neumeister]] ist ein Skoda des Baujahres 2016, Kenn
 
 Die Beamten fertigten um 14:45 Uhr eine Skizze des Unfallortes an. Die Lichtzeichenanlage an der Kreuzung war in Betrieb und funktionsfähig. Die Sichtweite nach links betrug nach Messung rund 80 Meter; die Vegetation am Straßenrand war nicht beeinträchtigend.
 
+**4b. Verletzte und Rettung**
+
+Die Beifahrerin des Kleinbusses wurde mit dem Rettungswagen der [[organization|Rettungsorganisation Pregarten]] in das [[organization|Landesklinikum Freistadt]] gebracht. Die Verletzte hat die Anzeige nicht unterschrieben und wird als Zeugin zu einem späteren Zeitpunkt einvernommen. Die Rettung war um 14:38 Uhr vor Ort.
+
+**4c. Vorläufige Beurteilung des Schadens**
+
+Der Sachverständige der Versicherung wird die Reparaturkosten nach Besichtigung der Fahrzeuge ermitteln. Die Schätzung von € 14.500,00 ist daher vorläufig. Nach Angaben des Lenkers [[person|Neumeister]] wurde das PKW am Unfalltag nicht repariert, er wurde in die Werkstätte nach [[location|Freistadt]] verbracht.
+
+**4d. Angaben zum Verkehrsfluss**
+
+Der Zeuge [[person|Kranjčar]] gab zudem an, der Kleinbus sei mit etwa 50 km/h unterwegs gewesen, was er allerdings nur schätzen könne. Die Zeugin [[person|Gerda Weidinger]] hatte den Eindruck, der Kleinbus habe vor der Kreuzung abgebremst. Die Angaben der beiden Zeugen widersprechen sich somit nicht grundsätzlich. Ein Lichtbild des Kreuzungsbereichs zeigt eine Bodenmarkierung, die die Fahrtrichtung vorgibt.
+
+**4e. Versicherungen**
+
+Die Versicherung des PKW wurde am Unfallort telefonisch verständigt. Die Versicherung des Kleinbusses meldete sich am [[date|18. Mai 2026]] mit einer Schadensnummer und bestätigte die Aufnahme der Ermittlungen.
+
 **5. Rechtliche Würdigung**
 
 Der Lenker hat dadurch möglicherweise gegen [[legal_norm|§ 11 Abs 1 StVO]] verstoßen. Die Anzeige wird gemäß [[legal_norm|§ 88 Abs 1 StVO]] erstattet, ein Verwaltungsstrafverfahren ist eingeleitet. Die Haftung der Versicherung richtet sich nach dem [[legal_norm|KHVG]].

@@ -41,6 +41,8 @@ Frau [[person|Luif]] ist als Verkäuferin in einer Bäckerei tätig. Sie war dur
 
 Die Haftung der [[organization|Krist]] ist nach unserer Einschätzung eindeutig. Die Lenkerin [[person|Kasper]] hat die Geschwindigkeit nicht an die Fahrbahnverhältnisse angepasst. Eine Haftung ergibt sich aus [[legal_norm|§ 1310 ABGB]] und aus [[legal_norm|§ 7 EKHG]], weil das Fahrzeug im Betrieb war und der Schaden durch die Fahrweise verursacht wurde. Ein Mitverschulden der Beifahrerin ist nicht ersichtlich.
 
+Wir verweisen auf unser früheres Schreiben und die dort genannten Fristen. Wir ersuchen um eine Stellungnahme bis zum [[date|10. Juni 2026]] und behalten uns vor, die Verfahrenskosten gegen Sie geltend zu machen. Die Schadenbelege liegen diesem Schreiben bei.
+
 Mit freundlichen Grüßen
 
 [[person|Rasinger]]

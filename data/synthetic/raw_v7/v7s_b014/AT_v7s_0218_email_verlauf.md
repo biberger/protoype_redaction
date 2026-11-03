@@ -120,3 +120,31 @@ Mit freundlichen Grüßen
 
 > Von: [[person|Dr. Naderer]] <[[email|office@naderer.at]]>
 > Wir benötigen das Übergabeprotokoll in Kopie.
+
+**Nachricht 7**
+
+Von: [[person|MMag. Kati Wedenig]] <[[email|k.wedenig@boehler-kg.at]]>
+An: [[person|Dr. Naderer]] <[[email|office@naderer.at]]>
+Gesendet: Montag, [[date|27. Oktober 2025]], 15:20
+Betreff: AW: Kl.-Nr. [[other_identifier|92039]]
+
+Sehr geehrte Frau [[person|Dr. Naderer]],
+
+die [[organization|Böhler]] ist bereit, das Übergabeprotokoll zu übermitteln, sofern Ihr Mandant bis Ende des Monats auf eine Klage verzichtet. Eine Schulung ist nach unserer Dokumentation am Übergabetag erfolgt; die Unterlagen dazu übermitteln wir gesondert.
+
+Mit besten Grüßen
+[[person|MMag. Kati Wedenig]]
+
+**Nachricht 8**
+
+Von: [[person|Naderer]] <[[email|office@naderer.at]]>
+An: [[person|MMag. Kati Wedenig]] <[[email|k.wedenig@boehler-kg.at]]>
+Gesendet: Dienstag, [[date|28. Oktober 2025]], 09:12
+Betreff: AW: AW: Kl.-Nr. [[other_identifier|92039]]
+
+Sehr geehrte Frau [[person|Dr. Naderer]],
+
+wir nehmen Ihr Angebot zur Kenntnis, sehen darin jedoch keine Erledigung. Das Übergabeprotokoll ist binnen einer Woche vorzulegen; andernfalls leiten wir die Schritte ein, die unser Mandant für erforderlich hält.
+
+Mit freundlichen Grüßen
+[[person|Dr. Naderer]]

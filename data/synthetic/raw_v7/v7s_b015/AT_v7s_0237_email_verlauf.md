@@ -11,7 +11,7 @@ E: [[email|office@mauracher.at]]  W: www.mauracher.at
 [[organization|Oberbank AG]] IBAN: [[bank_account|AT06 7998 4027 1720 8265]] BIC: [[bank_account|SPIHAT22]]
 ERV-Code: [[other_identifier|P101734]]
 
-Betreff: Gesellschafterstreit, Wallner GmbH
+Betreff: Gesellschafterstreit, [[organization|Wallner GmbH]]
 
 ---
 
@@ -19,7 +19,7 @@ Von: [[person|Judit Koppensteiner]]
 Gesendet: Montag, [[date|26. Oktober 2026]] 11:12
 An: [[person|Withold Hohenwarter]]
 Cc: [[person|Nadja Nomani]]
-Betreff: AW: Gesellschafterstreit, Wallner GmbH
+Betreff: AW: Gesellschafterstreit, [[organization|Wallner GmbH]]
 
 Sehr geehrter Herr [[person|Hohenwarter]],
 
@@ -73,7 +73,7 @@ Geschäftsführer
 Von: [[person|Nadja Nomani]]
 Gesendet: Freitag, [[date|16. Oktober 2026]] 13:02
 An: [[person|Judit Koppensteiner]]
-Betreff: Gutachten Wallner
+Betreff: Gutachten [[organization|Wallner]]
 
 Liebe Frau [[person|Koppensteiner]],
 
@@ -93,7 +93,7 @@ Betreff: Anteile
 
 Guten Morgen Frau [[person|Koppensteiner]],
 
-ich habe Ihre Nachricht gelesen. Ich möchte meine Anteile an der [[organization|Wallner GmbH]] verkaufen, aber nur, wenn ich den Betrag auch tatsächlich erhalte. Die letzte Auszahlung der Gesellschaft hat sich um fast sieben Monate verzögert. Bitte prüfen Sie, ob ein Treuhandkonto eingerichtet werden kann.
+ich habe Ihre Nachricht gelesen. Ich möchte meine Anteile an der [[organization|Wallner GmbH]] verkaufen, aber nur, wenn ich den Betrag auch tatsächlich erhalte. Die letzte Auszahlung der Gesellschaft hat sich um fast sieben Monate verzögert. Bitte prüfen Sie, ob ein Treuhandkonto eingerichtet werden kann. Ich bitte Sie außerdem, mir die letzte Bilanz der Gesellschaft zu übermitteln, bevor ich eine Entscheidung treffe. Vielen Dank.
 
 Ich bin ab Mittwoch unter der Nummer [[phone_number|0662/2015139-62]] erreichbar.
 
@@ -105,11 +105,11 @@ Mit freundlichen Grüßen
 Von: [[person|Freda Marchart]]
 Gesendet: Donnerstag, [[date|8. Oktober 2026]] 10:30
 An: [[person|Nadja Nomani]]
-Betreff: Wallner
+Betreff: [[organization|Wallner]]
 
 Sehr geehrte Frau [[person|Nomani]],
 
-ich bin an einer Einigung interessiert, habe aber vor einer Entscheidung noch Fragen zur Gewinnverteilung der letzten zwei Jahre. Bitte geben Sie mir Bescheid, welche Unterlagen Sie dafür benötigen. Die [[organization|Wallner GmbH]] soll nicht verkauft werden, solange die Pacht für das Objekt in [[address|8820 Zeutschach]] nicht geregelt ist.
+ich bin an einer Einigung interessiert, habe aber vor einer Entscheidung noch Fragen zur Gewinnverteilung der letzten zwei Jahre. Bitte geben Sie mir Bescheid, welche Unterlagen Sie dafür benötigen. Die Gewinnausschüttung der Jahre 2024 und 2025 wurde nach meiner Kenntnis nicht vollständig an die Gesellschafter weitergegeben, und ich möchte wissen, woran das liegt. Die [[organization|Wallner GmbH]] soll nicht verkauft werden, solange die Pacht für das Objekt in [[address|8820 Zeutschach]] nicht geregelt ist.
 
 Mit freundlichen Grüßen
 [[person|Freda Marchart]]

@@ -38,6 +38,14 @@ Summe Honorar netto: EUR 2.650,00
 Umsatzsteuer 20 %: EUR 530,00
 Gesamtbetrag brutto: EUR 3.180,00
 
+Leistungsbeschreibung: Die Vertretung umfasste die rechtliche Beurteilung des Kündigungsschreibens, die Abstimmung mit der Arbeitnehmervertretung und die Vorbereitung der Klage. Die Zeitaufwendungen sind nach Stunden verrechnet, wobei die Stundensätze dem Rahmenvertrag entsprechen. Die Auslagen für Gerichtsgebühren sind in dieser Note nicht enthalten und werden gesondert verrechnet.
+
+Ein Vorschuss von EUR 500,00 wurde bereits am [[date|2. Oktober 2025]] von Frau [[person|Ledl]] geleistet. Er ist im Gesamtbetrag nicht abgezogen, sondern wird in der nächsten Note verrechnet. Die Leistungen unterliegen der österreichischen Umsatzsteuer, die UID-Nummer der Kanzlei ist oben angeführt.
+
+Die Besprechungen fanden am Sitz der Kanzlei in [[location|St. Michael im Lungau]] statt. Fahrtkosten für Termine außerhalb der Kanzlei sind mit EUR 0,42 je Kilometer verrechnet. Rückfragen zur Honorarnote richten Sie bitte an die Kanzlei.
+
+Die Abrechnung erfolgt jeweils zum Monatsende. Die Honorarnote enthält keine Beträge für Leistungen, die nicht ausdrücklich beauftragt wurden. Auf Wunsch übermitteln wir Ihnen gerne die Zeitaufschreibung.
+
 Die Zahlung ist binnen 14 Tagen nach Erhalt dieser Honorarnote auf das Konto der Kanzlei bei der [[organization|Erste Bank der oesterreichischen Sparkassen AG]] unter der IBAN [[bank_account|AT68 5093 9607 2864 4597]] zu überweisen. Bitte geben Sie als Verwendungszweck die Klientennummer [[other_identifier|17117]] an.
 
 Der Honorarbetrag wurde auf Grund des Rahmenvertrags vom [[date|1. Oktober 2025]] berechnet. Die Auslagen sind ohne Aufschlag verrechnet.

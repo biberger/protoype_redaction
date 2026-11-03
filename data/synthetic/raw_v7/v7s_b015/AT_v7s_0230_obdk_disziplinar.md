@@ -43,7 +43,7 @@ Datum | Vorgang | Betrag (EUR) | Zeichen
 
 Die Angeklagte hat die Auszahlung vom [[date|23.05.2023]] mit einer mündlichen Anweisung des Gläubigers begründet. Eine schriftliche Vollmacht lag nicht vor. Die Auszahlung ist im Treuhandbuch nur mit dem Stichwort "Vergleich" vermerkt.
 
-Die Angeklagte hat den Restbetrag von EUR 2.500,00 erst nach der Aufforderung durch die Kammer zurückgezahlt. Der Saldo des Treuhandkontos vom [[date|31.12.2024]] wurde nicht geprüft.
+Der Senat hat die Angaben der Angeklagten zur Rückzahlung für glaubhaft gehalten, soweit sie den Zeitpunkt betreffen. Eine Nachfrage beim Mandanten ergab keine weiteren Forderungen. Die Angeklagte hat den Restbetrag von EUR 2.500,00 erst nach der Aufforderung durch die Kammer zurückgezahlt. Der Saldo des Treuhandkontos vom [[date|31.12.2024]] wurde nicht geprüft.
 
 Der Kammeranwalt stellte in der Verhandlung den Antrag auf eine Geldbuße im mittleren Bereich des Strafrahmens. Die Angeklagte beantragte eine Ermahnung.
 

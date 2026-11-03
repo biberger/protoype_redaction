@@ -100,6 +100,8 @@ Die Geldbuße von 7.500,00 Euro entspricht nach Auffassung des Senats dem Unrech
 
 Die Beschuldigte hat die Kosten des Verfahrens zu tragen. Gegen dieses Erkenntnis ist die Berufung an die [[court|OBDK]] zulässig. Die Berufung ist binnen vier Wochen nach Zustellung beim Disziplinarrat einzubringen.
 
+Der Senat hat die Verhandlung für öffentlich erklärt. Die Entscheidung wird nach Rechtskraft in anonymisierter Form veröffentlicht, soweit dies nach den Standesregeln vorgesehen ist. Ein Abdruck der Entscheidung ist für die Kanzleiakten bestimmt.
+
 Für den Senat:
 
 [[person|Dr. Victorius Zacherl]]

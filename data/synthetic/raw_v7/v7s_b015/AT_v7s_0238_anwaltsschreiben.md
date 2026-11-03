@@ -22,7 +22,7 @@ Postfach 12, [[address|1010 Wien]]
 Unser Zeichen: [[other_identifier|Gergely ./. Strauß]]
 Tel. [[phone_number|02742/8759313 DW 541]]
 
-Betreff: Schadenfall vom [[date|11. August 2026]], Ihre Polizze, Schadensersatz für die Windisch KG
+Betreff: Schadenfall vom [[date|11. August 2026]], Ihre Polizze, Schadensersatz für die [[organization|Windisch KG]]
 
 Sehr geehrte Damen und Herren,
 
@@ -48,7 +48,7 @@ Die Feuerwehr hat einen Bericht über den Einsatz angefertigt, den wir als Beila
 
 Zur Schadenshöhe ist festzuhalten, dass der Gebäudeschaden auf Grundlage des Kostenvoranschlages einer Fachfirma vom [[date|3. September 2026]] ermittelt wurde. Die Betriebsunterbrechung umfasst den Entgang des Deckungsbeitrages für die Dauer von sechs Wochen, in denen die Lagerhalle nicht benutzt werden konnte. Die Räumungskosten betreffen die Entfernung der verbrannten Materialien und die Entsorgung des Brandschutts durch einen befugten Betrieb.
 
-Wir weisen darauf hin, dass der Versicherer nach den Bedingungen der Polizze zur Leistung verpflichtet ist, sobald der Schaden festgestellt ist. Eine Verzögerung der Zahlung ist nicht gerechtfertigt, weil der Sachverhalt durch den Feuerwehrbericht und das Gutachten hinreichend geklärt ist. Die Gesellschaft behält sich vor, Verzugszinsen nach dem Konsumentenschutzgesetz zu verlangen, soweit dies anwendbar ist.
+Wir weisen darauf hin, dass der Versicherer nach den Bedingungen der Polizze zur Leistung verpflichtet ist, sobald der Schaden festgestellt ist. Eine Verzögerung der Zahlung ist nicht gerechtfertigt, weil der Sachverhalt durch den Feuerwehrbericht und das Gutachten hinreichend geklärt ist. Die Gesellschaft behält sich vor, Verzugszinsen nach dem [[legal_norm|Konsumentenschutzgesetz]] zu verlangen, soweit dies anwendbar ist. Die Verzugszinsen sind nach [[legal_norm|§ 1333 ABGB]] in der gesetzlichen Höhe zu berechnen, sofern keine abweichende Vereinbarung getroffen wurde. Wir bitten um Bestätigung des Zahlungseingangs unter Angabe des oben angeführten Zeichens, damit wir den Vorgang gegenüber unserer Mandantin abschließen können.
 
 Ein Restwert der verbrannten Materialien besteht nicht. Die Gesellschaft hat die Kosten des Sachverständigen selbst getragen und verlangt deren Ersatz nicht gesondert.
 
@@ -60,5 +60,7 @@ Mit freundlichen Grüßen
 
 [[person|Saurer]]
 Rechtsanwalt
+
+Beilage: Feuerwehrbericht vom Einsatztag
 
 Kopie an die [[organization|WKG]]

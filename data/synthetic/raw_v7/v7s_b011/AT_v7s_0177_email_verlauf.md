@@ -98,3 +98,46 @@ Danke für die rasche Antwort. Bitte bringen Sie die Klage beim [[court|BG Miste
 
 Mit freundlichen Grüßen
 [[person|Liviu Bărăscu]]
+
+Nachricht 6
+
+Von: [[person|Silvan Stieger]] <[[email|s.stieger@kreuzfeld-transporte.at]]>
+Gesendet: Freitag, [[date|23. Jänner 2026]], 10:14
+An: [[lawyer|Bartl]] <[[email|bartl@bartl.at]]>
+Betreff: AW: Ihr Schaden
+
+Sehr geehrter Herr [[lawyer|Bartl]],
+
+wir haben das Gutachten der [[person|Wintersteiner]] erhalten und bitten um eine Frist bis zum [[date|6. Februar 2026]], um mit unserem Versicherer die Haftungsfrage zu klären. [[organization|Kreuzfeld Transporte]] ist grundsätzlich zur außergerichtlichen Regulierung bereit, sofern der Schaden auf das Verhalten des Lenkers beschränkt bleibt. Eine Anerkennung der Kosten des Sachverständigen lehnen wir ab.
+
+Mit freundlichen Grüßen
+[[person|Silvan Stieger]]
+Geschäftsführer
+
+Nachricht 7
+
+Von: [[lawyer|Bartl]] <[[email|bartl@bartl.at]]>
+Gesendet: Montag, [[date|26. Jänner 2026]], 09:40
+An: [[person|Silvan Stieger]] <[[email|s.stieger@kreuzfeld-transporte.at]]>
+Betreff: AW: Ihr Schaden
+
+Sehr geehrter Herr [[person|Stieger]],
+
+Ihre Frist wird nicht verlängert. Die Klage wird beim [[court|BG Mistelbach]] eingebracht, sofern bis zum [[date|30. Jänner 2026]] keine Zahlung eingeht. Unser Mandant [[person|Bărăscu]] hat dazu sein Einverständnis erklärt.
+
+Mit freundlichen Grüßen
+[[lawyer|Bartl]]
+
+Nachricht 8
+
+Von: [[person|Liviu Bărăscu]] <[[email|l.barascu@mail.at]]>
+Gesendet: Dienstag, [[date|27. Jänner 2026]], 08:12
+An: [[lawyer|Bartl]] <[[email|bartl@bartl.at]]>
+Betreff: AW: Ihr Schaden
+
+Sehr geehrter Herr [[lawyer|Bartl]],
+
+bitte bereiten Sie die Klage vor und senden Sie mir die Kostennote. Ich bin mit der Vertretung einverstanden. Die Zeugenaussage von Herrn [[person|Valentić]] liegt dem Schreiben als Anlage bei, bitte bestätigen Sie den Eingang. Die Ladung der Zeugen für die Tagsatzung bitte ich Sie zu veranlassen, da Herr [[person|Valentić]] nur am Vormittag zur Verfügung steht. Ich bitte zudem um Mitteilung, welche Kosten der Gutachterin bereits entstanden sind. Ich bitte außerdem um Auskunft, ob die Verjährung im Hinblick auf den Unfall vom [[date|14. Dezember 2025]] durch die Schadensmeldung unterbrochen wurde, da die Versicherung nur schriftlich geantwortet hat.
+
+Mit freundlichen Grüßen
+[[person|Liviu Bărăscu]]

@@ -85,6 +85,22 @@ V. Strafbemessung
 
 Der Senat hat den Strafrahmen berücksichtigt. Eine Geldbuße von EUR 6.000,00 erscheint angemessen. Ein Berufsverbot war nicht zu verhängen, weil die Beschuldigte die Kanzleiorganisation inzwischen verändert hat.
 
+V a. Würdigung der Zeugenaussagen
+
+Der Senat hat die Aussagen der Klienten sorgfältig gegeneinander abgewogen. Die Klientin [[person|Krnáčová]] ist in ihren Angaben zu den Beträgen konsistent geblieben, hat aber den Zeitpunkt der letzten Teilzahlung nicht genau angeben können. Der Klient [[person|Riener]] hat dagegen die Daten der Zahlungen anhand seiner eigenen Aufzeichnungen belegt, die er dem Senat übergeben hat.
+
+Die Beschuldigte hat die Glaubwürdigkeit des Klienten bestritten. Der Senat hält diesen Einwand für unbegründet, weil die Kontoauszüge die Angaben des Klienten bestätigen.
+
+Der Senat hat zudem geprüft, ob die Zahlung vom [[date|14.10.2019]] von der Freigabe der Gegenseite gedeckt war. Die Freigabe lag nur für den ersten Teilbetrag vor. Der zweite Teilbetrag wurde ohne Freigabe ausbezahlt, was die Pflichtverletzung verstärkt.
+
+Der Kammeranwalt [[person|Dr. Egon Bielski]] hat in seinem Schlussvortrag ausgeführt, dass die Beschuldigte die Treuhandbewegungen nicht zeitnah verbucht habe. Dies betreffe beide Treuhandschaften. Der Senat folgte dieser Beurteilung im Wesentlichen.
+
+Die Treuhandschaft Nr. [[other_identifier|2024/049]] betrifft die Verwaltung eines Betrags, den der Klient [[person|Riener]] im Zusammenhang mit dem Verkauf einer Eigentumswohnung erhalten hatte. Der Betrag von EUR 4.750,00 wurde am [[date|18.11.2024]] vollständig an den Klienten ausbezahlt, obwohl die Abrechnung der Verkäuferseite erst im Jänner 2025 vorlag. Die Beschuldigte begründete die Auszahlung mit einer telefonischen Zusage der Gegenseite, die sie nicht schriftlich festgehalten hatte.
+
+Der Senat hält fest, dass eine telefonische Zusage die Schriftform der Freigabe nicht ersetzt, wenn die Treuhandvereinbarung eine solche verlangt. Die Beschuldigte hätte die Zusage vor der Auszahlung dokumentieren müssen.
+
+Der Senat hat auch berücksichtigt, dass die Beschuldigte den Kontoauszug vom [[date|18.11.2024]] nicht selbst unterschrieben hat. Die Unterschrift stammt von einer Mitarbeiterin, deren Vollmacht nicht im Akt liegt. Dieser Umstand wurde jedoch nicht als eigenständiger Vorwurf gewertet.
+
 VI. Kosten und Rechtsmittel
 
 Die Kosten des Verfahrens richten sich nach [[legal_norm|§ 39 Abs 2 RAO]]. Gegen diese Entscheidung kann binnen vier Wochen Berufung an die [[court|OBDK]] erhoben werden.

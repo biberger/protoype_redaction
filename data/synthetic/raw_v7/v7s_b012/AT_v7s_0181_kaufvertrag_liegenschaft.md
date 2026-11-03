@@ -74,6 +74,8 @@ III. Treuhand
 
 (4) Die Treuhänder bestätigen den Eingang des Kaufpreises auf dem Treuhandkonto schriftlich. Die Bestätigung ist den Vertragsparteien binnen drei Werktagen zu übermitteln.
 
+(5) Die Treuhänder haben die Identität der Vertragsparteien anhand amtlicher Lichtbildausweise überprüft und die Kopien zum Akt genommen. Die Parteien erteilen hiermit ihre Zustimmung zur Verarbeitung ihrer personenbezogenen Daten für die Zwecke der Vertragsabwicklung und der grundbücherlichen Durchführung. Die Treuhänder sind verpflichtet, die Daten nach Abschluss der Abwicklung nach den gesetzlichen Aufbewahrungsfristen zu verwahren.
+
 IV. Aufsandungserklärung
 
 (1) Die Verkäuferin erteilt hiermit die Aufsandungserklärung zugunsten der Käufer je zur Hälfte ideell und ersucht um Einverleibung des Eigentumsrechts im Grundbuch. Die Aufsandungserklärung ist unwiderruflich und gilt auch für den Fall, dass die Verkäuferin vor der Durchführung verstirbt oder ihre Geschäftsfähigkeit verliert.

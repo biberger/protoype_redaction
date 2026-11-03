@@ -18,6 +18,12 @@ Mitglieder: [[judge|Tajana Tabak]] und [[judge|Dr. Aminah Rafiq]]
 Kammeranwältin: [[person|Mag. Fridoline Weiland]]
 Schriftführerin: [[person|Pernilla Kellner]]
 
+**Verfahrensgang**
+
+Der erstinstanzliche Disziplinarrat hat die Beschuldigte mit Erkenntnis vom [[date|18. September 2025]] schuldig erkannt und eine Geldbuße von € 3.000,00 verhängt. Gegen dieses Erkenntnis wurde am [[date|20. Oktober 2025]] fristgerecht Berufung erhoben. Die Berufungsverhandlung fand nach Anhörung der Parteien am [[date|11. Dezember 2025]] statt.
+
+Der Senat hat die Akten vollständig geprüft. Die Berufung ist nur insoweit berechtigt, als die Geldbuße über das notwendige Maß hinausgeht.
+
 **Spruch**
 
 Der Berufung wird teilweise Folge gegeben. Die Geldbuße wird auf € 2.000,00 herabgesetzt. Im Übrigen wird das Erkenntnis bestätigt. Die Beschuldigte hat die Kosten des Berufungsverfahrens zu tragen.
@@ -49,6 +55,22 @@ Die Kammeranwältin [[person|Mag. Fridoline Weiland]] hat zur Berufung Stellung 
 **Zur Klientin [[person|Ilse Pachernegg]]**
 
 Die Klientin [[person|Ilse Pachernegg]] hat in einer Eingabe vom [[date|20. März 2023]] mitgeteilt, sie habe keine Weisung erteilt. Den Betrag habe sie für den Erwerb einer Wohnung in [[location|Maria Saal]] benötigt, der Kaufvertrag sei jedoch nicht zustande gekommen. Die Eingabe liegt dem Senat in Kopie vor.
+
+**Zum Vorbringen der Beschuldigten zur Umstrukturierung**
+
+Die Beschuldigte hat vorgebracht, die Kanzlei sei nach dem Vorfall in eine Bürogemeinschaft überführt worden, wodurch die Treuhandbuchhaltung nun extern erfolgt. Die Bestätigung des Buchhalters [[person|Mag. Ronald Kubat]] vom [[date|2. Oktober 2025]] liegt vor. Der Senat sieht darin eine Verbesserung der Organisation, die jedoch den Verstoß nicht rückwirkend beseitigt.
+
+**Zur Aktenlage**
+
+Die Akten umfassen die Treuhandbücher für den Zeitraum vom [[date|1. Jänner 2023]] bis zum [[date|31. März 2023]], die Kontoauszüge der Treuhandkonten, die Anzeige der Klientin vom [[date|8. März 2023]] und die Stellungnahme der Beschuldigten vom [[date|28. März 2023]]. Die Aktenlage ist vollständig; weitere Beweise waren nicht zu erheben.
+
+**Zur Kostenentscheidung im Berufungsverfahren**
+
+Die Kostenentscheidung beruht darauf, dass die Berufung nur teilweise erfolgreich war. Der Beschuldigten ist daher ein Teil der Kosten des Berufungsverfahrens zu erstatten; die übrigen Kosten trägt sie selbst.
+
+**Zur Verhältnismäßigkeit der Strafe**
+
+Die Herabsetzung der Geldbuße trägt dem Umstand Rechnung, dass die Beschuldigte nach der Aufdeckung zügig gehandelt und die Treuhandbuchhaltung neu organisiert hat. Eine Geldbuße in der ursprünglich verhängten Höhe würde die wirtschaftliche Lage der Beschuldigten, die seit dem Vorfall nur noch in Teilzeit tätig ist, unverhältnismäßig belasten. Die Verhältnismäßigkeit ist daher gewahrt.
 
 **Rechtliche Beurteilung**
 

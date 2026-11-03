@@ -79,6 +79,22 @@ Die Liegenschaft wird im gegenwärtigen Zustand übergeben. Die Käufer haben de
 
 Die Übergabe erfolgt mit der Kaufpreiszahlung. Ab diesem Zeitpunkt tragen die Käufer Nutzen und Gefahr sowie die öffentlichen Abgaben.
 
+Die Käufer erklären, dass ihnen die Liegenschaft seit der Besichtigung am [[date|20. Februar 2026]] bekannt ist. Bei dieser Besichtigung waren beide Käufer anwesend, ebenso die Verkäuferin [[person|Krämer Lisette]]. Besichtigt wurden das Wohnhaus, die Garage, der Keller und das Grundstück in seinen Grenzen. Eine Begehung des Dachbodens war wegen der Witterungsverhältnisse nicht möglich; insoweit verzichten die Käufer auf Gewährleistungsansprüche.
+
+Die Verkäufer sind verpflichtet, die Wasser- und Stromzähler zum Übergabestichtag abzulesen und die Abrechnung mit dem jeweiligen Versorger selbst vorzunehmen. Die Grundsteuer und die Kanalgebühr tragen bis zum Übergabestichtag die Verkäufer, danach die Käufer.
+
+Die Liegenschaft wurde zuletzt im Jahr 2004 im Grundbuch neu bewertet. Die Grundbuchsabschrift vom [[date|2. März 2026]] weist keine Veränderungen gegenüber dem Stand des Vorjahres aus. Eine Abschrift liegt dem Vertrag bei und ist Bestandteil der Vertragsunterlagen.
+
+Da kein Wohnungseigentum begründet wird, übernehmen die Käufer keine Hausverwaltung und keine Rücklagen. Der Garten wird von den Verkäufern im Frühjahr 2026 für die Übergabe vorbereitet, insbesondere werden Obstbäume geschnitten und der Zaun instand gesetzt.
+
+Die Verkäuferin [[person|Krämer Lisette]] hat in einer gesonderten Erklärung vom [[date|3. März 2026]] bestätigt, dass sie die Liegenschaft nicht mit einem Wohnrecht zugunsten Dritter belastet hat. Diese Erklärung ist dem Vertrag als Beilage angeschlossen.
+
+Die Käufer haben die Kanzlei [[organization|Cerha, Papanek, Brandtner, Schleich]] darauf hingewiesen, dass die Finanzierung durch die [[organization|Oberbank AG]] vor dem Vertragsabschluss zu sichern war. Eine Bankzusage liegt vor und wird im Akt aufbewahrt.
+
+Die Käufer haben zur Kenntnis genommen, dass die Liegenschaft nach einer Auskunft der Gemeinde vom [[date|18. Februar 2026]] nicht in einer Hochwasserabflusszone liegt. Die Vertragsparteien vereinbaren, dass die Verkäufer keine Gewährleistung für die Lage des Gebäudes übernehmen, sofern diese Auskunft zutrifft.
+
+Die Vertragsparteien vereinbaren, dass die Kosten für die Löschung der Dienstbarkeit des Nachbarn an der Garage je zur Hälfte getragen werden. Eine Ablöse der Dienstbarkeit ist nicht vereinbart, da der Nachbar auf sein Nutzungsrecht bereits verzichtet hat.
+
 VII. Schlussbestimmungen
 
 Änderungen und Ergänzungen dieses Vertrages bedürfen der Schriftform. Mündliche Nebenabreden bestehen nicht. Die Vertragsparteien bestätigen, dass sie über die rechtlichen Folgen belehrt wurden, insbesondere über die Bedeutung der Aufsandungserklärung.

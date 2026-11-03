@@ -68,6 +68,18 @@ Ein Pflichtteilsberechtigter hat sich nicht gemeldet. Die Ansprüche auf den Pfl
 
 Die Kosten der Bestattung in Höhe von EUR 5.800,00 wurden von der [[organization|Zeller Bestattung GmbH]] abgerechnet. Die Rechnung wurde der Verlassenschaft am [[date|22.5.2025]] übermittelt und am [[date|27.5.2025]] bezahlt. Die Bestattung wurde nach den Wünschen des Erblassers durchgeführt.
 
+Die Verlassenschaft hat ferner geprüft, ob ein Teil des Nachlasses durch Schenkung an den Erben [[person|Terenc Fila]] übertragen wurde. Eine solche Schenkung wurde nicht festgestellt. Die Überweisung von EUR 4.000,00 im Jahr 2023 wurde vom Erblasser als Darlehen bezeichnet und ist durch eine Quittung belegt, die der Notar in den Akten vorgefunden hat. Die Rückzahlung ist im Vermögensausweis berücksichtigt.
+
+Die Gerichtskommissionsgebühr wird nach dem Wert des Nachlasses berechnet und ist von der Verlassenschaft zu tragen. Der Notar hat die Erben über die Kosten der Abhandlung informiert.
+
+Die Erbin [[person|Brigitte Prettner]] hat ein Gedächtnisprotokoll über die letzten Lebensjahre des Erblassers vorgelegt, das der Notar zu den Akten genommen hat. Daraus geht hervor, dass der Erblasser seit dem Jahr 2019 keine Wertpapiere mehr besaß und seine Ersparnisse auf das Girokonto übertrug. Eine Schenkung an Dritte wurde nicht festgestellt. Der Notar hat die Erben dennoch auf die Möglichkeit einer Anrechnung von Schenkungen nach [[legal_norm|§ 782 ABGB]] hingewiesen.
+
+Die Angehörigen des Erblassers haben die Auflösung der Mietwohnung in [[address|Kirchgasse 8, 5700 Zell am See]] veranlasst. Die Kaution in Höhe von EUR 1.200,00 wurde an die Verlassenschaft ausbezahlt.
+
+Der Pkw des Erblassers wurde auf Wunsch des Erben [[person|Terenc Fila]] verwertet. Der Erlös wurde dem Verlassenschaftskonto gutgeschrieben.
+
+Die Erben wurden am [[date|1. Oktober 2025]] zur Schlussbesprechung geladen. Der Erbe [[person|Terenc Fila]] erschien persönlich, die Erbin [[person|Brigitte Prettner]] ließ sich durch eine Vollmacht vertreten. Der Erbe [[person|Aydoğan Yusuf]] hat schriftlich zugestimmt.
+
 V. Verfahrensstand
 
 Die Schuldenregulierung ist abgeschlossen. Die Erben haben der Einantwortung der Liegenschaften und der Bankguthaben zugestimmt. Die Einantwortung soll nach Eintragung im Grundbuch erfolgen. Der Notar hat den Antrag auf Einverleibung des Eigentumsrechtes für [[person|Terenc Fila]] zur Quote 1/2 vorbereitet.

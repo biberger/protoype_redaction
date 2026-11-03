@@ -54,6 +54,40 @@ III. Der Rechtsanwalt hat die Kosten des Verfahrens zu tragen.
 
 14. Die Ermittlungen zu den Zahlungen an den Dritten sind mit diesem Erkenntnis nicht abgeschlossen. Der Kammeranwalt [[person|Hradil]] wird die Angelegenheit an die zuständige Stelle weiterleiten, sofern sich weitere Anhaltspunkte ergeben. Die Zuständigkeit der [[organization|Melichar KG]] für weitere Schritte bleibt davon unberührt.
 
+15. Zur Verjährung ist festzuhalten, dass die Taten innerhalb der Frist des Disziplinarstatuts liegen. Die Anzeige der Klientin [[person|Baas]] ist am [[date|12. Dezember 2025]] bei der Kammer eingelangt und damit rechtzeitig.
+
+16. Der Beschuldigte [[lawyer|Matych]] hat in seiner Stellungnahme vorgebracht, die Kanzlei sei durch den Ausfall einer Mitarbeiterin im Herbst 2025 überlastet gewesen. Der Senat folgt diesem Vorbringen nur insoweit, als es die Verspätung der Honorarnote erklären kann. Die Verwahrung von Treuhandgeld ist davon nicht berührt, weil sie eine persönliche Pflicht des Rechtsanwalts ist.
+
+17. Die [[organization|Melichar KG]] hat in einer schriftlichen Erklärung vom [[date|8. Jänner 2026]] mitgeteilt, dass sie den Kaufvertrag über die Liegenschaft nicht abgeschlossen hat und an der Abwicklung nicht weiter festhält. Die Erklärung wurde im Verfahren verlesen und hat den Senat in seiner Würdigung bestärkt, dass die Zahlungen ohne tragfähige Grundlage erfolgt sind.
+
+18. Der Kammeranwalt [[person|Hradil]] hat zur Bemessung der Geldbuße angemerkt, dass eine Buße in Höhe von mehr als EUR 5.000,00 bei vergleichbaren Fällen nur bei wiederholter Verletzung verhängt worden sei. Der Senat teilt diese Einschätzung und bleibt mit der Buße unter dieser Grenze.
+
+19. Die Beschwerdeführerin [[person|Baas]] hat in der mündlichen Verhandlung erklärt, dass sie nach der Anzeige keinen Schadenersatz verlangt, sondern eine klare Feststellung des Fehlverhaltens wünscht. Der Senat hat dies zur Kenntnis genommen.
+
+20. Die Kontobewegungen des Anderkontos im Zeitraum vom [[date|4. November 2025]] bis zum [[date|9. Jänner 2026]] stellen sich wie folgt dar:
+
+Datum | Vorgang | Betrag
+[[date|4. November 2025]] | Eingang Kaufpreisanzahlung [[organization|Melichar KG]] | EUR 46.000,00
+[[date|11. November 2025]] | Auszahlung an einen Dritten | EUR 12.000,00
+[[date|20. November 2025]] | Umbuchung auf das Geschäftskonto | EUR 5.500,00
+[[date|9. Jänner 2026]] | Nachreichung der Honorarnote (Ausweis) | EUR 3.900,00
+
+21. Der Senat weist darauf hin, dass die Verpflichtung zur Trennung von Treuhandgeldern unabhängig vom Umfang des Mandats besteht. Auch kleinere Beträge sind vollständig und zeitnah zu dokumentieren, um den Anschein einer Vermischung zu vermeiden. Die Kanzlei des Beschuldigten hat diese Anforderung bislang nicht erfüllt; daraus ergibt sich eine besondere Verantwortung, die bei der Bemessung berücksichtigt wurde.
+
+22. Die Berufungsbelehrung ist beigelegt. Die Berufung ist binnen vier Wochen bei der Kammer einzubringen und hat keine aufschiebende Wirkung hinsichtlich der Kostenentscheidung.
+
+23. Zu den einzelnen Buchungen ist ergänzend festzuhalten, dass die Zahlung vom [[date|11. November 2025]] keine Rechnungsnummer trug und keine Quittung ausgestellt wurde. Der Beschuldigte konnte den Empfänger nur mit dem Vornamen angeben, eine Überweisung auf ein Konto des Empfängers liegt nicht vor. Diese Umstände verstärken den Eindruck, dass die Zahlung nicht ordnungsgemäß dokumentiert wurde.
+
+24. Die [[organization|Melichar KG]] hat ihr Vorbringen im Verfahren durch eine Aufstellung der Rechtsgeschäfte ergänzt. Daraus ergibt sich, dass die Gesellschaft an keiner Provisionsvereinbarung beteiligt war. Der Senat hat diese Aufstellung als Beweis gewürdigt.
+
+25. Der Senat hat bei der Strafbemessung auch berücksichtigt, dass der Beschuldigte die Rechte der Klientin nicht beschränkt hat und ihren Anträgen auf Akteneinsicht zeitgerecht entsprochen hat. Dieser Umstand wirkt sich mildernd aus, ändert aber nichts an der Verletzung der Trennungspflicht.
+
+26. Die Verhandlung dauerte insgesamt drei Stunden. Der Beschuldigte [[lawyer|Matych]] wurde zu den einzelnen Buchungen befragt und erläuterte die Rechnungslegung der Kanzlei. Auf die Frage, warum die Honorarnote erst nach der Anzeige erstellt wurde, gab er an, er habe die Note bis zur Klärung der Zahlungsfrage zurückgehalten. Der Senat hat diese Erklärung nicht als ausreichende Rechtfertigung angesehen, da das Honorar jederzeit hätte abgerechnet werden können.
+
+27. Der Kammeranwalt [[person|Hradil]] hat in seinem Schlussvortrag auf die Gefahr hingewiesen, dass Treuhandbeträge in Krisenzeiten einer Kanzlei als Liquiditätsreserve missbraucht werden. Der Senat teilt diese Sorge, sieht im vorliegenden Fall aber keinen Hinweis auf eine finanzielle Notlage der Kanzlei.
+
+28. Die Protokollführung erfolgte durch den Schriftführer [[person|Indzhov]]. Das Protokoll wurde dem Beschuldigten und dem Kammeranwalt vor Abschluss der Verhandlung vorgelesen, Einwendungen wurden keine erhoben.
+
 Für den Senat
 
 Der Vorsitzende: Senatspräsident [[judge|MMag. Grigory Graber]]

@@ -34,7 +34,7 @@ Käufer:
 | [[person|Marte Sigl]] | Geburtsdatum: [[date_of_birth|1969-09-06]] | [[address|Bahnhofstraße 4, 8940 Liezen]] |
 | [[person|Ghada Ali]] | Geburtsdatum: [[date_of_birth|1. Februar 1982]], StA: [[country|Kroatien]] | [[address|Ischlerstraße 40, 4820 Bad Ischl]] |
 
-Die Verkäufer und die Käufer werden im Folgenden gemeinsam als „Vertragsparteien“ bezeichnet. Die [[organization|Ennstal Wohnbau]] (im Folgenden „[[organization|EWB]]“) ist Eigentümerin des Gebäudes, das auf dem Grundstück errichtet wurde.
+Das Grundstück wurde von [[person|Mathias Speckbacher]] geerbt und ist seit dem Jahr 2019 in seinem Eigentum. Die Verkäufer und die Käufer werden im Folgenden gemeinsam als „Vertragsparteien“ bezeichnet. Die [[organization|Ennstal Wohnbau]] (im Folgenden „[[organization|EWB]]“) ist Eigentümerin des Gebäudes, das auf dem Grundstück errichtet wurde.
 
 **2. VORBEMERKUNGEN**
 
@@ -105,6 +105,10 @@ Die Liegenschaft liegt in der Gemeinde [[location|St. Gilgen]] und ist als Baula
 6.2 Erfüllungsort ist der Sitz der Kanzlei in [[location|Annaberg-Lungötz]].
 
 6.3 Die Vertragsparteien haben den Vertrag gelesen und erklären, dass er ihrem Willen entspricht.
+
+6.4 Alle Mitteilungen zwischen den Vertragsparteien erfolgen schriftlich an die im Vertrag genannten Anschriften. Eine Änderung der Anschrift ist der Kanzlei unverzüglich bekanntzugeben. Mitteilungen per E-Mail gelten erst nach Bestätigung des Empfangs als zugegangen.
+
+6.5 Dieser Vertrag wird in fünf gleichlautenden Ausfertigungen errichtet, wovon je ein Stück den Vertragsparteien, eines dem Grundbuchsgericht und eines der Kanzlei verbleibt. Die Kosten der Ausfertigungen trägt der Käufer. Ein Exemplar wird der Hausverwaltung zur Kenntnis übermittelt. Das Original verbleibt bei der Kanzlei.
 
 [[location|Annaberg-Lungötz]], am [[date|02.06.2026]]
 

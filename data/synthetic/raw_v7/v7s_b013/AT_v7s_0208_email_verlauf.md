@@ -56,7 +56,7 @@ Betreff: AW: AW: Kaufpreisklage beim [[court|Bezirksgericht Hernals]]
 
 Sehr geehrter Herr [[person|Strobel]],
 
-die [[organization|FMB]] bestreitet den Zahlungsverzug. [[organization|Feldmann Metallbau]] hat dazu erklärt, dass die Halle wegen eines Dachschadens nicht vollständig nutzbar war. Die Abnahme der Halle hat laut Protokoll vom [[date|03.09.2025]] stattgefunden; die Mängel wurden bis dahin behoben. Herr [[person|Kurz]] ist Prokurist der [[organization|FMB]] und wird bei der Verhandlung anwesend sein.
+die [[organization|FMB]] bestreitet den Zahlungsverzug. [[organization|Feldmann Metallbau]] hat dazu erklärt, dass die Halle wegen eines Dachschadens nicht vollständig nutzbar war. Die Abnahme der Halle hat laut Protokoll vom [[date|03.09.2025]] stattgefunden; die Mängel wurden bis dahin behoben. Herr [[person|Kurz]] ist Prokurist der [[organization|FMB]] und wird bei der Verhandlung anwesend sein. Die Bauaufsicht hat [[person|Dipl.-Ing. Sindy Popper]] geführt, die das Protokoll unterzeichnet hat und ebenfalls als Zeugin geladen werden soll.
 
 Mit freundlichen Grüßen
 [[person|Ignatz Kurz]]
@@ -70,7 +70,7 @@ Betreff: AW: AW: AW: Kaufpreisklage beim [[court|Bezirksgericht Hernals]]
 
 Sehr geehrter Herr [[person|Kurz]],
 
-ich nehme zur Kenntnis, dass die [[organization|FMB]] das Protokoll vom [[date|03.09.2025]] für richtig hält. Die Verhandlung beim [[court|BG Hernals]] findet am [[date|17.06.2026]] statt. Wir ersuchen um Übermittlung der Zahlungsbelege bis zur Verhandlung, insbesondere der Überweisungen, mit denen die [[organization|FMB]] die Rate vom Herbst 2025 bezahlt haben will.
+ich nehme zur Kenntnis, dass die [[organization|FMB]] das Protokoll vom [[date|03.09.2025]] für richtig hält. Die Verhandlung beim [[court|BG Hernals]] findet am [[date|17.06.2026]] statt. Es ist mit einer längeren Verhandlung zu rechnen, weil beide Parteien Zeugen namhaft gemacht haben. Bitte bestätigen Sie mir den Eingang dieser Nachricht. Herzlichen Dank. Danke. Wir ersuchen um Übermittlung der Zahlungsbelege bis zur Verhandlung, insbesondere der Überweisungen, mit denen die [[organization|FMB]] die Rate vom Herbst 2025 bezahlt haben will.
 
 Mit freundlichen Grüßen
 [[person|Strobel]]

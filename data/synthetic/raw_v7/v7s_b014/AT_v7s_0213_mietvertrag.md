@@ -65,11 +65,23 @@ IBAN: [[bank_account|AT77 5013 1144 0828 8139]]
 
 17. Die Vermieterin hat den Zählerstand für Strom, Gas und Wasser am Übergabetag protokolliert. Die Zählernummern sind im Übergabeprotokoll festgehalten.
 
+18. Die Mieterin hat die Wohnung in dem Zustand übernommen, in dem sie sich am Übergabetag befindet. Mängel, die bei der Übergabe erkennbar waren, sind im Übergabeprotokoll festzuhalten. Spätere Mängel hat die Mieterin der Vermieterin unverzüglich schriftlich anzuzeigen; andernfalls kann sie daraus keine Ansprüche ableiten.
+
+19. Die Vermieterin verpflichtet sich, die Wohnung während der Mietdauer in einem brauchbaren Zustand zu erhalten. Bauliche Veränderungen durch die Mieterin, insbesondere das Versetzen von Wänden oder der Einbau einer Küche mit Wasseranschluss, bedürfen der Zustimmung der Vermieterin. Die Vermieterin hat die Mieterin auf die Notwendigkeit einer regelmäßigen Lüftung hingewiesen, um Schimmelbildung in den Wohnräumen zu vermeiden.
+
+20. Die Mieterin nimmt zur Kenntnis, dass die Vermieterin die Liegenschaft im Zuge einer Sanierung der Fassade einer umfassenden Erhaltungsarbeit unterziehen kann. Die Mieterin hat hierfür den Zugang zur Wohnung zu gewähren und die Minderung des Mietzinses nach den gesetzlichen Bestimmungen hinzunehmen.
+
 **VII. Schlussbestimmungen**
 
-18. Änderungen und Ergänzungen dieses Vertrags bedürfen der Schriftform. Mündliche Nebenabreden bestehen nicht.
+21. Änderungen und Ergänzungen dieses Vertrags bedürfen der Schriftform. Mündliche Nebenabreden bestehen nicht.
 
-19. Die Mieterin nimmt zur Kenntnis, dass die Vermieterin Unterlagen über den Mietgegenstand in den Grundbuchsauszügen der Liegenschaft einsieht. Die Parteien erklären, dass sie den Vertrag gelesen und verstanden haben.
+22. Die Mieterin nimmt zur Kenntnis, dass die Vermieterin Unterlagen über den Mietgegenstand in den Grundbuchsauszügen der Liegenschaft einsieht. Die Parteien erklären, dass sie den Vertrag gelesen und verstanden haben.
+
+22a. Die Vermieterin bestätigt, dass für das Haus eine aufrechte Haftpflicht- und Feuerversicherung besteht. Die Kosten dieser Versicherung sind Bestandteil der Betriebskosten und werden nach Maßgabe der Abrechnung weiterverrechnet. Die Mieterin ist verpflichtet, eine Haushaltsversicherung abzuschließen, die Schäden durch Wasser und Feuer an ihrem Eigentum abdeckt.
+
+23. Die Parteien vereinbaren ergänzend, dass die Vermieterin dem Mieter die Hausschlüssel übergibt und dass Änderungen der Anschrift oder der Kontoverbindung unverzüglich mitzuteilen sind. Sollte eine Bestimmung dieses Vertrags unwirksam sein, bleibt der Vertrag im Übrigen gültig. Die Parteien verpflichten sich, die unwirksame Bestimmung durch eine wirksame zu ersetzen, die dem wirtschaftlichen Zweck am nächsten kommt.
+
+Anlagen: Hausordnung, Übergabeprotokoll, Energieausweis, Lageplan des Hauses.
 
 Ort und Datum: [[address|2224 Sulz im Weinviertel]], am [[date|14. November 2026]]
 

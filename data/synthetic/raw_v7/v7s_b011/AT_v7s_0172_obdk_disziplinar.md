@@ -53,7 +53,7 @@ Der Senat stützt die Feststellungen auf das Treuhandbuch, die Kontoauszüge der
 
 Die Erkrankung der Disziplinarbeschuldigten ist durch ein ärztliches Attest für den Zeitraum vom [[date|1. Oktober 2025 bis 31. Dezember 2025]] nachgewiesen. Der Senat hält sie für die Verzögerung der Verbuchung der Auszahlung vom [[date|9.10.2025]] für bedeutsam, nicht jedoch für die Auszahlung des Honorars im Jänner 2026.
 
-Die Aussage des Kammeranwalts [[person|Dimitriadis]] zum Umfang der Prüfung war sachlich. Der Senat hat die Akten vollständig gewürdigt.
+Die Aussage des Kammeranwalts [[person|Dimitriadis]] zum Umfang der Prüfung war sachlich. Der Senat hat die Akten vollständig gewürdigt. Die Mandantin [[person|Zweig]] hat dem Kammeranwalt die Zahlungsbelege persönlich übergeben.
 
 IV. Rechtliche Beurteilung
 
@@ -70,6 +70,10 @@ Zur Frage der Kontoführung hat die Disziplinarbeschuldigte in der mündlichen V
 Die Mandantin [[person|Zweig]] hat in der Verhandlung ergänzt, dass sie die Auszahlung von EUR 7.000,00 nur nach einer schriftlichen Mahnung ihres neuen Vertreters erhalten habe. Der neue Vertreter, Rechtsanwalt [[lawyer|Dr. Pirkl]], hat die Abrechnung am [[date|10. Februar 2026]] eingefordert. Die Abrechnung wurde erst am [[date|27. Februar 2026]] übermittelt und enthielt die Positionen Gerichtsgebühren und Honorar in der Höhe von EUR 14.500,00 ohne Einzelnachweis.
 
 Der Senat hält fest, dass die Verspätung der Abrechnung nicht allein auf die Erkrankung der Disziplinarbeschuldigten zurückzuführen ist. Die Abrechnung hätte nach der Auszahlung des Honorars unverzüglich erfolgen müssen.
+
+Die Kammeranwaltschaft hat die Anzeige auch auf die Vorschriften über die Kontoführung gestützt. Der Senat folgt dieser Argumentation, soweit das Konto bei der [[organization|TSA]] für Klientengelder genutzt wurde. Soweit die Disziplinarbeschuldigte vorbringt, das Konto habe ausschließlich private Zwecke erfüllt, ist dies durch die Kontobewegungen nicht belegt. Die Gutschrift vom [[date|30. Juni 2025]] stammt nach dem Zahlungsvermerk aus einer Mandatszahlung.
+
+Ergänzend ist festzuhalten, dass die Gutschrift im Treuhandbuch nicht verbucht wurde, obwohl die Mandantin [[person|Zweig]] im Herbst 2025 mehrfach nach dem Stand gefragt hatte.
 
 V. Strafbemessung
 

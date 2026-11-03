@@ -20,6 +20,10 @@ Schriftführerin: [[person|Ing. Magdaléna Kovářová]], *[[date_of_birth|1961-
 Kammeranwalt: [[person|Dr. Falk Helmberger]]
 Beschuldigter: [[lawyer|Hansel Spreitzer]]
 
+**Verfahrensgang**
+
+Die Anzeige der Klienten ging am [[date|11. Mai 2024]] bei der Kammer ein. Die Kammeranwaltschaft erhob am [[date|10. Februar 2025]] die Anschuldigung. Der Beschuldigte hat sich in einer schriftlichen Stellungnahme vom [[date|14. März 2025]] verantwortet. Der Senat hat die Akten vollständig geprüft und die mündliche Verhandlung am [[date|24. Juni 2025]] durchgeführt.
+
 **Spruch**
 
 Der Beschuldigte [[lawyer|Hansel Spreitzer]] hat die ihm übertragenen Treuhandgelder nicht ordnungsgemäß verwaltet und dadurch seine Berufspflichten verletzt. Er wird daher mit einer Geldbuße von € 3.000,00 bestraft und hat die Kosten des Verfahrens zu tragen.
@@ -54,6 +58,18 @@ Der Kammeranwalt [[person|Dr. Falk Helmberger]] hat in der Verhandlung beantragt
 2. Die Klienten [[person|Galli Liebermann]] und [[person|Ante Goldstein]] wurden als Zeugen vernommen.
 3. Der Beschuldigte verzichtete auf weitere Beweisanträge.
 4. Nach Beratung des Senats wurde das Erkenntnis verkündet.
+
+**Zu den Schäden der Klienten**
+
+Die Klienten [[person|Galli Liebermann]] und [[person|Ante Goldstein]] haben einen Vermögensschaden von € 6.300,00 geltend gemacht, der aus Verzugszinsen und den Kosten für eine Neuberechnung des Kaufpreises besteht. Der Beschuldigte hat den Betrag inzwischen an die Klienten überwiesen. Schadenersatzansprüche sind nicht Gegenstand des disziplinarrechtlichen Verfahrens.
+
+**Mildernde und erschwerende Umstände**
+
+Mildernd wirkt die bisherige Unbescholtenheit des Beschuldigten, seine Kooperationsbereitschaft nach Aufdeckung der Vorgänge und die Rückzahlung der Beträge. Erschwerend wirkt, dass zwei Treuhandschaften betroffen waren und die Verstöße über einen längeren Zeitraum erfolgten. Die Geldbuße dient auch der Generalprävention, weil die Pflichten der Treuhandverwaltung im Berufsstand deutlich zu beachten sind.
+
+**Zur Glaubwürdigkeit der Klienten**
+
+Die Angaben der Klienten [[person|Galli Liebermann]] und [[person|Ante Goldstein]] sind widerspruchsfrei und stimmen mit den Kontoauszügen überein. Der Senat sieht keinen Anlass, an ihrer Glaubwürdigkeit zu zweifeln, zumal sie die Vorgänge zeitnah geschildert haben.
 
 **Rechtliche Beurteilung**
 

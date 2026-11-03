@@ -83,7 +83,25 @@ V. Strafbemessung
 
 Der Strafrahmen reicht bis zu einer Geldbuße von EUR 20.000,00. Der Senat bemisst die Geldbuße mit EUR 7.500,00. Ein Berufsverbot war nicht zu verhängen, weil die Verstöße auf eine organisatorische Lücke zurückzuführen sind, die inzwischen behoben wurde.
 
-Der Senat hat die Verfahrenskosten nach den Richtlinien des Disziplinarrates bemessen. Sie umfassen die Kosten des Senats, die Reisekosten der Zeugen und die Kosten der Kammeranwaltschaft.
+Der Senat hat die Verfahrenskosten nach den Richtlinien des Disziplinarrates bemessen.
+
+V a. Ergänzende Beweiswürdigung
+
+Der Senat hat den Kontoverlauf des Treuhandkontos von Jänner 2023 bis Dezember 2024 vollständig ausgewertet. Dabei fiel auf, dass die Zahlung vom [[date|09.01.2024]] zunächst auf dem falschen Unterkonto verbucht und erst am [[date|22.01.2024]] korrigiert wurde. Die Korrektur ist im Kontoauszug vermerkt, aber nicht im Treuhandbuch.
+
+Die Klientin [[person|Caraiani]] hat in der Verhandlung vorgebracht, dass sie von der Auszahlung an den Klienten [[person|Alivizatos]] nichts erfahren habe. Der Senat wertet dies als Beleg dafür, dass die Abrechnung unterblieben ist. Der Klient [[person|Alivizatos]] bestätigte, dass er die Zahlung vom [[date|21.03.2023]] zwar erhalten, aber nicht bestätigt habe.
+
+Die Schriftführerin [[person|Džemaili Kolaković]] hat die Abweichungen zwischen dem Treuhandbuch und dem Kontoauszug in einer Tabelle festgehalten, die dem Akt beiliegt. Der Senat hat die Tabelle als Beweismittel verwertet.
+
+Der Beschuldigte hat in seinem letzten Wort um Milde gebeten und erklärt, dass er künftig jede Auszahlung mit einer zweiten Person freigeben werde. Der Senat hat diese Zusage zur Kenntnis genommen, sie aber nicht als Entschuldigung gewertet.
+
+Der Senat hat ferner geprüft, ob der Beschuldigte bereits früher disziplinarrechtlich aufgefallen ist. Im Register des Disziplinarrates ist für den Beschuldigten keine frühere Entscheidung verzeichnet. Eine Verwarnung aus dem Jahr 2016 wegen verspäteter Beitragszahlung zur Kammer wurde nicht als einschlägig bewertet.
+
+Die Verteidigung hat in der Verhandlung beantragt, das Verfahren einzustellen, weil die Betroffenen die Beträge vollständig erhalten hätten. Der Senat hat den Antrag abgewiesen. Eine Einstellung setzt voraus, dass die Pflichtverletzung geringfügig war; dies war bei mehreren Auszahlungen ohne Deckung nicht der Fall.
+
+Der Beschuldigte hat ferner vorgebracht, dass die Kanzlei nach der Erkrankung nur noch mit einem Teil der bisherigen Kapazität arbeite. Der Senat hat dies als Umstand gewürdigt, der die Schuld nicht ausschließt. Die Einzelheiten der Kanzleiorganisation sind für die Bemessung der Geldbuße nur am Rand von Bedeutung.
+
+Die Treuhandkonten wurden im Lauf des Verfahrens durch eine externe Buchprüfung untersucht. Das Ergebnis der Prüfung, datiert vom [[date|10.11.2025]], bestätigt die Unstimmigkeiten in den Jahren 2023 und 2024, enthält jedoch keine Hinweise auf weitere Fehlbuchungen. Sie umfassen die Kosten des Senats, die Reisekosten der Zeugen und die Kosten der Kammeranwaltschaft.
 
 VI. Rechtsmittel
 

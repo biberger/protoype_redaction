@@ -56,6 +56,8 @@ die Sachverständige [[person|Ing. Ronja Lind]] kann am [[date|20. Oktober 2026]
 
 Die Berufungsschrift muss bis zum [[date|12. Oktober 2026]] beim [[court|OLG Graz]] eingelangt sein. Bitte prüfen Sie, ob die Frist eingehalten werden kann.
 
+[[person|Ing. Lind]] verlangt für das Gutachten ein Honorar von EUR 480,00 netto; das müssen wir mit der Mandantin abstimmen, bevor wir den Auftrag erteilen.
+
 LG
 [[person|Tania Alaba]]
 Kanzleimitarbeiterin
@@ -72,6 +74,8 @@ Betreff: AW: Mietzinserhöhung, UZ: [[other_identifier|671/25 R]]
 Sehr geehrte Frau [[person|Khalifa]],
 
 die Berufung wird am [[date|9. Oktober 2026]] beim [[court|Oberlandesgericht Graz]] eingebracht. Wir haben den Eigenbedarf der [[organization|WHK]] bestritten und die Ortsbesichtigung beantragt.
+
+Die Kosten des Gutachtens übernehmen wir zunächst aus dem Kanzleikonto und stellen sie im Falle des Obsiegens in Rechnung. Bitte geben Sie uns bis morgen Rückmeldung, ob Frau [[person|Khalifa]] den Termin bestätigen kann.
 
 Wir weisen darauf hin, dass die Berufungsfrist mit der Zustellung des Urteils am [[date|25. September 2026]] zu laufen begonnen hat. Die Berufung wurde daher fristgerecht vorbereitet; die Frist endet am [[date|12. Oktober 2026]].
 

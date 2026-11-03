@@ -61,7 +61,7 @@ Der Anspruch auf Ersatz des Sachschadens von EUR 9.300,00 und des entgangenen Nu
 
 Zur Schadenshöhe ist festzuhalten, dass der Sachschaden die Wiederherstellung des Kellerbodens, die Trocknung der Außenwand und den Austausch der Elektroinstallation umfasst. Die Kostenvoranschläge der Fachfirmen vom [[date|15. Juni 2026]] und vom [[date|22. Juni 2026]] liegen bei. Der entgangene Nutzen besteht darin, dass die Klägerin den Keller über mehrere Monate nicht als Lager nutzen konnte und zusätzliche Lagerkosten in Höhe von EUR 1.200,00 monatlich aufwenden musste.
 
-Die Ansprüche sind nicht verjährt. Der Schaden ist im Juni 2026 eingetreten, die Klage wurde innerhalb der dreijährigen Frist des [[legal_norm|§ 1489 ABGB]] eingebracht. Die Kenntnis vom Schaden und vom Schädiger lag der Klägerin erst nach dem Gutachten vor, das am [[date|30. September 2026]] erstellt wurde.
+Die Ansprüche sind nicht verjährt, auch wenn die Beklagten die Verjährung einwenden sollten. Der Schaden ist im Juni 2026 eingetreten, die Klage wurde innerhalb der dreijährigen Frist des [[legal_norm|§ 1489 ABGB]] eingebracht. Die Kenntnis vom Schaden und vom Schädiger lag der Klägerin erst nach dem Gutachten vor, das am [[date|30. September 2026]] erstellt wurde.
 
 Die Beklagten können sich nicht auf die Bewilligung der Baubehörde berufen, weil diese die Einhaltung privatrechtlicher Pflichten gegenüber den Nachbarn nicht ersetzt. Eine Haftungsbefreiung nach [[legal_norm|§ 1302 ABGB]] liegt nicht vor, weil kein Umstand eingetreten ist, der den Schaden von den Beklagten abwendbar gemacht hätte.
 
@@ -93,7 +93,7 @@ und die Kosten des Verfahrens zu ersetzen.
 
 Die Klägerin ersucht um eine mündliche Verhandlung. Die Gerichtsgebühren wurden mit der Eingabe entrichtet. Das Verfahren ist beim [[court|BG Schärding]] zu führen, weil der Schaden im Sprengel dieses Gerichtes eingetreten ist und die Liegenschaft dort liegt.
 
-Die Klägerin behält sich vor, die Klage nach Vorliegen des Gutachtens um die Kosten der Sanierung zu erweitern. Die Beklagten werden aufgefordert, bis zur Tagsatzung die Bauunterlagen und den Bauvertrag vorzulegen. Die Klägerin ist bereit, die Liegenschaft zur Besichtigung zur Verfügung zu stellen.
+Die Klägerin behält sich vor, die Klage nach Vorliegen des Gutachtens um die Kosten der Sanierung zu erweitern und die Höhe des Anspruchs entsprechend anzupassen. Die Beklagten werden aufgefordert, bis zur Tagsatzung die Bauunterlagen und den Bauvertrag vorzulegen. Die Klägerin ist bereit, die Liegenschaft zur Besichtigung zur Verfügung zu stellen, und ersucht um Terminvorschlag des Gerichtes.
 
 [[location|Kallham]], am [[date|12.10.2026]]
 

@@ -63,6 +63,8 @@ V. Kosten
 
 10. Die Klägerin begehrt den Ersatz der Verfahrenskosten nach [[legal_norm|§ 41 Abs 1 ZPO]]. Die Pauschalgebühr wurde entrichtet und ist durch die elektronische Zahlungsbestätigung belegt.
 
+Die Klägerin ersucht, bei der Entscheidung über die Kosten zu berücksichtigen, dass die Beklagte die außergerichtliche Zahlung ohne sachlichen Grund verweigert hat. Ein Kostenersatz in voller Höhe ist daher gerechtfertigt. Die Klägerin hat die Beklagte mit Schreiben vom [[date|18.06.2026]] zur Zahlung aufgefordert und dafür eine Frist von vier Wochen gesetzt.
+
 Beilagen:
 ./A Kaufvertrag vom [[date|03.04.2025]]
 ./B Schreiben vom [[date|18.06.2026]]

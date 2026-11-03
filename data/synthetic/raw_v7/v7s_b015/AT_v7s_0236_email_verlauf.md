@@ -26,7 +26,7 @@ Sehr geehrter Herr [[person|Nitsche]],
 
 wir danken für Ihr Schreiben. Die [[organization|Stangl Handels GmbH]] hält an der Forderung fest, die Lieferung wurde am [[date|7. Juli 2025]] vollständig übergeben. Die Mängelrüge kam erst am [[date|5. September 2025]], also nach Ablauf der Rügefrist.
 
-Wir sind bereit, einen Teil der Forderung in Höhe von EUR 4.200,00 nachzulassen, wenn die Restzahlung bis zum [[date|30. November 2026]] erfolgt. Die Zahlung ist auf das Treuhandkonto unserer Kanzlei zu leisten, Bankverbindung wie in der Kopfzeile angegeben. Eine Verzinsung der Forderung nach dem Unternehmensgesetzbuch wird nicht verlangt, wenn die Zahlung fristgerecht eingeht. Sollte die Zahlung nicht eingehen, werden wir ohne weitere Ankündigung das gerichtliche Mahnverfahren einleiten. Wir ersuchen Sie daher, die Angelegenheit mit Ihrer Mandantin zeitnah zu besprechen und uns bis zum [[date|6. November 2026]] eine Rückmeldung zu geben, ob das Angebot angenommen wird.
+Wir sind bereit, einen Teil der Forderung in Höhe von EUR 4.200,00 nachzulassen, wenn die Restzahlung bis zum [[date|30. November 2026]] erfolgt. Die Zahlung ist auf das Treuhandkonto unserer Kanzlei zu leisten, Bankverbindung wie in der Kopfzeile angegeben. Eine Verzinsung der Forderung nach dem [[legal_norm|Unternehmensgesetzbuch]] wird nicht verlangt, wenn die Zahlung fristgerecht eingeht. Sollte die Zahlung nicht eingehen, werden wir ohne weitere Ankündigung das gerichtliche Mahnverfahren einleiten. Wir ersuchen Sie daher, die Angelegenheit mit Ihrer Mandantin zeitnah zu besprechen und uns bis zum [[date|6. November 2026]] eine Rückmeldung zu geben, ob das Angebot angenommen wird.
 
 Mit freundlichen Grüßen
 
@@ -78,7 +78,7 @@ Liebe Frau [[person|Bruck]],
 
 anbei die Unterlagen zur Lieferung an die [[organization|Stangl Handels GmbH]]. Ich habe die Lieferscheine und die Zahlungsbelege zusammengestellt. Die Rechnung weist eine Gutschrift vom [[date|19. August 2025]] aus, die nicht berücksichtigt wurde.
 
-Der Mandant führt bei uns die Kl.-Nr. [[other_identifier|64340]]. Bitte rufen Sie mich unter der Nummer [[phone_number|05572 582219-7]] zurück.
+Der Mandant führt bei uns die Kl.-Nr. [[other_identifier|64340]]. Die Belege sind im Anhang beigefügt und enthalten die Lieferscheine der beiden Teillieferungen samt den Übernahmebestätigungen des Lagers. Bitte rufen Sie mich unter der Nummer [[phone_number|05572 582219-7]] zurück.
 
 Beste Grüße
 [[person|Klemens Menasse]]

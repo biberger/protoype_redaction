@@ -21,6 +21,8 @@ Betreff: Liegenschaft [[land_register_id|EZ: 1295]] [[land_register_id|GB Raning
 
 Sehr geehrte Frau [[person|Gyárfás]],
 
+Die Eigentümerin der Liegenschaft ist die [[organization|Sitter Immobilien GmbH]] ([[company_register_number|FN 53445x]], UID [[tax_id|ATU97465224]]). Die Gesellschaft wird durch ihre Geschäftsführung vertreten.
+
 wir berichten Ihnen über den Stand der Mietzinsangelegenheit des Herrn [[person|JAKOB Arnost]]. Die Wohnung im Objekt der Liegenschaft wird von Herrn [[person|Arnost Jakob]] seit dem Jahr 2019 genutzt. Der Mietvertrag ist unbefristet.
 
 Die [[organization|SITTER IMMOBILIEN GMBH]] hat mit Schreiben vom [[date|3. Juli 2025]] die Mietzinsanpassung angekündigt. Herr [[person|Jakob]] hat die Anpassung abgelehnt und auf die bisherige Vereinbarung verwiesen. Wir ersuchen Sie daher, die Berechnung bis zum Monatsende vorzulegen.
@@ -36,6 +38,10 @@ Wir dürfen Ihnen mitteilen, dass die Rückstände aus der Betriebskostenabrechn
 Die Abrechnung weist zugleich ein Guthaben von € 318,40 aus. Dieses kann mit dem offenen Mietzins verrechnet werden, soweit die Vermieterin dem zustimmt. Eine einseitige Verrechnung durch die Mietpartei ist nicht vorgesehen.
 
 Wir ersuchen Sie, die Unterlagen der Hausverwaltung bis Monatsende zu übermitteln. Wir werden anschließend die weitere Vorgangsweise mit Ihnen abstimmen.
+
+Beigelegt übersenden wir Ihnen die Betriebskostenabrechnung, die Zahlungserinnerung und die Kopie des Mietvertrages vom [[date|1. Mai 2019]]. Die Unterlagen sind vollständig. Bei Rückfragen steht Ihnen unser Büro während der Geschäftszeiten zur Verfügung.
+
+Zur Vorbereitung eines allfälligen Vergleichs bitten wir um Mitteilung, ob die Vermieterin einer Ratenzahlung zustimmt. Ein Vorschlag könnte in Monatsraten zu € 120,00 erfolgen. Wir bitten um Rückmeldung bis [[date|31. August 2025]].
 
 Mit freundlichen Grüßen
 

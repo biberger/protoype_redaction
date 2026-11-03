@@ -101,3 +101,18 @@ Herr [[person|Frolík]] hat mir am Telefon mitgeteilt, dass er den Unfall bedaue
 Mit freundlichen Grüßen
 [[person|DI Ligiana Juvara]]
 
+**Nachricht 6**
+
+Von: [[person|Mag. Ester Muchitsch]] <[[email|muchitsch@witt.at]]>
+Gesendet: Donnerstag, [[date|26. Juni 2025]] 09:31
+An: [[person|DI Ligiana Juvara]] <[[email|l.juvara@gmx.at]]>
+Cc: [[person|Klementina Strnad]]
+Betreff: AW: Schaden-Nr. [[other_identifier|71/983941/24]]
+
+Sehr geehrte Frau [[person|DI Juvara]],
+
+die [[organization|CG]] hat den Betrag von € 2.150,00 mit Schreiben vom heutigen Tag angewiesen. Die Anspruchsnummer lautet laut Mitteilung von [[person|Pillinger]] wie vereinbart. Bitte bestätigen Sie den Eingang.
+
+Mit freundlichen Grüßen
+[[person|Mag. Ester Muchitsch]]
+

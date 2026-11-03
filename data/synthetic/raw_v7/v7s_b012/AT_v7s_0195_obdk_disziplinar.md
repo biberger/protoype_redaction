@@ -51,6 +51,8 @@ III. Beweiswürdigung
 
 Der Senat stützt sich auf die Kontoauszüge, das Treuhandbuch und die Aussagen der Klientinnen. Die Angaben der Klientinnen sind glaubwürdig, weil sie mit den Urkunden übereinstimmen.
 
+Die Klientin [[person|Steinbach]] hat zusätzlich eine Aufstellung vorgelegt, in der jede Zahlung mit Datum und Betrag verzeichnet ist. Die Aufstellung stimmt mit den Kontoauszügen überein, sodass der Senat ihr folgt. Die Klientin [[person|Bohatsch]] hat die Abrechnung hingegen nicht erhalten, weil der Beschuldigte sie erst nach einer Mahnung übermittelte.
+
 Der Beschuldigte hat die Entnahmen in der Verhandlung zugestanden und erklärt, er sei davon ausgegangen, dass ihm das Honorar zustehe. Diese Annahme ist nicht vertretbar, weil die Honorarvereinbarung nicht schriftlich getroffen war.
 
 Die Rückdatierung der Honorarnote ist durch die Dateieigenschaften des elektronischen Dokuments belegt, das der Kammer vorgelegt wurde. Die Erklärung des Beschuldigten, die Rückdatierung sei ein Versehen gewesen, ist nicht überzeugend, weil das Datum der Erstellung mit dem Datum der Entnahme übereinstimmt.
@@ -63,13 +65,17 @@ Nach [[legal_norm|§ 1 RAO]] hat der Rechtsanwalt seinen Beruf gewissenhaft ausz
 
 Die Entnahmen erfüllen den Tatbestand des Disziplinarvergehens nach [[legal_norm|§ 45 Abs 1 Z 3 RAO]]. Mildernd ist das Geständnis, erschwerend die Zahl der betroffenen Klientinnen.
 
-Die Strafe bemisst sich nach [[legal_norm|§ 46 RAO]]. Die verhängte Geldbuße ist angemessen. Der Einwand des Beschuldigten, er habe die Gelder im Sinne eines Vorschusses behandelt, wurde verworfen.
+Die Strafe bemisst sich nach [[legal_norm|§ 46 RAO]]. Die verhängte Geldbuße ist angemessen. Die Kosten des Ersatzes für den Verteidiger sind nicht zuzusprechen.
+
+Bei der Bemessung wurde berücksichtigt, dass die Entnahmen über mehrere Monate erfolgten und die Klientinnen dadurch erheblich verunsichert wurden. Der Einwand des Beschuldigten, er habe die Gelder im Sinne eines Vorschusses behandelt, wurde verworfen.
 
 Die Rüge der Verletzung des [[legal_norm|Art. 6 EMRK]] ist unbegründet, da der Beschuldigte in der Verhandlung gehört wurde.
 
 V. Kosten
 
 Die Kostenentscheidung beruht auf [[legal_norm|§ 52 RAO]].
+
+Die Kosten der Ausfertigung trägt der Beschuldigte ebenfalls.
 
 [[location|Klagenfurt]], am [[date|9. März 2026]]
 

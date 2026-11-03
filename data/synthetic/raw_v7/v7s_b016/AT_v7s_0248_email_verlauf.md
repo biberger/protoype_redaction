@@ -108,3 +108,40 @@ Mit freundlichen Grüßen
 [[person|Haase]]
 Rechtsanwalt
 
+**Nachricht 6**
+
+Von: [[person|MMag. Hartmut Rohan]] <[[email|rohan@rohan-recht.at]]>
+Gesendet: Montag, [[date|17. März 2025]] 10:44
+An: [[person|Haase]] <[[email|k.haase@haase.at]]>
+Cc: [[person|Yelena Andreyeva]] <[[email|y.andreyeva@thalhammer-immo.at]]>
+Betreff: AW: AW: AW: AW: Schaden-Nr. [[other_identifier|93/406860/21]]
+
+Sehr geehrter Herr [[person|Haase]],
+
+die [[organization|TI]] ist bereit, die Trocknungsgeräte auf eigene Kosten für weitere zwei Wochen aufzustellen. Eine Anerkennung der Zinsforderung ist damit nicht verbunden. Der Sachverständige [[person|Feest]] wird das Gutachten bis zum [[date|31. März 2025]] vorlegen.
+
+Ich schlage vor, nach Vorlage des Gutachtens einen Vergleich zu prüfen. Die [[organization|TI]] wäre bereit, einen Teil der Trocknungskosten zu übernehmen, sofern die Schadensursache dem Vermieter zuzurechnen ist.
+
+Mit freundlichen Grüßen
+[[person|MMag. Hartmut Rohan]]
+Rechtsanwalt
+
+**Nachricht 7**
+
+Von: [[person|Haase]] <[[email|k.haase@haase.at]]>
+Gesendet: Dienstag, [[date|18. März 2025]] 14:25
+An: [[person|MMag. Hartmut Rohan]] <[[email|rohan@rohan-recht.at]]>
+Betreff: AW: AW: AW: AW: AW: Schaden-Nr. [[other_identifier|93/406860/21]]
+
+Sehr geehrter Herr [[person|MMag. Rohan]],
+
+> Von: [[person|MMag. Hartmut Rohan]]
+> Gesendet: Montag, [[date|17. März 2025]] 10:44
+> Ich schlage vor, nach Vorlage des Gutachtens einen Vergleich zu prüfen.
+
+Ich nehme den Vorschlag zur Kenntnis. Mein Mandant ist mit der Verlängerung der Trocknungsgeräte einverstanden, besteht aber auf einer schriftlichen Erklärung, dass die Zinsen nicht verjähren. Bitte übermitteln Sie mir das Gutachten nach Eingang. Die Wohnung ist für den Termin am [[date|27. März 2025]] zugänglich.
+
+Mit freundlichen Grüßen
+[[person|Haase]]
+Rechtsanwalt
+

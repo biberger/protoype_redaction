@@ -50,7 +50,7 @@ die Unterlagen zu [[person|Roscher]] sende ich Ihnen im Anhang. Der Zeuge [[pers
 > die Klage des Herrn [[person|Roscher]] ist am [[date|11.09.2026]] beim [[court|Arbeits- und Sozialgericht Wien]] eingelangt.
 > Bitte nennen Sie mir auch den Namen des Hausverwalters, der [[person|Roscher]] im Jahr 2023 kündigte.
 
-Die [[organization|WIG]] wird die Kündigung nicht mehr bestreiten. Ich bitte aber um Prüfung, ob die Frage der Entgeltfortzahlung strittig bleibt. Für die Frau [[person|Leentje Hennekens]], die in derselben Liegenschaft gearbeitet hat, habe ich ebenfalls Unterlagen, die ich nicht ohne Ihre Freigabe weitergebe. Ihre Gehaltsabrechnungen liegen bei mir unter der Klientennummer [[other_identifier|58453]].
+Die [[organization|WIG]] wird die Kündigung nicht mehr bestreiten. Ich bitte aber um Prüfung, ob die Frage der Entgeltfortzahlung strittig bleibt. Für die Frau [[person|Leentje Hennekens]], die in derselben Liegenschaft gearbeitet hat, habe ich ebenfalls Unterlagen, die ich nicht ohne Ihre Freigabe weitergebe. Ihre Gehaltsabrechnungen liegen bei mir unter der Akte (Klientennummer: [[other_identifier|58453]]).
 
 Freundliche Grüße
 [[person|Diemut Golz]]
@@ -66,7 +66,7 @@ Betreff: AW: AW: Klage [[person|Roscher]] ./. [[organization|Wechselberger Immob
 
 Sehr geehrter Herr Kollege [[person|Sieber]],
 
-ich bestätige den Eingang Ihrer Unterlagen. Mein Mandant hat bereits eine Stellungnahme abgegeben, die ich Ihnen gesondert übermittle. Die [[organization|WIG]] möge bitte bis zur Verhandlung auch die Gehaltsabrechnungen der Frau [[person|Hennekens]] vorlegen, weil diese für die Berechnung der Ansprüche unverzichtbar sind. Die Frau [[person|Hennekens]] hat ihre Mitarbeit in der Liegenschaft zum [[date|30.06.2023]] beendet. Sie ist unter der Klientennummer [[other_identifier|58453]] bei mir geführt.
+ich bestätige den Eingang Ihrer Unterlagen. Mein Mandant hat bereits eine Stellungnahme abgegeben, die ich Ihnen gesondert übermittle. Die [[organization|WIG]] möge bitte bis zur Verhandlung auch die Gehaltsabrechnungen der Frau [[person|Hennekens]] vorlegen, weil diese für die Berechnung der Ansprüche unverzichtbar sind. Die Frau [[person|Hennekens]] hat ihre Mitarbeit in der Liegenschaft zum [[date|30.06.2023]] beendet. Sie wird bei mir geführt (Klientennummer: [[other_identifier|58453]]).
 
 Mit besten Grüßen
 
@@ -103,6 +103,10 @@ Sehr geehrter Herr [[person|Dr. Sieber]],
 der Kostenvorschuss ist heute auf dem Konto der Kanzlei eingegangen. Die Lohnzettel des Herrn [[person|Roscher]] für die Jahre 2021 bis 2025 sind diesem Schreiben angehängt. Ein Dienstzeugnis aus dem Jahr 2023 konnte ich nicht mehr finden. Die [[organization|WIG]] hat bei der letzten Betriebsprüfung keine Beanstandungen erhalten.
 
 Herr [[person|Thumb]] hat mir bestätigt, dass er am Verhandlungstag um 8:30 Uhr vor dem Gericht sein kann. Seine Telefonnummer gebe ich Ihnen gesondert weiter, weil er sie nicht per E-Mail teilen möchte.
+
+Bitte bestätigen Sie mir den Termin und die Uhrzeit der Verhandlung, damit ich Herrn [[person|Thumb]] rechtzeitig verständigen kann. Die Liste der Zeugen übermittle ich Ihnen bis Ende dieser Woche. Ich bitte zudem um Kopien der Mietverträge, falls vorhanden.
+
+Vielen Dank für Ihre Unterstützung in dieser Angelegenheit.
 
 Mit freundlichen Grüßen
 [[person|Diemut Golz]]

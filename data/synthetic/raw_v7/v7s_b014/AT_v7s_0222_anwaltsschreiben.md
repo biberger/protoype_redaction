@@ -43,6 +43,10 @@ Wir fordern Sie auf, bis spätestens [[date|31. Oktober 2026]] folgende Beträge
 - Wertminderung: EUR 800,00
 - Nutzungsausfall für 14 Tage: EUR 490,00
 
+Unser Mandant ist seit dem Unfall auf ein Ersatzfahrzeug angewiesen, weil er sein Fahrzeug für den Weg zur Arbeit benötigt. Die Mietwagenkosten sind im Verhältnis zum Schaden angemessen, da der Mietwagen der Klasse des beschädigten Fahrzeugs entspricht. Die Rechnung des Autovermieters wird nachgereicht, sobald sie vorliegt.
+
+Ferner ist die Wertminderung des Fahrzeugs zu ersetzen, weil es nach der Reparatur einen merkantilen Minderwert aufweist. Die Berechnung folgt dem Gutachten des Sachverständigen, das wir dem Schreiben beilegen.
+
 Die Zahlung ist auf das Konto unseres Mandanten zu leisten. Die Kontoverbindung teilen wir auf Anfrage mit.
 
 Der Hergang ist durch die Schilderung unseres Mandanten eindeutig dokumentiert. Er fuhr auf der [[street|Hauptstraße]] in Richtung Ortsmitte, als das Fahrzeug der Frau [[person|Tianna Lohner]] vor ihm nach links abbog, ohne den Blinker zu setzen. Die Kollision erfolgte im Bereich der Einfahrt zum Gemeindeamt. Die Polizei hat am Unfallort Spuren gesichert und Fotos der Fahrzeuge angefertigt, die dem Akt beiliegen.
@@ -50,6 +54,8 @@ Der Hergang ist durch die Schilderung unseres Mandanten eindeutig dokumentiert. 
 Der Sachverständige hat den Wiederbeschaffungswert mit EUR 11.200,00 beziffert; die Reparatur ist mit EUR 6.430,00 wirtschaftlich vertretbar. Die Rechnung des Gutachters ist beigefügt. Die Kosten des Gutachtens hat unser Mandant bereits vorgestreckt.
 
 Die Lenkerin [[person|Tianna Lohner]] hat den Unfall gegenüber der Polizei als unvermeidbar bezeichnet. Diese Darstellung wird durch die Spuren nicht gedeckt. Frau [[person|Siegfriede Kast]] als Schadensbearbeiterin der [[organization|Becher Handels GmbH]] hat bisher keine Stellungnahme abgegeben.
+
+Den Umstand, dass Ihre Versicherungsnehmerin nach dem Unfall keine Kontaktaufnahme gewünscht hat, werten wir nicht als Zustimmung zur Schadensregulierung. Die Versicherungsnehmerin ist an die Erklärung ihres Lenkers nicht gebunden, weil dieser sich zum Hergang nur in einer telefonischen Schilderung geäußert hat, die nicht protokolliert wurde. Wir ersuchen daher um eine schriftliche Stellungnahme zum Unfallhergang, die auch die Fotos der Fahrzeuge berücksichtigt. Sollte bis zum [[date|31. Oktober 2026]] keine Stellungnahme eingehen, werden wir die Klage ohne weitere Mahnung einbringen. Der Streitwert beläuft sich in diesem Fall auf EUR 7.720,00 zuzüglich der Nebenkosten.
 
 Aus dem Schreiben der Versicherung vom [[date|18. September 2026]] geht hervor, dass die Schadenregulierung bisher nicht abgeschlossen wurde. Die Rechtsmeinung der [[organization|Becher Handels GmbH]] zu [[legal_norm|§ 7 EKHG]] teilen wir nicht.
 

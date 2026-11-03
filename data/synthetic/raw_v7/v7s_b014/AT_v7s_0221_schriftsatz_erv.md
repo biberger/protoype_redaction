@@ -58,6 +58,10 @@ Die Beklagte ist schuldig, der Klägerin EUR 4.860,00 samt 4 % Zinsen seit dem [
 
 6. Die Beklagte hat die Raten nicht vollständig bezahlt. Sie hat keinen Einwand erhoben, der die Forderung im Sinn des [[legal_norm|§ 1438 ABGB]] mindern würde.
 
+6a. Die Beklagte hat zudem keine Einwendungen gegen die Höhe der Forderung erhoben. Sie hat die Ratenzahlung lediglich mit der Begründung ausgesetzt, die Klägerin habe ihr die Förderunterlagen nicht rechtzeitig übermittelt. Dieser Einwand betrifft das Verhältnis zur Förderstelle und nicht die Zahlungspflicht aus dem Darlehen.
+
+6b. Die Beklagte hat die Forderung auch nicht mit einer Gegenforderung aufgerechnet. Ein Anspruch auf Rückzahlung der Förderung besteht nach Auffassung der Klägerin nicht, weil die Förderung der Beklagten selbst zugutekam.
+
 **III. Beweisanbot**
 
 7. Die Klägerin beantragt die Einvernahme der Zeugin [[person|Ehrengard Lichtenegger]] und die Vernehmung der Beklagten als Partei.

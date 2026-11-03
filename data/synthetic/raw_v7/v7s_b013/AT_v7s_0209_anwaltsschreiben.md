@@ -51,7 +51,7 @@ Die Sachverständigenkosten wurden von der Versicherung des Hauseigentümers ber
 
 Der Mandant hat die Trocknungsarbeiten selbst veranlasst, um einen weiteren Schaden durch Schimmelbildung zu verhindern. Die Kosten dieser Maßnahme sind angemessen, weil die Versicherung auf Anfrage nicht innerhalb der gesetzten Frist reagiert hat.
 
-Zudem fallen Verzugszinsen nach [[legal_norm|§ 1333 ABGB]] an, die ab dem Zeitpunkt der Fälligkeit der Schadensforderung berechnet werden.
+Zudem fallen Verzugszinsen nach [[legal_norm|§ 1333 ABGB]] an, die ab dem Zeitpunkt der Fälligkeit der Schadensforderung berechnet werden. Wir weisen darauf hin, dass die Versicherung im Fall eines Verzugs die Kosten der anwaltlichen Vertretung zu ersetzen hat, soweit diese zur zweckentsprechenden Rechtsverfolgung notwendig waren. Die Kosten unserer Kanzlei werden nach dem Tarif gesondert verzeichnet und nachgereicht. Ein Vergleichsvorschlag ist ebenfalls gerne bereit, wenn Sie die Haftung zumindest teilweise anerkennen. Für die Zwischenzeit bitten wir um eine kurze Bestätigung des Eingangs. Eine Kopie dieses Schreibens ergeht an unsere Mandanten. Wir bitten um Verständnis für die knappe Fristsetzung. Danke sehr.
 
 Wir fordern Sie auf, die Haftung bis zum [[date|15.06.2026]] anzuerkennen und den Betrag von EUR 6.480,00 auf das Anderkonto unserer Kanzlei, IBAN [[bank_account|AT05 0500 0901 2181 8142]], zu überweisen.
 

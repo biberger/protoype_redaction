@@ -103,6 +103,20 @@ Die Erbin [[person|Miriam Rädler]] hat die Übernahme des Fahrzeugs erklärt, d
 
 Die Einantwortung erfolgt nach [[legal_norm|§ 797 ABGB]] erst, wenn alle Erbantrittserklärungen vorliegen und die Verlassenschaftsabhandlung nach dem [[legal_norm|AußStrG]] bestätigt ist. Der Notar hat die Vollmacht des Verwalters der Liegenschaft zu den Akten genommen.
 
+Die Verlassenschaft umfasst ferner einen Anspruch auf Rückerstattung einer Kaution in Höhe von EUR 2.000,00 gegen die Hausverwaltung. Der Verwalter bestätigte den Betrag und sagte die Auszahlung nach Übergabe der Wohnung zu.
+
+Der Erblasser hat zu Lebzeiten ein Vermächtnis über EUR 5.000,00 zugunsten von [[person|Eugeni Brovko]] angeordnet, das in einer eigenhändigen Erklärung vom [[date|14.05.2019]] festgehalten ist. Die Erklärung wurde dem Notar in Abschrift vorgelegt. Das Vermächtnis ist vorrangig aus dem Bankguthaben zu bezahlen.
+
+Der Notar hat die Erbserklärungen mit den Personenstandsurkunden verglichen. Die Geburtsurkunde der [[person|Jürgens]] wurde nachgereicht. Die Anschrift der [[person|Rädler]] wurde im Zentralen Melderegister bestätigt, was der Notar in den Akt aufgenommen hat.
+
+Der Notar hat ferner geprüft, ob ein Pflichtteilsanspruch besteht. Der Erblasser hatte keine Nachkommen und keinen Ehegatten; Pflichtteilsberechtigte im Sinn des [[legal_norm|§ 764 ABGB]] sind daher nicht vorhanden. Verwandte in der Seitenlinie sind nicht pflichtteilsberechtigt.
+
+Für die Verlassenschaft wurde kein Nachlasspfleger bestellt, weil alle bekannten Erben erschienen sind. Der Notar hat jedoch angeordnet, dass ein Vermögensverzeichnis über die Mietkaution und das Fahrzeug beim [[court|Bezirksgericht Imst]] hinterlegt wird.
+
+Die Gläubiger wurden durch den Notar nach dem [[legal_norm|AußStrG]] aufgefordert, ihre Forderungen innerhalb von sechs Monaten anzumelden. Bisher sind drei Anmeldungen eingegangen; die Frist läuft am [[date|16.04.2027]] ab. Der Notar hat die Erben darauf hingewiesen, dass sie für die Schulden nur mit dem Nachlass haften, sofern sie die Erbserklärung unter Vorbehalt des Inventars abgegeben haben.
+
+Die Erbin [[person|Saskia Jürgens]] hat erklärt, dass sie die Liegenschaft nicht selbst bewohnen werde. Die Erbin [[person|Miriam Rädler]] hat dagegen angekündigt, die Wohnung nach der Einantwortung zu übernehmen. Die Erben haben sich darauf geeinigt, die Liegenschaft bis zur Verwertung durch den Verwalter betreuen zu lassen. Die Verwertung soll im Frühjahr 2027 erfolgen, sofern sich die Erben über den Verkaufspreis einigen. Der Verwalter hat dazu eine Schätzung eines gerichtlich beeideten Sachverständigen vorgelegt, die den Verkehrswert bestätigt. Das Gutachten liegt dem Akt bei.
+
 VII. Abschluss
 
 Die Verhandlung wurde um [[date|16.10.2026]] geschlossen. Das Protokoll wurde vorgelesen, genehmigt und eigenhändig unterfertigt.

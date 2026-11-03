@@ -75,7 +75,7 @@ Als mildernd wertete der Senat die bisherige Unbescholtenheit und die Rückzahlu
 
 Die Beschuldigte hat die Kosten des Verfahrens zu tragen. Diese werden mit 1.250,00 Euro bestimmt. Die Kosten umfassen die Gebühren der Zeugin, die Reisekosten des Kammeranwalts und die Kosten der Protokollierung durch den Schriftführer. Die Zeugin [[person|Gerhild Wallner]] hat Anspruch auf Ersatz ihrer Fahrtkosten von [[location|Wolfsberg]] nach [[location|Klagenfurt]], die der Senat mit einem Betrag von 86,40 Euro bemessen hat. Eine Befreiung von der Kostentragung nach den Bestimmungen der Verfahrensordnung kam nicht in Betracht, weil die Beschuldigte keine Umstände dargelegt hat, die ihre Vermögenslage beeinträchtigen würden.
 
-Die Entscheidung ist mit Berufung an den [[court|Obersten Gerichtshof]] anfechtbar. Die Berufungsfrist beträgt vier Wochen ab Zustellung.
+Die Entscheidung ist mit Berufung an den [[court|Obersten Gerichtshof]] anfechtbar. Die Berufungsfrist beträgt vier Wochen ab Zustellung. Die Zustellung erfolgt an die Beschuldigte und an die Kammeranwaltschaft; an die Anzeigerin nur im Umfang ihrer Parteistellung. Eine Abschrift ergeht an die Kammer zur Eintragung im Register der Berufspflichtverletzungen. Die Kosten der Zustellung trägt die Beschuldigte.
 
 Für den Disziplinarrat:
 

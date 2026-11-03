@@ -32,7 +32,7 @@ Wir bitten um Übermittlung des Entwurfs der Räumungsvereinbarung. Die Vollmach
 > An: [[person|Lilly Öttl]]
 > Betreff: AW: Klientennummer: [[other_identifier|43366]], Räumung Objekt Horn
 >
-> Ihren Vorschlag, die Räumung auf den [[date|31. Dezember 2026]] zu verschieben, nehmen wir an, wenn die Mietzinsrückstände bis zum [[date|15. November 2026]] vollständig beglichen werden. Die Betriebskostenabrechnung ist für uns nicht Gegenstand dieser Vereinbarung. Frau Mag. Wögerbauer ersucht zudem darum, dass Zahlungen nicht mehr an die Hausverwaltung, sondern unmittelbar an die Gesellschaft erfolgen, damit die Zahlungsflüsse klar nachvollziehbar sind. Eine schriftliche Bestätigung dieser Bitte wäre hilfreich, da sich die Zahlungen bisher über drei verschiedene Konten bewegt haben.
+> Ihren Vorschlag, die Räumung auf den [[date|31. Dezember 2026]] zu verschieben, nehmen wir an, wenn die Mietzinsrückstände bis zum [[date|15. November 2026]] vollständig beglichen werden. Die Betriebskostenabrechnung ist für uns nicht Gegenstand dieser Vereinbarung. Frau [[person|Mag. Wögerbauer]] ersucht zudem darum, dass Zahlungen nicht mehr an die Hausverwaltung, sondern unmittelbar an die Gesellschaft erfolgen, damit die Zahlungsflüsse klar nachvollziehbar sind. Wir danken für Ihre Mühe und Ihr Verständnis. Eine schriftliche Bestätigung dieser Bitte wäre hilfreich, da sich die Zahlungen bisher über drei verschiedene Konten bewegt haben.
 
 Mit freundlichen Grüßen
 

@@ -30,6 +30,8 @@ Die [[organization|Tiroler Rechtsanwaltskammer]] ([[organization|TRAK]]) hat auf
 
 Der Beschuldigte hat eingeräumt, dass die Auszahlung verspätet erfolgte, und dies mit einer Auseinandersetzung unter den Miterben begründet. Die Miterben haben dies bestritten.
 
+Die Verhandlung wurde auf Antrag des Beschuldigten einmal vertagt, damit er die Erbschaftsunterlagen beibringen konnte. Diese wurden nicht vorgelegt.
+
 II. Feststellungen
 
 1. Der Beschuldigte übernahm am [[date|3.02.2023]] die Treuhandschaft über den Kaufpreis einer Liegenschaft im Betrag von EUR 96.000,00. Die Treuhandschaft trägt die Nummer [[other_identifier|2023/898]].
@@ -48,17 +50,23 @@ II. Feststellungen
 
 8. Die Eintragung der Auszahlung im Treuhandbuch erfolgte am [[date|18.06.2024]] mit dem Vermerk „nachträglich“. Auf den Kontoauszügen ist die Zahlung erst am [[date|11.06.2024]] ersichtlich, sodass das Datum der Auszahlung mit dem Treuhandbuch übereinstimmt.
 
+9. Der Verkäufer hat die Kammer mit Schreiben vom [[date|3.03.2024]] darüber informiert, dass der Kaufpreis noch nicht ausbezahlt sei. Die Kammer hat das Schreiben an den Beschuldigten weitergeleitet, der am [[date|14.03.2024]] erklärte, die Auszahlung erfolge in Kürze. Die Auszahlung erfolgte jedoch erst drei Monate später. Der Verkäufer hat dadurch Zinsen in Höhe von rund EUR 400,00 verloren, die der Beschuldigte bisher nicht ersetzt hat. Der Zinsentgang wurde im Verfahren nicht bestritten.
+
+10. Der Beschuldigte hat über die Verzögerung keine Aufzeichnungen geführt; ein Vermerk im Akt über die Gründe fehlt vollständig.
+
 III. Beweiswürdigung
 
 Die Feststellungen beruhen auf dem Treuhandbuch, den Kontoauszügen und den Schreiben der Verkäufer. Die Angaben zur Auseinandersetzung unter den Miterben wurden nicht belegt. Die Erklärung des Beschuldigten ist daher nicht glaubhaft.
 
 Die Zeugin [[person|Ingeborg Kranzl]] hat bestätigt, dass die Verkäufer mehrfach nachgefragt haben. Der Zeugin ist die Abwicklung nicht bekannt gewesen.
 
+Die Zeugin hat außerdem angegeben, dass der Beschuldigte die Anfragen der Verkäufer im Kanzleikalender vermerkt habe, ohne jedoch eine Antwort zu geben. Der Kalendereintrag vom [[date|4.03.2024]] wurde vorgelegt und bestätigt diese Angabe.
+
 Der Senat hat die Angaben des Beschuldigten zu einem Erbstreit geprüft. Es liegen keine Urkunden über einen solchen Streit vor, und der Beschuldigte hat den Namen des angeblichen Miterben nicht genannt. Die Angaben sind daher nicht glaubhaft.
 
 Der Kammeranwalt hat in der Verhandlung ausgeführt, dass der Verkäufer finanziell auf den Betrag angewiesen war. Diese Behauptung wurde durch Kontoauszüge des Verkäufers belegt, die während des Verfahrens vorgelegt wurden. Der Senat stützt sich auf diese Belege.
 
-Die Verteidigung hat die Verletzung des Rechts auf Akteneinsicht gerügt. Die Akteneinsicht wurde jedoch am [[date|27.03.2026]] gewährt, sodass der Beschuldigte die Möglichkeit zur Stellungnahme hatte.
+Die Verteidigung hat die Verletzung des Rechts auf Akteneinsicht gerügt. Die Akteneinsicht wurde jedoch am [[date|27.03.2026]] gewährt, sodass der Beschuldigte die Möglichkeit zur Stellungnahme hatte. Eine weitere Verletzung von Verfahrensrechten ist nicht ersichtlich; der Beschuldigte konnte die Zeugen befragen und Anträge stellen. Die Verhandlung war öffentlich, soweit dies nach der Disziplinarordnung vorgesehen ist.
 
 IV. Rechtliche Beurteilung
 
@@ -66,13 +74,19 @@ Nach [[legal_norm|§ 1 RAO]] hat der Rechtsanwalt die ihm anvertrauten Gelder un
 
 Der Senat sieht die Verletzung als Disziplinarvergehen nach [[legal_norm|§ 45 Abs 1 Z 3 RAO]] an. Mildernd wirken die Nachtragung im Treuhandbuch und die Abwesenheit früherer Vorwürfe.
 
-Die Strafe bemisst sich nach [[legal_norm|§ 46 RAO]]. Die Geldbuße erscheint angemessen. Die Rüge der Verletzung des [[legal_norm|Art. 6 EMRK]] wurde verworfen, weil der Beschuldigte im Verfahren gehört wurde.
+Die Strafe bemisst sich nach [[legal_norm|§ 46 RAO]]. Die Geldbuße erscheint angemessen. Milderungsgründe sind die Nachtragung im Treuhandbuch, das Fehlen früherer Vorwürfe und die Auszahlung nach Aufforderung durch die Kammer; erschwerend wirkt die Dauer der Verzögerung.
+
+Im Hinblick auf die Gesamtumstände erscheint die Geldbuße von EUR 2.000,00 angemessen; eine höhere Strafe wäre bei dem Fehlen früherer Vorwürfe nicht verhältnismäßig. Die Rüge der Verletzung des [[legal_norm|Art. 6 EMRK]] wurde verworfen, weil der Beschuldigte im Verfahren gehört wurde.
 
 Die Verpflichtung zur Auszahlung ist eine Pflicht gegenüber dem Berechtigten, die nicht vom Verhalten Dritter abhängt. Eine Verzögerung wegen angeblicher Erbstreitigkeiten rechtfertigt die Zurückhaltung nicht, wenn der Anspruch unstreitig ist. Der Senat folgt insoweit der bisherigen Rechtsprechung der Disziplinarbehörden.
+
+Die Verzögerung der Auszahlung über mehr als ein Jahr ist nicht nur eine organisatorische Nachlässigkeit. Sie belastet den Verkäufer, der auf den Erlös angewiesen war, und schadet dem Vertrauen in die Treuhandabwicklung durch Rechtsanwälte insgesamt. Der Senat wertet dies als schwerwiegend, berücksichtigt aber die Nachtragung als Milderungsgrund.
 
 V. Kosten
 
 Die Kostenentscheidung beruht auf [[legal_norm|§ 52 RAO]].
+
+Die Kosten umfassen auch die Gebühren für die Beiziehung der Kontoauszüge.
 
 [[location|Innsbruck]], am [[date|5. Mai 2026]]
 

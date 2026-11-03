@@ -71,6 +71,12 @@ und beantragen, das Klagebegehren kostenpflichtig abzuweisen.
 
 9. Die Beklagten ersuchen um Verständigung über die Ladung zur Tagsatzung an die Kanzlei der beklagten Parteien; Zustellungen an die Erstbeklagte sind über ERV an die Kanzlei zu bewirken.
 
+7f. Die Klage bezeichnet die Mängel pauschal und ohne Angabe der betroffenen Räume. Die Beklagten ersuchen daher, den Kläger zu einer Konkretisierung des Klagevorbringens nach [[legal_norm|§ 182 ZPO]] aufzufordern.
+
+7g. Schließlich wird darauf hingewiesen, dass die Zweitbeklagte im Zeitpunkt des Kaufvertrags nur als Geschäftsführerin handelte und persönlich nicht Vertragspartei war. Eine Haftung der Zweitbeklagten aus dem Kaufvertrag scheidet daher aus, weil keine eigene Verpflichtung übernommen wurde.
+
+7h. Die Beklagten erheben ferner den Einwand, dass der Kläger die Liegenschaft nach einer ausführlichen Besichtigung erworben hat, bei der auf den Zustand des Kellers hingewiesen wurde. Die Besichtigung fand am [[date|14. Mai 2023]] statt, wie das Besichtigungsprotokoll ausweist, das dem Kaufvertrag beiliegt. Der Kläger war dabei anwaltlich nicht vertreten, hat aber schriftlich bestätigt, den Keller gesehen zu haben.
+
 **IV. Beilagenverzeichnis**
 
 - Beilage ./A: Kaufvertrag vom [[date|12. Juni 2023]]

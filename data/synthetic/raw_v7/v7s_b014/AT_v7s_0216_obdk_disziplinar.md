@@ -68,7 +68,7 @@ Die Kammeranwaltschaft hat in der Verhandlung ergänzend vorgebracht, dass der B
 
 Der Senat hält fest, dass diese Verantwortung nicht glaubhaft ist, weil die Bestätigungen mit dem Briefkopf der Kanzlei versehen und mit dem Datum der angeblichen Auszahlung ausgestellt waren. Die Schreiben enthalten eine unrichtige Tatsachenbehauptung gegenüber Klienten und sind geeignet, deren Vertrauen in die Verwahrung ihrer Gelder zu erschüttern.
 
-Der Beschuldigte hat in der Verhandlung zugestanden, dass er die Kammerprüfung im Jahr 2025 zunächst nicht vollständig unterstützt hat. Er hat die fehlenden Unterlagen nach der Aufforderung des Kammeramts nachgereicht. Dieser Umstand wurde zu seinen Gunsten gewertet, weil er die Mitwirkung schließlich nicht verweigert hat.
+Der Beschuldigte hat in der Verhandlung zugestanden, dass er die Kammerprüfung im Jahr 2025 zunächst nicht vollständig unterstützt hat. Er hat die fehlenden Unterlagen nach der Aufforderung des Kammeramts nachgereicht. Dieser Umstand wurde zu seinen Gunsten gewertet, weil er die Mitwirkung schließlich nicht verweigert hat. Der Beschuldigte hat außerdem die Kosten der Gutachtenerstellung zur Hälfte übernommen.
 
 **4. Rechtliche Beurteilung**
 
@@ -76,11 +76,23 @@ Ein Rechtsanwalt hat nach [[legal_norm|§ 43 Abs 1 RAO]] seinen Beruf gewissenha
 
 Bei der Strafbemessung waren als mildernd zu werten, dass der Beschuldigte den Fehlbetrag ausgeglichen und sich seit der Anzeige kooperativ verhalten hat. Erschwerend wirkt die Dauer der Pflichtverletzungen von mehr als einem Jahr und die Mehrzahl der betroffenen Klienten. Ein Ausschluss aus der Rechtsanwaltschaft wäre angesichts der Rückzahlung unverhältnismäßig.
 
+Der Antrag der Kammeranwaltschaft auf Ausschluss aus der Rechtsanwaltschaft wurde vom Senat geprüft und verworfen. Der Senat hat die Schwere der Pflichtverletzungen anerkannt, jedoch berücksichtigt, dass der Beschuldigte die Beträge zurückgezahlt hat und keine Klientengelder endgültig verloren gegangen sind. Eine Entziehung der Berufsberechtigung setzt nach der ständigen Rechtsprechung voraus, dass das Vertrauen in die Verlässlichkeit des Rechtsanwalts dauerhaft zerstört ist; dies sieht der Senat im vorliegenden Fall nicht als erwiesen an.
+
+Der Beschuldigte hat in der Verhandlung eine Stellungnahme seines Steuerberaters vorgelegt, aus der hervorgeht, dass seine Kanzlei seit dem Frühjahr 2026 ein neues Buchhaltungssystem verwendet. Der Senat hat diese Maßnahme gewürdigt, sie betrifft jedoch nur die künftige Organisation. Die Vergangenheit bleibt davon unberührt.
+
+Der Beschuldigte hat darauf hingewiesen, dass die Klientin [[person|Lindinger]] ihre Ansprüche zwischenzeitlich vollständig befriedigt habe. Die Klientin hat dies in der Verhandlung bestätigt, sie hat jedoch betont, dass sie erst nach mehreren Mahnungen eine Antwort erhalten habe.
+
+Der Senat hat außerdem berücksichtigt, dass die Anzeige durch einen Mandanten ausgelöst wurde und nicht durch eine amtswegige Prüfung. Dies spricht für eine gewisse Mitwirkung des Beschuldigten bei der Aufklärung, weil er die Treuhandbücher auf Anforderung vollständig übergeben hat.
+
 **4a. Strafbemessung**
 
 Der Senat hat bei der Strafbemessung die Dauer der Pflichtverletzungen, die Zahl der betroffenen Klienten und die Höhe der Beträge berücksichtigt. Mildernd war die vollständige Rückzahlung des Fehlbetrags und die bisherige Unbescholtenheit des Beschuldigten. Erschwerend wirkt die Mehrzahl der Fälle und die Tatsache, dass Gelder über einen längeren Zeitraum verwendet wurden.
 
 Die Geldbuße wurde im unteren Bereich des gesetzlichen Rahmens festgesetzt, weil eine höhere Buße die wirtschaftliche Grundlage des Beschuldigten gefährdet hätte. Der Senat hält den Verweis für notwendig, um die Verantwortung des Beschuldigten für die Verwahrung von Fremdgeldern deutlich zu machen.
+
+Der Senat hat die Stellungnahme der Kammeranwaltschaft gewürdigt, wonach die Sicherheit der Klientengelder durch die bisherigen Kontrollen nicht ausreichend gewährleistet war. Ein Treuhandbuch, das die Bewegungen nicht zeitnah dokumentiert, verfehlt seinen Zweck, weil es den Klienten keine verlässliche Auskunft über den Stand der Treuhandschaft geben kann. Dies gilt auch dann, wenn der Beschuldigte die Beträge letztlich auszahlt.
+
+Der Kammeranwalt hat in seinem Schlussvortrag hervorgehoben, dass die Klienten in den betroffenen Fällen auf die Auskünfte des Beschuldigten angewiesen waren und dass diese Auskünfte mehrfach unvollständig oder verspätet erfolgten. Der Senat schließt sich dieser Würdigung an.
 
 **5. Kosten**
 
