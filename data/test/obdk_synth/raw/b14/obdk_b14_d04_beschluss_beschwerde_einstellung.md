@@ -1,0 +1,67 @@
+---
+doc_type: beschluss_beschwerde_einstellung
+jurisdiction: AT
+lang: de
+year: 2001
+---
+[[court|OBERSTE BERUFUNGS- UND DISZIPLINARKOMMISSION]]
+FÜR RECHTSANWÄLTE UND RECHTSANWALTSANWÄRTER
+[[address|Schmerlingplatz 11, 1011 Wien]]
+Tel. [[phone_number|01/52152 DW 3588]]
+
+[[case_number|Bkd 14/01]]
+
+Beschluss
+
+Die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] hat am [[date|8. Oktober 2001]] in nichtöffentlicher Sitzung durch den Senatspräsidenten des [[court|Obersten Gerichtshofes]] [[judge|Dr. Konrad Freiberger]] als Vorsitzenden, die Anwaltsrichter [[judge|Dr. Lukas Penz]] und [[judge|Dr. Waltraud Ebner]] sowie die Hofrätin des [[court|Obersten Gerichtshofes]] [[judge|Dr. Ingrid Raith]] als weitere Richter, in Gegenwart des Schriftführers [[person|Mag. Peter Hofstätter]], in der Disziplinarsache gegen [[lawyer|Dr. Brigitte Oberndorfer]], Rechtsanwältin in [[location|Oberpullendorf]], wegen des Verdachts von Berufspflichtenverletzungen, über die Beschwerde der Anzeigerin [[person|Hildegard Sommer]], Pensionistin in [[location|Mattersburg]], gegen den Beschluss des [[court|Disziplinarrates der Rechtsanwaltskammer für Burgenland]] vom [[date|6. Juni 2001]], [[case_number|D 58/00]], mit dem die Anzeige zurückgelegt wurde, beschlossen:
+
+Der Beschwerde wird nicht Folge gegeben.
+
+Begründung:
+
+I. Anzeige und Verfahren erster Instanz
+
+1. Mit Schriftsatz vom [[date|15. November 2000]] erstattete [[person|Hildegard Sommer]] bei der [[organization|Rechtsanwaltskammer für Burgenland]] gegen [[lawyer|Dr. Oberndorfer]] Anzeige. Sie brachte vor, sie habe im Frühjahr 2000 ihr Haus samt Grundstück in [[location|Mattersburg]] an den Kaufmann [[person|Ing. Horst Kleinszig]] verkauft. Der Kaufpreis von S 2.400.000,-- sei auf das Treuhandkonto der Rechtsanwältin bei der [[organization|Raiffeisenbank Oberpullendorf]], Konto Nr. [[bank_account|227-306.108]], eingezahlt worden. Ein Teilbetrag von S 900.000,-- sei dabei in bar in der Kanzlei übergeben worden. [[lawyer|Dr. Oberndorfer]] habe den Barbetrag ohne jede Prüfung der Herkunft des Geldes angenommen und weiter überwiesen, obwohl ihr hätte auffallen müssen, dass [[person|Kleinszig]] zu den Verbindlichkeiten aus einem früheren Konkurs keine Auskunft gab. Dadurch habe sie gegen die Sorgfaltspflichten verstoßen, die ein Rechtsanwalt bei der Übernahme von Treuhandschaften und zur Verhinderung der Geldwäscherei zu beachten habe.
+
+2. Der [[court|Disziplinarrat der Rechtsanwaltskammer für Burgenland]] holte eine Stellungnahme der Beschuldigten ein und vernahm die Anzeigerin sowie die Zeugin [[person|Karin Moritsch]], Angestellte der [[organization|Raiffeisenbank Oberpullendorf]]. Er stellte nach Durchführung dieser Erhebungen im Wesentlichen folgenden Sachverhalt fest:
+
+[[person|Kleinszig]] war am [[date|11. April 2000]] in der Kanzlei der Beschuldigten erschienen und hatte sich als Kaufinteressent vorgestellt. [[lawyer|Dr. Oberndorfer]] verlangte bei der ersten Besprechung seinen Identitätsnachweis und fertigte eine Kopie seines Reisepasses an, Nummer [[id_document_number|P7776036]]. Bei der Unterzeichnung des Kaufvertrags am [[date|2. Mai 2000]] war zusätzlich seine Lebensgefährtin [[person|Magdalena Kleinszig-Haider]] zugegen, die sich mit ihrem Personalausweis, Nummer [[id_document_number|E2601951]], auswies. Der Barbetrag wurde am [[date|3. Mai 2000]] übergeben. [[lawyer|Dr. Oberndorfer]] stellte darüber eine Empfangsbestätigung aus und zahlte den Betrag noch am selben Tag auf das Treuhandkonto ein. Die Zeugin [[person|Moritsch]] gab an, die Einzahlung sei ordnungsgemäß erfolgt und die Bank habe wegen der Höhe des Betrags selbst eine Verdachtsmeldung erwogen, aber davon abgesehen, weil der Kunde einen Verkaufserlös aus einem Grundstücksgeschäft nachweisen konnte.
+
+Die Beschuldigte erklärte, sie habe [[person|Kleinszig]] ausdrücklich nach der Herkunft des Bargelds gefragt und die Auskunft erhalten, es stamme aus dem Verkauf eines Betriebsgrundstücks in [[location|Villach]]. Dies habe sie sich durch einen Auszug aus dem Grundbuch und durch den Kontoauszug des Kunden bestätigen lassen. Der Kunde habe das Geld ursprünglich auf seinem Konto bei der [[organization|Bank Burgenland AG]], Kto.-Nr. [[bank_account|943-216.384]], gehabt und es für den Kauf behoben.
+
+Der Disziplinarrat zog außerdem den Treuhandakt der Beschuldigten bei, der der Kammer im Rahmen einer Treuhandprüfung am [[date|22. Jänner 2001]] ohnehin vorgelegt worden war. Aus diesem Akt ergibt sich, dass die Beschuldigte am [[date|2. Mai 2000]] eine schriftliche Treuhandvereinbarung mit beiden Vertragsparteien unterzeichnen ließ, in der festgehalten ist, dass der Kaufpreis erst nach Einverleibung des Eigentumsrechts und nach Löschung der auf der Liegenschaft haftenden Pfandrechte auszuzahlen sei. Die Barzahlung von S 900.000,-- wurde von der Beschuldigten dem Käufer mit einem Schreiben vom [[date|4. Mai 2000]] bestätigt, in dem sie ihn zugleich auf die gesetzlichen Pflichten zur Offenlegung bei Barzahlungen hinwies. Die Anzeigerin hat dieses Schreiben, wie sie in ihrer Vernehmung einräumte, selbst als Beilage zu ihrer Anzeige vorgelegt.
+
+Die Anzeigerin legte in ihrer Vernehmung am [[date|12. Februar 2001]] außerdem dar, dass ihr Sohn [[person|Maximilian Sommer]], der bei der Vertragsunterzeichnung anwesend war, die Barübergabe als ungewöhnlich empfunden habe. Auf die Frage des Disziplinarrates, ob die Beschuldigte oder der Käufer auf eine Rückfrage zur Herkunft des Geldes ausweichend reagiert hätten, antwortete sie, sie habe davon selbst nichts gehört, sondern nur Erzählungen ihres Sohnes. Der Sohn wurde auf Antrag der Anzeigerin nicht geladen, weil er sich im Ausland aufhielt, hat aber eine schriftliche Erklärung abgegeben, die im Wesentlichen die Angaben der Mutter wiederholt, ohne konkrete Wahrnehmungen zu einer Pflichtverletzung zu schildern.
+
+Die Beschuldigte hat in ihrer Stellungnahme vom [[date|20. Dezember 2000]] weiters ausgeführt, dass ihr als Treuhänderin bewusst gewesen sei, dass die Entgegennahme eines hohen Bargeldbetrags besondere Vorsicht verlange. Sie habe deshalb dem Käufer vorgeschlagen, den Betrag unmittelbar bei der Bank einzuzahlen, was dieser aber mit dem Hinweis abgelehnt habe, er benötige das Geld noch am selben Tag für die Auszahlung eines Bauunternehmers. Sie habe in dieser Situation auf der Übergabe in der Kanzlei bestanden, um die Einzahlung selbst überwachen zu können, und sei mit dem Käufer zur Bank gegangen.
+
+3. Der [[court|Disziplinarrat der Rechtsanwaltskammer für Burgenland]] legte die Anzeige gemäß [[legal_norm|§ 34 DSt]] zurück. Er begründete dies damit, dass die Beschuldigte die Identität ihres Klienten geprüft, sich nach der Herkunft des Geldes erkundigt und das Geld unverzüglich auf das Treuhandkonto eingezahlt habe. Ein Anhaltspunkt für eine Mitwirkung an der Geldwäscherei oder eine Verletzung der Sorgfaltspflichten sei nicht hervorgekommen.
+
+II. Die Beschwerde
+
+4. [[person|Sommers]] Beschwerde richtet sich gegen die Zurücklegung. Sie macht geltend, der Disziplinarrat habe das Ermittlungsverfahren mangelhaft geführt, weil er den Käufer [[person|Kleinszig]] nicht selbst vernommen und die Bankunterlagen nicht beigeschafft habe. Außerdem sei der Begriff der Sorgfaltspflicht verkannt worden: Wer einen Betrag von fast einer Million Schilling in bar entgegennehme, müsse die Herkunft des Geldes durch Urkunden belegen lassen und das Ergebnis dokumentieren. Dies sei hier nicht geschehen. Schließlich erhebt die Beschwerdeführerin den Vorwurf, die Beschuldigte habe im Zeitraum vom [[date|3.]] bis [[date|20. Mai 2000]] die Treuhandabwicklung nicht ordnungsgemäß dokumentiert und es sei ein Teil des Geldes erst mit Verspätung an sie ausgezahlt worden.
+
+III. Rechtliche Beurteilung
+
+5. Gemäß [[legal_norm|§ 34 DSt]] hat der Disziplinarrat die Anzeige zurückzulegen, wenn die angezeigte Tat keine Berufspflichtenverletzung begründet oder ein Verdacht nach dem Ergebnis der Vorerhebungen nicht besteht. Die Beschwerde gegen die Zurücklegung ist begründet, wenn der Disziplinarrat die Vorerhebungen nicht in dem erforderlichen Umfang geführt oder die Tatsachen unrichtig beurteilt hat. Die Kommission hat dabei nicht nur zu prüfen, ob der Anzeiger ein Recht auf Einleitung eines Verfahrens hat, sondern auch, ob die vorliegenden Beweise den Verdacht einer Pflichtverletzung rechtfertigen. Ein Anzeiger hat keinen Anspruch darauf, dass gegen einen Rechtsanwalt ein Disziplinarverfahren geführt wird; er kann nur die Überprüfung der Zurücklegung erreichen.
+
+6. Die Verfahrensrüge geht fehl. Der Disziplinarrat hat die Vorerhebungen in dem Umfang geführt, der zur Beurteilung des Sachverhalts erforderlich war. Die Vernehmung des Käufers [[person|Kleinszig]] war entbehrlich, weil die Beschuldigte selbst über Angaben und Urkunden berichtete, die er ihr übergeben hatte. Die Beischaffung der Bankunterlagen des Käufers hätte in das Bankgeheimnis eingegriffen, ohne dass dafür ein konkreter Anlass bestanden hätte. Die Beschwerde zeigt nicht auf, welche entscheidungswesentliche Tatsache durch diese Maßnahmen hätte geklärt werden sollen.
+
+7. Auch inhaltlich ist der Beschluss nicht zu beanstanden. Die Rechtsprechung der [[court|Obersten Berufungs- und Disziplinarkommission]] verlangt vom Rechtsanwalt als Treuhänder besondere Sorgfalt. Er muss die Identität seines Auftraggebers feststellen und bei auffälligen Barzahlungen die Herkunft des Geldes erfragen (vgl [[court|OBDK]] [[date|9. 12. 1999]], [[case_number|Bkd 21/99]]). Diese Anforderungen leiten sich aus [[legal_norm|§ 9 Abs 1 RAO]], aus den Richtlinien für die Ausübung des Rechtsanwaltsberufs und aus dem Verbot der Geldwäscherei nach [[legal_norm|§ 165 StGB]] ab. Eine Verpflichtung zur lückenlosen Überprüfung der Mittelherkunft besteht aber nicht; maßgeblich ist, ob der Rechtsanwalt Verdachtsmomente erkennen konnte und ob er darauf angemessen reagiert hat (vgl [[person|Waldstätten]]/[[person|Ruprechter]], Berufsrecht der Rechtsanwälte, [[legal_norm|§ 9 RAO]] Rz 14).
+
+8. Im vorliegenden Fall hat die Beschuldigte diese Pflichten erfüllt. Sie hat den Käufer nach seinem Reisepass, Nummer [[id_document_number|P7776036]], identifiziert, nach der Herkunft des Geldes gefragt und die Antworten durch Grundbuchsauszug und Kontoauszug überprüft. Die Angabe, das Geld stamme aus dem Verkauf eines Betriebsgrundstücks, war nach diesen Unterlagen plausibel. Dass der Käufer vor Jahren in einen Konkurs verwickelt war, begründet für sich allein noch keinen Verdacht der Geldwäscherei. Auch die Tatsache, dass die Bank selbst keine Verdachtsmeldung erstattete, spricht gegen einen solchen Verdacht, weil die Bank wegen ihrer Erfahrung mit Verdachtsfällen besonders sensibilisiert war.
+
+Dass die Treuhandabwicklung dokumentiert wurde, zeigt die Empfangsbestätigung vom [[date|3. Mai 2000]], die im Akt des Disziplinarrates liegt. Der Vorwurf der verspäteten Auszahlung an die Beschwerdeführerin ist nicht belegt: Nach dem Treuhandauftrag war der Kaufpreis erst nach Einverleibung des Eigentumsrechts auszuzahlen, und das Grundbuchsgesuch wurde am [[date|9. Mai 2000]] beim [[court|Bezirksgericht Mattersburg]], TZ [[case_number|1204/2000]], eingebracht. Die Auszahlung erfolgte daher fristgerecht.
+
+9. Zu [[legal_norm|Art 6 EMRK]], den die Beschwerdeführerin in einem Nachtrag anführt, ist festzuhalten, dass der Anzeiger im Disziplinarverfahren keine Parteistellung im Sinne dieser Bestimmung hat. Seine Rechte beschränken sich auf die Anzeige und die Beschwerde gegen die Zurücklegung. Eine Verletzung von Verfahrensgarantien liegt daher nicht vor.
+
+Ergänzend ist darauf hinzuweisen, dass der Disziplinarrat in seinem Beschluss zutreffend darauf abgestellt hat, welche Maßnahmen von einem durchschnittlich sorgfältigen Rechtsanwalt in der konkreten Lage billigerweise erwartet werden konnten. Die Beschuldigte hat den Käufer nicht bloß einmal, sondern bei zwei verschiedenen Terminen nach der Herkunft des Geldes befragt, sie hat die Antwort durch Urkunden überprüft und sie hat die Annahme des Geldes schriftlich festgehalten. Nicht jede ungewöhnliche Zahlungsmodalität begründet den Verdacht einer strafbaren Handlung. Gerade bei Liegenschaftskäufen im ländlichen Bereich, in denen Käufer häufig auf Barmittel aus Verkäufen, Erbschaften oder Betriebsüberschüssen zurückgreifen, wäre es verfehlt, jede Barzahlung als Indiz einer Geldwäscherei zu werten. Ein Rechtsanwalt, der in jedem derartigen Fall das Mandat zurücklegte, würde seine Aufgabe als Berater der rechtsuchenden Bevölkerung verfehlen.
+
+Der Beschwerdeführerin ist zuzugestehen, dass der Käufer [[person|Kleinszig]] nach der Aktenlage nicht gänzlich verlässlich war und dass ein anderer Rechtsanwalt in der Situation der Beschuldigten möglicherweise noch weitere Nachweise verlangt hätte. Disziplinarrechtlich relevant ist ein Verhalten aber erst dann, wenn es die Grenze des Vertretbaren überschreitet. Dies ist hier nicht der Fall. Der Beschwerde ist daher auch insoweit, als sie die Dokumentation der Treuhandabwicklung bemängelt, nicht beizutreten. Die Beschwerdeführerin wird im Übrigen darauf verwiesen, dass ihr, soweit sie Ansprüche gegen die Beschuldigte oder gegen den Käufer verfolgen will, der Zivilrechtsweg offensteht.
+
+10. Zusammenfassend hat der Disziplinarrat die Anzeige zu Recht zurückgelegt. Der Beschwerde war nicht Folge zu geben.
+
+[[location|Wien]], am [[date|8. Oktober 2001]]
+
+Für die Richtigkeit der Ausfertigung:
+[[person|Mag. Peter Hofstätter]]
