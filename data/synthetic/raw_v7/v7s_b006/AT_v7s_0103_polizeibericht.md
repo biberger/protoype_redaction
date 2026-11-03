@@ -64,7 +64,7 @@ Die Gemeinde [[organization|Stadt Villach]] wurde über die Beschädigung der Ve
 
 Die Beamten [[person|Pirkl]] und [[person|Trattner]] haben die Lenker darauf hingewiesen, dass die Fahrzeugpapiere binnen drei Werktagen vorzulegen sind, falls diese nicht mitgeführt wurden. [[person|Gindl]] hat den Zulassungsschein am selben Tag bei der Dienststelle vorgelegt.
 
-Der Akt wird nach Eingang der Gutachten und der Schadensmeldungen an die Bezirksverwaltungsbehörde weitergeleitet.
+Der Akt wird nach Eingang der Gutachten und der Schadensmeldungen an die Bezirksverwaltungsbehörde weitergeleitet. Die Amtshandlung endete um 09:50 Uhr; die Fahrbahn wurde anschließend durch die Feuerwehr gereinigt.
 
 Dieser Bericht wurde am [[date|17. Oktober 2026]] um 11:30 Uhr erstellt.
 

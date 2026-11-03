@@ -78,7 +78,7 @@ Beratung des Senates
 
 Der Senat hat sich zur Beratung zurückgezogen. Die Entscheidung wurde einstimmig getroffen. [[judge|Paška]] hat zusätzlich eine Erhöhung der Geldbuße angeregt, konnte sich damit aber nicht durchsetzen, weil der Beschuldigte die Teilrückzahlung von EUR 2.700,00 bereits geleistet hat.
 
-Der Beschuldigte hat in seinem letzten Wort um Nachsicht ersucht und auf seine familiären Verpflichtungen hingewiesen. Der Senat hat dies berücksichtigt, jedoch nicht als Milderungsgrund anerkannt, weil diese Umstände die Verletzung der Treuhandpflichten nicht rechtfertigen.
+Der Beschuldigte hat in seinem letzten Wort um Nachsicht ersucht und auf seine familiären Verpflichtungen hingewiesen. Der Senat hat dies berücksichtigt, jedoch nicht als Milderungsgrund anerkannt, weil diese Umstände die Verletzung der Treuhandpflichten nicht rechtfertigen. Die Geldbuße berücksichtigt auch die lange Verfahrensdauer. Insgesamt ist die Entscheidung einstimmig ergangen.
 
 Der Senat hat die Strafdauer und den Strafrahmen nach [[legal_norm|§ 45 RAO]] geprüft. Die Höchstgrenze der Geldbuße beträgt nach dem Gesetz EUR 20.000,00. Der Senat hat die Geldbuße daher im unteren Bereich des Strafrahmens festgelegt.
 

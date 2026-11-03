@@ -85,6 +85,22 @@ Die Kanzleileiterin [[person|Brigitte Tschurtschenthaler]] hat als Zeugin ausges
 
 Der Antrag des Beschuldigten auf Vernehmung eines weiteren Zeugen aus dem Umfeld der Klienten wurde abgewiesen, weil nicht dargelegt wurde, welches Beweisthema damit belegt werden sollte. Der Senat hat die Verfahrensergebnisse insgesamt als ausreichend beurteilt.
 
+Vorbringen des Beschuldigten zur Kanzleiorganisation
+
+Der Beschuldigte hat vorgebracht, dass er die Kanzlei im Jahr 2025 mit einer Mitarbeiterin in Teilzeit geführt habe und dass die Buchhaltung über ein externes Büro abgewickelt worden sei. Er habe davon ausgehen dürfen, dass die Abrechnungen dort vollständig erstellt würden. Das externe Büro hat jedoch nur die Kontenblätter geführt, nicht aber die Freigabe der Entnahmen geprüft.
+
+Der Senat hält fest, dass die Verantwortung für die Verwahrung von Klientengeldern beim Rechtsanwalt liegt und nicht delegiert werden kann. Die Einschaltung eines externen Büros entbindet den Beschuldigten nicht von der Kontrolle der Treuhandkonten. Er hätte die Entnahmen selbst freigeben und die Abrechnungen selbst prüfen müssen.
+
+Der Beschuldigte hat außerdem erklärt, dass er die Honorare bei Mandatsende nach mündlicher Vereinbarung entnommen habe. Auch dieses Vorbringen wurde nicht als Rechtfertigung anerkannt, weil die Vereinbarung nicht schriftlich festgehalten war und die Klienten davon nichts wussten.
+
+Mitwirkung des Kammeranwalts
+
+Der Kammeranwalt [[person|Dragojević]] hat in seinem Schlussvortrag ausgeführt, dass die Verletzung der Verwahrungspflicht nicht auf einen Einzelfall beschränkt sei. Er hat auf die Entnahmen vom Treuhandkonto verwiesen, die in acht Fällen ohne Abrechnung erfolgten. Der Kammeranwalt hat eine Geldbuße im Ausmaß von EUR 3.000,00 beantragt und zusätzlich ein Berufsverbot von zwei Monaten angeregt.
+
+Der Senat hält den Antrag auf Berufsverbot für nicht erforderlich, weil der Beschuldigte seit der Anzeige keine weiteren Treuhandvorgänge übernommen hat, wie die Kammer bestätigt hat. Die Anregung auf Entzug der Treuhandermächtigung wurde jedoch aufgenommen, soweit sie den bestehenden Treuhandbestand betrifft.
+
+Der Beschuldigte hat in seinem letzten Wort erklärt, er bedauere die Vorgänge und habe die Kanzlei inzwischen einer Rechtsanwältin übergeben, die die Abrechnungen vollständig nachgeholt habe. Der Senat berücksichtigt diese Einsicht bei der Strafbemessung.
+
 Strafbemessung
 
 Der Senat hat die Geldbuße nach [[legal_norm|§ 45 RAO]] unter Berücksichtigung der wirtschaftlichen Verhältnisse des Beschuldigten bemessen. Eine Verwarnung kommt nicht in Betracht, weil die Verletzungen zu wiederholten Pflichtverstößen führten.

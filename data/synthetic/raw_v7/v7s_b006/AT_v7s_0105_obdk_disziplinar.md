@@ -57,7 +57,7 @@ Stellungnahme der Anzeiger
 
 Die Anzeiger [[person|Pirker]] und [[person|Dipl.-Ing. Elberich Ledóchowska]] haben in der Verhandlung ausgeführt, dass sie bis zur Auszahlung mehrfach um Auskunft über den Stand der Treuhandgelder gebeten haben. Die Auskünfte seien nur zögerlich erteilt worden. [[person|Pirker]] hat zudem vorgebracht, dass sie die Verzögerung der Auszahlung als Druckmittel empfunden habe. Der Senat hat diese Angaben als glaubhaft, aber nur teilweise belegt gewürdigt.
 
-Der Kammeranwalt [[person|Celal]] hat in seinem Schlussvortrag dargelegt, dass die Vorwürfe zur Honorarentnahme eindeutig seien, die Verzögerung aber auf eine organisatorische Schwäche der Kanzlei zurückzuführen sei. Die Vorsitzende [[judge|Bleibtreu]] hat die Verhandlung nach Anhörung aller Beteiligten geschlossen.
+Der Kammeranwalt [[person|Celal]] hat in seinem Schlussvortrag dargelegt, dass die Vorwürfe zur Honorarentnahme eindeutig seien, die Verzögerung aber auf eine organisatorische Schwäche der Kanzlei zurückzuführen sei. Die Vorsitzende [[judge|Bleibtreu]] hat die Verhandlung nach Anhörung aller Beteiligten geschlossen. Die Beratung fand im Anschluss ohne Anwesenheit der Beteiligten statt. Das Ergebnis wurde den Beteiligten mündlich mitgeteilt.
 
 Spruch
 
@@ -65,7 +65,7 @@ Der Beschuldigte [[lawyer|von Kleist]] wird für schuldig erkannt, die Pflichten
 
 Die Kosten des Verfahrens im Ausmaß von EUR 1.420,00 trägt der Beschuldigte.
 
-Gegen diese Entscheidung ist die Berufung an die [[court|OBDK]] innerhalb von vier Wochen zulässig. Die Berufung ist beim Disziplinarrat einzubringen.
+Gegen diese Entscheidung ist die Berufung an die [[court|OBDK]] innerhalb von vier Wochen zulässig. Die Berufung ist beim Disziplinarrat einzubringen. Die Beschuldigte und der Kammeranwalt haben nach Verkündung auf Rechtsmittel verzichtet; dieser Verzicht ist nur für den Kammeranwalt wirksam, soweit er die Strafhöhe betrifft.
 
 [[location|St. Johann im Pongau]], am [[date|16. Oktober 2026]]
 

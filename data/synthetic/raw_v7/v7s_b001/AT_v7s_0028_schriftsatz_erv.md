@@ -65,7 +65,7 @@ VII. Die [[organization|Sassmann]] stellt daher den
 
 ANTRAG,
 
-das [[court|Oberlandesgericht Wien]] möge das angefochtene Urteil abändern und die Einverleibung des Eigentumsrechts zugunsten der [[organization|Sassmann]] anordnen; hilfsweise das Urteil aufheben und die Rechtssache an das Erstgericht zurückverweisen.
+das [[court|OLG Wien]] möge das angefochtene Urteil abändern und die Einverleibung des Eigentumsrechts zugunsten der [[organization|Sassmann]] anordnen; hilfsweise das Urteil aufheben und die Rechtssache an das Erstgericht zurückverweisen.
 
 Die Berufung ist rechtzeitig. Sie stützt sich auf [[legal_norm|§ 463 ZPO]] und [[legal_norm|§ 477 ZPO]]. Die Kosten dieses Verfahrens sind nach [[legal_norm|§ 41 ZPO]] zu ersetzen.
 

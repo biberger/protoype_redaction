@@ -29,9 +29,9 @@ Sehr geehrte Damen und Herren,
 
 wir vertreten die Geschädigte, [[person|Mag. Dr. Anni Hainzl]], StA. [[country|Bosnien und Herzegowina]], in der oben bezeichneten Schadensangelegenheit. Eine Vollmacht legen wir bei. Wir ersuchen Sie, sämtliche Schreiben künftig an unsere Kanzlei zu richten.
 
-Ihr Versicherungsnehmer, [[person|Annäus Ing. Kropp]], hat am [[date|9. August 2026]] beim Rangieren eines Anhängers die Garage beschädigt, die auf [[land_register_id|GB 66946 Ainet]] / [[land_register_id|EZ: 1441]] steht. Betroffen sind das Garagentor, die Dachrinne und das Dach des Nebengebäudes.
+Ihr Versicherungsnehmer, [[person|Annäus Ing.⏎Kropp]], hat am [[date|9. August 2026]] beim Rangieren eines Anhängers die Garage beschädigt, die auf [[land_register_id|GB 66946 Ainet]] / [[land_register_id|EZ: 1441]] steht. Betroffen sind das Garagentor, die Dachrinne und das Dach des Nebengebäudes.
 
-Der Anhänger ist laut Zulassungsschein auf [[person|Michaëlis Constant]] zugelassen. Er hat den Anhänger Herrn [[person|Kropp]] für diese Fahrt überlassen. Die Halterhaftung wird daher ebenfalls geltend gemacht.
+Der Anhänger ist laut Zulassungsschein auf [[person|Michaëlis Constant]] zugelassen. Er, [[person|Constant Michaëlis]], hat den Anhänger Herrn [[person|Kropp]] für diese Fahrt überlassen. Die Halterhaftung wird daher ebenfalls geltend gemacht.
 
 Die Sachlage ist im Wesentlichen unstrittig. Herr [[person|Kropp]] hat beim Zurückstoßen den Anhänger seitlich gegen die Garage geführt. Der Vorfall wurde von [[person|Michaëlis]] bestätigt, der als Beifahrer im Fahrzeug saß. Frau [[person|Hainzl]] hat am [[date|9. August 2026]] noch vor Ort den Schaden fotografiert.
 

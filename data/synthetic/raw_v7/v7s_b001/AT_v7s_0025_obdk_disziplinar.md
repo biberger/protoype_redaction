@@ -87,7 +87,7 @@ V. Strafbemessung
 
 Die Kammer hat die Geldbuße unter Berücksichtigung der Schwere des Vergehens und der finanziellen Verhältnisse des Beschuldigten bemessen. Die Geldbuße ist binnen vier Wochen ab Rechtskraft auf das Konto der Kammer zu zahlen. Die Kammer hat die Vermögensverhältnisse des Beschuldigten nach den vorgelegten Steuerbescheiden für die Jahre 2024 und 2025 beurteilt. Das Einkommen aus der Kanzlei lag im Jahr 2025 bei rund EUR 64.000,00 brutto.
 
-Die Verteidigung hat beantragt, von einer Geldbuße abzusehen. Dieser Antrag wurde abgewiesen, weil die Treuhandpflichten nach [[legal_norm|§ 43a RAO]] nicht nur formale Bedeutung haben. Ein Verweis allein wäre nach Ansicht des Senates nicht ausreichend. Die Kosten des Verfahrens wurden in der Verhandlung bekannt gegeben; eine Aufstellung liegt dem Akt bei.
+Der Vorsitz hat die Verhandlung um 12:40 Uhr für eine Mittagspause unterbrochen. Die Verteidigung hat beantragt, von einer Geldbuße abzusehen. Dieser Antrag wurde abgewiesen, weil die Treuhandpflichten nach [[legal_norm|§ 43a RAO]] nicht nur formale Bedeutung haben. Ein Verweis allein wäre nach Ansicht des Senates nicht ausreichend. Die Kosten des Verfahrens wurden in der Verhandlung bekannt gegeben; eine Aufstellung liegt dem Akt bei.
 
 VI. Kosten
 

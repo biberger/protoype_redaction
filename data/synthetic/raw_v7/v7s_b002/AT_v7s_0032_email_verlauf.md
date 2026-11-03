@@ -107,3 +107,17 @@ im Badezimmer steht seit heute früh Wasser am Boden. Ich habe die Fotos angehä
 Mit freundlichen Grüßen
 [[person|Mouin Lali]]
 Tel. [[phone_number|0664 220 1177]]
+
+---
+
+Von: [[person|Mouin Lali]] <[[email|m.lali@gmx-mail.at]]>
+Gesendet: Dienstag, [[date|2. Dezember 2025]], 18:14
+An: [[person|Klara Kögl]] <[[email|k.kogl@freud-immobilien.at]]>
+Betreff: AW: Wasserschaden Top 7
+
+Liebe Frau [[person|Kögl]],
+
+danke für Ihre Rückmeldung. Der Installateur war am [[date|28. November 2025]] da und hat die Verbindung an der Waschmaschine ausgetauscht. Ob der Schaden auch an der Steigleitung entstanden ist, kann ich nicht beurteilen. Bitte geben Sie der Sachverständigen Frau [[person|Dipl.-Ing. Schneiderhan]] die Möglichkeit, die Feuchtigkeit im Estrich zu messen.
+
+Mit freundlichen Grüßen
+[[person|Mouin Lali]]

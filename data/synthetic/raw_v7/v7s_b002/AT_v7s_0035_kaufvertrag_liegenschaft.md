@@ -85,7 +85,7 @@ V. Übergabe
 
 9. Der Besitz geht mit dem Tag der vollständigen Kaufpreiszahlung über. Die Verkäuferin übergibt die Liegenschaften geräumt und in ordnungsgemäßem Zustand.
 
-10. Sämtliche Versorgungsleitungen werden bis zum Übergabetag durch die Verkäuferin auf deren Kosten abgemeldet. Die Zählerstände sind im Übergabeprotokoll festzuhalten. Die Verkäuferin bestätigt, dass die Anschlüsse für Strom und Wasser bis zur Grundgrenze hergestellt sind. Die Telefonnummer der Verkäuferin für Rückfragen zur Übergabe lautet [[phone_number|0463 258273 Durchwahl 78]].
+10. Sämtliche Versorgungsleitungen werden bis zum Übergabetag durch die Verkäuferin auf deren Kosten abgemeldet. Die Zählerstände sind im Übergabeprotokoll festzuhalten. Die Verkäuferin bestätigt, dass die Anschlüsse für Strom und Wasser bis zur Grundgrenze hergestellt sind. Die Telefonnummer der Verkäuferin für Rückfragen zur Übergabe lautet Tel. [[phone_number|0463 258273 Durchwahl 78]].
 
 VI. Erklärungen und Gewährleistung
 
@@ -143,6 +143,8 @@ B-Blatt: a) Eigentümerin: [[organization|ROSENKRANZ BAU GMBH]], [[company_regis
 
 C-Blatt: a) Pfandrecht zugunsten [[organization|Oberbank AG]], Höchstbetrag EUR 350.000,00, TZ [[case_number|4589/2019]]
 b) Wegerecht für [[land_register_id|EZ 155]], Anmerkung der Rangordnung TZ [[case_number|3290/2019]]
+
+Die Verkäuferin erklärt ferner, dass sie das Bauverfahren für das Wohnhaus gegenüber der Gemeinde ordnungsgemäß angezeigt hat und dass keine Einwendungen von Nachbarn vorliegen.
 
 Anhang B: Vollmacht
 

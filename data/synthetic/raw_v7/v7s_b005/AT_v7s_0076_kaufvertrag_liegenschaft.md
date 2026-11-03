@@ -100,6 +100,8 @@ Die Nebenkosten des Vertrages, insbesondere für die Vermessung der Grenzen und 
 
 Änderungen und Ergänzungen dieses Vertrages bedürfen der Schriftform. Sollte eine Bestimmung unwirksam sein, bleibt der Vertrag im Übrigen wirksam. Die Käuferin ist für Rückfragen zur Abwicklung unter folgender Nummer erreichbar: Tel. [[phone_number|+43-2742-9725902 Kl. 32]]. Die Parteien erklären, dass ihnen dieser Vertrag vor der Unterfertigung ausgehändigt wurde und dass sie ihn gelesen und verstanden haben.
 
+Die Treuhänderin hat die Vertragsparteien darauf hingewiesen, dass Geld, das auf dem Treuhandkonto eingeht, bis zur Verbücherung nicht verzinst wird, sofern nicht ausdrücklich eine Verzinsung vereinbart ist. Die Treuhänderin führt ein Anderkonto gemäß den berufsrechtlichen Vorschriften und stellt den Parteien über jede Bewegung eine Abrechnung zur Verfügung. Eine Haftung der Treuhänderin für Zahlungen, die auf Weisung beider Parteien erfolgen, besteht nicht.
+
 Ausgefertigt in drei Exemplaren, davon je eines für den Verkäufer, die Käuferin und die Treuhänderin.
 
 [[location|Bizau]], am [[date|14. Oktober 2026]]

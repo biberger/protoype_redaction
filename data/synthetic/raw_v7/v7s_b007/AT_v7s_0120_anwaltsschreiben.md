@@ -20,6 +20,7 @@ Schadenbearbeitung Kfz
 
 Unser Zeichen: [[other_identifier|Oberndorfer/Papp]]
 Ihr Zeichen: [[other_identifier|SSV-KH-88412]]
+Schaden-Nr. [[other_identifier|23/176427/23]]
 
 Betreff: Schadensfall vom [[date|9. September 2026]], Fahrzeug [[license_plate|EU-4413WW]]
 
@@ -31,7 +32,7 @@ Ihr Versicherungsnehmer [[person|Bogic Franjić]], GEB: [[date_of_birth|08.06.19
 
 Der Schaden am Fahrzeug beläuft sich laut Kostenvoranschlag auf EUR 3.480,00 netto. Wir fordern die [[organization|SSV]] auf, diesen Betrag bis zum [[date|10. November 2026]] zu überweisen.
 
-Die Schaden-Nr. der [[organization|SSV]] lautet [[other_identifier|23/176427/23]]; die Angaben zu Ihrem Versicherungsnehmer sind auf der Schadensmeldung vermerkt.
+Die Angaben zu Ihrem Versicherungsnehmer sind auf der Schadensmeldung vermerkt.
 
 Die Liegenschaft, auf der sich der Unfall in Teilen ereignete, steht im Eigentum der Erben und ist im Grundbuch unter [[land_register_id|GB 69452 Bildstein]] / [[land_register_id|EZ 2637]] ([[court|BG Schwaz]]) eingetragen. Die Zufahrt zum Grundstück ist für Ihren Versicherungsnehmer frei zugänglich.
 
@@ -42,6 +43,10 @@ Die Fotodokumentation, das Polizeiprotokoll und die Aussage des Zeugen [[person|
 Der Sachverständige hat den Schaden mit EUR 3.480,00 netto bewertet; das Gutachten ist diesem Schreiben angeschlossen. Mietwagenkosten für die Dauer von zwölf Tagen in Höhe von EUR 1.260,00 sind ebenfalls zu ersetzen, da unser Mandant aus beruflichen Gründen auf ein Fahrzeug angewiesen ist.
 
 Die [[organization|SSV]] hat bisher nur eine vorläufige Stellungnahme abgegeben, in der sie die Haftung dem Grunde nach nicht bestreitet, jedoch die Schadenshöhe in Frage stellt. Eine Begründung für die Kürzung wurde nicht angegeben. Wir ersuchen die [[organization|SSV]], die Kürzung zurückzunehmen oder den Betrag bis zum genannten Termin anzuerkennen. Im Falle einer Klage wird der Streitwert EUR 4.740,00 betragen, sofern die Mietwagenkosten einbezogen werden.
+
+Die Geschäftsführung der [[organization|Papp Bau]] hat den Hergang gegenüber unserer Kanzlei bestätigt und erklärt, dass der Fahrer keine Weisung zum Abbiegen ohne Blinker gegeben hat. Eine Stellungnahme des Fahrers liegt uns nicht vor.
+
+Wir weisen darauf hin, dass unser Mandant bereits am [[date|14. September 2026]] ein Schreiben an die Versicherung gerichtet hat, in dem die Schadensmeldung ergänzt wurde. Die Ergänzung betrifft die Lackschäden an der hinteren Tür, die bei der Erstbegehung nicht erfasst wurden. Eine Kopie des Schreibens liegt bei. Wir erwarten Ihre Rückmeldung innerhalb der genannten Frist. Für Fragen steht unser Sachbearbeiter zur Verfügung. Wir behalten uns alle weiteren Schritte vor. Bitte richten Sie Ihre Antwort an unser Büro.
 
 Bei Rückfragen erreichen Sie uns unter Tel. [[phone_number|+43-732-8149065 DW 555]].
 

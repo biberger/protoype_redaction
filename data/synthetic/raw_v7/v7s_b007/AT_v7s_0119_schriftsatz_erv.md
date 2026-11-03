@@ -87,7 +87,17 @@ Beilagenverzeichnis:
 ./D Schreiben vom [[date|2. Dezember 2025]]
 ./E Schadensabrechnung der Versicherung
 
+Der Beklagte hat die Verantwortung für die Mängel mit Schreiben vom [[date|8. Jänner 2026]] zurückgewiesen. Er hat dabei auf die Witterungsverhältnisse im November 2025 verwiesen und behauptet, die Dachabdichtung sei zum Zeitpunkt des Schadens nicht Gegenstand des Werkvertrags gewesen. Diese Behauptung widerspricht dem Werkvertrag, der die Dachflächen ausdrücklich umfasst.
+
+Die Klägerin hat im Hinblick auf die Witterung eine Auskunft des Wetterdienstes eingeholt, aus der hervorgeht, dass am [[date|17. November 2025]] die Niederschlagsmenge im Ortsgebiet von [[location|Mölbling]] durchschnittlich war. Ein außergewöhnliches Ereignis lag daher nicht vor.
+
+Der Beklagte hat außerdem vorgebracht, dass er die Arbeiten einem Mitarbeiter übertragen habe, der nicht über die erforderliche Ausbildung verfüge. Die Klägerin hält dem entgegen, dass der Beklagte als Werkunternehmer selbst für die Auswahl seiner Mitarbeiter und die Einhaltung der Regeln der Technik einzustehen hat.
+
+Die Klägerin hat die Halle wegen des Schadens für drei Wochen nicht nutzen können. Der Nutzungsausfall ist in dem geltend gemachten Betrag nicht enthalten und bleibt vorbehalten. Die Klägerin ersucht das Gericht, den Beklagten zur Vorlage der Versicherungspolizze des eigenen Betriebes aufzufordern, soweit dieser eine Haftpflichtversicherung unterhält. Der Beklagte hat die Polizze bisher nicht vorgelegt.
+
 Die Gerichtsgebühren wurden entrichtet.
+
+Rückfragen zur Akte richten Sie bitte an die Kanzlei unter Tel. [[phone_number|+43 662 900 32 79 Kl. 89]].
 
 [[location|Mölbling]], am [[date|12. Jänner 2026]]
 
@@ -100,4 +110,4 @@ Der Werkvertrag wurde zwischen der Klägerin und dem Beklagten [[person|Burcu]] 
 
 Die Zustellung an den Beklagten erfolgt an die Adresse seines Wohnsitzes. Der Beklagte [[person|Burcu]] ist seit dem Jahr 2023 nicht mehr an der Geschäftsadresse gemeldet, weshalb die Zustellung an den Wohnsitz beantragt wird.
 
-Der Beklagte ist geb. [[date_of_birth|16. Juni 1975]], wohnhaft in [[address|4872 Neukirchen an der Vöckla]], und hat im Verfahren zu seinem Geburtsdatum keine Angaben bestritten.
+Der Beklagte ist geb. [[date_of_birth|16. Juni 1975]], wohnhaft in [[address|4872 Neukirchen an der Vöckla]], und hat im Verfahren zu seinem Geburtsdatum keine Angaben bestritten. Die Klägerin regt an, das Gericht möge einen Termin zur Vergleichsverhandlung anberaumen, sofern der Beklagte die Forderung teilweise anerkennt.

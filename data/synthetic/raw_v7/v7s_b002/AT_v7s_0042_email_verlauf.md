@@ -124,3 +124,21 @@ ich habe die Fotos des Schimmels noch auf meinem Handy, ich schicke sie Ihnen na
 
 Herzlichen Dank
 [[person|Konstantine Witzmann]]
+
+---
+
+Von: [[person|Genoveva Schumacher]] <[[email|g.schumacher@schumacher-hausverwaltung.at]]>
+Gesendet: Montag, [[date|12. Jänner 2026]], 09:20
+An: [[person|Ledebur]] <[[email|office@ledebur.at]]>
+Betreff: AW: Gutachtertermin
+
+Sehr geehrte Frau [[person|Ledebur]],
+
+der Gutachtertermin am [[date|19. Jänner 2026]] steht fest. Die Hausverwaltung wird den Termin auch Frau [[person|Witzmann]] schriftlich bestätigen. Bitte beachten Sie, dass Frau [[person|Reidinger]] laut Frau [[person|Witzmann]] an diesem Tag nicht anwesend sein kann; ein Ersatztermin wäre möglich.
+
+Die Zahlungsrückstände bitte ich, vor dem Termin nochmals mit der [[organization|DWG]] abzustimmen. Ich ersuche um Ihre Rückmeldung bis Dienstag.
+
+Mit freundlichen Grüßen
+[[person|Genoveva Schumacher]]
+[[organization|Schumacher Hausverwaltung]]
+Tel. [[phone_number|0463 77 21 09 Kl. 12]]

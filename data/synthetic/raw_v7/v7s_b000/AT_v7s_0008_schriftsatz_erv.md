@@ -42,7 +42,7 @@ Das Verfahren ist beim [[court|BG Melk]] anhängig. Der Kläger behauptet, sein 
 
 3. Der Kläger hat die Leitung nach Angaben der Beklagten selbst verändert, indem er im Jahr 2023 einen zusätzlichen Anschluss für die Waschmaschine setzen ließ. Dieser Anschluss war nicht von der [[organization|Schärf e.U.]] ausgeführt.
 
-4. Der Geschäftsführer der [[organization|Schärf e.U.]], Herr [[person|Alan Pražák]], hat den Schadensort am [[date|6. März 2026]] besichtigt und die Reparatur der Leitung angeboten. Der Kläger hat dieses Angebot abgelehnt.
+4. Der Geschäftsführer der [[organization|Schärf e.U.]], Herr [[person|Alan Pražák]], hat den Schadensort am [[date|6. März 2026]] besichtigt und die Reparatur der Leitung angeboten. Der Kläger hat dieses Angebot abgelehnt. Die Nachbarin [[person|Friederun Esscc]], *[[date_of_birth|17. Juni 1936]], hat den Wasseraustritt im Hof beobachtet und dies schriftlich bestätigt.
 
 **III. Beweisanbot**
 

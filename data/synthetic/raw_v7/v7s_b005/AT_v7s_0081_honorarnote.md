@@ -19,6 +19,8 @@ Betreff: Grundbuchsangelegenheit, Wohnungseigentum
 GZ der Kanzlei: [[other_identifier|GD/Kastner/8710]]
 UZ: [[other_identifier|B-BKastner/Sitte]]
 
+Rückfragen zur Abrechnung: Tel. [[phone_number|+43 5572 527 74 16 Durchwahl 23]]
+
 Auftraggeberin: [[person|Heidelies Dr. Walser]]
 
 Leistungen:
@@ -36,6 +38,8 @@ Gesamtbetrag: EUR 1.152,00
 GZ der Kanzlei: [[other_identifier|506/23 GLR]]
 
 Die Eingabe an das Grundbuchgericht wurde am [[date|22.09.2026]] elektronisch übermittelt. Der Grundbuchsauszug vom [[date|25.09.2026]] ist als Beilage angeschlossen. Der Rückstand aus der Lastenfreistellung wurde mit dem Notariat am [[date|19.10.2026]] abgestimmt; die Auslagen für Grundbuchsabfragen, Vollmacht und Beglaubigung in Höhe von EUR 42,00 sind umsatzsteuerfrei und in obiger Summe nicht enthalten.
+
+Die Honorarnote bezieht sich auf die Vertretung im Grundbuchsverfahren; eine Vertretung in weiteren Verfahren ist nicht Gegenstand dieser Rechnung.
 
 Die Leistungen wurden nach dem [[legal_norm|Rechtsanwaltstarifgesetz]] verrechnet. Die Zeitaufwände sind in den Positionen zusammengefasst; eine detaillierte Aufstellung kann auf Verlangen übermittelt werden. Der Betrag ist binnen 14 Tagen fällig.
 

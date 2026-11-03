@@ -50,6 +50,10 @@ Die Beamtin [[person|Pammer]] hat eine Skizze des Unfallortes angefertigt, die d
 
 Gegen die Lenkerin des Fahrzeugs Nr. 2 wird ein Verwaltungsstrafverfahren wegen des Verdachts der Verletzung der Vorrangregeln eingeleitet. Die Anzeige wird an die [[organization|Bezirkshauptmannschaft Villach-Land]] weitergeleitet, soweit dies die Zuständigkeit erfordert. Die Strafverfügung wird der Beschuldigten nach den Vorschriften der Zustellung zugestellt.
 
+Die Fahrbahn war an der Unfallstelle durch eine Baustelle verengt, die Hinweisschilder waren jedoch ordnungsgemäß aufgestellt. Die Beleuchtung des Kreisverkehrs war eingeschaltet. Ein Defekt an einem der Fahrzeuge konnte nicht festgestellt werden; die Bremsen wurden bei der Besichtigung am Unfallort überprüft und für funktionstüchtig befunden. Die Sichtverhältnisse an der Haltestelle waren durch einen Plakatständer eingeschränkt, was im Bericht gesondert festgehalten wird.
+
+Die Lenker wurden darüber belehrt, dass sie bei einem Unfall mit Sachschaden die Unfallmeldung nach [[legal_norm|§ 4 StVO]] zu erstatten haben. Der Schaden am Pkw des Herrn [[person|Metzler]] wurde von diesem bereits fotografisch dokumentiert; die Fotos wurden der Anzeige als Beilage ./2 angeschlossen.
+
 Die Beamten haben die Beteiligten darüber belehrt, dass sie den Unfall binnen einer Woche der Versicherung melden müssen. Eine Alkoholvortestung wurde bei allen Lenkern mit negativem Ergebnis durchgeführt.
 
 Zeugenangaben

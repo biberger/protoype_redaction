@@ -41,6 +41,8 @@ Sollte bis dahin keine Bestätigung eintreffen, werden wir eine Feststellungskla
 
 Für Rückfragen stehen wir unter der oben angegebenen Telefonnummer zur Verfügung. Eine Terminvereinbarung ist auch telefonisch möglich.
 
+Ergänzend weisen wir darauf hin, dass unser Mandant den Kaufgegenstand im Jahr 2019 mit einem Dachschaden übernommen hat und die Reparatur auf eigene Kosten durchgeführt hat. Die Rechnungen der Dachdeckerei vom [[date|14. Mai 2019]] und vom [[date|2. August 2019]] liegen in Kopie bei. Eine Anrechnung auf den Kaufpreis wurde nie verlangt, weshalb auch keine Gegenforderung besteht.
+
 Mit freundlichen Grüßen
 
 [[person|Ornstein]]

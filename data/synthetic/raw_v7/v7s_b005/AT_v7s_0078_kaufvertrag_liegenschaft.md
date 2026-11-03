@@ -92,6 +92,14 @@ Die Übergabe erfolgt mit dem Tag der vollständigen Zahlung. Die Schlüssel zum
 
 Die Käuferin ist unter Tel. [[phone_number|+43 2742 455 15 80 Kl. 52]] für Rückfragen erreichbar. Änderungen dieses Vertrages bedürfen der Schriftform. Die Parteien bestätigen, dass sie den Vertrag gelesen und verstanden haben.
 
+§ 6a Kaufpreisfälligkeit und Verzug
+
+Die Käuferin gerät mit der Zahlung in Verzug, wenn sie den Kaufpreis nicht binnen vierzehn Tagen nach Aufforderung durch die Treuhänderin überweist. Die Verkäuferinnen sind in diesem Fall berechtigt, Verzugszinsen in gesetzlicher Höhe zu verlangen und nach fruchtlosem Ablauf einer schriftlichen Nachfrist vom Vertrag zurückzutreten. Die Kosten einer erneuten Lastenfreistellung trägt die säumige Partei.
+
+§ 6b Erklärungen zur Liegenschaft
+
+Die Verkäuferinnen erklären, dass die Liegenschaft nicht als Kulturgut geschützt ist und dass ihnen keine Bodenverunreinigung bekannt ist. Die Käuferin nimmt zur Kenntnis, dass die Gemeinde für die Grundstücksgrenzen keine Haftung übernimmt, solange keine Vermessung nach dem letzten Stand erfolgt ist.
+
 Ausgefertigt in drei Exemplaren.
 
 [[address|8820 Sankt Marein bei Neumarkt]], am [[date|3. November 2026]]

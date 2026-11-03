@@ -50,7 +50,7 @@ Die Verkäufer erteilen hiermit der Käuferin die Einwilligung in die Einverleib
 
 **V. Übergabe und Gewährleistung**
 
-Die Übergabe erfolgt mit Zahlungseingang. Die Verkäufer haften für die Lastenfreiheit, nicht aber für die Beschaffenheit des Bodens. Die Käuferin erklärt, die Liegenschaft besichtigt zu haben.
+Die Übergabe erfolgt mit Zahlungseingang. Die Verkäufer haften für die Lastenfreiheit, nicht aber für die Beschaffenheit des Bodens. Die Käuferin erklärt, die Liegenschaft besichtigt zu haben. Die Verkäufer erklären, dass auf der Liegenschaft keine Mietverhältnisse bestehen. Ein Wegerecht zugunsten der Nachbarparzelle besteht nicht. Die Verkäufer übergeben die Unterlagen über die Wasser- und Stromanschlüsse; die Käuferin bestätigt den Erhalt. Die [[organization|Gemeinde Frankenau]] hat mit Schreiben vom [[date|12. September 2025]] auf ein Vorkaufsrecht verzichtet. Sollte sich nach der Übergabe herausstellen, dass Altlasten vorhanden sind, werden diese von den Verkäufern nach Maßgabe des Gesetzes übernommen, soweit sie ihnen bekannt waren.
 
 **VI. Schlussbestimmungen**
 
@@ -131,6 +131,14 @@ Die Kosten der Vertragserrichtung und der Grundbucheintragung ergeben sich aus f
 ./2 Teilungsplan des Vermessungsamtes, GZ [[case_number|2231/25]]
 ./3 Vollmacht der Käuferin vom [[date|2. Oktober 2025]]
 ./4 Treuhandvereinbarung, Treuhandbuch-Nr. [[other_identifier|2024/885]]
+
+**XI. Zustellungen und Mitteilungen**
+
+Alle Mitteilungen zwischen den Vertragsparteien erfolgen schriftlich an die im Vertrag genannten Anschriften. Die Käuferin ersucht, Zustellungen an die Geschäftsanschrift der [[organization|Spiegelfeld]] zu richten. Eine Änderung der Anschrift ist den anderen Vertragsparteien binnen zwei Wochen mitzuteilen. Mitteilungen per E-Mail gelten nur dann als zugegangen, wenn sie vom Empfänger bestätigt wurden.
+
+**XII. Unterschriftsbeglaubigung**
+
+Die Unterschriften der Verkäufer [[person|Husslein]] und [[person|Kral]] wurden in Gegenwart des Rechtsanwalts [[lawyer|Eidenberger]] vollzogen. Die Identität der Verkäufer wurde anhand gültiger Lichtbildausweise festgestellt. Die Unterschrift der Geschäftsführerin [[person|Gligić]] wurde durch Vorlage eines aktuellen Firmenbuchauszuges bestätigt, wonach sie zur Vertretung der Käuferin allein berechtigt ist. Die Vertragsparteien bestätigen, dass der Vertrag vor der Unterfertigung vollständig vorgelesen wurde.
 
 **X. Begleitschreiben**
 

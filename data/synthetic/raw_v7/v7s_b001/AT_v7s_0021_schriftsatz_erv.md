@@ -74,7 +74,7 @@ Die Zeugin [[person|Lunzer]] hat die Montage als Bauleiterin begleitet. Sie kann
 
 Die Zweitbeklagte [[person|Fischer]] hat in einem Gespräch mit der Klägerin am [[date|6. Februar 2026]] erklärt, sie sei zur Zahlung bereit, wenn ihr eine Ratenzahlung eingeräumt werde. Die Klägerin hat dem nicht zugestimmt, weil die Forderung bereits fällig war.
 
-Die Klägerin ist zur Vorlage eines Kostenverzeichnisses bereit. Die Pauschalgebühr wurde entrichtet.
+Die Klägerin ist zur Vorlage eines Kostenverzeichnisses bereit. Die Vollmacht der Klägerin liegt diesem Schriftsatz bei und wird auf Verlangen nachgereicht. Die Pauschalgebühr wurde entrichtet.
 
 Rechtliche Ausführungen
 
@@ -88,7 +88,7 @@ Die Klägerin hat die Pflichten aus dem Werkvertrag erfüllt. Sie hat das Werk m
 
 Die Klägerin hat die Forderung der Erstbeklagten mit Schreiben vom [[date|28. Jänner 2026]] bestätigt und einen Zahlungsplan angeboten. Der Plan sah vor, den Restbetrag in monatlichen Raten von EUR 500,00 zu begleichen. Die Erstbeklagte hat das Angebot nicht angenommen und keine Zahlung geleistet.
 
-Die Zweitbeklagte wurde die Klage ebenfalls zugestellt; sie hat bis zum Zeitpunkt dieses Schriftsatzes keine Einwendungen erhoben. Die Klägerin ersucht das Gericht, im Falle eines Anerkenntnisses der Erstbeklagten einen Zahlungsbefehl nach [[legal_norm|§ 448 ZPO]] zu erlassen.
+Der Zweitbeklagten wurde die Klage ebenfalls am [[date|3. Februar 2026]] durch Übergabe zugestellt; sie hat bis zum Zeitpunkt dieses Schriftsatzes keine Einwendungen erhoben. Die Klägerin ersucht das Gericht, im Falle eines Anerkenntnisses der Erstbeklagten einen Zahlungsbefehl nach [[legal_norm|§ 448 ZPO]] zu erlassen.
 
 Die Erstbeklagte hat zudem in ihrem Schreiben vom [[date|3. Februar 2026]] behauptet, die Ware sei nicht vollständig geliefert worden. Die Klägerin bestreitet dies; der Lieferschein vom [[date|21. Juli 2023]] ist von der Erstbeklagten unterfertigt.
 

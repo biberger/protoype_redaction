@@ -92,6 +92,28 @@ IX. Übergabe
 
 Die Übergabe erfolgt mit der Einverleibung des Eigentumsrechts. Die Käufer werden ab diesem Zeitpunkt zur Nutzung der Liegenschaft berechtigt. Die Zählerstände werden bei der Übergabe festgehalten; die Verkäuferinnen übergeben die Schlüssel für das Gartentor.
 
+Kaufpreisfälligkeit und Verzug
+
+Die Käufer sind verpflichtet, den Kaufpreis fristgerecht nach Verbücherungsreife zu bezahlen. Bei Verzug über mehr als vierzehn Tage können die Verkäuferinnen Verzugszinsen verlangen oder vom Vertrag zurücktreten. Die Kosten einer erneuten Verbücherungsanfrage trägt die säumige Partei.
+
+Mängelhaftung
+
+Die Verkäuferinnen haften nicht für Mängel, die bei Vertragsabschluss offen erkennbar waren. Der Zustand der Böschung am südlichen Rand der Liegenschaft ist den Käufern bekannt; sie haben die Liegenschaft am [[date|6. Oktober 2026]] gemeinsam mit den Verkäuferinnen besichtigt. Für verdeckte Mängel gilt die gesetzliche Gewährleistungsfrist. Eine Haftung für Altlasten wird ausgeschlossen, soweit die Verkäuferinnen keine Kenntnis hatten.
+
+Vollmachten und Erklärungen
+
+Die Vertragsparteien erteilen der Kanzlei die Vollmacht, alle Erklärungen gegenüber dem Grundbuchgericht, dem Finanzamt und der Gemeinde abzugeben. Die Vollmacht erlischt mit der Einverleibung des Eigentumsrechts der Käufer. Die Käufer erklären, dass sie die Vollmacht zur Einholung der Unbedenklichkeitsbescheinigung nach dem [[legal_norm|Grunderwerbsteuergesetz]] erteilen.
+
+Belehrung
+
+Die Kanzlei hat die Vertragsparteien darüber belehrt, dass dieser Vertrag einer Genehmigung nicht bedarf, soweit kein Grundverkehrsrecht Anwendung findet. Die Käufer wurden darauf hingewiesen, dass sie die Erwerbsteuer innerhalb der gesetzlichen Frist anzuzeigen haben. Die Verkäuferinnen wurden über die Folgen eines Rücktritts belehrt. Die Parteien bestätigen, dass sie den Vertrag vor der Unterfertigung gelesen haben und dass ihnen die Urkunde ausgehändigt wurde.
+
+Anlagen
+
+Anlage ./1: Lageplan der Liegenschaft vom [[date|12. Juni 2025]]
+Anlage ./2: Grundbuchsauszug vom [[date|20. Oktober 2026]]
+Anlage ./3: Vollmacht der Verkäuferin [[person|Podhradská]]
+
 X. Schlussbestimmungen
 
 Die Kosten dieses Vertrages trägt jede Partei zur Hälfte. Die Grunderwerbsteuer tragen die Käufer. Änderungen dieses Vertrages bedürfen der Schriftform. Die Kanzlei ist für Rückfragen unter Tel. [[phone_number|+43 463 623 46 73 DW 192]] erreichbar.

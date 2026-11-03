@@ -59,7 +59,7 @@ Tel. [[phone_number|01 455560 Kl. 12]]
 
 Die Summe der Passiva beträgt EUR 28.844,30. Die Aktiva ergeben nach Abzug der Passiva einen Nettobetrag von rund EUR 285.000,00 im Verhältnis zur Liegenschaft, wobei der Kreditrest in dieser Rechnung bereits berücksichtigt ist.
 
-Der Sachverständige hat in seinem Gutachten vom [[date|12. Mai 2026]] darauf hingewiesen, dass der Dachstuhl sanierungsbedürftig ist und die Schätzung diesen Mangel nur teilweise berücksichtigt. Die Liegenschaft ist im Grundbuch seit dem Jahr 1994 auf die Erblasserin einverleibt; ein Vorkaufsrecht zugunsten der Gemeinde ist nicht eingetragen. Die Erben haben die Schätzung zur Kenntnis genommen und auf eine Nachschätzung verzichtet, soweit die Abweichung EUR 10.000,00 nicht übersteigt.
+Der Sachverständige hat in seinem Gutachten vom [[date|12. Mai 2026]] darauf hingewiesen, dass der Dachstuhl sanierungsbedürftig ist und die Schätzung diesen Mangel nur teilweise berücksichtigt. Die Liegenschaft ist im Grundbuch seit dem Jahr 1994 auf die Erblasserin einverleibt; ein Vorkaufsrecht zugunsten der Gemeinde ist nicht eingetragen. Die Erben haben die Schätzung zur Kenntnis genommen und auf eine Nachschätzung verzichtet, soweit die Abweichung EUR 10.000,00 nicht übersteigt. Dies wurde im Protokoll vermerkt.
 
 Die Erbschaftsteuer entfällt nach geltender Rechtslage; Gerichtsgebühren für die Einantwortung werden nach dem Wert der Liegenschaft bemessen und sind von den Erben im Verhältnis ihrer Quoten zu tragen. [[person|Rudigier]] hat um Stundung der Gerichtsgebühr bis zur Veräußerung des Miteigentumsanteils ersucht.
 

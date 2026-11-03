@@ -49,7 +49,7 @@ vielen Dank für Ihre Nachricht. Wir haben die Unterlagen gesichtet und stellen 
 > Die Klage ist beim [[court|Landesgericht Innsbruck]] zu [[case_number|5 Cg 88/26p]] eingebracht worden.
 > Klientennummer: [[other_identifier|60238]]
 
-Wir schlagen vor, dass wir die Gegenseite zunächst zu einem Vergleich einladen. Die Vermieterin hat bereits durch [[lawyer|Hansgeorg Hanisch]] Kontakt aufgenommen, siehe unten. Die Unterlagen zum Mietverhältnis, insbesondere den Zahlungsverlauf und die Übergabeprotokolle, übersenden Sie bitte bis Mittwoch an unser Sekretariat.
+Wir schlagen vor, dass wir die Gegenseite zunächst zu einem Vergleich einladen. Die Vermieterin hat bereits durch [[lawyer|Hansgeorg Hanisch]] Kontakt aufgenommen, siehe unten. Die Unterlagen zum Mietverhältnis, insbesondere den Zahlungsverlauf und die Übergabeprotokolle, übersenden Sie bitte bis Mittwoch an unser Sekretariat. Vielen Dank.
 
 Mit freundlichen Grüßen
 
@@ -93,6 +93,8 @@ der Vorschlag von [[lawyer|Hanisch]] geht mir zu weit. Ich bin nicht bereit, die
 
 > Am [[date|14.10.2026]] um 16:47 schrieb [[lawyer|Hansgeorg Hanisch]]:
 > Die [[organization|IGS]] ist bereit, die offenen Mietanteile bis zum [[date|30. November 2026]] zu stunden.
+
+Für ein Telefonat stehe ich am Donnerstag ab 14 Uhr zur Verfügung.
 
 Mit freundlichen Grüßen
 [[person|Marfa Kail]]

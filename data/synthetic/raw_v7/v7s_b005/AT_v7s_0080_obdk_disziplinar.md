@@ -58,6 +58,8 @@ Zur Zahlung vom [[date|6. Mai 2024]]: Die Empfängerin war nach dem Vorbringen d
 
 Die Stellungnahme des Klienten [[person|Hagspiel]] ist in weiten Teilen übereinstimmend mit den Kontoauszügen. Soweit Herr [[person|Hagspiel]] die Anzahl der Besprechungen angibt, geht der Senat davon aus, dass sie nicht vollständig erinnerlich sind. Dies beeinträchtigt die Glaubwürdigkeit hinsichtlich der Abrechnungen nicht, weil diese schriftlich nie übermittelt wurden, wie auch die Kanzleiakten zeigen.
 
+Die Klientin [[person|Ludmila Ferenc]] wohnt in [[location|St. Margarethen im Burgenland]]; die Ladungen zur Einvernahme wurden an diese Anschrift zugestellt und blieben unbeanstandet.
+
 Die Beschuldigte bestreitet in ihrer Stellungnahme die Vorwürfe zu den Zahlungen vom [[date|12. März 2024]] nicht; sie beruft sich auf eine Überlastung der Kanzlei im ersten Halbjahr 2024 und auf den Umstand, dass eine Mitarbeiterin die Buchhaltung übernommen hatte. Der Senat wertet dies nicht als Rechtfertigung. Ein Rechtsanwalt hat seine Kanzlei so zu organisieren, dass er für die Verwahrung und Abrechnung fremder Gelder selbst einsteht.
 
 Die Anträge der Verteidigung auf Vertagung vom [[date|18. September 2024]] wurden abgewiesen, weil die Beschuldigte bereits zweimal um Verschiebung ersucht hatte und keine neuen Beweise angeboten wurden.
@@ -73,6 +75,12 @@ Die Verteidigung hat zudem beantragt, das Verfahren einzustellen, soweit die Zah
 Rechtliche Würdigung
 
 Der [[court|OBDK]] hat in ähnlich gelagerten Fällen wiederholt ausgesprochen, dass die wiederholte Verletzung der Abrechnungspflicht eine Geldbuße rechtfertigt. Ein Rückgriff auf die Verwarnung nach [[legal_norm|§ 45 Abs 1 Z 1 RAO]] scheidet daher aus. Der [[court|OGH]] als Disziplinargericht hat in seiner Entscheidung vom [[date|17. Juni 2024]], [[case_number|D 9/2024]], klargestellt, dass auch die Dauer der Pflichtverletzung zu berücksichtigen ist.
+
+Gesamtbild
+
+Der Senat hat das Gesamtbild des Verfahrens gewürdigt. Die Beschuldigte hat die Auszahlungen nicht in der Absicht vorgenommen, sich zu bereichern; sie hat jedoch die Gefahr der Schädigung der Klienten erkannt und trotzdem Auszahlungen veranlasst. Dies unterscheidet den Fall von einer bloßen Nachlässigkeit bei der Buchführung. Der Senat sieht darin einen Verstoß von erheblichem Gewicht, der die Verhängung einer Geldbuße rechtfertigt.
+
+Bei der Bemessung wurde außerdem berücksichtigt, dass die Verfahrensdauer seit der Anzeige mehr als ein Jahr betrug. Dies ist der Beschuldigten nicht zuzurechnen, weil die Anklageschrift wegen der Verhinderung des Kammeranwalts verspätet eingebracht wurde.
 
 Strafbemessung
 

@@ -17,6 +17,7 @@ Rechnungsdatum: [[date|30. September 2026]]
 Rechnungsnummer: 2026-RP-1187
 
 Mandantin: [[person|Adelgunde Sterneck]]
+[[address|4910 Ried im Innkreis]]
 UZ: [[other_identifier|249/23 E]]
 
 Leistungsübersicht (Datum | Leistung | Betrag):
@@ -44,7 +45,9 @@ Bei Rückfragen zur Abrechnung erreichen Sie die Kanzlei unter Tel. [[phone_numb
 
 Die Honorarnote berücksichtigt die Vorarbeiten für den Übergabetermin. Der Termin wurde am [[date|2. Juni 2026]] vereinbart und am [[date|17. Juni 2026]] mit beiden Parteien besprochen. Eine Frist für die Übergabe war bis zum [[date|31. Juli 2026]] vorgesehen; sie wurde auf Wunsch von [[person|Schächter]] um zwei Wochen verschoben. Die dadurch entstandenen Mehraufwendungen sind in der Position vom [[date|1. September 2026]] enthalten.
 
-Für die Abrechnung wurden die Stundensätze nach dem [[legal_norm|Rechtsanwaltstarifgesetz]] zugrunde gelegt. Eine Pauschalvereinbarung besteht nicht. Die Auslagen sind belegt; die Belege werden auf Verlangen vorgelegt.
+Für die Abrechnung wurden die Stundensätze nach dem [[legal_norm|Rechtsanwaltstarifgesetz]] zugrunde gelegt. Eine Pauschalvereinbarung besteht nicht. Die Auslagen sind belegt; die Belege werden auf Verlangen vorgelegt. Die Auslagenbelege sind dieser Honorarnote angeschlossen, soweit sie nicht bereits übermittelt wurden. Die Umsatzsteuer wird gesondert ausgewiesen.
+
+Die Rechnung wurde nach Abschluss der Angelegenheit erstellt, nachdem die Vereinbarung am [[date|31. Juli 2026]] unterzeichnet worden war. Eine Vorauszahlung wurde nicht geleistet. Die Rechnungsstellung erfolgt gemäß den Vorgaben der Mandantin, die eine getrennte Abrechnung der Auslagen verlangt hat.
 
 Sollten Sie Einwände gegen einzelne Positionen haben, teilen Sie uns diese bitte innerhalb von 14 Tagen schriftlich mit. Nach Ablauf dieser Frist gilt die Honorarnote als anerkannt, soweit kein Einwand erhoben wurde.
 

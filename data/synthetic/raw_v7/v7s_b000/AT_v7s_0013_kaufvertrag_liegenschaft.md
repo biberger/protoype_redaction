@@ -62,7 +62,7 @@ Das Grundstück umfasst eine Fläche von 1.184 m² laut Vermessungsurkunde vom [
 
 3. Die Zahlung erfolgt auf das Treuhandkonto IBAN [[bank_account|AT87 3144 5965 4235 8105]], das bei der [[organization|Waldviertler Volksbank Bad Tatzmannsdorf registrierte Genossenschaft mit beschränkter Haftung]] geführt wird.
 
-4. Die Käufer sind berechtigt, den Restkaufpreis nicht vor der Lastenfreistellung zu entrichten.
+4. Die Käufer sind berechtigt, den Restkaufpreis nicht vor der Lastenfreistellung zu entrichten. Eine Verzinsung des Kaufpreises ist nicht vereinbart.
 
 **IV. Lastenfreistellung und Gewährleistung**
 
@@ -74,7 +74,7 @@ Das Grundstück umfasst eine Fläche von 1.184 m² laut Vermessungsurkunde vom [
 
 4. Die Verkäuferin legt einen Grundbuchsauszug vom [[date|2. Juni 2026]] vor. Die Käufer bestätigen, dass ihnen die im Auszug eingetragenen Dienstbarkeiten bekannt sind. Das Wegerecht zugunsten des Nachbargrundstücks bleibt aufrecht. Ein Leitungsrecht für die Wasserversorgung des Nachbarn ist im Grundbuch nicht eingetragen, wohl aber in einem Anhang zum Kaufvertrag von 1994 erwähnt, den die Verkäuferin dem Entwurf beilegt.
 
-5. Die Käufer weisen darauf hin, dass der Garten bisher ohne Bewilligung als Pool-Standort genutzt wurde. Die Verkäuferin verpflichtet sich, die Baubewilligung nachzureichen oder den Pool vor Übergabe zu entfernen.
+5. Die Käufer weisen darauf hin, dass der Garten bisher ohne Bewilligung als Pool-Standort genutzt wurde. Die Verkäuferin verpflichtet sich, die Baubewilligung nachzureichen oder den Pool vor Übergabe zu entfernen. Die Käufer behalten sich vor, die Kosten der Entfernung vom Kaufpreis abzuziehen.
 
 Die Käufer haben die Vorkaufsverzichtserklärung des Nachbarn [[person|Dorfner Rupert]] vom [[date|9. Juni 2026]] vorgelegt. Der Nachbar verzichtet darin auf ein allfälliges Vorkaufsrecht an dem Grundstück mit der Nummer 1011/21, das an das Kaufgrundstück angrenzt.
 
@@ -88,7 +88,7 @@ Die Verkäuferin hat zudem die Abrechnung der Betriebskosten für das Jahr 2025 
 
 3. Die Treuhänderin wird die Käufer über den Stand der Rangordnung unterrichten. Die Käuferin [[person|Sue Broz]] hat der Treuhänderin eine gesonderte Vollmacht für den Fall der Verhinderung des Käufers [[person|Hirschler]] erteilt.
 
-Die Käufer haben eine Haushaltsversicherung für das Gebäude ab dem Übergabetag abzuschließen. Die Verkäuferin bestätigt, dass die bisherige Versicherung mit dem Übergabetag gekündigt wird; die Prämie für das laufende Jahr wird zeitanteilig abgerechnet.
+Die Käufer haben eine Haushaltsversicherung für das Gebäude ab dem Übergabetag abzuschließen und den Nachweis dem Treuhänder vorzulegen. Die Verkäuferin bestätigt, dass die bisherige Versicherung mit dem Übergabetag gekündigt wird; die Prämie für das laufende Jahr wird zeitanteilig abgerechnet.
 
 Die Käufer erhalten bei Übergabe sämtliche Schlüssel, die Zählerstände der Strom-, Wasser- und Gaszähler sowie die Bedienungsanleitungen für die Heizungsanlage und die Lüftungsanlage im Keller. Die Verkäuferin hat zudem die Wartungsverträge für die Heizung mit dem zuständigen Installateur schriftlich zu kündigen.
 
@@ -114,7 +114,7 @@ Die Verkäuferin erteilt die grundbücherliche Einwilligung zur Einverleibung de
 
 8. Der Kaufgegenstand umfasst auch die im Garten befindlichen Obstbäume und den Gartenzaun, nicht jedoch die Gartenmöbel und das Kinderspielhaus, die die Verkäuferin entfernen wird.
 
-9. Die Verkäuferin versichert, dass sie nach bestem Wissen keine Kenntnis von Altlasten auf dem Grundstück hat. Sie hat keine Heizöltanks gelagert, die nicht ordnungsgemäß entsorgt wurden. Eine Bodenuntersuchung wurde nicht durchgeführt.
+9. Die Verkäuferin versichert, dass sie nach bestem Wissen keine Kenntnis von Altlasten auf dem Grundstück hat. Die Käufer wurden darauf hingewiesen, dass sich der Verdacht einer Altlast aus der früheren landwirtschaftlichen Nutzung des rückwärtigen Grundstücksteils ergeben könnte. Sie hat keine Heizöltanks gelagert, die nicht ordnungsgemäß entsorgt wurden. Eine Bodenuntersuchung wurde bisher nicht durchgeführt und wird von den Käufern auch nicht verlangt.
 
 10. Die Vertragsparteien vereinbaren, dass Änderungen oder Ergänzungen dieses Vertrags nur schriftlich wirksam sind. Mündliche Nebenabreden, insbesondere über die Übernahme der Einrichtungsgegenstände, bestehen nicht.
 

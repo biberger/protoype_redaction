@@ -147,10 +147,10 @@ Zahlungsplan (Übersicht)
 Zahlung | Fälligkeit | Betrag in EUR | Zahlungsweg
 Kaution | Binnen 14 Tagen nach Vertragsunterfertigung | 28.500,00 | Treuhandkonto
 Restkaufpreis | Nach Lastenfreistellung, spätestens [[date|30. November 2026]] | 256.500,00 | Treuhandkonto
-Grunderwerbsteuer (hälftig) | Nach Vorschreibung durch das Finanzamt | nach Bescheid | Direktzahlung
-Eintragungsgebühr (hälftig) | Nach Vorschreibung durch das Grundbuchsgericht | nach Bescheid | Direktzahlung
+Grunderwerbsteuer (hälftig) | Nach Vorschreibung durch das Finanzamt | nach Vorschreibung | Direktzahlung
+Eintragungsgebühr (hälftig) | Nach Vorschreibung durch das Grundbuchsgericht | nach Vorschreibung | Direktzahlung
 
-Die Vertragsparteien nehmen zur Kenntnis, dass die Grunderwerbsteuer nach dem Bescheid des Finanzamtes berechnet wird und die Beträge daher erst nach Zustellung fällig werden.
+Die Vertragsparteien nehmen zur Kenntnis, dass die Grunderwerbsteuer nach der Vorschreibung des Finanzamtes berechnet wird und die Beträge daher erst nach Zustellung fällig werden.
 
 Anlage A: Auszug aus dem Grundbuch (Auszug, nicht amtlich)
 

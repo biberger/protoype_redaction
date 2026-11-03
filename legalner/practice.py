@@ -282,6 +282,13 @@ def _svnr(rng, persons):
     return None
 
 
+def _older(rng, p, latest=1988):
+    """Professionals (lawyers, senate members) are adults with a career behind them."""
+    if "date_of_birth" in p:
+        p["date_of_birth"] = re.sub(r"\d{4}", lambda m: str(m[0]) if int(m[0]) <= latest else str(rng.randint(1950, latest)),
+                                    p["date_of_birth"], count=1)
+
+
 def _roles(rng, doc_type, persons):
     """Fix who is who where the document type needs it (re-pilot: writers invented a deceased and a Kammeranwalt)."""
     if doc_type == "verlassenschaft":
@@ -296,6 +303,8 @@ def _roles(rng, doc_type, persons):
                  "senate member", "recording clerk", "client / complainant", "client / complainant"]
         for p, r in zip(persons, roles):
             p["role"] = r
+            if r != "client / complainant":
+                _older(rng, p)
             if r != "accused lawyer" and r.startswith(("chair", "senate", "Kammer")) and "degree" not in p and rng.random() < 0.7:
                 p["degree"], p["degree_position"] = rng.choice(["Dr.", "Mag.", "Dr.", "MMag."]), "before"
     elif doc_type == "mietvertrag":

@@ -56,6 +56,8 @@ Der Rechnungsbetrag ist binnen 14 Tagen auf das Konto IBAN [[bank_account|AT06 5
 
 Die Leistungen wurden zu den vereinbarten Stundensätzen erbracht. Eine Pauschalierung wurde nicht vereinbart. Nachforderungen für Gerichtsgebühren und Notariatskosten bleiben vorbehalten.
 
+Die Leistungen gemäß der Leistungsübersicht wurden zwischen dem [[date|03.02.2025]] und dem [[date|02.04.2025]] erbracht. Die Abrechnung erfolgt nach dem Zeitaufwand der Kanzlei, wobei die Besprechungen mit Frau [[person|Marečková]] und Herrn [[person|Ciesielski]] jeweils gesondert ausgewiesen sind. Für die Einsicht in die Grundbuchsurkunde wurde die Gebühr als Barauslage weiterverrechnet, sodass auf diesen Betrag keine Umsatzsteuer anfällt.
+
 [[address|8160 Naas]], am [[date|30.06.2025]]
 
 Mit freundlichen Grüßen

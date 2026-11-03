@@ -40,7 +40,7 @@ Schaden-Nr. [[other_identifier|58/361389/23]]
 
 1. Sachverhalt
 
-Die klagende Partei betreibt den Großhandel mit Baustoffen und Fliesen. Mit dem Rahmenvertrag vom [[date|14. März 2024]] hat sie [[person|Germana Grassler]] und [[person|Zizi Kubíček]] als Gesellschafterinnen einer Bauherrengemeinschaft Waren im Gesamtwert von EUR 61.300,00 auf Ziel geliefert. Die Lieferungen erfolgten in drei Tranchen zwischen April und Juni 2024.
+Die klagende Partei betreibt den Großhandel mit Baustoffen und Fliesen. Mit dem Rahmenvertrag vom [[date|14. März 2024]] hat sie [[person|Germana Grassler]] und [[person|Zizi Kubíček]] als Gesellschafterinnen einer Bauherrengemeinschaft Waren im Gesamtwert von EUR 61.300,00 auf Ziel geliefert. Die Lieferungen erfolgten in drei Tranchen zwischen April und Juni 2024. Die Preise entsprechen der Preisliste der klagenden Partei vom [[date|1. Jänner 2024]] und wurden von den Beklagten bei der Bestellung nicht beanstandet.
 
 Die Erstbeklagte [[person|Franchy]] hat am [[date|14. März 2024]] die Haftung als Bürgin und Zahlerin für sämtliche Verbindlichkeiten übernommen. Die Bürgschaftserklärung liegt als ./B bei. [[person|Franchy]] hat jedoch weder Zahlungen geleistet noch auf die Mahnungen reagiert.
 

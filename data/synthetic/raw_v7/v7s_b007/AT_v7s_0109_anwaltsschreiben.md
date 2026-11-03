@@ -21,7 +21,7 @@ Schadenabteilung Kraftfahrt
 Unser Zeichen: [[other_identifier|Pieler/Becker]]
 
 Betreff: Schadensfall vom [[date|11. August 2026]], Fahrzeug [[license_plate|S-1092C]]
-Vertragsnummer: [[other_identifier|KV-2017-88103]]
+Vertragsnummer [[other_identifier|KV-2017-88103]]
 Polizzen-Nr. [[other_identifier|63-5768906]]
 Polizze [[other_identifier|14-6845480]]
 

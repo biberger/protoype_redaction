@@ -50,7 +50,7 @@ Der Unfall wurde durch Nichtbeachtung des Vorrangs verursacht. Eine Alkoholisier
 
 Die Verkehrsregelung bis zum Eintreffen der Streife wurde von Inspektor [[person|Wieser]] übernommen. Die Anzeige wird an die Bezirkshauptmannschaft übermittelt. Eine Verwaltungsübertretung nach der [[legal_norm|StVO]] wird angezeigt.
 
-Für Rückfragen steht der Einschreiter unter der Dienststelle zur Verfügung.
+Für Rückfragen steht der Einschreiter unter der Dienststelle zur Verfügung. Die Lenkerin [[person|Kirchmann]] wurde über die Möglichkeit einer schriftlichen Stellungnahme belehrt und hat diese angekündigt. Die Skizze der Zeugin [[person|Lins]] liegt dem Akt bei. Die Lichtbilder vom Unfallort zeigen die Spurenlage auf der Fahrbahn und die Endstellung beider Fahrzeuge.
 
 [[address|3141 Kapelln]], am [[date|12. Mai 2025]]
 

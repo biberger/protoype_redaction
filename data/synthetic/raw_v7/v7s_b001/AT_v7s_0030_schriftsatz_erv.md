@@ -59,7 +59,7 @@ III. Zur Sache
 
 9. Die Schadensermittlung durch die Klägerin beruht auf einem Kostenvoranschlag der Firma [[organization|Gutmann Baumeister]]. Dieser Kostenvoranschlag ist nicht geeignet, den Schaden nachzuweisen, weil er die Vorschädigung nicht berücksichtigt.
 
-10. Die Sachverständige [[person|Fabjan Edythe]] hat in einer Stellungnahme vom [[date|5. November 2026]] bestätigt, dass die Schadenshöhe nur einen Teil der geltend gemachten Summe erreicht. Die Stellungnahme ist als ./F beigelegt.
+10. Die Sachverständige [[person|Edythe Fabjan]] hat in einer Stellungnahme vom [[date|5. November 2026]] bestätigt, dass die Schadenshöhe nur einen Teil der geltend gemachten Summe erreicht. Die Stellungnahme ist als ./F beigelegt.
 
 11. Der Schaden wurde weder vollständig noch in der behaupteten Höhe verursacht.
 

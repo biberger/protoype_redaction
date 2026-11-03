@@ -74,7 +74,7 @@ Die Erben erklärten, dass sie mit der Teilung des Nachlasses einverstanden sind
 
 [[person|Ghibeh]] hat zu Lebzeiten keine Schenkungen mit Anrechnung vorgenommen. Der Erblasser hat im Jahr 2018 einen Teil seiner Liegenschaftsanteile übertragen; dieser Vorgang wurde im Protokoll gesondert festgehalten. Die Erben bestätigen, dass ihnen keine weiteren Schenkungen der Erblasserin bekannt sind.
 
-Der Protokollführer hat den Erben die Bestimmungen über die Gerichtsgebühren erläutert. Die Verlassenschaft trägt die Kosten der Abhandlung. Die Erben wurden darauf hingewiesen, dass die Einantwortung erst nach Rechtskraft des Einantwortungsbeschlusses wirksam wird. Die Ausfertigung dieses Protokolls wird den Erben nach Abschluss übermittelt. Ein Nachtrag zum Inventar bleibt vorbehalten.
+Der Protokollführer hat den Erben die Bestimmungen über die Gerichtsgebühren erläutert. Die Verlassenschaft trägt die Kosten der Abhandlung. Die Erben wurden darauf hingewiesen, dass die Einantwortung erst nach Rechtskraft des Einantwortungsbeschlusses wirksam wird. Die Ausfertigung dieses Protokolls wird den Erben nach Abschluss übermittelt. Ein Nachtrag zum Inventar bleibt vorbehalten. Die Kosten dieses Protokolls werden anteilig von den Erben getragen.
 
 [[location|Burgschleinitz-Kühnring]], am [[date|9. Juni 2021]]
 

@@ -40,6 +40,8 @@ Mein Mandant hat den Pkw im Wege eines Kredits bei der [[organization|Sparkasse 
 
 Ihr Mandant hat den Unfall mit einer Erklärung bei der Polizei nicht bestritten. Wir ersuchen Sie daher, den Schaden bis zum [[date|20. Oktober 2025]] zu regulieren. Für den Fall der Nichtzahlung werden wir die Klage beim [[court|Bezirksgericht Hietzing]] einbringen. Das [[court|BG Hietzing]] ist für Schadenersatzklagen dieser Höhe sachlich und örtlich zuständig.
 
+Die Haftung Ihres Mandanten ergibt sich aus [[legal_norm|§ 1295 ABGB]] und aus [[legal_norm|§ 7 EKHG]] als Halter des Fahrzeugs. Wie die Zeugin [[person|Verena Hackl]] angegeben hat, war mein Mandant mit rund 20 km/h unterwegs und hat den Kreisverkehr ordnungsgemäß befahren. Die Zeugin hat den Unfall von der Bushaltestelle aus beobachtet. Ein Mitverschulden meines Mandanten besteht daher nicht. Wir ersuchen zudem um Bekanntgabe der Versicherungsgesellschaft Ihres Mandanten und der Polizzennummer.
+
 Herr [[person|DI Podgórski]] erreichen Sie für Rückfragen an seinem Arbeitsplatz unter Tel. [[phone_number|0732 592262 Kl. 73]].
 
 Wir bitten um schriftliche Bestätigung des Eingangs dieses Schreibens.

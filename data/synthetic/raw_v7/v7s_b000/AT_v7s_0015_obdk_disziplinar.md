@@ -44,7 +44,7 @@ Der Senat folgt dieser Argumentation nicht. Der Ausgleich erfolgte nur zeitlich 
 
 Die zweckwidrige Verwendung von Treuhandgeld ist nach [[legal_norm|§ 43 RAO]] unzulässig. Dass die Beträge später wieder ausgeglichen wurden, ändert nichts an der Pflichtverletzung. Die verspätete Verbuchung verstößt zudem gegen die Dokumentationspflichten.
 
-Mildernd war die bisherige Unbescholtenheit und dass die Beträge später ausgeglichen wurden. Erschwerend war die Zahl der Entnahmen sowie der Umstand, dass der Beschuldigte als Treuhänder eine besondere Vertrauensstellung innehatte. Der Senat hält die verhängte Geldbuße für angemessen, aber nicht für zu hoch.
+Mildernd war die bisherige Unbescholtenheit und dass die Beträge später ausgeglichen wurden. Erschwerend war die Zahl der Entnahmen sowie der Umstand, dass der Beschuldigte als Treuhänder eine besondere Vertrauensstellung innehatte. Der Senat hält die verhängte Geldbuße für angemessen, aber nicht für zu hoch. Die Kosten der Kanzleiprüfung wurden dem Beschuldigten nicht gesondert in Rechnung gestellt. Eine Veröffentlichung des Beschlusses ist nicht vorgesehen.
 
 **Stellungnahme des Kammeranwalts und Vernehmung des Beschuldigten**
 

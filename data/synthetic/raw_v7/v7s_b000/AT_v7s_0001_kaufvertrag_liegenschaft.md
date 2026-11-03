@@ -40,7 +40,7 @@ Die Verkäufer sind je zur Hälfte Miteigentümer der nachstehend beschriebenen 
 
 [[person|Celeste Torricelli]], Geburtsdatum: [[date_of_birth|1955-08-16]], Ärztin, wohnhaft in [[address|Lindenweg 4, 3250 Wieselburg]].
 
-Die Käuferinnen erwerben die Liegenschaft je zur Hälfte.
+Die Käuferinnen erwerben die Liegenschaft je zur Hälfte. Sie sind einander zu gleichen Teilen wirtschaftlich berechtigt und tragen die laufenden Kosten im selben Verhältnis.
 
 **II. Kaufgegenstand**
 
@@ -52,7 +52,7 @@ Grundstücksadresse: [[address|Strassen 41, 3250 Wieselburg]]. Auf dem Grundstü
 
 Die Verkäufer erklären, dass die Liegenschaft lastenfrei übergeben wird, mit Ausnahme der im C-Blatt eingetragenen Dienstbarkeit des Wegerechts zugunsten des Nachbargrundstücks und der Pfandrechte, die im Zuge der Vertragsabwicklung gelöscht werden.
 
-Die Grenzen der Liegenschaft entsprechen dem Lageplan, der dem Vertrag als Beilage ./B angeschlossen ist. Eine Grenzverhandlung mit dem Nachbarn hat nicht stattgefunden; die Verkäufer erklären, dass keine Grenzstreitigkeiten bekannt sind. Die Einfriedung entlang der Südgrenze wurde im Jahr 2015 gemeinsam mit dem Nachbargrundstück errichtet.
+Die Grenzen der Liegenschaft entsprechen dem Lageplan, der dem Vertrag als Beilage ./B angeschlossen ist. Eine Grenzverhandlung mit dem Nachbarn hat nicht stattgefunden; die Verkäufer erklären, dass keine Grenzstreitigkeiten bekannt sind. Die Einfriedung entlang der Südgrenze wurde im Jahr 2015 gemeinsam mit dem Nachbargrundstück errichtet. Die Käuferinnen haben die Einfriedung besichtigt und keine Beanstandung vorgebracht.
 
 **III. Kaufpreis und Zahlung**
 

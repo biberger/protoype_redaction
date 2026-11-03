@@ -42,6 +42,10 @@ Gesamtbetrag brutto: EUR 2.328,00
 
 Die Leistungen des genannten Zeitraums umfassen die Recherche zu den Mietzinsrückständen, die Abstimmung mit der Hausverwaltung und die Vorbereitung der Vollstreckbarkeitsbestätigung. Die Vergleichsverhandlung fand am [[date|09.06.2026]] in den Räumen der Kanzlei statt; [[person|Ishak]] war persönlich anwesend, [[person|Gerlach]] wurde durch seine Vertretung eingebunden.
 
+Die Vergleichsbesprechung wurde zudem telefonisch mit der Vermieterin vorbereitet. Die Angaben zu den Mietzinsrückständen wurden anhand der Kontoauszüge überprüft; die Rückstände betrugen zum Stichtag EUR 1.920,00 und wurden im Vergleich berücksichtigt.
+
+Die Kanzlei hat die Honorare für die Vertretung im Verfahren nach dem [[legal_norm|Rechtsanwaltstarifgesetz]] ermittelt. Die Bemessungsgrundlage ergibt sich aus dem Streitwert von EUR 8.400,00 für die Räumungsklage. Die Verfahrenskosten, die vom Gericht vorgeschrieben wurden, sind nicht Bestandteil dieser Honorarnote.
+
 Der Vergleich sieht vor, dass [[person|Gerlach]] die Räumung bis zum [[date|31.08.2026]] vornimmt und die Verfahrenskosten zu zwei Dritteln trägt. Die Vergleichsgebühr wurde mit dem Gericht abgerechnet; die Gerichtsgebühren sind in obiger Summe nicht enthalten. Eine Einsicht in die Vergleichsurkunde ist in unserer Kanzlei jederzeit möglich.
 
 Zahlungen bitte auf das Konto IBAN [[bank_account|AT79 8038 5612 8575 6543]] unter Angabe der Kl.-Nr. [[other_identifier|74088]] überweisen.

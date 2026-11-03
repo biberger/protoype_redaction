@@ -82,6 +82,10 @@ Die Mieterin erhält zwei Wohnungsschlüssel, einen Briefkastenschlüssel und ei
 
 Die Vermieterin verarbeitet die Daten der Mieterin ausschließlich zur Vertragsabwicklung und zur Betriebskostenabrechnung. Die Mieterin stimmt zu, dass ihre Kontaktdaten der Hausverwaltung übermittelt werden. Die Mieterin kann die Berichtigung und Löschung ihrer Daten nach Beendigung des Mietverhältnisses verlangen, soweit keine gesetzlichen Aufbewahrungspflichten entgegenstehen.
 
+§ 7h Nebenkostenvorauszahlung
+
+Die monatliche Vorauszahlung für die Betriebskosten kann von der Vermieterin nach der jährlichen Abrechnung angepasst werden, wenn sich die Kosten wesentlich verändert haben. Die Anpassung ist der Mieterin mit der Abrechnung schriftlich mitzuteilen und wird mit dem Monatsersten des folgenden Monats wirksam. Eine Erhöhung der Vorauszahlung um mehr als zehn vom Hundert innerhalb eines Jahres bedarf der Zustimmung der Mieterin.
+
 § 7e Heizkosten und Frostschäden
 
 Die Heizkosten werden nach dem Verbrauch der Wärmemengenzähler und nach dem Verhältnis der Nutzfläche verteilt. Die Mieterin ist verpflichtet, die Heizkörper während der Heizperiode nicht abzudrehen, damit die Leitungen nicht einfrieren. Schäden infolge Frosts gehen zu Lasten der Mieterin, sofern sie die Heizung nicht ordnungsgemäß betrieben hat.

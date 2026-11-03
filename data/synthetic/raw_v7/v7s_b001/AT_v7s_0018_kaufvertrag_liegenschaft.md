@@ -115,7 +115,7 @@ IX. Bebauung, Nutzung und Erschließung
 
 3. Die Verkäuferin erklärt, dass für das Wohnhaus eine Bewilligung für den Ausbau des Dachgeschosses vorliegt. Die Nutzung des Dachbodens als Wohnraum ist bewilligt; eine Änderung der Nutzung ist dem Käufer bekannt.
 
-4. Auf dem Grundstück befindet sich ein Brunnen, der zur Bewässerung dient. Der Brunnen ist bei der Bezirkshauptmannschaft angemeldet. Eine Trinkwassernutzung erfolgt nicht.
+4. Auf dem Grundstück befindet sich ein Brunnen, der zur Bewässerung dient. Der Brunnen ist bei der Bezirkshauptmannschaft angemeldet und wurde zuletzt im Jahr 2024 überprüft. Eine Trinkwassernutzung erfolgt nicht.
 
 5. Die Verkäuferin hat einen Energieausweis erstellen lassen, der dem Käufer ausgehändigt wurde. Der Energieausweis weist den Heizwärmebedarf des Gebäudes aus und ist Bestandteil dieser Urkunde.
 
@@ -131,9 +131,9 @@ X. Datenschutz und Verschwiegenheit
 
 3. Die Vertragsteile erklären, dass sie über die Bedeutung der Verschwiegenheit und der Datenschutzbestimmungen belehrt wurden.
 
-8. Die Verkäuferin erklärt, dass gegen sie kein Insolvenzverfahren anhängig ist und keine Zwangsversteigerung der Liegenschaft betrieben wird. Die Kaufpreisforderung ist daher nicht durch Pfandrechte Dritter gefährdet, sofern die Lastenfreistellung wie vereinbart durchgeführt wird.
+8. Die Verkäuferin erklärt, dass gegen sie kein Insolvenzverfahren anhängig ist und keine Zwangsversteigerung der Liegenschaft betrieben wird. Die Kaufpreisforderung ist daher nicht durch Pfandrechte Dritter gefährdet, sofern die Lastenfreistellung wie vereinbart durchgeführt wird. Die Verkäuferin wird dem Treuhänder eine Bestätigung über die Lastenfreiheit vorlegen, sobald diese vorliegt.
 
-9. Die Vertragsteile bestätigen, dass die Besichtigung der Liegenschaft am [[date|18. September 2026]] stattgefunden hat und dass der Zustand dem Vertrag entspricht.
+9. Die Vertragsteile bestätigen, dass die Besichtigung der Liegenschaft am [[date|18. September 2026]] stattgefunden hat und dass der Zustand dem Vertrag entspricht. Der Käufer hat den Zustand der Gebäude und der Einfriedung dabei selbst beurteilt.
 
 XI. Ausfertigungen und Anlagen
 

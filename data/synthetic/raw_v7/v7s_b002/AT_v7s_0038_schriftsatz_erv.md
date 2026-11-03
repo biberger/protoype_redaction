@@ -78,6 +78,8 @@ IV. Zuständigkeit
 
 Das angerufene [[court|Bezirksgericht Zwettl]] ist nach [[legal_norm|§ 49 Abs 2 Z 5 JN]] sachlich und örtlich zuständig, da die Liegenschaft im Sprengel des [[court|BG Zwettl]] liegt.
 
+Die Klägerin hat die Beklagte mit Schreiben vom [[date|10. Dezember 2025]] letztmals zur Verbesserung aufgefordert und eine Frist bis zum [[date|15. Jänner 2026]] gesetzt. Die Beklagte hat innerhalb dieser Frist weder reagiert noch Arbeiten durchgeführt. Die Klägerin hat daraufhin die Sanierung durch einen Drittunternehmer veranlasst, dessen Rechnung über EUR 7.350,00 netto vorliegt.
+
 V. Kosten
 
 Die Verjährungsfrist ist nach [[legal_norm|§ 1497 ABGB]] durch die Rüge und die Klagsführung gehemmt. Der Anspruch auf Verbesserung und Preisminderung besteht daneben unabhängig.
@@ -90,6 +92,8 @@ Beilagen:
 ./B Rügeschreiben vom [[date|21. Juli 2025]]
 ./C Gutachten vom [[date|6. November 2025]]
 ./D Lichtbilder der Durchfeuchtung, Stand [[date|14. Juli 2025]]
+
+Die Klägerin beantragt die Verhandlung vor dem Einzelrichter. Der Streitwert ist mit EUR 7.350,00 bemessen; die Pauschalgebühr wurde entsprechend entrichtet.
 
 Die Klägerin erklärt, die Klage sei gerichtlich bisher nicht anhängig gemacht worden. Die Vollmacht erliegt im ERV-Akt. Die [[organization|Morawetz]] hat auf das Rügeschreiben bis heute nicht reagiert; die [[organization|MKG]] hat die Mängelbehebung abgelehnt.
 

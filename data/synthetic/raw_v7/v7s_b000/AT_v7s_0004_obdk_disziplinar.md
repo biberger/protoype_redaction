@@ -40,7 +40,7 @@ Die Treuhandgebarung wurde in den Büchern der Beschuldigten nur unvollständig 
 
 **Beweiswürdigung**
 
-Der Senat stützt sich auf die vorgelegten Kontoauszüge, die Stellungnahme der Kammeranwältin und die Aussagen der Mandantinnen. Die Beschuldigte hat den Sachverhalt im Wesentlichen eingestanden, die Verwendung der Differenzbeträge jedoch als vorübergehende Überbrückung bezeichnet. Diese Darstellung widerspricht den Kontoauszügen, aus denen hervorgeht, dass die Beträge nicht zurückgeführt wurden.
+Der Senat stützt sich auf die vorgelegten Kontoauszüge, die Stellungnahme der Kammeranwältin und die Aussagen der Mandantinnen. Die Beschuldigte hat den Sachverhalt im Wesentlichen eingestanden, die Verwendung der Differenzbeträge jedoch als vorübergehende Überbrückung bezeichnet. Diese Darstellung widerspricht den Kontoauszügen, aus denen hervorgeht, dass die Beträge nicht zurückgeführt wurden. Die Beschuldigte hat die Differenzbeträge erst nach Einschreiten der Kammer zurückgezahlt, was sie nicht ausdrücklich bestritt.
 
 Die Zeugin [[person|Orlandini]] gab an, sie habe erst durch die Anfrage der Kammer von der Einbehaltung erfahren. [[person|Bissuti]] bestätigte, dass sie nie eine Abrechnung erhalten habe. Beide Aussagen waren glaubwürdig und übereinstimmend.
 
@@ -74,7 +74,7 @@ Der Senat stellt fest, dass die Beschuldigte die Buchungen erst nach Kenntnis de
 
 **Rechtsmittelbelehrung**
 
-Gegen diesen Beschluss steht der Beschuldigten und der Kammeranwältin die Berufung an die [[court|OBDK]] offen. Die Berufung ist binnen vier Wochen ab Zustellung bei dem Disziplinarrat einzubringen. Die Kosten einer Berufung trägt, wer sie einbringt, sofern die Berufung nicht Erfolg hat.
+Gegen diesen Beschluss steht der Beschuldigten und der Kammeranwältin die Berufung an die [[court|OBDK]] offen. Die Berufung ist binnen vier Wochen ab Zustellung bei dem Disziplinarrat einzubringen. Die Kosten einer Berufung trägt, wer sie einbringt, sofern die Berufung nicht Erfolg hat. Der Beschluss wird den Parteien samt Begründung zugestellt und ist mit der Zustellung wirksam.
 
 [[location|Innsbruck]], am [[date|9. Juli 2026]]
 

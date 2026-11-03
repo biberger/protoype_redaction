@@ -79,6 +79,8 @@ Mit freundlichen Grüßen
 [[person|Piroschka Hell]]
 Tel. [[phone_number|0316 422253 Kl. 9]]
 
+Zu den einzelnen Positionen der Berechnung: Die Zahlung vom [[date|1. März 2026]] ist laut unserer Aufzeichnung erst am [[date|9. März 2026]] eingegangen; die Zahlung vom [[date|15. Juni 2026]] wurde ohne Zahlungsreferenz überwiesen und daher nicht zugeordnet.
+
 Ergänzend bitte ich, die Unterlagen zur Schulbildung der Kinder beizulegen, da die Berechnung sonst nicht geprüft werden kann. Die Kanzlei [[organization|ZK]] wird die Unterlagen nach Eingang sichten und mit der Gegenseite abstimmen.
 
 [[address|3243 Sankt Leonhard am Forst]], am [[date|23. Oktober 2026]]

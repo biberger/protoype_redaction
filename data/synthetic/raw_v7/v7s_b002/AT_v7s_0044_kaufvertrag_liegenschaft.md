@@ -82,6 +82,14 @@ VI. Gewährleistung
 
 12. Die Käuferin hat die Liegenschaft am [[date|20. August 2026]] besichtigt. Dabei wurde ein Feuchtigkeitsschaden im Keller festgestellt, dessen Behebung die Verkäuferin bis zur Übergabe zusagt.
 
+V b. Betriebskosten, Abgaben und Versicherung
+
+10a. Die Verkäuferin trägt die Kosten der Wohngebäudeversicherung bis zum Übergabetag. Die Versicherungspolizze lautet auf die Verkäuferin und wird nach der Übergabe auf die Käuferin umgeschrieben.
+
+10b. Die Grundsteuer und die Abgaben für die Müllentsorgung werden zwischen den Parteien anteilig nach dem Stichtag der Übergabe verrechnet. Die Abrechnung erfolgt durch den Treuhänder.
+
+10c. Die Käuferin übernimmt mit dem Übergabetag die laufenden Betriebskosten, die Verkäuferin haftet jedoch für alle Rückstände, die bis zum Stichtag entstanden sind.
+
 VI a. Verzug, Rücktritt und Rückabwicklung
 
 11a. Gerät die Käuferin mit der Zahlung des Restkaufpreises mehr als 30 Tage in Verzug, ist die Verkäuferin berechtigt, nach fruchtloser Nachfrist von 14 Tagen vom Vertrag zurückzutreten. Die Kaution verbleibt in diesem Fall bei der Verkäuferin, soweit sie 10 % des Kaufpreises nicht übersteigt.
@@ -118,6 +126,10 @@ Für die Richtigkeit der Vertragsverfassung:
 
 [[person|Fleischhacker]]
 Rechtsanwalt
+
+Die Käuferin erklärt, dass die Finanzierung des Kaufpreises durch ein Darlehen der Hausbank sichergestellt ist und die Darlehenszusage vom [[date|28. September 2026]] vorliegt. Die Verkäuferin nimmt zur Kenntnis, dass die Auszahlung des Darlehens erst nach der Eintragung des Pfandrechts zugunsten der Bank erfolgt. Der Treuhänder ist ermächtigt, die Auszahlung in dieser Reihenfolge zu veranlassen.
+
+Die Parteien halten fest, dass der Treuhänder keine Haftung für die Zahlungsfähigkeit der Käuferin übernimmt. Eine Rückzahlung der Kaution erfolgt nur gegen Vorlage der schriftlichen Rücktrittserklärung einer der Parteien.
 
 Auszug aus dem Grundbuch (Anlage ./A)
 

@@ -36,7 +36,7 @@ Sollte bis zum genannten Termin keine Zahlung eingehen, werden wir ohne weitere 
 
 Die Kosten unserer Vertretung trägt Ihr Versicherungsnehmer, da der Unfall eindeutig auf dessen Verschulden beruht. Unser Mandant hat den Pkw seit dem Unfall nicht benutzen können und musste einen Mietwagen für die Dauer von zehn Tagen anmieten. Die Mietkosten sind in der beiliegenden Aufstellung enthalten.
 
-Wir bitten um Mitteilung, ob die [[organization|MVAG]] den Schaden dem Grunde nach anerkennt. Sollte die [[organization|MVAG]] eine Haftung ablehnen, bitten wir um eine schriftliche Begründung, damit wir unsere Mandanten entsprechend beraten können. Eine Antwort bis zum genannten Termin wäre im Interesse aller Beteiligten.
+Wir bitten um Mitteilung, ob die [[organization|MVAG]] den Schaden dem Grunde nach anerkennt. Zahlungen bitten wir auf das Konto IBAN [[bank_account|AT71 5442 2046 6882 8629]] unseres Mandanten zu leisten. Sollte die [[organization|MVAG]] eine Haftung ablehnen, bitten wir um eine schriftliche Begründung, damit wir unsere Mandanten entsprechend beraten können. Für eine kurze Rückmeldung innerhalb der genannten Frist wären wir dankbar. Eine Antwort bis zum genannten Termin wäre im Interesse aller Beteiligten.
 
 Mit freundlichen Grüßen
 

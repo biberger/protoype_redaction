@@ -25,7 +25,7 @@ Betreff: Vertretung in Verlassenschaftsangelegenheiten, Kaufvertragsprüfung Lie
 
 Sehr geehrte Frau [[person|Mattle]],
 
-wir erlauben uns, für unsere Tätigkeit im Zeitraum März bis Oktober 2026 folgende Honorarnote zu übermitteln. Die Leistungen wurden nach dem Tarifwerk der Rechtsanwälte und nach der getroffenen Honorarvereinbarung verrechnet. Die Umsatzsteuer wird gesondert ausgewiesen; die Auslagen sind nach den tatsächlich angefallenen Beträgen belegt. Bei Fragen zu einzelnen Positionen wenden Sie sich bitte an unser Sekretariat, wir erläutern Ihnen die Aufstellung gerne im Detail.
+wir erlauben uns, für unsere Tätigkeit im Zeitraum März bis Oktober 2026 folgende Honorarnote zu übermitteln. Die Leistungen wurden nach dem Tarifwerk der Rechtsanwälte und nach der getroffenen Honorarvereinbarung verrechnet. Die Umsatzsteuer wird gesondert ausgewiesen; die Auslagen sind nach den tatsächlich angefallenen Beträgen belegt. Bei Fragen zu einzelnen Positionen wenden Sie sich bitte an unser Sekretariat, wir erläutern Ihnen die Aufstellung gerne im Detail. Die Vorauszahlung vom [[date|10.03.2026]] wurde auf das Konto der Kanzlei geleistet und ist in der Abrechnung berücksichtigt. Ein Guthaben ergibt sich nicht. Sollte die Zahlung nicht innerhalb der genannten Frist eingehen, behalten wir uns vor, die Forderung gerichtlich geltend zu machen. Wir danken Ihnen für das entgegengebrachte Vertrauen. Die Honorarnote ist ohne Abzug zu bezahlen. Eine gesonderte Mahnung wird nicht versendet.
 
 Leistungsaufstellung:
 
@@ -63,6 +63,6 @@ Mit freundlichen Grüßen
 [[person|Jacobsson]]
 Rechtsanwältin
 
-Kanzlei Telefon: [[phone_number|+43 5572 945 57 25 Durchwahl 20]]
+Tel. [[phone_number|+43 5572 945 57 25 Durchwahl 20]]
 
 [[location|St. Johann im Pongau]]: Die Verhandlung vom [[date|14.10.2026]] wurde vertagt.

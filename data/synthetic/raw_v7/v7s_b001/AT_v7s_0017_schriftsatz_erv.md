@@ -12,7 +12,7 @@ E: [[email|office@vondoderer.at]]  W: www.vondoderer.at
 ERV-Code: [[other_identifier|R743215]]
 
 [[court|Bezirksgericht Korneuburg]]
-Klagende Partei: [[organization|BORNEMANN KG]] ([[company_register_number|FN 101325h]], UID [[tax_id|ATU86136538]]), mit dem Sitz in [[address|8225 Pöllau]], vertreten durch die Rechtsanwälte [[organization|V O N   D O D E R E R ,   F E I C H T E R ,   E D E R]]
+Klagende Partei: [[organization|Bornemann KG]] ([[company_register_number|FN 101325h]], UID [[tax_id|ATU86136538]]), mit dem Sitz in [[address|8225 Pöllau]], vertreten durch die Rechtsanwälte [[organization|V O N   D O D E R E R ,   F E I C H T E R ,   E D E R]]
 
 gegen
 
@@ -30,7 +30,7 @@ STREITWERT: EUR 14.800,00
 
 Vertragsnummer [[other_identifier|KV-2017-38512]], Schaden-Nr. [[other_identifier|11/625078/25]]
 
-ERV-EINGANG: [[court|BEZIRKSGERICHT KORNEUBURG]] – [[date|14.10.2026]] – EINGABE NR. 9921
+ERV-EINGANG: [[court|BEZIRKSGERICHT KORNEUBURG]] – [[date|14.10.2026]] – [[organization|BORNEMANN KG]] – EINGABE NR. 9921
 
 Klage
 
@@ -74,7 +74,7 @@ Die Kosten dieses Verfahrens sind nach [[legal_norm|§ 41 ZPO]] zu ersetzen.
 
 Die Klägerin hat die Lagerhalle nach dem Schadensfall für die Dauer der Sanierung nicht nutzen können. Die Lagerware wurde in einer externen Halle untergebracht. Die Kosten dafür sind nicht Gegenstand dieser Klage; die Klägerin behält sich deren Geltendmachung vor. Die Rechnungen der Fremdlagerung werden auf Verlangen vorgelegt.
 
-Die Beklagten haben die Sanierung nicht selbst durchgeführt. Die Klägerin hat deshalb einen Fachbetrieb beauftragt, dessen Angebot vom [[date|4. August 2025]] stammt. Die Kosten des Fachbetriebs sind im Schadensbetrag von EUR 11.200,00 enthalten. Die Arbeiten wurden am [[date|30. Oktober 2025]] abgeschlossen. Die Abnahme erfolgte ohne Beanstandung und ohne Vorbehalt.
+Die Beklagten haben die Sanierung nicht selbst durchgeführt. Die Klägerin hat deshalb einen Fachbetrieb beauftragt, dessen Angebot vom [[date|4. August 2025]] stammt. Die Kosten des Fachbetriebs sind im Schadensbetrag von EUR 11.200,00 enthalten. Die Arbeiten wurden am [[date|30. Oktober 2025]] abgeschlossen. Die Abnahme erfolgte ohne Beanstandung und ohne Vorbehalt. Die Klägerin hat das Protokoll mitunterzeichnet.
 
 Die Klägerin hat die Beklagten mit Schreiben vom [[date|11. Juli 2025]] zusätzlich um Übernahme der Kosten für die Gutachtenerstellung ersucht. Die Beklagten haben diese Kosten abgelehnt. Das Gutachten selbst wurde im Auftrag der Klägerin erstellt und ist dieser Klage als ./D beigelegt.
 

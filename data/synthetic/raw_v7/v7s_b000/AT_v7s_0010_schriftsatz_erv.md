@@ -36,7 +36,7 @@ wegen EUR 23.450,00 sA
 
 **I. Sachverhalt**
 
-1. Die Klägerin [[person|Sonje Kroemer]], geb [[date_of_birth|1. September 1981]], telefonisch erreichbar unter [[phone_number|07242/5179477 Kl. 80]], ist Eigentümerin der Liegenschaft Katastralgemeinde [[land_register_id|24318]]/[[land_register_id|EZ 1764]]; Grundstück [[land_register_id|1132/7]] mit dem Wohnhaus [[address|Kremser Gasse 31, 3500 Krems an der Donau]].
+1. Die Klägerin [[person|Sonje Kroemer]], geb [[date_of_birth|1. September 1981]], Tel. [[phone_number|07242/5179477 Kl. 80]], ist Eigentümerin der Liegenschaft Katastralgemeinde [[land_register_id|24318]]/[[land_register_id|EZ 1764]]; Grundstück [[land_register_id|1132/7]] mit dem Wohnhaus [[address|Kremser Gasse 31, 3500 Krems an der Donau]].
 
 2. Im Herbst 2023 beauftragte die Klägerin die [[organization|Kremser Haustechnik Gesellschaft m.b.H.]] mit dem Einbau einer neuen Heizungsanlage samt Warmwasserspeicher. Der Auftrag wurde zu einem Pauschalpreis von EUR 18.900,00 netto vereinbart. Die Ausführung erfolgte durch den Erstbeklagten als Monteur der Zweitbeklagten. Der Auftrag trägt die Vertragsnummer [[other_identifier|KV-2023-77143]]; den Vertrag hat die Klägerin am [[date|4. Oktober 2023]] unterfertigt.
 
@@ -77,11 +77,11 @@ wegen EUR 23.450,00 sA
 3. Zeugnis des Sachverständigen [[person|Mag. Gerold Haslinger]] zur Verschraubung.
 4. Parteienvernehmung der Klägerin [[person|Kroemer]] und des Erstbeklagten [[person|Erler]].
 
-4. Die [[organization|WAA]] hat in ihrem Schreiben vom [[date|21. Jänner 2025]] unter anderem ausgeführt, die Schadenursache liege in der Verschraubung der Verbindungsstelle. Diese Feststellung beruht auf einer Besichtigung ohne Beteiligung der Klägerin. Die Klägerin hat der Besichtigung nicht zugestimmt und den Sachverständigen erst nachträglich kennengelernt.
+4. Die [[organization|WAA]] hat in ihrem Schreiben vom [[date|21. Jänner 2025]] unter anderem ausgeführt, die Schadenursache liege in der Verschraubung der Verbindungsstelle. Diese Feststellung beruht auf einer Besichtigung ohne Beteiligung der Klägerin. Die Klägerin hat der Besichtigung nicht zugestimmt und den Sachverständigen erst nachträglich kennengelernt. Ein Protokoll über die Besichtigung wurde der Klägerin nicht übermittelt.
 
 5. Die [[organization|Kremser Haustechnik Gesellschaft m.b.H.]] hat der Klägerin im Schreiben vom [[date|15. Juli 2024]] angeboten, die Leitung auf eigene Kosten zu ersetzen. Das Angebot war jedoch an die Bedingung geknüpft, dass die Klägerin auf weitere Ansprüche verzichtet. Die Klägerin hat dies abgelehnt, weil die Mängel damals noch nicht vollständig bekannt waren.
 
-6. Die Beklagten haben den Schaden nach Kenntnis der Undichtheit nicht weiter eingegrenzt. Die Klägerin musste den Keller daher selbst auf eigene Kosten trocknen lassen, um weitere Schimmelbildung zu verhindern.
+6. Die Beklagten haben den Schaden nach Kenntnis der Undichtheit nicht weiter eingegrenzt. Die Klägerin musste den Keller daher selbst auf eigene Kosten trocknen lassen, um weitere Schimmelbildung zu verhindern. Die Kosten dafür sind in der Schadensaufstellung unter Position Sanierung enthalten und durch die beigelegten Rechnungen vollständig belegt. Die Klägerin bittet, dies bei der Kostenentscheidung zu berücksichtigen.
 
 **V. Anträge**
 

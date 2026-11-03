@@ -55,7 +55,7 @@ Die Verzugszinsen betragen 4 % über dem Basiszinssatz, soweit nicht [[legal_nor
 
 IV. Treuhandabwicklung
 
-Die Vertragserrichterin übernimmt die Treuhandschaft für beide Teile. Der Treuhandvertrag wird unter der TH-Nr. [[other_identifier|2018/107]] geführt. Die Treuhänderin ist befugt, den Kaufpreis erst nach Vorliegen der Lastenfreistellung auszuzahlen. Die Zinsen des Treuhandkontos stehen den Käufern zu.
+Die Vertragserrichterin übernimmt die Treuhandschaft für beide Teile. Der Treuhandvertrag wird unter der TH-Nr. [[other_identifier|2018/107]] geführt. Die Treuhänderin ist befugt, den Kaufpreis erst nach Vorliegen der Lastenfreistellung auszuzahlen. Das Treuhandkonto wird bei der Bank geführt, IBAN [[bank_account|AT71 4799 3270 5300 5052]]. Die Zinsen des Treuhandkontos stehen den Käufern zu.
 
 V. Aufsandungserklärung
 
@@ -67,7 +67,7 @@ Die Übergabe erfolgt mit der Unterfertigung der Aufsandungserklärung. Ab diese
 
 VII. Gewährleistung
 
-Die Verkäufer haften für die Lastenfreiheit der Liegenschaft. Im Übrigen wird die Liegenschaft wie besichtigt verkauft. Der Käufer [[person|Vana]] hat die Liegenschaft am [[date|12. September 2026]] besichtigt; ein Mangel wurde nicht festgestellt, soweit nicht die Feuchtigkeit im Keller bekannt ist.
+Die Verkäufer haften für die Lastenfreiheit der Liegenschaft. Im Übrigen wird die Liegenschaft wie besichtigt verkauft. Der Käufer [[person|Vana]] hat die Liegenschaft am [[date|12. September 2026]] besichtigt; ein Mangel wurde nicht festgestellt, soweit nicht die Feuchtigkeit im Keller bekannt ist. Die Verkäufer erklären, dass der Keller seit dem Hochwasser im Jahr 2024 trockengelegt wurde, und übergeben die dazu erstellte Rechnung der Fachfirma. Eine weitergehende Haftung für Feuchtigkeitsschäden wird nicht übernommen, sofern die Ursache nicht nachweislich in einem Mangel der Bausubstanz liegt, der den Verkäufern bekannt war und nicht offengelegt wurde. Die Käufer [[person|Koder]] und [[person|Vana]] erklären, die Auskunft der Verkäufer zur Kenntnis genommen zu haben.
 
 VIII. Rücktritt und Vertragsstrafe
 
@@ -79,7 +79,7 @@ Die Vertragserrichtungskosten, die Eintragungsgebühr und die Grunderwerbsteuer 
 
 X. Schlussbestimmungen
 
-Die Kosten dieses Vertrags trägt der Käufer. Mündliche Nebenabreden bestehen nicht. Dieser Vertrag wird in vierfacher Ausfertigung errichtet; je eine Ausfertigung erhalten die Vertragsparteien, eine die Treuhänderin und eine das Grundbuchsgericht. Die Grunderwerbsteuer wird vom Käufer getragen. Änderungen bedürfen der Schriftform. Die Vertragsparteien bestätigen, dass sie den Vertrag nach Belehrung über die Rechtsfolgen unterfertigen.
+Die Kosten dieses Vertrags trägt der Käufer. Mündliche Nebenabreden bestehen nicht. Dieser Vertrag wird in vierfacher Ausfertigung errichtet; je eine Ausfertigung erhalten die Vertragsparteien, eine die Treuhänderin und eine das Grundbuchsgericht. Die Grunderwerbsteuer wird vom Käufer getragen. Änderungen bedürfen der Schriftform. Die Vertragsparteien bestätigen, dass sie den Vertrag nach Belehrung über die Rechtsfolgen unterfertigen. Die Vertragserrichterin hat die Parteien darauf hingewiesen, dass der Vertrag erst mit der Eintragung des Eigentumsrechts vollständig wirksam wird und dass die Treuhandschaft bis dahin besteht. Die Vertragsparteien nehmen dies zustimmend zur Kenntnis. Die Käufer bestätigen, dass sie vor Unterfertigung die Entwurfsfassung dieses Vertrags vollständig erhalten haben.
 
 [[location|Sigleß]], am [[date|14. Oktober 2026]]
 

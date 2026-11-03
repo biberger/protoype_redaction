@@ -42,6 +42,8 @@ Gesamtbetrag brutto: EUR 2.268,00
 
 Die Leistungen wurden nach den Tarifen des [[legal_norm|Rechtsanwaltstarifgesetz]] ([[legal_norm|RATG]]) abgerechnet. Die Auslagen für Grundbuchsabfragen, Porto und Kopien in Höhe von EUR 84,00 sind in obiger Summe nicht enthalten und werden gesondert verrechnet. Einwendungen gegen diese Honorarnote sind binnen vier Wochen ab Zugang schriftlich zu erheben.
 
+Die Positionen beziehen sich auf die im Auftrag vom [[date|3. August 2026]] beschriebenen Leistungen. Zeitaufwände wurden nach Viertelstunden erfasst; Fahrtkosten sind nicht enthalten.
+
 Die Leistungen sind umsatzsteuerpflichtig; die Umsatzsteuer wird gesondert ausgewiesen. Eine Aufstellung der Einzelpositionen mit Zeitangaben wird auf Wunsch übermittelt.
 
 Die Zahlung ist binnen 14 Tagen ab Rechnungsdatum auf das Konto IBAN [[bank_account|AT32 4611 7055 2327 3725]] zu leisten. Bei Zahlungsverzug werden Verzugszinsen verrechnet.

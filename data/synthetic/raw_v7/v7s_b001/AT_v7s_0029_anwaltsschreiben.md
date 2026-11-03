@@ -40,7 +40,7 @@ Unsere Mandantin [[person|Dodo Zimmer]] ist Eigentümerin der Wohnung, in der am
 
 Die Firma [[organization|Pötsch Handels GmbH]] hat die Montage am [[date|15. Juni 2024]] abgenommen. Ein Wartungsprotokoll existiert nicht. Die Gewährleistungsfrist ist daher nach unserer Auffassung nicht abgelaufen.
 
-Herr [[person|Fraenkel]] war zum Zeitpunkt des Brandes Mieter des Nebenraumes. Frau [[person|Spitzner]] wohnt im Obergeschoss und war an diesem Tag nicht zu Hause. Beide wurden vom Brandschutzbeauftragten am [[date|3. September 2026]] befragt.
+Herr [[person|Bartholomäus Fraenkel]] war zum Zeitpunkt des Brandes Mieter des Nebenraumes. Frau [[person|Fritzi Spitzner]] wohnt im Obergeschoss und war an diesem Tag nicht zu Hause. Beide wurden vom Brandschutzbeauftragten am [[date|3. September 2026]] befragt.
 
 Für die Schadenregulierung bitten wir um Zahlung von EUR 18.750,00 auf das Konto IBAN [[bank_account|AT96 2433 3177 7384 8665]] binnen 14 Tagen. Die Summe setzt sich aus den Kosten der Wiederherstellung der Küche und den Kosten der Ersatzunterkunft zusammen.
 

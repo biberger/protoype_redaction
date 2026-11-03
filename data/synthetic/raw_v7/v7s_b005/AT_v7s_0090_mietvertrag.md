@@ -88,7 +88,27 @@ Die Vermieterin kann das Mietverhältnis nur aus den im [[legal_norm|Mietrechtsg
 
 Die Verwaltung des Hauses führt die Vermieterin selbst oder eine von ihr beauftragte Person; die Mieterin wird über einen Wechsel der Hausverwaltung schriftlich informiert. Die Kosten der Verwaltung sind in den Betriebskosten nicht enthalten, soweit sie gesondert ausgewiesen sind. Eine Auskunft über den Stand des Mietkontos erteilt die Verwaltung auf Verlangen binnen zwei Wochen.
 
-§ 8 Schlussbestimmungen
+§ 7i Tierhaltung
+
+Kleintiere, insbesondere Ziervögel, Fische und Kleintiere in Käfigen, sind ohne Zustimmung der Vermieterin zulässig, sofern sie die übrigen Mieter nicht belästigen. Hunde und Katzen bedürfen der schriftlichen Zustimmung. Die Vermieterin wird ihre Zustimmung nicht unbillig verweigern.
+
+§ 7j Winterdienst
+
+Die Mieterin ist verpflichtet, im Rahmen der Hausgemeinschaft am Winterdienst teilzunehmen, sofern dies in der Hausordnung vorgesehen ist. Die Vermieterin beauftragt einen Winterdienst, dessen Kosten in den Betriebskosten enthalten sind.
+
+§ 7f Stellplatz
+
+Der Mieterin wird ein Stellplatz im Freien auf der Liegenschaft zur Nutzung überlassen. Die Nutzung ist unentgeltlich und endet mit dem Mietverhältnis. Das Abstellen von Fahrzeugen auf den Zufahrtsflächen ist untersagt. Die Vermieterin kann unberechtigt abgestellte Fahrzeuge auf Kosten der Halter entfernen lassen, nachdem eine Frist von zwei Wochen verstrichen ist.
+
+§ 7g Störungen und Notdienst
+
+Die Mieterin erhält eine Telefonnummer der Hausverwaltung für Störungen. Außerhalb der Geschäftszeiten ist ein Notdienst zu verständigen. Die Kosten eines unverschuldeten Einsatzes trägt die Vermieterin; bei verschuldeten Störungen trägt die Mieterin die Kosten.
+
+§ 7h Kontaktdaten
+
+Die Mieterin hat der Vermieterin ihre aktuelle Anschrift, Telefonnummer und E-Mail-Adresse bekanntzugeben und jede Änderung unverzüglich mitzuteilen. Die Mieterin ist unter [[email|j.makai@mail-example.at]] sowie unter Mobil [[phone_number|0664 553 81 02]] erreichbar.
+
+§ 8 Schlussbestimmungen§ 8 Schlussbestimmungen
 
 Änderungen dieses Vertrages bedürfen der Schriftform. Sollte eine Bestimmung unwirksam sein, bleibt der Vertrag im Übrigen gültig. Rückfragen zur Verwaltung richten Sie bitte an folgende Nummer: Tel. [[phone_number|07242/4828430 Kl. 16]].
 

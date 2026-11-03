@@ -41,7 +41,7 @@ Die Verfahrenskosten werden dem Beschuldigten auferlegt.
 
 **I. Verfahrensgang**
 
-Der Kammeranwalt [[person|Dr. Rāmī Jarrah]] erhob die Disziplinaranzeige am [[date|3. Oktober 2024]] nach einer Beschwerde des Klienten [[person|Uhl]]. Der Disziplinarrat hat die Anzeige mit Erkenntnis vom [[date|15. Jänner 2025]] zum Teil bestätigt. Die Berufung des Beschuldigten richtet sich gegen die Höhe der Strafe. Die [[court|OBDK]] hat über die Berufung nach der Verhandlung entschieden.
+Der Kammeranwalt [[person|Dr. Rāmī Jarrah]] erhob die Disziplinaranzeige am [[date|3. Oktober 2024]] nach einer Beschwerde des Klienten [[person|Uhl]]. Der Disziplinarrat hat die Anzeige mit Erkenntnis vom [[date|15. Jänner 2025]] zum Teil bestätigt. Die Berufung des Beschuldigten richtet sich gegen die Höhe der Strafe. Die [[court|OBDK]] hat über die Berufung nach der Verhandlung entschieden. Der Anzeiger [[person|Lazare Uhl]] hat am [[date|14. Dezember 2024]] eine Ergänzung seiner Beschwerde übermittelt, in der er die Auszahlung vom [[date|18. Juli 2023]] nachträglich als unberechtigt bezeichnete. Der Kammeranwalt [[person|Jarrah]] hat daraufhin die Anzeige um diesen Punkt erweitert.
 
 **II. Sachverhalt**
 
@@ -55,13 +55,15 @@ Die Buchungen im Treuhandkonto stellen sich wie folgt dar:
 | [[date|18. Juli 2023]] | Auszahlung ohne Beleg | 3.800,00 | [[other_identifier|2019/320]] |
 | [[date|2. Oktober 2023]] | Rückzahlung an Klienten | 1.000,00 | [[other_identifier|2019/320]] |
 
-Die Auszahlung vom [[date|18. Juli 2023]] erfolgte an ein Konto, das dem Klienten [[person|Uhl]] nicht zuzuordnen ist. Der Beschuldigte hat zu diesem Vorgang keinen schriftlichen Vermerk angelegt.
+Die Auszahlung vom [[date|18. Juli 2023]] erfolgte an ein Konto, das dem Klienten [[person|Uhl]] nicht zuzuordnen ist. Der Beschuldigte hat zu diesem Vorgang keinen schriftlichen Vermerk angelegt. Der Beschuldigte hat den Klienten im Herbst 2023 mündlich über die Abhebung informiert. Der Klient [[person|Uhl]] bestreitet diese Information. Die Gelder waren für Abgaben im Zusammenhang mit einer Verlassenschaft bestimmt, für die der Beschuldigte als Verlassenschaftskurator tätig war. Ein Zusammenhang der Abhebung mit dieser Verlassenschaft wurde im Verfahren nicht belegt.
+
+Im Kontoauszug vom [[date|31. Dezember 2023]] weist das Treuhandkonto einen Saldo von EUR 7.600,00 aus, der dem Klienten nach der Klientenbuchhaltung zusteht.
 
 **III. Rechtliche Beurteilung**
 
 Nach [[legal_norm|§ 43a Abs 3 RAO]] hat ein Rechtsanwalt anvertraute Vermögenswerte getrennt zu verwalten und jede Auszahlung nachvollziehbar zu dokumentieren. Der Beschuldigte hat diese Pflicht verletzt. Der Einwand, die Auszahlung sei auf Wunsch des Klienten erfolgt, konnte nicht bewiesen werden, weil der Klient [[person|Uhl]] eine solche Weisung in der Verhandlung ausdrücklich verneint hat.
 
-Die Verpflichtung zur Rechenschaftslegung folgt auch aus dem Auftragsverhältnis nach [[legal_norm|§ 1009 ABGB]]. Die Verteidigung, die Abhebung sei eine bloße Buchungsdifferenz gewesen, ist nicht glaubhaft, weil der Betrag tatsächlich den Kanzleibereich verlassen hat.
+Die Verpflichtung zur Rechenschaftslegung folgt auch aus dem Auftragsverhältnis nach [[legal_norm|§ 1009 ABGB]]. Die Verteidigung, die Abhebung sei eine bloße Buchungsdifferenz gewesen, ist nicht glaubhaft, weil der Betrag tatsächlich den Kanzleibereich verlassen hat. Die Verwahrung von Klientengeldern verlangt eine Trennung von Eigen- und Fremdgeldern. Jede Auszahlung ist mit einem Beleg zu hinterlegen, der Empfänger, Zweck und Klient nennt. Dass die Dokumentation einem Kanzleimitarbeiter überlassen war, entlastet den Beschuldigten nicht, weil die Verantwortung für die Treuhandschaft beim Rechtsanwalt verbleibt.
 
 Der Disziplinarrat hat die Schuld zutreffend festgestellt. Die [[court|OBDK]] hält die Geldbuße von EUR 4.500,00 für angemessen, da der Beschuldigte bisher nicht disziplinär aufgefallen ist.
 
@@ -79,17 +81,17 @@ Die Niederschrift wurde von der Schriftführerin [[person|Dębska]] verlesen und
 
 Der Beschuldigte hat in seiner Stellungnahme erklärt, der Beleg zur Auszahlung sei bei der Kanzleiübersiedlung verloren gegangen. Diese Behauptung ist nicht geeignet, die Dokumentationspflicht zu erfüllen, weil der Beschuldigte selbst für die ordnungsgemäße Aufbewahrung der Belege verantwortlich war.
 
-Der Kammeranwalt [[person|Jarrah]] hat in seiner Stellungnahme vom [[date|12. Februar 2025]] ausgeführt, dass der Betrag von EUR 3.800,00 bis heute nicht vollständig nachgewiesen ist. Der Senat folgt dieser Einschätzung, soweit sie den Vorgang vom [[date|18. Juli 2023]] betrifft. Die Rückzahlung vom [[date|2. Oktober 2023]] ist dagegen durch den Kontoauszug belegt.
+Der Kammeranwalt [[person|Jarrah]] hat in seiner Stellungnahme vom [[date|12. Februar 2025]] ausgeführt, dass der Betrag von EUR 3.800,00 bis heute nicht vollständig nachgewiesen ist. Der Senat folgt dieser Einschätzung, soweit sie den Vorgang vom [[date|18. Juli 2023]] betrifft. Die Rückzahlung vom [[date|2. Oktober 2023]] ist dagegen durch den Kontoauszug belegt. Ob der Klient [[person|Uhl]] dieser Rückzahlung zugestimmt hat, ist ungeklärt. Der Senat hat dazu die Kanzleikorrespondenz beigezogen, die keine schriftliche Weisung des Klienten enthält. Der Beschuldigte hat eingeräumt, dass die Rückzahlung telefonisch vereinbart worden sei. Eine telefonische Weisung ersetzt jedoch nicht die gebotene Dokumentation.
 
 **V. Strafbemessung und Kosten**
 
-Bei der Strafbemessung wurde berücksichtigt, dass der Beschuldigte den Restbetrag von EUR 7.600,00 am [[date|10. November 2024]] an den Klienten [[person|Uhl]] zurückgezahlt hat. Der Senat sieht darin einen wesentlichen Milderungsgrund.
+Bei der Strafbemessung wurde berücksichtigt, dass der Beschuldigte den Restbetrag von EUR 7.600,00 am [[date|10. November 2024]] an den Klienten [[person|Uhl]] zurückgezahlt hat. Der Senat sieht darin einen wesentlichen Milderungsgrund. Die Geldbuße von EUR 4.500,00 liegt im unteren Bereich des Strafrahmens. Der Senat berücksichtigt dabei die lange Verfahrensdauer von mehr als eineinhalb Jahren, die der Beschuldigte nicht zu vertreten hat, und die wirtschaftliche Lage des Beschuldigten, der nach eigenen Angaben über ein monatliches Einkommen von rund EUR 3.200,00 verfügt.
 
 Die Kosten des Verfahrens betragen EUR 800,00 und werden dem Beschuldigten auferlegt.
 
 **VI. Rechtsmittelbelehrung**
 
-Gegen dieses Erkenntnis ist die Revision an den [[court|Obersten Gerichtshof]] zulässig.
+Gegen dieses Erkenntnis ist die Revision an den [[court|Obersten Gerichtshof]] zulässig. Der Beschuldigte hat auf eine mündliche Verkündung verzichtet. Die schriftliche Ausfertigung wird den Parteien nach Rechtskraft zugestellt. Die Vollstreckung der Geldbuße erfolgt nach Rechtskraft durch die Kammer.
 
 Für den Senat:
 

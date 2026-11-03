@@ -44,7 +44,7 @@ Die Erbquoten sind im Verlassenschaftsakt festgehalten. Die Erben haben sich üb
 
 2.5 Pkw Skoda Octavia, Baujahr 2014, bewertet mit EUR 3.150,00; das Fahrzeug ist auf den Erblasser zugelassen, die Zulassung wurde am [[date|20. Juli 2026]] abgemeldet.
 
-2.4 Lebensversicherung bei der Versicherung, Polizze Nr. [[other_identifier|39-5450266]], Rückkaufswert zum Todestag EUR 11.300,00
+2.4 Lebensversicherung bei der Versicherung, Polizzen-Nr. [[other_identifier|39-5450266]], Rückkaufswert zum Todestag EUR 11.300,00
 
 Kontakt zur Versicherung:
 Tel. [[phone_number|+43-7242-2065754 Kl. 68]]
@@ -73,7 +73,7 @@ Der Erbe [[person|Siman]] hat um Verlängerung der Frist zur Erbantrittserkläru
 
 Die Einantwortung soll nach Vorliegen der Unbedenklichkeitsbescheinigung für die Grunderwerbsteuer erfolgen. Die Forderung gegen die [[organization|Ringel Bau]] ist gesondert zu verfolgen; Die Gesellschaft hat auf das Mahnschreiben vom [[date|15. August 2026]] nicht reagiert, weshalb der Notar den Erben empfiehlt, die Forderung im Wege eines Zahlungsbefehls geltend zu machen. Die Kosten dafür sind aus dem Nachlass zu tragen und bereits in den Passiva berücksichtigt. sollte die Gesellschaft nicht zahlen, wird der Notar die Erben über eine Klage beim [[court|BG Waidhofen an der Thaya]] unterrichten.
 
-Die Erben wurden über ihre Haftung nach [[legal_norm|§ 802 ABGB]] belehrt. Die Verlassenschaft umfasst außerdem einen Hausrat, der mit EUR 1.800,00 bewertet wurde und zwischen den Erben nach Übereinkunft aufgeteilt wird. Die Legatarin [[person|Helm]] übernimmt die Einrichtung der Küche, [[person|Zeman]] erhält die Bücher und Fotoalben des Erblassers, und [[person|Siman]] wählt den Schmuck aus, soweit er nicht zum Nachlass im engeren Sinn gehört. Die Schätzung des Hausrats wurde von einem beeideten Sachverständigen durchgeführt. Gegen dieses Protokoll ist kein Rechtsmittel gegeben.
+Die Erben wurden über ihre Haftung nach [[legal_norm|§ 802 ABGB]] belehrt. Die Kosten des Verlassenschaftsverfahrens sind aus dem Nachlass zu bestreiten, soweit die Erben die Kosten nicht vorab übernehmen. Die Erben haben zudem erklärt, dass keine weiteren Verbindlichkeiten bekannt sind, außer den im Vermögensverzeichnis angeführten Positionen. Die Liegenschaft wird vor der Einantwortung noch durch den Notar begangen. Die Begehung findet am [[date|10. November 2026]] statt; die Legatarin [[person|Helm]] und der Erbe [[person|Siman]] haben ihr Erscheinen zugesagt, [[person|Zeman]] hat sich entschuldigt. Über das Ergebnis wird ein gesonderter Aktenvermerk erstellt, der dem Protokoll angeschlossen wird. Der Termin wird den Erben schriftlich mitgeteilt; die Kosten der Begehung trägt der Nachlass. Dies ist im Protokoll vermerkt. Die Verlassenschaft umfasst außerdem einen Hausrat, der mit EUR 1.800,00 bewertet wurde und zwischen den Erben nach Übereinkunft aufgeteilt wird. Die Legatarin [[person|Helm]] übernimmt die Einrichtung der Küche, [[person|Zeman]] erhält die Bücher und Fotoalben des Erblassers, und [[person|Siman]] wählt den Schmuck aus, soweit er nicht zum Nachlass im engeren Sinn gehört. Die Schätzung des Hausrats wurde von einem beeideten Sachverständigen durchgeführt. Gegen dieses Protokoll ist kein Rechtsmittel gegeben.
 
 [[location|Retzbach]], am [[date|6. November 2026]]
 

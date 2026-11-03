@@ -49,7 +49,7 @@ Berger]], geb. [[date_of_birth|1947-06-22]], wohnhaft in [[address|Bahnhofstraß
 | 4 | Hausrat und Schmuck | 4.800,00 |
 | | Summe | 237.830,00 |
 
-Die Liegenschaft ist im Grundbuch eingetragen. Ein Schätzgutachten des Sachverständigen über den Verkehrswert der Liegenschaft liegt bei. Die Wohnung in der [[address|Eisenbahngasse 12, 2700 Wiener Neustadt]] wurde durch die Erblasserin zuletzt nicht mehr vermietet.
+Die Liegenschaft ist im Grundbuch eingetragen; die letzte Eintragung stammt vom [[date|4. Februar 2019]]. Ein Schätzgutachten des Sachverständigen über den Verkehrswert der Liegenschaft liegt bei. Die Wohnung in der [[address|Eisenbahngasse 12, 2700 Wiener Neustadt]] wurde durch die Erblasserin zuletzt nicht mehr vermietet.
 
 **IV. Passiva**
 
@@ -75,7 +75,7 @@ Das Testament vom [[date|3. Mai 2019]] enthält zusätzlich eine Auflage, wonach
 
 **VI b. Anmerkungen zu den Gläubigerforderungen**
 
-Die Forderung der Gläubigerin [[person|Cecily DI Stauder]] wurde durch Vorlage des Darlehensvertrages vom [[date|12. Juni 2019]] belegt. Die Rückzahlungsraten wurden bis zum Todestag der Erblasserin regelmäßig geleistet; der offene Restbetrag ist im Passivstand ausgewiesen. Die Zinsen wurden nach dem vereinbarten Satz berechnet.
+Die Forderung der Gläubigerin [[person|Cecily DI Stauder]] wurde durch Vorlage des Darlehensvertrages vom [[date|12. Juni 2019]] belegt. Die Rückzahlungsraten wurden bis zum Todestag der Erblasserin regelmäßig geleistet; der offene Restbetrag ist im Passivstand ausgewiesen. Die Zinsen wurden nach dem vereinbarten Satz berechnet. Der Darlehensvertrag enthält keine Sicherheiten und keine Wertsicherungsklausel, was der Notar bei der Anmeldung ausdrücklich vermerkt hat.
 
 Die Erbinnen und Erben haben die Liegenschaft nicht vor der Einantwortung veräußert. Eine Verwertung der Liegenschaft zur Befriedigung der Gläubigerin ist nur erforderlich, falls die Verlassenschaft mit den übrigen Aktiva nicht ausreicht. Nach dem derzeitigen Stand ist dies nicht der Fall.
 

@@ -41,7 +41,11 @@ Der Beklagte erstattet die folgende
 
 4. Die Klägerin hat in der Schadensmeldung angegeben, dass der Schaden bereits am [[date|11. Jänner 2025]] entstanden sei. Diese Angabe ist unrichtig, weil der Beklagte das Fahrzeug an diesem Tag nicht benutzt hat. Der Beklagte hat dies durch die Tankquittung vom [[date|11. Jänner 2025]] belegt.
 
-5. Der Vermittler, der die Unterlagen zum Fahrzeugkauf ausgefertigt hat, ist [[person|Aca Mićović]], geb. [[date_of_birth|1953-08-18]], StA: [[country|Ukraine]]. Herr [[person|Mićović]] hat die Angaben des Beklagten zum Kaufvertrag bestätigt.
+5. Der Mitarbeiter des Autohauses, der die Unterlagen zum Fahrzeugkauf ausgefertigt hat, ist [[person|Aca Mićović]], geb. [[date_of_birth|1953-08-18]], StA: [[country|Ukraine]]. Herr [[person|Mićović]] hat die Angaben des Beklagten zum Kaufvertrag bestätigt.
+
+6. Die Klägerin hat den Pkw im Jahr 2023 von einem dritten Verkäufer erworben und nicht vom Beklagten. Die Vereinbarung vom [[date|3. Oktober 2024]] über die Vermittlung weist den Beklagten nur als Vermittler aus, nicht als Verkäufer. Die Vermittlungsprovision wurde von der Klägerin direkt bezahlt.
+
+7. Die Klägerin hat die Unterlagen der Versicherung erst am [[date|20. Jänner 2025]] übermittelt, also acht Tage nach dem behaupteten Schadenseintritt. Die Verspätung ist durch nichts gerechtfertigt.
 
 **II. Rechtliche Beurteilung**
 
@@ -49,13 +53,17 @@ Der Beklagte erstattet die folgende
 
 2. Die Versicherung ist nach [[legal_norm|§ 6 VersVG]] nicht verpflichtet, Schäden zu ersetzen, die der Versicherungsnehmer nicht verschuldet hat. Die Klägerin hat die Fristen nach [[legal_norm|§ 6 VersVG]] nicht eingehalten.
 
+5. Ein Anspruch scheitert auch an der Beweislast, weil die Klägerin den Zeitpunkt des Schadenseintritts nicht konkret angibt. Der Geschädigte hat das Verschulden des Schädigers und den Kausalzusammenhang zu beweisen.
+
+6. Die Zinsen werden ausdrücklich bestritten. Ein Verzug des Beklagten besteht nicht, weil die Klägerin die Zahlung nie gefordert hat, bevor die Klage eingebracht wurde.
+
 3. Das [[court|BG Wiener Neustadt]] ist gemäß [[legal_norm|§ 49 Abs 2 Z 1 JN]] sachlich zuständig. Die örtliche Zuständigkeit ergibt sich aus [[legal_norm|§ 66 JN]], weil der Beklagte in [[location|Wiener Neustadt]] seinen allgemeinen Gerichtsstand hat.
 
 4. Die Klägerin hat die Schadenshöhe nicht nachgewiesen. Die vorgelegte Rechnung ist undatiert und trägt keine Unterschrift des Sachverständigen. Der Anspruch ist daher auch der Höhe nach bestritten.
 
 **III. Beweisanbote**
 
-Der Beklagte beantragt die Einvernahme des Zeugen [[person|Mag. Spirache Gherghel]] sowie die Beiziehung der Akten der Versicherung. Weiters beantragt der Beklagte die Einvernahme der Klägerin zu den Umständen der Schadensmeldung.
+Der Beklagte beantragt die Einvernahme des Zeugen [[person|Mag. Spirache Gherghel]] sowie die Beiziehung der Akten der Versicherung. Weiters beantragt der Beklagte die Einvernahme der Klägerin zu den Umständen der Schadensmeldung. Der Beklagte beantragt ferner die Vorlage des Kaufvertrages vom [[date|3. Oktober 2024]] und die Einvernahme des Mitarbeiters des Autohauses [[person|Mićović]] als Zeugen.
 
 **IV. Anträge**
 
@@ -69,6 +77,8 @@ Der Beklagte beantragt,
 ./1 Tankquittung vom [[date|11. Jänner 2025]]
 ./2 Versicherungsbedingungen, Polizzen-Nr. [[other_identifier|49-1825840]]
 ./3 Lichtbilder des Fahrzeugs
+./4 Vermittlungsvereinbarung vom [[date|3. Oktober 2024]]
+./5 Schreiben der Versicherung vom [[date|20. Jänner 2025]]
 
 **VI. Vollmacht**
 
@@ -83,6 +93,10 @@ Die Schadensmeldung der Versicherung trägt die Nummer [[other_identifier|93/400
 Der Schriftverkehr wird daher auch an [[organization|HYPO NOE]] übermittelt.
 
 Tel. [[phone_number|07242 514842 Durchwahl 45]]
+
+**VIII. Kostenvorbehalt**
+
+Der Beklagte behält sich vor, im Falle der Klagsabweisung die Kosten nach dem Ergebnis des Verfahrens geltend zu machen. Die Kosten der Schadensbegutachtung sind von der Klägerin zu tragen, weil der Schaden nicht nachgewiesen wurde. Ein Vergleichsvorschlag des Gerichts wird im Hinblick auf die Vorfrage der Deckung begrüßt.
 
 **Stempel:** EINGELANGT: [[person|ROMANELLI MASSIMO]] – [[person|RUBIĆ LJERKA]] – [[court|BG WIENER NEUSTADT]]
 

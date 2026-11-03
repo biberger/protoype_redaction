@@ -49,6 +49,8 @@ Wir bitten um umgehende Stellungnahme, spätestens jedoch binnen vier Wochen ab 
 
 Zur Vermeidung eines Rechtsstreits bieten wir einen Vergleich an: Die [[organization|WVA]] zahlt binnen 14 Tagen ab Annahme einen Betrag von EUR 6.500,00 samt Zinsen, womit sämtliche Ansprüche aus dem Unfall vom [[date|3. März 2026]] abgegolten sind. Dieses Angebot ist bis zum [[date|10. November 2026]] befristet. Die Verjährungsfrist ist durch unsere Anmeldung vom [[date|12. März 2026]] gehemmt, wir behalten uns jedoch vor, die Ansprüche auch gegen den Fahrzeughalter geltend zu machen.
 
+Die Mandantin hat den Unfall unmittelbar bei der Polizeiinspektion in [[location|St. Andrä]] angezeigt. Der Polizeibericht vom selben Tag bestätigt die Schuldfrage; eine Kopie wird auf Verlangen nachgereicht.
+
 Mit freundlichen Grüßen
 
 [[lawyer|Scheiner]]

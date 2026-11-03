@@ -142,6 +142,8 @@ IX. Abrechnung und Schlussübergabe
 
 16. Die Treuhandschaft ist mit der Eintragung im Grundbuch und der Auszahlung des Kaufpreises abgeschlossen. Der Treuhänder stellt den Parteien eine Schlussabrechnung zu.
 
+Die Verkäuferin bestätigt die Richtigkeit der Angaben zu ihrer Person. Die Käufer bestätigen, dass ihnen die Verkäuferin den Kaufgegenstand am [[date|10. März 2026]] gezeigt hat und dass sie die Lage des Hauses kennen.
+
 Anhang: Grundbuchsauszug (Auszug vom [[date|1. April 2026]])
 
 A1-Blatt: Grundstück [[land_register_id|895]], Bauf.(10), Gärten(10), Gesamtfläche 2.318 m²; Grundstücksadresse [[address|Dorfstraße 17, 5310 Innerschwand am Mondsee]]

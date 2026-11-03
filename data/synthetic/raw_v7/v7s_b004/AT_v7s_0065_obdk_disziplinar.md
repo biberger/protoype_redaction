@@ -41,7 +41,7 @@ Die Kosten des Verfahrens trägt die Beschuldigte.
 
 **I. Verfahrensgang**
 
-Die Kammeranwältin [[person|MMag. Nana Ivanova]] erhob am [[date|14. Mai 2024]] die Disziplinaranzeige gegen [[lawyer|Mag. Dr. Thery Hoselitz]]. Der Disziplinarrat der Rechtsanwaltskammer hat die Anzeige mit Erkenntnis vom [[date|12. Juli 2024]] nur teilweise bestätigt. Gegen diese Entscheidung haben sowohl die Beschuldigte als auch die Kammeranwältin Berufung erhoben. Die [[court|OBDK]] hat die Berufungen im Verfahren [[case_number|E 14/2025]] zu gemeinsamer Verhandlung verbunden.
+Die Kammeranwältin [[person|MMag. Nana Ivanova]] erhob am [[date|14. Mai 2024]] die Disziplinaranzeige gegen [[lawyer|Mag. Dr. Thery Hoselitz]]. Der Disziplinarrat der Rechtsanwaltskammer hat die Anzeige mit Erkenntnis vom [[date|12. Juli 2024]] nur teilweise bestätigt. Gegen diese Entscheidung haben sowohl die Beschuldigte als auch die Kammeranwältin Berufung erhoben. Die [[court|OBDK]] hat die Berufungen im Verfahren [[case_number|E 14/2025]] zu gemeinsamer Verhandlung verbunden. Der Klient [[person|MMag. Alec Klima]] hat in einer schriftlichen Erklärung Schadenersatz begehrt, der jedoch nicht Gegenstand dieses Verfahrens ist. Die Kammeranwältin [[person|Ivanova]] hat den Antrag auf Verhängung einer Geldbuße von mindestens EUR 10.000,00 gestellt. Die Beschuldigte hat in der Verhandlung erklärt, sie halte die Anzeige für unbegründet, weil die Verkäuferin den Kaufvertrag nur mit einer Frist von drei Tagen aufrechterhalten habe.
 
 **II. Sachverhalt**
 
@@ -57,13 +57,13 @@ Die Buchungen im Treuhandkonto stellen sich wie folgt dar:
 | [[date|11. März 2024]] | Auszahlung an die Verkäuferin | 6.200,00 | [[organization|Ebner GmbH]] |
 | [[date|2. April 2024]] | Auszahlung an die Klientin | 2.300,00 | [[person|Alipova]] |
 
-Am [[date|11. März 2024]] wurde die Zahlung an die [[organization|Ebner GmbH]] ohne schriftliche Weisung des Klienten [[person|Klima]] vorgenommen. Der Klient wurde erst im April 2024 davon informiert. Die Beschuldigte rechtfertigt sich damit, dass die Verkäuferin den Vertrag mit einer Frist gedrängt habe.
+Am [[date|11. März 2024]] wurde die Zahlung an die [[organization|Ebner GmbH]] ohne schriftliche Weisung des Klienten [[person|Klima]] vorgenommen. Der Klient wurde erst im April 2024 davon informiert. Die Beschuldigte rechtfertigt sich damit, dass die Verkäuferin den Vertrag mit einer Frist gedrängt habe. Die Klientin [[person|Alipova]] hatte mit der Verkäuferin einen Vorvertrag über eine Wohnung in [[location|Klagenfurt]] abgeschlossen. Die Wohnung sollte nach Abschluss des Kaufvertrages an sie übergeben werden. Der Kaufvertrag wurde jedoch nicht vollzogen, weil die Verkäuferin die Grundbuchseintragung verzögerte. Die Beschuldigte hat die Zahlung in der Annahme geleistet, dass die Grundbuchseintragung bis Ende April 2024 erfolgt. Eine solche Frist ist im Vorvertrag nicht vermerkt.
 
 **III. Rechtliche Beurteilung**
 
 Die Verpflichtung zur getrennten Verwahrung und zur ordnungsgemäßen Verwaltung anvertrauter Vermögenswerte ergibt sich aus [[legal_norm|§ 43a Abs 3 RAO]] und dem Auftragsverhältnis nach [[legal_norm|§ 1009 ABGB]]. Die Beschuldigte hat die Weisungsbindung verletzt, weil sie ohne schriftliche Anordnung des Klienten Gelder ausbezahlt hat.
 
-Der Einwand der Beschuldigten, sie habe zur Sicherung des Kaufs gehandelt, ist nicht geeignet, die Verletzung der Pflichten nach der [[legal_norm|RAO]] zu rechtfertigen. Ein Rechtsanwalt hat seine Pflichten auch bei Zeitdruck einzuhalten.
+Der Einwand der Beschuldigten, sie habe zur Sicherung des Kaufs gehandelt, ist nicht geeignet, die Verletzung der Pflichten nach der [[legal_norm|RAO]] zu rechtfertigen. Ein Rechtsanwalt hat seine Pflichten auch bei Zeitdruck einzuhalten. Die Verwahrung von Klientengeldern verlangt eine klare Trennung von Eigen- und Fremdgeldern. Jede Auszahlung ist mit einem Beleg zu hinterlegen, der den Empfänger, den Zweck und den Klienten nennt. Wer ein Treuhandkonto führt, muss jede Auszahlung mit einer schriftlichen Anordnung belegen können. Dass die Verkäuferin Druck ausgeübt hat, ändert an dieser Verpflichtung nichts.
 
 Der Disziplinarrat hat die Pflichtverletzung zutreffend als schwer beurteilt. Die [[court|OBDK]] hält jedoch den Strafrahmen für zu hoch, weil die Beschuldigte bisher disziplinär unbescholten ist und den Betrag vollständig rückerstattet hat.
 
@@ -72,6 +72,8 @@ Der Disziplinarrat hat die Pflichtverletzung zutreffend als schwer beurteilt. Di
 Die Geldbuße wurde unter Berücksichtigung der Milderungsgründe auf EUR 6.000,00 herabgesetzt. Die Beschuldigte hat den Klienten [[person|Klima]] und die Klientin [[person|Alipova]] vollständig entschädigt. Die Zahlungen sind auf dem Konto der Beschuldigten eingegangen und wurden durch die Kammeranwältin [[person|Ivanova]] bestätigt.
 
 Die Kammeranwältin [[person|Ivanova]] hat in der Verhandlung ausgeführt, dass die Buchungen nicht vollständig nachvollziehbar seien. Der Senat folgt dieser Einschätzung, soweit die Buchungsbelege fehlen.
+
+Als erschwerend wurde berücksichtigt, dass die Pflichtverletzung über mehrere Wochen andauerte und die Beschuldigte die Klientin erst nach deren Nachfrage informierte. Die Milderungsgründe überwiegen jedoch, weil die Beschuldigte den Betrag vollständig rückerstattet hat, bisher nicht disziplinär auffällig war und ein Teilgeständnis abgelegt hat. Die Beschuldigte ist seit über zehn Jahren als Rechtsanwältin in [[location|Wien]] tätig.
 
 **V. Beweiswürdigung**
 
@@ -82,6 +84,16 @@ Die Beschuldigte hat in ihrer Stellungnahme ausgeführt, die Zahlung an die [[or
 Die Klientin [[person|Alipova]] hat in der Verhandlung angegeben, sie habe von der Zahlung an die Verkäuferin erst nach Abschluss des Wohnungskaufs erfahren. Ihre Aussage ist glaubwürdig, weil sie mit den Buchungsbelegen übereinstimmt. Die Kammeranwältin [[person|Ivanova]] hat zutreffend darauf hingewiesen, dass für einen Teil der Buchungen keine Belege vorliegen. Der Senat legt diesen Umstand der Beschuldigten zur Last, weil die Dokumentation ihr als Treuhänderin oblag.
 
 Das Vorbringen der Beschuldigten, der Betrag von EUR 2.300,00 sei auf Wunsch der Klientin [[person|Alipova]] ausbezahlt worden, konnte nicht bestätigt werden. Die Klientin hat eine solche Weisung ausdrücklich verneint.
+
+Auszug aus der Niederschrift über die Einvernahme der Klientin [[person|Alipova]]:
+
+Frage: Haben Sie einer Auszahlung an die Verkäuferin zugestimmt?
+Antwort: Nein. Ich wusste nicht, dass Geld an die Verkäuferin geht, bevor die Wohnung übergeben ist.
+
+Frage: Wann haben Sie von der Zahlung erfahren?
+Antwort: Frau [[lawyer|Hoselitz]] hat mir Anfang April 2024 geschrieben. Das war nach der Zahlung.
+
+Die [[organization|Ebner GmbH]] hat mit Schreiben vom [[date|18. März 2024]] den Erhalt des Betrages bestätigt. Das Schreiben trägt den Vermerk „Eingangsbestätigung Treuhandkonto“ und die Unterschrift des Geschäftsführers.
 
 **VI. Kosten**
 

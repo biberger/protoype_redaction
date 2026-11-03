@@ -56,6 +56,8 @@ Die Leistung vom [[date|12. Mai 2026]] umfasst den Entwurf der Klage samt Beilag
 
 Auf die bereits geleisteten Vorschüsse von EUR 1.000,00 (Zahlung vom [[date|10. März 2026]]) wurde Rücksicht genommen; der Restbetrag ist somit EUR 2.135,60. Wir ersuchen, bei der Überweisung den Verwendungszweck anzugeben. Bei Rückfragen zur Abrechnung wenden Sie sich bitte an die Kanzlei unter der oben angeführten Telefonnummer.
 
+Die Honorarnote betrifft ausschließlich die im Zeitraum vom [[date|3. März 2026]] bis zum [[date|31. Juli 2026]] erbrachten Leistungen. Frühere Vorschüsse, soweit sie nicht bereits verrechnet wurden, sind im Saldo berücksichtigt.
+
 Sollte die Zahlung nicht fristgerecht eingehen, erlauben wir uns, eine Zahlungserinnerung zu übersenden. Für Zahlungen, die später als 30 Tage nach Rechnungsdatum eingehen, werden Mahnspesen von EUR 15,00 verrechnet. Wir danken für Ihr Vertrauen und stehen für weitere Fragen zur Verfügung.
 
 Zahlungsverbindung:

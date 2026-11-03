@@ -38,7 +38,7 @@ Die Liegenschaft ist frei von Pfandrechten, sofern nicht die im Lastenblatt verz
 
 Kaufpreis
 
-Der Kaufpreis beträgt EUR 485.000,00. Er ist wie folgt zu zahlen: EUR 48.500,00 als Anzahlung bei Vertragsunterfertigung auf das Treuhandkonto der Vertragserrichterin, der Rest nach Vorliegen der Lastenfreistellung.
+Der Kaufpreis beträgt EUR 485.000,00. Die Bankverbindung der Verkäuferin lautet IBAN [[bank_account|AT77 3307 9936 8696 2085]]. Er ist wie folgt zu zahlen: EUR 48.500,00 als Anzahlung bei Vertragsunterfertigung auf das Treuhandkonto der Vertragserrichterin, der Rest nach Vorliegen der Lastenfreistellung.
 
 Die Vertragsparteien vereinbaren die Übernahme der Grunderwerbsteuer durch die Käufer. Die Umsatzsteuer ist im Kaufpreis nicht enthalten, da die Verkäuferin die Liegenschaft als Privatvermögen veräußert. Der Käufer hat die Nebenkosten der Vertragsabwicklung in Höhe von EUR 6.400,00 bereits bei Vertragsunterfertigung vorausbezahlt. Die Eintragungsgebühr trägt ebenfalls der Käufer.
 
@@ -56,7 +56,7 @@ Der Verkauf erfolgt wie besichtigt. Die Käufer erklären, das Objekt am [[date|
 
 Schlussbestimmungen
 
-Die Vertragsparteien bestätigen, dass sie den Vertrag gelesen und verstanden haben. Nebenabreden bestehen nicht. Änderungen bedürfen der Schriftform. Die Kosten der Vertragserrichtung trägt der Käufer. Die Käufer erklären ausdrücklich, die Anzahlung von EUR 48.500,00 nicht aus Mitteln eines Kredits zu leisten, der auf die Liegenschaft grundbücherlich sichergestellt werden soll. Sollte eine Finanzierung erforderlich sein, ist dies der Treuhänderin vor der Auszahlung schriftlich mitzuteilen. Die Verkäuferin verpflichtet sich, bei der Finanzierung mitzuwirken und die erforderlichen Urkunden binnen zwei Wochen zu unterfertigen.
+Die Vertragsparteien bestätigen, dass sie den Vertrag gelesen und verstanden haben. Nebenabreden bestehen nicht. Änderungen bedürfen der Schriftform. Die Kosten der Vertragserrichtung trägt der Käufer. Die Käufer erklären ausdrücklich, die Anzahlung von EUR 48.500,00 nicht aus Mitteln eines Kredits zu leisten, der auf die Liegenschaft grundbücherlich sichergestellt werden soll. Sollte eine Finanzierung erforderlich sein, ist dies der Treuhänderin vor der Auszahlung schriftlich mitzuteilen. Die Verkäuferin verpflichtet sich, bei der Finanzierung mitzuwirken und die erforderlichen Urkunden binnen zwei Wochen zu unterfertigen. Die Käufer erhalten eine Ausfertigung des Energieausweises, die Verkäuferin übergibt die Wartungsunterlagen der Heizung und den Schlüssel zur Garage. Die Übergabe erfolgt am Tag der Eintragung. Die Käufer übernehmen die Versicherung des Gebäudes ab diesem Zeitpunkt. Dies wird bestätigt.
 
 Besondere Vereinbarungen
 

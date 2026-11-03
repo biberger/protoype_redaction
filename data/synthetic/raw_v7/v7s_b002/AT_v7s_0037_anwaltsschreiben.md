@@ -30,7 +30,7 @@ Die [[organization|AHG]] schuldet die Zahlung aus der Lieferung vom [[date|3. M�
 
 Die Mahnungen vom [[date|2. Juni 2026]] und vom [[date|7. Juli 2026]] blieben unbeantwortet. Der Mandant begehrt daher neben dem Kapital von EUR 4.870,00 auch Verzugszinsen in der gesetzlichen Höhe seit dem [[date|1. April 2026]] sowie die Kosten der Mahnschreiben in der Höhe von EUR 84,00. Die Verzugszinsen werden nach [[legal_norm|§ 1333 Abs 2 ABGB]] berechnet, da beide Parteien unternehmerisch tätig sind.
 
-Wir ersuchen um Zustellung der Klage und um Erlassung des Zahlungsbefehls. Die Zuständigkeit des [[court|BG Ried im Innkreis]] ergibt sich aus dem Erfüllungsort.
+Wir ersuchen um Zustellung der Klage und um Erlassung des Zahlungsbefehls. Zahlungen sind auf das Konto des Mandanten, IBAN [[bank_account|AT82 4362 4662 2607 7156]], zu leisten. Die Zuständigkeit des [[court|BG Ried im Innkreis]] ergibt sich aus dem Erfüllungsort.
 
 Die Parteien laut Klagsbeilage sind:
 
@@ -43,6 +43,8 @@ gegen
 [[person|Eisinger Wendolin]]
 
 Unsere Kontaktdaten für Rückfragen: Tel. [[phone_number|07242 248191-41]].
+
+Die Lieferung umfasste laut Lieferschein zwölf Paletten Haushaltsware. Die Ware wurde von unserem Mandanten am [[date|4. März 2026]] übernommen und ohne Mängelrüge angenommen. Eine Retournierung hat die [[organization|AHG]] nicht verlangt.
 
 Mit vorzüglicher Hochachtung
 

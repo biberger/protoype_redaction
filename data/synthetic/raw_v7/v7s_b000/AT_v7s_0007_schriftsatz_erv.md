@@ -59,7 +59,7 @@ Die Klägerin begehrt von den Beklagten zur ungeteilten Hand EUR 42.300,00 sA an
 | Schmerzengeld Mitklägerin | 2.000,00 |
 | Summe | 42.300,00 |
 
-Die erste Beklagte haftet nach [[legal_norm|§ 1 AHG]], weil die Abnahme durch ihr Organ fehlerhaft erfolgte. Die zweite Beklagte haftet nach [[legal_norm|§ 1295 ABGB]] und [[legal_norm|§ 1311 ABGB]] für mangelhafte Bauausführung.
+Die erste Beklagte haftet nach [[legal_norm|§ 1 AHG]], weil die Abnahme durch ihr Organ fehlerhaft erfolgte. Die zweite Beklagte haftet nach [[legal_norm|§ 1295 ABGB]] und [[legal_norm|§ 1311 ABGB]] für mangelhafte Bauausführung. Der Schaden ist den Beklagten rechtzeitig angezeigt worden.
 
 **III. Zuständigkeit**
 

@@ -38,7 +38,7 @@ Sachverhalt
 
 3. Am [[date|9. Juni 2021]] zahlte die [[organization|HTB]] einen Betrag von EUR 4.800,00 zugunsten des Treuhandkontos ein, der von der Gegenseite als Honorarvorschuss bezeichnet wurde. Eine Abrechnung dazu wurde erst am [[date|11. Jänner 2022]] übermittelt.
 
-4. Die Treuhandschaft TH-Nr. [[other_identifier|2022/310]] betrifft ein Kaufanbot des Mandanten [[person|Rudolf Kofler]] vom [[date|1. Oktober 2021]]. Der Kaufpreis von EUR 96.500,00 wurde am [[date|28. Oktober 2021]] auf das Treuhandkonto überwiesen. Eine Auszahlung an den Verkäufer erfolgte am [[date|14. Dezember 2021]] in Höhe von EUR 90.000,00. Der Restbetrag von EUR 6.500,00 wurde bis zum Zeitpunkt der mündlichen Verhandlung nicht abgerechnet.
+4. Die Treuhandschaft TH-Nr. [[other_identifier|2022/310]] betrifft ein Kaufanbot des Mandanten [[person|Rudolf Kofler]] vom [[date|1. Oktober 2021]]. Gegenstand des Kaufanbots ist die Liegenschaft [[land_register_id|KG Hackerberg]]/[[land_register_id|EZ1292]]; Grundstück [[land_register_id|841]]. Der Kaufpreis von EUR 96.500,00 wurde am [[date|28. Oktober 2021]] auf das Treuhandkonto überwiesen. Eine Auszahlung an den Verkäufer erfolgte am [[date|14. Dezember 2021]] in Höhe von EUR 90.000,00. Der Restbetrag von EUR 6.500,00 wurde bis zum Zeitpunkt der mündlichen Verhandlung nicht abgerechnet.
 
 5. Die Mandantin [[person|Gisela Partl]] wandte sich am [[date|2. Mai 2022]] schriftlich an die Kammer und verlangte die Herausgabe des Restbetrags. Der Beschuldigte antwortete am [[date|20. Mai 2022]], dass der Betrag bereits ausgezahlt sei. Ein Zahlungsnachweis wurde nicht vorgelegt.
 

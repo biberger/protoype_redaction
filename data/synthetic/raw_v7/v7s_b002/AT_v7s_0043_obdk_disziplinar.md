@@ -67,6 +67,10 @@ Der Senat verweist darüber hinaus auf die Rechtsprechung des [[court|Obersten G
 
 Der Verstoß ist nicht als geringfügig zu beurteilen, weil die Beschuldigte mehrere Treuhandschaften betroffen hat und die Gelder über Monate nicht ausgefolgt wurden.
 
+Der Senat hat die Verfolgungsverjährung geprüft. Die Verfehlungen liegen innerhalb der Frist, da die letzte Auszahlung am [[date|3. März 2021]] erfolgte und die Disziplinaranzeige am [[date|18. Februar 2025]] eingebracht wurde. Eine Verjährung ist daher nicht eingetreten.
+
+Der Senat hat weiters geprüft, ob die Beschuldigte die Verwahrungsbuchungen nach den Bestimmungen der Richtlinien für die Berufsausübung ordnungsgemäß dokumentiert hat. Das Kanzleibuch weist für die Treuhandschaft Nr. [[other_identifier|2019/203]] keine Eintragung zwischen dem [[date|2. September 2019]] und dem [[date|18. Januar 2020]] auf. Auch die Abstimmung mit der Bank unterblieb in diesem Zeitraum.
+
 V. Strafbemessung
 
 Bei der Bemessung hat der Senat die wirtschaftlichen Verhältnisse der Beschuldigten berücksichtigt, die nach ihren Angaben seit dem Jahr 2024 eine Teilzeitstelle in einer Rechtsabteilung ausübt. Die Beschuldigte hat sich bei den Klienten entschuldigt und einen Teil der Schadenersatzforderungen außergerichtlich beglichen.
@@ -74,6 +78,8 @@ Bei der Bemessung hat der Senat die wirtschaftlichen Verhältnisse der Beschuldi
 Mildernd wirkt, dass die Beschuldigte bisher keine einschlägige Vorstrafe aufweist und die Restbeträge nachträglich vollständig geleistet hat. Erschwerend wirkt die Anzahl der betroffenen Klienten und die Dauer der Verzögerung.
 
 Der Senat hält eine Geldbuße von EUR 3.600,00 für tat- und schuldangemessen. Die Zahlungserleichterung in Raten über zwölf Monate wird gewährt, sofern die Beschuldigte die Beträge ordnungsgemäß leistet. Die Kosten des Verfahrens trägt die Beschuldigte gemäß [[legal_norm|§ 51 DSt]].
+
+Der Senat hat die Zeugin [[person|Yasemin Oberhumer]] ergänzend befragt, ob ihr die Auszahlung vom [[date|2. September 2019]] bekannt war. Sie verneinte dies und gab an, die Beschuldigte habe ihr erst im Frühjahr 2021 Auskunft erteilt. Diese Angabe passt zur Abfolge der Kontobewegungen.
 
 Gegen dieses Erkenntnis ist Berufung an den [[court|Obersten Gerichtshof]] binnen vier Wochen zulässig.
 

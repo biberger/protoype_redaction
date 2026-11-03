@@ -53,7 +53,7 @@ Spruch
 
 Die Beschuldigte [[lawyer|Hammer]] wird für schuldig erkannt, die ihr obliegenden Pflichten zur getrennten Verwaltung anvertrauter Vermögenswerte verletzt zu haben. Sie wird mit einem Verweis verbunden mit einer Geldbuße von EUR 3.000,00 bestraft. Die Geldbuße ist binnen vier Wochen zu entrichten.
 
-Die Kosten des Verfahrens trägt die Beschuldigte im Ausmaß von EUR 1.180,00.
+Die Kosten des Verfahrens trägt die Beschuldigte im Ausmaß von EUR 1.180,00. Die Kosten umfassen die Vergütung der Kammeranwältin, die Protokollkosten und die Aufwendungen für die Einvernahme der Anzeiger. Die Entscheidung erging einstimmig, die Vorsitzende hat dem Antrag des Kammeranwalts im Ergebnis zugestimmt.
 
 Gegen diesen Beschluss kann binnen vier Wochen Beschwerde an den [[court|OGH]] erhoben werden. Der Beschluss wurde den Beteiligten in der Verhandlung mündlich verkündet und wird schriftlich ausgefertigt. Die Berufung ist beim Disziplinarrat einzubringen; über sie entscheidet die [[court|OBDK]].
 

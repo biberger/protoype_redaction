@@ -30,7 +30,7 @@ GEB: [[date_of_birth|1. Dezember 1968]],
 [[organization|Pannonia Wohnbau GmbH]],
 vertreten durch [[person|Mag. Dr. Niko Ransmayr]],
 GEB: [[date_of_birth|1985-04-28]],
-[[company_register_number|FN 290115k]]
+[[company_register_number|FN 273770d]]
 
 3. Käuferin
 
@@ -62,7 +62,7 @@ Die Vertragserrichterin übernimmt die Treuhandschaft für alle Vertragsparteien
 
 IV. Aufsandungserklärung
 
-Die Verkäuferinnen erklären die Aufsandung des Eigentumsrechts an der Liegenschaft gemäß lit. a) bis c) an die Käuferin. Die Aufsandungserklärung der [[organization|Pannonia Wohnbau]] ist durch den Geschäftsführer unterfertigt. Die Käuferin nimmt die Erklärung an.
+Die Verkäuferinnen erklären die Aufsandung des Eigentumsrechts an der Liegenschaft gemäß lit. a) bis c) an die Käuferin. Die Aufsandungserklärung der [[organization|Pannonia Wohnbau]] ist durch den Geschäftsführer unterfertigt. Die Käuferin nimmt die Erklärung an. Die Erklärung ist unwiderruflich und wird mit der Unterfertigung dieses Vertrags wirksam; sie gilt auch für den Fall einer späteren Verbücherung der Teilliegenschaft gemäß lit. c).
 
 V. Lastenfreiheit
 
@@ -70,7 +70,7 @@ Die Verkäuferinnen verpflichten sich, sämtliche Pfandrechte, insbesondere die 
 
 VI. Übergabe
 
-Die Übergabe erfolgt mit der Eintragung des Eigentumsrechts. Die Käuferin übernimmt die Liegenschaft im derzeitigen Zustand. Die Verkäuferin [[person|Huter]] räumt das Wohnhaus bis zum [[date|31. Januar 2027]]. Ab Übergabe trägt die Käuferin Nutzen, Gefahr und Lasten.
+Die Übergabe erfolgt mit der Eintragung des Eigentumsrechts. Ein Exemplar des Übergabeprotokolls wird der Treuhänderin übergeben. Die Käuferin übernimmt die Liegenschaft im derzeitigen Zustand. Die Verkäuferin [[person|Huter]] räumt das Wohnhaus bis zum [[date|31. Januar 2027]]. Ab Übergabe trägt die Käuferin Nutzen, Gefahr und Lasten. Die Verkäuferin [[person|Huter]] übergibt die Schlüssel, die Pläne und die Wartungsunterlagen der Heizung am Tag der Übergabe an die Käuferin. Eine Besichtigung durch die Käuferin vor der Übergabe ist jederzeit nach vorheriger Terminvereinbarung möglich.
 
 VII. Gewährleistung
 
@@ -90,7 +90,7 @@ X. Gerichtliche Zuständigkeit
 
 Für Streitigkeiten aus diesem Vertrag ist das Gericht am Sitz der Liegenschaft zuständig. Die Vertragsparteien verzichten auf die Einrede der Unzuständigkeit, soweit das Gesetz dies zulässt.
 
-VIII. Schlussbestimmungen
+XI. Schlussbestimmungen
 
 Die Kosten dieses Vertrags trägt die Käuferin. Die Grunderwerbsteuer wird von der Käuferin getragen. Nebenabreden bestehen nicht. Änderungen bedürfen der Schriftform.
 

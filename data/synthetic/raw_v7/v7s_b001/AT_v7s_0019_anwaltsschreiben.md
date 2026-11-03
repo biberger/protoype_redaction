@@ -25,7 +25,7 @@ Betreff: Schadenersatzforderung aus dem Verkehrsunfall vom [[date|3. September 2
 
 Sehr geehrte Damen und Herren,
 
-wir vertreten Frau [[person|Rosina Killer]], geb. [[date_of_birth|7. Jänner 1935]], wohnhaft in [[address|2754 Waldegg]], in der oben bezeichneten Schadensangelegenheit. Eine Vollmacht liegt bei.
+wir vertreten Frau [[person|Rosina⏎Killer]], geb. [[date_of_birth|7. Jänner⏎1935]], wohnhaft in [[address|2754 Waldegg]], in der oben bezeichneten Schadensangelegenheit. Eine Vollmacht liegt bei.
 
 Am [[date|3. September 2026]] kam es in der Ortsmitte von [[location|Schnepfau]] beim Ausparken zu einer Kollision zwischen dem Fahrzeug der Mandantin und dem von Ihrem Versicherungsnehmer gelenkten Pkw. Der Lenker, [[person|Edgar Bonelli]], GEB: [[date_of_birth|1984-06-20]], StA. [[country|Ungarn]], hat das Fahrzeug beim Zurücksetzen nicht ausreichend beobachtet.
 

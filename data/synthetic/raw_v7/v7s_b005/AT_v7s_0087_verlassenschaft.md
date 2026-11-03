@@ -71,6 +71,18 @@ Haftung und Inventar
 
 Die Erben haben zur Kenntnis genommen, dass die Haftung für Nachlassverbindlichkeiten auf den Nachlass beschränkt ist, wenn ein Inventar errichtet wird. Das Inventar wird vom Gericht bestellt und binnen der gesetzlichen Frist errichtet. Die Erben werden ersucht, Belege über Ausgaben im Zusammenhang mit dem Begräbnis und der Liegenschaft dem Notar vorzulegen. Der Erbin [[person|Boric]] wurde zugesichert, dass die Kosten für die Pflege der Erblasserin im letzten Lebensjahr im Rahmen der Abhandlung geprüft werden.
 
+Ausstehende Unterlagen
+
+Für die Vollständigkeit des Abhandlungsprotokolls fehlen noch der Nachweis über das Sparbuch der Erblasserin, die Sterbeurkunde in beglaubigter Abschrift und die Bestätigung der Versicherung über den Rückkaufswert. Der Notar hat die Erben aufgefordert, diese Unterlagen bis zum [[date|31. Juli 2026]] nachzureichen. Sollte dies nicht fristgerecht geschehen, wird das Gericht von Amts wegen die Unterlagen anfordern.
+
+Vermächtnis und Übergabe der Liegenschaft
+
+Das Geldvermächtnis an [[person|Sandler]] ist fällig, sobald die Einantwortung erfolgt ist. Der Vermächtnisnehmer wurde am [[date|18. Juli 2026]] über den Umfang seines Anspruchs informiert. Herr [[person|Sandler]] hat erklärt, dass er die Auszahlung auf ein Konto überweisen lasse, dessen Daten dem Notar noch mitzuteilen sind.
+
+Die Erbin [[person|Radin]] hat angeregt, die Liegenschaft vor der Einantwortung nicht zu veräußern. Dem haben die Erben zugestimmt. Die Verwaltung der Liegenschaft übernimmt bis zur Einantwortung die Erbin [[person|Hayek]] auf Kosten des Nachlasses. Die Einnahmen aus der Verpachtung des Stadels fließen dem Nachlass zu.
+
+Der Notar hat darauf hingewiesen, dass Gegenstände aus dem Haushalt der Erblasserin nur mit Zustimmung aller Erben veräußert werden dürfen. Die Erben haben dies zur Kenntnis genommen und vereinbart, das Hausinventar gemeinsam aufzuteilen. Ein Verzeichnis der Gegenstände wird bis zur Einantwortung erstellt.
+
 Schlussbemerkung
 
 Die Erben haben die Abhandlung bestätigt. Die Erbantrittserklärungen werden dem Gericht übermittelt; die Einantwortung ist binnen sechs Monaten nach dem Todestag anzustreben. Das Protokoll wurde vorgelesen, von allen Erschienenen genehmigt und unterfertigt.

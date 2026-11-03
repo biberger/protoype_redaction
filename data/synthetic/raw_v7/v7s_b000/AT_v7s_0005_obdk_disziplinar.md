@@ -41,7 +41,7 @@ Die Beschuldigte zahlte den Restbetrag von EUR 4.900,00 am [[date|8. Dezember 20
 
 Der [[court|Disziplinarrat der Rechtsanwaltskammer Wien]] hatte die Beschuldigte für schuldig erkannt und eine Geldbuße von EUR 5.000,00 verhängt. Gegen diesen Bescheid richtet sich die Berufung der Beschuldigten, die vorbringt, die Entnahmen seien durch offene Honorarforderungen gedeckt gewesen und die Buchungen seien nur verspätet erfolgt.
 
-Der Senat teilt diese Auffassung nicht. Die Entnahme von EUR 6.000,00 am [[date|19. Oktober 2021]] stand in keinem Zusammenhang mit einer Honorarvereinbarung. Die Honorarforderung der Beschuldigten wurde erst im Jahr 2022 erhoben, also nach der Entnahme. Eine Deckung aus späteren Honorarleistungen kann die Verletzung der Trennungspflicht nicht beseitigen.
+Der Senat teilt diese Auffassung nicht. Die Entnahme von EUR 6.000,00 am [[date|19. Oktober 2021]] stand in keinem Zusammenhang mit einer Honorarvereinbarung. Die Honorarforderung der Beschuldigten wurde erst im Jahr 2022 erhoben, also nach der Entnahme. Eine Deckung aus späteren Honorarleistungen kann die Verletzung der Trennungspflicht nicht beseitigen. Auch die Behauptung, die Mandantin habe mündlich zugestimmt, ist nicht geeignet, die Entnahme zu rechtfertigen, da eine solche Zustimmung in keiner Aufzeichnung der Kanzlei festgehalten ist.
 
 Die Beweiswürdigung stützt sich auf die Kontoauszüge, die Abrechnungen, das Treuhandbuch und die Aussage der Mandantin [[person|Selimović]]. Die Mandantin schilderte den Ablauf glaubwürdig und widerspruchsfrei. Die Beschuldigte konnte dagegen keine schriftliche Honorarvereinbarung vorlegen; ihre Darstellung, sie habe die Mandantin mündlich informiert, wurde durch keinen Zeugen bestätigt.
 
@@ -81,7 +81,7 @@ Die Beschuldigte hatte bereits im Jahr 2019 eine Ermahnung wegen verspäteter Ab
 
 Die Berufung rügt zudem, der Disziplinarrat habe die Kanzleiprüfung nicht ausreichend gewürdigt. Der Senat sieht darin keinen Verfahrensmangel. Der Prüfbericht ist ordnungsgemäß zustande gekommen und wurde der Beschuldigten rechtzeitig zur Stellungnahme übermittelt.
 
-Die Höhe der Geldbuße richtet sich nach dem Gewicht des Verstoßes und den persönlichen Verhältnissen der Beschuldigten. Der Senat hat berücksichtigt, dass die Beschuldigte seit dem Jahr 2024 keine Mandate mehr im Treuhandbereich übernommen hat, was als Umstand zu ihren Gunsten zu werten ist.
+Die Höhe der Geldbuße richtet sich nach dem Gewicht des Verstoßes und den persönlichen Verhältnissen der Beschuldigten. Dabei fiel ins Gewicht, dass die Beschuldigte die Mandantin im Unklaren über den Stand ihrer Gelder ließ und die Abrechnung erst nach Urgenz erstellte. Der Senat hat berücksichtigt, dass die Beschuldigte seit dem Jahr 2024 keine Mandate mehr im Treuhandbereich übernommen hat, was als Umstand zu ihren Gunsten zu werten ist.
 
 **Honorarnote und Abrechnung**
 
@@ -93,7 +93,7 @@ Der Senat hält fest, dass auch eine tatsächlich vereinbarte Honorarforderung n
 
 Der Kammeranwalt [[person|Mag. Randek Masařík]] hat in seiner Stellungnahme darauf hingewiesen, dass die Beschuldigte seit dem Jahr 2016 insgesamt vier Verfahren vor der Kammer geführt hat, von denen eines mit einer Ermahnung endete. Er regte an, die Geldbuße nicht herabzusetzen, weil die Beschuldigte die Verantwortung für die Buchungen nicht übernommen habe.
 
-Der Senat folgt dieser Anregung nur teilweise. Die Verantwortung der Beschuldigten ist zwar unzureichend, sie hat aber die Entnahmen von EUR 4.900,00 im Verfahren vollständig ausgeglichen und den Schaden der Mandantin beseitigt. Damit ist die Herabsetzung der Geldbuße gerechtfertigt.
+Der Senat folgt dieser Anregung nur teilweise. Die Kammer hat in ihrer Anklage außerdem zu Recht darauf hingewiesen, dass Fremdgeld auch dann nicht für Honorarzwecke entnommen werden darf, wenn die Kanzlei einen Liquiditätsengpass hat. Die Verantwortung der Beschuldigten ist zwar unzureichend, sie hat aber die Entnahmen von EUR 4.900,00 im Verfahren vollständig ausgeglichen und den Schaden der Mandantin beseitigt. Damit ist die Herabsetzung der Geldbuße gerechtfertigt.
 
 **Abschließende Bemerkungen zum Treuhandwesen**
 

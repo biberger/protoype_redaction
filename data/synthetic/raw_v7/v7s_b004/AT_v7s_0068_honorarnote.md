@@ -40,12 +40,22 @@ Umsatzsteuer 20 %: 210,00
 Barauslagen (Porto, Kopien, Gerichtsgebühr für Eingabe): 62,00
 Gesamtbetrag: 1.322,00
 
+**Auslagen**
+
+| Datum | Auslage | Betrag in EUR |
+|---|---|---|
+| [[date|08.04.2025]] | Porto für das Schreiben an Herrn [[person|Klug]] | 22,00 |
+| [[date|13.05.2025]] | Kopien für die Vertragsprüfung von Frau [[person|Walk]] | 18,00 |
+| [[date|27.05.2025]] | Eingabegebühr für den Schriftsatz, Akt [[other_identifier|PR-2025/118]] | 22,00 |
+
 **AKTENVERMERK**
 
 AKTENZEICHEN: [[person|WALK LENORE]] / [[person|KLUG ENGELBERT]]
 Zahlung offen bis [[date|28.07.2025]]
 
-Die Honorarnote ist binnen 14 Tagen nach Erhalt auf das Konto IBAN [[bank_account|AT57 0608 1392 3872 5598]] zu überweisen. Bei Zahlungsverzug behalten wir uns die Einbringung über das zuständige Gericht vor.
+Die Honorarnote ist binnen 14 Tagen nach Erhalt auf das Konto IBAN [[bank_account|AT57 0608 1392 3872 5598]] zu überweisen. Bei Zahlungsverzug behalten wir uns die Einbringung über das zuständige Gericht vor. Sollten Sie Fragen zu einzelnen Positionen haben, teilen Sie uns dies bitte innerhalb von sieben Tagen mit. Frau [[person|Walk]] und Herr [[person|Klug]] haften für diese Honorarnote als Mitklienten zur ungeteilten Hand. Die Leistungen wurden mit einem Stundensatz von EUR 180,00 nach dem tatsächlichen Zeitaufwand abgerechnet. Die Allgemeinen Auftragsbedingungen der Kanzlei in der jeweils gültigen Fassung werden auf Wunsch übermittelt.
+
+Die Vertragsprüfung vom [[date|13.05.2025]] umfasste den Mietvertrag mit allen Anhängen, insbesondere die Indexklausel, die Kaution und die Regelung über Kleinreparaturen. Die Prüfung ergab, dass die Indexklausel unzulässig vereinbart war, sodass der Vermieter zur Rückzahlung verpflichtet ist. Diese Ergebnisse wurden mit Herrn [[person|Klug]] am [[date|27.05.2025]] telefonisch besprochen.
 
 [[address|6836 Viktorsberg]], am [[date|14.07.2025]]
 

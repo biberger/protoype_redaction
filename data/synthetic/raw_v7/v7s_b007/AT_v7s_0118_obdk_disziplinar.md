@@ -17,9 +17,12 @@ Vorsitzende: [[judge|Dr. Werngard Nielsen]]
 Beisitzerin: [[judge|Dr. Angelika Bezděková]], geboren am [[date_of_birth|1981-12-28]]
 Beisitzer: [[judge|Dr. Benny Bernfeld]], geb. [[date_of_birth|1956-06-06]]
 Kammeranwalt: Kammeranwalt [[person|Dr. Ogul Sevik]]
+Tel. [[phone_number|02622/2424927 DW 16]]
 Schriftführer: [[person|Kaspar Stigler]]
 
 Verhandlungsgegenstand
+
+Die Beschuldigte hat ihren Kanzleisitz in [[location|St. Florian]].
 
 Gegenstand des Verfahrens ist der Vorwurf, dass die Beschuldigte als Rechtsanwältin fremde Gelder aus Liegenschaftskäufen entgegengenommen und nicht ordnungsgemäß verwaltet habe. Die Kammeranwaltschaft legt der Beschuldigten zur Last, die Treuhandbücher für mehrere Treuhandschaften nicht rechtzeitig geführt und Auszahlungen ohne schriftlichen Auftrag der Mandanten veranlasst zu haben.
 
@@ -96,13 +99,19 @@ Die Kammeranwaltschaft hat in der Verhandlung darauf hingewiesen, dass die Kontr
 
 Die Entziehung der Rechtsanwaltschaft wird nicht verhängt, da die Beschuldigte die Verantwortung für die Verwahrung der Gelder teilweise übernommen hat und das Vertrauen der Mandanten nach Ansicht des Senats durch eine geringere Maßnahme wiederhergestellt werden kann.
 
+Der Senat hat die Stellungnahme des Ehemannes der Beschuldigten als Gesellschafter nicht berücksichtigt, weil dieser an dem Verfahren nicht beteiligt war und seine Angaben nicht unter Wahrheitspflicht gemacht wurden. Die Verantwortung der Beschuldigten wurde daher ausschließlich nach den vorliegenden Urkunden und den Aussagen der Zeugen bewertet.
+
+Die Kammeranwaltschaft hat beantragt, eine Entziehung der Berufsberechtigung für einen Zeitraum von zwei Jahren auszusprechen. Der Senat hat diesen Antrag geprüft, jedoch nicht für angemessen erachtet. Der Senat hält aber fest, dass eine Wiederholung der Pflichtverletzung zu einer erheblich strengeren Sanktion führen wird.
+
+Die Beschuldigte hat in ihrer Stellungnahme vom [[date|3. September 2026]] angeboten, die Treuhandbücher künftig durch eine externe Buchhaltungsstelle führen zu lassen. Dieses Angebot wird vom Senat positiv gewürdigt und bei der Bemessung berücksichtigt, soweit die Umsetzung nachgewiesen wird.
+
 Spruch
 
 Die Beschuldigte [[person|Marlene Radulović]] wird für schuldig erkannt, die ihr als Rechtsanwältin obliegenden Pflichten verletzt zu haben, indem sie fremde Gelder zu den Treuhandschaften Nr. [[other_identifier|2019/515]], [[other_identifier|2021/088]] und [[other_identifier|2022/140]] nicht ordnungsgemäß verwaltete und Zahlungen an die [[organization|WIG]] ohne Offenlegung ihres Interesses veranlasste.
 
 Über die Beschuldigte wird eine Geldbuße von EUR 12.000,00 verhängt. Die Geldbuße ist binnen vier Wochen nach Rechtskraft zu bezahlen.
 
-Die Beschuldigte hat die Kosten des Verfahrens in Höhe von EUR 2.340,00 zu tragen.
+Die Beschuldigte hat die Kosten des Verfahrens in Höhe von EUR 2.340,00 zu tragen. Die Kosten sind binnen vier Wochen nach Zustellung der Entscheidung auf das Konto der Rechtsanwaltskammer zu überweisen. Eine Zustellung erfolgt an die Beschuldigte und an die Kammeranwaltschaft.
 
 [[location|Wien]], am [[date|28. Oktober 2026]]
 

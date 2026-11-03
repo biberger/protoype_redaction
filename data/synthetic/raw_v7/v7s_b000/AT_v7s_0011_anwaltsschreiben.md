@@ -33,7 +33,7 @@ Ihr Versicherungsnehmer ist die [[organization|Kretschmer GmbH]] ([[company_regi
 
 Die Schadenaufstellung der Mandantin ergibt einen Betrag von EUR 14.300,00, bestehend aus Sanierungskosten für Estrich und Wände, dem Ersatz beschädigter Arbeitsmaterialien und einem Verdienstentgang für die Zeit der Trocknung. Die Zeugin [[person|Arnostka Mašková]], die das Atelier mit unserer Mandantin teilt, hat den Wasseraustritt unmittelbar beobachtet und ist bereit, dies auszusagen.
 
-Die Mandantin hat den Schaden am [[date|27. Jänner 2026]] sofort gemeldet. Die Schadenmeldung wurde am selben Tag an die [[organization|GAV]] übermittelt. Die [[organization|GAV]] hat bis zum heutigen Tag weder einen Sachverständigen beauftragt noch eine Stellungnahme abgegeben.
+Die Mandantin hat den Schaden am [[date|27. Jänner 2026]] sofort gemeldet, und zwar telefonisch und schriftlich. Die Schadenmeldung wurde am selben Tag an die [[organization|GAV]] übermittelt. Die [[organization|GAV]] hat bis zum heutigen Tag weder einen Sachverständigen beauftragt noch eine Stellungnahme abgegeben.
 
 Wir ersuchen Sie daher, binnen vierzehn Tagen ab Zugang dieses Schreibens
 
@@ -45,7 +45,7 @@ Sollte keine Reaktion erfolgen, werden wir die Forderung ohne weitere Ankündigu
 
 Die Mandantin hat uns zudem mitgeteilt, dass die Mietvorauszahlung für das Atelier an die [[organization|Kretschmer GmbH]] unter der Kontonummer [[bank_account|AT41 5452 0558 0526 1325]] erfolgt ist. Der Mietvertrag trägt die Vertragsnummer [[other_identifier|V-2021-73846]]. Wir bitten um Bestätigung, dass diese Zahlung ordnungsgemäß verbucht wurde.
 
-Ergänzend weisen wir darauf hin, dass unsere Mandantin [[person|Schönborn]] die Geschäftsräume seit dem [[date|27. Jänner 2026]] nur eingeschränkt nutzen kann. Die Trocknung dauert nach Auskunft des Bautrockners noch mehrere Wochen. Die Mandantin hat deshalb für die Zeit der Sanierung einen Ausweichraum angemietet und die Mehrkosten gesondert belegt. Diese Belege liegen dem Schreiben bei.
+Ergänzend weisen wir darauf hin, dass unsere Mandantin [[person|Schönborn]] die Geschäftsräume seit dem [[date|27. Jänner 2026]] nur eingeschränkt nutzen kann. Die Trocknung dauert nach Auskunft des Bautrockners noch mehrere Wochen. Ein Ende der Sanierung ist derzeit nicht absehbar. Die Mandantin ist bereit, die Arbeiten an einem Wochenende abzustimmen, um die Störung für die Nachbarn gering zu halten. Die Mandantin hat deshalb für die Zeit der Sanierung einen Ausweichraum angemietet und die Mehrkosten gesondert belegt. Diese Belege liegen dem Schreiben bei.
 
 Die Zeugin [[person|Mašková]] hat sich bereit erklärt, eine schriftliche Erklärung abzugeben. Sie wohnt im selben Haus wie die Mandantin, weshalb sie den Wasseraustritt bereits am Morgen des [[date|27. Jänner 2026]] bemerkt hat. Ein Entwurf dieser Erklärung wird Ihnen auf Anfrage übermittelt.
 
@@ -59,4 +59,4 @@ Beilagen:
 - Fotodokumentation
 - Kostenaufstellung
 
-Die Abrechnung der Mehrkosten wird nachgereicht. Telefonische Rückfragen unter Tel. [[phone_number|0512/6420760 Kl. 87]].
+Die Abrechnung der Mehrkosten wird nachgereicht und Ihnen unverzüglich übermittelt. Telefonische Rückfragen unter Tel. [[phone_number|0512/6420760 Kl. 87]].

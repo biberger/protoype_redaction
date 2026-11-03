@@ -50,7 +50,7 @@ Die Lenkerin [[person|Weiler]] gab an, sie habe den Pkw des Beschuldigten erst i
 
 **Schadensbild**
 
-Am Pkw [[license_plate|P 9 FD]] entstanden Schäden an der linken vorderen Tür, am Kotflügel und am Scheinwerfer. Am Fahrzeug der Frau [[person|Weiler]] wurde die hintere rechte Stoßstange beschädigt. Eine Verletzung der Insassen wurde nicht festgestellt; alle Beteiligten konnten die Unfallstelle selbständig verlassen. Der geschätzte Gesamtschaden beläuft sich auf rund EUR 6.200,00.
+Am Pkw [[license_plate|P 9 FD]] entstanden Schäden an der linken vorderen Tür, am Kotflügel und am Scheinwerfer. Am Fahrzeug der Frau [[person|Weiler]] wurde die hintere rechte Stoßstange beschädigt. Eine Verletzung der Insassen wurde nicht festgestellt; alle Beteiligten konnten die Unfallstelle selbständig verlassen. Der geschätzte Gesamtschaden beläuft sich auf rund EUR 6.200,00. Die Schadenssumme wurde vorläufig nach den Angaben beider Lenker festgehalten und ist nicht rechtsverbindlich.
 
 **Alkohol- und Drogentest**
 

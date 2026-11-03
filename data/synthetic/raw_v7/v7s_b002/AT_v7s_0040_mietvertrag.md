@@ -122,6 +122,10 @@ Der Mieter:
 
 [[person|Arcadius Seebacher]]
 
+Der Mieter bestätigt, dass er über die Höhe der voraussichtlichen Betriebskosten informiert wurde. Die Vorauszahlung wird jährlich überprüft und kann auf Verlangen einer Partei an die tatsächlichen Kosten angepasst werden. Eine Anpassung bedarf der Schriftform und wirkt ab dem auf die Mitteilung folgenden Monatsersten.
+
+Die Vermieterin verpflichtet sich, dem Mieter die Abrechnung der Betriebskosten mit allen Belegen binnen der gesetzlichen Frist zur Verfügung zu stellen. Einsichtnahme in die Belege ist nach Terminvereinbarung möglich.
+
 Anlage 1: Berechnung des Mietzinses
 
 Position | Betrag in EUR
