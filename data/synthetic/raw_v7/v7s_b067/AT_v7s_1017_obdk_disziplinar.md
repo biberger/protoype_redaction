@@ -9,7 +9,7 @@ Zl. [[case_number|DS-St 9/2026]]
 
 E R K E N N T N I S
 
-Der [[court|Disziplinarrat der Steiermärkischen Rechtsanwaltskammer]] hat am [[date|21. Oktober 2026]] in Graz über die Disziplinaranzeige gegen Rechtsanwältin [[person|Daggy Swiczinsky]], geb. [[date_of_birth|18.01.1941]], StA: [[country|Ungarn]], erkannt.
+Der [[court|Disziplinarrat der Steiermärkischen Rechtsanwaltskammer]] hat am [[date|21. Oktober 2026]] in [[location|Graz]] über die Disziplinaranzeige gegen Rechtsanwältin [[person|Daggy Swiczinsky]], geb. [[date_of_birth|18.01.1941]], StA: [[country|Ungarn]], erkannt.
 
 Senat
 
@@ -39,6 +39,8 @@ Datum | Vorgang | Betrag EUR | Treuhandnummer
 [[date|16.05.2025]] | Überweisung auf das Kanzleikonto ohne Freigabe | 9.500,00 | TH-Nr. [[other_identifier|2023/764]]
 [[date|27.06.2025]] | Rückzahlung an [[person|Goran Steinmetz]] | 3.500,00 | TH-Nr. [[other_identifier|2023/764]]
 
+Die Kanzlei führte im Jahr 2025 neben dem Treuhandkonto ein Anderkonto für Kautionen, dessen Stand die Beschuldigte nicht laufend überprüfte. Ein Fehlbetrag wurde bei der Prüfung der Treuhandbücher durch die Rechtsanwaltskammer am [[date|14.11.2025]] festgestellt.
+
 Die Beschuldigte war in dieser Zeit unter Tel. [[phone_number|+43-1-3433973 Kl. 75]] telefonisch erreichbar. Nach ihren Angaben war die Überweisung vom [[date|16.05.2025]] eine Vorabvergütung, über die der Klient informiert gewesen sei. Der Klient bestreitet dies.
 
 2. Die [[organization|EWG]] verlangte mit Schreiben vom [[date|2. Juli 2025]] die Restzahlung. Die Beschuldigte antwortete nicht.
@@ -51,9 +53,9 @@ Der Kammeranwalt [[person|Kornitzer]] hat in der Verhandlung zutreffend dargeleg
 
 Rechtliche Beurteilung
 
-Die Verwahrung von Treuhandgeldern ist eine der zentralen Berufspflichten des Rechtsanwalts. Die Beschuldigte hat sie durch die Verwendung der Gelder ohne Freigabe schwer verletzt. Die Rückzahlung von EUR 3.500,00 ist nur ein Teil des Betrags und ändert an der Pflichtverletzung nichts.
+Die Verwahrung von Treuhandgeldern ist eine der zentralen Berufspflichten des Rechtsanwalts. Die Beschuldigte hat sie durch die Verwendung der Gelder ohne Freigabe schwer verletzt. Die Rückzahlung von EUR 3.500,00 ist nur ein Teil des Betrags und ändert an der Pflichtverletzung nichts. Der Umstand, dass der Klient die Abwicklung des Vertrags selbst nicht mehr betrieb, ist unerheblich. Ebenso bleibt ohne Bedeutung, dass die [[organization|EWG]] ihre Forderung inzwischen auf dem Rechtsweg verfolgt.
 
-Mildernd wirkt, dass die Beschuldigte bisher nicht disziplinär auffällig war und sich einsichtig zeigte. Erschwerend wirkt die Dauer des Verstoßes. Der Senat hält eine Geldbuße von 7.000 Euro für tat- und schuldangemessen.
+Mildernd wirkt, dass die Beschuldigte bisher nicht disziplinär auffällig war und sich einsichtig zeigte. Sie hat den Betrag von EUR 3.500,00 freiwillig zurückbezahlt und die Bereitschaft erklärt, die Restforderung in Raten zu begleichen. Ein Anerkenntnis der Gesamtschuld liegt darin nicht. Erschwerend wirkt die Dauer des Verstoßes. Der Senat hält eine Geldbuße von 7.000 Euro für tat- und schuldangemessen.
 
 Gemäß [[legal_norm|§ 34 Abs 1 RAO]] ist die Entscheidung mit Berufung an die [[court|OBDK]] anfechtbar. Die Berufung ist binnen vier Wochen einzubringen.
 

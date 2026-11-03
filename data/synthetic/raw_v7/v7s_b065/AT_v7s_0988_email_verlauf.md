@@ -39,7 +39,7 @@ Die [[organization|WHG]] ist bereit, den Preis auf EUR 325.000,00 anzuheben, wen
 
 Mit freundlichen Grüßen
 
-Jula Sommerer
+[[person|Jula Sommerer]]
 Prokuristin
 
 > Von: [[person|Hugo Szapáry]]

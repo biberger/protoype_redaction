@@ -30,11 +30,13 @@ I. Sachverhalt
 
 2. Der Zeuge [[person|Tako Kruyt]], *[[date_of_birth|1937-03-12]], hat die Arbeiten im Jahr 2025 überwacht und die Abnahme vorgenommen. Er bestätigt in seiner schriftlichen Erklärung, dass die Arbeiten ordnungsgemäß ausgeführt wurden.
 
-3. Die Behauptungen der Klägerinnen zur Feuchtigkeit im Keller sind unschlüssig, wie bereits in der vorprozessualen Korrespondenz gegenüber dem [[court|BG Krems]] dargelegt; die Feuchtigkeit beruht auf fehlender Lüftung, für die die Klägerinnen selbst verantwortlich sind.
+3. Die Behauptungen der Klägerinnen zur Feuchtigkeit im Keller sind unschlüssig, wie bereits in der vorprozessualen Korrespondenz dargelegt und vom [[court|BG Krems]] im Verfahren über den Beweisantrag zur Kenntnis genommen; die Feuchtigkeit beruht auf fehlender Lüftung, für die die Klägerinnen selbst verantwortlich sind.
 
-4. Die [[organization|Back]] hat den Mangel in der Dachrinne bereits am [[date|3. Juli 2025]] behoben; die Behebung wurde durch den Zeugen [[person|Kruyt]] bestätigt.
+4. Die [[organization|Back]] hat den Mangel in der Dachrinne bereits am [[date|3. Juli 2025]] behoben; die Behebung wurde durch den Zeugen [[person|Kruyt]] bestätigt. Die Klägerinnen haben die Behebung in ihrer Replik vom [[date|20. Juli 2025]] nicht bestritten, sondern lediglich auf weitere Feuchtigkeitsschäden verwiesen, die nach ihrer Ansicht auf den Bauzustand zurückgehen. Diese Schäden wurden im Gutachten nicht als Mängel der Werkleistung qualifiziert.
 
 II. Rechtliche Beurteilung
+
+Im Verhältnis zu den Klägerinnen ist die Abnahme maßgeblich; die Klägerinnen haben das Werk am [[date|27. Juni 2025]] ohne Vorbehalt übernommen, soweit es nicht offenkundig mangelhaft war.
 
 5. Nach [[legal_norm|§ 1167 ABGB]] hat der Werkunternehmer nur für den vertragsgemäßen Erfolg einzustehen. Ein Gewährleistungsanspruch besteht nicht, wenn der Besteller den Mangel selbst verursacht hat.
 
@@ -42,13 +44,15 @@ II. Rechtliche Beurteilung
 
 III. Beweisanbote
 
-7. Zum Beweis der Ausführung der Arbeiten wird der Zeuge [[person|Tako Kruyt]] beantragt. Weiters wird die Einholung eines Sachverständigengutachtens über die Ursache der Feuchtigkeit beantragt.
+7. Zum Beweis der Ausführung der Arbeiten wird der Zeuge [[person|Tako Kruyt]] beantragt. Weiters wird die Einholung eines Sachverständigengutachtens über die Ursache der Feuchtigkeit beantragt. Ferner wird die Vernehmung der Klägerin [[person|Zehetmayer]] als Partei zur Frage der Lüftungssituation im Kellerraum beantragt.
 
 IV. Beilagen
 
 ./A Werkvertrag vom [[date|12. Mai 2025]]
 ./B Abnahmeprotokoll vom [[date|27. Juni 2025]]
 ./C Mängelbehebungsnachweis der [[organization|Back Bau GmbH]]
+
+Die Klagsforderung ist überdies der Höhe nach nicht nachvollziehbar belegt; die Klägerinnen haben trotz Aufforderung keine Rechnungen für die behaupteten Ersatzvornahmen vorgelegt. Die beklagte Partei erklärt sich daher vorsorglich zu keinem Vergleich bereit.
 
 Die beklagte Partei stellt daher den Antrag, das Klagebegehren abzuweisen und den Klägerinnen die Kosten des Verfahrens aufzuerlegen.
 

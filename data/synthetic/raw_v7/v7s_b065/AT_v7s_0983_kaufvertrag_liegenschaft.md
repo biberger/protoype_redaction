@@ -122,7 +122,7 @@ XII. Gerichtsstand und Wertsicherung
 
 2. Eine Wertsicherung des Kaufpreises wird nicht vereinbart. Die Vertragsparteien halten fest, dass der Kaufpreis dem Verkehrswert der Liegenschaften zum Zeitpunkt der Vertragsunterfertigung entspricht und dass sie hierzu keine weiteren Nachweise verlangen.
 
-3. Die Kosten für die Vermessung von Grundstücksteilen, die im Zuge der Einverleibung erforderlich werden, trägt die Käuferin.
+3. Die Kosten für die Vermessung von Grundstücksteilen, die im Zuge der Einverleibung erforderlich werden, trägt die Käuferin. Ein Vermessungsbefund liegt noch nicht vor; die Käuferin hat sich verpflichtet, ihn binnen vier Wochen der Kanzlei vorzulegen. Bis zur Vorlage bleibt der Restkaufpreis unverändert fällig. Bei Nichtvorlage ist die Kanzlei berechtigt, die Vermessung auf Kosten der Käuferin zu veranlassen.
 
 Verkäuferinnen:
 
