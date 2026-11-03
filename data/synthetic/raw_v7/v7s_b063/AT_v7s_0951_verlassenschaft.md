@@ -68,4 +68,6 @@ Ein Zeugenbeweis über die Testierfähigkeit des Erblassers ist nicht erforderli
 Notar und Gerichtskommissär
 [[address|3961 Waldenstein]]
 
+Die Gerichtskommissärsgebühr wird nach dem Wert des Nachlasses bemessen und ist im Verlassenschaftsverfahren gesondert auszuweisen. Die Gebühr ist binnen 14 Tagen nach Zustellung der Rechnung fällig.
+
 Kopie an das [[court|BG Steyr]], Abteilung Verlassenschaften.

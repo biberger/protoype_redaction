@@ -64,7 +64,7 @@ Die Personendaten wurden mit dem Zentralen Melderegister abgeglichen; Abweichung
 
 Die Verkehrsüberwachung der Gemeinde hat die Aufnahmen vom [[date|18.06.2026]] bis zum [[date|19.06.2026]] übermittelt. Die Fotodokumentation wurde von GrInsp. [[person|Haslinger]] angefertigt; die Lichtbilder liegen dem Akt bei. Insgesamt wurden 24 Lichtbilder angefertigt; acht zeigen die Endlage der Fahrzeuge, sechs die Bremsspuren auf der Fahrbahn und vier die Beschädigungen am Fahrzeug [[license_plate|GU-93 VW]].
 
-Die Angaben zur Haftpflichtversicherung der [[person|Stephan]] liegen noch nicht vor. Die Versicherung wird ersucht, die Polizze bekanntzugeben.
+Die Angaben zur Haftpflichtversicherung der [[person|Stephan]] liegen noch nicht vor. Die Versicherung wird ersucht, die Polizze bekanntzugeben. Frau [[person|Stephan]] hat auf Befragen angegeben, sie sei über ihre Kraftfahrzeughaftpflicht bei einer Versicherung in [[location|Wels]] versichert; eine Kopie der Versicherungskarte hat sie nicht bei sich gehabt.
 
 **8. Zeugenaussagen und weitere Erhebungen**
 
@@ -72,7 +72,7 @@ Der Zeuge [[person|Andrić]] gab bei seiner Einvernahme am [[date|18.06.2026]] a
 
 Die Lenkerin [[person|Stephan]] wurde am [[date|19.06.2026]] ergänzend befragt. Sie blieb bei ihrer Darstellung, die Ampel sei für sie auf Gelb umgesprungen. Ein Zeuge aus dem Nachbarhaus konnte keine Angaben zur Schaltung machen.
 
-Die Verkehrsüberwachung der Gemeinde hat die Schaltzeiten der Ampelanlage übermittelt. Daraus ergibt sich, dass die Grünphase für die Fahrtrichtung der [[person|Stephan]] um 07:39:40 Uhr endete und die Gelbphase drei Sekunden dauerte. Eine technische Störung der Anlage wurde nicht festgestellt.
+Die Verkehrsüberwachung der Gemeinde hat die Schaltzeiten der Ampelanlage übermittelt. Daraus ergibt sich, dass die Grünphase für die Fahrtrichtung der [[person|Stephan]] um 07:39:40 Uhr endete und die Gelbphase drei Sekunden dauerte. Eine technische Störung der Anlage wurde nicht festgestellt. Die Gemeinde hat außerdem mitgeteilt, dass die Anlage zuletzt am [[date|04.03.2026]] gewartet wurde und seither keine Mängel gemeldet worden sind.
 
 Der Rettungsdienst hat die Beifahrerin [[person|Kuchar]] mit einer Verdachtsdiagnose auf eine Rippenprellung übernommen. Ein Befund des Krankenhauses ist angefordert und wird nachgereicht.
 
@@ -84,7 +84,7 @@ Die Verkehrsbehörde der Gemeinde wird ersucht, die Schaltzeiten der Ampelanlage
 
 Eine Kopie des Berichts wird der Haftpflichtversicherung der [[person|Spitzmüller]] übermittelt, sobald diese die Polizze bestätigt hat. Die Angaben zu den Verletzungen der Beifahrerin sind ausschließlich für die Schadenregulierung bestimmt und dürfen nicht weitergegeben werden.
 
-Dieser Bericht wurde nach der Einvernahme der Beteiligten und der Sichtung der Lichtbilder abgeschlossen. Ergänzungen bleiben vorbehalten, sobald der Befund des Krankenhauses vorliegt.
+Dieser Bericht wurde nach der Einvernahme der Beteiligten und der Sichtung der Lichtbilder abgeschlossen. Ergänzungen bleiben vorbehalten, sobald der Befund des Krankenhauses vorliegt. Die Beamten haben die Zeugen getrennt voneinander befragt, um eine gegenseitige Beeinflussung auszuschließen. Der Bericht umfasst einschließlich der Anlagen vierzehn Seiten.
 
 Die Lenkerin [[person|Spitzmüller]] wird verdächtigt, das Rotlicht nicht beachtet zu haben, [[legal_norm|§ 38 Abs 1 StVO]]. Die Anzeige ergeht an die [[organization|Bezirkshauptmannschaft Linz-Land]].
 

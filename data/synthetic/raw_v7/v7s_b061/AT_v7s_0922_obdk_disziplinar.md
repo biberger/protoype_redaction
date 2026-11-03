@@ -23,6 +23,8 @@ I. Verfahrensgang
 
 Die Klientin [[person|Josefina Stainer]] hat mit Eingabe vom [[date|05.05.2025]] bei der [[organization|Oberösterreichischen Rechtsanwaltskammer]] Beschwerde gegen den Beschuldigten erhoben. Sie warf ihm vor, Gelder aus einer für sie geführten Treuhandschaft ohne Auftrag weitergeleitet zu haben. Die [[organization|Oberösterreichische Rechtsanwaltskammer]] ([[organization|ORAK]]) hat daraufhin die Disziplinaranzeige erstattet.
 
+Die Kammer hat den Beschuldigten zunächst mit Schreiben vom [[date|28.05.2025]] zur Rechtfertigung aufgefordert und eine Frist von vier Wochen gesetzt. Die Frist wurde auf Antrag des Beschuldigten um zwei Wochen verlängert. Die Stellungnahme wurde daraufhin fristgerecht erstattet.
+
 Der Beschuldigte bestreitet den Vorwurf nicht vollständig. Er gibt an, die Zahlung sei auf Verlangen der Klientin erfolgt, die den Betrag ihrer Schwägerin schuldete. Die Kammeranwältin [[person|Karrer]] hat die Schuldigsprechung beantragt.
 
 II. Feststellungen
@@ -48,13 +50,25 @@ Der Senat hat weiters die Telefonnotiz vom [[date|27.03.2025]] gewürdigt, die d
 
 Dass die Klientin den Betrag später zurückerhalten hat, ist unstrittig. Der Zeitpunkt der Rückzahlung ändert jedoch nichts an der Verletzung der Verwahrungspflicht.
 
+Der Beschuldigte hat sich im Verfahren mehrfach geäußert. In seiner Stellungnahme vom [[date|12.06.2025]] führte er aus, die Klientin habe ihn gebeten, den Betrag "vorläufig" an die [[organization|Mikl Handels]] zu leisten, weil sie einer Lieferung bedürfe. In der mündlichen Verhandlung vom [[date|23.10.2026]] erklärte er dagegen, es habe sich um ein Darlehen gehandelt, dessen Rückzahlung im Herbst 2025 vereinbart worden sei. Beide Versionen sind mit dem Akteninhalt nicht vereinbar, weil das Darlehen in keinem Schriftstück erwähnt ist und die Klientin im Mai 2025 ausdrücklich bestritten hat, je ein Darlehen aufgenommen zu haben.
+
+Der Beschuldigte hat außerdem auf die Verwendung der Treuhandgelder für die Kanzleikosten im Frühjahr 2025 hingewiesen. Er hat eingeräumt, dass die Kanzlei zu dieser Zeit finanzielle Schwierigkeiten hatte. Dieser Umstand ist kein Rechtfertigungsgrund, sondern im Gegenteil ein Hinweis darauf, dass der Beschuldigte die Trennung zwischen Eigen- und Fremdgeld nicht eingehalten hat.
+
+Die Kammeranwältin [[person|Karrer]] hat in der Verhandlung darauf hingewiesen, dass die Klientin [[person|Stainer]] durch die Entnahme in eine schwierige Lage geraten ist. Sie hat die Klientin mehrfach kontaktiert und nach den Angaben in ihrer Stellungnahme erst nach einer Woche eine Rückmeldung erhalten. Der Senat hält diese Schilderung für glaubhaft.
+
+Die Ermittlungen zur [[organization|Mikl Handels GmbH]] haben ergeben, dass das Unternehmen im Frühjahr 2025 mehrere Zahlungen von Rechtsanwälten erhalten hat, ohne dass Lieferungen dokumentiert sind. Diese Umstände betreffen nicht den Beschuldigten unmittelbar, zeigen aber, dass die Zahlung nicht im Rahmen eines gewöhnlichen Geschäftsverkehrs erfolgte.
+
 IV. Rechtliche Beurteilung
 
 Ein Rechtsanwalt hat Treuhandgelder nach den Weisungen des Klienten zu verwenden. Eine Zahlung an einen Dritten ohne Weisung verletzt diese Pflicht. Die Behauptung eines Darlehens, das nicht dokumentiert ist, ersetzt die Weisung nicht.
 
 Der Beschuldigte hat außerdem die Entnahme von EUR 1.200,00 ohne vorherige Abrechnung vorgenommen. Auch dies verstößt gegen die Pflicht, Treuhandgelder getrennt zu halten. Die Verletzung wiegt schwer, weil die Klientin ohne den Einspruch ihrer Schwägerin nicht rechtzeitig zu ihrem Geld gelangt wäre.
 
-Der Senat hält die Geldbuße von EUR 3.500,00 für angemessen. Erschwerend ist die mehrfache Tathandlung, mildernd die Rückzahlung und die bisherige disziplinäre Unbescholtenheit des Beschuldigten.
+Der Senat hält die Geldbuße von EUR 3.500,00 für angemessen. Erschwerend ist die mehrfache Tathandlung, mildernd die Rückzahlung und die bisherige disziplinäre Unbescholtenheit des Beschuldigten. Zu berücksichtigen war ferner, dass die Klientin wegen ihrer Lage auf die Gelder angewiesen war und die Verzögerung der Rückzahlung für sie spürbare Nachteile brachte.
+
+Der Senat sieht keinen Anlass, die Geldbuße über den vom Disziplinarrat verhängten Betrag hinaus zu erhöhen, weil die Kammeranwältin keinen entsprechenden Antrag gestellt hat. Die Geldbuße wurde daher im Rahmen des Antrags der Kammer bestimmt.
+
+Der Beschuldigte hat in seinem Schlusswort um Milde ersucht und auf seine bisherige Tätigkeit für Mandanten in schwierigen familiären Angelegenheiten hingewiesen. Der Senat hat dies zur Kenntnis genommen. Die berufliche Verantwortung eines Rechtsanwalts im Umgang mit fremden Vermögenswerten wiegt jedoch schwerer als allgemeine Verdienste, weshalb eine weitere Herabsetzung der Geldbuße nicht in Betracht kam.
 
 V. Kosten
 

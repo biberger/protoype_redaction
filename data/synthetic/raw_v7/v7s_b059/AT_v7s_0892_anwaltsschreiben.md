@@ -41,7 +41,7 @@ Summe | 142,5 | EUR 3.812,80
 
 Davon wurden EUR 400,-- bereits ausbezahlt, sodass die offene Differenz EUR 3.412,80 beträgt. Die Überstunden sind nach [[legal_norm|§ 19d AZG]] zu vergüten; ein Zeitausgleich wurde nicht vereinbart. Die Sozialversicherungsnummer des Mandanten ist in Ihrer Meldung vom [[date|30.06.2026]] enthalten.
 
-Herr [[person|Chmara]] hat Sie mit Schreiben vom [[date|24.07.2026]] zur Zahlung aufgefordert. Eine Antwort ist nicht erfolgt. Die Abfertigung ist mit der Beendigung des Dienstverhältnisses fällig, [[legal_norm|§ 23 AngG]]; die Verzugszinsen laufen seit dem Fälligkeitstag.
+Herr [[person|Chmara]] hat Sie mit Schreiben vom [[date|24.07.2026]] zur Zahlung aufgefordert. Eine Antwort ist nicht erfolgt. Die Abfertigung ist mit der Beendigung des Dienstverhältnisses fällig, [[legal_norm|§ 23 AngG]]; die Verzugszinsen laufen seit dem Fälligkeitstag. Der Arbeitgeber hat zudem die Lohnsteuer aus den Überstundenzahlungen noch nicht abgeführt; die Lohnabrechnung ist entsprechend zu berichtigen.
 
 Wir weisen darauf hin, dass ein Verzicht auf die Ansprüche nicht wirksam vereinbart wurde. Das Dienstzeugnis wurde Herrn [[person|Chmara]] bisher nicht ausgestellt, obwohl er es am [[date|13.07.2026]] schriftlich verlangt hat. Wir ersuchen Sie daher, das Dienstzeugnis gemeinsam mit der Abrechnung bis zum selben Termin auszustellen; eine Verweigerung wird als Vertragsverletzung gewertet.
 

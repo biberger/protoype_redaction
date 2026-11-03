@@ -20,7 +20,7 @@ Beisitzerin: [[person|Dr. Mairi Pelekanos]]
 Kammeranwalt: [[person|Mag. Andras Brauner]]
 Schriftführerin: [[person|Rachil Nabl]], *[[date_of_birth|21. November 1981]]
 
-Die Verhandlung fand am [[date|17.08.2026]] statt. Die Beschuldigte wurde im Beisein ihres Verteidigers [[person|Dr. Marko Oberhauser]] vernommen; der Kammeranwalt stellte den Antrag auf eine Geldbuße von EUR 5.000,-- und auf ein Berufsverbot für Treuhandmandate von einem Jahr. Die Kammerverwaltung ist unter Tel. [[phone_number|+43 1 789 32 21 DW 395]] erreichbar.
+Die Verhandlung fand am [[date|17.08.2026]] statt. Die Beschuldigte wurde im Beisein ihres Verteidigers [[person|Dr. Marko Oberhauser]] vernommen; der Kammeranwalt stellte den Antrag auf eine Geldbuße von EUR 5.000,-- und auf ein Berufsverbot für Treuhandmandate von einem Jahr. Die Verteidigung hat auf die gesundheitliche Belastung der Beschuldigten verwiesen, ohne diese näher zu belegen. Der Disziplinarrat hat dies nicht als Milderungsgrund anerkannt. Die Kammerverwaltung ist unter Tel. [[phone_number|+43 1 789 32 21 DW 395]] erreichbar.
 
 Spruch
 
@@ -32,7 +32,7 @@ Sachverhalt
 
 2. Die Beschuldigte hat am [[date|09.05.2025]] EUR 12.500,-- aus der Treuhandschaft an eine Bauunternehmung überwiesen, die nicht Vertragspartnerin des Klienten war. Die Überweisung erfolgte, ohne dass eine schriftliche Weisung vorlag.
 
-3. Die Kanzlei verwendete die Mittel am [[date|13.05.2025]] zur Begleichung einer Honorarnote, die am [[date|02.05.2025]] gestellt worden war. Der Klient hat zu keinem Zeitpunkt zugestimmt.
+3. Die Kanzlei verwendete die Mittel am [[date|13.05.2025]] zur Begleichung einer Honorarnote, die am [[date|02.05.2025]] gestellt worden war. Der Klient hat zu keinem Zeitpunkt zugestimmt. Die Honorarnote weist eine Stundenzahl aus, die im Verhältnis zum Umfang der Tätigkeit überhöht erscheint, wie ein Gutachter der Kammer bestätigt hat.
 
 4. Die [[organization|Kärntner Rechtsanwaltskammer]] ([[organization|KRAK]]) hat die Angelegenheit am [[date|20.11.2025]] zur Prüfung übernommen. Die Beschuldigte hat den Betrag am [[date|18.12.2025]] vollständig zurückgezahlt.
 
@@ -54,7 +54,7 @@ Rechtliche Beurteilung
 
 7. Die Verwendung von Treuhandgeldern ohne Weisung des Klienten ist mit den Berufspflichten nicht vereinbar. Die Verletzung ist nach [[legal_norm|§ 3 Abs 1 RL-BA]] eine Verfehlung von erheblichem Gewicht, weil das Geld dem Klienten zeitweise entzogen war.
 
-8. Mildernd wurde berücksichtigt, dass die Beschuldigte den Betrag vollständig ersetzt und die Verfehlung eingeräumt hat. Erschwerend war die Dauer der Treuhandschaft; die Verfehlung erstreckte sich über fast vier Monate.
+8. Mildernd wurde berücksichtigt, dass die Beschuldigte den Betrag vollständig ersetzt und die Verfehlung eingeräumt hat. Erschwerend war die Dauer der Treuhandschaft; die Verfehlung erstreckte sich über fast vier Monate. Die Beschuldigte hat seit Ende des Jahres 2025 einen Zeitaufschrieb für sämtliche Treuhandmandate eingeführt, was als Besserungsbemühung gewertet wurde.
 
 9. Gegen diese Entscheidung ist die Berufung an die [[court|OBDK]] innerhalb von vier Wochen zulässig.
 

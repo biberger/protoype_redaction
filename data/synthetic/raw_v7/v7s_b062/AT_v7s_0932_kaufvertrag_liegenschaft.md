@@ -90,6 +90,10 @@ Hinweis: Die Parteien wurden über die Bedeutung der Eintragung im Grundbuch, di
 
 Die Käufer haben den Vertragsentwurf vor der Unterfertigung erhalten. Die beiden Käufer unterfertigen gesondert.
 
+Die Vertragsparteien erklären, dass keine mündlichen Nebenabreden getroffen wurden. Der Verkäufer [[organization|Kovacs Handels]] bestätigt, dass die Liegenschaften seit dem [[date|1. Jänner 2019]] nicht vermietet sind und alle Betriebskosten bis zum Stichtag bezahlt wurden. Die Käufer bestätigen den Erhalt der Energieausweise für beide Liegenschaften sowie der Bauunterlagen von der Gemeinde. Die Nutzung der Garage auf der Liegenschaft Nr. 2 ist dem Verkäufer bis zum [[date|31. Dezember 2026]] vorbehalten, sofern die Räumung nicht früher erfolgt.
+
+Die Käufer haben zur Kenntnis genommen, dass die [[person|Götzinger]] als Treuhänder keine Haftung für die Richtigkeit der Angaben des Verkäufers über den Zustand der Gebäude übernimmt. Eine Bauverhandlung oder ein Baugenehmigungsverfahren ist für die Liegenschaften nicht anhängig; die Verkäufer haben dies schriftlich bestätigt. Sollte eine Ersatzleistung für einen Schaden an der Zufahrt zur Liegenschaft fällig werden, trägt diese der Verkäufer bis zur Übergabe.
+
 [[location|Schröcken]], am [[date|12. September 2026]]
 
 ________________________

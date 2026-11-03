@@ -50,6 +50,8 @@ Mündliche Nebenabreden bestehen nicht. Änderungen dieses Vertrages bedürfen d
 
 Die Vertragsparteien bestätigen, dass ihnen ein Exemplar der Hausordnung ausgehändigt wurde. Die Mieterin hat die Wohnung vor der Übergabe besichtigt und den Zustand durch ein Übergabeprotokoll festgehalten.
 
+Die Vertragsparteien vereinbaren, dass Änderungen der Hausordnung den Mietvertrag nicht berühren, soweit sie den Gebrauch der Wohnung nicht wesentlich einschränken und der Vermieter die Änderung schriftlich bekanntgibt.
+
 [[address|8250 Vorau]], am [[date|18.10.2026]]
 
 Für den Vermieter:

@@ -39,7 +39,9 @@ Summe netto: EUR 1.435,00
 20 % USt: EUR 287,00
 Summe brutto: EUR 1.722,00
 
-Zahlbar binnen 14 Tagen ab Rechnungsdatum auf das Konto der Kanzlei, IBAN [[bank_account|AT33 8486 2145 2254 0065]]. Bitte geben Sie bei der Zahlung die GZ [[other_identifier|TG/Partl/2646]] an.
+Die Leistungen sind umsatzsteuerpflichtig, die Umsatzsteuer ist im Rechnungsbetrag enthalten. Die Abrechnung erfolgt nach Zeitaufwand, die Zeiten sind in unseren Akten dokumentiert und können auf Wunsch übermittelt werden.
+
+Zahlbar binnen 14 Tagen ab Rechnungsdatum auf das Konto der Kanzlei, IBAN [[bank_account|AT33 8486 2145 2254 0065]]. Bitte geben Sie bei der Zahlung die GZ [[other_identifier|TG/Partl/2646]] an. Sollte nach einer Prüfung eine Gutschrift anfallen, überweisen wir auf Ihr Konto IBAN [[bank_account|AT69 1753 5100 1475 9342]].
 
 Für Rückfragen zu einzelnen Positionen erreichen Sie uns unter Tel. [[phone_number|0316 429025 Durchwahl 42]].
 

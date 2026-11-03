@@ -55,7 +55,7 @@ Die klagende Partei erhebt Klage wie folgt:
 
 4. Der Streitverkündete [[person|Weissenbacher]] war als Helfer beim Abbiegen beteiligt und gab dem Beklagten Anweisungen. Er hat sich am Unfallort zu seiner Verantwortung nicht geäußert. In einem Telefonat mit der Klägerin hat der Streitverkündete [[person|Weissenbacher]] am [[date|03.11.2025]] eingeräumt, dass er dem Beklagten das Zeichen zum Abbiegen gegeben hat, obwohl die Böschung nicht befahrbar war.
 
-5. Der Streitverkündete [[organization|Land Oberösterreich]] ist Straßenerhalter der Landesstraße. Die Böschung war seit dem Frühjahr 2025 nicht gesichert, obwohl die Klägerin den Zustand mit Schreiben vom [[date|14.04.2025]] angezeigt hatte.
+5. Der Streitverkündete [[organization|Land Oberösterreich]] ist Straßenerhalter der Landesstraße. Die Böschung war seit dem Frühjahr 2025 nicht gesichert, obwohl die Klägerin den Zustand mit Schreiben vom [[date|14.04.2025]] angezeigt hatte. In diesem Schreiben verlangte die Klägerin eine Sicherung durch Steinkörbe, deren Kosten sie auf EUR 9.300,-- schätzte; das Land hat diese Maßnahme nicht durchgeführt.
 
 6. Die Haftpflichtversicherung des Beklagten besteht unter der Polizze [[other_identifier|93-6731917]]. Der Beklagte hat die Schadenmeldung am [[date|05.11.2025]] erstattet, die Versicherung hat die Deckung jedoch bis heute nicht zugesagt. Zahlungen sind auf das Konto der Klägerin, IBAN [[bank_account|AT42 5658 6722 9264 8758]], zu leisten.
 
@@ -92,7 +92,11 @@ Gesamtbetrag | EUR 86.450,--
 
 14. Die klagende Partei beantragt die Einvernahme des Sachverständigen für Landwirtschaft zur Ermittlung des Ernteausfalles.
 
-Die Klage ist innerhalb der Verjährungsfrist eingebracht. Die Zustellung an die Streitverkündeten ist mit Ausnahme des Landes bereits erfolgt; die Klägerin ersucht um Anberaumung einer vorbereitenden Tagsatzung, sofern der Beklagte den Anspruch dem Grunde nach bestreitet. Die Pauschalgebühr nach dem Gerichtsgebührengesetz ist entrichtet; der Zahlungsnachweis liegt als Beilage ./H bei.
+Die Klage ist innerhalb der Verjährungsfrist eingebracht. Die Zuständigkeit des Gerichts ist durch den Wohnsitz des Erstbeklagten gegeben. Die Zustellung an die Streitverkündeten ist mit Ausnahme des Landes bereits erfolgt; die Klägerin ersucht um Anberaumung einer vorbereitenden Tagsatzung, sofern der Beklagte den Anspruch dem Grunde nach bestreitet. Die Pauschalgebühr nach dem Gerichtsgebührengesetz ist entrichtet; der Zahlungsnachweis liegt als Beilage ./H bei.
+
+15. Ergänzend wird vorgebracht, dass der Beklagte den Anhänger nach dem Unfall ohne Rücksprache mit der Klägerin von der Unfallstelle entfernt hat. Dadurch wurde die Beweissicherung erschwert; die Klägerin hat die Schäden erst am [[date|03.11.2025]] fotografisch dokumentieren können, als der Anhänger bereits verbracht war.
+
+16. Der Beklagte hat die Schadenmeldung an seine Versicherung erst am [[date|05.11.2025]] erstattet, obwohl der Unfall am [[date|02.11.2025]] geschehen ist. Die Verzögerung ist ihm zuzurechnen, weil die Versicherung dadurch an der Beweissicherung nicht mitwirken konnte.
 
 **V. Anträge**
 

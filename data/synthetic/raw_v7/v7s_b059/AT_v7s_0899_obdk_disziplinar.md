@@ -33,7 +33,7 @@ Entscheidungsgründe
 
 3. Am [[date|08.04.2025]] überwies der Beschuldigte EUR 18.000,-- aus der Treuhandschaft Nr. [[other_identifier|2024/953]] an einen Gläubiger des Klienten, ohne dass ein Auftrag des Klienten vorlag. [[person|Buljubašić]] hat den Auftrag nie erteilt.
 
-4. Die Kammeranwaltschaft hat die Angelegenheit am [[date|12.06.2025]] angezeigt. Der Beschuldigte hat den Betrag am [[date|30.09.2025]] wieder eingezahlt.
+4. Die Kammeranwaltschaft hat die Angelegenheit am [[date|12.06.2025]] angezeigt. Der Beschuldigte hat den Betrag am [[date|30.09.2025]] wieder eingezahlt. Die Rückzahlung erfolgte allerdings erst nach der Aufforderung der Kammeranwaltschaft vom [[date|01.08.2025]], mit der der Beschuldigte zur Stellungnahme aufgefordert worden war.
 
 Treuhandbewegungen laut Auszug:
 
@@ -53,13 +53,13 @@ Der Beschuldigte hat in seiner Stellungnahme vom [[date|15.05.2025]] ausgeführt
 
 7. Die Schriftführerin hat die Unterlagen verlesen. Die Kammerverwaltung ist unter Tel. [[phone_number|+43 1 22 14 75 88]] für Rückfragen erreichbar.
 
-Im Akt befinden sich ferner die Kontoauszüge der Bank für den Zeitraum vom [[date|01.03.2023]] bis zum [[date|31.10.2025]], die Treuhandbuchauszüge für beide Treuhandschaften und das Protokoll der Kammerprüfung vom [[date|12.06.2025]].
+Im Akt befinden sich ferner die Kontoauszüge der Bank für den Zeitraum vom [[date|01.03.2023]] bis zum [[date|31.10.2025]], die Treuhandbuchauszüge für beide Treuhandschaften und das Protokoll der Kammerprüfung vom [[date|12.06.2025]]. Die Protokolle der Vernehmung des Klienten sind in der Verhandlung verlesen worden, und der Beschuldigte hat deren Richtigkeit nicht bestritten.
 
 Rechtliche Beurteilung
 
 8. Die Verfügung über Treuhandgelder ohne Auftrag des Klienten verletzt die Pflicht zur gewissenhaften Berufsausübung und die Pflicht zur Trennung von Fremdgeldern. Ein Verstoß gegen [[legal_norm|§ 1 RAO]] liegt daher vor. Die Verletzung ist auch nach [[legal_norm|§ 3 Abs 1 RL-BA]] als schwer anzusehen.
 
-9. Mildernd wurde berücksichtigt, dass der Beschuldigte den Betrag vollständig zurückgezahlt hat und bisher disziplinarrechtlich nicht in Erscheinung getreten ist. Erschwerend wirkte, dass die Verfügung nicht einmalig, sondern über mehrere Monate hinweg erfolgte.
+9. Mildernd wurde berücksichtigt, dass der Beschuldigte den Betrag vollständig zurückgezahlt hat und bisher disziplinarrechtlich nicht in Erscheinung getreten ist. Erschwerend wirkte, dass die Verfügung nicht einmalig, sondern über mehrere Monate hinweg erfolgte. Die Verfügung erfolgte zudem gegenüber einem Klienten, der sich in einer persönlich schwierigen Lage befand, wie der Akt zeigt. Der Klient hat das Verfahren als belastend geschildert; er hat die Vertretung nach der Überweisung gekündigt und ein neues Mandat bei einer anderen Kanzlei erteilt.
 
 10. Die Geldbuße berücksichtigt die wirtschaftlichen Verhältnisse des Beschuldigten. Eine Untersagung der Berufsausübung war nicht zu verhängen.
 

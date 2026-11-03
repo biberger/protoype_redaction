@@ -59,6 +59,10 @@ EUR 6.915,40 auf. Die Verlassenschaft wird über dieses Konto abgewickelt.
 
 Für Rückfragen ist die Kanzlei unter Tel. [[phone_number|02742 968942-29]] erreichbar.
 
+Die Erbantrittserklärung des Legatars [[person|Gamba]] liegt vor. Der Legatar hat das Vermächtnis angenommen und die
+Übergabe der Barsumme auf das Treuhandkonto des Notars verlangt. Die Verlassenschaft hat die Gebühren für die
+Abhandlung im Betrag von EUR 980,00 bereits vorab entrichtet.
+
 Die Schätzung der Liegenschaft wurde durch einen gerichtlich beeideten Sachverständigen vorgenommen. Das Gutachten
 liegt dem Inventar bei. Die Bewertung des Miteigentumsanteils beruht auf dem Grundbuchsstand vom [[date|07.01.2020]];
 eine Änderung der Eigentumsverhältnisse ist seither nicht eingetreten.
@@ -66,6 +70,9 @@ eine Änderung der Eigentumsverhältnisse ist seither nicht eingetreten.
 Die Begräbniskosten in Höhe von EUR 3.650,00 wurden aus dem Girokonto bereits beglichen und sind im Verzeichnis der
 Passiva als Verwaltungskosten ausgewiesen. Die Verlassenschaft hat keine weiteren Verbindlichkeiten, die nicht
 durch die Aktiva gedeckt wären.
+
+Die Liegenschaft in [[location|St. Martin im Mühlkreis]] wurde im Zuge der Abhandlung nicht veräußert; die Erben haben
+keinen Verkauf beantragt. Die Verwaltung der Liegenschaft erfolgte bis zur Einantwortung durch die Verlassenschaft.
 
 Ich ersuche um Einantwortung des Nachlasses an den Legatar und die gesetzlichen Erben, soweit sie nicht verzichtet haben,
 sowie um Zustellung der Ausfertigung.

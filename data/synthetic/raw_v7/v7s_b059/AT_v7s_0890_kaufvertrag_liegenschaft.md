@@ -102,6 +102,12 @@ b) der Restbetrag von EUR 1,138.500,-- binnen 4 Wochen nach der Verbücherungsbe
 
 22. Mitteilungen zwischen den Vertragsparteien sind rechtswirksam, wenn sie an die im Vertrag genannte Anschrift oder an die Kanzlei gerichtet werden. Eine Änderung der Anschrift ist den anderen Parteien unverzüglich schriftlich bekanntzugeben.
 
+23. Die Verkäufer verpflichten sich, allfällige Pfandrechte, die nach dem Stichtag der Grundbuchsabfrage eingetragen werden, auf eigene Kosten zu löschen. Der Treuhänder ist ermächtigt, den Kaufpreis erst nach Löschung solcher Eintragungen auszuzahlen.
+
+24. Änderungen in den Personen der Käufer, insbesondere die Auflösung der ehelichen Gemeinschaft während der Vertragsabwicklung, berühren den Vertrag nicht. Die Treuhandabwicklung wird unverändert fortgeführt.
+
+25. Die Vertragsparteien bestätigen, dass sie vor der Unterfertigung eine Abschrift des Vertragsentwurfs erhalten und die Frist von zwei Wochen zur Prüfung eingehalten haben. Die Käufer haben die Kanzlei ausdrücklich ermächtigt, den Vertrag in der vorliegenden Fassung zu errichten. Die Kanzlei ist im Übrigen verpflichtet, die Treuhandgelder getrennt von eigenen Mitteln zu verwahren. Ein Verstoß dagegen begründet eine Haftung der Kanzlei.
+
 Beilagen:
 ./A Grundbuchsauszug vom [[date|03.04.2026]]
 ./B Lageplan der Liegenschaften

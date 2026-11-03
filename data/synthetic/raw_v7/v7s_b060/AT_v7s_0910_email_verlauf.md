@@ -19,7 +19,12 @@ Zu Ihrem Hinweis auf die Gewährleistung: Unsere Mandantin hat die Ware innerhal
 festgestellt. Die Rechnung über EUR 14.870,00 ist daher fällig. Die [[organization|Schäffer]] behält sich vor, die
 Kosten der Rechtsverfolgung ebenfalls geltend zu machen.
 
-Wir ersuchen um Zahlung binnen 14 Tagen auf das Konto der [[organization|Schäffer]].
+Die Klientin hat die Lieferung inzwischen in ihrem Lager geprüft und die Stückzahl bestätigt. Die behaupteten
+Abweichungen betreffen nach Auskunft der Mandantin nur die Verpackung, nicht die Ware selbst. Eine Minderung des
+Kaufpreises ist daher nicht gerechtfertigt. Wir bitten um eine Stellungnahme bis zum Ablauf der genannten Frist.
+
+Wir ersuchen um Zahlung binnen 14 Tagen auf das Konto der [[organization|Schäffer]]. Für den Fall, dass Ihre Mandantin die Zahlung ablehnt, werden wir die gerichtliche Durchsetzung ohne weitere Ankündigung
+veranlassen. Wir bitten um Bestätigung des Erhalts dieser E-Mail.
 
 Mit freundlichen Grüßen
 
@@ -71,6 +76,9 @@ Hinweis: Die Nachricht des Mandanten vom [[date|10.02.2026]] liegt bei. [[person
 > bitte geben Sie uns eine Rückmeldung zur Lieferung. Die Ware ist bei uns eingelagert, wir haben aber eine Rückfrage zur
 > Rechnung Nr. 2026-0117. Die Klientennummer bei Ihnen lautet Klientennummer: [[other_identifier|27305]].
 > Bitte bestätigen Sie den Eingang der Mängelrüge, damit wir die Lagerkosten richtig zuordnen können.
+> Die Lagerkosten betragen seit dem [[date|14.01.2026]] EUR 35,00 pro Tag, wie aus der beigelegten Aufstellung hervorgeht.
+> Wir behalten uns vor, diesen Betrag in Rechnung zu stellen, falls die Ware nicht bis zum Monatsende abgeholt wird.
+>
 >
 > Mit freundlichen Grüßen
 >

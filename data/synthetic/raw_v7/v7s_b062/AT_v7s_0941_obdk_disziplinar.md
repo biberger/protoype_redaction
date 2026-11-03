@@ -43,13 +43,13 @@ Datum | Vorgang | Betrag in EUR
 
 III. Beweiswürdigung
 
-Der Senat stützt sich auf die Kontoauszüge, die Korrespondenz zwischen der Beschuldigten und dem Klienten sowie auf die Einvernahme des Klienten. Die Angaben der Beschuldigten zur Erkrankung wurden durch ein ärztliches Attest vom [[date|12. Februar 2025]] nur für einen kurzen Zeitraum bestätigt.
+Der Senat stützt sich auf die Kontoauszüge, die Korrespondenz zwischen der Beschuldigten und dem Klienten sowie auf die Einvernahme des Klienten. Die Angaben der Beschuldigten zur Erkrankung wurden durch ein ärztliches Attest vom [[date|12. Februar 2025]] nur für einen kurzen Zeitraum bestätigt. Die Beschuldigte hat keine Unterlagen über die Vorauszahlung vorgelegt, die den Verbleib des Restbetrages erklären würden. Der Klient [[person|Haslwanter]] wurde vom Senat als Zeuge angehört und hat den Erhalt der Abrechnung vom [[date|27. Oktober 2025]] bestätigt.
 
 Der Schriftführer hat die Protokollierung der Verhandlung übernommen. Das Protokoll wurde den Parteien vorgelesen.
 
 IV. Rechtliche Beurteilung
 
-Gemäß [[legal_norm|§ 43a Abs 4 RAO]] hat der Rechtsanwalt anvertraute Vermögenswerte getrennt zu verwahren und jede Verfügung nur mit Zustimmung des Berechtigten vorzunehmen. Die Auszahlung des Restbetrages am [[date|19.09.2025]] ohne Abrechnung verletzt diese Pflicht. Die verspätete Zahlung an den Klienten ist nach [[legal_norm|§ 16 Abs 1 RAO]] als Verletzung der Pflicht zur gewissenhaften Berufsausübung zu werten.
+Gemäß [[legal_norm|§ 43a Abs 4 RAO]] hat der Rechtsanwalt anvertraute Vermögenswerte getrennt zu verwahren und jede Verfügung nur mit Zustimmung des Berechtigten vorzunehmen. Die Auszahlung des Restbetrages am [[date|19.09.2025]] ohne Abrechnung verletzt diese Pflicht. Die verspätete Zahlung an den Klienten ist nach [[legal_norm|§ 16 Abs 1 RAO]] als Verletzung der Pflicht zur gewissenhaften Berufsausübung zu werten. Die Zuordnung der Zahlungen ist nach Auffassung des Senates nicht als Pflichtverletzung eigener Art zu werten, sondern als Teil des Gesamtverhaltens, das der Kammeranwalt zu Recht gerügt hat. Der Senat hat ferner berücksichtigt, dass die Beschuldigte im Verfahren kooperiert hat.
 
 Die [[organization|Tiroler Rechtsanwaltskammer]] ([[organization|RAK Tirol]]) hat die Richtlinien der Abrechnung nicht beanstandet, die Vorwürfe betreffen jedoch den Umgang mit dem Klientengeld. Die [[organization|RAK Tirol]] hat die Fristen für die Anzeige eingehalten.
 

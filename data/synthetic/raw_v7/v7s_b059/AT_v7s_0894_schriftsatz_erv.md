@@ -69,7 +69,7 @@ Die Bauleitung hat der Klägerin mit Schreiben vom [[date|22.07.2025]] die Ferti
 
 15. Die beklagte Partei ist zu einem Vergleich bereit, wenn die Klägerin die Gegenforderung in Höhe von EUR 4.150,-- anerkennt und die Kosten des Verfahrens gegeneinander aufgehoben werden. Ein entsprechendes Angebot wurde mit Schreiben vom [[date|18.05.2026]] unterbreitet; es blieb unbeantwortet.
 
-16. Die Beweisaufnahme über die Beschaffenheit der Dachdeckung ist durch den Befund des Sachverständigen [[person|Lazarus]] ausreichend geklärt. Die beklagte Partei sieht daher von der Einvernahme weiterer Zeugen ab, soweit nicht die Klägerin ausdrücklich eine solche beantragt.
+16. Die Beweisaufnahme über die Beschaffenheit der Dachdeckung ist durch den Befund des Sachverständigen [[person|Lazarus]] ausreichend geklärt. Eine Ortsbesichtigung ist entbehrlich. Die beklagte Partei sieht daher von der Einvernahme weiterer Zeugen ab, soweit nicht die Klägerin ausdrücklich eine solche beantragt. Die Parteien haben sich zudem auf eine Verhandlung im schriftlichen Verfahren geeinigt, sofern das Gericht dies für zweckmäßig hält.
 
 17. Die Kosten der Verbesserungsarbeiten sind der beklagten Partei zu ersetzen, weil die Klägerin deren Bezahlung trotz Aufforderung verweigert hat. Die beklagte Partei hat die Klägerin mit Schreiben vom [[date|15.10.2025]] zur Zahlung aufgefordert; eine Reaktion blieb aus.
 

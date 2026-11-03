@@ -36,6 +36,8 @@ Umsatzsteuer 20 % | 162,40
 Barauslagen, Eingabegebühr laut Beleg | 92,00
 Gesamtbetrag | 1.066,40
 
+Die Zustellung des Grundbuchsbeschlusses an [[person|Karg]] erfolgte am [[date|20.10.2026]]. Die Kanzlei hat den Grundbuchsauszug vom [[date|04.09.2026]] ausgewertet und dabei festgestellt, dass das Grundstück keine weitere Belastung aufweist. Die Gebühren für die Eingabe wurden im Namen der Mandantin vorgestreckt und sind in den Barauslagen enthalten. Für künftige Änderungen des Grundbuchsstandes ist eine neue Vollmacht erforderlich. Die Mandantin wurde über den Ablauf der Eintragung und die Dauer des Verfahrens informiert. Eine Kopie der Eintragungsmitteilung liegt der Honorarnote bei.
+
 Der Betrag ist binnen 14 Tagen auf das Konto [[bank_account|AT34 4847 6587 0126 7702]] zu überweisen.
 
 Mit freundlichen Grüßen

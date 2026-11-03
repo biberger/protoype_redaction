@@ -92,6 +92,8 @@ Rechtsanwalt
 [[lawyer|Tritscher]], für die Richtigkeit der Unterfertigung
 [[address|6712 Thüringen]], am [[date|18.08.2026]]
 
+Die Vertragsparteien erhalten eine Kopie des Vertrages mit dem Hinweis auf die Eintragungsfristen. Die Verkäuferin bestätigt den Empfang des Vertrages und die Richtigkeit der Angaben zu den Liegenschaften.
+
 Vertragsexemplar Nr. 1 von 4. Eine Ausfertigung für das Grundbuch, eine für die Finanzbehörde, eine für die Verkäuferin, eine für die Käufer.
 
 Tel. [[phone_number|07242/9184134 Durchwahl 55]]

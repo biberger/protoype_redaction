@@ -59,6 +59,20 @@ Der Beschuldigte hat die Pflicht zur Trennung von Eigengeld und Fremdgeld missac
 
 Die [[court|OBDK]] teilt die Auffassung des Disziplinarrates, dass die Verletzung schwer wiegt. Die Strafhöhe ist jedoch zu überprüfen, weil der Disziplinarrat die Rückbuchung nicht in die Abwägung einbezogen hat.
 
+Der Verhältnismäßigkeitsgrundsatz verlangt, dass die Disziplinarstrafe in einem angemessenen Verhältnis zum Gewicht der Verfehlung steht. Der Senat hat dabei berücksichtigt, dass die Entnahme nicht auf Bereicherung des Beschuldigten im großen Stil gerichtet war, sondern einen Betrag von überschaubarer Höhe betraf. Gleichwohl bleibt die Verletzung der Treuhandpflicht ein Kernbereichsverstoß, weil das Vertrauen in die Verwahrung fremder Gelder durch Rechtsanwälte die Grundlage der Berufsausübung bildet.
+
+Der Senat hat auch geprüft, ob eine Ermahnung ausreichen würde. Dagegen spricht, dass die Entnahme ohne Weisung erfolgte und dass der Beschuldigte die Abrechnung über einen längeren Zeitraum nicht nachgeholt hat. Eine bloße Ermahnung würde den Unrechtsgehalt nicht angemessen abbilden.
+
+Im Berufungsverfahren hat der Beschuldigte sein Vorbringen ergänzt. Er legte eine Aufstellung vor, wonach er für den Klienten [[person|Drack]] im Zeitraum von Jänner bis April 2025 insgesamt elf Schriftsätze verfasst und drei Besprechungen geführt habe. Diese Aufstellung ist nicht durch Belege untermauert. Die Schriftsätze sind im Akt nicht enthalten, und die Gegenseite hat im Verfahren nie eine Erwiderung erhalten, die auf eine solche Tätigkeit schließen ließe.
+
+Der Senat hat den Beschuldigten dazu befragt, warum die Honorarnote erst im Mai 2025 erstellt wurde, obwohl die Tätigkeit im März abgeschlossen gewesen sein soll. Der Beschuldigte gab an, er habe die Abrechnung wegen der Krankheit einer Mitarbeiterin verschoben. Dieses Vorbringen wird durch das Kanzleijournal nicht bestätigt, in dem für den fraglichen Zeitraum keine Abwesenheit der Mitarbeiterin vermerkt ist.
+
+Der Senat hat außerdem die Anregung des Beschuldigten geprüft, ein Sachverständigengutachten über die Üblichkeit von Honorarvorschüssen in Verfahren dieser Art einzuholen. Der Antrag wurde abgelehnt, weil die Frage nicht entscheidungsrelevant ist. Die Verletzung der Treuhandpflichten hängt nicht davon ab, welche Honorarhöhe üblich ist, sondern davon, ob der Klient der Entnahme zugestimmt hat und ob eine Abrechnung erfolgt ist.
+
+Der Kammeranwalt [[person|Dr. Corbey]] hat in seiner Stellungnahme vom [[date|13.10.2026]] darauf hingewiesen, dass der Beschuldigte bereits im Jahr 2024 wegen eines ähnlichen Vorwurfs ermahnt worden sei. Diese Ermahnung ist im Register der Kammer dokumentiert, war aber im erstinstanzlichen Verfahren nicht Gegenstand der Beurteilung. Der Senat berücksichtigt sie nicht als Vorstrafe, weil es sich um eine formlose Ermahnung handelt, die keine disziplinäre Verurteilung darstellt.
+
+Die Fragen der Beweiswürdigung hat der Senat in seiner Beratung im Einzelnen erörtert, wobei jedes Senatsmitglied seine Einschätzung zu den Kontobewegungen gesondert dargelegt hat. Die Entscheidung ist einstimmig ergangen. Dabei war die Glaubwürdigkeit des Klienten [[person|Drack]] zentral, die der Senat in Übereinstimmung mit dem Disziplinarrat bejaht.
+
 V. Strafbemessung
 
 Der Senat hält eine Geldbuße von EUR 4.000,00 für angemessen. Erschwerend wirkt die Verwendung der Gelder für fremde Zwecke, mildernd die Rückbuchung des Teilbetrages von EUR 1.500,00 und die bisherige disziplinäre Unbescholtenheit des Beschuldigten.

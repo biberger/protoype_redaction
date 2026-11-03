@@ -63,11 +63,16 @@ Für Rückfragen steht die Hausverwaltung unter Tel. [[phone_number|+43-2622-283
 Der Mieter verpflichtet sich, die Wohnung schonend zu behandeln und Schäden unverzüglich zu melden. Die
 Wohnung darf nur zu Wohnzwecken verwendet werden. Die Untervermietung bedarf der schriftlichen Zustimmung.
 
+Der Mieter hat die Wohnung zum Zeitpunkt der Übergabe besichtigt. Haustiere sind nur mit schriftlicher Zustimmung der
+Vermieterin gestattet. Die Wohnungsschlüssel werden in dreifacher Ausfertigung übergeben.
+
 6. Hausordnung und Übergabe
 
 Der Mieter erhält bei Übergabe einen Schlüsselsatz, eine Kopie der Hausordnung und das Übergabeprotokoll. Die
 Wohnung wird in renoviertem Zustand übergeben. Mängel sind innerhalb von 14 Tagen nach Übergabe schriftlich zu
 rügen. Die Reinigung des Stiegenhauses erfolgt wöchentlich durch die Hausbetreuung.
+
+Vertragsänderungen, die nicht schriftlich festgehalten werden, sind unwirksam. Nebenabreden zur Miethöhe bestehen nicht.
 
 7. Schlussbestimmungen
 

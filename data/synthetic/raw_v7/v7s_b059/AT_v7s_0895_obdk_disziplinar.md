@@ -63,7 +63,7 @@ Datum | Vorgang | Betrag | Klient | Treuhandschaft
 
 12. Gegen diesen Beschluss ist die Berufung an die [[court|OBDK]] innerhalb von vier Wochen nach Zustellung zulässig. Die Berufung hat aufschiebende Wirkung hinsichtlich der Geldbuße, nicht aber hinsichtlich des Verweises.
 
-13. Die Kammeranwaltschaft hat in der Verhandlung beantragt, den Beschuldigten für die Dauer von sechs Monaten von der Vertretung von Treuhandklienten auszuschließen. Dem Antrag wurde nicht entsprochen, weil die Rückzahlung vor Einleitung des Verfahrens erfolgte und der Beschuldigte eine externe Prüfung der Treuhandkonten zugesagt hat.
+13. Die Kammeranwaltschaft hat in der Verhandlung beantragt, den Beschuldigten für die Dauer von sechs Monaten von der Vertretung von Treuhandklienten auszuschließen. Dem Antrag wurde nicht entsprochen, weil die Rückzahlung vor Einleitung des Verfahrens erfolgte und der Beschuldigte eine externe Prüfung der Treuhandkonten zugesagt hat. Die Kammeranwaltschaft hat sich dieser Auffassung angeschlossen. Der Disziplinarrat hat die Verhandlung am [[date|11.12.2025]] geschlossen und die Entscheidung nach Beratung gefasst. Die Beratung dauerte nach dem Protokoll knapp zwei Stunden; die Entscheidung wurde einstimmig getroffen.
 
 14. Die Kosten des Verfahrens sind dem Beschuldigten nach den Bestimmungen der Disziplinarordnung aufzuerlegen. Die Höhe des Kostenbeitrages wurde mit dem Aufwand der Kammer bemessen und beträgt EUR 1.200,--.
 

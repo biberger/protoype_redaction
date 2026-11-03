@@ -56,11 +56,13 @@ Eine allfällige Überzahlung aus dem Vorschuss wird auf Ihr Konto IBAN [[bank_a
 
 Für Rückfragen stehen wir Ihnen unter Tel. [[phone_number|+43 2742 265 69 43 DW 229]] zur Verfügung.
 
-Wir danken Ihnen für das entgegengebrachte Vertrauen und stehen für weitere Fragen gerne zur Verfügung. Die Kanzlei ist per E-Mail unter [[email|office@holl.at]] erreichbar. Bitte geben Sie bei Zahlung stets die Honorarnote und Ihre Klienten-Nr. an, damit die Zahlung korrekt zugeordnet werden kann.
+Für Ihre Mitwirkung im Verfahren bedanken wir uns besonders. Wir danken Ihnen für das entgegengebrachte Vertrauen und stehen für weitere Fragen gerne zur Verfügung. Die Kanzlei ist per E-Mail unter [[email|office@holl.at]] erreichbar. Bitte geben Sie bei Zahlung stets die Honorarnote und Ihre Klienten-Nr. an, damit die Zahlung korrekt zugeordnet werden kann.
 
 Mit freundlichen Grüßen
 
 [[person|H O L L]]
 Rechtsanwältin
+
+Diese Honorarnote ist auch ohne Unterschrift gültig, da sie elektronisch über das Kanzleiprogramm übermittelt wurde.
 
 KANZLEIVERMERK: [[person|FARAḤ ASIL]] / ZAHLUNG OFFEN / WV [[date|14.11.2026]]

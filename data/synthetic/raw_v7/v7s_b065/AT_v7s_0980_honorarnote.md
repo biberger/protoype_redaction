@@ -35,6 +35,8 @@ Datum | Leistung | Betrag
 [[date|22.06.2026]] | Teilnahme an der Tagsatzung, Vergleichsverhandlung | EUR 660,00
 [[date|30.08.2026]] | Abschlussschreiben und Kostennote für [[person|Schnabel]] | EUR 150,00
 
+Die Leistungen wurden nach dem Tarif der Rechtsanwaltschaft abgerechnet, soweit dieser anwendbar ist.
+
 Summe Honorar netto EUR 1.606,00
 zuzüglich 20 % USt EUR 321,20
 Barauslagen (Gerichtsgebühren, Porto) EUR 84,50

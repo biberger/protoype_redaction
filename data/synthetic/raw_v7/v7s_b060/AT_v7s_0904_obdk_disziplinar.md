@@ -109,6 +109,10 @@ Die Beschuldigte hat in der Verhandlung eingeräumt, dass die Teilzahlung an [[p
 Sie erklärte, sie habe dies für eine Nebenabrede gehalten. Der Senat folgt dieser Darstellung nicht, weil eine
 Nebenabrede dieser Art nach den Angaben der Klientin nie getroffen wurde.
 
+Der Senat hat die Aussagen der Klienten [[person|Hölzl]] und [[person|Tschabrun]] in der Verhandlung unmittelbar gewürdigt.
+Beide Klientinnen schilderten übereinstimmend, dass sie über die Auszahlungen nicht informiert wurden und die Abrechnung
+erst auf ausdrückliche Nachfrage erhielten. Die Angaben sind widerspruchsfrei und werden durch die Kontobewegungen gestützt.
+
 V. Rechtliche Beurteilung
 
 Gemäß [[legal_norm|§ 43a Abs 4 RAO]] hat der Rechtsanwalt Vermögenswerte, die er für Klienten verwahrt, getrennt von
@@ -130,6 +134,13 @@ unter Abwägung dieser Umstände eine Geldbuße von EUR 4.000,00 als tat- und sc
 Ein Verweis allein wäre nicht ausreichend, weil die Beschuldigte die Vorgänge nicht von sich aus offengelegt hat,
 sondern erst nach der Prüfung durch die [[organization|RAK]] Stellung genommen hat.
 
+V a. Stellungnahme zur Schadenshöhe
+
+Die Beschuldigte hat vorgebracht, dass den Klienten durch die Verzögerungen kein finanzieller Schaden entstanden sei.
+Der Senat folgt dem nur teilweise. Zwar wurden die Beträge in allen Fällen ausbezahlt; jedoch hatten die Klienten für
+die Dauer der Verzögerung keinen Zugriff auf ihr Geld, und in zwei Fällen fehlten die Zinsen, die auf dem Treuhandkonto
+hätten erwirtschaftet werden können. Dieser Umstand ist bei der Strafbemessung als Erschwernis zu berücksichtigen.
+
 VI. Weitere Feststellungen und Anträge
 
 Die Beschuldigte hat die Pflichtverletzungen nicht aus eigenem Antrieb gemeldet. Die Klientin [[person|Hölzl]] hat in ihrer
@@ -148,6 +159,9 @@ seit März 2024 für zu lang, um die Pflichtverletzungen als geringfügig zu wer
 
 Ein Antrag auf Veröffentlichung des Erkenntnisses wurde nicht gestellt. Die Beschuldigte hat zu den Vorwürfen in der
 Kammerzeitschrift vom [[date|10.12.2025]] keine Stellungnahme abgegeben.
+
+Der Senat hat die Kostennote des Kammeranwalts geprüft und als angemessen anerkannt; eine Überprüfung der Kostenhöhe
+durch den Kostenrichter ist nicht beantragt worden.
 
 VII. Kosten
 

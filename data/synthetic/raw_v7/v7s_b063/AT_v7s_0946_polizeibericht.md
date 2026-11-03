@@ -69,6 +69,8 @@ Der Sachverhalt wird als Verwaltungsübertretung nach der [[legal_norm|Straßenv
 
 Die Lenker wurden darauf hingewiesen, dass sie die Unfallmeldung innerhalb von 14 Tagen an ihre Versicherung weiterzuleiten haben. Die Beamten haben keine Festnahme vorgenommen.
 
+Die Beteiligten wurden über die Möglichkeit informiert, bei Fragen zur Anzeige die Dienststelle telefonisch zu kontaktieren. Eine Rückmeldung der Versicherung über die Schadenshöhe ist innerhalb von vier Wochen zu erwarten; die Anzeige bleibt bis dahin offen und wird im Akt gesondert vermerkt.
+
 7. Schlussvermerk
 
 Die Anzeige wurde von [[person|Mauracher]] und [[person|Lechner]] verfasst und den Beteiligten zur Kenntnis gebracht. Eine Abschrift wird der zuständigen Behörde übermittelt. Ein Ausdruck der Unfallskizze ist beigelegt.

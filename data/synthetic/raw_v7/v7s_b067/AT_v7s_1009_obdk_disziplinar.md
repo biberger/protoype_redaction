@@ -46,7 +46,7 @@ Die Beschwerdeführerin war während dieser Zeit mehrfach telefonisch bei der Ka
 
 Beweiswürdigung
 
-Die Feststellungen gründen sich auf den Akt, die Kontoauszüge und die Einvernahme der Beschwerdeführerin, die glaubwürdig und nachvollziehbar aussagte. Der Beschuldigte bestätigte die Einzahlung und die Überweisung, behauptete jedoch, es habe sich um eine Vorabvergütung gehandelt, über die die Klientin informiert gewesen sei. Diese Behauptung wird durch keine Urkunde gestützt; eine schriftliche Honorarvereinbarung existiert nicht.
+Die Feststellungen gründen sich auf den Akt, die Kontoauszüge und die Einvernahme der Beschwerdeführerin, die glaubwürdig und nachvollziehbar aussagte. Der Beschuldigte bestätigte die Einzahlung und die Überweisung, behauptete jedoch, es habe sich um eine Vorabvergütung gehandelt, über die die Klientin informiert gewesen sei. Diese Behauptung wird durch keine Urkunde gestützt; eine schriftliche Honorarvereinbarung existiert nicht. Die Kontoauszüge weisen die Buchungen mit Datum, Betrag und Verwendungszweck aus. Die Überweisung vom [[date|02.04.2025]] trägt als Verwendungszweck nur die Kanzleinummer des Beschuldigten, nicht aber den Namen der Klientin.
 
 Der Senat hält die Angaben der Kammeranwältin [[person|Oberkofler]] für schlüssig, wonach die Verkäuferin durch das Verhalten des Beschuldigten einen Schaden von 12.300 Euro erlitt, den die [[organization|KLV]] inzwischen geltend macht. Die Kammeranwältin hat den Antrag auf Verhängung einer Geldbuße gestellt.
 

@@ -59,6 +59,17 @@ verwendete diesen Betrag zur Begleichung von Mietrückständen. Die Gelder wurde
 
 Die Klientin [[person|Zimper]] erhielt die vollständige Auszahlung des Restbetrages erst am [[date|11.03.2025]].
 
+2a. Vorbringen des Beschuldigten
+
+Der Beschuldigte hat in der Verhandlung eingeräumt, dass die Abbuchung vom [[date|29.07.2024]] ohne Weisung erfolgte. Er
+machte geltend, er habe die Gelder als Vorschuss auf eine Honorarforderung betrachtet, die er gegenüber der Klientin
+[[person|Zimper]] aus einem früheren Auftrag gehabt habe. Eine schriftliche Honorarnote oder eine Vereinbarung über
+diesen Vorschuss hat der Beschuldigte nicht vorgelegt. Die Klientin hat einen solchen Auftrag bestritten.
+
+Der Beschuldigte erklärte weiter, er habe die Rückzahlung der Beträge veranlasst, sobald die Kanzlei die Liquiditätslage
+wieder im Griff gehabt habe. Diese Darstellung wird durch die Kontoauszüge teilweise bestätigt; die letzte Teilzahlung
+erfolgte jedoch erst am [[date|27.02.2025]].
+
 III. Beweiswürdigung
 
 Der Senat stützt sich auf die Kontoauszüge der [[organization|HTB]], das Treuhandbuch des Beschuldigten und die
@@ -79,6 +90,16 @@ Pflichten nach der [[legal_norm|RL-BA 2015]].
 
 Die nachträgliche Rückzahlung mindert das Unrecht nicht vollständig, weil die Klientin über einen erheblichen
 Zeitraum keinen Zugriff auf ihre Gelder hatte und über den Verbleib nicht informiert war.
+
+IV a. Vorbringen zur Strafhöhe
+
+Der Kammeranwalt [[person|Vian]] beantragte in der Verhandlung eine Geldbuße im Bereich von EUR 5.000,00. Er verwies
+darauf, dass die Verwendung von Klientengeldern für eigene Zwecke zu den schwersten Pflichtverletzungen eines
+Rechtsanwalts gehört. Der Beschuldigte beantragte dagegen einen Verweis, weil die Gelder vollständig zurückgezahlt
+worden seien und ihm bisher keine Beschwerde eines Klienten bekannt sei.
+
+Der Senat hält die Geldbuße von EUR 3.500,00 für angemessen. Sie ist auch unter Berücksichtigung der Vermögensverhältnisse des Beschuldigten angemessen. Sie liegt im unteren Bereich des möglichen Strafrahmens,
+weil die Klientin keinen Schaden über die Dauer der Verzögerung hinaus erlitten hat, die Zinsen wurden ihr ersetzt.
 
 V. Strafbemessung
 

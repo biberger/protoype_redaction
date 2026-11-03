@@ -26,7 +26,7 @@ Folgende Personen sind zur Erbschaft berufen:
 2. [[person|Tsatsos Irini]], GEB: [[date_of_birth|8. September 1959]], Erbin zur Hälfte;
 3. [[person|Augustus Rendulic]], *[[date_of_birth|1940-05-20]], Erbe zu einem Achtel.
 
-Der Anteil des Erbes von [[person|Rendulic]] ist nach dem Testament vom [[date|03.03.2014]] auf den Teil des Nachlasses beschränkt, der nicht dem Legat an [[person|Müllner]] unterliegt. Das Testament wurde von der Erblasserin [[person|Flemming]] eigenhändig verfasst und hinterlegt.
+Der Anteil des Erbes von [[person|Rendulic]] ist nach dem Testament vom [[date|03.03.2014]] auf den Teil des Nachlasses beschränkt, der nicht dem Legat an [[person|Müllner]] unterliegt. Das Testament wurde von der Erblasserin [[person|Flemming]] eigenhändig verfasst und hinterlegt. Das Legat an [[person|Müllner]] umfasst die Übergabe des Pkw und einen Barbetrag von EUR 5.000,00, der binnen eines Jahres nach Einantwortung auszuzahlen ist. Die Erblasserin hat im Testament ausdrücklich festgehalten, dass das Legat dem Legatar als Dank für die Pflege in den letzten Lebensjahren zukommen soll. Ein Pflichtteilsanspruch der Erbin [[person|Tsatsos]] besteht nicht.
 
 II. Nachlassvermögen
 
@@ -61,9 +61,27 @@ Die Erbin [[person|Tsatsos]], die in [[location|St. Valentin]] wohnt, ist mit de
 
 Die Erben werden darauf hingewiesen, dass die Erbschaftssteuer gesetzlich nicht mehr erhoben wird, die Eintragung der Erbfolge im Grundbuch jedoch Gebühren auslöst.
 
+IV a. Inventar und Bewertung
+
+Das Inventar wurde am [[date|18.11.2021]] in Anwesenheit der Erbin [[person|Tsatsos]] errichtet. Die Bewertung der Liegenschaften stützt sich auf die Gutachten eines gerichtlich beeideten Sachverständigen, die dem Akt beiliegen. Für die Liegenschaft [[land_register_id|EZ 3125]] wurde der Verkehrswert anhand vergleichbarer Verkäufe im Gemeindegebiet ermittelt. Der Sachverständige hat darauf hingewiesen, dass das Grundstück [[land_register_id|Gst.Nr. 62/29]] wegen der Hanglage nur eingeschränkt bebaubar ist.
+
+Zu den beweglichen Sachen zählen Hausrat, Schmuck und eine Sammlung von Briefmarken, die der Erblasserin gehörte. Der Schmuck wurde vom Notar an die Erbin ausgefolgt, nachdem diese die Echtheit bestätigt hatte. Die Briefmarkensammlung wurde durch einen Sachverständigen geschätzt und dem Erben [[person|Rendulic]] zugewiesen, sofern er den Wert im Verhältnis zu seiner Quote übernimmt.
+
+Die Liegenschaft [[land_register_id|KG Forstau]] ist mit einem Pfandrecht zugunsten der [[organization|Oberbank AG]] belastet. Die Löschung dieses Pfandrechtes erfolgt nach Zahlung der Restschuld aus dem Verlassenschaftsvermögen. Die Bank hat dazu mit Schreiben vom [[date|14.12.2021]] einen Auszug übermittelt.
+
+Die Erben haben die Erbantrittserklärungen binnen der gesetzlichen Frist abgegeben. Die Erbantrittserklärung des Erben [[person|Rendulic]] enthielt zunächst eine Einschränkung auf den Nachlass, die jedoch im Lauf des Verfahrens zurückgenommen wurde, nachdem der Erbe über den Wert der Liegenschaften aufgeklärt worden war.
+
+IV b. Pflichtteil und Nachlassgericht
+
+Ein Pflichtteilsberechtigter ist nach der Aktenlage nicht vorhanden. Die Erblasserin hatte keine Nachkommen und keinen Ehegatten, der noch am Leben ist. Die Eltern der Erblasserin sind verstorben, Geschwister sind nicht vorhanden. Die Erbfolge richtet sich daher nach dem Testament vom [[date|03.03.2014]] und nach den ergänzenden Bestimmungen des Gesetzes.
+
+Die Gläubiger wurden mit Edikt vom [[date|20.11.2021]] zur Anmeldung ihrer Forderungen aufgefordert. Die Anmeldefrist endete am [[date|20.01.2022]]. Nach Ablauf der Frist sind keine weiteren Forderungen eingelangt, sodass die Verteilung auf die bisher angemeldeten Forderungen beschränkt bleibt.
+
+Die Frage der Verwendung des Verlassenschaftskontos wurde mit dem Gericht abgestimmt. Die Kontoführung erfolgte gebührenfrei, bis die Verteilung abgeschlossen ist. Mit der Verteilung ist die Verlassenschaft erst dann beendet, wenn der letzte Betrag überwiesen und die Löschungsquittung für das Pfandrecht vorliegt.
+
 V. Schluss der Niederschrift
 
-Die Niederschrift wurde den Erschienenen vorgelesen, von ihnen genehmigt und eigenhändig unterfertigt. Für telefonische Rückfragen steht die Kanzlei unter [[phone_number|07242/3441786 Durchwahl 47]] zur Verfügung.
+Die Niederschrift wurde den Erschienenen vorgelesen, von ihnen genehmigt und eigenhändig unterfertigt. Für telefonische Rückfragen steht die Kanzlei unter [[phone_number|07242/3441786 Durchwahl 47]] zur Verfügung. Die Erben haben die Ausfertigung dieser Niederschrift zur Kenntnis genommen und auf eine weitere Verlesung verzichtet. Die Kosten der Niederschrift werden nach dem Verlassenschaftsvermögen verrechnet.
 
 Erschienen:
 

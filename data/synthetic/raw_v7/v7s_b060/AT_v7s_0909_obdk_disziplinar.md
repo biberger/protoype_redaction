@@ -52,6 +52,16 @@ Ein weiterer Vorgang betrifft die Klientin [[person|Hanne Wolkersdorfer]], für 
 einen Betrag von EUR 6.150,00 erhielt. Dieser Betrag wurde erst am [[date|27.03.2025]] ausbezahlt. Die Treuhandschaft
 ist unter TH-Nr. [[other_identifier|2022/804]] geführt.
 
+Ein dritter Vorgang betrifft den Klienten [[person|Hasan Aksoy]], für den die Beschuldigte am [[date|03.06.2024]] einen
+Betrag von EUR 4.200,00 übernahm. Die Treuhandschaft wurde unter Treuhandschaft Nr. [[other_identifier|2024/512]] angelegt.
+Der Betrag wurde am [[date|19.11.2024]] an den Klienten ausbezahlt, obwohl der Vergleich bereits am [[date|15.08.2024]]
+rechtskräftig geworden war. Die Verzögerung von drei Monaten wurde im Treuhandbuch nicht begründet.
+
+Die Beschuldigte hat in der Berufung vorgebracht, der Disziplinarrat habe den Sachverhalt im Fall [[person|Pfeiffer]]
+unrichtig festgestellt, weil die Klientin dem Aufschub zugestimmt habe. Dieses Vorbringen wurde nicht durch eine
+schriftliche Erklärung der Klientin belegt. Die Klientin [[person|Pfeiffer]] hat in der Berufungsverhandlung ausdrücklich
+bestritten, einem Aufschub zugestimmt zu haben.
+
 III. Beweiswürdigung
 
 Der Senat stützt sich auf das Treuhandbuch der Beschuldigten, die Kontoauszüge und die Aussagen der Klientinnen.
@@ -68,6 +78,27 @@ unverzüglich vermerkt wird.
 Der Disziplinarrat hat im Fall [[person|Wolkersdorfer]] zu Recht eine Verletzung der Dokumentationspflicht
 angenommen. Der Senat bestätigt diese Beurteilung.
 
+IV a. Berufungsgründe
+
+Die Berufungsgründe der Aktenwidrigkeit und der unrichtigen rechtlichen Beurteilung sind nicht berechtigt. Der
+Disziplinarrat hat die Aussagen der Zeugen gewürdigt und ist dabei nicht von den Akten abgewichen. Die Rüge, wonach
+die Verzögerung im Fall [[person|Pfeiffer]] nicht schuldhaft gewesen sei, ist durch die Kontobewegungen widerlegt.
+
+Die Beschuldigte rügte weiter, die Zeugin [[person|Ana Bergmann]] sei nicht ausreichend befragt worden. Die Zeugin war
+jedoch in der Verhandlung vor dem Disziplinarrat anwesend und hat dort zu allen relevanten Punkten Stellung genommen.
+Eine Wiederholung der Vernehmung ist daher nicht erforderlich.
+
+Hinsichtlich der Geldbuße rügt die Beschuldigte, die Höhe sei unangemessen. Dieser Berufungsgrund ist berechtigt, soweit
+die Umstände der Kanzleiumstellung berücksichtigt werden müssen. Der Senat erachtet deshalb die Herabsetzung als
+gerechtfertigt.
+
+IV b. Ergebnis der Beweiswürdigung im Berufungsverfahren
+
+Im Berufungsverfahren wurden keine neuen Tatsachen vorgebracht, die den Schuldspruch in Frage stellen. Die Feststellungen
+des Disziplinarrates zu den Fällen [[person|Pfeiffer]] und [[person|Wolkersdorfer]] sind durch die Kontoauszüge und das
+Treuhandbuch vollständig belegt. Der Fall [[person|Aksoy]] wurde vom Disziplinarrat nicht geprüft; der Senat hat ihn
+deshalb nur als Hintergrund für die Bemessung der Strafe herangezogen.
+
 V. Strafbemessung
 
 Das Erstgericht hat die Geldbuße unter Berücksichtigung der Unbescholtenheit der Beschuldigten bemessen. Die
@@ -76,6 +107,30 @@ externen Buchhalter beauftragt. Diese Umstellung ist als mildernd zu werten.
 
 Der Senat hält eine Geldbuße von EUR 2.200,00 für ausreichend, weil die Verstöße nicht mit Bereicherungsabsicht
 begangen wurden, sondern auf mangelhafter Organisation beruhten.
+
+V a. Vergleichbare Fälle
+
+Der Senat berücksichtigt bei der Strafbemessung die bisherige Praxis der Disziplinarbehörden. In Fällen, in denen eine
+Treuhandzahlung mit zeitlicher Verzögerung ausbezahlt wurde und der Klient keinen Schaden erlitt, wurden Geldbußen im
+Bereich von EUR 1.500,00 bis EUR 3.000,00 verhängt. Eine Verzögerung ohne Dokumentation im Treuhandbuch wiegt schwerer,
+weil die Kontrolle durch die Kammer dadurch erschwert wird.
+
+Die Beschuldigte hat keine Vorstrafen. Die Verzögerungen in den Fällen [[person|Pfeiffer]] und [[person|Wolkersdorfer]]
+betrafen insgesamt Beträge von rund EUR 33.000,00. Die Dokumentationspflicht wurde in beiden Fällen verletzt. Der
+Senat hält daher eine Geldbuße von EUR 2.200,00 für angemessen und ausreichend, zumal die Beschuldigte die Berufung
+teilweise erfolgreich geführt hat.
+
+V b. Zahlungsfrist und Ratenzahlung
+
+Der Beschuldigten wird eine Zahlungsfrist von acht Wochen eingeräumt. Eine Ratenzahlung wird nicht bewilligt, weil die
+Beschuldigte nach eigenen Angaben über ausreichende Mittel verfügt. Die Geldbuße ist binnen dieser Frist auf das Konto
+der Kammer einzuzahlen.
+
+V c. Hinweis an die Beschuldigte
+
+Die Beschuldigte wird darauf hingewiesen, dass die Geldbuße nicht durch Rückzahlungen an die Klientinnen ersetzt werden
+kann und dass die Kammer bei weiteren Verstößen die Verfahrensbeschleunigung nach der Verfahrensordnung beantragen wird. Ein Rechtsmittel gegen dieses Erkenntnis richtet sich nach den Bestimmungen der Berufungsvorschriften.
+Die Kosten dieses Hinweises trägt die Beschuldigte nicht gesondert.
 
 VI. Kosten
 

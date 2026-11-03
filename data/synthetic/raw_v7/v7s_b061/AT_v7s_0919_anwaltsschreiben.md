@@ -56,7 +56,7 @@ Gesamtbetrag: EUR 9.780,00
 
 Der Mandant ist zur Vermeidung eines Rechtsstreits bereit, den Betrag nach Eingang Ihrer Zahlung als vollständige Abfindung anzuerkennen. Sollten Sie bis zum genannten Datum nicht leisten, werden wir ohne weitere Ankündigung die gerichtliche Geltendmachung einleiten.
 
-Bitte richten Sie Ihre Antwort ausschließlich an unsere Kanzlei unter Angabe der Schadennummer. Die Zahlung ist auf das Kanzleikonto zu leisten, das Sie unserem Briefkopf entnehmen können.
+Bitte richten Sie Ihre Antwort ausschließlich an unsere Kanzlei unter Angabe der Schadennummer. Die Zahlung ist auf das Kanzleikonto zu leisten, das Sie unserem Briefkopf entnehmen können. Wir ersuchen zudem um schriftliche Bestätigung des Eingangs dieses Schreibens binnen acht Tagen. Sollte eine Bestätigung ausbleiben, gehen wir von einem Zugang am dritten Werktag nach Absendung aus und werden die weiteren Schritte entsprechend einleiten. Für allfällige Rückfragen stehen wir unter der oben angeführten Telefonnummer zur Verfügung.
 
 Mit freundlichen Grüßen
 

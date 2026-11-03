@@ -57,6 +57,18 @@ erhalten. Die Auszahlung war am [[date|15.10.2025]] fällig. Der Klient hat die 
 Die Beschuldigte hat den Restbetrag innerhalb von zwei Wochen nach dem Fälligkeitstermin an den Klienten ausbezahlt;
 die Verzögerung war durch die fehlende Unterschrift des Gegners auf der Abrechnung verursacht.
 
+2a. Stellungnahme der Klientin [[person|Bönsch]]
+
+Die Klientin [[person|Bönsch]] wurde im schriftlichen Verfahren gehört. Sie gab an, dass die Beschuldigte sie über den
+Stand der Abwicklung stets informiert habe und dass sie mit der Abwicklung zufrieden sei. Die Klientin legte den
+Kaufvertrag über das Fahrzeug und die Übergabebestätigung vom [[date|06.06.2025]] vor.
+
+2b. Stellungnahme des Klienten [[person|Friedjung]]
+
+Der Klient [[person|Friedjung]] bestätigte, dass er den Restbetrag am [[date|28.10.2025]] erhalten habe. Er gab an,
+dass er eine Erinnerung an die Abrechnung bereits im September 2025 versandt habe, ohne dass darauf reagiert worden sei.
+Die Beschuldigte habe ihm jedoch telefonisch erklärt, die Unterschrift des Gegners fehle noch.
+
 III. Beweiswürdigung
 
 Der Senat stützt sich auf die Kontoauszüge der [[organization|Kärntner Sparkasse AG]] ([[organization|KSK]]), das
@@ -75,6 +87,15 @@ nicht zu vertreten hat. Ein Verstoß gegen die Pflicht zur zeitgerechten Weiterl
 Die Eintragung im Treuhandbuch im Fall [[person|Bönsch]] wurde zwei Wochen nach der Buchung nachgeholt. Dies verletzt
 die Pflicht zur laufenden Dokumentation nach der [[legal_norm|Richtlinien-Beschluss-Berufsausübung]], ist jedoch
 geringfügig.
+
+IV a. Weitere Erwägungen
+
+Der Senat berücksichtigt, dass die Beschuldigte in den vergangenen Jahren keine vergleichbaren Vorwürfe zu verantworten
+hatte. Die Kanzleiprozesse wurden nach Angaben der Beschuldigten inzwischen neu organisiert, und die Buchhaltung wurde
+an eine externe Stelle übertragen. Diese Umstellung ist positiv zu werten.
+
+Die Kammeranwältin [[person|Kreševljaković]] hat die Anzeige auf die Dokumentationspflicht beschränkt; der Vorwurf einer
+verspäteten Auszahlung war nach der Aktenlage nicht mehr aufrechtzuerhalten. Der Senat folgt diesem Antrag insoweit.
 
 V. Entscheidung
 

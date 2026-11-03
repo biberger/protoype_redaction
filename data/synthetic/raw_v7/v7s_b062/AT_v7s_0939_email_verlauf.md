@@ -11,7 +11,7 @@ Betreff: Ihr Zeichen: [[other_identifier|L/Segal/8773]]
 
 Sehr geehrte Frau [[person|Segal]],
 
-wir haben das Schreiben der [[organization|Sima GmbH]] erhalten. Die [[organization|Sima]] verweist auf die Schaden-Nr. [[other_identifier|43/619006/23]] und möchte den Vorfall auf der Baustelle in [[location|St. Veit an der Glan]] nicht anerkennen. Bitte senden Sie uns bis zum [[date|5. November 2026]] die Fotos des Schadens. Die [[organization|ZTK]] hat ihr Gutachten noch nicht vorgelegt.
+wir haben das Schreiben der [[organization|Sima GmbH]] erhalten. Die [[organization|Sima]] verweist auf die Schaden-Nr. [[other_identifier|43/619006/23]] und möchte den Vorfall auf der Baustelle in [[location|St. Veit an der Glan]] nicht anerkennen. Bitte senden Sie uns bis zum [[date|5. November 2026]] die Fotos des Schadens. Die [[organization|ZTK]] hat ihr Gutachten noch nicht vorgelegt. Sollte die Gegenseite weiterhin bestreiten, werden wir einen Sachverständigen aus dem Bereich der Bauschäden beauftragen.
 
 Mit freundlichen Grüßen
 [[person|Hackl]]
@@ -34,7 +34,7 @@ Betreff: Stellungnahme [[organization|Sima]]
 
 Sehr geehrte Herren [[person|Riml]] und [[person|Hackl]],
 
-die [[organization|Sima GmbH]] lässt ausrichten, dass die Ziviltechnikerkammer für Steiermark ([[organization|ZTK]]) das Gutachten erst am [[date|19. Oktober 2026]] übermittelt hat. Die Bauleitung hat den Schaden nicht festgestellt. [[person|Jamile Taher]], Bauleiterin der [[organization|Sima]], hat die Abnahme am [[date|13. Oktober 2026]] allein durchgeführt.
+die [[organization|Sima GmbH]] lässt ausrichten, dass die Ziviltechnikerkammer für Steiermark ([[organization|ZTK]]) das Gutachten erst am [[date|19. Oktober 2026]] übermittelt hat. Die Bauleitung hat den Schaden nicht festgestellt. Die Platten wurden laut Lieferschein am [[date|3. Oktober 2026]] angeliefert und am [[date|6. Oktober 2026]] verlegt. Die Verlegung wurde ohne Beteiligung des Auftraggebers durchgeführt, ein Abnahmeprotokoll existiert nicht. Die Materialkosten belaufen sich auf EUR 3.260,00 netto, die Verlegekosten auf EUR 1.740,00 netto. Der Schaden an den Fliesen wurde am [[date|13. Oktober 2026]] dokumentiert, als [[person|Taher]] die Abnahme vornahm. [[person|Jamile Taher]], Bauleiterin der [[organization|Sima]], hat die Abnahme am [[date|13. Oktober 2026]] allein durchgeführt.
 
 > Von: [[person|Riml]]
 > Gesendet: [[date|20. Oktober 2026]] 10:05
@@ -52,7 +52,7 @@ An: [[person|Hackl]]
 Betreff: AW: Stellungnahme [[organization|Sima]]
 
 Sehr geehrter Herr [[person|Hackl]],
-ich bestätige, dass ich die Abnahme alleine vorgenommen habe. Bitte richten Sie Rückfragen an [[person|Albach]] oder an die [[organization|Sima]] selbst.
+ich bestätige, dass ich die Abnahme alleine vorgenommen habe. Die Dokumentation befindet sich im Bautagebuch der [[organization|Sima]] und kann auf Anfrage übermittelt werden. Die [[organization|Sima]] bestätigt zudem, dass die Platten laut Lieferschein von der Lieferung vom [[date|3. Oktober 2026]] stammen und bei der Anlieferung keine Mängel festgestellt wurden. Bitte richten Sie Rückfragen an [[person|Albach]] oder an die [[organization|Sima]] selbst.
 
 Mit freundlichen Grüßen
 [[person|Jamile Taher]]

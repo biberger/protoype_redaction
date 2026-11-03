@@ -69,6 +69,16 @@ im Zusammenhang mit einer Schadenersatzzahlung. Die Treuhandschaft wurde unter T
 Das Treuhandbuch enthält für diese Bewegung keinen Eintrag mit dem Datum der Auszahlung. Der Klient erhielt den Betrag
 am [[date|30.11.2024]] in Höhe von EUR 7.000,00. Die Differenz von EUR 400,00 wurde ohne Beleg verbucht.
 
+3. Anhörung der Klientin und des Klienten
+
+Die Klientin [[person|Horváthová]] schilderte in der Anhörung, dass sie den Beschuldigten zwischen Juni 2024 und Jänner 2025
+mindestens siebenmal um Auskunft ersucht habe. Der Beschuldigte habe jeweils auf einen Termin im kommenden Monat verwiesen.
+Die Klientin legte Ausdrucke ihrer E-Mails vor, in denen sie um Auskunft bat. Die Antwortschreiben des Beschuldigten sind
+datiert vom [[date|03.07.2024]] und vom [[date|11.10.2024]].
+
+Der Klient [[person|Sternad]] wurde ebenfalls angehört. Er gab an, die Quittung über die Übergabe der Schadenersatzsumme
+nie erhalten zu haben, und die Auszahlung nur durch Nachfrage bei der Kanzlei erhalten zu haben.
+
 III. Beweiswürdigung
 
 Der Senat stützt sich auf die Kontoauszüge der [[organization|KSK]], das Treuhandbuch des Beschuldigten und die
@@ -80,6 +90,14 @@ die Unterlagen am [[date|22.03.2024]] vollständig übermittelt. Dass die Abrech
 ist dem Beschuldigten zuzurechnen.
 
 Die Klientin [[person|Horváthová]] war glaubwürdig und hat ihre Angaben mit Schreiben und Kontoauszügen belegt.
+
+III a. Stellungnahme der Kammeranwältin
+
+Die Kammeranwältin [[person|Kostis]] hat in der Verhandlung ausgeführt, dass sich der Vorwurf gegen den Beschuldigten nicht
+auf einzelne Buchungsfehler beschränke, sondern auf ein Muster der Verzögerung. Sie stellte den Antrag auf eine Geldbuße
+im oberen Bereich des Strafrahmens und auf eine Auflage zur Schulung der Kanzleimitarbeiter. Die Kammeranwältin wies
+darauf hin, dass der Beschuldigte im Jahr 2023 bereits von der Kammer ermahnt worden sei; eine disziplinäre Verurteilung
+ist jedoch nicht erfolgt.
 
 IV. Rechtliche Beurteilung
 
@@ -115,11 +133,20 @@ schließlich ausbezahlt hat. Erschwerend war die Dauer der Verzögerung im Fall 
 Tatsache, dass die Klientin über den Stand nicht informiert wurde.
 
 Unter Abwägung dieser Umstände erscheint dem Senat eine Geldbuße von EUR 2.500,00 als angemessen. Eine
-Ermahnung allein wäre nicht ausreichend, weil die Verstöße wiederholt aufgetreten sind.
+Ermahnung allein wäre nicht ausreichend, weil die Verstöße wiederholt aufgetreten sind. Die Ermahnung aus dem Jahr
+2023 ist als Vorwarnung zu werten, die der Beschuldigte nicht zum Anlass für eine Änderung der Kanzleiorganisation
+genommen hat. Zusätzlich wird dem Beschuldigten die Teilnahme an einem Fortbildungsseminar zur Treuhandschaft im Umfang
+von acht Stunden aufgetragen. Der Nachweis der Teilnahme ist binnen sechs Monaten dem Disziplinarrat vorzulegen.
+
+V a. Gesamtwürdigung
+
+Die Verstöße betreffen zwei Klientinnen und einen Klienten und erstrecken sich über mehr als ein Jahr. Trotz der
+Rückzahlung der Restbeträge hat der Beschuldigte die Treuhandschaft nicht sorgfältig geführt. Die Geldbuße in der
+festgesetzten Höhe berücksichtigt die Wiedergutmachung ebenso wie die wiederholte Pflichtverletzung.
 
 VI. Kosten und Rechtsmittel
 
-Die Kosten des Verfahrens sind nach [[legal_norm|§ 52 Abs 2 RAO]] dem Beschuldigten aufzuerlegen. Gegen diesen Beschluss
+Die Kosten des Verfahrens sind nach [[legal_norm|§ 52 Abs 2 RAO]] dem Beschuldigten aufzuerlegen. Sie umfassen die Kosten der Anhörungen und die Gebühr der Schriftführung. Gegen diesen Beschluss
 ist die Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]]
 innerhalb von vier Wochen nach Zustellung zulässig. Die Berufung ist beim Disziplinarrat einzubringen.
 

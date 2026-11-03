@@ -45,27 +45,29 @@ Datum | Vorgang | Betrag in EUR
 
 4. Der Beschwerdeführer hat am [[date|3. März 2025]] schriftlich um die vollständige Abrechnung ersucht. Die Antwort des Beschuldigten vom [[date|25. März 2025]] war unvollständig. Eine vollständige Abrechnung wurde erst am [[date|12. Juni 2025]] nach Intervention der Kammer vorgelegt.
 
+5. Die Kammer hat den Beschuldigten am [[date|10. Juli 2025]] zur Stellungnahme aufgefordert; diese erfolgte am [[date|25. Juli 2025]] verspätet und ohne Nachweise.
+
 II. Beweiswürdigung
 
 Der Senat stützt sich auf die Treuhandabrechnung, den Kontoauszug und die Aussage des Beschwerdeführers. Die Darstellung des Kammeranwalts [[person|Pancu]] wird durch die Unterlagen gestützt. Der Beschuldigte hat den Vorgang vom [[date|2. September 2024]] eingeräumt.
 
-Der Senat hält den Beschwerdeführer für glaubwürdig. Seine Angaben zu den Zahlungen decken sich mit den Kontoauszügen. Die Angaben des Beschuldigten zur Vorstreckung sind hingegen nicht belegt. Eine Rechnung über die Kanzleikosten wurde nicht vorgelegt.
+Der Senat hält den Beschwerdeführer für glaubwürdig. Seine Angaben zu den Zahlungen decken sich mit den Kontoauszügen. Die Angaben des Beschuldigten zur Vorstreckung sind hingegen nicht belegt. Eine Rechnung über die Kanzleikosten wurde nicht vorgelegt. Die Angaben des Beschwerdeführers zur Höhe des Saldos wurden durch die Kammer überprüft. Die Kammer hat die Treuhandabrechnung für das Jahr 2025 mit den Kontoauszügen abgeglichen; die Differenz von EUR 3.200,00 bestand tatsächlich. Der Senat folgt dieser Feststellung.
 
 III. Rechtliche Beurteilung
 
-Nach [[legal_norm|§ 43a Abs 4 RAO]] hat der Rechtsanwalt anvertraute Vermögenswerte getrennt zu verwahren. Eine Verrechnung mit eigenen Honorarforderungen ist nur mit ausdrücklicher Zustimmung des Berechtigten zulässig. Die Entnahme vom [[date|02.09.2024]] verletzt diese Pflicht.
+Nach [[legal_norm|§ 43a Abs 4 RAO]] hat der Rechtsanwalt anvertraute Vermögenswerte getrennt zu verwahren. Eine Verrechnung mit eigenen Honorarforderungen ist nur mit ausdrücklicher Zustimmung des Berechtigten zulässig. Die Entnahme vom [[date|02.09.2024]] verletzt diese Pflicht. Dass der Beschuldigte die Summe als Vorschuss bezeichnet, ändert daran nichts. Ein Vorschuss, der aus fremden Mitteln ohne Zustimmung des Berechtigten entnommen wird, ist keine zulässige Verrechnung. Auch die nachträgliche Genehmigung durch den Beschwerdeführer am [[date|12. Juni 2025]] ändert den Verstoß nicht, weil sie erst nach der Entnahme erfolgte.
 
 Die Verzögerung der Abrechnung ist zudem als Verstoß gegen [[legal_norm|§ 16 Abs 1 RAO]] iVm [[legal_norm|§ 1 Abs 2 RAO]] zu werten. Der Beschuldigte hat die Pflicht zur sorgfältigen und unverzüglichen Auskunft nicht erfüllt.
 
-Der Senat hat berücksichtigt, dass die [[organization|RAK Kärnten]] die Anzeige aufgrund eines Hinweises des Beschwerdeführers erstattet hat. Die Kammer hat die Frist des [[legal_norm|§ 61 RAO]] eingehalten.
+Der Senat hat berücksichtigt, dass die [[organization|RAK Kärnten]] die Anzeige aufgrund eines Hinweises des Beschwerdeführers erstattet hat. Die Kammer hat die Frist des [[legal_norm|§ 61 RAO]] eingehalten. Der Kammeranwalt [[person|Pancu]] hat die Anzeige mit allen Beilagen vorgelegt; der Senat sah keinen Anlass, weitere Beweise zu erheben. Die Verteidigung hat beantragt, das Verfahren einzustellen, weil die Entnahme durch einen Irrtum veranlasst worden sei. Dieser Antrag wurde abgewiesen.
 
 IV. Strafbemessung
 
-Mildernd sind das teilweise Geständnis, die Rückzahlung des Restbetrages am [[date|18.12.2024]] und die bisherige Unbescholtenheit. Erschwerend ist die lange Dauer der Verzögerung zu werten. Der Senat hält eine Geldbuße von EUR 3.000,00 für angemessen. Zusätzlich wird der Beschuldigte verpflichtet, den Saldo von EUR 3.200,00 binnen vier Wochen an den Beschwerdeführer zu überweisen.
+Mildernd sind das teilweise Geständnis, die Rückzahlung des Restbetrages am [[date|18.12.2024]] und die bisherige Unbescholtenheit. Erschwerend ist die lange Dauer der Verzögerung zu werten. Der Senat hält eine Geldbuße von EUR 3.000,00 für angemessen. Zusätzlich wird der Beschuldigte verpflichtet, den Saldo von EUR 3.200,00 binnen vier Wochen an den Beschwerdeführer zu überweisen. Die Geldbuße ist binnen vier Wochen nach Rechtskraft auf das Konto der Kammer zu überweisen. Eine Ratenzahlung wurde nicht bewilligt, weil der Beschuldigte keine ausreichenden Angaben zu seinen Einkünften gemacht hat.
 
 V. Beschluss
 
-Der Beschuldigte [[lawyer|Ronald Marko]] ist schuldig, die Pflichten nach [[legal_norm|§ 43a Abs 4 RAO]] verletzt zu haben. Die Kosten des Verfahrens trägt der Beschuldigte.
+Der Beschuldigte [[lawyer|Ronald Marko]] ist schuldig, die Pflichten nach [[legal_norm|§ 43a Abs 4 RAO]] verletzt zu haben. Die Kosten des Verfahrens trägt der Beschuldigte. Die Kosten umfassen die Pauschalgebühr der Kammer und die Auslagen für die Zeugeneinvernahme des Beschwerdeführers.
 
 Die Verhandlung wurde um 13:10 Uhr geschlossen. Der Beschluss wurde den Parteien am Ende der Verhandlung mündlich verkündet und wird schriftlich ausgefertigt.
 

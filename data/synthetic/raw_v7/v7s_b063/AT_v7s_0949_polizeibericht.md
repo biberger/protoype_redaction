@@ -56,6 +56,10 @@ Der Sachverständige für Kraftfahrzeugtechnik wurde am [[date|22.09.2026]] mit 
 
 Die Lenkerin [[person|Schallert]] wies bei der Befragung darauf hin, dass sie seit dem Vorjahr nur selten Dienstfahrzeuge führe und mit dem Fahrzeug der Gesellschaft nicht vertraut gewesen sei. Die Gesellschaft bestätigte dies schriftlich; eine Einsichtnahme in das Fahrtenbuch wurde beantragt.
 
+Der Sachverständige hat die Bremsanlage des Fahrzeugs von [[person|Wachstein]] am [[date|23.09.2026]] ebenfalls geprüft; Befunde lagen zum Zeitpunkt der Anzeige noch nicht vor.
+
+Der Verkehr wurde während der Vermessung einspurig geführt, wobei eine Ampel provisorisch aufgestellt wurde. Die Schadenshöhe wird von der Verkehrsabteilung nach Abschluss der Vermessung neu beziffert.
+
 Vorläufige Beurteilung: Die Angaben der Beteiligten sind in den wesentlichen Punkten widersprüchlich. Ob die Lenkerin [[person|Schallert]] den Vorrang verletzt hat, wird nach Vorliegen des Gutachtens und der Zeugenaussage von [[person|Flegel]] endgültig beurteilt. Die Sachverhaltsfeststellungen werden nach Vorliegen der ergänzenden Unterlagen ergänzt.
 
 5. Dokumentation

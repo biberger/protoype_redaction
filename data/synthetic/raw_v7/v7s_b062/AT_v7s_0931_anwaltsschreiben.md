@@ -33,7 +33,7 @@ Ringler]], geboren am [[date_of_birth|1991-07-20]], wohnhaft in
 
 Die Zeugin [[person|Stephanie Wertheim]] *[[date_of_birth|4. Juli 1956]] hat den Hergang in ihrer Aussage vom [[date|20. Mai 2026]] bestätigt. Die Haftung dem Grunde nach ist daher nicht zu bestreiten.
 
-Der Befund der Unfallambulanz vom [[date|4. März 2026]] dokumentiert eine Zerrung der Halswirbelsäule und eine Prellung der linken Schulter. Frau [[person|Schwarzmann]] war bis einschließlich [[date|28. April 2026]] arbeitsunfähig und musste ihre Tätigkeit als Buchhalterin im Außendienst für rund sechs Wochen unterbrechen. Die Belege für den entgangenen Verdienst legen wir diesem Schreiben in Kopie bei.
+Der Befund der Unfallambulanz vom [[date|4. März 2026]] dokumentiert eine Zerrung der Halswirbelsäule und eine Prellung der linken Schulter. Frau [[person|Schwarzmann]] war bis einschließlich [[date|28. April 2026]] arbeitsunfähig und musste ihre Tätigkeit als Buchhalterin im Außendienst für rund sechs Wochen unterbrechen. Die Belege für den entgangenen Verdienst legen wir diesem Schreiben in Kopie bei. Die Fahrtkosten zu den Behandlungsterminen werden gesondert nachgewiesen. Wir bitten um schriftliche Bestätigung des Einlangens dieses Schreibens und um Ihre Zuständigkeitsbestätigung innerhalb von zwei Wochen. Für Rückfragen steht unsere Kanzlei jederzeit zur Verfügung.
 
 Unsere Mandantin fordert von der [[organization|UNIQA]] ([[organization|UNIQA Versicherungen AG]]) Schmerzengeld und Verdienstentgang. Sollte sich die [[organization|UNIQA]] bis zum [[date|30. November 2026]] nicht äußern, wird die Klage beim [[court|Bezirksgericht Braunau am Inn]] eingebracht. Örtlich zuständig ist nach dem Unfallort das [[court|BG Braunau am Inn]].
 

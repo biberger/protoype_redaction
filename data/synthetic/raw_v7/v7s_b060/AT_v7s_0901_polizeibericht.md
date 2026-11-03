@@ -95,6 +95,9 @@ Aussage vom Unfalltag.
 Die Verständigung der Angehörigen erfolgte durch die Polizei im Beisein des Rettungsdienstes. Eine Bestätigung
 der Haftpflichtversicherung von Fahrzeug Nr. 1 liegt vor.
 
+Die Unfallstelle wurde nach Abschluss der Vermessung für den Verkehr freigegeben. Die Verkehrsregelung durch
+die Feuerwehr dauerte bis 19:10 Uhr.
+
 7. Beilagen
 
 Lichtbilder Nr. 1 bis 14, Unfallskizze, Protokoll der Alkotests, Zeugenaussage [[person|Hruby]],

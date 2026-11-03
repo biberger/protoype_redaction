@@ -51,7 +51,7 @@ Vertragsnummer [[other_identifier|LV-2020-40000]]
 Die Gesellschaftsanteile an der [[organization|Eppinger KG]], [[company_register_number|FN 629859p]], UID: [[tax_id|ATU95714361]],
 wurden mit EUR 9.000,00 bewertet. Die Erblasserin war Kommanditistin mit einer Einlage von EUR 12.000,00.
 
-Hausrat und persönliche Gegenstände der Erblasserin wurden durch die Erbin [[person|Lautner]] übernommen und in
+Hausrat und persönliche Gegenstände von [[person|Kubelková]] wurden durch die Erbin [[person|Lautner]] übernommen und in
 einer Inventarliste verzeichnet. Ein Schmuckstück wurde nicht vorgefunden; die Erbin [[person|Lautner]] hat dies
 schriftlich bestätigt. Der Hausrat wurde mit EUR 2.300,00 geschätzt.
 
@@ -60,7 +60,14 @@ zur Errichtung des Inventars wurde auf Antrag verlängert. Eine Liegenschaft im 
 
 Die Passiva bestehen aus der Bestattung in Höhe von EUR 3.980,00 sowie einem Kreditrest von EUR 1.120,00.
 
+Der Erbin [[person|Lautner]] wurde eine Frist von vier Wochen zur Stellungnahme zur Schätzung des Hauses eingeräumt. Die
+Stellungnahme ging am [[date|02.05.2020]] ein und ist im Akt erliegend.
+
 Der Erbin [[person|Platzer]] wurde die Schuldenhaftung nur bis zum Wert des Nachlasses zugewiesen.
+
+Die Kosten der Bestattung wurden von der Erbin [[person|Platzer]] vorgestreckt und im Verzeichnis der Passiva
+berücksichtigt. Die Erbin [[person|Lautner]] hat sich mit der Verteilung des Hausrats einverstanden erklärt. Eine
+Nachtragsabhandlung ist nach derzeitigem Stand nicht erforderlich, sofern keine weiteren Vermögenswerte bekannt werden.
 
 Ich ersuche um Einantwortung des Nachlasses an die Erben und den Legatar.
 

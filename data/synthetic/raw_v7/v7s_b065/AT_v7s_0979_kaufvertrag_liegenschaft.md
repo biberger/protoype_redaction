@@ -21,7 +21,7 @@ abgeschlossen am [[date|14.07.2026]] in [[location|Scheifling]]
 
 Präambel
 
-Die Vertragsparteien haben die Kanzlei ersucht, den Kaufvertrag über die nachstehend bezeichneten Liegenschaften zu errichten. Die Verkäuferin möchte den Verkauf nach einer längeren Vermarktungsphase abschließen; die Käuferin beabsichtigt, die Liegenschaften als Wohnsitz zu nutzen. Beide Teile bestätigen, dass die Kanzlei sie über die steuerlichen und grundbuchsrechtlichen Folgen umfassend belehrt hat.
+Die Vertragsparteien haben die Kanzlei ersucht, den Kaufvertrag über die nachstehend bezeichneten Liegenschaften zu errichten. Die Verkäuferin möchte den Verkauf nach einer längeren Vermarktungsphase abschließen; die Käuferin beabsichtigt, die Liegenschaften als Wohnsitz zu nutzen. Die Liegenschaften wurden zuletzt im Jahr 2019 umfassend saniert; die Heizungsanlage wurde im Zuge dieser Sanierung erneuert. Die Parteien halten fest, dass sie einen Sachverständigen für die Bewertung der Gebäude nicht beauftragt haben und den Kaufpreis auf Basis der eigenen Einschätzung vereinbart haben. Beide Teile bestätigen, dass die Kanzlei sie über die steuerlichen und grundbuchsrechtlichen Folgen umfassend belehrt hat.
 
 I. Vertragsparteien
 
@@ -96,6 +96,10 @@ VIII. Schlussbestimmungen
 3. Die Vertragsparteien bestätigen, dass sie über die Bedeutung des Vertrags und die Folgen der Eintragung belehrt wurden. Die Kanzlei hat auf die Notwendigkeit der Vertragsform hingewiesen.
 
 4. Alle Vertragsparteien erklären, dass dieser Vertrag nach ausführlicher Besprechung und ohne Zwang errichtet wurde.
+
+5. Mündliche Erklärungen der Vertragsparteien vor der Errichtung dieses Vertrags sind nicht Gegenstand der Vereinbarung. Maßgeblich ist allein der schriftliche Text einschließlich der Anlagen. Die Kanzlei hat die Vertragsparteien darauf hingewiesen, dass sie die Vertragsbestimmungen vor der Unterfertigung eigenständig prüfen sollen.
+
+6. Dieser Vertrag wird in drei gleichlautenden Ausfertigungen errichtet: je eine für die Verkäuferin und die Käuferin sowie eine für die Kanzlei, die den Grundbuchsantrag einbringt. Jede Ausfertigung ist von allen Vertragsparteien eigenhändig zu unterfertigen.
 
 IX. Vorkaufsrecht und Zustimmungen
 

@@ -60,7 +60,7 @@ Beweis ferner durch Vorlage der Akten der [[organization|PAG]] sowie durch Einho
 
 5. Anträge
 
-Zur Zuständigkeit: Das [[court|BG Hernals]] ist für die Klage sachlich zuständig, weil der Streitwert EUR 6.480,00 nicht übersteigt. Die örtliche Zuständigkeit ergibt sich aus dem Wohnsitz der beklagten Partei im Sprengel dieses Gerichtes.
+Zur Zuständigkeit: Das [[court|BG Hernals]] ist für die Klage sachlich zuständig, weil der Streitwert EUR 6.480,00 nicht übersteigt. Die örtliche Zuständigkeit ergibt sich aus dem Wohnsitz der beklagten Partei im Sprengel dieses Gerichtes. Die [[organization|Karlinsky]] betreibt ihr Unternehmen im Sprengel dieses Gerichtes und hat den Vertrag dort abgeschlossen.
 
 Die beklagte Partei beantragt,
 

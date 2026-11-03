@@ -74,6 +74,8 @@ Die [[court|OBDK]] hält unter Berücksichtigung dieser Umstände eine Geldstraf
 
 Die Kosten des Verfahrens trägt der Beschuldigte [[lawyer|Moravec]]. Die Verfahrenskosten werden in pauschalierter Form bestimmt.
 
+Der Senat hat die Schwere der Pflichtverletzung gegen die Milderungsgründe abgewogen. Die Höhe der Geldstrafe orientiert sich am Einkommen des Beschuldigten, das er mit rund 4.200 Euro monatlich angegeben hat, und an der Zahl der betroffenen Klienten.
+
 Die Kosten des Verfahrens werden nach dem Aufwand der Kammer bestimmt. Sie umfassen die Gebühren des Kammeranwalts, die Aufwendungen für die Sachverständige und die Protokollierung durch die Schriftführerin [[person|Matonohová]]. Eine Kostenersatzpflicht des Beschuldigten besteht unabhängig davon, ob die Entscheidung in der Berufung bestätigt wird.
 
 5. Rechtsmittelbelehrung

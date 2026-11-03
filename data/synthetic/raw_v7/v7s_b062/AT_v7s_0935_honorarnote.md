@@ -27,9 +27,11 @@ Sehr geehrter Herr [[person|Dechant]],
 
 wir erlauben uns, für unsere Tätigkeit in Ihrer Angelegenheit folgende Honorarnote zu übermitteln. Die Leistungen sind nach Datum und Art aufgeschlüsselt; Barauslagen sind gesondert ausgewiesen. Die Honorare wurden nach der Rechtsanwaltstarifordnung ([[legal_norm|RATG]]) sowie nach der mit Ihnen getroffenen Honorarvereinbarung vom [[date|02.03.2026]] berechnet.
 
+Der Stundensatz für die Bearbeitung durch die Kanzleiinhaberin beträgt EUR 240,00 netto; für Kanzleiangestellte gelten reduzierte Sätze. Die Kopien wurden mit EUR 0,20 je Seite verrechnet. Telefonate sind im Zeitaufwand enthalten, sofern sie länger als fünf Minuten dauerten. Für den Schriftverkehr mit der Versicherung wurde keine gesonderte Gebühr angesetzt, da dieser bereits im Honorar für die Abschlussarbeiten enthalten ist.
+
 Leistungsübersicht (Datum | Leistung | Betrag in EUR):
 
-[[date|02.03.2026]] | Erstbesprechung mit [[person|Tiberio Dechant]], Aktenstudium HZ/0114/26 | 240,00
+[[date|02.03.2026]] | Erstbesprechung mit [[person|Tiberio Dechant]], Aktenstudium [[other_identifier|HZ/0114/26]] | 240,00
 [[date|02.03.2026]] | Akteneinsicht und Kopien | 36,40
 [[date|17.03.2026]] | Schriftsatz an die Gegenseite, Schadensmeldung [[person|Tiberio Dechant]] | 412,00
 [[date|09.04.2026]] | Telefonat mit [[person|Dechant]] betreffend Vergleichsvorschlag | 96,00
@@ -47,6 +49,8 @@ Gesamtbetrag brutto: EUR 2.730,48
 Der Gesamtbetrag ist binnen 14 Tagen ab Rechnungsdatum fällig. Wir ersuchen um Überweisung auf das Konto [[bank_account|AT68 6847 7075 5764 6067]] unter Angabe der Klientennummer [[other_identifier|28899]] und der Honorarnote Nr. 2026/0417.
 
 Hinweis zur Vorschussleistung: Die im Schreiben vom [[date|12.03.2026]] angeforderte Vorschusszahlung von EUR 500,00 wurde auf die Honorarnote angerechnet. Die Zahlung von [[person|Dechant]] vom [[date|20.04.2026]] ist in der Abrechnung berücksichtigt. Ein allfälliger Überschuss wird binnen vier Wochen rücküberwiesen.
+
+Wir ersuchen, Änderungen Ihrer Anschrift umgehend bekanntzugeben, damit die Zustellung der Abrechnung gewährleistet ist. Die Honorarnote wurde elektronisch erstellt und ist ohne Unterschrift gültig. Auf Wunsch übermitteln wir Ihnen eine detaillierte Aufstellung der Kopierkosten und der Telefonate mit Datum und Dauer. Die Vorschusszahlung von [[person|Dechant]] wurde am [[date|20.04.2026]] gutgeschrieben; der Restbetrag ist offen. Für die Berufungsschrift wurde ein eigener Schriftsatz verfasst, dessen Kosten bereits in der Position vom [[date|14.06.2026]] enthalten sind. Die Kanzlei hat außerdem den Entwurf des Vergleichsvorschlags vom [[date|09.04.2026]] vorab mit dem Klienten abgestimmt. Die Barauslagen sind durchlaufende Posten und daher nicht mit Umsatzsteuer belegt.
 
 Bei Rückfragen erreichen Sie uns unter Tel. [[phone_number|02742 247480-98]]. Die Vollmacht vom [[date|02.03.2026]] bleibt bis zur endgültigen Erledigung der Angelegenheit aufrecht.
 

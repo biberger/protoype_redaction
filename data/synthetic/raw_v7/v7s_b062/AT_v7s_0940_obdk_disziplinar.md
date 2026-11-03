@@ -22,7 +22,7 @@ I. Verfahrensgang
 
 Der Kammeranwalt hat die Anzeige gegen [[lawyer|Erla Leist]] am [[date|3. Februar 2026]] eingebracht. Die Rechtsanwältin ist seit dem Jahr 2011 in [[address|4600 Schleißheim]] niedergelassen. Der Vorwurf betrifft die Verwaltung von Treuhandgeldern für den Klienten [[person|Arash Gharman]]. Die Kammerwahl und die Zulassung zur Rechtsanwaltschaft sind unstrittig.
 
-Die Verhandlung wurde am [[date|14. Mai 2026]] in Anwesenheit der Beschuldigten und ihres Vertreters durchgeführt. Die Zeugeneinvernahme des Klienten erfolgte in [[location|St. Michael im Lungau]], die Vernehmung der Bankangestellten im Wege der Videokonferenz.
+Die Verhandlung wurde am [[date|14. Mai 2026]] in Anwesenheit der Beschuldigten und ihres Vertreters durchgeführt. Die Zeugeneinvernahme des Klienten erfolgte in [[location|St. Michael im Lungau]], die Vernehmung der Bankangestellten im Wege der Videokonferenz. Die Einvernahme des Klienten [[person|Arash Gharman]] ergab, dass dieser die Zahlung am [[date|12. März 2024]] persönlich übergeben hat und keine schriftliche Vereinbarung über die Verwendung der Gelder bestand. Der Senat hat die Akten der Kammer beigezogen; diese enthalten die Abrechnungen der Jahre 2024 und 2025 sowie den Schriftverkehr mit dem Klienten.
 
 II. Sachverhalt
 
@@ -41,17 +41,19 @@ Datum | Vorgang | Betrag in EUR
 
 4. Die Beschuldigte hat in der Stellungnahme vom [[date|8. Juli 2024]] angegeben, sie habe die Treuhandbuchführung an einen Mitarbeiter übertragen. Der Mitarbeiter wurde nicht namentlich genannt. Die Kammer hat die Zusammenarbeit mit dem Kammeranwalt nicht mehr aufgenommen.
 
+5. Das Treuhandkonto wies zum Stichtag [[date|30.11.2024]] einen Saldo auf, der um EUR 12.200,00 unter dem Stand lag, den die Abrechnung der Beschuldigten auswies. Die Differenz ist auf die Auszahlungen vom [[date|19.03.2024]] und [[date|02.04.2024]] zurückzuführen.
+
 III. Rechtliche Beurteilung
 
 Die Verwaltung fremder Gelder ist eine Berufspflicht der Rechtsanwältin. Nach [[legal_norm|§ 43a Abs 4 RAO]] hat der Rechtsanwalt anvertraute Vermögenswerte getrennt zu verwahren und jede Verfügung nur mit Zustimmung des Berechtigten vorzunehmen. Die Auszahlung vom [[date|19.03.2024]] verletzt diese Pflicht. Die Überweisung des Honorars am [[date|02.04.2024]] vor Abrechnung des Treuhandauftrags verstößt zudem gegen die Grundsätze der Honorarvereinbarung.
 
-Die Rechtsanwältin hat die Vorwürfe teilweise eingeräumt. Mildernd wirkt die bisherige Unbescholtenheit und die teilweise Rückzahlung. Erschwerend ist die lange Dauer der Pflichtverletzung zu werten, weil der Klient erst nach fast drei Monaten Kenntnis erhielt.
+Die Rechtsanwältin hat die Vorwürfe teilweise eingeräumt. Mildernd wirkt die bisherige Unbescholtenheit und die teilweise Rückzahlung. Erschwerend ist die lange Dauer der Pflichtverletzung zu werten, weil der Klient erst nach fast drei Monaten Kenntnis erhielt. Der Senat hat auch geprüft, ob die Verletzung der Berufspflichten so schwer wiegt, dass ein Ausschluss aus der Rechtsanwaltschaft geboten wäre. Angesichts der Rückzahlung und der bisherigen Unbescholtenheit kommt dies nicht in Betracht; die Verhältnismäßigkeit wurde ausdrücklich berücksichtigt.
 
-Die Verjährung nach [[legal_norm|§ 3 DSt]] ist nicht eingetreten. Die Anzeige wurde innerhalb der Frist eingebracht.
+Die Verjährung nach [[legal_norm|§ 3 DSt]] ist nicht eingetreten. Die Anzeige wurde innerhalb der Frist eingebracht. Die Beschuldigte hat in ihrer Stellungnahme vorgebracht, sie habe die Treuhandbuchführung an einen Mitarbeiter übertragen. Der Senat hält dies für unbeachtlich, weil die Verantwortung für die Verwahrung der Klientengelder bei der Rechtsanwältin verbleibt und eine Delegation die Aufsicht nicht ersetzt.
 
 IV. Strafbemessung
 
-Der Senat hat die Geldbuße unter Berücksichtigung der wirtschaftlichen Verhältnisse der Beschuldigten bemessen. Die Geldbuße wird mit EUR 4.000,00 festgesetzt und ist binnen vier Wochen zu entrichten. Ein Teil des Betrages ist als Rückzahlung an den Klienten [[person|Gharman]] zu leisten.
+Der Senat hat die Geldbuße unter Berücksichtigung der wirtschaftlichen Verhältnisse der Beschuldigten bemessen. Die Geldbuße wird mit EUR 4.000,00 festgesetzt und ist binnen vier Wochen zu entrichten. Die Kammer hat in ihrer Stellungnahme angeregt, die Geldbuße auf die Höhe der Gebühren für die Treuhandkontrolle zu beschränken; dem Antrag folgt der Senat nicht. Ein Teil des Betrages ist als Rückzahlung an den Klienten [[person|Gharman]] zu leisten.
 
 Die Kosten des Verfahrens trägt die Beschuldigte. Eine Berufung ist innerhalb von zwei Wochen zulässig.
 

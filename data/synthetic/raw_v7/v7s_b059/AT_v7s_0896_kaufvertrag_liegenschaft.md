@@ -97,7 +97,7 @@ b) auf die Liegenschaft b): EUR 135.000,--.
 
 **VIII. Zusätzliche Erklärungen**
 
-19. Die Liegenschaft a) grenzt im Süden an einen Wirtschaftsweg, der im Eigentum der Gemeinde steht. Ein Wegerecht zugunsten der Liegenschaft ist im Grundbuch nicht eingetragen; der Verkäufer hat den Weg seit über zwanzig Jahren ungehindert benutzt. Die Käufer übernehmen die Verpflichtung, den Weg in gleicher Weise zu nutzen und die Wegerhaltung nach Anteilen mitzutragen.
+19. Die Liegenschaft a) grenzt im Süden an einen Wirtschaftsweg, der im Eigentum der Gemeinde steht. Ein Wegerecht zugunsten der Liegenschaft ist im Grundbuch nicht eingetragen; der Verkäufer hat den Weg seit über zwanzig Jahren ungehindert benutzt. Die Käufer übernehmen die Verpflichtung, den Weg in gleicher Weise zu nutzen und die Wegerhaltung nach Anteilen mitzutragen. Die Gemeinde hat der Übernahme dieser Pflicht mit Schreiben vom [[date|05.05.2026]] zugestimmt.
 
 20. Ein gesetzliches oder vertragliches Vorkaufsrecht besteht an den Liegenschaften nicht. Der Verkäufer erklärt, dass ihm keine Anbotspflicht gegenüber Angehörigen obliegt, die er nicht bereits ausgeübt hat.
 
@@ -105,7 +105,7 @@ b) auf die Liegenschaft b): EUR 135.000,--.
 
 22. Die Vertragsparteien bestätigen, dass die Liegenschaft b) als Bauplatz im Flächenwidmungsplan ausgewiesen ist, eine Bebauung jedoch nach der Gemeindeordnung nur mit einer Bewilligung möglich ist. Eine solche Bewilligung besteht derzeit nicht, und der Verkäufer übernimmt keine Gewähr für ihre Erteilung.
 
-23. Die Parteien vereinbaren, dass die Kosten einer etwaigen Vermessung der Liegenschaft a) je zur Hälfte von Verkäufer und Käufern getragen werden. Die Kosten der Teilung oder Vereinigung von Grundstücken trägt der Käufer allein.
+23. Die Parteien vereinbaren, dass die Kosten einer etwaigen Vermessung der Liegenschaft a) je zur Hälfte von Verkäufer und Käufern getragen werden. Ergibt die Vermessung eine größere Fläche als im Grundbuch angegeben, wird der Kaufpreis nicht angepasst; ergibt sie eine kleinere Fläche, bleibt es ebenfalls beim vereinbarten Preis. Die Kosten der Teilung oder Vereinigung von Grundstücken trägt der Käufer allein.
 
 24. Für Streitigkeiten aus diesem Vertrag ist das Bezirksgericht am Ort der gelegenen Liegenschaft zuständig. Gerichtsstand ist [[location|Tirol]].
 
@@ -113,7 +113,7 @@ b) auf die Liegenschaft b): EUR 135.000,--.
 
 25. Die Käufer finanzieren den Kaufpreis aus Eigenmitteln und aus einem Bankdarlehen der [[organization|Raiffeisenbank Region Tannheim eGen]]. Die Darlehenszusage vom [[date|28.08.2026]] liegt diesem Vertrag bei. Die Käufer haben die Rückzahlung des Darlehens aus ihrem gemeinsamen Einkommen übernommen und erklären, dass die Finanzierung unabhängig vom Ausgang der Verbücherung ist.
 
-26. Zur Sicherstellung des Restkaufpreises wird ein Pfandrecht an der Liegenschaft b) zugunsten des Verkäufers einverleibt, sofern die Darlehensgeberin die Rangordnung nicht einräumt. Die Pfandbestellung wird mit der Unterfertigung dieses Vertrages bewilligt.
+26. Zur Sicherstellung des Restkaufpreises wird ein Pfandrecht an der Liegenschaft b) zugunsten des Verkäufers einverleibt, sofern die Darlehensgeberin die Rangordnung nicht einräumt. Die Pfandbestellung wird mit der Unterfertigung dieses Vertrages bewilligt. Die Kosten der Pfandrechtseintragung trägt der Käufer. Die Treuhänder sind berechtigt, diese Gebühren direkt vom Treuhandkonto zu begleichen.
 
 27. Bleibt der Restkaufpreis länger als 30 Tage nach Fälligkeit aus, ist der Verkäufer berechtigt, vom Vertrag zurückzutreten. Die bis dahin geleisteten Zahlungen werden abzüglich eines Betrages von EUR 15.000,-- für die Nutzung der Liegenschaften zurückerstattet. Der Rücktritt bedarf der Schriftform und ist dem Treuhänder zuzustellen.
 

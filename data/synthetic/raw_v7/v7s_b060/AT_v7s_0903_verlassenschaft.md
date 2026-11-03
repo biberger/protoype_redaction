@@ -19,7 +19,7 @@ An das
 [[court|Bezirksgericht Scheibbs]]
 Verlassenschaftsabteilung
 
-Zur Kenntnis an das [[court|BG Scheibbs]], Verlassenschaftsabteilung, zu Händen der zuständigen Richterin
+Abschrift an das [[court|BG Scheibbs]], Verlassenschaftsabteilung, zur Ergänzung der Akten
 
 Betreff: Inventar und Entwurf der Einantwortung, Verlassenschaft nach [[person|Aglaia Glaser]], verstorben am [[date|03.08.2025]]
 
@@ -82,8 +82,15 @@ gegenüber der Sparkasse besteht nicht; die laufenden Raten wurden bis zum Todes
 Bedingung annehmen wolle, dass die Liegenschaft verkauft wird. Diese Bedingung ist im Rahmen der Einantwortung
 nicht vorgesehen; die Erbantrittserklärung ist daher noch offen.
 
+Die Gebäudeversicherung für das Wohnhaus endete mit dem Todestag; eine Verlängerung wurde nicht beantragt. Die Erben
+[[person|Klammer]] und [[person|Crocco]] haben sich bereit erklärt, die Versicherung für das Haus bis zur Einantwortung
+selbst weiterzuführen. Die Kosten dafür tragen die Erben im Verhältnis ihrer Quoten. Die Abrechnung der Gerichtskommission
+ist dem Inventar als Beilage angeschlossen.
+
 Ich ersuche um Einantwortung des Nachlasses an die oben genannten Erben im Verhältnis der Quoten und um Zustellung
 der Ausfertigung an meine Kanzlei.
+
+Die Verlassenschaft ist schuldenfrei, soweit die oben genannten Passiva betroffen sind.
 
 Mit vorzüglicher Hochachtung
 

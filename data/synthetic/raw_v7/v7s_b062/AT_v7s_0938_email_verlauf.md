@@ -10,7 +10,7 @@ Betreff: Schaden-Nr. [[other_identifier|12/476829/22]] Baustelle Wasserschaden
 
 Sehr geehrte Frau [[lawyer|Dr. Kropf]],
 
-wie besprochen übermittle ich Ihnen die Fotos der Baustelle in [[address|7540 Tschanigraben]]. Die [[organization|Benedikt Bau GmbH]] hat den Wasserschaden am [[date|14. Oktober 2026]] gemeldet, der Schaden liegt im Bereich der Baugrube. Die Grundbuchauszüge zu [[land_register_id|EZ 1160]] / Katastralgemeinde [[land_register_id|Sankt Pölten]] [[land_register_id|Gst.Nr. 406/12]] liegen bei.
+wie besprochen übermittle ich Ihnen die Fotos der Baustelle in [[address|7540 Tschanigraben]]. Die [[organization|Benedikt Bau GmbH]] hat den Wasserschaden am [[date|14. Oktober 2026]] gemeldet, der Schaden liegt im Bereich der Baugrube. Die Grundbuchauszüge zu [[land_register_id|EZ 1160]] / Katastralgemeinde [[land_register_id|Sankt Pölten]] [[land_register_id|Gst.Nr. 406/12]] liegen bei. Die Schalungsarbeiten wurden laut Bautagebuch am [[date|8. Oktober 2026]] begonnen und am [[date|10. Oktober 2026]] abgeschlossen; eine Materialrechnung über EUR 4.180,00 ist beigelegt.
 
 Mit besten Grüßen
 [[person|Silvia Zips]]
@@ -32,7 +32,7 @@ An: [[lawyer|Liselore Kropf]]
 Betreff: Angelegenheit [[person|Fröhlich]]
 
 Sehr geehrte Damen,
-die [[organization|AK NÖ]] ([[organization|Arbeiterkammer Niederösterreich]]) hat den Vorgang geprüft. Der Mitarbeiter [[person|Kopecky Fröhlich]], Staatsbürger von [[country|Tschechien]], war für die Abnahme zuständig. Ein Protokoll der Abnahme liegt nicht vor.
+die [[organization|AK NÖ]] ([[organization|Arbeiterkammer Niederösterreich]]) hat den Vorgang geprüft. Der Mitarbeiter [[person|Kopecky Fröhlich]], Staatsbürger von [[country|Tschechien]], war für die Abnahme zuständig. Ein Protokoll der Abnahme liegt nicht vor. Die Bauaufsicht hat die Abnahme nach den vorliegenden Unterlagen am [[date|10. Oktober 2026]] dokumentiert, allerdings fehlt die Unterschrift des Abnehmenden. Wir ersuchen um Übermittlung des Befundes bis zum [[date|30. Oktober 2026]]. Wir behalten uns vor, die Kosten der Nachbesserung in Rechnung zu stellen.
 
 > Von: [[lawyer|Liselore Kropf]]
 > Gesendet: [[date|9. Oktober 2026]] 14:15
@@ -47,7 +47,7 @@ Gesendet: [[date|6. Oktober 2026]] 07:55
 An: [[person|Silvia Zips]]
 Betreff: Schalung Wasserschaden
 
-Frau [[person|Zips]], ich habe die Schalung am [[date|10. Oktober 2026]] nicht abgenommen, das war Herr [[person|Fröhlich]] aus dem Büro. Bitte an [[lawyer|Kropf]] weiterleiten.
+Frau [[person|Zips]], ich habe die Schalung am [[date|10. Oktober 2026]] nicht abgenommen, das war Herr [[person|Fröhlich]] aus dem Büro. Bitte an [[lawyer|Kropf]] weiterleiten. Ich habe die Schalung am [[date|8. Oktober 2026]] nur vorläufig geprüft; die Mängel an der Ecke Nord sind im Bautagebuch dokumentiert.
 
 Freundliche Grüße
 [[person|Kopecky Fröhlich]]

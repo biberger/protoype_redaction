@@ -126,6 +126,13 @@ ausgeschlossen.
 
 3. Die Abgabenbescheide für die Kanzleigebühren und die Grundsteuer der letzten fünf Jahre wurden dem Käufer übergeben.
 
+VI c-2. Nebenkosten und Abrechnung
+
+1. Der Verkäufer hat dem Käufer die Nebenkostenabrechnungen der Gemeinde für die letzten drei Jahre übergeben. Eine
+Nachzahlung aus diesen Abrechnungen geht zu Lasten des Verkäufers, soweit sie vor dem Übergabetag fällig wurde.
+
+2. Die Wasserzählerstände werden am Übergabetag gemeinsam abgelesen und in einem Protokoll festgehalten.
+
 VI d. Belehrungen und Vollmacht
 
 1. Die Kanzlei hat die Vertragsparteien darüber belehrt, dass ein Vertrag über eine Liegenschaft nur durch Eintragung
@@ -138,6 +145,14 @@ dennoch wünschen, dass die Vertragserrichtung durch die Kanzlei [[person|Alsche
 des Eigentumsübertragungsantrags beim Grundbuchsgericht.
 
 4. Die Parteien bestätigen, dass ihnen der Vertrag in deutscher Sprache vorgelesen wurde und sie ihn verstanden haben.
+
+VI e. Hinweise zur Vertragsdurchführung
+
+1. Die Kanzlei hat den Verkäufer darauf hingewiesen, dass die Abgabe der Erklärung nach Punkt III. erst nach vollständiger
+Zahlung des Kaufpreises wirksam wird. Die Kanzlei verwahrt die Erklärung bis zu diesem Zeitpunkt treuhändig.
+
+2. Die Parteien vereinbaren, dass Mitteilungen aus diesem Vertrag an die im Kopf dieses Vertrages angeführte Kanzlei zu
+richten sind. Eine Zustellung an die Wohnadresse ist zulässig, wenn die Kanzlei dies nicht ausdrücklich ausschließt.
 
 VII. Schlussbestimmungen
 

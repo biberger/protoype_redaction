@@ -13,7 +13,7 @@ Sehr geehrter Herr [[person|Dr. Scheriau]],
 ich wende mich an Sie, weil mein Mann [[person|Alexei Eisenberg]] seit dem Unfall im August nicht mehr arbeiten kann. Die Versicherung hat bisher nur einen Vorschuss von EUR 800,00 überwiesen. Mein Mann meint, dass die [[organization|Oberbank]] als Bürgin für die Firma einspringen muss. Können Sie mir sagen, was wir jetzt tun sollen?
 
 Vielen Dank und liebe Grüße
-Katalin Beyerl
+[[person|Katalin Beyerl]]
 Tel. [[phone_number|+43 7242 203 70 79 Kl. 41]]
 
 > Von: [[person|Alexei Eisenberg]] <[[email|a.eisenberg@eisenberg-tischlerei.example]]>
@@ -58,7 +58,7 @@ Sehr geehrter Herr [[person|Dr. Scheriau]],
 wir können am [[date|4. November 2026]] vorbeikommen. Die Frau [[person|Beyerl]] hat die Befunde aus der Klinik mitgenommen. Bitte schicken Sie uns noch die Vollmacht zur Unterschrift.
 
 Mit freundlichen Grüßen
-Alexei Eisenberg
+[[person|Alexei Eisenberg]]
 
 ---
 Rechtsanwälte

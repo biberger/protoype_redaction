@@ -32,7 +32,7 @@ I. Verfahrensgang
 
 Die Mandantin [[person|Fatimah Talash]] erstattete am [[date|11. November 2025]] eine Anzeige gegen den Rechtsanwalt, weil sie nach Beendigung des Mandats keine Abrechnung und keinen Restbetrag erhalten habe. Der Mandant [[person|Ákos Lakner]] schloss sich der Anzeige mit Schreiben vom [[date|18. November 2025]] an. Die Mandantin [[person|Talash]] wohnt in [[location|St. Martin im Mühlkreis]], der Mandant [[person|Lakner]] ist in [[location|Linz]] gemeldet. Beide Mandanten hatten dem Beschuldigten Gelder zur Abwicklung einer Treuhandschaft Nr. [[other_identifier|2025/324]] übergeben, die auf einem Anderkonto bei der [[organization|Mühlkreis Volksbank registrierte Genossenschaft mit beschränkter Haftung]] ([[organization|MVB]]) verwaltet werden sollten. Das Anderkonto wurde unter der IBAN [[bank_account|AT38 0583 9776 6234 8623]] geführt. Rückfragen zur Akteneinsicht richten sich an die Kanzlei des Disziplinarrates unter Tel. [[phone_number|+43-1-1099930-42]].
 
-Der Kammeranwalt [[person|Mag. Ladislaus Nagel]] beantragte die Eröffnung des Disziplinarverfahrens. In seiner Stellungnahme vom [[date|2. Dezember 2025]] führte der Beschuldigte aus, die Gelder seien aufgrund eines mündlichen Auftrags der Mandanten umgeschichtet worden. Eine schriftliche Vereinbarung über die Verwendung der Gelder liege nicht vor.
+Der Kammeranwalt [[person|Mag. Ladislaus Nagel]] beantragte die Eröffnung des Disziplinarverfahrens. Die Vorprüfung durch die Kammerabteilung war am [[date|1. Dezember 2025]] abgeschlossen, wobei festgestellt wurde, dass die Gelder der Mandanten nicht vollständig ausbezahlt waren. In seiner Stellungnahme vom [[date|2. Dezember 2025]] führte der Beschuldigte aus, die Gelder seien aufgrund eines mündlichen Auftrags der Mandanten umgeschichtet worden. Eine schriftliche Vereinbarung über die Verwendung der Gelder liege nicht vor.
 
 Die Zeugin [[person|Kathrein Oberhofer]], Filialleiterin der [[organization|MVB]], bestätigte bei ihrer Einvernahme, dass das Anderkonto am [[date|17. März 2025]] mit einem Saldo von EUR 3.150,00 geführt wurde, obwohl die Mandanten zu diesem Zeitpunkt Ansprüche von zusammen EUR 9.800,00 hatten. Die Kontobewegungen ergeben folgendes Bild:
 
@@ -50,23 +50,31 @@ II. Beweiswürdigung
 
 Der Senat stützt seine Feststellungen auf die Anzeige, die Kontoauszüge der [[organization|MVB]], die Aussagen der Zeugin [[person|Oberhofer]] und die Angaben der Mandanten. Die Darstellung des Beschuldigten ist in den wesentlichen Punkten widersprüchlich. Gegenüber dem Kammeranwalt sprach er zunächst von einer Einzahlung ohne Zweckbestimmung, später von einem mündlichen Auftrag. Beide Angaben sind mit dem Umstand unvereinbar, dass [[person|Talash]] der Auszahlung an [[person|Lakner]] nicht zugestimmt hat.
 
-Die Mandantin [[person|Talash]] schilderte den Ablauf ruhig und nachvollziehbar. Sie gab an, dass sie den Beschuldigten mehrmals um eine Abrechnung ersucht habe, die er stets mit dem Hinweis auf Urlaub verschoben habe. Der Mandant [[person|Lakner]] bestätigte, dass er nur einen Teil seines Anspruchs erhalten habe.
+Die Mandantin [[person|Talash]] schilderte den Ablauf ruhig und nachvollziehbar. Ihre Schilderung deckt sich mit den Kontoauszügen und mit dem Schreiben der Mandantin an die Kammer vom [[date|28. Oktober 2025]]. Sie gab an, dass sie den Beschuldigten mehrmals um eine Abrechnung ersucht habe, die er stets mit dem Hinweis auf Urlaub verschoben habe. Der Mandant [[person|Lakner]] bestätigte, dass er nur einen Teil seines Anspruchs erhalten habe.
+
+Der Beschuldigte brachte in der mündlichen Verhandlung vor, dass er die Gelder zur Deckung offener Kanzleikosten für ein früheres Verfahren benötigt habe, das ebenfalls die Mandantin [[person|Talash]] betroffen habe. Der Senat kann dieser Darstellung nicht folgen. Eine solche Verrechnung hätte der Zustimmung der Mandanten bedurft, die weder [[person|Talash]] noch [[person|Lakner]] erteilt haben. Auch die Buchungsbelege der [[organization|MVB]] enthalten keinen Hinweis auf ein früheres Verfahren, sondern nur die Bezeichnungen "Honorar" oder "Vorschuss" ohne Rechnungsnummer.
+
+Die Zeugin [[person|Oberhofer]] ergänzte, dass die Überweisung vom [[date|21.03.2025]] mit dem Vermerk "Honorar Partner" versehen war. Dieser Vermerk entspricht nicht den internen Buchungsregeln der [[organization|MVB]], die für Vorschüsse eine eigene Kategorie vorsehen. Der Senat verkennt nicht, dass die Zeugin die Gepflogenheiten ihres Hauses nicht im Einzelnen kennt, sie hat sich aber im Ergebnis auf die Kontodaten gestützt und ist dabei nachvollziehbar geblieben. Die Beschuldigte konnte zu dem Vermerk keine Erklärung abgeben, die über den allgemeinen Hinweis auf ein Honorar hinausging. Der Senat hat die Angaben der Zeugin daher nur insoweit berücksichtigt, als sie durch die Kontoauszüge bestätigt werden.
 
 III. Rechtliche Beurteilung
 
 Der Rechtsanwalt hat nach [[legal_norm|§ 11 RAO]] die Gelder seiner Mandanten getrennt von seinem eigenen Vermögen zu verwahren. Die Verwendung von Anderkonten dient dem Schutz der Mandanten vor dem Zugriff auf Vermögenswerte, die ihnen zustehen. Der Beschuldigte hat diese Pflicht in mehreren Fällen verletzt. Die Überweisung vom [[date|21.03.2025]] auf sein eigenes Konto stellt einen schweren Verstoß dar, weil sie ohne Auftrag und ohne Vereinbarung erfolgte.
 
-Den Umstand, dass der Beschuldigte die Gelder im Zeitpunkt der Überweisung nicht vollständig verbraucht hatte, sieht der Senat nicht als Milderungsgrund an. Es kommt darauf an, dass die Mandanten zeitweise keinen Zugriff auf ihre Gelder hatten. Erst nach der Anzeige hat der Beschuldigte einen Teil der Beträge ersetzt.
+Der Umstand, dass die Gelder nicht endgültig verloren gingen, ändert an der Pflichtverletzung nichts. Die Verwahrung von Fremdgeld ist ein Vertrauensverhältnis, das bereits durch die eigenmächtige Verfügung verletzt wird. Auf eine Schädigung der Mandanten kommt es für die Tatbestandsmäßigkeit nicht an. Die Sorgfaltspflicht verlangt zudem, dass der Rechtsanwalt auch dann, wenn er auf eine Honorarforderung vertraut, die Mandanten vor einer Entnahme unterrichtet und deren Zustimmung dokumentiert.
+
+Den Umstand, dass der Beschuldigte die Gelder im Zeitpunkt der Überweisung nicht vollständig verbraucht hatte, sieht der Senat nicht als Milderungsgrund an. Die Rückführung der Beträge nach Einleitung des Verfahrens zählt aber als Bemühen um Wiedergutmachung, das in die Strafbemessung einfließt. Es kommt darauf an, dass die Mandanten zeitweise keinen Zugriff auf ihre Gelder hatten. Erst nach der Anzeige hat der Beschuldigte einen Teil der Beträge ersetzt.
 
 IV. Strafbemessung
 
 Als mildernd wertete der Senat die bisherige Unbescholtenheit des Beschuldigten, die Ersatzleistung nach der Anzeige und das reumütige Verhalten in der mündlichen Verhandlung. Als erschwerend wurde die Dauer des Verstoßes gewertet, die sich über mehrere Monate erstreckte, und der Umstand, dass zwei Mandanten betroffen waren.
 
+Der Senat hat weiters berücksichtigt, dass der Beschuldigte im Verfahren mehrfach widersprüchliche Angaben machte und den Mandanten erst nach der Anzeige Auskunft gab. Eine Geldbuße, die sich am unteren Bereich des Strafrahmens orientiert, würde die Bedeutung der Pflicht zur getrennten Verwahrung nicht ausreichend zum Ausdruck bringen.
+
 Unter Berücksichtigung dieser Umstände erscheint eine Geldbuße von EUR 4.000,00 angemessen. Eine Streichung von der Liste wäre im Hinblick auf die bisherige Unbescholtenheit und die Ersatzleistung unverhältnismäßig. Der Senat sieht daher davon ab.
 
 V. Kosten
 
-Die Kostenentscheidung stützt sich auf die gesetzlichen Bestimmungen. Der Beschuldigte hat die Kosten des Verfahrens zu tragen, soweit nicht Gründe für einen Kostenersatz vorliegen.
+Die Kostenentscheidung stützt sich auf die gesetzlichen Bestimmungen. Der Beschuldigte hat die Kosten des Verfahrens zu tragen, soweit nicht Gründe für einen Kostenersatz vorliegen. Der Senat hat die Akte nach Rechtskraft dem Kammervorstand zur weiteren Veranlassung übermittelt. Die Zustellung an die Beschuldigte erfolgte am [[date|20. Mai 2026]] durch Hinterlegung, nachdem diese bei zwei Zustellversuchen nicht angetroffen worden war. Die schriftliche Ausfertigung dieser Begründung ergeht an alle Parteien.
 
 Die Vorsitzende
 [[judge|Sürmeli Calis]]

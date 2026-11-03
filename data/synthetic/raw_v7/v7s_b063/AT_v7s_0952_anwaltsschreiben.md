@@ -47,4 +47,6 @@ Mit freundlichen Grüßen
 Rechtsanwälte OG
 [[organization|Glawogger & Schloss]]
 
+Wir ersuchen um eine schriftliche Stellungnahme innerhalb der genannten Frist von 14 Tagen. Für Rückfragen steht Ihnen unser Büro gerne zur Verfügung. Andernfalls behalten wir uns vor, den Sachverständigen zur Erörterung der Mängel zu laden und die Kosten der Begutachtung ebenfalls geltend zu machen.
+
 Rückfragen erbitten wir unter Tel. [[phone_number|+43 316 214 75 60 Kl. 37]].

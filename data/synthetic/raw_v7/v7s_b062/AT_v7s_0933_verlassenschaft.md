@@ -52,6 +52,10 @@ Nach Ablauf der Edikalfrist und Erledigung aller Einwendungen wird die Einantwor
 
 Die Liegenschaft wird im Grundbuch auf die Erben nach Quoten einverleibt. Die Kosten der Einverleibung trägt die Verlassenschaft. Die Schätzung des Wohnhauses wurde am [[date|12.08.2015]] vom beeideten Sachverständigen vorgenommen; das Gutachten liegt dem Akt bei. Das Bargeld aus dem Schließfach wurde am [[date|18.08.2015]] in Gegenwart der Erbin [[person|Hübler]] gezählt und ist im Protokoll festgehalten. Die Schlüssel zur Wohnung wurden den Erben übergeben.
 
+Die Lebensversicherung unter Polizze [[other_identifier|97-8030810]] wurde mit dem Rückkaufswert in die Verlassenschaft übernommen. Die Versicherungsgesellschaft hat den Bezugsberechtigten [[person|Glogovac]] als Begünstigten genannt; die Auszahlung erfolgt jedoch an die Verlassenschaft, weil die Bezugsberechtigung nach dem Testament widerrufen wurde. Ein Schreiben der Versicherung vom [[date|29.07.2015]] liegt im Akt. Die Erbschaftssteuer wurde am [[date|31.08.2015]] fällig und aus dem Girokonto beglichen.
+
+Frau [[person|Walterskirchen]] hat die Mitteilung ihrer Bankverbindung verweigert; das Vermächtnis wurde daher bar übergeben und im Protokoll bestätigt. Die Erben wurden über die Möglichkeit einer bedingten Erbantrittserklärung belehrt, von der keiner Gebrauch gemacht hat. Ein Inventar über die beweglichen Sachen wurde am [[date|25.08.2015]] errichtet, die Übernahme der Fahrnisse durch [[person|Hübler]] ist im Inventar vermerkt. Der Schätzwert der Fahrnisse beträgt laut Inventar EUR 1.850,00. Die Abhandlungsgebühren wurden vollständig beglichen. Der Notar hat die Gebühren nach dem Gerichtsgebührengesetz berechnet.
+
 Die Kosten der Abhandlung sind aus dem Girokonto zu begleichen. Ein Erbverzicht oder eine Ausschlagung ist von keinem Berechtigten erklärt worden. Die Verlassenschaftsakten bleiben beim [[court|BG Lienz]] zur Einsicht aufliegen.
 
 [[person|GLOGOVAC JOSIF]] | GEB. [[date_of_birth|17.11.1942]] | QUOTE 1/2

@@ -28,11 +28,13 @@ wir vertreten Herrn [[person|Sigfried Lechleitner]] in der Angelegenheit des Sch
 
 Die [[organization|Elsner GmbH]] hat am [[date|2. März 2025]] mit einem Hubstapler eine Palette mit Glasplatten beschädigt, die Herr [[person|Lechleitner]] eingelagert hatte. Die Schadenshöhe beträgt laut Gutachten EUR 18.740,00. Herr [[person|Lechleitner]] hat den Schaden unverzüglich gemeldet, die Meldung ist bei [[organization|Elsner]] am selben Tag eingelangt. Die Zeugin [[person|Irmtraut Schwärzler]], geb. [[date_of_birth|12.04.1978]], hat die Beschädigung gesehen und den Vorfall mit Fotos dokumentiert. Der Lagerarbeiter von [[organization|Elsner]] hat den Vorfall am Nachmittag bestätigt.
 
+Die Ware war am Vortag ordnungsgemäß verpackt und mit Gurten gesichert, wie sich aus dem Übergabeprotokoll vom [[date|1. März 2025]] ergibt. Ein Verschulden des Mandanten scheidet daher aus. Die Rechnung der Sachverständigen vom [[date|25. August 2026]] über EUR 480,00 übermitteln wir ebenfalls, sie ist in der Schadenshöhe bereits berücksichtigt.
+
 Die Sachverständige [[person|Dipl.-Ing. Dietlind Tropper]], geb. [[date_of_birth|1996-06-03]], hat das Schadensausmaß beurteilt. Ihr Gutachten ergibt, dass die Glasplatten nicht mehr verwendbar sind und die Rahmen ersetzt werden müssen. Eine Reparatur ist wirtschaftlich nicht vertretbar.
 
-Wir ersuchen Sie daher, die Deckung bis spätestens [[date|31. Oktober 2026]] zu bestätigen. Das Gutachten liegt bei. Die Kundenkorrespondenz der [[organization|Elsner]] zum Vorfall haben wir in Kopie beigefügt, aus der sich ergibt, dass die Haftung dem Grunde nach anerkannt war. Die Kontaktperson auf Seiten Ihres Hauses ist [[person|Kuntschik Uwe]], an ihn richten sich auch Rückfragen zur Schadensmeldung.
+Wir ersuchen Sie daher, die Deckung bis spätestens [[date|31. Oktober 2026]] zu bestätigen. Das Gutachten liegt bei. Die Kundenkorrespondenz der [[organization|Elsner]] zum Vorfall haben wir in Kopie beigefügt, aus der sich ergibt, dass die Haftung dem Grunde nach anerkannt war. Die Kontaktperson auf Seiten Ihres Hauses ist [[person|Kuntschik Uwe]], an ihn richten sich auch Rückfragen zur Schadensmeldung. Telefonisch ist er über die Zentrale der [[organization|AVA]] erreichbar, wir bitten jedoch um eine schriftliche Antwort per E-Mail, damit der Vorgang dokumentiert ist.
 
-Bitte beziehen Sie sich in Ihrer Antwort auf unser Aktenzeichen. Für Rückfragen stehen wir gerne zur Verfügung.
+Bitte beziehen Sie sich in Ihrer Antwort auf unser Aktenzeichen. Sollten Sie weitere Unterlagen benötigen, bitten wir um eine kurze Nachricht innerhalb von zehn Tagen, damit wir die Verjährungsfrist im Auge behalten können. Nach unserer Ansicht ist die Verjährung noch nicht eingetreten. Für Rückfragen stehen wir gerne zur Verfügung.
 
 Mit freundlichen Grüßen
 

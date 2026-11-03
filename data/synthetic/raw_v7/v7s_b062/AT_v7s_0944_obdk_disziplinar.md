@@ -54,29 +54,31 @@ Datum | Vorgang | Betrag in EUR
 
 4. Die Fehlbeträge wurden am [[date|20.10.2025]] durch Zahlung aus eigenen Mitteln ausgeglichen. Der Kammeranwalt hält die Ausgleichszahlung für nicht ausreichend, weil die Klienten über den Vorgang nicht informiert wurden.
 
+5. Die Beschuldigte hat vor dem Senat erklärt, sie habe die Fehlbeträge aus einem Darlehen ihres Bruders gedeckt. Ein Nachweis dafür liegt nicht vor; ein Darlehensvertrag wurde nicht vorgelegt.
+
 III. Beweiswürdigung
 
 Der Senat stützt sich auf die Kontoauszüge, die Treuhandabrechnungen, den Schriftverkehr zwischen der Beschuldigten und der Kammer sowie auf die Angaben der Beschuldigten. Die Angaben der Klienten [[person|Pöschl]] und [[person|Kerschbaumer]] wurden schriftlich eingeholt.
 
-Die Beschuldigte hat in der Verhandlung ausgeführt, die Tabelle sei falsch geführt worden. Dieser Einwand ist nicht geeignet, die Verletzung der Verwahrungspflicht zu entschuldigen. Die Kontobewegungen sind eindeutig.
+Die Beschuldigte hat in der Verhandlung ausgeführt, die Tabelle sei falsch geführt worden. Dieser Einwand ist nicht geeignet, die Verletzung der Verwahrungspflicht zu entschuldigen. Die Kontobewegungen sind eindeutig. Die Kontoauszüge wurden in Kopie vorgelegt und durch den Kammeranwalt auf Vollständigkeit geprüft; die Auszüge stimmen mit der Tabelle überein.
 
-Der Senat hat den Kammeranwalt [[person|van Walsem]] angehört. Der Kammeranwalt hat die Anzeige in der Verhandlung vertreten und die Feststellungen bestätigt.
+Der Senat hat den Kammeranwalt [[person|van Walsem]] angehört. Der Kammeranwalt hat die Anzeige in der Verhandlung vertreten und die Feststellungen bestätigt. Der Beisitzer [[judge|Dr. Reinhold Steurer]] hat die Frage nach der Verwahrung der Gelder gestellt; die Beschuldigte konnte keine Angaben zur Zuordnung einzelner Beträge machen.
 
 IV. Rechtliche Beurteilung
 
 Gemäß [[legal_norm|§ 43a Abs 4 RAO]] hat der Rechtsanwalt die ihm anvertrauten Vermögenswerte getrennt von eigenen Mitteln zu verwahren. Die Entnahme eines Honorars ohne Abrechnung verletzt diese Pflicht. Zusätzlich liegt ein Verstoß gegen [[legal_norm|§ 16 Abs 1 RAO]] vor, weil die Beschuldigte die Klienten über den Vorgang nicht unterrichtet hat.
 
-Die Ausgleichszahlung vom [[date|20.10.2025]] mindert das Verschulden, beseitigt den Verstoß jedoch nicht. Die Rückzahlung war nicht freiwillig, sondern erfolgte erst nach Hinweis der [[organization|RAK]].
+Die Ausgleichszahlung vom [[date|20.10.2025]] mindert das Verschulden, beseitigt den Verstoß jedoch nicht. Auch der Umstand, dass die Verwaltung der Treuhandgelder im Kanzleibetrieb auf eine Tabelle gestützt wurde, ist kein Entschuldigungsgrund. Die Beschuldigte hätte das Konto laufend abstimmen müssen, wie dies die Richtlinien der Berufsausübung vorschreiben. Ein Rechtsanwalt, der fremde Gelder verwahrt, kann sich nicht auf eine unvollständige Buchhaltung berufen. Die Rückzahlung war nicht freiwillig, sondern erfolgte erst nach Hinweis der [[organization|RAK]].
 
 Die Verjährung ist nicht eingetreten. Die Tat wurde im Jahr 2025 begangen; die Anzeige ist vom [[date|11. Dezember 2025]].
 
 V. Strafbemessung
 
-Mildernd wirken die Unbescholtenheit, der Ausgleich der Fehlbeträge und die Kooperation mit der Kammer. Erschwerend ist die Dauer der Pflichtverletzung über mehrere Monate sowie die Mehrzahl der betroffenen Klienten. Der Senat bemisst die Geldbuße unter Berücksichtigung der Einkommensverhältnisse der Beschuldigten mit EUR 3.500,00.
+Mildernd wirken die Unbescholtenheit, der Ausgleich der Fehlbeträge und die Kooperation mit der Kammer. Erschwerend ist die Dauer der Pflichtverletzung über mehrere Monate sowie die Mehrzahl der betroffenen Klienten. Der Senat bemisst die Geldbuße unter Berücksichtigung der Einkommensverhältnisse der Beschuldigten mit EUR 3.500,00. Die Kammer hat in der Verhandlung auf die Wirkung auf das Vertrauen der Öffentlichkeit in die Anwaltschaft hingewiesen. Der Senat teilt diese Einschätzung und hält eine Geldbuße im unteren mittleren Bereich für angemessen, weil die Beschuldigte rasch Ausgleich geleistet hat.
 
 VI. Kosten
 
-Die Kosten des Verfahrens trägt die Beschuldigte. Eine Berufung ist binnen zwei Wochen zulässig.
+Die Kosten des Verfahrens trägt die Beschuldigte. Eine Berufung ist binnen zwei Wochen zulässig. Die Verfahrenskosten umfassen die Auslagen für die Ladung der Klienten, die Schreibgebühren und die Entschädigung der Sachverständigen für die Prüfung der Treuhandbuchführung.
 
 Der Vorsitz verkündet den Spruch am Ende der Verhandlung. Die Beschuldigte erklärt, auf Rechtsmittel zu verzichten, behält sich jedoch vor, die Entscheidung zu prüfen.
 

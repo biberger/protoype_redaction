@@ -56,6 +56,10 @@ Die Beklagten [[person|Wendl]] und [[person|Balkanski]] waren Gesellschafter der
 
 Die [[organization|ZBG]] hat den Beklagten [[person|Hruschka]] mit Schreiben vom [[date|11.08.2025]] zur Mängelbehebung aufgefordert. Der Beklagte [[person|Hruschka]] hat die Mängel nicht innerhalb der gesetzten Frist beseitigt. Die [[organization|ZBG]] hat daher die Mängel durch einen Drittunternehmer beheben lassen, dessen Rechnung vom [[date|29.09.2026]] datiert.
 
+Die Werkverträge wurden zwischen der [[organization|ZBG]] und den einzelnen Beklagten am [[date|14.01.2025]] schriftlich geschlossen. Die Verträge enthalten eine Gewährleistungsfrist von drei Jahren und eine Vereinbarung über Vertragsstrafen bei Verzug. Die Beklagten haben sich in diesen Verträgen ausdrücklich verpflichtet, die Arbeiten nach den einschlägigen Normen auszuführen und die Bauaufsicht über die Ausführung zu dulden.
+
+Die Bauaufsicht durch den Beklagten [[person|DI Schöpf]] war Bestandteil des Auftrags, den er von der [[organization|ZBG]] erhalten hatte. Die [[organization|ZBG]] hat ihm für diese Leistung ein gesondertes Honorar bezahlt, das in der Schlussrechnung ausgewiesen ist.
+
 Zur Mangelhaftigkeit:
 
 Der Sachverständige hat festgestellt, dass die Abdichtung im Keller an mehreren Stellen fehlt und die Dämmung im Bereich der Außenwand nicht ordnungsgemäß verlegt wurde. Die Mängel sind auf die Verantwortung der Beklagten zurückzuführen, weil jeder einzelne Beklagte seinen Teil der Arbeiten nicht vertragsgemäß erbracht hat.
@@ -66,7 +70,9 @@ Zur Schadenshöhe:
 
 Die Kosten der Mängelbehebung betragen nach der Rechnung EUR 24.100,00. Dazu kommen Gutachterkosten von EUR 3.650,00 und ein Verzugsschaden von EUR 4.000,00, der sich aus dem Verzögerungszeitraum ergibt. Die Summe der genannten Positionen beträgt EUR 31.750,00.
 
-Die [[organization|ZBG]] hat die Schadensersatzansprüche gegenüber jedem Beklagten gesondert geltend gemacht, soweit die Beiträge einzeln zuordenbar sind.
+Die [[organization|ZBG]] hat die Schadensersatzansprüche gegenüber jedem Beklagten gesondert geltend gemacht, soweit die Beiträge einzeln zuordenbar sind. Soweit eine Zuordnung nicht möglich ist, haften die Beklagten zur ungeteilten Hand, weil sie gemeinsam zur Mangelhaftigkeit des Gesamtwerkes beigetragen haben. Die Haftung der einzelnen Beklagten ist nach dem Anteil ihres Gewerks an den Gesamtkosten zu bemessen, wie die beigelegte Kalkulation zeigt. Die Kalkulation wurde von der [[organization|ZBG]] erstellt und vom Sachverständigen überprüft.
+
+Die Beklagten [[person|Wendl]] und [[person|Balkanski]] haben die Montage nach den Feststellungen des Bauleiters nicht rechtzeitig angezeigt, sodass der Verzug zum Teil auch ihnen zuzurechnen ist.
 
 Beweis:
 

@@ -12,7 +12,7 @@ Zeichen [[other_identifier|S-SPhilipp/Hoheisel]]
 
 Sehr geehrte Frau [[lawyer|Sedláková]],
 
-in der Angelegenheit meines Mandanten [[person|Kurti Cheshmedzhiev]], geboren am [[date_of_birth|11. November 1981]], ersuche ich um Stellungnahme zum Vorschlag der [[organization|Thausing GmbH]]. Die [[organization|Thausing]] hat bisher keine Zahlung geleistet, obwohl die Verletzungen unseres Mandanten durch den Befund vom [[date|25. September 2026]] belegt sind.
+in der Angelegenheit meines Mandanten [[person|Kurti Cheshmedzhiev]], geboren am [[date_of_birth|11. November 1981]], ersuche ich um Stellungnahme zum Vorschlag der [[organization|Thausing GmbH]]. Die [[organization|Thausing]] hat bisher keine Zahlung geleistet, obwohl die Verletzungen unseres Mandanten durch den Befund vom [[date|25. September 2026]] belegt sind. Bitte geben Sie uns auch Bescheid, ob die Versicherung der Gegenseite bereits Zahlungen geleistet hat und ob ein Vergleich in Betracht kommt.
 
 Mit freundlichen Grüßen
 
