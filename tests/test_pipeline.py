@@ -658,7 +658,7 @@ def test_grundbuch_generator_produces_valid_tagged_extracts(tmp_path):
             doc = ocr(doc, rng)
         path = tmp_path / f"AT_gb_{i:04d}_grundbuchsauszug.md"
         path.write_text(f"---\ndoc_type: grundbuchsauszug\njurisdiction: AT\nlang: de\n---\n{doc.render()}")
-        recs = parse_file(path, "synthetic")
+        recs, _ = parse_file(path, "synthetic")
         labels = {s["label"] for r in recs for s in r["spans"]}
         assert {"land_register_id", "case_number"} <= labels
     refs = {land_ref(rng, "01005", "Josefstadt", "427", gst="115/35").render() for _ in range(50)}
