@@ -56,5 +56,19 @@ Die Geschwindigkeit des Kleinbusses wurde mit geschätzt 38 km/h angegeben. Eine
 
 Das Kennzeichen des Fahrrades ist nicht vorhanden.
 
+Der Kleinbus wurde nach dem Unfall sichergestellt und zur Untersuchung in die Werkstatt der [[organization|Tichy KG]] verbracht. Die Bremsanlage wurde am [[date|20.10.2026]] vom Sachverständigen [[person|Dipl.-Ing. Matthias Hofbauer]] überprüft. Die Bremsen waren funktionsfähig.
+
+Der Lenker [[person|Spitz]] wurde am [[date|20.10.2026]] zur Einvernahme vorgeladen. Er gab an, dass er den Radfahrer wegen einer Sichtbehinderung durch einen parkenden Lkw erst spät wahrgenommen habe. Die Niederschrift wurde unterfertigt.
+
+Die Radfahrerin [[person|Edlinger]] wurde in der Ambulanz des [[organization|Krankenhauses Mariahilf]] untersucht. Die Diagnose lautete Prellung der Schulter und Abschürfungen am Unterarm. Ein Befund wurde der Behörde am [[date|22.10.2026]] vorgelegt.
+
+Der Zeuge [[person|Gökçe]] meldete sich am [[date|23.10.2026]] telefonisch und ergänzte, dass die Ampel an der Kreuzung zum Unfallzeitpunkt nicht in Betrieb war. Die [[organization|Stadtverwaltung Wien]] wurde um Auskunft ersucht; die Antwort steht noch aus.
+
+Eine Auskunft aus dem Melderegister zu den Beteiligten wurde eingeholt. Die Anschrift des Lenkers lautet [[address|1150 Wien]].
+
+Die Schadensmeldung der Radfahrerin enthält den Hinweis auf eine beschädigte Fahrradhelm. Der Helm wurde als Beweismittel sichergestellt. Die Sicherstellung wurde am [[date|21.10.2026]] protokolliert.
+
+Am [[date|24.10.2026]] fand eine Besprechung mit der Versicherung statt. Teilnehmer waren [[person|Eleonore Dr. Schneider]] für die Firma und Frau [[person|Edlinger]] als Geschädigte. Ein Vergleich wurde nicht erzielt; die Angelegenheit bleibt offen. Die Firma [[organization|Tichy]] übermittelte mit Schreiben vom [[date|26.10.2026]] eine Kopie des Fahrzeugscheins.
+
 Inspektor [[person|Lukas Wiesinger]]
 Streifendienst

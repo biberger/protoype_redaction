@@ -53,4 +53,18 @@ Die Schadenersatzforderung richtet sich nicht gegen die [[country|Republik Öste
 
 Die Anzeige wird an das [[court|Bezirksgericht Hollabrunn]] übermittelt.
 
+Die Halterin des Pkw, [[person|Gundel Kauffmann]], ist Mieterin der Garage auf dem Gelände und gab an, dass der Pkw am Vortag um 19:00 Uhr korrekt abgestellt gewesen sei. Sie bestätigte, dass die Kratzer an der linken Seite neu seien.
+
+Die Zeugin [[person|Reichert]] ist Hausverwalterin der Liegenschaft und gab an, dass in der Nacht eine Baumaschine auf dem Parkplatz gestanden habe. Die Maschine gehörte einem Subunternehmer, dessen Name nicht bekannt ist.
+
+Der Zeuge [[person|Frimmel]] wohnt im Nachbarhaus und hat am [[date|25.10.2026]] gegen 23:15 Uhr ein lautes Geräusch gehört. Er konnte keine Person erkennen.
+
+Eine Nachfrage bei der [[organization|Leiter Immobilien GmbH]] ergab, dass die Videoüberwachung seit dem [[date|10.10.2026]] defekt ist. Die Reparatur ist für den [[date|05.11.2026]] angesetzt.
+
+Die Schadensmeldung der [[organization|Leiter]] wurde am [[date|26.10.2026]] an die Versicherung übermittelt. Die Versicherung hat die Schadennummer bestätigt.
+
+Der Sachverständige [[person|Dipl.-Ing. Otto Pfeiffer]] hat den Lackschaden am [[date|27.10.2026]] besichtigt. Er bestätigte, dass es sich um einen Kratzer handelt, der mit einer Politur entfernt werden kann. Die Kosten dafür werden auf 180,00 EUR geschätzt.
+
+Die Halterin hat einen Antrag auf Ersatz der Mietgarage gestellt, der vom Eigentümer, [[person|Martin Pachler]], geprüft wird. Der Antrag wird im nächsten Schritt an das [[court|Bezirksgericht Hollabrunn]] weitergeleitet.
+
 Inspektor [[person|Otto Hofstätter]]

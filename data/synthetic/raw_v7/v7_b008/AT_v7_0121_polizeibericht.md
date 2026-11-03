@@ -46,5 +46,7 @@ Die Versicherung des Lenkers ist unter folgender Nummer geführt: Vers.-Nr. [[ot
 
 Die Anzeige wird an das [[court|Bezirksgericht Hollabrunn]] weitergeleitet.
 
+Die Lenkerin gab an, sie habe das Fahrzeug erst im letzten Moment erkannt. Ein Alkotest beim Lenker [[person|Van der Bellen]] verlief negativ. Die Fotos vom Unfallort sind im Akt abgelegt.
+
 Hauptinspektor [[person|Robert Mayrhofer]]
 Streifenkommandant

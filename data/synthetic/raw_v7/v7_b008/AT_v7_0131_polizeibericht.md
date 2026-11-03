@@ -50,4 +50,12 @@ Die Halterin wohnt in [[address|8421 Glojach]]. Die Anzeige geht an das [[court|
 
 Die Kontoverbindung für die Auszahlung lautet [[bank_account|AT84 9518 6356 5745 3874]].
 
+Die Lenkerin des Pkw, [[person|Reinthaler]], erlitt eine leichte Verletzung am Handgelenk und wurde durch die Rettung versorgt. Die Rettung war mit dem Einsatzwagen des [[organization|Rotes Kreuz Favoriten]] vor Ort.
+
+Der Lenker des Lieferwagens, [[person|Straka]], gab an, dass er keinen Fahrfehler begangen habe; das Hindernis sei erst im Rückspiegel sichtbar gewesen. Der Beifahrer [[person|Mauser]] bestätigte, dass der Parkplatz zum Unfallzeitpunkt beleuchtet war. Der Zeuge [[person|Ghasimy]] bestätigte die Lage des Parkplatzes.
+
+Die Zeugin [[person|Krainz]] wurde am [[date|02.11.2026]] vernommen. Sie erklärte, dass sie den Vorgang nur aus der Entfernung gesehen habe.
+
+Die Halterin des Pkw, [[person|Monja Wirnsberger]], hat für die Schadensabwicklung einen Rechtsvertreter beauftragt. Die Kontaktdaten des Rechtsvertreters wurden der Akte nicht beigelegt.
+
 Inspektor [[person|Rudolf Kainz]]

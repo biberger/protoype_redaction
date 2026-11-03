@@ -39,4 +39,10 @@ Die Schadenssumme wird auf 640,00 EUR geschätzt. Die Kontoverbindung für die A
 
 Die Anzeige wurde am [[date|30.10.2026]] an das [[court|Bezirksgericht Mödling]] übermittelt.
 
+Die Halterin des Pkw, [[person|Sprenger]], gab an, dass der Pkw am Vorabend um 22:00 Uhr ordnungsgemäß abgestellt gewesen sei. Der Nachbar [[person|Weiland]] bestätigt dies. Das Fahrzeug wies Kratzspuren auf der Fahrertür auf.
+
+Der Zeuge [[person|Murgu]] gab an, er habe am [[date|29.10.2026]] gegen 23:30 Uhr ein Geräusch gehört. Eine Person sei weggelaufen.
+
+Eine Nachschau bei den Nachbarn erbrachte keine weiteren Hinweise. Die Anzeige wird gegen unbekannte Täter geführt.
+
 Inspektorin [[person|Christine Haas]]

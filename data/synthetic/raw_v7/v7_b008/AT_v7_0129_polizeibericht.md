@@ -55,4 +55,16 @@ Die Kontoverbindung der [[organization|Michel]] lautet [[bank_account|AT39 6926 
 
 Die Akte wird an das [[court|Bezirksgericht Leopoldstadt]] / [[court|BG Leopoldstadt]] übermittelt.
 
+Die Lenkerin des Lieferwagens, [[person|Zoder]], gab an, die Ampel sei auf Gelb gestanden. Sie habe deshalb bremsen müssen, das Fahrzeug sei daraufhin ins Rutschen gekommen. Die Angaben von [[person|Wiegele]] widersprechen dem.
+
+Der Halter des Lieferwagens, die [[organization|Michel KG]], wurde durch den Geschäftsführer [[person|Dietmar Schnabel]] vertreten. Dieser stellte am [[date|30.10.2026]] das Fahrtenbuch zur Verfügung.
+
+Die Zeugin [[person|Ilić]] bestätigte die Darstellung der Lenkerin [[person|Zoder]] nicht.
+
+Die Schadenssumme wurde von dem Sachverständigen [[person|Dr. Ferdinand Lorenz]] am [[date|31.10.2026]] vorläufig geschätzt. Die Schätzung umfasst einen Frontschaden und eine Beschädigung der Heckklappe.
+
+Laut Auskunft der [[organization|Stadtverwaltung Wien]] ist die Kreuzung seit dem [[date|01.09.2026]] mit einer neuen Ampelanlage ausgestattet. Ein Schaltfehler ist nicht bekannt.
+
+Die Anzeige wurde nach Rücksprache mit dem Amtsarzt nicht erstattet, da keine Personen verletzt wurden.
+
 Inspektor [[person|Ludwig Haider]]

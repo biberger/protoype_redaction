@@ -44,5 +44,11 @@ Die Anzeige wird an das [[court|Bezirksgericht Liesing]] / [[court|BG Liesing]] 
 
 Die Kontoverbindung für die Schadensauszahlung lautet [[bank_account|AT55 5095 7659 5340 7151]].
 
+Der Transporter wurde nach dem Unfall vom Abschleppdienst [[organization|Hofer Bergung GmbH]] zur Werkstatt verbracht. Der Abschleppdienst bestätigte die Fahrzeugdaten.
+
+Die Zeugin [[person|Luther]] gab an, sie habe die Kollision im Rückspiegel gesehen. Der Lenker [[person|Neunteufel]] bestätigte die Angaben.
+
+Die Anzeige gegen den Lenker wird nicht erstattet, da der Sachschaden unter der Bagatellgrenze liegt. Die Akten werden am [[date|02.11.2026]] archiviert.
+
 Inspektor [[person|Hannes Pölzl]]
 Streifendienst

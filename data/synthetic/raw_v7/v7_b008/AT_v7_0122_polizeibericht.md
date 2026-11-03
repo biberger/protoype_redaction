@@ -46,4 +46,14 @@ Die Lenkerin des Pkw wurde nach [[location|St. Florian]] verbracht, um dort unte
 
 Die Akten werden am [[date|05.10.2026]] an die Staatsanwaltschaft übermittelt. Die Anzeige nach [[legal_norm|§ 88 StGB]] ist vorbehalten.
 
+Der Transporter wurde nach dem Unfall von der Fahrbahn gezogen. Die Bergung erfolgte durch ein Abschleppunternehmen aus [[location|Bischofshofen]]. Der Lenker [[person|Dobra]] wurde nach der Erstversorgung entlassen. Ein Atemalkoholtest verlief negativ.
+
+Der Zeuge [[person|Baudisch]] gab an, dass der Transporter bereits vor der Kurve stark gebremst habe. Er habe vom Gehsteig aus einen lauten Knall gehört. Die Niederschrift wurde am [[date|02.10.2026]] unterfertigt.
+
+Die Halterin des Pkw, Frau [[person|Gerlinde Moser]], gab an, sie habe das Fahrzeug am Vortag einem Bekannten überlassen. Der Name des Bekannten ist der Behörde bekannt, wird aber aus datenschutzrechtlichen Gründen nicht angeführt.
+
+Die [[organization|Alscher Handels GmbH]] übermittelte am [[date|05.10.2026]] eine Kopie des Dienstvertrages. Die Firma [[organization|Alscher]] bestätigte, dass der Lenker zum Unfallzeitpunkt im Dienst war.
+
+Die Ermittlungen zur Glätte ergaben, dass die [[organization|Straßenmeisterei St. Johann]] am Vorabend nicht gestreut hatte. Eine Anzeige gegen die [[organization|Straßenmeisterei St. Johann]] wird geprüft.
+
 Revierinspektor [[person|Thomas Gruber]]

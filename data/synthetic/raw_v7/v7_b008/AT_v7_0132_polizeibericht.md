@@ -42,4 +42,18 @@ Die Geschädigte wohnt in [[address|3311 Zeillern]]. Die Zeugin [[person|Mühl]]
 
 Der Schaden wurde über das [[court|Bezirksgericht Mödling]] an die Versicherung weitergeleitet. Die Kontoverbindung der Geschädigten lautet [[bank_account|AT92 4476 0268 9660 6205]].
 
+Die Geschädigte [[person|Reinthaler]] gab an, sie sei zum Unfallzeitpunkt auf dem Weg zu einem Arzttermin gewesen. Einen Schmerzengeldanspruch hat sie bisher nicht geltend gemacht.
+
+Die Zeugin [[person|Mühl]] bestätigte die Lage des Lastkraftwagens. Sie habe zudem bemerkt, dass der Lenker kurz ausgestiegen und danach weitergefahren sei.
+
+Der Lenker des Lastkraftwagens, Herr [[person|Dieter Kaltenegger]], ist Angestellter der [[organization|Hellmann Bau GmbH]] und wurde am [[date|31.10.2026]] befragt. Er erklärte, er habe den Pkw im Spiegel nicht gesehen.
+
+Die Baustelle wurde am [[date|02.11.2026]] von der [[organization|Bauaufsicht des Bezirkes Mödling]] besichtigt. Der Befund ergab, dass die Absperrung unvollständig war.
+
+Die [[organization|Hellmann]] hat eine Stellungnahme eingereicht, in der die Mängel eingeräumt werden. Die Stellungnahme wurde am [[date|03.11.2026]] der Akte beigelegt.
+
+Der Lastkraftwagen wird nach Abschluss der Ermittlungen freigegeben. Die Sicherstellungsbescheinigung trägt das Datum [[date|30.10.2026]].
+
+Die Ermittlungen wurden mit dem Bericht der Bauaufsicht an die [[organization|Bezirkshauptmannschaft Mödling]] übermittelt.
+
 Inspektor [[person|Erich Wallner]]

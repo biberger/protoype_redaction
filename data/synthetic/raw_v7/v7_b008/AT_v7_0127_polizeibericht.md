@@ -45,4 +45,16 @@ Die Kontoverbindung der Firma für die Schadensregulierung lautet [[bank_account
 
 Die Halterin des Pkw wohnt in [[address|6782 Silbertal]]. Die Anzeige wird an das [[court|Bezirksgericht Mödling]] / [[court|BG Mödling]] weitergeleitet.
 
+Die Lenkerin des Pkw, [[person|Pfeffer]], gab zu Protokoll, dass sie wegen einer Warnblinkanlage angehalten habe. Die Beifahrerin [[person|Zeininger]] bestätigte dies. Eine Alkomatuntersuchung der Lenkerin ergab einen Wert von 0,00 mg/l.
+
+Die Zeugin [[person|Sabbagh]] legte ein Foto der Unfallstelle vor, das am [[date|22.10.2026]] um 08:12 Uhr aufgenommen wurde. Auf dem Foto ist der Lieferwagen ersichtlich.
+
+Die Amtsärztin [[person|Aigner]] hält in ihrem Befund fest, dass die Zeugin [[person|Koblása]] unter Schmerzen am Knie litt. Eine ambulante Behandlung wurde empfohlen.
+
+Die Firma [[organization|Estermann]] gab am [[date|23.10.2026]] eine Stellungnahme ab. Darin wird vorgebracht, dass der Lenker des Lieferwagens von einer Fahrbahnverengung durch Baustellenfahrzeuge überrascht worden sei. Die Baustelle ist im Lageplan der [[organization|Marktgemeinde Gießhübl]] verzeichnet.
+
+Eine Anfrage an die [[organization|Marktgemeinde Gießhübl]] ergab, dass die Baustellenfreigabe für den [[date|22.10.2026]] erteilt war.
+
+Die Zeugenaussagen wurden in der Reihenfolge ihres Eintreffens aufgenommen. Die Angaben der Zeugin [[person|Koblása]] und der Zeugin [[person|Sabbagh]] weichen in der Zeitangabe um etwa zwei Minuten voneinander ab; dies ist bei Augenzeugen üblich.
+
 Revierinspektorin [[person|Gabriele Reisinger]]

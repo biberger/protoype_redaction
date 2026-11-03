@@ -47,4 +47,12 @@ Datum | Vorgang | Betrag
 
 Die Kontoverbindung des Halters lautet [[bank_account|AT94 7468 9404 7226 7288]]. Die Anzeige wird an das [[court|Bezirksgericht Scheibbs]] übermittelt.
 
+Die Zeugin [[person|Kalcher]] gab an, dass der Lieferwagen mit überhöhter Geschwindigkeit in die [[street|Bahnhofstraße]] eingebogen sei. Sie habe den Pkw vor dem Zusammenstoß bereits um 07:10 Uhr gesehen.
+
+Der Lenker [[person|Haberl]] bestätigte, dass er den Lieferwagen für die [[organization|Scheibbser Bäckerei Hofmann GmbH]] führte. Die Beifahrerin [[person|Meister]] wurde am [[date|28.10.2026]] vernommen; sie gab an, sie habe im Pkw auf ihren Sohn gewartet.
+
+Die Versicherung hat die Schadensmeldung unter der bekannten Nummer bestätigt. Ein Lichtbild des Lieferwagens wurde am [[date|28.10.2026]] gefertigt. Die Schadensermittlung ergab einen Heckschaden und eine beschädigte Stoßstange.
+
+Die Halterin [[person|Klose]] wurde über das Ergebnis informiert und hat keine weiteren Einwände erhoben.
+
 Inspektor [[person|Gerhard Wögerbauer]]

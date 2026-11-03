@@ -49,4 +49,10 @@ Die [[organization|PI]] hat keine weiteren Ermittlungen eingeleitet.
 
 Das Kennzeichen des beschädigten Fahrzeuges ist im Bericht vollständig angegeben.
 
+Der Lieferwagen wurde am [[date|26.10.2026]] in die Werkstatt der [[organization|Stachl]] gebracht. Der Geschäftsführer, Herr [[person|Hosek]], bestätigte den Schaden. Die Kontaktaufnahme mit dem Geschädigten [[person|Landerl]] ergab, dass dieser keine Ansprüche geltend machen will.
+
+Der Halter [[person|Bittmann]] gab den Schaden zu Protokoll. Die Zeugin [[person|Lukácsi]] konnte keine Angaben zur Unfallzeit machen.
+
+Die Schadenssumme beträgt laut Kostenvoranschlag 480,00 EUR. Die Sicherstellung der Fotos wurde am [[date|27.10.2026]] protokolliert.
+
 Inspektor [[person|Martin Hiebl]]

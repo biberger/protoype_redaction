@@ -41,4 +41,14 @@ Die Schadensbewertung der [[organization|GK]] ergab einen Schaden am Kleinbus vo
 
 Die Anzeige wird an das [[court|Bezirksgericht Döbling]] übermittelt.
 
+Der Radfahrerin [[person|Willner]] wurde ein Helm abgenommen; der Helm wies einen Riss auf. Die Radfahrerin gab an, sie sei auf dem Radweg unterwegs gewesen.
+
+Der Lenker [[person|Marian]] erklärte, dass er vor der Kreuzung angehalten habe, dann jedoch wegen eines Kindes am Gehsteig weitergefahren sei. Er bedauere den Vorfall.
+
+Der Zeuge [[person|Arnold]] ist Angestellter der [[organization|Grüner KG]] und hat die Angaben des Lenkers bestätigt. Eine Befragung am [[date|27.10.2026]] ergab keine weiteren Erkenntnisse.
+
+Eine Auskunft der [[organization|Stadt Wien]] zur Verkehrsführung wurde angefordert. Die Antwort wird am [[date|06.11.2026]] erwartet. Ein Lichtbild der Kreuzung ist beigelegt.
+
+Die Akte wird nach Vorliegen der Auskunft an die [[organization|Staatsanwaltschaft Wien]] übermittelt. Das Verfahren ist derzeit gegen unbekannte Lenker geführt.
+
 Inspektor [[person|Helmut Pichler]]

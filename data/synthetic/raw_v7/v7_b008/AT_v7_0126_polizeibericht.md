@@ -40,4 +40,14 @@ Die Schadenssumme wird auf 2.900,00 EUR geschätzt. Die Zahlung ist auf das Kont
 
 Die Ermittlungen zum Halter laufen über das [[court|Bezirksgericht Wels]]. Die Anzeige wird am [[date|02.11.2026]] an die Staatsanwaltschaft übermittelt.
 
+Der Lenker des flüchtigen Fahrzeuges konnte anhand einer Dashcam-Aufnahme teilweise identifiziert werden. Die Aufnahme zeigt einen weißen Transporter mit dem Kennzeichen [[license_plate|W-49172L]]. Das Fahrzeug ist auf die [[organization|Wölfl Transporte GmbH]] zugelassen; die Halterdaten wurden am [[date|29.10.2026]] bestätigt.
+
+Der Geschäftsführer [[person|Wölfl]] wurde am [[date|30.10.2026]] zu einer freiwilligen Befragung geladen. Er erklärte, der Transporter sei am Unfalltag an einen Subunternehmer übergeben worden. Den Namen des Subunternehmers konnte er nicht angeben, da die Unterlagen in einer externen Buchhaltung liegen.
+
+Die Zeugin [[person|Kelsen]] erkannte in einer Lichtbildvorlage den Transporter wieder. Sie gab an, dass der Lenker eine Mütze getragen habe. [[person|Eleonore Dr. Schneider]] bestätigte den Zeitablauf.
+
+Die Versicherung hat die Schadensmeldung um einen Auszug aus dem Fahrtenbuch ergänzt. Das Fahrtenbuch verzeichnet für den [[date|27.10.2026]] eine Fahrt nach [[location|Linz]] ohne Ankunftszeit.
+
+Ein Gutachten zu den Lackspuren wurde beim [[organization|Landeskriminalamt Oberösterreich]] angefordert. Das Ergebnis liegt noch nicht vor.
+
 Revierinspektor [[person|Gerald Ortner]]

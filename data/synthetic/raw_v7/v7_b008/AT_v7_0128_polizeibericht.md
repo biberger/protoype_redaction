@@ -46,4 +46,10 @@ Die Kontoverbindung für die Schadensauszahlung lautet [[bank_account|AT79 7687 
 
 Die Anzeige wird an das [[court|Bezirksgericht Ried im Innkreis]] übermittelt.
 
+Der Lenker [[person|Czerny]] wurde am [[date|25.10.2026]] vorläufig angehalten und einer Atemalkoholkontrolle unterzogen; das Ergebnis war negativ. Die Niederschrift wurde in deutscher Sprache aufgenommen, ein Dolmetscher war nicht erforderlich.
+
+Der Zeuge [[person|Kos]] gab am [[date|26.10.2026]] eine schriftliche Stellungnahme ab. Er bleibt bei seiner Aussage, dass der Pkw des Herrn [[person|Czerny]] auf der Gegenfahrbahn fuhr. Der Lageplan der [[organization|Stadtgemeinde Ried im Innkreis]] wurde beigeschlossen.
+
+Die Vorlage des Führerscheins von [[person|Kos]] erfolgte am [[date|27.10.2026]]. Der Führerschein Nr. [[id_document_number|61685291]] wurde nicht beanstandet.
+
 Inspektor [[person|Johann Mayrhofer]]
