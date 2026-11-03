@@ -78,6 +78,8 @@ VI. Stellungnahmen der Erben
 
 12. Die Kosten der Verlassenschaftsabhandlung werden vorrangig aus dem Bankguthaben gedeckt. Ein Rest der Kosten ist von den Erben nach dem Verhältnis ihrer Quoten zu tragen, soweit er nicht aus dem Erlös der Fahrnisse beglichen werden kann.
 
+13. Die Erbin [[person|Nadezhda Burgstaller]] hat zugesichert, die Kosten der Versiegelung und der Schätzung aus eigenen Mitteln vorzuschießen, um die Verlassenschaft zügig abzuschließen.
+
 VII. Weiterer Verfahrensgang
 
 Die erbantrittserklärten Personen werden aufgefordert, binnen vier Wochen die Erbschaftssteuer-Erklärung und die Unterlagen über das Nachlassvermögen vorzulegen. Der Notar wird nach Einlangen der Unterlagen das Nachlassinventar erstellen und den Antrag auf Einantwortung stellen. Die [[court|BG Hietzing]] hat die Verlassenschaft mit dem Beschluss vom [[date|14. Oktober 2026]] der Abhandlung zugewiesen.

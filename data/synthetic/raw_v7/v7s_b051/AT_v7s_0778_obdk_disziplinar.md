@@ -90,6 +90,10 @@ Datum | Vorgang | Betrag | Klient | Treuhandnr.
 
 3.7. Die Beschuldigte hat im Verfahren ein Geständnis abgelegt, das zu ihren Gunsten gewertet wird, auch wenn es erst in der Verhandlung erfolgte. Die Verwendung der Mittel des Treuhandkontos zu eigenen Zwecken ist ein besonders schwerer Verstoß, weil das Vertrauen der Mandanten in die Verwahrung der Gelder betroffen ist. Der Senat hat deshalb von einem Verbot der Berufsausübung abgesehen, weil die Beschuldigte nach Angaben der Kammer in der Vergangenheit keine Beanstandungen hatte.
 
+3.8. Die Beschuldigte hat in ihrer Stellungnahme vorgebracht, sie sei seit Jahren als Anwältin tätig und habe sich bisher stets an die Standesregeln gehalten. Der Senat erkennt dies an, sieht darin aber keinen Grund, von einer Sanktion abzusehen, weil die Pflichten zur Verwahrung fremder Gelder gerade in der Verantwortung des einzelnen Rechtsanwalts liegen.
+
+3.9. Der Senat hat auch die Interessen der Mandanten an einer raschen Abwicklung gewürdigt. Gerade bei Treuhandgeldern ist eine zeitnahe Auszahlung ein wesentlicher Bestandteil der Dienstleistung. Die Verzögerung wiegt daher schwerer als eine bloße Formverletzung.
+
 4. Strafbemessung
 
 Die Geldbuße wurde unter Berücksichtigung der Unbescholtenheit der Beschuldigten und der Schadenswiedergutmachung auf EUR 3.000,00 festgesetzt. Erschwerend wirkt die Zahl von zwei Fällen. Die Verhängung eines Berufsverbotes war nicht erforderlich.
@@ -103,6 +107,8 @@ Die Kosten des Verfahrens werden nach [[legal_norm|§ 66 DSt]] bestimmt. Gegen d
 6. Kosten des Verfahrens
 
 Die Kosten des Verfahrens betragen EUR 1.150,00 und setzen sich aus den Pauschalgebühren, den Reisekosten der Mitglieder des Senats und den Kosten der Schriftführung zusammen. Die Kostenbestimmung erfolgt in dem Umfang, in dem die Beschuldigte mit ihrem Vorbringen unterlegen ist. Die Kammeranwältin [[person|Teodora Siniscalchi]] hat einen Kostenantrag gestellt, dem der Senat teilweise gefolgt ist.
+
+Die Kammeranwältin hat ihre Anträge im Schlussvortrag präzisiert, und der Senat hat diesen Präzisierungen entsprochen. Die Beschuldigte konnte im Verfahren Akteneinsicht nehmen und hat davon Gebrauch gemacht.
 
 7. Schlussbemerkung
 

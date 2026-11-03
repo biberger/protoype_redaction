@@ -122,7 +122,8 @@ Die Beklagte hat diesen Vorschlag mit Schreiben vom [[date|14.10.2025]] ohne Geg
 Die Heilungskosten sind durch die Rechnungen des Krankenhauses belegt. Die Physiotherapie wurde an insgesamt
 vierzehn Terminen in Anspruch genommen; die Befunde sind dieser Klage in Kopie beigelegt. Der Kläger ist seit
 dem [[date|01.10.2025]] wieder arbeitsfähig, leidet jedoch nach den ärztlichen Angaben weiterhin an eingeschränkter
-Beweglichkeit des rechten Armes. Ein Feststellungsbegehren für künftige Schäden wird daher vorbehalten.
+Beweglichkeit des rechten Armes. Ein Feststellungsbegehren für künftige Schäden wird daher vorbehalten, sofern die Beschwerden über das Jahr 2026
+hinaus andauern.
 
 Die Kosten des Verfahrens sind nach dem Streitwert zu bemessen. Der Kläger ersucht, die Beklagte und die
 Streitverkündete zur ungeteilten Hand zum Kostenersatz zu verpflichten. Die Kosten der Streitverkündung trägt die

@@ -75,4 +75,6 @@ Tel. [[phone_number|+43 512 878 36 39 Durchwahl 63]]
 
 Die Beklagte hat über ihre Steuerberaterin erklärt, die Forderung sei verjährt. Diese Auffassung ist unzutreffend, weil die Verjährungsfrist nach [[legal_norm|§ 1486 ABGB]] mit der letzten Mahnung neu zu laufen begann und die Teilzahlung vom [[date|20.07.2025]] einen Anerkenntnischarakter hatte. [[person|Neyer]] hat die Teilzahlung ausdrücklich als Abschlagszahlung bezeichnet.
 
+Die Beklagte hat ferner nicht dargelegt, weshalb sie die Ware nach Erhalt nicht innerhalb der Frist des Kaufvertrages beanstandet hat. Der Kläger hält daher an seinem Begehren vollinhaltlich fest.
+
 Sollte das Gericht weitere Angaben benötigen, wird um Mitteilung über ERV ersucht.

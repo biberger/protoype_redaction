@@ -84,6 +84,20 @@ VIII. Schlussbestimmungen
 
 Der Käufer bestätigt, dass er die Wohnung und das Haus besichtigt hat. Die Verkäufer erklären, dass keine Mietverträge bestehen.
 
+IX. Finanzierung
+
+Der Käufer hat dem Verkäufer die Finanzierung des Kaufpreises durch ein Darlehen der [[organization|Raiffeisenbank Piesendorf]] nachgewiesen. Die Auszahlung des Darlehens erfolgt nach der Eintragung des Pfandrechts zugunsten dieses Kreditinstituts. Die Verkäufer stimmen zu, dass die Löschung ihres eigenen Pfandrechts gleichzeitig mit der Eintragung des Kreditinstituts vorgenommen wird.
+
+Die Kosten für die Pfandrechtseintragung trägt der Käufer. Das Kreditinstitut hat eine Bestätigung über die Bereitstellung der Mittel vom [[date|09.10.2026]] ausgestellt; diese Bestätigung liegt der Kanzlei vor.
+
+X. Anhang
+
+Der Anhang umfasst die folgenden Unterlagen:
+a) Verzeichnis der Einrichtungsgegenstände, die im Haus verbleiben,
+b) Prüfprotokoll der Heizungsanlage vom [[date|14.10.2026]],
+c) Auszug aus dem Treuhandbuch der Kanzlei, Nummer [[other_identifier|2026/916]],
+d) Abschrift des Grundbuchsauszuges zur [[land_register_id|EZ: 737]].
+
 Die Unterschriften der Parteien:
 
 [[person|Anina Hörmann]]

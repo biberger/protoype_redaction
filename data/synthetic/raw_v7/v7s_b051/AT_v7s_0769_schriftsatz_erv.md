@@ -114,6 +114,8 @@ IV. Kosten
 
 Die klagende Partei beantragt den Ersatz der Pauschalgebühren und der Kosten der Rechtsverfolgung nach den Bestimmungen der [[legal_norm|ZPO]]. Die Vertretung durch die Rechtsanwälte OG [[organization|Stöckl, Glantschnig]] ist nach den Tarifen zu honorieren.
 
+13. Die Klägerin behält sich vor, den Streitwert nach Vorliegen des Gutachtens zu erweitern, insbesondere hinsichtlich der Kosten für die Sanierung des Stiegenhauses im Bereich des Gehsteigs.
+
 V. Anträge
 
 Die klagende Partei stellt daher den Antrag,

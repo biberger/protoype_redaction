@@ -59,6 +59,8 @@ Die Kammeranwältin hat in ihrem Schlussvortrag darauf hingewiesen, dass die Ver
 
 Der Senat hat bei der Bemessung der Geldbuße die wirtschaftlichen Verhältnisse des Beschuldigten berücksichtigt. Die verhängte Geldbuße liegt im unteren Bereich des Strafrahmens, weil der Beschuldigte den entnommenen Betrag zurückerstattet hat.
 
+3.6. Die Beschuldigte hat den Vorwurf der Veruntreuung ausdrücklich zurückgewiesen. Der Senat stellt klar, dass es im Disziplinarverfahren nicht um eine strafrechtliche Schuld geht, sondern um die Verletzung der standesrechtlichen Pflichten.
+
 Die Zustellung dieses Erkenntnisses erfolgt an den Beschuldigten und an die [[court|OBDK]], soweit eine Berufung erhoben wird.
 
 [[location|Wien]], am [[date|14. Oktober 2026]]

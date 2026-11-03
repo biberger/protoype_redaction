@@ -76,6 +76,10 @@ Datum | Vorgang | Betrag | Mandant | Treuhandnr.
 
 3.7. Die Verletzung der Pflicht zur Abrechnung steht in unmittelbarem Zusammenhang mit der Verletzung der Pflicht zur getrennten Verwahrung. Beide Pflichten dienen dem Schutz der Mandanten und sind daher als einheitlicher Verstoß zu würdigen.
 
+3.8. Der Senat hat berücksichtigt, dass die Beschuldigte die Treuhandgelder nicht zu eigenen Zwecken verwendet, sondern nur verspätet ausbezahlt hat. Diese Unterscheidung ist für die Strafzumessung von Bedeutung, weil sie den Unrechtsgehalt der Tat mindert, aber nicht beseitigt.
+
+3.9. Die Kammeranwältin hat in der Verhandlung eine Geldbuße im Höchstausmaß beantragt. Der Senat ist diesem Antrag nicht gefolgt, weil die Beschuldigte bisher nicht auffällig war und an der Aufklärung mitgewirkt hat.
+
 4. Strafbemessung
 
 Die Geldbuße berücksichtigt die Zahl der Verstöße und die Dauer der Verzögerung. Mildernd war, dass die Beschuldigte die Verfehlungen teilweise einräumte. Ein Berufsverbot wurde nicht verhängt.
@@ -89,6 +93,8 @@ Die Verhandlung wurde durch den Schriftführer [[person|Dumitru Procopie]] proto
 6. Verfahrensdauer und Anhörung
 
 Das Verfahren dauerte von der Anzeige bis zur Entscheidung rund ein Jahr. Die Verzögerung ist teilweise auf die Erkrankung der Kammeranwältin und auf die Beischaffung der Kontoauszüge zurückzuführen. Der Senat hat die Beschuldigte und die Anzeigenden angehört, wobei [[person|Leies Koenig]] die Verzögerung als besonders belastend geschildert hat.
+
+Die Anzeigenden haben in ihren Stellungnahmen übereinstimmend erklärt, dass sie an einer raschen Erledigung interessiert sind und keine weiteren Ansprüche gegen die Beschuldigte geltend machen werden, soweit die Beträge zurückbezahlt sind.
 
 7. Kostenentscheidung
 

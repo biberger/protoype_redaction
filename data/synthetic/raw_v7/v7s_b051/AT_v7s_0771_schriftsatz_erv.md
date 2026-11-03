@@ -81,6 +81,8 @@ III. Rechtliche Ausführungen
 
 10. Die Beklagte hat die Schadensmeldung der Klägerin mit Schreiben vom [[date|12. Februar 2026]] zwar bestätigt, aber jede Haftung abgelehnt. Die Ablehnung wurde ohne Begründung ausgesprochen und ist daher für die Zwecke der Klage unbeachtlich.
 
+11. Die Klägerin begehrt zudem die Feststellung der Haftung für künftige Schäden, soweit sich der Mangel im Stiegenhaus fortsetzt. Ein rechtliches Interesse daran besteht, weil die Reparatur bisher nicht erfolgt ist.
+
 IV. Kosten
 
 Die Kosten des Verfahrens werden nach den Bestimmungen der [[legal_norm|ZPO]] geltend gemacht.

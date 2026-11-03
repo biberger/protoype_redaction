@@ -58,7 +58,8 @@ Die Reparaturkosten belaufen sich laut Kostenvoranschlag auf EUR 4.380,00 netto.
 diesen Betrag bis zum [[date|20.11.2026]] an unseren Mandanten zu überweisen. Die Zahlung ist auf das
 Konto [[bank_account|AT69 9962 4012 1566 3197]] zu leisten.
 
-Wir gehen davon aus, dass die Angelegenheit ohne gerichtliche Schritte bereinigt werden kann. Sollte Ihre Versicherung die Deckung weiterhin verweigern, bitten wir um eine schriftliche Begründung mit Angabe
+Wir gehen davon aus, dass die Angelegenheit ohne gerichtliche Schritte bereinigt werden kann, und ersuchen um
+rasche Rückmeldung. Sollte Ihre Versicherung die Deckung weiterhin verweigern, bitten wir um eine schriftliche Begründung mit Angabe
 des Prüfergebnisses, damit wir unserem Mandanten die weitere Vorgehensweise erläutern können. Eine Abschrift dieses
 Schreibens geht an die Schadenabteilung der [[organization|Wall KG]] und an unseren Mandanten [[person|Orel Bauer]].
 

@@ -82,7 +82,8 @@ wurde von einem beeideten Sachverständigen geschätzt; der Wert liegt bei EUR 1
 
 Die Erblasserin hatte ein Konto bei einer kroatischen Bank, das nach den Angaben der Erbin [[person|Tuba]] seit dem
 Jahr 2019 nicht mehr genutzt wurde. Eine Auskunft der Bank wurde angefordert; die Antwort ist noch ausständig.
-Der Notar hat die Erben darauf hingewiesen, dass allfällige Guthaben in die Verlassenschaft fallen.
+Der Notar hat die Erben darauf hingewiesen, dass allfällige Guthaben in die Verlassenschaft fallen und vor der
+Einantwortung nicht verteilt werden dürfen.
 
 Die Erbin [[person|Faludy]] hat die Mietverträge für die Wohnung im Obergeschoss vorgelegt. Die Mieter
 bestätigten den Mietzins zum Stichtag; Rückstände bestehen keine.

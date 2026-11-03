@@ -87,7 +87,7 @@ Betreff: AW: AW: Zahlungsrückstand Lieferung Juli
 
 Sehr geehrte Frau [[person|Mag. Dr. Sager]],
 
-die Gutschrift über EUR 4.210,00 ist heute auf dem Konto der [[organization|Staal]] eingegangen. Die Buchungsbestätigung haben wir an die Kanzlei übermittelt. Ich bitte um Rückmeldung, falls noch Fragen bestehen.
+die Gutschrift über EUR 4.210,00 ist heute auf dem Konto der [[organization|Staal]] eingegangen. Die Buchungsbestätigung haben wir an die Kanzlei übermittelt. Der Verwendungszweck lautet wie vereinbart „Lieferung Juli“. Ich bitte um Rückmeldung, falls noch Fragen bestehen.
 
 Mit freundlichen Grüßen
 [[person|Valerien Dusl]]

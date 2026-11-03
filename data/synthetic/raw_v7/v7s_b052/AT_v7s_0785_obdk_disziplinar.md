@@ -142,6 +142,10 @@ Stellungnahme hingewiesen.
 
 V. Strafbemessung
 
+Der Senat hat die Stellungnahme der Gesellschaft, die im Verfahren als Zeugin und nicht als Partei auftrat, sorgfältig
+geprüft. Ihre Geschäftsführer haben bestätigt, dass die Abrechnung des Lieferanten bis zum Ende des Jahres 2021 nicht
+vorlag, weshalb eine Auszahlung aus ihrer Sicht nicht vertretbar war.
+
 Der Senat hat den Strafrahmen des [[legal_norm|§ 45 RAO]] ausgeschöpft, soweit es die Schwere der Verzögerung
 erfordert. Er hat dabei berücksichtigt, dass die Verstöße über einen Zeitraum von mehr als drei Jahren
 hinweg begangen wurden und dass mehrere Mandanten betroffen waren. Er hat sich dabei an früheren Entscheidungen des Disziplinarrates orientiert, in denen Verzögerungen

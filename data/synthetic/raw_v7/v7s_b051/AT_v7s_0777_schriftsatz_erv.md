@@ -68,6 +68,8 @@ RECHTLICHE AUSFÜHRUNGEN
 
 Die Klägerin ist zudem bereit, der Beklagten eine Räumungsfrist bis zum [[date|31. Dezember 2026]] einzuräumen, sofern die Beklagte die Wohnung bis dahin freiwillig herausgibt. Ein Vergleich in diesem Sinne wurde der Beklagten angeboten, aber nicht angenommen.
 
+Die Beklagte hat die Zahlung des Mietzinses inzwischen auf ein Treuhandkonto ihrer Rechtsvertretung umgestellt, was die Klägerin jedoch nicht anerkennt.
+
 5. Die Klägerin stellt den Antrag, das Gericht möge dem Klagebegehren stattgeben und die Kosten dem Beklagten auferlegen.
 
 [[location|Steyr]], am [[date|27.10.2026]]

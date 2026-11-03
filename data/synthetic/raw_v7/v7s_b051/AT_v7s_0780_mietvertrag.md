@@ -71,6 +71,8 @@ Die Mieter erlegen eine Kaution in Höhe von drei Bruttomonatsmieten. Die Kautio
 
 (2) Die Vorauszahlung für Betriebskosten beträgt EUR 210,00 monatlich für die Wohnung und EUR 340,00 für das Geschäftslokal.
 
+(3) Der Mieter hat Einsicht in die Belege zu nehmen, die der Abrechnung zugrunde liegen. Die Einsichtnahme ist nach vorheriger Terminvereinbarung zu gewähren.
+
 § 6 Schlussbestimmungen
 
 (1) Dieser Vertrag unterliegt dem [[legal_norm|MRG]], soweit er auf die Wohnung anwendbar ist, im Übrigen dem [[legal_norm|ABGB]].

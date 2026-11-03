@@ -70,6 +70,18 @@ Ein Vorvertrag zwischen den Parteien bestand nicht. Die Kanzlei wurde am [[date|
 
 Die Käuferin hat in einem Schreiben vom [[date|05.09.2026]] bestätigt, dass sie die Lage der Liegenschaft, das Ortsbild und die Zufahrt zur Straße ohne Vorbehalte akzeptiert.
 
+VI b. Baurechtliche Angaben
+
+Der Verkäufer erklärt, dass für das Wohngebäude eine Baubewilligung aus dem Jahr 1978 vorliegt. Die im Jahr 2009 durchgeführte Erweiterung des Dachgeschosses wurde nach den Angaben des Verkäufers ohne Baubewilligung ausgeführt. Der Verkäufer hat die Nachreichung der Bewilligung bei der Gemeinde beantragt; ein Bescheid liegt noch nicht vor.
+
+Die Käuferin nimmt zur Kenntnis, dass die Gemeinde die nachträgliche Genehmigung des Dachgeschosses verweigern könnte. In diesem Fall hat der Verkäufer keinen Anspruch auf Rückübertragung oder Ersatz der Kaufpreiszahlung, sofern er den Mangel nicht arglistig verschwiegen hat. Die Parteien vereinbaren eine Kaufpreisminderung von EUR 4.500,00 für den Fall, dass die Genehmigung nicht bis zur Übergabe vorliegt.
+
+VI c. Datenschutz und Mitteilungen
+
+Die Parteien stimmen zu, dass ihre personenbezogenen Daten zum Zweck der Abwicklung dieses Vertrages an das Grundbuch, das Finanzamt und die Gemeinde übermittelt werden. Die Kanzlei verpflichtet sich zur vertraulichen Behandlung aller Unterlagen. Die Käuferin erteilt der Kanzlei die Zustimmung, ihre Kontaktdaten zur Kommunikation mit dem Kreditinstitut zu verwenden.
+
+Mitteilungen im Zusammenhang mit diesem Vertrag sind schriftlich an die Kanzlei zu richten oder per Telefax an die Durchwahl zu übermitteln. E-Mail-Mitteilungen sind nur wirksam, wenn sie vom Empfänger bestätigt werden.
+
 VII. Schlussbestimmungen
 
 Dieser Vertrag bedarf zu seiner Gültigkeit der Schriftform. Nebenabreden bestehen nicht. Die Parteien erklären, dass die Vertragsbestimmungen nach eingehender Belehrung durch die Kanzlei verstanden wurden.

@@ -26,6 +26,8 @@ kann in der nächsten Honorarnote berücksichtigt werden.
 Ich bitte Sie außerdem, den Termin mit dem Gegenanwalt [[person|Gady]] für die Woche nach dem [[date|09.11.2026]]
 zu vereinbaren, sofern Sie bis dahin keine Rückmeldung von Ihrer Mandantin haben.
 
+Ich danke Ihnen für Ihre Unterstützung in dieser Angelegenheit und freue mich auf Ihre Rückmeldung.
+
 Mit freundlichen Grüßen
 
 Rechtsanwälte OG
