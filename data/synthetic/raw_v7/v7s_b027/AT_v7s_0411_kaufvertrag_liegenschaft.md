@@ -91,6 +91,8 @@ VII. Ergänzende Bestimmungen
 
 22. Die Käuferinnen erklären, dass sie den Kaufpreis aus eigenen Mitteln und aus einem Darlehen aufbringen. Die Finanzierung ist nicht Bedingung dieses Vertrages; die Käuferinnen tragen das Risiko der Finanzierung allein.
 
+23. Änderungen der Kaufpreisraten bedürfen der schriftlichen Zustimmung aller Vertragsparteien. Eine Stundung der zweiten Rate ist nur gegen Hinterlegung einer Bankgarantie zulässig, die die Verkäufer vorab anzunehmen haben.
+
 [[location|Polling im Innkreis]], am [[date|14.01.2026]]
 
 Verkäuferin: [[person|Sija Kirova]]

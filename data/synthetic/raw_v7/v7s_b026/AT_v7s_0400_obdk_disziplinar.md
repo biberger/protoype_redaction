@@ -35,7 +35,7 @@ Datum | Vorgang | Betrag | Bezug
 
 5b. Der Geschäftsführer der [[organization|Amon KG]], [[person|Rupert Sommeregger]], erklärte als Zeuge, die Gesellschaft habe von der Beschuldigten im Juli 2022 einen Auftrag zur Überprüfung einer Forderung erhalten. Die Forderung sei jedoch nie gegen die Klientin gerichtet gewesen. Die Zahlung vom [[date|18. August 2022]] sei eine Vorauszahlung für diese Prüfung gewesen. Der Zeuge legte dazu keine Rechnung vor.
 
-5c. Die Kammeranwältin [[person|Dr. Perette Gattringer]] stellte fest, dass die Beschuldigte in der Treuhandbuchführung zwei Beträge mit dem Vermerk „Vergleich“ versehen habe, obwohl kein schriftlicher Vergleich vorlag. Der Senat folgt dieser Feststellung.
+5c. Die Kammeranwältin [[person|Dr. Perette Gattringer]] stellte fest, dass die Beschuldigte in der Treuhandbuchführung zwei Beträge mit dem Vermerk „Vergleich“ versehen habe, obwohl kein schriftlicher Vergleich vorlag. Der Senat folgt dieser Feststellung. Das Vergleichsprotokoll vom [[date|2. Mai 2022]] wurde trotz Aufforderung nicht vorgelegt.
 
 5d. Die Beschuldigte hat die Verwendung der Gelder in der Verhandlung nicht näher erläutert. Sie berief sich auf ihr Berufsgeheimnis, soweit es um die Forderung der [[organization|Amon KG]] ging, und verwies im Übrigen auf die Honorarnote vom [[date|30. April 2023]].
 
@@ -54,6 +54,10 @@ Rechtliche Beurteilung
 11. Die Beschuldigte hat gegen die Geldbuße keine Berufung erhoben. Der Spruch wird rechtskräftig, sobald die Zustellung erfolgt ist.
 
 12. Der Senat weist darauf hin, dass die Verwendung von Treuhandgeldern zur Begleichung von Forderungen Dritter künftig zu einer strengeren Beurteilung führen wird. Die Beschuldigte wurde über diese Rechtsfolge belehrt.
+
+13. Der Senat hat geprüft, ob die Beschuldigte zur Verschwiegenheit gegenüber der Klientin verpflichtet war. Dies ist zu verneinen, weil die Klientin die Auskunft über die Verwendung der Gelder ausdrücklich verlangt hatte.
+
+14. Die Kosten des Verfahrens trägt die Beschuldigte. Eine Entlastung wegen des vorgelegten Honorarvertrags ist nicht möglich, weil dieser Vertrag keine Zahlung an Dritte vorsieht.
 
 [[location|Graz]], am [[date|17. Oktober 2026]]
 

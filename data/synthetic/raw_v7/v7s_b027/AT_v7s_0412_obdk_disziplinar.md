@@ -78,9 +78,13 @@ IV/2. Beweiswürdigung und Verjährung
 
 15. Mildernd wirkt, dass die Beschuldigte die Mittel nach der Anzeige in voller Höhe an den Mandanten zurückgeführt hat und dass sie den Vorwurf der Bereicherung nicht erhoben hat. Die Geldbuße von EUR 3.000,00 erscheint vor diesem Hintergrund als angemessen.
 
+16. Die Verteidigung hat in der Verhandlung auf die lange Dauer des Verfahrens hingewiesen. Der Senat erkennt an, dass die Verfahrensdauer nicht allein der Beschuldigten zuzurechnen ist, weil die Bankauskunft erst nach mehreren Monaten vorlag.
+
+17. Die Beschuldigte hat sich in ihrer letzten Stellungnahme vom [[date|02.06.2025]] bereit erklärt, die Kanzleikonten künftig durch eine externe Buchhaltung prüfen zu lassen. Dieses Angebot hat der Senat bei der Festsetzung der Geldbuße berücksichtigt.
+
 V. Kosten
 
-16. Die Kosten des Verfahrens werden der Beschuldigten auferlegt. Die Entscheidung ergeht an den Kammeranwalt [[person|DI Rudolf Andel]], an die Beschuldigte [[lawyer|Nelly Brandt]] und an den Mandanten [[person|Sermet Conker]].
+18. Die Kosten des Verfahrens werden der Beschuldigten auferlegt. Die Entscheidung ergeht an den Kammeranwalt [[person|DI Rudolf Andel]], an die Beschuldigte [[lawyer|Nelly Brandt]] und an den Mandanten [[person|Sermet Conker]].
 
 [[location|Graz]], am [[date|23.06.2025]]
 

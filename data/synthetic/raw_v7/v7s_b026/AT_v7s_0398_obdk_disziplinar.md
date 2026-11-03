@@ -51,6 +51,10 @@ Datum | Vorgang | Betrag | Verlassenschaft
 
 6e. In der Verhandlung am [[date|8. September 2026]] erklärte die Beschuldigte, sie sei seit dem Jahr 2024 nicht mehr für Verlassenschaften tätig. Diese Erklärung nimmt der Senat zur Kenntnis.
 
+6f. Das [[court|Bezirksgericht Mödling]] hat als Verlassenschaftsgericht mit Beschluss vom [[date|11. November 2021]] den Erben die Einantwortung erteilt. Die Liegenschaft war zum Zeitpunkt des Kaufvertrags noch im Eigentum der Verlassenschaft und ist im Grundbuch als [[land_register_id|EZ 318]] [[land_register_id|KG 04301 Mödling]] eingetragen. Der Verkauf erfolgte vor der Einantwortung daher nur mit Zustimmung des Gerichtskommissärs, die nach dem Vorbringen der Beschuldigten vorlag.
+
+6g. Die Erben haben in der Berufungsverhandlung klargestellt, dass sie der Beschuldigten keine Vollmacht zur Verrechnung von Honoraren aus dem Treuhandkonto erteilt haben. Ein Vorschuss für das Honorar der Beschuldigten war nach diesen Angaben nie vereinbart.
+
 Rechtliche Beurteilung
 
 7. Nach [[legal_norm|§ 43a Abs 5 RAO]] hat der Rechtsanwalt die ihm anvertrauten Gelder getrennt vom eigenen Vermögen zu halten. Die Überweisung vom [[date|12. Juli 2021]] auf ein Girokonto der Kanzlei verstößt gegen diese Pflicht, unabhängig davon, ob später eine Darlehensforderung bestanden hätte. Eine Darlehensforderung gegen die Verlassenschaft wäre nur über das Verlassenschaftsgericht geltend zu machen gewesen.
@@ -64,6 +68,8 @@ Rechtliche Beurteilung
 11. Die Beschuldigte hat die Kosten des Verfahrens vor dem Disziplinarrat zu tragen. Die Kosten des Berufungsverfahrens treffen die Beschuldigte im Umfang von einem Drittel, weil sie mit ihrer Berufung nur teilweise durchgedrungen ist.
 
 12. Die Berufung der Beschuldigten gegen die Verhältnismäßigkeit der Strafe ist teilweise begründet. Der Entzug der Berufsberechtigung ist nicht mehr verhältnismäßig, nachdem die Beschuldigte den Betrag von EUR 60.000,00 vollständig zurückgezahlt hat. Der Senat hat dabei berücksichtigt, dass die Verlassenschaft nach [[person|Heinrich Gründler]] durch die Zahlung nicht geschädigt wurde.
+
+12a. Die Geldbuße ist binnen vier Wochen nach Rechtskraft zu bezahlen. Die [[organization|RAK NÖ]] wird die Einhaltung der Auflagen überprüfen und dem Senat berichten.
 
 13. Die Anordnung der Schulung im Treuhandwesen ist innerhalb von sechs Monaten nachzuweisen. Der Nachweis ist gegenüber der [[organization|RAK NÖ]] zu erbringen, die das Ergebnis dem Senat mitteilt.
 

@@ -58,7 +58,7 @@ Die zuständige Kollegin [[person|Margot Hajek]] steht für die Abwicklung der Z
 Mit freundlichen Grüßen
 
 [[lawyer|Dr. Weiß]]
-Rechtsanwalt
+Rechtsanwalt und Partner
 
 Beilagen: Sachverständigengutachten vom [[date|16. Oktober 2026]] (Kopie), Lohnabrechnungen (Kopien), Mietvertrag (Kopie)
 

@@ -87,7 +87,7 @@ Bei der Bemessung der Geldbuße waren als mildernd zu berücksichtigen, dass die
 
 Der Senat hat außerdem berücksichtigt, dass die Beschuldigte seit dem [[date|1. Oktober 2025]] keine Anderkonten mehr führt, nachdem sie diese auf Anordnung des Kammervorstandes geschlossen hat. Die Dauer der Entziehung wird auf die Zeit dieser Anordnung angerechnet.
 
-Die Geldbuße wurde unter Berücksichtigung der wirtschaftlichen Verhältnisse der Beschuldigten bemessen. Eine bedingte Nachsicht kam nicht in Betracht, weil die Beschuldigte die Verantwortung nur teilweise übernommen hat.
+Die Geldbuße wurde unter Berücksichtigung der wirtschaftlichen Verhältnisse der Beschuldigten bemessen. Die Beschuldigte hat den Betrag der Honorare nicht bestritten, sondern lediglich den Zeitpunkt der Entnahme in Abrede gestellt. Eine bedingte Nachsicht kam nicht in Betracht, weil die Beschuldigte die Verantwortung nur teilweise übernommen hat.
 
 **Kosten**
 

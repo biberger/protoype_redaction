@@ -29,7 +29,7 @@ Der [[court|Disziplinarrat der Steiermärkischen Rechtsanwaltskammer]] hat die B
 
 Die [[organization|Österreichische Rechtsanwaltskammertag]] ([[organization|ÖRAK]]) hat die Akten im Rahmen der Berichtspflicht übermittelt. Die [[organization|ÖRAK]] hat dazu keine eigenen Anträge gestellt.
 
-Die Berufung wurde in der Verhandlung vom [[date|16.09.2026]] erörtert. Die Beschuldigte hat dort erklärt, sie habe den Restbetrag erst nach einer schriftlichen Nachfrage der Hausverwaltung vom [[date|10.01.2024]] ausgezahlt. Das Schreiben der Hausverwaltung trägt die Aktenzahl der Verwaltung und wurde dem Senat vorgelegt. Der Kammeranwalt hat die Auffassung vertreten, dass die Zahlungsaufforderung schon im Herbst 2023 erfolgte und die Beschuldigte daher bereits damals hätte auszahlen müssen.
+Die Berufung wurde in der Verhandlung vom [[date|16.09.2026]] erörtert. Die Beschuldigte hat dort erklärt, sie habe den Restbetrag erst nach einer schriftlichen Nachfrage der Hausverwaltung vom [[date|10.01.2024]] ausgezahlt. Das Schreiben der Hausverwaltung trägt die Aktenzahl der Verwaltung und wurde dem Senat vorgelegt. Die Kammeranwältin [[person|Mag. Herwiga Kerber]] hat in der Verhandlung ergänzend ausgeführt, dass die Beschuldigte die Berufung auch auf das Ausmaß der Strafe gestützt habe. Sie hat die Auffassung vertreten, dass die Zahlungsaufforderung schon im Herbst 2023 erfolgte und die Beschuldigte daher bereits damals hätte auszahlen müssen.
 
 II. Sachverhalt
 
@@ -62,7 +62,9 @@ III. Rechtliche Beurteilung
 
 IV. Kosten
 
-Die Kostenentscheidung beruht auf [[legal_norm|§ 52 RAO]]. Die Beschuldigte hat einen Teil der Kosten des Berufungsverfahrens zu tragen.
+Die Kostenentscheidung beruht auf [[legal_norm|§ 52 RAO]]. Die Beschuldigte hat einen Teil der Kosten des Berufungsverfahrens zu tragen. Der Kostenbeitrag wird mit EUR 450,00 festgesetzt; die übrigen Kosten des Berufungsverfahrens trägt der Bund nach den gesetzlichen Bestimmungen.
+
+Rechtsmittelbelehrung: Gegen diese Entscheidung ist eine Revision an den [[court|OGH]] binnen vier Wochen ab Zustellung zulässig.
 
 [[location|St. Gilgen]], am [[date|08.10.2026]]
 

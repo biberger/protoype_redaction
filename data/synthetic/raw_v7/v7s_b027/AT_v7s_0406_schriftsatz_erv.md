@@ -65,13 +65,13 @@ II. Zulässigkeit
 
 6. Die Revision ist entgegen dem Ausspruch des Berufungsgerichts zulässig, weil das Berufungsgericht die Grundsätze zur Verteilung der Beweislast bei der Verletzung von Verkehrssicherungspflichten des Bundes nicht berücksichtigt hat. Der [[court|OGH]] hat sich mit der Frage, ob eine Begehung ohne Dokumentation der Mängelbehebung den Anscheinsbeweis entkräftet, bisher nicht ausdrücklich befasst.
 
-7. Zudem ist die Beurteilung der Mitverantwortung durch das Berufungsgericht aktenwidrig, weil es die Feststellungen des Erstgerichts zum Zustand der Wasseruhr übergangen hat. Der Kläger hat die Wasseruhr am [[date|09.06.2023]] fotografiert; die Lichtbilder liegen als Beilage ./C vor.
+7. Zudem ist die Beurteilung der Mitverantwortung durch das Berufungsgericht aktenwidrig, weil es die Feststellungen des Erstgerichts zum Zustand der Wasseruhr übergangen hat. Der Kläger hat die Wasseruhr am [[date|09.06.2023]] fotografiert; die Lichtbilder liegen als Beilage ./C vor und zeigen den Zählerstand sowie die Feuchtigkeitsspuren an der Leitung deutlich.
 
 III. Rechtliche Beurteilung
 
 8. Nach [[legal_norm|§ 1319a ABGB]] haftet der Rechtsträger für Schäden, die durch den mangelhaften Zustand von Anlagen verursacht werden. Die beklagte Partei hat dazu den Gegenbeweis nicht erbracht, weil sie die Dokumentation der Begehung vom [[date|22.05.2019]] nicht vorgelegt hat.
 
-9. Die Mitverantwortung des Klägers ist nach [[legal_norm|§ 1304 ABGB]] zu beurteilen. Ein Verschulden des Klägers liegt nicht vor, weil der Wasserzähler nach den Angaben der Zeugen ohne Anzeige eines Lecks betrieben wurde. Der Kläger hat die Warnsignale nicht erkennen können, zumal sie erst im Zuge einer Ablesung durch den Versorger sichtbar wurden.
+9. Die Mitverantwortung des Klägers ist nach [[legal_norm|§ 1304 ABGB]] zu beurteilen. Ein Verschulden des Klägers liegt nicht vor, weil der Wasserzähler nach den Angaben der Zeugen ohne Anzeige eines Lecks betrieben wurde. Der Kläger hat die Warnsignale nicht erkennen können, zumal sie erst im Zuge einer Ablesung durch den Versorger sichtbar wurden. Auch ein Laie hätte aus dem Zählerstand allein keinen Rohrbruch ableiten können.
 
 10. Die Verjährungsfrage ist nicht entscheidungswesentlich, weil die Klage innerhalb der Frist des [[legal_norm|§ 1489 ABGB]] eingebracht wurde.
 

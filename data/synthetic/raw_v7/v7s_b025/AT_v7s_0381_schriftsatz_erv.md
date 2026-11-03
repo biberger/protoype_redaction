@@ -58,7 +58,7 @@ Die Klägerin hat die Erstbeklagte mit Schreiben vom [[date|18.11.2024]] aufgefo
 
 II. Feststellungsinteresse und Schaden
 
-7. Die Klägerin hat ein rechtliches Interesse an der Feststellung, weil die Eintragung des Eigentumsrechts seit Jahren unterblieben ist und ihr das Recht auf Verfügung und Belastung der Wohnung fehlt. Eine Belastung durch Kredit ist ihr deshalb verwehrt.
+7. Die Klägerin hat ein rechtliches Interesse an der Feststellung, weil die Eintragung des Eigentumsrechts seit Jahren unterblieben ist und ihr das Recht auf Verfügung und Belastung der Wohnung fehlt. Eine Belastung durch Kredit ist ihr deshalb verwehrt. Auch die Versicherung der Wohnung kann nur auf den Namen der Eigentümerin abgeschlossen werden, sodass die Klägerin derzeit keinen eigenen Versicherungsschutz für das Gebäude erhält.
 
 8. Die Klägerin hat den Schaden der Versicherung unter Schadennummer [[other_identifier|91/286583/20]] gemeldet, Vers.-Nr. [[other_identifier|12-2152847]]. Der Schaden der Klägerin umfasst den Kaufpreis samt Nebenkosten im Betrag von EUR 4.300,00, die entgangene Nutzung der Wohnung im Betrag von EUR 6.000,00 sowie die Kosten der Ersatzwohnung im Betrag von EUR 52.000,00 für den Zeitraum von 24 Monaten. Die Summe ergibt EUR 62.300,00.
 
@@ -90,6 +90,8 @@ Beilagen
 ./B Schreiben der Erstbeklagten vom [[date|04.07.2022]]
 ./C Betriebskostenabrechnung 2023
 ./D Schreiben vom [[date|20.11.2024]]
+./E Kontoauszüge über die Kaufpreiszahlungen 2022
+./F Benützungsbewilligung und Schreiben der [[organization|Land Salzburg]] vom [[date|21.04.2022]]
 
 [[location|Salzburg]], am [[date|29.10.2026]]
 

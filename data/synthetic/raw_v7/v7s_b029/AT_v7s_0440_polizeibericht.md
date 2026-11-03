@@ -65,7 +65,7 @@ Die Fotodokumentation umfasst insgesamt 42 Lichtbilder der Unfallstelle, der Fah
 
 Nach dem derzeitigen Ermittlungsstand ist davon auszugehen, dass die Lenkerin des Pkw die Vorrangregel nicht beachtet hat. Die Sichtbehinderung durch den abgestellten Transporter wird als Umstand gewertet, der die Sorgfaltspflicht der Lenkerin nicht aufhebt, sondern erhöhte Aufmerksamkeit beim Einfahren in die Hauptstraße verlangt hätte. Ein Verschulden des Motorradlenkers wird derzeit nicht angenommen, weil die Geschwindigkeit innerhalb der Ortstafel lag. Die Endgültigkeit dieser Beurteilung hängt vom Gutachten ab.
 
-Die Lenkerin wurde am Ende der Amtshandlung über die Möglichkeit einer Stellungnahme belehrt und hat diese schriftlich angekündigt. Die Beteiligten wurden darauf hingewiesen, dass Schadenersatzansprüche zivilrechtlich geltend zu machen sind und die Polizei hierzu keine Auskunft erteilt.
+Die Lenkerin wurde am Ende der Amtshandlung über die Möglichkeit einer Stellungnahme belehrt und hat diese schriftlich angekündigt. Eine Verwaltungsübertretung wird bei Bestätigung des Sachverhalts durch die Bezirkshauptmannschaft nach den Bestimmungen der Straßenverkehrsordnung geahndet. Die Beteiligten wurden darauf hingewiesen, dass Schadenersatzansprüche zivilrechtlich geltend zu machen sind und die Polizei hierzu keine Auskunft erteilt.
 
 Die Akte ergeht zur Kenntnis an die [[organization|Bezirkshauptmannschaft Weiz]].
 

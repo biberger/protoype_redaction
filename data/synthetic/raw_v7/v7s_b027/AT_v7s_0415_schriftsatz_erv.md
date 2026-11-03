@@ -36,7 +36,7 @@ I. Einleitung
 
 II. Sachverhalt
 
-3. Der Kläger behauptet, er habe am [[date|14.03.2025]] einen Kaufvertrag über das Fahrzeug abgeschlossen und den Kaufpreis von EUR 9.350,00 bezahlt. Diese Behauptung ist unrichtig. Ein Vertragsentwurf wurde dem Kläger zwar übermittelt, jedoch nicht vom Kläger retourniert.
+3. Der Kläger behauptet, er habe am [[date|14.03.2025]] einen Kaufvertrag über das Fahrzeug abgeschlossen und den Kaufpreis von EUR 9.350,00 bezahlt. Diese Behauptung ist unrichtig. Ein Vertragsentwurf wurde dem Kläger zwar übermittelt, jedoch nicht vom Kläger retourniert. Der Entwurf trägt den Vermerk, dass er nur gültig ist, wenn er innerhalb von zwei Wochen unterfertigt zurückgesandt wird.
 
 4. Der Geschäftsführer der beklagten Partei hat dem Kläger am [[date|21.03.2025]] mitgeteilt, dass das Fahrzeug nur gegen Vorlage eines unterschriebenen Vertrages und einer Anzahlung reserviert werde. Eine Anzahlung ist nicht eingegangen. Der Geschäftsführer hat dabei ausdrücklich darauf hingewiesen, dass das Fahrzeug sonst anderweitig verkauft werden kann.
 

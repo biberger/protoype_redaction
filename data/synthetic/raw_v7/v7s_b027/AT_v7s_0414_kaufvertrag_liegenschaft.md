@@ -94,6 +94,10 @@ VII. Ergänzende Bestimmungen
 
 24. Für den Fall, dass die Eintragung des Eigentumsrechts aus Gründen scheitert, die nicht in der Sphäre der Käufer liegen, ist die Verkäuferin verpflichtet, den bereits bezahlten Kaufpreis samt Zinsen zurückzuzahlen. Die Rückzahlung erfolgt über die Kanzlei.
 
+25. Die Verkäuferin erklärt, dass die Liegenschaft nicht als Bauland gewidmet ist, sondern als Grünland mit Wohnhaus im Bestand. Eine Umwidmung ist nicht vereinbart und wird von den Käufern nicht erwartet.
+
+26. Die Käufer erklären, dass sie die Verkäuferin über den Stand ihrer Finanzierung laufend informieren. Verzögerungen der Finanzierung sind der Verkäuferin innerhalb von vierzehn Tagen mitzuteilen.
+
 [[location|Bartholomäberg]], am [[date|10.02.2026]]
 
 Verkäuferin:

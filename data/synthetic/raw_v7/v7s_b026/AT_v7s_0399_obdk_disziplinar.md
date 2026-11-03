@@ -41,6 +41,12 @@ Datum | Vorgang | Betrag | Treuhandschaft
 
 6e. Die Kammer [[organization|RAK Tirol]] hat den Beschuldigten am [[date|18. Dezember 2025]] ersucht, sich zu der Rückdatierung schriftlich zu äußern. Der Beschuldigte hat diese Stellungnahme fristgerecht übermittelt, ohne den Vorgang näher zu erläutern.
 
+6f. Der Senat hat die Honorarnote im Original geprüft. Sie trägt die Rechnungsnummer RE-2023-0117 und ist an die Klientin [[person|Hauser]] adressiert, obwohl die Leistungen nach den Angaben des Beschuldigten ausschließlich für den Klienten [[person|Zangerl]] erbracht wurden.
+
+6g. Die Eintragung des Eigentumsrechts am Waldgrundstück erfolgte am [[date|30. April 2020]] und damit nach der Auszahlung vom [[date|20. März 2020]]. Der Beschuldigte hatte die Klientin [[person|Hauser]] bis zu diesem Zeitpunkt über den Stand der Treuhandschaft nicht informiert.
+
+6h. Der Beschuldigte hat vorgebracht, die Klientin habe einer Auszahlung an den Klienten [[person|Zangerl]] zugestimmt. Eine schriftliche Zustimmung liegt nicht vor; die Klientin hat ihre Zustimmung in der Einvernahme ausdrücklich verneint.
+
 Rechtliche Beurteilung
 
 7. Nach [[legal_norm|§ 43a Abs 5 RAO]] hat der Rechtsanwalt fremde Gelder getrennt vom eigenen Vermögen zu verwahren. Die Überweisung vom [[date|2. Juni 2020]] auf das Girokonto des Beschuldigten ist eine solche Vermischung. Ein Honoraranspruch hätte nur nach Abrechnung und mit Zustimmung der Klienten verrechnet werden dürfen.
@@ -56,6 +62,10 @@ Rechtliche Beurteilung
 12. Die Geldbuße ist innerhalb von vier Wochen nach Zustellung zu bezahlen. Bei Nichtzahlung wird die Geldbuße nach den Bestimmungen über die Zwangsvollstreckung eingezogen.
 
 13. Der Senat weist darauf hin, dass die Rückdatierung einer Honorarnote als schwerer Verstoß gegen die Dokumentationspflicht gewertet worden wäre, wenn sie nicht durch die Rückzahlung der Treuhandschaft ausgeglichen worden wäre.
+
+14. Der Senat hat die Entscheidung einstimmig getroffen. Die Schriftführerin hat das Protokoll verfasst und am selben Tag an die Parteien übermittelt. Die Verfahrenskosten werden nach dem Verursacherprinzip festgesetzt; die Kosten der Zustellung trägt der Beschuldigte.
+
+15. Der Klient [[person|Zangerl]] hat die Frage, ob er die Beratung zur Steuererklärung in Anspruch genommen habe, verneint. Eine Steuerberatung durch den Beschuldigten ist nicht dokumentiert.
 
 [[location|Innsbruck]], am [[date|11. Februar 2026]]
 

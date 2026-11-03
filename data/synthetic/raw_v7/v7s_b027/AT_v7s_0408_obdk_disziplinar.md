@@ -78,7 +78,7 @@ Der Kontoverlauf im Einzelnen. Am [[date|14.08.2024]] wurde die letzte Auszahlun
 
 Die Kammer hat in ihrem Bericht darauf hingewiesen, dass der Beschuldigte in einer Mail vom [[date|02.09.2024]] an die Mandantin von einem Verlust durch Fehlbuchung gesprochen habe. Dieser Verlust ist in der Buchhaltung der Kanzlei nicht vermerkt. Der Beschuldigte hat dazu erklärt, die Formulierung sei missverständlich gewesen.
 
-Die Verteidigung hat in der Verhandlung beantragt, das Verfahren einzustellen, weil die Mandantin den Betrag inzwischen vollständig erhalten habe. Der Senat hat diesen Antrag abgelehnt, weil die Rückzahlung erst nach der Anzeige erfolgte und die Verletzung der Pflicht nicht durch die spätere Ausgleichung entfällt.
+Die Verteidigung hat in der Verhandlung beantragt, das Verfahren einzustellen, weil die Mandantin den Betrag inzwischen vollständig erhalten habe. Der Senat hat diesen Antrag abgelehnt, weil die Rückzahlung erst nach der Anzeige erfolgte und die Verletzung der Pflicht nicht durch die spätere Ausgleichung entfällt. Der Beschuldigte hat auf die Frage des Senats, weshalb er den Betrag nicht früher zurückgeführt habe, keine plausible Antwort gegeben.
 
 V. Rechtliche Beurteilung
 

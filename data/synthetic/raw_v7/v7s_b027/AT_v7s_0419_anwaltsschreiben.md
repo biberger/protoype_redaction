@@ -31,6 +31,8 @@ Unser Mandant ist Kunde Ihres Hauses. Seine Kunden-Nr. lautet [[other_identifier
 
 Sachverhalt: Am [[date|03.10.2025]] wurde auf dem Grundstück durch Arbeiten der [[organization|Wander Bau]] eine Wasserleitung beschädigt. Die Leitung war nicht ordnungsgemäß gesichert, und in der Folge drang Wasser in das Erdgeschoss ein. Die Schadensmeldung vom [[date|06.10.2025]] wurde Ihrem Haus übermittelt.
 
+Die Wasserleitung war vor den Arbeiten nicht als Versorgungsleitung im Plan verzeichnet. Dies wurde der [[organization|Wander Bau]] nach den Angaben des Polierers erst nach dem Schadensfall bekannt.
+
 Mit Schreiben vom [[date|14.10.2025]] haben Sie den Schaden dem Grunde nach anerkannt, jedoch die Höhe bestritten. Eine Begutachtung durch einen Sachverständigen fand am [[date|28.10.2025]] statt. Der Sachverständige [[person|Miron Iwanytschuk]] hat einen Schaden von EUR 18.640,00 festgestellt.
 
 Die Liegenschaft ist seit dem Jahr 1998 im Eigentum unseres Mandanten und dient ihm als Hauptwohnsitz. Der Schaden hat die Nutzung des Erdgeschosses vollständig ausgeschlossen, sodass die Familie des Mandanten für die Dauer der Sanierung in eine Mietwohnung ausweichen musste. Die Kosten dieser Unterbringung sind im Gesamtbetrag enthalten.

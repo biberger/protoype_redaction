@@ -64,6 +64,12 @@ Rechtliche Beurteilung
 
 13. Die Verhandlung vom [[date|14. Oktober 2026]] verlief ohne weitere Beweisanträge. Der Vorsitz hat die Akten vollständig geprüft; sämtliche Kontoauszüge und das Treuhandbuch lagen dem Senat in Kopie vor. Der Senat hat die Entscheidung im Anschluss beraten und die schriftliche Ausfertigung am genannten Tag beschlossen.
 
+14. Der Senat hat geprüft, ob die Verantwortung für die Eintragungen bei der Buchhalterin liegt. Da die Zeugin [[person|Rakowitz]] die Weisungen des Beschuldigten bestätigt hat, ist die Verantwortung dem Beschuldigten zuzurechnen. Eine Delegation der Buchführung entlastet einen Rechtsanwalt nicht von seiner Verwahrungspflicht.
+
+15. Die Mandantin [[person|Mark]] hat beantragt, ihr die Kosten ihrer Vertretung im Disziplinarverfahren zu ersetzen. Dieser Antrag wird abgewiesen, weil ein solcher Kostenersatz im Disziplinarverfahren nicht vorgesehen ist. Die Mandantin kann ihre Ansprüche gegen den Beschuldigten im Zivilrechtsweg geltend machen.
+
+16. Der Spruch ist dem Beschuldigten, der Kammeranwältin und dem Disziplinarrat zuzustellen. Die Zustellung an die Mandantin erfolgt durch die Kammeranwältin.
+
 [[location|Wien]], am [[date|22. Oktober 2026]]
 
 Für die Richtigkeit der Ausfertigung:

@@ -58,7 +58,7 @@ IV. Rechtliche Beurteilung
 
 9. Der Senat wertet als erschwerend die wiederholte Verwendung von Mandantengeldern und den Umstand, dass die Auszahlung vom [[date|12.07.2019]] erst nach einer Mahnung der Mandantin zurückgeführt wurde. Als mildernd wird die bisherige Unbescholtenheit des Beschuldigten gewertet.
 
-10. Die Dauer des Verbots ergibt sich aus der Schwere der Pflichtverletzung. Ein gänzlicher Ausschluss aus der Rechtsanwaltschaft ist nicht geboten, weil die Mandanten nach dem Ergebnis der Verhandlung keine weiteren Schäden erlitten haben. Eine Verkürzung der Dauer des Verbots auf sechs Monate wurde geprüft, wegen der Wiederholung der Auszahlungen jedoch verworfen.
+10. Die Dauer des Verbots ergibt sich aus der Schwere der Pflichtverletzung. Ein gänzlicher Ausschluss aus der Rechtsanwaltschaft ist nicht geboten, weil die Mandanten nach dem Ergebnis der Verhandlung keine weiteren Schäden erlitten haben. Eine Verkürzung der Dauer des Verbots auf sechs Monate wurde geprüft, wegen der Wiederholung der Auszahlungen jedoch verworfen. Ein milderes Mittel, etwa eine bloße Ermahnung, wäre dem Schutzzweck der Vorschriften nicht gerecht geworden.
 
 11. Der Beschuldigte hat in seiner Stellungnahme vom [[date|15.01.2025]] vorgebracht, die Kanzlei habe im Jahr 2019 wirtschaftliche Schwierigkeiten gehabt. Der Senat hält dies nicht für eine Rechtfertigung. Die Verpflichtung zur getrennten Verwahrung fremder Gelder besteht unabhängig von der wirtschaftlichen Lage des Rechtsanwalts.
 

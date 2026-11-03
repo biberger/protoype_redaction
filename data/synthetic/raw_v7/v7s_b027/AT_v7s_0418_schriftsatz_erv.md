@@ -54,7 +54,7 @@ II. Rechtliche Beurteilung
 
 5. Die Beklagten sind nach [[legal_norm|§ 1295 ABGB]] iVm [[legal_norm|§ 1311 ABGB]] zum Ersatz des Schadens verpflichtet, weil sie die Verkehrssicherungspflicht am Gebäude verletzt haben.
 
-6. Der Kläger ist aufgrund des Wasserschadens an der Nutzung des Gebäudes gehindert. Die Beklagten haben nicht dargelegt, dass sie den Schaden nicht zu vertreten hätten.
+6. Der Kläger ist aufgrund des Wasserschadens an der Nutzung des Gebäudes gehindert und musste die Wohnung im Erdgeschoss seit dem [[date|14.11.2024]] aufgeben. Die Beklagten haben nicht dargelegt, dass sie den Schaden nicht zu vertreten hätten.
 
 7. Die Zuständigkeit des angerufenen Gerichts ergibt sich aus dem Wohnsitz der Beklagten im Sprengel des [[court|BG Lilienfeld]].
 

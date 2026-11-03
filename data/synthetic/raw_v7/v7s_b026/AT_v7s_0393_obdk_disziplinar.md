@@ -42,6 +42,8 @@ Datum | Vorgang | Betrag | Klient
 
 6c. Die Kammeranwältin [[person|Dr. Srecka Sušanj]] hat in der Verhandlung eine Abschrift des Treuhandbuchs vorgelegt, in der die Überweisung vom [[date|5. Juli 2023]] nicht enthalten ist. Die Beschuldigte hat die Richtigkeit dieser Abschrift nicht bestritten.
 
+6d. Die Beschuldigte hat die Verrechnung in der Verhandlung als Fehler bezeichnet. Eine Honorarnote über EUR 9.200,00 soll nach Angaben der Beschuldigten erst im Februar 2024 erstellt worden sein, nachdem die Kammer um Auskunft gebeten hatte; sie liegt dem Senat nicht vor. Die Nachvollziehbarkeit der Beträge ist dadurch nicht gegeben.
+
 Rechtliche Beurteilung
 
 7. Nach [[legal_norm|§ 43a Abs 5 RAO]] darf der Rechtsanwalt fremde Gelder nur für den Zweck verwenden, für den sie ihm übergeben wurden. Eine Verrechnung mit eigenen Honorarforderungen ist nur zulässig, wenn die Forderung fällig und unbestritten ist. Beides war hier nicht der Fall.
@@ -57,6 +59,12 @@ Rechtliche Beurteilung
 12. Die Geldbuße wird binnen vier Wochen nach Rechtskraft zur Zahlung fällig. Gegen diesen Spruch kann die Beschuldigte innerhalb der gesetzlichen Frist Berufung erheben; die Kammer wird die Zahlung überwachen.
 
 13. Der Senat hat bei der Bemessung berücksichtigt, dass die Beschuldigte das Treuhandwesen bislang ohne Beanstandung geführt hat, bis die Routineprüfung der Kammer die Lücken aufdeckte. Die Höhe der Geldbuße liegt daher im unteren Bereich des gesetzlichen Rahmens, auch wenn die Zahl der Verstöße erheblich ist.
+
+14. Die Kammeranwältin [[person|Dr. Srecka Sušanj]] hat beantragt, die Beschuldigte zusätzlich zur Teilnahme an einem Seminar zur Berufsethik zu verpflichten. Der Senat sieht darin keine Notwendigkeit, weil die Beschuldigte die Pflichten im Treuhandwesen bereits in einer Fortbildung im Jahr 2023 behandelt hat.
+
+15. Der Klient [[person|Koch]] hat von dem Vorschuss in Höhe von EUR 15.000,00 nach den Kontoauszügen nur EUR 4.200,00 zurückerhalten. Der Restbetrag von EUR 10.800,00 ist ein zivilrechtlicher Anspruch, über den der Senat nicht entscheidet und den der Klient selbst geltend machen muss.
+
+16. Die Zustellung dieses Spruchs erfolgt an die Beschuldigte, an die Kammeranwältin und an die [[organization|TRAK]].
 
 [[location|Innsbruck]], am [[date|9. Dezember 2025]]
 
