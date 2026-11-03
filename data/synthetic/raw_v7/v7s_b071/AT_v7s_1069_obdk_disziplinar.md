@@ -67,7 +67,7 @@ Die Berufung ist daher teilweise berechtigt. Die Herabsetzung der Geldbuße trä
 
 Die Entscheidung ist den Parteien zuzustellen. Die Kammeranwältin hat die Anschuldigungsschrift bereits vor dem Erkenntnis der [[organization|RAKL]] eingebracht; die Berufung des Beschuldigten richtet sich nur gegen die Höhe der Geldbuße und die Kostenentscheidung.
 
-Wien, am [[date|17. Februar 2026]]
+[[location|Wien]], am [[date|17. Februar 2026]]
 
 Für die Richtigkeit der Ausfertigung:
 [[person|Katy Helbok]]

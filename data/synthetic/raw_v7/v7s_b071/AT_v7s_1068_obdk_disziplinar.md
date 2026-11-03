@@ -9,7 +9,7 @@ GZ [[case_number|DSt-St 9/2026]]
 
 Im Namen der Republik
 
-Der Disziplinarrat der Steiermärkischen Rechtsanwaltskammer hat durch seine Senatsmitglieder in der Disziplinarsache gegen den Rechtsanwalt [[lawyer|Mike Lampa]] wegen des Verdachts der Verletzung von Berufspflichten nach [[legal_norm|§ 1 Abs 1 RAO]] und [[legal_norm|§ 16 Abs 2 RAO]] nach der mündlichen Verhandlung vom [[date|29. April 2026]] erkannt:
+Der [[court|Disziplinarrat der Steiermärkischen Rechtsanwaltskammer]] hat durch seine Senatsmitglieder in der Disziplinarsache gegen den Rechtsanwalt [[lawyer|Mike Lampa]] wegen des Verdachts der Verletzung von Berufspflichten nach [[legal_norm|§ 1 Abs 1 RAO]] und [[legal_norm|§ 16 Abs 2 RAO]] nach der mündlichen Verhandlung vom [[date|29. April 2026]] erkannt:
 
 Der Beschuldigte [[lawyer|Lampa]] wird von dem gegen ihn erhobenen Vorwurf der vorsätzlichen Verletzung der Treuhandpflichten im Umfang der Buchungen zu Lasten des Klienten [[person|Piech Milewicz]] freigesprochen. Im Übrigen wird er schuldig erkannt, in den Jahren 2024 und 2025 Fremdgelder nicht fristgerecht ausgefolgt zu haben. Er wird deshalb mit einer Geldbuße von EUR 2.200,00 bestraft. Die Kosten des Verfahrens trägt der Beschuldigte zu drei Vierteln.
 

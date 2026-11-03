@@ -87,7 +87,7 @@ II. Rechtliche Ausführungen
 
 6. Die Wohnung war bei Auszug in einem Zustand, der mit der Übergabe im Jahr 2021 nicht vergleichbar war. Die Übergabeprotokolle belegen den Zustand der Küche, des Bades und der Fenster. Der Erstbeklagte hat die Mängel bei der Besichtigung am [[date|04.08.2026]] nicht bestritten, sondern lediglich auf eine übliche Abnützung verwiesen.
 
-7. Die Forderung auf Ersatz der Schlösser ist nach [[legal_norm|§ 1111 ABGB]] berechtigt, weil die Klägerin die Wohnung ohne Schlüssel nicht vermieten konnte. Die Klägerin hat die Rechnung des Schlossers vom [[date|04.08.2026]] vorgelegt. Die Klägerin behält sich vor, die Kosten der Ersatzvornahme im Verfahren gesondert zu beziffern, sobald die Rechnungen des Installateurs vorliegen.
+7. Die Forderung auf Ersatz der Schlösser ist nach [[legal_norm|§ 1111 ABGB]] berechtigt, weil die Klägerin die Wohnung ohne Schlüssel nicht vermieten konnte. Die Klägerin hat die Rechnung des Schlossers vom [[date|04.08.2026]] vorgelegt. Die Klägerin behält sich vor, die Kosten der Ersatzvornahme im Verfahren gesondert zu beziffern, sobald die Rechnungen des Installateurs vorliegen. Eine Kaution wurde bei Mietbeginn nicht erlegt. Der Erstbeklagte hat auf die Mahnung vom [[date|14.08.2026]] nicht reagiert; eine Ratenzahlung wurde weder angeboten noch vereinbart, sodass für eine Stundung keine Veranlassung besteht. Die genannten Zeugen sind unter den oben angeführten Anschriften erreichbar.
 
 III. Beweise
 

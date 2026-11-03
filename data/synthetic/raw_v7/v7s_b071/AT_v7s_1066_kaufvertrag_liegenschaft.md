@@ -110,7 +110,7 @@ VIII. Schlussbestimmungen
 Ausgefertigt in [[address|4761 Enzenkirchen]], am [[date|12. März 2026]].
 
 Die Verkäuferin:
-Bloch GmbH
+[[organization|Bloch GmbH]]
 [[person|Ludmila Rettenbacher]], Geschäftsführerin
 
 Die Käufer:

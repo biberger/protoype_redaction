@@ -98,6 +98,12 @@ VII. Kosten und Abgaben
 
 2. Die Kosten der Löschung trägt die Verkäuferin.
 
+VIIa. Zahlungsmodalitäten
+
+1. Die Käuferinnen und Käufer haften für den Kaufpreis als Gesamtschuldner. Eine Zahlung einer Käuferin oder eines Käufers an die Verkäuferin gilt als Zahlung aller Käuferinnen und Käufer.
+
+2. Die Zahlungen sind unter Angabe der Treuhandbuch-Nr. [[other_identifier|2025/345]] zu leisten. Zahlungen ohne diese Angabe gelten erst mit Zuordnung durch die Kanzlei als geleistet.
+
 VIII. Schlussbestimmungen
 
 1. Änderungen bedürfen der Schriftform. Nebenabreden bestehen nicht.

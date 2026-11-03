@@ -98,6 +98,12 @@ Das Testament enthält keine Anordnungen, die einer Erbengemeinschaft entgegenst
 
 Die Erbberechtigten wurden darauf hingewiesen, dass eine Einantwortung erst nach Ablauf der Frist zur Anmeldung von Forderungen erfolgen kann. Die Frist ist mit dem Protokoll abgelaufen; weitere Forderungen wurden nicht angemeldet.
 
+IXa. Nachlassinventar und Kosten
+
+Das Nachlassinventar wurde von den Erbberechtigten gemeinsam mit dem Gerichtskommissär erstellt und ist vollständig. Bewegliche Sachen von geringem Wert wurden den Erbberechtigten zur Aufteilung übergeben; ein Verkauf fand nicht statt. Der Schmuck der Erblasserin wurde einvernehmlich der Erbin [[person|Aboud]] zugewiesen. Der Wert ist im Inventar mit EUR 2.100,00 angegeben und wird nicht in die Aktiva eingerechnet.
+
+Die Gerichtsgebühren für die Verlassenschaftsabhandlung betragen nach dem [[legal_norm|GebG]] EUR 1.480,00. Diese sind vom Nachlass zu tragen und in den Passiven berücksichtigt. Die Gebühr für die Einantwortungsurkunde wird nach Abschluss des Verfahrens gesondert verrechnet.
+
 IX. Rechtsmittel
 
 Gegen dieses Protokoll steht den Beteiligten die Möglichkeit offen, binnen vierzehn Tagen Einwendungen beim [[court|Bezirksgericht Döbling]] zu erheben. Ein Verzicht auf die Einwendungen ist nicht vorgesehen.

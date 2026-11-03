@@ -14,12 +14,15 @@ Der Disziplinarrat der Rechtsanwaltskammer Wien hat durch den Vorsitzenden [[jud
 
 Anwesend bei der Verhandlung:
 
-Vorsitzender: [[judge|Dr. Hardi Vonbank]]
-Beisitzer: [[judge|Zweer Schlegel]], geb. *[[date_of_birth|26.10.1984]], [[judge|Fonzi Jakovljević]]
+Vorsitzender: [[judge|Dr. Hardi Vonbank]], StA. [[country|Afghanistan]]
+Beisitzer: [[judge|Zweer Schlegel]], *[[date_of_birth|26.10.1984]], [[judge|Fonzi Jakovljević]]
 Kammeranwältin: [[person|Dr. Snjezana Tauber]], geb. [[date_of_birth|22. April 1941]]
 Schriftführer: [[person|Mag. Ezechiel Brunnthaler]]
 Beschuldigte: [[person|Elfi Aberer]]
 Beschwerdeführer: [[person|Jamschid Salmi]]
+Telefonische Erreichbarkeit der Kammer: Tel. [[phone_number|+43 5572 914 59 96 Kl. 35]]
+
+Die Verhandlung wurde um 9.30 Uhr eröffnet. Der Vorsitzende stellte die ordnungsgemäße Ladung fest und verlas die Disziplinaranzeige. Die Beschuldigte erklärte, sie bekenne sich nicht schuldig im Sinne der Anklage, räume jedoch die Auszahlung ein. Die Kammeranwältin beantragte die Verhängung einer Geldbuße in der Höhe von EUR 4.000,00 bis EUR 6.000,00.
 
 I. Spruch
 
@@ -37,7 +40,7 @@ Die Beschuldigte bestreitet den Vorwurf der Veruntreuung nicht, wohl aber die Ab
 
 2. Sachverhalt
 
-Die Beschuldigte übernahm im Februar 2025 die Vertretung des Beschwerdeführers in einer Streitigkeit aus einem Werkvertrag. Für die Verwahrung der Gegenleistung wurde ein Treuhandkonto eröffnet, auf das [[person|Salmi]] am [[date|03.02.2025]] den Betrag von EUR 18.500,00 überwies. Die Treuhandbuchung trägt die Nummer TH-Nr. [[other_identifier|2025/031]]. Die Bewegungen auf dem Treuhandkonto stellen sich wie folgt dar:
+Die Beschuldigte übernahm im Februar 2025 die Vertretung des Beschwerdeführers in einer Streitigkeit aus einem Werkvertrag. Für die Verwahrung der Gegenleistung wurde ein Treuhandkonto eröffnet, IBAN [[bank_account|AT55 7467 5246 5641 5053]], auf das [[person|Salmi]] am [[date|03.02.2025]] den Betrag von EUR 18.500,00 überwies. Die Kanzlei der Beschuldigten lag in der Wiener Innenstadt, die Kanzleiadresse ist im Kammerverzeichnis eingetragen; die Beschuldigte betrieb die Kanzlei damals allein, ohne Sozietät und ohne angestellte Juristen. Die Treuhandbuchung trägt die Nummer TH-Nr. [[other_identifier|2025/031]]. Die Bewegungen auf dem Treuhandkonto stellen sich wie folgt dar:
 
 Datum | Vorgang | Betrag in EUR | Treuhandbuch-Nr.
 [[date|03.02.2025]] | Einzahlung durch [[person|Jamschid Salmi]] | 18.500,00 | TH-Nr. [[other_identifier|2025/031]]

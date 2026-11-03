@@ -9,7 +9,7 @@ GZ [[case_number|DSR-T 17/2025]]
 
 Im Namen der Republik
 
-Der Disziplinarrat der Tiroler Rechtsanwaltskammer hat in der Disziplinarsache gegen die Rechtsanwältin [[lawyer|Chlorinde Elbogen]] wegen Verletzung der Berufspflichten nach § 1 Abs 1 RAO iVm § 43a Abs 3 RAO in der öffentlichen mündlichen Verhandlung am [[date|14. Mai 2026]] nach Anhörung der Parteien zu Recht erkannt:
+Der [[court|Disziplinarrat der Tiroler Rechtsanwaltskammer]] hat in der Disziplinarsache gegen die Rechtsanwältin [[lawyer|Chlorinde Elbogen]] wegen Verletzung der Berufspflichten nach [[legal_norm|§ 1 Abs 1 RAO]] iVm [[legal_norm|§ 43a Abs 3 RAO]] in der öffentlichen mündlichen Verhandlung am [[date|14. Mai 2026]] nach Anhörung der Parteien zu Recht erkannt:
 
 Spruch
 
@@ -27,7 +27,7 @@ Kammeranwalt: [[lawyer|Dr. Hryhorij Kudlai]], geb. [[date_of_birth|1949-10-22]]
 
 Schriftführerin: [[person|Vitka Tsvetanova]]
 
-Beschuldigte: [[lawyer|Chlorinde Elbogen]], Rechtsanwältin in Innsbruck
+Beschuldigte: [[lawyer|Chlorinde Elbogen]], Rechtsanwältin in [[location|Innsbruck]]
 
 Die Beschuldigte [[lawyer|Elbogen]] ist seit dem [[date|1. September 2012]] in die Liste der Rechtsanwälte eingetragen und betreibt eine Einzelkanzlei in [[location|Innsbruck]]. Eine Vorstrafe besteht nicht. Die Schriftführerin hat die Anwesenheit der Mitglieder des Senates zu Protokoll genommen. Die Mitglieder des Senates erklärten vor Beginn der Verhandlung, dass ihnen keine Umstände bekannt sind, die einen Ausschließungsgrund begründen würden.
 
@@ -74,7 +74,7 @@ Die Verpflichtung zur getrennten Verwahrung dient dem Schutz der Klienten und de
 
 Die Entscheidung ist den Parteien zuzustellen. Die Rechtsmittelbelehrung ist beigeschlossen.
 
-Innsbruck, am [[date|14. Mai 2026]]
+[[location|Innsbruck]], am [[date|14. Mai 2026]]
 
 Für die Richtigkeit der Ausfertigung:
 [[person|Vitka Tsvetanova]]

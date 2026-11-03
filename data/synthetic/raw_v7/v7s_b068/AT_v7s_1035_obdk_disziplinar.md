@@ -48,6 +48,16 @@ Datum | Vorgang | Betrag | Treuhandbuch
 
 6. Der Beschuldigte [[lawyer|Winkler]] ist seit dem Jahr 1998 als Rechtsanwalt tätig. Er wurde disziplinär bisher nicht verurteilt. Seine Kanzlei wurde im Jahr 2019 nach einer längeren Erkrankung eines Mitarbeiters umstrukturiert.
 
+6a. Der Verfahrensverlauf stellt sich wie folgt dar: Die Anzeige vom [[date|26. Februar 2026]] wurde dem Beschuldigten am [[date|4. März 2026]] zugestellt. Der Beschuldigte beantragte mit Schriftsatz vom [[date|18. März 2026]] eine Fristverlängerung, die der Vorsitz bis zum [[date|15. April 2026]] gewährte. Die Stellungnahme wurde am [[date|14. April 2026]] eingebracht.
+
+6b. Die Stellungnahme des Beschuldigten enthält unter anderem folgenden Satz: „Die Gelder wurden nach bestem Wissen verwaltet. Sollte es Unstimmigkeiten geben, bedauere ich dies.“
+
+6c. Im Akt befindet sich eine E-Mail der Mandantin vom [[date|3. Juli 2019]], die in der Kanzlei wie folgt eingegangen ist:
+
+„hallo herr [[lawyer|winkler]], ich warte seit wochen auf die abrechnung. bitte melden sie sich. lg s. [[person|schulmeister]]“
+
+6d. Die Kanzlei antwortete am [[date|5. Juli 2019]] knapp: „frau [[person|schulmeister]], die abrechnung folgt in den nächsten tagen. mit freundlichen grüßen [[lawyer|winkler]]“. Eine Abrechnung folgte in der Folge nicht.
+
 Beweiswürdigung
 
 7. Die Zeugin [[person|Schulmeister]] gab in der Verhandlung an, dass sie den Beschuldigten mehrfach telefonisch um Auskunft ersucht habe. Ihre Angaben sind durch die Korrespondenz belegt und glaubhaft.
@@ -58,6 +68,16 @@ Beweiswürdigung
 
 10. Der Senat kommt daher zu dem Ergebnis, dass der Vorwurf erwiesen ist. Die Angaben des Beschuldigten zur Zahlung auf Wunsch des Verkäufers sind nicht glaubhaft, weil der Verkäufer weder benannt noch eine Quittung vorgelegt wurde.
 
+11a. Der Verkäufer, Herr [[person|Dragoslav Vujić]], wurde als Zeuge geladen, erschien jedoch nicht. Eine schriftliche Auskunft vom [[date|8. Oktober 2026]] bestätigt lediglich den Erhalt eines Teilbetrags. Der Senat hält diese Auskunft für unvollständig, weil sie weder Datum noch Höhe der Zahlung nennt.
+
+11b. Die Zeugin [[person|Schulmeister]] wurde am [[date|21. Oktober 2026]] vernommen; die Protokollierung erfolgte durch [[person|Derner]]. Sie schilderte, dass der Beschuldigte ihr gegenüber den Erhalt der Unterlagen bestätigt habe, die Gelder jedoch nicht ausgefolgt wurden.
+
+11c. Der Beschuldigte beantragte in seinem Schlussvortrag die Einstellung des Verfahrens, hilfsweise die Verwarnung. Die Kammeranwältin [[person|Dr. Fanita Bonačić]] beantragte eine Geldbuße in der Höhe von EUR 5.000,00. Der Senat hat die Anträge geprüft und auf die Höhe der Geldbuße Bedacht genommen.
+
+11d. Die Einstellung kam nicht in Betracht, weil die Pflichtverletzung nicht geringfügig ist und die Mandantin einen unmittelbaren Vermögensschaden erlitt. Eine bloße Verwarnung ist bei einer Überschreitung der Auszahlungspflicht über ein Jahr hinaus nicht ausreichend.
+
+11e. Der Senat hat bei der Beweiswürdigung auch berücksichtigt, dass die Kanzlei im Zeitraum der Vorgänge personell unterbesetzt war. Dieser Umstand entlastet den Beschuldigten jedoch nicht, weil die Verantwortung für die Kanzleiorganisation beim Rechtsanwalt selbst liegt.
+
 Rechtliche Beurteilung
 
 11. Gemäß [[legal_norm|§ 43a Abs 3 RAO]] hat der Rechtsanwalt fremde Gelder getrennt von seinem Vermögen zu verwahren und ohne Verzögerung auszufolgen. Die Verletzung dieser Pflicht ist ein schwerwiegendes Fehlverhalten, das die Integrität des Berufsstandes berührt.
@@ -66,9 +86,13 @@ Rechtliche Beurteilung
 
 13. Die Kosten des Verfahrens trägt der Beschuldigte nach [[legal_norm|§ 45 RAO]].
 
+14. Die Vorsitzende hat die Verhandlung am [[date|21. Oktober 2026]] geschlossen. Die Beratung des Senats fand am [[date|28. Oktober 2026]] statt; die Abstimmung erfolgte einstimmig.
+
+15. Der Senat weist darauf hin, dass die Bestellung der Treuhandschaft nach den Vorschriften der [[legal_norm|RAO]] und der Richtlinien der Kammer dokumentiert werden muss. Die Dokumentation dieser Treuhandschaft fehlt, so dass die Vorgänge nur aus den Kontoauszügen rekonstruiert werden konnten.
+
 Rechtsmittelbelehrung
 
-Gegen dieses Erkenntnis steht dem Beschuldigten und der Kammeranwältin die Berufung an die Oberste Berufungs- und Disziplinarkommission offen. Die Berufung ist binnen vier Wochen nach Zustellung einzubringen. Die Zustellung an den Beschuldigten erfolgt an die Kanzleianschrift in [[address|4150 Berg bei Rohrbach]].
+Gegen dieses Erkenntnis steht dem Beschuldigten und der Kammeranwältin die Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] offen. Die Berufung ist binnen vier Wochen nach Zustellung einzubringen. Die Zustellung an den Beschuldigten erfolgt an die Kanzleianschrift in [[address|4150 Berg bei Rohrbach]].
 
 Die Zeugin erhält eine Abschrift dieses Erkenntnisses als Verfahrensbeteiligte.
 

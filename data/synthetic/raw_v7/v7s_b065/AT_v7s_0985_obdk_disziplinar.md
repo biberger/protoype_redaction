@@ -71,6 +71,8 @@ Der Senat berücksichtigt bei der Strafbemessung, dass der Beschuldigte bisher k
 
 Der Senat hat weiter erwogen, dass der Beschuldigte als langjähriger Rechtsanwalt die Pflichten gegenüber seinen Mandanten kennt. Die Verteidigung, er habe nur ein bestehendes Honorar eingefordert, ist daher nicht geeignet, den Vorwurf zu entkräften.
 
+Nach den Richtlinien der Rechtsanwaltskammer ist über jedes Anderkonto ein Buch zu führen, in dem jede Bewegung mit dem Namen des Mandanten und der Geschäftszahl eingetragen wird. Ein solches Buch wurde für den Zeitraum der Vorwürfe nicht vorgelegt; der Beschuldigte erklärte, es sei im Zuge eines Büroumzugs verloren gegangen.
+
 Der Senat hat von der Einholung eines Sachverständigengutachtens zur Kontoführung abgesehen. Die Kontoauszüge sind vollständig vorgelegt worden und ergeben ein eindeutiges Bild; ein weiterer Beweis ist nicht erforderlich.
 
 Spruch:
@@ -78,6 +80,12 @@ Spruch:
 Der Beschuldigte [[lawyer|Raja Lahham]] wird für schuldig erkannt, die Mandantengelder des [[person|Florian Prettner]] im Umfang von EUR 12.000,00 zweckwidrig verwendet zu haben. Über ihn wird eine Geldbuße von EUR 5.000,00 verhängt. Er hat die Kosten des Verfahrens zu tragen.
 
 Gegen diesen Spruch ist die Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] zulässig.
+
+Der Beschuldigte hat in seinem letzten Wort erklärt, dass er die Verantwortung für die Verwaltung des Anderkontos übernehme, den Vorwurf der bewussten Entnahme jedoch zurückweise. Der Senat hat dies bei der Strafbemessung berücksichtigt, ohne darin einen Milderungsgrund zu erblicken.
+
+Die Vertreterin der Kammeranwältin hat ergänzend beantragt, eine Geldbuße im oberen Bereich des Strafrahmens zu verhängen, da Gelder eines Mandanten betroffen waren, der auf die Auszahlung angewiesen war. Der Vorsitzende belehrt den Beschuldigten über das Recht zur Berufung binnen vier Wochen.
+
+Die Kosten des Verfahrens werden mit EUR 1.240,00 bestimmt.
 
 Schluss der Verhandlung um [[date|08.09.2026]], 16:40 Uhr.
 

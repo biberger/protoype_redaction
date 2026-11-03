@@ -61,7 +61,9 @@ Sehr geehrte Damen und Herren,
 
 zu dem Schadenfall der [[organization|BHG]] wurde durch unseren Sachverständigen [[person|Gerwin Pesendorfer]] am [[date|29.05.2026]] eine Besichtigung durchgeführt. Der Sachverständige hält einen Leitungsschaden für wahrscheinlich, die genaue Ursache wurde jedoch nicht festgestellt.
 
-Wir bitten um Verständnis, dass eine Zahlung derzeit nicht erfolgen kann. Die Prüfung ist noch nicht abgeschlossen.
+Wir bitten um Verständnis, dass eine Zahlung derzeit nicht erfolgen kann. Die Prüfung ist noch nicht abgeschlossen. Der Sachverständige wird seinen schriftlichen Bericht bis Mitte Juni vorlegen. Sollte sich der Verdacht eines Leitungsschadens bestätigen, prüfen wir zusätzlich die Haftung des Vermieters der Lagerräume.
+
+Wir bitten um Übermittlung der Lieferscheine bis zum [[date|12.06.2026]].
 
 [[person|Ferdl Allmayer]]
 Schadenregulierung
