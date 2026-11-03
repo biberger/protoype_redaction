@@ -83,7 +83,7 @@ Betreff: AW: AW: AW: Gerichtstermin, Verfahren [[court|BG Ried im Innkreis]]
 
 Sehr geehrte Frau [[person|Galler]],
 
-die [[organization|PKG]] bittet darum, den Termin nicht vor dem [[date|13. November 2026]] zu verschieben. Eine Verschiebung wäre nur mit dem Einverständnis aller Beteiligten möglich. Ich bitte außerdem, die Kosten des Sachverständigen von EUR 2.100,00 nicht der Gegenseite zu verrechnen, da die Begutachtung im Auftrag der [[organization|PKG]] erfolgt ist. Die Honorarnote des Sachverständigen liegt Ihnen bereits vor.
+die [[organization|PKG]] bittet darum, den Termin nicht vor dem [[date|13. November 2026]] zu verschieben. Die Bauzeit wurde nach unserer Auffassung im Jahr 2025 durch die Witterung verlängert, was die Mehrkosten erklärt. Bitte bestätigen Sie den Eingang dieser E-Mail. Eine Verschiebung wäre nur mit dem Einverständnis aller Beteiligten möglich. Ich bitte außerdem, die Kosten des Sachverständigen von EUR 2.100,00 nicht der Gegenseite zu verrechnen, da die Begutachtung im Auftrag der [[organization|PKG]] erfolgt ist. Die Honorarnote des Sachverständigen liegt Ihnen bereits vor.
 
 Mit freundlichen Grüßen
 

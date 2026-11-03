@@ -53,7 +53,7 @@ HINWEISE
 
 Die Honorarnote enthält sämtliche Leistungen bis einschließlich [[date|19.03.2025]]. Die Stundensätze entsprechen der Honorarvereinbarung vom [[date|3. Jänner 2025]], die [[person|Aloys Wenzel]] für die [[organization|Fröhlich GmbH]] unterfertigt hat. Der Stundensatz von EUR 320,00 gilt auch für Telefonate und Korrespondenz, die im Zusammenhang mit dem Verfahren stehen. Auf Wunsch übermitteln wir die Einzelnachweise der Leistungen, insbesondere die Aufzeichnungen zu den Besprechungen mit [[person|Lisanne Fessler]] und die Notizen zum Telefonat mit [[person|Aloys Wenzel]].
 
-Die Umsatzsteuer wurde gesondert ausgewiesen. Die Kanzlei ist unter der UID-Nummer [[tax_id|ATU77083807]] eingetragen, die dem Rechnungsempfänger zugeordnet ist.
+Die Umsatzsteuer wurde gesondert ausgewiesen. Die UID-Nummer [[tax_id|ATU77083807]] des Rechnungsempfängers ist in der Anschrift angeführt.
 
 [[location|Nüziders]], am [[date|31. März 2025]]
 

@@ -14,7 +14,7 @@ ich bestätige den Erhalt Ihres Schreibens vom [[date|5. Oktober 2026]] und werd
 
 Zeichen [[other_identifier|AHC-AHCKitt/Kinzl]]
 
-Herr [[person|Erlacher]] hat mir am [[date|9. Oktober 2026]] mitgeteilt, dass die Arbeiten am Rohrsystem bereits abgeschlossen sind. Die Rechnung der [[organization|Prinz Bau]] über EUR 4.270,00 liegt bei.
+Herr [[person|Erlacher]] hat mir am [[date|9. Oktober 2026]] mitgeteilt, dass die Arbeiten am Rohrsystem bereits abgeschlossen sind. Die Leitung war nach Angaben des Hausmeisters seit dem [[date|28. September 2026]] undicht, der Wasseraustritt konnte erst nach dem Absperren der Hauptleitung behoben werden. Der Rohrbruch hat sich in der Nacht ereignet, als die Heizung im Keller ausgefallen war. Die Rechnung der [[organization|Prinz Bau]] über EUR 4.270,00 liegt bei.
 
 Mit freundlichen Grüßen
 
@@ -34,7 +34,7 @@ Betreff: AW: Schaden Wasserrohrbruch, Objekt [[location|Melk]]
 
 Sehr geehrter Herr [[person|Kitt]],
 
-danke für die Rückmeldung. Frau [[person|Wolfsgruber]] hat die Schadensmeldung am [[date|1. Oktober 2026]] persönlich eingebracht, die Schaden-Nr. [[other_identifier|38/627035/26]] ist eine Folgeschadensnummer. Bitte beziehen Sie sich in künftiger Korrespondenz auf diese Nummer.
+danke für die Rückmeldung. Die Wasserschäden wurden auch im Vorraum und in der Waschküche festgestellt, was ich auf der Liste vermerkt habe. Frau [[person|Wolfsgruber]] hat die Schadensmeldung am [[date|1. Oktober 2026]] persönlich eingebracht, die Schaden-Nr. [[other_identifier|38/627035/26]] ist eine Folgeschadensnummer. Bitte beziehen Sie sich in künftiger Korrespondenz auf diese Nummer.
 
 Die Schadensmeldung der Versicherung ist unvollständig, weil die Fotos vom Keller fehlen. Ich habe die Liste der betroffenen Räume beigefügt: Keller, Vorraum, Waschküche, Abstellraum und zwei Lagerräume. Ich bitte um Nachreichung bis zum [[date|20. Oktober 2026]]. Die Fotos sollten den Zustand des Kellers vor und nach der Trocknung zeigen. Sollte die Nachreichung nicht rechtzeitig erfolgen, wird die Klage beim [[court|BG Melk]] eingebracht, die Kosten dafür trägt die Versicherung nicht.
 
@@ -57,7 +57,7 @@ Sehr geehrte Frau [[person|Zichy]],
 
 ich bin der Eigentümer der Liegenschaft im Grundbuch unter [[land_register_id|KG Pollham]] / [[land_register_id|EZ 269]] ([[court|BG Bruck an der Leitha]]) [[land_register_id|Gst.Nr. 747]]. Die Fotos des Kellers habe ich bereits hochgeladen. Ich habe außerdem die Feuchtigkeitsmessungen vom [[date|2. Oktober 2026]] beigelegt, die die Trocknung belegen. Die Schadensnummer [[other_identifier|64/986051/22]] ist aus dem Jahr 2022 und betrifft einen anderen Vorfall.
 
-Sie erwähnen die Versicherung, die die [[organization|Prinz Bau]] beauftragt hat. Die [[organization|PB]] hat die Arbeiten am Rohrsystem nach meinen Unterlagen am [[date|8. Oktober 2026]] abgenommen. Ich bitte Sie, mir mitzuteilen, wer die Rechnung übernimmt.
+Ich habe außerdem den Hausmeister [[person|Gerhard Lukesch]] als Zeugen benannt, der den Rohrbruch am [[date|28. September 2026]] gemeldet hat. Sie erwähnen die Versicherung, die die [[organization|Prinz Bau]] beauftragt hat. Die [[organization|PB]] hat die Arbeiten am Rohrsystem nach meinen Unterlagen am [[date|8. Oktober 2026]] abgenommen. Ich bitte Sie, mir mitzuteilen, wer die Rechnung übernimmt.
 
 Mit freundlichen Grüßen
 

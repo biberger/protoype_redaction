@@ -40,7 +40,13 @@ Die Schadenhöhe beträgt laut Kostenvoranschlag der Sachverständigen 8.450 Eur
 
 Sollte die Zahlung nicht fristgerecht erfolgen, werden wir ohne weitere Ankündigung die Klage einbringen. Die anfallenden Kosten einschließlich der Gutachterkosten machen wir in diesem Fall als Schaden geltend.
 
-Wir bitten um Bestätigung des Eingangs und um Mitteilung der zuständigen Sachbearbeiterin.
+Wir bitten um Bestätigung des Eingangs und um Mitteilung der zuständigen Sachbearbeiterin. Eine Kopie unserer Vollmacht von [[person|Tomić Radoslav]] übermitteln wir auf Anfrage gerne nach.
+
+Beilagen:
+./.1 Gutachten der Sachverständigen vom [[date|3. März 2025]]
+./.2 Kostenvoranschlag mit Positionen Parkett, Küchenzeile und Elektrik
+./.3 Schadenfotos vom [[date|11. Februar 2025]]
+./.4 Zustimmungserklärung der Miteigentümerin
 
 Mit freundlichen Grüßen
 

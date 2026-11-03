@@ -58,7 +58,7 @@ Sehr geehrte Frau [[person|Hunger]],
 
 das Verfahren ist beim [[court|BG Vöcklabruck]] anhängig. Bitte senden Sie uns die Unterlagen zum Grundstück
 [[land_register_id|KG: 53255]], Einlagezahl [[land_register_id|2409]], Grundstück [[land_register_id|452/9]], bis
-zum [[date|20. Oktober 2026]].
+zum [[date|20. Oktober 2026]]. Ohne vollständige Unterlagen kann die [[organization|Steckel]] die Schadenregulierung nicht abschließen.
 
 Mit freundlichen Grüßen
 

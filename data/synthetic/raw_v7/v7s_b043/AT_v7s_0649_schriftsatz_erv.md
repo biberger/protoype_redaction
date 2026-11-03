@@ -101,6 +101,10 @@ c) allen Parteien die Kosten des Verfahrens auferlegen.
 
 6.4 Die Vollmacht der Klägerin liegt bei und wird im ERV als Beilage ./F übermittelt. Die Klägerin erteilt dem Vertreter die Vollmacht für das gesamte Verfahren einschließlich der Ermächtigung zur Empfangnahme von Zahlungen.
 
+7. Kosten
+
+Die Klägerin hat die Kosten des Verfahrens nach [[legal_norm|§ 41 ZPO]] zu erwarten, soweit sie obsiegt. Die Kosten der Sachverständigen werden vorläufig von der Klägerin getragen und sind im Streitwert nicht enthalten, weil es sich um Barauslagen handelt, die im Falle des Obsiegens von den beklagten Parteien zu ersetzen sind. Die Klägerin behält sich vor, die Kosten nach Vorlage der Rechnungen zu beziffern.
+
 Beilagen
 
 ./A Kaufvertrag vom [[date|17.03.2011]]
