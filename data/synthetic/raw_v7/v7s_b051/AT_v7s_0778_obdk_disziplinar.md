@@ -41,6 +41,8 @@ Die Anzeige ging am [[date|14. Juli 2025]] bei der [[organization|TRAK]] ein. De
 
 Die Beschuldigte bestritt die Vorwürfe nicht vollständig. Sie erklärte, die Entnahme vom Treuhandkonto sei zur Deckung ihres Honoraranspruchs erfolgt, und legte zu diesem Zweck eine Honorarnote vor, die jedoch erst nach Entnahme ausgestellt worden war. Die Honorarnote trägt das Datum [[date|2. Juni 2025]], die Entnahme erfolgte aber am [[date|19. Mai 2025]].
 
+Die Kammer hatte die Anzeige zunächst an die Kammeranwältin verwiesen, die eine ergänzende Stellungnahme des Mandanten [[person|Ottokar Mayrhofer]] einholte. Dieser bestätigte die Entnahme und die fehlende Abrechnung. Die Beschuldigte stellte daraufhin einen Antrag auf Verfahrenseinstellung, der vom Senat abgewiesen wurde, weil die Voraussetzungen nicht vorlagen.
+
 2. Sachverhalt
 
 2.1. Die Beschuldigte übernahm im Herbst 2024 die Vertretung des Mandanten [[person|Ottokar Mayrhofer]] in einer Schadenersatzangelegenheit. Der Gegner hatte eine Zahlung von EUR 18.500,00 unter der Bedingung angeboten, dass die Zahlung über ein Treuhandkonto der Kanzlei abgewickelt wird. Die Zahlung wurde unter der Treuhandbuch-Nr. [[other_identifier|2019/275]] verbucht.
@@ -68,6 +70,10 @@ Datum | Vorgang | Betrag | Klient | Treuhandnr.
 
 2.9. Der Gegner der Mandanten, die [[organization|Hofmann Bau GmbH]], hat den Betrag auf das Treuhandkonto überwiesen, ohne eine Verwendungsbestimmung anzugeben. Die Zahlung wurde daher zunächst auf dem Konto gesammelt und erst später dem richtigen Mandanten zugeordnet.
 
+2.10. Im Zuge der Erhebungen wurde festgestellt, dass die Beschuldigte für den Mandanten [[person|Ottokar Mayrhofer]] zwei weitere Akte bearbeitet hat, bei denen keine Treuhandvorgänge aufscheinen. Diese Akte sind für die Entscheidung nicht erheblich, weil sie den Vorwurf nicht berühren. Die Kammer hat sie dennoch in die Aufstellung aufgenommen.
+
+2.11. Die Beschuldigte hat die Herausgabe der Kontoauszüge zunächst verweigert und erst nach einer Zwangsmaßnahme durch die Kammer vorgelegt. Diese Verzögerung wurde vom Senat bei der Würdigung der Mitwirkung berücksichtigt.
+
 3. Rechtliche Beurteilung
 
 3.1. Gemäß [[legal_norm|§ 43a Abs 3 RAO]] iVm [[legal_norm|§ 12 Abs 2 RL-BA]] hat der Rechtsanwalt fremde Gelder unverzüglich und getrennt von eigenen Mitteln zu verwalten. Eine Entnahme zur Deckung eines Honoraranspruchs setzt eine vorherige Abrechnung voraus, die dem Mandanten zugegangen sein muss.
@@ -87,6 +93,8 @@ Datum | Vorgang | Betrag | Klient | Treuhandnr.
 4. Strafbemessung
 
 Die Geldbuße wurde unter Berücksichtigung der Unbescholtenheit der Beschuldigten und der Schadenswiedergutmachung auf EUR 3.000,00 festgesetzt. Erschwerend wirkt die Zahl von zwei Fällen. Die Verhängung eines Berufsverbotes war nicht erforderlich.
+
+Der Senat hat bei seiner Entscheidung auch die Stellungnahme der Rechtsanwaltskammer berücksichtigt, wonach die Beschuldigte bisher keine vergleichbaren Verfehlungen begangen hat. Die Kammer hat zudem auf die Notwendigkeit hingewiesen, die Mitarbeiter der Kanzlei in der Abwicklung von Treuhandvorgängen zu schulen. Diese Hinweise werden der Beschuldigten zur Kenntnis gebracht.
 
 5. Kosten und Rechtsmittel
 

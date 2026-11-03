@@ -64,7 +64,7 @@ Schlussbestimmungen
 
 1. Änderungen dieses Vertrags bedürfen der Schriftform.
 
-2. Der Mieter darf das Lokal nur für den vereinbarten Zweck verwenden und ist zur Einhaltung der gewerberechtlichen Vorschriften verpflichtet. Eine Änderung der Branche bedarf der Zustimmung der Vermieterin.
+2. Die [[organization|Epstein]] hat das Lokal bereits im Jahr 2016 an den Mieter übergeben. Der Mieter darf das Lokal nur für den vereinbarten Zweck verwenden und ist zur Einhaltung der gewerberechtlichen Vorschriften verpflichtet. Eine Änderung der Branche bedarf der Zustimmung der Vermieterin.
 
 3. Die Vermieterin ist berechtigt, Werbeanlagen nur nach vorheriger schriftlicher Zustimmung anzubringen; diese Zustimmung wird durch [[person|von Einem]] erteilt.
 

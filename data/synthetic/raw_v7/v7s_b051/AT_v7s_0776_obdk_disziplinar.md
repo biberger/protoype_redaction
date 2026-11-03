@@ -55,6 +55,8 @@ Die Kostenentscheidung beruht auf [[legal_norm|§ 66 DSt]].
 
 3.5. Zu seinen Gunsten wurde berücksichtigt, dass der Beschuldigte seit dem Jahr 2010 zugelassen ist und bisher keine disziplinären Verfahren anhängig waren. Erschwerend ist die Höhe des entnommenen Betrags.
 
+Die Kammeranwältin hat in ihrem Schlussvortrag darauf hingewiesen, dass die Verwendung von Treuhandgeldern zur Begleichung eigener Honorare ein Vertrauensdelikt darstellt, das die Glaubwürdigkeit des Berufsstandes berührt. Der Senat teilt diese Auffassung, sieht aber den Umstand der Rückzahlung als wesentlichen Milderungsgrund.
+
 Der Senat hat bei der Bemessung der Geldbuße die wirtschaftlichen Verhältnisse des Beschuldigten berücksichtigt. Die verhängte Geldbuße liegt im unteren Bereich des Strafrahmens, weil der Beschuldigte den entnommenen Betrag zurückerstattet hat.
 
 Die Zustellung dieses Erkenntnisses erfolgt an den Beschuldigten und an die [[court|OBDK]], soweit eine Berufung erhoben wird.

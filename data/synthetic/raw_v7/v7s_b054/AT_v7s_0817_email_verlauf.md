@@ -94,6 +94,8 @@ Sehr geehrter Herr [[lawyer|Dr. Lindorfer]],
 
 bei der Ortsbegehung am [[date|23.10.2026]] habe ich festgestellt, dass die Drainage um etwa zwei Meter von der Plangrenze abweicht. Die [[organization|KVG]] bestätigt daher ihr Gutachten vom [[date|04.09.2026]] nicht. Ich korrigiere den Plan bis zum [[date|29.10.2026]]. Die Grenzsteine habe ich am selben Tag neu vermessen; die Protokolle gehen Ihnen gesondert zu.
 
+Zur Klarstellung: Die Grenze zwischen den Grundstücken wurde im Jahr 1998 im Zuge der Grundstücksteilung festgelegt. Der damalige Plan enthält den Grenzverlauf nur im Maßstab 1:2000, weshalb die Abweichung der Drainage bei der ersten Planprüfung nicht auffiel. Ich habe dem Plan der [[organization|KVG]] vom [[date|04.09.2026]] daher keine Bedeutung für die Haftungsfrage beigemessen, sondern nur für die Lage der Leitung.
+
 Mit freundlichen Grüßen
 [[person|Loulou Ing. Kattan]]
 Vermessungsingenieur

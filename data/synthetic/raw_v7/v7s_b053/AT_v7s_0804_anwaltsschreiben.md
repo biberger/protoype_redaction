@@ -31,7 +31,8 @@ Die Haftung des Lenkers ist aus unserer Sicht eindeutig. Der Lenker hat das Vorr
 Die [[organization|Steininger Handels]] hat den Schaden bisher nicht reguliert. Wir ersuchen die [[organization|KAA]] daher, bis [[date|30.10.2026]] Stellung zu nehmen und den Schaden anzuerkennen.
 
 Weitere Beteiligte:
-Der Mitfahrer [[person|Oleksiy Pantschuk]], geboren am [[date_of_birth|5. November 1940]], StA: [[country|Ukraine]], hat ein Schmerzensgeld wegen einer Prellung im Schulterbereich geltend gemacht. Die Beifahrerin [[person|Bernhardine Schachinger]], geb [[date_of_birth|1965-09-25]], StA: [[country|Türkei]], hat einen Anspruch auf Ersatz des Verdienstentgangs.
+Der Mitfahrer [[person|Oleksiy
+Pantschuk]], geboren am [[date_of_birth|5. November 1940]], StA: [[country|Ukraine]], hat ein Schmerzensgeld wegen einer Prellung im Schulterbereich geltend gemacht. Die Beifahrerin [[person|Bernhardine Schachinger]], geb [[date_of_birth|1965-09-25]], StA: [[country|Türkei]], hat einen Anspruch auf Ersatz des Verdienstentgangs.
 
 Der Befundbericht des Krankenhauses vom [[date|12.09.2026]] bestätigt eine Prellung der linken Schulter, die eine Schonung von drei Wochen erforderlich machte. Die Arbeitsunfähigkeit des Mitfahrers [[person|Pantschuk]] wurde bis zum [[date|03.10.2026]] bestätigt. Eine Kopie des Befundes liegt diesem Schreiben bei.
 

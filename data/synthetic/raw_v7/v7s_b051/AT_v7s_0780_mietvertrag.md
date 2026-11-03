@@ -39,6 +39,8 @@ Die Nutzfläche beträgt insgesamt 112 m², davon 74 m² Wohnfläche und 38 m² 
 
 Das Mietverhältnis beginnt am [[date|1. Dezember 2026]] und wird auf fünf Jahre fest abgeschlossen. Danach verlängert es sich jeweils um drei Jahre, sofern nicht eine Partei spätestens sechs Monate vor Ablauf kündigt.
 
+(3) Eine Vormerkung des Bestandrechts im Grundbuch wird nicht begehrt. Die Kündigung hat schriftlich und eingeschrieben zu erfolgen. Eine mündliche Kündigung ist unwirksam.
+
 § 3 Mietzins
 
 (1) Der monatliche Mietzins beträgt für die Wohnung EUR 690,00 und für das Geschäftslokal EUR 1.180,00, jeweils zuzüglich Umsatzsteuer und Betriebskosten.

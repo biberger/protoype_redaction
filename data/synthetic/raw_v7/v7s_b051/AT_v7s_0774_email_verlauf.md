@@ -94,7 +94,7 @@ Mit freundlichen Grüßen
 
 Sehr geehrter Herr [[person|Unterrainer]],
 
-wir bestätigen die Vertretung der [[organization|Staal Handels GmbH]] in dieser Angelegenheit. Der Schlussstand ist mit der Buchungsbestätigung von Frau [[person|Valerien Dusl]] abgestimmt. Wir ersuchen um Bestätigung der Erledigung bis [[date|31. Oktober 2026]].
+wir bestätigen die Vertretung der [[organization|Staal Handels GmbH]] in dieser Angelegenheit. Der Schlussstand ist mit der Buchungsbestätigung von Frau [[person|Valerien Dusl]] abgestimmt. Wir ersuchen um Bestätigung der Erledigung bis [[date|31. Oktober 2026]]. Sollten Sie weitere Unterlagen benötigen, übersenden wir Ihnen gerne die Rechnungskopien und die Lieferscheine der [[organization|Staal Handels GmbH]]. Die Kundennummer der Mandantin bitten wir bei sämtlichen Zahlungen weiterhin anzugeben.
 
 Mit freundlichen Grüßen
 

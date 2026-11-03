@@ -4,36 +4,36 @@ jurisdiction: AT
 lang: de
 ---
 Von: [[person|Irmline Lauda]] <[[email|i.lauda@alpenland-agv.at]]>
-Gesendet: Montag, 5. Oktober 2026 08:41
+Gesendet: Montag, [[date|5. Oktober 2026]] 08:41
 An: [[person|Prohaska]] <[[email|office@prohaska.at]]>
-Betreff: AW: Schadenfall Hakl Handels, Ihr Zeichen 69953
+Betreff: AW: Schadenfall [[organization|Hakl Handels]], Ihr Zeichen [[other_identifier|69953]]
 
-Sehr geehrter Herr Prohaska,
+Sehr geehrter Herr [[person|Prohaska]],
 
 die [[organization|Alpenland Gewerbeversicherung AG]] ([[organization|AGV]]) bestätigt den Eingang Ihrer Schadensmeldung. Die [[organization|AGV]] prüft derzeit, ob der Versicherungsfall unter die Deckung der Polizze fällt. Eine Entscheidung wird innerhalb von vier Wochen erwartet.
 
 Mit freundlichen Grüßen
-Irmline Lauda
+[[person|Irmline Lauda]]
 Schadenregulierung
 
 > Von: [[person|Prohaska]]
-> Gesendet: Donnerstag, 1. Oktober 2026 16:02
-> Betreff: Schadenfall Hakl Handels, Ihr Zeichen 69953
+> Gesendet: Donnerstag, [[date|1. Oktober 2026]] 16:02
+> Betreff: Schadenfall [[organization|Hakl Handels]], Ihr Zeichen [[other_identifier|69953]]
 > Klientennummer: [[other_identifier|69953]]
-> Sehr geehrte Frau Lauda, wir melden den Diebstahl eines Transporters der [[organization|Hakl Handels]]. Versicherter Fahrer war [[person|Malachias Macek]], *[[date_of_birth|16. Jänner 1956]].
+> Sehr geehrte Frau [[person|Lauda]], wir melden den Diebstahl eines Transporters der [[organization|Hakl Handels]]. Versicherter Fahrer war [[person|Malachias Macek]], *[[date_of_birth|16. Jänner 1956]].
 
 Von: [[person|Prohaska]] <[[email|office@prohaska.at]]>
-Gesendet: Dienstag, 6. Oktober 2026 10:15
+Gesendet: Dienstag, [[date|6. Oktober 2026]] 10:15
 An: [[person|Lauda]] <[[email|i.lauda@alpenland-agv.at]]>, [[person|Chaloupek]] <[[email|t.chaloupek@hakl-handels.at]]>
 Cc: [[person|Macek]]
-Betreff: AW: AW: Schadenfall Hakl Handels, Ihr Zeichen 69953
+Betreff: AW: AW: Schadenfall [[organization|Hakl Handels]], Ihr Zeichen [[other_identifier|69953]]
 
-Sehr geehrte Frau Lauda,
+Sehr geehrte Frau [[person|Lauda]],
 
 danke für Ihre Rückmeldung. Die [[organization|Hakl Handels GmbH]] ([[company_register_number|FN 34832z]], UID [[tax_id|ATU08717343]]) ersucht um Zahlung der Versicherungsleistung auf das Konto der Gesellschaft. Die Klientin [[person|Chaloupek]] hat den Auftrag erteilt, die Angelegenheit weiterzuführen.
 
 > Von: [[person|Lauda]]
-> Gesendet: Montag, 5. Oktober 2026 08:41
+> Gesendet: Montag, [[date|5. Oktober 2026]] 08:41
 > Die [[organization|AGV]] prüft derzeit, ob der Versicherungsfall unter die Deckung der Polizze fällt.
 
 Wir ersuchen um Bestätigung bis Ende der Woche. Die [[organization|Hakl]] ist durch den Verlust des Fahrzeugs derzeit nur eingeschränkt lieferfähig.
@@ -49,11 +49,11 @@ E: [[email|office@prohaska.at]]  W: www.prohaska.at
 ERV-Code: [[other_identifier|R403324]]
 
 Von: [[person|Chaloupek]] <[[email|t.chaloupek@hakl-handels.at]]>
-Gesendet: Mittwoch, 14. Oktober 2026 09:12
+Gesendet: Mittwoch, [[date|14. Oktober 2026]] 09:12
 An: [[person|Prohaska]] <[[email|office@prohaska.at]]>
-Betreff: AW: AW: AW: Schadenfall Hakl Handels, Ihr Zeichen 69953
+Betreff: AW: AW: AW: Schadenfall [[organization|Hakl Handels]], Ihr Zeichen [[other_identifier|69953]]
 
-Sehr geehrter Herr Prohaska,
+Sehr geehrter Herr [[person|Prohaska]],
 
 ich bestätige, dass [[person|Macek]] das Fahrzeug am Wochenende nicht verwenden durfte. Die Schlüssel lagen im Büro der [[organization|Hakl]]. Irmline [[person|Lauda]] wird dies gewiss prüfen; ich bitte um eine Kopie der Polizeianzeige.
 

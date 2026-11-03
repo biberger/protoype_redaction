@@ -52,7 +52,7 @@ I. Sachverhalt
 
 Montageort: [[address|6166 Fulpmes]]
 
-Die Klägerin schloss am [[date|14.05.2020]] mit der [[organization|Suida e.U.]] einen Vertrag über die Lieferung und Montage von Fensteranlagen für das Wohnhaus der Klägerin. Die Gesellschaft ist im Firmenbuch [[company_register_number|FN 160493w]] eingetragen; UID [[tax_id|ATU17746312]].
+Die Klägerin schloss am [[date|14.05.2020]] mit der [[organization|Suida e.U.]] (im Folgenden „[[organization|SUIDA]]“) einen Vertrag über die Lieferung und Montage von Fensteranlagen für das Wohnhaus der Klägerin. Die Gesellschaft ist im Firmenbuch [[company_register_number|FN 160493w]] eingetragen; UID [[tax_id|ATU17746312]].
 
 Die Beklagte zu 2. war zum Zeitpunkt des Vertragsabschlusses als Bauleiterin tätig. Der Beklagte zu 3. hat die statische Berechnung für die Fensteranlage erstellt. Die beiden Beklagten haben der Klägerin die Mängelfreiheit der Arbeiten bestätigt, obwohl die Fenster den Anforderungen der Norm nicht entsprachen.
 
@@ -60,7 +60,7 @@ Die Beklagte zu 1. ist Eigentümerin des angrenzenden Grundstücks, auf dem die 
 
 II. Rechtliche Ausführungen
 
-Die Haftung der Beklagten ergibt sich aus [[legal_norm|§ 1295 ABGB]] iVm [[legal_norm|§ 1311 ABGB]], da sie als Sachverständige und Bauleiter fahrlässig gehandelt haben. Die [[country|Republik Österreich]] haftet als Anstellungskörperschaft der Beklagten zu 2. nach [[legal_norm|Amtshaftungsgesetz]].
+Die [[organization|SUIDA]] hat die Montage ohne Abnahmeprotokoll beendet. Die Haftung der Beklagten ergibt sich aus [[legal_norm|§ 1295 ABGB]] iVm [[legal_norm|§ 1311 ABGB]], da sie als Sachverständige und Bauleiter fahrlässig gehandelt haben. Die [[country|Republik Österreich]] haftet als Anstellungskörperschaft der Beklagten zu 2. nach [[legal_norm|Amtshaftungsgesetz]].
 
 Die Klägerin hat die Mängel mit Schreiben vom [[date|02.09.2025]] gerügt. Die Beklagten haben bis heute keine Verbesserung herbeigeführt.
 

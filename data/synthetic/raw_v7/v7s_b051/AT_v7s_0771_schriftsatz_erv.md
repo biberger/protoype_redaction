@@ -79,6 +79,8 @@ III. Rechtliche Ausführungen
 
 9. Die Klägerin war nach dem Unfall in ihrer Mobilität eingeschränkt und konnte weder die Einkaufstätigkeit noch die Pflege ihres Gartens selbst besorgen. Diese Einschränkung dauerte bis zum Ende der Rehabilitation und ist beim Schmerzengeld berücksichtigt.
 
+10. Die Beklagte hat die Schadensmeldung der Klägerin mit Schreiben vom [[date|12. Februar 2026]] zwar bestätigt, aber jede Haftung abgelehnt. Die Ablehnung wurde ohne Begründung ausgesprochen und ist daher für die Zwecke der Klage unbeachtlich.
+
 IV. Kosten
 
 Die Kosten des Verfahrens werden nach den Bestimmungen der [[legal_norm|ZPO]] geltend gemacht.

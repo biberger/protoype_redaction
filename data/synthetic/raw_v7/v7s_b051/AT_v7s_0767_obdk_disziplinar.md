@@ -75,6 +75,8 @@ Datum | Vorgang | Betrag | Mandant | Treuhandnr.
 
 Die Geldbuße wurde unter Berücksichtigung der wirtschaftlichen Verhältnisse des Beschuldigten bemessen. Ein Verbot der Berufsausübung war nicht zu verhängen, weil der Beschuldigte bisher disziplinär unbescholten ist. Die Kosten wurden dem Beschuldigten auferlegt.
 
+3.7. Der Beschuldigte hat im Verfahren keine Gegenvorstellung erhoben, sondern die Abrechnung nachträglich vorgelegt. Dies wurde als Anerkennung des Verstoßes gewertet, ohne dass dadurch der Verstoß selbst entfällt.
+
 5. Rechtsmittelbelehrung
 
 Gegen diese Entscheidung ist die Berufung an die [[court|OBDK]] zulässig. Die Berufung ist binnen vier Wochen ab Zustellung einzubringen. Gegen die Entscheidung der [[court|OBDK]] ist unter den Voraussetzungen des [[legal_norm|§ 5 DSt]] die Revision an den [[court|OGH]] zulässig.

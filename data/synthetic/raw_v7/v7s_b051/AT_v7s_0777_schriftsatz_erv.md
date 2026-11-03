@@ -66,6 +66,8 @@ RECHTLICHE AUSFÜHRUNGEN
 
 4. Die Verwirkung des Wohnrechts ergibt sich zudem aus dem Umstand, dass die Beklagte die Wohnung nach Ablauf des Bestandvertrages nicht verlassen hat. Die Beklagte hat sich auf eine Zustimmung der Klägerin nicht berufen können, weil eine solche nicht schriftlich erteilt wurde.
 
+Die Klägerin ist zudem bereit, der Beklagten eine Räumungsfrist bis zum [[date|31. Dezember 2026]] einzuräumen, sofern die Beklagte die Wohnung bis dahin freiwillig herausgibt. Ein Vergleich in diesem Sinne wurde der Beklagten angeboten, aber nicht angenommen.
+
 5. Die Klägerin stellt den Antrag, das Gericht möge dem Klagebegehren stattgeben und die Kosten dem Beklagten auferlegen.
 
 [[location|Steyr]], am [[date|27.10.2026]]

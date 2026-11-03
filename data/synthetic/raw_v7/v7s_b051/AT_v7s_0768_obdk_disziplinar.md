@@ -59,6 +59,8 @@ Datum | Vorgang | Betrag | Mandant | Treuhandnr.
 
 3.7. Der Senat hat ferner geprüft, ob die Mandantin durch die Verzögerung einen weiteren Schaden erlitten hat. Dies ist nicht der Fall, weil die Mandantin den Betrag nach Abschluss des Verfahrens vollständig erhalten hat. Die Beschuldigte hat daher keinen Vermögensnachteil zu verantworten, der über die festgestellte Pflichtverletzung hinausgeht.
 
+3.8. Die Beschuldigte hat im Berufungsverfahren erklärt, sie werde künftig eine Treuhandkontrolle durch eine Kollegin einführen. Der Senat nimmt diese Erklärung zur Kenntnis und sieht darin einen Ansatz zur künftigen Vermeidung ähnlicher Verstöße.
+
 4. Kosten
 
 Die Kostenentscheidung beruht auf [[legal_norm|§ 66 DSt]]. Die Beschuldigte trägt die Kosten des Berufungsverfahrens zu einem Drittel, weil sie mit ihrem Berufungsbegehren hinsichtlich der Strafhöhe teilweise durchgedrungen ist.

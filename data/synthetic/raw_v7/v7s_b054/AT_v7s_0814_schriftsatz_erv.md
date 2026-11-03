@@ -62,6 +62,10 @@ Die Kostenentscheidung beruht auf [[legal_norm|§§ 41, 50 ZPO]]. Die Kläger ha
 
 Die Revisionsfrist nach [[legal_norm|§ 505 Abs 1 ZPO]] wurde gewahrt, da das Urteil des Berufungsgerichtes den Klägern am [[date|15.10.2026]] zugestellt wurde und diese Revision innerhalb von vier Wochen eingebracht wird.
 
+Die Republik Österreich als Nebenintervenientin hat in der Berufungsbeantwortung vorgebracht, dass die Liegenschaft nur mit einer Zustimmung der Gemeinde übertragen werden durfte. Diese Behauptung ist für den Ausgang des Verfahrens unerheblich, weil die Gewährleistung nicht von einer behördlichen Genehmigung abhängt. Das [[organization|Land Oberösterreich]] als Streitverkündeter hat keine eigene Stellungnahme abgegeben.
+
+Der Zeuge [[person|Zauner]] hat in seiner Aussage vom [[date|09.11.2022]] angegeben, dass die Anlage bei der Übergabe bereits Feuchtigkeit im Heizkeller aufgewiesen habe. Diese Angabe hat das Erstgericht nicht gewürdigt, obwohl sie für die Frage der Erkennbarkeit des Mangels bei Übergabe von Bedeutung ist.
+
 V. Anträge
 
 Die Kläger stellen daher den Antrag, der [[court|Oberste Gerichtshof]] möge das angefochtene Urteil aufheben und die Rechtssache an die Vorinstanz zurückverweisen, in eventu dem Klagebegehren vollinhaltlich stattgeben.

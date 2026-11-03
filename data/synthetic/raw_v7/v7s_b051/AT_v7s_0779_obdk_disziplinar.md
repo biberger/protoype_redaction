@@ -54,6 +54,12 @@ Datum | Vorgang | Betrag | Mandant | Treuhandnr.
 
 2.6. Der Mandant [[person|Burghardt Tschofenig]] hat die Beschuldigte am [[date|3. Februar 2025]] schriftlich aufgefordert, den Stand des Treuhandkontos mitzuteilen. Die Beschuldigte antwortete am [[date|17. Februar 2025]], ohne den Kontostand anzugeben. Eine Abrechnung wurde auch auf eine zweite Aufforderung nicht übermittelt.
 
+2.7. Die Beschuldigte hat die Treuhandgelder der beiden Mandanten nicht auf einem gesonderten Anderkonto verwahrt, sondern auf dem allgemeinen Geschäftskonto der Kanzlei. Diese Vermischung stellt einen eigenständigen Verstoß dar, der im Verfahren unstrittig ist. Die Beschuldigte begründete dies damit, dass das Anderkonto erst nach der Auszahlung eröffnet worden sei. Der Senat hat dieses Vorbringen zurückgewiesen, weil das Konto bereits im Jahr 2022 eröffnet wurde.
+
+2.8. Der Mandant [[person|Leies Koenig]] hat im Verfahren angegeben, er habe die Beschuldigte im Jahr 2023 mit der Vertretung beauftragt, nachdem er von der Vermieterin in [[location|Leoben]] eine Kündigung erhalten hatte. Eine Honorarvereinbarung wurde nicht schriftlich getroffen. Die Beschuldigte hat den Honoraranspruch erst im Jahr 2024 beziffert.
+
+2.9. Nach den Feststellungen des Senats waren die Auszahlungen an die Mandanten zu keinem Zeitpunkt gefährdet. Die Verzögerung war jedoch geeignet, das Vertrauen der Mandanten in die ordnungsgemäße Verwahrung zu beeinträchtigen. Der Senat stellt dies im Rahmen der Strafzumessung fest.
+
 3. Rechtliche Beurteilung
 
 3.1. Die Pflicht zur getrennten und vertragsgemäßen Verwahrung fremder Gelder ergibt sich aus [[legal_norm|§ 43a Abs 3 RAO]] und den Richtlinien für die Ausübung des Anwaltsberufs ([[legal_norm|RL-BA]]). Eine Entnahme ohne Abrechnung verletzt diese Pflicht unabhängig davon, ob ein Honoraranspruch besteht.
@@ -68,6 +74,8 @@ Datum | Vorgang | Betrag | Mandant | Treuhandnr.
 
 3.6. Der Senat hat die Grundsätze der Strafzumessung beachtet. Die verhängte Geldbuße liegt im unteren Drittel des Rahmens, weil die Beschuldigte bisher nicht disziplinär aufgefallen ist und den Schaden der Mandanten ausgeglichen hat.
 
+3.7. Die Verletzung der Pflicht zur Abrechnung steht in unmittelbarem Zusammenhang mit der Verletzung der Pflicht zur getrennten Verwahrung. Beide Pflichten dienen dem Schutz der Mandanten und sind daher als einheitlicher Verstoß zu würdigen.
+
 4. Strafbemessung
 
 Die Geldbuße berücksichtigt die Zahl der Verstöße und die Dauer der Verzögerung. Mildernd war, dass die Beschuldigte die Verfehlungen teilweise einräumte. Ein Berufsverbot wurde nicht verhängt.
@@ -75,6 +83,8 @@ Die Geldbuße berücksichtigt die Zahl der Verstöße und die Dauer der Verzöge
 5. Kosten und Rechtsmittel
 
 Die Kostenentscheidung beruht auf [[legal_norm|§ 66 DSt]]. Gegen diese Entscheidung ist die Berufung an die [[court|OBDK]] zulässig.
+
+Die Verhandlung wurde durch den Schriftführer [[person|Dumitru Procopie]] protokolliert. Das Protokoll wurde den Parteien vorgelegt, und es wurden keine Einwendungen erhoben.
 
 6. Verfahrensdauer und Anhörung
 

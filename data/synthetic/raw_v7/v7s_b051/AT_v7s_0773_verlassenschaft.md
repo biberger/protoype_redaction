@@ -58,7 +58,7 @@ IV. Schulden
 
 Die Verstorbene hatte Verbindlichkeiten aus einem Kreditvertrag mit der [[organization|Sparkasse Taufkirchen an der Trattnach AG]] in Höhe von EUR 3.870,00. Die Begräbniskosten in Höhe von EUR 4.100,00 wurden von [[person|Nadezhda Burgstaller]] vorgeschossen und sind vorrangig zu befriedigen.
 
-VI. Sonstige Nachlassbestandteile
+V. Sonstige Nachlassbestandteile
 
 5. Der Verstorbenen gehörte ein Pkw, dessen Schätzwert EUR 2.100,00 beträgt. Das Fahrzeug wurde von der Erbin [[person|Nadezhda Burgstaller]] übernommen und bis zur Einantwortung verwahrt. Die Kosten der Verwahrung trägt der Nachlass.
 
@@ -66,13 +66,19 @@ VI. Sonstige Nachlassbestandteile
 
 7. Der Notar hat in der Wohnung in [[location|Wien]] einen Teil der Fahrnisse versiegelt. Die Versiegelung wurde am [[date|2. Februar 2023]] aufgehoben, nachdem die Erben die Liste der Gegenstände bestätigt hatten.
 
-VII. Stellungnahmen der Erben
+VI. Stellungnahmen der Erben
 
 8. [[person|Ghozzi Jaffar]] hat schriftlich erklärt, er anerkenne die ihm zugedachte Quote. Er verlangt jedoch die Vorlage der Kontoauszüge für die Zeit vor dem Todesfall. [[person|Purić Nihat]] hat die Anerkennung nur unter dem Vorbehalt erklärt, dass die Begräbniskosten nicht aus dem Nachlass vorab bezahlt werden. Die [[person|Steinwender]] hat sich bisher nicht geäußert.
 
 9. Die Erbin [[person|Nadezhda Burgstaller]] hat die Belege über die Begräbniskosten vorgelegt. Die Belege sind mit den Rechnungen des Bestattungsunternehmens abgestimmt. Der Notar hat die Kosten daher als Nachlassverbindlichkeit anerkannt.
 
-V. Weiterer Verfahrensgang
+10. Der Notar hat die Erben darauf hingewiesen, dass die Ausschlagungsfrist für die Erbanteile am [[date|15. November 2026]] endet. Die Ausschlagung ist nur durch eine Erklärung vor dem Gericht oder vor einem Notar wirksam.
+
+11. Die Verwertung der Liegenschaft wird derzeit nicht betrieben. Die Erben haben sich auf eine Übernahme des Grundstücks durch [[person|Nadezhda Burgstaller]] verständigt, die eine Abfindung an die übrigen Erben in Höhe von EUR 22.000,00 leisten soll.
+
+12. Die Kosten der Verlassenschaftsabhandlung werden vorrangig aus dem Bankguthaben gedeckt. Ein Rest der Kosten ist von den Erben nach dem Verhältnis ihrer Quoten zu tragen, soweit er nicht aus dem Erlös der Fahrnisse beglichen werden kann.
+
+VII. Weiterer Verfahrensgang
 
 Die erbantrittserklärten Personen werden aufgefordert, binnen vier Wochen die Erbschaftssteuer-Erklärung und die Unterlagen über das Nachlassvermögen vorzulegen. Der Notar wird nach Einlangen der Unterlagen das Nachlassinventar erstellen und den Antrag auf Einantwortung stellen. Die [[court|BG Hietzing]] hat die Verlassenschaft mit dem Beschluss vom [[date|14. Oktober 2026]] der Abhandlung zugewiesen.
 

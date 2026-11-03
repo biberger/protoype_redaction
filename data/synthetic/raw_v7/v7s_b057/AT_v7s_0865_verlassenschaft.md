@@ -17,7 +17,7 @@ GZ [[case_number|3 A 88/26t]]
 An das
 [[court|Bezirksgericht Villach]]
 
-Die Verstorbene, [[person|Mandl]], hat zum Zeitpunkt ihres Todes in [[location|St. Johann im Pongau]] gewohnt. Sie hinterlässt eine Schwester und einen Neffen aus dem Vorversterben des Bruders in Deutschland; beide sind gesetzlich berufen. Der Nachlass wird im Wege der gesetzlichen Erbfolge abgehandelt, weil ein Testament nicht aufgefunden wurde.
+Die Verstorbene, [[person|Mandl]], hat zum Zeitpunkt ihres Todes in [[location|St. Johann im Pongau]] gewohnt. Sie hinterlässt eine Schwester und einen Neffen aus dem Vorversterben des Bruders in [[country|Deutschland]]; beide sind gesetzlich berufen. Der Nachlass wird im Wege der gesetzlichen Erbfolge abgehandelt, weil ein Testament nicht aufgefunden wurde.
 
 1. Erben
 
@@ -57,7 +57,7 @@ Die Verlassenschaft schuldet außerdem die Steuer aus dem Verkauf eines Kraftfah
 
 Die Erben wurden darauf hingewiesen, dass die Erbantrittserklärung binnen der gesetzlichen Frist beim [[court|BG Villach]] einzubringen ist. Das Verlassenschaftsgericht hat die Abhandlungstagsatzung auf [[date|02.11.2026]] anberaumt.
 
-Der Notar hat die Erben über die Möglichkeit der bedingten Erbantrittserklärung belehrt. Die Zustellung an den Erben [[person|Gutmann]] erfolgt über die Anschrift in Deutschland.
+Der Notar hat die Erben über die Möglichkeit der bedingten Erbantrittserklärung belehrt. Die Zustellung an den Erben [[person|Gutmann]] erfolgt über die Anschrift in [[country|Deutschland]].
 
 Die Unterlagen zum Nachlass sind im Notariat aufbewahrt. Kopien wurden [[person|Hefel]] übergeben. Die Vollmacht für die Vertretung der Verlassenschaft wurde am [[date|02.03.2026]] erteilt.
 
