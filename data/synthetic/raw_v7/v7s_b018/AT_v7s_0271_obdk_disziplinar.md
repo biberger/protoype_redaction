@@ -49,6 +49,8 @@ III. Der Beschuldigte hat die Kosten des Verfahrens zu tragen.
 
 9. Die Kostenentscheidung stützt sich auf die einschlägigen Bestimmungen des Disziplinarstatuts. Der Beschuldigte hat die Kosten des Verfahrens zu tragen, weil er mit seinem Vorbringen nicht durchgedrungen ist.
 
+10a. Gegen dieses Erkenntnis steht dem Beschuldigten und dem Kammeranwalt die Berufung an die [[court|OBDK]] offen. Die Berufung ist binnen vier Wochen ab Zustellung bei dieser Stelle einzubringen.
+
 Für den [[court|Disziplinarrat der Oberösterreichischen Rechtsanwaltskammer]]
 
 Der Vorsitzende: Senatspräsident [[judge|Borys Bevz]]

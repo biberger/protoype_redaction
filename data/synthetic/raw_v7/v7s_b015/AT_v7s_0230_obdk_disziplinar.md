@@ -85,7 +85,7 @@ Der Strafrahmen nach [[legal_norm|§ 45 Abs 1 RAO]] reicht bis zu einer Geldbuß
 
 Der Senat hat die wirtschaftlichen Verhältnisse der Angeklagten berücksichtigt. Sie betreibt eine Einzelkanzlei mit zwei Mitarbeiterinnen, deren Einkommen aus der Kanzlei gering ist. Eine Geldbuße von EUR 6.500,00 erscheint deshalb angemessen und ist auch für die Angeklagte tragbar.
 
-Die Auflage zur Fortbildung dient der Sicherstellung, dass die Angeklagte die Treuhandvorschriften künftig einhält. Der Senat wertet die Fortbildung als Maßnahme der Vorbeugung.
+Die Auflage zur Fortbildung dient der Sicherstellung, dass die Angeklagte die Treuhandvorschriften künftig einhält. Der Senat wertet die Fortbildung als Maßnahme der Vorbeugung. Die Angeklagte hat bereits in der Verhandlung angegeben, dass sie an einem entsprechenden Kurs der Kammer interessiert ist, weshalb der Senat die Auflage für umsetzbar hält.
 
 Der Senat hat weiters geprüft, ob eine Ermahnung ausreichen würde. Dies wurde verneint, weil die Pflichtverletzung über einen längeren Zeitraum erfolgte und der Restbetrag erst nach der Aufforderung zurückgezahlt wurde.
 

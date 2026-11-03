@@ -29,7 +29,7 @@ wir bestätigen den Eingang Ihrer Nachricht. Unsere Mandantin hält an der Forde
 
 Wir ersuchen um Klarstellung, ob die [[organization|WIG]] die Zahlung innerhalb von vier Wochen leistet oder ob wir die Klage bei der [[court|Oberlandesgericht Wien]] vorbereiten sollen. Eine Klage beim [[court|OLG Wien]] wäre nur zulässig, wenn der Streitwert die Grenze überschreitet; dies haben wir geprüft. Die Schadensbehebung durch die [[organization|WIG]] ist bisher nicht erfolgt, die Mängel bestehen fort.
 
-Bitte bestätigen Sie den Empfang bis Ende der Woche.
+Bitte bestätigen Sie den Empfang bis Ende der Woche. Sollte die [[organization|WIG]] weiterhin keine Stellungnahme zur Schadenshöhe abgeben, werden wir den Sachverständigen [[person|Dr. Rupert Ebenhöh]] ersuchen, ein Ergänzungsgutachten zu erstellen. Die Kosten dafür trägt nach unserer Auffassung die [[organization|WIG]].
 
 Mit freundlichen Grüßen
 
@@ -56,6 +56,25 @@ Tel. [[phone_number|+43 463 190 60 14 Durchwahl 20]]
 > [[person|Helmine Schimanek]]
 > Geschäftsführerin
 > [[organization|Wuchinger Immobilien GmbH]], [[company_register_number|FN 447358f]], UID: [[tax_id|ATU84869055]]
+
+---
+
+Von: [[person|Helmine Schimanek]]
+Gesendet: Montag, [[date|12. Oktober 2026]] 09:15
+An: [[person|Ivone Charlemont]]
+Betreff: AW: Wasserschaden Gars
+
+Sehr geehrte Frau [[person|Charlemont]],
+
+danke für Ihre Nachricht. Wir haben den Mietvertrag mit Herrn [[person|Schleicher]] geprüft. Die Instandhaltung der Außenwände ist laut Vertrag Sache der Vermieterin, die [[organization|WIG]] ist aber nur für die Innenseite zuständig. Die Feuchtigkeit ist an der Außenseite entstanden, weshalb die Zuständigkeit strittig bleibt.
+
+Wir bitten um Übermittlung der Fotos vom [[date|27.09.2026]] in Originalgröße, damit wir die Feuchtigkeitsquelle beurteilen können. Der Termin zur Besichtigung könnte am [[date|20. Oktober 2026]] stattfinden; die Wohnung ist laut Auskunft des Mieters ab dem Vormittag zugänglich.
+
+Mit freundlichen Grüßen
+
+[[person|Helmine Schimanek]]
+Geschäftsführerin
+[[organization|Wuchinger Immobilien GmbH]]
 
 ---
 
@@ -92,7 +111,7 @@ Betreff: Schaden Keller
 
 Sehr geehrte Damen und Herren,
 
-ich habe am [[date|3. Oktober 2026]] Wasser im Keller gesehen. Ich habe die Hausverwaltung sofort informiert, die Antwort kam erst am [[date|6. Oktober 2026]]. Die Wand ist seither feucht, und ich habe Angst vor Schimmel in der Wohnung. Bitte melden Sie sich bei mir, ich bin telefonisch am Abend erreichbar.
+ich habe am [[date|3. Oktober 2026]] Wasser im Keller gesehen. Ich habe die Hausverwaltung sofort informiert, die Antwort kam erst am [[date|6. Oktober 2026]]. Die Wand ist seither feucht, und ich habe Angst vor Schimmel in der Wohnung. Bitte melden Sie sich bei mir, ich bin telefonisch am Abend erreichbar. Ich habe auch Fotos von den Flecken an der Decke im Vorraum gemacht, die ich Ihnen gerne weiterleite. Die Hausverwaltung hat mir gesagt, dass sich der Eigentümer der Außenwand erst kümmern wird, wenn das Gutachten vorliegt. Das kann ich nicht akzeptieren, weil die Feuchtigkeit täglich mehr wird.
 
 Mit freundlichen Grüßen
 [[person|Stani Schleicher]]

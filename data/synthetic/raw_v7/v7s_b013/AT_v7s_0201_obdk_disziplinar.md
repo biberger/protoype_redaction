@@ -19,7 +19,7 @@ Senatsmitglied [[person|Dr. Lorette Weinmann]]
 Senatsmitglied [[person|MMag. Immanuela Frisch]]
 als Schriftführer [[person|Dipl.-Ing. Nebojša Torjanac]]
 
-über die Disziplinaranzeige der Kammeranwaltschaft, vertreten durch den Kammeranwalt [[person|Rolle von Starhemberg]], geboren am [[date_of_birth|19. Juni 1957]], gegen die Rechtsanwältin [[person|Hiltrud Glawogger]] wegen des Verdachts der Verletzung der Berufspflichten nach [[legal_norm|§ 45 RAO]] nach öffentlicher mündlicher Verhandlung zu Recht erkannt:
+über die Disziplinaranzeige der Kammeranwaltschaft (Tel. [[phone_number|+43 7242 790 55 69 Durchwahl 22]]), vertreten durch den Kammeranwalt [[person|Rolle von Starhemberg]], geboren am [[date_of_birth|19. Juni 1957]], gegen die Rechtsanwältin [[person|Hiltrud Glawogger]] wegen des Verdachts der Verletzung der Berufspflichten nach [[legal_norm|§ 45 RAO]] nach öffentlicher mündlicher Verhandlung zu Recht erkannt:
 
 **Spruch**
 
@@ -35,7 +35,7 @@ Die Verhandlung hat am [[date|14.04.2026]] stattgefunden. [[person|Hiltrud Glawo
 
 **II. Feststellungen**
 
-1. Die Beschuldigte war Kanzleiinhaberin in Klagenfurt und verwaltete im Jahr 2025 mehrere Treuhandschaften, darunter die für die Liegenschaft [[land_register_id|K.G. 91031 Steinbach am Attersee]] / [[land_register_id|EZ 2399]] ([[court|BG Schwaz]]) [[land_register_id|Gst 542/28]].
+1. Die Beschuldigte war Kanzleiinhaberin in [[location|Klagenfurt]] und verwaltete im Jahr 2025 mehrere Treuhandschaften, darunter die für die Liegenschaft [[land_register_id|K.G. 91031 Steinbach am Attersee]] / [[land_register_id|EZ 2399]] ([[court|BG Schwaz]]) [[land_register_id|Gst 542/28]].
 
 2. Die Treuhandschaft wurde unter der TH-Nr. [[other_identifier|2026/506]] geführt. Auf das Treuhandkonto IBAN [[bank_account|AT48 9425 5000 4392 4988]] gingen am [[date|03.02.2025]] 52.300,00 Euro des Käufers [[person|Marjan Kovačević]] ein.
 
@@ -74,4 +74,4 @@ Für den Disziplinarrat:
 [[person|Dr. Petronella Pauli]]
 Senatsvorsitzende
 
-Klagenfurt am Wörthersee, am [[date|14.04.2026]]
+[[location|Klagenfurt am Wörthersee]], am [[date|14.04.2026]]
