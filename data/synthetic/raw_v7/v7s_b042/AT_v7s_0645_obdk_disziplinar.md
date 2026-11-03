@@ -101,6 +101,12 @@ Die Beschuldigte hatte zunächst beantragt, das Verfahren wegen Verjährung einz
 
 Der Kammeranwalt führte in seinem Schlussvortrag aus, dass die Beschuldigte im Verfahren kein vollständiges Bild der Kanzleiorganisation gegeben habe. Insbesondere habe sie die Existenz eines dritten Kontos erst auf Nachfrage bestätigt. Der Senat schließt sich dieser Würdigung an, hält sie aber für nicht entscheidend, weil die Umbuchungen auf dem Hauptkonto erfolgten.
 
+4d-4. Zur Besetzung des Senats
+
+Der Beisitzer [[judge|Dr. Asio Mirri]] wies bei der Beratung darauf hin, dass er die Mandantin [[person|Ostrowska]] aus einer früheren beruflichen Begegnung kenne, die jedoch mit dem vorliegenden Verfahren in keinem Zusammenhang stehe. Der Senat hat die Frage erörtert und festgestellt, dass keine Befangenheit vorliegt. Der Beisitzer hat an der Entscheidung mitgewirkt.
+
+Die Kammeranwältin [[person|Öztürk]] regte in ihrem Schlussvortrag an, die Geldbuße wegen der Dauer des Verfahrens zu erhöhen. Der Senat folgt dieser Anregung nicht, weil die Verfahrensdauer nicht der Beschuldigten zuzurechnen ist.
+
 4e. Ergebnis
 
 Ausgehend von diesen Feststellungen bestätigt der Senat den Schuldspruch des Disziplinarrates. Die Geldbuße von EUR 5.000,00 ist angemessen, weil die Beschuldigte über mehrere Monate hinweg Treuhandgelder ohne Abrechnung verwendet hat. Eine Herabsetzung kommt nicht in Betracht, weil die Berufung keine neuen Tatsachen aufzeigt, die die Beurteilung des Senats verändern würden.

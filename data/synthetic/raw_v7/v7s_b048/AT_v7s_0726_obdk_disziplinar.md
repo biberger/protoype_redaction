@@ -6,7 +6,7 @@ lang: de
 [[court|Disziplinarrat der Tiroler Rechtsanwaltskammer]]
 
 Unser Zeichen: [[other_identifier|Bahr ./. Konrath]]
-GZ: DR-TRK 14/2026
+GZ: [[case_number|DR-TRK 14/2026]]
 
 [[address|4701 Bad Schallerbach]]
 
@@ -30,7 +30,7 @@ Der Beschuldigte hat am [[date|3. Mai 2024]] einen Betrag von 12.500 Euro von se
 
 Am [[date|14. Mai 2024]] hat der Beschuldigte weitere 4.300 Euro für den Klienten [[person|Ferdinand Stöckl]] vom Treuhandkonto entnommen, um offene Honorarnoten zu begleichen. Die Honorarnote vom [[date|2. Mai 2024]] war zu diesem Zeitpunkt nicht bezahlt, der Betrag wurde jedoch aus einem anderen Verfahren genommen. Im Treuhandbuch ist die Buchung unter der Nummer [[other_identifier|TB-0891]] verzeichnet.
 
-Der Beschuldigte hat den Mandanten Stöckl erst am [[date|6. November 2024]] über die Entnahme informiert. Ein Ausgleich erfolgte am [[date|21. November 2024]] in Höhe von 4.300 Euro.
+Der Beschuldigte hat den Mandanten [[person|Stöckl]] erst am [[date|6. November 2024]] über die Entnahme informiert. Ein Ausgleich erfolgte am [[date|21. November 2024]] in Höhe von 4.300 Euro.
 
 Die Klientin [[person|Berger]] hat die Überweisung zunächst als vollständige Auszahlung verstanden. Erst im Schreiben der Kanzlei vom [[date|15. Juli 2025]] wurde der Abzug einer Honorarforderung von 2.150 Euro erwähnt, ohne Rechnung oder Leistungsnachweis.
 
@@ -42,15 +42,19 @@ Die Buchung vom [[date|28. Mai 2024]], mit der 1.750 Euro wieder an die Kanzlei 
 
 Die Zeugin [[person|Berger]] hat in der Verhandlung glaubhaft angegeben, dass sie von der Gegenforderung nichts wusste. Sie habe die Abrechnung mehrmals gelesen und keine Hinweise auf einen Abzug gefunden. Der Zeuge [[person|Ferdinand Stöckl]] bestätigte, dass er über die Entnahme erst im Herbst 2024 informiert worden sei. Der Kammeranwalt [[person|Dr. Jerome Gregor]] hat ergänzend auf die Verletzung der Aufzeichnungspflichten hingewiesen.
 
+Die Stellungnahme des Beschuldigten vom [[date|28. Jänner 2026]] enthält zudem den Vorwurf, die Klientin habe die Abrechnung nach einer Besprechung am [[date|2. Juli 2024]] mündlich akzeptiert. Eine Gesprächsnotiz liegt nicht vor, und auch die Klientin hat die Besprechung in dieser Form nicht bestätigt. Der Beschuldigte hat außerdem angeboten, die Zahlung an die Klientin um weitere 500 Euro zu erhöhen, um den Vorwurf auszuräumen. Der Senat hat dieses Angebot als nachträgliche Schadensgutmachung berücksichtigt, ohne es als Beweis für die behauptete Zustimmung zu werten.
+
+Die Anzeige stützt sich zudem auf die Kontoauszüge der Bank, aus denen die Buchungsdaten, die Verwendungszwecke und die Empfängerbezeichnungen hervorgehen. Die Auszüge decken sich mit den Eintragungen im Treuhandbuch, soweit dort Buchungen erfasst sind. Die Abweichungen betreffen allein die Rückbuchung vom [[date|28. Mai 2024]] und die Entnahme vom [[date|14. Mai 2024]].
+
 Die rechtliche Beurteilung
 
 Nach [[legal_norm|§ 16 RAO]] hat der Rechtsanwalt Gelder seiner Klienten getrennt vom eigenen Vermögen zu halten. Die Verwendung von Treuhandgeldern zur Befriedigung eigener Forderungen ohne Zustimmung des Klienten verletzt diese Pflicht. Die Verletzung ist auch nach [[legal_norm|§ 43a Abs 1 RAO]] als Verstoß gegen die Pflicht zur gewissenhaften Berufsausübung zu werten.
 
-Der Senat geht von einem Verschulden in Form der bewussten Fahrlässigkeit aus. Der Beschuldigte ist ein erfahrener Rechtsanwalt, der seit mehr als zwanzig Jahren in [[location|Innsbruck]] tätig ist, davon bis zum Jahr 2019 mit Kanzleisitz in [[location|St. Pölten]]. Der Umstand, dass er die Entnahme bei Stöckl nachträglich ausgeglichen hat, wirkt mildernd.
+Der Senat geht von einem Verschulden in Form der bewussten Fahrlässigkeit aus. Der Beschuldigte ist ein erfahrener Rechtsanwalt, der seit mehr als zwanzig Jahren in [[location|Innsbruck]] tätig ist, davon bis zum Jahr 2019 mit Kanzleisitz in [[location|St. Pölten]]. Der Umstand, dass er die Entnahme bei [[person|Stöckl]] nachträglich ausgeglichen hat, wirkt mildernd.
 
 Die Strafbemessung
 
-Der Senat hat von einer Ausschließung aus der Rechtsanwaltschaft abgesehen, weil der Beschuldigte den Ausgleich geleistet hat und keine dauerhafte Unzuverlässigkeit erkennbar ist. Die Geldbuße von 6.000 Euro bewegt sich im unteren Bereich des nach [[legal_norm|§ 45 Abs 1 RAO]] zulässigen Rahmens. Erschwerend wirkt, dass zwei Klienten betroffen sind und die Kontobewegungen über mehrere Monate erfolgten. Mildernd wirken die bisherige Unbescholtenheit und das Geständnis hinsichtlich der Entnahmen.
+Der Senat hat von einer Ausschließung aus der Rechtsanwaltschaft abgesehen, weil der Beschuldigte den Ausgleich geleistet hat und keine dauerhafte Unzuverlässigkeit erkennbar ist. Die Geldbuße von 6.000 Euro bewegt sich im unteren Bereich des nach [[legal_norm|§ 45 Abs 1 RAO]] zulässigen Rahmens. Erschwerend wirkt, dass zwei Klienten betroffen sind und die Kontobewegungen über mehrere Monate erfolgten. Mildernd wirken die bisherige Unbescholtenheit und das Geständnis hinsichtlich der Entnahmen. Ebenfalls mildernd wirkt, dass der Beschuldigte die Kanzlei nach dem Vorfall umorganisiert und eine externe Buchhaltungsstelle beauftragt hat, deren Bericht vom [[date|5. März 2026]] keine weiteren Auffälligkeiten zeigt. Der Senat hält eine Geldbuße in dieser Höhe für ausreichend, um den Beschuldigten und andere Rechtsanwälte von vergleichbaren Verstößen abzuhalten. Eine Veröffentlichung des Erkenntnisses in der Kammerzeitung unterbleibt, da die Klientin um Wahrung ihrer Anonymität ersucht hat.
 
 Ergänzend stellt der Senat fest, dass die Kanzlei des Beschuldigten seit dem Jahr 2021 ein elektronisches Treuhandbuch führt. Die Buchungen sind dort nicht zeitnah erfasst worden. Bei der Prüfung durch die [[organization|TRK]] fehlten für drei Entnahmen im Jahr 2024 die Zahlungsbelege, obwohl die Kanzlei nach den Richtlinien verpflichtet gewesen wäre, sie aufzubewahren. Diese organisatorischen Mängel sind dem Beschuldigten zuzurechnen, weil er als Kanzleiinhaber die Verantwortung für die Buchhaltung trägt.
 

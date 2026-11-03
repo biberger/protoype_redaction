@@ -39,6 +39,8 @@ Die Fahrzeughalterin [[person|Villinger]] ist zugleich Geschäftsführerin der [
 
 Sachschaden: geschätzt EUR 11.500,00. Die Unfallstelle wurde fotografiert und vermessen. Die Verkehrsbehörde wurde über den Zustand der Fahrbahn informiert, da im Bereich der Kurve eine Verschmutzung durch Laub festgestellt wurde.
 
+Die Sachschäden wurden durch die Versicherungen der Beteiligten gemeldet. Die Halterin [[person|Villinger]] hat für den Transporter der Firma eine Schadensmeldung eingebracht, die jedoch mit dem Unfall nichts zu tun hat, weil dieser zum Unfallzeitpunkt in der Werkstatt stand.
+
 Rückfragen: [[person|Gasteiger]], Tel. [[phone_number|0463/1702468 DW 572]].
 
 Die Lenkerin [[person|Pein]] legte ihren Führerschein zur Einsicht vor; ein Alkotest verlief negativ. Der Lenker [[person|Jánoš]] stand unter Schock und konnte zunächst nicht befragt werden. Die Lenkerin [[person|Jundi]] gab jedoch an, die Fahrbahn sei an der Stelle wegen einer Baustelle verengt gewesen. Die Verengung war durch Warnbaken ausgewiesen, die nach dem Unfall teilweise umgefallen aufgefunden wurden.

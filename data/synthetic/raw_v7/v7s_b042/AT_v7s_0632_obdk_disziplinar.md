@@ -72,6 +72,14 @@ Gemäß [[legal_norm|§ 1 Abs 1 DSt]] iVm [[legal_norm|§ 10 Abs 1 RAO]] hat der
 
 Mildernd wirkt die bisherige Unbescholtenheit der Beschuldigten und ihr Geständnis. Erschwerend sind die Höhe der Beträge und die Dauer des Verstoßes. Der Senat hält eine Geldbuße von EUR 4.500,00 für angemessen. Die Ersatzfreiheitsstrafe wird gemäß den einschlägigen Bestimmungen bedingt nachgesehen, weil nicht zu erwarten ist, dass die Beschuldigte weitere Verstöße begeht.
 
+3a. Verfahren vor dem Disziplinarrat
+
+Der Disziplinarrat hatte das Verfahren mit einer Verhandlung am [[date|2. Dezember 2025]] eröffnet, zu der die Beschuldigte persönlich geladen war. Sie erschien nicht, sondern ließ sich durch einen Vertreter entschuldigen. Der Disziplinarrat sah darin keine Verletzung des rechtlichen Gehörs, weil die Beschuldigte zuvor schriftlich Stellung genommen hatte.
+
+In der Berufung rügt die Beschuldigte, der Disziplinarrat habe seine Entscheidung ausschließlich auf die Angaben der Gesellschaft gestützt. Diese Rüge trifft nicht zu. Der Disziplinarrat hat auch die Kontoauszüge, die Honorarliste und die schriftliche Stellungnahme der Kanzleimitarbeiterin [[person|Lukić]] vom [[date|5. Mai 2025]] berücksichtigt, die der Senat in der Verhandlung ergänzend erörterte.
+
+Die Beschuldigte hat vor dem Senat ferner vorgebracht, sie habe sich in der Zeit der Umbuchungen in einer schwierigen wirtschaftlichen Lage befunden. Dies mag erklären, weshalb sie Mittel umbuchte, rechtfertigt die Umbuchung jedoch nicht. Die Rechtsordnung sieht für solche Situationen vor, dass der Rechtsanwalt die Kammer um Auskunft ersucht oder den Mandanten um eine Vorauszahlung bittet. Beides hat die Beschuldigte nicht versucht.
+
 4a. Zur Stellungnahme der Beschuldigten
 
 Die Beschuldigte legte im Berufungsverfahren eine Stellungnahme vom [[date|10. November 2025]] vor, in der sie ausführt, die [[organization|Dick Handels]] habe ihr mündlich mitgeteilt, dass die Restsumme für die Kanzlei verwendet werden dürfe. Der Geschäftsführer der Gesellschaft, [[person|Nikolaus Trautmann]], wurde als Zeuge vernommen und bestätigte diese Behauptung nicht. Er gab an, er habe lediglich um eine Abrechnung ersucht, die nie übermittelt worden sei.

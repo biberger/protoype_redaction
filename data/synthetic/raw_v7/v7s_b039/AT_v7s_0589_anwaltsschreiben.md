@@ -57,6 +57,8 @@ Beilagen:
 ./1 Fotodokumentation vom [[date|6. Oktober 2024]]
 ./2 Gutachten vom [[date|19. Dezember 2024]]
 ./3 Schreiben der Zeugin [[person|Basima Birchall]] vom [[date|3. Oktober 2024]]
+./4 Entscheidung des [[court|Obersten Gerichtshofes]] vom [[date|12. Februar 2025]], [[case_number|2 Ob 34/25x]]
+./5 Judikaturnachweis: [[court|Oberster Gerichtshof]], Zl. [[case_number|2 Ob 34/25x]]
 
 Beilagen Mandantenakt:
 

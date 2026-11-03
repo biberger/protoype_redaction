@@ -49,6 +49,8 @@ Der Beifahrer [[person|Krones]] bestätigte die Angaben des Lenkers, konnte jedo
 
 Der Zeuge [[person|Klement]] stellte seinen Pkw ordnungsgemäß am Straßenrand ab und hatte den Unfall aus etwa dreißig Metern Entfernung beobachtet. Er hatte den Eindruck, dass der Radfahrer auf dem Radweg fuhr, als der Pkw abbog.
 
+Der Radfahrer [[person|Felzmann]] hat am [[date|1. September 2026]] telefonisch Angaben zu seinen Verletzungen gemacht und angegeben, dass er einen Helm getragen habe, der beim Sturz beschädigt wurde. Der Helm wurde sichergestellt.
+
 Die Fahrbahnmarkierung im Kreuzungsbereich wurde am Unfalltag durch die Straßenmeisterei geprüft. Die Prüfung ergab, dass die Haltelinie auf einer Länge von etwa sechs Metern kaum mehr sichtbar war. Der Zustand wurde fotografisch dokumentiert und der Straßenmeisterei übermittelt.
 
 Der Lenker [[person|Parodi]] hat erklärt, dass er die Kreuzung seit Jahren benutze und die Markierung deshalb nicht als Grund für seine Unaufmerksamkeit ansehe. Dies wird im Verfahren zu berücksichtigen sein, ändert aber nichts am Vorrang des Radfahrers.

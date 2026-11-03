@@ -85,6 +85,8 @@ Der Erstbeklagte haftet nach [[legal_norm|§ 1310 ABGB]] für das Verschulden, w
 
 Beweis: Einvernahme der klagenden Partei, Einholung eines Sachverständigengutachtens aus dem Gebiet des Straßenbaus, Beiziehung des Polizeiberichts.
 
+Zur Klagsberechtigung: Die klagende Partei ist seit dem [[date|1. Februar 2024]] Eigentümerin des Fahrrads und hat dieses bei der Anschaffung vollständig bezahlt. Die Rechnung dazu liegt als Beilage ./E bei. Die Ansprüche auf Verdienstentgang und Schmerzengeld stehen ausschließlich der klagenden Partei zu; ein Forderungsübergang auf einen Dritten hat nicht stattgefunden.
+
 Beilagen:
 ./A Kopie des Polizeiberichts vom [[date|14.03.2026]]
 ./B Lichtbilder der Unfallstelle (3 Stück)

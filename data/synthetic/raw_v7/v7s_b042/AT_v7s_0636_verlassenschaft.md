@@ -57,6 +57,14 @@ Der Gläubiger [[person|Garibaldi]] hat die Forderung bestritten, soweit sie Zin
 
 Die Kosten der Verlassenschaft (Gerichtsgebühren, Notariatskosten und Sachverständigenhonorar) belaufen sich auf EUR 2.960,00 und sind aus dem Nachlass zu berichtigen. Eine Abschrift des Sachverständigengutachtens wurde den Erben übermittelt.
 
+Die Erbin [[person|Walfrieda Kaltenböck]] hat im Zuge der Abhandlung angegeben, dass sie den Hausrat des Erblassers bereits vor dem Todestag in Verwahrung genommen habe. Der Notar hat sie aufgefordert, ein Verzeichnis der übernommenen Gegenstände vorzulegen. Das Verzeichnis wurde am [[date|28. September 2026]] nachgereicht und umfasst Möbel, Bücher, eine Standuhr und sonstigen Hausrat im geschätzten Wert von EUR 2.300,00.
+
+Der Erbe [[person|Gradwohl]] ist mit dem Ausgleich der Liegenschaft nicht einverstanden, weil er nach dem Todestag Instandhaltungskosten in Höhe von EUR 4.100,00 aufgebracht hat. Der Notar hat darauf hingewiesen, dass solche Auslagen nur dann berücksichtigt werden können, wenn sie belegt sind. Der Erbe hat die Belege am [[date|5. Oktober 2026]] übermittelt; sie werden gegenwärtig geprüft.
+
+Die Gläubigerin [[person|Dugandzic]] hat nach Vorlage der Rechnung eine Ratenzahlung von EUR 150,00 monatlich vereinbart, die im Protokoll festgehalten wurde. Der Gläubiger [[person|Garibaldi]] hat dagegen die volle Befriedigung verlangt. Der Notar hat ihm erklärt, dass die Verlassenschaft nur im Rahmen des Nachlasses leistet und eine vorrangige Befriedigung nicht möglich ist.
+
+Die Verbindlichkeiten der Verlassenschaft übersteigen den Nachlass nach derzeitigem Stand nicht. Die Erben haften nur im Umfang des übernommenen Vermögens; dies wurde ihnen ausdrücklich erklärt.
+
 Die Einantwortung erfolgt nach Ablauf der Frist zur Anmeldung der Forderungen. Die Gläubiger sind mit der Abhandlung einverstanden, soweit ihre Forderungen gedeckt sind.
 
 Ausgefertigt in [[location|St. Pölten]] am [[date|2. Oktober 2026]].

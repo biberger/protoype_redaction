@@ -33,7 +33,7 @@ Mieterin:
 [[person|Mindy
 Novković]], geb. [[date_of_birth|25.10.2003]]
 Kd.-Nr. [[other_identifier|279623]]
-Lindenstraße 8/12, 5121 Ostermiething
+[[address|Lindenstraße 8/12, 5121 Ostermiething]]
 Tel. [[phone_number|0662/8443201]]
 
 Bürge:
@@ -99,7 +99,7 @@ Die Betriebskosten werden jährlich abgerechnet. Die Abrechnung wird der Mieteri
 
 (4) Die Rechtsanwältin [[person|Rucker]] hat den Vertrag entworfen. Eine Haftung für die Richtigkeit der tatsächlichen Angaben übernimmt sie nicht.
 
-Ostermiething, am [[date|18. November 2019]]
+[[location|Ostermiething]], am [[date|18. November 2019]]
 
 Für die Vermieterin:
 [[person|Theopist Erler]]

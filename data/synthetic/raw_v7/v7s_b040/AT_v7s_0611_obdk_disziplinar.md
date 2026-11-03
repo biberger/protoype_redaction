@@ -23,7 +23,7 @@ Beschuldigter Rechtsanwalt: [[lawyer|Dario Mitterhofer]]
 
 Die Verhandlung wurde um 09:10 Uhr eröffnet. Der Beschuldigte [[lawyer|Mitterhofer]] erschien persönlich und mit seinem Vertreter. Die Anschuldigung wurde verlesen.
 
-Gegenstand des Verfahrens ist die Verwaltung eines Treuhandkontos, das [[lawyer|Mitterhofer]] im Zusammenhang mit einem Liegenschaftskauf der [[organization|Kuhn Immobilien GmbH]] ([[company_register_number|FN 263189v]], UID: [[tax_id|ATU91001610]]) führte. Die [[organization|Kuhn Immobilien GmbH]] ist Verkäuferin.
+Gegenstand des Verfahrens ist die Verwaltung eines Treuhandkontos, das [[lawyer|Mitterhofer]] im Zusammenhang mit einem Liegenschaftskauf der [[organization|Kuhn Immobilien GmbH]] ([[company_register_number|FN 263189v]], UID: [[tax_id|ATU91001610]]) führte. Die [[organization|Kuhn Immobilien GmbH]] ist Käuferin der Liegenschaft.
 
 Die Oberösterreichische Rechtsanwaltskammer (in der Folge [[organization|RAK OÖ]]) legte dem Disziplinarrat die Anschuldigungsschrift vor. Die [[organization|RAK OÖ]] stützt sich auf den Bericht des Kontrollausschusses vom [[date|2. Februar 2026]].
 
@@ -45,6 +45,18 @@ Der Beschuldigte hat die Zahlungen mit einer Forderung der Kanzlei begründet. D
 Die Verteidigung brachte vor, die Kanzlei habe nach dem Zahlungseingang eine Vollmacht der Auftraggeberin erhalten. Dieses Vorbringen konnte jedoch nicht bestätigt werden. Die Vollmacht trägt das Datum [[date|20. Mai 2025]], also nach den Überweisungen.
 
 Die Schriftführerin [[person|Vera Dundović]] hat den Akteninhalt verlesen. Die Kammeranwältin [[person|Caroline Fröschl]] führte aus, dass der Beschuldigte bereits im Jahr 2023 wegen eines ähnlichen Sachverhaltes eine Ermahnung erhalten habe.
+
+Beweisaufnahme
+
+Die Auftraggeberin [[organization|Kuhn Immobilien GmbH]] wurde durch ihren Geschäftsführer vertreten, der als Zeuge geladen war. Er gab an, die Kanzlei habe keine Zustimmung zur Weiterleitung von Geldern an einen Dritten erhalten. Der Zeuge verwies darauf, dass der Kaufpreis nach dem Notariatsakt zur Gänze auf das Treuhandkonto zu überweisen war und dass eine Zahlung an Dritte nur mit schriftlicher Weisung zulässig sei.
+
+Der Empfänger der Überweisung vom [[date|14.03.2025]] wurde im Verfahren nicht ermittelt. Der Beschuldigte [[lawyer|Mitterhofer]] gab an, es handle sich um einen Dienstleister, der für die Auftraggeberin Leistungen erbracht habe. Ein Auftrag, eine Rechnung oder eine Leistungsbeschreibung wurde nicht vorgelegt.
+
+Die Verteidigung beantragte die Vernehmung der Mitarbeiterin der Kanzlei, die die Buchung vorgenommen hatte. Der Disziplinarrat hat dem Antrag stattgegeben. Die Mitarbeiterin bestätigte, dass sie die Überweisung auf Anweisung des Beschuldigten ausgeführt habe, ohne den Vorgang zu dokumentieren.
+
+Die Kammeranwältin [[person|Caroline Fröschl]] verwies auf die Auszüge der Bank, aus denen sich ergibt, dass die Überweisung vom [[date|14.03.2025]] den Kontostand des Treuhandkontos unter den Betrag absenkte, der für die Auftraggeberin bestimmt war. Eine Ergänzung des Kontos erfolgte erst am [[date|1. April 2025]].
+
+Die Beweisaufnahme ergibt somit folgendes Bild: Die Überweisung war nicht gedeckt, nicht dokumentiert und nicht weisungsgemäß. Die Vollmacht vom [[date|20. Mai 2025]] kann daher nur nachträglich eine Genehmigung darstellen, die die Verfehlung nicht beseitigt.
 
 Gründe
 

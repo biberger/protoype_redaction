@@ -57,6 +57,10 @@ Erbantrittserklärungen: Die Erbin [[person|Evin]] hat ihre Erbantrittserklärun
 
 Testament: Das Testament vom [[date|3. Mai 2015]] wurde dem Notar im Original übergeben und ist als Beilage zum Protokoll genommen. Es enthält neben dem Vermächtnis an [[person|Nagler]] eine Anordnung, wonach die Wohnung der Erbin [[person|Evin]] zur Nutzung überlassen werden soll, bis der Nachlass geteilt ist. Der Notar hat diese Anordnung als Auflage gewertet, die die Erben gemeinsam zu erfüllen haben.
 
+Schätzung der Wohnung: Die Wohnung wurde durch den Sachverständigen [[person|Ing. Gerhard Mühlbacher]] am [[date|30. Juni 2026]] geschätzt. Er ermittelte einen Verkehrswert von EUR 268.000,00 und wies auf einen Sanierungsbedarf an den Fenstern und der Elektroinstallation hin, der mit EUR 9.800,00 zu veranschlagen ist. Der Notar hat den Wert der Wohnung im Verzeichnis angesetzt, den Sanierungsbedarf jedoch nicht abgezogen, weil die Erben die Wohnung nicht veräußern müssen.
+
+Die Erbin [[person|Evin]] verlangt die Ausgleichszahlung für die Einrichtung in Höhe von EUR 2.400,00, die sie aus eigenen Mitteln beschafft habe. Der Notar hat die Forderung als Passivum anerkannt, sofern die Rechnungen vorgelegt werden. Die Rechnungen wurden am [[date|1. Juli 2026]] übergeben und sind im Verzeichnis berücksichtigt.
+
 Die Erben erhielten am [[date|17. Juli 2026]] eine Abschrift des Protokolls. Der Notar hat die Erben über die Frist zur Abgabe der Erbantrittserklärung belehrt.
 
 [[location|Ladis]], am [[date|17. Juli 2026]]

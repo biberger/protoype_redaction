@@ -72,6 +72,10 @@ Die Übergabe erfolgt am [[date|2. November 2026]]. Mit der Übergabe gehen Nutz
 
 Der Haushalt auf der Liegenschaft wird von der Verkäuferin ordnungsgemäß abgemeldet. Die Käuferinnen übernehmen die bestehenden Verträge über Strom und Wasser ab dem Übergabetag.
 
+Die Baubewilligung für das Wohnhaus und die Benützungsbewilligung liegen dem Vertrag als Kopie bei. Die Verkäuferin erklärt, dass das Gebäude in der Form errichtet wurde, wie es in den genehmigten Plänen dargestellt ist. Abweichungen, die nach der Benützungsbewilligung vorgenommen wurden, sind nicht bekannt. Die Verkäuferin übergibt außerdem die Wartungsprotokolle der Heizungsanlage und die Garantiescheine der eingebauten Fenster und Türen.
+
+Die Käuferinnen erklären, dass sie den Zustand des Gebäudes und der Außenanlagen bei der gemeinsamen Begehung am [[date|15. September 2026]] besichtigt haben. Sie wurden darauf hingewiesen, dass die Zufahrt über einen Teil der Nachbarliegenschaft führt, auf dem ein Wegerecht besteht.
+
 V. Abgaben und Kosten
 
 Die Grunderwerbsteuer nach [[legal_norm|§ 4 GrEStG]] tragen die Käuferinnen. Ebenso tragen sie die Kosten der Vertragserrichtung und die Eintragungsgebühr nach [[legal_norm|GebG]]. Die Verkäuferin trägt die Kosten der Lastenfreistellung. Die Kosten der Vermessung wurden bereits von der Verkäuferin beglichen.
@@ -82,13 +86,27 @@ Die Verkäuferin haftet für den rechtlichen Bestand der Liegenschaft. Für die 
 
 Die Verkäuferin hat die Käuferinnen darauf hingewiesen, dass im Keller eine Feuchtigkeit im Mauerwerk festgestellt wurde, die im Jahr 2023 behandelt worden ist. Eine Sanierung, die über diese Maßnahme hinausgeht, ist nicht geschuldet.
 
-VII. Schlussbestimmungen
+VII. Rücktritt und Auflassungsvormerkung
 
-Mündliche Nebenabreden bestehen nicht. Änderungen bedürfen der Schriftform. Die Vertragsparteien erklären, dass sie den Vertrag nach ausführlicher Belehrung durch die Kanzlei abschließen. Sollte eine Bestimmung unwirksam sein, bleibt der Vertrag im Übrigen gültig.
+Die Käuferinnen sind berechtigt, vom Vertrag zurückzutreten, wenn die Liegenschaft im Grundbuch mit einem Pfandrecht belastet ist, das nicht bis zum Übergabetag gelöscht wird. Die Verkäuferin ist berechtigt, vom Vertrag zurückzutreten, wenn der Kaufpreis nicht bis zum [[date|31. Oktober 2026]] auf dem Treuhandkonto eingeht. In beiden Fällen ist die Anzahlung nach Abzug der angefallenen Kosten zurückzuzahlen.
 
-Die Käuferinnen bestätigen, dass sie den Vertrag gelesen und verstanden haben. Die Übersetzung in die englische Sprache wurde von Frau [[person|Starodubtseva]] nicht verlangt, da sie die deutsche Sprache beherrscht.
+Zur Sicherung des Eigentumserwerbes wird eine Vormerkung des Eigentumsrechtes im Grundbuch beantragt. Die Verkäuferin bewilligt die Vormerkung bereits mit der Unterfertigung dieses Vertrages. Die Kosten der Vormerkung tragen die Käuferinnen.
 
-VIII. Unterschriften
+Die [[organization|Redtenbacher Bau]] bestätigt, dass die Bauarbeiten am Wohnhaus vollständig abgeschlossen sind und dass keine offenen Forderungen von Subunternehmern bestehen. Sollten solche Forderungen später geltend gemacht werden, haftet die Verkäuferin gegenüber den Käuferinnen im vollen Umfang.
+
+VIII. Datenschutz und Vollmacht
+
+Die Vertragsparteien stimmen der Verarbeitung ihrer personenbezogenen Daten für die Abwicklung dieses Vertrages zu. Die Daten werden nur an das Grundbuchsgericht, die Bank der Käuferinnen und die Abgabenbehörde übermittelt.
+
+Die Verkäuferin erteilt dem Treuhänder eine Vollmacht zur Einholung der Lastenfreistellung. Die Vollmacht ist auf den Vollzug dieses Vertrages beschränkt und erlischt mit der Eintragung der Käuferinnen im Grundbuch.
+
+IX. Schlussbestimmungen
+
+Mündliche Nebenabreden bestehen nicht. Änderungen bedürfen der Schriftform. Die Vertragsparteien erklären, dass sie den Vertrag nach ausführlicher Belehrung durch die Kanzlei abschließen. Sollte eine Bestimmung unwirksam sein, bleibt der Vertrag im Übrigen gültig. Die Parteien verpflichten sich, die unwirksame Bestimmung durch eine wirtschaftlich möglichst gleichwertige Regelung zu ersetzen. Der Vertrag wird in vier Gleichschriften errichtet, je eine für jede Vertragspartei, eine für den Treuhänder und eine für das Grundbuchsgericht, das die Eintragung vornimmt.
+
+Die Käuferinnen bestätigen, dass sie den Vertrag gelesen und verstanden haben. Sie haben ihn vor der Unterfertigung eingehend besprochen. Die Übersetzung in die englische Sprache wurde von Frau [[person|Starodubtseva]] nicht verlangt, da sie die deutsche Sprache beherrscht.
+
+X. Unterschriften
 
 Ausgefertigt in [[location|Sankt Martin im Mühlkreis]] am [[date|22.09.2026]].
 

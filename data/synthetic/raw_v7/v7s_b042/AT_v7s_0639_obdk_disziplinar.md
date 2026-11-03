@@ -78,6 +78,14 @@ Der Senat orientiert sich bei der Strafzumessung an vergleichbaren Fällen, in d
 
 Der Senat weist die Beschuldigte darauf hin, dass die Pflicht zur zeitgerechten Auszahlung auch bei Streitigkeiten über Erbquoten fortbesteht, soweit ein unstrittiger Teil besteht. Bei Zweifeln hat der Rechtsanwalt die Kammer um Auskunft zu ersuchen, anstatt Gelder zurückzubehalten.
 
+4d-2. Verfahrensbeteiligte
+
+Die Beschuldigte war in der Verhandlung durch den Rechtsanwalt [[lawyer|Dr. Gottfried Lenz]] vertreten, der die Vorwürfe für unbegründet erklärte. Er führte aus, die Verzögerung bei der Auszahlung an die Mandantin [[person|Wild]] habe auf einer Fehlleitung des Schriftstücks durch die Post beruht. Der Nachweis dieser Fehlleitung wurde nicht erbracht; die Beschuldigte hatte das Schreiben nach eigenen Angaben nicht kopiert.
+
+Die Mandantin [[person|Acimovic]] wurde in der Verhandlung als Zeugin gehört. Sie bestätigte, dass sie der Beschuldigten nie eine Vollmacht zur Entnahme von Geldern erteilt habe und dass sie von der Auszahlung an die Gegenseite erst aus einem Schreiben der Gegenseite erfahren habe.
+
+Der Kammeranwalt [[person|Androschin]] hielt dem entgegen, dass die Beschuldigte selbst dann verpflichtet gewesen wäre, die Mandanten über den Stand der Auszahlungen zu informieren, wenn Fehler bei der Post auftreten. Dieser Auffassung schließt sich der Senat an.
+
 4e. Wiedergutmachung
 
 Die Beschuldigte hat die Mandantin [[person|Acimovic]] am [[date|27.06.2025]] vollständig entschädigt, indem sie den offenen Betrag von EUR 1.000,00 zuzüglich Zinsen überwies. Die Mandantin [[person|Wild]] erhielt den Restbetrag von EUR 700,00 erst am [[date|14.11.2025]]; eine Zinszahlung wurde nicht geleistet. Der Senat wertet die Entschädigung der Mandantin [[person|Acimovic]] als Milderungsgrund, nicht jedoch die verspätete Zahlung an die Mandantin [[person|Wild]].

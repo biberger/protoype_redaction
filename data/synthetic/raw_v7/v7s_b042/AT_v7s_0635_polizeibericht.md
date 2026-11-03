@@ -31,6 +31,8 @@ Der Lenker [[person|Watzinger]] gab an, er habe den Blinker gesetzt und sei von 
 
 Der Lenker [[person|Lugner]] war im Stau auf der Gegenfahrbahn angehalten und wurde durch Splitter leicht am Arm verletzt, ohne ärztliche Behandlung in Anspruch zu nehmen.
 
+Der Lenker des Lkw, [[person|Ermacora]], hat auf Befragen angegeben, der Abbiegevorgang sei vorher durch Blinken angekündigt worden, sie habe jedoch den Pkw im Rückspiegel nicht erkennen können. Die Ladung des Lkw war nicht gesichert, eine Beanstandung erfolgte jedoch nicht, weil die Ladung nicht verrutscht war.
+
 Versicherung: Der Pkw des [[person|Watzinger]] ist bei der [[organization|Austria Assekuranz AG]] haftpflichtversichert, Vers.-Nr. [[other_identifier|68-6871685]].
 
 Schaden: Pkw Frontschaden, Lkw Auflieger, Sachschaden geschätzt EUR 9.000,00.

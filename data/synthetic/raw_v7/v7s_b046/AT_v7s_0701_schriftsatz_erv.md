@@ -20,13 +20,12 @@ KLAGEBEANTWORTUNG
 In der Rechtssache der klagenden Partei [[person|Rosine Thurnher]],
 Geburtsdatum: [[date_of_birth|04.06.1935]],
 wohnhaft in [[address|Hauptstraße 40, 3262 Ybbsitz]],
-vertreten durch Rechtsanwalt [[person|Malaniuk]],
-
 gegen
 
 die beklagte Partei [[organization|Obertimpfler Handels GmbH]], [[company_register_number|FN 530929d]], [[tax_id|ATU33338297]]
 (im Folgenden kurz: [[organization|OHB]]),
 vertreten durch den Geschäftsführer [[person|Adrian Lampert]], geb. [[date_of_birth|4. April 1981]],
+dieser vertreten durch Rechtsanwalt [[person|Malaniuk]],
 
 wegen EUR 18.640,00 sA
 
@@ -36,9 +35,9 @@ Die beklagte Partei beantragt, die Klage kostenpflichtig abzuweisen.
 
 Begründung:
 
-1. Die Klägerin behauptet, die [[organization|OHB]] habe den Liefervertrag vom [[date|11.06.2024]] nicht erfüllt. Die Vertragsnummer lautet [[other_identifier|LV-2024-6259]]. Die Klägerin begehrt die Rückzahlung der Anzahlung samt Zinsen.
+1. Die Klägerin behauptet, die [[organization|OHB]] habe den Liefervertrag vom [[date|11.06.2024]] nicht erfüllt. Der Vertrag wird unter folgender Angabe geführt: Vertragsnummer [[other_identifier|LV-2024-6259]]. Die Klägerin begehrt die Rückzahlung der Anzahlung samt Zinsen.
 
-2. Dieses Vorbringen ist unrichtig. Die [[organization|OHB]] hat die bestellten Waren am [[date|02.07.2024]] vollständig geliefert, die Übernahme wurde von der Klägerin persönlich quittiert. Die Quittung trägt die Vertragsnummer [[other_identifier|KV-2019-53428]] und ist als Beilage ./1 vorgelegt.
+2. Dieses Vorbringen ist unrichtig. Die [[organization|OHB]] hat die bestellten Waren am [[date|02.07.2024]] vollständig geliefert, die Übernahme wurde von der Klägerin persönlich quittiert. Die Quittung trägt die Angabe Vertragsnummer [[other_identifier|KV-2019-53428]] des Kaufvertrages über das Zubehör und ist als Beilage ./1 vorgelegt.
 
 3. Die Klägerin hat sich nach der Lieferung bei der [[organization|OHB]] telefonisch gemeldet und mitgeteilt, dass die Lieferung im Wesentlichen zufriedenstellend sei. Eine Mängelrüge im Sinne des § 377 UGB ist nicht erfolgt. Die Telefonnotiz vom [[date|09.07.2024]] liegt bei.
 
@@ -50,7 +49,9 @@ Begründung:
 
 7. Die Klägerin hat die Anzahlung von EUR 6.200,00 nach Angaben der [[organization|OHB]] am [[date|20.06.2024]] geleistet. Die Restzahlung von EUR 12.440,00 wurde nicht geleistet, weshalb die [[organization|OHB]] die Forderung aus dem Vertrag in Höhe der offenen Restzahlung geltend macht. Dies ist im Wege der Widerklage nicht begehrt, bleibt aber vorbehalten.
 
-8. Rechtlich folgt aus dem Vorbringen, dass die Klägerin den Vertrag durch Annahme der Ware erfüllt hat. Ein Rücktrittsrecht wegen Mangels besteht nicht, weil die Klägerin keine rechtzeitige Mängelrüge erstattet hat. Die Gewährleistungsfrist nach § 933 ABGB ist abgelaufen, soweit sie nicht ohnedies gewahrt ist.
+8. Rechtlich folgt aus dem Vorbringen, dass die Klägerin mit der Annahme der Lieferung die Verpflichtung aus dem Vertrag im Wesentlichen erfüllt hat. Die Klägerin hat sich außerdem durch die Aufforderung zur Zahlung der Restsumme am [[date|15.08.2024]] nicht auf einen Mangel berufen, sodass die Einrede der Nichterfüllung nicht mehr zur Verfügung steht. Vielmehr ist die Anzahlung als Teilerfüllung zu werten.
+
+8a. Rechtlich folgt weiter, dass dass die Klägerin den Vertrag durch Annahme der Ware erfüllt hat. Ein Rücktrittsrecht wegen Mangels besteht nicht, weil die Klägerin keine rechtzeitige Mängelrüge erstattet hat. Die Gewährleistungsfrist nach § 933 ABGB ist abgelaufen, soweit sie nicht ohnedies gewahrt ist.
 
 9. Die Zuständigkeit des [[court|BG Scheibbs]] wird nicht bestritten. Der Streitwert ist richtig bewertet.
 
@@ -62,8 +63,6 @@ Beilagen:
 ./2 Telefonnotiz vom [[date|09.07.2024]]
 
 Die Beilagen werden in elektronischer Form über ERV übermittelt.
-
-Anwaltsverzeichnis: [[person|Malaniuk]] für die klagende Partei; die Klagebeantwortung wird durch die beklagte Partei unterfertigt.
 
 Telefonische Rückfragen: Tel. [[phone_number|+43-316-1328194-66]]
 

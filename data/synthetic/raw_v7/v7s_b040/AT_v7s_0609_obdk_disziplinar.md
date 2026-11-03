@@ -52,6 +52,16 @@ III. Rechtliche Beurteilung
 
 4. Die Beschuldigte hat den Betrag von EUR 8.400,00 inzwischen zurückbezahlt. Dies ist mildernd zu berücksichtigen.
 
+III a. Zur behaupteten Honorarforderung
+
+Die Beschuldigte behauptet eine Honorarforderung von EUR 8.400,00 für die Beratung im Zusammenhang mit dem Kaufvertrag. Eine Honorarnote wurde erst im Jänner 2024 erstellt, also nach der Umbuchung. Die Note enthält keine Angaben zu Leistungszeiträumen und wurde von der Klientin nicht anerkannt. Die Forderung ist nach Auffassung des Disziplinarrates weder fällig noch belegt.
+
+Die Klientin [[person|Rohr]] hat im Verfahren erklärt, sie habe der Kanzlei für die Beratung bereits am [[date|17.11.2023]] einen Pauschalbetrag von EUR 1.500,00 bezahlt. Diese Zahlung ist im Kanzleikonto nachweisbar und spricht gegen die Behauptung einer offenen Forderung in der behaupteten Höhe.
+
+Die Kammeranwaltschaft hat in der Verhandlung darauf hingewiesen, dass eine nachträgliche Verrechnung auch dann unzulässig ist, wenn eine Forderung tatsächlich besteht. Der Disziplinarrat schließt sich dieser Auffassung an. Die Verrechnung hätte die Zustimmung der Klientin in Schriftform vorausgesetzt.
+
+Die Schriftführerin [[person|Zappe]] hat bestätigt, dass die Umbuchungsanordnung vom [[date|18.12.2023]] nur handschriftlich vermerkt wurde. Diese Vermerke sind im Akt enthalten und tragen weder ein Kürzel der Klientin noch eine Unterschrift.
+
 IV. Strafbemessung
 
 Mildernd war die bisherige Unbescholtenheit und die Rückzahlung. Erschwerend wirkt, dass die Beschuldigte die Auszahlung ohne Weisung vorgenommen hat. Die verhängte Geldbuße bleibt deutlich unter der Obergrenze.

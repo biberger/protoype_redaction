@@ -40,6 +40,10 @@ Die Gegenseite hat in einem Telefonat mit unserer Kanzlei am [[date|18. Septembe
 
 Ein Vertreter der Gegenseite, [[person|Thibault Rüdiger]], hat die Verhandlungen im Auftrag der [[organization|Weiler]] geführt. Herr [[person|Rüdiger]] hat zugesagt, die Unterlagen zu übermitteln. Dies ist bis heute nicht geschehen.
 
+Bereits mit Schreiben vom [[date|10. Juni 2026]] haben wir die [[organization|Weiler]] zur Übergabe aufgefordert. Die Antwort vom [[date|25. Juni 2026]] enthielt lediglich den Hinweis, dass die Unterlagen sich im Archiv befänden. Eine Kopie des Grundbuchsauszuges wurde nicht übermittelt. Unser Mandant hat am [[date|1. Juli 2026]] ein weiteres Schreiben übermittelt, das bis heute unbeantwortet geblieben ist.
+
+Der Kaufvertrag sieht in Punkt 6 eine Rücktrittsmöglichkeit für den Fall vor, dass die Übergabe nicht binnen vierundzwanzig Monaten ab Vertragsabschluss erfolgt. Diese Frist läuft am [[date|12. März 2026]] ab. Wir behalten uns vor, die Rechte unseres Mandanten gegenüber der [[organization|Weiler]] in vollem Umfang geltend zu machen, und weisen darauf hin, dass die Verzögerung ausschließlich der Gegenseite zuzurechnen ist.
+
 Erfüllungsort für sämtliche Zahlungen aus dem Kaufvertrag ist [[location|St. Johann im Pongau]], wo der Mandant die Zahlungen entgegennimmt.
 
 Für Rückfragen erreichen Sie uns unter der oben angeführten Telefonnummer, Durchwahl 37. Bitte richten Sie Ihre Antwort an die Kanzlei und geben Sie stets das Zeichen der Kanzlei an.

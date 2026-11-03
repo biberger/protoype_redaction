@@ -28,6 +28,8 @@ Lindinger]], geb. [[date_of_birth|21. Oktober 1985]], StA. [[country|Polen]], [[
 
 Die Erbin [[person|Galanopoulos]] wurde im Verzeichnis als Erbin nach der Erblasserin aufgenommen. [[person|Evterpi Galanopoulos]] hat eine Erbserklärung auf Grund des Testaments vom [[date|12. März 2008]] abgegeben, das die Erblasserin nach Auffassung des Notars nicht widerrufen hat.
 
+Die Erbin [[person|Galanopoulos]] lebt im Ausland und hat den Notar ersucht, die Zustellungen an eine Vertrauensperson in [[location|Steyr]] zu richten. Diesem Ersuchen wurde entsprochen; die Vollmacht liegt bei den Akten.
+
 Der Notar [[person|Jensen]] hat die Erben darauf hingewiesen, dass die Quoten der Erben nach Abzug der Erbschaftsteuer festgelegt werden.
 
 Nachlass:

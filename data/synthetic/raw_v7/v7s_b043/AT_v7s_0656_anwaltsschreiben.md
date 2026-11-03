@@ -25,13 +25,23 @@ Sehr geehrte Damen und Herren,
 
 wir vertreten [[person|Hedda Königsberger]] in der oben genannten Schadensangelegenheit. Die Mandantin ist Eigentümerin des Grundstücks und verlangt Ersatz für den Schaden an der Einfriedung, den der Lenker des von Ihnen versicherten Fahrzeugs verursacht hat.
 
+Mandantin: [[person|Hedda
+Königsberger]], wohnhaft [[address|Pfarrgasse 3, 5620
+Schwarzach]]
+
+
 Der Schaden wurde von [[person|Antonio Aanei]] als Lenker des Fahrzeugs verursacht. Das Fahrzeug war auf einer Zufahrt abgestellt und stieß beim Rückwärtsfahren gegen das Tor. Eine Schadensmeldung haben Sie unter Ihrer Nummer erhalten, die Sie oben ersehen.
+
+Wir haben die Schadensmeldung am [[date|8. Juli 2026]] an Ihre Schadenabteilung übermittelt und darin auf die Zeugenaussage hingewiesen. Herr [[person|Aanei]] hat den Vorfall gegenüber der Mandantin unmittelbar eingeräumt, jedoch darauf hingewiesen, dass er das Tor bei der Einfahrt nicht rechtzeitig gesehen habe. Die Haftung des Lenkers und damit auch die Haftung Ihres Versicherungsnehmers ergibt sich aus [[legal_norm|§ 1310 ABGB]] und aus den Bestimmungen des [[legal_norm|EKHG]].
 
 Die Reparatur des Tores und der Einfriedung wurde von der [[organization|Grubhofer Bau GmbH]], [[company_register_number|FN 231312s]], UID: [[tax_id|ATU51070781]], angeboten. Die Rechnung der [[organization|Grubhofer]] vom [[date|18. August 2026]] beläuft sich auf EUR 6.480,00 zuzüglich Umsatzsteuer. Ein Kostenvoranschlag der [[organization|Grubhofer]] liegt bei.
 
 Wir ersuchen Sie daher, den Betrag bis zum [[date|30. September 2026]] auf das Treuhandkonto unserer Kanzlei zu überweisen. Die Zahlung ist unter Angabe der Schadennummer zu leisten. Sollte die Zahlung nicht fristgerecht eingehen, werden wir die Forderung gerichtlich geltend machen.
+Wir bitten zudem um schriftliche Bestätigung der Deckung innerhalb von vierzehn Tagen ab Erhalt dieses Schreibens, damit die Reparatur ohne weitere Verzögerung beauftragt werden kann.
 
 Ein Zeuge, [[person|Franco Lobe]], hat den Anstoß am [[date|7. Juli 2026]] gesehen und ist bereit, dies zu bestätigen.
+
+Die Aufstellung der Kosten gliedert sich wie folgt: Abbruch und Entsorgung des beschädigten Tores EUR 1.240,00; Lieferung und Montage eines neuen Tores EUR 3.980,00; Instandsetzung der Einfriedung EUR 1.260,00. Die Positionen sind im Kostenvoranschlag im Einzelnen aufgeschlüsselt. Ein Abzug neu für alt wird von unserer Mandantin nicht akzeptiert, weil das Tor erst im Jahr 2024 errichtet wurde.
 
 Mit freundlichen Grüßen
 
@@ -42,4 +52,4 @@ Anlagen: Kostenvoranschlag, Lichtbilder, Schadenprotokoll
 
 STEMPEL: [[organization|GRUBHOFER BAU GMBH]]
 
-[[address|3350 Haag]], am [[date|2. Oktober 2026]]
+[[address|3350 Haag]], am [[date|21. September 2026]]

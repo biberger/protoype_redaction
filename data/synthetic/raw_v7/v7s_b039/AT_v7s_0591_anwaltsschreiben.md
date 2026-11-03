@@ -43,6 +43,8 @@ Sollte keine Regulierung erfolgen, werden wir die Ansprüche gerichtlich geltend
 
 Bitte richten Sie künftige Schreiben ausschließlich an unsere Kanzlei. Eine direkte Kontaktaufnahme mit unserem Mandanten oder mit seinen Dienstnehmern ersuchen wir zu unterlassen.
 
+Zahlungen bitte ausschließlich auf das Konto unseres Mandanten, IBAN [[bank_account|AT97 2625 6955 4737 6979]], unter Angabe unseres Zeichens.
+
 Mit freundlichen Grüßen
 
 [[person|W Ö L F L]]

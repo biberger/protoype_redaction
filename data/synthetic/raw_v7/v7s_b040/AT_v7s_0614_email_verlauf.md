@@ -56,6 +56,20 @@ ich bestätige den Eingang der Unterlagen. Die Gesellschafterin der [[organizati
 
 Ich ersuche Sie, die Vollmacht für die Anmeldung zum Firmenbuch beizulegen. Herr [[person|Guttmann]] wird die Anmeldung nach Vorliegen der Unterlagen selbst übermitteln.
 
+Von: [[person|Bartolo Stiassny]]
+Gesendet: Freitag, [[date|23. Oktober 2026]] 08:20
+An: [[person|Jeronimus Guttmann]]
+Betreff: AW: Gesellschafterbeschluss [[organization|Strigl Transport]]
+
+Lieber Herr [[person|Guttmann]],
+
+vielen Dank für die Rückmeldung. Ich habe die Vertretungsregelung in den Entwurf aufgenommen und die Gebühren für die Firmenbucheingabe geprüft. Die Eintragungsgebühr beträgt derzeit EUR 75,00; dazu kommen die Kosten der Veröffentlichung im Amtsblatt. Die Kanzleiauslagen werden gesondert verrechnet.
+
+Die überarbeitete Fassung finden Sie im Anhang. Bitte prüfen Sie insbesondere den Abschnitt zur Zeichnungsberechtigung, weil Herr [[person|Strigl]] sonst nicht allein handeln darf, sondern nur gemeinsam mit dem zweiten Geschäftsführer.
+
+Mit freundlichen Grüßen
+[[person|Stiassny]]
+
 > Von: [[person|Antoine Strigl]]
 > Gesendet: Montag, [[date|12. Oktober 2026]] 18:30
 > An: [[person|Jeronimus Guttmann]]

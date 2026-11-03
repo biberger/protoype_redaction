@@ -52,6 +52,8 @@ Die Erbin [[person|Uberti]] lebt in [[location|Innsbruck]] und hat um die Übers
 
 Die Verlassenschaft übernimmt die Forderungen der Gläubiger nur im Rahmen des Nachlasses. Die Erben haften nach der Einantwortung nicht über den Wert des übernommenen Vermögens hinaus. Die Erbin [[person|Uberti]] hat dies ausdrücklich zur Kenntnis genommen.
 
+Die Erbin [[person|Uberti]] hat außerdem angegeben, dass der Erblasser ihr zu Lebzeiten einen Betrag von EUR 1.000,00 als Darlehen gewährt habe. Dieser Betrag wurde vom Notar nicht als Nachlassforderung geführt, weil ein schriftlicher Nachweis fehlt; die Erbin wurde auf die Möglichkeit einer Ausgleichung hingewiesen.
+
 Der Notar hat die Erben darauf aufmerksam gemacht, dass die Bankverbindung des Erblassers vor der Einantwortung aufzulösen ist und der Restbetrag über das Verlassenschaftskonto an die Berechtigten auszuzahlen ist.
 
 Ausgefertigt am [[date|2. Juli 2026]] in [[location|Ober-Grafendorf]].

@@ -77,6 +77,12 @@ Die Pflichtverletzung erstreckte sich vom [[date|02.04.2025]] bis zur Rückzahlu
 
 Der Senat berücksichtigt, dass die Beschuldigte den Betrag rechtzeitig zurückgezahlt hat und bisher nicht disziplinarisch in Erscheinung getreten ist. Zu ihren Lasten wirkt, dass sie die Umbuchung nicht dokumentierte und damit die Kontrolle durch die Kammer erschwerte. Die Herabsetzung der Geldbuße auf EUR 2.000,00 trägt dem Umstand Rechnung, dass der Vorwurf der eigenmächtigen Entnahme auf den Betrag von EUR 4.100,00 beschränkt ist.
 
+4d-2. Stellungnahme der Gesellschaft
+
+Die Gesellschaft [[organization|Dick Handels GmbH]] hat im Berufungsverfahren durch ihre steuerliche Vertreterin [[person|Mag. Eleonora Kreutzer]] eine Stellungnahme vom [[date|17. April 2026]] übermittelt. Darin wird bestätigt, dass die Gesellschaft mit der Beschuldigten nie eine Abrechnung vereinbart habe, die eine Entnahme vor Fälligkeit gestattet hätte. Die Gesellschaft verlangt keinen Schadenersatz, weil der Betrag zurückgezahlt wurde, behält sich jedoch vor, die Kosten ihrer Vertretung geltend zu machen.
+
+Der Senat hat die Stellungnahme zur Kenntnis genommen. Sie ist für die disziplinäre Beurteilung nur insoweit von Bedeutung, als sie den Sachverhalt bestätigt. Das Disziplinarverfahren dient nicht dem Schutz der Gesellschaft als Vermögensinhaberin, sondern der Sicherung des Vertrauens in den Berufsstand.
+
 4e. Verfolgungsverjährung
 
 Die Kammer hat im Juli 2025 Kenntnis von den Umbuchungen erlangt. Die Verfolgungsverjährung nach [[legal_norm|§ 60 DSt]] ist daher nicht eingetreten; die letzte Umbuchung vom [[date|30.06.2025]] liegt innerhalb der Frist. Der Einwand der Beschuldigten, das Verfahren sei zu spät eingeleitet worden, geht daher fehl.

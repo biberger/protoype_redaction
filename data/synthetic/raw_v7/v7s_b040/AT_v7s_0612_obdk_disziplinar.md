@@ -51,6 +51,16 @@ Der Disziplinarrat hält die Aussagen der Zeugen für glaubwürdig. Sie sind wid
 
 Die Kammeranwaltschaft wies darauf hin, dass die Beschuldigte bereits im Jahr 2022 eine Belehrung wegen der Behandlung von Klientengeldern erhalten hatte. Diese Belehrung ist im Akt dokumentiert.
 
+3.1 Weitere Zeugenaussagen
+
+Der Zeuge [[person|Scherrer]] schilderte, dass er die Beschuldigte im Herbst 2023 persönlich in ihrer Kanzlei in [[location|St. Ruprecht an der Raab]] aufgesucht habe. Bei dieser Besprechung sei ihm eine Bestätigung über den Zahlungseingang ausgestellt worden, die jedoch nur den Betrag von EUR 25.000,00 auswies. Die weiteren Beträge seien nicht quittiert worden, obwohl er dies ausdrücklich verlangt habe.
+
+Die Zeugin [[person|Stolz]] gab an, sie habe von der Auszahlung an den angeblichen Verkäufer der Wohnung erst durch einen Anruf der Verkäuferin erfahren. Ein Kaufvertrag mit dieser Person wurde im Verfahren nicht vorgelegt. Die Zeugin hatte die Wohnung zu keinem Zeitpunkt besichtigt.
+
+Der Protokollführer [[person|Knaus]] vermerkte, dass die Beschuldigte bei ihrer Vernehmung wiederholt auf ihre Erinnerung verwies, ohne Unterlagen vorzulegen. Die Beschuldigte bestätigte dies im Wesentlichen, wies jedoch darauf hin, dass die Akten in der Zeit der Kanzleiübersiedlung nicht vollständig gewesen seien.
+
+Der Disziplinarrat hat das Vorbringen der Beschuldigten zur Kanzleiorganisation geprüft. Sie gab an, eine Kanzleikraft habe die Buchungen vorgenommen. Diese Kanzleikraft wurde jedoch nicht namhaft gemacht, weshalb dem Vorbringen nicht gefolgt werden konnte. Eine Befragung der [[organization|RAK]] zur Kanzleiorganisation ergab keine weiteren Anhaltspunkte.
+
 4. Rechtliche Beurteilung
 
 4.1. Die Verwahrung fremder Gelder ist in den Berufsrichtlinien geregelt. Ein Rechtsanwalt darf Gelder nur nach Weisung des Klienten verwenden. Eine Verrechnung mit einer eigenen Forderung ist ohne ausdrückliche Zustimmung unzulässig.
