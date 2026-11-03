@@ -15,17 +15,21 @@ GZ: [[case_number|2 A 41/26 y]]
 
 [[court|Bezirksgericht Schwaz]]
 
-Verlassenschaft nach Reimunde Beer
+Verlassenschaft nach [[person|Reimunde Beer]]
 
-Der Notar [[person|Feigl]] hat als gerichtlicher Verlassenschaftskommissär im Verlassenschaftsverfahren nach der am [[date|19.05.2016]] verstorbenen Erblasserin, Reimunde Beer, GEB: [[date_of_birth|19. Mai 1965]], zuletzt wohnhaft in [[address|4820 Bad Ischl]], folgende Feststellungen getroffen. Die Verlassenschaft wurde beim [[court|BG Schwaz]] anhängig gemacht, nachdem das Testament vom [[date|03.11.2025]] aufgefunden worden war.
+Der Notar [[person|Feigl]] hat als gerichtlicher Verlassenschaftskommissär im Verlassenschaftsverfahren nach der am [[date|19.05.2016]] verstorbenen Erblasserin, [[person|Reimunde Beer]], GEB: [[date_of_birth|19. Mai 1965]], zuletzt wohnhaft in [[address|4820 Bad Ischl]], folgende Feststellungen getroffen. Die Verlassenschaft wurde beim [[court|BG Schwaz]] anhängig gemacht, nachdem das Testament vom [[date|03.11.2025]] aufgefunden worden war.
 
 Die Erblasserin hat keinen Ehegatten hinterlassen. Ihre Mutter ist vorverstorben.
 
 Die Erbinnen und Erben stellen sich wie folgt dar:
 
-1. Tjeerdsma Silvy, geb. [[date_of_birth|1983-03-11]], wohnhaft in [[address|4820 Bad Ischl]], Erbin zu einem Viertel aufgrund des Testaments. SV-Nr.: [[social_security_number|3448 110383]]
-2. Zaharie Stolojan, wohnhaft in [[address|4820 Bad Ischl]], Erbe zu einem Viertel aufgrund des Testaments.
+1. [[person|Tjeerdsma Silvy]], geb. [[date_of_birth|1983-03-11]], wohnhaft in [[address|4820 Bad Ischl]], Erbin zu einem Viertel aufgrund des Testaments. SV-Nr.: [[social_security_number|3448 110383]]
+2. [[person|Zaharie Stolojan]], wohnhaft in [[address|4820 Bad Ischl]], Erbe zu einem Viertel aufgrund des Testaments.
 3. Die Hälfte des Nachlasses geht an die Erbengemeinschaft der Nichten und Neffen nach Maßgabe des gesetzlichen Erbrechts; diese Erbquote wird von [[person|Tjeerdsma]] und [[person|Stolojan]] gemeinsam vertreten.
+
+Die Erbquoten sind im Testament vom [[date|03.11.2025]] ausdrücklich festgelegt. Die Erbengemeinschaft der Nichten und Neffen wurde im Verfahren durch die beiden genannten Erben vertreten, weil die übrigen Angehörigen auf eine eigene Vertretung verzichtet haben. Die Anschrift der Verlassenschaftsbeteiligten [[person|Stolojan]] wurde am [[date|14.02.2026]] bestätigt.
+
+Telefonische Auskünfte zum Verfahren erteilt die Kanzlei unter Tel. [[phone_number|+43 463 933 60 26 DW 569]].
 
 Der Nachlass umfasst unter anderem folgende Vermögenswerte:
 

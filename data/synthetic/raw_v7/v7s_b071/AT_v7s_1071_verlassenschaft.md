@@ -27,13 +27,13 @@ I. Erbberechtigte
 
 3. Der Legatar [[person|Mag. Dr. Mark Ürményi]], Geburtsdatum: [[date_of_birth|26.03.1969]], wohnhaft in [[address|1190 Wien]], erhält ein Vermächtnis in Form eines Geldbetrages von EUR 25.000,00.
 
-Eine Übersicht über die Erbquoten ist in der Abhandlungsakte enthalten. Sie ist nach dem Familiennamen der Berechtigten geordnet:
+[[person|Penz]] war nach den Angaben der Nachbarn seit Jahren als alleiniger Bewohner des Hauses bekannt, und die Pflege des Gartens wurde von ihm selbst besorgt. Eine Übersicht über die Erbquoten ist in der Abhandlungsakte enthalten. Sie ist nach dem Familiennamen der Berechtigten geordnet:
 
 | Lfd. | NAME | GEBURTSDATUM | QUOTE |
 |---|---|---|---|
-| 1 | [[person|Gregušová Lerka]] | 09.06.1987 | 1/2 |
-| 2 | [[person|Fares Nasim]] | 25.07.1982 | 1/4 |
-| 3 | [[person|Ürményi Mark]] | 26.03.1969 | Vermächtnis |
+| 1 | [[person|Gregušová Lerka]] | [[date_of_birth|09.06.1987]] | 1/2 |
+| 2 | [[person|Fares Nasim]] | [[date_of_birth|25.07.1982]] | 1/4 |
+| 3 | [[person|Ürményi Mark]] | [[date_of_birth|26.03.1969]] | Vermächtnis |
 
 II. Nachlassvermögen
 
@@ -47,7 +47,9 @@ III. Sozialversicherung und Pensionen
 
 Die Sozialversicherungsnummer des Erblassers lautet SV-Nr. [[social_security_number|3923 011000]]. Die Pensionsversicherung hat den Nachlass über das Ableben des Erblassers zu informieren; die Leistung für den Sterbemonat ist dem Nachlass zuzuführen.
 
-Der Erbe [[person|Fares]] hat erklärt, dass er auf die Pension des Erblassers keinen Anspruch erhebt, weil er selbst Pensionsbezieher ist.
+Der Erbe [[person|Fares]] hat erklärt, dass er die Wohnung des Erblassers nicht übernehmen will, und dass er auf die Pension des Erblassers keinen Anspruch erhebt, weil er selbst Pensionsbezieher ist.
+
+Die Pensionsversicherungsanstalt hat den Sterbemonat bereits berechnet, und der Betrag wird auf das Verlassenschaftskonto überwiesen, sobald die Bankverbindung nachgewiesen ist. Die Erbin [[person|Gregušová]] wurde gebeten, eine Kopie der Sterbeurkunde und die Geburtsurkunde des Erblassers beizubringen. Der Erbe [[person|Fares]] hat zugesagt, die Unterlagen zur Wohnung innerhalb von zwei Wochen zu übermitteln.
 
 IV. Verfahren
 
@@ -59,9 +61,21 @@ IV. Verfahren
 
 4. Der Verlassenschaftskurator wurde nicht bestellt, da alle Erben bekannt und erreichbar sind.
 
+V. Inventar und Schätzung
+
+1. Das Inventar wurde am [[date|28. August 2026]] in Anwesenheit der Erbin [[person|Gregušová]] und des Erben [[person|Fares]] aufgenommen. Die beweglichen Sachen des Haushalts wurden mit einem Gesamtwert von EUR 3.150,00 bewertet. Schmuck und Wertgegenstände wurden nicht vorgefunden; [[person|Penz]] hatte nach Auskunft der Nachbarn keine solchen Gegenstände aufbewahrt.
+
+2. Die Sachverständige hat die Liegenschaft am [[date|25. August 2026]] besichtigt. Sie stellte fest, dass das Dach des Nebengebäudes erneuerungsbedürftig ist. Der Wert wurde daher um die geschätzten Sanierungskosten gemindert.
+
+3. Der Legatar [[person|Ürményi]] hat die Übernahme der ihm zugedachten Gegenstände schriftlich bestätigt. Er verzichtet auf die Übergabe des Wohnungsschlüssels, da die Wohnung bereits geräumt wurde.
+
+4. Die Erbin [[person|Gregušová]] hat angegeben, dass sie keine Forderungen gegen den Nachlass geltend macht. Der Erbe [[person|Fares]] hat eine Forderung über EUR 640,00 aus einem Darlehen an den Erblasser angemeldet, die durch einen Schuldschein belegt ist.
+
+Der Notar hat die Erben darauf hingewiesen, dass die Einantwortung erst nach Rechtskraft der Abhandlungsentscheidung erfolgen kann und dass bis dahin die Verwaltung des Nachlasses durch die Erben gemeinsam auszuüben ist. Eine Veräußerung der Liegenschaft ist vor der Einantwortung nur mit Zustimmung aller Erben und des Gerichts zulässig.
+
 Das Gericht wird um Einantwortung ersucht, sobald die Inventarisierung und die Bewertung der Liegenschaft abgeschlossen sind. Die Erben werden über den Fortgang des Verfahrens laufend unterrichtet.
 
-Für Rückfragen steht die Kanzlei unter der Telefonnummer [[phone_number|0732 958414 Kl. 85]] zur Verfügung.
+Für Rückfragen steht die Kanzlei unter Tel. [[phone_number|0732 958414 Kl. 85]] zur Verfügung.
 
 [[address|4502 Sankt Marien]], am [[date|20. August 2026]]
 

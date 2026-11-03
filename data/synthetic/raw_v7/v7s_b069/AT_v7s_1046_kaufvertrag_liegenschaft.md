@@ -18,11 +18,11 @@ Die unterfertigten Vertragsparteien schließen folgenden Kaufvertrag über eine 
 
 Verkäufer:
 
-Ulrich Chaim, GEB: [[date_of_birth|24.05.1966]], wohnhaft in [[address|Kirchplatz 4, 5081 Anif]]
+[[person|Ulrich Chaim]], GEB: [[date_of_birth|24.05.1966]], wohnhaft in [[address|Kirchplatz 4, 5081 Anif]]
 
 Käuferin:
 
-Ida Puchinger, Geburtsdatum: [[date_of_birth|2000-11-17]], wohnhaft in [[address|Am Anger 11, 6921 Kennelbach]]
+[[person|Ida Puchinger]], Geburtsdatum: [[date_of_birth|2000-11-17]], wohnhaft in [[address|Am Anger 11, 6921 Kennelbach]]
 
 Käufer (Miteigentumsanteil):
 
@@ -37,7 +37,7 @@ Der Verkäufer ist bücherlicher Eigentümer folgender Liegenschaften:
 
 [[land_register_id|KG 56300]] / [[land_register_id|EZ 2515]] [[land_register_id|Gst-Nr. 897/12]]
 
-Die Liegenschaften sind im Grundbuch lastenfrei, mit Ausnahme einer Dienstbarkeit der Wegebenutzung zugunsten des Nachbargrundstücks, die übernommen wird.
+Die Liegenschaften liegen in [[location|St. Margarethen im Burgenland]] und sind im Grundbuch lastenfrei, mit Ausnahme einer Dienstbarkeit der Wegebenutzung zugunsten des Nachbargrundstücks, die übernommen wird.
 
 II. Kaufpreis und Treuhand
 
@@ -70,4 +70,4 @@ Vorstehende Unterschriften wurden in unserer Gegenwart geleistet.
 [[lawyer|Dr. Blume]]
 Rechtsanwalt
 
-[[location|St. Margarethen im Burgenland]], am [[date|21.10.2026]]
+[[address|6921 Kennelbach]], am [[date|21.10.2026]]

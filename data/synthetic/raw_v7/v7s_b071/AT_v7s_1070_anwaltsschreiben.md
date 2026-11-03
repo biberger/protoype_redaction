@@ -39,6 +39,8 @@ Wir ersuchen Sie, binnen vier Wochen ab Erhalt dieses Schreibens zu bestätigen,
 
 Die Verjährungsfrist für Ansprüche aus dem Versicherungsvertrag ist durch unser Schreiben gehemmt. Wir behalten uns vor, die Ansprüche gegen den Versicherungsnehmer und, soweit erforderlich, gegen weitere Beteiligte gerichtlich geltend zu machen. Ein Vergleich ist unter den Bedingungen denkbar, die wir mit der DHG abgestimmt haben; ein Angebot Ihrer Gesellschaft erwarten wir bis zum genannten Termin.
 
+Eine Kopie dieses Schreibens geht zur Kenntnis an unsere Mandantschaft. Für Ihre Rückmeldung danken wir im Voraus und stehen für ein persönliches Gespräch jederzeit zur Verfügung.
+
 Mit freundlichen Grüßen
 
 [[lawyer|Dr. Schoeller]]

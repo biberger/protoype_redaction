@@ -33,25 +33,29 @@ I. Vertragsparteien
 und
 [[person|Gescha Hölzl]], geboren am [[date_of_birth|1998-07-02]], Staatsangehörigkeit: [[country|Afghanistan]], wohnhaft in [[address|Dorfstraße 17, 8354 Sankt Anna am Aigen]].
 
-[[person|Hölzl Gescha]] ist die Lebensgefährtin des Käufers [[person|Schmitz]] und hat bei der Errichtung dieses Vertrages die Vollmacht vom 28.09.2026 übergeben. Die Vollmacht liegt dieser Urkunde bei.
+[[person|Hölzl Gescha]] ist die Lebensgefährtin des Käufers [[person|Schmitz]] und hat bei der Errichtung dieses Vertrages die Vollmacht vom [[date|28.09.2026]] übergeben. Die Vollmacht liegt dieser Urkunde bei. Die Kanzlei hat die Identität beider Käufer anhand der Reisepässe festgestellt.
 
 II. Kaufgegenstand
 
-Die Verkäuferin zu 1 ist Alleineigentümerin der Liegenschaft [[land_register_id|EZ 1465]] Katastralgemeinde [[land_register_id|57536 Großmugl]] [[land_register_id|Gst.Nr. 443]] mit einer Fläche von 1.214 m². Die Verkäuferin zu 2 ist Eigentümerin des Grundstücks in [[land_register_id|EZ: 578]]/[[land_register_id|KG Hausleiten]] Grundstück Nr. [[land_register_id|391/28]], das zusammen mit der vorgenannten Liegenschaft verkauft wird.
+Die Verkäuferin zu 1 ist Alleineigentümerin der Liegenschaft [[land_register_id|EZ 1465]] Katastralgemeinde [[land_register_id|57536 Großmugl]] [[land_register_id|Gst.Nr. 443]] mit einer Fläche von 1.214 m². Die [[organization|Ullmann Bau]] hat das Grundstück im Jahr 2009 erworben; der Erwerbsvertrag wurde im Grundbuch durchgeführt. Die Verkäuferin zu 2 ist Eigentümerin des Grundstücks in [[land_register_id|EZ: 578]]/[[land_register_id|KG Hausleiten]] Grundstück Nr. [[land_register_id|391/28]], das zusammen mit der vorgenannten Liegenschaft verkauft wird.
 
-Nicht Gegenstand dieses Vertrages ist die Liegenschaft Grundbuch [[land_register_id|Gaschurn]]/Einlagezahl [[land_register_id|3284]]; Grundstück Nr. [[land_register_id|202/2]], an welcher die Verkäuferin zu 2 ein Wohnrecht behält. Die Verkäuferin zu 2 erklärt, dass die Liegenschaft Gaschurn frei von Pfandrechten ist und dass die TH-Nr. [[other_identifier|2018/764]] vollständig abgewickelt wurde.
+Nicht Gegenstand dieses Vertrages ist die Liegenschaft [[land_register_id|Gaschurn]]/Einlagezahl [[land_register_id|3284]]; Grundstück Nr. [[land_register_id|202/2]], an welcher die Verkäuferin zu 2 ein Wohnrecht behält. Die Verkäuferin zu 2 erklärt, dass die Liegenschaft [[land_register_id|Gaschurn]] frei von Pfandrechten ist und dass die TH-Nr. [[other_identifier|2018/764]] vollständig abgewickelt wurde.
 
 III. Kaufpreis
 
 Der Kaufpreis beträgt EUR 485.000,00 (in Worten: vierhundertfünfundachtzigtausend Euro). Davon entfallen EUR 380.000,00 auf die Liegenschaft [[land_register_id|EZ 1465]] und EUR 105.000,00 auf das Grundstück [[land_register_id|Gst 391/28]]. Die Kaufpreise sind bei Vertragsunterfertigung nicht fällig, sondern werden wie folgt treuhändig abgewickelt.
 
+Die Verkäuferin zu 2 hat auf einen Teil des Kaufpreises verzichtet, soweit darin die Kosten der Vermessung des Grundstücks enthalten sind. Diese Kosten belaufen sich auf EUR 2.860,00 und werden von den Käufern unmittelbar an den Vermessungsbefugten bezahlt.
+
 IV. Treuhandabwicklung
 
-1. Die Käufer erlegen den Kaufpreis bis spätestens 15.11.2026 auf das Treuhandkonto der Kanzlei bei der [[organization|Raiffeisenbank Wolfsgraben]], IBAN [[bank_account|AT79 8790 3018 4465 0610]]. Die Abwicklung erfolgt über das Treuhandbuch der Kanzlei unter der Nummer [[other_identifier|2023/887]].
+1. Die Käufer erlegen den Kaufpreis bis spätestens [[date|15.11.2026]] auf das Treuhandkonto der Kanzlei bei der [[organization|Raiffeisenbank Wolfsgraben]], IBAN [[bank_account|AT79 8790 3018 4465 0610]]. Die Abwicklung erfolgt über das Treuhandbuch der Kanzlei unter der Nummer Treuhandbuch-Nr. [[other_identifier|2023/887]].
 
 2. Die Kanzlei übernimmt die Treuhandschaft für beide Vertragsparteien. Sie ist berechtigt, den Kaufpreis erst nach Vorliegen der Eintragungsbewilligung und der Aufsandungserklärung an die Verkäuferinnen auszuzahlen. Ausstehende Abgaben und Gebühren werden aus dem Kaufpreis beglichen.
 
-3. Die Verkäuferin zu 1 hat mit der Treuhandbuch-Nummer [[other_identifier|2023/887]] bereits einen Auftrag über die Löschung eines Pfandrechts erteilt; die Löschung wurde am 02.10.2026 beantragt.
+3. Die Verkäuferin zu 1 hat einen Auftrag über die Löschung eines Pfandrechts erteilt; die Löschung wurde am [[date|02.10.2026]] beantragt. Bis zur Löschung wird ein Betrag von EUR 40.000,00 vom Kaufpreis zurückbehalten.
+
+4. Die Käufer haben die Anweisung erteilt, dass Zahlungen an [[person|Gawril Stadlhuber]] nur auf dessen Konto bei der [[organization|Raiffeisenbank Wolfsgraben]] erfolgen dürfen. Eine Zahlung an Dritte ist ausgeschlossen.
 
 V. Aufsandungserklärung und Einverleibung
 

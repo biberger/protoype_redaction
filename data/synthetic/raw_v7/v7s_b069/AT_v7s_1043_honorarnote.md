@@ -16,6 +16,7 @@ HONORARNOTE Nr. 2026/0931
 An
 Frau [[person|Fahrija Dragićević]]
 [[address|6830 Rankweil]]
+Tel. [[phone_number|+43 463 998 18 81 Durchwahl 76]]
 
 Zeichen [[other_identifier|C-CDragićević/Fragner]]
 Unser Zeichen: [[other_identifier|778/23 CCF]]

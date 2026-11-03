@@ -8,15 +8,15 @@ Treuhandschaft Nr. [[other_identifier|2019/697]]
 
 E N T S C H E I D U N G
 
-Die [[court|OBDK]] hat in der Berufungssache gegen das Erkenntnis des Disziplinarrates in der Besetzung Senatsvorsitzende [[judge|Mag. Fevziye Gurel]], Senatsmitglied [[judge|Ignatius Demel]] und Senatsmitglied [[judge|MMag. Daniele Molterer]], in Anwesenheit des Kammeranwalts [[person|Dr. Gunhild Reisner]] und der Schriftführerin [[person|Pety Smal]], geb. [[date_of_birth|10.11.1983]], über die Berufung der Rechtsanwältin [[lawyer|Irena Manova]] nach der Verhandlung vom [[date|16. Mai 2025]] erkannt:
+Die [[court|OBDK]] hat in der Berufungssache gegen das Erkenntnis des Disziplinarrates in der Besetzung Senatsvorsitzende [[judge|Mag. Fevziye Gurel]], Senatsmitglied [[judge|Ignatius Demel]] und Senatsmitglied [[judge|MMag. Daniele Molterer]], in Anwesenheit des Kammeranwalts [[person|Dr. Gunhild Reisner]] und der Schriftführerin [[person|Pety Smal]], *[[date_of_birth|10.11.1983]], über die Berufung der Rechtsanwältin [[lawyer|Irena Manova]] nach der Verhandlung vom [[date|16. Mai 2025]] erkannt:
 
 Der Berufung wird teilweise Folge gegeben. Die Geldbuße wird auf EUR 2.500,00 herabgesetzt. Im Übrigen wird die Berufung abgewiesen.
 
 Sachverhalt
 
-Die Beschuldigte [[lawyer|Manova]] ist seit dem [[date|2. Jänner 2004]] als Rechtsanwältin in [[location|Wien]] eingetragen. Sie vertrat die Klientin [[person|Anemone Matzner]], wohnhaft in [[address|6780 Schruns]], in einer Angelegenheit betreffend die Auseinandersetzung einer Erbengemeinschaft. Die Klientin hatte Beträge aus dem Nachlass auf ein Treuhandkonto der Beschuldigten einzuzahlen.
+Die Beschuldigte [[lawyer|Manova]] ist seit dem [[date|2. Jänner 2004]] als Rechtsanwältin in [[location|Wien]] eingetragen. Sie vertrat die Klientin [[person|Anemone Matzner]], wohnhaft in [[address|6780 Schruns]], Tel. [[phone_number|02622 863074-70]], in einer Angelegenheit betreffend die Auseinandersetzung einer Erbengemeinschaft. Die Klientin hatte Beträge aus dem Nachlass auf ein Treuhandkonto der Beschuldigten einzuzahlen.
 
-Die Klientin Matzner ist Geschäftsführerin der [[organization|Schuschnigg KG]], FN [[company_register_number|FN 596407w]], UID [[tax_id|ATU52574664]]. Zahlungen aus dem Nachlass sollten an die [[organization|Schuschnigg KG]] erfolgen. Die Gesellschaft ist unter dem Namen [[organization|Schuschnigg]] in den Unterlagen der Erbengemeinschaft geführt.
+Die Klientin [[person|Matzner]] ist Geschäftsführerin der [[organization|Schuschnigg KG]], FN [[company_register_number|FN 596407w]], UID [[tax_id|ATU52574664]]. Zahlungen aus dem Nachlass sollten an die [[organization|Schuschnigg KG]] erfolgen. Die Gesellschaft ist unter dem Namen [[organization|Schuschnigg]] in den Unterlagen der Erbengemeinschaft geführt.
 
 Der Disziplinarrat hat mit Erkenntnis vom [[date|11. November 2024]] festgestellt, dass die Beschuldigte Treuhandgelder nicht ordnungsgemäß verwaltet habe. Gegen diese Entscheidung hat die Beschuldigte Berufung erhoben.
 

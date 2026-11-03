@@ -25,12 +25,12 @@ VERKÄUFERIN: [[person|RITA ALEKSANDROVA]]
 
 Verkäuferin:
 
-Rita Aleksandrova, GEB: [[date_of_birth|02.11.1951]],
+[[person|Rita Aleksandrova]], GEB: [[date_of_birth|02.11.1951]],
 wohnhaft in [[address|Mühlweg 5, 2285 Leopoldsdorf]]
 
 Verkäuferin:
 
-Marlene Bernstein, GEB: [[date_of_birth|27.11.1940]],
+[[person|Marlene Bernstein]], GEB: [[date_of_birth|27.11.1940]],
 wohnhaft in [[address|Wiesengasse 14, 2294 Bad Deutsch-Wagram]]
 
 und
