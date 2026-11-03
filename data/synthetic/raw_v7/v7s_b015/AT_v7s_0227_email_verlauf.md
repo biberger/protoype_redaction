@@ -19,7 +19,7 @@ E-Mail-Verlauf: Schadenersatz nach Wasserschaden, Liegenschaft in [[location|St.
 Von: [[person|Panayiotis Matalon]]
 Gesendet: Montag, [[date|26. Oktober 2026]] 08:41
 An: [[person|Helmine Schimanek]]; [[person|Ivone Charlemont]]
-Cc: [[organization|Wüster, Kröll]]
+Cc: [[person|Drahomír Ing. Králik]], [[organization|Wüster, Kröll]]
 Betreff: AW: Schaden-Nr. [[other_identifier|30/798540/25]], Ihr Schreiben vom [[date|14. Oktober 2026]]
 
 Sehr geehrte Frau [[person|Schimanek]],

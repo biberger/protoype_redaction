@@ -93,7 +93,7 @@ Die Geldbuße wurde unter Berücksichtigung der Vermögensverhältnisse des Besc
 
 Die Kosten des Verfahrens sind dem Beschuldigten nach [[legal_norm|§ 47 RAO]] aufzuerlegen. Die Kammeranwaltschaft hat einen Kostenersatz von EUR 2.100,00 beantragt. Der Senat hat den Betrag im Ausmaß von EUR 1.750,00 zuerkannt.
 
-Der Senat weist ergänzend darauf hin, dass die Eintragungen im Treuhandbuch künftig nach den Vorgaben der Richtlinien zeitnah und mit dem Datum der Buchung vorzunehmen sind. Eine Kontrolle durch die Kammer wird in einem Jahr erneut durchgeführt. Die Kosten einer erfolglosen Berufung trägt der Beschuldigte. Der Beschuldigte wird darauf hingewiesen, dass eine Wiederholung gleichartiger Pflichtverletzungen als erschwerend gewertet würde und die Verhängung einer strengeren Strafe nach sich ziehen kann.
+Der Senat weist ergänzend darauf hin, dass die Eintragungen im Treuhandbuch künftig nach den Vorgaben der Richtlinien zeitnah und mit dem Datum der Buchung vorzunehmen sind. Eine Kontrolle durch die Kammer wird in einem Jahr erneut durchgeführt. Die Kosten einer erfolglosen Berufung trägt der Beschuldigte. Der Beschuldigte wird darauf hingewiesen, dass eine Wiederholung gleichartiger Pflichtverletzungen als erschwerend gewertet würde und die Verhängung einer strengeren Strafe nach sich ziehen kann. Der Senat hat dies in die Strafzumessung einbezogen.
 
 **5. Rechtsmittelbelehrung**
 
