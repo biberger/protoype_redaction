@@ -47,7 +47,8 @@ EUROPE = {"AT", "DE", "CH", "FR", "BE", "LU", "LI", "IT", "RS", "BA", "HR", "PL"
 PROMINENT = frozenset({"Van der Bellen", "Nehammer", "Kickl", "Strache", "Gusenbauer", "Faymann", "Mikl-Leitner",
                        "Babler", "Schallenberg", "Klestil", "Waldheim", "Kreisky", "Vranitzky", "Schüssel", "Haider",
                        "Fischer-Kreisky", "Edtstadler", "Gewessler", "Kogler", "Doskozil", "Merkel", "Scholz",
-                       "Steinmeier", "Söder", "Habeck", "Lindner-Merz", "Merz"})
+                       "Steinmeier", "Söder", "Habeck", "Lindner-Merz", "Merz", "Schwarzenegger", "Mateschitz",
+                       "Klimt", "Lauda", "Hundertwasser", "Kafka"})
 MAX_FIRST = 3000
 MAX_SURNAMES = 2000
 # European countries get larger lists: name-swap augmentation (build.py) cycles through all of them

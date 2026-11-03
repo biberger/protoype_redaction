@@ -53,6 +53,8 @@ Im Lastenblatt ist kein Pfandrecht eingetragen.
 
 5. Die Parteien erklären übereinstimmend, dass die Grundbuchsangaben richtig sind. Eine Abweichung in der Katastralfläche wird nicht als Mangel gewertet.
 
+Die Flächenangaben beruhen auf dem Vermessungsplan des [[organization|Vermessungsbüros Hofer ZT]] vom [[date|14.07.2026]]; die Käufer haben den Plan vor der Vertragsunterzeichnung eingesehen und bestätigen die Angaben.
+
 **III. Kaufpreis**
 
 6. Der Kaufpreis beträgt insgesamt EUR 486.000,--, aufgeteilt wie folgt:
@@ -107,6 +109,20 @@ b) auf die Liegenschaft b): EUR 135.000,--.
 
 24. Für Streitigkeiten aus diesem Vertrag ist das Bezirksgericht am Ort der gelegenen Liegenschaft zuständig. Gerichtsstand ist [[location|Tirol]].
 
+**IX. Finanzierung, Sicherstellung und Rücktritt**
+
+25. Die Käufer finanzieren den Kaufpreis aus Eigenmitteln und aus einem Bankdarlehen der [[organization|Raiffeisenbank Region Tannheim eGen]]. Die Darlehenszusage vom [[date|28.08.2026]] liegt diesem Vertrag bei. Die Käufer haben die Rückzahlung des Darlehens aus ihrem gemeinsamen Einkommen übernommen und erklären, dass die Finanzierung unabhängig vom Ausgang der Verbücherung ist.
+
+26. Zur Sicherstellung des Restkaufpreises wird ein Pfandrecht an der Liegenschaft b) zugunsten des Verkäufers einverleibt, sofern die Darlehensgeberin die Rangordnung nicht einräumt. Die Pfandbestellung wird mit der Unterfertigung dieses Vertrages bewilligt.
+
+27. Bleibt der Restkaufpreis länger als 30 Tage nach Fälligkeit aus, ist der Verkäufer berechtigt, vom Vertrag zurückzutreten. Die bis dahin geleisteten Zahlungen werden abzüglich eines Betrages von EUR 15.000,-- für die Nutzung der Liegenschaften zurückerstattet. Der Rücktritt bedarf der Schriftform und ist dem Treuhänder zuzustellen.
+
+28. Die Verkäufer bestätigen, dass die Liegenschaft a) nicht im Gefahrenzonenplan ausgewiesen ist. Eine entsprechende Auskunft der zuständigen Bezirkshauptmannschaft wurde eingeholt und liegt diesem Vertrag bei.
+
+29. Die Kosten der Auskunft und der Vermessungsurkunde trägt der Verkäufer. Die Käufer tragen die Kosten der Vertragsurkunde, der Verbücherung und der Pfandrechtseintragung.
+
+30. Die Kanzlei hat den Entwurf dieses Vertrages am [[date|20.08.2026]] an beide Käuferparteien übermittelt; die Einwendungen wurden eingearbeitet. Eine nachträgliche Änderung ist nur mit Zustimmung aller Parteien zulässig.
+
 **Beilagen:**
 
 ./A Grundbuchsauszug vom [[date|08.09.2026]]
@@ -114,6 +130,8 @@ b) auf die Liegenschaft b): EUR 135.000,--.
 ./B Lageplan der Liegenschaften
 
 ./C Vollmacht des Verkäufers vom [[date|01.09.2026]]
+./D Darlehenszusage der [[organization|Raiffeisenbank Region Tannheim eGen]] vom [[date|28.08.2026]]
+./E Vermessungsplan vom [[date|14.07.2026]]
 
 Unterschriften:
 

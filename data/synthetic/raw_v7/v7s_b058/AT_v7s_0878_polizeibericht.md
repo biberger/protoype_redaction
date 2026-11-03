@@ -28,6 +28,8 @@ Am [[date|16. Oktober 2026]] gegen 17:15 Uhr befuhr Frau [[person|Wendy Paauw]],
 
 Der Fahrzeuglenker, [[person|Rouven MMag. Knobloch]], gab an, er habe die Fahrbahn beim Einbiegen aufgrund der tiefstehenden Sonne nicht rechtzeitig überblicken können. Herr [[person|Knobloch]] war zum Unfallzeitpunkt im Besitz einer gültigen Lenkberechtigung.
 
+Die Identität beider Lenker wurde anhand der mitgeführten Dokumente festgestellt; die Fahrzeugpapiere wurden eingesehen und die Zulassungsbescheinigungen kopiert. Die Versicherungsbestätigungen lagen vor.
+
 Die Fahrzeuge wurden durch den Aufprall im Frontbereich beschädigt. Verletzte Personen gab es nicht. Die Fahrzeuge wurden nach Aufnahme des Sachverhalts von einem Abschleppdienst entfernt.
 
 Feststellungen der Einsatzkräfte:
@@ -45,6 +47,8 @@ Beweiswürdigung:
 Die Einsatzkräfte halten fest, dass beide Lenker den Unfall nicht vorsätzlich herbeigeführt haben. Nach der Aussage des Herrn [[person|Knobloch]], die durch den Zeugen [[person|Johann Ruckendorfer]] bestätigt wurde, ist der Vorrang der Fahrzeuge des Herrn [[person|Boskovsky]] nicht beachtet worden. Die Angaben des Zeugen sind nachvollziehbar, da er den Vorgang aus dem Schanigarten beobachtete.
 
 Der Alkotest, der um 17:40 Uhr durchgeführt wurde, verlief bei beiden Lenkern negativ. Die Lenker wurden über die Anzeigepflicht und die Verständigung des Versicherers belehrt. Der Abschleppdienst wurde durch die Einsatzzentrale verständigt; die Fahrzeuge wurden auf den Parkplatz der Dienststelle gebracht und dort am [[date|18. Oktober 2026]] wieder ausgefolgt.
+
+Die Unfallstelle wurde am folgenden Tag um 08:15 Uhr nochmals besichtigt; dabei wurden keine weiteren Spuren festgestellt. Die Einsatzkräfte fertigten eine Skizze des Unfallortes an, die dieser Anzeige angeschlossen ist. Die Fahrbahn war zum Zeitpunkt des Unfalls trocken, die Sicht durch die tiefstehende Sonne eingeschränkt.
 
 Der Zeuge [[person|Ruckendorfer]] gab zu Protokoll, dass er den Zusammenstoß von der Terrasse des Gasthauses aus wahrgenommen habe. Er bestätigte, dass das Fahrzeug des Herrn [[person|Boskovsky]] vor dem Einfahren kurz stillstand, jedoch ohne auf den Vorrang des fließenden Verkehrs zu achten weiterfuhr.
 

@@ -45,9 +45,25 @@ Der Senat stützt seine Feststellungen auf die vorgelegten Kontoauszüge, die St
 
 Die [[organization|RAK Wien]] hat in ihrer Stellungnahme zutreffend darauf hingewiesen, dass die Verwahrung fremder Gelder einer besonders strengen Sorgfaltspflicht unterliegt. Der Senat folgt dieser Auffassung. Die Beschuldigte hat die Treuhandgelder nicht als solche behandelt, sondern über längere Zeit unbeschränkt verfügbar gehalten.
 
+Am [[date|6. Oktober 2025]] forderte die [[organization|RAK Wien]] die Beschuldigte zur Stellungnahme auf. Die Beschuldigte antwortete erst nach einer Erinnerung und nur mit einer allgemein gehaltenen Darstellung, die auf eine vorübergehende Erkrankung ihrer Kanzleikraft verwies. Konkrete Unterlagen legte sie nicht vor.
+
+Die Beschuldigte führt ihre Kanzlei seit 2019 im Wesentlichen allein und wird nur stundenweise von einer Kanzleikraft unterstützt. Der Senat hält fest, dass die organisatorische Verantwortung auch in einer Kanzlei dieser Größe vollständig bei der Rechtsanwältin liegt.
+
+Der Mandant [[person|Ivo Pelzmann]] hat in der Verhandlung bestätigt, dass er den Vergleichsbetrag erst nach der Vermittlung der Kammer erhalten habe, nachdem die Beschuldigte seine Anfragen mehrfach unbeantwortet gelassen habe.
+
 Der Senat hat die Zeugin [[person|Rosmarie Kralik]] in der Verhandlung ergänzend vernommen. Frau [[person|Kralik]] schilderte, dass sie nach der Übergabe des Betrags zunächst keine Information über den Stand der Verwahrung erhalten habe. Erst nach dem dritten Schreiben sei eine Abrechnung eingetroffen, die jedoch die Position von 2.400,00 Euro nicht auswies. Die Zeugin bestätigte zudem, dass sie der Beschuldigten nie eine Weisung zur Umbuchung erteilt habe.
 
 Die Kammeranwältin [[person|Draaisma]] beantragte in ihrem Schlussvortrag eine Geldbuße im Ausmaß von 6.000,00 Euro. Die Beschuldigte beantragte die Anwendung des Milderungsgrundes der bisherigen Unbescholtenheit und den Verzicht auf die Verfahrenskosten.
+
+Der Senat hat ferner die Abrechnungsunterlagen für den Mandanten [[person|Pelzmann]] eingesehen. Diese enthalten eine Aufstellung der Kosten, die jedoch erst am [[date|14.05.2025]] übermittelt wurde, obwohl der Vergleichsbetrag bereits am [[date|03.03.2025]] eingegangen war.
+
+Der Senat hat außerdem die Mitteilung der Bank über die Kontoführung des Treuhandkontos eingesehen. Danach wurden in der Zeit von März bis Juni 2025 keine Zahlungen aus dem Treuhandkonto auf Konten der Beschuldigten selbst vorgenommen. Dies ist zugunsten der Beschuldigten zu berücksichtigen.
+
+Die Kammer hat der Beschuldigten zudem vorgehalten, dass die Abrechnung für die Mandantin [[person|Kralik]] nicht den Anforderungen der Richtlinie entsprach, weil keine Belege beigelegt waren. Die Beschuldigte bestritt dies nicht.
+
+Der Senat hat die Akten der Kammeranwältin vollständig gesichtet. Die Anklageschrift ist vom [[date|5. Mai 2026]] datiert; die Beschuldigte brachte fristgerecht eine Erwiderung vor. Diese enthielt keine Belege für die behauptete Erkrankung; die Krankmeldung der Kanzleikraft wurde nur für den Zeitraum vom [[date|3. bis 17. März 2025]] vorgelegt.
+
+In der Verhandlung wurde die Beschuldigte darauf hingewiesen, dass die Verwahrung fremder Gelder keine Frage der Kanzleiorganisation, sondern eine persönliche Pflicht der Rechtsanwältin ist.
 
 **IV. Rechtliche Beurteilung**
 

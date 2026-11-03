@@ -55,4 +55,8 @@ Zahlbar binnen 14 Tagen auf das Konto der Kanzlei, IBAN [[bank_account|AT41 7100
 Mit freundlichen Grüßen
 [[organization|S C H W A B ,   F O S S E L ,   S P O R R E R]]
 
+Die Leistungen für Frau [[person|Wally]] sind nach dem [[legal_norm|UStG]] mit dem Normalsteuersatz berechnet. Die Umsatzsteuer ist im Gesamtbetrag enthalten.
+
+Bei Zahlungsverzug behalten wir uns die Geltendmachung von Verzugszinsen nach den gesetzlichen Bestimmungen vor. Eine Aufstellung der einzelnen Leistungen mit Zeitangaben liegt auf Wunsch gerne bei.
+
 Die Zahlung der Honorarnote ist als Kostenersatz zu verstehen. Für Rückfragen steht die Kanzlei unter den angegebenen Telefonnummern zur Verfügung.

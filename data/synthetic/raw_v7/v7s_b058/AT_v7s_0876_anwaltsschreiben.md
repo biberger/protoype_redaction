@@ -49,6 +49,8 @@ Mit freundlichen Grüßen
 Rechtsanwalts GmbH
 [[organization|Pöschl]]
 
+Für Rückfragen stehen wir unter der oben genannten Telefonnummer zur Verfügung. Eine Kopie dieses Schreibens ergeht an die Mandantschaft.
+
 Anlagen:
 ./A Versicherungsschein
 ./B Gutachten

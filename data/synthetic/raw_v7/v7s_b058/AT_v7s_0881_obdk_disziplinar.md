@@ -48,6 +48,8 @@ Die Stellungnahme einer Sachverständigen zur Teilung des Gutachtens ist dem Akt
 
 Der Senat stützt die Feststellungen auf die Kontoauszüge, die Zeugenaussage des Klienten [[person|Al-Majzoub]] und die Akten der Kammer. Die [[organization|RAK Wien]] hat die Kontoauszüge am [[date|20. Juli 2026]] bestätigt. Die Verteidigung des Beschuldigten, der Betrag vom [[date|03.03.2026]] sei aufgrund einer mündlichen Vereinbarung mit dem Klienten umgebucht worden, ist nicht glaubhaft. Der Klient hat diese Vereinbarung ausdrücklich bestritten.
 
+Der Senat hat die Kontenbewegungen Zeile für Zeile mit den Abrechnungsbogen abgeglichen. Dabei ergab sich, dass zwei der Zahlungen an Dritte nicht den Vorgaben entsprachen, weil keine schriftliche Weisung des Klienten vorlag. Diese Feststellung deckt sich mit den Angaben der Wirtschaftsprüferin und wurde vom Beschuldigten nicht bestritten. Die Angaben des Beschuldigten zu einem angeblichen Schreiben des Klienten vom [[date|3. März 2026]] wurden nicht bestätigt; ein solches Schreiben liegt in den Akten nicht vor.
+
 Die Prüfung des Treuhandkontos durch die [[organization|RAK Wien]] hat ergeben, dass im Prüfzeitraum insgesamt sieben Auszahlungen ohne vorherige Abrechnung erfolgten. Bei vier davon hatte der Beschuldigte den Klienten vor der Auszahlung schriftlich informiert; in den übrigen drei Fällen fehlte eine solche Mitteilung vollständig. Der Prüfer hielt im Bericht fest, dass die Buchungsjournale nur unvollständig geführt und Zuordnungen nachträglich korrigiert worden waren.
 
 Die von der Kammer bestellte Wirtschaftsprüferin [[person|Renate Hollerweger]] bestätigte in ihrem Bericht die Zuordnungsfehler. Sie führte aus, dass die Kontoführung seit dem [[date|1. Jänner 2026]] nicht mehr den Vorgaben der Richtlinie entsprach.
@@ -63,6 +65,26 @@ Der Senat hält fest, dass die Angaben des Herrn [[person|Al-Majzoub]] durch die
 Der Kammeranwalt [[person|Tokcan]] hat in der Verhandlung ausgeführt, dass die Kanzlei seit Februar 2026 keine laufende Kontrolle der Treuhandkonten durchgeführt habe. Der Beschuldigte hat dies nicht bestritten. Der Senat hält fest, dass die Verantwortung für die Kontrolle beim Beschuldigten als Kanzleiinhaber liegt und durch den Hinweis auf personelle Engpässe nicht entfällt.
 
 Die Kosten des Verfahrens setzen sich aus der Pauschalgebühr, den Kosten der Sachverständigen und den Auslagen der Kammer zusammen. Sie werden dem Beschuldigten vollständig auferlegt.
+
+Der Beschuldigte hat im Verfahren eine Liste seiner Mandate vorgelegt, aus der hervorgeht, dass er im Prüfzeitraum rund 140 Treuhandvorgänge abgewickelt hat. Die beanstandeten Fälle betreffen damit nur einen Teil der Geschäftsvorfälle. Der Senat hat dies nicht als Entlastung gewertet, wohl aber bei der Strafbemessung berücksichtigt.
+
+Die Kammeranwältin [[person|Tokcan]] hat in der Anzeige darauf hingewiesen, dass der Klient [[person|Al-Majzoub]] bereits im Frühjahr 2026 eine Zahlungserinnerung an die Kanzlei gerichtet hatte. Diese Erinnerung wurde nach den vorliegenden Akten erst am [[date|11. Mai 2026]] beantwortet.
+
+Die Wirtschaftsprüferin [[person|Renate Hollerweger]] hat ihre Feststellungen am [[date|19. Juni 2026]] schriftlich bestätigt.
+
+**Verhandlung und Schlussvorträge**
+
+In der mündlichen Verhandlung am [[date|8. Oktober 2026]] wurden die Zeugen und der Beschuldigte vernommen. Der Kammeranwalt [[person|Tokcan]] beantragte in seinem Schlussvortrag eine Geldbuße im Ausmaß von 6.000,00 Euro sowie den Ersatz der Verfahrenskosten. Er verwies darauf, dass die Verzögerung nicht nur einen Einzelfall betreffe, sondern eine Verletzung der Organisationspflichten darstelle, die bei einer Kanzlei dieser Größe vermeidbar gewesen wäre.
+
+Der Beschuldigte beantragte dagegen die Anwendung des Milderungsgrundes der bisherigen Unbescholtenheit und die Herabsetzung der Geldbuße auf den Mindestsatz. Er verwies auf seine Mitwirkung bei der Aufklärung und darauf, dass der Mandant [[person|Al-Majzoub]] den Restbetrag inzwischen vollständig erhalten habe.
+
+Der Senat hat die Zeugen am Ende der Verhandlung nicht weiter befragt, da die Beweisanträge der Parteien ausreichend geklärt waren. Die Beratung fand im Anschluss an die Verhandlung statt; die Entscheidung wurde einstimmig getroffen.
+
+**Ergänzende Erwägungen zur Verantwortung**
+
+Die Frage, ob der Beschuldigte den Betrag vom [[date|03.03.2026]] bewusst umgebucht hat, konnte der Senat nicht abschließend klären, weil die Buchungsunterlagen nur in Auszügen vorliegen. Der Senat geht jedoch davon aus, dass die Umbuchung zumindest grob fahrlässig erfolgte, weil eine Rechtsanwältin mit einer Kanzlei dieser Größe die Zuordnung von Treuhandmitteln zu prüfen hat, bevor eine Zahlung ausgelöst wird.
+
+Der Senat hat außerdem berücksichtigt, dass der Beschuldigte bislang keine disziplinären Vormerkungen aufweist, die Mängel jedoch über einen Zeitraum von mehreren Monaten bestanden. Die Strafbemessung orientiert sich an den gesetzlichen Vorgaben: Eine Geldbuße im unteren Bereich wäre bei einer einzelnen Verfehlung angemessen; da sich die Vorfälle jedoch auf mehrere Auszahlungen verteilen, ist eine Geldbuße im mittleren Bereich gerechtfertigt.
 
 **IV. Rechtliche Beurteilung**
 

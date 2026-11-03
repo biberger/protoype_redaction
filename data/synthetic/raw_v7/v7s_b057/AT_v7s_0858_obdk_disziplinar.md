@@ -77,7 +77,7 @@ IV a. Stellungnahme des Beschuldigten in der Verhandlung
 
 Der Beschuldigte [[lawyer|Österreicher]] erklärte in der Verhandlung, er bedauere die Abrechnungsverzögerung, sehe jedoch keinen Vorsatz in den Entnahmen. Die Summe von EUR 9.200,00 sei aus einer Honorarforderung entnommen worden, die er für gerechtfertigt gehalten habe. Er habe die Entnahme in der Folge mit einem Schreiben vom [[date|05.11.2023]] gegenüber der Klientin begründen wollen, dieses Schreiben sei jedoch nicht abgesendet worden.
 
-Die Klientin [[person|Stadlmann]] hielt dem entgegen, dass ihr nie eine Honorarforderung mitgeteilt worden sei. Der Senat stellt fest, dass ein Schreiben vom [[date|05.11.2023]] im Akt nicht aufscheint und die Entnahme vom [[date|21.08.2023]] damit nicht nachträglich gedeckt werden kann.
+Die Klientin [[person|Stadlmann]] hielt dem entgegen, dass ihr nie eine Honorarforderung mitgeteilt worden sei und sie auch keine Honorarnote erhalten habe, obwohl sie dies mehrfach verlangt hatte. Der Senat stellt fest, dass ein Schreiben vom [[date|05.11.2023]] im Akt nicht aufscheint und die Entnahme vom [[date|21.08.2023]] damit nicht nachträglich gedeckt werden kann.
 
 Der Beschuldigte räumte ein, dass er die Buchungsübersicht des Anderkontos nicht regelmäßig geprüft habe. Er habe die Buchhaltung seit dem Ausscheiden der Kanzleikraft selbst übernommen, ohne eine externe Kontrolle einzurichten. Der Senat sieht darin eine Organisationspflichtverletzung, die bei der Strafbemessung zu berücksichtigen ist.
 
@@ -99,7 +99,7 @@ Die [[organization|Rechtsanwaltskammer Wien]] hat dem Beschuldigten im Verlauf d
 
 Ein Vergleichsversuch zwischen dem Beschuldigten und der Klientin [[person|Stadlmann]] wurde am [[date|17.06.2025]] vor dem Kammeranwalt unternommen. Die Klientin lehnte einen Vergleich ab, der die Rückzahlung von EUR 2.900,00 mit einem Verzicht auf die Honorarforderung verband. Sie bestand auf der vollständigen Abrechnung und der Rückführung aller Beträge, die ohne Auftrag entnommen wurden.
 
-Der Beschuldigte hat in seiner Stellungnahme zum Vergleichsangebot vorgebracht, dass er die Abrechnung bereits im Jahr 2024 erstellt habe, sie jedoch nicht an die Klientin übermittelt worden sei. Dieses Vorbringen blieb unbelegt, weil eine Versandbestätigung nicht vorgelegt wurde.
+Der Beschuldigte hat in seiner Stellungnahme zum Vergleichsangebot vorgebracht, dass er die Abrechnung bereits im Jahr 2024 erstellt habe, sie jedoch nicht an die Klientin übermittelt worden sei. Dieses Vorbringen blieb unbelegt, weil eine Versandbestätigung nicht vorgelegt wurde. Auch die im Vergleichsentwurf angebotene Teilzahlung in Raten von EUR 500,00 monatlich wurde von der Klientin abgelehnt, weil sie eine sofortige Rückzahlung verlangte.
 
 Der Senat stellt fest, dass der Vergleichsversuch nicht zu einer Einigung geführt hat und die Beweisaufnahme daher fortzuführen war. Der Kammeranwalt hat die Kosten des Vergleichsverfahrens mit EUR 240,00 beziffert, die dem Beschuldigten nach dem Verfahrensausgang anzulasten sind. Die Beweisaufnahme wurde am [[date|17.06.2025]] durch die schriftliche Stellungnahme der Miterbin [[person|Seidl]] ergänzt, die die Vorgänge um die Zahlung vom [[date|05.10.2023]] bestätigte.
 

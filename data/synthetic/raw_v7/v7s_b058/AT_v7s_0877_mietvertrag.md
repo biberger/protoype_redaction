@@ -54,6 +54,14 @@ Der Hauptmietzins ist an den Verbraucherpreisindex gebunden. Die Anpassung erfol
 
 Die Mieter verpflichten sich, die Wohnung pfleglich zu behandeln und Schäden unverzüglich dem Vermieter anzuzeigen. Die Haltung von Haustieren bedarf der schriftlichen Zustimmung des Vermieters.
 
+**§ 5a Hausordnung und Instandhaltung**
+
+Die Mieter halten die Hausordnung der Liegenschaft ein, die dem Vertrag als Beilage angeschlossen ist. Kleinreparaturen im Wohnungsinneren bis zu einem Betrag von 80,00 Euro im Einzelfall trägt der Mieter; größere Instandhaltungsarbeiten sind dem Vermieter unverzüglich zu melden.
+
+**§ 5b Kündigung wegen Zahlungsverzugs**
+
+Bei einem Zahlungsrückstand von mehr als zwei Monatsmieten ist der Vermieter berechtigt, das Mietverhältnis gerichtlich aufzukündigen. Die Kaution wird in diesem Fall zur Deckung der offenen Beträge herangezogen.
+
 **§ 6 Schlussbestimmungen**
 
 Änderungen dieses Vertrages bedürfen der Schriftform. Mündliche Nebenabreden bestehen nicht. Der Vermieter hat den Mietvertrag mit der Kunden-Nr. [[other_identifier|853136]] und der Vertragsnummer [[other_identifier|V-2021-8311]] in seiner Verwaltung registriert.

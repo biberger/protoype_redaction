@@ -14,7 +14,7 @@ ERV-Code: [[other_identifier|P204168]]
 **HONORARNOTE Nr. 2026/0417**
 
 Klientennummer: [[other_identifier|28899]]
-Zeichen [[other_identifier|HZ/Dechant/114]]
+Zeichen [[other_identifier|HZ/0114/26]]
 
 Herrn
 [[person|Tiberio Dechant]]
@@ -29,7 +29,7 @@ wir erlauben uns, für unsere Tätigkeit in Ihrer Angelegenheit folgende Honorar
 
 Leistungsübersicht (Datum | Leistung | Betrag in EUR):
 
-[[date|02.03.2026]] | Erstbesprechung mit [[person|Tiberio Dechant]], Aktenstudium HZ/Dechant/114 | 240,00
+[[date|02.03.2026]] | Erstbesprechung mit [[person|Tiberio Dechant]], Aktenstudium HZ/0114/26 | 240,00
 [[date|02.03.2026]] | Akteneinsicht und Kopien | 36,40
 [[date|17.03.2026]] | Schriftsatz an die Gegenseite, Schadensmeldung [[person|Tiberio Dechant]] | 412,00
 [[date|09.04.2026]] | Telefonat mit [[person|Dechant]] betreffend Vergleichsvorschlag | 96,00
@@ -57,4 +57,4 @@ Mit freundlichen Grüßen
 [[person|H E R Z L]]
 Rechtsanwältin
 
-ZAHLUNGSINFORMATION FÜR [[person|TIBERIO DECHANT]]: KLIENTENNUMMER [[other_identifier|28899]], ZEICHEN [[other_identifier|HZ/DECHANT/114]]
+ZAHLUNGSINFORMATION FÜR [[person|TIBERIO DECHANT]]: KLIENTENNUMMER [[other_identifier|28899]], ZEICHEN [[other_identifier|HZ/0114/26]]

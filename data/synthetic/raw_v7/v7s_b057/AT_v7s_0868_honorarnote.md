@@ -40,7 +40,7 @@ Gegenstand des Verfahrens ist auch die Dienstwohnung, eingetragen als [[land_reg
 
 Zusätzlich bestätigen wir, dass die Kanzlei ein weiteres Verfahren führt, unter Klientennummer: [[other_identifier|71742]]. Dieses Verfahren ist auf dieser Note nicht abgerechnet.
 
-Telefonische Rückfragen richten Sie bitte an die Kanzlei unter Tel. [[phone_number|0662 431880 Kl. 82]].
+Die Kanzlei ist für Rückfragen zur Honorarnote während der Bürozeiten erreichbar; Einwendungen gegen die Höhe der Honorare sind innerhalb von vier Wochen nach Erhalt schriftlich geltend zu machen. Telefonische Rückfragen richten Sie bitte an die Kanzlei unter Tel. [[phone_number|0662 431880 Kl. 82]].
 
 Bitte überweisen Sie den Betrag bis zum [[date|02.11.2026]] auf unser Konto mit der IBAN [[bank_account|AT58 9709 7959 4038 5927]].
 

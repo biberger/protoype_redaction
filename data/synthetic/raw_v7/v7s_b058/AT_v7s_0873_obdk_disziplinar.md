@@ -45,6 +45,20 @@ Der verbleibende Betrag von 5.250,00 Euro wurde bis zur Prüfung durch die Kamme
 
 Der Senat stützt sich auf die Kontoauszüge und die Angaben des Geschäftsführers der [[organization|Schneider Handels]]. Die Beschuldigte hat eingeräumt, dass die Verbuchung nicht zeitgerecht erfolgte. Die Stellungnahme der [[organization|StRAK]] vom [[date|14. April 2026]], Tel. [[phone_number|0463/3677294 Durchwahl 51]], enthält die Ergebnisse der Kontrolle; die Sitzung der Kammer fand in [[location|St. Andrä]] statt. Ihre Behauptung, eine Vereinbarung über die Rückzahlung bestehe mündlich, konnte nicht bewiesen werden.
 
+**2a. Verhandlung**
+
+Die Beschuldigte erschien persönlich zur mündlichen Verhandlung. Die Kammeranwältin [[person|Papanek]] verlas die Anklageschrift und stellte den Antrag auf eine Geldbuße von 3.500,00 Euro. Die Beschuldigte bekannte sich zu den wesentlichen Feststellungen, bestritt jedoch, die Gelder vorsätzlich zurückbehalten zu haben. Sie ersuchte um Berücksichtigung des Umstandes, dass sie den Betrag letztlich vollständig ausgefolgt hat.
+
+Der Senat verzichtete auf die Einvernahme weiterer Zeugen, da der Sachverhalt durch die Urkunden hinreichend geklärt war. Das Protokoll der Verhandlung wurde der Beschuldigten im Anschluss zur Kenntnis gebracht.
+
+Der Senat hat außerdem berücksichtigt, dass die [[organization|Schneider Handels]] nach eigenen Angaben einen Vorschuss an die Beschuldigte geleistet hat, der bisher nicht vollständig abgerechnet ist. Die Gesellschaft hat dies im Schreiben vom [[date|20. Jänner 2026]] ausdrücklich gerügt.
+
+**2b. Vorbringen der Beschuldigten**
+
+Die Beschuldigte hat in ihrer schriftlichen Stellungnahme vom [[date|8. April 2026]] ausgeführt, dass sie die Verzögerung auf die Notwendigkeit zurückführe, den Anspruch der Gesellschaft zunächst mit einem Lieferanten abzustimmen. Sie habe die Gesellschaft mündlich informiert, eine schriftliche Mitteilung sei jedoch unterblieben. Der Senat stellt fest, dass eine solche Mitteilung nach den Umständen geboten gewesen wäre, da der Betrag mehr als zwei Monate auf dem Treuhandkonto verblieb.
+
+Die Beschuldigte betonte zudem, dass sie die Kanzlei mit einer weiteren Rechtsanwältin teile, die jedoch keinen Zugriff auf das Treuhandkonto habe. Diese Organisation sei nach der Prüfung durch die Kammer geändert worden.
+
 **3a. Ergänzende Feststellungen**
 
 Der Senat hat weiters festgestellt, dass die Beschuldigte am [[date|12. Februar 2026]] in einer Besprechung mit der Kammeranwältin [[person|Papanek]] einräumte, die Treuhandschaften nicht laufend überwacht zu haben. Sie bestätigte, dass die Kanzlei zu diesem Zeitpunkt keine Kontrollliste für offene Treuhandschaften führte. Eine solche Liste wurde erst nach der Prüfung durch die [[organization|Steiermärkische Rechtsanwaltskammer]] eingeführt.

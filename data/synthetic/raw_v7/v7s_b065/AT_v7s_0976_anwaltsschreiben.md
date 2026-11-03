@@ -48,6 +48,10 @@ Die Abdichtung wurde laut Ihrer Rechnung vom [[date|18.09.2024]] unter der Baule
 
 Frau [[person|Bischoff]] hat mit Schreiben vom [[date|03.03.2026]] jede Haftung zurückgewiesen und auf eine angeblich unsachgemäße Nutzung des Daches verwiesen. Dem können wir nicht folgen. Der Sachverständige hat festgestellt, dass die Anschlüsse an die Attika nicht nach dem Stand der Technik hergestellt wurden. Eine Benutzung des Daches war unserem Mandanten nach der Abnahme ausdrücklich gestattet worden.
 
+Die Mängel sind im Einzelnen: Die Attikaabdeckung ist nicht verschraubt, die Dichtbahn wurde im Bereich der Dachdurchdringungen ohne Manschetten verlegt und die Gefällegestaltung entspricht nicht den einschlägigen Normen. Herr [[person|Raffelsberger]] hat bei der Begehung am [[date|11.11.2024]] selbst eingeräumt, dass die Anschlüsse nachgearbeitet werden müssen. Eine Nachbesserung ist jedoch bis heute unterblieben.
+
+Die Feuchtigkeit hat zudem zu einem Schaden an der Dämmung und am Estrich im obersten Geschoß geführt. Die Kosten für deren Behebung sowie für die Ersatzvornahme der Dachabdichtung sind in dem genannten Betrag enthalten; eine Aufstellung liegt diesem Schreiben bei. Ihre Haftpflichtversicherung hat den Vorgang mit Schreiben vom [[date|17.04.2025]] zur Kenntnis genommen, eine Entscheidung ist jedoch bis dato nicht ergangen. Wir ersuchen ferner um Übermittlung der vollständigen Bauakte, insbesondere der Abnahmeprotokolle und der Prüfberichte.
+
 Wir fordern Sie daher auf, bis spätestens [[date|30.06.2026]] den Betrag von EUR 8.450,00 an unseren Mandanten zu bezahlen und die Mängel an der Dachabdichtung fachgerecht zu beheben. Sollte bis zu diesem Termin keine Zahlung eingehen, werden wir ohne weitere Ankündigung gerichtliche Schritte einleiten.
 
 Bitte richten Sie künftige Korrespondenz ausschließlich an unsere Kanzlei und nicht unmittelbar an unseren Mandanten. Für Rückfragen stehen wir unter der oben angeführten Telefonnummer zur Verfügung.

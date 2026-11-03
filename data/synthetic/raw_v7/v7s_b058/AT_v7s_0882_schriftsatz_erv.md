@@ -41,6 +41,8 @@ Streitwert: 18.400,00 EUR
 
 5. Der Sachverständige hat einen Mängelbehebungsaufwand von 18.400,00 Euro netto ermittelt. Die Mängelkosten wurden mit Kostenvoranschlag vom [[date|1. Juli 2025]] bestätigt.
 
+5a. Die Klägerin hat die beklagte Partei mit Schreiben vom [[date|28. August 2026]] zur Zahlung aufgefordert; die Frist ist fruchtlos verstrichen. Ein Vergleichsangebot der beklagten Partei vom [[date|3. September 2026]] wurde nicht angenommen, weil es lediglich eine Teilzahlung von 4.000,00 Euro vorsah.
+
 **II. Rechtliche Ausführungen**
 
 6. Die beklagte Partei ist aus dem Werkvertrag zur Verbesserung verpflichtet. Nach [[legal_norm|§ 932 ABGB]] hat der Übernehmer das Recht auf Verbesserung oder Preisminderung. Der Anspruch ist binnen angemessener Frist geltend zu machen, was im vorliegenden Fall geschehen ist.
@@ -64,6 +66,10 @@ Die Kosten des Verfahrens werden gemäß [[legal_norm|§§ 41, 50 ZPO]] geltend 
 ./C Schreiben vom [[date|11.09.2026]]
 ./D Kostenvoranschlag vom [[date|01.07.2025]]
 ./E Sachverständigengutachten, UZ: [[other_identifier|985/21 TB]]
+
+Die beklagte Partei hat die Mängel im Schreiben vom [[date|11. September 2026]] nur für den Bereich der Dachrinne teilweise anerkannt. Die Dachkonstruktion selbst wurde nicht behandelt, weshalb die Klage auf den vollen Betrag gerichtet ist.
+
+Der Streitwert ist nach dem Kostenvoranschlag bemessen. Die Klägerin ersucht um Festsetzung des Streitwertes mit 18.400,00 Euro gemäß [[legal_norm|§ 56 JN]].
 
 **V. Beweisanbot**
 

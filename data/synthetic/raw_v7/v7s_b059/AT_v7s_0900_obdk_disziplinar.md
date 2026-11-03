@@ -10,6 +10,8 @@ Geschäftszahl: [[case_number|DR-K 3/2026]]
 
 Entscheidung vom [[date|17.08.2026]]
 
+Gegenstand: Disziplinaranzeige der Kammeranwaltschaft vom [[date|20.11.2025]] wegen der Verwendung von Treuhandgeldern
+
 Besetzung:
 
 Vorsitzende: [[person|MMag. Rolanda Eckstein]], *[[date_of_birth|1958-10-14]]
@@ -44,7 +46,7 @@ Datum | Vorgang | Betrag | Klient | Treuhandschaft
 
 Beweiswürdigung
 
-5. Die Feststellungen beruhen auf den Kontoauszügen, den Eintragungen im Treuhandbuch und den Angaben des Klienten. Die [[organization|KRAK]] hat die Kontoauszüge unmittelbar bei der Bank angefordert. Der Klient hat ausgesagt, dass er die Bauunternehmung nicht beauftragt habe und von der Zahlung erst durch ein Schreiben der Kammer erfuhr.
+5. Die Feststellungen beruhen auf den Kontoauszügen, den Eintragungen im Treuhandbuch und den Angaben des Klienten. Die [[organization|KRAK]] hat die Kontoauszüge unmittelbar bei der Bank angefordert. Der Klient hat zudem eine Kopie des Schreibens der Bauunternehmung übergeben, in dem diese den Eingang der Zahlung bestätigt, ohne den Auftrag des Klienten zu kennen. Der Klient hat ausgesagt, dass er die Bauunternehmung nicht beauftragt habe und von der Zahlung erst durch ein Schreiben der Kammer erfuhr.
 
 6. Die Beschuldigte bestritt eine Pflichtverletzung zunächst und bezeichnete die Zahlung als Vorschuss. Diese Verantwortung ist durch den Kaufvertrag vom [[date|30.12.2024]] widerlegt, der keinen Vorschuss an Dritte vorsieht.
 
@@ -55,6 +57,10 @@ Rechtliche Beurteilung
 8. Mildernd wurde berücksichtigt, dass die Beschuldigte den Betrag vollständig ersetzt und die Verfehlung eingeräumt hat. Erschwerend war die Dauer der Treuhandschaft; die Verfehlung erstreckte sich über fast vier Monate.
 
 9. Gegen diese Entscheidung ist die Berufung an die [[court|OBDK]] innerhalb von vier Wochen zulässig.
+
+10. Die Beschuldigte hat die Verantwortung, es habe sich um einen Vorschuss gehandelt, in der mündlichen Verhandlung nicht aufrechterhalten. Sie hat eingeräumt, dass die Zahlung ohne Kenntnis des Klienten erfolgt ist. Der Disziplinarrat wertet dieses Zugeständnis als glaubwürdig, weil es mit den Auszügen übereinstimmt.
+
+11. Eine Untersagung der Berufsausübung war nicht zu verhängen, weil die Beschuldigte seit dem [[date|01.01.2026]] keine Treuhandschaften mehr übernommen hat. Die Kosten des Verfahrens, einschließlich der Zustellung, trägt die Beschuldigte.
 
 Die Schriftführerin hat die Entscheidung vollständig verlesen. Die Beschlussfassung erfolgte einstimmig.
 

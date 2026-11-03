@@ -39,6 +39,8 @@ Sehr geehrter Herr [[person|Ognjanow]],
 
 in der Sache der Schadennummer [[other_identifier|87/379154/23]] bitte ich um Mitteilung, ob die [[organization|Patzak Handels]] die Sanierung der Fassade selbst bezahlt hat. Herr [[person|Bothe]] hat die Schadensaufnahme am Gebäude vorgenommen und ist zu dem Ergebnis gelangt, dass die Feuchtigkeit von der Dachrinne herrührt.
 
+Wir bitten um Mitteilung bis zum [[date|18. September 2026]], andernfalls wird die Klage vorbereitet.
+
 Mit besten Grüßen
 [[person|Mag. Rosi Oswald]]
 Rechtsanwältin
@@ -73,7 +75,11 @@ Betreff: Ihr Schreiben vom [[date|28. August 2026]]
 
 Sehr geehrte Frau [[person|Oswald]],
 
-ich habe Ihr Schreiben erhalten. Die Behauptung, dass ich für die Schäden am Nachbargebäude verantwortlich bin, weise ich zurück. Ich bin Staatsangehöriger von [[country|Deutschland]] und lebe seit dem Jahr 2019 in [[location|Graz]]. Eine Haftung besteht nach meiner Auffassung nicht, da die Ursache der Feuchtigkeit in der Bauweise des Gebäudes liegt. Ich bitte um Verständnis, dass ich mich nicht weiter äußern werde, bis die [[organization|Patzak Handels]] ihre Ansprüche konkret beziffert hat.
+ich habe Ihr Schreiben erhalten. Die Behauptung, dass ich für die Schäden am Nachbargebäude verantwortlich bin, weise ich zurück. Ich bin Staatsangehöriger von [[country|Deutschland]] und lebe seit dem Jahr 2019 in [[location|Graz]]. Eine Haftung besteht nach meiner Auffassung nicht, da die Ursache der Feuchtigkeit in der Bauweise des Gebäudes liegt. Ergänzend bitte ich um Prüfung, ob die Gewährleistungsfrist für die Bauarbeiten vom Frühjahr bereits abgelaufen ist; die Rechnung trägt das Datum [[date|14. März 2025]].
+
+Die Schadensbehebung am Dach meines Hauses in [[location|Graz]] ist bereits im Jahr 2021 erfolgt, wie die Rechnungen belegen. Ein Zusammenhang mit den nun geltend gemachten Feuchteschäden besteht daher nicht.
+
+Ich bitte um Verständnis, dass ich mich nicht weiter äußern werde, bis die [[organization|Patzak Handels]] ihre Ansprüche konkret beziffert hat.
 
 Mit freundlichen Grüßen
 [[person|Wieland Ritter]]

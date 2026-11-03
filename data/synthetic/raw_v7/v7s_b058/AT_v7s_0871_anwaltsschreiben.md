@@ -38,9 +38,13 @@ Zur Klarstellung weisen wir darauf hin, dass der von Ihnen gemeldete Wasserschad
 
 Frau [[person|Bornemann]] hat uns mit Schreiben vom [[date|24. Juli 2026]] ersucht, die Mietzinszahlungen für die Sommermonate zu stunden. Unsere Mandantin hat einer Stundung bis [[date|30. August 2026]] zugestimmt und ausdrücklich klargestellt, dass eine Verlängerung nicht erfolgen wird. Eine Zahlung ist danach nicht eingegangen, obwohl die [[organization|Loidolt Immobilien GmbH]] mit Schreiben vom [[date|3. September 2026]] an die Zahlung erinnert hat. Die Erinnerung wurde zudem per E-Mail übermittelt; eine Antwort ist bis heute nicht eingegangen.
 
+Wir haben die Ansprüche unserer Mandantin dokumentiert; die Belege liegen diesem Schreiben in Kopie bei.
+
 Die Betriebskostenabrechnung für das Jahr 2025, die Frau [[person|Bornemann]] am [[date|15. Mai 2026]] erhalten hat, weist eine Nachzahlung von 412,80 Euro aus. Dieser Betrag ist in den oben genannten 2.160,00 Euro nicht enthalten und wird gesondert geltend gemacht. Die Abrechnung wurde von [[person|Ing. Evelyn Neunteufel]] auf Plausibilität geprüft.
 
 Sollten Sie bis zum genannten Zeitpunkt weder die Zahlung leisten noch einen Ratenplan mit uns vereinbaren, werden wir ohne weitere Ankündigung die gerichtliche Geltendmachung einleiten. Wir bitten Sie, sich bei uns zu melden, um eine einvernehmliche Lösung zu finden.
+
+Wir ersuchen Sie außerdem, uns eine Kopie des Mietvertrags und der Hausordnung zu übermitteln, sofern Sie diese nicht bereits erhalten haben.
 
 Mit freundlichen Grüßen
 

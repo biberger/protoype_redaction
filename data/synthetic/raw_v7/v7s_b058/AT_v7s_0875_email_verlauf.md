@@ -55,7 +55,15 @@ Betreff: AW: Vergleichsvorschlag [[organization|Emminger]]
 
 Sehr geehrte Damen,
 
-der Vergleichsvorschlag wird von meiner Mandantin nur unter der Bedingung angenommen, dass die [[organization|Emminger]] den Mietzins bis zum [[date|30. September 2026]] nachzahlt. Zur Klarstellung: Die [[organization|Emminger]] hat den Mietrückstand bislang nicht bestritten, sondern lediglich auf die Mängel an der Heizungsanlage verwiesen. Ein Gutachten dazu wurde am [[date|28. August 2026]] in Auftrag gegeben; das Ergebnis erwarten wir bis Ende September.
+Die Mietzinszahlungen wurden seit dem [[date|1. Mai 2025]] nur noch teilweise geleistet, wie die beiliegenden Kontoauszüge zeigen.
+
+Meine Mandantin hat die Heizungsanlage zuletzt im Mai 2026 warten lassen; das Wartungsprotokoll liegt bei. Der Mangel bestand trotz dieser Wartung fort.
+
+Wir haben die Unterlagen zur Heizungsanlage geprüft. Nach dem Bericht des Installateurs ist die Anlage seit dem Frühjahr 2025 mangelhaft. Dieser Umstand ist im Vergleich zu berücksichtigen; wir schlagen daher eine Minderung des Mietzinses um 15 % ab dem [[date|1. Mai 2025]] vor.
+
+Der Vergleichsvorschlag wird von meiner Mandantin nur unter der Bedingung angenommen, dass die [[organization|Emminger]] den Mietzins bis zum [[date|30. September 2026]] nachzahlt. Wir bitten um Mitteilung, ob die [[organization|Emminger]] bereit ist, die Kosten des Gutachtens zu übernehmen. Die Kosten belaufen sich nach dem Kostenvoranschlag auf 1.150,00 Euro netto.
+
+Zur Klarstellung: Die [[organization|Emminger]] hat den Mietrückstand bislang nicht bestritten, sondern lediglich auf die Mängel an der Heizungsanlage verwiesen. Ein Gutachten dazu wurde am [[date|28. August 2026]] in Auftrag gegeben; das Ergebnis erwarten wir bis Ende September.
 
 Die Schadennummer der Versicherung lautet [[other_identifier|87/379154/23]], sie bitte ich bei allen Schreiben anzugeben.
 

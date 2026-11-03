@@ -47,13 +47,13 @@ Die klagende Partei erhebt Klage wie folgt:
 
 **I. Sachverhalt**
 
-1. Die Klägerin ist Eigentümerin der Liegenschaft mit [[land_register_id|KG: Sittersdorf]]/Einlagezahl [[land_register_id|3288]], [[land_register_id|Parz. 9/16]]. Das Grundstück grenzt an die Landesstraße, auf der sich am [[date|02.11.2025]] der Unfall ereignet hat.
+1. Die Klägerin ist Eigentümerin der Liegenschaft mit [[land_register_id|KG: Sittersdorf]]/Einlagezahl [[land_register_id|3288]], [[land_register_id|Parz. 9/16]]. Das Grundstück grenzt an die Landesstraße, auf der sich am [[date|02.11.2025]] der Unfall ereignet hat. Die Klägerin bewirtschaftet die Fläche seit dem Jahr 2008 als Obstgarten.
 
 2. Der Beklagte [[person|Mirzad]] lenkte am [[date|02.11.2025]] einen Traktor mit Anhänger über die Zufahrt zum Grundstück. Beim Abbiegen geriet der Anhänger auf die Böschung und beschädigte den Zaun, die Obstbäume und das Wasserleitungsrohr der Klägerin.
 
 3. Der Streitverkündete [[person|Benedek]] hat den Anhänger am [[date|01.10.2025]] an den Beklagten verkauft und die Übergabe am selben Tag bestätigt. Er war damit im Zeitpunkt des Unfalls nicht mehr Halter. Der Verkauf wurde im Verkaufsvertrag vom [[date|01.10.2025]] dokumentiert.
 
-4. Der Streitverkündete [[person|Weissenbacher]] war als Helfer beim Abbiegen beteiligt und gab dem Beklagten Anweisungen. Er hat sich am Unfallort zu seiner Verantwortung nicht geäußert.
+4. Der Streitverkündete [[person|Weissenbacher]] war als Helfer beim Abbiegen beteiligt und gab dem Beklagten Anweisungen. Er hat sich am Unfallort zu seiner Verantwortung nicht geäußert. In einem Telefonat mit der Klägerin hat der Streitverkündete [[person|Weissenbacher]] am [[date|03.11.2025]] eingeräumt, dass er dem Beklagten das Zeichen zum Abbiegen gegeben hat, obwohl die Böschung nicht befahrbar war.
 
 5. Der Streitverkündete [[organization|Land Oberösterreich]] ist Straßenerhalter der Landesstraße. Die Böschung war seit dem Frühjahr 2025 nicht gesichert, obwohl die Klägerin den Zustand mit Schreiben vom [[date|14.04.2025]] angezeigt hatte.
 
@@ -82,6 +82,10 @@ Gesamtbetrag | EUR 86.450,--
 
 12. Die Verjährung ist nicht eingetreten, [[legal_norm|§ 1489 ABGB]]. Die Schadenersatzansprüche wurden mit Schreiben vom [[date|14.04.2025]] und vom [[date|05.11.2025]] rechtzeitig angemeldet.
 
+13. Die Haftung des Beklagten ist auch deshalb gegeben, weil er den Anhänger ohne ausreichende Sicherung an der Böschung abgestellt hat, bevor er den Traktor abkoppelte. Dies ergibt sich aus dem Unfallbericht der [[organization|Freiwilligen Feuerwehr Sittersdorf]] vom [[date|02.11.2025]], der die Position des Anhängers dokumentiert.
+
+14. Der Ernteausfall ist nicht bloß theoretisch: Die Klägerin hat die Fläche seit dem Jahr 2008 als Obstgarten bewirtschaftet, die Erträge der Vorjahre sind durch die Aufzeichnungen der [[organization|Landwirtschaftskammer Oberösterreich]] belegt. Diese hat die Erntemengen am [[date|10.12.2025]] bestätigt.
+
 **IV. Beweisanbote**
 
 13. Zum Beweis der Schäden werden die Lichtbilder vom [[date|03.11.2025]] vorgelegt. Der Streitverkündete [[person|Benedek]] wird nicht als Zeuge namhaft gemacht; der Streitverkündete [[person|Weissenbacher]] wird zur Anweisung am Unfallort befragt.
@@ -105,6 +109,8 @@ c) der Klägerin die Kosten des Verfahrens zuzusprechen.
 ./C Verkaufsvertrag vom [[date|01.10.2025]]
 ./D Schadenmeldung vom [[date|05.11.2025]], Polizze [[other_identifier|93-6731917]]
 ./E Gutachten vom [[date|15.12.2025]]
+./F Unfallbericht der [[organization|Freiwilligen Feuerwehr Sittersdorf]] vom [[date|02.11.2025]]
+./G Bestätigung der [[organization|Landwirtschaftskammer Oberösterreich]] vom [[date|10.12.2025]]
 
 Die Zustellung der Ausfertigungen an die Streitverkündeten erfolgt über das Gericht.
 

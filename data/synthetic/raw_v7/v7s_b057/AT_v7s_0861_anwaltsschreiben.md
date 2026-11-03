@@ -34,7 +34,7 @@ Zur Klarstellung: Die [[organization|Schütte Handels]] hat den Anhänger seit d
 
 Der Sachverständige hat die Schadenshöhe in seinem Gutachten nach dem Wiederbeschaffungswert ermittelt. Die Reparaturkosten nach dem Kostenvoranschlag der Werkstatt betragen EUR 14.300,00 brutto; eine Restwertbetrachtung ergibt jedoch einen geringeren Betrag, weil der Anhänger bereits vor dem Schaden mehrere Mängel aufwies, die in der Reparatur nicht enthalten sind. Diese Mängel werden von unserer Mandantin nicht bestritten und sind in den Abzug von EUR 1.440,00 eingerechnet.
 
-Eine erste Mahnung haben wir am [[date|15.09.2026]] an Ihre Abteilung gerichtet. Ein Antwortschreiben ist nicht eingegangen; auch die angekündigte Prüfung durch Ihren Regulierungsbeauftragten ist bisher unterblieben.
+Eine erste Mahnung haben wir am [[date|15.09.2026]] an Ihre Abteilung gerichtet, eine zweite folgte am [[date|06.10.2026]]. Ein Antwortschreiben ist nicht eingegangen; auch die angekündigte Prüfung durch Ihren Regulierungsbeauftragten ist bisher unterblieben.
 
 Die Schadensmeldung vom [[date|05.08.2026]] wurde von [[person|Evi Gounaris]] für die Mandantin unterfertigt und Ihrer Abteilung bereits übermittelt. Eine Eingangsbestätigung ist bisher nicht erfolgt. Wir bitten um Mitteilung eines Bearbeiters, der für die weitere Abwicklung zuständig ist.
 
@@ -42,7 +42,7 @@ Ihr Haus ist telefonisch unter Tel. [[phone_number|+43 732 533 25 30 DW 992]] er
 
 Sollte bis zum genannten Termin keine Zahlung eingehen, werden wir die Forderung ohne weitere Ankündigung gerichtlich geltend machen. Die Klage würde neben dem Schadenersatz auch die Verzugszinsen seit dem [[date|05.09.2026]] umfassen sowie die Kosten des Sachverständigen, die unsere Mandantin vorgestreckt hat.
 
-Für eine außergerichtliche Einigung sind wir gesprächsbereit. Wir sind jedoch nicht bereit, einen Abzug von der Schadenssumme wegen angeblicher Vorschäden hinzunehmen, die Ihr Haus nicht durch ein Gutachten belegt hat. Sollten Sie eine solche Prüfung wünschen, bitten wir um die Benennung eines Sachverständigen bis zum [[date|29.10.2026]].
+Für eine außergerichtliche Einigung sind wir gesprächsbereit, sofern die Zahlung den Betrag nach dem Gutachten umfasst und die Verzugszinsen einbezogen werden. Wir sind jedoch nicht bereit, einen Abzug von der Schadenssumme wegen angeblicher Vorschäden hinzunehmen, die Ihr Haus nicht durch ein Gutachten belegt hat. Sollten Sie eine solche Prüfung wünschen, bitten wir um die Benennung eines Sachverständigen bis zum [[date|29.10.2026]].
 
 Wir bitten Sie zudem, die Vorlage des Versicherungsvertrages mit der Polizze [[other_identifier|42-3337783]] binnen zwei Wochen nachzureichen, damit die Deckung des Haftpflichtrisikos geprüft werden kann. Die Kosten für die Vorlage trägt unsere Mandantin nicht. Vorsorglich weisen wir darauf hin, dass unsere Mandantin den Anhänger bis zur Regulierung nicht reparieren lässt, damit die Schadensfeststellung ungestört erfolgen kann. Die Standzeit des Anhängers verursacht bereits Kosten für die Lagerung, die wir Ihnen gesondert in Rechnung stellen werden, sofern die Regulierung weiter verzögert wird.
 

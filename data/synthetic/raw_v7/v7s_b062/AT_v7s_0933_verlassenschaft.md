@@ -32,7 +32,7 @@ II. Nachlassvermögen
 
 Aktiva:
 a) Liegenschaft: [[land_register_id|EZ. 1682]], [[land_register_id|KG 73876 Zillingdorf]], Wohnhaus samt Nebengebäude, Verkehrswert laut Schätzgutachten EUR 212.000,00
-b) Girokonto bei der Sparkasse Lienz, IBAN [[bank_account|AT80 8796 8044 0985 7559]], Guthaben am Todestag EUR 8.412,57
+b) Girokonto bei der [[organization|Sparkasse Lienz]], IBAN [[bank_account|AT80 8796 8044 0985 7559]], Guthaben am Todestag EUR 8.412,57
 c) Lebensversicherung, Polizze [[other_identifier|97-8030810]], Rückkaufswert EUR 15.690,00
 d) Kraftfahrzeug, Vertragsnummer [[other_identifier|LV-2022-31621]], Restwert nach Schätzung EUR 3.100,00
 e) Wertpapierdepot bei der Erste Bank, Kurswert EUR 27.944,10
@@ -59,7 +59,7 @@ Die Kosten der Abhandlung sind aus dem Girokonto zu begleichen. Ein Erbverzicht 
 
 Die Verlassenschaft wurde am [[date|20.08.2015]] in der Kanzlei des Notars [[person|Spatzek]] in [[address|3203 Rabenstein an der Pielach]] aufgenommen und protokolliert.
 
-Rabenstein an der Pielach, am [[date|20.08.2015]]
+[[location|Rabenstein an der Pielach]], am [[date|20.08.2015]]
 
 [[person|Spatzek]]
 Gerichtskommissär

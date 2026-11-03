@@ -81,7 +81,7 @@ Sehr geehrter Herr [[person|Prohaska]], sehr geehrte Frau [[person|Chaloupek]],
 
 die [[organization|AGV]] hat die Polizeianzeige erhalten. Nach einer ersten Prüfung ist die Entwendung bei verschlossenem Fahrzeug nicht ausgeschlossen, jedoch wurde die Schlüsselverwahrung im Betrieb nicht dokumentiert. Die [[organization|AGV]] ersucht deshalb um eine schriftliche Erklärung über die Schlüsselaufbewahrung und um die Übersendung des Fahrtenbuchs bis zum [[date|30.10.2026]].
 
-Mietwagenkosten werden nach Vorlage der Rechnungen geprüft; ein Vorschuss kann nicht zugesagt werden.
+Mietwagenkosten werden nach Vorlage der Rechnungen geprüft; ein Vorschuss kann nicht zugesagt werden. Die Frist für die Unterlagen läuft unabhängig von der Prüfung weiter, eine Verlängerung ist nur nach Rücksprache mit unserer Schadenabteilung möglich.
 
 Mit freundlichen Grüßen
 [[person|Irmline Lauda]]

@@ -46,7 +46,7 @@ III a. Schätzung und Bemessung
 
 Der Kaufpreis entspricht einem Schätzwert, den ein beeideter Sachverständiger am [[date|25.08.2026]] für das Wohngebäude und das Grundstück ermittelt hat. Das Gutachten weist einen Verkehrswert von EUR 271.500,00 aus. Die Parteien haben den Kaufpreis mit Rücksicht auf das Dachgeschoss und den Zustand der Heizungsanlage unter dem Schätzwert vereinbart.
 
-Die Gebühren für das Gutachten trägt die Käuferin. Eine Kopie des Gutachtens wird den Parteien übergeben und ist in der Kanzleiakte verwahrt.
+Die Gebühren für das Gutachten trägt die Käuferin, die das Gutachten auch in Auftrag gegeben hat; der Verkäufer hat dem Sachverständigen den Zugang zu allen Räumen gewährt. Eine Kopie des Gutachtens wird den Parteien übergeben und ist in der Kanzleiakte verwahrt.
 
 IV. Treuhandabwicklung
 
@@ -102,7 +102,7 @@ VIII. Vollmacht und Ausfertigungen
 
 Die Käuferin erteilt der Kanzlei Vollmacht, sie in allen Angelegenheiten des Grundbuchs und des Finanzamtes zu vertreten, die mit dem Erwerb der Liegenschaft zusammenhängen. Die Vollmacht erlischt mit der Eintragung des Eigentumsrechts. Der Verkäufer erteilt der Kanzlei eine gleichlautende Vollmacht für die Löschung des Pfandrechts zugunsten der [[organization|Raiffeisenbank Marchtrenk]].
 
-Von diesem Vertrag werden drei Ausfertigungen errichtet: je eine für die Parteien und eine für das Grundbuch. Die Ausfertigung für das Grundbuch enthält die Aufsandungserklärung im Original. Jede Partei bestätigt mit ihrer Unterschrift den Empfang der jeweiligen Ausfertigung.
+Von diesem Vertrag werden drei Ausfertigungen errichtet: je eine für die Parteien und eine für das Grundbuch. Die Ausfertigung für das Grundbuch enthält die Aufsandungserklärung im Original. Jede Partei bestätigt mit ihrer Unterschrift den Empfang der jeweiligen Ausfertigung. Korrekturen im Text sind nur wirksam, wenn sie von beiden Parteien am Rand paraphiert werden.
 
 Der Verkäufer hat die Vorlage seines Reisepasses bei der Unterfertigung nachgewiesen; die Nummer des Dokuments ist in der Kanzleiakte vermerkt. Die Käuferin hat ihre Identität durch einen gültigen Lichtbildausweis nachgewiesen.
 

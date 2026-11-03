@@ -58,7 +58,7 @@ IV. Beweise
 
 Zum Beweis dient die Anzeige vom [[date|14.03.2026]] (Beilage ./A), die Schadensmeldung der [[organization|WBV]] vom [[date|09.04.2026]] (Beilage ./B), die ärztlichen Befunde (Beilage ./C) und die Lohnbestätigung der Klägerin (Beilage ./D).
 
-Die Klägerin beantragt die Einvernahme des Zeugen [[person|Maximilian Ortbauer]], der den Unfall beobachtete, sowie die Einholung eines Gutachtens aus dem Fachgebiet der Verkehrsunfallanalyse.
+Die Klägerin beantragt die Einvernahme des Zeugen [[person|Maximilian Ortbauer]], der den Unfall beobachtete, sowie die Einholung eines Gutachtens aus dem Fachgebiet der Verkehrsunfallanalyse. Der Zeuge wohnt in [[location|Randegg]] und ist bereit, am Verhandlungstag persönlich zu erscheinen; die Ladung wird ersucht, ihm über die Gemeinde zuzustellen. Ergänzend wird auf die Beilage ./C verwiesen, die den Krankenstand der Klägerin vom [[date|14.03.2026]] bis zum [[date|30.07.2026]] belegt.
 
 V. Anträge
 
@@ -66,7 +66,7 @@ Die Klägerin stellt die Anträge, das Gericht möge
 1. die Beklagten zur ungeteilten Hand zur Zahlung von EUR 18.450,00 samt 4 % Zinsen seit Klagseinbringung verpflichten;
 2. die Kosten des Verfahrens den Beklagten auferlegen.
 
-Die Klage ist sachlich und örtlich beim [[court|BG Döbling]] zuständig, weil die Beklagte [[person|Gröbner]] ihren allgemeinen Gerichtsstand im Sprengel dieses Gerichts hat. Die Zuständigkeit ergibt sich aus [[legal_norm|§ 99 JN]].
+Die Klage ist sachlich und örtlich beim [[court|BG Döbling]] zuständig, die Wertgrenze des Bezirksgerichts ist eingehalten, weil die Beklagte [[person|Gröbner]] ihren allgemeinen Gerichtsstand im Sprengel dieses Gerichts hat. Die Zuständigkeit ergibt sich aus [[legal_norm|§ 99 JN]].
 
 Beilagen:
 ./A Anzeige der Polizeiinspektion vom [[date|14.03.2026]]

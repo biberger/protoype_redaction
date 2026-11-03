@@ -84,17 +84,17 @@ Der Käufer nimmt zur Kenntnis, dass auf der Liegenschaft ein Wegerecht zugunste
 
 VII. Kosten und Steuern
 
-Die Grunderwerbsteuer trägt der Käufer. Die Kosten der Vertragserrichtung und der Verbücherung trägt der Käufer ebenfalls. Die Verkäufer tragen die Kosten der Löschung bestehender Pfandrechte.
+Die Grunderwerbsteuer trägt der Käufer. Die Kosten der Vertragserrichtung und der Verbücherung trägt der Käufer ebenfalls, ebenso die Kosten einer allfälligen Vermessung des Grundstücks, die für die Abgrenzung des Gartens erforderlich ist. Die Verkäufer tragen die Kosten der Löschung bestehender Pfandrechte.
 
 VII a. Abgabenrechtliche Hinweise
 
 Die Kanzlei hat die Parteien darauf hingewiesen, dass der Verkauf eines Grundstücks, das innerhalb von zehn Jahren nach dem Erwerb veräußert wird, unter Umständen steuerpflichtig sein kann. Die Verkäufer haben das Haus im Jahr 2016 übernommen; ob eine Spekulationsfrist gilt, wird von den Verkäufern selbst geprüft. Die Verkäufer erklären, dass sie hierzu keine Auskunft vom Finanzamt eingeholt haben.
 
-Die Grundsteuer für das laufende Jahr wird bis zum Übergabetag von den Verkäufern getragen; ab dem Tag der Übergabe trägt der Käufer die Kosten. Die Verkäufer haben ihre Vorauszahlungen für die Wasser- und Kanalgebühren bereits entrichtet; die Abrechnung erfolgt durch die Gemeinde nach dem Stichtag.
+Die Grundsteuer für das laufende Jahr wird bis zum Übergabetag von den Verkäufern getragen; ab dem Tag der Übergabe trägt der Käufer die Kosten. Die Verkäufer haben ihre Vorauszahlungen für die Wasser- und Kanalgebühren bereits entrichtet; die Abrechnung erfolgt durch die Gemeinde nach dem Stichtag. Für die Rauchfangkehrerprüfung und die Abgasmessung der Heizungsanlage liegen die Bestätigungen vor; sie werden dem Käufer bei der Übergabe ausgehändigt, ebenso wie die Gebrauchsanweisung der Wärmepumpe und die Garantieunterlagen für die Fenster.
 
 VIII. Schlussbestimmungen
 
-Änderungen dieses Vertrages bedürfen der Schriftform. Mündliche Nebenabreden bestehen nicht. Die Parteien erklären, den Vertrag nach ausführlicher Belehrung durch die Kanzlei zu verstehen und zu unterfertigen.
+Änderungen dieses Vertrages bedürfen der Schriftform. Mündliche Nebenabreden bestehen nicht. Die Parteien erklären, den Vertrag nach ausführlicher Belehrung durch die Kanzlei zu verstehen und zu unterfertigen, und bestätigen, dass sie ihn vor der Unterfertigung vollständig gelesen haben.
 
 Der Käufer bestätigt, dass er die Wohnung und das Haus besichtigt hat. Die Verkäufer erklären, dass mit Ausnahme des Dachgeschosses keine Mietverträge bestehen.
 

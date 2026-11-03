@@ -48,6 +48,26 @@ Die Behauptung des [[lawyer|Opitz]], die Verzögerung sei auf die Erkrankung ein
 
 Der Zeuge [[person|Dieter Seeger]] erklärte in der Verhandlung, dass er über die Höhe der Verwahrung informiert gewesen sei, jedoch keine Kenntnis von einer Zahlung an den Notar gehabt habe. Die Schriftführerin [[person|Eidenberger]] hat das Protokoll der Verhandlung im Anschluss den Parteien übermittelt; eine Berichtigung wurde nicht beantragt.
 
+**Verhandlung**
+
+Dem Verfahren vorausgegangen war eine Aufforderung der [[organization|RAK Wien]] an den Beschuldigten vom [[date|12. Jänner 2026]], die Abrechnung binnen vier Wochen nachzuholen. Der Beschuldigte hat diese Frist nicht eingehalten und erst auf eine zweite Aufforderung hin mit einer Teilabrechnung reagiert, die nur die Eingänge, nicht aber die Auszahlungen auswies.
+
+Die Akten enthalten ferner eine Stellungnahme des Klienten [[person|Seeger]] vom [[date|20. März 2026]], in der dieser die Auszahlung an den Notar als nicht autorisiert bezeichnete und einen Schadenersatzanspruch gegen den Beschuldigten vorbehielt. Ein solcher Anspruch ist nicht Gegenstand dieses Verfahrens.
+
+**Verhandlung**
+
+Die mündliche Verhandlung fand am [[date|29. September 2026]] statt. Der Beschuldigte erschien persönlich. Die Kammeranwältin [[person|Klar]] stellte den Antrag auf Verhängung einer Geldbuße im Ausmaß von 5.000,00 Euro und auf Ersatz der Verfahrenskosten. Der Beschuldigte bat um eine Herabsetzung auf den Mindestbetrag. Der Klient [[person|Dieter Seeger]] wurde als Zeuge gehört.
+
+**Feststellungen zur Kanzleiorganisation**
+
+Die Kanzlei des Beschuldigten verfügt über keine Verwaltungssoftware für Treuhandkonten. Die Buchungen werden händisch in einem Journal geführt, das nicht laufend mit dem Kontoauszug abgeglichen wird. Dies hat die Kammerprüfung bestätigt. Der Beschuldigte hat diese Organisation im Verfahren nicht bestritten, sondern auf die fehlenden Mittel für eine Software verwiesen.
+
+Die Kanzleiorganisation wurde nach der Prüfung durch die Kammer umgestellt; seit dem [[date|1. August 2026]] führt eine externe Buchhalterin die Treuhandkonten. Diese Umstellung ist dem Senat nachgewiesen worden und wurde als mildernd berücksichtigt.
+
+Der Senat hat die Ausführungen der Kammeranwältin [[person|Klar]] zur Strafhöhe geprüft. Sie verwies auf vergleichbare Verfahren, in denen bei ähnlich gelagerten Treuhandverstößen Geldbußen zwischen 3.000,00 und 6.000,00 Euro verhängt wurden. Der Senat sieht darin eine brauchbare Orientierung, hat jedoch die Besonderheiten dieses Falles, insbesondere die Nachholung der Abrechnung, eigenständig gewichtet.
+
+Der Beschuldigte hat in seiner letzten Stellungnahme vom [[date|27. Juli 2026]] zugesichert, die Kanzleiorganisation weiter zu verbessern und einmal jährlich eine externe Prüfung der Treuhandkonten zu veranlassen. Der Senat hat diese Zusage zur Kenntnis genommen.
+
 **IV. Rechtliche Beurteilung**
 
 Nach [[legal_norm|§ 11 Abs 1 RAO]] hat der Rechtsanwalt Treuhandgelder unverzüglich auszufolgen, sobald er zur Auszahlung berechtigt ist. Die Zahlung an den Notar ohne Vollmacht und die verspätete Auszahlung an den Klienten verletzen diese Pflicht. Die Verantwortung für die Kanzleiorganisation trifft den Beschuldigten als Rechtsanwalt persönlich.

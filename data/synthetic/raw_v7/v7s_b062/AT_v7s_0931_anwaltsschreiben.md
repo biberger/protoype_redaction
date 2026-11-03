@@ -12,8 +12,8 @@ E: [[email|office@boehme.at]]  W: www.boehme.at
 [[organization|Erste Bank der oesterreichischen Sparkassen AG]] IBAN: [[bank_account|AT18 0536 7365 6965 1583]] BIC: [[bank_account|GIBAATWW]]
 ERV-Code: [[other_identifier|R100262]]
 
-Unser Zeichen: [[other_identifier|BM/Schwarzmann/4417]]
-Ihr Zeichen: [[other_identifier|SCH-4417/Ringler]]
+Unser Zeichen: [[other_identifier|BM/4417/26]]
+Ihr Zeichen: [[other_identifier|SCH-4417/R]]
 
 [[address|7435 Unterkohlstätten]], am [[date|14. Oktober 2026]]
 
@@ -37,9 +37,9 @@ Der Befund der Unfallambulanz vom [[date|4. März 2026]] dokumentiert eine Zerru
 
 Unsere Mandantin fordert von der [[organization|UNIQA]] ([[organization|UNIQA Versicherungen AG]]) Schmerzengeld und Verdienstentgang. Sollte sich die [[organization|UNIQA]] bis zum [[date|30. November 2026]] nicht äußern, wird die Klage beim [[court|Bezirksgericht Braunau am Inn]] eingebracht. Örtlich zuständig ist nach dem Unfallort das [[court|BG Braunau am Inn]].
 
-Zahlungen erbitten wir auf das Konto [[bank_account|AT97 7478 0736 0062 6727]], lautend auf Michaela Schwarzmann.
+Zahlungen erbitten wir auf das Konto [[bank_account|AT97 7478 0736 0062 6727]], lautend auf [[person|Michaela Schwarzmann]].
 
-EINGANG UNIQA: 16.10.2026, SCHADEN [[other_identifier|19/846355/20]], BEARB. [[person|SCHARMANN Ingmar]], MANDANTIN [[person|SCHWARZMANN Michaela]]
+EINGANG [[organization|UNIQA]]: [[date|16.10.2026]], SCHADEN [[other_identifier|19/846355/20]], BEARB. [[person|SCHARMANN Ingmar]], MANDANTIN [[person|SCHWARZMANN Michaela]]
 
 Mit freundlichen Grüßen
 

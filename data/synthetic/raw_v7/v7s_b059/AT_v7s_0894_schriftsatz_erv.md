@@ -37,6 +37,8 @@ Die beklagte Partei erstattet ihre Klagebeantwortung wie folgt:
 
 3. Die beklagte Partei bestreitet das Vorbringen zur angeblichen Mangelhaftigkeit der Dachdeckung. Ein Mangel am Dachstuhl wurde nie gerügt; die erste Mängelanzeige datiert vom [[date|04.10.2025]], also nach Ablauf der angemessenen Frist.
 
+Die Bauleitung hat der Klägerin mit Schreiben vom [[date|22.07.2025]] die Fertigstellung bestätigt. Die Klägerin hat die Schlussrechnung daraufhin ohne Vorbehalt angenommen und erst nach der Mängelanzeige Einwendungen erhoben. Die Behauptung, die Dachdeckung sei von Anfang an mangelhaft gewesen, widerspricht dem eigenen Verhalten der Klägerin.
+
 **II. Zu den Beweisanboten**
 
 4. Zum Beweis für die Ausführung der Arbeiten wird der Zeuge [[person|Max Bischof]], geb. [[date_of_birth|1990-02-03]], wohnhaft in [[address|4715 Taufkirchen an der Trattnach]], namhaft gemacht. Der Zeuge war als Polier auf der Baustelle tätig und hat die Abnahme begleitet.
@@ -82,6 +84,7 @@ c) der Klägerin die Kosten des Verfahrens aufzuerlegen.
 ./C Mängelanzeige vom [[date|04.10.2025]]
 ./D Deckungsbestätigung der Versicherung, Vers.-Nr. [[other_identifier|78-3851821]]
 ./E Vollmacht der beklagten Partei
+./F Befund des Sachverständigen vom [[date|20.11.2025]]
 
 [[location|Rettenschöss]], am [[date|09.09.2026]]
 

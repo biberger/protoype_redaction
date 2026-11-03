@@ -58,13 +58,27 @@ Name | Geburtsdatum | Staatsangehörigkeit | Funktion
 [[person|DORITH KUCHAR]] | [[date_of_birth|22. Dezember 1941]] | [[country|Österreich]] | Beifahrerin
 [[person|ARSEN REBHANDL]] | [[date_of_birth|16.08.1964]] | [[country|Österreich]] | Zulassungsbesitzer
 
+Die Personendaten wurden mit dem Zentralen Melderegister abgeglichen; Abweichungen wurden nicht festgestellt. Die Geburtsdaten der Beteiligten entsprechen den Angaben in den Lenkerausweisen.
+
 **7. Beweismittel**
 
-Die Verkehrsüberwachung der Gemeinde hat die Aufnahmen vom [[date|18.06.2026]] bis zum [[date|19.06.2026]] übermittelt. Die Fotodokumentation wurde von GrInsp. [[person|Haslinger]] angefertigt; die Lichtbilder liegen dem Akt bei.
+Die Verkehrsüberwachung der Gemeinde hat die Aufnahmen vom [[date|18.06.2026]] bis zum [[date|19.06.2026]] übermittelt. Die Fotodokumentation wurde von GrInsp. [[person|Haslinger]] angefertigt; die Lichtbilder liegen dem Akt bei. Insgesamt wurden 24 Lichtbilder angefertigt; acht zeigen die Endlage der Fahrzeuge, sechs die Bremsspuren auf der Fahrbahn und vier die Beschädigungen am Fahrzeug [[license_plate|GU-93 VW]].
 
 Die Angaben zur Haftpflichtversicherung der [[person|Stephan]] liegen noch nicht vor. Die Versicherung wird ersucht, die Polizze bekanntzugeben.
 
-**8. Anzeige**
+**8. Zeugenaussagen und weitere Erhebungen**
+
+Der Zeuge [[person|Andrić]] gab bei seiner Einvernahme am [[date|18.06.2026]] an, er habe das Fahrzeug mit dem Kennzeichen [[license_plate|GU-93 VW]] aus der Gegenrichtung kommen gesehen; die Ampel habe für diese Fahrtrichtung Grünlicht gezeigt. Er sei zu Fuß unterwegs gewesen und habe den Zusammenstoß am Gehsteig gehört. Seine Angaben decken sich mit der Schilderung der [[person|Spitzmüller]].
+
+Die Lenkerin [[person|Stephan]] wurde am [[date|19.06.2026]] ergänzend befragt. Sie blieb bei ihrer Darstellung, die Ampel sei für sie auf Gelb umgesprungen. Ein Zeuge aus dem Nachbarhaus konnte keine Angaben zur Schaltung machen.
+
+Die Verkehrsüberwachung der Gemeinde hat die Schaltzeiten der Ampelanlage übermittelt. Daraus ergibt sich, dass die Grünphase für die Fahrtrichtung der [[person|Stephan]] um 07:39:40 Uhr endete und die Gelbphase drei Sekunden dauerte. Eine technische Störung der Anlage wurde nicht festgestellt.
+
+Der Rettungsdienst hat die Beifahrerin [[person|Kuchar]] mit einer Verdachtsdiagnose auf eine Rippenprellung übernommen. Ein Befund des Krankenhauses ist angefordert und wird nachgereicht.
+
+**9. Anzeige**
+
+Gegen [[person|Stephan]] wird keine Anzeige erstattet, weil die Schaltung der Ampelanlage nach dem derzeitigen Ermittlungsstand nicht eindeutig nachvollziehbar ist.
 
 Die Lenkerin [[person|Spitzmüller]] wird verdächtigt, das Rotlicht nicht beachtet zu haben, [[legal_norm|§ 38 Abs 1 StVO]]. Die Anzeige ergeht an die [[organization|Bezirkshauptmannschaft Linz-Land]].
 

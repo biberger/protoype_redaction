@@ -45,7 +45,7 @@ Die Liegenschaften wurden durch einen gerichtlich beeideten Sachverständigen be
 
 Der bewegliche Nachlass umfasst den Hausrat in der Wohnung, eine Kücheneinrichtung, einen Fernseher und Schmuck im Wert von etwa EUR 2.300,00. Die Fahrnisse wurden durch den Notar in einem Inventar erfasst; Kopien des Inventars liegen beiden Erben vor. Ein Gegenstand, ein Familienring, wurde von [[person|Hefel]] in Verwahrung genommen und ist im Inventar als gesondert vermerkt.
 
-Eine Abschätzung der Fahrnisse durch einen Auktionator ist für den Zeitraum nach der Abhandlungstagsatzung vorgesehen. Die Erben haben bereits zugestimmt, dass Gegenstände von geringem Wert ohne Versteigerung an die Erbin übergeben werden, sofern der Schätzwert EUR 200,00 nicht übersteigt.
+Eine Abschätzung der Fahrnisse durch einen Auktionator ist für den Zeitraum nach der Abhandlungstagsatzung vorgesehen; die Kosten dafür sind aus dem Verlassenschaftskonto zu begleichen und werden in die Abrechnung aufgenommen. Die Erben haben bereits schriftlich zugestimmt, dass Gegenstände von geringem Wert ohne Versteigerung an die Erbin übergeben werden, sofern der Schätzwert EUR 200,00 nicht übersteigt.
 
 4. Versicherungen und Zahlungen
 
@@ -69,7 +69,7 @@ Der Erbe [[person|Gutmann]] hat zu dem Anspruch noch nicht Stellung genommen. Di
 
 Die Erben wurden darauf hingewiesen, dass die Erbantrittserklärung binnen der gesetzlichen Frist beim [[court|BG Villach]] einzubringen ist. Das Verlassenschaftsgericht hat die Abhandlungstagsatzung auf [[date|02.11.2026]] anberaumt. Die Erben werden ersucht, Urkunden über das Verwandtschaftsverhältnis zur Erblasserin, insbesondere die Geburtsurkunde des vorverstorbenen Bruders, bis zu diesem Termin vorzulegen. Ein Erbschaftsteuerverfahren ist nach den derzeitigen Vorschriften nicht mehr anhängig, sodass eine gesonderte Anzeige nicht erforderlich ist.
 
-Der Notar hat die Erben über die Möglichkeit der bedingten Erbantrittserklärung belehrt. Die Zustellung an den Erben [[person|Gutmann]] erfolgt über die Anschrift in [[country|Deutschland]].
+Der Notar hat die Erben über die Möglichkeit der bedingten Erbantrittserklärung und über die Frist zur Ausschlagung belehrt. Die Zustellung an den Erben [[person|Gutmann]] erfolgt über die Anschrift in [[country|Deutschland]].
 
 Die Unterlagen zum Nachlass sind im Notariat aufbewahrt. Kopien wurden [[person|Hefel]] übergeben. Die Vollmacht für die Vertretung der Verlassenschaft wurde am [[date|02.03.2026]] erteilt.
 

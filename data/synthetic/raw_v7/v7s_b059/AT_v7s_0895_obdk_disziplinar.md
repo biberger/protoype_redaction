@@ -47,7 +47,7 @@ Datum | Vorgang | Betrag | Klient | Treuhandschaft
 
 **Beweiswürdigung**
 
-6. Die Feststellungen gründen sich auf die Kontoauszüge, die Treuhandbuch-Eintragungen und die Aussagen der Klienten. [[person|Retzer]] hat glaubhaft ausgesagt, dass er den Beschuldigten nie zur Verwendung der Gelder ermächtigt hat. [[person|Najdenow]] hat die Vorschusszahlung bestätigt.
+6. Die Feststellungen gründen sich auf die Kontoauszüge, die Treuhandbuch-Eintragungen und die Aussagen der Klienten. [[person|Retzer]] hat glaubhaft ausgesagt, dass er den Beschuldigten nie zur Verwendung der Gelder ermächtigt hat. [[person|Najdenow]] hat die Vorschusszahlung bestätigt. [[person|Retzer]] hat ferner angegeben, dass er die Kanzlei im Frühjahr 2023 persönlich aufgesucht und auf die getrennte Verwahrung hingewiesen habe. Diese Aussage wird durch den Aktenvermerk vom [[date|25.04.2023]] gestützt, den die Kanzleikraft angelegt hat.
 
 7. Die Verantwortung des Beschuldigten, er habe die Gelder mit Zustimmung der Klienten verwendet, ist durch die Schreiben vom [[date|25.04.2023]] widerlegt. Darin wird ausdrücklich verlangt, die Treuhandgelder unverzüglich zu überweisen.
 
@@ -62,6 +62,10 @@ Datum | Vorgang | Betrag | Klient | Treuhandschaft
 11. Die Geldbuße ist angemessen und liegt im unteren Bereich des gesetzlichen Rahmens. Ein Ausschluss aus der Rechtsanwaltschaft war nicht zu verhängen, weil der Beschuldigte bisher disziplinarrechtlich unbescholten ist.
 
 12. Gegen diesen Beschluss ist die Berufung an die [[court|OBDK]] innerhalb von vier Wochen nach Zustellung zulässig. Die Berufung hat aufschiebende Wirkung hinsichtlich der Geldbuße, nicht aber hinsichtlich des Verweises.
+
+13. Die Kammeranwaltschaft hat in der Verhandlung beantragt, den Beschuldigten für die Dauer von sechs Monaten von der Vertretung von Treuhandklienten auszuschließen. Dem Antrag wurde nicht entsprochen, weil die Rückzahlung vor Einleitung des Verfahrens erfolgte und der Beschuldigte eine externe Prüfung der Treuhandkonten zugesagt hat.
+
+14. Die Kosten des Verfahrens sind dem Beschuldigten nach den Bestimmungen der Disziplinarordnung aufzuerlegen. Die Höhe des Kostenbeitrages wurde mit dem Aufwand der Kammer bemessen und beträgt EUR 1.200,--.
 
 **Protokollvermerk**
 

@@ -52,13 +52,13 @@ Ein Alkotest bei der Lenkerin [[person|Hrebeniovska]] verlief negativ. Beim Lenk
 
 6. Rechtliche Würdigung
 
-Der Sachverhalt erfüllt den Verdacht einer Übertretung nach [[legal_norm|§ 11 Abs 1 StVO]] durch die Lenkerin, weil diese beim Abbiegen dem Gegenverkehr nicht den Vorrang einräumte. Gegen den Lenker [[person|Dvorak]] besteht der Verdacht einer Übertretung nach [[legal_norm|§ 20 Abs 2 StVO]] wegen nicht angepasster Geschwindigkeit. Die Anzeige wird an die [[organization|Bezirkshauptmannschaft Urfahr-Umgebung]] weitergeleitet. Die Zuständigkeit ergibt sich aus dem Tatort, der im Sprengel dieser Behörde liegt; eine Abgabe an eine andere Behörde ist nicht erforderlich. Der Lenker [[person|Dvorak]] wurde über die Möglichkeit einer Stellungnahme innerhalb von zwei Wochen belehrt.
+Der Sachverhalt erfüllt den Verdacht einer Übertretung nach [[legal_norm|§ 11 Abs 1 StVO]] durch die Lenkerin, weil diese beim Abbiegen dem Gegenverkehr nicht den Vorrang einräumte. Gegen den Lenker [[person|Dvorak]] besteht der Verdacht einer Übertretung nach [[legal_norm|§ 20 Abs 2 StVO]] wegen nicht angepasster Geschwindigkeit. Die Anzeige wird an die [[organization|Bezirkshauptmannschaft Urfahr-Umgebung]] weitergeleitet. Die Zuständigkeit ergibt sich aus dem Tatort, der im Sprengel dieser Behörde liegt; eine Abgabe an eine andere Behörde ist nicht erforderlich. Der Lenker [[person|Dvorak]] wurde über die Möglichkeit einer Stellungnahme innerhalb von zwei Wochen belehrt und hat diese Belehrung durch Unterschrift bestätigt. Die Lenkerin [[person|Hrebeniovska]] wurde ebenso belehrt.
 
 7. Verletzungen
 
 Die Mitfahrerin [[person|Kreibich]] wurde vom Rettungsdienst am Unfallort versorgt und nach Angaben des Rettungspersonals nicht stationär aufgenommen. Eine ärztliche Bestätigung über die Verletzung wurde am Abend des [[date|12.10.2026]] nachgereicht.
 
-Die Lenkerin [[person|Hrebeniovska]] gab an, Schmerzen im linken Handgelenk zu haben, lehnte jedoch eine Fahrt ins Krankenhaus ab. Der Sanitäter vermerkte bei der Mitfahrerin [[person|Kreibich]] eine Schnittwunde an der Stirn, die vor Ort versorgt wurde. Eine Kopie des Rettungsprotokolls wird der Anzeige nachgereicht.
+Die Lenkerin [[person|Hrebeniovska]] gab an, Schmerzen im linken Handgelenk zu haben, lehnte jedoch eine Fahrt ins Krankenhaus ab. Der Sanitäter vermerkte bei der Mitfahrerin [[person|Kreibich]] eine Schnittwunde an der Stirn, die vor Ort versorgt wurde. Eine Kopie des Rettungsprotokolls wird der Anzeige nachgereicht. Die Fotodokumentation zeigt die Endlage beider Fahrzeuge auf der Gegenfahrbahn sowie die Bremsspur des Pkw auf einer Länge von etwa elf Metern.
 
 7a. Vernehmung der Lenkerin
 

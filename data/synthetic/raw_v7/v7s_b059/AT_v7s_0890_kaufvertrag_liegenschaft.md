@@ -70,7 +70,7 @@ b) der Restbetrag von EUR 1,138.500,-- binnen 4 Wochen nach der Verbücherungsbe
 
 9. Die Abwicklung wird unter der Treuhandschaft Nr. [[other_identifier|2022/335]] geführt. Der Nachtrag zum Vertrag, der die Erweiterung auf die Liegenschaft c) betrifft, ist unter der Treuhandschaft Nr. [[other_identifier|2024/655]] registriert.
 
-10. Die Treuhänder sind verpflichtet, die Verkäufer über den Zahlungseingang zu informieren. Auskünfte erteilt die Kanzlei unter Tel. [[phone_number|02622/6301932 Kl. 72]].
+10. Die Treuhänder sind verpflichtet, die Verkäufer über den Zahlungseingang zu informieren. Auskünfte erteilt die Kanzlei unter Tel. [[phone_number|02622/6301932 Kl. 72]]. Die Treuhänder führen über den Verkehr auf dem Treuhandkonto ein Journal, das den Parteien auf Verlangen vorzulegen ist. Der Zinsertrag des Treuhandkontos steht den Verkäufern zu, soweit er die Kosten der Verwahrung übersteigt.
 
 **V. Aufsandungserklärung**
 
@@ -80,7 +80,7 @@ b) der Restbetrag von EUR 1,138.500,-- binnen 4 Wochen nach der Verbücherungsbe
 
 **VI. Übergabe und Gewährleistung**
 
-13. Die Übergabe erfolgt mit dem Tag der Kaufpreiszahlung. Die Nutzungen und Lasten gehen mit diesem Tag auf den Käufer über.
+13. Die Übergabe erfolgt mit dem Tag der Kaufpreiszahlung. Die Nutzungen und Lasten gehen mit diesem Tag auf den Käufer über. Der Verkäufer übergibt bei der Übergabe die Schlüssel, die vorhandenen Baupläne sowie die Unterlagen über die Wasserversorgung und die Abwasserleitung.
 
 14. Die Verkäufer haften für die Freiheit von Rechten Dritter. Eine Gewährleistung für Sachmängel wird ausdrücklich ausgeschlossen, soweit gesetzlich zulässig, [[legal_norm|§ 932 ABGB]].
 
@@ -95,6 +95,12 @@ b) der Restbetrag von EUR 1,138.500,-- binnen 4 Wochen nach der Verbücherungsbe
 18. Die Parteien stimmen der Verarbeitung ihrer personenbezogenen Daten für Zwecke der Vertragsabwicklung und der Grundbuchseintragung zu, [[legal_norm|Art. 6 DSGVO]].
 
 19. Dieser Vertrag wird in dreifacher Ausfertigung errichtet, je eine Ausfertigung erhalten die Verkäufer und der Käufer; die dritte verbleibt beim Treuhänder. Jede Partei erhält zudem einen Auszug aus dem Vertrag für ihre Unterlagen.
+
+20. Die Verkäufer verpflichten sich, bis zur Übergabe alle Abgaben und Gebühren für die Liegenschaften, insbesondere die Grundsteuer und die Wasser- und Kanalgebühren, zu begleichen. Ab dem Übergabetag trägt der Käufer diese Kosten.
+
+21. Die Käufer erklären, die Liegenschaften besichtigt zu haben. Sie übernehmen die Liegenschaften in dem Zustand, in dem sie sich am Tag der Vertragsunterfertigung befinden. Erkennbare Abweichungen begründen keinen Anspruch gegen die Verkäufer.
+
+22. Mitteilungen zwischen den Vertragsparteien sind rechtswirksam, wenn sie an die im Vertrag genannte Anschrift oder an die Kanzlei gerichtet werden. Eine Änderung der Anschrift ist den anderen Parteien unverzüglich schriftlich bekanntzugeben.
 
 Beilagen:
 ./A Grundbuchsauszug vom [[date|03.04.2026]]

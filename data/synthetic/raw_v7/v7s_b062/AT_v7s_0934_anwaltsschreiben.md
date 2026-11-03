@@ -26,7 +26,7 @@ z.Hd. Frau [[person|Dr. Jacqueline Stepanek]]
 
 Sehr geehrte Frau [[person|Dr. Stepanek]],
 
-wir vertreten Frau [[person|Jacquelina Staring]] in der Schadenssache gegen Ihren Versicherungsnehmer. Frau [[person|Staring]] ist am [[date|11. August 2026]] auf der Landesstraße bei Seckau mit dem Fahrzeug von Herrn [[person|MMag. Stane Stampf]] kollidiert, als dieser beim Einbiegen von einem Feldweg die Vorrangregel missachtete. Herr [[person|Stampf]] hat den Unfall in seiner Stellungnahme zunächst bestritten. Die Polizeiliche Anzeige vom selben Tag bestätigt jedoch den Hergang, ebenso die Aussage des unabhängigen Zeugen.
+wir vertreten Frau [[person|Jacquelina Staring]] in der Schadenssache gegen Ihren Versicherungsnehmer. Frau [[person|Staring]] ist am [[date|11. August 2026]] auf der Landesstraße bei [[location|Seckau]] mit dem Fahrzeug von Herrn [[person|MMag. Stane Stampf]] kollidiert, als dieser beim Einbiegen von einem Feldweg die Vorrangregel missachtete. Herr [[person|Stampf]] hat den Unfall in seiner Stellungnahme zunächst bestritten. Die Polizeiliche Anzeige vom selben Tag bestätigt jedoch den Hergang, ebenso die Aussage des unabhängigen Zeugen.
 
 Wir ersuchen die [[organization|Allianz]] um Anerkennung der Haftung und um Übermittlung eines Vorschlags für die Schadensregulierung. Unsere Mandantin hat eine Halswirbelsäulenzerrung und eine Rippenprellung erlitten, die eine physikalische Nachbehandlung von mindestens sechs Wochen erfordern. Der Befundbericht wird nachgereicht. Der Fahrzeugschaden an der Außenhaut und am Fahrwerk ist durch den beiliegenden Kostenvoranschlag belegt; der Wiederbeschaffungswert liegt unter der Reparaturkostengrenze.
 
@@ -43,4 +43,4 @@ Beilagen: Lichtbilder, Kostenvoranschlag, Befundbericht, Krankenstandsbestätigu
 
 Kontakt Versicherungsnehmer: [[person|MMag. Stane Stampf]], Tel. [[phone_number|0662 394906-31]]
 
-EINGANG ALLIANZ: 24.10.2026, BEARBEITUNG [[person|STAMPF Stane]], MANDANTIN [[person|STARING Jacquelina]]
+EINGANG [[organization|ALLIANZ]]: [[date|24.10.2026]], BEARBEITUNG [[person|STAMPF Stane]], MANDANTIN [[person|STARING Jacquelina]]

@@ -32,6 +32,8 @@ Datum | Vorgang | Betrag
 [[date|08.10.2025]] | Zahlung an Dritte, Verwendungszweck nicht dokumentiert | 1.200,00 EUR
 [[date|21.11.2025]] | Auszahlung an [[person|Carl Dorr]] | 2.000,00 EUR
 
+Der Kontoauszug zeigt außerdem, dass die Beschuldigte am [[date|14.05.2025]] eine Honorarforderung von 1.800,00 Euro aus dem Treuhandkonto entnahm, ohne dass eine Abrechnung oder Honorarnote vorlag. Diese Entnahme ist im Verfahren nicht gesondert vorgeworfen worden, bildet jedoch den Hintergrund für die Bewertung der Kanzleiführung.
+
 Der Betrag von 3.000,00 Euro vom [[date|19.06.2025]] wurde nach den Aufzeichnungen zuerst einem anderen Klienten gutgeschrieben, dessen Treuhandschaft in der Buchhaltung unter der Nummer [[other_identifier|2024/118]] geführt wurde. Der Senat hält fest, dass eine solche Umbuchung unzulässig ist.
 
 Die [[organization|Rechtsanwaltskammer für Kärnten]] ([[organization|RAK Kärnten]]) hat den Vorgang im Rahmen einer Routineprüfung festgestellt. Der Prüfbericht der [[organization|RAK Kärnten]] vom [[date|14. Jänner 2026]] bildet die Grundlage für die Anzeige.
@@ -48,9 +50,23 @@ Die Beschuldigte hat eingeräumt, dass sie die Abrechnung verspätet übermittel
 
 Die Angaben des [[person|Dorr]] sind glaubwürdig. Er hat die Herausgabe mehrfach verlangt und die Kontoauszüge bestätigt.
 
+Dem Verfahren ging eine Anzeige des Beschwerdeführers vom [[date|14. Februar 2026]] voraus. Herr [[person|Dorr]] verwies darin auf die fehlende Abrechnung und die Verwendung des Betrags für andere Zwecke. Die Kammer leitete daraufhin eine Prüfung der Treuhandschaften ein, die am [[date|18. März 2026]] abgeschlossen wurde.
+
+**Verhandlung**
+
+Die Verhandlung fand am [[date|25. August 2026]] in [[location|Klagenfurt am Wörthersee]] statt. Die Beschuldigte erschien persönlich. Die Kammeranwältin [[person|Sulzbacher]] verlas die Anzeige. Der Senat hörte die Beschuldigte und den Beschwerdeführer [[person|Dorr]] an.
+
+Der Beschuldigten wurde Gelegenheit gegeben, sich zu den Vorwürfen zu äußern. Sie beantragte die Vertagung zur Vorlage weiterer Belege, die der Senat abwies, weil die Frist für die Stellungnahme bereits verstrichen war.
+
 **IV. Rechtliche Beurteilung**
 
 Die Verwahrung fremder Gelder ist nach [[legal_norm|§ 11 Abs 1 RAO]] getrennt vorzunehmen; die Gelder sind unverzüglich auszufolgen. Die Beschuldigte hat durch die Umbuchung und die verspätete Auszahlung gegen diese Pflicht verstoßen.
+
+Die Beschuldigte hat in der Stellungnahme auch die Kanzleiorganisation erläutert. Die Abrechnung der Treuhandschaften erfolgt demnach händisch durch eine Mitarbeiterin, die nur an zwei Tagen pro Woche in der Kanzlei tätig ist. Der Senat hält diese Organisation für unzureichend, weil die Kontrolle durch die Beschuldigte selbst nicht sichergestellt war.
+
+Der Senat hat die vorgelegten Belege geprüft. Die Rechnung über Kanzleiausstattung ist auf den [[date|30. Juli 2025]] datiert, also nach der Umbuchung ausgestellt worden. Ein Zusammenhang mit der Auszahlung vom [[date|19.06.2025]] ist daher nicht nachvollziehbar. Auch auf Nachfrage konnte die Beschuldigte keine Vereinbarung mit dem Mandanten vorlegen, aus der hervorginge, dass die Auslagen zu seinen Lasten gehen sollten.
+
+Der Mandant [[person|Dorr]] hat die Kammer nach eigenen Angaben erst im Jahr 2026 kontaktiert, nachdem er mehrere Monate ohne Abrechnung geblieben war.
 
 Die Verwendung von Treuhandgeldern zur Deckung eigener Kanzleiauslagen wiegt schwer, weil sie unmittelbar die Verfügbarkeit fremder Mittel betrifft. Der Senat sieht darin jedoch keine vorsätzliche Schädigung des Mandanten, da die Beschuldigte den Betrag später ausgeglichen hat.
 

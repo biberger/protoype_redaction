@@ -33,14 +33,19 @@ Mit Schreiben vom [[date|10.03.2026]] haben wir Sie aufgefordert, den Mietrücks
 in Höhe von EUR 6.420,00 zu begleichen. Eine Zahlung ist bis heute nicht eingelangt. Die [[organization|Brem]] hat
 die Miete auch im Dezember 2025 nur teilweise bezahlt; der offene Restbetrag aus diesem Monat beträgt EUR 1.180,00.
 
-Frau [[person|Luger]], die Hausverwaltung unserer Mandantin, hat die Zahlungseingänge geprüft. Sie bestätigt, dass
+Frau [[person|Chlothilde Luger]], die Hausverwaltung unserer Mandantin, hat die Zahlungseingänge geprüft. Sie bestätigt, dass
 auf das Mietkonto seit dem [[date|01.12.2025]] keine vollständige Zahlung eingegangen ist. Eine Zeugin des Mietverhältnisses,
-[[person|Ratković Xena]], war bei der Übergabe des Lokals am [[date|31.12.2024]] anwesend und kann den Zustand bestätigen.
+[[person|Ratković Xena]], wohnhaft in [[location|St. Martin im Mühlkreis]], war bei der Übergabe des Lokals am [[date|02.01.2025]] anwesend
+und kann den Zustand bestätigen. Sie hat sich schriftlich bereit erklärt, eine Aussage zu machen.
 
 Wir fordern Sie daher auf, den Rückstand samt Verzugszinsen binnen 14 Tagen zu überweisen. Andernfalls wird die
 Kündigung des Mietvertrages nach [[legal_norm|§ 1118 ABGB]] ausgesprochen und die Räumung des Lokals gerichtlich betrieben.
 
 Wir ersuchen zudem um Bekanntgabe, ob die [[organization|Brem]] das Lokal weiterhin benützt oder bereits aufgegeben hat.
+Sollte das Lokal aufgegeben worden sein, ersuchen wir um Rückgabe der Schlüssel und um Mitteilung des Zählerstandes
+für Strom und Wasser zum Stichtag. Die Kaution in Höhe von EUR 3.600,00 wird nach Abzug offener Forderungen
+abgerechnet. Die Haftung des Geschäftsführers [[person|Felzmann]] für die Verbindlichkeiten der [[organization|Brem]]
+behalten wir uns ausdrücklich vor.
 
 Rückfragen unter Tel. [[phone_number|0316/4899105 Kl. 97]].
 

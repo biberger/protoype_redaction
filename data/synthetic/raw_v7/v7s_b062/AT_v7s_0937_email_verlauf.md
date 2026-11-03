@@ -71,6 +71,6 @@ Betreff: AW: Unfall vom [[date|19. September 2026]]
 
 Ich bestätige den Termin am [[date|5. Oktober 2026]] in Ihrer Kanzlei. [[person|Shahidi]] wird die Unterlagen der [[organization|Thausing]] mitbringen.
 
-Zamir Shahidi
+[[person|Zamir Shahidi]]
 Geschäftsführung
 [[organization|Thausing GmbH]], [[company_register_number|FN 172585b]], UID: [[tax_id|ATU21589948]]

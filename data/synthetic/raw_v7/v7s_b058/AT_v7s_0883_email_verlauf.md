@@ -95,6 +95,12 @@ Liebe Frau [[person|Cartellieri]],
 
 die [[organization|Billa]] hat die Kaufvertragsentwürfe am [[date|15. Oktober 2026]] an die [[organization|LK Stmk]] übermittelt. Der Versand erfolgte per Post an [[address|8715 Sankt Lorenzen bei Knittelfeld]].
 
+Die Kaufpreiszahlung wurde im Übrigen auf das Treuhandkonto der Rechtsanwälte überwiesen; ein entsprechender Nachweis wird der Kammer vorgelegt. Die Grunderwerbsteuer wurde ebenfalls fristgerecht angezeigt.
+
+Frau [[person|Wind]] hat die Vollmacht bereits am [[date|21. Oktober 2026]] an das Notariat weitergeleitet; dort ist jedoch noch keine Bestätigung eingegangen.
+
+Die Kammer hat die Zustimmung in Aussicht gestellt, sobald die Vollmacht im Original vorliegt. Die Verkäuferin, Herr [[person|Čajić]], ist laut Auskunft seines Büros noch bis [[date|30. Oktober 2026]] ortsabwesend; die Unterlagen werden daher erst danach übermittelt.
+
 Mit freundlichen Grüßen
 [[person|Gertrudis Öztürk]]
 Assistenz
