@@ -280,6 +280,8 @@ def lint(text, spans, fname):
     for label, _, _, surface in spans:
         if label in ("date", "date_of_birth", "legal_norm", "country"):
             continue  # short forms legitimately repeat untagged
+        if re.fullmatch(r"\d{1,3}", surface):
+            continue  # plot or entry numbers like "53": every other "53" (shares, areas) is not an entity
         needles.add(surface)
         town = re.search(r"\b\d{4,5}\s([A-ZÄÖÜ][\w.\-]+(?:\s(?:an\sder|am|im|bei|ob\sder)?\s?[A-ZÄÖÜ][\w.\-]+){0,3})$",
                          surface) if label == "address" else None

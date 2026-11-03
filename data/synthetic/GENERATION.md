@@ -279,3 +279,31 @@ Applied to existing data by `legalner/relabel.py` when records are read; new doc
     "[[organization|Erste Bank der österr.⏎Sparkassen AG]]", "[[person|Christine⏎Gauberger]]". Names listed in a
     letterhead are tagged one by one, also when the line breaks inside the list ("[[person|Huppmann]],
     [[person|Poindl]], [[person|Pfaffenberger]],⏎[[person|Nierlich]]"). (⏎ = a real line break in the file.)
+41. Land register references in running text and in extracts (from real extracts; any order, any separator):
+    - Abbreviated keywords are inside the span, spelled-out ones outside: "[[land_register_id|EZ 123]]",
+      "[[land_register_id|E.Z. 123]]", "[[land_register_id|EZ123]]", "[[land_register_id|KG 01005 Josefstadt]]",
+      "[[land_register_id|KG Penzing]]", "[[land_register_id|GB 10043 Neukirchen]]", "[[land_register_id|Gst 1272]]",
+      "[[land_register_id|Gst-Nr. 240/1]]", "[[land_register_id|Gst.Nr. 115/35]]", "[[land_register_id|Parz. 115/35]]",
+      but "Einlagezahl [[land_register_id|123]]", "Katastralgemeinde [[land_register_id|01005 Josefstadt]]",
+      "Grundbuch [[land_register_id|01005 Josefstadt]]", "Grundstück Nr. [[land_register_id|115/35]]".
+    - One span per reference; slashes, commas and "und" between references stay outside: "[[land_register_id|EZ 123]]/
+      [[land_register_id|KG 01005]]", "[[land_register_id|KG Penzing]], [[land_register_id|EZ 123]]". A bare compound without
+      keywords is one span ("Liegenschaft [[land_register_id|123/Penzing]]").
+    - Lists: the first item carries the keyword, every number is its own span: "[[land_register_id|EZ 431]]
+      [[land_register_id|432]] [[land_register_id|440]] [[land_register_id|KG 10011 Dietmannsdorf]] ([[court|BG Horn]])",
+      "über [[land_register_id|Gst 324/1]] [[land_register_id|324/2]] [[land_register_id|325/2]]", "Eigentümer der
+      [[land_register_id|EZ 90017]]".
+    - Units: "Wohnungseigentum an [[land_register_id|W 12]] s.[[land_register_id|Garage 56]]", "an
+      [[land_register_id|Garage Nr. 52]]", "[[land_register_id|Geschäftslokal top 1]]", "[[land_register_id|Büro top 4]]",
+      "[[land_register_id|Lagerraum I]]".
+    - File numbers of surveying offices, courts and authorities in entries are `case_number`: "([[case_number|F-2249]])",
+      "([[case_number|P 103/97]])", "Anmeldungsbogen [[case_number|A 65/89]]", "Plan GZ [[case_number|1623/88]]",
+      "BEV [[case_number|923/2013/12]]", "([[case_number|11E 959/06i]])", "Sachwalters ([[case_number|1 P 1592/95g]])".
+    - Persons: degrees inside the span wherever they stand ("[[person|Jiri Dipl.Ing.(FH) Schneider]]", "[[person|Eleonore
+      Dr. Schneider]]", "[[person|Karin Mag. Zwicker-Hipfinger]]"), surname-first forms are one span ("[[person|Krippel
+      Karl]], geb [[date_of_birth|1932-06-29]]"), "mj" stays outside ("mj [[person|Andreas Daniel]]"), "Verlassenschaft
+      nach [[person|Leopoldine Angelmayer]]", "*** Name 1: [[person|Hamberger]] ***".
+    - Owners and beneficiaries that are bodies are `organization`, legal-form tails included and across line breaks:
+      "[[organization|Gemeinde Brunn an der Wild]]", "[[organization|Römisch-katholische Kirche St. Marein]]",
+      "[[organization|Raiffeisenbank Horn registrierte Genossenschaft mit⏎beschränkter Haftung]]"; an address with a
+      foreign country: "[[address|Horgauerweg 8, 85156 Augsburg]], [[country|Deutschland]]".

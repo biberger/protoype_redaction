@@ -642,3 +642,24 @@ def test_prodeval_scores_chars_mentions_and_visible_spans():
     assert r["leaked_mentions"] == 0.5          # "Huber" stays visible
     assert abs(r["char_recall"] - 11 / 16) < 1e-9  # 16 non-space PII chars ("MaxHuber", "4Cg1/24k"), 11 masked
     assert r["visible_masked"] > 0              # the court was masked
+
+
+def test_grundbuch_generator_produces_valid_tagged_extracts(tmp_path):
+    from legalner.gazetteers import Gazetteer
+    from legalner.sources.grundbuch import extract, land_ref, ocr
+    from legalner.tagged import parse_file
+    gaz = Gazetteer(rng=random.Random(4))
+    if not gaz.last.get("AT") or not gaz.towns.get("AT"):
+        pytest.skip("gazetteer TSVs not available")
+    rng = random.Random(4)
+    for i in range(15):
+        doc = extract(gaz, rng, i)
+        if i % 3 == 0:
+            doc = ocr(doc, rng)
+        path = tmp_path / f"AT_gb_{i:04d}_grundbuchsauszug.md"
+        path.write_text(f"---\ndoc_type: grundbuchsauszug\njurisdiction: AT\nlang: de\n---\n{doc.render()}")
+        recs = parse_file(path, "synthetic")
+        labels = {s["label"] for r in recs for s in r["spans"]}
+        assert {"land_register_id", "case_number"} <= labels
+    refs = {land_ref(rng, "01005", "Josefstadt", "427", gst="115/35").render() for _ in range(50)}
+    assert len(refs) > 20 and all("[[land_register_id|" in r for r in refs)
