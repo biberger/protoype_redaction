@@ -38,7 +38,7 @@ Im Verfahren zur Treuhandbuch-Nr. [[other_identifier|2019/723]] wurden Eingänge
 
 Die Schreiben der Kanzlei an die Kammer tragen den Vermerk Zeichen [[other_identifier|W-WObernosterer/Tockner]]. Der Beschuldigte hat die Eingänge der Jahre 2023 und 2024 nach eigener Darstellung in einer Excel-Liste geführt, die jedoch nicht mit dem Treuhandbuch abgeglichen war.
 
-Der Beschuldigte hat in der Verhandlung ausgeführt, die Erfassung der Eingänge sei an eine Software geknüpft gewesen, die im Frühjahr 2024 gewechselt wurde. Der Senat hält dies für keine Rechtfertigung, weil die Pflicht zur Führung des Treuhandbuches unabhängig von der verwendeten Software besteht und der Beschuldigte für die Buchführung allein verantwortlich ist.
+Der Beschuldigte hat in der Verhandlung ausgeführt, die Erfassung der Eingänge sei an eine Software geknüpft gewesen, die im Frühjahr 2024 gewechselt wurde. Der Senat hält dies für keine Rechtfertigung. Die Pflicht zur Führung des Treuhandbuches besteht unabhängig von der verwendeten Software, und der Beschuldigte ist für die Buchführung allein verantwortlich; die Kammer hatte ihn bereits im Jahr 2024 auf diese Pflichten hingewiesen.
 
 **3. Beweiswürdigung**
 

@@ -84,6 +84,18 @@ Die Auszahlung an die [[organization|FW]] vom [[date|12. Jänner 2024]] verstö�
 
 Die Verletzung der Berufspflichten ist schwer, weil der Betrag den Großteil des Kaufpreises ausmachte.
 
+3a. Anträge der Kammeranwältin
+
+Die Kammeranwältin [[person|Trenkwitz]] hat beantragt, den Beschuldigten für schuldig zu erkennen und die Geldbuße in einer Höhe festzusetzen, die dem Betrag der unberechtigten Auszahlung entspricht. Sie hat darauf hingewiesen, dass die Kammer in vergleichbaren Fällen bereits Geldbußen in fünfstelliger Höhe verhängt habe. Zudem hat sie die Kosten des Verfahrens dem Beschuldigten auferlegt wissen wollen.
+
+Der Beschuldigte hat dem entgegengehalten, dass er durch die Auszahlung keinen eigenen Vorteil erlangt habe, da der Betrag in der Zwischenzeit wieder auf das Treuhandkonto zurückgeführt worden sei. Diese Behauptung ist nach den Kontoauszügen nur zum Teil richtig: Eine Rückführung von EUR 16.800,00 ist nicht erfolgt.
+
+3b. Vorlage weiterer Unterlagen
+
+Der Beschuldigte hat dem Senat im Verfahren eine Bestätigung der Bank vom [[date|27. Jänner 2026]] vorgelegt, wonach der Kredit inzwischen vollständig getilgt sei. Die Bestätigung betrifft jedoch nur die Zinsen; der Tilgungsbetrag wurde nicht ausgewiesen. Der Senat hat deshalb nicht feststellen können, aus welchen Mitteln die Tilgung erfolgt ist.
+
+Die Klientin [[person|Hollenstein]] hat dem Senat mitgeteilt, dass sie die Treuhandschaft inzwischen abgeschlossen habe und mit der Abwicklung zufrieden sei. Sie hat jedoch ausdrücklich betont, dass sie der Auszahlung an die [[organization|FW]] nie zugestimmt habe und die Angelegenheit nicht als bagatellhaft ansehe.
+
 4. Strafbemessung
 
 Mildernd wirkt, dass der Beschuldigte den Betrag inzwischen teilweise zurückgezahlt hat. Erschwerend wirken die Höhe des Betrags, die Mehrzahl der Buchungen und die Stellung des Beschuldigten als Treuhänder.

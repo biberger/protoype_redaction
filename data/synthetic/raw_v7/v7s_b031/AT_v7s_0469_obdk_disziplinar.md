@@ -86,7 +86,7 @@ Der Senat hat die Akten im Hinblick auf eine mögliche gerichtliche Strafbarkeit
 
 Die Kosten der Kammer für die Zustellung und die Sachverständigenbestätigung betragen EUR 640,00 und sind vom Beschuldigten zu tragen.
 
-Der Senat hat auch die persönlichen Verhältnisse des Beschuldigten berücksichtigt. Er betreibt seine Kanzlei seit dem Jahr 1990 und beschäftigt eine Kanzleikraft in Teilzeit; sein Einkommen ist in den letzten beiden Jahren spürbar zurückgegangen. Er hat angegeben, für seine Ehefrau und ein studierendes Kind zu sorgen. Diese Angaben sind durch eine Einkommensbestätigung des Steuerberaters belegt, die dem Senat vorgelegt wurde.
+Der Senat hat auch die persönlichen Verhältnisse des Beschuldigten berücksichtigt, wobei er die Verantwortung des Beschuldigten für die Kanzlei als Ganzes nicht aus dem Blick verloren hat. Er betreibt seine Kanzlei seit dem Jahr 1990 und beschäftigt eine Kanzleikraft in Teilzeit; sein Einkommen ist in den letzten beiden Jahren spürbar zurückgegangen. Er hat angegeben, für seine Ehefrau und ein studierendes Kind zu sorgen. Diese Angaben sind durch eine Einkommensbestätigung des Steuerberaters belegt, die dem Senat vorgelegt wurde.
 
 Die Geldbuße wurde daher nicht an der oberen Grenze des Strafrahmens bemessen, sondern an einem Betrag, der die Verhältnisse des Beschuldigten berücksichtigt und dennoch die notwendige Wirkung auf die Berufsausübung entfaltet.
 

@@ -117,9 +117,9 @@ Die Summe der Positionen entspricht dem vereinbarten Betrag von EUR 132,50 nach 
 
 (1) Schriftliche Mitteilungen des Vermieters gelten als zugestellt, wenn sie an die Mietobjektadresse gerichtet werden, solange die Mieterin keine andere Anschrift bekanntgegeben hat.
 
-(2) Für Streitigkeiten aus diesem Vertrag ist das Gericht zuständig, in dessen Sprengel das Mietobjekt liegt. Die Vertragsparteien haben die Anwendung ausländischen Rechts ausgeschlossen.
+(2) Für Streitigkeiten aus diesem Vertrag ist das Gericht zuständig, in dessen Sprengel das Mietobjekt liegt. Nebenabreden, die diese Regelung betreffen, sind schriftlich festzuhalten und von beiden Parteien zu unterfertigen. Die Vertragsparteien haben die Anwendung ausländischen Rechts ausgeschlossen.
 
-(3) Die Mieterin bestätigt, dass ihr vor Unterfertigung eine Abschrift des Vertrages übergeben wurde und sie Gelegenheit hatte, sich über die Bestimmungen zu informieren.
+(3) Die Mieterin bestätigt, dass ihr vor Unterfertigung eine Abschrift des Vertrages übergeben wurde und sie Gelegenheit hatte, sich über die Bestimmungen zu informieren, insbesondere über die Pflichten zur Instandhaltung und zur Kaution.
 
 Ausgefertigt in zwei Gleichschriften
 

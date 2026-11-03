@@ -84,4 +84,4 @@ Geschäftsführung, [[organization|Varga Immobilien GmbH]]
 
 ---
 
-Die Kanzlei [[organization|Taupe, Ficker]] vertritt die Mandantschaft nach Maßgabe der Vollmacht vom [[date|1. Juni 2026]].
+Die Kanzlei [[organization|Taupe, Ficker]] vertritt die Mandantschaft nach Maßgabe der Vollmacht vom [[date|1. Juni 2026]]. Bitte richten Sie Antworten ausschließlich an die Kanzleiadresse, nicht an private Konten.

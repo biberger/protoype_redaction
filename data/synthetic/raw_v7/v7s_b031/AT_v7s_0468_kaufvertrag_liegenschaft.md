@@ -57,7 +57,7 @@ Die Verkäuferin erteilt hiermit die unwiderrufliche Aufsandungserklärung zugun
 
 (1) Die Liegenschaften werden in dem Zustand übergeben, in dem sie sich am Übergabetag befinden. Die [[organization|Trampusch]] haftet für ihre Lastenfreiheit, nicht aber für die Beschaffenheit des Bodens.
 
-(2) Die Übergabe erfolgt mit Unterfertigung dieses Vertrages. Nutzen und Lasten gehen ab dem Monatsersten nach vollständiger Zahlung auf die Käuferinnen über.
+(2) Die Übergabe erfolgt mit Unterfertigung dieses Vertrages, die Schlüssel zu den Grundstücken werden bei der Kanzlei hinterlegt und an die Käuferinnen nach Zahlung ausgefolgt. Nutzen und Lasten gehen ab dem Monatsersten nach vollständiger Zahlung auf die Käuferinnen über.
 
 (3) Die Verkäuferin bevollmächtigt die Kanzlei, die für die Verbücherung erforderlichen Urkunden einzuholen. Sollte die Verbücherung wegen eines Fehlers in der Katastralmappe scheitern, verpflichten sich beide Parteien, an einer Berichtigung des Grundbuchs mitzuwirken. Die Kosten einer Vermessung tragen die Käuferinnen, soweit sie durch deren Wunsch entstehen.
 

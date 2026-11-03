@@ -62,6 +62,8 @@ Sehr geehrte Frau [[person|Trenker]],
 
 ich bestätige, dass die Abrechnung korrekt ist. Die [[organization|Graff Immobilien]] steht zu den Angaben von Herrn [[person|Schreiber]]. Die Vorauszahlungen wurden entsprechend angepasst. Der Geschäftsführer [[person|Cornelius Zirner]], Geburtsdatum: [[date_of_birth|26.08.1981]], war zum Zeitpunkt der Abrechnung einzelvertretungsbefugt und hat sie kontrolliert.
 
+Die Vorauszahlungen wurden für das Jahr 2026 um 12 % erhöht, da der Energiepreis gestiegen ist. Diese Erhöhung ist in der Abrechnung nicht berücksichtigt, da sie erst ab dem [[date|1. Jänner 2026]] gilt. Die Mieterin wurde mit dem Schreiben vom [[date|15.11.2025]] über die neue Vorauszahlung informiert, der Zugang ist aber nicht dokumentiert.
+
 Ein Vergleich über EUR 600,00 ist möglich, wenn die Zurückbehaltung bis Ende April zurückgenommen wird. Die Zeugin [[person|Peterson]] kann zum Auszugstermin Auskunft geben; ihre Angaben haben wir bereits eingeholt.
 
 Mit freundlichen Grüßen
@@ -77,6 +79,8 @@ Am [[date|28.04.2026]] um 08:20 schrieb [[person|Petrin]]:
 Sehr geehrte Frau [[person|Trenker]],
 
 wir raten, den Vergleich nicht vor Vorlage der Abrechnung anzunehmen. Ein Schlichtungsversuch ist möglich; sollte die Gegnerin nicht einlenken, wird die Klage beim [[court|Bezirksgericht Krems]] eingebracht. Die Angaben des Herrn [[person|Yehia Sayed]] als Nachbar wären für den Auszugstermin relevant.
+
+Wir bitten Sie, bis zum [[date|5. Mai 2026]] eine Stellungnahme zu den Heizkostenbelegen zu übermitteln. Die Einsicht in die Originalbelege des Versorgers ist nach vorheriger Terminvereinbarung möglich. Eine Verjährung von Nachzahlungsansprüchen für das Abrechnungsjahr 2025 ist derzeit nicht zu befürchten, dennoch sollten Sie zügig reagieren.
 
 Bitte rufen Sie uns an, wenn Sie Fragen haben. Unsere Telefonnummer lautet Tel. [[phone_number|05572 323256 Durchwahl 96]].
 

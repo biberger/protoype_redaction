@@ -128,7 +128,7 @@ Geschäftsführer, [[organization|Lichtenberger GmbH]]
 
 ---
 
-Wir weisen darauf hin, dass die Verzögerung der Lieferung seit dem [[date|4. August 2026]] bereits einen Schaden für unsere Mandantschaft verursacht hat, weil die Anlage nicht in Betrieb genommen werden konnte. Wir behalten uns vor, die Ersatzansprüche wegen der Verzögerung gesondert geltend zu machen. Eine außergerichtliche Einigung ist für unsere Mandantschaft nur dann von Interesse, wenn die Lieferung vollständig erfolgt und der Lieferschein unterschrieben vorliegt.
+Wir weisen darauf hin, dass die Verzögerung der Lieferung seit dem [[date|4. August 2026]] bereits einen Schaden für unsere Mandantschaft verursacht hat, weil die Anlage nicht in Betrieb genommen werden konnte. Wir behalten uns vor, die Ersatzansprüche wegen der Verzögerung gesondert geltend zu machen. Eine außergerichtliche Einigung ist für unsere Mandantschaft nur dann von Interesse, wenn die Lieferung vollständig erfolgt und der Lieferschein unterschrieben vorliegt. Die Kosten für die Zwischenlagerung der Teile trägt die Lichtenberger GmbH, solange die Ware nicht übernommen wurde.
 
 [[organization|Löw, Rieger]] · [[address|Reindorfgasse 22, 8451 Heimschuh]]
 Tel. [[phone_number|0316/7428013]] · Fax [[phone_number|03842/2916716-11]]

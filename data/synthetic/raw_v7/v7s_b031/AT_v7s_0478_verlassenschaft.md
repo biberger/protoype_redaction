@@ -87,7 +87,7 @@ Die Erbin [[person|Löwe Adely]] hat auf ihre Rechte aus dem Pflichtteil nicht v
 
 **8. Schlussbemerkung**
 
-Die Abhandlung ist mit der Einantwortung abzuschließen, sobald die Erbschaftssteuer und die Gerichtsgebühren entrichtet sind.
+Die Abhandlung ist mit der Einantwortung abzuschließen, über die das Verlassenschaftsgericht nach Vorlage aller Nachweise entscheidet, sobald die Erbschaftssteuer und die Gerichtsgebühren entrichtet sind.
 
 Ausgefertigt am [[date|14. Juni 2021]]
 

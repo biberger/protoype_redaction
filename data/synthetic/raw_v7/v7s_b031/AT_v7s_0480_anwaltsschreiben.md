@@ -47,7 +47,7 @@ Sollten Sie dieser Aufforderung nicht nachkommen, werden wir ohne weitere Ankün
 
 Die Zahlungsverpflichtung der [[organization|Schnell Immobilien GmbH]] ergibt sich aus dem Mietvertrag und den Bestimmungen des [[legal_norm|ABGB]]. Die Kaution ist nach dem Vertrag innerhalb von drei Monaten nach Auszug zurückzuzahlen; diese Frist ist abgelaufen.
 
-Ihre Rückmeldung erbitten wir schriftlich an die oben angeführte Adresse. Für Rückfragen steht unsere Kanzlei unter der Telefonnummer [[phone_number|+43-2236-4472578]] zur Verfügung. Wir bitten, eine Kopie des Übergabeprotokolls, das Sie vermutlich in Ihren Unterlagen haben, bis zum selben Datum zu übermitteln, damit wir die Angaben abgleichen können.
+Ihre Rückmeldung erbitten wir schriftlich an die oben angeführte Adresse, und zwar bis spätestens zum genannten Stichtag. Für Rückfragen steht unsere Kanzlei unter der Telefonnummer [[phone_number|+43-2236-4472578]] zur Verfügung. Wir bitten, eine Kopie des Übergabeprotokolls, das Sie vermutlich in Ihren Unterlagen haben, bis zum selben Datum zu übermitteln, damit wir die Angaben abgleichen können.
 
 Wir ersuchen Sie außerdem, die Zinsberechnung zu prüfen und allfällige Abweichungen binnen der genannten Frist schriftlich zu begründen. Sollte eine Einigung zustande kommen, bieten wir an, eine Vergleichssumme schriftlich zu vereinbaren, die die Kosten einer Klage vermeidet.
 

@@ -52,7 +52,7 @@ IV. Mietzins
 2. Der Mietzins ist jeweils am ersten Werktag eines Monats im Voraus auf das Konto der Vermieterin bei der Bank zu überweisen. Die Kontoverbindung lautet:
 IBAN: [[bank_account|AT95 2257 7534 2507 3727]]
 
-3. Der Mietzins wird jährlich mit dem Verbraucherpreisindex 2020 wertgesichert. Die Anpassung erfolgt jeweils zum [[date|1. Februar]] eines Jahres.
+3. Der Mietzins wird jährlich mit dem Verbraucherpreisindex 2020 wertgesichert. Die Anpassung erfolgt jeweils zum 1. Februar eines Jahres.
 
 V. Kaution
 
@@ -64,15 +64,23 @@ VI. Erhaltung und Umbauten
 
 2. Die Vermieterin hat die Außenfassade, das Dach und die gemeinsamen Leitungen auf eigene Kosten instand zu halten. Mängel sind der Vermieterin unverzüglich schriftlich anzuzeigen.
 
+VI a. Betriebskosten und Parkflächen
+
+1. Die Betriebskosten für Wasser, Müllabfuhr, Hausreinigung, Versicherung und Lift sind in der Pauschale enthalten. Strom für das Geschäftslokal wird direkt mit dem Versorger abgerechnet. Die Mieterin hat einen eigenen Zähler auf ihren Namen anzumelden.
+
+2. Die Mieterin darf den Hof zum Be- und Entladen nutzen. Parkplätze sind nicht Bestandteil dieses Vertrags. Die Mieterin hat die Zufahrt zum Hof jederzeit frei zu halten, insbesondere für Feuerwehr und Rettung.
+
+3. Werbeanlagen an der Fassade bedürfen der Zustimmung der Vermieterin und der Bewilligung der Gemeinde. Die Kosten einer allfälligen Entfernung trägt die Mieterin.
+
 VII. Schlussbestimmungen
 
 1. Nebenabreden bestehen nicht. Änderungen dieses Vertrags bedürfen der Schriftform.
 
-2. Die Vertragsparteien unterwerfen sich für Streitigkeiten aus diesem Vertrag dem sachlich zuständigen Gericht im Sprengel des [[court|Bezirksgerichtes Zwettl]].
+2. Die Vertragsparteien unterwerfen sich für Streitigkeiten aus diesem Vertrag dem sachlich zuständigen Gericht im Sprengel des [[court|Bezirksgericht Zwettl]].
 
 3. Dieser Vertrag wird in zwei gleichlautenden Ausfertigungen errichtet.
 
-Wolkersdorf im Weinviertel, am [[date|14. Jänner 2025]]
+[[address|2120 Wolkersdorf im Weinviertel]], am [[date|14. Jänner 2025]]
 
 Für die Vermieterin:
 [[person|Mag. Dr. Hiltraut Fiegl]]

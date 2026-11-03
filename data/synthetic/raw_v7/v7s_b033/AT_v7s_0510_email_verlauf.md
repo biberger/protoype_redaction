@@ -73,7 +73,7 @@ Betreff: WG: AW: AW: [[organization|Zorn GmbH]] – Kl.-Nr. [[other_identifier|6
 
 Sehr geehrte Frau Doktor,
 
-anbei die Zahlungsaufforderung. Die Zahlung auf das Konto IBAN [[bank_account|AT46 7719 2043 3848 3870]] ist bis zum [[date|5. Mai 2026]] vorgesehen.
+anbei die Zahlungsaufforderung. Die Zahlung auf das Konto IBAN [[bank_account|AT46 7719 2043 3848 3870]] ist bis zum [[date|5. Mai 2026]] vorgesehen. Sollte der Betrag bis dahin nicht eingehen, wird die Zahlungsaufforderung mit einer Mahngebühr von EUR 25,00 versehen. Bitte leiten Sie die Aufforderung auch an Frau [[person|Fessl]] weiter, damit sie die Zahlungsfrist kennt.
 
 Mit freundlichen Grüßen
 [[person|Zarfija Cakić]]

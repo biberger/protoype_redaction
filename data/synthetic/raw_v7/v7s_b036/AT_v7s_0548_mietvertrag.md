@@ -55,6 +55,30 @@ VI. Hausordnung und Pflichten
 
 Der Mieter verpflichtet sich zur Einhaltung der Hausordnung und zur Rücksichtnahme auf die übrigen Bewohner. Die Haltung von Haustieren bedarf der schriftlichen Zustimmung der Vermieterin.
 
+VII. Übergabe, Zustand und Instandhaltung
+
+1. Die Wohnung wird dem Mieter in dem Zustand übergeben, in dem sie sich bei Vertragsabschluss befindet. Der Zustand ist im beiliegenden Übergabeprotokoll festgehalten, das die Vermieterin durch [[person|Natalie Stössel]] und der Mieter gemeinsam unterfertigt haben. Die Wohnungsschlüssel wurden in dreifacher Ausfertigung übergeben.
+
+2. Der Mieter hat die Wohnung pfleglich zu behandeln, Lüftungs- und Heizpflichten einzuhalten und Schäden unverzüglich zu melden. Bei Frostgefahr ist für ausreichende Beheizung zu sorgen, damit keine Leitungsschäden entstehen.
+
+3. Die Vermieterin ist berechtigt, die Wohnung nach vorheriger Ankündigung von mindestens acht Werktagen zu betreten, sofern dies zur Überprüfung der Heizungsanlage oder zur Durchführung notwendiger Arbeiten erforderlich ist.
+
+4. Bauliche Veränderungen, insbesondere der Einbau von Trennwänden oder die Änderung der Sanitärinstallation, bedürfen der vorherigen schriftlichen Zustimmung der Vermieterin.
+
+5. Die Heizungsanlage des Hauses wird zentral betrieben. Die Heizkosten werden nach dem Verbrauch der Wohnung abgerechnet; die Vorauszahlung wird jährlich angepasst.
+
+VIII. Rückgabe der Wohnung
+
+Der Mieter ist bei Beendigung des Mietverhältnisses verpflichtet, die Wohnung geräumt und in ordnungsgemäßem Zustand zurückzugeben. Die Schlüssel sind vollständig zu übergeben. Ein gemeinsamer Rückgabetermin ist mindestens zwei Wochen vorher zu vereinbaren. Über die Rückgabe ist ein Protokoll zu erstellen, das beide Teile unterfertigen.
+
+Die Kaution wird nach Rückgabe der Wohnung innerhalb von vier Wochen abgerechnet. Sollten Schäden festgestellt werden, die über die gewöhnliche Abnutzung hinausgehen, behält sich die Vermieterin die Aufrechnung mit den entsprechenden Kosten vor. Die Vermieterin hat die Belege für die Schadensbehebung dem Mieter zu übermitteln.
+
+IX. Datenschutz und Vollmachten
+
+Die personenbezogenen Daten des Mieters werden von der [[organization|Lux]] ausschließlich zur Vertragsabwicklung und zur Erfüllung der gesetzlichen Pflichten verarbeitet. Der Mieter erteilt seine Zustimmung zur Übermittlung der Daten an die Hausverwaltung und an die Bank, soweit dies für die Zahlung der Miete erforderlich ist.
+
+Der Mieter bevollmächtigt die Vermieterin nicht, Erklärungen für ihn abzugeben. Vollmachten für die Hausverwaltung sind gesondert zu erteilen und jederzeit widerruflich.
+
 VII. Schlussbestimmungen
 
 1. Änderungen und Ergänzungen dieses Vertrags bedürfen der Schriftform. Mündliche Nebenabreden bestehen nicht.

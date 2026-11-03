@@ -32,7 +32,7 @@ Die Kammeranwältin hat die Anzeige am [[date|18. Oktober 2025]] eingebracht. De
 
 Die Kanzlei des Beschuldigten ist dem Vernehmen nach in [[location|St. Veit an der Glan]] angesiedelt. Die zuständige Kammer ist die [[organization|TRAK]], die die Anzeige an den Disziplinarrat weitergeleitet hat.
 
-Die Kammeranwältin hat in der Verhandlung darauf hingewiesen, dass die Kammer den Beschuldigten bereits im Jahr 2024 zu einer Belehrung über die Führung von Treuhandbüchern aufgefordert hatte. Das Schreiben der Kammer blieb nach Aktenlage unbeantwortet, bis die Anzeige erstattet wurde.
+Die Kammeranwältin hat in der Verhandlung darauf hingewiesen, dass die Kammer den Beschuldigten bereits im Jahr 2024 zu einer Belehrung über die Führung von Treuhandbüchern aufgefordert hatte. Das Schreiben der Kammer blieb nach Aktenlage unbeantwortet, bis die Anzeige erstattet wurde. Der Beschuldigte hat dies damit erklärt, dass er das Schreiben übersehen habe.
 
 **II. Feststellungen**
 

@@ -66,7 +66,7 @@ Die Mieter haben die Wohnung pfleglich zu behandeln, Schäden unverzüglich zu m
 
 (2) Änderungen dieses Vertrages bedürfen der Schriftform.
 
-(3) Mit diesem Vertrag ist die Hausordnung vereinbart, die den Mietern übergeben wurde.
+(3) Mit diesem Vertrag ist die Hausordnung vereinbart, die den Mietern übergeben wurde und die Bestandteil dieses Vertrages ist.
 
 **10. Übergabe und Schlüssel**
 
@@ -108,7 +108,7 @@ Die Mieter teilen dem Vermieter jede Änderung der Anschrift, des Familienstande
 
 (2) Für Streitigkeiten aus diesem Vertrag ist das Gericht am Ort der Liegenschaft zuständig. Mitteilungen gelten an der zuletzt bekanntgegebenen Anschrift als zugestellt.
 
-(3) Die Mieter bestätigen, dass sie den Vertrag gelesen und die Hausordnung erhalten haben. Eine Haftung des Vermieters für Einrichtungsgegenstände, die die Mieter eingebracht haben, besteht nicht.
+(3) Die Mieter bestätigen, dass sie den Vertrag gelesen und die Hausordnung erhalten haben. Eine Haftung des Vermieters für Einrichtungsgegenstände, die die Mieter eingebracht haben, besteht nicht, auch nicht bei Schäden durch Leitungswasser aus dem Stockwerk darüber.
 
 Ausgefertigt in drei Gleichschriften
 
