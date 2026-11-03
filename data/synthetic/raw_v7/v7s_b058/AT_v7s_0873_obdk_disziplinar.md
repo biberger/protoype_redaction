@@ -53,6 +53,14 @@ Die Abrechnung an die [[organization|Schneider Handels]] wurde am [[date|9. Janu
 
 Der Geschäftsführer der [[organization|Schneider Handels]] wurde am [[date|3. März 2026]] als Zeuge vernommen. Er bestätigte den Erhalt der Restzahlung und gab an, dass eine mündliche Vereinbarung über die Rückzahlung nicht bestanden habe, sondern lediglich eine Verständigung über die Reihenfolge der Zahlungen.
 
+Die Kammeranwältin [[person|Papanek]] hat in ihrer Stellungnahme vom [[date|2. März 2026]] die Anklage um den Vorwurf ergänzt, die Beschuldigte habe die Abrechnung nicht fristgerecht an den Klienten übermittelt. Dieser Vorwurf stützt sich auf das Schreiben der [[organization|Schneider Handels]] vom [[date|20. Jänner 2026]], in dem die Gesellschaft die Abrechnung urgierte.
+
+Der Senat hat im Verfahren ferner den Kontoauszug des Jahres 2025 für das Treuhandkonto eingesehen. Darin finden sich neben den verfahrensgegenständlichen Buchungen weitere Zahlungseingänge, die ordnungsgemäß verbucht wurden. Dies spricht dafür, dass die Beschuldigte über ein funktionierendes Buchungssystem verfügte und die Fehler auf die Betreuung dieser einen Mandantschaft beschränkt waren.
+
+Die Beschuldigte hat in der mündlichen Verhandlung ausgeführt, sie habe den Restbetrag im Dezember 2025 zurückbehalten, weil eine Gegenforderung der Gesellschaft im Raum gestanden sei. Diese Gegenforderung wurde weder beziffert noch rechtlich geltend gemacht. Der Senat sieht darin keine Grundlage für die Verwendung der Treuhandmittel.
+
+Der Senat hat seine Entscheidung in der Sitzung vom [[date|22. Juli 2026]] einstimmig getroffen; eine abweichende Meinung wurde nicht protokolliert.
+
 **4. Rechtliche Beurteilung**
 
 Nach [[legal_norm|§ 11 Abs 1 RAO]] ist der Rechtsanwalt verpflichtet, Treuhandgelder getrennt von eigenen Mitteln zu verwalten und sie nach Erledigung des Auftrags unverzüglich auszufolgen. Die Beschuldigte hat die Gelder der [[organization|Schneider Handels]] über einen Zeitraum von mehr als zwei Monaten nach Erfüllung der Zahlungsverpflichtung einbehalten.

@@ -61,6 +61,10 @@ Die beklagte Partei erstattet ihre Klagebeantwortung wie folgt:
 
 12. Die Klägerin hat die Haftungsrüge verspätet erhoben. Der Anspruch ist daher, soweit er auf die Mängel gestützt wird, verjährt, [[legal_norm|§ 1497 ABGB]].
 
+13. Die Widerklage ist auch deshalb begründet, weil die Ersatzvornahme nach dem Kostenvoranschlag der Firma [[organization|Stadler Bauspenglerei]] vom [[date|03.11.2025]] erforderlich war. Die Kosten betragen laut Rechnung EUR 4.150,--; der Rest der Widerklage betrifft Mehrleistungen in Höhe von EUR 2.050,--.
+
+14. Die Klägerin hat den Kostenvoranschlag nicht bestritten, sondern lediglich die Erforderlichkeit angezweifelt. Die Erforderlichkeit ergibt sich aus dem Befund des Sachverständigen [[person|Heinrich Lazarus]] vom [[date|20.11.2025]], der Feuchtigkeit im Sparrenbereich festgestellt hat. Die beklagte Partei hat die Kosten daher zu Recht eingefordert, [[legal_norm|§ 1332 ABGB]].
+
 **V. Anträge**
 
 Die beklagte Partei stellt die Anträge,

@@ -52,6 +52,14 @@ Der Zeuge [[person|Dieter Seeger]] erklärte in der Verhandlung, dass er über d
 
 Nach [[legal_norm|§ 11 Abs 1 RAO]] hat der Rechtsanwalt Treuhandgelder unverzüglich auszufolgen, sobald er zur Auszahlung berechtigt ist. Die Zahlung an den Notar ohne Vollmacht und die verspätete Auszahlung an den Klienten verletzen diese Pflicht. Die Verantwortung für die Kanzleiorganisation trifft den Beschuldigten als Rechtsanwalt persönlich.
 
+Der Beschuldigte hat in der Verhandlung eine Erklärung verlesen, in der er sein Bedauern über den Vorgang zum Ausdruck brachte. Er gab an, die Kanzlei nach der Trennung von seiner Mitarbeiterin im Herbst 2025 allein geführt und die Kontrolle der Treuhandbuchhaltung dadurch vernachlässigt zu haben.
+
+Der Senat hat die Akten des früheren Verfahrens vor der Kammer ergänzend beigezogen. Daraus ergibt sich, dass der Beschuldigte bereits im Jahr 2023 wegen einer verspäteten Abrechnung eine Ermahnung erhalten hatte. Diese Vormerkung wurde bei der Strafbemessung als erschwerend berücksichtigt.
+
+Der Klient [[person|Seeger]] hat am [[date|14. Juli 2026]] erklärt, auf eine Entschädigung zu verzichten, sofern der Beschuldigte die Verfahrenskosten trägt. Dieser Vorschlag wurde vom Senat nicht berücksichtigt, da ein Verzicht des Klienten die disziplinäre Verantwortung nicht berührt.
+
+Der Senat hat die Geldbuße nach den wirtschaftlichen Verhältnissen des Beschuldigten bemessen, die dieser mit einer Einkommensbestätigung für das Jahr 2025 belegte. Die Strafe darf nicht den Betrag der verwahrten Gelder erreichen, muss aber in einem angemessenen Verhältnis zum Verschulden stehen.
+
 Die Verfahrenskosten werden mit 1.140,00 Euro bemessen und sind binnen vier Wochen ab Rechtskraft zu entrichten. Der Beschuldigte wurde über die Möglichkeit der Berufung an die [[court|OBDK]] belehrt.
 
 Als mildernd ist zu werten, dass der Beschuldigte die Abrechnung nachgeholt hat und sich zeitweise bemühte, die Ansprüche zu erfüllen. Erschwerend wirkt die lange Dauer der Nichtabrechnung. Der Senat hat daher eine Geldbuße festgesetzt, die dem Verschulden angemessen ist.

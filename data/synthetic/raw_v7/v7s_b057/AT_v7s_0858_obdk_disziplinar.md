@@ -95,9 +95,11 @@ Der Senat weist darauf hin, dass ein Anderkonto ausschließlich für Gelder best
 
 VI. Vorläufige Maßnahmen und Vergleichsversuch
 
-Die Rechtsanwaltskammer Wien hat dem Beschuldigten im Verlauf des Verfahrens mit Schreiben vom [[date|19.03.2024]] nahegelegt, die Abrechnung der Erbsache innerhalb von vier Wochen vorzulegen und einen Ausgleich des Anderkontos herbeizuführen. Der Beschuldigte kam dieser Aufforderung nur teilweise nach. Am [[date|08.05.2024]] übermittelte er einen Kontoauszug, der eine Zahlung von EUR 2.900,00 an die Miterbin ausweist, die jedoch nicht aus den Mitteln des Anderkontos stammte.
+Die [[organization|Rechtsanwaltskammer Wien]] hat dem Beschuldigten im Verlauf des Verfahrens mit Schreiben vom [[date|19.03.2024]] nahegelegt, die Abrechnung der Erbsache innerhalb von vier Wochen vorzulegen und einen Ausgleich des Anderkontos herbeizuführen. Der Beschuldigte kam dieser Aufforderung nur teilweise nach. Am [[date|08.05.2024]] übermittelte er einen Kontoauszug, der eine Zahlung von EUR 2.900,00 an die Miterbin ausweist, die jedoch nicht aus den Mitteln des Anderkontos stammte.
 
 Ein Vergleichsversuch zwischen dem Beschuldigten und der Klientin [[person|Stadlmann]] wurde am [[date|17.06.2025]] vor dem Kammeranwalt unternommen. Die Klientin lehnte einen Vergleich ab, der die Rückzahlung von EUR 2.900,00 mit einem Verzicht auf die Honorarforderung verband. Sie bestand auf der vollständigen Abrechnung und der Rückführung aller Beträge, die ohne Auftrag entnommen wurden.
+
+Der Beschuldigte hat in seiner Stellungnahme zum Vergleichsangebot vorgebracht, dass er die Abrechnung bereits im Jahr 2024 erstellt habe, sie jedoch nicht an die Klientin übermittelt worden sei. Dieses Vorbringen blieb unbelegt, weil eine Versandbestätigung nicht vorgelegt wurde.
 
 Der Senat stellt fest, dass der Vergleichsversuch nicht zu einer Einigung geführt hat und die Beweisaufnahme daher fortzuführen war. Der Kammeranwalt hat die Kosten des Vergleichsverfahrens mit EUR 240,00 beziffert, die dem Beschuldigten nach dem Verfahrensausgang anzulasten sind. Die Beweisaufnahme wurde am [[date|17.06.2025]] durch die schriftliche Stellungnahme der Miterbin [[person|Seidl]] ergänzt, die die Vorgänge um die Zahlung vom [[date|05.10.2023]] bestätigte.
 

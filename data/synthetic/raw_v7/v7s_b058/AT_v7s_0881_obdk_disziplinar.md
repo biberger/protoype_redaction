@@ -48,6 +48,16 @@ Die Stellungnahme einer Sachverständigen zur Teilung des Gutachtens ist dem Akt
 
 Der Senat stützt die Feststellungen auf die Kontoauszüge, die Zeugenaussage des Klienten [[person|Al-Majzoub]] und die Akten der Kammer. Die [[organization|RAK Wien]] hat die Kontoauszüge am [[date|20. Juli 2026]] bestätigt. Die Verteidigung des Beschuldigten, der Betrag vom [[date|03.03.2026]] sei aufgrund einer mündlichen Vereinbarung mit dem Klienten umgebucht worden, ist nicht glaubhaft. Der Klient hat diese Vereinbarung ausdrücklich bestritten.
 
+Die Prüfung des Treuhandkontos durch die [[organization|RAK Wien]] hat ergeben, dass im Prüfzeitraum insgesamt sieben Auszahlungen ohne vorherige Abrechnung erfolgten. Bei vier davon hatte der Beschuldigte den Klienten vor der Auszahlung schriftlich informiert; in den übrigen drei Fällen fehlte eine solche Mitteilung vollständig. Der Prüfer hielt im Bericht fest, dass die Buchungsjournale nur unvollständig geführt und Zuordnungen nachträglich korrigiert worden waren.
+
+Die von der Kammer bestellte Wirtschaftsprüferin [[person|Renate Hollerweger]] bestätigte in ihrem Bericht die Zuordnungsfehler. Sie führte aus, dass die Kontoführung seit dem [[date|1. Jänner 2026]] nicht mehr den Vorgaben der Richtlinie entsprach.
+
+Der Beschuldigte hat in der Verhandlung eingeräumt, dass er die Kontrolle der Treuhandkonten während einer Karenz einer Kanzleikraft übertragen hatte, ohne eine Vertretungsregelung zu treffen. Der Senat sieht darin eine organisatorische Pflichtverletzung, die dem Beschuldigten als Kanzleiinhaber zuzurechnen ist.
+
+Der Mandant [[person|Al-Majzoub]] hat ergänzend mitgeteilt, dass er sich erst an die Kammer gewandt habe, nachdem seine Mahnungen unbeantwortet geblieben waren. Die Verzögerung habe einen Liquiditätsengpass seiner Firma verursacht, der nur durch einen Kredit der Hausbank überbrückt werden konnte.
+
+Der Senat hat die Stellungnahme der Wirtschaftsprüferin mit dem Vorbringen des Beschuldigten verglichen. Die Abweichungen betreffen ausschließlich den Zeitpunkt der Zuordnung, nicht aber die Höhe der Beträge. Der Senat folgt daher der Darstellung der Prüferin.
+
 Der Senat hält fest, dass die Angaben des Herrn [[person|Al-Majzoub]] durch die Kontoauszüge bestätigt werden.
 
 Der Kammeranwalt [[person|Tokcan]] hat in der Verhandlung ausgeführt, dass die Kanzlei seit Februar 2026 keine laufende Kontrolle der Treuhandkonten durchgeführt habe. Der Beschuldigte hat dies nicht bestritten. Der Senat hält fest, dass die Verantwortung für die Kontrolle beim Beschuldigten als Kanzleiinhaber liegt und durch den Hinweis auf personelle Engpässe nicht entfällt.
