@@ -30,13 +30,17 @@ Datum | Leistung | Betrag EUR
 [[date|03.03.2026]] | Besprechung mit [[person|Bruni Klose]], Durchsicht Mietvertrag, Akt [[other_identifier|509/20 PG]] | 600,00
 [[date|10.03.2026]] | Telefonat mit [[person|Ellis Ruthner]] wegen des Zahlungsrückstandes, Akt [[other_identifier|509/20 PG]] | 120,00
 [[date|17.03.2026]] | Klagebeantwortung an das [[court|BG Scheibbs]] für [[person|Bruni Klose]] | 1.440,00
+[[date|02.04.2026]] | Replik an das [[court|BG Scheibbs]] für [[person|Bruni Klose]], Akt [[other_identifier|509/20 PG]] | 720,00
 [[date|24.04.2026]] | Verhandlung vor dem [[court|BG Scheibbs]], Teilnahme [[person|Ellis Ruthner]] | 960,00
 [[date|26.04.2026]] | Fahrtkosten [[location|St. Pölten]] – [[location|Scheibbs]] (84 km à 0,42 EUR) | 35,28
+[[date|08.05.2026]] | Besprechung mit [[person|Ellis Ruthner]] über den Vergleichsvorschlag, Akt [[other_identifier|509/20 PG]] | 240,00
 
-Summe Honorar netto: 3.155,28 EUR
+Summe Honorar netto: 4.115,28 EUR
 davon Barauslagen: 35,28 EUR
-20 % USt: 631,06 EUR
-Gesamtbetrag: 3.786,34 EUR
+20 % USt: 823,06 EUR
+Gesamtbetrag: 4.938,34 EUR
+
+Der Vergleichsvorschlag der Gegenseite vom [[date|1. Mai 2026]] wurde nach Rücksprache mit Ihnen nicht angenommen. Nach dem Ergebnis der Tagsatzung vom [[date|24. April 2026]] ist das Verfahren derzeit ruhend gestellt; die Gegenseite hat sich zu unserem Schreiben vom [[date|8. Mai 2026]] bis heute nicht mehr geäußert. Wir werden Sie über jede weitere Veränderung umgehend informieren.
 
 Zahlung binnen 14 Tagen auf IBAN [[bank_account|AT70 6034 2861 6532 1154]] unter Angabe der Honorarnote Nr. 2026/0417.
 

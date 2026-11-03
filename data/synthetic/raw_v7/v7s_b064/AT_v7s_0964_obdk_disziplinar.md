@@ -4,7 +4,7 @@ jurisdiction: AT
 lang: de
 ---
 [[court|Disziplinarrat der Tiroler Rechtsanwaltskammer]]
-[[court|Disziplinarrat der Tiroler Rechtsanwaltskammer]] ist eine Einrichtung der [[organization|Tiroler Rechtsanwaltskammer]] ([[organization|TRAK]]).
+Die [[organization|Tiroler Rechtsanwaltskammer]] ([[organization|TRAK]]) ist Trägerin des Disziplinarrates.
 
 GZ [[case_number|D 4/2026]]
 Ihr Zeichen: [[other_identifier|E-ESchönecker/Walcher]]
@@ -57,17 +57,25 @@ Beweiswürdigung
 
 7. Der Gesamtbetrag der nicht ordnungsgemäß dokumentierten Bewegungen beläuft sich auf EUR 8.400,00. Das Restguthaben von EUR 2.150,00 ist bis zur Entscheidung nicht ausbezahlt worden.
 
+Weitere Beweisergebnisse
+
+8. Die Beschwerdeführerin hat ihr Schreiben vom [[date|10.04.2025]] an die Beschuldigte per E-Mail und zusätzlich per Post übermittelt. Die Beschuldigte hat darauf am [[date|14.04.2025]] geantwortet und mitgeteilt, das Restguthaben werde nach Abschluss der Prüfung überwiesen. Eine Überweisung erfolgte in der Folge nicht. Die Schreiben sind im Akt enthalten und werden vom Senat als echt beurteilt.
+
+9. Der Zeuge [[person|Gunther Prantl]] hat ausgesagt, er habe der Beschuldigten im Februar 2025 einen Vorschuss für ein Sachverständigengutachten überwiesen. Das Gutachten sei nie erstellt worden, und er habe den Vorschuss nicht zurückerhalten. Seine Angaben decken sich mit der Buchung vom [[date|11.02.2025]] und mit dem Kontoauszug.
+
+10. Der Kammeranwalt hat in der Verhandlung die Mitarbeiterin der Kanzlei als Zeugin beantragt. Der Senat hat den Antrag abgelehnt, weil die Mitarbeiterin nach eigenen Angaben nicht an der Verwaltung des Treuhandkontos beteiligt war und zu den Buchungen keine eigene Wahrnehmung hat.
+
 Rechtliche Beurteilung
 
-8. Nach [[legal_norm|§ 43a Abs 4 RAO]] hat der Rechtsanwalt Klientengelder getrennt von eigenen Mitteln zu verwahren. Die Verwahrung hat sich nach den Richtlinien für die Berufsausübung zu richten, die für Treuhandkonten eine laufende Aufzeichnung und die Trennung nach Klienten verlangen.
+11. Nach [[legal_norm|§ 43a Abs 4 RAO]] hat der Rechtsanwalt Klientengelder getrennt von eigenen Mitteln zu verwahren. Die Verwahrung hat sich nach den Richtlinien für die Berufsausübung zu richten, die für Treuhandkonten eine laufende Aufzeichnung und die Trennung nach Klienten verlangen.
 
-9. Die Pflichtverletzung ist schwerwiegend, weil die Beschwerdeführerin über einen Zeitraum von mehr als zwei Monaten keinen Zugriff auf ihr Geld hatte. Zugunsten der Beschuldigten spricht die bisherige disziplinäre Unbescholtenheit und dass sie das Restguthaben nach Zustellung der Anklage an die Beschwerdeführerin überwiesen hat.
+12. Die Pflichtverletzung ist schwerwiegend, weil die Beschwerdeführerin über einen Zeitraum von mehr als zwei Monaten keinen Zugriff auf ihr Geld hatte. Zugunsten der Beschuldigten spricht die bisherige disziplinäre Unbescholtenheit und dass sie das Restguthaben nach Zustellung der Anklage an die Beschwerdeführerin überwiesen hat.
 
-10. Die Geldbuße von EUR 3.500,00 ist nach diesen Umständen angemessen. Sie liegt unter der Obergrenze der Disziplinarstrafen, berücksichtigt aber, dass die Beschuldigte die Pflicht zur getrennten Verwahrung über mehrere Monate nicht erfüllt hat.
+13. Die Geldbuße von EUR 3.500,00 ist nach diesen Umständen angemessen. Sie liegt unter der Obergrenze der Disziplinarstrafen, berücksichtigt aber, dass die Beschuldigte die Pflicht zur getrennten Verwahrung über mehrere Monate nicht erfüllt hat.
 
-11. Die Kostenentscheidung gründet sich auf [[legal_norm|§ 47 RAO]]. Die Kosten der Zeugenvernehmung werden der Beschuldigten zur Gänze auferlegt, weil die Beweisaufnahme durch ihr Bestreiten notwendig geworden ist.
+14. Die Kostenentscheidung gründet sich auf [[legal_norm|§ 47 RAO]]. Die Kosten der Zeugenvernehmung werden der Beschuldigten zur Gänze auferlegt, weil die Beweisaufnahme durch ihr Bestreiten notwendig geworden ist.
 
-12. Gegen dieses Erkenntnis steht den Parteien innerhalb von vier Wochen nach der Zustellung die Berufung an die [[organization|TRAK]] offen. Die Zustellung an die Beschuldigte erfolgt an ihre Kanzleiadresse.
+15. Gegen dieses Erkenntnis steht den Parteien innerhalb von vier Wochen nach der Zustellung die Berufung an die [[organization|TRAK]] offen. Die Zustellung an die Beschuldigte erfolgt an ihre Kanzleiadresse.
 
 Für die Richtigkeit der Ausfertigung:
 

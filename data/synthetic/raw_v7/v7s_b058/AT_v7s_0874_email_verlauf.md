@@ -75,7 +75,9 @@ Betreff: Ihr Schreiben vom [[date|28. August 2026]]
 
 Sehr geehrte Frau [[person|Oswald]],
 
-ich habe Ihr Schreiben erhalten. Die Behauptung, dass ich für die Schäden am Nachbargebäude verantwortlich bin, weise ich zurück. Ich bin Staatsangehöriger von [[country|Deutschland]] und lebe seit dem Jahr 2019 in [[location|Graz]]. Eine Haftung besteht nach meiner Auffassung nicht, da die Ursache der Feuchtigkeit in der Bauweise des Gebäudes liegt. Ergänzend bitte ich um Prüfung, ob die Gewährleistungsfrist für die Bauarbeiten vom Frühjahr bereits abgelaufen ist; die Rechnung trägt das Datum [[date|14. März 2025]].
+ich habe Ihr Schreiben erhalten. Die Behauptung, dass ich für die Schäden am Nachbargebäude verantwortlich bin, weise ich zurück. Ich bin Staatsangehöriger von [[country|Deutschland]] und lebe seit dem Jahr 2019 in [[location|Graz]]. Eine Haftung besteht nach meiner Auffassung nicht, da die Ursache der Feuchtigkeit in der Bauweise des Gebäudes liegt. Die Schadensmeldung wegen der Feuchtigkeit an der Fassade habe ich bereits am [[date|2. September 2026]] an meine Versicherung weitergeleitet.
+
+Ergänzend bitte ich um Prüfung, ob die Gewährleistungsfrist für die Bauarbeiten vom Frühjahr bereits abgelaufen ist; die Rechnung trägt das Datum [[date|14. März 2025]].
 
 Die Schadensbehebung am Dach meines Hauses in [[location|Graz]] ist bereits im Jahr 2021 erfolgt, wie die Rechnungen belegen. Ein Zusammenhang mit den nun geltend gemachten Feuchteschäden besteht daher nicht.
 

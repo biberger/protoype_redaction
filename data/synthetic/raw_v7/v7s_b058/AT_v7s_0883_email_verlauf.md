@@ -95,6 +95,8 @@ Liebe Frau [[person|Cartellieri]],
 
 die [[organization|Billa]] hat die Kaufvertragsentwürfe am [[date|15. Oktober 2026]] an die [[organization|LK Stmk]] übermittelt. Der Versand erfolgte per Post an [[address|8715 Sankt Lorenzen bei Knittelfeld]].
 
+Die Kaufvertragsurkunde enthält eine Rücktrittsklausel für den Fall, dass die Zustimmung der Behörde nicht bis zum [[date|31. Dezember 2026]] vorliegt. Wir bitten um Beachtung dieser Frist.
+
 Die Kaufpreiszahlung wurde im Übrigen auf das Treuhandkonto der Rechtsanwälte überwiesen; ein entsprechender Nachweis wird der Kammer vorgelegt. Die Grunderwerbsteuer wurde ebenfalls fristgerecht angezeigt.
 
 Frau [[person|Wind]] hat die Vollmacht bereits am [[date|21. Oktober 2026]] an das Notariat weitergeleitet; dort ist jedoch noch keine Bestätigung eingegangen.

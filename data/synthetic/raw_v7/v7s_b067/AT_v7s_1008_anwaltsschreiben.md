@@ -32,7 +32,7 @@ Die im Abnahmeprotokoll festgehaltenen Mängel an den Fenstern im Obergeschoß u
 
 Wir fordern Sie auf, die Mängel binnen 14 Tagen ab Zustellung dieses Schreibens zu beheben und einen Termin für die Verbesserung zu nennen. Andernfalls werden wir Klage beim [[court|Landesgericht für Zivilrechtssachen Wien]] einbringen. Nach unserer Auffassung ist das [[court|LG für ZRS Wien]] für die Streitigkeit sachlich und örtlich zuständig.
 
-Vorsorglich weisen wir darauf hin, dass bereits geleistete Vorauszahlungen auf das Konto IBAN [[bank_account|AT75 7831 9184 4241 7490]] zurückzuzahlen sind, soweit die Verbesserung nicht bis zum genannten Termin erfolgt.
+Der Mängelschaden beläuft sich nach vorläufiger Schätzung auf EUR 9.800,00 und wird im Verfahren durch ein Sachverständigengutachten konkretisiert. Vorsorglich weisen wir darauf hin, dass bereits geleistete Vorauszahlungen auf das Konto IBAN [[bank_account|AT75 7831 9184 4241 7490]] zurückzuzahlen sind, soweit die Verbesserung nicht bis zum genannten Termin erfolgt.
 
 Wir ersuchen um schriftliche Stellungnahme.
 

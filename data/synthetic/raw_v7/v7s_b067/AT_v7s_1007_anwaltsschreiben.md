@@ -30,6 +30,10 @@ Beteiligte laut Vertragsübersicht: [[person|Zech Livio]] (Geschäftsführung de
 
 Unser Mandant hat die Hallenerrichtung in Pram vertragsgemäß ausgeführt. Die Schlussrechnung vom [[date|30. Juni 2026]] über EUR 48.300,00 ist nach [[legal_norm|§ 1168 ABGB]] fällig. Die [[organization|Jaschke]] hat bis dato weder die Rechnung beglichen noch die Mängelrüge vom [[date|12. Juli 2026]] inhaltlich beantwortet. Die von Ihnen behauptete Mangelhaftigkeit des Estrichs wurde durch die Abnahmeprotokolle nicht bestätigt.
 
+Bereits mit unserem Schreiben vom [[date|14. August 2026]] haben wir Sie ersucht, die Abnahmeprotokolle vom [[date|29. Juni 2026]] anzuerkennen und einen Termin für die Restzahlung zu bestätigen. Ihr Antwortschreiben vom [[date|2. September 2026]] enthält lediglich den Hinweis auf eine angebliche Verzögerung bei der Baustellenübergabe. Diese Behauptung wird bestritten: Die Übergabe erfolgte am [[date|3. März 2026]] nach Terminvereinbarung, wie aus dem Bautagebuch hervorgeht. Die Verzögerung beim Gewerk Estrich lag im Verantwortungsbereich Ihres Unternehmens, nicht unseres Mandanten.
+
+Die Kostenaufstellung unseres Mandanten umfasst derzeit: Schlussrechnung EUR 48.300,00, Verzugszinsen seit [[date|1. August 2026]] EUR 412,00 und Mahnspesen EUR 60,00. Die Zinsen werden laufend neu berechnet.
+
 Wir weisen darauf hin, dass beim [[court|Bezirksgericht Ried im Innkreis]] ein Mahnverfahren anhängig ist. Das [[court|BG Ried im Innkreis]] hat den Zahlungsbefehl bereits zugestellt. Sollte bis zur Frist kein Einspruch erhoben werden, ist ein Exekutionsantrag vorbereitet.
 
 Wir fordern Sie daher auf, die offene Forderung binnen 14 Tagen auf das Treuhandkonto IBAN [[bank_account|AT08 7991 5432 9082 6123]] zu überweisen. Die Kosten des Verfahrens und die Zinsen gemäß [[legal_norm|§ 1333 ABGB]] werden in diesem Fall ebenfalls geltend gemacht. Ein Vergleich ist nur unter Anerkennung der vollen Werklohnforderung möglich.
