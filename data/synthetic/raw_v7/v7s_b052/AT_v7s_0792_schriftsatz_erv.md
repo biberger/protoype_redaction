@@ -89,7 +89,8 @@ Bestandteil der Schadensaufstellung.
 Die [[organization|ALV]] hat die Deckung zunächst mit Schreiben vom [[date|14.10.2025]] abgelehnt, weil die
 Beklagte die Obliegenheit zur Schadensmeldung nicht eingehalten haben soll. Diese Ablehnung ist nach Auffassung
 des Klägers unwirksam, weil die Meldung innerhalb der vereinbarten Frist erfolgt ist. Die Streitverkündung
-dient daher auch der Klärung dieser Frage.
+dient daher auch der Klärung dieser Frage. Die [[organization|ALV]] wurde über den bisherigen Verlauf bereits
+informell unterrichtet und hat um Übermittlung der Befunde ersucht.
 
 Der Kläger hat die Schadensposten nachvollziehbar belegt. Die Reparaturrechnung ist dieser Klage als Beilage
 angeschlossen; sie weist die Ersatzteile und die Arbeitszeit getrennt aus. Die Mietwagenkosten wurden für die
@@ -106,9 +107,31 @@ Der Kläger beantragt:
 3. die Beiziehung des Akts der [[organization|Polizeiinspektion Vöcklabruck]],
 4. die Einholung eines unfallchirurgischen Gutachtens.
 
+Der Kläger war zum Unfallzeitpunkt als Montagetechniker für ein Unternehmen tätig, das Anlagen in ganz Oberösterreich
+wartet. Er ist deshalb auf sein Fahrzeug angewiesen, um Kundentermine wahrzunehmen. Die Beklagte [[person|Windischbauer]]
+wusste dies, weil sie den Kläger am Unfallort nach der voraussichtlichen Dauer der Reparatur gefragt hatte. Die Ersatzbeschaffung eines Mietwagens
+war daher notwendig und zweckmäßig. Die Mietdauer entspricht der tatsächlichen Reparaturdauer, die von der Werkstatt
+mit elf Arbeitstagen bestätigt wurde. Ein Zuschlag für Eilbedarf ist nicht verrechnet. Die Rechnung des Mietwagenunternehmens weist einen Tagessatz
+von EUR 320,00 aus, der dem Vergleichsangebot vergleichbarer Anbieter in der Region entspricht.
+
+Der Kläger hat vor Einbringung der Klage versucht, den Schaden außergerichtlich zu regulieren. Mit Schreiben vom
+[[date|02.10.2025]] wurde der Beklagten [[person|Windischbauer]] ein Vergleichsvorschlag über EUR 9.800,00 unterbreitet.
+Die Beklagte hat diesen Vorschlag mit Schreiben vom [[date|14.10.2025]] ohne Gegenangebot abgelehnt. Die
+[[organization|ALV]] hat sich auf die Obliegenheitsverletzung berufen und keine Zahlung angeboten.
+
+Die Heilungskosten sind durch die Rechnungen des Krankenhauses belegt. Die Physiotherapie wurde an insgesamt
+vierzehn Terminen in Anspruch genommen; die Befunde sind dieser Klage in Kopie beigelegt. Der Kläger ist seit
+dem [[date|01.10.2025]] wieder arbeitsfähig, leidet jedoch nach den ärztlichen Angaben weiterhin an eingeschränkter
+Beweglichkeit des rechten Armes. Ein Feststellungsbegehren für künftige Schäden wird daher vorbehalten.
+
 Die Kosten des Verfahrens sind nach dem Streitwert zu bemessen. Der Kläger ersucht, die Beklagte und die
 Streitverkündete zur ungeteilten Hand zum Kostenersatz zu verpflichten. Die Kosten der Streitverkündung trägt die
 Streitverkündete, soweit sie dem Verfahren beitritt.
+
+Der Kläger behält sich vor, die Schadenssumme im Verfahren noch zu erweitern, sobald die Nachuntersuchung durch den
+Facharzt abgeschlossen ist. Eine Erweiterung des Klagebegehrens wird in diesem Fall durch einen gesonderten Schriftsatz
+angekündigt. Die Streitverkündung ist gemäß [[legal_norm|§ 21 ZPO]] zulässig, weil die Versicherung ein rechtliches
+Interesse am Ausgang des Verfahrens hat.
 
 Die Klage wird im ERV-Verfahren eingebracht; die Beilagen sind als PDF-Dateien angeschlossen und mit den Bezeichnungen
 ./A bis ./D versehen.

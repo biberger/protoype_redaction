@@ -50,6 +50,12 @@ Vertragsnummer [[other_identifier|KV-2022-64083]]
 
 Tel. [[phone_number|02622 512738 Durchwahl 79]]
 
+SACHVERHALT
+
+Die Klägerin hat die Wohnung im Jahr 2019 nach dem Tod ihrer Mutter übernommen. Die Beklagte war zu diesem Zeitpunkt bereits als Mieterin eingetragen und hat den Mietzins bis Mai 2026 regelmäßig bezahlt. Mit Schreiben der [[organization|EWG]] vom [[date|14. Juli 2026]] wurde die Kündigung formell zurückgenommen, weil die Zustellung an eine falsche Adresse erfolgt war.
+
+Die Klägerin hat die Beklagte mehrfach zur Herausgabe der Wohnung aufgefordert. Die Beklagte beruft sich auf ein mündliches Versprechen der Mutter der Klägerin, wonach ihr das Wohnrecht lebenslang zustehe. Ein solches Versprechen ist urkundlich nicht belegt und wird ausdrücklich bestritten.
+
 RECHTLICHE AUSFÜHRUNGEN
 
 1. Die klagende Partei stützt ihren Anspruch auf [[legal_norm|§ 365 ABGB]] und auf die Bestimmungen des [[legal_norm|MRG]], soweit diese auf die Wohnung anwendbar sind. Das Wohnrecht der beklagten Partei ist mit dem Ende des Bestandvertrages erloschen.
@@ -58,7 +64,9 @@ RECHTLICHE AUSFÜHRUNGEN
 
 3. Der Streitwert wurde nach dem Jahresmietzins mit EUR 4.800,00 bemessen. Die Klägerin beantragt, die beklagte Partei schuldig zu erkennen, die Wohnung binnen 14 Tagen geräumt zu übergeben.
 
-4. Die Klägerin stellt den Antrag, das Gericht möge dem Klagebegehren stattgeben und die Kosten dem Beklagten auferlegen.
+4. Die Verwirkung des Wohnrechts ergibt sich zudem aus dem Umstand, dass die Beklagte die Wohnung nach Ablauf des Bestandvertrages nicht verlassen hat. Die Beklagte hat sich auf eine Zustimmung der Klägerin nicht berufen können, weil eine solche nicht schriftlich erteilt wurde.
+
+5. Die Klägerin stellt den Antrag, das Gericht möge dem Klagebegehren stattgeben und die Kosten dem Beklagten auferlegen.
 
 [[location|Steyr]], am [[date|27.10.2026]]
 

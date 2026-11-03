@@ -31,7 +31,7 @@ Dieser Vertrag tritt an die Stelle des Mietvertrags mit der Vertragsnummer [[oth
 
 2. Die Liegenschaft ist im Grundbuch wie folgt eingetragen:
 
-[[land_register_id|Einlagezahl 2362]] / [[land_register_id|KG 49662 Dimbach]], [[land_register_id|Parz. 357/18]]
+Einlagezahl [[land_register_id|2362]] / [[land_register_id|KG 49662 Dimbach]], [[land_register_id|Parz. 357/18]]
 
 3. Die Wohnnutzfläche beträgt 74,6 m². Die Wohnung unterliegt dem Vollanwendungsbereich des [[legal_norm|Mietrechtsgesetzes]]; die Bestimmungen des [[legal_norm|MRG]] gelten daher zwingend.
 

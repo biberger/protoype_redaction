@@ -46,6 +46,7 @@ Auslagen (ohne USt): Grundbuchsabfragen EUR 84,00; Gerichtsgebühr EUR 150,00.
 
 Zahlungsbedingungen: 14 Tage netto. Bei Zahlungsverzug werden Verzugszinsen gemäß [[legal_norm|§ 1333 ABGB]] verrechnet.
 
+Wir bitten Sie, bei der Überweisung die Honorarnote und die Klienten-Nr. anzugeben, damit die Zahlung zugeordnet werden kann.
 Wir bitten um Überweisung des Gesamtbetrags binnen 14 Tagen auf das Konto [[bank_account|AT83 7838 4697 4284 7179]]
 unter Angabe der Honorarnote Nr. 2026/1187.
 

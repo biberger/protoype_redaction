@@ -49,6 +49,10 @@ Der Senat hat die Strafzumessung nach [[legal_norm|§ 45 Abs 2 RAO]] vorgenommen
 
 Eine Streichung aus der Liste der Rechtsanwälte war nicht erforderlich, weil die Rückzahlung der Gelder an die Klienten inzwischen vollständig erfolgt ist. Die Anwaltsinteressen sind durch die Verhängung der Geldbuße ausreichend gewahrt.
 
+Kosten
+
+Die Kosten des Verfahrens setzen sich aus der Pauschalgebühr von € 320,00 und den Zustellgebühren zusammen. Sie sind vom Beschuldigten binnen vier Wochen ab Rechtskraft zu entrichten. Der Beschuldigte hat die Zustellgebühren der Kammer zu ersetzen, soweit sie auf seine Adressänderung zurückgehen.
+
 Gegen dieses Erkenntnis ist die Berufung an die [[court|OBDK]] zulässig. Die Frist beträgt vier Wochen ab Zustellung.
 
 Für den Disziplinarrat:

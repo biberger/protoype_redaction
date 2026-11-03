@@ -69,6 +69,24 @@ Nach Abzug der Passiva von € 7.782,40 vom Aktivvermögen ergibt sich ein Reinn
 
 Herr [[person|Sigmund]] verzichtet auf die Übernahme des Wertpapierdepots zugunsten von Frau [[person|Kaltenbacher]]. Ein solcher Verzicht ist nach [[legal_norm|§ 550 ABGB]] iVm [[legal_norm|§ 799 ABGB]] möglich, sofern die Erbsquote unberührt bleibt.
 
+V a. Bestattung und Nachlassgebühren
+
+Die Bestattung des Erblassers erfolgte am [[date|16.04.2021]] auf dem Friedhof in [[location|Wels]] nach einer Aufbahrung im Krankenhaus. Die Rechnung des Bestattungsunternehmens über € 3.980,00 umfasst die Überführung, die Aufbahrung, den Sarg und die Grabstelle für zehn Jahre. Die Grabstelle ist nach den Angaben der Erben nicht gewidmet worden; ein Grabbesitzrecht ist daher nicht im Inventar zu führen.
+
+Die Gerichtsgebühren für die Verlassenschaftsabhandlung betragen nach dem [[legal_norm|GGG]] einen Pauschalbetrag, der aus dem Nachlass zu bestreiten ist. Die Notarhonorare sind nach dem Tarif zu verrechnen und werden erst nach Einantwortung fällig. Die Erben haben erklärt, dass sie die Gebühren gemeinsam und zu gleichen Teilen übernehmen, soweit der Nachlass nicht ausreicht.
+
+V b. Vorlage der Urkunden
+
+Folgende Urkunden wurden im Verfahren vorgelegt und dem Protokoll in Kopie beigelegt: die Sterbeurkunde des Erblassers, die Geburtsurkunde des Erblassers, die Geburtsurkunden der beiden Erbansprecher, die Heiratsurkunde des Erbansprechers [[person|Sigmund]], die Meldebestätigung des Erblassers vom [[date|5. April 2021]] sowie die Kontoauszüge der Bankverbindung für die Jahre 2019 bis 2021.
+
+Die Kontoauszüge zeigen, dass im Jahr 2020 mehrere Abbuchungen für die Pflege des Erblassers erfolgt sind. Diese Abbuchungen waren nach den Angaben der Erbin [[person|Kaltenbacher]] zur Deckung der Heimkosten bestimmt, die der Erblasser zeitweise getragen hat. Der Zusammenhang mit der Passiva wird im Inventar festgehalten.
+
+V c. Erbenbefragung und Ergänzung
+
+Bei der ergänzenden Befragung am [[date|25. Mai 2021]] hat die Erbin [[person|Kaltenbacher]] angegeben, dass der Erblasser in den letzten Lebensjahren keinen Kontakt zu weiteren Verwandten gehalten habe. Herr [[person|Sigmund]] hat dies bestätigt und ergänzt, dass der Erblasser ihm gegenüber einmal erwähnt habe, er wolle das Wohnhaus verkaufen. Ein Kaufvertrag oder eine Vormerkung liegt jedoch nicht vor.
+
+Die Erben haben zudem die Gewährleistungsansprüche aus dem Kauf des Kraftfahrzeuges geprüft. Das Fahrzeug wurde vom Erblasser im Jahr 2015 erworben; Gewährleistungsansprüche bestehen nach Ablauf der gesetzlichen Frist nicht mehr.
+
 VI. Rechtliche Belehrung
 
 Die Erben wurden darüber belehrt, dass die Erbschaft nach [[legal_norm|§ 802 ABGB]] mit der Einantwortung auf sie übergeht. Die Erbsantrittserklärung ist binnen der gesetzlichen Frist abzugeben, widrigenfalls die Erbschaft als unbedingt angenommen gilt. Die Belehrung wurde von den Erben zur Kenntnis genommen.

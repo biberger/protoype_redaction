@@ -28,7 +28,7 @@ I. Erben und Vermächtnisnehmer
 [[person|Adelinde
 Hradil]], geboren am [[date_of_birth|24. Juli 1987]],
 wohnhaft in [[address|4542 Nußbach]],
-zu einem Erbteil von 1/2. Die Erbin hat ihren Wohnsitz seit dem Jahr 2019 in Nußbach und war mit dem Erblasser in häuslicher Gemeinschaft verbunden.
+zu einem Erbteil von 1/2. Die Erbin hat ihren Wohnsitz seit dem Jahr 2019 in [[location|Nußbach]] und war mit dem Erblasser in häuslicher Gemeinschaft verbunden.
 
 2. Erbin nach dem Gesetz ist [[person|Lina Ruetz]], geb. [[date_of_birth|12.10.1940]], zu einem Erbteil von 1/3.
 
@@ -53,9 +53,15 @@ Die Verbindlichkeiten des Verstorbenen betragen EUR 7.815,20 (Darlehensrest, Bet
 
 IV. Nachlassinventar
 
-Der Notar hat das Nachlassinventar am [[date|28.09.2026]] errichtet. Die Erbin [[person|Ruetz]] hat dem Inventar nicht widersprochen. Die Schätzung der Liegenschaft erfolgte durch einen Sachverständigen, dessen Gutachten am [[date|14.08.2026]] vorgelegt wurde.
+Der Notar hat das Nachlassinventar am [[date|28.09.2026]] errichtet. Das Inventar umfasst auch Hausrat, Kleidung und Werkzeug aus dem Haushalt des Erblassers, deren Wert mit EUR 2.100,00 angesetzt wurde. Die Liegenschaft wurde nach den Angaben der Erbin [[person|Hradil]] zuletzt im Jahr 2024 renoviert; eine Rechnung über die Dacharbeiten ist dem Inventar beigelegt. Die Erbin [[person|Ruetz]] hat dem Inventar nicht widersprochen. Die Schätzung der Liegenschaft erfolgte durch einen Sachverständigen, dessen Gutachten am [[date|14.08.2026]] vorgelegt wurde.
 
-V. Ergebnis
+V. Vermächtnis und Pflichtteil
+
+Das Vermächtnis an [[person|Greiter Sacharja]] ist aus dem Nachlass zu erfüllen, sobald die Liegenschaft [[land_register_id|EZ 954]] veräußert oder ins Eigentum übertragen ist. Der Vermächtnisnehmer hat auf einen Pflichtteil verzichtet. Der Notar hat die Erben darauf hingewiesen, dass die Ansprüche des Vermächtnisnehmers vorrangig vor den Erbteilen zu befriedigen sind, soweit der Nachlass dafür ausreicht.
+
+Eine Pflichtteilsklage ist bisher nicht erhoben worden. Die Erbin [[person|Ruetz]] hat erklärt, sie werde ihre Ansprüche gegenüber dem Vermächtnisnehmer nicht geltend machen, solange die Liegenschaft nicht verwertet ist.
+
+VI. Ergebnis
 
 Die Verlassenschaft wird nach Berichtigung der Verbindlichkeiten und Einantwortung an die Erben und den Vermächtnisnehmer abgehandelt. Die Einantwortung ist nach [[legal_norm|§ 141 AußStrG]] beim [[court|Bezirksgericht Amstetten]] zu beantragen.
 

@@ -42,7 +42,7 @@ Die [[organization|RAK Ktn]] führte im Herbst 2025 eine Überprüfung des Treuh
 
 2. Beweiswürdigung
 
-Der Disziplinarrat stützt sich auf die Kontoauszüge, die Abrechnungen und die Stellungnahme der [[organization|RAK Ktn]]. Die Beschuldigte [[lawyer|Hundstorfer]] hat die Auszahlung vom [[date|18. März 2025]] nicht durch eine Weisung belegt. Die Aussage des Mandanten [[person|Wrba]] wurde als glaubhaft gewertet, weil sie sich mit dem Schriftverkehr deckt.
+Der Disziplinarrat stützt sich auf die Kontoauszüge, die Abrechnungen und die Stellungnahme der [[organization|RAK Ktn]]. Zusätzlich wurden die Eingangsbuchungen der Kanzlei herangezogen. Die Beschuldigte [[lawyer|Hundstorfer]] hat die Auszahlung vom [[date|18. März 2025]] nicht durch eine Weisung belegt. Die Aussage des Mandanten [[person|Wrba]] wurde als glaubhaft gewertet, weil sie sich mit dem Schriftverkehr deckt.
 
 Die Schriftführerin [[person|Fink]] hat die Angaben der Beteiligten protokolliert. Die Sitzung wurde einmal für eine halbe Stunde unterbrochen, damit die Beschuldigte [[lawyer|Hundstorfer]] Unterlagen aus ihrer Kanzlei holen konnte. Die vorgelegten Unterlagen waren jedoch unvollständig und bestätigten die Abrechnungslücke.
 

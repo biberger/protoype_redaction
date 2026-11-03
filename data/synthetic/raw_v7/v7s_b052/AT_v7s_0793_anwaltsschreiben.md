@@ -39,7 +39,12 @@ Position der Fahrzeuge fotografiert.
 
 Die Reparatur des Fahrzeugs ist noch nicht abgeschlossen, weil die Ersatzteile erst nach mehreren Wochen
 geliefert wurden. Die Mietwagenkosten für diesen Zeitraum belaufen sich auf EUR 1.240,00 und sind in der
-Schadensaufstellung gesondert ausgewiesen. Die Werkstatt hat die Kosten nachvollziehbar dargelegt.
+Schadensaufstellung gesondert ausgewiesen. Die Werkstatt hat die Kosten nachvollziehbar dargelegt. Ein Gutachten
+des Sachverständigen liegt bei; es bestätigt die Reparaturdauer von elf Arbeitstagen und den Wertverlust des Fahrzeugs
+nach der Reparatur in Höhe von EUR 600,00.
+
+Die Fotos des Unfallorts, die Herr [[person|Abdul-Halim Farid]] angefertigt hat, zeigen die Stellung beider Fahrzeuge
+und den Verlauf der Fahrspur. Wir legen Abzüge bei.
 
 Herr [[person|Varga]] ersucht zudem um Mitteilung, ob die [[organization|SIG]] die Versicherungsdeckung für den
 Lenker bestätigt. Eine Antwort auf diese Frage ist bisher ausgeblieben.

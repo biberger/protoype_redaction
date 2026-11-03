@@ -154,6 +154,11 @@ sieben Monaten. Die Geldbuße berücksichtigt die wirtschaftlichen Verhältnisse
 Gegen diese Entscheidung ist die Berufung an die [[court|OBDK]] zulässig. Die Berufung ist binnen zwei Wochen
 nach Zustellung beim Disziplinarrat einzubringen.
 
+Die Kosten des Verfahrens umfassen die Gebühren der Zeugen, die Übersetzung der schriftlichen Mitteilung des Mandanten
+und die Kosten für die Vorlage der Kontoauszüge durch die Bank. Die Beschuldigte hat die Kosten im Hinblick auf ihre
+Mitwirkung in der Verhandlung anteilig zu tragen, soweit der Senat die Angaben der Zeugen zur Verbuchung bestätigt. Sie wurden nach den Bestimmungen der Kammer
+festgesetzt und sind binnen vier Wochen nach Zustellung der Entscheidung zu entrichten.
+
 Für den Disziplinarrat:
 
 [[person|Dr. Griet Steen]]

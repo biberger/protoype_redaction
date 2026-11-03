@@ -43,7 +43,7 @@ Wir ersuchen die [[organization|SWG]], die Entwässerung zu prüfen und den Befu
 Mit freundlichen Grüßen
 [[person|Mirijam Ostermann]]
 Geschäftsführung
-[[organization|Haring Immobilien GmbH]]
+[[organization|Haring Immobilien GmbH]], [[company_register_number|FN 132793i]], UID: [[tax_id|ATU93027876]]
 
 > Von: [[person|Leopold Kotek]]
 > Gesendet: Montag, [[date|21. September 2026]] 07:55
@@ -85,7 +85,7 @@ Die Eigentümerin wird die Abdichtung der Außenwand nach Abschluss dieser Maßn
 
 Mit freundlichen Grüßen
 
-Rechtsanwälte OG
+R e c h t s a n w ä l t e   O G
 [[organization|Z E H E T G R U B E R ,   K E R B E R ,   R E I T H O F E R ,   V O N   S T A R H E M B E R G]]
 [[address|Straßlandweg 56, 2474 Gattendorf]]
 T: [[phone_number|+43 2252 551 56 87-9]]  F: [[phone_number|02252 725628 Durchwahl 57]]

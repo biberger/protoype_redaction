@@ -7,20 +7,20 @@ lang: de
 [[address|4083 Haibach ob der Donau]]
 Tel. [[phone_number|07282 2210 DW 14]]
 
-UNFALLANZEIGE / ANZEIGE NACH § 4 STVO
+UNFALLANZEIGE / ANZEIGE NACH [[legal_norm|§ 4 StVO]]
 
 GZ: [[case_number|B-2026/3317]]
 Anzeige erstattet am [[date|17.10.2026]], 07:42 Uhr
 Ort des Ereignisses: B 130, Gemeindegebiet [[location|St. Margarethen im Burgenland]]
-Einsatzleiter: Bezirksinspektor Ferdinand Kaspar, DNr. [[other_identifier|P-4471]]
-Einschreiter: Revierinspektorin Mira Halbritter, DNr. [[other_identifier|P-5109]]
+Einsatzleiter: Bezirksinspektor [[person|Ferdinand Kaspar]], DNr. [[other_identifier|P-4471]]
+Einschreiterin: Revierinspektorin [[person|Mira Halbritter]], DNr. [[other_identifier|P-5109]]
 
 BETEILIGTE PERSONEN UND FAHRZEUGE
 
 NAME | GEBURTSDATUM | STAATSANGEHÖRIGKEIT | DOKUMENT | KFZ-KENNZEICHEN
-PAAUW WENDY | [[date_of_birth|25.09.1951]] | Niederlande | Personalausweis [[id_document_number|A1747766]] | [[license_plate|LE 12 B]]
-BOSKOVSKY EMERIGO | unbekannt | [[country|Serbien]] | Reisepass [[id_document_number|U3451280]] | Halter: Leasingfirma
-KNOBLOCH ROUVEN MMAG. | *[[date_of_birth|21.06.1958]] | Österreich | Führerschein 12-1184 | [[license_plate|LE 12 B]]
+[[person|PAAUW WENDY]] | [[date_of_birth|25.09.1951]] | [[country|Niederlande]] | Personalausweis [[id_document_number|A1747766]] | [[license_plate|LE 12 B]]
+[[person|BOSKOVSKY EMERIGO]] | unbekannt | [[country|Serbien]] | Reisepass [[id_document_number|U3451280]] | Halter: Leasingfirma
+[[person|ROUVEN MMAG. KNOBLOCH]] | *[[date_of_birth|1958-06-21]] | [[country|Österreich]] | Führerschein [[id_document_number|76331256]] | [[license_plate|LE 12 B]]
 
 Sachverhalt:
 
@@ -32,7 +32,7 @@ Die Fahrzeuge wurden durch den Aufprall im Frontbereich beschädigt. Verletzte P
 
 Feststellungen der Einsatzkräfte:
 
-Frau [[person|Paauw]] gab an, dass sie den Blinker gesetzt habe und das Fahrzeug von rechts gekommen sei. Die Angaben des Herrn [[person|Boskovsky]] widersprechen diesen Aussagen. Kaspar stellte am Unfallort fest, dass die Bremsspuren beider Fahrzeuge nur kurz waren und die Sichtverhältnisse eingeschränkt waren. Halbritter fertigte die Lichtbilder an, die dieser Anzeige beiliegen.
+Frau [[person|Paauw]] gab an, dass sie den Blinker gesetzt habe und das Fahrzeug von rechts gekommen sei. Die Angaben des Herrn [[person|Boskovsky]] widersprechen diesen Aussagen. [[person|Kaspar]] stellte am Unfallort fest, dass die Bremsspuren beider Fahrzeuge nur kurz waren und die Sichtverhältnisse eingeschränkt waren. [[person|Halbritter]] fertigte die Lichtbilder an, die dieser Anzeige beiliegen.
 
 Die Versicherung des Fahrzeuges des Herrn [[person|Boskovsky]], die [[organization|Alpen-Donau Versicherung AG]], wurde unter der Polizzennummer [[other_identifier|7712-0045-22]] verständigt. Das Fahrzeug der Frau [[person|Paauw]] ist über die gleiche Versicherung abgesichert, Polizze [[other_identifier|7712-0118-09]].
 
@@ -42,11 +42,11 @@ FIN [[other_identifier|EVYUWYH1GUUACAR49]] (Fahrzeug Boskovsky)
 
 Beweiswürdigung:
 
-Die Einsatzkräfte halten fest, dass beide Lenker den Unfall nicht vorsätzlich herbeigeführt haben. Nach der Aussage des Herrn [[person|Knobloch]], die durch den Zeugen Johann Ruckendorfer bestätigt wurde, ist der Vorrang der Fahrzeuge des Herrn [[person|Boskovsky]] nicht beachtet worden. Die Angaben des Zeugen sind nachvollziehbar, da er den Vorgang aus dem Schanigarten beobachtete.
+Die Einsatzkräfte halten fest, dass beide Lenker den Unfall nicht vorsätzlich herbeigeführt haben. Nach der Aussage des Herrn [[person|Knobloch]], die durch den Zeugen [[person|Johann Ruckendorfer]] bestätigt wurde, ist der Vorrang der Fahrzeuge des Herrn [[person|Boskovsky]] nicht beachtet worden. Die Angaben des Zeugen sind nachvollziehbar, da er den Vorgang aus dem Schanigarten beobachtete.
 
-Die Anzeige wird an die Bezirkshauptmannschaft Oberpullendorf weitergeleitet. Die Verwaltungsübertretung nach der StVO wird geprüft. Eine Strafverfügung ergeht gesondert.
+Die Anzeige wird an die [[organization|Bezirkshauptmannschaft Oberpullendorf]] weitergeleitet. Die Verwaltungsübertretung nach der [[legal_norm|StVO]] wird geprüft. Eine Strafverfügung ergeht gesondert.
 
-Halbritter, Mira, Revierinspektorin
-Kaspar, Ferdinand, Bezirksinspektor
+[[person|Halbritter]], Mira, Revierinspektorin
+[[person|Kaspar]], Ferdinand, Bezirksinspektor
 
 Für die Richtigkeit: [[person|Ferdinand Kaspar]]

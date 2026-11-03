@@ -15,13 +15,13 @@ Von: [[lawyer|Mag. Romeo Theuer]] <[[email|r.theuer@diwald.at]]>
 Gesendet: Montag, [[date|05.10.2026]] 09:14
 An: [[person|Holger Greber]] <[[email|h.greber@ettl-handels.example.at]]>
 Cc: [[person|Dipl.-Ing. Bettie Wisman]] <[[email|b.wisman@wisman-ing.example.at]]>
-Betreff: Mietrückstand Hietzing, Ihr Schreiben vom [[date|30.09.2026]]
+Betreff: Mietrückstand [[location|Hietzing]], Ihr Schreiben vom [[date|30.09.2026]]
 
 Sehr geehrter Herr [[person|Greber]],
 
 wie besprochen habe ich die Unterlagen der [[organization|Ettl Handels GmbH]], [[company_register_number|FN 414356y]], geprüft. Die Mieterin [[person|Ruperta Vojvodić]], GEB: [[date_of_birth|28. Juni 1978]], hat den Mietzins seit dem Frühjahr nicht mehr bezahlt. Die Zahlungsrückstände betragen laut Ihrer Aufstellung EUR 6.420,00.
 
-Frau [[person|Wisman]] hat das Gutachten zur Mängelbehebung im Keller bereits übermittelt. Bitte bestätigen Sie mir, ob die Kündigung bereits zugestellt wurde.
+Frau [[person|Wisman]] hat das Gutachten zur Mängelbehebung im Keller bereits übermittelt. Bitte bestätigen Sie mir, ob die Kündigung bereits zugestellt wurde. Die Kündigung muss den Zeitraum des Rückstands genau bezeichnen; deshalb benötige ich die Kontoauszüge der letzten zwölf Monate.
 
 Mit freundlichen Grüßen
 [[lawyer|Mag. Theuer]]
@@ -29,7 +29,7 @@ Mit freundlichen Grüßen
 > Von: [[person|Holger Greber]] <[[email|h.greber@ettl-handels.example.at]]>
 > Gesendet: Freitag, [[date|02.10.2026]] 14:37
 > An: [[lawyer|Theuer]]
-> Betreff: Mietrückstand Hietzing
+> Betreff: Mietrückstand [[location|Hietzing]]
 >
 > Sehr geehrter Herr [[lawyer|Mag. Theuer]],
 >
@@ -39,13 +39,13 @@ Mit freundlichen Grüßen
 Von: [[person|Holger Greber]] <[[email|h.greber@ettl-handels.example.at]]>
 Gesendet: Dienstag, [[date|06.10.2026]] 10:51
 An: [[lawyer|Mag. Theuer]]
-Betreff: AW: Mietrückstand Hietzing
+Betreff: AW: Mietrückstand [[location|Hietzing]]
 
 Lieber Herr [[lawyer|Theuer]],
 
 die Kündigung wurde am [[date|06.10.2026]] persönlich übergeben. Frau [[person|Vojvodić]] hat den Empfang bestätigt und erklärt, sie könne den Rückstand nicht bezahlen. Die Wohnung liegt in [[address|5742 Wald im Pinzgau]], die Mieterin hat sich bisher nicht gemeldet.
 
-Die [[organization|Ettl Handels]] trägt die Kosten der Schimmelsanierung vorläufig selbst, weil die [[organization|GHG]] sich bisher nicht gemeldet hat. Für die Vollmacht gebe ich meine Daten an: Holger Greber, GEB: [[date_of_birth|15.04.1982]]. Ich bitte um Ihre Rückmeldung bis Ende der Woche.
+Die [[organization|Ettl Handels]] trägt die Kosten der Schimmelsanierung vorläufig selbst, weil die [[organization|GHG]] sich bisher nicht gemeldet hat. Für die Vollmacht gebe ich meine Daten an: [[person|Holger Greber]], GEB: [[date_of_birth|15.04.1982]]. Ich bitte um Ihre Rückmeldung bis Ende der Woche.
 
 Beste Grüße
 [[person|Holger Greber]]
@@ -61,7 +61,7 @@ Sehr geehrter Herr [[lawyer|Mag. Theuer]],
 
 die Gesellschaft Hietzinger Grundverwaltung (im Folgenden „[[organization|GHG]]“) bestreitet den Anspruch der [[organization|Ettl Handels]]. Die Kündigung ist nach Ansicht der [[organization|GHG]] unwirksam, weil sie nicht an die Hausverwaltung gerichtet war. Die Klage wurde beim [[court|Bezirksgericht Hietzing]] eingebracht. Die Tagsatzung beim [[court|BG Hietzing]] wurde für den [[date|29.10.2026]] anberaumt.
 
-Wir beantragen die Abweisung der Klage und verweisen auf die Stellungnahme von [[person|Wisman]] vom [[date|08.10.2026]].
+Wir beantragen die Abweisung der Klage und verweisen auf die Stellungnahme von [[person|Wisman]] vom [[date|08.10.2026]]. Die Verwaltung hat außerdem bestätigt, dass die Wohnung seit dem Auszug der früheren Mieterin nicht vermietet war.
 
 > Von: [[lawyer|Mag. Theuer]]
 > Gesendet: Montag, [[date|05.10.2026]] 09:14

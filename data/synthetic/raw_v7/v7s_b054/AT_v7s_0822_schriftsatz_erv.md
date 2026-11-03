@@ -50,13 +50,19 @@ II. Sachverhalt
 
 6. Der Beklagte [[person|Bruckbauer]], StA: [[country|Italien]], hat in seiner E-Mail vom [[date|22.09.2025]] erklärt, er sei nur Untermieter und nicht Vertragspartei. Diese Behauptung ist unrichtig, weil er die Räume gemeinsam mit den übrigen Beklagten genutzt hat.
 
+6a. Die Klägerin hat die Mietzinse für die Monate Juli 2025 bis Oktober 2025 jeweils zum Ersten des Monats fällig gestellt. Die Beklagten haben keine Zahlung geleistet; auch die Teilzahlung von EUR 500,00 vom [[date|12.07.2025]] wurde später zurückgebucht, weil das Konto nicht gedeckt war.
+
+6b. Die Betriebskostenabrechnung für das Jahr 2024 weist einen Nachzahlungsbetrag von EUR 1.240,00 aus. Die Abrechnung wurde den Beklagten am [[date|20.02.2025]] übermittelt und ist bis heute unbeglichen. Die Beklagte [[person|Lanc]] hat die Abrechnung mit E-Mail vom [[date|25.02.2025]] als unrichtig bezeichnet, ohne Belege vorzulegen.
+
+6c. Der Mietgegenstand war während des Mietverhältnisses nur eingeschränkt nutzbar, weil die Heizungsanlage im Winter 2024 zweimal ausgefallen ist. Die Klägerin hat die Reparatur veranlasst und die Kosten getragen. Die Beklagten haben einen Abzug von den Mietzinsen gefordert, dem die Klägerin nicht zugestimmt hat, da die Mängel sofort behoben wurden.
+
 III. Rechtliche Beurteilung
 
 Die Haftung der Beklagten ergibt sich aus [[legal_norm|§ 1098 ABGB]] iVm [[legal_norm|§ 1111 ABGB]]. Die Gesellschafter einer Gesellschaft bürgerlichen Rechts haften nach [[legal_norm|§ 1199 ABGB]] solidarisch für die Verbindlichkeiten der Gesellschaft. Der Mietvertrag ist nach [[legal_norm|§ 1118 ABGB]] durch die Kündigung beendet.
 
 Die Zuständigkeit des [[court|BG Lilienfeld]] ergibt sich aus [[legal_norm|§ 49 Abs 2 Z 5 JN]] und [[legal_norm|§ 14 MRG]], weil die Liegenschaft im Sprengel liegt. Der Mietgegenstand ist ein Geschäftslokal und unterliegt nicht dem [[legal_norm|MRG]] im Vollanwendungsbereich. Die Klägerin stützt sich deshalb ausschließlich auf die allgemeinen Bestimmungen des [[legal_norm|ABGB]].
 
-Die Beklagten wurden mit der Mahnung vom [[date|15.08.2025]] auch auf die Folgen eines Zahlungsverzugs hingewiesen. Ein Vergleichsangebot der Klägerin vom [[date|10.09.2025]] wurde von keinem der Beklagten beantwortet.
+Die Beklagten wurden mit der Mahnung vom [[date|15.08.2025]] auch auf die Folgen eines Zahlungsverzugs hingewiesen. Die Mahnung wurde an alle fünf Beklagten zugestellt; die Zustellung an [[person|Bruckbauer]] ist mit Rückschein vom [[date|19.08.2025]] nachgewiesen. Ein Vergleichsangebot der Klägerin vom [[date|10.09.2025]] wurde von keinem der Beklagten beantwortet.
 
 IV. Beweise
 
@@ -69,6 +75,12 @@ Die Klägerin hat die Schaden-Nr. [[other_identifier|32/721053/22]] der Versiche
 V. Liegenschaft
 
 Der Mietgegenstand befindet sich auf der Liegenschaft [[land_register_id|EZ: 1039]] [[land_register_id|KG: 53426 Maria Laach am Jauerling]] ([[court|BG Bruck an der Mur]]). Der Eigentümer hat die Klägerin zur Verwaltung ermächtigt.
+
+V/1. Streitgenossenschaft
+
+Die Beklagten sind als Gesellschafter der Gesellschaft bürgerlichen Rechts notwendige Streitgenossen im Sinne des [[legal_norm|§ 14 ZPO]]. Die Klägerin hat die Klage gegen alle Gesellschafter gerichtet, weil nach dem Mietvertrag jeder von ihnen den Mietzins in voller Höhe schuldet. Die Beklagte [[person|Kurz]] ist im Mietvertrag als Vertreterin der Gesellschaft genannt; die übrigen Beklagten haben die Vertragsurkunde ebenfalls unterschrieben.
+
+Die Klägerin behält sich vor, die Kosten der Räumung und der Entsorgung der zurückgelassenen Gegenstände im Wege einer Erweiterung des Klagebegehrens geltend zu machen, sobald diese beziffert sind.
 
 VI. Anträge
 

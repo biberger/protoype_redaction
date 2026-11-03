@@ -83,18 +83,18 @@ V. Beweisanbote
 
 Die Klägerin beantragt die Einvernahme der Beklagten zu 2. und zu 3. als Parteien, hilfsweise die Vernehmung der Zeugen, die bei der Abnahme der Fensteranlage anwesend waren. Ferner wird die Einholung eines bautechnischen Gutachtens zur Frage beantragt, ob die Fensteranlage den Anforderungen der einschlägigen Norm entspricht und ob die Mängel bereits bei der Abnahme erkennbar waren.
 
-Die Klägerin behält sich vor, weitere Beweise nach Vorlage der Klagebeantwortung anzubieten. Die Beilagen sind in Kopie angeschlossen; die Originale werden auf Verlangen vorgelegt.
+Die Klägerin hält die Abnahme durch die Beklagte zu 2. ausdrücklich für unwirksam, da die Bauaufsicht zu diesem Zeitpunkt nicht vollständig abgeschlossen war. Die Klägerin behält sich vor, weitere Beweise nach Vorlage der Klagebeantwortung anzubieten. Die Beilagen sind in Kopie angeschlossen; die Originale werden auf Verlangen vorgelegt.
 
 Beilagen:
 ./A Vertrag vom [[date|14.05.2020]]
 ./B Mängelrüge vom [[date|02.09.2025]]
 ./C Gutachten
 
-Dieser Schriftsatz wird über ERV eingebracht.
+Dieser Schriftsatz wird über ERV eingebracht und ist mit einer qualifizierten elektronischen Signatur versehen.
 
 Zuständigkeit
 
-Die sachliche Zuständigkeit des [[court|Landesgericht Linz]] ergibt sich aus dem Streitwert. Die örtliche Zuständigkeit des [[court|LG Linz]] ist gegeben, weil die Beklagte zu 1. ihren Wohnsitz im Sprengel dieses Gerichts hat und der Erfüllungsort der Montage im Bezirk liegt. Die Klägerin ersucht um Anberaumung einer vorbereitenden Tagsatzung.
+Die sachliche Zuständigkeit des [[court|Landesgericht Linz]] ergibt sich aus dem Streitwert. Die örtliche Zuständigkeit des [[court|LG Linz]] ist gegeben, weil die Beklagte zu 1. ihren Wohnsitz im Sprengel dieses Gerichts hat und der Erfüllungsort der Montage im Bezirk liegt. Die Klägerin ersucht um Anberaumung einer vorbereitenden Tagsatzung. Der Streitwert ist nach dem Interesse der Klägerin an der Mängelbehebung bemessen und umfasst die voraussichtlichen Kosten der Verbesserung samt Nebenforderungen.
 
 [[location|Ravelsbach]], am [[date|20.10.2026]]
 

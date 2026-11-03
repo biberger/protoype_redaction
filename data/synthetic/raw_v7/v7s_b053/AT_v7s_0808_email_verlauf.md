@@ -11,11 +11,11 @@ Betreff: AW: Schadennummer [[other_identifier|14/400849/24]] – Zeugenladung [[
 
 Sehr geehrte Frau [[person|Burger]],
 
-wir bestätigen die Ladung zur Verhandlung vor dem [[court|BG Hernals]] am [[date|11.11.2026]], Saal 3. Die Zeugin [[person|Juen]], geboren am [[date_of_birth|01.03.2002]], soll um 9:15 Uhr erscheinen; ihre Aussage betrifft die Abläufe in der Lagerhalle am Tag des Unfalls. Bitte weisen Sie die Zeugin darauf hin, dass sie vor der Aussage nicht mit der Gegenseite sprechen soll.
+wir bestätigen die Ladung zur Verhandlung vor dem [[court|BG Hernals]] am [[date|30.10.2026]], Saal 3. Die Zeugin [[person|Juen]], geboren am [[date_of_birth|01.03.2002]], soll um 9:15 Uhr erscheinen; ihre Aussage betrifft die Abläufe in der Lagerhalle am Tag des Unfalls. Bitte weisen Sie die Zeugin darauf hin, dass sie vor der Aussage nicht mit der Gegenseite sprechen soll.
 
 Der Warenlift in der Halle wurde laut den bisherigen Angaben am [[date|14.09.2024]] um 10:40 Uhr außer Betrieb genommen. Die Zeitangaben in der Schadensmeldung weichen davon um rund 25 Minuten ab, was für die Beweiswürdigung von Bedeutung ist.
 
-Die [[organization|Haberzettl Handels GmbH]] (im Folgenden „[[organization|HHG]]“) hat uns zusätzlich ersucht, den Vergleichsvorschlag der Gegenseite zu prüfen. Wir empfehlen, die Abfindung nicht vor der Vorlage des ärztlichen Gutachtens anzunehmen. Frau [[person|Hilda Giger]] hat laut ihrem Anwalt bislang keine Befundberichte übermittelt.
+Die [[organization|Haberzettl Handels GmbH]], [[company_register_number|FN 494060i]], UID [[tax_id|ATU86146563]] (im Folgenden „[[organization|HHG]]“) hat uns zusätzlich ersucht, den Vergleichsvorschlag der Gegenseite zu prüfen. Wir empfehlen, die Abfindung nicht vor der Vorlage des ärztlichen Gutachtens anzunehmen. Frau [[person|Hilda Giger]] hat laut ihrem Anwalt bislang keine Befundberichte übermittelt.
 
 Zeichen [[other_identifier|HG-HGBurger/Hohenwarter]]
 
@@ -40,9 +40,9 @@ ERV-Code: [[other_identifier|R231967]]
 >
 > Sehr geehrte Frau Rechtsanwältin,
 >
-> vielen Dank für Ihre Nachricht. Die [[organization|Haberzettl Handels]] ist mit dem Vorgehen einverstanden. Frau [[person|Juen]] war am Unfalltag im Dienst und kann die Abläufe in der Halle bestätigen. Den Warenlift hat sie nach eigenen Angaben um 10:15 Uhr zuletzt benutzt; die Störung wurde ihr von einem Kollegen gemeldet. Ich lege Ihnen die Wartungsprotokolle des Liftes bei, aus denen das Datum der letzten Inspektion hervorgeht.
+> vielen Dank für Ihre Nachricht. Die [[organization|Haberzettl Handels]] ist mit dem Vorgehen einverstanden. Frau [[person|Juen]] war am Unfalltag im Dienst und kann die Abläufe in der Halle bestätigen. Den Warenlift hat sie nach eigenen Angaben um 10:15 Uhr zuletzt benutzt; die Störung wurde ihr von einem Kollegen gemeldet. Ich lege Ihnen die Wartungsprotokolle des Liftes bei, aus denen das Datum der letzten Inspektion hervorgeht. Die Protokolle sind vollständig, es fehlt lediglich die Bestätigung des Prüfers für das Jahr 2023.
 
-Wegen der Abfindung haben wir noch Rücksprache gehalten. Die Geschäftsführung ist bereit, bis zu 3.000,00 EUR anzubieten, darüber hinaus wird eine Zustimmung nicht erteilt. Sollte die Gegenseite diesen Betrag nicht akzeptieren, schlagen wir vor, den Sachverständigen gemeinsam zu beauftragen. Die Kosten dafür würden je zur Hälfte getragen. Bitte teilen Sie uns Ihre Entscheidung bis zur Verhandlung mit.
+Wegen der Abfindung haben wir noch Rücksprache gehalten. Die Geschäftsführung ist bereit, bis zu 3.000,00 EUR anzubieten, darüber hinaus wird eine Zustimmung nicht erteilt. Sollte die Gegenseite diesen Betrag nicht akzeptieren, schlagen wir vor, den Sachverständigen gemeinsam zu beauftragen. Die Kosten dafür würden je zur Hälfte getragen. Bitte teilen Sie uns Ihre Entscheidung bis zur Verhandlung mit. Die Zeugin [[person|Juen]] wird über die Terminänderung informiert, sobald wir Ihre Rückmeldung haben.
 >
 > > Von: [[person|Fey Benedikt]] <[[email|f.benedikt@schaller.at]]>
 > > Gesendet: Dienstag, [[date|20. Oktober 2026]] 10:05
@@ -68,7 +68,7 @@ Wegen der Abfindung haben wir noch Rücksprache gehalten. Die Geschäftsführung
 > >
 > > im Namen der Gegenseite übermitteln wir den Vergleichsvorschlag. Die Abfindung beträgt 4.500,00 EUR, die Haftung wird zu einem Drittel anerkannt.
 > >
-> > Die Gegenseite ersucht zudem um eine Verlängerung der Frist zur Stellungnahme bis zum [[date|31.10.2026]], da der Sachverständige seinen Bericht noch nicht vorgelegt hat. Wir ersuchen um kurze Rückmeldung, ob Ihre Mandantschaft zustimmt. Der Vergleich soll die Kosten des Verfahrens gegeneinander aufheben.
+> > Die Gegenseite ersucht zudem um eine Verlängerung der Frist zur Stellungnahme bis zum [[date|31.10.2026]], da der Sachverständige seinen Bericht noch nicht vorgelegt hat. Wir ersuchen um kurze Rückmeldung, ob Ihre Mandantschaft dieser Verlängerung zustimmt. Der Vergleich soll die Kosten des Verfahrens gegeneinander aufheben und ist bis zur Verhandlung befristet.
 > >
 > > Mit freundlichen Grüßen
 > >

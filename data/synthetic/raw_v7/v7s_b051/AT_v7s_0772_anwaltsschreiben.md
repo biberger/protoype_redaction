@@ -13,7 +13,7 @@ ERV-Code: [[other_identifier|P813076]]
 
 GZ der Kanzlei: [[other_identifier|RM-RMBlau/Bertha]]
 
-[[organization|Feurstein GmbH]]
+[[organization|Feurstein GmbH]], [[company_register_number|FN 103250p]], UID: [[tax_id|ATU20857892]]
 z.H. Geschäftsführung [[person|DI Heidelinde Krainz]]
 [[address|Gewerbepark 4, 5600 St. Johann im Pongau]]
 
@@ -37,6 +37,8 @@ Die Mängel wurden von der Mandantin mit Schreiben vom [[date|9. Juni 2026]] ger
 Wir fordern Sie daher auf, die Mängel binnen 14 Tagen ab Zugang dieses Schreibens fachgerecht zu beheben. Die Verbesserung hat durch einen Fachbetrieb zu erfolgen, der mit Ihrer Montage nicht identisch ist. Sollte die Verbesserung nicht bis zum [[date|30. Oktober 2026]] erfolgen, werden wir ohne weitere Ankündigung die Wandlung des Vertrages erklären und den Ersatz der Kosten für einen Ersatzbetrieb geltend machen.
 
 Wir ersuchen Sie zudem, uns bis zum genannten Termin den Namen Ihres Haftpflichtversicherers bekanntzugeben. Für Rückfragen steht Ihnen unser Büro unter Tel. [[phone_number|02742/781131-5]] zur Verfügung.
+
+Die Mandantin hat die betroffenen Fenster vorsorglich mit einer Plane abgedeckt, um weitere Schäden durch Regen zu vermeiden. Die Kosten dafür trägt sie vorläufig selbst und wird sie Ihnen gesondert in Rechnung stellen. Eine Haftung für Folgeschäden lehnen wir ausdrücklich ab, solange die Mängel nicht behoben sind. Unsere Mandantin ersucht zudem um Übermittlung der Montageprotokolle und der Prüfberichte, die Ihrem Betrieb vorliegen.
 
 Als Zeugen der Montage sind laut Protokoll genannt:
 1. [[person|Pejaković Jure]]

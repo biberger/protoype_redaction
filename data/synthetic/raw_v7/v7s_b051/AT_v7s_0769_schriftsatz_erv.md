@@ -88,6 +88,10 @@ BEILAGE | URKUNDE | VORGELEGT VON [[person|ADALBRECHT SCHÄRF]]
 
 Vertragsnummer [[other_identifier|LV-2020-58248]]
 
+9. Die klagende Partei hat die Mängel durch das Gutachten der Bausachverständigen [[person|Nadja Hinterstoisser]] bestätigen lassen. Das Gutachten vom [[date|10. Oktober 2025]] kommt zum Ergebnis, dass die Ablaufleitung ohne das erforderliche Gefälle verlegt worden ist. Die Sachverständige hat außerdem festgestellt, dass am Übergang zum Gehsteig kein Rückstauschutz angebracht wurde.
+
+10. Die örtliche Zuständigkeit des angerufenen Gerichts ergibt sich aus dem Ort des Schadenseintritts in [[location|Gmunden]] und aus dem Wohnsitz der klagenden Partei. Der Streitwert liegt innerhalb der sachlichen Zuständigkeit des Bezirksgerichts.
+
 III. Rechtliche Ausführungen
 
 1. Der Erstbeklagte schuldet als Werkunternehmer ein mangelfrei hergestelltes Werk. Die fehlerhafte Anbindung der Ablaufleitung ist ein Mangel im Sinne des [[legal_norm|§ 932 ABGB]]. Die klagende Partei hat den Mangel rechtzeitig gerügt und ihre Gewährleistungsansprüche damit gewahrt.
@@ -95,6 +99,14 @@ III. Rechtliche Ausführungen
 2. Die zweit- und drittbeklagte Partei haften nach [[legal_norm|§ 1319 ABGB]] für die Verletzung der Streupflicht und der Pflicht zur Freihaltung der Abflussanlagen. Die [[organization|LOÖ]] hat die Verantwortung für die Landesstraße in ihrem Schreiben vom [[date|8. Oktober 2025]] nicht bestritten, sondern lediglich auf die Zuständigkeit der [[country|Republik Österreich]] für den Gehsteig verwiesen.
 
 3. Die Haftung der beklagten Parteien ist daher zur ungeteilten Hand gegeben. Die Schadenshöhe ergibt sich aus dem Sachverständigengutachten, das die klagende Partei nach Schluss der Verhandlung vorlegen wird. Der Streitwert wurde vorläufig mit EUR 12.400,00 bemessen.
+
+4. Die [[country|Republik Österreich]] haftet für Schäden aus der mangelhaften Erhaltung öffentlicher Verkehrsflächen nach den Grundsätzen der Amtshaftung, soweit nicht die Erhaltung einer Landesstraße betroffen ist. Die [[organization|LOÖ]] hat die Erhaltung der angrenzenden Landesstraße übernommen und ist insoweit mitverantwortlich.
+
+11. Die Ansprüche sind nicht verjährt. Die Mängelrüge erfolgte noch am Tag des Schadens, und die klagende Partei hat die Klage innerhalb der Frist des [[legal_norm|§ 933 ABGB]] eingebracht. Die Verjährungsfrist für Schadenersatzansprüche nach [[legal_norm|§ 1489 ABGB]] ist ebenfalls gewahrt.
+
+12. Die zweit- und drittbeklagte Partei haben auf eine außergerichtliche Aufforderung vom [[date|20. Oktober 2025]] nicht reagiert. Ein Vergleichsvorschlag der klagenden Partei wurde nicht beantwortet. Die Klage ist daher unvermeidlich.
+
+Die Vertretung wurde im Vorfeld in einer Besprechung mit der Klägerin vorbereitet. Die Kosten dieser Besprechung sind im Streitwert nicht enthalten und werden gesondert geltend gemacht.
 
 IV. Kosten
 

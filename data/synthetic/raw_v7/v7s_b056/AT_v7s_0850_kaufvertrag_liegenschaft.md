@@ -76,6 +76,10 @@ VI. Schlussbestimmungen
 
 12. Die Vertragsparteien erklären, dass sie den Vertrag gelesen und verstanden haben. Die Käufer bestätigen, dass sie über die Vorteile einer grundbücherlichen Sicherstellung belehrt wurden.
 
+13. Die Käufer nehmen zur Kenntnis, dass für die Liegenschaft [[land_register_id|KG Weitra]] / [[land_register_id|EZ: 655]] ein Vorkaufsrecht der Gemeinde zugunsten der Ortsentwicklung im Grundbuch angemerkt ist. Der Verkäufer hat die Gemeinde mit Schreiben vom [[date|9. Jänner 2026]] verständigt; eine Ausübung des Vorkaufsrechts wurde bis zum Abschluss dieses Vertrages nicht erklärt. Sollte die Gemeinde binnen der gesetzlichen Frist ihr Recht ausüben, tritt der Vertrag für diese Liegenschaft außer Kraft, der Kaufpreis wird anteilig zurückgezahlt.
+
+14. Der Verkäufer hat den Käufern die Bauunterlagen des Wohnhauses in [[land_register_id|KG Nenzing]] übergeben. Die Baubewilligung vom Jahr 1994 sowie der Energieausweis liegen dem Vertrag bei. Nachträgliche Umbauten sind nach den Angaben des Verkäufers nicht genehmigungspflichtig gewesen; eine Gewähr dafür übernimmt der Verkäufer nicht.
+
 Errichtet in [[location|Pernegg an der Mur]] am [[date|22. Jänner 2026]].
 
 Der Verkäufer:

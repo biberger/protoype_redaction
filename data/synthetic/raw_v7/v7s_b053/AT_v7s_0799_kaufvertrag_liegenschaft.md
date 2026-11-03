@@ -19,7 +19,7 @@ Unser Zeichen: [[other_identifier|NE-NEKuttelwascher/Androsch]]
 I. Vertragsparteien
 
 Verkäuferin:
-[[organization|Spitzy Bau GmbH]], Firmenbuch [[company_register_number|FN 104155w]], UID-Nr. [[tax_id|ATU25271675]], vertreten durch den alleinvertretungsbefugten Geschäftsführer [[person|Rafael Pranjić]], geb. [[date_of_birth|1984-06-04]], österreichischer Staatsbürger, wohnhaft in [[address|Lerchenfelder Gürtel 14/9, 1160 Wien]].
+[[organization|Spitzy Bau GmbH]], Firmenbuch [[company_register_number|FN 104155w]], UID-Nr. [[tax_id|ATU25271675]], vertreten durch den alleinvertretungsbefugten Geschäftsführer [[person|Rafael Pranjić]], geb. [[date_of_birth|1984-06-04]], StA: [[country|Österreich]], wohnhaft in [[address|Lerchenfelder Gürtel 14/9, 1160 Wien]].
 
 Käufer zu je ½:
 1. Herr [[person|Antonio Kuttelwascher]], *[[date_of_birth|07.03.1996]], Tel. [[phone_number|+43-732-7641490-69]], wohnhaft in [[address|Hauptplatz 9, 4020 Linz]];
@@ -107,7 +107,7 @@ Beilage ./D: Vollmacht des Käufers [[person|Kurjak]] zur Vertretung im Grundbuc
 
 VIII. Rücktritt vom Vertrag
 
-1. Erfolgt die Zahlung des Kaufpreises nicht bis zum [[date|15.11.2026]], ist die Verkäuferin berechtigt, vom Vertrag zurückzutreten. Der Rücktritt bedarf der schriftlichen Erklärung, die dem Treuhänder zuzustellen ist.
+1. Erfolgt die Zahlung des Kaufpreises nicht bis zum [[date|02.11.2026]], ist die Verkäuferin berechtigt, vom Vertrag zurückzutreten. Der Rücktritt bedarf der schriftlichen Erklärung, die dem Treuhänder zuzustellen ist.
 
 2. Im Fall des Rücktritts sind bereits geleistete Zahlungen den Käufern binnen 14 Tagen zurückzuerstatten, abzüglich der nachweislichen Kosten der Treuhandabwicklung.
 
@@ -121,9 +121,11 @@ IX. Schlussbestimmungen
 
 3. Die Kosten der Vertragserrichtung tragen die Käufer.
 
+5. Mündliche Nebenabreden bestehen nicht. Die Vertragsparteien verzichten ausdrücklich auf die Geltendmachung eines Irrtums über den Kaufgegenstand, soweit er nicht im Grundbuch ersichtlich ist.
+
 4. Die Vertragsteile erklären, dass sie den Vertrag gelesen, verstanden und nach eingehender Belehrung durch die Treuhänder abgeschlossen haben.
 
-Die Treuhänder haben die Vertragsparteien darauf hingewiesen, dass die Eintragung im Grundbuch erst nach Einlangen der Unterlagen beim Grundbuchsgericht erfolgt und dass sich die Übergabe dadurch verzögern kann. Die Käufer nehmen zur Kenntnis, dass für die Eintragung des Eigentumsrechts eine Eingabegebühr anfällt.
+Die Treuhänder haben die Vertragsparteien darauf hingewiesen, dass die Eintragung im Grundbuch erst nach Einlangen der Unterlagen beim Grundbuchsgericht erfolgt und dass sich die Übergabe dadurch verzögern kann. Die Käufer nehmen zur Kenntnis, dass für die Eintragung des Eigentumsrechts eine Eingabegebühr anfällt. Die Treuhänder haben den Käufern empfohlen, vor Unterfertigung einen Grundbuchsauszug einzusehen, der nicht älter als vierzehn Tage ist.
 
 Ausgefertigt in drei Stück am [[date|03.06.2026]].
 

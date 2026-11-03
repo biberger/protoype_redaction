@@ -54,6 +54,14 @@ Der Erblasser war zuletzt in [[location|St. Veit an der Glan]] gemeldet. Die Ver
 
 [[person|Kaserer]] hatte bis zu seinem Tod keine weiteren Verbindlichkeiten gegenüber Banken. Die Erbin [[person|Helbich]] hat erklärt, dass sie die Erbschaft unbedingt annimmt.
 
+Zum Vermächtnis der Frau [[person|Krystynka DI Sawicka]] ist festzuhalten, dass die Wohnung im Haus [[address|Lendplatz 3]] mit einer Belastung durch ein Wohnungsrecht zugunsten des Erblassers versehen ist. Das Wohnungsrecht erlischt mit dem Tod des Erblassers; die Vermächtnisnehmerin kann die Wohnung daher ohne Einschränkung übernehmen. Die Hausverwaltung hat die Betriebskostenabrechnung für das Jahr 2021 noch nicht übermittelt, sodass die Nachzahlung im Inventar nur als Schätzung geführt wird.
+
+Das Vermächtnis des Herrn [[person|Eric Reiser]] an der Uhrensammlung umfasst zwölf Stücke, die im Inventar einzeln angeführt sind. Ein Stück, eine Taschenuhr aus dem Jahr 1911, ist nach den Angaben der Erben bereits vor dem Tod des Erblassers veräußert worden. Der Erlös von € 1.450,00 ist dem Erblasser zuzurechnen und fließt in die Verlassenschaft ein.
+
+Die Erbantrittserklärung von [[person|Helbich]] wurde am [[date|10. Mai 2022]] zu Protokoll gegeben. Frau [[person|DI Felicitas Slawik]] hat ihre Erbserklärung am selben Tag schriftlich abgegeben. Beide Erben haben erklärt, dass sie die Erbschaft unbedingt annehmen und keine Schulden über den Nachlass hinaus übernehmen wollen. Die Rechtsbelehrung nach dem Erbrecht wurde ihnen erteilt.
+
+Die Verlassenschaft wird nach Ablauf der Edikalfrist eingeantwortet, sofern keine weiteren Gläubiger auftreten. Die Kosten der Verlassenschaftsabhandlung werden aus dem Bankguthaben bestritten. Der Gerichtskommissär hat die Gebührenvorschreibung bereits übermittelt.
+
 Errichtet am [[date|21. April 2022]].
 
 [[person|Schantl]]

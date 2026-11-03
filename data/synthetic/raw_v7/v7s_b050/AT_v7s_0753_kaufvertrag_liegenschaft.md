@@ -17,7 +17,7 @@ abgeschlossen am [[date|14.07.2026]] in [[location|Ybbs an der Donau]]
 
 I. Vertragsparteien
 
-1. Verkäuferin: [[person|Lama kitten]], geboren am [[date_of_birth|1999-01-02]], StA. [[country|Ukraine]],
+1. Verkäuferin: [[person|Lama Kassab]], geboren am [[date_of_birth|1999-01-02]], StA. [[country|Ukraine]],
    wohnhaft in [[address|3300 Amstetten]]
 
 2. Käufer: [[person|Dietmar
@@ -32,7 +32,7 @@ Die Verkäuferin und der Käufer sind im Grundbuch wie folgt verzeichnet:
 Grundbuch [[land_register_id|34377 Alkoven]]/[[land_register_id|EZ: 244]] ([[court|BG Gmunden]]) [[land_register_id|GSt-Nr. 169]]
 [[land_register_id|EZ176]]/[[land_register_id|K.G. 45781 Heidenreichstein]]; [[land_register_id|GSt-Nr. 687]]
 
-Eigentümerin laut Grundbuch: [[person|kitten Lama]], geb. [[date_of_birth|1999-01-02]]
+Eigentümerin laut Grundbuch: [[person|Kassab Lama]], geb. [[date_of_birth|1999-01-02]]
 
 II. Kaufgegenstand
 
@@ -82,7 +82,7 @@ X. Schlussbestimmungen
 
 Änderungen und Ergänzungen dieses Vertrages bedürfen zu ihrer Gültigkeit der Schriftform. Mündliche Nebenabreden bestehen nicht. Die Parteien haben vor der Unterfertigung eine Ausfertigung des Vertragsentwurfs mindestens sieben Tage erhalten. Sollte eine Bestimmung dieses Vertrages unwirksam sein, bleibt der Vertrag im Übrigen wirksam.
 
-Die Verkäuferin: [[person|kitten]]
+Die Verkäuferin: [[person|Kassab]]
 
 Der Käufer: [[person|Sedlmayr]]
 
@@ -100,7 +100,7 @@ Hinweis für die Verkäuferin: Die Firma [[organization|Heider Handels GmbH]] ([
 Der Treuhandkonto-Auszug ist mit der TH-Nr. [[other_identifier|2024/277]] versehen.
 
 [[organization|HEIDER HANDELS GMBH]] - VERMITTLUNG
-VERKÄUFERIN: [[person|LAMA KITTEN]]
+VERKÄUFERIN: [[person|LAMA KASSAB]]
 KÄUFER: [[person|DIETMAR SEDLMAYR]]
 STEMPEL: [[lawyer|KICKINGER]], RECHTSANWALT
 

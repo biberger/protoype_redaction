@@ -87,6 +87,8 @@ Ferner beantragte der Beschuldigte die Vorlage der vollständigen Buchhaltung de
 
 Die Kammeranwältin [[person|Baumeister]] hat die Vorlage der Mitgliederkorrespondenz der [[organization|RAK Ktn]] beantragt, um die Dauer des Ermittlungsverfahrens zu belegen. Dem Antrag wurde stattgegeben.
 
+Der Senat hat dabei auch die Stellungnahme der Kammer zur Organisation der Kanzlei des Beschuldigten gewürdigt. Danach hatte die Kanzlei keine geordnete Fristenverwaltung und keine Trennung der Treuhandkonten von den Betriebskonten. Diese organisatorischen Mängel sind dem Beschuldigten zuzurechnen, auch wenn er die Buchhaltung teilweise an eine externe Dienstleisterin übertragen hatte.
+
 Vorgeschichte und Vergleichsversuch
 
 Bereits im Jahr 2023 hatte die [[organization|RAK Ktn]] versucht, die Angelegenheit außergerichtlich zu klären. Der Beschuldigte bot im Rahmen dieses Vermittlungsversuchs eine Rückzahlung von 3.000,00 EUR an die Beschwerdeführerin [[person|Frangoudis]] an, die diese ablehnte. Die Zahlung wurde nicht geleistet, obwohl sie im Protokoll vom [[date|11.07.2023]] ausdrücklich zugesagt worden war.
@@ -99,7 +101,7 @@ Zur Bemessung der Strafe hat der Senat auch berücksichtigt, dass der Beschuldig
 
 Kosten
 
-Die Kosten des Verfahrens werden dem Beschuldigten auferlegt. Sie umfassen die Pauschalgebühr, die Schreibauslagen und die Reisekosten der Beschwerdeführerinnen.
+Die Kosten des Verfahrens werden dem Beschuldigten auferlegt. Sie umfassen die Pauschalgebühr, die Schreibauslagen und die Reisekosten der Beschwerdeführerinnen. Der Senat hat von einer Verpflichtung zum Ersatz der Kosten der Kammer abgesehen, da deren Anwalt im Verfahren nur die Anzeige vertreten hat und die Kammer selbst keinen gesonderten Aufwand geltend gemacht hat. Die Entscheidung über die Kosten ist im Übrigen mit dem Ausspruch über die Strafe verbunden und wird gemeinsam mit diesem Beschluss allen Verfahrensbeteiligten zugestellt, wobei die Zustellung an die Kammer gesondert erfolgt.
 
 [[location|Eberschwang]], am [[date|06.10.2026]]
 

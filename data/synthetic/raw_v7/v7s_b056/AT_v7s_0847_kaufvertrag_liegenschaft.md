@@ -61,6 +61,18 @@ Die Übergabe der Liegenschaft erfolgt mit dem Tag der Kaufpreiszahlung. Die Ver
 
 Die Vertragsparteien erklären, dass keine mündlichen Nebenabreden bestehen. Die Kosten der Urkundenerrichtung tragen die Käuferinnen zu je einem Hälfteanteil. Gerichtsstand ist das für die Liegenschaft zuständige Gericht.
 
+§ 7 Mitverkauf und Zubehör
+
+Mit der Liegenschaft werden die fest eingebauten Küchenmöbel, die Einbauschränke im Obergeschoss, die Heizungsanlage samt Öltank und die Gartenhütte mitverkauft. Nicht mitverkauft werden die bewegliche Einrichtung, der Gartenschlauch und das Brennholz im Schuppen, die der Verkäuferin verbleiben. Die Käufer haben die Anlagen bei der Besichtigung geprüft; ein Rechtsanspruch auf Funktionsfähigkeit des Öltanks besteht nicht, soweit dieser nicht ausdrücklich zugesichert wird.
+
+§ 8 Hinweise und Belehrung
+
+Der Notar beziehungsweise die Kanzlei hat die Käuferinnen darauf hingewiesen, dass die Eintragung ihres Eigentumsrechts erst nach Vorliegen aller Unterlagen erfolgen kann und dass bis zu diesem Zeitpunkt keine Nutzungsrechte bestehen. Auf die Haftung der Käuferinnen für die Kosten der Grundbuchseintragung wurde ausdrücklich hingewiesen. Die Käuferinnen bestätigen, dass sie auf die Möglichkeit einer Beratung durch einen unabhängigen Sachverständigen hingewiesen wurden und diese Möglichkeit nicht genutzt haben.
+
+§ 9 Änderungen und Mehrausfertigungen
+
+Dieser Vertrag wird in vier Ausfertigungen errichtet, wovon je eine Ausfertigung den Käuferinnen, der Verkäuferin und dem Grundbuchsgericht zukommt; eine Ausfertigung verbleibt in der Kanzlei. Änderungen dieses Vertrages bedürfen der Schriftform und der Zustimmung aller Vertragsparteien. Mündliche Nebenabreden bestehen nicht. Die Käuferinnen erklären, dass sie die Urkunde vollständig gelesen haben und dass ihnen der Inhalt in einer Sprache erläutert wurde, die sie verstehen.
+
 Die Käuferin [[person|Rohracher]] und die Käuferin [[person|Schenk von Stauffenberg]] haben die Urkunde mit der Verkäuferin gelesen und unterfertigen sie eigenhändig.
 
 Errichtet in [[address|8832 Oberwölz Umgebung]] am [[date|14. September 2026]].

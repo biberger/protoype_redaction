@@ -51,6 +51,12 @@ Datum | Vorgang | Betrag | Auftraggeber | Konto
 
 Die Kostenentscheidung beruht auf [[legal_norm|§ 66 DSt]].
 
+3.4. Der Beschuldigte hat weiters vorgebracht, die Kanzleisoftware habe die Buchung automatisch erzeugt. Der Senat folgt dieser Behauptung nicht, weil die Buchungsbestätigung den Beschuldigten als freigebende Person ausweist. Die Verantwortung für die Buchhaltung liegt bei dem Rechtsanwalt persönlich.
+
+3.5. Zu seinen Gunsten wurde berücksichtigt, dass der Beschuldigte seit dem Jahr 2010 zugelassen ist und bisher keine disziplinären Verfahren anhängig waren. Erschwerend ist die Höhe des entnommenen Betrags.
+
+Der Senat hat bei der Bemessung der Geldbuße die wirtschaftlichen Verhältnisse des Beschuldigten berücksichtigt. Die verhängte Geldbuße liegt im unteren Bereich des Strafrahmens, weil der Beschuldigte den entnommenen Betrag zurückerstattet hat.
+
 Die Zustellung dieses Erkenntnisses erfolgt an den Beschuldigten und an die [[court|OBDK]], soweit eine Berufung erhoben wird.
 
 [[location|Wien]], am [[date|14. Oktober 2026]]

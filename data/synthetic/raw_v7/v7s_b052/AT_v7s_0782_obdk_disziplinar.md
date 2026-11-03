@@ -141,6 +141,11 @@ wäre bereits im Frühjahr 2025 möglich gewesen. Die Verfahrenskosten folgen de
 Gegen diese Entscheidung kann der Beschuldigte und der Kammeranwalt binnen zwei Wochen Berufung an die
 [[court|OBDK]] erheben. Die Berufung ist beim Disziplinarrat einzubringen.
 
+Der Beschuldigte wird darauf hingewiesen, dass die Geldbuße innerhalb von vier Wochen nach Rechtskraft des Erkenntnisses
+auf das Konto der [[organization|Rechtsanwaltskammer Wien]] einzuzahlen ist, die den Betrag an den Kammeranwalt weiterleitet
+und die Zahlung gegenüber dem Beschuldigten bestätigt. Bei Nichtzahlung ist die Einbringung im Verwaltungsweg
+vorgesehen.
+
 Für den Disziplinarrat:
 
 [[person|Dr. Czesław Bogdański]]

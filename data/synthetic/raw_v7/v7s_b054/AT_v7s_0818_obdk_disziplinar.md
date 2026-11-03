@@ -55,7 +55,11 @@ Der Senat stützt sich auf die Kontoauszüge des Treuhandkontos, die Treuhandbü
 
 Die Aussage der Klientin [[person|Hartl]] widerspricht dieser Behauptung. Sie hat erklärt, eine Weisung nie erteilt zu haben. Der Senat hält die Darstellung von [[person|Hartl]] für glaubwürdig, da sie durch die Kontenbewegungen gestützt wird.
 
-Die Kammeranwältin [[person|Mag. Krystyna Ostrowska]] hat in der Verhandlung ausgeführt, dass auch das Treuhandbuch zum Fall Brahimi unvollständig geführt wurde. Die Beschuldigte hat dies nicht bestritten.
+Die Kammeranwältin [[person|Mag. Krystyna Ostrowska]] hat in der Verhandlung ausgeführt, dass auch das Treuhandbuch zum Fall [[person|Brahimi]] unvollständig geführt wurde. Die Beschuldigte hat dies nicht bestritten.
+
+Der Zeuge, ein Angestellter der Kanzlei, hat ausgesagt, dass die Eintragungen im Treuhandbuch in der Regel am Monatsende nachgetragen wurden. Er konnte jedoch nicht angeben, wer die Buchungen vom [[date|30.05.2025]] veranlasst hat. Die Beschuldigte hat erklärt, sie sei zu diesem Zeitpunkt für längere Zeit abwesend gewesen und habe die Vertretung dem Zeugen übertragen. Der Senat hält diese Darstellung für teilweise glaubhaft, sieht darin aber keine Entschuldigung, weil die Verantwortung für das Treuhandkonto bei der Rechtsanwältin verbleibt.
+
+Die Kammeranwältin hat die Einvernahme von [[person|Hartl]] zu den Zahlungen vom [[date|18.03.2024]] beantragt. Dem Antrag wurde stattgegeben. Die Klientin hat den Verlauf des Verkaufs geschildert und bestätigt, dass die Verkäuferin den Kaufpreis nie erhalten hat, bevor die Auszahlung erfolgte.
 
 3. Rechtliche Beurteilung
 
@@ -65,7 +69,11 @@ Der Senat sieht den Tatbestand als erfüllt an. Die Auszahlung von EUR 14.500,00
 
 Bei der Strafzumessung wertet der Senat als mildernd, dass die Beschuldigte den Restbetrag an [[person|Brahimi]] überwiesen hat und bisher disziplinär nicht aufgefallen ist. Erschwerend wirkt, dass die Verstöße mehrfach und über mehr als eineinhalb Jahre begangen wurden.
 
+Der Senat hat weiters geprüft, ob eine vorläufige Untersagung der Vertretung von Klienten in Treuhandangelegenheiten zu verfügen wäre. Er hat davon abgesehen, weil die Beschuldigte die Kanzlei nach Angaben der Kammer inzwischen geordnet führt und die Treuhandkonten einer Kontrolle durch einen Wirtschaftsprüfer unterzogen werden. Ein Bericht des Prüfers ist der Kammer nach Abschluss der Prüfung vorzulegen.
+
 Die Kosten des Verfahrens, insbesondere die Kosten der Zeugeneinvernahme und der Übersetzung der Stellungnahme in die dari-Sprache, trägt die Beschuldigte gemäß [[legal_norm|§ 49 Abs 2 RAO]]. Die Übersetzung war erforderlich, weil die Beschuldigte die Stellungnahme in dieser Sprache verfasst hatte.
+
+Der Senat folgt der Auffassung der Kammeranwältin, dass die Treuhandpflichten eine besondere Sorgfalt verlangen, weil Klienten ihre Gelder regelmäßig ohne Kontrollmöglichkeit übergeben. Die Verwahrung von Fremdgeld ist ein Vertrauensverhältnis, das nach der Judikatur des Disziplinarrates bereits bei einer einzelnen unberechtigten Auszahlung nachhaltig gestört sein kann. Im vorliegenden Fall tritt hinzu, dass die Beschuldigte mehrere Klienten betroffen hat und die Treuhandbücher über längere Zeit nicht ordnungsgemäß geführt waren.
 
 Die Anträge der Kammeranwältin auf ein Berufsverbot wurden abgelehnt, weil die Verfehlungen nicht die Schwere erreichen, die eine Streichung rechtfertigen würde. Die Geldbuße entspricht [[legal_norm|§ 34 RAO]] und dem Gewicht der Verfehlung.
 

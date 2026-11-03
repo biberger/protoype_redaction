@@ -56,7 +56,9 @@ Der Beschuldigte hat ferner ein weiteres Treuhandgeschäft unter Treuhandbuch-Nr
 
 Der Senat stützt sich auf die Kontoauszüge, die Treuhandbücher und die Aussagen des Anzeigers. Die Kammeranwaltschaft hat die Akten vollständig vorgelegt. Die Aussage des Anzeigers ist durch die Kontenbewegungen gestützt und daher glaubwürdig.
 
-Der Beschuldigte konnte die Abweichungen nicht erklären. Die Stellungnahme vom [[date|20.06.2025]] enthält außerdem Angaben, die mit den Buchungen nicht übereinstimmen.
+Der Beschuldigte konnte die Abweichungen nicht erklären. In der Verhandlung hat er zunächst angegeben, den Betrag von EUR 12.000,00 auf Wunsch des Anzeigers an einen Bauunternehmer weitergeleitet zu haben. Diese Angabe hat der Anzeiger ausdrücklich bestritten, und der Beschuldigte konnte keinen Beleg für eine solche Weisung vorlegen. Der Bauunternehmer, dessen Name im Treuhandbuch nicht verzeichnet ist, wurde nicht ermittelt.
+
+Der Senat hat außerdem berücksichtigt, dass der Anzeiger [[person|MMag. Seemann]] ein hohes Lebensalter erreicht hat und den Ablauf nur eingeschränkt schildern konnte. Seine Angaben zu den Zahlungsterminen sind dennoch mit den Kontoauszügen vereinbar. Ein Gutachten zur Verwaltung des Treuhandkontos wurde nicht eingeholt, weil die Kontoauszüge für die Beurteilung ausreichend sind. Die Stellungnahme vom [[date|20.06.2025]] enthält außerdem Angaben, die mit den Buchungen nicht übereinstimmen.
 
 4. Rechtliche Beurteilung
 
@@ -66,7 +68,7 @@ Die Strafbemessung berücksichtigt, dass der Beschuldigte bisher disziplinär ni
 
 Die Berufung an die Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter ([[court|OBDK]]) steht offen. Die [[court|OBDK]] hat über Berufungen in Disziplinarsachen gegen Entscheidungen des Disziplinarrates zu entscheiden.
 
-Die Rechtsanwaltskammer für Kärnten (im Folgenden „[[organization|RAKK]]“) hat in der Verhandlung keinen Antrag auf Streichung gestellt. Die [[organization|RAKK]] hat dem Senat jedoch mitgeteilt, dass der Beschuldigte bereits zweimal wegen Verletzung der Treuhandpflichten verwarnt worden ist.
+Die Rechtsanwaltskammer für Kärnten (im Folgenden „[[organization|RAKK]]“) hat in der Verhandlung keinen Antrag auf Streichung gestellt. Die Kammeranwaltschaft hat jedoch eine Geldbuße im oberen Bereich des Strafrahmens und die Auflage einer Treuhandschulung beantragt. Der Senat hat die Auflage nicht verhängt, weil der Beschuldigte eine solche Schulung bereits im Jahr 2024 freiwillig absolviert hat. Die Teilnahmebestätigung wurde vorgelegt. Die [[organization|RAKK]] hat dem Senat jedoch mitgeteilt, dass der Beschuldigte bereits zweimal wegen Verletzung der Treuhandpflichten verwarnt worden ist.
 
 Zugestellt an:
 [[lawyer|Alberic Sexl]], per ERV

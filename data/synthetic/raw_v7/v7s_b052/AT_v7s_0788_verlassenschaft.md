@@ -88,6 +88,10 @@ Der Notar hat die Erben darauf hingewiesen, dass allfällige Guthaben in die Ver
 Die Erbin [[person|Faludy]] hat die Mietverträge für die Wohnung im Obergeschoss vorgelegt. Die Mieter
 bestätigten den Mietzins zum Stichtag; Rückstände bestehen keine.
 
+Die Erbin [[person|Tuba]] hat zudem mitgeteilt, dass das Fahrzeug seit dem Todestag nicht mehr bewegt wurde und in der
+Garage des Erblasserhauses abgestellt ist. Sie hat außerdem mitgeteilt, dass die Erblasserin ihre Versicherungspolizze für das Fahrzeug
+zum Todestag gekündigt hatte; die Kündigung wurde dem Notariat in Kopie vorgelegt.
+
 Der Sachverständige hat außerdem den Zustand des Kraftfahrzeugs begutachtet. Das Fahrzeug ist fahrbereit,
 weist jedoch Gebrauchsspuren auf, die den Schätzwert von EUR 6.800,00 bestätigen.
 
@@ -100,7 +104,8 @@ hierzu liegt dem Notariat noch nicht vor.
 
 IV. Erbantritt und Ausblick
 
-Die Erben [[person|Jenner]], [[person|Faludy]] und [[person|Tuba]] erklären den unbedingten Erbantritt
+Die Erben haben am [[date|26.05.2026]] vor dem Notariat die Erbantrittserklärungen unterfertigt; die Fristen dafür sind
+gewahrt. Die Erben [[person|Jenner]], [[person|Faludy]] und [[person|Tuba]] erklären den unbedingten Erbantritt
 nach dem Nachlass der Erblasserin. Die Verlassenschaftsabhandlung wird nach Vorlage der Steuerbescheinigung
 fortgesetzt. Die Erbschaftssteuer ist nach der derzeit gültigen Rechtslage nicht zu entrichten, weil es sich
 um Nachkommen handelt.

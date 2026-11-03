@@ -34,6 +34,7 @@ Die Angestellte [[person|Irmtraud Rydl]] hat die Kundenbeschwerden bearbeitet un
 steht für eine Auskunft zur Verfügung. Die Nachweise können über die Anschrift
 [[address|9020 Klagenfurt am Wörthersee]] eingesehen werden, weil dort die Buchhaltung geführt wird.
 
+Der Betrieb in [[location|St. Martin im Mühlkreis]] ist seit dem [[date|12.08.2026]] wieder in vollem Umfang geöffnet.
 Die Stellungnahme der Mandantin [[person|Zoabi]] wurde von der Mitarbeiterin [[person|Rydl]] vorbereitet und mit den
 Lieferscheinen der [[organization|Leeb]] abgeglichen. Die Lieferscheine belegen, dass die Umbauarbeiten am
 [[date|12.08.2026]] in vollem Umfang abgeschlossen waren, und decken sich mit den Angaben im Bescheid.
@@ -45,6 +46,10 @@ vorgelegt, die am [[date|03.07.2026]] stattgefunden hat.
 Eine Kopie dieses Schreibens erhält das [[court|Bezirksgericht Vöcklabruck]] zur Kenntnis, weil dort ein
 Mietverfahren zwischen den Parteien anhängig ist. Das [[court|BG Vöcklabruck]] wurde über den Stand der Auflagen
 bereits informiert.
+
+Die Vorwürfe der Behörde betreffen einen Zeitraum, in dem die Mandantin die Auflagen noch nicht vollständig umsetzen
+konnte. Der Umbau war durch eine Lieferverzögerung der Baufirma um mehrere Wochen aufgeschoben. Die Mandantin hat
+diese Verzögerung der Behörde unverzüglich schriftlich angezeigt.
 
 Wir ersuchen um Einstellung des Verfahrens. Für Rückfragen stehen wir unter Tel.
 [[phone_number|0316 416161 Durchwahl 56]] zur Verfügung.

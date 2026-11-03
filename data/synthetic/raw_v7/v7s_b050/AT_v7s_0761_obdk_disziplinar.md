@@ -43,7 +43,7 @@ Der Beschuldigte [[lawyer|Bates]] verteidigte sich damit, dass er mit dem Mandan
 
 3. Beweiswürdigung
 
-Der Senat stützt die Feststellungen auf die Kontoauszüge, den Kaufvertrag und die Aussage des Mandanten [[person|Francavilla]]. Die Behauptung der telefonischen Vereinbarung ist nicht belegt. Der Beisitzer [[judge|Zohuri]] hat in der Beratung darauf hingewiesen, dass der Beschuldigte [[lawyer|Bates]] die Lastenfreistellung zu diesem Zeitpunkt noch nicht geprüft hatte. Die Kammer hielt außerdem fest, dass der Beschuldigte die Auszahlung nicht im Kanzleibuch vermerkt hatte, was die Nachprüfung erschwerte.
+Der Senat stützt die Feststellungen auf die Kontoauszüge, den Kaufvertrag und die Aussage des Mandanten [[person|Francavilla]]. Die Behauptung der telefonischen Vereinbarung ist nicht belegt. Weder eine Telefonnotiz noch eine E-Mail des Mandanten belegen eine solche Absprache. Der Beisitzer [[judge|Zohuri]] hat in der Beratung darauf hingewiesen, dass der Beschuldigte [[lawyer|Bates]] die Lastenfreistellung zu diesem Zeitpunkt noch nicht geprüft hatte. Die Kammer hielt außerdem fest, dass der Beschuldigte die Auszahlung nicht im Kanzleibuch vermerkt hatte, was die Nachprüfung erschwerte.
 
 Die Schriftführerin [[person|Ringel]] hat das Protokoll geführt. Die Angaben decken sich mit den Urkunden. Der Mandant [[person|Francavilla]] legte zudem einen Ausdruck seines Online-Bankings vor, aus dem der Eingang des Restbetrags erst am [[date|5. November 2025]] ersichtlich ist.
 

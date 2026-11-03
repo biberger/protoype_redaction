@@ -19,8 +19,8 @@ Schadenabteilung Kraftfahrt
 Unser Zeichen: [[other_identifier|S-LLengauer/Weidinger]]
 Ihr Zeichen: [[other_identifier|KH-2026-0331]]
 
-Betrifft: Schadenersatzansprüche der Mandantin [[person|Ursel Lengauer]], wohnhaft in [[address|Bergstraße 22,
-3620 Spitz]]; Versicherungsnehmerin [[organization|Dirmhirn e.U.]]
+Betrifft: Schadenersatzansprüche der Mandantin [[person|Ursel Lengauer]], StA. [[country|Syrien]], wohnhaft in [[address|Bergstraße 22,
+3620 Spitz]]; Versicherungsnehmerin [[organization|Dirmhirn e.U.]], [[company_register_number|FN 584242f]], UID: [[tax_id|ATU28910159]]
 
 Sehr geehrte Damen und Herren!
 
@@ -39,6 +39,8 @@ Die Reparatur ist noch nicht durchgeführt worden. Unsere Mandantin bittet um Vo
 Die Verjährungsfrist für Schadenersatzansprüche beträgt drei Jahre ab Kenntnis des Schadens und der Person des Ersatzpflichtigen. Wir weisen darauf hin, dass ein Anerkenntnis die Verjährung unterbricht, sofern es nicht ausdrücklich verweigert wird. Eine bloße Zwischenmitteilung ohne Anerkennung genügt dafür nicht.
 
 Sollte die [[organization|Traunmoser Versicherung AG]] ([[organization|TMV]]) die Haftung nicht bis zum genannten Termin anerkennen, werden wir ohne weitere Ankündigung die gerichtliche Geltendmachung einleiten. Eine Stellungnahme der [[organization|TMV]] zum Unfallhergang ersuchen wir ebenfalls mit der Regulierung zu übermitteln.
+
+Wir weisen ferner darauf hin, dass unsere Mandantin die Kosten für die Anmietung eines Ersatzfahrzeuges bereits vorfinanziert hat. Die Rechnung des Mietwagenunternehmens übermitteln wir Ihnen bei Bedarf. Eine Verzögerung der Regulierung führt zu weiteren Kosten, die wir Ihnen gesondert in Rechnung stellen werden.
 
 Mit freundlichen Grüßen
 

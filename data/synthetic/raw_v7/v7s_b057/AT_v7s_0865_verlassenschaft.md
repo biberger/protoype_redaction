@@ -55,7 +55,7 @@ Die Verlassenschaft schuldet außerdem die Steuer aus dem Verkauf eines Kraftfah
 
 6. Verfahren
 
-Die Erben wurden darauf hingewiesen, dass die Erbantrittserklärung binnen der gesetzlichen Frist beim [[court|BG Villach]] einzubringen ist. Das Verlassenschaftsgericht hat die Abhandlungstagsatzung auf [[date|17.11.2026]] anberaumt.
+Die Erben wurden darauf hingewiesen, dass die Erbantrittserklärung binnen der gesetzlichen Frist beim [[court|BG Villach]] einzubringen ist. Das Verlassenschaftsgericht hat die Abhandlungstagsatzung auf [[date|02.11.2026]] anberaumt.
 
 Der Notar hat die Erben über die Möglichkeit der bedingten Erbantrittserklärung belehrt. Die Zustellung an den Erben [[person|Gutmann]] erfolgt über die Anschrift in Deutschland.
 

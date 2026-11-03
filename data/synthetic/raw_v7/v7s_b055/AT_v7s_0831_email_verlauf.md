@@ -10,7 +10,7 @@ Betreff: Räumung Geschäftslokal [[location|St. Pölten]], Verfahren [[court|BG
 
 Sehr geehrter Herr [[lawyer|Mag. Baharov]],
 
-ich habe das Schreiben der Gegenseite vom [[date|10. Juli]] erhalten. Die Vermieterin [[person|Todosia Dipl.-Ing. Lăcătuș]] verlangt die Räumung des Geschäftslokals in [[location|St. Pölten]] bis [[date|31. August]]. Ich verstehe nicht, warum wir auf einmal so kurzfristig räumen sollen, zumal die Miete immer pünktlich bezahlt wurde.
+ich habe das Schreiben der Gegenseite vom [[date|10. Juli]] erhalten. Die Vermieterin [[person|Todosia Dipl.-Ing. Lăcătuș]] verlangt die Räumung des Geschäftslokals in [[location|St. Pölten]] bis [[date|31. August]]. Ich verstehe nicht, warum wir auf einmal so kurzfristig räumen sollen, zumal die Miete immer pünktlich bezahlt wurde. Ich habe die Überweisungen der letzten zwei Jahre sortiert; die letzte Mietzahlung ist am [[date|02.07.2026]] eingegangen, die Juni-Miete war also rechtzeitig beglichen. Die Betriebskostenabrechnung 2025 habe ich nie erhalten, weder per Post noch per E-Mail. Falls die Vermieterin sie an das Lokal geschickt hat, müsste ich dort nachsehen, ob sie angekommen ist.
 
 Die Überweisungen laufen seit Jahren über das Konto [[bank_account|AT28 8063 7827 6346 8847]] der [[organization|Falkenstein e.U.]]. Wenn Sie die Zahlungsnachweise brauchen, kann ich sie Ihnen bis Freitag schicken.
 
@@ -30,7 +30,7 @@ Mit freundlichen Grüßen
 >
 > Mit freundlichen Grüßen
 > [[lawyer|Rickert Linemayr]]
-> Kanzlei Linemayr, [[address|2212 Großengersdorf]]
+> [[organization|Kanzlei Linemayr]], [[address|2212 Großengersdorf]]
 
 Von: [[lawyer|Mag. Konstantin Baharov]] <[[email|k.baharov@eibl.at]]>
 Gesendet: Dienstag, [[date|14. Juli 2026]] 17:20
@@ -58,7 +58,7 @@ meine Mandantin ist zu einem Vergleich bereit, wenn Herr [[person|Lang]] die Rü
 
 Mit freundlichen Grüßen
 [[lawyer|Rickert Linemayr]]
-Kanzlei Linemayr, [[address|2212 Großengersdorf]]
+[[organization|Kanzlei Linemayr]], [[address|2212 Großengersdorf]]
 
 > Von: [[lawyer|Mag. Konstantin Baharov]]
 > Gesendet: Mittwoch, [[date|15. Juli 2026]] 09:12
@@ -73,7 +73,7 @@ Betreff: AW: AW: Räumung Geschäftslokal [[location|St. Pölten]]
 
 Sehr geehrter Herr Kollege [[lawyer|Linemayr]],
 
-vielen Dank für Ihr Angebot. Die Zahlungsnachweise von Herrn [[person|Lang]] belegen, dass die Miete bis Juni vollständig beglichen wurde. Die Differenz betrifft offenbar nur die Betriebskostenabrechnung 2025. Wir bitten um eine detaillierte Aufstellung und um Bekanntgabe, ob die Vermieterin die Zahlungen der [[organization|Falkenstein]] anerkennt.
+vielen Dank für Ihr Angebot. Die Zahlungsnachweise von Herrn [[person|Lang]] belegen, dass die Miete bis Juni vollständig beglichen wurde. Die Differenz betrifft offenbar nur die Betriebskostenabrechnung 2025, deren Zugang Herr Lang bestreitet. Wir ersuchen daher um Übermittlung eines Zustellnachweises. Einen Termin für ein Gespräch in der kommenden Woche können wir Ihnen anbieten. Wir bitten um eine detaillierte Aufstellung und um Bekanntgabe, ob die Vermieterin die Zahlungen der [[organization|Falkenstein]] anerkennt.
 
 Mit freundlichen Grüßen
 

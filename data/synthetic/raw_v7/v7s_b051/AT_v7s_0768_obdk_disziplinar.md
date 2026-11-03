@@ -55,6 +55,10 @@ Datum | Vorgang | Betrag | Mandant | Treuhandnr.
 
 3.5. Der Senat hat ferner berücksichtigt, dass die Beschuldigte die Honorarentnahme nicht verschleiert hat. Die Bewegung ist im Kontoauszug offen ausgewiesen und wurde der Mandantin nach Abschluss mitgeteilt. Dies spricht gegen einen vorsätzlichen Verstoß.
 
+3.6. Bei der Strafbemessung hat der Senat die Unbescholtenheit der Beschuldigten, den Umstand der Rückerstattung und die Verfahrensdauer berücksichtigt. Erschwerend war die Verspätung der Abrechnung um mehr als sechs Monate. Der Senat sieht die herabgesetzte Geldbuße daher als ausreichend an, um der Beschuldigten das Unrecht ihres Verhaltens vor Augen zu führen.
+
+3.7. Der Senat hat ferner geprüft, ob die Mandantin durch die Verzögerung einen weiteren Schaden erlitten hat. Dies ist nicht der Fall, weil die Mandantin den Betrag nach Abschluss des Verfahrens vollständig erhalten hat. Die Beschuldigte hat daher keinen Vermögensnachteil zu verantworten, der über die festgestellte Pflichtverletzung hinausgeht.
+
 4. Kosten
 
 Die Kostenentscheidung beruht auf [[legal_norm|§ 66 DSt]]. Die Beschuldigte trägt die Kosten des Berufungsverfahrens zu einem Drittel, weil sie mit ihrem Berufungsbegehren hinsichtlich der Strafhöhe teilweise durchgedrungen ist.

@@ -25,7 +25,7 @@ Zum Nachlass gehört die Liegenschaft. Das Grundbuch weist folgende Eintragung a
 
 2. Bankguthaben
 
-Die Verstorbene unterhielt bei der [[organization|Sparkasse Taufkirchen an der Trattnach AG]] ein Girokonto mit dem Saldo von EUR 4.312,80 zum Todestag. Das Konto ist unter der Kd.-Nr. [[other_identifier|575432]] geführt. Die Kontoführung wurde nach dem Todesfall eingeschränkt.
+Die Verstorbene unterhielt bei der [[organization|Sparkasse Taufkirchen an der Trattnach AG]] ein Girokonto mit dem Saldo von EUR 4.312,80 zum Todestag. Das Konto ist unter der Kd.-Nr. [[other_identifier|575432]] geführt. Die IBAN des Kontos lautet [[bank_account|AT65 7899 2437 1397 9214]]. Die Kontoführung wurde nach dem Todesfall eingeschränkt.
 
 3. Lebensversicherung
 
@@ -57,6 +57,20 @@ Die Verstorbene hat mit dem Testament vom [[date|11. März 2019]] der [[person|E
 IV. Schulden
 
 Die Verstorbene hatte Verbindlichkeiten aus einem Kreditvertrag mit der [[organization|Sparkasse Taufkirchen an der Trattnach AG]] in Höhe von EUR 3.870,00. Die Begräbniskosten in Höhe von EUR 4.100,00 wurden von [[person|Nadezhda Burgstaller]] vorgeschossen und sind vorrangig zu befriedigen.
+
+VI. Sonstige Nachlassbestandteile
+
+5. Der Verstorbenen gehörte ein Pkw, dessen Schätzwert EUR 2.100,00 beträgt. Das Fahrzeug wurde von der Erbin [[person|Nadezhda Burgstaller]] übernommen und bis zur Einantwortung verwahrt. Die Kosten der Verwahrung trägt der Nachlass.
+
+6. Für die Verstorbene bestand eine Forderung gegen [[person|Matzella Steinwender]] aus einer Vorauszahlung für Pflegeleistungen in Höhe von EUR 1.200,00. Diese Forderung ist nach Auffassung des Notars verjährt, weil die Leistung seit mehr als drei Jahren nicht mehr erbracht wurde.
+
+7. Der Notar hat in der Wohnung in [[location|Wien]] einen Teil der Fahrnisse versiegelt. Die Versiegelung wurde am [[date|2. Februar 2023]] aufgehoben, nachdem die Erben die Liste der Gegenstände bestätigt hatten.
+
+VII. Stellungnahmen der Erben
+
+8. [[person|Ghozzi Jaffar]] hat schriftlich erklärt, er anerkenne die ihm zugedachte Quote. Er verlangt jedoch die Vorlage der Kontoauszüge für die Zeit vor dem Todesfall. [[person|Purić Nihat]] hat die Anerkennung nur unter dem Vorbehalt erklärt, dass die Begräbniskosten nicht aus dem Nachlass vorab bezahlt werden. Die [[person|Steinwender]] hat sich bisher nicht geäußert.
+
+9. Die Erbin [[person|Nadezhda Burgstaller]] hat die Belege über die Begräbniskosten vorgelegt. Die Belege sind mit den Rechnungen des Bestattungsunternehmens abgestimmt. Der Notar hat die Kosten daher als Nachlassverbindlichkeit anerkannt.
 
 V. Weiterer Verfahrensgang
 

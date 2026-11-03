@@ -8,14 +8,16 @@ Gesendet: [[date|02. März 2026]] 14:05
 An: [[person|Mayröcker]] <[[email|kanzlei@mayroecker.at]]>
 Betreff: Unfall vom [[date|19. Februar 2026]], Schaden an meinem Fahrzeug
 
-Sehr geehrte Frau Mayröcker,
+Sehr geehrte Frau [[person|Mayröcker]],
 
-wie besprochen sende ich Ihnen die Unterlagen zu meinem Unfall. Der Unfall ereignete sich auf der Landesstraße bei Gosdorf, als der Wagen von Herrn [[person|Széchényi]] mir von hinten in die Kreuzung hineinfuhr. Die Garage, in der das Fahrzeug über Nacht abgestellt war, steht auf dem Grundstück [[land_register_id|E.Z. 1705]] Grundbuch [[land_register_id|Gosdorf]]. Die Alpenländische Versicherungs AG ([[organization|ALV]]) hat den Schaden bisher nicht reguliert.
+wie besprochen sende ich Ihnen die Unterlagen zu meinem Unfall. Der Unfall ereignete sich auf der Landesstraße bei [[location|Gosdorf]], als der Wagen von Herrn [[person|Széchényi]] mir von hinten in die Kreuzung hineinfuhr. Die Garage, in der das Fahrzeug über Nacht abgestellt war, steht auf dem Grundstück [[land_register_id|E.Z. 1705]] Grundbuch [[land_register_id|Gosdorf]]. Die Alpenländische Versicherungs AG ([[organization|ALV]]) hat den Schaden bisher nicht reguliert.
 
-Die Schadennummer lautet Schaden-Nr. [[other_identifier|28/335547/20]]. Die Sachbearbeiterin der ALV hat mir zugesagt, sich bis Ende der Woche zu melden, bisher ist aber nichts eingegangen.
+Die Schadennummer lautet Schaden-Nr. [[other_identifier|28/335547/20]]. Die Sachbearbeiterin der [[organization|ALV]] hat mir zugesagt, sich bis Ende der Woche zu melden, bisher ist aber nichts eingegangen.
+
+Zusätzlich habe ich für die Zeit der Reparatur einen Mietwagen benötigt, für den ich bisher 740 Euro selbst bezahlt habe. Die Rechnung lege ich bei. Außerdem hat die Werkstatt eine Wertminderung festgestellt, die ich nicht selbst tragen möchte. Bitte geben Sie mir Bescheid, ob die ALV diese Positionen übernimmt.
 
 Mit freundlichen Grüßen
-Modeste Thomas
+[[person|Modeste Thomas]]
 
 Von: [[person|Sofie MMag. Thury]] <[[email|s.thury@alv-versicherung.at]]>
 Gesendet: [[date|04. März 2026]] 09:47
@@ -30,7 +32,7 @@ Ich bitte um Verständnis, dass wir die Zahlung erst nach Klärung vornehmen. Di
 
 Mit freundlichen Grüßen
 
-Sofie Thury
+[[person|Sofie Thury]]
 Sachbearbeitung Kfz-Schaden
 Tel. [[phone_number|0662 776113-7]]
 
@@ -58,7 +60,7 @@ Mit freundlichen Grüßen
 [[person|M A Y R Ö C K E R]]
 Rechtsanwältin
 
-Sendet mit freundlichen Grüßen von meinem Büro in Sulztal an der Weinstraße:
+Sendet mit freundlichen Grüßen von meinem Büro in [[location|Sulztal an der Weinstraße]]:
 [[address|8461 Sulztal an der Weinstraße]]
 
 R e c h t s a n w a l t

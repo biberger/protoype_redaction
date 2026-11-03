@@ -64,11 +64,14 @@ noch nicht vollständig vorlagen.
 
 Die Klägerin hat die Schadenshöhe anhand der Rechnungen des Sachverständigen berechnet, die im Zuge der
 Bauaufsicht von der [[organization|Salzburger Landesregierung]] geprüft wurden. Die Prüfberichte vom
-[[date|18.09.2020]] und vom [[date|02.12.2020]] stimmen in den Mängelpositionen überein. Der Mehraufwand für die
+[[date|18.09.2020]] und vom [[date|02.12.2020]] stimmen in den Mängelpositionen überein. Die Klägerin legt sie
+als Beilagen vor. Der Mehraufwand für die
 Sanierung der Bodenplatte beträgt EUR 14.200,00, die Verzögerungsschäden belaufen sich auf EUR 7.100,00. Die
 geltend gemachte Summe von EUR 21.300,00 entspricht dem Betrag, den die Klägerin als Überzahlung ausgewiesen hat.
 
-Die Beklagten haben sich gegenüber der Klägerin nicht auf eine Teilzahlung eingelassen. Die Zahlungsaufforderung
+Die Beklagten haben sich gegenüber der Klägerin nicht auf eine Teilzahlung eingelassen. Die Beklagte
+[[person|Schreyer]] hat lediglich mitgeteilt, dass sie die Abrechnungen nach Weisung des Erstbeklagten
+unterfertigt habe und keine eigene Prüfung vorgenommen habe. Die Einvernahme dazu wird beantragt. Die Zahlungsaufforderung
 vom [[date|13.10.2026]] blieb ohne Antwort.
 
 III. Beweise

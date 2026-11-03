@@ -27,7 +27,7 @@ I. Erbberechtigte
 2. Erbin ist [[person|Helena
 Heinzle]],
 *[[date_of_birth|11.02.1961]],
-zu einem Erbteil von 1/3. [[person|Heinzle]] ist die Lebensgefährtin des Erblassers und
+zu einem Erbteil von 1/3 aufgrund des Testaments. [[person|Heinzle]] ist die Lebensgefährtin des Erblassers und
 hat die Erbschaft unbedingt angenommen.
 
 3. Vermächtnisnehmerin ist:
@@ -53,7 +53,13 @@ Die Verbindlichkeiten des Verstorbenen betragen EUR 12.960,00. Die Begräbniskos
 
 Die Erbin [[person|Heinzle]] hat die Liegenschaft seit dem Tod des Erblassers verwaltet. Die Mieteinnahmen von EUR 430,00 monatlich sind auf das Verlassenschaftskonto zu überweisen.
 
-V. Ergebnis
+V. Testament und Pflichtteil
+
+Das Testament vom [[date|03.03.2019]] setzt die Erbin [[person|Strunz]] zu zwei Dritteln und die Lebensgefährtin [[person|Heinzle]] zu einem Drittel als Erbin ein; das Geldvermächtnis an [[person|Palm]] ist davon unabhängig. Pflichtteilsberechtigte Personen im Sinne des [[legal_norm|§ 762 ABGB]] sind nicht vorhanden, weshalb der Gerichtskommissär keinen Pflichtteil zu berechnen hatte.
+
+Die Gläubigerin [[person|Boteva]] hat ihre Forderung durch Vorlage eines Darlehensvertrages vom [[date|10.04.2022]] belegt. Der Vertrag sieht eine Rückzahlung in monatlichen Raten vor; die letzte Rate war am [[date|01.09.2023]] fällig und ist unbezahlt. Die Erbin [[person|Strunz]] hat die Forderung vorläufig anerkannt, den Betrag aber nicht bezahlt, weil die Liegenschaft zunächst zu verwerten ist.
+
+VI. Ergebnis
 
 Der Gerichtskommissär wird nach Bezahlung der Abhandlungsgebühren den Einantwortungsbeschluss beim [[court|Bezirksgericht Judenburg]] beantragen. Die Erbin [[person|Strunz]] hat die Erbantrittserklärung am [[date|27.10.2026]] abgegeben.
 

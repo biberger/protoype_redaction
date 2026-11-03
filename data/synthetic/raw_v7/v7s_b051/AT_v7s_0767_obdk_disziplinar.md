@@ -36,7 +36,7 @@ Begründung
 
 Die [[organization|Rechtsanwaltskammer Wien]] ([[organization|RAK]]) erhob am [[date|14. Jänner 2025]] die Anzeige gegen [[lawyer|Leos Drulák]]. Der Kammeranwalt [[person|Mag. Gunthard Fischbacher]] führte die Voruntersuchung durch und brachte die Anklageschrift ein. Der Beschuldigte bestritt den Vorwurf in seiner Stellungnahme vom [[date|3. März 2025]] nicht vollständig, machte aber geltend, die Beträge seien zur Begleichung von Honorarforderungen bestimmt gewesen.
 
-Der Beschuldigte betreibt eine Einzelkanzlei in [[location|Wien]]. Die Kanzlei ist unter der Telefonnummer [[phone_number|02742 430907-16]] erreichbar. Die Vollmacht des Klienten wurde vom Beschuldigten nicht schriftlich bestätigt.
+Der Beschuldigte betreibt eine Einzelkanzlei in [[location|Wien]]. Die Kanzlei ist unter Tel. [[phone_number|02742 430907-16]] erreichbar. Die Vollmacht des Klienten wurde vom Beschuldigten nicht schriftlich bestätigt.
 
 2. Sachverhalt
 
@@ -66,6 +66,10 @@ Datum | Vorgang | Betrag | Mandant | Treuhandnr.
 3.3. Der Beschuldigte hat den Vorwurf teilweise eingestanden. Dies wirkt mildernd. Erschwerend wirkt die Dauer des Verstoßes von rund vierzehn Monaten.
 
 3.4. Der Senat hat ferner berücksichtigt, dass der Beschuldigte die Bewegungsliste im Verfahren nicht vollständig vorgelegt hat. Die fehlenden Buchungen wurden erst nach Aufforderung durch den Kammeranwalt nachgereicht. Dies ist als Mangel der Mitwirkung zu werten, zumal der Beschuldigte als Kanzleiinhaber über die Buchhaltung verfügt.
+
+3.5. Der Beschuldigte hat weiters behauptet, ein Systemfehler der Kanzleisoftware habe die Buchungen verursacht. Der Senat folgt dieser Behauptung nicht. Die Buchungsbestätigungen weisen den Beschuldigten als freigebende Person aus, und eine interne Kontrolle nach dem Vier-Augen-Prinzip bestand in der Kanzlei nicht.
+
+3.6. Die Honorarforderung selbst hat der Senat nicht in Zweifel gezogen. Der Beschuldigte hätte sie jedoch durch eine Honorarnote geltend machen und den Betrag erst nach deren Zustellung entnehmen müssen. Gerade das Fehlen der Abrechnung wiegt schwer, weil die Mandanten dadurch die Höhe des Honorars nicht prüfen konnten. Dass die Honorarforderung berechtigt war, ändert nichts an der Verletzung der Verwahrungspflicht.
 
 4. Strafbemessung
 

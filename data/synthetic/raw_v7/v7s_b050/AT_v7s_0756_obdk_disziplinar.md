@@ -51,7 +51,7 @@ Die Berufung rügt außerdem, der Disziplinarrat habe den Zeugen [[person|Aloys 
 
 4. Kosten
 
-Die Kosten des Berufungsverfahrens trägt die Beschuldigte [[lawyer|Ener]] im Ausmaß von zwei Dritteln. Die Kosten für das Verfahren vor dem Disziplinarrat bleiben unverändert. Die Beschuldigte [[lawyer|Ener]] hat die Berufungsgebühr innerhalb von zwei Wochen nach Zustellung zu entrichten. Ein Antrag auf Ratenzahlung wurde nicht gestellt. Die Kosten für die Zustellung des Erkenntnisses trägt die Kammer. Der Vorsitzende hat die Parteien darauf hingewiesen, dass die Entscheidung der [[court|OBDK]] endgültig ist, soweit sie den Schuldspruch betrifft.
+Die Kosten des Berufungsverfahrens trägt die Beschuldigte [[lawyer|Ener]] im Ausmaß von zwei Dritteln. Die Kosten für das Verfahren vor dem Disziplinarrat bleiben unverändert. Die Beschuldigte [[lawyer|Ener]] hat die Berufungsgebühr innerhalb von zwei Wochen nach Zustellung zu entrichten. Ein Antrag auf Ratenzahlung wurde nicht gestellt. Die Kosten für die Zustellung des Erkenntnisses trägt die Kammer. Die Kammer sieht von einer Kostenersatzpflicht des Mandanten ab. Der Vorsitzende hat die Parteien darauf hingewiesen, dass die Entscheidung der [[court|OBDK]] endgültig ist, soweit sie den Schuldspruch betrifft.
 
 Ausgefertigt am [[date|29.04.2026]] in [[location|Wien]].
 

@@ -59,13 +59,13 @@ DATUM        VORGANG                        BETRAG IN EUR     MANDANT / VERWEIS
 [[date|30. Mai 2025]]   Auszahlung an Mandantin      -5.600,00         [[person|Mock]], TH-Nr. [[other_identifier|2024/534]]
 [[date|12. Juni 2025]]   Auszahlung an Mandantin     -6.800,00         [[person|Drago]], TH-Nr. [[other_identifier|2026/621]]
 
-Am [[date|18. April 2025]] wurden 4.000 Euro vom Akt der Mandantin [[person|Drago]] auf den Akt der Mandantin [[person|Mock]] umgebucht. Eine schriftliche Weisung der Mandantin [[person|Drago]] lag nicht vor. Der Beschuldigte [[lawyer|Seitz]] gab an, die Mandantinnen hätten sich mündlich über die Verteilung verständigt. Die Mandantin [[person|Drago]] hat dies in ihrer Stellungnahme bestritten. Der Beschuldigte [[lawyer|Seitz]] legte eine handschriftliche Notiz vor, die er nach eigener Angabe am [[date|18. April 2025]] angefertigt hatte. Die Notiz ist in Teilen undatiert und trägt keine Unterschrift der Mandantin [[person|Drago]]. Der Senat misst ihr deshalb keinen Beweiswert bei.
+Am [[date|18. April 2025]] wurden 4.000 Euro vom Akt der Mandantin [[person|Drago]] auf den Akt der Mandantin [[person|Mock]] umgebucht. Eine schriftliche Weisung der Mandantin [[person|Drago]] lag nicht vor. Der Beschuldigte [[lawyer|Seitz]] gab an, die Mandantinnen hätten sich mündlich über die Verteilung verständigt. Die Mandantin [[person|Drago]] hat dies in ihrer Stellungnahme bestritten. Der Beschuldigte [[lawyer|Seitz]] legte eine handschriftliche Notiz vor, die er nach eigener Angabe am [[date|18. April 2025]] angefertigt hatte. Die Notiz ist in Teilen undatiert und trägt keine Unterschrift der Mandantin [[person|Drago]]. Der Senat misst ihr deshalb keinen Beweiswert bei. Der Beschuldigte [[lawyer|Seitz]] konnte auch nicht erklären, warum die Notiz erst im Verfahren vorgelegt wurde, obwohl sie nach seinen Angaben bereits im April 2025 entstanden sein soll.
 
 3. Beweiswürdigung
 
-Der Senat stützt die Feststellungen auf die Kontoauszüge, die Übersicht der Kammer und die Stellungnahmen der Mandantinnen. Die Angaben des Beschuldigten [[lawyer|Seitz]] zur mündlichen Verständigung sind nicht belegt. Die Angaben der Mandantin [[person|Drago]] werden durch den Schriftverkehr gestützt. Aus dem Schreiben der Mandantin vom [[date|25.06.2025]] geht hervor, dass sie um eine Abrechnung ihres Anteils gebeten hatte und die Umbuchung nicht gebilligt habe.
+Der Senat stützt die Feststellungen auf die Kontoauszüge, die Übersicht der Kammer und die Stellungnahmen der Mandantinnen. Die Angaben des Beschuldigten [[lawyer|Seitz]] zur mündlichen Verständigung sind nicht belegt. Dass die Verständigung nach seinen Angaben nur telefonisch erfolgte, spricht gegen eine verlässliche Abrede bei Beträgen dieser Größe. Die Angaben der Mandantin [[person|Drago]] werden durch den Schriftverkehr gestützt. Aus dem Schreiben der Mandantin vom [[date|25.06.2025]] geht hervor, dass sie um eine Abrechnung ihres Anteils gebeten hatte und die Umbuchung nicht gebilligt habe.
 
-Die Schriftführerin [[person|Luftensteiner]] hat das Protokoll geführt. Ihre Angaben decken sich mit den Akten.
+Die Schriftführerin [[person|Luftensteiner]] hat das Protokoll geführt. Ihre Angaben decken sich mit den Akten. Die Sitzung wurde um 11:15 Uhr für 20 Minuten unterbrochen, damit der Beschuldigte [[lawyer|Seitz]] seine Unterlagen ordnen konnte.
 
 4. Rechtliche Beurteilung
 
@@ -77,7 +77,7 @@ Die Beisitzerin [[judge|Jablonska]] betonte, dass die wiederholte Verwendung der
 
 5. Strafbemessung
 
-Mildernd wirkte, dass der Beschuldigte [[lawyer|Seitz]] die Umbuchung nach Aufforderung zurücknahm. Erschwerend war die Verwendung einer falschen Treuhandnummer. Der Senat wertet außerdem die Dauer der Verzögerung bei der Rückbuchung als erschwerend, weil die Mandantin [[person|Drago]] über fast zwei Monate ohne Auskunft blieb. Der Vorsitzende [[judge|Xiao]] hält eine Geldbuße von 2.800 Euro für angemessen. Die Kosten des Verfahrens belaufen sich auf 650 Euro und sind binnen vier Wochen zu bezahlen. Der Kammeranwalt [[person|Dr. Dodig]] hatte 3.500 Euro beantragt.
+Mildernd wirkte, dass der Beschuldigte [[lawyer|Seitz]] die Umbuchung nach Aufforderung zurücknahm. Die bisherige Unbescholtenheit des Beschuldigten wurde berücksichtigt, ebenso die Tatsache, dass er die Mandantin [[person|Drago]] später um Entschuldigung bat. Erschwerend war die Verwendung einer falschen Treuhandnummer. Der Senat wertet außerdem die Dauer der Verzögerung bei der Rückbuchung als erschwerend, weil die Mandantin [[person|Drago]] über fast zwei Monate ohne Auskunft blieb. Die Kammer berücksichtigt zudem, dass der Beschuldigte die Verfahrenskosten nicht sogleich zu tragen bereit war, sondern erst nach einer Mahnung der Kammer. Der Vorsitzende [[judge|Xiao]] hält eine Geldbuße von 2.800 Euro für angemessen. Die Kosten des Verfahrens belaufen sich auf 650 Euro und sind binnen vier Wochen zu bezahlen. Die Kammer weist darauf hin, dass die Kosten bei einer Berufung nicht erstattet werden, sofern das Rechtsmittel keinen Erfolg hat. Der Kammeranwalt [[person|Dr. Dodig]] hatte 3.500 Euro beantragt.
 
 6. Rechtsmittel
 

@@ -26,7 +26,7 @@ Lfd. | Name | Geburtsdatum | Dokument | Kennzeichen | Versicherung
 
 Sachverhalt:
 
-Am [[date|18. September 2026]] gegen 07:42 Uhr befuhr der Lenker des Fahrzeuges mit dem Kennzeichen [[license_plate|LA-31O]], Herr [[person|Stankovic]], die Landesstraße in Richtung Zeillern. Bei der Kreuzung mit dem Gemeindeweg kollidierte er mit dem Fahrzeug von Frau [[person|Szentesi]]. Die Lenkerin gab an, sie habe den Vorrang gehabt und sei bereits im Kreuzungsbereich gewesen, als das Fahrzeug von [[person|Stankovic]] von links einbog.
+Am [[date|18. September 2026]] gegen 07:42 Uhr befuhr der Lenker des Fahrzeuges mit dem Kennzeichen [[license_plate|LA-31O]], Herr [[person|Stankovic]], die Landesstraße in Richtung [[location|Zeillern]]. Bei der Kreuzung mit dem Gemeindeweg kollidierte er mit dem Fahrzeug von Frau [[person|Szentesi]]. Die Lenkerin gab an, sie habe den Vorrang gehabt und sei bereits im Kreuzungsbereich gewesen, als das Fahrzeug von [[person|Stankovic]] von links einbog.
 
 Herr [[person|Marksteiner]] befand sich als Beifahrer im Fahrzeug von Frau [[person|Szentesi]] und wurde leicht verletzt. Er wurde durch den Rettungsdienst versorgt und lehnte eine Einlieferung ins Krankenhaus ab. Herr [[person|Eringa]] war Fahrgast im Fahrzeug von Herrn [[person|Dichand]] und blieb unverletzt.
 
@@ -35,6 +35,8 @@ An den Fahrzeugen entstand Sachschaden. Die Polizeiinspektion nahm die Unfallste
 Zeugen: Eine Passantin, Frau [[person|Eva Pfeifer]], gab an, das Fahrzeug von [[person|Stankovic]] sei mit überhöhter Geschwindigkeit gekommen. Ihre Angaben sind nicht eindeutig, weil sie den Zusammenstoß selbst nicht beobachtete.
 
 Beweissicherung: Lichtbilder der Unfallstelle wurden durch GrInsp. [[person|Hauswirth]] angefertigt. Die Spurenlage wurde nach den Angaben von Insp. [[person|Gallhofer]] dokumentiert.
+
+Die Fahrzeuge waren zum Zeitpunkt des Unfalls ordnungsgemäß zugelassen. Der Lenker des Fahrzeuges mit dem Kennzeichen [[license_plate|LA-31O]] gab an, er sei durch die tiefstehende Sonne geblendet worden und habe den Vorrang der Lenkerin nicht rechtzeitig erkannt. Die Lenkerin des anderen Fahrzeuges bestätigte dies nicht. Die Frage, ob ein Vorrang bestand, wird im Zivilverfahren zu klären sein.
 
 Die Anzeige wird an die Bezirkshauptmannschaft übermittelt. Eine Mitteilung an die Versicherungen erfolgt durch die Beteiligten selbst.
 

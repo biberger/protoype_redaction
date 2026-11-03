@@ -57,6 +57,18 @@ Die Mieter erlegen eine Kaution in Höhe von drei Bruttomonatsmieten. Die Kautio
 
 (2) Die Vermieterin oder ihr Beauftragter darf nach vorheriger Ankündigung die Räume betreten, insbesondere zur Wartung der Heizungsanlage.
 
+§ 5a Instandhaltung
+
+(1) Die Instandhaltung der Heizungsanlage und der Dachrinnen obliegt der Vermieterin. Kleinreparaturen bis EUR 100,00 je Fall trägt der Mieter.
+
+(2) Die Mieter haben Schäden an der Wohnung oder dem Geschäftslokal unverzüglich der [[organization|Hoke]] anzuzeigen. Die Schadensanzeige hat schriftlich zu erfolgen.
+
+§ 5b Betriebskosten
+
+(1) Die Betriebskosten werden jährlich abgerechnet. Die Abrechnung ist den Mietern bis zum 30. Juni des Folgejahres zu übermitteln.
+
+(2) Die Vorauszahlung für Betriebskosten beträgt EUR 210,00 monatlich für die Wohnung und EUR 340,00 für das Geschäftslokal.
+
 § 6 Schlussbestimmungen
 
 (1) Dieser Vertrag unterliegt dem [[legal_norm|MRG]], soweit er auf die Wohnung anwendbar ist, im Übrigen dem [[legal_norm|ABGB]].

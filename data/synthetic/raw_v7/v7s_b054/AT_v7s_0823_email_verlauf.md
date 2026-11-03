@@ -15,18 +15,18 @@ ERV-Code: [[other_identifier|P569184]]
 Von: [[person|Aygün Eskicioglu]] <[[email|a.eskicioglu@wertheimer-handel.example.at]]>
 Gesendet: Montag, [[date|12.10.2026]] 08:21
 An: [[lawyer|Friesacher]] <[[email|friesacher@zellnig.at]]>
-Betreff: Wasserschaden Lager Lechaschau, GZ der Kanzlei
+Betreff: Wasserschaden Lager [[location|Lechaschau]], GZ der Kanzlei
 
 Sehr geehrter Herr [[lawyer|Friesacher]],
 
 am [[date|03.10.2026]] ist in unserem Lager in [[address|6600 Lechaschau]] ein Rohrbruch aufgetreten. Die Ware im Wert von rund EUR 31.000,00 ist beschädigt. Herr [[person|Apollinairs Hanusch]] hat den Schaden als Erster bemerkt und die Hauptleitung abgesperrt.
 
-Die [[organization|Wertheimer Handels GmbH]] hat den Schaden bereits am [[date|05.10.2026]] der Versicherung gemeldet. Die Schadennummer lautet Schadennummer [[other_identifier|66/648901/24]]; laut Anfrage ist der Schaden aber noch nicht reguliert. Die Ware wurde am [[date|01.10.2026]] aus [[location|St. Anton am Arlberg]] angeliefert und im Lager zwischengelagert.
+Die [[organization|Wertheimer Handels GmbH]] hat den Schaden bereits am [[date|05.10.2026]] der Versicherung gemeldet. Die Meldung ist unter Schadennummer [[other_identifier|66/648901/24]] erfasst; laut Anfrage ist der Schaden aber noch nicht reguliert. Die Ware wurde am [[date|01.10.2026]] aus [[location|St. Anton am Arlberg]] angeliefert und im Lager zwischengelagert.
 
-Bitte übernehmen Sie die Vertretung gegenüber der Versicherung. Unsere Unterlagen finden Sie im Anhang.
+Bitte übernehmen Sie die Vertretung gegenüber der Versicherung. Unsere Unterlagen finden Sie im Anhang, darunter die Lieferscheine, die Fotos der Lagerfläche und die Aufstellung der beschädigten Waren.
 
 Mit freundlichen Grüßen
-Aygün Eskicioglu
+[[person|Aygün Eskicioglu]]
 Geschäftsführerin
 
 > Von: [[lawyer|Friesacher]] <[[email|friesacher@zellnig.at]]>
@@ -43,7 +43,7 @@ Von: [[person|Farhan Umran]] <[[email|f.umran@gvo-schaden.example.at]]>
 Gesendet: Dienstag, [[date|20.10.2026]] 11:44
 An: [[lawyer|Friesacher]]
 Cc: [[person|Aygün Eskicioglu]]
-Betreff: AW: Wasserschaden Lager Lechaschau, GZ der Kanzlei: [[other_identifier|G-GEskicioglu/Theimer]]
+Betreff: AW: Wasserschaden Lager [[location|Lechaschau]], GZ der Kanzlei: [[other_identifier|G-GEskicioglu/Theimer]]
 
 Sehr geehrter Herr [[lawyer|Friesacher]],
 
@@ -70,7 +70,7 @@ Betreff: AW: Schaden-Nr. [[other_identifier|45/224444/21]]
 
 Sehr geehrter Herr [[person|Umran]],
 
-wir bestreiten die Wartungspflicht nicht, verweisen aber auf die Gutachten der [[organization|GVO]] selbst, die die Hauptleitung im Jahr 2024 als unbedenklich eingestuft haben. Die Wertheimer Handels hält die Kürzung daher für unbegründet.
+wir bestreiten die Wartungspflicht nicht, verweisen aber auf die Gutachten der [[organization|GVO]] selbst, die die Hauptleitung im Jahr 2024 als unbedenklich eingestuft haben. Die Wertheimer Handels hält die Kürzung daher für unbegründet. Die Kürzung um mehr als die Hälfte des Schadens ist durch keine Feststellung im Gutachten gedeckt.
 
 Die Sache wird beim [[court|Landesgericht Linz]] anhängig gemacht, sofern die [[organization|GVO]] nicht bis [[date|30.10.2026]] anerkennt. Die Klage wird unter dem Aktenzeichen des [[court|LG Linz]] geführt; eine Kopie des Gutachtens der [[organization|GVO]] vom [[date|14.10.2026]] liegt bei.
 

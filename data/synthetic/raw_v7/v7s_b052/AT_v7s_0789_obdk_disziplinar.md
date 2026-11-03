@@ -73,7 +73,8 @@ Gericht eingelangt ist, die Buchung in der Treuhandbuchhaltung jedoch fehlt.
 Der Beisitzer [[person|Alojz Mühl]] merkte an, dass die Beschuldigte ihre Buchhaltung ohne Hilfe führt und
 dies die Fehler möglicherweise erklärt. Die Schriftführerin hat die Stellungnahmen protokolliert.
 
-Die Gesellschafter der [[organization|Wodak Handels GmbH]] wurden als Zeugen gehört. Sie bestätigten übereinstimmend,
+Die Gesellschafter der [[organization|Wodak Handels GmbH]] wurden als Zeugen gehört und haben die Sachverhalte
+übereinstimmend geschildert. Sie bestätigten übereinstimmend,
 dass keine Honorarvereinbarung getroffen wurde, die eine Entnahme vom Treuhandkonto gerechtfertigt hätte.
 
 4. Rechtliche Beurteilung
@@ -95,7 +96,8 @@ Vorbringen geprüft, konnte jedoch keine Zustimmung der Gesellschaft in den Unte
 
 4b. Ergebnis
 
-Der Disziplinarrat hält die Vorwürfe für erwiesen. Die Entnahme des Honorars ohne Abrechnung und die verspätete
+Der Disziplinarrat hält die Vorwürfe nach Durchführung der Beweisaufnahme für erwiesen. Die Beweiswürdigung
+stützt sich auf die Urkunden und die übereinstimmenden Zeugenaussagen. Die Entnahme des Honorars ohne Abrechnung und die verspätete
 Verbuchung der Zahlung an das Gericht sind Pflichtverletzungen, die eine Disziplinarstrafe rechtfertigen.
 
 5. Kosten

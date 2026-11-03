@@ -15,7 +15,7 @@ die Vormerkung zugunsten von [[person|Gaston Mack]] *[[date_of_birth|2004-04-15]
 
 Die [[organization|Galtürer Liegenschaftsverwaltung GmbH]] ([[organization|GLV]]) bleibt bis zur Übergabe Eigentümerin der Grundstücke. Die [[organization|GLV]] hat bestätigt, dass der Kaufpreis erst nach der Eintragung ausbezahlt wird. Die Notarin [[lawyer|Zeman]] hat zudem angekündigt, die Treuhandabwicklung über das Anderkonto ihrer Kanzlei abzuwickeln.
 
-Ich bitte Sie, mir die Unterlagen zur Vormerkung bis [[date|30.10.2026]] zu übermitteln.
+Ich bitte Sie, mir die Unterlagen zur Vormerkung bis [[date|30.10.2026]] zu übermitteln. Für Rückfragen stehe ich Ihnen gerne zur Verfügung.
 
 Mit freundlichen Grüßen
 

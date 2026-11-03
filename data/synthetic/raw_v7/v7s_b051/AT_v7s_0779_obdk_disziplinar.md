@@ -28,7 +28,7 @@ Begründung
 
 1. Gang des Verfahrens
 
-Die Anzeige wurde von [[person|Leies Koenig]] erstattet, nachdem er über eine Verzögerung bei der Auszahlung eines Treuhanderlags informiert worden war. [[person|Burghardt Tschofenig]] schloss sich der Anzeige an. Die Kammeranwältin [[person|MMag. Karolin Frischauf]] erhob die Anklage, die Beschuldigte erstattete eine Stellungnahme.
+Die Anzeige wurde von [[person|Leies Koenig]] erstattet, nachdem er über eine Verzögerung bei der Auszahlung eines Treuhanderlags informiert worden war. [[person|Burghardt Tschofenig]] schloss sich der Anzeige an. Die Kammeranwältin [[person|MMag. Karolin Frischauf]] erhob die Anklage, die Beschuldigte erstattete eine Stellungnahme. Die Kanzlei der Beschuldigten ist unter Tel. [[phone_number|0512 384748 Durchwahl 91]] erreichbar.
 
 Die [[organization|Steiermärkische Rechtsanwaltskammer]] ([[organization|StRAK]]) hatte die Anzeige zunächst zur Vorprüfung erhalten. Die [[organization|StRAK]] legte dem Disziplinarrat sodann eine Aufstellung über die Treuhandkonten der Beschuldigten vor.
 
@@ -52,6 +52,8 @@ Datum | Vorgang | Betrag | Mandant | Treuhandnr.
 
 2.5. Der Mandant [[person|Burghardt Tschofenig]] wohnt in [[location|Graz]]. Der Mandant [[person|Leies Koenig]] ist Gesellschafter einer Liegenschaftsverwaltung in [[location|Bruck an der Mur]].
 
+2.6. Der Mandant [[person|Burghardt Tschofenig]] hat die Beschuldigte am [[date|3. Februar 2025]] schriftlich aufgefordert, den Stand des Treuhandkontos mitzuteilen. Die Beschuldigte antwortete am [[date|17. Februar 2025]], ohne den Kontostand anzugeben. Eine Abrechnung wurde auch auf eine zweite Aufforderung nicht übermittelt.
+
 3. Rechtliche Beurteilung
 
 3.1. Die Pflicht zur getrennten und vertragsgemäßen Verwahrung fremder Gelder ergibt sich aus [[legal_norm|§ 43a Abs 3 RAO]] und den Richtlinien für die Ausübung des Anwaltsberufs ([[legal_norm|RL-BA]]). Eine Entnahme ohne Abrechnung verletzt diese Pflicht unabhängig davon, ob ein Honoraranspruch besteht.
@@ -60,6 +62,12 @@ Datum | Vorgang | Betrag | Mandant | Treuhandnr.
 
 3.3. Die Rückzahlung des Vorschusses an [[person|Leies Koenig]] erfolgte erst nach der Anzeige. Sie wirkt nur eingeschränkt mildernd.
 
+3.4. Der Senat hat berücksichtigt, dass die Beschuldigte im Verfahren zwar die Auszahlung eingeräumt, die Verantwortung für die Verzögerung jedoch den Mitarbeitern der Kanzlei zugeschrieben hat. Für die Organisation der Kanzlei ist die Rechtsanwältin selbst verantwortlich.
+
+3.5. Die Dauer der Verwahrung des Restbetrags von rund sieben Monaten ist für den Senat ein wesentlicher Gesichtspunkt. Die Mandanten mussten über einen längeren Zeitraum auf die Auszahlung warten, ohne dass ihnen eine Abrechnung übermittelt wurde.
+
+3.6. Der Senat hat die Grundsätze der Strafzumessung beachtet. Die verhängte Geldbuße liegt im unteren Drittel des Rahmens, weil die Beschuldigte bisher nicht disziplinär aufgefallen ist und den Schaden der Mandanten ausgeglichen hat.
+
 4. Strafbemessung
 
 Die Geldbuße berücksichtigt die Zahl der Verstöße und die Dauer der Verzögerung. Mildernd war, dass die Beschuldigte die Verfehlungen teilweise einräumte. Ein Berufsverbot wurde nicht verhängt.
@@ -67,6 +75,14 @@ Die Geldbuße berücksichtigt die Zahl der Verstöße und die Dauer der Verzöge
 5. Kosten und Rechtsmittel
 
 Die Kostenentscheidung beruht auf [[legal_norm|§ 66 DSt]]. Gegen diese Entscheidung ist die Berufung an die [[court|OBDK]] zulässig.
+
+6. Verfahrensdauer und Anhörung
+
+Das Verfahren dauerte von der Anzeige bis zur Entscheidung rund ein Jahr. Die Verzögerung ist teilweise auf die Erkrankung der Kammeranwältin und auf die Beischaffung der Kontoauszüge zurückzuführen. Der Senat hat die Beschuldigte und die Anzeigenden angehört, wobei [[person|Leies Koenig]] die Verzögerung als besonders belastend geschildert hat.
+
+7. Kostenentscheidung
+
+Die Kosten des Verfahrens sind der Beschuldigten aufzuerlegen, weil sie unterlegen ist. Die Kosten der Anzeigenden sind nicht zu ersetzen.
 
 [[location|Graz]], am [[date|30. Juni 2026]]
 

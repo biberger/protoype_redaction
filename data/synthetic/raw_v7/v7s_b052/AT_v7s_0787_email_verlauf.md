@@ -20,6 +20,12 @@ Ferner ersuchen wir um Bestätigung, dass die [[organization|Klapsia]] bis zur F
 weiteren Zahlungen an Dritte leistet. Eine Zahlung von EUR 12.000,00 ist nach unserer Einschätzung nur dann
 angemessen, wenn die Herstellung der Zufahrt durch einen Bauunternehmer verbindlich zugesagt wird.
 
+Bitte bestätigen Sie mir außerdem bis Ende der Woche, ob Sie die Bauunterlagen der Gemeinde angefordert haben.
+Die Einsicht in den Bauakt ist kostenpflichtig; die Gebühr wird von der [[organization|Klapsia GmbH]] getragen und
+kann in der nächsten Honorarnote berücksichtigt werden.
+Ich bitte Sie außerdem, den Termin mit dem Gegenanwalt [[person|Gady]] für die Woche nach dem [[date|09.11.2026]]
+zu vereinbaren, sofern Sie bis dahin keine Rückmeldung von Ihrer Mandantin haben.
+
 Mit freundlichen Grüßen
 
 Rechtsanwälte OG
@@ -40,7 +46,8 @@ Am [[date|22.10.2026]] um 16:42 schrieb [[person|Richard Brandner]]:
 > [[organization|Klapsia GmbH]] hat den Bauplatz in [[location|St. Gilgen]] im Vertrauen auf die Zusage
 > der Gegenseite erworben, dass die Zufahrt bis zum Frühjahr 2026 fertiggestellt wird.
 >
-> Die Zufahrt ist seit dem Frühjahr nicht benutzbar. Unsere Lieferanten haben mehrere Termine verschoben, und
+> Die Zufahrt ist seit dem Frühjahr nicht benutzbar. Die Gemeinde hat die Baugenehmigung für den Zufahrtsbereich
+> im Juli erneut bestätigt, sodass der Mangel nicht auf eine fehlende Genehmigung zurückzuführen ist. Unsere Lieferanten haben mehrere Termine verschoben, und
 > wir mussten die Auslieferung einer Charge Baumaterial nach einem anderen Standort umleiten. Dadurch sind
 > Mehrkosten von rund EUR 4.300,00 entstanden, die ich nicht als Vergleichsposition akzeptieren kann.
 >

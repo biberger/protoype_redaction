@@ -33,7 +33,9 @@ Zwischensumme netto: 1.295,00
 USt 20 %: 259,00
 Gesamtbetrag brutto: 1.554,00
 
-Die Zahlung ist bis [[date|12.11.2026]] auf das Konto mit der IBAN [[bank_account|AT19 2488 2593 4344 3977]] zu leisten. Bitte geben Sie als Verwendungszweck die Kl.-Nr. [[other_identifier|43763]] an.
+Die Umsatzsteuer wird gesondert ausgewiesen; die Kanzlei ist zum Vorsteuerabzug berechtigt, sodass die Umsatzsteuer nicht im Aufwand der Klientin enthalten ist, sofern sie unternehmerisch tätig ist.
+
+Die Zahlung ist bis [[date|02.11.2026]] auf das Konto mit der IBAN [[bank_account|AT19 2488 2593 4344 3977]] zu leisten. Bitte geben Sie als Verwendungszweck die Kl.-Nr. [[other_identifier|43763]] an.
 
 Die Honorarsätze entsprechen der Honorarvereinbarung vom [[date|06.07.2026]]. Die Auslagen für Porto und Kopien sind mit einer Pauschale von 4 % des Honorars enthalten. Für die Vertretung im arbeitsrechtlichen Verfahren, das wir gegebenenfalls einleiten, wird eine gesonderte Honorarnote gelegt, sobald die Klage eingebracht ist und das Gericht einen Termin bestimmt hat.
 
@@ -42,4 +44,4 @@ Mit freundlichen Grüßen
 Rechtsanwälte GmbH
 [[organization|Troger & Feiner]]
 
-EINGANG BESTÄTIGT AM [[date|03.11.2026]] – ZAHLER [[person|JELA IBRIŠIMOVIĆ]] – KL.-NR. [[other_identifier|43763]] – KONTO KANZLEI [[organization|TROGER & FEINER]]
+EINGANG BESTÄTIGT AM [[date|02.11.2026]] – ZAHLER [[person|JELA IBRIŠIMOVIĆ]] – KL.-NR. [[other_identifier|43763]] – KONTO KANZLEI [[organization|TROGER & FEINER]]

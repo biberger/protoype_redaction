@@ -41,7 +41,7 @@ Datum | Vorgang | Betrag EUR | Klientin
 [[date|02.06.2021]] | Gebührennote, nicht genehmigt | 2.150,00 | [[person|Irina Schroth]]
 [[date|11.11.2022]] | Überweisung ohne Verwendungszweck | 1.250,00 | [[person|Pamina Gritsch]]
 
-Die Klientin [[person|Schroth]] hat am [[date|19.07.2023]] bei der Kammer Beschwerde erhoben. Der Beschuldigte rechtfertigte sich, dass er die Gebührennote mit der Klientin mündlich vereinbart habe. Eine schriftliche Vereinbarung liegt nicht vor.
+Die Klientin [[person|Schroth]] hat am [[date|19.07.2023]] bei der Kammer Beschwerde erhoben. Der Beschuldigte rechtfertigte sich, dass er die Gebührennote mit der Klientin mündlich vereinbart habe. Eine schriftliche Vereinbarung liegt nicht vor. Die Gebührennote vom [[date|02.06.2021]] wurde der Klientin erst nach Ablauf von acht Monaten übermittelt, obwohl der Beschuldigte die Arbeiten im Herbst 2020 abgeschlossen hatte. Die Klientin hat die Note nie anerkannt und die Zahlung im Verfahren ausdrücklich bestritten.
 
 Die Klientin [[person|Pamina Gritsch]] übergab dem Beschuldigten einen Betrag von EUR 1.250,00, der unter Treuhandbuch-Nr. [[other_identifier|2019/558]] erfasst wurde. Die Auszahlung erfolgte am [[date|11.11.2022]] ohne Verwendungszweck. [[person|Gritsch]] hat ihre Zustimmung zu dieser Überweisung nicht erteilt.
 

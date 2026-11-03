@@ -45,9 +45,13 @@ Barauslagen (Gerichtsgebühr, Porto) | 186,40
 20 % USt. | 489,00
 Gesamtbetrag | 3.120,40
 
-Der Gesamtbetrag ist binnen 14 Tagen ab Rechnungsdatum auf das Konto der Kanzlei zu überweisen. Bitte geben Sie bei der Überweisung die Honorarnote-Nr. 2026/0412 und das Aktenzeichen [[other_identifier|366/20 HAL]] an.
+Die Vergleichsverhandlungen vom [[date|06.10.2026]] sind in dieser Note noch nicht als Erfolg zu verbuchen; ein Erfolgshonorar wurde nicht vereinbart. Der Gesamtbetrag ist binnen 14 Tagen ab Rechnungsdatum auf das Konto der Kanzlei zu überweisen. Bitte geben Sie bei der Überweisung die Honorarnote-Nr. 2026/0412 und das Aktenzeichen [[other_identifier|366/20 HAL]] an.
 
-Zahlbar auf IBAN [[bank_account|AT64 4749 1777 8501 9592]] bei der Volksbank Oetz.
+Zahlbar auf IBAN [[bank_account|AT64 4749 1777 8501 9592]] bei der [[organization|Volksbank Oetz]].
+
+Die Stundensätze für die Bearbeitung betragen für den Partner EUR 320,00 und für Mitarbeiter EUR 140,00 netto je Stunde. Die Position vom [[date|14.09.2026]] enthält zusätzlich zwei Stunden Wartezeit bei Gericht, die nach dem Kilometergeld nicht gesondert verrechnet werden. Die Auslagen für Kopien und Porto sind in den Barauslagen enthalten und nicht umsatzsteuerpflichtig.
+
+Der Mandant [[person|Ubertino Calamai]] hat um Aufteilung der Honorarnote in zwei Teilrechnungen gebeten; dem kommen wir mit dieser Teilrechnung für die Leistungen bis einschließlich [[date|09.04.2026]] nach. Die Restleistungen werden mit der nächsten Note abgerechnet, sobald die Gegenseite geantwortet hat.
 
 Die Rückerstattung der Barauslagen erfolgt nur, sofern die Gegenseite die Kosten nicht übernimmt. Für Rückfragen zu einzelnen Positionen steht Ihnen [[person|Pöch]] unter [[phone_number|05352/3401926-0]] zur Verfügung.
 

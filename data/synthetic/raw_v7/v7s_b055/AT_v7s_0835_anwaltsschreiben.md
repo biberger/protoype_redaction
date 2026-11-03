@@ -31,6 +31,10 @@ Die [[organization|Andraschek]] hat bis heute keine Stellungnahme zu den Brandur
 
 Wir fordern die [[organization|GBV]] auf, bis zum [[date|30. September 2026]] zu den Ansprüchen unseres Mandanten Stellung zu nehmen und die Regulierung einzuleiten. Sollte keine Einigung erzielt werden, werden wir die Klage beim [[court|Landesgericht Klagenfurt]] einbringen. Die Zuständigkeit ergibt sich aus dem Sitz der Liegenschaft; wir behalten uns vor, die Klage beim [[court|LG Klagenfurt]] einzureichen.
 
+Die Brandmeldeanlage hat am Abend des [[date|03.08.2026]] um 22:14 Uhr Alarm ausgelöst; die Feuerwehr war um 22:31 Uhr vor Ort. Die Schadenhöhe setzt sich aus Gebäudeschaden in Höhe von 128.000 Euro, Lagerware in Höhe von 41.000 Euro und Betriebsunterbrechung in Höhe von 17.000 Euro zusammen. Die Belege zu diesen Positionen werden auf Verlangen vorgelegt.
+
+Die Ansprüche unseres Mandanten gegen die [[organization|GBV]] stützen sich auf den Versicherungsvertrag und die Bestimmungen über die Gebäudeversicherung. Eine Obliegenheitsverletzung der Versicherungsnehmerin ist nach unserer Kenntnis nicht gegeben.
+
 Für Rückfragen erreichen Sie unseren Mandanten unter Tel. [[phone_number|+43 5572 426 22 54 Kl. 79]].
 
 Mit freundlichen Grüßen

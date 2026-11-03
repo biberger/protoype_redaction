@@ -67,13 +67,15 @@ Beschuldigten gewürdigt. Der Zeuge [[person|Shevchenko]] hat die Zahlungen anha
 nachvollziehbar dargelegt. Seine Angaben sind insoweit glaubhaft, als er den Zeitpunkt der Verbuchung
 genau benennen konnte.
 
-Die Schriftführerin [[person|Daner]] hat die Angaben des Beschuldigten zu den Weisungen protokolliert. Sie hat dabei
+Die Schriftführerin [[person|Daner]] hat die Angaben des Beschuldigten zu den Weisungen protokolliert und dem
+Beschuldigten am Ende der Verhandlung eine Abschrift des Protokolls übergeben. Sie hat dabei
 festgehalten, dass in den Akten keine einzige schriftliche Weisung enthalten ist.
 
 Der Beisitzer [[person|Mag. Wolf Trenkwalder]] wies darauf hin, dass die Verbuchungsverzögerung von mehr
 als zwei Jahren eine erhebliche Pflichtverletzung darstellt.
 
-Der Mandant [[person|Artem Shevchenko]] wurde in der Verhandlung persönlich gehört. Er schilderte, dass er mehrfach
+Der Mandant [[person|Artem Shevchenko]] wurde in der Verhandlung persönlich gehört. Er ist in Oberösterreich
+ansässig und hatte die Kanzlei des Beschuldigten zu Beginn der Zusammenarbeit persönlich aufgesucht. Er schilderte, dass er mehrfach
 versucht habe, mit dem Beschuldigten einen Termin zu vereinbaren, und dass die Kanzlei seine Anrufe nicht
 zurückgerufen habe. Erst nach der Mahnung vom [[date|14.01.2024]] sei die Restzahlung erfolgt. Er hielt die Angaben
 des Beschuldigten zur Erkrankung für nicht überzeugend, weil die Kanzlei während dieses Zeitraums durchgehend
@@ -141,7 +143,8 @@ Stellungnahme hingewiesen.
 V. Strafbemessung
 
 Der Senat hat den Strafrahmen des [[legal_norm|§ 45 RAO]] ausgeschöpft, soweit es die Schwere der Verzögerung
-erfordert. Er hat sich dabei an früheren Entscheidungen des Disziplinarrates orientiert, in denen Verzögerungen
+erfordert. Er hat dabei berücksichtigt, dass die Verstöße über einen Zeitraum von mehr als drei Jahren
+hinweg begangen wurden und dass mehrere Mandanten betroffen waren. Er hat sich dabei an früheren Entscheidungen des Disziplinarrates orientiert, in denen Verzögerungen
 von mehr als einem Jahr mit Geldbußen zwischen EUR 3.000,00 und EUR 6.000,00 geahndet wurden. Eine Entziehung
 der Berufsberechtigung ist nicht beantragt und nach Auffassung des Senats nicht angemessen.
 

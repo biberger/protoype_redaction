@@ -47,6 +47,9 @@ Besichtigung des Fahrzeugs erstellt wurde. Wir haben die Vorlage dieses Gutachte
 Antwort erhalten. Frau [[person|Dr. Kann]] hat in einem Telefonat vom [[date|14.08.2026]] lediglich
 erklärt, die Angelegenheit werde geprüft.
 
+Der Zeuge [[person|Heger]] hat den Vorgang ebenfalls schriftlich bestätigt; seine Angaben stimmen mit der Darstellung
+des Mandanten überein. Sein Schreiben vom [[date|19.08.2026]] ist dieser Korrespondenz beigelegt.
+
 Der Mandant [[person|Bauer]] hat außerdem einen Nutzungsausfall für die Dauer der Reparatur geltend gemacht. Dieser
 Betrag ist in der Schadensaufstellung enthalten, sofern die Reparatur nicht vor dem [[date|10.09.2026]] abgeschlossen war.
 Die Werkstatt hat den Abschluss am [[date|17.09.2026]] bestätigt.
@@ -54,6 +57,10 @@ Die Werkstatt hat den Abschluss am [[date|17.09.2026]] bestätigt.
 Die Reparaturkosten belaufen sich laut Kostenvoranschlag auf EUR 4.380,00 netto. Wir fordern Sie auf,
 diesen Betrag bis zum [[date|20.11.2026]] an unseren Mandanten zu überweisen. Die Zahlung ist auf das
 Konto [[bank_account|AT69 9962 4012 1566 3197]] zu leisten.
+
+Wir gehen davon aus, dass die Angelegenheit ohne gerichtliche Schritte bereinigt werden kann. Sollte Ihre Versicherung die Deckung weiterhin verweigern, bitten wir um eine schriftliche Begründung mit Angabe
+des Prüfergebnisses, damit wir unserem Mandanten die weitere Vorgehensweise erläutern können. Eine Abschrift dieses
+Schreibens geht an die Schadenabteilung der [[organization|Wall KG]] und an unseren Mandanten [[person|Orel Bauer]].
 
 Für Rückfragen stehen wir unter Tel. [[phone_number|+43 512 252 73 44 DW 523]] zur Verfügung.
 

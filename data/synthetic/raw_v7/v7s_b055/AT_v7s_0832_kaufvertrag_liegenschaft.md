@@ -44,6 +44,16 @@ II. Kaufpreis
 
 3. Die Verkäuferin erklärt, dass sie die Liegenschaft seit dem Jahr 2008 ununterbrochen besitzt und die Lastenfreiheit mit den Auszügen aus dem Grundbuch nachgewiesen hat.
 
+II a. Zusicherungen und Vorbehalte
+
+1. Die Verkäuferin sichert zu, dass für die Liegenschaft keine Pachtverträge, keine Bestandsverträge und keine Wohnrechte bestehen. Sollten solche Rechte bestehen, sind sie der Käuferin bis zur Unterfertigung schriftlich offenzulegen.
+
+2. Die Verkäuferin erklärt, dass die Liegenschaft nicht Gegenstand eines Verfahrens nach dem Flurverfassungs- oder Agrarbehördengesetz ist und dass keine Vorkaufsrechte Dritter bestehen. Die Käuferin hat davon Kenntnis genommen, dass ein Vorkaufsrecht der Gemeinde nach ihrem Ortsrecht nicht ausgeschlossen werden kann.
+
+3. Die Gesellschafterin [[person|Heintel]] stimmt dem Kauf mit ihrer Unterschrift zu. Sie bestätigt, dass die Peschka GmbH zur Abnahme der Liegenschaft berechtigt ist und dass der Gesellschaftsvertrag keinen Zustimmungsvorbehalt für Immobiliengeschäfte enthält.
+
+4. Sollte sich nach Übergabe ein versteckter Mangel an den Gebäuden zeigen, der bei der Besichtigung nicht erkennbar war, gelten die Bestimmungen über die Gewährleistung in Abschnitt VI.
+
 III. Aufsandungserklärung
 
 Die Verkäuferin erteilt hiermit ihre ausdrückliche und unwiderrufliche Einwilligung, dass das Eigentumsrecht an den Liegenschaften zugunsten der Käuferin in das Grundbuch eingetragen wird. Die Vertragsparteien beantragen die Eintragung auf Grund dieses Vertrages. Die Vertragsverfasserin ist mit der Durchführung beauftragt.
@@ -67,7 +77,7 @@ VI. Schlussbestimmungen
 Unser Zeichen: [[other_identifier|W/Fehringer/0614]]
 UZ: [[other_identifier|546/23 P]]
 
-Eugendorf, am [[date|21.05.2026]]
+[[location|Eugendorf]], am [[date|21.05.2026]]
 
 Die Verkäuferin:
 _______________________________

@@ -72,6 +72,10 @@ VI. Vorvertrag und Schlussbestimmungen
 
 14. Der Mieter nimmt zur Kenntnis, dass die Vermieterin seine Kontakt- und Zahlungsdaten zur Vertragsabwicklung verarbeitet. Die Daten werden nach Ende des Mietverhältnisses im gesetzlichen Umfang aufbewahrt.
 
+15. Die Wohnung ist an die zentrale Fernwärmeversorgung des Hauses angeschlossen. Die Heizkosten werden nach den tatsächlichen Verbrauchswerten der Wärmemesser verrechnet, die Grundkosten nach der Nutzfläche. Die Vermieterin lässt die Ablesung durch einen Dienstleister durchführen; Kosten für die Ablesung sind Teil der Betriebskosten.
+
+16. Strom und Warmwasser bezieht der Mieter über einen eigenen Vertrag mit dem Energieversorger. Die Vermieterin hat die Zählerstände bei Übergabe festgehalten. Bei Auszug sind die Zählerstände dem Dienstleister und der Vermieterin innerhalb von acht Tagen bekanntzugeben.
+
 Ausgefertigt in [[address|9212 Techelsberg am Wörther See]], am [[date|14. März 2025]].
 
 Für die Vermieterin:

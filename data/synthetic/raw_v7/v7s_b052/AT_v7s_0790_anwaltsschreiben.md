@@ -45,6 +45,10 @@ Die Zahlung ist auf das Konto der Mandantin zu überweisen; die Bankverbindung w
 Die Mandantin [[person|Racková]] hat die Schadenshöhe durch einen Kostenvoranschlag belegt. Die Fotodokumentation
 liegt bei. Wir weisen darauf hin, dass ein Verzugszinsenanspruch besteht.
 
+Wir haben die Umstände des Vorfalls mit der Zeugin [[person|Apollonia Pendl]] besprochen, die den Lieferwagen
+unmittelbar vor dem Anstoß gesehen hat. Ihre Angaben decken sich mit der Darstellung unserer Mandantin in allen
+wesentlichen Punkten. Eine schriftliche Zeugenerklärung ist in Vorbereitung.
+
 Die Mandantin [[person|Racková]] hat den Unfall nicht selbst verursacht. Sie stand mit ihrem Fahrzeug
 ordnungsgemäß auf dem Parkplatz, als der Lieferwagen der [[organization|Rosen Bau GmbH]] beim Rückwärtsfahren
 gegen die Fahrertür stieß. Die Polizei wurde nicht gerufen, weil sich beide Beteiligten zunächst über die
@@ -53,7 +57,15 @@ vom [[date|20.09.2024]] gescheitert.
 
 Der Kostenvoranschlag der Werkstatt weist Ersatzteile in Höhe von EUR 3.900,00 und Arbeitszeit in Höhe von
 EUR 2.240,00 aus. Hinzu kommen eine Nutzungsentschädigung für die Dauer der Reparatur sowie die Kosten für ein
-Mietfahrzeug von EUR 3.500,00. Die Summe der Positionen ergibt den geforderten Betrag von EUR 9.640,00.
+Mietfahrzeug von EUR 3.500,00. Die Summe der Positionen ergibt den geforderten Betrag von EUR 9.640,00. Die Werkstatt hat die Reparatur am
+[[date|23.09.2024]] abgeschlossen, das Mietfahrzeug wurde bis dahin von unserer Mandantin genutzt. Die Rechnungen
+der Werkstatt und des Mietwagenunternehmens liegen in Kopie bei und können im Original eingesehen werden. Wir bitten
+um Bestätigung des Eingangs dieses Schreibens.
+
+Die Haftung der [[organization|Rosen Bau GmbH]] ist nach unserer Auffassung eindeutig. Das Unternehmen hat den Schaden
+nicht bestritten, sondern lediglich auf die Versicherung verwiesen. Eine Verweisung an den Versicherer entbindet den
+Schädiger nicht von seiner Haftung gegenüber dem Geschädigten; die Versicherung haftet direkt. Wir verweisen dazu
+auf die Haftpflichtversicherung nach dem [[legal_norm|KHVG]], auf deren Grundlage der Direktanspruch besteht.
 
 Sollte bis zum genannten Termin keine Zahlung eingehen, werden wir ohne weitere Ankündigung die gerichtliche
 Geltendmachung einleiten und die Kosten des Verfahrens nach dem Ausgang geltend machen.

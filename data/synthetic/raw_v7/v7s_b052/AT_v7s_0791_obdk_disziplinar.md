@@ -88,6 +88,12 @@ Der Senat hat ferner berücksichtigt, dass die Kammeranwältin [[person|Dr. Elis
 einen vergleichbaren Fall verhandelt hat. Dieser Umstand ist für die Strafbemessung im vorliegenden Verfahren
 jedoch nicht maßgeblich, weil jeder Fall nach seinen eigenen Umständen zu beurteilen ist.
 
+Der Beschuldigte [[person|Ibrahimi]] hat in der Verhandlung ausdrücklich erklärt, dass er die Verantwortung für die
+Verspätungen übernehme. Er bat um Nachsicht, weil er seit dem Frühjahr 2025 nur noch eingeschränkt arbeiten könne.
+Ein ärztliches Attest hat er nicht vorgelegt, da er es für den Ausgang des Verfahrens nicht für erheblich hielt.
+Der Senat hat die Bitte um Nachsicht zur Kenntnis genommen, sie aber nicht als Milderungsgrund gewertet, weil die
+Verzögerungen bereits vor dem genannten Zeitpunkt eingetreten sind.
+
 V. Strafbemessung
 
 Die Geldbuße wird unter Berücksichtigung der wirtschaftlichen Lage des Beschuldigten bemessen. Der Beschuldigte

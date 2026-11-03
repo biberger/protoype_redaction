@@ -19,7 +19,7 @@ Anzeige erstattet: [[date|19.09.2026]], 17:55 Uhr
 
 Sachverhalt
 
-Am [[date|19.09.2026]] gegen 16:40 Uhr wurde die [[organization|Polizeiinspektion Abtenau]] über einen Verkehrsunfall im Bereich der Gschütt informiert. Die Beamtin [[person|Reichl]] und der Beamte [[person|Dobler]] begaben sich zur Unfallstelle und stellten einen Sachschaden an zwei Fahrzeugen sowie eine leicht verletzte Person fest. Die Einsatzstelle wurde bis 18:30 Uhr gesperrt, um die Spurenlage zu sichern, und danach mit einem Wechselverkehr geregelt. Ein Abschleppdienst wurde verständigt. Der Lenker wurde gebeten, seine Fahrzeugpapiere und den Versicherungsnachweis vorzulegen, was er um 19:10 Uhr an der Dienststelle tat.
+Am [[date|19.09.2026]] gegen 16:40 Uhr wurde die [[organization|Polizeiinspektion Abtenau]] über einen Verkehrsunfall im Bereich der Gschütt informiert. Die Beamtin [[person|Reichl]] und der Beamte [[person|Dobler]] begaben sich zur Unfallstelle und stellten einen Sachschaden an zwei Fahrzeugen sowie eine leicht verletzte Person fest. Die Einsatzstelle wurde bis 18:30 Uhr gesperrt, um die Spurenlage zu sichern, und danach mit einem Wechselverkehr geregelt. Ein Abschleppdienst wurde verständigt. Der Lenker wurde gebeten, seine Fahrzeugpapiere und den Versicherungsnachweis vorzulegen, was er um 19:10 Uhr an der Dienststelle tat. Die zuständige Straßenmeisterei wurde über den beschädigten Leitpfosten verständigt. Eine Anzeige wegen Verletzung der Vorrangregel wird nach Vorliegen des Gutachtens geprüft.
 
 Beteiligte Personen und Fahrzeuge
 

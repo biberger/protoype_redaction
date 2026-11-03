@@ -40,7 +40,7 @@ Mietzins und Nebenkosten
 
 1. Der monatliche Mietzins beträgt EUR 2.150,00 netto, zuzüglich Umsatzsteuer, Betriebskosten und Heizung. Die Betriebskosten werden als Akontobetrag von EUR 380,00 monatlich vorgeschrieben.
 
-2. Der Mietzins ist monatlich im Voraus bis zum Fünften eines jeden Monats zu entrichten. Die Zahlung hat auf das Konto der Vermieterin zu erfolgen.
+2. Der Mietzins ist monatlich im Voraus bis zum Fünften eines jeden Monats zu entrichten. Die Zahlung hat auf das Konto der Vermieterin mit der IBAN [[bank_account|AT86 0248 4792 8543 7695]] zu erfolgen.
 
 3. Der Mieter erlegt eine Barkaution von drei Monatsmieten, somit EUR 6.450,00, die zu Beginn des Mietverhältnisses fällig ist.
 
@@ -56,7 +56,7 @@ Betrieb, Instandhaltung und Versicherung
 
 3. Der Mieter schließt eine Betriebshaftpflichtversicherung mit einer Deckungssumme von mindestens EUR 1.500.000,00 ab und legt der Vermieterin jährlich einen Nachweis vor.
 
-4. Die Vermieterin ist berechtigt, die Mieträume nach vorheriger Ankündigung zu betreten, wenn dies für Reparaturen oder für eine allfällige Neuvermietung erforderlich ist.
+4. Die Vermieterin ist berechtigt, die Mieträume nach vorheriger Ankündigung von mindestens drei Werktagen zu betreten, wenn dies für Reparaturen oder für eine allfällige Neuvermietung erforderlich ist.
 
 5. Bei Beendigung des Mietverhältnisses hat der Mieter das Lokal in dem Zustand zurückzugeben, der dem Übergabeprotokoll vom [[date|01.11.2026]] entspricht, abgesehen von der üblichen Abnützung.
 
@@ -64,7 +64,7 @@ Schlussbestimmungen
 
 1. Änderungen dieses Vertrags bedürfen der Schriftform.
 
-2. Der Mieter darf das Lokal nur für den vereinbarten Zweck verwenden. Eine Änderung der Branche bedarf der Zustimmung der Vermieterin.
+2. Der Mieter darf das Lokal nur für den vereinbarten Zweck verwenden und ist zur Einhaltung der gewerberechtlichen Vorschriften verpflichtet. Eine Änderung der Branche bedarf der Zustimmung der Vermieterin.
 
 3. Die Vermieterin ist berechtigt, Werbeanlagen nur nach vorheriger schriftlicher Zustimmung anzubringen; diese Zustimmung wird durch [[person|von Einem]] erteilt.
 

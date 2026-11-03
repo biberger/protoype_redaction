@@ -28,12 +28,18 @@ LEISTUNG                                    DATUM        STUNDEN   BETRAG
 Erstbesprechung mit Frau [[person|Schömer]]      [[date|04.05.2026]]    1,0      € 240,00
 Schriftsatz für Herrn [[person|Đurović]]          [[date|11.05.2026]]    1,5      € 360,00
 Akteneinsicht [[court|BG Döbling]]               [[date|20.05.2026]]    0,5      €  120,00
+Telefonat mit der Gegenseite für Frau [[person|Schömer]]   [[date|25.05.2026]]    0,5      € 120,00
+Besprechung mit Frau [[person|Schömer]] und Herrn [[person|Đurović]]   [[date|01.06.2026]]    1,0      € 240,00
 
-Honorar netto                                                          € 720,00
-Umsatzsteuer 20 %                                                      € 144,00
-GESAMTBETRAG                                                           € 864,00
+Honorar netto                                                          € 1.080,00
+Umsatzsteuer 20 %                                                      € 216,00
+GESAMTBETRAG                                                           € 1.296,00
 
 Die Akteneinsicht vom [[date|20. Mai 2026]] erfolgte im Auftrag von Frau [[person|Schömer]], die Zahlung der Gerichtsgebühren ist in dieser Note nicht enthalten.
+
+Das Telefonat vom [[date|25. Mai 2026]] betraf einen Vergleichsvorschlag der Gegenseite, der von Frau [[person|Schömer]] nach der Besprechung vom [[date|1. Juni 2026]] abgelehnt wurde. Die Besprechung dauerte länger, weil Herr [[person|Đurović]] zusätzliche Unterlagen über die Zahlungen der letzten drei Jahre vorlegte, die in die Klage aufgenommen werden mussten. Diese Mehrarbeit ist in der Position vom [[date|1. Juni 2026]] verrechnet.
+
+Für die Verhandlung vor dem [[court|Bezirksgericht Döbling]] wurde ein Termin für den Herbst 2026 vorgemerkt. Die Kosten dafür werden mit einer gesonderten Note abgerechnet, sobald die Ladung zugestellt ist.
 
 Zahlbar binnen 14 Tagen auf das Konto [[bank_account|AT48 4909 2138 9374 3776]]. Der Zeitaufwand wurde in Zehntelstunden erfasst. Sollten Sie Fragen zu einzelnen Positionen haben, bitten wir um Rückmeldung bis zum Fälligkeitstag, damit die Note gegebenenfalls berichtigt werden kann.
 

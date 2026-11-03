@@ -59,7 +59,7 @@ Der Senat stimmt darin überein, dass ein Verstoß nicht als geringfügig anzuse
 
 5. Strafbemessung
 
-Mildernd wirkte, dass der Beschuldigte [[lawyer|Hutter]] den Betrag schließlich vollständig herausgab. Außerdem hat er die Gesellschaft nach der Rückzahlung um Entschuldigung gebeten, was der Geschäftsführer in seiner Aussage anerkannte. Eine bloße Verwarnung wurde als unzureichend angesehen, weil der Betrag erheblich war. Die Höhe der Geldbuße orientiert sich an vergleichbaren Fällen, in denen Treuhandgelder in ähnlichem Umfang ohne Weisung ausbezahlt wurden. Erschwerend war die Dauer der Verzögerung. Die Geldbuße von 3.500 Euro erscheint dem Senat angemessen. Die Kosten des Verfahrens im Betrag von 1.100 Euro trägt der Beschuldigte [[lawyer|Hutter]].
+Mildernd wirkte, dass der Beschuldigte [[lawyer|Hutter]] den Betrag schließlich vollständig herausgab. Außerdem hat er die Gesellschaft nach der Rückzahlung um Entschuldigung gebeten, was der Geschäftsführer in seiner Aussage anerkannte. Eine bloße Verwarnung wurde als unzureichend angesehen, weil der Betrag erheblich war. Die Höhe der Geldbuße orientiert sich an vergleichbaren Fällen, in denen Treuhandgelder in ähnlichem Umfang ohne Weisung ausbezahlt wurden. Erschwerend war die Dauer der Verzögerung. Die Geldbuße von 3.500 Euro erscheint dem Senat angemessen. Die Kosten des Verfahrens im Betrag von 1.100 Euro trägt der Beschuldigte [[lawyer|Hutter]]. Die Kostenentscheidung folgt dem Ausgang des Verfahrens.
 
 6. Rechtsmittel
 

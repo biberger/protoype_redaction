@@ -35,7 +35,7 @@ Der Haftpflichtversicherer des [[person|Kulenovic]] wurde über die Schadensmeld
 
 Die Beamten [[person|Wieshofer]] und [[person|Kerbl]] haben Lichtbilder der Schadensstelle angefertigt. Die Aufnahmen zeigen die Position der Fahrzeuge vor der Ampel, die Schäden an beiden Fahrzeugen und den Zustand der Fahrbahn. Die Ampelanlage war zum Zeitpunkt der Aufnahme in Betrieb und zeigte Rotlicht.
 
-Der Lenker [[person|Hütter]] hat sein Fahrzeug nach Abschluss der Aufnahme selbst von der Unfallstelle entfernt, nachdem er die Daten des Lenkers [[person|Kulenovic]] erhalten hatte. Die Fahrzeuge wurden nicht abgeschleppt. Eine Alkoholmessung wurde bei beiden Lenkern durchgeführt; beide Ergebnisse lagen unter der Grenze von 0,5 Promille. Die Fahrzeugpapiere beider Lenker wurden kontrolliert und sind gültig; das Fahrzeug des [[person|Kulenovic]] ist bis zum [[date|30.11.2026]] pickerlgeprüft.
+Der Lenker [[person|Hütter]] hat sein Fahrzeug nach Abschluss der Aufnahme selbst von der Unfallstelle entfernt, nachdem er die Daten des Lenkers [[person|Kulenovic]] erhalten hatte. Die Fahrzeuge wurden nicht abgeschleppt. Eine Alkoholmessung wurde bei beiden Lenkern durchgeführt; beide Ergebnisse lagen unter der Grenze von 0,5 Promille. Die Fahrzeugpapiere beider Lenker wurden kontrolliert und sind gültig; das Fahrzeug des [[person|Kulenovic]] ist zuletzt am [[date|14.03.2026]] pickerlgeprüft.
 
 Verkehrsrechtliche Beurteilung
 

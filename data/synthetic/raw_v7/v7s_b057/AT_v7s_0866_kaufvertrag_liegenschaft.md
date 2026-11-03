@@ -31,7 +31,7 @@ Die Käuferin beabsichtigt, die Liegenschaft als Hauptwohnsitz zu nutzen. Sie ha
 
 II. Kaufgegenstand und Übergabe
 
-Der Verkäufer verkauft und übergibt der Käuferin die oben bezeichnete Liegenschaft samt allem Zubehör mit Wirkung ab dem Tag der Übergabe. Die Übergabe erfolgt am [[date|30.11.2026]], sofern der Kaufpreis bis dahin vollständig gezahlt ist.
+Der Verkäufer verkauft und übergibt der Käuferin die oben bezeichnete Liegenschaft samt allem Zubehör mit Wirkung ab dem Tag der Übergabe. Die Übergabe erfolgt am [[date|02.11.2026]], sofern der Kaufpreis bis dahin vollständig gezahlt ist.
 
 Die Liegenschaft ist von Bestandrechten frei. Eine Hypothek ist nicht eingetragen. Der Verkäufer haftet für die Lastenfreiheit nach den Bestimmungen des ABGB.
 

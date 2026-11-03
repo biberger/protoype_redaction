@@ -11,11 +11,11 @@ Betreff: AW: Vergleichsentwurf Grünfeld ./. [[person|Reder]]
 
 Sehr geehrter Herr [[person|Schuil]],
 
-besten Dank für Ihre Rückmeldung vom [[date|22.10.2026]]. Wir bestätigen, dass unsere Mandantin den Vergleichsentwurf im Grundsatz annimmt. Hinsichtlich des Rücktrittsrechts nach Ablauf des [[date|31.12.2026]] sehen wir allerdings weiterhin Klarstellungsbedarf, da die Frist im ursprünglichen Kaufvertrag anders formuliert war.
+besten Dank für Ihre Rückmeldung vom [[date|22.10.2026]]. Wir bestätigen, dass unsere Mandantin den Vergleichsentwurf im Grundsatz annimmt. Hinsichtlich des Rücktrittsrechts nach Ablauf des [[date|31.10.2026]] sehen wir allerdings weiterhin Klarstellungsbedarf, da die Frist im ursprünglichen Kaufvertrag anders formuliert war.
 
-[[organization|Grünfeld Immobilien]] hat die Zahlung der Restkaufpreisrate von 48.000,00 EUR bis [[date|15.11.2026]] zugesagt. Herr [[person|Losert]] hat mir bestätigt, dass die Mittel auf dem Treuhandkonto bereits hinterlegt sind. Ich übermittle Ihnen den überarbeiteten Entwurf mit den Änderungen in Ziffer 4 und 7 im Anhang.
+[[organization|Grünfeld Immobilien]] hat die Zahlung der Restkaufpreisrate von 48.000,00 EUR bis [[date|02.11.2026]] zugesagt. Herr [[person|Losert]] hat mir bestätigt, dass die Mittel auf dem Treuhandkonto mit der IBAN [[bank_account|AT20 3840 0186 9110 7922]] bereits hinterlegt sind. Ich übermittle Ihnen den überarbeiteten Entwurf mit den Änderungen in Ziffer 4 und 7 im Anhang.
 
-Der Übergabetermin an der Liegenschaft sollte nach unserer Auffassung nicht vor dem [[date|30.11.2026]] liegen, damit die Vermessung abgeschlossen werden kann. Eine Fristverlängerung für die Räumung durch Frau [[person|Reder]] halten wir für vertretbar, sofern sie schriftlich vereinbart wird.
+Der Übergabetermin an der Liegenschaft sollte nach unserer Auffassung nicht vor dem [[date|30.10.2026]] liegen, damit die Vermessung abgeschlossen werden kann. Eine Fristverlängerung für die Räumung durch Frau [[person|Reder]] halten wir für vertretbar, sofern sie schriftlich vereinbart wird.
 
 Unser Zeichen: [[other_identifier|WA-WAWeissenberger/Vasold]]
 GZ der Kanzlei: [[other_identifier|Weissenberger ./. Reder]]
@@ -40,7 +40,7 @@ ERV-Code: [[other_identifier|R866787]]
 >
 > Sehr geehrte Frau Kollegin [[person|Weissenberger]],
 >
-> vielen Dank für Ihr Schreiben vom [[date|19.10.2026]]. Die Gegenseite hält an der Verzinsung des offenen Betrags fest. Eine Ausnahme vom Rücktrittsrecht können wir nur dann akzeptieren, wenn die Zahlung bis [[date|15.11.2026]] erfolgt.
+> vielen Dank für Ihr Schreiben vom [[date|19.10.2026]]. Die Gegenseite hält an der Verzinsung des offenen Betrags fest. Eine Ausnahme vom Rücktrittsrecht können wir nur dann akzeptieren, wenn die Zahlung bis [[date|02.11.2026]] erfolgt.
 >
 > Im Übrigen verweise ich auf den Schriftsatz vom [[date|09.10.2026]]. Die Parteien sind sich einig, dass die Übergabe der Liegenschaft nicht vor vollständiger Zahlung erfolgt.
 >
@@ -59,11 +59,13 @@ ERV-Code: [[other_identifier|R866787]]
 > >
 > > die [[organization|Grünfeld Immobilien GmbH]] (im Folgenden „[[organization|GIM]]“) bestätigt, dass sie den Vergleichsvorschlag grundsätzlich prüft. Die Restkaufpreisrate ist aus Sicht der [[organization|GIM]] fristgerecht zu bezahlen, sofern die Gegenseite die Pläne für die Zufahrt vorlegt.
 > >
+> > Die Buchhaltung der [[organization|GIM]] führt Frau [[person|Marita Jaklitsch]]; sie kann die Zahlungseingänge bestätigen.
+> >
 > > Ich bitte um Rückmeldung bis Ende der Woche. Die Abnahme der Vermessungsurkunde ist für die [[organization|GIM]] Voraussetzung für die Übergabe.
 > >
 > > Mit freundlichen Grüßen
 > >
 > > [[person|Mag. Balthasar Losert]]
-> > Geschäftsführung, [[organization|Grünfeld Immobilien GmbH]]
+> > Geschäftsführung, [[organization|Grünfeld Immobilien GmbH]], [[company_register_number|FN 380365k]], UID [[tax_id|ATU65674139]]
 > > [[address|3231 Sankt Margarethen an der Sierning]]
 > > T: [[phone_number|+43 7249 4400 17]]

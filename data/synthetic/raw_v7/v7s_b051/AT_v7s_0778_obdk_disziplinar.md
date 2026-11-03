@@ -60,6 +60,14 @@ Datum | Vorgang | Betrag | Klient | Treuhandnr.
 
 2.5. Der Mandant [[person|Ottokar Mayrhofer]] wohnt in [[location|St. Pölten]], die Mandantin [[person|Gerhild Lechner]] in [[location|Kufstein]]. Beide hatten die Beschuldigte mit der Abwicklung ihrer Angelegenheiten beauftragt, ohne dass eine Treuhandvereinbarung schriftlich festgehalten worden wäre.
 
+2.6. Die Beschuldigte hat im Verfahren erklärt, sie sei durch die Erkrankung ihrer Konzipientin [[person|Lena Hosp]] überlastet gewesen. Die Konzipientin hat dies bestätigt und eine Krankmeldung vorgelegt, die jedoch nur einen Teil des Zeitraums abdeckt. Der Senat hält die Arbeitsbelastung nicht für einen Grund, der die Verletzung der Verwahrungspflichten rechtfertigt.
+
+2.7. Die Kanzlei der Beschuldigten führte im Jahr 2025 insgesamt fünf Treuhandkonten. Der Senat hat sich von der Kammerprüfung vom [[date|18. März 2025]] berichten lassen. Diese hatte eine fehlende Buchungsliste für zwei der Konten festgestellt und die Beschuldigte zur Nachbesserung aufgefordert. Die Nachbesserung erfolgte erst vier Monate später.
+
+2.8. Der Mandant [[person|Ottokar Mayrhofer]] hat in seiner Zeugenaussage angegeben, er habe die Beschuldigte mehrfach um eine Abrechnung ersucht. Die Beschuldigte habe dies stets mit dem Hinweis auf einen laufenden Vergleich abgelehnt. Die Aussage des Mandanten ist glaubwürdig, weil sie durch den Schriftverkehr gestützt wird.
+
+2.9. Der Gegner der Mandanten, die [[organization|Hofmann Bau GmbH]], hat den Betrag auf das Treuhandkonto überwiesen, ohne eine Verwendungsbestimmung anzugeben. Die Zahlung wurde daher zunächst auf dem Konto gesammelt und erst später dem richtigen Mandanten zugeordnet.
+
 3. Rechtliche Beurteilung
 
 3.1. Gemäß [[legal_norm|§ 43a Abs 3 RAO]] iVm [[legal_norm|§ 12 Abs 2 RL-BA]] hat der Rechtsanwalt fremde Gelder unverzüglich und getrennt von eigenen Mitteln zu verwalten. Eine Entnahme zur Deckung eines Honoraranspruchs setzt eine vorherige Abrechnung voraus, die dem Mandanten zugegangen sein muss.
@@ -70,6 +78,12 @@ Datum | Vorgang | Betrag | Klient | Treuhandnr.
 
 3.4. Die Beschuldigte hat die Mandantin mit Schreiben vom [[date|1. Juli 2025]] über den Stand der Treuhandschaft informiert. Dies wurde zu ihren Gunsten berücksichtigt. Die Beschuldigte hat den Betrag von EUR 9.200,00 vor der Verhandlung wieder auf dem Treuhandkonto gutgebracht.
 
+3.5. Der Senat hat berücksichtigt, dass die Beschuldigte die Auszahlung zwar eingeräumt, die Verantwortung für die Verzögerung jedoch den Mitarbeitern der Kanzlei zugeschrieben hat. Für die Organisation der Kanzlei ist die Rechtsanwältin selbst verantwortlich. Dieses Vorbringen konnte den Vorwurf daher nicht entkräften.
+
+3.6. Der Senat sieht die Gesamtsumme der beiden Entnahmen von EUR 9.200,00 und EUR 4.800,00 als wesentlichen Gesichtspunkt an. Die Dauer der Verwahrung, die bei einem Teilbetrag über ein halbes Jahr betrug, ist ebenfalls zu berücksichtigen. Dass die Beschuldigte den Betrag wieder gutgebracht hat, wirkt sich jedoch mildernd aus.
+
+3.7. Die Beschuldigte hat im Verfahren ein Geständnis abgelegt, das zu ihren Gunsten gewertet wird, auch wenn es erst in der Verhandlung erfolgte. Die Verwendung der Mittel des Treuhandkontos zu eigenen Zwecken ist ein besonders schwerer Verstoß, weil das Vertrauen der Mandanten in die Verwahrung der Gelder betroffen ist. Der Senat hat deshalb von einem Verbot der Berufsausübung abgesehen, weil die Beschuldigte nach Angaben der Kammer in der Vergangenheit keine Beanstandungen hatte.
+
 4. Strafbemessung
 
 Die Geldbuße wurde unter Berücksichtigung der Unbescholtenheit der Beschuldigten und der Schadenswiedergutmachung auf EUR 3.000,00 festgesetzt. Erschwerend wirkt die Zahl von zwei Fällen. Die Verhängung eines Berufsverbotes war nicht erforderlich.
@@ -77,6 +91,14 @@ Die Geldbuße wurde unter Berücksichtigung der Unbescholtenheit der Beschuldigt
 5. Kosten und Rechtsmittel
 
 Die Kosten des Verfahrens werden nach [[legal_norm|§ 66 DSt]] bestimmt. Gegen diese Entscheidung ist die Berufung an die [[court|OBDK]] zulässig. Die Berufungsfrist beträgt vier Wochen ab Zustellung.
+
+6. Kosten des Verfahrens
+
+Die Kosten des Verfahrens betragen EUR 1.150,00 und setzen sich aus den Pauschalgebühren, den Reisekosten der Mitglieder des Senats und den Kosten der Schriftführung zusammen. Die Kostenbestimmung erfolgt in dem Umfang, in dem die Beschuldigte mit ihrem Vorbringen unterlegen ist. Die Kammeranwältin [[person|Teodora Siniscalchi]] hat einen Kostenantrag gestellt, dem der Senat teilweise gefolgt ist.
+
+7. Schlussbemerkung
+
+Der Senat hat die Anzeige und die Stellungnahmen der Parteien sorgfältig geprüft. Die Entscheidung beruht auf den im Akt erliegenden Urkunden und den Aussagen der Zeugen. Ein Anspruch auf Ersatz der Verfahrenskosten durch den Staat besteht nicht.
 
 [[location|Innsbruck]], am [[date|23. September 2026]]
 

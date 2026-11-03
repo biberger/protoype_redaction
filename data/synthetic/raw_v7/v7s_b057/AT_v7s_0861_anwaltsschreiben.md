@@ -28,7 +28,7 @@ in obiger Angelegenheit zeigen wir die Vertretung der [[organization|Schütte Ha
 
 Nach Auskunft unserer Mandantin hat der Mitarbeiter [[person|Werner Forcher]] das Zugfahrzeug seiner Versicherung ohne Abstellung der Bremse rangiert. Der Anhänger rollte gegen die Hofmauer. Zeugen des Vorfalls sind laut Personalliste [[person|Gounaris Evi]] und [[person|Stina Wigelbeyer]]; beide haben schriftlich bestätigt, dass der Anhänger nicht gegen einen Pflock, sondern gegen die Mauer stieß.
 
-Wir ersuchen Sie, den Schaden bis zum [[date|30.11.2026]] zu regulieren. Die Schadenshöhe wurde von dem Sachverständigen [[person|Gerold Haidinger]] mit EUR 12.860,00 netto beziffert; das Gutachten liegt diesem Schreiben bei.
+Wir ersuchen Sie, den Schaden bis zum [[date|02.11.2026]] zu regulieren. Die Schadenshöhe wurde von dem Sachverständigen [[person|Gerold Haidinger]] mit EUR 12.860,00 netto beziffert; das Gutachten liegt diesem Schreiben bei.
 
 Zur Klarstellung: Die [[organization|Schütte Handels]] hat den Anhänger seit dem Jahr 2019 im Betrieb. Die Versicherungsnehmerin Ihres Hauses hat das Fahrzeug nach den vorliegenden Unterlagen nicht rechtzeitig instand gesetzt, sodass eine Mithaftung nicht anzunehmen ist. Eine Mithaftung unserer Mandantin wird ausdrücklich bestritten.
 

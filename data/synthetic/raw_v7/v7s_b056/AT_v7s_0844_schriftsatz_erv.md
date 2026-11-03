@@ -82,7 +82,7 @@ V. Beweisanträge
 
 10. Zum Beweis der vorstehenden Behauptungen werden beantragt: Parteienvernehmung der Beklagten, Einvernahme der Zeugen [[person|Ederer]] und [[person|Breitner]], Vorlage der Bauakten, Einholung eines Sachverständigengutachtens aus dem Fachgebiet Bauwesen.
 
-11. Die Beklagte [[person|Lainer]] ist unter Tel. [[phone_number|0732 266300-57]] erreichbar. Die Klägerin wird ersucht, Zustellungen an die ERV-Adresse der Vertreter zu richten. Die Vorlage der Bauakten wird beim [[court|HG Wien]] beantragt, soweit sie der Klägerin nicht zugänglich sind.
+11. Die Beklagte [[person|Lainer]] ist unter Tel. [[phone_number|0732 266300-57]] erreichbar. Die Klägerin wird ersucht, Zustellungen an die ERV-Adresse der Vertreter zu richten. Die Vertreter der beklagten Parteien haben sich bereits am [[date|1. September 2026]] im elektronischen Rechtsverkehr registriert; die Zustellungen an die Beklagten sind daher ausschließlich über den Rechtsanwalt vorzunehmen, soweit nicht ausdrücklich anders angeordnet. Die Vorlage der Bauakten wird beim [[court|HG Wien]] beantragt, soweit sie der Klägerin nicht zugänglich sind.
 
 VI. Beilagen
 

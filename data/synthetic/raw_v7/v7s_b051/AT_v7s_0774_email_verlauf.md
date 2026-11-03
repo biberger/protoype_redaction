@@ -37,7 +37,7 @@ Ich ersuche um eine Aufstellung der Rechnung mit den Gutschriften, damit die [[o
 Mit freundlichen Grüßen
 [[person|Nora Mag. Dr. Sager]]
 Geschäftsführung
-[[organization|Staal Handels GmbH]]
+[[organization|Staal Handels GmbH]], [[company_register_number|FN 179968i]], UID: [[tax_id|ATU40946526]]
 Tel. [[phone_number|0463 829151 DW 461]]
 *[[date_of_birth|22. Jänner 1960]]
 
@@ -67,6 +67,30 @@ Danke für die Rückmeldung. Wir bestätigen den Eingang der Teilzahlung und war
 
 Mit freundlichen Grüßen
 [[person|Tunnes Unterrainer]]
+
+Von: [[person|Nora Mag. Dr. Sager]] <[[email|n.sager@staal-handel.at]]>
+Gesendet: Freitag, [[date|9. Oktober 2026]] 11:12
+An: [[person|Tunnes Unterrainer]]
+Betreff: AW: AW: Zahlungsrückstand Lieferung Juli
+
+Sehr geehrter Herr [[person|Unterrainer]],
+
+die Gutschrift ist heute bei uns verbucht worden. Wir ersuchen um Bestätigung, dass die Forderung damit erledigt ist, und um Rückgabe der Mängelrüge vom [[date|20. Juli 2026]] mit Ihrer Stellungnahme.
+
+Mit freundlichen Grüßen
+[[person|Nora Mag. Dr. Sager]]
+
+Von: [[person|Valerien Dusl]] <[[email|v.dusl@staal-handel.at]]>
+Gesendet: Freitag, [[date|9. Oktober 2026]] 14:37
+An: [[person|Nora Mag. Dr. Sager]]
+Betreff: AW: AW: Zahlungsrückstand Lieferung Juli
+
+Sehr geehrte Frau [[person|Mag. Dr. Sager]],
+
+die Gutschrift über EUR 4.210,00 ist heute auf dem Konto der [[organization|Staal]] eingegangen. Die Buchungsbestätigung haben wir an die Kanzlei übermittelt. Ich bitte um Rückmeldung, falls noch Fragen bestehen.
+
+Mit freundlichen Grüßen
+[[person|Valerien Dusl]]
 
 Sehr geehrter Herr [[person|Unterrainer]],
 

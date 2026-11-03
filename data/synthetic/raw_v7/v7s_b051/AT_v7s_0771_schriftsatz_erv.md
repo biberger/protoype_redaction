@@ -73,6 +73,12 @@ III. Rechtliche Ausführungen
 
 6. Die Haushaltshilfe wurde an vier Tagen pro Woche über sechs Wochen in Anspruch genommen und kostete EUR 1.120,00. Das Schmerzengeld wird nach der Schwere der Verletzung und der Dauer der Beschwerden mit EUR 6.200,00 bemessen. Die Heilungskosten für Physiotherapie und Medikamente betragen EUR 1.480,00.
 
+7. Die beklagte Partei kann sich nicht darauf berufen, dass die Reinigung vertraglich einem Dritten übertragen war. Die [[organization|Berner GmbH]] haftet der Mieterin unmittelbar, weil die Verkehrssicherungspflicht im Verhältnis zu den Bewohnern bei ihr liegt. Der interne Vertrag mit der Reinigungsfirma berührt diese Haftung nicht.
+
+8. Die klagende Partei hat für die Beauftragung eines Rechtsgutachtens zu den Haftungsfragen EUR 620,00 aufgewendet. Der Betrag ist als Kosten der Rechtsverfolgung zu ersetzen, soweit er zur zweckentsprechenden Rechtsverfolgung notwendig war.
+
+9. Die Klägerin war nach dem Unfall in ihrer Mobilität eingeschränkt und konnte weder die Einkaufstätigkeit noch die Pflege ihres Gartens selbst besorgen. Diese Einschränkung dauerte bis zum Ende der Rehabilitation und ist beim Schmerzengeld berücksichtigt.
+
 IV. Kosten
 
 Die Kosten des Verfahrens werden nach den Bestimmungen der [[legal_norm|ZPO]] geltend gemacht.

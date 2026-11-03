@@ -21,7 +21,7 @@ Die [[organization|Rechtsanwaltskammer Wien]] ([[organization|RAK Wien]]) hat am
 
 **II. Sachverhalt**
 
-Der Beschuldigte übernahm im [[date|März 2025]] die Vertretung des Klienten [[person|Dieter Seeger]] in einer Angelegenheit der Verlassenschaft. Herr [[person|Seeger]] übergab dem Beschuldigten einen Betrag von 37.500,00 Euro, den dieser auf dem Treuhandkonto verwahren sollte. Die Treuhandschaft wurde unter der Nummer [[other_identifier|2019/615]] geführt, später unter der Nummer [[other_identifier|2026/382]] neu eingetragen.
+Der Beschuldigte übernahm im März 2025 die Vertretung des Klienten [[person|Dieter Seeger]] in einer Angelegenheit der Verlassenschaft. Herr [[person|Seeger]] übergab dem Beschuldigten einen Betrag von 37.500,00 Euro, den dieser auf dem Treuhandkonto verwahren sollte. Die Treuhandschaft Nr. [[other_identifier|2019/615]] wurde geführt, später unter der TH-Nr. [[other_identifier|2026/382]] neu eingetragen.
 
 Die Kontobewegungen stellen sich wie folgt dar:
 
@@ -48,7 +48,7 @@ Nach [[legal_norm|§ 11 Abs 1 RAO]] hat der Rechtsanwalt Treuhandgelder unverzü
 
 Als mildernd ist zu werten, dass der Beschuldigte die Abrechnung nachgeholt hat und sich zeitweise bemühte, die Ansprüche zu erfüllen. Erschwerend wirkt die lange Dauer der Nichtabrechnung. Der Senat hat daher eine Geldbuße festgesetzt, die dem Verschulden angemessen ist.
 
-Wien, am [[date|29.09.2026]]
+[[location|Wien]], am [[date|29.09.2026]]
 
 Für die Richtigkeit der Ausfertigung:
 Schriftführerin [[person|Benigna Eidenberger]]

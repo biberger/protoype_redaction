@@ -9,7 +9,7 @@ Zl. [[case_number|DRK 9/2026]]
 
 **ERKENNTNIS**
 
-Der Disziplinarrat der Rechtsanwaltskammer für Kärnten hat in seiner nichtöffentlichen Sitzung vom [[date|25. August 2026]] in Klagenfurt am Wörthersee durch den Vorsitzenden MMag. [[judge|Aloysius Forsthuber]] sowie die Senatsmitglieder [[judge|Dr. Marcelina Rapoport]] und [[judge|Mag. Andi Loidolt]], geb [[date_of_birth|07.07.1977]], unter Mitwirkung der Schriftführerin [[person|Talib Arabzadeh]] in der Disziplinarsache gegen die Rechtsanwältin [[lawyer|Solomiya Sadowska]] wegen des Verdachts der Verletzung von Berufspflichten nach [[legal_norm|§ 1 Abs 1 DSt]] und [[legal_norm|§ 9 Abs 1 Z 2 RAO]] nach Vernehmung der Kammeranwältin [[person|Friedhilde Sulzbacher]] und der Beschuldigten erkannt:
+Der Disziplinarrat der Rechtsanwaltskammer für Kärnten hat in seiner nichtöffentlichen Sitzung vom [[date|25. August 2026]] in [[location|Klagenfurt am Wörthersee]] durch den Vorsitzenden [[judge|MMag. Aloysius Forsthuber]] sowie die Senatsmitglieder [[judge|Dr. Marcelina Rapoport]] und [[judge|Mag. Andi Loidolt]], geb [[date_of_birth|07.07.1977]], unter Mitwirkung des Schriftführers [[person|Talib Arabzadeh]] in der Disziplinarsache gegen die Rechtsanwältin [[lawyer|Solomiya Sadowska]] wegen des Verdachts der Verletzung von Berufspflichten nach [[legal_norm|§ 1 Abs 1 DSt]] und [[legal_norm|§ 9 Abs 1 Z 2 RAO]] nach Vernehmung der Kammeranwältin [[person|Friedhilde Sulzbacher]], erreichbar unter Tel. [[phone_number|+43 662 812 98 60 Durchwahl 76]], und der Beschuldigten erkannt:
 
 Die Beschuldigte ist schuldig, als Rechtsanwältin Treuhandgelder ihres Mandanten nicht ordnungsgemäß verwaltet und nicht zeitgerecht abgerechnet zu haben. Sie wird daher gemäß [[legal_norm|§ 45 Abs 1 Z 2 RAO]] mit einer Geldbuße von 2.500,00 Euro bestraft. Die Kosten des Verfahrens von 610,00 Euro trägt die Beschuldigte.
 
@@ -17,7 +17,7 @@ Die Beschuldigte ist schuldig, als Rechtsanwältin Treuhandgelder ihres Mandante
 
 **I. Vorgeschichte**
 
-Der Beschwerdeführer [[person|Carl Dorr]] hat die Beschuldigte im Frühjahr 2025 mit der Durchsetzung einer Forderung aus einem Kaufvertrag beauftragt. Herr [[person|Dorr]] übergab der Beschuldigten dafür einen Betrag von 14.000,00 Euro zur Verwahrung, der nach Abschluss des Verfahrens an ihn auszufolgen war.
+Der Beschwerdeführer [[person|Carl Dorr]], wohnhaft in [[address|4574 Vorderstoder]], hat die Beschuldigte im Frühjahr 2025 mit der Durchsetzung einer Forderung aus einem Kaufvertrag beauftragt. Die Kanzlei der Beschuldigten befindet sich in [[location|St. Andrä]]. Herr [[person|Dorr]] übergab der Beschuldigten dafür einen Betrag von 14.000,00 Euro zur Verwahrung, der nach Abschluss des Verfahrens an ihn auszufolgen war.
 
 Mit Schreiben vom [[date|3. Dezember 2025]] verlangte Herr [[person|Dorr]] die Abrechnung und die Herausgabe der Restsumme. Die Beschuldigte antwortete mit einem Schreiben, in dem sie die Verwahrung des Betrags bestätigte, eine Abrechnung jedoch nicht beilegte. Darin heißt es wörtlich: „Unser Zeichen: [[other_identifier|Sadowska ./. Kloser]]“.
 
@@ -48,7 +48,7 @@ Die Verwahrung fremder Gelder ist nach [[legal_norm|§ 11 Abs 1 RAO]] getrennt v
 
 Als mildernd wertet der Senat die bisherige Unbescholtenheit und die Rückzahlung des offenen Restbetrages am [[date|21.11.2025]]. Erschwerend wirkt die Mehrzahl der Buchungsfehler. Die Geldbuße wurde daher im unteren Bereich des Strafrahmens bemessen.
 
-Klagenfurt am Wörthersee, am [[date|25.08.2026]]
+[[location|Klagenfurt am Wörthersee]], am [[date|25.08.2026]]
 
 Für die Richtigkeit der Ausfertigung:
 [[person|Talib Arabzadeh]], Schriftführer
