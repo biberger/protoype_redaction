@@ -48,7 +48,7 @@ Umsatzsteuer 20 %: 380,00
 Barauslagen (Grundbuchsabfrage, Eingabegebühr): 96,00
 Gesamtbetrag: 2.376,00
 
-Der Rechnungsbetrag ist binnen 14 Tagen auf das Konto IBAN [[bank_account|AT06 5683 4612 4139 9754]] zu überweisen. Bitte geben Sie als Verwendungszweck die Klienten-Nr. [[other_identifier|70691]] an.
+Der Rechnungsbetrag ist binnen 14 Tagen auf das Konto IBAN [[bank_account|AT06 5683 4612 4139 9754]] zu überweisen. Bitte geben Sie als Verwendungszweck die Klienten-Nr. [[other_identifier|70691]] an. Die Zahlung ist zugunsten der [[organization|Pahr KG]] auf das oben angeführte Konto zu leisten. Bei Rückfragen erreichen Sie die Kanzlei unter der Telefonnummer [[phone_number|+43 7252 542 33 28-2]].
 
 **ZAHLUNGSVERMERK**
 

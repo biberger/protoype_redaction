@@ -12,7 +12,7 @@ GZ [[case_number|P-2026/1187]]
 
 ANZEIGE UND UNFALLBERICHT (VERKEHRSUNFALL MIT SACHSCHADEN)
 
-Am [[date|14. September 2026]] um 16.40 Uhr wurde die Polizeiinspektion Pollham über Notruf informiert, dass es im Ortsgebiet von [[location|St. Lorenzen]] auf der Landesstraße L 1063, im Bereich der Kreuzung beim Gemeindeamt, zu einem Verkehrsunfall mit zwei beteiligten Fahrzeugen gekommen sei. Die Meldung stammte von einer Zeugin, Frau [[person|Alena Ing. Kolowrat]], die den Unfall vom Wartebereich der Bushaltestelle aus beobachtet hatte.
+Am [[date|14. September 2026]] um 16.40 Uhr wurde die [[organization|Polizeiinspektion Pollham]] über Notruf informiert, dass es im Ortsgebiet von [[location|St. Lorenzen]] auf der Landesstraße L 1063, im Bereich der Kreuzung beim Gemeindeamt, zu einem Verkehrsunfall mit zwei beteiligten Fahrzeugen gekommen sei. Die Meldung stammte von einer Zeugin, Frau [[person|Alena Ing. Kolowrat]], die den Unfall vom Wartebereich der Bushaltestelle aus beobachtet hatte.
 
 Die Streife bestand aus Bezirksinspektor [[person|Harald Sorger]] und GrInsp. [[person|Mirela Dragović]]. Beim Eintreffen um 16.52 Uhr wurden die Fahrzeuge bereits von der Fahrbahn gezogen, die Unfallstelle war jedoch unverändert. Die beiden Beamten haben die Personen einzeln befragt und die Angaben in der folgenden Tabelle erfasst.
 

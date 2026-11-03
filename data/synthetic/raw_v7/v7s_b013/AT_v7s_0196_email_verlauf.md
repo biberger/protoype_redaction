@@ -90,3 +90,20 @@ Mit freundlichen Grüßen
 [[person|Dr. Sieber]]
 Rechtsanwalt
 Tel. [[phone_number|07242 749434]]
+
+**Nachricht 5**
+
+Von: [[person|Diemut Golz]] <[[email|d.golz@wechselberger-immobilien.at]]>
+Gesendet: [[date|28.09.2026]] 10:21
+An: [[person|Dr. Sieber]] <[[email|sieber@huber.at]]>
+Betreff: AW: AW: AW: AW: Klage [[person|Roscher]] ./. [[organization|Wechselberger Immobilien GmbH]]
+
+Sehr geehrter Herr [[person|Dr. Sieber]],
+
+der Kostenvorschuss ist heute auf dem Konto der Kanzlei eingegangen. Die Lohnzettel des Herrn [[person|Roscher]] für die Jahre 2021 bis 2025 sind diesem Schreiben angehängt. Ein Dienstzeugnis aus dem Jahr 2023 konnte ich nicht mehr finden. Die [[organization|WIG]] hat bei der letzten Betriebsprüfung keine Beanstandungen erhalten.
+
+Herr [[person|Thumb]] hat mir bestätigt, dass er am Verhandlungstag um 8:30 Uhr vor dem Gericht sein kann. Seine Telefonnummer gebe ich Ihnen gesondert weiter, weil er sie nicht per E-Mail teilen möchte.
+
+Mit freundlichen Grüßen
+[[person|Diemut Golz]]
+Geschäftsführerin

@@ -33,7 +33,7 @@ Die Vertragsparteien schließen folgenden Kaufvertrag:
 
 **I. Vorbemerkungen**
 
-Die Verkäuferin ist bücherliche Eigentümerin der Liegenschaft [[land_register_id|KG 66624 Galtür]], [[land_register_id|EZ2471]]; [[land_register_id|GSt-Nr. 1366/17]] im Grundbuch des [[court|Bezirksgerichtes Landeck]]. Die Liegenschaft wird im Folgenden als Vertragsgegenstand bezeichnet. Die Verkäuferin wird bei diesem Rechtsgeschäft durch ihre Bevollmächtigte vertreten, deren Vollmacht vom [[date|2. September 2025]] dem Vertrag angeschlossen ist.
+Die Verkäuferin ist bücherliche Eigentümerin der Liegenschaft [[land_register_id|KG 66624 Galtür]], [[land_register_id|EZ2471]]; [[land_register_id|GSt-Nr. 1366/17]] im Grundbuch des [[court|Bezirksgerichtes Landeck]]. Die Liegenschaft wird im Folgenden als Vertragsgegenstand bezeichnet. Die Verkäuferin wird bei diesem Rechtsgeschäft durch ihre Bevollmächtigte vertreten, deren Vollmacht vom [[date|2. September 2025]] dem Vertrag angeschlossen ist. Die Käufer haben vor Vertragsabschluss die Liegenschaft besichtigt und die Unterlagen des Vermessungsamtes eingesehen. Die Verkäuferin hat auf Verlangen der Käufer eine Bestätigung der Hausverwaltung beigebracht.
 
 Die Käufer erklären, das Grundstück als Hauptwohnsitz nutzen zu wollen. Die Verkäuferin erklärt, dass keine Pfandrechte bestehen, die nicht im Grundbuch ersichtlich sind.
 
@@ -55,7 +55,7 @@ Die Verkäuferin erteilt der Käuferin die Einwilligung in die Einverleibung des
 
 **V. Übergabe, Gewährleistung und Nebenabreden**
 
-Die Übergabe erfolgt mit Zahlungseingang. Die Verkäuferin haftet für die Lastenfreiheit der Liegenschaft. Die Käufer erklären, die Liegenschaft besichtigt zu haben und ihren Zustand zu kennen.
+Die Übergabe erfolgt mit Zahlungseingang. Die Verkäuferin haftet für die Lastenfreiheit der Liegenschaft. Die Käufer erklären, die Liegenschaft besichtigt zu haben und ihren Zustand zu kennen. Der Übergabetermin wird zwischen den Parteien einvernehmlich festgelegt und schriftlich bestätigt. Mit der Übergabe gehen Nutzen und Gefahr auf die Käufer über.
 
 Die Verkäuferin erklärt, dass auf der Liegenschaft keine Mietverhältnisse bestehen. Ein Wegerecht zugunsten der Nachbarparzelle besteht nicht. Die Verkäuferin übergibt die Unterlagen über die Wasser- und Stromanschlüsse; die Käufer bestätigen den Erhalt.
 
@@ -74,9 +74,11 @@ Die [[organization|Gemeinde Galtür]] hat mit Schreiben vom [[date|12. September
 | Grunderwerbsteuer (3,5 %) | 7.507,50 | Käufer |
 | Barauslagen | 140,00 | Käufer |
 
+Die Käufer haben die Kosten gemäß der Tabelle zu tragen, insgesamt EUR 13.407,00, und zwar binnen 14 Tagen nach Fälligkeit des Kaufpreises. Die Lastenfreistellung der Liegenschaft erfolgt auf Kosten der Verkäuferin und ist im Kaufpreis nicht enthalten.
+
 **VIII. Zustellungen**
 
-Zustellungen zwischen den Vertragsparteien erfolgen an die im Vertrag genannten Anschriften. Eine Änderung der Anschrift ist binnen zwei Wochen mitzuteilen.
+Zustellungen zwischen den Vertragsparteien erfolgen an die im Vertrag genannten Anschriften. Eine Änderung der Anschrift ist binnen zwei Wochen mitzuteilen. Die Verkäuferin ist über die Bevollmächtigte [[person|MMag. Orsola Keuschnigg]] erreichbar, die auch Zustellungen entgegennimmt.
 
 [[address|9852 Trebesing]], am [[date|18. September 2025]]
 
@@ -129,7 +131,7 @@ Die Eintragungsgebühr wurde am [[date|2. Oktober 2025]] entrichtet. Der Treuhan
 
 Sehr geehrte Frau [[person|Decker]], sehr geehrte Frau [[person|Chodakowska]], sehr geehrter Herr [[person|Rosbaud]],
 
-beiliegend übermitteln wir Ihnen je ein Exemplar des unterfertigten Kaufvertrages. Für Rückfragen stehen wir unter Tel. [[phone_number|02742 579546-6]] zur Verfügung. Unser Zeichen: [[other_identifier|TA/Decker/4032]].
+beiliegend übermitteln wir Ihnen je ein Exemplar des unterfertigten Kaufvertrages. Für Rückfragen stehen wir unter Tel. [[phone_number|02742 579546-6]] zur Verfügung. Unser Zeichen: [[other_identifier|TA/Decker/4032]]. Bitte senden Sie uns die Originale der Ausweisdokumente zur Kopie zurück, sofern Sie diese nicht bereits übermittelt haben. Der Kaufpreis ist bis zum Ablauf der Frist auf das oben genannte Konto zu überweisen; eine Zahlung an Dritte entfaltet keine befreiende Wirkung.
 
 Mit freundlichen Grüßen
 

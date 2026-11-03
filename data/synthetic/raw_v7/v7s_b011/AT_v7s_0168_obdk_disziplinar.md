@@ -23,7 +23,7 @@ I. Verfahrensgang
 
 Die Kammeranwaltschaft hat am [[date|12. Jänner 2026]] die Disziplinaranzeige eingebracht. Darin wird vorgeworfen, dass der Rechtsanwalt [[lawyer|Eigruber]] im Zeitraum von März 2024 bis Juni 2025 mehrere Zahlungen von Mandanten nicht zeitgerecht verbucht habe. Die Anzeige stützt sich auf eine Prüfung des Kanzleibuchs und der Treuhandkonten durch den Kammeranwalt [[person|Kusьma Schkrobot]].
 
-Der Disziplinarbeschuldigte bestreitet die zeitlichen Abläufe nicht, wendet jedoch ein, dass die Verzögerungen auf eine Erkrankung seiner Kanzleikraft zurückzuführen seien. Der Senat hat die Akten der Rechtsanwaltskammer für Kärnten sowie die Kontoauszüge beigeschafft.
+Der Disziplinarbeschuldigte bestreitet die zeitlichen Abläufe nicht, wendet jedoch ein, dass die Verzögerungen auf eine Erkrankung seiner Kanzleikraft zurückzuführen seien. Der Senat hat die Akten der [[organization|Rechtsanwaltskammer für Kärnten]] sowie die Kontoauszüge beigeschafft.
 
 II. Sachverhalt
 

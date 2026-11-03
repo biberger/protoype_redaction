@@ -34,7 +34,7 @@ Heintel]], geboren am [[date_of_birth|07.10.2000]]
 
 vertreten. Mein Mandant wurde am [[date|8. Juli 2025]] beim Einfahren in den Kreisverkehr von Ihrem Mandanten [[person|DI Zenek Podgórski]] gestreift. Der Unfall ereignete sich in [[location|St. Florian]], als Ihr Mandant den Vorrang meines Mandanten missachtete.
 
-Der Schaden am Fahrzeug meines Mandanten beläuft sich nach dem Kostenvoranschlag der Werkstatt auf EUR 3.980,00. Darüber hinaus wurde ein Zaun auf der Liegenschaft [[land_register_id|2826/Unterstinkenbrunn]], [[land_register_id|GSt-Nr. 1309/2]] beschädigt, dessen Wiederherstellung EUR 1.240,00 kostet.
+Der Schaden am Fahrzeug meines Mandanten beläuft sich nach dem Kostenvoranschlag der Werkstatt auf EUR 3.980,00. Darüber hinaus wurde ein Zaun auf der Liegenschaft [[land_register_id|2826/Unterstinkenbrunn]], [[land_register_id|GSt-Nr. 1309/2]] beschädigt, dessen Wiederherstellung EUR 1.240,00 kostet. Die Reparatur des Fahrzeugs wurde bereits durchgeführt, die Rechnung der Werkstatt liegt bei. Die Werkstatt hat für die Dauer von zwölf Tagen einen Mietwagen bereitgestellt; die Mietkosten belaufen sich auf EUR 1.460,00.
 
 Mein Mandant hat den Pkw im Wege eines Kredits bei der [[organization|Sparkasse Sankt Florian am Inn AG]] (kurz [[organization|SSF]]) finanziert. Die [[organization|SSF]] hat dem Mandanten eine Mietwagenkostenabrechnung für die Dauer der Reparatur übermittelt. Diese Kosten sind ebenfalls Teil des geltend gemachten Schadens.
 

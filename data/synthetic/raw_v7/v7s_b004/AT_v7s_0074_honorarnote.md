@@ -43,13 +43,13 @@ Umsatzsteuer 20 %: 362,00
 Barauslagen (Gerichtsgebühr für Eingabe, Porto): 88,00
 Gesamtbetrag: 2.260,00
 
-Die Honorarnote ist binnen 14 Tagen auf das Konto IBAN [[bank_account|AT59 9249 5631 9479 0310]] zu überweisen. Bitte geben Sie als Verwendungszweck die Klienten-Nr. [[other_identifier|26267]] an.
+Die Honorarnote ist binnen 14 Tagen auf das Konto IBAN [[bank_account|AT59 9249 5631 9479 0310]] zu überweisen. Bitte geben Sie als Verwendungszweck die Klienten-Nr. [[other_identifier|26267]] an. Eine Zahlungserinnerung wird nach Ablauf der Frist ohne weitere Ankündigung versandt; für die Mahnung fällt eine Gebühr von EUR 15,00 an.
 
 **ZAHLUNGSVERMERK**
 
 [[person|ŠVARC CEDO]] – [[person|HALPERN MICHAELE]]
 
-Die Leistungen wurden nach dem tatsächlichen Zeitaufwand erbracht. Bei Fragen zu einzelnen Positionen bitten wir um Mitteilung innerhalb von sieben Tagen.
+Die Leistungen wurden nach dem tatsächlichen Zeitaufwand erbracht. Bei Fragen zu einzelnen Positionen bitten wir um Mitteilung innerhalb von sieben Tagen. Die Erstbesprechung vom [[date|03.06.2025]] fand in den Räumen der Kanzlei statt. Die Verhandlung vom [[date|15.07.2025]] dauerte drei Stunden. Der Stundensatz für Verhandlungen beträgt EUR 180,00 zuzüglich Umsatzsteuer; die Schriftsätze wurden nach Aufwand verrechnet. Die Kanzlei hat für die Zustellung des Urteilsentwurfs an [[person|Halpern]] keine gesonderte Gebühr angesetzt.
 
 [[address|2095 Drosendorf-Zissersdorf]], am [[date|22.09.2025]]
 
