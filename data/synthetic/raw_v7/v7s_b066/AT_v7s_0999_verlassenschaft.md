@@ -58,7 +58,7 @@ Die Lebensversicherung ist nach den Angaben der Erblasserin auf die Schwester be
 
 Die Forderungen der [[organization|Staud e.U.]] gegen ihre Kunden sind mit dem Stichtag [[date|30.06.2026]] festgestellt. Ein Teil der Forderungen ist nach Einschätzung der Erbin uneinbringlich, weil die Kunden zum Teil Insolvenzverfahren eröffnet haben. Die Erbin [[person|Thür]] wird die Firma nur fortführen, wenn die Verbindlichkeiten aus dem Betrieb gesichert sind.
 
-Die Einantwortung kann nach Ablauf der Einwendungsfrist beantragt werden. Auf Anfrage erhalten die Erben eine Abschrift des Nachlassverzeichnisses. Rückfragen bitte telefonisch unter [[phone_number|0463/9918529 DW 195]] richten.
+Die Einantwortung kann nach Ablauf der Einwendungsfrist beantragt werden. Auf Anfrage erhalten die Erben eine Abschrift des Nachlassverzeichnisses. Rückfragen bitte telefonisch an die Kanzlei, Tel. [[phone_number|0463/9918529 DW 195]].
 
 Ausgefertigt in [[location|Jagerberg]], am [[date|9. August 2026]].
 

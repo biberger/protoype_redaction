@@ -131,6 +131,16 @@ Mitschuldnerin:
 ____________________________
 [[person|Ehrentraud Einspieler]]
 
+XIII. Schlussbestimmungen
+
+Sollte eine Bestimmung dieses Vertrags unwirksam sein, bleibt der übrige Vertrag gültig. Die Parteien verpflichten sich, die unwirksame Bestimmung durch eine wirtschaftlich gleichwertige zu ersetzen. Der Vertrag unterliegt österreichischem Recht. Die Parteien erklären, dass alle Angaben zu ihrer Person, zu Geburtsdatum, Staatsangehörigkeit und Anschrift richtig sind.
+
+Beilagenverzeichnis:
+./1 Lagebeschreibung der Liegenschaft
+./2 Grundbuchsauszug vom [[date|01.09.2026]]
+./3 Vollmacht des Geschäftsführers der [[organization|STÖHR GMBH]]
+./4 Energieausweis des Wohnhauses
+
 Vorstehende Unterschriften wurden in unserer Gegenwart geleistet. Die Parteien wurden über die Rechtsfolgen belehrt.
 
 [[lawyer|Dr. Aslan]]

@@ -35,7 +35,10 @@ Wir fordern Sie auf, den Schaden bis zum [[date|20.10.2026]] zu ersetzen und die
 
 Die Haftpflichtversicherung Ihres Unternehmens haben wir bisher nicht erfahren; eine Zahlung über die Versicherung wäre für unseren Mandanten am raschesten. wir bitten um deren Bekanntgabe bis zum genannten Termin. Bitte richten Sie künftige Schreiben an unsere Kanzlei. Eine direkte Kontaktaufnahme mit unserem Mandanten ist zu unterlassen.
 
+Zur Klarstellung: Die Kosten der Abschleppung in Höhe von EUR 380,00 sowie die Gebühren des Sachverständigen von EUR 690,00 sind in der oben genannten Schadenssumme noch nicht enthalten und werden im Fall einer Klage gesondert geltend gemacht.
+
 Mit freundlichen Grüßen
 
 [[person|Ehrenreich]]
 Rechtsanwalt
+Tel. [[phone_number|+43 2622 942 35 83-4]]

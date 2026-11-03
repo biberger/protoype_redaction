@@ -57,7 +57,7 @@ Die Herabsetzung der Geldbuße auf EUR 6.000,00 trägt diesen Umständen Rechnun
 
 Der Beschuldigte hat in seiner Stellungnahme vom [[date|09.03.2026]] vorgebracht, die Gelder seien mit dem Beschwerdeführer in einer Honorarvereinbarung über die Erbschaftssache getroffen worden. Eine schriftliche Vereinbarung existiert nicht. Der Beschuldigte konnte auch nicht erklären, weshalb die Abrechnung erst nach der Anzeige erstellt wurde. Der Senat sieht darin einen weiteren Hinweis darauf, dass die Verwaltung der Anderkonten nicht den Anforderungen entsprach.
 
-Der Beschuldigte hat zudem bestritten, dass der Restbetrag um EUR 4.100,00 vermindert wurde, und auf eine Verrechnung mit einem Vorschuss verwiesen. Auch dieser Vorschuss ist nicht belegt. Der Senat hat diese Behauptung daher als unbeachtlich verworfen.
+Der Beschuldigte hat zudem bestritten, dass der Restbetrag um EUR 4.100,00 vermindert wurde, und auf eine Verrechnung mit einem Vorschuss verwiesen. Auch dieser Vorschuss ist nicht belegt. Der Senat hat diese Behauptung daher als unbeachtlich verworfen. Der Beschwerdeführer hat dazu keine weitere Stellung genommen, und eine Vertagung wurde nicht beantragt.
 
 Gegen dieses Erkenntnis ist ein weiteres Rechtsmittel nicht zulässig. Die Ausfertigung ergeht an den Beschuldigten, an den Beschwerdeführer, an die Kammeranwältin und an die [[organization|RAK]].
 

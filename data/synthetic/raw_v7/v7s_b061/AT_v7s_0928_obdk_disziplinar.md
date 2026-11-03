@@ -57,7 +57,7 @@ Der Senat hat die Zeugin [[person|Ingeborg Lechner]] vernommen, die bis Juni 202
 
 Der Zeuge [[person|Gerhard Atzl]], Steuerberater der Kanzlei, hat bestätigt, dass für die Auszahlungen an den Beschuldigten keine Entnahmebelege vorhanden waren. Er habe den Beschuldigten im Frühjahr 2025 wiederholt auf die Notwendigkeit einer getrennten Buchführung hingewiesen, ohne dass dies umgesetzt worden sei.
 
-Der Beschuldigte hat in der Verhandlung darauf hingewiesen, dass er in dieser Zeit persönlich finanziell belastet war und die Kanzlei nicht mehr ordnungsgemäß führen konnte. Der Senat erkennt die persönliche Belastung an, sieht darin jedoch keinen Rechtfertigungsgrund. Ein Rechtsanwalt, der seine Kanzlei nicht mehr ordnungsgemäß führen kann, muss die Berufsausübung einschränken oder einen Vertreter bestellen.
+Der Beschuldigte hat in der Verhandlung darauf hingewiesen, dass er in dieser Zeit persönlich finanziell belastet war, eine Scheidung zu bewältigen hatte und die Kanzlei deshalb nicht mehr ordnungsgemäß führen konnte. Der Senat erkennt die persönliche Belastung an, sieht darin jedoch keinen Rechtfertigungsgrund. Ein Rechtsanwalt, der seine Kanzlei nicht mehr ordnungsgemäß führen kann, muss die Berufsausübung einschränken oder einen Vertreter bestellen.
 
 IV a. Strafbemessung im Einzelnen
 

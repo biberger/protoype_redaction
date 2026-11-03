@@ -38,6 +38,8 @@ Wir weisen darauf hin, dass beim [[court|Bezirksgericht Ried im Innkreis]] ein M
 
 Wir fordern Sie daher auf, die offene Forderung binnen 14 Tagen auf das Treuhandkonto IBAN [[bank_account|AT08 7991 5432 9082 6123]] zu überweisen. Die Kosten des Verfahrens und die Zinsen gemäß [[legal_norm|§ 1333 ABGB]] werden in diesem Fall ebenfalls geltend gemacht. Ein Vergleich ist nur unter Anerkennung der vollen Werklohnforderung möglich.
 
+Die Zahlungsfrist endet mit Ablauf des [[date|5. Oktober 2026]]. Eine Teilzahlung nehmen wir als Anerkenntnis eines Teilbetrags an, ohne auf die Restforderung zu verzichten. Die Kosten der bisherigen außergerichtlichen Vertretung in Höhe von EUR 1.260,00 sind im genannten Betrag nicht enthalten und werden gesondert geltend gemacht.
+
 Wir bitten, sämtliche Korrespondenz unter dem Zeichen [[other_identifier|BGC-BGCHobel/Holzer]] zu führen.
 
 Mit freundlichen Grüßen

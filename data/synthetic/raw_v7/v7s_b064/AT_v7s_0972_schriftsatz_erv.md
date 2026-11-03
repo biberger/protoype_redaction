@@ -51,6 +51,8 @@ Die Kläger stellen die Anträge,
 
 2. die Kosten dieses Verfahrens sind der Beklagten aufzuerlegen.
 
+Die Kläger haben die Beklagte bereits am [[date|30.03.2026]] schriftlich zur Anerkennung des Anspruchs aufgefordert. Die Beklagte hat dies mit Schreiben vom [[date|15.04.2026]] abgelehnt und auf eine fehlende Warnung hingewiesen, die jedoch durch die Beschilderung vor Ort entkräftet ist.
+
 Beilagen: ./A Schadenmeldung vom [[date|20.03.2026]]; ./B Lichtbilder; ./C Kfz-Gutachten; ./D Polizzen der Kfz-Versicherung; ./E Vollmacht; ./F Werkstattrechnung
 
 Tel. [[phone_number|0316 521967-81]]

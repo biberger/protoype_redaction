@@ -77,6 +77,26 @@ Rechtliche Beurteilung
 
 14. Gegen dieses Erkenntnis steht den Parteien innerhalb von vier Wochen ab Zustellung die Berufung an die [[court|OBDK]] offen. Die Kosten des Verfahrens werden nach dem Verfahrensausgang bemessen.
 
+Verfahrensgang
+
+Die Kammeranwaltschaft hat die Anzeige nach der Prüfung des Treuhandkontos eingeleitet. Der Beschuldigte wurde am [[date|05.06.2026]] zur schriftlichen Stellungnahme aufgefordert; die Frist wurde auf seinen Antrag um zwei Wochen verlängert. Die Anklageschrift ist dem Beschuldigten am [[date|18.08.2026]] zugestellt worden.
+
+Die Hauptverhandlung fand am [[date|30.09.2026]] statt. Der Beschuldigte war persönlich anwesend und hat sich mit seinem Verteidiger beraten. Die Kanzleikraft wurde als Zeugin nicht vernommen, weil sie zum Zeitpunkt der Verhandlung noch nicht wieder arbeitsfähig war. Der Senat hat stattdessen die schriftliche Auskunft der Kanzleikraft verlesen.
+
+Anträge und Verteidigung
+
+Der Kammeranwalt hat beantragt, den Beschuldigten für schuldig zu erkennen und eine Geldbuße von EUR 4.000,00 zu verhängen. Die Verteidigung hat beantragt, das Verfahren einzustellen, hilfsweise eine Geldbuße im unteren Bereich des Strafrahmens festzusetzen.
+
+Die Verteidigung hat vorgebracht, dass die Verbuchung der Kaufpreisrate vom [[date|23.01.2026]] mit der Übergabe einer Zwischenabrechnung an die Klienten zusammenhing und dass die Klienten daher über den Stand der Verwahrung informiert gewesen seien. Eine solche Zwischenabrechnung wurde jedoch nicht vorgelegt, und die Klienten bestreiten, sie erhalten zu haben.
+
+Der Senat hat die Einstellung des Verfahrens abgelehnt, weil die Voraussetzungen einer Diversion im Disziplinarverfahren nicht vorliegen und die Verletzung der Pflicht zur Verbuchung nicht als geringfügig angesehen werden kann.
+
+Strafbemessung
+
+Der Strafrahmen für die Verletzung von Pflichten im Zusammenhang mit Klientengeldern reicht bis zu einer Geldbuße von EUR 20.000,00. Bei der Bemessung hat der Senat die Dauer der Verzögerung, die Zahl der betroffenen Bewegungen und das Ausmaß der Gefährdung der Klienten berücksichtigt.
+
+Die Gefährdung war im vorliegenden Fall begrenzt, weil die Beträge zwar verspätet, aber vollständig verbucht wurden und keiner der Klienten einen Vermögensverlust erlitten hat. Der Senat hat die Geldbuße daher im unteren Bereich des Strafrahmens festgesetzt.
+
 Für die Richtigkeit der Ausfertigung:
 
 [[location|Klagenfurt]], am [[date|30.09.2026]]

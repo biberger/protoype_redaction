@@ -75,6 +75,12 @@ Rechtliche Beurteilung
 
 19. Gegen dieses Erkenntnis ist ein Rechtsmittel an den [[court|OGH]] zulässig. Die Frist beginnt mit der Zustellung dieser Ausfertigung an den Beschuldigten.
 
+Strafbemessung
+
+Der Senat hat bei der Bemessung der Geldbuße den Strafrahmen für Verstöße gegen die Pflichten zur Verwahrung von Klientengeldern berücksichtigt. Er hat dabei gewertet, dass die Buchungsfehler innerhalb eines kurzen Zeitraums von rund zwei Wochen entstanden sind und dass die Beträge zu keinem Zeitpunkt verloren waren.
+
+Die Kammer hat in ihrer Berufung eine Geldbuße von EUR 5.000,00 beantragt. Der Senat folgt diesem Antrag nicht, weil der Beschuldigte bisher disziplinär nicht in Erscheinung getreten ist und die Fehler nach Feststellung der Kammer selbst nachgetragen wurden. Der Verweis ist zusätzlich geboten, um den Beschuldigten auf die Bedeutung eines lückenlosen Treuhandbuches hinzuweisen.
+
 Für die Richtigkeit der Ausfertigung:
 
 [[location|Wien]], am [[date|16.07.2026]]

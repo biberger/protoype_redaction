@@ -85,6 +85,10 @@ II. Rechtliche Ausführungen
 
 5. Die Klägerin hat die Schadensposition für den Austausch der Installation durch den Bericht des Haustechnikers belegt. Die Rechnungen des ausführenden Installateurs werden auf Verlangen nachgereicht.
 
+6. Die Wohnung war bei Auszug in einem Zustand, der mit der Übergabe im Jahr 2021 nicht vergleichbar war. Die Übergabeprotokolle belegen den Zustand der Küche, des Bades und der Fenster. Der Erstbeklagte hat die Mängel bei der Besichtigung am [[date|04.08.2026]] nicht bestritten, sondern lediglich auf eine übliche Abnützung verwiesen.
+
+7. Die Forderung auf Ersatz der Schlösser ist nach [[legal_norm|§ 1111 ABGB]] berechtigt, weil die Klägerin die Wohnung ohne Schlüssel nicht vermieten konnte. Die Klägerin hat die Rechnung des Schlossers vom [[date|04.08.2026]] vorgelegt. Die Klägerin behält sich vor, die Kosten der Ersatzvornahme im Verfahren gesondert zu beziffern, sobald die Rechnungen des Installateurs vorliegen.
+
 III. Beweise
 
 Die Klägerin bietet zum Beweis ihres Vorbringens weiters an: die Vorlage der Mietzinsbuchung der Hausverwaltung, die Einvernahme des Erstbeklagten als Partei gemäß [[legal_norm|§ 380 ZPO]] und die Vorlage der Übergabeprotokolle vom [[date|01.09.2021]] und vom [[date|31.07.2026]].
@@ -99,7 +103,7 @@ Beilagen:
 
 Die Klägerin ersucht um Anberaumung einer mündlichen Verhandlung und erklärt sich mit einer Entscheidung im vereinfachten Verfahren nicht einverstanden.
 
-Vorlage per ERV
+Vorlage im elektronischen Rechtsverkehr
 
 [[lawyer|Becher]]
 Rechtsanwalt

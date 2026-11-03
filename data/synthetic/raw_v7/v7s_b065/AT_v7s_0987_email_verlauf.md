@@ -71,7 +71,7 @@ Schadenregulierung
 >
 > Herr [[person|Caciagli]] war zum Zeitpunkt der Feststellung als Lagerarbeiter tätig.
 
-Von: [[person|Elvira Pink]] <[[email|e.pink@batthyany-handel.at]]>
+Von: [[person|Palme]] <[[email|palme@palme-rechtsanwaelte.at]]>
 Gesendet: Montag, [[date|8. Juni 2026]] 14:05
 An: [[person|Ferdl Allmayer]]; [[person|Philipp Drucker]]
 Betreff: AW: AW: Schaden-Nr. [[other_identifier|57/664896/22]]
@@ -82,9 +82,9 @@ wir bitten Sie zudem, uns die Fotodokumentation der Besichtigung zu übermitteln
 
 Das Gutachten von Herrn [[person|Pesendorfer]] ist uns bis heute nicht zugegangen. Wir ersuchen um Übersendung bis Ende der Woche. Die [[organization|BHG]] behält sich vor, die Schadenssumme von EUR 14.200,00 gerichtlich geltend zu machen.
 
-Mit freundlichen Grüßen
+Unsere Mandantin hat den Schaden wie folgt ermittelt: Die Lagerware ist mit EUR 7.800,00, die Reinigungskosten mit EUR 1.800,00 und der Produktionsausfall mit EUR 4.600,00 bewertet. Die Position Produktionsausfall setzt voraus, dass die Lieferfristen gegenüber Kunden nicht eingehalten werden konnten; die entsprechenden Bestellungen legen wir Ihnen auf Verlangen vor. Wir ersuchen Sie, die Aufstellung zu prüfen und bis zum [[date|19.06.2026]] Stellung zu nehmen.
 
-[[person|Elvira Pink]]
+Mit freundlichen Grüßen
 
 Rechtsanwälte
 [[person|Palme]], [[person|Vodosek]]

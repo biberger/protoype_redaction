@@ -116,7 +116,7 @@ VIII. Abwicklung und Fristen
 
 6. Die Geschäftsführerin [[person|Ascher]] bestätigt als Vertreterin der Verkäuferin mit ihrer Unterschrift, dass die Angaben im Vertrag vollständig sind und dass keine weiteren Verbindlichkeiten bestehen, die auf die Liegenschaften durchschlagen.
 
-7. Änderungen dieser Fristenregelung bedürfen der schriftlichen Zustimmung aller Vertragsteile und der Kanzlei. Mündliche Zusagen der Verkäuferin, etwa über einen früheren Übergabetermin, sind unwirksam.
+7. Änderungen dieser Fristenregelung bedürfen der schriftlichen Zustimmung aller Vertragsteile und der Kanzlei. Mündliche Zusagen der Verkäuferin, etwa über einen früheren Übergabetermin, sind unwirksam und werden von der Kanzlei nicht beachtet.
 
 Für Rückfragen steht die Kanzlei unter Tel. [[phone_number|+43-2622-6160446 DW 791]] zur Verfügung.
 

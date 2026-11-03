@@ -49,11 +49,23 @@ IV. Erben und Vermächtnisnehmer
 
 10. Der Erblasserin Nachkommen sind nicht vorhanden. Die [[person|Gerta Saurer]] hat keine Kinder hinterlassen; die Ehe mit dem Vorverstorbenen wurde [[date|17. Juli 1983]] geschlossen.
 
-11. Der Verstorbenen Nichte, [[person|Danegger Gottfriede]], hat auf die Erbschaft verzichtet, behält jedoch den Vermächtnisanspruch.
+11. Die Vermächtnisnehmerin [[person|Danegger]] hat auf die Erbschaft verzichtet, behält jedoch den Vermächtnisanspruch.
+
+Das Inventar vom [[date|5. Oktober 2026]] verzeichnet Hausrat im Wert von EUR 3.900,00, Schmuck im Wert von EUR 2.150,00 und einen Pkw ohne Verkehrswert. Die Liegenschaft wurde am [[date|12. August 2026]] durch einen Sachverständigen geschätzt; der Verkehrswert beträgt EUR 265.000,00.
+
+Zu ihren Lebzeiten hatte [[person|Saurer]] die Verwaltung der Liegenschaft einer Hausverwaltung übertragen. Die Verträge wurden mit Ablauf des [[date|31. Juli 2026]] gekündigt. Die Mieter haben die Wohnungen bis zum [[date|30. September 2026]] geräumt.
+
+Die Vermächtnisnehmerin stellt sich wie folgt dar:
+
+[[person|Zitta Ehgartner]],
+geb. [[date_of_birth|26.12.1948]],
+[[address|Dorfstraße 21, 4324 Rechberg]]
+
+Herr [[person|Garcia]] hat am [[date|6. Oktober 2026]] die Formulare zur Erbserklärung übernommen. Die Vermächtnisse von [[person|Danegger]] und [[person|Ehgartner]] betreffen Wertpapiere, die bei der [[organization|Oberbank]] verwahrt werden.
 
 V. Schlussbemerkung
 
-12. Die Notare wurden vom Gericht mit der Verlassenschaftsabhandlung beauftragt. Die Erben werden ersucht, Unterlagen über Vermögenswerte bis zum [[date|30. November 2026]] einzureichen.
+12. Die Notare wurden vom Gericht mit der Verlassenschaftsabhandlung beauftragt. Die Erben werden ersucht, Unterlagen über Vermögenswerte bis zum [[date|2. November 2026]] einzureichen.
 
 [[location|Michelhausen]], am [[date|26. Oktober 2026]]
 

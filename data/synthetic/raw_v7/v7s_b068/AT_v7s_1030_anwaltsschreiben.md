@@ -31,13 +31,17 @@ Der Gegner, Herr [[person|Jakob Krasser]], hat die Mauer am [[date|12. September
 
 Wir empfehlen Ihnen, die Angelegenheit zunächst außergerichtlich über einen Vermessungsbefund zu klären. Die Kosten dafür sind mit rund EUR 1.200,00 zu veranschlagen.
 
-Die Eigentümerin des Nachbargrundstücks, Frau [[person|Ferstl Walpurga]], geb [[date_of_birth|2. September 1950]], hat sich bisher nicht geäußert. Eine Liste der beteiligten Personen lautet:
+Die Eigentümerin des Nachbargrundstücks, Frau [[person|Ferstl Walpurga]], geb. [[date_of_birth|1950-09-02]], hat sich bisher nicht geäußert. Eine Liste der beteiligten Personen lautet:
 
 [[person|Ferstl Walpurga]]
 [[person|Krasser Jakob]]
 [[person|Avramova Lidija]]
 
-Tel. [[phone_number|+43-463-8500050-9]] ist die Durchwahl der Sachbearbeitung.
+Die bisherigen Gespräche mit der Gegenseite haben keine Einigung gebracht. Herr [[person|Krasser]] bestreitet, dass die Mauer auf Ihrem Grund errichtet wurde, und verweist auf einen Plan aus dem Jahr 1987, den wir noch beschaffen werden. Die Kosten einer Plananfrage beim Vermessungsamt sind im genannten Betrag bereits enthalten.
+
+Wir bitten Sie, bis zum [[date|16. Oktober 2026]] alle Unterlagen über die Errichtung der Mauer zu übermitteln, insbesondere Bescheide, Fotos und die Korrespondenz mit der Nachbarschaft. Die Unterlagen sind für die Beurteilung der Verjährungsfrage notwendig.
+
+Die Sachbearbeitung ist unter Tel. [[phone_number|+43-463-8500050-9]] erreichbar.
 
 Mit freundlichen Grüßen
 

@@ -10,7 +10,7 @@ lang: de
 UNFALLANZEIGE – VERKEHRSUNFALL MIT PERSONENSCHADEN
 
 Geschäftszahl: [[case_number|PI-GAN 512/26]]
-Erstellt am [[date|21.09.2026]], Uhrzeit der Erhebung 14:15 Uhr
+Erstellt am [[date|24.09.2026]], Uhrzeit der Erhebung 14:15 Uhr
 Ort: [[location|Gänserndorf]], Bundesstraße am Ortsrand
 
 1. Anlass und Einsatzkräfte
@@ -74,7 +74,7 @@ Die Unfallstelle wurde nach Abschluss der Vermessung um 16:40 Uhr freigegeben. D
 
 Gegen [[person|Schallert]] wird eine Anzeige nach der [[legal_norm|Straßenverkehrsordnung]] erstattet. Die Verwaltungsübertretung ist der Bezirkshauptmannschaft zur weiteren Veranlassung zu übermitteln. [[person|Wachstein]] und [[person|Scheiber]] werden über den Zeitpunkt der Ersatzansprüche informiert.
 
-[[location|Gänserndorf]], am [[date|21.09.2026]]
+[[location|Gänserndorf]], am [[date|24.09.2026]]
 
 Für die Richtigkeit:
 BezInsp. [[person|Walburga Pühringer]]

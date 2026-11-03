@@ -91,7 +91,7 @@ VIII. Dienstbarkeiten und Wegerechte
 
 IX. Erklärungen der Verkäufer
 
-1. Die Verkäufer erklären, dass die Liegenschaft nicht Gegenstand eines Verfahrens nach dem Außerstreitgesetz ist und dass über sie keine Zwangsversteigerung anhängig ist.
+1. Die Verkäufer erklären, dass die Liegenschaft nicht Gegenstand eines Verfahrens nach dem [[legal_norm|Außerstreitgesetz]] ist und dass über sie keine Zwangsversteigerung anhängig ist.
 
 2. Die Verkäufer halten das Eigentum je zur Hälfte. Beide erklären, dass der Vertrag von beiden unterfertigt wird und dass keine weiteren Eigentümer, Pfandgläubiger oder Berechtigten außer den im Grundbuch eingetragenen vorhanden sind.
 

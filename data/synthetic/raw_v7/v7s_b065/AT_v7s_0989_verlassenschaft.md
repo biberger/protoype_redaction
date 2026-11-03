@@ -21,7 +21,7 @@ Tel. [[phone_number|05572 103784 Durchwahl 42]]
 
 Protokoll über die Verlassenschaftsabhandlung
 
-Die Verlassenschaft nach der Erblasserin [[person|Klithilde Sperling]], geb [[date_of_birth|10.05.1935]], wurde mit Beschluss des [[court|BG Döbling]] vom [[date|23.04.2018]] eingeleitet. Frau [[person|Sperling]] ist am [[date|19.04.2018]] verstorben. Ihr letzter Wohnsitz befand sich in Wien.
+Die Verlassenschaft nach der Erblasserin [[person|Klithilde Sperling]], geb [[date_of_birth|10.05.1935]], wurde mit Beschluss des [[court|BG Döbling]] vom [[date|23.04.2018]] eingeleitet. Frau [[person|Sperling]] ist am [[date|19.04.2018]] verstorben. Ihr letzter Wohnsitz befand sich in [[location|Wien]].
 
 Die Abhandlung wurde durch den Gerichtskommissär [[person|Konetzni]] am [[date|09.10.2026]] fortgesetzt. Anwesend waren die Erbberechtigten und die bekannten Gläubiger, soweit sie ihre Forderungen angemeldet hatten.
 
@@ -66,11 +66,37 @@ IV. Verfahrensergebnis
 
 Der Gerichtskommissär hält fest, dass das Testament der Erblasserin vom [[date|02.03.2011]] wirksam errichtet wurde. Die Erbberechtigten haben den Nachlass in der oben genannten Quotenverteilung übernommen. Die Gläubiger wurden auf die Frist für die Anmeldung ihrer Forderungen hingewiesen.
 
-Der Vertrag über die Lebensversicherung wurde mit dem Versicherungsnehmer abgerechnet; der Rückkaufswert fließt in den Nachlass. Herr [[person|Magg]] hat die Liegenschaft übernommen und die Miete für die Wohnung bis zur Übergabe an die Erbengemeinschaft weiterentrichtet.
+Der Vertrag über die Lebensversicherung wurde mit dem Versicherungsnehmer abgerechnet; der Rückkaufswert fließt in den Nachlass. Herr [[person|Magg]] hat die Liegenschaft besichtigt und die Betriebskosten bis zur Übergabe an die Erbengemeinschaft vorgeschossen.
 
 Frau [[person|Aboud]] hat angezeigt, dass sie auf ihren Anteil an der Liegenschaft zugunsten von Herrn [[person|Alge]] verzichten möchte. Dieser Verzicht bedarf noch der Zustimmung der übrigen Erben. Der Gerichtskommissär wird die Zustimmung in einer gesonderten Verhandlung einholen.
 
 Die Kosten der Verlassenschaftsabhandlung trägt der Nachlass. Eine Einantwortung kann nach Vorliegen der Zustimmung erfolgen.
+
+V. Schulden und Begräbniskosten
+
+Die Forderungen der Gläubiger wurden im Verfahren geprüft. Die Forderung von [[person|Mila Holt]] wurde durch Vorlage eines schriftlichen Darlehensvertrags vom [[date|12.05.2015]] belegt; die Rückzahlungsraten waren bis zum Tod der Erblasserin teilweise erbracht worden. Die Forderung von [[person|Birgitta Stapf]] beruht auf Pflegeleistungen, die sie in den Jahren 2016 bis 2018 erbracht hat. Die Stundenaufstellung wurde vorgelegt und vom Gerichtskommissär geprüft.
+
+Die Begräbniskosten wurden von [[person|Roghieh Aboud]] vorgeschossen und mit EUR 3.120,00 belegt. Die Gerichtsgebühren sind in diesem Betrag enthalten. Eine Abrechnung über die Verwaltungskosten des Nachlasses durch eine Hausverwaltung wurde nicht vorgelegt; diese Kosten sind daher nicht zu berücksichtigen.
+
+VI. Liegenschaft und Verwaltung
+
+Die Liegenschaft wurde seit dem Tod der Erblasserin nicht mehr vermietet. Die Wohnung im Erdgeschoß ist seit dem [[date|01.07.2018]] leer. Die Betriebskosten und die Grundsteuer wurden aus dem Nachlass bezahlt. Der Zustandsbericht von Herrn [[person|Magg]] ist dem Protokoll als Beilage angeschlossen.
+
+Das Gutachten vom [[date|14.09.2018]] bewertet die Liegenschaft unter Berücksichtigung des Zustands der Heizungsanlage und der Dachrinnen. Der Sachverständige hat die Feuchtigkeitsschäden im Kellergeschoß dokumentiert; diese wurden bei der Schätzung berücksichtigt.
+
+VII. Bankkonten und Versicherung
+
+Das Girokonto bei der [[organization|Oberbank AG]] wurde am [[date|30.11.2018]] auf die Erbengemeinschaft umgeschrieben. Die Zinsen der Jahre 2018 bis 2026 wurden dem Nachlass gutgeschrieben. Die Lebensversicherung war auf den Namen der Erblasserin abgeschlossen; der Versicherer hat den Rückkaufswert nach Vorlage der Sterbeurkunde ausbezahlt.
+
+VIII. Testament, Pflichtteil und Erbrecht
+
+Das Testament enthält keine Anordnungen, die einer Erbengemeinschaft entgegenstehen. Ein Pflichtteilsberechtigter ist nach Auskunft der Erbberechtigten nicht vorhanden. Nach [[legal_norm|§ 762 ABGB]] ist der Erbe zur Übernahme der Verlassenschaft nur verpflichtet, soweit dies das Gesetz vorsieht. Die Erbberechtigten haben die Haftung auf den Nachlass beschränkt.
+
+Die Erbberechtigten wurden darauf hingewiesen, dass eine Einantwortung erst nach Ablauf der Frist zur Anmeldung von Forderungen erfolgen kann. Die Frist ist mit dem Protokoll abgelaufen; weitere Forderungen wurden nicht angemeldet.
+
+IX. Rechtsmittel
+
+Gegen dieses Protokoll steht den Beteiligten die Möglichkeit offen, binnen vierzehn Tagen Einwendungen beim [[court|Bezirksgericht Döbling]] zu erheben. Ein Verzicht auf die Einwendungen ist nicht vorgesehen.
 
 [[location|Langenzersdorf]], am [[date|09.10.2026]]
 

@@ -51,19 +51,27 @@ Der Beschuldigte erklärt in seiner Einvernahme, dass die Beträge vom [[date|25
 
 Der Zeuge hat diese Darstellung bestritten. Er gab an, im Gespräch am [[date|02.06.2025]] lediglich über den Stand des Vergleichs gesprochen zu haben.
 
+Die Verteidigung hat beantragt, den Ehemann des Zeugen, Herrn [[person|Thomas Prettner]], als Zeugen zu vernehmen. Der Senat hat den Antrag abgelehnt, weil nicht behauptet wurde, dass Herr [[person|Thomas Prettner]] bei dem Gespräch vom [[date|02.06.2025]] anwesend war. Die Beweisaufnahme ist damit abgeschlossen.
+
 Würdigung:
 
-Der Senat hält die Angaben des Zeugen [[person|Florian Prettner]] für glaubwürdig. Sie decken sich mit der Aktenlage, insbesondere mit den Auszügen des Anderkontos. Die Rechtfertigung des Beschuldigten, wonach eine Vereinbarung über ein Erfolgshonorar bestanden habe, ist durch keinen Beleg gestützt.
+Der Senat hält die Angaben des Zeugen [[person|Florian Prettner]] für glaubwürdig. Sie decken sich mit der Aktenlage, insbesondere mit den Auszügen des Anderkontos. Der Zeuge hat die Kontoauszüge bei seiner Einvernahme selbst erläutert und die Summen mit seinen eigenen Aufzeichnungen abgeglichen. Die Rechtfertigung des Beschuldigten, wonach eine Vereinbarung über ein Erfolgshonorar bestanden habe, ist durch keinen Beleg gestützt.
 
 Der Senat stellt fest, dass der Beschuldigte die Gelder im Umfang von EUR 12.000,00 ohne Berechtigung vom Anderkonto entnommen hat. Die Kammeranwältin [[person|Judith Rechberger]] hat zutreffend darauf hingewiesen, dass die Vereinbarung eines Erfolgshonorars zudem der Schriftform bedarf.
+
+Zur Frage des behaupteten Erfolgshonorars ist festzuhalten, dass ein Erfolgshonorar nach den Standesregeln nur in den gesetzlich zulässigen Fällen vereinbart werden darf und in jedem Fall schriftlich festzuhalten ist. Eine solche Vereinbarung liegt hier nicht vor. Selbst wenn man das Vorbringen des Beschuldigten als wahr unterstellt, hätte er die Beträge nicht ohne Abrechnung dem Anderkonto entnehmen dürfen.
+
+Die Verfahrensdauer von rund neun Monaten ist im Hinblick auf die Komplexität der Kontenbewegungen angemessen. Die Verzögerung wurde im Wesentlichen durch die Nachforderung der Kontoauszüge verursacht.
 
 Rechtliche Beurteilung:
 
 Der Beschuldigte hat gegen [[legal_norm|§ 16 Abs 1 RAO]] verstoßen, indem er Mandantengelder nicht getrennt verwahrte und für eigene Zwecke verwendete. Ein Verstoß gegen die Pflicht zur ordnungsgemäßen Verwaltung von Anderkonten ist nach [[legal_norm|§ 34 Abs 1 RAO]] disziplinär zu ahnden.
 
-Der Senat berücksichtigt bei der Strafbemessung, dass der Beschuldigte bisher keine Disziplinarstrafe erhalten hat. Erschwerend wirkt, dass die Gelder über einen längeren Zeitraum entnommen wurden und dass der Zeuge um die Auszahlung seines Vergleichsbetrags kämpfen musste.
+Der Senat berücksichtigt bei der Strafbemessung, dass der Beschuldigte bisher keine Disziplinarstrafe erhalten hat. Erschwerend wirkt, dass die Gelder über einen längeren Zeitraum entnommen wurden und dass der Zeuge um die Auszahlung seines Vergleichsbetrags kämpfen musste. Zugunsten des Beschuldigten wurde berücksichtigt, dass er die Abrechnung nach der Anzeige vollständig nachgereicht und die Kanzleiführung inzwischen an eine Kollegin übertragen hat. Dies ändert jedoch nichts am Vorwurf der zweckwidrigen Verwendung.
 
 Der Senat hat weiter erwogen, dass der Beschuldigte als langjähriger Rechtsanwalt die Pflichten gegenüber seinen Mandanten kennt. Die Verteidigung, er habe nur ein bestehendes Honorar eingefordert, ist daher nicht geeignet, den Vorwurf zu entkräften.
+
+Der Senat hat von der Einholung eines Sachverständigengutachtens zur Kontoführung abgesehen. Die Kontoauszüge sind vollständig vorgelegt worden und ergeben ein eindeutiges Bild; ein weiterer Beweis ist nicht erforderlich.
 
 Spruch:
 

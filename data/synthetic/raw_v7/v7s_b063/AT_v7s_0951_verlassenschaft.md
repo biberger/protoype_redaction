@@ -32,7 +32,7 @@ Patelis]], geb [[date_of_birth|25.05.1936]], StA: [[country|Italien]], wohnhaft 
 4400 Steyr]], Erbquote 1/6
 3. [[person|Zilli Schenk]], GEB: [[date_of_birth|1. März 1945]], wohnhaft in [[address|Landstraße 14, 4400 Steyr]], Erbquote 1/3
 
-Die Erbantrittserklärung der Erbin [[person|Bónis]] wurde am [[date|02.03.2026]] abgegeben. Die Erben [[person|Patelis]] und [[person|Schenk]] haben die bedingte Erbantrittserklärung abgegeben und sich die Annahme der Erbschaft nur mit Vorbehalt des Inventars vorbehalten.
+Die Erbantrittserklärung der Erbin [[person|Bónis]] wurde am [[date|02.02.2026]] abgegeben. Die Erben [[person|Patelis]] und [[person|Schenk]] haben die bedingte Erbantrittserklärung abgegeben und sich die Annahme der Erbschaft nur mit Vorbehalt des Inventars vorbehalten.
 
 3. Nachlassaktiva
 

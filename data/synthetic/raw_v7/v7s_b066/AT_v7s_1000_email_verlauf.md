@@ -8,7 +8,7 @@ Gesendet: Montag, [[date|19. Jänner 2026]], 07:52
 An: [[person|Mag. Wahl]]
 Betreff: Zeichen [[other_identifier|Romańczuk ./. Rosenthal]]
 
-Sehr geehrter Herr Mag. Wahl,
+Sehr geehrter Herr [[person|Mag. Wahl]],
 
 ich habe am [[date|8. Jänner 2026]] die Antwort der [[organization|Dworschak Handels GmbH]] (in der Folge [[organization|DHG]]) bekommen. Dort wird behauptet, dass der Wasserschaden in meiner Wohnung in [[location|Wald im Pinzgau]] durch eine nicht fachgerechte Abdichtung der Dusche entstanden sei, und dass die Firma dafür nicht hafte. Ich bin Diplom-Ingenieur und kann so etwas beurteilen: Die Abdichtung wurde von der Firma selbst ausgeführt.
 
@@ -18,6 +18,7 @@ Bitte prüfen Sie, ob wir die Schadenersatzforderung gegen die DHG geltend mache
 
 Mit freundlichen Grüßen
 [[person|Pelagiuszek Romańczuk]]
+Tel. [[phone_number|+43 5572 234 89 12 Kl. 25]]
 
 -----
 
@@ -53,7 +54,7 @@ An: [[person|Mag. Wahl]]
 Cc: [[person|Pelagiuszek Romańczuk]]
 Betreff: AW: Zeichen [[other_identifier|Romańczuk ./. Rosenthal]]
 
-Sehr geehrter Herr Mag. Wahl,
+Sehr geehrter Herr [[person|Mag. Wahl]],
 
 für die [[organization|DHG]] halte ich fest, dass [[organization|Dworschak]] die Abdichtung gemäß Kundenauftrag ausgeführt hat. Eine Garantie für die Dusche wurde nicht übernommen. Der Vertrag enthält unter Punkt 7 den Hinweis, dass Abdichtungen durch den Kunden nachzuprüfen sind.
 
@@ -69,6 +70,7 @@ Mit freundlichen Grüßen
 
 [[person|Tim Weinhofer]]
 Prokurist der [[organization|Dworschak Handels GmbH]]
+[[company_register_number|FN 401158p]], UID [[tax_id|ATU01081881]]
 
 -----
 

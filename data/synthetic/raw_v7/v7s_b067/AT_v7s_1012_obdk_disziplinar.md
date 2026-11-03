@@ -10,7 +10,7 @@ GZ der Kanzlei: [[other_identifier|138/26 RNW]]
 
 B E S C H L U S S
 
-Der [[court|Disziplinarrat der Tiroler Rechtsanwaltskammer]] hat am [[date|15. Juli 2026]] in Innsbruck in nichtöffentlicher Sitzung über die Disziplinaranzeige gegen Rechtsanwältin [[person|MMag. Florinka Valcheva]] entschieden.
+Der [[court|Disziplinarrat der Tiroler Rechtsanwaltskammer]] hat am [[date|15. Juli 2026]] in [[location|Innsbruck]] in nichtöffentlicher Sitzung über die Disziplinaranzeige gegen Rechtsanwältin [[person|MMag. Florinka Valcheva]] entschieden.
 
 Besetzung des Senats:
 
@@ -41,6 +41,12 @@ Datum | Vorgang | Betrag EUR | Treuhandnummer
 
 3. Die Beschuldigte war unter Tel. [[phone_number|+43 1 563 94 55-8]] erreichbar. Auf Anfragen von [[person|Danny Laube]] reagierte sie erst nach drei Wochen. Der Beschwerdeführer lebt in [[address|2492 Eggendorf]].
 
+Verfahrensgang
+
+Die Disziplinaranzeige wurde am [[date|11. Dezember 2025]] von der Kammeranwältin erstattet, nachdem der Beschwerdeführer [[person|Danny Laube]] sich bei der Tiroler Rechtsanwaltskammer beschwert hatte. Die Beschuldigte wurde am [[date|9. Jänner 2026]] zur Stellungnahme aufgefordert. Sie beantragte eine Fristerstreckung, die ihr bis zum [[date|28. Februar 2026]] gewährt wurde. Ihre Stellungnahme langte am [[date|25. Februar 2026]] ein und enthält die Behauptung, die [[organization|IBG]] habe einen Vorschuss vereinbart. Ein schriftlicher Vertrag wurde nicht vorgelegt.
+
+Die Beschwerdeführerin [[person|Malita Metaxa]] wurde am [[date|22. Mai 2026]] in der Verhandlung gehört. Sie bestätigte, dass sie die Rückzahlung von EUR 2.300,00 erst nach mehreren Mahnungen erhielt. Die Beschuldigte war bei dieser Verhandlung anwesend und äußerte sich ausführlich zur Kanzleiorganisation.
+
 Beweiswürdigung
 
 Der Senat stützt sich auf die Kontoauszüge, die Angaben der Beschwerdeführer und den Schriftverkehr zwischen der Beschuldigten und der [[organization|IBG]]. Die Beschuldigte bestritt die Auszahlung nicht, behauptete aber, die [[organization|IBG]] habe einen Vorschuss vereinbart. Ein solcher Vertrag liegt nicht vor.
@@ -51,7 +57,11 @@ Rechtliche Beurteilung
 
 Die Verwendung von Treuhandgeldern ohne Freigabe verletzt die Verwahrungspflicht nach [[legal_norm|§ 43a Abs 3 RAO]]. Die Beschuldigte hat die Gelder nicht im Sinne des Treuhandauftrags verwendet. Der Senat hält die Verletzung für schwerwiegend, weil die Beschwerdeführer ihr Vermögen über Monate nicht zurückerhielten.
 
-Mildernd wirkt der bisher ordentliche Lebenswandel und die teilweise Rückzahlung. Die Berufung an die [[court|OBDK]] ist binnen vier Wochen zulässig.
+Bei der Bemessung der Geldbuße berücksichtigte der Senat die Höhe der betroffenen Beträge und die Dauer der Pflichtverletzung. Die Beschuldigte hat im Verfahren keine Einsicht gezeigt; sie stellte die Verwendung der Gelder als notwendige Vorabentnahme dar. Dieses Verhalten wertet der Senat nicht erschwerend, bestätigt jedoch, dass eine spürbare Geldbuße erforderlich ist.
+
+Die Beschuldigte führt die Kanzlei seit dem Jahr 2019 allein; eine Vertretung im Fall der Abwesenheit war nicht eingerichtet. Diese organisatorische Lücke erklärt die Verzögerung bei der Rückzahlung, entschuldigt sie aber nicht.
+
+Mildernd wirkt der bisher ordentliche Lebenswandel und die teilweise Rückzahlung. Die Kosten des Verfahrens trägt die Beschuldigte nach [[legal_norm|§ 34 Abs 2 RAO]]. Die Berufung an die [[court|OBDK]] ist binnen vier Wochen zulässig.
 
 [[location|Innsbruck]], am [[date|15. Juli 2026]]
 

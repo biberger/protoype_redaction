@@ -17,7 +17,7 @@ und
 
 Mieterin:
 [[person|Zazilie Ninaus]], StA: [[country|Serbien]],
-[[address|Hauptplatz 12, 8160 Weiz]]
+[[address|Kirchenweg 7, 8160 Weiz]]
 
 Mitmieterin:
 [[person|Mag. Katharine Großmann]], StA: [[country|Syrien]],
@@ -25,7 +25,7 @@ Mitmieterin:
 
 § 1 Mietgegenstand
 
-1. Vermietet werden die Geschäftsräume im Erdgeschoß des Objekts [[address|Hauptplatz 12, 8160 Weiz]], bestehend aus drei Räumen, einem Lager und einem WC.
+1. Vermietet werden die Geschäftsräume im Erdgeschoß des Objekts [[address|Hauptplatz 12, Top 3, 8160 Weiz]], bestehend aus drei Räumen, einem Lager und einem WC.
 
 2. Die Liegenschaft ist im Grundbuch wie folgt eingetragen: [[land_register_id|EZ: 2251]] Katastralgemeinde [[land_register_id|50864 Jagerberg]] ([[court|BG Weiz]]).
 
@@ -45,11 +45,21 @@ Mitmieterin:
 
 § 4 Vertragsnummer und Hinweise
 
-8. Der Vertrag wird unter den Nummern [[other_identifier|Kunden-Nr. 681574]] der Mieterin geführt; die Vermieterin verwendet die Kundennummer [[other_identifier|681574]] für die Buchhaltung.
+8. Der Vertrag wird unter der Kunden-Nr. [[other_identifier|681574]] der Mieterin geführt; die Vermieterin verwendet dieselbe Nummer für die Buchhaltung.
 
-9. Die Kundennummern der Vermieterin lauten [[other_identifier|543302]] und [[other_identifier|306452]]. Die beiden Verträge über die Nebenräume wurden am [[date|2. Dezember 2024]] zusammengeführt.
+9. Die Vermieterin führt die Kd.-Nr. [[other_identifier|543302]] und die Kd.-Nr. [[other_identifier|306452]] für die Nebenräume. Die beiden Verträge über die Nebenräume wurden am [[date|2. Dezember 2024]] zusammengeführt.
 
 10. Für Rückfragen zur Vermietung erreichen Sie die Hausverwaltung unter Tel. [[phone_number|+43-2622-3742331-2]]. Die Gültigkeit dieses Vertrages beginnt mit der Unterfertigung durch beide Parteien.
+
+§ 4a Betriebskosten, Instandhaltung und Benützung
+
+10a. Die Mieterinnen tragen die Kosten der Reinigung des Stiegenhauses und der Gehsteigbetreuung anteilig. Die Heizkosten für das Geschäftslokal werden nach der Fläche aufgeteilt. Die Instandhaltung der Fenster und Türen obliegt den Mieterinnen, sofern der Schaden durch die Benützung verursacht wurde.
+
+10b. Die Vermieterin stellt zwei Stellplätze im Hof zur Verfügung. Die Benützung der Stellplätze ist im Mietzins enthalten. Die Mieterinnen haben die Zufahrt freizuhalten und die Anlieferung mit der Hausverwaltung abzustimmen.
+
+10c. Die Kaution in der Höhe von drei Monatsmieten wurde am [[date|20. Jänner 2026]] auf das Konto der Vermieterin eingezahlt. Die Rückzahlung erfolgt innerhalb von sechs Monaten nach Vertragsende, abzüglich allfälliger Schäden.
+
+10d. Eine Untervermietung oder eine Änderung der Rechtsform der Mieterinnen bedarf der schriftlichen Zustimmung der Vermieterin. Die Mieterinnen haben die Vermieterin über jede Änderung ihres Firmensitzes unverzüglich zu informieren.
 
 § 5 Schlussbestimmungen
 

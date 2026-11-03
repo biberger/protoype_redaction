@@ -15,7 +15,7 @@ danke für Ihre Rückmeldung. Die Liste der Fahrzeuge schicke ich bis Donnerstag
 Mit freundlichen Grüßen
 
 [[person|DI Otik Dark]]
-Geschäftsführer
+Geschäftsführer, [[organization|Schwentner KG]], [[company_register_number|FN 46351p]], UID [[tax_id|ATU39815599]]
 Tel. [[phone_number|05572 82182 DW 55]]
 [[address|6405 Pfaffenhofen]]
 
@@ -63,7 +63,7 @@ Die [[organization|SKG]] wird die Reparatur des Lieferwagens übernehmen, sofern
 Mit freundlichen Grüßen
 
 [[person|DI Otik Dark]]
-Geschäftsführer
+Geschäftsführer, [[organization|Schwentner KG]], [[company_register_number|FN 46351p]], UID [[tax_id|ATU39815599]]
 Tel. [[phone_number|05572 82182 DW 55]]
 [[address|6405 Pfaffenhofen]]
 
@@ -82,7 +82,7 @@ lg [[person|rády]]
 ---
 
 Von: [[person|MMag. Buglem Topaktaş]] <[[email|b.topaktas@schwentner.at]]>
-Gesendet: Dienstag, [[date|06. Oktober 2026]] 14:12
+Gesendet: Donnerstag, [[date|08. Oktober 2026]] 11:20
 An: [[person|Lebensaft]] <[[email|office@lebensaft.at]]>
 Cc: [[person|DI Otik Dark]] <[[email|o.dark@schwentner.at]]>
 Betreff: Unfall Kirchau, Zeugen

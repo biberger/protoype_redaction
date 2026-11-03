@@ -114,6 +114,10 @@ Ende der Anlage.
 
 Unterfertigt in [[address|2602 Blumau-Neurißhof]] am [[date|11.03.2026]]
 
+Zur Erläuterung der Vertragsgestaltung wird festgehalten, dass die Liegenschaften gemeinsam übertragen werden, weil die Verkäufer die Verwaltung der Objekte bisher gemeinsam geführt haben. Eine Teilung der Kaufpreise wurde nicht vorgenommen, da die Verkäufer im Innenverhältnis einen gemeinsamen Erlös vereinbart haben.
+
+Die Käufer bestätigen, dass ihnen die Lage der Liegenschaften, der Zustand des Daches und die Bauunterlagen vor Unterfertigung zur Besichtigung zur Verfügung standen. Sie verzichten daher auf Ansprüche wegen erkennbarer Mängel, soweit diese in der Besichtigung dokumentiert sind.
+
 Die Verkäufer:
 
 _______________________

@@ -80,6 +80,18 @@ VI. Gewährleistung
 
 2. Die Käuferinnen und Käufer erklären, die Liegenschaften besichtigt zu haben. Eine Haftung für Sachmängel wird soweit gesetzlich zulässig ausgeschlossen.
 
+VIa. Bauliche Verhältnisse und Vorkaufsrecht
+
+1. Die Verkäuferin erklärt, dass für das Wohnhaus auf der Liegenschaft in [[location|Mieming]] eine Baubewilligung aus dem Jahr 1998 besteht und dass die Benützungsbewilligung vorliegt. Für den Zubau aus dem Jahr 2011 liegt eine nachträgliche Genehmigung vor, die der Kanzlei übergeben wurde.
+
+2. An den Liegenschaften besteht kein Vorkaufsrecht zugunsten Dritter. Die Gemeinde hat auf ihr Vorkaufsrecht mit Schreiben vom [[date|12.06.2026]] verzichtet; das Schreiben liegt als Beilage bei.
+
+3. Die Käuferinnen und Käufer erklären, dass sie den Gebäudezustand besichtigt haben. Ein Bausachverständiger wurde nicht beigezogen. Mängel, die bei der Besichtigung nicht erkennbar waren, werden von der Verkäuferin nicht gewährleistet, soweit dies zulässig ist.
+
+4. Die Verkäuferin verpflichtet sich, die Heizungsanlage bis zur Übergabe warten zu lassen und die Wartungsnachweise der Kanzlei zu übermitteln.
+
+5. Die Parteien halten fest, dass die Grundstücksgrenzen in [[location|Völs]] nicht vermessen sind. Eine Vermessung wird von den Käuferinnen und Käufern auf eigene Kosten beauftragt, sofern dies das Grundbuch erfordert.
+
 VII. Kosten und Abgaben
 
 1. Die Kosten der Errichtung und Eintragung tragen die Käuferinnen und Käufer. Die Grunderwerbsteuer ist von ihnen nach [[legal_norm|§ 4 GrEStG]] zu entrichten.

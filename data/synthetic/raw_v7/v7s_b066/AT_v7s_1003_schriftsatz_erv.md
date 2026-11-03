@@ -19,7 +19,7 @@ Geschäftszahl: [[case_number|5 Cg 117/26h]]
 
 Klage
 
-der klagenden Partei [[organization|Kim Handels GmbH]], [[company_register_number|FN 365208x]], [[tax_id|UID ATU40467240]], vertreten durch [[person|M U H R]], Rechtsanwältin in Frutten-Gießelsdorf, gegen
+der klagenden Partei [[organization|Kim Handels GmbH]], [[company_register_number|FN 365208x]], [[tax_id|UID ATU40467240]], vertreten durch [[person|M U H R]], Rechtsanwältin in [[location|Frutten-Gießelsdorf]], gegen
 
 1. [[person|Rika Finger]], geb [[date_of_birth|23.03.1968]], [[address|8904 Ardning]],
 
@@ -43,7 +43,7 @@ Begründung:
 
 I. Sachverhalt
 
-1. Die Klägerin ist Eigentümerin der Liegenschaft, eingetragen im Grundbuch als [[land_register_id|EZ. 1206]], [[land_register_id|KG: 97076]] [[land_register_id|GSt-Nr. 570/20]]. Diese Liegenschaft war bis zum Jahr 2017 an die Beklagten zu 1. und 2. vermietet.
+1. Die Klägerin ist Eigentümerin der Liegenschaft, eingetragen im Grundbuch als [[land_register_id|EZ. 1206]], [[land_register_id|KG: 97076]] [[land_register_id|GSt-Nr. 570/20]]. Diese Liegenschaft liegt in der Gemeinde [[location|St. Andrä]] und war bis zum Jahr 2017 an die Beklagten zu 1. und 2. vermietet. Die Mietzinse wurden in dieser Zeit regelmäßig überwiesen, die Abrechnung für die Jahre 2015 bis 2017 liegt bei.
 
 2. Die Liegenschaft [[land_register_id|EZ1831]], [[land_register_id|KG Stronsdorf]] [[land_register_id|GSt-Nr. 1163/24]] wurde von der Klägerin aufgrund des Vertrags Vertragsnummer [[other_identifier|V-2017-89406]] übernommen. Die Beklagte zu 3. hat dafür eine Vorauszahlung von EUR 18.000,00 geleistet, die Beklagte zu 4. übernahm die Bürgschaft.
 
@@ -53,7 +53,7 @@ I. Sachverhalt
 
 II. Rechtliche Beurteilung
 
-Die Zuständigkeit des [[court|Handelsgerichts Wien]] ergibt sich aus § 51 JN, die Klägerin ist Unternehmerin. Die Haftung der Beklagten folgt aus [[legal_norm|§ 1295 ABGB]] iVm [[legal_norm|§ 1311 ABGB]] sowie aus dem Amtshaftungsgesetz für die Beklagte zu 5.
+Die Zuständigkeit des [[court|HG Wien]] ergibt sich aus [[legal_norm|§ 51 JN]], die Klägerin ist Unternehmerin. Die Haftung der Beklagten folgt aus [[legal_norm|§ 1295 ABGB]] iVm [[legal_norm|§ 1311 ABGB]] sowie aus dem [[legal_norm|Amtshaftungsgesetz]] für die Beklagte zu 5.
 
 Beweis: Urkunden laut beiliegender Beilagenübersicht, Einvernahme des Geschäftsführers der Klägerin, Einholung eines Sachverständigengutachtens.
 
@@ -67,5 +67,6 @@ Beilagenübersicht:
 ./B Schreiben vom [[date|12. Jänner 2026]]
 ./C Aufstellung der Mietzinseinnahmen
 ./D Vollmacht
+./E Schreiben der Gegenseite, Ihr Zeichen: [[other_identifier|837/26 F]]
 
 Tel. [[phone_number|0512/3061128 Kl. 25]]

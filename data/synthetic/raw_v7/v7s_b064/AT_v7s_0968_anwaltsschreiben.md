@@ -47,6 +47,8 @@ Wir weisen darauf hin, dass unser Mandant die Kosten für die bereits erfolgte Z
 
 Sollte bis dahin keine Reaktion erfolgen, werden wir die Klage beim zuständigen Gericht einbringen, ohne dies weiter anzukündigen.
 
+Die Frist ist angemessen bemessen, weil die Sanierung nach dem Gutachten innerhalb von drei Wochen ausgeführt werden kann, sobald der Auftrag erteilt ist. Wir erinnern außerdem an die Gewährleistungspflicht nach dem ABGB für Mängel, die innerhalb von drei Jahren nach Übergabe auftreten.
+
 Mit freundlichen Grüßen
 
 [[person|Janisch]]

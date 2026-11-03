@@ -17,7 +17,7 @@ Unser Zeichen: [[other_identifier|B/Babouli/2547]]
 Klientennummer: [[other_identifier|88582]]
 Tel. [[phone_number|0512 950012 Durchwahl 73]]
 
-Auftraggeber: Ing. [[person|Saied Babouli]]
+Auftraggeber: [[person|Ing. Saied Babouli]]
 Rechnungsdatum: [[date|9. Oktober 2026]]
 Rechnungsnummer: 2026-1187
 
@@ -34,6 +34,10 @@ Datum | Leistung | Betrag netto
 Zwischensumme netto: EUR 1.665,00
 20 % USt: EUR 333,00
 Gesamtbetrag: EUR 1.998,00
+
+Mit der Mandatsvereinbarung vom [[date|29. Juni 2026]] wurde ein Stundensatz von EUR 210,00 netto vereinbart. Die Vertretung umfasst die Prüfung der Vertragsunterlagen, die Korrespondenz mit der Hausverwaltung und die Vertretung in der Schlichtung. Die Zeiterfassung wurde für jeden Termin dokumentiert; Kopien der Zeitnachweise liegen der Rechnung bei.
+
+Herr [[person|Babouli]] hat den Zahlungsverzug der Vorperiode am [[date|1. September 2026]] angezeigt. Wir bitten um Begleichung des Betrags bis zum [[date|23. Oktober 2026]]. Die Umsatzsteuer wird gesondert ausgewiesen; die UID der Kanzlei lautet [[tax_id|ATU68458983]].
 
 Die Leistungen wurden nach dem Zeitaufwand abgerechnet. Die Auslagen für Kopien und Porto sind in den Positionen enthalten.
 

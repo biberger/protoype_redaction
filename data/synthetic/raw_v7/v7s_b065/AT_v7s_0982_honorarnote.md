@@ -34,7 +34,7 @@ zuzüglich 20 % USt EUR 322,00
 Barauslagen (Gerichtsgebühren, Porto, Kopien) EUR 74,20
 Gesamtbetrag EUR 2.006,20
 
-Die Barauslagen sind ohne Umsatzsteuer ausgewiesen, da sie an Dritte weiterbelastet wurden. Die Honorarnote gilt für die Zeit vom [[date|03.02.2026]] bis zum [[date|21.04.2026]] und enthält sämtliche bis dahin erbrachten Leistungen. Ein allfälliger Kostenersatzanspruch gegen die Gegenseite bleibt davon unberührt.
+Die Barauslagen sind ohne Umsatzsteuer ausgewiesen, da sie an Dritte weiterbelastet wurden. Die Honorarnote gilt für die Zeit vom [[date|03.02.2026]] bis zum [[date|21.04.2026]] und enthält sämtliche bis dahin erbrachten Leistungen. Ein allfälliger Kostenersatzanspruch gegen die Gegenseite bleibt davon unberührt. Wir danken Ihnen für Ihr Vertrauen.
 
 Bitte überweisen Sie den Gesamtbetrag binnen 14 Tagen auf das folgende Konto unter Angabe der Klienten-Nr. [[other_identifier|71998]]:
 

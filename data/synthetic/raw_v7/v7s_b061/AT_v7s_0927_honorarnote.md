@@ -37,7 +37,7 @@ DATUM | LEISTUNG | BETRAG
 
 Zwischensumme netto: EUR 1.400,00
 Umsatzsteuer 20 %: EUR 280,00
-Gesamtbetrag: EUR 1.680,00
+Gesamtbetrag (brutto, zahlbar in Euro): EUR 1.680,00
 
 Bereits bezahlte Vorschüsse wurden in dieser Honorarnote nicht gegengerechnet, weil die Vorschusszahlung vom [[date|05.03.2026]] laut Vollmacht ausdrücklich als Kostenvorschuss für Gerichtsgebühren vereinbart war. Die Eingabegebühr für die Klage wurde unmittelbar von der Mandantin bezahlt und ist hier nicht enthalten.
 
@@ -45,7 +45,7 @@ Die Honorarnote ist binnen 14 Tagen zur Zahlung fällig. Bitte überweisen Sie d
 
 Die Gebühren wurden nach dem Tarif berechnet, der in der Vollmacht vom [[date|05.03.2026]] vereinbart war. Auslagen für Porto und Kopien sind in den Positionen enthalten. Die Tätigkeit im Zusammenhang mit der Auseinandersetzung gegen [[person|Plischke]] umfasst die Vorbereitung der Klage, die Korrespondenz mit der Gegenseite und die Abstimmung der Beweisanträge mit dem Klienten [[person|Florenz Schachner]].
 
-Bei Rückfragen zu einzelnen Positionen bitten wir um kurze schriftliche Mitteilung, damit wir die betreffenden Leistungen mit den Unterlagen abgleichen können. Die Zeitangaben beruhen auf unseren internen Aufzeichnungen, die auf Wunsch eingesehen werden können. Eine Änderung der Honorarnote ist nur bei nachweisbaren Rechenfehlern vorgesehen.
+Bei Rückfragen zu einzelnen Positionen bitten wir um kurze schriftliche Mitteilung, damit wir die betreffenden Leistungen mit den Unterlagen abgleichen können. Die Zeitangaben beruhen auf unseren internen Aufzeichnungen, die auf Wunsch eingesehen werden können. Eine Änderung der Honorarnote ist nur bei nachweisbaren Rechenfehlern vorgesehen, und auch dann nur nach schriftlicher Mitteilung an die Kanzlei.
 
 Die Umsatzsteuer wurde nach dem Regelsteuersatz ausgewiesen, weil die Leistungen im Inland erbracht wurden und die Kanzlei zur Regelbesteuerung optiert hat. Die Kanzlei ist unter der oben angeführten UID umsatzsteuerlich erfasst.
 

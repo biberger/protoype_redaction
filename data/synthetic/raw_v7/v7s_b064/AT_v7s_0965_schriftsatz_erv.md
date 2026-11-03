@@ -65,6 +65,8 @@ Beweise
 
 11. Zum Beweis des Vorbringens werden die Urkunden ./A bis ./E vorgelegt und die Einvernahme der Klägerin sowie des Sachverständigen beantragt.
 
+Die Klägerin hat die Beklagte vor Einbringung der Klage mit Schreiben vom [[date|7. Juli 2026]] zur Zahlung aufgefordert. Eine Reaktion blieb aus, weshalb die Klage nunmehr eingebracht wird.
+
 Beilagen
 
 ./A Werkvertrag vom [[date|12. März 2026]]

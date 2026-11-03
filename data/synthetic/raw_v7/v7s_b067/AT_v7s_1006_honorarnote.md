@@ -44,6 +44,8 @@ Der Vergleichsvorschlag der Gegenseite vom [[date|1. Mai 2026]] wurde nach Rück
 
 Zahlung binnen 14 Tagen auf IBAN [[bank_account|AT70 6034 2861 6532 1154]] unter Angabe der Honorarnote Nr. 2026/0417.
 
+Die Honorarnote umfasst ausschließlich die Leistungen, die seit der Mandatserteilung am [[date|2. März 2026]] erbracht wurden. Die Besprechung vom [[date|03.03.2026]] diente der ersten Einschätzung der Ansprüche aus dem Mietvertrag; die Telefonate und Aktenvermerke sind im Akt dokumentiert und werden auf Wunsch kopiert. Die Leistungen für [[person|Ellis Ruthner]] und [[person|Bruni Klose]] wurden gemeinsam erbracht; eine getrennte Aufteilung erfolgt nicht.
+
 Gemäß [[legal_norm|§ 41 ZPO]] hat die obsiegende Partei Anspruch auf Ersatz der Kosten gegenüber der unterlegenen Gegenseite. Dieser Kostenersatz berührt Ihre Zahlungspflicht uns gegenüber nicht; der Kostenersatz wird nach Abschluss des Verfahrens gesondert abgerechnet. Sollten Sie Fragen zu den einzelnen Positionen haben, bitten wir Sie, sich innerhalb von vier Wochen an uns zu wenden.
 
 Für die Mandatsbetreuung erreichen Sie uns unter Tel. [[phone_number|02622/6226733 Kl. 39]].

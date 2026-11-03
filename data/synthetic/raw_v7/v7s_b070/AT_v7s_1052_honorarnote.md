@@ -46,5 +46,7 @@ Mit freundlichen Grüßen
 
 [[location|Langau]], am [[date|12.05.2025]]
 
-Schilcher, Hoffer
-Rechtsanwälte
+[[organization|Schilcher, Hoffer]]
+Rechtsanwälte OG
+
+Beilage: Leistungsverzeichnis Stand [[date|12.05.2025]]

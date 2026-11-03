@@ -29,6 +29,7 @@ Frau [[person|Madjid]] hat die Unterlagen übermittelt. Der [[organization|ÖAMT
 >
 > anbei die Fotos und das Schreiben der [[organization|ÖAMTC]] zum Unfall vom [[date|2. September 2026]].
 
+Ich habe die Telefonnummer der Werkstatt notiert und rufe am Nachmittag an.
 Mit freundlichen Grüßen
 [[person|Sylwia Bermann]]
 

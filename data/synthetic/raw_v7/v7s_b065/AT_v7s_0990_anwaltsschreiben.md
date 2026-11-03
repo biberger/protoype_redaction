@@ -38,6 +38,8 @@ Herr [[person|Gindl]] hat in seinem Protokoll vom [[date|14.04.2026]] bestätigt
 
 Wir fordern Sie auf, bis spätestens [[date|31.10.2026]] den Betrag von EUR 9.640,00 auf das Konto [[bank_account|AT34 4977 7118 5691 2778]] unseres Mandanten zu überweisen. Der Betrag setzt sich aus den Sanierungskosten und dem Verdienstentgang zusammen; die Aufstellung ist beigelegt.
 
+Die Ursache liegt nach dem Gutachten des Bauleiters in einer Undichtigkeit der Abdichtung, die im Zuge der Arbeiten am [[date|02.04.2026]] nicht ordnungsgemäß geschlossen wurde. Herr [[person|Winklbauer]] hat dies am Telefon bestritten, ohne eine Gegenprüfung zu veranlassen. Wir halten diese Haltung für unbegründet.
+
 Unser Mandant musste die Wohnung wegen der Feuchtigkeit für drei Wochen räumen und ist seither auf eine Ersatzunterkunft angewiesen. Die Mietkosten für diese Zeit sind in der Aufstellung als Verdienstentgang und Ersatz des Aufwands gesondert ausgewiesen. Die Verjährung ist durch dieses Schreiben nicht gehemmt; wir behalten uns die Geltendmachung weiterer Ansprüche ausdrücklich vor.
 
 Sollte bis zu diesem Termin keine Zahlung eingehen, werden wir ohne weitere Ankündigung die Klage einbringen. Für Rückfragen erreichen Sie uns unter der oben angeführten Telefonnummer.

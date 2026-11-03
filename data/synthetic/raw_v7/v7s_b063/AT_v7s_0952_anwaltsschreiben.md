@@ -32,7 +32,7 @@ Nikolow]], wohnhaft in [[address|Wilhelmstraße 14/3, 2700 Wiener Neustadt]],
 3160 Traisen]],
 [[person|Siddiqui Sedigheh]], wohnhaft in [[address|3160 Traisen]].
 
-Die Mandanten sind Mieter einer Wohnung im Haus in [[location|St. Florian]], das von der [[organization|Schmidinger Immobilien]] verwaltet wird. Die [[organization|Schmidinger Immobilien GmbH]], [[company_register_number|FN 96089h]], [[tax_id|ATU95401993]], hat die Mängel an der Heizungsanlage trotz mehrfacher Aufforderung nicht beseitigt.
+Die Mieterin [[person|Sedigheh Siddiqui]] hat die Mängel erstmals im Mai 2026 gemeldet. Die Mandanten sind Mieter einer Wohnung im Haus in [[location|St. Florian]], das von der [[organization|Schmidinger Immobilien]] verwaltet wird. Die [[organization|Schmidinger Immobilien GmbH]], [[company_register_number|FN 96089h]], [[tax_id|ATU95401993]], hat die Mängel an der Heizungsanlage trotz mehrfacher Aufforderung nicht beseitigt.
 
 Mit Schreiben vom [[date|11.03.2026]] haben unsere Mandanten die Behebung der Mängel verlangt. Die Antwort vom [[date|02.04.2026]] war unzureichend. Am [[date|19.06.2026]] fiel die Heizung im gesamten Haus aus, ein Sachverständiger stellte am [[date|24.06.2026]] fest, dass die Anlage seit dem Frühjahr nicht ordnungsgemäß gewartet war.
 

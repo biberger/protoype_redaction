@@ -12,7 +12,7 @@ Unser Zeichen: [[other_identifier|215/21 D]]
 Treuhandbuch-Nr. [[other_identifier|2026/244]]
 Tel. [[phone_number|+43-463-3173822 Durchwahl 47]]
 
-Der Disziplinarrat der Rechtsanwaltskammer für Kärnten hat in seiner Sitzung vom [[date|22. Oktober 2026]] in [[location|Klagenfurt am Wörthersee]] über die Disziplinaranzeige gegen Rechtsanwältin [[lawyer|Meda Anghel]] beraten und entschieden.
+Der [[court|Disziplinarrat der Rechtsanwaltskammer für Kärnten]] hat in seiner Sitzung vom [[date|22. Oktober 2026]] in [[location|Klagenfurt am Wörthersee]] über die Disziplinaranzeige gegen Rechtsanwältin [[lawyer|Meda Anghel]] beraten und entschieden.
 
 Senat:
 Vorsitzender: [[judge|Geraud Schinnerl]]

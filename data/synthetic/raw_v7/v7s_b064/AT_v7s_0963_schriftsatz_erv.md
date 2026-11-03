@@ -8,7 +8,7 @@ Rechtsanwälte GmbH
 [[address|Murlingengasse 21, 2763 Waidmannsfeld]]
 T: [[phone_number|+43-2236-4257493 DW 229]]  F: [[phone_number|+43 2236 495 24 47 Durchwahl 70]]
 E: [[email|office@brandstetter.at]]  W: www.brandstetter.at
-[[company_register_number|FN 475498m]], [[court|HG Wien]], UID: [[tax_id|ATU51581587]]
+[[company_register_number|FN 475498m]], [[court|LG Linz]], UID: [[tax_id|ATU51581587]]
 [[organization|Hypo Tirol Bank AG]] IBAN: [[bank_account|AT85 8090 2087 0759 0901]] BIC: [[bank_account|BKAUATWW]]
 ERV-Code: [[other_identifier|P395332]]
 

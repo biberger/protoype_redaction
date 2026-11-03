@@ -3,7 +3,7 @@ doc_type: obdk_disziplinar
 jurisdiction: AT
 lang: de
 ---
-Disziplinarrat der Rechtsanwaltskammer Wien
+[[court|Disziplinarrat der Rechtsanwaltskammer Wien]]
 Unser Zeichen: [[other_identifier|529/20 HDW]]
 
 B E S C H L U S S
@@ -38,9 +38,17 @@ Beweiswürdigung
 
 Der Senat stützt sich auf die Kontoauszüge, die Aussagen der Klienten und die Stellungnahme der Kammeranwältin. Die Beschuldigte bestritt die Pflichtverletzung nicht, machte jedoch geltend, sie habe die Auszahlung für einen Vergleich gehalten. Der Senat folgt dem nicht, weil ein Vergleich nicht schriftlich vorlag und die Klienten nicht informiert wurden.
 
+Verfahrensgang
+
+Die Anzeige wurde von der Kammeranwältin [[person|Dr. Emilie Haberl]] am [[date|10. März 2026]] erstattet, nachdem der Klient [[person|Job Brenner]] sich beschwert hatte. Die Beschuldigte äußerte sich am [[date|2. April 2026]] schriftlich. Die Verhandlung fand am [[date|14. Juli 2026]] statt; die Klientin [[person|Gundula Schmied]] wurde als Zeugin einvernommen und bestätigte, dass sie der Auszahlung nicht zugestimmt hatte.
+
+Die Beschuldigte hat im Verfahren das Vorbringen, sie habe die Auszahlung mit der [[organization|DPE]] telefonisch abgestimmt, nicht belegt. Eine Telefonnotiz oder ein Gesprächsprotokoll wurde nicht vorgelegt.
+
 Rechtliche Beurteilung
 
 Die Verwendung von Treuhandgeldern ohne Freigabe der berechtigten Partei verletzt die Pflicht zur Verwahrung nach [[legal_norm|§ 43a Abs 3 RAO]]. Die Beschuldigte hat die Geldbuße auf Grund der Schwere der Verletzung zu tragen; mildernd ist ihr bisher ordentliches Verhalten.
+
+Bei der Strafbemessung war zu berücksichtigen, dass die Beschuldigte die Verwahrung von Treuhandgeldern über Jahre hinweg mit großer Sorgfalt geführt hat, wie die Prüfung der Treuhandbücher ergab. Der Vorfall stellt daher eine Ausnahme dar. Erschwerend wirkt, dass zwei Klienten betroffen waren, deren Vermögen gleichzeitig gebunden war.
 
 Nach [[legal_norm|§ 34 Abs 1 RAO]] und der Richtlinie der [[court|OBDK]] für Treuhandverstöße ist eine Geldbuße in dieser Höhe angemessen. Die Berufung an die [[court|OBDK]] ist binnen vier Wochen zulässig.
 

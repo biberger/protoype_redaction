@@ -6,7 +6,7 @@ lang: de
 Von: [[person|Georgi Dachev]] <[[email|dachev@wenzel-handel.at]]>
 Gesendet: Montag, [[date|1. Juni 2026]] 18:22
 An: [[person|Obersteiner]] <[[email|k.obersteiner@obersteiner.at]]>
-Betreff: Grundstück in Nickelsdorf – Klientennummer: [[other_identifier|84308]]
+Betreff: Grundstück in [[location|Nickelsdorf]] – Klientennummer: [[other_identifier|84308]]
 
 Sehr geehrte Damen und Herren,
 
@@ -16,7 +16,7 @@ Frau [[person|Jula Sommerer]] führt die Verhandlungen für unsere Gesellschaft.
 
 Mit besten Grüßen
 
-Georgi Dachev
+[[person|Georgi Dachev]]
 Geschäftsführer
 
 > Von: [[person|Hugo Szapáry]]
@@ -29,7 +29,7 @@ Geschäftsführer
 Von: [[person|Jula Sommerer]] <[[email|j.sommerer@wenzel-handel.at]]>
 Gesendet: Dienstag, [[date|2. Juni 2026]] 09:31
 An: [[person|Obersteiner]]
-Betreff: AW: Grundstück in Nickelsdorf
+Betreff: AW: Grundstück in [[location|Nickelsdorf]]
 
 Liebe Kollegen,
 
@@ -50,7 +50,7 @@ Prokuristin
 Von: [[person|Georgi Dachev]] <[[email|dachev@wenzel-handel.at]]>
 Gesendet: Mittwoch, [[date|3. Juni 2026]] 07:58
 An: [[person|Obersteiner]]
-Betreff: AW: Grundstück in Nickelsdorf
+Betreff: AW: Grundstück in [[location|Nickelsdorf]]
 
 Sehr geehrte Damen und Herren,
 
@@ -58,13 +58,13 @@ bitte bestätigen Sie, dass das Anbot über EUR 325.000,00 von der [[organizatio
 
 Mit besten Grüßen
 
-Georgi Dachev
+[[person|Georgi Dachev]]
 [[location|St. Veit an der Glan]]
 
 Von: [[person|Obersteiner]] <[[email|k.obersteiner@obersteiner.at]]>
 Gesendet: Mittwoch, [[date|3. Juni 2026]] 11:20
 An: [[person|Georgi Dachev]]
-Betreff: AW: Grundstück in Nickelsdorf
+Betreff: AW: Grundstück in [[location|Nickelsdorf]]
 
 Sehr geehrter Herr [[person|Dachev]],
 

@@ -11,7 +11,7 @@ B E S C H L U S S
 
 IM NAMEN DER REPUBLIK
 
-Der [[court|Disziplinarrat der Rechtsanwaltskammer für Kärnten]] hat am [[date|3. Juni 2026]] in Klagenfurt am Wörthersee in nichtöffentlicher Sitzung über die Disziplinaranzeige gegen Rechtsanwalt [[person|Eberhard Orley]] erkannt.
+Der [[court|Disziplinarrat der Rechtsanwaltskammer für Kärnten]] hat am [[date|3. Juni 2026]] in [[location|Klagenfurt am Wörthersee]] in nichtöffentlicher Sitzung über die Disziplinaranzeige gegen Rechtsanwalt [[person|Eberhard Orley]] erkannt.
 
 Besetzung des Senats:
 
@@ -29,7 +29,7 @@ II. Der Disziplinarbeschuldigte hat die Kosten des Verfahrens zu tragen.
 
 Sachverhalt
 
-1. Rechtsanwalt [[person|Eberhard Orley]] führte bis zum [[date|30. Juni 2025]] eine Kanzlei in Klagenfurt. Er übernahm im Frühjahr 2025 die Vertretung der Beschwerdeführerin [[person|Ilse Stein]], geb. [[date_of_birth|19. Februar 1956]], beim Kauf einer Liegenschaft in Feldkirchen.
+1. Rechtsanwalt [[person|Eberhard Orley]] führte bis zum [[date|30. Juni 2025]] eine Kanzlei in [[location|Klagenfurt]]. Er übernahm im Frühjahr 2025 die Vertretung der Beschwerdeführerin [[person|Ilse Stein]], geb. [[date_of_birth|19. Februar 1956]], beim Kauf einer Liegenschaft in [[location|Feldkirchen]].
 
 Die Verkäuferin [[organization|Karawanken Liegenschaftsverwaltung GmbH]] ([[organization|KLV]]) erwartete die Kaufpreisanzahlung von 45.000 Euro auf einem Treuhandkonto des Beschuldigten. Der Beschuldigte nahm die Zahlung am [[date|11.03.2025]] entgegen. Die [[organization|KLV]] erhielt jedoch weder eine Auszahlung noch eine Information über den Stand der Treuhandschaft.
 
@@ -40,19 +40,25 @@ Datum | Vorgang | Betrag EUR | Trust
 [[date|02.04.2025]] | Überweisung auf das Kanzleikonto, ohne Auftrag der [[person|Ilse Stein]] | 12.300,00 | TH-Nr. [[other_identifier|2026/463]]
 [[date|23.06.2025]] | Rückzahlung an [[person|Ilse Stein]] nach ihrem Rücktritt vom Kaufvertrag | 8.000,00 | TH-Nr. [[other_identifier|2026/463]]
 
+Die Kanzlei führte im Jahr 2025 mehrere Treuhandkonten. Die Revision der Kontoführung durch die Rechtsanwaltskammer ergab, dass auf dem Treuhandkonto des Beschuldigten am [[date|30.06.2025]] ein Unterschreitungsbetrag von 14.200 Euro bestand, der bis zum [[date|31.07.2025]] ausgeglichen wurde. Diese Feststellung bestätigt den Befund aus dem Akt.
+
 Die Beschwerdeführerin war während dieser Zeit mehrfach telefonisch bei der Kanzlei unter Tel. [[phone_number|+43-512-4992943-0]] erreichbar; Rückrufe blieben aus. Erst nach der Anzeige durch [[person|Ilse Stein]] wurde der Restbetrag von 24.700 Euro am [[date|14.07.2025]] auf das Konto der Klientin überwiesen.
 
 2. Der Beschuldigte hat damit Gelder, die ihm zur Treuhand übergeben wurden, entgegen dem Zweck der Treuhandschaft verwendet und die Klientin über den Stand der Angelegenheit nicht unterrichtet.
 
 Beweiswürdigung
 
-Die Feststellungen gründen sich auf den Akt, die Kontoauszüge und die Einvernahme der Beschwerdeführerin, die glaubwürdig und nachvollziehbar aussagte. Der Beschuldigte bestätigte die Einzahlung und die Überweisung, behauptete jedoch, es habe sich um eine Vorabvergütung gehandelt, über die die Klientin informiert gewesen sei. Diese Behauptung wird durch keine Urkunde gestützt; eine schriftliche Honorarvereinbarung existiert nicht. Die Kontoauszüge weisen die Buchungen mit Datum, Betrag und Verwendungszweck aus. Die Überweisung vom [[date|02.04.2025]] trägt als Verwendungszweck nur die Kanzleinummer des Beschuldigten, nicht aber den Namen der Klientin.
+Die Feststellungen gründen sich auf den Akt, die Kontoauszüge und die Einvernahme der Beschwerdeführerin, die glaubwürdig und nachvollziehbar aussagte.
+
+Die Beschwerdeführerin schilderte in der Verhandlung vom [[date|3. Juni 2026]] den Ablauf der Kontakte mit der Kanzlei genau. Sie habe den Beschuldigten im März 2025 mehrfach angerufen, zuletzt am [[date|1. Juli 2025]], ohne eine Antwort zu erhalten. Diese Angaben decken sich mit der Gesprächsdokumentation der Rechtsanwaltskammer, in der die Anrufe vermerkt sind. Ein Anlass, an der Glaubwürdigkeit der Beschwerdeführerin zu zweifeln, bestand nicht. Der Beschuldigte bestätigte die Einzahlung und die Überweisung, behauptete jedoch, es habe sich um eine Vorabvergütung gehandelt, über die die Klientin informiert gewesen sei. Diese Behauptung wird durch keine Urkunde gestützt; eine schriftliche Honorarvereinbarung existiert nicht. Die Kontoauszüge weisen die Buchungen mit Datum, Betrag und Verwendungszweck aus. Die Überweisung vom [[date|02.04.2025]] trägt als Verwendungszweck nur die Kanzleinummer des Beschuldigten, nicht aber den Namen der Klientin.
 
 Der Senat hält die Angaben der Kammeranwältin [[person|Oberkofler]] für schlüssig, wonach die Verkäuferin durch das Verhalten des Beschuldigten einen Schaden von 12.300 Euro erlitt, den die [[organization|KLV]] inzwischen geltend macht. Die Kammeranwältin hat den Antrag auf Verhängung einer Geldbuße gestellt.
 
 Rechtliche Beurteilung
 
 Gemäß [[legal_norm|§ 43a Abs 3 RAO]] hat der Rechtsanwalt die ihm anvertrauten Gelder getrennt vom eigenen Vermögen zu verwahren und sie nur zu dem Zweck zu verwenden, zu dem sie übergeben wurden. Die Verwendung der Kaufpreisanzahlung für den Kanzleibetrieb verletzt diese Pflicht schwer. Dass die Rückzahlung erst nach der Anzeige erfolgte, ändert nichts am Tatbild; die Pflichtverletzung war mit der Überweisung vom [[date|02.04.2025]] vollendet.
+
+Die Pflicht zur getrennten Verwahrung gilt unabhängig davon, ob der Rechtsanwalt die Gelder für einen eigenen Honoraranspruch für fällig hält. Ein Honoraranspruch muss vielmehr gegenüber dem Klienten abgerechnet und von diesem anerkannt werden; eine einseitige Entnahme ist unzulässig. Der Beschuldigte führt seit mehr als zehn Jahren Treuhandkonten und war mit dem Treuhandrecht daher vertraut. Sein Einwand, er habe die Vorgangsweise für üblich gehalten, geht daher ins Leere. Der Senat berücksichtigt außerdem, dass die Rechtsanwaltskammer den Beschuldigten bereits am [[date|11. Februar 2025]] in einem Rundschreiben auf die Pflichten hingewiesen hatte.
 
 Die Rechtsprechung des [[court|OBDK]] sieht bei vergleichbaren Fällen, in denen Treuhandgelder ohne Auftrag verwendet wurden, Geldbußen zwischen 5.000 und 15.000 Euro vor. Ein Ausschluss kommt bei vollständiger Schadensgutmachung nur in Betracht, wenn weitere Verstöße hinzutreten. Der Senat bewertet die Verletzung als schwerwiegend, aber nicht so gravierend, dass die Ausschließung geboten wäre.
 
@@ -62,7 +68,13 @@ Verfahrensgang
 
 Die Disziplinaranzeige wurde am [[date|18. Februar 2026]] von der Kammeranwältin erstattet, nachdem sich die Beschwerdeführerin an die Rechtsanwaltskammer gewandt hatte. Der Beschuldigte wurde am [[date|9. März 2026]] zur Stellungnahme aufgefordert. Er beantragte eine Verlängerung der Frist, die ihm gewährt wurde. Seine Stellungnahme vom [[date|21. April 2026]] enthält keine Belege für die behauptete Vorabvergütung. Am [[date|3. Juni 2026]] wurde die Beschwerdeführerin in der Verhandlung einvernommen. Die Kammeranwältin stellte den Antrag auf Verhängung einer Geldbuße von mindestens 6.000 Euro.
 
+Der Beschuldigte brachte schriftlich vor, die Klientin habe einer Vorabvergütung von 12.300 Euro mündlich zugestimmt. Diese Behauptung blieb ohne jeden Beleg. Er verwies zudem auf die schwierige wirtschaftliche Lage seiner Kanzlei im Jahr 2025. Der Senat hat diesen Umstand bei der Strafbemessung nicht als Milderungsgrund gewertet, weil er die Verwendung fremder Gelder nicht rechtfertigt.
+
 Der Beschuldigte war zur Verhandlung erschienen und vertrat sich selbst. Die Kontobewegungen sind eindeutig; ein weiteres Beweisverfahren war daher nicht erforderlich.
+
+Kosten
+
+Die Kostenentscheidung beruht auf [[legal_norm|§ 34 Abs 2 RAO]]. Die Kosten umfassen die Pauschalgebühr, die Kosten der Zeugeneinvernahme und die Reisekosten der Kammeranwältin.
 
 Rechtsbelehrung
 

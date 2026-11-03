@@ -48,6 +48,8 @@ Die Honorare wurden nach dem Zeitaufwand und den Tarifansätzen des [[legal_norm
 
 Die Honorarnote ist binnen 14 Tagen ab Erhalt ohne Abzug zu bezahlen. Der Betrag ist auf das Konto IBAN [[bank_account|AT35 7817 1297 5747 7098]] zu überweisen. Bei Gutschriften bitten wir um Bekanntgabe der Bankverbindung des Klienten: IBAN [[bank_account|AT20 5649 3361 3357 9573]].
 
+Bei Fragen zu einzelnen Positionen steht Ihnen die Kanzlei unter der oben angeführten Telefonnummer zur Verfügung. Wir bitten, die Rechnungsnummer bei jeder Zahlung anzugeben.
+
 Mit freundlichen Grüßen
 
 [[lawyer|Lammerhuber]]

@@ -35,16 +35,16 @@ Der Kammeranwalt [[lawyer|Dr. Kudlai]] legte die Anschuldigungsschrift vor. Dari
 
 Sachverhalt
 
-1. Die Beschuldigte übernahm im Frühjahr [[date|2024]] die Vertretung des Klienten [[person|Heinrich Unterkircher]] in einer Forderungssache. Im Zuge der Angelegenheit wurde ein Betrag von EUR 4.800,00 als Vorschuss auf ein Treuhandkonto überwiesen. Der Betrag wurde unter der Treuhandbuch-Nr. [[other_identifier|2025/769]] verbucht.
+1. Die Beschuldigte übernahm im Frühjahr 2024 die Vertretung des Klienten [[person|Heinrich Unterkircher]] in einer Forderungssache. Im Zuge der Angelegenheit wurde ein Betrag von EUR 4.800,00 als Vorschuss auf ein Treuhandkonto überwiesen. Der Betrag wurde unter der Treuhandbuch-Nr. [[other_identifier|2025/769]] verbucht.
 
 Die Buchungen ergeben folgendes Bild:
 
-03.03.2024 Eingang Vorschuss Unterkircher EUR 4.800,00 Treuhandbuch-Nr. 2025/769
-11.03.2024 Auszahlung an Gegenseite EUR 1.950,00 ohne Anweisung
-18.10.2024 Rückzahlung an Klienten EUR 2.100,00 verspätet
-30.10.2024 Restbetrag EUR 750,00 nicht verbucht
+[[date|03.03.2024]] Eingang Vorschuss [[person|Unterkircher]] EUR 4.800,00 Treuhandbuch-Nr. [[other_identifier|2025/769]]
+[[date|11.03.2024]] Auszahlung an Gegenseite EUR 1.950,00 ohne Anweisung
+[[date|18.10.2024]] Rückzahlung an Klienten EUR 2.100,00 verspätet
+[[date|30.10.2024]] Restbetrag EUR 750,00 nicht verbucht
 
-2. Die Klientin [[person|Nicanora Moțiu]] hatte der Beschuldigten im Juni [[date|2024]] einen Betrag von EUR 2.650,00 zur Hinterlegung übergeben. Dieser Betrag wurde unter der TH-Nr. [[other_identifier|2023/355]] geführt, obwohl die Angelegenheit erst im Jahr 2024 begonnen hatte. Die Beschuldigte verweigerte in der Verhandlung die Auskunft über die Herkunft der Mittel.
+2. Die Klientin [[person|Nicanora Moțiu]] hatte der Beschuldigten im Juni 2024 einen Betrag von EUR 2.650,00 zur Hinterlegung übergeben. Dieser Betrag wurde unter der TH-Nr. [[other_identifier|2023/355]] geführt, obwohl die Angelegenheit erst im Jahr 2024 begonnen hatte. Die Beschuldigte verweigerte in der Verhandlung die Auskunft über die Herkunft der Mittel.
 
 3. Die [[organization|Tiroler Rechtsanwaltskammer]] ([[organization|TRAK]]) hatte die Beschuldigte mit Schreiben vom [[date|12. Februar 2025]] aufgefordert, eine Stellungnahme abzugeben. Die Stellungnahme langte erst nach dem gesetzten Termin ein. Die Beschuldigte begründete die Verzögerung mit einer Erkrankung, die durch ein ärztliches Attest vom [[date|20. Februar 2025]] belegt wurde.
 
@@ -56,6 +56,10 @@ Der Senat stützt seine Feststellungen auf die vorgelegten Kontoauszüge, die Bu
 
 Die Klientin [[person|Nicanora Moțiu]] hat ihre Angaben zur Übergabe des Bargeldes in der Verhandlung wiederholt und auf die Quittung vom [[date|14. Juni 2024]] verwiesen. Die Quittung trägt zwar nicht die Unterschrift der Beschuldigten, wird aber durch die Kanzleikorrespondenz gestützt.
 
+Der Kammeranwalt hat in der Verhandlung ergänzend ausgeführt, dass die Prüfung der Treuhandbuchführung im Frühjahr 2025 zu einer Mängelliste geführt hat. Die Beschuldigte hat die Mängel zunächst bestritten, später aber eingeräumt, dass die Buchungen nicht zeitnah vorgenommen wurden. Der Zeuge [[person|Unterkircher]] bestätigte, dass er die Beschuldigte mehrfach telefonisch um Auskunft über den Stand seines Geldes ersucht habe, ohne eine schriftliche Abrechnung zu erhalten.
+
+Die Verteidigung hat vorgebracht, die Kanzlei sei zum Zeitpunkt der Vorfälle nur von der Beschuldigten allein betrieben worden und eine Mitarbeiterin sei erkrankt gewesen. Der Senat hat diesen Umstand als mildernd berücksichtigt, jedoch nicht als Rechtfertigung für die Verletzung der Verwahrungspflicht gewertet.
+
 Rechtliche Beurteilung
 
 Gemäß [[legal_norm|§ 1 Abs 1 RAO]] ist der Rechtsanwalt verpflichtet, die ihm anvertrauten Gelder getrennt vom eigenen Vermögen zu verwahren und ohne Verzug an den Berechtigten abzuführen. Die Verletzung dieser Pflicht ist eine Berufspflichtverletzung im Sinne von [[legal_norm|§ 43a Abs 3 RAO]].
@@ -64,7 +68,9 @@ Der Senat hat berücksichtigt, dass die Beschuldigte bisher disziplinär unbesch
 
 Die Berufung gegen dieses Erkenntnis ist an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] zulässig. Die [[court|OBDK]] entscheidet über die Berufung in einem gesonderten Verfahren; die Aufschiebende Wirkung der Berufung ist nicht gegeben.
 
-Der Oberste Gerichtshof hat in ständiger Rechtsprechung ausgesprochen, dass die Kontrolle der Treuhandgelder in einem Disziplinarverfahren auch dann zu prüfen ist, wenn der Klient die Verfehlung nicht angezeigt hat. Die Kammer ist insoweit an die Anzeige nicht gebunden.
+Der [[court|Oberste Gerichtshof]] hat in ständiger Rechtsprechung ausgesprochen, dass die Kontrolle der Treuhandgelder in einem Disziplinarverfahren auch dann zu prüfen ist, wenn der Klient die Verfehlung nicht angezeigt hat. Die Kammer ist insoweit an die Anzeige nicht gebunden.
+
+Die Verpflichtung zur getrennten Verwahrung dient dem Schutz der Klienten und dem Vertrauen in die Advokatur insgesamt. Ein Rechtsanwalt, der Fremdgelder über einen längeren Zeitraum nicht fristgerecht weiterleitet, gefährdet dieses Vertrauen auch dann, wenn ihm kein Schaden entstanden ist. Der Senat hat daher eine Geldbuße gewählt, die deutlich über dem Mindestmaß liegt, jedoch unter dem Höchstmaß bleibt. Eine Streichung aus der Liste wurde nicht beantragt und kam nicht in Betracht, weil die Beschuldigte die Vorwürfe zu einem wesentlichen Teil eingeräumt hat.
 
 Die Entscheidung ist den Parteien zuzustellen. Die Rechtsmittelbelehrung ist beigeschlossen.
 

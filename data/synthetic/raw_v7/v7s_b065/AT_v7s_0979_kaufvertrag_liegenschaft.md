@@ -101,6 +101,8 @@ VIII. Schlussbestimmungen
 
 6. Dieser Vertrag wird in drei gleichlautenden Ausfertigungen errichtet: je eine für die Verkäuferin und die Käuferin sowie eine für die Kanzlei, die den Grundbuchsantrag einbringt. Jede Ausfertigung ist von allen Vertragsparteien eigenhändig zu unterfertigen.
 
+7. Die Käuferin erklärt, dass sie die Gebäude in dem Zustand übernimmt, in dem sie sich bei der Besichtigung befanden, und dass sie auf die Beibringung eines Sachverständigengutachtens verzichtet. Änderungen an der Heizungsanlage oder an den Fenstern nach Vertragsunterfertigung sind nur mit schriftlicher Zustimmung der Verkäuferin zulässig. Bis zur Übergabe bleibt die Verkäuferin für Wartung und Reparatur verantwortlich.
+
 IX. Vorkaufsrecht und Zustimmungen
 
 1. Die Verkäuferin bestätigt, dass an den Liegenschaften kein Vorkaufsrecht zugunsten Dritter einverleibt ist. Ein Vorkaufsrecht der Gemeinde besteht nicht, soweit die zuständige Behörde nichts anderes entschieden hat. Die Negativbestätigung der Gemeinde wird die Kanzlei binnen acht Wochen beibringen.
