@@ -11,7 +11,7 @@ E: [[email|office@molnar.at]]  W: www.molnar.at
 [[organization|Oberbank AG]] IBAN: [[bank_account|AT84 7414 5733 1574 8023]] BIC: [[bank_account|RLNWATWW]]
 ERV-Code: [[other_identifier|P849893]]
 
-Lidija Avramova
+[[person|Lidija Avramova]]
 [[address|9853 Gmünd in Kärnten]]
 
 GZ der Kanzlei: [[other_identifier|Avramova ./. Krasser]]

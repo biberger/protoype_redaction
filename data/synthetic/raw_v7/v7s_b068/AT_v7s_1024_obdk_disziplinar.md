@@ -66,7 +66,7 @@ Rechtliche Beurteilung
 
 Entscheidung
 
-Dem Beschuldigten steht gegen dieses Erkenntnis die Berufung an den Obersten Gerichtshof nicht zu. Die Kanzlei des Beschuldigten befindet sich in [[address|8854 Krakauhintermühlen]]; die Zustellung erfolgt an diese Anschrift.
+Dem Beschuldigten steht gegen dieses Erkenntnis die Berufung an den [[court|Obersten Gerichtshof]] nicht zu. Die Kanzlei des Beschuldigten befindet sich in [[address|8854 Krakauhintermühlen]]; die Zustellung erfolgt an diese Anschrift.
 
 Für den Senat:
 

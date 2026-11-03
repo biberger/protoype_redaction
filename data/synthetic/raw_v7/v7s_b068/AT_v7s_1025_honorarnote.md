@@ -41,5 +41,5 @@ Zahlbar binnen 14 Tagen auf das Konto IBAN [[bank_account|AT57 4388 2766 7822 27
 
 UID-Nummer der Kanzlei: [[tax_id|ATU68458983]]
 
-EINGEGANGEN [[date|24.04.2026]] MACH ZABOJ
+EINGEGANGEN [[date|24.04.2026]] [[person|MACH ZABOJ]]
 RECHNUNG FÜR [[person|DIONYSIUS TAUBER]] – BITTE NICHT DOPPELT BEZAHLEN

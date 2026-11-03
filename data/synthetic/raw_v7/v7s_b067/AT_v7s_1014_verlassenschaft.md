@@ -54,8 +54,8 @@ Die Abhandlung der Verlassenschaft ist mit dieser Protokollierung abgeschlossen.
 
 Die Schuldenliste umfasst im Einzelnen:
 
-Darlehen Breier EUR 6.400,00
-Werklohn Just EUR 2.150,00
+Darlehen [[person|Breier]] EUR 6.400,00
+Werklohn [[person|Just]] EUR 2.150,00
 Begräbniskosten EUR 2.160,00
 Betriebskosten rückständig EUR 1.200,00
 Kraftfahrzeugsteuer rückständig EUR 2.300,00

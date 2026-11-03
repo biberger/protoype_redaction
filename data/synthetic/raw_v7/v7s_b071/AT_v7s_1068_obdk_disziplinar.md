@@ -68,6 +68,8 @@ Der Verteidiger des Beschuldigten beantragte, das Verfahren wegen geringen Versc
 
 Die Zeugin [[person|Lieselotte Claus]] war im Verfahren nicht als Zeugin geladen, weil sie als Schriftführerin nur das Protokoll geführt hat. Der Senat hat die Aussagen der Parteien daher ohne weitere Zeugenvernehmung gewürdigt und ist davon ausgegangen, dass die vorgelegten Buchungsjournale vollständig sind. Eine Mängelrüge gegen das Journal wurde von keiner Seite erhoben.
 
+Der Senat hat außerdem berücksichtigt, dass die Verzögerungen bei der Auszahlung nicht zu einem Schaden der Klienten geführt haben, weil die Beträge jeweils vollständig und ohne Zinsverlust ausgefolgt wurden. Dieser Umstand mindert das Gewicht der Verfehlung, ändert aber nichts an der Berufspflichtverletzung selbst.
+
 Rechtliche Beurteilung
 
 Nach [[legal_norm|§ 1 Abs 1 RAO]] hat der Rechtsanwalt die ihm anvertrauten Gelder getrennt von seinem Vermögen zu verwahren und sie ohne Verzug an den Berechtigten abzuführen. Die Verletzung dieser Verpflichtung ist eine Berufspflichtverletzung. Der Senat sieht die verspäteten Auszahlungen als Verstoß an, weil der Beschuldigte die Gelder über mehrere Monate ohne sachlichen Grund zurückgehalten hat.

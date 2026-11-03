@@ -13,13 +13,12 @@ ERV-Code: [[other_identifier|R261270]]
 
 Tiroler Holzbauverband ([[organization|THV]])
 Rechtsabteilung
-Sillgasse 11
-6020 Innsbruck
+[[address|Sillgasse 11, 6020 Innsbruck]]
 
 Unser Zeichen: [[other_identifier|Scheucher ./. Praschak]]
 Datum: [[date|30. September 2026]]
 
-Betreff: Vertragsstreit Weidenholzer, Mitgliedsbeitrag und Haftung
+Betreff: Vertragsstreit [[organization|Weidenholzer KG]], Mitgliedsbeitrag und Haftung
 Vertragsnummer [[other_identifier|V-2020-82111]]
 
 Sehr geehrte Damen und Herren,

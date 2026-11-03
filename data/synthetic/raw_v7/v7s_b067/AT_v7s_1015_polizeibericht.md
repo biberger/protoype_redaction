@@ -56,7 +56,7 @@ Maßnahmen
 
 Der Lenker [[person|Rauscher]] wurde über die Anzeige nach der [[legal_norm|Straßenverkehrsordnung]] belehrt. Die Belehrung über die Aussageverweigerung wurde ihm vor der Einvernahme erteilt und von ihm unterfertigt. Die Lenkerin [[person|Zangerl]] erhielt ebenfalls eine Belehrung und wurde auf die Möglichkeit einer Anzeige durch ihre Versicherung hingewiesen.
 
-Das Fahrzeug [[license_plate|VB 379 RW]] wurde durch den Abschleppdienst nach Imst verbracht und dort sichergestellt; die Fahrzeugpapiere wurden dem Lenker nach Abschluss der Kontrolle zurückgegeben.
+Das Fahrzeug [[license_plate|VB 379 RW]] wurde durch den Abschleppdienst nach [[location|Imst]] verbracht und dort sichergestellt; die Fahrzeugpapiere wurden dem Lenker nach Abschluss der Kontrolle zurückgegeben.
 
 Der Rettungstransport von Frau [[person|Zangerl]] erfolgte mit dem Notarzteinsatzfahrzeug in das Krankenhaus [[location|Zams]]. Dort wurde eine Prellung des Brustkorbes festgestellt; die Entlassung erfolgte noch am selben Tag.
 

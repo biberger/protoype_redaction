@@ -43,7 +43,7 @@ Frau [[person|Isotta Schlacher]] hat den Unfall unmittelbar nach dem Vorfall tel
 
 Zur Schadensmeldung:
 
-SCHADENSMELDUNG – UNFALLZEIT 07:15 UHR – FAHRZEUG LKW – VERSICHERUNG ATTERGAUER VERSICHERUNGSVEREIN AG
+SCHADENSMELDUNG – UNFALLZEIT 07:15 UHR – FAHRZEUG LKW – VERSICHERUNG [[organization|ATTERGAUER VERSICHERUNGSVEREIN AG]]
 
 Die Liegenschaft [[land_register_id|3333/Bad Radkersburg]] ist im Eigentum eines Dritten; die Zufahrt erfolgte mit Zustimmung des Eigentümers. Der Sachverhalt wird durch die Lichtbilder vom [[date|19. August 2026]] belegt.
 

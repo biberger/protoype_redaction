@@ -87,6 +87,10 @@ VII. Erklärungen der Parteien
 
 4. Die Käufer bestätigen, dass ihnen der Hinweis erteilt wurde, eine Pflicht zur Vorlage einer Erklärung über die Eigenschaft als Konsument oder Unternehmer besteht, und dass sie diese Erklärung in der Kanzlei abgegeben haben.
 
+Die Vertragsparteien bestätigen, dass die Angaben zur Liegenschaft aus dem Grundbuchsauszug übernommen wurden und dass eine Abweichung der tatsächlichen Fläche vom Grundbuch keinen Anspruch auf Minderung des Kaufpreises begründet.
+
+Die Verkäuferin bestätigt zudem, dass die Heizungsanlage zuletzt im Herbst überprüft wurde und dass die Wartungsnachweise den Käufern bei der Übergabe ausgehändigt werden.
+
 VIII. Schlussbestimmungen
 
 1. Änderungen und Ergänzungen dieses Vertrages bedürfen der Schriftform. Mündliche Nebenabreden bestehen nicht.

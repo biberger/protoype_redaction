@@ -52,6 +52,12 @@ Der Saldo des Treuhandkontos wies nach der letzten Buchung einen Fehlbetrag von 
 
 Am [[date|12.11.2025]] richtete [[person|Salmi]] ein Schreiben an die Beschuldigte, in dem er die Herausgabe der Restbeträge und eine Abrechnung verlangte. Die Beschuldigte antwortete erst am [[date|03.12.2025]] und legte eine Abrechnung vor, die mit den Kontoauszügen nicht übereinstimmte. Erst nach einer weiteren Aufforderung der Kammer wurde die Abrechnung am [[date|15.01.2026]] korrigiert.
 
+Die Beschuldigte hat in ihrer schriftlichen Stellungnahme vom [[date|06.03.2026]] ausgeführt, sie habe den Beschwerdeführer telefonisch mehrfach über die anfallenden Kosten informiert und dabei eine Verrechnung in Aussicht gestellt. Ein Gesprächsvermerk wurde nicht angefertigt. Der Beschwerdeführer bestreitet diese Telefonate ausdrücklich und verweist auf die Kontoauszüge, aus denen eine Zustimmung nicht hervorgeht.
+
+Die Beschuldigte legte zudem eine Honorarnote über EUR 6.000,00 vor, die sie erst am [[date|11.12.2025]] ausgestellt hatte, also acht Monate nach der Auszahlung. Die Note nennt als Leistungszeitraum den Zeitraum von Februar bis März 2025 und enthält keine Einzelleistungen. Der Senat wertet dies als weiteres Indiz dafür, dass die Auszahlung nicht auf einer vorherigen Vereinbarung beruhte.
+
+Als Zeuge wurde die Kanzleikraft der Beschuldigten gehört, die aussagte, sie habe die Überweisung vom [[date|04.04.2025]] auf Weisung der Beschuldigten ausgeführt, ohne den Klienten zu informieren. Die Zeugin konnte sich an die Einzelheiten nicht mehr erinnern, bestätigte aber, dass es in der Kanzlei keine Liste der Freigaben gab.
+
 3. Beweiswürdigung
 
 Der Senat stützt sich auf die vorgelegten Kontoauszüge, auf die Korrespondenz zwischen der Beschuldigten und dem Beschwerdeführer sowie auf die Aussage des Beschwerdeführers in der Verhandlung. [[person|Salmi]] schilderte glaubhaft, dass er den Betrag von EUR 6.000,00 nie als Honorar anerkannt habe. Seine Angaben decken sich mit den Eintragungen im Treuhandbuch, das keine Freigabe durch den Klienten ausweist.
@@ -59,6 +65,10 @@ Der Senat stützt sich auf die vorgelegten Kontoauszüge, auf die Korrespondenz 
 Die Verantwortung der Beschuldigten, wonach eine mündliche Vereinbarung über die Honorarverrechnung bestanden habe, ist nicht glaubwürdig. Eine solche Vereinbarung hätte nach [[legal_norm|§ 9 Abs 2 RAO]] schriftlich dokumentiert werden müssen, zumal es um Gelder ging, die dem Treuhandkonto zugeflossen waren. Die Beschuldigte hat zudem eingeräumt, die Kontoauszüge erst nach der Aufforderung durch die Kammer geprüft zu haben.
 
 Die Kammeranwältin hat in ihrem Schlussvortrag darauf hingewiesen, dass die Beschuldigte den Fehlbetrag nur durch einen eigenen Zahlungseingang ausgeglichen hat. Der Senat folgt dieser Würdigung, sieht darin aber keinen Umstand, der den Vorwurf entkräften würde.
+
+Auch die Zeitabläufe sprechen gegen die Verantwortung der Beschuldigten. Die Rückzahlung vom [[date|12.09.2025]] erfolgte erst, nachdem der Beschwerdeführer mit einer Anzeige bei der Kammer gedroht hatte. Hätte eine Verrechnung nach einer Vereinbarung stattgefunden, wäre ein Rückforderungsanspruch in dieser Höhe nicht entstanden. Der Senat hält die Angaben des Beschwerdeführers zum Ablauf daher für glaubhafter als jene der Beschuldigten.
+
+Die Beschuldigte hat in der Verhandlung angegeben, sie sei zum Tatzeitpunkt durch die Betreuung eines schwer erkrankten Familienangehörigen stark belastet gewesen. Der Senat erkennt diesen Umstand an, er rechtfertigt jedoch nicht die Verwendung fremder Gelder und die unterbliebene Abrechnung.
 
 4. Rechtliche Beurteilung
 

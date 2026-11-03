@@ -57,6 +57,8 @@ Die Klientin [[person|Laleh Faruqi]] hat in der Verhandlung ergänzt, dass sie e
 
 Der Senat hat zudem geprüft, ob die Kanzleiprüfung ordnungsgemäß durchgeführt wurde. Die Prüfer haben die Kontoauszüge für den gesamten Zeitraum angefordert und die Buchungen mit den Klientenakten abgeglichen. Verfahrensrügen wurden in der Berufung nicht erhoben.
 
+Die Klienten [[person|Strobel]] und [[person|Faruqi]] haben nach Abschluss der Kanzleiprüfung ihre Ansprüche gegenüber der Kanzlei schriftlich bestätigt. Der Senat sieht darin keine Milderung im engeren Sinn, wohl aber einen Hinweis darauf, dass die Verwahrung insgesamt nicht zu einem dauerhaften Schaden geführt hat.
+
 Rechtliche Beurteilung
 
 Die Verpflichtung zur getrennten Verwahrung und zur ordnungsgemäßen Ausfolgung von Fremdgeld ergibt sich aus [[legal_norm|§ 1 Abs 1 RAO]] iVm [[legal_norm|§ 43a Abs 3 RAO]]. Der Rechtsanwalt muss die Gelder seiner Klienten ohne Verzug weiterleiten; eine Zurückhaltung ohne schriftliche Weisung ist eine Verletzung dieser Pflicht.
@@ -64,6 +66,8 @@ Die Verpflichtung zur getrennten Verwahrung und zur ordnungsgemäßen Ausfolgung
 Der [[court|OBDK]] ist es nicht verwehrt, die Strafe herabzusetzen, wenn sich der Sachverhalt im Berufungsverfahren als weniger schwerwiegend erweist. Die Kammer hat zu Recht berücksichtigt, dass der Beschuldigte bis zu diesem Verfahren keine Vorstrafe hatte. Die [[organization|RAKL]] hat in ihrem Erkenntnis die Kosten der Kanzleiprüfung gesondert ausgewiesen; diese Kosten sind nicht Bestandteil der Geldbuße.
 
 Die Berufung ist daher teilweise berechtigt. Die Herabsetzung der Geldbuße trägt dem Umstand Rechnung, dass die Mittel vollständig an die Berechtigten ausgefolgt wurden. Im Übrigen bestätigt der Senat die Feststellungen der Vorinstanz.
+
+Die Vorsitzende der Kammer hat dem Senat zugesichert, dass die Akten vollständig vorliegen und die Kanzleiprüfung ohne Beanstandungen durchgeführt wurde. Die Senatsmitglieder haben das Treuhandbuch selbst eingesehen und die Eintragungen mit den Kontoauszügen verglichen.
 
 Die Entscheidung ist den Parteien zuzustellen. Die Kammeranwältin hat die Anschuldigungsschrift bereits vor dem Erkenntnis der [[organization|RAKL]] eingebracht; die Berufung des Beschuldigten richtet sich nur gegen die Höhe der Geldbuße und die Kostenentscheidung.
 
