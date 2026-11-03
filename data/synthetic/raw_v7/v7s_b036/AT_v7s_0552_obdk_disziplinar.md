@@ -62,7 +62,7 @@ Die Entscheidung wird der Beschuldigten mit der Belehrung zugestellt, dass die G
 
 Die Entscheidung ergeht an die Beschuldigte, Tel. [[phone_number|+43-662-8988630 Kl. 17]], und an die Kammeranwältin. Die Zustellanschrift lautet [[address|6105 Leutasch]]. Die Beschuldigte hat auf Rechtsmittel verzichtet; der Kammeranwältin steht die Berufung an den [[court|OBDK]] offen.
 
-Der Senat hat außerdem festgehalten, dass die Rückzahlung des Betrags an die Klientin [[person|Czeike]] im Jahr 2021 nicht auf freiwilliger Einsicht beruhte, sondern erst nach einer Aufforderung der Kammer erfolgte. Dies mindert den Milderungsgrund der Schadensgutmachung, sodass er nur eingeschränkt berücksichtigt werden konnte.
+Der Senat hat außerdem festgehalten, dass die Beschuldigte im Verfahren keine Gegendarstellung zu den Kontoauszügen eingebracht hat und diese daher als unbestritten zu werten sind. Der Senat hat außerdem festgehalten, dass die Rückzahlung des Betrags an die Klientin [[person|Czeike]] im Jahr 2021 nicht auf freiwilliger Einsicht beruhte, sondern erst nach einer Aufforderung der Kammer erfolgte. Dies mindert den Milderungsgrund der Schadensgutmachung, sodass er nur eingeschränkt berücksichtigt werden konnte.
 
 Bei der Bemessung der Geldbuße hat der Senat berücksichtigt, dass die Beschuldigte über einen Zeitraum von mehr als zwanzig Jahren als Rechtsanwältin tätig war und bislang keine vergleichbare Verfehlung aufgewiesen hat. Dieser Umstand wirkt zu ihren Gunsten, ist jedoch gegenüber der Dauer der Verzögerung im ersten Fall abzuwägen, in dem der Klientin über mehr als zwei Jahre der Betrag vorenthalten wurde.
 

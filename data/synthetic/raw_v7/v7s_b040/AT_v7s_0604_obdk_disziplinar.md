@@ -4,13 +4,13 @@ jurisdiction: AT
 lang: de
 ---
 [[court|Disziplinarrat der Steiermärkischen Rechtsanwaltskammer]]
-Geschäftsabteilung Graz, [[address|Hans-Sachs-Gasse 2, 8010 Graz]]
+Geschäftsabteilung: [[address|Hans-Sachs-Gasse 2, 8010 Graz]]
 
 Zl. [[case_number|DSR 27/2025]]
 
 BESCHLUSS UND ERKENNTNIS
 
-Der Disziplinarrat der Steiermärkischen Rechtsanwaltskammer hat durch den Vorsitzenden [[judge|Dr. Cesar Rumpler]], [[judge|Dr. Janine Mitterhuber]] und [[judge|Dr. David Löwy]] als Beisitzer, in Anwesenheit der Kammeranwältin [[person|Dr. Lydia Flamm]] und des Schriftführers [[person|Siegward Springer]], in der Disziplinarsache gegen den Rechtsanwalt [[lawyer|Izydorek Dr. Kroll]] nach der mündlichen Verhandlung am [[date|9. Februar 2026]] folgendes Erkenntnis gefällt:
+Der [[court|Disziplinarrat der Steiermärkischen Rechtsanwaltskammer]] hat durch den Vorsitzenden [[judge|Dr. Cesar Rumpler]], [[judge|Dr. Janine Mitterhuber]] und [[judge|Dr. David Löwy]] als Beisitzer, in Anwesenheit der Kammeranwältin [[person|Dr. Lydia Flamm]] und des Schriftführers [[person|Siegward Springer]], in der Disziplinarsache gegen den Rechtsanwalt [[lawyer|Izydorek Dr. Kroll]] nach der mündlichen Verhandlung am [[date|9. Februar 2026]] folgendes Erkenntnis gefällt:
 
 Der Beschuldigte [[lawyer|Kroll]] ist schuldig, er hat als Rechtsanwalt die ihm anvertrauten Gelder aus zwei Treuhandschaften nicht ordnungsgemäß verwaltet und dadurch gegen die Berufspflichten nach [[legal_norm|§ 10 RL-BA]] verstoßen. Über ihn wird gemäß [[legal_norm|§ 34 Abs 1 RAO]] eine Geldbuße von EUR 5.000,00 verhängt.
 

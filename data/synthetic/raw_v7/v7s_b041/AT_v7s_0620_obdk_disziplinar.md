@@ -60,6 +60,26 @@ Der Klient [[person|Braunsteiner]] hat ferner am [[date|15. April 2026]] die Aus
 Diese Auszahlung ist bis zum Zeitpunkt der Sitzung nicht erfolgt. Die Beschuldigte hat den Restbetrag nach eigenen
 Angaben auf ein Konto der Kanzlei übertragen, um die offenen Honorarforderungen zu decken.
 
+**Weitere Vorgänge**
+
+Die Kammeranwältin hat im Verlauf der Verhandlung eine Aufstellung der Bewegungen auf den Treuhandkonten vorgelegt.
+Danach wurde am [[date|8. Dezember 2025]] ein Betrag von EUR 950,00 aus der Treuhandschaft TH-Nr. [[other_identifier|2024/603]]
+an die Beschuldigte selbst überwiesen, angeblich als Kostenersatz für ein Gutachten. Eine Rechnung des Gutachters
+lag nicht vor. Am [[date|29. Dezember 2025]] folgte eine weitere Überweisung über EUR 400,00, die in der Buchhaltung
+als Fahrtkosten verbucht wurde. Die Beschuldigte konnte keine Belege vorlegen, sie erklärte, die Unterlagen seien
+beim Umzug der Kanzlei verloren gegangen.
+
+Die Aufstellung weist ferner einen Saldo von EUR 1.184,27 aus, der zum Stichtag [[date|31. März 2026]] auf dem
+Treuhandkonto ausgewiesen war, obwohl die Klientenkonten zu diesem Zeitpunkt bereits eine Null-Summe hätten
+ausweisen müssen. Die Beschuldigte hat den Differenzbetrag nachträglich aus eigenen Mitteln ausgeglichen; die
+Überweisung ist am [[date|24. April 2026]] eingegangen. Der Disziplinarrat hat diese Rückzahlung als Milderungsgrund
+gewertet, aber nicht als Entlastung.
+
+Die Zeugin [[person|Zsigmondy]] hat in einer schriftlichen Erklärung angegeben, sie habe mehrfach telefonisch
+um Auskunft ersucht, ohne eine Antwort zu erhalten. Die Kanzleiangestellte [[person|Ingrid Karner]] habe ihr gegenüber
+erklärt, die Chefin sei auf Dienstreise. Diese Angaben konnten nicht überprüft werden, sie wurden jedoch
+in der Sitzung nicht bestritten.
+
 **Beratung und Beschluss**
 
 Der Disziplinarrat zog sich um 11.10 Uhr zur Beratung zurück. Nach Wiedereröffnung der Sitzung verkündete die

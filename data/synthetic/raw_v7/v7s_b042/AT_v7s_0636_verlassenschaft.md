@@ -11,7 +11,7 @@ E: [[email|office@kulka.at]]  W: www.kulka.at
 UID: [[tax_id|ATU23189127]]
 [[organization|Hypo Tirol Bank AG]] IBAN: [[bank_account|AT95 1873 0954 4551 3235]] BIC: [[bank_account|SPIHAT22]]
 
-GZ 2 A 417/26 y
+GZ [[case_number|2 A 417/26y]]
 [[court|Bezirksgericht St. Pölten]]
 
 Einantwortungsurkunde und Verlassenschaftsabhandlung
@@ -47,6 +47,9 @@ Wohnsitz des Erben Gradwohl: [[address|3654 Raxendorf]]
 Ausgleichung und Nachlassreinerlös: Die Liegenschaft ist mit einem Verkehrswert von EUR 185.000,00 bewertet. Nach Abzug der Passiva von EUR 8.270,00 und der Bestattungskosten verbleibt ein Reinerlös, der den Erben im Verhältnis ihrer Quoten zukommt.
 
 Die Erbquote des Erben Gradwohl ist durch die Erbserklärung nicht eindeutig festgelegt. Der Notar hat daher das Verhältnis nach dem Testament ermittelt, das [[person|Held]] am [[date|3. März 2019]] errichtet hatte.
+
+Der Gläubiger [[person|Agnello
+Garibaldi]] hat die Forderung schriftlich angemeldet. Ein Verzeichnis der Beteiligten führt die Namen wie folgt: [[person|Kaltenböck Walfrieda]], [[person|Gradwohl Joris]], [[person|Held Reinmar]].
 
 Die Einantwortung erfolgt nach Ablauf der Frist zur Anmeldung der Forderungen. Die Gläubiger sind mit der Abhandlung einverstanden, soweit ihre Forderungen gedeckt sind.
 

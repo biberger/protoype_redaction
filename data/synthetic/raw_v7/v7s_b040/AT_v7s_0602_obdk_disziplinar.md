@@ -71,9 +71,9 @@ VI. Rechtsmittelbelehrung
 
 Gegen dieses Erkenntnis ist die Berufung an die [[court|OBDK]] zulässig. Die Berufung ist binnen zwei Wochen ab Zustellung bei dem Disziplinarrat einzubringen.
 
-Für den Disziplinarrat der Steiermärkischen Rechtsanwaltskammer:
+Für den [[court|Disziplinarrat der Steiermärkischen Rechtsanwaltskammer]]:
 
-Ganz, am [[date|17. März 2026]]
+[[location|Ganz]], am [[date|17. März 2026]]
 
 [[judge|Mag. Antonius Pinter]], Vorsitzender
 

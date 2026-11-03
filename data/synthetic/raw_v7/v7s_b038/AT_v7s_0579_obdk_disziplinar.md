@@ -35,6 +35,8 @@ Aus dem Treuhandbuch ergibt sich unter der Treuhandbuch-Nr. [[other_identifier|2
 
 Die Beschuldigte bestreitet nicht, die Auszahlungen veranlasst zu haben. Sie gibt an, die Zahlungen seien für Auslagen der Klientin erfolgt. Die Klientin hat dies ausdrücklich bestritten und keine Belege anerkannt.
 
+Die Beschuldigte hat in der Verhandlung angegeben, sie sei durch den Umzug ihrer Kanzlei im Frühjahr 2025 stark belastet gewesen und habe die Buchungen daher nicht laufend überprüft. Der Senat hält dies für glaubhaft, sieht darin aber keinen Entschuldigungsgrund, weil die Freigabe von Auszahlungen eine persönliche Pflicht der Rechtsanwältin ist.
+
 Die [[organization|RAK]] hat die Vorerhebungen am [[date|20. Oktober 2025]] abgeschlossen und den Akt an die Kammeranwältin weitergeleitet. Die Vorerhebungen umfassten die Einsicht in das Treuhandbuch, die Kontoauszüge der Kanzlei und die Honorarnoten der Beschuldigten für das Jahr 2025. Eine Honorarnote über EUR 1.800,00 wurde erst nach der Auszahlung ausgestellt und trägt das Datum vom [[date|3. Mai 2025]].
 
 Die Kammeranwältin hat den Antrag auf Verhängung einer Geldbuße in Höhe von EUR 4.000,00 gestellt. Der Disziplinarrat hält eine geringere Strafe für angemessen, weil die Beschuldigte den Restbetrag bereits am [[date|30. September 2025]] an die Klientin überwiesen hat.
@@ -48,6 +50,8 @@ Die Verwendung von Treuhandgeldern ohne Anspruch ist ein schwerwiegender Versto�
 Erschwerend wirkt, dass die Beschuldigte zwei Mal die Gelegenheit hatte, die Abrechnung vor der Anzeige nachzureichen, und dies unterlassen hat. Eine Verwarnung ist unter diesen Umständen nicht ausreichend, weil das Vertrauen der Klienten in die Verwahrung von Geld im Vordergrund steht.
 
 Rechtliche Beurteilung
+
+Eine Verjährung ist nicht eingetreten, weil die Anzeige innerhalb der gesetzlichen Frist erstattet wurde und die letzte Buchung im Jahr 2025 erfolgte.
 
 Das Vergehen ist nach [[legal_norm|§ 45 Abs 1 Z 3 RAO]] zu beurteilen. Die Höhe der Geldbuße folgt aus [[legal_norm|§ 34 Abs 1 RAO]].
 

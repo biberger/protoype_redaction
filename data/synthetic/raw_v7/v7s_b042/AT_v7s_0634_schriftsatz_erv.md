@@ -31,7 +31,7 @@ gegen
 
 1. [[person|Drago Dressler]], geb [[date_of_birth|26.08.1978]], StA. [[country|Österreich]], Lenker des Fahrzeugs mit dem Kennzeichen [[license_plate|SL-1108O]],
 
-2. die [[organization|Nabl Handels GmbH]], [[company_register_number|FN 216419p]], [[tax_id|UID-Nr. ATU70448143]], als Halterin des Fahrzeugs,
+2. die [[organization|Nabl Handels GmbH]], [[company_register_number|FN 216419p]], UID-Nr. [[tax_id|ATU70448143]], als Halterin des Fahrzeugs,
 
 3. die [[country|Republik Österreich]], vertreten durch die [[organization|Finanzprokuratur]], als Erhalterin der Straßenanlage,
 
