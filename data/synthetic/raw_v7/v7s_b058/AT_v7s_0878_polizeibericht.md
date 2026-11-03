@@ -37,8 +37,8 @@ Frau [[person|Paauw]] gab an, dass sie den Blinker gesetzt habe und das Fahrzeug
 Die Versicherung des Fahrzeuges des Herrn [[person|Boskovsky]], die [[organization|Alpen-Donau Versicherung AG]], wurde unter der Polizzennummer [[other_identifier|7712-0045-22]] verständigt. Das Fahrzeug der Frau [[person|Paauw]] ist über die gleiche Versicherung abgesichert, Polizze [[other_identifier|7712-0118-09]].
 
 Die Fahrzeugidentifikationsnummern lauten:
-FIN [[other_identifier|DAH1U9XP27X3A1W51]] (Fahrzeug Paauw)
-FIN [[other_identifier|EVYUWYH1GUUACAR49]] (Fahrzeug Boskovsky)
+FIN [[other_identifier|DAH1U9XP27X3A1W51]] (Fahrzeug [[person|Paauw]])
+FIN [[other_identifier|EVYUWYH1GUUACAR49]] (Fahrzeug [[person|Boskovsky]])
 
 Beweiswürdigung:
 

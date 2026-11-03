@@ -40,6 +40,12 @@ Die Schadensmeldung vom [[date|05.08.2026]] wurde von [[person|Evi Gounaris]] f�
 
 Ihr Haus ist telefonisch unter Tel. [[phone_number|+43 732 533 25 30 DW 992]] erreichbar; wir bitten um Rückruf. Für Rückfragen steht Ihnen auch die Sekretärin [[person|Gisela Pohl]] zur Verfügung.
 
+Sollte bis zum genannten Termin keine Zahlung eingehen, werden wir die Forderung ohne weitere Ankündigung gerichtlich geltend machen. Die Klage würde neben dem Schadenersatz auch die Verzugszinsen seit dem [[date|05.09.2026]] umfassen sowie die Kosten des Sachverständigen, die unsere Mandantin vorgestreckt hat.
+
+Für eine außergerichtliche Einigung sind wir gesprächsbereit. Wir sind jedoch nicht bereit, einen Abzug von der Schadenssumme wegen angeblicher Vorschäden hinzunehmen, die Ihr Haus nicht durch ein Gutachten belegt hat. Sollten Sie eine solche Prüfung wünschen, bitten wir um die Benennung eines Sachverständigen bis zum [[date|29.10.2026]].
+
+Wir bitten Sie zudem, die Vorlage des Versicherungsvertrages mit der Polizze [[other_identifier|42-3337783]] binnen zwei Wochen nachzureichen, damit die Deckung des Haftpflichtrisikos geprüft werden kann. Die Kosten für die Vorlage trägt unsere Mandantin nicht.
+
 Mit freundlichen Grüßen
 
 [[person|Schreier]]

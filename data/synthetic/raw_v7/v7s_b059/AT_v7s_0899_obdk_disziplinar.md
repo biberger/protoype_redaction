@@ -5,12 +5,13 @@ lang: de
 ---
 [[court|Disziplinarrat der Tiroler Rechtsanwaltskammer]]
 Zl. [[case_number|DR-T 12/2026]]
+Zeichen [[other_identifier|607/22 SM]]
 
 ERKENNTNIS
 
 Der [[court|Disziplinarrat der Tiroler Rechtsanwaltskammer]] hat in seiner Sitzung vom [[date|28.09.2026]] unter folgender Besetzung
 
-Vorsitz: [[person|Hansjurgen Stürmer]]
+Vorsitz: [[person|Hansjurgen Stürmer]], GEB: [[date_of_birth|1976-07-04]], StA: [[country|Deutschland]]
 Beisitzerin: [[person|Dr. Haidi Grabherr]]
 Beisitzer: [[person|Dr. Vittore Gruss]]
 Kammeranwalt: [[person|Dr. Otwin Taschner]]
@@ -26,7 +27,7 @@ Die Kanzlei des Beschuldigten ist in [[address|5661 Rauris]] angesiedelt und wir
 
 Entscheidungsgründe
 
-1. Der Beschuldigte hat den Klienten [[person|Dzavid Buljubašić]] in einer Verlassenschaftssache vertreten. Für diesen Klienten führte die Kanzlei zwei Treuhandschaften, die unter [[other_identifier|Treuhandbuch-Nr. 2024/953]] und [[other_identifier|Treuhandbuch-Nr. 2025/570]] verbucht waren.
+1. Der Beschuldigte hat den Klienten [[person|Dzavid Buljubašić]] in einer Verlassenschaftssache vertreten. Für diesen Klienten führte die Kanzlei zwei Treuhandschaften, die unter Treuhandbuch-Nr. [[other_identifier|2024/953]] und Treuhandbuch-Nr. [[other_identifier|2025/570]] verbucht waren.
 
 2. Die Treuhandgelder wurden zunächst auf das Konto der [[organization|KSP]] bei der [[organization|Sparkasse Pinzgau]] eingezahlt, IBAN [[bank_account|AT36 0381 5916 2972 0907]]. Eine getrennte Verwahrung erfolgte nicht.
 

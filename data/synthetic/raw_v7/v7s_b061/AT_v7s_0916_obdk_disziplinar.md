@@ -43,6 +43,14 @@ Dass der Beschuldigte selbst Bargeld behoben hat, ist unstrittig. Die Verbuchung
 
 Die Angaben der RAK zu den Fristen und Beträgen sind schlüssig. Der Senat sieht keinen Anlass, an der Richtigkeit der Auszugsliste zu zweifeln.
 
+Im Akt befindet sich das Schreiben der [[organization|RAK]] vom [[date|09.12.2024]], mit dem der Beschuldigte aufgefordert wurde, die Abrechnung der Treuhandschaft für den Zeitraum vom [[date|02.02.2024]] bis zum [[date|30.09.2024]] vorzulegen. Das Schreiben blieb zunächst unbeantwortet. Erst mit Schriftsatz vom [[date|21.01.2025]] legte der Beschuldigte eine Aufstellung vor, die jedoch keine Belege für die Zahlung an die [[organization|Glas Baustoffe GmbH]] enthielt. Eine zweite Aufforderung der [[organization|RAK]] vom [[date|03.03.2025]] ist ebenfalls ohne Ergebnis geblieben, bis die Angelegenheit mit der Anzeige weiterverfolgt wurde.
+
+Die Mandantin [[person|Gerda Pollak]] hat in ihrer Eingabe vom [[date|18.07.2025]] die Chronologie der Verhandlungen mit dem Beschuldigten geschildert. Danach hatte der Beschuldigte im Frühjahr 2024 mehrfach zugesagt, die Gelder zurückzuführen, ohne dies in Form einer Zahlung einzulösen. Die Mandantin hat ihre Schilderung durch Kopien ihrer E-Mails an den Beschuldigten belegt. In einer dieser Nachrichten vom [[date|08.04.2024]] heißt es, die Gelder seien "nur vorübergehend" auf einem anderen Konto.
+
+Der Beschuldigte hat dazu erklärt, er habe die Mandantin über alle Schritte informiert. Diese Behauptung wird durch die vorgelegten E-Mails nicht gestützt, weil darin von einer Information über die Auszahlung an die Verkäuferseite keine Rede ist.
+
+Der Senat hat außerdem geprüft, ob eine Weisung der Mandantin zur Auszahlung an [[organization|Glas Baustoffe GmbH]] vorlag. Eine solche Weisung ist nicht dokumentiert. Die Mandantin hat bestätigt, dass sie die Zahlung nie genehmigt hat und dass sie von der Überweisung erst aus der Kontoliste erfuhr.
+
 IV. Rechtliche Beurteilung
 
 Ein Rechtsanwalt hat fremde Gelder, die ihm anvertraut werden, gesondert und ordnungsgemäß zu verwalten. Eine Auszahlung ohne Weisung des Mandanten verletzt diese Pflicht unabhängig davon, ob der Rechtsanwalt später den Betrag zurückzahlt. Die Rückzahlung der [[person|Pollak]] zugeflossenen Gelder im Juni 2024 mindert das Unrecht, hebt es aber nicht auf.

@@ -81,6 +81,10 @@ V. Strafbemessung
 
 Mildernd war die Schadensgutmachung. Erschwerend wirkten die Anzahl der Buchungen und die Dauer der Abrechnungsverzögerung. Die Kammeranwältin beantragte eine Geldbuße im oberen Bereich des Rahmens; der Senat hat die Entscheidung nach dem Gewicht der Pflichtverletzungen getroffen.
 
+Der Senat berücksichtigt ferner, dass der Beschuldigte bereits im Jahr 2021 von der [[organization|Rechtsanwaltskammer Wien]] schriftlich auf die Pflichten bei der Verwaltung von Anderkonten hingewiesen worden war. Damals ging es um einen kleineren Betrag und eine verspätete Abrechnung, die der Beschuldigte nachträglich bereinigte. Eine förmliche Verfolgung fand damals nicht statt; der Hinweis wurde jedoch dokumentiert und ist in diesem Verfahren aktenkundig.
+
+Die Kammeranwältin [[person|Kager]] hat in ihrem Antrag ausgeführt, dass der Beschuldigte die Auszahlungen an die Mandanten nicht nur verzögert, sondern in mindestens zwei Fällen ohne deren Kenntnis veranlasst hat. Der Senat hält diese Darstellung für zutreffend, soweit sie die Buchungen vom [[date|14.01.2025]] betrifft. Hinsichtlich der Entnahme vom [[date|30.01.2025]] fehlt es an einem Nachweis, dass sie zugunsten einer Angestellten erfolgte; der Senat geht daher von einer Entnahme für Kanzleizwecke aus.
+
 Eine Berufsverbotsentscheidung nach [[legal_norm|§ 34 RAO]] wurde nicht beantragt. Der Senat sieht von der Verhängung einer Untersagung ab, weil der Beschuldigte die Abwicklung der Mandate bereits umgestellt hat.
 
 VI. Rechtsmittelbelehrung
