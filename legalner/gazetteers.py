@@ -42,6 +42,12 @@ COUNTRIES = {
 EUROPE = {"AT", "DE", "CH", "FR", "BE", "LU", "LI", "IT", "RS", "BA", "HR", "PL", "CZ", "SK", "HU", "RO", "UA", "PT",
           "ES", "NL", "IE", "GB", "DK", "SE", "NO", "FI", "EE", "LV", "LT", "SI", "BG", "GR", "ME", "MK", "AL", "MT",
           "CY", "TR"}
+# distinctive surnames of prominent Austrian/German politicians: a fictitious "Vester Van der Bellen" reads as the
+# federal president, so generated persons never get them (common surnames like Kurz or Huber stay)
+PROMINENT = frozenset({"Van der Bellen", "Nehammer", "Kickl", "Strache", "Gusenbauer", "Faymann", "Mikl-Leitner",
+                       "Babler", "Schallenberg", "Klestil", "Waldheim", "Kreisky", "Vranitzky", "Schüssel", "Haider",
+                       "Fischer-Kreisky", "Edtstadler", "Gewessler", "Kogler", "Doskozil", "Merkel", "Scholz",
+                       "Steinmeier", "Söder", "Habeck", "Lindner-Merz", "Merz"})
 MAX_FIRST = 3000
 MAX_SURNAMES = 2000
 # European countries get larger lists: name-swap augmentation (build.py) cycles through all of them
@@ -198,6 +204,8 @@ class Gazetteer:
         for row in self._rows(root / "surnames.tsv"):
             # names borne by a single person in Wikidata are often noise (foreign spouses, typos)
             (self.last if int(row["count"]) >= 2 else rare)[row["country"]].append(row["name"])
+        for c in list(self.last):  # distinctive surnames of prominent public figures are not used for fake persons
+            self.last[c] = [n for n in self.last[c] if n not in PROMINENT]
         for c, names in rare.items():
             if len(self.last[c]) < 300:
                 self.last[c] += names
