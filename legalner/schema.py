@@ -188,6 +188,8 @@ SOURCES = {
     # which may not be used; kept evaluation-only so it stays an unbiased yardstick
     "synthetic_obdk": Source("synthetic_obdk", _ALL - {"case_citation", "contract", "literature", "brand"},
                              eval_only=True),
+    # production misses reported from the hub2 service (data/test/regression), kept as permanent test cases
+    "regression": Source("regression", _ALL - {"case_citation", "contract", "literature", "brand"}, eval_only=True),
     "gold_at": Source("gold_at", _ALL - {"case_citation", "contract", "literature", "brand"}, eval_only=True),
     # RIS decisions: pseudonymised placeholders filled from gazetteers; only the
     # filled labels plus the deterministic ones (dates, case numbers, courts) are covered

@@ -81,6 +81,12 @@ eval)
       --save-preds "out/eval/preds_mapa2_$name.jsonl"
     $PY -m legalner.evaluate "$model" "$BUILD/test.canonical.jsonl" --max-per-source 2000 \
       --out "out/eval/test_$name.json" --save-preds "out/eval/preds_test_$name.jsonl"
+    $PY -m legalner.evaluate "$model" data/test/obdk_synth/obdk_synth_test.jsonl --out "out/eval/obdk_$name.json" \
+      --save-preds "out/eval/preds_obdk_$name.jsonl"
+    # production mode: the hub2 service's single call, label list, word chunks and post-processing
+    $PY -m legalner.prodeval "$model" data/canonical/gold_at.jsonl data/canonical/mapa_v2.jsonl \
+      data/test/obdk_synth/obdk_synth_test.docs.jsonl data/test/regression/regression.jsonl \
+      --chunk-sizes 96,384 --out "out/eval/prod_$name.json"
   done
   ;;
 *)

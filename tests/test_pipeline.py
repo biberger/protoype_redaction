@@ -627,3 +627,18 @@ def test_rewindow_never_splits_spans():
     assert sum(len(w["spans"]) for w in wins) == total
     for w in wins:
         assert all(w["text"][s["start"]:s["end"]] == s["text"] for s in w["spans"])
+
+
+def test_prodeval_scores_chars_mentions_and_visible_spans():
+    from legalner.prodeval import score
+    text = "Herr Max Huber vor dem LG Wien am 3. Mai 2024, GZ 4 Cg 1/24k."
+    rec = _rec("Herr [[person|Max Huber]] vor dem [[court|LG Wien]] am [[date|3. Mai 2024]], GZ "
+               "[[case_number|4 Cg 1/24k]].", source="gold_at")
+    assert rec["text"] == text
+    i = text.index
+    masks = [(i("Max"), i("Max") + 3, "person"), (i("LG"), i("LG") + 7, "organization"),
+             (i("4 Cg"), i("4 Cg") + 10, "case_number")]
+    r = score([rec], [masks])["all"]
+    assert r["leaked_mentions"] == 0.5          # "Huber" stays visible
+    assert abs(r["char_recall"] - 11 / 16) < 1e-9  # 16 non-space PII chars ("MaxHuber", "4Cg1/24k"), 11 masked
+    assert r["visible_masked"] > 0              # the court was masked
