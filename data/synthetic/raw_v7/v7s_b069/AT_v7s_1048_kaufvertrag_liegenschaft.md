@@ -11,11 +11,17 @@ E: [[email|office@hohenberg.at]]  W: www.hohenberg.at
 [[organization|Raiffeisenbank Pernersdorf registrierte Genossenschaft mit beschränkter Haftung]] IBAN: [[bank_account|AT22 0522 5231 2117 8692]] BIC: [[bank_account|GIBAATWW]]
 ERV-Code: [[other_identifier|P442766]]
 
+Ihr Zeichen: [[other_identifier|CR-CRAleksandrova/Strohmayer]]
+Unser Zeichen: [[other_identifier|Aleksandrova ./. Charlemont]]
+Tel. [[phone_number|0512/2349915-84]]
+
 KAUFVERTRAG
 
 über die Liegenschaft in der Katastralgemeinde Bernhardsthal
 
-Abgeschlossen am [[date|16.09.2026]] in Pernersdorf zwischen
+Abgeschlossen am [[date|16.09.2026]] in [[location|Pernersdorf]] zwischen
+
+VERKÄUFERIN: [[person|RITA ALEKSANDROVA]]
 
 Verkäuferin:
 
@@ -88,4 +94,4 @@ Vorstehende Unterschriften wurden in unserer Gegenwart geleistet.
 [[lawyer|Dr. Hohenberg]]
 Rechtsanwalt
 
-Pernersdorf, am [[date|16.09.2026]]
+[[location|Pernersdorf]], am [[date|16.09.2026]]

@@ -78,7 +78,7 @@ Die Verzögerung der Abrechnung über mehrere Monate, die erst nach einer Auffor
 
 5. Strafbemessung
 
-Mildernd wirkt die bisherige Unbescholtenheit der Beschuldigten im Disziplinarverfahren und ihre teilweise Schadensgutmachung. Erschwerend ist die Dauer der Pflichtverletzung und die Tatsache, dass die Abrechnung erst nach zwei Aufforderungen korrigiert wurde. Der Senat erachtet unter Abwägung dieser Umstände eine Geldbuße in der Höhe von EUR 4.000,00 für tat- und schuldangemessen. Eine Streichung aus der Liste der Rechtsanwälte war nicht geboten, weil keine Anzeichen dafür bestehen, dass die Beschuldigte künftig vergleichbare Gelder unzulässig verwenden wird.
+Mildernd wirkt die bisherige Unbescholtenheit der Beschuldigten im Disziplinarverfahren und ihre teilweise Schadensgutmachung. Erschwerend ist die Dauer der Pflichtverletzung und die Tatsache, dass die Abrechnung erst nach zwei Aufforderungen korrigiert wurde. Die Kammeranwältin hat in der Verhandlung zudem darauf hingewiesen, dass der Beschwerdeführer [[person|Salmi]] durch die verzögerte Abrechnung über mehrere Monate hinweg keine verlässliche Auskunft über den Stand seiner Gelder erhalten habe. Der Senat berücksichtigt diesen Umstand als erschwerend. Der Senat erachtet unter Abwägung dieser Umstände eine Geldbuße in der Höhe von EUR 4.000,00 für tat- und schuldangemessen. Eine Streichung aus der Liste der Rechtsanwälte war nicht geboten, weil keine Anzeichen dafür bestehen, dass die Beschuldigte künftig vergleichbare Gelder unzulässig verwenden wird.
 
 6. Kosten
 
