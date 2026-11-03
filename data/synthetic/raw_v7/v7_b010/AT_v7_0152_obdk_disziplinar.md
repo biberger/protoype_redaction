@@ -33,6 +33,12 @@ Die Mitteilung an die Klientin war unvollständig. Der Beschuldigte hat [[organi
 
 [[person|Dr. Johann Rieder]] beantragte die Verhängung einer Geldbuße. Das Verfahren wird eingestellt, soweit es die Mitteilung betrifft, und im Übrigen fortgesetzt.
 
+**Beweiswürdigung**
+
+Der Senat hat die Aussage des Zeugen [[person|Pedrazzi]] nicht berücksichtigt, weil er keine eigene Wahrnehmung hatte. [[person|Weinberger]] legte eine Mitteilung vom [[date|20.01.2024]] vor, in der die Zahlung bestätigt wird. [[person|Steger]] hat in der Stellungnahme vom [[date|03.03.2024]] klargestellt, dass die Forderung gegen [[organization|Hein]] am [[date|04.11.2023]] nicht beglichen war.
+
+Die Kammerkanzlei hat die Eingabe geprüft und keine Mängel in der Zustellung festgestellt. Der Beschuldigte [[person|Pedrazzi]] hat die Forderung der [[organization|Hein]] in seiner Stellungnahme vom [[date|17.04.2024]] nicht bestritten, aber auf die Verjährung hingewiesen. Die Verjährung ist nicht eingetreten, weil die Mitteilung erst am [[date|20.01.2024]] erfolgte.
+
 Mit freundlichen Grüßen
 
 [[person|Dr. Ludmila Hauser]]

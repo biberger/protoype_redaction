@@ -54,6 +54,16 @@ Im Vergleichsverfahren, in dem die [[country|Republik Österreich]] als Beklagte
 
 Der Beschuldigte hat zudem eine Zahlung im Zusammenhang mit einem Termin am [[date|11.06.2024]] nicht offengelegt. Dies wird als erschwerend gewertet.
 
+**Beweiswürdigung**
+
+Der Senat hat die Angaben der Anzeigerin [[person|Fleischer]] mit den Aufzeichnungen der [[organization|Pirker]] verglichen. Die Abrechnung vom [[date|06.05.2024]] trägt keine Unterschrift des Beschuldigten. Die Buchung auf dem Konto [[bank_account|AT29 5236 5796 5205 0009]] ist jedoch dem Beschuldigten zuzuordnen, weil die Zugangsdaten nur ihm zur Verfügung standen.
+
+Der Beschuldigte [[person|Rodler Seraphinus]] hat in seiner Stellungnahme vom [[date|09.07.2024]] angegeben, er habe die Gelder an [[person|Fleischer]] überwiesen. Eine Überweisungsbestätigung hat er nicht vorgelegt. Die Zeugin [[person|Fleischer]] bestätigte dagegen, am [[date|19.04.2024]] nur einen Teil erhalten zu haben.
+
+Die Geschäftsführung der [[organization|Pirker]] hat in einer Erklärung vom [[date|15.08.2024]] bestätigt, dass der Beschuldigte Zugriff auf das Konto hatte. Die Erklärung entlastet den Beschuldigten daher nicht.
+
+Der Senat ist überzeugt, dass die Verwahrung nicht getrennt geführt wurde. Die Behauptung, die Honorarentnahme sei mit der Anzeigerin vereinbart gewesen, ist nicht belegt.
+
 **Spruch**
 
 Der Beschuldigte wird schuldig erkannt, die Verwahrung fremder Gelder pflichtwidrig gestaltet zu haben. Er wird mit einer Geldbuße belegt. Die Kosten des Verfahrens trägt der Beschuldigte.

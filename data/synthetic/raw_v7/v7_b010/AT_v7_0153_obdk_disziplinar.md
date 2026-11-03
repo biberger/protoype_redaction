@@ -32,6 +32,14 @@ Die Verwahrung war nicht getrennt. Die Abrechnung gegenüber der Klientin [[pers
 
 In einem Vergleichsverfahren, in dem die [[country|Republik Österreich]] als Beklagte auftrat, hatte der Beschuldigte dieselbe Abrechnung verwendet. Die Behauptung ist unerheblich.
 
+**Beweiswürdigung**
+
+Der Senat stützt die Feststellungen auf den Kontoauszug der [[organization|Müller KG]] und die Aussage der Zeugin [[person|Lautner]]. Die Zeugin [[person|Lautner]] ist nach Angaben der Kammer unbefangen. Die Angaben von [[person|Erben]], der als Zeuge geladen war, sind widersprüchlich: Er gab zunächst an, die Unterlagen nicht gesehen zu haben, und bestätigte später die Übergabe am [[date|28.02.2023]].
+
+Der Beschuldigte [[person|Münzer]] bestreitet, die Gelder für [[organization|Müller]] verwendet zu haben. Die Verteidigung hat auf den Umstand verwiesen, dass die Klientin [[person|Zweig]] ihre Forderung am [[date|15.05.2023]] selbst bestätigte. Diese Bestätigung betrifft jedoch nur den Betrag von 1.250 Euro, nicht den Gesamtbetrag.
+
+Die [[organization|Finanzmarktaufsicht]] hat die Ermittlungen unterstützt und Kontounterlagen übermittelt. Die Zusammenarbeit war unproblematisch. Die Eingabe der [[organization|FMA]] ist daher zulässig.
+
 **Spruch**
 
 Der Beschuldigte wird schuldig erkannt. Er wird mit einer Geldbuße belegt. Die Kosten des Verfahrens trägt der Beschuldigte.

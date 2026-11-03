@@ -43,6 +43,14 @@ Die Zeugin [[person|Ivana Radojković]], StA: [[country|Serbien]], bestätigte d
 
 Die getrennte Verwahrung fremder Gelder ist nach [[legal_norm|§ 34 Abs 1 RAO]] verpflichtend. Die Überweisung vom [[date|17.06.2023]] verletzt diese Pflicht. Die Verantwortung, es habe sich um eine Honorarvorauszahlung gehandelt, ist nicht belegt.
 
+**Beweiswürdigung**
+
+Der Senat hat die Aussagen der Klientin [[person|Vasilev]] mit den Kontoauszügen verglichen. Die Angaben der Zeugin [[person|Radojković]] sind in sich stimmig, soweit sie den Ablauf im Frühjahr 2023 betreffen. Dass [[person|Biancardi]] im Verfahren keine eigene Erklärung abgab, wurde nicht zu seinen Lasten gewertet.
+
+Der Beschuldigte [[person|Holub]] hat in der Berufung vorgebracht, die Verzögerung sei durch ein Versäumnis der Gegenseite verursacht worden. Der Senat hält diesen Vortrag für unerheblich, weil die Pflicht zur getrennten Verwahrung nicht von der Gegenseite abhängt. Die Klientin [[person|Zwölfer]] wurde am [[date|02.08.2023]] vollständig befriedigt, wie die Quittung zeigt.
+
+Der Senat hat außerdem die Akten des [[court|BG Vöcklabruck]] beigezogen. Die Erledigung vom [[date|19.10.2023]] bestätigt den Ablauf.
+
 **Spruch**
 
 Der Berufung wird teilweise Folge gegeben. Die Geldbuße wird auf 6.000 Euro herabgesetzt.

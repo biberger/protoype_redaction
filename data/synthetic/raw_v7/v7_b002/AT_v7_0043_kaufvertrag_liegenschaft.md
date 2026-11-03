@@ -25,7 +25,7 @@ wohnhaft in [[address|7531 Kemeten]]
 Käuferinnen und Käufer:
 [[person|Joshua Löwit]], geb
 [[date_of_birth|23. Juli 2001]],
-[[person|Becky Mag. Köllerer]], geb. [[date_of_birth|6. März 1981]],
+[[person|Mag. Becky Köllerer]], geb. [[date_of_birth|6. März 1981]],
 [[person|Abdellah Nazarian]], alle wohnhaft in [[location|St. Ruprecht an der Raab]]
 
 Die [[organization|Richter e.U.]] (im Folgenden „[[organization|Richter]]“), [[company_register_number|FN 157114a]], UID: [[tax_id|ATU52167006]], tritt als Käuferin des Nebenobjekts auf und wird durch [[person|Abdellah Nazarian]] vertreten.
