@@ -35,11 +35,11 @@ Die Abrechnung wurde mit Schreiben vom [[date|31.03.2026]] übermittelt. Die Bek
 Die Zahlungen sind wie folgt offen:
 
 Datum | Leistung | Betrag
-[[date|31.12.2024]] | Betriebskosten 2024, Anteil Misar | EUR 1.840,00
-[[date|31.12.2025]] | Betriebskosten 2025, Anteil Koolhaas | EUR 2.115,00
-[[date|30.06.2026]] | Heizkosten, Anteil Blauensteiner | EUR 3.072,00
-[[date|30.06.2026]] | Wasserkosten, Anteil Cartellieri | EUR 1.945,00
-[[date|30.06.2026]] | Reparaturkosten Lift, Anteil Nimmervoll | EUR 3.896,00
+[[date|31.12.2024]] | Betriebskosten 2024, Anteil [[person|Misar]] | EUR 1.840,00
+[[date|31.12.2025]] | Betriebskosten 2025, Anteil [[person|Koolhaas]] | EUR 2.115,00
+[[date|30.06.2026]] | Heizkosten, Anteil [[person|Blauensteiner]] | EUR 3.072,00
+[[date|30.06.2026]] | Wasserkosten, Anteil [[person|Cartellieri]] | EUR 1.945,00
+[[date|30.06.2026]] | Reparaturkosten Lift, Anteil [[person|Nimmervoll]] | EUR 3.896,00
 
 **II. Rechtliche Beurteilung**
 

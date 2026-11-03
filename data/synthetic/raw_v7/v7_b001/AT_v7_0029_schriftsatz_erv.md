@@ -19,7 +19,7 @@ An das
 
 **KLAGEBEANTWORTUNG**
 
-Im Verfahren der klagenden Partei [[organization|Uhlig Handels GmbH]] ([[organization|UHG]]), FN [[company_register_number|16796a]], UID: [[tax_id|ATU22742325]]
+Im Verfahren der klagenden Partei [[organization|Uhlig Handels GmbH]] ([[organization|UHG]]), [[company_register_number|FN 16796a]], UID: [[tax_id|ATU22742325]]
 
 gegen
 

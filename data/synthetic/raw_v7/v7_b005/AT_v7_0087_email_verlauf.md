@@ -67,6 +67,22 @@ Mit freundlichen Grüßen
 
 -----Ursprüngliche Nachricht-----
 Von: [[person|Tölk]] <[[email|toelk@mueckstein.at]]>
+Gesendet: Sonntag, [[date|9. November 2025]] 19:12
+An: [[person|Iskender Din]]
+Cc: [[person|Ludwig Hornung]]
+Betreff: AW: Grunderwerbsteuer
+
+Sehr geehrter Herr [[person|Din]],
+
+die Grunderwerbsteuer ist innerhalb der Frist beim [[organization|Finanzamt Klagenfurt]] anzumelden. Die Anmeldung erfolgt elektronisch. Die Kosten der Anmeldung trägt die Käuferin, die Abgabe selbst entsteht mit der Unterfertigung des Vertrages.
+
+Bitte bestätigen Sie, dass die Angaben zur Liegenschaft vollständig sind. Herr [[person|Hornung]] hat die Zeugenbestätigung bereits übermittelt.
+
+Mit freundlichen Grüßen
+[[person|Tölk]]
+
+-----Ursprüngliche Nachricht-----
+Von: [[person|Tölk]] <[[email|toelk@mueckstein.at]]>
 Gesendet: Freitag, [[date|7. November 2025]] 09:50
 An: [[person|Iskender Din]]
 Cc: [[person|Serbana Arsenescu]]
@@ -83,6 +99,22 @@ Die Klage richtet sich gegen die [[country|Republik Österreich]] als Beklagte. 
 
 Mit freundlichen Grüßen
 [[person|Tölk]]
+
+-----Ursprüngliche Nachricht-----
+Von: [[person|Serbana Arsenescu]] <[[email|s.arsenescu@arsenescu-post.at]]>
+Gesendet: Montag, [[date|3. November 2025]] 07:55
+An: [[person|Tölk]]
+Betreff: Ratenzahlung
+
+Sehr geehrter Herr [[person|Tölk]],
+
+ich ersuche um eine Ergänzung der Kaufpreisklausel. Ich bin seit dem [[date|1. Juli 2019]] Witwe und habe die Liegenschaft nach dem Tod meines Gatten übernommen. Die Ratenzahlung soll am 15. jeden Monats erfolgen, wenn dies möglich ist.
+
+Die Rechnung für das Notariat habe ich bereits bezahlt. Bitte bestätigen Sie den Eingang.
+
+Mit freundlichen Grüßen
+[[person|Serbana Arsenescu]]
+Tel. [[phone_number|0316 845476 Kl. 89]]
 
 -----Ursprüngliche Nachricht-----
 Von: [[person|Serbana Arsenescu]] <[[email|s.arsenescu@arsenescu-post.at]]>

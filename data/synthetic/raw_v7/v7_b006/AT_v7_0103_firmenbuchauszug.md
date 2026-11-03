@@ -51,4 +51,15 @@ E-Mail: [[email|office@paterno-immobilien.at]]
 
 Vorhandene Eintragungen sind vollständig.
 
+Zweigstelle und Anteile:
+Die Gesellschaft unterhält eine Zweigstelle in [[location|St. Pölten]]. Die Zweigstellenleitung hat [[person|Mirela Dragović]] übernommen.
+
+Datum | Eintragung | Bemerkung
+[[date|03.11.2017]] | Prokura [[person|Mirela Dragović]] | Einzelprokura
+[[date|20.08.2020]] | Eintritt Gesellschafter [[person|Thomas Eichinger]] | Stammeinlage EUR 6.000,00
+
+Die Gesellschafterversammlung vom [[date|10.05.2024]] bestätigte die Anteile von [[person|Diebold Jacobson]] und [[person|Thomas Eichinger]]. [[person|Lazarus Dr. Eberhart]] vertritt die Gesellschaft allein.
+
+Anmerkung: Ein Rechtsstreit der [[organization|PI]] wird vor dem [[court|Landesgericht St. Pölten]] geführt.
+
 [[location|St. Martin im Mühlkreis]], am [[date|02.11.2026]]

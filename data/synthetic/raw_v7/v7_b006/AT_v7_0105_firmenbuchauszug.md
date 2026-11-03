@@ -46,4 +46,13 @@ E-Mail: [[email|office@segur-cabanac.at]]
 
 [[court|Bezirksgericht Hollabrunn]] / [[court|BG Hollabrunn]]
 
+Zweigniederlassung und Prokura:
+Die [[organization|SCB]] betreibt eine Zweigniederlassung in [[location|Retz]]. Die Prokura hält [[person|Rene Dietrich]] seit [[date|12.03.2022]].
+
+Datum | Eintragung | Bemerkung
+[[date|12.03.2022]] | Prokura [[person|Rene Dietrich]] | Einzelprokura
+[[date|30.09.2024]] | Erhöhung des Stammkapitals | EUR 5.000,00
+
+Die Gesellschafterversammlung vom [[date|18.11.2025]] genehmigte den Jahresabschluss 2024. Die Gesellschafterin [[person|Nachbaur Lukrezia]] ist weiterhin Mitinhaberin.
+
 [[location|Hollabrunn]], am [[date|02.11.2026]]

@@ -19,7 +19,7 @@ An das
 
 **GRUNDBUCHSGESUCH**
 
-Die [[organization|Alaba GmbH]] ([[organization|AGM]]), FN [[company_register_number|217245d]], UID: [[tax_id|ATU40640712]], vertreten durch den Geschäftsführer [[person|Agidius Rennert]], geb [[date_of_birth|1978-04-27]], [[address|Bergstraße 14, 9500 Villach]], stellt den Antrag auf Einverleibung des Eigentumsrechts an der Liegenschaft
+Die [[organization|Alaba GmbH]] ([[organization|AGM]]), [[company_register_number|FN 217245d]], UID: [[tax_id|ATU40640712]], vertreten durch den Geschäftsführer [[person|Agidius Rennert]], geb [[date_of_birth|1978-04-27]], [[address|Bergstraße 14, 9500 Villach]], stellt den Antrag auf Einverleibung des Eigentumsrechts an der Liegenschaft
 
 [[land_register_id|EZ3025]], [[land_register_id|KG 36854]] ([[court|BG Dornbirn]]), [[land_register_id|Gst.Nr. 1039]]
 

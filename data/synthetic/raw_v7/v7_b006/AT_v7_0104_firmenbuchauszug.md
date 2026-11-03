@@ -48,4 +48,13 @@ Grundbuchsgericht: [[court|Bezirksgericht Ried im Innkreis]] / [[court|BG Ried i
 
 Abfrage vom [[date|02.11.2026]] ohne Ergebnis.
 
+Außenstandort und Gesellschafter:
+Die Gesellschaft unterhält einen Außenstandort in [[location|Ried im Innkreis]]. Gesellschafter sind [[person|Ferdinand Oberauer]] und [[person|Lidia Wojciechowska]].
+
+Datum | Eintragung | Bemerkung
+[[date|05.02.2016]] | Eintritt Gesellschafterin [[person|Lidia Wojciechowska]] | Stammeinlage EUR 12.000,00
+[[date|23.07.2020]] | Bestellung [[person|Ferdinand Oberauer]] | selbständig vertretungsbefugt
+
+Der Abschluss für das Geschäftsjahr 2024 wurde am [[date|27.06.2025]] beim Firmenbuch hinterlegt. Die Prokura der [[person|Senta Prader]] ist seit [[date|01.10.2025]] erloschen.
+
 [[location|Güttenbach]], am [[date|02.11.2026]]

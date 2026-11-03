@@ -50,4 +50,19 @@ Hinweis: Eine Zweigstelle besteht in [[location|St. Martin im Mühlkreis]].
 
 STEMPEL FIRMENBUCHABFRAGE: [[person|SYLWIA HERZ]]
 
+Gesellschafterbeschlüsse und Rekurs:
+Die Gesellschafterversammlung vom [[date|12.03.2019]] beschloss die Aufnahme von [[person|Yusuf Demirtaş]] als Gesellschafter.
+
+Datum | Eintragung | Bemerkung
+[[date|12.03.2019]] | Eintritt Gesellschafter [[person|Yusuf Demirtaş]] | Stammeinlage EUR 9.000,00
+[[date|14.06.2021]] | Prokura [[person|Carina Kreutzer]] | Gesamtprokura
+[[date|05.09.2023]] | Bestellung Geschäftsführer [[person|Dimitrios Papadakis]] | gemeinsam mit [[person|Claudio Rieder]]
+[[date|11.04.2025]] | Löschung der Prokura von [[person|Helga Fischer-Wurm]] | auf Antrag
+
+Der Antrag auf Eintragung der Änderung des Firmenwortlauts wurde mit Beschluss vom [[date|14.01.2025]] abgewiesen. Der Rekurs dagegen (Geschäftszahl [[case_number|2 R 37/25k]]) ist beim [[court|Oberlandesgericht Graz]] anhängig.
+
+Die Gesellschafterin [[person|Sylwia Herz]] hat ihre Anteile am [[date|30.06.2025]] an [[person|Mag. Robert Schrempf]] übertragen. Die Zustimmung der übrigen Gesellschafter liegt vor.
+
+Die Buchhaltung ist an eine Steuerberatungskanzlei ausgelagert; verantwortlich ist [[person|Mag. Robert Schrempf]].
+
 [[location|Graz]], am [[date|02.11.2026]]

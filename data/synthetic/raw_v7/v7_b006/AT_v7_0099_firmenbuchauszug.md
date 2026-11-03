@@ -56,7 +56,7 @@ Zuständiges Grundbuchsgericht: [[court|Bezirksgericht Döbling]] / [[court|BG D
 Betriebsstandort: [[location|St. Wolfgang im Salzkammergut]]
 
 Zweigniederlassungen:
-Die [[organization|TL]] unterhält Lagerstandorte in [[location|Gänserndorf]] und [[location|Ybbs an der Donau]]. Die Standortleitung in Gänserndorf hat [[person|Bettina Hauer]] inne, die Leitung in Ybbs [[person|Rudolf Grabner]].
+Die [[organization|TL]] unterhält Lagerstandorte in [[location|Gänserndorf]] und [[location|Ybbs an der Donau]]. Die Standortleitung in [[location|Gänserndorf]] hat [[person|Bettina Hauer]] inne, die Leitung in Ybbs [[person|Rudolf Grabner]].
 
 Eintragungen (Fortsetzung):
 Datum | Eintragung | Bemerkung
