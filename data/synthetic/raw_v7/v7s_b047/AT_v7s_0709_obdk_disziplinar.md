@@ -54,17 +54,19 @@ Beweiswürdigung
 
 Der Senat hat den Auszug der [[organization|VVB]], die Stellungnahme der Beschuldigten vom [[date|14.11.2023]] und die Aussage des Beschwerdeführers gewürdigt. Die Aussagen des Beschwerdeführers wurden durch die Kontoauszüge gestützt. Die Beschuldigte bestritt in der Verhandlung nicht, dass die Zahlung vom [[date|21.06.2023]] ohne Zustimmung erfolgte; sie berief sich aber darauf, dass die Gegenseite dies verlangt habe.
 
-Die Schriftführerin hat die Aussage des Beschwerdeführers wörtlich protokolliert. Der Senat hält fest, dass [[person|Erlacher]] seine Angaben ruhig und präzise machte und keine Belastungstendenz erkennen ließ.
+Die Schriftführerin hat die Aussage des Beschwerdeführers wörtlich protokolliert. Der Senat hat außerdem die Aussage der Kanzleiangestellten [[person|Patrizia Lorenz]] berücksichtigt, die bestätigte, dass die Überweisung vom [[date|21.06.2023]] auf ausdrückliche Anweisung der Beschuldigten erfolgte. Die Angestellte gab an, sie habe die Zustimmung des Beschwerdeführers nicht eingeholt, weil sie annahm, dass eine Vereinbarung bestehe. Der Beschwerdeführer hat einen Schaden von 7.800 Euro geltend gemacht, der mit der Rückzahlung der Beträge nicht vollständig abgegolten ist. Der Senat hält fest, dass [[person|Erlacher]] seine Angaben ruhig und präzise machte und keine Belastungstendenz erkennen ließ.
 
 Rechtliche Beurteilung
 
-Ein Rechtsanwalt hat anvertraute fremde Gelder unverzüglich und gesondert zu verwahren. Eine Überweisung an die Gegenseite ohne Freigabe durch den Klienten stellt eine Verletzung dieser Pflicht dar, auch wenn der Anwalt im Interesse der Partei zu handeln glaubt. Die Entnahme eines Honorars ohne Abrechnung verletzt zudem die Pflicht zur Transparenz gegenüber dem Klienten.
+Ein Rechtsanwalt hat anvertraute fremde Gelder unverzüglich und gesondert zu verwahren. Eine Überweisung an die Gegenseite ohne Freigabe durch den Klienten stellt eine Verletzung dieser Pflicht dar, auch wenn der Anwalt im Interesse der Partei zu handeln glaubt. Die Entnahme eines Honorars ohne Abrechnung verletzt zudem die Pflicht zur Transparenz gegenüber dem Klienten. Die Verantwortung für die Kanzleiorganisation trifft den Rechtsanwalt persönlich; er kann sich nicht darauf berufen, dass Mitarbeiter die Buchungen eigenständig vorgenommen haben. Ein Kontrollsystem, das solche Überweisungen ohne Freigabe verhindert, hätte nach den Feststellungen des Senats bestehen müssen.
 
 Die Verteidigung der Beschuldigten, sie habe nur eine Vereinbarung mit der Gegenseite umgesetzt, ist nicht stichhaltig, weil eine solche Vereinbarung nicht schriftlich vorlag. Die Kammeranwältin beantragte eine Geldbuße im Ausmaß von 6.000 Euro, der Senat hält eine Geldbuße von 4.500 Euro für ausreichend, weil die Beschuldigte bisher nicht disziplinär aufgefallen ist und den Betrag von 1.200 Euro an den Beschwerdeführer zurückzahlte.
 
 Bei der Strafbemessung wertete der Senat als erschwerend, dass die Beschuldigte zwei verschiedene Verstöße gegen die Pflicht zur getrennten Verwahrung beging und dass die Gelder des Beschwerdeführers über mehrere Monate nicht zur Verfügung standen. Mildernd wirkten die bisherige disziplinäre Unbescholtenheit, die teilweise Rückzahlung von 1.200 Euro im Jahr 2023 und das Eingeständnis der Zahlung an die Gegenseite in der Verhandlung.
 
 Der Senat hat außerdem geprüft, ob eine Untersagung der Berufsausübung erforderlich ist. Dies wurde verneint, weil die Verstöße auf eine Fehlbeurteilung und nicht auf eine systematische Vermögensverwendung zurückzuführen sind.
+
+Der Beschuldigten wird aufgetragen, bis zum [[date|30.06.2025]] einen Prüfbericht eines Wirtschaftsprüfers über ihre Treuhandgebarung vorzulegen; dieser Bericht ist Voraussetzung dafür, dass die Berufsausübung ohne weitere Auflagen fortgesetzt werden kann.
 
 Gegen dieses Erkenntnis ist die Berufung an den [[court|OGH]] zulässig. Sie ist binnen vier Wochen nach Zustellung der schriftlichen Ausfertigung einzubringen.
 

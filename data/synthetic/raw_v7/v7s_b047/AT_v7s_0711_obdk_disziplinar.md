@@ -43,7 +43,7 @@ Datum | Vorgang | Betrag
 [[date|19.09.2024]] | Überweisung an [[organization|Kaur Consulting]] | 3.200,00 EUR
 [[date|28.11.2024]] | Auszahlung an Erben [[person|Walch]] | 8.700,00 EUR
 
-Die Auszahlung vom [[date|28.11.2024]] umfasste nur einen Teil des Guthabens. Der Restbetrag von 13.700,00 Euro fehlte, weil der Beschuldigte die Überweisungen an die [[organization|Kaur Consulting]] ohne Auftrag durchgeführt hatte. Die Beschwerdeführerin erfuhr davon erst, als die Erben im Jänner 2025 die Abrechnung verlangten.
+Die Auszahlung vom [[date|28.11.2024]] umfasste nur einen Teil des Guthabens. Der Restbetrag von 13.700,00 Euro fehlte, weil der Beschuldigte die Überweisungen an die [[organization|Kaur Consulting]] ohne Auftrag durchgeführt hatte. Die Beschwerdeführerin erfuhr davon erst, als die Erben im Jänner 2025 die Abrechnung verlangten. Sie hatte den Beschuldigten bis zu diesem Zeitpunkt in regelmäßigen Abständen nach dem Stand gefragt; jedes Mal erhielt sie die Auskunft, das Geld sei noch vollständig auf dem Treuhandkonto. Diese Auskünfte waren unrichtig, wie die Kontoauszüge zeigen.
 
 Der Beschuldigte erklärte, die Zahlungen an die [[organization|Kaur Consulting]] seien Honorare für Vorarbeiten gewesen, eine Honorarnote sei aber nicht erstellt worden. Die Barbehebung vom [[date|02.07.2024]] könne er nicht erklären; er vermute einen Irrtum seiner Kanzleikraft.
 
@@ -71,7 +71,7 @@ Der Senat wertete als erschwerend, dass der Beschuldigte die Verstöße über ei
 
 Der Beschuldigte ist bisher disziplinär nicht aufgefallen. Die Geldbuße wurde gleichwohl höher als im Antrag der Vorstandschaft bemessen, weil der Senat den Betrag der Zuwendung an die Gesellschaft als schwerwiegend ansah.
 
-Die Untersagung der Entgegennahme von Treuhandgeldern soll der Klientschaft künftig Sicherheit geben. Der Beschuldigte hat dies in der Verhandlung akzeptiert.
+Die Untersagung der Entgegennahme von Treuhandgeldern soll der Klientschaft künftig Sicherheit geben. Der Beschuldigte hat dies in der Verhandlung akzeptiert. Die Kammer wird die Einhaltung des Verbots durch Vorlage der Treuhandkontoauszüge in Abständen von sechs Monaten überprüfen. Sollte sich der Beschuldigte nicht daran halten, wird der Senat auf Antrag der Kammeranwältin die Untersagung auf die Dauer von zwei Jahren erstrecken. Die Beschwerdeführerin wurde über diese Regelung informiert.
 
 Gegen dieses Erkenntnis steht dem Beschuldigten und der Kammeranwältin die Berufung an den [[court|OGH]] offen. Die Berufung ist binnen vier Wochen nach Zustellung schriftlich einzubringen.
 

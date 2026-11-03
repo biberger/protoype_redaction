@@ -35,7 +35,7 @@ Bei der [[organization|Raiffeisenbank Deutschlandsberg]] bestand ein Girokonto m
 
 Gläubiger ist [[person|Leo Andreani]], GEB: [[date_of_birth|1991-06-16]], der aus einem Darlehen vom [[date|12.11.2018]] eine Forderung von 8.300 Euro anmeldete. Die Forderung wurde durch den Darlehensvertrag belegt. Die Verlassenschaft erkennt die Forderung an, sie wird aus dem Nachlass bezahlt. [[person|Andreani]] hat zudem auf einen Anspruch aus einer Mietkaution verzichtet.
 
-Die Begräbniskosten betragen 4.750 Euro, die Verwaltungskosten 2.100 Euro. Ein Darlehen, das der Erblasser seinem Bruder über 1.000 Euro gewährt hatte, wurde bereits zurückgezahlt; eine Forderung besteht daher nicht mehr. Der Erblasser [[person|Azizi]] hatte die Rückzahlung im Jahr 2019 ausdrücklich bestätigt.
+Die Begräbniskosten betragen 4.750 Euro, die Verwaltungskosten 2.100 Euro. Die Verwaltungskosten umfassen die Kosten der Hausverwaltung für die Monate März bis Juni 2020, die Versicherungsprämie für das Wohnhaus sowie die Kosten der Schätzung der Liegenschaft. Die Abrechnung wurde mit den Belegen dem Gericht vorgelegt und ist mit dem Nachlassinventar abgeglichen. Ein Darlehen, das der Erblasser seinem Bruder über 1.000 Euro gewährt hatte, wurde bereits zurückgezahlt; eine Forderung besteht daher nicht mehr. Der Erblasser [[person|Azizi]] hatte die Rückzahlung im Jahr 2019 ausdrücklich bestätigt.
 
 Die Krankenkasse hat einen Rückforderungsanspruch aus einem Krankengeld-Überbezug in Höhe von 412 Euro angemeldet; der Anspruch ist durch den Bescheid vom [[date|17.06.2020]] belegt und wird anerkannt. Weitere Forderungen wurden nicht angemeldet, obwohl die Verlassenschaft im Firmenbuch und im Grundbuch nach Gläubigern gesucht hat. Weitere Passiva bestehen nicht.
 
@@ -65,7 +65,14 @@ Der Erblasser war nach den Angaben des Gerichts verheiratet gewesen; die Ehe wur
 
 Das reine Nachlassvermögen beträgt nach Abzug der Passiva und der Verfahrenskosten 116.384 Euro. Die Verlassenschaft wurde im Gerichtsverfahren vor dem [[court|BG Wolfsberg]] geführt; das Gericht ist für die Einantwortung zuständig, weil der letzte Wohnsitz des Erblassers im Sprengel liegt.
 
-Ich ersuche das Gericht, die Einantwortung nach den genannten Quoten zu beschließen und das Legat auszufolgen. Die Liegenschaft ist im Grundbuch unbelastet; die Pfandrechte der Bank wurden mit der Tilgung gelöscht.
+Ich ersuche das Gericht, die Einantwortung nach den genannten Quoten zu beschließen und das Legat auszufolgen. Die Liegenschaft ist im Grundbuch unbelastet; die Pfandrechte der Bank wurden mit der Tilgung gelöscht. Ein Darlehen der [[organization|Raiffeisenbank Deutschlandsberg]] über 34.000 Euro war im Grundbuch zugunsten der Bank einverleibt; die Tilgung ist durch die Quittung vom [[date|30.03.2020]] nachgewiesen. Die Löschungsquittung wird dem Antrag auf Einantwortung beigelegt.
+
+Anlagen:
+./1 Nachlassinventar
+./2 Sterbeurkunde des Erblassers
+./3 Gutachten zur Liegenschaft vom [[date|03.03.2020]]
+./4 Vertrag über das Legat
+./5 Löschungsquittung
 
 Mit freundlichen Grüßen
 

@@ -69,6 +69,12 @@ Beilagen:
 ./B Schreiben der Republik vom [[date|3. Juni 2025]]
 ./C Vollmacht vom [[date|1. September 2026]]
 
+III a. Zum Vorbringen der Kläger ist ergänzend festzuhalten, dass die Angaben zum Schmerzengeld nicht belegt sind. Die vorgelegten ärztlichen Befunde stammen von [[date|9. Juli 2025]] bis [[date|14. August 2025]] und beschreiben eine Prellung, aber keine dauerhafte Funktionsbeeinträchtigung. Die Kläger haben weder einen Krankenstand noch einen Verdienstentgang im Umfang der Klage nachgewiesen.
+
+Der Kläger zu 4 hat den Unfall nach den Aufzeichnungen des Krankenhauses erst am [[date|11. Juli 2025]] gemeldet, obwohl er bereits am [[date|8. Juli 2025]] behandelt wurde. Die Verspätung ist nicht erklärt. Die Vorlage der Befunde in der Klage ist daher unvollständig.
+
+Die Zweitbeklagte bestreitet zudem die Höhe der geltend gemachten Heilungskosten. Die Rechnungen sind teilweise doppelt gelegt, weil dieselbe Untersuchung in zwei Monaten abgerechnet wurde. Eine Aufstellung der Zahlungen des Krankenversicherungsträgers fehlt vollständig.
+
 IV. Anträge
 
 8. Die Klagebeantwortung schließt mit dem Antrag, die Klage kostenpflichtig abzuweisen. Hilfsweise beantragt die [[organization|Lukas]] die Einholung eines verkehrstechnischen Sachverständigengutachtens.
