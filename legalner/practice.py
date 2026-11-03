@@ -365,7 +365,7 @@ def brief(gaz, rng, doc_type, idx, wave):
         "law_firm": {"partners": firm["partners"], "letterhead_verbatim": firm["letterhead"]} if firm else None,
         "persons": persons, "court": court_full,
         "company": {"name": f"{transliterate(gaz.last_name('AT'))} {rng.choice(['GmbH', 'Bau GmbH', 'Immobilien GmbH', 'KG', 'e.U.', 'Handels GmbH'])}",
-                    "register": F.fn(rng), "uid": F.uid_at(rng)} if rng.random() < pr["company"] or "landlord_co" in hard else None,
+                    "register": F.fn(rng), "uid": F.uid_at(rng)} if rng.random() < pr["company"] or {"landlord_co", "no_form"} & set(hard) else None,
         "iban": F.iban("AT", rng) if rng.random() < pr["iban"] else None,
         "svnr": _svnr(rng, persons) if rng.random() < pr["svnr"] else None,
         "plate": F.license_plate("AT", rng) if rng.random() < pr["plate"] else None,

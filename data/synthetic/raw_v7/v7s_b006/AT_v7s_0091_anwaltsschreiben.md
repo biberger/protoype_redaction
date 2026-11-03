@@ -25,6 +25,11 @@ Ihr Schreiben vom [[date|2. September 2026]]
 
 Betreff: Werkvertrag Dachgeschoß, Wohnhausanlage [[location|Lilienfeld]]; Mängelrüge und Aufforderung zur Verbesserung
 
+Betroffener Planer:
+[[person|Dipl.-Ing. Darius Wutzl]],
+geb [[date_of_birth|13. April 2002]],
+[[address|Pfarrgasse 9/4, 3180 Lilienfeld]]
+
 Sehr geehrter Herr [[person|Weinzierl]],
 
 wir zeigen an, dass uns [[person|Ivo Kaan]] in der oben genannten Angelegenheit vertritt. Mit Ihrem Schreiben vom [[date|2. September 2026]] haben Sie die Ansprüche unseres Mandanten zurückgewiesen und die Verantwortung für die Feuchtigkeitsschäden im Dachgeschoß dem Planer zugeschoben. Dieser Rechtsansicht treten wir entgegen.

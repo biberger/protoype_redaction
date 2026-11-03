@@ -4,7 +4,7 @@ jurisdiction: AT
 lang: de
 ---
 [[organization|LANDESPOLIZEIKOMMANDO NIEDERÖSTERREICH]]
-POLIZEIINSPEKTION GMÜND
+[[organization|POLIZEIINSPEKTION GMÜND]]
 Dienststelle: [[organization|Polizeiinspektion Gmünd]]
 
 UNFALLBERICHT Nr. 2026/4471/VU – GZ: [[case_number|PI-GM-8812/26]]
@@ -21,7 +21,7 @@ Am oben genannten Datum wurden die Polizeibeamten um 06:52 Uhr zu einem Verkehrs
 
 Der Unfallhergang ist nach den Angaben der Beteiligten wie folgt: [[person|Häusler]] fuhr in Richtung Süden, als ein aus einer Seitenstraße einbiegender Pkw den Vorrang nicht beachtete. Der Lenker des zweiten Fahrzeuges, [[person|Mag. Dr. Simona Surová]], *[[date_of_birth|24.05.1957]], StA. [[country|Deutschland]], gab an, das Stoppschild übersehen zu haben.
 
-Das Fahrzeug der [[person|Surová]] mit dem deutschen Kennzeichen [[license_plate|UL GP 604E]] war zum Unfallzeitpunkt mit [[person|Dr. Silvester Riehl]], geb [[date_of_birth|1966-03-06]], als Beifahrer besetzt. [[person|Dr. Riehl]] wurde nach eigenen Angaben nicht verletzt; er übergab seinen Personalausweis zur Kontrolle, die Nummer lautet [[id_document_number|P1N586Z2R]] (Personalausweis Deutschland).
+Das Fahrzeug der [[person|Surová]] mit dem deutschen Kennzeichen [[license_plate|UL GP 604E]] war zum Unfallzeitpunkt mit [[person|Dr. Silvester Riehl]], geb [[date_of_birth|1966-03-06]], als Beifahrer besetzt. [[person|Dr. Riehl]] wurde nach eigenen Angaben nicht verletzt; er übergab seinen Personalausweis zur Kontrolle, die Nummer lautet [[id_document_number|P1N586Z2R]] (Personalausweis [[country|Deutschland]]).
 
 Der Lenker des ersten Fahrzeuges, [[person|Häusler]], legte seinen Reisepass Nr. [[id_document_number|S4037249]] vor. Sein Pkw mit dem Kennzeichen [[license_plate|TU-1989 V]] wurde durch den Anprall im Heck beschädigt.
 

@@ -16,7 +16,7 @@ Schadenabteilung Kraftfahrt
 [[address|Lassallestraße 9, 1020 Wien]]
 
 Unser Zeichen: [[other_identifier|F/Schönberg/2231]]
-Wien, am [[date|14. Oktober 2026]]
+[[location|Wien]], am [[date|14. Oktober 2026]]
 
 Betrifft: Schadenfall vom [[date|2. September 2026]], Schaden-Nr. [[other_identifier|46/263105/21]]
 Unsere Mandantin: [[person|Irmine Schönberg]]

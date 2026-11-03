@@ -110,7 +110,7 @@ Betreff: AW: AW: AW: Kaufpreisrest Lagerhalle [[location|St. Andrä]]
 
 Lieber Herr [[lawyer|Stelzel]],
 
-die Überweisung von EUR 31.000,00 ist heute um 16:20 Uhr vom Konto der [[organization|Raus KG]] abgegangen. Den Zahlungsbeleg habe ich dem Sekretariat übermittelt. Die Kontoauszüge für September liegen nun bei, ebenso die Abrechnung der Gesellschafterdarlehen.
+die Überweisung von EUR 31.000,00 ist heute um 16:20 Uhr vom Konto der [[organization|Raus KG]] abgegangen. Die [[organization|RKG]] hat den Betrag damit vollständig bedient, soweit er nicht die Verzugszinsen betrifft. Den Zahlungsbeleg habe ich dem Sekretariat übermittelt. Die Kontoauszüge für September liegen nun bei, ebenso die Abrechnung der Gesellschafterdarlehen.
 
 Ich bitte Sie, Frau [[lawyer|Fritsch]] mitzuteilen, dass der Restbetrag von EUR 7.500,00 erst nach der Prüfung der Verzugszinsen bezahlt wird. Die Zinsberechnung der Gegenseite können wir nicht nachvollziehen; wir gehen von einem Zinssatz von 4 % über dem Basiszinssatz aus.
 
