@@ -68,7 +68,7 @@ Liebe Frau [[person|Schnabl]],
 
 bitte fordern Sie von der [[organization|LE]] bis [[date|3. Oktober 2025]] eine Stellungnahme zur Mietwagendauer an. Das Sachverständigengutachten beauftragen wir selbst; wir schlagen Herrn [[person|Gerhard Amesbauer]] vor, der bereits für die Kanzlei tätig war.
 
-Die Zahlung der Reparaturkosten an [[person|Puchinger]] sollte nicht warten, bis die Höhe der Mietwagenkosten geklärt ist. Eine Teilzahlung in Höhe der unstrittigen Reparaturkosten ist nach der Gegenseite möglich. Ich bitte um Rückmeldung bis Freitag.
+Die Zahlung der Reparaturkosten an [[person|Puchinger]] sollte nicht warten, bis die Höhe der Mietwagenkosten geklärt ist. Eine Teilzahlung in Höhe der unstrittigen Reparaturkosten ist nach der Gegenseite möglich. Ich bitte um Rückmeldung bis Freitag. Die Kosten der Begutachtung werden vorläufig von der Kanzlei getragen und später mit der [[organization|LE]] abgerechnet.
 
 Mit freundlichen Grüßen
 [[person|Zweigelt]]

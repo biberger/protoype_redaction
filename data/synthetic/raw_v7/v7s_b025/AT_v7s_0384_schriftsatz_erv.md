@@ -34,7 +34,7 @@ Die Beklagte erstattet innerhalb offener Frist folgende Klagebeantwortung und st
 
 I. Zum Vorbringen des Klägers
 
-1. Die Beklagte bestreitet das Klagevorbringen in den wesentlichen Punkten. Die Behauptung des Klägers, er habe den Mietvertrag am [[date|01.03.2024]] mit der [[organization|LIG]] wirksam gekündigt, ist unrichtig.
+1. Die Beklagte bestreitet das Klagevorbringen in den wesentlichen Punkten. Die Behauptung des Klägers, er habe den Mietvertrag am [[date|01.03.2024]] mit der [[organization|Löwit Immobilien GmbH]] wirksam gekündigt, ist unrichtig.
 
 2. Die Kündigung ist erst am [[date|15.05.2024]] bei der Hausverwaltung eingelangt. Die [[organization|LIG]] hat den Kläger daraufhin mit Schreiben vom [[date|22.05.2024]] auf die Kündigungsfrist hingewiesen.
 

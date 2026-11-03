@@ -43,7 +43,9 @@ Zur Vorgeschichte ist festzuhalten, dass die Mandantin im Jahr 2023 einer Mietzi
 
 Für die Mandantin ist das Geschäftslokal wirtschaftlich von erheblicher Bedeutung, da sie dort seit neun Jahren einen Handel mit Heimtextilien betreibt. Eine Räumung würde zu einem Verlust von Kundenbeziehungen und Arbeitsplätzen führen.
 
-Die Mandantin wohnt in [[address|6321 Angath]]. Wir ersuchen um Stellungnahme bis zum [[date|17. Juni 2026]].
+Die Mandantin wohnt in [[address|6321 Angath]]. Wir ersuchen um Stellungnahme bis zum [[date|17. Juni 2026]]. Sollte bis dahin keine Stellungnahme eingehen, werden wir ohne weitere Ankündigung die notwendigen Schritte einleiten. Die Kosten der anwaltlichen Vertretung werden der [[organization|KRK]] als Verursacherin des Verfahrens in Rechnung gestellt.
+
+Wir weisen darauf hin, dass die Mandantin bereit ist, den Mietzins für den Monat Juni 2026 unter Vorbehalt auf das Konto der [[organization|KRK]] zu überweisen, sofern die Räumungsforderung zurückgenommen wird.
 
 Mit freundlichen Grüßen
 

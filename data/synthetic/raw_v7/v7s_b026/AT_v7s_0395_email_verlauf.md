@@ -39,7 +39,7 @@ Betreff: AW: Mängelliste, Dachsanierung
 
 Liebe Frau [[person|Torggler]],
 
-vielen Dank für die Übersicht. Die Abnahmeprotokolle sende ich Ihnen bis Montag. Die Gaube war nach meinem Eindruck bei der Abnahme vollständig abgedichtet; ich bitte um Fotos der beanstandeten Stelle.
+vielen Dank für die Übersicht. Die Abnahmeprotokolle sende ich Ihnen bis Montag. Die Gaube war nach meinem Eindruck bei der Abnahme vollständig abgedichtet; ich bitte um Fotos der beanstandeten Stelle. Ich bitte zudem darum, die Fristen schriftlich zu bestätigen.
 
 Mit freundlichen Grüßen
 [[person|Martin Plankensteiner]]
@@ -53,7 +53,7 @@ Betreff: AW: Rechnung [[organization|Friedel Bau GmbH]]
 
 Lieber Herr [[person|Pálffy]],
 
-danke für die rasche Antwort. Ich bestätige, dass die Abschlagszahlung vom [[date|3. März 2026]] bei der [[organization|Friedel Bau]] angekommen ist. Die Rechnung über die Dachsanierung in [[location|St. Anton am Arlberg]] möchte ich aber erst prüfen, bevor ich sie freigebe. Die Position „Dachstuhl Verstärkung“ scheint mir im Angebot nicht enthalten zu sein.
+danke für die rasche Antwort. Ich bestätige, dass die Abschlagszahlung vom [[date|3. März 2026]] bei der [[organization|Friedel Bau]] angekommen ist. Die Rechnung über die Dachsanierung in [[location|St. Anton am Arlberg]] möchte ich aber erst prüfen, bevor ich sie freigebe. Außerdem bitte ich um eine Aufstellung der Arbeitsstunden, weil die Position Gerüstbau ungewöhnlich hoch angesetzt ist. Die Position „Dachstuhl Verstärkung“ scheint mir im Angebot nicht enthalten zu sein.
 
 > Von: [[person|Kayetan Pálffy]] <[[email|k.palffy@schwarzkopf.at]]>
 > Gesendet: Montag, [[date|9. März 2026]] 09:14
@@ -97,7 +97,7 @@ Betreff: Abnahme Dachstuhl
 
 Sehr geehrter Herr [[person|Plankensteiner]],
 
-am [[date|6. März 2026]] nehme ich die Dachsanierung ab, sofern die Schneelast bis dahin zurückgegangen ist. Für die [[organization|Friedel Bau]] ist die Zahlung der zweiten Rate Voraussetzung für die Auslieferung der Gewährleistungsunterlagen. Die Gewährleistungsfrist beträgt nach meinem Verständnis drei Jahre ab der Übergabe.
+am [[date|6. März 2026]] nehme ich die Dachsanierung ab, sofern die Schneelast bis dahin zurückgegangen ist. Für die [[organization|Friedel Bau]] ist die Zahlung der zweiten Rate Voraussetzung für die Auslieferung der Gewährleistungsunterlagen. Die Gewährleistungsfrist beträgt nach meinem Verständnis drei Jahre ab der Übergabe. Die Abnahme umfasst die Dachflächen, die Gaube und den Kamin; über Vorbehalte werden Sie im Protokoll informiert.
 
 Mit freundlichen Grüßen
 [[person|Ruedi Isser]]

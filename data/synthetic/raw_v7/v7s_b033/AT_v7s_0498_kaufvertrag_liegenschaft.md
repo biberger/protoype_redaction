@@ -70,7 +70,7 @@ IV. KAUFPREIS UND ZAHLUNG
    b) Liegenschaft 2: EUR 84.500,00,
    c) Liegenschaft 3: EUR 133.500,00.
 
-2. Der Kaufpreis ist binnen 14 Tagen nach Eintritt der grundbücherlichen Rangordnung auf das Treuhandkonto der Kanzlei zu überweisen, IBAN [[bank_account|AT77 8058 2148 1495 6891]], Verwendungszweck „TH-Nr. 2018/112“. Die Zahlung gilt mit Gutschrift als erfüllt.
+2. Der Kaufpreis ist binnen 14 Tagen nach Eintritt der grundbücherlichen Rangordnung auf das Treuhandkonto der Kanzlei zu überweisen, IBAN [[bank_account|AT77 8058 2148 1495 6891]], Verwendungszweck „TH-Nr. [[other_identifier|2018/112]]“. Die Zahlung gilt mit Gutschrift als erfüllt. Zahlungen, die vor der Eintragung des Rangvermerks eingehen, werden bis zur Grundbuchseintragung auf dem Treuhandkonto verwahrt und nicht an die Verkäufer ausgefolgt.
 
 3. Die Vertragsparteien vereinbaren, dass der Kaufpreis nicht vor dem [[date|30. Juli 2026]] fällig wird, sofern bis dahin die Lastenfreistellung nicht vorliegt.
 
@@ -98,9 +98,23 @@ IX. SCHLUSSBESTIMMUNGEN
 2. Die Vertragsparteien bestätigen, dass sie vor der Unterfertigung eine Abschrift erhalten haben.
 3. Sollte eine Bestimmung unwirksam sein, bleibt der Vertrag im Übrigen wirksam.
 
-X. UNTERFERTIGUNG
+X. LASTENFREISTELLUNG UND PFANDRECHTE
 
-Zwischen den Parteien wurde am [[date|12. Juni 2026]] Einvernehmen erzielt. Die Vertragsparteien bestätigen die Richtigkeit der vorstehenden Angaben durch Unterschrift.
+1. Die Verkäufer verpflichten sich, bestehende Pfandrechte auf den Liegenschaften bis zur Fälligkeit des Kaufpreises löschen zu lassen. Die Kanzlei holt hierzu die Löschungserklärungen der Pfandgläubiger ein.
+2. Die Liegenschaft 1 ist derzeit mit einem Pfandrecht zugunsten der [[organization|Raiffeisenbank Zwettl registrierte Genossenschaft mit beschränkter Haftung]] belastet. Die Löschung wird aus dem Kaufpreis bezahlt, sofern der Betrag nicht bereits auf dem Treuhandkonto erliegt.
+3. Ein Vorkaufsrecht zugunsten Dritter besteht nach dem Grundbuchstand nicht. Die Verkäufer erklären, dass keine Mietrechte Dritter eingetragen sind.
+
+XI. VOLLMACHT UND BELEHRUNG
+
+1. Die Käufer erteilen der Kanzlei Vollmacht zur Vertretung in allen Angelegenheiten der grundbücherlichen Durchführung, insbesondere zur Entgegennahme von Bescheiden des Grundbuchsgerichts.
+2. Die Kanzlei hat die Vertragsparteien darauf hingewiesen, dass der Vertrag erst mit der Einverleibung des Eigentumsrechtes im Grundbuch wirksam wird und dass die Grunderwerbsteuer unabhängig von der Eintragung fällig ist.
+3. Die Kanzlei hat ferner darauf hingewiesen, dass sie nur die Interessen der Parteien gemeinsam vertritt und keine Beratung über steuerliche Folgen einer Eigennutzung übernimmt. Die Parteien wurden ersucht, sich hierzu einen Steuerberater zu wählen.
+
+XII. ANLAGEN
+
+Anlage ./A: Grundbuchsauszug der [[land_register_id|EZ 2666]] vom [[date|8. Mai 2026]]
+Anlage ./B: Grundbuchsauszug der [[land_register_id|EZ 2845]] vom [[date|8. Mai 2026]]
+Anlage ./C: Lageplan und Energieausweis
 
 Schweiggers, am [[date|12. Juni 2026]]
 

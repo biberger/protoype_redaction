@@ -19,6 +19,8 @@ Eingebracht über das ERV am [[date|28. Oktober 2026]]
 
 KLAGE
 
+[[person|FELMAYER]] ./. [[organization|WITTEK BAU GMBH]]
+
 der Klägerin [[person|Niki Felmayer]], geboren am [[date_of_birth|1994-08-09]], [[address|Obere Hauptstraße 22, 1210 Wien]], vertreten durch die Rechtsanwälte OG [[organization|Wolfmayr, Friedmann, Pock, Felder]], [[address|Seumegasse 36, 2464 Göttlesbrunn-Arbesthal]],
 
 gegen
@@ -34,25 +36,33 @@ Die Klägerin erhebt gegen die beklagte Partei Klage und stellt folgende
 BEGEHREN
 
 1. Die beklagte Partei ist schuldig, der Klägerin EUR 14.300,00 samt 4% Zinsen seit [[date|1. Juni 2026]] zu bezahlen.
-2. Die beklagte Partei ist zur ungeteilten Hand mit dem Drittbeklagten zum Ersatz der Verfahrenskosten verpflichtet.
+2. Die beklagte Partei ist zum Ersatz der Verfahrenskosten verpflichtet.
 
 BEGRÜNDUNG
 
 I. Sachverhalt
 
-1. Die Klägerin hat am [[date|14. März 2026]] mit der [[organization|WB]] einen Werkvertrag über die Sanierung der Badezimmer in ihrer Wohnung abgeschlossen. Die Vertragsnummer lautet [[other_identifier|LV-2026-3320]].
+1. Die Klägerin hat am [[date|14. März 2026]] mit der [[organization|WB]] einen Werkvertrag über die Sanierung der Badezimmer in ihrer Wohnung abgeschlossen. Die Vertragsnummer lautet [[other_identifier|LV-2026-3320]]. Die Wohnung liegt in [[location|St. Andrä]]; sie wurde bis zum Verkauf im Jahr 2025 von [[person|Engeline von Bredow]], GEB: [[date_of_birth|10.03.1947]], StA. [[country|Deutschland]], bewohnt und ist unter der Polizzen-Nr. [[other_identifier|94-8920429]] gebäudeversichert.
 
-2. Die [[organization|Wittek Bau GmbH]] hat mit den Arbeiten am [[date|2. Mai 2026]] begonnen. Die Arbeiten wurden am [[date|19. Juni 2026]] vorläufig abgenommen; dabei zeigte sich eine Undichtigkeit der Abdichtung im Duschbereich.
+2. Die [[organization|Wittek Bau GmbH]] hat mit den Arbeiten am [[date|2. Mai 2026]] begonnen. Die Arbeiten wurden am [[date|19. Juni 2026]] vorläufig abgenommen; dabei zeigte sich eine Undichtigkeit der Abdichtung im Duschbereich. Die Zeugin [[person|Julia Serafin]], Geburtsdatum: [[date_of_birth|28.01.1989]], hat die Mängel an diesem Tag fotografisch dokumentiert.
 
 3. Der Mitarbeiter [[person|Floriano Pierangeli]], geb [[date_of_birth|24.10.1984]], StA. [[country|Polen]], war Bauleiter auf der Baustelle und hat die Mängelrüge der Klägerin vom [[date|25. Juni 2026]] entgegengenommen.
 
-4. Die [[organization|WB]] hat die Mängel trotz mehrfacher Aufforderung nicht beseitigt. Die Klägerin musste daher einen Fachbetrieb beauftragen, dessen Kosten sich auf EUR 14.300,00 belaufen.
+4. Die [[organization|WB]] hat die Mängel trotz mehrfacher Aufforderung nicht beseitigt. Die Klägerin musste daher einen Fachbetrieb beauftragen, dessen Kosten sich auf EUR 14.300,00 belaufen. Das Büro des Bauleiters ist unter Tel. [[phone_number|+43-316-6444373-5]] erreichbar; die Klägerin hat dort mehrfach ohne Ergebnis angerufen.
+
+Die Schadenaufstellung gliedert sich wie folgt:
+
+Pos. 1 Nachbesserung Fliesenarbeiten EUR 6.120,00
+Pos. 2 Abdichtung Duschbereich EUR 4.880,00
+Pos. 3 Malerarbeiten EUR 1.300,00
+Pos. 4 Nutzungsentgang EUR 2.000,00
+Summe EUR 14.300,00
 
 II. Rechtliche Beurteilung
 
 5. Die Haftung der beklagten Partei ergibt sich aus [[legal_norm|§ 1167 ABGB]] iVm [[legal_norm|§ 932 ABGB]]. Die Mängel waren bei der Übergabe vorhanden und sind der beklagten Partei zuzurechnen.
 
-6. Der Anspruch ist fällig. Die Zuständigkeit des angerufenen Gerichts folgt aus [[legal_norm|§ 88 JN]], weil der Erfüllungsort in Wien liegt.
+6. Der Anspruch ist fällig. Die Zuständigkeit des [[court|LG für ZRS Wien]] folgt aus [[legal_norm|§ 88 JN]], weil der Erfüllungsort in [[location|Wien]] liegt. Die Gewährleistungsfrist ist gewahrt, weil die Mängelrüge innerhalb von zwei Monaten nach Entdeckung erfolgte.
 
 7. Zum Streitwert verweist die Klägerin auf [[legal_norm|§ 56 JN]].
 

@@ -37,7 +37,7 @@ Der Kläger erhebt Klage und stellt folgende Anträge:
 
 I. Sachverhalt
 
-1. Der Kläger ist Eigentümer der Liegenschaft [[land_register_id|KG 17988 Dürnstein in der Steiermark]]/[[land_register_id|EZ74]]. Die Liegenschaft ist nur über einen schmalen Weg erreichbar, der über das Grundstück der Beklagten führt.
+1. Der Kläger [[person|Maurus DI Polz]] ist Eigentümer der Liegenschaft [[land_register_id|KG 17988 Dürnstein in der Steiermark]]/[[land_register_id|EZ74]]. Die Liegenschaft ist nur über einen schmalen Weg erreichbar, der über das Grundstück der Beklagten führt.
 
 2. Das Recht zur Nutzung dieses Weges wurde im Jahr 1978 bei der Teilung der Liegenschaften vereinbart. Die Einverleibung ist im Grundbuch allerdings nicht erfolgt. Der Kläger hat dies erst im Zuge der Vermessung im Jahr 2025 festgestellt. Die Vereinbarung wurde seinerzeit vom damaligen Eigentümer des Grundstücks der Beklagten, [[person|Andrew Tropper]], StA: [[country|Ukraine]], unterfertigt. Dieser hat die Urkunde bei der Übergabe des Grundstücks an die Beklagte nicht übermittelt.
 
