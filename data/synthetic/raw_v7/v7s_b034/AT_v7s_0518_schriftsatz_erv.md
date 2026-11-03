@@ -31,7 +31,7 @@ vertreten durch [[lawyer|Mag. Dr. Rembert Lochner]], Rechtsanwalt in [[location|
 Beklagte: [[organization|Metternich Immobilien GmbH]], [[company_register_number|FN 456856y]], UID-Nr. [[tax_id|ATU27212780]], Sitz in [[location|Wien]]
 
 Streitwert: EUR 14.200,00
-Zuständigkeit: sachlich gemäß [[legal_norm|§ 49 Abs 2 Z 5 JN]]
+Zuständigkeit: sachlich gemäß [[legal_norm|§ 49 Abs 2 Z 5 JN]]; das [[court|BG Hernals]] ist als Gericht des Wohnsitzes der Beklagten zuständig
 
 KLÄGERIN: [[person|GEORGIA SEIRINGER]]
 BEKLAGTE: [[organization|METTERNICH IMMOBILIEN GMBH]]

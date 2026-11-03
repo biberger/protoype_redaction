@@ -70,7 +70,7 @@ Ein Vergleich über EUR 600,00 ist möglich, wenn die Zurückbehaltung bis Ende 
 
 Mit freundlichen Grüßen
 [[person|Cornelius Zirner]]
-Geschäftsführer, [[organization|Graff Immobilien GmbH]], [[company_register_number|FN 231364t]]
+Geschäftsführer, [[organization|Graff Immobilien GmbH]], [[company_register_number|FN 231364t]], UID-Nr. [[tax_id|ATU74339977]]
 
 Am [[date|28.04.2026]] um 08:20 schrieb [[person|Petrin]]:
 

@@ -53,13 +53,29 @@ Die Zustimmung der [[country|Republik Österreich]] ist für die Abtrennung erfo
 
 Die Einverleibung wird daher beantragt. Die Verkäuferin hat keine weiteren Rechte an der Liegenschaft angemeldet, die dem Antrag entgegenstehen.
 
-III. Anträge
+Der Streitwert bemisst sich nach dem vereinbarten Kaufpreis, der auf den abzutrennenden Teil und auf die verbleibende Fläche aufgeteilt wurde. Die Gerichtsgebühr für den Antrag wurde entrichtet; der Zahlungsnachweis wird mit dem ERV-Schriftsatz übermittelt. Die Antragsgegnerin hat die Kosten der Eintragung zu tragen, soweit das Gericht dies nach dem Grundsatz des Erfolgs entscheidet.
+
+Die Abtrennung der Teilfläche entspricht dem Teilungsplan des Vermessungsamts, der dem Gericht bereits vorgelegt wurde. Die Teilfläche ist im Plan als eigenes Grundstück gekennzeichnet und wurde mit einer Fläche von rund 212 Quadratmetern vermessen.
+
+III. Ergänzendes zur Lastenlage
+
+1. Im Grundbuch sind für die Liegenschaft ein Pfandrecht zugunsten einer Bank sowie ein Wegerecht zugunsten des angrenzenden Grundstücks eingetragen. Das Pfandrecht wird mit dem Kaufpreis abgelöst; die Löschungserklärung der Bank liegt bei der Kanzlei des Antragstellers bereit und wird nach Eintragung des Eigentumsrechts vorgelegt.
+
+2. Das Wegerecht bleibt durch die Abtrennung unberührt. Die Zufahrt zur Liegenschaft wird über die verbleibende Parzelle gewährleistet, sodass keine Notwegrechte nach [[legal_norm|§ 480 ABGB]] geltend gemacht werden müssen.
+
+3. Die Verkäuferin hat mit Schreiben vom [[date|12.12.2025]] bestätigt, dass keine weiteren Dienstbarkeiten bestehen. Diese Bestätigung wurde beim Vertragsabschluss übergeben und ist als Anlage zu den Grundbuchsakten anzuschließen.
+
+4. Die Gemeindeabgaben für die Liegenschaft sind bis zum Ende des Jahres 2025 bezahlt. Ein Rückstand besteht nicht. Die Abgabenbescheinigung wird auf Verlangen vorgelegt.
+
+5. Die Mieterin [[person|Czerny]] hat ihre Wohnung bis zum Ende der Mietzeit geräumt; die Wohnung steht für eine Übergabe am [[date|31.05.2026]] zur Verfügung. Die Übergabe ist im Übergabeprotokoll zu dokumentieren, das dem Antrag nicht angeschlossen ist, weil es für die Einverleibung nicht erforderlich ist.
+
+IV. Anträge
 
 1. Der Antragsteller beantragt die Einverleibung des Eigentumsrechts zu seinen Gunsten.
 2. Die Lastenfreistellung ist zu bewilligen, soweit das Pfandrecht der Bank aus dem Jahr 2019 betroffen ist.
 3. Die Kosten des Verfahrens sind dem Antragsgegner aufzuerlegen.
 
-IV. Beilagen
+V. Beilagen
 
 ./A Kaufvertrag vom [[date|17.11.2025]]
 ./B Zustimmungserklärung der [[country|Republik Österreich]] vom [[date|23.01.2026]]

@@ -36,6 +36,20 @@ Tel. [[phone_number|01/1891626 Durchwahl 66]]
 
 ---
 
+Von: [[person|Nickolas Vuksanović]]
+Gesendet: Mittwoch, 7. Oktober 2026 07:31
+An: Kanzlei [[organization|Lenz & Gritsch]]
+Betreff: AW: [[organization|Oswald Handels GmbH]] ./. [[person|Arnous]] – Zahlungsplan
+
+Sehr geehrte Damen und Herren,
+
+vielen Dank für Ihre Mitteilung. Die [[organization|OH]] bestätigt die Zahlung der ersten Rate bis [[date|10.10.2026]]. Bitte senden Sie uns die Zahlungsaufforderung in Kopie an die Buchhaltung, damit die Überweisung dort freigegeben werden kann.
+
+Mit freundlichen Grüßen
+Nickolas Vuksanović
+
+---
+
 Von: [[person|Beppo Gapp]]
 Gesendet: Dienstag, 6. Oktober 2026 08:55
 An: Kanzlei [[organization|Lenz & Gritsch]]

@@ -30,7 +30,7 @@ Sehr geehrte Frau [[person|Arnold]],
 
 in obiger Angelegenheit zeigen wir die anwaltliche Vertretung von Herrn [[person|Davy Ubl]], *[[date_of_birth|1939-11-05]], wohnhaft in [[address|7361 Lutzmannsburg]], an. Wir bestätigen den Erhalt Ihres Schreibens vom [[date|02.10.2026]] und nehmen zu Ihrer Ablehnung wie folgt Stellung.
 
-Unser Mandant wurde am [[date|25.08.2026]] als Beifahrer im Fahrzeug des Lenkers [[person|Mag. Rohm Plazi]], geb [[date_of_birth|03.06.1952]], verletzt. Der Lenker war im Auftrag der Versicherungsnehmerin [[organization|Kohlmaier e.U.]] unterwegs. Der Unfall wurde durch das Auffahren des Fahrzeuges auf einen stehenden Lkw verursacht.
+Unser Mandant wurde am [[date|25.08.2026]] als Beifahrer im Fahrzeug des Lenkers [[person|Mag. Plazi Rohm]], geb [[date_of_birth|03.06.1952]], verletzt. Der Lenker war im Auftrag der Versicherungsnehmerin [[organization|Kohlmaier e.U.]] unterwegs. Der Unfall wurde durch das Auffahren des Fahrzeuges auf einen stehenden Lkw verursacht.
 
 Ihr Schreiben, in dem Sie eine Haftung ablehnen, stützt sich auf die Angaben des Lenkers [[person|Rohm]]. Diese Angaben sind widersprüchlich: Der Lenker gab bei der Polizei an, sein Fahrzeug sei wegen eines Hindernisses verzögert worden, während er gegenüber Ihnen ein plötzliches Ausweichen behauptete. Die Zeugin hat den Unfall anders geschildert.
 

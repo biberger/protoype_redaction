@@ -26,7 +26,7 @@ BETREFF: HAFTPFLICHTSCHADEN VOM [[date|3. MÄRZ 2026]] – MANDANT [[person|KOLO
 
 Sehr geehrter Herr [[person|Lenz]]!
 
-Wir vertreten Herrn [[person|Koloman Broda]] in der Angelegenheit des oben genannten Schadensereignisses auf der Baustelle in [[location|St. Veit an der Glan]]. Gemäß Ihrer Schadensmeldung ist Ihr Versicherungsnehmer, die [[organization|Zodl Bau GmbH]] ([[company_register_number|FN 185404d]], UID [[tax_id|ATU40900441]]) ([[organization|ZB]]), mit der Haftpflichtpolizze gedeckt. Die Polizze führt die Nummer Polizzen-Nr. [[other_identifier|20-9731188]].
+Wir vertreten Herrn [[person|Koloman Broda]] in der Angelegenheit des oben genannten Schadensereignisses auf der Baustelle in [[location|St. Veit an der Glan]]. Das Baugrundstück ist im Grundbuch als [[land_register_id|E.Z. 2754]], [[land_register_id|KG: 08968 Hernstein]] eingetragen. Gemäß Ihrer Schadensmeldung ist Ihr Versicherungsnehmer, die [[organization|Zodl Bau GmbH]] ([[company_register_number|FN 185404d]], UID [[tax_id|ATU40900441]]) ([[organization|ZB]]), mit der Haftpflichtpolizze gedeckt. Die Polizze führt die Nummer Polizzen-Nr. [[other_identifier|20-9731188]].
 
 Zum Sachverhalt: Am [[date|3. März 2026]] wurde unser Mandant auf der Baustelle durch einen herabfallenden Schalungsträger am linken Unterarm verletzt. Der Polier [[person|Marcus Gaál]], StA: [[country|Rumänien]], hatte den Träger am Gerüst unzureichend gesichert. Dies ergibt sich aus dem Bericht der Arbeitsinspektion und aus den Angaben der Zeugin:
 
@@ -53,7 +53,7 @@ Rechtlich haften die [[organization|ZB]] und ihr Dienstnehmer nach [[legal_norm|
 
 Wir fordern Sie daher auf, bis zum [[date|18. September 2026]] den Betrag von EUR 10.054,35 an unser Treuhandkonto zu überweisen. Bitte beachten Sie, dass unser Mandant die Ansprüche gegenüber der [[organization|ZB]] unabhängig von Ihrer Deckung geltend macht.
 
-Sollten Sie die Deckung ablehnen, ersuchen wir um eine schriftliche Begründung mit Angabe der ausgeschlossenen Klausel. Für eine Erledigung im Vergleichsweg stehen wir gerne zur Verfügung.
+Sollten Sie die Deckung ablehnen, ersuchen wir um eine schriftliche Begründung mit Angabe der ausgeschlossenen Klausel. Für eine Erledigung im Vergleichsweg stehen wir gerne zur Verfügung. Rückfragen richten Sie bitte an unsere Kanzlei unter Tel. [[phone_number|+43 5572 710 76 47-0]].
 
 Zur Vermeidung eines Verfahrens sind wir bereit, einen Vergleich über die Hauptforderung abzuschließen, wenn die Versicherung bis zum [[date|18. September 2026]] ein Angebot vorlegt. Ein Vergleichsangebot unter EUR 7.500,00 werden wir ohne Rücksprache mit unserem Mandanten nicht annehmen. Die Kosten der außergerichtlichen Vertretung in Höhe von EUR 1.128,60 sind dabei gesondert zu ersetzen.
 

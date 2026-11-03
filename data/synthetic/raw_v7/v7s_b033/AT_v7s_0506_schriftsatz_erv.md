@@ -28,7 +28,7 @@ I. Zum Sachverhalt
 
 1. Die Beklagte bewohnt seit dem [[date|1. Oktober 2019]] die Wohnung im Haus der Klägerin. Die Klägerin behauptet einen Mietzinsrückstand für die Monate Jänner bis März 2026. Dieser Rückstand besteht nicht.
 
-2. Die Mietzinse wurden von der Beklagten regelmäßig auf das Konto der [[organization|Knobloch]] bezahlt. Die Zahlungen für die Monate November 2025 und Dezember 2025 sind durch die Kontoauszüge belegt. Die Beklagte hat die Überweisungen mit dem Verwendungszweck der Mietnummer getätigt.
+2. Die Mietzinse wurden von der Beklagten regelmäßig auf das Konto der [[organization|Knobloch]] bezahlt, IBAN [[bank_account|AT25 0379 2880 3026 6560]]. Die Zahlungen für die Monate November 2025 und Dezember 2025 sind durch die Kontoauszüge belegt. Die Beklagte hat die Überweisungen mit dem Verwendungszweck der Mietnummer getätigt.
 
 3. Die Klägerin hat im Februar 2026 einen Wasserschaden im Badezimmer verursacht, der bis heute nicht behoben ist. Die Schadennummer [[other_identifier|13/911803/21]] wurde bei der Gebäudeversicherung der Klägerin angelegt. Die Beklagte hat den Schaden mit Schreiben vom [[date|4. Februar 2026]] gemeldet.
 

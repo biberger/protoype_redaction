@@ -21,6 +21,8 @@ Lenker 1: [[person|Maurice Chorherr]], geboren am [[date_of_birth|1961-01-27]], 
 
 Lenker 2: [[person|Dmitriy Chrystytsch]], geb [[date_of_birth|25. Dezember 1981]]. Herr [[person|Chrystytsch]] gab an, dass sein Fahrzeug vor der Ampel angehalten habe, als der Zusammenstoß erfolgte.
 
+Mitfahrer im Fahrzeug 1: [[person|Oliver Meindl]], Geburtsdatum: [[date_of_birth|24. Juni 1956]], StA: [[country|Rumänien]]. Herr [[person|Meindl]] saß auf dem Rücksitz und klagte über Nackenschmerzen, die er an der Unfallstelle angab.
+
 Mitfahrer im Fahrzeug 2: [[person|Konstantinos Skarlatos]], geb [[date_of_birth|17.11.1998]]. Herr [[person|Skarlatos]] blieb am Unfallort und gab an, den Hergang nicht gesehen zu haben.
 
 Zeuge: [[person|Yvo Fleischner]], geb. [[date_of_birth|1936-12-15]], wohnhaft im Gemeindegebiet von [[location|Mattersburg]]. Herr [[person|Fleischner]] stand an der Haltestelle und beschrieb den Unfall als Folge einer unaufmerksamen Fahrweise.
@@ -42,6 +44,7 @@ Die Beamten erhoben zudem die Personalien der Mitfahrer und vermerkten, dass kei
 LENKER 1 | [[person|CHORHERR MAURICE]] | GEB. [[date_of_birth|27.01.1961]] | [[country|SYRIEN]] | [[license_plate|MU-3FR]]
 LENKER 2 | [[person|CHRYSTYTSCH DMITRIY]] | GEB. [[date_of_birth|25.12.1981]] | – | –
 MITFAHRER | [[person|SKARLATOS KONSTANTINOS]] | GEB. [[date_of_birth|17.11.1998]] | – | –
+MITFAHRER | [[person|MEINDL OLIVER]] | GEB. [[date_of_birth|24.06.1956]] | [[country|RUMÄNIEN]] | –
 ZEUGE | [[person|FLEISCHNER YVO]] | GEB. [[date_of_birth|15.12.1936]] | – | –
 
 Zur Person des Lenkers [[person|Chrystytsch]] ist ergänzend festzuhalten, dass dieser in [[location|Mattersburg]] wohnhaft ist und seit dem Jahr 2024 einen Gewerbeschein als Fliesenleger besitzt. Er gab an, dass das Fahrzeug, in dem sein Bekannter [[person|Skarlatos]] als Beifahrer saß, einem Dienstgeber gehöre. Die Zulassung wurde nicht vorgelegt, da sie sich nach seinen Angaben im Fahrzeug eines Kollegen befand. Die Beamtin [[person|Kollmann]] forderte den Lenker auf, die Zulassung binnen einer Woche bei der Dienststelle vorzulegen.
