@@ -20,6 +20,7 @@ import json
 import pathlib
 import random
 
+from legalner.augment import NameSwapper, layout_noise, rewindow
 from legalner.relabel import relabel
 from legalner.schema import DERIVED, LABELS, QUERY_ROLES, ROLE_LABELS, SOURCES
 
@@ -286,6 +287,14 @@ def main(argv=None):
     ap.add_argument("--abbr-frac", type=float, default=0.5,
                     help="share of training records whose later organisation/court mentions are replaced by the "
                          "abbreviation their document defines")
+    ap.add_argument("--windows", action="store_true",
+                    help="re-cut synthetic and EUR-Lex training documents into windows of 50-700 words")
+    ap.add_argument("--layout-frac", type=float, default=0.0,
+                    help="share of de/fr training records with layout noise (letter-spacing, page breaks, wraps, OCR)")
+    ap.add_argument("--name-swap-copies", type=int, default=0,
+                    help="extra copies of person-bearing records with names swapped from the gazetteer decks")
+    ap.add_argument("--swap-sources", default="synthetic,synthetic_eu,synthetic_v1,eurlex,ris",
+                    help="sources whose records get name-swapped copies")
     ap.add_argument("--validate", action="store_true", help="check every split with gliner2 TrainingDataset.validate()")
     ap.add_argument("--seed", type=int, default=13)
     args = ap.parse_args(argv)
@@ -305,26 +314,45 @@ def main(argv=None):
         by_split[doc_split(rec, args.dev_frac, args.test_frac)].append(rec)
 
     stats = {}
+    if args.windows:  # production feeds ~100-word windows; synthetic/EUR-Lex documents are re-cut to 50-700 words
+        is_doc = lambda r: source_group(r["source"]) == "synthetic" or r["source"] == "eurlex"  # noqa: E731
+        docs = [r for r in by_split["train"] if is_doc(r)]
+        by_split["train"] = [r for r in by_split["train"] if not is_doc(r)] + rewindow(docs, rng)
+        stats["windows"] = {"chunks": len(docs), "windows": sum(1 for r in by_split["train"] if is_doc(r))}
     train = balance(by_split["train"], rng, args.max_per_source, _per_key(args.cap), _per_key(args.max_per_doc),
                     _per_key(args.source_copies))
     if args.mix:
         train = mix(train, rng, _per_key(args.mix.split(","), float))
     abbr = abbreviations(by_split["train"])
+    swapper, swap_sources = None, set(args.swap_sources.split(","))
+    if args.name_swap_copies:
+        from legalner.gazetteers import Gazetteer
+        swapper = NameSwapper(Gazetteer(rng=random.Random(args.seed)), rng)
+    count = collections.Counter()
     with (out / "train.jsonl").open("w", encoding="utf-8") as fh:
         n = 0
         for _ in range(args.copies):
-            for rec in train:
-                labels = query_labels(rec)
-                if too_dense(rec, labels):
-                    stats["too_dense_skipped"] = stats.get("too_dense_skipped", 0) + 1
-                    continue
-                if abbr.get(rec["doc_id"]) and rng.random() < args.abbr_frac:
-                    rec = abbreviation_augment(rec, abbr[rec["doc_id"]], rng)
-                    stats["abbr_augmented"] = stats.get("abbr_augmented", 0) + (rec.get("meta", {}).get("abbr_aug", 0) > 0)
-                if rng.random() < args.case_frac:
-                    rec = case_augment(rec, rng)
-                fh.write(json.dumps(augment(rec, labels, rng), ensure_ascii=False) + "\n")
-                n += 1
+            for base in train:
+                variants = [base]
+                if swapper and base["source"] in swap_sources and any(s["label"] == "person" for s in base["spans"]):
+                    variants += [swapper.swap(base) for _ in range(args.name_swap_copies)]
+                    count["name_swap_copies"] += args.name_swap_copies
+                for rec in variants:
+                    labels = query_labels(rec)
+                    if abbr.get(rec["doc_id"]) and rng.random() < args.abbr_frac:
+                        rec = abbreviation_augment(rec, abbr[rec["doc_id"]], rng)
+                        count["abbr_augmented"] += rec.get("meta", {}).get("abbr_aug", 0) > 0
+                    if rec.get("lang") in ("de", "fr") and rng.random() < args.layout_frac:
+                        rec = layout_noise(rec, rng)
+                        count["layout_noise"] += 1
+                    if rng.random() < args.case_frac:
+                        rec = case_augment(rec, rng)
+                    if too_dense(rec, labels):
+                        count["too_dense_skipped"] += 1
+                        continue
+                    fh.write(json.dumps(augment(rec, labels, rng), ensure_ascii=False) + "\n")
+                    n += 1
+    stats.update(count)
     stats["train"] = n
     stats["train_per_source"] = dict(collections.Counter(r["source"] for r in train for _ in range(args.copies)))
     stats["train_share"] = {g: round(n / max(1, len(train)), 3) for g, n in

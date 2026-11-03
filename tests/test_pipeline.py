@@ -574,3 +574,56 @@ def test_roles_not_queried_and_derived_labels_follow_coverage():
     assert {"date_of_birth", "country"} <= labels
     ler = query_labels({"source": "ler", "text": "", "spans": [], "meta": {}})
     assert "date_of_birth" not in ler and "country" in ler  # LER covers location but not date
+
+
+def _rec(tagged, source="synthetic", doc_id="d", rid="synthetic/d#0"):
+    from legalner.tagged import strip_tags
+    text, spans = strip_tags(tagged, "t.md")
+    return {"id": rid, "doc_id": doc_id, "source": source, "lang": "de", "jurisdiction": "AT", "text": text,
+            "spans": [{"label": lab, "start": a, "end": b, "text": text[a:b]} for lab, a, b, _ in spans], "meta": {}}
+
+
+def test_layout_transforms_keep_spans_exact():
+    from legalner import augment as A
+    rec = _rec("[[organization|GERNGROSS KÖCK]] Rechtsanwälte\nZeichen [[other_identifier|V-PPPahl/Grazer]]\n\n"
+               "Die Übertragung der vorangehenden Eintragung an [[person|Dr. Maria Huber]] erfolgte am "
+               "[[date|3. Mai 2024]] in [[location|Wien]] (Bezirk [[location|Innere Stadt]]) ohne Einwände der "
+               "Gegenseite, die ihre Stellungnahme fristgerecht beim Grundbuchsgericht eingebracht hatte.\n" * 3)
+    rng = random.Random(1)
+    for fn in A.TRANSFORMS:
+        for _ in range(20):
+            out = fn(rec, rng)
+            assert len(out["spans"]) == len(rec["spans"])
+            assert all(out["text"][s["start"]:s["end"]] == s["text"] for s in out["spans"])
+    spaced = A.rebuild(_rec("[[organization|GERN KÖCK]]"), post={i: " " for i in (0, 1, 2, 3, 5, 6, 7)})
+    assert spaced["text"] == "G E R N  K Ö C K" and spaced["spans"][0]["text"] == "G E R N  K Ö C K"
+
+
+def test_name_swap_is_consistent_and_keeps_degrees():
+    from legalner.augment import NameSwapper
+    from legalner.gazetteers import Gazetteer
+    gaz = Gazetteer(rng=random.Random(2))
+    if not gaz.last.get("AT"):
+        pytest.skip("gazetteer TSVs not available")
+    rec = _rec("Frau [[person|Dr. Maria Huber]] und [[judge|Mag. Peter Gruber]]; [[person|Hubers]] Antrag, "
+               "[[person|A*****]] und [[person|Huber]].")
+    out = NameSwapper(gaz, random.Random(2)).swap(rec)
+    by = {(s["label"], s["text"]) for s in out["spans"]}
+    texts = [s["text"] for s in out["spans"] if s["label"] == "person"]
+    assert all(out["text"][s["start"]:s["end"]] == s["text"] for s in out["spans"])
+    assert texts[0].startswith("Dr. ") and "Huber" not in texts[0] and "A*****" in texts
+    surname = texts[0].split()[-1]
+    assert f"{surname}s" in texts and surname in texts  # genitive and bare surname follow the full name
+    assert any(lab == "judge" and t.startswith("Mag. ") for lab, t in by)
+
+
+def test_rewindow_never_splits_spans():
+    from legalner.augment import rewindow
+    chunks = [_rec(("Der Beschwerdeführer [[person|Max Mustermann]] wohnt in [[address|Hauptstraße 4, 1010 Wien]]. "
+                    * 30).strip(), rid=f"synthetic/d#{i}") for i in range(3)]
+    wins = rewindow(chunks, random.Random(3))
+    assert len(wins) >= 3
+    total = sum(len(c["spans"]) for c in chunks)
+    assert sum(len(w["spans"]) for w in wins) == total
+    for w in wins:
+        assert all(w["text"][s["start"]:s["end"]] == s["text"] for s in w["spans"])
