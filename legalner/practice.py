@@ -307,7 +307,8 @@ def brief(gaz, rng, doc_type, idx, wave):
         if court_abbr:
             verbatim.append(_t("court", court_abbr))
             notes.append("Use the court's full name first and the abbreviated form for later mentions.")
-    if rng.random() < pr["land_p"]:
+    hard = rng.sample(pr["hard"], min(3, len(pr["hard"])))
+    if rng.random() < pr["land_p"] or "top" in hard:
         land_court = court_full if kind == "bg" and court_full else None
         for _ in range(rng.randint(max(1, pr["land"][0]), pr["land"][1])):
             kg_name, _ = gaz.town("AT")
@@ -326,7 +327,6 @@ def brief(gaz, rng, doc_type, idx, wave):
         notes.append("The postcode-and-place string stands alone (e.g. as a place of signature or in a short address).")
     if rng.random() < 0.4:
         verbatim.append(_t("location", rng.choice(ST_PLACES)))
-    hard = rng.sample(pr["hard"], min(3, len(pr["hard"])))
     lo, hi = pr["words"]
     return {
         "file": f"AT_{wave}_{idx:04d}_{doc_type}.md", "doc_type": doc_type, "jurisdiction": "AT", "lang": "de",
@@ -334,7 +334,7 @@ def brief(gaz, rng, doc_type, idx, wave):
         "law_firm": {"partners": firm["partners"], "letterhead_verbatim": firm["letterhead"]} if firm else None,
         "persons": persons, "court": court_full,
         "company": {"name": f"{transliterate(gaz.last_name('AT'))} {rng.choice(['GmbH', 'Bau GmbH', 'Immobilien GmbH', 'KG', 'e.U.', 'Handels GmbH'])}",
-                    "register": F.fn(rng), "uid": F.uid_at(rng)} if rng.random() < pr["company"] else None,
+                    "register": F.fn(rng), "uid": F.uid_at(rng)} if rng.random() < pr["company"] or "landlord_co" in hard else None,
         "iban": F.iban("AT", rng) if rng.random() < pr["iban"] else None,
         "svnr": _svnr(rng, persons) if rng.random() < pr["svnr"] else None,
         "plate": F.license_plate("AT", rng) if rng.random() < pr["plate"] else None,
