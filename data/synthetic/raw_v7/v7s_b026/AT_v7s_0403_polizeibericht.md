@@ -42,6 +42,16 @@ Die Fahrzeug-Identifizierungsnummer des Kombis lautet FIN [[other_identifier|5D4
 
 Die Unfallstelle wurde um 07:30 Uhr von den Beamten gesichert. Die Verkehrsregelung erfolgte durch Bezirksinspektor [[person|Holzinger]] bis zum Abtransport der Fahrzeuge. Die Spurensicherung ergab keine Hinweise auf eine Bremsspur des Kombis.
 
+Zeugin [[person|Ulrike Pfeifer]], die im Haus gegenüber der Kreuzung wohnt, gab an, sie habe den Zusammenstoß gehört und die beiden Fahrzeuge kurz danach am Fahrbahnrand gesehen. Sie habe den Kombi zuvor an der Kreuzung ohne anzuhalten einbiegen gesehen, konnte aber die Ampelphase nicht bestimmen. Die Zeugin hat sich bereit erklärt, eine schriftliche Aussage zu unterzeichnen.
+
+Die Verkehrssicherung erfolgte durch die Beamten mit Warndreieck und Absperrband. Die Fahrbahn war während der Aufnahme zeitweise einspurig befahrbar. Die Beamten fertigten eine Unfallskizze mit Maßangaben an, die dieser Anzeige als Beilage angeschlossen ist. Die Lichtbilder der Schäden wurden mit der Dienstkamera dokumentiert.
+
+Die Lenkerin [[person|Jerzabek]] hat den Unfallhergang bei der Aufnahme zunächst unterschiedlich geschildert. Sie gab zuerst an, der Kombi sei ihr vor das Fahrzeug gefahren, korrigierte diese Aussage jedoch später dahin, dass sie den Kombi erst im letzten Moment bemerkt habe. Die Beamten haben diese Abweichung protokolliert. Herr [[person|Anderle]] bestritt, dass er das Stopp-Zeichen übersehen habe; er gab an, er sei langsam gefahren, um die Kreuzung zu queren.
+
+Ein Verwertungsverbot der Angaben ist nicht gegeben, da die Befragung ordnungsgemäß belehrt erfolgte. Die Ermittlungen zur Frage der Ampelphase werden fortgesetzt; hierzu wurden die Steuerungsdaten der Ampelanlage bei der zuständigen Gemeinde angefordert.
+
+Die Schätzung des Schadens durch die Beamten beträgt EUR 9.500,00 am PKW und EUR 4.200,00 am Kombi. Diese Schätzung ist nicht verbindlich und ersetzt kein Sachverständigengutachten. Die Beteiligten wurden auf den Zivilrechtsweg verwiesen.
+
 Rückfragen an die Anzeigende unter Tel. [[phone_number|+43-463-8633809 Durchwahl 64]].
 
 Die Polizeiinspektion ist unter der Anschrift [[address|5600 St. Johann im Pongau]] erreichbar. Die Anzeige wird dem Bezirksgericht zur Kenntnis gebracht, sobald die Versicherungsfragen geklärt sind.

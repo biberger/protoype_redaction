@@ -43,6 +43,10 @@ Datum | Vorgang | Betrag | Zahlungsempfänger
 
 6e. Die Verkäuferin hat in der Verhandlung außerdem bestätigt, dass ihr der Restkaufpreis vom [[date|11. Oktober 2023]] erst nach Vorlage des Grundbuchsauszugs ausbezahlt werden sollte. Diese Vereinbarung wurde von der Beschuldigten nicht eingehalten, soweit die Auszahlung erst am [[date|9. August 2024]] erfolgte.
 
+6f. Die Verkäuferin [[person|Hasenöhrl]] hat den Kaufvertrag vom [[date|17. Februar 2023]] vorgelegt. Darin ist keine Provisionszahlung vorgesehen. Der Vertrag wurde vor der Kaufpreisanzahlung vom [[date|14. März 2023]] unterfertigt.
+
+6g. Die Käuferin hat ergänzt, dass sie die Beschuldigte am Tag der Vertragsunterzeichnung um eine Rechnung über die Vertragserrichtung gebeten habe. Diese Rechnung wurde jedoch erst im Juli 2023 ausgestellt, obwohl die Leistung zu diesem Zeitpunkt bereits abgeschlossen war.
+
 Rechtliche Beurteilung
 
 7. Nach [[legal_norm|§ 43a Abs 5 RAO]] sind Treuhandgelder nur für den Zweck zu verwenden, zu dem sie übergeben wurden. Eine Vermittlungsprovision, die dem Treuhandkonto entnommen wird, ohne dass die Treugeber davon wissen, ist unzulässig. Die Überweisung vom [[date|4. Dezember 2023]] im Treuhandbuch als Auszahlung an die Verkäuferin zu verbuchen, ist eine Verschleierung.
@@ -58,6 +62,10 @@ Rechtliche Beurteilung
 11. Die Beschuldigte wird aufgefordert, das Treuhandbuch künftig in elektronischer Form zu führen, damit Änderungen nachvollziehbar bleiben. Die [[organization|StRAK]] wird die Umsetzung prüfen.
 
 12. Die Beschuldigte hat in der Verhandlung ihr Bedauern ausgedrückt und erklärt, die Verkäuferin persönlich um Entschuldigung zu bitten. Dieses Bedauern wird als mildernd berücksichtigt, ändert aber nichts an der Höhe der Geldbuße. Die Kosten des Verfahrens trägt die Beschuldigte im vollen Umfang, weil ihr Antrag auf Abweisung der Anzeige in allen Punkten erfolglos blieb.
+
+13. Der Senat berücksichtigt die Verfahrensdauer von rund einem Jahr, die im Wesentlichen auf die Beschaffung der Kontoauszüge zurückzuführen ist. Eine Verzögerung auf Seiten der Kammer ist nicht festzustellen.
+
+14. Die Beschuldigte hat die Frage nach der Nachvollziehbarkeit der Rechnung vom [[date|20. Juli 2023]] in der Verhandlung nicht beantwortet. Der Senat zieht daraus keine weiteren Schlüsse, berücksichtigt jedoch, dass die Beschuldigte ihre Aussage in diesem Punkt verweigert hat.
 
 [[location|Graz]], am [[date|2. Juli 2026]]
 

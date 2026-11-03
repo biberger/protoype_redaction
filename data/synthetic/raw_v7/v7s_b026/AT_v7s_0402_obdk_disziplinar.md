@@ -45,6 +45,10 @@ Datum | Vorgang | Betrag | Klient
 
 6e. Die Beschuldigte hat in der Verhandlung eingeräumt, dass die Auszahlung vom [[date|14. Jänner 2025]] an die Klägerin nicht mit dem Treuhandbuch abgestimmt war. Die Auszahlung selbst sei zutreffend gewesen, die Eintragung fehlte jedoch bis zur Prüfung im Juni 2025.
 
+6f. Die Beschuldigte hat in ihrer Stellungnahme vom [[date|19. Dezember 2024]] erklärt, die Eintragung sei unterblieben, weil die zuständige Kanzleimitarbeiterin im Urlaub gewesen sei. Der Senat hält diese Erklärung für unzureichend, weil die Eintragung nach Rückkehr der Mitarbeiterin ebenfalls nicht nachgeholt wurde.
+
+6g. Der Kläger [[person|Weidinger]] hat angegeben, er habe die Beschuldigte mehrfach nach dem Stand des Treuhandkontos gefragt und stets die Auskunft erhalten, alles sei in Ordnung. Diese Auskunft wertet der Senat als unrichtig, weil die Überweisung vom [[date|28. August 2024]] zu diesem Zeitpunkt noch nicht verzeichnet war.
+
 Rechtliche Beurteilung
 
 7. Nach [[legal_norm|§ 43a Abs 5 RAO]] hat der Rechtsanwalt Treuhandgelder getrennt zu verwalten und zweckgebunden zu verwenden. Die Überweisung vom [[date|28. August 2024]] auf das Kanzleikonto verstößt dagegen, weil sie keiner fälligen und bestrittenen Forderung diente.
@@ -62,6 +66,8 @@ Rechtliche Beurteilung
 14. Die Beschuldigte hat sich in der Verhandlung verpflichtet, die Treuhandbuchführung künftig nach den Richtlinien der [[organization|RAK Wien]] zu führen und die Einträge wöchentlich abzuschließen. Diese Verpflichtung wird bei der Überwachung der Auflagen berücksichtigt.
 
 15. Die Kosten des Verfahrens werden der Beschuldigten zur Gänze auferlegt, weil der Antrag auf Abweisung der Anzeige in allen Punkten erfolglos blieb.
+
+16. Die Beschuldigte hat die Kosten innerhalb von vier Wochen nach Zustellung dieses Spruchs zu bezahlen. Der Spruch ist dem Kammeranwalt, der Beschuldigten und der Klägerin zuzustellen.
 
 [[location|Wien]], am [[date|8. Juni 2026]]
 

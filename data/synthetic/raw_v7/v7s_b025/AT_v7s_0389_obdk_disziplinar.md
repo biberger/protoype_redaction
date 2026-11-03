@@ -52,11 +52,13 @@ Die Beschuldigte hat erklärt, sie habe den Betrag mit der Mandantin besprochen 
 
 3. Die Zurückhaltung der Beschuldigten
 
+Der Mandant [[person|Kühberger]] hat zudem am [[date|20.06.2024]] eine Beschwerde bei der Kammer eingebracht, nachdem die Beschuldigte auch auf das Schreiben vom [[date|14.06.2024]] nicht reagiert hatte. Die Beschwerde wurde an die Kammeranwaltschaft weitergeleitet, die daraufhin die Anzeige vorbereitete.
+
 Die Beschuldigte hat die Herausgabe der Mandantengelder mehrfach verzögert, obwohl der Mandant [[person|Kühberger]] mit Schreiben vom [[date|02.05.2024]] und vom [[date|14.06.2024]] zur Auskunft aufgefordert hatte. Das Schreiben vom [[date|14.06.2024]] blieb unbeantwortet.
 
 III. Beweiswürdigung
 
-Der Senat hat den Mandanten [[person|Paul Kühberger]] und die Mandantin [[person|Filomenia Bąkowska]] einvernommen. Beide schilderten, dass sie über die Verwendung der Gelder nicht informiert worden seien. Die Angaben des Mandanten [[person|Kühberger]] werden durch die Kontoübersicht bestätigt. Die Aussage der Mandantin [[person|Bąkowska]] ist in sich schlüssig.
+Der Senat hat den Mandanten [[person|Paul Kühberger]] und die Mandantin [[person|Filomenia Bąkowska]] einvernommen. Die Mandantin [[person|Bąkowska]] hat dabei angegeben, dass sie ihre Abrechnung im Jahr 2024 nur deshalb angefordert habe, weil sie einen Brief des Finanzamts erhalten habe, in dem nach einem Zahlungseingang gefragt wurde. Die Beschuldigte habe ihr damals erklärt, die Angelegenheit sei erledigt. Beide schilderten, dass sie über die Verwendung der Gelder nicht informiert worden seien. Die Angaben des Mandanten [[person|Kühberger]] werden durch die Kontoübersicht bestätigt. Die Aussage der Mandantin [[person|Bąkowska]] ist in sich schlüssig.
 
 Die Verantwortung der Beschuldigten ist unglaubwürdig, weil sie für die Verwendung der Gelder keine Belege vorlegen konnte.
 
@@ -66,7 +68,7 @@ IV. Rechtliche Beurteilung
 
 2. Die Verwahrung der Gelder der Mandantin [[person|Bąkowska]] war nicht ordnungsgemäß dokumentiert. Eine Abrechnung nach Abschluss der Treuhandschaft ist eine Pflicht des Rechtsanwalts. Die Beschuldigte hat diese Pflicht auch dadurch verletzt, dass sie die Abrechnung erst auf Aufforderung vorgenommen hat.
 
-3. Bei der Strafbemessung war erschwerend, dass die Beschuldigte zwei Mandanten betroffen hat. Mildernd war, dass die Beschuldigte bisher nicht disziplinär aufgefallen ist. Die Geldbuße von EUR 2.500,00 erscheint angemessen.
+3. Bei der Strafbemessung war erschwerend, dass die Beschuldigte zwei Mandanten betroffen hat und der Betrag von EUR 5.200,00 über mehrere Monate nicht zurückgegeben wurde. Die Beschuldigte hat die Aufforderungen des Mandanten [[person|Kühberger]] mehrfach unbeantwortet gelassen. Mildernd war, dass die Beschuldigte bisher nicht disziplinär aufgefallen ist. Die Geldbuße von EUR 2.500,00 erscheint angemessen.
 
 V. Kosten
 
