@@ -70,6 +70,14 @@ Der Beschuldigten wird aufgetragen, bis zum [[date|30.06.2025]] einen Prüfberic
 
 Gegen dieses Erkenntnis ist die Berufung an den [[court|OGH]] zulässig. Sie ist binnen vier Wochen nach Zustellung der schriftlichen Ausfertigung einzubringen.
 
+Die Beschuldigte hat in ihrem letzten Wort angegeben, dass sie das Treuhandkonto inzwischen getrennt von ihrem Geschäftskonto führt und seit dem [[date|01.04.2024]] eine externe Buchhaltung beauftragt hat. Dieser Umstand wurde vom Senat als mildernd berücksichtigt, nicht aber als Ersatz für die Sanktion gewertet, da die Verstöße vor dieser Umstellung lagen.
+
+Der Senat hat die Entscheidung einstimmig gefasst. Die Beisitzer [[judge|Klausberger]] und [[judge|Eichler]] haben sich der Begründung angeschlossen, ohne weitere Anmerkungen anzubringen.
+
+Eine Ausfertigung dieses Erkenntnisses ergeht auch an die Kammer, die die Beschuldigte im Rahmen der Aufsicht über die Treuhandkonten überprüfen wird; die Kammeranwältin wird den Vollzug des Prüfberichts überwachen.
+
+Die Kosten des Verfahrens umfassen die Schreibgebühren, die Reisekosten des Zeugen und die Kosten für die Übersetzung der Kontoauszüge, die für die Beschuldigte erforderlich war.
+
 Die Schriftführerin wird die Zustellung an alle Verfahrensbeteiligten veranlassen.
 
 Für das Erkenntnis:

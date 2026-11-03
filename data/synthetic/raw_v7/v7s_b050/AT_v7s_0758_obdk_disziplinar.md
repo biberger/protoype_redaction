@@ -17,7 +17,7 @@ Beisitzerin: [[judge|Theresa Schäffer]]
 Kammeranwältin: [[person|MMag. Angelika Jury]]
 Schriftführer: [[person|Albin Lammer]]
 
-Gegenstand: Disziplinaranzeige gegen die Rechtsanwältin [[lawyer|Margitta Friedle]], Tel. [[phone_number|+43 1 114 11 37 Durchwahl 21]], wegen Verletzung der Pflichten bei der Verwaltung von Treuhandgeldern.
+Gegenstand: Disziplinaranzeige gegen die Rechtsanwältin [[lawyer|Margitta Friedle]] in [[location|St. Johann im Pongau]], Tel. [[phone_number|+43 1 114 11 37 Durchwahl 21]], wegen Verletzung der Pflichten bei der Verwaltung von Treuhandgeldern.
 
 ERKENNTNIS
 
@@ -50,7 +50,7 @@ Die Auszahlung vom [[date|6. Juni 2025]] an eine Dritte erfolgte ohne schriftlic
 
 3. Beweiswürdigung
 
-Der Senat stützt sich auf die Kontoauszüge und die Aussage der Zeugin [[person|Lammer]]. Die Aussage der Beschuldigten [[lawyer|Friedle]] ist nicht überzeugend, weil keine Notiz über das Telefonat existiert. Die Zeugin hat die Auszahlung bestätigt.
+Der Senat stützt sich auf die Kontoauszüge und die Angaben des Mandanten [[person|Banjac]]. Die Aussage der Beschuldigten [[lawyer|Friedle]] ist nicht überzeugend, weil keine Notiz über das angebliche Telefonat existiert. Die Angaben des Mandanten [[person|Banjac]] sind dagegen glaubwürdig, weil sie mit dem Schriftverkehr übereinstimmen.
 
 Die Angaben des Schriftführers [[person|Lammer]] zum Ablauf der Verhandlung sind in der Niederschrift festgehalten.
 
@@ -68,7 +68,7 @@ Mildernd wirkte die Rückzahlung des Restbetrags. Erschwerend war, dass der Mand
 
 Gegen dieses Erkenntnis steht den Parteien die Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] ([[court|OBDK]]) offen. Die Berufung ist binnen vier Wochen einzubringen.
 
-Klagenfurt am Wörthersee, am [[date|16.03.2026]]
+[[location|Klagenfurt am Wörthersee]], am [[date|16.03.2026]]
 
 Für die Richtigkeit der Ausfertigung:
 [[person|Albin Lammer]]

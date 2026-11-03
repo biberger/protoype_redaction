@@ -66,6 +66,10 @@ Der Mieter erlegt eine Kaution in der Höhe von drei Bruttomonatsmieten. Die Kau
 
 (3) Änderungen und Nebenabreden bedürfen der Schriftform. Mündliche Zusagen der [[person|Ing. Traude Reyer]] sind ohne schriftliche Bestätigung der [[organization|Strigl e.U.]] nicht verbindlich.
 
+§ 7 Hausordnung
+
+Die Hausordnung der Liegenschaft ist Bestandteil dieses Vertrages. Der Mieter verpflichtet sich, die Ruhezeiten zwischen 22:00 und 06:00 Uhr einzuhalten, die Gemeinschaftsflächen sauber zu halten und Haustiere nur nach vorheriger schriftlicher Zustimmung der Vermieterin zu halten.
+
 Ausgefertigt in zwei Gleichschriften, von denen jede Partei eine erhält.
 
 [[location|Tamsweg]], am [[date|14. März 2026]]

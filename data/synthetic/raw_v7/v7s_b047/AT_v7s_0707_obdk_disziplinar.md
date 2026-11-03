@@ -57,7 +57,7 @@ Die Beschwerde der Klientin ging am [[date|16.09.2022]] beim Disziplinarrat ein.
 
 Beweiswürdigung
 
-Der Senat hat die Kontoauszüge, die Stellungnahme des Beschuldigten vom [[date|10.11.2022]] und die Aussage der Beschwerdeführerin [[person|Kowalska]] gewürdigt. Die Angaben der Beschwerdeführerin sind in sich schlüssig und stimmen mit den Buchungen überein. Die Darstellung des Beschuldigten, wonach es sich um Honorarvorschüsse gehandelt habe, war nicht glaubhaft, weil er die Abrechnungen erst nach der Beschwerde nachreichte und diese keine Leistungen in der angegebenen Höhe ausweisen.
+Der Senat hat die Kontoauszüge, die Stellungnahme des Beschuldigten vom [[date|10.11.2022]] und die Aussage der Beschwerdeführerin [[person|Kowalska]] gewürdigt. Die Angaben der Beschwerdeführerin sind in sich schlüssig und stimmen mit den Buchungen überein. Der Senat sah keinen Anlass, an der Glaubwürdigkeit der Beschwerdeführerin zu zweifeln, zumal sie ihre Angaben bereits in der Beschwerde vom [[date|16.09.2022]] gleichlautend gemacht hatte. Die Darstellung des Beschuldigten, wonach es sich um Honorarvorschüsse gehandelt habe, war nicht glaubhaft, weil er die Abrechnungen erst nach der Beschwerde nachreichte und diese keine Leistungen in der angegebenen Höhe ausweisen.
 
 Der Beschuldigte hat die Barbehebung vom [[date|27.07.2021]] nicht mit einem Beleg belegt. Der Senat sieht darin eine schwere Verletzung der Dokumentationspflicht, die auch durch die spätere Nachzahlung nicht ausgeglichen wird.
 

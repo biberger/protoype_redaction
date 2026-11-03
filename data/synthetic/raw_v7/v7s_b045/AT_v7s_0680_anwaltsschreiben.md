@@ -42,7 +42,7 @@ Die Mandantschaft ist in der Zwischenzeit auf ein Ersatzfahrzeug angewiesen. Wir
 
 Wir weisen darauf hin, dass die Mandantschaft bereits eine Sachverständigenbegutachtung veranlasst hat und das Gutachten nach Vorliegen zur Verfügung gestellt wird. Eine Anerkennung der Gegenseite im Schadensfall ist nicht Gegenstand unserer bisherigen Korrespondenz gewesen, weshalb wir um ausdrückliche Stellungnahme ersuchen. Die Zahlung ist auf das Kanzleikonto bei der [[organization|Sparkasse Sonntagberg AG]] zu leisten, und zwar innerhalb von vierzehn Tagen nach Erhalt dieses Schreibens.
 
-Für Rückfragen steht Ihnen unser Büro unter der Telefonnummer [[phone_number|02622 262962 Kl. 46]] zur Verfügung.
+Für Rückfragen steht Ihnen unser Büro unter Tel. [[phone_number|02622 262962 Kl. 46]] zur Verfügung.
 
 Mit freundlichen Grüßen
 

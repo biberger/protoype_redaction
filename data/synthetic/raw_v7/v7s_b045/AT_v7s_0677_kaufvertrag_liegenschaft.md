@@ -68,11 +68,11 @@ Der Kaufpreis wird beim Treuhänder hinterlegt. Die Treuhandkonto-IBAN lautet [[
 
 III. Treuhandschaft
 
-Die Treuhandschaft wurde unter der Nummer [[other_identifier|2026/878]] eröffnet und unterliegt dem Treuhandbuch der Rechtsanwaltskammer. Der Treuhänder [[person|Wünsch]] führt das Treuhandkonto gesondert, ein Zinsertrag fällt den Parteien anteilig zu. Die Auszahlung an die Verkäuferinnen erfolgt erst nach Vorliegen der grundbücherlichen Durchführung und nach Vorlage der Löschungsurkunden. Der Restkaufpreis wird im Verhältnis der Anteile an die Verkäuferinnen ausgezahlt.
+Die Treuhandschaft wurde unter Treuhandschaft Nr. [[other_identifier|2026/878]] eröffnet und unterliegt dem Treuhandbuch der Rechtsanwaltskammer. Der Treuhänder [[person|Wünsch]] führt das Treuhandkonto gesondert, ein Zinsertrag fällt den Parteien anteilig zu. Die Auszahlung an die Verkäuferinnen erfolgt erst nach Vorliegen der grundbücherlichen Durchführung und nach Vorlage der Löschungsurkunden. Der Restkaufpreis wird im Verhältnis der Anteile an die Verkäuferinnen ausgezahlt.
 
 Die Treuhandabrechnung wird nach der Eintragung der Käuferin erstellt und den Parteien in Kopie übermittelt. Ein Zahlungseingang, der nach dem vereinbarten Termin erfolgt, wird dem Treuhandkonto ohne Verzinsung gutgeschrieben.
 
-Rückfragen zur Treuhandabwicklung sind an die Kanzlei zu richten, Telefon [[phone_number|05572 918003 DW 374]], während der üblichen Bürozeiten, die auf dem Briefkopf angegeben sind. Die Käuferin erklärt, dass die Herkunft der Mittel nachweisbar ist und dass die Mittel nicht aus einer strafbaren Handlung stammen.
+Rückfragen zur Treuhandabwicklung sind an die Kanzlei zu richten, Tel. [[phone_number|05572 918003 DW 374]], während der üblichen Bürozeiten, die auf dem Briefkopf angegeben sind. Die Käuferin erklärt, dass die Herkunft der Mittel nachweisbar ist und dass die Mittel nicht aus einer strafbaren Handlung stammen.
 
 IV. Aufsandungserklärung
 

@@ -39,6 +39,10 @@ Datum | Vorgang | Betrag | Mandant | Treuhandnr.
 
 2.4. [[person|Violeta Ilić]] wohnt in [[address|3213 Frankenfels]]. Sie hat die Entnahme erst nach der Auszahlung an die Erben bemerkt.
 
+2.5. Die Beschuldigte hat im Verfahren vorgebracht, sie habe die Honorarentnahme als Ausgleich für eine außergerichtliche Vertretung im Zusammenhang mit der Verlassenschaft betrachtet. Diese Vertretung ist jedoch nicht durch eine Vollmacht belegt, und die Mandantin hat die Leistungen der Beschuldigten bestritten. Der Senat geht daher davon aus, dass die Entnahme ohne Rechtsgrundlage erfolgte.
+
+2.6. Die Beschuldigte war im Jahr 2025 mehrfach telefonisch von [[person|Violeta Ilić]] kontaktiert worden, die um Auskunft über den Stand des Treuhanderlags ersuchte. Eine schriftliche Auskunft erfolgte erst nach Ablauf von vier Wochen.
+
 3. Rechtliche Beurteilung
 
 3.1. Die Beschuldigte hat gegen die Pflicht zur getrennten Verwahrung fremder Gelder verstoßen. Die Berufung war insoweit abzuweisen. Die Begründung des Disziplinarrates ist frei von Rechtsirrtum.
@@ -47,9 +51,17 @@ Datum | Vorgang | Betrag | Mandant | Treuhandnr.
 
 3.3. Die [[organization|RAK]] hat die Abrechnung in ihrer Stellungnahme als verspätet, aber nicht als unrichtig bezeichnet. Dies stützt die Annahme eines fahrlässigen, nicht vorsätzlichen Verhaltens.
 
+3.4. Die Pflicht zur Abrechnung gegenüber dem Mandanten folgt aus [[legal_norm|§ 43a Abs 3 RAO]] und aus den Richtlinien für die Ausübung des Anwaltsberufs. Eine Entnahme ohne vorherige Abrechnung ist auch dann unzulässig, wenn der Anwalt einen Honoraranspruch hat. Dieser Anspruch ist nur auf dem dafür vorgesehenen Weg durchsetzbar. Die Verwendung der Treuhandgelder zur Befriedigung eigener Ansprüche stellt daher einen Verstoß gegen die Berufspflichten dar, dem der Senat im Rahmen der Strafbemessung Gewicht beimisst.
+
+3.5. Der Senat hat ferner berücksichtigt, dass die Beschuldigte die Honorarentnahme nicht verschleiert hat. Die Bewegung ist im Kontoauszug offen ausgewiesen und wurde der Mandantin nach Abschluss mitgeteilt. Dies spricht gegen einen vorsätzlichen Verstoß.
+
 4. Kosten
 
 Die Kostenentscheidung beruht auf [[legal_norm|§ 66 DSt]]. Die Beschuldigte trägt die Kosten des Berufungsverfahrens zu einem Drittel, weil sie mit ihrem Berufungsbegehren hinsichtlich der Strafhöhe teilweise durchgedrungen ist.
+
+5. Rechtsmittel und Zustellung
+
+Gegen diese Entscheidung ist eine Revision an den [[court|OGH]] nur zulässig, wenn der Entscheidung eine Rechtsfrage von grundsätzlicher Bedeutung zukommt. Das Vorliegen einer solchen Rechtsfrage hat der Senat verneint. Die Entscheidung wird den Parteien nach Maßgabe des [[legal_norm|§ 9 Abs 1 DSt]] zugestellt. Die Zustellung an die Beschuldigte erfolgt an die Kanzleiadresse, die Zustellung an die [[organization|RAK]] an den Sitz der Kammer.
 
 Wien, am [[date|12. Mai 2026]]
 

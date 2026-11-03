@@ -44,7 +44,7 @@ Gesamtbetrag brutto: 2.557,68 EUR
 
 Die Leistungen vom [[date|06.10.2025]] und vom [[date|13.10.2025]] betreffen die Vorbereitung des Vergleichsvorschlags, den wir Ihnen mit Schreiben vom [[date|14.10.2025]] übermittelt haben. Die Gegenseite hat den Vorschlag bis zum heutigen Tag nicht beantwortet; die Kosten der weiteren Vertretung werden gesondert verrechnet.
 
-Der Betrag ist binnen 14 Tagen ab Rechnungsdatum auf das Konto der Kanzlei, IBAN [[bank_account|AT88 8623 4080 2259 7426]], zu überweisen. Bitte geben Sie bei der Überweisung das Zeichen [[other_identifier|CH-CHBernfeld/Gmachl]] an.
+Der Betrag ist binnen 14 Tagen ab Rechnungsdatum auf das Konto der Kanzlei, IBAN [[bank_account|AT88 8623 4080 2259 7426]], zu überweisen. Bitte geben Sie bei der Überweisung das Zeichen [[other_identifier|CH-CHBernfeld/Gmachl]] an. Bei Zahlungsverzug werden Verzugszinsen in gesetzlicher Höhe berechnet. Wir danken Ihnen für das Vertrauen in unsere Kanzlei.
 
 Für Rückfragen steht Ihnen unser Sekretariat unter Tel. [[phone_number|0662/2040224-8]] zur Verfügung.
 

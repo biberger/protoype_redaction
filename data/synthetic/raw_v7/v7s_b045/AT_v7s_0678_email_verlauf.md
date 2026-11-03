@@ -23,7 +23,7 @@ Mit freundlichen Grüßen
 Schadenregulierung
 [[organization|Pannonia Versicherungs AG]] ([[organization|PVAG]])
 Niederlassung Oberland, [[address|6526 Kauns]]
-T: [[phone_number|+43 7242 473 71 13 Durchwahl 90]]
+Tel. [[phone_number|+43 7242 473 71 13 Durchwahl 90]]
 E: [[email|a.tanasijevic@pannonia-versicherung.at]]
 
 -----Ursprüngliche Nachricht-----

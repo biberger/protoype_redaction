@@ -61,8 +61,14 @@ Die Klägerin beantragt die Einvernahme des Sachverständigen [[person|Katzmayr]
 ./B Zahlungsbelege über 4.200 Euro
 ./C Gutachten [[person|Katzmayr]] vom [[date|18.11.2024]]
 ./D Mahnschreiben vom [[date|03.12.2024]]
+./E Rücktrittserklärung vom [[date|07.01.2025]] mit Rückschein
+./F Kostennote des Sachverständigen
 
-IV. Anträge
+IV. Kosten
+
+Die Klägerin begehrt den Ersatz der Pauschalgebühren sowie der Kosten des Sachverständigengutachtens in Höhe von 1.420 Euro, die sie vorprozessual bezahlt hat. Die Kostennote ist als Beilage angeschlossen.
+
+V. Anträge
 
 Die Klägerin stellt daher die Anträge,
 

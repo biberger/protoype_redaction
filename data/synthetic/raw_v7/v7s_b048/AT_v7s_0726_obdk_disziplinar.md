@@ -44,6 +44,8 @@ Die Zeugin [[person|Berger]] hat in der Verhandlung glaubhaft angegeben, dass si
 
 Die Stellungnahme des Beschuldigten vom [[date|28. Jänner 2026]] enthält zudem den Vorwurf, die Klientin habe die Abrechnung nach einer Besprechung am [[date|2. Juli 2024]] mündlich akzeptiert. Eine Gesprächsnotiz liegt nicht vor, und auch die Klientin hat die Besprechung in dieser Form nicht bestätigt. Der Beschuldigte hat außerdem angeboten, die Zahlung an die Klientin um weitere 500 Euro zu erhöhen, um den Vorwurf auszuräumen. Der Senat hat dieses Angebot als nachträgliche Schadensgutmachung berücksichtigt, ohne es als Beweis für die behauptete Zustimmung zu werten.
 
+Der Beschuldigte hat zu den Vorwürfen zunächst ein Schreiben vom [[date|4. Februar 2025]] an die [[organization|TRK]] gerichtet, in dem er die Entnahmen noch als Verrechnung eines Vorschusses bezeichnete. In der späteren Stellungnahme hat er diese Darstellung aufgegeben und die Entnahmen als Honorarzahlung eingeordnet. Der Senat wertet diesen Wechsel der Begründung als Indiz dafür, dass die Dokumentation nachträglich erstellt wurde.
+
 Die Anzeige stützt sich zudem auf die Kontoauszüge der Bank, aus denen die Buchungsdaten, die Verwendungszwecke und die Empfängerbezeichnungen hervorgehen. Die Auszüge decken sich mit den Eintragungen im Treuhandbuch, soweit dort Buchungen erfasst sind. Die Abweichungen betreffen allein die Rückbuchung vom [[date|28. Mai 2024]] und die Entnahme vom [[date|14. Mai 2024]].
 
 Die rechtliche Beurteilung

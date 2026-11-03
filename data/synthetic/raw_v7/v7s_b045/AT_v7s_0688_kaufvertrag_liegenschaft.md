@@ -56,7 +56,7 @@ Der Kaufpreis ist ohne Abzug zu zahlen. Die Käufer haben kein Recht zur Aufrech
 
 III. Treuhandschaft
 
-Die Treuhandschaft wurde unter der Nummer Treuhandschaft Nr. [[other_identifier|2018/491]] eröffnet. Die Abwicklung erfolgt über die Treuhandkonten der Kanzlei, die dem Treuhandbuch unterliegen. Die Treuhandbuch-Nr. lautet [[other_identifier|2026/564]].
+Die Treuhandschaft wurde unter der Nummer Treuhandschaft Nr. [[other_identifier|2018/491]] eröffnet. Die Abwicklung erfolgt über die Treuhandkonten der Kanzlei, die dem Treuhandbuch unterliegen. Die Abwicklung ist unter Treuhandbuch-Nr. [[other_identifier|2026/564]] verzeichnet.
 
 Die Verkäuferin ist damit einverstanden, dass der Kaufpreis erst nach Löschung der Pfandrechte an sie ausbezahlt wird. Für Rückfragen zur Abwicklung erreichen Sie die Kanzlei unter Tel. [[phone_number|0662/665258-59]].
 

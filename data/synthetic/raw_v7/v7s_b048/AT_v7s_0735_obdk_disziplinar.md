@@ -49,6 +49,14 @@ Nach [[legal_norm|§ 16 RAO]] hat der Rechtsanwalt Gelder der Klienten getrennt 
 
 Der Senat stellt klar, dass die Verletzung auch als Verstoß gegen [[legal_norm|§ 43a Abs 3 RAO]] zu werten ist. Die Pflichten gelten unabhängig davon, ob der Klient den Betrag später tatsächlich erhalten hat.
 
+Die Zeugenaussagen
+
+Der Klient [[person|Pixner]] hat in seiner Einvernahme angegeben, dass er die Honorarnote des Beschuldigten erst nach der Auszahlung an den Verkäufer erhalten habe. Die Rechnung war auf den [[date|2. Juli 2021]] datiert, ging dem Klienten jedoch erst am [[date|20. Juli 2021]] zu. Er habe der Abbuchung nicht zugestimmt und sei davon ausgegangen, dass die Mittel vollständig beim Verkäufer angekommen seien.
+
+Die Zeugin [[person|Ruth Pesendorfer]], die als Sekretärin in der Kanzlei tätig war, hat die Ablage der Belege bestätigt. Sie hat jedoch angegeben, dass die Belege zu den Entnahmen nach der Anzeige nachträglich in den Akt eingelegt wurden. Der Senat hat dazu festgestellt, dass die Zeugin die Gegebenheiten des Jahres 2021 nicht unmittelbar wahrgenommen hat und ihre Angaben daher nur eingeschränkt verwertbar sind.
+
+Der Kammeranwalt [[person|Lorenz Buchta]] hat zur Frage der Vermischung auf den Umstand verwiesen, dass die Gelder des zweiten Treuhandauftrags bereits am [[date|19. August 2021]] eingegangen waren, aber erst am [[date|6. September 2021]] verbucht wurden. Der Beschuldigte hat den Eingang zwar bestätigt, die Verbuchung jedoch mit einer Umstellung der Software begründet, für die keine Belege vorliegen.
+
 Die Strafbemessung
 
 Die Geldbuße von 9.000 Euro berücksichtigt den Umfang der Verletzung und die Dauer von fünf Monaten. Erschwerend wirkt die Vermischung von Treuhandgeldern verschiedener Klienten. Mildernd wirkt, dass der Beschuldigte die Summe von 12.000 Euro bereits im Jahr 2022 an den Klienten zurückgezahlt hat.

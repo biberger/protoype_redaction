@@ -68,7 +68,17 @@ nicht glaubhaft, weil sie in keiner der Akten einen Anhaltspunkt findet.
 
 Die Schriftführerin hat das Protokoll der Sitzung aufgenommen. Der Beisitzer [[person|Mag. Ferdinand Resetar]]
 hat sich während der Beratung wegen einer Verhinderung entschuldigt und die Entscheidung nicht mitgetragen.
-Die Entscheidung ist daher mit der nach § 53 Abs 2 RAO erforderlichen Mehrheit gefasst.
+Die Entscheidung ist daher mit der nach [[legal_norm|§ 53 Abs 2 RAO]] erforderlichen Mehrheit gefasst.
+
+Der Mandant [[person|Ivo Lamprecht]] wurde als Zeuge schriftlich befragt. Er bestätigte, dass er der
+Beschuldigten nur einen Betrag von EUR 1.000,00 zur Deckung der Nebenkosten überlassen habe. Die weiteren
+Zahlungen habe er im Vertrauen auf die Abwicklung durch die Kanzlei geleistet, ohne jemals eine
+Abrechnung über den Verbleib des Betrags zu erhalten. Er habe die Kanzlei erst im Frühjahr 2025 wegen
+der ausstehenden Abrechnung kontaktiert.
+
+Die Beschuldigte hat in der mündlichen Verhandlung eingeräumt, dass die Abrechnung gegenüber
+[[person|Lamprecht]] erst nach der Beschwerde erstellt wurde. Sie beantragte, das Verfahren wegen der
+Erkrankung ihrer Mitarbeiterin im Herbst 2024 besonders mild zu beurteilen.
 
 III. Rechtliche Beurteilung
 

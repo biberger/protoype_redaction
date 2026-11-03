@@ -65,6 +65,10 @@ Der Erblasser war nach den Angaben des Gerichts verheiratet gewesen; die Ehe wur
 
 Das reine Nachlassvermögen beträgt nach Abzug der Passiva und der Verfahrenskosten 116.384 Euro. Die Verlassenschaft wurde im Gerichtsverfahren vor dem [[court|BG Wolfsberg]] geführt; das Gericht ist für die Einantwortung zuständig, weil der letzte Wohnsitz des Erblassers im Sprengel liegt.
 
+Die Verlassenschaft wurde am [[date|10.03.2020]] beim Gericht angemeldet; die Todesfallaufnahme erfolgte durch die Gemeinde, die die Sterbeurkunde ausstellte. Die Erben haben die Verlassenschaft ohne Vorbehalt angenommen; eine Ausschlagung ist nicht erfolgt. Ein Antrag auf Verlängerung der Abhandlungsfrist wurde nicht gestellt, da das Inventar innerhalb der gesetzlichen Frist vorgelegt werden konnte.
+
+Die Legatarin [[person|Eibenschütz]] hat das Mobiliar bereits übernommen und ein Übergabeprotokoll unterzeichnet, das dem Nachlassinventar beiliegt. Der Pkw des Erblassers wurde am [[date|02.04.2020]] an sie übergeben; die Zulassung wurde auf ihren Namen umgeschrieben. Die Kosten der Umschreibung trägt die Legatarin, nicht die Verlassenschaft.
+
 Ich ersuche das Gericht, die Einantwortung nach den genannten Quoten zu beschließen und das Legat auszufolgen. Die Liegenschaft ist im Grundbuch unbelastet; die Pfandrechte der Bank wurden mit der Tilgung gelöscht. Ein Darlehen der [[organization|Raiffeisenbank Deutschlandsberg]] über 34.000 Euro war im Grundbuch zugunsten der Bank einverleibt; die Tilgung ist durch die Quittung vom [[date|30.03.2020]] nachgewiesen. Die Löschungsquittung wird dem Antrag auf Einantwortung beigelegt.
 
 Anlagen:

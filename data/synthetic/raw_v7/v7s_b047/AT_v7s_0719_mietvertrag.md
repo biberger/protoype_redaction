@@ -30,7 +30,7 @@ StA. [[country|Afghanistan]],
 
 § 1 Mietgegenstand
 
-Vermietet werden die Geschäftsräume top 2 im Haus [[address|Marktplatz 11/Top 2, 5602 Wagrain]], bestehend aus einem Verkaufsraum von rund 64 m², einem Lager und einem WC. Der Mietgegenstand liegt auf der Liegenschaft [[land_register_id|KG 07104 Arriach]] / Einlagezahl [[land_register_id|1704]], wie im Grundbuch ersichtlich. Die Vermieterin ist Eigentümerin der Liegenschaft und hat die Zustimmung des Miteigentümers zur Vermietung eingeholt.
+Vermietet werden die Geschäftsräume top 2 im Haus [[address|Marktplatz 11/Top 2, 5602 Wagrain]], bestehend aus einem Verkaufsraum von rund 64 m², einem Lager und einem WC. Der Mietgegenstand liegt auf der Liegenschaft [[land_register_id|KG 07104 Arriach]] / Einlagezahl [[land_register_id|1704]], wie im Grundbuch ersichtlich. Die Vermieterin ist Eigentümerin der Liegenschaft und hat die Zustimmung des Miteigentümers zur Vermietung eingeholt. Der Mietgegenstand ist an das Versorgungsnetz für Strom, Wasser und Abwasser angeschlossen; die Anschlussgebühren sind von der Vermieterin bereits entrichtet worden. Die Heizung wird über eine Gasetagenheizung betrieben, deren Wartung die Vermieterin auf eigene Kosten durchführen lässt; die Wartungsprotokolle sind auf Verlangen einzusehen.
 
 § 2 Mietdauer
 
@@ -64,11 +64,17 @@ Bei Vertragsende ist der Mietgegenstand besenrein und in dem Zustand zurückzuge
 
 Die Vermieterin verpflichtet sich, im Gebäude keine weiteren Verkaufsräume für Gebrauchtwaren zu vermieten. Diese Verpflichtung gilt nicht für Flächen, die vor Vertragsabschluss bereits vermietet waren.
 
+§ 6d Untermiete und Übertragung
+
+Der Mieter ist nur mit schriftlicher Zustimmung der Vermieterin berechtigt, das Geschäftslokal ganz oder teilweise weiterzugeben oder den Betrieb zu übertragen. Die Zustimmung kann nur aus wichtigem Grund verweigert werden, insbesondere wenn der Nachfolger keine ausreichende Bonität nachweisen kann oder der beabsichtigte Betrieb die Nutzung der Vermieterin im Gebäude beeinträchtigt. Eine Weitergabe ohne Zustimmung berechtigt die Vermieterin zur außerordentlichen Kündigung.
+
 § 7 Schlussbestimmungen
 
 Dieser Vertrag ersetzt alle früheren Vereinbarungen, insbesondere den Vertrag mit der Vertragsnummer [[other_identifier|V-2016-60162]]. Änderungen bedürfen der Schriftform. Erfüllungsort ist [[location|St. Johann im Pongau]], wo der Mietgegenstand im Sinne des Vertrags übergeben wird.
 
-Der Mieter bestätigt, dass ihm der Mietgegenstand besichtigt übergeben wurde. Ein Übergabeprotokoll wurde erstellt.
+Der Mieter bestätigt, dass ihm der Mietgegenstand besichtigt übergeben wurde. Ein Übergabeprotokoll wurde erstellt. Die Kaution ist bis zur Übergabe der Schlüssel fällig und wird vom Mieter auf das in § 3 genannte Konto der Vermieterin einbezahlt. Die Vermieterin stellt dem Mieter jährlich eine Abrechnung über die Betriebskosten aus; eine Nachzahlung ist binnen vier Wochen nach Zustellung fällig, ein Guthaben wird mit dem nächsten Mietzins verrechnet.
+
+Die Kosten der Errichtung dieses Vertrags sowie allfällige Gebühren trägt der Mieter; die Vermieterin trägt die Kosten der Grundbuchsabfrage.
 
 [[location|Halbturn]], am [[date|18.08.2016]]
 

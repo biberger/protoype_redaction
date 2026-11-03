@@ -29,13 +29,13 @@ wir vertreten die [[organization|Faistauer Bau GmbH]], [[company_register_number
 
 Die Schlussrechnung vom [[date|12. Juni 2026]] weist einen offenen Betrag von EUR 47.250,00 aus. Das Abnahmeprotokoll vom [[date|18. Mai 2026]] wurde von Ihnen gegengezeichnet, ohne dass Sie Mängel gerügt hätten. Die später vorgebrachten Mängel betreffen die Dachrinne und den Außenputz, die nach Ansicht unserer Mandantin auf eine unsachgemäße Nutzung zurückzuführen sind.
 
-Die Bauleiterin [[person|Göncü Fethiye]], geboren am [[date_of_birth|22. November 1964]], hat die Abnahme begleitet und kann bestätigen, dass die Arbeiten vertragsgemäß ausgeführt wurden. Sie steht als Zeugin zur Verfügung.
+Die Bauleiterin [[person|Göncü Fethiye]], geboren am [[date_of_birth|22. November 1964]], wohnhaft in [[address|9843 Großkirchheim]], hat die Abnahme begleitet und kann bestätigen, dass die Arbeiten vertragsgemäß ausgeführt wurden. Sie steht als Zeugin zur Verfügung.
 
 Wir haben die Klage am [[date|1. Oktober 2026]] beim [[court|BG Donaustadt]] eingebracht. Sollten Sie den Betrag bis zur Verhandlung nicht begleichen, wird die Gegenseite die Verfahrenskosten zu tragen haben, die durch die unbegründete Einwendung entstehen.
 
 Der offene Betrag ist seit dem Fälligkeitstag mit Zinsen nach [[legal_norm|§ 1333 ABGB]] zu verzinsen. Die Zinsen werden in der Klage ab dem [[date|1. Juli 2026]] geltend gemacht. Die bisherigen Mahnschreiben vom [[date|2. Juli 2026]] und vom [[date|28. August 2026]] blieben ohne Antwort, weshalb die Klageführung unvermeidlich war. Die Mandantin hält an ihrer Forderung ausdrücklich fest. Wir bitten um rasche Rückmeldung.
 
-Wir ersuchen Sie, den offenen Betrag binnen vierzehn Tage auf das Konto der Mandantin zu überweisen. Für eine Ratenvereinbarung stehen wir nach Rücksprache mit unserer Mandantin zur Verfügung. Für Rückfragen erreichen Sie uns unter der Telefonnummer [[phone_number|0512/6853031-3]].
+Wir ersuchen Sie, den offenen Betrag binnen vierzehn Tage auf das Konto der Mandantin zu überweisen. Für eine Ratenvereinbarung stehen wir nach Rücksprache mit unserer Mandantin zur Verfügung. Für Rückfragen erreichen Sie uns unter Tel. [[phone_number|0512/6853031-3]].
 
 Mit freundlichen Grüßen
 

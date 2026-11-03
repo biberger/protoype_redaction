@@ -58,7 +58,9 @@ Die Verkäuferin erteilt hiermit die unwiderrufliche Aufsandungserklärung zugun
 
 IV. Übergabe und Nutzen
 
-Die Übergabe erfolgt mit dem Tag der Kaufpreiszahlung. Nutzen und Lasten gehen mit diesem Zeitpunkt auf die Käufer über. Bis dahin trägt die Verkäuferin die Kosten der Erhaltung und die Abgaben. Die Verkäuferin versichert, dass keine Mietverhältnisse bestehen, mit Ausnahme der Wohnung im Obergeschoss, die bis zum [[date|31.12.2026]] befristet vermietet ist. Das Mietverhältnis geht auf die Käufer über.
+Die Übergabe erfolgt mit dem Tag der Kaufpreiszahlung. Nutzen und Lasten gehen mit diesem Zeitpunkt auf die Käufer über. Bis dahin trägt die Verkäuferin die Kosten der Erhaltung und die Abgaben. Die Verkäuferin versichert, dass keine Mietverhältnisse bestehen, mit Ausnahme der Wohnung im Obergeschoss, die bis zum [[date|31.12.2026]] befristet vermietet ist. Das Mietverhältnis geht auf die Käufer über. Die Mietzinszahlungen für den laufenden Monat werden zwischen den Parteien anteilig nach Tagen abgerechnet; die Verkäuferin übergibt den Käufern die Mietkaution in Höhe von drei Monatsmieten samt Nachweis der Verzinsung. Die Betriebskostenabrechnung für das Jahr 2025 erstellt die Verkäuferin bis zum [[date|31.03.2026]], die Nachzahlungen oder Gutschriften werden anteilig verrechnet.
+
+Die Käufer übernehmen mit der Übergabe auch die bestehende Versicherung des Gebäudes, die bis zum Ende des laufenden Versicherungsjahres besteht. Die Verkäuferin verpflichtet sich, die Versicherungsprämie bis zu diesem Zeitpunkt zu bezahlen und den Käufern eine Kopie der Polizze auszuhändigen.
 
 V. Gewährleistung
 
@@ -70,7 +72,7 @@ Die Käufer erklären, das Gebäude besichtigt zu haben und den Zustand zu kenne
 
 VI. Vollmacht und Vertretung
 
-Der Komplementär ist laut Firmenbuch einzelvertretungsbefugt. Die Verkäuferin bevollmächtigt die Treuhänderin der Rechtsanwälte OG, sämtliche Urkunden für die grundbücherliche Durchführung zu unterfertigen und die Löschung des bestehenden Pfandrechts der Bank zu beantragen. Die Vollmacht erlischt mit der Einverleibung des Eigentumsrechts der Käufer.
+Der Komplementär ist laut Firmenbuch einzelvertretungsbefugt; eine Beschränkung der Vertretungsbefugnis ist nicht eingetragen. Die Treuhänderin bestätigt mit ihrer Unterschrift den Erhalt der Anzahlung auf das Treuhandkonto und verpflichtet sich, die Gelder ausschließlich nach den Weisungen beider Parteien zu verwenden. Die Verkäuferin bevollmächtigt die Treuhänderin der Rechtsanwälte OG, sämtliche Urkunden für die grundbücherliche Durchführung zu unterfertigen und die Löschung des bestehenden Pfandrechts der Bank zu beantragen. Die Vollmacht erlischt mit der Einverleibung des Eigentumsrechts der Käufer.
 
 VII. Schlussbestimmungen
 

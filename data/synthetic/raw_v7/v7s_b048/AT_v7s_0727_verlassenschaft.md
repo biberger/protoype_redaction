@@ -43,7 +43,7 @@ a) Einlagezahl [[land_register_id|3260]], [[land_register_id|GB 32213 Kennelbach
 b) [[land_register_id|433/Fresach]] ([[court|BG Kufstein]])
 c) Die Eigentumswohnung im Haus [[address|Hochstraße 12]], deren Eintragung unter [[land_register_id|W 4]] erfolgt, ist mit einem Wohnrecht zugunsten der Erbin [[person|Afritsch]] belastet.
 
-Zum beweglichen Nachlass gehören der Hausrat der Wohnung in Kufstein, ein Pkw der Marke Skoda Octavia Kombi aus dem Jahr 2016 und persönliche Gegenstände wie Schmuck und Uhren. Der Hausrat wurde am [[date|14. Oktober 2025]] gemeinsam mit den Erben aufgenommen und mit einem Gesamtwert von 6.300 Euro bewertet. Der Schmuck wurde von einem gerichtlich beeideten Juwelier geschätzt, der Wert beträgt 2.950 Euro. Die Erben haben vereinbart, dass die persönlichen Erinnerungsstücke unter ihnen nach Wahl verteilt werden.
+Zum beweglichen Nachlass gehören der Hausrat der Wohnung in [[location|Kufstein]], ein Pkw der Marke Skoda Octavia Kombi aus dem Jahr 2016 und persönliche Gegenstände wie Schmuck und Uhren. Der Hausrat wurde am [[date|14. Oktober 2025]] gemeinsam mit den Erben aufgenommen und mit einem Gesamtwert von 6.300 Euro bewertet. Der Schmuck wurde von einem gerichtlich beeideten Juwelier geschätzt, der Wert beträgt 2.950 Euro. Die Erben haben vereinbart, dass die persönlichen Erinnerungsstücke unter ihnen nach Wahl verteilt werden.
 
 Der Verkehrswert der Liegenschaften wurde von einem beeideten Sachverständigen mit 412.000 Euro festgesetzt. Auf den Liegenschaften lastet eine Hypothek der [[organization|HYPO NOE Landesbank für Niederösterreich und Wien AG]] in Höhe von 96.000 Euro.
 

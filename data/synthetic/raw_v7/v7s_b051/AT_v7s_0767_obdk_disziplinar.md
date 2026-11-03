@@ -55,6 +55,8 @@ Datum | Vorgang | Betrag | Mandant | Treuhandnr.
 
 2.4. Die Mandantin wohnt in [[location|St. Gilgen]]. Sie erstattete die Anzeige, nachdem sie den Restbetrag nur verspätet und ohne Erläuterung erhalten hatte.
 
+2.5. Der Beschuldigte hatte [[person|Reinhard Pfundner]] nach der Auszahlung vom 18. April 2023 keine Abrechnung übermittelt, obwohl dieser sie mehrfach angefordert hatte. Die Restsumme auf dem Treuhandkonto wurde erst im Juli 2024 ausgezahlt. Ein Schreiben der [[organization|RAK]] vom 2. Dezember 2024 blieb ebenfalls unbeantwortet.
+
 3. Rechtliche Beurteilung
 
 3.1. Gemäß [[legal_norm|§ 43a Abs 3 RAO]] hat der Rechtsanwalt fremde Gelder getrennt von seinem eigenen Vermögen zu verwalten. Die Verwendung von Treuhandgeldern zur Deckung eigener Honorarforderungen ohne vorherige Abrechnung widerspricht dieser Pflicht. Die Richtlinien für die Ausübung des Anwaltsberufs ([[legal_norm|RL-BA]]) konkretisieren die Abrechnungspflicht ausdrücklich.
@@ -62,6 +64,8 @@ Datum | Vorgang | Betrag | Mandant | Treuhandnr.
 3.2. Der Senat hat die Beweisergebnisse frei gewürdigt. Die Bewegungsliste ist durch die Kontoauszüge belegt. Die Behauptung einer mündlichen Vereinbarung ist nicht glaubhaft, weil der Beschuldigte weder einen Vermerk noch eine Honorarnote vorlegen konnte.
 
 3.3. Der Beschuldigte hat den Vorwurf teilweise eingestanden. Dies wirkt mildernd. Erschwerend wirkt die Dauer des Verstoßes von rund vierzehn Monaten.
+
+3.4. Der Senat hat ferner berücksichtigt, dass der Beschuldigte die Bewegungsliste im Verfahren nicht vollständig vorgelegt hat. Die fehlenden Buchungen wurden erst nach Aufforderung durch den Kammeranwalt nachgereicht. Dies ist als Mangel der Mitwirkung zu werten, zumal der Beschuldigte als Kanzleiinhaber über die Buchhaltung verfügt.
 
 4. Strafbemessung
 

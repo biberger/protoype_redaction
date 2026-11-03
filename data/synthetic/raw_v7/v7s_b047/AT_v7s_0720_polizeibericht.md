@@ -34,11 +34,15 @@ Am [[date|14.10.2022]] gegen 07:40 Uhr fuhr [[person|Mildner]] mit dem Pkw auf d
 
 [[person|Baltazar Miloš]], *[[date_of_birth|21.07.1937]], StA: [[country|Türkei]], gab an, er habe die Fahrbahn wegen eines entgegenkommenden Traktors nicht rechtzeitig einsehen können. Er besitzt einen Führerschein, der [[id_document_number|92932009]] vorgewiesen wurde, und ist im Besitz eines gültigen Reisepasses, Nr. [[id_document_number|X4744768]].
 
-Die Mitfahrerin [[person|Irene Hölzel]], geb. [[date_of_birth|12.09.1944]], Tel. [[phone_number|0664 3307 812]], wurde leicht verletzt und vom Rettungsdienst zur Untersuchung ins Krankenhaus gebracht. Frau [[person|Hölzel]] gab an, sie habe auf der Rückbank gesessen und den Zusammenstoß nicht gesehen.
+Die Mitfahrerin [[person|Irene Hölzel]], geb. [[date_of_birth|12.09.1944]], Tel. [[phone_number|0664 3307 812]], wurde leicht verletzt und vom Rettungsdienst zur Untersuchung ins Krankenhaus gebracht. Frau [[person|Hölzel]] gab an, sie habe auf der Rückbank gesessen und den Zusammenstoß nicht gesehen. Sie wurde nach der Untersuchung entlassen und gab an, Schmerzen im Halswirbelbereich zu verspüren; ein Arztbrief wird nachgereicht.
 
 Verletzungen
 
 [[person|Jadid]] erlitt Prellungen am Brustkorb, [[person|Andrássy]] eine Schnittwunde an der Stirn. Beide wurden vor Ort versorgt. [[person|Andrássy]] verzichtete auf eine Fahrt ins Krankenhaus.
+
+Ergänzende Angaben der Beteiligten
+
+Die Lenkerin [[person|Mildner]] gab bei der Erstbefragung an, sie sei kurz vor der Kreuzung von einem Traktor überholt worden, der den Blick auf die Vorfahrtsstraße versperrt habe. Diese Angaben konnten durch die Zeugenaussage nicht bestätigt werden, da der Zeuge den Traktor nicht gesehen hat. [[person|Miloš]] bestätigte, dass er den Traktor gesehen habe, aber erst kurz vor dem Zusammenstoß. Beide Lenker wurden darauf hingewiesen, dass sie zu einer Verwaltungsübertretung befragt werden können.
 
 Versicherung und Schadensmeldung
 
@@ -54,7 +58,7 @@ Die Unfallstelle wurde um 08:05 Uhr durch die Dienststelle gesichert und vermess
 
 Am Pkw von [[person|Mildner]] entstanden Schäden an der linken vorderen Tür, am Kotflügel und an der Windschutzscheibe; das Fahrzeug war nicht mehr fahrbereit und wurde abgeschleppt. Am Fahrzeug von [[person|Miloš]] wurde die rechte Front stark eingedrückt, der Beifahrerairbag hat ausgelöst. Beide Fahrzeuge wurden auf den Sammelplatz der [[organization|Feuerwehr Schwarzenau]] verbracht.
 
-Der Zeuge [[person|Pichler]] wurde am [[date|15.10.2022]] telefonisch ergänzend befragt. Er gab an, er habe den Pkw von [[person|Mildner]] bereits vor der Kreuzung gesehen und den Eindruck gehabt, dass die Lenkerin die Geschwindigkeit nicht verringert habe. Eine Videoaufnahme vom Gasthof existiert nicht.
+Der Zeuge [[person|Pichler]] wurde am [[date|15.10.2022]] telefonisch ergänzend befragt. Er gab an, er habe den Pkw von [[person|Mildner]] bereits vor der Kreuzung gesehen und den Eindruck gehabt, dass die Lenkerin die Geschwindigkeit nicht verringert habe. Eine Videoaufnahme vom Gasthof existiert nicht. Die Ermittlungen dauern an; eine Anfrage an die Versicherung und an den Hersteller des Unfallfahrzeugs wegen der Auslesung der Airbag-Steuergeräte wurde gestellt. Die Ergebnisse werden in einem Nachtrag zu diesem Bericht festgehalten.
 
 Die Identität der Beteiligten wurde anhand der vorgelegten Dokumente geprüft. Die Nummer des Reisepasses von [[person|Mildner]] wurde mit [[id_document_number|S1937138]] festgestellt; [[person|Suljic]] legte den Personalausweis [[id_document_number|E6561133]] vor.
 

@@ -51,7 +51,7 @@ Der vereinbarte Kaufpreis beträgt EUR 348.000,00 (in Worten: dreihundertachtund
 
 Der Kaufpreis wird nicht unmittelbar an die Verkäuferin ausbezahlt, sondern über die Vertragserrichter treuhändig verwahrt. Die Treuhandschaft ist zu Treuhandbuch-Nr. [[other_identifier|2018/855]] eingetragen. Die Treuhandabwicklung erfolgt nach den Bestimmungen des Treuhandbuches. Die Freigabe des Kaufpreises an die Verkäuferin erfolgt erst, wenn die Pfandfreistellung nachgewiesen ist und das Eigentumsrecht der Käufer im Grundbuch ersichtlich ist.
 
-Für die Treuhandschaft wird zusätzlich eine eigene Treuhandnummer vergeben: TH-Nr. [[other_identifier|2026/390]]. Die Verkäuferin verpflichtet sich, bei Rückfragen zur Abwicklung telefonisch unter [[phone_number|+43 512 801 73 52 Durchwahl 64]] zur Verfügung zu stehen.
+Für die Treuhandschaft wird zusätzlich eine eigene Treuhandnummer vergeben: TH-Nr. [[other_identifier|2026/390]]. Die Verkäuferin verpflichtet sich, bei Rückfragen zur Abwicklung telefonisch unter Tel. [[phone_number|+43 512 801 73 52 Durchwahl 64]] zur Verfügung zu stehen.
 
 III. Aufsandungserklärung
 

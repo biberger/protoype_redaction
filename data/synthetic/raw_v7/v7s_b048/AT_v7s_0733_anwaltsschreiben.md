@@ -33,6 +33,10 @@ Unsere Mandantin hat die [[organization|KK]] mit Schreiben vom [[date|28. Juli 2
 
 Wir fordern Sie daher auf, bis [[date|2. November 2026]] die Mängel zu beheben und die Rechnung auf 8.900 Euro zu berichtigen. Andernfalls werden wir Klage einbringen, ohne weitere Ankündigung. Die Gewährleistungsansprüche richten sich nach [[legal_norm|§ 932 ABGB]].
 
+Die Monteure haben bei der Übergabe ein Protokoll unterzeichnet, in dem die Vorlauftemperatur mit 48 Grad angegeben ist. Die Anlage ist jedoch für 55 Grad ausgelegt, sodass der Wirkungsgrad deutlich unter dem vereinbarten Wert liegt. Unsere Mandantin hat den Stromverbrauch seit der Umstellung monatlich dokumentiert. Die Mehrkosten gegenüber dem Vorjahr betragen nach dieser Aufstellung rund 640 Euro je Monat in den Wintermonaten.
+
+Die Mitteilung von Herrn [[person|Stoynov]] vom [[date|18. September 2026]], wonach die Anlage nach einer Nachjustierung in Ordnung sei, hat unsere Mandantin nicht bestätigt. Eine Messung durch einen unabhängigen Installateur hat dies nicht bestätigt. Wir werden das Messprotokoll auf Wunsch zur Verfügung stellen.
+
 Bitte richten Sie künftige Schreiben an unsere Kanzlei und geben Sie stets das Zeichen [[other_identifier|KZ/Gehrer/1182]] an.
 
 Mit freundlichen Grüßen

@@ -44,7 +44,21 @@ Die Versicherung der Lenkerin [[person|Jusits]] wurde bisher nicht bekanntgegebe
 
 Die Verkehrsteilnehmer wurden über die Gefahrenstelle an der Baustelle informiert. Die Straßenmeisterei hat die Warnschilder am selben Abend ergänzt.
 
+Der Zeuge [[person|Bondy]] hat seine Angaben vor den Beamten in ruhiger Form wiederholt und ausdrücklich angegeben, dass er den Vorfall aus einer Entfernung von etwa 30 Metern beobachtet habe. Er ist Pensionist und wohnt in der Nähe der Kreuzung. Seine Aussage wurde von den Beamten protokolliert und vom Zeugen unterschrieben. Eine Verwechslung mit einem anderen Fahrzeug schließt er aus, weil der Pkw der Frau [[person|Pein]] einen auffälligen Dachträger hatte.
+
+Die Beamtin BezInsp. [[person|Wallner]] hat die Fahrzeugpapiere aller Beteiligten kontrolliert. Das Fahrzeug 2 war zum Unfallzeitpunkt nicht ordnungsgemäß versichert, weil die Prämie nicht rechtzeitig bezahlt worden war. Die Halterin wurde darauf hingewiesen, dass der Versicherungsschutz nicht besteht. Die Kennzeichen der übrigen Fahrzeuge waren gültig, die Prüfplaketten waren nicht abgelaufen.
+
+Bei der Lenkerin des Fahrzeugs 4 wurde festgestellt, dass der Führerschein nur für Fahrzeuge bis 3,5 Tonnen gilt. Das Fahrzeug selbst war jedoch ein Pkw, sodass hier keine Beanstandung erfolgt. Der Führerschein wurde zur Überprüfung eingezogen und nach Abschluss der Kontrolle wieder ausgefolgt.
+
+Die Verletzungen der Beteiligten wurden im [[organization|Krankenhaus Lienz]] dokumentiert. Eine Weiterleitung der Befunde an die Polizei erfolgt nur mit ausdrücklicher Zustimmung der betroffenen Personen. Frau [[person|Starkl]] hat ihre Zustimmung bereits erteilt.
+
 Die Anzeige wird an die Bezirkshauptmannschaft übermittelt, die über die verwaltungsrechtlichen Folgen entscheidet. Die Zeugen sind unter den im Akt vermerkten Anschriften erreichbar.
+
+Die Anzeigen gegen die Lenkerin Jusits sind auf zwei Delikte gerichtet: die Verwendung des Mobiltelefons während der Fahrt und das Nichteinhalten des Sicherheitsabstands. Die Lenkerin hat dazu angegeben, sie habe nur kurz auf eine Nachricht ihrer Tochter geschaut. Die Beamten haben das Gerät sichergestellt und die letzte Nutzung zeitlich dem Unfallgeschehen zugeordnet, sodass die Angabe nicht widerlegt werden kann, aber auch nicht bestätigt ist.
+
+Die Lenkerin des Fahrzeugs 4 hat den Gehsteig nicht befahren. Frau [[person|Krasteva]] hat den Grünstreifen genutzt, um dem Pkw auszuweichen, und dabei eine Begrenzungsleiste beschädigt. Der Schaden an der Leiste wurde von der Gemeinde mit 620 Euro beziffert und wird ihr gesondert in Rechnung gestellt.
+
+Die Straßenmeisterei hat die Unfallstelle noch am Unfalltag am späten Nachmittag inspiziert. Die Markierung wurde neu aufgebracht und ein Warnschild mit der Geschwindigkeitsbeschränkung auf 30 km/h aufgestellt. Die Aufstellung eines Ampelpostens wird geprüft.
 
 Ausgefertigt in [[address|9909 Leisach]], am [[date|3. September 2026]]
 

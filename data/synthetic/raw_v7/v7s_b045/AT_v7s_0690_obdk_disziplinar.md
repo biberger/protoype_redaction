@@ -34,7 +34,9 @@ Der Beschuldigte wurde am [[date|4. Mai 2025]] zur Stellungnahme aufgefordert un
 
 II. Sachverhalt
 
-Die Anzeigerin hatte den Beschuldigten im Jahr 2023 mit der Abwicklung eines Liegenschaftsverkaufs beauftragt. Die Kaufpreiszahlungen waren über ein Treuhandkonto zu leiten. Die Gelder wurden vom Beschuldigten entgegengenommen und zum Teil für andere Zwecke verwendet.
+Die Anzeigerin hatte den Beschuldigten im Jahr 2023 mit der Abwicklung eines Liegenschaftsverkaufs beauftragt. Die Kaufpreiszahlungen waren über ein Treuhandkonto zu leiten. Die Gelder wurden vom Beschuldigten entgegengenommen und zum Teil für andere Zwecke verwendet. Die Anzeigerin hatte den Beschuldigten mehrfach gebeten, ihr einen Zwischenstand der Abrechnung zu übermitteln. Dies geschah erst im Februar 2024, nachdem sie sich an die Kammer gewandt hatte. Der Liegenschaftsverkauf selbst wurde im Jahr 2023 abgeschlossen, der Käufer hat die Kaufpreisraten fristgerecht bezahlt.
+
+Der Senat hat die Akten vollständig eingesehen, die Protokolle geprüft und den Beschuldigten persönlich angehört. Eine Abschrift wird den Parteien zugestellt.
 
 Die Buchungen auf dem Treuhandkonto stellen sich wie folgt dar:
 

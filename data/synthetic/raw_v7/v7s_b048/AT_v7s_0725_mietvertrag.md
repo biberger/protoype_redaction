@@ -73,6 +73,8 @@ Bürge:
 
 (3) Eine Mietzinsminderung nach [[legal_norm|§ 1111 ABGB]] bleibt unberührt, wenn der Mangel nicht innerhalb angemessener Frist behoben wird.
 
+(4) Feuchtigkeitsschäden und Schimmelbildung hat die Mieterin unverzüglich zu melden, auch wenn sie nur geringfügig erscheinen. Die Vermieterin lässt die Ursache durch einen Fachbetrieb prüfen. Lüftungs- und Heizverhalten der Mieterin sind dabei zu berücksichtigen, soweit sie für die Entstehung des Schadens ursächlich waren.
+
 § 6 Gebrauch der Wohnung
 
 (1) Die Wohnung darf ausschließlich zu Wohnzwecken genutzt werden. Die Mieterin darf die Wohnung nur mit schriftlicher Zustimmung der Vermieterin Dritten überlassen.
@@ -82,6 +84,10 @@ Bürge:
 § 7 Betriebskosten und Abrechnung
 
 Die Betriebskosten werden jährlich abgerechnet. Die Abrechnung wird der Mieterin spätestens bis zum 30. Juni des Folgejahres übermittelt. Die Verwaltung der [[organization|Feil Bau GmbH]] legt die Belege zur Einsicht auf. Ergibt sich ein Guthaben, wird es mit der nächsten Mietzinszahlung verrechnet.
+
+Die Heizkosten für die Wohnung werden nach dem Verbrauch der Wärmemengenzähler im Haus abgerechnet. Der Verteilerschlüssel richtet sich zu 60 % nach der Nutzfläche und zu 40 % nach dem gemessenen Verbrauch. Die Warmwasserkosten werden nach den tatsächlichen Verbrauchswerten der Wasserzähler der Wohnung berechnet. Die Mieterin hat die Zähler monatlich abzulesen und die Werte bis zum 25. eines jeden Monats der Hausverwaltung mitzuteilen.
+
+Die Mieterin ist berechtigt, die Abrechnung innerhalb von sechs Monaten nach Zustellung zu prüfen. Zu diesem Zweck kann sie die Belege bei der Verwaltung der Feil Bau GmbH einsehen. Einwendungen gegen die Abrechnung sind schriftlich zu erheben und zu begründen.
 
 § 8 Beendigung
 

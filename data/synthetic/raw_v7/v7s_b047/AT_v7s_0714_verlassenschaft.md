@@ -38,6 +38,8 @@ Die Liegenschaft ist mit einem Pfandrecht zugunsten der [[organization|Waldviert
 
 Die Besichtigung der Liegenschaft fand am [[date|14.07.2022]] statt. Der Sachverständige bewertete das Wohnhaus nach dem Ertragswertverfahren, das Grundstück nach dem Vergleichswert. Die Bausubstanz wurde als durchschnittlich eingestuft; eine Sanierung des Daches ist innerhalb der nächsten fünf Jahre erforderlich, was im Verkehrswert berücksichtigt wurde.
 
+Zum Grundstück gehören ein Garten im Ausmaß von etwa 640 Quadratmetern sowie ein Nebengebäude aus den Sechzigerjahren, das als Garage und Werkstatt genutzt wurde. Das Nebengebäude ist in einem schlechten Zustand und wurde vom Sachverständigen nur mit einem Restwert angesetzt. Die Zufahrt über den Nachbargrund ist durch ein Wegerecht gesichert, das im Grundbuch eingetragen ist. Die Erbin hat erklärt, das Nebengebäude nicht nutzen zu wollen, und ersucht um dessen Verkauf im Rahmen der Abhandlung.
+
 Der Erblasser war verwitwet; die Ehegattin ist bereits im Jahr 2011 verstorben. Eine Lebensgefährtin war nach den Angaben im Familienbuch nicht vorhanden, weshalb sich daraus keine weiteren Erbansprüche ergeben. Kinder hat der Erblasser nicht hinterlassen. Die Begräbniskosten wurden durch das Bestattungsunternehmen in [[location|Groß-Enzersdorf]] abgerechnet; die Rechnung ist beigelegt und mit 4.980 Euro im Passivum berücksichtigt.
 
 Erbin ist nach der gesetzlichen Erbfolge die Schwester des Erblassers. Im Melderegister ist sie als [[person|Steinitz Elvire]] geführt, die Schreibweise mit vorangestelltem Familiennamen stammt aus dem Familienbuch. Die Erbin

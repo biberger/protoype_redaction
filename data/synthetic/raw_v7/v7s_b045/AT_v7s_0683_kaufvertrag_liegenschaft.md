@@ -58,7 +58,7 @@ II. Treuhandschaft
 
 Der Kaufpreis wird durch den Treuhänder verwahrt. Die Treuhandschaft ist unter Treuhandbuch-Nr. [[other_identifier|2025/232]] verzeichnet. Die Treuhandschaft selbst lautet: Treuhandschaft Nr. [[other_identifier|2026/161]]. Der Treuhänder zahlt den Kaufpreis erst an die Verkäuferin aus, wenn die Pfandrechte gelöscht sind und die Eigentumsübertragung im Grundbuch vorgemerkt ist.
 
-Rückfragen zur Treuhandabwicklung beantwortet die Kanzlei unter der Telefonnummer [[phone_number|+43 732 524 91 17 DW 688]]. Die Verkäuferin erklärt, dass die Pfandrechte einer Bank bei Fälligkeit des Restkaufpreises vollständig gelöscht werden.
+Rückfragen zur Treuhandabwicklung beantwortet die Kanzlei unter Tel. [[phone_number|+43 732 524 91 17 DW 688]]. Die Verkäuferin erklärt, dass die Pfandrechte einer Bank bei Fälligkeit des Restkaufpreises vollständig gelöscht werden.
 
 III. Aufsandungserklärung
 

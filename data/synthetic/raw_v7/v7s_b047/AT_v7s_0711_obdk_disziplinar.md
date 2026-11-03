@@ -77,6 +77,10 @@ Gegen dieses Erkenntnis steht dem Beschuldigten und der Kammeranwältin die Beru
 
 Der Beschuldigte hat während des Verfahrens Akteneinsicht genommen und in der Verhandlung die Vollständigkeit der Unterlagen gerügt. Der Senat hat die fehlende Abrechnung über die [[organization|Kaur Consulting]] zur Kenntnis genommen; sie wurde auch nach der Verhandlung nicht nachgereicht.
 
+Die Verhandlung wurde mit dem Hinweis geschlossen, dass die Beschwerdeführerin ihre Forderung auf Ersatz des Restbetrags von 13.700 Euro gegenüber dem Beschuldigten zivilrechtlich geltend machen kann; dieses Verfahren ist vom Disziplinarverfahren unabhängig. Der Senat weist darauf hin, dass ein Vergleich über die Rückzahlung die disziplinäre Verantwortung nicht berührt.
+
+Die Erben der Beschwerdeführerin haben in der Verhandlung erklärt, dass sie auf eine Rückzahlung im Wege der Einigung hoffen, aber den Ausgang des zivilrechtlichen Verfahrens abwarten wollen. Die Kammeranwältin hat dazu keine Stellungnahme abgegeben.
+
 Die Schriftführerin wird die Zustellung an die Beteiligten veranlassen, einschließlich der Erben der Beschwerdeführerin und der Kammer.
 
 Für den Senat:

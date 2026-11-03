@@ -46,6 +46,8 @@ Gesamtbetrag brutto: 3.634,80
 
 Auslagen in Höhe von 96,40 EUR (Gerichtsgebühren für die Klage und die Eingabe vom [[date|01.07.2026]], Porto) sind in den Gesamtbetrag nicht eingerechnet und werden gesondert abgerechnet. Die Pauschalgebühr für die Protokollierung der Verhandlung vom [[date|24.07.2026]] wurde von der Kanzlei vorgestreckt und wird nach Rechtskraft der Kostenentscheidung weiterverrechnet.
 
+Die Stundensätze entsprechen der Vereinbarung vom [[date|03.06.2026]] und betragen für Rechtsanwaltsleistungen 220,00 EUR netto je Stunde. Für die Mitarbeit der Konzipientin [[person|Kristin Paneth]] wurde der reduzierte Satz von 95,00 EUR je Stunde verrechnet. Die Zeitaufwände sind auf Basis der Zeiterfassung dokumentiert und können auf Wunsch im Detail übermittelt werden. Sollten Sie die Leistungen für Ihre Steuererklärung benötigen, stellen wir Ihnen gerne eine gesonderte Aufstellung zur Verfügung.
+
 Die Honorarnote ist bis [[date|28.09.2026]] ohne Abzug zu begleichen. Für eine Rückerstattung auf Ihr Konto ersuchen wir um Angabe der IBAN [[bank_account|AT64 6942 0161 5183 4149]] mit dem Verwendungszweck „Klienten-Nr. [[other_identifier|72317]]“.
 
 Mit freundlichen Grüßen

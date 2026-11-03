@@ -34,15 +34,15 @@ Das Mietverhältnis beginnt am [[date|01.03.2016]] und wird auf unbestimmte Zeit
 
 Der monatliche Hauptmietzins beträgt 745 Euro netto zuzüglich Betriebskosten von 188 Euro und Umsatzsteuer. Der Mietzins ist jeweils am dritten Werktag im Voraus auf das Konto der Vermieterin bei der [[organization|Raiffeisenbank Semmering]], IBAN [[bank_account|AT36 5896 7673 9893 9722]], zu überweisen.
 
-Die Vertragsparteien vereinbaren, dass der Mietzins ab dem [[date|01.04.2016]] wertgesichert ist. Die Indexanpassung erfolgt jährlich zum 1. April anhand des Verbraucherpreisindex.
+Die Vertragsparteien vereinbaren, dass der Mietzins ab dem [[date|01.04.2016]] wertgesichert ist. Die Indexanpassung erfolgt jährlich zum 1. April anhand des Verbraucherpreisindex. Die Vermieterin teilt jede Anpassung schriftlich mit; der neue Betrag ist mit der nächsten Mietzinszahlung fällig. Bei Zahlungsverzug von mehr als zwei Monatsmieten ist die Vermieterin berechtigt, den Mietvertrag nach den gesetzlichen Bestimmungen aufzulösen. Eine Mahnung mit einer Nachfrist von vierzehn Tagen ist vorher zuzustellen.
 
 § 4 Kaution
 
-Der Mieter erlegt eine Kaution von drei Bruttomonatsmieten, somit 2.235 Euro. Die Kaution wird auf einem Sparbuch der Vermieterin verwahrt und nach Vertragsende mit den offenen Forderungen verrechnet. Die Verzinsung der Kaution richtet sich nach den gesetzlichen Bestimmungen des Mietrechtsgesetzes; die Vermieterin hat die Kaution nach Rückgabe der Schlüssel unverzüglich, spätestens binnen sechs Monaten, auszuzahlen, soweit keine Gegenforderungen bestehen. Eine Übertragung der Kaution auf einen neuen Vermieter bei einem Eigentumswechsel der Liegenschaft ist zulässig und wird den Mietern schriftlich mitgeteilt.
+Der Mieter erlegt eine Kaution von drei Bruttomonatsmieten, somit 2.235 Euro. Die Kaution wird auf einem Sparbuch der Vermieterin verwahrt und nach Vertragsende mit den offenen Forderungen verrechnet. Die Verzinsung der Kaution richtet sich nach den gesetzlichen Bestimmungen des [[legal_norm|Mietrechtsgesetzes]]; die Vermieterin hat die Kaution nach Rückgabe der Schlüssel unverzüglich, spätestens binnen sechs Monaten, auszuzahlen, soweit keine Gegenforderungen bestehen. Eine Übertragung der Kaution auf einen neuen Vermieter bei einem Eigentumswechsel der Liegenschaft ist zulässig und wird den Mietern schriftlich mitgeteilt.
 
 § 5 Pflichten der Parteien
 
-Die Mieter verpflichten sich, die Wohnung pfleglich zu behandeln und Schäden unverzüglich anzuzeigen. Die Mieter haben die Wohnung vor Einzug an der Eingangstür ihre Namen anzubringen. Untervermietung ist nur mit schriftlicher Zustimmung der Vermieterin zulässig.
+Die Mieter verpflichten sich, die Wohnung pfleglich zu behandeln und Schäden unverzüglich anzuzeigen. Die Mieter haben die Wohnung vor Einzug an der Eingangstür ihre Namen anzubringen. Untervermietung ist nur mit schriftlicher Zustimmung der Vermieterin zulässig. Die Mieter haben Lärm zu vermeiden, der über das übliche Maß hinausgeht, insbesondere in den Ruhezeiten. Haustiere sind nur mit Zustimmung der Vermieterin zu halten; die Zustimmung wird bei kleinen Haustieren wie Katzen oder Ziervögeln in der Regel erteilt.
 
 Die Vermieterin hat die Erhaltungspflichten nach dem [[legal_norm|MRG]] zu erfüllen. Reparaturen, die durch Verschulden der Mieter notwendig werden, gehen zu deren Lasten.
 
