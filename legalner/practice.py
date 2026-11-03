@@ -15,6 +15,8 @@ import collections
 import json
 import pathlib
 import random
+import re
+import unicodedata
 
 from legalner import fake_ids as F
 from legalner.gazetteers import Gazetteer, transliterate
@@ -70,9 +72,16 @@ def _t(label, text):
     return f"[[{label}|{text}]]"
 
 
-def phone(rng, ext=None):
+# first postcode digit -> plausible area codes (phone numbers match the firm's town)
+AREA = {"1": ["1"], "2": ["2236", "2622", "2252", "1"], "3": ["2742", "2732", "7472"], "4": ["732", "7242", "7252"],
+        "5": ["662", "6542", "6212"], "6": ["512", "5572", "5522", "5352"], "7": ["2682", "3352"], "8": ["316", "3842", "3172"],
+        "9": ["463", "4242", "4212"]}
+
+
+def phone(rng, ext=None, pc=None):
     """An Austrian phone number, often with an extension inside the span (decision 35)."""
-    area = rng.choice(["1", "316", "732", "662", "512", "463", "2742", "2622", "7242", "5572"])
+    areas = AREA.get(str(pc)[:1]) if pc else None
+    area = rng.choice(areas or ["1", "316", "732", "662", "512", "463", "2742", "2622", "7242", "5572"])
     base = rng.choice([f"0{area}/{rng.randint(10000, 9999999)}", f"+43 {area} {rng.randint(100, 999)} {rng.randint(10, 99)} "
                        f"{rng.randint(10, 99)}", f"+43-{area}-{rng.randint(100000, 9999999)}", f"0{area} {rng.randint(10000, 999999)}"])
     if ext is None:
@@ -83,9 +92,12 @@ def phone(rng, ext=None):
     return base
 
 
-def other_identifier(rng, gaz, client=None):
+OID_KINDS = ("zeichen", "klient", "treuhand", "polizze", "kunde", "vertrag", "schaden", "mitglied", "vin")
+
+
+def other_identifier(rng, gaz, client=None, kinds=OID_KINDS):
     """A party's or firm's own reference (decision 36), as (prefix outside the span, value)."""
-    kind = rng.choice(["zeichen", "klient", "treuhand", "polizze", "kunde", "vertrag", "schaden", "mitglied", "vin"])
+    kind = rng.choice(kinds)
     ini = "".join(rng.choice("ABCDEFGHKLMNPRSTW") for _ in range(rng.randint(1, 3)))
     if kind == "zeichen":
         name = client or transliterate(gaz.last_name("AT"))
@@ -110,14 +122,19 @@ def other_identifier(rng, gaz, client=None):
     return "FIN ", vin
 
 
-def law_firm(gaz, rng):
-    partners = [transliterate(gaz.last_name("AT")) for _ in range(rng.randint(1, 4))]
+def law_firm(gaz, rng, notary=False):
+    partners = [transliterate(gaz.last_name("AT")) for _ in range(rng.randint(1, 2 if notary else 4))]
     street = rng.choice(gaz.streets["AT"])
     town, pc = gaz.town("AT")
-    tel = phone(rng, ext=rng.random() < 0.5)
-    fax = phone(rng, ext=True)
+    tel = phone(rng, ext=rng.random() < 0.5, pc=pc)
+    fax = phone(rng, ext=True, pc=pc)
     domain = partners[0].lower().replace("ä", "ae").replace("ö", "oe").replace("ü", "ue").replace("ß", "ss")
-    form = rng.choice(["Rechtsanwälte", "Rechtsanwälte GmbH", "Rechtsanwälte OG", "Öffentliche Notare", "Rechtsanwalt"])
+    domain = re.sub(r"[^a-z0-9-]", "", unicodedata.normalize("NFKD", domain).encode("ascii", "ignore").decode())
+    if notary:
+        form = rng.choice(["Öffentlicher Notar", "Notariat"] if len(partners) == 1 else ["Öffentliche Notare", "Notariat"])
+    else:
+        form = rng.choice(["Rechtsanwalt", "Rechtsanwältin", "Rechtsanwalts GmbH"] if len(partners) == 1 else
+                          ["Rechtsanwälte", "Rechtsanwälte GmbH", "Rechtsanwälte OG"])
     firm = ", ".join(partners) if len(partners) > 1 else partners[0]
     if rng.random() < 0.3:
         firm = " & ".join(partners[:2])
@@ -128,80 +145,188 @@ def law_firm(gaz, rng):
     lines.append(f"{_t('address', f'{street} {rng.randint(1, 60)}, {pc} {town}')}")
     lines.append(f"T: {_t('phone_number', tel)}  F: {_t('phone_number', fax)}")
     lines.append(f"E: {_t('email', f'office@{domain}.at')}  W: www.{domain}.at")
-    if rng.random() < 0.5:
+    if "GmbH" in form and rng.random() < 0.7:
         lines.append(f"{_t('company_register_number', F.fn(rng))}, {_t('court', rng.choice(['HG Wien', 'LG Linz', 'LG für ZRS Graz', 'LG Salzburg']))}, "
                      f"UID: {_t('tax_id', F.uid_at(rng))}")
+    elif rng.random() < 0.4:
+        lines.append(f"UID: {_t('tax_id', F.uid_at(rng))}")
     bank, _ = rng.choice([b for b in BANKS if not any(w in b[0] for w in ("Bausparkasse", "bausparkasse", "ING"))])
     lines.append(f"{_t('organization', bank.format(town=town))} IBAN: {_t('bank_account', F.iban('AT', rng))} "
                  f"BIC: {_t('bank_account', rng.choice(['RLNWATWW', 'BKAUATWW', 'GIBAATWW', 'OBKLAT2L', 'SPIHAT22']))}")
-    lines.append(f"ERV-Code: {_t('other_identifier', rng.choice('RP') + str(rng.randint(100000, 999999)))}")
+    if not notary:
+        lines.append(f"ERV-Code: {_t('other_identifier', rng.choice('RP') + str(rng.randint(100000, 999999)))}")
     return {"partners": partners, "letterhead": "\n".join(lines), "letter_spaced": letter_spaced}
 
 
-def person(gaz, rng, dob=True):
+# Slavic and Baltic-style surnames inflect for gender; the decks mix both forms, so draw until the form fits.
+_FEM = {"CZ": ("ová", "á"), "SK": ("ová", "á"), "PL": ("ska", "cka", "dzka"), "BG": ("ova", "eva", "ska"),
+        "UA": ("ova", "eva", "ska", "ka")}
+_MASC = {"CZ": ("ý", "ov", "ek", "ák", "an", "il", "a", "ec"), "SK": ("ý", "ák", "ik", "ec", "an", "ek"), "PL": ("ski", "cki", "dzki"),
+         "BG": ("ov", "ev", "ski"), "UA": ("ov", "ev", "ko", "uk", "yi", "chuk")}
+
+
+def _fits(surname, country, g):
+    if country not in _FEM:
+        return True
+    low = surname.lower()
+    fem = low.endswith(_FEM[country])
+    if g == "F":
+        return fem
+    return not fem and (country not in ("CZ", "SK") or not low.endswith("á"))
+
+
+def surname(gaz, country, g, tries=25):
+    for _ in range(tries):
+        s = gaz.last_name(country)
+        if _fits(s, country, g):
+            return s
+    return gaz.last_name("AT")
+
+
+def person(gaz, rng, dob=True, nationality_p=0.3):
     g = rng.choice("MF")
     country = "AT" if rng.random() < 0.65 else rng.choice(["DE", "RS", "BA", "TR", "RO", "HR", "HU", "PL", "SY", "AF", "IT",
                                                           "CZ", "SK", "UA", "NL", "GR", "BG"])
-    p = {"name": transliterate(f"{gaz.first_name(country, g)} {gaz.last_name(country)}"), "gender": g}
+    p = {"name": transliterate(f"{gaz.first_name(country, g)} {surname(gaz, country, g)}"), "gender": g}
     if rng.random() < 0.15:
         p["degree"] = rng.choice(["Dr.", "Mag.", "DI", "Ing.", "Mag. Dr.", "MMag.", "Dipl.-Ing."])
-        p["degree_position"] = rng.choice(["before", "before", "between"])  # "Eleonore Dr. Schneider"
+        p["degree_position"] = rng.choice(["before", "before", "between"])
     if dob:
         y = rng.randint(1935, 2004)
         p["date_of_birth"] = rng.choice([f"{rng.randint(1, 28):02d}.{rng.randint(1, 12):02d}.{y}",
                                          f"{rng.randint(1, 28)}. {rng.choice(['Jänner', 'Februar', 'März', 'April', 'Mai', 'Juni', 'Juli', 'August', 'September', 'Oktober', 'November', 'Dezember'])} {y}",
                                          f"{y}-{rng.randint(1, 12):02d}-{rng.randint(1, 28):02d}"])
         p["birth_cue"] = rng.choice(["geb. ", "geboren am ", "Geburtsdatum: ", "*", "geb ", "GEB: "])
-    if rng.random() < 0.3:
+    if rng.random() < nationality_p:
         p["nationality"] = rng.choice(NATIONALITIES)
     return p
 
 
+REGISTER_COURTS = [("Handelsgericht Wien", "HG Wien"), ("Landesgericht Linz", "LG Linz"), ("Landesgericht für "
+                   "Zivilrechtssachen Graz", "LG für ZRS Graz"), ("Landesgericht Salzburg", "LG Salzburg"), ("Landesgericht "
+                   "Innsbruck", "LG Innsbruck"), ("Landesgericht Klagenfurt", "LG Klagenfurt"), ("Landesgericht St. Pölten",
+                   "LG St. Pölten"), ("Landesgericht Wiener Neustadt", "LG Wr. Neustadt"), ("Landesgericht Feldkirch",
+                   "LG Feldkirch"), ("Landesgericht Eisenstadt", "LG Eisenstadt"), ("Landesgericht Wels", "LG Wels")]
+
+# Hard cases are described, never exemplified with names (pilot writers copied example names verbatim).
+HARD = {
+    "wrap": "a party block where a name, its birth date and the address wrap across lines",
+    "surname_first": "one person written surname first, then the given name (as in registers and lists)",
+    "no_form": "a company named without its legal form after the first mention",
+    "abbr": "an organisation abbreviation used alone after it was defined",
+    "caps": "names and identifiers in ALL CAPS in a heading, stamp or table header",
+    "sig": "an e-mail signature block with phone, fax and extension",
+    "quoted": "quoted earlier messages with '>' markers that repeat names and numbers",
+    "table": "a table written as text (date | description | amount) that repeats names and file references",
+    "state_party": "the Republic of Austria or a Land as a party (country/organization by role) next to a nationality",
+    "nationality": "a nationality given as 'StA:' in a person line",
+    "deceased": "the deceased referred to by name, as 'der Erblasser' and again by surname alone",
+    "heirs_list": "a numbered list of heirs with birth dates, addresses and quotas",
+    "officers": "officers identified by name and service number in the header and again by surname in the text",
+    "plates_ids": "licence plates and ID document numbers in a table of involved parties",
+    "minutes": "minutes-style composition block (chair, members, Kammeranwalt, recording clerk) with degrees",
+    "trust": "trust account movements with dates, amounts, client names and trust numbers",
+    "landlord_co": "the landlord as a company with management address and an authorised signatory",
+    "top": "the leased object given as street, door number (Top) and land register reference",
+    "items": "itemised services with dates and the client's name in the line text",
+    "register": "register entries with running numbers, dates of entry and deletions (struck entries)",
+    "zmr": "previous residences listed with registration and de-registration dates",
+}
+# per type: firm (prob), notary letterhead, land refs (lo, hi), court kind and prob, persons, dob prob, nationality prob,
+# id kinds, field probs, words, hard cases
+PROFILE = {
+    "anwaltsschreiben": dict(firm=1, land=(0, 1), land_p=0.25, court=("any", 0.3), persons=(2, 4), dob=0.3, nat=0.15,
+                             oid=("zeichen", "zeichen", "polizze", "schaden", "kunde", "vertrag"), company=0.5, iban=0.4,
+                             svnr=0.03, plate=0.12, words=(280, 650), hard=["wrap", "no_form", "abbr", "caps", "surname_first"]),
+    "schriftsatz_erv": dict(firm=1, land=(0, 2), land_p=0.3, court=("any", 1), persons=(2, 5), dob=0.8, nat=0.25,
+                            oid=("zeichen", "polizze", "vertrag", "schaden"), company=0.5, iban=0.25, svnr=0.1, plate=0.1,
+                            words=(450, 1100), hard=["wrap", "no_form", "abbr", "state_party", "nationality", "caps"]),
+    "kaufvertrag_liegenschaft": dict(firm=1, land=(1, 3), land_p=1, court=(None, 0), persons=(2, 4), dob=0.95, nat=0.2,
+                                     oid=("treuhand", "treuhand", "zeichen"), company=0.3, iban=1, svnr=0, plate=0,
+                                     words=(650, 1400), hard=["wrap", "surname_first", "no_form", "caps"]),
+    "mietvertrag": dict(firm=0.3, land=(0, 1), land_p=0.35, court=("bg", 0.15), persons=(2, 3), dob=0.7, nat=0.2,
+                        oid=("vertrag", "kunde"), company=0.45, iban=1, svnr=0, plate=0.05, words=(450, 1000),
+                        hard=["landlord_co", "top", "wrap", "no_form"]),
+    "honorarnote": dict(firm=1, land=(0, 1), land_p=0.15, court=("any", 0.35), persons=(1, 2), dob=0.05, nat=0,
+                        oid=("klient", "klient", "zeichen"), company=0.4, iban=1, svnr=0, plate=0, words=(220, 550),
+                        hard=["items", "table", "caps"]),
+    "email_verlauf": dict(firm=1, land=(0, 1), land_p=0.2, court=("any", 0.4), persons=(3, 5), dob=0.1, nat=0.05,
+                          oid=("zeichen", "zeichen", "schaden", "klient"), company=0.4, iban=0.2, svnr=0, plate=0.05,
+                          words=(300, 800), hard=["sig", "quoted", "no_form", "abbr"]),
+    "firmenbuchauszug": dict(firm=0, land=(0, 0), land_p=0, court=("register", 1), persons=(2, 5), dob=1, nat=0.1,
+                             oid=(), company=1, iban=0, svnr=0, plate=0, words=(280, 650),
+                             hard=["register", "caps", "surname_first"]),
+    "meldebestaetigung": dict(firm=0, land=(0, 0), land_p=0, court=(None, 0), persons=(1, 2), dob=1, nat=0.6, oid=(),
+                              company=0, iban=0, svnr=0, plate=0, words=(160, 380), hard=["zmr", "caps", "surname_first"]),
+    "polizeibericht": dict(firm=0, land=(0, 0), land_p=0, court=("any", 0.1), persons=(3, 6), dob=0.9, nat=0.4,
+                           oid=("polizze", "schaden", "vin"), company=0.3, iban=0, svnr=0.15, plate=1, words=(420, 950),
+                           hard=["officers", "plates_ids", "nationality", "caps"]),
+    "verlassenschaft": dict(firm=1, notary=True, land=(1, 2), land_p=1, court=("bg", 1), persons=(3, 6), dob=0.9, nat=0.1,
+                            oid=("vertrag", "polizze", "kunde"), company=0.15, iban=1, svnr=0.3, plate=0.1,
+                            words=(450, 1100), hard=["deceased", "heirs_list", "wrap", "surname_first"]),
+    "obdk_disziplinar": dict(firm=0, land=(0, 1), land_p=0.1, court=("disciplinary", 1), persons=(3, 6), dob=0.2, nat=0.05,
+                             oid=("treuhand", "treuhand", "zeichen"), company=0.2, iban=0.3, svnr=0, plate=0,
+                             words=(650, 1500), hard=["minutes", "trust", "abbr"]),
+}
+
+
+def _court(rng, kind):
+    if kind == "bg":
+        b = rng.choice(BEZIRKSGERICHTE)
+        return f"Bezirksgericht {b}", f"BG {b}"
+    if kind == "register":
+        return rng.choice(REGISTER_COURTS)
+    if kind == "disciplinary":
+        return rng.choice(DISCIPLINARY), None
+    return rng.choice(COURTS)
+
+
 def brief(gaz, rng, doc_type, idx, wave):
-    firm = law_firm(gaz, rng)
-    persons = [person(gaz, rng, dob=rng.random() < 0.7) for _ in range(rng.randint(2, 6))]
-    court_full, court_abbr = rng.choice(COURTS)
-    verbatim = []
-    for _ in range(rng.randint(1, 3)):
-        kg_name, _ = gaz.town("AT")
-        verbatim.append(land_ref(rng, f"{rng.randint(1001, 99999):05d}", kg_name, str(rng.randint(1, 3500)),
-                                 gst=f"{rng.randint(1, 1500)}" + (f"/{rng.randint(1, 30)}" if rng.random() < 0.6 else ""),
-                                 court=rng.choice(BEZIRKSGERICHTE)).render())
-    for _ in range(rng.randint(1, 3)):
-        prefix, value = other_identifier(rng, gaz, client=persons[0]["name"].split()[-1])
-        verbatim.append(f"{prefix}{_t('other_identifier', value)}")
-    verbatim.append(f"Tel. {_t('phone_number', phone(rng, ext=True))}")
-    town, pc = gaz.town("AT")
-    verbatim.append(f"{_t('address', f'{pc} {town}')} (postcode and place alone, decision 34)")
+    pr = PROFILE[doc_type]
+    firm = law_firm(gaz, rng, notary=pr.get("notary", False)) if rng.random() < pr["firm"] else None
+    persons = [person(gaz, rng, dob=rng.random() < pr["dob"], nationality_p=pr["nat"])
+               for _ in range(rng.randint(*pr["persons"]))]
+    verbatim, notes = [], []
+    court_full = court_abbr = None
+    kind, cp = pr["court"]
+    if kind and rng.random() < cp:
+        court_full, court_abbr = _court(rng, kind)
+        verbatim.append(_t("court", court_full))
+        if court_abbr:
+            verbatim.append(_t("court", court_abbr))
+            notes.append("Use the court's full name first and the abbreviated form for later mentions.")
+    if rng.random() < pr["land_p"]:
+        land_court = court_full if kind == "bg" and court_full else None
+        for _ in range(rng.randint(max(1, pr["land"][0]), pr["land"][1])):
+            kg_name, _ = gaz.town("AT")
+            verbatim.append(land_ref(rng, f"{rng.randint(1001, 99999):05d}", kg_name, str(rng.randint(1, 3500)),
+                                     gst=f"{rng.randint(1, 1500)}" + (f"/{rng.randint(1, 30)}" if rng.random() < 0.6 else ""),
+                                     court=(land_court or "").replace("Bezirksgericht ", "") or rng.choice(BEZIRKSGERICHTE)).render())
+    if pr["oid"]:
+        for _ in range(rng.randint(1, 3)):
+            prefix, value = other_identifier(rng, gaz, client=persons[0]["name"].split()[-1], kinds=pr["oid"])
+            verbatim.append(f"{prefix}{_t('other_identifier', value)}")
+    if doc_type not in ("firmenbuchauszug", "meldebestaetigung") and rng.random() < 0.8:
+        verbatim.append(f"Tel. {_t('phone_number', phone(rng, ext=True))}")
     if rng.random() < 0.5:
-        verbatim.append(f"{_t('location', rng.choice(ST_PLACES))} (a St. place, never a person)")
-    if doc_type in ("schriftsatz_erv", "obdk_disziplinar", "verlassenschaft") or rng.random() < 0.3:
-        verbatim.append(f"{_t('court', court_full)} / later abbreviated {_t('court', court_abbr)}")
-    if doc_type == "obdk_disziplinar":
-        verbatim.append(_t("court", rng.choice(DISCIPLINARY)))
-    hard = rng.sample([
-        "a party block where names, birth dates and addresses wrap across lines",
-        "a person written surname first ('Huber Maria, geb. 12.03.1960')",
-        "a degree between given name and surname ('Eleonore Dr. Schneider')",
-        "a company named without its legal form after the first mention",
-        "a country as nationality ('StA: Serbien') and as a party ('die Republik Österreich als Beklagte')",
-        "an e-mail signature block with phone, fax and extension",
-        "a table written as text (date | description | amount)",
-        "names and identifiers in ALL CAPS in a heading or stamp",
-        "an organisation abbreviation used alone after it was defined",
-    ], 3)
+        town, pc = gaz.town("AT")
+        verbatim.append(_t("address", f"{pc} {town}"))
+        notes.append("The postcode-and-place string stands alone (e.g. as a place of signature or in a short address).")
+    if rng.random() < 0.4:
+        verbatim.append(_t("location", rng.choice(ST_PLACES)))
+    hard = rng.sample(pr["hard"], min(3, len(pr["hard"])))
+    lo, hi = pr["words"]
     return {
         "file": f"AT_{wave}_{idx:04d}_{doc_type}.md", "doc_type": doc_type, "jurisdiction": "AT", "lang": "de",
-        "description": TYPES[doc_type][1], "target_words": int(min(1600, max(250, rng.lognormvariate(6.3, 0.45)))),
-        "law_firm": {"partners": firm["partners"], "letterhead_verbatim": firm["letterhead"]}
-        if doc_type in ("anwaltsschreiben", "schriftsatz_erv", "honorarnote", "email_verlauf", "kaufvertrag_liegenschaft")
-        else None,
+        "description": TYPES[doc_type][1], "target_words": rng.randint(lo, hi),
+        "law_firm": {"partners": firm["partners"], "letterhead_verbatim": firm["letterhead"]} if firm else None,
         "persons": persons, "court": court_full,
         "company": {"name": f"{transliterate(gaz.last_name('AT'))} {rng.choice(['GmbH', 'Bau GmbH', 'Immobilien GmbH', 'KG', 'e.U.', 'Handels GmbH'])}",
-                    "register": F.fn(rng), "uid": F.uid_at(rng)} if rng.random() < 0.6 else None,
-        "iban": F.iban("AT", rng), "svnr": F.svnr(rng) if rng.random() < 0.3 else None,
-        "plate": F.license_plate("AT", rng) if doc_type in ("polizeibericht",) or rng.random() < 0.1 else None,
-        "verbatim": verbatim, "hard_cases": hard,
+                    "register": F.fn(rng), "uid": F.uid_at(rng)} if rng.random() < pr["company"] else None,
+        "iban": F.iban("AT", rng) if rng.random() < pr["iban"] else None,
+        "svnr": F.svnr(rng) if rng.random() < pr["svnr"] else None,
+        "plate": F.license_plate("AT", rng) if rng.random() < pr["plate"] else None,
+        "verbatim": verbatim, "notes": notes, "hard_cases": [HARD[h] for h in hard],
     }
 
 

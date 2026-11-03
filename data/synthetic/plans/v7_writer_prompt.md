@@ -8,19 +8,25 @@ brief's "file" field.
    decisions, especially 31-41 (country, date_of_birth, postcode + place as address, phone extensions inside the span,
    other_identifier kinds, St. places, land register references, text-layer splits, name forms). Roles: you may write
    [[judge|…]] and [[lawyer|…]] where they clearly apply, otherwise [[person|…]].
-2. Get your briefs: `grep '"batch": "{BATCH}"' data/synthetic/plans/v7_pilot.jsonl` (15 JSON lines).
-3. Write each document as the "description" says, about target_words long, with the front matter of GENERATION.md
+2. Get your briefs: `grep '"batch": "{BATCH}"' {PLAN}` (one JSON line per brief).
+3. Write each document as the "description" says, at least target_words long (check with `wc -w`; extend short
+   drafts with type-typical content: more correspondence, more itemised services, more facts and reasoning, fuller
+   register entries — never with filler), with the front matter of GENERATION.md
    (doc_type = the brief's doc_type, jurisdiction: AT, lang: de). Make it look like the real thing: letterheads,
    reference lines, party blocks, tables as text, signature blocks, page headers. Use the brief's cast:
    - "letterhead_verbatim" (when given) is copied EXACTLY at the top, tags included, line breaks included.
-   - Every string in "verbatim" is copied EXACTLY somewhere natural in the text, tags included (drop only the
-     explanation in parentheses after it). Do not normalise their spelling or order: the odd forms are the point.
+   - Every string in "verbatim" is copied EXACTLY somewhere natural in the text, tags included. Do not
+     normalise their spelling or order: the odd forms are the point.
+   - "notes" (when given) say how to place some verbatim strings; follow them, never copy them into the text.
    - persons: use the name as given; when "date_of_birth" is given write birth_cue + date_of_birth and tag the date as
      [[date_of_birth|…]] (not date); when "degree_position" is "between", write the degree between given name and
-     surname inside the person span ("[[person|Eleonore Dr. Schneider]]"); "nationality" is a [[country|…]].
+     surname inside the one person span (given name, degree, surname); "nationality" is a [[country|…]].
    - court, company (name, FN as company_register_number, UID as tax_id), iban, svnr, plate as far as the document
      type plausibly contains them.
-   - Every hard case listed in the brief must occur.
+   - Every hard case listed in the brief must occur, written with the brief's own cast (no names of your own
+     invention for them, no example names from any instruction).
+   - Fields that are null are absent from the document; do not add courts, land register references, social
+     security numbers or plates the brief does not give.
    Tag every entity occurrence: every repeat, every name in letterheads, signatures, e-mail headers, tables and capitals.
    Invented persons and companies only; real courts, authorities, banks and places are fine.
 4. After every 3 files run
