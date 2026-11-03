@@ -31,7 +31,7 @@ Begründung
 
 I. Verfahrensgang
 
-Die Kammeranwältin hat die Anzeige am [[date|2. Juni 2026]] erstattet. Die Anzeige stützt sich auf die Beschwerden der Mandantinnen [[person|Adamantini Raptis]] und [[person|Ziska Kuster]]. Die Beschuldigte betreibt eine Kanzlei in Linz, die im Verzeichnis der [[organization|Kanzlei Schoder & Partner]] ([[organization|KSP]]) geführt wird.
+Die Kammeranwältin hat die Anzeige am [[date|2. Juni 2026]] erstattet. Die Anzeige stützt sich auf die Beschwerden der Mandantinnen [[person|Adamantini Raptis]] und [[person|Ziska Kuster]]. Die Beschuldigte betreibt eine Kanzlei in [[location|Linz]], die im Verzeichnis der [[organization|Kanzlei Schoder & Partner]] ([[organization|KSP]]) geführt wird. Die Beschuldigte ist unter Tel. [[phone_number|07242/5861313 Durchwahl 97]] erreichbar.
 
 Die Beschuldigte ist tschechische Staatsangehörige von [[country|Tschechien]], hat ihre Ausbildung aber in Österreich abgeschlossen. Sie ist seit dem Jahr 2011 als Rechtsanwältin in der Oberösterreichischen Rechtsanwaltskammer eingetragen.
 
@@ -39,7 +39,7 @@ II. Sachverhalt
 
 Die Mandantin [[person|Adamantini Raptis]] übergab der Beschuldigten am [[date|3. Mai 2025]] einen Betrag von EUR 9.200,00 zur Verwahrung im Zusammenhang mit einer Erbschaftsangelegenheit. Die Eintragung erfolgte unter der Treuhandbuch-Nr. [[other_identifier|2023/285]].
 
-Ein Betrag von EUR 6.000,00 sollte am [[date|12. Juni 2025]] an eine Notarin weitergeleitet werden. Diese Zahlung unterblieb. Erst am [[date|18. Juli 2025]] wurde der Betrag zur Gänze überwiesen, nachdem die Mandantin die Beschuldigte mehrfach gemahnt hatte.
+Die [[organization|KSP]] war verpflichtet, die Gelder aus der Erbschaftsangelegenheit getrennt zu verwahren. Ein Betrag von EUR 6.000,00 sollte am [[date|12. Juni 2025]] an eine Notarin weitergeleitet werden. Diese Zahlung unterblieb. Erst am [[date|18. Juli 2025]] wurde der Betrag zur Gänze überwiesen, nachdem die Mandantin die Beschuldigte mehrfach gemahnt hatte.
 
 Im Verfahren TH-Nr. [[other_identifier|2025/139]] verwahrte die Beschuldigte für die Mandantin [[person|Ziska Kuster]] einen Betrag von EUR 3.100,00. Diese Gelder wurden bis zum Zeitpunkt der Anzeige nicht abgerechnet.
 

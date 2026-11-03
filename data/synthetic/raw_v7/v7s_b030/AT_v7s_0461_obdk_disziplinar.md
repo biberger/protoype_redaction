@@ -58,7 +58,7 @@ II. Beweiswürdigung
 
 Der Senat stützt sich auf die Anzeige des Kammeranwalts, die Treuhandbücher beider Verfahren und die Angaben der Mandanten. Der Beschuldigte hat die Einzahlungen und die Auszahlungen nicht bestritten, wohl aber die Entnahme vom [[date|22.08.2019]]. Er hat vorgebracht, er habe das Geld als Vorschuss auf eine spätere Honorarforderung verbucht, die zwar nicht schriftlich vereinbart, aber mündlich besprochen gewesen sei.
 
-Diese Behauptung ist nicht glaubhaft. Der Mandant [[person|Botyu Schumkow]] hat ausgesagt, er habe nie einer Honorarzahlung aus den Treuhandgeldern zugestimmt. Die Schriftführerin [[person|Matthissa Serecki]] hat in ihrer Funktion als Kanzleimitarbeiterin des Beschuldigten bestätigt, dass ein Honorar im Jahr 2019 nicht abgerechnet wurde.
+Diese Behauptung ist nicht glaubhaft. Der Mandant [[person|Botyu Schumkow]] hat ausgesagt, er habe nie einer Honorarzahlung aus den Treuhandgeldern zugestimmt. Die Kanzleimitarbeiterin [[person|Jasmin Hohenwarter]] hat als Zeugin bestätigt, dass ein Honorar im Jahr 2019 nicht abgerechnet wurde. Sie war im Zeitraum der Entnahme für die Buchhaltung zuständig und hat die Entnahme am [[date|22.08.2019]] selbst auf dem Bankbeleg vermerkt.
 
 Die Mandantin [[person|Bertine Kisch]] hat angegeben, dass sie den Restbetrag von EUR 4.500,00 mehrfach eingefordert hat, jedoch keine Antwort erhielt. Der Senat hält diese Angabe für glaubwürdig, weil der Beschuldigte selbst keine schriftliche Abrechnung vorgelegt hat.
 

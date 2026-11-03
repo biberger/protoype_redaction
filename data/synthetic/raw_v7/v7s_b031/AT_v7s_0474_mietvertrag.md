@@ -68,6 +68,40 @@ Die Mieter haben die Wohnung pfleglich zu behandeln, Schäden unverzüglich zu m
 
 (3) Mit diesem Vertrag ist die Hausordnung vereinbart, die den Mietern übergeben wurde.
 
+**10. Übergabe und Schlüssel**
+
+(1) Die Wohnung wird am [[date|1. Juni 2024]] übergeben. Herr [[person|Stampfer]] und Frau [[person|Brauneis]] haben die Übergabe an diesem Tag gemeinsam mit dem Vermieter durchgeführt; über den Zustand wurde ein Übergabeprotokoll erstellt.
+
+(2) Die Mieter erhalten vier Wohnungsschlüssel, zwei Schlüssel für den Keller und eine Fernbedienung für die Tiefgarage. Verlorene Schlüssel sind dem Vermieter unverzüglich zu melden; die Kosten der Neuanfertigung trägt der Mieter.
+
+**11. Tierhaltung und Rauchen**
+
+(1) Die Haltung von Kleintieren ist zulässig. Die Haltung größerer Hunde bedarf der Zustimmung des Vermieters.
+
+(2) Das Rauchen ist in den Allgemeinflächen, im Stiegenhaus und in der Tiefgarage untersagt. In der Wohnung ist das Rauchen zulässig, sofern keine Schäden entstehen.
+
+**12. Betretungsrecht**
+
+Der Vermieter darf die Wohnung nach vorheriger Ankündigung von mindestens drei Werktagen betreten, soweit dies zur Überprüfung der Heizungs- und Wasseranlagen oder zur Durchführung dringender Arbeiten erforderlich ist.
+
+**13. Hausordnung**
+
+Die Hausordnung regelt im Einzelnen:
+
+(a) Das Stiegenhaus, der Lift und der Hof sind freizuhalten. Kinderwägen und Fahrräder dürfen nur im dafür vorgesehenen Abstellraum untergebracht werden.
+
+(b) Die Mülltrennung ist einzuhalten. Sperrmüll ist beim Entsorgungshof abzugeben und darf nicht in den Allgemeinflächen gelagert werden.
+
+(c) Die Ruhezeiten gelten werktags von 22:00 Uhr bis 06:00 Uhr, an Sonn- und Feiertagen ganztägig mit Ausnahme der Zeit von 11:00 bis 13:00 Uhr.
+
+(d) Balkone und Loggien dürfen nicht als Lagerfläche verwendet werden. Das Ausschütteln von Teppichen und Betten aus den Fenstern ist untersagt.
+
+(e) Gemeinschaftliche Waschküchen sind nach der Benützungsordnung zu verwenden; die Reinigung erfolgt durch die Mieter in der dafür vorgesehenen Woche.
+
+**14. Mitteilungspflichten**
+
+Die Mieter teilen dem Vermieter jede Änderung der Anschrift, des Familienstandes oder der Zahl der in der Wohnung lebenden Personen innerhalb von vier Wochen schriftlich mit. Eine Anmeldung von Nebenwohnsitzen ist ohne Zustimmung nicht zulässig.
+
 Ausgefertigt in drei Gleichschriften
 
 [[address|5061 Elsbethen]], am [[date|20. Mai 2024]]

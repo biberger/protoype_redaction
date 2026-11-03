@@ -29,6 +29,8 @@ Sehr geehrte Frau [[person|Dipl.-Ing. Schäffler]],
 
 gemäß Ihrem Auftrag vom [[date|28. August 2026]] erlaube ich mir, für die anwaltliche Vertretung in der Angelegenheit der Verlängerung des Bestandvertrages über das Ferienhaus in Hirschegg folgende Leistungen in Rechnung zu stellen. Die Honorierung erfolgt nach den Tarifposten 3 und 4 des [[legal_norm|RATG]]; die Barauslagen sind ohne Aufschlag weiterverrechnet.
 
+Wie besprochen, haben Sie und Herr [[person|Barutçuoğlu]] die Verlängerung um drei Jahre gewünscht. Der Vermieter hat die Verlängerung mit einer geänderten Kautionsregelung angeboten, die ich in der Leistungsaufstellung unter den Positionen vom [[date|16.09.2026]] und vom [[date|07.10.2026]] berücksichtigt habe. Für die Bearbeitung der Betriebskostenabrechnung 2025 fällt ein gesonderter Stundensatz an, der nach Zeitaufwand verrechnet wurde.
+
 Leistungsaufstellung:
 
 Datum | Leistung | Betrag (EUR)
@@ -38,11 +40,16 @@ Datum | Leistung | Betrag (EUR)
 [[date|23.09.2026]] | Telefonat mit [[person|Barutçuoğlu]] wegen der Kaution | 95,00
 [[date|07.10.2026]] | Entwurf der Vertragsergänzung und Abstimmung mit [[person|Schäffler]] | 420,00
 [[date|13.10.2026]] | Überprüfung der Betriebskostenabrechnung 2025 | 150,00
+[[date|21.10.2026]] | Prüfung der Mietzinsanpassung und Stellungnahme an [[person|Schäffler]] | 175,00
 Barauslagen (Grundbuchsauszug, Gerichtsgebühren) | | 62,40
 
-Summe netto: EUR 1.462,40
-zuzüglich 20 % USt: EUR 292,48
-Gesamtbetrag: EUR 1.754,88
+Die Teilzahlung vom [[date|30.06.2026]] in Höhe von EUR 500,00 zu Honorarnote 2026/0233 ist in obiger Aufstellung nicht mehr enthalten und wird gesondert gutgeschrieben.
+
+Summe netto: EUR 1.637,40
+zuzüglich 20 % USt: EUR 327,48
+Gesamtbetrag: EUR 1.964,88
+abzüglich Teilzahlung: EUR 500,00
+Offener Betrag: EUR 1.464,88
 
 Die Zahlung ist binnen 14 Tagen ab Rechnungsdatum auf das Konto der Kanzlei mit der IBAN [[bank_account|AT73 8582 6875 0916 1369]] zu leisten. Bitte geben Sie bei der Überweisung die Honorarnote-Nummer und die Klientennummer [[other_identifier|67579]] an.
 
