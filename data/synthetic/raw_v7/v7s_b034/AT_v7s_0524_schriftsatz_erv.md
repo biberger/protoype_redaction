@@ -47,7 +47,7 @@ Die Haftpflichtversicherung der [[organization|KBG]] ist unter der Polizze [[oth
 
 3. Rechtliche Ausführungen
 
-Die Beklagte hat den Werkvertrag nicht vollständig erfüllt. Nach [[legal_norm|§ 1167 ABGB]] ist der Unternehmer verpflichtet, das Werk vertragsgemäß herzustellen. Die Klägerin hat einen Anspruch auf Rückforderung der Vorleistung für die nicht erbrachten Arbeiten sowie auf Schadenersatz nach [[legal_norm|§ 1295 ABGB]].
+Die [[organization|Kautsky Bau]] hat den Werkvertrag nicht vollständig erfüllt. Nach [[legal_norm|§ 1167 ABGB]] ist der Unternehmer verpflichtet, das Werk vertragsgemäß herzustellen. Die Klägerin hat einen Anspruch auf Rückforderung der Vorleistung für die nicht erbrachten Arbeiten sowie auf Schadenersatz nach [[legal_norm|§ 1295 ABGB]].
 
 Die Klägerin ist berechtigt, die Restzahlung zu verweigern, soweit die Leistung nicht erbracht wurde. Die Verjährungsfrist ist nicht abgelaufen.
 

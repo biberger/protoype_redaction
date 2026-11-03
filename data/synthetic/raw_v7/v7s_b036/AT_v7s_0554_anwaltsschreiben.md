@@ -35,6 +35,12 @@ Die Mitarbeiterin [[person|Antonie Fontana]] hat den Unfallhergang am Telefon ge
 
 Die [[organization|AVA]] hat die Leistung mit Schreiben vom [[date|02.03.2026]] verweigert und auf eine verspätete Meldung verwiesen. Diese Auffassung teilen wir nicht. Die Meldung erfolgte innerhalb von drei Werktagen, wie der Eingangsstempel belegt.
 
+Der Unfallhergang ist durch die Angaben des Polizeibeamten im Aufnahmeprotokoll belegt. Danach wurde der Lastwagen von einem nicht ermittelten Fahrzeug beim Überholen gestreift, das die Fahrbahn verließ, ohne anzuhalten. Die Polizeiinspektion hat den Vorfall unter der Geschäftszahl aufgenommen, die Ermittlungen sind jedoch noch nicht abgeschlossen. Herr [[person|Boboc]] hat den Vorfall unmittelbar nach dem Ereignis telefonisch der Disposition gemeldet, die [[person|Fontana]] entgegengenommen hat.
+
+Der Schaden an der Ladefläche und an der Seitenwand ist durch das Gutachten eines Kfz-Sachverständigen dokumentiert. Die Reparaturkosten sind mit EUR 14.250,00 netto veranschlagt. Ein Wertminderungsbetrag von EUR 1.200,00 wird ergänzend geltend gemacht, weil das Fahrzeug einen Unfallschaden aufweist. Die Gesamtforderung beläuft sich daher auf EUR 15.450,00.
+
+Die [[organization|Kolb]] hat die Mietwagenkosten für die Dauer der Reparatur getragen; diese Kosten sind ebenfalls Teil des Schadens und werden gesondert belegt.
+
 Wir fordern Sie auf, die Leistung bis spätestens [[date|23.03.2026]] anzuerkennen. Für Rückfragen steht Ihnen unsere Kanzlei unter Tel. [[phone_number|+43 662 121 67 71 DW 574]] zur Verfügung.
 
 Mit freundlichen Grüßen

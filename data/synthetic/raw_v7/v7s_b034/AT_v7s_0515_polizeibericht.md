@@ -21,7 +21,7 @@ Lenker 1: [[person|Maurice Chorherr]], geboren am [[date_of_birth|1961-01-27]], 
 
 Lenker 2: [[person|Dmitriy Chrystytsch]], geb [[date_of_birth|25. Dezember 1981]]. Herr [[person|Chrystytsch]] gab an, dass sein Fahrzeug vor der Ampel angehalten habe, als der Zusammenstoß erfolgte.
 
-Mitfahrer im Fahrzeug 1: [[person|Oliver Meindl]], Geburtsdatum: [[date_of_birth|24. Juni 1956]], StA: [[country|Rumänien]]. Herr [[person|Meindl]] saß auf dem Rücksitz und klagte über Nackenschmerzen, die er an der Unfallstelle angab.
+Mitfahrer im Fahrzeug 1: [[person|Oliver Meindl]], Geburtsdatum: [[date_of_birth|24. Juni 1956]], StA: [[country|Rumänien]]. Herr [[person|Meindl]] saß auf dem Rücksitz und klagte über Nackenschmerzen, die er an der Unfallstelle angab. Er legte seinen Reisepass Nr. [[id_document_number|X4885323]] vor.
 
 Mitfahrer im Fahrzeug 2: [[person|Konstantinos Skarlatos]], geb [[date_of_birth|17.11.1998]]. Herr [[person|Skarlatos]] blieb am Unfallort und gab an, den Hergang nicht gesehen zu haben.
 

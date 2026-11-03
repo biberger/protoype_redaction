@@ -23,7 +23,8 @@ I. VERKÄUFER
 
 [[person|Sernin Niederreiter]],
 *[[date_of_birth|1993-07-04]],
-wohnhaft in [[address|Gasthausgasse 2, 3212 Kirchberg an der Pielach]],
+wohnhaft in [[address|Gasthausgasse 2,
+3212 Kirchberg an der Pielach]],
 
 und
 

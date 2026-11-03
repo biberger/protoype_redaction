@@ -25,7 +25,8 @@ I. VERTRAGSPARTEIEN
 
 [[person|Archibald Kittinger]],
 *[[date_of_birth|1982-02-17]],
-wohnhaft in [[address|Lerchenfeldweg 6, 3931 Schweiggers]],
+wohnhaft in [[address|Lerchenfeldweg 6,
+3931 Schweiggers]],
 Tel. [[phone_number|+43 2742 846 77 90-2]]
 
 und

@@ -78,7 +78,7 @@ Am [[date|12.03.2026]] um 14:03 schrieb [[lawyer|Mag. Kräftner]]:
 
 Sehr geehrte Frau [[person|David]],
 
-wir haben Ihr Schreiben vom [[date|11.03.2026]] geprüft. Ein Vergleich über EUR 6.400,00 ist für Herrn [[person|Nachbaur]] nicht annehmbar. Die Sachverständige bestätigt den Totalschaden, und die Wiederbeschaffung ist Teil des Schadenersatzes. Wir fordern die Zahlung von EUR 9.150,00 bis zum [[date|27. März 2026]] und behalten uns die Klage beim [[court|Bezirksgericht Deutschlandsberg]] vor.
+wir haben Ihr Schreiben vom [[date|11.03.2026]] geprüft. Ein Vergleich über EUR 6.400,00 ist für Herrn [[person|Nachbaur]] nicht annehmbar. Die Sachverständige bestätigt den Totalschaden, und die Wiederbeschaffung ist Teil des Schadenersatzes. Die Forderung gegen [[organization|Mitter]] bleibt in dieser Höhe aufrecht. Wir fordern die Zahlung von EUR 9.150,00 bis zum [[date|27. März 2026]] und behalten uns die Klage beim [[court|Bezirksgericht Deutschlandsberg]] vor.
 
 Zum Einwand des Blinkers halten wir fest, dass der Mandant den Vorfall schriftlich bestätigt hat und die Werkstattrechnung über die Reparatur des Blinkers im Anhang vorliegt. Die Mietwagenkosten für den Zeitraum bis zur Ersatzbeschaffung betragen laut Rechnung EUR 1.240,00 und sind in der Forderung nicht enthalten. Wir ersuchen um Zahlung bis zum genannten Termin, andernfalls wird ohne weitere Ankündigung Klage erhoben.
 

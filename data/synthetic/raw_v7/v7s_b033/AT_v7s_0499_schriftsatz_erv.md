@@ -20,7 +20,9 @@ KLAGE
 
 Streitwert: EUR 14.800,00
 
-Kläger: [[person|Fridolin Heller]], wohnhaft in [[address|Pfarrgasse 7, 2464 Göttlesbrunn]], vertreten durch die Rechtsanwälte [[person|Hönigschmid]] und [[person|Seiler]], [[address|Lehmweg 23, 6330 Ebbs]]
+Kläger: [[person|Fridolin
+Heller]], wohnhaft in [[address|Pfarrgasse 7,
+2464 Göttlesbrunn]], vertreten durch die Rechtsanwälte [[person|Hönigschmid]] und [[person|Seiler]], [[address|Lehmweg 23, 6330 Ebbs]]
 
 Beklagte: [[organization|Klinger GmbH]], [[company_register_number|FN 330532b]], UID [[tax_id|ATU08169505]], mit dem Sitz in [[location|Sankt Peter am Hart]]
 

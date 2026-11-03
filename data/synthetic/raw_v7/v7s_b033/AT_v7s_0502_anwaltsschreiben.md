@@ -25,7 +25,8 @@ BETREFF: FORDERUNG AUS DEM BAUVERTRAG VOM [[date|14. APRIL 2025]] – MANDANT [[
 
 Sehr geehrte Frau [[person|Janata]]!
 
-Wir zeigen an, dass uns Herr [[person|Torsten Werba]], geboren am [[date_of_birth|09.01.1958]], in der Angelegenheit des Bauvertrages mit der [[organization|MB]] vertreten. Die Wohnhausanlage, die die [[organization|MB]] im Auftrag unseres Mandanten errichtet hat, befindet sich auf dem Grundstück in [[location|St. Andrä]].
+Wir zeigen an, dass uns Herr [[person|Torsten
+Werba]], geboren am [[date_of_birth|09.01.1958]], in der Angelegenheit des Bauvertrages mit der [[organization|MB]] vertreten. Die Wohnhausanlage, die die [[organization|MB]] im Auftrag unseres Mandanten errichtet hat, befindet sich auf dem Grundstück in [[location|St. Andrä]].
 
 Mit dem Bauvertrag vom [[date|14. April 2025]] hat sich die [[organization|MB]] zur Herstellung der Dachkonstruktion und der Wärmedämmung verpflichtet. Die Arbeiten wurden am [[date|30. Juni 2025]] als abgeschlossen übergeben. Bereits am [[date|18. Juli 2025]] wurden bei der Begehung durch den Sachverständigen Feuchteschäden an der Attika festgestellt.
 

@@ -28,7 +28,8 @@ Der Erblasser [[person|Hammerschmidt]] ist im Sterbebuch unter dem Datum des Tod
 
 Nach dem Testament und der gesetzlichen Erbfolge ergibt sich folgender Stand:
 
-a) [[person|Monja Hampel]], *[[date_of_birth|16.09.1995]], Adresse [[address|Dorfstraße 17, 4190 Bad Leonfelden]], Erbin zu 3/4 aus dem Testament
+a) [[person|Monja
+Hampel]], *[[date_of_birth|16.09.1995]], Adresse [[address|Dorfstraße 17, 4190 Bad Leonfelden]], Erbin zu 3/4 aus dem Testament
 b) [[person|Györgyi Ferge]], StA: [[country|Polen]], Adresse [[address|Lindenweg 8, 4201 Gramastetten]], Legatarin, Vermächtnis einer Eigentumswohnung
 c) [[person|Onut Manolache]], geb [[date_of_birth|11.10.1942]], Adresse [[address|Bahnhofplatz 2, 4240 Freistadt]], Legatar, Vermächtnis eines Kraftfahrzeugs
 

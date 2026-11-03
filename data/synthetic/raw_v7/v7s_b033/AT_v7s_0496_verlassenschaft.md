@@ -28,7 +28,9 @@ Die Erblasserin war zuletzt wohnhaft in [[address|Bahnhofstraße 9, 2130 Mistelb
 
 Zu den Erbantrittserklärungen haben sich folgende Personen gemeldet:
 
-1. [[person|Prader Maxie]], Geburtsdatum: [[date_of_birth|19.03.1946]], wohnhaft in [[address|Hauptstraße 14, 2100 Korneuburg]], Erbquote 1/2
+1. [[person|Prader
+Maxie]], Geburtsdatum: [[date_of_birth|19.03.1946]], wohnhaft in [[address|Hauptstraße 14,
+2100 Korneuburg]], Erbquote 1/2
 2. [[person|Januszewska Lilia]], *[[date_of_birth|1960-07-02]], wohnhaft in [[address|Ringstraße 33/4, 2320 Schwechat]], Erbquote 1/2
 
 Beide Erbantrittserklärungen sind fristgerecht eingelangt. [[person|Prader]] hat die Erbantrittserklärung persönlich unterfertigt, [[person|Januszewska]] durch ihre Bevollmächtigte.

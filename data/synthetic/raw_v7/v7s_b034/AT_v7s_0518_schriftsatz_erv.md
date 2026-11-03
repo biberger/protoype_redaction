@@ -28,7 +28,7 @@ Seiringer]], geb. [[date_of_birth|23. März
 1992]], wohnhaft in [[address|Kirchengasse 9/3, 2604 Theresienfeld]],
 vertreten durch [[lawyer|Mag. Dr. Rembert Lochner]], Rechtsanwalt in [[location|Sankt Georgen am Walde]], ERV-Code [[other_identifier|P797092]]
 
-Beklagte: [[organization|Metternich Immobilien GmbH]], [[company_register_number|FN 456856y]], UID-Nr. [[tax_id|ATU27212780]], Sitz in [[location|Wien]]
+Beklagte: [[organization|Metternich Immobilien GmbH]], [[company_register_number|FN 456856y]], UID-Nr. [[tax_id|ATU27212780]], Sitz in [[location|Wien]] (in der Folge: [[organization|MI]])
 
 Streitwert: EUR 14.200,00
 Zuständigkeit: sachlich gemäß [[legal_norm|§ 49 Abs 2 Z 5 JN]]; das [[court|BG Hernals]] ist als Gericht des Wohnsitzes der Beklagten zuständig
@@ -72,7 +72,7 @@ Die Klägerin war während der Dauer der Reparatur nur eingeschränkt nutzungsf�
 
 3. Rechtliche Ausführungen
 
-Die Beklagte hat den Wasserschaden nicht rechtzeitig behoben und ist daher gemäß [[legal_norm|§ 1096 ABGB]] iVm [[legal_norm|§ 3 Abs 1 MRG]] zur Erhaltung verpflichtet. Die Verzögerung ist der Beklagten zuzurechnen, da sie die Reparatur trotz Kenntnis erst nach über vier Wochen veranlasste.
+Die [[organization|MI]] hat den Wasserschaden nicht rechtzeitig behoben und ist daher gemäß [[legal_norm|§ 1096 ABGB]] iVm [[legal_norm|§ 3 Abs 1 MRG]] zur Erhaltung verpflichtet. Die Verzögerung ist der Beklagten zuzurechnen, da sie die Reparatur trotz Kenntnis erst nach über vier Wochen veranlasste.
 
 Die Klägerin hat einen Anspruch auf Minderung des Mietzinses nach [[legal_norm|§ 1096 ABGB]]. Ein Ersatz für den Hausrat ergibt sich aus [[legal_norm|§ 1295 ABGB]] iVm [[legal_norm|§ 1311 ABGB]].
 
