@@ -124,6 +124,14 @@ XI. Besondere Vereinbarungen
 
 31. Die Vertragsparteien vereinbaren, dass die Verkäuferin den Käufern bei der Besorgung der Energieausweise und der Unterlagen für die Finanzierung behilflich ist. Die Kosten dafür trägt die Verkäuferin bis zu einem Betrag von EUR 800,00.
 
+32. Die Liegenschaft umfasst eine Gartenfläche von rund 400 m², die als Nutzgarten verwendet wird. Die Käufer übernehmen die vorhandenen Obstbäume; eine Haftung der Verkäuferin für deren Zustand ist ausgeschlossen.
+
+33. Die Verkäuferin übergibt den Käufern eine Kopie des Vermessungsurkundes und des Lageplans. Abweichungen zwischen dem Lageplan und dem tatsächlichen Grenzverlauf gehen nicht zu Lasten der Verkäuferin, sofern sie nicht arglistig verschwiegen wurden.
+
+34. Die Käufer erklären, dass sie die Liegenschaft nicht für gewerbliche Zwecke erwerben. Eine Nutzung als Ferienwohnung ist nach den Bestimmungen der Gemeinde nicht zulässig und wird von den Käufern nicht beabsichtigt.
+
+35. Diese Vereinbarungen gelten zusätzlich zu den Bestimmungen der Abschnitte I bis X. Bei Widersprüchen gehen die besonderen Vereinbarungen dieses Abschnitts vor.
+
 [[location|Liebenfels]], am [[date|03.03.2026]]
 
 Verkäuferin:

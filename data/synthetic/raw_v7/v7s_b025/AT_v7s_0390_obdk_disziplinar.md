@@ -73,6 +73,10 @@ IV. Rechtliche Beurteilung
 
 3. Die Strafbemessung der ersten Instanz ist nicht zu beanstanden. Die Geldbuße von EUR 7.000,00 berücksichtigt die Dauer der Verwahrung und die Zahl der betroffenen Vorgänge. Mildernd war die bisherige Unbescholtenheit des Beschuldigten.
 
+4. Die Einwendung der Verjährung, die der Beschuldigte in der Berufungsverhandlung erhoben hat, geht fehl. Die Verstöße wurden im Jahr 2024 abgeschlossen, die Anzeige der Kammer ist innerhalb der Frist erfolgt. Auch die Behauptung, die Beschwerde der Mandantin sei verspätet eingebracht worden, trifft nicht zu, weil die Mandantin die Frist von einem Jahr ab Kenntnis gewahrt hat.
+
+5. Die Mitwirkung des Beschuldigten an der Aufklärung war unzureichend. Er hat die verlangten Zahlungsbelege erst nach einer Erinnerung des Senats vorgelegt und dabei nur einen Teil der angeforderten Unterlagen übermittelt.
+
 V. Kosten
 
 Die Kostenentscheidung beruht auf [[legal_norm|§ 52 RAO]]. Der Beschuldigte hat die Kosten des Berufungsverfahrens in der Höhe von EUR 900,00 zu tragen.

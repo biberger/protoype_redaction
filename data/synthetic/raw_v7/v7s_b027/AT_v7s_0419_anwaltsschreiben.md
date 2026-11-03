@@ -47,6 +47,8 @@ Die Verantwortung der [[organization|Wander Bau]] für den Schaden ergibt sich a
 
 Der Mandant hat die Rechnung der Sanierungsfirma vorab bezahlt und verlangt nun Ersatz. Ein Eigenanteil des Mandanten besteht nicht; eine Mitverschuldung ist nach den bisherigen Feststellungen nicht erkennbar, da die Leitung für den Mandanten nicht zugänglich war.
 
+Die Sanierungsfirma hat die Trocknung am [[date|20.10.2025]] abgeschlossen; der Mandant hat die Rechnung daher unmittelbar nach Abschluss der Arbeiten bezahlt. Die Ersatzunterbringung für die Dauer von sechs Wochen ist durch Mietquittungen belegt, die Sie auf Wunsch einsehen können.
+
 Für allfällige Rückfragen stehen wir gerne zur Verfügung. Wir ersuchen um Bestätigung des Eingangs dieses Schreibens.
 
 Mit freundlichen Grüßen

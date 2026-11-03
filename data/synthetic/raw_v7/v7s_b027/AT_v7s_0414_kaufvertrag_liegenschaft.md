@@ -98,6 +98,10 @@ VII. Ergänzende Bestimmungen
 
 26. Die Käufer erklären, dass sie die Verkäuferin über den Stand ihrer Finanzierung laufend informieren. Verzögerungen der Finanzierung sind der Verkäuferin innerhalb von vierzehn Tagen mitzuteilen.
 
+27. Die Verkäuferin erklärt, dass die Liegenschaft seit dem Jahr 1994 im Familienbesitz steht und keine Dienstbarkeiten bestehen, außer dem bereits erwähnten Wasserbezugsrecht. Eine Vermietung an Dritte besteht nicht.
+
+28. Die Vertragsparteien halten fest, dass die Kaufpreisvereinbarung auf dem Gutachten eines gerichtlich beeideten Sachverständigen beruht. Der Kaufpreis ist daher auch dann zu zahlen, wenn sich die Lage des Wohnhauses nach dem Ergebnis einer späteren Vermessung geringfügig ändert.
+
 [[location|Bartholomäberg]], am [[date|10.02.2026]]
 
 Verkäuferin:

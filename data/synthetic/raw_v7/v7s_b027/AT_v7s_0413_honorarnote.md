@@ -45,6 +45,10 @@ Gesamtbetrag                                                               2.055
 
 Die Honorare wurden nach dem [[legal_norm|RATG]] ermittelt. Die Auslagen sind in der tatsächlich angefallenen Höhe angesetzt. Die Umsatzsteuer ist gesondert ausgewiesen und entspricht dem Steuersatz von zwanzig Prozent für Rechtsberatung.
 
+Der Mietvertrag für das Geschäftslokal sieht eine Laufzeit von fünf Jahren mit einer Option auf Verlängerung um weitere drei Jahre vor. Die Mietzinsvereinbarung wurde in der Verhandlung mit der [[organization|Hausverwaltung Hollerer]] geklärt; die Ablöse von EUR 18.000,00 ist nicht Gegenstand dieser Honorarnote, sondern wurde unmittelbar zwischen den Parteien abgerechnet.
+
+Frau [[person|Slezáková]] hat unsere Kanzlei am [[date|03.02.2026]] telefonisch ersucht, die Übergabe um zwei Wochen zu verschieben. Diesem Wunsch wurde nach Rücksprache mit Frau [[person|Summereder]] entsprochen; die dadurch entstandenen Mehrkosten sind in der Position vom [[date|17.02.2026]] enthalten.
+
 Die Vertretung in der Angelegenheit ist mit der Übergabe des Geschäftslokals an [[person|Danusa Slezáková]] abgeschlossen. Eine weitere Verrechnung erfolgt nur nach gesonderter Beauftragung.
 
 Die Zahlung ist binnen 14 Tagen auf das Konto IBAN [[bank_account|AT49 6594 3911 3662 5298]] zu leisten. Bei Zahlungsverzug werden Verzugszinsen nach [[legal_norm|§ 1333 ABGB]] berechnet. Bitte geben Sie bei der Überweisung die GZ [[other_identifier|R-RSummereder/Schima]] an.

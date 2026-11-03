@@ -96,7 +96,11 @@ X. Übergabe und Schlüssel
 
 27. Die Vermieterin haftet für Schäden, die auf eine mangelhafte Wasserleitung oder auf Feuchtigkeit aus dem allgemeinen Teil des Hauses zurückzuführen sind. Die Mieterin hat solche Schäden unverzüglich anzuzeigen, widrigenfalls sie für daraus entstehende Folgeschäden selbst haftet.
 
-28. Dieser Vertrag wird in zwei Ausfertigungen errichtet, von denen je eine für die Vermieterin und für die Mieterin bestimmt ist. Eine weitere Ausfertigung erhält die Mitmieterin.
+28. 29. Die Vermieterin verpflichtet sich, bei Verkauf des Hauses das Mietverhältnis zu den gleichen Bedingungen auf den Erwerber zu überbinden. Die Mieterin ist über einen solchen Verkauf schriftlich zu informieren.
+
+30. Die Mieterin nimmt zur Kenntnis, dass die Vermieterin den Hauptmietzins nach [[legal_norm|§ 16 MRG]] nur im gesetzlich zulässigen Ausmaß erhöhen darf. Eine Vereinbarung, die dieser Bestimmung widerspricht, ist unwirksam.
+
+Dieser Vertrag wird in zwei Ausfertigungen errichtet, von denen je eine für die Vermieterin und für die Mieterin bestimmt ist. Eine weitere Ausfertigung erhält die Mitmieterin.
 
 [[location|Voitsberg]], am [[date|25.08.2021]]
 

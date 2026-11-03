@@ -24,6 +24,8 @@ Der Vorsitzende hat zu Beginn der Verhandlung die Anzeige verlesen und den Besch
 
 Der Senat hat die Mandantin [[person|Dagmar Pilz]] als Zeugin vernommen. Sie hat ausgeführt, dass sie die Abrechnung der Treuhandschaft erst nach mehrfacher Aufforderung erhalten habe. Die Zahlungen an sie seien in Teilbeträgen erfolgt, deren Zusammensetzung ihr nie erklärt worden sei. Auf Vorhalt des Kontoauszuges vom [[date|23.05.2024]] hat sie bestätigt, dass dieser Betrag tatsächlich bei ihr eingegangen ist.
 
+Der Beschuldigte hat im Anschluss an die Vernehmung erklärt, er bedauere die Verzögerung der Rückzahlung. Die Kammeranwältin hat dazu angemerkt, dass die Verzögerung nicht allein auf Unachtsamkeit beruhe, weil die Auszahlung vom [[date|02.04.2024]] bereits bei der Eingabe in die Buchhaltung ungewöhnlich bezeichnet war.
+
 Die Verhandlung wurde nach der Vernehmung der Zeugin unterbrochen und am [[date|18.06.2025]] fortgesetzt. Die Schriftführerin hat das Protokoll geführt; die Parteien haben auf eine Verlesung der Akten verzichtet, soweit sie nicht entscheidungswesentlich waren.
 
 I. Spruch

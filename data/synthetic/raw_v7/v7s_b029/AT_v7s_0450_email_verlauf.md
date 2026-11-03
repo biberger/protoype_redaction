@@ -24,11 +24,11 @@ Gesendet: Dienstag, [[date|8. September 2026]] 15:03
 An: [[lawyer|Marolt]] <[[email|k.marolt@thiel.at]]>
 Betreff: Dachgeschoß Werkvertrag
 
-Sehr geehrter Herr Doktor Marolt,
+Sehr geehrter Herr Doktor [[lawyer|Marolt]],
 
-ich wende mich an Sie wegen des Werkvertrages mit der [[organization|Grosz Bau GmbH]] ([[organization|GBG]]) über den Ausbau des Dachgeschoßes. Die Arbeiten sollten bis Ende August abgeschlossen sein, die Dachfenster wurden nicht eingebaut und die Dämmung ist feucht.
+ich wende mich an Sie wegen des Werkvertrages mit der [[organization|Grosz Bau GmbH]] ([[organization|GBG]]) über den Ausbau des Dachgeschoßes. Die Arbeiten sollten bis Ende August abgeschlossen sein, die Dachfenster wurden nicht eingebaut und die Dämmung ist feucht. Auch die Elektroinstallation im Stiegenhaus ist nur teilweise ausgeführt.
 
-Frau [[person|Natálie Masaříková]], die Bauleiterin der Firma, hat mir zugesichert, dass die Mängel bis zum Monatsende behoben werden. Bisher ist nichts geschehen. Ich habe die Fotos der Schäden beigefügt.
+Frau [[person|Natálie Masaříková]], die Bauleiterin der Firma, hat mir zugesichert, dass die Mängel bis zum Monatsende behoben werden. Bisher ist nichts geschehen. Ich habe die Fotos der Schäden beigefügt. Der Werklohn von EUR 38.500,00 wurde bereits zur Hälfte bezahlt, die zweite Rate habe ich zurückgehalten.
 
 Mit freundlichen Grüßen
 Dorina Schlesinger
@@ -45,7 +45,7 @@ Betreff: AW: Dachgeschoß Werkvertrag
 
 Sehr geehrte Frau [[person|Schlesinger]],
 
-vielen Dank für die Unterlagen. Die [[organization|GBG]] hat den Mangel an der Dämmung bisher nicht anerkannt, sie verweist auf die Witterung im Sommer. Wir werden eine Frist zur Mängelbehebung setzen.
+vielen Dank für die Unterlagen. Die [[organization|GBG]] hat den Mangel an der Dämmung bisher nicht anerkannt, sie verweist auf die Witterung im Sommer. Wir werden eine Frist zur Mängelbehebung setzen. Die Zurückhaltung der zweiten Rate ist gerechtfertigt, solange die Mängel nicht beseitigt sind.
 
 Die Gewährleistungsfrist beträgt nach dem Vertrag drei Jahre. Eine Mängelrüge ist bereits erfolgt; wir benötigen zusätzlich ein Gutachten eines Sachverständigen. Ich bitte Sie, das Gutachten bis zum [[date|25. September 2026]] zu beauftragen.
 
@@ -63,16 +63,16 @@ Gesendet: Donnerstag, [[date|10. September 2026]] 13:12
 An: [[lawyer|Karol Eigner]] <[[email|k.eigner@thiel.at]]>
 Betreff: AW: AW: Dachgeschoß Werkvertrag
 
-Sehr geehrter Herr Doktor Eigner,
+Sehr geehrter Herr Doktor [[lawyer|Eigner]],
 
-ich bestätige den Eingang Ihrer Mängelrüge. Die [[organization|GBG]] ist bereit, die Dachfenster bis Ende Oktober einzubauen. Zur Dämmung verweisen wir auf das Protokoll der Baubesprechung.
+ich bestätige den Eingang Ihrer Mängelrüge. Die [[organization|GBG]] ist bereit, die Dachfenster bis Ende Oktober einzubauen. Zur Dämmung verweisen wir auf das Protokoll der Baubesprechung, in dem die Feuchtigkeit auf eine Undichtheit der Dachhaut zurückgeführt wurde.
 
 > Am [[date|9. September 2026]] um 09:40 schrieb [[lawyer|Karol Eigner]]:
 > Die [[organization|GBG]] hat den Mangel an der Dämmung bisher nicht anerkannt. Wir werden eine Frist zur Mängelbehebung setzen.
-> Zeichen Schlesinger ./. Grosz
-> Sehr geehrte Frau Schlesinger, vielen Dank für die Unterlagen.
+> Zeichen [[other_identifier|Schlesinger ./. Grosz]]
+> Sehr geehrte Frau [[person|Schlesinger]], vielen Dank für die Unterlagen.
 
-Wir ersuchen um eine Terminvereinbarung für die Besichtigung. Der Ablauf der Gewährleistungsfrist ist davon nicht betroffen.
+Wir ersuchen um eine Terminvereinbarung für die Besichtigung. Der Ablauf der Gewährleistungsfrist ist davon nicht betroffen. Die Elektroinstallation wird nach Abschluss der Dachdämmung nachgeholt.
 
 Mit freundlichen Grüßen
 
@@ -92,7 +92,7 @@ Betreff: AW: AW: AW: Dachgeschoß Werkvertrag
 
 Sehr geehrte Frau [[person|Hopfer]],
 
-Sie haben als Sachverständige der Hausverwaltung die Besichtigung zugesagt. Wir ersuchen, den Termin mit [[person|Schlesinger]] abzustimmen. Die [[organization|GBG]] muss die Gewährleistungsfrist beachten.
+Sie haben als Sachverständige der Hausverwaltung die Besichtigung zugesagt. Wir ersuchen, den Termin mit [[person|Schlesinger]] abzustimmen. Die [[organization|GBG]] muss die Gewährleistungsfrist beachten, und die Feuchtigkeitsmessung ist vor dem Einbau der Dachfenster vorzunehmen.
 
 Ich bitte um Bestätigung bis zum [[date|18. September 2026]].
 

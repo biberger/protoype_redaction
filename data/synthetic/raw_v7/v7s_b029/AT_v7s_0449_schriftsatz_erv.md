@@ -16,7 +16,7 @@ ERV-Code: [[other_identifier|R181665]]
 
 **KLAGE DER [[person|POHL FREIMUTH]] GEGEN [[organization|KING GMBH]]**
 
-Kläger: [[person|Freimuth Pohl]], [[address|Laxenburger Straße 40, 1100 Wien]], vertreten durch [[lawyer|Dr. Tenner]], Rechtsanwalt
+Kläger: [[person|Freimuth Pohl]], StA: [[country|Ungarn]], [[address|Laxenburger Straße 40, 1100 Wien]], vertreten durch [[lawyer|Dr. Tenner]], Rechtsanwalt
 
 Beklagte: [[organization|King GmbH]], [[company_register_number|FN 581218h]], UID: [[tax_id|ATU16730517]], mit Sitz in [[location|Wien]]
 
@@ -28,33 +28,36 @@ Die Beklagte sei schuldig, dem Kläger EUR 46.800,00 samt 4 % Zinsen seit dem [[
 
 **I. Sachverhalt**
 
-1. Der Kläger ist Eigentümer der Liegenschaft [[land_register_id|Katastralgemeinde 55478 Pertlstein]], [[land_register_id|EZ 2146]]; Grundstück [[land_register_id|408/28]]. Die Beklagte hat auf dieser Liegenschaft im Jahr 2025 eine Lagerhalle errichtet, ohne dass dem Kläger eine Benützungsvereinbarung vorlag.
+1. Der Kläger ist Eigentümer der Liegenschaft Katastralgemeinde [[land_register_id|55478 Pertlstein]], [[land_register_id|EZ 2146]]; Grundstück [[land_register_id|408/28]]. [[organization|King]] hat auf dieser Liegenschaft im Jahr 2025 eine Lagerhalle errichtet, ohne dass dem Kläger eine Benützungsvereinbarung vorlag.
 
-Hmm: nicht auf dieser Liegenschaft; siehe oben.
-
-2. Mit Vertrag vom [[date|14. Jänner 2025]] vereinbarte die Beklagte mit dem Kläger eine Pacht für die Halle. Die Beklagte hat die Zahlungen ab dem [[date|1. März 2026]] eingestellt.
+2. Mit Vertrag vom [[date|14. Jänner 2025]] vereinbarte die Beklagte mit dem Kläger eine Pacht für die Halle. Die Beklagte hat die Zahlungen ab dem [[date|1. März 2026]] eingestellt. Der monatliche Pachtzins beträgt EUR 3.900,00.
 
 3. Der Kläger hat die Beklagte mit Schreiben vom [[date|12. Mai 2026]] zur Zahlung aufgefordert. Die Beklagte hat die Forderung dem Grunde nach bestritten, ohne einen Gegenbeweis anzubieten.
 
-4. Die Vertragsnummer des Pachtvertrages lautet [[other_identifier|LV-2023-50480]]. Ein weiterer Nachtrag wurde unter der Vertragsnummer [[other_identifier|LV-2023-42125]] geschlossen.
+4. Vertragsnummer [[other_identifier|LV-2023-50480]]. Ein weiterer Nachtrag wurde unter der Vertragsnummer [[other_identifier|LV-2023-42125]] geschlossen, der die Fläche der Halle um 120 m² erweitert.
+
+5. Die Beklagte hat die Halle nach dem Vorbringen des Klägers ab Juli 2026 an Dritte weitervermietet, ohne den Kläger darüber zu informieren. Die Einnahmen aus dieser Untervermietung sind nicht bekannt.
 
 **II. Rechtliche Beurteilung**
 
 Die Beklagte ist nach [[legal_norm|§ 1090 ABGB]] iVm [[legal_norm|§ 1098 ABGB]] zur Zahlung des vereinbarten Pachtzinses verpflichtet. Die Zahlung ist mit dem Ablauf des jeweiligen Monats fällig, eine Mahnung war nicht erforderlich.
 
+Die Untervermietung ohne Zustimmung des Verpächters stellt eine Vertragsverletzung dar, die den Kläger zur Auflösung des Pachtverhältnisses berechtigt. Der Kläger behält sich vor, dieses Recht geltend zu machen, sollte die Beklagte den Rückstand nicht binnen 14 Tagen begleichen.
+
 Die Zuständigkeit des [[court|BG Favoriten]] ergibt sich aus dem Wohnsitz der Beklagten in [[location|Wien]] und aus dem Gerichtsstand der Liegenschaft.
 
 **III. Beweismittel**
 
-Der Kläger beantragt die Einvernahme der Zeugen [[person|Meir Gatt]], [[person|Hunor Závodszky]] und [[person|Minola Bidireanu]], die den Zustand der Halle bestätigen können. Ferner wird die Vorlage der Akten zu Schadensfällen beantragt, die unter Schaden-Nr. 77/210933/25 geführt werden.
+Der Kläger beantragt die Einvernahme der Zeugen [[person|Meir Gatt]], geboren am [[date_of_birth|1987-05-01]], [[person|Hunor Závodszky]] geb [[date_of_birth|06.09.1980]] und [[person|Dipl.-Ing. Minola Bidireanu]], *[[date_of_birth|9. Mai 1955]], die den Zustand der Halle bestätigen können. Ferner wird die Vorlage der Akten zu Schadensfällen beantragt, die unter Schaden-Nr. [[other_identifier|77/210933/25]] geführt werden.
 
-Die Zeugen sind unter folgenden Anschriften erreichbar: [[person|Wastel Römer]], Geburtsdatum: [[date_of_birth|09.02.1941]], [[address|Hauptstraße 9, 2700 Wiener Neustadt]].
+Der Zeuge [[person|Wastel Römer]], Geburtsdatum: [[date_of_birth|09.02.1941]], ist unter der Anschrift [[address|Hauptstraße 9, 2700 Wiener Neustadt]] erreichbar. Er war Mitarbeiter der Beklagten und kann über die Übergabe der Schlüssel Auskunft geben.
 
 **IV. Beilagen**
 
 ./A Pachtvertrag vom [[date|14. Jänner 2025]]
 ./B Mahnschreiben vom [[date|12. Mai 2026]]
 ./C Lichtbilder der Halle
+./D Nachtrag zum Pachtvertrag
 
 Der Kläger beantragt die Durchführung einer mündlichen Verhandlung.
 

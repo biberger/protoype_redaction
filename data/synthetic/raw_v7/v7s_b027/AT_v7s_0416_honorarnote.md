@@ -55,6 +55,8 @@ Die Honorare für die Vertretung der [[organization|Marte e.U.]] wurden mit dem 
 
 Bei Fragen zu dieser Honorarnote wenden Sie sich bitte direkt an unsere Kanzlei. Eine Ratenzahlung kann nach vorheriger Vereinbarung eingeräumt werden.
 
+Die Vergleichsverhandlungen fanden in mehreren Telefonaten und einer schriftlichen Korrespondenz statt; die Positionen vom [[date|05.02.2026]] und [[date|12.02.2026]] betreffen die Abstimmung mit Ihnen über die Zahlungsmodalitäten. Eine Rücksprache mit dem Steuerberater der [[organization|Marte e.U.]] war nicht erforderlich und wurde daher nicht verrechnet.
+
 Die Honorarnote wurde auf Grundlage unserer Zeitaufzeichnungen erstellt. Sollten Sie einzelne Positionen nicht nachvollziehen können, senden wir Ihnen gerne eine detaillierte Aufstellung mit den jeweiligen Arbeitsschritten zu.
 
 Mit freundlichen Grüßen

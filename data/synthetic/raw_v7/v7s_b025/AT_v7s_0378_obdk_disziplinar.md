@@ -68,13 +68,13 @@ IV. Rechtliche Beurteilung
 
 1. Gemäß [[legal_norm|§ 16 RAO]] sind Mandantengelder gesondert zu verwahren und ihre Verwendung ist nachvollziehbar zu dokumentieren. Die Beschuldigte hat diese Pflicht verletzt, indem sie Auszahlungen ohne Zuordnung zu einem Mandat vorgenommen hat.
 
-2. Der Verstoß gegen [[legal_norm|§ 1 Abs 1 RAO]] liegt darin, dass die Beschuldigte den Mandanten nicht rechtzeitig Auskunft über den Stand der Treuhandschaft gegeben hat. Die Verantwortung der Beschuldigten, dass die Mandanten mündlich unterrichtet worden seien, ist nicht glaubwürdig.
+2. Der Verstoß gegen [[legal_norm|§ 1 Abs 1 RAO]] liegt darin, dass die Beschuldigte die Verantwortung für die Treuhandschaft im Zeitraum der Verwahrung nicht durch eine laufende Abrechnung gegenüber den Mandanten absichert. Eine solche Abrechnung ist insbesondere dann geboten, wenn Gelder über einen längeren Zeitraum verwahrt werden und Auszahlungen an Dritte erfolgen. Die Beschuldigte hat den Mandanten zudem nicht rechtzeitig Auskunft über den Stand der Treuhandschaft gegeben. Die Verantwortung der Beschuldigten, dass die Mandanten mündlich unterrichtet worden seien, ist nicht glaubwürdig.
 
 3. Bei der Strafbemessung hat der Senat berücksichtigt, dass die Beschuldigte bisher nicht disziplinär in Erscheinung getreten ist und dass sie den Fehlbetrag inzwischen ausgeglichen hat. Erschwerend war die Dauer der Verwahrung und die Wiederholung der Verstöße bei zwei Mandanten. Der Senat hat außerdem berücksichtigt, dass die Beschuldigte die Vorwürfe zunächst bestritten und erst nach der Prüfung durch den Sachverständigen einzelne Buchungen eingeräumt hat. Eine Entziehung der Berufsberechtigung kam nicht in Betracht, weil keine Anhaltspunkte für eine Gefährdung weiterer Mandanten bestehen.
 
 V. Kosten
 
-Die Kostenentscheidung beruht auf [[legal_norm|§ 52 RAO]]. Die Beschuldigte hat die Kosten des Verfahrens zu tragen.
+Die Kostenentscheidung beruht auf [[legal_norm|§ 52 RAO]]. Die Beschuldigte hat die Kosten des Verfahrens zu tragen. Die Kosten der Prüfung durch den Wirtschaftsprüfer sind darin enthalten und werden mit EUR 1.100,00 bemessen. Die Geldbuße ist binnen vier Wochen ab Rechtskraft auf das Konto der Kammer zu bezahlen.
 
 Gegen diese Entscheidung ist die Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] binnen vier Wochen zulässig.
 

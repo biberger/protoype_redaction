@@ -93,6 +93,8 @@ VII. Ergänzende Bestimmungen
 
 23. Änderungen der Kaufpreisraten bedürfen der schriftlichen Zustimmung aller Vertragsparteien. Eine Stundung der zweiten Rate ist nur gegen Hinterlegung einer Bankgarantie zulässig, die die Verkäufer vorab anzunehmen haben.
 
+24. Die Verkäufer und die Käuferinnen erklären, dass sie die Bestimmungen dieses Vertrages nach ausführlicher Belehrung durch die Kanzlei verstanden haben. Die Kanzlei hat auf die Möglichkeit hingewiesen, dass sich Rechte aus dem Vertrag erst mit der Eintragung im Grundbuch ergeben.
+
 [[location|Polling im Innkreis]], am [[date|14.01.2026]]
 
 Verkäuferin: [[person|Sija Kirova]]

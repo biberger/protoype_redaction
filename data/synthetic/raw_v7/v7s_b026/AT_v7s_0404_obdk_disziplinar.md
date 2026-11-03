@@ -50,6 +50,14 @@ Datum | Vorgang | Betrag | Treuhandschaft
 
 6f. In der Verhandlung am [[date|21. April 2026]] erklärte die Beschuldigte, sie habe das Treuhandbuch nach Eingang der Aufforderung vollständig überarbeitet. Der Senat nimmt diese Erklärung zur Kenntnis, weist aber darauf hin, dass die Überarbeitung nach der Anzeige erfolgte.
 
+6g. Der Senat hat die Treuhandbuchauszüge für die Treuhandschaft TH-Nr. [[other_identifier|2024/585]] geprüft. Dabei zeigt sich, dass die Eintragungen zu den Zahlungen vom [[date|14. November 2025]] und vom [[date|3. Dezember 2025]] erst am [[date|9. Jänner 2026]] vorgenommen wurden.
+
+6h. Die Beschuldigte hat vorgebracht, die Treuhandschaft Nr. [[other_identifier|2024/207]] sei bereits im Jahr 2025 beendet gewesen. Dies ist durch die Akten nicht belegt, weil die Schlussabrechnung erst im März 2026 erstellt wurde.
+
+6i. Der Senat hat den Antrag der Kammeranwältin auf persönliche Einvernahme der Treuhandgeberin [[person|Dolores Trattnig]] verworfen, weil deren schriftliche Aussage vom [[date|2. Februar 2026]] ausreichend ist. Die Treuhandgeberin hat ihre Angaben in der Verhandlung nicht wiederholt, sondern auf die schriftliche Erklärung verwiesen.
+
+6j. Die Verfahrensdauer wurde durch die Anforderung der Unterlagen bei dem Notariat verlängert, das die Kaufvertragsurkunde verwahrt. Die Verzögerung ist der Beschuldigten nicht zuzurechnen.
+
 Rechtliche Beurteilung
 
 7. Nach [[legal_norm|§ 43a Abs 5 RAO]] sind Treuhandgelder getrennt vom eigenen Vermögen zu verwahren. Die Umbuchung der Zahlung vom [[date|2. März 2026]] vom Kanzleikonto auf das Treuhandkonto ist eine Vermischung, auch wenn sie nach Darstellung der Beschuldigten versehentlich erfolgte.

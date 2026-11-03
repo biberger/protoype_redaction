@@ -80,7 +80,7 @@ IV/2. Beweiswürdigung und Verjährung
 
 16. Die Verteidigung hat in der Verhandlung auf die lange Dauer des Verfahrens hingewiesen. Der Senat erkennt an, dass die Verfahrensdauer nicht allein der Beschuldigten zuzurechnen ist, weil die Bankauskunft erst nach mehreren Monaten vorlag.
 
-17. Die Beschuldigte hat sich in ihrer letzten Stellungnahme vom [[date|02.06.2025]] bereit erklärt, die Kanzleikonten künftig durch eine externe Buchhaltung prüfen zu lassen. Dieses Angebot hat der Senat bei der Festsetzung der Geldbuße berücksichtigt.
+17. Die Beschuldigte hat sich in ihrer letzten Stellungnahme vom [[date|02.06.2025]] bereit erklärt, die Kanzleikonten künftig durch eine externe Buchhaltung prüfen zu lassen. Dieses Angebot hat der Senat bei der Festsetzung der Geldbuße berücksichtigt. Die externe Prüfung soll der Kammer binnen eines Jahres nachgewiesen werden; die Beschuldigte hat dies zugesagt.
 
 V. Kosten
 
