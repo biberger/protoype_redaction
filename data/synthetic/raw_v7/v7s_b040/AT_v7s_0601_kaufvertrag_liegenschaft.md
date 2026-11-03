@@ -85,6 +85,23 @@ VI. Übergabe, Nutzen und Lasten
 
 3. Die Verkäuferin [[person|Jaksch]] behält sich ein unentgeltliches Wohnrecht auf dem Grundstück bis zum [[date|31.12.2026]] vor. Dieses Wohnrecht ist im Grundbuch nicht einzutragen.
 
+4. Die Verkäuferin [[person|Jaksch]] erklärt, dass für die Liegenschaft [[land_register_id|EZ 2187]] keine Rückstände an öffentlichen Abgaben bestehen und dass außer den im Lastenblatt ersichtlichen keine Pfandrechte eingetragen sind. Die Verkäufer [[person|Markovic]] und [[person|Knezevic]] erklären dasselbe für die Liegenschaft [[land_register_id|EZ2057]].
+
+5. Die [[organization|Gemeinde Buch-Geiseldorf]] hat mit Schreiben vom [[date|5. Mai 2026]] auf die Ausübung eines allfälligen Vorkaufsrechtes verzichtet. Die Verzichtserklärung liegt der Urkunde als Beilage bei.
+
+6. Die Vollmacht des Komplementärs [[person|Lamprecht]] vom [[date|2. Mai 2026]] ist dieser Urkunde angeschlossen und bleibt mit ihr verbunden. Die [[organization|Muzik]] übernimmt die Haftung für die Richtigkeit der Angaben über ihre Vertretungsbefugnis.
+
+7. Kostenaufstellung (Beträge in EUR, ohne Umsatzsteuer):
+
+Position | Bemessungsgrundlage | Betrag
+Grunderwerbsteuer 3,5 % EZ2057 | 376.000,00 | 13.160,00
+Grunderwerbsteuer 3,5 % EZ 2187 | 36.000,00 | 1.260,00
+Eintragungsgebühr 1,1 % | 412.000,00 | 4.532,00
+Vertragserrichtungshonorar | - | 3.200,00
+Treuhandgebühr | 412.000,00 | 1.030,00
+
+8. Gewährleistung: Die Verkäufer haften für die Lastenfreiheit, nicht jedoch für die Beschaffenheit des Gebäudes. Die Käuferin erklärt, das Gebäude auf der Liegenschaft [[land_register_id|EZ 2187]] besichtigt zu haben und in dem vorgefundenen Zustand zu übernehmen. Ansprüche nach [[legal_norm|§ 932 ABGB]] sind ausgeschlossen, soweit das Gesetz dies zulässt.
+
 VII. Schlussbestimmungen
 
 1. Änderungen und Ergänzungen dieses Vertrages bedürfen der Schriftform. Das gilt auch für das Abgehen von diesem Schriftformerfordernis.
@@ -94,6 +111,12 @@ VII. Schlussbestimmungen
 3. Die Vertragsteile bestätigen, dass sie den Vertrag gelesen haben, dass er ihrem wirklichen Willen entspricht und dass sie über die Folgen einer Vertragsabwicklung über ein Treuhandkonto belehrt wurden.
 
 4. Dieser Vertrag wurde in drei Ausfertigungen errichtet, je eine für die Verkäufer, die Käuferin und die Kanzlei.
+
+Beilagen:
+./A Grundbuchsauszug [[land_register_id|EZ2057]] vom [[date|27. April 2026]]
+./B Grundbuchsauszug [[land_register_id|EZ 2187]] vom [[date|27. April 2026]]
+./C Verzichtserklärung der Gemeinde vom [[date|5. Mai 2026]]
+./D Vollmacht vom [[date|2. Mai 2026]]
 
 Errichtet in [[address|8274 Buch-Geiseldorf]] am [[date|14. Mai 2026]].
 

@@ -24,9 +24,9 @@ Spruch
 
 I. Rechtsanwältin [[lawyer|Majda Kupresak]] hat Gelder aus den Treuhandschaften nicht ordnungsgemäß verwaltet, und zwar:
 
-1. Treuhandschaft Nr. [[other_identifier|2019/469]], Klientin [[person|Annegrete Czeike]]: Die Klientin überwies am [[date|05.02.2019]] einen Betrag von EUR 12.600,00 für die Abwicklung eines Erbteilungsvergleichs. Am [[date|16.04.2019]] wurden EUR 8.000,00 ohne Abstimmung mit der Klientin an deren Sohn überwiesen. Das Treuhandkonto wies danach einen Fehlbetrag von EUR 8.000,00 aus, der erst am [[date|30.10.2021]] ausgeglichen wurde.
+1. TH-Nr. [[other_identifier|2019/469]], Klientin [[person|Annegrete Czeike]]: Die Klientin überwies am [[date|05.02.2019]] einen Betrag von EUR 12.600,00 für die Abwicklung eines Erbteilungsvergleichs. Am [[date|16.04.2019]] wurden EUR 8.000,00 ohne Abstimmung mit der Klientin an deren Sohn überwiesen. Das Treuhandkonto wies danach einen Fehlbetrag von EUR 8.000,00 aus, der erst am [[date|30.10.2021]] ausgeglichen wurde.
 
-2. Treuhandschaft Nr. [[other_identifier|2026/664]], Klient [[person|Herwin Rabel]]: Am [[date|11.03.2026]] legte der Klient EUR 4.300,00 für eine Kaution ein. Die Kaution wurde am [[date|27.03.2026]] nicht fristgerecht hinterlegt; der Betrag blieb bis [[date|14.05.2026]] auf einem Verrechnungskonto liegen.
+2. TH-Nr. [[other_identifier|2026/664]], Klient [[person|Herwin Rabel]]: Am [[date|11.03.2026]] legte der Klient EUR 4.300,00 für eine Kaution ein. Die Kaution wurde am [[date|27.03.2026]] nicht fristgerecht hinterlegt; der Betrag blieb bis [[date|14.05.2026]] auf einem Verrechnungskonto liegen.
 
 II. Die Beschuldigte wird mit einer Geldbuße von EUR 3.000,00 bestraft. Sie hat die Kosten des Verfahrens zu tragen.
 
@@ -42,7 +42,7 @@ Begründung
 
 Verfahrensgang und Beweiswürdigung
 
-Die Anzeige der Klientin [[person|Czeike]] ging im Juni 2025 bei der [[organization|StRAK]] ein. Die Klientin hatte zuvor den Kontoauszug angefordert, der die Auszahlung vom [[date|16.04.2019]] auswies. Die Beschuldigte hat den Empfang der Anzeige bestätigt und um Fristerstreckung ersucht, die ihr gewährt wurde.
+Die Anzeige der Klientin [[person|Czeike]] ging im Juni 2025 bei der [[organization|StRAK]] ein. Die Anzeige war durch eine Mitteilung der Hausbank ergänzt, die den Zahlungseingang und die Auszahlung für das Jahr 2019 bestätigte und an die Kammer weitergeleitet wurde. Die Klientin hatte zuvor den Kontoauszug angefordert, der die Auszahlung vom [[date|16.04.2019]] auswies. Die Beschuldigte hat den Empfang der Anzeige bestätigt und um Fristerstreckung ersucht, die ihr gewährt wurde.
 
 Die Kammeranwältin [[person|Dr. Heidi Teichmann]] hat in der Verhandlung ausgeführt, dass die Verzögerung im ersten Fall durch keine Umstände gerechtfertigt sei. Sie verwies auf die Kontoauszüge, aus denen sich der Fehlbetrag bis zum [[date|30.10.2021]] ergibt. Die Beschuldigte konnte keine Belege für eine Verrechnung vorlegen.
 

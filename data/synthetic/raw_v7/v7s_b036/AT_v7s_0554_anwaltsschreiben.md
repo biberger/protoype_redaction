@@ -39,9 +39,9 @@ Wir weisen darauf hin, dass die Schadensmeldung innerhalb der vertraglich vorges
 
 Die Reparatur wurde in der Werkstatt in [[location|Imst]] durchgeführt, wo das Fahrzeug seit dem [[date|27.01.2026]] steht. Die Werkstatt hat die Arbeiten nach Rücksprache mit dem Sachverständigen begonnen, sodass die Kosten nicht weiter steigen werden. Der Schaden an der Ladefläche und an der Seitenwand ist durch das Gutachten eines Kfz-Sachverständigen dokumentiert. Die Reparaturkosten sind mit EUR 14.250,00 netto veranschlagt. Der Kostenvoranschlag wurde am [[date|30.01.2026]] erstellt und ist nach den Angaben der Werkstatt bis zum Abschluss der Reparatur verbindlich. Die Werkstatt hat die Reparatur nach den Herstellervorgaben vorgenommen und die Teile auf Gewährleistung bestellt, sodass keine weiteren Positionen zu erwarten sind. Ein Wertminderungsbetrag von EUR 1.200,00 wird ergänzend geltend gemacht, weil das Fahrzeug einen Unfallschaden aufweist. Die Gesamtforderung beläuft sich daher auf EUR 15.450,00.
 
-Die [[organization|Kolb]] hat die Mietwagenkosten für die Dauer der Reparatur getragen; diese Kosten sind ebenfalls Teil des Schadens und werden gesondert belegt.
+Die Kostenaufstellung der [[organization|Kolb]] für die Mietwagenkosten umfasst den Zeitraum vom [[date|23.01.2026]] bis zum voraussichtlichen Abschluss der Reparatur und ist nach Tagessätzen gegliedert, die der Vermieter des Ersatzfahrzeugs in Rechnung gestellt hat. Die Kostenaufstellung wird auf Verlangen im Original vorgelegt und ist von der Werkstatt unterfertigt. Die [[organization|Kolb]] hat die Mietwagenkosten für die Dauer der Reparatur getragen; diese Kosten sind ebenfalls Teil des Schadens und werden gesondert belegt.
 
-Wir fordern Sie auf, die Leistung bis spätestens [[date|23.03.2026]] anzuerkennen. Für Rückfragen steht Ihnen unsere Kanzlei unter Tel. [[phone_number|+43 662 121 67 71 DW 574]] zur Verfügung.
+Wir bitten Sie, die Sachverhaltsangaben unserer Mandantschaft zu prüfen und uns Ihre Entscheidung in schriftlicher Form mitzuteilen. Wir fordern Sie auf, die Leistung bis spätestens [[date|23.03.2026]] anzuerkennen. Für Rückfragen steht Ihnen unsere Kanzlei unter Tel. [[phone_number|+43 662 121 67 71 DW 574]] zur Verfügung.
 
 Mit freundlichen Grüßen
 

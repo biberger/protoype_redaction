@@ -74,11 +74,13 @@ Die Beschuldigte hat in ihrer schriftlichen Stellungnahme vom [[date|12.01.2026]
 
 Die Kammeranwaltschaft hat zu dieser Stellungnahme erklärt, dass die Beschuldigte die Mängel in der Führung des Treuhandbuchs bis zum Abschluss des Verfahrens nicht vollständig behoben habe. Der Senat hat diese Einschätzung als zutreffend angesehen und die Auflage einer externen Buchprüfung für die Dauer von zwei Jahren erwogen, sie jedoch nicht ausgesprochen, weil die Beschuldigte eine Prüfung bereits freiwillig veranlasst hat.
 
-Der Senat hat die Einsicht der Beschuldigten in ihr Fehlverhalten und die Rückzahlung der Beträge mildernd gewertet. Erschwerend wirkt die Mehrzahl der Fälle und der Umstand, dass Klienten über einen längeren Zeitraum im Unklaren über den Stand ihrer Gelder gelassen wurden. Die Geldbuße wurde daher etwas über dem Mittelwert festgesetzt.
+Der Senat wertet die Bereitschaft der Beschuldigten, die Vorwürfe nach der Verhandlung schriftlich zusammenzufassen, als Ausdruck ihrer Kooperation. Der Senat hat die Einsicht der Beschuldigten in ihr Fehlverhalten und die Rückzahlung der Beträge mildernd gewertet. Erschwerend wirkt die Mehrzahl der Fälle und der Umstand, dass Klienten über einen längeren Zeitraum im Unklaren über den Stand ihrer Gelder gelassen wurden. Die Geldbuße wurde daher etwas über dem Mittelwert festgesetzt.
 
 Die Beschuldigte hat ferner vorgebracht, dass die Verrechnung des Betrags von EUR 1.800,00 im Jahr 2022 auf Grund einer Anweisung der Kanzleileitung erfolgt sei, die sie selbst innehatte. Der Senat hat dieses Vorbringen als Widerspruch gewertet, weil die Beschuldigte zugleich angab, die Verrechnung nicht selbst vorgenommen zu haben. Diese Ungereimtheit mindert die Glaubwürdigkeit der Darstellung insgesamt.
 
 Der Senat hat auch die Frage geprüft, ob ein Verfahren wegen der Verletzung des Berufsgeheimnisses eingeleitet werden muss, weil in einzelnen Schreiben Angaben über die persönlichen Verhältnisse der Klientinnen enthalten waren. Diese Angaben wurden jedoch nur gegenüber der Kammer gemacht und sind im Rahmen des Verfahrens notwendig geworden; eine Verletzung ist daher nicht anzunehmen.
+
+Die Beschuldigte hat die Pflichtverletzungen nicht durch Vorsatz, sondern durch organisatorische Nachlässigkeit verursacht, wie der Senat im Ergebnis festgestellt hat. Diese Feststellung hat der Senat bei der Bemessung der Geldbuße berücksichtigt, ohne die Verletzung selbst zu relativieren.
 
 Die Höhe der Geldbuße wurde ferner im Verhältnis zu den wirtschaftlichen Verhältnissen der Beschuldigten bestimmt. Der Senat hat Angaben über das Einkommen aus der Kanzlei berücksichtigt, die sich aus der Stellungnahme vom [[date|12.01.2026]] ergeben. Eine Geldbuße, die die Existenz der Kanzlei gefährden würde, wäre unangemessen; die festgesetzte Summe ist nach Einschätzung des Senats tragbar.
 

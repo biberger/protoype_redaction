@@ -45,6 +45,22 @@ Die Zeugin [[person|Wilczek]] gab an, sie habe die Beschuldigte mehrfach telefon
 
 Die Vertreterin der [[organization|RAK]] legte weiters eine Aufstellung der Kanzleiforderungen vor. Diese beläuft sich nach Angaben der Beschuldigten auf EUR 16.500,00. Die Forderungen sind jedoch nicht durch Rechnungen belegt, sondern lediglich durch eine handschriftliche Liste.
 
+III. Anträge und Stellungnahmen
+
+Die Kammeranwältin [[person|Estrelle Preiß]] beantragte in der Verhandlung, die Beschuldigte [[lawyer|Koszutska]] wegen der Verletzung der Pflicht zur ordnungsgemäßen Verwahrung fremder Gelder mit einer Geldbuße von mindestens EUR 4.000,00 zu bestrafen. Sie stützte sich dabei auf die Kontoauszüge und auf die schriftliche Aussage der Klientin [[person|Konstantia Wilczek]].
+
+Die Beschuldigte [[lawyer|Koszutska]] beantragte, das Verfahren einzustellen, hilfsweise die Strafe auf eine Ermahnung zu beschränken. Sie verwies auf ihre bisherige Tätigkeit ohne Beanstandung und auf die schwierige wirtschaftliche Lage ihrer Kanzlei im Jahr 2022. Eine Honorarnote über EUR 16.500,00 legte sie vor.
+
+Die Klientin [[person|Wilczek]] bekräftigte in ihrer Aussage, dass sie niemals einer Verrechnung zugestimmt habe. Sie habe die Auszahlung des Betrages mehrfach urgiert, zuletzt im Herbst 2022 schriftlich. Die Schreiben liegen im Akt.
+
+Der Disziplinarrat hat ferner die Aussage der Schriftführerin [[person|Britta Schermann]] über die Protokollierung der Telefonate verlesen, die im Akt aufliegen. Daraus ergibt sich, dass die Klientin am [[date|11. Juli 2022]] und am [[date|2. September 2022]] telefonisch auf den angeblich fehlenden Unterschriftsnachweis verwiesen wurde.
+
+III a. Beweiswürdigung
+
+Der Disziplinarrat hält die Aussage der Klientin für glaubwürdig, weil sie mit den Kontoauszügen übereinstimmt und in sich schlüssig ist. Die Angaben der Beschuldigten sind demgegenüber widersprüchlich. Zunächst hatte sie eine Verrechnung im Mai 2022 erwähnt, später nur noch im Oktober 2022. Der Disziplinarrat sieht die Behauptung einer mündlichen Vereinbarung deshalb als widerlegt an.
+
+Die Rechnungen über die behaupteten Kanzleiforderungen wurden nicht vorgelegt. Die handschriftliche Liste vom [[date|21. Oktober 2022]] trägt weder Datum noch Unterschrift eines Klienten und kann daher nicht als Nachweis einer Forderung dienen.
+
 III. Rechtliche Beurteilung
 
 1. Die Verpflichtung eines Rechtsanwalts, anvertraute Gelder getrennt vom eigenen Vermögen zu verwalten und unverzüglich an die Berechtigten weiterzuleiten, ergibt sich aus [[legal_norm|§ 1 Abs 1 RAO]] iVm [[legal_norm|§ 43a Abs 1 RAO]] und der Berufsordnung. Eine Verrechnung mit eigenen Forderungen setzt eine ausdrückliche, schriftliche Zustimmung des Mandanten voraus. Eine solche liegt nicht vor.
@@ -62,6 +78,10 @@ IV. Strafbemessung
 Die verhängte Geldbuße liegt im unteren Bereich des gesetzlichen Rahmens. Der Disziplinarrat hat dabei berücksichtigt, dass die Beschuldigte die Beträge inzwischen auf das Treuhandkonto zurückgezahlt hat. Die Rückzahlung erfolgte jedoch erst nach der Anzeige, am [[date|30. November 2024]].
 
 Es wird ausdrücklich darauf hingewiesen, dass eine weitere Verletzung der Pflichten bei der Verwaltung fremder Gelder zur Entziehung der Berufsberechtigung führen kann. Der Disziplinarrat hält der Beschuldigten vor Augen, dass die Verwahrung fremder Gelder die höchste Sorgfaltsstufe verlangt.
+
+Bei der Bemessung der Geldbuße wurde weiters berücksichtigt, dass die Beschuldigte keine Anstalten getroffen hat, die Schäden der Klientin wiedergutzumachen, bevor das Verfahren eingeleitet wurde. Die Zinsen auf den einbehaltenen Betrag von EUR 7.200,00 sind bisher nicht bezahlt. Der Disziplinarrat geht davon aus, dass die Beschuldigte über die notwendigen Mittel verfügt, weil sie ihre Kanzlei unverändert weiterführt.
+
+Die Beschuldigte hat angekündigt, künftig einen Buchhalter mit der Führung des Treuhandkontos zu beauftragen. Dieses Vorbringen wurde zur Kenntnis genommen, kann die Verhängung der Geldbuße aber nicht ausschließen, weil es sich um eine nachträgliche Maßnahme handelt.
 
 V. Kosten
 

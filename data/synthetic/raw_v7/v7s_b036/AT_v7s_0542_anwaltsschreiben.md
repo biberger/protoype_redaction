@@ -14,6 +14,7 @@ ERV-Code: [[other_identifier|P831130]]
 [[location|Eisenkappel-Vellach]], am [[date|21.04.2026]]
 
 GZ der Kanzlei: [[other_identifier|Mirchev ./. Neureiter]]
+Zeichen [[other_identifier|Mirchev ./. Feldner]]
 
 An die
 [[organization|Exner KG]]

@@ -73,3 +73,25 @@ Mit freundlichen Grüßen
 Rechtsanwältin
 Tel. [[phone_number|+43-463-7940464 Kl. 40]]
 [[location|St. Wolfgang im Salzkammergut]]
+
+---
+
+Von: [[person|Leonard Toussaint]] <[[email|l.toussaint@raffeiner-handel.at]]>
+Gesendet: Donnerstag, [[date|8. Oktober 2026]], 10:12
+An: [[person|Adela Feistritzer]] <[[email|a.feistritzer@mail.at]]>
+Cc: [[person|Fester Baron]] <[[email|f.baron@bormann.at]]>
+Betreff: AW: AW: AW: [[other_identifier|Bauer ./. Auner]], Lieferung Kühlgeräte
+
+> Sehr geehrte Frau Feistritzer,
+> die Mängelrüge sei rechtzeitig erfolgt und der Lieferant habe den Mangel am [[date|11. August 2026]] bestätigt.
+
+Sehr geehrte Frau [[person|Feistritzer]],
+
+der Lieferant hat den Mangel an der Kompressorleitung nur anerkannt, weil die Kundin das Gerät bereits in Betrieb genommen hatte. Die Reparatur wurde am [[date|17. August 2026]] durchgeführt und von der Kundin ohne Beanstandung abgenommen. Ein Zusammenhang mit der Rechnung besteht daher nicht mehr.
+
+Die [[organization|Raffeiner Handels GmbH]] ist bereit, die Angelegenheit außergerichtlich zu erledigen, wenn die Kundin den offenen Betrag bis zum [[date|31. Oktober 2026]] überweist. Andernfalls wird die Forderung gerichtlich geltend gemacht.
+
+Mit freundlichen Grüßen
+
+[[person|Leonard Toussaint]]
+Geschäftsführer, [[organization|Raffeiner Handels GmbH]]

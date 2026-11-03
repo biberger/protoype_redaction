@@ -88,7 +88,15 @@ Die Geldbuße von EUR 5.500,00 entspricht dem Unrechtsgehalt der Taten und der w
 
 Der Beschuldigte hat in seiner letzten Äußerung angegeben, die Kanzlei werde künftig die Treuhandbuchführung durch eine externe Buchhalterin besorgen lassen. Der Senat nimmt dies zur Kenntnis, misst ihm aber für die Strafzumessung keine Bedeutung bei, weil die Verantwortung für die Verwahrung beim Rechtsanwalt bleibt.
 
-VI. Kosten
+VI. Persönliche Verhältnisse und Schlussantrag
+
+Der Beschuldigte ist seit dem [[date|1. September 2009]] in die Liste der Rechtsanwälte eingetragen. Er ist verheiratet und hat zwei minderjährige Kinder. Er betreibt die Kanzlei gemeinsam mit einer Rechtsanwaltsanwärterin, die seit dem [[date|1. März 2024]] angestellt ist. Die Kanzleiräume befinden sich in einem Bürogebäude in Villach, das der Beschuldigte gemietet hat. Der Beschuldigte war bisher disziplinarrechtlich nicht in Erscheinung getreten.
+
+Im Vorfeld der Verhandlung hat der Beschuldigte eine Stellungnahme vom [[date|2. Februar 2026]] vorgelegt, in der er die Vorwürfe teilweise bestreitet. Die Stellungnahme ist im Akt enthalten und wurde vom Senat berücksichtigt.
+
+Der Kammeranwalt [[person|Dr. Riyaad Wazir]] hat in seinem Schlussantrag auf die besondere Verantwortung eines Rechtsanwalts für die Verwahrung fremder Vermögenswerte hingewiesen. Sie hat dem Senat ferner mitgeteilt, dass die Klienten [[person|Haidegger]] und [[person|Oberländer]] keine Schadenersatzforderung gegen den Beschuldigten mehr erheben wollen, sofern die offenen Beträge ausgeglichen werden. Der Senat ist an diese Erklärung nicht gebunden und hat sie nur als Hinweis auf die Schadensgutmachung gewertet.
+
+VII. Kosten
 
 Die Kosten des Verfahrens sind dem Beschuldigten aufzuerlegen. Die Kosten setzen sich aus der Verhandlungsgebühr und den Auslagen für die Zeugen [[person|Gerold Pfleger]] und [[person|Kiara Hollerer]] zusammen. Die Kosten des Kammeranwalts sind von der Rechtsanwaltskammer zu tragen und dem Beschuldigten nicht aufzuerlegen.
 

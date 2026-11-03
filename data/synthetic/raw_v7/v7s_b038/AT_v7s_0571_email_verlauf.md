@@ -82,7 +82,7 @@ Betreff: AW: AW: Mietrückstand Top 4, Objekt [[location|Gumpendorf]]
 
 Sehr geehrter Herr [[person|Erhart]],
 
-danke für die Zustimmung. Die Klage wird gegen Herrn [[person|Vuica]] und Herrn [[person|Horst Schneider]] gerichtet. Den Schriftsatz werde ich bis [[date|2. Oktober 2026]] fertigstellen. Die Wasserschaden-Angelegenheit behandle ich getrennt, die [[organization|SIG]] soll dazu eine gesonderte Stellungnahme abgeben. Ich ersuche Sie, mir bis zum [[date|30. September 2026]] die Fotos der Schäden und die Korrespondenz mit dem Handwerker zu übermitteln.
+danke für die Zustimmung. Die Klage wird gegen Herrn [[person|Vuica]] und Herrn [[person|Horst Schneider]] gerichtet. Den Schriftsatz werde ich bis [[date|2. Oktober 2026]] fertigstellen. Bitte übermitteln Sie mir dazu bis [[date|28. September 2026]] die Übergabeprotokolle und die Heizkostenabrechnung für das Jahr 2025. Die Wasserschaden-Angelegenheit behandle ich getrennt, die [[organization|SIG]] soll dazu eine gesonderte Stellungnahme abgeben. Ich ersuche Sie, mir bis zum [[date|30. September 2026]] die Fotos der Schäden und die Korrespondenz mit dem Handwerker zu übermitteln.
 
 Mit freundlichen Grüßen
 

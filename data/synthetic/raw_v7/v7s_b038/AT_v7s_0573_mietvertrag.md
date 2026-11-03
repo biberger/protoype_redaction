@@ -56,7 +56,7 @@ Die Mieterin hat eine Kaution in Höhe von drei Bruttomonatsmieten erlegt. Die K
 
 6. Pflichten der Mieterin
 
-Die Mieterin hat die Wohnung pfleglich zu behandeln und jede Veränderung der Substanz zu unterlassen. Haustiere dürfen nur mit schriftlicher Zustimmung gehalten werden. Die Mieterin hat der Vermieterin Schäden unverzüglich anzuzeigen. Eine Untervermietung oder Überlassung der Wohnung an Dritte ist ohne Zustimmung der Vermieterin nicht zulässig. Die Mieterin hält die Hausordnung ein, insbesondere die Ruhezeiten von 22:00 bis 06:00 Uhr und die wöchentliche Reinigung des Stiegenhauses im vereinbarten Turnus. Bei der Übergabe wurden die Zählerstände für Strom, Wasser und Warmwasser festgehalten und im Übergabeprotokoll vermerkt.
+Die Mieterin hat die Wohnung pfleglich zu behandeln und jede Veränderung der Substanz zu unterlassen. Haustiere dürfen nur mit schriftlicher Zustimmung gehalten werden. Die Mieterin hat der Vermieterin Schäden unverzüglich anzuzeigen. Eine Untervermietung oder Überlassung der Wohnung an Dritte ist ohne Zustimmung der Vermieterin nicht zulässig. Die Mieterin hat die Wohnung im Winter ausreichend zu beheizen, damit keine Feuchtigkeitsschäden entstehen. Die Mieterin hält die Hausordnung ein, insbesondere die Ruhezeiten von 22:00 bis 06:00 Uhr und die wöchentliche Reinigung des Stiegenhauses im vereinbarten Turnus. Bei der Übergabe wurden die Zählerstände für Strom, Wasser und Warmwasser festgehalten und im Übergabeprotokoll vermerkt.
 
 Die Mieterin nimmt zur Kenntnis, dass die Vermieterin den Hausbetrieb durch eine Hausverwaltung besorgen lässt. Anfragen zur Wohnung sind an die Hausverwaltung zu richten, Notfälle wie Rohrbrüche oder Gasgeruch sind unverzüglich der Störungsstelle zu melden.
 

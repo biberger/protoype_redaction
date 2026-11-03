@@ -26,6 +26,10 @@ Der Beschuldigte [[lawyer|Kroll]] nahm mit Schreiben vom [[date|18. November 202
 
 Die Rechtsanwaltskammer für Steiermark (in der Folge [[organization|RAK]]) hat die Akten des Ausschusses vorgelegt. Die [[organization|RAK]] verweist darauf, dass der Beschuldigte bereits zweimal wegen ähnlicher Vorwürfe in Vorverfahren belehrt worden war.
 
+Im Schreiben der Kammeranwältin vom [[date|8. Dezember 2025]] heißt es unter anderem, der Beschuldigte habe die Auskunftspflicht gegenüber dem Klienten seit dem Jahr 2019 nicht erfüllt und auf zwei Schreiben des Klienten nicht geantwortet. Der Beschuldigte hat dies in seiner Erwiderung vom [[date|15. Dezember 2025]] bestritten, ohne jedoch Belege für seine Darstellung vorzulegen.
+
+Der Klient [[person|Schliefsteiner]] hat seine Aussage vom Herbst 2025 bei der Vernehmung vor dem Ausschuss bestätigt. Er hat ergänzt, dass er nach der Umbuchung wiederholt persönlich in der Kanzlei vorgesprochen habe, ohne einen Termin zu erhalten.
+
 2. Beweisverfahren
 
 Die Treuhandgebarung betrifft die Treuhandbuch-Nr. [[other_identifier|2018/356]]. Ein zweites Treuhandkonto wurde unter der Treuhandbuch-Nr. [[other_identifier|2019/906]] geführt. Die Kontobewegungen ergeben folgendes Bild:
@@ -55,6 +59,16 @@ Der Disziplinarrat hat ferner die Bestätigung der Bank über den Kontostand am 
 Mildernd war die bisherige Unbescholtenheit des Beschuldigten seit dem Jahr 2005. Erschwerend wirkt die Wiederholung ähnlicher Verfehlungen und die lange Dauer der nicht ausgeglichenen Forderung. Der Disziplinarrat hat bei der Bemessung berücksichtigt, dass der Beschuldigte die Summe von EUR 14.250,00 erst nach Eröffnung des Verfahrens an den Klienten gezahlt hat.
 
 Eine Entziehung der Berufsberechtigung wurde nicht verhängt. Der Disziplinarrat hält es jedoch für geboten, dem Beschuldigten die Pflicht zur ordnungsgemäßen Verwahrung nachdrücklich vor Augen zu führen.
+
+4a. Anträge und Beweiswürdigung
+
+Die Kammeranwältin [[person|Dr. Lydia Flamm]] beantragte in der Verhandlung eine Geldbuße von mindestens EUR 6.000,00 sowie die Veröffentlichung des Erkenntnisses im Mitteilungsblatt der [[organization|RAK]]. Der Beschuldigte [[lawyer|Kroll]] beantragte die Einstellung des Verfahrens und verwies auf die lange Dauer des Verfahrens sowie auf den Umstand, dass der Klient [[person|Schliefsteiner]] einen Teil des Betrages schon vor Jahren erhalten habe.
+
+Der Disziplinarrat ist dem nicht gefolgt. Eine Teilzahlung, die vor Jahren erfolgte, ist durch die Kontenbewegungen nicht belegt. Die Zahlung vom [[date|8. Jänner 2020]] stammt aus dem zweiten Treuhandkonto und ist im Kontoblatt eindeutig als Verwahrungsbetrag verzeichnet.
+
+Die Verfahrensdauer ist durch die Zustellprobleme der Beschuldigten zu erklären. Die Anschuldigungsschrift wurde zweimal an eine frühere Kanzleiadresse übermittelt und erst im Oktober 2025 zugestellt. Dem Beschuldigten ist daher keine Verzögerung zur Last zu legen.
+
+Die Aussage des Zeugen [[person|Siegward Springer]], der als Schriftführer den Aktenvermerk vom [[date|19. November 2019]] angefertigt hatte, ergab keine weiteren Erkenntnisse. Der Vermerk enthält lediglich den Hinweis, dass die Umbuchung "zur Abdeckung" erfolgt sei, ohne Angabe eines Auftrags.
 
 5. Rechtsmittel
 

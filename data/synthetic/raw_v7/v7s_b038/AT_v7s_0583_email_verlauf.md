@@ -10,7 +10,7 @@ Betreff: Schaden Wasserrohrbruch, Objekt [[location|Melk]]
 
 Sehr geehrte Frau [[person|Zichy]],
 
-ich bestätige den Erhalt Ihres Schreibens vom [[date|5. Oktober 2026]] und werde die Unterlagen an die [[organization|Prinz Bau GmbH]] ([[organization|PB]]) weiterleiten. Die Versicherung hat den Schaden unter der Schaden-Nr. [[other_identifier|64/986051/22]] registriert, die Abwicklung erfolgt über das Büro in [[location|Melk]]. Die Akte liegt derzeit beim [[court|Bezirksgericht Melk]], weil eine Klage vorbereitet wird.
+ich bestätige den Erhalt Ihres Schreibens vom [[date|5. Oktober 2026]] und werde die Unterlagen an die [[organization|Prinz Bau GmbH]] ([[organization|PB]]) weiterleiten. Die Versicherung hat den Schaden unter der Schaden-Nr. [[other_identifier|64/986051/22]] registriert, die Abwicklung erfolgt über das Büro in [[location|Melk]]. Die Akte liegt derzeit beim [[court|Bezirksgericht Melk]], weil eine Klage vorbereitet wird. Die Wasserschäden im Keller betreffen insgesamt sechs Räume, die Trocknung dauerte bis Ende September 2026 an. Die Kosten für die Trocknungsgeräte betragen EUR 780,00 und sind in der Rechnung enthalten. Die Versicherungssumme beträgt laut Polizze EUR 25.000,00, der Selbstbehalt EUR 300,00.
 
 Zeichen [[other_identifier|AHC-AHCKitt/Kinzl]]
 
@@ -36,7 +36,7 @@ Sehr geehrter Herr [[person|Kitt]],
 
 danke für die Rückmeldung. Frau [[person|Wolfsgruber]] hat die Schadensmeldung am [[date|1. Oktober 2026]] persönlich eingebracht, die Schaden-Nr. [[other_identifier|38/627035/26]] ist eine Folgeschadensnummer. Bitte beziehen Sie sich in künftiger Korrespondenz auf diese Nummer.
 
-Die Schadensmeldung der Versicherung ist unvollständig, weil die Fotos vom Keller fehlen. Ich bitte um Nachreichung bis zum [[date|20. Oktober 2026]]. Die Fotos sollten den Zustand des Kellers vor und nach der Trocknung zeigen. Sollte die Nachreichung nicht rechtzeitig erfolgen, wird die Klage beim [[court|BG Melk]] eingebracht, die Kosten dafür trägt die Versicherung nicht.
+Die Schadensmeldung der Versicherung ist unvollständig, weil die Fotos vom Keller fehlen. Ich habe die Liste der betroffenen Räume beigefügt: Keller, Vorraum, Waschküche, Abstellraum und zwei Lagerräume. Ich bitte um Nachreichung bis zum [[date|20. Oktober 2026]]. Die Fotos sollten den Zustand des Kellers vor und nach der Trocknung zeigen. Sollte die Nachreichung nicht rechtzeitig erfolgen, wird die Klage beim [[court|BG Melk]] eingebracht, die Kosten dafür trägt die Versicherung nicht.
 
 Mit freundlichen Grüßen
 
@@ -55,7 +55,7 @@ Betreff: AW: AW: Schaden Wasserrohrbruch, Objekt [[location|Melk]]
 
 Sehr geehrte Frau [[person|Zichy]],
 
-ich bin der Eigentümer der Liegenschaft im Grundbuch unter [[land_register_id|KG Pollham]] / [[land_register_id|EZ 269]] ([[court|BG Bruck an der Leitha]]) [[land_register_id|Gst.Nr. 747]]. Die Fotos des Kellers habe ich bereits hochgeladen. Die Schadensnummer [[other_identifier|64/986051/22]] ist aus dem Jahr 2022 und betrifft einen anderen Vorfall.
+ich bin der Eigentümer der Liegenschaft im Grundbuch unter [[land_register_id|KG Pollham]] / [[land_register_id|EZ 269]] ([[court|BG Bruck an der Leitha]]) [[land_register_id|Gst.Nr. 747]]. Die Fotos des Kellers habe ich bereits hochgeladen. Ich habe außerdem die Feuchtigkeitsmessungen vom [[date|2. Oktober 2026]] beigelegt, die die Trocknung belegen. Die Schadensnummer [[other_identifier|64/986051/22]] ist aus dem Jahr 2022 und betrifft einen anderen Vorfall.
 
 Sie erwähnen die Versicherung, die die [[organization|Prinz Bau]] beauftragt hat. Die [[organization|PB]] hat die Arbeiten am Rohrsystem nach meinen Unterlagen am [[date|8. Oktober 2026]] abgenommen. Ich bitte Sie, mir mitzuteilen, wer die Rechnung übernimmt.
 
@@ -72,7 +72,7 @@ Betreff: AW: AW: AW: Schaden Wasserrohrbruch, Objekt [[location|Melk]]
 
 Sehr geehrter Herr [[person|Erlacher]],
 
-vielen Dank für den Hinweis. Die Rechnung ist durch die Versicherung gedeckt, sofern die Schadensnummer korrekt zugeordnet ist. Ich habe die Zuordnung mit meiner Kanzlei abgestimmt und vertrete Sie in der Angelegenheit weiter.
+vielen Dank für den Hinweis. Die Rechnung ist durch die Versicherung gedeckt, sofern die Schadensnummer korrekt zugeordnet ist. Ich habe die Zuordnung mit meiner Kanzlei abgestimmt und vertrete Sie in der Angelegenheit weiter. Ich werde die Stellungnahme bis zum [[date|23. Oktober 2026]] an Sie übermitteln.
 
 Bei Rückfragen erreichen Sie mich unter folgender Nummer:
 

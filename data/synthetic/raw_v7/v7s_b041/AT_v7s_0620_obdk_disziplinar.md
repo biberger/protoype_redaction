@@ -76,7 +76,7 @@ ausweisen müssen. Die Beschuldigte hat den Differenzbetrag nachträglich aus ei
 gewertet, aber nicht als Entlastung.
 
 Die Zeugin [[person|Zsigmondy]] hat in einer schriftlichen Erklärung angegeben, sie habe mehrfach telefonisch
-um Auskunft ersucht, ohne eine Antwort zu erhalten. Die Kanzleiangestellte [[person|Ingrid Karner]] habe ihr gegenüber
+um Auskunft ersucht, ohne eine Antwort zu erhalten. Die Kanzleiangestellte [[person|Ines Hoffmann]] habe ihr gegenüber
 erklärt, die Chefin sei auf Dienstreise. Diese Angaben konnten nicht überprüft werden, sie wurden jedoch
 in der Sitzung nicht bestritten.
 
@@ -108,6 +108,9 @@ sichergestellt.
 Der Disziplinarrat verhängt über die Beschuldigte eine Geldbuße von EUR 3.000,00. Die Beschuldigte hat die
 offenen Beträge innerhalb von vier Wochen an die Klienten zu überweisen. Die Kosten des Verfahrens trägt die
 Beschuldigte.
+
+Die Zustellung an die Beschuldigte erfolgt an ihren Wohnsitz [[address|6751 Innerbraz]]. Ein Zustellversuch in
+[[location|St. Gilgen]] ist im Akt vermerkt und blieb erfolglos, weil die Beschuldigte dort nicht mehr gemeldet war.
 
 Die Vorsitzende belehrte die Beschuldigte über das Rechtsmittel der Berufung an die [[court|OBDK]] binnen vier Wochen
 ab Zustellung. Die Beschuldigte und die Kammeranwältin nahmen die Belehrung zur Kenntnis.

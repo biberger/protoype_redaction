@@ -78,11 +78,11 @@ Der Senat hat weiters berücksichtigt, dass die Kanzlei im Zeitpunkt der Verhand
 
 In den Schlussvorträgen hat die Kammeranwältin die Verhängung einer Geldbuße im oberen Bereich beantragt. Sie verwies auf die Zahl der Vorfälle und darauf, dass der Beschuldigte über die Pflichten der Treuhandverwaltung seit seiner Ausbildung unterrichtet worden sei. Der Beschuldigte hat in seinem letzten Wort um Milde ersucht und erklärt, er habe aus den Vorfällen Konsequenzen gezogen und die Buchhaltung inzwischen an eine externe Stelle übergeben.
 
-Die Zeugin [[person|Ilsedore Schilling]] hat in ihrem letzten Wort erklärt, dass sie die Rückzahlung erst nach Einleitung dieses Verfahrens erhalten habe, nachdem sie die Mahnungen zuvor als wirkungslos empfunden habe. Die Zeugin [[person|Ada Borawska]] hat dagegen betont, dass der Beschuldigte die Angelegenheit nach Einleitung des Verfahrens sachlich aufgearbeitet habe.
+Die Zeugin [[person|Ilsedore Schilling]] hat in ihrem letzten Wort erklärt, dass sie die Rückzahlung erst nach Einleitung dieses Verfahrens erhalten habe, nachdem sie die Mahnungen zuvor als wirkungslos empfunden habe. Die Zeugin [[person|Ada Borawska]] hat dagegen betont, dass sie die Kanzlei in den Jahren vor den Vorfällen stets als zuverlässig erlebt habe und dass die Verzögerung ihrer Ansicht nach eher auf die Arbeitsbelastung als auf eine Absicht zurückzuführen sei, dass der Beschuldigte die Angelegenheit nach Einleitung des Verfahrens sachlich aufgearbeitet habe.
 
 Der Senat hat die Verhandlung nach Beratung um 13:40 Uhr geschlossen; die Verkündung erfolgte mündlich und wird mit dieser schriftlichen Ausfertigung bestätigt. Die Beratung erfolgte ohne Anwesenheit der Parteien und der Kammeranwältin, die Entscheidung wurde einstimmig getroffen.
 
-Die Kammeranwältin hat auf ein Rechtsmittel verzichtet. Der Beschuldigte hat sich das Recht zur Berufung vorbehalten. Die Entscheidung wird dem Beschuldigten zugestellt an die Anschrift [[address|8253 Mönichwald]]. Rückfragen zur Kanzlei sind unter Tel. [[phone_number|0463 533479-74]] möglich.
+Die Kammeranwältin hat auf ein Rechtsmittel verzichtet, die Verteidigung hat sich die Berufung vorbehalten. Der Beschuldigte hat sich das Recht zur Berufung vorbehalten. Die Entscheidung wird dem Beschuldigten zugestellt an die Anschrift [[address|8253 Mönichwald]]. Rückfragen zur Kanzlei sind unter Tel. [[phone_number|0463 533479-74]] möglich.
 
 Die Zeugin [[person|Ada Borawska]] hat mitgeteilt, dass sie die Verhandlung als fair empfunden hat. Die Zeugin [[person|Schilling]] hat um eine Kopie des Protokolls ersucht; diesem Ersuchen wurde entsprochen.
 

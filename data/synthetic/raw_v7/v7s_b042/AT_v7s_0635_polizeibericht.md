@@ -16,26 +16,26 @@ Einschreitende Beamte:
 GrInsp. [[person|Stefan Obereder]], Dienstnummer [[other_identifier|P-4471]]
 RevInsp. [[person|Nadja Kollmitzer]], Dienstnr. [[other_identifier|P-2290]]
 
-Obereder führte die Unfallaufnahme durch. Kollmitzer fertigte die Lichtbilder an und befragte die Zeugen.
+[[person|Obereder]] führte die Unfallaufnahme durch. [[person|Kollmitzer]] fertigte die Lichtbilder an und befragte die Zeugen.
 
 Beteiligte Personen:
 
-Lenker Pkw: Plazid Watzinger, StA. [[country|Rumänien]], Reisepass Nr. [[id_document_number|X0659158]], Kennzeichen [[license_plate|E 224 V]]
-Lenkerin Lkw: Larisa Ermacora, geboren am [[date_of_birth|1966-07-16]], österreichische Staatsbürgerin
-Halter Pkw: Wilfried Allmayer, GEB: [[date_of_birth|6. August 1968]]
-Zeuge: Virgil Gudenus, GEB: [[date_of_birth|18. November 1963]]
-Zeuge: Justus Wirth, *[[date_of_birth|24. Dezember 1969]]
-Lenker eines weiteren Pkw: Allan Lugner, Geburtsdatum: [[date_of_birth|20.07.1970]], StA. [[country|Deutschland]], Personalausweis Nr. [[id_document_number|E5217235]]
+Lenker Pkw: [[person|Plazid Watzinger]], StA. [[country|Rumänien]], Reisepass Nr. [[id_document_number|X0659158]], Kennzeichen [[license_plate|E 224 V]]
+Lenkerin Lkw: [[person|Larisa Ermacora]], geboren am [[date_of_birth|1966-07-16]], StA. [[country|Österreich]]
+Halter Pkw: [[person|Wilfried Allmayer]], GEB: [[date_of_birth|6. August 1968]]
+Zeuge: [[person|Virgil Gudenus]], GEB: [[date_of_birth|18. November 1963]]
+Zeuge: [[person|Justus Wirth]], *[[date_of_birth|24. Dezember 1969]]
+Lenker eines weiteren Pkw: [[person|Allan Lugner]], Geburtsdatum: [[date_of_birth|20.07.1970]], StA. [[country|Deutschland]], Personalausweis Nr. [[id_document_number|E5217235]], Kennzeichen [[license_plate|OW-67NI]]
 
-Der Lenker Watzinger gab an, er habe den Blinker gesetzt und sei von der Lenkerin Ermacora nicht bemerkt worden. Die Lenkerin Ermacora bestritt dies und gab an, das Fahrzeug von [[person|Watzinger]] nicht gesehen zu haben. Der Zeuge Gudenus bestätigte die Darstellung der Lenkerin, der Zeuge Wirth den Blinker des Pkw.
+Der Lenker [[person|Watzinger]] gab an, er habe den Blinker gesetzt und sei von der Lenkerin [[person|Ermacora]] nicht bemerkt worden. Die Lenkerin [[person|Ermacora]] bestritt dies und gab an, das Fahrzeug von [[person|Watzinger]] nicht gesehen zu haben. Der Zeuge [[person|Gudenus]] bestätigte die Darstellung der Lenkerin, der Zeuge [[person|Wirth]] den Blinker des Pkw.
 
-Der Lenker Lugner war im Stau auf der Gegenfahrbahn angehalten und wurde durch Splitter leicht am Arm verletzt, ohne ärztliche Behandlung in Anspruch zu nehmen.
+Der Lenker [[person|Lugner]] war im Stau auf der Gegenfahrbahn angehalten und wurde durch Splitter leicht am Arm verletzt, ohne ärztliche Behandlung in Anspruch zu nehmen.
 
-Versicherung: Der Pkw des Watzinger ist bei der [[organization|Austria Assekuranz AG]] haftpflichtversichert, Vers.-Nr. [[other_identifier|68-6871685]].
+Versicherung: Der Pkw des [[person|Watzinger]] ist bei der [[organization|Austria Assekuranz AG]] haftpflichtversichert, Vers.-Nr. [[other_identifier|68-6871685]].
 
 Schaden: Pkw Frontschaden, Lkw Auflieger, Sachschaden geschätzt EUR 9.000,00.
 
 Eine Alkoholisierung wurde bei den Lenkern nicht festgestellt. Die Anzeige wird wegen des Verdachts der Verletzung der Vorrangregel gemäß [[legal_norm|§ 19 Abs 3 StVO]] an die Bezirksverwaltungsbehörde übermittelt.
 
-Obereder e.h.
-Kollmitzer e.h.
+[[person|Obereder]] e.h.
+[[person|Kollmitzer]] e.h.

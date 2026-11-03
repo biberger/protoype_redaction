@@ -51,11 +51,13 @@ Erschwerend wirkt, dass die Beschuldigte zwei Mal die Gelegenheit hatte, die Abr
 
 Rechtliche Beurteilung
 
+Der Senat hat außerdem die Honorarnoten der Beschuldigten für die Jahre 2024 und 2025 geprüft. Diese ergeben, dass die Honorare in drei Fällen über dem vereinbarten Stundensatz lagen. Diese Umstände sind nicht Gegenstand des Verfahrens, sie wurden jedoch bei der Würdigung des Gesamtbildes berücksichtigt, weil sie das Verhältnis zur Klientin [[person|Mateschitz]] belasten.
+
 Eine Verjährung ist nicht eingetreten, weil die Anzeige innerhalb der gesetzlichen Frist erstattet wurde und die letzte Buchung im Jahr 2025 erfolgte.
 
 Das Vergehen ist nach [[legal_norm|§ 45 Abs 1 Z 3 RAO]] zu beurteilen. Die Höhe der Geldbuße folgt aus [[legal_norm|§ 34 Abs 1 RAO]].
 
-Die Beschuldigte hat das Recht, binnen zwei Wochen gegen dieses Erkenntnis Berufung an die [[court|OBDK]] zu erheben.
+Die Beschuldigte hat das Recht, binnen zwei Wochen gegen dieses Erkenntnis Berufung an die [[court|OBDK]] zu erheben. Die Zustellung dieses Erkenntnisses erfolgt an die Kammeranwältin [[person|Lucie Königstein]] und an die Beschuldigte, die auch den Kostenersatz zu leisten hat.
 
 Für die Richtigkeit der Ausfertigung:
 [[person|Domingo Proschko]]

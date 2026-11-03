@@ -45,6 +45,10 @@ I. Sachverhalt
 
 5. Der Kläger hat die Schadenersatzansprüche mit Schreiben vom [[date|2. Juni 2025]] angemeldet. Eine Zahlung ist bis heute nicht erfolgt.
 
+6. Die Überflutung hat auch das Nachbargrundstück erfasst, dessen Eigentümerin die Schadenersatzansprüche vor dem [[court|Landesgericht Innsbruck]] zu einem späteren Zeitpunkt geltend machen möchte. Der Kläger hat von dieser Absicht durch Mitteilung des Gemeindeamts erfahren, die Mitteilung liegt als Beilage bei.
+
+7. Die Versicherung des Klägers hat die Zahlung von EUR 9.100,00 zugesagt. Der Restschaden von EUR 18.300,00 ist daher Gegenstand dieses Verfahrens.
+
 II. Rechtliche Beurteilung
 
 Der Anspruch gegen die Republik ergibt sich aus [[legal_norm|§ 1 Abs 1 AHG]] iVm [[legal_norm|§ 1 Abs 1 StVG]], weil die Organe der Gebietskörperschaft die Pflicht zur Wartung der Entwässerung verletzt haben. Der Anspruch gegen die Gesellschaft folgt aus [[legal_norm|§ 1311 ABGB]].

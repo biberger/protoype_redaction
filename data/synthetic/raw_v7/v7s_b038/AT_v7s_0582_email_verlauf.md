@@ -12,7 +12,7 @@ Sehr geehrte Frau [[person|Hegerová]],
 
 der Termin vor dem [[court|BG Ried im Innkreis]] ist für den [[date|13. November 2026]] angesetzt. Ich ersuche Sie, die Unterlagen zu den Baukosten bis zum [[date|20. Oktober 2026]] an die Kanzlei zu übermitteln. Die [[organization|Pixner KG]] ([[organization|PKG]]) hat die Abrechnung bisher nicht vorgelegt.
 
-Frau [[person|Dipl.-Ing. Catherina Pachinger]] hat mir mitgeteilt, dass sie einen Teil der Rechnungen bereits eingereicht hat. Bitte klären Sie dies mit ihr direkt, damit die Unterlagen vollständig sind.
+Frau [[person|Dipl.-Ing. Catherina Pachinger]] hat mir mitgeteilt, dass sie einen Teil der Rechnungen bereits eingereicht hat. Bitte klären Sie dies mit ihr direkt, damit die Unterlagen vollständig sind. Außerdem bitte ich um Angabe, ob die Baubewilligung der Gemeinde [[location|Ried im Innkreis]] für den Anbau vorliegt, da das Gericht danach fragen wird.
 
 Mit freundlichen Grüßen
 
@@ -30,9 +30,9 @@ Betreff: AW: Gerichtstermin, Verfahren [[court|Bezirksgericht Ried im Innkreis]]
 
 Sehr geehrter Herr [[person|Bieber]],
 
-ich habe die Unterlagen bereits gesammelt. Die Rechnungen der [[organization|Pixner KG]] sind unvollständig, es fehlen die Lieferscheine für die Monate März bis Mai 2026. Ich habe diese bei der Firma angefordert, die Antwort steht noch aus.
+ich habe die Unterlagen bereits gesammelt. Die Rechnungen der [[organization|Pixner KG]] sind unvollständig, es fehlen die Lieferscheine für die Monate März bis Mai 2026. Ich habe diese bei der Firma angefordert, die Antwort steht noch aus. Ich habe die Rechnungen nach Datum geordnet und in einer Tabelle zusammengestellt, die ich Ihnen gesondert übermittle.
 
-Wenn Sie die Akte an [[person|Galler]] weiterleiten, bitte ich um Rückmeldung, ob Ihr Büro die Kopien benötigt. Die Kopien sollten möglichst mit der Kl.-Nr. [[other_identifier|25283]] gekennzeichnet werden.
+Wenn Sie die Akte an [[person|Galler]] weiterleiten, bitte ich um Rückmeldung, ob Ihr Büro die Kopien benötigt. Die Kopien sollten möglichst mit der Kl.-Nr. [[other_identifier|25283]] gekennzeichnet werden. Die Baukosten, die in der Abrechnung der [[organization|Pixner KG]] aufgeführt sind, weichen um rund 18 Prozent von den Vergleichsangeboten ab, die ich eingeholt habe. Ich lege Ihnen die Angebote bei, damit Sie den Unterschied in Ihrer Stellungnahme darstellen können.
 
 Mit freundlichen Grüßen
 
@@ -57,7 +57,7 @@ Der Termin wird von unserer Kollegin [[person|Hayek]] übernommen, weil ich ab d
 
 Tel. [[phone_number|+43-463-7624639-0]]
 
-Die Mandantin wohnt in [[address|6858 Bildstein]] und hat die Klientennummer bereits angegeben. Frau [[person|Hegerová]] hat zudem in einem Schreiben darauf hingewiesen, dass die Baukosten im Gebiet von [[location|St. Andrä]] höher angesetzt wurden als vergleichbare Projekte. Dieser Hinweis wird im Schriftsatz aufgegriffen.
+Die Mandantin wohnt in [[address|6858 Bildstein]] und hat die Klientennummer bereits angegeben. Frau [[person|Hegerová]] hat zudem in einem Schreiben darauf hingewiesen, dass die Baukosten im Gebiet von [[location|St. Andrä]] höher angesetzt wurden als vergleichbare Projekte. Dieser Hinweis wird im Schriftsatz aufgegriffen. Der Verhandlungstermin ist für den [[date|13. November 2026]] um 9:30 Uhr angesetzt, bitte planen Sie für die Anreise ausreichend Zeit ein.
 
 Mit freundlichen Grüßen
 
@@ -83,7 +83,7 @@ Betreff: AW: AW: AW: Gerichtstermin, Verfahren [[court|BG Ried im Innkreis]]
 
 Sehr geehrte Frau [[person|Galler]],
 
-die [[organization|PKG]] bittet darum, den Termin nicht vor dem [[date|13. November 2026]] zu verschieben. Eine Verschiebung wäre nur mit dem Einverständnis aller Beteiligten möglich.
+die [[organization|PKG]] bittet darum, den Termin nicht vor dem [[date|13. November 2026]] zu verschieben. Eine Verschiebung wäre nur mit dem Einverständnis aller Beteiligten möglich. Ich bitte außerdem, die Kosten des Sachverständigen von EUR 2.100,00 nicht der Gegenseite zu verrechnen, da die Begutachtung im Auftrag der [[organization|PKG]] erfolgt ist. Die Honorarnote des Sachverständigen liegt Ihnen bereits vor.
 
 Mit freundlichen Grüßen
 

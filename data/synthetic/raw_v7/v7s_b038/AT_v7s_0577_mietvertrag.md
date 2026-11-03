@@ -37,7 +37,9 @@ II. Mietgegenstand
 
 2. Die Nutzfläche des Geschäftslokals beträgt 96,2 m². Der Lagerraum ist im Plan mit der Nummer 2 bezeichnet und hat eine Fläche von 11,4 m².
 
-3. Das Geschäftslokal darf ausschließlich als Büro und Beratungsstelle verwendet werden. Eine Änderung des Verwendungszwecks bedarf der schriftlichen Zustimmung der Vermieterin.
+3. Das Geschäftslokal ist mit einer Klimaanlage, einer Teeküche und einem separaten WC ausgestattet. Ein Energieausweis für das Gebäude liegt bei; die Vermieterin hat die Mieterin über den Energiebedarf der Räume aufgeklärt.
+
+4. Das Geschäftslokal darf ausschließlich als Büro und Beratungsstelle verwendet werden. Eine Änderung des Verwendungszwecks bedarf der schriftlichen Zustimmung der Vermieterin.
 
 III. Vertragsdauer
 
@@ -65,6 +67,8 @@ VI. Erhaltung und Umbauten
 1. Die Mieterin ist berechtigt, im Geschäftslokal bauliche Veränderungen nur mit vorheriger schriftlicher Zustimmung der Vermieterin vorzunehmen. Die Vermieterin ist nicht verpflichtet, Kosten für Einbauten der Mieterin zu tragen.
 
 2. Die Vermieterin hat die Außenfassade, das Dach und die gemeinsamen Leitungen auf eigene Kosten instand zu halten. Mängel sind der Vermieterin unverzüglich schriftlich anzuzeigen.
+
+3. Ist das Geschäftslokal infolge eines von der Vermieterin zu vertretenden Umstands länger als zwei Wochen nicht benutzbar, ruht der Mietzins für die Dauer der Unbenutzbarkeit anteilig. Die Mieterin hat die Vermieterin unverzüglich über den Schaden zu informieren und ihr Gelegenheit zur Behebung zu geben.
 
 VI a. Betriebskosten und Parkflächen
 

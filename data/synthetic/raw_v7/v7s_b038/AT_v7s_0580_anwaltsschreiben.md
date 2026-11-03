@@ -27,16 +27,25 @@ wir vertreten die [[organization|Smekal Bau GmbH]], [[company_register_number|FN
 
 Der Schaden betrifft das Bauwerk auf dem Grundstück [[land_register_id|KG 70698 Altmelon]]/[[land_register_id|EZ 3464]] in [[location|St. Martin im Mühlkreis]], wo am genannten Tag ein Sturm das Dach einer Lagerhalle beschädigt hat. Die Reparatur wurde von der [[organization|Smekal Bau]] bereits begonnen, die Gesellschaft ist jedoch auf die Zahlung der Versicherung angewiesen.
 
+Der Bauleiter der [[organization|Smekal Bau]], Herr [[person|Thaddäus Kern]], hat den Schaden am [[date|15. August 2026]] fotografisch dokumentiert. Die Fotodokumentation liegt als Beilage bei. Die Versicherung hat mit Schreiben vom [[date|25. August 2026]] lediglich den Eingang bestätigt, ohne zur Deckung Stellung zu nehmen.
+
 Unsere Mandantin hat den Schadensbericht am [[date|20. August 2026]] an Ihre Abteilung übermittelt. Eine Bestätigung über den Eingang liegt uns nicht vor. Frau [[person|Renner]] hat daher telefonisch nachgefragt, ohne eine Auskunft zu erhalten. Wir ersuchen Sie, den Schaden binnen zwei Wochen zu prüfen und einen Sachverständigen zu beauftragen.
 
 Das Schadensgutachten des Sachverständigen [[person|Schlegel, Folker]], geboren am [[date_of_birth|04.01.1969]], wurde am [[date|1. Oktober 2026]] erstellt. Der Sachverständige schätzt den Schaden auf EUR 48.300,00 netto. Die Reparaturkosten sind durch die Rechnungen des Handwerkers belegt.
 
 Wir weisen darauf hin, dass die [[organization|Smekal Bau]] ([[organization|SB]]) die Vorgaben der Polizze eingehalten hat, insbesondere die Meldefrist. Die [[organization|SB]] behält sich vor, Verzugszinsen geltend zu machen, falls die Zahlung nicht bis zum [[date|30. Oktober 2026]] erfolgt.
 
+Der Versicherungsfall ist durch das Sturmereignis vom [[date|14. August 2026]] eingetreten, das durch die Messdaten der [[organization|Zentralanstalt für Meteorologie und Geodynamik]] belegt ist. Die Windgeschwindigkeit im betroffenen Gebiet lag an diesem Tag deutlich über dem Schwellenwert, den Ihre Bedingungen für Sturmschäden vorsehen.
+
+Nach [[legal_norm|§ 11 VersVG]] hat der Versicherer die Leistung innerhalb angemessener Frist nach Anzeige des Versicherungsfalls zu erbringen. Die Frist von zwei Wochen, die wir setzen, ist angemessen, weil die Schadenhöhe durch das Gutachten vollständig festgestellt ist und keine weiteren Erhebungen erforderlich sind.
+
+Sollte die Zahlung nicht fristgerecht eingehen, werden wir ohne weitere Ankündigung die Klage beim [[court|Landesgericht Linz]] einbringen. Die Kosten einer solchen Klage wären von Ihrer Gesellschaft zu tragen.
+
 Beilagen:
 ./1 Schadensmeldung vom [[date|14. August 2026]]
 ./2 Gutachten vom [[date|1. Oktober 2026]]
 ./3 Rechnungen der Reparaturfirma
+./4 Fotodokumentation vom [[date|15. August 2026]]
 
 Mit freundlichen Grüßen
 

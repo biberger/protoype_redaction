@@ -39,13 +39,15 @@ LFD. NR. | PARTEI | ANTEIL | GRUNDBUCHSTELLUNG
 
 I. Vertragsgegenstand
 
-Die Verkäuferin ist grundbücherliche Alleineigentümerin der Liegenschaft [[land_register_id|2927/Wildermieming]] [[land_register_id|Gst 1230/27]], wie sich aus dem Grundbuchsauszug ergibt, der den Vertragsparteien bei Vertragsunterfertigung vorgelegen ist. Die Liegenschaft besteht aus einem Wohnhaus mit Garten und einer Garage, die Gesamtfläche beträgt laut Vermessungsurkunde 812 m². Die Verkäuferin verkauft und übergibt die Liegenschaft samt allen wesentlichen Bestandteilen und dem Zubehör an die Käufer, die diese zu je einem Hälfteanteil erwerben.
+Die Verkäuferin ist grundbücherliche Alleineigentümerin der Liegenschaft [[land_register_id|2927/Wildermieming]] [[land_register_id|Gst 1230/27]], wie sich aus dem Grundbuchsauszug ergibt, der den Vertragsparteien bei Vertragsunterfertigung vorgelegen ist. Die Liegenschaft besteht aus einem Wohnhaus mit Garten und einer Garage, die Gesamtfläche beträgt laut Vermessungsurkunde 812 m². Das Wohnhaus wurde im Jahr 1978 errichtet und zuletzt im Jahr 2009 saniert, die Heizung wurde im Jahr 2015 erneuert. Die Verkäuferin verkauft und übergibt die Liegenschaft samt allen wesentlichen Bestandteilen und dem Zubehör an die Käufer, die diese zu je einem Hälfteanteil erwerben. Zum Zubehör zählen die Einbaumöbel der Küche, die Gartenhütte und der Rasenmäher, nicht aber die Waschmaschine, die von der Verkäuferin mitgenommen wird.
+
+Die Vertragsparteien halten fest, dass die Flächenangabe nach der Vermessungsurkunde maßgeblich ist. Eine Abweichung von bis zu fünf Prozent berechtigt zu keiner Preisanpassung. Ein darüber hinausgehender Unterschied wird im Verhältnis der Flächen anteilig berücksichtigt, sofern eine Partei dies innerhalb von vier Wochen ab Übergabe schriftlich verlangt.
 
 Die Verkäuferin erklärt, dass die Liegenschaft frei von Bestandrechten ist, mit Ausnahme einer Dienstbarkeit des Wegerechtes zugunsten des Nachbargrundstückes, die im Grundbuch ersichtlich ist. Ein Vorkaufsrecht Dritter besteht nicht. Die Käufer haben die Liegenschaft besichtigt und übernehmen sie in dem Zustand, in dem sie sich am Tag der Übergabe befindet.
 
 II. Kaufpreis und Zahlung
 
-Der vereinbarte Kaufpreis beträgt EUR 348.000,00 (in Worten: dreihundertachtundvierzigtausend Euro). Auf den Kaufpreis wird eine Anzahlung von EUR 35.000,00 bei Vertragsunterfertigung geleistet, der Rest von EUR 313.000,00 ist bis spätestens [[date|27. Oktober 2026]] auf das Treuhandkonto der Verkäuferin bei der Oberbank AG mit der IBAN [[bank_account|AT06 9456 5218 9605 3445]] zu überweisen.
+Der vereinbarte Kaufpreis beträgt EUR 348.000,00 (in Worten: dreihundertachtundvierzigtausend Euro). Auf den Kaufpreis wird eine Anzahlung von EUR 35.000,00 bei Vertragsunterfertigung geleistet, der Rest von EUR 313.000,00 ist bis spätestens [[date|27. Oktober 2026]] auf das Treuhandkonto der Verkäuferin bei der [[organization|Oberbank AG]] mit der IBAN [[bank_account|AT06 9456 5218 9605 3445]] zu überweisen.
 
 Der Kaufpreis wird nicht unmittelbar an die Verkäuferin ausbezahlt, sondern über die Vertragserrichter treuhändig verwahrt. Die Treuhandschaft ist zu Treuhandbuch-Nr. [[other_identifier|2018/855]] eingetragen. Die Treuhandabwicklung erfolgt nach den Bestimmungen des Treuhandbuches. Die Freigabe des Kaufpreises an die Verkäuferin erfolgt erst, wenn die Pfandfreistellung nachgewiesen ist und das Eigentumsrecht der Käufer im Grundbuch ersichtlich ist.
 
@@ -67,13 +69,37 @@ Die Grunderwerbsteuer nach [[legal_norm|§ 4 GrEStG]] wird von den Käufern getr
 
 VI. Gewährleistung und Schlussbestimmungen
 
-Die Verkäuferin haftet für die Richtigkeit der Angaben über die Liegenschaft. Im Übrigen gelten die Bestimmungen des [[legal_norm|ABGB]] über den Kauf, soweit im Vertrag nichts anderes vereinbart ist. Mündliche Nebenabreden bestehen nicht. Änderungen dieses Vertrages bedürfen der Schriftform.
+Die Verkäuferin haftet für die Richtigkeit der Angaben über die Liegenschaft. Im Übrigen gelten die Bestimmungen des [[legal_norm|ABGB]] über den Kauf, soweit im Vertrag nichts anderes vereinbart ist. Mündliche Nebenabreden bestehen nicht. Änderungen dieses Vertrages bedürfen der Schriftform. Die Verkäuferin räumt den Käufern das Recht ein, das Wegerecht zugunsten des Nachbargrundstückes auf dem eigenen Grund nur in dem Umfang auszuüben, wie es im Grundbuch ersichtlich ist. Eine Erweiterung der Dienstbarkeit wird nicht vereinbart.
+
+Sollte eine Bestimmung dieses Vertrages unwirksam sein, so bleibt der Vertrag im Übrigen gültig. Die Parteien verpflichten sich, die unwirksame Bestimmung durch eine dem wirtschaftlichen Zweck möglichst nahekommende wirksame Regelung zu ersetzen. Der Vertrag wird in fünf gleichlautenden Ausfertigungen errichtet, je eine für die Verkäuferin, jeden Käufer, die Zeugin und die Vertragserrichter.
 
 Die Käufer erklären, dass sie die finanzielle Leistungsfähigkeit für den Kaufpreis haben und dass sie den Vertrag nach Belehrung über die Rechtsfolgen abschließen. Die Vertragserrichter haben die Parteien über die Bedeutung der Treuhandschaft und der Pfandfreistellung aufgeklärt. Die Parteien stimmen der Speicherung ihrer Daten für die Abwicklung zu.
 
 Die Wirksamkeit des Vertrages steht unter der Bedingung der Genehmigung durch die Zeugin, soweit diese im Zusammenhang mit der Haushaltsgemeinschaft der Käuferin zustimmen muss. Die Zeugin [[person|Krausz]] bestätigt, dass sie dem Erwerb zustimmt und den Vertrag ohne Vorbehalt unterfertigt.
 
-VII. Unterschriften
+VII. Lastenfreistellung und Treuhandabrechnung
+
+Auf der Liegenschaft lastet zugunsten einer Bank ein Pfandrecht, das bis zur Übergabe zu löschen ist. Die Verkäuferin verpflichtet sich, die Löschungserklärung des Pfandgläubigers bis zur Fälligkeit des Restkaufpreises beizubringen. Die Vertragserrichter sind ermächtigt, die Löschung unmittelbar aus dem Treuhandkonto zu bedienen, soweit der Pfandgläubiger einen Ablösebetrag bekanntgibt. Ein allfälliger Überschuss wird an die Verkäuferin ausbezahlt, ein Fehlbetrag geht zu Lasten der Verkäuferin.
+
+Die Treuhandabrechnung wird nach Eintragung der Käufer im Grundbuch erstellt und den Vertragsparteien übermittelt. Sie weist folgende Positionen aus:
+
+POSITION | BETRAG (EUR) | FÄLLIG AM
+Kaufpreis gesamt | 348.000,00 | –
+Anzahlung | 35.000,00 | [[date|14.10.2026]]
+Restkaufpreis | 313.000,00 | [[date|27.10.2026]]
+Grunderwerbsteuer | ABRECHNUNG FOLGT | –
+Eintragungsgebühr | ABRECHNUNG FOLGT | –
+Vertragserrichtungskosten | NACH VEREINBARUNG | –
+
+Die Vertragsparteien nehmen zur Kenntnis, dass die Abrechnung der Treuhandschaft nur mit Zustimmung aller Parteien an die Verkäuferin ausgezahlt werden darf. Die Verkäuferin stimmt zu, dass Zahlungen der Käufer an die Verkäuferin unmittelbar nicht zulässig sind, solange die Treuhandschaft aufrecht ist. Eine Abtretung von Ansprüchen aus diesem Vertrag ist ohne Zustimmung der Verkäuferin unwirksam.
+
+VIII. Belehrungen und Hinweise
+
+Die Vertragserrichter haben die Käufer darauf hingewiesen, dass die Eintragung des Eigentumsrechtes erst mit Eingang beim Grundbuchsgericht wirksam wird. Bis zur Eintragung besteht lediglich ein Anspruch auf Einverleibung. Die Käufer wurden darüber belehrt, dass eine Haftung für Mängel, die bei der Besichtigung erkennbar waren, ausgeschlossen ist. Die Verkäuferin hat die Käufer darüber aufgeklärt, dass im Haus ein Heizöltank vorhanden ist, dessen Zustand nicht geprüft wurde.
+
+Die Vertragsparteien erklären, dass die im Vertrag angeführten Personen identisch sind mit den Personen in den Ausweisen, die den Vertragserrichtern vorgelegt wurden. Die Käuferin [[person|Jawed]] ist österreichische Staatsbürgerin, die Käuferin [[person|Löscher]] ist es ebenfalls. Die Zeugin [[person|Krausz]] hat den Vertrag in deutscher Sprache verstanden.
+
+IX. Unterschriften
 
 Ausgefertigt in [[address|2340 Mödling]] am [[date|14.10.2026]].
 

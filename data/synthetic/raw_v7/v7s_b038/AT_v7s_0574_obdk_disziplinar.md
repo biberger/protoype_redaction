@@ -57,7 +57,7 @@ Nach [[legal_norm|§ 43 Abs 1 RAO]] hat der Rechtsanwalt bei der Ausübung seine
 
 Der Umstand, dass die Beschuldigte zur Zeit der Tat Mutter eines Kleinkindes war und einen Umzug zu bewältigen hatte, ist nicht als Entschuldigung anzusehen. Die Pflicht zur ordnungsgemäßen Fremdgeldverwaltung trifft jeden Rechtsanwalt unabhängig von seinen persönlichen Verhältnissen.
 
-Als mildernd berücksichtigt der Senat das Geständnis hinsichtlich der verspäteten Auszahlung und die Schadensgutmachung vor der Verhandlung. Erschwerend ist die Mehrzahl der betroffenen Mandate. Die Geldbuße wurde unter Berücksichtigung der Einkommensverhältnisse festgesetzt.
+Als mildernd berücksichtigt der Senat das Geständnis hinsichtlich der verspäteten Auszahlung und die Schadensgutmachung vor der Verhandlung. Ein Teil der Schadensgutmachung erfolgte erst nach der Anzeige, weshalb der Senat diesem Umstand nur eingeschränkt Gewicht beimisst. Die Beschuldigte hat die Beträge aus eigenen Mitteln ausgeglichen, was der Senat anerkennend berücksichtigt. Erschwerend ist die Mehrzahl der betroffenen Mandate. Die Geldbuße wurde unter Berücksichtigung der Einkommensverhältnisse festgesetzt.
 
 Die Abrechnungspflicht gegenüber dem Klienten ergibt sich aus dem Auftragsverhältnis. Eine verspätete Abrechnung verletzt die Pflicht zur gewissenhaften Vertretung nach [[legal_norm|§ 43 Abs 1 RAO]] auch dann, wenn kein Geld verloren geht. Im vorliegenden Fall hat die Beschuldigte die Abrechnung bei der Klientin erst nach zwei Aufforderungen eingereicht, was den Vorwurf des Senats verstärkt.
 

@@ -57,9 +57,9 @@ Die Zustimmung der [[country|Republik Österreich]] ist für die Abtrennung erfo
 
 Die Einverleibung wird daher beantragt. Die Verkäuferin hat keine weiteren Rechte an der Liegenschaft angemeldet, die dem Antrag entgegenstehen.
 
-Der Streitwert bemisst sich nach dem vereinbarten Kaufpreis, der auf den abzutrennenden Teil und auf die verbleibende Fläche aufgeteilt wurde. Die Gerichtsgebühr für den Antrag wurde entrichtet; der Zahlungsnachweis wird mit dem ERV-Schriftsatz übermittelt. Die Antragsgegnerin hat die Kosten der Eintragung zu tragen, soweit das Gericht dies nach dem Grundsatz des Erfolgs entscheidet.
+Der Streitwert bemisst sich nach dem vereinbarten Kaufpreis, der auf den abzutrennenden Teil und auf die verbleibende Fläche aufgeteilt wurde. Die Gerichtsgebühr für den Antrag wurde entrichtet; der Zahlungsnachweis wird mit dem ERV-Schriftsatz übermittelt. Die Antragsgegnerin hat die Kosten der Eintragung zu tragen, soweit das Gericht dies nach dem Grundsatz des Erfolgs entscheidet. Der Antragsteller ersucht außerdem, die Eintragung nach Eingang der Zustimmung ohne weitere Verzögerung vorzunehmen, da die Kaufpreiszahlung bereits geleistet ist und der Verkäuferin keine weitere Leistung obliegt.
 
-Die Antragsgegnerin hat zudem auf die Anfrage des Antragstellers vom [[date|12.01.2026]] nicht reagiert, sodass das Vorbringen zur Zustimmung als unbestritten zu werten ist. Die Abtrennung der Teilfläche entspricht dem Teilungsplan des Vermessungsamts, der dem Gericht bereits vorgelegt wurde. Die Teilfläche ist im Plan als eigenes Grundstück gekennzeichnet und wurde mit einer Fläche von rund 212 Quadratmetern vermessen.
+Die Antragsgegnerin hat zudem auf die Anfrage des Antragstellers vom [[date|12.01.2026]], die um Bestätigung der Abtrennung und der Kaufpreisabrechnung ersuchte, nicht reagiert, und auch die Erinnerung vom [[date|20.02.2026]] blieb unbeantwortet, sodass das Vorbringen zur Zustimmung als unbestritten zu werten ist. Die Abtrennung der Teilfläche entspricht dem Teilungsplan des Vermessungsamts, der dem Gericht bereits vorgelegt wurde. Die Teilfläche ist im Plan als eigenes Grundstück gekennzeichnet und wurde mit einer Fläche von rund 212 Quadratmetern vermessen.
 
 III. Ergänzendes zur Lastenlage
 

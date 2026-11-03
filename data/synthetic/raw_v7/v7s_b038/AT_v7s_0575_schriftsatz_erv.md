@@ -70,4 +70,4 @@ Rechtsanwalt
 Für den Kläger, ERV-Code [[other_identifier|P664237]]
 Tel. [[phone_number|0463/4094590-2]]
 
-Die Klagsvertretung übermittelt außerdem eine Abschrift der Polizze an das [[court|BG Mistelbach]], die Gesellschaftsdaten der [[organization|ALEXANDRI KG]] lauten [[company_register_number|FN 539949v]], UID [[tax_id|ATU12276455]].
+Die Klagsvertretung übermittelt außerdem eine Abschrift der Polizze an das [[court|BG Mistelbach]], die Kosten sind nach [[legal_norm|TP 3A RATG]] verzeichnet. Die Gesellschaftsdaten der [[organization|ALEXANDRI KG]] lauten [[company_register_number|FN 539949v]], UID [[tax_id|ATU12276455]].

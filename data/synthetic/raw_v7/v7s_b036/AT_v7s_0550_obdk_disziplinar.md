@@ -68,11 +68,11 @@ Die Kammeranwaltschaft hat die Einstellung des Verfahrens hinsichtlich der Treuh
 
 Die Verwendung der Gelder für eigene Zwecke ist besonders schwer zu rechtfertigen, weil die Beschuldigte als Rechtsanwältin die Verwaltung fremder Gelder gewerbsmäßig übernommen hat. Wer diese Aufgabe übernimmt, muss sich die Einhaltung der Vorschriften jederzeit vor Augen halten; das gilt auch dann, wenn die Kanzlei unter Zeitdruck arbeitet. Der Senat hat deshalb die betragsmäßige Höhe der Verfehlungen als wesentlichen Faktor berücksichtigt.
 
-Die Beschuldigte hat in der Verhandlung darauf hingewiesen, dass sie seit der Rückzahlung im Jahr 2022 keine weiteren Beanstandungen erhalten habe. Der Senat stellt fest, dass sich die dritte Verfehlung, die Treuhandschaft Nr. [[other_identifier|2026/972]] betreffend, jedoch nach dem Zeitpunkt der ersten beiden Fälle ereignete. Das Argument der Unbescholtenheit greift daher nur eingeschränkt.
+Die Beschuldigte hat in der Verhandlung darauf hingewiesen, dass sie seit der Rückzahlung im Jahr 2022 keine weiteren Beanstandungen erhalten habe. Die Kammer hat dies bestätigt, soweit es die Aufsicht betrifft; zu den Vorgängen des Jahres 2026 lag jedoch damals noch keine Prüfung vor. Der Senat stellt fest, dass sich die dritte Verfehlung, die Treuhandschaft Nr. [[other_identifier|2026/972]] betreffend, jedoch nach dem Zeitpunkt der ersten beiden Fälle ereignete. Das Argument der Unbescholtenheit greift daher nur eingeschränkt.
 
 Die Klientin [[organization|Baumgartner e.U.]] wurde im Verfahren angehört. Ihr Inhaber hat erklärt, dass er durch die verzögerte Abrechnung in der Finanzierung eines Projekts beeinträchtigt wurde und dass ihm ein Schaden in Höhe von rund EUR 3.000,00 entstanden sei. Der Senat weist darauf hin, dass ein allfälliger Schadenersatzanspruch im Zivilrechtsweg geltend zu machen ist und nicht Gegenstand dieses Verfahrens sein kann.
 
-Die Kammeranwaltschaft hat der Entscheidung zugestimmt. Die Beschuldigte hat auf die Anfechtung verzichtet. Die Entscheidung ergeht an die Beschuldigte, Tel. [[phone_number|05572 975203-82]], und an die [[organization|RAKW]].
+Die Kammeranwaltschaft hat der Entscheidung zugestimmt und auf die Einhaltung der Auflagen hingewiesen. Die Beschuldigte hat auf die Anfechtung verzichtet. Die Entscheidung ergeht an die Beschuldigte, Tel. [[phone_number|05572 975203-82]], und an die [[organization|RAKW]].
 
 Die Zustellanschrift lautet [[address|3592 Röhrenbach]]. Für die Kanzlei gilt [[location|St. Florian]] als Ort der Einlaufstelle.
 

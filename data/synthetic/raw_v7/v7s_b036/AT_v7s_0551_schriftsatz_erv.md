@@ -42,7 +42,7 @@ I. Vorbringen
 
 5. Die Streitverkündete [[person|Aicher]] hat die Planung der Dachkonstruktion verantwortet. Sie hat die Abdichtung nach den anerkannten Regeln der Technik ausgeführt, sodass die Beklagte im Innenverhältnis Regress nehmen kann.
 
-Zur Streitverkündung ist festzuhalten, dass die [[person|Aicher]] ihren Beitritt zum Verfahren bisher nicht erklärt hat. Die Beklagte hat sie daher förmlich aufgefordert, dem Verfahren beizutreten und sich zu den Behauptungen der Klägerin zu äußern. Die Frist dafür läuft nach der Zustellung dieses Schriftsatzes; ein Beitritt ist im Interesse der Beklagten, weil nur so die Feststellungen zur Planung im Verfahren verbindlich werden.
+Zur Streitverkündung ist festzuhalten, dass die [[person|Aicher]] ihren Beitritt zum Verfahren bisher nicht erklärt hat. Die Beklagte hat sie daher förmlich aufgefordert, dem Verfahren beizutreten und sich zu den Behauptungen der Klägerin zu äußern. Die Frist dafür läuft nach der Zustellung dieses Schriftsatzes; ein Beitritt ist im Interesse der Beklagten, weil nur so die Feststellungen zur Planung im Verfahren verbindlich werden. Die Beklagte behält sich vor, ihren Regressanspruch gegen die Streitverkündete gesondert geltend zu machen.
 
 Die Klägerin hat die Schadenhöhe zunächst mit einem Gutachten, das am [[date|17.01.2025]] erstellt wurde, und einem weiteren Kostenvoranschlag belegt. Das Gutachten eines Bausachverständigen belegt, das jedoch nur die Sanierungskosten für das Dachgeschoss umfasst. Eine Aufstellung der Positionen für die Wohnung selbst fehlt; die Beklagte bestreitet deshalb die Höhe der geltend gemachten Positionen mit Nichtwissen.
 
@@ -70,7 +70,7 @@ III. Ergänzendes Vorbringen zur Schadensentstehung
 
 10. Die Streitverkündete [[person|Birgitt Aicher]] hat in einer Stellungnahme vom [[date|03.04.2026]] bestätigt, dass die Dachkonstruktion zum Zeitpunkt der Planung den einschlägigen Normen entsprach. Eine Mitwirkung an der Ausführung der Abdichtung hat sie bestritten.
 
-11. Die Schadenhöhe der Klägerin umfasst neben den Sanierungskosten auch einen Mietentgang für drei Monate. Die Beklagte bestreitet die Höhe dieses Mietentgangs, da die Wohnung zum Zeitpunkt des Schadens nach den Angaben der Mieterin noch nicht wieder vermietbar war.
+11. Die Schadenhöhe der Klägerin umfasst neben den Sanierungskosten auch einen Mietentgang für drei Monate. Die Beklagte bestreitet die Höhe dieses Mietentgangs, da die Wohnung zum Zeitpunkt des Schadens nach den Angaben der Mieterin noch nicht wieder vermietbar war. Der Mietentgang ist außerdem nur insoweit zu ersetzen, als die Klägerin die Wohnung ohne den Schaden vermietet hätte; ein Nachweis eines Mietvertrags für die Zeit nach dem Schaden fehlt.
 
 IV. Anträge
 
