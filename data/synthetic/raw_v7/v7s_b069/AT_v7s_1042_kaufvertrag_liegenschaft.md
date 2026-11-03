@@ -34,6 +34,10 @@ Tel. [[phone_number|+43-732-4587593 Durchwahl 61]]
 
 Die Vertragsparteien schließen folgenden Kaufvertrag:
 
+Vorbemerkung
+
+Die Liegenschaft wurde den Verkäuferinnen mit Einantwortungsbeschluss vom [[date|12.03.2019]] übertragen. Die Verkäuferinnen haben seither das Wohnhaus bewohnt beziehungsweise vermietet. Ein Vorkaufsrecht zugunsten Dritter besteht nicht. Die Käuferin hat das Objekt am [[date|21.08.2026]] gemeinsam mit [[person|Herwig Neuhuber]] besichtigt und den Zustand zur Kenntnis genommen. Eine Lagebeschreibung und ein aktueller Grundbuchsauszug vom [[date|01.09.2026]] liegen dem Vertrag als Beilagen ./1 und ./2 bei.
+
 I. Vertragsgegenstand
 
 Die Verkäuferinnen sind bücherliche Eigentümerinnen folgender Liegenschaften:
@@ -90,6 +94,22 @@ Grunderwerbsteuer (3,5 %)         | € 16.975,00  | Käuferin
 Eintragungsgebühr (1,1 %)         | € 5.335,00   | Käuferin
 Vertragserrichtung, Treuhandgebühr | € 2.400,00  | je zur Hälfte
 Löschungsgebühr                   | € 360,00     | Verkäuferinnen
+
+X. Zusicherungen
+
+Die Verkäuferinnen sichern zu, dass ihnen außer dem oben genannten Mietverhältnis keine Rechte Dritter an der Liegenschaft bekannt sind, dass keine Verwaltungsverfahren zur Liegenschaft anhängig sind und dass die Baubewilligung für das Wohnhaus vorliegt. Die Käuferin bestätigt, die Liegenschaft im gegenwärtigen Zustand zu erwerben. Eine Haftung für Energieausweis oder Bodenbeschaffenheit wird nicht übernommen.
+
+XI. Zahlungsplan
+
+Fälligkeit          | Betrag        | Verwendung
+[[date|08.09.2026]] | € 48.500,00   | Anzahlung auf das Treuhandkonto
+[[date|15.10.2026]] | € 436.500,00  | Restkaufpreis nach Lastenfreistellung
+
+Die Zahlung des Restkaufpreises erfolgt nur, wenn die Löschungsurkunden für sämtliche Pfandrechte vorliegen. Die Käuferin nimmt zur Kenntnis, dass sich die Fälligkeit bei verspäteter Vorlage verschiebt, ohne dass ihr daraus Verzugszinsen entstehen.
+
+XII. Belehrung und Nebenabreden
+
+Der Treuhänder hat die Parteien über die Bedeutung der Eintragung im Grundbuch, über die Vormerkung und über die Grunderwerbsteuer belehrt. Die Käuferin erhält die Ausfertigung der Vertragsurkunde nach vollständiger Zahlung des Kaufpreises. Die Vollmacht des [[person|Neuhuber]] für die [[organization|STÖHR GMBH]] ist dem Vertrag als Beilage ./3 angeschlossen; die Mitschuldnerin [[person|Einspieler]] erklärt, der Vertragsübernahme zuzustimmen und den Kaufpreis gemeinsam mit der Käuferin zu tragen.
 
 Die Vertragsparteien erklären, den Vertrag gelesen zu haben und mit dessen Inhalt einverstanden zu sein. Erfüllungsort ist [[location|St. Pölten]].
 

@@ -79,6 +79,22 @@ Rechtliche Beurteilung
 
 Gegen dieses Erkenntnis steht den Parteien das Rechtsmittel der Berufung an die [[court|OBDK]] offen. Die Berufungsfrist beträgt vier Wochen ab Zustellung.
 
+Verfahrensgang
+
+Die Anzeige des Klienten [[person|Helmar Schöll]] ist am [[date|12.03.2026]] bei der Kammer eingegangen. Die Kammeranwaltschaft hat den Vorgang zunächst außergerichtlich geprüft und den Beschuldigten am [[date|02.04.2026]] zur Stellungnahme aufgefordert. Die Stellungnahme wurde fristgerecht eingebracht. Erst danach wurde die Anklage erhoben, weil der Kammeranwalt die Verbuchungen als nicht eindeutig erklärbar ansah.
+
+Die mündliche Verhandlung hat über zwei Termine stattgefunden. Beim ersten Termin am [[date|10.06.2026]] wurde der Zeuge [[person|Helmar Schöll]] vernommen; beim zweiten Termin am [[date|24.06.2026]] wurde das Erkenntnis verkündet. Der Beschuldigte war bei beiden Terminen anwesend und durch die Kanzlei vertreten.
+
+Strafbemessung
+
+Der Strafrahmen für die Verletzung von Berufspflichten im Zusammenhang mit Klientengeldern reicht bis zu einer Geldbuße von EUR 20.000,00. Der Senat hat sich bei der Bemessung an der Schwere des Verstoßes, am Ausmaß der Gefährdung für den Klienten und am Verhalten des Beschuldigten nach der Tat orientiert.
+
+Die Gefährdung war nach Einschätzung des Senates gering, weil der Betrag zu keinem Zeitpunkt für Dritte unzugänglich war und der Restbetrag vollständig ausgezahlt wurde. Das Verhalten nach der Tat ist insoweit neutral zu werten, als der Beschuldigte die Nachtragung zwar veranlasst, aber erst nach der Beschwerde des Klienten.
+
+Die Anzahl der Vorfälle, zwei nicht eingetragene Bewegungen innerhalb von vier Tagen, spricht für eine Einzelfallbetrachtung und gegen eine Häufung. Eine Erhöhung der Geldbuße über EUR 1.800,00 hat der Senat daher nicht als geboten angesehen.
+
+Der Kammeranwalt hat in seiner Replik ausdrücklich eine Geldbuße von EUR 2.500,00 beantragt. Der Senat folgt diesem Antrag nicht, weil der Kammeranwalt die Gefährdung des Klienten nicht näher dargelegt hat.
+
 Für die Richtigkeit der Ausfertigung:
 
 [[location|Wien]], am [[date|24.06.2026]]

@@ -28,7 +28,7 @@ Begründung
 
 1. Verfahrensgang
 
-Die Disziplinaranzeige wurde von [[person|Lionel Zahn]] eingebracht, der Klient des Beschuldigten in einer Erbschaftsangelegenheit war. Die Anzeige stützt sich auf den Bericht über die Treuhandprüfung, die am [[date|08.04.2026]] abgeschlossen wurde. Der Kammeranwalt [[person|Nikitović]] hat die Anzeige nach Prüfung der Unterlagen erhoben. Die Anzeige wurde innerhalb der gesetzlichen Frist eingebracht und enthält die Angaben zu allen Buchungen, die Gegenstand der Prüfung waren. Die Kammeranwaltschaft hat die Anzeige in der Verhandlung ohne Änderungen vertreten. Die Ladung erfolgte per Post.
+Die Disziplinaranzeige wurde von [[person|Lionel Zahn]] eingebracht, der Klient des Beschuldigten in einer Erbschaftsangelegenheit war. Die Anzeige stützt sich auf den Bericht über die Treuhandprüfung, die am [[date|08.04.2026]] abgeschlossen wurde. Der Kammeranwalt [[person|Nikitović]] hat die Anzeige nach Prüfung der Unterlagen erhoben. Die Anzeige wurde innerhalb der gesetzlichen Frist eingebracht und enthält die Angaben zu allen Buchungen, die Gegenstand der Prüfung waren. Die Kammeranwaltschaft hat die Anzeige in der Verhandlung ohne Änderungen vertreten. Die Ladung erfolgte rechtzeitig per Post an alle Beteiligten.
 
 Der Beschuldigte [[lawyer|Abadzhiev]] bestreitet nicht, dass die Auszahlung erfolgt ist. Er bringt vor, [[person|Zahn]] habe die Auszahlung in einem persönlichen Gespräch ausdrücklich verlangt. [[person|Zahn]] bestreitet dies und verweist darauf, dass er nur eine Teilzahlung von der Gegenseite erwartet habe.
 
