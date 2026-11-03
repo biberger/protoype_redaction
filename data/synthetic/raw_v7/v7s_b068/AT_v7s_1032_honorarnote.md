@@ -41,6 +41,10 @@ Herr [[person|Babouli]] hat den Zahlungsverzug der Vorperiode am [[date|1. Septe
 
 Die Leistungen wurden nach dem Zeitaufwand abgerechnet. Die Auslagen für Kopien und Porto sind in den Positionen enthalten.
 
+Die Korrespondenz mit der Hausverwaltung wurde am [[date|14. Juli 2026]] aufgenommen; die Antwort vom [[date|28. Juli 2026]] enthielt keine Zusage zur Mängelbehebung. Das Schreiben an die Gegenseite vom [[date|11. August 2026]] wurde per Einschreiben übermittelt, der Rückschein ist im Akt abgelegt.
+
+Die Besprechung mit dem Sachverständigen fand am Objekt statt. Die Teilnehmer waren [[person|Saied Babouli]] sowie der beigezogene Gutachter. Das Protokoll dieser Besprechung wurde [[person|Babouli]] übermittelt und von diesem ohne Einwand zur Kenntnis genommen.
+
 Zahlbar binnen 14 Tagen auf das Konto IBAN [[bank_account|AT49 7183 2001 2975 6858]] unter Angabe der Klientennummer [[other_identifier|88582]].
 
 EINGANG [[date|09.10.2026]] – KLIENT: [[person|SAIED BABOULI]] – AKT [[other_identifier|B/BABOULI/2547]]

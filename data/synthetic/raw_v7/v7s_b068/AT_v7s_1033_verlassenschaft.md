@@ -51,6 +51,12 @@ IV. Erben und Vermächtnisnehmer
 
 11. Die Vermächtnisnehmerin [[person|Danegger]] hat auf die Erbschaft verzichtet, behält jedoch den Vermächtnisanspruch.
 
+Die Verlassenschaft wurde am [[date|21. September 2026]] beim [[court|BG Liesing]] angezeigt. Die Todesfallaufnahme erfolgte am [[date|23. September 2026]] durch die Notare. Die Sterbeurkunde und die Geburtsurkunde der Erblasserin liegen vor.
+
+Die Liegenschaft ist frei von Pfandrechten. Die Belastungs- und Veräußerungsverbote wurden im Grundbuch bisher nicht eingetragen. Die Grundbuchsabfrage vom [[date|1. Oktober 2026]] bestätigt den Eigentumsstand der Erblasserin.
+
+Die Einantwortung ist nach Ablauf der Erbantrittsfrist vorgesehen. Eine Abgabenpflicht besteht nach den derzeit geltenden Bestimmungen nicht; die Meldung an das Finanzamt erfolgt durch den Notar.
+
 Das Inventar vom [[date|5. Oktober 2026]] verzeichnet Hausrat im Wert von EUR 3.900,00, Schmuck im Wert von EUR 2.150,00 und einen Pkw ohne Verkehrswert. Die Liegenschaft wurde am [[date|12. August 2026]] durch einen Sachverständigen geschätzt; der Verkehrswert beträgt EUR 265.000,00.
 
 Zu ihren Lebzeiten hatte [[person|Saurer]] die Verwaltung der Liegenschaft einer Hausverwaltung übertragen. Die Verträge wurden mit Ablauf des [[date|31. Juli 2026]] gekündigt. Die Mieter haben die Wohnungen bis zum [[date|30. September 2026]] geräumt.

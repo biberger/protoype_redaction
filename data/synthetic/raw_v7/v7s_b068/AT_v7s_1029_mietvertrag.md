@@ -79,6 +79,12 @@ Mieterin:
 
 18. Nebenabreden bestehen nicht. Sollte eine Bestimmung dieses Vertrages unwirksam sein, bleibt der übrige Vertrag wirksam. Der Vertrag unterliegt österreichischem Recht; die Parteien vereinbaren [[location|Kitzbühel]] als Gerichtsstand.
 
+§ 9 Übergabe und Zustand
+
+19. Die Wohnung wurde am [[date|1. März 2026]] im renovierten Zustand übergeben. Ein Übergabeprotokoll mit Zählerständen für Strom, Wasser und Warmwasser liegt bei. Die Mieterin bestätigt, dass die Wohnung frei von Schäden übergeben wurde, mit Ausnahme der im Protokoll vermerkten Kratzer am Parkettboden im Vorzimmer.
+
+20. Die Vermieterin hat die Wohnung vor Übergabe reinigen lassen. Der Zustand der Elektroinstallation wurde durch einen Befund vom [[date|12. Februar 2026]] bestätigt; eine Kopie ist dem Vertrag beigelegt.
+
 Die Vertragsparteien unterfertigen den Vertrag in zwei Ausfertigungen.
 
 [[location|Kitzbühel]], am [[date|20. Februar 2026]]

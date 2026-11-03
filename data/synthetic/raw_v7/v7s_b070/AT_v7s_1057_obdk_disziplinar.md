@@ -23,7 +23,7 @@ Der Beschuldigte ist schuldig, er hat als Rechtsanwalt Gelder seiner Klienten, d
 
 Sachverhalt
 
-Der Beschuldigte ist seit dem [[date|3. Mai 1991]] als Rechtsanwalt in der Steiermark eingetragen und Mitglied der [[organization|Steiermärkischen Rechtsanwaltskammer]] (im Folgenden: [[organization|RAK]]). Er führte eine Kanzlei in [[location|St. Gilgen]] und betreute Mandate auch im Raum [[location|Graz]].
+Der Beschuldigte ist seit dem [[date|3. Mai 1991]] als Rechtsanwalt in der [[location|Steiermark]] eingetragen und Mitglied der [[organization|Steiermärkischen Rechtsanwaltskammer]] (im Folgenden: [[organization|RAK]]). Er führte eine Kanzlei in [[location|St. Gilgen]] und betreute Mandate auch im Raum [[location|Graz]].
 
 Die Treuhandbuchhaltung des Beschuldigten erfolgte über das Konto [[bank_account|AT40 1657 0157 4425 3019]]. Im Verfahren wurden folgende Bewegungen festgestellt:
 

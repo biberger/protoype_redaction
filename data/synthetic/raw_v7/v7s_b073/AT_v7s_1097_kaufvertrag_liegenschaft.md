@@ -33,7 +33,7 @@ I. Vertragsparteien
 und
 [[person|Gescha Hölzl]], geboren am [[date_of_birth|1998-07-02]], Staatsangehörigkeit: [[country|Afghanistan]], wohnhaft in [[address|Dorfstraße 17, 8354 Sankt Anna am Aigen]].
 
-Hölzl Gescha ist die Lebensgefährtin des Käufers Schmitz und hat bei der Errichtung dieses Vertrages die Vollmacht vom 28.09.2026 übergeben. Die Vollmacht liegt dieser Urkunde bei.
+[[person|Hölzl Gescha]] ist die Lebensgefährtin des Käufers [[person|Schmitz]] und hat bei der Errichtung dieses Vertrages die Vollmacht vom 28.09.2026 übergeben. Die Vollmacht liegt dieser Urkunde bei.
 
 II. Kaufgegenstand
 
@@ -47,7 +47,7 @@ Der Kaufpreis beträgt EUR 485.000,00 (in Worten: vierhundertfünfundachtzigtaus
 
 IV. Treuhandabwicklung
 
-1. Die Käufer erlegen den Kaufpreis bis spätestens 15.11.2026 auf das Treuhandkonto der Kanzlei bei der Raiffeisenbank Wolfsgraben, IBAN [[bank_account|AT79 8790 3018 4465 0610]]. Die Abwicklung erfolgt über das Treuhandbuch der Kanzlei unter der Nummer [[other_identifier|2023/887]].
+1. Die Käufer erlegen den Kaufpreis bis spätestens 15.11.2026 auf das Treuhandkonto der Kanzlei bei der [[organization|Raiffeisenbank Wolfsgraben]], IBAN [[bank_account|AT79 8790 3018 4465 0610]]. Die Abwicklung erfolgt über das Treuhandbuch der Kanzlei unter der Nummer [[other_identifier|2023/887]].
 
 2. Die Kanzlei übernimmt die Treuhandschaft für beide Vertragsparteien. Sie ist berechtigt, den Kaufpreis erst nach Vorliegen der Eintragungsbewilligung und der Aufsandungserklärung an die Verkäuferinnen auszuzahlen. Ausstehende Abgaben und Gebühren werden aus dem Kaufpreis beglichen.
 
@@ -63,7 +63,7 @@ V. Aufsandungserklärung und Einverleibung
 
 VI. Besitzübergabe und Gewährleistung
 
-Die Übergabe des Besitzes erfolgt mit dem Tag der Kaufpreiszahlung. Ab diesem Zeitpunkt trägt der Käufer Nutzen und Gefahr. Die Verkäuferin zu 1 leistet Gewähr dafür, dass die Liegenschaft frei von Bestandrechten übergeben wird. Die Ullmann Bau hat einen Bauschutthaufen auf dem Grundstück [[land_register_id|Gst.Nr. 443]] zu entfernen; die Kosten trägt sie selbst.
+Die Übergabe des Besitzes erfolgt mit dem Tag der Kaufpreiszahlung. Ab diesem Zeitpunkt trägt der Käufer Nutzen und Gefahr. Die Verkäuferin zu 1 leistet Gewähr dafür, dass die Liegenschaft frei von Bestandrechten übergeben wird. Die [[organization|Ullmann Bau]] hat einen Bauschutthaufen auf dem Grundstück [[land_register_id|Gst.Nr. 443]] zu entfernen; die Kosten trägt sie selbst.
 
 VII. Schlussbestimmungen
 
@@ -77,9 +77,9 @@ VII. Schlussbestimmungen
 
 Hinweis: Die Verkäuferin zu 2 hat bei der Unterfertigung ein persönliches Gespräch mit der Kanzlei geführt. Ihre Telefonnummer für Rückfragen lautet Tel. [[phone_number|+43-662-8159553-3]].
 
-Elia Schmitz
+[[person|Elia Schmitz]]
 
-Gescha Hölzl
+[[person|Gescha Hölzl]]
 
 Für die Verkäuferin zu 1:
 [[person|Gawril Stadlhuber]], Geschäftsführer

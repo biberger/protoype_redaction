@@ -64,6 +64,10 @@ Rechtliche Beurteilung
 
 8. Die Kammeranwältin hat in ihrem Antrag vom [[date|27. Februar 2026]] eine Geldbuße in der Höhe von EUR 6.000,00 beantragt. Der Senat hat diesen Antrag auf den genannten Betrag reduziert.
 
+Strafzumessung
+
+9. Die Geldbuße wurde unter Berücksichtigung der Dauer der Pflichtverletzung, der Höhe der betroffenen Beträge und der Einkommensverhältnisse festgesetzt. Der Senat hat berücksichtigt, dass die Mandantinnen und Mandanten durch die verzögerte Auszahlung erhebliche Nachteile hatten, und dass der Beschuldigte die Pflichtverletzung nicht vorsätzlich in Bereicherungsabsicht begangen hat.
+
 Entscheidung
 
 Dem Beschuldigten steht gegen dieses Erkenntnis die Berufung an den [[court|Obersten Gerichtshof]] nicht zu. Die Kanzlei des Beschuldigten befindet sich in [[address|8854 Krakauhintermühlen]]; die Zustellung erfolgt an diese Anschrift.

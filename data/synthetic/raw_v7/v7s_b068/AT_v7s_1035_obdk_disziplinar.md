@@ -90,6 +90,10 @@ Rechtliche Beurteilung
 
 15. Der Senat weist darauf hin, dass die Bestellung der Treuhandschaft nach den Vorschriften der [[legal_norm|RAO]] und der Richtlinien der Kammer dokumentiert werden muss. Die Dokumentation dieser Treuhandschaft fehlt, so dass die Vorgänge nur aus den Kontoauszügen rekonstruiert werden konnten.
 
+12. Die Mandantin hat den Schaden inzwischen bei der Kanzlei geltend gemacht. Ein Vergleich über den Restbetrag wurde am [[date|9. September 2026]] zwischen der Mandantin und dem Beschuldigten geschlossen, jedoch bis zur Verhandlung nicht erfüllt. Der Senat berücksichtigt diesen Umstand bei der Strafzumessung nur mildernd, soweit er vor der Anzeige lag.
+
+13a. Der Beschuldigte hat sich in der Verhandlung bei der Mandantin entschuldigt. Die Entschuldigung wurde von [[person|Schulmeister]] angenommen, jedoch ausdrücklich ohne Verzicht auf den Restbetrag.
+
 Rechtsmittelbelehrung
 
 Gegen dieses Erkenntnis steht dem Beschuldigten und der Kammeranwältin die Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] offen. Die Berufung ist binnen vier Wochen nach Zustellung einzubringen. Die Zustellung an den Beschuldigten erfolgt an die Kanzleianschrift in [[address|4150 Berg bei Rohrbach]].

@@ -91,6 +91,8 @@ Die Vertragsparteien bestätigen, dass die Angaben zur Liegenschaft aus dem Grun
 
 Die Verkäuferin bestätigt zudem, dass die Heizungsanlage zuletzt im Herbst überprüft wurde und dass die Wartungsnachweise den Käufern bei der Übergabe ausgehändigt werden.
 
+Die Käufer bestätigen, dass sie über die Fälligkeit der Grunderwerbsteuer und die Frist zur Anzeige beim Finanzamt belehrt wurden und dass sie die Abgabe fristgerecht erledigen werden.
+
 VIII. Schlussbestimmungen
 
 1. Änderungen und Ergänzungen dieses Vertrages bedürfen der Schriftform. Mündliche Nebenabreden bestehen nicht.

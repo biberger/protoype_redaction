@@ -37,6 +37,10 @@ Die Vertragsbestimmungen sehen in § 9 eine Gewährleistungsfrist von drei Jahre
 
 Der Prüfbericht ist diesem Schreiben nicht beigelegt, kann aber auf Wunsch übermittelt werden. Für Rückfragen steht die Kanzlei unter Tel. [[phone_number|0463/1199152-0]] zur Verfügung; die Telefonnummer ist während der Bürozeiten besetzt.
 
+Das [[court|LG Innsbruck]] wurde bislang nicht angerufen. Vor einer Klage möchten wir Ihnen die Möglichkeit zur gütlichen Einigung geben. Der Vorstand des [[organization|THV]] hat in seiner Sitzung vom [[date|17. September 2026]] beschlossen, die Angelegenheit an die Rechtsabteilung zu übergeben.
+
+Herr [[person|Richárd Rostás]] hat den Zustand der Holzteile bei der Übergabe ebenfalls bestätigt. Sein Schreiben vom [[date|3. August 2025]] liegt bei. Die Vorgänge werden im Verband zur Kenntnis genommen; eine Stellungnahme des Verbandes ist für den [[date|20. Oktober 2026]] angekündigt.
+
 Die Mitglieder des [[organization|THV]] sind über die Angelegenheit informiert worden.
 
 Mit freundlichen Grüßen
