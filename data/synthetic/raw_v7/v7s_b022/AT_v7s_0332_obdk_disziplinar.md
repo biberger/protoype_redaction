@@ -37,7 +37,7 @@ Der Senat hat außerdem geprüft, ob das Verfahren wegen geringen Verschuldens e
 
 2. Sachverhalt
 
-Mit Treuhandvertrag vom [[date|12.03.2022]] übernahm [[lawyer|Margulies]] die Abwicklung eines Liegenschaftskaufs für die [[organization|Frühbauer Bau GmbH]] ([[company_register_number|FN 407324g]], UID: [[tax_id|ATU11406067]]) (in der Folge [[organization|FBG]]). Gegenstand war die Liegenschaft [[land_register_id|Einlagezahl 1431]], [[land_register_id|KG 46445]], die [[organization|FBG]] von [[person|Anton Kriechbaum]] erwerben wollte. Die Käuferin war die [[organization|FBG]], deren Geschäftsführerin [[person|Sabine Pfeifhofer]] die Verhandlungen führte.
+Mit Treuhandvertrag vom [[date|12.03.2022]] übernahm [[lawyer|Margulies]] die Abwicklung eines Liegenschaftskaufs für die [[organization|Frühbauer Bau GmbH]] ([[company_register_number|FN 407324g]], UID: [[tax_id|ATU11406067]]) (in der Folge [[organization|FBG]]). Gegenstand war die Liegenschaft Einlagezahl [[land_register_id|1431]], [[land_register_id|KG 46445]], die [[organization|FBG]] von [[person|Anton Kriechbaum]] erwerben wollte. Die Käuferin war die [[organization|FBG]], deren Geschäftsführerin [[person|Sabine Pfeifhofer]] die Verhandlungen führte.
 
 Der Kaufpreis wurde über das Treuhandkonto [[bank_account|AT58 2122 0634 3696 0622]] abgewickelt. Die Treuhandschaft wurde unter der Nummer TH-Nr. [[other_identifier|2022/514]] geführt. Die Bewegungen des Kontos sind wie folgt:
 

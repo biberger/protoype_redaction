@@ -75,13 +75,19 @@ IV. Rechtliche Beurteilung
 
 13. Die Kammer hat in ihrem Schreiben vom [[date|24.04.2025]] angeregt, die Ermittlungen auf weitere Zahlungen zu erstrecken. Der Senat hat von einer Ausweitung abgesehen, weil die vorliegenden Kontobewegungen für die Entscheidung ausreichen.
 
-V. Kosten
-
 14. Die Kammeranwältin hat in ihrem Antrag vom [[date|05.08.2025]] darauf hingewiesen, dass die Beschuldigte im Jahr 2023 bereits zu einer Ermahnung der Kammer veranlasst worden war. Diese Ermahnung wurde nicht als Vorstrafe gewertet, weil sie nicht Gegenstand eines förmlichen Verfahrens war.
 
 15. Der Senat hat die Stellungnahme der Beschuldigten vom [[date|25.08.2025]] berücksichtigt, in der sie erklärte, sie habe die Kanzleikonten im Jahr 2024 nicht selbst überwacht. Diese Behauptung entlastet sie nicht, weil die Verantwortung für die Verwahrung fremder Gelder bei der Rechtsanwältin selbst liegt.
 
-16. Die Kosten des Verfahrens werden der Beschuldigten auferlegt. Die Ausfertigung ergeht an die [[organization|RAKW]], an die Kammeranwältin [[person|Otti Velten]] und an die Beschuldigte [[lawyer|Mela Hrdlicka]].
+16. Die Beschwerde des Mandanten [[person|Pfeiler]] vom [[date|20.03.2025]] enthält den Vorwurf, dass die Beschuldigte auf wiederholte Anfragen nicht reagiert habe. Der Senat hat dies anhand des Schriftverkehrs geprüft. Aus den vorgelegten Schreiben ergibt sich, dass die Beschuldigte auf die Anfrage vom [[date|11.11.2024]] erst nach drei Monaten geantwortet hat.
+
+17. Die Verzögerung der Auskunft wirkt sich auf die Bewertung der Pflichtverletzung aus, weil der Mandant ohne Kenntnis des Kontostandes über die Verwendung seiner Mittel entscheiden musste. Der Senat sieht darin eine zusätzliche Verletzung der Auskunftspflicht gegenüber dem Mandanten, die jedoch nicht Gegenstand des Spruchs ist.
+
+18. Der Senat hat auch die Auffassung der Beschuldigten geprüft, wonach die Überweisung an die [[organization|Hardt e.U.]] aufgrund eines Vertrages über Beratungsleistungen erfolgt sei. Ein solcher Vertrag liegt nicht vor; die Rechnung des Unternehmens datiert erst vom [[date|02.06.2025]] und bezieht sich auf einen anderen Zeitraum.
+
+V. Kosten
+
+19. Die Kosten des Verfahrens werden der Beschuldigten auferlegt. Die Ausfertigung ergeht an die [[organization|RAKW]], an die Kammeranwältin [[person|Otti Velten]] und an die Beschuldigte [[lawyer|Mela Hrdlicka]].
 
 [[location|Wien]], am [[date|09.09.2025]]
 

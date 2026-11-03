@@ -109,6 +109,8 @@ Die Beschuldigte hat die Kosten des Disziplinarverfahrens zu tragen, die mit ein
 
 Gegen diesen Beschluss ist eine Berufung an die Oberste Berufungs- und Disziplinarkommission zulässig. Die Frist beträgt zwei Wochen ab Zustellung.
 
+Der Disziplinarrat hat die Beschuldigte abschließend darauf hingewiesen, dass sie bei künftigen Verstößen mit der Entziehung der Berufsberechtigung rechnen muss. Die Anderkonten der Kanzlei werden bis zum Nachweis der ordnungsgemäßen Abrechnung unter Aufsicht der Kammer geführt. Eine Kopie dieses Erkenntnisses ist der Kammeranwaltschaft zu übermitteln. Die Beschuldigte wird ferner verpflichtet, die Namen aller betroffenen Klienten und die Höhe der jeweiligen Beträge binnen vier Wochen schriftlich bekanntzugeben.
+
 [[location|Wien]], am [[date|24. Juni 2026]]
 
 Für den Disziplinarrat:

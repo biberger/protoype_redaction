@@ -23,7 +23,7 @@ Betreff: AW: Klienten-Nr. [[other_identifier|9172]], Grundbuch
 
 Sehr geehrter Herr [[person|Mag. Koppler]],
 
-hiermit übermittle ich Ihnen die gewünschte Kopie des Grundbuchsauszugs zur Liegenschaft [[land_register_id|317/Haibach im Mühlkreis]] ([[court|BG St. Pölten]]), [[land_register_id|Gst 467]]. Die Auszüge stammen vom [[date|27. Oktober 2025]]. Herr [[person|Peichl]] bittet um Rückmeldung bis Freitag, damit die [[organization|Riahi Immobilien]] den Termin mit dem Notar planen kann. Herr [[person|Larsen]] hat die Besichtigung der Wohnung in [[location|St. Gilgen]] bereits zugesagt.
+hiermit übermittle ich Ihnen die gewünschte Kopie des Grundbuchsauszugs zur Liegenschaft [[land_register_id|317/Haibach im Mühlkreis]] ([[court|BG St. Pölten]]), [[land_register_id|Gst 467]]. Die Auszüge stammen vom [[date|27. Oktober 2025]]. Herr [[person|Peichl]] bittet um Rückmeldung bis Freitag, damit die [[organization|Riahi Immobilien]] den Termin mit dem Notar planen kann. Herr [[person|Larsen]] hat die Besichtigung der Wohnung in [[location|St. Gilgen]] bereits zugesagt. Frau [[person|Bieńkowska]] möchte die Schlüssel am Tag der Übergabe persönlich entgegennehmen; bitte teilen Sie der Kanzlei mit, ob das möglich ist. Die Hausverwaltung dokumentiert den Zählerstand am selben Tag.
 
 Mit freundlichen Grüßen
 [[person|Lena Panagoulis]]
@@ -61,7 +61,7 @@ Betreff: AW: Verwahrung Kaufpreis, [[land_register_id|Gst 467]]
 
 Sehr geehrter Herr [[person|Koppler]],
 
-ich bestätige die Verwahrung des Kaufpreises auf dem Treuhandkonto. Die Erwerberin [[person|Bieńkowska]] ist mit dem Vorgehen einverstanden, wünscht aber eine Abschrift des Kontoauszugs vom [[date|23. Oktober 2025]]. Die [[organization|RIG]] ist nach unserer Kenntnis mit der Zahlung über das Treuhandkonto einverstanden.
+ich bestätige die Verwahrung des Kaufpreises auf dem Treuhandkonto. Die Erwerberin [[person|Bieńkowska]] ist mit dem Vorgehen einverstanden, wünscht aber eine Abschrift des Kontoauszugs vom [[date|23. Oktober 2025]]. Die [[organization|RIG]] ist nach unserer Kenntnis mit der Zahlung über das Treuhandkonto einverstanden. Für die Abrechnung wären wir dankbar, wenn die Gebühr für die Eintragung des Eigentumsrechts gesondert ausgewiesen würde, und zwar in Höhe von EUR 412,00.
 
 > Von: [[person|Koppler]]
 > Gesendet: [[date|22. Oktober 2025]]
@@ -85,3 +85,20 @@ ich bitte um Bestätigung, dass die Wohnung in [[location|St. Gilgen]] am [[date
 
 Mit freundlichen Grüßen
 [[person|Elza Bieńkowska]]
+
+---
+Von: [[person|Mag. Koppler]] <[[email|koppler@koppler.at]]>
+Gesendet: Donnerstag, [[date|30. Oktober 2025]] 11:26
+An: [[person|Furchtegott Peichl]]
+Cc: [[person|Lena Panagoulis]]
+Betreff: AW: Übergabe und Treuhandkonto
+
+Sehr geehrter Herr [[person|Peichl]],
+
+ich bestätige Ihnen, dass die Zahlung des Restkaufpreises über das Treuhandkonto der Kanzlei abgewickelt wird und die Übergabe am [[date|31. Oktober 2025]] stattfinden kann. Der Notar wurde informiert. Bitte senden Sie mir noch die Freigabeerklärung der [[organization|RIG]] bis morgen, damit wir die Auszahlung an die Verkäuferseite vorbereiten können.
+
+Die Kanzlei behält sich vor, die Auszahlung bei fehlender Freigabe zu verweigern. Die Verwahrung der Gelder erfolgt gemäß unserer Treuhandvereinbarung vom [[date|1. Oktober 2025]], die Sie unterfertigt haben.
+
+Mit freundlichen Grüßen
+[[person|Mag. Koppler]]
+Rechtsanwalt

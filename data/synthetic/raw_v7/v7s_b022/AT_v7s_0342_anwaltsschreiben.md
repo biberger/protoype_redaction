@@ -67,5 +67,5 @@ Beilagen:
 ./. Schadenmeldung der [[organization|Schwaiger Bau]]
 
 EINGELANGT [[date|03.11.2026]]
-OÖV SCHADENABTEILUNG BAU
+[[organization|OÖV]] SCHADENABTEILUNG BAU
 [[person|SCHREMS]] / [[person|ZELJKOVIC]]

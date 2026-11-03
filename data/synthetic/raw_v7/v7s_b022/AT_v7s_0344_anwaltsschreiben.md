@@ -18,7 +18,7 @@ Unser Zeichen: [[other_identifier|CS/Emo/2210]]
 An die
 [[organization|Donauland Versicherung AG]] (in der Folge [[organization|DLV]])
 Schadenabteilung Gewerbe
-Hauptstraße 19, 3100 St. Pölten
+[[address|Hauptstraße 19, 3100 St. Pölten]]
 
 Betreff: Gebäudeschaden an der Liegenschaft der [[organization|Obertimpfler Handels GmbH]] ([[company_register_number|FN 446897b]], UID: [[tax_id|ATU58821243]]), Schaden vom [[date|04.08.2026]]
 Kd.-Nr. [[other_identifier|721728]]
@@ -38,7 +38,7 @@ Die [[organization|Obertimpfler]] hat weiters einen Betriebsunterbrechungsschade
 
 Die Ersatzforderung stützt sich auf [[legal_norm|§ 1293 ABGB]] iVm dem Versicherungsvertrag. Sollte keine Zahlung erfolgen, werden wir die Klage beim [[court|Bezirksgericht Döbling]] einbringen, da die [[organization|DLV]] dort eine Zweigstelle unterhält und der Gerichtsstand nach [[legal_norm|§ 88 JN]] gegeben ist. Die Zuständigkeit des [[court|BG Döbling]] wurde bereits geprüft. Wir fordern daher die Zahlung von insgesamt EUR 89.100,00 binnen 14 Tagen. Die Zahlung ist auf das Treuhandkonto unserer Kanzlei zu leisten.
 
-Der Sturm vom [[date|04.08.2026]] wurde von der Wetterstation in Sierning mit Böen von über 110 km/h dokumentiert. Die Meldung an die [[organization|DLV]] erfolgte bereits am [[date|05.08.2026]] telefonisch und am [[date|07.08.2026]] schriftlich. Die Schadenmeldung enthält eine Liste der beschädigten Gegenstände, Fotos der Schadstellen und die Angaben zum Lagerinhalt, der durch Regenwasser beeinträchtigt wurde.
+Der Sturm vom [[date|04.08.2026]] wurde von der Wetterstation in [[location|Sierning]] mit Böen von über 110 km/h dokumentiert. Die Meldung an die [[organization|DLV]] erfolgte bereits am [[date|05.08.2026]] telefonisch und am [[date|07.08.2026]] schriftlich. Die Schadenmeldung enthält eine Liste der beschädigten Gegenstände, Fotos der Schadstellen und die Angaben zum Lagerinhalt, der durch Regenwasser beeinträchtigt wurde.
 
 Der Lagerinhalt, insbesondere Zementsäcke und Dämmstoffe, war nach dem Schaden nicht mehr verwendbar. Der Wert dieser Waren wurde vom Sachverständigen gesondert erhoben und ist in der Schadenssumme enthalten. Die Entsorgung erfolgte nach den Vorschriften des Abfallwirtschaftsgesetzes und ist durch Wiegescheine belegt.
 
@@ -61,5 +61,5 @@ Rechtsanwälte OG
 [[organization|Capra, Schweinberger]]
 
 EINGANG [[date|23.09.2026]]
-DLV SCHADENABTEILUNG GEWERBE
+[[organization|DLV]] SCHADENABTEILUNG GEWERBE
 [[person|IVEKOVIĆ]] / [[person|EMO]]

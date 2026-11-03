@@ -22,7 +22,7 @@ Um 13:05 Uhr kam es im Kreuzungsbereich der B 83 zu einer Kollision zwischen dem
 
 Die Lenkerin des zweiten Fahrzeuges, [[person|Huemer]], Geburtsdatum: [[date_of_birth|1953-12-01]], gab an, dass die Ampel bereits auf Gelb gestanden habe. Sie sei aufgrund der Verkehrssituation nicht mehr rechtzeitig zum Stehen gekommen.
 
-Kurz hält fest, dass beide Fahrzeuge erheblich beschädigt wurden und eine Person mit Verdacht auf eine Schulterverletzung ins Klinikum verbracht wurde. Die Fahrbahn wurde für die Dauer der Bergung teilweise gesperrt.
+[[person|Kurz]] hält fest, dass beide Fahrzeuge erheblich beschädigt wurden und eine Person mit Verdacht auf eine Schulterverletzung ins Klinikum verbracht wurde. Die Fahrbahn wurde für die Dauer der Bergung teilweise gesperrt.
 
 **2. Beteiligte Personen**
 
@@ -50,11 +50,27 @@ Die Polizzen-Nr. [[other_identifier|AT-7714-2241]] der Haftpflichtversicherung w
 
 Die Zeugin [[person|Cristieana Caba]] gab an, sie habe die Ampel auf Grün gesehen. Dieser Angabe widerspricht die Aussage von [[person|Berner]] nicht, sie ist aber im Hinblick auf den Zeitpunkt unklar.
 
+Die Verletzungen von [[person|Berner]] und [[person|Caba]] sind nach den Befunden des Klinikums nicht lebensgefährlich. Eine Blutprobe wurde nicht angeordnet, da kein Hinweis auf Alkoholeinfluss bestand. Die Fotodokumentation umfasst 31 Lichtbilder der Unfallstelle und der Schäden an beiden Fahrzeugen. Eine Unfallskizze wurde von [[person|Ilić]] im Maßstab 1:100 angefertigt und liegt der Anzeige bei.
+
+Die Aussage von [[person|Huemer]] zum Ampelzustand wurde ausführlich protokolliert. Die Lenkerin erklärte, sie habe die Geschwindigkeit wegen eines vorausfahrenden Lastwagens nicht reduzieren können. Diese Angabe wird im Rahmen der Erhebungen überprüft.
+
+Die Verständigung der Angehörigen der Verletzten erfolgte durch die Dienststelle um 14:10 Uhr. Die Lebensgefährtin von [[person|Berner]] wurde am Unfallort von [[person|Ilić]] betreut, bis sie von einem Angehörigen abgeholt werden konnte. Der Pkw der [[person|Urbach]] wurde vom Abschleppdienst übernommen und in eine Werkstatt nach Villach verbracht.
+
+Der Zeuge [[person|Gerhard Wiesflecker]], der mit seinem Fahrrad an der Kreuzung stand, gab an, die Ampel habe für die Fahrtrichtung der [[person|Huemer]] zuletzt Gelb gezeigt. Er konnte jedoch den Übergang von Grün auf Gelb nicht bestätigen. Seine Aussage wurde auf dem Formblatt festgehalten und unterschrieben.
+
+Die Verkehrsbehörde hat auf Anfrage mitgeteilt, dass die Schaltung der Ampel am Unfalltag der Vorgabe entsprach. Eine Störung ist nicht bekannt. Die Schaltpläne wurden angefordert und werden der Anzeige nachgereicht. Die Lichtbilder wurden auf dem Dienstgerät gespeichert und mit dem Aktenzeichen versehen.
+
+Die Verletzungen der Beteiligten wurden dem Verkehrsdienst gemeldet. Eine Meldung an die Bezirkshauptmannschaft wegen des Verdachts der Körperverletzung erfolgt nicht, da die Verletzungen nach den Befunden leicht sind.
+
 **5. Anzeige und weitere Veranlassung**
 
 Gegen [[person|Kristine Huemer]] wird wegen des Verdachts der Übertretung nach der [[legal_norm|Straßenverkehrsordnung]] Anzeige erstattet. Die Anzeige wird an die [[organization|Bezirkshauptmannschaft Villach-Land]] weitergeleitet.
 
 Die Beteiligten wurden darauf hingewiesen, dass die Schadensregulierung über die jeweiligen Versicherungen zu erfolgen hat. Die Polizei übernimmt keine Haftungsentscheidung.
+
+**6. Hinweise**
+
+Die Beteiligten wurden darauf hingewiesen, dass sie innerhalb von zwei Wochen Angaben zu einer allfälligen Mitschuld machen können. Der Pkw der [[person|Huemer]] wurde nicht sichergestellt, er ist fahrbereit übergeben worden. Für das Motorrad ist keine weitere Veranlassung erforderlich.
 
 [[location|Villach]], am [[date|27. September 2026]]
 

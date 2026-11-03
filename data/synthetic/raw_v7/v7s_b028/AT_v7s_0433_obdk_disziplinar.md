@@ -94,7 +94,7 @@ Der Senat weist die Beschuldigte darauf hin, dass Treuhandkonten nur für fremde
 
 Der Senat hat in der Beratung auch die Frage erörtert, ob die Beschuldigte die Honorarverrechnung im Rahmen eines Vergleichs mit der Gesellschaft nachträglich genehmigt bekommen könnte. Eine solche Genehmigung liegt nicht vor. Die Gesellschaft hat in einer Stellungnahme vom [[date|5. Juni 2026]] ausdrücklich erklärt, dass sie einer nachträglichen Verrechnung nicht zustimmt und die Rückzahlung der Gesamtsumme erwartet.
 
-Die Beschuldigte hat den Rückzahlungsbetrag von EUR 6.400,00 am [[date|29. Juni 2026]] auf das Treuhandkonto der Gesellschaft eingezahlt. Der Senat berücksichtigt diese Zahlung zu ihren Gunsten, sieht darin aber kein Eingeständnis des Verschuldens.
+Die Beschuldigte hat den Rückzahlungsbetrag von EUR 6.400,00 am [[date|12. Juni 2026]] auf das Treuhandkonto der Gesellschaft eingezahlt. Der Senat berücksichtigt diese Zahlung zu ihren Gunsten, sieht darin aber kein Eingeständnis des Verschuldens.
 
 Die Schriftführerin hat die Ausfertigung des Protokolls geprüft und bestätigt, dass die Wiedergabe der Aussagen dem Verlauf der Sitzung entspricht. Die Beschuldigte erhielt eine Kopie des Protokolls mit der Möglichkeit, binnen einer Woche Einwendungen gegen die Richtigkeit zu erheben. Eine Einwendung ist nicht eingegangen.
 

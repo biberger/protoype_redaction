@@ -14,7 +14,8 @@ brief's "file" field.
    register entries — never with filler), with the front matter of GENERATION.md
    (doc_type = the brief's doc_type, jurisdiction: AT, lang: de). Make it look like the real thing: letterheads,
    reference lines, party blocks, tables as text, signature blocks, page headers. Use the brief's cast:
-   - "letterhead_verbatim" (when given) is copied EXACTLY at the top, tags included, line breaks included.
+   - "letterhead_verbatim" (when given) is copied EXACTLY at the top, tags included, line breaks included
+     (in an email_verlauf it goes into the law-firm sender's signature block instead of the top).
    - Every string in "verbatim" is copied EXACTLY somewhere natural in the text, tags included. Do not
      normalise their spelling or order: the odd forms are the point. Exception: a court name may be
      declined to fit the sentence ("des [[court|Obersten Gerichtshofes]]"), keeping the tag.

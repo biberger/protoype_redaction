@@ -39,7 +39,7 @@ FIN [[other_identifier|6FDN69KSYX10XPJG4]] (Motorrad)
 
 **3. Verletzungen und Versorgung**
 
-[[person|Zocher]] wurde am Unfallort vom Notarzt versorgt. Die Verletzungen wurden im [[organization|Krankenhaus Weiz]] befundet. [[person|Borisova]] wurde mit dem Rettungswagen ins Krankenhaus gebracht und nach der Untersuchung wieder entlassen. Sie ist unter Tel. [[phone_number|0512 483754-7]] erreichbar und hat sich bereit erklärt, eine Aussage zu machen.
+[[person|Zocher]] wurde am Unfallort vom Notarzt versorgt. Die Verletzungen wurden im [[organization|Krankenhaus Weiz]] befundet. [[person|Borisova]] wurde mit dem Rettungswagen ins Krankenhaus gebracht und nach der Untersuchung wieder entlassen. Die Angehörigen der Verletzten wurden durch die Dienststelle verständigt. [[person|Borisova]] wurde nach der Entlassung in die Obhut ihres Lebensgefährten übergeben. Sie ist unter Tel. [[phone_number|0512 483754-7]] erreichbar und hat sich bereit erklärt, eine Aussage zu machen.
 
 Schadennummer [[other_identifier|93/408587/22]] (Kasko Pkw). Die Unfallaufnahme wurde über die Zentrale der Versicherung eingeleitet. Für das Motorrad wurde eine zweite Schadenanzeige zur Haftpflicht erstattet, die getrennt geführt wird.
 

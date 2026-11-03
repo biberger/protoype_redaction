@@ -13,7 +13,7 @@ Tel. [[phone_number|0512/7072181-6]]
 
 Beschluss und Erkenntnis
 
-In der Disziplinarsache gegen Rechtsanwalt [[lawyer|Leonardo Schatz]], [[location|Wien]], hat der Disziplinarrat der Rechtsanwaltskammer Wien durch den nachstehend genannten Senat nach mündlicher Verhandlung am [[date|22.10.2026]] erkannt:
+In der Disziplinarsache gegen Rechtsanwalt [[lawyer|Leonardo Schatz]], [[location|Wien]], hat der [[court|Disziplinarrat der Rechtsanwaltskammer Wien]] durch den nachstehend genannten Senat nach mündlicher Verhandlung am [[date|22.10.2026]] erkannt:
 
 Senat:
 

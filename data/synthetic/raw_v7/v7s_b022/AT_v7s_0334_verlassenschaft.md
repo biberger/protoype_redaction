@@ -40,7 +40,9 @@ Zum Nachlass gehören folgende Vermögenswerte:
 Die Erben und Vermächtnisnehmer werden wie folgt angeführt:
 
 1. [[person|Wilm Egerer]], Geburtsdatum: [[date_of_birth|19. Jänner 1970]], Staatsangehörigkeit: [[country|Slowakei]], wohnhaft in [[address|Hauptplatz 4, 8230 Hartberg]], Erbquote 1/2;
-2. [[person|Hicko Kastner]], GEB: [[date_of_birth|03.07.1991]], wohnhaft in [[address|Pfarrgasse 11, 6370 Kitzbühel]], Erbquote 1/2;
+2. [[person|Hicko Kastner]], GEB:
+[[date_of_birth|03.07.1991]], wohnhaft in
+[[address|Pfarrgasse 11, 6370 Kitzbühel]], Erbquote 1/2;
 3. Vermächtnisnehmer aus dem Testament ist [[person|Wolfhart Schmelz]], *[[date_of_birth|12.07.1956]], wohnhaft in [[address|Gasserweg 2, 8793 Gai]], Vermächtnis einer Eigentumswohnung;
 4. [[person|Timoteo Zilsel]], geboren am [[date_of_birth|04.02.2001]], wohnhaft in [[address|Lerchenfeldgasse 8, 4020 Linz]], Vermächtnis des Fahrzeugs.
 

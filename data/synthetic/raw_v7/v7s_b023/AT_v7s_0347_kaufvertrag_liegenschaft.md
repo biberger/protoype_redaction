@@ -134,6 +134,8 @@ ______________________________
 [[lawyer|Mag. Thaddäus Strachwitz]]
 Rechtsanwalt
 
+Zustellanschrift für Mitteilungen des Verkäufers: [[address|8794 Vordernberg]].
+
 Die Vertragserrichterin verwahrt diesen Vertrag im Original. Ausfertigungen erhalten die Parteien, das Grundbuchsgericht sowie das Finanzamt.
 
 Dieser Vertrag ist auch in [[location|St. Veit an der Glan]] zu den üblichen Geschäftszeiten einsehbar.

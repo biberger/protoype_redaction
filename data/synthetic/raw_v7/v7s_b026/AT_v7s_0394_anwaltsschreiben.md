@@ -41,6 +41,8 @@ Die Reparaturkosten laut Kostenvoranschlag belaufen sich auf EUR 6.420,00. Dazu 
 
 Das Fahrzeug kann zur Besichtigung in [[location|St. Wolfgang im Salzkammergut]] bereitgestellt werden, sofern ein Sachverständiger der [[organization|Traunkreis Versicherung AG]] dies wünscht. Sollten Sie noch Unterlagen benötigen, wenden Sie sich bitte an [[person|Siegrun Mag. Oberhofer]], die den Akt bearbeitet.
 
+Die [[organization|Traunkreis Versicherung AG]] (in der Folge [[organization|TKV]]) hat bislang keine Stellungnahme zum Schaden abgegeben. Die Geschädigte ist durch den Unfall verletzt worden. Das ärztliche Attest des Facharztes [[person|Dr. Berthold Pirker]] dokumentiert eine Zerrung der Halswirbelsäule; die Mandantin war vom [[date|2. Mai 2026 bis 9. Mai 2026]] arbeitsunfähig. Die Heilbehandlungskosten belaufen sich bislang auf EUR 380,00 für Physiotherapie. Wir behalten uns vor, ein Schmerzengeld nach [[legal_norm|§ 1325 ABGB]] gesondert geltend zu machen, sofern die TKV den Gesamtbetrag nicht anerkennt.
+
 Für die Mitteilung der Zahlung bedanken wir uns im Voraus. Bei Rückfragen erreichen Sie uns unter Tel. [[phone_number|+43-732-3883604-12]].
 
 Mit freundlichen Grüßen

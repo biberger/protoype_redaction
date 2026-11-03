@@ -63,6 +63,8 @@ Die Meldungsleger haben die Personalien der Beteiligten aufgenommen und die Ausw
 
 Die Verletzte [[person|Laetitia Boehm]] wurde nach der Untersuchung durch den Rettungsdienst nach Hause entlassen. Sie hat am [[date|15.08.2026]] telefonisch angegeben, dass sie keine weiteren Beschwerden habe und auf eine Anzeige wegen Körperverletzung verzichte.
 
+Die Verkehrsbehörde der Bezirkshauptmannschaft wird über die Vorrangregelung informiert werden, sobald die Ermittlungen zur Versetzung des Vorrangzeichens abgeschlossen sind. Der Vorgang wird bis dahin unter der Zl. [[case_number|P 2287/26]] geführt.
+
 Die Anzeige wurde den Beteiligten am Unfallort ausgehändigt. Die Revierinspektorin [[person|Gerda Pfundner]] hat den Vorgang am selben Tag in das Journal eingetragen.
 
 Beilagen:

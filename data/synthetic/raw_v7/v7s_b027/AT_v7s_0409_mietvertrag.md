@@ -94,6 +94,10 @@ X. Übergabe und Schlüssel
 
 26. Die Mitmieterin und der Mitmieter haften für die Mietzinszahlungen als Gesamtschuldner. Änderungen in der Person der Mietparteien bedürfen der schriftlichen Zustimmung der Vermieterin.
 
+27. Die Vermieterin haftet für Schäden, die auf eine mangelhafte Wasserleitung oder auf Feuchtigkeit aus dem allgemeinen Teil des Hauses zurückzuführen sind. Die Mieterin hat solche Schäden unverzüglich anzuzeigen, widrigenfalls sie für daraus entstehende Folgeschäden selbst haftet.
+
+28. Dieser Vertrag wird in zwei Ausfertigungen errichtet, von denen je eine für die Vermieterin und für die Mieterin bestimmt ist. Eine weitere Ausfertigung erhält die Mitmieterin.
+
 [[location|Voitsberg]], am [[date|25.08.2021]]
 
 Vermieterin:

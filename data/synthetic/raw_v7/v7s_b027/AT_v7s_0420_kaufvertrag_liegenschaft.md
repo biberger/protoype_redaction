@@ -114,6 +114,16 @@ X. Schlussbestimmungen
 
 27. Die Vertragsparteien bestätigen, dass sie den Inhalt des Vertrages gelesen und verstanden haben und dass der Vertrag ihren wirklichen Willen wiedergibt.
 
+XI. Besondere Vereinbarungen
+
+28. Die Verkäuferin verpflichtet sich, die Zufahrt zur Liegenschaft über das angrenzende Grundstück bis zur Übergabe offen zu halten. Ein Wegerecht zugunsten der Liegenschaft ist im Grundbuch nicht eingetragen; die Verkäuferin erklärt, dass die Zufahrt seit Jahrzehnten geduldet wird.
+
+29. Die Käufer erklären, dass sie die vorhandene Heizungsanlage übernehmen und die Wartung ab dem Übergabetag selbst beauftragen. Die Verkäuferin übergibt die letzte Wartungsbestätigung vom [[date|14.11.2025]].
+
+30. Die Käuferinnen und der Käufer haften für die Verbindlichkeiten aus der Liegenschaft im Innenverhältnis zu gleichen Teilen. Im Außenverhältnis haftet jeder für den gesamten Kaufpreisanteil, soweit die Bank dies verlangt.
+
+31. Die Vertragsparteien vereinbaren, dass die Verkäuferin den Käufern bei der Besorgung der Energieausweise und der Unterlagen für die Finanzierung behilflich ist. Die Kosten dafür trägt die Verkäuferin bis zu einem Betrag von EUR 800,00.
+
 [[location|Liebenfels]], am [[date|03.03.2026]]
 
 Verkäuferin:

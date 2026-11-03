@@ -76,7 +76,7 @@ Die Schriftführerin hat das Protokoll der Verhandlung vom [[date|14. Mai 2026]]
 
 Die Kostenentscheidung beruht auf den Bestimmungen des Rechtsanwaltsrechts. Die Kosten umfassen die Schriftführungskosten, die Zustellgebühren und einen Anteil am Aufwand der Kammer.
 
-Der Senat hat die Verhandlung auf Antrag der Kammeranwältin [[person|West]] um eine Stunde verlängert, um der Beschuldigten Gelegenheit zu geben, die Auszahlungsbelege vollständig vorzulegen. Die Beschuldigte hat daraufhin nur die Belege für die Auszahlung vom [[date|11. November 2025]] vorgelegt, nicht aber jene für die Gebühren des Treuhandkontos.
+Der Senat hat die Verhandlung auf Antrag der Kammeranwältin [[person|West]] um eine Stunde verlängert, um der Beschuldigten Gelegenheit zu geben, die Auszahlungsbelege vollständig vorzulegen. Die Beschuldigte hat daraufhin nur die Belege für die Auszahlung vom [[date|12. November 2025]] vorgelegt, nicht aber jene für die Gebühren des Treuhandkontos.
 
 Die Beschuldigte wurde auf die Möglichkeit hingewiesen, die Entscheidung im Rahmen der Berufung in tatsächlicher und rechtlicher Hinsicht anzufechten. Sie hat erklärt, auf eine mündliche Verkündung zu verzichten, sodass die Entscheidung schriftlich zugestellt wird.
 

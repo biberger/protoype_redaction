@@ -52,21 +52,26 @@ II. Zur Rechtslage
 
 7. Eine Aufrechnung mit angeblichen Mängelansprüchen ist ausgeschlossen, weil der Kläger die Mängel nicht innerhalb angemessener Frist angezeigt hat. Die [[organization|LIG]] hat die Mängel erst mit der Mängelrüge vom [[date|03.07.2024]] erfahren.
 
+8. Die Beklagte weist ferner darauf hin, dass der Kläger im Zeitraum März bis Mai 2024 zwei Teilzahlungen geleistet hat, die jeweils auf die älteste offene Forderung angerechnet wurden. Die Übergabe der Mietsache an die Beklagte erfolgte am [[date|30.11.2024]] durch ein Übergabeprotokoll, das als Beilage ./4 vorgelegt wird. Das Protokoll enthält keinen Hinweis auf Mängel, die der Kläger zu diesem Zeitpunkt geltend gemacht hätte.
+
+Eine Tilgungsbestimmung durch den Kläger ist nicht erfolgt. Die offene Summe von EUR 7.860,00 ist um diese Zahlungen bereits bereinigt, eine weitere Anrechnung kommt daher nicht in Betracht.
+
 III. Beweise
 
-8. Die Beklagte beantragt die Einvernahme des Mitmieters [[person|Nathaniel Wiesner]] als Zeugen sowie die Vorlage des Mietvertrages und der Kontoauszüge.
+9. Die Beklagte beantragt die Einvernahme des Mitmieters [[person|Nathaniel Wiesner]] als Zeugen sowie die Vorlage des Mietvertrages und der Kontoauszüge.
 
 Ergänzend wird vorgebracht, dass die Wohnung im Juli 2025 neu vermietet wurde, sodass sich die Forderung auf den Zeitraum bis Dezember 2024 beschränkt. Die Beklagte hat die Mietzinse aus der Neuvermietung in die Forderung nicht eingerechnet, weil die Neuvermietung zu einem geringeren Zins erfolgt ist. Die Beklagte beantragt, den Kläger als Partei zu den Zahlungen zu vernehmen.
 
 IV. Kosten
 
-9. Die Kostenentscheidung wird nach [[legal_norm|§ 41 ZPO]] beantragt. Die Beklagte weist darauf hin, dass der Streitwert im Bereich der Bagatellgrenze liegt, wobei eine Verhandlung vor dem [[court|BG Innere Stadt Wien]] gerechtfertigt ist. Die sachliche Zuständigkeit des Gerichts ergibt sich aus dem Streitwert, die örtliche aus dem Wohnsitz der Beklagten.
+10. Die Kostenentscheidung wird nach [[legal_norm|§ 41 ZPO]] beantragt. Die Beklagte weist darauf hin, dass der Streitwert im Bereich der Bagatellgrenze liegt, wobei eine Verhandlung vor dem [[court|BG Innere Stadt Wien]] gerechtfertigt ist. Die sachliche Zuständigkeit des Gerichts ergibt sich aus dem Streitwert, die örtliche aus dem Wohnsitz der Beklagten.
 
 Beilagen
 
 ./1 Mietvertrag vom [[date|01.03.2023]]
 ./2 Schreiben der [[organization|LIG]] vom [[date|22.05.2024]]
 ./3 Kontoauszug Juni bis Dezember 2024
+./4 Übergabeprotokoll vom [[date|30.11.2024]]
 
 [[address|8862 Stadl-Predlitz]], am [[date|02.11.2026]]
 

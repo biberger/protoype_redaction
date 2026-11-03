@@ -77,7 +77,11 @@ Herr [[person|Julius Thun]], wohnhaft ebendort
 
 Bei Rückfragen zur Abrechnung wenden Sie sich bitte an die Hausverwaltung unter Tel. [[phone_number|+43 732 636 59 34 DW 926]]. Die Mieterin kann Mängel auch über die Kontaktadresse [[email|hafner.mietmeldung@gmx.at]] melden.
 
-**VIII. Unterschriften**
+**VIII. Übergabe**
+
+1. Die Übergabe des Mietobjekts erfolgt am Tag des Mietbeginns durch ein Übergabeprotokoll, das von beiden Vertragsparteien unterfertigt wird. Das Protokoll hält den Zustand der Räume, die Zählerstände und die Anzahl der übergebenen Schlüssel fest. Mängel, die bei der Übergabe erkennbar sind, sind im Protokoll zu vermerken. Spätere Mängelrügen sind nur wirksam, wenn sie innerhalb von 14 Tagen nach der Übergabe erfolgen.
+
+**IX. Unterschriften**
 
 Ausgefertigt in [[address|4624 Pennewang]], am [[date|20. November 2026]]
 

@@ -16,7 +16,7 @@ Von: [[person|Gretchen Joham]] <[[email|g.joham@stauber.at]]>
 Gesendet: Mittwoch, [[date|18. Februar 2026]] 14:37
 An: [[person|Kristiana Frauenfeld]] <[[email|kristiana.frauenfeld@ecker-immobilien.example.at]]>
 Cc: [[person|Ing. Agidius Wunsch]]
-Betreff: Kaufvertrag Liegenschaft Fresach, GZ der Kanzlei: [[other_identifier|AS/Joham/3004]]
+Betreff: Kaufvertrag Liegenschaft [[location|Fresach]], GZ der Kanzlei: [[other_identifier|AS/Joham/3004]]
 
 Sehr geehrte Frau [[person|Frauenfeld]],
 
@@ -29,12 +29,12 @@ Unser Mandant [[person|Ing. Agidius Wunsch]] ersucht um Bestätigung, dass die L
 > An: [[person|Gretchen Joham]]
 > Betreff: AW: Liegenschaft [[address|9712 Fresach]]
 >
-> Sehr geehrte Frau Kollegin Joham, die Liegenschaft liegt in [[location|St. Veit an der Glan]], wir bestätigen die Übergabe am [[date|16.02.2026]]. Die [[organization|EIG]] legt Wert auf die Einhaltung der Frist.
+> Sehr geehrte Frau Kollegin [[person|Joham]], die Liegenschaft liegt in [[location|St. Veit an der Glan]], wir bestätigen die Übergabe am [[date|16.02.2026]]. Die [[organization|EIG]] legt Wert auf die Einhaltung der Frist.
 > Mit freundlichen Grüßen
-> Kristiana Frauenfeld
+> [[person|Kristiana Frauenfeld]]
 
 Mit freundlichen Grüßen
-Gretchen Joham
+[[person|Gretchen Joham]]
 Rechtsanwältin
 
 -----------------------------
@@ -43,9 +43,9 @@ Von: [[person|Kristiana Frauenfeld]] <[[email|kristiana.frauenfeld@ecker-immobil
 Gesendet: Donnerstag, [[date|19. Februar 2026]] 10:44
 An: [[person|Gretchen Joham]]
 Cc: [[person|Stana Mijailović]]
-Betreff: AW: Kaufvertrag Liegenschaft Fresach
+Betreff: AW: Kaufvertrag Liegenschaft [[location|Fresach]]
 
-Sehr geehrte Frau Joham,
+Sehr geehrte Frau [[person|Joham]],
 
 die Ecker Immobilien hat die Lastenfreistellung bei der Bank beantragt. Das Kennzeichen des Firmenfahrzeugs, das bei der Besichtigung verwendet wurde, lautet [[license_plate|MI 8 VL]]; bitte vermerken Sie es im Übergabeprotokoll.
 
@@ -53,15 +53,15 @@ Die Klage gegen den früheren Eigentümer wurde beim [[court|Bezirksgericht Korn
 
 > Von: [[person|Gretchen Joham]]
 > Gesendet: Mittwoch, [[date|18. Februar 2026]] 14:37
-> Betreff: Kaufvertrag Liegenschaft Fresach, GZ der Kanzlei: [[other_identifier|AS/Joham/3004]]
+> Betreff: Kaufvertrag Liegenschaft [[location|Fresach]], GZ der Kanzlei: [[other_identifier|AS/Joham/3004]]
 >
 > Die [[organization|Ecker Immobilien GmbH]] hat den Kaufpreis bereits überwiesen. Unser Mandant [[person|Wunsch]] wartet auf die Bestätigung.
 
 Die Zahlung an die [[organization|EIG]] erfolgt laut Vereinbarung auf das Konto [[bank_account|AT40 7374 1341 8265 7103]].
 
 Mit freundlichen Grüßen
-Kristiana Frauenfeld
-Ecker Immobilien GmbH
+[[person|Kristiana Frauenfeld]]
+[[organization|Ecker Immobilien GmbH]]
 Tel. [[phone_number|+43 3352 4117 Durchwahl 14]]
 
 -----------------------------
@@ -98,7 +98,7 @@ Von: [[person|Stana Mijailović]] <[[email|s.mijailovic@ecker-immobilien.example
 Gesendet: Montag, [[date|23. Februar 2026]] 17:21
 An: [[person|Gretchen Joham]]
 Cc: [[person|Kristiana Frauenfeld]]
-Betreff: AW: AW: Kaufvertrag Liegenschaft Fresach
+Betreff: AW: AW: Kaufvertrag Liegenschaft [[location|Fresach]]
 
 Sehr geehrte Frau Rechtsanwältin [[person|Joham]],
 
@@ -114,7 +114,7 @@ Von: [[person|Gretchen Joham]]
 Gesendet: Dienstag, [[date|24. Februar 2026]] 08:15
 An: [[person|Stana Mijailović]]
 Cc: [[person|Ing. Agidius Wunsch]]
-Betreff: AW: AW: AW: Kaufvertrag Liegenschaft Fresach
+Betreff: AW: AW: AW: Kaufvertrag Liegenschaft [[location|Fresach]]
 
 Sehr geehrte Frau [[person|Mijailović]],
 

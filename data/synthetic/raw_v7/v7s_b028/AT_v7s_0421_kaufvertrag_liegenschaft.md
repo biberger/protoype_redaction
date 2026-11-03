@@ -86,7 +86,7 @@ VII. Beilagen
 
 IV. Aufsandungserklärung
 
-Die Verkäuferin erteilt hiermit der Käuferin [[person|Erika Zulehner]] und der Käuferin [[person|Ing. Inesa Dytschka]] die Aufsandungserklärung zur Einverleibung des Eigentumsrechtes je zur Hälfte und ersucht das Grundbuchgericht um die entsprechende Eintragung. [[person|Baudisch]] verpflichtet sich, alle zur Verbücherung erforderlichen Urkunden beizubringen.
+Die Eigentümerliste nennt als künftige Berechtigte [[person|Zulehner Erika]] und [[person|Dytschka Inesa]]. Die Verkäuferin erteilt hiermit der Käuferin [[person|Erika Zulehner]] und der Käuferin [[person|Ing. Inesa Dytschka]] die Aufsandungserklärung zur Einverleibung des Eigentumsrechtes je zur Hälfte und ersucht das Grundbuchgericht um die entsprechende Eintragung. [[person|Baudisch]] verpflichtet sich, alle zur Verbücherung erforderlichen Urkunden beizubringen.
 
 V. Schlussbestimmungen
 

@@ -21,7 +21,7 @@ Betreff: AW: Schadennummer
 
 Sehr geehrte Frau [[person|Freund]],
 
-Sie haben mich gebeten, die Unterlagen zu übersenden. Anbei die Fotos und die Rechnung der Werkstatt. Die Unterlagen gehören zur Schadennummer [[other_identifier|54/637629/23]]. Bitte geben Sie bei allen Rückfragen die Klienten-Nr. [[other_identifier|12451]] an.
+Sie haben mich gebeten, die Unterlagen zu übersenden. Anbei die Fotos und die Rechnung der Werkstatt. Für die Versicherung nenne ich meine Daten: *[[date_of_birth|21. August 1977]], Mandant Ihrer Kanzlei seit dem Vorjahr. Die Unterlagen gehören zur Schadennummer [[other_identifier|54/637629/23]]. Bitte geben Sie bei allen Rückfragen die Klienten-Nr. [[other_identifier|12451]] an.
 
 Mit freundlichen Grüßen
 [[person|Ortwin Puchinger]]
@@ -44,7 +44,7 @@ Betreff: Unser Zeichen: [[other_identifier|745/22 NN]]
 
 Sehr geehrter Herr [[person|Puchinger]],
 
-wir bestätigen den Eingang Ihrer Unterlagen. Die Gegenseite, die [[organization|Landauer e.U.]], hat den Schaden mit Schreiben vom [[date|12. September 2025]] dem Grunde nach anerkannt. Die Höhe ist noch strittig. Die [[organization|Landauer]] verlangt eine Begutachtung durch einen unabhängigen Sachverständigen.
+wir bestätigen den Eingang Ihrer Unterlagen. Die Gegenseite, die [[organization|Landauer e.U.]] (in der Folge [[organization|LE]]), hat den Schaden mit Schreiben vom [[date|12. September 2025]] dem Grunde nach anerkannt. Die Höhe ist noch strittig. Die [[organization|LE]] verlangt eine Begutachtung durch einen unabhängigen Sachverständigen. Sie hat zudem angekündigt, die Mietwagenkosten nur für sieben Tage anzuerkennen. Die Werkstatt hat die Reparaturkosten mit EUR 3.850,00 netto beziffert; wir halten einen Ersatz für zehn Tage für angemessen.
 
 > Von: [[person|Ortwin Puchinger]]
 > Gesendet: [[date|8. September 2025]]
@@ -56,3 +56,20 @@ Mit freundlichen Grüßen
 [[person|Jolantha Schnabl]]
 Rechtsanwaltsanwärterin
 Schadenfall: [[other_identifier|54/637629/23]]
+
+---
+Von: [[person|Zweigelt]] <[[email|zweigelt@schoenbauer.at]]>
+Gesendet: Donnerstag, [[date|18. September 2025]] 08:44
+An: [[person|Jolantha Schnabl]]
+Cc: [[person|Ortwin Puchinger]]
+Betreff: AW: Unser Zeichen: [[other_identifier|745/22 NN]]
+
+Liebe Frau [[person|Schnabl]],
+
+bitte fordern Sie von der [[organization|LE]] bis [[date|3. Oktober 2025]] eine Stellungnahme zur Mietwagendauer an. Das Sachverständigengutachten beauftragen wir selbst; wir schlagen Herrn [[person|Gerhard Amesbauer]] vor, der bereits für die Kanzlei tätig war.
+
+Die Zahlung der Reparaturkosten an [[person|Puchinger]] sollte nicht warten, bis die Höhe der Mietwagenkosten geklärt ist. Eine Teilzahlung in Höhe der unstrittigen Reparaturkosten ist nach der Gegenseite möglich. Ich bitte um Rückmeldung bis Freitag.
+
+Mit freundlichen Grüßen
+[[person|Zweigelt]]
+Rechtsanwalt

@@ -27,13 +27,17 @@ Sehr geehrte Damen und Herren,
 
 wir vertreten in dieser Angelegenheit Frau [[person|Malgosia Hochstetter]] und zeigen dies unter Vorlage der Vollmacht an. Unsere Mandantin hat mit Ihrer [[organization|Krenek KG]] einen Mietvertrag über das Geschäftslokal im Erdgeschoß des Hauses in [[location|Graz]] geschlossen.
 
-Die [[organization|Krenek KG]] hat mit Schreiben vom [[date|12. Mai 2026]] die Räumung des Objekts bis zum [[date|30. Juni 2026]] verlangt und einen Rückstand von EUR 4.860,00 behauptet. Dieser Betrag ist nach unseren Unterlagen bereits am [[date|15. April 2026]] vollständig überwiesen worden. Die Überweisung ist im Kontoauszug der Mandantin ausgewiesen.
+Die [[organization|Krenek KG]] (in der Folge [[organization|KRK]]) hat mit Schreiben vom [[date|12. Mai 2026]] die Räumung des Objekts bis zum [[date|30. Juni 2026]] verlangt und einen Rückstand von EUR 4.860,00 behauptet. Dieser Betrag ist nach unseren Unterlagen bereits am [[date|15. April 2026]] vollständig überwiesen worden. Die Überweisung ist im Kontoauszug der Mandantin ausgewiesen.
 
 Wir ersuchen Sie daher, Ihre Forderung zurückzunehmen und die Kündigung nicht weiter zu verfolgen. Sollte die [[organization|Krenek KG]] an ihrer Forderung festhalten, wären wir gezwungen, Klage beim [[court|Landesgericht für Zivilrechtssachen Graz]] einzubringen und auf Feststellung zu klagen, dass das Mietverhältnis aufrecht ist. Die Zustellung der Klage würde dann beim [[court|LG für ZRS Graz]] erfolgen.
 
 Gemäß [[legal_norm|§ 1096 ABGB]] hat der Vermieter den Gebrauch der Sache zu gewähren. Die Kündigung ist daher nach unserer Auffassung unwirksam. Wir verweisen zudem auf die Rechtsprechung zum Mietrecht im Geschäftsverkehr, die eine Kündigung wegen eines bestrittenen Rückstands ausschließt.
 
 Die [[organization|Hypo Tirol Bank AG]] hat die Zahlungen bestätigt. Für Rückfragen steht Ihnen Herr [[person|Berthold Barta]] unter Tel. [[phone_number|02742 388335 Durchwahl 44]] zur Verfügung.
+
+Die Mandantin hat den Mietvertrag am [[date|1. März 2019]] abgeschlossen und den Mietzins seither stets pünktlich bezahlt. Die Kündigung wurde ohne vorherige schriftliche Mahnung ausgesprochen. Die Kaution in Höhe von EUR 3.000,00 ist trotz Beendigung des Vertrags noch nicht zurückgezahlt; die [[organization|KRK]] hat dazu bisher nicht Stellung genommen. Die Forderungen der [[organization|Krenek]] sind damit nicht gerechtfertigt.
+
+Wir ersuchen zudem, sämtliche Schreiben künftig an die Kanzlei zu richten und nicht an die Mandantin direkt. Eine Vereinbarung über die Räumung kommt nur über die Kanzlei zustande. Wir behalten uns vor, eine Feststellungsklage einzubringen, falls die Kündigung aufrechterhalten wird.
 
 Die Mandantin wohnt in [[address|6321 Angath]]. Wir ersuchen um Stellungnahme bis zum [[date|17. Juni 2026]].
 

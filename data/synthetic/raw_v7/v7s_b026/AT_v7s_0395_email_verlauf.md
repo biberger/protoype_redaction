@@ -14,6 +14,37 @@ ERV-Code: [[other_identifier|R832842]]
 Betreff: Bauvertrag [[organization|Friedel Bau]], Zeichen [[other_identifier|D/Plankensteiner/6773]]
 
 ---
+Von: [[person|Isabell Torggler]] <[[email|i.torggler@schwarzkopf.at]]>
+Gesendet: Freitag, [[date|13. März 2026]] 10:05
+An: [[person|Martin Plankensteiner]]
+Cc: [[person|Kayetan Pálffy]]
+Betreff: Mängelliste, Dachsanierung
+
+Sehr geehrter Herr [[person|Plankensteiner]],
+
+die Mängelliste der [[organization|Friedel Bau]] ist eingelangt. Für die Dachflächen in [[location|St. Anton am Arlberg]] werden zwei offene Punkte gemeldet: eine fehlende Dampfbremse im Bereich der Gaube und eine unzureichende Verblechung am Kamin. Die Fristen für die Mängelbehebung laufen ab dem [[date|20. März 2026]].
+
+Ich bitte Sie, die Abnahmeprotokolle bis Ende der Woche zu übermitteln. Die Abschlagsrechnung vom [[date|3. März 2026]] bleibt bis zur Klärung der Mängel einbehalten; über den Restbetrag von EUR 4.200,00 entscheiden wir nach Eingang des Prüfberichts.
+
+Mit freundlichen Grüßen
+[[person|Isabell Torggler]]
+Sachbearbeiterin
+
+---
+Von: [[person|Martin Plankensteiner]] <[[email|m.plankensteiner@gmx.at]]>
+Gesendet: Donnerstag, [[date|12. März 2026]] 19:20
+An: [[person|Isabell Torggler]]
+Cc: [[person|Kayetan Pálffy]]
+Betreff: AW: Mängelliste, Dachsanierung
+
+Liebe Frau [[person|Torggler]],
+
+vielen Dank für die Übersicht. Die Abnahmeprotokolle sende ich Ihnen bis Montag. Die Gaube war nach meinem Eindruck bei der Abnahme vollständig abgedichtet; ich bitte um Fotos der beanstandeten Stelle.
+
+Mit freundlichen Grüßen
+[[person|Martin Plankensteiner]]
+
+---
 Von: [[person|Martin Plankensteiner]] <[[email|m.plankensteiner@gmx.at]]>
 Gesendet: Dienstag, [[date|10. März 2026]] 18:55
 An: [[person|Kayetan Pálffy]]
@@ -45,7 +76,7 @@ Betreff: AW: Rechnung [[organization|Friedel Bau GmbH]]
 
 Lieber Herr [[person|Plankensteiner]],
 
-die [[organization|Friedel Bau]] ist mit einer Prüfung einverstanden. Bitte senden Sie die Mängelliste bis [[date|20. März 2026]], dann beginnt die Frist für die Mängelbehebung zu laufen. Frau [[person|Torggler]] bearbeitet den Vorgang und ist unter Tel. [[phone_number|0732/4943131-43]] erreichbar.
+die [[organization|Friedel Bau]] ist mit einer Prüfung einverstanden. Bitte senden Sie die Mängelliste bis [[date|20. März 2026]], dann beginnt die Frist für die Mängelbehebung zu laufen. Frau [[person|Torggler]] bearbeitet den Vorgang und ist unter Tel. [[phone_number|0732/4943131-43]] erreichbar. Sollte die zweite Rate ausbleiben, behält sich die Bauunternehmung vor, die Arbeiten an den Dachflächen einzustellen. Wir bitten Sie, dies bei Ihrer Disposition zu berücksichtigen.
 
 > Von: [[person|Martin Plankensteiner]]
 > Gesendet: [[date|10. März 2026]]
@@ -66,7 +97,7 @@ Betreff: Abnahme Dachstuhl
 
 Sehr geehrter Herr [[person|Plankensteiner]],
 
-am [[date|6. März 2026]] nehme ich die Dachsanierung ab, sofern die Schneelast bis dahin zurückgegangen ist. Für die [[organization|Friedel Bau]] ist die Zahlung der zweiten Rate Voraussetzung für die Auslieferung der Gewährleistungsunterlagen.
+am [[date|6. März 2026]] nehme ich die Dachsanierung ab, sofern die Schneelast bis dahin zurückgegangen ist. Für die [[organization|Friedel Bau]] ist die Zahlung der zweiten Rate Voraussetzung für die Auslieferung der Gewährleistungsunterlagen. Die Gewährleistungsfrist beträgt nach meinem Verständnis drei Jahre ab der Übergabe.
 
 Mit freundlichen Grüßen
 [[person|Ruedi Isser]]

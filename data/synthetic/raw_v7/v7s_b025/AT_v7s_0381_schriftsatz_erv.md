@@ -42,6 +42,8 @@ I. Sachverhalt
 
 1. Die Klägerin hat mit der [[organization|Hammerer Immobilien]] am [[date|12.05.2022]] einen Kaufvertrag über eine Wohnung in einem Neubau in [[location|Salzburg]] geschlossen. Der Kaufpreis von EUR 58.000,00 wurde zur Gänze bezahlt.
 
+Der Kaufpreis wurde in drei Raten bezahlt: EUR 20.000,00 am [[date|12.05.2022]], EUR 20.000,00 am [[date|30.06.2022]] und der Restbetrag von EUR 18.000,00 am [[date|15.09.2022]] nach Übergabe der Wohnung. Die Zahlungen sind durch Kontoauszüge belegt, die als Beilage ./E vorgelegt werden.
+
 2. Die Erstbeklagte hat die Eintragung des Eigentumsrechts nicht veranlasst. Die Klägerin wurde mit Schreiben vom [[date|04.07.2022]] auf die Einreichung beim Grundbuch hingewiesen, die Eintragung erfolgte jedoch nie.
 
 3. Die Liegenschaft ist im Grundbuch unter [[land_register_id|KG 17988 Dürnstein in der Steiermark]]/[[land_register_id|EZ74]] verzeichnet. Der Schriftsatz bezieht sich jedoch auf die Wohnung in der Liegenschaft [[land_register_id|EZ 3478]] / [[land_register_id|K.G. 27776 Obervogau]] ([[court|BG Landeck]]); [[land_register_id|Gst-Nr. 290]], deren Eigentumsverhältnisse die Erstbeklagte bis heute unrichtig angibt.
@@ -63,6 +65,8 @@ II. Feststellungsinteresse und Schaden
 III. Rechtliche Ausführungen
 
 9. Die Erstbeklagte hat die ihr obliegende Pflicht zur Einverleibung nach [[legal_norm|§ 436 ABGB]] verletzt. Ihre Haftung für den Verzug folgt aus [[legal_norm|§ 1295 ABGB]] iVm [[legal_norm|§ 1298 ABGB]].
+
+Nach den Angaben der Erstbeklagten wurde die Benützungsbewilligung für das Haus am [[date|14.03.2022]] erteilt; das Schreiben der [[organization|Land Salzburg]] vom [[date|21.04.2022]] bestätigt jedoch nur die Fertigstellung der Außenanlagen. Ob die Wohnung der Klägerin in dieser Bewilligung umfasst ist, ist zwischen den Parteien strittig.
 
 10. Die Zweitbeklagte haftet nur insoweit, als die Grundbuchsgesuche nicht ordnungsgemäß bearbeitet wurden. Die [[organization|Land Salzburg]] ist als Nebenbeteiligte beigezogen, weil die Baubewilligung für die Wohnung durch sie erteilt wurde und die Benützungsbewilligung zu einer Eintragung erforderlich ist.
 
