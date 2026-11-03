@@ -35,7 +35,7 @@ COUNTRIES = {
     "SK": "Q214", "HU": "Q28", "RO": "Q218", "UA": "Q212", "SY": "Q858", "IR": "Q794", "AF": "Q889",
     "NG": "Q1033", "SN": "Q1041", "MA": "Q1028", "DZ": "Q262", "PT": "Q45", "ES": "Q29",
     # 2026-11: the rest of Europe, so name coverage is not limited to the target jurisdictions
-    "NL": "Q55", "IE": "Q27", "GB": "Q145", "DK": "Q35", "SE": "Q34", "NO": "Q20", "FI": "Q33", "EE": "Q191",
+    "NL": "Q29999", "IE": "Q27", "GB": "Q145", "DK": "Q756617", "SE": "Q34", "NO": "Q20", "FI": "Q33", "EE": "Q191",
     "LV": "Q211", "LT": "Q37", "SI": "Q215", "BG": "Q219", "GR": "Q41", "ME": "Q236", "MK": "Q221", "AL": "Q222",
     "MT": "Q233", "CY": "Q229",
 }
