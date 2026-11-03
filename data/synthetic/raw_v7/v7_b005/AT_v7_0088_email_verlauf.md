@@ -92,7 +92,7 @@ Betreff: Anteil
 
 Guten Morgen,
 
-[[person|Passalis Stergianoula]], geboren am [[date_of_birth|28.02.1946]], bin Miteigentümerin mit einem Anteil von 1/4. Mein Anteil ist seit dem [[date|1. Februar 2019]] im Grundbuch eingetragen. Die Wohnung in [[address|7093 Jois]] wird weiterhin von mir bewohnt.
+[[person|Passalis Stergianoula]], geboren am [[date_of_birth|1946-02-28]], bin Miteigentümerin mit einem Anteil von 1/4. Mein Anteil ist seit dem [[date|1. Februar 2019]] im Grundbuch eingetragen. Die Wohnung in [[address|7093 Jois]] wird weiterhin von mir bewohnt.
 
 Mit freundlichen Grüßen
 [[person|Stergianoula Passalis]]

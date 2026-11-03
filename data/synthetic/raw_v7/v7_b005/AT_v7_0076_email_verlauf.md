@@ -52,7 +52,7 @@ Mit freundlichen Grüßen
 
 -----Ursprüngliche Nachricht-----
 Von: [[person|Protek Heller]] <[[email|p.heller@heller-kanzlei-mail.at]]>
-Gesendet: Donnerstag, [[date|26. Februar 2025]] 11:02
+Gesendet: Mittwoch, [[date|26. Februar 2025]] 11:02
 An: [[person|Dominic Spitzmüller]]
 Betreff: Klage gegen die Republik
 

@@ -21,7 +21,7 @@ Betreff: AW: Unfall
 
 Sehr geehrte Frau [[person|Šaulić]],
 
-wir bestätigen den Eingang Ihrer Nachricht vom [[date|14. Oktober 2025]]. Die Schaden-Nr. lautet [[other_identifier|43/641539/24]]. Ihre Anschrift laut Unfallbericht: [[address|6972 Fußach]]. Die Zahlung erfolgt auf IBAN [[bank_account|AT91 5070 7105 3295 8855]].
+wir bestätigen den Eingang Ihrer Nachricht vom [[date|14. Oktober 2025]]. Schaden-Nr. [[other_identifier|43/641539/24]]. Ihre Anschrift laut Unfallbericht: [[address|6972 Fußach]]. Das Verfahren ist beim [[court|Bezirksgericht Vöcklabruck]] anhängig. Die Zahlung erfolgt auf IBAN [[bank_account|AT91 5070 7105 3295 8855]].
 
 Mit freundlichen Grüßen
 [[person|Linzer]]

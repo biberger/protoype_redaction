@@ -36,7 +36,7 @@ Betreff: AW: Mietrückstand
 
 Sehr geehrte Damen und Herren,
 
-ich bestreite den Rückstand. Die [[organization|Hafner]] hat die Schlüssel im Jänner nicht übergeben, daher ist die Miete für Februar nicht fällig geworden. Die Vertragsnummer lautet [[other_identifier|LV-2018-40513]], die Unterlagen liegen bei.
+ich bestreite den Rückstand. Die [[organization|Hafner]] hat die Schlüssel im Jänner nicht übergeben, daher ist die Miete für Februar nicht fällig geworden. Vertragsnummer [[other_identifier|LV-2018-40513]], die Unterlagen liegen bei.
 
 Ich, geb [[date_of_birth|1972-07-10]], bin österreichischer StA: [[country|Österreich]] und wohne in [[address|2873 Feistritz am Wechsel]].
 

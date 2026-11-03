@@ -22,7 +22,7 @@ Betreff: Grundstück Andrichsfurt
 
 Sehr geehrter Herr [[person|Lang]],
 
-zur Vorbereitung der Verhandlung übersende ich die Unterlagen. Die Grundstücke lauten [[land_register_id|EZ2181]], [[land_register_id|GB 65647 Mannersdorf am Leithagebirge]] ([[court|BG Freistadt]]) Grundstück [[land_register_id|982/9]] und [[land_register_id|K.G. 81621 Kapellen]]/[[land_register_id|EZ. 1746]], Grundstück [[land_register_id|422]].
+zur Vorbereitung der Verhandlung übersende ich die Unterlagen. Das [[court|Bezirksgericht Neunkirchen]] hat die Akte angefordert. Die Grundstücke lauten [[land_register_id|EZ2181]], [[land_register_id|GB 65647 Mannersdorf am Leithagebirge]] ([[court|BG Freistadt]]) Grundstück [[land_register_id|982/9]] und [[land_register_id|K.G. 81621 Kapellen]]/[[land_register_id|EZ. 1746]], Grundstück [[land_register_id|422]].
 
 Schaden-Nr. [[other_identifier|20/302877/26]]
 TH-Nr. [[other_identifier|2024/779]]

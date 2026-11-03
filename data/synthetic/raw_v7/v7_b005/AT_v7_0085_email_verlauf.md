@@ -22,7 +22,7 @@ Betreff: AW: Kaufvertrag
 
 Sehr geehrte Frau [[person|Stanko]],
 
-wir bestätigen den Eingang Ihrer Unterlagen vom [[date|9. Oktober 2025]]. Die [[organization|Kohlhofer Immobilien GmbH]] hat den Kaufpreis überwiesen. Die Überweisung erfolgt auf IBAN [[bank_account|AT26 5296 0623 1676 9106]] der [[organization|Kohlhofer]].
+wir bestätigen den Eingang Ihrer Unterlagen vom [[date|9. Oktober 2025]]. Die [[organization|Kohlhofer Immobilien GmbH]] hat den Kaufpreis überwiesen. Die Überweisung erfolgt auf IBAN [[bank_account|AT26 5296 0623 1676 9106]] der [[organization|Kohlhofer]]. Frau [[person|Allegra Ganci]], Geburtsdatum: [[date_of_birth|1943-10-21]], ist als Miteigentümerin ebenfalls zu verständigen.
 
 Vers.-Nr. [[other_identifier|70-4794768]]
 Treuhandschaft Nr. [[other_identifier|2019/815]]

@@ -15,6 +15,22 @@ Betreff: Dienstverhältnis, Liegenschaft [[land_register_id|GB 47045 Telfs]] / [
 Vers.-Nr. [[other_identifier|39-3807182]]
 Unser Zeichen: [[other_identifier|AP-APWittek/Parth]]
 
+Von: [[person|Tanzer]] <[[email|tanzer@tanzer.at]]>
+Gesendet: Mittwoch, [[date|5. November 2025]] 08:15
+An: [[person|Tabea Vetter]] <[[email|t.vetter@vetter-mail.at]]>
+Betreff: Klage
+
+Sehr geehrte Frau [[person|Vetter]],
+
+wir haben die Klage vorbereitet und werden sie innerhalb der Frist einbringen. Bitte kommen Sie am [[date|12. November 2025]] in unsere Kanzlei, damit wir die Angaben zur Beschäftigung gemeinsam durchgehen können.
+
+Parteien: [[person|Tabea⏎Vetter]], [[person|Honorius⏎Wittek]], [[person|Jolantha⏎Koppensteiner]]
+
+Mit freundlichen Grüßen
+[[person|Tanzer]]
+Tel. [[phone_number|+43 316 550 28 12 Durchwahl 76]]
+
+-----Ursprüngliche Nachricht-----
 Von: [[person|Reichart]] <[[email|reichart@tanzer.at]]>
 Gesendet: Donnerstag, [[date|23. Oktober 2025]] 16:44
 An: [[person|Tabea Vetter]] <[[email|t.vetter@vetter-mail.at]]>
@@ -47,6 +63,21 @@ ich, [[person|Tabea Vetter]], geb. [[date_of_birth|16. Juli 1989]], habe die Kü
 Bitte prüfen Sie, ob die Kündigung rechtzeitig erfolgt ist. Das Dienstzeugnis fehlt mir noch.
 
 Mit freundlichen Grüßen
+[[person|Tabea Vetter]]
+
+-----Ursprüngliche Nachricht-----
+Von: [[person|Tabea Vetter]] <[[email|t.vetter@vetter-mail.at]]>
+Gesendet: Sonntag, [[date|19. Oktober 2025]] 20:14
+An: [[person|Sulzberger]]
+Betreff: Gehaltszettel
+
+Liebe Frau [[person|Dr. Sulzberger]],
+
+ich habe die Gehaltszettel für September und Oktober gefunden. Auf dem Gehaltszettel vom [[date|1. Oktober 2025]] fehlen die Überstunden, die ich im August geleistet habe. Außerdem wurde die Sozialversicherung nicht richtig abgerechnet.
+
+Bitte melden Sie sich, wenn Sie die Unterlagen brauchen. Ich bin am Wochenende erreichbar.
+
+Liebe Grüße
 [[person|Tabea Vetter]]
 
 -----Ursprüngliche Nachricht-----

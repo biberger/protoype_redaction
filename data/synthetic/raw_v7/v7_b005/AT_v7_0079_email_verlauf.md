@@ -55,7 +55,7 @@ Betreff: Freigabe
 
 Sehr geehrter Herr [[person|Polly]],
 
-die Freigabe der Baugenehmigung erfolgt nach Vorlage der Unterlagen. Bitte beachten Sie, dass die Gemeinde gegen den Bescheid Beschwerde erhoben hat. Die Verhandlung findet am [[date|25. März 2025]] statt.
+die Freigabe der Baugenehmigung erfolgt nach Vorlage der Unterlagen. Bitte beachten Sie, dass die Gemeinde gegen den Bescheid Beschwerde erhoben hat. Die Verhandlung findet am [[date|25. März 2025]] statt. Das Verfahren ist beim [[court|Bezirksgericht Vöcklabruck]] anhängig.
 
 Mit freundlichen Grüßen
 [[person|Kienast]]
