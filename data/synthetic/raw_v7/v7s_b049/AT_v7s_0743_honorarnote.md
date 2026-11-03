@@ -29,6 +29,8 @@ Datum | Leistung | Betrag netto
 [[date|21.05.2026]] | Teilnahme an der Verhandlung, Kosten für [[person|Kautsky]] | EUR 560,00
 [[date|09.06.2026]] | Kanzleiauslagen, Porto | EUR 38,40
 
+Die Verhandlungsteilnahme vom [[date|21.05.2026]] umfasste auch die Vorbereitung der Zeugin [[person|Kautsky]] und die Abstimmung mit der Mandantin [[person|Sybilla Kreisler]] vor Ort. Die Kanzleiauslagen betreffen Porto und Kopien für die Beilagen zum Schriftsatz vom [[date|17.03.2026]].
+
 Summe netto: EUR 1.386,90
 zuzüglich 20 % USt: EUR 277,38
 Gesamtbetrag: EUR 1.664,28

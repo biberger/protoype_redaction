@@ -38,7 +38,7 @@ Vertragsnummer [[other_identifier|V-2019-74410]]
 
 II. Sachverhalt
 
-Am [[date|18.07.2025]] ereignete sich auf der Landesstraße bei Oberwang ein Auffahrunfall. Der Kläger
+Am [[date|18.07.2025]] ereignete sich auf der Landesstraße bei [[location|Oberwang]] ein Auffahrunfall. Der Kläger
 [[person|Bodingbauer]] hielt sein Fahrzeug an der Ampel an, als die Beklagte [[person|Windischbauer]] mit
 überhöhter Geschwindigkeit auffuhr. Die Beklagte hatte den Abstand nicht eingehalten und die Bremswirkung
 ihres Fahrzeugs überschätzt.
@@ -49,6 +49,22 @@ den Hergang teilweise an, bestritt jedoch die Höhe des Schadens.
 
 Der Kläger erlitt eine Schulterverletzung, die eine mehrwöchige Arbeitsunfähigkeit zur Folge hatte. Die
 Heilungskosten, der Verdienstentgang und die Sachschäden am Fahrzeug belaufen sich auf insgesamt EUR 13.450,00.
+
+Die Schadensaufstellung gliedert sich wie folgt:
+
+Pos. | Leistung | Zeitraum | Betrag
+1 | Krankenhaus und Physiotherapie | [[date|18.07.2025]] bis [[date|30.09.2025]] | EUR 2.180,00
+2 | Verdienstentgang des Klägers | [[date|19.07.2025]] bis [[date|14.09.2025]] | EUR 4.870,00
+3 | Reparatur des Fahrzeugs, Ersatzmiete | [[date|18.07.2025]] bis [[date|05.09.2025]] | EUR 5.900,00
+4 | Unkostenpauschale | – | EUR 500,00
+
+Der Kläger ist seit dem Unfall in Behandlung bei [[person|Dr. Ludwig Kettl]] und hat die Physiotherapie
+im Ordinationsbereich in [[location|Vöcklabruck]] absolviert. Der Arzt, der den Befund ausgestellt hat, ist
+als Zeuge zu benennen. Der Zeuge [[person|Kettl]] hat die Behandlungsdauer schriftlich bestätigt.
+
+Der Verdienstentgang wurde anhand der Lohnabrechnungen der Monate Juli bis September 2025 berechnet. Der Kläger
+arbeitet als Montagetechniker und war in dieser Zeit vollständig arbeitsunfähig. Das Fahrzeug wurde nach
+der Reparatur am [[date|05.09.2025]] übernommen.
 
 III. Rechtliche Beurteilung
 
@@ -76,7 +92,7 @@ Beilagen:
 
 Der Kläger ersucht um Zahlung von EUR 13.450,00 samt Zinsen, sowie um Kostenersatz.
 
-Vöcklabruck, am [[date|30.10.2026]]
+[[location|Vöcklabruck]], am [[date|30.10.2026]]
 
 [[person|Dr. Ehrenstein]]
 Rechtsanwalt

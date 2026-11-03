@@ -49,6 +49,10 @@ wegen EUR 18.400,00 sA
 
 8. Für Rückfragen zur Beklagten steht die Kanzlei unter Tel. [[phone_number|0512/1936097 Kl. 26]] zur Verfügung.
 
+9. Die Kläger haben die Beklagte bereits mit Schreiben vom [[date|4. August 2025]] aufgefordert, die Belastung durch das Bestandrecht zu beseitigen. Die Beklagte hat darauf mit Schreiben vom [[date|20. August 2025]] geantwortet, dass sie keine Verantwortung für das Bestandverhältnis übernehme. Die Kläger haben daraufhin die Vertragsaufhebung vorbereitet, die Beklagte hat jedoch die Rückabwicklung abgelehnt.
+
+10. Die Mitkläger [[person|Spindler]] und [[person|Göth]] sind in Höhe ihres Anteils aktivlegitimiert. Die Klage richtet sich gegen die Beklagte in voller Höhe, weil sie den Kaufpreis entgegengenommen hat und die Liegenschaft nicht frei übergeben hat.
+
 Beilagen:
 ./A Kaufvertrag vom [[date|12. März 2025]]
 ./B Grundbuchsauszug

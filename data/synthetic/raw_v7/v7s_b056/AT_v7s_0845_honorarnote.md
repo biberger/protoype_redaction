@@ -24,7 +24,7 @@ Klienten-Nr. [[other_identifier|95850]]
 Ihr Zeichen: [[other_identifier|Janda/Veit/0226]]
 Unser Zeichen: [[other_identifier|SCH-26-0117]]
 
-Gegenstand: Vertretung im Verfahren vor dem [[court|Bezirksgericht Schärding]], GZ [[case_number|2 C 118/25t]], Zahlungsklage der [[organization|Veit Handels GmbH]] gegen den Lieferanten
+Gegenstand: Vertretung im Verfahren vor dem [[court|Bezirksgericht Schärding]], GZ [[case_number|2 C 118/26t]], Zahlungsklage der [[organization|Veit Handels GmbH]] gegen den Lieferanten
 
 Sehr geehrte Frau [[person|Janda]],
 
@@ -47,7 +47,7 @@ Die Barauslagen wurden von [[person|Schumann]] im Namen der Mandantin an das Ger
 
 Die Gegenseite hat am [[date|6. Februar 2026]] schriftlich angeboten, einen Teil der Forderung anzuerkennen. Frau [[person|Janda]] hat dieses Angebot am [[date|9. Februar 2026]] telefonisch abgelehnt. Die Besprechung vom [[date|12. Januar 2026]] betraf die Frage, ob die Klage gegen die beklagte Gesellschaft oder gegen deren Geschäftsführung zu richten ist. Wir haben uns für die Gesellschaft entschieden, weil die Lieferungen von dieser abgerechnet wurden. Dies ist in der Klage ausführlich begründet.
 
-Der Gesamtbetrag ist binnen 14 Tagen ab Erhalt dieser Note auf das Konto [[bank_account|AT11 7952 5414 8950 8337]] zu überweisen. Bitte geben Sie bei der Zahlung die Honorarnote Nr. 2026/0117 an. Für die Kostenersatzpflicht der Gegenseite im Falle eines Obsiegens verweisen wir auf die Kostennote, die dem Schriftsatz vom [[date|19. Januar 2026]] beiliegt. Die verzeichneten Stunden sind in dieser Note bereits nach den Tarifpositionen des RATG berechnet.
+Der Gesamtbetrag ist binnen 14 Tagen ab Erhalt dieser Note auf das Konto [[bank_account|AT11 7952 5414 8950 8337]] zu überweisen. Bitte geben Sie bei der Zahlung die Honorarnote Nr. 2026/0117 an. Für die Kostenersatzpflicht der Gegenseite im Falle eines Obsiegens verweisen wir auf die Kostennote, die dem Schriftsatz vom [[date|19. Januar 2026]] beiliegt. Die verzeichneten Stunden sind in dieser Note bereits nach den Tarifpositionen des [[legal_norm|RATG]] berechnet.
 
 Mit freundlichen Grüßen
 
@@ -61,4 +61,4 @@ Beilage: Zahlungsbeleg Bezirksgericht Schärding
 Aufschlüsselung der Barauslagen
 
 Datum        Empfänger                          Verwendungszweck                        Betrag
-10.02.2026   [[court|Bezirksgericht Schärding]]      Pauschalgebühr Klage, GZ [[case_number|2 C 118/25t]]   € 186,00
+10.02.2026   [[court|Bezirksgericht Schärding]]      Pauschalgebühr Klage, GZ [[case_number|2 C 118/26t]]   € 186,00

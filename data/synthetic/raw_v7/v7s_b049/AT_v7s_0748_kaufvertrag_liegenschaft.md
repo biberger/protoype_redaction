@@ -49,6 +49,14 @@ IV. Übergabe
 
 Die Übergabe der Liegenschaft erfolgt am [[date|30. Juni 2026]] an den Käufer. Mit der Übergabe gehen Nutzen und Lasten auf die Käufer über. Die Verkäuferin übergibt alle Schlüssel, die Baupläne und die Unterlagen zur Heizungsanlage.
 
+IV a. Zusicherungen der Verkäuferin
+
+Die Verkäuferin versichert, dass die Liegenschaft nicht von einem Vorkaufsrecht Dritter belastet ist, mit Ausnahme der Erklärung des Herrn [[person|Miličević]]. Die Verkäuferin hat keine Kenntnis von Bauverfahren, Verwaltungsstrafen oder Altlasten im Zusammenhang mit der Liegenschaft. Sie versichert weiters, dass die Wasserversorgung und die Kanalanschlüsse ordnungsgemäß hergestellt und bezahlt sind.
+
+Die Käufer erklären, dass sie die Liegenschaft besichtigt haben und den Zustand kennen. Sie verzichten daher auf Ansprüche wegen offensichtlicher Mängel, die bei der Besichtigung erkennbar waren. Die Käuferin [[person|Berghammer]] hat zudem darauf hingewiesen, dass sie einen Teil des Kaufpreises aus einem Bankkredit der [[organization|Hypo Tirol Bank AG]] finanzieren wird, weshalb die Bank eine Pfandbestellung nach Eintragung verlangen wird.
+
+Die Parteien vereinbaren, dass Erklärungen gegenüber der Kanzlei als Erklärungen gegenüber allen Vertragsteilen gelten. Änderungen von Anschriften oder Bankverbindungen sind der Kanzlei unverzüglich schriftlich mitzuteilen.
+
 V. Gewährleistung
 
 Die Verkäuferin haftet dafür, dass die Liegenschaft frei von Bestandrechten, Pfandrechten und sonstigen Lasten übergeben wird. Eine Haftung für sichtbare Mängel wird ausgeschlossen. Die Gewährleistung nach [[legal_norm|§ 1053 ABGB]] bleibt im Übrigen unberührt.
