@@ -55,6 +55,12 @@ III. Beweisanbote
 
 Die Klägerinnen beantragen die Einvernahme der Zeugin [[person|Mayr]] zum Schadensumfang sowie die Einholung eines Sachverständigengutachtens aus dem Bereich des Bauwesens.
 
+Zur Zuständigkeit: Das Bezirksgericht Steyr ist für die Klage sachlich und örtlich zuständig, weil der Schadensort im Sprengel dieses Gerichts liegt und der Streitwert unter EUR 30.000,00 bleibt. Die Klägerin [[person|Shah]] hat zudem die Zustimmung der Mitklägerin [[person|von Schwerin]] zur gemeinsamen Klage eingeholt, die dieser Schriftsatz als Beilage beigeschlossen werden kann.
+
+Die Mietkosten für die Ersatzwohnung betragen EUR 780,00 monatlich und wurden seit dem [[date|01.10.2024]] bezahlt. Bis zum Datum dieser Klage ergeben sich daraus Kosten von EUR 13.260,00, wovon die Klägerinnen einen Anteil von EUR 1.820,00 geltend machen, da die übrigen Kosten nicht unmittelbar durch den Schaden veranlasst wurden.
+
+Die Reparaturkosten laut Angebot der [[organization|Peer Haustechnik GmbH]] vom [[date|08.10.2024]] betragen EUR 6.250,00 netto. Diese Position ist im Streitwert enthalten.
+
 IV. Anträge
 
 Die Klägerinnen stellen den Antrag, die Beklagte sei schuldig, ihnen binnen 14 Tagen den Betrag von EUR 14.300,00 samt 4 % Zinsen seit dem [[date|14.09.2024]] zu bezahlen. Die Kosten des Verfahrens sind der Beklagten aufzuerlegen.

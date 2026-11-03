@@ -23,7 +23,7 @@ BETREFF: Grundstreit zwischen [[person|ANDY HOREJS]] und [[organization|KOLLER G
 
 Sehr geehrte Damen und Herren,
 
-wir vertreten Herrn [[person|Andy Horejs]], geb [[date_of_birth|21. Juli 1947]], in der Angelegenheit der Dienstbarkeit des Geh- und Fahrrechts über das Grundstück [[land_register_id|273/19]]. Die Gegenseite ist die [[organization|Koller GmbH]], FN [[company_register_number|FN 544665d]], UID: [[tax_id|ATU63256988]].
+wir vertreten Herrn [[person|Andy Horejs]], geb [[date_of_birth|21. Juli 1947]], in der Angelegenheit der Dienstbarkeit des Geh- und Fahrrechts über das Grundstück [[land_register_id|273/19]]. Die Gegenseite ist die [[organization|Koller GmbH]], [[company_register_number|FN 544665d]], UID: [[tax_id|ATU63256988]].
 
 Die [[organization|Koller]] hat im Frühjahr 2024 auf dem Grundstück einen Lagerplatz errichtet und dadurch die Zufahrt zum Grundstück meines Mandanten dauerhaft verstellt. Eine Vereinbarung über die Benützung der Zufahrt wurde nie geschlossen. Mit Schreiben vom [[date|12. Juni 2024]] wurde die [[organization|Koller]] zur Beseitigung aufgefordert; eine Reaktion blieb aus.
 
@@ -34,6 +34,10 @@ Wir ersuchen Sie daher, binnen 14 Tagen eine Erklärung abzugeben, ob die [[orga
 Die Zuständigkeit des [[court|LG St. Pölten]] ergibt sich aus dem Streitwert von EUR 38.000,00 und dem Ort der gelegenen Sache. Die Klage wird auf die Verletzung der Dienstbarkeit gestützt. Der Anspruch ergibt sich aus [[legal_norm|§ 472 ABGB]] iVm [[legal_norm|§ 523 ABGB]]. Der Mandant ist nach [[legal_norm|§ 1 Abs 1 Z 3 LiegTeilG]] berechtigt, die Ausübung seines Rechts gerichtlich zu verfolgen.
 
 Eine Kopie des Schreibens der [[organization|RVG]] vom [[date|20. Februar 2025]] legen wir bei. Die Teilnahme an einem außergerichtlichen Vergleichsgespräch ist unserem Mandanten nicht unwillkommen; wir bitten jedoch um eine Antwort bis zum [[date|18. März 2025]].
+
+Die Angaben zu den Eigentumsverhältnissen beruhen auf dem Grundbuchsauszug, den wir als Beilage übermitteln. Die Liegenschaft der Gegenseite steht seit dem [[date|1. Oktober 2009]] in deren Eigentum; eine Dienstbarkeit des Geh- und Fahrrechts zugunsten der Liegenschaft meines Mandanten ist im Lastenblatt eingetragen.
+
+Wir erwarten Ihre Stellungnahme bis zum angegebenen Datum. Für ein Vergleichsgespräch stehen wir am [[date|11. März 2025]] zur Verfügung. Eine Terminvereinbarung bitten wir telefonisch vorzunehmen.
 
 Mit freundlichen Grüßen
 

@@ -26,7 +26,7 @@ vertreten durch die ERV-Vertreter [[organization|Plöchl & Almer]], ERV-Code [[o
 
 gegen
 
-die Beklagte [[organization|Unterberger e.U.]], FN [[company_register_number|FN 514525f]], UID: [[tax_id|ATU63715750]],
+die Beklagte [[organization|Unterberger e.U.]], [[company_register_number|FN 514525f]], UID: [[tax_id|ATU63715750]],
 vertreten durch den Inhaber [[person|Frank Hora]], Staatsangehörigkeit [[country|Italien]],
 
 wegen EUR 18.400,00 sA
@@ -50,6 +50,8 @@ Der Anspruch auf Mietzins ergibt sich aus [[legal_norm|§ 1098 ABGB]]. Die Künd
 Das [[court|BG Gänserndorf]] ist sachlich und örtlich zuständig, weil die Liegenschaft im Sprengel liegt.
 
 Die [[country|Republik Österreich]] wird als Nebenintervenientin im Verfahren angeführt, weil die Klägerin eine Förderung für die Sanierung des Lagerraums beantragt hat; die Antragstellung erfolgte bei der [[country|Republik Österreich]] durch die zuständige Stelle.
+
+Die Klägerin hat vorprozessual die Zahlung des Betrages unter Setzung einer Frist bis zum [[date|31. März 2025]] verlangt. Die Beklagte hat die Forderung dem Grunde nach nicht bestritten, jedoch auf einen Ausgleich durch eine Gegenforderung für Instandhaltungsarbeiten verwiesen, für die keine Belege vorliegen.
 
 3. Beweise
 

@@ -31,7 +31,7 @@ beide wohnhaft in [[location|St. Martin im Mühlkreis]],
 [[person|Franjka Burić]], *[[date_of_birth|16. November 1978]],
 
 3. Käufer:
-[[organization|Bäck GmbH]], FN [[company_register_number|FN 481282v]], UID: [[tax_id|ATU23808360]],
+[[organization|Bäck GmbH]], [[company_register_number|FN 481282v]], UID: [[tax_id|ATU23808360]],
 vertreten durch die Geschäftsführerin [[person|Zsa Zsa Éder]], geb. [[date_of_birth|21.05.1943]],
 Tel. [[phone_number|+43 732 107 79 91-39]]
 
@@ -75,9 +75,23 @@ VI. Schlussbestimmungen
 
 3. Die Verkäufer und die Käuferin nehmen zur Kenntnis, dass die Eintragung im Grundbuch erst nach Vorlage der Unbedenklichkeitsbescheinigung erfolgen kann.
 
+VII. Lastenfreistellung und Vormerkung
+
+1. Die Verkäufer verpflichten sich, die Lastenfreistellung der Liegenschaften bis zum [[date|30. April 2025]] herbeizuführen. Die Kosten für die Löschung eines Pfandrechtes trägt der jeweilige Verkäufer.
+
+2. Die Käuferin ist berechtigt, zur Sicherung ihres Anspruches die Vormerkung des Eigentumsrechtes im Grundbuch zu verlangen. Die Vormerkung ist nach [[legal_norm|§ 53 GBG]] zu bewilligen, sobald der Kaufpreis im Treuhandbuch erlegt ist.
+
+3. Sollte die Lastenfreistellung nicht bis zum genannten Zeitpunkt erfolgen, ist die Käuferin berechtigt, vom Vertrag zurückzutreten. Die bereits erlegten Beträge sind in diesem Fall binnen 14 Tagen zurückzuzahlen.
+
+VIII. Erklärungen der Vertragsparteien
+
+Die Verkäufer erklären, dass sie die Liegenschaften seit mehr als zehn Jahren besitzen und keine Nutzung durch Dritte besteht. Die Käuferin erklärt, dass sie die Liegenschaft in dem Zustand übernimmt, in dem sie sich bei Vertragsabschluss befindet, und auf eine Besichtigung verzichtet.
+
+Die Vertragsparteien bestätigen, dass sie über die Bedeutung der Aufsandungserklärung und die Folgen der Eintragung belehrt wurden.
+
 Die Käuferin, die [[organization|Bäck GmbH]], erklärt, dass die Geschäftsführerin [[person|Éder]] zur Vertretung berechtigt ist. Ein Firmenbuchauszug vom [[date|10. März 2025]] liegt bei.
 
-ZSA ZSA ÉDER
+[[person|ZSA ZSA ÉDER]]
 FÜR DIE [[organization|BÄCK GMBH]]
 
 [[location|Eggerding]], am [[date|18. März 2025]]

@@ -58,7 +58,7 @@ Für unsere Akten bitten wir um Übermittlung der Klientennummer Ihres Mandanten
 
 Klientennummer: [[other_identifier|18261]]
 
-Wir bitten um Rückmeldung bis zum [[date|25. September 2026]].
+Wir bitten um Rückmeldung bis zum [[date|25. September 2026]]. Für die Mietzinsforderung bleibt der Mandant bis zur Klärung zur Zahlung verpflichtet.
 
 Mit freundlichen Grüßen
 
@@ -80,7 +80,7 @@ Betreff: AW: [[organization|Wittmann Immobilien GmbH]] ./. [[person|Geppert]], M
 
 Sehr geehrter Herr [[person|Fuchsberger]],
 
-ich bestätige, dass die [[organization|Wittmann Immobilien]] die Doppelverrechnung nicht anerkennt. Die Vorauszahlung wurde im Februar 2025 tatsächlich angepasst, und zwar von EUR 180,00 auf EUR 165,00 pro Monat. Die Differenz habe ich selbst nachgerechnet und stimme mit der Darstellung der [[organization|WIG]] überein. Ich bin aber bereit, die Heizkostenbelege zu übermitteln, sobald Herr [[person|Geppert]] die Kaution ohne weitere Verzögerung als Bankzahlung anweist.
+ich bestätige, dass die [[organization|Wittmann Immobilien]] die Doppelverrechnung nicht anerkennt. Die Vorauszahlung wurde im Februar 2025 tatsächlich angepasst, und zwar von EUR 180,00 auf EUR 165,00 pro Monat. Die Differenz habe ich selbst nachgerechnet und stimme mit der Darstellung der [[organization|WIG]] überein. Ich bin aber bereit, die Heizkostenbelege zu übermitteln, sobald Herr [[person|Geppert]] die Kaution ohne weitere Verzögerung als Bankzahlung anweist. Die Belege liegen in unserer Buchhaltung bereit und können innerhalb einer Woche übermittelt werden.
 
 Bitte richten Sie Herrn [[person|Geppert]] aus, dass wir die Endabrechnung bis spätestens [[date|31. Oktober 2026]] vorlegen werden. Die Verbindlichkeiten aus dem Mietverhältnis sind damit bis zum Ende des Jahres zu klären.
 

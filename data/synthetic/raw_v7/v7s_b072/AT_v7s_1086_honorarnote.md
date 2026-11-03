@@ -40,6 +40,12 @@ Der Betrag ist binnen 14 Tagen ab Rechnungsdatum auf das Konto IBAN [[bank_accou
 
 Die Grundbuchsabfrage zu [[land_register_id|EZ 4]] wurde am [[date|05.03.2026]] durchgeführt. Die Verbücherung erfolgte unter [[land_register_id|GSt-Nr. 457/29]].
 
+Hinweis zu den Leistungen: Die Position vom [[date|19.03.2026]] umfasst die Abstimmung der Treuhandvereinbarung mit dem Notariat und die Information der Gegenpartei über den Zahlungsplan. Die Position vom [[date|27.04.2026]] umfasst die Abwicklung der Treuhandzahlung über das Treuhandkonto, die Kontrolle des Zahlungseingangs und die Veranlassung der Verbücherung beim Grundbuch. Für die Verbücherung fielen gesonderte Gebühren an, die unter den Barauslagen ausgewiesen sind.
+
+Die Barauslagen setzen sich wie folgt zusammen: Grundbuchsabfrage EUR 36,00; Eintragungsgebühr EUR 240,00; Kopien und Porto EUR 46,00; Reisekosten zum Gutsbesitz EUR 90,00. Belege liegen der Note bei.
+
+Bei Zahlung nach Ablauf der Frist behalten wir uns Verzugszinsen nach den gesetzlichen Bestimmungen vor. Wir bitten um Verständnis, dass wir bei Rückfragen zur Honorarnote die Angaben unseres Büros heranziehen, da die Abrechnung über das Kanzleisystem erfolgt.
+
 Mit freundlichen Grüßen
 
 [[person|Sofija Dr. Schwarzenberger]]

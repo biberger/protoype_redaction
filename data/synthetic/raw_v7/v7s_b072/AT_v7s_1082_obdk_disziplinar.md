@@ -41,7 +41,7 @@ Die Aussage des Beschwerdeführers [[person|Hirt]] war in sich schlüssig. Er sc
 
 Der Senat hält fest, dass der Beschuldigte die Verwahrungspflicht schwer verletzt hat. Die Höhe der Geldbuße berücksichtigt die bisherige Unbescholtenheit und die vollständige Rückzahlung der Beträge an die Klienten im Jahr 2023.
 
-Bei der Strafbemessung waren als erschwerend zu berücksichtigen, dass der Beschuldigte über einen Zeitraum von mehr als einem Jahr Gelder verschiedener Klienten vermischt hatte und dass die Rückzahlung erst nach der Rückfrage der Kammer erfolgte. Als mildernd wurden die Einsicht des Beschuldigten am Ende der Verhandlung und die Sicherstellung der Beträge gewertet. Eine Geldbuße in der Höhe von EUR 2.500,00 erscheint dem Senat angemessen; eine Löschung aus der Liste der Rechtsanwälte war nicht erforderlich.
+Bei der Strafbemessung waren als erschwerend zu berücksichtigen, dass der Beschuldigte über einen Zeitraum von mehr als einem Jahr Gelder verschiedener Klienten vermischt hatte und dass die Rückzahlung erst nach der Rückfrage der Kammer erfolgte. Als mildernd wurden die Einsicht des Beschuldigten am Ende der Verhandlung und die Sicherstellung der Beträge gewertet. Eine Geldbuße in der Höhe von EUR 2.500,00 erscheint dem Senat angemessen; eine Löschung aus der Liste der Rechtsanwälte war nicht erforderlich. Die Verfahrenskosten sind mit EUR 380,00 bemessen. Der Senat hat die Stellungnahme des Kammeranwalts [[person|Šoth]], wonach eine Streichung beantragt worden sei, nicht übernommen, weil der Antrag nicht in der Verhandlung gestellt wurde.
 
 Die Kosten trägt der Beschuldigte. Gegen diesen Bescheid ist innerhalb von vier Wochen die Berufung zulässig.
 

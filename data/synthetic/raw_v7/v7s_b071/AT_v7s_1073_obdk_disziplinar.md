@@ -102,6 +102,8 @@ Zur Verfahrensdauer ist festzuhalten, dass das Verfahren vor der Rechtsanwaltska
 
 Die Kammeranwältin hat in ihrem Schlussvortrag darauf hingewiesen, dass die wiederholte Verletzung der Verwahrungspflicht ein Gesamtbild ergibt, das eine strengere Sanktion rechtfertigen könnte. Der Senat ist dieser Auffassung nicht gefolgt, weil die Verstöße nicht vorsätzlich begangen wurden und der Beschuldigte die Verstöße nach Feststellung durch die Kammer beseitigt hat.
 
+Die Parteien haben in der Verhandlung keine weiteren Beweisanträge gestellt, sodass der Senat das Verfahren für entscheidungsreif erachtet hat. Der Senat hat zudem festgestellt, dass die Akten dem Beschuldigten vollständig zur Verfügung standen und dass er von der Möglichkeit der Akteneinsicht vor der Verhandlung mehrfach Gebrauch gemacht hat. Die Vertretung der Kammeranwältin in der Verhandlung oblag der Kammeranwältin persönlich; ein Vertreter nach der Geschäftsordnung wurde nicht bestellt. Die Verhandlung wurde ordnungsgemäß protokolliert und vom Schriftführer unterfertigt.
+
 Die Entscheidung ist den Parteien zuzustellen. Gegen diese Entscheidung ist eine Revision an den Obersten Gerichtshof nach den Bestimmungen der Rechtsanwaltsordnung zulässig, sofern eine erhebliche Rechtsfrage zu lösen ist.
 
 [[location|Wien]], am [[date|19. März 2026]]

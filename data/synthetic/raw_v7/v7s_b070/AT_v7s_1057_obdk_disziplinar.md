@@ -9,7 +9,7 @@ TH-Nr. [[other_identifier|2022/964]]
 
 E R K E N N T N I S
 
-Der Disziplinarrat der Steiermärkischen Rechtsanwaltskammer hat in der Sitzung vom [[date|9. April 2025]] in [[location|Graz]] durch den Senat in folgender Besetzung:
+Der [[court|Disziplinarrat der Steiermärkischen Rechtsanwaltskammer]] hat in der Sitzung vom [[date|9. April 2025]] in [[location|Graz]] durch den Senat in folgender Besetzung:
 
 Senatsvorsitzende: [[judge|Muriel Weiser]]
 Senatsmitglied: [[judge|MMag. Gergo Lendvay]]
@@ -48,6 +48,12 @@ Strafbemessung
 Mildernd wirkt die Unbescholtenheit des Beschuldigten seit seiner Eintragung und die Nachzahlung des offenen Betrags vor Verhandlungsbeginn. Erschwerend ist die Dauer der Verzögerung von rund sieben Monaten. Die Geldbuße entspricht dem Unrechtsgehalt der Verstöße.
 
 Die [[organization|RAK]] wird ersucht, die Entscheidung im Kammerblatt zu veröffentlichen, sofern der Beschuldigte nicht binnen vier Wochen widerspricht.
+Der Senat hat weiters berücksichtigt, dass der Beschuldigte die Kanzlei nach der Anzeige um eine zusätzliche Buchhaltungskraft erweitert und ein elektronisches Treuhandbuch eingeführt hat. Diese organisatorischen Maßnahmen wurden durch Vorlage eines Schreibens vom [[date|5. Mai 2024]] belegt. Der Senat hat sie als Ansatz zur Besserung gewertet, ohne dass sie die Verstöße ungeschehen machen.
+
+Der Zeuge [[person|Pöltl]] hat in seiner Einvernahme ausgeführt, er habe den Beschuldigten im Herbst 2023 mehrfach auf die Verzögerung angesprochen. Der Beschuldigte habe ihm jeweils eine Zahlung in Aussicht gestellt. Die Glaubwürdigkeit des Zeugen wurde vom Kammeranwalt nicht bestritten.
+
+Die Verhandlung wurde in Anwesenheit des Beschuldigten geführt; der Beschuldigte hat das Schlusswort gehalten.
+
 
 Rechtsmittel
 

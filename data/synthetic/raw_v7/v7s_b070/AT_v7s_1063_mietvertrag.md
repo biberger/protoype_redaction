@@ -16,7 +16,7 @@ MIETVERTRAG
 über eine Wohnung mit Garten
 
 Vermieterin:
-[[organization|Rausch Handels GmbH]], FN [[company_register_number|FN 39589w]], UID: [[tax_id|ATU01591731]]
+[[organization|Rausch Handels GmbH]], [[company_register_number|FN 39589w]], UID: [[tax_id|ATU01591731]]
 Geschäftsanschrift: [[address|Industriestraße 6, 8960 Irdning-Donnersbachtal]]
 Kunden-Nr. [[other_identifier|872491]]
 vertreten durch den Prokuristen [[person|Mathis Grohmann]]

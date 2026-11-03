@@ -8,7 +8,7 @@ TH-Nr. [[other_identifier|2024/178]]
 
 B E S C H L U S S
 
-Der Disziplinarrat der Rechtsanwaltskammer Wien hat durch seinen Senat in der Besetzung Senatsvorsitzende [[judge|Jacquelin Herman]], Senatsmitglied [[judge|MMag. Francine Behrens]] und Senatsmitglied [[judge|Dr. Carolin Frischenschlager]], in Anwesenheit des Kammeranwalts [[person|Dr. Humbrecht Passini]] und des Schriftführers [[person|Denis Šušić]], in der Disziplinarsache gegen Rechtsanwalt [[lawyer|Arnost Sonnleitner]] wegen Verletzung von Berufspflichten nach der [[legal_norm|Rechtsanwaltsordnung]] ([[legal_norm|RAO]]) nach der mündlichen Verhandlung vom [[date|11. Juni 2025]] zu Recht erkannt:
+Der [[court|Disziplinarrat der Rechtsanwaltskammer Wien]] hat durch seinen Senat in der Besetzung Senatsvorsitzende [[judge|Jacquelin Herman]], Senatsmitglied [[judge|MMag. Francine Behrens]] und Senatsmitglied [[judge|Dr. Carolin Frischenschlager]], in Anwesenheit des Kammeranwalts [[person|Dr. Humbrecht Passini]] und des Schriftführers [[person|Denis Šušić]], in der Disziplinarsache gegen Rechtsanwalt [[lawyer|Arnost Sonnleitner]] wegen Verletzung von Berufspflichten nach der [[legal_norm|Rechtsanwaltsordnung]] ([[legal_norm|RAO]]) nach der mündlichen Verhandlung vom [[date|11. Juni 2025]] zu Recht erkannt:
 
 Spruch
 
@@ -54,6 +54,12 @@ Gemäß [[legal_norm|§ 1 Abs 1 RAO]] hat der Rechtsanwalt seinen Beruf gewissen
 Der Beschuldigte hat die Zahlung vom [[date|17. März 2023]] erst am [[date|11. Mai 2023]] veranlasst. Von dem Betrag vom [[date|3. März 2023]] wurden lediglich EUR 18.000,00 an die Gegenpartei ausgezahlt; der Restbetrag von EUR 6.000,00 ist bis zur Verhandlung nicht an die Berechtigte gelangt. Die Verantwortung des Beschuldigten, er habe die Gelder wegen einer Verwechslung der Treuhandnummern nicht überwiesen, ist nicht glaubhaft. Der Betrag vom [[date|4. Oktober 2023]] wurde auf das Honorarkonto des Beschuldigten gebucht, ohne dass eine Abrechnung gelegt worden wäre. Die Klientin [[person|Karaca]] bestätigte in ihrer Einvernahme, bis zum [[date|12. Februar 2024]] keine Abrechnung erhalten zu haben.
 
 Der Senat berücksichtigt als mildernd die bisherige Unbescholtenheit des Beschuldigten und dass er die Restzahlung nach Einleitung des Verfahrens teilweise geleistet hat. Erschwerend wirkt die Wiederholung der Verstöße über einen Zeitraum von rund zwölf Monaten sowie der Umstand, dass Klientengelder für eigene Zwecke verwendet wurden. Die verhängte Geldbuße entspricht dem Unrechtsgehalt und den persönlichen Verhältnissen des Beschuldigten, der ein monatliches Nettoeinkommen von rund EUR 4.200,00 angegeben hat.
+
+Der Beschuldigte hat in seiner Stellungnahme vom [[date|12. Februar 2025]] auch die Vorwürfe zur Kanzleiorganisation bestritten. Er verwies darauf, dass ein elektronisches Buchungssystem eingeführt worden sei, das Zahlungseingänge automatisch dem jeweiligen Akt zuordne. Der Senat hat das System nicht als ausreichend belegt angesehen, weil die Buchungsprotokolle für den Zeitraum von März bis Mai 2023 nicht vorgelegt wurden.
+
+Die Verteidigung hat weiters vorgebracht, dass die Klientin [[person|Österle]] durch ihr späteres Verhalten zur Verzögerung beigetragen habe, weil sie einzelne Auszahlungsanweisungen erst nach mehreren Wochen bestätigt habe. Dieser Einwand ist insofern beachtlich, als die Bestätigung einer Auszahlung durch den Klienten nicht Voraussetzung für die Weiterleitung ist, sobald der Zweck der Zahlung feststeht. Der Senat hat daher die Verzögerung im Zeitraum vom [[date|17. März 2023]] bis zum [[date|11. Mai 2023]] als zu vertreten gewertet, nicht jedoch die weitere Verzögerung, die auf die Bestätigung durch die Klientin zurückgeht.
+
+Die vom Beschuldigten beantragte Einvernahme seiner ehemaligen Kanzleikraft wurde abgelehnt, da diese nach seinen eigenen Angaben nicht mehr erreichbar war und zu den Zahlungsvorgängen keine eigenen Wahrnehmungen hatte.
 
 Die [[organization|RAK]] wird ersucht, die Entscheidung dem Ausschuss der Kammer zur Kenntnis zu bringen und die Eintragung im Kammerregister vorzunehmen.
 

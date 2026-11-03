@@ -10,7 +10,7 @@ abgeschlossen zwischen
 
 Vermieterin:
 [[organization|Lichtenegger Bau GmbH]]
-FN [[company_register_number|FN 110947h]], UID: [[tax_id|ATU05655183]]
+[[company_register_number|FN 110947h]], UID: [[tax_id|ATU05655183]]
 vertreten durch den Prokuristen
 [[person|MMag. Konstantin Tockner]], geboren am
 [[date_of_birth|12.03.1977]],
@@ -74,6 +74,22 @@ VI. Schlussbestimmungen
 3. Die Mitmieterin [[person|Kuntner]] und der Mieter [[person|Werthner]] haften zur ungeteilten Hand für alle Verpflichtungen aus diesem Vertrag.
 
 4. Die [[organization|Lichtenegger]] wird von der Vermieterin vertreten durch [[person|MMag. Konstantin Tockner]]. Die Vollmacht des Prokuristen wurde bei Vertragsabschluss vorgelegt und in Kopie zum Vertrag genommen.
+
+§ 7 Betriebskostenabrechnung
+
+1. Die Abrechnung der Betriebskosten erfolgt jährlich, erstmals für das Jahr 2023. Die Belege werden auf Verlangen zur Einsichtnahme bereitgehalten.
+
+2. Ein Guthaben aus der Abrechnung wird binnen vier Wochen nach Zustellung der Abrechnung zurückbezahlt; eine Nachzahlung ist binnen gleicher Frist fällig.
+
+§ 8 Rauchen und Ruhezeiten
+
+1. Das Rauchen im Stiegenhaus ist untersagt. Im Garten und auf dem Balkon ist das Rauchen gestattet, sofern Nachbarn nicht erheblich belästigt werden.
+
+2. Die Mieter verpflichten sich, die Ruhezeiten einzuhalten; diese gelten werktags von 20.00 bis 6.00 Uhr sowie an Sonn- und Feiertagen ganztägig.
+
+§ 9 Rückgabe der Wohnung
+
+Bei Beendigung des Mietverhältnisses ist die Wohnung besenrein und in dem Zustand zurückzugeben, der dem Übergabeprotokoll entspricht. Notwendige Ausbesserungen, die durch den vertragsgemäßen Gebrauch entstanden sind, gehen zu Lasten der Vermieterin.
 
 Ausgefertigt in zweifacher Ausfertigung.
 

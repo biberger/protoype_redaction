@@ -36,6 +36,10 @@ Die Reparaturkosten lt. beiliegendem Kostenvoranschlag der Werkstätte betragen 
 
 Wir fordern Sie auf, diesen Betrag bis spätestens [[date|15.09.2025]] auf das Konto unserer Kanzlei zu überweisen. Nach fruchtlosem Ablauf dieser Frist werden wir ohne weitere Ankündigung die Klage beim zuständigen Bezirksgericht einbringen.
 
+Wir weisen darauf hin, dass der Mandant bereits mit Schreiben vom [[date|24.02.2025]] um Mitteilung ersucht hat, welche Angaben die Lenkerin zum Vorrang gemacht hat. Eine Antwort ist bis heute nicht eingelangt. Auch die Zeugen des Unfalls, die im Polizeiprotokoll namentlich genannt sind, wurden von Ihrer Gesellschaft nicht befragt.
+
+Der Mandant hat durch den Unfall eine Woche Arbeitsverhinderung erlitten; die Verdienstentgangsansprüche sind in der Schadenspauschale berücksichtigt. Eine Bestätigung des Arbeitgebers liegt bei.
+
 Beilagen:
 ./A Vollmacht vom [[date|20.02.2025]]
 ./B Lichtbilder der Unfallstelle

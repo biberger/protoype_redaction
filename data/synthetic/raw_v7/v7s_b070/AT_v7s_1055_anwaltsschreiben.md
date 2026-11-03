@@ -24,7 +24,7 @@ BETREFF: Arbeitsunfall vom [[date|11.09.2025]] auf der Baustelle in [[location|K
 
 Sehr geehrte Damen und Herren,
 
-wir vertreten die [[organization|Huemer Bau GmbH]], FN [[company_register_number|FN 571396p]], UID [[tax_id|ATU55035189]], in der oben genannten Angelegenheit. Die [[organization|Huemer]] ist bei Ihrer [[organization|DVG]] haftpflichtversichert.
+wir vertreten die [[organization|Huemer Bau GmbH]], [[company_register_number|FN 571396p]], UID [[tax_id|ATU55035189]], in der oben genannten Angelegenheit. Die [[organization|Huemer]] ist bei Ihrer [[organization|DVG]] haftpflichtversichert.
 
 Die Arbeitnehmerin [[person|Geltrude Zampieri]], StA. [[country|Rumänien]], wurde am [[date|11.09.2025]] durch einen herabfallenden Schalungsträger verletzt. Die Verletzung wurde im Krankenhaus festgestellt. Ihre [[organization|DVG]] hat mit Schreiben vom [[date|25.09.2025]] eine Haftung abgelehnt, weil die Verletzte keinen Schutzhelm getragen habe.
 
@@ -35,6 +35,10 @@ Zeugenliste:
 [[person|Moret Daam]], GEB: [[date_of_birth|1986-08-20]], Arbeitnehmer der [[organization|Huemer Bau GmbH]]
 
 Der Polier [[person|Wild]] hat den Unfallhergang gegenüber der Arbeitsinspektion bestätigt. Die Haftung der [[organization|Huemer]] ist daher dem Grunde nach zu bejahen. Wir fordern Sie auf, Ihre Ablehnung bis zum [[date|10.10.2025]] zu überdenken und ein Anerkenntnis abzugeben.
+
+Den Hergang bestätigt auch das Protokoll der Arbeitsinspektion vom [[date|12.09.2025]], das den nicht ausreichend gesicherten Schalungsträger ausdrücklich festhält. Die Verletzte hat sich nach dem Unfall in ärztliche Behandlung begeben; die Befunde werden auf Wunsch übermittelt.
+
+Sollte Ihre [[organization|DVG]] bei der Ablehnung bleiben, werden wir die Verletzte im gerichtlichen Verfahren vertreten und die Kosten des Verfahrens geltend machen.
 
 Mit freundlichen Grüßen
 

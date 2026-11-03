@@ -47,6 +47,10 @@ Die Erbantrittserklärungen wurden am [[date|12.03.2026]] abgegeben. Die Erben h
 
 Der Notar hat die Erben über die Haftungsbeschränkung nach den Vorschriften des Erbrechts belehrt. Die Erben erklärten, die Verlassenschaft bedingt abgeben zu wollen, soweit die Forderung des Gläubigers nicht vollständig gedeckt ist.
 
+Die Verlassenschaft hat keine Schulden in nennenswertem Umfang hinterlassen, mit Ausnahme der Forderung des Gläubigers [[person|Holzmair]] und der Kosten der Bestattung in Höhe von EUR 3.870,00, die durch die Erbin [[person|Tjeerdsma]] bereits vorgestreckt wurden. Ein Rückersatz dieser Kosten aus dem Nachlass ist vorgesehen.
+
+Der Nachlass wurde bei der Bewertung nach dem Verkehrswert der Liegenschaft angesetzt. Ein Sachverständigengutachten über den Wert der Wohnung liegt nicht vor; der Notar hat den Wert anhand der Angaben im Grundbuch und eines Vergleichs mit Verkäufen in der Umgebung geschätzt.
+
 Die Einantwortung erfolgt nach Ablauf der Fristen. Der Notar wird den Erben die Urkunde nach Vorlage der Abgabenbestätigung übermitteln.
 
 Ausgefertigt am [[date|30.09.2026]] in [[location|Statzendorf]].

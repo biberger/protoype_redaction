@@ -20,7 +20,7 @@ Tel. [[phone_number|0463 539510 Durchwahl 98]]
 
 UZ: [[other_identifier|W-WScheuer/Kaltenboeck]]
 
-Honorarnote für MARION SCHEUER in der Angelegenheit Gewährleistung gegen die [[organization|Tischlerei Kaltenboeck]]
+Honorarnote für [[person|MARION SCHEUER]] in der Angelegenheit Gewährleistung gegen die [[organization|Tischlerei Kaltenboeck]]
 
 Sehr geehrte Frau [[person|Scheuer]],
 
@@ -37,6 +37,10 @@ Datum | Leistung | Einheiten | Betrag
 Zwischensumme netto: EUR 1.190,00
 Umsatzsteuer 20 %: EUR 238,00
 Gesamtbetrag: EUR 1.428,00
+
+Die Tagsatzung vom [[date|14.04.2025]] dauerte rund neunzig Minuten. Die Gegenseite hat in der Tagsatzung einen Vergleichsvorschlag unterbreitet, den Frau [[person|Scheuer]] nach Rücksprache mit uns abgelehnt hat. Die Leistungen für die Vorbereitung dieser Tagsatzung sind in der Position vom [[date|11.03.2025]] enthalten.
+
+Die Mitarbeit von [[person|Gapp]] umfasste die Recherche der Gewährleistungsfristen sowie die Erstellung der Korrespondenz mit der Werkstätte. Zeitaufwand und Stundensatz entsprechen der Vereinbarung vom [[date|03.03.2025]].
 
 Die Honorarnote ist binnen 14 Tagen ab Erhalt zur Zahlung fällig. Für allfällige Kostenersätze aus dem Verfahren bitten wir um Mitteilung der Kontoverbindung der Klientin, IBAN [[bank_account|AT72 7207 8632 4065 2687]].
 

@@ -8,7 +8,7 @@ MIETVERTRAG
 abgeschlossen zwischen
 
 Vermieterin:
-[[organization|Marolt Immobilien GmbH]], FN [[company_register_number|FN 162841y]], UID: [[tax_id|ATU15906848]]
+[[organization|Marolt Immobilien GmbH]], [[company_register_number|FN 162841y]], UID: [[tax_id|ATU15906848]]
 Geschäftsanschrift: [[address|Bahnhofstraße 9, 9020 Klagenfurt am Wörthersee]]
 vertreten durch den Geschäftsführer [[person|Radule Klaić]], geboren am [[date_of_birth|11. Juni 1956]]
 Tel. [[phone_number|+43 7242 944 97 40 Kl. 66]]
@@ -52,6 +52,14 @@ Die Vermieterin verpflichtet sich, die Wohnung in brauchbarem Zustand zu erhalte
 Der Mieter erhält zwei Wohnungsschlüssel und einen Schlüssel für das Kellerabteil. Weitere Schlüssel dürfen nur mit Zustimmung der Vermieterin nachgefertigt werden. Bei Verlust ist der Mieter verpflichtet, die Kosten für den Austausch des Schließzylinders zu tragen.
 
 Die Hausordnung ist Bestandteil dieses Vertrages. Lärmintensive Arbeiten sind werktags nur zwischen 8.00 und 12.00 Uhr sowie zwischen 14.00 und 18.00 Uhr zulässig. Das Abstellen von Fahrzeugen im Innenhof ist nicht gestattet.
+
+§ 5b Instandhaltung
+
+Kleinreparaturen bis zu einem Betrag von EUR 150,00 je Einzelfall trägt der Mieter. Größere Erhaltungsarbeiten sind der Vermieterin unverzüglich anzuzeigen; die Kostentragung richtet sich nach [[legal_norm|§ 3 MRG]].
+
+§ 5c Rückgabe der Wohnung
+
+Bei Beendigung des Mietverhältnisses ist die Wohnung besenrein und in dem Zustand zurückzugeben, der dem Übergabeprotokoll entspricht. Die Schlüssel sind vollständig zu übergeben.
 
 § 6 Schlussbestimmungen
 

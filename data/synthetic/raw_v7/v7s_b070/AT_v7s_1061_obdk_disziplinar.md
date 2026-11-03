@@ -53,6 +53,12 @@ Mildernd ist die bisherige Unbescholtenheit und die Nachzahlung des Restbetrags.
 
 Die Kosten des Verfahrens trägt die Beschuldigte.
 
+Die Beschuldigte stellte den Antrag, die Verhandlung zu vertagen, um die Kanzleibuchhaltung vorzulegen. Der Senat wies den Antrag ab, da die Unterlagen bereits im Vorverfahren angefordert, aber nicht vorgelegt worden waren.
+
+Die Zeugin [[person|Kindermann]] wurde zu den Zahlungen vom [[date|9. März 2023]] befragt. Sie gab an, dass sie die Auszahlung erst nach einer schriftlichen Mahnung vom [[date|20. Februar 2023]] erhalten habe, die ihr die Kanzlei nach einem Telefonat übermittelt habe. Ein Abrechnungsschreiben habe sie nie erhalten.
+
+Die Verteidigung der Beschuldigten brachte in den Schlussausführungen vor, die Geldbuße sei unter Berücksichtigung der wirtschaftlichen Lage der Kanzlei zu bemessen. Der Kammeranwalt widersprach dem nicht, beantragte jedoch die Veröffentlichung im Mitteilungsblatt der Kammer.
+
 Schluss der Verhandlung um 12.10 Uhr.
 
 [[location|Graz]], am [[date|27. März 2025]]

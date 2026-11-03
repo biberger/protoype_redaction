@@ -16,7 +16,7 @@ Sachverhalt
 
 Die Beschuldigte [[lawyer|Manova]] ist seit dem [[date|2. Jänner 2004]] als Rechtsanwältin in [[location|Wien]] eingetragen. Sie vertrat die Klientin [[person|Anemone Matzner]], wohnhaft in [[address|6780 Schruns]], Tel. [[phone_number|02622 863074-70]], in einer Angelegenheit betreffend die Auseinandersetzung einer Erbengemeinschaft. Die Klientin hatte Beträge aus dem Nachlass auf ein Treuhandkonto der Beschuldigten einzuzahlen.
 
-Die Klientin [[person|Matzner]] ist Geschäftsführerin der [[organization|Schuschnigg KG]], FN [[company_register_number|FN 596407w]], UID [[tax_id|ATU52574664]]. Zahlungen aus dem Nachlass sollten an die [[organization|Schuschnigg KG]] erfolgen. Die Gesellschaft ist unter dem Namen [[organization|Schuschnigg]] in den Unterlagen der Erbengemeinschaft geführt.
+Die Klientin [[person|Matzner]] ist Geschäftsführerin der [[organization|Schuschnigg KG]], [[company_register_number|FN 596407w]], UID [[tax_id|ATU52574664]]. Zahlungen aus dem Nachlass sollten an die [[organization|Schuschnigg KG]] erfolgen. Die Gesellschaft ist unter dem Namen [[organization|Schuschnigg]] in den Unterlagen der Erbengemeinschaft geführt.
 
 Der Disziplinarrat hat mit Erkenntnis vom [[date|11. November 2024]] festgestellt, dass die Beschuldigte Treuhandgelder nicht ordnungsgemäß verwaltet habe. Gegen diese Entscheidung hat die Beschuldigte Berufung erhoben.
 
@@ -47,6 +47,10 @@ Strafbemessung
 Der Senat berücksichtigt als mildernd, dass die Beschuldigte bisher nicht disziplinarrechtlich aufgefallen ist und die Verstöße mehr als fünf Jahre zurückliegen. Erschwerend wirkt der Umstand, dass Nachlassgelder für Honorarzwecke entnommen wurden. Die Herabsetzung der Geldbuße trägt diesem Umstand Rechnung.
 
 Kosten
+
+Die Senatsvorsitzende hat in der Verhandlung darauf hingewiesen, dass die Berufungswerberin in einem früheren Verfahren zu einer Stellungnahme aufgefordert, diese jedoch nicht fristgerecht eingebracht hat. Der Senat hat daher den verspäteten Vorbringen zur Vorschussvereinbarung nur eingeschränkt Bedeutung beigemessen.
+
+Die Schriftführerin [[person|Smal]] hat das Protokoll der Verhandlung geführt; die Anwesenheit des Kammeranwalts [[person|Reisner]] ist im Protokoll festgehalten. Ein Ablehnungsantrag gegen ein Mitglied des Senats wurde nicht gestellt.
 
 Die Kosten des Berufungsverfahrens trägt die Beschuldigte im Ausmaß eines Viertels.
 
