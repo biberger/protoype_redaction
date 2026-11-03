@@ -34,7 +34,9 @@ Der Erblasser [[person|Raab]] hinterlässt folgendes Vermögen:
 
 Die Schulden bestehen aus der Forderung der Gläubigerin [[person|Dipl.-Ing. Theres Prantl]], GEB: [[date_of_birth|11. April 1996]], die einen Werkvertrag über Dachdeckerarbeiten vom [[date|15.03.2022]] geltend macht. Die Forderung beträgt 3.420 Euro, die Gläubigerin hat die Rechnung vom [[date|30.04.2022]] vorgelegt. [[person|Prantl]] hat die Forderung im Verlassenschaftsverfahren angemeldet und erkennt an, dass der Erblasser die Arbeiten nicht vollständig bezahlt hat.
 
-Die Liegenschaft ist mit einem Pfandrecht zugunsten der [[organization|Waldviertler Volksbank]] belastet, das aus einem Wohnbaudarlehen aus dem Jahr 2009 stammt. Der Darlehensstand betrug zum Todestag 38.200 Euro und wird aus dem Nachlass nicht getilgt, weil die Verlassenschaft die Liegenschaft nach der Einantwortung übernimmt. Die Bank hat dem Notariat den aktuellen Stand mit Schreiben vom [[date|11.08.2022]] bestätigt.
+Die Liegenschaft ist mit einem Pfandrecht zugunsten der [[organization|Waldviertler Volksbank]] belastet, das aus einem Wohnbaudarlehen aus dem Jahr 2009 stammt. Der Darlehensstand betrug zum Todestag 38.200 Euro und wird aus dem Nachlass nicht getilgt, weil die Verlassenschaft die Liegenschaft nach der Einantwortung übernimmt. Die Bank hat dem Notariat den aktuellen Stand mit Schreiben vom [[date|11.08.2022]] bestätigt. Die Bank hat zudem übermittelt, dass die Verlassenschaft keine Zahlung leisten muss, sofern die Liegenschaft innerhalb eines Jahres nach der Einantwortung nicht veräußert wird; in diesem Fall wäre die Restschuld zu tilgen.
+
+Die Besichtigung der Liegenschaft fand am [[date|14.07.2022]] statt. Der Sachverständige bewertete das Wohnhaus nach dem Ertragswertverfahren, das Grundstück nach dem Vergleichswert. Die Bausubstanz wurde als durchschnittlich eingestuft; eine Sanierung des Daches ist innerhalb der nächsten fünf Jahre erforderlich, was im Verkehrswert berücksichtigt wurde.
 
 Der Erblasser war verwitwet; die Ehegattin ist bereits im Jahr 2011 verstorben. Eine Lebensgefährtin war nach den Angaben im Familienbuch nicht vorhanden, weshalb sich daraus keine weiteren Erbansprüche ergeben. Kinder hat der Erblasser nicht hinterlassen. Die Begräbniskosten wurden durch das Bestattungsunternehmen in [[location|Groß-Enzersdorf]] abgerechnet; die Rechnung ist beigelegt und mit 4.980 Euro im Passivum berücksichtigt.
 
@@ -45,6 +47,12 @@ Steinitz]], geboren am [[date_of_birth|25.06.1945]], wohnhaft in [[address|Haupt
 Zusammenfassung
 
 Die Aktiva betragen 205.060,18 Euro. Abzüglich der Passiva von 3.420 Euro, der Begräbniskosten von 4.980 Euro und der Verfahrenskosten von 1.250 Euro verbleibt ein Reinnachlass von 195.410,18 Euro. Wir ersuchen das [[court|BG Güssing]], die Einantwortung nach den genannten Quoten zu beschließen. Die Erbenschaft ist ohne Vorbehalt angenommen.
+
+Anlagen:
+./1 Nachlassinventar mit Bewertungen
+./2 Grundbuchsauszug der Liegenschaft
+./3 Kontoauszug zum Todestag
+./4 Schreiben der Bank vom [[date|11.08.2022]]
 
 Mit freundlichen Grüßen
 

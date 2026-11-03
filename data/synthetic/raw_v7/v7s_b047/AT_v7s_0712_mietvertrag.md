@@ -38,7 +38,7 @@ Die Vertragsparteien vereinbaren, dass der Mietzins ab dem [[date|01.04.2016]] w
 
 § 4 Kaution
 
-Der Mieter erlegt eine Kaution von drei Bruttomonatsmieten, somit 2.235 Euro. Die Kaution wird auf einem Sparbuch der Vermieterin verwahrt und nach Vertragsende mit den offenen Forderungen verrechnet.
+Der Mieter erlegt eine Kaution von drei Bruttomonatsmieten, somit 2.235 Euro. Die Kaution wird auf einem Sparbuch der Vermieterin verwahrt und nach Vertragsende mit den offenen Forderungen verrechnet. Die Verzinsung der Kaution richtet sich nach den gesetzlichen Bestimmungen des Mietrechtsgesetzes; die Vermieterin hat die Kaution nach Rückgabe der Schlüssel unverzüglich, spätestens binnen sechs Monaten, auszuzahlen, soweit keine Gegenforderungen bestehen. Eine Übertragung der Kaution auf einen neuen Vermieter bei einem Eigentumswechsel der Liegenschaft ist zulässig und wird den Mietern schriftlich mitgeteilt.
 
 § 5 Pflichten der Parteien
 

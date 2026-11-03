@@ -31,7 +31,7 @@ Die Anlage arbeitet seit der Übergabe nicht ordnungsgemäß. Die Monteure [[per
 
 Unsere Mandantin hat die [[organization|KK]] mit Schreiben vom [[date|28. Juli 2026]] zur Mängelbehebung aufgefordert. Die Frist ist ohne Ergebnis verstrichen. Eine Nachbesserung durch die [[organization|Krause]] fand bis heute nicht statt.
 
-Wir fordern Sie daher auf, bis [[date|20. November 2026]] die Mängel zu beheben und die Rechnung auf 8.900 Euro zu berichtigen. Andernfalls werden wir Klage einbringen, ohne weitere Ankündigung. Die Gewährleistungsansprüche richten sich nach [[legal_norm|§ 932 ABGB]].
+Wir fordern Sie daher auf, bis [[date|2. November 2026]] die Mängel zu beheben und die Rechnung auf 8.900 Euro zu berichtigen. Andernfalls werden wir Klage einbringen, ohne weitere Ankündigung. Die Gewährleistungsansprüche richten sich nach [[legal_norm|§ 932 ABGB]].
 
 Bitte richten Sie künftige Schreiben an unsere Kanzlei und geben Sie stets das Zeichen [[other_identifier|KZ/Gehrer/1182]] an.
 

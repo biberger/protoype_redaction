@@ -22,13 +22,13 @@ Spruch
 
 [[lawyer|Neužil]] ist schuldig, die Berufspflichten nach [[legal_norm|§ 16 Abs 1 RAO]] verletzt zu haben, indem er die ihm von der Anzeigerin übergebenen Treuhandgelder nicht getrennt verwahrt und über einen Betrag von EUR 14.300,00 verfügt hat, ohne die Verwendung zu dokumentieren. Er wird hierfür mit einer Geldbuße von EUR 5.000,00 bestraft.
 
-Die Vorinstanz hat den Antrag auf Einstellung des Verfahrens abgewiesen. Der Beschuldigte trägt die Kosten des Verfahrens.
+Der Antrag auf Einstellung des Verfahrens wird abgewiesen. Der Beschuldigte trägt die Kosten des Verfahrens.
 
 Begründung
 
 I. Verfahrensgang
 
-Die Disziplinaranzeige der Kammeranwältin [[person|Sieghart]] vom [[date|18. März 2025]] trägt den Vermerk UZ: [[other_identifier|KGA-KGANeužil/Schliefsteiner]] und wurde beim Disziplinarrat eingebracht. Die Anzeige stützt sich auf eine Beschwerde der Anzeigerin [[person|Akkad]], die sich im Jahr 2024 an die [[organization|Rechtsanwaltskammer Wien ([[organization|RAKW]])]] gewandt hatte. Die [[organization|RAKW]] hat die Beschwerde an die Kammeranwältin weitergeleitet.
+Die Disziplinaranzeige der Kammeranwältin [[person|Sieghart]] vom [[date|18. März 2025]] trägt den Vermerk UZ: [[other_identifier|KGA-KGANeužil/Schliefsteiner]] und wurde beim Disziplinarrat eingebracht. Die Anzeige stützt sich auf eine Beschwerde der Anzeigerin [[person|Akkad]], die sich im Jänner 2024 an die [[organization|Rechtsanwaltskammer Wien]] ([[organization|RAKW]]) gewandt hatte. Die [[organization|RAKW]] hat die Beschwerde an die Kammeranwältin weitergeleitet.
 
 Der Beschuldigte wurde am [[date|4. Mai 2025]] zur Stellungnahme aufgefordert und hat sich am [[date|19. Juni 2025]] schriftlich geäußert. Eine mündliche Verhandlung fand am [[date|22. Juli 2026]] statt.
 
@@ -54,6 +54,26 @@ Der Beschuldigte bestreitet, die Gelder für eigene Zwecke verwendet zu haben. E
 
 Die Kammeranwältin hat in der Verhandlung angeregt, eine Untersagung der Vertretung in Treuhandangelegenheiten zu prüfen. Der Senat hat davon abgesehen, weil der Beschuldigte ein Konzept zur künftigen Verwahrung vorgelegt hat, das eine Trennung der Gelder und eine monatliche Abstimmung vorsieht.
 
+VI. Vorbringen des Beschuldigten
+
+Der Beschuldigte hat im schriftlichen Verfahren vorgebracht, dass die Anzeigerin ihm die Abwicklung des Verkaufs nur mündlich übertragen habe und dass eine schriftliche Vollmacht nie unterzeichnet worden sei. Er habe die Gelder daher als Vorschuss betrachtet, den er zur Deckung von Kosten verwenden durfte. Die Zahlung an den Gutachter sei im Einvernehmen mit der Anzeigerin erfolgt, die ihm telefonisch die Zustimmung erteilt habe.
+
+Der Senat hat diese Darstellung geprüft. Eine schriftliche Vollmacht liegt nicht vor, das ist unstreitig. Die behauptete telefonische Zustimmung ist jedoch weder protokolliert noch durch einen Zeugen belegt. Die Anzeigerin hat die Zustimmung ausdrücklich bestritten und erklärt, dass sie von der Zahlung an den Gutachter erst im Jahr 2024 erfahren habe.
+
+Der Beschuldigte hat außerdem vorgebracht, dass seine Kanzlei im Jahr 2023 durch den Ausfall einer Mitarbeiterin stark belastet war. Dieser Umstand wird vom Senat als nachvollziehbar anerkannt, rechtfertigt die Verwendung fremder Gelder aber nicht.
+
+VII. Zeugenaussagen
+
+Die Anzeigerin [[person|Akkad]] wurde in der Verhandlung vom [[date|22. Juli 2026]] als Zeugin gehört. Sie schilderte, dass sie den Beschuldigten als Vertreter des Verkaufs ausgewählt hatte, weil er ihr von einem Kollegen empfohlen worden sei. Die Gelder habe sie stets in dem Glauben überwiesen, dass sie auf einem getrennten Konto verwahrt würden.
+
+Der Gutachter, dessen Honorar angeblich aus dem Treuhandkonto bezahlt wurde, konnte nicht geladen werden, weil er zwischenzeitlich verzogen ist. Der Senat hat die Vorlage der Gutachterrechnung verlangt; eine solche ist bis zur Entscheidung nicht eingelangt.
+
+VIII. Anträge der Parteien
+
+Die Kammeranwältin [[person|Sieghart]] beantragt die Verhängung einer Geldbuße im oberen Bereich des Strafrahmens sowie die Untersagung der Vertretung in Treuhandangelegenheiten für die Dauer von zwei Jahren. Der Beschuldigte beantragt die Einstellung des Verfahrens, hilfsweise die Verhängung einer Ermahnung.
+
+Der Senat hat die Anträge geprüft und entschieden, dass eine Ermahnung der Schwere des Verstoßes nicht gerecht würde. Die Einstellung kommt wegen des Umfangs der Verwendung ebenfalls nicht in Betracht.
+
 IV. Rechtliche Beurteilung
 
 Die Verwahrung von Treuhandgeldern ist eine zentrale Berufspflicht eines Rechtsanwalts. Die Gelder sind getrennt von eigenen Mitteln und von den Mitteln anderer Klienten zu verwahren. Eine Verwendung für fremde Zwecke ohne schriftliche Weisung ist auch dann pflichtwidrig, wenn der Betrag später zurückbezahlt wird.
@@ -74,4 +94,4 @@ Der Beschluss wurde in nichtöffentlicher Beratung mit Stimmenmehrheit gefasst. 
 
 Für die Richtigkeit der Ausfertigung:
 [[person|Reinmund Dr. Silberbauer]], Schriftführer
-Telefon der Geschäftsstelle: [[phone_number|0463 882424 Durchwahl 11]]
+Tel. [[phone_number|0463 882424 Durchwahl 11]]

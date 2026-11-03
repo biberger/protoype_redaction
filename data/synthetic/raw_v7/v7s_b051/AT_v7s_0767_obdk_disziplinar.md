@@ -12,10 +12,10 @@ ENTSCHEIDUNG
 
 Der Disziplinarrat der Rechtsanwaltskammer Wien hat in seiner Sitzung vom [[date|9. Oktober 2026]] durch den Senat in der Besetzung
 
-Senatsvorsitzende: [[judge|Mag. Hildegard Bienenfeld]], StA. [[country|Bosnien und Herzegowina]]
-Senatsmitglieder: [[judge|Dr. Bertran Lamprecht]], [[date_of_birth|geb. 1957-09-08]]? 
+Vorsitz: [[judge|Mag. Hildegard Bienenfeld]], StA. [[country|Bosnien und Herzegowina]]
+Beisitzer: [[judge|Dr. Bertran Lamprecht]], geb. [[date_of_birth|1957-09-08]], und [[judge|Dr. Adriana Cibulka]] 
 
-Hinweis zur Besetzung: der Senat besteht aus [[judge|Mag. Hildegard Bienenfeld]] als Vorsitzender, [[judge|Dr. Bertran Lamprecht]] und [[judge|Dr. Adriana Cibulka]] als Mitglieder.
+
 
 Schriftführerin: [[person|Stela Nikolova]]
 Kammeranwalt: [[person|Mag. Gunthard Fischbacher]]
@@ -53,7 +53,7 @@ Datum | Vorgang | Betrag | Mandant | Treuhandnr.
 
 2.3. Der Beschuldigte verwies in der Verhandlung auf eine mündliche Vereinbarung mit [[person|Violeta Ilić]], wonach ein Betrag von EUR 3.600,00 als Vorschuss einbehalten werden durfte. Der Senat konnte eine solche Vereinbarung nicht feststellen. Eine schriftliche Vereinbarung fehlt, und die Mandantin bestreitet die Vereinbarung.
 
-2.4. Die Mandantin wohnt in [[address|3213 Frankenfels]]. Sie erstattete die Anzeige, nachdem sie den Restbetrag nur verspätet und ohne Erläuterung erhalten hatte.
+2.4. Die Mandantin wohnt in [[location|St. Gilgen]]. Sie erstattete die Anzeige, nachdem sie den Restbetrag nur verspätet und ohne Erläuterung erhalten hatte.
 
 3. Rechtliche Beurteilung
 

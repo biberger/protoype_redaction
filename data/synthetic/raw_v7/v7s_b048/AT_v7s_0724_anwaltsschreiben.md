@@ -28,7 +28,7 @@ Die Lenkerin des Transporters, Frau [[person|Patricia Muthspiel]], Staatsangehö
 
 Unser Mandant wurde im [[organization|Landeskrankenhaus Murau]] behandelt, wo ein Bruch des linken Unterschenkels festgestellt wurde. Die Beifahrerin, Frau [[person|Taťjana Vášáryová]] *[[date_of_birth|23. November 2000]], hat den Unfall als Zeugin beobachtet und sich bereit erklärt, auszusagen.
 
-Die bisher entstandenen Heilungskosten und der Verdienstentgang belaufen sich auf 3.870 Euro. Hinzu kommt ein Schmerzengeld, das wir nach Abschluss der Behandlung beziffern werden. Wir ersuchen Sie, den Betrag bis [[date|10. November 2026]] auf das Mandantenkonto IBAN [[bank_account|AT23 5037 4129 4678 6956]] zu überweisen.
+Die bisher entstandenen Heilungskosten und der Verdienstentgang belaufen sich auf 3.870 Euro. Hinzu kommt ein Schmerzengeld, das wir nach Abschluss der Behandlung beziffern werden. Wir ersuchen Sie, den Betrag bis [[date|30. Oktober 2026]] auf das Mandantenkonto IBAN [[bank_account|AT23 5037 4129 4678 6956]] zu überweisen.
 
 Unsere Mandantschaft:
 

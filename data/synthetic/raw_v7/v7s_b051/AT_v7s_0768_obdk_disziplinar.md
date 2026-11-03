@@ -6,11 +6,11 @@ lang: de
 [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]]
 
 [[court|OBDK]]
-GZ: [[other_identifier|2026/095]]
+GZ: [[case_number|D 14/2026]]
 
 BESCHLUSS
 
-Die [[court|OBDK]] hat in der Sitzung vom [[date|12. Mai 2026]] unter dem Vorsitz von [[judge|Bertl Gugg]] sowie der Mitwirkung von [[judge|Dr. Sylvia Freiberger]] und [[judge|MMag. Rosalinde Kunert]] als Mitglieder des Senats, im Beisein des Kammeranwalts [[person|DI Ayyub Haroun]] und der Schriftführerin [[person|Yusrah Ata]] über die Berufung der Beschuldigten [[lawyer|MMag. Shameera Husseini]] entschieden.
+Die [[court|OBDK]] hat in der Sitzung vom [[date|12. Mai 2026]] unter dem Vorsitz von [[judge|Bertl Gugg]], GEB: [[date_of_birth|06.11.1962]], sowie der Mitwirkung von [[judge|Dr. Sylvia Freiberger]] und [[judge|MMag. Rosalinde Kunert]] als Mitglieder des Senats, im Beisein des Kammeranwalts [[person|DI Ayyub Haroun]] und der Schriftführerin [[person|Yusrah Ata]] über die Berufung der Beschuldigten [[lawyer|MMag. Shameera Husseini]] entschieden.
 
 Spruch
 
@@ -20,7 +20,7 @@ Begründung
 
 1. Gang des Verfahrens
 
-Der Disziplinarrat hatte [[lawyer|MMag. Shameera Husseini]] schuldig erkannt, Treuhanderlöse ihrer Mandantschaft nicht vertragsgemäß verwahrt zu haben. Die Beschuldigte erhob fristgerecht Berufung. Der Kammeranwalt [[person|DI Ayyub Haroun]] beantragte die Abweisung der Berufung.
+Auf Anzeige der [[organization|Rechtsanwaltskammer Wien]] ([[organization|RAK]]) hatte der Disziplinarrat [[lawyer|MMag. Shameera Husseini]] schuldig erkannt, Treuhanderlöse ihrer Mandantschaft nicht vertragsgemäß verwahrt zu haben. Die Beschuldigte erhob fristgerecht Berufung. Der Kammeranwalt [[person|DI Ayyub Haroun]], Tel. [[phone_number|02742/6941254 Kl. 64]], beantragte die Abweisung der Berufung.
 
 2. Sachverhalt
 
@@ -37,7 +37,7 @@ Datum | Vorgang | Betrag | Mandant | Treuhandnr.
 
 2.3. Die Honorarentnahme vom 30. Juni 2025 erfolgte ohne vorherige Abrechnung. Die Beschuldigte begründet dies mit einem Irrtum über die Fälligkeit. Der Senat stellt fest, dass die Abrechnung der [[organization|RAK]] erst am 2. Dezember 2025 vorgelegt wurde.
 
-2.4. [[person|Violeta Ilić]] wohnt in [[location|Bregenz]]. Sie hat die Entnahme erst nach der Auszahlung an die Erben bemerkt.
+2.4. [[person|Violeta Ilić]] wohnt in [[address|3213 Frankenfels]]. Sie hat die Entnahme erst nach der Auszahlung an die Erben bemerkt.
 
 3. Rechtliche Beurteilung
 

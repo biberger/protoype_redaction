@@ -61,6 +61,28 @@ Der Beschuldigte bestritt die verspätete Verbuchung und führte den Umzug seine
 2024 als Grund an. Er legte keine Belege vor, die diesen Vorgang belegen. Die Zustelladresse des
 Beschuldigten lautet: Kanzlei [[person|Haverkamp]], Tel. [[phone_number|+43-463-5009656 DW 84]].
 
+Beweisaufnahme
+
+In der mündlichen Verhandlung wurde [[person|Gabriele Pachler]] als Zeugin vernommen. Sie schilderte, dass
+sie den Beschuldigten im Herbst 2024 mehrfach telefonisch um die Auszahlung ersucht habe. Der Beschuldigte
+habe ihr jeweils zugesagt, die Zahlung werde in den nächsten Tagen veranlasst. Eine schriftliche Bestätigung
+dazu hat sie nicht erhalten. Sie gab an, erst nach der Beschwerde an die [[organization|RAK Wien]] die Summe
+vollständig erhalten zu haben.
+
+Der Kammeranwalt [[person|MMag. Valer Schwalb]] beantragte die Verhängung einer Geldbuße in der Höhe von
+EUR 8.000,00 und verwies auf die Dauer der Verzögerung. Er führte aus, dass die Verbuchungsmängel bei
+einer Treuhandkontrolle sofort aufgefallen wären.
+
+Der Beschuldigte [[person|Haverkamp]] stellte in seiner Stellungnahme vom [[date|03.09.2025]] die Vorwürfe
+zum Teil in Abrede. Er bestätigte jedoch, dass die Auszahlung an [[person|Pachler]] verspätet erfolgte, und
+räumte ein, dass für die Zahlung an [[person|Dasović]] keine schriftliche Weisung eingeholt wurde. Der
+Beschuldigte [[person|Haverkamp]] bat um eine milde Beurteilung, weil er die Kanzlei nach dem Tod seines
+langjährigen Mitarbeiters allein führe.
+
+Der Disziplinarrat hat die Angaben der Zeugin als glaubwürdig beurteilt. Die Widersprüche in der Darstellung
+des Beschuldigten zur Kanzleiorganisation haben den Senat nicht überzeugt, zumal die Treuhandbücher keine
+Einträge zum angeblichen Umzug enthalten. Die Schriftführerin hat das Protokoll der Verhandlung aufgenommen.
+
 III. Rechtliche Beurteilung
 
 Der Disziplinarrat hält den objektiven Tatbestand der Pflichtverletzung für erwiesen. Die Verwahrung

@@ -58,6 +58,8 @@ Betreff: AW: AW: Unfall in [[location|St. Lorenzen]]
 
 Ich bin Geschäftsführerin der [[organization|Karner GmbH]] ([[company_register_number|FN 206650y]], UID: [[tax_id|ATU31794573]]). Unser Fahrer war zum Zeitpunkt des Unfalls ordnungsgemäß unterwegs, er wurde von Frau [[person|Weis]] nicht gesehen. Wir bestätigen die Schilderung von [[person|Tomassi]] nicht. Ein Zeuge, [[person|Bichler]], wird bestätigen, dass Frau [[person|Weis]] das Fahrzeug unvermittelt angefahren hat. Herr [[person|Bichler]] ist allerdings der Sohn von Frau [[person|Weis]] und daher kein unbeteiligter Zeuge; wir bitten, dies bei der Beurteilung zu berücksichtigen.
 
+Wir werden die Schadenmeldung an unseren Haftpflichtversicherer weitergeben, der die Angelegenheit prüft. Ein Termin für die Besichtigung des Fahrzeugs ist für den [[date|28.10.2025]] in unserer Werkstatt vorgesehen; wir bitten um Bestätigung.
+
 Mit freundlichen Grüßen
 [[person|Kriemhild Ehmann]]
 [[organization|Karner GmbH]]
@@ -79,6 +81,8 @@ Betreff: Unfall in [[location|St. Lorenzen]], unser Zeichen
 Sehr geehrte Damen und Herren,
 
 wir bestätigen den Eingang Ihrer Nachrichten. Den Hergang werden wir durch ein Gutachten klären lassen; bis dahin bitten wir um Zurückhaltung in der Korrespondenz mit der [[organization|ALV]]. Die Teilzahlung von 1.200 Euro nehmen wir nicht an. Wir haben Frau [[person|Weis]] über den Vergleichsvorschlag informiert und ihr die Gefahren einer Verzögerung erläutert; sie hat uns beauftragt, die Forderung in voller Höhe geltend zu machen. Unser Zeichen: [[other_identifier|Weis ./. Bieler]]
+
+Wir ersuchen, den Termin der Besichtigung am [[date|28.10.2025]] wahrzunehmen. Der Gutachter wird die Schäden an beiden Fahrzeugen dokumentieren; bei einem Vergleich werden die Kosten nach dem Verhältnis der festgestellten Verursachung geteilt.
 
 Mit freundlichen Grüßen
 

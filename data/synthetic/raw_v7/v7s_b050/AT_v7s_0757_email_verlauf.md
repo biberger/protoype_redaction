@@ -10,7 +10,7 @@ Betreff: AW: Schaden-Nr. [[other_identifier|57/980343/21]] - Unfall vom [[date|2
 
 Sehr geehrter Herr [[lawyer|Sima]],
 
-danke für Ihre Nachricht. Ich bin mit dem Vorschlag einverstanden, die Reparaturrechnung vorerst nicht einzureichen. Ich habe die Fotos vom Heck meines Fahrzeugs an Frau [[person|Küng]] weitergeleitet, damit ihre Mandantschaft den Schaden prüfen kann.
+danke für Ihre Nachricht. Ich bin mit dem Vorschlag einverstanden, die Reparaturrechnung vorerst nicht einzureichen. Ich habe die Fotos vom Heck meines Fahrzeugs an Frau [[lawyer|Küng]] weitergeleitet, damit ihre Mandantschaft den Schaden prüfen kann.
 
 Bitte bestätigen Sie mir, ob ich am [[date|20.01.2026]] beim Termin im Büro sein muss oder ob eine Telefonkonferenz reicht.
 
@@ -26,7 +26,7 @@ Betreff: WG: Schaden-Nr. [[other_identifier|57/980343/21]]
 
 Sehr geehrter Herr [[person|Kahr]],
 
-wir haben die Stellungnahme der Gegenseite erhalten. Die [[organization|Höck Handels GmbH]] ([[organization|HHG]]) bestreitet ihre Haftung und verweist auf das Gutachten vom [[date|15.12.2025]]. Wir werden dieses Gutachten gesondert prüfen und Ihnen bis Ende des Monats berichten.
+wir haben die Stellungnahme der Gegenseite erhalten. Die [[organization|Höck Handels GmbH]] ([[organization|HHG]]) bestreitet ihre Haftung und verweist auf das Gutachten vom [[date|15.12.2025]]. Wir werden dieses Gutachten gesondert prüfen und Ihnen bis Ende des Monats berichten. Die [[organization|HHG]] hat außerdem angeboten, die halben Reparaturkosten zu übernehmen, was wir nicht für ausreichend halten.
 
 Sollte keine Einigung zustande kommen, werden wir beim [[court|Bezirksgericht Schärding]] Klage einreichen. Das [[court|BG Schärding]] ist für Verkehrsunfälle dieser Art zuständig, weil sich der Unfall in dessen Sprengel ereignet hat.
 
@@ -53,7 +53,7 @@ Betreff: Schaden-Nr. [[other_identifier|57/980343/21]]
 
 Sehr geehrter Herr Kollege [[lawyer|Sima]],
 
-ich vertrete die [[organization|Höck Handels GmbH]] ([[company_register_number|FN 111984h]], UID: [[tax_id|ATU07837242]]) in der Angelegenheit des Verkehrsunfalls. Mein Mandant [[person|Anastasius Wang]], Geschäftsführer der [[organization|Höck]], weist jede Haftung zurück. Das Fahrzeug der [[organization|Höck]] stand zum Unfallzeitpunkt ordnungsgemäß im Halteverbot nicht; der Zeuge bestätigt dies.
+ich vertrete die [[organization|Höck Handels GmbH]] ([[company_register_number|FN 111984h]], UID: [[tax_id|ATU07837242]]) in der Angelegenheit des Verkehrsunfalls. Mein Mandant [[person|Anastasius Wang]], Geschäftsführer der [[organization|Höck]], weist jede Haftung zurück. Das Fahrzeug der [[organization|Höck]] stand zum Unfallzeitpunkt nicht im Halteverbot; der Zeuge bestätigt dies.
 
 Ich bitte um Übersendung der Reparaturrechnung und der Fotos bis zum [[date|31.01.2026]].
 
@@ -62,4 +62,4 @@ Mit freundlichen Grüßen
 [[lawyer|Gisela Küng]]
 Rechtsanwältin
 Tel. [[phone_number|07242 906077-4]]
-Unser Zeichen: [[other_identifier|571/21 PT]]
+UZ: [[other_identifier|571/21 PT]]

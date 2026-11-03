@@ -35,9 +35,9 @@ Tel. [[phone_number|0664 2231907]], E-Mail: [[email|k.kohlbauer@mail-at.net]]
 
 § 2 Mietdauer
 
-(1) Das Mietverhältnis beginnt am [[date|1. Dezember 2020]] und ist auf die Dauer von sechs Jahren befristet. Es endet daher mit Ablauf des [[date|30. November 2026]], ohne dass es einer Kündigung bedarf.
+(1) Das Mietverhältnis beginnt am [[date|1. Dezember 2020]] und ist auf die Dauer von fünf Jahren befristet. Es endet daher mit Ablauf des [[date|30. November 2025]], ohne dass es einer Kündigung bedarf.
 
-(2) Eine Verlängerung um jeweils drei Jahre ist nur schriftlich zu vereinbaren. Der Mieter hat die Verlängerung bis spätestens [[date|31. August 2026]] schriftlich anzufragen.
+(2) Eine Verlängerung um jeweils drei Jahre ist nur schriftlich zu vereinbaren. Der Mieter hat die Verlängerung bis spätestens [[date|31. August 2025]] schriftlich anzufragen.
 
 § 3 Mietzins und Betriebskosten
 

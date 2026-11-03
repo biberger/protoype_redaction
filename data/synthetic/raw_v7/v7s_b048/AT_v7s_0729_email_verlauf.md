@@ -17,7 +17,7 @@ Den Einwand, es fehle eine Schadensmeldung, lassen wir nicht gelten. Die Meldung
 
 Sollten Sie weiterhin der Ansicht sein, dass die Leitung nicht ursächlich war, bitten wir um einen eigenen Befund Ihrer Haustechnik. Wir stellen Ihnen gerne einen Termin für die Besichtigung der Wand im Bad am [[date|3. November 2026]] zur Verfügung, damit der Befund gemeinsam erhoben werden kann.
 
-Wir ersuchen um Überweisung bis [[date|10. November 2026]]. Andernfalls wird das [[court|Bezirksgericht Braunau am Inn]] angerufen. Das [[court|BG Braunau am Inn]] ist für Forderungen dieser Höhe zuständig.
+Wir ersuchen um Überweisung bis [[date|30. Oktober 2026]]. Andernfalls wird das [[court|Bezirksgericht Braunau am Inn]] angerufen. Das [[court|BG Braunau am Inn]] ist für Forderungen dieser Höhe zuständig.
 
 Mit freundlichen Grüßen
 

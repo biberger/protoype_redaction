@@ -25,7 +25,9 @@ Die Beifahrerin [[person|Dieuwertje Wiersma]] hat leichte Prellungen erlitten un
 
 Hinweise zum Versicherungsschutz: Der Pkw ist bei der Versicherung unter der Polizzen-Nr. [[other_identifier|12-8567433]] versichert. Für Rückfragen ist die Versicherung unter Tel. [[phone_number|+43 732 732 16 63-4]] erreichbar.
 
-Der Lkw war für die Strecke nach [[location|Lienz]] gemeldet. Die Ladung wurde nicht beschädigt. Der Sachschaden wird auf 14.200 Euro geschätzt.
+Der Lkw war für die Strecke nach [[location|Lienz]] gemeldet. Die Ladung wurde nicht beschädigt. Der Sachschaden wird auf 14.200 Euro geschätzt. Der Pkw war ein Kombi der Marke Škoda, der Lkw ein Transporter mit einem zulässigen Gesamtgewicht von 3,5 Tonnen. Beide Fahrzeuge wurden am Unfallort fotografiert, die Lichtbilder zeigen den Anstoßpunkt an der linken Seite des Pkw und die Beschädigung am vorderen Stoßfänger des Lkw.
+
+Die Fahrbahn war zum Unfallzeitpunkt trocken, die Sicht nach Aussage beider Lenker ausreichend. Die Verkehrszeichen im Bereich der Kreuzung waren vorhanden und nicht verdeckt. Auf der Straße wurden keine Bremsspuren des Pkw festgestellt, was die Lenkerin mit einem plötzlichen Ausweichmanöver erklärt hat.
 
 Die Alkoholvortests verliefen bei allen Lenkern negativ. Die Lenkerin des Pkw gab an, sie habe den Verkehrsspiegel nicht gesehen. GrInsp. [[person|Kaltenbrunner]] hat die Spuren vor Ort fotografiert, die Fotos sind der Anzeige beigelegt.
 

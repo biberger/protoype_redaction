@@ -87,7 +87,7 @@ Ich habe das Inventar am [[date|14. Oktober 2025]] aufgenommen und den Erben vor
 
 Die Verlassenschaftsabhandlung wird mit der Einantwortung abgeschlossen, sobald alle Erben die Erbschaftssteuer beglichen haben.
 
-Der Einantwortungsentwurf liegt den Erben zur Durchsicht vor. Einwendungen sind bis zum [[date|20. November 2026]] schriftlich zu erheben.
+Der Einantwortungsentwurf liegt den Erben zur Durchsicht vor. Einwendungen sind binnen 14 Tagen ab Zustellung schriftlich zu erheben.
 
 [[location|Weitensfeld im Gurktal]], am [[date|3. November 2026]]
 
