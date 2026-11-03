@@ -70,7 +70,7 @@ Die Berufung an die Oberste Berufungs- und Disziplinarkommission für Rechtsanw�
 
 Die Rechtsanwaltskammer für Kärnten (im Folgenden „[[organization|RAKK]]“) hat in der Verhandlung keinen Antrag auf Streichung gestellt. Die Kammeranwaltschaft hat jedoch eine Geldbuße im oberen Bereich des Strafrahmens und die Auflage einer Treuhandschulung beantragt. Der Senat hat die Auflage nicht verhängt, weil der Beschuldigte eine solche Schulung bereits im Jahr 2024 freiwillig absolviert hat. Die Teilnahmebestätigung wurde vorgelegt. Die [[organization|RAKK]] hat dem Senat jedoch mitgeteilt, dass der Beschuldigte bereits zweimal wegen Verletzung der Treuhandpflichten verwarnt worden ist.
 
-Die Kosten des Verfahrens bestehen aus den Kosten der Verhandlung, den Auslagen für die Zustellung und der Gebühr für die Einholung des Kontoauszugs. Sie sind dem Beschuldigten nach [[legal_norm|§ 49 Abs 2 RAO]] aufzuerlegen.
+Der Senat hat die Verfahrenskosten nach Umfang und Aufwand bemessen. Die Kosten des Verfahrens bestehen aus den Kosten der Verhandlung, den Auslagen für die Zustellung und der Gebühr für die Einholung des Kontoauszugs. Sie sind dem Beschuldigten nach [[legal_norm|§ 49 Abs 2 RAO]] aufzuerlegen.
 
 Zugestellt an:
 [[lawyer|Alberic Sexl]], per ERV

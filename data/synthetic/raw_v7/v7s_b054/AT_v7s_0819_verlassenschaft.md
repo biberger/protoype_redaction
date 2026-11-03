@@ -69,6 +69,8 @@ Die Verlassenschaft wird nach Berichtigung der Verbindlichkeiten und Einantwortu
 
 Die Abhandlungsgebühr wurde mit [[date|02.11.2026]] bemessen und ist binnen 14 Tagen zu entrichten. Die Gebührenvorschreibung der Gerichtskasse ist den Erben über das Notariat zuzustellen. Für die Einantwortung der Liegenschaft ist außerdem ein Grundbuchsgesuch nach der Einantwortung erforderlich, das der Notar vorbereitet.
 
+Die Erben werden ersucht, die Unterlagen über die Begräbniskosten, die Kontoauszüge der letzten zwölf Monate und die Versicherungspolizzen bis zum Ende des Monats im Notariat abzugeben, damit die Einantwortung ohne weitere Verzögerung erfolgen kann.
+
 Notar
 [[lawyer|Dr. Brückner]]
 

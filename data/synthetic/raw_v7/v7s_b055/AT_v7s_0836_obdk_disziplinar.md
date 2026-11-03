@@ -83,6 +83,12 @@ Der Senat hat die Bedeutung des Treuhandkontos für das Vertrauen der Rechtsuche
 
 Die Schwere der Verletzung ergibt sich daraus, dass die Entnahme nicht nur vorgezogen, sondern in der Höhe nicht belegt war. Der Senat hat dies als gewichtigen Umstand gewertet, auch wenn die Beschuldigte bisher nicht disziplinär auffällig war.
 
+4d. Zu den Zeugenaussagen
+
+Der Senat hat die Aussagen der Anzeigerin, der Schriftführerin und des Kammeranwalts gegeneinander abgewogen. Die Anzeigerin war in ihren Angaben zu Einzelheiten zurückhaltend, blieb aber in der Hauptsache konsistent: Sie habe der Beschuldigten einen Betrag für den Ausgleich überwiesen, aber keine Abrechnung über die Verwendung erhalten. Die Schriftführerin konnte sich an den genauen Ablauf der Buchungen im Herbst 2019 nicht mehr erinnern, bestätigte jedoch, dass sämtliche Buchungen über das Büro der Beschuldigten erfolgten und von dieser freigegeben wurden. Diese Angaben sind mit dem Treuhandbuch vereinbar.
+
+Die Beschuldigte selbst hat ihre Angaben im Verlauf der Verhandlung geändert. Zunächst gab sie an, die Honorarnote sei am [[date|29.11.2019]] versandt worden; später erklärte sie, sie sei erst im Frühjahr 2020 erstellt worden. Der Senat sieht darin ein Indiz dafür, dass die Abrechnung nicht zeitgerecht erfolgte. Auf die Frage, weshalb die Note nicht im Treuhandbuch vermerkt ist, konnte sie keine Antwort geben.
+
 5. Strafbemessung
 
 Mildernd waren die Unbescholtenheit der Beschuldigten und die Rückzahlung des Honorars im Verfahren. Erschwerend war die Höhe des entnommenen Betrages und die lange Dauer, während der die Anzeigerin auf die Abrechnung warten musste. Die Geldbuße von 3.000 Euro entspricht diesen Umständen.

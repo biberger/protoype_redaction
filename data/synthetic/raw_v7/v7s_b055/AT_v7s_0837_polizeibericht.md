@@ -38,6 +38,8 @@ Beweissicherung: Lichtbilder der Unfallstelle wurden durch GrInsp. [[person|Haus
 
 Die Fahrzeuge waren zum Zeitpunkt des Unfalls ordnungsgemäß zugelassen. Der Lenker des Fahrzeuges mit dem Kennzeichen [[license_plate|LA-31O]] gab an, er sei durch die tiefstehende Sonne geblendet worden und habe den Vorrang der Lenkerin nicht rechtzeitig erkannt. Die Lenkerin des anderen Fahrzeuges bestätigte dies nicht. Die Frage, ob ein Vorrang bestand, wird im Zivilverfahren zu klären sein.
 
+Die Unfallstelle war zum Zeitpunkt der Aufnahme durch eine Baustelle teilweise eingeschränkt, eine Verkehrsregelung durch die Polizei war nicht erforderlich.
+
 Die Anzeige wird an die Bezirkshauptmannschaft übermittelt. Eine Mitteilung an die Versicherungen erfolgt durch die Beteiligten selbst.
 
 [[location|St. Ruprecht an der Raab]], am [[date|18. September 2026]]

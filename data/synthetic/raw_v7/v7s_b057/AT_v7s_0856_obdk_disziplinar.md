@@ -35,7 +35,7 @@ Mit Beschluss vom [[date|12.12.2024]] ordnete der Senat die Verbindung dieses Ve
 
 II. Sachverhalt
 
-Die Beschuldigte übernahm im Jänner 2019 die Vertretung der Klientin [[person|Dankert]]. Zur Abwicklung wurde ein Treuhandkonto eingerichtet; die Vorgänge sind unter der Treuhandbuch-Nr. [[other_identifier|2019/909]] verbucht. Die Zahlung stammte von der [[organization|Eder Handels GmbH]] ([[company_register_number|FN 501007a]], UID-Nr. [[tax_id|ATU56076258]]), deren Anschrift [[address|9141 Eberndorf]] lautet. Bei ihrer Vernehmung war die Gesellschaft unter der Telefonnummer [[phone_number|0316/6140638-2]] erreichbar.
+Die Beschuldigte übernahm im Jänner 2019 die Vertretung der Klientin [[person|Dankert]]. Zur Abwicklung wurde ein Treuhandkonto eingerichtet; die Vorgänge sind unter der Treuhandbuch-Nr. [[other_identifier|2019/909]] verbucht. Die Zahlung stammte von der [[organization|Eder Handels GmbH]] ([[company_register_number|FN 501007a]], UID-Nr. [[tax_id|ATU56076258]]), deren Anschrift [[address|9141 Eberndorf]] lautet. Bei ihrer Vernehmung war die Gesellschaft unter Tel. [[phone_number|0316/6140638-2]] erreichbar.
 
 Die Kontobewegungen stellen sich wie folgt dar:
 

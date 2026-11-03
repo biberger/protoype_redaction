@@ -77,13 +77,19 @@ Mildernd war die bisherige Unbescholtenheit des Beschuldigten und die Rückzahlu
 
 5a. Weitere Feststellungen
 
-Der Senat hat geprüft, ob die Auszahlung an den Anzeiger als Verwendung für einen Dritten zulässig war. Der Anzeiger legte eine Vollmacht vor, die vom Geschäftsführer der [[organization|Riepl KG]] unterfertigt war und ihn zur Entgegennahme von Zahlungen ermächtigte. Der Beschuldigte hatte diese Vollmacht nach eigenen Angaben jedoch nicht geprüft, und die Auszahlung an den Anzeiger erfolgte ohne Abstimmung mit der Gesellschaft.
+Der Senat hat geprüft, ob die Auszahlung an den Anzeiger als Verwendung für einen Dritten zulässig war. Der Anzeiger legte eine Vollmacht vor, die vom Geschäftsführer der [[organization|Riepl KG]] unterfertigt war und ihn zur Entgegennahme von Zahlungen ermächtigte. Der Beschuldigte hatte diese Vollmacht nach eigenen Angaben jedoch nicht geprüft, und die Auszahlungen an die Verkäuferseite erfolgten ohne Abstimmung mit der Gesellschaft.
 
 Der Senat hat weiters berücksichtigt, dass der Beschuldigte gegenüber der Käuferin am [[date|17.02.2026]] erklärte, er werde den Restbetrag in den nächsten Tagen auszahlen, und dies nicht tat. Diese Zusage hat die Käuferin im Vertrauen auf die Abrechnung nicht weiterverfolgt, was den Schaden auf Seiten des Anzeigers vergrößert hat.
 
 Nach Abschluss der Beweisaufnahme hat der Beschuldigte einen Vergleichsvorschlag unterbreitet, wonach er den Restbetrag von 15.600 Euro bis zum Ende des Jahres 2026 in Raten zurückzahlen wolle. Der Anzeiger hat diesen Vorschlag abgelehnt, weil er die sofortige Auszahlung verlangte. Der Senat hat den Vorschlag bei der Strafbemessung nicht berücksichtigt, weil er nach der Anzeige erfolgte und keine verbindliche Zahlungsvereinbarung enthielt.
 
 Eine Kanzleiprüfung wäre nach Auffassung des Senats wegen des Umfangs der Angelegenheit angezeigt gewesen; die Kammeranwaltschaft hat jedoch keinen entsprechenden Antrag gestellt.
+
+5c. Zur Glaubwürdigkeit des Anzeigers
+
+Der Anzeiger [[person|Penninger]] hat den Sachverhalt in der Verhandlung sachlich und ohne Übertreibung geschildert. Er gab zu, dass er die Vorgänge bei der Gesellschaft nur aus den Unterlagen kenne und bei der Einzahlung nicht anwesend war. Diese Einschränkung hat der Senat bei der Würdigung berücksichtigt. Die Zahlungsbelege des Treuhandkontos bestätigen die wesentlichen Angaben des Anzeigers, insbesondere die Höhe des Restbetrages und den Zeitpunkt der Zurückbehaltung.
+
+Die Kammeranwaltschaft wies darauf hin, dass der Anzeiger in den letzten Jahren keine weiteren Verfahren gegen Rechtsanwälte geführt hat. Der Senat hat diesen Umstand nicht zum Nachteil des Beschuldigten gewertet.
 
 6. Kosten
 

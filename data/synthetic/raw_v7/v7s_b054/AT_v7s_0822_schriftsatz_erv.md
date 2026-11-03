@@ -84,9 +84,13 @@ V/2. Streitgenossenschaft
 
 Die Beklagten sind als Gesellschafter der Gesellschaft bürgerlichen Rechts notwendige Streitgenossen im Sinne des [[legal_norm|§ 14 ZPO]]. Die Klägerin hat die Klage gegen alle Gesellschafter gerichtet, weil nach dem Mietvertrag jeder von ihnen den Mietzins in voller Höhe schuldet. Die Beklagte [[person|Kurz]] ist im Mietvertrag als Vertreterin der Gesellschaft genannt; die übrigen Beklagten haben die Vertragsurkunde ebenfalls unterschrieben.
 
-Die Klägerin behält sich vor, die Kosten der Räumung und der Entsorgung der zurückgelassenen Gegenstände im Wege einer Erweiterung des Klagebegehrens geltend zu machen, sobald diese beziffert sind.
+Die Klägerin behält sich vor, die Kosten der Räumung und der Entsorgung der zurückgelassenen Gegenstände im Wege einer Erweiterung des Klagebegehrens geltend zu machen, sobald diese beziffert sind. Die Klägerin weist darauf hin, dass die Räumung ohne Mitwirkung der Beklagten erfolgte, weil diese auf die Aufforderung zur Rückgabe der Schlüssel nicht reagiert haben.
 
-VI. Anträge
+VI. Zur Beweiswürdigung
+
+Die Klägerin ist bereit, die Beklagten als Partei zu vernehmen. Eine Vernehmung der Beklagten [[person|Bruckbauer]] wird jedoch nur beantragt, wenn er sich zur Sache äußert, weil er nach seiner eigenen Angabe die Räume nie betreten hat. Die Zeugenaussage der Hausverwaltung ist ergänzend anzufordern, um den Zustand der Räume bei Übergabe und Rückgabe nachzuweisen.
+
+VII. Anträge
 
 Die Klägerin beantragt, die Beklagten zur ungeteilten Hand schuldig zu erkennen, der Klägerin EUR 46.300,00 samt Zinsen seit Klagseinbringung binnen 14 Tagen zu zahlen; die Kosten des Verfahrens sind den Beklagten aufzuerlegen.
 

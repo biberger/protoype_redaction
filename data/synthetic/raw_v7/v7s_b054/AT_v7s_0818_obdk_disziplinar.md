@@ -83,7 +83,9 @@ Die Kammer hat die Anzeige in der Sitzung vom [[date|14.09.2026]] um die Vorwür
 
 5. Rechtsmittelbelehrung
 
-Gegen diese Entscheidung steht der Beschuldigten und der Kammeranwaltschaft die Berufung an die Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter ([[court|OBDK]]) offen. Die Berufung ist binnen vier Wochen ab Zustellung bei diesem Disziplinarrat einzubringen. Die [[court|OBDK]] entscheidet in der Besetzung nach ihrer Geschäftsordnung.
+Gegen diese Entscheidung steht der Beschuldigten und der Kammeranwaltschaft die Berufung an die Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter ([[court|OBDK]]) offen. Die Berufung ist binnen vier Wochen ab Zustellung bei diesem Disziplinarrat einzubringen. Die [[court|OBDK]] entscheidet in der Besetzung nach ihrer Geschäftsordnung. Die Berufung hat aufschiebende Wirkung, soweit die Geldbuße noch nicht vollstreckbar geworden ist; die Zahlung ist bis zur Entscheidung der [[court|OBDK]] ausgesetzt.
+
+Die Kosten der Übersetzung werden dem Beschuldigten nicht gesondert auferlegt, weil die Verfahrenshilfe in diesem Umfang bewilligt wurde. Die Entscheidung ist dem Verteidiger der Beschuldigten nicht zuzustellen, da keiner bestellt wurde; die Beschuldigte hat ihre Anschrift im Verfahren bekanntgegeben.
 
 Zugestellt an:
 [[lawyer|Ivona Antunovic]], per ERV

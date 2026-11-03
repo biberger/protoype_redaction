@@ -9,7 +9,7 @@ Zl. [[case_number|DRS 7/2026]]
 
 **Entscheidung**
 
-Der Disziplinarrat der Steiermärkischen Rechtsanwaltskammer hat in seiner Sitzung vom [[date|22. Juli 2026]] in folgender Besetzung:
+Der [[court|Disziplinarrat der Steiermärkischen Rechtsanwaltskammer]] hat in seiner Sitzung vom [[date|22. Juli 2026]] in folgender Besetzung:
 
 Vorsitz: Senatspräsidentin [[judge|MMag. Danja Seligmann]]
 Beisitzer: [[judge|Dr. Stephan Weigerstorfer]], geb. [[date_of_birth|21.08.1977]], StA. [[country|Österreich]]

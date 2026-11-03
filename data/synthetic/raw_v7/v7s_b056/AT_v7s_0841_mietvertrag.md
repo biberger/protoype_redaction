@@ -26,7 +26,7 @@ Kunden-Nr. [[other_identifier|677471]]
 
 I. Vertragsgegenstand
 
-1. Die Vermieterin ist Eigentümerin der Liegenschaft [[land_register_id|KG 30447 Asparn an der Zaya]], [[land_register_id|EZ 929]]. Gegenstand dieses Vertrages ist die Wohnung Top 5 im Haus [[address|Hauptstraße 3/Top 5]] in [[location|Asparn an der Zaya]], bestehend aus drei Zimmern, Küche, Vorraum, Bad, WC und Balkon, mit einer Nutzfläche von rund 68 m². Die Wohnung wird samt dem Kellerabteil Nr. 5 und dem Stellplatz im Hof vermietet.
+1. Die Vermieterin ist Eigentümerin der Liegenschaft [[land_register_id|KG 30447 Asparn an der Zaya]], [[land_register_id|EZ 929]]. Gegenstand dieses Vertrages ist die Wohnung Top 5 im Haus [[address|Hauptstraße 3/Top 5]] in [[location|Asparn an der Zaya]], bestehend aus drei Zimmern, Küche, Vorraum, Bad, WC und Balkon, mit einer Nutzfläche von rund 68 m². Die Wohnung wird samt dem Kellerabteil Nr. 5 und dem Stellplatz im Hof vermietet. Die Wohnung ist mit Rauchmeldern ausgestattet, der Mieter bestätigt deren Funktion bei Übergabe.
 
 2. Der Mieter erklärt, die Wohnung besichtigt zu haben und in dem Zustand zu übernehmen, in dem sie sich am Tag der Übergabe befindet. Die Vermieterin hat die Wohnung vor Übergabe ausmalen lassen.
 

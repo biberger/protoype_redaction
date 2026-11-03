@@ -35,6 +35,8 @@ Die Brandmeldeanlage hat am Abend des [[date|03.08.2026]] um 22:14 Uhr Alarm aus
 
 Die Ansprüche unseres Mandanten gegen die [[organization|GBV]] stützen sich auf den Versicherungsvertrag und die Bestimmungen über die Gebäudeversicherung. Eine Obliegenheitsverletzung der Versicherungsnehmerin ist nach unserer Kenntnis nicht gegeben.
 
+Wir weisen darauf hin, dass unser Mandant gegenüber der Versicherungsnehmerin eine Frist bis zum [[date|15.10.2026]] gesetzt hat. Nach fruchtlosem Ablauf dieser Frist wird die Klage ohne weitere Ankündigung eingebracht. Ein Nachweis über die bestehende Gebäudeversicherung ist diesem Schreiben in Kopie beigelegt.
+
 Für Rückfragen erreichen Sie unseren Mandanten unter Tel. [[phone_number|+43 5572 426 22 54 Kl. 79]].
 
 Mit freundlichen Grüßen

@@ -36,7 +36,7 @@ Der Sachverständige hat die Schadenshöhe in seinem Gutachten nach dem Wiederbe
 
 Eine erste Mahnung haben wir am [[date|15.09.2026]] an Ihre Abteilung gerichtet. Ein Antwortschreiben ist nicht eingegangen; auch die angekündigte Prüfung durch Ihren Regulierungsbeauftragten ist bisher unterblieben.
 
-Die Schadensmeldung vom [[date|05.08.2026]] wurde Ihrer Abteilung bereits übermittelt. Eine Eingangsbestätigung ist bisher nicht erfolgt. Wir bitten um Mitteilung eines Bearbeiters, der für die weitere Abwicklung zuständig ist.
+Die Schadensmeldung vom [[date|05.08.2026]] wurde von [[person|Evi Gounaris]] für die Mandantin unterfertigt und Ihrer Abteilung bereits übermittelt. Eine Eingangsbestätigung ist bisher nicht erfolgt. Wir bitten um Mitteilung eines Bearbeiters, der für die weitere Abwicklung zuständig ist.
 
 Ihr Haus ist telefonisch unter Tel. [[phone_number|+43 732 533 25 30 DW 992]] erreichbar; wir bitten um Rückruf. Für Rückfragen steht Ihnen auch die Sekretärin [[person|Gisela Pohl]] zur Verfügung.
 

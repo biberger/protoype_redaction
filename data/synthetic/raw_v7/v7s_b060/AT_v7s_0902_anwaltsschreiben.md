@@ -66,5 +66,6 @@ Mit freundlichen Grüßen
 
 Rechtsanwälte OG
 [[organization|Woltron, Spalt]]
+Rückfragen unter Tel. [[phone_number|0662/2294437 Durchwahl 73]]
 
 Beilagen: Lichtbilder (5), Zeugenaussage [[person|Glas Bertha]], Kopie Polizeibericht

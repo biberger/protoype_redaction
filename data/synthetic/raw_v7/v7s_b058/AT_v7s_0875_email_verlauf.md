@@ -3,25 +3,25 @@ doc_type: email_verlauf
 jurisdiction: AT
 lang: de
 ---
-Von: [[person|Marika Landesmann]] <m.landesmann@landesmann-kanzlei.at>
+Von: [[person|Marika Landesmann]] <[[email|m.landesmann@landesmann-kanzlei.at]]>
 Gesendet: Montag, [[date|14. September 2026]] 08:37
 An: [[organization|Neidl & Schimek]]
-Betreff: Verfahren gegen Emminger GmbH, Ihr Zeichen: [[other_identifier|BL-BLLandesmann/Pölzl]]
+Betreff: Verfahren gegen [[organization|Emminger GmbH]], Ihr Zeichen: [[other_identifier|BL-BLLandesmann/Pölzl]]
 
 Sehr geehrte Frau Kollegin [[person|Veis]],
 
-bezugnehmend auf das Gespräch vom [[date|10. September 2026]] übermittle ich Ihnen die Unterlagen zur Klage der [[organization|Emminger GmbH]] ([[company_register_number|FN 297710i]], UID: [[tax_id|ATU49463405]]). Die Mietervereinigung Salzburg ([[organization|MVS]]) hat den Mietvertrag bereits geprüft und keine Einwände erhoben. Die Klage wurde beim [[court|Bezirksgericht Döbling]] eingebracht. Die Zustellung an unsere Mandantin erfolgte am [[date|4. September 2026]].
+bezugnehmend auf das Gespräch vom [[date|10. September 2026]] übermittle ich Ihnen die Unterlagen zur Klage der [[organization|Emminger GmbH]] ([[company_register_number|FN 297710i]], UID: [[tax_id|ATU49463405]]). Die Mietervereinigung Kärnten ([[organization|MVK]]) hat den Mietvertrag bereits geprüft und keine Einwände erhoben. Die Klage wurde beim [[court|Bezirksgericht Döbling]] eingebracht. Die Zustellung an unsere Mandantin erfolgte am [[date|4. September 2026]].
 
 Frau [[person|Lucilla Till]] hat mir mitgeteilt, dass sie den Vertrag bereits im Jahr 2024 gekündigt hat. Geburtsdatum: [[date_of_birth|26. März 1997]]. Sie hat keinen Wohnsitz mehr im Sprengel des Gerichts. Die Unterlagen dazu liegen bei.
 
 Mit freundlichen Grüßen
-Marika Landesmann
+[[person|Marika Landesmann]]
 Tel. [[phone_number|0662 245025 Durchwahl 56]]
 
-Am Fr., [[date|11. September 2026]] um 16:20 schrieb [[person|Giannoula Veis]]:
+[[person|Giannoula Veis]] schrieb am, [[date|11. September 2026]] um 16:20:
 > Liebe Frau [[person|Landesmann]],
 >
-> ich habe Ihre Nachricht erhalten. Ich bitte Sie, mir die Klagebeantwortung bis [[date|25. September 2026]] zu schicken. Herr [[person|Wach]] hat mir gegenüber angedeutet, dass die [[organization|Emminger]] den Vergleich ablehnen wird. Die [[organization|MVS]] wird dazu gesondert Stellung nehmen.
+> ich habe Ihre Nachricht erhalten. Ich bitte Sie, mir die Klagebeantwortung bis [[date|25. September 2026]] zu schicken. Herr [[person|Wach]] hat mir gegenüber angedeutet, dass die [[organization|Emminger]] den Vergleich ablehnen wird. Die [[organization|MVK]] wird dazu gesondert Stellung nehmen.
 >
 > > Sehr geehrte Frau [[person|Veis]],
 > > bitte senden Sie uns die Zahlungsbestätigung zum Verfahren mit der Kl.-Nr. [[other_identifier|84802]]?
@@ -37,14 +37,14 @@ Am Fr., [[date|11. September 2026]] um 16:20 schrieb [[person|Giannoula Veis]]:
 Von: [[person|Ernestus Wach]]
 Gesendet: Donnerstag, [[date|10. September 2026]] 13:05
 An: [[person|Marika Landesmann]]; [[person|Giannoula Veis]]
-Betreff: AW: Vergleichsvorschlag Emminger
+Betreff: AW: Vergleichsvorschlag [[organization|Emminger]]
 
 Sehr geehrte Damen,
 
 der Vergleichsvorschlag wird von meiner Mandantin nur unter der Bedingung angenommen, dass die [[organization|Emminger]] den Mietzins bis zum [[date|30. September 2026]] nachzahlt. Die Schadennummer der Versicherung lautet [[other_identifier|87/379154/23]], sie bitte ich bei allen Schreiben anzugeben.
 
 Mit besten Grüßen
-Ernestus Wach
+[[person|Ernestus Wach]]
 Rechtsanwalt
 
 > Am Mo., [[date|7. September 2026]] schrieb [[person|Marika Landesmann]]:
@@ -64,7 +64,7 @@ Sehr geehrter Herr [[person|Wach]],
 die [[organization|Emminger]] bestätigt, dass die Zahlung der offenen Beträge noch nicht erfolgt ist. Die Kontaktdaten für Rückfragen finden Sie unten.
 
 Mit freundlichen Grüßen
-Giannoula Veis
+[[person|Giannoula Veis]]
 Tel. [[phone_number|0662 245025 Durchwahl 56]]
 
 ---

@@ -55,6 +55,8 @@ Der Mandant [[person|Ubertino Calamai]] hat um Aufteilung der Honorarnote in zwe
 
 Die Rückerstattung der Barauslagen erfolgt nur, sofern die Gegenseite die Kosten nicht übernimmt. Bei Zahlung nach Ablauf der Frist werden Verzugszinsen nach [[legal_norm|§ 1333 ABGB]] berechnet; eine Mahnung erfolgt nicht gesondert. Für Rückfragen zu einzelnen Positionen steht Ihnen [[person|Pöch]] unter [[phone_number|05352/3401926-0]] zur Verfügung.
 
+Wir danken für das bisherige Vertrauen und stehen für die weitere Vertretung im Verfahren gegen die [[organization|Inntal Bau GmbH]] gerne zur Verfügung. Sollte der Mandant eine Zahlung in Raten wünschen, ersuchen wir um schriftliche Mitteilung vor Fälligkeit; eine Ratenvereinbarung bedarf unserer Zustimmung und wird nur gegen eine Anerkennung der Gesamtforderung getroffen.
+
 Mit freundlichen Grüßen
 
 [[person|Zilsel]]

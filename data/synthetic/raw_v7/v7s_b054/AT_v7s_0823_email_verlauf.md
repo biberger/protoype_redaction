@@ -79,4 +79,6 @@ Die Sache wird beim [[court|Landesgericht Linz]] anhängig gemacht, sofern die [
 Mit freundlichen Grüßen
 [[lawyer|Friesacher]]
 
+Die Schadenaufstellung für die Positionen Lagerregal, Kühlgut und Verpackungsmaterial übermitteln wir Ihnen als Anlage; die Positionen sind mit Lieferscheinen belegt. Eine Rückfrage zu einzelnen Positionen richten Sie bitte direkt an Frau [[person|Eskicioglu]]. Die Lagerfläche bleibt bis zur Besichtigung gesperrt, damit keine weiteren Waren entfernt werden.
+
 Bitte beachten Sie unser Schreiben vom [[date|09.10.2026]] mit dem Zeichen [[other_identifier|G-GEskicioglu/Theimer]].

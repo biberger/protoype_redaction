@@ -36,7 +36,7 @@ Begründung
 
 Der Klient [[person|Borys Korobko]] erstattete am [[date|21.11.2024]] eine Anzeige bei der [[organization|Tiroler Rechtsanwaltskammer]] ([[organization|TRAK]]). Er führte aus, die Beschuldigte habe ihn in einer Angelegenheit aus einem Verkehrsunfall vertreten und für die Durchsetzung seiner Ansprüche gegenüber einer Versicherung vierzig Prozent des erstrittenen Betrages verlangt. Eine schriftliche Vereinbarung habe es nicht gegeben. Außerdem sei ein Teil des auf dem Treuhandkonto erlegten Betrages nicht ausbezahlt worden.
 
-Die [[organization|TRAK]] leitete die Anzeige an die Kammeranwaltschaft weiter, die die Disziplinaranzeige am [[date|17.03.2025]] erstattete. Die Beschuldigte bestritt die Vorwürfe nur teilweise. Sie gab an, das Honorar sei mündlich vereinbart und dem Klienten zu Beginn erklärt worden.
+Die [[organization|TRAK]] leitete die Anzeige an die Kammeranwaltschaft weiter, die die Disziplinaranzeige am [[date|17.03.2025]] erstattete. Die Beschuldigte bestritt die Vorwürfe nur teilweise. Sie gab an, das Honorar sei mündlich vereinbart und dem Klienten zu Beginn erklärt worden. Sie legte dazu keine schriftlichen Unterlagen vor, sondern verwies auf einen Telefonvermerk, der nach eigenen Angaben im Büro abgelegt war, aber im Verfahren nicht auffindbar blieb.
 
 2. Treuhandkonto
 
@@ -73,7 +73,7 @@ Der Klient [[person|Korobko]] sagte in der Verhandlung aus, dass er die Vereinba
 
 Die Kammeranwältin [[person|Obrist]] beantragte eine Geldstrafe im Bereich von 5.000 bis 8.000 Euro und verwies auf die besondere Sorgfalt, die bei erfolgsabhängigen Honoraren geboten ist. Die Verteidigung der Beschuldigten brachte vor, die Beschuldigte habe den Klienten bei der Auszahlung telefonisch informiert. Eine Aufzeichnung dieses Gesprächs liegt nicht vor.
 
-Der Senat hält fest, dass der Klient im Zeitpunkt der Vereinbarung nicht anwaltlich beraten war und die Beschuldigte ihre Aufklärungspflichten gegenüber einem unerfahrenen Klienten besonders ernst nehmen musste. Die Verwendung der Versicherungszahlung für das eigene Honorar, noch bevor der Klient von der Höhe seines Anspruchs Kenntnis hatte, wiegt schwer.
+Der Senat hält fest, dass der Klient im Zeitpunkt der Vereinbarung nicht anwaltlich beraten war und die Beschuldigte ihre Aufklärungspflichten gegenüber einem unerfahrenen Klienten besonders ernst nehmen musste. Die Verwendung der Versicherungszahlung für das eigene Honorar, noch bevor der Klient von der Höhe seines Anspruchs Kenntnis hatte, wiegt schwer. Der Senat hat außerdem berücksichtigt, dass die Beschuldigte dem Klienten nach der Anzeige eine schriftliche Entschuldigung übermittelte. Eine Wiedergutmachung in voller Höhe ist bisher nicht erfolgt.
 
 5. Strafbemessung
 

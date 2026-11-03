@@ -19,13 +19,15 @@ An das
 [[court|Bezirksgericht Scheibbs]]
 Verlassenschaftsabteilung
 
+Zur Kenntnis an das [[court|BG Scheibbs]], Verlassenschaftsabteilung, zu Händen der zuständigen Richterin
+
 Betreff: Inventar und Entwurf der Einantwortung, Verlassenschaft nach [[person|Aglaia Glaser]], verstorben am [[date|03.08.2025]]
 
 Sehr geehrte Damen und Herren,
 
 in der Verlassenschaftssache nach der am [[date|03.08.2025]] verstorbenen Erblasserin [[person|Aglaia Glaser]],
-[[person|Glaser]] wurde zuletzt wohnhaft in [[address|8261 Sinabelkirchen]], übermittle ich das Inventar samt
-Schuldenverzeichnis und den Entwurf der Einantwortungsurkunde. Die Erblasserin hat keine letztwillige Verfügung
+die zuletzt in [[address|8261 Sinabelkirchen]] wohnhaft war, übermittle ich das Inventar samt Schuldenverzeichnis
+und den Entwurf der Einantwortungsurkunde. Die Erblasserin hat keine letztwillige Verfügung
 hinterlassen; die Erbfolge richtet sich daher nach der gesetzlichen Erbfolge.
 
 Geburtsdatum der Erblasserin: [[date_of_birth|1984-06-01]].
@@ -65,9 +67,20 @@ Erblasserin lautet [[other_identifier|LV-2023-81517]].
 Die Erblasserin war Kundin des Versicherers und unterhielt dort die Kd.-Nr. [[other_identifier|634988]].
 Die Kündigung der Versicherung wurde am [[date|15.08.2025]] veranlasst.
 
-Die Erben wurden telefonisch unter der Tel. [[phone_number|+43 463 232 87 48-0]] zur Mitwirkung aufgefordert. Eine Urgenz
-an [[person|Mühlberger]] wurde am [[date|02.10.2025]] versandt. Die Schenkungsmeldung für eine Zuwendung an
+Die Erben wurden telefonisch zur Mitwirkung aufgefordert. Für Rückfragen ist die Kanzlei unter
+Tel. [[phone_number|+43 463 232 87 48-0]] erreichbar. Eine Urgenz an [[person|Mühlberger]] wurde am [[date|02.10.2025]] versandt. Die Schenkungsmeldung für eine Zuwendung an
 [[person|Klammer]] im Jahr 2022 wurde bei der Finanzbehörde eingereicht.
+
+Zur Vorbereitung der Einantwortung wurde der Nachlass in der Zeit vom [[date|01.09.2025]] bis zum [[date|30.09.2025]]
+erhoben. Die Erblasserin lebte seit dem Jahr 2011 allein in dem Haus, das zur Liegenschaft der Verlassenschaft
+gehört. Der Wohnungseinrichtung kommt nach dem Gutachten kein besonderer Wert zu; die persönlichen Gegenstände
+wurden auf Wunsch der Erben [[person|Klammer]] und [[person|Jungk]] getrennt verwahrt.
+
+Die Verbindlichkeiten sind nach dem Ergebnis der Erhebung vollständig bekannt. Ein Zahlungsrückstand
+gegenüber der Sparkasse besteht nicht; die laufenden Raten wurden bis zum Todestag bezahlt. Der Erbe
+[[person|Mühlberger]] hat mit Schreiben vom [[date|28.09.2025]] mitgeteilt, dass er den Nachlass nur unter der
+Bedingung annehmen wolle, dass die Liegenschaft verkauft wird. Diese Bedingung ist im Rahmen der Einantwortung
+nicht vorgesehen; die Erbantrittserklärung ist daher noch offen.
 
 Ich ersuche um Einantwortung des Nachlasses an die oben genannten Erben im Verhältnis der Quoten und um Zustellung
 der Ausfertigung an meine Kanzlei.

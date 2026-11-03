@@ -12,7 +12,7 @@ Sehr geehrter Herr [[lawyer|Mag. Baharov]],
 
 ich habe das Schreiben der Gegenseite vom [[date|10. Juli]] erhalten. Die Vermieterin [[person|Todosia Dipl.-Ing. Lăcătuș]] verlangt die Räumung des Geschäftslokals in [[location|St. Pölten]] bis [[date|31. August]]. Ich verstehe nicht, warum wir auf einmal so kurzfristig räumen sollen, zumal die Miete immer pünktlich bezahlt wurde. Ich habe die Überweisungen der letzten zwei Jahre sortiert; die letzte Mietzahlung ist am [[date|02.07.2026]] eingegangen, die Juni-Miete war also rechtzeitig beglichen. Die Betriebskostenabrechnung 2025 habe ich nie erhalten, weder per Post noch per E-Mail. Falls die Vermieterin sie an das Lokal geschickt hat, müsste ich dort nachsehen, ob sie angekommen ist.
 
-Die Überweisungen laufen seit Jahren über das Konto [[bank_account|AT28 8063 7827 6346 8847]] der [[organization|Falkenstein e.U.]]. Wenn Sie die Zahlungsnachweise brauchen, kann ich sie Ihnen bis Freitag schicken.
+Die Überweisungen laufen seit Jahren über das Konto [[bank_account|AT28 8063 7827 6346 8847]] der [[organization|Falkenstein e.U.]]. Wenn Sie die Zahlungsnachweise brauchen, kann ich sie Ihnen bis Freitag schicken. Ich bin auch bereit, mit der Vermieterin persönlich zu sprechen, wenn das hilft.
 
 Mit freundlichen Grüßen
 
@@ -41,7 +41,7 @@ Sehr geehrter Herr [[person|Lang]],
 
 im Verfahren vor dem [[court|Bezirksgericht Josefstadt]] ist die Räumungsklage der Vermieterin [[person|Lăcătuș]] anhängig. Die Kündigung vom [[date|02.06.2026]] ist aus unserer Sicht wirksam, weil die Mietzinsrückstände seit dem [[date|01.03.2026]] bestehen. Die Zahlungen der [[organization|Falkenstein]] sind in der Aufstellung der Gegenseite nicht berücksichtigt.
 
-Ich rate Ihnen, die Angelegenheit mit [[lawyer|Linemayr]] außergerichtlich zu klären. Unter der Klientennummer: [[other_identifier|34604]] lege ich die Abrechnung an.
+Ich rate Ihnen, die Angelegenheit mit [[lawyer|Linemayr]] außergerichtlich zu klären. Unter der Klientennummer: [[other_identifier|34604]] lege ich die Abrechnung an. Bitte senden Sie mir die Zahlungsnachweise bis Ende der Woche, damit ich die Position der Gegenseite prüfen kann.
 
 Mit freundlichen Grüßen
 
@@ -54,7 +54,7 @@ Betreff: AW: Räumung Geschäftslokal [[location|St. Pölten]]
 
 Sehr geehrter Herr Kollege [[lawyer|Baharov]],
 
-meine Mandantin ist zu einem Vergleich bereit, wenn Herr [[person|Lang]] die Rückstände bis Ende Juli zahlt und das Geschäftslokal bis [[date|30. September]] räumt. Die Rückstände belaufen sich laut unserer Berechnung auf 4.860 Euro.
+meine Mandantin ist zu einem Vergleich bereit, wenn Herr [[person|Lang]] die Rückstände bis Ende Juli zahlt und das Geschäftslokal bis [[date|30. September]] räumt. Die Rückstände belaufen sich laut unserer Berechnung auf 4.860 Euro. Die Aufstellung enthält die Mieten für Mai und Juni 2026 sowie die Betriebskosten für das Jahr 2025 in der bereits übermittelten Höhe.
 
 Mit freundlichen Grüßen
 [[lawyer|Rickert Linemayr]]
@@ -73,7 +73,7 @@ Betreff: AW: AW: Räumung Geschäftslokal [[location|St. Pölten]]
 
 Sehr geehrter Herr Kollege [[lawyer|Linemayr]],
 
-vielen Dank für Ihr Angebot. Die Zahlungsnachweise von Herrn [[person|Lang]] belegen, dass die Miete bis Juni vollständig beglichen wurde. Die Differenz betrifft offenbar nur die Betriebskostenabrechnung 2025, deren Zugang Herr Lang bestreitet. Wir ersuchen daher um Übermittlung eines Zustellnachweises. Einen Termin für ein Gespräch in der kommenden Woche können wir Ihnen anbieten. Wir bitten um eine detaillierte Aufstellung und um Bekanntgabe, ob die Vermieterin die Zahlungen der [[organization|Falkenstein]] anerkennt.
+vielen Dank für Ihr Angebot. Die Zahlungsnachweise von Herrn [[person|Lang]] belegen, dass die Miete bis Juni vollständig beglichen wurde. Die Differenz betrifft offenbar nur die Betriebskostenabrechnung 2025, deren Zugang Herr [[person|Lang]] bestreitet. Wir ersuchen daher um Übermittlung eines Zustellnachweises. Einen Termin für ein Gespräch in der kommenden Woche können wir Ihnen anbieten. Bis dahin bitten wir, von Vollstreckungsmaßnahmen abzusehen, weil eine Räumung bei einem laufenden Gewerbebetrieb zu erheblichen Umsatzeinbußen führen würde. Wir bitten um eine detaillierte Aufstellung und um Bekanntgabe, ob die Vermieterin die Zahlungen der [[organization|Falkenstein]] anerkennt.
 
 Mit freundlichen Grüßen
 

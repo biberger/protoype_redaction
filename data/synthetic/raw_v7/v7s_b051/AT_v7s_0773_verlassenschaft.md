@@ -78,7 +78,7 @@ VI. Stellungnahmen der Erben
 
 12. Die Kosten der Verlassenschaftsabhandlung werden vorrangig aus dem Bankguthaben gedeckt. Ein Rest der Kosten ist von den Erben nach dem Verhältnis ihrer Quoten zu tragen, soweit er nicht aus dem Erlös der Fahrnisse beglichen werden kann.
 
-13. Die Erbin [[person|Nadezhda Burgstaller]] hat zugesichert, die Kosten der Versiegelung und der Schätzung aus eigenen Mitteln vorzuschießen, um die Verlassenschaft zügig abzuschließen. Der Notar hat dies dankend zur Kenntnis genommen. Die Erben wurden über den Stand des Verfahrens laufend informiert.
+13. Die Erbin [[person|Nadezhda Burgstaller]] hat zugesichert, die Kosten der Versiegelung und der Schätzung aus eigenen Mitteln vorzuschießen, um die Verlassenschaft zügig abzuschließen. Der Notar hat dies dankend und ohne Vorbehalt zur Kenntnis genommen. Die Erben wurden über den Stand des Verfahrens laufend informiert.
 
 VII. Weiterer Verfahrensgang
 

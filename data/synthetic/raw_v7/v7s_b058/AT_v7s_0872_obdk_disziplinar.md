@@ -53,7 +53,7 @@ Dass die Beschuldigte die Mängel nachträglich behoben hat, ist als mildernd zu
 
 Die Kostenentscheidung beruht auf [[legal_norm|§ 52 Abs 1 DSt]].
 
-Wien, am [[date|18.09.2026]]
+[[location|Wien]], am [[date|18.09.2026]]
 
 Für die Richtigkeit der Ausfertigung:
 Schriftführerin [[person|Alfreda Hornung]]

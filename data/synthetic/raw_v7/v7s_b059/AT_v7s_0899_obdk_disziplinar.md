@@ -1,0 +1,72 @@
+---
+doc_type: obdk_disziplinar
+jurisdiction: AT
+lang: de
+---
+[[court|Disziplinarrat der Tiroler Rechtsanwaltskammer]]
+Zl. [[case_number|DR-T 12/2026]]
+
+ERKENNTNIS
+
+Der [[court|Disziplinarrat der Tiroler Rechtsanwaltskammer]] hat in seiner Sitzung vom [[date|28.09.2026]] unter folgender Besetzung
+
+Vorsitz: [[person|Hansjurgen Stürmer]]
+Beisitzerin: [[person|Dr. Haidi Grabherr]]
+Beisitzer: [[person|Dr. Vittore Gruss]]
+Kammeranwalt: [[person|Dr. Otwin Taschner]]
+Schriftführerin: [[person|Shaista Sangin]]
+
+über die Disziplinaranzeige gegen Rechtsanwalt [[person|Ursio Schwartz]] wie folgt entschieden:
+
+Spruch
+
+Der Beschuldigte [[person|Ursio Schwartz]] hat die Pflichten eines Rechtsanwaltes nach [[legal_norm|§ 1 RAO]] verletzt. Er wird gemäß [[legal_norm|§ 45 RAO]] mit einem Verweis und einer Geldbuße von EUR 4.500,-- bestraft.
+
+Die Kanzlei des Beschuldigten ist in [[address|5661 Rauris]] angesiedelt und wird als [[organization|Kanzlei Schwartz & Partner Rechtsanwälte GmbH]] (in weiterer Folge: [[organization|KSP]]) geführt.
+
+Entscheidungsgründe
+
+1. Der Beschuldigte hat den Klienten [[person|Dzavid Buljubašić]] in einer Verlassenschaftssache vertreten. Für diesen Klienten führte die Kanzlei zwei Treuhandschaften, die unter [[other_identifier|Treuhandbuch-Nr. 2024/953]] und [[other_identifier|Treuhandbuch-Nr. 2025/570]] verbucht waren.
+
+2. Die Treuhandgelder wurden zunächst auf das Konto der [[organization|KSP]] bei der [[organization|Sparkasse Pinzgau]] eingezahlt, IBAN [[bank_account|AT36 0381 5916 2972 0907]]. Eine getrennte Verwahrung erfolgte nicht.
+
+3. Am [[date|08.04.2025]] überwies der Beschuldigte EUR 18.000,-- aus der Treuhandschaft 2024/953 an einen Gläubiger des Klienten, ohne dass ein Auftrag des Klienten vorlag. [[person|Buljubašić]] hat den Auftrag nie erteilt.
+
+4. Die Kammeranwaltschaft hat die Angelegenheit am [[date|12.06.2025]] angezeigt. Der Beschuldigte hat den Betrag am [[date|30.09.2025]] wieder eingezahlt.
+
+Treuhandbewegungen laut Auszug:
+
+Datum | Vorgang | Betrag | Klient | Trenn-Nr.
+[[date|11.03.2024]] | Einzahlung Verlassenschaftsvorschuss | EUR 22.000,-- | [[person|Dzavid Buljubašić]] | [[other_identifier|Treuhandbuch-Nr. 2024/953]]
+[[date|08.04.2025]] | Überweisung an Gläubiger | EUR 18.000,-- | [[person|Buljubašić]] | [[other_identifier|Treuhandbuch-Nr. 2024/953]]
+[[date|19.05.2025]] | Einzahlung zweite Treuhandschaft | EUR 9.600,-- | [[person|Buljubašić]] | [[other_identifier|Treuhandbuch-Nr. 2025/570]]
+[[date|30.09.2025]] | Rückzahlung auf das Treuhandkonto | EUR 18.000,-- | [[person|Buljubašić]] | [[other_identifier|Treuhandbuch-Nr. 2024/953]]
+
+5. Der Beschuldigte hat den Sachverhalt im Wesentlichen zugestanden. Er gibt an, die Zahlung an den Gläubiger sei eine vermeintlich dringliche Forderung gewesen, die er irrtümlich für unbedenklich gehalten habe.
+
+Beweiswürdigung
+
+6. Die Feststellungen beruhen auf dem Treuhandkonto-Auszug, den Treuhandbuch-Eintragungen und der Aussage des Klienten. [[person|Buljubašić]] hat glaubhaft ausgesagt, dass er die Überweisung weder gewollt noch gekannt habe. Die Aussage des Beschuldigten, er habe den Klienten informiert, wird durch die Schreiben vom [[date|02.04.2025]] widerlegt, in denen keine Zustimmung enthalten ist.
+
+7. Die Schriftführerin hat die Unterlagen verlesen. Die Kammerverwaltung ist unter Tel. [[phone_number|+43 1 22 14 75 88]] für Rückfragen erreichbar.
+
+Rechtliche Beurteilung
+
+8. Die Verfügung über Treuhandgelder ohne Auftrag des Klienten verletzt die Pflicht zur gewissenhaften Berufsausübung und die Pflicht zur Trennung von Fremdgeldern. Ein Verstoß gegen [[legal_norm|§ 1 RAO]] liegt daher vor. Die Verletzung ist auch nach [[legal_norm|§ 3 Abs 1 RL-BA]] als schwer anzusehen.
+
+9. Mildernd wurde berücksichtigt, dass der Beschuldigte den Betrag vollständig zurückgezahlt hat und bisher disziplinarrechtlich nicht in Erscheinung getreten ist. Erschwerend wirkte, dass die Verfügung nicht einmalig, sondern über mehrere Monate hinweg erfolgte.
+
+10. Die Geldbuße berücksichtigt die wirtschaftlichen Verhältnisse des Beschuldigten. Eine Untersagung der Berufsausübung war nicht zu verhängen.
+
+11. Gegen dieses Erkenntnis ist die Berufung an die [[court|OBDK]] innerhalb von vier Wochen zulässig.
+
+Der Vorsitzende [[person|Hansjurgen Stürmer]] hat in der Verhandlung die Zeugen einvernommen, die Verhandlung wurde in deutscher Sprache geführt.
+
+[[location|Innsbruck]], am [[date|28.09.2026]]
+
+[[person|Hansjurgen Stürmer]]
+Vorsitzender
+
+Für die Richtigkeit der Ausfertigung:
+[[person|Shaista Sangin]]
+Schriftführerin

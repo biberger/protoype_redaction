@@ -42,7 +42,7 @@ Die Verkäufer verkaufen dem Käufer die vorgenannte Liegenschaft samt dem Haus,
 IV. Kaufpreis und Treuhandschaft
 
 1. Der Kaufpreis beträgt EUR 392.000,00.
-2. Der Käufer zahlt den Kaufpreis nach Unterfertigung an die Kanzlei als Treuhänderin. Die Zahlung ist unter der Treuhandschaft Nr. [[other_identifier|2025/509]] zu verbuchen.
+2. Der Käufer zahlt den Kaufpreis nach Unterfertigung an die Kanzlei als Treuhänderin, auf das Konto mit der IBAN [[bank_account|AT52 8618 6649 6874 2170]]. Die Zahlung ist unter der Treuhandschaft Nr. [[other_identifier|2025/509]] zu verbuchen.
 3. Die Kanzlei führt das Treuhandbuch unter der Treuhandbuch-Nr. [[other_identifier|2026/916]]. Die Auszahlung an die Verkäufer erfolgt erst nach Eintragung des Eigentumsrechts des Käufers.
 4. Eine Verrechnung der Anzahlung mit Ansprüchen des Käufers aus Sanierungsarbeiten am Haus ist ausgeschlossen.
 

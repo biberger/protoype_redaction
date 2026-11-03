@@ -92,7 +92,7 @@ Datum | Vorgang | Betrag | Klient | Treuhandnr.
 
 3.8. Die Beschuldigte hat in ihrer Stellungnahme vorgebracht, sie sei seit Jahren als Anwältin tätig und habe sich bisher stets an die Standesregeln gehalten. Der Senat erkennt dies an, sieht darin aber keinen Grund, von einer Sanktion abzusehen, weil die Pflichten zur Verwahrung fremder Gelder gerade in der Verantwortung des einzelnen Rechtsanwalts liegen. Die Berufung auf eine allgemeine Geschäftsbelastung entlastet daher nicht.
 
-3.9. Der Senat hat auch die Interessen der Mandanten an einer raschen Abwicklung gewürdigt. Gerade bei Treuhandgeldern ist eine zeitnahe Auszahlung ein wesentlicher Bestandteil der Dienstleistung. Die Verzögerung wiegt daher schwerer als eine bloße Formverletzung. Der Mandant musste über Monate auf Auskunft warten. Eine Zwischennachricht erfolgte nicht.
+3.9. Der Senat hat auch die Interessen der Mandanten an einer raschen Abwicklung gewürdigt. Gerade bei Treuhandgeldern ist eine zeitnahe Auszahlung ein wesentlicher Bestandteil der Dienstleistung. Die Verzögerung wiegt daher schwerer als eine bloße Formverletzung. Der Mandant musste über Monate auf Auskunft warten. Eine Zwischennachricht erfolgte nicht, und auch eine Entschuldigung blieb aus.
 
 4. Strafbemessung
 

@@ -9,7 +9,7 @@ Zl. [[case_number|DRW 22/2026]]
 
 **ERKENNTNIS**
 
-Der Disziplinarrat der Rechtsanwaltskammer Wien hat unter dem Vorsitz von Senatspräsidentin [[judge|Dr. Joska van der Meulen]] sowie in Anwesenheit der Senatsmitglieder [[judge|Torge Breit]] und [[judge|Dr. Germann Schrenk]] und der Schriftführerin [[person|Benigna Eidenberger]] in der Disziplinarsache gegen den Rechtsanwalt [[lawyer|Garret Opitz]], StA. [[country|Syrien]], wegen des Verdachts der Verletzung von Berufspflichten nach [[legal_norm|§ 1 Abs 1 DSt]] iVm [[legal_norm|§ 34 Abs 1 RAO]] nach Verhandlung vom [[date|29. September 2026]] zu Recht erkannt:
+Der [[court|Disziplinarrat der Rechtsanwaltskammer Wien]] hat unter dem Vorsitz von Senatspräsidentin [[judge|Dr. Joska van der Meulen]] sowie in Anwesenheit der Senatsmitglieder [[judge|Torge Breit]] und [[judge|Dr. Germann Schrenk]] und der Schriftführerin [[person|Benigna Eidenberger]] in der Disziplinarsache gegen den Rechtsanwalt [[lawyer|Garret Opitz]], StA. [[country|Syrien]], wegen des Verdachts der Verletzung von Berufspflichten nach [[legal_norm|§ 1 Abs 1 DSt]] iVm [[legal_norm|§ 34 Abs 1 RAO]] nach Verhandlung vom [[date|29. September 2026]] zu Recht erkannt:
 
 Der Beschuldigte ist schuldig, es als Rechtsanwalt zu verantworten zu haben, dass er Gelder aus einer Treuhandschaft nicht zeitgerecht ausgefolgt und die Abrechnung gegenüber dem Klienten [[person|Dieter Seeger]] unterlassen hat. Er wird daher gemäß [[legal_norm|§ 45 Abs 1 Z 2 RAO]] mit einer Geldbuße von 5.000,00 Euro bestraft. Die Kosten des Verfahrens trägt der Beschuldigte.
 

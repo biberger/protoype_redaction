@@ -46,7 +46,7 @@ Datum | Vorgang | Betrag | Klient | Nr.
 [[date|19.11.2019]] | Auszahlung als Honorar an die Beschuldigte | € 2.400,00 | [[person|Bogdan Ciobanu]] | [[other_identifier|2019/043]]
 [[date|08.01.2020]] | Auszahlung an Klienten ohne Abrechnung | € 1.150,00 | [[person|Ciobanu]] | [[other_identifier|2019/043]]
 
-Aus dem Auszug ergibt sich, dass von dem am [[date|03.05.2018]] eingezahlten Betrag von 4.200 Euro am [[date|11.06.2018]] lediglich 3.850 Euro an die Gegenseite ausbezahlt wurden. Der Restbetrag von 350 Euro blieb auf dem Konto liegen und wurde erst im Jahr 2021 ohne Abrechnung an die Beschuldigte selbst überwiesen. Die [[person|Baumgartner]] wurde über diese Entnahme nie informiert.
+Aus dem Auszug ergibt sich, dass von dem am [[date|03.05.2018]] eingezahlten Betrag von 4.200 Euro am [[date|11.06.2018]] lediglich 3.850 Euro an die Gegenseite ausbezahlt wurden. Der Restbetrag von 350 Euro blieb auf dem Konto liegen und wurde erst im Jahr 2021 ohne Abrechnung an die Beschuldigte selbst überwiesen. Die [[person|Baumgartner]] wurde über diese Entnahme nie informiert. Die Treuhandbuchführung der Beschuldigten war im Jahr 2022 bereits Gegenstand einer Kanzleiprüfung, bei der die Mängel jedoch nicht beanstandet wurden.
 
 Auf das Klientenkonto des [[person|Bogdan Ciobanu]] wurde am [[date|02.10.2019]] ein Betrag von 9.000 Euro eingezahlt. Am [[date|19.11.2019]] entnahm die Beschuldigte davon 2.400 Euro als Honorar, ohne eine Honorarnote zu legen. Der Klient erhielt am [[date|08.01.2020]] weitere 1.150 Euro, ohne dass eine Abrechnung übermittelt wurde. Ein Verwendungsnachweis für die verbleibenden 5.450 Euro konnte die Beschuldigte bis zum Schluss der Verhandlung nicht vorlegen.
 

@@ -3,7 +3,7 @@ doc_type: email_verlauf
 jurisdiction: AT
 lang: de
 ---
-Von: [[person|Heiko Liebermann]] <h.liebermann@liebermann-privat.at>
+Von: [[person|Heiko Liebermann]] <[[email|h.liebermann@liebermann-privat.at]]>
 Gesendet: Mittwoch, [[date|9. September 2026]] 17:42
 An: Kanzlei [[organization|Leichter]]
 Betreff: AW: Schadensregulierung Gebäude Feldbach
@@ -15,10 +15,10 @@ anbei übermittle ich Ihnen die gewünschten Unterlagen zur Liegenschaft [[land_
 Bitte beachten Sie, dass [[person|Juli Ognjanow]] als Vertreter der [[organization|Patzak Handels]] die Bauarbeiten im Frühjahr beauftragt hat. Die Rechnung lautet auf die [[organization|Patzak Handels GmbH]] ([[company_register_number|FN 564158w]], UID: [[tax_id|ATU03208466]]). Die Zahlung wurde von dem Konto [[bank_account|AT37 1866 9335 3537 7104]] geleistet.
 
 Mit freundlichen Grüßen
-Heiko Liebermann, Geburtsdatum: [[date_of_birth|1979-09-17]], StA. [[country|Ungarn]]
+[[person|Heiko Liebermann]], Geburtsdatum: [[date_of_birth|1979-09-17]], StA. [[country|Ungarn]]
 Tel. [[phone_number|02622/6202934-67]]
 
-Am Mi., [[date|9. Sept. 2026]] um 15:10 schrieb Kanzlei [[organization|Leichter]]:
+Kanzlei [[organization|Leichter]] schrieb am [[date|9. Sept. 2026]] um 15:10:
 > Sehr geehrter Herr [[person|Liebermann]],
 >
 > wir bestätigen den Eingang Ihrer Anfrage. Bitte übermitteln Sie uns den aktuellen Grundbuchsauszug samt der Angabe zur Kl.-Nr. [[other_identifier|84802]].
@@ -59,7 +59,7 @@ Betreff: Ihr Schreiben vom [[date|28. August 2026]]
 
 Sehr geehrte Frau [[person|Oswald]],
 
-ich habe Ihr Schreiben erhalten. Die Behauptung, dass ich für die Schäden am Nachbargebäude verantwortlich bin, weise ich zurück. Ich bin Staatsangehöriger von [[country|Deutschland]] und lebe seit dem Jahr 2019 in Graz. Eine Haftung besteht nach meiner Auffassung nicht, da die Ursache der Feuchtigkeit in der Bauweise des Gebäudes liegt. Ich bitte um Verständnis, dass ich mich nicht weiter äußern werde, bis die [[organization|Patzak Handels]] ihre Ansprüche konkret beziffert hat.
+ich habe Ihr Schreiben erhalten. Die Behauptung, dass ich für die Schäden am Nachbargebäude verantwortlich bin, weise ich zurück. Ich bin Staatsangehöriger von [[country|Deutschland]] und lebe seit dem Jahr 2019 in [[location|Graz]]. Eine Haftung besteht nach meiner Auffassung nicht, da die Ursache der Feuchtigkeit in der Bauweise des Gebäudes liegt. Ich bitte um Verständnis, dass ich mich nicht weiter äußern werde, bis die [[organization|Patzak Handels]] ihre Ansprüche konkret beziffert hat.
 
 Mit freundlichen Grüßen
 [[person|Wieland Ritter]]
@@ -80,7 +80,7 @@ Sollte keine Einigung erzielt werden, wird die [[organization|Patzak Handels]] K
 
 Mit freundlichen Grüßen
 
-Mag. Rosi Oswald
+[[person|Mag. Rosi Oswald]]
 Rechtsanwältin
 
 Rechtsanwalts GmbH

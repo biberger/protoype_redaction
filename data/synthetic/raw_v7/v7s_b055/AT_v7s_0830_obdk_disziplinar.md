@@ -63,7 +63,7 @@ Die Klientin [[person|Mayrhofer]] schilderte in ihrer Aussage, dass sie nach der
 
 Die Kammeranwältin [[person|Hammerschmidt]] beantragte eine Geldstrafe von 2.500 Euro. Sie wies darauf hin, dass dem Beschuldigten bereits am [[date|17.05.2021]] eine Ermahnung der Kammer erteilt worden sei. Diese Ermahnung ist nach den Akten nicht Gegenstand dieses Verfahrens, der Senat berücksichtigt sie jedoch bei der Strafbemessung als Hinweis auf eine wiederholte Befassung mit denselben Pflichten.
 
-Der Beschuldigte äußerte sich im Schlusswort dahingehend, dass er die Fehler bedauere und die Treuhandbücher seit dem Frühjahr 2025 durch eine externe Buchhaltungsstelle prüfen lasse. Der Senat hat diese Erklärung positiv gewürdigt, sieht darin aber keinen Ersatz für die im Verfahren festgestellten Verstöße. Die Anzeigerinnen waren bei der Verkündung nicht anwesend.
+Der Beschuldigte äußerte sich im Schlusswort dahingehend, dass er die Fehler bedauere und die Treuhandbücher seit dem Frühjahr 2025 durch eine externe Buchhaltungsstelle prüfen lasse. Der Senat hat diese Erklärung positiv gewürdigt, sieht darin aber keinen Ersatz für die im Verfahren festgestellten Verstöße. Die Anzeigerinnen waren bei der Verkündung nicht anwesend. Die Kammeranwaltschaft hat in ihrem Schlussvortrag auf die bereits erfolgte Rückzahlung verwiesen und keine weitere Beweisaufnahme beantragt.
 
 5. Strafbemessung
 

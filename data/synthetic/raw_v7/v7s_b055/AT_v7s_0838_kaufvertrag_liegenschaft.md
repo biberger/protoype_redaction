@@ -46,7 +46,7 @@ III. Treuhandabwicklung
 
 2. Die Gelder werden getrennt von den Eigenmitteln der Vertragsverfasserin verwahrt. Die Treuhandbuch-Nr. [[other_identifier|2024/208]] bezeichnet das Treuhandverfahren dieses Vertrages.
 
-3. Die Auszahlung an die Verkäufer erfolgt erst nach Vorliegen der Eintragungsbestätigung des Grundbuchs und nach Übermittlung der Abrechnung.
+3. Die Auszahlung an die Verkäufer erfolgt erst nach Vorliegen der Eintragungsbestätigung des Grundbuchs und nach Übermittlung der Abrechnung. Ein Teilbetrag von 10.000 Euro wird für den Fall eines Ausgleichs wegen Flächenabweichungen zurückbehalten und nach zwölf Monaten ausbezahlt, sofern keine Ansprüche geltend gemacht werden.
 
 IV. Aufsandungserklärung
 
@@ -64,7 +64,7 @@ Die Übergabe erfolgt mit der Zahlung der dritten Kaufpreisrate. Nutzen und Last
 
 VI. Gewährleistung
 
-Die Verkäufer haften für die Richtigkeit der Angaben über die Liegenschaft nach [[legal_norm|§ 1053 ABGB]]. Ein darüber hinausgehender Gewährleistungsausschluss gilt nur für bekannte und offen erkennbare Mängel.
+Die Verkäufer haften für die Richtigkeit der Angaben über die Liegenschaft nach [[legal_norm|§ 1053 ABGB]]. Die Haftung umfasst insbesondere die Angaben zur Größe der Fläche, zur Bebauung und zu den Dienstbarkeiten, die im Grundbuch ersichtlich sind. Ein darüber hinausgehender Gewährleistungsausschluss gilt nur für bekannte und offen erkennbare Mängel.
 
 VI a. Vorkaufsrechte
 
@@ -78,7 +78,7 @@ VII. Schlussbestimmungen
 
 2. Die Kosten der Errichtung und Verbücherung trägt die Käuferin. Die Grunderwerbsteuer ist ebenfalls von der Käuferin zu tragen.
 
-3. Die Verkäufer und die Käuferin erklären, dass sie den Vertrag gelesen haben und dem Willen der Parteien entspricht. Die Vertragsverfasserin hat die Parteien über die Folgen der Eintragung belehrt.
+3. Die Verkäufer und die Käuferin erklären, dass sie den Vertrag gelesen haben und dem Willen der Parteien entspricht. Der Vertrag wird in zwei Ausfertigungen erstellt, von denen je eine den Verkäufern und der Käuferin übergeben wird. Die Vertragsverfasserin hat die Parteien über die Folgen der Eintragung belehrt.
 
 Unser Zeichen: [[other_identifier|W/Vetter/0233]]
 

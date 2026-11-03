@@ -98,6 +98,8 @@ bei der Ortsbegehung am [[date|23.10.2026]] habe ich festgestellt, dass die Drai
 
 Zur Klarstellung: Die Grenze zwischen den Grundstücken wurde im Jahr 1998 im Zuge der Grundstücksteilung festgelegt. Der damalige Plan enthält den Grenzverlauf nur im Maßstab 1:2000, weshalb die Abweichung der Drainage bei der ersten Planprüfung nicht auffiel. Ich habe dem Plan der [[organization|KVG]] vom [[date|04.09.2026]] daher keine Bedeutung für die Haftungsfrage beigemessen, sondern nur für die Lage der Leitung.
 
+Für die Akten halte ich fest, dass die Drainage in einer Tiefe von rund achtzig Zentimetern verlegt ist, was die Überflutung des Kellers der Nachbarin erklärt. Die Ergebnisse der Ortsbegehung sind mit Fotos dokumentiert, die ich dem Protokoll beilege.
+
 Mit freundlichen Grüßen
 [[person|Loulou Ing. Kattan]]
 Vermessungsingenieur

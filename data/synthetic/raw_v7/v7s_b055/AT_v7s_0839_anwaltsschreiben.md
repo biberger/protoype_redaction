@@ -37,6 +37,8 @@ Für Rückfragen steht Ihnen unsere Kanzlei unter Tel. [[phone_number|+43-1-9789
 
 Die Heizkostenabrechnung für das Jahr 2025 wurde Ihnen am [[date|15.02.2026]] übermittelt. Eine Reaktion ist bis heute ausgeblieben. Wir gehen davon aus, dass die Abrechnung anerkannt ist, sofern nicht binnen der oben genannten Frist ein Einwand erhoben wird.
 
+Ein Vergleichsvorschlag liegt derzeit nicht vor. Wir sind jedoch bereit, bei fristgerechter Zahlung der Rückstände auf die Geltendmachung der Verzugszinsen zu verzichten, sofern die Räumung bis zum [[date|31.12.2026]] erfolgt.
+
 Bitte berufen Sie sich bei Ihrer Antwort auf unser Zeichen.
 
 Mit freundlichen Grüßen

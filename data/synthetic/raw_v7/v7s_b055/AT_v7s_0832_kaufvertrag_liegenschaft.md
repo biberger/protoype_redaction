@@ -42,7 +42,7 @@ II. Kaufpreis
 
 2. Die Parteien vereinbaren, dass die Vertragsverfasserin den Kaufpreis erst nach Vorliegen der Eintragungsbestätigung des Grundbuchs auszahlt. Die Eintragungsgebühr und die Grunderwerbsteuer werden aus dem Kaufpreis einbehalten und an die zuständigen Stellen überwiesen.
 
-3. Die Verkäuferin erklärt, dass sie die Liegenschaft seit dem Jahr 2008 ununterbrochen besitzt und die Lastenfreiheit mit den Auszügen aus dem Grundbuch nachgewiesen hat.
+3. Die Verkäuferin erklärt, dass sie die Liegenschaft seit dem Jahr 2008 ununterbrochen besitzt und die Lastenfreiheit mit den Auszügen aus dem Grundbuch nachgewiesen hat. Die Auszüge sind diesem Vertrag als Beilage ./2 angeschlossen und zum Zeitpunkt der Unterfertigung nicht älter als vier Wochen.
 
 II a. Zusicherungen und Vorbehalte
 
@@ -50,7 +50,7 @@ II a. Zusicherungen und Vorbehalte
 
 2. Die Verkäuferin erklärt, dass die Liegenschaft nicht Gegenstand eines Verfahrens nach dem Flurverfassungs- oder Agrarbehördengesetz ist und dass keine Vorkaufsrechte Dritter bestehen. Die Käuferin hat davon Kenntnis genommen, dass ein Vorkaufsrecht der Gemeinde nach ihrem Ortsrecht nicht ausgeschlossen werden kann.
 
-3. Die Gesellschafterin [[person|Heintel]] stimmt dem Kauf mit ihrer Unterschrift zu. Sie bestätigt, dass die Peschka GmbH zur Abnahme der Liegenschaft berechtigt ist und dass der Gesellschaftsvertrag keinen Zustimmungsvorbehalt für Immobiliengeschäfte enthält.
+3. Die Gesellschafterin [[person|Heintel]] stimmt dem Kauf mit ihrer Unterschrift zu. Sie bestätigt, dass die [[organization|Peschka GmbH]] zur Abnahme der Liegenschaft berechtigt ist und dass der Gesellschaftsvertrag keinen Zustimmungsvorbehalt für Immobiliengeschäfte enthält.
 
 4. Sollte sich nach Übergabe ein versteckter Mangel an den Gebäuden zeigen, der bei der Besichtigung nicht erkennbar war, gelten die Bestimmungen über die Gewährleistung in Abschnitt VI.
 

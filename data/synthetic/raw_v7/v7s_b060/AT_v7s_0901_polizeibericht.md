@@ -65,7 +65,8 @@ waren nicht mehr fahrbereit und wurden durch ein Abschleppunternehmen entfernt.
 
 5. Beweissicherung
 
-Am Unfallort wurden Lichtbilder von beiden Fahrzeugen, von den Bremsspuren und von der Kreuzung angefertigt.
+Am Unfallort wurden durch [[person|Stoiber]] Lichtbilder von beiden Fahrzeugen, von den Bremsspuren und von der
+Kreuzung angefertigt. [[person|Wurzinger]] übernahm die Vermessung der Bremsspuren und die Skizze des Unfallortes.
 Die Ausrichtung der Fahrzeuge nach dem Zusammenstoß wurde skizziert. Ein Alkotest bei den Lenkern
 [[person|Bittmann]] und [[person|Kupfer]] verlief negativ. [[person|Reitsamer]] wurde ebenfalls getestet, das Ergebnis war negativ.
 
@@ -78,6 +79,21 @@ Verdacht einer Verwaltungsübertretung.
 
 Die Lenker wurden darauf hingewiesen, dass sie den Unfall ihrer Haftpflichtversicherung zu melden haben.
 Ein Foto des Unfallfahrzeuges Nr. 2 mit dem Kennzeichen wurde für den Akt gesichert.
+
+Ergänzende Erhebungen
+
+Am 14.03.2024 wurde die Zulassungsbesitzerin des Fahrzeuges Nr. 2 telefonisch befragt. Sie gab an, das Fahrzeug
+werde von ihrem Sohn überwiegend allein benützt und sei seit dem Vorjahr nicht mehr bei einem Werkstättenbetrieb
+gewesen. Die Frage nach einer Vorschädigung an der rechten Seitentür wurde verneint. Ein Vergleich mit den
+Lichtbildern der Werkstätte ergab keinen Hinweis auf eine ältere Beschädigung.
+
+Der Lenker [[person|Bittmann]] gab bei der Nachbefragung an, er sei mit dem Fahrzeug Nr. 1 bereits am Vormittag
+desselben Tages über dieselbe Kreuzung gefahren, ohne dass sich ein Vorfall ereignet habe. Die Angaben sind
+insoweit nicht widersprüchlich. [[person|Fürst]] wurde am Folgetag im Krankenhaus besucht; er bestätigte seine
+Aussage vom Unfalltag.
+
+Die Verständigung der Angehörigen erfolgte durch die Polizei im Beisein des Rettungsdienstes. Eine Bestätigung
+der Haftpflichtversicherung von Fahrzeug Nr. 1 liegt vor.
 
 7. Beilagen
 

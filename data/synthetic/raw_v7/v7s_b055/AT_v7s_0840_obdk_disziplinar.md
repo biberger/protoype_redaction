@@ -64,7 +64,7 @@ Die Angaben des Beschuldigten zur mündlichen Zustimmung der Anzeigerin sind nic
 
 Die Berufung rügt, der Disziplinarrat habe die Anzeigerin [[person|Schneller]] nicht zur Höhe des Vorschusses befragt. Der Senat hält dies für unbegründet, weil die Höhe des Vorschusses durch das Treuhandbuch belegt ist und die Anzeigerin ihre Zustimmung zur Entnahme ausdrücklich verneint hat. Eine Ergänzung des Verfahrens war daher nicht erforderlich.
 
-Der Beschuldigte rügt außerdem, die Geldstrafe sei ohne Berücksichtigung seiner finanziellen Verhältnisse bemessen worden. Dazu ist festzuhalten, dass der Beschuldigte in der Verhandlung keine Angaben zu seinem Einkommen gemacht hat. Der Senat hat die Strafe deshalb nach den Umständen der Tat bemessen.
+Der Beschuldigte rügt außerdem, die Geldstrafe sei ohne Berücksichtigung seiner finanziellen Verhältnisse bemessen worden. Dazu ist festzuhalten, dass der Beschuldigte in der Verhandlung keine Angaben zu seinem Einkommen gemacht hat. Der Senat hat die Strafe deshalb nach den Umständen der Tat bemessen. Die Anzeigerin hat in der Berufungsverhandlung keine Angaben zu einem weiteren Schaden gemacht.
 
 5. Strafbemessung
 
@@ -74,7 +74,7 @@ Der Senat hält die vom Disziplinarrat verhängte Strafe für zu hoch, weil die 
 
 Die Kostenentscheidung beruht auf [[legal_norm|§ 47 RAO]].
 
-Gegen dieses Erkenntnis ist kein weiteres ordentliches Rechtsmittel vorgesehen. Die Zustellung erfolgt an den Beschuldigten und an die [[organization|RAK NÖ]].
+Gegen dieses Erkenntnis ist kein weiteres ordentliches Rechtsmittel vorgesehen. Die Kosten der Berufungsverhandlung sind nach [[legal_norm|§ 47 RAO]] vom Beschuldigten zu tragen, soweit der Berufung nicht stattgegeben wird. Die Zustellung erfolgt an den Beschuldigten und an die [[organization|RAK NÖ]].
 
 Zustellanschrift des Beschuldigten:
 [[address|2191 Gaweinstal]]

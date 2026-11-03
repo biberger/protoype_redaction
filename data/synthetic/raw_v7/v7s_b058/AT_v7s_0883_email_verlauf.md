@@ -3,7 +3,7 @@ doc_type: email_verlauf
 jurisdiction: AT
 lang: de
 ---
-Von: [[person|Elza Wind]] <e.wind@billa-immobilien.at>
+Von: [[person|Elza Wind]] <[[email|e.wind@billa-immobilien.at]]>
 Gesendet: Freitag, [[date|23. Oktober 2026]] 11:30
 An: [[organization|Bianchi, Schraml, Reichart]]
 Cc: [[person|Marlies Cartellieri]]
@@ -16,8 +16,8 @@ wir ersuchen um Bestätigung, dass die Kaufvertragsurkunde über die Liegenschaf
 Frau [[person|Gertrudis Öztürk]] hat uns gegenüber bestätigt, dass die Vollmacht vorliegt. Bitte senden Sie uns eine Kopie.
 
 Mit freundlichen Grüßen
-Elza Wind
-Billa Immobilien GmbH
+[[person|Elza Wind]]
+[[organization|Billa Immobilien GmbH]]
 Tel. [[phone_number|+43 2742 982 80 16-8]]
 
 > Am Do., [[date|22. Oktober 2026]] um 09:14 schrieb [[person|Rosalinda Bemporad]]:
@@ -60,7 +60,7 @@ anbei die Vollmacht für die Zeichnung des Kaufvertrages. Der Vorgang betrifft d
 Ich bitte um Rückmeldung bis [[date|25. Oktober 2026]].
 
 LG
-Marlies Cartellieri
+[[person|Marlies Cartellieri]]
 Assistenz der [[organization|Billa Immobilien GmbH]]
 
 > Am Mo., [[date|19. Oktober 2026]] um 08:47 schrieb [[person|Gertrudis Öztürk]]:
@@ -82,7 +82,7 @@ Liebe Frau [[person|Cartellieri]],
 die [[organization|Billa]] hat die Kaufvertragsentwürfe am [[date|15. Oktober 2026]] an die [[organization|LK Stmk]] übermittelt. Der Versand erfolgte per Post an [[address|8715 Sankt Lorenzen bei Knittelfeld]].
 
 Mit freundlichen Grüßen
-Gertrudis Öztürk
+[[person|Gertrudis Öztürk]]
 Assistenz
 Tel. [[phone_number|+43 2742 982 80 16-8]]
 

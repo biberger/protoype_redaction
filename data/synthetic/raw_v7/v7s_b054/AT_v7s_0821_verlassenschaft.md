@@ -63,6 +63,8 @@ VI. Zusammenfassung der Vermögensverhältnisse
 
 Der Nachlass besteht nach Abzug der Verbindlichkeiten aus der Liegenschaft, dem Bankguthaben und dem Bausparguthaben. Das Vermächtnis an [[person|Palm Eunike]] ist aus dem Bankguthaben vorrangig zu erfüllen. Die Erbin [[person|Strunz]] hat sich bereit erklärt, die Liegenschaft nicht vor der Einantwortung zu veräußern.
 
+Der Gerichtskommissär hat die Erbinnen und den Vermächtnisnehmer über die Kosten der Abhandlung informiert. Die Kosten der Liegenschaftsschätzung von EUR 680,00 sind vorab aus dem Bankguthaben zu bestreiten. Eine Ausfertigung dieser Abhandlung erhält jede Erbin in gebundener Form. Der Vermächtnisnehmer erhält einen Auszug über den ihn betreffenden Teil des Nachlasses.
+
 VII. Ergebnis
 
 Der Gerichtskommissär wird nach Bezahlung der Abhandlungsgebühren den Einantwortungsbeschluss beim [[court|Bezirksgericht Judenburg]] beantragen. Die Erbin [[person|Strunz]] hat die Erbantrittserklärung am [[date|27.10.2026]] abgegeben.

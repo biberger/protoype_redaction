@@ -19,23 +19,23 @@ An das
 
 **EINGABE UND KLAGE**
 
-| LANDESGERICHT LINZ | GZ: [[case_number|5 Cg 61/26h]] |
+| [[court|LANDESGERICHT LINZ]] | GZ: [[case_number|5 Cg 61/26h]] |
 
 Streitwert: EUR 86.450,--
 
 In der Rechtssache der klagenden Partei
 
-KLÄGERIN: [[person|JULI BERNÁT]], geb. [[date_of_birth|27. März 1941]], Tel. [[phone_number|+43 316 458 10 42-66]], wohnhaft in [[address|4640 Sattledt]],
+KLÄGERIN: [[person|JULI BERNÁT]], *[[date_of_birth|27. März 1941]], StA: [[country|Türkei]], Tel. [[phone_number|+43 316 458 10 42-66]], wohnhaft in [[address|4640 Sattledt]],
 
 vertreten durch [[organization|Danninger & Wegerer]] Rechtsanwälte GmbH, Fliederweg 8, 7350 Oberpullendorf,
 
 gegen
 
-die beklagte Partei [[person|Kasem Mirzad]], GEB: [[date_of_birth|19.12.1946]], wohnhaft in [[address|4560 Kirchdorf an der Krems]],
+die beklagte Partei [[person|Kasem Mirzad]], GEB: [[date_of_birth|1946-12-19]], wohnhaft in [[address|4560 Kirchdorf an der Krems]],
 
 sowie die Streitverkündeten
 
-1. [[person|Ulrik Benedek]], geb [[date_of_birth|03.03.1987]], wohnhaft in [[address|4300 St. Valentin]],
+1. [[person|Ulrik Benedek]], geb [[date_of_birth|1987-03-03]], wohnhaft in [[address|4300 St. Valentin]],
 
 2. [[person|Valery Weissenbacher]], Geburtsdatum: [[date_of_birth|10.04.1992]], StA: [[country|Ukraine]], wohnhaft in [[address|4020 Linz]],
 
@@ -57,7 +57,7 @@ Die klagende Partei erhebt Klage wie folgt:
 
 5. Der Streitverkündete [[organization|Land Oberösterreich]] ist Straßenerhalter der Landesstraße. Die Böschung war seit dem Frühjahr 2025 nicht gesichert, obwohl die Klägerin den Zustand mit Schreiben vom [[date|14.04.2025]] angezeigt hatte.
 
-6. Die Haftpflichtversicherung des Beklagten besteht unter der Polizze [[other_identifier|93-6731917]]. Der Beklagte hat die Schadenmeldung am [[date|05.11.2025]] erstattet, die Versicherung hat die Deckung jedoch bis heute nicht zugesagt.
+6. Die Haftpflichtversicherung des Beklagten besteht unter der Polizze [[other_identifier|93-6731917]]. Der Beklagte hat die Schadenmeldung am [[date|05.11.2025]] erstattet, die Versicherung hat die Deckung jedoch bis heute nicht zugesagt. Zahlungen sind auf das Konto der Klägerin, IBAN [[bank_account|AT42 5658 6722 9264 8758]], zu leisten.
 
 **II. Schaden**
 
@@ -84,7 +84,7 @@ Gesamtbetrag | EUR 86.450,--
 
 **IV. Beweisanbote**
 
-13. Zum Beweis der Schäden werden die Lichtbilder vom [[date|03.11.2025]] vorgelegt. Die Zeugin [[person|Benedek]] wird nicht namhaft gemacht; der Zeuge [[person|Weissenbacher]] wird zur Anweisung am Unfallort befragt.
+13. Zum Beweis der Schäden werden die Lichtbilder vom [[date|03.11.2025]] vorgelegt. Der Streitverkündete [[person|Benedek]] wird nicht als Zeuge namhaft gemacht; der Streitverkündete [[person|Weissenbacher]] wird zur Anweisung am Unfallort befragt.
 
 14. Die klagende Partei beantragt die Einvernahme des Sachverständigen für Landwirtschaft zur Ermittlung des Ernteausfalles.
 
