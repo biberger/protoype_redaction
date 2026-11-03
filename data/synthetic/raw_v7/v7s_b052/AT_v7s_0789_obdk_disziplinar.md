@@ -83,6 +83,18 @@ Die Beschuldigte hat die Zahlung an sich selbst mit erheblicher Verzögerung off
 die Verhängung einer Geldbuße, wenngleich der Senat die Höhe im Vergleich zu vergleichbaren Fällen
 niedriger ansetzt.
 
+4a. Vorbringen der Beschuldigten
+
+Die Beschuldigte [[person|Claudia Anderluh]] hat in ihrer schriftlichen Äußerung vom [[date|14.09.2025]] ausgeführt,
+die Auszahlung des Honorars sei nach einer mündlichen Vereinbarung mit der Gesellschaft erfolgt. Die Geschäftsführung
+der [[organization|Wodak Handels GmbH]] habe das Honorar im Jahr 2019 ausdrücklich bestätigt. Der Senat hat dieses
+Vorbringen geprüft, konnte jedoch keine Zustimmung der Gesellschaft in den Unterlagen finden.
+
+4b. Ergebnis
+
+Der Disziplinarrat hält die Vorwürfe für erwiesen. Die Entnahme des Honorars ohne Abrechnung und die verspätete
+Verbuchung der Zahlung an das Gericht sind Pflichtverletzungen, die eine Disziplinarstrafe rechtfertigen.
+
 5. Kosten
 
 Die Kosten des Verfahrens trägt die Beschuldigte. Die Berufung an die [[court|OBDK]] ist binnen zwei Wochen

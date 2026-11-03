@@ -68,9 +68,19 @@ Die Kammeranwältin [[person|Loidl]] wies in ihrem Vortrag darauf hin, dass die 
 
 Zur Angelegenheit des Klienten [[person|Ciobanu]] ist festzuhalten, dass dieser nach Abschluss seines Verfahrens keinerlei Abrechnung erhielt. Die Beschuldigte hat die Restbeträge aus dem Treuhandkonto nicht zurückgeführt, sondern erst nach der Anzeige mit einer Überweisung vom [[date|14.02.2025]] ausgeglichen.
 
+4b. Verjährung
+
+Die Verfolgung der Pflichtverletzungen ist nicht verjährt. Nach [[legal_norm|§ 60 Abs 1 RAO]] beginnt die Verjährungsfrist mit der Beendigung der Pflichtverletzung zu laufen. Die letzte Auszahlung an den Klienten erfolgte am [[date|08.01.2020]], die Entnahme des Restbetrags durch die Beschuldigte im Jahr 2021. Die Anzeige ging am [[date|17.03.2024]] ein und war damit fristgerecht. Die Zahlung vom [[date|14.02.2025]] beseitigte die frühere Pflichtverletzung nicht, sondern war lediglich ein Ausgleich nach Erstattung der Anzeige. Die Verteidigung hat die Verjährung ausdrücklich nicht geltend gemacht.
+
 5. Strafbemessung
 
 Mildernd war die bisher ordentliche Lebensführung der Beschuldigten und die teilweise Rückzahlung der offenen Beträge im Laufe des Verfahrens. Erschwerend war die Wiederholung der Pflichtverletzung und die Tatsache, dass die Klientin [[person|Baumgartner]] über die Entnahme nie informiert wurde. Unter Abwägung dieser Umstände erscheint eine Geldstrafe von 4.000 Euro tat- und schuldangemessen.
+
+Der Senat hat bei der Strafbemessung auch berücksichtigt, dass die Beschuldigte im Verfahren keine vollständige Aufstellung des Treuhandkontos vorgelegt hat und die Entnahme vom [[date|19. November 2019]] erst auf Vorhalt der Kammer erklärte. Für die Klientin [[person|Baumgartner]] bedeutete dies eine über Monate andauernde Ungewissheit über den Verbleib ihres Geldes. Die Beschuldigte hat dies nicht zum Anlass genommen, selbst auf die Klientin zuzugehen.
+
+Die Beschuldigte hat die Kosten des Verfahrens nach [[legal_norm|§ 47 RAO]] zu tragen. Die Kosten der Kammeranwaltschaft sind in der Höhe von 1.230 Euro aufgelaufen und werden mit dem Erkenntnis festgesetzt. Ratenzahlung wurde nicht beantragt.
+
+Die Geldstrafe ist binnen vier Wochen ab Rechtskraft auf das Konto der [[organization|Rechtsanwaltskammer Wien]] einzuzahlen. Ein Zahlungsaufschub wurde vom Senat nicht gewährt, weil keine besonderen wirtschaftlichen Umstände glaubhaft gemacht wurden.
 
 6. Rechtsmittelbelehrung
 

@@ -14,7 +14,7 @@ ERV-Code: [[other_identifier|P318142]]
 
 -----Ursprüngliche Nachricht-----
 Von: [[person|Borris Möstl]] <[[email|b.moestl@knoll-eu.example.at]]>
-Gesendet: Donnerstag, 15.10.2026 08:42
+Gesendet: Donnerstag, [[date|15.10.2026]] 08:42
 An: [[lawyer|Vögel]] <[[email|office@trinkl.at]]>
 Betreff: AW: Schaden-Nr. [[other_identifier|13/927667/21]] Stellungnahme
 
@@ -25,12 +25,12 @@ danke für Ihre Nachricht. Ich bestätige, dass ich am [[date|12.09.2024]] mit m
 Ich habe Ihnen die Unterlagen bereits am [[date|02.10.2026]] übermittelt. Bitte melden Sie sich bei mir, falls noch Fotos fehlen.
 
 Mit freundlichen Grüßen
-Borris Möstl
+[[person|Borris Möstl]]
 Inhaber, [[organization|Knoll]]
 Tel. [[phone_number|+43 664 3317 208]]
 
 > Von: [[lawyer|Vögel]] <[[email|office@trinkl.at]]>
-> Gesendet: Mittwoch, 14.10.2026 16:05
+> Gesendet: Mittwoch, [[date|14.10.2026]] 16:05
 > An: [[person|Borris Möstl]]
 > Betreff: Schaden-Nr. [[other_identifier|13/927667/21]]
 >
@@ -43,7 +43,7 @@ Tel. [[phone_number|+43 664 3317 208]]
 
 -----Ursprüngliche Nachricht-----
 Von: [[lawyer|Dagobert Hasenberger]] <[[email|d.hasenberger@hasenberger-recht.example.at]]>
-Gesendet: Dienstag, 20.10.2026 09:17
+Gesendet: Dienstag, [[date|20.10.2026]] 09:17
 An: [[lawyer|Mag. Vögel]]
 Cc: [[person|Amjad Al-Kilani]] <[[email|a.kilani@ostarrichi-versicherung.example.at]]>
 Betreff: AW: Schaden-Nr. [[other_identifier|83/418953/22]] / Ihr Schreiben
@@ -63,7 +63,7 @@ Rechtsanwalt
 Tel. [[phone_number|+43 1 8806 415 Kl. 27]]  F: [[phone_number|+43 1 8806 419]]
 
 > Von: [[lawyer|Mag. Vögel]] <[[email|office@trinkl.at]]>
-> Gesendet: Samstag, 17.10.2026 11:30
+> Gesendet: Samstag, [[date|17.10.2026]] 11:30
 > An: [[lawyer|Dr. Hasenberger]]
 > Cc: [[person|Borris Möstl]]
 >
@@ -73,7 +73,7 @@ Tel. [[phone_number|+43 1 8806 415 Kl. 27]]  F: [[phone_number|+43 1 8806 419]]
 
 -----Ursprüngliche Nachricht-----
 Von: [[lawyer|Mag. Vögel]] <[[email|office@trinkl.at]]>
-Gesendet: Dienstag, 27.10.2026 14:12
+Gesendet: Dienstag, [[date|27.10.2026]] 14:12
 An: [[lawyer|Dr. Hasenberger]]; [[person|Amjad Al-Kilani]]
 Betreff: Klage gegen die [[organization|OVA]]
 

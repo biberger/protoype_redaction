@@ -18,6 +18,8 @@ KLAGE
 
 Streitwert: EUR 18.400,00
 
+PARTEIEN: [[person|FRAENKEL Rufus]] und [[person|SPINDLER Krista]]
+
 Kläger:
 [[person|Rufus
 Fraenkel]], Geburtsdatum: [[date_of_birth|04.12.1973]],
@@ -45,7 +47,7 @@ wegen EUR 18.400,00 sA
 
 6. Die Klägerin [[person|Göth]] ist Miteigentümerin des Grundstücks zu einem Drittel und tritt als Mitklägerin auf.
 
-7. Die Kläger begehren daher die Zahlung von EUR 18.400,00 samt Zinsen seit [[date|4. August 2025]] an die Kläger zu ungeteilter Hand. Die Zahlung ist auf das Konto IBAN [[bank_account|AT07 3339 6723 8327 5068]] zu leisten.
+7. Die Kläger begehren daher die Zahlung von EUR 18.400,00 samt Zinsen seit [[date|4. August 2025]] an die Kläger zu ungeteilter Hand. Die Zahlung ist auf das Konto IBAN [[bank_account|AT07 3339 6723 8327 5068]] zu leisten. Die Zinsen sind ab dem Verzugszeitpunkt zu berechnen. Die Verzinsung erfolgt nach dem gesetzlichen Zinssatz.
 
 8. Für Rückfragen zur Beklagten steht die Kanzlei unter Tel. [[phone_number|0512/1936097 Kl. 26]] zur Verfügung.
 

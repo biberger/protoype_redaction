@@ -28,14 +28,21 @@ wir vertreten [[person|Svatopluk Varga]] in der Schadensangelegenheit. Herr [[pe
 [[location|St. Veit an der Glan]] durch ein Fahrzeug der [[organization|Schmelzer Immobilien GmbH]] gestreift.
 
 Die [[organization|Schmelzer Immobilien GmbH]] (in der Folge [[organization|SIG]]) hat die Haftung dem Grunde nach
-mit Schreiben vom [[date|20.03.2026]] anerkannt. Die Höhe des Schadens ist jedoch strittig, weil die SIG
+mit Schreiben vom [[date|20.03.2026]] anerkannt. Die Höhe des Schadens ist jedoch strittig, weil die [[organization|SIG]]
 die Reparaturkosten nur teilweise übernehmen will.
 
 Der Mitfahrer [[person|Tiblad Hass]], StA: [[country|Afghanistan]], hat ebenfalls Verletzungen erlitten und
 befindet sich seit dem Unfall in ärztlicher Behandlung. Der Lenker des Fahrzeugs der [[organization|Schmelzer]]
-hat nach dem Unfall keine Unfallmeldung an die Polizei erstattet, sondern den Vorfall nur der SIG gemeldet. Herr
+hat nach dem Unfall keine Unfallmeldung an die Polizei erstattet, sondern den Vorfall nur der [[organization|SIG]] gemeldet. Herr
 [[person|Abdul-Halim Farid]], geboren am [[date_of_birth|1967-06-26]], ist Zeuge des Unfalls und hat die
 Position der Fahrzeuge fotografiert.
+
+Die Reparatur des Fahrzeugs ist noch nicht abgeschlossen, weil die Ersatzteile erst nach mehreren Wochen
+geliefert wurden. Die Mietwagenkosten für diesen Zeitraum belaufen sich auf EUR 1.240,00 und sind in der
+Schadensaufstellung gesondert ausgewiesen. Die Werkstatt hat die Kosten nachvollziehbar dargelegt.
+
+Herr [[person|Varga]] ersucht zudem um Mitteilung, ob die [[organization|SIG]] die Versicherungsdeckung für den
+Lenker bestätigt. Eine Antwort auf diese Frage ist bisher ausgeblieben.
 
 Wir fordern Sie auf, die Schadensregulierung bis zum [[date|30.11.2026]] abzuschließen. Andernfalls werden wir
 die Klage einbringen. Die Zahlung ist auf unser Treuhandkonto bei der Raiffeisenbank zu leisten.

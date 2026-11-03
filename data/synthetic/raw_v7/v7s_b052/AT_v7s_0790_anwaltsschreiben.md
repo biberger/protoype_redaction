@@ -45,6 +45,19 @@ Die Zahlung ist auf das Konto der Mandantin zu überweisen; die Bankverbindung w
 Die Mandantin [[person|Racková]] hat die Schadenshöhe durch einen Kostenvoranschlag belegt. Die Fotodokumentation
 liegt bei. Wir weisen darauf hin, dass ein Verzugszinsenanspruch besteht.
 
+Die Mandantin [[person|Racková]] hat den Unfall nicht selbst verursacht. Sie stand mit ihrem Fahrzeug
+ordnungsgemäß auf dem Parkplatz, als der Lieferwagen der [[organization|Rosen Bau GmbH]] beim Rückwärtsfahren
+gegen die Fahrertür stieß. Die Polizei wurde nicht gerufen, weil sich beide Beteiligten zunächst über die
+Schadensregulierung verständigen wollten. Diese Verständigung ist nach dem Schreiben der [[organization|Rosen Bau GmbH]]
+vom [[date|20.09.2024]] gescheitert.
+
+Der Kostenvoranschlag der Werkstatt weist Ersatzteile in Höhe von EUR 3.900,00 und Arbeitszeit in Höhe von
+EUR 2.240,00 aus. Hinzu kommen eine Nutzungsentschädigung für die Dauer der Reparatur sowie die Kosten für ein
+Mietfahrzeug von EUR 3.500,00. Die Summe der Positionen ergibt den geforderten Betrag von EUR 9.640,00.
+
+Sollte bis zum genannten Termin keine Zahlung eingehen, werden wir ohne weitere Ankündigung die gerichtliche
+Geltendmachung einleiten und die Kosten des Verfahrens nach dem Ausgang geltend machen.
+
 Für Rückfragen erreichen Sie uns unter Tel. [[phone_number|0316 596073 DW 254]].
 
 Mit freundlichen Grüßen

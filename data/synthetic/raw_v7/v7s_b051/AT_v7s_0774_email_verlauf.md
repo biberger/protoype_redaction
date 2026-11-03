@@ -8,19 +8,19 @@ Gesendet: Montag, [[date|5. Oktober 2026]] 16:02
 An: [[person|Nora Mag. Dr. Sager]] <[[email|n.sager@staal-handel.at]]>
 Betreff: Zahlungsrückstand Lieferung Juli
 
-Sehr geehrte Frau Mag. Dr. Sager,
+Sehr geehrte Frau [[person|Mag. Dr. Sager]],
 
 wir melden uns in der Angelegenheit der Lieferung vom Juli. Die Rechnung über EUR 14.820,00 ist seit [[date|15. August 2026]] unbeglichen. Unsere Mandantin ersucht um Zahlung binnen 14 Tagen. Bitte geben Sie bei der Überweisung die Kundennummer an.
 
 Mit freundlichen Grüßen
-Tunnes Unterrainer
+[[person|Tunnes Unterrainer]]
 
 > Von: [[person|Nora Mag. Dr. Sager]]
 > Gesendet: Dienstag, [[date|29. September 2026]] 09:15
 > An: [[person|Tunnes Unterrainer]]
 > Betreff: AW: Lieferung Juli
 >
-> Sehr geehrter Herr Unterrainer, die [[organization|Staal]] hat die Ware vollständig geliefert, die Abnahme erfolgte am 2. Juli. Kl.-Nr. [[other_identifier|7523]] bitte bei allen Schreiben angeben.
+> Sehr geehrter Herr [[person|Unterrainer]], die [[organization|Staal]] hat die Ware vollständig geliefert, die Abnahme erfolgte am 2. Juli. Kl.-Nr. [[other_identifier|7523]] bitte bei allen Schreiben angeben.
 
 Von: [[person|Nora Mag. Dr. Sager]] <[[email|n.sager@staal-handel.at]]>
 Gesendet: Mittwoch, [[date|7. Oktober 2026]] 10:48
@@ -28,14 +28,14 @@ An: [[person|Tunnes Unterrainer]]
 Cc: [[person|Valerien Dusl]] <[[email|v.dusl@staal-handel.at]]>
 Betreff: AW: Zahlungsrückstand Lieferung Juli
 
-Sehr geehrter Herr Unterrainer,
+Sehr geehrter Herr [[person|Unterrainer]],
 
 die [[organization|Staal Handels GmbH]] bestreitet den Zahlungsrückstand nicht grundsätzlich, verweist aber auf die Mängelrüge vom [[date|20. Juli 2026]]. Ein Teil der Palettenware war beschädigt und musste nach [[location|St. Ruprecht an der Raab]] zurückgesandt werden. Die Gutschrift für diese Ware ist bisher nicht erfolgt.
 
 Ich ersuche um eine Aufstellung der Rechnung mit den Gutschriften, damit die [[organization|Staal]] die Zahlung rasch abwickeln kann. Meine Assistenz [[person|Valerien Dusl]] ist für Rückfragen erreichbar.
 
 Mit freundlichen Grüßen
-Mag. Dr. Nora Sager
+[[person|Nora Mag. Dr. Sager]]
 Geschäftsführung
 [[organization|Staal Handels GmbH]]
 Tel. [[phone_number|0463 829151 DW 461]]
@@ -45,17 +45,17 @@ Tel. [[phone_number|0463 829151 DW 461]]
 > Gesendet: Montag, [[date|5. Oktober 2026]] 11:30
 > Betreff: Zahlungsrückstand Lieferung Juli
 >
-> Die Gutschriften liegen vor. Die Staal Handels GmbH hat am 1. Oktober einen Teilbetrag überwiesen, der Rest ist offen.
+> Die Gutschriften liegen vor. Die [[organization|Staal Handels GmbH]] hat am 1. Oktober einen Teilbetrag überwiesen, der Rest ist offen.
 
 Von: [[person|Valerien Dusl]] <[[email|v.dusl@staal-handel.at]]>
 Gesendet: Donnerstag, [[date|8. Oktober 2026]] 08:05
 An: [[person|Tunnes Unterrainer]]
 Betreff: AW: AW: Zahlungsrückstand Lieferung Juli
 
-Guten Morgen Herr Unterrainer, die offene Summe beträgt laut unserer Buchhaltung EUR 4.210,00. Die Gutschrift über den Rest wurde heute veranlasst. Eine Kopie der Buchung füge ich bei.
+Guten Morgen Herr [[person|Unterrainer]], die offene Summe beträgt laut unserer Buchhaltung EUR 4.210,00. Die Gutschrift über den Rest wurde heute veranlasst. Eine Kopie der Buchung füge ich bei.
 
 Mit freundlichen Grüßen
-Valerien Dusl
+[[person|Valerien Dusl]]
 Buchhaltung
 
 Von: [[person|Tunnes Unterrainer]]
@@ -66,7 +66,11 @@ Betreff: AW: AW: Zahlungsrückstand Lieferung Juli
 Danke für die Rückmeldung. Wir bestätigen den Eingang der Teilzahlung und warten auf die Restzahlung bis Monatsende. Bitte senden Sie die Buchungsbestätigung an [[email|office@unterrainer-buero.at]], damit unsere Mandantin den Vorgang schließen kann.
 
 Mit freundlichen Grüßen
-Tunnes Unterrainer
+[[person|Tunnes Unterrainer]]
+
+Sehr geehrter Herr [[person|Unterrainer]],
+
+wir bestätigen die Vertretung der [[organization|Staal Handels GmbH]] in dieser Angelegenheit. Der Schlussstand ist mit der Buchungsbestätigung von Frau [[person|Valerien Dusl]] abgestimmt. Wir ersuchen um Bestätigung der Erledigung bis [[date|31. Oktober 2026]].
 
 Mit freundlichen Grüßen
 

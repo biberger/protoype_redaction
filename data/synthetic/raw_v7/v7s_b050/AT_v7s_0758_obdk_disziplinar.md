@@ -50,7 +50,7 @@ Die Auszahlung vom [[date|6. Juni 2025]] an eine Dritte erfolgte ohne schriftlic
 
 3. Beweiswürdigung
 
-Der Senat stützt sich auf die Kontoauszüge und die Angaben des Mandanten [[person|Banjac]]. Die Aussage der Beschuldigten [[lawyer|Friedle]] ist nicht überzeugend, weil keine Notiz über das angebliche Telefonat existiert. Die Angaben des Mandanten [[person|Banjac]] sind dagegen glaubwürdig, weil sie mit dem Schriftverkehr übereinstimmen. Die [[organization|RAK Ktn]] hat die Kontoauszüge zusätzlich in Kopie vorgelegt.
+Der Senat stützt sich auf die Kontoauszüge und die Angaben des Mandanten [[person|Banjac]]. Die Aussage der Beschuldigten [[lawyer|Friedle]] ist nicht überzeugend, weil keine Notiz über das angebliche Telefonat existiert. Die Angaben des Mandanten [[person|Banjac]] sind dagegen glaubwürdig, weil sie mit dem Schriftverkehr übereinstimmen. Die [[organization|RAK Ktn]] hat die Kontoauszüge zusätzlich in Kopie vorgelegt. Die Kammer weist darauf hin, dass die Geldbuße nicht aus Mitteln der Kanzlei, sondern persönlich zu tragen ist.
 
 Die Angaben des Schriftführers [[person|Lammer]] zum Ablauf der Verhandlung sind in der Niederschrift festgehalten.
 
@@ -62,7 +62,7 @@ Die Beisitzerin [[judge|Frauendorfer]] hielt fest, dass die Verwendung des Gelde
 
 5. Strafbemessung
 
-Mildernd wirkte die Rückzahlung des Restbetrags. Erschwerend war, dass der Mandant über die Auszahlung nicht unterrichtet wurde. Der Vorsitzende [[judge|Lăpușneanu]] hält eine Geldbuße von 2.200 Euro für angemessen. Die Kosten des Verfahrens werden auf 500 Euro festgesetzt.
+Mildernd wirkte die Rückzahlung des Restbetrags. Erschwerend war, dass der Mandant über die Auszahlung nicht unterrichtet wurde. Der Vorsitzende [[judge|Lăpușneanu]] hält eine Geldbuße von 2.200 Euro für angemessen. Die Kosten des Verfahrens werden auf 500 Euro festgesetzt und sind binnen vier Wochen nach Zustellung zu bezahlen.
 
 6. Rechtsmittel
 

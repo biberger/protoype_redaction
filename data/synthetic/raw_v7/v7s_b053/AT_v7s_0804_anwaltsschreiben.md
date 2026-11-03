@@ -24,7 +24,7 @@ Betreff: Schadenfall vom [[date|08.09.2026]], Fahrzeug [[license_plate|WO-11102 
 
 Sehr geehrte Damen und Herren,
 
-wir vertreten die Mandantin [[person|Ramzia Salama]] in der Angelegenheit des oben genannten Verkehrsunfalls. Die Mandantin wurde beim Einbiegen von der [[street|Hauptstraße]] durch den Lkw der [[organization|Steininger Handels GmbH]], FN [[company_register_number|473109z]], beschädigt. Das Fahrzeug ist bei der [[organization|KAA]] haftpflichtversichert.
+wir vertreten die Mandantin [[person|Ramzia Salama]] in der Angelegenheit des oben genannten Verkehrsunfalls. Die Mandantin wurde beim Einbiegen von der [[street|Hauptstraße]] durch den Lkw der [[organization|Steininger Handels GmbH]], [[company_register_number|FN 473109z]], beschädigt. Das Fahrzeug ist bei der [[organization|KAA]] haftpflichtversichert.
 
 Die Haftung des Lenkers ist aus unserer Sicht eindeutig. Der Lenker hat das Vorrangzeichen missachtet, wie die beigelegten Zeugenaussagen belegen. Zeugin ist Frau [[person|Valeria Kyrkos]], *[[date_of_birth|1940-08-28]], die den Vorfall vom Gehsteig aus beobachtet hat.
 
@@ -32,6 +32,8 @@ Die [[organization|Steininger Handels]] hat den Schaden bisher nicht reguliert. 
 
 Weitere Beteiligte:
 Der Mitfahrer [[person|Oleksiy Pantschuk]], geboren am [[date_of_birth|5. November 1940]], StA: [[country|Ukraine]], hat ein Schmerzensgeld wegen einer Prellung im Schulterbereich geltend gemacht. Die Beifahrerin [[person|Bernhardine Schachinger]], geb [[date_of_birth|1965-09-25]], StA: [[country|Türkei]], hat einen Anspruch auf Ersatz des Verdienstentgangs.
+
+Der Befundbericht des Krankenhauses vom [[date|12.09.2026]] bestätigt eine Prellung der linken Schulter, die eine Schonung von drei Wochen erforderlich machte. Die Arbeitsunfähigkeit des Mitfahrers [[person|Pantschuk]] wurde bis zum [[date|03.10.2026]] bestätigt. Eine Kopie des Befundes liegt diesem Schreiben bei.
 
 Die Schadensmeldung der [[organization|Steininger Handels]] vom [[date|09.09.2026]] enthält widersprüchliche Angaben zur Geschwindigkeit. Die [[organization|KAA]] möge die Telematikdaten des Lkw anfordern. Die Auswertung des Fahrtenschreibers ist nach unserer Kenntnis noch nicht erfolgt.
 
@@ -42,7 +44,7 @@ Die Mandantin fordert folgende Beträge:
 
 Wir bitten um Zahlung binnen 14 Tagen auf das Konto der Mandantin mit der IBAN [[bank_account|AT63 6824 3108 0970 0561]].
 
-Sollte die [[organization|KAA]] die Zahlung ablehnen, werden wir die Ansprüche gerichtlich geltend machen. Eine Klage würde beim zuständigen Gericht eingebracht werden. Bitte übermitteln Sie uns Ihre Stellungnahme schriftlich an die oben genannte Kanzleiadresse.
+Sollte die [[organization|KAA]] die Zahlung ablehnen, werden wir die Ansprüche gerichtlich geltend machen. Eine Klage würde beim zuständigen Gericht eingebracht werden. Bitte übermitteln Sie uns Ihre Stellungnahme schriftlich an die oben genannte Kanzleiadresse. Wir weisen darauf hin, dass die Mandantin bereits seit dem Unfalltag keinen Mietwagen mehr benötigt, weil das Fahrzeug nunmehr repariert werden kann; die Mietwagenkosten sind daher nur bis zu diesem Zeitpunkt zu ersetzen.
 
 Mit freundlichen Grüßen
 

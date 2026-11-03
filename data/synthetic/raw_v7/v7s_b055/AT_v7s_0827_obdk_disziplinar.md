@@ -72,6 +72,22 @@ Die Beschuldigte selbst gab an, dass sie die Verwaltung der Treuhandkonten im Ja
 
 Die Kanzlei der Beschuldigten wurde im Juli 2025 einer Kanzleiprüfung unterzogen. Dabei wurde festgestellt, dass das Treuhandbuch für das Jahr 2024 unvollständig geführt war und zwei Klientenkonten keinen Saldo aufwiesen, obwohl Beträge eingegangen waren. Die Beschuldigte hat die Mängel nach der Prüfung behoben.
 
+Die Beschuldigte stellte in ihrer Stellungnahme vom [[date|02.02.2026]] den Antrag, das Verfahren einzustellen oder von einer Bestrafung abzusehen. Sie begründete dies mit der schwierigen Lage ihrer Kanzlei nach dem Ausscheiden zweier Mitarbeiterinnen, mit einer gesundheitlichen Belastung im Jahr 2024 und mit der Tatsache, dass sie keine persönliche Bereicherung angestrebt habe. Der Senat hat diese Gesichtspunkte geprüft, sie vermögen die Pflichtverletzungen jedoch nicht zu rechtfertigen.
+
+Die Buchhaltung der Kanzlei war bis zum Frühjahr 2024 einer Mitarbeiterin übertragen, die ihre Tätigkeit danach beendete. Ein Vermerk über die Übergabe des Treuhandbuchs liegt nicht vor. Die Beschuldigte hat deshalb die Verantwortung für die Führung des Treuhandbuchs seit diesem Zeitpunkt selbst zu tragen. Dass sie die Kontoauszüge in dieser Zeit nicht geprüft hat, hat sie in der Verhandlung eingeräumt.
+
+Die Kammeranwältin [[person|Dörfler]] beantragte in ihrem Schlussvortrag eine Geldstrafe von mindestens 3.000 Euro und verwies auf den Umstand, dass die Klientin [[person|Pfister]] durch die verspätete Auszahlung über mehrere Monate auf ihr Geld warten musste. Die Verteidigung hielt dem entgegen, dass die Beschuldigte die Klientin jederzeit informiert habe und die Verzögerung durch das Verhalten der Gegenseite verursacht worden sei. Dieses Vorbringen wurde durch die Akten nicht gestützt.
+
+Auf die Frage des Senats, weshalb die Abrechnung der Angelegenheit der Klientin [[person|Pfister]] erst im Dezember 2024 erfolgte, antwortete die Beschuldigte, sie habe die Abrechnung wegen der laufenden Auseinandersetzung mit dem Vermieter zurückgehalten. Der Senat hält diese Begründung für nicht tragfähig. Eine laufende Auseinandersetzung über die Hauptsache rechtfertigt es nicht, Teile der Klientengelder ohne Abrechnung auszuzahlen oder die Abrechnung über Monate zu verzögern.
+
+Der Vertreter der Kammeranwaltschaft hob hervor, dass die Beschuldigte in ihrer Stellungnahme vom [[date|02.02.2026]] keine Belege zu den behaupteten Vorschüssen vorgelegt habe. Die Beschuldigte verwies daraufhin auf ein Gedächtnisprotokoll, das sie nachträglich angefertigt habe. Dieses Protokoll trägt kein Datum vor dem Beginn des Disziplinarverfahrens und konnte daher nicht als Nachweis für die behaupteten Absprachen dienen.
+
+Zusammenfassend ist festzuhalten, dass die Beschuldigte über einen Zeitraum von mehr als eineinhalb Jahren Klientengelder nicht ordnungsgemäß verwaltet und die Abrechnung verzögert hat. Die Pflichtverletzungen betreffen zwei Klientinnen und sind durch die Beweisergebnisse hinreichend belegt.
+
+4a. Kostenentscheidung
+
+Die Kostenentscheidung beruht auf [[legal_norm|§ 47 RAO]]. Die Beschuldigte hat die Kosten der Kanzleiprüfung und die Kosten der mündlichen Verhandlung zu tragen, soweit sie nicht von der Kammer übernommen wurden. Ein Anspruch auf Ersatz der eigenen Kosten besteht nicht.
+
 5. Strafbemessung
 
 Mildernd war die bisherige Unbescholtenheit und die Abrechnung im Verfahren. Erschwerend war die Dauer der Verstöße und die Betroffenheit mehrerer Klienten. Die verhängte Geldstrafe entspricht diesen Umständen.

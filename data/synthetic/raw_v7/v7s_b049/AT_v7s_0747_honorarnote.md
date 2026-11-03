@@ -27,9 +27,9 @@ Datum | Leistung | Betrag netto
 
 Summe netto: EUR 1.600,00, zuzüglich 20 % USt EUR 320,00, Gesamtbetrag EUR 1.920,00.
 
-Die Verhandlung vor dem Gericht dauerte 2,5 Stunden und wurde nach Tarif verrechnet. Die Besprechung vom [[date|20.04.2026]] betraf die Frage, ob [[person|Griselde Taupe]] einer Vergleichsmöglichkeit mit der [[organization|Riedel]] zustimmen soll. Die Mandantin hat den Vergleich am [[date|28.04.2026]] abgelehnt, sodass keine weitere Leistung zu verrechnen ist.
+Die Verhandlung vor dem Gericht dauerte 2,5 Stunden und wurde nach Tarif verrechnet. Die Besprechung vom [[date|20.04.2026]] betraf die Frage, ob [[person|Griselde Taupe]] einer Vergleichsmöglichkeit mit der [[organization|Riedel]] zustimmen soll. Die Mandantin hat den Vergleich am [[date|28.04.2026]] abgelehnt, sodass keine weitere Leistung zu verrechnen ist. Die Zahlungsfrist gilt ab dem Eingang dieser Note. Eine Kopie des Schriftsatzes liegt bei.
 
-Bitte überweisen Sie den Betrag auf das Konto IBAN [[bank_account|AT14 3576 6295 1216 3101]]. Rückfragen unter Tel. [[phone_number|+43-512-7043259-4]].
+Bitte überweisen Sie den Betrag auf das Konto IBAN [[bank_account|AT14 3576 6295 1216 3101]]. Rückfragen unter Tel. [[phone_number|+43-512-7043259-4]]. Wir bitten, den Betrag unter Angabe der Kl.-Nr. zu überweisen, damit die Zahlung unserer Kanzlei eindeutig zugeordnet werden kann.
 
 [[location|St. Gilgen]], am [[date|5. Mai 2026]]
 

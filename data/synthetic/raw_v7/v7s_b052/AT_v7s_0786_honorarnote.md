@@ -44,11 +44,15 @@ Gesamtbetrag brutto: EUR 3.930,00
 
 Auslagen (ohne USt): Grundbuchsabfragen EUR 84,00; Gerichtsgebühr EUR 150,00.
 
+Zahlungsbedingungen: 14 Tage netto. Bei Zahlungsverzug werden Verzugszinsen gemäß [[legal_norm|§ 1333 ABGB]] verrechnet.
+
 Wir bitten um Überweisung des Gesamtbetrags binnen 14 Tagen auf das Konto [[bank_account|AT83 7838 4697 4284 7179]]
 unter Angabe der Honorarnote Nr. 2026/1187.
 
 Die Liegenschaft wird bei [[court|BG Döbling]] im Grundbuch geführt; der Eintrag wurde mit der Durchführung
-am [[date|30.09.2026]] bestätigt. Für die Eintragung der Kaufpreisrate fallen keine weiteren Kosten an. Die
+am [[date|30.09.2026]] bestätigt. Für die Eintragung der Kaufpreisrate fallen keine weiteren Kosten an. Die Kopien der Grundbuchsauszüge und
+die Korrespondenz mit dem Notariat sind dieser Note als Anlage beigelegt und können auf Wunsch elektronisch
+übermittelt werden. Die
 Honorarnote ist gemäß [[legal_norm|§ 11 UStG]] umsatzsteuerpflichtig; die Leistungen wurden an die [[organization|Kammel Handels GmbH]]
 erbracht, die als Unternehmerin zum Vorsteuerabzug berechtigt ist.
 

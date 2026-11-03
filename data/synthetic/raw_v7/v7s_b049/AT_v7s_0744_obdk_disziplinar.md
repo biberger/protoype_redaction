@@ -44,7 +44,7 @@ Weiters hat die Beschuldigte geltend gemacht, dass der Auszahlungsbetrag von EUR
 
 Der Kammeranwalt [[person|Watteck]] hat dem Vorbringen entgegengehalten, dass auch eine mündliche Zustimmung die Dokumentationspflicht nicht ersetzt. Die Treuhandgelder müssen nach den Vorgaben der Kanzlei jederzeit nachvollziehbar bleiben, was hier nicht der Fall war.
 
-Die Beschuldigte hat die Anschuldigung im Übrigen teilweise anerkannt, soweit es die Dauer der Verfügung über das Konto betrifft. Ein Geständnis im engeren Sinn liegt darin nicht.
+Die Beschuldigte hat die Anschuldigung im Übrigen teilweise anerkannt, soweit es die Dauer der Verfügung über das Konto betrifft. Ein Geständnis im engeren Sinn liegt darin nicht. Die Beschuldigte hat zudem angeboten, die Treuhandschaft künftig von einer externen Buchhaltungsstelle führen zu lassen. Dieses Angebot wurde vom Senat als Milderungsgrund berücksichtigt. Die Klientin [[person|Nikolić]] hat zu diesem Angebot keine Stellung genommen. Die Kammeranwaltschaft hat dazu keine Einwendungen erhoben. Der Senat hat die Sitzung danach geschlossen.
 
 Rechtliche Beurteilung
 
@@ -63,6 +63,8 @@ Die Beschuldigte wird schuldig erkannt, die Pflichten aus der Treuhandschaft [[o
 Der Beschuldigten wird weiters aufgetragen, den nicht belegten Betrag von EUR 2.500,00 innerhalb von vier Wochen nach Rechtskraft auf das Konto der Klientin [[person|Nikolić]] zurückzuzahlen und der Kammer den Nachweis zu erbringen. Die Kosten des Verfahrens trägt die Beschuldigte.
 
 Die Entscheidung wurde am [[date|9. Juli 2025]] verkündet und den Parteien zugestellt. Rückfragen zur Zustellung richten Sie an die Geschäftsstelle unter Tel. [[phone_number|02622 20645 DW 337]].
+
+Das Protokoll der Verhandlung wurde von der Schriftführerin [[person|Brunnsteiner]] verfasst und den Mitgliedern des Senates vorgelegt. Der Beschuldigten und der Kammeranwaltschaft wurde vor der Entscheidung Gelegenheit zur Stellungnahme zum Ergebnis der Beweisaufnahme gegeben.
 
 Für den Disziplinarrat:
 [[judge|Dóka]]

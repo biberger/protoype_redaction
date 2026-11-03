@@ -100,5 +100,7 @@ Die Geschäftsstelle des Disziplinarrates ist unter Tel. [[phone_number|+43-2622
 
 Die Entscheidung wurde am [[date|11. Juni 2025]] verkündet.
 
+Die Zustellung an die Kammeranwaltschaft und den Beschuldigten erfolgt durch die Geschäftsstelle. Gegen diese Entscheidung steht dem Beschuldigten und der Kammeranwaltschaft die Berufung an die [[court|OBDK]] zu. Die Berufung ist binnen vier Wochen bei der Geschäftsstelle einzubringen; andernfalls wird das Erkenntnis rechtskräftig. Die Zeugin [[person|Neumann]] wurde über ihr Recht auf Ersatz der Reisekosten belehrt. Der Beschuldigte hat auf die Verlesung des Protokolls verzichtet. Der Senat dankt den Beteiligten für ihre sachliche Mitwirkung. Eine Ausfertigung ergeht zudem an die [[court|OBDK]]. Die Zustellung erfolgt elektronisch, soweit der Beschuldigte einen elektronischen Zustellzugang angegeben hat.
+
 Für den Disziplinarrat:
 [[judge|Žeravica]]

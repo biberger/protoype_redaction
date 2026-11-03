@@ -31,7 +31,7 @@ Begründung
 
 I. Verfahrensgang
 
-Die Anzeige der Klientin [[person|Stadlmann]] langte am [[date|22.11.2023]] bei der Rechtsanwaltskammer Wien ein. Sie wurde dem Beschuldigten am [[date|12.12.2023]] zur Stellungnahme übermittelt. Die Stellungnahme erfolgte mit Schriftsatz vom [[date|10.01.2024]], in dem [[lawyer|Österreicher]] die Vorwürfe teilweise bestritt.
+Die Anzeige der Klientin [[person|Stadlmann]] langte am [[date|22.11.2023]] bei der [[organization|Rechtsanwaltskammer Wien]] ein. Sie wurde dem Beschuldigten am [[date|12.12.2023]] zur Stellungnahme übermittelt. Die Stellungnahme erfolgte mit Schriftsatz vom [[date|10.01.2024]], in dem [[lawyer|Österreicher]] die Vorwürfe teilweise bestritt.
 
 Die [[organization|Rechtsanwaltskammer Wien]] ([[organization|RAK Wien]]) leitete die Anzeige daraufhin an den Kammeranwalt weiter. Die Kammeranwältin [[person|Malake Akrami]] erhob am [[date|14.05.2024]] die Anschuldigung. Der Beschuldigte ersuchte um Aufschub der Verhandlung, weil er an einem Berufungsverfahren vor der [[court|OBDK]] in einer anderen Sache mitwirkte; dem wurde mit Beschluss vom [[date|06.06.2024]] stattgegeben.
 
@@ -55,9 +55,15 @@ Die Entnahme vom [[date|21.08.2023]] erfolgte ohne schriftliche Honorarnote. Der
 
 Die Klientin [[person|Stadlmann]] hatte den Beschuldigten mit Schreiben vom [[date|01.09.2023]] zur Vorlage einer Abrechnung aufgefordert. Die Abrechnung wurde erst nach Einschaltung der Kammer vorgelegt, und zwar mit einem Saldo, der vom tatsächlichen Kontostand abwich.
 
+Der Beschuldigte legte mit Schriftsatz vom [[date|03.08.2025]] eine ergänzende Stellungnahme vor, der er eine Aufstellung seiner Honorarforderungen beifügte. Die Aufstellung nennt Leistungen vom [[date|15.04.2023]] bis zum [[date|30.06.2023]], enthält jedoch keine Angaben, die eine Entnahme am [[date|21.08.2023]] rechtfertigen würden. Die Leistungen sind überwiegend Schriftsätze ohne Angabe von Datum und Gegenstand.
+
+Die Klientin [[person|Stadlmann]] hat in einem Schreiben vom [[date|28.08.2025]] an die Kammer mitgeteilt, dass sie den Beschuldigten nach der Entnahme nicht mehr mit der Abwicklung der Erbsache beauftragt hat. Die Erbsache wurde durch eine andere Rechtsanwältin fortgeführt, deren Rechnungen am [[date|02.12.2024]] beglichen wurden. Diese Angaben sind unstrittig.
+
 III. Beweiswürdigung
 
 Der Senat stützt sich auf die Kontoauszüge, die Anzeige, den Schriftverkehr zwischen dem Beschuldigten und der Klientin sowie auf die Aussage der Zeugin [[person|Ingeborg Traunfellner]], die als Kanzleikraft Buchungen erfasste. Die Zeugin bestätigte, dass die Entnahme vom [[date|21.08.2023]] ohne Honorarnote verbucht wurde.
+
+Die Zeugin schilderte, dass der Beschuldigte die Buchungslisten nur auf Nachfrage vorlegte und die Auszahlung an die Miterbin persönlich veranlasste. Der Senat folgt dieser Schilderung, weil sie mit den Erläuterungen der Miterbin übereinstimmt und keine gegenteilige Aussage vorliegt.
 
 Die Angaben des Beschuldigten zur telefonischen Genehmigung sind nicht glaubhaft, weil die Klientin dies bestreitet und keine Nachweise vorliegen. Der Senat folgt dem Kammeranwalt, dass das Verhalten des Beschuldigten nicht als bloße Nachlässigkeit zu werten ist.
 
@@ -74,6 +80,8 @@ Mildernd wurde die Schadensgutmachung im Umfang von EUR 2.900,00 berücksichtigt
 Die Geldbuße erscheint im Hinblick auf die Einkommensverhältnisse des [[lawyer|Österreicher]] angemessen. Er gab in der Verhandlung an, seine Kanzlei habe im Jahr 2023 einen Umsatzrückgang von etwa einem Drittel verzeichnet und zwei Mitarbeiterinnen seien weggefallen. Der Senat hat dies berücksichtigt, jedoch nicht als Entschuldigung für die Buchungen ohne Auftrag gewertet.
 
 Die Kosten wurden entsprechend dem Ausgang des Verfahrens verteilt. Die von der [[organization|RAK Wien]] vorgelegte Kostenaufstellung umfasst die Gebühren für die Zustellung, die Dolmetscherkosten für die schriftliche Befragung der Miterbin und die Reisekosten des Kammeranwalts. Die Kostenaufstellung wurde vom Senat in dieser Höhe anerkannt.
+
+Die Kammeranwältin [[person|Akrami]] hat in ihrem Schlussantrag darauf verwiesen, dass die Richtlinien der [[legal_norm|RL-BA 2015]] eine Abrechnung innerhalb von vier Wochen ab Fälligkeit verlangen. Diese Frist wurde im vorliegenden Fall um mehr als ein halbes Jahr überschritten. Der Senat schließt sich dieser Würdigung an.
 
 Der Senat weist darauf hin, dass ein Anderkonto ausschließlich für Gelder bestimmt ist, die im Rahmen einer Rechtsvertretung anvertraut werden. Eine Verwendung für eigene Zwecke, auch in der Form einer vorläufigen Honorarentnahme, ist unzulässig.
 

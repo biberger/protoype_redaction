@@ -28,7 +28,8 @@ Streitwert: EUR 8.450,00
 
 I. Parteien
 
-1. Klägerin: [[person|Bohumil⏎Kinsky]], geb. [[date_of_birth|1956-10-26]],
+1. Klägerin: [[person|Bohumil
+Kinsky]], geb. [[date_of_birth|1956-10-26]],
 [[address|Schillerstraße 18/2, 2700 Wiener Neustadt]],
 Tel. [[phone_number|0463 14733 Kl. 64]],
 vertreten durch [[person|Dr. Insam]], Rechtsanwalt, ERV-Code [[other_identifier|P988735]]
@@ -66,7 +67,7 @@ III. Rechtliche Beurteilung
 
 Die Beklagten haften für den Schaden nach [[legal_norm|§ 1295 Abs 1 ABGB]] iVm [[legal_norm|§ 1315 ABGB]].
 Die Zuständigkeit des [[court|BG Wiener Neustadt]] ergibt sich aus [[legal_norm|§ 49 Abs 1 JN]], weil der Erfüllungsort
-des Werkvertrags in Wiener Neustadt liegt. Die sachliche Zuständigkeit folgt aus dem Streitwert.
+des Werkvertrags in [[location|Wiener Neustadt]] liegt. Die sachliche Zuständigkeit folgt aus dem Streitwert.
 
 Die Klägerin hat die Mängelrüge rechtzeitig erhoben. Die Beklagten haben die Mängel
 mit Schreiben vom [[date|09.09.2025]] zurückgewiesen, sodass die Klage innerhalb der Frist des
@@ -87,7 +88,7 @@ Beilagen:
 
 Zahlung von EUR 8.450,00 samt Zinsen zu Handen des Klagevertreters, Konto [[bank_account|AT74 2875 4707 3321 1739]].
 
-Wiener Neustadt, am [[date|02.11.2026]]
+[[location|Wiener Neustadt]], am [[date|02.11.2026]]
 
 [[person|Dr. Insam]]
 Rechtsanwalt

@@ -22,7 +22,7 @@ Beschuldigte Rechtsanwältin: [[lawyer|Burgunde Hundstorfer]]
 
 Die Beschuldigte [[lawyer|Hundstorfer]] ist ordnungsgemäß geladen und erscheint in Begleitung. Die Kammeranwältin [[person|Haupt]] trägt den Vorwurf vor, dass die Beschuldigte [[lawyer|Hundstorfer]] im Rahmen der Treuhandschaft Nr. [[other_identifier|2025/152]] Gelder ihrer Mandanten nicht ordnungsgemäß verwaltet habe.
 
-Der Vorsitzende [[judge|Beer]] stellt fest, dass der Disziplinarrat beschlussfähig ist. Die Verhandlung ist öffentlich nicht zugänglich.
+Der Vorsitzende [[judge|Beer]] stellt fest, dass der Disziplinarrat beschlussfähig ist. Die Verhandlung ist öffentlich nicht zugänglich. Die Beschuldigte [[lawyer|Hundstorfer]] verzichtete auf die Verlesung der Anzeige, bestand jedoch auf der Einvernahme der Mandanten.
 
 Spruch
 
@@ -36,7 +36,7 @@ Die Beschuldigte [[lawyer|Hundstorfer]] führt eine Kanzlei in [[location|St. Ru
 
 Für den Mandanten [[person|Ottokar Wrba]] wurde am [[date|3. März 2025]] ein Betrag von 6.300 Euro auf dem Treuhandkonto gutgeschrieben, verbucht unter TH-Nr. [[other_identifier|2022/997]]. Am [[date|18. März 2025]] wurden 3.000 Euro an einen Gläubiger des Mandanten [[person|Wrba]] überwiesen. Die Beschuldigte [[lawyer|Hundstorfer]] verwies auf eine Vereinbarung, die jedoch nicht schriftlich festgehalten war. Der Mandant [[person|Wrba]] bestätigte in seiner Einvernahme, dass er die Zahlung an den Gläubiger nie ausdrücklich genehmigt habe; er habe lediglich um eine Prüfung der Forderung gebeten.
 
-Für die Mandantin [[person|Elvira Dolinar]] erfolgte am [[date|14.08.2025]] eine Einzahlung über 9.750 Euro im Rahmen der Treuhandschaft Nr. [[other_identifier|2025/152]]. Am [[date|29.08.2025]] wurden 9.750 Euro vollständig an die Mandantin [[person|Dolinar]] ausbezahlt, ohne dass die Beschuldigte [[lawyer|Hundstorfer]] die Abrechnung vorgelegt hatte. Die Abrechnung wurde erst am [[date|20.10.2025]] nachgereicht. Die Mandantin [[person|Dolinar]] gab bei ihrer Einvernahme an, sie habe mehrfach um die Abrechnung ersucht und dabei nur telefonische Auskünfte erhalten. Ein schriftlicher Antrag an die Kanzlei ist nicht dokumentiert.
+Für die Mandantin [[person|Elvira Dolinar]] erfolgte am [[date|14.08.2025]] eine Einzahlung über 9.750 Euro im Rahmen der Treuhandschaft Nr. [[other_identifier|2025/152]]. Am [[date|29.08.2025]] wurden 9.750 Euro vollständig an die Mandantin [[person|Dolinar]] ausbezahlt, ohne dass die Beschuldigte [[lawyer|Hundstorfer]] die Abrechnung vorgelegt hatte. Die Abrechnung wurde erst am [[date|20.10.2025]] nachgereicht. Die Mandantin [[person|Dolinar]] gab bei ihrer Einvernahme an, sie habe mehrfach um die Abrechnung ersucht und dabei nur telefonische Auskünfte erhalten. Ein schriftlicher Antrag an die Kanzlei ist nicht dokumentiert. Die Kanzlei hatte die Abrechnung intern bereits am [[date|02.10.2025]] erstellt, jedoch nicht versandt. Dies ergibt sich aus der Eingangsbuchung und dem internen Vermerk der Beschuldigten [[lawyer|Hundstorfer]].
 
 Die [[organization|RAK Ktn]] führte im Herbst 2025 eine Überprüfung des Treuhandkontos durch. Dabei wurde festgestellt, dass der Kontostand wiederholt unter dem Betrag der Mandantengelder lag.
 
@@ -52,7 +52,7 @@ Die Beschuldigte [[lawyer|Hundstorfer]] hat gegen [[legal_norm|§ 43a Abs 3 RAO]
 
 4. Strafbemessung
 
-Mildernd wirkte die nachträgliche Rechnungslegung und die bisherige Unbescholtenheit. Erschwerend war die Dauer des Verstoßes. Der Disziplinarrat sieht eine Geldbuße von 2.500 Euro als angemessen an.
+Mildernd wirkte die nachträgliche Rechnungslegung und die bisherige Unbescholtenheit. Erschwerend war die Dauer des Verstoßes. Der Disziplinarrat sieht eine Geldbuße von 2.500 Euro als angemessen an. Die Beisitzer waren sich einig, dass die Geldbuße zugleich eine generalpräventive Wirkung für andere Mitglieder der Kammer entfalten soll.
 
 Die Beisitzer [[judge|Kaltenböck]] und [[judge|Steinberg]] stimmten dem Spruch einstimmig zu.
 

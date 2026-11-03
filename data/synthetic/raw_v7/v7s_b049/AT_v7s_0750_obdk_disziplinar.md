@@ -31,7 +31,7 @@ I. Anschuldigung
 
 Die Kammeranwältin hat dem Disziplinarrat am [[date|11. März 2025]] die Anschuldigung übermittelt. Sie wirft dem Beschuldigten vor, in der Treuhandschaft Nr. [[other_identifier|2025/347]] Gelder der Klientin entgegen den Weisungen verwendet zu haben. Zudem sei eine Verbindlichkeit der [[organization|Lavanttal Immobilien AG]] ([[organization|LIAG]]) nicht ordnungsgemäß abgerechnet worden.
 
-Die [[organization|LIAG]] hatte dem Beschuldigten im Jahr 2024 den Auftrag erteilt, Zahlungen aus dem Verkauf einer Wohnung zu verwalten. Die Liegenschaft wird im Grundbuch wie folgt geführt: [[land_register_id|KG 36224 Sankt Johann bei Herberstein]] [[land_register_id|EZ 1328]]; [[land_register_id|Parz. 1181]]. Die Verkäuferin war die LIAG, die Klientin Frau [[person|Assmann]] hatte eine Anzahlung geleistet.
+Die [[organization|LIAG]] hatte dem Beschuldigten im Jahr 2024 den Auftrag erteilt, Zahlungen aus dem Verkauf einer Wohnung zu verwalten. Die Liegenschaft wird im Grundbuch wie folgt geführt: [[land_register_id|KG 36224 Sankt Johann bei Herberstein]] [[land_register_id|EZ 1328]]; [[land_register_id|Parz. 1181]]. Die Verkäuferin war die [[organization|LIAG]], die Klientin Frau [[person|Assmann]] hatte eine Anzahlung geleistet.
 
 II. Sachverhalt
 
@@ -79,7 +79,11 @@ V. Strafbemessung
 
 Mildernd war die bisherige disziplinäre Unbescholtenheit des Beschuldigten und seine Mitwirkung im Verfahren. Erschwerend war die Dauer der Pflichtverletzung über mehr als ein Jahr. Unter Berücksichtigung der wirtschaftlichen Verhältnisse erscheint eine Geldbuße von EUR 5.500,00 angemessen.
 
-Ein Berufsverbot wurde nicht verhängt. Die Erstattung des Restbetrages an die Klientin ist nach Eingang des Schreibens vom [[date|14. Mai 2025]] angeordnet worden.
+Ein Berufsverbot wurde nicht verhängt. Die Erstattung des Restbetrages an die Klientin ist nach Eingang des Schreibens vom [[date|14. Mai 2025]] angeordnet worden. Bei der Festsetzung der Höhe der Geldbuße hat der Senat auch berücksichtigt, dass der Beschuldigte die Kanzlei in den letzten Jahren mit wechselnder Besetzung geführt hat und die Verwaltung der Anderkonten im Wesentlichen einer angestellten Buchhalterin überlassen hatte. Diese Umstände entlasten den Beschuldigten nicht, weil die Verantwortung für die ordnungsgemäße Verwaltung der Treuhandgelder beim Rechtsanwalt selbst liegt.
+
+Der Senat hat weiters geprüft, ob eine bedingte Nachsicht der Geldbuße in Betracht kommt. Eine solche Nachsicht scheidet jedoch aus, weil die Pflichtverletzung über einen längeren Zeitraum erfolgte und die Klientin erst nach mehrfacher Aufforderung eine Abrechnung erhielt. Die Anordnung einer Ermahnung allein wäre der Schwere der Verfehlung nicht angemessen. Der Senat hat außerdem berücksichtigt, dass die Klientin [[person|Assmann]] durch die verspätete Rückzahlung erhebliche Nachteile erlitten hat, weil sie die Mittel für die Sanierung ihrer Wohnung nicht rechtzeitig einsetzen konnte. Dieser Umstand wurde als erschwerend gewertet, ist jedoch in der Höhe der Geldbuße bereits berücksichtigt.
+
+Die Kammeranwältin [[person|Breinbauer]] hat in der Verhandlung ausgeführt, dass sie auf eine Veröffentlichung des Erkenntnisses verzichte, sofern der Beschuldigte die Restschuld binnen drei Monaten begleicht. Der Senat hat diesen Vorschlag nicht übernommen, weil die Veröffentlichung der Information der Kanzleikollegen dient. Eine Veröffentlichung in anonymisierter Form wird daher angeordnet. Die Kosten der Zeugenvernehmung trägt der Beschuldigte, soweit sie die Reisekosten der Klientin betreffen. Die Kammeranwältin hat zudem beantragt, die Kosten der Buchprüfung ebenfalls dem Beschuldigten aufzuerlegen. Der Senat hat dem Antrag teilweise entsprochen, da die Prüfung durch das Verhalten des Beschuldigten veranlasst wurde. Die Höhe der Kosten ergibt sich aus dem Kostenverzeichnis der Kammer und ist vom Beschuldigten innerhalb von vier Wochen nach Zustellung zu begleichen.
 
 V a. Weitere Feststellungen
 

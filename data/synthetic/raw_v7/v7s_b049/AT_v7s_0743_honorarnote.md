@@ -37,6 +37,8 @@ Gesamtbetrag: EUR 1.664,28
 
 Wir bitten um Überweisung des Gesamtbetrages innerhalb von 14 Tagen auf unser Konto IBAN [[bank_account|AT71 5408 4856 3541 8534]]. Bitte geben Sie bei der Zahlung die Kl.-Nr. [[other_identifier|87087]] an. Rückfragen zur Abrechnung richten Sie bitte an Tel. [[phone_number|+43 5572 357 92 29 DW 690]].
 
+Wir danken für Ihren Auftrag und stehen für Rückfragen zur Verfügung. Die Zahlungsfrist beginnt mit dem Datum dieser Note. Die Abrechnung erfolgt nach dem [[legal_norm|Rechtsanwaltstarifgesetz]], sofern nichts anderes vereinbart wurde. Bei Fragen zu einzelnen Positionen bitten wir um Rückmeldung innerhalb von zwei Wochen. Vielen Dank für Ihr Vertrauen.
+
 Mit freundlichen Grüßen
 
 [[person|Klug]]

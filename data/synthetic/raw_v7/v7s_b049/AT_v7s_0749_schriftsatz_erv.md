@@ -93,7 +93,11 @@ Beilagen:
 ./E Mahnschreiben vom [[date|2. April 2026]]
 ./F Vertragsunterlagen
 
-Die Kanzlei übermittelt den Schriftsatz im Wege des Elektronischen Rechtsverkehrs.
+Die Kanzlei übermittelt den Schriftsatz im Wege des Elektronischen Rechtsverkehrs. Der Schriftsatz wird im Wege des Elektronischen Rechtsverkehrs eingebracht. Die Kanzlei ersucht um Zustellung des Beschlusses über die Bestimmung der Tagsatzung an die elektronische Adresse der Kanzlei, da die Klägerin keine eigene Zustelladresse im ERV hat. Die Kosten für die Beilagen sind im Streitwert enthalten.
+
+Die Klägerin behält sich vor, im Laufe des Verfahrens weitere Zeugen zu benennen, insbesondere die Mitarbeiter der [[organization|Triendl]], die die Verkehrszeichen zu überprüfen hatten. Der Name dieser Mitarbeiter ist der Klägerin derzeit nicht bekannt.
+
+Die Klägerin ist bereit, die Ansprüche zur Vermeidung eines Rechtsstreits auf die Amtshaftung zu beschränken, sofern die [[country|Republik Österreich]] den Anspruch innerhalb von vier Wochen anerkennt. Ein Anerkenntnis wurde bislang nicht abgegeben. Die Klägerin wird dem Gericht die Vollmacht der Kanzlei vorlegen, sobald diese vom ERV-Konto der Klägerin übermittelt wurde. Die Verhandlung wird voraussichtlich einen halben Tag in Anspruch nehmen. Der Zeuge wird geladen. Die Klägerin bittet um Terminsbestimmung. Die Klägerin hat ihr Fahrzeug nach dem Unfall für weitere drei Wochen nicht nutzen können.
 
 [[location|Marbach an der Donau]], am [[date|14. Oktober 2026]]
 

@@ -33,10 +33,10 @@ wir erlauben uns, für die bisherigen Leistungen in der oben genannten Angelegen
 LEISTUNGSAUFSTELLUNG
 
 Datum          Leistung                                        Stunden   Betrag (netto)
-12.01.2026     Besprechung mit Frau [[person|Janda]] im Büro       1,5      € 360,00
-19.01.2026     Schriftsatz Klage an [[court|BG Schärding]]          2,0      € 480,00
-03.02.2026     Verhandlung ([[court|BG Schärding]], Ersttagsatzung) 3,0    € 720,00
-17.02.2026     Aktenstudium Schreiben der Gegenseite               1,0      € 240,00
+[[date|12.01.2026]]     Besprechung mit Frau [[person|Janda]] im Büro       1,5      € 360,00
+[[date|19.01.2026]]     Schriftsatz Klage an [[court|BG Schärding]]          2,0      € 480,00
+[[date|03.02.2026]]     Verhandlung ([[court|BG Schärding]], Ersttagsatzung) 3,0    € 720,00
+[[date|17.02.2026]]     Aktenstudium Schreiben der Gegenseite               1,0      € 240,00
 
 Honorar netto                                                              € 1.800,00
 Umsatzsteuer 20 %                                                          €   360,00
@@ -56,9 +56,9 @@ Mit freundlichen Grüßen
 [[person|Schumann]]
 Rechtsanwältin
 
-Beilage: Zahlungsbeleg Bezirksgericht Schärding
+Beilage: Zahlungsbeleg [[court|Bezirksgericht Schärding]]
 
 Aufschlüsselung der Barauslagen
 
 Datum        Empfänger                          Verwendungszweck                        Betrag
-10.02.2026   [[court|Bezirksgericht Schärding]]      Pauschalgebühr Klage, GZ [[case_number|2 C 118/26t]]   € 186,00
+[[date|10.02.2026]]   [[court|Bezirksgericht Schärding]]      Pauschalgebühr Klage, GZ [[case_number|2 C 118/26t]]   € 186,00

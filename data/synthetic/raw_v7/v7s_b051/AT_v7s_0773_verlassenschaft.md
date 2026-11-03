@@ -15,17 +15,17 @@ Verlassenschaftsabteilung
 
 Verlassenschaftsabhandlung nach [[person|Nata Weingartner]]
 
-Die am [[date|18.01.2023]] verstorbene [[person|Nata Weingartner]], *[[date_of_birth|6. Dezember 1962]], war zuletzt wohnhaft in Wien. Die Verlassenschaft wurde dem unterzeichneten Notar mit Beschluss des [[court|BG Hietzing]] zur Abhandlung übertragen. Der Notar hat das Nachlassvermögen erhoben und die erbantrittserklärten Personen geladen.
+Die am [[date|18.01.2023]] verstorbene [[person|Nata Weingartner]], *[[date_of_birth|6. Dezember 1962]], war zuletzt wohnhaft in [[location|Wien]]. Die Verlassenschaft wurde dem unterzeichneten Notar mit Beschluss des [[court|BG Hietzing]] zur Abhandlung übertragen. Der Notar hat das Nachlassvermögen erhoben und die erbantrittserklärten Personen geladen.
 
 I. Nachlassvermögen
 
 1. Liegenschaft
 
-Zum Nachlass gehört das Grundstück in der Katastralgemeinde Kemeten. Das Grundbuch weist folgende Eintragung aus: [[land_register_id|EZ: 432]] [[land_register_id|KG 93401 Kemeten]]; [[land_register_id|Gst 101]]. Die Liegenschaft ist mit einem Wohnhaus und einem Nebengebäude bebaut. Ein Verkehrswertgutachten vom [[date|3. Mai 2023]] schätzt den Wert auf EUR 186.000,00.
+Zum Nachlass gehört die Liegenschaft. Das Grundbuch weist folgende Eintragung aus: [[land_register_id|EZ: 432]] [[land_register_id|KG 93401 Kemeten]]; [[land_register_id|Gst 101]]. Die Liegenschaft ist mit einem Wohnhaus und einem Nebengebäude bebaut. Ein Verkehrswertgutachten vom [[date|3. Mai 2023]] schätzt den Wert auf EUR 186.000,00.
 
 2. Bankguthaben
 
-Die Verstorbene unterhielt bei der [[organization|Sparkasse Taufkirchen an der Trattnach AG]] ein Girokonto mit dem Saldo von EUR 4.312,80 zum Todestag. Das Konto ist unter der Kundennummer [[other_identifier|575432]] geführt. Die Kontoführung wurde nach dem Todesfall eingeschränkt.
+Die Verstorbene unterhielt bei der [[organization|Sparkasse Taufkirchen an der Trattnach AG]] ein Girokonto mit dem Saldo von EUR 4.312,80 zum Todestag. Das Konto ist unter der Kd.-Nr. [[other_identifier|575432]] geführt. Die Kontoführung wurde nach dem Todesfall eingeschränkt.
 
 3. Lebensversicherung
 
@@ -39,10 +39,10 @@ II. Erbantrittserklärte Personen
 
 Die erbantrittserklärten Personen ergeben sich aus dem letzten Testament vom [[date|11. März 2019]] und aus der gesetzlichen Erbfolge. Die Quoten sind wie folgt festgestellt:
 
-1. [[person|Burgstaller]] Nadezhda, geboren am [[date_of_birth|20. Mai 1989]], wohnhaft in [[address|Dorfstraße 8/3,
+1. [[person|Burgstaller Nadezhda]], geboren am [[date_of_birth|20. Mai 1989]], wohnhaft in [[address|Dorfstraße 8/3,
 4715 Taufkirchen an der Trattnach]], Erbquote 3/12 (Ansprüche aus dem Testament);
 
-2. [[person|Ghozzi]] Jaffar, geboren am [[date_of_birth|05.07.1941]], wohnhaft in [[address|Hauptstraße 19, 4600 Wels]], Erbquote 2/12;
+2. [[person|Ghozzi Jaffar]], geboren am [[date_of_birth|05.07.1941]], wohnhaft in [[address|Hauptstraße 19, 4600 Wels]], Erbquote 2/12;
 
 3. [[person|Purić Nihat]], *[[date_of_birth|04.04.1967]], wohnhaft in [[address|Sonnenweg 2, 4690 Schwanenstadt]], Erbquote 2/12;
 
@@ -52,7 +52,7 @@ Der Erbquote 5/12 der [[person|Matzella Steinwender]] steht das Pflichtteil nich
 
 III. Vermächtnis
 
-Die Verstorbene hat mit dem Testament vom [[date|11. März 2019]] der [[person|Eufemia Weiß]], Geburtsdatum: [[date_of_birth|11.05.1978]], wohnhaft in Taufkirchen an der Trattnach, ein Vermächtnis in Höhe von EUR 6.000,00 zugewendet. Die Legatarin ist unter Tel. [[phone_number|+43 463 690 39 13 Kl. 77]] erreichbar. Das Vermächtnis ist mit dem Erbfall fällig und wird nach Einantwortung ausbezahlt.
+Die Verstorbene hat mit dem Testament vom [[date|11. März 2019]] der [[person|Eufemia Weiß]], Geburtsdatum: [[date_of_birth|11.05.1978]], wohnhaft in [[location|St. Anton am Arlberg]], ein Vermächtnis in Höhe von EUR 6.000,00 zugewendet. Die Legatarin ist unter Tel. [[phone_number|+43 463 690 39 13 Kl. 77]] erreichbar. Das Vermächtnis ist mit dem Erbfall fällig und wird nach Einantwortung ausbezahlt.
 
 IV. Schulden
 
@@ -62,7 +62,7 @@ V. Weiterer Verfahrensgang
 
 Die erbantrittserklärten Personen werden aufgefordert, binnen vier Wochen die Erbschaftssteuer-Erklärung und die Unterlagen über das Nachlassvermögen vorzulegen. Der Notar wird nach Einlangen der Unterlagen das Nachlassinventar erstellen und den Antrag auf Einantwortung stellen. Die [[court|BG Hietzing]] hat die Verlassenschaft mit dem Beschluss vom [[date|14. Oktober 2026]] der Abhandlung zugewiesen.
 
-Taufkirchen an der Trattnach, am [[date|14. Oktober 2026]]
+[[location|Taufkirchen an der Trattnach]], am [[date|14. Oktober 2026]]
 
 Der Notar:
 [[person|Z O T Z]]

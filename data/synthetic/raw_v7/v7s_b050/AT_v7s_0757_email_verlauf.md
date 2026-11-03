@@ -26,7 +26,7 @@ Betreff: WG: Schaden-Nr. [[other_identifier|57/980343/21]]
 
 Sehr geehrter Herr [[person|Kahr]],
 
-wir haben die Stellungnahme der Gegenseite erhalten. Die [[organization|Höck Handels GmbH]] ([[organization|HHG]]) bestreitet ihre Haftung und verweist auf das Gutachten vom [[date|15.12.2025]]. Wir werden dieses Gutachten gesondert prüfen und Ihnen bis Ende des Monats berichten. Die [[organization|HHG]] hat außerdem angeboten, die halben Reparaturkosten zu übernehmen, was wir nicht für ausreichend halten.
+wir haben die Stellungnahme der Gegenseite erhalten. Die [[organization|Höck Handels GmbH]] ([[organization|HHG]]) bestreitet ihre Haftung und verweist auf das Gutachten vom [[date|15.12.2025]]. Wir werden dieses Gutachten gesondert prüfen und Ihnen bis Ende des Monats berichten. Die [[organization|HHG]] hat außerdem angeboten, die halben Reparaturkosten zu übernehmen, was wir nicht für ausreichend halten. Wir raten Ihnen, bis zur endgültigen Klärung keine Zahlungen anzunehmen.
 
 Sollte keine Einigung zustande kommen, werden wir beim [[court|Bezirksgericht Schärding]] Klage einreichen. Das [[court|BG Schärding]] ist für Verkehrsunfälle dieser Art zuständig, weil sich der Unfall in dessen Sprengel ereignet hat.
 

@@ -69,7 +69,9 @@ VI a. Vollmacht und Auflagen des Grundbuchs
 
 Die Käufer erteilen der Kanzlei eine Vollmacht zur Einholung des Grundbuchsauszuges und zur Entgegennahme von Bescheiden. Die Verkäuferin verpflichtet sich, bis zur Auszahlung des Kaufpreises keine weiteren Belastungen der Liegenschaft zu bewilligen. Ein Pfandrecht der [[organization|Hypo Tirol Bank AG]] auf dem Grundstück ist vor Kaufpreiszahlung zu löschen; die Löschungsurkunde ist der Kanzlei zu übermitteln.
 
-Die Kosten der Lastenfreistellung und der Löschung betragen nach dem Angebot der Bank EUR 1.850,00 und werden von der Verkäuferin getragen. Die Grundbuchsgebühren sind von den Käufern zu tragen. Der Kaufpreis wird erst dann ausbezahlt, wenn die Eintragung der Eigentumsübertragung und die Löschung vorliegen.
+Die Kosten der Lastenfreistellung und der Löschung betragen nach dem Angebot der Bank EUR 1.850,00 und werden von der Verkäuferin getragen. Die Grundbuchsgebühren sind von den Käufern zu tragen. Der Kaufpreis wird erst dann ausbezahlt, wenn die Eintragung der Eigentumsübertragung und die Löschung vorliegen. Sollte die Löschung des Pfandrechts der [[organization|Hypo Tirol Bank AG]] nicht bis zum [[date|30. Juli 2026]] vorliegen, bleibt der Kaufpreis auf dem Treuhandkonto verwahrt. Die Vertragsparteien vereinbaren in diesem Fall eine Verlängerung der Frist um höchstens vier Wochen. Ein Rücktritt vom Vertrag ist erst nach Ablauf dieser Frist zulässig; die Kosten der Verzögerung trägt jene Partei, die den Verzug zu vertreten hat.
+
+Die Käufer haben die Verkäuferin außerdem darauf hingewiesen, dass die Erschließungskosten für die Wasserleitung noch nicht abgerechnet sind. Die Verkäuferin übernimmt diese Kosten bis zum Stichtag der Übergabe; danach gehen sie auf die Käufer über. Die Kosten der Vertragserrichtung und der Beglaubigung der Unterschriften trägt jede Partei zur Hälfte, die Kosten der Treuhandschaft trägt der Käufer. Die Verkäuferin hat die Vollmacht für die Löschung der Hypothek bereits am [[date|1. Juni 2026]] unterfertigt, und die Kanzlei verwahrt diese Urkunde.
 
 VII. Schlussbestimmungen
 
@@ -85,7 +87,7 @@ ANMERKUNG DER KANZLEI ZUR GEMEINSCHAFT: [[person|REUMANN Silvanus]] UND [[person
 
 Für die Verkäuferin:
 [[person|Huberta Wanner]]
-Prokuristin, Schachinger Immobilien GmbH
+Prokuristin, [[organization|Schachinger Immobilien GmbH]]
 
 Die Käufer:
 [[person|Reumann Silvanus]]

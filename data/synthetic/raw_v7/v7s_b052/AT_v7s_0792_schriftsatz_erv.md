@@ -76,13 +76,42 @@ Die [[organization|ALV]] hat als Haftpflichtversicherer der Beklagten für den S
 richtet sich daher auch gegen die Beklagte in ihrer Eigenschaft als Versicherungsnehmerin. Die Streitverkündung
 an die [[organization|Alpenland Versicherung AG]] erfolgt, damit diese ihre Rechte wahren kann.
 
+Zum Unfallhergang ist ergänzend festzuhalten, dass die Beklagte [[person|Windischbauer]] in ihrer Stellungnahme
+vom [[date|02.08.2025]] angegeben hat, sie habe das Bremslicht des vorausfahrenden Fahrzeugs nicht rechtzeitig
+bemerkt. Diese Angabe belegt ein Verschulden, weil die Beklagte den erforderlichen Abstand nicht eingehalten hat.
+Der Kläger [[person|Bodingbauer]] hat sein Fahrzeug ordnungsgemäß angehalten und die Warnblinkanlage eingeschaltet.
+
+Die Beklagte [[person|Windischbauer]] hat ihren Wohnsitz in [[location|Oberwang]] und ist seit dem Jahr 2010 als
+Pflegekraft tätig. Der Kläger [[person|Bodingbauer]] ist Montagetechniker und war zum Unfallzeitpunkt auf dem Weg
+zu einem Kundenauftrag in [[location|Mondsee]]. Die Reise war durch den Auftrag veranlasst; die Fahrtkosten sind
+Bestandteil der Schadensaufstellung.
+
+Die [[organization|ALV]] hat die Deckung zunächst mit Schreiben vom [[date|14.10.2025]] abgelehnt, weil die
+Beklagte die Obliegenheit zur Schadensmeldung nicht eingehalten haben soll. Diese Ablehnung ist nach Auffassung
+des Klägers unwirksam, weil die Meldung innerhalb der vereinbarten Frist erfolgt ist. Die Streitverkündung
+dient daher auch der Klärung dieser Frage.
+
+Der Kläger hat die Schadensposten nachvollziehbar belegt. Die Reparaturrechnung ist dieser Klage als Beilage
+angeschlossen; sie weist die Ersatzteile und die Arbeitszeit getrennt aus. Die Mietwagenkosten wurden für die
+Dauer der Reparatur berechnet und entsprechen dem örtlich üblichen Tarif.
+
+Schließlich ist darauf hinzuweisen, dass die Zahlungsaufforderung vom [[date|10.10.2025]] an die Beklagte
+unbeantwortet blieb. Die Verzugszinsen werden daher ab dem [[date|11.10.2025]] geltend gemacht.
+
 IV. Beweise
 
 Der Kläger beantragt:
 1. die Einvernahme der Beklagten [[person|Windischbauer]] als Partei,
 2. die Einvernahme des Klägers [[person|Bodingbauer]] als Partei,
-3. die Beiziehung des Akts der Polizeiinspektion Vöcklabruck,
+3. die Beiziehung des Akts der [[organization|Polizeiinspektion Vöcklabruck]],
 4. die Einholung eines unfallchirurgischen Gutachtens.
+
+Die Kosten des Verfahrens sind nach dem Streitwert zu bemessen. Der Kläger ersucht, die Beklagte und die
+Streitverkündete zur ungeteilten Hand zum Kostenersatz zu verpflichten. Die Kosten der Streitverkündung trägt die
+Streitverkündete, soweit sie dem Verfahren beitritt.
+
+Die Klage wird im ERV-Verfahren eingebracht; die Beilagen sind als PDF-Dateien angeschlossen und mit den Bezeichnungen
+./A bis ./D versehen.
 
 Beilagen:
 ./A Polizeiliche Anzeige vom [[date|18.07.2025]]

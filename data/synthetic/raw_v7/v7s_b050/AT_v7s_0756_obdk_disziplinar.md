@@ -35,7 +35,7 @@ Der Disziplinarrat hatte die Beschuldigte [[lawyer|Ener]] für schuldig erkannt,
 
 Die Beschuldigte [[lawyer|Ener]] vertrat den Mandanten [[person|Gerhard Lenz]] in einer Schadenersatzsache gegen [[person|Herbert Primavesi]]. Auf das Treuhandkonto wurde am [[date|10.09.2025]] ein Betrag von 22.000 Euro für den Mandanten [[person|Lenz]] eingezahlt, der unter der Treuhandbuch-Nr. [[other_identifier|2026/031]] geführt wird.
 
-Am [[date|17.10.2025]] wurden 15.000 Euro an die gegnerische Partei [[person|Primavesi]] im Rahmen eines behaupteten Vergleichs überwiesen. Eine schriftliche Weisung des Mandanten [[person|Lenz]] lag nicht vor. Am [[date|4. November 2025]] erklärte sich der Mandant [[person|Lenz]] schriftlich mit der Zahlung einverstanden, die Erklärung war jedoch nachträglich verfasst. Ein Vergleich zwischen den Parteien ist in den Akten nicht dokumentiert. Die Gegenseite hat im Verfahren ausdrücklich bestritten, dass ein Vergleich zustande gekommen sei.
+Am [[date|17.10.2025]] wurden 15.000 Euro an die gegnerische Partei [[person|Primavesi]] im Rahmen eines behaupteten Vergleichs überwiesen. Eine schriftliche Weisung des Mandanten [[person|Lenz]] lag nicht vor. Am [[date|4. November 2025]] erklärte sich der Mandant [[person|Lenz]] schriftlich mit der Zahlung einverstanden, die Erklärung war jedoch nachträglich verfasst. Ein Vergleich zwischen den Parteien ist in den Akten nicht dokumentiert. Die Gegenseite hat im Verfahren ausdrücklich bestritten, dass ein Vergleich zustande gekommen sei. Der Mandant [[person|Lenz]] hat in der Verhandlung angegeben, er habe der Auszahlung an die Gegenseite niemals zugestimmt, sondern lediglich eine Zahlung im Vergleichswege erwartet.
 
 Der Rest von 7.000 Euro wurde am [[date|9. Dezember 2025]] an den Mandanten [[person|Lenz]] ausbezahlt. Die Abrechnung wurde erst mit Schreiben vom [[date|15.12.2025]] übermittelt.
 
@@ -45,13 +45,13 @@ Die Kammer hat die Akten, die Kontoauszüge des Treuhandkontos und die Stellungn
 
 Die Kammer folgt dem Disziplinarrat im Schuldspruch. Die nachträgliche Erklärung des Mandanten [[person|Lenz]] kann die fehlende Weisung im Zeitpunkt der Auszahlung nicht ersetzen. Die Berufung der Beschuldigten [[lawyer|Ener]] ist insoweit unbegründet.
 
-Hinsichtlich der Strafhöhe ist die Berufung begründet. Der Senat berücksichtigt, dass die Beschuldigte [[lawyer|Ener]] den Restbetrag rasch ausbezahlt und die Abrechnung nachgereicht hat. Die Beisitzerin [[judge|Kreissl]] verwies darauf, dass die Beschuldigte [[lawyer|Ener]] bisher keine Disziplinarstrafe erhalten hat. Der Vorsitzende [[judge|Bruha]] schloss sich dem an. Die Beisitzerin [[judge|Kovacs]] hielt die Herabsetzung auf 1.800 Euro für ausreichend, um die Wirkung der Sanktion zu wahren.
+Hinsichtlich der Strafhöhe ist die Berufung begründet. Der Senat berücksichtigt, dass die Beschuldigte [[lawyer|Ener]] den Restbetrag rasch ausbezahlt und die Abrechnung nachgereicht hat. Die Beisitzerin [[judge|Kreissl]] verwies darauf, dass die Beschuldigte [[lawyer|Ener]] bisher keine Disziplinarstrafe erhalten hat. Der Vorsitzende [[judge|Bruha]] schloss sich dem an und betonte, dass ein Treuhänder unabhängig von persönlichen Beziehungen zu seinem Mandanten strenge Maßstäbe einhalten müsse. Die Beisitzerin [[judge|Kovacs]] hielt die Herabsetzung auf 1.800 Euro für ausreichend, um die Wirkung der Sanktion zu wahren.
 
 Die Berufung rügt außerdem, der Disziplinarrat habe den Zeugen [[person|Aloys Hartl]] nicht einvernommen, der die Übergabe der Abrechnung am [[date|15.12.2025]] bestätigen könne. Die Kammer hält diese Rüge für unbegründet. Der Zeuge [[person|Hartl]] war Angestellter der Kanzlei und hat die Übergabe nach Aktenlage nicht selbst vorgenommen. Die Abrechnung wurde laut Begleitschreiben per Post übermittelt, daher wäre die Vernehmung für die Frage der Weisung nicht ergiebig gewesen.
 
 4. Kosten
 
-Die Kosten des Berufungsverfahrens trägt die Beschuldigte [[lawyer|Ener]] im Ausmaß von zwei Dritteln. Die Kosten für das Verfahren vor dem Disziplinarrat bleiben unverändert. Die Beschuldigte [[lawyer|Ener]] hat die Berufungsgebühr innerhalb von zwei Wochen nach Zustellung zu entrichten. Ein Antrag auf Ratenzahlung wurde nicht gestellt.
+Die Kosten des Berufungsverfahrens trägt die Beschuldigte [[lawyer|Ener]] im Ausmaß von zwei Dritteln. Die Kosten für das Verfahren vor dem Disziplinarrat bleiben unverändert. Die Beschuldigte [[lawyer|Ener]] hat die Berufungsgebühr innerhalb von zwei Wochen nach Zustellung zu entrichten. Ein Antrag auf Ratenzahlung wurde nicht gestellt. Die Kosten für die Zustellung des Erkenntnisses trägt die Kammer. Der Vorsitzende hat die Parteien darauf hingewiesen, dass die Entscheidung der [[court|OBDK]] endgültig ist, soweit sie den Schuldspruch betrifft.
 
 Ausgefertigt am [[date|29.04.2026]] in [[location|Wien]].
 

@@ -28,6 +28,14 @@ Kurjak]], StA: [[country|Deutschland]], wohnhaft in [[address|Hafnerstraße 31, 
 
 Die Verkäuferin und die Käufer werden gemeinsam als „Vertragsteile“ bezeichnet.
 
+Vorbemerkungen
+
+A. Die Verkäuferin ist auf Grund des Kaufvertrags vom [[date|14.03.2011]] Eigentümerin der Liegenschaft geworden. Das Grundstück wurde im Jahr 2014 mit einem Wohnhaus bebaut, für das eine Benützungsbewilligung der Gemeinde vorliegt. Die [[organization|Spitzy Bau]] hat das Wohnhaus als Generalunternehmer errichtet und übergibt es nun im Zuge dieses Kaufs an die Käufer.
+
+B. Die Käufer beabsichtigen, das Wohnhaus als Hauptwohnsitz zu nutzen. Die Vertragsparteien halten fest, dass die Liegenschaft nicht mit Wohnungseigentum belastet ist und dass keine Mietverhältnisse bestehen.
+
+C. Die Treuhänder haben die Vertragsparteien über die Folgen der Grunderwerbsteuer, der Eintragungsgebühr und der Vertragsgebühr aufgeklärt. Die Vertragsparteien bestätigen, dass sie den Inhalt des Vertrages verstanden haben und dass dieser ihrem wirklichen Willen entspricht.
+
 II. Kaufgegenstand
 
 Die Verkäuferin ist grundbücherliche Eigentümerin folgender Liegenschaft:
@@ -52,6 +60,18 @@ III. Kaufpreis und Fälligkeit
 
 3. Die Verkäuferin verzichtet auf Verzugszinsen, sofern die Zahlung bis zum [[date|31.08.2026]] erfolgt.
 
+4. Die Kosten der Pfandfreistellung in Höhe von EUR 1.180,00 trägt die Verkäuferin. Die Käufer haben die Vertragsgebühr und die Grunderwerbsteuer unmittelbar an das Finanzamt zu entrichten.
+
+5. Die Kostenaufstellung stellt sich wie folgt dar:
+
+Position | Berechnungsgrundlage | Betrag EUR
+Grunderwerbsteuer | 3,5 % vom Kaufpreis | 17.010,00
+Eintragungsgebühr | 1,1 % vom Kaufpreis | 5.346,00
+Pfandfreistellung | Löschungsgebühr und Schreibauslagen | 1.180,00
+Treuhandhonorar | pauschal, netto | 2.400,00
+
+Die Eintragungsgebühr und das Treuhandhonorar werden den Käufern je zur Hälfte in Rechnung gestellt.
+
 IV. Treuhandabwicklung
 
 Die Kaufpreisabwicklung erfolgt über die einschreitenden Rechtsanwälte als Treuhänder. Der Treuhänder ist verpflichtet, den Kaufpreis erst dann an die Verkäuferin auszuzahlen, wenn die Pfandfreistellung und die Einverleibung des Eigentumsrechts zugunsten der Käufer im Grundbuch gesichert sind. Die Treuhandvereinbarung ist Bestandteil dieses Vertrags.
@@ -74,6 +94,10 @@ VI. Übergabe und Gewährleistung
 
 3. Die Käufer bestätigen, dass ihnen der Zustand des Hauses und die Ergebnisse der vorliegenden Energieausweise bekannt sind.
 
+4. Die Verkäuferin erklärt, dass ihr keine Mängel bekannt sind, die die Standsicherheit des Gebäudes oder die Trinkwasserversorgung betreffen. Die Wasserleitung wurde im Jahr 2019 erneuert, die Heizungsanlage im Jahr 2021 gewartet.
+
+5. Eine allfällige Haftung der Verkäuferin für die Ergebnisse der Vermessung ist ausgeschlossen, soweit die Vermessung durch einen Ziviltechniker erfolgte, den die Käufer beauftragt haben.
+
 VII. Beilagen
 
 Beilage ./A: Grundbuchsauszug der [[land_register_id|KG Reith im Alpbachtal]] [[land_register_id|EZ 1850]] vom [[date|27.05.2026]]
@@ -81,7 +105,15 @@ Beilage ./B: Lageplan des Vermessungsbüros, Plannummer 4471/26
 Beilage ./C: Energieausweis für das Wohnhaus, Gültigkeit bis [[date|26.05.2036]]
 Beilage ./D: Vollmacht des Käufers [[person|Kurjak]] zur Vertretung im Grundbuchsverfahren
 
-VIII. Schlussbestimmungen
+VIII. Rücktritt vom Vertrag
+
+1. Erfolgt die Zahlung des Kaufpreises nicht bis zum [[date|15.11.2026]], ist die Verkäuferin berechtigt, vom Vertrag zurückzutreten. Der Rücktritt bedarf der schriftlichen Erklärung, die dem Treuhänder zuzustellen ist.
+
+2. Im Fall des Rücktritts sind bereits geleistete Zahlungen den Käufern binnen 14 Tagen zurückzuerstatten, abzüglich der nachweislichen Kosten der Treuhandabwicklung.
+
+3. Ein Rücktritt der Käufer ist nur möglich, wenn die Verkäuferin die Pfandfreistellung nicht bis zum [[date|30.10.2026]] herbeiführt.
+
+IX. Schlussbestimmungen
 
 1. Änderungen und Ergänzungen dieses Vertrags bedürfen der Schriftform.
 
@@ -90,6 +122,8 @@ VIII. Schlussbestimmungen
 3. Die Kosten der Vertragserrichtung tragen die Käufer.
 
 4. Die Vertragsteile erklären, dass sie den Vertrag gelesen, verstanden und nach eingehender Belehrung durch die Treuhänder abgeschlossen haben.
+
+Die Treuhänder haben die Vertragsparteien darauf hingewiesen, dass die Eintragung im Grundbuch erst nach Einlangen der Unterlagen beim Grundbuchsgericht erfolgt und dass sich die Übergabe dadurch verzögern kann. Die Käufer nehmen zur Kenntnis, dass für die Eintragung des Eigentumsrechts eine Eingabegebühr anfällt.
 
 Ausgefertigt in drei Stück am [[date|03.06.2026]].
 

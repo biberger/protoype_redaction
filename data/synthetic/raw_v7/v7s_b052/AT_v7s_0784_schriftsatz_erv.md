@@ -49,9 +49,27 @@ Der Beklagte [[person|Scheel]] hat die Zahlungen an die Subunternehmer verwaltet
 II. Rechtliche Beurteilung
 
 Die Beklagten haften solidarisch nach [[legal_norm|§ 1302 ABGB]] für den Schaden, den die Klägerin durch die
-mangelhafte Leistung erlitten hat. Das [[court|LG Salzburg]] ist gemäß [[legal_norm|§ 51 Abs 1 JN]] zuständig.
+mangelhafte Leistung erlitten hat. Die Beklagten sind als Mitglieder der Arbeitsgemeinschaft Gesamtschuldner. Die Haftung des Beklagten
+[[person|Scheel]] ergibt sich zusätzlich aus seiner Stellung als Zahlungsverantwortlicher. Die Haftung der
+Beklagten [[person|Schreyer]] folgt aus ihrer Stellung als Bauleiterin und aus den von ihr unterfertigten Abrechnungen.
+Das [[court|LG Salzburg]] ist gemäß [[legal_norm|§ 51 Abs 1 JN]] zuständig.
 
 Die Klagsforderung ist innerhalb der Frist des [[legal_norm|§ 1489 ABGB]] geltend gemacht.
+
+Die Beklagte [[person|Ilić]], geboren am [[date_of_birth|1991-04-20]], war als Projektsteuerin für die
+Arbeitsgemeinschaft tätig und hat die Zahlungsfreigaben vom [[date|11.08.2020]] bis zum [[date|15.10.2020]]
+vorbereitet. Sie hat dabei auf die Gutachten nicht Bezug genommen. Die Beklagte [[person|Gudenus]] hat dagegen
+in der Besprechung vom [[date|25.06.2020]] die Abnahme der Bodenplatte zugesagt, obwohl die Bohrprotokolle
+noch nicht vollständig vorlagen.
+
+Die Klägerin hat die Schadenshöhe anhand der Rechnungen des Sachverständigen berechnet, die im Zuge der
+Bauaufsicht von der [[organization|Salzburger Landesregierung]] geprüft wurden. Die Prüfberichte vom
+[[date|18.09.2020]] und vom [[date|02.12.2020]] stimmen in den Mängelpositionen überein. Der Mehraufwand für die
+Sanierung der Bodenplatte beträgt EUR 14.200,00, die Verzögerungsschäden belaufen sich auf EUR 7.100,00. Die
+geltend gemachte Summe von EUR 21.300,00 entspricht dem Betrag, den die Klägerin als Überzahlung ausgewiesen hat.
+
+Die Beklagten haben sich gegenüber der Klägerin nicht auf eine Teilzahlung eingelassen. Die Zahlungsaufforderung
+vom [[date|13.10.2026]] blieb ohne Antwort.
 
 III. Beweise
 

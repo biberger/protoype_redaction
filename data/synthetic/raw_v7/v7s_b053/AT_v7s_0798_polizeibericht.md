@@ -40,7 +40,7 @@ Die Beifahrerin [[person|Schreiner]] wurde leicht verletzt und vom Rettungsdiens
 
 3. Fahrzeuge und Versicherung
 
-Das Fahrzeug der [[person|Holzinger]] mit dem Kennzeichen [[license_plate|L-3232 B]] ist haftpflichtversichert bei der [[organization|Sonnberg Versicherungs AG]], Polizze [[other_identifier|26-9407102]]. Die Schadensmeldung wurde am selben Tag telefonisch aufgenommen. Das Fahrzeug des [[person|Zebić]] war nach Angaben des [[person|Zebić]] nicht versichert gewesen, was durch die Abfrage im Zentralen Versicherungsregister nicht bestätigt werden konnte.
+Das Fahrzeug der [[person|Holzinger]] mit dem Kennzeichen [[license_plate|L-3232 B]] ist haftpflichtversichert bei der [[organization|Sonnberg Versicherungs AG]], Polizze [[other_identifier|26-9407102]]. Die Schadensmeldung wurde am selben Tag telefonisch aufgenommen; eine Kopie der Schadensmeldung liegt der Anzeige bei. Die Versicherung wurde ersucht, die Deckung bis zum [[date|30.09.2026]] schriftlich zu bestätigen. Das Fahrzeug des [[person|Zebić]] war nach Angaben des [[person|Zebić]] nicht versichert gewesen, was durch die Abfrage im Zentralen Versicherungsregister nicht bestätigt werden konnte.
 
 Die Erhebungen zum Halter des Fahrzeugs [[person|Zebić]] sind noch nicht abgeschlossen. Die Abfrage bei der zuständigen Behörde wurde am [[date|14.09.2026]] veranlasst.
 
@@ -64,7 +64,7 @@ Der Hinweis auf eine fehlende Haftpflichtversicherung des Fahrzeugs [[person|Zeb
 
 6. Anzeige
 
-Gegen [[person|Zebić]] und [[person|Holzinger]] wird wegen des Verdachts der fahrlässigen Körperverletzung und der Übertretung nach [[legal_norm|§ 19 StVO]] Anzeige erstattet. Die Anzeige ergeht an die zuständige Bezirkshauptmannschaft.
+Gegen [[person|Zebić]] und [[person|Holzinger]] wird wegen des Verdachts der fahrlässigen Körperverletzung und der Übertretung nach [[legal_norm|§ 19 StVO]] Anzeige erstattet. Die Anzeige ergeht an die zuständige Bezirkshauptmannschaft. Die Beamten haben die Beteiligten darauf hingewiesen, dass ihnen eine Stellungnahme innerhalb von zwei Wochen offensteht.
 
 Die Beamten [[person|Ruckenbauer]] und [[person|Pfundner]] bestätigen die Richtigkeit der vorstehenden Angaben.
 

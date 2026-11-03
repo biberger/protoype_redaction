@@ -67,6 +67,24 @@ Die Mieterin erlegt eine Kaution in Höhe von drei Monatsmieten, somit EUR 1.837
 
 Die Mieterin hat die Wohnung in ordnungsgemäßem Zustand zu erhalten. Kleinreparaturen im Sinne der gesetzlichen Bestimmungen gehen zu Lasten der Mieterin. Größere Schäden sind der Vermieterin unverzüglich anzuzeigen.
 
+§ 6a Zahlungsverzug und Mahnung
+
+1. Gerät die Mieterin mit der Zahlung des Mietzinses oder der Betriebskostenakonti länger als vierzehn Tage in Verzug, ist die Vermieterin berechtigt, eine schriftliche Mahnung mit einer Nachfrist von weiteren vierzehn Tagen zu übersenden. Die Mahnspesen betragen pauschal 12,00 EUR.
+
+2. Die Mahnung ist an die im Vertrag angegebene Anschrift der Mieterin zu richten. Ändert die Mieterin ihre Anschrift, hat sie dies der Vermieterin unverzüglich schriftlich mitzuteilen.
+
+3. Die Vermieterin verzichtet auf die Geltendmachung von Verzugszinsen, sofern der rückständige Betrag innerhalb der Nachfrist vollständig beglichen wird.
+
+4. Die Zahlung gilt erst dann als erfolgt, wenn der Betrag auf dem Konto der Vermieterin gutgeschrieben ist. Überweisungen mit fehlerhafter Kundennummer werden nicht automatisch zugeordnet.
+
+§ 6b Wertsicherung und Mietzinsanpassung
+
+1. Die Wertsicherung des Hauptmietzinses erfolgt nach dem vom [[organization|Statistik Austria]] veröffentlichten Verbraucherpreisindex 2020, wobei der Ausgangswert jener des Monats [[date|01.09.2026]] ist.
+
+2. Eine Anpassung wird nur vorgenommen, wenn sich der Index um mindestens 3 % verändert hat. Die Anpassung wirkt jeweils zum ersten Tag des übernächsten Monats nach der Mitteilung durch die Vermieterin.
+
+3. Die Mieterin erhält mit jeder Anpassung eine Berechnung, aus der die Indexzahlen ersichtlich sind.
+
 § 7 Übergabe und Zustand der Wohnung
 
 1. Die Wohnung wird der Mieterin in dem im Übergabeprotokoll beschriebenen Zustand übergeben. Die Zählerstände für Strom, Gas und Wasser sind im Protokoll festgehalten.
@@ -84,6 +102,16 @@ Die Mieterin hat die Wohnung in ordnungsgemäßem Zustand zu erhalten. Kleinrepa
 3. Gemeinschaftliche Einrichtungen wie der Waschraum, der Trockenraum und der Hof sind von allen Mietern schonend zu benützen. Das Abstellen von Fahrzeugen im Hof ist nur auf den dafür vorgesehenen Flächen gestattet.
 
 4. Die Vermieterin ist berechtigt, die Wohnung nach vorheriger Ankündigung von mindestens acht Werktagen zu besichtigen, wenn dies für Erhaltungsarbeiten erforderlich ist.
+
+§ 8a Lärm, Hausordnung und Pflichten der Mieterin
+
+1. Die Mieterin hat auf die Nachbarn Rücksicht zu nehmen. Lärmintensive Tätigkeiten sind an Werktagen nur zwischen 8:00 und 20:00 Uhr zulässig; an Sonn- und Feiertagen ruht jede Tätigkeit, die Lärm verursacht.
+
+2. Das Stiegenhaus, der Gehsteig vor dem Haus und die Kellergänge sind sauber zu halten. Die Reinigung der Gemeinschaftsflächen erfolgt im wöchentlichen Turnus nach dem Reinigungsplan der Hausverwaltung.
+
+3. Die Mieterin ist verpflichtet, Schäden an der Wohnung, insbesondere Wasserschäden und Schimmelbildung, unverzüglich der Vermieterin zu melden. Unterlässt sie dies, haftet sie für den daraus entstehenden Schaden.
+
+4. Die Mieterin verpflichtet sich, das Lüften und Heizen so vorzunehmen, dass keine Feuchtigkeit in der Wohnung entsteht.
 
 § 9 Schlussbestimmungen
 

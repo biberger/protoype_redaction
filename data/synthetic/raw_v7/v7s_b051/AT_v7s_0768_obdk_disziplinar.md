@@ -29,13 +29,13 @@ Auf Anzeige der [[organization|Rechtsanwaltskammer Wien]] ([[organization|RAK]])
 2.2. Die Bewegungen auf dem Treuhandkonto stellen sich wie folgt dar:
 
 Datum | Vorgang | Betrag | Mandant | Treuhandnr.
-09.01.2025 | Einzahlung Kaufpreisteil | EUR 45.000,00 | [[person|Reinhard Pfundner]] | Treuhandschaft Nr. [[other_identifier|2026/885]]
-21.02.2025 | Auszahlung an Verkäufer | EUR 38.000,00 | [[person|Reinhard Pfundner]] | Treuhandschaft Nr. [[other_identifier|2026/885]]
-07.04.2025 | Einzahlung Vorschuss | EUR 2.500,00 | [[person|Violeta Ilić]] | Treuhandbuch-Nr. [[other_identifier|2026/095]]
-30.06.2025 | Honorarentnahme | EUR 1.800,00 | [[person|Violeta Ilić]] | Treuhandbuch-Nr. [[other_identifier|2026/095]]
-15.10.2025 | Auszahlung an Erben | EUR 700,00 | [[person|Violeta Ilić]] | Treuhandbuch-Nr. [[other_identifier|2026/095]]
+[[date|09.01.2025]] | Einzahlung Kaufpreisteil | EUR 45.000,00 | [[person|Reinhard Pfundner]] | Treuhandschaft Nr. [[other_identifier|2026/885]]
+[[date|21.02.2025]] | Auszahlung an Verkäufer | EUR 38.000,00 | [[person|Reinhard Pfundner]] | Treuhandschaft Nr. [[other_identifier|2026/885]]
+[[date|07.04.2025]] | Einzahlung Vorschuss | EUR 2.500,00 | [[person|Violeta Ilić]] | Treuhandbuch-Nr. [[other_identifier|2026/095]]
+[[date|30.06.2025]] | Honorarentnahme | EUR 1.800,00 | [[person|Violeta Ilić]] | Treuhandbuch-Nr. [[other_identifier|2026/095]]
+[[date|15.10.2025]] | Auszahlung an Erben | EUR 700,00 | [[person|Violeta Ilić]] | Treuhandbuch-Nr. [[other_identifier|2026/095]]
 
-2.3. Die Honorarentnahme vom 30. Juni 2025 erfolgte ohne vorherige Abrechnung. Die Beschuldigte begründet dies mit einem Irrtum über die Fälligkeit. Der Senat stellt fest, dass die Abrechnung der [[organization|RAK]] erst am 2. Dezember 2025 vorgelegt wurde.
+2.3. Die Honorarentnahme vom [[date|30. Juni 2025]] erfolgte ohne vorherige Abrechnung. Die Beschuldigte begründet dies mit einem Irrtum über die Fälligkeit. Der Senat stellt fest, dass die Abrechnung der [[organization|RAK]] erst am [[date|2. Dezember 2025]] vorgelegt wurde.
 
 2.4. [[person|Violeta Ilić]] wohnt in [[address|3213 Frankenfels]]. Sie hat die Entnahme erst nach der Auszahlung an die Erben bemerkt.
 
@@ -63,7 +63,7 @@ Die Kostenentscheidung beruht auf [[legal_norm|§ 66 DSt]]. Die Beschuldigte tr�
 
 Gegen diese Entscheidung ist eine Revision an den [[court|OGH]] nur zulässig, wenn der Entscheidung eine Rechtsfrage von grundsätzlicher Bedeutung zukommt. Das Vorliegen einer solchen Rechtsfrage hat der Senat verneint. Die Entscheidung wird den Parteien nach Maßgabe des [[legal_norm|§ 9 Abs 1 DSt]] zugestellt. Die Zustellung an die Beschuldigte erfolgt an die Kanzleiadresse, die Zustellung an die [[organization|RAK]] an den Sitz der Kammer.
 
-Wien, am [[date|12. Mai 2026]]
+[[location|Wien]], am [[date|12. Mai 2026]]
 
 Für die [[court|OBDK]]:
 [[judge|Bertl Gugg]]

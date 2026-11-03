@@ -56,7 +56,7 @@ V. Aufsandungserklärung
 
 Die Verkäuferin erteilt hiermit ihre ausdrückliche und unwiderrufliche Einwilligung, dass das Eigentumsrecht an der Liegenschaft für den Käufer [[person|Sedlmayr]] im Grundbuch einverleibt wird. Die Aufsandungserklärung wird von der Verkäuferin unterfertigt und dem Treuhänder übergeben. Die Verkäuferin erklärt, dass sie nicht verheiratet ist und keine eingetragene Partnerschaft besteht, sodass keine Zustimmung eines Dritten erforderlich ist. Der Käufer erklärt, dass ihm keine Vorkaufsberechtigten bekannt sind, die Ansprüche an der Liegenschaft erheben könnten.
 
-Der Käufer erklärt, das Kaufobjekt in dem Zustand zu übernehmen, in dem es sich befindet. Die Gewährleistung für Mängel ist ausgeschlossen, soweit dies nach [[legal_norm|§ 932 Abs 4 ABGB]] zulässig ist. Der Käufer hat die Liegenschaft am [[date|2. Juli 2026]] gemeinsam mit dem Treuhänder besichtigt und dabei einen feuchten Keller festgestellt. Die Parteien vereinbaren, dass dieser Mangel im Kaufpreis berücksichtigt ist und daraus keine weiteren Ansprüche abgeleitet werden.
+Der Käufer erklärt, das Kaufobjekt in dem Zustand zu übernehmen, in dem es sich befindet. Die Gewährleistung für Mängel ist ausgeschlossen, soweit dies nach [[legal_norm|§ 932 Abs 4 ABGB]] zulässig ist. Der Käufer hat die Liegenschaft am [[date|2. Juli 2026]] gemeinsam mit dem Treuhänder besichtigt und dabei einen feuchten Keller festgestellt. Die Parteien vereinbaren, dass dieser Mangel im Kaufpreis berücksichtigt ist und daraus keine weiteren Ansprüche abgeleitet werden. Die Verkäuferin übergibt zudem die Pläne des Hauses, soweit diese noch vorhanden sind, sowie die Bescheide über die Anschlüsse an das öffentliche Kanalnetz und die Wasserleitung. Ein Sachverständiger wurde nicht beauftragt, weil der Käufer den Zustand ausdrücklich akzeptiert.
 
 VI. Übergabe und Nutzen
 
@@ -68,7 +68,7 @@ Die Grunderwerbsteuer und die Eintragungsgebühr trägt der Käufer. Die Kosten 
 
 Der Treuhänder [[lawyer|Kickinger]] hat die Parteien darüber belehrt, dass die Grunderwerbsteuer mit 3,5 Prozent der Bemessungsgrundlage von 285.000 Euro, somit 9.975 Euro, und die Eintragungsgebühr mit 1,1 Prozent, somit 3.135 Euro, anfallen. Die Parteien haben dies zur Kenntnis genommen. Die Abgaben werden vom Treuhänder nach Erhalt des Kaufpreises unmittelbar an das Finanzamt überwiesen, wobei die Zahlungsbelege dem Käufer [[person|Sedlmayr]] übergeben werden.
 
-Der Käufer [[person|Sedlmayr]] erklärt, dass er die Finanzierung des Kaufpreises aus eigenen Mitteln und einem Darlehen sicherstellt. Die Zahlungsfrist nach Ziffer III.2.b verlängert sich um die Zeit, die für die Vorlage der Lastenfreistellung benötigt wird. Ein Rücktritt vom Vertrag ist für den Fall ausgeschlossen, dass die Finanzierung nicht rechtzeitig zustande kommt, soweit die Verzögerung auf der Sphäre des Käufers liegt.
+Der Käufer [[person|Sedlmayr]] erklärt, dass er die Finanzierung des Kaufpreises aus eigenen Mitteln und einem Darlehen sicherstellt. Die Zahlungsfrist nach Ziffer III.2.b verlängert sich um die Zeit, die für die Vorlage der Lastenfreistellung benötigt wird. Ein Verzugszins wird nicht vereinbart. Ein Rücktritt vom Vertrag ist für den Fall ausgeschlossen, dass die Finanzierung nicht rechtzeitig zustande kommt, soweit die Verzögerung auf der Sphäre des Käufers liegt.
 
 VIII. Lastenfreiheit
 

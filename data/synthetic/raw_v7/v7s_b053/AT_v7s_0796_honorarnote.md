@@ -50,6 +50,8 @@ Die Stundensätze entsprechen der Vereinbarung vom [[date|03.06.2026]] und betra
 
 Die Honorarnote ist bis [[date|28.09.2026]] ohne Abzug zu begleichen. Für eine Rückerstattung auf Ihr Konto ersuchen wir um Angabe der IBAN [[bank_account|AT64 6942 0161 5183 4149]] mit dem Verwendungszweck „Klienten-Nr. [[other_identifier|72317]]“.
 
+Wir danken Ihnen für das entgegengebrachte Vertrauen und stehen für Rückfragen zu dieser Honorarnote gerne zur Verfügung. Bitte geben Sie bei Zahlungen stets die Klienten-Nr. [[other_identifier|72317]] an, damit wir die Zahlung rasch zuordnen können.
+
 Mit freundlichen Grüßen
 
 [[location|Hofkirchen im Traunkreis]], am [[date|14.09.2026]]

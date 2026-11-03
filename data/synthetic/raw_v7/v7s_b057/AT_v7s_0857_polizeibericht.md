@@ -85,7 +85,7 @@ Lichtbilder Nr. 1 bis 24, Unfallskizze, Protokoll Alkotest, Abschrift Zeugenauss
 Die Anzeige wurde nach Rückfrage bei den Beteiligten vollständig aufgenommen.
 
 STEMPEL:
-POLIZEIINSPEKTION ST. MARTIN IM MÜHLKREIS
+[[organization|POLIZEIINSPEKTION ST. MARTIN IM MÜHLKREIS]]
 [[person|GERNOT ASCHAUER]], REVINSP.
 
 [[location|St. Martin im Mühlkreis]], am [[date|12.10.2026]]

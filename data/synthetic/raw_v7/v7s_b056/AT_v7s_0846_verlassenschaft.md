@@ -18,7 +18,8 @@ GZ [[case_number|2 A 57/21k]]
 [[court|Bezirksgericht Hollabrunn]]
 
 Verlassenschaftsgericht: [[court|BG Hollabrunn]]
-Gerichtskommissär: [[person|Pelikan]], Notar in Jabing
+Gerichtskommissär: [[person|Pelikan]], Notar in [[location|Jabing]]
+Tel. [[phone_number|+43-2742-2006797 Kl. 65]]
 
 Aufgenommen am [[date|25. Mai 2021]] in der Kanzlei des Gerichtskommissärs in [[location|Jabing]] im Beisein der erschienenen Erbansprecher.
 
@@ -32,21 +33,23 @@ II. Die Erbansprecher
 
 Als gesetzliche Erben wurden folgende Personen festgestellt:
 
-1. [[person|Emil Sigmund]], Geburtsdatum: [[date_of_birth|24.03.1971]], Staatsangehörigkeit: [[country|Türkei]], wohnhaft in [[address|Ringstraße 7/2, 4020 Linz]], Erbquote 1/2 (Neffe des Erblassers);
+1. [[person|Emil Sigmund]], Geburtsdatum: [[date_of_birth|24.03.1971]], Staatsangehörigkeit: [[country|Türkei]], wohnhaft in [[address|Ringstraße 7/2, 4020 Linz]], Erbquote 1/2 (Sohn des vorverstorbenen Bruders des Erblassers);
 
 2. [[person|Krimhild Kaltenbacher]], GEB: [[date_of_birth|24.12.1958]], wohnhaft in [[address|Hauptplatz 22, 2100 Korneuburg]], Erbquote 1/2 (Schwester des Erblassers).
 
 [[person|Sigmund]] und [[person|Kaltenbacher]] erklären, die Erbschaft unbedingt anzunehmen. Die Erbserklärung wurde zu Protokoll gegeben. Die Erbsberechtigung der Frau [[person|Kaltenbacher]] wurde durch eine Geburtsurkunde des Standesamtes belegt, jene des Herrn [[person|Sigmund]] durch eine Heiratsurkunde und die Geburtsurkunde des Erblassers.
 
+In der vom Gericht geführten Erbenliste sind die Erbansprecher zunächst als [[person|Sigmund Emil]] und [[person|Kaltenbacher Krimhild]] verzeichnet. Die Schreibweise wurde bei der Aufnahme des Protokolls berichtigt, die Identität der Personen ist durch die Ausweise bestätigt. Die Ausweise wurden in Kopie dem Akt angeschlossen. Ein Vergleich mit dem Melderegister hat keine weiteren Erbansprecher ergeben.
+
 III. Das Vermögen
 
 Die Verlassenschaft umfasst folgende Aktiva:
 
-a) Liegenschaftsanteil: [[land_register_id|EZ. 1350]] [[land_register_id|KG 31547 Bad Waltersdorf]], Grundstück samt Wohnhaus im Ausmaß von 812 m², geschätzter Verkehrswert € 96.000,00; die Liegenschaft ist im Grundbuch auf den Namen des Erblassers eingetragen.
+a) Liegenschaft: [[land_register_id|EZ. 1350]] [[land_register_id|KG 31547 Bad Waltersdorf]], Grundstück samt Wohnhaus im Ausmaß von 812 m², geschätzter Verkehrswert € 96.000,00; die Liegenschaft ist im Grundbuch auf den Namen des Erblassers eingetragen.
 
 b) Bankguthaben bei der [[organization|Hypo Tirol Bank AG]] auf das Konto [[bank_account|AT39 8635 4078 8987 2414]], Kontostand am Todestag € 11.374,85.
 
-c) Lebensversicherung bei der Versicherungsgesellschaft unter der Polizzennummer [[other_identifier|LV-2020-5775]]; Ablaufwert laut Auskunft € 6.210,00.
+c) Lebensversicherung bei der Versicherungsgesellschaft unter der Vertragsnummer [[other_identifier|LV-2020-5775]]; Ablaufwert laut Auskunft € 6.210,00.
 
 d) Guthaben aus einem Wertpapierdepot Kunden-Nr. [[other_identifier|934010]] mit einem Kurswert von € 3.085,30 am Todestag.
 
@@ -90,4 +93,4 @@ Erbe:
 Für die Richtigkeit der Ausfertigung:
 
 [[person|Metternich]]
-Notar in Jabing am [[date|27. Mai 2021]]
+Notar in [[location|Jabing]] am [[date|27. Mai 2021]]

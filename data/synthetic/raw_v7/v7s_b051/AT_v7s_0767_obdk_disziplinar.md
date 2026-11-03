@@ -10,7 +10,7 @@ UZ: [[other_identifier|NM/Drulák/341]]
 
 ENTSCHEIDUNG
 
-Der Disziplinarrat der Rechtsanwaltskammer Wien hat in seiner Sitzung vom [[date|9. Oktober 2026]] durch den Senat in der Besetzung
+Der [[court|Disziplinarrat der Rechtsanwaltskammer Wien]] hat in seiner Sitzung vom [[date|9. Oktober 2026]] durch den Senat in der Besetzung
 
 Vorsitz: [[judge|Mag. Hildegard Bienenfeld]], StA. [[country|Bosnien und Herzegowina]]
 Beisitzer: [[judge|Dr. Bertran Lamprecht]], geb. [[date_of_birth|1957-09-08]], und [[judge|Dr. Adriana Cibulka]] 
@@ -34,7 +34,7 @@ Begründung
 
 1. Verfahrensgang
 
-Die [[organization|Rechtsanwaltskammer Wien]] ([[organization|RAK]]) erhob am 14. Jänner 2025 die Anzeige gegen [[lawyer|Leos Drulák]]. Der Kammeranwalt [[person|Mag. Gunthard Fischbacher]] führte die Voruntersuchung durch und brachte die Anklageschrift ein. Der Beschuldigte bestritt den Vorwurf in seiner Stellungnahme vom 3. März 2025 nicht vollständig, machte aber geltend, die Beträge seien zur Begleichung von Honorarforderungen bestimmt gewesen.
+Die [[organization|Rechtsanwaltskammer Wien]] ([[organization|RAK]]) erhob am [[date|14. Jänner 2025]] die Anzeige gegen [[lawyer|Leos Drulák]]. Der Kammeranwalt [[person|Mag. Gunthard Fischbacher]] führte die Voruntersuchung durch und brachte die Anklageschrift ein. Der Beschuldigte bestritt den Vorwurf in seiner Stellungnahme vom [[date|3. März 2025]] nicht vollständig, machte aber geltend, die Beträge seien zur Begleichung von Honorarforderungen bestimmt gewesen.
 
 Der Beschuldigte betreibt eine Einzelkanzlei in [[location|Wien]]. Die Kanzlei ist unter der Telefonnummer [[phone_number|02742 430907-16]] erreichbar. Die Vollmacht des Klienten wurde vom Beschuldigten nicht schriftlich bestätigt.
 
@@ -43,19 +43,19 @@ Der Beschuldigte betreibt eine Einzelkanzlei in [[location|Wien]]. Die Kanzlei i
 2.1. Der Beschuldigte führte im Zeitraum von März 2023 bis Mai 2024 ein Treuhandkonto für mehrere Mandanten. Für die Mandantschaft [[person|Reinhard Pfundner]] wurde unter der Treuhandbuch-Nr. [[other_identifier|2021/508]] ein Treuhanderlag geführt. Die nachfolgende Bewegungsliste ist dem Akt als Beilage ./C angeschlossen:
 
 Datum | Vorgang | Betrag | Mandant | Treuhandnr.
-04.03.2023 | Einzahlung Vergleichsbetrag | EUR 8.500,00 | Reinhard Pfundner | Treuhandbuch-Nr. [[other_identifier|2021/508]]
-18.04.2023 | Auszahlung an Gegenseite | EUR 4.200,00 | Reinhard Pfundner | Treuhandbuch-Nr. [[other_identifier|2021/508]]
-02.09.2023 | Einzahlung Schadenersatz | EUR 12.000,00 | [[person|Violeta Ilić]] | Treuhandschaft Nr. [[other_identifier|2023/217]]
-29.11.2023 | Honorarabbuchung ohne Abrechnung | EUR 3.600,00 | [[person|Violeta Ilić]] | Treuhandschaft Nr. [[other_identifier|2023/217]]
-11.05.2024 | Auszahlung an Mandantin | EUR 6.400,00 | [[person|Violeta Ilić]] | Treuhandschaft Nr. [[other_identifier|2023/217]]
+[[date|04.03.2023]] | Einzahlung Vergleichsbetrag | EUR 8.500,00 | [[person|Reinhard Pfundner]] | Treuhandbuch-Nr. [[other_identifier|2021/508]]
+[[date|18.04.2023]] | Auszahlung an Gegenseite | EUR 4.200,00 | [[person|Reinhard Pfundner]] | Treuhandbuch-Nr. [[other_identifier|2021/508]]
+[[date|02.09.2023]] | Einzahlung Schadenersatz | EUR 12.000,00 | [[person|Violeta Ilić]] | Treuhandschaft Nr. [[other_identifier|2023/217]]
+[[date|29.11.2023]] | Honorarabbuchung ohne Abrechnung | EUR 3.600,00 | [[person|Violeta Ilić]] | Treuhandschaft Nr. [[other_identifier|2023/217]]
+[[date|11.05.2024]] | Auszahlung an Mandantin | EUR 6.400,00 | [[person|Violeta Ilić]] | Treuhandschaft Nr. [[other_identifier|2023/217]]
 
-2.2. Die Honorarabbuchung vom 29. November 2023 erfolgte, ohne dass [[person|Violeta Ilić]] eine Honorarnote erhalten hatte. Die Abrechnung wurde erst nach dem Einschreiten der [[organization|RAK]] nachgeholt. [[person|Reinhard Pfundner]] hatte die Betreuung des Verfahrens bereits im Dezember 2022 an den Beschuldigten übertragen.
+2.2. Die Honorarabbuchung vom [[date|29. November 2023]] erfolgte, ohne dass [[person|Violeta Ilić]] eine Honorarnote erhalten hatte. Die Abrechnung wurde erst nach dem Einschreiten der [[organization|RAK]] nachgeholt. [[person|Reinhard Pfundner]] hatte die Betreuung des Verfahrens bereits im Dezember 2022 an den Beschuldigten übertragen.
 
 2.3. Der Beschuldigte verwies in der Verhandlung auf eine mündliche Vereinbarung mit [[person|Violeta Ilić]], wonach ein Betrag von EUR 3.600,00 als Vorschuss einbehalten werden durfte. Der Senat konnte eine solche Vereinbarung nicht feststellen. Eine schriftliche Vereinbarung fehlt, und die Mandantin bestreitet die Vereinbarung.
 
 2.4. Die Mandantin wohnt in [[location|St. Gilgen]]. Sie erstattete die Anzeige, nachdem sie den Restbetrag nur verspätet und ohne Erläuterung erhalten hatte.
 
-2.5. Der Beschuldigte hatte [[person|Reinhard Pfundner]] nach der Auszahlung vom 18. April 2023 keine Abrechnung übermittelt, obwohl dieser sie mehrfach angefordert hatte. Die Restsumme auf dem Treuhandkonto wurde erst im Juli 2024 ausgezahlt. Ein Schreiben der [[organization|RAK]] vom 2. Dezember 2024 blieb ebenfalls unbeantwortet.
+2.5. Der Beschuldigte hatte [[person|Reinhard Pfundner]] nach der Auszahlung vom [[date|18. April 2023]] keine Abrechnung übermittelt, obwohl dieser sie mehrfach angefordert hatte. Die Restsumme auf dem Treuhandkonto wurde erst im Juli 2024 ausgezahlt. Ein Schreiben der [[organization|RAK]] vom [[date|2. Dezember 2024]] blieb ebenfalls unbeantwortet.
 
 3. Rechtliche Beurteilung
 
@@ -75,7 +75,7 @@ Die Geldbuße wurde unter Berücksichtigung der wirtschaftlichen Verhältnisse d
 
 Gegen diese Entscheidung ist die Berufung an die [[court|OBDK]] zulässig. Die Berufung ist binnen vier Wochen ab Zustellung einzubringen. Gegen die Entscheidung der [[court|OBDK]] ist unter den Voraussetzungen des [[legal_norm|§ 5 DSt]] die Revision an den [[court|OGH]] zulässig.
 
-Wien, am [[date|9. Oktober 2026]]
+[[location|Wien]], am [[date|9. Oktober 2026]]
 
 Für den Senat:
 [[judge|Mag. Hildegard Bienenfeld]]

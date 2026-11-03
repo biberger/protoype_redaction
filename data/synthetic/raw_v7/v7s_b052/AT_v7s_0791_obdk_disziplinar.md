@@ -74,6 +74,20 @@ an [[person|Ostrowski]] und die unterlassene Verbuchung der Zahlung für [[perso
 Der Senat hält die Pflichtverletzung für schwerwiegend, weil die Gelder über ein Jahr zurückbehalten wurden.
 Mildernd wirkt die bisherige Unbescholtenheit des Beschuldigten und die schließlich erfolgte Auszahlung.
 
+Die Mandantin [[person|Ostrowski]] hat in ihrer Beschwerde angegeben, sie habe den Beschuldigten im Jahr 2024
+mehrfach telefonisch kontaktiert und Auskunft über den Stand der Auszahlung verlangt. Der Beschuldigte habe ihr
+jeweils mitgeteilt, die Zahlung sei in Bearbeitung. Eine schriftliche Abrechnung erhielt sie erst nach der
+Einleitung des Verfahrens.
+
+Zu [[person|Stanković]] ist festzuhalten, dass der Zahlungseingang vom [[date|21.08.2023]] zwar auf dem Treuhandkonto
+gutgeschrieben, aber bis zur Prüfung nicht im Treuhandbuch erfasst wurde. Eine Auszahlung an ihn ist nicht erfolgt.
+Der Beschuldigte hat [[person|Stanković]] auch keine Auskunft über den Verbleib des Betrags erteilt, obwohl dieser
+mehrfach danach gefragt hatte.
+
+Der Senat hat ferner berücksichtigt, dass die Kammeranwältin [[person|Dr. Elise Brückler]] in anderer Sache bereits
+einen vergleichbaren Fall verhandelt hat. Dieser Umstand ist für die Strafbemessung im vorliegenden Verfahren
+jedoch nicht maßgeblich, weil jeder Fall nach seinen eigenen Umständen zu beurteilen ist.
+
 V. Strafbemessung
 
 Die Geldbuße wird unter Berücksichtigung der wirtschaftlichen Lage des Beschuldigten bemessen. Der Beschuldigte

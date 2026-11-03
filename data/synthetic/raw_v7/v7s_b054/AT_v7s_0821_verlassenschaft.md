@@ -1,0 +1,63 @@
+---
+doc_type: verlassenschaft
+jurisdiction: AT
+lang: de
+---
+Notariat
+[[person|Tressler]], [[person|Leikam]]
+[[address|Kirchmühlstraße 18, 8063 Höf-Präbach]]
+T: [[phone_number|+43-3842-9021921]]  F: [[phone_number|+43 316 488 76 28 DW 141]]
+E: [[email|office@tressler.at]]  W: www.tressler.at
+[[organization|Erste Bank der oesterreichischen Sparkassen AG]] IBAN: [[bank_account|AT90 4625 6676 8120 1980]] BIC: [[bank_account|SPIHAT22]]
+
+[[court|Bezirksgericht Judenburg]]
+Verlassenschaftsgericht
+GZ [[case_number|1 A 77/26 s]]
+
+Abhandlung der Verlassenschaft nach
+
+[[person|Phillip Steinegger]], geb. [[date_of_birth|12.07.1979]], zuletzt wohnhaft in [[location|St. Ruprecht an der Raab]], verstorben am [[date|10.10.2023]]
+
+Der Erblasser hat ein Testament vom [[date|03.03.2019]] hinterlassen, das vom [[court|BG Judenburg]] am [[date|18.10.2023]] eröffnet wurde. Der Gerichtskommissär [[lawyer|Mag. Leikam]] hat die Abhandlung übernommen.
+
+I. Erbberechtigte
+
+1. Erbin ist [[person|Gunda Strunz]], geb. [[date_of_birth|1997-12-03]], zu einem Erbteil von 2/3 aufgrund des Testaments.
+
+2. Erbin ist [[person|Helena
+Heinzle]],
+*[[date_of_birth|11.02.1961]],
+zu einem Erbteil von 1/3. [[person|Heinzle]] ist die Lebensgefährtin des Erblassers und
+hat die Erbschaft unbedingt angenommen.
+
+3. Vermächtnisnehmerin ist:
+Palm Eunike, geboren am [[date_of_birth|1988-12-21]], mit einem Geldvermächtnis von EUR 15.000,00.
+
+II. Gläubiger
+
+Gläubigerin ist [[person|Lida Boteva]], geboren am [[date_of_birth|10.10.1989]], mit einer Forderung aus einem Darlehen von EUR 8.700,00. Die Forderung wurde im Verlassenschaftsverfahren anerkannt und ist aus dem Nachlass zu befriedigen.
+
+III. Nachlassvermögen
+
+1. Liegenschaft [[land_register_id|KG: Grünau im Almtal]] / [[land_register_id|EZ 234]] ([[court|BG Judenburg]]); [[land_register_id|Gst-Nr. 704/30]], Wohnhaus mit Nebengebäude, geschätzter Verkehrswert EUR 189.000,00.
+
+2. Bankguthaben, IBAN [[bank_account|AT84 2751 0404 8588 9363]], Stand am Todestag EUR 11.240,10.
+
+3. Lebensversicherung bei der Versicherung, Kd.-Nr. [[other_identifier|889353]], Polizze [[other_identifier|29-5508055]], Auszahlungsbetrag EUR 6.100,00 abzüglich Steuer.
+
+4. Bausparguthaben, Kd.-Nr. [[other_identifier|572826]], Stand EUR 3.450,00.
+
+IV. Verbindlichkeiten und Abhandlungskosten
+
+Die Verbindlichkeiten des Verstorbenen betragen EUR 12.960,00. Die Begräbniskosten in Höhe von EUR 4.800,00 wurden von der Erbin [[person|Strunz]] vorgeschossen und sind vorrangig zu erstatten.
+
+Die Erbin [[person|Heinzle]] hat die Liegenschaft seit dem Tod des Erblassers verwaltet. Die Mieteinnahmen von EUR 430,00 monatlich sind auf das Verlassenschaftskonto zu überweisen.
+
+V. Ergebnis
+
+Der Gerichtskommissär wird nach Bezahlung der Abhandlungsgebühren den Einantwortungsbeschluss beim [[court|Bezirksgericht Judenburg]] beantragen. Die Erbin [[person|Strunz]] hat die Erbantrittserklärung am [[date|27.10.2026]] abgegeben.
+
+[[location|Höf-Präbach]], am [[date|02.11.2026]]
+
+[[lawyer|Mag. Leikam]]
+Gerichtskommissär

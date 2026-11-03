@@ -19,7 +19,7 @@ Anzeige erstattet: [[date|19.09.2026]], 17:55 Uhr
 
 Sachverhalt
 
-Am [[date|19.09.2026]] gegen 16:40 Uhr wurde die [[organization|Polizeiinspektion Abtenau]] über einen Verkehrsunfall im Bereich der Gschütt informiert. Die Beamtin [[person|Reichl]] und der Beamte [[person|Dobler]] begaben sich zur Unfallstelle und stellten einen Sachschaden an zwei Fahrzeugen sowie eine leicht verletzte Person fest. Die Einsatzstelle wurde bis 18:30 Uhr gesperrt, um die Spurenlage zu sichern, und danach mit einem Wechselverkehr geregelt. Ein Abschleppdienst wurde verständigt.
+Am [[date|19.09.2026]] gegen 16:40 Uhr wurde die [[organization|Polizeiinspektion Abtenau]] über einen Verkehrsunfall im Bereich der Gschütt informiert. Die Beamtin [[person|Reichl]] und der Beamte [[person|Dobler]] begaben sich zur Unfallstelle und stellten einen Sachschaden an zwei Fahrzeugen sowie eine leicht verletzte Person fest. Die Einsatzstelle wurde bis 18:30 Uhr gesperrt, um die Spurenlage zu sichern, und danach mit einem Wechselverkehr geregelt. Ein Abschleppdienst wurde verständigt. Der Lenker wurde gebeten, seine Fahrzeugpapiere und den Versicherungsnachweis vorzulegen, was er um 19:10 Uhr an der Dienststelle tat.
 
 Beteiligte Personen und Fahrzeuge
 
@@ -39,13 +39,13 @@ Vernehmung der Beteiligten
 
 Der Lenker [[person|Lippai]] gab an, er sei aus einer Linkskurve gekommen und habe den Radfahrer [[person|Thiersch]] aufgrund der Sichtverhältnisse zu spät bemerkt. Die Beifahrer [[person|Milinković]] bestätigte die Angaben des Lenkers, konnte jedoch keine Angaben zur Geschwindigkeit machen. Er gab außerdem an, er sei angegurtet gewesen und habe beim Aufprall keine Verletzungen erlitten. Eine ärztliche Untersuchung lehnte er ab.
 
-Der Radfahrer [[person|Thiersch]] erklärte, er sei auf dem rechten Fahrstreifen unterwegs gewesen und habe den Pkw erst im letzten Moment wahrgenommen. Er gab Schmerzen im linken Knie an und wurde vom Rettungsdienst versorgt. Telefonisch ist er unter [[phone_number|+43 664 1288 471]] erreichbar. Er trug einen Helm, der beim Sturz beschädigt wurde; die Schäden wurden fotografisch dokumentiert.
+Der Radfahrer [[person|Thiersch]] erklärte, er sei auf dem rechten Fahrstreifen unterwegs gewesen und habe den Pkw erst im letzten Moment wahrgenommen. Er gab Schmerzen im linken Knie an und wurde vom Rettungsdienst versorgt. Telefonisch ist er unter [[phone_number|+43 664 1288 471]] erreichbar. Er trug einen Helm, der beim Sturz beschädigt wurde; die Schäden wurden fotografisch dokumentiert. Laut Angaben des Rettungsdienstes erlitt er eine Prellung am linken Knie und Abschürfungen an beiden Unterarmen. Eine Röntgenuntersuchung wurde im Krankenhaus [[location|Salzburg]] durchgeführt, ein Bruch wurde nicht festgestellt.
 
 Der Zeuge [[person|Gligor]] hatte den Unfall von einem Parkplatz aus beobachtet und den Notruf gewählt. Er gab an, das Fahrzeug sei mit etwa 60 km/h unterwegs gewesen. Die Angaben des Zeugen [[person|Gligor]] wurden protokolliert, sein Ausweis wurde kopiert. Er konnte den Hergang nicht vollständig schildern, weil er den Radfahrer erst nach dem Zusammenstoß sah. Er gab an, er habe jedoch gehört, dass der Pkw kurz vorher gehupt habe.
 
 Feststellungen
 
-Die Spurenlage an der Unfallstelle weist auf einen Zusammenstoß im Bereich des rechten Fahrstreifens hin. Der Pkw trug Kratzspuren an der linken Fahrzeugseite und ein eingedrücktes Heck. Das Fahrrad war im Vorderbereich stark beschädigt. Die Verkehrszeichen im Bereich der Kurve waren vollständig sichtbar. Die Fahrbahn war an der Unfallstelle mit einer Sperrlinie versehen, die vom Lenker nicht überfahren wurde. Die Spurbreite beträgt an dieser Stelle etwa 5,20 Meter, sodass ein gleichzeitiges Passieren nur eingeschränkt möglich war. Eine Skizze der Unfallstelle ist dem Bericht als Beilage angeschlossen.
+Die Spurenlage an der Unfallstelle weist auf einen Zusammenstoß im Bereich des rechten Fahrstreifens hin. Die Reifenspuren des Pkw führten über die Mittellinie hinaus, was auf ein Ausweichmanöver hindeuten könnte. Die Bremsspuren ergaben eine Länge von elf Metern; die Auswertung dazu erfolgt im Gutachten. Der Pkw trug Kratzspuren an der linken Fahrzeugseite und ein eingedrücktes Heck. Das Fahrrad war im Vorderbereich stark beschädigt. Die Verkehrszeichen im Bereich der Kurve waren vollständig sichtbar. Die Fahrbahn war an der Unfallstelle mit einer Sperrlinie versehen, die vom Lenker nicht überfahren wurde. Die Spurbreite beträgt an dieser Stelle etwa 5,20 Meter, sodass ein gleichzeitiges Passieren nur eingeschränkt möglich war. Eine Skizze der Unfallstelle ist dem Bericht als Beilage angeschlossen.
 
 Der Beifahrer [[person|Milinković]] wies keine Verletzungen auf. Am Fahrzeug der Beifahrerseite wurde die Scheibe beschädigt; die Splitter wurden gesichert. Der Lenker [[person|Lippai]] war zum Unfallzeitpunkt nüchtern, ein Alkotest verlief negativ. Die Atemluftuntersuchung wurde um 17:20 Uhr mit einem geeichten Messgerät durchgeführt. Der Lenker zeigte keine Ausfallerscheinungen, und der Wert lag unter der Nachweisgrenze. Eine Fahrtauglichkeitsprüfung war nicht erforderlich.
 
@@ -55,7 +55,7 @@ Aufgrund der Beweislage ist davon auszugehen, dass der Lenker den Radfahrer beim
 
 Maßnahmen
 
-Die Unfallstelle wurde aufgenommen, Fotos wurden angefertigt und die Fahrzeuge wurden zur Begutachtung sichergestellt. Der Lenker wurde auf die Anzeigepflicht gegenüber seinem Haftpflichtversicherer hingewiesen.
+Die Unfallstelle wurde aufgenommen, Fotos wurden angefertigt und die Fahrzeuge wurden zur Begutachtung sichergestellt. Die Reifen des Pkw wurden vermessen; das Profil war mit 4,1 Millimetern ausreichend. Die Fahrzeugpapiere wurden mit den Angaben des Lenkers abgeglichen. Der Lenker wurde auf die Anzeigepflicht gegenüber seinem Haftpflichtversicherer hingewiesen.
 
 Die Beamtin [[person|Reichl]] übergab die Unterlagen am [[date|21.09.2026]] an die Staatsanwaltschaft. Ein Nachbericht folgt, sobald das Sachverständigengutachten vorliegt, das voraussichtlich am [[date|05.10.2026]] eingeht. Die Dienstnummern der einschreitenden Beamten sind in der Kopfzeile angegeben.
 

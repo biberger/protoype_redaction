@@ -91,9 +91,59 @@ Die Auszahlung vom [[date|15.01.2025]] ohne schriftliche Weisung ist ein schwerw
 Disziplinarrat sieht den Umstand, dass die Auszahlung nicht zurückgefordert wurde, als mildernd an. Dies
 ändert jedoch nichts an der Pflichtverletzung.
 
+Die Mandantin [[person|Ruth Ascher]] hat in ihrer Beschwerde geschildert, dass sie mehrere Monate lang keine
+Information über den Stand ihrer Angelegenheit erhalten habe. Erst nach der Anfrage der Kammer sei ihr eine
+Abrechnung übermittelt worden, die in mehreren Punkten von den Kontoauszügen abwich. Die Abweichungen betreffen
+Gebühren, die nicht vereinbart waren, sowie einen Betrag, der in der Abrechnung doppelt erschien. Die Beschuldigte
+hat die Abrechnung daraufhin korrigiert, ohne dies gegenüber der Mandantin schriftlich zu erläutern.
+
+Der Mandant [[person|Ivo Lamprecht]] hat zudem vorgebracht, dass er von der Beschuldigten nie über die Höhe des
+Treuhandkontos informiert wurde. Aus den Unterlagen ergibt sich, dass dem Mandanten im Jahr 2024 zumindest ein
+Kontoauszug übermittelt wurde, der jedoch die späteren Umbuchungen nicht enthielt.
+
+Die Richtlinien für die Ausübung des Rechtsanwaltsberufes verlangen, dass Treuhandgelder auf einem gesonderten
+Konto verwahrt und laufend in einem Treuhandbuch verzeichnet werden. Die Beschuldigte hat diese Vorgaben in
+mehreren Punkten nicht eingehalten. Ob die Kanzleiorganisation durch die Erkrankung der Mitarbeiterin erschwert
+war, ist für die Verantwortlichkeit der Beschuldigten als Kanzleiinhaberin nicht maßgeblich, weil die Pflicht
+zur Verbuchung unabhängig von der Personalsituation besteht.
+
 Die Pflichtverletzungen sind nicht als vorsätzlich zu werten, weil die Beschuldigte ihre Organisation offenbar
 nicht ausreichend kontrolliert hat. Der Senat hält eine Geldbuße für erforderlich, um die Bedeutung der
 Treuhandpflichten zu verdeutlichen.
+
+Zum Zahlungseingang vom [[date|12.04.2024]] hat die Beschuldigte angegeben, der Betrag sei zunächst auf dem
+Geschäftskonto eingegangen und erst später in das Treuhandkonto umgebucht worden. Die Kontoauszüge zeigen jedoch,
+dass der Betrag bereits am [[date|12.04.2024]] auf dem Treuhandkonto gutgeschrieben wurde. Die Übertragung in das
+Treuhandbuch erfolgte am [[date|03.05.2024]], also drei Wochen später. Der Senat sieht darin eine Verletzung der
+Verbuchungspflicht, auch wenn die Gelder jederzeit verfügbar waren.
+
+Die Kammer hat ferner geprüft, ob der Zahlungseingang vom [[date|07.11.2024]] zu einem späteren Zeitpunkt korrigiert
+wurde. Die Kontoauszüge zeigen, dass die Korrektur erst im Zuge der Prüfung durch die [[organization|RAK OÖ]] im
+Juni 2025 vorgenommen wurde. Die Beschuldigte hat dazu keine Erklärung abgegeben, die über den Hinweis auf die
+Erkrankung ihrer Mitarbeiterin hinausgeht.
+
+Ergänzende Erwägungen
+
+Der Senat hat sich mit der Frage befasst, ob die Auszahlung vom [[date|15.01.2025]] als vorsätzliche Handlung zu
+werten ist. Die Beschuldigte hat die Auszahlung selbst veranlasst und die Verbuchung bewusst unterlassen. Dass
+der Betrag der Mandantin [[person|Ascher]] tatsächlich zustand, war unstrittig. Dennoch ist nach den Feststellungen
+nicht erwiesen, dass die Beschuldigte die fehlende Weisung in der Absicht übergangen hat, sich selbst einen Vorteil
+zu verschaffen. Die Qualifikation als grobe Pflichtverletzung ist daher nicht gerechtfertigt.
+
+Der Kammeranwalt [[person|Hatto Puchner]] hat in seinem Antrag ausgeführt, dass die Organisation der Kanzlei
+insgesamt mangelhaft war. Er verwies auf die fehlenden Kontrollen und die unzureichende Dokumentation der
+telefonischen Kommunikation. Der Senat folgt diesem Vorbringen insoweit, als die Organisationspflichten des
+Rechtsanwalts verletzt wurden.
+
+Die Schriftführerin [[person|Antonette Kornberger]] hat die Verhandlung protokolliert und auf Verlangen der
+Beschuldigten die Angaben zur Kanzleiorganisation wörtlich festgehalten. Eine Abschrift wurde der Beschuldigten
+zugestellt.
+
+Zur Erkrankung der Kanzleimitarbeiterin hat die Beschuldigte eine ärztliche Bescheinigung vorgelegt, die einen
+Zeitraum von sechs Wochen im Herbst 2024 belegt. Der Senat hält diese Bescheinigung für glaubhaft, sieht darin
+aber keine Entschuldigung für die Verzögerung im Jahr 2024 insgesamt, weil die Verbuchung des Zahlungseingangs vom
+[[date|12.04.2024]] vor dem Erkrankungszeitraum liegt. Die Beschuldigte war in dieser Zeit selbst in der Kanzlei
+tätig, wie die Schriftsätze vom [[date|05.09.2024]] belegen.
 
 Strafbemessung
 

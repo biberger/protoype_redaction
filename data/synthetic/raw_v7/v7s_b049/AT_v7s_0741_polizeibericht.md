@@ -5,7 +5,7 @@ lang: de
 ---
 LANDESPOLIZEIDIREKTION STEIERMARK
 [[organization|POLIZEIINSPEKTION KAPFENBERG]]
-Grazer Straße 19, 8605 Kapfenberg
+[[address|Grazer Straße 19, 8605 Kapfenberg]]
 Tel. [[phone_number|+43 59 133 6132]]
 
 GZ: [[case_number|B3-2967/26]]
@@ -35,11 +35,21 @@ Nr. | Name | Geburtsdatum | Staatsangehörigkeit | Kennzeichen | Dokument
 4 | [[person|WIELTSCHNIG Rosaria]] | [[date_of_birth|07.06.1986]] | [[country|Österreich]] | – | –
 5 | [[person|BECK Dominica]] | [[date_of_birth|01.01.1964]] | nicht angegeben | – | FS [[id_document_number|X8943253]]
 
+Die Verkehrsfläche war zum Unfallzeitpunkt durch eine Baustelle eingeschränkt. Die Baufirma hatte an der Straßenseite Absperrgitter aufgestellt, die jedoch in einem Bereich von etwa 30 Metern fehlten. Die Beamten haben dies in der Unfallskizze vermerkt und die Gemeinde [[location|Kapfenberg]] am selben Tag verständigt.
+
+Herr [[person|Weltsch]] gab an, dass er wegen der Baustelle die Geschwindigkeit verringert habe. Sein Beifahrer war nicht anwesend. Er hat ein Foto der Verkehrssituation auf seinem Mobiltelefon gespeichert, das er auf Verlangen zur Verfügung stellte. Das Foto zeigt das vordere Fahrzeug mit eingeschalteten Warnblinkern, was die Angaben der Frau [[person|Beck]] stützt.
+
+Frau [[person|Vacenovská]] konnte sich nach dem Unfall zunächst nicht ausweisen, da sie ihre Dokumente im Fahrzeug vergessen hatte. Der Reisepass wurde am Folgetag nachgereicht. Sie ist nicht Eigentümerin des Fahrzeugs, sondern eine Freundin der Halterin, und hat die Fahrt auf Wunsch der Halterin übernommen.
+
+Herr [[person|Marić]] hat dem Beamten erklärt, dass er mit Frau [[person|Vacenovská]] befreundet sei und die Fahrt aus privaten Gründen mitgemacht habe. Er hat keine Verletzungen erlitten und wurde nach der Aufnahme ärztlich untersucht.
+
 Die Schadenhöhe am Fahrzeug des Herrn [[person|Weltsch]] wird vorläufig mit EUR 2.860,00 angegeben. Das Fahrzeug der Frau [[person|Vacenovská]] wies Schäden an der Front und am Kühler auf. Die Fotodokumentation ist diesem Bericht beigelegt.
 
 Die Frau [[person|Vacenovská]] gab bei der ersten Befragung an, das Bremslicht des vorderen Fahrzeuges nicht gesehen zu haben. Herr [[person|Marić]] bestätigte diese Aussage. Die Zeugin [[person|Beck]] hingegen erklärte, dass das vordere Fahrzeug bereits mehrere Sekunden vor dem Aufprall gestanden sei.
 
-Der Unfallbericht wurde durch die Beamten der Polizeiinspektion Kapfenberg aufgenommen. Die Verkehrsfläche wurde bis 09:10 Uhr gesperrt.
+Der Unfallbericht wurde durch die Beamten der [[organization|Polizeiinspektion Kapfenberg]] aufgenommen. Die Verkehrsfläche wurde bis 09:10 Uhr gesperrt.
+
+Die Beteiligten wurden über die Möglichkeit einer Unfallmeldung an ihre Versicherung belehrt. Frau [[person|Beck]] hat der Polizei ihre Kontaktdaten für weitere Rückfragen übergeben. Der Unfallbericht wird zusätzlich an die [[organization|Steier]] übermittelt, da das vordere Fahrzeug auf die Firma zugelassen ist. Die Ermittlungen zur Unfallursache sind mit dieser Anzeige abgeschlossen. Ein Alkotest wurde bei keinem der Beteiligten durchgeführt, da kein Anhaltspunkt für Alkoholeinfluss bestand. Die Kontrolle der Fahrzeugpapiere ergab keine Beanstandung. Die Lichtbilder sind dem Akt angeschlossen. Die Aufnahmen wurden digital gespeichert.
 
 Für die Polizeiinspektion:
 Insp. [[person|Gerold Tanzer]]
