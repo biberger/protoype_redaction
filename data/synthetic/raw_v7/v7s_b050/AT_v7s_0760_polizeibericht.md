@@ -45,19 +45,19 @@ Der Zeuge [[person|Gligor]] hatte den Unfall von einem Parkplatz aus beobachtet 
 
 Feststellungen
 
-Die Spurenlage an der Unfallstelle weist auf einen Zusammenstoß im Bereich des rechten Fahrstreifens hin. Die Reifenspuren des Pkw führten über die Mittellinie hinaus, was auf ein Ausweichmanöver hindeuten könnte. Die Bremsspuren ergaben eine Länge von elf Metern; die Auswertung dazu erfolgt im Gutachten. Der Pkw trug Kratzspuren an der linken Fahrzeugseite und ein eingedrücktes Heck. Das Fahrrad war im Vorderbereich stark beschädigt. Die Verkehrszeichen im Bereich der Kurve waren vollständig sichtbar. Die Fahrbahn war an der Unfallstelle mit einer Sperrlinie versehen, die vom Lenker nicht überfahren wurde. Die Spurbreite beträgt an dieser Stelle etwa 5,20 Meter, sodass ein gleichzeitiges Passieren nur eingeschränkt möglich war. Eine Skizze der Unfallstelle ist dem Bericht als Beilage angeschlossen.
+Die Spurenlage an der Unfallstelle weist auf einen Zusammenstoß im Bereich des rechten Fahrstreifens hin. Die Reifenspuren des Pkw führten über die Mittellinie hinaus, was auf ein Ausweichmanöver hindeuten könnte. Die Bremsspuren ergaben eine Länge von elf Metern; die Auswertung dazu erfolgt im Gutachten. Der Pkw trug Kratzspuren an der linken Fahrzeugseite und ein eingedrücktes Heck. Das Fahrrad war im Vorderbereich stark beschädigt. Die Verkehrszeichen im Bereich der Kurve waren vollständig sichtbar. Die Fahrbahn war an der Unfallstelle mit einer Sperrlinie versehen, die vom Lenker nicht überfahren wurde. Die Spurbreite beträgt an dieser Stelle etwa 5,20 Meter, sodass ein gleichzeitiges Passieren nur eingeschränkt möglich war. Eine Skizze der Unfallstelle ist dem Bericht als Beilage angeschlossen. Die Skizze wurde vor Ort mit dem Maßband erstellt und von beiden Beamten unterfertigt.
 
 Der Beifahrer [[person|Milinković]] wies keine Verletzungen auf. Am Fahrzeug der Beifahrerseite wurde die Scheibe beschädigt; die Splitter wurden gesichert. Der Lenker [[person|Lippai]] war zum Unfallzeitpunkt nüchtern, ein Alkotest verlief negativ. Die Atemluftuntersuchung wurde um 17:20 Uhr mit einem geeichten Messgerät durchgeführt. Der Lenker zeigte keine Ausfallerscheinungen, und der Wert lag unter der Nachweisgrenze. Eine Fahrtauglichkeitsprüfung war nicht erforderlich.
 
 Zusammenfassung
 
-Aufgrund der Beweislage ist davon auszugehen, dass der Lenker den Radfahrer beim Einfahren in die Kurve zu spät wahrgenommen hat. Ein Verschulden des Radfahrers ist nach den bisherigen Feststellungen nicht auszuschließen, weil er den rechten Fahrstreifen nicht vollständig freihielt. Die endgültige Beurteilung bleibt dem Gutachten vorbehalten.
+Aufgrund der Beweislage ist davon auszugehen, dass der Lenker den Radfahrer beim Einfahren in die Kurve zu spät wahrgenommen hat. Ein Verschulden des Radfahrers ist nach den bisherigen Feststellungen nicht auszuschließen, weil er den rechten Fahrstreifen nicht vollständig freihielt. Die endgültige Beurteilung bleibt dem Gutachten vorbehalten. Die Aussage des Zeugen [[person|Gligor]] zur Hupe ist dabei nur eingeschränkt verwertbar, weil er den Vorfall nicht unmittelbar beobachtete.
 
 Maßnahmen
 
-Die Unfallstelle wurde aufgenommen, Fotos wurden angefertigt und die Fahrzeuge wurden zur Begutachtung sichergestellt. Die Reifen des Pkw wurden vermessen; das Profil war mit 4,1 Millimetern ausreichend. Die Fahrzeugpapiere wurden mit den Angaben des Lenkers abgeglichen. Der Lenker wurde auf die Anzeigepflicht gegenüber seinem Haftpflichtversicherer hingewiesen.
+Die Unfallstelle wurde aufgenommen, Fotos wurden angefertigt und die Fahrzeuge wurden zur Begutachtung sichergestellt. Die Reifen des Pkw wurden vermessen; das Profil war mit 4,1 Millimetern ausreichend. Die Fahrzeugpapiere wurden mit den Angaben des Lenkers abgeglichen. Die Ladung des Kombis war ordnungsgemäß gesichert; es gab keine Hinweise auf eine Überladung oder lose Gegenstände im Innenraum. Der Lenker wurde auf die Anzeigepflicht gegenüber seinem Haftpflichtversicherer hingewiesen.
 
-Die Beamtin [[person|Reichl]] übergab die Unterlagen am [[date|21.09.2026]] an die Staatsanwaltschaft. Ein Nachbericht folgt, sobald das Sachverständigengutachten vorliegt, das voraussichtlich am [[date|05.10.2026]] eingeht. Die Dienstnummern der einschreitenden Beamten sind in der Kopfzeile angegeben.
+Die Beamtin [[person|Reichl]] übergab die Unterlagen am [[date|21.09.2026]] an die Staatsanwaltschaft. Ein Nachbericht folgt, sobald das Sachverständigengutachten vorliegt, das voraussichtlich am [[date|05.10.2026]] eingeht. Die Dienstnummern der einschreitenden Beamten sind in der Kopfzeile angegeben. Die Anzeige wurde am selben Tag um 17:55 Uhr in das Verfahrensregister eingetragen.
 
 [[location|Abtenau]], am [[date|19.09.2026]]
 

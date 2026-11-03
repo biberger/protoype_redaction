@@ -73,6 +73,9 @@ Gericht eingelangt ist, die Buchung in der Treuhandbuchhaltung jedoch fehlt.
 Der Beisitzer [[person|Alojz Mühl]] merkte an, dass die Beschuldigte ihre Buchhaltung ohne Hilfe führt und
 dies die Fehler möglicherweise erklärt. Die Schriftführerin hat die Stellungnahmen protokolliert.
 
+Die Gesellschafter der [[organization|Wodak Handels GmbH]] wurden als Zeugen gehört. Sie bestätigten übereinstimmend,
+dass keine Honorarvereinbarung getroffen wurde, die eine Entnahme vom Treuhandkonto gerechtfertigt hätte.
+
 4. Rechtliche Beurteilung
 
 Die Entnahme eines Honorars vom Treuhandkonto ohne Abrechnung und ohne Zustimmung des Mandanten verstößt

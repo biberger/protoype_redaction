@@ -11,7 +11,7 @@ Betreff: [[other_identifier|Král ./. Wuchinger]]; Schadennummer [[other_identif
 
 Sehr geehrter Herr Thome,
 
-wir vertreten Herrn [[person|Tonik Král]] in der Schadensangelegenheit vom [[date|14.05.2026]]. Die Schadennummer lautet [[other_identifier|24/287521/26]]. Die Haftung des Lenkers [[person|Wuchinger]] ist dem Grunde nach unbestritten, die Höhe des Schadens ist offen.
+wir vertreten Herrn [[person|Tonik Král]] in der Schadensangelegenheit vom [[date|14.05.2026]]. Die Schadennummer lautet [[other_identifier|24/287521/26]]. Die Haftung des Lenkers [[person|Wuchinger]] ist dem Grunde nach unbestritten, die Höhe des Schadens ist offen. Unser Mandant hat einen Schmerzengeldanspruch, der nach den Verletzungen und der Dauer der Heilbehandlung zu bemessen ist.
 
 Die Klage ist beim [[court|Landesgericht für Zivilrechtssachen Wien]] anhängig. GZ der Kanzlei: [[other_identifier|BSA-BSAKrál/Peter]]. Wir ersuchen um Bekanntgabe, ob die [[organization|Pielachtal Versicherung AG]] ([[organization|PVA]]) die Deckung übernimmt.
 
@@ -68,6 +68,22 @@ Gesendet: Di, [[date|30.06.2026]] 19:41
 An: [[person|Edvige Pühringer]] <[[email|edvige.puehringer@eckel.at]]>
 Betreff: Unfall
 
-liebe frau pühringer,
-die [[person|Fotini Theodosiadis]], geb [[date_of_birth|1. Februar 1965]], war Beifahrerin und ist Zeugin. sie hat den unfall am 14.05. gesehen, die ampel war rot für den wagen von herrn [[person|wuchinger]].
+liebe frau [[person|pühringer]],
+die [[person|Fotini Theodosiadis]], geb [[date_of_birth|1. Februar 1965]], war Beifahrerin und ist Zeugin. sie hat den unfall am [[date|14.05.]] gesehen, die ampel war rot für den wagen von herrn [[person|wuchinger]].
 lg tonik [[person|Král]]
+
+Von: [[person|Edvige Pühringer]] <[[email|edvige.puehringer@eckel.at]]>
+Gesendet: Mi, [[date|01.07.2026]] 12:20
+An: [[person|Tonik Král]] <[[email|tonik.kral@kral-mail.at]]>
+Betreff: AW: Unfall
+
+Sehr geehrter Herr [[person|Král]],
+
+danke für Ihre Nachricht. Bitte senden Sie uns das Unfallprotokoll und die Fotos vom [[date|14.05.2026]] bis Freitag. Frau [[person|Theodosiadis]] wird als Zeugin in einer schriftlichen Erklärung festgehalten; wir ersuchen um ihre Telefonnummer und die Anschrift.
+
+Die Heilbehandlungskosten belaufen sich bisher auf EUR 2.315,40, der Verdienstentgang auf EUR 4.800,--. Diese Beträge werden in der Klage geltend gemacht.
+
+Mit freundlichen Grüßen
+
+[[person|Edvige Pühringer]]
+Rechtsanwälte GmbH

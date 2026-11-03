@@ -62,6 +62,14 @@ VI. Grunderwerbsteuer und Gebühren
 
 Die Grunderwerbsteuer beträgt nach [[legal_norm|§ 7 Z 1 GrEStG]] bei dem vereinbarten Wert 3,5 % und wird von der Käuferin getragen. Die Eintragungsgebühr nach dem [[legal_norm|GebG]] wird ebenfalls von der Käuferin getragen.
 
+VI a. Vorgeschichte
+
+Die Käuferin hat dem Verkäufer am [[date|14.07.2026]] ein schriftliches Kaufanbot übermittelt, das der Verkäufer am [[date|29.07.2026]] angenommen hat. Das Anbot sah einen Kaufpreis von EUR 271.000,00 vor. Der Kaufpreis wurde um EUR 7.000,00 gemindert, weil ein Nebengebäude auf dem Grundstück vor der Übergabe auf Kosten der Käuferin abgetragen wird. Ein Kostenvoranschlag der Abbruchfirma wurde am [[date|21.08.2026]] vorgelegt.
+
+Ein Vorvertrag zwischen den Parteien bestand nicht. Die Kanzlei wurde am [[date|01.09.2026]] mit der Erstellung dieses Vertrages beauftragt. Der Verkäufer hat den Entwurf am [[date|04.09.2026]] erhalten und mit Anmerkungen zurückgesandt, die in die Endfassung eingearbeitet wurden.
+
+Die Käuferin hat in einem Schreiben vom [[date|05.09.2026]] bestätigt, dass sie die Lage der Liegenschaft, das Ortsbild und die Zufahrt zur Straße ohne Vorbehalte akzeptiert.
+
 VII. Schlussbestimmungen
 
 Dieser Vertrag bedarf zu seiner Gültigkeit der Schriftform. Nebenabreden bestehen nicht. Die Parteien erklären, dass die Vertragsbestimmungen nach eingehender Belehrung durch die Kanzlei verstanden wurden.

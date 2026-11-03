@@ -63,7 +63,7 @@ Am [[date|21.10.2026]] um 09:15 schrieb [[person|Felte Gady]]:
 > Mandantin ist bereit, die Zufahrt in [[location|St. Gilgen]] bis [[date|31.12.2026]] herzustellen, wenn die
 > [[organization|Klapsia GmbH]] auf weitere Ansprüche verzichtet.
 >
-> Die Mandantin hat zudem zugesagt, die Kosten für die Bodenuntersuchung zu tragen, sofern die Klapsia GmbH den
+> Die Mandantin hat zudem zugesagt, die Kosten für die Bodenuntersuchung zu tragen, sofern die [[organization|Klapsia GmbH]] den
 > Vergleich bis zum [[date|15.11.2026]] annimmt. Eine schriftliche Erklärung dazu liegt bei.
 >
 > > Am [[date|19.10.2026]] schrieb [[person|Helvi Posselt]]:

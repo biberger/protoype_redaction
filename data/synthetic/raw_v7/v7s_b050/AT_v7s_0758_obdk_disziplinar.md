@@ -46,7 +46,7 @@ DATUM        VORGANG                        BETRAG IN EUR     MANDANT / VERWEIS
 
 Der Restbetrag von 3.200 Euro blieb auf dem Treuhandkonto, dessen IBAN [[bank_account|AT63 6498 5615 8473 0892]] lautet, bis zum [[date|18.12.2025]] stehen, bevor er an den Mandanten [[person|Banjac]] überwiesen wurde.
 
-Die Auszahlung vom [[date|6. Juni 2025]] an eine Dritte erfolgte ohne schriftliche Weisung des Mandanten [[person|Banjac]]. Die Dritte ist eine Subunternehmerin der [[organization|Geroldinger]] und stand zu dieser in keiner vertraglichen Beziehung zum Mandanten. Die Kanzlei hatte den Betrag daher ohne jede Grundlage weitergeleitet. Die Beschuldigte [[lawyer|Friedle]] führte an, sie habe mit dem Mandanten [[person|Banjac]] telefonisch vereinbart, einen Teil des Betrags zur Begleichung einer Forderung des Subunternehmers zu verwenden. Der Mandant bestritt dies.
+Die Auszahlung vom [[date|6. Juni 2025]] an eine Dritte erfolgte ohne schriftliche Weisung des Mandanten [[person|Banjac]]. Die Dritte ist eine Subunternehmerin der [[organization|Geroldinger]] und stand zu dieser in keiner vertraglichen Beziehung zum Mandanten. Die Kanzlei hatte den Betrag daher ohne jede Grundlage weitergeleitet. Eine nachträgliche Genehmigung durch den Mandanten lag bis zum Ende der Verhandlung nicht vor. Die Beschuldigte [[lawyer|Friedle]] führte an, sie habe mit dem Mandanten [[person|Banjac]] telefonisch vereinbart, einen Teil des Betrags zur Begleichung einer Forderung des Subunternehmers zu verwenden. Der Mandant bestritt dies.
 
 3. Beweiswürdigung
 

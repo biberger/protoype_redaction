@@ -105,6 +105,11 @@ nach dem Nachlass der Erblasserin. Die Verlassenschaftsabhandlung wird nach Vorl
 fortgesetzt. Die Erbschaftssteuer ist nach der derzeit gültigen Rechtslage nicht zu entrichten, weil es sich
 um Nachkommen handelt.
 
+Die Erben wurden darauf hingewiesen, dass die Einantwortung erst nach Vorlage aller Nachweise über die Schulden und
+die Bestattungskosten erfolgt. Die Rechnung des Bestattungsinstituts über EUR 4.850,00 wurde von der Erbin
+[[person|Faludy]] vorgelegt und ist im Verzeichnis berücksichtigt. Die Vorlage des Totenscheins vom [[date|11.05.2026]]
+wurde dem Gericht bestätigt.
+
 Die Einantwortung erfolgt nach Abschluss der Abhandlung durch das [[court|BG Bludenz]]. Die Erbin
 [[person|Tuba]] hat die Lichtbilder der Liegenschaft zu den Akten gereicht.
 

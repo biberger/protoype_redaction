@@ -39,7 +39,7 @@ Am [[date|14.07.2025]] wurde der Kaufpreis von 212.000 Euro auf das Treuhandkont
 
 Der Restbetrag von 32.000 Euro wurde erst am [[date|5. November 2025]] an den Mandanten [[person|Francavilla]] ausbezahlt. Der Mandant musste daher mehrere Monate auf den Restbetrag warten.
 
-Der Beschuldigte [[lawyer|Bates]] verteidigte sich damit, dass er mit dem Mandanten [[person|Francavilla]] telefonisch vereinbart habe, die Zahlung vorzuziehen, um die Vertragsabwicklung zu beschleunigen. Der Mandant bestritt dies.
+Der Beschuldigte [[lawyer|Bates]] verteidigte sich damit, dass er mit dem Mandanten [[person|Francavilla]] telefonisch vereinbart habe, die Zahlung vorzuziehen, um die Vertragsabwicklung zu beschleunigen. Der Mandant bestritt dies. Er gab außerdem an, er habe den Restbetrag erst nach mehrmaligem Nachfragen erhalten.
 
 3. Beweiswürdigung
 

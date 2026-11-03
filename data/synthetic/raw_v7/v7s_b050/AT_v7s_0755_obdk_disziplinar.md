@@ -52,7 +52,7 @@ Die Beschuldigte [[lawyer|Hundstorfer]] hat gegen [[legal_norm|§ 43a Abs 3 RAO]
 
 4. Strafbemessung
 
-Mildernd wirkte die nachträgliche Rechnungslegung und die bisherige Unbescholtenheit. Erschwerend war die Dauer des Verstoßes. Der Disziplinarrat sieht eine Geldbuße von 2.500 Euro als angemessen an. Die Beisitzer waren sich einig, dass die Geldbuße zugleich eine generalpräventive Wirkung für andere Mitglieder der Kammer entfalten soll.
+Mildernd wirkte die nachträgliche Rechnungslegung und die bisherige Unbescholtenheit. Erschwerend war die Dauer des Verstoßes. Der Disziplinarrat sieht eine Geldbuße von 2.500 Euro als angemessen an. Die Beisitzer waren sich einig, dass die Geldbuße zugleich eine generalpräventive Wirkung für andere Mitglieder der Kammer entfalten soll. Der Senat hielt eine Veröffentlichung des Erkenntnisses in anonymisierter Form für geboten, um die übrigen Kammermitglieder zu sensibilisieren.
 
 Die Beisitzer [[judge|Kaltenböck]] und [[judge|Steinberg]] stimmten dem Spruch einstimmig zu.
 
