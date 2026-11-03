@@ -1,0 +1,51 @@
+---
+doc_type: verlassenschaft
+jurisdiction: AT
+lang: de
+---
+Notariat
+[[person|Feigl]], [[person|Hirschmann]]
+[[address|Sternwaldstraße 31, 3125 Statzendorf]]
+T: [[phone_number|02742/5772381]]  F: [[phone_number|+43 2732 574 83 36-4]]
+E: [[email|office@feigl.at]]  W: www.feigl.at
+UID: [[tax_id|ATU65762837]]
+[[organization|Raiffeisenbank Region Statzendorf eGen]] IBAN: [[bank_account|AT41 6763 0158 7947 7698]] BIC: [[bank_account|OBKLAT2L]]
+
+GZ: [[case_number|2 A 41/26 y]]
+
+[[court|Bezirksgericht Schwaz]]
+
+Verlassenschaft nach Reimunde Beer
+
+Der Notar [[person|Feigl]] hat als gerichtlicher Verlassenschaftskommissär im Verlassenschaftsverfahren nach der am [[date|19.05.2016]] verstorbenen Erblasserin, Reimunde Beer, GEB: [[date_of_birth|19. Mai 1965]], zuletzt wohnhaft in [[address|4820 Bad Ischl]], folgende Feststellungen getroffen. Die Verlassenschaft wurde beim [[court|BG Schwaz]] anhängig gemacht, nachdem das Testament vom [[date|03.11.2025]] aufgefunden worden war.
+
+Die Erblasserin hat keinen Ehegatten hinterlassen. Ihre Mutter ist vorverstorben.
+
+Die Erbinnen und Erben stellen sich wie folgt dar:
+
+1. Tjeerdsma Silvy, geb. [[date_of_birth|1983-03-11]], wohnhaft in [[address|4820 Bad Ischl]], Erbin zu einem Viertel aufgrund des Testaments. SV-Nr.: [[social_security_number|3448 110383]]
+2. Zaharie Stolojan, wohnhaft in [[address|4820 Bad Ischl]], Erbe zu einem Viertel aufgrund des Testaments.
+3. Die Hälfte des Nachlasses geht an die Erbengemeinschaft der Nichten und Neffen nach Maßgabe des gesetzlichen Erbrechts; diese Erbquote wird von [[person|Tjeerdsma]] und [[person|Stolojan]] gemeinsam vertreten.
+
+Der Nachlass umfasst unter anderem folgende Vermögenswerte:
+
+Grundbesitz: Liegenschaft [[land_register_id|EZ3269]] [[land_register_id|KG: 64963 Wängle]], Grundstück [[land_register_id|1151]], im Ausmaß von 1.240 m².
+
+Grundbuch [[land_register_id|67708 Wals-Siezenheim]], [[land_register_id|EZ 1258]], Wohnung top 4 in einem Mehrparteienhaus.
+
+Bankguthaben: Girokonto IBAN [[bank_account|AT93 3390 2241 5609 7070]], Guthaben zum Todestag EUR 14.382,17.
+
+Versicherung: Lebensversicherung mit Vertragsnummer [[other_identifier|V-2022-81722]] und Polizzen-Nr. [[other_identifier|61-8644927]]; Begünstigte ist [[person|Silvy Tjeerdsma]] geb. [[date_of_birth|1983-03-11]].
+
+Gläubiger des Nachlasses ist [[person|Theodebald Holzmair]], geboren am [[date_of_birth|18. Jänner 1941]], wohnhaft in [[location|St. Veit an der Glan]]. Seine Forderung aus einem Darlehen vom [[date|14.08.2019]] beträgt EUR 6.000,00 samt Zinsen.
+
+Die Erbantrittserklärungen wurden am [[date|12.03.2026]] abgegeben. Die Erben haben die Inventarfrist eingehalten. Ein Inventar wurde am [[date|22.04.2026]] errichtet.
+
+Der Notar hat die Erben über die Haftungsbeschränkung nach den Vorschriften des Erbrechts belehrt. Die Erben erklärten, die Verlassenschaft bedingt abgeben zu wollen, soweit die Forderung des Gläubigers nicht vollständig gedeckt ist.
+
+Die Einantwortung erfolgt nach Ablauf der Fristen. Der Notar wird den Erben die Urkunde nach Vorlage der Abgabenbestätigung übermitteln.
+
+Ausgefertigt am [[date|30.09.2026]] in [[location|Statzendorf]].
+
+[[person|Feigl]]
+Notar
