@@ -49,11 +49,27 @@ IBAN: [[bank_account|AT77 5013 1144 0828 8139]]
 
 9. Die Mieterin erlegt eine Kaution in der dreifachen Höhe des Hauptmietzinses, somit EUR 2.137,20. Die Kaution ist auf das Konto der Vermieterin zu überweisen und vor Übergabe zu bezahlen. Die Kaution wird nach [[legal_norm|§ 16 Abs 4 MRG]] verzinst.
 
-**V. Schlussbestimmungen**
+**V. Betriebskosten, Erhaltung und Hausordnung**
 
-10. Änderungen und Ergänzungen dieses Vertrags bedürfen der Schriftform. Mündliche Nebenabreden bestehen nicht.
+12. Die Betriebskosten umfassen die Kosten der Wasserversorgung, der Müllabfuhr, der Hausbetreuung, der Versicherung des Gebäudes und der allgemeinen Stromversorgung im Stiegenhaus. Die Vermieterin rechnet die Betriebskosten jährlich bis zum 30. Juni des Folgejahres ab. Die Abrechnung ist der Mieterin innerhalb der gesetzlichen Frist zu übermitteln.
 
-11. Die Mieterin nimmt zur Kenntnis, dass die Vermieterin Unterlagen über den Mietgegenstand in den Grundbuchsauszügen der Liegenschaft einsieht. Die Parteien erklären, dass sie den Vertrag gelesen und verstanden haben.
+13. Die Mieterin hat kleinere Instandhaltungsarbeiten in der Wohnung auf eigene Kosten durchzuführen, insbesondere das Auswechseln von Glühbirnen, das Entkalken der Armaturen und die Wartung der Heizkörperventile. Größere Reparaturen, insbesondere an Dach, Fassade, Leitungen und Heizungsanlage, trägt die Vermieterin. Die Mieterin hat Schäden, die ihr bekannt werden, unverzüglich anzuzeigen.
+
+14. Die Hausordnung ist Bestandteil dieses Vertrags. Sie enthält insbesondere Bestimmungen über die Ruhezeiten, die Benützung des Waschraums und das Abstellen von Fahrrädern im Hof. Haustiere sind nur mit schriftlicher Zustimmung der Vermieterin zulässig.
+
+15. Die Mieterin ist berechtigt, die Wohnung im Rahmen des Mietrechts unterzuvermieten, sofern sie die Zustimmung der Vermieterin einholt. Der Mietgegenstand ist nicht für gewerbliche Zwecke bestimmt.
+
+**VI. Übergabe und Schlüssel**
+
+16. Die Übergabe der Wohnung erfolgt am [[date|1. Dezember 2026]] um 10:00 Uhr. Die Vermieterin übergibt drei Wohnungsschlüssel, zwei Schlüssel für das Haustor und einen Schlüssel für den Kellerraum. Das Übergabeprotokoll wird von beiden Parteien unterfertigt.
+
+17. Die Vermieterin hat den Zählerstand für Strom, Gas und Wasser am Übergabetag protokolliert. Die Zählernummern sind im Übergabeprotokoll festgehalten.
+
+**VII. Schlussbestimmungen**
+
+18. Änderungen und Ergänzungen dieses Vertrags bedürfen der Schriftform. Mündliche Nebenabreden bestehen nicht.
+
+19. Die Mieterin nimmt zur Kenntnis, dass die Vermieterin Unterlagen über den Mietgegenstand in den Grundbuchsauszügen der Liegenschaft einsieht. Die Parteien erklären, dass sie den Vertrag gelesen und verstanden haben.
 
 Ort und Datum: [[address|2224 Sulz im Weinviertel]], am [[date|14. November 2026]]
 

@@ -62,6 +62,8 @@ II. Kaufpreis
 
 (5) Verzugszinsen im gesetzlichen Ausmaß fallen an, wenn der Restkaufpreis nicht binnen der vereinbarten Frist bei den Treuhändern einlangt. Eine Mahnung ist nicht erforderlich.
 
+(6) Die Parteien vereinbaren, dass der Kaufpreis auf die beiden Liegenschaften im Verhältnis der Grundstücksflächen aufgeteilt wird. Die Aufteilung ist für die Grunderwerbsteuer maßgeblich und wird als Anlage ./1 beigefügt. Eine Änderung der Aufteilung nach Vertragsabschluss ist nur mit Zustimmung beider Vertragsteile möglich.
+
 III. Treuhand
 
 (1) Die Abwicklung dieses Vertrags erfolgt über die Treuhandschaft der Kanzlei [[lawyer|Frieser]] und [[lawyer|Nitsch]] unter der TH-Nr. [[other_identifier|2026/878]]. Die Treuhänder sind verpflichtet, den Kaufpreis erst nach Vorliegen der Lastenfreistellung und der Eintragung der Rangordnung für die Veräußerung auszuzahlen.
@@ -88,9 +90,21 @@ V. Übergabe, Gewährleistung und Nutzen
 
 (3) Die [[organization|Berghold]] verpflichtet sich, bis zur Übergabe keine Bauvorhaben zu beginnen und keine Verträge mit Dritten abzuschließen, die die Liegenschaften länger als ein Jahr binden.
 
+(5) Die Verkäuferin gestattet den Käufern die Einsicht in die Baupläne und Bewilligungen, soweit diese bei ihr vorhanden sind. Eine Haftung für die Richtigkeit dieser Unterlagen übernimmt die Verkäuferin nicht, da sie die Pläne von der Vorbesitzerin übernommen hat und selbst nicht geprüft hat.
+
 (4) Ein Rücktritt vom Vertrag ist nur zulässig, wenn die Lastenfreistellung bis zum [[date|30. April 2026]] nicht erfolgt ist. Im Falle des Rücktritts ist das Vadium zurückzuzahlen, wobei die Kosten der Urkunde von der Verkäuferin zu tragen sind.
 
-VI. Schlussbestimmungen
+VI. Zusatzvereinbarungen
+
+(1) Die Käufer erklären, dass sie die Liegenschaft zu Wohnzwecken erwerben und keine gewerbliche Nutzung beabsichtigen. Eine Bebauung der Grundstücke ist nur nach Maßgabe der örtlichen Bauordnung zulässig. Die Käufer haben sich über die Widmung der Grundstücke bei der Gemeinde informiert.
+
+(2) Die Verkäuferin verpflichtet sich, die Wasser- und Abwassergebühren bis zum Stichtag der Übergabe zu bezahlen. Die laufenden Gebühren ab dem Übergabetag tragen die Käufer. Die Vertragsteile halten fest, dass für die Abrechnung der Gebühren der Zählerstand am Übergabetag maßgeblich ist.
+
+(3) Für den Fall, dass die Grundbuchseintragung wegen fehlender Unterlagen verzögert wird, verpflichtet sich die Verkäuferin, diese Unterlagen binnen vier Wochen nachzureichen. Die Treuhänder sind ermächtigt, die dafür notwendigen Kosten vom Vadium einzubehalten.
+
+(4) Die Käufer nehmen zur Kenntnis, dass die Verkäuferin Ansprüche aus einer früheren Pacht nicht geltend macht. Die Pachtrechte sind erloschen, sofern sie nicht im Grundbuch angemerkt sind.
+
+VII. Schlussbestimmungen
 
 (1) Änderungen und Ergänzungen dieses Vertrags bedürfen zu ihrer Gültigkeit der Schriftform. Dies gilt auch für das Abgehen von diesem Schriftformerfordernis.
 
@@ -100,7 +114,7 @@ VI. Schlussbestimmungen
 
 (4) Die Kosten einer allfälligen Vertragsänderung trägt jene Vertragspartei, die sie veranlasst hat.
 
-Wildschönau, am [[date|14. März 2026]]
+[[location|Wildschönau]], am [[date|14. März 2026]]
 
 Für die Verkäuferin:
 

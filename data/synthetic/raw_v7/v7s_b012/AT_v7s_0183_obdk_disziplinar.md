@@ -9,7 +9,7 @@ Zl. [[case_number|D 9/2026]]
 
 IM NAMEN DER REPUBLIK
 
-Der Disziplinarrat der Oberösterreichischen Rechtsanwaltskammer hat durch die Vorsitzende [[judge|Dr. Juline Weinek]] als Senatsvorsitzende sowie die Beisitzer [[judge|Dr. Korinna Janković]] und [[judge|Meint Jacobs]] in Anwesenheit der Kammeranwältin [[person|Mag. Dušanka Heřmanová]] und der Schriftführerin [[person|Eleonore Prunner]], geb. [[date_of_birth|01.08.1997]], über die Disziplinarsache gegen [[lawyer|Mag. Dr. Jolanta Krieger]], Rechtsanwältin in [[location|Linz]], nach öffentlicher mündlicher Verhandlung am [[date|14. April 2026]] zu Recht erkannt:
+Der [[court|Disziplinarrat der Oberösterreichischen Rechtsanwaltskammer]] hat durch die Vorsitzende [[judge|Dr. Juline Weinek]] als Senatsvorsitzende sowie die Beisitzer [[judge|Dr. Korinna Janković]] und [[judge|Meint Jacobs]] in Anwesenheit der Kammeranwältin [[person|Mag. Dušanka Heřmanová]] und der Schriftführerin [[person|Eleonore Prunner]], geb. [[date_of_birth|01.08.1997]], über die Disziplinarsache gegen [[lawyer|Mag. Dr. Jolanta Krieger]], Rechtsanwältin in [[location|Linz]], nach öffentlicher mündlicher Verhandlung am [[date|14. April 2026]] zu Recht erkannt:
 
 Spruch
 
@@ -33,11 +33,17 @@ II. Feststellungen
 
 3. Am [[date|04.09.2024]] folgte eine weitere Auszahlung von EUR 7.100,00 an die Mandantin selbst. Der Restbetrag von EUR 5.200,00 stand zum Zeitpunkt der Beendigung des Mandats am [[date|30.11.2024]] nicht mehr zur Verfügung.
 
-4. Die Treuhandbuch-Eintragung für die Angelegenheit trägt die Nr. [[other_identifier|2026/376]]; die Eintragungen wurden von der Beschuldigten erst nach dem Hinweis der Kammer nachgetragen.
+4. Im Treuhandbuch ist die Angelegenheit unter der Treuhandbuch-Nr. [[other_identifier|2026/376]] eingetragen; die Eintragungen wurden von der Beschuldigten erst nach dem Hinweis der Kammer nachgetragen.
 
 5. Die Beschuldigte hat die Mandantin über die Auszahlung vom [[date|21.05.2024]] nicht informiert. Eine schriftliche Zustimmung der Mandantin liegt nicht vor.
 
 6. Die Beschuldigte betreibt ihre Kanzlei in [[location|Linz]] mit zwei Mitarbeiterinnen. Das Treuhandkonto wird seit dem Jahr 2019 geführt und war bis zum Jahr 2024 nicht Gegenstand einer Prüfung durch die Kammer.
+
+7. Die Beschuldigte hat im Jahr 2024 zusätzlich eine Vollmacht für die Mandantin im Verfahren über die Einziehung einer Mietforderung errichtet. Die Mietforderung wurde am [[date|18.07.2024]] vom Schuldner vollständig bezahlt; der Betrag von EUR 2.750,00 ist auf das Treuhandkonto eingegangen und wurde erst am [[date|27.08.2024]] an die Mandantin weitergeleitet, nachdem die Beschuldigte zwei Mal zur Herausgabe aufgefordert worden war.
+
+8. Die Mandantin hat die Beschuldigte mit Schreiben vom [[date|10.12.2024]] aufgefordert, eine Abrechnung über alle Vorgänge auf dem Treuhandkonto vorzulegen. Die Abrechnung ist nie vollständig vorgelegt worden. Die Beschuldigte hat lediglich eine Liste mit Beträgen übermittelt, die keine Belegnummern und keine Verwendungszwecke enthielt.
+
+9. Im Treuhandbuch fehlt für die Zeit vom [[date|1.03.2025]] bis zum [[date|31.03.2025]] jede Eintragung, obwohl in diesem Zeitraum drei Zahlungen über das Treuhandkonto abgewickelt wurden. Die Beschuldigte hat dies mit einer Erkrankung und einem Ausfall der Kanzleisoftware begründet. Eine ärztliche Bestätigung oder ein Nachweis über den Ausfall liegt nicht vor.
 
 III. Beweiswürdigung
 
@@ -45,7 +51,7 @@ Der Senat stützt sich auf die Kontoauszüge, auf das Treuhandbuch und auf die A
 
 Die Vernehmung der Zeugin [[person|Mag. Ulla Ruetz]], Kanzleikraft der Beschuldigten, hat ergeben, dass die Belege nachträglich erstellt wurden. Die Zeugin hat dies in der Verhandlung eingeräumt. Sie gab an, die Beschuldigte habe die Auszahlung vom [[date|04.09.2024]] persönlich angewiesen und die Buchung erst am [[date|10.09.2024]] erfasst.
 
-Die Beschuldigte hat in der Verhandlung am [[date|14. April 2026]] angegeben, sie habe die Helmer GmbH mit einer Recherche beauftragt. Ein schriftlicher Auftrag oder eine Rechnung der Helmer GmbH liegt nicht vor.
+Die Beschuldigte hat in der Verhandlung am [[date|14. April 2026]] angegeben, sie habe die [[organization|Helmer GmbH]] mit einer Recherche beauftragt. Ein schriftlicher Auftrag oder eine Rechnung der [[organization|Helmer GmbH]] liegt nicht vor.
 
 IV. Rechtliche Beurteilung
 
@@ -56,6 +62,10 @@ Ein Verstoß gegen die Pflicht zur ordnungsgemäßen Führung des Treuhandkontos
 Bei der Strafbemessung war zu berücksichtigen, dass die Beschuldigte bisher disziplinär unbescholten ist und den Schaden in der Zwischenzeit ausgeglichen hat. Erschwerend wirkt die lange Dauer der Verschleierung. Die Strafe bemisst sich nach [[legal_norm|§ 46 RAO]]. Die Verhängung einer Geldbuße ist ausreichend, um die Beschuldigte von künftigen Pflichtverletzungen abzuhalten.
 
 Die Verfahrensrüge auf Verletzung des [[legal_norm|Art. 6 EMRK]] wurde geprüft. Ein faires Verfahren war gewährleistet, weil die Beschuldigte Akteneinsicht erhielt und sich in der Verhandlung durch einen Vertreter verteidigen ließ.
+
+Die Beschuldigte hat im Verfahren erklärt, sie sei durch die Trennung von ihrem Ehemann in der Zeit von 2024 bis 2025 erheblich belastet gewesen. Der Senat hat diese Angaben berücksichtigt. Sie können die Verletzung der Pflichten jedoch nicht rechtfertigen, weil die Verwahrung von Klientengeld eine ständige Pflicht ist, die auch in Krisenzeiten ordnungsgemäß zu erfüllen ist. Eine Organisation der Kanzlei, die Vertretung durch eine Kollegin oder die Information der Kammer wären möglich gewesen.
+
+Auch die Behauptung der Beschuldigten, das Treuhandbuch sei von der Kanzleikraft geführt worden, entlastet sie nicht. Die Verantwortung für die ordnungsgemäße Führung trifft den Rechtsanwalt persönlich, und zwar unabhängig davon, wer die Eintragungen tatsächlich vornimmt. Der Senat sieht die Verletzungen daher als der Beschuldigten zurechenbar an.
 
 V. Kosten
 

@@ -51,9 +51,17 @@ III. Rechtliche Ausführungen
 
 7. Die Klägerin ersucht [[court|BG Neunkirchen]] um Anberaumung einer Tagsatzung und um Aufnahme der beigelegten Urkunden.
 
+8. Die Beklagte hat die Zahlung der Sanierungskosten trotz zweimaliger Mahnung verweigert. Die Klägerin hat die Heizungsanlage am [[date|12.08.2025]] durch die Installationsfirma erneuern lassen; die Rechnung ist als Beilage ./C angeschlossen.
+
+9. Die Klage ist innerhalb der dreijährigen Frist nach [[legal_norm|§ 1489 ABGB]] eingebracht. Der Schaden wurde erst im Herbst 2025 festgestellt, als die Anlage endgültig ausfiel.
+
 IV. Beweise
 
 Die Klägerin beantragt die Einvernahme der Beklagten als Partei sowie die Vernehmung der Zeugin [[person|Ruzica Gerstl]] zum Zustand der Anlage.
+
+V. Kosten
+
+10. Die Klägerin begehrt den Ersatz der Verfahrenskosten nach [[legal_norm|§ 41 Abs 1 ZPO]]. Die Pauschalgebühr wurde entrichtet und ist durch die elektronische Zahlungsbestätigung belegt.
 
 Beilagen:
 ./A Kaufvertrag vom [[date|03.04.2025]]

@@ -56,11 +56,21 @@ Der Beschuldigte hat den Klienten [[person|Sabri Kocaoğlu]] mit Schreiben vom [
 
 Der Senat stützt die Feststellungen auf das Treuhandbuch, die Kontoauszüge des Anderkontos und die Aussagen der Klienten. Die Verantwortung des Beschuldigten, wonach die Bewegungen auf einem Versehen der Kanzleikraft beruhten, hält der Senat für nicht glaubhaft. Der Beschuldigte hat die Aufzeichnungen selbst geführt und unterschrieben.
 
+Der Senat hat die Zeugin [[person|Sabine Kirchmayr]] vernommen, die als Sekretärin in der Kanzlei des Beschuldigten tätig war. Sie gab an, die Buchungen seien auf Anweisung des Beschuldigten vorgenommen worden, und sie habe keinen Zugang zum Anderkonto gehabt. Der Beschuldigte hat diese Aussage nicht bestritten, sondern lediglich ausgeführt, er habe die Anweisungen in Eile erteilt.
+
+Die Klienten [[person|Sabri Kocaoğlu]] und [[person|Erika Pötzelberger]] haben übereinstimmend angegeben, dass sie die Auszahlungen nur zögerlich erhalten haben und der Beschuldigte auf Nachfrage keine vollständige Auskunft erteilt hat. Der Senat folgt diesen Angaben, weil sie durch die Kontoauszüge bestätigt werden.
+
+Das Gutachten des Kammerprüfers vom [[date|15. Jänner 2025]] bestätigt, dass die Verwahrung der Fremdgelder nicht den Richtlinien entsprach. Der Prüfer hat die Mängel im Treuhandbuch als systematisch bezeichnet, weil die Eintragungen teilweise nachträglich und ohne Datum vorgenommen wurden.
+
 **4. Rechtliche Beurteilung**
 
 Ein Rechtsanwalt hat nach [[legal_norm|§ 43 Abs 1 RAO]] seinen Beruf gewissenhaft auszuüben. Die Pflicht zur getrennten Verwahrung fremder Gelder folgt aus [[legal_norm|§ 1 Abs 1 RL-BA]]. Die Vermischung mit eigenen Mitteln stellt einen schweren Verstoß dar, der auch das Vertrauen der rechtsuchenden Bevölkerung betrifft.
 
 Die Strafbemessung berücksichtigt als mildernd die bisherige Unbescholtenheit und die nachträgliche Rückzahlung. Erschwerend wirkt die Dauer der Pflichtverletzung über mehr als ein Jahr. Eine Entziehung der Berufsberechtigung ist nicht geboten, weil der Beschuldigte die Tilgung der Verbindlichkeiten zugesagt und seither nachgewiesen hat.
+
+Der Senat hat bei der Strafbemessung berücksichtigt, dass der Beschuldigte seit dem Jahr 2010 in die Liste der Rechtsanwälte eingetragen ist und bisher keine disziplinarrechtlichen Verfahren gegen ihn anhängig waren. Die Geldbuße in der Höhe von EUR 6.000,00 erscheint angemessen, weil die wirtschaftlichen Verhältnisse des Beschuldigten durch die Rückzahlung geordnet sind und ein höherer Betrag seine berufliche Existenz gefährden würde.
+
+Die Kosten des Verfahrens sind dem Beschuldigten nach [[legal_norm|§ 47 Abs 1 RAO]] aufzuerlegen. Die Kammeranwaltschaft hat einen Kostenersatz von EUR 1.850,00 beantragt. Der Senat hat den Betrag im Ausmaß von EUR 1.420,00 zuerkannt, weil das Verfahren hinsichtlich eines weiteren Vorwurfs eingestellt werden musste.
 
 **5. Rechtsmittelbelehrung**
 

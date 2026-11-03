@@ -29,9 +29,11 @@ Der Beschuldigte legte die Gelder auf einem Treuhandkonto ab, das er im Namen de
 
 Die Treuhandschaft wurde unter der Nummer [[other_identifier|2024/511]] geführt. Am [[date|15.04.2024]] gingen EUR 14.800,00 ein. Am [[date|02.05.2024]] wurden EUR 4.000,00 an einen Dritten überwiesen, am [[date|18.09.2024]] EUR 3.500,00 an den Beschuldigten selbst als Honorar.
 
-Die Klientin forderte die Rückzahlung am [[date|10.02.2025]] schriftlich. Der Beschuldigte antwortete erst am [[date|30.04.2025]] und teilte mit, dass ein Betrag von EUR 4.300,00 noch vorhanden sei. Dieser wurde am [[date|12.05.2025]] an die Klientin ausgezahlt.
+Die Klientin forderte die Rückzahlung am [[date|10.02.2025]] schriftlich. Der Beschuldigte antwortete erst am [[date|30.04.2025]] und teilte mit, dass ein Betrag von EUR 7.300,00 noch vorhanden sei. Dieser wurde am [[date|12.05.2025]] an die Klientin ausgezahlt.
 
 Die Klientin wohnt in [[location|Wien]] und war vom Verfahren, das zur Schadenersatzzahlung geführt hatte, nicht persönlich betroffen. Sie hat die Beschwerde am [[date|3.06.2025]] bei der Kammer eingebracht, nachdem sie einen Kontoauszug ihres Vermögensberaters erhalten hatte.
+
+Der Beschuldigte betreibt eine Einzelkanzlei in [[location|Wien]], die er seit dem Jahr 2011 führt. Er hat seine Kanzleikraft im Jahr 2024 gekündigt und die Buchhaltung seither selbst übernommen. Die Kammer hat ihn im Jahr 2025 erstmals zur Vorlage des Treuhandbuchs aufgefordert.
 
 II. Rechtliche Beurteilung
 
@@ -43,11 +45,21 @@ Der Senat teilt jedoch die Auffassung des Disziplinarrats, dass die Geldbuße zu
 
 Die Rüge der Verletzung des Rechts auf ein faires Verfahren nach [[legal_norm|Art. 6 EMRK]] wurde geprüft und verworfen. Der Beschuldigte konnte sich durch seinen Verteidiger äußern und Beweisanträge stellen. Die Verwertung der Kontoauszüge ist zulässig, weil sie vom Treuhandkonto stammen, das der Beschuldigte selbst führte.
 
+Zur Beschwerde der Klientin ist ergänzend festzuhalten, dass der Beschuldigte die Verwahrung der Gelder nicht durch schriftliche Vereinbarung geregelt hat. Eine Belehrung über die Verwahrungsbedingungen wurde der Klientin nicht ausgehändigt. Der Beschuldigte hat nach eigenen Angaben die Gelder in der Annahme verwendet, dass ihm aus dem vorangehenden Mandat ein Honoraranspruch zustehe.
+
+Der Senat verkennt nicht, dass die Frage der Honorarverrechnung im Einzelfall schwierig sein kann. Eine Honorarforderung berechtigt jedoch nicht zur eigenmächtigen Entnahme aus dem Treuhandkonto. Die Entnahme ist nur zulässig, wenn die Forderung feststeht und die Klientin der Verrechnung zugestimmt hat oder die Forderung rechtskräftig festgestellt ist.
+
+Der Beschuldigte hat außerdem im Zeitraum vom [[date|1.06.2024]] bis zum [[date|31.10.2024]] keine Kontoauszüge an die Kammer übermittelt, obwohl er nach den Richtlinien der Kammer dazu verpflichtet war. Die Unterlassung wurde erst nach einer Aufforderung der Kammer behoben.
+
+Die Verteidigung hat vorgebracht, dass ein Teil der Verfahrenskosten auf die Kammer zu überwälzen sei, weil die Anzeige in einem Punkt unbegründet war. Der Senat folgt dieser Auffassung teilweise und berücksichtigt dies bei der Kostenentscheidung.
+
+Die Klientin hat den Betrag von EUR 7.300,00 erst am [[date|12.05.2025]] erhalten, und zwar nach ihrer schriftlichen Aufforderung. Die Verzögerung von mehr als drei Monaten ist ein Erschwernis, das bei der Strafbemessung zu berücksichtigen ist.
+
 III. Kosten
 
 Die Kostenentscheidung beruht auf [[legal_norm|§ 52 RAO]]. Die Kammer hat ihre Kosten selbst zu tragen.
 
-Wien, am [[date|8. Juli 2026]]
+[[location|Wien]], am [[date|8. Juli 2026]]
 
 Für die Richtigkeit der Ausfertigung:
 

@@ -57,11 +57,23 @@ Rechtliche Beurteilung
 
 14. Die verhängte Geldbuße von EUR 3.500,00 entspricht dem Unrechtsgehalt. Die Kosten des Verfahrens sind dem Beschuldigten aufzuerlegen.
 
+14a. Die Verwendung der Gelder für ein Bauvorhaben, das nicht Gegenstand der Treuhandvereinbarung war, wiegt schwerer als eine bloße Verzögerung der Auszahlung. Der Beschuldigte hat die Gelder nicht nur vorübergehend, sondern für eigene wirtschaftliche Interessen verwendet, was der Senat als gewichtigen Erschwerungsgrund wertet. Der Umstand, dass die Klientin den Betrag später teilweise zurückerhalten hat, führt nicht zu einer Milderung über das Maß der bereits berücksichtigten Teilrückzahlung hinaus.
+
+14b. Die Rückdatierung der nachgetragenen Buchungen ist als eigenständiger Verstoß gegen die Dokumentationspflichten zu werten. Der Senat hat diesen Umstand bei der Bemessung der Geldbuße mitberücksichtigt, ohne ihn gesondert zu sanktionieren.
+
+Ergänzende Feststellungen
+
+Der Senat stellt fest, dass die Klientin [[person|Sammer]] die Verwendung ihres Betrages für die Baustelle des Beschuldigten erst im Mai 2025 aus einem Schreiben der Baufirma erfuhr. Die Baufirma hatte den Betrag als Anzahlung für eine Lieferung an die Kanzleiadresse des Beschuldigten angefordert. Die Lieferung erfolgte nicht vollständig; eine Abrechnung dazu liegt nicht vor.
+
+Der Klient [[person|Jenny]] hat im Verfahren angegeben, dass er zwischen Februar und April 2025 mehrfach telefonisch um Auskunft über den Stand der Gelder ersucht habe. Der Beschuldigte habe ihm jeweils versichert, dass alles in Ordnung sei. Schriftliche Auskünfte hat der Klient nicht erhalten. Die Telefonlisten der Kanzlei bestätigen mehrere Anrufe, deren Inhalt nicht dokumentiert ist.
+
+Die Revisionsprüfung der [[organization|RAK OÖ]] ergab, dass im Treuhandbuch für den Zeitraum Jänner bis April 2025 drei Eintragungen fehlen, die den Auszahlungen an die Baufirma entsprechen. Die Eintragungen wurden erst nach dem Revisionstermin nachgetragen, jedoch mit dem Datum der Auszahlung versehen, was als unzulässige Rückdatierung zu werten ist.
+
 Anträge der Parteien
 
 15. Der Kammeranwalt [[person|Kenig]] beantragte den Ausspruch einer Geldbuße von EUR 5.000,00 und die Verpflichtung zur Teilnahme an einem Seminar über Treuhandrecht. Der Beschuldigte beantragte die Einstellung des Verfahrens, hilfsweise die Verhängung einer Ermahnung. Er legte im Verfahren einen Nachweis über die Rückzahlung eines Betrages von EUR 6.000,00 an die Klientin [[person|Sammer]] vor, der am [[date|25. September 2026]] erfolgt war.
 
-16. Die Klientin [[person|Sammer]] und der Klient [[person|Jenny]] haben im Verfahren erklärt, dass sie Schadenersatzansprüche gegen den Beschuldigten geltend machen werden. Diese Ansprüche sind nicht Gegenstand dieses Verfahrens und wurden vom Senat nicht geprüft.
+16. Die Klientin [[person|Sammer]] und der Klient [[person|Jenny]] haben im Verfahren erklärt, dass sie Schadenersatzansprüche gegen den Beschuldigten geltend machen werden. Diese Ansprüche sind nicht Gegenstand dieses Verfahrens und wurden vom Senat nicht geprüft. Der Senat weist darauf hin, dass die ordentlichen Gerichte hierüber zu entscheiden haben.
 
 17. Der Senat hält die Antragstellung des Kammeranwalts für überzogen, soweit sie eine Auflage zum Seminar betrifft; der Beschuldigte hat die Teilnahme an einem Fortbildungsangebot bereits zugesagt, weshalb von einer gesonderten Auflage abgesehen wird.
 

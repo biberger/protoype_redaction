@@ -62,17 +62,17 @@ Rechtliche Beurteilung
 
 13. Die Einzahlungen und Auszahlungen sind im Einzelnen zu würdigen. Die Auszahlungen vom [[date|11. Februar 2025]] und vom [[date|3. März 2025]] sind ohne Weisung erfolgt. Die Gutschrift vom [[date|29. April 2025]] ist ungeklärt, weil keine Buchung vorliegt, die ihr zugeordnet werden könnte.
 
-14. Die Verteidigung mit dem Systemwechsel überzeugt nicht. Die Umsatzlisten der Kanzleisoftware sind vollständig erhalten, und die fehlenden Buchungen betreffen nicht nur die Treuhandkonten, sondern auch die Klientenkonten. Ein Datenverlust hätte sich auch auf die Rechnungslegung ausgewirkt, was nicht der Fall ist.
+14. Die Verteidigung mit dem Systemwechsel überzeugt nicht. Die Behauptung eines Systemwechsels wurde erst in der Verhandlung vorgebracht, nicht bereits im Verfahren vor der Kammer. Die Umsatzlisten der Kanzleisoftware sind vollständig erhalten, und die fehlenden Buchungen betreffen nicht nur die Treuhandkonten, sondern auch die Klientenkonten. Ein Datenverlust hätte sich auch auf die Rechnungslegung ausgewirkt, was nicht der Fall ist.
 
 15. Bei der Strafbemessung war zu berücksichtigen, dass der Rechtsanwalt bisher disziplinär nicht in Erscheinung getreten ist und sich nach der Revision um die Rückzahlung der Gelder an die Klienten bemüht hat. Die Rückzahlung an [[person|Schild]] erfolgte am [[date|15. Juli 2025]] vollständig. Erschwerend wirkt die Anzahl der betroffenen Klienten und der Zeitraum von mehr als einem Jahr.
 
-16. Die Geldbuße von EUR 6.000,00 ist unter Berücksichtigung der wirtschaftlichen Verhältnisse des Rechtsanwalts angemessen. Der Rechtsanwalt hat im Verfahren ein volles Geständnis zur verspäteten Buchung der Gutschrift vom [[date|29. April 2025]] abgelegt, weshalb ihm dies als mildernd zugutekommt. Die Kanzleisoftware wurde inzwischen durch ein Modul für Treuhandbuchführung ergänzt. Die Auflage zur Schulung dient der Vermeidung künftiger Verstöße. Eine Streichung ist nicht geboten, weil die Vertrauensbasis trotz der Verfehlungen nicht vollständig zerstört ist.
+16. Die Geldbuße von EUR 6.000,00 ist unter Berücksichtigung der wirtschaftlichen Verhältnisse des Rechtsanwalts angemessen. Der Rechtsanwalt hat sich bei der Klientin [[person|Schild]] persönlich entschuldigt, und er hat im Verfahren ein volles Geständnis zur verspäteten Buchung der Gutschrift vom [[date|29. April 2025]] abgelegt, weshalb ihm dies als mildernd zugutekommt. Die Kanzleisoftware wurde inzwischen durch ein Modul für Treuhandbuchführung ergänzt. Die Auflage zur Schulung dient der Vermeidung künftiger Verstöße. Eine Streichung ist nicht geboten, weil die Vertrauensbasis trotz der Verfehlungen nicht vollständig zerstört ist.
 
 Kosten
 
 17. Der Rechtsanwalt hat die Kosten des Verfahrens zu tragen. Die Kosten des Revisionsverfahrens werden der [[organization|TRAK]] nicht auferlegt, da die Revision im Rahmen ihrer Aufsichtsaufgabe erfolgte.
 
-18. Der Nachweis der Teilnahme an der Schulung ist dem Kammeranwalt [[person|Soukup]] binnen sechs Monaten vorzulegen. Die Geldbuße ist binnen vier Wochen nach Zustellung der Ausfertigung auf das Konto der Kammer einzuzahlen. Bei Nichtzahlung ist die Einbringung nach den einschlägigen Bestimmungen einzuleiten. Die Zahlung der Kosten erfolgt gleichzeitig mit der Geldbuße.
+18. Der Nachweis der Teilnahme an der Schulung ist dem Kammeranwalt [[person|Soukup]] binnen sechs Monaten vorzulegen; wird er nicht fristgerecht erbracht, so ist der Disziplinarrat berechtigt, die Angelegenheit von Amts wegen neu zu prüfen. Die Geldbuße ist binnen vier Wochen nach Zustellung der Ausfertigung auf das Konto der Kammer einzuzahlen. Bei Nichtzahlung ist die Einbringung nach den einschlägigen Bestimmungen einzuleiten. Die Zahlung der Kosten erfolgt gleichzeitig mit der Geldbuße.
 
 Rechtsmittelbelehrung
 

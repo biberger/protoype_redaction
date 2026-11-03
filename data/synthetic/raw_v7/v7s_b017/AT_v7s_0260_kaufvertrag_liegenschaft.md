@@ -19,7 +19,14 @@ abgeschlossen zwischen
 
 1. der Verkäuferin [[organization|Einzinger GmbH]], [[company_register_number|FN 114040g]], [[tax_id|ATU01650392]], vertreten durch den Geschäftsführer, im Folgenden „Verkäuferin“;
 
-2. dem Käufer [[person|Gerold Höller]], Geburtsdatum: [[date_of_birth|1983-12-04]], StA: [[country|Österreich]], und der Käuferin [[person|Tatiana Borucka]], geboren am [[date_of_birth|24.01.1970]], beide wohnhaft in [[address|8442 Kitzeck im Sausal]], im Folgenden „Käufer“.
+2. dem Käufer
+
+[[person|Gerold
+Höller]], Geburtsdatum: [[date_of_birth|1983-12-04]], StA: [[country|Österreich]],
+wohnhaft in [[address|Dorfstraße 9,
+8442 Kitzeck im Sausal]]
+
+und der Käuferin [[person|Tatiana Borucka]], geboren am [[date_of_birth|24.01.1970]], ebenda wohnhaft, im Folgenden „Käufer“.
 
 I. Vertragsgegenstand
 
@@ -31,7 +38,7 @@ b) [[land_register_id|KG 40415 Ardning]] / [[land_register_id|EZ. 886]], [[land_
 
 c) [[land_register_id|KG 70175 Großriedenthal]] [[land_register_id|EZ 1347]], [[land_register_id|Gst.Nr. 30/7]]
 
-Die Verkäuferin verkauft die Liegenschaften samt allen Bestandteilen und dem Zubehör an die Käufer. Die Einzinger GmbH verpflichtet sich, die Liegenschaften lastenfrei zu übergeben.
+Die Verkäuferin verkauft die Liegenschaften samt allen Bestandteilen und dem Zubehör an die Käufer. Die [[organization|Einzinger]] verpflichtet sich, die Liegenschaften lastenfrei zu übergeben.
 
 II. Kaufpreis
 
@@ -41,7 +48,7 @@ Zahlung | Betrag | Fälligkeit
 Anzahlung | EUR 48.600,00 | bei Vertragsunterfertigung
 Restkaufpreis | EUR 437.400,00 | nach Vorliegen der Pfandrechtsbereinigung
 
-2. Der Restkaufpreis wird auf das Treuhandkonto der Einzinger GmbH bei der [[organization|Oberbank AG]] mit IBAN [[bank_account|AT57 8987 7937 9460 0849]] überwiesen. Die [[organization|Oberbank AG]] ist anzuweisen, die Auszahlung erst nach Eintragung des Eigentumsrechts vorzunehmen.
+2. Der Restkaufpreis wird auf das Treuhandkonto der [[organization|Einzinger]] bei der [[organization|Oberbank AG]] mit IBAN [[bank_account|AT57 8987 7937 9460 0849]] überwiesen. Die [[organization|Oberbank AG]] ist anzuweisen, die Auszahlung erst nach Eintragung des Eigentumsrechts vorzunehmen.
 
 3. Die Grunderwerbsteuer und die Vertragsgebühren trägt der Käufer.
 
@@ -61,6 +68,16 @@ V. Gewährleistung und Übergabe
 
 2. Die Verkäuferin haftet für die Lastenfreiheit der Liegenschaften, nicht aber für Mängel der Gebäude, die den Käufern bekannt waren.
 
+V a. Rücktritt und Vertragsstrafe
+
+1. Für den Fall, dass der Käufer den Restkaufpreis nicht fristgerecht leistet, ist die Verkäuferin berechtigt, vom Vertrag zurückzutreten. Ein Rücktritt ist nur zulässig, wenn der Käufer nach schriftlicher Mahnung mit einer Nachfrist von vier Wochen nicht leistet.
+
+2. Die Kosten der Pfandrechtsbereinigung trägt die Verkäuferin, soweit sie vor dem Stichtag [[date|30.09.2026]] entstanden sind. Die späteren Kosten trägt der Käufer.
+
+3. Die Verkäuferin erklärt, dass die Liegenschaften nicht unter einem Vorkaufsrecht stehen. Sie haftet für die Richtigkeit dieser Erklärung nach den Bestimmungen über die Gewährleistung beim Kauf, insbesondere nach [[legal_norm|§ 922 ABGB]].
+
+4. Die Vertragsparteien vereinbaren eine Konventionalstrafe von EUR 5.000,00 für den Fall, dass der Käufer Angaben zu seiner Person unrichtig macht.
+
 VI. Schlussbestimmungen
 
 1. Änderungen dieses Vertrages bedürfen der Schriftform.
@@ -69,7 +86,7 @@ VI. Schlussbestimmungen
 
 3. Auf diesen Vertrag ist österreichisches Recht anzuwenden. Die Käufer sind darauf hingewiesen worden, dass sie vor Vertragsunterfertigung das Grundbuch einsehen können.
 
-Die Käufer haben den Vertrag vor dem Notar nicht unterschrieben, sondern vor der Rechtsanwältin [[person|Szeps]] gefertigt.
+Die Käufer haben den Vertrag vor der Rechtsanwältin [[person|Szeps]] unterfertigt.
 
 Für die Verkäuferin:
 

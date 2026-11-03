@@ -36,6 +36,8 @@ Gesamtbetrag brutto: EUR 2.748,00
 
 Bitte überweisen Sie den Betrag innerhalb von 14 Tagen auf unser Konto IBAN [[bank_account|AT19 7806 8253 1480 6800]] unter Angabe der Klientennummer [[other_identifier|87025]].
 
+Die Vergütung richtet sich nach dem [[legal_norm|RATG]]; eine Ratenzahlung ist auf Anfrage möglich. Die Leistungen wurden im Zeitraum vom [[date|12.01.2026]] bis [[date|03.03.2026]] erbracht.
+
 Mit freundlichen Grüßen
 
 [[lawyer|Faulhammer]]

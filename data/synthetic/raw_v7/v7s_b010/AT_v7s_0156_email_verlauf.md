@@ -15,9 +15,9 @@ ERV-Code: [[other_identifier|R126905]]
 GZ der Kanzlei: [[other_identifier|BRS/Köllerer/7966]]
 
 Von: [[person|Mag. Zatzka]] <[[email|zatzka@zatzka.at]]>
-Gesendet: Montag, 12. Oktober 2026 09:14
+Gesendet: Montag, [[date|12. Oktober 2026]] 09:14
 An: [[person|Balles Köllerer]] <[[email|b.koellerer@aon.at]]>
-Betreff: AW: Bauschaden Langschlag
+Betreff: AW: Bauschaden Dachstuhl
 
 Sehr geehrter Herr [[person|Köllerer]],
 
@@ -25,16 +25,18 @@ die Gegenseite hat auf unser Schreiben vom [[date|2. Oktober 2026]] nun doch rea
 
 Bitte senden Sie mir bis Freitag die Fotos vom Dachboden nach. Unser Zeichen bleibt wie bisher: [[other_identifier|Köllerer ./. Gstrein]].
 
+Ein Termin mit dem Sachverständigen ist für den [[date|4. November 2026]] vorgesehen. Ich lade Sie ein, persönlich daran teilzunehmen, damit Sie die Feststellungen unmittelbar nachvollziehen können. Bitte bestätigen Sie den Termin bis Mittwoch. Die Kosten der Begutachtung werden vorerst von der Kanzlei verauslagt und später in die Schadenersatzforderung eingerechnet. Eine Kopie des Auftrages an den Sachverständigen liegt bei.
+
 Mit freundlichen Grüßen
 
 [[person|Mag. Zatzka]]
 
 -----Ursprüngliche Nachricht-----
 Von: [[person|Balles Köllerer]] <[[email|b.koellerer@aon.at]]>
-Gesendet: Freitag, 9. Oktober 2026 16:02
+Gesendet: Freitag, [[date|9. Oktober 2026]] 16:02
 An: [[person|Mag. Zatzka]]
 Cc: [[person|Kunissa Hofinger]]
-Betreff: AW: Bauschaden Langschlag
+Betreff: AW: Bauschaden Dachstuhl
 
 > Liebe Frau [[person|Mag. Zatzka]],
 >
@@ -43,6 +45,8 @@ Betreff: AW: Bauschaden Langschlag
 > Meine Telefonnummer: [[phone_number|01/7584168-34]]
 >
 > Die [[organization|Lungauer Holzbau]] hat den Auftrag bisher nicht abgeschlossen. Ich bitte um Ihre Einschätzung.
+>
+> Die Rechnung vom [[date|15. September 2026]] über EUR 6.480,00 habe ich noch nicht bezahlt, weil die Dachbalken nicht die vereinbarte Stärke haben. Die Fotos vom Dachboden hängen an, ebenso der Kostenvoranschlag für die Nachbesserung. Den Eingang der Unterlagen bitte ich zu bestätigen, damit wir die Frist im Blick behalten.
 
 Mit freundlichen Grüßen
 

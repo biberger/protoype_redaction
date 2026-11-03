@@ -18,7 +18,7 @@ z.H. Frau [[person|Ilse Wagentristl]]
 
 Mautern in Steiermark, am [[date|5. Oktober 2026]]
 
-**Ihre Schadenmeldung vom Verkehrsunfall am 3. Mai 2026**
+**Ihre Schadenmeldung vom Verkehrsunfall am [[date|3. Mai 2026]]**
 
 UZ: [[other_identifier|PM-PMPerz/Eckhardt]]
 Polizze [[other_identifier|76-2050113]]
@@ -37,6 +37,12 @@ Nach dem Polizeibericht hat der Lenker des bei Ihnen versicherten Fahrzeugs, Her
 Dietrich]], [[country|Italien]] staatsangehörig, beim Einfahren in die Kreuzung das Vorrangzeichen missachtet. Unser Mandant war mit dem Fahrzeug der Firma [[organization|Rabenalt KG]] unterwegs. Die [[organization|Rabenalt]] hat den Wagen für den Betrieb angeschafft und ist Eigentümerin, die Firma [[company_register_number|FN 48672b]] hat ihren Sitz in [[address|3324 Euratsfeld]].
 
 Die Haftung Ihres Versicherungsnehmers ergibt sich aus [[legal_norm|§ 1 EKHG]] und [[legal_norm|§ 3 EKHG]]. Ein Mitverschulden unseres Mandanten ist nicht ersichtlich; er hat die Geschwindigkeit eingehalten und die Vorfahrt nicht verletzt.
+
+Die Reparatur des Fahrzeugs wurde bei der [[organization|Autohaus Kendlbacher GmbH]] in [[location|Kindberg]] kalkuliert. Der Sachverständige hat einen Wiederbeschaffungswert von EUR 14.300,00 ermittelt; die Reparatur ist wirtschaftlich vertretbar, weil die Reparaturkosten darunter liegen. Eine Restwertabrechnung ist daher nicht erforderlich.
+
+Unser Mandant hat durch den Unfall eine Prellung der linken Schulter und ein Halswirbelsäulentrauma erlitten. Er war vom [[date|3. Mai 2026]] bis zum [[date|17. Mai 2026]] im Krankenstand und konnte in dieser Zeit seine Tätigkeit als Monteur nicht ausüben. Die Krankenstandsbestätigung und die Lohnbestätigung des Arbeitgebers sind diesem Schreiben als Beilage angeschlossen. Den Verdienstentgang machen wir derzeit nur vorbehaltlich einer weiteren Aufstellung geltend.
+
+Das Schmerzengeld bemisst sich nach Dauer und Intensität der Beschwerden. Die Beschwerden haben bis Ende Juni 2026 angedauert, sodass der angebotene Betrag von EUR 1.200,00 nach unserer Auffassung als Mindestbetrag zu verstehen ist.
 
 Wir fordern Sie auf, bis spätestens [[date|31. Oktober 2026]] folgende Beträge anzuweisen:
 

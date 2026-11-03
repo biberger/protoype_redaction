@@ -66,11 +66,19 @@ Postkasten                 1 Stück
 
 2. Die Zählerstände werden im Übergabeprotokoll festgehalten. Strom, Gas und Wasser sind ab dem Übergabetag auf den Mieter umzumelden. Der Mieter hat die Zählerstände binnen einer Woche dem Energieversorger zu melden.
 
-3. Zum Zeitpunkt der Übergabe sind folgende Mängel bekannt und vom Mieter zur Kenntnis genommen: Ein Fenster im Schlafzimmer schließt nicht vollständig, die Badezimmertür benötigt eine Nachjustierung. Die Vermieterin sagt zu, beide Mängel bis spätestens [[date|30. April 2026]] zu beheben.
+3. Zum Zeitpunkt der Übergabe sind folgende Mängel bekannt und vom Mieter zur Kenntnis genommen: Ein Fenster im Schlafzimmer schließt nicht vollständig, die Badezimmertür benötigt eine Nachjustierung. Die Vermieterin sagt zu, beide Mängel bis spätestens [[date|30. April 2026]] zu beheben. Der Mieter bestätigt, dass ihm der Zustand der übrigen Räume bekannt ist und er diese in Augenschein genommen hat.
 
 4. Die Vermieterin übergibt dem Mieter die Hausordnung in Kopie. Diese bildet einen Bestandteil des Vertrags, soweit sie nicht im Widerspruch zu zwingenden Bestimmungen des Mietrechts steht.
 
-VI. Schlussbestimmungen
+VI. Wertsicherung und Mietzinsanpassung
+
+1. Der Hauptmietzins ist nach Maßgabe des [[legal_norm|§ 45 MRG]] nur innerhalb der gesetzlichen Schranken anzupassen. Eine Wertsicherung nach dem Verbraucherpreisindex ist vereinbart, sofern sie nach dem Gesetz zulässig ist. Die Vermieterin wird den Mieter jährlich über die Indexierung schriftlich informieren.
+
+2. Eine Erhöhung der Betriebskostenvorschreibung erfolgt nur nach vorheriger schriftlicher Ankündigung unter Angabe der Ursache und der voraussichtlichen Höhe. Die Vorschreibung ist dem Mieter spätestens mit der nächsten Mietzinszahlung bekanntzugeben.
+
+3. Die Vermieterin ist zu einer Mietzinsanpassung nur berechtigt, wenn die Wohnung in dem Zustand übergeben wurde, der dem Vertrag entspricht. Der Mieter kann eine Überprüfung des Mietzinses durch die Schlichtungsstelle verlangen, sofern er die Einwendungen binnen der gesetzlichen Frist erhebt.
+
+VII. Schlussbestimmungen
 
 1. Änderungen und Ergänzungen dieses Vertrags bedürfen der Schriftform. Mündliche Nebenabreden bestehen nicht.
 

@@ -68,6 +68,12 @@ Der Senat hat auch geprüft, ob die Aufzeichnungen der Kanzlei den Anforderungen
 
 Die Entscheidung über die Kosten stützt sich auf [[legal_norm|§ 39 Abs 2 RAO]]. Eine Berufung an die [[court|OBDK]] ist zulässig. Die Zustellung erfolgt nach [[legal_norm|§ 23 Abs 1 DSt]].
 
+Der Senat hat die Verteidigung des Beschuldigten angehört, der vorbrachte, dass eine Mitarbeiterin eigenmächtig Zahlungen angewiesen habe. Der Senat konnte diesen Einwand nicht feststellen. Der Beschuldigte hat die Zahlungsfreigabe als Treuhänder selbst zu verantworten.
+
+Die Mandantin [[person|Ludmilla Gaßner]] nahm am [[date|11.06.2026]] an der Verhandlung teil und erklärte, dass sie mit der bisherigen Abwicklung nicht zufrieden sei. Sie verzichtete auf einen Schadenersatzanspruch gegen den Beschuldigten, weil die offenen Beträge inzwischen ausbezahlt wurden.
+
+Die Kammeranwältin hat ergänzend auf die Kostenaufstellung hingewiesen, nach der die Beweisaufnahme Kosten in Höhe von EUR 1.230,00 verursacht hat.
+
 V. Strafbemessung
 
 Der Strafrahmen reicht bis zu einer Geldbuße von EUR 20.000,00. Der Senat hält eine Geldbuße von EUR 4.000,00 für angemessen, weil der Beschuldigte die Zahlungen eingestanden und die Restbeträge nach der Anzeige an die Mandantin ausbezahlt hat. Ein Berufsverbot war nicht zu verhängen, weil der Beschuldigte bisher keine Vorwürfe dieser Art zu verantworten hatte.

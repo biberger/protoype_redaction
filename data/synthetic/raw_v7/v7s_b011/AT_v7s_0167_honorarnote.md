@@ -44,6 +44,8 @@ Gesamtbetrag brutto | | | 3.557,28
 
 Bitte überweisen Sie den Gesamtbetrag binnen 14 Tagen auf unser Treuhandkonto IBAN [[bank_account|AT10 4134 2887 7393 6772]] unter Angabe der Rechnungsnummer.
 
+Die Stundensätze entsprechen der im Erstgespräch vereinbarten Honorarvereinbarung. Soweit darin keine Vereinbarung getroffen wurde, richtet sich das Honorar nach dem [[legal_norm|RATG]]. Die Auslagen werden ohne Aufschlag weiterverrechnet.
+
 Für Rückfragen stehen wir Ihnen gerne zur Verfügung.
 
 Mit freundlichen Grüßen

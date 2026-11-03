@@ -44,7 +44,7 @@ Die Haftpflichtversicherung des Fahrzeuges [[license_plate|TU-1989 V]] hat den S
 
 Bei [[person|Häusler]] wurde ein Alkotest durchgeführt, der mit 0,00 mg/l Atemluftalkohol negativ verlief. Die Lenkerin des Kleinbusses, [[person|Trattner]], gab an, im Bereich der Kreuzung kurz abgelenkt gewesen zu sein, weil ihr Kind im Fond das Telefon verloren hatte. Die Zeugin [[person|Treichl]] bestätigte diese Angaben im Wesentlichen. Die Stoppstelle war durch ein Verkehrszeichen gekennzeichnet, das zum Unfallzeitpunkt sichtbar war; Sichtbehinderungen durch Bewuchs wurden nicht festgestellt.
 
-Die Fotodokumentation umfasst zwölf Aufnahmen der Unfallstelle, der Fahrzeugschäden und der Vorfahrtsbeschilderung. Eine Verkehrszählung durch die Straßenmeisterei ergab, dass die Landesstraße an diesem Vormittag mit rund 340 Fahrzeugen pro Stunde befahren wurde.
+Die Fotodokumentation umfasst zwölf Aufnahmen der Unfallstelle, der Fahrzeugschäden und der Vorfahrtsbeschilderung. Die Aufnahmen liegen in digitaler Form dem Akt bei. Eine Verkehrszählung durch die Straßenmeisterei ergab, dass die Landesstraße an diesem Vormittag mit rund 340 Fahrzeugen pro Stunde befahren wurde.
 
 Die Unfallaufnahme wurde um 08:15 Uhr abgeschlossen. Das Protokoll wurde von [[person|Mauracher]] und [[person|Wagentristl]] unterfertigt.
 

@@ -33,6 +33,17 @@ Die Reparaturkosten laut Kostenvoranschlag belaufen sich auf € 8.940,00 netto.
 
 Wir ersuchen Sie, bis [[date|30. September 2025]] zu bestätigen, dass Sie die Forderung dem Grunde nach anerkennen. Die [[organization|PG]] hat bisher kein Angebot erhalten. Ein Schreiben der [[organization|PG]] vom [[date|12. August 2025]] blieb unbeantwortet.
 
+Ergänzend ersuchen wir um Übermittlung des Schadensaufnahmeprotokolls, das der Sachbearbeiter vor Ort erstellt hat. Die [[organization|PG]] hat das Fahrzeug bis zur Begutachtung nicht instand gesetzt, um die Beweislage zu sichern. Die Kosten der Standzeit von 21 Tagen belaufen sich auf € 630,00. Sie sind in der Gesamtforderung nicht enthalten, werden aber gesondert geltend gemacht.
+
+Die Lenkerin des Fahrzeugs Ihres Versicherungsnehmers hat am Unfallort ein Schuldanerkenntnis unterschrieben, das wir dem Schreiben beilegen. Nach Ansicht der [[organization|PG]] ist dieses Anerkenntnis auf die Reparaturkosten beschränkt und umfasst den Mietwagen nicht. Wir verweisen dazu auf [[legal_norm|§ 1310 ABGB]] und das Gutachten des Kraftfahrzeugsachverständigen.
+
+Sollte die Forderung nicht bis zum genannten Termin anerkannt werden, behalten wir uns die Klage vor dem zuständigen Gericht ohne weitere Ankündigung vor.
+
+Beilagen:
+./1 Kostenvoranschlag vom [[date|14. Juli 2025]]
+./2 Schadensmeldung der Polizei
+./3 Fotodokumentation
+
 Bitte geben Sie bei künftigen Schreiben das Aktenzeichen an. Für Rückfragen steht Ihnen Herr [[person|Schönherr]] unter der Durchwahl erreichbar, sonst unser Büro.
 
 Mit freundlichen Grüßen

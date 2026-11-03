@@ -49,11 +49,11 @@ Gemäß [[legal_norm|§ 1 Abs 1 RAO]] hat der Rechtsanwalt seinen Beruf gewissen
 
 Der Kammeranwalt beantragte in der Verhandlung eine Geldbuße im oberen Bereich des Strafrahmens, weil der Angeklagte die Entnahme ohne Zustimmung des Mandanten vorgenommen habe. Der Angeklagte bestritt dies und legte eine E-Mail vom [[date|1. Juli 2024]] vor, in der die Höhe des Honorars angesprochen wurde. Der Disziplinarrat hat diese E-Mail nicht als ausreichende Zustimmung gewertet, weil sie weder den Betrag noch den Zeitpunkt der Entnahme bestimmte. Die Stellungnahme des Angeklagten vom [[date|22. April 2025]] wurde im Akt berücksichtigt; sie enthält keine Angaben zur Abrechnung.
 
-Der Angeklagte hat die Entnahme vom [[date|2. Juli 2024]] nicht rechtzeitig dokumentiert. Die Ansicht des Angeklagten, die mündliche Vereinbarung ersetze die Abrechnung, ist unzutreffend.
+Der Angeklagte hat die Entnahme vom [[date|2. Juli 2024]] nicht rechtzeitig dokumentiert. Die Ansicht des Angeklagten, die mündliche Vereinbarung ersetze die Abrechnung, ist unzutreffend. Gemäß [[legal_norm|§ 9 Abs 1 RAO]] hat der Rechtsanwalt die Pflichten des Berufes auch im Verhältnis zu seinen Mandanten zu wahren; dazu gehört die nachvollziehbare Rechnungslegung über anvertraute Gelder. Eine Vereinbarung über die Honorarentnahme muss schriftlich festgehalten werden, damit sie überprüfbar ist. Der Angeklagte hat auch keine Rechnung über die entnommene Summe an den Mandanten übermittelt, obwohl dies mehrfach angekündigt war.
 
 Der Disziplinarrat wertet als mildernd die bisherige Unbescholtenheit und die Rückzahlung vom [[date|14.01.2025]]. Als erschwerend wertet er die Dauer des Verstoßes von rund zehn Monaten.
 
-Die Geldbuße wurde nach [[legal_norm|§ 45 Abs 1 RAO]] iVm [[legal_norm|§ 1 Abs 1 RAO]] bemessen.
+Die Geldbuße wurde nach [[legal_norm|§ 45 Abs 1 RAO]] iVm [[legal_norm|§ 1 Abs 1 RAO]] bemessen. Der Senat hat bei der Bemessung die Höhe der Entnahme von EUR 9.000,00 berücksichtigt, die etwa die Hälfte des bis dahin eingezahlten Betrages ausmachte. Die Geldbuße ist daher im unteren Bereich des möglichen Strafrahmens festgesetzt worden.
 
 Rechtsmittelbelehrung
 

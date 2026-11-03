@@ -68,7 +68,7 @@ I. Sachverhalt
 
 4. Die Beklagte hat mit Schreiben vom [[date|2. April 2026]] Zahlung urgiert. Die klagenden Parteien haben darauf nicht reagiert. Mit Schreiben vom [[date|25. April 2026]] wurde der Rücktritt vom Vertrag erklärt, der jedoch von [[person|Paszkowska]] mit dem Hinweis auf eine Reklamation beantwortet wurde.
 
-5. Die Reklamation betrifft nach dem klägerischen Vorbringen einen Kompressor, der angeblich bei Übergabe beschädigt war. Ein Übergabeprotokoll existiert nicht; die Beklagte verweist auf die Unterschrift des Zeugen [[person|Ehrenstein]] auf dem Lieferschein, aus der ein unbeschädigter Zustand hervorgeht.
+5. Die Reklamation betrifft nach dem klägerischen Vorbringen einen Kompressor, der angeblich bei Übergabe beschädigt war. Ein Übergabeprotokoll existiert nicht; die Beklagte verweist auf die Unterschrift des Zeugen [[person|Ehrenstein]] auf dem Lieferschein, aus der ein unbeschädigter Zustand hervorgeht. Die Erstklägerin hat den Kompressor bis heute nicht an die Beklagte zurückgesandt, sodass eine Untersuchung des behaupteten Schadens bisher nicht möglich war. Die Beklagte hat die Rücknahme des Geräts mehrfach angeboten, jedoch ohne Reaktion.
 
 Ergänzend ist festzuhalten, dass die Beklagte die Allgemeinen Geschäftsbedingungen den klagenden Parteien bei Vertragsabschluss übermittelt hat. Diese enthalten in Punkt 5 eine Stornogebühr von 25 % des Auftragswertes sowie eine Zahlungsfrist von vierzehn Tagen ab Rechnungsdatum. Die Bestellung wurde über das Kontaktformular der Beklagten aufgegeben; das Bestellformular enthielt die Zustimmung zu den Geschäftsbedingungen bereits als Vorausfüllung, was die Erstklägerin in ihrer Stellungnahme vom [[date|20. April 2026]] nicht bestritten hat.
 
@@ -110,7 +110,7 @@ das [[court|Bezirksgericht Scheibbs]] möge
 2. der Widerklage stattgeben und die Erst- und Zweitklägerin zur ungeteilten Hand zur Zahlung von EUR 3.870,00 samt Zinsen verpflichten,
 3. den klagenden Parteien die Kosten des Verfahrens einschließlich der Kosten der Widerklage auferlegen.
 
-Die Beklagte erklärt, dass die Eingabe elektronisch über das Elektronische Rechtsverkehrsportal eingebracht wird und dass alle Beilagen in der Originalfassung vorliegen.
+Die Beklagte erklärt, dass die Eingabe elektronisch über das Elektronische Rechtsverkehrsportal eingebracht wird und dass alle Beilagen in der Originalfassung vorliegen. Die Beklagte behält sich vor, nach Einsichtnahme in die von der Gegenseite vorgelegten Unterlagen ergänzend Stellung zu nehmen und weitere Beweise anzubieten.
 
 [[location|Mariazell]], am [[date|3. November 2026]]
 

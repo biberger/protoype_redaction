@@ -64,6 +64,18 @@ Die Verantwortung des Disziplinarbeschuldigten, die Verzögerungen seien auf ein
 
 Die Kammeranwältin [[person|Hofmann]] hat ihren Antrag auf Verhängung einer Geldbuße damit begründet, dass die Buchungen über mehrere Jahre hinweg unvollständig geführt wurden. Der Senat folgt dieser Einschätzung hinsichtlich der Dokumentation, jedoch nicht hinsichtlich des angeblichen Verlustes von Klientengeld.
 
+Zur Stellungnahme des Disziplinarbeschuldigten: Der Disziplinarbeschuldigte hat am [[date|12. Februar 2026]] schriftlich vorgebracht, dass er die Mandantin [[person|Kopp]] mehrfach mündlich über den Stand des Treuhandbetrages unterrichtet habe. Eine Aktennotiz über diese Gespräche liegt nicht vor. Die Mandantin hat die Gespräche bestritten und ausgeführt, dass sie den Kontoauszug erst nach dreimaliger schriftlicher Anforderung erhalten habe.
+
+Die Aussage der Zeugin [[person|Ingeborg Lamprecht]], der früheren Kanzleikraft, bestätigte im Wesentlichen die Verbuchungsverzögerungen. Sie gab an, dass ihr die Buchungen des Treuhandbuches im Frühjahr 2019 regelmäßig zur Freigabe vorgelegt wurden, jedoch nicht immer rechtzeitig. Die Zeugin ist seit [[date|30. Juni 2021]] nicht mehr in der Kanzlei beschäftigt; ihr Dienstverhältnis endete einvernehmlich.
+
+Der Senat hat die Zeugenaussage als glaubwürdig gewürdigt, weil sie nicht zur Entlastung des Disziplinarbeschuldigten bestimmt war. Die Zeugin hat die Freigabe von Auszahlungen nicht selbst vorgenommen. Dies unterstreicht die Verantwortung des Rechtsanwalts für die Verwaltung.
+
+Die Auszahlung des Honorars wurde nach Angaben des Disziplinarbeschuldigten auf Grundlage einer mündlichen Vereinbarung vorgenommen, die im Jahr 2019 mit der Mandantin [[person|Kopp]] getroffen worden sei. Die Mandantin bestreitet eine solche Vereinbarung ausdrücklich. Ein Honorarschreiben, das die Höhe und die Berechnungsgrundlage angibt, wurde nicht vorgelegt. Der Senat hält daher fest, dass die Auszahlung ohne Abrechnung erfolgte.
+
+Die Verteidigung hat zudem beantragt, das Verfahren wegen Verjährung einzustellen. Die Verjährungsfrist nach [[legal_norm|§ 60 RAO]] ist jedoch nicht abgelaufen, weil die letzte Auszahlung vom [[date|9.7.2021]] innerhalb der Frist liegt und die Anzeige am [[date|9. Mai 2025]] eingebracht wurde. Der Antrag wird daher abgewiesen.
+
+Die Kammeranwältin [[person|Hofmann]] hat in der Verhandlung ausgeführt, dass die Dokumentation der Treuhandvorgänge nach [[date|1. Jänner 2022]] lückenlos sei. Dies betrifft das Treuhandbuch [[other_identifier|2023/762]] jedoch nicht, dessen Eintragungen den gleichen Mängeln unterliegen.
+
 IV. Rechtliche Beurteilung
 
 Ein Rechtsanwalt hat Klientengelder getrennt vom eigenen Vermögen zu verwalten und Eingänge und Auszahlungen unverzüglich aufzuzeichnen. Die Pflicht ergibt sich aus [[legal_norm|§ 43a Abs 2 RAO]] und dem Auftragsverhältnis nach [[legal_norm|§ 1009 ABGB]]. Die Verletzung dieser Pflicht ist ein Disziplinarvergehen.

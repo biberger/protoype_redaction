@@ -55,6 +55,14 @@ Die Kanzlei verpflichtet sich, den Kaufpreis erst nach Vorliegen der Lastenfreis
 
 Der Treuhandauftrag kann von jeder Vertragspartei nur gemeinsam widerrufen werden. Nach [[legal_norm|§ 1009 ABGB]] ist die Kanzlei zur sorgfältigen Verwahrung der Gelder verpflichtet.
 
+Der Kaufpreis entspricht dem Verkehrswert laut dem Gutachten des allgemein beeideten Sachverständigen vom [[date|2. Februar 2026]]. Der Sachverständige hat die Liegenschaft besichtigt und den Bauzustand sowie die Ausstattung festgehalten. Eine Abweichung des Kaufpreises vom Verkehrswert von mehr als zehn Prozent wurde nicht festgestellt. Der Verkäufer bestätigt, dass ihm keine Ansprüche Dritter an der Liegenschaft bekannt sind.
+
+Die Liegenschaft wird im Zustand übergeben, wie sie besichtigt wurde. Der Käufer übernimmt die Verpflichtungen aus dem Pachtvertrag für den Garten, der an einen Nachbarn verpachtet ist, sofern dieser Vertrag bis zum Übergabestichtag bestehen bleibt. Die Pacht beträgt EUR 180,00 jährlich und ist jeweils im Herbst fällig.
+
+Die Vertragsparteien haben vereinbart, dass die Kosten der Vertragserrichtung, der Eintragungsgebühr und der Urkundenbeglaubigung je zur Hälfte getragen werden. Die Grunderwerbsteuer hat der Käufer allein zu tragen. Die Gebühren des Grundbuchs sind nach dem [[legal_norm|GGG]] zu entrichten.
+
+Der Verkäufer hat dem Käufer die Energieausweise, die Baupläne und die Bescheide über die Baubewilligung ausgehändigt. Die Schlüssel werden am Tag der Kaufpreiszahlung in der Kanzlei übergeben. Ein Übergabeprotokoll wird von beiden Vertragsparteien unterfertigt und dem Akt beigelegt.
+
 V. Mängel und Gewährleistung
 
 Der Käufer erklärt, die Liegenschaft besichtigt zu haben und mit deren Zustand einverstanden zu sein. Der Verkäufer haftet für versteckte Mängel nur, soweit ihm diese bekannt waren. Die Gewährleistung für den Zustand der Heizungsanlage ist ausgeschlossen. Der Verkäufer hat dem Käufer die Heizungsrechnungen der letzten drei Jahre übergeben.

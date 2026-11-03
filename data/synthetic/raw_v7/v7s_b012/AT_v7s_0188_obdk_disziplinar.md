@@ -29,11 +29,11 @@ Die Beschuldigte bestritt in der mündlichen Verhandlung die Entnahme nicht, ver
 
 II. Feststellungen
 
-1. Am [[date|14.03.2023]] gingen auf dem Treuhandkonto für die Klientin [[person|Maso]] EUR 9.400,00 aus einem Vergleich ein. Die Treuhandschaft trägt die Nummer [[other_identifier|2021/299]]; die Eintragung im Treuhandbuch erfolgte erst am [[date|20.04.2023]].
+1. Am [[date|14.03.2023]] gingen auf dem Treuhandkonto für die Klientin [[person|Maso]] EUR 9.400,00 aus einem Vergleich ein. Die Treuhandschaft Nr. [[other_identifier|2021/299]]; die Eintragung im Treuhandbuch erfolgte erst am [[date|20.04.2023]].
 
 2. Am [[date|27.06.2023]] wurde von diesem Betrag ein Betrag von EUR 3.200,00 an die Beschuldigte selbst überwiesen, mit dem Vermerk „Vorschuss Gerichtsgebühren“. Gerichtsgebühren in dieser Höhe sind für das Verfahren nicht angefallen.
 
-3. Am [[date|11.11.2024]] gingen für den Klienten [[person|Bursac]] EUR 6.750,00 auf dem Treuhandkonto ein. Die Treuhandbuch-Nr. lautet [[other_identifier|2023/598]].
+3. Am [[date|11.11.2024]] gingen für den Klienten [[person|Bursac]] EUR 6.750,00 auf dem Treuhandkonto ein. Im Treuhandbuch ist sie unter der Treuhandbuch-Nr. [[other_identifier|2023/598]] vermerkt.
 
 4. Am [[date|08.01.2025]] wurden von diesem Betrag EUR 2.500,00 an eine Person überwiesen, die nicht Klient der Beschuldigten war. Der Zahlungsgrund wurde in den Unterlagen nicht angegeben. Am [[date|24.02.2025]] wurde der Restbetrag von EUR 4.250,00 an den Klienten ausbezahlt.
 
@@ -57,6 +57,18 @@ Bei der Strafbemessung war zu berücksichtigen, dass die Beschuldigte bisher unb
 
 Der Einwand der Verletzung des [[legal_norm|Art. 6 EMRK]] durch die lange Verfahrensdauer wurde geprüft. Die Verfahrensdauer ist gerechtfertigt, weil die Beschuldigte mehrfach Fristerstreckungen beantragt hat.
 
+7. Die Beschuldigte hat am [[date|19.09.2023]] für die Klientin Maso eine Zahlung von EUR 1.100,00 aus dem Treuhandkonto auf ein Konto der Beschuldigten überwiesen, mit dem Vermerk „Kanzleiaufwand“. Ein Kanzleiaufwand dieser Höhe war in der Angelegenheit nicht angefallen; die Rechnungen der Kanzlei wurden erst nach Aufforderung der Kammer vorgelegt.
+
+8. Am [[date|02.04.2025]] hat die Beschuldigte den Klienten Bursac in einer E-Mail über den Stand des Vergleichs informiert. Darin hat sie die Auszahlung des Restbetrags mit dem Datum [[date|28.02.2025]] angegeben; tatsächlich erfolgte die Auszahlung bereits am [[date|24.02.2025]]. Die unrichtige Angabe ist für sich genommen unbedeutend, zeigt aber, dass die Eintragungen nicht laufend geführt wurden.
+
+Die Kammer hat außerdem ein Gutachten eines Wirtschaftsprüfers eingeholt, das die Kontobewegungen der Jahre 2023 bis 2025 erfasst. Das Gutachten kommt zu dem Ergebnis, dass im Treuhandkonto Fehlbeträge in der Höhe von insgesamt EUR 9.950,00 bestehen, die nicht durch Honorarnoten belegt sind. Die Beschuldigte hat die Berechnung im Wesentlichen nicht bestritten, jedoch darauf verwiesen, dass ein Teil der Beträge auf Verrechnungen mit anderen Klienten entfalle.
+
+Der Senat folgt dem Gutachten, soweit es die Entnahmen vom [[date|27.06.2023]] und vom [[date|08.01.2025]] betrifft. Die Verrechnungen mit anderen Klienten sind nicht dokumentiert und können daher nicht berücksichtigt werden. Die Beschuldigte hat zudem selbst eingeräumt, dass sie die Verrechnung nicht im Treuhandbuch vermerkt hat.
+
+Die Zeugin [[person|Ioana Pascu]], eine ehemalige Mitarbeiterin der Kanzlei, hat ausgesagt, dass die Beschuldigte Zahlungen selbst freigegeben hat und die Buchhaltung nicht delegiert war. Die Zeugin hat die Kanzlei im Frühjahr 2025 verlassen, nachdem sie die Entnahmen bemerkt hatte. Ihre Aussage ist glaubhaft, weil sie sich auf Wahrnehmungen aus dem Arbeitsalltag stützt.
+
+Die Beschuldigte bringt vor, dass sie an einer schweren Erkrankung gelitten habe. Der Senat hat dies berücksichtigt, jedoch keine ärztliche Bestätigung für den betreffenden Zeitraum vorgelegt bekommen. Eine Erkrankung würde die Verantwortung für die Verwahrung nicht aufheben, weil die Kanzlei eine Vertretung hätte organisieren können.
+
 V. Kosten
 
 Die Kostenentscheidung beruht auf [[legal_norm|§ 52 RAO]]. Die Beschuldigte hat einen Teil der Verfahrenskosten zu tragen, der übrige Teil ist von der Kammer zu tragen.
@@ -66,7 +78,7 @@ Der Senat
 [[judge|Dr. Michel Larcher]]
 Vorsitzender
 
-Graz, am [[date|11. Mai 2026]]
+[[location|Graz]], am [[date|11. Mai 2026]]
 
 Ausgefertigt am [[date|2. Juni 2026]]
 

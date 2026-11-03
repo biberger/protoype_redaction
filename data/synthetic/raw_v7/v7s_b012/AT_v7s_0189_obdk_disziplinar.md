@@ -12,7 +12,7 @@ Zl. [[case_number|D 3/2026]]
 
 IM NAMEN DER REPUBLIK
 
-Der Disziplinarrat der Tiroler Rechtsanwaltskammer hat unter dem Vorsitz von [[judge|Dorotheos Koulouris]], geb. *[[date_of_birth|12.07.1936]], sowie der Beisitzerinnen [[judge|Dr. Tea Lindorfer]] und [[judge|Annegret Astner]] in Anwesenheit der Kammeranwältin [[person|Asena Kršková]] und des Schriftführers [[person|Thorsten Kovács]] über die Disziplinarsache gegen [[lawyer|DI Carina Seidmann]], Rechtsanwältin in [[location|Innsbruck]], nach mündlicher Verhandlung am [[date|23. März 2026]] zu Recht erkannt:
+Der [[court|Disziplinarrat der Tiroler Rechtsanwaltskammer]] hat unter dem Vorsitz von [[judge|Dorotheos Koulouris]], *[[date_of_birth|12.07.1936]], sowie der Beisitzerinnen [[judge|Dr. Tea Lindorfer]] und [[judge|Annegret Astner]] in Anwesenheit der Kammeranwältin [[person|Asena Kršková]] und des Schriftführers [[person|Thorsten Kovács]] über die Disziplinarsache gegen [[lawyer|DI Carina Seidmann]], Rechtsanwältin in [[location|Innsbruck]], nach mündlicher Verhandlung am [[date|23. März 2026]] zu Recht erkannt:
 
 Spruch
 
@@ -28,6 +28,8 @@ Die [[organization|Tiroler Rechtsanwaltskammer]] ([[organization|RAK Tirol]]) ha
 
 Nach Einsicht in das Treuhandbuch hat die [[organization|RAK Tirol]] die Kammeranwältin mit der Anklage beauftragt. Die Beschuldigte hat sich in der Verhandlung schuldig bekannt, jedoch auf ihre damalige finanzielle Notlage verwiesen.
 
+Die Verhandlung wurde zunächst auf den [[date|12.02.2026]] vertagt, weil die Beschuldigte keinen Verteidiger bestellt hatte. Sie hat sich am [[date|19.02.2026]] durch einen Rechtsanwalt vertreten lassen, der die Akteneinsicht beantragte und diese auch erhielt.
+
 II. Feststellungen
 
 1. Die Beschuldigte übernahm im Jahr 2024 die Abwicklung eines Kaufvertrags über eine Liegenschaft in [[location|St. Florian]]. Der Kaufpreis wurde auf das Treuhandkonto der Beschuldigten bei einer Bank überwiesen, deren Kontonummer lautet [[bank_account|AT98 7098 0495 4005 4214]].
@@ -40,11 +42,27 @@ II. Feststellungen
 
 5. Die Beschuldigte hat in der Folge den Betrag von EUR 30.000,00 am [[date|10.03.2025]] zurückgezahlt. Die Zinsen für den Zeitraum der Entnahme hat sie nicht berechnet.
 
+6. Die Beschuldigte hat den Verkäufer, [[person|Johann Waldner]], am [[date|2.09.2024]] telefonisch darüber informiert, dass der Kaufpreis „wegen einer Nachprüfung der Grundbuchsanmerkung“ noch nicht ausbezahlt werde. Eine Nachprüfung hat nicht stattgefunden; der Grundbuchsauszug vom [[date|28.08.2024]] enthielt keinen Vermerk, der die Auszahlung gehindert hätte.
+
+7. Der Verkäufer hat am [[date|12.11.2024]] schriftlich eine Abrechnung verlangt. Die Beschuldigte hat am [[date|21.11.2024]] eine Abrechnung übermittelt, die einen Betrag von EUR 30.000,00 als „Vorschuss auf Notariatskosten“ auswies. Notariatskosten sind jedoch nicht Gegenstand der Treuhandvereinbarung gewesen und wurden auch nicht von einem Notar abgerechnet.
+
+8. Die Beschuldigte hat ein Kassabuch geführt, das am [[date|5.09.2024]] einen Eintrag mit der Bezeichnung „Barentnahme Klient“ enthält. Dieser Eintrag ist mit dem Betrag von EUR 30.000,00 identisch, der an die Beschuldigte überwiesen wurde. Die Beschuldigte hat den Eintrag damit erklärt, dass sie den Betrag bar abgehoben und später an den Klienten weitergegeben habe. Eine solche Weitergabe ist nicht dokumentiert.
+
+9. Die Kammer hat im Rahmen der Ermittlungen die Auszüge des Klientenkontos angefordert. Diese wurden von der Beschuldigten erst nach der dritten Aufforderung vorgelegt, und zwar mit einer Verzögerung von fünf Wochen.
+
 III. Beweiswürdigung
 
 Der Senat stützt sich auf die Kontoauszüge, das Treuhandbuch und das Geständnis der Beschuldigten. Das Geständnis ist glaubwürdig, weil es mit den Urkunden übereinstimmt.
 
 Der Zeuge [[person|Mag. Florian Reitmeir]], Mitarbeiter der Bank, hat bestätigt, dass die Überweisung vom [[date|05.09.2024]] von einem Gerät der Kanzlei aus veranlasst wurde.
+
+Die Angaben des Verkäufers [[person|Waldner]] sind glaubhaft, weil er den Ablauf der Telefonate und Schreiben mit Datum belegen konnte. Der Verkäufer hat eine Kopie seiner Korrespondenz vorgelegt, die mit den Eintragungen im Treuhandbuch übereinstimmt.
+
+Die Beschuldigte hat die Bareinzahlung nicht nachgewiesen. Ein Bankbeleg über eine Barabhebung in dieser Höhe liegt nicht vor. Die Erklärung der Beschuldigten, der Betrag sei bar weitergegeben worden, ist damit nicht belegt und wird vom Senat nicht berücksichtigt.
+
+Die Zeugin [[person|Mag. Ulla Pfeifer]], Steuerberaterin der Beschuldigten, hat bestätigt, dass die Kassabucheinträge erst im Jänner 2025 vollständig erfasst wurden. Die Steuerberaterin hat ausgesagt, dass die Beschuldigte ihr die Belege zu spät übergeben hat und dass die Entnahme im Jahresabschluss nicht erkennbar war. Ihre Aussage ist glaubhaft, weil sie den Vorgang aus der Buchführung nachvollziehen konnte.
+
+Die Verteidigung hat beantragt, ein Gutachten zu den Honorarsätzen einzuholen. Der Senat hat den Antrag abgelehnt, weil die Höhe des Honorars nicht Gegenstand der Entnahme war und die Entnahme ohne Honorarnote erfolgte.
 
 IV. Rechtliche Beurteilung
 
@@ -56,11 +74,13 @@ Die Strafe bemisst sich nach [[legal_norm|§ 46 RAO]]. Eine Geldbuße erscheint 
 
 Der Senat hat die Rüge der Verletzung des [[legal_norm|Art. 6 EMRK]] geprüft. Die Beschuldigte war durch einen Verteidiger vertreten und hatte Gelegenheit, Beweisanträge zu stellen. Die Rüge wird verworfen.
 
+Die Beschuldigte hat sich in der Verhandlung auf ihre damalige Notlage berufen. Der Senat hat dies als Milderungsgrund berücksichtigt, jedoch nicht als Rechtfertigung. Eine Notlage entbindet einen Rechtsanwalt nicht von der Pflicht, Klientengelder unangetastet zu halten. Er hat vielmehr die Kammer zu informieren und das Mandat gegebenenfalls niederzulegen. Die Beschuldigte hat dies nicht getan.
+
 V. Kosten
 
 Die Kostenentscheidung beruht auf [[legal_norm|§ 52 RAO]].
 
-Innsbruck, am [[date|23. März 2026]]
+[[location|Innsbruck]], am [[date|23. März 2026]]
 
 Die Vorsitzende des Senats
 

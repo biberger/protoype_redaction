@@ -36,6 +36,12 @@ Ihre bisherige Antwort vom [[date|28. August 2026]], in der Sie jede Verantwortu
 
 Wir weisen darauf hin, dass [[person|Mantl]] bereit ist, die Klage im Falle einer Zahlung bis zum [[date|30. November 2026]] zurückzuziehen. Die Zahlung hat auf das Konto des Klagevertreters zu erfolgen. Für eine Ratenvereinbarung stehen wir ebenfalls zur Verfügung.
 
+Die Videoaufnahmen des Parkplatzes wurden von uns bereits am [[date|19. Juni 2026]] schriftlich gesichert und sind dem Schreiben als Kopie in der Beilage zugänglich. Auf den Aufnahmen ist um 14.20 Uhr ein weißer Transporter der [[organization|Lanzinger KG]] zu sehen, der beim Rangieren gegen das Fahrzeug unseres Mandanten stößt. Die Kennzeichenerkennung ist aufgrund der Entfernung nicht möglich, die Firmenaufschrift und die Ladebordwand sind jedoch eindeutig erkennbar.
+
+Wir ersuchen zudem um Auskunft, ob Herr [[person|Lewizki]] zum Unfallzeitpunkt als Lenker des Transporters eingesetzt war. Sollte dies zutreffen, wird der Schaden auch gegenüber dem Lenker geltend gemacht. Die Haftung des Betriebsinhabers ergibt sich aus [[legal_norm|§ 1315 ABGB]] und nach Maßgabe der Haftpflichtbestimmungen des [[legal_norm|EKHG]].
+
+Die Kosten für das Gutachten in Höhe von EUR 480,00 sind in der oben genannten Schadenssumme nicht enthalten und werden gesondert geltend gemacht. Die Gutachterrechnung liegt dem Schreiben bei.
+
 Die Tagsatzung vor dem [[court|BG Braunau am Inn]] ist für den [[date|8. Jänner 2027]] anberaumt. Wir ersuchen um Bekanntgabe, ob die [[organization|Lanzinger]] an dieser Tagsatzung teilnehmen oder sich vertreten lassen wird.
 
 Mit freundlichen Grüßen

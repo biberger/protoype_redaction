@@ -62,11 +62,25 @@ Der Senat stützt die Feststellungen auf das Treuhandbuch, die Kontoauszüge des
 
 Die Zeugin [[person|Dagmar Lindinger]] hat im Verfahren ausgesagt, sie habe den Beschuldigten mehrfach aufgefordert, ihr einen Nachweis über den Stand ihrer Treuhandschaft zu übermitteln. Dieser Nachweis sei nie eingelangt.
 
+Der Vorwurf der nicht fristgerechten Verwendung eines Teilbetrags betrifft außerdem die Treuhandschaft für die Klientin [[person|Dagmar Lindinger]] in einem zweiten Verfahren. Das Treuhandbuch zeigt für den Zeitraum vom Juli bis September 2024 eine Überziehung des Anderkontos, die der Beschuldigte nicht erläutert hat. Die Zeugin hat hierzu ausgesagt, sie habe vom Beschuldigten zu keinem Zeitpunkt eine schriftliche Abrechnung erhalten.
+
+Die Kammeranwaltschaft hat in der Verhandlung ergänzend vorgebracht, dass der Beschuldigte zwei Klienten gegenüber Zahlungsbestätigungen ausgestellt hat, obwohl die Zahlungen nicht erfolgt waren. Die Bestätigungen liegen als Beilage K 4 und K 5 im Akt. Der Beschuldigte hat die Echtheit seiner Unterschrift nicht bestritten und erklärt, die Bestätigungen seien als Entwürfe gedacht gewesen.
+
+Der Senat hält fest, dass diese Verantwortung nicht glaubhaft ist, weil die Bestätigungen mit dem Briefkopf der Kanzlei versehen und mit dem Datum der angeblichen Auszahlung ausgestellt waren. Die Schreiben enthalten eine unrichtige Tatsachenbehauptung gegenüber Klienten und sind geeignet, deren Vertrauen in die Verwahrung ihrer Gelder zu erschüttern.
+
+Der Beschuldigte hat in der Verhandlung zugestanden, dass er die Kammerprüfung im Jahr 2025 zunächst nicht vollständig unterstützt hat. Er hat die fehlenden Unterlagen nach der Aufforderung des Kammeramts nachgereicht. Dieser Umstand wurde zu seinen Gunsten gewertet, weil er die Mitwirkung schließlich nicht verweigert hat.
+
 **4. Rechtliche Beurteilung**
 
 Ein Rechtsanwalt hat nach [[legal_norm|§ 43 Abs 1 RAO]] seinen Beruf gewissenhaft auszuüben. Die Verpflichtung zur getrennten Verwahrung von Fremdgeldern ergibt sich aus [[legal_norm|§ 43a Abs 3 RAO]] und den Richtlinien für die Berufsausübung. Die Verwendung von Fremdgeld für eigene Zwecke stellt einen schwerwiegenden Verstoß dar, der das Vertrauen der Öffentlichkeit in den Berufsstand in besonderem Maße gefährdet.
 
 Bei der Strafbemessung waren als mildernd zu werten, dass der Beschuldigte den Fehlbetrag ausgeglichen und sich seit der Anzeige kooperativ verhalten hat. Erschwerend wirkt die Dauer der Pflichtverletzungen von mehr als einem Jahr und die Mehrzahl der betroffenen Klienten. Ein Ausschluss aus der Rechtsanwaltschaft wäre angesichts der Rückzahlung unverhältnismäßig.
+
+**4a. Strafbemessung**
+
+Der Senat hat bei der Strafbemessung die Dauer der Pflichtverletzungen, die Zahl der betroffenen Klienten und die Höhe der Beträge berücksichtigt. Mildernd war die vollständige Rückzahlung des Fehlbetrags und die bisherige Unbescholtenheit des Beschuldigten. Erschwerend wirkt die Mehrzahl der Fälle und die Tatsache, dass Gelder über einen längeren Zeitraum verwendet wurden.
+
+Die Geldbuße wurde im unteren Bereich des gesetzlichen Rahmens festgesetzt, weil eine höhere Buße die wirtschaftliche Grundlage des Beschuldigten gefährdet hätte. Der Senat hält den Verweis für notwendig, um die Verantwortung des Beschuldigten für die Verwahrung von Fremdgeldern deutlich zu machen.
 
 **5. Kosten**
 

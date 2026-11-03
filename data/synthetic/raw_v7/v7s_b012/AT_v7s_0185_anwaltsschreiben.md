@@ -19,7 +19,7 @@ An die
 Schadenabteilung
 z.H. Herrn [[person|Dipl.-Ing. Anton Kreuzeder]]
 
-Sattledt, am [[date|28. Oktober 2026]]
+[[location|Sattledt]], am [[date|28. Oktober 2026]]
 
 Betreff: Schadenfall vom [[date|02.05.2026]], Vers.-Nr. [[other_identifier|26-1028927]]
 
@@ -37,6 +37,14 @@ Die Haftpflichtversicherung der Lenkerin hat bisher keinen Betrag angewiesen. Di
 
 Wir ersuchen Sie daher, die Zahlung von EUR 8.300,00 binnen 14 Tagen auf das Konto IBAN [[bank_account|AT97 8668 4938 1604 4752]] unserer Kanzlei zu leisten. Sollte die [[organization|TVAG]] weiterhin nicht zahlen, werden wir ohne weitere Ankündigung die Klage einbringen.
 
+Zur Begründung verweisen wir auf die beigelegten Befunde, aus denen sich die Verletzung eindeutig ergibt. Die Beschwerden wurden bereits am Unfalltag dokumentiert; die Mandantin hat sie dem Erstbehandler am [[date|02.05.2026]] mitgeteilt.
+
+Die Ablehnung der [[organization|TVAG]] vom [[date|11.09.2026]] ist aus unserer Sicht nicht nachvollziehbar, da die Haftung der Lenkerin dem Grunde nach außer Streit steht. Frau [[person|Takacs]] hat in einem Telefonat mit unserer Mandantin eingeräumt, dass sie das Fahrzeug übersehen habe, und um Verständnis ersucht. Eine schriftliche Stellungnahme dazu liegt nicht vor.
+
+Die Mandantin ist derzeit noch nicht wieder voll arbeitsfähig; eine Nachuntersuchung ist für den [[date|17.11.2026]] vereinbart. Wir behalten uns vor, den Schmerzensgeldbetrag nach dem Ergebnis dieser Untersuchung zu erhöhen.
+
+Für eine außergerichtliche Einigung stehen wir zur Verfügung. Ein Telefonat mit Ihrer Schadenabteilung ist für die nächste Woche angekündigt.
+
 Mit freundlichen Grüßen
 
 [[lawyer|Wiedermann]]
@@ -47,6 +55,6 @@ Anlagen:
 - ärztliche Befunde der Ordination [[person|Dr. Hiebl]]
 - Fotos der Unfallstelle
 
-Kopie: [[person|Gertrud Pitschmann]]
+Kopie: [[person|Gertrud Pitschmann]], Kd.-Nr. [[other_identifier|127880]]
 
 [[address|4754 Andrichsfurt]]

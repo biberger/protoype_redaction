@@ -57,6 +57,12 @@ I. Sachverhalt
 
 5. Die Zeugin [[person|Gerda Plasser]] hat den Sturz beobachtet und die Klägerin sofort aufgehoben. Sie hat den Unfall am selben Tag bei der Polizeiinspektion angezeigt.
 
+Vorprozessuale Korrespondenz
+
+Die Klägerin hat die Beklagte Partei 1 mit Schreiben vom [[date|28. Juli 2025]] aufgefordert, den Schaden binnen 14 Tagen zu ersetzen. Die [[organization|Eichler Immobilien GmbH]] hat mit Schreiben vom [[date|4. August 2025]] jede Haftung bestritten und auf die Zuständigkeit der Gemeinde verwiesen. Der Beklagte 2 hat auf die Aufforderung vom [[date|28. Juli 2025]] nicht reagiert.
+
+Die Klägerin hat in der Folge ihre Rechtsschutzversicherung informiert. Die Deckungszusage liegt bei, sie ist jedoch auf die Hälfte der Klagsumme beschränkt. Die Befunde des Klinikums sind mit den Rechnungen abgestimmt; die Schmerzengeldberechnung erfolgt nach Tagessätzen für die Zeit der Krankenhausaufenthalte und der Genesung. Eine Nachuntersuchung ist für den [[date|20. Jänner 2027]] vorgesehen.
+
 II. Rechtliche Beurteilung
 
 6. Die Beklagte Partei 1 haftet nach [[legal_norm|§ 1319 ABGB]] iVm [[legal_norm|§ 1320 ABGB]] für die mangelhafte Erhaltung des Gehsteigs. Die Verkehrssicherungspflicht ist eine Pflicht zur regelmäßigen Kontrolle, die die Beklagte Partei 1 verletzt hat.
@@ -73,7 +79,7 @@ III. Schaden
 
 IV. Beweise
 
-Die Klägerin beantragt die Einvernahme der Zeugin [[person|Plasser]] und der Parteien, die Einholung eines unfallchirurgischen Gutachtens sowie die Vorlage der Unfallfotos.
+Die Klägerin beantragt die Einvernahme der Zeugin [[person|Plasser]] und der Parteien, die Einholung eines unfallchirurgischen Gutachtens sowie die Vorlage der Unfallfotos. Zudem wird die Einvernahme des behandelnden Arztes [[person|Dr. Wolfgang Maierhofer]] zum Unfallhergang und zu den Dauerfolgen beantragt.
 
 V. Beilagen
 
@@ -84,7 +90,7 @@ Beilage ./B: ärztlicher Befundbericht des Klinikums vom [[date|11. Juli 2025]]
 Beilage ./C: Schreiben der [[organization|Eichler Immobilien GmbH]] vom [[date|22. Juli 2025]]
 Beilage ./D: Vollmacht
 
-Gmünd, am [[date|3. November 2026]]
+[[location|Gmünd]], am [[date|3. November 2026]]
 
 [[lawyer|Hasenhüttl]]
 Rechtsanwalt

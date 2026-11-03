@@ -22,6 +22,8 @@ Abgeschlossen am [[date|9. Juni 2026]] zwischen
 VERKÄUFER:
 [[organization|KRONBERG HOLZBAU GMBH]]
 vertreten durch den Geschäftsführer [[person|Botjo Bozhilov]]
+Sitz: [[address|4642 Sattledt]]
+Tel. [[phone_number|02742/4422723 Kl. 97]]
 
 KÄUFER:
 1. Frau [[person|Klaasje Van der Veen]], GEB: [[date_of_birth|27.04.1983]],
@@ -65,14 +67,29 @@ V. Gewährleistung und Übergabe
 
 (3) Die Verkäuferin hat die Heizungsanlage und die Wasserleitungen vor der Übergabe überprüfen lassen. Der Prüfbericht vom [[date|12. Mai 2026]] liegt bei.
 
-VI. Schlussbestimmungen
+VI. Lastenfreistellung und Vorkaufsrecht
+
+(1) Eine allfällige Hypothek zugunsten einer Bank ist von der Verkäuferin vor Fälligkeit des Restkaufpreises löschen zu lassen. Die Löschungsquittung ist den Treuhändern zu übergeben.
+
+(2) Ein Vorkaufsrecht zugunsten Dritter besteht nach Kenntnis der Vertragsparteien nicht. Die Käufer haben davon Kenntnis genommen, dass die Liegenschaft Teil eines Hofes ist, der landwirtschaftlich genutzt wird. Die grundverkehrsbehördliche Genehmigung wird von den Käufern eingeholt.
+
+(3) Die Käufer erklären, dass sie die Liegenschaft zu Wohnzwecken erwerben. Die Verkäuferin erklärt, dass keine Förderungsmittel rückzuzahlen sind.
+
+(4) Die Kosten für die Vermessung des abzuschreibenden Grundstücks trägt die Verkäuferin.
+
+VII. Unterlagen
+
+Die Verkäuferin übergibt den Käufern bei Vertragsunterfertigung sämtliche Baupläne, Bewilligungen und die Kopien der Zählerstände. Die Übergabe der Originalurkunden erfolgt über die Treuhänder.
+
+
+VIII. Schlussbestimmungen
 
 Änderungen dieses Vertrags bedürfen der Schriftform. Die Vertragsparteien erhalten je eine Ausfertigung.
 
-Sattledt, am [[date|9. Juni 2026]]
+[[location|Sattledt]], am [[date|9. Juni 2026]]
 
 Für die Verkäuferin:
-KRONBERG HOLZBAU GMBH
+[[organization|KRONBERG HOLZBAU GMBH]]
 [[person|BOZHILOV Botjo]], Geschäftsführer
 
 Die Käuferinnen und der Käufer:
@@ -83,4 +100,4 @@ Die Käuferinnen und der Käufer:
 Für die Richtigkeit der Ausfertigung:
 Rechtsanwalt [[lawyer|Grinschgl]]
 
-Die Kronberg Holzbau wird im Grundbuch als Verkäuferin geführt, die Käufer nehmen dies zur Kenntnis.
+Die [[organization|Kronberg Holzbau]] wird im Grundbuch als Verkäuferin geführt, die Käufer nehmen dies zur Kenntnis.

@@ -59,15 +59,23 @@ Gemäß [[legal_norm|§ 43a Abs 3 RAO]] hat der Rechtsanwalt die ihm anvertraute
 
 Die Beschuldigte hat die Verbuchung am [[date|09.09.2025]] nicht selbst vorgenommen. Dass sie den Beleg unterschrieben hat, ist nicht erwiesen; insoweit war die Anzeige abzuweisen.
 
+6. Der Kammeranwalt hat weiters vorgebracht, dass die Beschuldigte im Jahr 2024 eine zweite Treuhandschaft übernommen hatte, bei der die Klientin [[person|Ljiljana Dobrovolny]] einen Kaufpreis von 18.750,00 Euro hinterlegt hatte. Die Zahlung an die Verkäufer erfolgte erst nach drei Monaten, obwohl die Pfandfreistellung bereits am [[date|12.06.2024]] vorlag. Die Beschuldigte hat dazu nur angegeben, sie habe auf Zuruf der Klientin gewartet.
+
+7. Die Klientin [[person|Ljiljana Dobrovolny]] hat in ihrer schriftlichen Stellungnahme vom [[date|02.10.2025]] bestätigt, dass sie keine Weisung zur Zurückhaltung erteilt hat. Die Beschuldigte hat daraufhin in der Verhandlung eingeräumt, dass sie die Zahlung wegen einer Verwechslung der Kontonummern zurückgehalten hat.
+
+**Anträge**
+
+Der Kammeranwalt beantragte die Verhängung einer Geldbuße in Höhe von 6.000,00 Euro sowie den Ausspruch, dass die Beschuldigte die Kosten des Verfahrens zu tragen habe. Die Beschuldigte beantragte die Abweisung der Anzeige, hilfsweise die Verhängung einer Verwarnung.
+
 **V. Strafbemessung**
 
-Als mildernd wertete der Senat die bisherige Unbescholtenheit und die Rückzahlung der restlichen 11.300,00 Euro an [[person|Gerhild Wallner]] am [[date|05.11.2025]]. Erschwerend war die Dauer der Pflichtverletzung von mehr als sechs Monaten. Die Geldbuße wurde unter Berücksichtigung der wirtschaftlichen Verhältnisse der Beschuldigten bemessen.
+Als mildernd wertete der Senat die bisherige Unbescholtenheit und die Rückzahlung der restlichen 11.300,00 Euro an [[person|Gerhild Wallner]] am [[date|05.11.2025]]. Erschwerend war die Dauer der Pflichtverletzung von mehr als sechs Monaten. Die Geldbuße wurde unter Berücksichtigung der wirtschaftlichen Verhältnisse der Beschuldigten bemessen. Der Senat hat die Anträge des Kammeranwalts auf eine höhere Geldbuße nicht übernommen, weil der zweite Vorwurf nur auf einer Verwechslung der Kontonummern beruhte und die Zahlung schließlich ohne Schaden für die Klientin erfolgte.
 
 **VI. Kosten**
 
-Die Beschuldigte hat die Kosten des Verfahrens zu tragen. Diese werden mit 1.250,00 Euro bestimmt.
+Die Beschuldigte hat die Kosten des Verfahrens zu tragen. Diese werden mit 1.250,00 Euro bestimmt. Die Kosten umfassen die Gebühren der Zeugin, die Reisekosten des Kammeranwalts und die Kosten der Protokollierung durch den Schriftführer. Die Zeugin [[person|Gerhild Wallner]] hat Anspruch auf Ersatz ihrer Fahrtkosten von [[location|Wolfsberg]] nach [[location|Klagenfurt]], die der Senat mit einem Betrag von 86,40 Euro bemessen hat. Eine Befreiung von der Kostentragung nach den Bestimmungen der Verfahrensordnung kam nicht in Betracht, weil die Beschuldigte keine Umstände dargelegt hat, die ihre Vermögenslage beeinträchtigen würden.
 
-Die Entscheidung ist mit Berufung an den Obersten Gerichtshof anfechtbar. Die Berufungsfrist beträgt vier Wochen ab Zustellung.
+Die Entscheidung ist mit Berufung an den [[court|Obersten Gerichtshof]] anfechtbar. Die Berufungsfrist beträgt vier Wochen ab Zustellung.
 
 Für den Disziplinarrat:
 

@@ -66,6 +66,10 @@ Die Beschuldigte hat in ihrer Stellungnahme vom [[date|12.05.2025]] vorgebracht,
 
 Der Vorsitzende wies darauf hin, dass die Beschuldigte bei der Verhandlung den Kontoauszug vom [[date|30.09.2024]] nicht mitgebracht hatte. Die Beschuldigte erklärte, sie habe die Unterlagen einer Mitarbeiterin übergeben, die inzwischen nicht mehr in der Kanzlei tätig sei.
 
+Der Senat hat die Zeugenaussage des Klienten [[person|Meinhard Sima]] gewürdigt, der angab, er habe die Teilzahlung vom [[date|12.06.2024]] nicht genehmigt. Die Zeugin [[person|Roseanne Radovic]] bestätigte, dass sie die Auszahlung vom [[date|21.05.2024]] nur auf Zuruf der Beschuldigten erhalten habe.
+
+Die Kammeranwältin [[person|Gerhilt Mörzinger]] beantragte eine Geldbuße von EUR 3.000,00 und wies darauf hin, dass die Beschuldigte die Abrechnung über einen Zeitraum von mehr als einem Jahr nicht erstellt habe. Der Senat folgte diesem Antrag.
+
 Gegen diese Entscheidung kann binnen vier Wochen Berufung an die [[court|OBDK]] erhoben werden. Die Kosten richten sich nach [[legal_norm|§ 39 Abs 2 RAO]].
 
 Für den [[court|Disziplinarrat der Tiroler Rechtsanwaltskammer]]:

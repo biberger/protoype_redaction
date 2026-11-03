@@ -28,6 +28,10 @@ Das zweite Fahrzeug wurde von [[person|Antonia Schwentner]] gelenkt. Frau [[pers
 
 Die Schadenshöhe wurde am Fahrzeug mit dem Kennzeichen [[license_plate|HL-4XH]] auf rund EUR 9.400,00 geschätzt, an der Leitschiene auf EUR 3.100,00. Die Verständigung der Versicherung erfolgte unter der [[other_identifier|58/121265/20]].
 
+Die Unfallstelle liegt in einem Abschnitt mit einer Geschwindigkeitsbeschränkung von 70 km/h. Die Fahrbahn war durch Regen nass, die Sicht durch Nebel im Tal eingeschränkt. Der Streifenwagen traf um 07.48 Uhr ein, die Verkehrsfläche wurde bis 08.30 Uhr durch die Feuerwehr gesichert. Die Bergung des Fahrzeuges mit dem Kennzeichen [[license_plate|HL-4XH]] erfolgte durch ein Abschleppunternehmen aus [[location|Mauterndorf]].
+
+Die Lenkerin des zweiten Fahrzeuges, [[person|Antonia Schwentner]], gab an, dass das Fahrzeug von [[person|Ing. Bruno Rašić]] beim Überholen auf ihre Fahrspur gezogen sei und sie nach rechts ausweichen habe müssen. Der Lenker hat diese Darstellung in der Befragung bestritten. Die Reifenspuren auf der Fahrbahn sprechen nach Ansicht des Sachverständigen eher für die Darstellung der Lenkerin.
+
 STEMPEL: [[organization|LANDESPOLIZEIDIREKTION SALZBURG]]
 DIENSTSTELLE: [[organization|POLIZEIINSPEKTION TAMSWEG]]
 

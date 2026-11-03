@@ -66,6 +66,16 @@ Zum Beweis wird aufgenommen:
 9. Sachverständigengutachten zur Schadenshöhe.
 10. Einvernahme der Klägerin zu den Feuchtigkeitsschäden.
 
+**III a. Ergänzendes Vorbringen**
+
+11. Die Klägerin hat die Schäden am [[date|9. Juni 2024]] unverzüglich der Beklagten gemeldet und Fotos übermittelt. Die Beklagte hat sich bis zum [[date|20. Juni 2024]] nicht gemeldet. Erst nach einer Urgenz der Hausverwaltung erschien am [[date|25. Juni 2024]] ein Vertreter der Beklagten, der die Schadensstelle besichtigte, ohne eine Sofortmaßnahme zu setzen.
+
+12. Der Sachverständige wird die Trocknungsdauer, die Schimmelbildung im Estrich und den Wertverlust des Parketts zu beurteilen haben. Die Klägerin hat vorab ein Privatgutachten bei [[person|Ing. Radoslav Pavlović]] in Auftrag gegeben, das am [[date|30. Oktober 2024]] übermittelt wurde.
+
+13. Die Streitgenossin [[person|Mag. Dr. Isa Schwaninger]] hat den Vertrag mit der Beklagten als Eigentümervertreterin unterzeichnet. Sie kann sich daher nicht auf die bloße Stellung als Auftraggeberin berufen. Ihre Verantwortung für die Abnahme ergibt sich aus dem Protokoll vom [[date|7. Juni 2024]], das sie mitunterzeichnet hat.
+
+14. Die Ansprüche sind nicht verjährt. Der Schaden wurde innerhalb der Frist des [[legal_norm|§ 1489 ABGB]] gerichtlich geltend gemacht, auch wenn die Mängelbehebung erst im Frühjahr 2025 versucht wurde.
+
 **IV. Anträge**
 
 Die Klägerin stellt daher die Anträge,

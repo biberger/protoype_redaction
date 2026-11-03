@@ -14,7 +14,7 @@ ERV-Code: [[other_identifier|P716406]]
 
 An das
 [[court|Handelsgericht Wien]]
-Marxergasse 1A, 1030 Wien
+[[address|Marxergasse 1A, 1030 Wien]]
 
 [[court|HG Wien]]
 Zl. [[case_number|25 Cg 412/26w]]

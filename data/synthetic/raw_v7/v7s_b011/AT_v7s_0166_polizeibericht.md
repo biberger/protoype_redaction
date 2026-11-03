@@ -34,6 +34,14 @@ Am Fahrzeug mit dem Kennzeichen [[license_plate|KU 74 OO]] entstand ein Schaden 
 
 Die Fahrzeuge wurden um 17.10 Uhr freigegeben. Die Unfallskizze wurde im Maßstab 1:200 angefertigt und liegt dem Akt bei. Ein Foto der Bremsspuren wurde mit der Dienstkamera gefertigt.
 
+Die Halterdaten wurden über das Zulassungsregister überprüft. Das Fahrzeug mit dem Kennzeichen [[license_plate|KU 74 OO]] ist auf den Lenker zugelassen, die Haftpflichtversicherung war zum Unfallzeitpunkt aufrecht. Das zweite Fahrzeug war auf Frau [[person|Miller]] zugelassen, wurde jedoch von Herrn [[person|Davutoğlu]] gelenkt. Eine Lenkberechtigung für die Klasse B wurde für beide Lenker bestätigt.
+
+Die Witterungsverhältnisse waren zum Unfallzeitpunkt durch Nieselregen und eine Temperatur von rund acht Grad Celsius gekennzeichnet. Die Sicht war gut, die Fahrbahn ist im betreffenden Abschnitt jedoch nicht beleuchtet, weil die Straßenbeleuchtung erst bei der Ortseinfahrt beginnt. Im Ortsgebiet gilt eine Geschwindigkeitsbeschränkung von 50 km/h. Der Lenker des ersten Fahrzeuges gab eine Geschwindigkeit von etwa 45 km/h an, die Zeugin schätzte rund 60 km/h.
+
+Im Rahmen der Erhebungen wurde auch die Ampelanlage am Knoten überprüft. Die Signalanlage war zum Unfallzeitpunkt in Betrieb, die Schaltfolge wurde von der zuständigen Straßenverwaltung bestätigt. Ein Ersuchen um Herausgabe der Aufzeichnung der Videokamera des Gemeindeamtes wurde gestellt; die Aufnahmen werden am [[date|21. September 2026]] erwartet.
+
+Die Bezirkshauptmannschaft wird um Prüfung ersucht, ob gegen die Lenker Verwaltungsübertretungen nach der [[legal_norm|StVO]] einzuleiten sind. Der Lenker des ersten Fahrzeuges hat seinen Führerschein vorgelegt; eine Beanstandung ist nicht erfolgt.
+
 Im Zuge der Erhebungen wurde festgestellt, dass Herr [[person|Davutoğlu]] vor drei Jahren bereits einmal als Unfallbeteiligter erfasst war. Die damalige Anzeige wurde eingestellt. Frau [[person|Miller]] benötigt für die Beförderung einen Rollstuhl, der bei der Anzeige nicht erfasst war.
 
 Alle Angaben wurden den Beteiligten vorgelesen und von ihnen bestätigt. Eine Kopie des Berichtes wurde jedem Beteiligten ausgefolgt.

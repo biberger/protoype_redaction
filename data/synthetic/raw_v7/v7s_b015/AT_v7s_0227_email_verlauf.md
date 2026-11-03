@@ -29,7 +29,7 @@ wir bestätigen den Eingang Ihrer Nachricht. Unsere Mandantin hält an der Forde
 
 Wir ersuchen um Klarstellung, ob die [[organization|WIG]] die Zahlung innerhalb von vier Wochen leistet oder ob wir die Klage bei der [[court|Oberlandesgericht Wien]] vorbereiten sollen. Eine Klage beim [[court|OLG Wien]] wäre nur zulässig, wenn der Streitwert die Grenze überschreitet; dies haben wir geprüft. Die Schadensbehebung durch die [[organization|WIG]] ist bisher nicht erfolgt, die Mängel bestehen fort.
 
-Bitte bestätigen Sie den Empfang bis Ende der Woche. Sollte die [[organization|WIG]] weiterhin keine Stellungnahme zur Schadenshöhe abgeben, werden wir den Sachverständigen [[person|Dr. Rupert Ebenhöh]] ersuchen, ein Ergänzungsgutachten zu erstellen. Die Kosten dafür trägt nach unserer Auffassung die [[organization|WIG]].
+Bitte bestätigen Sie den Empfang bis Ende der Woche. Wir ersuchen zudem um Übersendung einer Kopie des Mietvertrages und des Protokolls der Hausversammlung vom [[date|29. September 2026]], soweit die Außenwand darin erwähnt ist. Sollte die [[organization|WIG]] weiterhin keine Stellungnahme zur Schadenshöhe abgeben, werden wir den Sachverständigen [[person|Dr. Rupert Ebenhöh]] ersuchen, ein Ergänzungsgutachten zu erstellen. Die Kosten dafür trägt nach unserer Auffassung die [[organization|WIG]].
 
 Mit freundlichen Grüßen
 

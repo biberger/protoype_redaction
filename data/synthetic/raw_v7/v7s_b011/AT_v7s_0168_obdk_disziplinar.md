@@ -51,6 +51,12 @@ Der Senat stützt seine Feststellungen auf die Aussagen des Disziplinarbeschuldi
 
 Die Zeugin Kanzleikraft hat ausgesagt, dass die Treuhandbuchung im Ergebnis von ihr vorbereitet, aber vom Disziplinarbeschuldigten selbst freigegeben worden sei. Der Senat hält die Aussage für glaubwürdig, sieht darin jedoch keine Entlastung, da die Verantwortung für die Verbuchung beim Rechtsanwalt liegt.
 
+Der Disziplinarbeschuldigte hat in seiner Stellungnahme vom [[date|20. April 2026]] vorgebracht, dass er die Restzahlung in bar entgegengenommen habe, weil die Mandantin bei der Übergabe um eine Quittung ersucht, jedoch keine Adresse für die Zustellung angegeben habe. Diese Darstellung ist nicht glaubhaft, weil die Mandantin [[person|Garber]] in ihrer Aussage ausdrücklich verneint hat, Bargeld übergeben zu haben.
+
+Der Senat hat außerdem geprüft, ob die Kanzleikraft als Zeugin eine eigenständige Verantwortung trägt. Die Zeugin hat ausgesagt, dass sie die Buchungsbelege bereits im Februar 2025 zur Freigabe vorgelegt habe. Der Disziplinarbeschuldigte habe die Freigabe jedoch erst im Mai 2025 erteilt. Der Senat sieht darin eine Verzögerung, die dem Disziplinarbeschuldigten zuzurechnen ist, da die Organisation des Kanzleibetriebs ihm obliegt.
+
+Die Kammeranwaltschaft hat zudem darauf hingewiesen, dass die Kanzlei bei der Verwaltung von Klientengeldern keine Kontrollliste führte. Eine solche Liste wird in den Richtlinien für die Ausübung des Anwaltsberufs ausdrücklich empfohlen. Der Disziplinarbeschuldigte hat eine Liste erst nach Einleitung der Ermittlungen angelegt. Der Senat würdigt dies als nachträgliche Organisationsmaßnahme, sie entlastet ihn für die Vergangenheit jedoch nicht.
+
 IV. Rechtliche Beurteilung
 
 Ein Rechtsanwalt hat Klientengelder unverzüglich und getrennt vom eigenen Vermögen zu verwalten. Die Verletzung dieser Pflicht stellt ein Disziplinarvergehen dar. Die Verpflichtung ergibt sich aus [[legal_norm|§ 43a Abs 2 RAO]] und dem Auftragsverhältnis nach [[legal_norm|§ 1009 ABGB]]. Die Verweisung auf die Richtlinien für die Ausübung des Anwaltsberufs ist zulässig, soweit sie die gesetzlichen Pflichten konkretisiert.

@@ -36,7 +36,7 @@ Die Vertragsparteien werden im Folgenden gemeinsam als Vertragsteile bezeichnet.
 
 II. Vorbemerkungen
 
-Die Verkäuferin ist grundbücherliche Alleineigentümerin der nachstehend bezeichneten Liegenschaften. Die Käuferin beabsichtigt, diese Liegenschaften zu erwerben und darauf ein Wohnhaus zu errichten. Die Verkäuferin hat die Liegenschaften bis zum Abschluss dieses Vertrages selbst bewohnt und genutzt.
+Die Verkäuferin ist grundbücherliche Alleineigentümerin der nachstehend bezeichneten Liegenschaften. Die Käuferin beabsichtigt, diese Liegenschaften zu erwerben und darauf ein Wohnhaus zu errichten. Die Verkäuferin hat die Liegenschaften bis zum Abschluss dieses Vertrages selbst bewohnt und genutzt. Die Käuferin hat die Liegenschaften vor Vertragsabschluss besichtigt und den Flächenwidmungsplan der Gemeinde eingesehen. Die Bebaubarkeit der Grundstücke wurde von den Vertragsteilen als Grundlage des Kaufes vorausgesetzt. Ein Vorvertrag wurde zwischen den Vertragsteilen nicht abgeschlossen.
 
 Eigentümer laut Grundbuchsauszug:
 
@@ -62,7 +62,11 @@ IV. Kaufpreis und Zahlung
 
 3. Die Rückzahlung eines allfälligen Vorschusses erfolgt auf das Konto IBAN [[bank_account|AT38 8009 5639 4445 4914]] der Verkäuferin.
 
-4. Die Grunderwerbsteuer und die Eintragungsgebühr trägt die Käuferin. Die Kosten der Vertragserrichtung trägt die Käuferin zur Hälfte, die Verkäuferin zur anderen Hälfte.
+4. Die Grunderwerbsteuer und die Eintragungsgebühr trägt die Käuferin.
+
+5. Der Kaufpreis wird wie folgt fällig: eine Anzahlung von EUR 20.000,00 bei Unterfertigung dieses Vertrages, ein Teilbetrag von EUR 125.000,00 nach Vorliegen der Lastenfreistellung und der Restbetrag von EUR 100.000,00 nach der Eintragung des Eigentumsrechtes der Käuferin im Grundbuch.
+
+6. Die Käuferin verpflichtet sich, die Bauverhandlung für das geplante Wohnhaus innerhalb von zwölf Monaten nach dem Eigentumserwerb einzuleiten. Die Verkäuferin hat gegen diese Verpflichtung kein Rücktrittsrecht, sofern die Käuferin die Frist um höchstens sechs Monate überschreitet. Die Kosten der Vertragserrichtung trägt die Käuferin zur Hälfte, die Verkäuferin zur anderen Hälfte.
 
 V. Aufsandungserklärung
 
@@ -70,19 +74,52 @@ Die Verkäuferin erteilt hiermit der Käuferin die Aufsandungserklärung zur Ein
 
 VI. Lastenfreistellung
 
-Die Verkäuferin verpflichtet sich, bestehende Pfandrechte bis zur Übergabe der Kaufpreiszahlung löschen zu lassen. Die Kanzlei wird die Lastenfreistellung im Grundbuch überwachen. Sollte eine Lastenfreistellung bis zum [[date|31. März 2027]] nicht erfolgen, ist die Käuferin berechtigt, vom Vertrag zurückzutreten.
+Die Verkäuferin verpflichtet sich, bestehende Pfandrechte bis zur Übergabe der Kaufpreiszahlung löschen zu lassen. Die Kanzlei wird die Lastenfreistellung im Grundbuch überwachen. Im Grundbuch ist zugunsten der [[organization|Tiroler Sparkasse]] ein Pfandrecht im Höchstbetrag von EUR 150.000,00 einverleibt; die Löschungserklärung der Pfandgläubigerin wird vor der Auszahlung des Kaufpreises an die Kanzlei übermittelt. Ein weiteres Pfandrecht besteht nicht. Sollte eine Lastenfreistellung bis zum [[date|31. März 2027]] nicht erfolgen, ist die Käuferin berechtigt, vom Vertrag zurückzutreten.
 
 VII. Übergabe und Gewährleistung
 
-Die Übergabe erfolgt mit Unterfertigung dieses Vertrages. Die Gefahr geht mit dem Tag der Übergabe auf die Käuferin über. Die Verkäuferin haftet nicht für Sachmängel, die ihr nicht bekannt waren. Die Verkäuferin erklärt, dass keine Mietverhältnisse an den Liegenschaften bestehen.
+Die Übergabe erfolgt mit Unterfertigung dieses Vertrages, die Schlüssel zum Wohnhaus auf den Grundstücken werden bei der Kanzlei hinterlegt. Die Gefahr geht mit dem Tag der Übergabe auf die Käuferin über. Die Verkäuferin trägt die bis zum Tag der Übergabe anfallenden Abgaben und Betriebskosten, die Käuferin die danach anfallenden. Die Verkäuferin haftet nicht für Sachmängel, die ihr nicht bekannt waren. Die Verkäuferin erklärt, dass keine Mietverhältnisse an den Liegenschaften bestehen.
 
-VIII. Schlussbestimmungen
+VIII. Treuhandabwicklung und Fälligkeit
+
+1. Die Kanzlei nimmt den Kaufpreis auf dem Treuhandkonto entgegen und verwahrt ihn bis zur Erfüllung der nachstehenden Bedingungen. Die Verzinsung des Treuhandkontos richtet sich nach den Bedingungen der Bank.
+
+2. Die Auszahlung an die Verkäuferin erfolgt innerhalb von vierzehn Tagen nach dem Einlangen der Bestätigung über die Lastenfreistellung der Liegenschaften, das ist die Bestätigung der Eintragung im Grundbuch.
+
+3. Sind die Bedingungen bis zum [[date|31. März 2027]] nicht erfüllt, werden die Kaufpreisteile an die Käuferin zurückgezahlt, soweit die Käuferin den Rücktritt erklärt hat. Die Kosten der Rückabwicklung trägt die Partei, die den Rücktritt erklärt hat.
+
+4. Die Verkäuferin erklärt, dass die Liegenschaften frei von Dienstbarkeiten sind, mit Ausnahme der im Grundbuch ersichtlichen Wege- und Leitungsrechte zugunsten der Nachbargrundstücke.
+
+IX. Nebenbestimmungen
+
+1. Die Käuferin übernimmt die Verpflichtung, die Zufahrt zu den Grundstücken auch für die Nachbarn offen zu halten. Die Nachbarn haben ein Wegerecht nach [[legal_norm|§ 1053 ABGB]], das durch diesen Vertrag nicht berührt wird.
+
+2. Die Verkäuferin hat der Käuferin die Abgabenbescheide für die Grundsteuer der letzten drei Jahre übergeben. Eine Nachzahlung für frühere Zeiträume trägt die Verkäuferin.
+
+3. Die Vertragsteile nehmen zur Kenntnis, dass die Eigentumsübertragung der Grunderwerbsteuer unterliegt und die Anzeige nach [[legal_norm|§ 9 GrEStG]] durch die Kanzlei erfolgt.
+
+4. Die Verkäuferin erteilt der Kanzlei die Vollmacht, die Löschung der bestehenden Vormerkung und die Abgabe der Grunderwerbsteueranzeige im Namen der Verkäuferin vorzunehmen.
+
+X. Datenschutz
+
+Die Vertragsteile stimmen zu, dass ihre personenbezogenen Daten im Rahmen der Vertragsabwicklung verarbeitet werden. Die Verarbeitung erfolgt nach der [[legal_norm|Datenschutz-Grundverordnung]] und dem [[legal_norm|DSG]]. Die Kanzlei verpflichtet sich zur Verschwiegenheit gegenüber Dritten.
+
+XI. Schlussbestimmungen
 
 1. Änderungen und Ergänzungen dieses Vertrages bedürfen der Schriftform.
 
 2. Sollte eine Bestimmung dieses Vertrages unwirksam sein, bleibt der übrige Vertrag wirksam.
 
 3. Die Vertragsteile erklären, dass sie den Vertrag gelesen, verstanden und frei abgeschlossen haben. Die Käuferin bestätigt, dass ihr die Übersetzung der Vertragsbestimmungen ausgehändigt wurde.
+
+4. Für Streitigkeiten aus diesem Vertrag ist das für die Liegenschaften zuständige [[court|BG Steyr]] zuständig, soweit nicht zwingende Vorschriften etwas anderes bestimmen.
+
+5. Dieser Vertrag wird in dreifacher Ausfertigung errichtet; je ein Exemplar erhalten die Vertragsteile, das dritte verbleibt bei der Kanzlei.
+
+Anlagen:
+./A Grundbuchsauszug zu [[land_register_id|EZ: 1742]] vom [[date|2. November 2026]]
+./B Lageplan samt Vermessungsurkunde
+./C Vollmacht der Verkäuferin an die Kanzlei zur Lastenfreistellung
 
 [[location|Gaschurn]], am [[date|4. November 2026]]
 

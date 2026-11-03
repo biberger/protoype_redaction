@@ -11,12 +11,12 @@ Tel. [[phone_number|0316 898570-26]]
 
 **Erkenntnis**
 
-Der Disziplinarrat der Steiermärkischen Rechtsanwaltskammer hat am [[date|24. Juni 2025]] in nichtöffentlicher Sitzung in Graz in folgender Besetzung entschieden:
+Der [[court|Disziplinarrat der Steiermärkischen Rechtsanwaltskammer]] hat am [[date|24. Juni 2025]] in nichtöffentlicher Sitzung in [[location|Graz]] in folgender Besetzung entschieden:
 
 Vorsitz: Senatsvorsitzende [[judge|Mag. Nantkea Scheibler]]
 Beisitzer: [[judge|MMag. Řehor Hlubuček]], geb. [[date_of_birth|27. Oktober 1988]], Staatsangehöriger von [[country|Syrien]]
 Beisitzer: [[judge|Mag. ʿabbās Esber]]
-Schriftführerin: *[[date_of_birth|1961-04-22]] [[person|Ing. Magdaléna Kovářová]]
+Schriftführerin: [[person|Ing. Magdaléna Kovářová]], *[[date_of_birth|1961-04-22]]
 Kammeranwalt: [[person|Dr. Falk Helmberger]]
 Beschuldigter: [[lawyer|Hansel Spreitzer]]
 
@@ -26,17 +26,34 @@ Der Beschuldigte [[lawyer|Hansel Spreitzer]] hat die ihm übertragenen Treuhandg
 
 **Sachverhalt**
 
-1. Der Beschuldigte führte für die Klienten [[person|Galli Liebermann]] und [[person|Ante Goldstein]] im Jahr 2024 eine Treuhandschaft betreffend den Kauf eines Lagerobjektes. Die Treuhandschaft trug die Nummer [[other_identifier|2024/152]].
+1. Der Beschuldigte führte für die Klienten [[person|Galli Liebermann]] und [[person|Ante Goldstein]] im Jahr 2024 eine Treuhandschaft betreffend den Kauf eines Lagerobjektes. Die Treuhandschaft trug die Bezeichnung Treuhandschaft Nr. [[other_identifier|2024/152]].
 
-2. Auf dem Treuhandkonto, IBAN [[bank_account|AT31 9506 2010 1221 4156]], gingen am [[date|2. April 2024]] € 84.500,00 ein. Am [[date|9. April 2024]] wurden davon € 61.000,00 an den Verkäufer überwiesen, obwohl die Lastenfreistellung noch nicht vorlag.
+2. Verkäuferin war die [[organization|Stattegger Lagerbau GmbH]] (in der Folge „[[organization|SLB]]“). Auf dem Treuhandkonto, IBAN [[bank_account|AT31 9506 2010 1221 4156]], gingen am [[date|2. April 2024]] € 84.500,00 ein. Am [[date|9. April 2024]] wurden davon € 61.000,00 an die [[organization|SLB]] überwiesen, obwohl die Lastenfreistellung noch nicht vorlag.
 
-3. Eine zweite Treuhandschaft mit der Nummer [[other_identifier|2022/741]] betraf einen früheren Auftrag. Dort hatte der Beschuldigte Zahlungen von [[person|Ante Goldstein]] am [[date|14. November 2022]] entgegengenommen, ohne sie zu verbuchen. Der Saldo wurde erst am [[date|20. März 2023]] ausgeglichen.
+3. Eine zweite Treuhandschaft Nr. [[other_identifier|2022/741]] betraf einen früheren Auftrag. Dort hatte der Beschuldigte Zahlungen von [[person|Ante Goldstein]] am [[date|14. November 2022]] entgegengenommen, ohne sie zu verbuchen. Der Saldo wurde erst am [[date|20. März 2023]] ausgeglichen.
 
 4. Die Klienten [[person|Galli Liebermann]] und [[person|Ante Goldstein]] haben die Vorgänge in einem Schreiben vom [[date|11. Mai 2024]] geschildert. Der Beschuldigte hat die Vorwürfe im Wesentlichen eingeräumt, jedoch auf Zeitdruck verwiesen.
 
 **Beweiswürdigung**
 
 Der Senat stützt sich auf die Treuhandbücher, die Kontoauszüge und die schriftlichen Angaben der Klienten. Der Beschuldigte hat keine Gegenbeweise vorgelegt.
+
+**Vorbringen des Beschuldigten**
+
+Der Beschuldigte [[lawyer|Hansel Spreitzer]] hat ausgeführt, die Zahlungen seien im Zuge einer Kanzleiübersiedlung nicht rechtzeitig verbucht worden. Er habe die Treuhandbücher ab Mai 2024 neu geführt und sei dadurch in Verzug geraten. Die Verzögerung betreffe lediglich die Buchung, nicht die Verwahrung der Beträge.
+
+Der Senat stellt fest, dass die Verbuchung unterlassen wurde und die Gelder über mehrere Wochen nicht ersichtlich waren. Die Verwahrung ist damit nicht ordnungsgemäß erfolgt, weil der Beschuldigte nicht jederzeit Auskunft über den Stand der Treuhandkonten geben konnte.
+
+**Stellungnahme des Kammeranwalts**
+
+Der Kammeranwalt [[person|Dr. Falk Helmberger]] hat in der Verhandlung beantragt, die Geldbuße auf € 4.000,00 festzusetzen, weil die Pflichtverletzungen wiederholt aufgetreten seien. Er verweist auf die Anzeige der Klienten vom [[date|11. Mai 2024]] und die späteren Schreiben vom [[date|19. Juni 2024]].
+
+**Verlauf der Verhandlung**
+
+1. Der Vorsitz stellte die Besetzung fest und belehrte den Beschuldigten über seine Rechte.
+2. Die Klienten [[person|Galli Liebermann]] und [[person|Ante Goldstein]] wurden als Zeugen vernommen.
+3. Der Beschuldigte verzichtete auf weitere Beweisanträge.
+4. Nach Beratung des Senats wurde das Erkenntnis verkündet.
 
 **Rechtliche Beurteilung**
 
@@ -46,7 +63,7 @@ Der Senat hat berücksichtigt, dass der Beschuldigte bisher nicht disziplinär a
 
 Gegen dieses Erkenntnis ist die Berufung an die [[court|OBDK]] zulässig. Die Berufungsfrist beträgt vier Wochen.
 
-Graz, am [[date|24. Juni 2025]]
+[[location|Graz]], am [[date|24. Juni 2025]]
 
 Für die Richtigkeit der Ausfertigung:
 

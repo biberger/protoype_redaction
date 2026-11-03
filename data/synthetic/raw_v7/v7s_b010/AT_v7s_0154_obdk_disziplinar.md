@@ -43,11 +43,13 @@ Rechtliche Beurteilung
 
 9. Bei der Strafbemessung war zu berücksichtigen, dass die Beschuldigte bisher disziplinär nicht in Erscheinung getreten ist und die Beträge in der Zwischenzeit vollständig zurückbezahlt wurden. Erschwerend war hingegen die wiederholte Verwendung der Treuhandgelder für Kanzleizwecke.
 
-10. Die Verhängung der Geldbuße erscheint angemessen. Eine Streichung von der Liste der Rechtsanwälte war nicht geboten, weil keine Unzuverlässigkeit im Sinne von [[legal_norm|§ 34 RAO]] festgestellt werden konnte.
+10. Die Verhängung der Geldbuße erscheint angemessen. Eine Streichung von der Liste der Rechtsanwälte war nicht geboten, weil keine Unzuverlässigkeit im Sinne von [[legal_norm|§ 34 RAO]] festgestellt werden konnte. Die Entscheidung berücksichtigt auch die bisherige Tätigkeit der Beschuldigten seit dem Jahr 1998 ohne disziplinäre Vorverfahren.
 
 11. Die Feststellungen beruhen auf den Akten, dem Prüfbericht der Kammer und der Aussage der Zeugin. Die Verlesung des Prüfberichts erfolgte mit Zustimmung beider Parteien. Ein Sachverständigengutachten war nicht erforderlich, da die Buchungsvorgänge eindeutig sind.
 
 12. Die Beschuldigte hat während des gesamten Verfahrens an den Ladungen teilgenommen und die Akteneinsicht genutzt. Sie hat zudem zugesagt, die Buchhaltung ihrer Kanzlei künftig durch eine externe Buchhalterin prüfen zu lassen. Diese Zusage wurde vom Senat berücksichtigt, ohne dass daraus eine Milderung über das übliche Maß hinaus abgeleitet werden konnte.
+
+Die Verfahrenskosten sind in der Entscheidung bereits berücksichtigt. Eine Zahlung der Geldbuße ist binnen vier Wochen nach Rechtskraft zu leisten.
 
 Die Entscheidung ist mit Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] anfechtbar.
 

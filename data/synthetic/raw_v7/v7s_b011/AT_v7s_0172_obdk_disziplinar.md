@@ -27,7 +27,7 @@ Die Disziplinarbeschuldigte [[lawyer|Assmann]] hat den Sachverhalt im Wesentlich
 
 II. Sachverhalt
 
-Die Mandantin [[person|Nikola Zweig]] beauftragte die Rechtsanwältin [[lawyer|Assmann]] im Mai 2025 mit der Abwicklung des Nachlasses ihres Vaters. Es ging um ein Bankguthaben, eine Liegenschaftshälfte in Linz und mehrere Wertpapierdepots. Die Mandantin übergab zur Verwahrung einen Betrag von EUR 46.800,00, der aus dem Verkauf einer Wohnung stammte.
+Die Mandantin [[person|Nikola Zweig]] beauftragte die Rechtsanwältin [[lawyer|Assmann]] im Mai 2025 mit der Abwicklung des Nachlasses ihres Vaters. Es ging um ein Bankguthaben, eine Liegenschaftshälfte in [[location|Linz]] und mehrere Wertpapierdepots. Die Mandantin übergab zur Verwahrung einen Betrag von EUR 46.800,00, der aus dem Verkauf einer Wohnung stammte.
 
 Der Betrag wurde auf das Treuhandbuch mit der Nummer [[other_identifier|2026/668]] eingetragen. Die Eingänge und Auszahlungen stellen sich wie folgt dar:
 
@@ -65,6 +65,12 @@ Der Senat hält fest, dass die Disziplinarbeschuldigte mit dem Konto bei der [[o
 
 Eine Verletzung der Verschwiegenheitspflicht liegt nach Ansicht des Senats nicht vor. Die Weitergabe von Informationen an die [[organization|TSA]] zur Abklärung des Kontos erfolgte im Rahmen der Ermittlungen.
 
+Zur Frage der Kontoführung hat die Disziplinarbeschuldigte in der mündlichen Verhandlung vorgebracht, das Konto sei von ihrem Vater eröffnet worden, der die Kanzleiräume bis zum Jahr 2019 gemietet habe. Der Senat hat diese Erklärung nicht überprüfen können, weil die Kontoeröffnung nicht mehr nachvollziehbar ist. Die Disziplinarbeschuldigte gab außerdem an, das Konto seit dem [[date|1. Februar 2026]] nicht mehr genutzt zu haben.
+
+Die Mandantin [[person|Zweig]] hat in der Verhandlung ergänzt, dass sie die Auszahlung von EUR 7.000,00 nur nach einer schriftlichen Mahnung ihres neuen Vertreters erhalten habe. Der neue Vertreter, Rechtsanwalt [[lawyer|Dr. Pirkl]], hat die Abrechnung am [[date|10. Februar 2026]] eingefordert. Die Abrechnung wurde erst am [[date|27. Februar 2026]] übermittelt und enthielt die Positionen Gerichtsgebühren und Honorar in der Höhe von EUR 14.500,00 ohne Einzelnachweis.
+
+Der Senat hält fest, dass die Verspätung der Abrechnung nicht allein auf die Erkrankung der Disziplinarbeschuldigten zurückzuführen ist. Die Abrechnung hätte nach der Auszahlung des Honorars unverzüglich erfolgen müssen.
+
 V. Strafbemessung
 
 Mildernd ist das bisherige ordentliche Verhalten der Disziplinarbeschuldigten sowie ihr Geständnis hinsichtlich der Hauptpunkte. Erschwerend wirken die Dauer der Pflichtverletzung und die Mehrzahl der Buchungsfehler. Der Senat hat außerdem berücksichtigt, dass der gesamte Betrag der Mandantin [[person|Zweig]] letztlich zugeflossen ist.
@@ -73,7 +79,7 @@ Die Geldbuße von EUR 2.500,00 erscheint dem Senat unter Abwägung dieser Umstä
 
 Gegen dieses Erkenntnis steht der Disziplinarbeschuldigten die Berufung an die [[court|OBDK]] offen. Die Berufungsfrist beträgt vier Wochen ab Zustellung.
 
-Für den Disziplinarrat der Oberösterreichischen Rechtsanwaltskammer:
+Für den [[court|Disziplinarrat der Oberösterreichischen Rechtsanwaltskammer]]:
 
 [[judge|MMag. Anka Herzfeld]], Vorsitzende
 

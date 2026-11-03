@@ -24,9 +24,9 @@ Vor dem Gerichtskommissär, Notar [[person|Seidel]], wurde am [[date|16.10.2026]
 
 I. Verstorbener
 
-Der Erblasser [[person|Erdmann Leutgeb]] ist am [[date|03.02.2024]] verstorben. Er war ledig und hinterließ kein Testament, soweit bisher bekannt ist. Die Verlassenschaft wird daher nach den gesetzlichen Erbfolgeordnungen abgehandelt. Leutgeb hat zuletzt eine Eigentumswohnung und ein landwirtschaftliches Grundstück bewirtschaftet.
+Der Erblasser [[person|Erdmann Leutgeb]] ist am [[date|03.02.2024]] verstorben. Er war ledig und hinterließ kein Testament, soweit bisher bekannt ist. Die Verlassenschaft wird daher nach den gesetzlichen Erbfolgeordnungen abgehandelt. [[person|Leutgeb]] hat zuletzt eine Eigentumswohnung und ein landwirtschaftliches Grundstück bewirtschaftet.
 
-Der Notar stellte fest, dass Leutgeb im Jahr 2017 einen Erbvertrag mit einer Nichte abgeschlossen hatte. Dieser wurde jedoch nicht wirksam, weil die Nichte vor dem Erblasser verstarb.
+Der Notar stellte fest, dass [[person|Leutgeb]] im Jahr 2017 einen Erbvertrag mit einer Nichte abgeschlossen hatte. Dieser wurde jedoch nicht wirksam, weil die Nichte vor dem Erblasser verstarb.
 
 II. Erschienene und Beteiligte
 
@@ -37,7 +37,7 @@ Vor dem Gerichtskommissär erschienen:
 3. [[person|Miriam Rädler]], StA: [[country|Ukraine]], als Erbin nach dem Gesetz.
 4. [[person|Eugeni Brovko]], geboren am [[date_of_birth|14. Dezember 1955]], StA: [[country|Deutschland]], als Legatar aus einem Vermächtnis über eine Geldsumme.
 
-Die Gläubigerin oder der Gläubiger [[person|Afschin Hassani]], *[[date_of_birth|24.10.1944]], meldete eine Forderung aus einem Darlehen an. Er wohnt in
+Der Gläubiger meldete eine Forderung aus einem Darlehen an. Die Anmeldung enthält folgende Angaben:
 
 [[person|Afschin
 Hassani]], *[[date_of_birth|24.10.1944]],
@@ -63,13 +63,13 @@ IV. Verzeichnis der Aktiva
 
 3. Bankguthaben bei der [[organization|Hypo Tirol Bank AG]] auf IBAN [[bank_account|AT89 8443 5448 0868 6389]], Stand [[date|03.02.2024]]: EUR 6.120,35.
 
-4. Lebensversicherung bei der [[organization|Tiroler Versicherung]] mit Kd.-Nr. [[other_identifier|584118]], Vers.-Nr. [[other_identifier|52-4154168]] und Vertragsnummer [[other_identifier|V-2017-22661]]. Die Versicherungssumme beträgt EUR 15.000,00 zuzüglich Gewinnanteile.
+4. Lebensversicherung bei der [[organization|Bergland Lebensversicherung AG]] mit Kd.-Nr. [[other_identifier|584118]], Vers.-Nr. [[other_identifier|52-4154168]] und Vertragsnummer [[other_identifier|V-2017-22661]]. Die Versicherungssumme beträgt EUR 15.000,00 zuzüglich Gewinnanteile.
 
 Für die Versicherung ist Tel. [[phone_number|05572/9415748-68]] erreichbar.
 
 V. Erbserklärungen und Vermächtnisse
 
-Tiller Ehrenfried erklärte die Erbantrittserklärung zu einem Drittel der Verlassenschaft. Jürgens und Rädler erklärten die Erbantrittserklärung zu je einem Drittel. Der Vermächtnisnehmer Brovko verlangt die Auszahlung der Geldsumme nach Berichtigung der Schulden.
+[[person|Tiller Ehrenfried]] erklärte die Erbantrittserklärung zu einem Drittel der Verlassenschaft. [[person|Jürgens]] und [[person|Rädler]] erklärten die Erbantrittserklärung zu je einem Drittel. Der Vermächtnisnehmer [[person|Brovko]] verlangt die Auszahlung der Geldsumme nach Berichtigung der Schulden.
 
 Der Legatar [[person|Eugeni Brovko]] ist unter [[address|9314 Sankt Georgen am Längsee]] erreichbar. Er hat angegeben, dass er die Liegenschaft nicht übernehmen werde.
 
@@ -80,6 +80,28 @@ VI. Feststellungen des Notars
 Der Notar stellte fest, dass die Erbantrittserklärungen fristgerecht eingebracht wurden. Eine Erbserklärung durch [[person|Saskia Jürgens]] ist bis zur Vorlage der Geburtsurkunde zu ergänzen. Die Erbin [[person|Miriam Rädler]] hat einen Auszug aus dem Personenstandsregister vorgelegt.
 
 Der Erblasser [[person|Leutgeb]] hatte keine Kinder. Nach Auskunft der Nachbarn wurde die Wohnung zuletzt von [[person|Leutgeb]] allein bewohnt. Die Angaben des Verstorbenen zu seinem Vermögen wurden durch die vorgelegten Kontoauszüge bestätigt.
+
+VI a. Bewertung des Nachlasses
+
+Der Notar hat das Vermögen des Verstorbenen nach den Verkehrswerten zum Todestag bewertet. Die Liegenschaft in [[land_register_id|KG 56846 Maierdorf]] wurde mit einem Verkehrswert von EUR 218.000,00 angesetzt. Der Anteil am Grundstück Nr. [[land_register_id|204/28]] wurde mit EUR 11.400,00 bewertet, weil die Fläche überwiegend als Wald genutzt wird.
+
+Die Aufstellung der Aktiva ergibt folgende Gesamtsumme:
+
+Position | Wert
+Liegenschaft [[land_register_id|KG 56846 Maierdorf]] | EUR 218.000,00
+Grundstück [[land_register_id|204/28]] | EUR 11.400,00
+Bankguthaben | EUR 6.120,35
+Lebensversicherung | EUR 15.000,00
+Hausrat und Fahrzeug | EUR 4.300,00
+Summe | EUR 254.820,35
+
+Nach Abzug der Passiva von EUR 33.102,80 verbleibt ein Nettonachlass von EUR 221.717,55. Die Begräbniskosten sind in dieser Summe bereits berücksichtigt.
+
+Die Forderung von [[person|Afschin Hassani]] wurde vom Notar geprüft. Der Gläubiger legte den Darlehensvertrag vom [[date|11.03.2021]] vor, der eine Rückzahlung bis zum [[date|31.12.2024]] vorsieht. Die Rückzahlung ist nicht erfolgt; die Forderung wurde daher in das Verzeichnis der Passiva aufgenommen.
+
+Die Erbin [[person|Miriam Rädler]] hat die Übernahme des Fahrzeugs erklärt, das im Hausrat erfasst ist. Die Erbin [[person|Saskia Jürgens]] verlangt die Auszahlung ihres Erbteils erst nach der Einantwortung.
+
+Die Einantwortung erfolgt nach [[legal_norm|§ 797 ABGB]] erst, wenn alle Erbantrittserklärungen vorliegen und die Verlassenschaftsabhandlung nach dem [[legal_norm|AußStrG]] bestätigt ist. Der Notar hat die Vollmacht des Verwalters der Liegenschaft zu den Akten genommen.
 
 VII. Abschluss
 

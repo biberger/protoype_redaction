@@ -47,9 +47,9 @@ Begründung
 
 2. Die verpflichtete Partei hat die titulierte Forderung trotz Zahlungsaufforderung vom [[date|10. April 2026]] nicht beglichen. Eine Zahlungsvereinbarung wurde nicht geschlossen.
 
-3. Die Zustellung an die Drittschuldnerin erfolgt über das Elektronische Rechtsverkehrsportal. Ein Anspruch der verpflichteten Partei gegen die [[organization|Land Niederösterreich]] wegen eines Dienstverhältnisses ist aus einer Dienstbestätigung des Landes ersichtlich.
+3. Die Zustellung an die Drittschuldnerin erfolgt über das Elektronische Rechtsverkehrsportal. Ein Anspruch der verpflichteten Partei gegen die [[organization|Land Niederösterreich]] wegen eines Dienstverhältnisses ist aus einer Dienstbestätigung des Landes ersichtlich. Die Dienstbestätigung wurde am [[date|8. Oktober 2026]] ausgestellt; sie enthält die Angabe des monatlichen Bruttobezugs und der Dienststelle, bei der die verpflichtete Partei beschäftigt ist.
 
-4. Die Pfändung der Kontoforderung bei der [[organization|UniCredit Bank Austria AG]] ist ebenfalls zulässig. Die Bank ist im Hinblick auf die Pfändungsgrenzen nach § 290 EO zu beachten, die bei einem Monatseinkommen über dem Existenzminimum zu berücksichtigen sind.
+4. Die Pfändung der Kontoforderung bei der [[organization|UniCredit Bank Austria AG]] ist ebenfalls zulässig. Die Bank ist im Hinblick auf die Pfändungsgrenzen nach [[legal_norm|§ 290 EO]] zu beachten, die bei einem Monatseinkommen über dem Existenzminimum zu berücksichtigen sind.
 
 5. Die verpflichtete Partei ist ungarische Staatsangehörige, lebt jedoch seit Jahren im Inland. Ein Wohnsitzwechsel ins Ausland ist der betreibenden Partei nicht bekannt; sollte die verpflichtete Partei den Wohnsitz wechseln, wird um Mitteilung ersucht.
 

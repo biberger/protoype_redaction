@@ -43,9 +43,9 @@ und beantragen, das Klagebegehren kostenpflichtig abzuweisen.
 
 2. Der Kläger behauptet, die Feuchtigkeitsschäden im Keller seien schon bei Übergabe vorhanden gewesen und seien von der Erstbeklagten verschwiegen worden. Die Beklagten bestreiten dies. Die [[court|LG für ZRS Graz]] ist für das Verfahren sachlich und örtlich zuständig; der Streitwert liegt über EUR 15.000,00.
 
-3. Die Erstbeklagte hat dem Kläger vor Abschluss des Vertrags den Energieausweis, die Bauakten und das Protokoll über die letzte Kellersanierung übergeben. Das Übergabeprotokoll vom Übergabetag ist als Beilage ./B vorgelegt. Der Kläger hat die Liegenschaft nach einer Besichtigung im Beisein seines Vaters, des Zeugen [[person|Ivo Kranjc]], Staatsangehöriger von [[country|Slowenien]], erworben. Der Zeuge hat den Zustand des Kellers als trocken beschrieben.
+3. Die [[organization|Eichberger]] hat dem Kläger vor Abschluss des Vertrags den Energieausweis, die Bauakten und das Protokoll über die letzte Kellersanierung übergeben. Das Übergabeprotokoll vom Übergabetag ist als Beilage ./B vorgelegt. Der Kläger hat die Liegenschaft nach einer Besichtigung im Beisein seines Vaters, des Zeugen [[person|Ivo Kranjc]], Staatsangehöriger von [[country|Slowenien]], erworben. Der Zeuge hat den Zustand des Kellers als trocken beschrieben.
 
-4. Die Versicherung der Liegenschaft lief unter der Polizze [[other_identifier|57-8330031]] bis zum Übergabetag. Die Zahlungen auf die Versicherungsprämie sind im Übergabeprotokoll dokumentiert. Die Erstbeklagte hat den Schriftverkehr mit der Hausverwaltung unter dem Zeichen UZ: [[other_identifier|616/21 KG]] geführt; die Zahlungen sind unter der Telefonnummer [[phone_number|0316 101656 DW 535]] im Büro der Hausverwaltung bestätigt worden.
+4. Die Versicherung der Liegenschaft lief unter der Polizze [[other_identifier|57-8330031]] bis zum Übergabetag. Die Zahlungen auf die Versicherungsprämie sind im Übergabeprotokoll dokumentiert. Die Erstbeklagte hat den Schriftverkehr mit der Hausverwaltung unter dem Zeichen UZ: [[other_identifier|616/21 KG]] geführt; die Zahlungen sind im Büro der Hausverwaltung bestätigt worden (Tel. [[phone_number|0316 101656 DW 535]]).
 
 **II. Rechtliche Beurteilung**
 
@@ -54,6 +54,16 @@ und beantragen, das Klagebegehren kostenpflichtig abzuweisen.
 6. Ein Schadenersatzanspruch nach [[legal_norm|§ 1295 ABGB]] scheitert am fehlenden Verschulden. Die Zweitbeklagte hatte keine Kenntnis von einem Mangel, der über den Zustand hinausgeht, den die Bauakten ausweisen. Die Behauptung des Klägers, die Zweitbeklagte habe arglistig getäuscht, ist durch nichts belegt; sie ist ein bloßes Behauptungsgefüge ohne Substanz.
 
 7. Auch [[legal_norm|§ 874 ABGB]] steht dem Klagebegehren nicht entgegen, weil die Beschaffenheit des Kellers im Kaufvertrag ausdrücklich ausgenommen ist. Der Kaufvertrag enthält dazu eine Klausel, wonach die Käuferin den Keller besichtigt hat und ihn im bestehenden Zustand übernimmt.
+
+7a. Ergänzend wird vorgebracht, dass der Kläger die Liegenschaft zu einem Preis erworben hat, der bereits die Mängel berücksichtigte, die im Gutachten des Jahres 2023 beschrieben sind. Das Gutachten war dem Kaufvertrag nicht beigelegt, sondern wurde dem Kläger durch den Makler übergeben. Die Erstbeklagte bestreitet, dass die im Gutachten erwähnten Feuchtigkeitswerte im Keller auf eine Ursache zurückzuführen sind, die bei Übergabe bestand.
+
+7b. Der Kläger stützt seine Forderung auch auf entgangene Mieteinnahmen, weil er die Wohnung im Jahr 2024 nicht vermieten konnte. Dieser Anspruch ist nicht schlüssig dargelegt: Der Kläger hat weder einen Mietvertrag vorgelegt noch den Ausfall der Einnahmen belegt. Die Behauptung ist daher zu bestreiten.
+
+7c. Die Kosten der Kellersanierung im Jahr 2019 hat die Erstbeklagte vollständig bezahlt; die Rechnungen sind als Beilage ./C angeschlossen. Der Kläger hat die Sanierung bei der Besichtigung selbst gesehen, weil die Arbeiten im Keller sichtbar waren.
+
+7d. Vorsorglich wird der Einwand der Verjährung nach [[legal_norm|§ 1489 ABGB]] erhoben, weil die Kenntnis des Klägers von den Mängeln spätestens im Oktober 2024 bestanden hat.
+
+7e. Die Beklagten bestreiten auch die Höhe des geltend gemachten Schadens. Der Kläger hat die Schadenshöhe nicht durch ein Sachverständigengutachten nachgewiesen, sondern lediglich eigene Kostenschätzungen vorgelegt. Die Pauschalgebühr für die Klagebeantwortung wurde mit dem Schriftsatz entrichtet.
 
 **III. Beweisanbot**
 
@@ -70,7 +80,7 @@ und beantragen, das Klagebegehren kostenpflichtig abzuweisen.
 
 Die [[country|Republik Österreich]] ist an diesem Verfahren nicht beteiligt; eine Streitverkündung an die [[country|Republik Österreich]] ist nicht erfolgt.
 
-Graz, am [[date|28. August 2026]]
+[[location|Graz]], am [[date|28. August 2026]]
 
 [[organization|Florian, Teufel, Landesmann]]
 Rechtsanwälte OG

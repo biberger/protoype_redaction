@@ -86,7 +86,7 @@ Betreff: AW: AW: AW: AW: Unser Zeichen: [[other_identifier|485/25 K]]
 
 Lieber Herr [[person|Foidl]],
 
-danke für die Information. Der Wagen steht seit dem Unfall in der Werkstatt in Perschling, und die Reparatur würde laut Kostenvoranschlag rund 6.200,00 Euro kosten. Ich habe den Fahrer des Lastwagens am Unfallort gesehen; er hat sich entschuldigt. Bitte schreiben Sie mir, ob ich in der Zwischenzeit ein Ersatzfahrzeug mieten darf, ohne dass die [[organization|PT]] das später bestreitet.
+danke für die Information. Der Wagen steht seit dem Unfall in der Werkstatt in [[location|Perschling]], und die Reparatur würde laut Kostenvoranschlag rund 6.200,00 Euro kosten. Ich habe den Fahrer des Lastwagens am Unfallort gesehen; er hat sich entschuldigt. Bitte schreiben Sie mir, ob ich in der Zwischenzeit ein Ersatzfahrzeug mieten darf, ohne dass die [[organization|PT]] das später bestreitet.
 
 Liebe Grüße
 [[person|Lotte Madl]]

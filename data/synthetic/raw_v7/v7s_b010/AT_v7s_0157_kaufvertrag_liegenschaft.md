@@ -76,6 +76,18 @@ Die Anzeige des Erwerbsvorganges nach [[legal_norm|§ 30 GrEStG]] erfolgt durch 
 
 Die Verkäuferin verpflichtet sich, die Lastenfreistellung des Kaufgegenstandes von allen Pfandrechten und Dienstbarkeiten herbeizuführen, die nicht im Kaufvertrag übernommen werden. Die Treuhänderin ist berechtigt, zur Sicherung dieser Verpflichtung den Kaufpreisrest bis zur Löschung zurückzuhalten.
 
+Zusätzliche Vereinbarungen
+
+Die Verkäuferin übergibt die Liegenschaft mit den bestehenden Einrichtungen, insbesondere der Heizungsanlage, der Photovoltaikanlage auf dem Dach und dem Brunnen im Garten. Die Käufer übernehmen die bestehenden Wartungsverträge, soweit diese nicht vor Übergabe gekündigt werden. Eine Haftung für die Funktionsfähigkeit der Anlagen wird von der Verkäuferin nicht übernommen, sofern die Anlagen zum Zeitpunkt der Übergabe betriebsbereit sind.
+
+Die Verkäuferin hat den Käufern einen Energieausweis übergeben, der am [[date|5. Oktober 2026]] ausgestellt wurde. Die Käufer bestätigen den Erhalt. Eine Verpflichtung zur Vorlage weiterer Gutachten besteht nicht.
+
+Die Parteien halten fest, dass die Liegenschaft im Flächenwidmungsplan als Wohngebiet ausgewiesen ist und dass keine Baubewilligungsverfahren anhängig sind. Eine Auskunft der Gemeinde über die Widmung liegt bei. Die Verkäuferin verpflichtet sich, Baumaßnahmen, die nach dem Stichtag dieses Vertrages ohne Zustimmung der Käufer begonnen werden, auf eigene Kosten zu beenden.
+
+Die Käufer haben die Liegenschaft am [[date|12. Oktober 2026]] gemeinsam mit einem Bausachverständigen besichtigt, dessen Bericht vom Gegenstand dieses Vertrages umfasst ist. Die Verkäuferin hat die Vorlage des Grundbuchsauszuges und der Pläne zugesagt. Die Übergabe der Schlüssel erfolgt im Beisein der Treuhänderin. Sie erklären, dass ihnen der Zustand der Liegenschaft bekannt ist und dass sie keine weiteren Besichtigungen verlangen.
+
+Die Vertragsparteien erklären ausdrücklich, dass die Kaufpreisvereinbarung auf einem Gutachten eines gerichtlich beeideten Sachverständigen beruht. Eine Nachverhandlung des Kaufpreises ist ausgeschlossen, sofern nicht ein Rücktritt aus den gesetzlichen Gründen erfolgt. Die Käufer bestätigen, dass sie über die Möglichkeit einer Finanzierungsberatung unterrichtet wurden und die Finanzierung der restlichen Kaufpreiszahlung eigenverantwortlich sichergestellt haben.
+
 VI. Schlussbestimmungen
 
 14. Änderungen und Ergänzungen dieses Vertrages bedürfen der Schriftform. Mündliche Nebenabreden bestehen nicht.
@@ -83,6 +95,12 @@ VI. Schlussbestimmungen
 15. Die Vertragsparteien erklären, dass sie den Vertrag gelesen und verstanden haben. Eine Belehrung über die Bedeutung der Aufsandungserklärung wurde durch die Vertragsverfasserin erteilt.
 
 16. Die Käufer erklären, dass der Kaufgegenstand zum Hauptwohnsitz bestimmt ist. Die Verkäuferin erklärt, dass keine Mietverhältnisse bestehen.
+
+17. Sollte eine Bestimmung dieses Vertrages unwirksam sein, so bleibt der übrige Vertrag wirksam. Die Parteien verpflichten sich, die unwirksame Bestimmung durch eine wirksame zu ersetzen, die dem wirtschaftlichen Zweck am nächsten kommt.
+
+18. Die Vertragsparteien bevollmächtigen die Treuhänderin, alle zur Durchführung des Vertrages erforderlichen Anträge beim Grundbuchsgericht und beim Finanzamt zu stellen. Die Kosten für die Einverleibung trägt der Käufer.
+
+19. Dieser Vertrag wird in drei Ausfertigungen errichtet; je eine Ausfertigung erhalten die Verkäuferin, die Käufer und die Treuhänderin.
 
 Ort: [[address|9841 Winklern]]
 
