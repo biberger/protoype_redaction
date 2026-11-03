@@ -66,6 +66,10 @@ Nach [[legal_norm|§ 43a Abs 3 RAO]] hat der Rechtsanwalt Vermögenswerte, die i
 
 Die verspätete Erfassung der Eingänge vom [[date|3. April 2024]] und vom [[date|17. April 2024]] verletzt die Pflicht zur Führung des Treuhandbuches. Insoweit liegt ein minderschwerer Fall vor.
 
+Die Pflicht zur Redlichkeit und zur Wahrung des Ansehens des Standes nach [[legal_norm|§ 1 RAO]] wird durch einen Zugriff auf anvertrautes Geld in besonderem Maße berührt. Die Rechtsanwaltschaft lebt vom Vertrauen der Klienten, dass ihre Mittel auf einem getrennten Konto liegen und nicht für die Kanzlei verwendet werden. Wer dieses Vertrauen verletzt, verliert die Eignung zur Vertretung fremder Interessen in einem Maße, das über den Einzelfall hinausgeht.
+
+Der Senat sieht auch, dass der Beschuldigte über viele Jahre hinweg zu den Kollegen gehört, die ihre Mandanten zuverlässig vertreten haben. Dieser Umstand ist bei der Strafbemessung zu berücksichtigen, kann aber den Vertrauensverlust nicht aufwiegen.
+
 **V. Strafbemessung**
 
 Mildernd wirkt die bisherige Unbescholtenheit, das Geständnis hinsichtlich der Verspätung und die Rückzahlung des entnommenen Betrages am [[date|30. Juli 2025]]. Erschwerend ist die Dauer der zweckwidrigen Verwendung und die Höhe des Betrages.

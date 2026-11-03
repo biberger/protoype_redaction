@@ -97,7 +97,7 @@ Betreff: Abnahme Dachstuhl
 
 Sehr geehrter Herr [[person|Plankensteiner]],
 
-am [[date|6. März 2026]] nehme ich die Dachsanierung ab, sofern die Schneelast bis dahin zurückgegangen ist. Für die [[organization|Friedel Bau]] ist die Zahlung der zweiten Rate Voraussetzung für die Auslieferung der Gewährleistungsunterlagen. Die Gewährleistungsfrist beträgt nach meinem Verständnis drei Jahre ab der Übergabe. Die Abnahme umfasst die Dachflächen, die Gaube und den Kamin; über Vorbehalte werden Sie im Protokoll informiert.
+am [[date|6. März 2026]] nehme ich die Dachsanierung ab, sofern die Schneelast bis dahin zurückgegangen ist. Bei Regen wird der Termin verschoben. Für die [[organization|Friedel Bau]] ist die Zahlung der zweiten Rate Voraussetzung für die Auslieferung der Gewährleistungsunterlagen. Die Gewährleistungsfrist beträgt nach meinem Verständnis drei Jahre ab der Übergabe. Die Abnahme umfasst die Dachflächen, die Gaube und den Kamin; über Vorbehalte werden Sie im Protokoll informiert.
 
 Mit freundlichen Grüßen
 [[person|Ruedi Isser]]
@@ -111,7 +111,7 @@ Betreff: Termin Abnahme
 
 Sehr geehrter Herr [[person|Isser]],
 
-die Abschlagszahlung ist heute überwiesen worden. Bitte bestätigen Sie mir den Termin für die Abnahme der Dachsanierung. Ich selbst bin ab Donnerstag für zwei Wochen auf Dienstreise, meine Vertretung ist Herr [[person|Pálffy]]. Die Schlüssel für den Dachboden hinterlege ich beim Hausmeister.
+die Abschlagszahlung ist heute überwiesen worden. Bitte bestätigen Sie mir den Termin für die Abnahme der Dachsanierung. Ich selbst bin ab Donnerstag für zwei Wochen auf Dienstreise, meine Vertretung ist Herr [[person|Pálffy]]. Die Schlüssel für den Dachboden hinterlege ich beim Hausmeister. Bei Fragen erreichen Sie mich bis Donnerstag noch telefonisch.
 
 Mit freundlichen Grüßen
 [[person|Martin Plankensteiner]]

@@ -27,7 +27,7 @@ Sehr geehrte Damen und Herren,
 
 wir vertreten in dieser Angelegenheit Frau [[person|Malgosia Hochstetter]] und zeigen dies unter Vorlage der Vollmacht an. Unsere Mandantin hat mit Ihrer [[organization|Krenek KG]] einen Mietvertrag über das Geschäftslokal im Erdgeschoß des Hauses in [[location|Graz]] geschlossen.
 
-Die [[organization|Krenek KG]] (in der Folge [[organization|KRK]]) hat mit Schreiben vom [[date|12. Mai 2026]] die Räumung des Objekts bis zum [[date|30. Juni 2026]] verlangt und einen Rückstand von EUR 4.860,00 behauptet. Dieser Betrag ist nach unseren Unterlagen bereits am [[date|15. April 2026]] vollständig überwiesen worden. Die Überweisung ist im Kontoauszug der Mandantin ausgewiesen.
+Die [[organization|Krenek KG]] (in der Folge [[organization|KRK]]) hat mit Schreiben vom [[date|12. Mai 2026]] die Räumung des Objekts bis zum [[date|30. Juni 2026]] verlangt und einen Rückstand von EUR 4.860,00 behauptet. Dieser Betrag ist nach unseren Unterlagen bereits am [[date|15. April 2026]] vollständig überwiesen worden. Die Überweisung ist im Kontoauszug der Mandantin ausgewiesen. Der Kontoauszug liegt diesem Schreiben als Kopie bei.
 
 Wir ersuchen Sie daher, Ihre Forderung zurückzunehmen und die Kündigung nicht weiter zu verfolgen. Sollte die [[organization|Krenek KG]] an ihrer Forderung festhalten, wären wir gezwungen, Klage beim [[court|Landesgericht für Zivilrechtssachen Graz]] einzubringen und auf Feststellung zu klagen, dass das Mietverhältnis aufrecht ist. Die Zustellung der Klage würde dann beim [[court|LG für ZRS Graz]] erfolgen.
 
@@ -43,7 +43,7 @@ Zur Vorgeschichte ist festzuhalten, dass die Mandantin im Jahr 2023 einer Mietzi
 
 Für die Mandantin ist das Geschäftslokal wirtschaftlich von erheblicher Bedeutung, da sie dort seit neun Jahren einen Handel mit Heimtextilien betreibt. Eine Räumung würde zu einem Verlust von Kundenbeziehungen und Arbeitsplätzen führen.
 
-Die Mandantin wohnt in [[address|6321 Angath]]. Wir ersuchen um Stellungnahme bis zum [[date|17. Juni 2026]]. Sollte bis dahin keine Stellungnahme eingehen, werden wir ohne weitere Ankündigung die notwendigen Schritte einleiten. Die Kosten der anwaltlichen Vertretung werden der [[organization|KRK]] als Verursacherin des Verfahrens in Rechnung gestellt.
+Die Mandantin wohnt in [[address|6321 Angath]]. Wir ersuchen um Stellungnahme bis zum [[date|17. Juni 2026]]. Sollte bis dahin keine Stellungnahme eingehen, werden wir ohne weitere Ankündigung die notwendigen Schritte einleiten. Die Kosten der anwaltlichen Vertretung werden der [[organization|KRK]] als Verursacherin des Verfahrens in Rechnung gestellt. Eine außergerichtliche Einigung ist bis dahin jederzeit möglich.
 
 Wir weisen darauf hin, dass die Mandantin bereit ist, den Mietzins für den Monat Juni 2026 unter Vorbehalt auf das Konto der [[organization|KRK]] zu überweisen, sofern die Räumungsforderung zurückgenommen wird.
 

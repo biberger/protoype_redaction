@@ -75,7 +75,7 @@ Rechtliche Beurteilung
 
 11b. Der Senat hat die Schulung im Treuhandwesen im Umfang von zehn Stunden angeordnet; die Teilnahme ist durch eine Bestätigung der anbietenden Stelle nachzuweisen.
 
-11c. Die Beschuldigte hat anerkannt, den vollständigen Treuhandbestand binnen 14 Tagen nach Zustellung dieses Spruchs gegenüber der [[organization|RAK NÖ]] offenzulegen.
+11c. Die Beschuldigte hat anerkannt, den vollständigen Treuhandbestand binnen 14 Tagen nach Zustellung dieses Spruchs gegenüber der [[organization|RAK NÖ]] offenzulegen. Die Frist beginnt mit der Zustellung an die Beschuldigte.
 
 12. Die Berufung der Beschuldigten gegen die Verhältnismäßigkeit der Strafe ist teilweise begründet. Der Entzug der Berufsberechtigung ist nicht mehr verhältnismäßig, nachdem die Beschuldigte den Betrag von EUR 60.000,00 vollständig zurückgezahlt hat. Der Senat hat dabei berücksichtigt, dass die Verlassenschaft nach [[person|Heinrich Gründler]] durch die Zahlung nicht geschädigt wurde.
 
@@ -85,7 +85,7 @@ Rechtliche Beurteilung
 
 14. Die Beschuldigte hat in ihrem Schlusswort darauf hingewiesen, dass sie seit der Anzeige keine Treuhandschaften mehr übernommen habe. Der Senat hält diese Selbstbeschränkung für ein sinnvolles Mittel, das Vertrauen der Klienten wiederherzustellen, und hat sie bei der Bemessung der Geldbuße berücksichtigt.
 
-15. Gegen diesen Spruch ist kein weiteres Rechtsmittel vorgesehen. Die Zustellung erfolgt an die Parteien und an die [[organization|RAK NÖ]].
+15. Gegen diesen Spruch ist kein weiteres Rechtsmittel vorgesehen. Die Zustellung erfolgt an die Parteien und an die [[organization|RAK NÖ]]. Eine Ausfertigung wird der Beschuldigten persönlich zugestellt.
 
 [[location|Wien]], am [[date|29. September 2026]]
 

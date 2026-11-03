@@ -44,7 +44,7 @@ Betreff: Unser Zeichen: [[other_identifier|745/22 NN]]
 
 Sehr geehrter Herr [[person|Puchinger]],
 
-wir bestätigen den Eingang Ihrer Unterlagen. Die Gegenseite, die [[organization|Landauer e.U.]] (in der Folge [[organization|LE]]), hat den Schaden mit Schreiben vom [[date|12. September 2025]] dem Grunde nach anerkannt. Die Höhe ist noch strittig. Die [[organization|LE]] verlangt eine Begutachtung durch einen unabhängigen Sachverständigen. Sie hat zudem angekündigt, die Mietwagenkosten nur für sieben Tage anzuerkennen. Die Werkstatt hat die Reparaturkosten mit EUR 3.850,00 netto beziffert; wir halten einen Ersatz für zehn Tage für angemessen.
+wir bestätigen den Eingang Ihrer Unterlagen. Die Gegenseite, die [[organization|Landauer e.U.]] (in der Folge [[organization|LE]]), hat den Schaden mit Schreiben vom [[date|12. September 2025]] dem Grunde nach anerkannt. Die Höhe ist noch strittig. Die [[organization|LE]] verlangt eine Begutachtung durch einen unabhängigen Sachverständigen. Sie hat zudem angekündigt, die Mietwagenkosten nur für sieben Tage anzuerkennen. Die Werkstatt hat die Reparaturkosten mit EUR 3.850,00 netto beziffert; wir halten einen Ersatz für zehn Tage für angemessen. Die Mietwagenkosten betragen EUR 69,00 pro Tag.
 
 > Von: [[person|Ortwin Puchinger]]
 > Gesendet: [[date|8. September 2025]]
@@ -68,7 +68,7 @@ Liebe Frau [[person|Schnabl]],
 
 bitte fordern Sie von der [[organization|LE]] bis [[date|3. Oktober 2025]] eine Stellungnahme zur Mietwagendauer an. Das Sachverständigengutachten beauftragen wir selbst; wir schlagen Herrn [[person|Gerhard Amesbauer]] vor, der bereits für die Kanzlei tätig war.
 
-Die Zahlung der Reparaturkosten an [[person|Puchinger]] sollte nicht warten, bis die Höhe der Mietwagenkosten geklärt ist. Eine Teilzahlung in Höhe der unstrittigen Reparaturkosten ist nach der Gegenseite möglich. Ich bitte um Rückmeldung bis Freitag. Die Kosten der Begutachtung werden vorläufig von der Kanzlei getragen und später mit der [[organization|LE]] abgerechnet.
+Die Zahlung der Reparaturkosten an [[person|Puchinger]] sollte nicht warten, bis die Höhe der Mietwagenkosten geklärt ist. Eine Teilzahlung in Höhe der unstrittigen Reparaturkosten ist nach der Gegenseite möglich. Ich bitte um Rückmeldung bis Freitag. Die Kosten der Begutachtung werden vorläufig von der Kanzlei getragen und später mit der [[organization|LE]] abgerechnet. Eine Kopie dieser Nachricht geht an die Mandantin.
 
 Mit freundlichen Grüßen
 [[person|Zweigelt]]
@@ -83,7 +83,7 @@ Betreff: AW: Unser Zeichen: [[other_identifier|745/22 NN]]
 
 Sehr geehrter Herr [[person|Zweigelt]],
 
-die Werkstatt hat mir mitgeteilt, dass die Reparatur am [[date|25. September 2025]] abgeschlossen sein wird. Mein Mietwagen ist bis zum [[date|29. September 2025]] verlängert worden. Ich bitte um Bestätigung, dass die Mietwagenkosten bis zu diesem Datum übernommen werden. Die Klienten-Nr. [[other_identifier|12451]] bitte ich bei der Antwort anzugeben. Ich bin zudem bereit, einen Termin für die Besichtigung des Fahrzeugs in [[location|St. Wolfgang im Salzkammergut]] zu vereinbaren.
+die Werkstatt hat mir mitgeteilt, dass die Reparatur am [[date|25. September 2025]] abgeschlossen sein wird. Mein Mietwagen ist bis zum [[date|29. September 2025]] verlängert worden. Das Fahrzeug wird am Ende der Woche wieder abgeholt. Ich bitte um Bestätigung, dass die Mietwagenkosten bis zu diesem Datum übernommen werden. Die Klienten-Nr. [[other_identifier|12451]] bitte ich bei der Antwort anzugeben. Ich bin zudem bereit, einen Termin für die Besichtigung des Fahrzeugs in [[location|St. Wolfgang im Salzkammergut]] zu vereinbaren.
 
 Mit freundlichen Grüßen
 [[person|Ortwin Puchinger]]
