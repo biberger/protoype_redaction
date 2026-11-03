@@ -73,7 +73,7 @@ Die Erben haben zur Kenntnis genommen, dass die Haftung für Nachlassverbindlich
 
 Die Erblasserin hinterließ außerdem einen Hund, dessen Versorgung die Erbin [[person|Radin]] übernommen hat. Die Erben haben sich darauf geeinigt, dass die Kosten der Versorgung aus dem Nachlass bestritten werden, bis das Inventar vorliegt. Eine Vereinbarung über die weitere Haltung des Tieres ist noch nicht getroffen.
 
-Die Erbin [[person|Boric]] hat ihre Erbantrittserklärung am [[date|28. Juli 2026]] unterschrieben.
+Die Erbin [[person|Boric]] hat ihre Erbantrittserklärung am [[date|28. Juli 2026]] unterschrieben. Die übrigen Erben haben dies bestätigt.
 
 Ausstehende Unterlagen
 

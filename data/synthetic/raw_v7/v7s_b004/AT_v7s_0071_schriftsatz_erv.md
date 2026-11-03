@@ -59,7 +59,7 @@ Der Beklagte erstattet die folgende
 
 3. Das [[court|BG Wiener Neustadt]] ist gemäß [[legal_norm|§ 49 Abs 2 Z 1 JN]] sachlich zuständig. Die örtliche Zuständigkeit ergibt sich aus [[legal_norm|§ 66 JN]], weil der Beklagte in [[location|Wiener Neustadt]] seinen allgemeinen Gerichtsstand hat.
 
-4. Die Klägerin hat die Schadenshöhe nicht nachgewiesen. Die vorgelegte Rechnung ist undatiert und trägt keine Unterschrift des Sachverständigen. Der Anspruch ist daher auch der Höhe nach bestritten.
+4. Die Klägerin hat die Schadenshöhe nicht nachgewiesen. Die vorgelegte Rechnung ist undatiert und trägt keine Unterschrift des Sachverständigen. Der Anspruch ist daher auch der Höhe nach bestritten. Der Beklagte bestreitet überdies den Zeitpunkt des Schadens, weil die Werkstatt das Fahrzeug erst am [[date|27. Jänner 2025]] besichtigt hat.
 
 **III. Beweisanbote**
 
@@ -88,7 +88,7 @@ Dem Beklagten wurde Gelegenheit zur Einsicht in den Akt gegeben. Der Beklagte st
 
 **VII. Hinweis auf Finanzierung und Schadensmeldung**
 
-Die Schadensmeldung der Versicherung trägt die Nummer [[other_identifier|93/400117/25]]. Die Versicherung hat die Deckung bisher nicht geprüft. Der Beklagte hat den Kredit für das Fahrzeug bei der [[organization|HYPO NOE Landesbank für Niederösterreich und Wien AG]] (kurz [[organization|HYPO NOE]]) aufgenommen. Die [[organization|HYPO NOE]] hat mit Schreiben vom [[date|3. Februar 2025]] angezeigt, dass sie die Kreditrate nicht bezahlt bekommt.
+Die Schadensmeldung der Versicherung trägt die Nummer [[other_identifier|93/400117/25]]. Die Versicherung hat die Deckung bisher nicht geprüft. Die Versicherung hat dem Beklagten mit Schreiben vom [[date|4. Februar 2025]] mitgeteilt, dass die Deckung für Schäden am Fahrzeug der Klägerin nicht bestehe, weil dieses Fahrzeug nicht auf den Beklagten zugelassen war. Der Beklagte bestreitet diese Darstellung, weil die Klägerin das Fahrzeug im Einverständnis mit ihm zugelassen hatte. Der Beklagte hat den Kredit für das Fahrzeug bei der [[organization|HYPO NOE Landesbank für Niederösterreich und Wien AG]] (kurz [[organization|HYPO NOE]]) aufgenommen. Die [[organization|HYPO NOE]] hat mit Schreiben vom [[date|3. Februar 2025]] angezeigt, dass sie die Kreditrate nicht bezahlt bekommt.
 
 Der Schriftverkehr wird daher auch an [[organization|HYPO NOE]] übermittelt.
 

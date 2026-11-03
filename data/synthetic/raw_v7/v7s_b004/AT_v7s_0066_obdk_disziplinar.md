@@ -65,7 +65,7 @@ Nach [[legal_norm|§ 43a Abs 3 RAO]] hat ein Rechtsanwalt anvertraute Vermögens
 
 Die Verpflichtung zur Rechenschaftslegung folgt auch aus dem Auftragsverhältnis nach [[legal_norm|§ 1009 ABGB]]. Die Verteidigung, die Abhebung sei eine bloße Buchungsdifferenz gewesen, ist nicht glaubhaft, weil der Betrag tatsächlich den Kanzleibereich verlassen hat. Die Verwahrung von Klientengeldern verlangt eine Trennung von Eigen- und Fremdgeldern. Jede Auszahlung ist mit einem Beleg zu hinterlegen, der Empfänger, Zweck und Klient nennt. Dass die Dokumentation einem Kanzleimitarbeiter überlassen war, entlastet den Beschuldigten nicht, weil die Verantwortung für die Treuhandschaft beim Rechtsanwalt verbleibt.
 
-Der Disziplinarrat hat die Schuld zutreffend festgestellt. Die [[court|OBDK]] hält die Geldbuße von EUR 4.500,00 für angemessen, da der Beschuldigte bisher nicht disziplinär aufgefallen ist.
+Der Disziplinarrat hat die Schuld zutreffend festgestellt. Die [[court|OBDK]] hält die Geldbuße von EUR 4.500,00 für angemessen, da der Beschuldigte bisher nicht disziplinär aufgefallen ist. Ergänzend ist festzuhalten, dass der Anzeiger bis zur Rückzahlung im November 2024 keine Kenntnis von den genauen Kontobewegungen hatte und die Kanzlei ihm die Auszüge erst auf Anforderung übermittelte. Die Verteidigung hat dies nicht bestritten.
 
 **IV. Beweiswürdigung und Einvernahme**
 

@@ -50,6 +50,12 @@ Beweiswürdigung
 
 11. Die Kammeranwältin [[person|Soukup]] beantragte in der Verhandlung eine Geldbuße im oberen Bereich des Strafrahmens und eine Auflage zur Schulung. Der Verteidiger des Rechtsanwalts beantragte eine Ermahnung. Der Senat folgte dem Antrag auf eine Schulung und einer mittleren Geldbuße.
 
+Die Klientin [[person|Schild]] schilderte in ihrer Aussage, dass sie die Summe von EUR 9.000,00 auf das Konto der Kanzlei überwiesen habe, nachdem der Rechtsanwalt ihr versichert habe, das Geld werde bis zum Ablösetermin am [[date|31. März 2025]] auf dem Treuhandkonto verwahrt. Die Ablöse der Hypothek bei ihrer Bank verzögerte sich dadurch um mehrere Wochen; der daraus entstandene Zinsschaden wurde von ihr mit EUR 410,00 beziffert und ist im Verfahren unbestritten geblieben.
+
+Der Klient [[person|Viertel]] erklärte, er habe den Rechtsanwalt im Frühjahr 2025 mehrfach nach dem Stand der Gelder gefragt. Die Auskünfte seien stets dahin gelautet, dass die Zahlungen wie vereinbart erfolgt seien. Erst nach der Revision der Kammer erfuhr er, dass ein Teil der Gelder bereits für andere Zwecke verwendet worden war. Der Zeuge bestätigte, dass er den Rechtsanwalt nie schriftlich zur Zahlung an einen Bauunternehmer ermächtigt habe.
+
+Die Kontoauszüge zeigen, dass das Treuhandkonto im Zeitraum vom [[date|4. Februar 2025]] bis zum [[date|29. April 2025]] mehrfach unter den erforderlichen Mindestbetrag fiel. Der Rechtsanwalt hat dies in der Verhandlung nicht bestritten, sondern lediglich auf die technischen Umstellungen verwiesen. Eine schriftliche Dokumentation dieser Umbuchungen fehlt.
+
 Rechtliche Beurteilung
 
 12. Gemäß [[legal_norm|§ 43 RAO]] hat der Rechtsanwalt anvertraute Gelder getrennt vom eigenen Vermögen zu verwahren und ordnungsgemäß zu dokumentieren. Die Verwendung der Gelder für fremde Zwecke ohne Weisung verstößt gegen diese Pflicht. Die Verletzung ist schwerwiegend, weil die Klienten ihre Vermögenswerte nicht mehr zur Verfügung hatten.
