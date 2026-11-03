@@ -51,11 +51,11 @@ Die Honorare wurden nach dem [[legal_norm|RATG]] ermittelt. Die Auslagen sind in
 
 Bitte überweisen Sie den Betrag binnen 14 Tagen auf das Konto IBAN [[bank_account|AT26 0735 7968 8166 8952]] unter Angabe der Klienten-Nr. [[other_identifier|33753]].
 
-Die Honorare für die Vertretung der [[organization|Marte e.U.]] wurden mit dem Geschäftsführer [[person|Englbert Fall]] vereinbart; die Vollmacht vom [[date|04.12.2025]] liegt in den Akten. Ein Vorschuss ist nicht geleistet worden, die Zahlung erfolgt daher nach Rechnungslegung.
+Die Honorare für die Vertretung der [[organization|Marte e.U.]] wurden mit dem Geschäftsführer [[person|Englbert Fall]] vereinbart; die Vollmacht vom [[date|04.12.2025]] liegt in den Akten. Ein Vorschuss ist nicht geleistet worden, die Zahlung erfolgt daher nach Rechnungslegung. Die Honorarnote wurde mit dem Geschäftsführer abgestimmt und enthält keine Positionen, die nicht im Auftrag enthalten waren. Die Vergleichssumme wird bei Zahlung in voller Höhe auf das Klientenkonto der Kanzlei überwiesen und danach an die Mandantin weitergeleitet.
 
 Bei Fragen zu dieser Honorarnote wenden Sie sich bitte direkt an unsere Kanzlei. Eine Ratenzahlung kann nach vorheriger Vereinbarung eingeräumt werden.
 
-Die Vergleichsverhandlungen fanden in mehreren Telefonaten und einer schriftlichen Korrespondenz statt; die Positionen vom [[date|05.02.2026]] und [[date|12.02.2026]] betreffen die Abstimmung mit Ihnen über die Zahlungsmodalitäten. Eine Rücksprache mit dem Steuerberater der [[organization|Marte e.U.]] war nicht erforderlich und wurde daher nicht verrechnet.
+Die Vergleichsverhandlungen fanden in mehreren Telefonaten und einer schriftlichen Korrespondenz statt; die Positionen vom [[date|05.02.2026]] und [[date|12.02.2026]] betreffen die Abstimmung mit Ihnen über die Zahlungsmodalitäten. Eine Rücksprache mit dem Steuerberater der [[organization|Marte e.U.]] war nicht erforderlich und wurde daher nicht verrechnet. Die Verrechnung erfolgt pro Stunde zu den im Vertrag vereinbarten Sätzen, wobei Fahrtzeiten nicht gesondert verrechnet werden und Rückfragen innerhalb von vierzehn Tagen kostenfrei beantwortet werden.
 
 Die Honorarnote wurde auf Grundlage unserer Zeitaufzeichnungen erstellt. Sollten Sie einzelne Positionen nicht nachvollziehen können, senden wir Ihnen gerne eine detaillierte Aufstellung mit den jeweiligen Arbeitsschritten zu.
 

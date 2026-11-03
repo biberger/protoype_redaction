@@ -74,6 +74,10 @@ Datum | Vorgang | Betrag (EUR) | Treuhandnummer
 
 Die Beschuldigte hat die Auszahlung vom [[date|23.12.2022]] als Honorarvorschuss bezeichnet. Eine Honorarnote wurde nicht gelegt.
 
+2a. Die Organisation des Treuhandkontos
+
+Die Kanzlei der Beschuldigten führte im Zeitraum der Vorwürfe ein einziges Treuhandkonto für alle Mandate. Eine Einzelaufstellung der Treuhandschaften wurde nicht geführt, die Zuordnung der Eingänge erfolgte nur über die Angaben im Zahlungsverkehr. Die Mitarbeiterin der Kanzlei, die die Buchhaltung betreute, hat in ihrer Zeugenaussage angegeben, dass die Weisungen der Beschuldigten nicht immer schriftlich vorlagen, weil diese Anweisungen häufig telefonisch erteilt wurden.
+
 3. Die Prüfung der Kammer
 
 Die [[organization|RAK OÖ]] hat die Treuhandbuchungen von der Wirtschaftsprüferin [[person|Dr. Ulrike Gerstmayr]] prüfen lassen. Das Prüfergebnis vom [[date|05.02.2024]] weist für das Treuhandkonto einen Fehlbetrag von EUR 1.650,00 aus, der zum Stichtag der Prüfung nicht gedeckt war.
@@ -82,9 +86,15 @@ III. Beweiswürdigung
 
 Die Zeugen [[person|Oskar Pfannhauser]] und [[person|Ilse Haidinger]] haben übereinstimmend angegeben, dass sie über die Auszahlungen nicht informiert worden seien. Die Aussage des Mandanten [[person|Pfannhauser]] wird durch den Schriftverkehr mit der Hausverwaltung gestützt, jene der Mandantin [[person|Haidinger]] durch den Kaufvertrag, der nie unterfertigt wurde.
 
+Die Beschuldigte hat im Verfahren angeboten, den Betrag von EUR 9.800,00 an die Mandantin zurückzuzahlen, wenn die Kammer das Verfahren einstellt. Der Senat sieht darin kein Zeichen der Einsicht, weil das Angebot erst nach der Anzeige erfolgte und an eine Bedingung geknüpft war.
+
 Die Verantwortung der Beschuldigten, die Auszahlungen seien auf mündliche Weisungen erfolgt, ist nicht glaubwürdig, weil die Beschuldigte selbst eingeräumt hat, dass die Weisungen nicht schriftlich festgehalten wurden.
 
 Die Zeugin [[person|Haidinger]] hat in der Verhandlung geschildert, dass sie den Kaufvertrag für das Grundstück nie unterfertigt habe, weil der Verkäufer die Vertragsbedingungen kurzfristig geändert habe. Sie habe die Beschuldigte davon mit einem Schreiben vom [[date|03.03.2022]] informiert. Dieses Schreiben liegt dem Senat vor und widerspricht der Darstellung der Beschuldigten, dass der Auftrag zur Auszahlung im Juni 2022 von der Mandantin erteilt worden sei.
+
+Die Prüfung der Wirtschaftsprüferin [[person|Dr. Ulrike Gerstmayr]] wurde vom Senat als glaubwürdig gewertet. Die Prüferin hat betont, dass die Buchungen zwar formal vollständig, inhaltlich aber nicht nachvollziehbar seien, weil die Begründungen fehlen.
+
+Die Aussagen der Zeugen sind insgesamt widerspruchsfrei und werden durch die Urkunden gestützt. Der Senat hat daher keine Veranlassung gesehen, weitere Zeugen zu laden oder ein neues Gutachten einzuholen, weil die Buchungsübersicht ausreichend Grundlage für die Entscheidung bietet.
 
 Der Senat hat außerdem den Zeugen [[person|Pfannhauser]] zur Frage befragt, ob er die Auszahlung an die Hausverwaltung im Jahr 2019 gekannt habe. Er hat dies verneint und darauf hingewiesen, dass er die Hausverwaltung nicht beauftragt habe.
 
@@ -94,15 +104,17 @@ IV. Rechtliche Beurteilung
 
 2. Die Buchung der Auszahlung vom [[date|23.12.2022]] als Honorarvorschuss ist nicht nachvollziehbar, weil keine Honorarnote vorliegt und die Mandantin keine Beauftragung über ein Honorar erteilt hat. Damit liegt auch ein Verstoß gegen [[legal_norm|§ 1 Abs 1 RAO]] vor.
 
-3. Die Strafbemessung berücksichtigt, dass die Beschuldigte bisher nicht disziplinär aufgefallen ist und das Alter der Beschuldigten. Eine Verringerung der Geldbuße wegen des Alters kommt nicht in Betracht, weil die Beschuldigte nach ihren eigenen Angaben weiterhin eine Kanzlei mit mehreren Mitarbeitern führt und die Vorwürfe über einen längeren Zeitraum wiederholt verwirklicht hat.
+3. Die Strafbemessung berücksichtigt, dass die Beschuldigte bisher nicht disziplinär aufgefallen ist und das Alter der Beschuldigten. Eine Verringerung der Geldbuße wegen des Alters kommt nicht in Betracht, zumal die Beschuldigte auch nach der Verhandlung keine Angaben zu einer Einstellung ihrer Tätigkeit gemacht hat und nach ihren eigenen Angaben weiterhin eine Kanzlei mit mehreren Mitarbeitern führt und die Vorwürfe über einen längeren Zeitraum wiederholt verwirklicht hat.
 
-4. Die Beschuldigte hat die Verantwortung für die Verwaltung der Treuhandgelder nicht in dem Umfang wahrgenommen, der von einem Rechtsanwalt verlangt werden kann. Gerade bei Treuhandschaften, die die Verwahrung von Erbschaftsgeldern betreffen, ist eine sorgfältige Dokumentation der Weisungen unerlässlich. Dass die Beschuldigte dies unterlassen hat, ist als schwerwiegend zu werten. Erschwerend waren die Mehrzahl der Verstöße und die Zeitdauer. Der Senat hat den Fehlbetrag inzwischen als ausgeglichen gewertet, da die Beschuldigte ihn nachträglich eingezahlt hat.
+4. Die Beschuldigte hat die Verantwortung für die Verwaltung der Treuhandgelder nicht in dem Umfang wahrgenommen, der von einem Rechtsanwalt verlangt werden kann. Gerade bei Treuhandschaften, die die Verwahrung von Erbschaftsgeldern betreffen, ist eine sorgfältige Dokumentation der Weisungen unerlässlich. Dass die Beschuldigte dies unterlassen hat, ist als schwerwiegend zu werten. Erschwerend waren die Mehrzahl der Verstöße und die Zeitdauer. Der Senat hat den Fehlbetrag inzwischen als ausgeglichen gewertet, da die Beschuldigte ihn nachträglich eingezahlt hat. Die Einzahlung erfolgte allerdings erst nach der Prüfung durch die Kammer, weshalb sie nur eingeschränkt mildernd zu berücksichtigen war.
 
 V. Kosten
 
 Die Kostenentscheidung beruht auf [[legal_norm|§ 52 RAO]]. Die Beschuldigte hat die Kosten des Verfahrens von EUR 1.100,00 zu tragen.
 
-Gegen diese Entscheidung ist eine Revision an den [[court|OGH]] zulässig.
+Gegen diese Entscheidung ist eine Revision an den [[court|OGH]] zulässig. Die Revision ist binnen vier Wochen ab Zustellung bei dieser Kommission einzubringen. Die Geldbuße ist binnen vier Wochen nach Rechtskraft auf das Konto der Kammer zu überweisen.
+
+Die Mandantin [[person|Haidinger]] hat im Verfahren einen Anspruch auf Rückzahlung des Betrages von EUR 9.800,00 nebst gesetzlichen Zinsen gegenüber der Beschuldigten angemeldet. Dieser Anspruch ist nicht Gegenstand des Disziplinarverfahrens und wird auf den Zivilrechtsweg verwiesen.
 
 [[address|4906 Eberschwang]], am [[date|16.09.2026]]
 

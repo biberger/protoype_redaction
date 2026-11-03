@@ -103,7 +103,7 @@ Die Geldbuße wurde unter Berücksichtigung der wirtschaftlichen Verhältnisse d
 
 **Kosten**
 
-Die Beschuldigte hat die Kosten des Disziplinarverfahrens zu tragen, die mit einer Pauschale von EUR 850,00 bestimmt werden. Die Pauschale umfasst die Kosten der Zustellung und der Verhandlung. Ein Ersatz der Kosten für das Gutachten der Buchprüfung wurde nicht beantragt, da keine externe Prüfung erfolgte. Reisekosten der Kammeranwältin sind darin nicht enthalten und werden gesondert verrechnet.
+Die Beschuldigte hat die Kosten des Disziplinarverfahrens zu tragen, die mit einer Pauschale von EUR 850,00 bestimmt werden. Die Pauschale umfasst die Kosten der Zustellung und der Verhandlung. Ein Ersatz der Kosten für das Gutachten der Buchprüfung wurde nicht beantragt, da keine externe Prüfung erfolgte. Reisekosten der Kammeranwältin sind darin nicht enthalten und werden gesondert verrechnet. Die Beschuldigte trägt auch die Kosten der Zustellung im Ausland.
 
 **Rechtsmittel**
 

@@ -78,11 +78,11 @@ IV. Beweisanträge
 
 V. Kosten und Zuständigkeit
 
-13. Die Zuständigkeit des [[court|LG Salzburg]] ergibt sich aus dem Streitwert und aus dem Ort der gelegenen Sache.
+13. Die Zuständigkeit des [[court|LG Salzburg]] ergibt sich aus dem Streitwert und aus dem Ort der gelegenen Sache, die im Sprengel dieses Gerichts liegt.
 
 14. Die Kostenentscheidung wird nach [[legal_norm|§ 41 ZPO]] beantragt. Die Pauschalgebühr für die Klage wurde im ERV entrichtet; der Nachweis liegt dem Schriftsatz bei.
 
-15. Die Klägerin behält sich vor, die Klage nach Vorlage des Grundbuchsauszuges und der Stellungnahme der Zweitbeklagten zu erweitern. Insbesondere wird geprüft, ob das [[organization|Land Salzburg]] als Nebenbeteiligte auch für die Verzögerung der Benützungsbewilligung einzustehen hat.
+15. Die Klägerin behält sich vor, die Klage nach Vorlage des Grundbuchsauszuges und der Stellungnahme der Zweitbeklagten zu erweitern. Insbesondere wird geprüft, ob das [[organization|Land Salzburg]] als Nebenbeteiligte auch für die Verzögerung der Benützungsbewilligung einzustehen hat. Die Klägerin wird ihre Forderung nach Zustellung der Klagebeantwortung präzisieren.
 
 Beilagen
 

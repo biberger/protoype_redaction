@@ -67,6 +67,12 @@ Rechtliche Beurteilung
 
 14. Die Beschuldigte hat die Frage nach der Nachvollziehbarkeit der Rechnung vom [[date|20. Juli 2023]] in der Verhandlung nicht beantwortet. Der Senat zieht daraus keine weiteren Schlüsse, berücksichtigt jedoch, dass die Beschuldigte ihre Aussage in diesem Punkt verweigert hat.
 
+15. Die Verkäuferin [[person|Hasenöhrl]] hat im Verfahren angeregt, die Zahlung an die [[organization|Einzinger e.U.]] von EUR 25.000,00 an die Klientin zurückzuführen. Der Senat hat diese Anregung zur Kenntnis genommen, sieht aber keine Zuständigkeit, eine Rückzahlung anzuordnen.
+
+16. Die Käuferin [[person|Oberdorfer]] wurde über das Ergebnis informiert. Sie hat angekündigt, die Frage einer Schadenersatzklage gegen die Beschuldigte mit ihrem Rechtsschutzversicherer zu erörtern.
+
+17. Der Senat hat den Inhaber des [[organization|Einzinger e.U.]], [[person|Florian Einzinger]], ausdrücklich darauf hingewiesen, dass die Unterstützung einer Verschleierung im Treuhandbuch ein eigenständiger Disziplinartatbestand sein kann. Ein Verfahren gegen ihn ist derzeit nicht anhängig.
+
 [[location|Graz]], am [[date|2. Juli 2026]]
 
 Der Vorsitzende:

@@ -50,6 +50,10 @@ Die Mandantin [[person|Filomenia Bąkowska]] hat der Beschuldigten im Jahr 2019 
 
 Die Beschuldigte hat erklärt, sie habe den Betrag mit der Mandantin besprochen und diese habe einer Verrechnung zugestimmt. Eine schriftliche Zustimmung existiert nicht, und die Mandantin bestreitet die Besprechung.
 
+2a. Die Abrechnung der Treuhandschaft
+
+Eine Abrechnung der Treuhandschaft Nr. [[other_identifier|2019/591]] wurde der Mandantin erst im Jahr 2024 übermittelt, nachdem sie ausdrücklich darum gebeten hatte. Die Abrechnung weist einen Betrag von EUR 1.200,00 als Honorar aus, der im Jahr 2019 ohne Honorarnote entnommen worden war. Die Mandantin hat die Honorierung bestritten, weil sie den Auftrag zur Verwahrung nur für die Dauer eines Gerichtsverfahrens erteilt habe.
+
 3. Die Zurückhaltung der Beschuldigten
 
 Der Mandant [[person|Kühberger]] hat zudem am [[date|20.06.2024]] eine Beschwerde bei der Kammer eingebracht, nachdem die Beschuldigte auch auf das Schreiben vom [[date|14.06.2024]] nicht reagiert hatte. Die Beschwerde wurde an die Kammeranwaltschaft weitergeleitet, die daraufhin die Anzeige vorbereitete.
@@ -68,7 +72,7 @@ IV. Rechtliche Beurteilung
 
 2. Die Verwahrung der Gelder der Mandantin [[person|Bąkowska]] war nicht ordnungsgemäß dokumentiert. Eine Abrechnung nach Abschluss der Treuhandschaft ist eine Pflicht des Rechtsanwalts. Die Beschuldigte hat diese Pflicht auch dadurch verletzt, dass sie die Abrechnung erst auf Aufforderung vorgenommen hat.
 
-3. Bei der Strafbemessung war erschwerend, dass die Beschuldigte zwei Mandanten betroffen hat und der Betrag von EUR 5.200,00 über mehrere Monate nicht zurückgegeben wurde. Die Beschuldigte hat die Aufforderungen des Mandanten [[person|Kühberger]] mehrfach unbeantwortet gelassen. Mildernd war, dass die Beschuldigte bisher nicht disziplinär aufgefallen ist. Die Geldbuße von EUR 2.500,00 erscheint angemessen.
+3. Bei der Strafbemessung war erschwerend, dass die Beschuldigte zwei Mandanten betroffen hat und der Betrag von EUR 5.200,00 über mehrere Monate nicht zurückgegeben wurde. Die Beschuldigte hat die Aufforderungen des Mandanten [[person|Kühberger]] mehrfach unbeantwortet gelassen. Mildernd war, dass die Beschuldigte bisher nicht disziplinär aufgefallen ist. Die Geldbuße von EUR 2.500,00 erscheint angemessen. Eine höhere Strafe war nicht geboten, weil die Beschuldigte den Betrag von EUR 5.200,00 nach der Anzeige an den Mandanten [[person|Kühberger]] zurückgezahlt hat und ihre Berufsausübung bisher ohne Beanstandung war.
 
 V. Kosten
 

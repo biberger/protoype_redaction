@@ -76,7 +76,7 @@ Betreff: AW: Rechnung [[organization|Friedel Bau GmbH]]
 
 Lieber Herr [[person|Plankensteiner]],
 
-die [[organization|Friedel Bau]] ist mit einer Prüfung einverstanden. Bitte senden Sie die Mängelliste bis [[date|20. März 2026]], dann beginnt die Frist für die Mängelbehebung zu laufen. Frau [[person|Torggler]] bearbeitet den Vorgang und ist unter Tel. [[phone_number|0732/4943131-43]] erreichbar. Sollte die zweite Rate ausbleiben, behält sich die Bauunternehmung vor, die Arbeiten an den Dachflächen einzustellen. Wir bitten Sie, dies bei Ihrer Disposition zu berücksichtigen.
+die [[organization|Friedel Bau]] ist mit einer Prüfung einverstanden. Bitte senden Sie die Mängelliste bis [[date|20. März 2026]], dann beginnt die Frist für die Mängelbehebung zu laufen. Frau [[person|Torggler]] bearbeitet den Vorgang und ist unter Tel. [[phone_number|0732/4943131-43]] erreichbar. Sollte die zweite Rate ausbleiben, behält sich die Bauunternehmung vor, die Arbeiten an den Dachflächen einzustellen. Wir bitten Sie, dies bei Ihrer Disposition zu berücksichtigen. Frau [[person|Torggler]] benötigt dafür bis zum [[date|18. März 2026]] die Fotodokumentation des Gerüsts.
 
 > Von: [[person|Martin Plankensteiner]]
 > Gesendet: [[date|10. März 2026]]
@@ -102,3 +102,16 @@ am [[date|6. März 2026]] nehme ich die Dachsanierung ab, sofern die Schneelast 
 Mit freundlichen Grüßen
 [[person|Ruedi Isser]]
 Bauleiter, [[organization|Friedel Bau GmbH]], [[company_register_number|FN 164255b]], [[tax_id|ATU00716519]]
+
+---
+Von: [[person|Martin Plankensteiner]] <[[email|m.plankensteiner@gmx.at]]>
+Gesendet: Dienstag, [[date|3. März 2026]] 09:12
+An: [[person|Ruedi Isser]]
+Betreff: Termin Abnahme
+
+Sehr geehrter Herr [[person|Isser]],
+
+die Abschlagszahlung ist heute überwiesen worden. Bitte bestätigen Sie mir den Termin für die Abnahme der Dachsanierung. Ich selbst bin ab Donnerstag für zwei Wochen auf Dienstreise, meine Vertretung ist Herr [[person|Pálffy]]. Die Schlüssel für den Dachboden hinterlege ich beim Hausmeister.
+
+Mit freundlichen Grüßen
+[[person|Martin Plankensteiner]]

@@ -70,6 +70,10 @@ Rechtliche Beurteilung
 
 16. Der Spruch ist dem Beschuldigten, der Kammeranwältin und dem Disziplinarrat zuzustellen. Die Zustellung an die Mandantin erfolgt durch die Kammeranwältin.
 
+17. Die Kammer hat die Mandantin [[person|Mark]] über ihr Recht zur Stellungnahme zur Berufung informiert. Die Mandantin hat davon keinen Gebrauch gemacht und lediglich mitgeteilt, dass ihr die Erledigung der Angelegenheit wichtig sei.
+
+18. Die Kosten der Berufung sind nach Pauschalsätzen bemessen; der Beschuldigte hat hierfür einen Betrag von EUR 600,00 zu entrichten. Die Zahlung ist binnen vier Wochen nach Zustellung auf das Konto der Kammer zu leisten. Eine Zahlungserinnerung ergeht von Amts wegen.
+
 [[location|Wien]], am [[date|22. Oktober 2026]]
 
 Für die Richtigkeit der Ausfertigung:

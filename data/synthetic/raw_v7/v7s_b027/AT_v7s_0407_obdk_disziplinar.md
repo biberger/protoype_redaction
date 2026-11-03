@@ -19,7 +19,7 @@ Richterin [[judge|Ing. Andriana Kalogiannis]]
 Kammeranwalt: [[person|Mag. Tankred Pommer]]
 Schriftführerin: [[person|Leandra MMag. Neuwirth]]
 
-Der Beschuldigte wird durch [[lawyer|Boleslav Sinzinger]] selbst vertreten. Zur Verhandlung erschienen auch die Zeugin [[person|Gertraude Groag]], StA: [[country|Deutschland]], und der Zeuge [[person|Neđo Ing. Bekir]].
+Der Beschuldigte wird durch [[lawyer|Boleslav Sinzinger]] selbst vertreten; die Kammer war durch den Kammeranwalt vertreten, der die Anklage in der Verhandlung aufrechterhalten hat. Zur Verhandlung erschienen auch die Zeugin [[person|Gertraude Groag]], StA: [[country|Deutschland]], und der Zeuge [[person|Neđo Ing. Bekir]].
 
 I. Spruch
 
@@ -50,7 +50,7 @@ III. Beweiswürdigung
 
 6. Der Senat stützt die Feststellungen auf die Kontoauszüge, die Angaben der Zeugin [[person|Gertraude Groag]] und die schriftliche Stellungnahme des Beschuldigten vom [[date|15.01.2025]]. Der Beschuldigte bestreitet die Auszahlung vom [[date|12.07.2019]] nicht, erklärt sie jedoch mit einem Darlehen an eine Kanzleimitarbeiterin, die in der Verhandlung nicht namentlich genannt wurde.
 
-7. Dieses Vorbringen ist nicht glaubhaft. Ein Darlehensvertrag liegt nicht vor, und die behauptete Empfängerin hat in der Verhandlung nicht ausgesagt. Auch die Zeugin [[person|Gertraude Groag]] hat die Zustimmung zu einer Auszahlung ausdrücklich verneint.  Er gab an, den Vorschuss in bar übergeben zu haben, und legte dazu keine Quittung vor. Die Zeugin [[person|Gertraude Groag]] ergänzte, sie habe die Kanzlei im Herbst 2019 mehrmals telefonisch um Auskunft ersucht, ohne eine Antwort zu erhalten.
+7. Dieses Vorbringen ist nicht glaubhaft. Der Senat hat die Darstellung des Beschuldigten auch mit den Angaben der Mandantin verglichen und keine Übereinstimmung festgestellt. Die Zahlungen wurden im Protokoll ohne Einwand verlesen. Ein Darlehensvertrag liegt nicht vor, und die behauptete Empfängerin hat in der Verhandlung nicht ausgesagt. Auch die Zeugin [[person|Gertraude Groag]] hat die Zustimmung zu einer Auszahlung ausdrücklich verneint.  Er gab an, den Vorschuss in bar übergeben zu haben, und legte dazu keine Quittung vor. Die Zeugin [[person|Gertraude Groag]] ergänzte, sie habe die Kanzlei im Herbst 2019 mehrmals telefonisch um Auskunft ersucht, ohne eine Antwort zu erhalten.
 
 IV. Rechtliche Beurteilung
 
@@ -70,7 +70,7 @@ IV. Rechtliche Beurteilung
 
 V. Kosten
 
-15. Die Kosten des Verfahrens werden dem Beschuldigten auferlegt. Die Ausfertigung ergeht an den Kammeranwalt [[person|Mag. Tankred Pommer]] und an den Beschuldigten [[lawyer|Boleslav Sinzinger]]. Die Kosten der Zeugen [[person|Gertraude Groag]] und [[person|Neđo Ing. Bekir]] für die Anreise zur Verhandlung werden dem Beschuldigten als Barauslagen zugerechnet, weil ihre Vorladung durch die Kammer veranlasst wurde.
+15. Die Kosten des Verfahrens werden dem Beschuldigten auferlegt. Die Ausfertigung ergeht an den Kammeranwalt [[person|Mag. Tankred Pommer]] und an den Beschuldigten [[lawyer|Boleslav Sinzinger]]. Die Kosten der Zeugen [[person|Gertraude Groag]] und [[person|Neđo Ing. Bekir]] für die Anreise zur Verhandlung werden dem Beschuldigten als Barauslagen zugerechnet, weil ihre Vorladung durch die Kammer veranlasst wurde. Die Barauslagen sind vom Beschuldigten binnen vier Wochen nach Zustellung der Kostenrechnung zu begleichen.
 
 Die Entscheidung ist durch die Senatspräsidentin [[judge|Nastjenka Reichel]] unterzeichnet.
 

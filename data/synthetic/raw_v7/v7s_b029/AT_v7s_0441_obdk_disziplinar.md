@@ -51,7 +51,7 @@ Der Senat stellt weiters fest, dass auf dem Anderkonto im Tatzeitraum auch Gelde
 
 **Verfahrensgang**
 
-Die Anzeige der Kammeranwaltschaft ist am [[date|14. Jänner 2025]] bei der [[court|OBDK]] eingelangt. Nach Einholung einer Stellungnahme der Beschuldigten wurde das Verfahren am [[date|2. Juni 2025]] eingeleitet. Die Beschuldigte wurde zur Vorlage der Treuhandbuchhaltung aufgefordert, die sie erst nach zweimaliger Mahnung vorlegte. Die Akten des Kammervorstandes, insbesondere die Berichte über die Prüfung der Anderkonten, wurden beigeschafft.
+Die Anzeige der Kammeranwaltschaft ist am [[date|14. Jänner 2025]] bei der [[court|OBDK]] eingelangt. Nach Einholung einer Stellungnahme der Beschuldigten wurde das Verfahren am [[date|2. Juni 2025]] eingeleitet. Die Beschuldigte wurde zur Vorlage der Treuhandbuchhaltung aufgefordert, die sie erst nach zweimaliger Mahnung vorlegte. Die mündliche Verhandlung wurde auf Antrag der Beschuldigten einmal vertagt. Die Akten des Kammervorstandes, insbesondere die Berichte über die Prüfung der Anderkonten, wurden beigeschafft.
 
 Auslöser des Verfahrens war eine schriftliche Beschwerde der Klientin [[person|Hilde Obermoser]] vom [[date|9. Dezember 2024]], in der sie sich nach der fehlenden Abrechnung ihrer Einzahlung erkundigt hatte. Der Kammervorstand veranlasste daraufhin eine Prüfung des Anderkontos, bei der die oben dargestellten Buchungen festgestellt wurden.
 
@@ -87,7 +87,7 @@ Bei der Bemessung der Geldbuße waren als mildernd zu berücksichtigen, dass die
 
 Der Senat hat außerdem berücksichtigt, dass die Beschuldigte seit dem [[date|1. Oktober 2025]] keine Anderkonten mehr führt, nachdem sie diese auf Anordnung des Kammervorstandes geschlossen hat. Die Dauer der Entziehung wird auf die Zeit dieser Anordnung angerechnet.
 
-Die Geldbuße wurde unter Berücksichtigung der wirtschaftlichen Verhältnisse der Beschuldigten bemessen. Die Beschuldigte hat den Betrag der Honorare nicht bestritten, sondern lediglich den Zeitpunkt der Entnahme in Abrede gestellt. Eine bedingte Nachsicht kam nicht in Betracht, weil die Beschuldigte die Verantwortung nur teilweise übernommen hat.
+Die Geldbuße wurde unter Berücksichtigung der wirtschaftlichen Verhältnisse der Beschuldigten bemessen. Die Beschuldigte hat den Betrag der Honorare nicht bestritten, sondern lediglich den Zeitpunkt der Entnahme in Abrede gestellt. Eine bedingte Nachsicht kam nicht in Betracht, weil die Beschuldigte die Verantwortung nur teilweise übernommen hat. Der Senat hat bei der Entscheidung zudem die bisherige Dauer des Verfahrens berücksichtigt.
 
 **Kosten**
 
@@ -95,7 +95,7 @@ Die Beschuldigte hat die Kosten des Disziplinarverfahrens zu tragen. Die Kosten 
 
 **Rechtsmittelbelehrung**
 
-Gegen diese Entscheidung ist ein Rechtsmittel an den Obersten Gerichtshof zulässig. Die Frist zur Erhebung beträgt vier Wochen ab Zustellung. Die Beschuldigte und die Kammeranwaltschaft sind zur Erhebung berechtigt. Die Entscheidung erwächst nach Ablauf der Frist in Rechtskraft; die Vollstreckung der Geldbuße ist erst nach Rechtskraft zulässig.
+Gegen diese Entscheidung ist ein Rechtsmittel an den Obersten Gerichtshof zulässig. Die Frist zur Erhebung beträgt vier Wochen ab Zustellung. Die Beschuldigte und die Kammeranwaltschaft sind zur Erhebung berechtigt. Die Entscheidung erwächst nach Ablauf der Frist in Rechtskraft; die Vollstreckung der Geldbuße ist erst nach Rechtskraft zulässig. Die Zustellung an die Kammeranwaltschaft erfolgte gesondert. Die Zustellung an die Beschuldigte erfolgte an die Kanzleiadresse. Sie wurde am gleichen Tag ausgefertigt.
 
 [[location|Wien]], am [[date|18. September 2026]]
 

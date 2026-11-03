@@ -43,9 +43,11 @@ Summe Auslagen                                                                27
 20 % USt auf Honorar                                                         338,00
 Gesamtbetrag                                                               2.055,80
 
-Die Honorare wurden nach dem [[legal_norm|RATG]] ermittelt. Die Auslagen sind in der tatsächlich angefallenen Höhe angesetzt. Die Umsatzsteuer ist gesondert ausgewiesen und entspricht dem Steuersatz von zwanzig Prozent für Rechtsberatung.
+Die Honorare wurden nach dem [[legal_norm|RATG]] ermittelt. Die Auslagen sind in der tatsächlich angefallenen Höhe angesetzt. Die Umsatzsteuer ist gesondert ausgewiesen und entspricht dem Steuersatz von zwanzig Prozent für Rechtsberatung. Die Auslagen für Porto und Kopien sind ohne Aufschlag verrechnet und entsprechen den Kosten der Kanzlei. Die Gebühren für die Grundbuchsabfrage sind amtlich festgelegt und werden in der tatsächlichen Höhe weitergegeben. Für die Übergabe des Schlüssels fällt keine gesonderte Gebühr an. Die Kanzlei dankt für das Vertrauen und die gute Zusammenarbeit im Verlauf der Angelegenheit.
 
 Der Mietvertrag für das Geschäftslokal sieht eine Laufzeit von fünf Jahren mit einer Option auf Verlängerung um weitere drei Jahre vor. Die Mietzinsvereinbarung wurde in der Verhandlung mit der [[organization|Hausverwaltung Hollerer]] geklärt; die Ablöse von EUR 18.000,00 ist nicht Gegenstand dieser Honorarnote, sondern wurde unmittelbar zwischen den Parteien abgerechnet.
+
+Die Parteien haben sich auf eine Übergabe am Monatsende geeinigt. Die Übergabe des Inventars wurde durch einen Mitarbeiter der Kanzlei überwacht und schriftlich festgehalten, wobei die Mängelliste der Gegenseite beigelegt wurde.
 
 Frau [[person|Slezáková]] hat unsere Kanzlei am [[date|03.02.2026]] telefonisch ersucht, die Übergabe um zwei Wochen zu verschieben. Diesem Wunsch wurde nach Rücksprache mit Frau [[person|Summereder]] entsprochen; die dadurch entstandenen Mehrkosten sind in der Position vom [[date|17.02.2026]] enthalten.
 

@@ -75,7 +75,7 @@ III. Rechtliche Beurteilung
 
 10. Die Verjährungsfrage ist nicht entscheidungswesentlich, weil die Klage innerhalb der Frist des [[legal_norm|§ 1489 ABGB]] eingebracht wurde.
 
-11. Die Rechtsprechung des [[court|OGH]] zur Beweislast bei Anlagenschäden ist im Schrifttum überwiegend gebilligt worden. Eine Abweichung davon wäre im vorliegenden Fall nicht gerechtfertigt, weil die beklagte Partei die Verantwortung für die Wartung des Leitungsnetzes selbst übernommen hat.
+11. Die Rechtsprechung des [[court|OGH]] zur Beweislast bei Anlagenschäden ist im Schrifttum überwiegend gebilligt worden. Eine Abweichung davon wäre im vorliegenden Fall nicht gerechtfertigt, weil die beklagte Partei die Verantwortung für die Wartung des Leitungsnetzes selbst übernommen hat. Die Wartungspläne der beklagten Partei weisen für die Jahre 2020 bis 2022 keine Begehung der betroffenen Hauptleitung aus.
 
 IV. Beweisanbot
 
@@ -95,7 +95,7 @@ V. Verfahrensrüge
 
 VI. Kosten
 
-18. Der Kläger begehrt die Kosten des Revisionsverfahrens nach den Grundsätzen des Erfolgs. Die Kosten der Verfahrenshilfe sind gesondert zu verzeichnen.
+18. Der Kläger begehrt die Kosten des Revisionsverfahrens nach den Grundsätzen des Erfolgs und beantragt die Zuerkennung der Kosten des Verfahrens erster und zweiter Instanz. Die Kosten der Verfahrenshilfe sind gesondert zu verzeichnen.
 
 Beilagen:
 ./A   Urteil des Erstgerichts vom [[date|14.04.2025]] (Ausfertigung)

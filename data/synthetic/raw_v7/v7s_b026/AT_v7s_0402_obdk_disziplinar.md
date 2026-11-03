@@ -49,6 +49,8 @@ Datum | Vorgang | Betrag | Klient
 
 6g. Der Kläger [[person|Weidinger]] hat angegeben, er habe die Beschuldigte mehrfach nach dem Stand des Treuhandkontos gefragt und stets die Auskunft erhalten, alles sei in Ordnung. Diese Auskunft wertet der Senat als unrichtig, weil die Überweisung vom [[date|28. August 2024]] zu diesem Zeitpunkt noch nicht verzeichnet war.
 
+6h. Der Kammeranwalt hat die Vorlage des Kanzleikontoauszugs für den Zeitraum vom [[date|1. August 2024 bis 31. August 2024]] verlangt. Der Auszug zeigt, dass die Überweisung vom [[date|28. August 2024]] auf das Kanzleikonto gebucht wurde, im Treuhandbuch jedoch erst am [[date|11. September 2024]] erschien.
+
 Rechtliche Beurteilung
 
 7. Nach [[legal_norm|§ 43a Abs 5 RAO]] hat der Rechtsanwalt Treuhandgelder getrennt zu verwalten und zweckgebunden zu verwenden. Die Überweisung vom [[date|28. August 2024]] auf das Kanzleikonto verstößt dagegen, weil sie keiner fälligen und bestrittenen Forderung diente.
@@ -68,6 +70,10 @@ Rechtliche Beurteilung
 15. Die Kosten des Verfahrens werden der Beschuldigten zur Gänze auferlegt, weil der Antrag auf Abweisung der Anzeige in allen Punkten erfolglos blieb.
 
 16. Die Beschuldigte hat die Kosten innerhalb von vier Wochen nach Zustellung dieses Spruchs zu bezahlen. Der Spruch ist dem Kammeranwalt, der Beschuldigten und der Klägerin zuzustellen.
+
+17. Die Beschuldigte hat in der Verhandlung ihre Einsicht erklärt und angekündigt, die Kanzleiorganisation umzustellen. Der Senat berücksichtigt dies mildernd, wertet die Verzögerung der Eintragung jedoch als erschwerend.
+
+18. Die Entscheidung über die Strafe ist einstimmig gefasst. Der Vorsitzende hat die Begründung im Anschluss an die Verhandlung verlesen und den Parteien ausgehändigt.
 
 [[location|Wien]], am [[date|8. Juni 2026]]
 

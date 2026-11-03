@@ -35,6 +35,8 @@ II. Sachverhalt
 
 Die Mandantin [[person|Ludmila Ferchl]] hat der Beschuldigten am [[date|05.06.2023]] einen Betrag von EUR 4.800,00 zur Verwahrung übergeben. Der Betrag sollte für eine Nachzahlung an eine Hausverwaltung verwendet werden. Die Beschuldigte verwahrte das Geld auf dem Treuhandkonto der Kanzlei.
 
+Im Treuhandbuch ist der Vorgang unter der Nummer [[other_identifier|2022/866]] erfasst; eine Eintragung der Gründe für die Zurückhaltung fehlt.
+
 Die Beschuldigte hat den Betrag am [[date|21.06.2023]] zu einem Teil ausgefolgt, nämlich mit EUR 1.600,00. Der Restbetrag von EUR 3.200,00 blieb bis zum [[date|12.02.2024]] auf dem Treuhandkonto, obwohl die Hausverwaltung mehrfach zur Zahlung aufgefordert hatte.
 
 Die Treuhandbuchung weist folgende Vorgänge aus:
@@ -54,7 +56,7 @@ III. Rechtliche Beurteilung
 
 1. Gemäß [[legal_norm|§ 16 RAO]] hat der Rechtsanwalt Gelder, die er für Mandanten verwahrt, unverzüglich nach Maßgabe des Auftrags auszufolgen. Eine Zurückhaltung ist nur zulässig, wenn ein berechtigter Anspruch des Rechtsanwalts gegenüber dem Mandanten besteht und dieser die Zurückhaltung dokumentiert.
 
-2. Die Beschuldigte hat den Restbetrag über mehr als acht Monate zurückgehalten, ohne einen solchen Anspruch zu belegen. Die Zurückhaltung war daher unzulässig. Der Verstoß ist schuldhaft begangen worden.
+2. Die Beschuldigte hat den Restbetrag über mehr als acht Monate zurückgehalten, ohne einen solchen Anspruch zu belegen. Dass sie den Betrag bis zur Verhandlung nicht selbst zur Abrechnung gebracht hat, verstärkt diesen Eindruck. Die Zurückhaltung war daher unzulässig. Der Verstoß ist schuldhaft begangen worden.
 
 3. Die Herabsetzung der Geldbuße beruht darauf, dass die Beschuldigte den Restbetrag inzwischen an die Hausverwaltung ausgezahlt hat und bisher nicht disziplinär aufgefallen ist. Die Berufung wurde im Übrigen abgewiesen, weil die Verzögerung auch ohne den Vorwurf der Honorarforderung eine erhebliche Pflichtverletzung darstellt.
 

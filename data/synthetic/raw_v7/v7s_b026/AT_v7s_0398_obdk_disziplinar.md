@@ -67,6 +67,12 @@ Rechtliche Beurteilung
 
 11. Die Beschuldigte hat die Kosten des Verfahrens vor dem Disziplinarrat zu tragen. Die Kosten des Berufungsverfahrens treffen die Beschuldigte im Umfang von einem Drittel, weil sie mit ihrer Berufung nur teilweise durchgedrungen ist.
 
+11a. Der Senat hat den Beweisantrag der Beschuldigten auf Einvernahme der Kanzleiangestellten [[person|Franziska Zahrer]] abgelehnt, weil deren Wahrnehmungen zur Überweisung vom [[date|12. Juli 2021]] nach der Aktenlage nicht entscheidungsrelevant sind. Die Beschuldigte hat den Antrag in der Verhandlung nicht wiederholt.
+
+11b. Der Senat hat die Schulung im Treuhandwesen im Umfang von zehn Stunden angeordnet; die Teilnahme ist durch eine Bestätigung der anbietenden Stelle nachzuweisen.
+
+11c. Die Beschuldigte hat anerkannt, den vollständigen Treuhandbestand binnen 14 Tagen nach Zustellung dieses Spruchs gegenüber der [[organization|RAK NÖ]] offenzulegen.
+
 12. Die Berufung der Beschuldigten gegen die Verhältnismäßigkeit der Strafe ist teilweise begründet. Der Entzug der Berufsberechtigung ist nicht mehr verhältnismäßig, nachdem die Beschuldigte den Betrag von EUR 60.000,00 vollständig zurückgezahlt hat. Der Senat hat dabei berücksichtigt, dass die Verlassenschaft nach [[person|Heinrich Gründler]] durch die Zahlung nicht geschädigt wurde.
 
 12a. Die Geldbuße ist binnen vier Wochen nach Rechtskraft zu bezahlen. Die [[organization|RAK NÖ]] wird die Einhaltung der Auflagen überprüfen und dem Senat berichten.

@@ -132,6 +132,12 @@ XI. Besondere Vereinbarungen
 
 35. Diese Vereinbarungen gelten zusätzlich zu den Bestimmungen der Abschnitte I bis X. Bei Widersprüchen gehen die besonderen Vereinbarungen dieses Abschnitts vor.
 
+36. Die Verkäuferin erklärt, dass für die Liegenschaft seit dem Jahr 2016 keine Förderungen für Sanierungsarbeiten in Anspruch genommen wurden. Die Verkäuferin hat dazu alle Unterlagen über Zuschüsse der Gemeinde und des Landes vorgelegt. Ein Rückforderungsanspruch einer Förderstelle besteht daher nicht.
+
+37. Die Käufer erklären, dass sie den Kaufpreis unter Berücksichtigung des Zustandes des Wohnhauses und der Lage der Liegenschaft in [[location|St. Gilgen]] vereinbart haben. Der Sanierungsbedarf am Dach ist den Käufern bekannt; eine Preisminderung wird daher nicht geltend gemacht.
+
+38. Die Verkäuferin verpflichtet sich, die Auszahlung des Kaufpreises an den Verkäufer erst nach Vorliegen der Löschungsurkunde für das Pfandrecht vorzunehmen. Die Kanzlei ist ermächtigt, die Auszahlung entsprechend zu steuern. Die Verkäuferin nimmt zur Kenntnis, dass Auszahlungen an sie vor Vorliegen der Löschungsurkunde nicht erfolgen und dass daraus keine Zinsen zu ihren Gunsten entstehen.
+
 [[location|Liebenfels]], am [[date|03.03.2026]]
 
 Verkäuferin:

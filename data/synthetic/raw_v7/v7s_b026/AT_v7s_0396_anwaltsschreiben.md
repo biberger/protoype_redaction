@@ -39,11 +39,17 @@ Die Mandantin hat den Mietvertrag am [[date|1. März 2019]] abgeschlossen und de
 
 Wir ersuchen zudem, sämtliche Schreiben künftig an die Kanzlei zu richten und nicht an die Mandantin direkt. Eine Vereinbarung über die Räumung kommt nur über die Kanzlei zustande. Wir behalten uns vor, eine Feststellungsklage einzubringen, falls die Kündigung aufrechterhalten wird.
 
+Zur Vorgeschichte ist festzuhalten, dass die Mandantin im Jahr 2023 einer Mietzinsanpassung nach dem Verbraucherpreisindex zugestimmt hat, obwohl diese nach unserer Auffassung nicht ordnungsgemäß angekündigt war. Die [[organization|KRK]] hat zu diesem Punkt eine Gegenüberstellung der Zahlungen vorgelegt, die wir nicht bestätigen können, weil sie die Überweisung vom [[date|15. April 2026]] nicht enthält. Wir ersuchen um Übermittlung der vollständigen Kontoauszüge der [[organization|KRK]] bis zum [[date|10. Juni 2026]].
+
+Für die Mandantin ist das Geschäftslokal wirtschaftlich von erheblicher Bedeutung, da sie dort seit neun Jahren einen Handel mit Heimtextilien betreibt. Eine Räumung würde zu einem Verlust von Kundenbeziehungen und Arbeitsplätzen führen.
+
 Die Mandantin wohnt in [[address|6321 Angath]]. Wir ersuchen um Stellungnahme bis zum [[date|17. Juni 2026]].
 
 Mit freundlichen Grüßen
 
 [[person|Riegler]]
 Rechtsanwalt
+
+Anlagen: 1. Vollmacht; 2. Kontoauszug vom [[date|15. April 2026]] (Auszug); 3. Mietvertrag vom [[date|1. März 2019]] (Kopie)
 
 Verteiler: [[person|Hochstetter Malgosia]] (Mandantin), [[person|Krišková Kornélia]] (Kanzleisekretariat)

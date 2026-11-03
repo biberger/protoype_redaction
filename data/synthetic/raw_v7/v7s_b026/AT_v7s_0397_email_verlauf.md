@@ -73,3 +73,17 @@ Die Zahlung der Reparaturkosten an [[person|Puchinger]] sollte nicht warten, bis
 Mit freundlichen Grüßen
 [[person|Zweigelt]]
 Rechtsanwalt
+
+---
+Von: [[person|Ortwin Puchinger]] <[[email|o.puchinger@aon.at]]>
+Gesendet: Freitag, [[date|19. September 2025]] 14:02
+An: [[person|Zweigelt]]
+Cc: [[person|Jolantha Schnabl]]
+Betreff: AW: Unser Zeichen: [[other_identifier|745/22 NN]]
+
+Sehr geehrter Herr [[person|Zweigelt]],
+
+die Werkstatt hat mir mitgeteilt, dass die Reparatur am [[date|25. September 2025]] abgeschlossen sein wird. Mein Mietwagen ist bis zum [[date|29. September 2025]] verlängert worden. Ich bitte um Bestätigung, dass die Mietwagenkosten bis zu diesem Datum übernommen werden. Die Klienten-Nr. [[other_identifier|12451]] bitte ich bei der Antwort anzugeben.
+
+Mit freundlichen Grüßen
+[[person|Ortwin Puchinger]]

@@ -52,6 +52,12 @@ Ein Verwertungsverbot der Angaben ist nicht gegeben, da die Befragung ordnungsge
 
 Die Schätzung des Schadens durch die Beamten beträgt EUR 9.500,00 am PKW und EUR 4.200,00 am Kombi. Diese Schätzung ist nicht verbindlich und ersetzt kein Sachverständigengutachten. Die Beteiligten wurden auf den Zivilrechtsweg verwiesen.
 
+Die Halterin des Kombis, [[person|Gertraud Anderle]], ist die Ehefrau des Lenkers; das Fahrzeug ist auf sie zugelassen. Die Halterin wurde telefonisch von der Unfallaufnahme verständigt und hat angegeben, dass sie den Versicherungsschutz für das Fahrzeug selbst bestätigen werde. Die Verständigung der Versicherung erfolgt durch die Halterin.
+
+Der Lenkerin [[person|Jerzabek]] wurde angeboten, sich im Rettungsfahrzeug untersuchen zu lassen. Sie hat dies abgelehnt und ist nach eigenen Angaben am Folgetag bei ihrer Hausärztin gewesen. Ein ärztlicher Befund liegt der Anzeige nicht bei.
+
+Am Unfallort befand sich eine Fahrbahnverschmutzung durch Splitt, die von den Beamten mit Besen entfernt wurde. Ein Kanaldeckel im Bereich der Haltelinie war nach den Feststellungen nicht Ursache des Unfalls.
+
 Rückfragen an die Anzeigende unter Tel. [[phone_number|+43-463-8633809 Durchwahl 64]].
 
 Die Polizeiinspektion ist unter der Anschrift [[address|5600 St. Johann im Pongau]] erreichbar. Die Anzeige wird dem Bezirksgericht zur Kenntnis gebracht, sobald die Versicherungsfragen geklärt sind.

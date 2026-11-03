@@ -27,13 +27,13 @@ in der oben bezeichneten Angelegenheit vertreten wir Herrn [[person|Rochus Gigle
 
 Die Liegenschaft steht im Eigentum unseres Mandanten und ist im Grundbuch als [[land_register_id|EZ 1007]], Grundbuch [[land_register_id|22364]] eingetragen. Der Schaden betrifft das Wohnhaus auf dieser Liegenschaft.
 
-Unser Mandant ist Kunde Ihres Hauses. Seine Kunden-Nr. lautet [[other_identifier|222569]]; die Kd.-Nr. bei der [[organization|Wander Bau]] lautet [[other_identifier|838603]]. Herr [[person|Gigler]] wohnt in [[address|6361 Hopfgarten im Brixental]] und ist unter Tel. [[phone_number|0512 503035-3]] erreichbar.
+Unser Mandant ist Kunde Ihres Hauses, Kunden-Nr. [[other_identifier|222569]]. Bei der [[organization|Wander Bau]] wird er unter Kd.-Nr. [[other_identifier|838603]] geführt. Herr [[person|Gigler]] wohnt in [[address|6361 Hopfgarten im Brixental]] und ist unter Tel. [[phone_number|0512 503035-3]] erreichbar.
 
 Sachverhalt: Am [[date|03.10.2025]] wurde auf dem Grundstück durch Arbeiten der [[organization|Wander Bau]] eine Wasserleitung beschädigt. Die Leitung war nicht ordnungsgemäß gesichert, und in der Folge drang Wasser in das Erdgeschoss ein. Die Schadensmeldung vom [[date|06.10.2025]] wurde Ihrem Haus übermittelt.
 
 Die Wasserleitung war vor den Arbeiten nicht als Versorgungsleitung im Plan verzeichnet. Dies wurde der [[organization|Wander Bau]] nach den Angaben des Polierers erst nach dem Schadensfall bekannt.
 
-Mit Schreiben vom [[date|14.10.2025]] haben Sie den Schaden dem Grunde nach anerkannt, jedoch die Höhe bestritten. Eine Begutachtung durch einen Sachverständigen fand am [[date|28.10.2025]] statt. Der Sachverständige [[person|Miron Iwanytschuk]] hat einen Schaden von EUR 18.640,00 festgestellt.
+Mit Schreiben vom [[date|14.10.2025]] haben Sie den Schaden dem Grunde nach anerkannt, jedoch die Höhe bestritten. Eine Begutachtung durch einen Sachverständigen fand am [[date|28.10.2025]] statt. Der Sachverständige [[person|Miron Iwanytschuk]] hat einen Schaden von EUR 18.640,00 festgestellt und dabei auch die Ersatzunterbringung berücksichtigt. Das Gutachten liegt diesem Schreiben in Kopie bei und ist für die Regulierung maßgeblich.
 
 Die Liegenschaft ist seit dem Jahr 1998 im Eigentum unseres Mandanten und dient ihm als Hauptwohnsitz. Der Schaden hat die Nutzung des Erdgeschosses vollständig ausgeschlossen, sodass die Familie des Mandanten für die Dauer der Sanierung in eine Mietwohnung ausweichen musste. Die Kosten dieser Unterbringung sind im Gesamtbetrag enthalten.
 
@@ -45,7 +45,7 @@ Wir weisen darauf hin, dass der Mandant die Verzugszinsen nach [[legal_norm|§ 4
 
 Die Verantwortung der [[organization|Wander Bau]] für den Schaden ergibt sich aus [[legal_norm|§ 1311 ABGB]], weil die Leitung ohne ausreichende Absicherung zurückgelassen wurde; eine Haftung nach [[legal_norm|§ 1315 ABGB]] ist nach dem Ergebnis der Begutachtung nicht auszuschließen.
 
-Der Mandant hat die Rechnung der Sanierungsfirma vorab bezahlt und verlangt nun Ersatz. Ein Eigenanteil des Mandanten besteht nicht; eine Mitverschuldung ist nach den bisherigen Feststellungen nicht erkennbar, da die Leitung für den Mandanten nicht zugänglich war.
+Der Mandant hat die Rechnung der Sanierungsfirma vorab bezahlt und verlangt nun Ersatz. Die Zahlung wurde am [[date|27.10.2025]] geleistet, wie aus dem beiliegenden Zahlungsnachweis ersichtlich ist. Ein Eigenanteil des Mandanten besteht nicht; eine Mitverschuldung ist nach den bisherigen Feststellungen nicht erkennbar, da die Leitung für den Mandanten nicht zugänglich war.
 
 Die Sanierungsfirma hat die Trocknung am [[date|20.10.2025]] abgeschlossen; der Mandant hat die Rechnung daher unmittelbar nach Abschluss der Arbeiten bezahlt. Die Ersatzunterbringung für die Dauer von sechs Wochen ist durch Mietquittungen belegt, die Sie auf Wunsch einsehen können.
 

@@ -62,7 +62,7 @@ IV/2. Vertragsabschluss und Beweislast
 
 12. Die Verhandlungen über das Fahrzeug fanden im März 2025 in den Geschäftsräumen der beklagten Partei statt. Dabei wurde ausdrücklich vereinbart, dass eine Zulassung des Fahrzeugs erst nach Unterzeichnung eines schriftlichen Vertrages erfolgt.
 
-13. Der Kläger hat die Beweislast für den Vertragsabschluss zu tragen. Sein Vorbringen zu einer mündlichen Einigung ist unsubstantiiert, weil er weder Zeitpunkt noch Ort der Einigung im Einzelnen angibt.
+13. Der Kläger hat die Beweislast für den Vertragsabschluss zu tragen. Sein Vorbringen zu einer mündlichen Einigung ist unsubstantiiert, weil er weder Zeitpunkt noch Ort der Einigung im Einzelnen angibt. Die beklagte Partei bestreitet diese Einigung ausdrücklich und beruft sich auf den fehlenden Vertragsabschluss. Die Mitarbeiterin der beklagten Partei, die die Verhandlungen geführt hat, bestätigt diese Darstellung.
 
 V. Streitwert und Kosten
 

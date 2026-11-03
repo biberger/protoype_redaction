@@ -46,7 +46,7 @@ III. Mietzins und Zahlungsmodalitäten
 
 IV. Pflichten der Parteien
 
-9. Die Mieterin verpflichtet sich, das Mietobjekt schonend zu behandeln und Schäden unverzüglich anzuzeigen. Die Vermieterin hat für die Erhaltung des Hauses zu sorgen.
+9. Die Mieterin verpflichtet sich, das Mietobjekt schonend zu behandeln und Schäden unverzüglich anzuzeigen. Die Vermieterin hat für die Erhaltung des Hauses zu sorgen. Die Mieterin hat der Vermieterin den Zutritt zur Wohnung zur Durchführung notwendiger Erhaltungsarbeiten nach vorheriger Ankündigung zu gestatten.
 
 10. Die Mieterin verpflichtet sich, das Mietobjekt nicht unterzuvermieten. Ein Untermietverhältnis mit [[person|Rudolf Loehr]] bedarf der schriftlichen Zustimmung der Vermieterin, sofern dieser nicht bereits Mitmieter ist.
 
@@ -72,7 +72,7 @@ VI. Betriebskosten, Heizung und Indexierung
 
 VII. Tierhaltung, Hausordnung und Zustand
 
-19. Die Haltung von Kleintieren ist nach Zustimmung der Vermieterin gestattet. Hunde sind nicht gestattet. Das Rauchen ist in den Gemeinschaftsräumen untersagt.
+19. Die Haltung von Kleintieren ist nach Zustimmung der Vermieterin gestattet; die Zustimmung kann widerrufen werden, wenn das Tier die Hausgemeinschaft stört. Hunde sind nicht gestattet. Das Rauchen ist in den Gemeinschaftsräumen untersagt.
 
 20. Die Mieterin erklärt, dass sie das Mietobjekt in gepflegtem Zustand übernommen hat. Ein Protokoll über den Zustand bei Übergabe ist diesem Vertrag als Beilage beigefügt. Mängel, die bei der Übergabe nicht festgehalten wurden, gelten als nicht vorhanden.
 
@@ -100,7 +100,7 @@ X. Übergabe und Schlüssel
 
 30. Die Mieterin nimmt zur Kenntnis, dass die Vermieterin den Hauptmietzins nach [[legal_norm|§ 16 MRG]] nur im gesetzlich zulässigen Ausmaß erhöhen darf. Eine Vereinbarung, die dieser Bestimmung widerspricht, ist unwirksam.
 
-Dieser Vertrag wird in zwei Ausfertigungen errichtet, von denen je eine für die Vermieterin und für die Mieterin bestimmt ist. Eine weitere Ausfertigung erhält die Mitmieterin.
+Dieser Vertrag wird in zwei Ausfertigungen errichtet, von denen je eine für die Vermieterin und für die Mieterin bestimmt ist. Eine weitere Ausfertigung erhält die Mitmieterin. Die Ausfertigungen sind vor der Unterfertigung von beiden Teilen zu lesen.
 
 [[location|Voitsberg]], am [[date|25.08.2021]]
 

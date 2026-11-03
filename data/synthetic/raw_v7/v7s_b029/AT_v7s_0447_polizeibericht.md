@@ -22,7 +22,7 @@ Um 13:05 Uhr kam es im Kreuzungsbereich der B 83 zu einer Kollision zwischen dem
 
 Die Lenkerin des zweiten Fahrzeuges, [[person|Huemer]], Geburtsdatum: [[date_of_birth|1953-12-01]], gab an, dass die Ampel bereits auf Gelb gestanden habe. Sie sei aufgrund der Verkehrssituation nicht mehr rechtzeitig zum Stehen gekommen.
 
-[[person|Kurz]] hält fest, dass beide Fahrzeuge erheblich beschädigt wurden und eine Person mit Verdacht auf eine Schulterverletzung ins Klinikum verbracht wurde. Die Fahrbahn wurde für die Dauer der Bergung teilweise gesperrt.
+[[person|Kurz]] hält fest, dass beide Fahrzeuge erheblich beschädigt wurden und eine Person mit Verdacht auf eine Schulterverletzung ins Klinikum verbracht wurde. Die Fahrbahn wurde für die Dauer der Bergung teilweise gesperrt. Die Verkehrsregelung erfolgte durch zwei Beamte, bis die Fahrbahn wieder vollständig freigegeben werden konnte.
 
 **2. Beteiligte Personen**
 
@@ -52,13 +52,13 @@ Die Zeugin [[person|Cristieana Caba]] gab an, sie habe die Ampel auf Grün geseh
 
 Die Verletzungen von [[person|Berner]] und [[person|Caba]] sind nach den Befunden des Klinikums nicht lebensgefährlich. Eine Blutprobe wurde nicht angeordnet, da kein Hinweis auf Alkoholeinfluss bestand. Die Fotodokumentation umfasst 31 Lichtbilder der Unfallstelle und der Schäden an beiden Fahrzeugen. Eine Unfallskizze wurde von [[person|Ilić]] im Maßstab 1:100 angefertigt und liegt der Anzeige bei.
 
-Die Aussage von [[person|Huemer]] zum Ampelzustand wurde ausführlich protokolliert. Die Lenkerin erklärte, sie habe die Geschwindigkeit wegen eines vorausfahrenden Lastwagens nicht reduzieren können. Diese Angabe wird im Rahmen der Erhebungen überprüft.
+Die Aussage von [[person|Huemer]] zum Ampelzustand wurde ausführlich protokolliert. Die Lenkerin erklärte, sie habe die Geschwindigkeit wegen eines vorausfahrenden Lastwagens nicht reduzieren können. Diese Angabe wird im Rahmen der Erhebungen überprüft. Die Zeugin wurde auf die Möglichkeit einer schriftlichen Ergänzung hingewiesen.
 
 Die Verständigung der Angehörigen der Verletzten erfolgte durch die Dienststelle um 14:10 Uhr. Die Lebensgefährtin von [[person|Berner]] wurde am Unfallort von [[person|Ilić]] betreut, bis sie von einem Angehörigen abgeholt werden konnte. Der Pkw der [[person|Urbach]] wurde vom Abschleppdienst übernommen und in eine Werkstatt nach Villach verbracht.
 
 Der Zeuge [[person|Gerhard Wiesflecker]], der mit seinem Fahrrad an der Kreuzung stand, gab an, die Ampel habe für die Fahrtrichtung der [[person|Huemer]] zuletzt Gelb gezeigt. Er konnte jedoch den Übergang von Grün auf Gelb nicht bestätigen. Seine Aussage wurde auf dem Formblatt festgehalten und unterschrieben.
 
-Die Verkehrsbehörde hat auf Anfrage mitgeteilt, dass die Schaltung der Ampel am Unfalltag der Vorgabe entsprach. Eine Störung ist nicht bekannt. Die Schaltpläne wurden angefordert und werden der Anzeige nachgereicht. Die Lichtbilder wurden auf dem Dienstgerät gespeichert und mit dem Aktenzeichen versehen.
+Die Verkehrsbehörde hat auf Anfrage mitgeteilt, dass die Schaltung der Ampel am Unfalltag der Vorgabe entsprach. Eine Störung ist nicht bekannt. Die Abschaltung der Anlage war zum Unfallzeitpunkt nicht veranlasst. Die Anlage war vollständig funktionsfähig. Die Schaltpläne wurden angefordert und werden der Anzeige nachgereicht. Die Lichtsignalanlage wurde durch den Wartungsdienst am [[date|30. September 2026]] überprüft; eine Fehlfunktion wurde nicht festgestellt, die Gelbphase ist mit 3,5 Sekunden programmiert. Die Lichtbilder wurden auf dem Dienstgerät gespeichert und mit dem Aktenzeichen versehen. Die Aufnahmen werden in der Akte nachvollziehbar dokumentiert und mit Uhrzeit versehen.
 
 Die Verletzungen der Beteiligten wurden dem Verkehrsdienst gemeldet. Eine Meldung an die Bezirkshauptmannschaft wegen des Verdachts der Körperverletzung erfolgt nicht, da die Verletzungen nach den Befunden leicht sind.
 
@@ -70,7 +70,7 @@ Die Beteiligten wurden darauf hingewiesen, dass die Schadensregulierung über di
 
 **6. Hinweise**
 
-Die Beteiligten wurden darauf hingewiesen, dass sie innerhalb von zwei Wochen Angaben zu einer allfälligen Mitschuld machen können. Der Pkw der [[person|Huemer]] wurde nicht sichergestellt, er ist fahrbereit übergeben worden. Für das Motorrad ist keine weitere Veranlassung erforderlich.
+Die Beteiligten wurden darauf hingewiesen, dass sie innerhalb von zwei Wochen Angaben zu einer allfälligen Mitschuld machen können. Der Pkw der [[person|Huemer]] wurde nicht sichergestellt, er ist fahrbereit übergeben worden. Die Halter werden über die Ergebnisse der Erhebungen schriftlich unterrichtet. Für den Pkw des Herrn [[person|Berner]] ist keine weitere Veranlassung erforderlich. Die Akten werden innerhalb von vier Wochen dem zuständigen Verkehrsrichter vorgelegt. Die Kennzeichen beider Fahrzeuge wurden durch die Polizei überprüft, die Zulassungsbesitzer entsprechen den Haltern im Zulassungsschein. Ein Atemalkoholtest bei beiden Lenkern verlief negativ. Die Witterung war trocken, die Sicht nach Angabe der Zeugin durch den tief stehenden Sonnenstand im Westen beeinträchtigt.
 
 [[location|Villach]], am [[date|27. September 2026]]
 

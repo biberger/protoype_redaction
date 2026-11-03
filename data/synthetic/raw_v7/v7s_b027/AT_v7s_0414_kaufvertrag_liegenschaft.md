@@ -82,7 +82,7 @@ VII. Ergänzende Bestimmungen
 
 18. Die Vertragsparteien vereinbaren eine Konventionalstrafe von EUR 15.000,00 für den Fall, dass die Käufer die Zahlung der zweiten Rate schuldhaft verzögern. Die Verkäuferin kann die Strafe zusätzlich zum Ersatz eines darüber hinausgehenden Schadens geltend machen.
 
-19. Die Pläne des Wohnhauses und die Energieausweise sind dem Vertrag als Beilagen angeschlossen. Die Verkäuferin verpflichtet sich, den Energieausweis binnen vierzehn Tagen nachzureichen, falls er nicht vollständig vorliegt.
+19. Die Pläne des Wohnhauses und die Energieausweise sind dem Vertrag als Beilagen angeschlossen. Die Verkäuferin hat die Pläne bei der Gemeinde eingesehen und bestätigt, dass sie den Bauakten entsprechen. Abweichungen, die sich aus der nachträglichen Bauführung ergeben, sind den Käufern bekannt und werden nicht beanstandet. Die Verkäuferin verpflichtet sich, den Energieausweis binnen vierzehn Tagen nachzureichen, falls er nicht vollständig vorliegt.
 
 20. Die Käufer erklären, dass sie den Vertrag nach ausreichender Bedenkzeit unterzeichnet haben. Nebenabreden bestehen nicht; der Vertrag entspricht dem Willen aller Parteien.
 
@@ -98,7 +98,7 @@ VII. Ergänzende Bestimmungen
 
 26. Die Käufer erklären, dass sie die Verkäuferin über den Stand ihrer Finanzierung laufend informieren. Verzögerungen der Finanzierung sind der Verkäuferin innerhalb von vierzehn Tagen mitzuteilen.
 
-27. Die Verkäuferin erklärt, dass die Liegenschaft seit dem Jahr 1994 im Familienbesitz steht und keine Dienstbarkeiten bestehen, außer dem bereits erwähnten Wasserbezugsrecht. Eine Vermietung an Dritte besteht nicht.
+27. Die Verkäuferin erklärt, dass die Liegenschaft seit dem Jahr 1994 im Familienbesitz steht und keine Dienstbarkeiten bestehen, außer dem bereits erwähnten Wasserbezugsrecht. Eine Vermietung an Dritte besteht nicht. Die Verkäuferin hat zudem keine Vorverträge mit Dritten abgeschlossen, die den Verkauf an die Käufer beeinträchtigen könnten.
 
 28. Die Vertragsparteien halten fest, dass die Kaufpreisvereinbarung auf dem Gutachten eines gerichtlich beeideten Sachverständigen beruht. Der Kaufpreis ist daher auch dann zu zahlen, wenn sich die Lage des Wohnhauses nach dem Ergebnis einer späteren Vermessung geringfügig ändert.
 

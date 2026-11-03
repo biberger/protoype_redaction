@@ -28,7 +28,7 @@ Sehr geehrter Herr Doktor [[lawyer|Marolt]],
 
 ich wende mich an Sie wegen des Werkvertrages mit der [[organization|Grosz Bau GmbH]] ([[organization|GBG]]) über den Ausbau des Dachgeschoßes. Die Arbeiten sollten bis Ende August abgeschlossen sein, die Dachfenster wurden nicht eingebaut und die Dämmung ist feucht. Auch die Elektroinstallation im Stiegenhaus ist nur teilweise ausgeführt.
 
-Frau [[person|Natálie Masaříková]], die Bauleiterin der Firma, hat mir zugesichert, dass die Mängel bis zum Monatsende behoben werden. Bisher ist nichts geschehen. Ich habe die Fotos der Schäden beigefügt. Der Werklohn von EUR 38.500,00 wurde bereits zur Hälfte bezahlt, die zweite Rate habe ich zurückgehalten.
+Frau [[person|Natálie Masaříková]], die Bauleiterin der Firma, hat mir zugesichert, dass die Mängel bis zum Monatsende behoben werden. Bisher ist nichts geschehen. Ich habe die Fotos der Schäden beigefügt. Der Werklohn von EUR 38.500,00 wurde bereits zur Hälfte bezahlt, die zweite Rate habe ich zurückgehalten. Die Schäden sind auch im Protokoll der Baubesprechung dokumentiert, das ich Ihnen zusende. Eine Mängelrüge habe ich bereits am [[date|4. September 2026]] schriftlich übermittelt.
 
 Mit freundlichen Grüßen
 Dorina Schlesinger
@@ -47,7 +47,7 @@ Sehr geehrte Frau [[person|Schlesinger]],
 
 vielen Dank für die Unterlagen. Die [[organization|GBG]] hat den Mangel an der Dämmung bisher nicht anerkannt, sie verweist auf die Witterung im Sommer. Wir werden eine Frist zur Mängelbehebung setzen. Die Zurückhaltung der zweiten Rate ist gerechtfertigt, solange die Mängel nicht beseitigt sind.
 
-Die Gewährleistungsfrist beträgt nach dem Vertrag drei Jahre. Eine Mängelrüge ist bereits erfolgt; wir benötigen zusätzlich ein Gutachten eines Sachverständigen. Ich bitte Sie, das Gutachten bis zum [[date|25. September 2026]] zu beauftragen.
+Die Gewährleistungsfrist beträgt nach dem Vertrag drei Jahre. Die Garantie der Dachdämmung beträgt zusätzlich fünf Jahre gemäß dem Angebot vom [[date|14. Mai 2026]]. Die Garantieurkunde liegt der Anzeige nicht bei und wird nachgereicht. Eine Mängelrüge ist bereits erfolgt; wir benötigen zusätzlich ein Gutachten eines Sachverständigen. Die Ausführung der Arbeiten war bei der Abnahme nicht vollständig, sodass die Abnahme eingeschränkt erfolgte. Der Vorbehalt wurde im Abnahmeprotokoll ausdrücklich festgehalten. Ich bitte Sie, das Gutachten bis zum [[date|25. September 2026]] zu beauftragen. Die Kosten des Gutachtens sind zunächst vom Kläger zu tragen, werden jedoch im Falle des Obsiegens von der Gegenseite ersetzt.
 
 Mit freundlichen Grüßen
 
@@ -65,14 +65,14 @@ Betreff: AW: AW: Dachgeschoß Werkvertrag
 
 Sehr geehrter Herr Doktor [[lawyer|Eigner]],
 
-ich bestätige den Eingang Ihrer Mängelrüge. Die [[organization|GBG]] ist bereit, die Dachfenster bis Ende Oktober einzubauen. Zur Dämmung verweisen wir auf das Protokoll der Baubesprechung, in dem die Feuchtigkeit auf eine Undichtheit der Dachhaut zurückgeführt wurde.
+ich bestätige den Eingang Ihrer Mängelrüge. Die [[organization|GBG]] ist bereit, die Dachfenster bis Ende Oktober einzubauen. Zur Dämmung verweisen wir auf das Protokoll der Baubesprechung, in dem die Feuchtigkeit auf eine Undichtheit der Dachhaut zurückgeführt wurde. Die Dachhaut wurde von einem anderen Unternehmen am [[date|4. September 2026]] überprüft, dessen Rechnung wir Ihnen gerne übermitteln. Wir bestätigen den Termin für die Besichtigung am [[date|17. September 2026]] um 10:00 Uhr.
 
 > Am [[date|9. September 2026]] um 09:40 schrieb [[lawyer|Karol Eigner]]:
 > Die [[organization|GBG]] hat den Mangel an der Dämmung bisher nicht anerkannt. Wir werden eine Frist zur Mängelbehebung setzen.
 > Zeichen [[other_identifier|Schlesinger ./. Grosz]]
 > Sehr geehrte Frau [[person|Schlesinger]], vielen Dank für die Unterlagen.
 
-Wir ersuchen um eine Terminvereinbarung für die Besichtigung. Der Ablauf der Gewährleistungsfrist ist davon nicht betroffen. Die Elektroinstallation wird nach Abschluss der Dachdämmung nachgeholt.
+Wir ersuchen um eine Terminvereinbarung für die Besichtigung. Der Ablauf der Gewährleistungsfrist ist davon nicht betroffen. Die Elektroinstallation wird nach Abschluss der Dachdämmung nachgeholt. Die Dachfenster sind bereits bestellt und werden in der Kalenderwoche 42 geliefert.
 
 Mit freundlichen Grüßen
 
@@ -92,7 +92,7 @@ Betreff: AW: AW: AW: Dachgeschoß Werkvertrag
 
 Sehr geehrte Frau [[person|Hopfer]],
 
-Sie haben als Sachverständige der Hausverwaltung die Besichtigung zugesagt. Wir ersuchen, den Termin mit [[person|Schlesinger]] abzustimmen. Die [[organization|GBG]] muss die Gewährleistungsfrist beachten, und die Feuchtigkeitsmessung ist vor dem Einbau der Dachfenster vorzunehmen.
+Sie haben als Sachverständige der Hausverwaltung die Besichtigung zugesagt. Ein Honorar für die Besichtigung wird nach dem Stundensatz des Sachverständigen abgerechnet. Die Abrechnung erfolgt innerhalb von vier Wochen nach dem Termin und wird Ihnen direkt übermittelt. Zur Klarstellung: Die Dachfenster sind bis Ende Oktober einzubauen, die Dämmung ist nach dem Gutachten zu beheben und die Elektroinstallation wird danach nachgeholt. Wir ersuchen, den Termin mit [[person|Schlesinger]] abzustimmen. Die [[organization|GBG]] muss die Gewährleistungsfrist beachten, und die Feuchtigkeitsmessung ist vor dem Einbau der Dachfenster vorzunehmen. Bitte senden Sie uns zudem das Protokoll der Baubesprechung vom [[date|3. September 2026]].
 
 Ich bitte um Bestätigung bis zum [[date|18. September 2026]].
 

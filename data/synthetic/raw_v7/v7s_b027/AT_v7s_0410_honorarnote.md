@@ -36,7 +36,7 @@ Honorar netto                                                              1.845
 20 % Umsatzsteuer                                                            369,00
 Gesamtbetrag                                                               2.214,00
 
-Die Honorarnote beruht auf Ihrem Auftrag vom [[date|05.01.2026]] und umfasst die in der Zeit vom [[date|12.01.2026]] bis [[date|27.02.2026]] erbrachten Leistungen. Zahlungen, die später als vierzehn Tage nach Ausstellung eingehen, werden mit den gesetzlichen Verzugszinsen belastet. Die Kanzlei hat die Honorarnote nach dem Stand der Akten erstellt; Abweichungen aufgrund späterer Eintragungen bleiben vorbehalten.
+Die Honorarnote beruht auf Ihrem Auftrag vom [[date|05.01.2026]] und umfasst die in der Zeit vom [[date|12.01.2026]] bis [[date|27.02.2026]] erbrachten Leistungen. Zahlungen, die später als vierzehn Tage nach Ausstellung eingehen, werden mit den gesetzlichen Verzugszinsen belastet. Die Kanzlei hat die Honorarnote nach dem Stand der Akten erstellt; Abweichungen aufgrund späterer Eintragungen bleiben vorbehalten. Die Honorare entsprechen dem Tarif für die Vertretung vor dem Berufungsgericht.
 
 Wir ersuchen um Überweisung des Gesamtbetrages binnen 14 Tagen auf das Anderkonto mit der IBAN [[bank_account|AT38 7443 3575 0746 7485]] unter Angabe der Referenz UZ: [[other_identifier|26/26 E]].
 
@@ -45,4 +45,4 @@ Mit freundlichen Grüßen
 [[person|Oberhammer]]
 Rechtsanwalt
 
-Rückfragen bitte telefonisch unter [[phone_number|0732 953649-5]].
+Rückfragen bitte unter Tel. [[phone_number|0732 953649-5]] an unsere Kanzlei.

@@ -51,25 +51,37 @@ Die Kammeranwältin hat die Anzeige am [[date|28. März 2024]] erstattet. Der Di
 
 Die Treuhandbuch-Nr. [[other_identifier|2022/478]] betrifft ein weiteres Anderkonto, das der Beschuldigte im Jahr 2022 für eine andere Mandantschaft geführt hat. Die Prüfung dieses Kontos ergab keine Beanstandung, weshalb das Verfahren insoweit eingestellt wurde.
 
+**Stellungnahme des Beschuldigten**
+
+Der Beschuldigte hat in der Verhandlung erklärt, die Auszahlung vom [[date|14. April 2023]] sei auf Grund eines Honorarvorschusses erfolgt, den die Gesellschaft ihm mündlich zugesagt habe. Die Auszahlung vom [[date|9. Mai 2023]] habe der Abdeckung von Barauslagen gedient, die er für die Eintragung der Liegenschaft im Grundbuch verauslagt habe. Die Auszahlung vom [[date|12. Dezember 2023]] an die Gesellschaft sei erfolgt, sobald der Kaufpreis vollständig geklärt war.
+
+Der Beschuldigte hat weiter vorgebracht, dass die Kanzleiführung im Jahr 2023 durch den Ausfall einer Mitarbeiterin erschwert gewesen sei. Er habe die Treuhandbuchhaltung deshalb nicht laufend geführt, sondern erst nachträglich nachgetragen. Eine Schädigung der Gesellschaft sei nicht eingetreten, weil der Betrag vollständig ausbezahlt wurde.
+
 **Beweiswürdigung**
 
 Der Disziplinarrat stützt sich auf die vorgelegten Kontoauszüge, die Schreiben der Gesellschaft und die Angaben des Beschuldigten. Der Beschuldigte hat eingeräumt, dass die Auszahlung vom [[date|12. Dezember 2023]] an die Gesellschaft erst nach einer Verzögerung von mehreren Monaten erfolgte.
 
 Die Gesellschaft wurde in der Verhandlung durch einen Vertreter vertreten, der angab, von der Einzahlung und Auszahlung erst nachträglich Kenntnis erlangt zu haben. Der Vertreter hat außerdem bestätigt, dass ein Teil der Auszahlung an die Kanzlei nie angekündigt war.
 
-Die Angaben des Beschuldigten zu einer mündlichen Vorschussvereinbarung konnten nicht bestätigt werden. Die Vorschussrechnung vom [[date|9. Mai 2023]] wurde nachträglich erstellt und ist nicht datiert.
+Die Angaben des Beschuldigten zu einer mündlichen Vorschussvereinbarung konnten nicht bestätigt werden. Die Vorschussrechnung wurde nach den eigenen Angaben des Beschuldigten erst nach der Auszahlung erstellt. Die Vorschussrechnung vom [[date|9. Mai 2023]] wurde nachträglich erstellt und ist nicht datiert.
 
 **Rechtliche Beurteilung**
 
 Nach [[legal_norm|§ 16 Abs 1 RAO]] hat der Rechtsanwalt die ihm anvertrauten Gelder getrennt vom eigenen Vermögen zu verwahren. Die Entnahme von Mitteln zur Begleichung eigener Honorarforderungen ist nur zulässig, wenn die Forderung fällig und der Klient zugestimmt hat oder die Entnahme aufgrund einer rechtskräftigen Entscheidung zulässig ist.
 
-Keine dieser Voraussetzungen liegt vor. Der Disziplinarrat sieht daher den Tatbestand der Pflichtverletzung als erfüllt an. Die Auszahlungen an die Kanzlei sind nicht durch eine Honorarnote gedeckt, die vor dem Zeitpunkt der Entnahme ausgestellt war.
+Keine dieser Voraussetzungen liegt vor. Der Disziplinarrat sieht daher den Tatbestand der Pflichtverletzung als erfüllt an. Der Umstand, dass die Gelder später teilweise zurückgezahlt wurden, ändert an der Pflichtverletzung nichts, sondern ist nur bei der Strafbemessung zu berücksichtigen. Die Auszahlungen an die Kanzlei sind nicht durch eine Honorarnote gedeckt, die vor dem Zeitpunkt der Entnahme ausgestellt war.
+
+**Vorbringen der Kammeranwaltschaft**
+
+Die Kammeranwältin hat ausgeführt, dass die Verwendung des Treuhandkontos für Honorarzwecke ohne Abrechnung einen typischen Fall der Pflichtverletzung darstelle. Die Höhe des Betrages und der Zeitraum von neun Monaten seien erheblich. Die Gesellschaft habe durch die verspätete Auszahlung finanzielle Nachteile erlitten, weil die Rückführung des Kaufpreises verzögert wurde.
+
+Die Kammeranwältin hat eine Geldbuße im mittleren Bereich beantragt und die Entziehung der Befugnis zur Führung von Anderkonten angeregt. Der Antrag wurde in der Verhandlung wiederholt.
 
 **Strafbemessung**
 
-Mildernd wirkt die bisher unbescholtene Berufsausübung des Beschuldigten und seine Mitwirkung im Verfahren. Erschwerend wirkt die Höhe des Betrages von über EUR 100.000,00, der zumindest zeitweise nicht dem Zweck des Treuhandauftrages entsprechend verwendet wurde.
+Mildernd wirkt die bisher unbescholtene Berufsausübung des Beschuldigten und seine Mitwirkung im Verfahren. Erschwerend wirkt die Höhe des Betrages von über EUR 100.000,00, der zumindest zeitweise nicht dem Zweck des Treuhandauftrages entsprechend verwendet wurde. Erschwerend wirkt ferner, dass die Beschuldigte trotz der Aufforderung des Kammervorstandes keine Abrechnung vorgelegt hat. Mildernd wirkt hingegen die Mitwirkung der Beschuldigten bei der Aufklärung der Buchungen.
 
-Die Geldbuße ist unter Berücksichtigung dieser Umstände angemessen. Die Entziehung der Befugnis zur Führung von Anderkonten ist erforderlich, um weitere Verstöße zu verhindern.
+Die Geldbuße ist unter Berücksichtigung dieser Umstände angemessen. Die Höhe der Geldbuße entspricht den Vorgaben für vergleichbare Fälle der Anderkontenführung. Die Entziehung der Befugnis zur Führung von Anderkonten ist erforderlich, um weitere Verstöße zu verhindern.
 
 **Kosten und Rechtsmittel**
 

@@ -59,6 +59,12 @@ Rechtliche Beurteilung
 
 14. Die Kosten des Verfahrens trägt die Beschuldigte. Eine Entlastung wegen des vorgelegten Honorarvertrags ist nicht möglich, weil dieser Vertrag keine Zahlung an Dritte vorsieht.
 
+15. Die Klientin [[person|Kriens]] hat einen Anspruch auf Schadenersatz gegen die Beschuldigte angekündigt. Der Senat weist darauf hin, dass dieser Anspruch im Zivilrechtsweg geltend zu machen ist und durch den Disziplinarspruch nicht präjudiziert wird.
+
+16. Die Beschuldigte hat die Auflage erhalten, die Führung der Treuhandbücher innerhalb von drei Monaten durch eine Wirtschaftsprüferin überprüfen zu lassen. Der Nachweis ist der [[organization|StRAK]] vorzulegen.
+
+17. Die Beschuldigte hat vorgebracht, die Buchhaltung sei zeitweise durch eine Hilfskraft geführt worden. Der Senat hält fest, dass dies die persönliche Verantwortung des Rechtsanwalts für die Treuhandgelder nicht ändert.
+
 [[location|Graz]], am [[date|17. Oktober 2026]]
 
 Für die Richtigkeit der Ausfertigung:

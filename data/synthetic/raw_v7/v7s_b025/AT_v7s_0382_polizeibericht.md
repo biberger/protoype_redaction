@@ -53,7 +53,7 @@ Der Lenker [[person|Bajić]] gab bei der Erstbefragung an, er habe das Vorrangze
 
 Der Lenker [[person|Bajić]] hat nach den Feststellungen den Vorrang des Lenkers [[person|Feierle]] nicht beachtet. Dies stellt eine Übertretung nach [[legal_norm|§ 19 Abs 3 StVO]] dar. Gegen den Lenker [[person|Feierle]] wird wegen der Geschwindigkeit eine Anzeige nach [[legal_norm|§ 20 Abs 2 StVO]] erstattet. Die Anzeigen werden der zuständigen Bezirkshauptmannschaft übermittelt.
 
-Die Haftpflichtversicherungen wurden durch die Lenker verständigt. Die Schadennummer ist [[other_identifier|89/873191/24]]. Der Lenker [[person|Feierle]] hat eine Kopie seiner Grünen Karte vorgelegt, der Lenker [[person|Bajić]] den Versicherungsschein. Beide Versicherungen wurden am Unfallort telefonisch erreicht und haben die Schadenmeldung entgegengenommen. Die Zulassungsscheine beider Fahrzeuge wurden überprüft und ohne Beanstandung zurückgegeben.
+Die Haftpflichtversicherungen wurden durch die Lenker verständigt. Die Schadennummer ist [[other_identifier|89/873191/24]]. Der Lenker [[person|Feierle]] hat eine Kopie seiner Grünen Karte vorgelegt, der Lenker [[person|Bajić]] den Versicherungsschein. Beide Versicherungen wurden am Unfallort telefonisch erreicht und haben die Schadenmeldung entgegengenommen. Die Zulassungsscheine beider Fahrzeuge wurden überprüft und ohne Beanstandung zurückgegeben. Der Lenker [[person|Feierle]] hat angegeben, dass er die Strecke regelmäßig befahre und die Vorrangsituation an dieser Kreuzung kenne. Der Lenker [[person|Bajić]] gab an, er sei dort erstmals gefahren.
 
 Der Lenker [[person|Bajić]] hat die Alkoholkontrolle am Unfallort freiwillig durchführen lassen. Das Ergebnis war negativ. Der Lenker [[person|Feierle]] wurde ebenfalls kontrolliert, auch bei ihm war das Ergebnis negativ. Eine Suchtmittelbeeinträchtigung wurde bei keinem der Beteiligten festgestellt.
 
@@ -61,7 +61,7 @@ Der Lenker [[person|Bajić]] hat die Alkoholkontrolle am Unfallort freiwillig du
 
 Die Meldungsleger haben die Personalien der Beteiligten aufgenommen und die Ausweise kopiert. Die Lenker erhielten die Daten der Gegenseite schriftlich. Die Polizeiinspektion hat die Verkehrsbehörde über die Unfallstelle informiert, da die Vorrangregelung überprüft werden soll.
 
-Die Verletzte [[person|Laetitia Boehm]] wurde nach der Untersuchung durch den Rettungsdienst nach Hause entlassen. Sie hat am [[date|15.08.2026]] telefonisch angegeben, dass sie keine weiteren Beschwerden habe und auf eine Anzeige wegen Körperverletzung verzichte.
+Die Verletzte [[person|Laetitia Boehm]] wurde nach der Untersuchung durch den Rettungsdienst nach Hause entlassen. Die Rettungskräfte haben am Unfallort keine Verletzung festgestellt, die einen Transport erforderlich gemacht hätte. Die Beifahrerin war während der gesamten Maßnahme ansprechbar und gab ihre Personalien selbst an. Sie hat am [[date|15.08.2026]] telefonisch angegeben, dass sie keine weiteren Beschwerden habe und auf eine Anzeige wegen Körperverletzung verzichte.
 
 Die Verkehrsbehörde der Bezirkshauptmannschaft wird über die Vorrangregelung informiert werden, sobald die Ermittlungen zur Versetzung des Vorrangzeichens abgeschlossen sind. Der Vorgang wird bis dahin unter der Zl. [[case_number|P 2287/26]] geführt.
 

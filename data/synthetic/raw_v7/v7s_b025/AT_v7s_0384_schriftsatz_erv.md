@@ -42,7 +42,7 @@ I. Zum Vorbringen des Klägers
 
 4. Der Kläger hat den Mietzins für die Monate Juni bis Dezember 2024 nicht bezahlt. Die offene Summe beträgt EUR 7.860,00, wie die Kontoauszüge der [[organization|LIG]] belegen.
 
-Der Kläger hat mit Schreiben vom [[date|05.07.2024]] eine Stundung des Mietzinses verlangt, die die [[organization|LIG]] nicht gewährt hat. Eine Zahlungsvereinbarung kam nicht zustande, weil der Kläger die Teilzahlungen nicht einhielt. Die Mahnung vom [[date|01.08.2024]] und die Zahlungserinnerung vom [[date|19.09.2024]] blieben ohne Erfolg.
+Der Kläger hat mit Schreiben vom [[date|05.07.2024]] eine Stundung des Mietzinses verlangt, und zwar für die Dauer von drei Monaten, die die [[organization|LIG]] nicht gewährt hat. Eine Zahlungsvereinbarung kam nicht zustande, weil der Kläger die Teilzahlungen nicht einhielt. Der Kläger hat die Rückstände auch nach Ablauf der gesetzten Nachfrist nicht beglichen. Die Mahnung vom [[date|01.08.2024]] und die Zahlungserinnerung vom [[date|19.09.2024]] blieben ohne Erfolg.
 
 II. Zur Rechtslage
 
@@ -60,7 +60,7 @@ III. Beweise
 
 9. Die Beklagte beantragt die Einvernahme des Mitmieters [[person|Nathaniel Wiesner]] als Zeugen sowie die Vorlage des Mietvertrages und der Kontoauszüge.
 
-Ergänzend wird vorgebracht, dass die Wohnung im Juli 2025 neu vermietet wurde, sodass sich die Forderung auf den Zeitraum bis Dezember 2024 beschränkt. Die Beklagte hat die Mietzinse aus der Neuvermietung in die Forderung nicht eingerechnet, weil die Neuvermietung zu einem geringeren Zins erfolgt ist. Die Beklagte beantragt, den Kläger als Partei zu den Zahlungen zu vernehmen.
+Ergänzend wird vorgebracht, dass die Wohnung im Juli 2025 neu vermietet wurde. Die Beklagte hat dem Kläger dazu mit Schreiben vom [[date|08.07.2025]] die Neuvermietung angezeigt, und der neue Mietzins liegt um EUR 90,00 monatlich unter dem bisherigen Mietzins. Dies führt dazu, dass sich die Forderung auf den Zeitraum bis Dezember 2024 beschränkt. Die Beklagte hat die Mietzinse aus der Neuvermietung in die Forderung nicht eingerechnet, weil die Neuvermietung zu einem geringeren Zins erfolgt ist. Die Beklagte beantragt, den Kläger als Partei zu den Zahlungen zu vernehmen.
 
 IV. Kosten
 

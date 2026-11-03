@@ -24,7 +24,7 @@ Der Vorsitzende hat zu Beginn der Verhandlung die Anzeige verlesen und den Besch
 
 Der Senat hat die Mandantin [[person|Dagmar Pilz]] als Zeugin vernommen. Sie hat ausgeführt, dass sie die Abrechnung der Treuhandschaft erst nach mehrfacher Aufforderung erhalten habe. Die Zahlungen an sie seien in Teilbeträgen erfolgt, deren Zusammensetzung ihr nie erklärt worden sei. Auf Vorhalt des Kontoauszuges vom [[date|23.05.2024]] hat sie bestätigt, dass dieser Betrag tatsächlich bei ihr eingegangen ist.
 
-Der Beschuldigte hat im Anschluss an die Vernehmung erklärt, er bedauere die Verzögerung der Rückzahlung. Die Kammeranwältin hat dazu angemerkt, dass die Verzögerung nicht allein auf Unachtsamkeit beruhe, weil die Auszahlung vom [[date|02.04.2024]] bereits bei der Eingabe in die Buchhaltung ungewöhnlich bezeichnet war.
+Der Beschuldigte hat im Anschluss an die Vernehmung erklärt, er bedauere die Verzögerung der Rückzahlung ausdrücklich. Die Kammeranwältin hat dazu angemerkt, dass die Verzögerung nicht allein auf Unachtsamkeit beruhe, weil die Auszahlung vom [[date|02.04.2024]] bereits bei der Eingabe in die Buchhaltung ungewöhnlich bezeichnet war.
 
 Die Verhandlung wurde nach der Vernehmung der Zeugin unterbrochen und am [[date|18.06.2025]] fortgesetzt. Die Schriftführerin hat das Protokoll geführt; die Parteien haben auf eine Verlesung der Akten verzichtet, soweit sie nicht entscheidungswesentlich waren.
 
@@ -80,7 +80,7 @@ Der Kontoverlauf im Einzelnen. Am [[date|14.08.2024]] wurde die letzte Auszahlun
 
 Die Kammer hat in ihrem Bericht darauf hingewiesen, dass der Beschuldigte in einer Mail vom [[date|02.09.2024]] an die Mandantin von einem Verlust durch Fehlbuchung gesprochen habe. Dieser Verlust ist in der Buchhaltung der Kanzlei nicht vermerkt. Der Beschuldigte hat dazu erklärt, die Formulierung sei missverständlich gewesen.
 
-Die Verteidigung hat in der Verhandlung beantragt, das Verfahren einzustellen, weil die Mandantin den Betrag inzwischen vollständig erhalten habe. Der Senat hat diesen Antrag abgelehnt, weil die Rückzahlung erst nach der Anzeige erfolgte und die Verletzung der Pflicht nicht durch die spätere Ausgleichung entfällt. Der Beschuldigte hat auf die Frage des Senats, weshalb er den Betrag nicht früher zurückgeführt habe, keine plausible Antwort gegeben.
+Die Verteidigung hat in der Verhandlung beantragt, das Verfahren einzustellen, weil die Mandantin den Betrag inzwischen vollständig erhalten habe. Der Senat hat diesen Antrag abgelehnt, weil die Rückzahlung erst nach der Anzeige erfolgte und die Verletzung der Pflicht nicht durch die spätere Ausgleichung entfällt. Der Beschuldigte hat auf die Frage des Senats, weshalb er den Betrag nicht früher zurückgeführt habe, keine plausible Antwort gegeben. Die Kanzleikraft, die nach seinen Angaben für die Buchhaltung zuständig war, hat ihrerseits erklärt, sie habe die Auszahlung nicht veranlasst.
 
 V. Rechtliche Beurteilung
 
@@ -90,7 +90,7 @@ V. Rechtliche Beurteilung
 
 15. Die Höhe der Geldbuße orientiert sich an der Schwere der Pflichtverletzung und an den persönlichen Verhältnissen des Beschuldigten. Die Dauer des Verbots entspricht dem Ausmaß der Verletzung und der Wiederholung der Auszahlungen.
 
-16. Eine Entziehung der Berufsberechtigung wurde nicht beantragt und ist nach dem Ergebnis des Verfahrens nicht geboten. Der Senat hat dabei berücksichtigt, dass der Beschuldigte seit Jahren keine Beanstandung der Kammer erfahren hat.
+16. Eine Entziehung der Berufsberechtigung wurde nicht beantragt und ist nach dem Ergebnis des Verfahrens nicht geboten. Die Kammeranwältin hat dies in ihrem Schlussvortrag ausdrücklich bestätigt und auf die Einhaltung der Berufspflichten durch die übrigen Kollegen verwiesen. Der Senat hat dabei berücksichtigt, dass der Beschuldigte seit Jahren keine Beanstandung der Kammer erfahren hat.
 
 17. Die Pflicht zur getrennten Verwahrung fremder Gelder dient dem Schutz der Mandanten und des Vertrauens in den Berufsstand. Ein Rechtsanwalt, der Treuhandgelder zur Deckung eigener Verbindlichkeiten verwendet, gefährdet dieses Vertrauen unabhängig davon, ob er die Mittel später ausgleicht. Der Senat sieht darin einen wesentlichen Grund für die Höhe der Geldbuße.
 

@@ -28,7 +28,7 @@ wir vertreten die [[organization|Pfeiffer KG]], [[company_register_number|FN 331
 
 Die [[organization|PFK]] hat mit Ihnen am [[date|14.03.2025]] einen Lieferungsvertrag über Stahlträger für ein Lagergebäude abgeschlossen. Die Lieferung erfolgte am [[date|09.05.2025]], die Rechnung vom [[date|12.05.2025]] über EUR 23.460,00 wurde bis heute nicht bezahlt.
 
-Die Forderung ist der Höhe nach unbestritten. Der Nettobetrag der Rechnung beläuft sich auf EUR 19.550,00, zuzüglich 20 % Umsatzsteuer von EUR 3.910,00, was den Rechnungsbetrag von EUR 23.460,00 ergibt. Ein Skonto wurde im Vertrag nicht vereinbart.
+Die Forderung ist der Höhe nach unbestritten, und sie wurde von Ihnen weder beanstandet noch mit einer Gegenforderung aufgerechnet. Der Nettobetrag der Rechnung beläuft sich auf EUR 19.550,00, zuzüglich 20 % Umsatzsteuer von EUR 3.910,00, was den Rechnungsbetrag von EUR 23.460,00 ergibt. Ein Skonto wurde im Vertrag nicht vereinbart.
 
 Mit Mahnung vom [[date|02.07.2025]] und Zahlungserinnerung vom [[date|18.08.2025]] hat die [[organization|PFK]] die Zahlung gefordert. Eine Antwort ist bisher nicht eingelangt. Die Zahlung der Rechnung ist daher nunmehr binnen 14 Tagen ab Zustellung dieses Schreibens auf das Konto der [[organization|PFK]] zu leisten.
 

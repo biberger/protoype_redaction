@@ -58,6 +58,18 @@ Datum | Vorgang | Betrag | Treuhandschaft
 
 6j. Die Verfahrensdauer wurde durch die Anforderung der Unterlagen bei dem Notariat verlängert, das die Kaufvertragsurkunde verwahrt. Die Verzögerung ist der Beschuldigten nicht zuzurechnen.
 
+6k. Die Kaufvertragsurkunde über den Gewerbebetrieb wurde am [[date|27. Jänner 2026]] vor dem Notar [[lawyer|Dr. Wolfram Pichler]] errichtet. Der Notar bestätigte, dass die Kaufpreisanzahlung nicht auf seinem Anderkonto eingegangen ist; die Zahlung erfolgte ausschließlich über das Treuhandkonto der Beschuldigten.
+
+6l. Die Kammeranwältin hat in der Verhandlung darauf hingewiesen, dass die Beschuldigte auf die Anzeige zunächst keine Stellungnahme abgegeben hatte. Die Beschuldigte erklärte, sie habe die Schreiben der Kammer wegen einer Erkrankung nicht rechtzeitig gelesen. Der Senat hält diese Erklärung für glaubhaft, weil eine ärztliche Bescheinigung vorgelegt wurde.
+
+6m. Der Gewerbebetrieb wurde vom Käufer [[person|Lorenz Egger]] übernommen, der ihn seit dem [[date|1. Mai 2026]] führt. Der Käufer hat als Zeuge bestätigt, dass ihm die Kaufpreisbeträge ordnungsgemäß zugeflossen sind.
+
+6n. Der Senat hat zudem die Frage geprüft, ob die Zahlung der Treuhandgeberin [[person|Dolores Trattnig]] als Vorschuss zu werten ist. Die Treuhandgeberin hat dargelegt, dass sie die Summe nicht als Vorschuss, sondern als Verwahrung einer Kaution übergeben habe. Die Kanzlei hat diese Unterscheidung in den Treuhandbuchauszügen nicht vermerkt, sodass der Senat von einer Verwahrung ausgeht. Eine Verrechnung mit Honorarforderungen war daher unzulässig.
+
+6o. Die Gewerbeberechtigung des Käufers wurde im Verfahren nicht bestritten. Der Käufer hat angegeben, er habe für die Übernahme des Betriebs eine Beratung durch die Beschuldigte in Anspruch genommen. Diese Beratung wurde jedoch gesondert abgerechnet und ist für das Treuhandkonto ohne Bedeutung. Ein Zusammenhang mit der Zahlung vom [[date|3. Dezember 2025]] besteht nicht.
+
+6p. Die Beschuldigte hat in der Verhandlung eine Bestätigung ihres Steuerberaters vorgelegt, wonach die Umbuchung vom [[date|2. März 2026]] der Abgrenzung von Vorauszahlungen diente. Der Senat wertet diese Bestätigung als nicht ausreichend, weil sie keine Buchungsbelege enthält.
+
 Rechtliche Beurteilung
 
 7. Nach [[legal_norm|§ 43a Abs 5 RAO]] sind Treuhandgelder getrennt vom eigenen Vermögen zu verwahren. Die Umbuchung der Zahlung vom [[date|2. März 2026]] vom Kanzleikonto auf das Treuhandkonto ist eine Vermischung, auch wenn sie nach Darstellung der Beschuldigten versehentlich erfolgte.
@@ -73,6 +85,10 @@ Rechtliche Beurteilung
 12. Die Einstellung des Verfahrens zur Treuhandschaft TH-Nr. [[other_identifier|2024/585]] ist nicht als Freispruch zu verstehen. Sie hindert die Kammer nicht, bei neuen Erkenntnissen erneut einzuschreiten.
 
 13. Die [[organization|RAK Ktn]] wird ersucht, die Auflagen zu überwachen und dem Senat über die Umsetzung der Treuhandbuchführung zu berichten.
+
+14. Die Zustellung dieses Beschlusses an die Treuhandgeberin [[person|Dolores Trattnig]] erfolgt durch die Kammer.
+
+15. Die Beschuldigte wird aufgefordert, die Treuhandbuchführung für die Dauer von sechs Monaten durch die Kammer überprüfen zu lassen.
 
 [[location|Klagenfurt am Wörthersee]], am [[date|21. April 2026]]
 

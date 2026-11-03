@@ -67,6 +67,10 @@ Rechtliche Beurteilung
 
 15. Der Klient [[person|Zangerl]] hat die Frage, ob er die Beratung zur Steuererklärung in Anspruch genommen habe, verneint. Eine Steuerberatung durch den Beschuldigten ist nicht dokumentiert.
 
+16. Der Senat weist darauf hin, dass die Honorarnote vom [[date|15. Jänner 2023]] zur Abrechnung einer Treuhandschaft nicht geeignet war, weil sie keine Einzelpositionen mit Zeitangaben ausweist.
+
+17. Der Beschuldigte hat seine Treuhänderrolle im Verfahren nicht bestritten. Er vertrat jedoch die Auffassung, eine nachträgliche Verrechnung sei einer Verrechnung im Zeitpunkt der Überweisung gleichzuhalten. Dieser Auffassung folgt der Senat nicht.
+
 [[location|Innsbruck]], am [[date|11. Februar 2026]]
 
 Der Vorsitzende: [[judge|Dr. Wanja Mooslechner]]

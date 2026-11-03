@@ -48,7 +48,7 @@ I. Sachverhalt
 
 3. Ein weiterer Schaden vom [[date|02.03.2021]] ist unter der Schaden-Nr. [[other_identifier|34/412580/21]] dokumentiert und wurde seinerzeit vom [[organization|Land Niederösterreich]] nur teilweise reguliert.
 
-4. Die Beklagten haben die Herstellung der beschädigten Bauteile verweigert und die Zahlung eines Vorschusses von EUR 27.450,00 abgelehnt. Mit Schreiben vom [[date|08.12.2025]] wurde die Zahlung eingemahnt; eine Reaktion erfolgte nicht. Eine weitere Mahnung vom [[date|19.01.2026]] blieb ebenfalls unbeantwortet, sodass die Klage nunmehr eingebracht wird.
+4. Die Beklagten haben die Herstellung der beschädigten Bauteile verweigert und die Zahlung eines Vorschusses von EUR 27.450,00 abgelehnt. Die Verweigerung erfolgte schriftlich mit dem Hinweis, dass die Schadensursache nicht geklärt sei und der Kläger die Schadensmeldung selbst verspätet abgegeben habe. Eine weitere Begründung wurde nicht vorgebracht. Mit Schreiben vom [[date|08.12.2025]] wurde die Zahlung eingemahnt; eine Reaktion erfolgte nicht. Eine weitere Mahnung vom [[date|19.01.2026]] blieb ebenfalls unbeantwortet, sodass die Klage nunmehr eingebracht wird.
 
 II. Rechtliche Beurteilung
 
@@ -58,18 +58,20 @@ II. Rechtliche Beurteilung
 
 7. Die Zuständigkeit des angerufenen Gerichts ergibt sich aus dem Wohnsitz der Beklagten im Sprengel des [[court|BG Lilienfeld]].
 
-8. Die Zinsen gebühren nach [[legal_norm|§ 1333 ABGB]] ab dem Verzugseintritt, also ab dem Ablauf der Zahlungsfrist im Mahnschreiben. Die Höhe der Zinsen richtet sich nach dem gesetzlichen Zinssatz.
+8. Die Zinsen gebühren nach [[legal_norm|§ 1333 ABGB]] ab dem Verzugseintritt, also ab dem Ablauf der Zahlungsfrist im Mahnschreiben. Der Kläger hat die Zahlungsfrist in der Mahnung vom [[date|08.12.2025]] auf vierzehn Tage gesetzt. Die Höhe der Zinsen richtet sich nach dem gesetzlichen Zinssatz.
 
 III. Beweisanbote
 
 9. Zum Beweis wird die Einvernahme des Klägers, die Vorlage des Versicherungsvertrages und ein Sachverständigengutachten beantragt.
 
-Tel. des Klägers zur Terminabstimmung: [[phone_number|+43 662 820 28 43 Kl. 92]]
+Zur Terminabstimmung erreichbar unter Tel. [[phone_number|+43 662 820 28 43 Kl. 92]] beziehungsweise über unsere Kanzlei.
 
 Beilagen:
 ./A   Versicherungsvertrag, Vertragsnummer [[other_identifier|LV-2017-47861]]
 ./B   Mahnschreiben vom [[date|08.12.2025]]
 ./C   Schadensmeldung vom [[date|14.11.2024]]
+
+Die Klagesumme ist auf das Treuhandkonto der Kanzlei mit der IBAN [[bank_account|AT38 6462 9700 3628 6474]] zu überweisen, sofern der Beklagte nicht freiwillig zahlt.
 
 Hinsichtlich der Gerichtsgebühren wird auf die Eingabengebühr verwiesen. Die Vollmacht liegt bei.
 

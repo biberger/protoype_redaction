@@ -39,7 +39,7 @@ es möge das Gericht die Beklagten zur ungeteilten Hand schuldig erkennen, der K
 
 I. Sachverhalt
 
-1. Die Klägerin ist Eigentümerin einer Wohnung im Erdgeschoss des Hauses. Am [[date|14.02.2025]] kam es im Badezimmer der Wohnung durch einen gebrochenen Steigstrang zu einem massiven Wasserschaden, der sich über die Decke bis in das Schlafzimmer ausbreitete. Die Klägerin hatte den Schaden unverzüglich der Hausverwaltung gemeldet.
+1. Die Klägerin [[person|Virginia Rauchbauer]] ist Eigentümerin einer Wohnung im Erdgeschoss des Hauses. Am [[date|14.02.2025]] kam es im Badezimmer der Wohnung durch einen gebrochenen Steigstrang zu einem massiven Wasserschaden, der sich über die Decke bis in das Schlafzimmer ausbreitete. Die Klägerin hatte den Schaden unverzüglich der Hausverwaltung gemeldet.
 
 2. Die Schadensmeldung erfolgte am [[date|14.02.2025]] telefonisch und am [[date|17.02.2025]] schriftlich. Die [[organization|Manner]] ließ den Schaden durch den Zweitbeklagten [[person|Lucas Höfel]] besichtigen, der als Installateur mit der Wartung der Steigleitungen betraut war. Der Zweitbeklagte erklärte vor Ort, der Strang sei veraltet und hätte schon im Vorjahr getauscht werden müssen.
 
@@ -81,7 +81,7 @@ IV. Beweisanträge
 
 12. Die Klägerin beantragt die Einvernahme folgender Zeugen: [[person|Gustine Offner]], [[person|Erik Rudolph]] und des Zweitbeklagten [[person|Lucas Höfel]] als Partei.
 
-13. Die Klägerin beantragt die Einholung eines Sachverständigengutachtens aus dem Fachgebiet der Haustechnik zur Frage, ob der Steigstrang vor dem [[date|14.02.2025]] bereits Mängel aufwies.
+13. Die Klägerin beantragt die Einholung eines Sachverständigengutachtens aus dem Fachgebiet der Haustechnik zur Frage, ob der Steigstrang vor dem [[date|14.02.2025]] bereits Mängel aufwies. Ferner beantragt sie die Vorlage des Versicherungsaktes unter der Schaden-Nr. [[other_identifier|99/262488/22]], insbesondere des Regulierungsschreibens vom [[date|30.04.2025]] und der darin genannten Ablehnungsgründe.
 
 V. Kosten und Zuständigkeit
 
@@ -89,7 +89,7 @@ V. Kosten und Zuständigkeit
 
 15. Die Kostenentscheidung wird nach [[legal_norm|§ 41 ZPO]] und [[legal_norm|§ 50 ZPO]] beantragt. Der Streitwert ergibt sich aus der Summe der Schadenspositionen nach [[legal_norm|§ 56 JN]]; die Klägerin bemisst ihn ohne Berücksichtigung der Zinsen.
 
-16. Die Klägerin ersucht um Anberaumung einer vorbereitenden Tagsatzung, in der die Zahlungsfähigkeit der Erstbeklagten und die Frage der Versicherungsdeckung des Zweitbeklagten erörtert werden können. Eine außergerichtliche Einigung ist an der Haltung der Erstbeklagten gescheitert.
+16. Die Klägerin ersucht um Anberaumung einer vorbereitenden Tagsatzung, in der die Zahlungsfähigkeit der Erstbeklagten und die Frage der Versicherungsdeckung des Zweitbeklagten erörtert werden können. Sie ist bereit, an einer Vergleichsverhandlung teilzunehmen, sofern die Erstbeklagte bis dahin einen Betrag von mindestens EUR 5.000,00 anerkennt. Eine außergerichtliche Einigung ist an der Haltung der Erstbeklagten gescheitert.
 
 Beilagen
 

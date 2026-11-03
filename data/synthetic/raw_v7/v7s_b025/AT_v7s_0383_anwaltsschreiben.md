@@ -36,6 +36,8 @@ Der Mandant hat die [[organization|Helmer]] mit Schreiben vom [[date|21.07.2026]
 
 Der Schaden ist dem Grunde nach durch den Verzug der [[organization|Helmer]] verursacht. Die Ansprüche des Mandanten beruhen auf [[legal_norm|§ 1168 ABGB]] und auf dem Verzug nach [[legal_norm|§ 1333 ABGB]]. Die Verjährungsfrist ist nicht abgelaufen. Zur Schadensberechnung legen wir die Aufstellung der Mehrkosten bei, die sich aus der Zwischenlagerung von 42 Paletten im Zeitraum von Juni bis August 2026 ergeben. Die Kosten des Gutachtens vom [[date|09.07.2026]] sind darin mit EUR 1.150,00 enthalten.
 
+Die [[organization|Helmer]] hat die Verzögerung in ihrem Schreiben vom [[date|25.06.2026]] auf Lieferprobleme beim Stahl zurückgeführt. Diese Begründung entlastet sie nicht, weil die Lieferprobleme nach dem eigenen Vorbringen erst ab Mai 2026 aufgetreten sind, der Werkvertrag jedoch einen Fertigstellungstermin bis Ende April 2026 vorsah.
+
 Wir weisen darauf hin, dass der Haftpflichtversicherer nach dem [[legal_norm|VersVG]] die Deckung innerhalb angemessener Frist zu prüfen hat. Eine Verzögerung der Entscheidung geht zu Lasten der Versicherung, die den Mandanten ohne Begründung im Unklaren lässt. Sollte die Prüfung länger als vier Wochen dauern, ersuchen wir um eine Zwischennachricht mit der Angabe der noch fehlenden Unterlagen.
 
 Wir ersuchen Sie daher, den Schaden des Mandanten in der Höhe von EUR 18.420,00 zu prüfen und die Deckung zu bestätigen. Der Betrag setzt sich aus den Mehrkosten für eine Zwischenlagerung, dem entgangenen Mietzins und den Kosten der Gutachten zusammen. Die Zahlung ist auf das Konto des Mandanten zu leisten:

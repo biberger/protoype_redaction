@@ -76,9 +76,9 @@ IV/2. Beweiswürdigung und Verjährung
 
 14. Bei der Strafzumessung hat der Senat berücksichtigt, dass die Beschuldigte die Kontobewegungen über einen Zeitraum von fast drei Jahren nicht vollständig dokumentiert hat. Die Kammer hat in ihrem Bericht darauf verwiesen, dass die Beschuldigte für die Treuhandschaft nur eine unvollständige Aufstellung vorgelegt hat.
 
-15. Mildernd wirkt, dass die Beschuldigte die Mittel nach der Anzeige in voller Höhe an den Mandanten zurückgeführt hat und dass sie den Vorwurf der Bereicherung nicht erhoben hat. Die Geldbuße von EUR 3.000,00 erscheint vor diesem Hintergrund als angemessen.
+15. Mildernd wirkt, dass die Beschuldigte die Mittel nach der Anzeige in voller Höhe an den Mandanten zurückgeführt hat und dass sie den Vorwurf der Bereicherung nicht erhoben hat. Die Geldbuße von EUR 3.000,00 erscheint vor diesem Hintergrund als angemessen. Der Senat hat auch berücksichtigt, dass die Beschuldigte die Verwaltung der Treuhandschaft nach der Anzeige an eine Kollegin übergeben hat, die seither die Kanzleikonten führt.
 
-16. Die Verteidigung hat in der Verhandlung auf die lange Dauer des Verfahrens hingewiesen. Der Senat erkennt an, dass die Verfahrensdauer nicht allein der Beschuldigten zuzurechnen ist, weil die Bankauskunft erst nach mehreren Monaten vorlag.
+16. Die Verteidigung hat in der Verhandlung auf die lange Dauer des Verfahrens hingewiesen. Der Senat erkennt an, dass die Verfahrensdauer nicht allein der Beschuldigten zuzurechnen ist, weil die Bankauskunft erst nach mehreren Monaten vorlag. Die Verzögerung wurde im Protokoll festgehalten und bei der Festsetzung der Kosten berücksichtigt, ohne die Beschuldigte weiter zu belasten.
 
 17. Die Beschuldigte hat sich in ihrer letzten Stellungnahme vom [[date|02.06.2025]] bereit erklärt, die Kanzleikonten künftig durch eine externe Buchhaltung prüfen zu lassen. Dieses Angebot hat der Senat bei der Festsetzung der Geldbuße berücksichtigt. Die externe Prüfung soll der Kammer binnen eines Jahres nachgewiesen werden; die Beschuldigte hat dies zugesagt.
 

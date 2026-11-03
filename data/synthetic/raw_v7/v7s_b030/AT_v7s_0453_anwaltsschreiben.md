@@ -12,16 +12,15 @@ UID: [[tax_id|ATU14316943]]
 [[organization|Sparkasse Hirschbach im Mühlkreis AG]] IBAN: [[bank_account|AT89 7454 8610 5088 9572]] BIC: [[bank_account|GIBAATWW]]
 ERV-Code: [[other_identifier|P962849]]
 
-Donau Lebensversicherung AG
+[[organization|Donau Lebensversicherung AG]]
 Leistungsabteilung
-Industriezeile 8
-[[address|4600 Wels]]
+[[address|Industriezeile 8, 4600 Wels]]
 
 Vertragsnummer [[other_identifier|LV-2022-6274]]
 
 [[location|St. Michael im Lungau]], am [[date|29. Oktober 2026]]
 
-Betreff: Leistungsantrag für Herrn Weiss
+Betreff: Leistungsantrag für Herrn [[person|Weiss]]
 
 Sehr geehrte Damen und Herren,
 
@@ -41,6 +40,10 @@ Ferner bitten wir um Bestätigung, dass die Vertragsnummer [[other_identifier|LV
 Frau [[person|Manfreda Linz]] ist als Sachbearbeiterin der [[organization|Nagele KG]] benannt und hat die Schadensmeldung unterzeichnet. [[person|Linz]] steht für Rückfragen zur Verfügung.
 
 Wir ersuchen um Prüfung und um Mitteilung, bis zu welchem Datum mit einer Entscheidung zu rechnen ist. Eine Ablehnung wäre nach dem [[date|30. November 2026]] zu begründen.
+
+Der Unfall ereignete sich am [[date|15. Juni 2026]] auf dem Gelände eines Zulieferers in [[location|St. Michael im Lungau]], als unser Mandant eine Leiter zum Dachboden hinaufstieg. Die Leiter kippte, und unser Mandant stürzte aus rund drei Metern auf den Betonboden. Er wurde zunächst im Krankenhaus Tamsweg versorgt und war danach bis zum [[date|31. August 2026]] arbeitsunfähig. Die ärztlichen Befunde liegen bei.
+
+Nach dem Befund ist mit einer dauerhaften Einschränkung der Beweglichkeit des rechten Knies zu rechnen. Die Invalidität wird durch einen unabhängigen Gutachter zu beurteilen sein; wir bitten, dafür rechtzeitig einen Termin zu vereinbaren. Die bisherige Leistung von EUR 2.400,00 deckt die Heilungskosten nicht vollständig ab, weshalb wir um eine Vorschussleistung ersuchen.
 
 Mit freundlichen Grüßen
 

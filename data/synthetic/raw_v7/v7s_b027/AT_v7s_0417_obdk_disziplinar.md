@@ -83,13 +83,13 @@ IV. Rechtliche Beurteilung
 
 17. Die Verzögerung der Auskunft wirkt sich auf die Bewertung der Pflichtverletzung aus, weil der Mandant ohne Kenntnis des Kontostandes über die Verwendung seiner Mittel entscheiden musste. Der Senat sieht darin eine zusätzliche Verletzung der Auskunftspflicht gegenüber dem Mandanten, die jedoch nicht Gegenstand des Spruchs ist.
 
-18. Der Senat hat auch die Auffassung der Beschuldigten geprüft, wonach die Überweisung an die [[organization|Hardt e.U.]] aufgrund eines Vertrages über Beratungsleistungen erfolgt sei. Ein solcher Vertrag liegt nicht vor; die Rechnung des Unternehmens datiert erst vom [[date|02.06.2025]] und bezieht sich auf einen anderen Zeitraum.
+18. Der Senat hat auch die Auffassung der Beschuldigten geprüft, wonach die Überweisung an die [[organization|Hardt e.U.]] aufgrund eines Vertrages über Beratungsleistungen erfolgt sei. Die Beschuldigte hat dazu auf Nachfrage keine schriftlichen Unterlagen vorgelegt und sich auf eine mündliche Vereinbarung berufen. Ein solcher Vertrag liegt nicht vor; die Rechnung des Unternehmens datiert erst vom [[date|02.06.2025]] und bezieht sich auf einen anderen Zeitraum.
 
 19. Die Beschuldigte hat in der Verhandlung eingeräumt, dass sie die Auszahlung vom [[date|30.07.2024]] nicht dokumentiert hat. Eine Barauszahlung von EUR 11.500,00 ohne Beleg ist mit den Pflichten eines Treuhänders nicht vereinbar, weil jede Bewegung auf einem Anderkonto nachvollziehbar sein muss.
 
 20. Der Senat hat geprüft, ob die Beschuldigte mit dem Mandanten eine Abrechnung vereinbart hatte. Eine solche Vereinbarung besteht nicht. Auch die von der Beschuldigten vorgelegte Honorarnote vom [[date|02.06.2025]] ist erst nach der Anzeige erstellt worden und kann daher die Auszahlungen nicht rechtfertigen.
 
-21. Die Höhe der Geldbuße von EUR 7.000,00 liegt im unteren Bereich des Strafrahmens. Der Senat hat berücksichtigt, dass der Mandant einen Teil seiner Mittel bereits zurückerhalten hat und die Beschuldigte bisher keine einschlägige Vorbelastung aufweist.
+21. Die Höhe der Geldbuße von EUR 7.000,00 liegt im unteren Bereich des Strafrahmens. Der Senat hat dabei auch die Dauer des Verfahrens von mehr als einem halben Jahr als mildernd berücksichtigt, weil die Beschuldigte in dieser Zeit keine weiteren Fehler begangen hat. Die Beschuldigte hat zudem die Zusage abgegeben, die Kanzleikonten künftig monatlich abzustimmen und die Abstimmung der Kammer vorzulegen. Der Senat hat diese Zusage bei der Entscheidung über die Dauer des Verbots berücksichtigt, zumal sie eine Wiederholung der Verstöße erschweren soll. Der Senat hat berücksichtigt, dass der Mandant einen Teil seiner Mittel bereits zurückerhalten hat und die Beschuldigte bisher keine einschlägige Vorbelastung aufweist.
 
 V. Kosten
 

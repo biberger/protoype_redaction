@@ -42,7 +42,7 @@ Datum | Vorgang | Betrag | Klient
 
 6c. Die Kammeranwältin [[person|Dr. Srecka Sušanj]] hat in der Verhandlung eine Abschrift des Treuhandbuchs vorgelegt, in der die Überweisung vom [[date|5. Juli 2023]] nicht enthalten ist. Die Beschuldigte hat die Richtigkeit dieser Abschrift nicht bestritten.
 
-6d. Die Beschuldigte hat die Verrechnung in der Verhandlung als Fehler bezeichnet. Eine Honorarnote über EUR 9.200,00 soll nach Angaben der Beschuldigten erst im Februar 2024 erstellt worden sein, nachdem die Kammer um Auskunft gebeten hatte; sie liegt dem Senat nicht vor. Die Nachvollziehbarkeit der Beträge ist dadurch nicht gegeben.
+6d. Die Beschuldigte hat die Verrechnung in der Verhandlung als Fehler bezeichnet. Eine Honorarnote über EUR 9.200,00 soll nach Angaben der Beschuldigten erst im Februar 2024 erstellt worden sein, nachdem die Kammer um Auskunft gebeten hatte; sie liegt dem Senat nicht vor. Die Nachvollziehbarkeit der Beträge ist dadurch nicht gegeben. Der Senat hat deshalb die Angaben der Beschuldigten zu diesem Punkt nicht berücksichtigt.
 
 Rechtliche Beurteilung
 
@@ -65,6 +65,8 @@ Rechtliche Beurteilung
 15. Der Klient [[person|Koch]] hat von dem Vorschuss in Höhe von EUR 15.000,00 nach den Kontoauszügen nur EUR 4.200,00 zurückerhalten. Der Restbetrag von EUR 10.800,00 ist ein zivilrechtlicher Anspruch, über den der Senat nicht entscheidet und den der Klient selbst geltend machen muss.
 
 16. Die Zustellung dieses Spruchs erfolgt an die Beschuldigte, an die Kammeranwältin und an die [[organization|TRAK]].
+
+17. Die Beschuldigte wird darauf hingewiesen, dass die Führung des Treuhandbuchs künftig jeder Kammerprüfung ohne vorherige Ankündigung unterliegt. Verstöße gleicher Art werden künftig nicht mehr mit einer Geldbuße allein geahndet werden.
 
 [[location|Innsbruck]], am [[date|9. Dezember 2025]]
 
