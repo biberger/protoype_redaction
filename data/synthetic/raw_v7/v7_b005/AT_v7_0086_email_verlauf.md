@@ -42,7 +42,7 @@ Betreff: AW: Kündigung
 
 Sehr geehrte Damen und Herren,
 
-ich, [[person|Tabea Vetter]], geb. [[date_of_birth|16. Juli 1989]], habe die Kündigung am [[date|10. Oktober 2025]] erhalten. Ich wohne in [[address|8280 Altenmarkt bei Fürstenfeld]] und arbeite seit dem [[date|1. März 2019]] bei der [[organization|Strobl Logistik GmbH]] ([[company_register_number|FN 210398b]], UID: [[tax_id|ATU55201877]]).
+ich, [[person|Tabea Vetter]], geb. [[date_of_birth|16. Juli 1989]], habe die Kündigung am [[date|10. Oktober 2025]] erhalten. Ich wohne in [[address|8280 Altenmarkt bei Fürstenfeld]] und arbeite seit dem [[date|1. März 2019]] bei der [[organization|Strobl Logistik GmbH]] ([[company_register_number|FN 406636w]], UID: [[tax_id|ATU53210127]]).
 
 Bitte prüfen Sie, ob die Kündigung rechtzeitig erfolgt ist. Das Dienstzeugnis fehlt mir noch.
 

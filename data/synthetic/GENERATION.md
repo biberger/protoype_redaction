@@ -36,7 +36,9 @@ die klagende Partei [[person|Mag. Johanna Steinberger]], vertreten durch [[lawye
 | court | named court incl. abbreviations | `Landesgericht Linz`, `OGH`, `BGer`, `Cour de cassation`, `TJ de Lyon` |
 | address | postal address with house number; whole span incl. door, postcode and city when contiguous | `Gumpendorfer Straße 74/3, 1060 Wien`, `12 rue de la Paix, 75002 Paris` |
 | street | street or square name without house number | `Mariahilfer Straße` (in "auf der Mariahilfer Straße") |
-| location | city, municipality, district, region, country, nationality country ("StA. Syrien") not inside another span | `Linz`, `Tirol`, `Syrien`, `canton de Vaud` |
+| location | city, municipality, district, region not inside another span; not countries (decision 32) | `Linz`, `Tirol`, `canton de Vaud` |
+| country | country or state, as territory, nationality ("StA. [[country\|Syrien]]") or party (decision 32) | `Österreich`, `Syrien`, `Republik Österreich` |
+| date_of_birth | date of birth after a birth cue (decision 33) | `geb. [[date_of_birth\|14.07.1983]]` |
 | date | day-precise date in any spelling | `12.03.2025`, `5. Juli 2024`, `le 3 mars 2023` |
 | case_number | case reference of court, authority, police, notary, land register | `3 Ob 123/24k`, `W123 2245678-1/12E`, `VI ZR 123/22`, `4A_123/2024`, `n° 21-12.345` |
 | legal_norm | statute citation with §, Art., TP etc. incl. the act abbreviation, and bare names of acts (abbreviated or long); each citation in a chain separately | `§ 879 Abs 3 ABGB`, `Art. 8 EMRK`, `article 1240 du Code civil`, `ABGB`, `DSGVO`, `Code civil` |
