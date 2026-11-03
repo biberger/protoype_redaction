@@ -72,6 +72,8 @@ Beilagen:
 
 Zu den Verfahrenskosten: Die Beklagte hat die Vertretungskosten nach dem Streitwert berechnet. Die Vertretung der Beklagten erfolgt durch die Kanzlei, deren ERV-Code oben angegeben ist.
 
+Die Beklagte behält sich vor, ihre Einwendungen nach Vorlage der Beilagen der Klägerin zu ergänzen. Eine Äußerung zu den Beilagen der Gegenseite wird innerhalb der gesetzten Frist erfolgen.
+
 Zustellung an die Gegenseite erfolgt über ERV.
 
 [[location|St. Ruprecht an der Raab]], am [[date|06.07.2026]]

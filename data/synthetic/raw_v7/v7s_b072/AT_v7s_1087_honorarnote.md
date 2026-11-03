@@ -43,6 +43,8 @@ Gesamtbetrag: EUR 3.300,00
 
 Die Position vom [[date|09.02.2026]] betrifft ein Telefonat mit dem Vertreter der Gegenseite, in dem ein Vergleichsvorschlag über die Zahlung in drei Raten erörtert wurde. Der Vorschlag wurde von der Gegenseite nicht angenommen; die Position ist daher vollständig zu vergüten. Die Position vom [[date|26.02.2026]] umfasst die Auswertung der Einwendungen und die Abstimmung mit dem Mandanten über die weitere Vorgehensweise.
 
+Die Position vom [[date|22.01.2026]] umfasst die Abstimmung des Klagsbegehrens mit dem Geschäftsführer und die Beschaffung der Rechnungsbelege, die als Beilagen dem Schriftsatz angeschlossen wurden. Die Zeitaufwendung für die Aufbereitung der Unterlagen war erheblich, weil die Buchhaltung der [[organization|Millonig Handels GmbH]] in mehreren Ordnern vorlag.
+
 Die Kosten des Rechtsstreits im Falle des Obsiegens werden gesondert nach dem Kostenersatzrecht abgerechnet und sind in dieser Note nicht enthalten.
 
 Das Geld ist binnen 14 Tagen auf das Konto IBAN [[bank_account|AT92 3127 9800 4163 4137]] zu überweisen.

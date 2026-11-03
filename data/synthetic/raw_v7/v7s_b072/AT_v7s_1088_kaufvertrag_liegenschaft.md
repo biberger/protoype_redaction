@@ -62,6 +62,12 @@ V. Schlussbestimmungen
 
 Änderungen dieses Vertrages bedürfen der Schriftform. Sollte eine Bestimmung unwirksam sein, bleibt der Vertrag im Übrigen wirksam.
 
+VI b. Übergabe und Besitz
+
+Die Übergabe der Schlüssel und der Urkunden erfolgt am Tag der Vertragsunterfertigung nach Zahlung der Anzahlung. Ab diesem Zeitpunkt trägt der Käufer die Gefahr des zufälligen Untergangs, jedoch noch nicht den Besitz im Sinne des Grundbuchs. Der Besitz geht erst mit der Einverleibung über.
+
+Der Verkäufer [[person|Owoc]] erklärt, dass er die Liegenschaft seit dem Jahr 1992 bewohnt hat, und die Mitverkäuferin [[person|Yankova]] nutzt einen Teil des Gartens als Lagerfläche, die mit dem Käufer abzustimmen ist. Die Mitverkäufer übergeben alle Schlüssel, Pläne und Unterlagen zum Gebäude.
+
 Unterschriften:
 
 Die Verkäufer:

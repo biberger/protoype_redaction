@@ -17,6 +17,8 @@ Ihr Zeichen: [[other_identifier|H-HTscherne/Weinstabl]]
 Unser Zeichen: [[other_identifier|77/22 CG]]
 Unser Zeichen: [[other_identifier|Tscherne ./. Brucker]]
 
+Ich habe Ihre Nachricht an meine Mandantin weitergeleitet, die sich telefonisch bei mir gemeldet hat. Sie bestätigt, dass die Zufahrt seit dem Jahr 2019 ausschließlich über den bestehenden Weg erfolgt. Eine Verbreiterung wurde nie vereinbart, und sie ist daher nicht Gegenstand der Vereinbarung.
+
 Die Anmerkung im Grundbuch betrifft das Wegerecht zugunsten des Nachbargrundstücks. Ich ersuche um Zusendung der Vereinbarung vom [[date|02.04.2019]], da ich dazu keine Unterlagen habe.
 
 Mit freundlichen Grüßen

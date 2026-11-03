@@ -77,6 +77,8 @@ Die Kostenentscheidung stützt sich auf [[legal_norm|§ 52 Abs 1 RAO]]. Die Besc
 
 Belehrung: Gegen diese Entscheidung kann innerhalb von vier Wochen ab Zustellung eine Berufung eingebracht werden. Die Österreichische Rechtsanwaltskammer ([[organization|ÖRAK]]) ist über die Entscheidung zu informieren.
 
+Die Kammeranwältin [[person|Gödel]] hat zudem darauf hingewiesen, dass die Beschuldigte bis zur Verhandlung keine Unterlagen über die Auszahlungen an die Gerichtskasse vorgelegt hat. Der Senat hält diesen Umstand für erwiesen, weil die Beschuldigte selbst eingeräumt hat, die Gebühr vorab bezahlt zu haben, ohne den Klienten zu informieren.
+
 Die Telefonnummer der Kammer für Rückfragen lautet Tel. [[phone_number|05572 213382 Kl. 66]].
 
 [[location|St. Margarethen im Burgenland]], am [[date|20.05.2026]]

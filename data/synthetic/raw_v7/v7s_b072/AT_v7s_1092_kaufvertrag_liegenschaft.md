@@ -82,7 +82,9 @@ Für die Vertragserrichtung:
 [[person|Teissl]]
 Rechtsanwalt
 
-Die Vertragsparteien erklären, den Vertrag gelesen und verstanden zu haben.
+Die Vertragsparteien erklären, den Vertrag gelesen und verstanden zu haben. Die Vertragsparteien erklären ferner, dass sie den Vertrag in deutscher Sprache abgeschlossen haben und dass der Käufer [[person|Boeken]] die deutsche Sprache hinreichend beherrscht. Eine Übersetzung wurde deshalb nicht erstellt. Die Vertragserrichtung erfolgte unter Mitwirkung der Kanzlei [[person|Teissl]], die alle Parteien über die Folgen der Eintragung belehrt hat.
+
+Zur Nachvollziehbarkeit der Zahlungen wird die Anzahlung von EUR 31.200,00 vom Konto des Käufers an das Treuhandkonto überwiesen. Der Restkaufpreis wird nach Eintragung des Eigentumsrechtes vom Treuhandkonto an die Verkäufer ausbezahlt. Die Auszahlungsanweisung ist diesem Vertrag beigefügt.
 
 Tel. für Rückfragen: [[phone_number|+43 1 974 94 74-1]]
 
