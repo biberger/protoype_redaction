@@ -23,7 +23,7 @@ BETREFF: WASSERSCHADEN IM OBJEKT – MANDANTEN [[person|ELISAUS OEHLER]] UND [[p
 
 Sehr geehrte Damen und Herren,
 
-wir vertreten die Eigentümer [[person|Elisaus Oehler]] und [[person|Bastian Renz]] in der Angelegenheit des Wasserschadens vom [[date|11.11.2021]] im Erdgeschoß der Liegenschaft, die von der [[organization|Baumann]] verwaltet wird. Der Schaden ist seit damals nicht behoben.
+wir vertreten die Eigentümer [[person|Elisaus Oehler]] und [[person|Bastian Renz]] in der Angelegenheit des Wasserschadens vom [[date|11.11.2021]] im Erdgeschoß der Liegenschaft, die von der [[organization|Baumann]] verwaltet wird. Der Schaden ist seit damals nicht behoben. Die Eigentümer haben seither mehrfach auf die Dringlichkeit hingewiesen; die entsprechenden Schreiben liegen bei.
 
 Die Zeugin [[person|Josiane Walz]], die im Stiegenhaus wohnt, hat den Wasserrohrbruch am Morgen des Schadentages bemerkt und die Hausverwaltung verständigt. Ihre Angaben sind dokumentiert:
 
@@ -39,7 +39,13 @@ Wir fordern Sie daher auf, die Haftung bis spätestens [[date|31. Oktober 2026]]
 
 Sollte bis dahin keine Antwort eingehen, werden wir Klage beim [[court|Landesgericht für Zivilrechtssachen Graz]] einbringen. Das [[court|LG für ZRS Graz]] ist nach unserer Auffassung zuständig, da die Liegenschaft im Sprengel liegt.
 
+Unsere Mandanten haben die Wohnung im Erdgeschoß bis zum Schadenseintritt vermietet; der Mietvertrag mit dem bisherigen Mieter endete mit dem [[date|31. März 2022]] infolge der Unbewohnbarkeit.
+
 Die Ansprüche stützen sich auf [[legal_norm|§ 1311 ABGB]], wonach der Schädiger für den verursachten Schaden einzustehen hat. Schadenersatz für entgangene Miete folgt aus [[legal_norm|§ 1293 ABGB]].
+
+Die Schadensermittlung wurde im Mai 2022 durch einen Sachverständigen vorgenommen; das Gutachten liegt uns vor und wird auf Anforderung übermittelt.
+
+Wir behalten uns vor, weitere Schäden am Gebäude, die sich aus der anhaltenden Feuchtigkeit ergeben, gesondert geltend zu machen. Eine Beweissicherung durch Fotos und Messprotokolle ist erfolgt.
 
 Zahlungen bitten wir auf das Treuhandkonto IBAN [[bank_account|AT15 1558 0324 7550 2851]] zu leisten.
 

@@ -17,7 +17,9 @@ ERV-Code: [[other_identifier|P192098]]
 
 Klage
 
-der Klägerin [[person|MYRIAM BROK]], geb [[date_of_birth|1937-11-19]], wohnhaft [[address|Hernalser Hauptstraße 118, 1170 Wien]],
+der Klägerin [[person|MYRIAM
+BROK]], geb
+[[date_of_birth|1937-11-19]], wohnhaft [[address|Hernalser Hauptstraße 118, 1170 Wien]],
 vertreten durch [[person|Ortner]], Rechtsanwältin,
 
 gegen

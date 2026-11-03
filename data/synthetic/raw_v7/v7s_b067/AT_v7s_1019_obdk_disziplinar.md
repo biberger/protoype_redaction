@@ -9,7 +9,7 @@ Zl. [[case_number|DR-W 33/2026]]
 
 B E S C H L U S S
 
-Der [[court|Disziplinarrat der Rechtsanwaltskammer Wien]] hat am [[date|9. Oktober 2026]] in Wien über die Disziplinaranzeige gegen Rechtsanwalt [[person|Tobias Paulus]] in nichtöffentlicher Sitzung entschieden.
+Der [[court|Disziplinarrat der Rechtsanwaltskammer Wien]] hat am [[date|9. Oktober 2026]] in [[location|Wien]] über die Disziplinaranzeige gegen Rechtsanwalt [[person|Tobias Paulus]] in nichtöffentlicher Sitzung entschieden.
 
 Senat
 
@@ -42,21 +42,27 @@ Datum | Vorgang | Betrag EUR | Treuhandnummer
 
 4. Die Kanzlei war nur unter Tel. [[phone_number|+43 316 167 61 19-33]] erreichbar; über diese Nummer waren die Klienten nicht erreichbar.
 
+Verfahrensgang
+
+Die Disziplinaranzeige wurde am [[date|18. Februar 2026]] von der Kammeranwältin erstattet, nachdem die Klientin [[person|Sabine Hollenstein]] eine Beschwerde eingebracht hatte. Der Beschuldigte äußerte sich am [[date|20. März 2026]] schriftlich und beantragte die Vernehmung des Geschäftsführers der [[organization|MBG]]. Diesem Antrag wurde nur teilweise entsprochen, weil die Auskunft bereits schriftlich vorlag. Die Verhandlung fand am [[date|25. Juni 2026]] statt.
+
 Beweiswürdigung
 
 Der Senat stützt sich auf die Kontoauszüge, die Urkunden zur Treuhandschaft und die Angaben von [[person|Hollenstein]] und [[person|Dimitrov]]. Der Beschuldigte gab an, die [[organization|MBG]] habe ihm mündlich einen Baufortschritt bestätigt, der eine Auszahlung rechtfertige. Eine solche Bestätigung ist nicht dokumentiert.
 
-Der Senat hält die Angaben der Klientin [[person|Hollenstein]] für glaubhaft. Der Klient [[person|Dimitrov]] hat sich in der Verhandlung zurückhaltend geäußert, bestätigte aber die fehlende Zustimmung.
+Der Senat hält die Angaben der Klientin [[person|Hollenstein]] für glaubhaft. Die Kontoauszüge bestätigen die Zeitpunkte und Beträge der Einzahlungen ohne Abweichung. Die Schreiben der Klienten vom [[date|10.04.2024]] und vom [[date|2. Mai 2024]] blieben zunächst unbeantwortet. Der Klient [[person|Dimitrov]] hat sich in der Verhandlung zurückhaltend geäußert, bestätigte aber die fehlende Zustimmung.
 
 Rechtliche Beurteilung
 
 Die Auszahlung von Treuhandgeldern ohne Freigabe der berechtigten Partei verletzt die Verwahrungspflicht nach [[legal_norm|§ 43a Abs 3 RAO]] schwer. Auf die Frage, ob die [[organization|MBG]] die Leistung tatsächlich erbracht hatte, kommt es nicht an, weil die Freigabe der Klienten fehlte.
 
-Mildernd wirkt, dass der Beschuldigte die Rückzahlung an [[person|Hollenstein]] teilweise geleistet hat. Erschwerend wirkt, dass zwei Klienten betroffen waren und die Verwendung über einen längeren Zeitraum erfolgte.
+Mildernd wirkt, dass der Beschuldigte die Rückzahlung an [[person|Hollenstein]] teilweise geleistet hat. Erschwerend wirkt, dass zwei Klienten betroffen waren und die Verwendung über einen längeren Zeitraum erfolgte. Die Verwendung erfolgte in zwei Schritten, wobei der zweite Schritt nach einer ausdrücklichen Warnung der Kammer vorgenommen wurde, was die Schuld des Beschuldigten erhöht.
+
+Die Vorgangsweise zeigt ein System: Auszahlungen wurden jeweils dann veranlasst, wenn die Kontodeckung knapp wurde. Dies ist nach Auffassung des Senats kein Zufall, sondern Ausdruck einer Verwahrungspraxis, die den Treuhandgrundsätzen widerspricht.
 
 Die Geldbuße berücksichtigt die wirtschaftlichen Verhältnisse des Beschuldigten. Der Senat hält einen Ausschluss nicht für erforderlich, da der Beschuldigte bisher ordentlich tätig war.
 
-Die Berufung an die [[court|OBDK]] ist binnen vier Wochen ab Zustellung zulässig.
+Die Kosten des Verfahrens trägt der Beschuldigte nach [[legal_norm|§ 34 Abs 2 RAO]]. Die Berufung an die [[court|OBDK]] ist binnen vier Wochen ab Zustellung zulässig.
 
 [[location|Wien]], am [[date|9. Oktober 2026]]
 

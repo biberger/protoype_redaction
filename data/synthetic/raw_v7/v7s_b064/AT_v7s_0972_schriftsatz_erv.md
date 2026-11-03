@@ -27,7 +27,7 @@ Streitwert: EUR 27.650,00
 
 1. Die Kläger haben am [[date|14.03.2026]] auf der Landesstraße im Gemeindegebiet von [[location|Melk]] einen Verkehrsunfall erlitten, als das Fahrzeug der Klägerin 2. auf einer Fahrbahnabsenkung ins Schleudern geriet. Die Fahrbahnschäden waren dem Straßenerhalter, der Beklagten, seit dem [[date|02.11.2025]] bekannt.
 
-2. Die Beklagte ist Trägerin der Straßenverwaltung und hat die Mängel trotz Anzeige nicht behoben. Die Schadenmeldung wurde am [[date|20.03.2026]] eingebracht und unter der Schaden-Nr. [[other_identifier|65/192418/23]] aufgenommen.
+2. Die Beklagte ist Trägerin der Straßenverwaltung. Die Straßen werden im Auftrag des [[organization|Landes Niederösterreich]] ([[organization|LNÖ]]) erhalten, und das [[organization|LNÖ]] hat die Mängel trotz Anzeige nicht behoben. Die Schadenmeldung wurde am [[date|20.03.2026]] eingebracht und unter der Schaden-Nr. [[other_identifier|65/192418/23]] aufgenommen.
 
 3. Der Zeuge [[person|Mathis Strauss]], geboren am [[date_of_birth|1991-03-05]], wohnhaft in [[location|St. Anton am Arlberg]], hat den Unfall beobachtet und die Absenkung fotografiert. Die Zeugen [[person|Jamil Ahmadi]] und [[person|Sabinus Reininghaus]] haben das Fahrzeug der Kläger unmittelbar vor dem Unfall gesehen.
 

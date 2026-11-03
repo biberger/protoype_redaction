@@ -26,7 +26,7 @@ Verkäufer:
 beide wohnhaft in [[location|St. Ruprecht an der Raab]]
 
 Käufer:
-[[organization|SCHIEDER GMBH]], [[company_register_number|FN 338196y]], [[tax_id|UID ATU76841651]], vertreten durch den Geschäftsführer [[person|Vincento Rodić]], *[[date_of_birth|05.12.1991]], Staatsangehöriger von [[country|Polen]]
+[[organization|SCHIEDER GMBH]], [[company_register_number|FN 338196y]], UID [[tax_id|ATU76841651]], vertreten durch den Geschäftsführer [[person|Vincento Rodić]], *[[date_of_birth|05.12.1991]], Staatsangehöriger von [[country|Polen]]
 
 I. Vertragsgegenstand
 
@@ -44,6 +44,14 @@ II. Kaufpreis
 
 3. Die Käuferin hat die Grunderwerbsteuer und die Kosten der Eintragung zu tragen.
 
+4. Die Verkäufer erklären, dass die Liegenschaft nicht vermietet ist und dass keine Dienstbarkeiten außer den im Grundbuch ersichtlichen bestehen. Die Grundstücksgrenzen sind durch den Vermessungsplan festgelegt, der diesem Vertrag als Beilage angeschlossen ist. Die Käuferin [[organization|Schieder]] hat den Plan vor Unterfertigung eingesehen.
+
+5. Die Verkäufer haften nicht für eine Abweichung der Wohnfläche, sofern diese weniger als fünf Prozent beträgt. Die Angabe der Wohnfläche im Vertrag dient nur der Information der Parteien und begründet keine Zusicherung.
+
+6. Die Verkäufer verpflichten sich, bis zur Übergabe alle laufenden Abgaben, Betriebskosten und Versicherungsprämien zu bezahlen. Die Käuferin übernimmt diese Verpflichtungen ab dem Übergabetag.
+
+7. Die Kanzlei hat die Eigentumsverhältnisse anhand des Grundbuchsauszuges vom [[date|27. August 2026]] geprüft. Die Parteien erklären, dass dieser Auszug den Stand der Eintragungen zutreffend wiedergibt.
+
 III. Aufsandungserklärung
 
 Die Verkäufer erklären hiermit ihre Einwilligung in die Einverleibung des Eigentumsrechts zugunsten der Käuferin. Die Aufsandungserklärung wird unwiderruflich erteilt und bei der Kanzlei verwahrt. Der Vertrag wird zur Einverleibung beim zuständigen Grundbuchsgericht vorgelegt.
@@ -54,7 +62,13 @@ IV. Übergabe und Gewährleistung
 
 2. Die Verkäufer leisten Gewähr dafür, dass die Liegenschaft frei von bücherlichen Lasten übergeben wird. Für Mängel an Gebäuden wird keine Gewähr übernommen.
 
-V. Schlussbestimmungen
+V. Gewährleistung und Schadenersatz
+
+1. Die Verkäufer haften für Ansprüche Dritter, die auf einem Recht beruhen, das vor dem Übergabetag begründet wurde und nicht im Grundbuch eingetragen ist.
+
+2. Die Käuferin verzichtet auf Ansprüche wegen erkennbarer Mängel, die sie bei der Besichtigung festgestellt hat. Dies gilt insbesondere für Feuchtigkeitsschäden im Keller.
+
+VI. Schlussbestimmungen
 
 1. Mündliche Nebenabreden bestehen nicht. Änderungen bedürfen der Schriftform.
 

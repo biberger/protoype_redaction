@@ -57,6 +57,8 @@ Die Verwahrung von Treuhandgeldern ist eine der zentralen Berufspflichten des Re
 
 Mildernd wirkt, dass die Beschuldigte bisher nicht disziplinär auffällig war und sich einsichtig zeigte. Sie hat den Betrag von EUR 3.500,00 freiwillig zurückbezahlt und die Bereitschaft erklärt, die Restforderung in Raten zu begleichen. Ein Anerkenntnis der Gesamtschuld liegt darin nicht. Erschwerend wirkt die Dauer des Verstoßes. Der Senat hält eine Geldbuße von 7.000 Euro für tat- und schuldangemessen.
 
+Die Kosten des Verfahrens setzen sich aus der Verhandlungsgebühr und den Auslagen für die Zustellung zusammen, die der Beschuldigten nach [[legal_norm|§ 34 Abs 2 RAO]] aufzuerlegen sind.
+
 Gemäß [[legal_norm|§ 34 Abs 1 RAO]] ist die Entscheidung mit Berufung an die [[court|OBDK]] anfechtbar. Die Berufung ist binnen vier Wochen einzubringen.
 
 [[location|Graz]], am [[date|21. Oktober 2026]]

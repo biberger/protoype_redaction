@@ -43,11 +43,11 @@ Die künftigen Eigentümer sind im Erwerbsverzeichnis wie folgt erfasst:
 
 II. Kaufpreis und Treuhandschaft
 
-Der Kaufpreis beträgt EUR 486.000,00. Die Käufer erlegen davon EUR 48.600,00 als Vorauszahlung binnen acht Tagen nach Vertragsunterfertigung auf das Treuhandkonto der Rechtsanwälte, IBAN [[bank_account|AT16 8658 6077 6248 4575]]. Die Treuhandschaft wird unter Treuhandschaft Nr. [[other_identifier|2021/398]] geführt.
+Der Kaufpreis beträgt EUR 486.000,00. Die Käufer erlegen davon EUR 48.600,00 als Vorauszahlung binnen acht Tagen nach Vertragsunterfertigung auf das Treuhandkonto der Rechtsanwälte, IBAN [[bank_account|AT16 8658 6077 6248 4575]]. Das Treuhandkonto ist unter Treuhandschaft Nr. [[other_identifier|2021/398]] geführt.
 
 Der Restkaufpreis von EUR 437.400,00 ist nach Übergabe der Urkunde zur Verbücherung fällig. Die Vertragsparteien beauftragen die Rechtsanwälte, die Auszahlung des Kaufpreises nur nach Vorliegen der Einverleibungsbewilligung und des Nachweises der Lastenfreistellung vorzunehmen.
 
-Die Grunderwerbsteuer nach dem Grunderwerbsteuergesetz von 2 % des Wertes der Gegenleistung ist von den Käufern zu tragen, die Eintragungsgebühr ebenfalls. Die Verkäuferin trägt die Kosten der Löschung allfälliger Pfandrechte.
+Die Grunderwerbsteuer nach dem [[legal_norm|Grunderwerbsteuergesetz]] von 2 % des Wertes der Gegenleistung ist von den Käufern zu tragen, die Eintragungsgebühr ebenfalls. Die Verkäuferin trägt die Kosten der Löschung allfälliger Pfandrechte.
 
 III. Aufsandungserklärung
 

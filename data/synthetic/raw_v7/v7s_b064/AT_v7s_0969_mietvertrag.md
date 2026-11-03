@@ -20,7 +20,9 @@ Vermieterin: [[organization|Roschmann Immobilien GmbH]], [[company_register_numb
 
 und
 
-Mieter: [[person|Adolf Goldgruber]], geboren am [[date_of_birth|03.11.1971]], und [[person|Narcissa Rujević]], GEB: [[date_of_birth|06.05.1991]], beide wohnhaft in [[location|Deutschlandsberg]] (im Folgenden: Mieter).
+Mieter: [[person|Adolf
+Goldgruber]], geboren am
+[[date_of_birth|03.11.1971]], und [[person|Narcissa Rujević]], GEB: [[date_of_birth|06.05.1991]], beide wohnhaft in [[location|Deutschlandsberg]] (im Folgenden: Mieter).
 
 I. Mietgegenstand
 
