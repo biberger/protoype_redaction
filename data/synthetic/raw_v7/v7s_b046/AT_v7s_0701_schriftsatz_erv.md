@@ -65,6 +65,8 @@ Begründung:
 
 14. Die Zeugin [[person|Kovačević]] wird ersucht, zum Zeitpunkt der Übergabe Stellung zu nehmen. Sie wird im Verfahren mit ihrer Adresse in der Lagerhalle der [[organization|OHB]] geladen, weil sie dort tätig ist. Ihre Aussage wird die Angaben der Klägerin zur Beschaffenheit der Lieferung bestätigen.
 
+15. Die beklagte Partei beantragt daher, die Klage abzuweisen, hilfsweise das Verfahren bis zur Vorlage des Sachverständigengutachtens über die Beschaffenheit der Ware zu unterbrechen, das die Klägerin nicht eingeholt hat.
+
 Beweis: Vertrag vom [[date|11.06.2024]] (./A); Quittung (./1); Telefonnotiz (./2); Einvernahme der Zeugin [[person|Kovačević]]; Parteienvernehmung.
 
 Beilagen:

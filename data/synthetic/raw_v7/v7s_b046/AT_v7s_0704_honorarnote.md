@@ -39,7 +39,7 @@ Die Bezeichnung der Leistungen erfolgt wie oben. Die Summe der Honorare beträgt
 Umsatzsteuer 20 %: EUR 150,00
 Gesamtbetrag: EUR 900,00
 
-Die Leistungen wurden nach dem vereinbarten Honorar für Liegenschaftsangelegenheiten abgerechnet. Die Besprechung vom [[date|05.03.2026]] umfasste die Durchsicht der Urkunden, die Frau [[person|Haupt]] mitgebracht hatte, sowie die Erläuterung der Belastungen im Lastenblatt. Die Eingabe vom [[date|12.03.2026]] wurde elektronisch übermittelt; die Eingangsbestätigung befindet sich im Akt. Die Abstimmung mit der Bank über das Pfandrecht hat Frau [[person|Haupt]] schriftlich bestätigt, sodass für diesen Punkt kein weiterer Aufwand angefallen ist.
+Die Leistungen wurden nach dem vereinbarten Honorar für Liegenschaftsangelegenheiten abgerechnet. Die Pauschale für die Eingabe beim Grundbuch ist in der Position vom [[date|12.03.2026]] enthalten. Die Besprechung vom [[date|05.03.2026]] umfasste die Durchsicht der Urkunden, die Frau [[person|Haupt]] mitgebracht hatte, sowie die Erläuterung der Belastungen im Lastenblatt. Die Eingabe vom [[date|12.03.2026]] wurde elektronisch übermittelt; die Eingangsbestätigung befindet sich im Akt. Die Abstimmung mit der Bank über das Pfandrecht hat Frau [[person|Haupt]] schriftlich bestätigt, sodass für diesen Punkt kein weiterer Aufwand angefallen ist.
 
 Die Honorarnote ist binnen 14 Tagen ab Erhalt auf das Konto mit der IBAN [[bank_account|AT37 1780 3339 4342 1731]] unter Angabe der Kl.-Nr. [[other_identifier|36736]] zu überweisen.
 

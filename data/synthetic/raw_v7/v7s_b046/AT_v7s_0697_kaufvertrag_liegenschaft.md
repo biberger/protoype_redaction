@@ -59,7 +59,7 @@ Der Besitz geht mit dem Stichtag [[date|01.12.2026]] auf die Käufer über. Ab d
 
 V. Gewährleistung
 
-Die Verkäuferin haftet für den Bestand der Liegenschaften und die Richtigkeit der Angaben im Grundbuch. Für Mängel des Gebäudes wird die Gewährleistung ausgeschlossen, soweit das Gesetz dies zulässt. Die Käufer erklären, das Gebäude besichtigt zu haben.
+Die Verkäuferin haftet für den Bestand der Liegenschaften und die Richtigkeit der Angaben im Grundbuch. Für Mängel des Gebäudes wird die Gewährleistung ausgeschlossen, soweit das Gesetz dies zulässt. Die Käufer erklären, das Gebäude besichtigt zu haben. Die Käufer haben außerdem zur Kenntnis genommen, dass die Heizungsanlage des Lagergebäudes im Jahr 2021 erneuert wurde und dass für die Dachdeckung eine Garantie des Herstellers bis zum Jahr 2031 besteht, die von der Verkäuferin an die Käufer abgetreten wird.
 
 Die Verkäuferin übergibt den Bauakt der Gemeinde, die Benützungsbewilligung für die Lagerhalle und die Bescheide über den Wasseranschluss. Aus dem Bauakt ergibt sich, dass der Anbau des Büros im Jahr 2009 ohne gesonderte Bewilligung errichtet wurde; die Verkäuferin hat dies offengelegt, und die Käufer übernehmen das Risiko eines nachträglichen Bauverfahrens. Ein Anspruch auf Preisminderung besteht daher nicht.
 

@@ -60,7 +60,7 @@ Der Käufer erklärt, das Kaufobjekt in dem Zustand zu übernehmen, in dem es si
 
 VI. Übergabe und Nutzen
 
-Die Übergabe erfolgt am [[date|01.12.2026]], wobei die Nutzungen und die Lasten ab diesem Tag auf den Käufer übergehen. Die Betriebskosten für das Jahr 2026 werden aliquot zwischen den Parteien aufgeteilt.
+Die Übergabe erfolgt am [[date|01.12.2026]], wobei die Nutzungen und die Lasten ab diesem Tag auf den Käufer übergehen. Die Betriebskosten für das Jahr 2026 werden aliquot zwischen den Parteien aufgeteilt. Die Verkäuferin übergibt die Schlüssel, die Heizungsanlage sowie die Wartungsbücher der Anlagen. Ein Übergabeprotokoll wird bei der Übergabe von beiden Parteien unterfertigt; etwaige Mängel, die bei der Übergabe erkennbar sind, sind darin festzuhalten.
 
 VII. Kosten und Abgaben
 

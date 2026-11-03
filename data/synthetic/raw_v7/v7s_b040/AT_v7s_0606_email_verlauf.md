@@ -11,7 +11,7 @@ Betreff: Räumungsvergleich, Klienten-Nr. [[other_identifier|61838]]
 
 Sehr geehrte Frau [[person|DI Hubatschek]],
 
-anbei die Zahlungsbestätigung für den Mietrückstand. Die [[organization|Weller Immobilien GmbH]] (in der Folge [[organization|WIG]]) ist mit dem Vergleichsvorschlag einverstanden, wenn der Auszug aus dem Objekt in [[location|St. Michael im Lungau]] bis Ende November erfolgt.
+anbei die Zahlungsbestätigung für den Mietrückstand. Die [[organization|Weller Immobilien GmbH]] (in der Folge [[organization|WIG]]) ist mit dem Vergleichsvorschlag einverstanden, wenn der Auszug aus dem Objekt in [[location|St. Michael im Lungau]] bis Ende November erfolgt. Die Gesellschaft ist unter [[company_register_number|FN 400145z]] im Firmenbuch eingetragen (UID: [[tax_id|ATU24779087]]); die Vertretung durch die Geschäftsführung ist gegenüber dem Vermieter nachzuweisen.
 
 Die Zahlungsbestätigung der [[organization|WIG]] vom [[date|11. Oktober 2026]] ist beigefügt; der Betrag ist auf dem Konto der Kanzlei eingegangen. Die Restforderung aus den Betriebskosten wird bis zum Auszug gesondert abgerechnet, sofern keine Einwendungen erhoben werden. Bitte geben Sie uns bis dahin auch an, an welche Adresse die Schlüssel zu übermitteln sind.
 

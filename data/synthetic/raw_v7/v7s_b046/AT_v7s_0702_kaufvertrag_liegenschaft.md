@@ -46,7 +46,7 @@ II a. Dienstbarkeiten und Nachbarschaft
 
 Die Verkäuferin hat mit dem Eigentümer des Nachbargrundstückes eine Vereinbarung über die gemeinsame Nutzung der Zufahrt getroffen. Diese Vereinbarung wird von den Käufern übernommen und ist im Grundbuch ersichtlich. Die Käufer verpflichten sich, die Zufahrt in einem Zustand zu halten, der den Anforderungen der Nachbarschaft entspricht; die Kosten der Schneeräumung werden von den Käufern im Verhältnis ihrer Anteile getragen.
 
-Ein Vorkaufsrecht zugunsten Dritter besteht nicht. Die Käufer haben von dem Umstand Kenntnis, dass auf dem Nachbargrundstück ein Leitungsrecht für eine Wasserleitung eingeräumt ist, das im Grundbuch eingetragen ist. Die Verkäuferin erklärt, dass ihr keine weiteren Dienstbarkeiten bekannt sind.
+Ein Vorkaufsrecht zugunsten Dritter besteht nicht. Die Käufer haben die Liegenschaften vor Vertragsabschluss gemeinsam mit einem Vertreter der Verkäuferin begangen; dabei wurde festgestellt, dass der Zaun entlang der Grenze zum Nachbargrundstück erneuert werden muss. Die Kosten dieser Erneuerung trägt die Verkäuferin bis zur Höhe von EUR 4.200,00, darüber hinausgehende Kosten gehen zu Lasten der Käufer. Die Käufer haben von dem Umstand Kenntnis, dass auf dem Nachbargrundstück ein Leitungsrecht für eine Wasserleitung eingeräumt ist, das im Grundbuch eingetragen ist. Die Verkäuferin erklärt, dass ihr keine weiteren Dienstbarkeiten bekannt sind.
 
 III. Kaufpreis
 

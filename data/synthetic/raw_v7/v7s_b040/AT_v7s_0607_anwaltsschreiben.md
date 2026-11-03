@@ -26,7 +26,7 @@ Sehr geehrte Damen und Herren,
 
 wir vertreten den Geschädigten [[person|Bozin Šelić]], geb [[date_of_birth|10. August 1976]], StA: [[country|Österreich]], in der oben bezeichneten Schadensangelegenheit. Eine Vollmacht liegt bei.
 
-Der Sachverhalt ist wie folgt: Am [[date|3. Juli 2024]] wurde unser Mandant beim Einbiegen auf die Landesstraße im Gemeindegebiet von [[location|St. Pölten]] von dem Fahrzeug des Lenkers [[person|Csepreghy Koppany]] gestreift. Das Fahrzeug war auf die [[organization|Giner Bau GmbH]] (in der Folge [[organization|GBG]], [[company_register_number|FN 467588f]]) zugelassen. Die Haftung der [[organization|GBG]] und ihres Lenkers ist dem Grunde nach unbestritten. Sie ergibt sich aus [[legal_norm|§ 1 Abs 1 EKHG]] iVm [[legal_norm|§ 3 EKHG]].
+Der Sachverhalt ist wie folgt: Am [[date|3. Juli 2024]] wurde unser Mandant beim Einbiegen auf die Landesstraße im Gemeindegebiet von [[location|St. Pölten]] von dem Fahrzeug des Lenkers [[person|Csepreghy Koppany]] gestreift. Das Fahrzeug war auf die [[organization|Giner Bau GmbH]] (in der Folge [[organization|GBG]], [[company_register_number|FN 467588f]], UID: [[tax_id|ATU51888532]]) zugelassen. Die Haftung der [[organization|GBG]] und ihres Lenkers ist dem Grunde nach unbestritten. Sie ergibt sich aus [[legal_norm|§ 1 Abs 1 EKHG]] iVm [[legal_norm|§ 3 EKHG]].
 
 Die Polizze der [[organization|GBG]] bei Ihrem Haus umfasst die Haftpflicht. Mit Schreiben vom [[date|8. Juli 2024]] haben Sie den Schaden angenommen. Eine Zahlung ist jedoch bis heute nicht erfolgt.
 

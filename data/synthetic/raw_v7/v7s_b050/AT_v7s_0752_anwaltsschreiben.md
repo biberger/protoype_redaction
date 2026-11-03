@@ -32,7 +32,7 @@ Die [[organization|Buttinger KG]] ([[organization|BKG]], [[company_register_numb
 
 Herr [[person|Del Pero]] hat den Schaden mit 14.800 Euro beziffert. Dieser Betrag umfasst die Reparaturkosten, den Nutzungsausfall und die Kosten des Gutachtens. Wir fordern Sie auf, den Betrag bis spätestens [[date|31.03.2026]] auf das Treuhandkonto unserer Kanzlei zu überweisen.
 
-Sollte die [[organization|BKG]] bis zu diesem Zeitpunkt nicht zahlen, werden wir ohne weitere Ankündigung die gerichtliche Geltendmachung einleiten.
+Sollte die [[organization|BKG]] bis zu diesem Zeitpunkt nicht zahlen, werden wir ohne weitere Ankündigung die gerichtliche Geltendmachung einleiten. Ferner ersuchen wir Sie, die Unterlagen über die Bauausführung bis spätestens [[date|31.03.2026]] vorzulegen. Andernfalls behalten wir uns vor, ein Beweissicherungsverfahren zu beantragen, dessen Kosten wir Ihrer Gesellschaft in Rechnung stellen werden.
 
 Anlagen: Vollmacht; Gutachten vom [[date|20.01.2026]]
 

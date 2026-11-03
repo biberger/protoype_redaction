@@ -55,7 +55,7 @@ Die Gesellschaft ist unter [[company_register_number|FN 604645i]] eingetragen, U
 
 Die Honorarnote enthält keine Barauslagen. Gerichtsgebühren, die im Verfahren zu entrichten sind, werden gesondert vorgeschrieben.
 
-Die Kanzlei weist außerdem darauf hin, dass die Gerichtsgebühren für den Schriftsatz vom [[date|20.03.2026]] nach dem [[legal_norm|Gebührenanspruchsgesetz]] bemessen wurden und gesondert vorgeschrieben werden. Für die Verhandlung vom [[date|28.04.2026]] fällt keine weitere Gebühr an, weil die Vertagung auf Antrag der Gegenseite erfolgte. Die Teilnahme an der Verhandlung wurde im Leistungsverzeichnis vollständig erfasst.
+Die Kanzlei weist außerdem darauf hin, dass die Gerichtsgebühren für den Schriftsatz vom [[date|20.03.2026]] nach dem [[legal_norm|Gebührenanspruchsgesetz]] bemessen wurden und gesondert vorgeschrieben werden. Für die Verhandlung vom [[date|28.04.2026]] fällt keine weitere Gebühr an, weil die Vertagung auf Antrag der Gegenseite erfolgte. Die Teilnahme an der Verhandlung wurde im Leistungsverzeichnis vollständig erfasst, einschließlich der Zeit der Anreise nach [[location|Ried im Innkreis]] und der Rückfahrt.
 
 Die Kanzlei weist darauf hin, dass die Leistungen für [[person|Ungersböck]] auf Basis der Vollmacht vom [[date|12.03.2026]] erbracht wurden. Die Vollmacht liegt im Akt und kann auf Wunsch kopiert werden. Eine Änderung der Anschrift der Gesellschaft ist uns bisher nicht mitgeteilt worden; wir bitten um Mitteilung, falls sich etwas ändert.
 

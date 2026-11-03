@@ -29,7 +29,7 @@ Entscheidungsgründe
 
 1. Verfahrensgang
 
-Die [[organization|RAK OÖ]] erstattete am [[date|14.06.2024]] eine Disziplinaranzeige, nachdem der Mandant [[person|Mikołaj Florek]] sich über die Abwicklung einer Zahlung beschwert hatte. Die Kammeranwältin [[person|Mag. Hildegunde Höfner]] führte die Vorerhebungen durch und stellte den Antrag auf Verhängung einer Disziplinarstrafe. Die Beschuldigte [[lawyer|Krause]] bestritt die Vorwürfe nicht vollständig, machte jedoch geltend, die Auszahlungen seien mündlich vereinbart gewesen. Die Beschuldigte [[lawyer|Krause]] nahm am [[date|10.07.2024]] schriftlich Stellung und legte eine eidesstattliche Erklärung des Mandanten [[person|Florek]] vor, die allerdings erst am [[date|22.07.2024]] datiert war und damit nach den streitgegenständlichen Auszahlungen lag.
+Die [[organization|RAK OÖ]] erstattete am [[date|14.06.2024]] eine Disziplinaranzeige, nachdem der Mandant [[person|Mikołaj Florek]] sich über die Abwicklung einer Zahlung beschwert hatte. Die Kammeranwältin [[person|Mag. Hildegunde Höfner]] führte die Vorerhebungen durch und stellte den Antrag auf Verhängung einer Disziplinarstrafe. Der Antrag stützt sich auf die Kontoauszüge, die Stellungnahmen der Beteiligten und die Niederschrift über die Kanzleiprüfung. In der mündlichen Verhandlung vom [[date|11.02.2026]] wurde die Beschuldigte [[lawyer|Krause]] persönlich einvernommen; sie wurde dabei von keinem Verteidiger vertreten. Die Mandanten [[person|Florek]] und [[person|Ginzel]] wurden als Zeugen geladen, [[person|Ginzel]] erschien nicht und ließ sich durch ihre schriftliche Erklärung vertreten. Die Beschuldigte [[lawyer|Krause]] bestritt die Vorwürfe nicht vollständig, machte jedoch geltend, die Auszahlungen seien mündlich vereinbart gewesen. Die Beschuldigte [[lawyer|Krause]] nahm am [[date|10.07.2024]] schriftlich Stellung und legte eine eidesstattliche Erklärung des Mandanten [[person|Florek]] vor, die allerdings erst am [[date|22.07.2024]] datiert war und damit nach den streitgegenständlichen Auszahlungen lag.
 
 2. Sachverhalt
 
@@ -39,7 +39,16 @@ Am [[date|5. Mai 2024]] erhielt die Beschuldigte [[lawyer|Krause]] für den Mand
 
 Im Fall der Mandantin [[person|Annemarie Ginzel]] wurde am [[date|12.03.2024]] ein Betrag von 18.400 Euro für die Mandantin auf dem Treuhandkonto eingezahlt. Die Zahlung ist unter TH-Nr. [[other_identifier|2020/009]] verbucht. Am [[date|2. April 2024]] wurden davon 9.200 Euro ohne schriftliche Weisung an eine dritte Person ausbezahlt. Die Beschuldigte [[lawyer|Krause]] erklärte in der Verhandlung, sie habe die Mandantin [[person|Ginzel]] telefonisch informiert. Die Mandantin [[person|Ginzel]] bestritt dies und legte einen Aktenvermerk vor, der keinen Hinweis auf eine Zustimmung enthält.
 
-Die Kontobewegungen wurden von der [[organization|RAK OÖ]] anhand der Kontoauszüge geprüft. Dabei zeigte sich, dass auf dem Treuhandkonto zeitweise ein Stand unter der Summe der Treuhandgelder lag.
+Die Kontobewegungen des Treuhandkontos wurden von der [[organization|RAK OÖ]] anhand der Kontoauszüge geprüft. Die festgestellten Bewegungen sind in der folgenden Übersicht zusammengefasst:
+
+DATUM        VORGANG                        BETRAG IN EUR     MANDANT / VERWEIS
+[[date|12.03.2024]]   Einzahlung                    18.400,00         [[person|Ginzel]], TH-Nr. [[other_identifier|2020/009]]
+[[date|02.04.2024]]   Auszahlung an Dritte           -9.200,00         [[person|Ginzel]], TH-Nr. [[other_identifier|2020/009]]
+[[date|05.05.2024]]   Einzahlung                    12.500,00         [[person|Florek]], Akt-Nr. [[other_identifier|2024/118]]
+[[date|21.05.2024]]   Auszahlung an Dritte           -9.000,00         [[person|Florek]], Akt-Nr. [[other_identifier|2024/118]]
+[[date|03.07.2024]]   Auszahlung an Mandanten        -3.500,00         [[person|Florek]], Akt-Nr. [[other_identifier|2024/118]]
+
+Der Senat folgt dieser Aufstellung, die mit den vorgelegten Kontoauszügen übereinstimmt. Dabei zeigte sich, dass auf dem Treuhandkonto zeitweise ein Stand unter der Summe der Treuhandgelder lag.
 
 Bereits bei einer Kanzleiprüfung am [[date|28.11.2023]] hatte die [[organization|RAK OÖ]] die Beschuldigte [[lawyer|Krause]] auf die fehlende Dokumentation der Weisungen hingewiesen. Die Beschuldigte [[lawyer|Krause]] sagte damals zu, die Weisungen künftig schriftlich festzuhalten. Dieser Zusage ist sie in den nachfolgenden Fällen nicht nachgekommen.
 
@@ -55,7 +64,7 @@ Die eidesstattliche Erklärung des Mandanten [[person|Florek]] vermag an der Fes
 
 4. Rechtliche Beurteilung
 
-Gemäß [[legal_norm|§ 43a Abs 3 RAO]] hat der Rechtsanwalt Mandantengelder gesondert zu verwalten und nur nach Maßgabe der Weisung des Mandanten zu verfügen. Die Beschuldigte [[lawyer|Krause]] hat diese Pflicht in mehreren Fällen verletzt. Dass die Mandanten die Auszahlungen nachträglich gebilligt hätten, wurde nicht behauptet. Der Umstand, dass die Gelder später vollständig ausbezahlt wurden, ändert an der Pflichtverletzung nichts.
+Die Berufspflichten des Rechtsanwalts ergeben sich aus [[legal_norm|§ 1 RAO]] in Verbindung mit den Bestimmungen über die Berufsausübung. Gemäß [[legal_norm|§ 43a Abs 3 RAO]] hat der Rechtsanwalt Mandantengelder gesondert zu verwalten und nur nach Maßgabe der Weisung des Mandanten zu verfügen. Die Verwaltung fremder Gelder gehört zu den Kernpflichten des Anwaltsberufs, weil der Mandant auf die ordnungsgemäße Abwicklung vertrauen muss und ihm sonst das Vertrauen in den Berufsstand verloren geht. Die Beschuldigte [[lawyer|Krause]] hat diese Pflicht in mehreren Fällen verletzt. Dass die Mandanten die Auszahlungen nachträglich gebilligt hätten, wurde nicht behauptet. Der Umstand, dass die Gelder später vollständig ausbezahlt wurden, ändert an der Pflichtverletzung nichts.
 
 Die Beisitzerin [[judge|Kögl]] hat in der Beratung darauf hingewiesen, dass die Verstöße nicht vorsätzlich, aber grob fahrlässig begangen wurden. Die Beisitzerin [[judge|Maksić]] schloss sich dieser Einschätzung an.
 

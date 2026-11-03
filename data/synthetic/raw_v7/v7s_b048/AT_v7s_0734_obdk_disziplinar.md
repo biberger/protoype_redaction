@@ -10,7 +10,7 @@ Unser Zeichen: [[other_identifier|Wassilko ./. Domenig]]
 Zeichen [[other_identifier|KTR/Wassilko/3043]]
 Tel. [[phone_number|01 328379-68]]
 
-Linz, am [[date|22. Juni 2026]]
+[[location|Linz]], am [[date|22. Juni 2026]]
 
 ERKENNTNIS
 
@@ -50,6 +50,10 @@ Beweiswürdigung
 
 Der Senat hat die Kontoauszüge, das Treuhandbuch, den Schriftverkehr zwischen dem Klienten und der Kanzlei sowie die Aussage des Klienten gewürdigt. Der Klient [[person|Tesarek]] hat glaubhaft angegeben, dass er einer Honorarzahlung aus dem Treuhandkonto nie zugestimmt habe. Der Beschuldigte hat dagegen vorgebracht, die Zustimmung mündlich eingeholt zu haben.
 
+Die Zeugin [[person|Bettina Gruber]], Kanzleikraft des Beschuldigten bis Ende 2025, hat ausgesagt, dass die Honorarbuchung auf Anweisung des Beschuldigten erfolgte. Sie habe die Buchung nicht hinterfragt, weil sie als Weisung des Vorgesetzten galt. Die Zeugin konnte jedoch keine Angaben zu einer Zustimmung des Klienten machen.
+
+Die Bank hat die Kontoauszüge am [[date|5. Februar 2026]] übermittelt. Sie bestätigen die Buchungen vom [[date|17. März 2025]] und vom [[date|9. Mai 2025]] vollständig und stimmen mit dem Treuhandbuch überein, soweit dort Eintragungen bestehen.
+
 Der Senat hält die mündliche Zustimmung für nicht erwiesen. Der Beschuldigte konnte weder einen Vermerk im Akt noch einen Zeugen benennen. Zudem widerspricht die Behauptung dem Umstand, dass die Abrechnung vom [[date|26. Juni 2025]] keinen Hinweis auf die Honorarforderung enthielt.
 
 Die Kammeranwältin [[person|Olympia DI Sabitzer]] hat in der Verhandlung ausgeführt, dass das Treuhandbuch der Kanzlei lückenhaft geführt werde. Dies wurde durch die Prüfung der [[organization|ORAK]] bestätigt. Der Schriftführer hat die Protokollierung der Aussagen vorgenommen.
@@ -63,6 +67,8 @@ Die Pflichtverletzung ist auch als Verstoß gegen [[legal_norm|§ 43a Abs 3 RAO]
 Strafbemessung
 
 Die Geldbuße von 4.500 Euro entspricht der Schwere des Vorwurfs und der finanziellen Situation des Beschuldigten. Mildernd wirkt, dass der Betrag vollständig rückgeführt wurde und der Beschuldigte bisher keine Disziplinarstrafe erhalten hat. Erschwerend wirkt, dass der Klient durch die Verzögerung der Auskunft einen Schaden von mehreren Monaten Zinsen erlitten hat.
+
+Die Stellungnahme des Beschuldigten vom [[date|14. Oktober 2025]] enthält den Vorwurf, der Klient habe die Honorarforderung durch sein Verhalten erzwungen. Der Senat hält dies für nicht erheblich, weil die Pflichtverletzung unabhängig von der Zahlungsmoral des Klienten besteht. Der Beschuldigte ist seit über fünfzehn Jahren Rechtsanwalt und kennt die Pflichten nach der Richtlinie zur Führung von Treuhandbüchern aus eigener Praxis.
 
 Der Verweis wird zusätzlich verhängt, um die Bedeutung der Treuhandpflichten klarzustellen. Eine Ausschließung aus der Rechtsanwaltschaft wurde nicht beantragt und ist im Hinblick auf den Ausgleich nicht geboten.
 
