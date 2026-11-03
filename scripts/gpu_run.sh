@@ -37,6 +37,12 @@ data)
     $PY -m legalner.tagged data/synthetic/raw_v5 -o data/canonical/synthetic_v5.jsonl --source synthetic
   fi
   $PY -m legalner.tagged data/synthetic/raw_v6 -o data/canonical/synthetic_v6.jsonl --source synthetic_eu
+  # v7: practice documents (LLM-written from legalner.practice briefs) and programmatic register documents
+  for d in raw_v7 raw_v7_grundbuch raw_v7_registers; do
+    if [ -d data/synthetic/$d ]; then
+      $PY -m legalner.tagged data/synthetic/$d -o data/canonical/synthetic_${d#raw_}.jsonl --source synthetic
+    fi
+  done
   $PY -m legalner.tagged data/eurlex/corrected -o data/canonical/eurlex.jsonl --source eurlex
   $PY -m legalner.tagged data/mapa_v2/corrected -o data/canonical/mapa_v2.jsonl --source mapa_v2
   $PY -m legalner.sources.ler -o data/canonical/ler
@@ -52,7 +58,7 @@ build)
   $PY -m legalner.build \
     data/canonical/synthetic_v1.jsonl data/canonical/synthetic.jsonl data/canonical/synthetic_v3.jsonl \
     data/canonical/synthetic_v4.jsonl $(ls data/canonical/synthetic_v5.jsonl 2>/dev/null) \
-    data/canonical/synthetic_v6.jsonl data/canonical/eurlex.jsonl \
+    data/canonical/synthetic_v6.jsonl $(ls data/canonical/synthetic_v7*.jsonl 2>/dev/null) data/canonical/eurlex.jsonl \
     data/canonical/ris.jsonl data/canonical/replay.jsonl \
     data/canonical/ler/*.jsonl data/canonical/mapa/*.jsonl data/canonical/mapa_v2.jsonl data/canonical/gold_at.jsonl \
     --exclude-docs data/gold/at/doc_ids.txt \

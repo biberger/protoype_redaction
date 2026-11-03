@@ -669,3 +669,27 @@ def test_grundbuch_generator_produces_valid_tagged_extracts(tmp_path):
         assert {"land_register_id", "case_number"} <= labels
     refs = {land_ref(rng, "01005", "Josefstadt", "427", gst="115/35").render() for _ in range(50)}
     assert len(refs) > 20 and all("[[land_register_id|" in r for r in refs)
+
+
+def test_register_generators_produce_valid_tagged_documents(tmp_path):
+    from legalner.gazetteers import Gazetteer
+    from legalner.sources.grundbuch import ocr
+    from legalner.sources.registers import KINDS, _std, _town_of
+    from legalner.tagged import parse_file
+    gaz = Gazetteer(rng=random.Random(5))
+    if not gaz.last.get("AT") or not gaz.towns.get("AT"):
+        pytest.skip("gazetteer TSVs not available")
+    rng = random.Random(5)
+    for kind, make in KINDS.items():
+        labels = set()
+        for i in range(12):
+            doc = make(gaz, rng, i)
+            if i % 4 == 0:
+                doc = ocr(doc, rng)
+            path = tmp_path / f"AT_{kind[:2]}_{i:04d}_{kind}.md"
+            path.write_text(f"---\ndoc_type: {kind}\njurisdiction: AT\nlang: de\n---\n{doc.render()}")
+            recs, _ = parse_file(path, "synthetic")
+            labels |= {s["label"] for r in recs for s in r["spans"]}
+        assert {"person", "date_of_birth", "address"} <= labels
+    assert _std("Hageng. 58, Wien 1160") == "Hageng. 58, 1160 Wien"
+    assert _town_of("Ligist 33, 8563 Ligist") == "Ligist" and _town_of("Kathrein-Straße 3, 8312 Ottendorf") == "Ottendorf"
