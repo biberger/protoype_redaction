@@ -67,6 +67,12 @@ IV. Beweisanbote
 
 Die Klägerin beantragt die Einvernahme des Beklagten sowie des Zeugen [[person|Andrew Kitić]], GEB: [[date_of_birth|14. Jänner 1936]], der den Vorgang beobachtet hat und StA. [[country|Syrien]] ist. Der Zeuge hat sich am Unfallort als Fahrer des nachfolgenden Fahrzeugs vorgestellt und seine Wahrnehmungen zu Protokoll gegeben. Ferner wird die Beiziehung der Krankengeschichte beantragt.
 
+Zum Verdienstentgang: Die Klägerin ist als Verkäuferin im Einzelhandel tätig und war vom [[date|11.02.2026]] bis zum [[date|30.04.2026]] arbeitsunfähig. Der Dienstgeber hat die Lohnfortzahlung für die ersten drei Wochen geleistet; der darüber hinausgehende Entgang beträgt EUR 1.970,00 und wird durch die Gehaltsbestätigung vom [[date|15.05.2026]] belegt. Die Klägerin hat ihre Arbeit nach der Genesung in verminderter Stundenzahl wiederaufgenommen.
+
+Zum Schmerzengeld: Die Klägerin hat eine Halswirbelsäulenzerrung erlitten, die über sechs Wochen mit Physiotherapie behandelt wurde. Die Schmerzen haben nach Angabe der behandelnden Ärztin bis in den April 2026 angehalten. Der Betrag von EUR 3.500,00 erscheint angesichts der Dauer und der Intensität der Beschwerden angemessen.
+
+Die Klägerin bietet an, sich einer ärztlichen Untersuchung durch einen gerichtlich bestellten Sachverständigen zu unterziehen. Die Beklagte wird ersucht, die Vorlage der Versicherungsakten zu veranlassen, soweit diese der Haftpflichtversicherung vorliegen.
+
 V. Anträge
 
 Die Klägerin stellt den Antrag, der Beklagte sei schuldig, ihr EUR 6.250,00 samt 4 % Zinsen seit dem [[date|11.02.2026]] zu bezahlen.

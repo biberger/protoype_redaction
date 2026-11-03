@@ -42,6 +42,18 @@ Am Unfallfahrzeug des [[person|Simoncelli]] wurde ein Schaden an der linken Fahr
 
 Die Fahrzeuge wurden durch den Abschleppdienst von der Unfallstelle entfernt. Die Verkehrsfläche wurde um 08.55 Uhr wieder freigegeben.
 
+Ergänzende Feststellungen zur Unfallstelle:
+
+Die Landesstraße verläuft an der Unfallstelle gerade und ist auf eine Länge von etwa 300 m einsehbar. Die Fahrbahn war trocken, die Sichtweite betrug nach Angabe der Beteiligten rund 120 m. Die Kreuzung mit der [[street|Dorfstraße]] ist durch ein Verkehrszeichen "Vorrang geben" am Fahrzeugverkehr aus der Nebenstraße gekennzeichnet. Das Verkehrszeichen war zum Unfallzeitpunkt sichtbar, jedoch teilweise durch einen Baum verdeckt, dessen Zweige im Sommer das Schild verdecken.
+
+Am Fahrzeug des Lenkers [[person|Fall]] wurden Schäden an der rechten vorderen Stoßstange und am Kotflügel festgestellt. Der Airbag des Fahrzeugs des Lenkers [[person|Simoncelli]] wurde nicht ausgelöst. Beide Fahrzeuge waren technisch nicht vollständig ausgerüstet, was der Sachverständige in einem Nachtrag festhalten wird.
+
+Die Verletzung des Fahrgastes [[person|Angelopoulos]] wurde vom Notarzt als Prellung im Bereich des Brustkorbes beschrieben. Eine stationäre Aufnahme war nicht erforderlich. Die Beifahrerin [[person|Wolf]] hat die Behandlung im Krankenhaus abgelehnt und ihre Angaben am Unfallort zu Protokoll gegeben.
+
+Der Zeuge [[person|Akhmedov]] gab an, er sei seit mehr als zwanzig Jahren Anrainer an der Kreuzung und habe bereits mehrere Unfälle gesehen, die auf die Verkehrssituation zurückzuführen seien. Diese Angaben sind für den konkreten Unfall nur eingeschränkt verwertbar, weil der Zeuge den Vorgang selbst nicht im Detail verfolgt hat.
+
+Abschleppkosten und Kosten der Unfallaufnahme werden nach der Vorfallsaufnahme den jeweiligen Versicherungen mitgeteilt. Eine Gebühr für die Verkehrsregelung durch die Feuerwehr fällt nicht an.
+
 Beweise:
 - Fotos der Unfallstelle, Stand 08.10 Uhr
 - Spurenbild, Bremsspuren rund 14 m lang

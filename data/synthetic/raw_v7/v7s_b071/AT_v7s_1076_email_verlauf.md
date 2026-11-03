@@ -10,7 +10,7 @@ Betreff: Schadennummer [[other_identifier|41/812109/23]]
 
 Sehr geehrte Frau Rechtsanwältin,
 
-ich habe heute den Brief der [[organization|Hutterer Immobilien GmbH]] ([[organization|HIG]]) erhalten. Dort wird mir vorgeworfen, dass ich die Wohnung am [[date|1. Juni 2023]] unsachgemäß übergeben hätte. Das stimmt nicht. Die Frau [[person|Aleit Ogris]], [[address|6528 Fendels]], hat die Schlüssel damals selbst entgegengenommen. Das Protokoll der [[organization|Hutterer]] enthält dazu eine andere Darstellung.
+ich habe heute den Brief der [[organization|Hutterer Immobilien GmbH]] ([[organization|HIG]]), [[company_register_number|FN 324744s]], UID: [[tax_id|ATU11586791]], erhalten. Dort wird mir vorgeworfen, dass ich die Wohnung am [[date|1. Juni 2023]] unsachgemäß übergeben hätte. Das stimmt nicht. Die Frau [[person|Aleit Ogris]], [[address|6528 Fendels]], hat die Schlüssel damals selbst entgegengenommen. Das Protokoll der [[organization|Hutterer]] enthält dazu eine andere Darstellung.
 
 Bitte prüfen Sie, ob wir uns am [[court|Landesgericht Salzburg]] wehren müssen. Die Klage ist bisher nicht eingebracht.
 
@@ -31,7 +31,7 @@ Sehr geehrte Frau [[person|Schmidlechner]],
 
 die [[organization|Hutterer Immobilien GmbH]] hat im Verfahren UZ: [[other_identifier|460/22 KS]] bereits eine Stellungnahme abgegeben. Die [[organization|HIG]] ist damit die Gegenseite in der Angelegenheit. Wir haben die Stellungnahme erhalten und sie mit den Protokollen der [[court|LG Salzburg]] verglichen. Die Angaben der Gegenseite zur Übergabe am [[date|1. Juni 2023]] weichen von Ihren ab.
 
-Ich schlage vor, dass Sie die Fotos der Wohnung vom Übergabetag vorlegen. Bitte schicken Sie mir auch die Kopie des Mietvertrages, damit ich die Angaben zur Kaution prüfen kann. Die Gegenseite beruft sich außerdem auf eine Vereinbarung mit [[person|Lilo Gmoser]], die uns noch nicht vorliegt.
+Ich schlage vor, dass Sie die Fotos der Wohnung vom Übergabetag vorlegen. Die Kaution wurde nach Ihren Angaben auf das Konto IBAN [[bank_account|AT24 2527 4241 5975 7515]] der Gegenseite überwiesen. Bitte schicken Sie mir auch die Kopie des Mietvertrages, damit ich die Angaben zur Kaution prüfen kann. Die Gegenseite beruft sich außerdem auf eine Vereinbarung mit [[person|Lilo Gmoser]], die uns noch nicht vorliegt.
 
 Mit freundlichen Grüßen
 

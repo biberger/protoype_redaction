@@ -46,6 +46,8 @@ Die Barauslagen setzen sich wie folgt zusammen: Grundbuchsabfrage EUR 36,00; Ein
 
 Bei Zahlung nach Ablauf der Frist behalten wir uns Verzugszinsen nach den gesetzlichen Bestimmungen vor. Wir bitten um Verständnis, dass wir bei Rückfragen zur Honorarnote die Angaben unseres Büros heranziehen, da die Abrechnung über das Kanzleisystem erfolgt.
 
+Wir danken für Ihren Auftrag und stehen für weitere Rückfragen gerne zur Verfügung.
+
 Mit freundlichen Grüßen
 
 [[person|Sofija Dr. Schwarzenberger]]

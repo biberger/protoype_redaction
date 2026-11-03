@@ -56,6 +56,10 @@ Die Erbin [[person|Altmann]] hat in der Tagsatzung vom [[date|23.06.2026]] angeg
 
 Die Erbantrittserklärungen liegen vor. Die Erben haben das Inventar am [[date|30.06.2026]] übernommen. Die Pflichtteilsansprüche wurden nicht geltend gemacht. Der Notar hat die Erben über die Möglichkeit der bedingten Erbantrittserklärung belehrt.
 
+Die Erbin [[person|Altmann]] und der Vermächtnisnehmer [[person|Ficker]] haben am [[date|08.07.2026]] vereinbart, die Eigentumswohnung gemeinsam zu übernehmen, soweit das Vermächtnis dies vorsieht. Die Übergabe der Schlüssel erfolgte am selben Tag im Beisein des Notars. Ein Protokoll über den Zustand der Wohnung wurde angefertigt und den Parteien übermittelt.
+
+Der Notar weist darauf hin, dass die Erbantrittserklärung der Erbin [[person|Spiel]] mangels Volljährigkeit erst mit Zustimmung des gesetzlichen Vertreters wirksam wird. Diese Zustimmung wurde am [[date|02.07.2026]] vorgelegt.
+
 Telefonische Auskunft: Tel. [[phone_number|+43 5572 996 22 72-52]].
 
 [[address|9141 Eberndorf]], am [[date|14.07.2026]]

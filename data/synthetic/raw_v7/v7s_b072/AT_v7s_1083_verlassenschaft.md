@@ -53,6 +53,8 @@ Der Nachlass wurde bei der Bewertung nach dem Verkehrswert der Liegenschaft ange
 
 Die Einantwortung erfolgt nach Ablauf der Fristen. Der Notar wird den Erben die Urkunde nach Vorlage der Abgabenbestätigung übermitteln.
 
+Die Erben wurden darauf hingewiesen, dass die Abgabe einer unbedingten Erbantrittserklärung nach Ablauf der Inventarfrist nicht mehr widerrufen werden kann. Die Erbin [[person|Tjeerdsma]] hat erklärt, sie nehme die Erbschaft unbedingt an, während [[person|Stolojan]] die bedingte Erbantrittserklärung wählte.
+
 Ausgefertigt am [[date|30.09.2026]] in [[location|Statzendorf]].
 
 [[person|Feigl]]

@@ -48,6 +48,16 @@ IV. Gewährleistung
 
 Die Verkäufer haften für die Richtigkeit der Angaben über die Liegenschaft. Eine Gewährleistung für Mängel des Gebäudes wird ausgeschlossen, soweit sie nicht arglistig verschwiegen wurden.
 
+IV a. Belastungen und Vorkaufsrechte
+
+Die Verkäufer erklären, dass auf der Liegenschaft [[land_register_id|EZ. 1585]] ein Pfandrecht zugunsten der [[organization|HYPO NOE Landesbank für Niederösterreich und Wien AG]] im Höchstbetrag von EUR 180.000,00 eingetragen ist. Dieses Pfandrecht wird aus dem Kaufpreis gelöscht. Die Löschungsurkunde ist vor der Auszahlung des Kaufpreises an die Treuhänderin zu übergeben.
+
+Ein Vorkaufsrecht zugunsten der Gemeinde ist nicht eingetragen. Die Verkäufer haben die Gemeinde dennoch vorab über den Verkauf informiert; die Gemeinde hat mit Schreiben vom [[date|10.04.2026]] auf die Ausübung verzichtet.
+
+Die Verkäufer [[person|Dosta Yankova]] und [[person|Christo Hochsinger]] haben ihre Anteile am Zubehör [[land_register_id|EZ: 3388]] mit Kaufvertrag vom [[date|22.11.2019]] erworben; die Eintragung im Grundbuch ist noch nicht berichtigt. Die Verkäufer bestätigen, dass sie über diesen Umstand informiert sind und dass die Berichtigung vor der Verbücherung nachzuholen ist.
+
+Die Verkäufer [[person|Owoc]] und [[person|Yankova]] erklären, dass keine Mietverträge bestehen, außer einem Mietverhältnis über die Garage im Hof, das bis zum [[date|31.10.2026]] befristet ist und vom Käufer übernommen wird. Die Mieter sind über den Eigentumswechsel zu informieren.
+
 V. Schlussbestimmungen
 
 Änderungen dieses Vertrages bedürfen der Schriftform. Sollte eine Bestimmung unwirksam sein, bleibt der Vertrag im Übrigen wirksam.

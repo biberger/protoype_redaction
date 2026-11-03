@@ -67,6 +67,10 @@ Die Abrechnung gegenüber der Klientin war unvollständig; dies stellt einen eig
 
 Mildernd wirkt die Ergänzung des Fehlbetrages und die bisherige Unbescholtenheit. Erschwerend ist die Mehrzahl der Vorgänge und die verspätete Abrechnung. Eine Geldbuße von EUR 3.000,00 erscheint tat- und schuldangemessen. Eine Streichung aus der Liste war nicht erforderlich, weil die Beschuldigte die Vorwürfe nicht in Abrede stellt und keine weiteren Verstöße bekannt sind.
 
+Der Senat hat weiter berücksichtigt, dass die Beschuldigte im Verfahren zunächst einen Vergleich über die Rückzahlung angeboten, diesen jedoch nach wenigen Tagen wieder zurückgezogen hat. Der Vergleichsvorschlag vom [[date|04.12.2025]] sah eine Rückzahlung der Beträge in drei Raten vor. Die Beschwerdeführerin [[person|Kassar]] hat den Vorschlag abgelehnt, weil die Raten erst nach einem Jahr vollständig geleistet worden wären.
+
+Die Beschwerdeführerin [[person|Gschaider]] hat in der Verhandlung ausgeführt, dass sie die Verwendung der Gelder durch die Beschuldigte als Vertrauensbruch empfinde. Der Senat hat diese persönliche Betroffenheit nicht als Umstand gewertet, der die Strafe erhöht, sondern die objektive Pflichtverletzung in den Vordergrund gestellt.
+
 6. Kosten
 
 Die Kostenentscheidung stützt sich auf [[legal_norm|§ 52 Abs 1 RAO]]. Die Beschwerdeführerinnen haben Anspruch auf Ersatz der Kosten für ihre Vertretung nicht erhoben.

@@ -61,6 +61,10 @@ Die Mietkosten für die Ersatzwohnung betragen EUR 780,00 monatlich und wurden s
 
 Die Reparaturkosten laut Angebot der [[organization|Peer Haustechnik GmbH]] vom [[date|08.10.2024]] betragen EUR 6.250,00 netto. Diese Position ist im Streitwert enthalten.
 
+Die Klägerin [[person|Shah]] hat den Schaden an den Möbeln im Erdgeschoß auf EUR 2.100,00 geschätzt. Eine Fotodokumentation der beschädigten Möbel vom [[date|23.09.2024]] liegt vor. Die Beklagte hat die Möbel bislang nicht besichtigt, obwohl sie dazu mehrfach aufgefordert wurde.
+
+Die Zeugin [[person|Mayr]] wird zudem zur Frage vernommen, ob die Feuchtigkeit im Mauerwerk auf die Wasserleitung oder auf früher bestehende Schäden zurückzuführen ist. Die Klägerinnen gehen davon aus, dass die Zeugin diese Frage nach ihrer Fachkenntnis beantworten kann.
+
 IV. Anträge
 
 Die Klägerinnen stellen den Antrag, die Beklagte sei schuldig, ihnen binnen 14 Tagen den Betrag von EUR 14.300,00 samt 4 % Zinsen seit dem [[date|14.09.2024]] zu bezahlen. Die Kosten des Verfahrens sind der Beklagten aufzuerlegen.

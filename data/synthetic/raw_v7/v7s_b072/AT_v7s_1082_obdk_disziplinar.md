@@ -33,7 +33,7 @@ Datum | Vorgang | Betrag in EUR | Klient
 
 Der Beschuldigte gibt an, die Auszahlung an [[organization|Zartl]] sei aufgrund einer mündlichen Weisung erfolgt, die er telefonisch vom Geschäftsführer der [[organization|Zartl]] erhalten habe. Die Weisung sei jedoch nicht schriftlich festgehalten worden, weil man sich seit Jahren kenne. Der Senat sieht darin keine ausreichende Grundlage, weil keine Weisung dokumentiert ist.
 
-Die Beschwerdeführer haben die Verfahrensschritte bestätigt. [[person|Hirt]] gab an, er habe die Abrechnung erst nach der Anfrage der Kammer erhalten.
+Die Beschwerdeführer haben die Verfahrensschritte bestätigt. Der Beschwerdeführer [[person|Hančik]] hat zudem angegeben, die Zahlung an die Gegenseite sei ohne sein Wissen erfolgt, und er habe davon erst durch die Kontoauszüge der Kammer erfahren. [[person|Hirt]] gab an, er habe die Abrechnung erst nach der Anfrage der Kammer erhalten.
 
 Der Senat hat die Kontoauszüge des Treuhandkontos für den gesamten Zeitraum vom [[date|14.03.2022]] bis zum [[date|07.02.2023]] geprüft. Dabei zeigte sich, dass der Saldo zu keinem Zeitpunkt die Summe der noch offenen Klientenansprüche erreichte. Die Verteidigung hat dazu vorgebracht, die Zahlung an [[organization|Zartl]] sei durch eine Forderung aus einem früheren Auftrag gedeckt gewesen. Eine solche Forderung wurde nicht nachgewiesen; eine Rechnung der [[organization|Zartl]] liegt nicht vor, und die Gesellschaft hat in ihrer Erklärung vom [[date|18.11.2025]] das Gegenteil bestätigt.
 

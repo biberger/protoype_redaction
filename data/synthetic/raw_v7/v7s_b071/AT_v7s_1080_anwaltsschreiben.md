@@ -44,7 +44,9 @@ Die Käuferin hat der Kanzlei eine Zusammenfassung der Korrespondenz übergeben.
 
 Die Bezirkshauptmannschaft wird um Auskunft gebeten, ob im Zusammenhang mit der Liegenschaft ein Bauverfahren anhängig ist, das die Übergabe beeinflussen könnte. Wir haben dazu keine Informationen erhalten.
 
-Die Käuferin ist auf die Liegenschaft angewiesen, weil sie dort ihren Hauptwohnsitz begründen wollte und die Kinder bereits in der Schule angemeldet hat. Wir sind bereit, eine einvernehmliche Lösung zu prüfen, sofern die [[organization|BIG]] bis zum genannten Termin einen konkreten Übergabetermin nennt und die Kosten der Zwischenunterbringung übernimmt.
+Die Käuferin hat die Kaution auf das Konto IBAN [[bank_account|AT33 5087 2190 4531 0474]] der [[organization|BIG]] überwiesen. Sie ist auf die Liegenschaft angewiesen, weil sie dort ihren Hauptwohnsitz begründen wollte und die Kinder bereits in der Schule angemeldet hat. Wir sind bereit, eine einvernehmliche Lösung zu prüfen, sofern die [[organization|BIG]] bis zum genannten Termin einen konkreten Übergabetermin nennt und die Kosten der Zwischenunterbringung übernimmt.
+
+Sollte die Bezirkshauptmannschaft für die Angelegenheit nicht zuständig sein, bitten wir um Weiterleitung an die zuständige Behörde und um Mitteilung des Aktenzeichens. Wir haben uns bemüht, den Sachverhalt vollständig darzustellen, und stellen die Unterlagen gerne zur Verfügung. Die Käuferin erwartet eine Rückmeldung innerhalb der genannten Frist, um die weiteren Schritte festzulegen, insbesondere eine Klage vor dem zuständigen Gericht.
 
 Wir ersuchen Sie, uns bis zum [[date|16. November 2026]] mitzuteilen, ob Sie die Angelegenheit prüfen. Für Rückfragen steht Ihnen unser Büro unter Tel. [[phone_number|0732/8554827-0]] zur Verfügung.
 

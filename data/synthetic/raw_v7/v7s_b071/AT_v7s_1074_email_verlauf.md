@@ -38,7 +38,7 @@ Das [[court|Bezirksgericht Mödling]] ist nach unserer Einschätzung zuständig,
 
 Ihr Kollege [[person|Holaubek]] wird die Korrespondenz mit der Gegenseite übernehmen. Er hat die Akte bereits unter Kl.-Nr. [[other_identifier|23308]] angelegt.
 
-Die Frist ist aus meiner Sicht angemessen. Ich bitte um kurze Rückmeldung zu den offenen Punkten, damit wir die Klage bei Bedarf vorbereiten können. Der Termin für die Besprechung in unseren Räumen in [[location|Brixlegg]] wird noch mitgeteilt.
+Ich bin mit dieser Vorgehensweise einverstanden und bitte um eine kurze Bestätigung dazu und werde die Unterlagen so rasch wie möglich zusammenstellen. Die Frist ist aus meiner Sicht angemessen. Ich bitte um kurze Rückmeldung zu den offenen Punkten, damit wir die Klage bei Bedarf vorbereiten können. Der Termin für die Besprechung in unseren Räumen in [[location|Brixlegg]] wird noch mitgeteilt.
 
 Mit freundlichen Grüßen
 

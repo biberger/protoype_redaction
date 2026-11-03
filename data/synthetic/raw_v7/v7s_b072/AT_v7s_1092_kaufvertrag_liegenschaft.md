@@ -42,7 +42,7 @@ Die Kanzlei [[person|Teissl]] wurde als Treuhänderin bestellt. Die Treuhandbuch
 
 IV. Aufsandungserklärung
 
-Die Verkäufer erteilen dem Käufer die Einwilligung in die Einverleibung des Eigentumsrechtes und bewilligen diese Einverleibung. Die Aufsandungserklärung ist unwiderruflich und wird vor dem Notar [[person|Kostka]] beglaubigt.
+Die Verkäufer erteilen dem Käufer die Einwilligung in die Einverleibung des Eigentumsrechtes und bewilligen diese Einverleibung. Die Aufsandungserklärung ist unwiderruflich und wird vor einem Notar beglaubigt.
 
 Die Verkäufer bestätigen, dass im Grundbuch keine Pfandrechte zugunsten Dritter eingetragen sind, außer einem Pfandrecht der [[organization|Lantschner]], das mit dem Kaufpreis gelöscht wird.
 
@@ -57,6 +57,14 @@ Die Verkäufer haben dem Käufer die letzte Betriebskostenabrechnung für das Ja
 VI. Kosten und Steuern
 
 Die Grunderwerbsteuer und die Eintragungsgebühr trägt der Käufer. Die Kosten der Vertragserrichtung teilen sich die Parteien zu gleichen Teilen.
+
+VI a. Vorkaufsrecht und Vollmacht
+
+Die Verkäufer bestätigen, dass kein Vorkaufsrecht zugunsten Dritter im Grundbuch angemerkt ist. Der Verkäufer [[person|Wandruszka]] hat zudem dem Rechtsanwalt [[person|Kostka]] eine Vollmacht erteilt, die Vertragsurkunde im Namen der Verkäufer zu unterfertigen, soweit diese am Termin verhindert sind. Die Vollmacht vom [[date|15.04.2026]] ist diesem Vertrag beigeschlossen.
+
+Die Liegenschaft wurde im Jahr 1998 von einer Erbengemeinschaft erworben, deren Anteile später zwischen den Verkäufern aufgeteilt wurden. Die Verkäuferin [[person|Bohatsch]] bestätigt, dass ihr Anteil nicht belastet ist und dass keine Ansprüche von Angehörigen bestehen. Über die Erbfolge liegen die Einantwortungsurkunden vom [[date|03.06.1999]] vor.
+
+Der Käufer [[person|Boeken]] hat die Liegenschaft vor Vertragsabschluss besichtigt und den Zustand des Daches sowie der Heizungsanlage geprüft. Ein Gutachten wurde nicht eingeholt. Der Käufer verzichtet auf Ansprüche wegen erkennbarer Mängel, die er bei der Besichtigung festgestellt hat.
 
 VII. Schlussbestimmungen
 

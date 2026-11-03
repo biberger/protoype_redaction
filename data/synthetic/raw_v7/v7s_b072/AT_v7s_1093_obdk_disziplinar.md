@@ -80,6 +80,14 @@ Der Senat hat außerdem erwogen, ob die Verwendung der Gelder für die Gerichtsk
 
 Mildernd wirkt die Rückzahlung der Beträge an den Klienten und die bisherige Unbescholtenheit. Erschwerend wirken die Dauer der Abrechnungsverzögerung von neun Monaten und die Verwendung des Treuhandgeldes für eigene Zwecke. Der Senat erachtet unter Abwägung dieser Umstände eine Geldbuße von EUR 5.000,00 für angemessen. Die Streichung aus der Liste der Rechtsanwälte war nicht erforderlich.
 
+Bei der Bemessung der Geldbuße wurde auch die wirtschaftliche Lage des Beschuldigten berücksichtigt. Dieser hat angegeben, er führe eine Einzelkanzlei mit zwei Teilzeitkräften und habe im Jahr 2025 ein Einkommen von rund EUR 48.000,00 vor Steuern erzielt. Der Senat sieht in dieser Angabe keinen Grund, die Geldbuße unter den erforderlichen Betrag zu senken, weil die Pflichtverletzung nicht geringfügig war.
+
+Die Kammeranwältin [[person|Lederer]] hatte in der Verhandlung eine Geldbuße von EUR 6.000,00 beantragt. Der Senat hat dem Antrag nicht in vollem Umfang entsprochen, weil die Rückzahlung der Gelder an den Klienten zu einem früheren Zeitpunkt erfolgte, als im Antrag angenommen wurde.
+
+Der Senat hat den Beschuldigten zudem darauf hingewiesen, dass künftige Verstöße gegen die Pflicht zur Verwahrung fremder Gelder eine Streichung aus der Liste der Rechtsanwälte nach sich ziehen können. Der Hinweis ist Teil der Begründung und wurde in der Verhandlung mit dem Beschuldigten erörtert.
+
+Die Entscheidung über die Berufung ist einstimmig ergangen. Der Vorsitzende hat die Gründe in der Verhandlung mündlich dargelegt, bevor die schriftliche Ausfertigung erstellt wurde.
+
 6. Kosten
 
 Die Kostenentscheidung stützt sich auf [[legal_norm|§ 52 Abs 1 RAO]]. Der Beschuldigte hat den Verfahrensaufwand der Berufungsinstanz zu tragen. Die Kosten der Kammer werden pauschal bemessen.

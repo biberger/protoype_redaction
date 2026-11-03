@@ -56,6 +56,12 @@ Die Beklagte beantragt die Einvernahme des Zeugen [[person|Peev]] zum Verlauf de
 
 Die Klägerin hat ihre Forderung zudem nicht beziffert, soweit sie Zinsen begehrt. Die Beklagte bestreitet die Zinsberechnung ausdrücklich und verweist auf die Tatsache, dass vor der Klage keine Mahnung zugestellt wurde. Die Zustellung einer Mahnung ist eine Voraussetzung für den Verzugszins.
 
+Zur Klage im Einzelnen ist zu bemerken, dass die Klägerin [[person|Zaharopoulos]] in der Klage keine Angaben zur Form der behaupteten Übergabe macht. Ein Übergabedatum fehlt ebenso wie die Zeugen der Übergabe. Die Beklagte hat die Gartenpflege im Jahr 2025 über acht Monate hinweg erbracht und dafür eine Entlohnung erhalten, die im Schreiben der Klägerin vom [[date|19.08.2025]] ausdrücklich anerkannt wurde.
+
+Die Klägerin hat im Schreiben vom [[date|19.08.2025]] zudem geschrieben, sie wolle die Beträge "verrechnen", was voraussetzt, dass eine Gegenforderung der Beklagten bestanden hat. Diese Gegenforderung wird hiermit geltend gemacht und ist im Streitwert nicht enthalten; sie wird vorsorglich bis zur Höhe von EUR 2.400,00 erhoben.
+
+Die Beklagte hat außerdem die Mitwirkung des Nachbarn [[person|Peev]] an der Gartenarbeit bestätigt. Der Zeuge hat die Beklagte bei der Entsorgung des Grünschnitts unterstützt, wie aus der Rechnung des Entsorgungsunternehmens vom [[date|27.09.2025]] ersichtlich ist.
+
 IV. Anträge
 
 Die Beklagte stellt den Antrag, das Klagebegehren abzuweisen und der Klägerin die Kosten des Verfahrens aufzuerlegen.
