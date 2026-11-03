@@ -565,6 +565,12 @@ def test_relabel_production_conventions():
                    "Disziplinarrat der Rechtsanwaltskammer Wien": "court", "Österreich": "country",
                    "Luxembourg": "location", "Alabama": "location", "Dr. Max Huber": "person"}
     assert all(s["text"] == t[s["start"]:s["end"]] for s in relabel(rec)["spans"])
+    t2 = "Anna Berger, *1970, und Max Berger, * 03.05.1958"
+    rec2 = {"text": t2, "lang": "de", "spans": [{"label": "date_of_birth", "start": t2.index("*1970"), "end": t2.index("*1970") + 5,
+            "text": "*1970"}, {"label": "date", "start": t2.index("* 03"), "end": len(t2), "text": "* 03.05.1958"}]}
+    out = relabel(rec2)["spans"]
+    assert [s["text"] for s in out] == ["1970", "03.05.1958"] and all(s["label"] == "date_of_birth" for s in out)
+    assert all(s["text"] == t2[s["start"]:s["end"]] for s in out)
 
 
 def test_roles_not_queried_and_derived_labels_follow_coverage():

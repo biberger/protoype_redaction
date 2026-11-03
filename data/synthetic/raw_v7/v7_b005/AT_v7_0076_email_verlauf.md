@@ -4,7 +4,7 @@ jurisdiction: AT
 lang: de
 ---
 Ö f f e n t l i c h e   N o t a r e
-[[organization|S E I P E L ,   E R K I N G E R ,   E N D L ,   B I T T E R]]
+[[person|S E I P E L]] ,   [[person|E R K I N G E R]] ,   [[person|E N D L]] ,   [[person|B I T T E R]]
 [[address|Dürrnbergerstraße 26, 2852 Hochneukirchen-Gschaidt]]
 T: [[phone_number|0732 357472]]  F: [[phone_number|+43-2622-2374931 Durchwahl 96]]
 E: [[email|office@seipel.at]]  W: www.seipel.at
@@ -12,7 +12,7 @@ E: [[email|office@seipel.at]]  W: www.seipel.at
 [[organization|Raiffeisenbank Hochneukirchen-Gschaidt registrierte Genossenschaft mit beschränkter Haftung]] IBAN: [[bank_account|AT68 8476 0834 7824 0900]] BIC: [[bank_account|OBKLAT2L]]
 ERV-Code: [[other_identifier|P986724]]
 
-Betreff: Kaufvertrag Hochneukirchen, Objekt [[land_register_id|GB 20546 Gleisdorf]] / [[land_register_id|E.Z. 3201]] [[land_register_id|Gst.Nr. 46/16]]
+Betreff: Kaufvertrag [[location|Hochneukirchen]], Objekt [[land_register_id|GB 20546 Gleisdorf]] / [[land_register_id|E.Z. 3201]] [[land_register_id|Gst.Nr. 46/16]]
 
 Von: [[person|Dominic Spitzmüller]] <[[email|d.spitzmueller@mailbox-hoertnagl.at]]>
 Gesendet: Montag, [[date|3. März 2025]] 09:14

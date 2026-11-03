@@ -234,14 +234,16 @@ Applied to existing data by `legalner/relabel.py` when records are read; new doc
 
 31. Disciplinary bodies of the professional chambers that decide cases are `court`: "[[court|Oberste Berufungs- und
     Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]]", "[[court|OBDK]]", "[[court|Disziplinarrat
-    der Rechtsanwaltskammer für Steiermark]]", "Disziplinarsenat". Courts and these bodies stay visible in production.
+    der Rechtsanwaltskammer für Steiermark]]". The bare generic word ("der Disziplinarrat", "der Disziplinarsenat")
+    stays untagged like "das Gericht" (decision 6). Courts and these bodies stay visible in production.
 32. Countries are `country`, whether territory or party (replaces the party case of decision 25): "in
     [[country|Österreich]]", "[[country|Republik Österreich]] als beklagte Partei", "Staatsangehöriger von
     [[country|Syrien]]", "Wałęsa c. [[country|Pologne]]". Governments stay `organization` ("die [[organization|
     österreichische Regierung]]"). Luxembourg/Luxemburg alone is the city (`location`); the state is
     "[[country|Großherzogtum Luxemburg]]".
 33. A date of birth is `date_of_birth`, not `date`: "geb. [[date_of_birth|14.07.1983]]", "geboren am
-    [[date_of_birth|5. Mai 1993]]", "Geburtsdatum: [[date_of_birth|03.05.1958]]", "[[date_of_birth|*1970]]",
+    [[date_of_birth|5. Mai 1993]]", "Geburtsdatum: [[date_of_birth|03.05.1958]]", "*[[date_of_birth|1970]]" (the asterisk is a cue
+    like "geb." and stays outside; read time strips a leading "*" from older spans),
     "né le [[date_of_birth|18 avril 1988]]". A year of birth alone is also `date_of_birth`. All other dates stay `date`.
 34. Postcode and place without a street are one `address` span: "[[address|1010 Wien]]", "[[address|A-4020 Linz]]",
     "Postfach 412, [[address|3001 Bern]]". With a street the whole line stays one address as before.

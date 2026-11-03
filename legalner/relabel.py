@@ -96,7 +96,7 @@ def relabel(rec):
         lab = s["label"]
         if lab in ("location", "organization") and _norm(s["text"]) in COUNTRIES:
             s["label"] = "country"
-        elif lab == "date" and BIRTH_CUE.search(text[max(0, s["start"] - 40):s["start"]]):
+        elif lab == "date" and (s["text"][:1] == "*" or BIRTH_CUE.search(text[max(0, s["start"] - 40):s["start"]])):
             s["label"] = "date_of_birth"
         elif lab == "organization" and DISCIPLINARY.search(s["text"]):
             s["label"] = "court"
@@ -105,6 +105,9 @@ def relabel(rec):
             if m and not any(covered[s["end"]:m.end()]):
                 s["end"] = m.end()
                 s["text"] = text[s["start"]:s["end"]]
+        if s["label"] == "date_of_birth" and s["text"][:1] == "*":  # "*" is a birth cue like "geb." (decision 33)
+            k = len(s["text"]) - len(s["text"][1:].lstrip())
+            s.update(start=s["start"] + k, text=s["text"][k:])
         if s["label"] == "location" and rec.get("lang") in ("de", "fr"):  # English years: "May 28, 2012 Camden"
             line_start = text.rfind("\n", 0, s["start"]) + 1
             m = POSTCODE.search(text[max(line_start, s["start"] - 16):s["start"]])

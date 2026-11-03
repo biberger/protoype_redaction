@@ -28,7 +28,7 @@ Die Erbin [[person|Olivia Mag. Schoiswohl]] gab an, dass der Erblasser Anteile a
 Das Vermögen laut Aufstellung:
 
 Datum | Beschreibung | Betrag
-[[date|11.04.2026]] | Mietzins Wohnung Waidhofen | 486,20 EUR
+[[date|11.04.2026]] | Mietzins Wohnung [[location|Waidhofen]] | 486,20 EUR
 [[date|02.02.2026]] | Guthaben Girokonto, Bankverbindung [[bank_account|AT74 3130 9743 2874 0838]] | 2.614,75 EUR
 [[date|02.02.2026]] | Anteil an der [[organization|WKG]] laut Bilanz | 12.000,00 EUR
 

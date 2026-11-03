@@ -21,7 +21,7 @@ brief's "file" field.
    - persons: use the name as given; when "date_of_birth" is given write birth_cue + date_of_birth and tag the date as
      [[date_of_birth|…]] (not date); when "degree_position" is "between", write the degree between given name and
      surname inside the one person span (given name, degree, surname); "nationality" is a [[country|…]].
-   - court, company (name, FN as company_register_number, UID as tax_id), iban, svnr, plate as far as the document
+   - court, company (name, FN as company_register_number, UID as tax_id), iban, svnr (of its "holder"), plate as far as the document
      type plausibly contains them.
    - Every hard case listed in the brief must occur, written with the brief's own cast (no names of your own
      invention for them, no example names from any instruction).

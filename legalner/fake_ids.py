@@ -30,11 +30,12 @@ def iban_is_valid(value):
 SVNR_WEIGHTS = (3, 7, 9, 0, 5, 8, 4, 2, 1, 6)
 
 
-def svnr(rng=random):
-    """Austrian SV-Nummer: 3-digit serial, check digit, birth date DDMMYY."""
+def svnr(rng=random, dob=None):
+    """Austrian SV-Nummer: 3-digit serial, check digit, birth date DDMMYY (`dob` fixes the date part)."""
+    fixed = dob
     while True:
         serial = f"{rng.randint(100, 999)}"
-        dob = f"{rng.randint(1, 28):02d}{rng.randint(1, 12):02d}{rng.randint(0, 99):02d}"
+        dob = fixed or f"{rng.randint(1, 28):02d}{rng.randint(1, 12):02d}{rng.randint(0, 99):02d}"
         digits = [int(c) for c in serial + "0" + dob]
         check = sum(w * d for w, d in zip(SVNR_WEIGHTS, digits)) % 11
         if check < 10:

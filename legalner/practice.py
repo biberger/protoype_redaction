@@ -139,9 +139,11 @@ def law_firm(gaz, rng, notary=False):
     if rng.random() < 0.3:
         firm = " & ".join(partners[:2])
     letter_spaced = rng.random() < 0.2
-    shown = " ".join(firm.upper()) if letter_spaced else firm
-    lines = [f"{' '.join(form) if letter_spaced else form}", _t("organization", shown) if "GmbH" in form or "OG" in form
-             else ", ".join(_t("person", p) for p in partners) if not letter_spaced else _t("organization", shown)]
+    sp = (lambda x: " ".join(x.upper())) if letter_spaced else (lambda x: x)
+    # a firm with a legal form is one organization; a list of partner names is one person span per name (decision 40)
+    names = _t("organization", sp(firm)) if "GmbH" in form or "OG" in form else \
+        (" ,   " if letter_spaced else ", ").join(_t("person", sp(p)) for p in partners)
+    lines = [f"{' '.join(form) if letter_spaced else form}", names]
     lines.append(f"{_t('address', f'{street} {rng.randint(1, 60)}, {pc} {town}')}")
     lines.append(f"T: {_t('phone_number', tel)}  F: {_t('phone_number', fax)}")
     lines.append(f"E: {_t('email', f'office@{domain}.at')}  W: www.{domain}.at")
@@ -270,6 +272,16 @@ PROFILE = {
 }
 
 
+def _svnr(rng, persons):
+    """An SV-Nummer whose date part matches the holder's stated date of birth."""
+    for p in persons:
+        m = re.fullmatch(r"(\d\d)\.(\d\d)\.\d\d(\d\d)|(\d{4})-(\d\d)-(\d\d)", p.get("date_of_birth", ""))
+        if m:
+            d, mo, y = (m[1], m[2], m[3]) if m[1] else (m[6], m[5], m[4][2:])
+            return {"holder": p["name"], "value": F.svnr(rng, dob=f"{d}{mo}{y}")}
+    return None
+
+
 def _court(rng, kind):
     if kind == "bg":
         b = rng.choice(BEZIRKSGERICHTE)
@@ -324,7 +336,7 @@ def brief(gaz, rng, doc_type, idx, wave):
         "company": {"name": f"{transliterate(gaz.last_name('AT'))} {rng.choice(['GmbH', 'Bau GmbH', 'Immobilien GmbH', 'KG', 'e.U.', 'Handels GmbH'])}",
                     "register": F.fn(rng), "uid": F.uid_at(rng)} if rng.random() < pr["company"] else None,
         "iban": F.iban("AT", rng) if rng.random() < pr["iban"] else None,
-        "svnr": F.svnr(rng) if rng.random() < pr["svnr"] else None,
+        "svnr": _svnr(rng, persons) if rng.random() < pr["svnr"] else None,
         "plate": F.license_plate("AT", rng) if rng.random() < pr["plate"] else None,
         "verbatim": verbatim, "notes": notes, "hard_cases": [HARD[h] for h in hard],
     }

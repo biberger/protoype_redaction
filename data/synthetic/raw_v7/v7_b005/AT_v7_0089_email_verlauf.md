@@ -37,7 +37,7 @@ Sehr geehrter Herr [[person|Wöber]],
 
 vielen Dank für Ihre Nachricht. Die Schenkung ist nach dem Gesetz nur wirksam, wenn sie notariell beurkundet wird. Die Liegenschaft [[land_register_id|E.Z. 722]] Katastralgemeinde [[land_register_id|Wildschönau]]; Grundstück [[land_register_id|438]] ist davon betroffen.
 
-Die Oesterreicher Immobilien GmbH ([[company_register_number|FN 541757b]], UID: [[tax_id|ATU46201462]]) hat die Ablöse bereits an die Verkäuferin gezahlt. Die Zahlung erfolgte auf IBAN [[bank_account|AT88 4390 8872 0946 7253]].
+Die [[organization|Oesterreicher Immobilien GmbH]] ([[company_register_number|FN 541757b]], UID: [[tax_id|ATU46201462]]) hat die Ablöse bereits an die Verkäuferin gezahlt. Die Zahlung erfolgte auf IBAN [[bank_account|AT88 4390 8872 0946 7253]].
 
 Treuhandschaft Nr. [[other_identifier|2018/322]]
 Klientennummer: [[other_identifier|54784]]
