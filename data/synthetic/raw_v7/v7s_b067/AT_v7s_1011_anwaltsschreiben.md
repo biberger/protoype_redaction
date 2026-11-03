@@ -43,6 +43,8 @@ Nach [[legal_norm|§ 7 EKHG]] haftet der Halter des Fahrzeugs verschuldensunabh�
 
 Wir fordern Sie auf, bis spätestens [[date|10. Oktober 2026]] die Haftung dem Grunde nach anzuerkennen und die bisher angefallenen Kosten zu erstatten. Ein Vorschuss von EUR 3.500,00 wird im Falle der Anerkennung umgehend erbeten. Ersuchen Sie uns vorher um eine Kopie des Unfallberichts, so senden wir diese gerne zu.
 
+Ein Schmerzengeldanspruch besteht nach den Verletzungsfolgen für die Dauer von rund sechs Wochen mit erheblichen Schmerzen sowie für den Zeitraum der Heilbehandlung. Die Begutachtung durch einen gerichtlich beeideten Sachverständigen wird im Falle der Nichteinigung beantragt werden. Bis dahin reservieren wir sämtliche Ansprüche auf Ersatz künftiger Schäden, insbesondere auf Verdienstentgang, falls die Beschwerden anhalten sollten. Die Mandantin ist seit dem Unfall in psychologischer Behandlung wegen Angstzuständen im Straßenverkehr; die Kosten dafür werden gesondert belegt.
+
 Wir stellen klar, dass unsere Mandantin auf eine rasche Regulierung angewiesen ist, da sie die laufenden Kosten für Medikamente und Fahrten zur Physiotherapie selbst tragen muss. Die Fahrtkosten zur Physiotherapie betragen bisher EUR 610,00.
 
 Sollte eine Einigung nicht möglich sein, behalten wir uns die Klage vor dem zuständigen Gericht vor, ohne dass dies einer weiteren Mahnung bedarf.

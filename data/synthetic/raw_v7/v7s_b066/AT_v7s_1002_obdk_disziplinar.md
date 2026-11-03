@@ -67,6 +67,16 @@ Als mildernd berücksichtigte der Senat, dass die Rechtsanwältin bisher nicht d
 
 Die Geldbuße von EUR 2.500,00 entspricht diesen Umständen. Eine Streichung von der Liste wurde nicht beantragt und ist nicht erforderlich.
 
+IV a. Mildernde und erschwerende Umstände im Einzelnen
+
+Die Rechtsanwältin hat den Restbetrag von EUR 1.100,00 erst nach der Mahnung des Kammeranwalts ausbezahlt, obwohl der Klient bereits im April 2026 um die Auszahlung ersucht hatte. Der Senat wertet diese Verzögerung als erschwerend, weil die Gelder bis zur Mahnung ohne sachlichen Grund zurückgehalten wurden.
+
+Zugunsten der Rechtsanwältin fällt ins Gewicht, dass sie die Abrechnung nachträglich erstellt hat und an der Aufklärung des Sachverhalts mitgewirkt hat, indem sie die Unterlagen der Kanzlei vorlegte. Der Senat berücksichtigt außerdem, dass die Rechtsanwältin in den vergangenen Jahren zahlreiche Mandate für Pflegschaften übernommen hat, die sie ordnungsgemäß abgewickelt hat.
+
+Der Senat hat geprüft, ob eine Löschung aus der Liste der Rechtsanwälte in Betracht kommt. Er verneint dies, weil der Verstoß nicht den Kernbereich des Treuhandgeschäfts betrifft, sondern die verspätete Abrechnung und die Entnahme ohne Auftrag. Die Verhältnismäßigkeit spricht daher für eine Geldbuße.
+
+Die Zustellung an den Kammeranwalt und an den Klienten erfolgt durch die Kammer. Eine Ausfertigung des Spruches erhält auch die [[organization|VTG]] zur Kenntnis.
+
 V. Kosten
 
 Die Kosten des Verfahrens trägt die Rechtsanwältin, soweit der Senat nicht anders entscheidet. Die Gebühren des Kammeranwalts sind mit dem Pauschalbetrag abgegolten.

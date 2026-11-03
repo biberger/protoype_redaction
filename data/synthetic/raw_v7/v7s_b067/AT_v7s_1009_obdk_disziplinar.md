@@ -62,6 +62,8 @@ Die Pflicht zur getrennten Verwahrung gilt unabhängig davon, ob der Rechtsanwal
 
 Die Rechtsprechung des [[court|OBDK]] sieht bei vergleichbaren Fällen, in denen Treuhandgelder ohne Auftrag verwendet wurden, Geldbußen zwischen 5.000 und 15.000 Euro vor. Ein Ausschluss kommt bei vollständiger Schadensgutmachung nur in Betracht, wenn weitere Verstöße hinzutreten. Der Senat bewertet die Verletzung als schwerwiegend, aber nicht so gravierend, dass die Ausschließung geboten wäre.
 
+Der Senat berücksichtigt ferner, dass die Klientin in einer persönlich schwierigen Lage war, da sie die Liegenschaft für ihre Familie erwerben wollte und der Verlust der Anzahlung sie wirtschaftlich stark belastete. Die Verantwortung des Beschuldigten als Rechtsanwalt wiegt dadurch schwerer, weil die Klientin auf die Treuhand vertraut hatte und keine andere Sicherung besaß.
+
 Zur Strafbemessung ist festzuhalten, dass der Beschuldigte bisher disziplinär unbescholten ist und den Schaden später ersetzt hat. Erschwerend wirkt der lange Zeitraum, in dem die Klientin ohne Information blieb, und dass der Beschuldigte die Anfragen der Beschwerdeführerin nicht beantwortete. Nach [[legal_norm|§ 34 Abs 1 RAO]] ist eine Geldbuße in dieser Höhe angemessen; ein Ausschluss aus der Liste erscheint nicht erforderlich.
 
 Verfahrensgang
@@ -71,6 +73,8 @@ Die Disziplinaranzeige wurde am [[date|18. Februar 2026]] von der Kammeranwälti
 Der Beschuldigte brachte schriftlich vor, die Klientin habe einer Vorabvergütung von 12.300 Euro mündlich zugestimmt. Diese Behauptung blieb ohne jeden Beleg. Er verwies zudem auf die schwierige wirtschaftliche Lage seiner Kanzlei im Jahr 2025. Der Senat hat diesen Umstand bei der Strafbemessung nicht als Milderungsgrund gewertet, weil er die Verwendung fremder Gelder nicht rechtfertigt.
 
 Der Beschuldigte war zur Verhandlung erschienen und vertrat sich selbst. Die Kontobewegungen sind eindeutig; ein weiteres Beweisverfahren war daher nicht erforderlich.
+
+Der Beschuldigte hat am Ende der Verhandlung erklärt, er bedauere die Verzögerung bei der Rückzahlung. Eine Entschuldigung gegenüber der Klientin ist nicht erfolgt. Die Kammeranwältin hielt an ihrem Antrag fest und verwies auf die Sorgfaltspflicht gegenüber allen Klienten, deren Gelder auf Treuhandkonten verwahrt werden. Die Klientin hat sich im Verfahren nicht als Privatbeteiligte angeschlossen.
 
 Kosten
 

@@ -43,6 +43,10 @@ Unsere Mandanten haben die Wohnung im Erdgeschoß bis zum Schadenseintritt vermi
 
 Die Ansprüche stützen sich auf [[legal_norm|§ 1311 ABGB]], wonach der Schädiger für den verursachten Schaden einzustehen hat. Schadenersatz für entgangene Miete folgt aus [[legal_norm|§ 1293 ABGB]].
 
+Zum Beweis der Ansprüche legen wir die Schadensmeldung der Hausverwaltung, Lichtbilder der Schäden vom [[date|20. November 2021]] sowie die Korrespondenz mit der [[organization|Baumann]] bei. Die Korrespondenz zeigt, dass die Hausverwaltung die Verantwortung zwischen den Beteiligten hin und her schob, ohne den Schaden zu beheben. Unsere Mandanten sind bereit, einen gemeinsamen Sachverständigen zu benennen, dessen Kosten nach dem Ausgang des Verfahrens zu verteilen wären.
+
+Eine Ersatzwohnung konnte unseren Mandanten nicht angeboten werden, weshalb ihnen Mehrkosten für die Unterbringung entstanden; diese belaufen sich auf EUR 3.600,00.
+
 Die Schadensermittlung wurde im Mai 2022 durch einen Sachverständigen vorgenommen; das Gutachten liegt uns vor und wird auf Anforderung übermittelt.
 
 Wir behalten uns vor, weitere Schäden am Gebäude, die sich aus der anhaltenden Feuchtigkeit ergeben, gesondert geltend zu machen. Eine Beweissicherung durch Fotos und Messprotokolle ist erfolgt.

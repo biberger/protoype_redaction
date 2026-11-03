@@ -59,7 +59,7 @@ Der Beschuldigte hat in seiner Stellungnahme vom [[date|09.03.2026]] vorgebracht
 
 Der Beschuldigte hat zudem bestritten, dass der Restbetrag um EUR 4.100,00 vermindert wurde, und auf eine Verrechnung mit einem Vorschuss verwiesen. Auch dieser Vorschuss ist nicht belegt. Der Senat hat diese Behauptung daher als unbeachtlich verworfen. Der Beschwerdeführer hat dazu keine weitere Stellung genommen, und eine Vertagung wurde nicht beantragt.
 
-Gegen dieses Erkenntnis ist ein weiteres Rechtsmittel nicht zulässig. Die Ausfertigung ergeht an den Beschuldigten, an den Beschwerdeführer, an die Kammeranwältin und an die [[organization|RAK]].
+Die Kosten des Verfahrens vor dem Disziplinarrat bleiben unberührt. Gegen dieses Erkenntnis ist ein weiteres Rechtsmittel nicht zulässig. Die Ausfertigung ergeht an den Beschuldigten, an den Beschwerdeführer, an die Kammeranwältin und an die [[organization|RAK]].
 
 Für die Richtigkeit der Ausfertigung:
 [[person|Ekin Ateşçi]]

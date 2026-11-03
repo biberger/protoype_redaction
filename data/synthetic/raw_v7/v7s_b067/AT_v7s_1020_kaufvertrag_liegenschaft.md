@@ -67,6 +67,32 @@ V. Schlussbestimmungen
 
 Die Vertragsparteien erklären, den Vertrag gelesen und verstanden zu haben. Die Verkäuferin bestätigt, dass ihr die Rechtsfolgen der Aufsandungserklärung erklärt wurden. Die Käufer bestätigen, dass ihnen der Vertrag vor der Unterfertigung zur Durchsicht übergeben wurde.
 
+VI. Vollmacht und Vertretung
+
+Die Käufer erteilen den Rechtsanwälten [[person|Gottlieb]] und [[person|Steinberger]] die Vollmacht, alle Erklärungen zur Verbücherung abzugeben. Die Vollmacht erlischt nicht durch den Tod eines Käufers; sie ist im Übrigen widerruflich, soweit nicht die Treuhandschaft betroffen ist.
+
+Die Verkäuferin bevollmächtigt die Rechtsanwälte, den Grundbuchsauszug einzuholen und die Lastenfreistellung zu veranlassen. Die Kosten dafür trägt die Verkäuferin.
+
+VII. Vermittlung
+
+Die [[organization|Griebler]] hat die Liegenschaft im Auftrag der Verkäuferin angeboten. Die Vermittlungsprovision beträgt drei Prozent des Kaufpreises zuzüglich Umsatzsteuer und ist nach Verbücherung fällig. Die Käufer haben keine Provision zu entrichten. Eine Doppelvermittlung wurde von der [[organization|Griebler]] ausdrücklich ausgeschlossen.
+
+VIII. Behördliche Genehmigungen
+
+Der Kaufvertrag bedarf keiner grundverkehrsbehördlichen Genehmigung, da die Käufer die Liegenschaft als Hauptwohnsitz erwerben. Die Käufer haben dies durch Meldebestätigungen nachgewiesen. Sollte sich herausstellen, dass die Voraussetzungen nicht vorliegen, ist der Vertrag unwirksam; die Rechtsanwälte haben die Käufer hierauf ausdrücklich hingewiesen.
+
+Die Verkäuferin erklärt, dass die Liegenschaft nicht im Eigentum einer juristischen Person steht, deren Gesellschafter einer Genehmigung unterliegen. Die Angaben der Verkäuferin wurden anhand des Grundbuchs geprüft.
+
+IX. Hinweise der Rechtsanwälte
+
+Die Rechtsanwälte haben die Vertragsparteien darauf hingewiesen, dass die Eintragung im Grundbuch erst nach Eingang der Abgaben wirksam wird. Eine Vorwegeintragung der Käufer vor Zahlung der Grunderwerbsteuer ist nicht möglich. Die Parteien wurden auf die Haftung für die Richtigkeit der Angaben nach dem [[legal_norm|ABGB]] hingewiesen und erklären, dies verstanden zu haben.
+
+Die Rechtsanwälte haben die Parteien auch darauf hingewiesen, dass sie als Treuhänder die Interessen der Gegenseite nicht vertreten dürfen; die Käufer haben daher einen eigenen Rechtsbeistand beizuziehen, sofern sie dies wünschen.
+
+X. Ausfertigungen
+
+Dieser Vertrag wird in vier Ausfertigungen errichtet: je eine für die Verkäuferin, die Käufer und die Rechtsanwälte; eine Ausfertigung ist für die Einverleibung beim Grundbuchgericht bestimmt.
+
 Rückfragen richten Sie an die Kanzlei unter Tel. [[phone_number|0463/7510559 DW 777]].
 
 Die Verkäuferin: ______________________

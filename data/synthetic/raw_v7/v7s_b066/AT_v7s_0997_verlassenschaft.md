@@ -64,6 +64,12 @@ Die Abhandlung bleibt offen, bis alle Urkunden vorliegen. Der Notar hat die Abga
 
 Rückfragen richten Sie bitte an die Kanzlei unter Tel. [[phone_number|+43 732 529 98 49-59]]. Die Mitteilung ergeht nach Ablauf der Einwendungsfrist in beglaubigter Form.
 
+Der Hausrat des Erblassers wurde am [[date|20. Juli 2026]] durch den Notar aufgenommen. Das Inventar umfasst Möbel, Haushaltsgeräte, Bücher, Kleidung sowie einen Pkw im Wert von EUR 3.900,00. Der Pkw wurde von der Erbin [[person|Ing. Alwera Kindl]] übernommen, die den Wert an die Verlassenschaft zu entrichten hat. Die Lebensgefährtin [[person|Wiesner]] hat erklärt, dass sie den Hausrat nicht beanspruchen wird, mit Ausnahme der Fotoalben und der persönlichen Briefe, die sie dem Erblasser geschenkt hat.
+
+Die Bestattungskosten in Höhe von EUR 2.870,00 wurden durch die Erbin vorgestreckt. Die Rechnung des Bestattungsunternehmens wurde geprüft und ist als Verlassenschaftsschuld anerkannt. Die Kreditkartenschuld von EUR 3.100,00 wird aus dem Bankguthaben beglichen, sobald die Einantwortung erfolgt ist. Die Hausverwaltung hat die Betriebskosten bis zum Todestag abgerechnet, eine Nachzahlung ist nicht zu erwarten.
+
+Die Mitteilung ergeht nach Abschluss der Abhandlung auch an das [[court|Bezirksgericht Imst]] und an die Gläubiger, die ihre Forderungen angemeldet haben.
+
 Ausgefertigt in [[location|Wimpassing an der Leitha]], am [[date|4. August 2026]].
 
 [[person|Gasperschitz]]

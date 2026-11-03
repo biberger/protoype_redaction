@@ -49,11 +49,15 @@ Beweiswürdigung
 
 Der Senat stützt sich auf die Kontoauszüge, die Einvernahme des Klienten [[person|Steinmetz]] und den Schriftverkehr mit der [[organization|EWG]]. Die Vorabvergütung ist nicht schriftlich vereinbart; eine Honorarnote wurde nicht gelegt. Die Angaben der Beschuldigten sind daher nicht glaubhaft.
 
+Der Klient [[person|Steinmetz]] hat in seiner Einvernahme am [[date|14. Mai 2026]] geschildert, dass er die Freigabe nur für die Auszahlung von EUR 18.000,00 an die [[organization|EWG]] erteilt hatte. Die weitere Überweisung vom [[date|16.05.2025]] habe er nicht gekannt. Diese Darstellung deckt sich mit den Kontobewegungen und dem Schriftverkehr, in dem keine weitere Freigabe enthalten ist.
+
 Der Kammeranwalt [[person|Kornitzer]] hat in der Verhandlung zutreffend dargelegt, dass die Verwendung der Treuhandgelder für den Kanzleibetrieb den Tatbestand erfüllt, unabhängig davon, ob später eine Rückzahlung erfolgte.
 
 Rechtliche Beurteilung
 
 Die Verwahrung von Treuhandgeldern ist eine der zentralen Berufspflichten des Rechtsanwalts. Die Beschuldigte hat sie durch die Verwendung der Gelder ohne Freigabe schwer verletzt. Die Rückzahlung von EUR 3.500,00 ist nur ein Teil des Betrags und ändert an der Pflichtverletzung nichts. Der Umstand, dass der Klient die Abwicklung des Vertrags selbst nicht mehr betrieb, ist unerheblich. Ebenso bleibt ohne Bedeutung, dass die [[organization|EWG]] ihre Forderung inzwischen auf dem Rechtsweg verfolgt.
+
+Die Verwahrungspflicht gilt auch dann, wenn die Zahlung nur vorübergehend entnommen und später ausgeglichen wird; der Schutzzweck der Treuhand besteht gerade darin, dass fremde Gelder nicht dem Zugriff des Rechtsanwalts unterliegen.
 
 Mildernd wirkt, dass die Beschuldigte bisher nicht disziplinär auffällig war und sich einsichtig zeigte. Sie hat den Betrag von EUR 3.500,00 freiwillig zurückbezahlt und die Bereitschaft erklärt, die Restforderung in Raten zu begleichen. Ein Anerkenntnis der Gesamtschuld liegt darin nicht. Erschwerend wirkt die Dauer des Verstoßes. Der Senat hält eine Geldbuße von 7.000 Euro für tat- und schuldangemessen.
 

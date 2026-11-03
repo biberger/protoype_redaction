@@ -117,6 +117,22 @@ Die einschreitenden Rechtsanwälte weisen darauf hin, dass der Vertrag nur dann 
 
 Erwerbervertreter, [[person|Kantor Parsifal]], bestätigt die Angaben zur Käuferin. Die Angaben zur Person sind dem Reisepass zu entnehmen, Kopien liegen bei.
 
+XII. Wertsicherung und Zahlungsverzug
+
+1. Der Kaufpreis ist ab Fälligkeit mit vier Prozent über dem jeweiligen Basiszinssatz zu verzinsen, wenn die Zahlung nicht fristgerecht erfolgt. Die Verzugszinsen sind nicht Bestandteil des Kaufpreises.
+
+2. Bei Zahlungsverzug der Käuferin von mehr als dreißig Tagen sind die Verkäufer berechtigt, vom Vertrag zurückzutreten. Der Rücktritt bedarf der Schriftform und ist den einschreitenden Rechtsanwälten zuzustellen. Eine bereits geleistete Anzahlung wird abzüglich des Verwaltungsaufwands zurückerstattet.
+
+3. Ein Rücktritt der Verkäufer ist ausgeschlossen, soweit die Verzögerung auf einer Verzögerung der Grundbuchseintragung beruht, die nicht die Parteien zu vertreten haben.
+
+XIII. Erklärungen der Vertragsparteien zur Vertragserrichtung
+
+1. Die Parteien erklären, dass die Vertragserrichtung in Gegenwart der Rechtsanwälte erfolgt ist, dass sie den Vertrag gelesen und verstanden haben und dass sie keine Zweifel über die Bedeutung der einzelnen Klauseln haben.
+
+2. Die Vertragsverhandlungen wurden in einer Sprache geführt, die den Parteien geläufig ist. Eine Dolmetscherin wurde nicht beigezogen.
+
+3. Die Verkäuferin [[person|Zelal Sarp]] erklärt, dass sie den Inhalt des Vertrages mit ihrem Sohn besprochen hat, der jedoch nicht Partei dieses Vertrages ist.
+
 Unterzeichnet in [[address|8950 Stainach-Pürgg]] am [[date|17. September 2026]].
 
 Der Verkäufer:

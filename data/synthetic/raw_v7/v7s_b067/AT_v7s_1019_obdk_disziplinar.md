@@ -60,6 +60,14 @@ Mildernd wirkt, dass der Beschuldigte die Rückzahlung an [[person|Hollenstein]]
 
 Die Vorgangsweise zeigt ein System: Auszahlungen wurden jeweils dann veranlasst, wenn die Kontodeckung knapp wurde. Dies ist nach Auffassung des Senats kein Zufall, sondern Ausdruck einer Verwahrungspraxis, die den Treuhandgrundsätzen widerspricht.
 
+Der Beschuldigte bestätigte in der Verhandlung, dass er die Auszahlungen veranlasst hatte, bestritt jedoch jede Vorsatzabsicht. Er gab an, er habe die Liquidität der Bauträgerin sichern wollen, damit das Bauvorhaben nicht stocke. Dieser Umstand ändert nichts an der Pflichtverletzung, da der Beschuldigte keine Vollmacht hatte, über die Gelder der Klienten zu verfügen.
+
+Die Klientin [[person|Hollenstein]] schilderte die Verhandlung als belastend; sie habe monatelang nicht gewusst, wo ihr Geld geblieben sei. Der Klient [[person|Dimitrov]] erklärte, er habe der Kanzlei eine Vollmacht für den Ankauf erteilt, nicht aber für Auszahlungen an Dritte. Die Vollmacht liegt im Akt und enthält keinen Hinweis auf eine Freigabe der Anzahlung.
+
+Der Senat hält fest, dass die Rechtsanwaltskammer die Kanzlei bereits im Jahr 2024 einer Routineprüfung unterzogen hatte. Dabei wurden keine Unregelmäßigkeiten beanstandet; die Prüfung erfolgte aber vor den hier gegenständlichen Auszahlungen und konnte sie daher nicht erfassen.
+
+Die Staatsanwaltschaft wurde über den Sachverhalt informiert; ein strafrechtliches Verfahren wurde jedoch nicht eingeleitet, da der Schaden der Klienten durch die spätere Rückzahlung nach Ansicht der Behörde ausgeglichen wurde. Dies ist für das Disziplinarverfahren nicht bindend.
+
 Die Geldbuße berücksichtigt die wirtschaftlichen Verhältnisse des Beschuldigten. Der Senat hält einen Ausschluss nicht für erforderlich, da der Beschuldigte bisher ordentlich tätig war.
 
 Die Kosten des Verfahrens trägt der Beschuldigte nach [[legal_norm|§ 34 Abs 2 RAO]]. Die Berufung an die [[court|OBDK]] ist binnen vier Wochen ab Zustellung zulässig.

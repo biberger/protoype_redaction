@@ -44,6 +44,28 @@ Eine Alkoholuntersuchung wurde bei [[person|Rauscher]] durchgeführt; das Ergebn
 
 Einvernommen wurden außerdem die Fahrer aus dem Gegenverkehr. Die Ermittlungen dauern an. Ein Lichtbildbericht wurde angefertigt; die Lichtbilder liegen dem Akt bei. Eine Verkehrsüberwachung an der Kreuzung ist für die Zeit nach dem Unfall angeordnet.
 
+Ergänzende Angaben der Zeugin
+
+Frau [[person|Volkova]] gab bei ihrer ergänzenden Einvernahme an, sie habe die Ampelschaltung nicht beobachtet, sondern nur das Geräusch der Bremsen gehört. Auf die Frage nach der Geschwindigkeit des Fahrzeuges [[license_plate|VB 379 RW]] schätzte sie diese auf etwa 60 km/h, wobei sie einräumte, dass sie die Geschwindigkeit nicht sicher beurteilen könne. Die Zeugin stand zum Zeitpunkt des Unfalls rund vierzig Meter von der Kreuzung entfernt.
+
+Die Aussage des Lenkers [[person|Wahle]] wird durch die Auswertung der Spuren nicht gestützt; ein Fahrtenschreiber ist im Fahrzeug nicht verbaut. Die Bremsspuren lassen jedoch auf eine Verzögerung von etwa 5 m/s² schließen, was mit einer Geschwindigkeit unter 50 km/h vereinbar ist.
+
+Die Beamtin [[person|Fazli]] hat die Unfallstelle um 09:30 Uhr erneut besichtigt. Die Verkehrszeichen waren vollständig vorhanden. Die Sichtverhältnisse durch die parkenden Fahrzeuge am südlichen Fahrbahnrand waren eingeschränkt; diese Feststellung wurde im Lichtbildbericht dokumentiert.
+
+Maßnahmen
+
+Der Lenker [[person|Rauscher]] wurde über die Anzeige nach der [[legal_norm|Straßenverkehrsordnung]] belehrt. Die Belehrung über die Aussageverweigerung wurde ihm vor der Einvernahme erteilt und von ihm unterfertigt. Die Lenkerin [[person|Zangerl]] erhielt ebenfalls eine Belehrung und wurde auf die Möglichkeit einer Anzeige durch ihre Versicherung hingewiesen.
+
+Das Fahrzeug [[license_plate|VB 379 RW]] wurde durch den Abschleppdienst nach Imst verbracht und dort sichergestellt; die Fahrzeugpapiere wurden dem Lenker nach Abschluss der Kontrolle zurückgegeben.
+
+Der Rettungstransport von Frau [[person|Zangerl]] erfolgte mit dem Notarzteinsatzfahrzeug in das Krankenhaus [[location|Zams]]. Dort wurde eine Prellung des Brustkorbes festgestellt; die Entlassung erfolgte noch am selben Tag.
+
+Die Haftpflichtversicherungen der beteiligten Fahrzeuge wurden über den Unfall verständigt. Die Schadensmeldungen liegen dem Akt bei.
+
+Hinweise für die Staatsanwaltschaft
+
+Eine Anzeige an die Staatsanwaltschaft ist derzeit nicht erforderlich, da keine schwere Körperverletzung vorliegt. Sollte sich der Gesundheitszustand von Frau [[person|Zangerl]] verschlechtern, wird der Bericht ergänzt.
+
 Die Anzeige wurde am [[date|17.09.2026]] um 11:15 Uhr aufgenommen. Die Beamtin [[person|Fazli]] bestätigt die Richtigkeit der Angaben.
 
 [[location|Imst]], am [[date|17.09.2026]]

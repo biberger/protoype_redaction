@@ -57,6 +57,10 @@ Die Zuständigkeit des [[court|HG Wien]] ergibt sich aus [[legal_norm|§ 51 JN]]
 
 Beweis: Urkunden laut beiliegender Beilagenübersicht, Einvernahme des Geschäftsführers der Klägerin, Einholung eines Sachverständigengutachtens.
 
+Die Schadenshöhe ergibt sich aus der beiliegenden Berechnung. Die Klägerin hatte den Baubeginn für das Frühjahr 2025 geplant, die Verzögerung betraf den gesamten Ablauf der Bauarbeiten, insbesondere die Vergabe der Gewerke und die Mietverträge für die Geschäftsflächen. Der entgangene Gewinn wird nach dem Ergebnis des Sachverständigengutachtens bemessen, die Ansprüche werden hilfsweise im Schadenersatzweg geltend gemacht.
+
+Die Klägerin erhebt Zinsen ab dem Zeitpunkt der Fälligkeit. Die Verjährungsfrist ist nach Ansicht der Klägerin nicht abgelaufen, weil die Schadensfolgen erst im Jahr 2025 erkennbar wurden. Die Klage ist daher rechtzeitig eingebracht.
+
 Hochachtungsvoll
 
 [[person|M U H R]]

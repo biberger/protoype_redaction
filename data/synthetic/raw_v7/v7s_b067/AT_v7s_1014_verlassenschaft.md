@@ -52,6 +52,27 @@ Die Beteiligten wurden über das Ergebnis der Vermögensaufnahme informiert. Die
 
 Die Abhandlung der Verlassenschaft ist mit dieser Protokollierung abgeschlossen. Die Erben werden ersucht, die Einantwortungsurkunde nach Eintritt der Rechtskraft beim [[court|BG Baden]] abzuholen.
 
+Die Schuldenliste umfasst im Einzelnen:
+
+Darlehen Breier EUR 6.400,00
+Werklohn Just EUR 2.150,00
+Begräbniskosten EUR 2.160,00
+Betriebskosten rückständig EUR 1.200,00
+Kraftfahrzeugsteuer rückständig EUR 2.300,00
+Summe EUR 14.210,00
+
+Die Beteiligten haben in der Verhandlung vom [[date|9. September 2026]] keine weiteren Ansprüche angemeldet. Die Erbserklärung der Erbin im zweiten Grad wurde nach Vorlage der Geburtsurkunden der Erblasserin angenommen; die Nachweise der Verwandtschaft liegen im Akt. Die Erbin hat das Erbrecht an der Liegenschaft ausdrücklich angenommen und erklärt, auf eine Teilung des Hausrats zu verzichten.
+
+Der Notar hat die Wertermittlung der Liegenschaft durch einen gerichtlich beeideten Sachverständigen überprüft. Die Schätzung vom [[date|14.08.2026]] ist aktuell; sie berücksichtigt den Zustand des Wohnhauses, der einer Generalsanierung bedarf. Die Sanierungskosten werden im Gutachten mit EUR 45.000,00 veranschlagt und bei der Bewertung abgezogen.
+
+Die Kontoauszüge der Bank für den Zeitraum vom [[date|1. Juni 2026]] bis zum Todestag weisen regelmäßige Abbuchungen für Strom, Heizung und Versicherungen aus. Ein Dauerauftrag an eine Krankenanstalt in [[location|Salzburg]] wurde am [[date|3. Juli 2026]] storniert. Die Stornierung wurde dem Notar durch die Bank bestätigt.
+
+Die Verlassenschaft hat eine Forderung gegen eine Versicherungsgesellschaft aus einem Lebensversicherungsvertrag, deren Rückkaufswert geprüft wird. Die Gesellschaft hat sich zu dieser Frage bis zum Abschluss der Abhandlung nicht geäußert; der Notar wird die Forderung nach Eingang der Auskunft gesondert erfassen.
+
+Die Erben haben die Kosten der Sicherung der Liegenschaft, insbesondere die Beheizung im Winter, aus eigenen Mitteln getragen. Diese Aufwendungen werden auf Nachweis aus dem Nachlass ersetzt, soweit sie zur Erhaltung erforderlich waren. Die Anzeige an das zuständige Finanzamt betreffend die Grunderwerbsteuer wurde vom Notar erstattet.
+
+Der Notar weist darauf hin, dass die Einantwortung nach [[legal_norm|§ 797 ABGB]] erst nach Ablauf der Frist zur Erbantrittserklärung erfolgen kann. Die Fristen nach dem [[legal_norm|AußStrG]] sind dabei zu wahren.
+
 Für die Richtigkeit der Abschrift: Die Protokollführung erfolgte durch den Notar; die Originalurkunde verbleibt beim Gericht. Die Abschrift wird dem [[court|BG Baden]] übermittelt.
 
 Hinweis: Dieses Protokoll ersetzt keine Einantwortung. Die Einantwortung erfolgt durch das [[court|BG Baden]] nach Ablauf der Fristen.

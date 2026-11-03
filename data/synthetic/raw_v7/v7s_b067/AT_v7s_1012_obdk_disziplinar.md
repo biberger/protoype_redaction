@@ -41,6 +41,8 @@ Datum | Vorgang | Betrag EUR | Treuhandnummer
 
 3. Die Beschuldigte war unter Tel. [[phone_number|+43 1 563 94 55-8]] erreichbar. Auf Anfragen von [[person|Danny Laube]] reagierte sie erst nach drei Wochen. Der Beschwerdeführer lebt in [[address|2492 Eggendorf]].
 
+Der Beschwerdeführer ist Landwirt und hat die Zahlung für den Ankauf einer Hofstelle geleistet. Der Verlust der Gelder hat ihn nach seinen Angaben über Monate in finanzielle Schwierigkeiten gebracht; er musste einen Kredit aufnehmen, um die Hofstelle nicht zu verlieren. Der Senat hat diese Angaben als glaubwürdig gewertet, weil sie durch die Kontoauszüge des Beschwerdeführers und die Kreditunterlagen belegt sind.
+
 Verfahrensgang
 
 Die Disziplinaranzeige wurde am [[date|11. Dezember 2025]] von der Kammeranwältin erstattet, nachdem der Beschwerdeführer [[person|Danny Laube]] sich bei der Tiroler Rechtsanwaltskammer beschwert hatte. Die Beschuldigte wurde am [[date|9. Jänner 2026]] zur Stellungnahme aufgefordert. Sie beantragte eine Fristerstreckung, die ihr bis zum [[date|28. Februar 2026]] gewährt wurde. Ihre Stellungnahme langte am [[date|25. Februar 2026]] ein und enthält die Behauptung, die [[organization|IBG]] habe einen Vorschuss vereinbart. Ein schriftlicher Vertrag wurde nicht vorgelegt.
@@ -55,7 +57,7 @@ Die Zeugeneinvernahme erfolgte in [[location|St. Margarethen im Burgenland]]; di
 
 Rechtliche Beurteilung
 
-Die Verwendung von Treuhandgeldern ohne Freigabe verletzt die Verwahrungspflicht nach [[legal_norm|§ 43a Abs 3 RAO]]. Die Beschuldigte hat die Gelder nicht im Sinne des Treuhandauftrags verwendet. Der Senat hält die Verletzung für schwerwiegend, weil die Beschwerdeführer ihr Vermögen über Monate nicht zurückerhielten.
+Die Verwendung von Treuhandgeldern ohne Freigabe verletzt die Verwahrungspflicht nach [[legal_norm|§ 43a Abs 3 RAO]]. Die Beschuldigte hat die Gelder nicht im Sinne des Treuhandauftrags verwendet. Der Senat hält die Verletzung für schwerwiegend, weil die Beschwerdeführer ihr Vermögen über Monate nicht zurückerhielten. Dabei fällt ins Gewicht, dass die Beschuldigte als Rechtsanwältin mit dem Treuhandrecht vertraut sein musste und die Verwahrung gerade wegen des Vertrauens der Klienten übernommen hatte.
 
 Bei der Bemessung der Geldbuße berücksichtigte der Senat die Höhe der betroffenen Beträge und die Dauer der Pflichtverletzung. Die Beschuldigte hat im Verfahren keine Einsicht gezeigt; sie stellte die Verwendung der Gelder als notwendige Vorabentnahme dar. Dieses Verhalten wertet der Senat nicht erschwerend, bestätigt jedoch, dass eine spürbare Geldbuße erforderlich ist.
 

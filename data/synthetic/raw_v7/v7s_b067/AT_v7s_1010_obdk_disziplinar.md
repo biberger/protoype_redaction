@@ -44,6 +44,10 @@ Die Anzeige wurde von der Kammeranwältin [[person|Dr. Emilie Haberl]] am [[date
 
 Die Beschuldigte hat im Verfahren das Vorbringen, sie habe die Auszahlung mit der [[organization|DPE]] telefonisch abgestimmt, nicht belegt. Eine Telefonnotiz oder ein Gesprächsprotokoll wurde nicht vorgelegt.
 
+Die [[organization|DPE]] hat im Verfahren eine Stellungnahme vorgelegt, in der sie jede Vereinbarung über eine Auszahlung bestreitet. Die Stellungnahme ist mit dem Firmenbuchauszug der Gesellschaft versehen und wurde vom Geschäftsführer unterfertigt. Eine Zustimmung der Klientinnen und Klienten zur Auszahlung wird darin nicht erwähnt.
+
+Der Senat hat bei der Würdigung auch die Aussage der Zeugin [[person|Schmied]] berücksichtigt, die den Ablauf der Telefonate mit der Kanzlei schildert. Sie beschrieb, dass sie mehrfach um Rückruf bat, ohne dass darauf reagiert wurde.
+
 Rechtliche Beurteilung
 
 Die Verwendung von Treuhandgeldern ohne Freigabe der berechtigten Partei verletzt die Pflicht zur Verwahrung nach [[legal_norm|§ 43a Abs 3 RAO]]. Die Beschuldigte hat die Geldbuße auf Grund der Schwere der Verletzung zu tragen; mildernd ist ihr bisher ordentliches Verhalten.

@@ -52,6 +52,10 @@ IV. Beilagen
 ./B Abnahmeprotokoll vom [[date|27. Juni 2025]]
 ./C Mängelbehebungsnachweis der [[organization|Back Bau GmbH]]
 
+Soweit die Klägerinnen als Mieterinnen eine Minderung des Mietzinses verlangen, setzt dies nach [[legal_norm|§ 1096 ABGB]] einen erheblichen Mangel voraus, der die Tauglichkeit der Sache beeinträchtigt. Ein solcher Mangel liegt nicht vor; die Klägerinnen haben die Wohnung ungeachtet der behaupteten Feuchtigkeit weiter bewohnt.
+
+6. Die Beweislast für die Mangelhaftigkeit trifft nach [[legal_norm|§ 1298 ABGB]] die Klägerinnen als Anspruchstellerinnen; eine bloße Behauptung genügt nicht. Die Kosten des Verfahrens bemessen sich nach dem [[legal_norm|RATG]].
+
 Die Klagsforderung ist überdies der Höhe nach nicht nachvollziehbar belegt; die Klägerinnen haben trotz Aufforderung keine Rechnungen für die behaupteten Ersatzvornahmen vorgelegt. Die beklagte Partei erklärt sich daher vorsorglich zu keinem Vergleich bereit.
 
 Die beklagte Partei stellt daher den Antrag, das Klagebegehren abzuweisen und den Klägerinnen die Kosten des Verfahrens aufzuerlegen.

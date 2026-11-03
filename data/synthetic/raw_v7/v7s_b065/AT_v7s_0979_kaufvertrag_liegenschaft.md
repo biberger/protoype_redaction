@@ -101,7 +101,7 @@ VIII. Schlussbestimmungen
 
 6. Dieser Vertrag wird in drei gleichlautenden Ausfertigungen errichtet: je eine für die Verkäuferin und die Käuferin sowie eine für die Kanzlei, die den Grundbuchsantrag einbringt. Jede Ausfertigung ist von allen Vertragsparteien eigenhändig zu unterfertigen.
 
-7. Die Käuferin erklärt, dass sie die Gebäude in dem Zustand übernimmt, in dem sie sich bei der Besichtigung befanden, und dass sie auf die Beibringung eines Sachverständigengutachtens verzichtet. Änderungen an der Heizungsanlage oder an den Fenstern nach Vertragsunterfertigung sind nur mit schriftlicher Zustimmung der Verkäuferin zulässig. Bis zur Übergabe bleibt die Verkäuferin für Wartung und Reparatur verantwortlich.
+7. Die Käuferin erklärt, dass sie die Gebäude in dem Zustand übernimmt, in dem sie sich bei der Besichtigung befanden, und dass sie auf die Beibringung eines Sachverständigengutachtens verzichtet. Änderungen an der Heizungsanlage oder an den Fenstern nach Vertragsunterfertigung sind nur mit schriftlicher Zustimmung der Verkäuferin zulässig. Bis zur Übergabe bleibt die Verkäuferin für Wartung und Reparatur verantwortlich. Die Vertragsparteien bestätigen den Erhalt je einer Kopie dieses Vertrags sowie der Anlagen.
 
 IX. Vorkaufsrecht und Zustimmungen
 

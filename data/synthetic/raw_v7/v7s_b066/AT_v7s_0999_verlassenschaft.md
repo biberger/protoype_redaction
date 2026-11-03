@@ -60,6 +60,10 @@ Die Forderungen der [[organization|Staud e.U.]] gegen ihre Kunden sind mit dem S
 
 Die Einantwortung kann nach Ablauf der Einwendungsfrist beantragt werden. Auf Anfrage erhalten die Erben eine Abschrift des Nachlassverzeichnisses. Rückfragen bitte telefonisch an die Kanzlei, Tel. [[phone_number|0463/9918529 DW 195]].
 
+Die Erbenermittlung ergab, dass die Erblasserin keine Kinder und keinen Ehegatten hinterlässt. Die Eltern sind verstorben. Die Schwester [[person|Thür]] ist daher die nächste berufene Erbin, ihr Anspruch wird durch die Erbantrittserklärung vom [[date|3. August 2026]] bestätigt. Die Erbenermittlung wurde durch die Vorlage der Geburtsurkunden und der Sterbeurkunden der Eltern belegt.
+
+Die Gläubigerin [[person|Salomon]] hat ihre Forderung mit Schreiben vom [[date|15. Juli 2026]] angemeldet. Sie wird nach Ablauf der Anmeldefrist aus der Verlassenschaft befriedigt. Eine Rückzahlung des Darlehens an die Erblasserin ist im Kontoauszug nicht ersichtlich, weshalb die Forderung nur gegen Vorlage der Darlehensurkunde anerkannt wird.
+
 Ausgefertigt in [[location|Jagerberg]], am [[date|9. August 2026]].
 
 [[person|Barton]]

@@ -34,7 +34,9 @@ Sehr geehrte Frau [[person|Walz]],
 
 wir teilen Ihnen mit, dass die Grundgrenze zwischen den beiden Parzellen laut Vermessung vom [[date|3. März 2026]] nicht mit dem derzeit errichteten Zaun übereinstimmt. Der Zaun wurde im Frühjahr 2026 von Ihnen errichtet und verläuft rund 1,20 Meter auf dem Grund unserer Mandanten.
 
-Die Vermessung wurde von einem Ziviltechniker durchgeführt, dessen Plan wir in Kopie beilegen. Die Abweichung beträgt an der längsten Stelle 1,85 Meter; die betroffene Fläche umfasst rund 14 Quadratmeter. Unsere Mandanten sind bereit, den Zaun gemeinsam mit Ihnen zu versetzen, sofern die Kosten zur Gänze von Ihrer Seite übernommen werden.
+Ein erstes Gespräch mit Ihrer Mandantschaft fand im Juni 2026 statt; dabei wurde vereinbart, die Vermessung abzuwarten. Ihre Zusage, den Zaun nach dem Ergebnis zu prüfen, wurde nicht eingehalten. Das Vermessungsergebnis ist für unsere Mandanten verbindlich, da es von einem Ziviltechniker erstellt und von der Vermessungsbehörde bestätigt wurde. Die Grenzsteine sind im Gelände noch vorhanden und wurden bei der Vermessung wiedergefunden.
+
+Die Vermessung wurde von einem Ziviltechniker durchgeführt, dessen Plan wir in Kopie beilegen. Die Abweichung beträgt an der längsten Stelle 1,85 Meter; die betroffene Fläche umfasst rund 14 Quadratmeter. Unsere Mandanten sind bereit, den Zaun gemeinsam mit Ihnen zu versetzen, sofern die Kosten zur Gänze von Ihrer Seite übernommen werden. Der Zaun schneidet außerdem einen Obstbaum unserer Mandanten, der dadurch nicht mehr ausreichend Licht erhält. Die Kosten der bisherigen Korrespondenz betragen EUR 380,00 und werden ebenfalls geltend gemacht.
 
 Unsere Mandanten fordern Sie daher auf, den Zaun bis spätestens [[date|31. Oktober 2026]] an die Grundgrenze zurückzuversetzen. Die Vermessungskosten von EUR 640,00 sind von Ihnen zu tragen, da der Zaunbau ohne Rücksprache erfolgte.
 

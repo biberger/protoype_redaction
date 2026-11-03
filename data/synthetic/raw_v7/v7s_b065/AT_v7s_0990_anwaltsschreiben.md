@@ -42,6 +42,8 @@ Die Ursache liegt nach dem Gutachten des Bauleiters in einer Undichtigkeit der A
 
 Unser Mandant musste die Wohnung wegen der Feuchtigkeit für drei Wochen räumen und ist seither auf eine Ersatzunterkunft angewiesen. Die Mietkosten für diese Zeit sind in der Aufstellung als Verdienstentgang und Ersatz des Aufwands gesondert ausgewiesen. Die Verjährung ist durch dieses Schreiben nicht gehemmt; wir behalten uns die Geltendmachung weiterer Ansprüche ausdrücklich vor.
 
+Herr [[person|Gindl]] ist weiterhin bei Ihrer Gesellschaft beschäftigt und steht für eine Einvernahme im Verfahren zur Verfügung. Wir ersuchen Sie, ihn rechtzeitig auf den Termin vorzubereiten und ihm die Bauakte zugänglich zu machen.
+
 Sollte bis zu diesem Termin keine Zahlung eingehen, werden wir ohne weitere Ankündigung die Klage einbringen. Für Rückfragen erreichen Sie uns unter der oben angeführten Telefonnummer.
 
 Mit freundlichen Grüßen

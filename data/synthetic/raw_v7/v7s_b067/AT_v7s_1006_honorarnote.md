@@ -48,6 +48,8 @@ Die Honorarnote umfasst ausschließlich die Leistungen, die seit der Mandatserte
 
 Gemäß [[legal_norm|§ 41 ZPO]] hat die obsiegende Partei Anspruch auf Ersatz der Kosten gegenüber der unterlegenen Gegenseite. Dieser Kostenersatz berührt Ihre Zahlungspflicht uns gegenüber nicht; der Kostenersatz wird nach Abschluss des Verfahrens gesondert abgerechnet. Sollten Sie Fragen zu den einzelnen Positionen haben, bitten wir Sie, sich innerhalb von vier Wochen an uns zu wenden.
 
+Die Zahlung der Honorarnote ist auch in Teilbeträgen möglich; bitte geben Sie in diesem Fall die Honorarnote als Verwendungszweck an. Eine Stundung bis zum Abschluss des Verfahrens kann nach Rücksprache vereinbart werden.
+
 Für die Mandatsbetreuung erreichen Sie uns unter Tel. [[phone_number|02622/6226733 Kl. 39]].
 
 Mit freundlichen Grüßen

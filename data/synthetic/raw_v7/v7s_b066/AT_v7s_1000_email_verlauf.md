@@ -14,7 +14,7 @@ ich habe am [[date|8. Jänner 2026]] die Antwort der [[organization|Dworschak Ha
 
 Der Monteur [[person|Athanassios Apergis]] war im Mai 2024 vor Ort, das Protokoll zeigt seine Unterschrift. Außerdem hat der Zeuge [[person|Valter Gráf]] die Arbeiten begleitet. Die Nachbarin [[person|Emelia Katić]] hat den Schaden am [[date|3. Oktober 2025]] gesehen und mir einen Brief geschrieben, den ich anhänge.
 
-Bitte prüfen Sie, ob wir die Schadenersatzforderung gegen die DHG geltend machen können. Die Schaden-Nr. [[other_identifier|32/123232/20]] ist bereits gemeldet.
+Bitte prüfen Sie, ob wir die Schadenersatzforderung gegen die [[organization|DHG]] geltend machen können. Die Schaden-Nr. [[other_identifier|32/123232/20]] ist bereits gemeldet.
 
 Mit freundlichen Grüßen
 [[person|Pelagiuszek Romańczuk]]
@@ -84,7 +84,7 @@ Sehr geehrter Herr [[person|Weinhofer]],
 
 wir nehmen den Vergleichsvorschlag für die Monteurkosten nicht an. Die Haftung für den Wasserschaden beruht auf dem Werkvertrag, der ausdrücklich eine Abdichtung nach den Regeln der Technik verlangt. Das Schreiben der [[organization|DHG]] ändert daran nichts.
 
-Ich schicke Ihnen den Entwurf der Klage, sobald der Sachverständige sein Gutachten vorgelegt hat. Ihr Klienten-Nr. [[other_identifier|74093]] wird in der Klage bei der Zustellung angeführt, bitte melden Sie Änderungen der Anschrift.
+Ich schicke Ihnen den Entwurf der Klage, sobald der Sachverständige sein Gutachten vorgelegt hat. Ihr Klienten-Nr. [[other_identifier|74093]] wird in der Klage bei der Zustellung angeführt, bitte melden Sie Änderungen der Anschrift. Die Kosten des Sachverständigen werden wir zunächst vorstrecken, sie sind nach dem Ergebnis des Verfahrens erstattungsfähig.
 
 Mit freundlichen Grüßen
 
