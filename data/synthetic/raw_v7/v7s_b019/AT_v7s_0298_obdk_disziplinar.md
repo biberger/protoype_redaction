@@ -44,15 +44,15 @@ Am [[date|11. November 2024]] verfügte der Beschuldigte über den Restbetrag vo
 
 **2a. Vorbringen des Beschuldigten**
 
-Der Beschuldigte bestritt in der Verhandlung vom [[date|17. September 2026]] den Vorwurf der Verwahrungspflichtverletzung nicht vollständig, machte aber geltend, die Klientin habe den Auftrag zur Hinterlegung zurückgezogen. Ein schriftlicher Widerruf liegt nicht vor. Die Klientin hat dies ausdrücklich bestritten. Der Beschuldigte konnte auch nicht erklären, warum er Beträge am [[date|6. März 2025]] an eine Privatperson überwiesen hat, obwohl dies mit der Klientin nicht abgesprochen war.
+Der Beschuldigte bestritt in der Verhandlung vom [[date|17. September 2026]] den Vorwurf der Verwahrungspflichtverletzung nicht vollständig, machte aber geltend, die Klientin habe den Auftrag zur Hinterlegung zurückgezogen. Ein schriftlicher Widerruf liegt nicht vor. Auch eine mündliche Weisung wurde in den Akten nicht dokumentiert, obwohl die Kanzlei sonst Gesprächsvermerke führt. Die Klientin hat dies ausdrücklich bestritten. Der Beschuldigte konnte auch nicht erklären, warum er Beträge am [[date|6. März 2025]] an eine Privatperson überwiesen hat, obwohl dies mit der Klientin nicht abgesprochen war.
 
-Der Kammeranwalt wies in der Verhandlung darauf hin, dass die Pflicht zur Verwahrung auch dann besteht, wenn der Klient keine ausdrückliche Anweisung zur Auszahlung erteilt hat. Der Senat schließt sich dieser Auffassung an.
+Der Kammeranwalt wies in der Verhandlung darauf hin, dass die Pflicht zur Verwahrung auch dann besteht, wenn der Klient keine ausdrückliche Anweisung zur Auszahlung erteilt hat. Der Senat schließt sich dieser Auffassung an. Die Verteidigung hielt dem entgegen, dass eine Verwahrung ohne Auftrag nicht möglich sei; dem folgt der Senat nicht.
 
 **3. Beweiswürdigung**
 
-Die Feststellungen beruhen auf den Kontoauszügen der [[organization|FKB]], der Aussage der Klientin und den Abrechnungsunterlagen des Beschuldigten. Die Honorarnote, auf die sich der Beschuldigte beruft, datiert erst vom [[date|3. Dezember 2024]], also nach der Überweisung. Eine rückwirkende Honorarnote kann die Verfügung nicht rechtfertigen.
+Die Feststellungen beruhen auf den Kontoauszügen der [[organization|FKB]], der Aussage der Klientin und den Abrechnungsunterlagen des Beschuldigten. Ergänzend wurde die Protokollierung der Bankterminals der Kanzlei ausgewertet, die keine Bareinzahlungen oder Barauszahlungen auswies. Die Honorarnote, auf die sich der Beschuldigte beruft, datiert erst vom [[date|3. Dezember 2024]], also nach der Überweisung. Eine rückwirkende Honorarnote kann die Verfügung nicht rechtfertigen.
 
-Die Klientin hat ihre Angaben in der Verhandlung ruhig und konsistent wiederholt. Der Senat sieht keinen Anlass, daran zu zweifeln. Die Verantwortung des Beschuldigten ist hingegen widersprüchlich, weil er zunächst eine Weisung der Klientin behauptet und sie später wieder zurückgenommen hat.
+Die Klientin hat ihre Angaben in der Verhandlung ruhig und konsistent wiederholt. Sie legte zudem ein Schreiben ihrer Hausbank vor, wonach die Einzahlungen nachweislich von ihrem eigenen Konto stammten. Der Senat sieht keinen Anlass, daran zu zweifeln. Die Verantwortung des Beschuldigten ist hingegen widersprüchlich, weil er zunächst eine Weisung der Klientin behauptet und sie später wieder zurückgenommen hat.
 
 **4. Rechtliche Beurteilung**
 
@@ -62,11 +62,11 @@ Die Berufung ist insoweit unbegründet, als der Schuldvorwurf zu bestätigen ist
 
 **5. Strafbemessung**
 
-Die Herabsetzung der Geldbuße trägt dem Umstand Rechnung, dass die Klientin einen Teil der Gelder zurückerhalten hat. Mildernd ist ferner die bisherige Unbescholtenheit. Erschwerend wirkt die Dauer der Vorenthaltung. Eine Streichung ist nicht angemessen, weil die Vertrauenswürdigkeit des Beschuldigten nicht insgesamt entfallen ist.
+Die Herabsetzung der Geldbuße trägt dem Umstand Rechnung, dass die Klientin einen Teil der Gelder zurückerhalten hat. Der Senat berücksichtigt weiter, dass der Beschuldigte bisher nicht disziplinarrechtlich aufgefallen ist und sich seit der Anzeige um eine Abwicklung der Anderkonten bemüht hat, wobei die Abwicklung noch nicht abgeschlossen ist. Mildernd ist ferner die bisherige Unbescholtenheit. Erschwerend wirkt die Dauer der Vorenthaltung. Eine Streichung ist nicht angemessen, weil die Vertrauenswürdigkeit des Beschuldigten nicht insgesamt entfallen ist. Der Senat berücksichtigt auch, dass der Beschuldigte die Vorwürfe in der Berufung nur teilweise bestritten hat.
 
 **6. Kosten**
 
-Die Kosten des Berufungsverfahrens trägt der Beschuldigte zu drei Vierteln. Ein Viertel ist von der Kammer zu tragen.
+Die Kosten des Berufungsverfahrens trägt der Beschuldigte zu drei Vierteln. Ein Viertel ist von der Kammer zu tragen. Die Kosten der Zeugin sind darin enthalten, eine gesonderte Verrechnung erfolgt nicht.
 
 **7. Rechtsmittelbelehrung**
 

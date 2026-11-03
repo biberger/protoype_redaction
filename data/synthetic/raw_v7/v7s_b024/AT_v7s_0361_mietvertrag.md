@@ -76,6 +76,25 @@ wird am Tag der Übergabe gemeinsam mit der Mieterin unterfertigt.
 10. Für die Vermieterin tritt Herr [[person|Arslan]] auf, der Vertretungsbefugnis der Gesellschaft ist
 durch den Firmenbuchauszug belegt. Die Gesellschaft haftet für sämtliche Erklärungen ihres Geschäftsführers.
 
+**IV a. Erhaltung und Instandhaltung**
+
+11. Die Vermieterin trägt die Kosten der Erhaltung des Hauses, der Dachrinnen, der Fassade und der
+gemeinsamen Leitungen. Kleinreparaturen bis zu einem Betrag von EUR 150,00 im Einzelfall trägt die
+Mieterin. Die Mieterin hat die Vermieterin über Mängel der Wohnung schriftlich zu verständigen; eine
+telefonische Mitteilung genügt nicht.
+
+12. Die Heizkosten werden nach Verbrauch über Heizkostenverteiler abgerechnet. Die Mieterin gestattet der
+Hausverwaltung den Zutritt zur Wohnung zu den üblichen Geschäftszeiten, sofern der Zutritt zur Ablesung
+oder zur Behebung eines Schadens erforderlich ist. Der Zutritt ist mindestens drei Werktage vorher
+anzukündigen.
+
+13. Die Mieterin verpflichtet sich, die Hausordnung einzuhalten. Die Benützung des Gemeinschaftsgartens
+erfolgt nach Maßgabe der Hausverwaltung. Müll ist in die dafür vorgesehenen Behälter zu entsorgen.
+
+14. Die Vermieterin übergibt bei Mietbeginn zwei Schlüssel zur Wohnung und einen Schlüssel zum
+Haupteingang. Die Mieterin hat bei Beendigung des Mietverhältnisses sämtliche Schlüssel zurückzugeben.
+Nachschlüssel dürfen nur mit Zustimmung der Vermieterin angefertigt werden.
+
 **V. Schlussbestimmungen**
 
 11. Änderungen und Ergänzungen dieses Vertrages bedürfen der Schriftform. Mündliche Nebenabreden bestehen

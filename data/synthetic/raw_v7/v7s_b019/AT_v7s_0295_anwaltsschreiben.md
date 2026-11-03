@@ -42,13 +42,17 @@ Beteiligte laut Akt:
 [[person|Rupprecht, Arianna]]: Mieterin, Klägerin
 [[person|Tschepurnyj, Illja]]: Hausverwalter
 
-Die Mandantin hat die Mängelrüge bereits am [[date|25. Mai 2026]] schriftlich wiederholt und dabei die Schadenfotos übermittelt. Eine Eingangsbestätigung der Gesellschaft liegt nicht vor. Am [[date|11. Juni 2026]] hat die Hausverwaltung telefonisch mitgeteilt, dass der Vorgang intern geprüft werde. Eine Entscheidung ist bis heute nicht ergangen.
+Die Mandantin hat die Mängelrüge bereits am [[date|25. Mai 2026]] schriftlich wiederholt und dabei die Schadenfotos übermittelt. Eine Eingangsbestätigung der Gesellschaft liegt nicht vor. Am [[date|11. Juni 2026]] hat die Hausverwaltung telefonisch mitgeteilt, dass der Vorgang intern geprüft werde. Eine Entscheidung ist bis heute nicht ergangen. Die Mandantin benötigt die Wohnung dringend zurück, weil die Ersatzwohnung befristet vermietet ist und das Mietverhältnis am [[date|30. September 2026]] endet.
 
 Zusätzlich machen wir darauf aufmerksam, dass die Mandantin seit dem Wasserschaden in einer Ersatzwohnung untergebracht ist, deren Miete EUR 690,00 monatlich beträgt. Diese Mehrkosten sind Teil des Schadens und werden gesondert geltend gemacht.
 
 Wir ersuchen Sie, diese Schreiben an die zuständige Abteilung weiterzuleiten. Sollte bis zum genannten Termin keine Antwort eingehen, wird die Klage beim [[court|BG Krems]] eingebracht werden. Das [[court|Bezirksgericht Krems]] wird in diesem Fall auch über die Kosten der Verzögerung zu entscheiden haben.
 
-Die Kanzlei hält die Schadenberechnung für nachvollziehbar und bereit, auf Anforderung die Belege vorzulegen. Bitte beachten Sie, dass der Hausrat bereits vollständig entsorgt wurde und nur mehr die Fotos vorliegen. Die Mandantin ist unter der Telefonnummer [[phone_number|+43 2742 207 25 72 DW 461]] erreichbar, wir bitten jedoch, die Kommunikation über die Kanzlei zu führen.
+Die Mandantin ersucht zudem um Übernahme der Kosten für das Gutachten des Sachverständigen, das am [[date|29. Mai 2026]] erstellt wurde. Das Gutachten bestätigt die Ursache im Abflussrohr und die Notwendigkeit der vollständigen Erneuerung. Der Gutachter hat die Feuchtigkeitsschäden an den Wänden des Vorraums gesondert dokumentiert, sodass auch diese Position nachvollziehbar ist.
+
+Die Kanzlei hält die Schadenberechnung für nachvollziehbar und bereit, auf Anforderung die Belege vorzulegen. Bitte beachten Sie, dass der Hausrat bereits vollständig entsorgt wurde und nur mehr die Fotos vorliegen. Die Mandantin ist unter Tel. [[phone_number|+43 2742 207 25 72 DW 461]] erreichbar, wir bitten jedoch, die Kommunikation über die Kanzlei zu führen.
+
+Wir ersuchen zudem um Bestätigung, dass die Gesellschaft die Schadensmeldung über das Schadenformular bearbeitet.
 
 Mit freundlichen Grüßen
 

@@ -45,7 +45,9 @@ Bei Fristversäumnis wird die Klage beim [[court|Bezirksgericht Floridsdorf]] ei
 
 Das Gutachten der Sachverständigen [[person|Kristofics-Binder]] vom [[date|14. Mai 2026]] wurde am [[date|21. Mai 2026]] durch einen Ortsaugenschein ergänzt. Dabei wurde festgestellt, dass die Anschlüsse der Dachabdichtung an die Attikaverblechung nicht ausgeführt wurden. Die Gesellschaft hat das Gutachten nicht bestritten, sondern lediglich darauf verwiesen, dass die Bauherrin die Fenster selbst ausgetauscht habe. Eine Rechnung dafür liegt nicht vor, die Behauptung ist daher unbelegt.
 
-Die Versicherung der Gesellschaft ist uns nicht bekannt. Die [[organization|Ladner]] wird ersucht, uns die Haftpflichtpolizze binnen einer Woche bekannt zu geben. Die Gutachterin [[person|Kristofics-Binder]] steht für Rückfragen zur Verfügung.
+Die Versicherung der Gesellschaft ist uns nicht bekannt. Die [[organization|Ladner]] wird ersucht, uns die Haftpflichtpolizze binnen einer Woche bekannt zu geben. Die Gutachterin [[person|Kristofics-Binder]] steht für Rückfragen zur Verfügung. Ihr Gutachten ist dieser Korrespondenz in Kopie beigelegt. Die Vollmacht unserer Mandantin liegt bei.
+
+Die Mandantin hat die Terrasse seit März 2026 nicht mehr nutzen können und hat dadurch einen Mietausfall für den Gartenbereich erlitten, den wir mit EUR 480,00 beziffern. Die Berechnung stützt sich auf die übliche Miete für vergleichbare Außenflächen im Bezirk.
 
 Ein Mitarbeiter der Gesellschaft hat die Mutter der Auftraggeberin, [[person|Annely Overhoff]], GEB: [[date_of_birth|19.09.1948]], als Zeugin genannt. Frau [[person|Overhoff]] hat jedoch nur den Zustand der Terrasse nach der Fertigstellung beobachtet.
 
@@ -53,7 +55,9 @@ Ein Mitarbeiter der Gesellschaft hat die Mutter der Auftraggeberin, [[person|Ann
 [[person|Overhoff, Annely]]: Zeugin
 [[person|Fuchs, Karoly]]: Bauleiter
 
-Die Kanzlei [[organization|FW]] hat keine Kenntnis von Zahlungen aus dem Werkvertrag, da diese direkt an die Gesellschaft erfolgten. Bitte übermitteln Sie uns die Zahlungsnachweise bis zum [[date|30. Juni 2026]].
+Die Kanzlei [[organization|FW]] hat keine Kenntnis von Zahlungen aus dem Werkvertrag, da diese direkt an die Gesellschaft erfolgten. Bitte übermitteln Sie uns die Zahlungsnachweise bis zum [[date|30. Juni 2026]]. Sollten Zahlungen über ein Treuhandkonto erfolgt sein, bitten wir um Bekanntgabe des Kontos.
+
+Sollte die Gesellschaft die Mängel bis zum Fristablauf nicht beheben, werden wir zusätzlich ein gerichtliches Beweissicherungsverfahren beantragen, um den Zustand der Dachkonstruktion vor der Sanierung festzuhalten. Die Kosten dafür trägt die Gesellschaft, weil die Mängel von ihr zu vertreten sind. Eine Verjährung der Gewährleistungsansprüche ist nach unserer Einschätzung nicht eingetreten, da die Mängel erst im Mai 2026 festgestellt wurden und die Rügefrist damit gewahrt ist.
 
 Wir ersuchen um schriftliche Antwort innerhalb der gesetzten Frist. Für ein Gespräch stehen wir gerne zur Verfügung.
 

@@ -33,7 +33,7 @@ Zeugin: [[person|Fee Bundschuh]], *[[date_of_birth|06.06.1952]]
 
 **1. Sachverhalt**
 
-Der Kläger ist am [[date|14. März 2026]] auf der Baustelle der Beklagten in [[location|St. Anton am Arlberg]] von einem nicht gesicherten Gerüst gestürzt. Die Beklagte hatte die Baustelle nach den Feststellungen des Arbeitsinspektorats nicht ordnungsgemäß abgesichert. Der Kläger erlitt einen Bruch des Unterschenkels und eine Verletzung der Wirbelsäule.
+Der Kläger ist am [[date|14. März 2026]] auf der Baustelle der Beklagten in [[location|St. Anton am Arlberg]] von einem nicht gesicherten Gerüst gestürzt. Die [[organization|Löwy Bau GmbH]] hatte die Baustelle nach den Feststellungen des Arbeitsinspektorats nicht ordnungsgemäß abgesichert. Der Kläger erlitt einen Bruch des Unterschenkels und eine Verletzung der Wirbelsäule.
 
 Die Haftpflichtversicherung der Beklagten hat den Schaden bisher nur teilweise reguliert. Der Versicherer führt den Akt unter Schaden-Nr. [[other_identifier|48/110692/23]] zur Polizzen-Nr. [[other_identifier|25-3731528]] der Beklagten. Die Polizzen-Nr. [[other_identifier|59-1868623]] betrifft das Baustellenfahrzeug, das am Unfalltag im Einsatz war. Der Kläger hat bis zur Klagseinbringung keine Zahlung erhalten, auch nicht auf die Schmerzengeldforderung.
 

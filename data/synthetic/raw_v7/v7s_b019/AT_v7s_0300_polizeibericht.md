@@ -45,7 +45,7 @@ Die Fahrzeugidentifizierungsnummer des zweiten Fahrzeugs lautet FIN [[other_iden
 
 Die Beamten [[person|Gerhard Pfeifer]] und [[person|Simone Rauscher]] haben den Unfallhergang aufgenommen. Die Lenkerin des Fahrzeugs, [[person|Soffie Linsinger]], gab an, sie habe den Abstand nicht eingehalten. Die Lenkerin [[person|Jacquleine Max-Theurer]] gab an, sie sei wegen des Rehs abgebremst worden.
 
-Die Erhebungen werden an die Bezirkshauptmannschaft weitergeleitet. Die Beamten haben eine Anzeige nach der [[legal_norm|Straßenverkehrsordnung]] erstattet.
+Die Erhebungen werden an die Bezirkshauptmannschaft weitergeleitet. Die Bezirkshauptmannschaft hat um Übermittlung der Fotos bis zum [[date|30. Juni 2026]] ersucht. Die Beamten haben eine Anzeige nach der [[legal_norm|Straßenverkehrsordnung]] erstattet.
 
 **5a. Feststellungen am Fahrzeug**
 
@@ -55,7 +55,7 @@ Die Beifahrerin [[person|Armine Roch]] gab an, sie habe den Aufprall als sehr he
 
 **6. Anzeige**
 
-Gegen [[person|Soffie Linsinger]] wird wegen des Verdachts der Übertretung nach [[legal_norm|§ 18 StVO]] Anzeige erstattet, die Anzeige erfolgt nach der [[legal_norm|Straßenverkehrsordnung]]. Die Lenkerin wird auf die Möglichkeit einer Stellungnahme binnen zwei Wochen hingewiesen.
+Gegen [[person|Soffie Linsinger]] wird wegen des Verdachts der Übertretung nach [[legal_norm|§ 18 StVO]] Anzeige erstattet, die Anzeige erfolgt nach der [[legal_norm|Straßenverkehrsordnung]]. Die Lenkerin wird auf die Möglichkeit einer Stellungnahme binnen zwei Wochen hingewiesen. Der Zeugenbeitrag des Unfallzeugen wird in den Akt aufgenommen, eine Ladung zur Verhandlung wird geprüft.
 
 [[location|Piringsdorf]], am [[date|14. Juni 2026]]
 

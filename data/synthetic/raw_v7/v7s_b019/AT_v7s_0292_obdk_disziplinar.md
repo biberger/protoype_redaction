@@ -30,7 +30,7 @@ Die Rechtsanwältin [[lawyer|Ulrika Holzer]] ist schuldig, es als Vertreterin de
 
 Frau [[person|Albrectha Marcinkowska]] erstattete am [[date|4. August 2025]] bei der Kammer Anzeige gegen Rechtsanwältin [[lawyer|Ulrika Holzer]]. Die Anzeige betraf ein Treuhandkonto, auf das die Anzeigerin im Zusammenhang mit einer Erbschaftsangelegenheit insgesamt EUR 18.400,00 eingezahlt hatte. Der Kammeranwalt eröffnete daraufhin das Disziplinarverfahren. Mit Beschluss vom [[date|20. August 2025]] wurde der Beschuldigten Gelegenheit gegeben, binnen vier Wochen Belege vorzulegen. Die Frist wurde zweimal verlängert, weil die Beschuldigte angab, die Unterlagen seien bei einem Umzug der Kanzlei verloren gegangen.
 
-Die Beschuldigte [[lawyer|Holzer]] verantwortete sich schriftlich am [[date|12. Oktober 2025]] dahin, die Gelder seien auf Weisung der Verlassenschaft verwendet worden. Eine solche Weisung wurde nicht vorgelegt.
+Die Beschuldigte [[lawyer|Holzer]] verantwortete sich schriftlich am [[date|12. Oktober 2025]] dahin, die Gelder seien auf Weisung der Verlassenschaft verwendet worden. Eine solche Weisung wurde nicht vorgelegt. Die Beschuldigte bot in ihrer Stellungnahme an, die Honorarnote nachzureichen. Diese Note ist bis zur Verhandlung nicht eingelangt.
 
 **2. Feststellungen**
 
@@ -50,13 +50,13 @@ Die Beschuldigte hat die Buchhaltung des Anderkontos nicht zeitgerecht geführt.
 
 Der Senat stützt die Feststellungen auf die Kontoauszüge der [[organization|ISA]], die Aussage der Anzeigerin und die Akten der Verlassenschaft. Die Verantwortung der Beschuldigten ist durch keine Urkunde belegt. Die Weisung der Verlassenschaft wurde trotz Aufforderung nicht vorgelegt.
 
-Die Zeugin [[person|Marcinkowska]] schilderte die Einzahlungen glaubwürdig und ohne Belastungseifer. Der Senat verkennt nicht, dass die Verlassenschaft mehrere Erben hat, deren Ansprüche unklar sind. Dies ändert aber nichts an der Pflicht, die Gelder korrekt zu verwahren.
+Die Zeugin [[person|Marcinkowska]] schilderte die Einzahlungen glaubwürdig und ohne Belastungseifer. Sie legte zudem ein Schreiben ihrer Hausbank vor, wonach die Einzahlungen nachweislich von ihrem eigenen Konto stammten. Der Senat verkennt nicht, dass die Verlassenschaft mehrere Erben hat, deren Ansprüche unklar sind. Dies ändert aber nichts an der Pflicht, die Gelder korrekt zu verwahren. Die Erben sind im Verfahren nicht als Beteiligte aufgetreten, weshalb der Senat ihre Interessen nicht weiter zu prüfen hatte.
 
 **4. Rechtliche Beurteilung**
 
 Nach [[legal_norm|§ 43a Abs 5 RAO]] hat der Rechtsanwalt die ihm anvertrauten Gelder getrennt von eigenen Mitteln zu verwahren und jederzeit nachweisbar zu verwalten. Die Verletzung dieser Pflicht ist ein Verstoß gegen die Berufspflichten nach [[legal_norm|§ 1 DSt]]. Die Beschuldigte hat durch die unterbliebene Buchführung gegen ihre Pflicht zur Ordnung der Kanzlei verstoßen.
 
-Der Hinweis auf eine Weisung der Verlassenschaft entlastet die Beschuldigte nicht. Eine solche Weisung hätte schriftlich vorliegen und in der Abrechnung ausgewiesen werden müssen. Die Behauptung ist daher als unbelegt zu werten.
+Der Hinweis auf eine Weisung der Verlassenschaft entlastet die Beschuldigte nicht. Auch das nachträgliche Angebot, eine Honorarnote vorzulegen, ändert an der Verletzung der Abrechnungspflicht nichts, weil die Abrechnung zeitgerecht zu erfolgen hat. Eine solche Weisung hätte schriftlich vorliegen und in der Abrechnung ausgewiesen werden müssen. Die Behauptung ist daher als unbelegt zu werten.
 
 **4a. Zur Honorarvereinbarung**
 
@@ -68,13 +68,13 @@ Die Verlassenschaft hat mit Schreiben vom [[date|14. Mai 2025]] mitgeteilt, dass
 
 **5. Strafbemessung**
 
-Bei der Strafbemessung war mildernd die bisherige ordentliche Berufsausübung der Beschuldigten zu berücksichtigen. Erschwerend wirkt, dass die Gelder über mehr als ein Jahr nicht abgerechnet wurden und die Anzeigerin dadurch in erhebliche Schwierigkeiten geriet. Der Senat hält die Geldbuße daher für angemessen.
+Bei der Strafbemessung war mildernd die bisherige ordentliche Berufsausübung der Beschuldigten zu berücksichtigen. Erschwerend wirkt, dass die Gelder über mehr als ein Jahr nicht abgerechnet wurden und die Anzeigerin dadurch in erhebliche Schwierigkeiten geriet. Der Senat hält die Geldbuße daher für angemessen. Sie liegt im unteren Drittel des Strafrahmens.
 
 Eine Streichung von der Liste der Rechtsanwälte kommt nicht in Betracht, weil die Verfehlung nicht die Vertrauenswürdigkeit insgesamt in Frage stellt.
 
 **6. Kosten**
 
-Die Kosten des Verfahrens sind der Beschuldigten aufzuerlegen. Die Kosten der Zeugeneinvernahme trägt die Kammer.
+Die Kosten des Verfahrens sind der Beschuldigten aufzuerlegen. Die Kosten der Zeugeneinvernahme trägt die Kammer. Die Kosten der beigezogenen Kontoauszüge der Hausbank sind dem Beschuldigten zu ersetzen.
 
 **7. Rechtsmittel**
 

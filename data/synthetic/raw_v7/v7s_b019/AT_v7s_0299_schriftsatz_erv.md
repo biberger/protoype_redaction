@@ -28,7 +28,7 @@ Die Klägerin, vertreten durch die Rechtsanwalts GmbH [[organization|Sausgruber]
 
 **1. Sachverhalt**
 
-Die Klägerin hat mit der Beklagten am [[date|2. Februar 2025]] einen Vertrag über die Lieferung und Montage einer Photovoltaikanlage auf dem Wohnhaus in [[location|St. Gilgen]] abgeschlossen. Der Vertrag trägt die Vertragsnummer [[other_identifier|LV-2022-80586]] und sieht einen Werklohn von EUR 38.500,00 brutto vor. Die Anlage wurde nicht fristgerecht übergeben, die Beklagte hat die Montage am [[date|30. Juni 2025]] abgebrochen.
+Die Klägerin [[person|Wubbine Moser]] hat mit der [[organization|Glawischnig Handels GmbH]] am [[date|2. Februar 2025]] einen Vertrag über die Lieferung und Montage einer Photovoltaikanlage auf dem Wohnhaus in [[location|St. Gilgen]] abgeschlossen. Der Vertrag trägt die Vertragsnummer [[other_identifier|LV-2022-80586]] und sieht einen Werklohn von EUR 38.500,00 brutto vor. Die Anlage wurde nicht fristgerecht übergeben, die Beklagte hat die Montage am [[date|30. Juni 2025]] abgebrochen.
 
 Die Klägerin hat den Betrag bereits in Höhe von EUR 22.000,00 bezahlt. Die Beklagte hat die Vorauszahlung nicht zurückgestellt, sondern erklärt, die Anlage sei fertiggestellt. Die Klägerin hat die Beklagte mit Schreiben vom [[date|11. August 2025]] zur Nachbesserung aufgefordert.
 
@@ -63,7 +63,7 @@ Rechtsanwalt
 
 **Zustellung**
 
-Die Beklagte ist unter der Adresse [[address|Industriepark 3]] zu verständigen. Die Zeugin [[person|Granata]] ist in [[location|Ternitz]] wohnhaft. Eine Korrespondenz mit der Klägerin erfolgt ausschließlich über die Kanzlei.
+Die Beklagte ist unter der Adresse [[address|Industriepark 3]] zu verständigen. Die Zeugin [[person|Granata]] ist in [[location|Ternitz]] wohnhaft. Eine Korrespondenz mit der Klägerin erfolgt ausschließlich über die Kanzlei. Die Klägerin ist ausdrücklich damit einverstanden, dass Zustellungen über den ERV erfolgen.
 
 Die Klägerin hat die Beklagte außerdem mit anwaltlichem Schreiben vom [[date|20. Mai 2026]] zur Zahlung binnen 14 Tagen aufgefordert. Die Beklagte hat diese Aufforderung nicht beantwortet, sondern lediglich mitgeteilt, dass die Anlage nach ihrer Auffassung mangelfrei sei. Ein Vergleichsangebot der Klägerin, das eine Ratenzahlung über 24 Monate vorsah, blieb ebenso unbeantwortet.
 

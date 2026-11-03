@@ -79,7 +79,7 @@ Ihr Zeichen: [[other_identifier|Uhlig ./. Mayerl]]
 
 Sehr geehrter Herr Kollege [[lawyer|Knez]],
 
-meine Mandantin, Frau [[person|Nedea Goron]], Staatsangehörige der [[country|Ukraine]], bestreitet einen Mangel im Sinne des [[legal_norm|§ 932 ABGB]]. Die Feuchtigkeit beruht nach dem Gutachten vom [[date|3. September 2026]] auf einer unzureichenden Lüftung durch die Käuferin nach der Übergabe. Der [[court|Oberste Gerichtshof]] hat zur Beweislast in vergleichbaren Fällen bereits mehrfach Stellung genommen, zuletzt [[court|OGH]] [[date|10.03.2026]], [[case_number|1 Ob 45/26k]].
+meine Mandantin, Frau [[person|Nedea Goron]], Staatsangehörige der [[country|Ukraine]], bestreitet einen Mangel im Sinne des [[legal_norm|§ 932 ABGB]]. Die Feuchtigkeit beruht nach dem Gutachten vom [[date|3. September 2026]] auf einer unzureichenden Lüftung durch die Käuferin nach der Übergabe. Der [[court|Oberster Gerichtshof]] hat zur Beweislast in vergleichbaren Fällen bereits mehrfach Stellung genommen, zuletzt [[court|OGH]] [[date|10.03.2026]], [[case_number|1 Ob 45/26k]].
 
 Wir werden daher keine Mängelbehebung vornehmen. Die Kanzlei [[organization|März, Tölk]] ([[organization|MT]]) möge bitte die Frist beachten, die für die Wandlung gilt. Eine Mängelrüge vom [[date|2. Mai 2026]] ist uns nicht zugegangen.
 

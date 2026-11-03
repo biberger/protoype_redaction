@@ -38,6 +38,8 @@ Auslagen (ohne USt): Gerichtsgebühren 218,00; Kopien und Porto 14,80
 
 **RECHNUNG FÜR [[person|KATHARINA BAUMGARTEN]], KL.-NR. [[other_identifier|76950]]**
 
+Empfängerin: [[person|Katharina Baumgarten]], Kl.-Nr. [[other_identifier|76950]]
+
 | Datum | Leistung | Betrag EUR |
 |---|---|---|
 | [[date|11.05.2026]] | Mietrechtliche Beratung, Kündigung der Wohnung in Zwettl | 150,00 |
@@ -50,7 +52,7 @@ Gesamtbetrag brutto: 708,00
 
 Die Leistungen für [[person|Hubert Schmirl]] umfassen die Vertretung bis zum rechtskräftigen Abschluss der ersten Instanz. Für die weitere Vertretung im Berufungsverfahren wird ein gesondertes Pauschalhonorar vereinbart, über das wir Sie zeitgerecht informieren. Die Sachverständigengebühren sind in dieser Note nicht enthalten, weil sie direkt vom Gericht an den Sachverständigen angewiesen wurden.
 
-Die Vertretung von [[person|Katharina Baumgarten]] betrifft das Mietverhältnis in Zwettl. Eine Rechtsschutzversicherung hat für die Beratung bereits eine Deckungszusage erteilt, die Kosten sind in der Note gesondert ausgewiesen.
+Die Vertretung von [[person|Katharina Baumgarten]] betrifft das Mietverhältnis in Zwettl. Die Honorarnote für Frau [[person|Baumgarten]] ist getrennt von der Note für Herrn [[person|Schmirl]] zu begleichen, weil die Mandate nicht gemeinsam abgerechnet wurden. Eine Rechtsschutzversicherung hat für die Beratung bereits eine Deckungszusage erteilt, die Kosten sind in der Note gesondert ausgewiesen. Die Klientin hat um eine Aufschlüsselung der Kanzleikosten nach Stunden ersucht. Eine solche Aufstellung ist dieser Note als Beilage beigefügt, soweit sie den Zeitaufwand betrifft.
 
 Bitte überweisen Sie den Betrag innerhalb von 14 Tagen auf das Konto der Kanzlei. Als Verwendungszweck geben Sie bitte die Honorarnote-Nummer und Ihre Kl.-Nr. an.
 

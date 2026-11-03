@@ -29,7 +29,7 @@ Die Klägerin [[person|Nicolette Kaserer]], geb [[date_of_birth|1955-04-21]], wo
 
 **1. Sachverhalt**
 
-Die Klägerin ist Eigentümerin der Liegenschaft [[land_register_id|KG 73223 Scharndorf]]/Einlagezahl [[land_register_id|1074]]; [[land_register_id|Gst 288]], auf der die Beklagte seit dem [[date|1. März 2024]] als Mieterin eine Wohnung bewohnte. Der Mietvertrag wurde am [[date|28. Februar 2024]] abgeschlossen und sah einen monatlichen Mietzins von EUR 610,00 vor.
+Die Klägerin ist Eigentümerin der Liegenschaft [[land_register_id|KG 73223 Scharndorf]]/Einlagezahl [[land_register_id|1074]]; [[land_register_id|Gst 288]], auf der die Beklagte seit dem [[date|1. März 2024]] als Mieterin eine Wohnung bewohnte. Die Wohnung besteht aus drei Zimmern, Küche und Bad und ist im Obergeschoß des Hauses gelegen. Der Mietvertrag wurde am [[date|28. Februar 2024]] abgeschlossen und sah einen monatlichen Mietzins von EUR 610,00 vor.
 
 Die Beklagte hat den Mietzins für die Monate November 2025 bis Februar 2026 nicht bezahlt. Die Kaution von EUR 1.830,00 wurde bei Beendigung des Mietverhältnisses am [[date|31. März 2026]] nicht zurückgestellt. Die Klägerin hat die Beklagte mit Schreiben vom [[date|14. April 2026]] vergeblich zur Zahlung aufgefordert.
 

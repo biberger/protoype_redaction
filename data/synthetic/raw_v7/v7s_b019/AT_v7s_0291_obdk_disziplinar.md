@@ -32,7 +32,7 @@ Rechtsanwalt [[lawyer|Lajos Wigelbeyer]] ist schuldig, im Zeitraum vom [[date|3.
 
 Der Anzeiger [[person|Ljubo Camber]] hat am [[date|18. März 2025]] bei der Rechtsanwaltskammer Anzeige erstattet. Er habe der [[organization|Vouk KG]] ([[organization|VKG]]) im Frühjahr 2024 einen Betrag zur Hinterlegung übergeben, den der Beschuldigte als Treuhänder verwahren sollte. Die Auszahlung an den Anzeiger sei trotz mehrfacher Aufforderung nicht erfolgt.
 
-Der Kammeranwalt hat daraufhin die Anklageschrift eingebracht. Der Beschuldigte bestritt die Vorwürfe in seiner Stellungnahme vom [[date|2. Juni 2025]] nur teilweise und verwies auf eine Fehlüberweisung durch die [[organization|VKG]].
+Der Kammeranwalt hat daraufhin die Anklageschrift eingebracht. Der Beschuldigte bestritt die Vorwürfe in seiner Stellungnahme vom [[date|2. Juni 2025]] nur teilweise und verwies auf eine Fehlüberweisung durch die [[organization|VKG]]. Er legte dazu keine Belege vor, verwies aber auf ein Telefonat mit einem Mitarbeiter der [[organization|VKG]], über das kein Vermerk besteht.
 
 **II. Feststellungen**
 
@@ -50,7 +50,7 @@ Der Anzeiger brachte am [[date|29. April 2025]] eine ergänzende Stellungnahme e
 
 **III. Beweiswürdigung**
 
-Die Feststellungen gründen sich auf die vorgelegten Kontoauszüge, die Einvernahme des Anzeigers und das Protokoll der Hausdurchsuchung. Die Verantwortung des Beschuldigten, es habe sich um eine Fehlüberweisung gehandelt, ist durch keine Urkunde gedeckt. Die Aussage des Anzeigers ist glaubwürdig und in den wesentlichen Punkten durch die Auszüge bestätigt. Der Senat hat die Behauptung einer Fehlüberweisung insbesondere deshalb nicht übernommen, weil die Überweisung vom 14. Juni 2024 an die VKG ausdrücklich als Zahlung für eine Forderung bezeichnet war.
+Die Feststellungen gründen sich auf die vorgelegten Kontoauszüge, die Einvernahme des Anzeigers und das Protokoll der Hausdurchsuchung. Die Verantwortung des Beschuldigten, es habe sich um eine Fehlüberweisung gehandelt, ist durch keine Urkunde gedeckt. Der Senat hat dabei berücksichtigt, dass eine Fehlüberweisung zeitnah hätte zurückgefordert werden müssen, was nicht geschehen ist. Die Aussage des Anzeigers ist glaubwürdig und in den wesentlichen Punkten durch die Auszüge bestätigt. Der Senat hat die Behauptung einer Fehlüberweisung insbesondere deshalb nicht übernommen, weil die Überweisung vom [[date|14. Juni 2024]] an die [[organization|VKG]] ausdrücklich als Zahlung für eine Forderung bezeichnet war.
 
 **IV. Rechtliche Beurteilung**
 
@@ -60,15 +60,15 @@ Der Senat erachtet einen Verstoß gegen [[legal_norm|§ 1 Abs 1 DSt]] als erwies
 
 **V. Strafbemessung**
 
-Die Geldbuße wurde unter Berücksichtigung der Verfahrensdauer von rund zwei Jahren, die nicht allein dem Beschuldigten zuzurechnen ist, und der bisherigen Unbescholtenheit und der Schwere des Verstoßes bemessen. Erschwerend wirkt die Dauer der Vorenthaltung. Eine Streichung aus der Liste kommt nicht in Betracht, weil der Beschuldigte die Vorwürfe nicht eingestanden hat.
+Die Geldbuße wurde unter Berücksichtigung der Verfahrensdauer von rund zwei Jahren, die nicht allein dem Beschuldigten zuzurechnen ist, und der bisherigen Unbescholtenheit und der Schwere des Verstoßes bemessen. Erschwerend wirkt die Dauer der Vorenthaltung. Eine Streichung aus der Liste kommt nicht in Betracht, weil der Beschuldigte die Vorwürfe nicht eingestanden hat. Der Beschuldigte hat die Kanzleisoftware nach der Anzeige umgestellt, was der Senat als Versuch wertet, die Nachvollziehbarkeit der Buchungen einzuschränken, nicht aber als Zeichen der Einsicht.
 
 **VI. Kosten**
 
-Die Kosten des Verfahrens werden dem Beschuldigten auferlegt. Die Kosten der Zeugeneinvernahme sind in der Pauschale enthalten.
+Die Kosten des Verfahrens werden dem Beschuldigten auferlegt. Die Kosten der Zeugeneinvernahme sind in der Pauschale enthalten. Die Kosten der Sachverständigen für die Prüfung der Treuhandbücher trägt der Beschuldigte allein, weil das Gutachten aufgrund der fehlenden Unterlagen erforderlich wurde.
 
 **VII. Rechtsmittelbelehrung**
 
-Gegen diesen Beschluss kann der Beschuldigte binnen zwei Wochen ab Zustellung eine Berufung an die [[court|OBDK]] erheben. Die Berufung ist beim Disziplinarrat einzubringen.
+Gegen diesen Beschluss kann der Beschuldigte binnen zwei Wochen ab Zustellung eine Berufung an die [[court|OBDK]] erheben. Die Berufung ist beim Disziplinarrat einzubringen. Die Berufung hat aufschiebende Wirkung hinsichtlich der Geldbuße, nicht aber hinsichtlich des Ausspruchs der Schuld. Eine Ausfertigung dieses Beschlusses wird dem Anzeiger nur auszugsweise übermittelt.
 
 [[location|Innsbruck]], am [[date|21. Oktober 2026]]
 

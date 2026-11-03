@@ -16,7 +16,8 @@ brief's "file" field.
    reference lines, party blocks, tables as text, signature blocks, page headers. Use the brief's cast:
    - "letterhead_verbatim" (when given) is copied EXACTLY at the top, tags included, line breaks included.
    - Every string in "verbatim" is copied EXACTLY somewhere natural in the text, tags included. Do not
-     normalise their spelling or order: the odd forms are the point.
+     normalise their spelling or order: the odd forms are the point. Exception: a court name may be
+     declined to fit the sentence ("des [[court|Obersten Gerichtshofes]]"), keeping the tag.
    - "notes" (when given) say how to place some verbatim strings; follow them, never copy them into the text.
    - persons: use the name as given and the "role" when given ("date_of_death" for a deceased is a [[date|…]]); when "date_of_birth" is given write birth_cue + date_of_birth and tag the date as
      [[date_of_birth|…]] (not date); when "degree_position" is "between", write the degree between given name and
