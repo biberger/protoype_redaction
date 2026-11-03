@@ -68,6 +68,18 @@ Die Frage, ob die Zahlung vom [[date|14.01.2025]] mit einem Klienten in Verbindu
 
 Der Beschuldigte hat in der Verhandlung eingeräumt, dass er die Treuhandbuchungen über einen längeren Zeitraum nicht selbst kontrolliert habe. Er habe die Buchhaltung einer Mitarbeiterin überlassen, die im Jahr 2025 aus der Kanzlei ausgeschieden sei. Diese Erklärung entlastet den Beschuldigten nicht, weil die Verantwortung für die Treuhandgebarung beim Rechtsanwalt selbst liegt.
 
+3a. Weitere Beweisergebnisse
+
+Der Verteidiger des Beschuldigten beantragte in der Verhandlung die Einvernahme der früheren Buchhalterin, Frau [[person|Gerlinde Hasewend]]. Der Senat hat diesem Antrag stattgegeben. Frau [[person|Hasewend]] gab an, dass sie die Zahlungen im Jahr 2024 nach Anweisung des Beschuldigten verbucht habe, die Zuordnung zu den Klienten jedoch von diesem selbst vorgegeben worden sei. Eine eigenständige Entscheidung über die Verwendung der Treuhandgelder habe ihr nicht zugestanden.
+
+Die Zeugin hat weiters ausgeführt, dass sie die Auszahlung vom [[date|02.12.2024]] nicht selbst vorgenommen habe. Die Überweisung sei mit der Zugangsberechtigung des Beschuldigten erfolgt. Diese Aussage deckt sich mit dem Ergebnis der Kontoauszüge, die als Anlage zum Prüfbericht vorliegen.
+
+Die Kontrollstelle hat ferner die Ausgangsbuchungen auf ihre Plausibilität geprüft. Dabei wurden für die Zeiträume von [[date|01.02.2024 bis 31.03.2024]] und von [[date|01.10.2024 bis 31.12.2024]] insgesamt elf Buchungen ohne Belegnummer festgestellt. Der Beschuldigte konnte für acht dieser Buchungen keine Belege vorlegen.
+
+Der Klient [[person|Silvio Maier]] hat in einer schriftlichen Erklärung vom [[date|17.08.2026]] mitgeteilt, dass er in den Jahren 2024 und 2025 mehrfach nach dem Stand seines Guthabens gefragt habe, jedoch niemals eine Antwort erhalten habe. Der Senat sieht darin eine Verletzung der Auskunftspflicht, die über den Vorwurf der Treuhandgebarung hinausgeht, jedoch nicht Gegenstand dieses Verfahrens ist. Diese Feststellungen sind in den Akten dokumentiert und wurden dem Beschuldigten vorgehalten, der sie nicht bestritten hat.
+
+Der Beschuldigte hat in seiner letzten Stellungnahme eingeräumt, dass er die Abstimmung der Treuhandkonten im Jahr 2025 nicht vorgenommen hat. Er begründete dies mit einer Erkrankung und einer Reise ins Ausland. Eine ärztliche Bestätigung für den Zeitraum vom [[date|01.06.2025]] bis zum [[date|31.07.2025]] wurde vorgelegt; sie betrifft jedoch nur einen Teil der relevanten Monate.
+
 4. Rechtliche Beurteilung
 
 Nach [[legal_norm|§ 43a Abs 3 RAO]] hat der Rechtsanwalt die von Klienten übernommenen Gelder gesondert zu verwalten. Die Verwendung von Treuhandgeldern für fremde Zwecke oder die Auszahlung ohne Zuordnung zu einem Klienten verletzt diese Pflicht. [[legal_norm|§ 14 Abs 2 RL-BA 2015]] verlangt überdies eine zeitnahe Eintragung im Treuhandbuch.
@@ -78,13 +90,19 @@ Die Kammeranwältin hat zutreffend darauf hingewiesen, dass der Schutz der Klien
 
 Die Behauptung des Beschuldigten, der Saldo sei zu keinem Zeitpunkt ins Minus gefallen, ist durch die Kontoauszüge widerlegt. Am [[date|30.11.2025]] lag der Saldo unter dem Betrag, der für die offenen Klientenauszahlungen erforderlich gewesen wäre. Die Einzahlung des Beschuldigten nach der Prüfung erfolgte erst am [[date|09.12.2025]] und kann den Verstoß nicht ungeschehen machen.
 
+Die Kammeranwältin [[person|Mag. Dr. Tanjura Dopsch]] hat in ihrem Schlussvortrag darauf hingewiesen, dass der Beschuldigte als Rechtsanwalt mit einer besonderen Vertrauensstellung ausgestattet ist. Wer Klientengelder verwahrt, muss jederzeit Auskunft über den Stand geben können. Dieser Pflicht ist der Beschuldigte über einen Zeitraum von rund zwanzig Monaten nicht nachgekommen.
+
+Der Senat teilt diese Einschätzung grundsätzlich. Er verkennt jedoch nicht, dass der Beschuldigte die Rückzahlung der offenen Beträge eingeleitet hat, bevor das Verfahren eingeleitet wurde, und dass er an der Aufklärung des Sachverhalts durch die Vorlage der Belege mitgewirkt hat. Die Gegenseite hat die Zurechnung der Einzahlung vom [[date|14.01.2025]] im Verfahren nicht bestritten.
+
 5. Strafbemessung
 
 Mildernd wirkte, dass der Beschuldigte seit dem [[date|01.06.2009]] unbescholten ist und sich bei der Kontrolle kooperativ zeigte. Erschwerend war das Zusammentreffen mehrerer Verstöße und die Gefährdung der Klientengelder.
 
 Unter Abwägung dieser Umstände erscheint die Geldbuße von EUR 6.000,00 tat- und schuldangemessen. Die Kostenentscheidung beruht auf [[legal_norm|§ 49 RAO]].
 
-Die Vorsitzende der Kammer wies den Beschuldigten nach der Verkündung auf die Möglichkeit einer Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] hin.
+Die Kosten des Verfahrens umfassen die Schriftsatzgebühr, die Kosten des Prüfberichts in Höhe von EUR 1.140,00 sowie die Kosten der Zeugeneinvernahme. Der Beschuldigte hat den Ersatz dieser Kosten zu leisten, soweit sie im Verfahren angefallen sind; die Kosten für die Anreise der Zeugin werden dem Beschuldigten nicht auferlegt.
+
+Die Vorsitzende der Kammer wies den Beschuldigten nach der Verkündung auf die Möglichkeit einer Berufung binnen vier Wochen an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] hin.
 
 [[location|Graz]], am [[date|22.09.2026]]
 

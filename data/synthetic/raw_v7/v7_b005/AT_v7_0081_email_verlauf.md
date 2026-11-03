@@ -53,7 +53,9 @@ Gesendet: Donnerstag, [[date|3. April 2025]] 08:14
 An: [[person|Krahl]]
 Betreff: Parteien
 
-Parteien: [[person|Melchior⏎Haiböck]], Geburtsdatum: [[date_of_birth|2. April 2000]], [[person|Henning⏎Lang]]
+Parteien: [[person|Melchior
+Haiböck]], Geburtsdatum: [[date_of_birth|2. April 2000]], [[person|Henning
+Lang]]
 
 Mit freundlichen Grüßen
 [[person|Melchior Haiböck]]

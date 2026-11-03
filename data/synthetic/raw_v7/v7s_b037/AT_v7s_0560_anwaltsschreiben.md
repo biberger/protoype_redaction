@@ -50,7 +50,9 @@ Im Einzelnen sind folgende Mängel dokumentiert:
 
 Mit Schreiben vom [[date|02.07.2026]] hatte mein Mandant die Mängel erstmals mündlich gerügt. Ihre Antwort vom [[date|09.07.2026]], wonach die Schäden auf eine unsachgemäße Lüftung durch die Bewohner zurückzuführen seien, hat der Sachverständige ausdrücklich widerlegt. Die Lüftungsanlage wurde am [[date|17.07.2026]] von einem Fachbetrieb überprüft und für funktionstüchtig befunden.
 
-Bitte bestätigen Sie den Eingang dieses Schreibens und teilen Sie uns binnen 14 Tagen mit, ob Sie zur Mängelbehebung bereit sind. Die Kopie des Sachverständigengutachtens ist beigelegt. Die Kosten dieses Schreibens werden gemäß [[legal_norm|§ 1333 ABGB]] geltend gemacht.
+Die Kanzlei ist unter der oben angeführten Telefonnummer während der üblichen Bürozeiten erreichbar. Bitte bestätigen Sie den Eingang dieses Schreibens und teilen Sie uns binnen 14 Tagen mit, ob Sie zur Mängelbehebung bereit sind. Die Kopie des Sachverständigengutachtens ist beigelegt. Die Kosten dieses Schreibens werden gemäß [[legal_norm|§ 1333 ABGB]] geltend gemacht.
+
+Sollte bis zur genannten Frist keine Antwort eingehen, werden wir annehmen, dass Sie die Mängelbehebung ablehnen, und die weiteren Schritte ohne neuerliche Aufforderung einleiten. Eine außergerichtliche Einigung über den Vorschuss ist weiterhin möglich, wenn Sie die Mängel bis zum Ende des Monats beheben lassen.
 
 Mit freundlichen Grüßen
 

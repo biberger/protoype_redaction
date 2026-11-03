@@ -42,6 +42,10 @@ I. Vorbringen
 
 5. Die Streitverkündete [[person|Aicher]] hat die Planung der Dachkonstruktion verantwortet. Sie hat die Abdichtung nach den anerkannten Regeln der Technik ausgeführt, sodass die Beklagte im Innenverhältnis Regress nehmen kann.
 
+Zur Streitverkündung ist festzuhalten, dass die [[person|Aicher]] ihren Beitritt zum Verfahren bisher nicht erklärt hat. Die Beklagte hat sie daher förmlich aufgefordert, dem Verfahren beizutreten und sich zu den Behauptungen der Klägerin zu äußern. Die Frist dafür läuft nach der Zustellung dieses Schriftsatzes; ein Beitritt ist im Interesse der Beklagten, weil nur so die Feststellungen zur Planung im Verfahren verbindlich werden.
+
+Die Klägerin hat außerdem in ihrer Klage eine Wertsicherung des Schadenersatzes verlangt, die nach dem Verbraucherpreisindex berechnet werden soll. Eine solche Wertsicherung ist im Schadenersatzrecht nur ausnahmsweise zu gewähren, wenn der Schaden über einen längeren Zeitraum hinweg zu erstatten ist. Dies ist hier nicht der Fall, weil die Sanierung bereits abgeschlossen ist.
+
 II. Rechtliche Beurteilung
 
 Ein Verschulden der [[organization|Pinezich]] ist nicht ersichtlich. Die Haftung richtet sich nach [[legal_norm|§ 1295 ABGB]]; die Beweislast für ein Verschulden trägt die Klägerin nach [[legal_norm|§ 1298 ABGB]]. Die Beklagte weist darauf hin, dass die Abdichtung im Zeitpunkt des Schadens nicht mehr dem Gewährleistungszeitraum unterlag.

@@ -45,7 +45,7 @@ Bauf.(20) 4191 [[address|Deißenhofergasse 11]]
 Seite 1 von 2
 [[land_register_id|922/13]] * GST-Fläche 5075
 Sonst(10) 1047 [[address|Wurmbstraße 53]]
-Landw(30) 1439
+Landw(30) 1446
 [[land_register_id|1369]] * Bauf.(10) 36137
 [[land_register_id|147]] G * Sonst(50) 13418
 [[land_register_id|1510]] Sonst(50) 15100

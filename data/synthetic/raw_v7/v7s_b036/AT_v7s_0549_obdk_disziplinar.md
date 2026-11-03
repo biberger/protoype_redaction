@@ -84,6 +84,10 @@ Die Kammeranwältin hat auf ein Rechtsmittel verzichtet. Der Beschuldigte hat si
 
 Die Zeugin [[person|Ada Borawska]] hat mitgeteilt, dass sie die Verhandlung als fair empfunden hat. Die Zeugin [[person|Schilling]] hat um eine Kopie des Protokolls ersucht; diesem Ersuchen wurde entsprochen.
 
+Der Senat verpflichtet den Beschuldigten zudem, innerhalb von drei Monaten einen Bericht über die Neuorganisation des Treuhandkontos vorzulegen. Der Bericht hat die Zuordnung sämtlicher Treuhandschaften, die Führung des Treuhandbuchs und die Kontrolle durch den Kontrollbeauftragten zu beschreiben. Die Kammer wird die Umsetzung überprüfen; kommt der Beschuldigte dieser Auflage nicht nach, kann der Senat die Angelegenheit erneut aufgreifen.
+
+Für die Zukunft wird dem Beschuldigten aufgetragen, jede Auszahlung aus dem Treuhandkonto mit einer schriftlichen Weisung des Klienten zu belegen und Honorarforderungen erst nach einer ausdrücklichen Vereinbarung zu verrechnen. Der Senat hat dem Beschuldigten die Gelegenheit gegeben, zu diesen Auflagen Stellung zu nehmen; er hat davon Gebrauch gemacht und die Auflagen akzeptiert.
+
 Die Kosten des Verfahrens werden auf EUR 1.450,00 bestimmt. Die Zahlung ist binnen vier Wochen nach Rechtskraft zu leisten.
 
 [[location|Graz]], am [[date|11.05.2026]]

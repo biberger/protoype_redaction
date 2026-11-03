@@ -45,6 +45,10 @@ Katastralgemeinde [[land_register_id|62129]] / [[land_register_id|E.Z. 2899]] ([
 
 4. Die [[person|Czerny]] ist Mieterin einer Wohnung im Objekt. Sie hat auf ihr Vorkaufsrecht schriftlich verzichtet; der Verzicht datiert vom [[date|02.02.2026]].
 
+5. Die Vermessung wurde im Jänner 2026 durch einen Zivilgeometer durchgeführt; der Teilungsplan wurde von der zuständigen Behörde geprüft und mit einer Bestätigung versehen. Die Grenzen sind an Ort und Stelle durch Grenzsteine gekennzeichnet, die bei der Begehung am [[date|10.02.2026]] von beiden Parteien anerkannt wurden.
+
+6. Die Antragsgegnerin hat den Antragsteller am [[date|03.03.2026]] schriftlich aufgefordert, die Kosten der Vermessung zu übernehmen. Der Antragsteller hat die Übernahme mit Schreiben vom [[date|09.03.2026]] abgelehnt, weil die Teilung nach dem Kaufvertrag von der Verkäuferin zu veranlassen gewesen wäre.
+
 II. Rechtliche Beurteilung
 
 Der Antrag auf Einverleibung ist nach [[legal_norm|§ 26 GBG]] iVm [[legal_norm|§ 431 ABGB]] zu stellen. Der Titel ist der Kaufvertrag vom [[date|17.11.2025]], der die Form des [[legal_norm|§ 1053 ABGB]] wahrt. Die Verkäuferin [[organization|Klausberger]] hat die Auflassung erklärt.

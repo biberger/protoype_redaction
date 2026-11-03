@@ -32,6 +32,8 @@ DATUM | LEISTUNG | BETRAG EUR
 [[date|02.02.2026]] | Telefonat mit [[person|Terzić]] wegen Kaufpreiszahlung, Klienten-Nr. [[other_identifier|2577]] | 146,80
 [[date|16.03.2026]] | Teilnahme am Notariatstermin mit [[person|Klostermann]] und [[person|Terzić]] | 890,00
 
+Die Leistungen gliedern sich wie folgt: Erstberatung und Aktenstudium (Position 1), Verhandlungsvorbereitung und Schriftverkehr mit der Gegenseite (Position 2), telefonische Abstimmung mit dem Notariat (Position 3) sowie Teilnahme am Termin (Position 4). Die Zeitaufwände werden nach Einheiten zu je sechs Minuten erfasst; die Protokolle der Besprechungen liegen der Kanzlei vor und können auf Wunsch eingesehen werden.
+
 Zwischensumme netto: EUR 1.929,20
 USt 20 %: EUR 385,84
 Gesamtbetrag brutto: EUR 2.315,04

@@ -16,8 +16,10 @@ Klagende Partei: [[organization|Bornemann KG]] ([[company_register_number|FN 101
 
 gegen
 
-1. [[person|Shameen⏎Ansari]], GEB: [[date_of_birth|28.12.1992]],
-   wohnhaft [[address|Hauptplatz 9/2,⏎2100 Korneuburg]],
+1. [[person|Shameen
+Ansari]], GEB: [[date_of_birth|28.12.1992]],
+   wohnhaft [[address|Hauptplatz 9/2,
+2100 Korneuburg]],
 
 2. [[person|Cafer Aydınoğlu]], Geburtsdatum: [[date_of_birth|8. August 1948]],
    wohnhaft [[address|Bahnstraße 41, 2100 Korneuburg]],

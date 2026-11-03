@@ -41,7 +41,7 @@ Die Rechtsanwältin [[lawyer|Wöber]] führte für die Klientin [[person|Reingar
 Die Treuhandnummer [[other_identifier|2020/833]] wurde im Treuhandbuch wie folgt geführt:
 
 - [[date|3. März 2025]]: Einzahlung EUR 18.500,00 durch die Klientin;
-- [[date|11. März 2025]]: Auszahlung EUR 4.200,00 an die Hausverwaltung ohne schriftliche Weisung;
+- [[date|11. März 2025]]: Auszahlung EUR 4.200,00 an die [[organization|Vallaster Hausverwaltung GmbH]] ([[organization|VHV]]) ohne schriftliche Weisung;
 - [[date|24. März 2025]]: Auszahlung EUR 9.000,00 an den Verkäufer;
 - [[date|2. April 2025]]: Rückzahlung EUR 1.300,00 an die Klientin.
 
@@ -61,7 +61,7 @@ Der Senat stellt fest, dass die Verspätung der Abrechnung und die unzureichende
 
 2. Rechtliche Beurteilung
 
-Nach den Bestimmungen der [[legal_norm|Rechtsanwaltsordnung]] hat der Rechtsanwalt fremde Gelder getrennt vom eigenen Vermögen zu verwahren und jede Auszahlung nur nach Weisung des Klienten oder nach Eintritt der vereinbarten Bedingung vorzunehmen. Die Auszahlung vom [[date|11. März 2025]] erfolgte ohne Weisung und ohne Eintritt einer Bedingung. Sie verletzt daher die Pflichten nach [[legal_norm|§ 10 RAO]] und die Berufspflicht zur Treue nach [[legal_norm|§ 9 RAO]].
+Nach den Bestimmungen der [[legal_norm|Rechtsanwaltsordnung]] hat der Rechtsanwalt fremde Gelder getrennt vom eigenen Vermögen zu verwahren und jede Auszahlung nur nach Weisung des Klienten oder nach Eintritt der vereinbarten Bedingung vorzunehmen. Die Auszahlung an die [[organization|VHV]] vom [[date|11. März 2025]] erfolgte ohne Weisung und ohne Eintritt einer Bedingung. Sie verletzt daher die Pflichten nach [[legal_norm|§ 10 RAO]] und die Berufspflicht zur Treue nach [[legal_norm|§ 9 RAO]].
 
 Die Verspätung der Abrechnung gegenüber [[person|Loitzl]] verletzt außerdem die Auskunftspflicht. Die Beschuldigte hat bereits im Verfahren eingeräumt, dass sie die Abrechnung nicht fristgerecht erstellt hat.
 

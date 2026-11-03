@@ -18,7 +18,8 @@ Kunden-Nr. [[other_identifier|840677]]
 Rechnungsdatum: [[date|21.08.2026]]
 
 Auftraggeber:
-[[person|Mag. Dr. Willy⏎Wiener]]
+[[person|Mag. Dr. Willy
+Wiener]]
 GEB: [[date_of_birth|1969-06-13]]
 Wohnsitz: [[address|Hauptplatz 7, 2340 Mödling]]
 StA: [[country|Rumänien]]

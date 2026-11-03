@@ -92,7 +92,10 @@ Sehr geehrter Herr [[person|Din]],
 
 anbei der Entwurf des Kaufvertrags. Die Parteien sind:
 
-[[person|Serbana⏎Arsenescu]], geb. [[date_of_birth|09.01.1943]], [[address|Rosenweg 14,⏎9120 Velden]]; [[person|Iskender⏎Din]],
+[[person|Serbana
+Arsenescu]], geb. [[date_of_birth|09.01.1943]], [[address|Rosenweg 14,
+9120 Velden]]; [[person|Iskender
+Din]],
 StA: [[country|Serbien]]
 
 Die Klage richtet sich gegen die [[country|Republik Österreich]] als Beklagte. Die [[organization|Koppitz Immobilien GmbH]] hat die Grundstücke [[land_register_id|KG: 61871 Kirchdorf in Tirol]] [[land_register_id|E.Z. 3394]] [[land_register_id|Gst 204]] übertragen.

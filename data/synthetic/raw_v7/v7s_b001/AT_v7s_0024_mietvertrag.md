@@ -12,8 +12,10 @@ abgeschlossen am [[date|10. November 2026]] zwischen
 
 1. Vermieterin: [[organization|Hausfeld Liegenschaften GmbH]], vertreten durch den Geschäftsführer [[person|Stilian Gotschew]], Geburtsdatum: [[date_of_birth|1957-11-21]], StA. [[country|Polen]] (im Folgenden: Vermieterin). Kd.-Nr. [[other_identifier|341897]]
 
-2. Mieter: [[person|Mag. Anatoliy⏎Ikonomov]], geboren am [[date_of_birth|2001-11-11]],
-wohnhaft in [[address|Bahnhofstraße 5/2,⏎4880 St. Georgen im Attergau]] (im Folgenden: Mieter). Kunden-Nr. [[other_identifier|605898]]
+2. Mieter: [[person|Mag. Anatoliy
+Ikonomov]], geboren am [[date_of_birth|2001-11-11]],
+wohnhaft in [[address|Bahnhofstraße 5/2,
+4880 St. Georgen im Attergau]] (im Folgenden: Mieter). Kunden-Nr. [[other_identifier|605898]]
 
 3. Bürge und Zahler: [[person|Rafael Schafferer]], *[[date_of_birth|1954-10-16]], wohnhaft in [[address|Seeweg 8, 4882 Oberwang]] (im Folgenden: Bürge).
 

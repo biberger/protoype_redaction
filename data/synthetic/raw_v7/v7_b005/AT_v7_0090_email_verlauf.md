@@ -84,7 +84,11 @@ Guten Morgen,
 
 [[person|Tuka Uzeir]], geboren am [[date_of_birth|1976-11-03]], erteile hiermit Vollmacht für die Erbteilung. Meine Tochter [[person|Leonie Kallinger]], geb. [[date_of_birth|2004-11-17]], ist ebenfalls Erbin und wird die Vollmacht gegenzeichnen.
 
-Parteien: [[person|Gabriella⏎Singer]], [[person|Uzeir⏎Tuka]], [[person|Leonie⏎Kallinger]], [[person|Zuzanka⏎Weingärtner]]
+Parteien: [[person|Gabriella
+Singer]], [[person|Uzeir
+Tuka]], [[person|Leonie
+Kallinger]], [[person|Zuzanka
+Weingärtner]]
 
 Die Berufung gegen den Beschluss ist beim [[court|Oberlandesgericht Graz]] anhängig. Wir bitten um Rückmeldung bis [[date|28. Februar 2025]].
 

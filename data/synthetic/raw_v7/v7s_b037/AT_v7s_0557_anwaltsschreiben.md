@@ -23,6 +23,7 @@ z. H. der Geschäftsführung
 Herrn [[person|Fritz Zernatto]]
 
 Betreff: Schadenersatzforderung aus dem Verkehrsunfall vom [[date|14.05.2026]]; Vers.-Nr. [[other_identifier|23-8589089]]
+Kunden-Nr. [[other_identifier|232324]]
 
 Sehr geehrte Damen und Herren,
 

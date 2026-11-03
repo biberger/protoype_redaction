@@ -58,6 +58,10 @@ Die Gerichtskosten für die Einantwortung sind nach dem Gebührengesetz zu berec
 
 Die Grunderwerbsteuer für den Übergang der Liegenschaft ist nach der Einantwortung durch die Erben zu entrichten. Die Steuererklärung ist binnen der gesetzlichen Frist beim Finanzamt einzureichen; die Erben wurden darauf hingewiesen, dass die Befreiung für Erwerbe von Todes wegen nur unter bestimmten Voraussetzungen gilt.
 
+Zum Verfahrensablauf ist festzuhalten: Die Todesfallaufnahme erfolgte am [[date|09.02.2026]] durch das Gericht, die Vorlage des Testaments wurde am [[date|11.02.2026]] protokolliert. Die Verständigung der bekannten Gläubiger erfolgte mit Schreiben vom [[date|02.03.2026]]; die Frist zur Anmeldung von Forderungen lief bis [[date|30.03.2026]]. Innerhalb dieser Frist meldete nur [[person|Wiesenthal]] eine Forderung an. Weitere Gläubiger sind dem Verfahren nicht bekannt geworden.
+
+Die Erben wurden über die Möglichkeit informiert, den Nachlass durch ein Nachlassinventar abzugrenzen. Sie haben davon Gebrauch gemacht, sodass die Haftung auf den Nachlass beschränkt bleibt. Die Vernehmung der Erben fand jeweils getrennt statt; beide Erben haben die Angaben zu Vermögen und Verbindlichkeiten bestätigt.
+
 VI. Hinweise
 
 Der Erbe und die Erbin wurden über die Möglichkeit der Erbantrittserklärung und die Frist zur Ausschlagung belehrt. Die Erbantrittserklärung [[person|Ghorbani]] vom [[date|27.03.2026]] ist wirksam. Rückfragen zum Abhandlungsverfahren richten Sie bitte an Tel. [[phone_number|05572/9471937 Kl. 27]].

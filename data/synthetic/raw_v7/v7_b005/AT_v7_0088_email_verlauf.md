@@ -127,8 +127,11 @@ Sehr geehrte Frau [[person|Passalis]],
 wir bitten um Ihr Erscheinen am [[date|14. Februar 2025]] in der Kanzlei. Die Unterlagen des Bezirksgerichts Neunkirchen wurden übermittelt, das Verfahren ist beim [[court|Bezirksgericht Neunkirchen]] anhängig, später beim [[court|BG Neunkirchen]].
 
 Parteien:
-[[person|Dr. German⏎Nabl]], [[person|Stergianoula⏎Passalis]], geb. [[date_of_birth|28.02.1946]],
-[[address|Hauptstraße 9,⏎7093 Jois]]
+[[person|Dr. German
+Nabl]], [[person|Stergianoula
+Passalis]], geb. [[date_of_birth|28.02.1946]],
+[[address|Hauptstraße 9,
+7093 Jois]]
 
 Mit freundlichen Grüßen
 [[person|Horvat]]

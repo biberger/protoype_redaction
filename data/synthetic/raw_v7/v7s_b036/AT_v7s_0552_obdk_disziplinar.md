@@ -60,6 +60,10 @@ Mildernd wirkt die lange Berufspraxis und die Tatsache, dass die Beträge letztl
 
 Die Entscheidung ergeht an die Beschuldigte, Tel. [[phone_number|+43-662-8988630 Kl. 17]], und an die Kammeranwältin. Die Zustellanschrift lautet [[address|6105 Leutasch]]. Die Beschuldigte hat auf Rechtsmittel verzichtet; der Kammeranwältin steht die Berufung an den [[court|OBDK]] offen.
 
+Bei der Bemessung der Geldbuße hat der Senat berücksichtigt, dass die Beschuldigte über einen Zeitraum von mehr als zwanzig Jahren als Rechtsanwältin tätig war und bislang keine vergleichbare Verfehlung aufgewiesen hat. Dieser Umstand wirkt zu ihren Gunsten, ist jedoch gegenüber der Dauer der Verzögerung im ersten Fall abzuwägen, in dem der Klientin über mehr als zwei Jahre der Betrag vorenthalten wurde.
+
+Der Senat hat zudem geprüft, ob die Beschuldigte die Treuhandbuchführung im Jahr 2026 wieder ordnungsgemäß betrieben hat. Die Kammeranwältin hat dazu ausgeführt, dass die Kaution im Fall [[person|Rabel]] zwar am [[date|14.05.2026]] hinterlegt wurde, die Verzögerung gegenüber dem Fälligkeitstag jedoch fast sieben Wochen betrug. Der Senat sieht darin einen weiteren Hinweis auf organisatorische Mängel, die nicht als bloßer Zufall abzutun sind.
+
 Die Wohnung der Beschuldigten liegt in [[location|St. Ruprecht an der Raab]], das Verfahren wird jedoch am Sitz des Disziplinarrats geführt.
 
 [[location|Graz]], am [[date|08.07.2026]]

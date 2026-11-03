@@ -43,6 +43,8 @@ Die Zeugin [[person|Henrika Kelsen]] gab an, sie habe einer Einbehaltung ihres A
 
 Der Kammeranwalt [[person|Dr. Valtin Preisinger]] hat in seinem Schlussvortrag hervorgehoben, dass die Beschuldigte im Jahr 2025 an einer Fortbildung zum Treuhandrecht teilgenommen hat. Dies wertete der Senat als Hinweis auf eine ernsthafte Auseinandersetzung mit den Vorwürfen, änderte jedoch nichts an der Beurteilung der Vorfälle des Jahres 2024.
 
+Die Mandanten wurden über die Verwahrung ihrer Gelder nicht schriftlich informiert, eine Belehrung über die Trennung der Beträge fand nach den Feststellungen nicht statt. Auch die Kontoführung des Treuhandkontos wurde nicht laufend abgestimmt.
+
 Die Beschuldigte hat in der Verhandlung angegeben, die Kanzlei habe in dieser Zeit personelle Engpässe gehabt. Der Senat hat diesen Umstand berücksichtigt, jedoch festgehalten, dass die Verantwortung für die Verwaltung des Treuhandkontos bei der Rechtsanwältin selbst liegt und durch organisatorische Schwierigkeiten nicht entfällt.
 
 Rechtliche Beurteilung
@@ -51,7 +53,7 @@ Der Senat hat erwogen: Die Verwaltung fremder Gelder gehört zu den zentralen Be
 
 Der Senat hat die bisherige ordentliche Berufsausübung der Beschuldigten als mildernd gewertet. Erschwerend war die Mehrzahl der Vorfälle und der Umstand, dass Mandanten über längere Zeit ohne Auskunft blieben. Die verhängte Geldbuße entspricht dem Unrechtsgehalt und der persönlichen Lage der Beschuldigten.
 
-Der Vorsitz hat die Sache am [[date|18.06.2026]] beraten. Die Beschuldigte hat auf Rechtsmittel verzichtet; der Kammeranwalt hat die Entscheidung zur Kenntnis genommen.
+Der Vorsitz hat die Sache am [[date|18.06.2026]] beraten; die Beratung dauerte rund eine Stunde und erfolgte einstimmig. Die Beschuldigte hat auf Rechtsmittel verzichtet; der Kammeranwalt hat die Entscheidung zur Kenntnis genommen.
 
 Die Beschuldigte ist seit dem Jahr 2008 in die Liste der Rechtsanwälte eingetragen. Eine frühere Disziplinarstrafe liegt nicht vor. Der Senat hat die Verfahrensdauer von rund sechzehn Monaten berücksichtigt; sie ist überwiegend auf die Ergänzung der Ermittlungen durch die Kammer zurückzuführen und wird der Beschuldigten daher nicht als Verzögerung angelastet.
 

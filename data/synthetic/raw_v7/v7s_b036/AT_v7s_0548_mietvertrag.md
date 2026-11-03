@@ -23,7 +23,7 @@ I. Mietgegenstand
 
 1. Vermietet wird die Wohnung Top 7 im Haus [[address|Bahnhofstraße 14/Top 7, 6700 Bludenz]], bestehend aus drei Zimmern, Küche, Vorraum, Bad, WC und einem Abstellraum im Kellergeschoss mit einer Nutzfläche von rund 74 m².
 
-2. Die Liegenschaft ist im Grundbuch des [[court|Bezirksgericht Bludenz]] eingetragen als Grundbuch [[land_register_id|32392 Neudorf]] / [[land_register_id|EZ 1296]]. Die Vermieterin ist Eigentümerin des Gebäudes.
+2. Die Liegenschaft ist im Grundbuch des [[court|Bezirksgericht Bludenz]] eingetragen als Grundbuch [[land_register_id|32392 Neudorf]] / [[land_register_id|EZ 1296]]. Die Vermieterin ist Eigentümerin des Gebäudes. Die Wohnung wurde im Jahr 2019 vollständig renoviert; die Elektroinstallation wurde nach den geltenden Vorschriften erneuert, und ein Elektrobefund liegt bei der Vertragsurkunde bei. Der Mieter erklärt, den Mietgegenstand besichtigt zu haben und mit dessen Zustand einverstanden zu sein.
 
 3. Der Mietgegenstand wird als Wohnung zu Wohnzwecken vermietet. Er unterliegt nicht dem Vollanwendungsbereich des [[legal_norm|MRG]], da das Gebäude nach dem [[date|31.12.1944]] errichtet wurde.
 

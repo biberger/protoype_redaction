@@ -31,7 +31,7 @@ Am [[date|14.09.2026]] um 08:12 schrieb [[person|Albertine Pree]] <[[email|a.pre
 > Gesendet: Montag, [[date|14. September 2026]] 08:12
 > An: [[person|Bernard Wiener]] <[[email|office@bernard.at]]>
 > Cc: [[person|Gustaf Mohr]] <[[email|g.mohr@stolz-kg.at]]>
-> Betreff: Pree ./. Magerl
+> Betreff: [[other_identifier|Pree ./. Magerl]]
 >
 > Guten Morgen Herr [[person|Mag. Wiener]],
 >
@@ -42,7 +42,7 @@ Am [[date|14.09.2026]] um 08:12 schrieb [[person|Albertine Pree]] <[[email|a.pre
 > Bitte melden Sie sich unter Tel. [[phone_number|02742 618038-6]], falls Sie Rückfragen haben.
 >
 > Viele Grüße
-> Albertine Pree
+> [[person|Albertine Pree]]
 
 Am [[date|10.09.2026]] hat [[person|Gustaf Mohr]] geschrieben:
 
@@ -57,15 +57,19 @@ Am [[date|10.09.2026]] hat [[person|Gustaf Mohr]] geschrieben:
 Von: [[person|Virzhinia Stancheva]]
 Gesendet: Dienstag, [[date|15. September 2026]] 16:03
 An: [[person|Albertine Pree]]
-Betreff: WG: Pree ./. Zingler
+Betreff: WG: [[other_identifier|Pree ./. Zingler]]
 
 Liebe Frau [[person|Pree]],
 
 anbei die Unterlagen von Herrn [[person|Narzissus MMag. Mayregger]], der als Gutachter den Wasserschaden in der Wohnung besichtigt hat. Herr [[person|Mayregger]] bestätigt, dass die Schäden nicht älter als drei Wochen sind. Das auf dem Stellplatz abgestellte Fahrzeug mit dem Kennzeichen [[license_plate|L-42XE]] war ebenfalls betroffen.
 
-Die Schadenmeldung an die [[organization|Stolz]] wurde unter dem Zeichen [[other_identifier|Pree ./. Magerl]] abgelegt. Die GZ der Kanzlei lautet [[other_identifier|Pree ./. Zingler]]. Das Gutachten ist in zwei Ausfertigungen vorhanden; eine Kopie geht an Herrn [[person|Mohr]] per Post, damit die Stolz KG keine Ausrede mehr hat.
+Die Schadenmeldung an die [[organization|Stolz KG]] wurde unter dem Zeichen [[other_identifier|Pree ./. Magerl]] abgelegt. 
+GZ der Kanzlei: [[other_identifier|Pree ./. Zingler]]
+Das Gutachten ist in zwei Ausfertigungen vorhanden; eine Kopie geht an Herrn [[person|Mohr]] per Post, damit die [[organization|Stolz KG]] keine Ausrede mehr hat.
 
 Ich habe außerdem mit Frau [[person|Iwańska]] telefoniert. Sie hat den Schaden am [[date|12.09.2026]] bemerkt und die Fotos auf ihrem Handy gespeichert. Ich bitte Sie, ihr die Fotos über die Kanzlei [[person|Bernard]] weiterzuleiten, damit sie als Beweismittel dienen können.
+
+Bitte geben Sie mir Bescheid, sobald Sie die Unterlagen der [[organization|Stolz KG]] erhalten haben, damit wir den Termin koordinieren können. Die Fotos vom Stellplatz sind im Anhang.
 
 Mit lieben Grüßen
 [[person|Virzhinia Stancheva]]
@@ -82,4 +86,4 @@ Am [[date|15.09.2026]] hat [[person|Lucja Iwańska]] geschrieben:
 Mit freundlichen Grüßen
 
 [[person|Albertine Pree]]
-Hausverwaltung Pree
+[[organization|Hausverwaltung Pree]]

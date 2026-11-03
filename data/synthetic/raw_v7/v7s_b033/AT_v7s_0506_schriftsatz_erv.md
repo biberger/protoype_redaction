@@ -53,7 +53,9 @@ III. Beweismittel
 Zum Beweis wird aufgenommen:
 
 1. Einvernahme der Beklagten als Partei.
-2. Einvernahme der Mitbewohnerin [[person|Marinka Ognyanova]], *[[date_of_birth|1974-10-26]], StA: [[country|Kroatien]], wohnhaft in [[address|Lindengasse 9/3, 1100 Wien]]. Die Zeugin hat den Wasserschaden gesehen und die Feuchtigkeit im Badezimmer dokumentiert.
+2. Einvernahme der Mitbewohnerin [[person|Marinka
+Ognyanova]], *[[date_of_birth|1974-10-26]], StA: [[country|Kroatien]], wohnhaft in [[address|Lindengasse 9/3,
+1100 Wien]]. Die Zeugin hat den Wasserschaden gesehen und die Feuchtigkeit im Badezimmer dokumentiert.
 3. Einvernahme der Zeugin [[person|Kathi Schaffner]], *[[date_of_birth|1973-06-02]], wohnhaft in [[address|Pasettistraße 44/7, 1200 Wien]]. Die Zeugin hat die Hausverwaltung im Februar 2026 persönlich kontaktiert.
 4. Einvernahme des Zeugen [[person|Gervas Ruf]], Geburtsdatum: [[date_of_birth|07.11.2000]], wohnhaft in [[address|Hetzendorfer Straße 80, 1120 Wien]]. Der Zeuge hat die Mietzahlungen der Beklagten im Büro der Klägerin übergeben.
 5. Einvernahme des Zeugen [[person|Mathaus Rhomberg]], GEB: [[date_of_birth|2003-03-18]], StA: [[country|Slowakei]], wohnhaft in [[address|Gurkgasse 31, 1140 Wien]].

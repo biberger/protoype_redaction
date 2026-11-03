@@ -62,7 +62,7 @@ PARTEI | GEBURTSDATUM | ANSCHRIFT
 
 IV. Kosten
 
-Die Klägerin hat die Kosten des Sachverständigengutachtens vom [[date|09.02.2026]] in Höhe von EUR 2.760,00 vorgeschossen. Diese Kosten sind als notwendige Verfahrenskosten zu ersetzen. Die Klägerin verzeichnet ferner die Kosten der Revisionsbeantwortung nach dem Tarif, ausgehend von einem Streitwert von EUR 47.300,00.
+Die Klägerin hat die Kosten des Sachverständigengutachtens vom [[date|09.02.2026]] in Höhe von EUR 2.760,00 vorgeschossen. Diese Kosten sind als notwendige Verfahrenskosten zu ersetzen. Das Gutachten wurde zur Klärung der Frage eingeholt, ob die Dämmung dem Stand der Technik entsprach; es kommt zu dem Ergebnis, dass die Mängel in der Ausführung und nicht in der Planung liegen. Die Klägerin verzeichnet ferner die Kosten der Revisionsbeantwortung nach dem Tarif, ausgehend von einem Streitwert von EUR 47.300,00.
 
 Rückfragen richten Sie bitte an Tel. [[phone_number|+43-732-849328 Kl. 15]].
 

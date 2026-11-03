@@ -39,7 +39,7 @@ Die Klientin [[person|Heideliese Jost]] beauftragte die Beschuldigte im Frühjah
 
 Die Bewegungen auf dem Treuhandkonto [[bank_account|AT32 5220 0200 9045 0431]] bei der [[organization|Bergland Volksbank AG]] ([[organization|BVB]]) stellen sich nach den Feststellungen der Kontrollstelle wie folgt dar:
 
-[[date|03.03.2023]] Einzahlung Jost, EUR 12.400,00, Treuhand-Nr. [[other_identifier|TK 23/0314]]
+[[date|03.03.2023]] Einzahlung [[person|Jost]], EUR 12.400,00, Treuhand-Nr. [[other_identifier|TK 23/0314]]
 [[date|17.04.2023]] Auszahlung an die [[organization|Davy KG]], EUR 3.850,00, Treuhand-Nr. [[other_identifier|TK 23/0377]]
 [[date|09.11.2023]] Einzahlung durch [[person|Sandra Eckstein]], EUR 6.120,50, Treuhand-Nr. [[other_identifier|TK 23/0802]]
 [[date|28.02.2024]] Rückzahlung an [[person|Jost]], EUR 2.000,00, Treuhand-Nr. [[other_identifier|TK 23/0314]]

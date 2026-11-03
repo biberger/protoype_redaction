@@ -43,13 +43,13 @@ Die Beschuldigte führte für ihre Kanzlei ein Treuhandkonto, das im Treuhandbuc
 
 [[date|03.01.2024]] Einzahlung Klientin [[person|Gisela Pöltl]], EUR 7.300,00, Treuhand-Nr. [[other_identifier|TB 24/0031]]
 [[date|18.02.2024]] Auszahlung an Dritte, EUR 2.450,00, ohne Treuhand-Nr.
-[[date|25.04.2024]] Einzahlung [[person|Nesrine Shirzad]] für Klientin Pöltl, EUR 1.800,00, Treuhand-Nr. [[other_identifier|TB 24/0031]]
+[[date|25.04.2024]] Einzahlung [[person|Nesrine Shirzad]] für Klientin [[person|Pöltl]], EUR 1.800,00, Treuhand-Nr. [[other_identifier|TB 24/0031]]
 [[date|13.09.2024]] Auszahlung an [[organization|Nordbahn Immobilien GmbH]], EUR 6.400,00, Treuhand-Nr. [[other_identifier|TB 24/0188]]
 [[date|02.12.2024]] Auszahlung ohne Zuordnung, EUR 3.150,00, ohne Treuhand-Nr.
 [[date|19.03.2025]] Einzahlung [[organization|Nordbahn]], EUR 900,00, Treuhand-Nr. [[other_identifier|TB 24/0188]]
 [[date|27.08.2025]] Auszahlung an [[person|Pöltl]], EUR 4.000,00, Treuhand-Nr. [[other_identifier|TB 24/0031]]
 
-Die Nordbahn Immobilien GmbH ist unter [[company_register_number|FN 402971m]] im Firmenbuch eingetragen. Die Gesellschaft hatte die Beschuldigte mit der Vertretung in einem Mietrechtsstreit beauftragt. Die Zahlung vom [[date|19.03.2025]] wurde der Gesellschaft nicht gutgeschrieben, obwohl sie im Treuhandbuch eingetragen war.
+Die [[organization|Nordbahn Immobilien GmbH]] ist unter [[company_register_number|FN 402971m]] im Firmenbuch eingetragen. Die Gesellschaft hatte die Beschuldigte mit der Vertretung in einem Mietrechtsstreit beauftragt. Die Zahlung vom [[date|19.03.2025]] wurde der Gesellschaft nicht gutgeschrieben, obwohl sie im Treuhandbuch eingetragen war.
 
 Der Disziplinarrat stellte fest, dass die Auszahlung vom [[date|02.12.2024]] keinem Klienten zugeordnet werden konnte. Die Beschuldigte erklärte, dass es sich um eine Gebührenvorauszahlung an ein Gericht gehandelt habe; eine Zahlungsbestätigung liegt nicht vor.
 
@@ -71,7 +71,7 @@ Der Senat stützt sich auf die Akten des Disziplinarverfahrens, die Kontoauszüg
 
 Die Zeugin [[person|Rosalinde Feichtinger]], Buchhalterin der Kanzlei, bestätigte jedoch, dass die Treuhandeinzahlung vom [[date|25.04.2024]] irrtümlich dem falschen Klientenkonto gutgeschrieben wurde. Dieser Umstand wurde nicht korrigiert, bevor die Kontrolle durch die [[organization|RAK Wien]] erfolgte.
 
-Die Behauptung der Beschuldigten, die Auszahlung vom [[date|02.12.2024]] sei eine Gebührenzahlung gewesen, wird durch die Gerichtsakten nicht bestätigt. Vielmehr ist kein Verfahren ersichtlich, für das eine Gebühr an diesem Tag zu entrichten gewesen wäre.
+Die Behauptung der Beschuldigten, die Auszahlung vom [[date|02.12.2024]] sei eine Gebührenzahlung gewesen, wird durch die Gerichtsakten nicht bestätigt. Vielmehr ist kein Verfahren ersichtlich, für das eine Gebühr an diesem Tag zu entrichten gewesen wäre. Die Klientin [[person|Gisela Pöltl]] hat in ihrer schriftlichen Äußerung vom [[date|14.11.2025]] angegeben, dass sie niemals von der Beschuldigten über die Einzahlung informiert worden sei. Sie habe den Betrag vom [[date|27.08.2025]] erst nach mehrfacher Aufforderung erhalten und in dieser Zeit keinerlei Auskunft über den Stand ihres Guthabens bekommen. Diese Angaben sind glaubwürdig, weil sie durch die Korrespondenz belegt sind.
 
 Der Senat hat die Akten zudem im Hinblick auf die Zuständigkeit geprüft. Die Zuständigkeit des Disziplinarrates ist gegeben, weil die Beschuldigte im Sprengel der [[organization|RAK Wien]] zur Berufsausübung berechtigt ist und die Verfehlungen dort begangen wurden. Eine Verfahrensrüge hinsichtlich der Zustellung des Erkenntnisses ist unbegründet, weil die Zustellung an die Kanzleiadresse ordnungsgemäß erfolgte.
 
@@ -83,11 +83,17 @@ Der Senat bestätigt den Schuldspruch im Ergebnis, sieht jedoch die Tatzeit im E
 
 Hinsichtlich der Strafe ist der Senat der Ansicht, dass der Disziplinarrat die Umstände zu wenig gewürdigt hat. Die Beschuldigte hat den Betrag an [[person|Pöltl]] vollständig zurückbezahlt und den Mangel nach der Kontrolle sofort behoben. Die Tatzeit erstreckte sich über einen Zeitraum von rund zwanzig Monaten.
 
+Bei der Strafbemessung hat der Senat berücksichtigt, dass die Beschuldigte seit dem Jahr 2011 als Rechtsanwältin tätig ist und bisher nicht disziplinär verurteilt wurde. Die Geldbuße soll einerseits die Schwere der Pflichtverletzung widerspiegeln, andererseits die wirtschaftliche Leistungsfähigkeit der Beschuldigten nicht übersteigen. Die Beschuldigte hat im Berufungsverfahren angegeben, dass ihr Einkommen aus der Kanzlei in den Jahren 2025 und 2026 deutlich zurückgegangen sei.
+
+Die Berufung der Beschuldigten gegen den Schuldspruch selbst war hingegen nicht erfolgreich. Der Senat sieht die Verantwortung für die Treuhandbuchungen als unteilbare Pflicht des Rechtsanwalts an, die nicht durch die Delegation an Mitarbeiter aufgehoben werden kann. Die Beschuldigte muss sich die Versäumnisse ihrer Büroorganisation daher zurechnen lassen.
+
 6. Strafbemessung
 
 Mildernd wirken die bisherige Unbescholtenheit, das Geständnis hinsichtlich der Zahlungsbewegungen und die Schadenswiedergutmachung. Erschwerend ist die mehrfache Begehung und die Betroffenheit mehrerer Klienten und einer Gesellschaft.
 
 Unter Berücksichtigung dieser Umstände erscheint eine Geldbuße von EUR 5.500,00 angemessen. Die Kostenentscheidung beruht auf [[legal_norm|§ 49 RAO]] iVm [[legal_norm|§ 66 AVG]].
+
+Der Senat weist abschließend darauf hin, dass die Beschuldigte die Geldbuße innerhalb von vier Wochen ab Zustellung dieser Entscheidung zu entrichten hat. Bei Zahlungsverzug ist die Einleitung der Vollstreckung durch die Kammer vorgesehen.
 
 Die Entscheidung ist endgültig; eine weitere Anfechtung ist nicht vorgesehen, soweit nicht die Voraussetzungen einer außerordentlichen Revision vorliegen.
 

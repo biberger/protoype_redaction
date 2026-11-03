@@ -13,13 +13,13 @@ Sehr geehrter Herr [[person|Staal]],
 
 danke für Ihre Rückmeldung vom [[date|22. Oktober 2026]]. Wir bestätigen, dass Frau [[person|Blaschitz]] dem Vergleichsvorschlag grundsätzlich zustimmt, sofern die Rückstände bis zum [[date|15. November 2026]] ausgeglichen werden.
 
-Die [[organization|Erste Bank der oesterreichischen Sparkassen AG]] ([[organization|ESPA]]) hat die Überweisung der Kaution bereits bestätigt. Eine Abschrift dieser Bestätigung liegt bei. Die ESPA führt das Konto unter der Nummer, die Sie bereits kennen.
+Die [[organization|Erste Bank der oesterreichischen Sparkassen AG]] ([[organization|ESPA]]) hat die Überweisung der Kaution bereits bestätigt. Eine Abschrift dieser Bestätigung liegt bei. Die [[organization|ESPA]] führt das Konto unter der Nummer, die Sie bereits kennen.
 
-Sollte die Zahlung bis zum genannten Termin nicht eingehen, werden wir ohne weitere Ankündigung die Räumungsklage vorbereiten. Ein Vergleich über die Mietrückstände in Höhe von EUR 1.870,00 ist für Frau Blaschitz nur dann annehmbar, wenn der Auszug bis zum Monatsende erfolgt. Die Schlüssel sind danach in der Kanzlei zu hinterlegen.
+Sollte die Zahlung bis zum genannten Termin nicht eingehen, werden wir ohne weitere Ankündigung die Räumungsklage vorbereiten. Ein Vergleich über die Mietrückstände in Höhe von EUR 1.870,00 ist für Frau [[person|Blaschitz]] nur dann annehmbar, wenn der Auszug bis zum Monatsende erfolgt. Die Schlüssel sind danach in der Kanzlei zu hinterlegen.
 
 Mit freundlichen Grüßen
 
-Rechtsanwälte
+R e c h t s a n w ä l t e
 [[person|K E R B L E R]] ,   [[person|M O O S B R U G G E R]] ,   [[person|A L T]]
 [[address|Karl-Wiser-Straße 47, 4672 Bachmanning]]
 T: [[phone_number|07242 756533 Kl. 47]]  F: [[phone_number|+43 732 198 76 78-94]]
@@ -34,7 +34,7 @@ Am [[date|22.10.2026]] um 17:20 schrieb [[person|Carsten Staal]]:
 > An: [[person|Kerbler]] <[[email|office@kerbler.at]]>
 > Betreff: AW: Klientennummer [[other_identifier|15011]]
 >
-> Sehr geehrte Kanzlei Kerbler,
+> Sehr geehrte Kanzlei [[person|Kerbler]],
 >
 > ich habe mit [[person|Petar Antolić]] telefoniert. Herr [[person|Antolić]] will die Wohnung erst räumen, wenn die Kaution von der [[organization|ESPA]] freigegeben ist.
 >

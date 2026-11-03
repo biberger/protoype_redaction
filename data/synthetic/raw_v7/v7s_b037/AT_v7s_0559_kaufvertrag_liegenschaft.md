@@ -58,6 +58,26 @@ VI. Übergabe und Nutzung
 
 Die Übergabe erfolgt mit Unterfertigung dieses Vertrages. Ab dem Übergabezeitpunkt trägt der Käufer Nutzen und Gefahr. Die Verkäuferin hat die Pacht für das Grundstück bis zum [[date|31.10.2026]] selbst eingehoben; eine Abrechnung erfolgt nicht.
 
+VI a. Vorbesitz, Pacht und Bestandrechte
+
+Die Liegenschaft ist derzeit an einen landwirtschaftlichen Betrieb verpachtet. Der Pachtvertrag wurde am [[date|01.11.2019]] auf unbestimmte Zeit geschlossen und kann von beiden Seiten mit einer Frist von sechs Monaten zum Ende eines Pachtjahres gekündigt werden. Die Verkäuferin erklärt, dass sie dem Käufer den Pachtvertrag übergibt und dass sämtliche Pachtzinsrückstände bis zum Tag der Vertragsunterfertigung ausgeglichen sind.
+
+Die Käufer übernehmen das Pachtverhältnis zu den bestehenden Bedingungen. Eine Auflösung des Pachtvertrages durch den Käufer ist nur mit Zustimmung des Pächters möglich. Die Verkäuferin wurde darauf hingewiesen, dass sie für Ansprüche des Pächters, die vor dem Übergabestichtag entstanden sind, selbst haftet.
+
+Die Liegenschaft wurde von den Käufern am [[date|12.02.2026]] besichtigt. Die Besichtigung wurde gemeinsam mit der Verkäuferin durchgeführt, die den Verlauf der Grundstücksgrenzen anhand der Katastermappe erläuterte. Ein Vermessungsbefund liegt nicht vor, weil die Grenzen seit der letzten Vermessung unverändert sind.
+
+Die Käufer erklären, dass sie den Zustand der Liegenschaft kennen und keine weiteren Erhebungen verlangen. Sollte sich bei der späteren Vermessung eine Abweichung der Fläche von mehr als fünf Prozent ergeben, ist der Kaufpreis entsprechend anzupassen, jedoch nur bis zu einer Obergrenze von zehn Prozent des Gesamtpreises.
+
+Die Verkäuferin verpflichtet sich, bis zur Übergabe keine Bäume zu fällen, keine Bodenabtragungen vorzunehmen und keine neuen Leitungen auf dem Grundstück zu verlegen. Verstößt die Verkäuferin gegen diese Verpflichtung, haftet sie für den daraus entstehenden Schaden.
+
+Die Kosten einer allfälligen Vermessung trägt der Käufer. Die Kosten der Löschung der bestehenden Dienstbarkeit des Wegerechts zugunsten des Nachbargrundstücks trägt die Verkäuferin, sofern diese nicht im Vertrag ausdrücklich übernommen wird.
+
+VI b. Kosten und Abgaben
+
+Die Grunderwerbsteuer beträgt nach dem Kaufpreis von EUR 485.000,00 gemäß [[legal_norm|§ 7 Z 1 GrEStG]] einen Betrag von EUR 16.975,00 und ist von den Käufern zu je einer Hälfte zu tragen. Die Eintragungsgebühr nach [[legal_norm|§ 26 GebG]] beträgt 1,1 Prozent des Kaufpreises. Die Vertragserrichtungskosten der Kanzlei werden nach dem Tarif des [[legal_norm|Rechtsanwaltstarifgesetzes]] abgerechnet und sind von den Käufern zu tragen.
+
+Die Verkäuferin trägt die Kosten für die Beschaffung der Grundbuchsauszüge und der Lastenfreiheitsbestätigung. Ein Vorschuss für die Kosten der Eintragung in der Höhe von EUR 1.200,00 ist von den Käufern auf das Treuhandkonto zu überweisen.
+
 VII. Gewährleistung und Schlussbestimmungen
 
 Die Verkäuferin haftet für die Richtigkeit der im Vertrag genannten Angaben. Mündliche Nebenabreden bestehen nicht. Änderungen bedürfen der Schriftform. Die Kosten der Errichtung trägt der Käufer zu gleichen Teilen.

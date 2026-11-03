@@ -24,7 +24,10 @@ Sehr geehrte Frau [[person|Vetter]],
 
 wir haben die Klage vorbereitet und werden sie innerhalb der Frist einbringen. Bitte kommen Sie am [[date|12. November 2025]] in unsere Kanzlei, damit wir die Angaben zur Beschäftigung gemeinsam durchgehen können.
 
-Parteien: [[person|Tabea⏎Vetter]], [[person|Honorius⏎Wittek]], [[person|Jolantha⏎Koppensteiner]]
+Parteien: [[person|Tabea
+Vetter]], [[person|Honorius
+Wittek]], [[person|Jolantha
+Koppensteiner]]
 
 Mit freundlichen Grüßen
 [[person|Tanzer]]
@@ -150,7 +153,11 @@ Sehr geehrter Herr [[person|Tanzer]],
 
 die Frist für die Anfechtung läuft bis [[date|10. November 2025]]. Bitte prüfen Sie, ob die Klage vor dem [[court|Arbeits- und Sozialgericht Wien]] eingebracht werden kann.
 
-Parteien: [[person|Honorius⏎Wittek]], geb. [[date_of_birth|1958-06-03]], [[address|Domgasse 9,⏎6600 Pinswang]]; [[person|Tabea⏎Vetter]], [[person|Metta⏎Campe]]
+Parteien: [[person|Honorius
+Wittek]], geb. [[date_of_birth|1958-06-03]], [[address|Domgasse 9,
+6600 Pinswang]]; [[person|Tabea
+Vetter]], [[person|Metta
+Campe]]
 
 Mit freundlichen Grüßen
 [[person|Honorius Wittek]]

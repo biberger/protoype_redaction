@@ -17,7 +17,8 @@ Gesellschafter:
 [[person|Natalina
 Türtscher]], GEB: [[date_of_birth|10. Jänner
 1997]]
-[[person|Bertram⏎Sadurski]]
+[[person|Bertram
+Sadurski]]
 
 Geschäftsführung:
 [[person|Mag. Dr. Susann Lacina]]

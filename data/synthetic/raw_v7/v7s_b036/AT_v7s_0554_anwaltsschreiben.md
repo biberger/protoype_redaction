@@ -37,7 +37,7 @@ Die [[organization|AVA]] hat die Leistung mit Schreiben vom [[date|02.03.2026]] 
 
 Der Unfallhergang ist durch die Angaben des Polizeibeamten im Aufnahmeprotokoll belegt. Danach wurde der Lastwagen von einem nicht ermittelten Fahrzeug beim Überholen gestreift, das die Fahrbahn verließ, ohne anzuhalten. Die Polizeiinspektion hat den Vorfall unter der Geschäftszahl aufgenommen, die Ermittlungen sind jedoch noch nicht abgeschlossen. Herr [[person|Boboc]] hat den Vorfall unmittelbar nach dem Ereignis telefonisch der Disposition gemeldet, die [[person|Fontana]] entgegengenommen hat.
 
-Der Schaden an der Ladefläche und an der Seitenwand ist durch das Gutachten eines Kfz-Sachverständigen dokumentiert. Die Reparaturkosten sind mit EUR 14.250,00 netto veranschlagt. Ein Wertminderungsbetrag von EUR 1.200,00 wird ergänzend geltend gemacht, weil das Fahrzeug einen Unfallschaden aufweist. Die Gesamtforderung beläuft sich daher auf EUR 15.450,00.
+Die Reparatur wurde in der Werkstatt in [[location|Imst]] durchgeführt, wo das Fahrzeug seit dem [[date|27.01.2026]] steht. Die Werkstatt hat die Arbeiten nach Rücksprache mit dem Sachverständigen begonnen, sodass die Kosten nicht weiter steigen werden. Der Schaden an der Ladefläche und an der Seitenwand ist durch das Gutachten eines Kfz-Sachverständigen dokumentiert. Die Reparaturkosten sind mit EUR 14.250,00 netto veranschlagt. Ein Wertminderungsbetrag von EUR 1.200,00 wird ergänzend geltend gemacht, weil das Fahrzeug einen Unfallschaden aufweist. Die Gesamtforderung beläuft sich daher auf EUR 15.450,00.
 
 Die [[organization|Kolb]] hat die Mietwagenkosten für die Dauer der Reparatur getragen; diese Kosten sind ebenfalls Teil des Schadens und werden gesondert belegt.
 

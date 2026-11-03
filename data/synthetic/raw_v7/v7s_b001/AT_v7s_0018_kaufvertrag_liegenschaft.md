@@ -29,7 +29,8 @@ I. Vertragsparteien
 
 2. Vertragsteile laut Verzeichnis: [[person|Haußmann Ermenfried]] und [[person|Trappl Odovacar]].
 
-2. Käufer ist [[person|Ermenfried⏎Haußmann]], GEB: [[date_of_birth|22.07.1971]],
+2. Käufer ist [[person|Ermenfried
+Haußmann]], GEB: [[date_of_birth|22.07.1971]],
 wohnhaft in [[address|Bergstraße 4,
 3390 Melk]] (im Folgenden: Käufer).
 

@@ -10,7 +10,7 @@ Betreff: [[organization|Zorn GmbH]] – Schadennummer [[other_identifier|63/3183
 
 Sehr geehrte Frau Doktor,
 
-die [[organization|Zorn GmbH]] ([[company_register_number|FN 361437a]], UID [[tax_id|ATU05870413]]) hat von Ihrer Mandantin [[person|Brigitta Fessl]] den Betrag von EUR 14.750,00 für die Lieferung der Trennwände verlangt. Die Lieferung war mangelhaft, die Trennwände wurden bereits am [[date|2. März 2026]] reklamiert.
+die [[organization|Zorn GmbH]] ([[organization|ZG]], [[company_register_number|FN 361437a]], UID [[tax_id|ATU05870413]]) hat von Ihrer Mandantin [[person|Brigitta Fessl]] den Betrag von EUR 14.750,00 für die Lieferung der Trennwände verlangt. Die Lieferung war mangelhaft, die Trennwände wurden bereits am [[date|2. März 2026]] reklamiert.
 
 Bitte teilen Sie mit, ob Frau [[person|Fessl]] zur Zahlung bereit ist.
 
@@ -32,7 +32,7 @@ Betreff: AW: [[organization|Zorn GmbH]] – Schadennummer [[other_identifier|63/
 
 Sehr geehrter Herr [[person|Kainz]],
 
-die Mandantin [[person|Fessl]] bestreitet, dass die Trennwände mangelhaft geliefert wurden. Die [[organization|Zorn]] hat die Reklamation bisher nicht begründet.
+die Mandantin [[person|Fessl]] bestreitet, dass die Trennwände mangelhaft geliefert wurden. Die [[organization|ZG]] hat die Reklamation bisher nicht begründet.
 
 Wir ersuchen um Übermittlung der Prüfberichte. Die Abrechnung der [[organization|Zorn GmbH]] ist für unsere Mandantin nicht nachvollziehbar.
 

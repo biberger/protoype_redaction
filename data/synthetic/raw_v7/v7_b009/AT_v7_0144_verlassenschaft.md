@@ -27,7 +27,9 @@ Die Erblasserin [[person|Karamfilka Purvanov]] hinterlässt die folgenden Erben:
 
 Die Beteiligten sind in folgender Weise verbunden:
 
-[[person|Gualtiero⏎Frühbauer]] und [[person|Semen⏎Kirillow]] erklärten, dass die Erbschaft unbelastet sei. [[person|Kirillow]] legte dazu die Bestätigung der [[organization|Raiffeisen Bank Pettneu]] ([[organization|RBP]]) vor. Die [[organization|RBP]] hat den Saldo am [[date|02.01.2026]] bestätigt.
+[[person|Gualtiero
+Frühbauer]] und [[person|Semen
+Kirillow]] erklärten, dass die Erbschaft unbelastet sei. [[person|Kirillow]] legte dazu die Bestätigung der [[organization|Raiffeisen Bank Pettneu]] ([[organization|RBP]]) vor. Die [[organization|RBP]] hat den Saldo am [[date|02.01.2026]] bestätigt.
 
 Die Bankverbindung lautet [[bank_account|AT15 4461 8366 3754 5890]].
 

@@ -47,6 +47,8 @@ Der Senat hat die bisherige Unbescholtenheit der Beschuldigten als mildernd gewe
 
 Der Senat hat im Rahmen der Beweiswürdigung die Aussage des Klienten [[person|Igor Hoyos]] als glaubhaft gewertet. Dieser hat geschildert, dass er die Auszahlung an die Hausverwaltung nicht veranlasst hat und dass ihm die Beschuldigte erst nach seiner Beschwerde einen Kontoauszug übermittelte. Die Kammeranwältin [[person|Tina Mag. Dr. Alge]] hat in ihrem Vortrag darauf hingewiesen, dass die Verrechnungen zwischen den Treuhandschaften nicht nachvollziehbar sind und daher auch dort eine Pflichtverletzung vorliegt.
 
+Die Kammeranwältin [[person|Tina Mag. Dr. Alge]] hat in der Verhandlung eine Geldbuße im Bereich von EUR 2.000,00 bis EUR 4.000,00 beantragt und auf die Zahl der Vorfälle verwiesen. Der Senat hat diesen Rahmen als Ausgangspunkt für die Strafbemessung herangezogen, ihn aber nach den Milderungsgründen am unteren Ende angesetzt.
+
 Die Beschuldigte wendet ein, sie habe die Fristen wegen einer schweren Erkrankung nicht einhalten können. Der Senat hat ärztliche Bestätigungen für die Zeit von [[date|1. März 2021 bis 30. Juni 2021]] geprüft. Diese Zeiträume betreffen jedoch nicht die hier maßgeblichen Zahlungen, so dass sich daraus keine Entlastung ergibt.
 
 Der Senat hat weiters berücksichtigt, dass die Kammer die Beschuldigte auf die Pflichten nach dem Treuhandrecht bereits im Jahr 2021 schriftlich hingewiesen hatte. Die Beschuldigte hat diesen Hinweis nach ihren Angaben zur Kenntnis genommen, die Verwaltung der Treuhandkonten jedoch nicht umgestellt.

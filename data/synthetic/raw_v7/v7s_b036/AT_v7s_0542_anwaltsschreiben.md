@@ -41,6 +41,10 @@ Ferner ersuchen wir um Übermittlung sämtlicher Unterlagen, auf die sich Ihre A
 
 Wir ersuchen Sie daher, die Deckung bis spätestens [[date|15.05.2026]] zu bestätigen. Andernfalls werden wir die Ansprüche gerichtlich geltend machen. Rückfragen richten Sie bitte an Tel. [[phone_number|07242 901706 Kl. 45]].
 
+Beilagen:
+./1 Kostenvoranschlag der Werkstatt vom [[date|02.02.2026]]
+./2 Fotodokumentation des Schadens
+
 Mit freundlichen Grüßen
 
 [[person|Dr. Lexer]]

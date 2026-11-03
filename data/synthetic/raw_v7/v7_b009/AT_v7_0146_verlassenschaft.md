@@ -21,7 +21,8 @@ Erben und Beteiligte im Verfahren:
 [[person|Garrelt Dr. Leiner]], *[[date_of_birth|23.01.1938]]
 
 [[person|Dufek Frauke]], Geburtsdatum: [[date_of_birth|07.06.1994]],
-[[address|Bruckner⏎Gasse 4, 4400 Steyr]]
+[[address|Bruckner
+Gasse 4, 4400 Steyr]]
 
 [[person|Reimund Stiegler]], GEB: [[date_of_birth|24.10.1970]]
 

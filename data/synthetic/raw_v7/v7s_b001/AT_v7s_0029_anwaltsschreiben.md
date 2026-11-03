@@ -30,7 +30,8 @@ wir zeigen an, dass uns die Parteien des im Betreff genannten Schadensfalles mit
 
 Betroffene Parteien:
 
-[[person|Fraenkel⏎Bartholomäus]]
+[[person|Fraenkel
+Bartholomäus]]
 [[person|Zimmer Dodo]]
 [[person|Spitzner Fritzi]], GEB: [[date_of_birth|1988-12-25]]
 

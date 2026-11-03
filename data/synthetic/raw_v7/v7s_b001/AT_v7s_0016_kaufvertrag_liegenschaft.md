@@ -22,7 +22,9 @@ KÄUFERIN | [[person|ZINKL GANJA]] | [[date_of_birth|1987-02-04]] | [[country|UK
 
 I. Vertragsteile
 
-1. Verkäufer ist [[person|Konrád⏎Bokor]], geb. [[date_of_birth|13.09.1935]], StA. [[country|Syrien]], wohnhaft in [[address|Hauptstraße 14,⏎9020 Klagenfurt am Wörthersee]] (im Folgenden: Verkäufer).
+1. Verkäufer ist [[person|Konrád
+Bokor]], geb. [[date_of_birth|13.09.1935]], StA. [[country|Syrien]], wohnhaft in [[address|Hauptstraße 14,
+9020 Klagenfurt am Wörthersee]] (im Folgenden: Verkäufer).
 
 2. Käuferin ist [[person|Zinkl Ganja]], *[[date_of_birth|1987-02-04]], StA. [[country|Ukraine]], wohnhaft in [[address|Lendkai 17/2, 9020 Klagenfurt am Wörthersee]], Tel. [[phone_number|07242/3117298-5]] (im Folgenden: Käuferin).
 

@@ -19,9 +19,11 @@ Klägerin: [[organization|Loidolt GmbH]], [[company_register_number|FN 21378p]],
 
 gegen
 
-1. [[person|Kristel⏎Haertl]], geb [[date_of_birth|09.09.1990]],
+1. [[person|Kristel
+Haertl]], geb [[date_of_birth|09.09.1990]],
    StA: [[country|Serbien]],
-   wohnhaft in [[address|Kremser Landstraße 12/3,⏎2020 Hollabrunn]];
+   wohnhaft in [[address|Kremser Landstraße 12/3,
+2020 Hollabrunn]];
 
 2. [[person|Claudinette Fischer]], wohnhaft in [[address|Bahnhofstraße 9/1, 3153 Eschenau]], als Bürgin und Zahlerin.
 

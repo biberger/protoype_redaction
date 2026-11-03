@@ -28,10 +28,13 @@ GZ der Kanzlei: [[other_identifier|518/25 TF]]
 
 **KÄUFER**
 
-[[person|Nasja Ing.⏎Heit]], *⏎[[date_of_birth|19. November 1991]], wohnhaft in
+[[person|Nasja Ing.
+Heit]], *
+[[date_of_birth|19. November 1991]], wohnhaft in
 [[address|Mirabellplatz 4/12, 5020 Salzburg]]
 
-[[person|Mohamad⏎Alkateb]], StA: [[country|Rumänien]], wohnhaft in [[location|St. Anton am Arlberg]], Tel. [[phone_number|0512/7419818-2]]
+[[person|Mohamad
+Alkateb]], StA: [[country|Rumänien]], wohnhaft in [[location|St. Anton am Arlberg]], Tel. [[phone_number|0512/7419818-2]]
 
 Die Verkäufer und die Käufer werden im Folgenden gemeinsam als „Vertragsteile“ bezeichnet.
 

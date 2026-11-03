@@ -18,7 +18,8 @@ An das
 
 **KLAGE**
 
-der Klägerin [[person|Halmar Verburg]], StA: [[country|Bosnien und Herzegowina]], geb [[date_of_birth|1944-05-06]], wohnhaft in [[address|Kärntner Straße 12,⏎9020 Klagenfurt am Wörthersee]],
+der Klägerin [[person|Halmar Verburg]], StA: [[country|Bosnien und Herzegowina]], geb [[date_of_birth|1944-05-06]], wohnhaft in [[address|Kärntner Straße 12,
+9020 Klagenfurt am Wörthersee]],
 
 vertreten durch
 [[person|Dr. Schabus]], Rechtsanwalt, ERV-Code [[other_identifier|R412410]]

@@ -4,7 +4,7 @@ jurisdiction: AT
 lang: de
 ---
 Von: [[person|Nickolas Vuksanović]]
-Gesendet: Montag, 5. Oktober 2026 16:42
+Gesendet: Montag, [[date|5. Oktober 2026]] 16:42
 An: Kanzlei [[organization|Lenz & Gritsch]]
 Betreff: [[organization|Oswald Handels GmbH]] ./. [[person|Arnous]] – Zahlungsplan
 
@@ -16,14 +16,14 @@ Die [[organization|OH]] ist bereit, den offenen Betrag von EUR 18.400,00 in sech
 
 Mit freundlichen Grüßen
 
-Nickolas Vuksanović
+[[person|Nickolas Vuksanović]]
 Geschäftsführer
 [[organization|Oswald Handels GmbH]]
 Tel. [[phone_number|01/1891626 Durchwahl 66]]
 [[address|8522 Groß Sankt Florian]]
 
 > Von: Kanzlei [[organization|Lenz & Gritsch]]
-> Gesendet: Freitag, 2. Oktober 2026 10:05
+> Gesendet: Freitag, [[date|2. Oktober 2026]] 10:05
 > An: [[person|Nickolas Vuksanović]]
 > Betreff: AW: [[organization|Oswald Handels GmbH]] ./. [[person|Arnous]] – Gegenseite
 >
@@ -37,7 +37,7 @@ Tel. [[phone_number|01/1891626 Durchwahl 66]]
 ---
 
 Von: [[person|Beppo Gapp]]
-Gesendet: Dienstag, 6. Oktober 2026 08:55
+Gesendet: Dienstag, [[date|6. Oktober 2026]] 08:55
 An: Kanzlei [[organization|Lenz & Gritsch]]
 Cc: [[person|Nives Humo]], [[person|Ḵalaf Arnous]]
 Betreff: AW: [[organization|Oswald Handels GmbH]] ./. [[person|Arnous]] – Zahlungsplan
@@ -49,7 +49,7 @@ ich nehme Bezug auf den Vorschlag vom [[date|05.10.2026]]. Mein Mandant [[person
 UZ: [[other_identifier|PBH/Vuksanović/7173]]; diese Referenz ist auch auf der Rechnung angeführt, die Ihrer Kanzlei übermittelt wurde.
 
 > Von: [[person|Nickolas Vuksanović]]
-> Gesendet: Montag, 5. Oktober 2026 16:42
+> Gesendet: Montag, [[date|5. Oktober 2026]] 16:42
 > Betreff: [[organization|Oswald Handels GmbH]] ./. [[person|Arnous]] – Zahlungsplan
 >
 > Wie besprochen übermittle ich Ihnen den Vorschlag der [[organization|Oswald Handels GmbH]] zur Ratenzahlung. Klientennummer: [[other_identifier|35123]]
@@ -65,7 +65,7 @@ Tel. [[phone_number|+43 1 533 22 07 Kl. 14]]
 ---
 
 Von: Kanzlei [[organization|Lenz & Gritsch]]
-Gesendet: Dienstag, 6. Oktober 2026 14:20
+Gesendet: Dienstag, [[date|6. Oktober 2026]] 14:20
 An: [[person|Beppo Gapp]]
 Cc: [[person|Nickolas Vuksanović]]
 Betreff: AW: [[organization|Oswald Handels GmbH]] ./. [[person|Arnous]] – Zahlungsplan
@@ -88,7 +88,7 @@ ERV-Code: [[other_identifier|P525085]]
 ---
 
 Von: [[person|Nickolas Vuksanović]]
-Gesendet: Mittwoch, 7. Oktober 2026 07:31
+Gesendet: Mittwoch, [[date|7. Oktober 2026]] 07:31
 An: Kanzlei [[organization|Lenz & Gritsch]]
 Betreff: AW: [[organization|Oswald Handels GmbH]] ./. [[person|Arnous]] – Zahlungsplan
 
@@ -97,4 +97,4 @@ Sehr geehrte Damen und Herren,
 vielen Dank für Ihre Mitteilung. Die [[organization|OH]] bestätigt die Zahlung der ersten Rate bis [[date|10.10.2026]]. Bitte senden Sie uns die Zahlungsaufforderung in Kopie an die Buchhaltung, damit die Überweisung dort freigegeben werden kann.
 
 Mit freundlichen Grüßen
-Nickolas Vuksanović
+[[person|Nickolas Vuksanović]]

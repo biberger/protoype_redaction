@@ -83,7 +83,10 @@ Sehr geehrter Herr [[person|Hartl]],
 
 das Gutachten ist fertig. Die Zusammenfassung finden Sie im Anhang. Bitte geben Sie das Schreiben an die Parteien weiter.
 
-Parteien: [[person|Benedikta⏎Schaffgotsch]], [[person|Antoaneta⏎Karaslavov]], [[person|Elvira⏎Hochsinger]]
+Parteien: [[person|Benedikta
+Schaffgotsch]], [[person|Antoaneta
+Karaslavov]], [[person|Elvira
+Hochsinger]]
 
 Mit freundlichen Grüßen
 [[person|Karel Dr. Exnerová]]

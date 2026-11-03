@@ -44,17 +44,43 @@ Begründung
 
 4. Der Kammeranwalt [[person|Mag. Georgiev]] stellte fest, dass die [[organization|TRAK]] die Verfahrenskosten bereits übernommen hat. Der Kammeranwalt beantragte eine Geldbuße im oberen Bereich des Rahmens.
 
+Verfahrensgang
+
+Die Beschwerden der Klientinnen und Klienten gingen zunächst beim Präsidenten der [[organization|TRAK]] ein, der die Vorgänge an den Kammeranwalt weiterleitete. Der Kammeranwalt [[person|Svetozar Mag. Georgiev]] führte Erhebungen durch, vernahm die Beschwerdeführer und forderte die Treuhandbuchauszüge der Kanzlei an. Die Beschuldigte [[lawyer|Bärbel Dornauer]] legte die Auszüge am [[date|10.11.2025]] vor, allerdings in unvollständiger Form, weil einzelne Blätter des Jahres 2022 fehlten.
+
+Der Kammeranwalt hat daraufhin die Vorlage der vollständigen Unterlagen verlangt. Die Beschuldigte antwortete mit einem Schreiben vom [[date|24.11.2025]], in dem sie die Lücken auf einen Umzug der Kanzleiräume zurückführte. Diese Darstellung wurde im Verfahren nicht durch Belege untermauert.
+
+In der Verhandlung wurden die Beschwerdeführerin [[person|Gerhild Pfeiffer]] und der Beschwerdeführer [[person|Emir Yıldız]] vernommen. Frau [[person|Pfeiffer]] schilderte, dass sie beim Erwerb der Wohnung auf die Löschung der Hypothek angewiesen war und dass die Auszahlung an die Bank ohne Löschungsurkunde zu einer Verzögerung des Kaufs geführt habe. Herr [[person|Yıldız]] gab an, dass er die Abrechnung über das Honorar erst nach mehreren Mahnungen erhalten habe und dass er mit einer Verrechnung nicht einverstanden gewesen sei.
+
+Beweiswürdigung
+
+Der Senat, besetzt mit [[judge|Theodosius Flecker]] als Vorsitzendem sowie [[judge|MMag. Pierette Ganahl]] und [[judge|Isabelle Mitterbauer]] als Beisitzerinnen, hat die Beweise gewürdigt. Der Schriftführer [[person|Ragnear Walder]] hat die Aussagen wörtlich protokolliert und die Vorlage der Unterlagen festgehalten.
+
+Die Aussagen der Beschwerdeführer sind in sich schlüssig und werden durch die vorgelegten Schreiben bestätigt. Der Senat hält fest, dass die Beschuldigte für die Verrechnung von EUR 1.800,00 keine schriftliche Honorarnote vorgelegt hat. Ihre Behauptung, der Klient habe der Verrechnung mündlich zugestimmt, ist durch keinen Beleg gestützt und wird vom Klienten bestritten.
+
+Hinsichtlich des Vorfalls vom [[date|25.09.2020]] ist die Beschuldigte geständig. Sie hat eingeräumt, die Auszahlung ohne Vorliegen der Löschungsurkunde vorgenommen zu haben, um den Kaufpreis rechtzeitig an die Verkäuferin weiterleiten zu können. Der Senat wertet dieses Geständnis als mildernd, weil die Beschuldigte damit zur Aufklärung beigetragen hat.
+
 Rechtliche Beurteilung
 
 Ein Rechtsanwalt hat die ihm anvertrauten Gelder getrennt zu verwahren und ausschließlich im Interesse des Klienten zu verwenden. Eine Verrechnung von Honorarforderungen mit Treuhandgeldern setzt eine ausdrückliche Vereinbarung und eine nachvollziehbare Abrechnung voraus. Die Verletzung dieser Pflichten nach [[legal_norm|§ 3 RL-BA 2015]] stellt ein Disziplinarvergehen nach [[legal_norm|§ 1 DSt]] dar.
 
+Die Treuhandbuch-Führung ist nach den Richtlinien für die Berufsausübung so einzurichten, dass jede Bewegung einem bestimmten Klienten und einer bestimmten Treuhandschaft zugeordnet werden kann. Diese Anforderung ist nicht nur eine formale Vorgabe, sondern dient dem Schutz der Klientinnen und Klienten, die auf die Richtigkeit der Abrechnung vertrauen. Ein Rechtsanwalt, der Verrechnungen ohne Dokumentation vornimmt, gefährdet dieses Vertrauen in der Regel auch dann, wenn die Beträge später vollständig ausgeglichen werden.
+
+Der Senat hat sich auch mit der Frage auseinandergesetzt, ob die Beschuldigte in der Verrechnung von Honorarforderungen eine bewusste Entscheidung gesehen hat. Dafür spricht, dass sie die Verrechnung in einem Fall zunächst als Vorschuss bezeichnet und später als Honorar verbucht hat. Der Senat sieht darin eine Unklarheit, die der Beschuldigten als Rechtsanwältin nicht zugutekommt, weil die Pflicht zur klaren Buchung bei ihr liegt.
+
 Die Pflicht zur gewissenhaften Berufsausübung ergibt sich aus [[legal_norm|§ 9 RAO]]. Die Beschuldigte hat diese Pflicht in drei Fällen verletzt. Die Verzögerung der Auszahlung an die Verkäuferin war geeignet, den Klienten einen wirtschaftlichen Nachteil zuzufügen; eine Schadenersatzforderung wurde jedoch nicht geltend gemacht.
+
+Die Beschuldigte hat in ihrer schriftlichen Stellungnahme vom [[date|12.01.2026]] ausgeführt, dass sie die Verantwortung für die Vorfälle vollständig übernehme. Sie habe die Kanzlei im Jahr 2020 allein geführt, ohne eine Buchhaltungskraft, und die Treuhandkonten nicht in dem gebotenen Umfang kontrolliert. Eine Entlastung leitet sie daraus nicht ab, sie bitte jedoch um Berücksichtigung der damaligen Belastung. Der Senat hat diese Darstellung zur Kenntnis genommen und als Hinweis auf eine Überforderung gewertet, nicht aber als Rechtfertigung.
+
+Die Kammeranwaltschaft hat zu dieser Stellungnahme erklärt, dass die Beschuldigte die Mängel in der Führung des Treuhandbuchs bis zum Abschluss des Verfahrens nicht vollständig behoben habe. Der Senat hat diese Einschätzung als zutreffend angesehen und die Auflage einer externen Buchprüfung für die Dauer von zwei Jahren erwogen, sie jedoch nicht ausgesprochen, weil die Beschuldigte eine Prüfung bereits freiwillig veranlasst hat.
 
 Der Senat hat die Einsicht der Beschuldigten in ihr Fehlverhalten und die Rückzahlung der Beträge mildernd gewertet. Erschwerend wirkt die Mehrzahl der Fälle und der Umstand, dass Klienten über einen längeren Zeitraum im Unklaren über den Stand ihrer Gelder gelassen wurden. Die Geldbuße wurde daher etwas über dem Mittelwert festgesetzt.
 
 Ein Berufsverbot wurde nicht verhängt. Die Beschuldigte hat dem Senat zugesichert, das Treuhandbuch künftig monatlich prüfen zu lassen.
 
 Die Entscheidung wird der Beschuldigten an die Anschrift [[address|6541 Tösens]] zugestellt. Die Kammeranwaltschaft erhält eine Ausfertigung. Rückfragen zur Verrechnung sind an die Kammer unter Tel. [[phone_number|0512 665889 DW 200]] zu richten.
+
+Die Verhandlung wurde um 09:30 Uhr eröffnet und dauerte bis in den Nachmittag. Die Zeugen wurden einzeln vernommen; die Beschuldigte war während der Vernehmung der Klientin [[person|Pfeiffer]] im Verhandlungssaal anwesend und hat der Aussage nicht widersprochen. Nach der Mittagspause wurden die Belege zu den Auszahlungen durch die Kammeranwältin vorgelegt und vom Senat geprüft.
 
 Die Verhandlung fand im Sitzungssaal in [[location|St. Lorenzen]] statt, die Kanzlei der Beschuldigten befindet sich in [[location|Innsbruck]].
 

@@ -69,4 +69,6 @@ GEB: [[date_of_birth|04.07.1950]], StA: [[country|Ungarn]]. Die Schadensakte lie
 Mit freundlichen Grüßen
 [[person|Cyrill Flecker]]
 
-Parteien: [[person|Davis⏎Sperl]], [[person|Sefried⏎Peyfuss]]
+Parteien: [[person|Davis
+Sperl]], [[person|Sefried
+Peyfuss]]

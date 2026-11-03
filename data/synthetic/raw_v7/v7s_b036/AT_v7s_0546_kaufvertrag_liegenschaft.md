@@ -26,6 +26,8 @@ Die Verkäufer sind je zur Hälfte Eigentümer der Liegenschaft [[land_register_
 
 I. Vorbemerkung
 
+Die Verkäufer haben beide Liegenschaften gemeinsam erworben und sind seit dem Jahr 2011 als Miteigentümer eingetragen. Der Grundbuchsstand wurde von der Kanzlei am [[date|28.05.2026]] überprüft; es bestehen keine Änderungen gegenüber dem Stand vom Vorjahr.
+
 Die Verkäufer haben mit der [[organization|Aistleitner]] am [[date|02.03.2026]] einen Vorvertrag abgeschlossen. Dieser Kaufvertrag tritt an dessen Stelle. Die Käuferin hat die Liegenschaft nach Besichtigung im Zustand gekauft, in dem sie sich befindet, jedoch mit den im Grundbuch ersichtlichen Lasten.
 
 II. Kaufgegenstand und Kaufpreis

@@ -116,4 +116,6 @@ Sehr geehrter Herr [[person|Frick]], ich bitte um Information zu Frau [[person|E
 Mit freundlichen Grüßen
 [[person|Daniel Grünberg]]
 
-Parteien: [[person|Evamarie⏎Lanzinger]], geb. [[date_of_birth|20. Februar 1998]], [[person|Drago⏎Walzl]], StA: [[country|Ukraine]]
+Parteien: [[person|Evamarie
+Lanzinger]], geb. [[date_of_birth|20. Februar 1998]], [[person|Drago
+Walzl]], StA: [[country|Ukraine]]

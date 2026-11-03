@@ -14,7 +14,8 @@ ERV-Code: [[other_identifier|P472295]]
 
 [[organization|Bergmann Handels GmbH]]
 z. H. Geschäftsführung
-[[person|Ymte⏎Vedder]], *[[date_of_birth|23.01.1995]]
+[[person|Ymte
+Vedder]], *[[date_of_birth|23.01.1995]]
 [[address|4282 Pierbach]]
 
 [[location|Zettling]], am [[date|8. September 2025]]

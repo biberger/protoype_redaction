@@ -18,7 +18,8 @@ Erbberechtigt sind nach dem Ergebnis der Erhebungen:
 
 [[person|Elenore Riml]],
 Geburtsdatum: [[date_of_birth|16. Dezember 1956]],
-[[person|Julika⏎Esser]],
+[[person|Julika
+Esser]],
 [[person|Romy Raus]], Geburtsdatum: [[date_of_birth|1941-12-07]], Kl.-Nr. [[other_identifier|49145]]
 
 Zum Nachlass gehören folgende Vermögenswerte:

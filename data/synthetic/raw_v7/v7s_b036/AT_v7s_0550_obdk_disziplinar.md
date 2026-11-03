@@ -60,11 +60,17 @@ Rechtliche Beurteilung
 
 Gelder, die ein Rechtsanwalt im Rahmen einer Treuhandschaft erhält, sind getrennt zu verwahren und ausschließlich im Interesse des Treugebers zu verwenden. Eine Verrechnung mit eigenen Honorarforderungen ist nur auf Grund einer nachweisbaren Vereinbarung und nach Abrechnung zulässig. Die Beschuldigte hat [[legal_norm|§ 3 RL-BA 2015]] verletzt und damit ihre Berufspflichten nach [[legal_norm|§ 9 RAO]] verletzt.
 
-Die Verletzung ist nach [[legal_norm|§ 1 DSt]] zu ahnden. Der Senat berücksichtigt, dass die Beschuldigte die Beträge bis auf einen geringen Restbetrag zurückgezahlt hat. Mildernd wirkt ferner die Mitwirkung in der Verhandlung. Erschwerend war die wiederholte Verletzung innerhalb von etwas mehr als einem Jahr.
+Die Verletzung ist nach [[legal_norm|§ 1 DSt]] zu ahnden. Der Senat berücksichtigt, dass die Beschuldigte die Beträge bis auf einen geringen Restbetrag zurückgezahlt hat. Mildernd wirkt ferner die Mitwirkung in der Verhandlung. Erschwerend war die wiederholte Verletzung in drei Fällen über einen Zeitraum von mehreren Jahren.
 
 Die Verhängung einer Geldbuße ist angemessen. Der Senat hat die Höhe nach dem Gesamtbetrag der betroffenen Gelder, der Dauer der Pflichtverletzung und dem Verhalten der Beschuldigten nach Bekanntwerden der Vorwürfe bemessen. Die Rückzahlung von EUR 9.000,00 an das Treuhandkonto wurde dabei als Milderungsgrund berücksichtigt, die Verspätung der Rückbuchung jedoch als erschwerend gewertet.
 
 Die Kammeranwaltschaft hat die Einstellung des Verfahrens hinsichtlich der Treuhandschaft Nr. [[other_identifier|2026/972]] beantragt, weil die Vorschussbuchung dort ordnungsgemäß erfolgte. Der Senat ist diesem Antrag gefolgt, soweit er die Buchung als solche betrifft; die verspätete Abrechnung wurde jedoch weiterhin als Pflichtverletzung gewertet. Ein Berufsverbot ist nicht erforderlich, da keine Hinweise auf eine dauerhafte Unzuverlässigkeit bestehen.
+
+Die Verwendung der Gelder für eigene Zwecke ist besonders schwer zu rechtfertigen, weil die Beschuldigte als Rechtsanwältin die Verwaltung fremder Gelder gewerbsmäßig übernommen hat. Wer diese Aufgabe übernimmt, muss sich die Einhaltung der Vorschriften jederzeit vor Augen halten; das gilt auch dann, wenn die Kanzlei unter Zeitdruck arbeitet. Der Senat hat deshalb die betragsmäßige Höhe der Verfehlungen als wesentlichen Faktor berücksichtigt.
+
+Die Beschuldigte hat in der Verhandlung darauf hingewiesen, dass sie seit der Rückzahlung im Jahr 2022 keine weiteren Beanstandungen erhalten habe. Der Senat stellt fest, dass sich die dritte Verfehlung, die Treuhandschaft Nr. [[other_identifier|2026/972]] betreffend, jedoch nach dem Zeitpunkt der ersten beiden Fälle ereignete. Das Argument der Unbescholtenheit greift daher nur eingeschränkt.
+
+Die Klientin [[organization|Baumgartner e.U.]] wurde im Verfahren angehört. Ihr Inhaber hat erklärt, dass er durch die verzögerte Abrechnung in der Finanzierung eines Projekts beeinträchtigt wurde und dass ihm ein Schaden in Höhe von rund EUR 3.000,00 entstanden sei. Der Senat weist darauf hin, dass ein allfälliger Schadenersatzanspruch im Zivilrechtsweg geltend zu machen ist und nicht Gegenstand dieses Verfahrens sein kann.
 
 Die Kammeranwaltschaft hat der Entscheidung zugestimmt. Die Beschuldigte hat auf die Anfechtung verzichtet. Die Entscheidung ergeht an die Beschuldigte, Tel. [[phone_number|05572 975203-82]], und an die [[organization|RAKW]].
 

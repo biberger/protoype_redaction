@@ -26,7 +26,7 @@ Sehr geehrte Damen und Herren,
 
 wir vertreten Herrn [[person|Scheuch]] in der oben angeführten Angelegenheit. Herr [[person|Scheuch]] ist Eigentümer des Wohnhauses, das bei Ihrer Gesellschaft unter der Polizzen-Nr. [[other_identifier|85-6832220]] gegen Sturm- und Hagelschäden versichert ist.
 
-Am [[date|03.07.2026]] wurde das Dach des Objekts durch einen Sturm beschädigt. Die Schadensmeldung vom [[date|06.07.2026]] blieb bislang unbeantwortet. Der Sachverständige der [[organization|Hölbling Immobilien GmbH]] ([[organization|HIG]]), die das Objekt bis zum Jahr 2025 verwaltete, hat die Schäden bestätigt. Die [[organization|Hölbling]] hat Herrn [[person|Scheuch]] jedoch mitgeteilt, dass die Liegenschaft nicht mehr in ihrem Eigentum stehe.
+Am [[date|03.07.2026]] wurde das Dach des Objekts durch einen Sturm beschädigt. Die Schadensmeldung vom [[date|06.07.2026]] blieb bislang unbeantwortet. Der Sachverständige der [[organization|Hölbling Immobilien GmbH]] ([[organization|HIG]]), [[company_register_number|FN 197835i]], UID [[tax_id|ATU58981971]], die das Objekt bis zum Jahr 2025 verwaltete, hat die Schäden bestätigt. Die [[organization|Hölbling]] hat Herrn [[person|Scheuch]] jedoch mitgeteilt, dass die Liegenschaft nicht mehr in ihrem Eigentum stehe.
 
 Die Liegenschaft ist wie folgt im Grundbuch eingetragen: [[land_register_id|GB Schrems]]/[[land_register_id|EZ 1711]] ([[court|BG Waidhofen an der Thaya]]) [[land_register_id|Gst 242/28]]. Die [[organization|HIG]] ist somit weder Eigentümerin noch Verwalterin; eine entsprechende Vollmacht liegt uns nicht vor.
 
