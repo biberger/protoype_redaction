@@ -44,7 +44,7 @@ IV. Kaufpreis und Treuhandschaft
 1. Der Kaufpreis beträgt EUR 392.000,00.
 2. Der Käufer zahlt den Kaufpreis nach Unterfertigung an die Kanzlei als Treuhänderin. Die Zahlung ist unter der Treuhandschaft Nr. [[other_identifier|2025/509]] zu verbuchen.
 3. Die Kanzlei führt das Treuhandbuch unter der Treuhandbuch-Nr. [[other_identifier|2026/916]]. Die Auszahlung an die Verkäufer erfolgt erst nach Eintragung des Eigentumsrechts des Käufers.
-4. Die Verkäufer erklären, dass sie auf die Anzahlung von EUR 39.200,00 bereits verzichtet haben, sofern der Käufer den Restbetrag binnen acht Wochen zahlt.
+4. Eine Verrechnung der Anzahlung mit Ansprüchen des Käufers aus Sanierungsarbeiten am Haus ist ausgeschlossen.
 
 Die Treuhandbuch-Angaben sind in der Anlage zu diesem Vertrag beigefügt. Auf dem Einlaufstempel der Kanzlei steht: [[person|ANINA HÖRMANN]], TREUHANDSCHAFT [[other_identifier|2025/509]], GESTEMPELT AM [[date|14.10.2026]]. Für die Kanzlei ist die Telefonnummer Tel. [[phone_number|0316 984989-1]] zu Rückfragen über die Treuhandabwicklung angegeben.
 
@@ -59,6 +59,20 @@ VI. Übergabe und Gefahrtragung
 Die Übergabe erfolgt am [[date|02.11.2026]]. Mit der Übergabe geht die Gefahr des zufälligen Untergangs auf den Käufer über. Bis zur Übergabe bleibt das Haus von den Verkäufern in Stand zu halten.
 
 Die Verkäufer haben die Heizungsanlage am [[date|14.10.2026]] überprüfen lassen; das Prüfprotokoll wird dem Vertrag beigelegt.
+
+VI a. Zahlungsplan und Verzug
+
+1. Die Anzahlung von EUR 39.200,00 ist bis spätestens zum [[date|23.10.2026]] auf das Treuhandkonto einzuzahlen. Die Zahlung gilt erst mit Gutschrift auf dem Treuhandkonto als geleistet.
+2. Der Restbetrag von EUR 352.800,00 ist bis zum [[date|30.10.2026]] fällig. Bei Zahlungsverzug von mehr als vierzehn Tagen sind die Verkäufer berechtigt, vom Vertrag zurückzutreten, nachdem sie dem Käufer eine schriftliche Nachfrist gesetzt haben.
+3. Im Fall des Rücktritts sind die bis dahin geleisteten Zahlungen abzüglich eines Betrages von EUR 5.000,00 für Bearbeitungs- und Bewertungskosten zurückzuzahlen.
+
+Die Kanzlei hat die Zahlungsfristen mit beiden Parteien besprochen. Der Käufer hat die Zahlungsfristen bei der Unterfertigung ausdrücklich bestätigt. Eine Verlängerung ist nur durch schriftliche Vereinbarung möglich.
+
+VI b. Lastenfreistellung
+
+Die Verkäufer verpflichten sich, bis zur Übergabe sämtliche Pfandrechte, die zugunsten von Kreditinstituten eingetragen sind, löschen zu lassen. Die Löschungsurkunden sind der Kanzlei bis zum [[date|28.10.2026]] vorzulegen. Sollte eine Löschung nicht rechtzeitig erfolgen, wird der Restkaufpreis erst nach Vorlage der Löschungsurkunde ausbezahlt.
+
+Der Käufer nimmt zur Kenntnis, dass auf der Liegenschaft ein Wegerecht zugunsten des Nachbarn besteht, das im Grundbuch eingetragen ist. Eine weitere Dienstbarkeit besteht nicht.
 
 VII. Kosten und Steuern
 

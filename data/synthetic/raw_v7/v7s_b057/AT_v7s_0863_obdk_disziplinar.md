@@ -61,6 +61,16 @@ Der Senat stützt sich auf die Kontoauszüge, die Anzeige und die Stellungnahme 
 
 Die Angaben des Beschuldigten zu einer Kanzleikrise im Jahr 2024 sind belegt. Sie entschuldigen die Entnahmen nicht.
 
+III a. Vernehmung der Mandanten und der Zeugen
+
+Der Mandant [[person|Krist]] wurde in der Verhandlung als Zeuge vernommen. Er schilderte, dass er den Beschuldigten im Frühjahr 2024 in der Bauangelegenheit aufgesucht habe, weil die Bauträgerin die Schlusszahlung verzögerte. Der Beschuldigte habe ihm versichert, alle Zahlungen würden über das Treuhandkonto laufen und ihm regelmäßig berichtet werden. Tatsächlich habe er die ersten Monate keinerlei Auskunft erhalten, obwohl [[person|Krist]] mehrmals um eine Übersicht gebeten habe.
+
+Der Mandant [[person|Tsybulskyi]] ergänzte, dass er die Summe von EUR 18.500,00 im September 2024 nach dem Abschluss eines Teilvergleichs eingezahlt habe. Er habe zu diesem Zeitpunkt angenommen, die Beträge seien vollständig für die Gläubiger bestimmt. Erst im Frühjahr 2025 habe er erfahren, dass ein Teil der Summe für Kanzleiaufwand verwendet worden sei.
+
+Die Zeugin [[person|Vesna Ilić]], die bis Ende 2024 als Kanzleikraft im Büro des Beschuldigten tätig war, bestätigte, dass Zahlungseingänge in der Regel erst nach mehreren Wochen verbucht wurden. Sie habe den Beschuldigten mehrfach auf die fehlenden Abrechnungen hingewiesen, jedoch keine Antwort erhalten. Ihre Aussage ist glaubhaft, weil sie sich mit den schriftlichen Mahnungen deckt, die im Akt liegen.
+
+Die Kammeranwältin [[person|Kager]] stellte zum Abschluss der Beweisaufnahme fest, dass sich der Sachverhalt aus den Unterlagen vollständig ergibt. Eine weitere Beweisaufnahme wurde nicht beantragt.
+
 IV. Rechtliche Beurteilung
 
 Gelder, die ein Rechtsanwalt für Klienten entgegennimmt, dürfen ausschließlich für den Treuhandzweck verwendet werden. Dies folgt aus [[legal_norm|§ 1 Abs 3 RAO]]. Die [[legal_norm|RL-BA 2015]] verlangen überdies, dass jede Bewegung auf einem Anderkonto nachvollziehbar dokumentiert wird.

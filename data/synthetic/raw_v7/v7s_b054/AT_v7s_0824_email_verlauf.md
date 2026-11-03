@@ -49,6 +49,8 @@ die [[organization|Küng Immobilien GmbH]], [[company_register_number|FN 420406w
 
 Eine Sanierung wird daher nicht von der Gesellschaft übernommen. Frau [[person|Feitzinger]] kann die Wohnung ohne Einschränkung nutzen, die Kosten der Trocknung tragen wir nicht. Die Außenwand wurde zuletzt im Jahr 2011 neu verputzt, weshalb wir eine Gewährleistung ausschließen.
 
+Die Hausverwaltung hat den Mietvertrag von Frau [[person|Feitzinger]] im Jahr 2019 übernommen. Im Mietvertrag ist die Instandhaltung der Außenwände ausdrücklich dem Vermieter zugewiesen, wir sehen daher keine Verpflichtung der Mieterin zur Mängelbehebung. Eine Mängelrüge aus dem Jahr 2024 ist in unseren Unterlagen nicht vorhanden; die Schadensmeldung vom [[date|29.08.2024]] wurde telefonisch entgegengenommen und nicht schriftlich dokumentiert.
+
 > Von: [[lawyer|Mag. Röck]]
 > Gesendet: Mittwoch, [[date|07.10.2026]] 09:30
 >
@@ -68,7 +70,7 @@ Betreff: AW: Schadensmeldung Schadennummer [[other_identifier|16/793546/24]]
 
 Sehr geehrter Herr [[person|Frischmuth]],
 
-das Gutachten der [[organization|Küng Immobilien]] ist unzureichend, weil es die Feuchtigkeit nicht mit der Lage der Wasserleitung der Nachbarwohnung in Verbindung bringt. Die Wohnung von [[person|Feitzinger]] liegt über der Leitung, die im Juni 2026 erneuert wurde. Die Sache wird beim [[court|Bezirksgericht Zwettl]] eingebracht, falls bis [[date|30.10.2026]] keine Einigung zustande kommt. Die Sachverständige [[person|DI Schlenker]] soll dazu noch ergänzend gehört werden; ihr Gutachten vom [[date|02.10.2026]] ist insoweit unvollständig.
+das Gutachten der [[organization|Küng Immobilien]] ist unzureichend, weil es die Feuchtigkeit nicht mit der Lage der Wasserleitung der Nachbarwohnung in Verbindung bringt. Die Wohnung von [[person|Feitzinger]] liegt über der Leitung, die im Juni 2026 erneuert wurde. Wir haben die Hausverwaltung außerdem gebeten, die Protokolle der Eigentümerversammlung vom [[date|17.06.2025]] vorzulegen; dort wurde die Erneuerung der Leitung in der Nachbarwohnung beschlossen, die Umsetzung aber verschoben. Die Sache wird beim [[court|Bezirksgericht Zwettl]] eingebracht, falls bis [[date|30.10.2026]] keine Einigung zustande kommt. Die Sachverständige [[person|DI Schlenker]] soll dazu noch ergänzend gehört werden; ihr Gutachten vom [[date|02.10.2026]] ist insoweit unvollständig.
 
 Wir weisen darauf hin, dass die Klage gegen die [[organization|Küng Immobilien]] auch die Nachbarin [[person|Głogowska]] betreffen kann, weil die Leitung in ihrer Wohnung verläuft.
 

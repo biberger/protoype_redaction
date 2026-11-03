@@ -45,7 +45,7 @@ Lieber Herr [[lawyer|Theuer]],
 
 die Kündigung wurde am [[date|06.10.2026]] persönlich übergeben. Frau [[person|Vojvodić]] hat den Empfang bestätigt und erklärt, sie könne den Rückstand nicht bezahlen. Die Wohnung liegt in [[address|5742 Wald im Pinzgau]], die Mieterin hat sich bisher nicht gemeldet.
 
-Die [[organization|Ettl Handels]] trägt die Kosten der Schimmelsanierung vorläufig selbst, weil die [[organization|GHG]] sich bisher nicht gemeldet hat. Für die Vollmacht gebe ich meine Daten an: [[person|Holger Greber]], GEB: [[date_of_birth|15.04.1982]]. Ich bitte um Ihre Rückmeldung bis Ende der Woche.
+Die [[organization|Ettl Handels]] trägt die Kosten der Schimmelsanierung vorläufig selbst, weil die [[organization|GHG]] sich bisher nicht gemeldet hat. Für die Vollmacht gebe ich meine Daten an: [[person|Holger Greber]], GEB: [[date_of_birth|15.04.1982]]. Die Mieterin hat die Wohnung seit dem Sommer nicht mehr benutzt, wie die Hausverwaltung auf Nachfrage bestätigt hat. Die Schimmelbildung im Bad stammt nach dem Gutachten von [[person|Wisman]] aus einem defekten Abluftrohr, das die [[organization|GHG]] seit dem Frühjahr nicht repariert hat. Ich bitte um Ihre Rückmeldung bis Ende der Woche.
 
 Beste Grüße
 [[person|Holger Greber]]
@@ -84,6 +84,8 @@ Sehr geehrte Frau [[person|Steinacker]],
 die [[organization|GHG]] ist als Vermieterin passivlegitimiert, da sie die Hausverwaltung nur im Auftrag führt. Wir halten die Kündigung für wirksam und die Klage für begründet. Die Stellungnahme von [[person|Wisman]] vom [[date|08.10.2026]] bestätigt die Mängel.
 
 Zur Schimmelsanierung: Die [[organization|GHG]] hat die Kosten bisher nicht übernommen, obwohl das Gutachten bereits am [[date|08.10.2026]] vorlag. Sollte die [[organization|GHG]] die Sanierung nicht bis zur Tagsatzung zusagen, werden wir die Kosten als Gegenforderung geltend machen. Die Mieterin [[person|Vojvodić]] hat die Wohnung seit dem Sommer nicht mehr benutzt, weshalb wir auch den Nutzungsentgang berücksichtigen.
+
+Die Rechnung der Sanierungsfirma über EUR 3.870,00 liegt bei. Die Firma hat den Auftrag am [[date|12.09.2026]] erhalten und die Arbeiten am [[date|28.09.2026]] abgeschlossen.
 
 Ich ersuche Sie, Ihre Mandantin zu einer außergerichtlichen Einigung zu bewegen, bevor die Kosten der Tagsatzung entstehen. Die Verhandlung ist wegen der Entfernung der Parteien zu [[location|Hietzing]] nicht in Präsenz zu führen, eine Videokonferenz wäre aber möglich.
 

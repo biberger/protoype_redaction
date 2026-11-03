@@ -19,6 +19,8 @@ Tel. [[phone_number|+43-2622-8519012-67]]
 
 KLAGE
 
+ZUSTELLUNG AN: [[person|PENELOPE KÖSTLIN]], [[address|5131 Franking]]
+
 Streitwert: EUR 21.300,00
 
 1. Klägerin: [[country|Republik Österreich]], vertreten durch die [[organization|Salzburger Landesregierung]],
@@ -27,7 +29,7 @@ im Verfahren vertreten durch [[person|Dr. Nowak]], Rechtsanwalt
 2. Beklagte Parteien:
 2.1 [[person|Kareen Schreyer]], wohnhaft in [[address|5131 Franking]]
 2.2 [[person|Maxene Ilić]], GEB: [[date_of_birth|1991-04-20]]
-2.3 [[person|PENELOPE KÖSTLIN]], *[[date_of_birth|07.01.2002]], wohnhaft in [[location|Bad Hall]]
+2.3 [[person|Penelope Köstlin]], *[[date_of_birth|07.01.2002]], wohnhaft in [[location|Bad Hall]]
 2.4 [[person|Amadeo Gudenus]], *[[date_of_birth|28.06.1946]], StA: [[country|Deutschland]]
 2.5 [[person|Eyke Scheel]], *[[date_of_birth|8. Februar 1961]], StA: [[country|Slowakei]]
 

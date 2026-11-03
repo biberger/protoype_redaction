@@ -15,6 +15,8 @@ in der Angelegenheit der Lagerhalle in [[location|Schwechat]] vertrete ich Frau 
 
 Ich ersuche Sie, die Mahnung zurückzunehmen und mir bis [[date|25. Juli 2025]] eine Bestätigung des Zahlungseingangs zu übermitteln. Andernfalls werden wir die Forderung im Verfahren bestreiten.
 
+Der Mietvertrag vom [[date|1. März 2023]] sieht die Zahlung der Miete jeweils bis zum dritten Werktag vor. Die Klientin hält sich seit Jahren an diese Frist; Verspätungen hat es bei ihr nicht gegeben. Die beiliegende Liste der Zahlungen seit Beginn des Mietverhältnisses zeigt durchgehend pünktliche Eingänge.
+
 Mit freundlichen Grüßen
 
 [[person|Kunst]]
@@ -44,7 +46,7 @@ Betreff: AW: Mietrückstand Lagerhalle, Klientin [[person|Novaković]]
 
 sehr geehrte frau [[person|kunst]],
 
-die überweisung vom [[date|2. Mai 2025]] ist bei uns am [[date|7. Mai 2025]] eingelangt, jedoch ohne verwendungszweck. wir haben sie dem falschen mietverhältnis zugeordnet. wir prüfen das und melden uns bis freitag.
+die überweisung vom [[date|2. Mai 2025]] ist bei uns am [[date|7. Mai 2025]] eingelangt, jedoch ohne verwendungszweck. wir haben sie dem falschen mietverhältnis zugeordnet. wir prüfen das und melden uns bis freitag. bitte schicken sie uns bis dahin die kontoauszüge der klientin, damit wir den zahlungsweg nachvollziehen können. die mahnspesen bleiben bis zur klärung offen.
 
 lg
 [[person|mag. dr. gopf kapeller]]
@@ -64,7 +66,7 @@ Betreff: AW: Mietrückstand Lagerhalle
 
 Sehr geehrte Damen und Herren,
 
-im Auftrag von Herrn [[person|Kapeller]] übermitteln wir Ihnen die Kontoauszüge der [[organization|Haiböck]] für Mai 2025. Die Überweisung ist dort mit dem Zahlungsreferenz "Novak Lager" verbucht, ein Zusammenhang mit Ihrer Klientin ist nicht erkennbar.
+im Auftrag von Herrn [[person|Kapeller]] übermitteln wir Ihnen die Kontoauszüge der [[organization|Haiböck]] für Mai 2025. Die Überweisung ist dort mit dem Zahlungsreferenz "Novak Lager" verbucht, ein Zusammenhang mit Ihrer Klientin ist nicht erkennbar. Die Lagerhalle wird seit dem Frühjahr von mehreren Mietern genutzt, und die Zahlungen der Mieter werden bei uns nicht immer einzeln erfasst. Wir bitten daher um Verständnis, dass die Zuordnung einige Tage in Anspruch nimmt.
 
 Die Buchhaltung ist unter Tel. [[phone_number|+43-463-4107518 Durchwahl 21]] erreichbar, bei Rückfragen erreichen Sie Frau [[person|Czarnecka]] dort.
 
@@ -82,7 +84,7 @@ Betreff: AW: Mietrückstand Lagerhalle, Klientennummer: [[other_identifier|70763
 
 Sehr geehrte Frau [[person|Czarnecka]],
 
-die Zahlung vom [[date|2. Mai 2025]] trägt die Klientennummer: [[other_identifier|70763]] unserer Klientin und ist daher eindeutig zuzuordnen. Ich bitte um Berichtigung der Buchung bis [[date|25. Juli 2025]] und um Bestätigung per E-Mail. Die [[organization|Haiböck GmbH]] hat die Mahnung nach Eingang des Schreibens nicht aufrechterhalten dürfen.
+die Zahlung vom [[date|2. Mai 2025]] trägt die Klientennummer: [[other_identifier|70763]] unserer Klientin und ist daher eindeutig zuzuordnen. Ich bitte um Berichtigung der Buchung bis [[date|25. Juli 2025]] und um Bestätigung per E-Mail. Die [[organization|Haiböck GmbH]] hat die Mahnung nach Eingang des Schreibens nicht aufrechterhalten dürfen. Ich habe Ihnen das Schreiben der Bank vom [[date|8. Mai 2025]] als Beilage übermittelt, in dem die Gutschrift mit der Klientennummer ausdrücklich bestätigt wird. Sollte die Bestätigung nicht bis zum Fristende vorliegen, behalte ich mir vor, die Kosten der Mahnung und die Anwaltskosten im Verfahren geltend zu machen.
 
 Mit freundlichen Grüßen
 

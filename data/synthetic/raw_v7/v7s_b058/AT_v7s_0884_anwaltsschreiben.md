@@ -18,6 +18,12 @@ Mandantin der Kanzlei, StA. [[country|Afghanistan]]
 
 Per E-Mail und Post
 
+Zeugin:
+Frau
+[[person|Raingard
+Eichmann]], geboren am [[date_of_birth|9. April 1973]],
+[[address|8344 Merkendorf]]
+
 [[location|Alpbach]], am [[date|27. Oktober 2026]]
 
 Unser Zeichen: [[other_identifier|B-2026/1140]]
@@ -30,11 +36,11 @@ in Ihrer Angelegenheit haben wir mit der [[organization|Allen Handels GmbH]] ([[
 
 Die Alpenland Versicherung AG ([[organization|AV]]) hat den Anspruch mit Schreiben vom [[date|12. Oktober 2026]] zunächst abgelehnt. Die [[organization|AV]] verweist auf eine verspätete Meldung. Wir teilen diese Auffassung nicht, da Sie den Schaden innerhalb der Frist von 14 Tagen nach Kenntnisnahme gemeldet haben.
 
-Frau [[person|Raingard Eichmann]] hat als Zeugin bestätigt, dass Sie den Schaden unmittelbar nach dessen Entdeckung angezeigt haben. Frau [[person|Eichmann]] geboren am [[date_of_birth|9. April 1973]] und wohnhaft in [[address|8344 Merkendorf]] ist bereit, eine eidesstattliche Erklärung abzugeben.
+Frau [[person|Eichmann]] hat als Zeugin bestätigt, dass Sie den Schaden unmittelbar nach dessen Entdeckung angezeigt haben. Frau [[person|Eichmann]] ist bereit, eine eidesstattliche Erklärung abzugeben.
 
-Mit der Versicherungsnummer [[other_identifier|99-5290866]] liegt der Schadensfall bei der [[organization|AV]] unter der Vers.-Nr. ein. Bitte verwenden Sie diese Nummer bei jedem Schriftwechsel.
+Der Schadensfall liegt bei der [[organization|AV]] unter der Vers.-Nr. [[other_identifier|99-5290866]] ein. Bitte verwenden Sie diese Nummer bei jedem Schriftwechsel.
 
-Wir ersuchen Sie, uns bis zum [[date|10. November 2026]] folgende Unterlagen zu übermitteln:
+Wir ersuchen Sie, uns bis zum [[date|30. Oktober 2026]] folgende Unterlagen zu übermitteln:
 
 1. Kopie der Polizze samt Nachtrag,
 2. Fotos des Schadens vom [[date|18. September 2026]],

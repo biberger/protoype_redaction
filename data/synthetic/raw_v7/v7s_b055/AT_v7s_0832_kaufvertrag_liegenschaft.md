@@ -64,6 +64,12 @@ IV. Treuhandabwicklung
 
 2. Die Käuferin verpflichtet sich, dem Treuhandkonto auch die Kosten der Eintragung zur Verfügung zu stellen. Die Vertragsverfasserin erhält für die Abwicklung ein Honorar nach Tarif, zuzüglich Umsatzsteuer.
 
+IV a. Kosten und Abgaben
+
+1. Die Käuferin trägt die Grunderwerbsteuer, die Eintragungsgebühr und die Kosten für die Beschaffung der Urkunden. Die Verkäuferin trägt die Kosten der Löschung eines bestehenden Pfandrechts, falls ein solches im Zeitpunkt der Unterfertigung eingetragen ist.
+
+2. Die Kosten der Vertragserrichtung sind zwischen den Parteien je zur Hälfte zu teilen. Die Honorarnote der Vertragsverfasserin wird gesondert gelegt.
+
 V. Übergabe und Nutzen
 
 Die Übergabe erfolgt mit Kaufpreiszahlung. Nutzen und Lasten gehen mit dem Tag der Übergabe auf die Käuferin über. Die Verkäuferin übergibt die Schlüssel, die Zählerstände und die Bestandsunterlagen.

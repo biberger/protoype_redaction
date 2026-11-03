@@ -71,7 +71,7 @@ Sehr geehrter Herr [[person|Schönberger]],
 
 die [[organization|KVG]] hat den Plan am [[date|15.10.2026]] vorgelegt, der Verlauf der Drainage weicht vom Plan ab. Wir fordern Sie auf, die Leitung bis [[date|30.10.2026]] umzulegen. Herr [[person|Ing. Kattan]] wird den Verlauf vor Ort überprüfen.
 
-Sollten Sie der Aufforderung nicht nachkommen, werden wir die Klage beim zuständigen Gericht einbringen und die Kosten der Ortsbegehung in Rechnung stellen.
+Sollten Sie der Aufforderung nicht nachkommen, werden wir die Klage beim zuständigen Gericht einbringen und die Kosten der Ortsbegehung in Rechnung stellen. Ein Vergleich wäre nach Ansicht meiner Mandantin nur zu erzielen, wenn die Drainage auf eigene Kosten umgelegt und die Pumpen abgestellt werden.
 
 > Von: [[person|Pankraz Schönberger]]
 > Gesendet: Dienstag, [[date|13.10.2026]] 12:20

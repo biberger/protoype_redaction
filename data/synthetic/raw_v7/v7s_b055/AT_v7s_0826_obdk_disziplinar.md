@@ -70,7 +70,7 @@ Zur Angelegenheit des Klienten [[person|Ciobanu]] ist festzuhalten, dass dieser 
 
 4b. Verjährung
 
-Die Verfolgung der Pflichtverletzungen ist nicht verjährt. Nach [[legal_norm|§ 60 Abs 1 RAO]] beginnt die Verjährungsfrist mit der Beendigung der Pflichtverletzung zu laufen. Die letzte Auszahlung an den Klienten erfolgte am [[date|08.01.2020]], die Entnahme des Restbetrags durch die Beschuldigte im Jahr 2021. Die Anzeige ging am [[date|17.03.2024]] ein und war damit fristgerecht. Die Zahlung vom [[date|14.02.2025]] beseitigte die frühere Pflichtverletzung nicht, sondern war lediglich ein Ausgleich nach Erstattung der Anzeige. Die Verteidigung hat die Verjährung ausdrücklich nicht geltend gemacht.
+Die Verfolgung der Pflichtverletzungen ist nicht verjährt. Nach [[legal_norm|§ 60 Abs 1 RAO]] beginnt die Verjährungsfrist mit der Beendigung der Pflichtverletzung zu laufen. Die letzte Auszahlung an den Klienten erfolgte am [[date|08.01.2020]], die Entnahme des Restbetrags durch die Beschuldigte im Jahr 2021. Die Anzeige ging am [[date|17.03.2024]] ein und war damit fristgerecht. Die Zahlung vom [[date|14.02.2025]] beseitigte die frühere Pflichtverletzung nicht, sondern war lediglich ein Ausgleich nach Erstattung der Anzeige. Die Verteidigung hat die Verjährung ausdrücklich nicht geltend gemacht. Die Frist wurde zudem durch die Einleitung des Ermittlungsverfahrens im Jahr 2024 unterbrochen, sodass auch aus diesem Grund keine Verjährung eingetreten ist.
 
 5. Strafbemessung
 

@@ -16,21 +16,21 @@ Unser Zeichen: [[other_identifier|900/26 HSH]]
 
 **KAUFVERTRAG ÜBER LIEGENSCHAFTEN**
 
-abgeschlossen am [[date|15.09.2026]] in Tannheim
+abgeschlossen am [[date|15.09.2026]] in [[location|Tannheim]]
 
 **I. Vertragsparteien**
 
 1. VERKÄUFER:
 
 [[person|LADO FIEDLER]], geb. [[date_of_birth|24. Dezember 1951]],
-wohnhaft in Weerberg 14, 6135 Stans,
+wohnhaft in [[address|Weerberg 14, 6135 Stans]],
 im Folgenden "Verkäufer".
 
 2. KÄUFER:
 
-[[person|Liesel Ing. Baum]], *[[date_of_birth|25.12.1948]],
+[[person|Ing. Liesel Baum]], *[[date_of_birth|25.12.1948]],
 und [[person|Dietger MMag. Klikovits]], geb. [[date_of_birth|1963-12-17]],
-beide wohnhaft in Dorfplatz 3, 6100 Seefeld in Tirol,
+beide wohnhaft in [[address|Dorfplatz 3, 6100 Seefeld in Tirol]],
 im Folgenden "Käufer" oder "Miterwerber".
 
 Die Käufer erwerben die Liegenschaften zu gleichen Anteilen; sie sind Ehegatten, die Ehe besteht seit dem Jahr 1972.
@@ -47,7 +47,7 @@ b) Die Liegenschaft Grundbuch [[land_register_id|97774]]/[[land_register_id|EZ22
 
 Im Grundbuch ist als Eigentümer eingetragen:
 
-Fiedler Lado, geb. [[date_of_birth|24. Dezember 1951]], Eigentümer, Anteil 1/1;
+[[person|Fiedler Lado]], geb. [[date_of_birth|24. Dezember 1951]], Eigentümer, Anteil 1/1;
 
 Im Lastenblatt ist kein Pfandrecht eingetragen.
 
@@ -93,6 +93,20 @@ b) auf die Liegenschaft b): EUR 135.000,--.
 
 18. Die Käufer erklären, dass sie die Liegenschaften zu Wohnzwecken nutzen wollen. Eine Bauverpflichtung besteht nicht.
 
+**VIII. Zusätzliche Erklärungen**
+
+19. Die Liegenschaft a) grenzt im Süden an einen Wirtschaftsweg, der im Eigentum der Gemeinde steht. Ein Wegerecht zugunsten der Liegenschaft ist im Grundbuch nicht eingetragen; der Verkäufer hat den Weg seit über zwanzig Jahren ungehindert benutzt. Die Käufer übernehmen die Verpflichtung, den Weg in gleicher Weise zu nutzen und die Wegerhaltung nach Anteilen mitzutragen.
+
+20. Ein gesetzliches oder vertragliches Vorkaufsrecht besteht an den Liegenschaften nicht. Der Verkäufer erklärt, dass ihm keine Anbotspflicht gegenüber Angehörigen obliegt, die er nicht bereits ausgeübt hat.
+
+21. Die Kanzlei hat die Käufer darauf hingewiesen, dass die Grunderwerbsteuer nach dem Wert der Gegenleistung zu bemessen ist und dass für die Anteile der Käufer am Ehegattenvermögen ein gesonderter Nachweis erforderlich sein kann.
+
+22. Die Vertragsparteien bestätigen, dass die Liegenschaft b) als Bauplatz im Flächenwidmungsplan ausgewiesen ist, eine Bebauung jedoch nach der Gemeindeordnung nur mit einer Bewilligung möglich ist. Eine solche Bewilligung besteht derzeit nicht, und der Verkäufer übernimmt keine Gewähr für ihre Erteilung.
+
+23. Die Parteien vereinbaren, dass die Kosten einer etwaigen Vermessung der Liegenschaft a) je zur Hälfte von Verkäufer und Käufern getragen werden. Die Kosten der Teilung oder Vereinigung von Grundstücken trägt der Käufer allein.
+
+24. Für Streitigkeiten aus diesem Vertrag ist das Bezirksgericht am Ort der gelegenen Liegenschaft zuständig. Gerichtsstand ist [[location|Tirol]].
+
 **Beilagen:**
 
 ./A Grundbuchsauszug vom [[date|08.09.2026]]
@@ -107,7 +121,7 @@ _______________________________
 [[person|Lado Fiedler]], Verkäufer
 
 _______________________________
-[[person|Liesel Ing. Baum]], Käufer
+[[person|Ing. Liesel Baum]], Käufer
 
 _______________________________
 [[person|Dietger MMag. Klikovits]], Käufer

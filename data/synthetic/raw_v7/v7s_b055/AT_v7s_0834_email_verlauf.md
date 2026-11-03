@@ -26,7 +26,7 @@ Betreff: AW: Unfall vom [[date|19. Februar 2026]], Schaden an Fahrzeug
 
 Sehr geehrte Frau Mayröcker,
 
-die ALV hat den Unfall geprüft. Das Gutachten von Herrn [[person|Christof Wittgenstein]] vom [[date|27. Februar 2026]] stellt fest, dass die Schadenhöhe bei rund 4.100 Euro liegt. Die Haftungsfrage ist jedoch noch offen, weil die Gegenseite die Vorfahrt bestreitet.
+die [[organization|ALV]] hat den Unfall geprüft. Das Gutachten von Herrn [[person|Christof Wittgenstein]] vom [[date|27. Februar 2026]] stellt fest, dass die Schadenhöhe bei rund 4.100 Euro liegt. Die Haftungsfrage ist jedoch noch offen, weil die Gegenseite die Vorfahrt bestreitet.
 
 Ich bitte um Verständnis, dass wir die Zahlung erst nach Klärung vornehmen. Die Akte führen wir unter Ihr Zeichen: [[other_identifier|Thomas ./. Széchényi]].
 

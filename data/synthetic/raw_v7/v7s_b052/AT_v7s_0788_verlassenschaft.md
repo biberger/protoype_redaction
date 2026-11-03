@@ -45,8 +45,7 @@ war ledig; eine Ehe bestand nicht.
 
 II. Nachlassvermögen
 
-Die Erblasserin war Eigentümerin der Liegenschaft [[land_register_id|GB 19848]]/Einlagezahl [[land_register_id|3437]],
-[[land_register_id|Gst-Nr. 1477]], [[location|Bludenz]]. Der Verkehrswert der Liegenschaft wurde mit EUR 412.000,00
+Die Erblasserin war Eigentümerin der Liegenschaft [[land_register_id|GB 19848]]/Einlagezahl [[land_register_id|3437]], [[land_register_id|Gst-Nr. 1477]], [[location|Bludenz]]. Der Verkehrswert der Liegenschaft wurde mit EUR 412.000,00
 geschätzt. Die Liegenschaft ist mit einem Pfandrecht zugunsten der [[organization|Hypo Tirol Bank AG]] belastet.
 Den Erwerb der Liegenschaft im Jahr 2011 hat der Vater der Erblasserin, Herr [[person|Lachmayer]], mit einem
 Kaufvertrag vom [[date|14.09.2011]] abgeschlossen. Nach den Unterlagen der Verlassenschaft hat die Erblasserin die Liegenschaft seit dem Tod ihres
@@ -118,7 +117,7 @@ wurde dem Gericht bestätigt.
 Die Einantwortung erfolgt nach Abschluss der Abhandlung durch das [[court|BG Bludenz]]. Die Erbin
 [[person|Tuba]] hat die Lichtbilder der Liegenschaft zu den Akten gereicht.
 
-Tel. der Kanzlei für Rückfragen: [[phone_number|0463/829766 DW 858]]
+Für Rückfragen: Tel. [[phone_number|0463/829766 DW 858]]
 
 Der Erblasserin Nachlass wird ausschließlich nach den Bestimmungen des [[legal_norm|ABGB]] behandelt.
 Die gesetzliche Erbfolge folgt aus [[legal_norm|§ 730 ABGB]] iVm [[legal_norm|§ 732 ABGB]].

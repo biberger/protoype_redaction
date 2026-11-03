@@ -71,6 +71,18 @@ Die Schriftführerin [[person|Hammerer]] bestätigte, dass die Buchungen vom Her
 
 Der Kammeranwalt [[person|Sterk]] beantragte eine Geldbuße von 4.000 Euro. Er wies darauf hin, dass die Verwendung fremder Gelder für eigene Zwecke grundsätzlich schwer wiegt, auch wenn der Betrag später teilweise ausgeglichen wurde.
 
+4b. Zur Zuständigkeit der Kammer
+
+Die Angelegenheit betraf eine Liegenschaft im Bezirk des zuständigen Grundbuchs, der Sitz der Beschuldigten lag jedoch in einem anderen Bezirk. Die Kammer ist für die Disziplinarverfahren gegen Mitglieder der [[organization|RAK OÖ]] unabhängig davon zuständig, wo die Liegenschaft liegt. Eine Zuständigkeitsrüge wurde im Verfahren nicht erhoben.
+
+Die Beschuldigte hatte ihre Kanzlei bis zum Jahr 2023 in [[location|Linz]] betrieben und danach in den Bezirk [[location|Freistadt]] verlegt. Die Verlegung ist für das Verfahren ohne Bedeutung, weil die Verpflichtungen aus dem Treuhandauftrag mit der Kanzlei und nicht mit dem Ort verbunden sind.
+
+4c. Zur Bedeutung des Treuhandkontos
+
+Der Senat hat die Bedeutung des Treuhandkontos für das Vertrauen der Rechtsuchenden berücksichtigt. Die Verwahrung von Fremdgeldern ist eine der zentralen Pflichten des Rechtsanwalts, weil Klienten darauf vertrauen müssen, dass ihr Geld bei Abschluss der Angelegenheit vollständig und nachvollziehbar abgerechnet wird. Eine Verletzung dieser Pflicht gefährdet das Vertrauen in den gesamten Berufsstand.
+
+Die Schwere der Verletzung ergibt sich daraus, dass die Entnahme nicht nur vorgezogen, sondern in der Höhe nicht belegt war. Der Senat hat dies als gewichtigen Umstand gewertet, auch wenn die Beschuldigte bisher nicht disziplinär auffällig war.
+
 5. Strafbemessung
 
 Mildernd waren die Unbescholtenheit der Beschuldigten und die Rückzahlung des Honorars im Verfahren. Erschwerend war die Höhe des entnommenen Betrages und die lange Dauer, während der die Anzeigerin auf die Abrechnung warten musste. Die Geldbuße von 3.000 Euro entspricht diesen Umständen.

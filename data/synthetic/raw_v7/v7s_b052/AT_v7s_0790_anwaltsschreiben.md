@@ -32,12 +32,11 @@ sich aus dem Protokoll, das [[person|Hugo Dr. de Rijke]] am Unfalltag unterferti
 [[date|20.09.2024]], wonach der Anspruch nicht gedeckt sei, können wir nicht nachvollziehen.
 
 Die Zeugin [[person|Apollonia Pendl]], geboren am [[date_of_birth|1945-08-06]], hat den Unfall beobachtet
-und ist bereit, dies schriftlich zu bestätigen. Die Mitfahrerin [[person|Riemer, Karina]], geb. [[date_of_birth|12.07.2001]],
+und ist bereit, dies schriftlich zu bestätigen. Die Mitfahrerin [[person|Karina Riemer]], geb. [[date_of_birth|12.07.2001]],
 war ebenfalls im Fahrzeug und hat einen Schock erlitten; ein Anspruch auf Schmerzengeld wird gesondert geltend gemacht.
 
-Die Grundstücksangaben für die Baustelle lauten [[land_register_id|EZ 858]] / [[land_register_id|KG 84540 Ried im Innkreis]]
-([[court|BG Fünfhaus]]). Die Baustelle war auf Grundlage des Vertrags mit der Vertragsnummer
-[[other_identifier|KV-2021-35091]] eingerichtet.
+Die Grundstücksangaben für die Baustelle lauten [[land_register_id|EZ 858]] / [[land_register_id|KG 84540 Ried im Innkreis]] ([[court|BG Fünfhaus]]). Die Baustelle war auf Grundlage des Vertrags mit der
+Vertragsnummer [[other_identifier|KV-2021-35091]] eingerichtet.
 
 Wir fordern Sie auf, bis spätestens [[date|15.11.2026]] Zahlung von EUR 9.640,00 an unsere Mandantin zu leisten.
 Die Zahlung ist auf das Konto der Mandantin zu überweisen; die Bankverbindung wird auf Anfrage übermittelt.
@@ -78,6 +77,8 @@ Mit freundlichen Grüßen
 
 [[person|Ulbrich]]
 Rechtsanwalt
+
+Kontakt der Mitfahrerin für Rückfragen: [[person|Riemer, Karina]] (Ablage)
 
 Beilagen:
 - Fotodokumentation vom [[date|03.09.2024]]

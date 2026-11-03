@@ -52,6 +52,12 @@ IV. Aufsandungserklärung
 
 Die Verkäufer erteilen hiermit ihre Einwilligung in die Einverleibung des Eigentumsrechts zugunsten der Käuferin im Grundbuch. Die Vertragsparteien beantragen die Durchführung nach [[legal_norm|§ 26 GBG]] auf Grund dieses Vertrages. Die Vertragsverfasserin ist mit der Einreichung beauftragt.
 
+IV a. Bestandsverhältnisse
+
+1. Die Verkäufer erklären, dass die Liegenschaft zum Zeitpunkt der Unterfertigung nicht vermietet ist. Im Nebengebäude befindet sich eine Werkstatt, die auf Grund einer mündlichen Vereinbarung von der Verkäuferin [[person|Vetter]] an einen Dritten überlassen wurde. Diese Vereinbarung wird mit der Übergabe beendet; die Verkäufer haben den Nutzer schriftlich verständigt.
+
+2. Die Käuferin übernimmt die Verpflichtung, den Nutzer nach Übergabe nur im gesetzlich zulässigen Rahmen aus dem Gebäude zu weisen. Die Kosten einer etwaigen Räumung trägt die Käuferin, soweit sie nach der Übergabe entstehen.
+
 V. Übergabe, Nutzen und Lasten
 
 Die Übergabe erfolgt mit der Zahlung der dritten Kaufpreisrate. Nutzen und Lasten gehen mit dem Übergabetag auf die Käuferin über. Die Verkäufer übergeben die Schlüssel, die Zählerstände und die Unterlagen über die Heizungsanlage.
@@ -59,6 +65,12 @@ Die Übergabe erfolgt mit der Zahlung der dritten Kaufpreisrate. Nutzen und Last
 VI. Gewährleistung
 
 Die Verkäufer haften für die Richtigkeit der Angaben über die Liegenschaft nach [[legal_norm|§ 1053 ABGB]]. Ein darüber hinausgehender Gewährleistungsausschluss gilt nur für bekannte und offen erkennbare Mängel.
+
+VI a. Vorkaufsrechte
+
+Die Verkäufer erklären, dass an der Liegenschaft kein vertragliches Vorkaufsrecht eingetragen ist. Eine Vorkaufsberechtigung der Gemeinde [[location|Weerberg]] nach dem Ortsrecht wurde mit Schreiben vom [[date|12.05.2026]] verneint. Die Vertragsverfasserin hat das Schreiben eingeholt und dem Vertrag beigefügt.
+
+Sollte ein Vorkaufsrecht dennoch geltend gemacht werden, verpflichtet sich die Käuferin, den Vertrag mit dem Vorkaufsberechtigten zu denselben Bedingungen abzuschließen. Die Kosten des Vorkaufsfalls trägt die Käuferin.
 
 VII. Schlussbestimmungen
 

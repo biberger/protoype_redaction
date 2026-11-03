@@ -94,6 +94,8 @@ die Auszahlung des Honorars sei nach einer mündlichen Vereinbarung mit der Gese
 der [[organization|Wodak Handels GmbH]] habe das Honorar im Jahr 2019 ausdrücklich bestätigt. Der Senat hat dieses
 Vorbringen geprüft, konnte jedoch keine Zustimmung der Gesellschaft in den Unterlagen finden.
 
+Die Zahlung des Kostenbeitrags ist auf das Konto [[bank_account|AT29 6070 3754 8989 8660]] der [[organization|Rechtsanwaltskammer für Kärnten]] zu leisten.
+
 4b. Ergebnis
 
 Der Disziplinarrat hält die Vorwürfe nach Durchführung der Beweisaufnahme für erwiesen. Die Beweiswürdigung

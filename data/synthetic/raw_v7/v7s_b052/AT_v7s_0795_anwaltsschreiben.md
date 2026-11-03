@@ -51,8 +51,7 @@ Die Vorwürfe der Behörde betreffen einen Zeitraum, in dem die Mandantin die Au
 konnte. Der Umbau war durch eine Lieferverzögerung der Baufirma um mehrere Wochen aufgeschoben. Die Mandantin hat
 diese Verzögerung der Behörde unverzüglich schriftlich angezeigt.
 
-Wir ersuchen um Einstellung des Verfahrens. Für Rückfragen stehen wir unter Tel.
-[[phone_number|0316 416161 Durchwahl 56]] zur Verfügung.
+Wir ersuchen um Einstellung des Verfahrens. Für Rückfragen stehen wir unter Tel. [[phone_number|0316 416161 Durchwahl 56]] zur Verfügung.
 
 Mit freundlichen Grüßen
 

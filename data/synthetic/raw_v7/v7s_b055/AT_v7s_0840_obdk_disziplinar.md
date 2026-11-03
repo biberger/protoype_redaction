@@ -60,6 +60,12 @@ Der Senat hält fest, dass die Entnahme vom [[date|21.06.2023]] und die Entnahme
 
 Die Angaben des Beschuldigten zur mündlichen Zustimmung der Anzeigerin sind nicht geeignet, die Verletzung auszuschließen, weil die Zustimmung jedenfalls nicht dokumentiert war.
 
+4a. Zum Berufungsvorbringen
+
+Die Berufung rügt, der Disziplinarrat habe die Anzeigerin [[person|Schneller]] nicht zur Höhe des Vorschusses befragt. Der Senat hält dies für unbegründet, weil die Höhe des Vorschusses durch das Treuhandbuch belegt ist und die Anzeigerin ihre Zustimmung zur Entnahme ausdrücklich verneint hat. Eine Ergänzung des Verfahrens war daher nicht erforderlich.
+
+Der Beschuldigte rügt außerdem, die Geldstrafe sei ohne Berücksichtigung seiner finanziellen Verhältnisse bemessen worden. Dazu ist festzuhalten, dass der Beschuldigte in der Verhandlung keine Angaben zu seinem Einkommen gemacht hat. Der Senat hat die Strafe deshalb nach den Umständen der Tat bemessen.
+
 5. Strafbemessung
 
 Der Senat hält die vom Disziplinarrat verhängte Strafe für zu hoch, weil die Entnahme vom [[date|09.02.2024]] durch die nachträgliche Abrechnung teilweise ausgeglichen wurde und der Beschuldigte bisher nicht einschlägig in Erscheinung getreten ist. Die Geldstrafe wird daher auf 4.500 Euro herabgesetzt.

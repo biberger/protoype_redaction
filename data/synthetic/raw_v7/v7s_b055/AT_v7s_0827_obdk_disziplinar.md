@@ -82,7 +82,7 @@ Auf die Frage des Senats, weshalb die Abrechnung der Angelegenheit der Klientin 
 
 Der Vertreter der Kammeranwaltschaft hob hervor, dass die Beschuldigte in ihrer Stellungnahme vom [[date|02.02.2026]] keine Belege zu den behaupteten Vorschüssen vorgelegt habe. Die Beschuldigte verwies daraufhin auf ein Gedächtnisprotokoll, das sie nachträglich angefertigt habe. Dieses Protokoll trägt kein Datum vor dem Beginn des Disziplinarverfahrens und konnte daher nicht als Nachweis für die behaupteten Absprachen dienen.
 
-Zusammenfassend ist festzuhalten, dass die Beschuldigte über einen Zeitraum von mehr als eineinhalb Jahren Klientengelder nicht ordnungsgemäß verwaltet und die Abrechnung verzögert hat. Die Pflichtverletzungen betreffen zwei Klientinnen und sind durch die Beweisergebnisse hinreichend belegt.
+Zusammenfassend ist festzuhalten, dass die Beschuldigte über einen Zeitraum von mehr als eineinhalb Jahren Klientengelder nicht ordnungsgemäß verwaltet und die Abrechnung verzögert hat. Die Pflichtverletzungen betreffen zwei Klientinnen und sind durch die Beweisergebnisse hinreichend belegt. Der Senat hat die Erklärungen der Beschuldigten zur Kanzleiorganisation in seine Gesamtabwägung einbezogen, sie vermögen die Schuld jedoch nicht zu mindern.
 
 4a. Kostenentscheidung
 

@@ -79,6 +79,12 @@ Der Senat hält fest, dass der Klient im Zeitpunkt der Vereinbarung nicht anwalt
 
 Mildernd war die bisherige Unbescholtenheit der Beschuldigten und die teilweise Rückzahlung des Honorars im Laufe des Verfahrens. Erschwerend war das Zusammentreffen zweier Pflichtverletzungen und die Tatsache, dass die Beschuldigte die Honorarvereinbarung gegenüber dem unerfahrenen Klienten nicht offengelegt hat. Die verhängte Geldstrafe von 6.000 Euro entspricht diesen Umständen.
 
+5a. Vergleichsversuch und Stellungnahme der Kammer
+
+Der Vertreter des Klienten [[person|Korobko]] übermittelte dem Senat am [[date|14.04.2026]] eine Aufstellung, wonach die Beschuldigte im Zuge eines Vergleichsangebots bereit gewesen sei, 3.000 Euro an den Klienten zurückzuzahlen. Dieses Angebot wurde von der Beschuldigten nicht angenommen, weil sie den Betrag als Honorar für bereits erbrachte Leistungen ansah. Der Senat hält fest, dass die Rückzahlung eines Teils der Honorarbeträge im Verfahren nicht als Anerkennung des Vorwurfs zu werten ist.
+
+Die Stellungnahme der [[organization|Tiroler Rechtsanwaltskammer]] vom [[date|20.05.2026]] enthält keine weitergehenden Vorschläge. Sie bestätigt die Vorgehensweise der Kammeranwaltschaft und hält eine Geldstrafe im Bereich der beantragten Summe für angemessen.
+
 6. Rechtsmittel
 
 Gegen dieses Erkenntnis steht den Parteien die Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] offen. Die Berufung ist binnen vier Wochen ab Zustellung bei dem [[court|Disziplinarrat der Tiroler Rechtsanwaltskammer]] einzubringen.

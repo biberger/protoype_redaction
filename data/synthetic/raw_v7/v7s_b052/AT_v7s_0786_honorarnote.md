@@ -17,6 +17,7 @@ An
 [[person|Klaudia Hatz]]
 c/o [[organization|Kammel Handels GmbH]]
 [[company_register_number|FN 309358p]], UID [[tax_id|ATU70085524]]
+Tel. [[phone_number|07242 151949-67]]
 
 Kl.-Nr. [[other_identifier|88181]]
 Klienten-Nr. [[other_identifier|45551]]

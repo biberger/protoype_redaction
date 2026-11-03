@@ -19,7 +19,7 @@ Rechnungsempfänger:
 GEB: [[date_of_birth|2002-12-07]]
 Klienten-Nr. [[other_identifier|53042]]
 
-Ehrwald, am [[date|23.10.2026]]
+[[location|Ehrwald]], am [[date|23.10.2026]]
 
 Unser Zeichen: [[other_identifier|826/25 K]]
 
