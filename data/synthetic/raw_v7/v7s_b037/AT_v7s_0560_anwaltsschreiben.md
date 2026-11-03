@@ -27,6 +27,8 @@ Buzoianu]]
 
 Betreff: Mängelrüge und Zahlungsaufforderung aus dem Werkvertrag vom [[date|14.04.2026]] betreffend das Objekt in [[location|St. Gilgen]]
 
+Verfahrensbeteiligte: [[person|Buzoianu Matrona]], [[person|Zlatev Joto]]
+
 Sehr geehrte Frau [[person|Buzoianu]],
 
 in der oben bezeichneten Angelegenheit vertrete ich Herrn [[person|Joto Zlatev]]. Herr [[person|Zlatev]] hat Sie am [[date|14.04.2026]] mit der Errichtung eines Dachgeschoßausbaus beauftragt. Der vereinbarte Werklohn beträgt EUR 38.600,00 zuzüglich Umsatzsteuer.

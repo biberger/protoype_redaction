@@ -33,7 +33,7 @@ Planer]], geb. [[date_of_birth|1948-10-02]],
 wohnhaft in [[address|Hauptplatz 7,
 6275 Stumm]]
 
-Herr [[person|Planer]] war als Beifahrer im Fahrzeug anwesend, wie die Fahrtenbuchaufzeichnung der [[organization|Exner]] belegt und hat den Schaden an der Zufahrt unmittelbar nach dem Ereignis angezeigt. Die Meldung ging am [[date|04.02.2026]] bei der [[organization|Exner]] ein, somit innerhalb der vertraglich vorgesehenen Frist. Zeugen sind [[person|Theobald Frenzel]] und [[person|Valeriana Resl]]; beide haben sich schriftlich bereit erklärt, den Hergang zu bestätigen.
+Herr [[person|Planer]] war als Beifahrer im Fahrzeug anwesend, wie die Fahrtenbuchaufzeichnung der [[organization|Exner]] belegt und hat den Schaden an der Zufahrt unmittelbar nach dem Ereignis angezeigt. Die Meldung ging am [[date|04.02.2026]] bei der [[organization|Exner]] ein, somit innerhalb der vertraglich vorgesehenen Frist, was Ihre eigene Eingangsbestätigung vom selben Tag belegt. Zeugen sind [[person|Theobald Frenzel]] und [[person|Valeriana Resl]]; beide haben sich schriftlich bereit erklärt, den Hergang zu bestätigen.
 
 Der Unfallbericht nennt als Lenker [[person|Frenzel Theobald]]; die Schadensliste führt ferner [[person|Resl Valeriana]] und [[person|Mirchev Chanko]] an. Die Schadenhöhe wird mit EUR 8.430,00 beziffert und durch Kostenvoranschläge belegt.
 

@@ -54,7 +54,7 @@ Der Verlassenschaftskommissär hat ferner das Inventar der beweglichen Sachen au
 
 Die Erbantrittserklärung der Erbin [[person|Ghorbani]] enthält den Hinweis auf den Vorbehalt der Inventarerrichtung. Die Erbin hat die Frist zur bedingten Erbantrittserklärung eingehalten. [[person|Thurnher]] hat die unbedingte Erbantrittserklärung am [[date|08.04.2026]] abgegeben, nachdem die Schuldenlage geklärt war.
 
-Die Gerichtskosten für die Einantwortung sind nach dem Gebührengesetz zu berechnen; die Bemessungsgrundlage ist der reine Nachlass. Die Gebühr wird von der Verlassenschaft getragen und vorab aus dem Girokonto beglichen.
+Die Gerichtskosten für die Einantwortung sind nach dem Gebührengesetz zu berechnen, wobei die Gebühr für die Einantwortung des Grundstücks gesondert anfällt; die Bemessungsgrundlage ist der reine Nachlass. Die Gebühr wird von der Verlassenschaft getragen und vorab aus dem Girokonto beglichen.
 
 Die Grunderwerbsteuer für den Übergang der Liegenschaft ist nach der Einantwortung durch die Erben zu entrichten. Die Steuererklärung ist binnen der gesetzlichen Frist beim Finanzamt einzureichen; die Erben wurden darauf hingewiesen, dass die Befreiung für Erwerbe von Todes wegen nur unter bestimmten Voraussetzungen gilt.
 

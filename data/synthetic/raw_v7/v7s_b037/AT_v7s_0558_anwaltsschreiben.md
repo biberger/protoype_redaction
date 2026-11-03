@@ -34,7 +34,7 @@ Wir ersuchen Sie daher, die Schadensregulierung unter der Polizze [[other_identi
 
 Sollten Sie innerhalb der gesetzten Frist keine Stellungnahme abgeben, werden wir die Ansprüche gerichtlich geltend machen. Wir bitten um eine schriftliche Bestätigung des Eingangs dieses Schreibens.
 
-Für Rückfragen steht Ihnen Herr [[person|Mag. Dominick Zdravković]] unter Tel. [[phone_number|+43 2742 505 75 65-93]] zur Verfügung. Die Kanzlei [[person|Hirsch]] ist von der Angelegenheit ebenfalls informiert.
+Für Rückfragen steht Ihnen Herr [[person|Mag. Dominick Zdravković]] unter Tel. [[phone_number|+43 2742 505 75 65-93]] zur Verfügung. Die Kanzlei [[person|Hirsch]] ist von der Angelegenheit ebenfalls informiert. Im Grundbuch ist zugunsten von [[person|Zdravković Dominick]] eine Vormerkung des Vorkaufsrechts eingetragen, deren Löschung wir gesondert beantragen werden.
 
 Mit freundlichen Grüßen
 

@@ -66,7 +66,7 @@ VI. Vorkaufsrechte, Übergabe und Besitz
 
 Ein Vorkaufsrecht der Gemeinde oder eines Nachbarn besteht nach dem Wissen der Verkäufer nicht. Die Verkäufer haben der Kanzlei eine Erklärung vorgelegt, wonach keine Mieter oder Pächter auf den Liegenschaften wohnen. Die Übergabe erfolgt am Tag der Eintragung der Käuferin im Grundbuch; bis dahin verbleibt der Besitz bei den Verkäufern.
 
-Die Käuferin erhält mit der Übergabe die Schlüssel, die Zählerstände und die Unterlagen zur Heizungsanlage. Die Verkäufer haben eine Übergabeliste zu unterfertigen, in der etwaige Mängel festzuhalten sind. Mängel, die dort nicht vermerkt sind, gelten als vor dem Übergang nicht bekannt.
+Die Übergabe wird durch eine gemeinsame Begehung vorbereitet, an der beide Vertragsparteien oder ihre Bevollmächtigten teilnehmen. Die Käuferin erhält mit der Übergabe die Schlüssel, die Zählerstände und die Unterlagen zur Heizungsanlage. Die Verkäufer haben eine Übergabeliste zu unterfertigen, in der etwaige Mängel festzuhalten sind. Mängel, die dort nicht vermerkt sind, gelten als vor dem Übergang nicht bekannt.
 
 VII. Schlussbestimmungen
 

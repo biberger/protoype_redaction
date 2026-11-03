@@ -119,6 +119,10 @@ VII. Offene Punkte
 
 4. Die Verlassenschaft hat die Forderung der [[person|Haidegger]] einstweilen nicht anerkannt. Das Gericht wird über die Anerkennung im Einantwortungsverfahren entscheiden.
 
+VIII. Schlussbemerkung
+
+Die Verlassenschaft wird nach Erledigung der offenen Punkte und nach Vorlage der Unterlagen der Erbin [[person|Ouattara]] sowie nach Zahlung der Gerichtsgebühren zur Einantwortung vorgelegt; die Frist hierfür ist mit dem Gericht abgestimmt. Die Beteiligten erklären, dass ihnen die Rechtsfolgen der unbedingten und bedingten Erbantrittserklärung bekannt sind.
+
 Die Niederschrift wurde vorgelesen, von den Anwesenden genehmigt und unterfertigt.
 
 [[location|Wien]], am [[date|14. April 2026]]

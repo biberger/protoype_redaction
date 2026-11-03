@@ -47,9 +47,22 @@ Im Mandat, das im Treuhandbuch unter [[other_identifier|2024/067]] geführt wird
 
 Die Abrechnungen, die der Beschuldigte den Klienten erteilt hat, weichen in allen drei Mandaten von den Treuhandbüchern ab. Die Klienten erhielten Abrechnungen mit Salden, die nicht mit den Bankbewegungen übereinstimmen.
 
+Die Auswertung der Treuhandbücher für die drei Mandate ergibt folgende Bewegungen (Beträge in EUR):
+
+Datum | Mandant | Vorgang | Betrag | Bemerkung
+[[date|02.01.2025]] | [[person|Haidegger]] | Hinterlegung Kaufpreis | 186.000,00 | Kaufvertrag noch nicht unterfertigt
+[[date|14.02.2025]] | [[person|Haidegger]] | Auszahlung an Makler | 12.500,00 | ohne schriftliche Weisung
+[[date|11.06.2025]] | [[person|Oberländer]] | Einzahlung | 6.000,00 | Vorschuss laut Auftrag
+[[date|27.06.2025]] | [[person|Oberländer]] | Überweisung Bauunternehmen | 4.800,00 | Rechnung erst am [[date|01.07.2025]] gelegt
+[[date|18.12.2025]] | Mandat 2024/067 | Auszahlung ohne Beleg | 3.240,00 | Belege fehlen
+
+Die Summe der beanstandeten Auszahlungen beträgt damit EUR 20.540,00. Davon wurde ein Betrag von EUR 1.200,00 erst nach der Anzeige zurückgeführt.
+
 III. Beweiswürdigung
 
 Der Senat stützt sich auf die Treuhandbücher, die Kontoauszüge der Bank und die Aussagen der Klienten. Der Beschuldigte hat in der Verhandlung eingeräumt, dass die Auszahlung vom [[date|14. Februar 2025]] ohne schriftliche Weisung erfolgte. Er erklärte, er habe den Makler als Vertreter der Käuferin angesehen und deshalb auf eine Weisung verzichtet.
+
+Der als Zeuge vernommene Immobilienmakler [[person|Gerold Pfleger]] hat ausgesagt, er habe vor dem [[date|14. Februar 2025]] keinen Auftrag zur Vermittlung im Namen der Käuferin erhalten. Er habe lediglich eine Provision für die Vermittlung eines anderen Objekts erwartet. Die Zahlung sei ihm von der Kanzlei ohne nähere Erläuterung überwiesen worden.
 
 Diese Darstellung ist nicht glaubhaft. Der Makler war nach dem Vertragsentwurf nicht bevollmächtigt, Zahlungen aus dem Treuhandkonto zu verlangen. Die Zeugin [[person|Haidegger]] hat in der Verhandlung ausgesagt, dass sie den Makler nicht gekannt und keine Zahlung beauftragt habe.
 
@@ -63,17 +76,21 @@ Nach [[legal_norm|§ 1 Abs 1 Z 3 RL-BA]] hat der Rechtsanwalt Fremdgelder getren
 
 Nach [[legal_norm|§ 1 Abs 2 RL-BA]] ist der Rechtsanwalt verpflichtet, über die Treuhandgelder ordnungsgemäß Rechnung zu legen. Unrichtige Abrechnungen sind daher ein eigenständiges Disziplinarvergehen.
 
+Die Verwahrung von Klientengeldern dient dem Schutz des Klienten vor dem Zugriff auf sein Vermögen während eines laufenden Geschäfts. Ein Rechtsanwalt, der Gelder aus dem Treuhandkonto ohne Weisung auszahlt, verlässt den Bereich der bloß fahrlässigen Pflichtverletzung, weil er die Verfügungsgewalt über fremde Vermögenswerte in Anspruch nimmt. Der Senat sieht darin eine erhebliche Gefährdung des Vertrauens in den Berufsstand.
+
 Die Pflichtverletzungen sind nach [[legal_norm|§ 45 Abs 1 Z 3 RAO]] zu beurteilen. Sie wiegen schwer, weil sie mehrere Mandate betreffen und über einen Zeitraum von fast einem Jahr fortgesetzt wurden.
 
 V. Strafzumessung
 
 Als mildernd wertet der Senat die bisherige Unbescholtenheit des Beschuldigten und die Rückzahlung der Differenz von EUR 1.200,00 im Mandat [[person|Oberländer]] vor der Verhandlung. Erschwerend wirkt die Vielzahl der Verstöße und die Tatsache, dass der Beschuldigte die Abrechnungen selbst unterfertigt hat.
 
-Die Geldbuße von EUR 5.500,00 entspricht dem Unrechtsgehalt der Taten und der wirtschaftlichen Leistungsfähigkeit des Beschuldigten. Ein Ausschluss aus der Rechtsanwaltschaft kommt nicht in Betracht, weil die Verstöße keine Unredlichkeit im engeren Sinn zeigen.
+Die Geldbuße von EUR 5.500,00 entspricht dem Unrechtsgehalt der Taten und der wirtschaftlichen Leistungsfähigkeit des Beschuldigten. Ein Ausschluss aus der Rechtsanwaltschaft kommt nicht in Betracht, weil die Verstöße keine Unredlichkeit im engeren Sinn zeigen. Der Senat hat die Einkommensverhältnisse des Beschuldigten berücksichtigt, die aus den vorgelegten Steuerbescheiden hervorgehen. Eine höhere Geldbuße würde die wirtschaftliche Existenz der Kanzlei gefährden, was im Hinblick auf die Klienten der Kanzlei nicht im Interesse der Rechtspflege läge.
+
+Der Beschuldigte hat in seiner letzten Äußerung angegeben, die Kanzlei werde künftig die Treuhandbuchführung durch eine externe Buchhalterin besorgen lassen. Der Senat nimmt dies zur Kenntnis, misst ihm aber für die Strafzumessung keine Bedeutung bei, weil die Verantwortung für die Verwahrung beim Rechtsanwalt bleibt.
 
 VI. Kosten
 
-Die Kosten des Verfahrens sind dem Beschuldigten aufzuerlegen. Die Kosten setzen sich aus der Verhandlungsgebühr und den Auslagen für die Zeugen zusammen.
+Die Kosten des Verfahrens sind dem Beschuldigten aufzuerlegen. Die Kosten setzen sich aus der Verhandlungsgebühr und den Auslagen für die Zeugen [[person|Gerold Pfleger]] und [[person|Kiara Hollerer]] zusammen. Die Kosten des Kammeranwalts sind von der Rechtsanwaltskammer zu tragen und dem Beschuldigten nicht aufzuerlegen.
 
 Der Beschuldigte kann gegen dieses Erkenntnis binnen zwei Wochen Berufung an die [[court|OBDK]] erheben.
 

@@ -44,7 +44,7 @@ Auslagen für Grundbuchsauszüge und Gerichtsgebühren sind in den Positionen ni
 
 MAHNUNG: ZAHLUNG BIS [[date|04.05.2026]] ERBETEN. BEI RÜCKFRAGEN BITTE UNSERE KANZLEI TELEFONISCH KONTAKTIEREN.
 
-Rückfragen zu einzelnen Positionen richten Sie bitte an Tel. [[phone_number|02622/8619068-5]].
+Die Kanzlei bittet um Verständnis, dass Rückfragen zu einzelnen Positionen binnen acht Tagen nach Erhalt dieser Note gestellt werden sollten. Rückfragen zu einzelnen Positionen richten Sie bitte an Tel. [[phone_number|02622/8619068-5]].
 
 Mit freundlichen Grüßen
 

@@ -32,7 +32,7 @@ Im Treuhandbuch der Kanzlei findet sich unter der Treuhandbuch-Nr. [[other_ident
 
 Weitere Buchungen betreffen das Jahr 2025. Am [[date|14. Oktober 2025]] wurde ein Betrag von EUR 5.000,00 von einem Treuhandkonto auf das Honorarkonto des Beschuldigten übertragen. Die Honorarnote datiert vom [[date|29. Oktober 2025]]. Am [[date|21. November 2025]] erfolgte eine weitere Auszahlung an [[person|Dorfmeister]], für die bis dahin keine Deckung bestand.
 
-Der Beschuldigte erklärte, die Buchungen seien durch ein Versehen seiner Kanzleikraft erfolgt. Die Kanzleikraft wurde als Zeugin gehört und bestätigte, dass die Freigaben vom Beschuldigten selbst gezeichnet waren.
+Der Beschuldigte erklärte, die Buchungen seien durch ein Versehen seiner Kanzleikraft erfolgt. Die Kanzleikraft wurde als Zeugin gehört und bestätigte, dass die Freigaben vom Beschuldigten selbst gezeichnet waren. Die Kanzleikraft [[person|Ruth Pichler]] hat ausgesagt, sie habe die Buchungen nach den Anweisungen des Beschuldigten erfasst und ihm die Auszüge jeweils zur Freigabe vorgelegt. Eine eigene Zeichnungsberechtigung für das Treuhandkonto habe sie nicht besessen.
 
 III. Beweiswürdigung
 
@@ -40,7 +40,7 @@ Der Senat hat die Akten, die Kontoauszüge und das Treuhandbuch gewürdigt. Die 
 
 Die Behauptung, der Vergleichsbetrag sei auf Wunsch der Klientin einbehalten worden, ist durch keine Urkunde belegt. Ein schriftlicher Auftrag der Klientin liegt nicht vor. Die Klientin [[person|Fasching]] hat die Einbehaltung ausdrücklich bestritten.
 
-Der Kammeranwalt legte eine Stellungnahme vor, die sich auf die Kontoauszüge stützt. Der Senat folgt dieser Darstellung in den wesentlichen Punkten. Die Stellungnahme des Beschuldigten vom [[date|9. Mai 2026]] enthält dagegen keine konkreten Angaben zu den einzelnen Buchungen.
+Der Kammeranwalt legte eine Stellungnahme vor, die sich auf die Kontoauszüge stützt. Der Senat folgt dieser Darstellung in den wesentlichen Punkten. Die Stellungnahme des Beschuldigten vom [[date|9. Mai 2026]] enthält dagegen keine konkreten Angaben zu den einzelnen Buchungen. Im Schriftsatz vom [[date|25. Mai 2026]] hat der Beschuldigte erstmals auf einen Umzug der Kanzlei verwiesen, der jedoch erst nach dem letzten beanstandeten Vorgang stattgefunden habe. Der Senat hat diesen Vortrag überprüft und keinen Zusammenhang mit den Buchungen festgestellt.
 
 Der Senat hat die Buchungen des Treuhandbuchs für die Jahre 2024 und 2025 tabellarisch ausgewertet. Die Auswertung ergibt folgendes Bild (Beträge in EUR, Saldo jeweils nach der Buchung):
 
@@ -59,6 +59,8 @@ Die Vorgänge bei Frau [[person|Hiebler]] sind nicht Gegenstand des Schuldspruch
 IV. Rechtliche Beurteilung
 
 Gemäß [[legal_norm|§ 1 Abs 1 Z 3 RL-BA]] hat der Rechtsanwalt Fremdgelder getrennt von eigenen Mitteln zu verwahren und ohne Verzug an den Berechtigten abzuliefern. Der Beschuldigte hat Auszahlungen vorgenommen, bevor der Betrag auf dem Treuhandkonto vorhanden war. Dies stellt ein Disziplinarvergehen nach [[legal_norm|§ 45 Abs 1 Z 3 RAO]] dar.
+
+Der Umstand, dass der Beschuldigte im Berufungsverfahren erstmals Einzelheiten zum Ablauf der Buchungen vorgetragen hat, ist bei der Beurteilung der Glaubwürdigkeit nicht ohne Weiteres zu berücksichtigen, weil diese Angaben nicht durch Unterlagen belegt sind. Entscheidend bleibt, dass die Auszahlungen ohne Deckung erfolgten und dass der Beschuldigte die Freigaben selbst erteilt hat.
 
 Die Berufung ist teilweise berechtigt, soweit die Zahlung vom [[date|30. April 2024]] den Fehlbetrag bereits ausgleicht. Der Senat sieht darin einen Milderungsgrund. Die Buchungen vom [[date|14. Oktober 2025]] und vom [[date|21. November 2025]] wiegen dagegen schwer, weil sie zu einem Zeitpunkt erfolgten, als das Verfahren bereits anhängig war.
 

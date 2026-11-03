@@ -25,7 +25,7 @@ Von: [[person|Fester Baron]] <[[email|f.baron@bormann.at]]>
 Gesendet: Dienstag, [[date|6. Oktober 2026]], 14:30
 An: [[person|Leonard Toussaint]] <[[email|l.toussaint@raffeiner-handel.at]]>
 Cc: [[person|Jurgen Schiefer]] <[[email|j.schiefer@bormann.at]]>
-Betreff: AW: Bauer ./. Auner, Lieferung Kühlgeräte
+Betreff: AW: [[other_identifier|Bauer ./. Auner]], Lieferung Kühlgeräte
 
 > Sehr geehrter Herr [[person|Baron]],
 > in der Angelegenheit der Lieferung vom [[date|3. August 2026]] ersuche ich um Rückmeldung zum Stand der Reklamation.
@@ -56,7 +56,7 @@ ERV-Code: [[other_identifier|R560844]]
 Von: [[person|Adela Feistritzer]] <[[email|a.feistritzer@mail.at]]>
 Gesendet: Mittwoch, [[date|7. Oktober 2026]], 08:58
 An: [[person|Fester Baron]] <[[email|f.baron@bormann.at]]>
-Betreff: AW: AW: Bauer ./. Auner, Lieferung Kühlgeräte
+Betreff: AW: AW: [[other_identifier|Bauer ./. Auner]], Lieferung Kühlgeräte
 
 > Sehr geehrter Herr [[person|Baron]],
 > ich habe Frau [[person|Bauer]] informiert, die die Reklamation am [[date|10. August 2026]] schriftlich angemeldet hat.

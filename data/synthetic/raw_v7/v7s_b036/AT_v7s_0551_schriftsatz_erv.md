@@ -44,6 +44,8 @@ I. Vorbringen
 
 Zur Streitverkündung ist festzuhalten, dass die [[person|Aicher]] ihren Beitritt zum Verfahren bisher nicht erklärt hat. Die Beklagte hat sie daher förmlich aufgefordert, dem Verfahren beizutreten und sich zu den Behauptungen der Klägerin zu äußern. Die Frist dafür läuft nach der Zustellung dieses Schriftsatzes; ein Beitritt ist im Interesse der Beklagten, weil nur so die Feststellungen zur Planung im Verfahren verbindlich werden.
 
+Die Klägerin hat die Schadenhöhe zunächst mit einem Gutachten eines Bausachverständigen belegt, das jedoch nur die Sanierungskosten für das Dachgeschoss umfasst. Eine Aufstellung der Positionen für die Wohnung selbst fehlt; die Beklagte bestreitet deshalb die Höhe der geltend gemachten Positionen mit Nichtwissen.
+
 Die Klägerin hat außerdem in ihrer Klage eine Wertsicherung des Schadenersatzes verlangt, die nach dem Verbraucherpreisindex berechnet werden soll. Eine solche Wertsicherung ist im Schadenersatzrecht nur ausnahmsweise zu gewähren, wenn der Schaden über einen längeren Zeitraum hinweg zu erstatten ist. Dies ist hier nicht der Fall, weil die Sanierung bereits abgeschlossen ist.
 
 II. Rechtliche Beurteilung
@@ -76,6 +78,8 @@ Die beklagte Partei beantragt,
 
 1. die Klage abzuweisen;
 2. der Klägerin die Kosten des Verfahrens aufzuerlegen.
+
+Zum Beweis für die vorstehenden Behauptungen beantragt die beklagte Partei die Einvernahme der Zeugen [[person|Sina Fotea]] und [[person|Halime Mag. İlgün]] sowie die Einholung eines Sachverständigengutachtens aus dem Fachgebiet Bauphysik zur Frage, ob die Anschlussfolie an der Dachrinne vor dem Schaden mangelhaft war. Ferner wird die Vorlage der Mieterunterlagen und der Korrespondenz mit der Hausverwaltung beantragt.
 
 Beilagen:
 ./A Schadenmeldung vom [[date|20.01.2025]]

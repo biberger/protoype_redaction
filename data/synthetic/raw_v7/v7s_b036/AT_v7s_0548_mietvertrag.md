@@ -41,6 +41,8 @@ III. Mietzins
 
 3. Der Mietzins wird jährlich mit dem von der Statistik Austria verlautbarten Verbraucherpreisindex wertgesichert. Die erste Anpassung erfolgt am [[date|01.10.2021]].
 
+4. Gerät der Mieter mit der Zahlung von zwei aufeinanderfolgenden Monatsmieten in Verzug, ist die Vermieterin berechtigt, die Mietzinszahlungen binnen vierzehn Tagen nach schriftlicher Mahnung einzufordern. Bleibt die Zahlung aus, sind Verzugszinsen in gesetzlicher Höhe zu leisten und die Mahnkosten zu ersetzen.
+
 IV. Kaution
 
 Der Mieter erlegt eine Kaution in Höhe von drei Bruttomonatsmieten, somit EUR 3.165,00. Die Kaution ist auf das Konto der Vermieterin einzuzahlen und wird nach Beendigung des Mietverhältnisses unter Abzug offener Forderungen zurückgestellt. Die Verzinsung richtet sich nach [[legal_norm|§ 1098 ABGB]].

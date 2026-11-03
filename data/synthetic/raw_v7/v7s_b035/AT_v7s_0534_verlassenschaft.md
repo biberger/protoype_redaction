@@ -81,13 +81,21 @@ V. Vermächtnisse und Gerichtsgebühren
 
 Die Vermächtnisse von [[person|Koll]] und [[person|Ferić]] sind vorab aus dem Erlös der Liegenschaft zu erfüllen. Die Gerichtsgebühren werden nach dem Reinnachlass berechnet.
 
+VI a. Bankverbindungen und Zahlungen
+
+Die Zahlungen aus dem Nachlass erfolgen ausschließlich über das Verlassenschaftskonto. Die Begleichung der Verbindlichkeiten aus dem Vertrag [[other_identifier|LV-2018-80988]] ist bis zur Einantwortung zurückgestellt. Eine Überweisung an die Erbin erfolgt erst nach Vorlage der Erbantrittserklärung und der Unbedenklichkeitsbescheinigung.
+
+Die Zinserträge des Verlassenschaftskontos seit dem Todestag werden dem Nachlass gutgeschrieben. Eine Abrechnung über die Zinsen wird der Einantwortung beigelegt.
+
 VI. Erklärungen der Beteiligten
 
 1. Die Erbin [[person|Zemanek]] ist mit dem Vertragsabschluss als Minderjährige bis zum Jahr 2022 nicht einverstanden gewesen; die Zustimmung ihres gesetzlichen Vertreters liegt inzwischen vor.
 
 2. Die Erbin [[person|von Wurzbach]] erklärt die unbedingte Erbantrittserklärung; sie hat die Mitteilung über das Vermächtnis an [[person|Porsche]] am [[date|2.10.2023]] erhalten.
 
-3. Der Vermächtnisnehmer [[person|Ferić]] verzichtet auf die Übergabe des Hausrates vor der Einantwortung.
+3. Der Vermächtnisnehmer [[person|Ferić]] verzichtet auf die Übergabe des Hausrates vor der Einantwortung. Er hält jedoch fest, dass die Bücher aus dem Nachlass seiner Mutter stammen und ihm gesondert zu übergeben sind.
+
+4. Die Erbin [[person|von Wurzbach]] erklärt, dass sie die Liegenschaft bis zur Einantwortung nicht belasten, verpachten oder verkaufen wird.
 
 VII. Hinweise des Notars
 

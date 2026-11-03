@@ -41,6 +41,10 @@ I. Sachverhalt
 
 4. Die Zeugin [[person|Natalia Terzakis]], GEB: [[date_of_birth|25.08.1967]], hat die Übergabe des Objekts am [[date|1. Februar 2025]] bestätigt.
 
+5. Die Beklagte hat im Vorverfahren vor der Schlichtungsstelle keine Einigung erzielt. Der Vergleichsvorschlag vom [[date|15. April 2026]] wurde von ihr nicht angenommen, obwohl sie die Miete für die Monate Jänner bis Mai 2025 nach eigener Aussage bereits überwiesen habe. Ein Zahlungsnachweis wurde trotz Aufforderung nicht vorgelegt.
+
+6. Die Beweise für diese Behauptungen ergeben sich aus den Urkunden und aus der Einvernahme der Zeugin [[person|Natalia Terzakis]], die bei der Übergabe anwesend war. Die Beklagte selbst kann zu den Übergabemodalitäten vernommen werden.
+
 II. Rechtliche Beurteilung
 
 Der Anspruch ergibt sich aus [[legal_norm|§ 1090 ABGB]] iVm [[legal_norm|§ 1111 ABGB]]. Die Beklagte ist mit den Mietzinsen für die Monate Jänner bis Mai 2025 in Verzug.

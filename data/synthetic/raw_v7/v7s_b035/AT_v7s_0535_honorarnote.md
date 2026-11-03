@@ -51,6 +51,10 @@ Die Gegenseite hat im Verfahren die Kostentragung nach [[legal_norm|§ 41 ZPO]] 
 
 Für Rückfragen zu einzelnen Positionen steht die Kanzlei zur Verfügung. Bitte melden Sie sich bei Fragen zur Abrechnung telefonisch unter der oben angeführten Nummer.
 
+Die Honorarnote enthält keine Umsatzsteuer auf die Barauslagen, da diese als durchlaufende Posten behandelt werden. Eine Vorauszahlung wurde nicht geleistet. Die Klientin wird gebeten, Einwendungen gegen einzelne Positionen binnen vier Wochen schriftlich zu erheben; ohne Einwendung gilt die Note als anerkannt.
+
+Die Kanzlei bedankt sich für das entgegengebrachte Vertrauen und die gute Zusammenarbeit im Verfahren.
+
 Die Zahlung ist binnen 14 Tagen auf das Kanzleikonto IBAN [[bank_account|AT80 9548 4660 8958 9637]] zu leisten. Bitte geben Sie als Verwendungszweck die Klienten-Nr. [[other_identifier|71915]] an.
 
 Mit freundlichen Grüßen

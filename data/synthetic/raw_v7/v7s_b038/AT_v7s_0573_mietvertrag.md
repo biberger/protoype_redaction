@@ -31,11 +31,13 @@ wohnhaft in
 
 Vermietet wird die Wohnung Top 4 im Haus [[address|Hauptstraße 17/Top 4, 8353 Kapfenstein]], bestehend aus drei Zimmern, Küche, Vorraum, Bad, WC und einem Kellerabteil. Die Liegenschaft ist eingetragen in [[land_register_id|KG 33683]] / [[land_register_id|EZ: 104]]. Die Wohnnutzfläche beträgt 74,6 m².
 
+Die Wohnung ist mit einer Gasetagenheizung, einem Badezimmer mit Badewanne und einem Balkon ausgestattet. Der Balkon darf nicht zur Lagerung von Gegenständen verwendet werden, die die Statik des Gebäudes belasten.
+
 Die Mieterin erklärt, die Wohnung besichtigt zu haben und in dem Zustand zu übernehmen, in dem sie sich befindet. Ein Übergabeprotokoll vom [[date|29. November 2024]] ist Bestandteil dieses Vertrags.
 
 3. Mietdauer
 
-Das Mietverhältnis beginnt am [[date|1. Dezember 2024]] und wird auf unbestimmte Zeit abgeschlossen. Die ordentliche Kündigung durch die Mieterin ist unter Einhaltung einer Frist von drei Monaten zum Ende eines Kalendermonats möglich. Ein Vorgängervertrag mit der Vertragsnummer [[other_identifier|KV-2019-47789]] wird mit dem Beginn dieses Vertrags einvernehmlich aufgehoben.
+Das Mietverhältnis beginnt am [[date|1. Dezember 2024]] und wird auf unbestimmte Zeit abgeschlossen. Die ordentliche Kündigung durch die Mieterin ist unter Einhaltung einer Frist von drei Monaten zum Ende eines Kalendermonats möglich. Die Kündigung durch die Vermieterin richtet sich nach den gesetzlichen Bestimmungen, insbesondere nach dem [[legal_norm|Mietrechtsgesetz]]. Die Kündigung bedarf der Schriftform und ist eingeschrieben zuzustellen. Ein Vorgängervertrag mit der Vertragsnummer [[other_identifier|KV-2019-47789]] wird mit dem Beginn dieses Vertrags einvernehmlich aufgehoben.
 
 4. Mietzins und Betriebskosten
 

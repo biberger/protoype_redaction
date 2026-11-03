@@ -35,11 +35,11 @@ Streitwert: EUR 27.400,00
 
 I. Sachverhalt
 
-1. Der Kläger ist Eigentümer der Liegenschaft [[land_register_id|K.G. Weidling]]/[[land_register_id|EZ 2080]], die an das Netz der Basch Handels GmbH angeschlossen ist. Die Liegenschaft ist außerdem im Grundbuch unter [[land_register_id|KG 76566 Unserfrau-Altweitra]], [[land_register_id|EZ21]], [[land_register_id|Gst-Nr. 170/24]] verzeichnet.
+1. Der Kläger ist Eigentümer der Liegenschaft [[land_register_id|K.G. Weidling]]/[[land_register_id|EZ 2080]], die an das Netz der [[organization|Basch Handels GmbH]] angeschlossen ist. Die Liegenschaft ist außerdem im Grundbuch unter [[land_register_id|KG 76566 Unserfrau-Altweitra]], [[land_register_id|EZ21]], [[land_register_id|Gst-Nr. 170/24]] verzeichnet.
 
 2. Am [[date|3. März 2025]] wurde der Schaden durch ein Hochwasser verursacht, nachdem die Entwässerung der Straße durch die [[organization|Land Tirol]] nicht gewartet worden war. Der Kläger hat die Schaden-Nr. [[other_identifier|50/434796/24]] bei seiner Versicherung gemeldet. Die Polizze [[other_identifier|73-5114903]] deckt den Schaden nur teilweise.
 
-3. Die Basch Handels GmbH betreibt auf dem Grundstück einen Lagerbetrieb, dessen Abwasser in die Entwässerung eingeleitet wird. Die Gesellschaft hat die Einleitung nicht angezeigt.
+3. Die [[organization|Basch Handels GmbH]] betreibt auf dem Grundstück einen Lagerbetrieb, dessen Abwasser in die Entwässerung eingeleitet wird. Die Gesellschaft hat die Einleitung nicht angezeigt.
 
 4. Der Gutachter [[person|Mag. Dr. Burgfried Brückler]], GEB: [[date_of_birth|26. Mai 1935]], hat den Schaden am [[date|17. April 2025]] besichtigt und mit EUR 27.400,00 bewertet.
 

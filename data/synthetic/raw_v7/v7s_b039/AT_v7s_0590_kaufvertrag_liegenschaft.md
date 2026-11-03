@@ -15,7 +15,7 @@ KAUFVERTRAG
 
 Geschäftszeichen: Treuhandbuch-Nr. [[other_identifier|2019/041]]
 
-abgeschlossen am [[date|22. Oktober 2025]] in Zillingdorf zwischen
+abgeschlossen am [[date|22. Oktober 2025]] in [[location|Zillingdorf]] zwischen
 
 I. VERTRAGSPARTEIEN
 
@@ -85,7 +85,17 @@ VI. ÜBERGABE UND GEWÄHRLEISTUNG
 
 3. Die Kosten der Errichtung und die Grunderwerbsteuer trägt die Käuferin.
 
-VII. SCHLUSSBESTIMMUNGEN
+VII. LASTEN UND DIENSTBARKEITEN
+
+1. Die Verkäufer erklären, dass die Liegenschaften nicht mit Pfandrechten belastet sind, die nicht bis zur Auszahlung des Kaufpreises gelöscht werden. Die Löschung erfolgt auf Kosten der Verkäufer aus dem Kaufpreis.
+
+2. Die Käuferin übernimmt die im Grundbuch ersichtlichen Dienstbarkeiten, insbesondere das Wegerecht zugunsten des Nachbargrundstückes, soweit dieses im Grundbuch eingetragen ist.
+
+3. Die Verkäufer haben der Käuferin die letzte Betriebskostenabrechnung übergeben. Offene Betriebskosten bis zum Tag der Übergabe trägt der Verkäufer, danach die Käuferin.
+
+4. Die Käuferin erklärt, dass sie von der Möglichkeit eines Vorkaufsrechtes der Gemeinde Kenntnis hat. Ein solches Recht besteht nach Auskunft der Verkäufer nicht. Die Kanzlei hat die Auskunft im Grundbuch überprüft.
+
+VIII. SCHLUSSBESTIMMUNGEN
 
 1. Änderungen bedürfen der Schriftform. Jede Partei erhält eine Ausfertigung.
 
@@ -99,7 +109,7 @@ Beilage ./A: Grundbuchsauszug, Eigentümerin: [[person|Schneeberger Estella]], g
 Beilage ./B: Vorvertrag vom [[date|12. März 2019]]
 Beilage ./C: Bestätigung der Abschreibung
 
-Zillingdorf, am [[date|22. Oktober 2025]]
+[[location|Zillingdorf]], am [[date|22. Oktober 2025]]
 
 VERKÄUFERIN                              VERKÄUFERIN                              KÄUFERIN
 [[organization|ELBOGEN IMMOBILIEN GMBH]]          [[person|ESTELLA SCHNEEBERGER]]          [[person|BRIGIT HUMMER]]

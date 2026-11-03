@@ -24,6 +24,12 @@ An die
 [[organization|Reinitzer Bau GmbH]], [[company_register_number|FN 505686g]], [[tax_id|ATU92407609]]
 z. H. [[person|Saul Amann]]
 
+Beteiligte Partei:
+[[person|Kamilla
+Abraham]], geb. [[date_of_birth|06.12.1968]]
+[[address|Bahnweg 4,
+2601 Sollenau]]
+
 Betreff: Schadenersatzanspruch aus dem Bauvorhaben in [[location|St. Veit an der Glan]]; Mängel an der Dachkonstruktion
 
 Sehr geehrte Damen und Herren,

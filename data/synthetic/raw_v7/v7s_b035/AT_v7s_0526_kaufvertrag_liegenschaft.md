@@ -118,6 +118,14 @@ VIII c. Finanzierung und Erklärungen der Käuferin
 
 4. Die Parteien nehmen zur Kenntnis, dass die Treuhänderin die Vertragsparteien über die Folgen einer Nichterfüllung belehrt hat. Insbesondere wurde darauf hingewiesen, dass bei Verzug der Käuferin mit der Kaufpreiszahlung um mehr als dreißig Tage ein Rücktrittsrecht der Verkäuferin entsteht, sofern die Frist schriftlich gesetzt wurde.
 
+VIII d. Hinweise zur Grunderwerbsteuer und Vorsteuer
+
+1. Die Verkäuferin wird darauf hingewiesen, dass die Veräußerung der Liegenschaft nach dem Ablauf der Spekulationsfrist keine Einkommensteuerpflicht auslöst, sofern die Voraussetzungen dafür im Einzelfall vorliegen. Eine verbindliche Auskunft wird nicht erteilt.
+
+2. Die Käuferin erklärt, dass sie die Liegenschaft als Unternehmerin zur Errichtung eines Wohnhauses erwirbt. Eine Option zur Umsatzsteuer wurde nicht ausgeübt; die Parteien nehmen zur Kenntnis, dass die Verkäuferin als Privatperson keine Umsatzsteuer schuldet. Sollte sich die Verwendung ändern, ist die Treuhänderin unverzüglich zu verständigen.
+
+3. Die Treuhänderin hat die Parteien darauf hingewiesen, dass die Grunderwerbsteuer nach der Bemessungsgrundlage des Kaufpreises und allfälliger Gegenleistungen zu berechnen ist. Eine Gegenleistung in Form von Nebenabreden besteht nicht.
+
 IX. Schlussbestimmungen
 
 1. Änderungen und Ergänzungen dieses Vertrages bedürfen der Schriftform. Mündliche Nebenabreden bestehen nicht.

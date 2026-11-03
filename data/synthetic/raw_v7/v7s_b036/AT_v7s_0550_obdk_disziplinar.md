@@ -50,7 +50,7 @@ Der Kammeranwalt [[person|Heinfried Jahoda]] beantragte in der Verhandlung die V
 
 Beweiswürdigung
 
-Der Senat, besetzt mit [[judge|MMag. Agatha Zotter]] als Vorsitzender sowie [[judge|Abdul Halim Jafari]] und [[judge|Dr. Gorius Pisk]] als Beisitzer, hat die Akten nach der Verhandlung gewürdigt. Die Schriftführerin [[person|Kornélia Gond]] hat die Verhandlung protokolliert und die Beweisstücke geordnet.
+Der Senat, besetzt mit [[judge|MMag. Agatha Zotter]] als Vorsitzender sowie [[judge|Abdul Halim Jafari]] und [[judge|Dr. Gorius Pisk]] als Beisitzer, hat die Akten nach der Verhandlung gewürdigt. Die Schriftführerin [[person|Kornélia Gond]] hat die Verhandlung protokolliert und die Beweisstücke geordnet. Die Beweisstücke umfassten die Kontoauszüge der Kanzlei, die Treuhandbuchauszüge für die drei Treuhandschaften, die Schreiben der Klientin an die Kammer sowie die Honorarnoten, die im Jahr 2023 an die Klientin übermittelt wurden. Der Senat hat sämtliche Unterlagen im Original eingesehen. Ergänzend wurde die Stellungnahme der Kanzleikraft, die im Jahr 2022 die Buchungen vorbereitet hat, verlesen. Sie gab an, die Anweisungen des Beschuldigten zur Verbuchung ohne Rückfrage umgesetzt zu haben, und bestätigte, dass die Vorschussbuchung der Klientin nicht erläutert worden sei.
 
 Die Kontoauszüge zeigen für den Zeitraum vom [[date|04.03.2022 bis zum 23.02.2026]] eine Reihe von Buchungen, die für die jeweiligen Treuhandschaften nicht vollständig zugeordnet sind. Der Senat stellt fest, dass die Zuordnung der Gelder zu den einzelnen Treuhandschaften nicht erkennbar ist.
 

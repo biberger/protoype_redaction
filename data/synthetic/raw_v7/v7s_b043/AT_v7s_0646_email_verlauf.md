@@ -15,7 +15,7 @@ vielen Dank für Ihre Nachricht. Die Gegenseite hat mit Schriftsatz vom [[date|1
 
 Die [[organization|Wiener Assekuranz AG]] ([[organization|WAAG]]) hat den Anspruch bisher nur zu einem Drittel anerkannt. Ich halte das für zu knapp bemessen, zumal die Schadennummer [[other_identifier|39/178977/20]] bereits im Frühjahr gemeldet wurde und die [[organization|WAAG]] damals keinen Vorbehalt angemeldet hat.
 
-Das [[court|Bezirksgericht Bruck an der Leitha]] hat die Tagsatzung auf den [[date|25. November 2026]] angesetzt. Bitte übermitteln Sie mir bis [[date|30. Oktober 2026]] die Reparaturrechnungen, die Fotos vom Unfallort und die Lieferscheine. Die Originale können Sie gerne per Post schicken.
+Das [[court|Bezirksgericht Bruck an der Leitha]] hat die Tagsatzung auf den [[date|3. November 2026]] angesetzt. Bitte übermitteln Sie mir bis [[date|20. Oktober 2026]] die Reparaturrechnungen, die Fotos vom Unfallort und die Lieferscheine. Die Originale können Sie gerne per Post schicken.
 
 Mit freundlichen Grüßen
 

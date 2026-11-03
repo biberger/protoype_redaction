@@ -50,7 +50,7 @@ Das Verfahren wurde nach Einlangen der Beschwerde von [[person|Ada Borawska]] vo
 
 Die Kammeranwältin [[person|Chrystalla MMag. Dimitriadis]] beantragte daraufhin die Vernehmung der Klientinnen. In der Verhandlung wurde zunächst die Zeugin [[person|Ada Borawska]] vernommen; sie schilderte, dass sie den Kaufvertrag für die Liegenschaft nur mündlich besprochen habe und die Zahlung als Anzahlung verstanden habe, nicht aber als Ermächtigung zur Weiterleitung. Die Zeugin [[person|Ilsedore Schilling]] bestätigte die Einzahlung vom [[date|22.08.2024]] und die wiederholten Mahnungen.
 
-Der Senat, besetzt mit [[judge|Mag. Lona Steininger]] als Vorsitzender sowie [[judge|Natalina Stuck]] und [[judge|Mag. Mansur Abboud]] als Beisitzern, hat die Beweise gewürdigt. Die Schriftführerin [[person|Marietta Tardos]] hat das Protokoll geführt und den Zeitablauf festgehalten.
+Der Senat, besetzt mit [[judge|Mag. Lona Steininger]] als Vorsitzender sowie [[judge|Natalina Stuck]] und [[judge|Mag. Mansur Abboud]] als Beisitzern, hat die Beweise gewürdigt. Die Schriftführerin [[person|Marietta Tardos]] hat das Protokoll geführt und den Zeitablauf festgehalten. Vor Eintritt in die Beweisaufnahme hat der Vorsitzende die Besetzung des Senats bekanntgegeben und den Parteien Gelegenheit gegeben, Einwendungen gegen einzelne Mitglieder zu erheben. Der Beschuldigte hat davon keinen Gebrauch gemacht; die Kammeranwältin hat ebenfalls auf Einwendungen verzichtet.
 
 Beweiswürdigung
 
@@ -71,6 +71,8 @@ Der Senat hat die bisherige Unbescholtenheit des Beschuldigten mildernd berücks
 Die Höhe der Geldbuße orientiert sich an vergleichbaren Fällen der Treuhandverwaltung, in denen Beträge in dieser Größenordnung ohne Weisung ausbezahlt wurden. Der Senat hat dabei berücksichtigt, dass der Beschuldigte für die Rückzahlung der Beträge zum Teil selbst Mittel aufgewendet hat, während die Verzögerung im zweiten Fall durch eine Erkrankung erklärbar ist. Die Dauer der Pflichtverletzung im ersten Fall und die Zahl der betroffenen Klientinnen rechtfertigen jedoch eine Geldbuße im mittleren Bereich des Rahmens.
 
 Der Senat hat auch geprüft, ob die Verletzung der Aufzeichnungspflichten gesondert zu ahnden ist. Da die Buchungsmängel mit den Auszahlungen in unmittelbarem Zusammenhang stehen, wurden sie nicht als eigenes Vergehen gewertet, sondern bei der Strafbemessung berücksichtigt.
+
+Der Senat hat die Stellungnahme der Kammeranwältin gewürdigt, wonach die Verletzung der Aufzeichnungspflichten bei einer Treuhandschaft grundsätzlich schwerer wiegt als eine bloße Verspätung der Auszahlung. Im vorliegenden Fall überwiegt jedoch der Umstand, dass die Gelder schließlich vollständig an die Berechtigten gelangt sind; der Senat hat dies bei der Strafbemessung berücksichtigt.
 
 Der Senat hat weiters berücksichtigt, dass die Kanzlei im Zeitpunkt der Verhandlung nach wie vor in [[location|St. Michael im Lungau]] geführt wird. Die Einhaltung der Vorschriften über die Verwaltung von Treuhandgeldern wurde für die Zukunft durch die Bestellung eines Kontrollbeauftragten sichergestellt.
 

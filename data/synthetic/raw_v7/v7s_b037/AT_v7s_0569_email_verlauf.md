@@ -11,7 +11,7 @@ Betreff: AW: Klientennummer [[other_identifier|15011]] – Räumungsvergleich
 
 Sehr geehrter Herr [[person|Staal]],
 
-danke für Ihre Rückmeldung vom [[date|22. Oktober 2026]]. Wir bestätigen, dass Frau [[person|Blaschitz]] dem Vergleichsvorschlag grundsätzlich zustimmt, sofern die Rückstände bis zum [[date|15. November 2026]] ausgeglichen werden.
+danke für Ihre Rückmeldung vom [[date|22. Oktober 2026]]. Wir bestätigen, dass Frau [[person|Blaschitz]] dem Vergleichsvorschlag grundsätzlich zustimmt, sofern die Rückstände bis zum [[date|02. November 2026]] ausgeglichen werden.
 
 Die [[organization|Erste Bank der oesterreichischen Sparkassen AG]] ([[organization|ESPA]]) hat die Überweisung der Kaution bereits bestätigt. Eine Abschrift dieser Bestätigung liegt bei. Die [[organization|ESPA]] führt das Konto unter der Nummer, die Sie bereits kennen.
 

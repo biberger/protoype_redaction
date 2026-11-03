@@ -8,7 +8,7 @@ Zeichen [[other_identifier|616/22 N]]
 
 Beschluss
 
-Der Disziplinarrat der Oberösterreichischen Rechtsanwaltskammer hat in der Disziplinarsache gegen die Rechtsanwältin [[lawyer|Khalida Abid]], geb. *[[date_of_birth|1985-10-06]], in [[location|Linz]], nach der Verhandlung vom [[date|21. April 2026]] beschlossen:
+Der Disziplinarrat der Oberösterreichischen Rechtsanwaltskammer hat in der Disziplinarsache gegen die Rechtsanwältin [[lawyer|Khalida Abid]], *[[date_of_birth|1985-10-06]], in [[location|Linz]], nach der Verhandlung vom [[date|21. April 2026]] beschlossen:
 
 Protokoll der Sitzung
 
@@ -30,7 +30,7 @@ Begründung
 
 1. Anlass
 
-Die [[organization|Oberösterreichische Rechtsanwaltskammer]] ([[organization|RAK]]) erhielt im [[date|September 2025]] eine Beschwerde der Gesellschaft [[organization|Dick Handels GmbH]], [[company_register_number|FN 294653p]], UID-Nr. [[tax_id|ATU61175695]], deren Geschäftsführer die Rückzahlung eines Treuhanderlags verlangte. Die Gesellschaft hatte im Jahr 2025 mehrere Zahlungen an die Kanzlei der Beschuldigten geleistet, die als Vorschuss für einen Liegenschaftskauf bestimmt waren.
+Die [[organization|Oberösterreichische Rechtsanwaltskammer]] ([[organization|RAK]]) erhielt im September 2025 eine Beschwerde der Gesellschaft [[organization|Dick Handels GmbH]], [[company_register_number|FN 294653p]], UID-Nr. [[tax_id|ATU61175695]], deren Geschäftsführer die Rückzahlung eines Treuhanderlags verlangte. Die Gesellschaft hatte im Jahr 2025 mehrere Zahlungen an die Kanzlei der Beschuldigten geleistet, die als Vorschuss für einen Liegenschaftskauf bestimmt waren.
 
 Der Kammeranwalt [[person|Meister]] stellte daraufhin den Antrag auf Einleitung eines Disziplinarverfahrens. Die Beschuldigte bestätigte in der Verhandlung, dass die Gelder nicht vollständig auf dem Treuhandkonto verblieben waren.
 

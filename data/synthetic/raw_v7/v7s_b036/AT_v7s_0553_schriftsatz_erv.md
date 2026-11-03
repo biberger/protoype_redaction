@@ -73,6 +73,10 @@ III. Ergänzendes zur Lastenlage
 
 5. Die Mieterin [[person|Czerny]] hat ihre Wohnung bis zum Ende der Mietzeit geräumt; die Wohnung steht für eine Übergabe am [[date|31.05.2026]] zur Verfügung. Die Übergabe ist im Übergabeprotokoll zu dokumentieren, das dem Antrag nicht angeschlossen ist, weil es für die Einverleibung nicht erforderlich ist.
 
+6. Die Grunderwerbsteuer für den Erwerb wurde mit der Selbstberechnung angezeigt und entrichtet; die Anzeige wurde am [[date|27.01.2026]] beim zuständigen Finanzamt eingereicht. Die Unbedenklichkeitsbescheinigung wird nachgereicht, sobald sie vorliegt. Der Antragsteller ersucht das Grundbuchsgericht, die Eintragung auch ohne diese Bescheinigung vorzunehmen, soweit die Frist des Gesetzes dies zulässt.
+
+7. Die Antragsgegnerin hat auf die Mitteilung über den Verzicht der Mieterin mit Schreiben vom [[date|05.02.2026]] reagiert und darin keine Einwendungen erhoben. Damit steht der Abtrennung auch aus dem Blickwinkel des Mietrechts nichts entgegen.
+
 IV. Anträge
 
 1. Der Antragsteller beantragt die Einverleibung des Eigentumsrechts zu seinen Gunsten.
@@ -85,6 +89,8 @@ V. Beilagen
 ./B Zustimmungserklärung der [[country|Republik Österreich]] vom [[date|23.01.2026]]
 ./C Verzicht der Mieterin [[person|Czerny]] vom [[date|02.02.2026]]
 ./D Vollmacht des Antragstellers, unterfertigt von [[person|Grigorescu Puiu]]
+
+Hilfsweise wird beantragt, die Einverleibung zumindest hinsichtlich der Teilfläche im Ausmaß des Teilungsplans zu bewilligen, sofern das Gericht die Abtrennung nicht in vollem Umfang für zulässig hält. Die Antragsgegnerin wird ersucht, die Zustimmung zur Abtrennung binnen vierzehn Tagen zu bestätigen.
 
 Die Zustellung an die Antragsgegnerin erfolgt elektronisch über das ERV. Rückfragen zum Verfahren richten Sie bitte an Tel. [[phone_number|+43-2622-1801727 Durchwahl 65]].
 

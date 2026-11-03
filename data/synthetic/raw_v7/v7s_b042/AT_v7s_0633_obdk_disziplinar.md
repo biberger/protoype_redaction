@@ -6,16 +6,17 @@ lang: de
 [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]]
 Treuhandschaft Nr. [[other_identifier|2022/077]]
 Treuhandbuch-Nr. [[other_identifier|2026/713]]
+Tel. [[phone_number|05572/4122198-6]]
 
 GZ [[case_number|OBDK 9/2026]]
 
 Entscheidung
 
-Die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] hat im Verfahren gegen die Rechtsanwältin [[lawyer|Evelina Fricke]], Wien, über die Berufung der Beschuldigten gegen den Bescheid des Disziplinarrates vom [[date|8. Jänner 2026]] nach mündlicher Verhandlung am [[date|11. Juni 2026]] entschieden.
+Die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] hat im Verfahren gegen die Rechtsanwältin [[lawyer|Evelina Fricke]], [[location|Wien]], über die Berufung der Beschuldigten gegen den Bescheid des Disziplinarrates vom [[date|8. Jänner 2026]] nach mündlicher Verhandlung am [[date|11. Juni 2026]] entschieden.
 
 Besetzung
 
-Senatsvorsitz: [[judge|Iddo van Herwijnen]] geb [[date_of_birth|06.02.1948]]
+Senatsvorsitz: [[judge|Iddo van Herwijnen]] GEB: [[date_of_birth|06.02.1948]]
 Beisitzer: [[judge|Honorius Schöny]], [[judge|Tetyana Scharner]], StA. [[country|Bosnien und Herzegowina]]
 Kammeranwalt: [[person|Dr. Remo Göring]]
 Schriftführung: [[person|Hanane Ansara]] geb. [[date_of_birth|03.04.1952]]
@@ -60,7 +61,7 @@ Als mildernd ist zu werten, dass die Beschuldigte den Betrag von EUR 4.100,00 am
 
 Die Kostenentscheidung beruht auf [[legal_norm|§ 39 Abs 1 DSt]]. Die Beschuldigte hat die Kosten des Berufungsverfahrens zu einem Drittel zu tragen.
 
-Wien, am [[date|11. Juni 2026]]
+[[location|Wien]], am [[date|11. Juni 2026]]
 
 Für die Richtigkeit der Ausfertigung:
 [[judge|Iddo van Herwijnen]]

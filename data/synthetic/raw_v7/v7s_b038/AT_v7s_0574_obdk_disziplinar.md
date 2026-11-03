@@ -32,7 +32,7 @@ Im Treuhandbuch der Beschuldigten finden sich weitere Bewegungen, die den Senat 
 
 Am [[date|30. Juni 2025]] schließlich buchte die Beschuldigte einen Restbetrag von EUR 640,00 vom Konto der Klientin [[person|Schörghofer]] auf ein eigenes Honorarkonto um. Eine Honorarnote lag zu diesem Zeitpunkt nicht vor.
 
-Die [[organization|Rechtsanwaltskammer Wien]] hat die Vorerhebungen auch auf die Mandatsakten von [[person|Tomić]] erstreckt. Dort fehlen die Honorarvereinbarungen.
+Die [[organization|Rechtsanwaltskammer Wien]] hat die Vorerhebungen auch auf die Mandatsakten von [[person|Tomić]] erstreckt. Dort fehlen die Honorarvereinbarungen. Der Klient [[person|Tomić]] hat auf schriftliche Anfrage des Senats mitgeteilt, dass er die Überweisung an die Gutachterin nicht veranlasst habe und die Beschuldigte um eine Zwischenabrechnung gebeten habe, die jedoch nie übermittelt wurde.
 
 Die Auswertung des Treuhandbuchs für die drei Mandate ergibt folgende Bewegungen (Beträge in EUR):
 
@@ -49,7 +49,7 @@ III. Beweiswürdigung
 
 Der Senat stützt sich auf die Kontoauszüge, das Treuhandbuch und die Stellungnahmen der Beteiligten. Die Saldenliste ist vollständig und stimmt mit den Bankbelegen überein. Die Beschuldigte hat in ihrer Stellungnahme vorgebracht, die Kanzlei sei im Sommer 2025 umgezogen und einzelne Akten seien dabei verloren gegangen. Dieser Vortrag wird durch keine Urkunde belegt, weshalb er unberücksichtigt bleibt. Die Beschuldigte bestreitet die Umbuchung vom [[date|30. Juni 2025]] nicht, erklärt sie aber mit einem Missverständnis über die Fälligkeit des Honorars. Der Senat hält dies für nicht überzeugend, weil die Honorarnote erst am [[date|15. Juli 2025]] erstellt wurde, also nach der Umbuchung.
 
-Die Klientin [[person|Schörghofer]] hat in der Verhandlung glaubwürdig dargelegt, dass sie die Abrechnung erst nach der zweiten Aufforderung erhalten hat. Der Kammeranwalt [[person|Dr. Leo Wührer]] hat den Akt vorbereitet und die Anklageschrift nach Durchsicht der Kontoauszüge eingebracht.
+Die Klientin [[person|Schörghofer]] hat in der Verhandlung glaubwürdig dargelegt, dass sie die Abrechnung erst nach der zweiten Aufforderung erhalten hat. Die Klientin legte dem Senat ihren Schriftverkehr mit der Kanzlei vor, aus dem sich die beiden Aufforderungen vom [[date|3. April 2025]] und vom [[date|24. April 2025]] ergeben. Der Kammeranwalt [[person|Dr. Leo Wührer]] hat den Akt vorbereitet und die Anklageschrift nach Durchsicht der Kontoauszüge eingebracht.
 
 IV. Rechtliche Beurteilung
 

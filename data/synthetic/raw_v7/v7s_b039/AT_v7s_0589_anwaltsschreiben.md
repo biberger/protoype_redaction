@@ -42,7 +42,9 @@ Sollten Sie dieser Aufforderung nicht nachkommen, werden wir ohne weitere Ankün
 
 Die Zeugin [[person|BIRCHALL Basima]] hat die Mängel am [[date|1. Oktober 2024]] selbst besichtigt. Ihr Schreiben vom [[date|3. Oktober 2024]] liegt uns vor. Die Zeugin ist bereit, dies vor Gericht zu bestätigen.
 
-Der Oberste Gerichtshof hat in seiner Entscheidung vom [[date|12. Februar 2025]], [[case_number|2 Ob 34/25x]], bereits klargestellt, dass ein Werkunternehmer bei verspäteter Fertigstellung für den daraus entstehenden Schaden einzustehen hat. Wir gehen davon aus, dass der [[court|OGH]] die Rechtslage in gleicher Weise beurteilen würde.
+In der Entscheidung des [[court|Obersten Gerichtshofes]] vom [[date|12. Februar 2025]], [[case_number|2 Ob 34/25x]], bereits klargestellt, dass ein Werkunternehmer bei verspäteter Fertigstellung für den daraus entstehenden Schaden einzustehen hat. Wir gehen davon aus, dass der [[court|OGH]] die Rechtslage in gleicher Weise beurteilen würde.
+
+Die Ausführungen der Gegenseite zu den Fristen sind unzutreffend. Die Fertigstellung war bis zum genannten Datum vertraglich fest vereinbart; eine Verlängerung wurde nie schriftlich vereinbart. Die Zahlungen von insgesamt EUR 42.000,00 wurden fristgerecht geleistet, wie die beigelegten Zahlungsbestätigungen zeigen. Wir erwarten daher eine Stellungnahme binnen der gesetzten Frist.
 
 Bitte richten Sie Ihre Antwort direkt an unsere Kanzlei. Eine Kontaktaufnahme mit unserer Mandantin ersuchen wir zu unterlassen.
 

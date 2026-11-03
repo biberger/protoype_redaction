@@ -91,6 +91,20 @@ Beilage ./C: Vollmacht des Verkäufers an die Kanzlei
 
 4. Jede Partei erhält eine Ausfertigung. Eine Ausfertigung ist für das Grundbuchsgesuch bestimmt.
 
+VII. ERGÄNZENDE VEREINBARUNGEN
+
+1. Die Käufer nehmen zur Kenntnis, dass auf den Liegenschaften eine Wasserleitung der Gemeinde verläuft, deren Dienstbarkeit im Zuge der Übergabe nicht neu einverleibt wird. Der Verkäufer verpflichtet sich, die Gemeinde über den Eigentumswechsel zu informieren.
+
+2. Die Parteien vereinbaren, dass der Verkäufer die Schlüssel zu den Gebäuden spätestens am Tag der Auszahlung des Kaufpreises übergibt. Zählerstände für Strom und Wasser werden gemeinsam abgelesen und im Übergabeprotokoll festgehalten.
+
+3. Die Käufer haben die finanzierende Bank über den Kaufvertrag informiert. Sollte die Finanzierung nicht zustande kommen, kann jeder Käufer binnen vier Wochen vom Vertrag zurücktreten. Der Rücktritt eines Käufers berührt den Vertrag mit dem anderen Käufer nicht, sofern dieser den gesamten Kaufpreis übernimmt.
+
+4. Die Kanzlei hat die Parteien darüber belehrt, dass die Vertragserrichtung keine steuerliche oder wirtschaftliche Beratung umfasst. Die Parteien wurden aufgefordert, sich bei Bedarf an einen Steuerberater zu wenden.
+
+5. Der Verkäufer verpflichtet sich, bis zur Übergabe alle Versicherungen für die Gebäude aufrecht zu erhalten. Die Käufer übernehmen die Versicherungen ab dem Tag der Übergabe.
+
+6. Die Parteien erklären, dass sie den Vertrag gelesen, verstanden und nach eingehender Belehrung unterfertigt haben.
+
 VERTRAGSPARTEIEN UND UNTERFERTIGUNG
 
 [[location|Leopoldschlag]], am [[date|14. März 2025]]

@@ -67,7 +67,7 @@ VI. Pflichten des Mieters
 
 VI a. Zustand des Mietobjekts
 
-1. Die Wohnung wurde vom Mieter am [[date|25. September 2026]] besichtigt. Die Fenster sind doppelverglast, die Elektroinstallation entspricht den Vorschriften, die Heizung wird über eine Gasetagentherme betrieben.
+1. Die Wohnung wurde vom Mieter am [[date|10. September 2026]] besichtigt. Die Fenster sind doppelverglast, die Elektroinstallation entspricht den Vorschriften, die Heizung wird über eine Gasetagentherme betrieben.
 
 2. Der Mieter bestätigt, dass die Böden im Wohnzimmer einen Kratzer aufweisen, der bei Übergabe im Protokoll festgehalten wird. Ein weiterer Mangel an der Wasserleitung im Bad wurde von der Vermieterin zugesagt, vor Übergabe zu beheben.
 

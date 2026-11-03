@@ -39,7 +39,7 @@ Die Sachbearbeiterin der [[organization|BBG]], Frau [[person|Evica Janjić]], ha
 
 Die Haftpflichtversicherung von Frau [[person|Kaus]] hat mit Schreiben vom [[date|05.10.2026]] die Haftung dem Grunde nach abgelehnt. Die [[organization|BBG]] hält an ihrer Forderung fest. Die Versicherungsnummer lautet [[other_identifier|39-1416124]] nach Angabe der Versicherung, eine Schadensmeldung wurde am [[date|21.08.2026]] erstattet.
 
-Wir fordern Sie auf, bis zum [[date|15.11.2026]] den Betrag von EUR 2.740,00 zuzüglich Umsatzsteuer zu überweisen. Bei Nichtzahlung werden wir die Klage beim zuständigen Gericht einbringen. Die Kosten der Rechtsverfolgung werden gesondert geltend gemacht.
+Wir fordern Sie auf, bis zum [[date|02.11.2026]] den Betrag von EUR 2.740,00 zuzüglich Umsatzsteuer zu überweisen. Bei Nichtzahlung werden wir die Klage beim zuständigen Gericht einbringen. Die Kosten der Rechtsverfolgung werden gesondert geltend gemacht.
 
 Frau [[person|Dr. Annekathrin Luksch]] wurde als Halterin des Nebenfahrzeugs ebenfalls als Zeugin genannt. Die [[organization|Blattl]] hat Frau [[person|Luksch]] bisher nicht in Anspruch genommen, behält sich dies jedoch vor. Die Sachbearbeitung der [[organization|BBG]] liegt weiterhin bei Frau [[person|Janjić]], die für Rückfragen unter der Telefonnummer der Gesellschaft zur Verfügung steht.
 
