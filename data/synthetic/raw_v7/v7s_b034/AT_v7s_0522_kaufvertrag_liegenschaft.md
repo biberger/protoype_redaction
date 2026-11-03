@@ -107,6 +107,16 @@ Eigene Kontaktdaten der Vertragsverfasserin: Tel. [[phone_number|+43 732 904 54 
 
 Die Gesellschaft ist im Firmenbuch eingetragen und durch die Gesellschafterin wirksam vertreten.
 
+IX. Grunderwerbsteuer und Eintragungsgebühr
+
+1. Die Grunderwerbsteuer wird nach dem Wert der Gegenleistung berechnet und ist von der Käuferin binnen eines Monats ab Abgabe der Anzeige an das Finanzamt zu entrichten. Die Anzeige wird durch die Vertragsverfasserin erstattet. Ein Antrag auf Befreiung oder Begünstigung wurde nicht gestellt.
+
+2. Die Eintragungsgebühr für das Eigentumsrecht ist von der Käuferin zu tragen. Die Gebühr für die Einverleibung des Pfandrechts zugunsten der finanzierenden Bank ist ebenfalls von der Käuferin zu bezahlen.
+
+3. Die Parteien erklären, dass die Angaben zum Kaufpreis vollständig sind und keine Nebenleistungen vereinbart wurden, die einen Teil der Gegenleistung darstellen. Die Verkäufer bestätigen, dass sie keine Ablöse für Mieter verlangen.
+
+4. Die Vertragsverfasserin hat die Parteien darauf hingewiesen, dass die Eintragung im Grundbuch nach Eingang der Gebühren erfolgt; eine Vorwegnahme der Eintragung ist ausgeschlossen. Die Kosten dafür trägt die Käuferin.
+
 Anlagenverzeichnis:
 ./1 Grundbuchsauszug vom [[date|17.03.2026]] zu Einlagezahl [[land_register_id|1534]]
 ./2 Energieausweis, Gebäudeklasse D

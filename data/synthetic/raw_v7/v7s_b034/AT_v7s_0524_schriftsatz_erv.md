@@ -55,6 +55,8 @@ Die Beklagte hat die Arbeiten zu einem Festpreis übernommen, der im Werkvertrag
 
 Die Zuständigkeit des [[court|BG Floridsdorf]] ergibt sich aus dem Erfüllungsort, da die Arbeiten auf der Liegenschaft der Klägerin zu erbringen waren. Die Klägerin ersucht um elektronische Zustellung.
 
+Der Klägerin ist zugesichert worden, dass der Auftrag innerhalb von acht Wochen abgeschlossen wird, was ebenfalls nicht erfolgt ist. Die Klägerin hat die Mängel fotografisch dokumentiert. Die Klägerin ersucht um Mitteilung des Verhandlungstermins.
+
 Beilagen:
 ./A Werkvertrag vom [[date|02.02.2026]]
 ./B Zahlungsbelege

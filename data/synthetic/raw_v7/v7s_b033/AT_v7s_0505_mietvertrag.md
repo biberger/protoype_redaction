@@ -58,7 +58,7 @@ nachstehend „Mieter“ genannt.
 
 (1) Gerät der Mieter mit zwei aufeinanderfolgenden Monatsmietzinsen in Verzug, ist der Vermieter berechtigt, die Mahnung an die im Vertrag genannte Anschrift des Mieters zu richten. Die Mahnung gilt mit Zustellung an die Wohnung als zugegangen.
 
-(2) Die Mahngebühr beträgt EUR 10,00 je Mahnschreiben. Verzugszinsen werden nach den gesetzlichen Bestimmungen berechnet.
+(2) Die Mahngebühr beträgt EUR 10,00 je Mahnschreiben; die Mahnung wird dem Mieter nur dann berechnet, wenn sie nach Ablauf der Zahlungsfrist versendet wurde. Verzugszinsen werden nach den gesetzlichen Bestimmungen berechnet.
 
 (3) Zahlungen des Mieters werden zunächst auf die Betriebskosten, dann auf den Hauptmietzins und zuletzt auf Nebenforderungen angerechnet.
 
@@ -103,6 +103,16 @@ nachstehend „Mieter“ genannt.
 (1) Der Vermieter übergibt dem Mieter bei Vertragsabschluss drei Wohnungsschlüssel, einen Kellerschlüssel und zwei Schlüssel für die Haustür. Verlorene Schlüssel sind auf Kosten des Mieters nachzumachen.
 
 (2) Bei Beendigung des Mietverhältnisses hat der Mieter die Wohnung besenrein und mit allen Schlüsseln zurückzugeben. Der Übergabetermin ist mit dem Vermieter oder dessen Bevollmächtigten zu vereinbaren.
+
+§ 6e Kündigung und Rückgabe
+
+(1) Im Fall der Kündigung hat der Mieter die Wohnung spätestens am letzten Tag des Mietverhältnisses geräumt zurückzugeben. Die Abrechnung der Betriebskosten erfolgt innerhalb von sechs Monaten nach Rückgabe.
+
+§ 6d Tierhaltung und Lärm
+
+(1) Die Haltung von Haustieren ist im Rahmen der Hausordnung zulässig, sofern dadurch keine unzumutbaren Belästigungen der übrigen Bewohner entstehen.
+
+(2) Musikausübung und sonstige lärmintensive Tätigkeiten sind nur innerhalb der üblichen Tageszeiten gestattet.
 
 § 7 Schlussbestimmungen
 

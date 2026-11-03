@@ -42,13 +42,29 @@ Begründung
 
 4. Hinsichtlich der Barauszahlung vom [[date|19.06.2023]] führt die Beschuldigte an, die Auszahlung sei auf Weisung eines Mitarbeiters der [[organization|Baumgartner]] erfolgt. Auch diese Weisung ist nicht dokumentiert.
 
+Verfahrensgang
+
+Die Anzeige der Klientin [[organization|Baumgartner e.U.]] wurde von der [[organization|RAKW]] zunächst als Verwaltungssache behandelt. Erst nach der Vorlage der Treuhandkontoauszüge durch die Klientin wurde ein Disziplinarverfahren eingeleitet. Die Beschuldigte erhielt Gelegenheit zur Stellungnahme, die sie am [[date|10.02.2025]] in schriftlicher Form abgab. In dieser Stellungnahme verwies sie auf die Überlastung der Kanzlei im Frühjahr 2022.
+
+Der Kammeranwalt [[person|Heinfried Jahoda]] beantragte in der Verhandlung die Verhängung einer Geldbuße und die Überprüfung der Buchhaltung durch einen Sachverständigen. Dem Antrag auf Bestellung eines Sachverständigen wurde stattgegeben. Der Sachverständige stellte fest, dass für Auszahlungen im Gesamtbetrag von EUR 4.000,00 keine Belege vorliegen.
+
+Beweiswürdigung
+
+Der Senat, besetzt mit [[judge|MMag. Agatha Zotter]] als Vorsitzender sowie [[judge|Abdul Halim Jafari]] und [[judge|Dr. Gorius Pisk]] als Beisitzer, hat die Akten nach der Verhandlung gewürdigt. Die Schriftführerin [[person|Kornélia Gond]] hat die Verhandlung protokolliert und die Beweisstücke geordnet.
+
+Die Kontoauszüge zeigen für den Zeitraum vom [[date|04.03.2022 bis zum 23.02.2026]] eine Reihe von Buchungen, die für die jeweiligen Treuhandschaften nicht vollständig zugeordnet sind. Der Senat stellt fest, dass die Zuordnung der Gelder zu den einzelnen Treuhandschaften nicht erkennbar ist.
+
+Die Beschuldigte hat in der Verhandlung eingeräumt, dass die Buchungen nicht vollständig geführt wurden. Sie führte aus, dass die Kanzleisoftware im Jahr 2023 gewechselt wurde und dabei Daten verloren gegangen seien. Der Senat hat diese Erklärung geprüft, sie betrifft jedoch nur einen Teil der Vorgänge; für die Auszahlung vom [[date|28.03.2022]] ist sie nicht maßgeblich.
+
 Rechtliche Beurteilung
 
 Gelder, die ein Rechtsanwalt im Rahmen einer Treuhandschaft erhält, sind getrennt zu verwahren und ausschließlich im Interesse des Treugebers zu verwenden. Eine Verrechnung mit eigenen Honorarforderungen ist nur auf Grund einer nachweisbaren Vereinbarung und nach Abrechnung zulässig. Die Beschuldigte hat [[legal_norm|§ 3 RL-BA 2015]] verletzt und damit ihre Berufspflichten nach [[legal_norm|§ 9 RAO]] verletzt.
 
 Die Verletzung ist nach [[legal_norm|§ 1 DSt]] zu ahnden. Der Senat berücksichtigt, dass die Beschuldigte die Beträge bis auf einen geringen Restbetrag zurückgezahlt hat. Mildernd wirkt ferner die Mitwirkung in der Verhandlung. Erschwerend war die wiederholte Verletzung innerhalb von etwas mehr als einem Jahr.
 
-Die Verhängung einer Geldbuße ist angemessen. Ein Berufsverbot ist nicht erforderlich, da keine Hinweise auf eine dauerhafte Unzuverlässigkeit bestehen.
+Die Verhängung einer Geldbuße ist angemessen. Der Senat hat die Höhe nach dem Gesamtbetrag der betroffenen Gelder, der Dauer der Pflichtverletzung und dem Verhalten der Beschuldigten nach Bekanntwerden der Vorwürfe bemessen. Die Rückzahlung von EUR 9.000,00 an das Treuhandkonto wurde dabei als Milderungsgrund berücksichtigt, die Verspätung der Rückbuchung jedoch als erschwerend gewertet.
+
+Die Kammeranwaltschaft hat die Einstellung des Verfahrens hinsichtlich der Treuhandschaft Nr. [[other_identifier|2026/972]] beantragt, weil die Vorschussbuchung dort ordnungsgemäß erfolgte. Der Senat ist diesem Antrag gefolgt, soweit er die Buchung als solche betrifft; die verspätete Abrechnung wurde jedoch weiterhin als Pflichtverletzung gewertet. Ein Berufsverbot ist nicht erforderlich, da keine Hinweise auf eine dauerhafte Unzuverlässigkeit bestehen.
 
 Die Kammeranwaltschaft hat der Entscheidung zugestimmt. Die Beschuldigte hat auf die Anfechtung verzichtet. Die Entscheidung ergeht an die Beschuldigte, Tel. [[phone_number|05572 975203-82]], und an die [[organization|RAKW]].
 

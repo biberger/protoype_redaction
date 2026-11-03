@@ -83,6 +83,8 @@ Mildernd wirkt die bisherige Unbescholtenheit der Beschuldigten und ihr Geständ
 
 Die Vorsitzende [[judge|Hertzka]] hat der Berufung des Kammeranwalts insoweit Folge gegeben, als die Schuld nunmehr festgestellt wird. Die Mitglieder [[judge|Spiel]] und [[judge|Öztaner]] haben sich dem angeschlossen.
 
+Die Verfahrenskosten wurden vom Senat nach Anhörung der Parteien bestimmt. Die Pauschalgebühr der Kammer ist innerhalb von vier Wochen einzuzahlen.
+
 5. Anhörung der Beschuldigten
 
 In der mündlichen Anhörung vom [[date|16. Juni 2026]] hat die Beschuldigte [[lawyer|Wöber]] erklärt, dass sie die Verantwortung für die Auszahlung übernehme, weil sie die Buchungen trotz Vertretung durch eine Substitutin nicht überwacht habe. Sie bedauere die Verspätung der Abrechnung gegenüber der Klientin [[person|Loitzl]] und habe seither ein neues System für das Treuhandbuch eingeführt, das jede Auszahlung von zwei Personen freigeben lässt.
@@ -94,6 +96,8 @@ Der Kammeranwalt [[person|Tiwald]] hat im Anschluss an die Anhörung darauf hing
 6. Berufsrechtliche Vorgaben
 
 Die Pflicht zur getrennten Verwahrung von Fremdgeldern dient dem Schutz der Klientinnen und dem Vertrauen in den Berufsstand. Der Rechtsanwalt darf Treuhandgelder weder als Sicherheit für eigene Forderungen verwenden noch in seinem Betrieb liquide halten. Diese Grundsätze sind seit Jahren in der Rechtsprechung der Kammer und des [[court|Obersten Gerichtshofs]] gefestigt.
+
+Die Kosten des Verfahrens umfassen die Kosten der Sachverständigen und die Pauschalgebühr der Kammer. Sie sind der Beschuldigten nach dem Verhältnis des Obsiegens und Unterliegens auferlegt. Eine Befreiung von der Kostenpflicht wegen der wirtschaftlichen Lage ist nicht beantragt worden.
 
 Rechtsmittelbelehrung: Gegen diesen Beschluss ist eine Revision an den [[court|Obersten Gerichtshof]] zulässig. Die Revisionsfrist beträgt vier Wochen ab Zustellung.
 

@@ -66,7 +66,7 @@ Der Senat stützt seine Feststellungen auf die Kontoauszüge, die Aussage der Ze
 
 4. Rechtliche Beurteilung
 
-Gemäß [[legal_norm|§ 14 RAO]] ist der Rechtsanwalt verpflichtet, Klientengelder getrennt von eigenen Mitteln zu verwahren. Die Beschuldigte hat diese Pflicht durch die Barbehebung und die verspätete Auszahlung verletzt. Dabei ist zu berücksichtigen, dass die Pflicht zur Abrechnung unabhängig davon besteht, ob die Klientin die Abrechnung verlangt. Dies ergibt sich aus [[legal_norm|§ 1 Abs 2 RAO]] iVm [[legal_norm|§ 14 RAO]]. Die Standesregeln verlangen vom Rechtsanwalt, dass er die Verwaltung fremder Vermögenswerte so organisiert, dass jederzeit nachvollziehbar ist, wem welcher Betrag zusteht. Dazu gehört eine laufende Kontrolle der Treuhandkonten und eine Kontrolle durch eine zweite Person, sofern die Kanzlei mehrere Mitarbeiter beschäftigt. Die Beschuldigte hat diese Kontrolle im vorliegenden Fall nicht ausgeübt, obwohl die Mitarbeiterin sie auf die Auffälligkeiten hingewiesen hatte. Die Gesamtverantwortung bleibt damit bei der Beschuldigten. Der Senat sieht darin eine Pflichtverletzung, die über die bloße Verspätung hinausgeht. Die Beschuldigte konnte sich daher nicht darauf berufen, die Klientin habe nicht nachgefragt. Der Senat hat die Verletzung als schwerwiegend, aber nicht als besonders schwer eingestuft.
+Gemäß [[legal_norm|§ 14 RAO]] ist der Rechtsanwalt verpflichtet, Klientengelder getrennt von eigenen Mitteln zu verwahren. Die Beschuldigte hat diese Pflicht durch die Barbehebung und die verspätete Auszahlung verletzt. Dabei ist zu berücksichtigen, dass die Pflicht zur Abrechnung unabhängig davon besteht, ob die Klientin die Abrechnung verlangt. Dies ergibt sich aus [[legal_norm|§ 1 Abs 2 RAO]] iVm [[legal_norm|§ 14 RAO]]. Die Standesregeln verlangen vom Rechtsanwalt, dass er die Verwaltung fremder Vermögenswerte so organisiert, dass jederzeit nachvollziehbar ist, wem welcher Betrag zusteht. Dazu gehört eine laufende Kontrolle der Treuhandkonten und eine Kontrolle durch eine zweite Person, sofern die Kanzlei mehrere Mitarbeiter beschäftigt. Die Beschuldigte hat diese Kontrolle im vorliegenden Fall nicht ausgeübt, obwohl die Mitarbeiterin sie auf die Auffälligkeiten hingewiesen hatte. Die Gesamtverantwortung bleibt damit bei der Beschuldigten. Der Senat sieht darin eine Pflichtverletzung, die über die bloße Verspätung hinausgeht. Dies wurde bei der Strafbemessung berücksichtigt. Die Beschuldigte konnte sich daher nicht darauf berufen, die Klientin habe nicht nachgefragt. Der Senat hat die Verletzung als schwerwiegend, aber nicht als besonders schwer eingestuft.
 
 Der Senat hat die Angaben der Mitarbeiterin als glaubwürdig gewertet. Sie bestätigen den Eindruck, dass die Beschuldigte die Verwaltung der Treuhandschaft nicht ausreichend überwacht hat.
 
@@ -74,7 +74,7 @@ Die Berufung ist teilweise berechtigt. Die Berufung ist insoweit begründet, als
 
 Der Senat hat über die Höhe der Geldbuße unter Abwägung aller Umstände entschieden. Eine weitere Herabsetzung war nicht geboten, weil die Beschuldigte die Verfehlung über einen Zeitraum von mehreren Monaten begangen hat, bevor sie die Gelder zurückzahlte.
 
-Die Beschuldigte hat in ihrer Berufung außerdem geltend gemacht, dass sie seit dem Erstbescheid keine weitere Beanstandung erfahren habe und ihre Kanzlei inzwischen neu organisiert habe. Der Senat hat diesen Umstand berücksichtigt, jedoch nicht als Milderungsgrund von entscheidendem Gewicht gewertet, weil eine Neuorganisation nach einer Anzeige nicht die frühere Pflichtverletzung ungeschehen macht. Eine Herabsetzung auf die nun festgesetzte Geldbuße erscheint dem Senat angemessen und ausreichend. Die Kosten des Berufungsverfahrens sind im Verhältnis des Unterliegens aufzuteilen. Die Pauschalgebühr für das Berufungsverfahren wird der Beschuldigten mit dem Erkenntnis vorgeschrieben. Eine Befreiung von dieser Gebühr kam nicht in Betracht, weil die Beschuldigte keine Mittellosigkeit nachgewiesen hat.
+Die Beschuldigte hat in ihrer Berufung außerdem geltend gemacht, dass sie seit dem Erstbescheid keine weitere Beanstandung erfahren habe und ihre Kanzlei inzwischen neu organisiert habe. Der Senat hat diesen Umstand berücksichtigt, jedoch nicht als Milderungsgrund von entscheidendem Gewicht gewertet, weil eine Neuorganisation nach einer Anzeige nicht die frühere Pflichtverletzung ungeschehen macht. Eine Herabsetzung auf die nun festgesetzte Geldbuße erscheint dem Senat angemessen und ausreichend. Die Kosten des Berufungsverfahrens sind im Verhältnis des Unterliegens aufzuteilen. Die Pauschalgebühr für das Berufungsverfahren wird der Beschuldigten mit dem Erkenntnis vorgeschrieben. Eine Befreiung von dieser Gebühr kam nicht in Betracht, weil die Beschuldigte keine Mittellosigkeit nachgewiesen hat. Die Rechtsmittelgebühr ist binnen vier Wochen zu entrichten.
 
 5. Kosten
 
@@ -82,7 +82,7 @@ Die Kosten des Berufungsverfahrens hat die Beschuldigte zu tragen, soweit die Be
 
 Rechtsmittelbelehrung
 
-Gegen dieses Erkenntnis ist ein weiteres Rechtsmittel nicht zulässig.
+Gegen dieses Erkenntnis ist ein weiteres Rechtsmittel nicht zulässig. Die Entscheidung wird den Parteien zugestellt.
 
 [[location|Wien]], am [[date|25. Juni 2026]]
 

@@ -39,6 +39,8 @@ Die Kammeranwältin [[person|Ariadna MMag. Bedreag]] legte dar, dass die Auszahl
 
 Der Disziplinarrat ist davon überzeugt, dass [[lawyer|Muhr]] die Gelder der Mandanten zu eigenen Zwecken verwendet hat. Die Treuhandschaft ist eine der wesentlichsten Berufspflichten der Rechtsanwältin. Die Verwahrung fremder Gelder hat getrennt von eigenem Vermögen zu erfolgen. Ein Verstoß gegen diese Verpflichtung wiegt schwer.
 
+Die Rechtsanwältin [[lawyer|Muhr]] hat sich im Verfahren durch eine Vertrauensperson unterstützen lassen.
+
 Die Vorbringen der Verteidigung, wonach die Abrechnungen nachträglich erstellt worden seien, sind nicht glaubhaft. Die Abrechnungen tragen Datum nach den Auszahlungen. Die Rechtsanwältin [[lawyer|Muhr]] hat in der Verhandlung eingeräumt, dass keine schriftliche Vollmacht für die Auszahlung vorlag.
 
 Die Beschwerdeführerin [[person|Aschauer]] gab in ihrer Einvernahme an, dass sie von der Auszahlung erst im Herbst 2022 erfuhr. Der Beschwerdeführer [[person|Lachs]] bestätigte die Angaben der Zeugin. Es gibt keine Anhaltspunkte, dass die Angaben der Beschwerdeführer unrichtig sind.
@@ -52,6 +54,8 @@ Rechtliche Beurteilung
 Gemäß [[legal_norm|§ 1 RAO]] hat der Rechtsanwalt seinen Beruf gewissenhaft und mit Sorgfalt auszuüben. Die Verletzung der Pflicht zur getrennten Verwahrung fremder Gelder stellt einen Verstoß gegen [[legal_norm|§ 6 Abs 1 Z 3 RAO]] dar. Die Disziplinarstrafe richtet sich nach der Schwere der Verfehlung und den persönlichen Verhältnissen des Beschuldigten.
 
 Die Verhängung einer Geldbuße erscheint ausreichend, um der Rechtsanwältin die Bedeutung ihrer Pflichten vor Augen zu führen. Eine Streichung aus der Liste wurde nicht beantragt und ist nach Ansicht des Gremiums nicht erforderlich.
+
+Der Spruch ist einstimmig gefasst.
 
 Gegen dieses Erkenntnis ist die Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] zulässig. Die Berufungsfrist beträgt vier Wochen ab Zustellung.
 

@@ -25,7 +25,7 @@ Polizze [[other_identifier|28-9900539]]
 BETEILIGTE PERSONEN
 
 Lenker 1:
-Name: [[person|TIMO EGLE]]
+Name: [[person|Timo Egle]]
 geb. [[date_of_birth|14.12.1959]]
 ADR: [[address|Bahnhofweg 4, 4595 Waldneukirchen]]
 SV-Nr.: [[social_security_number|5578 141259]]
@@ -92,7 +92,7 @@ Gegen den Lenker [[person|Nicolaus Ing. Opitz]] wird wegen des Verdachts einer �
 
 Die Anzeige ergeht an die [[organization|Bezirkshauptmannschaft Perg]]. Ein Lenkerauskunftsersuchen wurde nicht gestellt, da alle Beteiligten vor Ort angegeben haben.
 
-Die Fotodokumentation der Einsatzbeamtin umfasst insgesamt zwölf Aufnahmen, die Brems- und Ausweichspuren sowie die Endlage der Fahrzeuge zeigen. Die Spuren wurden mit Maßband vermessen und in der Planskizze eingetragen. Die Skizze liegt dem Akt bei und ist Bestandteil dieser Anzeige. Eine Ausfertigung wird der Bezirkshauptmannschaft übersandt. Die Unterlagen sind vollständig.
+Die Fotodokumentation der Einsatzbeamtin umfasst insgesamt zwölf Aufnahmen, die Brems- und Ausweichspuren sowie die Endlage der Fahrzeuge zeigen. Die Spuren wurden mit Maßband vermessen und in der Planskizze eingetragen. Die Skizze liegt dem Akt bei und ist Bestandteil dieser Anzeige. Eine Ausfertigung wird der Bezirkshauptmannschaft übersandt. Die Unterlagen sind vollständig. Eine Kopie geht an die Versicherung.
 
 Die Verletzung der Vorrangregel wurde im Fall des Lenkers [[person|Nicolaus Ing. Opitz]] nach [[legal_norm|§ 19 Abs 3 StVO]] geprüft. Eine abschließende Bewertung war auf Grund der widersprüchlichen Aussagen nicht möglich. Die Anzeige wird daher vorläufig erstattet, und der Lenker wurde auf die Möglichkeit einer Stellungnahme binnen zwei Wochen hingewiesen.
 

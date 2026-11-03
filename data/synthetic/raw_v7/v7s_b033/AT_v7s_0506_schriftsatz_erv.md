@@ -64,6 +64,8 @@ Die Klägerin hat in der vorprozessualen Korrespondenz selbst eingeräumt, dass 
 
 Die Beklagte hat zudem am [[date|2. März 2026]] eine Fotodokumentation des Schadens an die Hausverwaltung übermittelt. Die Hausverwaltung hat den Empfang bestätigt, ohne eine Frist für die Mängelbehebung zu nennen. Die Beklagte ist daher nicht in Verzug geraten, weil sie die Zahlungen nach Treu und Glauben gekürzt hat.
 
+Die Klägerin hat zudem den Mietzins für den Monat April 2026 mit der Forderung verrechnet, ohne die Mietminderung zu berücksichtigen. Die Verrechnung ist unwirksam, weil die Klägerin den Mietzins nicht mit einer Gegenforderung aufrechnen durfte, deren Bestand die Beklagte bestreitet.
+
 Die Widerklage ist gemäß [[legal_norm|§ 228 ZPO]] mit der Klagebeantwortung zu verbinden, weil sie auf denselben Mietvertrag gestützt ist und eine einheitliche Entscheidung über den Mietzins erforderlich macht.
 
 IV. Rechtliche Beurteilung
@@ -83,6 +85,10 @@ Die Beklagte stellt daher die Anträge,
 3. der Beklagten die Kosten des Verfahrens zuzusprechen.
 
 Das [[court|BG Favoriten]] ist für die Entscheidung über diese Klagebeantwortung örtlich zuständig, weil die Wohnung im Sprengel dieses Gerichts liegt.
+
+Die Beklagte stellt im Übrigen klar, dass sie die Kontoauszüge für den gesamten Zeitraum seit Beginn des Mietverhältnisses vorlegen kann. Die Auszüge zeigen regelmäßige Zahlungen, die lediglich im Februar und März 2026 gekürzt wurden. Eine Zahlungsunwilligkeit ist daraus nicht abzuleiten.
+
+Die Beklagte hat die Klägerin bereits mit Schreiben vom [[date|20. März 2026]] aufgefordert, die Mängel bis zum Ende des Monats zu beheben. Die Klägerin hat darauf nicht geantwortet, sondern die Klage eingebracht. Die Beklagte hält das Verhalten der Klägerin für unangemessen, weil die Mängelbehebung ohne Weiteres möglich gewesen wäre.
 
 Beilagen:
 ./A Kontoauszüge Oktober 2025 bis März 2026

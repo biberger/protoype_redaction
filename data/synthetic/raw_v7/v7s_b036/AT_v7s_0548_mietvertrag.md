@@ -51,6 +51,10 @@ V. Betriebskosten und Instandhaltung
 
 2. Kleinreparaturen bis zu einem Betrag von EUR 150,00 je Einzelfall trägt der Mieter. Größere Instandhaltungen sind der Vermieterin unverzüglich anzuzeigen.
 
+3. Zu den Betriebskosten zählen insbesondere Wasser- und Kanalgebühren, die Müllabfuhr, die Hausreinigung, die Versicherung des Gebäudes, die Beleuchtung der Allgemeinflächen und der Hausbetreuer. Verwaltungskosten werden nicht gesondert verrechnet. Der Mieter kann in die Belege Einsicht nehmen, wenn er dies binnen vier Wochen nach Zugang der Abrechnung verlangt.
+
+4. Der Lift wird nach Wartungsvertrag betrieben; die Wartungskosten sind als Betriebskosten umlagefähig, soweit sie nicht durch Reparaturen veranlasst sind.
+
 VI. Hausordnung und Pflichten
 
 Der Mieter verpflichtet sich zur Einhaltung der Hausordnung und zur Rücksichtnahme auf die übrigen Bewohner. Die Haltung von Haustieren bedarf der schriftlichen Zustimmung der Vermieterin.
@@ -79,7 +83,7 @@ Die personenbezogenen Daten des Mieters werden von der [[organization|Lux]] auss
 
 Der Mieter bevollmächtigt die Vermieterin nicht, Erklärungen für ihn abzugeben. Vollmachten für die Hausverwaltung sind gesondert zu erteilen und jederzeit widerruflich.
 
-VII. Schlussbestimmungen
+X. Schlussbestimmungen
 
 1. Änderungen und Ergänzungen dieses Vertrags bedürfen der Schriftform. Mündliche Nebenabreden bestehen nicht.
 

@@ -33,13 +33,23 @@ Datum | Leistung | Betrag (EUR)
 [[date|30.06.2026]] | Telefonat mit der Gegenseite der [[organization|Thausing GmbH]] | 95,00
 [[date|15.09.2026]] | Vergleichsentwurf und Abstimmung mit [[person|Roxana Kontar]] | 420,00
 
-Barauslagen (Gerichtsgebühr, Porto): EUR 186,30
+Aufstellung der Barauslagen:
+Datum | Auslage | Betrag (EUR)
+[[date|19.02.2026]] | Pauschalgebühr Klage | 118,00
+[[date|12.05.2026]] | Fahrtkosten zur Verhandlung | 38,30
+[[date|12.05.2026]] | Porto und Kopien | 30,00
+
+Barauslagen gesamt (Gerichtsgebühr, Porto): EUR 186,30
 
 Summe netto: EUR 1.881,30
 zuzüglich 20 % USt: EUR 376,26
 Gesamtbetrag: EUR 2.257,56
 
-Die Leistungen wurden nach dem Rechtsanwaltstarifgesetz verrechnet; die Vertretung umfasste das Verfahren bis zur Verhandlung und den Vergleichsentwurf, den die Klientin am [[date|15.09.2026]] genehmigt hat. Das Honorar für die Verhandlung vom [[date|12.05.2026]] ist in der Position oben enthalten und nicht gesondert zu bezahlen. Für Rückfragen zu einzelnen Positionen steht die Kanzlei zur Verfügung.
+Die Leistungen wurden nach dem [[legal_norm|Rechtsanwaltstarifgesetz]] verrechnet; die Vertretung umfasste das Verfahren bis zur Verhandlung und den Vergleichsentwurf, den die Klientin am [[date|15.09.2026]] genehmigt hat. Das Honorar für die Verhandlung vom [[date|12.05.2026]] ist in der Position oben enthalten und nicht gesondert zu bezahlen.
+
+Die Gegenseite hat im Verfahren die Kostentragung nach [[legal_norm|§ 41 ZPO]] anerkannt, soweit der Vergleich geschlossen wurde. Die Kosten des Vergleichs sind im Gesamtbetrag dieser Note nicht enthalten und werden im Kostenbestimmungsverfahren gesondert geltend gemacht.
+
+Für Rückfragen zu einzelnen Positionen steht die Kanzlei zur Verfügung. Bitte melden Sie sich bei Fragen zur Abrechnung telefonisch unter der oben angeführten Nummer.
 
 Die Zahlung ist binnen 14 Tagen auf das Kanzleikonto IBAN [[bank_account|AT80 9548 4660 8958 9637]] zu leisten. Bitte geben Sie als Verwendungszweck die Klienten-Nr. [[other_identifier|71915]] an.
 

@@ -41,7 +41,7 @@ Der Beschuldigte wurde in der Verhandlung gehört. Der Klient [[person|Diebold P
 
 II. Feststellungen
 
-1. Der Beschuldigte übernahm im April 2024 die Vertretung des Klienten [[person|Diebold Pappenheim]] in einer Streitigkeit über Ansprüche aus einem Kaufvertrag. Der Klient übergab Gelder für Gerichtskosten und Sachverständigengebühren. Diese wurden auf dem Treuhandkonto verwahrt, dessen Nummer in der Treuhandschaft Nr. [[other_identifier|2023/373]] erfasst war.
+1. Der Beschuldigte übernahm im April 2024 die Vertretung des Klienten [[person|Diebold Pappenheim]] in einer Streitigkeit über Ansprüche aus einem Kaufvertrag. Der Klient übergab Gelder für Gerichtskosten und Sachverständigengebühren. Diese wurden auf dem Treuhandkonto verwahrt, dessen Nummer in der Treuhandschaft Nr. [[other_identifier|2023/373]] erfasst war. Das Treuhandkonto lautete auf IBAN [[bank_account|AT02 2289 6563 9535 7754]].
 
 2. Die Bewegungen auf dem Treuhandkonto stellen sich wie folgt dar:
 
@@ -70,7 +70,7 @@ Die Pflicht zur Rechenschaft ergibt sich aus [[legal_norm|§ 1009 ABGB]]. Die Re
 
 IV a. Nach Schluss der Verhandlung
 
-Nach Schluss der Verhandlung ergänzte der Senat die Feststellungen durch die Vorlage der Kontoauszüge bis [[date|2. Dezember 2024]]. Die Auszüge bestätigen die Angaben des Klienten. Aus ihnen ergibt sich, dass die letzte Zahlung vom [[date|2. Dezember 2024]] nur einen Teil des geschuldeten Betrags umfasste. Der Restbetrag von EUR 450,00 wurde auf dem Konto nicht mehr ausgewiesen. Der Klient hat in der Verhandlung angegeben, dass er diesen Betrag bis heute nicht erhalten habe. Der Beschuldigte bestätigte dies und erklärte, er habe den Betrag für eine Kanzleiausgabe verwendet, die er später erstatten wolle. Eine Belegvorlage dazu erfolgte nicht. Der Senat hat deshalb festgestellt, dass der Beschuldigte die Gelder nicht vollständig herausgegeben hat, bis die Anzeige erstattet war. Dieser Zeitraum umfasst mehr als ein halbes Jahr. Der Beschuldigte hatte zu diesem Punkt keine weiteren Einwendungen.
+Nach Schluss der Verhandlung ergänzte der Senat die Feststellungen durch die Vorlage der Kontoauszüge bis [[date|2. Dezember 2024]]. Die Auszüge bestätigen die Angaben des Klienten. Aus ihnen ergibt sich, dass die letzte Zahlung vom [[date|2. Dezember 2024]] nur einen Teil des geschuldeten Betrags umfasste. Der Restbetrag von EUR 450,00 wurde auf dem Konto nicht mehr ausgewiesen. Der Klient hat in der Verhandlung angegeben, dass er diesen Betrag bis heute nicht erhalten habe. Der Beschuldigte bestätigte dies und erklärte, er habe den Betrag für eine Kanzleiausgabe verwendet, die er später erstatten wolle. Eine Belegvorlage dazu erfolgte nicht. Der Senat konnte dazu keine weiteren Feststellungen treffen. Der Senat hat deshalb festgestellt, dass der Beschuldigte die Gelder nicht vollständig herausgegeben hat, bis die Anzeige erstattet war. Dieser Zeitraum umfasst mehr als ein halbes Jahr. Der Beschuldigte hatte zu diesem Punkt keine weiteren Einwendungen.
 
 V. Strafbemessung
 

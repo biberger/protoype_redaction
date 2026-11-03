@@ -55,6 +55,8 @@ Sehr geehrte Frau Doktor [[person|Pöschl]],
 
 der Prüfbericht wird Ihnen am Mittwoch übermittelt. Herr [[person|Kainz]] ist bis Ende April auf Montage und daher nur eingeschränkt erreichbar.
 
+Der Prüfbericht betrifft die Montage der Trennwände im Bürogebäude und umfasst die Abnahmeprotokolle, die Lieferscheine und die Fotodokumentation. Ich habe den Bericht intern geprüft und keine Abweichungen zur Lieferung festgestellt. Die Zahlung an die [[organization|Zorn GmbH]] ist daher nach Abzug des Skontos von zwei Prozent vorzunehmen, sofern die Frist eingehalten wird.
+
 Die Kl.-Nr. [[other_identifier|60573]] ist in unserem System korrekt hinterlegt. Die Zahlung wird an das Konto der [[organization|Zorn]] überwiesen, sobald die Reklamation geklärt ist.
 
 Mit freundlichen Grüßen

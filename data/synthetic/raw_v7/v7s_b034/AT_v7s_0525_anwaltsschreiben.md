@@ -59,6 +59,8 @@ Die Vergleichsbereitschaft unseres Mandanten besteht nur, wenn die Forderung vol
 
 Für Rückfragen stehen wir unter Tel. [[phone_number|+43-2622-9831023-60]] zur Verfügung.
 
+Wir ersuchen um eine rasche Rückmeldung, da unser Mandant auf die Zahlung angewiesen ist. Wir erwarten Ihre Antwort fristgerecht.
+
 Mit freundlichen Grüßen
 
 [[person|Strunz]]

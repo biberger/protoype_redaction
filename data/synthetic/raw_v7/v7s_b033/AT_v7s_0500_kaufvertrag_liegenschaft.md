@@ -122,6 +122,10 @@ XI. SCHLUSSBESTIMMUNGEN
 2. Gerichtsstand ist das für die Lage der Grundstücke zuständige Gericht.
 3. Die Beilagen bilden einen wesentlichen Bestandteil des Vertrages.
 
+4. Mündliche Nebenabreden bestehen nicht. Die Parteien bestätigen, dass sie den Vertrag gelesen haben und dass er ihrem Willen entspricht. Die Kanzlei hat auf die Möglichkeit hingewiesen, den Vertrag vor der Unterfertigung durch einen weiteren Rechtsberater prüfen zu lassen.
+
+5. Die Kanzlei übermittelt den Vertragsparteien nach der Eintragung eine Ausfertigung des Grundbuchsbeschlusses. Die Zahlung der Eintragungsgebühr ist von der Käuferin binnen 14 Tagen nach Zustellung des Gebührenbescheides zu leisten.
+
 Beilagen:
 ./A Grundbuchsauszug vom [[date|25. Mai 2026]]
 ./B Dienstbarkeitsurkunde

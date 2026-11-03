@@ -76,7 +76,11 @@ Gegen die Lenkerin [[person|Lara Dipl.-Ing. Lanner]] wird nach [[legal_norm|§ 1
 
 Die Beamtin [[person|Hölzl]] hat dem Lenker [[person|Leitgeb]] auf Verlangen die Unfallbestätigung für die Versicherung ausgehändigt. Herr [[person|Leitgeb]] hat den Erhalt quittiert.
 
+Die Beamten haben den Beteiligten eine Liste der Ansprechstellen für die weitere Abwicklung ausgehändigt. Eine Kopie dieser Liste ist der Anzeige beigelegt. Die Unfallaufnahme wurde mit der Fotodokumentation vollständig abgeschlossen.
+
 Die Schadenmeldung an die Versicherung erfolgt durch die Beteiligten selbst. Die Polizei übermittelt keine Angaben an Versicherungen, sofern die Beteiligten dem nicht zustimmen.
+
+Die Fahrzeuge waren nach dem Unfall fahrbereit und wurden vom Unfallort entfernt.
 
 Die Anzeige wurde am [[date|14.10.2026]] um 19:05 Uhr aufgenommen.
 

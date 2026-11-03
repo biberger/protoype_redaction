@@ -48,9 +48,25 @@ Ein Verschulden der [[organization|Pinezich]] ist nicht ersichtlich. Die Haftung
 
 Die Klägerin hat ihre Schadenersatzforderung auch gegen die [[country|Republik Österreich]] als beklagte Partei gerichtet. Das Verfahren gegen die Republik ist nach den Regeln der Amtshaftung zu beurteilen; die Beklagte [[organization|Pinezich]] nimmt dazu nicht Stellung.
 
+Die Klägerin trifft zudem eine Schadensminderungspflicht nach [[legal_norm|§ 1304 ABGB]]. Sie hätte die Dachrinne reinigen lassen und den Wassereintritt früher melden müssen. Ein Mitverschulden ist daher in jedem Fall zu berücksichtigen, und zwar in einem Ausmaß, das die Haftung der Beklagten nach [[legal_norm|§ 1304 ABGB]] mindert.
+
 Die Versicherungsbedingungen, auf die sich die Versicherung beruft, sind nicht Gegenstand dieses Verfahrens. Die Klägerin hat die Versicherungspolizze bisher nicht vorgelegt; sie kann daraus keine Rechte ableiten.
 
-III. Anträge
+III. Ergänzendes Vorbringen zur Schadensentstehung
+
+6. Der Wasserschaden wurde nach dem Gutachten des Sachverständigen durch einen Riss in der Anschlussfolie an der Dachrinne verursacht. Diese Stelle lag außerhalb des Leistungsumfangs der Abdichtungsarbeiten, die die [[organization|Pinezich]] im Herbst 2024 ausgeführt hat. Die Folie an der Dachrinne wurde im Jahr 2016 eingebaut und war zum Zeitpunkt des Schadens bereits über den üblichen Lebensdauerzeitraum hinaus in Verwendung.
+
+7. Die Klägerin hat bei der Besichtigung am [[date|21.01.2025]] selbst eingeräumt, dass sie die Dachrinne seit Jahren nicht gereinigt habe. Die Verstopfung der Rinne hat zum Rückstau des Wassers geführt, das über die Anschlussstelle in das Gebäude eindrang. Diese Mitverursachung schließt die Haftung der Beklagten aus.
+
+8. Die Zeugin [[person|Sina Fotea]] hat mitgeteilt, dass sie der Klägerin die Reinigung der Dachrinne mehrfach angeboten habe. Die Klägerin hat dieses Angebot abgelehnt. Die Zeugin hat außerdem bestätigt, dass die Klägerin die Wohnung im Dachgeschoss zum Zeitpunkt des Schadens nicht bewohnt, sondern vermietet habe.
+
+9. Die Mieterin der Wohnung, Frau [[person|Halime Mag. İlgün]], hat über den Vorfall am [[date|14.01.2025]] keine Meldung an die Verwaltung erstattet, sondern erst am [[date|16.01.2025]] telefonisch informiert. Der verspätete Hinweis hat den Schaden vergrößert, weil die Feuchtigkeit in der Zwischendecke bereits zwei Tage unbemerkt blieb.
+
+10. Die Streitverkündete [[person|Birgitt Aicher]] hat in einer Stellungnahme vom [[date|03.04.2026]] bestätigt, dass die Dachkonstruktion zum Zeitpunkt der Planung den einschlägigen Normen entsprach. Eine Mitwirkung an der Ausführung der Abdichtung hat sie bestritten.
+
+11. Die Schadenhöhe der Klägerin umfasst neben den Sanierungskosten auch einen Mietentgang für drei Monate. Die Beklagte bestreitet die Höhe dieses Mietentgangs, da die Wohnung zum Zeitpunkt des Schadens nach den Angaben der Mieterin noch nicht wieder vermietbar war.
+
+IV. Anträge
 
 Die beklagte Partei beantragt,
 

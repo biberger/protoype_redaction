@@ -46,7 +46,7 @@ Dezember 2025       EUR 740,00      [[date|02.12.2025]]     30 %
 
 Die Gesamtüberzahlung beträgt daher EUR 444,00. Wir ersuchen um Rücküberweisung auf das Konto der Mandantin bis zum [[date|15. Februar 2026]].
 
-Die Mandantin ist zudem bereit, eine einvernehmliche Lösung zu finden. Dazu verweisen wir auf die Vertragsnummer [[other_identifier|KV-2022-77455]] des bestehenden Mietvertrages, dessen Bestimmungen zur Instandhaltung unverändert gelten.
+Die Mandantin ist zudem bereit, eine einvernehmliche Lösung zu finden. Sie erwartet dafür eine Antwort binnen zwei Wochen. Dazu verweisen wir auf die Vertragsnummer [[other_identifier|KV-2022-77455]] des bestehenden Mietvertrages, dessen Bestimmungen zur Instandhaltung unverändert gelten.
 
 Frau [[person|Nathalie Mang]], die Hausverwalterin, ist über unser Schreiben informiert. Sie hat uns mitgeteilt, dass ein Installateur bereits beauftragt wurde. Die [[organization|Jovanovic Immobilien]] sollte diesen Auftrag daher rasch abschließen. Eine Kopie der Fotos der Feuchtigkeitsschäden vom [[date|20. Oktober 2025]] liegt diesem Schreiben bei. Die Mandantin behält sich vor, die Kosten einer Sachverständigenprüfung in Rechnung zu stellen, sollte sich der Befund bestätigen. Ein Gutachten dazu wird mit der nächsten Korrespondenz übermittelt. Wir ersuchen zudem um Mitteilung, ob die [[organization|Jovanovic Immobilien]] die Angelegenheit an ihre Haftpflichtversicherung weitergeleitet hat.
 

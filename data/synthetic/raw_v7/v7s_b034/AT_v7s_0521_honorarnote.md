@@ -39,6 +39,8 @@ Der Klient wurde darüber aufgeklärt, dass die Honorarnote die Leistungen der g
 
 Zahlbar binnen 14 Tagen auf das Konto [[bank_account|AT12 8469 6402 7146 9760]] unter Angabe der Rechnungsnummer und der Klienten-Nr. [[other_identifier|66219]].
 
+Die Zahlung ist ohne Abzug zu leisten. Wir danken für Ihr Vertrauen.
+
 Telefonische Rückfragen unter Tel. [[phone_number|+43 732 425 30 44 DW 806]].
 
 [[location|Hörsching]], am [[date|12.05.2026]]

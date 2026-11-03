@@ -44,6 +44,22 @@ Begründung
 
 4. Die Büchereintragungen des Treuhandkontos waren unvollständig. Die Kammeranwältin wies darauf hin, dass für mehrere Buchungen des Jahres 2024 keine Belege vorliegen.
 
+Verfahrensgang
+
+Das Verfahren wurde nach Einlangen der Beschwerde von [[person|Ada Borawska]] von der Kammeranwältin eröffnet. Die Kammeranwältin ersuchte den Beschuldigten zunächst um eine schriftliche Stellungnahme, die dieser am [[date|12.12.2024]] übermittelte. Darin räumte er ein, die Auszahlung vom [[date|09.05.2023]] vorgenommen zu haben, und verwies auf die Bauträgergesellschaft als Empfängerin. Eine Vereinbarung über die Auszahlung legte er nicht vor.
+
+Die Kammeranwältin [[person|Chrystalla MMag. Dimitriadis]] beantragte daraufhin die Vernehmung der Klientinnen. In der Verhandlung wurde zunächst die Zeugin [[person|Ada Borawska]] vernommen; sie schilderte, dass sie den Kaufvertrag für die Liegenschaft nur mündlich besprochen habe und die Zahlung als Anzahlung verstanden habe, nicht aber als Ermächtigung zur Weiterleitung. Die Zeugin [[person|Ilsedore Schilling]] bestätigte die Einzahlung vom [[date|22.08.2024]] und die wiederholten Mahnungen.
+
+Der Senat, besetzt mit [[judge|Mag. Lona Steininger]] als Vorsitzender sowie [[judge|Natalina Stuck]] und [[judge|Mag. Mansur Abboud]] als Beisitzern, hat die Beweise gewürdigt. Die Schriftführerin [[person|Marietta Tardos]] hat das Protokoll geführt und den Zeitablauf festgehalten.
+
+Beweiswürdigung
+
+Der Senat stützt seine Feststellungen auf die Kontoauszüge des Treuhandkontos, auf die Schreiben der Klientinnen und auf die Aussagen der Zeuginnen. Die Kontoauszüge zeigen die Ein- und Auszahlungen in der dargestellten Reihenfolge. Die Zahlung vom [[date|09.05.2023]] ist in den Büchern als Auszahlung an eine Bauträgergesellschaft verzeichnet; eine entsprechende Rechnung ist nicht vorhanden.
+
+Die Behauptung des Beschuldigten, die Klientin habe die Zahlung mündlich genehmigt, ist mit den Angaben der Klientin nicht vereinbar. Der Senat hält fest, dass auch eine mündliche Zustimmung die Pflicht zur schriftlichen Dokumentation nicht ersetzt, wenn eine Auszahlung dieser Größenordnung erfolgt.
+
+Hinsichtlich der Klientin [[person|Schilling]] hat der Beschuldigte die Verzögerung eingeräumt. Die Erkrankung, auf die er sich beruft, ist durch eine ärztliche Bestätigung belegt, die den Zeitraum bis Ende Oktober 2024 umfasst. Die Mahnungen vom [[date|17.03.2025]] und die spätere Überweisung können dadurch jedoch nicht gerechtfertigt werden.
+
 Rechtliche Beurteilung
 
 Die Verwaltung fremder Gelder ist eine der wichtigsten Berufspflichten der Rechtsanwältin und des Rechtsanwalts. Anvertraute Gelder sind getrennt zu verwahren, jederzeit nachvollziehbar zu verbuchen und nur auf Grund einer ausdrücklichen Weisung oder einer rechtskräftigen Entscheidung auszuzahlen. Der Verstoß gegen [[legal_norm|§ 3 RL-BA 2015]] wiegt schwer, weil zwei Klientinnen über längere Zeit auf ihr Geld warten mussten.
@@ -52,7 +68,17 @@ Die Pflicht zur ordnungsgemäßen Berufsausübung ergibt sich aus [[legal_norm|�
 
 Der Senat hat die bisherige Unbescholtenheit des Beschuldigten mildernd berücksichtigt. Ferner wurde der Schaden nach Einleitung des Verfahrens vollständig gutgemacht, wenn auch verspätet. Erschwerend war die Dauer der Säumnis und der Umstand, dass zwei Klientinnen betroffen waren. Die verhängte Geldbuße entspricht dem Unrechtsgehalt. Ein Verweis allein wäre nicht ausreichend gewesen, da die Vorwürfe die Integrität der Treuhandtätigkeit betreffen.
 
+Die Höhe der Geldbuße orientiert sich an vergleichbaren Fällen der Treuhandverwaltung, in denen Beträge in dieser Größenordnung ohne Weisung ausbezahlt wurden. Der Senat hat dabei berücksichtigt, dass der Beschuldigte für die Rückzahlung der Beträge zum Teil selbst Mittel aufgewendet hat, während die Verzögerung im zweiten Fall durch eine Erkrankung erklärbar ist. Die Dauer der Pflichtverletzung im ersten Fall und die Zahl der betroffenen Klientinnen rechtfertigen jedoch eine Geldbuße im mittleren Bereich des Rahmens.
+
+Der Senat hat auch geprüft, ob die Verletzung der Aufzeichnungspflichten gesondert zu ahnden ist. Da die Buchungsmängel mit den Auszahlungen in unmittelbarem Zusammenhang stehen, wurden sie nicht als eigenes Vergehen gewertet, sondern bei der Strafbemessung berücksichtigt.
+
 Der Senat hat weiters berücksichtigt, dass die Kanzlei im Zeitpunkt der Verhandlung nach wie vor in [[location|St. Michael im Lungau]] geführt wird. Die Einhaltung der Vorschriften über die Verwaltung von Treuhandgeldern wurde für die Zukunft durch die Bestellung eines Kontrollbeauftragten sichergestellt.
+
+In den Schlussvorträgen hat die Kammeranwältin die Verhängung einer Geldbuße im oberen Bereich beantragt. Sie verwies auf die Zahl der Vorfälle und darauf, dass der Beschuldigte über die Pflichten der Treuhandverwaltung seit seiner Ausbildung unterrichtet worden sei. Der Beschuldigte hat in seinem letzten Wort um Milde ersucht und erklärt, er habe aus den Vorfällen Konsequenzen gezogen und die Buchhaltung inzwischen an eine externe Stelle übergeben.
+
+Die Zeugin [[person|Ilsedore Schilling]] hat in ihrem letzten Wort erklärt, dass sie die Rückzahlung erst nach Einleitung dieses Verfahrens erhalten habe, nachdem sie die Mahnungen zuvor als wirkungslos empfunden habe. Die Zeugin [[person|Ada Borawska]] hat dagegen betont, dass der Beschuldigte die Angelegenheit nach Einleitung des Verfahrens sachlich aufgearbeitet habe.
+
+Der Senat hat die Verhandlung nach Beratung um 13:40 Uhr geschlossen; die Verkündung erfolgte mündlich und wird mit dieser schriftlichen Ausfertigung bestätigt. Die Beratung erfolgte ohne Anwesenheit der Parteien und der Kammeranwältin, die Entscheidung wurde einstimmig getroffen.
 
 Die Kammeranwältin hat auf ein Rechtsmittel verzichtet. Der Beschuldigte hat sich das Recht zur Berufung vorbehalten. Die Entscheidung wird dem Beschuldigten zugestellt an die Anschrift [[address|8253 Mönichwald]]. Rückfragen zur Kanzlei sind unter Tel. [[phone_number|0463 533479-74]] möglich.
 

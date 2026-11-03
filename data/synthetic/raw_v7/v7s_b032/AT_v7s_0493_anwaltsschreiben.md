@@ -50,6 +50,6 @@ Mit freundlichen Grüßen
 [[person|Fries]]
 Rechtsanwalt
 
-Wir ersuchen um schriftliche Bestätigung, dass Sie die Kündigung zur Kenntnis genommen haben. Eine telefonische Rückmeldung ersetzt die schriftliche Erklärung nicht. Die Frist zur Stellungnahme ist im Interesse aller Beteiligten bewusst kurz gehalten, weil die Zufahrt für die Bewohner seit dem Herbst nur eingeschränkt nutzbar ist.
+Wir ersuchen um schriftliche Bestätigung, dass Sie die Kündigung zur Kenntnis genommen haben. Eine telefonische Rückmeldung ersetzt die schriftliche Erklärung nicht. Die Frist zur Stellungnahme ist im Interesse aller Beteiligten bewusst kurz gehalten, weil die Zufahrt für die Bewohner seit dem Herbst nur eingeschränkt nutzbar ist. Wir danken für Ihr Verständnis.
 
 Beilage: Vollmacht, Abrechnung 2025

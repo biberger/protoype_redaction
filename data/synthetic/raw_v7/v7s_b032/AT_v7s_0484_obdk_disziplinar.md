@@ -68,7 +68,7 @@ Der Senat geht vom Vorsatz des Beschuldigten aus, weil er die Bewegungen nach se
 
 Die Strafbemessung richtet sich nach [[legal_norm|§ 34 Abs 1 Z 3 RAO]]. Der Beschuldigte ist bisher nicht disziplinarrechtlich aufgefallen; dies wurde mildernd berücksichtigt. Erschwerend wirkte die Dauer der Pflichtwidrigkeit.
 
-Der Senat hat die Entscheidung einstimmig getroffen. Die Beisitzer haben der Begründung zugestimmt. Die Stellungnahme des Kammeranwalts vom [[date|2. März 2026]] wurde im Rahmen der Beweiswürdigung berücksichtigt, soweit sie sich auf die Kontobewegungen bezog. Im Übrigen wird auf die Begründung verwiesen.
+Der Senat hat die Entscheidung einstimmig getroffen. Dies gilt auch für die Höhe der Geldbuße. Die Beisitzer haben der Begründung zugestimmt. Die Stellungnahme des Kammeranwalts vom [[date|2. März 2026]] wurde im Rahmen der Beweiswürdigung berücksichtigt, soweit sie sich auf die Kontobewegungen bezog. Im Übrigen wird auf die Begründung verwiesen.
 
 Rechtsmittelbelehrung
 

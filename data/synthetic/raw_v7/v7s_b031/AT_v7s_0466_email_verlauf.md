@@ -33,7 +33,7 @@ Der Sitz der [[organization|FIG]] befindet sich in [[location|St. Pölten]]; die
 Mit freundlichen Grüßen
 
 [[person|Alkistis Mag. Dr. Mitrou]]
-Rechtsanwältin
+Rechtsanwalt
 Tel. [[phone_number|+43-2742-3913406-8]]
 
 ---
@@ -68,7 +68,7 @@ An: [[person|Mag. Dr. Mitrou]] <[[email|post@kanzlei-mitrou.at]]>
 Cc: [[person|Salomo Schönauer]] <[[email|s.schoenauer@gmx.at]]>
 Betreff: AW: Wasserschaden Ollersdorf, Zeichen [[other_identifier|174/20 MT]]
 
-Sehr geehrte Frau [[person|Mag. Dr. Mitrou]],
+Sehr geehrter Herr [[person|Mag. Dr. Mitrou]],
 
 wir danken für Ihr Schreiben vom [[date|14. September 2026]]. Unser Mandant bestreitet die Sachverhaltsdarstellung Ihrer Mandantin nachdrücklich. Die Feuchtigkeit ist nach seinen Angaben seit dem Frühjahr 2026 sichtbar; die Muffe der Leitung wurde laut Rechnung des Sachverständigen [[person|Dominik Rohrbacher]] am [[date|3. März 2026]] getauscht.
 
@@ -95,12 +95,12 @@ Sehr geehrter Herr [[person|Kienesberger]],
 
 die [[organization|FIG]] hat die gewünschten Wartungsprotokolle nicht vorliegen, weil das Wirtschaftsgebäude zwischen dem [[date|1. Juli 2025]] und dem [[date|31. Mai 2026]] an einen Dienstleister verpachtet war. Ein Wartungsvertrag wurde nicht abgeschlossen. Das Verschulden trifft die [[organization|Forsthuber]] daher nicht.
 
-Wir sind dennoch bereit, die Rechnung des Sachverständigen [[person|Rohrbacher]] zu prüfen, sofern sie im Original übermittelt wird. Sollte die Forderung anerkannt werden, ist die Zahlung auf das Konto IBAN [[bank_account|AT87 0823 7034 5923 5981]] der [[organization|FIG]] zu leisten. Für den Fall eines Rechtsstreits halten wir das [[court|BG Mödling]] nicht für zuständig, weil die Liegenschaft der FIG nicht in seinem Sprengel liegt. Eine Anerkennung über die Trocknungskosten behalten wir uns vor, bis die Muffe und das Schadensfoto vorliegen. Die Fotos aus dem Keller, die Sie angekündigt haben, erbitten wir mit dem jeweiligen Aufnahmedatum. Ein bloßer Ausdruck ohne Metadaten genügt uns nicht, wir benötigen die Originaldateien.
+Wir sind dennoch bereit, die Rechnung des Sachverständigen [[person|Rohrbacher]] zu prüfen, sofern sie im Original übermittelt wird. Sollte die Forderung anerkannt werden, ist die Zahlung auf das Konto IBAN [[bank_account|AT87 0823 7034 5923 5981]] der [[organization|FIG]] zu leisten. Für den Fall eines Rechtsstreits halten wir das [[court|BG Mödling]] nicht für zuständig, weil die Liegenschaft der [[organization|FIG]] nicht in seinem Sprengel liegt. Eine Anerkennung über die Trocknungskosten behalten wir uns vor, bis die Muffe und das Schadensfoto vorliegen. Die Fotos aus dem Keller, die Sie angekündigt haben, erbitten wir mit dem jeweiligen Aufnahmedatum. Ein bloßer Ausdruck ohne Metadaten genügt uns nicht, wir benötigen die Originaldateien.
 
 Mit freundlichen Grüßen
 
 [[person|Alkistis Mag. Dr. Mitrou]]
-Rechtsanwältin
+Rechtsanwalt
 Tel. [[phone_number|+43-2742-3913406-8]]
 
 ---

@@ -31,7 +31,7 @@ I. Der Beschuldigte [[lawyer|Ludwig Wagner]] ist schuldig, er hat
 
 II. Der Beschuldigte wird dafür gemäß [[legal_norm|§ 34 RAO]] mit einer Geldbuße von 6.000 Euro bestraft. Im Falle der Uneinbringlichkeit tritt eine Ersatzfreiheitsstrafe von 20 Tagen ein.
 
-III. Der Beschuldigte hat die Kosten des Verfahrens zu tragen.
+III. Der Beschuldigte hat die Kosten des Verfahrens zu tragen. Dies gilt auch für die Gebühren der Zeugen.
 
 Entscheidungsgründe
 
@@ -70,7 +70,7 @@ Im Schreiben vom [[date|12. August 2025]] teilte der Beschuldigte der Klientin m
 
 3. Beweiswürdigung
 
-Der Senat stützt die Feststellungen auf die Kontoauszüge, die Aussage der Klientin und die Schreiben des Beschuldigten. Die Schreiben wurden im Original vorgelegt und sind unverändert. Der Beschuldigte hat sich in der Verhandlung teilweise widersprochen. Er gab zunächst an, die Gelder seien nur kurzfristig umgebucht worden, und räumte später ein, dass die Beträge für die Kanzleikosten verwendet wurden.
+Der Senat stützt die Feststellungen auf die Kontoauszüge, die Aussage der Klientin und die Schreiben des Beschuldigten. Die Schreiben wurden im Original vorgelegt und sind unverändert. Der Senat hat keine Anhaltspunkte für eine nachträgliche Änderung gefunden. Der Beschuldigte hat sich in der Verhandlung teilweise widersprochen. Er gab zunächst an, die Gelder seien nur kurzfristig umgebucht worden, und räumte später ein, dass die Beträge für die Kanzleikosten verwendet wurden.
 
 Die Angaben der Klientin sind widerspruchsfrei und durch die Unterlagen gestützt. Der Senat hält sie für glaubwürdig.
 

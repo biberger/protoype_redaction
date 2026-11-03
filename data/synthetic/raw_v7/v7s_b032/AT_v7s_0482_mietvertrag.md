@@ -28,6 +28,7 @@ wohnhaft wie oben
 
 Vertragsnummer [[other_identifier|V-2019-93165]]
 Kunden-Nr. [[other_identifier|396389]]
+Vertragsnummer [[other_identifier|KV-2021-59122]]
 
 § 1 Mietgegenstand
 
@@ -91,4 +92,4 @@ Der Mieter:
 ______________________________
 [[person|Tammy Begović]]
 
-Rückfragen unter Tel. [[phone_number|+43-7242-4056611 DW 159]]
+Rückfragen unter Tel. [[phone_number|+43-7242-4056611 DW 159]] Schriftliche Erklärungen sind an die Vermieterin zu richten.

@@ -20,15 +20,15 @@ Liegenschaftsteil: [[land_register_id|K.G. 89216]]/[[land_register_id|EZ: 420]]
 ABGESCHLOSSEN ZWISCHEN
 
 VERKÄUFER:
-[[person|GASPAR SZIJJÁRTÓ]], geb. [[date_of_birth|25. März 1955]]
+[[person|Gaspar Szijjártó]], geb. [[date_of_birth|25. März 1955]]
 [[address|2831 Warth]]
 
 und
 
 KÄUFER:
-[[person|ABELEK NEKOLA]], Geburtsdatum: [[date_of_birth|1950-03-01]], StA. [[country|Türkei]]
+[[person|Abelek Nekola]], Geburtsdatum: [[date_of_birth|1950-03-01]], StA. [[country|Türkei]]
 und
-[[person|VIRGILIA ESSER]], geb. [[date_of_birth|1989-10-14]]
+[[person|Virgilia Esser]], geb. [[date_of_birth|1989-10-14]]
 beide wohnhaft in [[address|Bergstraße 7, 2722 Winzendorf-Muthmannsdorf]]
 
 und
@@ -129,11 +129,11 @@ Der Grundbuchsstand wurde von der Kanzlei am [[date|2. Februar 2026]] überprüf
 
 XI. Kosten
 
-Die Kosten der Urkundenerrichtung trägt der Käufer. Die Kanzlei stellt ihr Honorar nach den Bestimmungen des [[legal_norm|Rechtsanwaltstarifgesetzes]] in Rechnung. Die Verkäuferin trägt die Kosten der Löschung des Pfandrechts.
+Die Kosten der Urkundenerrichtung trägt der Käufer. Die Kanzlei stellt ihr Honorar nach den Bestimmungen des [[legal_norm|Rechtsanwaltstarifgesetzes]] in Rechnung. Die Verkäuferin trägt die Kosten der Löschung des Pfandrechts. Die Kosten der Pfandrechtsbegründung waren im Kaufpreis nicht enthalten. Die Verkäuferin bestätigt zudem, dass keine weiteren Forderungen gegen sie bestehen.
 
 XII. Steuern und Abgaben
 
-Die Vertragsparteien erklären, dass die Liegenschaft nicht zum Betriebsvermögen eines der Vertragsteile gehört. Eine Umsatzsteuerpflicht des Verkaufs besteht nach Angabe des Verkäufers nicht, weil die Liegenschaft seit mehr als zwanzig Jahren privat genutzt wird. Der Verkäufer bestätigt dies mit seiner Unterschrift. Die Grunderwerbsteuer wird von der Kanzlei nach Eingang der Unterlagen angemeldet. Die Kosten der Anmeldung trägt der Käufer, soweit sie über die übliche Erklärung hinausgehen.
+Die Vertragsparteien erklären, dass die Liegenschaft nicht zum Betriebsvermögen eines der Vertragsteile gehört. Eine Umsatzsteuerpflicht des Verkaufs besteht nach Angabe des Verkäufers nicht, weil die Liegenschaft seit mehr als zwanzig Jahren privat genutzt wird. Der Verkäufer bestätigt dies mit seiner Unterschrift. Die Bestätigung ist Bestandteil dieses Vertrages. Die Grunderwerbsteuer wird von der Kanzlei nach Eingang der Unterlagen angemeldet. Die Kosten der Anmeldung trägt der Käufer, soweit sie über die übliche Erklärung hinausgehen.
 
 XIII. Datenschutz
 

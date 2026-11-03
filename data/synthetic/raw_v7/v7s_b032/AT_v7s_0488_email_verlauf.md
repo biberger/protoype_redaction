@@ -10,7 +10,7 @@ Betreff: AW: Unser Zeichen: [[other_identifier|Perger ./. Kropf]]
 
 Sehr geehrte Frau [[lawyer|Perger]],
 
-vielen Dank für Ihre Nachricht. Ich habe die Unterlagen mit unserem Geschäftsführer besprochen. Der Geschäftsführer ist derzeit auf Reisen und kann erst am Montag erreichbar sein. Ich bitte um Verständnis, dass die Antwort daher etwas später erfolgt. Wir sind bereit, den Vergleich in der vorgeschlagenen Form anzunehmen, möchten aber die Frist bis zum [[date|28. Februar 2026]] verlängert haben.
+vielen Dank für Ihre Nachricht. Ich habe die Unterlagen mit unserem Geschäftsführer besprochen. Der Geschäftsführer ist derzeit auf Reisen und kann erst am Montag erreichbar sein. Ich bitte um Verständnis, dass die Antwort daher etwas später erfolgt. Vielen Dank. Wir sind bereit, den Vergleich in der vorgeschlagenen Form anzunehmen, möchten aber die Frist bis zum [[date|28. Februar 2026]] verlängert haben.
 
 Die [[organization|Bitter KG]] ist mit der Zahlung im Rückstand, weil die Versicherung die Schadensmeldung noch nicht bearbeitet hat. Ich bitte um Verständnis.
 
@@ -114,7 +114,7 @@ Betreff: Vergleich [[other_identifier|Perger ./. Kropf]], Bestätigung
 
 Sehr geehrte Frau [[person|Steinegger]],
 
-ich kann den Eingang der Teilzahlung derzeit noch nicht bestätigen. Die Belege von Herrn [[person|Holubets]] sind eingegangen, sie decken jedoch nur einen Teil der Zahlung ab. Die Restsumme ist daher weiterhin offen, und ich bitte um eine Aufstellung, welche Beträge bereits abgeflossen sind. Die bisherigen Zahlungsbelege sind dafür ausreichend. Ich ersuche daher um die Vorlage der Überweisungsbestätigung bis zum [[date|13. Februar 2026]].
+ich kann den Eingang der Teilzahlung derzeit noch nicht bestätigen. Die Belege von Herrn [[person|Holubets]] sind eingegangen, sie decken jedoch nur einen Teil der Zahlung ab. Die Restsumme ist daher weiterhin offen, und ich bitte um eine Aufstellung, welche Beträge bereits abgeflossen sind. Die bisherigen Zahlungsbelege sind dafür ausreichend. Eine Kopie des Überweisungsbelegs ist beigefügt. Ich ersuche daher um die Vorlage der Überweisungsbestätigung bis zum [[date|13. Februar 2026]].
 
 Frau [[person|Dr. Helga Kropf]] ist mit der Verlängerung bis zum [[date|28. Februar 2026]] einverstanden, besteht aber auf den Raten. Eine Änderung der Raten ist nur schriftlich möglich.
 

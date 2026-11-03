@@ -50,7 +50,7 @@ Die Gläubiger wurden über die Rangfolge nach [[legal_norm|§ 811 ABGB]] belehr
 
 4.2 Bankguthaben: Das Girokonto des Erblassers bei der [[organization|Raiffeisenbank Region Tollet eGen]] wies am Todestag einen Saldo von EUR 12.480,57 auf. Die Kontonummer lautet IBAN [[bank_account|AT63 0839 4711 5391 5340]].
 
-4.3 Gesellschaftsanteile: Der Erblasser hielt 50 % der Anteile an der [[organization|Aulitzky KG]], [[company_register_number|FN 533670i]], UID-Nr. [[tax_id|ATU15593294]]. Die Gesellschaft ist im Firmenbuch zu FN 533670i eingetragen; die Anteile werden bewertet.
+4.3 Gesellschaftsanteile: Der Erblasser hielt 50 % der Anteile an der [[organization|Aulitzky KG]], [[company_register_number|FN 533670i]], UID-Nr. [[tax_id|ATU15593294]]. Die Gesellschaft ist im Firmenbuch zu [[company_register_number|FN 533670i]] eingetragen; die Anteile werden bewertet.
 
 4.4 Verträge: Der Erblasser war Vertragspartei zweier Verträge mit der [[organization|Aulitzky]]. Diese tragen Vertragsnummer [[other_identifier|KV-2023-20677]] und Vertragsnummer [[other_identifier|V-2023-25217]] und werden in die Abhandlung einbezogen.
 
@@ -69,11 +69,13 @@ Passiva: Begräbniskosten EUR 6.840,00, Forderungen EUR 6.450,00, Gerichtsgebüh
 
 4.7 Verbindlichkeiten aus dem Mietverhältnis: Der Erblasser hatte eine Garagenmiete offen. Diese wurde aus dem Verlassenschaftskonto beglichen und in der Abrechnung berücksichtigt.
 
-Die Erben haben die Einantwortung beantragt. Der Antrag wird mit diesem Bericht vorgelegt. Die Verlassenschaft hat bei den Erbinnen und Erben keinen Anlass zu weiteren Ermittlungen gegeben.
+Die Erben haben die Einantwortung beantragt. Der Antrag wird mit diesem Bericht vorgelegt. Die Verlassenschaft hat bei den Erbinnen und Erben keinen Anlass zu weiteren Ermittlungen gegeben. Die Abhandlung ist nach derzeitigem Stand abschlussreif. Die Erbantrittserklärung ist fristgerecht abzugeben. Die Gerichtskommissionsgebühren werden aus dem Nachlass beglichen; eine Vorschreibung an die Erben erfolgt nicht. Die Erbinnen und Erben haben dies zur Kenntnis genommen.
 
 Die Anschrift des Nachlasses lautet [[address|7052 Müllendorf]]. Die Liegenschaft liegt im Gemeindegebiet von [[location|St. Ruprecht an der Raab]].
 
 Die Verlassenschaft wurde im Sprengel des [[court|Bezirksgericht Freistadt]] geführt. Ergänzend wird auf den Akt des [[court|BG Freistadt]] verwiesen.
+
+Die Erben wurden über das Ergebnis der Verlassenschaft im Gespräch mit dem Notar belehrt. Sie haben insbesondere erfahren, dass die Erbantrittserklärung binnen der gesetzlichen Frist abzugeben ist und die Haftung auf den Nachlass beschränkt werden kann. Eine Ausfertigung dieser Belehrung liegt im Akt.
 
 Anlagen: Sterbeurkunde, Testament, Liegenschaftsauszug, Kontoauszüge, Gesellschaftsvertrag der [[organization|Aulitzky KG]].
 

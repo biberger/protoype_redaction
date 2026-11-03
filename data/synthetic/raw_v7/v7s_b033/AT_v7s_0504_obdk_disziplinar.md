@@ -76,6 +76,8 @@ In der Verhandlung hat die Kammeranwältin die Anträge gestellt, den Beschuldig
 
 Der Senat hat den Beschuldigten persönlich angehört. Er hat erklärt, dass die Zahlung im Vertrauen auf eine Abwicklung über das Notariat veranlasst worden sei und dass er die Verantwortung für die Buchung trage. Diese Erklärung wurde vom Senat als glaubwürdig eingestuft, weil der Beschuldigte die Verantwortung ausdrücklich übernommen hat.
 
+Der Beschuldigte hat in seiner Stellungnahme angegeben, dass er die Kanzlei seit 2011 allein führe und dass die Mitarbeiterinnen in der Buchhaltung nur sporadisch eingesetzt werden. Diese Angaben konnten nicht bestätigt werden, weil die Personalakten nicht vorgelegt wurden.
+
 III c. Organisation der Kanzlei
 
 Die Kanzlei des Beschuldigten beschäftigt neben dem Beschuldigten zwei Kanzleikräfte und eine Buchhalterin. Die Einrichtung eines Treuhandkontos erfolgte im Jahr 2019 auf Veranlassung des Beschuldigten. Eine Vollmacht für die Verfügung über das Konto hatte neben dem Beschuldigten auch die Kanzleimitarbeiterin [[person|Kunrath]], die jedoch nur auf Anweisung des Beschuldigten Zahlungen freigeben durfte.
@@ -93,6 +95,8 @@ Mildernd wirkt, dass der Beschuldigte einen Teil des Betrags inzwischen zurückg
 Die Geldbuße von EUR 4.500,00 erscheint angemessen. Sie berücksichtigt die bisherige Unbescholtenheit und die wirtschaftliche Lage des Beschuldigten. Ein Ausspruch über die Streichung aus der Liste kommt nicht in Betracht.
 
 Die Vorsitzende [[judge|Schlagbauer]] hat das Erkenntnis verkündet. Die Beisitzerin [[judge|Bühler]] hat der Entscheidung zugestimmt; der Beisitzer [[judge|Eberhart]] hat eine abweichende Auffassung zur Höhe der Buße nicht erhoben.
+
+Der Senat weist darauf hin, dass die Rückzahlung der Klientin nicht als Wiedergutmachung im Sinne der Strafbemessung gewertet werden kann, soweit sie erst nach der Anzeige erfolgte. Sie wirkt sich jedoch mildernd aus, weil sie den Schaden der Klientin teilweise beseitigt hat.
 
 Belehrung: Gegen dieses Erkenntnis steht dem Beschuldigten und dem Kammeranwalt die Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] offen. Die Berufungsfrist beträgt zwei Wochen ab Zustellung.
 

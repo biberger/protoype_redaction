@@ -52,6 +52,10 @@ Die Gegenseite [[person|Herzl]] hat die Vertragsänderung zunächst nicht angeno
 
 Wir ersuchen, Beanstandungen innerhalb von vier Wochen schriftlich mitzuteilen. Die Honorarnote gilt ansonsten als anerkannt.
 
+Die Leistungen wurden nach bestem Wissen und Gewissen erbracht. Wir danken für den Auftrag und bleiben für Rückfragen gerne zur Verfügung.
+
+Die Gegenseite hat außerdem einen Termin für die Übergabe der Urkunden am [[date|25.09.2026]] vorgeschlagen; der Termin wurde mit dem Mandanten abgestimmt. Ein Protokoll über die Übergabe befindet sich im Akt.
+
 Für Rückfragen stehen wir unter Tel. [[phone_number|0316/3431479 DW 495]] zur Verfügung.
 
 Anschrift des Mandanten für Zustellungen: [[address|9562 Himmelberg]]

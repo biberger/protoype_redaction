@@ -42,6 +42,8 @@ Die Klägerin ist seit dem [[date|1. Oktober 2021]] Mieterin einer Wohnung der B
 
 Am [[date|14. Februar 2026]] trat in der Wohnung ein Wasserschaden auf, der von einer undichten Steigleitung im Badezimmer ausging. Die Klägerin zeigte den Schaden am selben Tag schriftlich an. Die Beklagte beauftragte zwar einen Installateur der [[organization|Wurzer Sanitär GmbH]], die Reparatur wurde jedoch erst am [[date|19. März 2026]] abgeschlossen.
 
+Die Klägerin hat die Schäden fotografisch dokumentiert; die Fotos werden als Beilage ./A vorgelegt.
+
 Die Klägerin ist durch den Schaden an ihrem Hausrat erheblich geschädigt worden. Die Schadensmeldung an die Versicherung erfolgte unter der Schaden-Nr. [[other_identifier|95/964096/23]]. Die Polizze der Klägerin ist unter der Polizze [[other_identifier|40-6000025]] geführt, die Versicherung hat einen Teil des Schadens übernommen.
 
 2. Beweise und Schadensberechnung
@@ -80,6 +82,8 @@ Der Schimmelbefall im Wohnzimmer ist durch einen Sachverständigen festzustellen
 
 Die Klägerin hat während der Reparaturzeit eine Ersatzwohnung in Anspruch genommen. Die Kosten dafür beliefen sich auf EUR 1.350,00 für den Zeitraum vom [[date|1. März 2026]] bis zum [[date|31. März 2026]]. Diese Kosten sind in der Entschädigung wegen Unzumutbarkeit nicht enthalten und werden vorsorglich geltend gemacht, soweit das Gericht die Mietzinsminderung nicht vollständig anerkennt.
 
+Die Klägerin hat ihre Schadensminderungspflicht erfüllt, indem sie die Beklagte unverzüglich informiert und eine Notreparatur durch eigene Mittel vermieden hat. Ein Mitverschulden trifft sie nicht.
+
 Die Beklagte haftet darüber hinaus für die Kosten der Hausverwaltung, die durch die verzögerte Mängelbehebung entstanden sind. Die Hausverwaltung hat einen Betrag von EUR 240,00 an die Klägerin weiterverrechnet, den die Beklagte bisher nicht erstattet hat.
 
 Die Klägerin hält ihren Anspruch auf Verzugszinsen aufrecht. Verzugszinsen sind ab dem Tag der Fälligkeit der Mietzinsminderung geschuldet, somit ab dem [[date|1. April 2026]].
@@ -91,6 +95,8 @@ Die Klägerin stellt daher den Antrag,
 das Gericht möge die Beklagte schuldig erkennen, der Klägerin EUR 14.200,00 samt 4 % Zinsen seit dem Tag der Klagseinbringung binnen 14 Tagen zu bezahlen.
 
 Die Kosten des Verfahrens werden nach dem Ergebnis verzeichnet.
+
+Die Beklagte hat den Schaden am [[date|27. Februar 2026]] schriftlich bestätigt, eine Zahlung wurde aber nicht geleistet. Die Mietzinsminderung wurde vom Hausverwalter zunächst anerkannt und später wieder zurückgenommen, was die Klägerin ebenfalls dokumentiert hat. Die Klägerin hält an ihrem Antrag in vollem Umfang fest.
 
 5. Beilagen
 

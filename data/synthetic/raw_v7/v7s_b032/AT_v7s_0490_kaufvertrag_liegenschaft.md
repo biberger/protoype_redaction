@@ -28,8 +28,8 @@ vertreten durch den Geschäftsführer [[person|Bertram Mag. Dr. Veit]], geb [[da
 und
 
 Käufer:
-[[person|MARISA Ing.
-MAGNUS]], *[[date_of_birth|1973-05-15]]
+[[person|Marisa Ing.
+Magnus]], *[[date_of_birth|1973-05-15]]
 [[person|MMag. Desidera Kretz]], *[[date_of_birth|1943-07-05]]
 gemeinsam wohnhaft in [[address|3392 Dunkelsteinerwald]]
 
@@ -77,7 +77,7 @@ Die Vertragsparteien erteilen der Kanzlei die Vollmacht, alle für die Eintragun
 
 IX. Gerichtsstand
 
-Für alle Streitigkeiten aus diesem Vertrag ist das Gericht am Ort der Liegenschaft zuständig. Die Parteien verzichten auf ein anderes Forum. Die Käufer nehmen zur Kenntnis, dass für Klagen gegen die Verkäuferin ein eigener Gerichtsstand nicht vereinbart wurde. Die Kosten einer Streitigkeit tragen die unterliegende Partei.
+Für alle Streitigkeiten aus diesem Vertrag ist das Gericht am Ort der Liegenschaft zuständig. Die Parteien verzichten auf ein anderes Forum. Die Käufer nehmen zur Kenntnis, dass für Klagen gegen die Verkäuferin ein eigener Gerichtsstand nicht vereinbart wurde. Die Kosten einer Streitigkeit tragen die unterliegende Partei. Dies gilt auch für die Kosten der Kanzlei.
 
 Unterfertigung
 

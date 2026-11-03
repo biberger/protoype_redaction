@@ -39,7 +39,7 @@ Die Kaution wurde bei Vertragsbeginn in bar übergeben und auf ein Sparbuch der 
 
 Eine Aufrechnung mit angeblichen Schäden an der Wohnung lehnen wir ab. Die Schäden, die Sie in Ihrem Schreiben vom [[date|10. September 2026]] behaupten, wurden weder im Übergabeprotokoll festgehalten noch innerhalb der Frist schriftlich gerügt.
 
-Wir fordern Sie daher auf, die Kaution samt Zinsen bis zum [[date|10. November 2026]] auf das Konto unserer Mandantin zu überweisen. Die Zahlungsverbindung lautet:
+Wir fordern Sie daher auf, die Kaution samt Zinsen bis zum [[date|30. Oktober 2026]] auf das Konto unserer Mandantin zu überweisen. Die Zahlungsverbindung lautet:
 
 IBAN: [[bank_account|AT33 7614 5399 2939 4786]]
 

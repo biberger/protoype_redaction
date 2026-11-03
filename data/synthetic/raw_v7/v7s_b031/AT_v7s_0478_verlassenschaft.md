@@ -81,7 +81,7 @@ Die Kosten der Verlassenschaftsabhandlung, insbesondere die Notarkosten und die 
 
 **7a. Gerichtliche Genehmigung**
 
-Die Veräußerung der Liegenschaft in Absam ist vor der Einantwortung nur mit Genehmigung des Verlassenschaftsgerichts zulässig, weil ein Erbe minderjährig ist. Der Antrag ist nach Vorliegen der Schätzungsgutachten zu stellen. Die Kosten der Schätzung trägt der Nachlass.
+Die Veräußerung der Liegenschaft in [[location|Absam]] ist vor der Einantwortung nur mit Genehmigung des Verlassenschaftsgerichts zulässig, weil ein Erbe minderjährig ist. Der Antrag ist nach Vorliegen der Schätzungsgutachten zu stellen. Die Kosten der Schätzung trägt der Nachlass.
 
 Die Erbin [[person|Löwe Adely]] hat auf ihre Rechte aus dem Pflichtteil nicht verzichtet, und das Gericht hat die Erbantrittserklärung der Erbin [[person|Alearisi]] mit einer Frist von vier Wochen zur Ergänzung zurückgestellt. Eine Ausgleichszahlung zwischen den Erben wurde nicht vereinbart.
 

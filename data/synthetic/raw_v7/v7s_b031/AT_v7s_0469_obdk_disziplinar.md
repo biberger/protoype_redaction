@@ -11,7 +11,7 @@ GZ [[case_number|DSK 17/2026]]
 
 **Erkenntnis**
 
-Die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] (im Folgenden: [[court|OBDK]]) hat durch den Senat, bestehend aus dem Vorsitzenden Hofrätin [[judge|Theda Zahn]] und den Mitgliedern [[judge|Dr. Cyprian Legler]] sowie [[judge|Dr. Poldi Bodingbauer]], im Beisein des Schriftführers [[person|Franciscus Feuerstein]] sowie in Gegenwart der Kammeranwältin [[person|Dr. Wladyslawa Kryzhanivska]] in der Disziplinarsache gegen den Rechtsanwalt [[lawyer|Alex Seipelt]], Geburtsdatum: [[date_of_birth|3. Mai 1936]], StA. [[country|Syrien]], wegen Verletzung von Berufspflichten nach der [[legal_norm|RAO]] nach öffentlicher mündlicher Verhandlung am [[date|27. Oktober 2026]] erkannt:
+Die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] (im Folgenden: [[court|OBDK]]) hat durch den Senat, bestehend aus der Vorsitzenden Hofrätin [[judge|Theda Zahn]] und den Mitgliedern [[judge|Dr. Cyprian Legler]] sowie [[judge|Dr. Poldi Bodingbauer]], im Beisein des Schriftführers [[person|Franciscus Feuerstein]] sowie in Gegenwart der Kammeranwältin [[person|Dr. Wladyslawa Kryzhanivska]] in der Disziplinarsache gegen den Rechtsanwalt [[lawyer|Alex Seipelt]], Geburtsdatum: [[date_of_birth|3. Mai 1936]], StA. [[country|Syrien]], wegen Verletzung von Berufspflichten nach der [[legal_norm|RAO]] nach öffentlicher mündlicher Verhandlung am [[date|27. Oktober 2026]] erkannt:
 
 Die Berufung des Beschuldigten gegen das Erkenntnis des [[court|Disziplinarrat der Rechtsanwaltskammer für Wien]] vom [[date|5. Juni 2025]] wird als unbegründet abgewiesen. Der Beschuldigte wird schuldig erkannt, er hat
 

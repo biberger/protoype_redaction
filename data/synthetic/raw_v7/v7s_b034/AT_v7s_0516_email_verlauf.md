@@ -34,6 +34,8 @@ Die Gegnerin ist die [[organization|Mitter GmbH]], [[company_register_number|FN 
 
 Bitte senden Sie uns das Gutachten des Sachverständigen sowie die Fotos vom Unfallort. Mein Mandant bestätigt, dass der Lieferwagen ohne Anhalten aus der Einfahrt gefahren ist. Ein Zeuge, Herr [[person|Robert Hinteregger]], hat den Vorfall ebenfalls beobachtet; seine Kontaktdaten reichen wir nach. Ihr Stellplatz liegt auf dem Grundstück [[land_register_id|2304/Altenberg an der Rax]] ([[court|BG Deutschlandsberg]]); [[land_register_id|Gst.Nr. 534/21]], das wir für die Darstellung der Einfahrt benötigen. Die Vorlage des Kfz-Scheines wäre hilfreich, ebenso die Bestätigung des Mietwagenunternehmens über die Nutzungsausfallentschädigung. Ich ersuche um kurze Rückmeldung bis Ende der Woche, damit wir die Klagsvorbereitung rechtzeitig einleiten können.
 
+Eine Kopie des Gutachtens sowie der Lichtbilder ersuchen wir Sie im Original zu übermitteln, da die Kopie der Versicherung nur in Teilen lesbar ist. Der Mandant ist bereit, einen Termin zur Besichtigung des Fahrzeuges zu vereinbaren, und stellt das Fahrzeug bis dahin unverändert zur Verfügung.
+
 Mit freundlichen Grüßen
 [[lawyer|Mag. Gerlinde Kräftner]]
 
@@ -49,7 +51,7 @@ in der Sache Ihr Zeichen: [[other_identifier|RRB-RRBNachbaur/Jud]] nehme ich nam
 
 Die Schadenhöhe ist aus Sicht der Gegnerin überhöht. Der Wiederbeschaffungswert laut Gutachten liegt nach unserer Einschätzung deutlich unter dem Betrag, den Sie fordern. Ein Restwert ist zu berücksichtigen. Wir bieten einen Vergleich über EUR 6.400,00 an. Die Zahlung soll auf das Konto [[bank_account|AT73 2969 5857 0808 8586]] erfolgen.
 
-Ergänzend weisen wir darauf hin, dass der Lieferwagen zum Unfallzeitpunkt einen defekten Fahrtrichtungsanzeiger aufwies, was die Sichtbarkeit der Einfahrt zusätzlich beeinträchtigt haben kann. Wir behalten uns vor, ein eigenes Gutachten einzuholen, sollte die Gegenseite auf dem Totalschadenswert bestehen.
+Ergänzend weisen wir darauf hin, dass der Lieferwagen zum Unfallzeitpunkt einen defekten Fahrtrichtungsanzeiger aufwies, was die Sichtbarkeit der Einfahrt zusätzlich beeinträchtigt haben kann. Wir behalten uns vor, ein eigenes Gutachten einzuholen, sollte die Gegenseite auf dem Totalschadenswert bestehen. Wir hoffen dennoch auf eine rasche Einigung. Vielen Dank vorab.
 
 Mit freundlichen Grüßen
 [[person|Dorle David]]

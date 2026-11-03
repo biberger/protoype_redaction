@@ -135,6 +135,11 @@ XII. SCHLUSSBESTIMMUNGEN
 3. Sollte eine Bestimmung unwirksam sein, bleibt der Vertrag im Übrigen wirksam.
 4. Gerichtsstand für Streitigkeiten aus diesem Vertrag ist das für die Lage der Liegenschaften zuständige Gericht.
 
+5. Änderungen der Angaben zu den Käufern, insbesondere der Anschrift, sind der Kanzlei unverzüglich mitzuteilen. Mitteilungen gelten an die zuletzt bekanntgegebene Anschrift als zugestellt.
+6. Die Parteien erklären, dass die Angaben zu den Geburtsdaten für die Grundbuchseintragung richtig sind. Die Kanzlei ist berechtigt, die Geburtsdaten aus den Personaldokumenten zu übernehmen.
+
+7. Die Vertragsparteien nehmen zur Kenntnis, dass die Kanzlei keine Gewähr für den Bestand der Dienstbarkeiten übernimmt, die aus älteren Urkunden stammen und im Grundbuch nicht ersichtlich sind.
+
 XIII. ANLAGEN
 
 Anlage ./A: Grundbuchsauszug der [[land_register_id|EZ 2666]] vom [[date|8. Mai 2026]]

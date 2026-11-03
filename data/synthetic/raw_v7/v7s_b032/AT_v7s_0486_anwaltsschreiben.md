@@ -48,11 +48,11 @@ Frau [[person|Niedertscheider Ludmilla, Mag.]] hat das Wohnrecht bis zu ihrem Ab
 
 Herr [[person|Grasl]] hat in einem Telefonat vom [[date|17. Oktober 2025]] angekündigt, den Vertrag nicht erfüllen zu wollen, solange das Wohnrecht bestehe. Diese Ankündigung halten wir für unzulässig, weil das Wohnrecht vor dem Verkauf eingetragen war.
 
-Wir ersuchen Sie daher, binnen 14 Tagen schriftlich zu bestätigen, dass die Restzahlung bis zum genannten Termin geleistet wird. Andernfalls wird unsere Mandantin den Rücktritt vom Vertrag erklären und die Rückabwicklung samt Ersatz der Aufwendungen geltend machen. Die Rücktrittserklärung haben wir bereits vorbereitet. Wir behalten uns vor, zusätzlich Verzugszinsen geltend zu machen.
+Wir ersuchen Sie daher, binnen 14 Tagen schriftlich zu bestätigen, dass die Restzahlung bis zum genannten Termin geleistet wird. Andernfalls wird unsere Mandantin den Rücktritt vom Vertrag erklären und die Rückabwicklung samt Ersatz der Aufwendungen geltend machen. Die Rücktrittserklärung haben wir bereits vorbereitet. Wir behalten uns vor, zusätzlich Verzugszinsen geltend zu machen. Dies gilt unbeschadet weiterer Ansprüche.
 
 Zur Klarstellung halten wir fest, dass sich das Wohnrecht auf die Wohnung im Obergeschoss bezieht und nicht auf das Nebengebäude. Ein Lageplan ist diesem Schreiben angeschlossen. Der Verkehrswert des Wohnrechts wurde im Jahr 2019 mit EUR 38.000,00 bewertet. Dieser Wert ist für die Berechnung der Ausgleichsansprüche maßgeblich. Das Gutachten stammt vom [[date|12. Februar 2019]] und wurde von einem beeideten Sachverständigen erstellt. Die Mandantin hat den Lageplan zusätzlich mit ihren Notizen versehen, um die Abgrenzung zu verdeutlichen. Frau [[person|Niedertscheider Ludmilla, Mag.]] ist mit einer Besichtigung des Objekts durch Ihren Vertreter einverstanden, sofern diese mit ihr abgestimmt wird und die Räume nicht betreten werden, die dem Wohnrecht unterliegen. Die Besichtigung ist auf einen Werktag zwischen 9 und 12 Uhr zu beschränken.
 
-Wir bitten, diese Anregung bei der weiteren Korrespondenz zu berücksichtigen. Eine Terminvereinbarung kann über unsere Kanzlei erfolgen.
+Wir bitten, diese Anregung bei der weiteren Korrespondenz zu berücksichtigen. Eine Terminvereinbarung kann über unsere Kanzlei erfolgen. Wir bitten um eine schriftliche Rückmeldung.
 
 Mit freundlichen Grüßen
 

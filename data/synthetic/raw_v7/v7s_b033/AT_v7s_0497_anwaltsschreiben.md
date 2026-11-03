@@ -55,6 +55,8 @@ Wir fordern Sie daher auf, bis zum [[date|18. September 2026]] den Betrag von EU
 
 Sollten Sie die Deckung ablehnen, ersuchen wir um eine schriftliche Begründung mit Angabe der ausgeschlossenen Klausel. Für eine Erledigung im Vergleichsweg stehen wir gerne zur Verfügung.
 
+Zur Vermeidung eines Verfahrens sind wir bereit, einen Vergleich über die Hauptforderung abzuschließen, wenn die Versicherung bis zum [[date|18. September 2026]] ein Angebot vorlegt. Ein Vergleichsangebot unter EUR 7.500,00 werden wir ohne Rücksprache mit unserem Mandanten nicht annehmen. Die Kosten der außergerichtlichen Vertretung in Höhe von EUR 1.128,60 sind dabei gesondert zu ersetzen.
+
 Mit freundlichen Grüßen
 
 [[person|Petrović]]

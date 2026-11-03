@@ -105,6 +105,8 @@ Mildernd sind die bisherige Unbescholtenheit und der teilweise Ausgleich des Feh
 
 Die Beschuldigte hat die Kosten des Verfahrens zu tragen.
 
+Die Strafbemessung orientiert sich an der Höhe des betroffenen Betrags, an der Dauer der Pflichtverletzung und an der Einsicht der Beschuldigten. Der Senat hat gewürdigt, dass die Beschuldigte im Verfahren nicht bestritten hat, die Zahlung veranlasst zu haben, und dass sie sich um die Rückbuchung bemüht hat.
+
 Der Vorsitzende [[judge|Wali]] verkündet den Beschluss. Die Beisitzer [[judge|Hofer]] und [[judge|Falch]] haben zugestimmt.
 
 Belehrung: Gegen diesen Beschluss kann die Beschuldigte und der Kammeranwalt Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] einbringen.

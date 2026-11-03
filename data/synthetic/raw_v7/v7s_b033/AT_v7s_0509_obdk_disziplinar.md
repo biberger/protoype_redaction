@@ -104,6 +104,10 @@ Die Geldbuße von EUR 9.000,00 erscheint unter Berücksichtigung der wirtschaftl
 
 Die Beisitzer haben dem Spruch einstimmig zugestimmt. Die Vorsitzende hat die Begründung verlesen.
 
+Der Senat hat bei der Strafbemessung auch berücksichtigt, dass der Beschuldigte als Treuhänder eine besondere Vertrauensstellung innehatte. Die Klientinnen und Klienten einer Kanzlei dürfen darauf vertrauen, dass ihre Gelder vollständig und unangetastet verwahrt werden. Wer diese Erwartung enttäuscht, verletzt nicht nur die Interessen des Einzelnen, sondern das Ansehen des gesamten Berufsstandes.
+
+Die Geldbuße von EUR 9.000,00 liegt im unteren Drittel des Rahmens, den die Rechtsanwaltsordnung für vergleichbare Verstöße vorsieht. Eine höhere Buße wäre nur bei weiteren Vorwürfen gerechtfertigt gewesen, die nicht Gegenstand dieses Verfahrens sind.
+
 Belehrung: Gegen dieses Erkenntnis steht dem Beschuldigten und der Kammeranwältin die Berufung offen.
 
 [[location|Bregenz]], am [[date|22. Mai 2026]]

@@ -12,6 +12,8 @@ Sehr geehrter Herr Rechtsanwalt,
 
 anbei erhalten Sie die Unterlagen zur Klage gegen den Lieferanten. Die Firma [[organization|Speiser e.U.]] ([[company_register_number|FN 224238m]], UID [[tax_id|ATU77241897]]) hat die Rechnungen nicht bezahlt. Die Gesamtforderung beträgt EUR 9.412,00.
 
+Die Unterlagen umfassen den Werkvertrag, den Lieferschein, die Rechnungen samt Zahlungserinnerungen und den Schriftwechsel mit dem Geschäftsführer bis zum Februar 2026. Die Klienten-Nr. bitte ich bei allen weiteren Schreiben anzuführen.
+
 Bitte bestätigen Sie den Eingang.
 
 Mit freundlichen Grüßen
@@ -34,7 +36,7 @@ Sehr geehrter Herr [[person|Mag. Dr. Novy]],
 
 ich habe die Unterlagen erhalten. Vor der Klageeinbringung ersuche ich um Übermittlung des Mahnschreibens an [[person|Krüger]]. Die [[organization|Speiser e.U.]] ist Ihrem Vorbringen nach zur Zahlung verpflichtet, die Gegenseite wird die Verjährung des Anspruches aber bestreiten.
 
-Die Klage wird beim [[court|BG Baden]] eingebracht, wenn die Mahnung ohne Erfolg bleibt.
+Die Klage wird beim [[court|BG Baden]] eingebracht, wenn die Mahnung ohne Erfolg bleibt. Ich bitte um Rückmeldung bis Ende der Woche, damit wir die Frist für die Klage wahren können.
 
 Mit besten Grüßen
 
