@@ -81,9 +81,41 @@ VI. Schlussbestimmungen
 
 4. Ein Exemplar des Vertrages erhält jede Partei sowie das Grundbuchsgericht.
 
+VIII. Dienstbarkeiten und Wegerechte
+
+1. Die Liegenschaft ist mit einem Wegerecht zugunsten des Nachbargrundstücks belastet, das im Grundbuch eingetragen ist. Der Käufer übernimmt dieses Recht ohne Abzug vom Kaufpreis.
+
+2. Eine Leitungsdienstbarkeit zugunsten der Gemeinde für die Wasserversorgung besteht. Die Verkäufer haben die Wartungsverpflichtungen aus dieser Dienstbarkeit bis zum Übergabetag erfüllt.
+
+3. Weitere Dienstbarkeiten, die nicht im Grundbuch ersichtlich sind, bestehen nach Kenntnis der Verkäufer nicht. Die Verkäufer haften für die Vollständigkeit dieser Erklärung im Rahmen der gesetzlichen Bestimmungen.
+
+IX. Erklärungen der Verkäufer
+
+1. Die Verkäufer erklären, dass die Liegenschaft nicht Gegenstand eines Verfahrens nach dem Außerstreitgesetz ist und dass über sie keine Zwangsversteigerung anhängig ist.
+
+2. Die Verkäufer halten das Eigentum je zur Hälfte. Beide erklären, dass der Vertrag von beiden unterfertigt wird und dass keine weiteren Eigentümer, Pfandgläubiger oder Berechtigten außer den im Grundbuch eingetragenen vorhanden sind.
+
+3. Die Verkäufer bestätigen, dass Bauarbeiten, die einer Baubewilligung bedurft hätten, nicht ohne Bewilligung ausgeführt wurden. Der Zubau aus dem Jahr 2004 wurde nach den vorliegenden Bescheiden genehmigt, die Bescheide liegen den Kaufunterlagen bei.
+
+4. Die Käuferin erklärt, dass sie die Liegenschaft zu Wohnzwecken erwirbt und keine gewerbliche Nutzung beabsichtigt, außer eine solche wird ausdrücklich genehmigt.
+
+X. Datenschutz und Salvatorische Klausel
+
+1. Die Parteien stimmen zu, dass ihre personenbezogenen Daten für die Abwicklung dieses Vertrages, für die Eintragung im Grundbuch und für die Abgabenbehörden verarbeitet werden. Die Verarbeitung erfolgt auf Grundlage der [[legal_norm|Datenschutz-Grundverordnung]].
+
+2. Sollte eine Bestimmung dieses Vertrages unwirksam sein, bleibt der übrige Vertrag wirksam. Die Parteien verpflichten sich, die unwirksame Bestimmung durch eine wirksame zu ersetzen, die dem wirtschaftlichen Zweck am nächsten kommt.
+
+XI. Anlagen
+
+Beilage ./1: Lageplan des Vermessungsbüros
+Beilage ./2: Grundbuchsauszug vom [[date|18. August 2026]]
+Beilage ./3: Vollmacht der Verkäufer vom [[date|10. September 2026]]
+Beilage ./4: Kopien der Ausweise der Vertragsparteien
+Beilage ./5: Baubewilligungsbescheide
+
 Die einschreitenden Rechtsanwälte weisen darauf hin, dass der Vertrag nur dann wirksam wird, wenn die Grunderwerbsteuer fristgerecht angezeigt ist. Für die Richtigkeit der Eintragungsanträge übernehmen wir keine Gewähr, soweit die Grundbuchsdaten von den hier wiedergegebenen Angaben abweichen.
 
-Erwerbervertreter, Kantor Parsifal, bestätigt die Angaben zur Käuferin. Die Angaben zur Person sind dem Reisepass zu entnehmen, Kopien liegen bei.
+Erwerbervertreter, [[person|Kantor Parsifal]], bestätigt die Angaben zur Käuferin. Die Angaben zur Person sind dem Reisepass zu entnehmen, Kopien liegen bei.
 
 Unterzeichnet in [[address|8950 Stainach-Pürgg]] am [[date|17. September 2026]].
 

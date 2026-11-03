@@ -40,9 +40,27 @@ e) Eine Lebensversicherung der [[organization|IBG]], Vers.-Nr. [[other_identifie
 
 Die Schulden des Erblassers belaufen sich auf EUR 4.230,00, davon entfallen EUR 3.100,00 auf eine Kreditkarte und EUR 1.130,00 auf Betriebskosten der Eigentumswohnung. Die Begräbniskosten wurden von der Erbin [[person|Kindl]] vorgelegt und sind in der Verlassenschaft zu ersetzen.
 
+Das Nachlassinventar weist die Aktiva wie folgt aus:
+
+Position | Wert in EUR
+Liegenschaft laut Position a) | 186.000,00
+Eigentumswohnung laut Position b) | 128.500,00
+Kommanditanteil laut Position c) | 21.700,00
+Bankguthaben laut Position d) | 12.418,35
+Lebensversicherung laut Position e) | 9.000,00
+Summe der Aktiva | 357.618,35
+abzüglich Passiva | 4.230,00
+Nettonachlass | 353.388,35
+
+Die Wohnung ist seit dem Todestag vermietet. Der Mietvertrag wurde vom Erblasser am [[date|1. Mai 2017]] abgeschlossen. Die Erbin [[person|Ing. Alwera Kindl]] hat die Hausverwaltung übernommen und ist für die Betriebskostenabrechnung zuständig, die Abrechnung für das Jahr 2025 liegt vor.
+
+Der Pflichtteilsanspruch der Erbin [[person|Kindl]] ist durch die Erbquote gedeckt, weshalb eine gesonderte Pflichtteilsberechnung nicht erforderlich ist. Die Lebensgefährtin [[person|Wiesner]] zählt nicht zum Kreis der Pflichtteilsberechtigten. Ihr Anspruch beruht allein auf dem Testament, das wirksam errichtet ist und dessen Echtheit von keinem Beteiligten bestritten wird.
+
 Die Erbenliste ist für alle Beteiligten einsehbar. Einwendungen gegen die Erbquoten sind binnen vier Wochen ab Zustellung dieser Mitteilung schriftlich beim Notar einzubringen. Die Erbin [[person|Ing. Alwera Kindl]] hat bereits erklärt, dass sie die Wohnung behalten möchte und die Lebensversicherung der [[person|Wiesner]] überlassen wird, falls diese den Pflichtteil nicht verlangt.
 
 Die Erbantrittserklärung der [[person|Wiesner]] ist am [[date|14. Oktober 2019]] beim Notar eingelangt, sie wurde mit dem Testament vom [[date|12. März 2014]] verglichen. Die Erbantrittserklärung der Tochter [[person|Kindl]] folgte am [[date|28. Oktober 2019]].
+
+Die Abhandlung bleibt offen, bis alle Urkunden vorliegen. Der Notar hat die Abgabenbehörde ersucht, den Erbschaftssteueranspruch zu prüfen; nach den geltenden Bestimmungen fällt eine Erbschaftssteuer nicht an. Die Unterlagen zur Liegenschaft wurden beim [[court|Bezirksgericht Imst]] angefordert, weil die Grundbuchsabschrift der [[land_register_id|E.Z. 1894]] noch nicht eingelangt ist. Sobald die Abschrift vorliegt, wird der Schätzwert nochmals überprüft.
 
 Rückfragen richten Sie bitte an die Kanzlei unter Tel. [[phone_number|+43 732 529 98 49-59]]. Die Mitteilung ergeht nach Ablauf der Einwendungsfrist in beglaubigter Form.
 

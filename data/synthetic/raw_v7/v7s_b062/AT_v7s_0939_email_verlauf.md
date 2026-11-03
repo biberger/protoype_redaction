@@ -11,7 +11,7 @@ Betreff: Ihr Zeichen: [[other_identifier|L/Segal/8773]]
 
 Sehr geehrte Frau [[person|Segal]],
 
-wir haben das Schreiben der [[organization|Sima GmbH]] erhalten. Die [[organization|Sima]] verweist auf die Schaden-Nr. [[other_identifier|43/619006/23]] und möchte den Vorfall auf der Baustelle in [[location|St. Veit an der Glan]] nicht anerkennen. Bitte senden Sie uns bis zum [[date|5. November 2026]] die Fotos des Schadens. Die [[organization|ZTK]] hat ihr Gutachten noch nicht vorgelegt. Sollte die Gegenseite weiterhin bestreiten, werden wir einen Sachverständigen aus dem Bereich der Bauschäden beauftragen. Die Kosten dafür werden nach Auftragserteilung gesondert angekündigt. Wir bitten um Mitteilung, ob Ihre Mandantin einer Begehung zustimmt.
+wir haben das Schreiben der [[organization|Sima GmbH]] erhalten. Die [[organization|Sima]] verweist auf die Schaden-Nr. [[other_identifier|43/619006/23]] und möchte den Vorfall auf der Baustelle in [[location|St. Veit an der Glan]] nicht anerkennen. Bitte senden Sie uns bis zum [[date|2. November 2026]] die Fotos des Schadens. Die [[organization|ZTK]] hat ihr Gutachten noch nicht vorgelegt. Sollte die Gegenseite weiterhin bestreiten, werden wir einen Sachverständigen aus dem Bereich der Bauschäden beauftragen. Die Kosten dafür werden nach Auftragserteilung gesondert angekündigt. Wir bitten um Mitteilung, ob Ihre Mandantin einer Begehung zustimmt.
 
 Mit freundlichen Grüßen
 [[person|Hackl]]
@@ -52,7 +52,7 @@ An: [[person|Hackl]]
 Betreff: AW: Stellungnahme [[organization|Sima]]
 
 Sehr geehrter Herr [[person|Hackl]],
-ich bestätige, dass ich die Abnahme alleine vorgenommen habe. Die Dokumentation befindet sich im Bautagebuch der [[organization|Sima]] und kann auf Anfrage übermittelt werden. Die [[organization|Sima]] bestätigt zudem, dass die Platten laut Lieferschein von der Lieferung vom [[date|3. Oktober 2026]] stammen und bei der Anlieferung keine Mängel festgestellt wurden. Bitte richten Sie Rückfragen an [[person|Albach]] oder an die [[organization|Sima]] selbst.
+ich bestätige, dass ich die Abnahme alleine vorgenommen habe. Die Dokumentation befindet sich im Bautagebuch der [[organization|Sima]] und kann auf Anfrage übermittelt werden. Bitte bestätigen Sie den Empfang dieser Nachricht. Wir danken für die rasche Rückmeldung. Die [[organization|Sima]] bestätigt zudem, dass die Platten laut Lieferschein von der Lieferung vom [[date|3. Oktober 2026]] stammen und bei der Anlieferung keine Mängel festgestellt wurden. Bitte richten Sie Rückfragen an [[person|Albach]] oder an die [[organization|Sima]] selbst.
 
 Mit freundlichen Grüßen
 [[person|Jamile Taher]]

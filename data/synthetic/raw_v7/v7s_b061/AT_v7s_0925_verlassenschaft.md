@@ -26,7 +26,13 @@ Folgende Personen sind zur Erbschaft berufen:
 2. [[person|Tsatsos Irini]], GEB: [[date_of_birth|8. September 1959]], Erbin zur Hälfte;
 3. [[person|Augustus Rendulic]], *[[date_of_birth|1940-05-20]], Erbe zu einem Achtel.
 
-Der Anteil des Erbes von [[person|Rendulic]] ist nach dem Testament vom [[date|03.03.2014]] auf den Teil des Nachlasses beschränkt, der nicht dem Legat an [[person|Müllner]] unterliegt. Das Testament wurde von der Erblasserin [[person|Flemming]] eigenhändig verfasst und hinterlegt. Das Legat an [[person|Müllner]] umfasst die Übergabe des Pkw und einen Barbetrag von EUR 5.000,00, der binnen eines Jahres nach Einantwortung auszuzahlen ist. Die Erblasserin hat im Testament ausdrücklich festgehalten, dass das Legat dem Legatar als Dank für die Pflege in den letzten Lebensjahren zukommen soll. Ein Pflichtteilsanspruch der Erbin [[person|Tsatsos]] besteht nicht.
+Der Anteil des Erbes von [[person|Rendulic]] ist nach dem Testament vom [[date|03.03.2014]] auf den Teil des Nachlasses beschränkt, der nicht dem Legat an [[person|Müllner]] unterliegt. Das Testament wurde von der Erblasserin [[person|Flemming]] eigenhändig verfasst und hinterlegt. Das Legat an [[person|Müllner]] umfasst die Übergabe des Pkw und einen Barbetrag von EUR 5.000,00, der binnen eines Jahres nach Einantwortung auszuzahlen ist. Die Erblasserin hat im Testament ausdrücklich festgehalten, dass das Legat dem Legatar als Dank für die Pflege in den letzten Lebensjahren zukommen soll. Die Erbin ist im Verlassenschaftsakt wie folgt bezeichnet:
+
+[[person|Tsatsos Irini]]
+GEB: [[date_of_birth|8. September 1959]]
+[[address|Ringstraße 9/2, 3100 St. Pölten]]
+
+Ein Pflichtteilsanspruch der Erbin [[person|Tsatsos]] besteht nicht.
 
 II. Nachlassvermögen
 
@@ -77,11 +83,11 @@ Ein Pflichtteilsberechtigter ist nach der Aktenlage nicht vorhanden. Die Erblass
 
 Die Gläubiger wurden mit Edikt vom [[date|20.11.2021]] zur Anmeldung ihrer Forderungen aufgefordert. Die Anmeldefrist endete am [[date|20.01.2022]]. Nach Ablauf der Frist sind keine weiteren Forderungen eingelangt, sodass die Verteilung auf die bisher angemeldeten Forderungen beschränkt bleibt.
 
-Die Frage der Verwendung des Verlassenschaftskontos wurde mit dem Gericht abgestimmt. Die Kontoführung erfolgte gebührenfrei, bis die Verteilung abgeschlossen ist. Mit der Verteilung ist die Verlassenschaft erst dann beendet, wenn der letzte Betrag überwiesen und die Löschungsquittung für das Pfandrecht vorliegt.
+Die Frage der Verwendung des Verlassenschaftskontos wurde mit dem Gericht abgestimmt. Die Abrechnung über das Konto wird dem Gericht mit der Schlussrechnung vorgelegt und enthält sämtliche Ein- und Ausgänge seit dem Todestag. Die Kontoführung erfolgte gebührenfrei, bis die Verteilung abgeschlossen ist. Mit der Verteilung ist die Verlassenschaft erst dann beendet, wenn der letzte Betrag überwiesen und die Löschungsquittung für das Pfandrecht vorliegt.
 
 V. Schluss der Niederschrift
 
-Die Niederschrift wurde den Erschienenen vorgelesen, von ihnen genehmigt und eigenhändig unterfertigt. Für telefonische Rückfragen steht die Kanzlei unter [[phone_number|07242/3441786 Durchwahl 47]] zur Verfügung. Die Erben haben die Ausfertigung dieser Niederschrift zur Kenntnis genommen und auf eine weitere Verlesung verzichtet. Die Kosten der Niederschrift werden nach dem Verlassenschaftsvermögen verrechnet.
+Die Niederschrift wurde den Erschienenen vorgelesen, von ihnen genehmigt und eigenhändig unterfertigt. Für telefonische Rückfragen steht die Kanzlei zur Verfügung, Tel. [[phone_number|07242/3441786 Durchwahl 47]]. Die Erben haben die Ausfertigung dieser Niederschrift zur Kenntnis genommen und auf eine weitere Verlesung verzichtet. Die Kosten der Niederschrift werden nach dem Verlassenschaftsvermögen verrechnet und sind in der Schlussrechnung gesondert ausgewiesen, damit die Erben die Berechnung der Gerichtsgebühren nachvollziehen können.
 
 Erschienen:
 

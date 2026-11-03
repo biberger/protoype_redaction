@@ -65,7 +65,7 @@ Der Senat hat weiters berücksichtigt, dass der Beschuldigte als Rechtsanwalt im
 
 Die Kammeranwältin [[person|Dr. Bujak]] hat in ihrem Schlussvortrag beantragt, den Beschuldigten mit einer Geldbuße im mittleren Bereich zu belegen und zusätzlich die Veröffentlichung des Spruches anzuordnen. Der Senat folgt diesem Antrag hinsichtlich der Geldbuße nicht vollständig, weil die Rückzahlung der [[person|Pollak]] zugeflossenen Gelder zugunsten des Beschuldigten zu berücksichtigen ist. Eine Veröffentlichung wurde nicht angeordnet, weil der Senat in der Person des Beschuldigten keine Wiederholungsgefahr erkennt, die eine solche Maßnahme erfordern würde.
 
-Der Beschuldigte hat in seinem Schlusswort erklärt, er bedauere die Verzögerungen bei der Rückzahlung. Er werde seine Kanzleiorganisation umstellen und künftig nur noch Zahlungen aus dem Treuhandkonto leisten, für die eine schriftliche Weisung des Mandanten vorliegt. Diese Zusage hat der Senat zur Kenntnis genommen, sie vermag aber am Schuldspruch nichts zu ändern.
+Der Beschuldigte hat in seinem Schlusswort erklärt, er bedauere die Verzögerungen bei der Rückzahlung. Er werde seine Kanzleiorganisation umstellen und künftig nur noch Zahlungen aus dem Treuhandkonto leisten, für die eine schriftliche Weisung des Mandanten vorliegt. Diese Zusage hat der Senat zur Kenntnis genommen, sie vermag aber am Schuldspruch nichts zu ändern. Der Senat weist darauf hin, dass die Einhaltung dieser Zusage künftig von der Kammer überprüft werden kann, insbesondere durch unangekündigte Einsicht in das Treuhandbuch.
 
 V. Kosten
 

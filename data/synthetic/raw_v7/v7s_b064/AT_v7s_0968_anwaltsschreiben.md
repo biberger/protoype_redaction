@@ -15,7 +15,7 @@ EINGANG [[date|30.09.2026]] – [[organization|FLÜGEL KG]]
 
 [[organization|Flügel KG]]
 z. Hd. [[person|Edvin Mag. Dr. Knopp]]
-FN [[company_register_number|FN 636326z]], UID: [[tax_id|ATU21796135]]
+[[company_register_number|FN 636326z]], UID: [[tax_id|ATU21796135]]
 
 [[location|Mieming]], am [[date|28.09.2026]]
 

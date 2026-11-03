@@ -35,7 +35,7 @@ Zwischensumme netto: EUR 1.051,00
 20 % USt: EUR 210,20
 Gesamtbetrag: EUR 1.261,20
 
-Die Leistungen wurden für die Mandanten [[person|Dionysius Tauber]] und [[person|Zaboj Mach]] erbracht. Die Abrechnung erfolgt nach dem Zeitaufwand und den vereinbarten Stundensätzen. Barauslagen für Gerichtsgebühren sind in dieser Note nicht enthalten. Die Mandanten werden ersucht, Rückfragen zur Abrechnung innerhalb von zwei Wochen schriftlich an die Kanzlei zu richten. Die Kanzlei ist unter der Telefonnummer [[phone_number|+43 662 996 84 92-76]] erreichbar; die Sprechstunden finden nach Vereinbarung statt.
+Die Leistungen wurden für die Mandanten [[person|Dionysius Tauber]] und [[person|Zaboj Mach]] erbracht. Die Abrechnung erfolgt nach dem Zeitaufwand und den vereinbarten Stundensätzen: EUR 240,00 netto je Stunde für die Partnerin, EUR 150,00 netto je Stunde für Konzipienten. Die Zeiterfassung liegt der Kanzlei vollständig vor. Barauslagen für Gerichtsgebühren sind in dieser Note nicht enthalten. Die Mandanten werden ersucht, Rückfragen zur Abrechnung innerhalb von zwei Wochen schriftlich an die Kanzlei zu richten. Die Kanzlei ist unter der Telefonnummer [[phone_number|+43 662 996 84 92-76]] erreichbar; die Sprechstunden finden nach Vereinbarung statt.
 
 Zahlbar binnen 14 Tagen auf das Konto IBAN [[bank_account|AT57 4388 2766 7822 2755]], Verwendungszweck: [[other_identifier|296/26 MWC]].
 

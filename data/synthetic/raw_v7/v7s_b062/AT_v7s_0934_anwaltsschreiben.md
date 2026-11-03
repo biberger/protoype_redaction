@@ -36,7 +36,7 @@ Ergänzend weisen wir darauf hin, dass unsere Mandantin den Unfall nicht verschu
 
 Ein Schmerzengeldanspruch wird nach Abschluss der Behandlung beziffert. Die bisherigen Heilungskosten, insbesondere für Physiotherapie und Medikamente, belaufen sich auf den beiliegenden Rechnungen gemäß. Eine Mietwagenrechnung für den Zeitraum vom [[date|11. August 2026]] bis zum [[date|25. August 2026]] wird ebenfalls übermittelt. Ein Vorschuss in Höhe von EUR 500,00 wird für die Mietwagenkosten erbeten, sofern die Versicherung die Übernahme nicht sofort bestätigt. Wir sind für eine rasche Erledigung dankbar. Eine Kopie dieses Schreibens geht an unsere Mandantin. Mit freundlichen Grüßen bitten wir um Rückmeldung.
 
-Wir bitten Sie, bis zum [[date|15. November 2026]] schriftlich Stellung zu nehmen. Für Rückfragen steht Ihnen unser Büro unter [[phone_number|07242 216778]] zur Verfügung. Andernfalls werden wir die Ansprüche gerichtlich geltend machen.
+Wir bitten Sie, bis zum [[date|2. November 2026]] schriftlich Stellung zu nehmen. Für Rückfragen steht Ihnen unser Büro unter [[phone_number|07242 216778]] zur Verfügung. Andernfalls werden wir die Ansprüche gerichtlich geltend machen.
 
 Mit freundlichen Grüßen
 

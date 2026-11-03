@@ -22,7 +22,7 @@ I. Verfahrensgang
 
 Der Kammeranwalt hat die Anzeige gegen [[lawyer|Erla Leist]] am [[date|3. Februar 2026]] eingebracht. Die Rechtsanwältin ist seit dem Jahr 2011 in [[address|4600 Schleißheim]] niedergelassen. Der Vorwurf betrifft die Verwaltung von Treuhandgeldern für den Klienten [[person|Arash Gharman]]. Die Kammerwahl und die Zulassung zur Rechtsanwaltschaft sind unstrittig.
 
-Die Verhandlung wurde am [[date|14. Mai 2026]] in Anwesenheit der Beschuldigten und ihres Vertreters durchgeführt. Die Zeugeneinvernahme des Klienten erfolgte in [[location|St. Michael im Lungau]], die Vernehmung der Bankangestellten im Wege der Videokonferenz. Die Einvernahme des Klienten [[person|Arash Gharman]] ergab, dass dieser die Zahlung am [[date|12. März 2024]] persönlich übergeben hat und keine schriftliche Vereinbarung über die Verwendung der Gelder bestand. Der Senat hat die Akten der Kammer beigezogen; diese enthalten die Abrechnungen der Jahre 2024 und 2025 sowie den Schriftverkehr mit dem Klienten.
+Die Verhandlung wurde am [[date|14. Mai 2026]] in Anwesenheit der Beschuldigten und ihres Vertreters durchgeführt. Die Zeugeneinvernahme des Klienten erfolgte in [[location|St. Michael im Lungau]], die Vernehmung der Bankangestellten im Wege der Videokonferenz. Die Einvernahme des Klienten [[person|Arash Gharman]] ergab, dass dieser die Zahlung am [[date|12. März 2024]] persönlich übergeben hat und keine schriftliche Vereinbarung über die Verwendung der Gelder bestand. Der Senat hat die Akten der Kammer beigezogen; diese enthalten die Abrechnungen der Jahre 2024 und 2025 sowie den Schriftverkehr mit dem Klienten. Die Abrechnungen sind vollständig, lückenlos und von der Beschuldigten unterschrieben.
 
 II. Sachverhalt
 
@@ -53,9 +53,9 @@ Die Verjährung nach [[legal_norm|§ 3 DSt]] ist nicht eingetreten. Die Anzeige 
 
 IV. Strafbemessung
 
-Der Senat hat die Geldbuße unter Berücksichtigung der wirtschaftlichen Verhältnisse der Beschuldigten bemessen. Die Geldbuße wird mit EUR 4.000,00 festgesetzt und ist binnen vier Wochen zu entrichten. Die Kammer hat in ihrer Stellungnahme angeregt, die Geldbuße auf die Höhe der Gebühren für die Treuhandkontrolle zu beschränken; dem Antrag folgt der Senat nicht. Ein Teil des Betrages ist als Rückzahlung an den Klienten [[person|Gharman]] zu leisten.
+Der Senat hat die Geldbuße unter Berücksichtigung der wirtschaftlichen Verhältnisse der Beschuldigten bemessen. Die Geldbuße wird mit EUR 4.000,00 festgesetzt und ist binnen vier Wochen zu entrichten. Die Bemessung orientiert sich an vergleichbaren Fällen der Kammer aus den letzten fünf Jahren. Die Kammer hat in ihrer Stellungnahme angeregt, die Geldbuße auf die Höhe der Gebühren für die Treuhandkontrolle zu beschränken; dem Antrag folgt der Senat nicht. Ein Teil des Betrages ist als Rückzahlung an den Klienten [[person|Gharman]] zu leisten.
 
-Die Kosten des Verfahrens trägt die Beschuldigte. Eine Berufung ist innerhalb von zwei Wochen zulässig. Die Entscheidung ist im Umfang der Geldbuße vollstreckbar; ein Aufschub der Zahlung wird nicht gewährt, da keine Gründe dafür vorliegen.
+Die Kosten des Verfahrens trägt die Beschuldigte. Eine Berufung ist innerhalb von zwei Wochen zulässig. Die Entscheidung ist im Umfang der Geldbuße vollstreckbar; ein Aufschub der Zahlung wird nicht gewährt, da keine Gründe dafür vorliegen. Der Senat weist darauf hin, dass die Beschuldigte bei Zahlungsverzug mit der Einleitung eines weiteren Verfahrens rechnen muss.
 
 Die Senatsvorsitzende [[judge|Mikula]] hat die Verhandlung geleitet. Die Entscheidung wurde am [[date|14. Mai 2026]] verkündet und schriftlich ausgefertigt. Der Schriftführer [[person|Economides]] hat die Ausfertigung beglaubigt.
 

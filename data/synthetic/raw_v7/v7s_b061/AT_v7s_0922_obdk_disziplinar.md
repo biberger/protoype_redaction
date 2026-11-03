@@ -66,7 +66,7 @@ Der Beschuldigte hat außerdem die Entnahme von EUR 1.200,00 ohne vorherige Abre
 
 Der Senat hält die Geldbuße von EUR 3.500,00 für angemessen. Erschwerend ist die mehrfache Tathandlung, mildernd die Rückzahlung und die bisherige disziplinäre Unbescholtenheit des Beschuldigten. Zu berücksichtigen war ferner, dass die Klientin wegen ihrer Lage auf die Gelder angewiesen war und die Verzögerung der Rückzahlung für sie spürbare Nachteile brachte.
 
-Der Senat sieht keinen Anlass, die Geldbuße über den vom Disziplinarrat verhängten Betrag hinaus zu erhöhen, weil die Kammeranwältin keinen entsprechenden Antrag gestellt hat. Die Geldbuße wurde daher im Rahmen des Antrags der Kammer bestimmt.
+Der Senat sieht keinen Anlass, die Geldbuße über den vom Disziplinarrat verhängten Betrag hinaus zu erhöhen, weil die Kammeranwältin keinen entsprechenden Antrag gestellt hat. Die Geldbuße wurde daher im Rahmen des Antrags der Kammer bestimmt. Die [[organization|ORAK]] hat die Abrechnung dem Senat ebenfalls vorgelegt. Die Kammeranwältin hat außerdem darauf hingewiesen, dass die Klientin [[person|Stainer]] bis heute keine vollständige Abrechnung erhalten hat und die Kammer deshalb eine Nachfrist setzen möchte. Der Senat hat diese Anregung als berechtigt angesehen und dem Beschuldigten eine Frist von vier Wochen zur Vorlage der Abrechnung gesetzt.
 
 Der Beschuldigte hat in seinem Schlusswort um Milde ersucht und auf seine bisherige Tätigkeit für Mandanten in schwierigen familiären Angelegenheiten hingewiesen. Der Senat hat dies zur Kenntnis genommen. Die berufliche Verantwortung eines Rechtsanwalts im Umgang mit fremden Vermögenswerten wiegt jedoch schwerer als allgemeine Verdienste, weshalb eine weitere Herabsetzung der Geldbuße nicht in Betracht kam.
 

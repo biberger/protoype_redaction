@@ -70,7 +70,7 @@ III. Beweisanbote
 
 10. Die Schadensdokumentation ist unter der Schadennummer [[other_identifier|49/703212/26]] bei der Versicherung hinterlegt. Die Schaden-Nr. [[other_identifier|92/814332/20]] betrifft einen früheren Vorfall derselben Baustelle. Die Vertragsnummer [[other_identifier|LV-2022-69704]] ist die Lieferantenversicherung der Klägerin.
 
-11. Die Telefonnummer der Klägerin lautet Tel. [[phone_number|02742/4788191-7]]. Die Zustellung kann an die Geschäftsanschrift in [[address|8053 Graz]] erfolgen, sofern die Klägerin dies wünscht. Die Klägerin ist im Firmenbuch eingetragen und hat ihren Sitz in Braunau am Inn.
+11. Die Telefonnummer der Klägerin lautet Tel. [[phone_number|02742/4788191-7]]. Die Zustellung kann an die Geschäftsanschrift in [[address|8053 Graz]] erfolgen, sofern die Klägerin dies wünscht. Die Klägerin ist im Firmenbuch eingetragen; die Vertretungsbefugnis ihres Geschäftsführers ist dort ersichtlich.
 
 12. Das [[court|BG Braunau am Inn]] ist sachlich und örtlich zuständig, weil die Beklagten im Sprengel wohnen und die Leistung dort zu erbringen war.
 

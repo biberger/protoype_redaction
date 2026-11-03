@@ -84,7 +84,7 @@ Zur Zuständigkeit:
 
 Das [[court|BG Bruck an der Leitha]] ist sachlich zuständig, weil der Streitwert EUR 31.750,00 nicht übersteigt. Die örtliche Zuständigkeit ergibt sich aus dem Erfüllungsort der Werkleistung im Sprengel dieses Gerichtes.
 
-Die klagende Partei ersucht das [[court|BG Bruck an der Leitha]] um Anberaumung einer mündlichen Verhandlung.
+Die klagende Partei ersucht das [[court|BG Bruck an der Leitha]] um Anberaumung einer mündlichen Verhandlung und um Einvernahme der Beklagten im Rahmen dieser Verhandlung.
 
 Beilagen:
 

@@ -53,9 +53,25 @@ IV. Rechtliche Beurteilung
 
 Die Verwahrung fremder Gelder verpflichtet den Rechtsanwalt zur getrennten Führung und zur Verwendung nach der Weisung des Klienten. Eine Überweisung an einen Dritten ohne Weisung und eine Entnahme als Honorar ohne Abrechnung verletzen diese Pflicht.
 
-Der Senat teilt die Auffassung der Kammer, dass die Verfehlung gravierend ist. Sie betrifft einen erheblichen Betrag und die Verwendung fremder Gelder zugunsten einer nahestehenden Person.
+Der Senat teilt die Auffassung der Kammer, dass die Verfehlung gravierend ist. Sie betrifft einen erheblichen Betrag und die Verwendung fremder Gelder zugunsten einer nahestehenden Person. Der Umstand, dass die Überweisung über ein Konto Dritter erfolgte, verschleiert die Mittelverwendung und erschwert die Kontrolle durch die Kammer, weshalb der Senat darin einen eigenständigen Erschwerungsgrund sieht.
 
 Die Geldbuße wird mit EUR 5.000,00 festgesetzt. Erschwerend wirkt die Verwendung der Gelder zugunsten einer nahestehenden Person und die mangelnde Vorlage der Unterlagen. Mildernd wirken die teilweise Rückzahlung von EUR 2.700,00 und die bisherige Unbescholtenheit.
+
+Der Beschuldigte hat in seiner Stellungnahme vom [[date|18.01.2026]] ausgeführt, die Überweisung an das Konto der Tochter sei eine Rückzahlung eines Darlehens gewesen, das ihm diese gewährt habe. Ein schriftlicher Darlehensvertrag existiert nicht, und die Tochter hat in ihrer Einvernahme angegeben, sie habe dem Beschuldigten Geld nur für die Ausbildung ihres Sohnes überlassen. Der Senat hält die Darstellung des Beschuldigten daher für unglaubwürdig.
+
+Die Zeugin [[person|Gudrun Haslinger]], Kanzleimitarbeiterin bis Ende 2025, hat bestätigt, dass die Buchung vom [[date|28.10.2025]] auf mündliche Anweisung des Beschuldigten erfolgte und dass sie auf die fehlende Weisung des Klienten hingewiesen habe. Der Beschuldigte habe erklärt, er übernehme die Verantwortung. Die Zeugin hat den Vorgang in einer Aktennotiz vom [[date|29.10.2025]] festgehalten, die im Akt liegt.
+
+Der Klient [[person|Richter]] hat in der Verhandlung geschildert, dass er den Beschuldigten im Herbst 2025 mehrfach telefonisch um Auskunft gebeten habe und dass ihm erst im Dezember 2025 Teilbeträge zurückbezahlt wurden. Er habe den Eindruck gewonnen, dass seine Gelder für die Kanzlei verwendet wurden.
+
+Die Honorarnote vom [[date|09.12.2025]] wurde nachträglich erstellt, weil der Klient eine Abrechnung verlangte. Die Positionen sind teilweise unspezifisch, etwa "Beratung und Besprechungen, pauschal". Eine Honorarvereinbarung über eine Pauschale besteht nicht.
+
+Der Senat hat außerdem berücksichtigt, dass die Kammer die Kanzlei zweimal zur Vorlage des Treuhandkontos aufforderte und der Beschuldigte die Unterlagen erst nach mehreren Wochen übermittelte. Diese Verzögerung wirkt nicht zu seinen Gunsten.
+
+IV a. Zur Verantwortung und zur Schuld
+
+Der Senat sieht keinen Anlass, die Angaben des Beschuldigten über eine Vereinbarung mit dem Klienten als wahr anzunehmen. Der Beschuldigte selbst hat in der Verhandlung zugegeben, dass er die Überweisung nicht mit dem Klienten abgestimmt hatte. Damit fehlt jede Grundlage für eine Verfügung über die Gelder.
+
+Die Gesamtheit der Umstände zeigt, dass der Beschuldigte die Treuhandgelder als verfügbare Mittel der Kanzlei behandelt hat. Dies gilt umso mehr, als er über die Pflichten aus der Treuhandschaft aufgrund seiner Ausbildung und seiner langjährigen Praxis genau unterrichtet war. Dies ist mit der Stellung eines Rechtsanwalts nicht vereinbar.
 
 V. Kosten
 

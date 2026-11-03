@@ -50,7 +50,7 @@ Die Rückbuchung von EUR 700,00 mindert den Unrechtsgehalt, beseitigt ihn aber n
 
 Die von der Kammeranwältin beantragte Geldbuße im oberen Bereich des Rahmens hält der Senat nicht für geboten. Er berücksichtigt die bisherige Unbescholtenheit der Beschuldigten und ihr Geständnis, verhängt jedoch eine Geldbuße, die den Unrechtsgehalt erkennbar macht.
 
-Der Beschuldigte hat in seiner Stellungnahme vom [[date|03.07.2025]] ausgeführt, die Überweisung vom [[date|08.04.2025]] sei auf Anweisung der Klientin erfolgt, die einen Teil der Schuld direkt begleichen wollte. Die Klientin [[person|Santis]] hat diese Darstellung in der Verhandlung ausdrücklich bestritten und darauf verwiesen, dass sie eine solche Anweisung weder erteilt noch unterschrieben hat. Im Akt befindet sich auch keine Weisung in Textform.
+Die Beschuldigte hat in ihrer Stellungnahme vom [[date|03.07.2025]] ausgeführt, die Überweisung vom [[date|08.04.2025]] sei auf Anweisung der Klientin erfolgt, die einen Teil der Schuld direkt begleichen wollte. Die Klientin [[person|Santis]] hat diese Darstellung in der Verhandlung ausdrücklich bestritten und darauf verwiesen, dass sie eine solche Anweisung weder erteilt noch unterschrieben hat. Im Akt befindet sich auch keine Weisung in Textform.
 
 Die Kanzleimitarbeiterin [[person|Gabriele Ruhnke]] wurde als Zeugin vernommen. Sie hat ausgesagt, dass sie die Überweisung auf Anweisung der Beschuldigten vorbereitet habe und die Verwendungszwecke nicht geprüft habe. Die Zeugin gab zudem an, dass sie zu diesem Zeitpunkt keine Vollmacht für das Treuhandkonto besessen habe. Der Senat hält diese Aussage für glaubwürdig, sie entlastet die Beschuldigte jedoch nicht, weil die Verantwortung für die Verwahrung bei der Rechtsanwältin liegt.
 
@@ -65,6 +65,16 @@ Die Pflicht zur getrennten Verwahrung gilt unabhängig davon, ob der Rechtsanwal
 Die Rückzahlung von EUR 700,00 am [[date|22.04.2025]] ist ein Umstand der Strafbemessung, nicht des Schuldspruchs. Die Rückzahlung des Restbetrages erst am [[date|19.06.2025]] zeigt zudem, dass die Beschuldigte die Verfügbarkeit der Gelder über einen längeren Zeitraum nicht gewährleistete.
 
 Die Kammeranwältin [[person|Scholten]] hat zutreffend darauf hingewiesen, dass das Vertrauen der rechtsuchenden Bevölkerung in die sichere Verwahrung fremder Gelder durch Rechtsanwälte den Kern der Berufsausübung betrifft. Der Senat teilt diese Auffassung.
+
+IV b. Zur Strafbemessung
+
+Die Strafbemessung orientiert sich am Unrechtsgehalt der Tat und an der Person der Beschuldigten. Der Unrechtsgehalt ist deshalb als mittelschwer einzustufen, weil die Entnahme einen Betrag betraf, der für die Klientin von erheblicher wirtschaftlicher Bedeutung war, und weil die Beschuldigte die Verfügung über die Gelder nicht durch ein Versehen, sondern durch eine bewusste Buchung auf das Geschäftskonto herbeigeführt hat.
+
+Als mildernd berücksichtigt der Senat, dass die Beschuldigte nach der Beschwerde mit der Kammer kooperierte, die Unterlagen herausgab und einen Teilbetrag bereits vor der Verhandlung zurückerstattete. Zudem hat sie in der Verhandlung den Sachverhalt eingeräumt. Diese Umstände rechtfertigen eine Geldbuße unterhalb der Obergrenze des Strafrahmens.
+
+Erschwerend wirkt der Umstand, dass die Entnahme nicht einmalig war, sondern mit der Rückbuchung vom [[date|22.04.2025]] und der späten Rückzahlung über einen Zeitraum von rund zwei Monaten erfolgte. In dieser Zeit war die Klientin ohne vollständige Auskunft über den Verbleib ihrer Gelder.
+
+Der Senat hat die Veröffentlichung des Spruches geprüft und verneint, weil die Klientin durch eine Veröffentlichung nicht geschützt würde und die Beschuldigte sich im Verfahren kooperativ gezeigt hat.
 
 V. Kosten
 

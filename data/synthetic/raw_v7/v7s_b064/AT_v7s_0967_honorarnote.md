@@ -21,9 +21,9 @@ An
 z. Hd. Herrn [[person|Seno Radivojević]]
 Klienten-Nr. [[other_identifier|60641]]
 Tel. [[phone_number|+43 732 904 90 83-29]]
-FN [[company_register_number|FN 561598f]], UID: [[tax_id|ATU10375574]]
+[[company_register_number|FN 561598f]], UID: [[tax_id|ATU10375574]]
 
-Betreff: Vertretung der [[organization|Fein]] in der Angelegenheit Kaufvertrag Wohnung Schlierbach, Rückabwicklung Mietvertrag
+Betreff: Vertretung der [[organization|Fein]] in der Angelegenheit Kaufvertrag Wohnung [[location|Schlierbach]], Rückabwicklung Mietvertrag
 
 Sehr geehrter Herr [[person|Radivojević]],
 

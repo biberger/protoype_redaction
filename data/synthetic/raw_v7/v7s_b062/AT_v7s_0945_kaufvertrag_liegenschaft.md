@@ -73,7 +73,7 @@ III. Aufsandungserklärung und Eigentumsübergang
 
 IV. Gewährleistung, Lasten und Vorkaufsrechte
 
-Die Verkäufer haften für die Lastenfreiheit der Liegenschaft nach [[legal_norm|§ 1053 ABGB]] ausgenommen die im Lastenblatt eingetragenen Dienstbarkeiten. Ein Vorkaufsrecht Dritter besteht nicht. Die Verkäufer erklären, dass die Liegenschaft nicht mit Pfandrechten belastet ist, die nicht bis zur Eintragung gelöscht werden.
+Die Verkäufer haften für die Lastenfreiheit der Liegenschaft nach [[legal_norm|§ 1053 ABGB]] ausgenommen die im Lastenblatt eingetragenen Dienstbarkeiten. Ein Vorkaufsrecht Dritter besteht nicht. Die Verkäufer erklären, dass die Liegenschaft nicht mit Pfandrechten belastet ist, die nicht bis zur Eintragung gelöscht werden. Die Löschungserklärungen der Gläubiger werden vor dem Kaufpreiserlag vorgelegt.
 
 Die Käufer haben die Liegenschaft besichtigt und übernehmen sie in dem Zustand, in dem sie sich befindet. Sichtbare Mängel sind von der Gewährleistung ausgeschlossen. Für verdeckte Mängel gilt [[legal_norm|§ 932 ABGB]] mit der Maßgabe, dass die Verkäufer nur für Mängel einstehen, die ihnen bekannt waren.
 
@@ -93,7 +93,35 @@ VI. Schlussbestimmungen
 
 VII. Anlage und Hinweise
 
-Der Vertragsentwurf wurde den Parteien eine Woche vor der Unterfertigung übermittelt. Der Grundbuchsauszug vom [[date|10. August 2026]] wurde der Kanzlei vorgelegt und geprüft.
+Der Vertragsentwurf wurde den Parteien eine Woche vor der Unterfertigung übermittelt. Änderungswünsche wurden berücksichtigt. Der Grundbuchsauszug vom [[date|10. August 2026]] wurde der Kanzlei vorgelegt und geprüft.
+
+VIII. Ortsaugenschein und Zustand der Liegenschaft
+
+Die Käufer haben die Liegenschaft am [[date|27. Juli 2026]] gemeinsam mit [[person|Dipl.-Ing. Germar Zdansky]] besichtigt. Das Wohnhaus wurde im Jahr 1974 errichtet und zuletzt im Jahr 2009 saniert. Die Heizung ist eine Gastherme, die im Jahr 2019 erneuert wurde. Die Dachflächen wurden im Frühjahr 2022 neu eingedeckt. Die Garage ist aus Ziegelmauerwerk errichtet und mit einem Sektionaltor versehen. Der Keller ist trocken; eine Feuchtigkeitsmessung vom [[date|14. Juli 2026]] liegt bei. Die Verkäuferin [[person|Rosenberg Erika]] hat bei der Besichtigung erklärt, dass die Wasserleitungen im Haus vollständig erneuert wurden.
+
+IX. Mietverhältnisse, Belastungen und Dienstbarkeiten
+
+Auf der Liegenschaft besteht kein Mietverhältnis. Die Wohnung im Obergeschoß war bis zum [[date|31. Mai 2026]] vermietet; das Mietverhältnis wurde einvernehmlich beendet und die Kaution an den Mieter zurückgezahlt. Im Lastenblatt sind ein Wegerecht zugunsten des Nachbargrundstücks sowie eine Leitungsdienstbarkeit zugunsten der Gemeinde eingetragen. Diese Lasten übernehmen die Käufer ohne Gewährleistung des Verkäufers. Ein Pfandrecht zugunsten der [[organization|Waldviertler Volksbank Stadl an der Mur]] besteht nicht, das frühere Pfandrecht wurde am [[date|12. August 2026]] gelöscht.
+
+X. Abgaben und öffentliche Auskünfte
+
+Die Grundsteuer wurde für das Jahr 2026 vollständig entrichtet. Eine Anfrage an die Gemeinde hat ergeben, dass keine Bebauungsbeschränkungen oder Bauverfahren anhängig sind. Der Verkäufer legt eine Bestätigung des Wasserleitungsverbandes vor, wonach die Anschlussgebühren bezahlt sind. Die Käufer erklären, dass sie die Liegenschaft zu Wohnzwecken erwerben und für mindestens fünf Jahre selbst nutzen werden; diese Erklärung ist für die Begünstigung nach dem [[legal_norm|GrEStG 1987]] von Bedeutung.
+
+XI. Vollmacht und Nebenabreden
+
+Die Käufer erteilen der Kanzlei eine Vollmacht zur Abwicklung des Kaufpreises und zur Einreichung beim Grundbuch. Die Vollmacht wurde von allen Parteien am [[date|18. August 2026]] gesondert unterfertigt; eine Abschrift liegt dem Vertrag bei. Nebenabreden, die nicht im Vertrag enthalten sind, bestehen nicht. Sollte ein Teil dieses Vertrages unwirksam sein, bleibt der Rest wirksam; die Parteien verpflichten sich, eine wirksame Regelung zu treffen, die dem wirtschaftlichen Zweck am nächsten kommt.
+
+XII. Hinweise zur Eintragung
+
+Die Kanzlei hat die Parteien darauf hingewiesen, dass die Eintragung des Eigentumsrechts erst nach Einlangen der Abgabenbestätigung erfolgen kann. Das Grundbuchgesuch wird nach Zahlung des Kaufpreises und Vorlage der Unbedenklichkeitsbescheinigung eingebracht. Die Käufer bestätigen, dass ihnen die Folgen einer verspäteten Zahlung bekannt sind, insbesondere die Möglichkeit eines Rangverlustes.
+
+XIII. Kaufpreisfälligkeit und Verzug
+
+Der Kaufpreis ist mit Eingang auf dem Treuhandkonto fällig. Gerät der Käufer mit der Zahlung in Verzug, kann der Verkäufer nach Setzung einer angemessenen Nachfrist vom Vertrag zurücktreten. Die bis dahin geleisteten Zahlungen werden dem Käufer nur nach Abzug der Kosten zurückerstattet. Eine Verzinsung des Kaufpreises ist im Treuhandkonto nicht vorgesehen. Die Verkäufer nehmen zur Kenntnis, dass der Kaufpreis vor der Einverleibung nicht an sie ausbezahlt wird. Dies gilt auch für Teilbeträge. Die Käufer nehmen dies ausdrücklich zur Kenntnis.
+
+XIV. Übergabe der Schlüssel und Inventar
+
+Die Übergabe der Schlüssel erfolgt am Tag der Kaufpreiszahlung gegen Quittung. Das Inventar des Wohnhauses, insbesondere die Einbauküche und die Gartengeräte, wird mit dem Kaufpreis abgegolten. Die Verkäuferin [[person|Rosenberg Erika]] übergibt zudem sämtliche Pläne, Bescheide und Garantieunterlagen, soweit vorhanden. Der Verkäufer [[person|Dipl.-Ing. Germar Zdansky]] übergibt den Schlüssel zur Garage. Die Käufer bestätigen den Erhalt der Schlüssel durch Unterschrift auf dem Übergabeprotokoll, das dem Vertrag als Anlage beigefügt wird. Die Kanzlei [[organization|Hörhager]] bewahrt die Originalurkunden bis zur Eintragung auf und übergibt sie danach den Käufern. Jede Partei erhält eine vollständige Ausfertigung dieses Vertrages. Die Kosten für die Ausfertigungen trägt die Kanzlei.
 
 Beigelegt sind: Grundbuchsauszug, Lageplan, Energieausweis, Vollmacht.
 

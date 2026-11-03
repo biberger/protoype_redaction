@@ -58,7 +58,7 @@ An: [[lawyer|Sauter]] <[[email|office@sauter.at]]>
 Cc: [[person|Hetti Drexler]] <[[email|h.drexler@platzer-immobilien.at]]>
 Betreff: Vermittlung [[land_register_id|2762/Malta]]
 
-Sehr geehrte Frau Mag. [[lawyer|Sauter]],
+Sehr geehrte Frau [[lawyer|Sauter]],
 
 die [[organization|Platzer Immobilien GmbH]], [[company_register_number|FN 366411s]], UID [[tax_id|ATU05612728]], hat den Verkauf vermittelt. Die Provision wurde nicht ausbezahlt, weil die Kaufpreisfälligkeit noch offen ist. Frau [[person|Drexler]] hat die Unterlagen für den Käufer vorbereitet.
 
@@ -66,7 +66,7 @@ Wir ersuchen um Klärung bis zum [[date|20.10.2026]].
 
 Mit freundlichen Grüßen
 [[person|Reginald Wakolbinger]]
-Geschäftsführer, [[organization|Platzer Immobilien]]
+Geschäftsführer, [[organization|Platzer Immobilien]], StA: [[country|Österreich]]
 Tel. [[phone_number|0660 2214 958]]
 
 [[address|8253 Mönichwald]], am [[date|13.10.2026]]
@@ -83,4 +83,4 @@ Sehr geehrte Frau [[lawyer|Sauter]],
 ich bin mit einem Vergleich einverstanden, wenn die Lastenfreistellung bis zum [[date|30.10.2026]] vorliegt. Meine Lebensgefährtin, Frau [[person|Hetti Drexler]], wohnhaft in [[location|St. Anton am Arlberg]], hat die Besichtigung des Objekts begleitet und kann die Mängel bestätigen. Der Kaufpreis wurde auf das Treuhandkonto überwiesen, eine Kopie liegt bei.
 
 Mit freundlichen Grüßen
-Jolle Spoel
+[[person|Jolle Spoel]]

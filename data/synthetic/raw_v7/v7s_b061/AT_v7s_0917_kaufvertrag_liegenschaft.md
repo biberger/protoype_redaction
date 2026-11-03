@@ -50,7 +50,7 @@ a) EUR 50.000,00 als Anzahlung bei Vertragsunterfertigung auf das Treuhandkonto 
 
 b) den Restbetrag von EUR 436.000,00 binnen vier Wochen nach Vorliegen der grundbücherlichen Eintragungsbewilligung auf das gleiche Konto.
 
-Die Parteien vereinbaren, dass die Treuhandschaft bei der Rechtsanwältin [[person|Pall]] geführt wird. Die Treuhandschaft wurde unter der Nummer [[other_identifier|2018/101]] eröffnet und gilt auch für diesen Vertrag.
+Die Parteien vereinbaren, dass die Treuhandschaft bei der Rechtsanwältin [[person|Pall]] geführt wird. Die Treuhandschaft Nr. [[other_identifier|2018/101]] wurde eröffnet und gilt auch für diesen Vertrag.
 
 III. Treuhandschaft
 
@@ -94,7 +94,7 @@ Die Rechtsanwältin [[person|Pall]] hat die Vertragsteile darüber belehrt, dass
 
 Die Verkäuferin [[person|Pretorian]] wurde auf die Möglichkeit eines Notariatsaktes hingewiesen und hat darauf verzichtet.
 
-Telefonische Rückfragen unter [[phone_number|02622/7841293-4]] richten Sie bitte an das Sekretariat der Kanzlei.
+Telefonische Rückfragen richten Sie bitte an das Sekretariat der Kanzlei, Tel. [[phone_number|02622/7841293-4]].
 
 [[location|Gmunden]], am [[date|15.09.2026]]
 

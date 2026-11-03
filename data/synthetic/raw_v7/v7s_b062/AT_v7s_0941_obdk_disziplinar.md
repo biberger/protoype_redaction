@@ -22,7 +22,7 @@ I. Verfahrensgang und Anzeige
 
 Die Anzeige des Kammeranwalts wurde am [[date|18. Februar 2026]] eingebracht. Ihr liegt die Beschwerde des Klienten [[person|Gerold Haslwanter]] zugrunde, dessen Zahlungen nicht fristgerecht an ihn weitergeleitet wurden. Die Beschuldigte bestreitet die Vorwürfe nur teilweise und verweist auf eine Erkrankung im Frühjahr 2025.
 
-Die Beschuldigte war bis zu diesem Zeitpunkt nicht disziplinarrechtlich aufgefallen. Sie betreibt eine Einzelkanzlei in [[location|Kufstein]] mit einem Kanzleimitarbeiter.
+Die Beschuldigte war bis zu diesem Zeitpunkt nicht disziplinarrechtlich aufgefallen. Sie betreibt eine Einzelkanzlei in [[location|Zell am See]] mit einem Kanzleimitarbeiter.
 
 II. Sachverhalt
 
@@ -49,7 +49,7 @@ Der Schriftführer hat die Protokollierung der Verhandlung übernommen. Das Prot
 
 IV. Rechtliche Beurteilung
 
-Gemäß [[legal_norm|§ 43a Abs 4 RAO]] hat der Rechtsanwalt anvertraute Vermögenswerte getrennt zu verwahren und jede Verfügung nur mit Zustimmung des Berechtigten vorzunehmen. Die Auszahlung des Restbetrages am [[date|19.09.2025]] ohne Abrechnung verletzt diese Pflicht. Die verspätete Zahlung an den Klienten ist nach [[legal_norm|§ 16 Abs 1 RAO]] als Verletzung der Pflicht zur gewissenhaften Berufsausübung zu werten. Die Zuordnung der Zahlungen ist nach Auffassung des Senates nicht als Pflichtverletzung eigener Art zu werten, sondern als Teil des Gesamtverhaltens, das der Kammeranwalt zu Recht gerügt hat. Der Senat hat ferner berücksichtigt, dass die Beschuldigte im Verfahren kooperiert hat. Die Kammer hat in der Verhandlung keine weiteren Vorwürfe erhoben, sodass der Senat den Tatvorwurf auf die Treuhandverwaltung im Jahr 2025 beschränkt.
+Gemäß [[legal_norm|§ 43a Abs 4 RAO]] hat der Rechtsanwalt anvertraute Vermögenswerte getrennt zu verwahren und jede Verfügung nur mit Zustimmung des Berechtigten vorzunehmen. Die Auszahlung des Restbetrages am [[date|19.09.2025]] ohne Abrechnung verletzt diese Pflicht. Die verspätete Zahlung an den Klienten ist nach [[legal_norm|§ 16 Abs 1 RAO]] als Verletzung der Pflicht zur gewissenhaften Berufsausübung zu werten. Die Zuordnung der Zahlungen ist nach Auffassung des Senates nicht als Pflichtverletzung eigener Art zu werten, sondern als Teil des Gesamtverhaltens, das der Kammeranwalt zu Recht gerügt hat. Der Senat hat ferner berücksichtigt, dass die Beschuldigte im Verfahren kooperiert hat. Eine weitere Anhörung der Zeugen war daher nicht erforderlich. Die Entscheidung erging einstimmig. Der Vorsitz hat das Urteil verkündet. Die Kammer hat in der Verhandlung keine weiteren Vorwürfe erhoben, sodass der Senat den Tatvorwurf auf die Treuhandverwaltung im Jahr 2025 beschränkt.
 
 Die [[organization|Tiroler Rechtsanwaltskammer]] ([[organization|RAK Tirol]]) hat die Richtlinien der Abrechnung nicht beanstandet, die Vorwürfe betreffen jedoch den Umgang mit dem Klientengeld. Die [[organization|RAK Tirol]] hat die Fristen für die Anzeige eingehalten.
 

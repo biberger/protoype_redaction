@@ -14,7 +14,7 @@ ERV-Code: [[other_identifier|P688868]]
 EINGELANGT [[date|28.09.2026]] – [[organization|WEISSMANN GMBH]]
 
 [[organization|Weissmann GmbH]] ([[organization|WG]])
-FN [[company_register_number|FN 331073y]], UID: [[tax_id|ATU71503973]]
+[[company_register_number|FN 331073y]], UID: [[tax_id|ATU71503973]]
 z. Hd. der Geschäftsführung
 
 [[location|Bruckneudorf]], am [[date|25.09.2026]]

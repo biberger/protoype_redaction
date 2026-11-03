@@ -45,19 +45,23 @@ Die Honorarnote ist binnen 14 Tagen zur Zahlung fällig. Bitte überweisen Sie d
 
 Die Gebühren wurden nach dem Tarif berechnet, der in der Vollmacht vom [[date|05.03.2026]] vereinbart war. Auslagen für Porto und Kopien sind in den Positionen enthalten. Die Tätigkeit im Zusammenhang mit der Auseinandersetzung gegen [[person|Plischke]] umfasst die Vorbereitung der Klage, die Korrespondenz mit der Gegenseite und die Abstimmung der Beweisanträge mit dem Klienten [[person|Florenz Schachner]].
 
-Bei Rückfragen zu einzelnen Positionen bitten wir um kurze schriftliche Mitteilung, damit wir die betreffenden Leistungen mit den Unterlagen abgleichen können. Eine Änderung der Honorarnote ist nur bei nachweisbaren Rechenfehlern vorgesehen.
+Bei Rückfragen zu einzelnen Positionen bitten wir um kurze schriftliche Mitteilung, damit wir die betreffenden Leistungen mit den Unterlagen abgleichen können. Die Zeitangaben beruhen auf unseren internen Aufzeichnungen, die auf Wunsch eingesehen werden können. Eine Änderung der Honorarnote ist nur bei nachweisbaren Rechenfehlern vorgesehen.
 
-Die Umsatzsteuer wurde nach dem Regelsteuersatz ausgewiesen, weil die Leistungen im Inland erbracht wurden und die Kanzlei zur Regelbesteuerung optiert hat.
+Die Umsatzsteuer wurde nach dem Regelsteuersatz ausgewiesen, weil die Leistungen im Inland erbracht wurden und die Kanzlei zur Regelbesteuerung optiert hat. Die Kanzlei ist unter der oben angeführten UID umsatzsteuerlich erfasst.
+
+Wir danken für Ihr Vertrauen und stehen für die weitere Vertretung im Verfahren gerne zur Verfügung. Die nächsten Schritte, insbesondere die Vorbereitung der Tagsatzung und die Abstimmung mit dem Sachverständigen, werden wir Ihnen rechtzeitig mitteilen.
 
 Mit freundlichen Grüßen
 
 [[person|Falkner]]
 Rechtsanwalt
 
-Für Rückfragen zu dieser Honorarnote erreichen Sie uns unter [[phone_number|+43-463-4845431 Kl. 28]].
+Für Rückfragen zu dieser Honorarnote erreichen Sie uns unter Tel. [[phone_number|+43-463-4845431 Kl. 28]].
 
 Hinweis: Die Honorarnote wurde elektronisch erstellt und ist ohne Unterschrift gültig.
 
 Die Honorarnote für [[person|Petronilla Jonas]] wird gesondert erstellt. Gerichtsgebühren sind in keiner der beiden Noten enthalten.
 
 Ausgestellt in [[location|St. Johann im Pongau]], [[date|29.10.2026]]
+
+EINGANG KANZLEI: [[person|FLORENZ SCHACHNER]] KL.-NR. [[other_identifier|73839]] ZEICHEN [[other_identifier|SCHACHNER ./. PLISCHKE]]

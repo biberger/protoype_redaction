@@ -40,6 +40,24 @@ Die Erblasserin war Inhaberin der [[organization|Staud e.U.]], deren Forderungen
 
 Die Schulden der Verlassenschaft betragen EUR 5.980,00, darunter die Begräbniskosten, die Betriebskosten der Wohnung und die Lohnabgaben der letzten drei Monate.
 
+Das Nachlassinventar weist die Vermögenswerte und Schulden wie folgt aus:
+
+Position | Wert in EUR
+Liegenschaftsanteil laut Position a) | 58.000,00
+Girokonto laut Position b) | 3.415,80
+Lebensversicherung laut Position c) | 11.200,00
+Geschäftsanteil an der [[organization|Staud e.U.]] laut Position d) | 4.100,00
+Hausrat, Schätzung der Erbin [[person|Thür]] | 2.300,00
+Summe der Aktiva | 79.015,80
+abzüglich Passiva | 5.980,00
+Nettonachlass | 73.035,80
+
+Die Liegenschaft wurde durch den Sachverständigen [[person|Florian Mörtl]] am [[date|15. Juli 2026]] geschätzt, der Schätzwert beträgt EUR 58.000,00. Die Schätzung ist den Akten angeschlossen und kann von den Beteiligten eingesehen werden.
+
+Die Lebensversicherung ist nach den Angaben der Erblasserin auf die Schwester begünstigt. Die Versicherung zahlt daher unmittelbar an [[person|Thür]]. Der Betrag wird im Inventar aus Gründen der Vollständigkeit ausgewiesen, er wird aber nicht in die Verteilung der Verlassenschaft eingerechnet.
+
+Die Forderungen der [[organization|Staud e.U.]] gegen ihre Kunden sind mit dem Stichtag [[date|30.06.2026]] festgestellt. Ein Teil der Forderungen ist nach Einschätzung der Erbin uneinbringlich, weil die Kunden zum Teil Insolvenzverfahren eröffnet haben. Die Erbin [[person|Thür]] wird die Firma nur fortführen, wenn die Verbindlichkeiten aus dem Betrieb gesichert sind.
+
 Die Einantwortung kann nach Ablauf der Einwendungsfrist beantragt werden. Auf Anfrage erhalten die Erben eine Abschrift des Nachlassverzeichnisses. Rückfragen bitte telefonisch unter [[phone_number|0463/9918529 DW 195]] richten.
 
 Ausgefertigt in [[location|Jagerberg]], am [[date|9. August 2026]].

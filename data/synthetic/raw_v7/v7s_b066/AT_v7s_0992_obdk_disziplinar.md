@@ -74,7 +74,7 @@ Unter Berücksichtigung dieser Umstände erscheint eine Geldbuße von EUR 4.000,
 
 V. Kosten
 
-Die Kostenentscheidung stützt sich auf die gesetzlichen Bestimmungen. Der Beschuldigte hat die Kosten des Verfahrens zu tragen, soweit nicht Gründe für einen Kostenersatz vorliegen. Der Senat hat die Akte nach Rechtskraft dem Kammervorstand zur weiteren Veranlassung übermittelt. Die Zustellung an die Beschuldigte erfolgte am [[date|20. Mai 2026]] durch Hinterlegung, nachdem diese bei zwei Zustellversuchen nicht angetroffen worden war. Die schriftliche Ausfertigung dieser Begründung ergeht an alle Parteien.
+Die Kostenentscheidung stützt sich auf die gesetzlichen Bestimmungen. Der Beschuldigte hat die Kosten des Verfahrens zu tragen, soweit nicht Gründe für einen Kostenersatz vorliegen. Der Senat hat die Akte nach Rechtskraft dem Kammervorstand zur weiteren Veranlassung übermittelt. Die Zustellung an die Beschuldigte erfolgte am [[date|20. Mai 2026]] durch Hinterlegung, nachdem diese bei zwei Zustellversuchen nicht angetroffen worden war. Die schriftliche Ausfertigung dieser Begründung ergeht an alle Parteien. Eine Ausfertigung erhält auch die Kammer für die Akten.
 
 Die Vorsitzende
 [[judge|Sürmeli Calis]]

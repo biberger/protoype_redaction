@@ -59,7 +59,7 @@ Nach [[legal_norm|§ 43a Abs 4 RAO]] hat der Rechtsanwalt anvertraute Vermögens
 
 Die Verzögerung der Abrechnung ist zudem als Verstoß gegen [[legal_norm|§ 16 Abs 1 RAO]] iVm [[legal_norm|§ 1 Abs 2 RAO]] zu werten. Der Beschuldigte hat die Pflicht zur sorgfältigen und unverzüglichen Auskunft nicht erfüllt.
 
-Der Senat hat berücksichtigt, dass die [[organization|RAK Kärnten]] die Anzeige aufgrund eines Hinweises des Beschwerdeführers erstattet hat. Die Kammer hat die Frist des [[legal_norm|§ 61 RAO]] eingehalten. Der Kammeranwalt [[person|Pancu]] hat die Anzeige mit allen Beilagen vorgelegt; der Senat sah keinen Anlass, weitere Beweise zu erheben. Die Verteidigung hat beantragt, das Verfahren einzustellen, weil die Entnahme durch einen Irrtum veranlasst worden sei. Dieser Antrag wurde abgewiesen.
+Der Senat hat berücksichtigt, dass die [[organization|RAK Kärnten]] die Anzeige aufgrund eines Hinweises des Beschwerdeführers erstattet hat. Die Kammer hat die Frist des [[legal_norm|§ 61 RAO]] eingehalten. Der Kammeranwalt [[person|Pancu]] hat die Anzeige mit allen Beilagen vorgelegt; der Senat sah keinen Anlass, weitere Beweise zu erheben. Der Kammeranwalt hat sich der Auffassung des Senates angeschlossen. Die Verteidigung hat beantragt, das Verfahren einzustellen, weil die Entnahme durch einen Irrtum veranlasst worden sei. Dieser Antrag wurde abgewiesen. Die Begründung dafür findet sich in den Entscheidungsgründen unter Punkt III.
 
 IV. Strafbemessung
 
@@ -67,11 +67,11 @@ Mildernd sind das teilweise Geständnis, die Rückzahlung des Restbetrages am [[
 
 V. Beschluss
 
-Der Beschuldigte [[lawyer|Ronald Marko]] ist schuldig, die Pflichten nach [[legal_norm|§ 43a Abs 4 RAO]] verletzt zu haben. Die Kosten des Verfahrens trägt der Beschuldigte. Die Kosten umfassen die Pauschalgebühr der Kammer und die Auslagen für die Zeugeneinvernahme des Beschwerdeführers.
+Der Beschuldigte [[lawyer|Ronald Marko]] ist schuldig, die Pflichten nach [[legal_norm|§ 43a Abs 4 RAO]] verletzt zu haben. Die Kosten des Verfahrens trägt der Beschuldigte. Die Kosten umfassen die Pauschalgebühr der Kammer und die Auslagen für die Zeugeneinvernahme des Beschwerdeführers. Der Beschuldigte hat die Kosten nicht bestritten.
 
 Die Verhandlung wurde um 13:10 Uhr geschlossen. Der Vorsitz hat den Parteien eine Abschrift der Niederschrift angeboten; der Beschwerdeführer hat darauf verzichtet. Der Beschluss wurde den Parteien am Ende der Verhandlung mündlich verkündet und wird schriftlich ausgefertigt.
 
-Die Senatsvorsitzende [[judge|Schwarzinger]] verlas den Beschluss; der Schriftführer [[person|Hanus]] protokollierte die Verkündung. Die Protokollführung wurde nach den Richtlinien der Kammer vorgenommen. Der Kammeranwalt [[person|Pancu]] und der Beschwerdeführer [[person|Gharman]] haben die Verkündung zur Kenntnis genommen.
+Die Senatsvorsitzende [[judge|Schwarzinger]] verlas den Beschluss; der Schriftführer [[person|Hanus]] protokollierte die Verkündung. Die Protokollführung wurde nach den Richtlinien der Kammer vorgenommen. Die Zeitangaben im Protokoll sind verbindlich. Der Beschwerdeführer hat die Richtigkeit des Protokolls bestätigt. Der Kammeranwalt [[person|Pancu]] und der Beschwerdeführer [[person|Gharman]] haben die Verkündung zur Kenntnis genommen.
 
 Ausgefertigt am [[date|12. Mai 2026]]
 

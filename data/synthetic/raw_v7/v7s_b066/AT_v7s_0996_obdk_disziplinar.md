@@ -74,7 +74,7 @@ Als mildernd wertete der Senat die bisherige Unbescholtenheit der Beschuldigten 
 
 V. Kosten
 
-Die Kostenentscheidung beruht auf den gesetzlichen Bestimmungen. Die Kosten des Kammeranwalts sind im Pauschalbetrag enthalten, eine gesonderte Verrechnung erfolgt nicht. Die Beschuldigte hat die Kosten des Verfahrens zu tragen.
+Die Kostenentscheidung beruht auf den gesetzlichen Bestimmungen. Die Kosten des Kammeranwalts sind im Pauschalbetrag enthalten, eine gesonderte Verrechnung erfolgt nicht. Die Akten werden nach Rechtskraft drei Jahre aufbewahrt. Die Beschuldigte hat die Kosten des Verfahrens zu tragen.
 
 Die Vorsitzende
 [[judge|MMag. Heidelind Marschik]]

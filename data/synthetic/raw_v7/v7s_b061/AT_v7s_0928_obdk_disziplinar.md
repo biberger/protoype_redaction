@@ -51,9 +51,23 @@ Ein Rechtsanwalt hat Treuhandgelder nur für den vereinbarten Zweck einzusetzen.
 
 Der Senat hält die Geldbuße für angemessen, weil die Klienten den Schaden teilweise ausgeglichen erhielten und der Beschuldigte bisher nicht disziplinär auffällig war. Erschwerend wirkt, dass er die Klienten über den Stand der Treuhandschaft im Unklaren ließ.
 
+Der Beschuldigte hat in seiner schriftlichen Stellungnahme vom [[date|06.06.2025]] angegeben, der Gläubiger der Zahlung vom [[date|29.04.2025]] sei ein früherer Geschäftspartner, dem er seit längerer Zeit Geld schulde. Diese Schuld ist jedoch nicht Gegenstand einer Treuhandschaft der Klienten und durfte daher nicht aus deren Geldern beglichen werden. Die Rechtsnachfolge des früheren Geschäftspartners ist im Akt nicht dokumentiert.
+
+Der Senat hat die Zeugin [[person|Ingeborg Lechner]] vernommen, die bis Juni 2025 als Kanzleikraft im Büro des Beschuldigten tätig war. Sie hat angegeben, die Buchung vom [[date|29.04.2025]] sei nach einer telefonischen Weisung des Beschuldigten erfolgt, ohne dass ein Beleg vorgelegen habe. Die Zeugin hat ferner berichtet, dass die Honorarnote vom [[date|02.06.2025]] erst nachträglich auf Anweisung des Beschuldigten erstellt wurde. Der Senat hält diese Angaben für glaubwürdig, weil sie mit dem Buchungsjournal übereinstimmen.
+
+Der Zeuge [[person|Gerhard Atzl]], Steuerberater der Kanzlei, hat bestätigt, dass für die Auszahlungen an den Beschuldigten keine Entnahmebelege vorhanden waren. Er habe den Beschuldigten im Frühjahr 2025 wiederholt auf die Notwendigkeit einer getrennten Buchführung hingewiesen, ohne dass dies umgesetzt worden sei.
+
+Der Beschuldigte hat in der Verhandlung darauf hingewiesen, dass er in dieser Zeit persönlich finanziell belastet war und die Kanzlei nicht mehr ordnungsgemäß führen konnte. Der Senat erkennt die persönliche Belastung an, sieht darin jedoch keinen Rechtfertigungsgrund. Ein Rechtsanwalt, der seine Kanzlei nicht mehr ordnungsgemäß führen kann, muss die Berufsausübung einschränken oder einen Vertreter bestellen.
+
+IV a. Strafbemessung im Einzelnen
+
+Die Geldbuße berücksichtigt, dass beide Klienten durch die Entnahmen in ihrer Rechtsstellung beeinträchtigt wurden. Die Klientin [[person|Schaber]] musste mehrfach auf die Auszahlung warten, und der Klient [[person|Kahler]] erhielt die Teilabrechnung erst nach einer Frist von mehreren Monaten. Der Senat hat zudem berücksichtigt, dass der Beschuldigte die Honorarnote für die Tätigkeit der Kanzlei zwar nachreichte, diese aber keine nachvollziehbare Leistungsbeschreibung enthielt und nicht mit den Zeitpunkten der Entnahmen übereinstimmte.
+
+Der Senat hat außerdem geprüft, ob eine Veröffentlichung des Spruches angeordnet werden soll, und dabei die bisherige Berufsausübung des Beschuldigten über einen Zeitraum von mehr als zwanzig Jahren berücksichtigt. Dies hat er verneint, weil der Beschuldigte über die Vorfälle hinaus keinen Anlass zu weiteren Maßnahmen gegeben hat und die Klienten nicht öffentlich bloßgestellt werden sollen.
+
 V. Kosten
 
-Die Kosten des Verfahrens setzen sich aus der Pauschale von EUR 600,00, der Schriftführung von EUR 140,00, den Kosten für den Auszug von EUR 120,00 und den Reisekosten der Klientin von EUR 180,00 zusammen. Insgesamt betragen sie EUR 1.040,00.
+Die Kosten des Verfahrens setzen sich aus der Pauschale von EUR 600,00, der Schriftführung von EUR 140,00, den Kosten für den Auszug von EUR 120,00 und den Reisekosten der Klientin [[person|Schaber]] von EUR 180,00 zusammen. Insgesamt betragen sie EUR 1.040,00. Ein Kostenersatz an den Klienten [[person|Kahler]] wurde nicht zuerkannt, weil er keine Kosten geltend gemacht hat.
 
 **Rechtsmittelbelehrung**
 

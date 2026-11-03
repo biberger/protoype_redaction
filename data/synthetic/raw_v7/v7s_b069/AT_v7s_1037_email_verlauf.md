@@ -61,7 +61,7 @@ ERV-Code: [[other_identifier|R147634]]
 > An: [[lawyer|Lukas Schröcker]]
 > Cc: [[person|Alfrad Gerl]]
 >
-> Die Kleiner Handels GmbH bestreitet, dass die Warenlieferung vom [[date|18.05.2026]] mangelhaft war. Die Lieferscheine wurden von Herrn [[person|Schönfeld]] persönlich quittiert.
+> Die [[organization|Kleiner Handels GmbH]] bestreitet, dass die Warenlieferung vom [[date|18.05.2026]] mangelhaft war. Die Lieferscheine wurden von Herrn [[person|Schönfeld]] persönlich quittiert.
 
 ---
 

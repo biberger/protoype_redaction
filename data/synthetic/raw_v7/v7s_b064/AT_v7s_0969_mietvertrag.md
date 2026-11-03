@@ -16,7 +16,7 @@ MIETVERTRAG
 
 Abgeschlossen zwischen
 
-Vermieterin: [[organization|Roschmann Immobilien GmbH]], FN [[company_register_number|43686w]], UID: [[tax_id|ATU72719374]], Geschäftsanschrift [[address|6330 Kufstein]], vertreten durch den Geschäftsführer und zeichnungsberechtigten Vertreter [[person|Wim Wagner-Jauregg]], *[[date_of_birth|18.04.1970]] (im Folgenden: Vermieterin),
+Vermieterin: [[organization|Roschmann Immobilien GmbH]], [[company_register_number|FN 43686w]], UID: [[tax_id|ATU72719374]], Geschäftsanschrift [[address|6330 Kufstein]], vertreten durch den Geschäftsführer und zeichnungsberechtigten Vertreter [[person|Wim Wagner-Jauregg]], *[[date_of_birth|18.04.1970]] (im Folgenden: Vermieterin),
 
 und
 
