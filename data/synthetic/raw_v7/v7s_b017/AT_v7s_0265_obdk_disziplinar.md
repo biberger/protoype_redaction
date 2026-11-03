@@ -88,7 +88,7 @@ Der Senat hat diesen Schritt begrüßt, jedoch darauf hingewiesen, dass die Zusa
 
 Der Senat hat die Akten zudem an die [[organization|Österreichische Rechtsanwaltskammer]] zur Kenntnis übermittelt, damit diese die Treuhandbuchführung der Kanzlei im Rahmen der allgemeinen Aufsicht prüfen kann. Die Übermittlung erfolgt ohne Präjudiz für das Verfahren.
 
-Der Senat hat außerdem das Vorbringen der Beschuldigten geprüft, wonach die Fehlbuchung durch eine Software-Umstellung verursacht worden sei. Die Beschuldigte konnte dies nicht belegen, weil die Protokolle der Buchhaltungssoftware nicht mehr verfügbar sind. Der Senat hat die Behauptung daher nicht als entlastend gewertet, da die Beschuldigte als Treuhänderin für die ordnungsgemäße Führung der Bücher verantwortlich ist. Die Schriftführerin hat den Vermerk zu den Akten genommen.
+Der Senat hat außerdem das Vorbringen der Beschuldigten geprüft, wonach die Fehlbuchung durch eine Software-Umstellung verursacht worden sei. Die Beschuldigte konnte dies nicht belegen, weil die Protokolle der Buchhaltungssoftware nicht mehr verfügbar sind. Der Senat hat die Behauptung daher nicht als entlastend gewertet, da die Beschuldigte als Treuhänderin für die ordnungsgemäße Führung der Bücher verantwortlich ist. Die Schriftführerin hat den Vermerk zu den Akten genommen. Die Beschuldigte hat den Vermerk unterschrieben und damit die Richtigkeit der Protokollierung bestätigt. Eine weitere Stellungnahme der Kammeranwaltschaft ist nicht eingegangen.
 
 Die Kosten richten sich nach [[legal_norm|§ 39 Abs 2 RAO]]. Gegen diese Entscheidung ist eine Berufung an die [[court|OBDK]] zulässig.
 

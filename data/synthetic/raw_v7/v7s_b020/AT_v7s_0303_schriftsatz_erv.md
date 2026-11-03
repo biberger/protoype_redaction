@@ -20,15 +20,13 @@ eingebracht über das elektronische Rechtsverkehrssystem (ERV)
 
 KLAGE
 
-der klagenden Partei [[organization|Sacher KG]], [[company_register_number|FN 352972b]], UID: [[tax_id|ATU09330026]], Telefon [[phone_number|0662 858575 Kl. 11]], vertreten durch [[lawyer|Wechner]], Rechtsanwalt, [[address|Andlergasse 2, 4906 Eberschwang]],
+der klagenden Partei [[organization|Sacher KG]], [[company_register_number|FN 352972b]], UID: [[tax_id|ATU09330026]], Tel. [[phone_number|0662 858575 Kl. 11]], vertreten durch [[lawyer|Wechner]], Rechtsanwalt, [[address|Andlergasse 2, 4906 Eberschwang]],
 
 gegen
 
 1. [[person|Geralde Stummer]], SV-Nr. [[social_security_number|5356 180551]], *[[date_of_birth|1951-05-18]], [[address|Pfarrgasse 12/3, 4600 Wels]],
 
 2. [[person|Aric Veruović]], geb [[date_of_birth|11.11.1952]], [[address|Kaiser-Josef-Straße 9, 4600 Wels]],
-
-beide vertreten durch ihren Sohn ...
 
 wegen Zahlung von EUR 18.400,00 samt Zinsen
 
@@ -38,7 +36,9 @@ I. Sachverhalt
 
 Die Klägerin ist Eigentümerin der Liegenschaft [[land_register_id|K.G. 47618]]/[[land_register_id|EZ. 820]] und vermietet die Wohnung im Haus in [[location|St. Florian]] seit dem Jahr 2017 an die Beklagten. Die Mietvereinbarung wurde am [[date|01.09.2017]] unter der Vertragsnummer [[other_identifier|V-2017-17497]] geschlossen und ist als Beilage ./A vorgelegt.
 
-Die Wohnung liegt auf dem Grundstück [[land_register_id|EZ. 603]], [[land_register_id|KG: 42969 Hohenwarth-Mühlbach am Manhartsberg]]. Die Klägerin hat die Hausverwaltung im Jahr 2024 an die [[organization|Sacher]] übertragen, die für die Abrechnung der Betriebskosten zuständig ist.
+Das Haus steht auf dem Grundstück [[land_register_id|EZ. 603]], [[land_register_id|KG: 42969 Hohenwarth-Mühlbach am Manhartsberg]]. Die Betriebskostenabrechnung für das Jahr 2025 wurde von der [[organization|Sacher]] erstellt, die die Hausverwaltung für die Klägerin führt. Die Haftpflichtversicherung des Hauses ist unter der Polizzen-Nr. [[other_identifier|52-1672991]] geführt.
+
+Die [[organization|SACHER KG]] hat die Wohnung über ihre Hausverwaltung seit 2017 ununterbrochen vermietet. Die Beklagten haben die Wohnung bis heute bewohnt, soweit dies aus den Abrechnungen ersichtlich ist.
 
 Die Beklagten schulden seit dem Monat Jänner 2026 die Zahlung des Mietzinses. Mit Schreiben vom [[date|14.02.2026]] (Beilage ./B) wurden die Beklagten zur Zahlung aufgefordert. Eine Reaktion erfolgte nicht.
 
@@ -60,9 +60,10 @@ Betriebskosten lt. Abrechnung 2025         2.460,00
 Rückstand Heizkosten Vorauszahlung         1.140,00
 Mahnspesen                                 120,00
 Zwischensumme                              10.520,00
-Mietzins November 2026 (Fälligkeit)        680,00
+Mietzinsrückstand 2025 (Nachzahlung)       7.880,00
+Summe                                      18.400,00
 
-Die Klagsforderung beträgt somit EUR 18.400,00 samt Zinsen, die nach Ansicht der Klägerin nicht vollständig aus den oben genannten Positionen ableitbar sind. Die Klägerin behält sich die Ausdehnung der Klage vor, sobald die Betriebskostenabrechnung 2026 vorliegt.
+Die Klagsforderung beträgt somit EUR 18.400,00 samt Zinsen. Die Klägerin behält sich die Ausdehnung der Klage vor, sobald die Betriebskostenabrechnung 2026 vorliegt.
 
 IV. Beweise
 

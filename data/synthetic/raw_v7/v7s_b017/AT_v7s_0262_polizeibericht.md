@@ -69,7 +69,7 @@ Die Kreuzung war nach dem Unfall für rund 40 Minuten gesperrt. Die [[organizati
 
 Die Fahrzeuge wurden auf Anordnung der Beamten abgeschleppt. Die Abschleppkosten trägt die Haftpflichtversicherung des Verursachers, sofern die Zuständigkeit geklärt ist.
 
-Der Halter des Lieferwagens hat seine Versicherungsdaten am Unfallort bekanntgegeben. Die Versicherung wurde über die Schadenmeldung informiert, die Polizzen-Nr. wurde übermittelt. Der Pkw wurde am selben Abend in eine Werkstätte in [[location|Graz]] verbracht. Der Lieferwagen wurde zur Sicherung auf einen Parkplatz in [[location|Gleisdorf]] gebracht. Die Schlüssel wurden dem Halter übergeben, der sie bei der Polizeiinspektion abholte. Eine Zeugin am Gehsteig gab an, nichts gesehen zu haben.
+Der Halter des Lieferwagens hat seine Versicherungsdaten am Unfallort bekanntgegeben. Die Versicherung wurde über die Schadenmeldung informiert, die Polizzen-Nr. wurde übermittelt. Der Pkw wurde am selben Abend in eine Werkstätte in [[location|Graz]] verbracht. Der Lieferwagen wurde zur Sicherung auf einen Parkplatz in [[location|Gleisdorf]] gebracht. Die Schlüssel wurden dem Halter übergeben, der sie bei der Polizeiinspektion abholte. Eine Zeugin am Gehsteig gab an, nichts gesehen zu haben. Die Beteiligten wurden über ihre Rechte nach der Strafprozessordnung belehrt; die Belehrung wurde schriftlich bestätigt.
 
 Ausgefertigt in [[location|Gleisdorf]] am [[date|17.08.2026]]
 

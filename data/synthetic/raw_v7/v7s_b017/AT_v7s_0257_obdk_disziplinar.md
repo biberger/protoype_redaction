@@ -78,7 +78,7 @@ Der Senat hat außerdem geprüft, ob die Anzeige fristgerecht erstattet wurde. D
 
 Der Senat hat die Akten der [[organization|ÖRAK]] über die Prüfung der Treuhandbücher beigezogen. Die Prüfung ergab, dass die Treuhandbücher der Kanzlei für die Jahre 2021 und 2022 nicht vollständig geführt waren. Der Beschuldigte hat die Mängel bei der Prüfung eingeräumt und die Buchhaltung inzwischen ausgelagert.
 
-Die Kammeranwältin hat in der Verhandlung angeregt, die Anzeige auch auf die Kanzleiorganisation auszudehnen. Der Senat hat dies abgelehnt, weil der Gegenstand der Anzeige auf die Treuhandgelder beschränkt ist. Die Zustellung der Entscheidung an die Mandantin erfolgt nach Abschluss des Verfahrens.
+Die Kammeranwältin hat in der Verhandlung angeregt, die Anzeige auch auf die Kanzleiorganisation auszudehnen. Der Senat hat dies abgelehnt, weil der Gegenstand der Anzeige auf die Treuhandgelder beschränkt ist. Die Zustellung der Entscheidung an die Mandantin erfolgt nach Abschluss des Verfahrens. Eine Abschrift erhält zudem die Kammer zur Akte, damit sie die Entscheidung in die Aufsicht einbeziehen kann.
 
 Der Senat hat außerdem berücksichtigt, dass die Verfahrensdauer von der Anzeige bis zur Verhandlung rund zehn Monate betrug. Diese Dauer ist auf die Ladung der Zeugen und die Beiziehung der Akten zurückzuführen und dem Beschuldigten nicht anzulasten.
 

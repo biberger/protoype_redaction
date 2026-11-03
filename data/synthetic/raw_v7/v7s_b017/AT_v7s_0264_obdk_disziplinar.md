@@ -78,7 +78,7 @@ Die Beschuldigte hat in der Verhandlung ausgeführt, dass sie die Vergleichsbesp
 
 Der Kammeranwalt [[person|Dr. Giselher Dietmann]] hat darauf hingewiesen, dass die Beschuldigte die Zahlung über das Treuhandkonto ohne Rücksprache mit den beiden Klienten geleistet hat. Dies verstößt gegen die Pflicht, Treuhandgelder nur mit Zustimmung aller Berechtigten auszuzahlen.
 
-Der Senat schließt sich dieser Würdigung an. Die Beschuldigte hat zwar die Restbeträge ausbezahlt, dies geschah jedoch erst nach der Aufforderung durch die Rechtsanwaltskammer und damit nicht freiwillig. Der Beschuldigte hat die Auszahlung gegenüber dem Senat nicht bestritten und den Zeitpunkt der letzten Zahlung selbst bestätigt. Dies stützt die Annahme, dass die Kanzlei ohne externen Druck keine Abrechnung erstellt hätte.
+Der Senat schließt sich dieser Würdigung an. Die Beschuldigte hat zwar die Restbeträge ausbezahlt, dies geschah jedoch erst nach der Aufforderung durch die Rechtsanwaltskammer und damit nicht freiwillig. Der Beschuldigte hat die Auszahlung gegenüber dem Senat nicht bestritten und den Zeitpunkt der letzten Zahlung selbst bestätigt. Dies stützt die Annahme, dass die Kanzlei ohne externen Druck keine Abrechnung erstellt hätte. Der Senat hat die Akten der Kammer insoweit ergänzend gewürdigt und keine weiteren Mängel festgestellt. Die Beschuldigte hat die Gelegenheit zur Stellungnahme erhalten und davon Gebrauch gemacht.
 
 Für den [[court|Disziplinarrat der Rechtsanwaltskammer Wien]]:
 
