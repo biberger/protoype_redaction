@@ -49,11 +49,15 @@ Die Anzeige der Kammer trägt das Zeichen [[other_identifier|BCD-BCDMeder/Hertel
 
 2. Beweiswürdigung
 
-Der Senat stützt sich auf die Kontoauszüge, auf die Aussagen der Klientinnen und auf die Stellungnahme des Beschuldigten. Die Aussage des Beschuldigten, die Gebührennote sei mündlich vereinbart worden, ist durch keinen Beleg gedeckt. Die Kammeranwältin [[person|Dr. Grit Jaksch]] hat in der Verhandlung ausgeführt, dass die Beträge nicht zeitgerecht ausgefolgt wurden.
+Der Senat hat die Akten des Kammeranwalts vollständig eingesehen und stützt sich auf die Kontoauszüge, auf die Aussagen der Klientinnen und auf die Stellungnahme des Beschuldigten. Die Aussage des Beschuldigten, die Gebührennote sei mündlich vereinbart worden, ist durch keinen Beleg gedeckt. Die Kammeranwältin [[person|Dr. Grit Jaksch]] hat in der Verhandlung ausgeführt, dass die Beträge nicht zeitgerecht ausgefolgt wurden.
 
 Die Glaubwürdigkeit der Klientin [[person|Schroth]] ist nach Ansicht des Senats nicht erschüttert. Die Angaben der Klientin [[person|Gritsch]] decken sich mit den Buchungen. Sie hat dem Senat geschildert, dass sie den Betrag als Anzahlung für ein Verfahren übergeben hat, das nie eingeleitet wurde. Der Beschuldigte hat den Betrag nicht zurückgezahlt, bevor die Kammer ihn dazu aufforderte. Ein Schreiben vom [[date|03.12.2022]], mit dem [[person|Gritsch]] die Rückzahlung verlangte, blieb ohne Antwort.
 
-Die Kammeranwältin beantragte in der Verhandlung eine Geldbuße von EUR 5.000,00 sowie die Auflage, die Treuhandbücher für die Jahre 2021 und 2022 dem Ausschuss vorzulegen. Der Beschuldigte beantragte, von einer Strafe abzusehen, da die Gebühren nach seiner Ansicht zustanden und er den Fehler eingesehen habe. Der Senat folgt dem Antrag auf Abstandnahme nicht, weil die Verletzung nicht geringfügig ist.
+Die Kammeranwältin beantragte in der Verhandlung eine Geldbuße von EUR 5.000,00 sowie die Auflage, die Treuhandbücher für die Jahre 2021 und 2022 dem Ausschuss vorzulegen. Der Beschuldigte beantragte, von einer Strafe abzusehen, da die Gebühren nach seiner Ansicht zustanden und er den Fehler eingesehen habe. Der Senat folgt dem Antrag auf Abstandnahme nicht, weil die Verletzung nicht geringfügig ist und die Gebühren ohne schriftliche Vereinbarung nicht fällig waren.
+
+Der Senat hat weiters berücksichtigt, dass der Beschuldigte mit der Klientin [[person|Schroth]] nach der Beschwerde keine Einigung über die Rückzahlung erzielt hat. Die Klientin [[person|Schroth]] hat im Verfahren erklärt, dass sie den Restbetrag bis heute nicht erhalten habe. Der Beschuldigte hat dem nicht widersprochen. Eine Rückzahlung vor der Verhandlung wäre nach Ansicht des Senats geeignet gewesen, das Strafmaß zu mildern, ist aber unterblieben.
+
+Die Verfahrenskosten umfassen die Kosten der Verhandlung, die Reisekosten des Senats und die Kosten der Zustellung. Sie sind dem Beschuldigten nach [[legal_norm|§ 49 Abs 2 RAO]] aufzuerlegen, weil er die Verfehlungen zu verantworten hat.
 
 3. Rechtliche Beurteilung
 

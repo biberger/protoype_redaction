@@ -19,6 +19,7 @@ An das
 
 Streitwert: EUR 12.400,00
 Gegenstand: Zahlung aus einem Werkvertrag samt Verzugszinsen
+UZ: [[other_identifier|G/Schärf/4172]]
 
 KLAGE
 
@@ -29,7 +30,7 @@ IN DER SACHE
 der klagenden Partei [[person|Adalbrecht Schärf]], geboren am [[date_of_birth|23.06.1995]], wohnhaft in [[address|Pfarrgasse 14/2,
 4810 Gmunden]],
 
-vertreten durch Rechtsanwälte OG [[organization|Stöckl, Glantschnig]], Steinhaus, Vertreter laut ERV-Code,
+vertreten durch Rechtsanwälte OG [[organization|Stöckl, Glantschnig]], [[location|Steinhaus]], Vertreter laut ERV-Code,
 
 gegen
 
@@ -57,6 +58,23 @@ I. Sachverhalt
 
 4. Die zweitbeklagte Partei ist Eigentümerin des angrenzenden Gehsteigs, die drittbeklagte Partei ist Straßenerhalterin der Landesstraße, in deren Bereich der Ablauf endet. Beide haben die Verkehrsfläche nicht ordnungsgemäß von Laub und Schlamm freigehalten, wodurch der Abfluss zusätzlich behindert war.
 
+5. Mit Schreiben vom [[date|8. September 2025]] forderte die klagende Partei den Erstbeklagten zur Mängelbehebung und zur Zahlung des Schadens auf. Der Erstbeklagte antwortete am [[date|18. September 2025]], er sei für den Gehsteig nicht verantwortlich und lehne jede Zahlung ab. Ein außergerichtlicher Vergleichsversuch scheiterte daher.
+
+6. Die klagende Partei ließ die Schäden im Keller durch eine Fachfirma beseitigen. Die Kosten für Trocknung, Ausbesserung der Kellerwand und die Erneuerung der Elektroinstallation betrugen EUR 7.350,00. Hinzu kommen Sachverständigenkosten von EUR 1.200,00 und der Verdienstentgang für die Vermietung des Kellerabteils von EUR 850,00.
+
+7. Der Schaden an Einrichtungsgegenständen, insbesondere an einer Waschmaschine, einem Kühlschrank und mehreren Kartons mit Archivunterlagen, wurde mit EUR 3.000,00 beziffert. Eine Ersatzbeschaffung ist bisher nicht erfolgt.
+
+8. Die zweitbeklagte Partei hat auf die Schadensmeldung nicht reagiert. Die drittbeklagte Partei verwies auf die Zuständigkeit des Bauhofs der Gemeinde und lehnte eine Haftung ab, ohne den Zustand des Gullys vor Ort zu prüfen.
+
+Die Schadensaufstellung stellt sich wie folgt dar:
+
+Position | Betrag
+Sanierung Keller | EUR 7.350,00
+Sachverständige | EUR 1.200,00
+Verdienstentgang | EUR 850,00
+Einrichtung | EUR 3.000,00
+Summe | EUR 12.400,00
+
 II. Beweise
 
 Die klagende Partei stützt ihr Vorbringen auf folgende Beweismittel:
@@ -68,7 +86,7 @@ BEILAGE | URKUNDE | VORGELEGT VON [[person|ADALBRECHT SCHÄRF]]
 ./D | Schadensmeldung vom [[date|2. September 2025]] | [[person|Adalbrecht Schärf]]
 ./E | Schreiben der [[organization|LOÖ]] vom [[date|8. Oktober 2025]] | [[organization|Land Oberösterreich]]
 
-Vertragsnummer [[other_identifier|LV-2020-58248]] (Versicherungspolizze der klagenden Partei)
+Vertragsnummer [[other_identifier|LV-2020-58248]]
 
 III. Rechtliche Ausführungen
 
@@ -88,9 +106,9 @@ Die klagende Partei stellt daher den Antrag,
 
 das Gericht möge den beklagten Parteien die Zahlung von EUR 12.400,00 samt Zinsen und Kosten auftragen.
 
-Wels, Gmunden und Steinhaus sind als Gerichtsstände bekannt, das zuständige [[court|BG Gmunden]] wird ersucht, das Verfahren zu eröffnen.
+Das zuständige [[court|BG Gmunden]] wird ersucht, das Verfahren zu eröffnen.
 
-Steinhaus, am [[date|26.10.2026]]
+[[location|Steinhaus]], am [[date|26.10.2026]]
 
 Für die klagende Partei:
 Rechtsanwälte OG [[organization|Stöckl, Glantschnig]]

@@ -35,7 +35,7 @@ Entscheidungsgründe
 
 1. Verfahrensgang
 
-Die [[organization|RAK Tirol]] erstattete am [[date|06.10.2025]] die Disziplinaranzeige. Die Kammeranwältin [[person|Locker]] hatte die Vorerhebungen geführt. Der Beschuldigte [[lawyer|Hutter]] gab am [[date|17.11.2025]] eine schriftliche Stellungnahme ab, in der er den Vorwurf im Wesentlichen bestritt.
+Die [[organization|RAK Tirol]] erstattete am [[date|06.10.2025]] die Disziplinaranzeige. Die Kammeranwältin [[person|Locker]] hatte die Vorerhebungen geführt. Der Beschuldigte [[lawyer|Hutter]] gab am [[date|17.11.2025]] eine schriftliche Stellungnahme ab, in der er den Vorwurf im Wesentlichen bestritt. In der Verhandlung wurde der Geschäftsführer der [[organization|Hoppe]] als Zeuge vernommen.
 
 2. Sachverhalt
 
@@ -49,17 +49,17 @@ Der Restbetrag von 3.000 Euro wurde am [[date|9. Mai 2025]] an die Gesellschaft 
 
 3. Beweiswürdigung
 
-Der Senat stützt die Feststellungen auf die Kontoauszüge, die Mitteilungen der [[organization|RAK Tirol]] und die Aussage des Geschäftsführers der [[organization|Hoppe]]. Der Beschuldigte [[lawyer|Hutter]] hat erklärt, die Zahlung an [[person|Reichmann]] sei mit der Gesellschaft abgesprochen gewesen. Diese Behauptung ist durch keine Urkunde belegt. Die Schriftführerin [[person|Kessler]] hat die Niederschrift über die Vernehmung angefertigt; ihre Angaben decken sich mit den Akten.
+Der Senat stützt die Feststellungen auf die Kontoauszüge, die Mitteilungen der [[organization|RAK Tirol]] und die Aussage des Geschäftsführers der [[organization|Hoppe]]. Der Beschuldigte [[lawyer|Hutter]] hat erklärt, die Zahlung an [[person|Reichmann]] sei mit der Gesellschaft abgesprochen gewesen. Er verwies dabei auf ein Telefonat mit dem Geschäftsführer, das er nicht dokumentiert hatte. Der Geschäftsführer der [[organization|Hoppe]] bestritt das Telefonat in seiner Aussage ausdrücklich und erklärte, er habe der Zahlung nie zugestimmt. Diese Behauptung ist durch keine Urkunde belegt. Die Schriftführerin [[person|Kessler]] hat die Niederschrift über die Vernehmung angefertigt; ihre Angaben decken sich mit den Akten. Die Kammeranwältin [[person|Locker]] legte zudem eine Aufstellung über die Ratenzahlungsvorschläge vor, die die [[organization|Hoppe]] im Februar 2025 an den Beschuldigten [[lawyer|Hutter]] übermittelt hatte. Daraus ergibt sich, dass die Gesellschaft ausdrücklich eine Teilzahlung von 15.000 Euro in Monatsraten vorgeschlagen, nicht aber eine sofortige Überweisung an den Geschäftspartner akzeptiert hatte.
 
 4. Rechtliche Beurteilung
 
 Der Rechtsanwalt hat Treuhandgelder nach [[legal_norm|§ 43a Abs 3 RAO]] nur nach Weisung zu verfügen. Die Zahlung von 15.000 Euro an [[person|Reichmann]] ohne Zustimmung der Auftraggeberin verletzt diese Pflicht in besonderem Maß, weil sie den Anspruch der Gesellschaft gefährdete. Die Verzögerung bei der Herausgabe des Restbetrags ist als weitere Pflichtverletzung zu werten.
 
-Der Senat stimmt darin überein, dass ein Verstoß nicht als geringfügig anzusehen ist. Der Beisitzer [[judge|Dr. Gisbert Peskoller]] wies darauf hin, dass die Auszahlung nach der Lage des Falles nicht vorsätzlich erfolgte. Der Beisitzer [[judge|Dr. Benno zu Hohenlohe-Schillingsfürst]] schloss sich dem an, betonte jedoch die Wichtigkeit der Weisungspflicht.
+Der Senat stimmt darin überein, dass ein Verstoß nicht als geringfügig anzusehen ist. Die Vertrauensbeziehung zwischen dem Rechtsanwalt und seiner Mandantschaft ist Grundlage jeder anwaltlichen Tätigkeit, und die Verwaltung fremder Gelder verlangt daher besondere Sorgfalt. Der Beschuldigte [[lawyer|Hutter]] war als langjähriger Rechtsanwalt mit der Führung von Treuhandkonten vertraut und hätte die Weisungspflicht kennen müssen. Der Beisitzer [[judge|Dr. Gisbert Peskoller]] wies darauf hin, dass die Auszahlung nach der Lage des Falles nicht vorsätzlich erfolgte. Der Beisitzer [[judge|Dr. Benno zu Hohenlohe-Schillingsfürst]] schloss sich dem an, betonte jedoch die Wichtigkeit der Weisungspflicht.
 
 5. Strafbemessung
 
-Mildernd wirkte, dass der Beschuldigte [[lawyer|Hutter]] den Betrag schließlich vollständig herausgab. Erschwerend war die Dauer der Verzögerung. Die Geldbuße von 3.500 Euro erscheint dem Senat angemessen.
+Mildernd wirkte, dass der Beschuldigte [[lawyer|Hutter]] den Betrag schließlich vollständig herausgab. Außerdem hat er die Gesellschaft nach der Rückzahlung um Entschuldigung gebeten, was der Geschäftsführer in seiner Aussage anerkannte. Eine bloße Verwarnung wurde als unzureichend angesehen, weil der Betrag erheblich war. Erschwerend war die Dauer der Verzögerung. Die Geldbuße von 3.500 Euro erscheint dem Senat angemessen. Die Kosten des Verfahrens im Betrag von 1.100 Euro trägt der Beschuldigte [[lawyer|Hutter]].
 
 6. Rechtsmittel
 

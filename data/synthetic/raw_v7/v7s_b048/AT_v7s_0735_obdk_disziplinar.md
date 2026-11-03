@@ -51,7 +51,7 @@ Der Senat stellt klar, dass die Verletzung auch als Verstoß gegen [[legal_norm|
 
 Die Zeugenaussagen
 
-Der Klient [[person|Pixner]] hat in seiner Einvernahme angegeben, dass er die Honorarnote des Beschuldigten erst nach der Auszahlung an den Verkäufer erhalten habe. Die Rechnung war auf den [[date|2. Juli 2021]] datiert, ging dem Klienten jedoch erst am [[date|20. Juli 2021]] zu. Er habe der Abbuchung nicht zugestimmt und sei davon ausgegangen, dass die Mittel vollständig beim Verkäufer angekommen seien.
+Der Klient [[person|Pixner]] hat in seiner Einvernahme angegeben, dass er die Honorarnote des Beschuldigten erst nach der Auszahlung an den Verkäufer erhalten habe. Die Rechnung war auf den [[date|2. Juli 2021]] datiert, ging dem Klienten jedoch erst am [[date|20. Juli 2021]] zu. Er habe der Abbuchung nicht zugestimmt und sei davon ausgegangen, dass die Mittel vollständig beim Verkäufer angekommen seien. Er hat seine Angaben durch eine Kopie des Schriftverkehrs mit dem Verkäufer belegt. Der Senat hält sie für glaubwürdig.
 
 Die Zeugin [[person|Ruth Pesendorfer]], die als Sekretärin in der Kanzlei tätig war, hat die Ablage der Belege bestätigt. Sie hat jedoch angegeben, dass die Belege zu den Entnahmen nach der Anzeige nachträglich in den Akt eingelegt wurden. Der Senat hat dazu festgestellt, dass die Zeugin die Gegebenheiten des Jahres 2021 nicht unmittelbar wahrgenommen hat und ihre Angaben daher nur eingeschränkt verwertbar sind.
 
@@ -63,11 +63,11 @@ Die Geldbuße von 9.000 Euro berücksichtigt den Umfang der Verletzung und die D
 
 Bei der Bemessung hat der Senat auch berücksichtigt, dass der Beschuldigte die Treuhandschaft über mehrere Jahre hinweg ohne eigene Kontrolle der Buchungen geführt hat. Die Verantwortung für die Ordnung des Treuhandbuchs liegt jedoch unmittelbar bei ihm als Kanzleiinhaber, sodass dieser Umstand nicht entlastend wirkt.
 
-Der Senat hat von einer Ausschließung abgesehen. Eine Ausschließung wäre nach [[legal_norm|§ 45 Abs 1 RAO]] nur bei schwerwiegender und fortgesetzter Pflichtverletzung zu verhängen.
+Der Senat hat von einer Ausschließung abgesehen. Eine Veröffentlichung der Entscheidung ist nicht vorgesehen. Eine Ausschließung wäre nach [[legal_norm|§ 45 Abs 1 RAO]] nur bei schwerwiegender und fortgesetzter Pflichtverletzung zu verhängen.
 
 Die Kosten
 
-Die Kosten des Verfahrens werden mit 1.350 Euro bestimmt. Sie sind binnen 14 Tagen nach Zustellung zu entrichten.
+Die Kosten des Verfahrens werden mit 1.350 Euro bestimmt. Sie umfassen die Gebühren des Kammeranwalts, die Schreibgebühren und den Aufwand für die Beiziehung der Kontoauszüge der [[organization|SPB]]. Sie sind binnen 14 Tagen nach Zustellung zu entrichten.
 
 Rechtsmittel
 

@@ -15,7 +15,7 @@ ich nehme zu Ihrer Nachricht vom [[date|14. September 2026]] wie folgt Stellung.
 
 Das Lichtbild der Kreuzung, das Frau [[person|Pavlova]] am Unfalltag mit ihrem Mobiltelefon aufgenommen hat, liegt diesem Schreiben bei. Auf dem Foto ist die Ampel für unsere Fahrtrichtung deutlich grün zu erkennen, der Kombi steht im Bild bereits quer zur Fahrbahn. Wir bitten, diesen Umstand in der Schadensprüfung zu berücksichtigen, zumal die Aufnahme mit Zeitstempel versehen ist. Eine Kopie der Aufnahme wird auf Wunsch zur Verfügung gestellt.
 
-Wir ersuchen die [[organization|Kamptal Assekuranz AG]] daher, die Zahlung von 4.180 Euro netto bis [[date|30. September 2026]] anzuweisen. Sollte die Frist ungenutzt verstreichen, werden wir die Klage beim zuständigen Gericht einbringen.
+Wir ersuchen die [[organization|Kamptal Assekuranz AG]] daher, die Zahlung von 4.180 Euro netto bis [[date|30. September 2026]] anzuweisen. Sollte die Frist ungenutzt verstreichen, werden wir die Klage beim zuständigen Gericht einbringen. Wir bitten um eine kurze Bestätigung des Eingangs dieser Nachricht bis Ende der Woche, damit wir unseren Mandanten entsprechend informieren können.
 
 Mit freundlichen Grüßen
 
@@ -30,7 +30,7 @@ ERV-Code: [[other_identifier|P230111]]
 > Am [[date|14. September 2026]], 08:47, schrieb [[lawyer|Egino Schmit]]:
 > Sehr geehrte Frau Kollegin [[person|Fessler]],
 >
-> danke für Ihre Nachricht vom [[date|11. September 2026]]. Die [[organization|Kamptal Assekuranz AG]] („[[organization|KA]]“) hat den Schaden vom [[date|2. September 2026]] in [[address|8903 Lassing]] geprüft. Nach dem Polizeiprotokoll ist Ihr Mandant bei Gelb in den Kreuzungsbereich eingefahren. Die [[organization|KA]] ist daher nur zu einem Drittel leistungspflichtig.
+> danke für Ihre Nachricht vom [[date|11. September 2026]]. Die [[organization|Kamptal Assekuranz AG]] („[[organization|KA]]“) hat den Schaden vom [[date|2. September 2026]] in [[address|8903 Lassing]] geprüft. Nach dem Polizeiprotokoll ist Ihr Mandant bei Gelb in den Kreuzungsbereich eingefahren. Die [[organization|KA]] ist daher nur zu einem Drittel leistungspflichtig. Eine Quote von 50 % kommt nach unserer Auffassung nicht in Betracht.
 >
 > Unser Sachverständiger [[person|Dipl.-Ing. Harun Oczko]] hat das Fahrzeug am [[date|8. September 2026]] besichtigt und einen Reparaturaufwand von 4.180 Euro netto festgestellt. Die [[organization|KA]] leistet darauf 1.393 Euro. Die Restforderung stellen wir gerne zur Prüfung zur Verfügung, sobald Sie uns die Werkstattrechnung der Firma [[organization|Ruckendorfer]] vorlegen.
 >

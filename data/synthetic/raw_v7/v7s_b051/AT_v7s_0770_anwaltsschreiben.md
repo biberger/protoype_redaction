@@ -14,8 +14,7 @@ ERV-Code: [[other_identifier|R915265]]
 
 [[organization|Traunmoser Versicherung AG]]
 Schadenabteilung Kraftfahrt
-Hauptplatz 11
-8010 Graz
+[[address|Hauptplatz 11, 8010 Graz]]
 
 Unser Zeichen: [[other_identifier|S-LLengauer/Weidinger]]
 Ihr Zeichen: [[other_identifier|KH-2026-0331]]
@@ -27,13 +26,17 @@ Sehr geehrte Damen und Herren!
 
 Wir zeigen an, dass uns Frau [[person|Ursel Lengauer]] mit der Wahrnehmung ihrer Interessen aus dem Verkehrsunfall vom [[date|11. August 2026]] beauftragt hat. Eine Vollmacht liegt bei.
 
-Der Lenker des Fahrzeugs der [[organization|Dirmhirn e.U.]], [[person|Tillmann Schuler]], hat beim Ausparken aus einer Garagenzufahrt in der Ortschaft Spitz das Fahrzeug unserer Mandantin im Bereich der Fahrertür beschädigt. Der Unfall ereignete sich um die Mittagszeit bei trockener Witterung. Als Augenzeuge gab [[person|Ing. Reinald Löwit]] an, dass der Lenker den rückwärtigen Verkehr nicht beachtet habe.
+Der Lenker des Fahrzeugs der [[organization|Dirmhirn e.U.]], [[person|Tillmann Schuler]], hat beim Ausparken aus einer Garagenzufahrt in der Ortschaft [[location|Spitz]] das Fahrzeug unserer Mandantin im Bereich der Fahrertür beschädigt. Der Unfall ereignete sich um die Mittagszeit bei trockener Witterung. Als Augenzeuge gab [[person|Ing. Reinald Löwit]] an, dass der Lenker den rückwärtigen Verkehr nicht beachtet habe.
 
 Die Haftung Ihres Versicherungsnehmers ist aus unserer Sicht dem Grunde nach eindeutig. Die [[organization|Dirmhirn e.U.]] ist Halterin des Fahrzeugs und haftet nach dem [[legal_norm|EKHG]]. Der Lenker [[person|Tillmann Schuler]] war zum Unfallzeitpunkt im Dienst der [[organization|Dirmhirn e.U.]] tätig.
 
 Wir ersuchen Sie daher, die [[organization|Dirmhirn e.U.]] als Ihre Versicherungsnehmerin zur Klärung der Schadenersatzansprüche aufzufordern und uns bis spätestens [[date|30. Oktober 2026]] einen Vorschlag zur Regulierung zu übermitteln. Der Schaden umfasst die Reparaturkosten laut beiliegendem Kostenvoranschlag, die Mietwagenkosten für zwölf Tage sowie eine Wertminderung.
 
-Die Reparatur ist noch nicht durchgeführt worden. Unsere Mandantin bittet um Vorschuss auf die voraussichtlichen Kosten. Die Polizze der [[organization|Dirmhirn e.U.]] trägt die Vertragsnummer [[other_identifier|V-2015-22395]], die Sie bitte bei der Korrespondenz angeben.
+Die Schilderung des Unfallhergangs durch den Lenker weicht von jener unserer Mandantin ab. Der Lenker gab an, er habe die Garagenzufahrt wegen eines parkenden Fahrzeugs nicht einsehen können. Diese Behauptung ist durch die Lichtbilder und die Aussage des Zeugen widerlegt, die in der Schadensmeldung vom [[date|12. August 2026]] festgehalten ist, die wir in Kopie beilegen.
+
+Die Reparatur ist noch nicht durchgeführt worden. Unsere Mandantin bittet um Vorschuss auf die voraussichtlichen Kosten. Die Polizze der [[organization|Dirmhirn]] trägt die Vertragsnummer [[other_identifier|V-2015-22395]], die Sie bitte bei der Korrespondenz angeben.
+
+Die Verjährungsfrist für Schadenersatzansprüche beträgt drei Jahre ab Kenntnis des Schadens und der Person des Ersatzpflichtigen. Wir weisen darauf hin, dass ein Anerkenntnis die Verjährung unterbricht, sofern es nicht ausdrücklich verweigert wird. Eine bloße Zwischenmitteilung ohne Anerkennung genügt dafür nicht.
 
 Sollte die [[organization|Traunmoser Versicherung AG]] ([[organization|TMV]]) die Haftung nicht bis zum genannten Termin anerkennen, werden wir ohne weitere Ankündigung die gerichtliche Geltendmachung einleiten. Eine Stellungnahme der [[organization|TMV]] zum Unfallhergang ersuchen wir ebenfalls mit der Regulierung zu übermitteln.
 

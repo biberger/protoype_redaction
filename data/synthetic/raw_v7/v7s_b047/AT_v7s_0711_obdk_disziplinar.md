@@ -71,7 +71,7 @@ Der Senat wertete als erschwerend, dass der Beschuldigte die Verstöße über ei
 
 Der Beschuldigte ist bisher disziplinär nicht aufgefallen. Die Geldbuße wurde gleichwohl höher als im Antrag der Vorstandschaft bemessen, weil der Senat den Betrag der Zuwendung an die Gesellschaft als schwerwiegend ansah.
 
-Die Untersagung der Entgegennahme von Treuhandgeldern soll der Klientschaft künftig Sicherheit geben. Der Beschuldigte hat dies in der Verhandlung akzeptiert. Die Kammer wird die Einhaltung des Verbots durch Vorlage der Treuhandkontoauszüge in Abständen von sechs Monaten überprüfen. Sollte sich der Beschuldigte nicht daran halten, wird der Senat auf Antrag der Kammeranwältin die Untersagung auf die Dauer von zwei Jahren erstrecken. Die Beschwerdeführerin wurde über diese Regelung informiert.
+Die Untersagung der Entgegennahme von Treuhandgeldern soll der Klientschaft künftig Sicherheit geben. Der Beschuldigte hat dies in der Verhandlung akzeptiert. Die Kammer wird die Einhaltung des Verbots durch Vorlage der Treuhandkontoauszüge in Abständen von sechs Monaten überprüfen. Sollte sich der Beschuldigte nicht daran halten, wird der Senat auf Antrag der Kammeranwältin die Untersagung auf die Dauer von zwei Jahren erstrecken. Die Beschwerdeführerin wurde über diese Regelung informiert und hat erklärt, sie werde die Kammer bei einer weiteren Unregelmäßigkeit unverzüglich informieren. Die Kosten dieser Überprüfung trägt der Beschuldigte.
 
 Gegen dieses Erkenntnis steht dem Beschuldigten und der Kammeranwältin die Berufung an den [[court|OGH]] offen. Die Berufung ist binnen vier Wochen nach Zustellung schriftlich einzubringen.
 
@@ -79,7 +79,7 @@ Der Beschuldigte hat während des Verfahrens Akteneinsicht genommen und in der V
 
 Die Verhandlung wurde mit dem Hinweis geschlossen, dass die Beschwerdeführerin ihre Forderung auf Ersatz des Restbetrags von 13.700 Euro gegenüber dem Beschuldigten zivilrechtlich geltend machen kann; dieses Verfahren ist vom Disziplinarverfahren unabhängig. Der Senat weist darauf hin, dass ein Vergleich über die Rückzahlung die disziplinäre Verantwortung nicht berührt.
 
-Die Erben der Beschwerdeführerin haben in der Verhandlung erklärt, dass sie auf eine Rückzahlung im Wege der Einigung hoffen, aber den Ausgang des zivilrechtlichen Verfahrens abwarten wollen. Die Kammeranwältin hat dazu keine Stellungnahme abgegeben.
+Die Erben der Beschwerdeführerin haben in der Verhandlung erklärt, dass sie auf eine Rückzahlung im Wege der Einigung hoffen, aber den Ausgang des zivilrechtlichen Verfahrens abwarten wollen. Die Kammeranwältin hat dazu keine Stellungnahme abgegeben. Die Schriftführerin hat dies im Protokoll festgehalten.
 
 Die Schriftführerin wird die Zustellung an die Beteiligten veranlassen, einschließlich der Erben der Beschwerdeführerin und der Kammer.
 

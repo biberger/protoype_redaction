@@ -70,7 +70,7 @@ VI. Übergabe und Gewährleistung
 
 1. Die Übergabe der Liegenschaft erfolgt am [[date|30.09.2026]], sofern der vollständige Kaufpreis bis dahin eingegangen ist.
 
-2. Die Verkäuferin haftet für die Gewährleistung nach den Bestimmungen des ABGB, soweit diese nicht ausgeschlossen werden. Ein Gewährleistungsausschluss für versteckte Mängel wird vereinbart, nicht jedoch für arglistig verschwiegene Mängel.
+2. Die Verkäuferin haftet für die Gewährleistung nach den Bestimmungen des [[legal_norm|ABGB]], soweit diese nicht ausgeschlossen werden. Ein Gewährleistungsausschluss für versteckte Mängel wird vereinbart, nicht jedoch für arglistig verschwiegene Mängel.
 
 3. Die Käufer bestätigen, dass ihnen der Zustand des Hauses und die Ergebnisse der vorliegenden Energieausweise bekannt sind.
 

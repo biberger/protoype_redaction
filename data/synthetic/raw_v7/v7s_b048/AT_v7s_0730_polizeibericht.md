@@ -27,13 +27,13 @@ Hinweise zum Versicherungsschutz: Der Pkw ist bei der Versicherung unter der Pol
 
 Der Lkw war für die Strecke nach [[location|Lienz]] gemeldet. Die Ladung wurde nicht beschädigt. Der Sachschaden wird auf 14.200 Euro geschätzt. Der Pkw war ein Kombi der Marke Škoda, der Lkw ein Transporter mit einem zulässigen Gesamtgewicht von 3,5 Tonnen. Beide Fahrzeuge wurden am Unfallort fotografiert, die Lichtbilder zeigen den Anstoßpunkt an der linken Seite des Pkw und die Beschädigung am vorderen Stoßfänger des Lkw.
 
-Die Fahrbahn war zum Unfallzeitpunkt trocken, die Sicht nach Aussage beider Lenker ausreichend. Die Verkehrszeichen im Bereich der Kreuzung waren vorhanden und nicht verdeckt. Auf der Straße wurden keine Bremsspuren des Pkw festgestellt, was die Lenkerin mit einem plötzlichen Ausweichmanöver erklärt hat.
+Die Fahrbahn war zum Unfallzeitpunkt trocken, die Sicht nach Aussage beider Lenker ausreichend. Eine Geschwindigkeitsmessung durch die Verkehrsbeobachtung hat keine Überschreitung ergeben. Die Verkehrszeichen im Bereich der Kreuzung waren vorhanden und nicht verdeckt. Auf der Straße wurden keine Bremsspuren des Pkw festgestellt, was die Lenkerin mit einem plötzlichen Ausweichmanöver erklärt hat.
 
 Die Alkoholvortests verliefen bei allen Lenkern negativ. Die Lenkerin des Pkw gab an, sie habe den Verkehrsspiegel nicht gesehen. GrInsp. [[person|Kaltenbrunner]] hat die Spuren vor Ort fotografiert, die Fotos sind der Anzeige beigelegt.
 
 Die Zeugin [[person|Singer]] hat angegeben, der Lkw sei mit eingeschaltetem Fahrlicht unterwegs gewesen und habe bereits vor der Kreuzung gebremst. RevInsp. [[person|Tomaschek]] hat die Angaben aufgenommen und die Zeugin ersucht, sich für eine Einvernahme bereitzuhalten. Ihre Anschrift wurde am Unfallort erhoben und ist im Akt vermerkt.
 
-Die Anzeige wird an die Bezirkshauptmannschaft übermittelt. Der Pkw wurde abgeschleppt, der Lkw konnte fahrbereit abgegeben werden.
+Die Anzeige wird an die Bezirkshauptmannschaft übermittelt. Der Pkw wurde abgeschleppt, der Lkw konnte fahrbereit abgegeben werden. Die Schlüssel des Pkw wurden der Lenkerin ausgefolgt, die Fahrzeugpapiere wurden zur Sicherstellung im Akt verwahrt, bis der Verbleib des Fahrzeugs geklärt ist. Der Unfall wurde auch der Versicherung der Lenkerin des Lkw gemeldet, die eine Schadensnummer vergeben hat.
 
 Ausgefertigt in [[address|9909 Leisach]], am [[date|14. Oktober 2026]]
 

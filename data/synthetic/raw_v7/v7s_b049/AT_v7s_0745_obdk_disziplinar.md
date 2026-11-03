@@ -64,11 +64,33 @@ Die Verfügung über die Anzahlung vom [[date|08.02.2023]] an die [[organization
 
 Die Pflichtverletzung ist nach Ansicht des Senates als schwer zu werten, weil der Beschuldigte über einen Zeitraum von mehr als einem Jahr Gelder ohne Rechenschaft verwendet hat. Die Treuhandschaft unter der Nummer [[other_identifier|2020/808]] betraf zudem mehrere Wohnungskäufer, deren Interessen gleichermaßen betroffen waren.
 
+IV a. Vorbringen des Beschuldigten und Replik
+
+Der Beschuldigte hat in seiner schriftlichen Stellungnahme vom [[date|2. April 2025]] ausgeführt, dass er die Gelder in Absprache mit dem Klienten [[person|Dolesch]] für die Verwaltung der Wohnanlage verwendet habe. Die Verwaltungskosten seien im Mai 2023 aufgelaufen, als die Eigentümergemeinschaft keine Mittel mehr zur Verfügung gestellt habe. Eine Vereinbarung darüber sei mündlich getroffen, aber nicht dokumentiert worden.
+
+Der Senat hat dieses Vorbringen geprüft. Der Klient [[person|Dolesch]] hat in seiner Einvernahme ausdrücklich verneint, einer Verwendung seiner Anzahlung zugestimmt zu haben. Auch die Zeugin [[person|Neumann]] hat sich in gleicher Weise geäußert. Die Behauptung einer mündlichen Absprache bleibt daher ohne Beleg.
+
+Der Beschuldigte hat weiter vorgebracht, die Honorarnote vom [[date|03.01.2024]] sei nach Abschluss der Vertretung in einem Verfahren vor dem [[court|Landesgericht Innsbruck]] ergangen. Ein Nachweis über die erbrachten Leistungen wurde jedoch nicht vorgelegt. Die Honorarnote enthält keine Angabe zu Stunden, Schriftsätzen oder Verhandlungsterminen, sodass sie nicht überprüfbar ist.
+
+Der Kammeranwalt [[person|Poșircă]] hat in seiner Replik darauf hingewiesen, dass die Verfügung über ein Treuhandkonto stets einen dokumentierten Auftrag voraussetzt. Der Verweis auf eine mündliche Absprache genügt daher nicht, um die Pflichtverletzung auszuschließen. Die Kammeranwaltschaft hält die Anschuldigung in vollem Umfang aufrecht.
+
+Eine Verjährung der Disziplinarvergehen liegt nicht vor. Die letzte Verfügung erfolgte am [[date|03.01.2024]], die Anschuldigung wurde am [[date|3. Februar 2025]] erhoben. Der Senat hat die Zuständigkeit des Disziplinarrates ausdrücklich bejaht, da die Treuhandschaft im Tiroler Gebiet geführt wurde.
+
 V. Strafbemessung
 
 Mildernd war die bisherige disziplinäre Unbescholtenheit des Beschuldigten. Erschwerend war die Dauer des Fehlverhaltens und der Umstand, dass Rückzahlungen erst nach der Anschuldigung erfolgten. Unter Berücksichtigung der wirtschaftlichen Verhältnisse erscheint eine Geldbuße von EUR 6.000,00 tat- und schuldangemessen.
 
-Ein Ausschluss aus der Rechtsanwaltschaft wurde nicht verhängt, da der Beschuldigte die Verfehlungen eingestanden hat, soweit sie die Verwendung der Gelder betreffen. Die Anschuldigung wegen der Honorarnote vom [[date|03.01.2024]] wurde nicht näher geprüft.
+Ein Ausschluss aus der Rechtsanwaltschaft wurde nicht verhängt, da der Beschuldigte die Verfehlungen eingestanden hat, soweit sie die Verwendung der Gelder betreffen. Die Entnahme aufgrund der Honorarnote vom [[date|03.01.2024]] wurde bei der Strafbemessung als Teil des Gesamtfehlverhaltens berücksichtigt, ohne gesondert zu erschweren. Die Teilzahlung von EUR 1.000,00 nach der Anschuldigung wurde als Wiedergutmachung mildernd bewertet, jedoch nicht in dem Ausmaß, dass von einer Geldbuße abzusehen wäre. Der Senat hält eine Geldbuße von EUR 6.000,00 zur Sicherung der Berufspflichten für erforderlich. Die wirtschaftlichen Verhältnisse des Beschuldigten wurden dabei berücksichtigt, da er seine Kanzlei im bisherigen Umfang weiterführen darf.
+
+V a. Feststellungen zur Schadenshöhe
+
+Der Senat stellt fest, dass der Gesamtbetrag der nicht belegten Auszahlungen EUR 15.450,00 beträgt. Davon entfallen EUR 12.300,00 auf die Überweisung an die [[organization|THK]], die als Begleichung offener Rechnungen dargestellt wurde, ohne dass Rechnungen vorgelegt wurden. Die Barabhebung vom [[date|30.05.2023]] in Höhe von EUR 1.200,00 blieb ebenfalls ungeklärt.
+
+Der Betrag von EUR 9.800,00, den die [[organization|Steinmann Immobilien GmbH]] am [[date|14.11.2023]] erhalten hat, war nach der Vereinbarung nur dann auszuzahlen, wenn die Wohnung übergeben worden war. Eine Übergabe ist laut Protokoll der Eigentümerversammlung nicht erfolgt. Die Zeugin [[person|Neumann]] hat dazu erklärt, dass sie erst im Frühjahr 2024 von der Auszahlung erfahren habe.
+
+Die Honorarnote vom [[date|03.01.2024]] in Höhe von EUR 3.150,00 wurde nicht genehmigt und ist nach Ansicht des Senates als unberechtigte Entnahme zu werten. Der Beschuldigte hat den Betrag bis zur Verhandlung nicht zurückgezahlt. Erst nach der Anschuldigung hat er eine Teilzahlung von EUR 1.000,00 geleistet.
+
+Die Feststellungen beruhen auf den Kontenauszügen der Treuhandschaft, den Aussagen der Zeugin [[person|Neumann]] und dem Schreiben des Klienten [[person|Dolesch]] an die Kammer.
 
 VI. Kosten
 

@@ -19,12 +19,12 @@ Eingeschritten: GrInsp. [[person|Thomas Wiesinger]], RevInsp. [[person|Sabine P�
 Beteiligte Personen und Fahrzeuge
 
 BETEILIGTE | GEBURTSDATUM | STAATSANGEHÖRIGKEIT | DOKUMENT | KENNZEICHEN
-[[person|MILDNER MECHTILD]] | [[date_of_birth|05.01.1962]] | StA: [[country|Afghanistan]] | Reisepass [[id_document_number|S1937138]] | [[license_plate|MI-1280 I]]
-[[person|Andrássy Patrícia]] | [[date_of_birth|20.04.1966]] | StA: [[country|Österreich]] | Führerschein [[id_document_number|92932009]] | –
-[[person|Suljic Faketa]] | [[date_of_birth|01.04.1951]] | StA: [[country|Bosnien und Herzegowina]] | Personalausweis [[id_document_number|E6561133]] | –
-[[person|Miloš Baltazar]] | [[date_of_birth|21.07.1937]] | StA: [[country|Türkei]] | Reisepass [[id_document_number|X4744768]] | [[license_plate|E 7595 GY]]
-[[person|Jadid Narmila]] | [[date_of_birth|19.09.1975]] | StA: [[country|Irak]] | – | –
-[[person|Hölzel Irene]] | [[date_of_birth|12.09.1944]] | StA: [[country|Österreich]] | – | –
+[[person|MILDNER MECHTILD]] | [[date_of_birth|1962-01-05]] | StA: [[country|Afghanistan]] | Reisepass [[id_document_number|S1937138]] | [[license_plate|MI-1280 I]]
+[[person|Ing. Patrícia Andrássy]] | [[date_of_birth|1966-04-20]] | StA: [[country|Österreich]] | Führerschein [[id_document_number|92932009]] | –
+[[person|Suljic Faketa]] | [[date_of_birth|1951-04-01]] | StA: [[country|Bosnien und Herzegowina]] | Personalausweis [[id_document_number|E6561133]] | –
+[[person|Miloš Baltazar]] | [[date_of_birth|1937-07-21]] | StA: [[country|Türkei]] | Reisepass [[id_document_number|X4744768]] | [[license_plate|E 7595 GY]]
+[[person|Jadid Narmila]] | [[date_of_birth|1975-09-19]] | StA: [[country|Irak]] | – | –
+[[person|Hölzel Irene]] | [[date_of_birth|1944-09-12]] | StA: [[country|Österreich]] | – | –
 
 Die Angaben zu den Personen stammen aus dem Lenkerausweis und dem Reisepass, die die Beteiligten vorgewiesen haben.
 
@@ -32,9 +32,9 @@ Angaben zum Unfall
 
 Am [[date|14.10.2022]] gegen 07:40 Uhr fuhr [[person|Mildner]] mit dem Pkw auf der Landesstraße L 77 aus Richtung der [[street|Dorfstraße]] kommend in die Kreuzung ein. Der Vorrang des von rechts kommenden Fahrzeugs wurde nach den Zeugenangaben nicht beachtet. Das entgegenkommende Fahrzeug, gelenkt von [[person|Miloš]], stieß im Kreuzungsbereich mit dem Pkw von [[person|Mildner]] zusammen.
 
-[[person|Baltazar Miloš]], *[[date_of_birth|21.07.1937]], StA: [[country|Türkei]], gab an, er habe die Fahrbahn wegen eines entgegenkommenden Traktors nicht rechtzeitig einsehen können. Er besitzt einen Führerschein, der [[id_document_number|92932009]] vorgewiesen wurde, und ist im Besitz eines gültigen Reisepasses, Nr. [[id_document_number|X4744768]].
+[[person|Baltazar Miloš]], *[[date_of_birth|1937-07-21]], StA: [[country|Türkei]], gab an, er habe die Fahrbahn wegen eines entgegenkommenden Traktors nicht rechtzeitig einsehen können. Er besitzt einen Führerschein, der [[id_document_number|92932009]] vorgewiesen wurde, und ist im Besitz eines gültigen Reisepasses, Nr. [[id_document_number|X4744768]].
 
-Die Mitfahrerin [[person|Irene Hölzel]], geb. [[date_of_birth|12.09.1944]], Tel. [[phone_number|0664 3307 812]], wurde leicht verletzt und vom Rettungsdienst zur Untersuchung ins Krankenhaus gebracht. Frau [[person|Hölzel]] gab an, sie habe auf der Rückbank gesessen und den Zusammenstoß nicht gesehen. Sie wurde nach der Untersuchung entlassen und gab an, Schmerzen im Halswirbelbereich zu verspüren; ein Arztbrief wird nachgereicht.
+Die Mitfahrerin [[person|Irene Hölzel]], geb. [[date_of_birth|1944-09-12]], Tel. [[phone_number|0664 3307 812]], wurde leicht verletzt und vom Rettungsdienst zur Untersuchung ins Krankenhaus gebracht. Frau [[person|Hölzel]] gab an, sie habe auf der Rückbank gesessen und den Zusammenstoß nicht gesehen. Sie wurde nach der Untersuchung entlassen und gab an, Schmerzen im Halswirbelbereich zu verspüren; ein Arztbrief wird nachgereicht.
 
 Verletzungen
 
@@ -42,7 +42,7 @@ Verletzungen
 
 Ergänzende Angaben der Beteiligten
 
-Die Lenkerin [[person|Mildner]] gab bei der Erstbefragung an, sie sei kurz vor der Kreuzung von einem Traktor überholt worden, der den Blick auf die Vorfahrtsstraße versperrt habe. Diese Angaben konnten durch die Zeugenaussage nicht bestätigt werden, da der Zeuge den Traktor nicht gesehen hat. [[person|Miloš]] bestätigte, dass er den Traktor gesehen habe, aber erst kurz vor dem Zusammenstoß. Beide Lenker wurden darauf hingewiesen, dass sie zu einer Verwaltungsübertretung befragt werden können.
+Die Lenkerin [[person|Mildner]] gab bei der Erstbefragung an, sie sei kurz vor der Kreuzung von einem Traktor überholt worden, der den Blick auf die Vorfahrtsstraße versperrt habe. Diese Angaben konnten durch die Zeugenaussage nicht bestätigt werden, da der Zeuge den Traktor nicht gesehen hat. [[person|Miloš]] bestätigte, dass er den Traktor gesehen habe, aber erst kurz vor dem Zusammenstoß. Beide Lenker wurden darauf hingewiesen, dass sie zu einer Verwaltungsübertretung befragt werden können. Die Lenkerin [[person|Mildner]] ersuchte um einen Dolmetscher, der jedoch nicht erforderlich war, da sie die deutsche Sprache ausreichend beherrscht; sie bestätigte dies durch ihre Unterschrift auf dem Protokoll. Der Zeuge [[person|Pichler]] wurde gebeten, eine schriftliche Erklärung zu unterfertigen, was er verweigerte, weil er den Vorgang nicht vollständig gesehen habe.
 
 Versicherung und Schadensmeldung
 
@@ -58,15 +58,17 @@ Die Unfallstelle wurde um 08:05 Uhr durch die Dienststelle gesichert und vermess
 
 Am Pkw von [[person|Mildner]] entstanden Schäden an der linken vorderen Tür, am Kotflügel und an der Windschutzscheibe; das Fahrzeug war nicht mehr fahrbereit und wurde abgeschleppt. Am Fahrzeug von [[person|Miloš]] wurde die rechte Front stark eingedrückt, der Beifahrerairbag hat ausgelöst. Beide Fahrzeuge wurden auf den Sammelplatz der [[organization|Feuerwehr Schwarzenau]] verbracht.
 
-Der Zeuge [[person|Pichler]] wurde am [[date|15.10.2022]] telefonisch ergänzend befragt. Er gab an, er habe den Pkw von [[person|Mildner]] bereits vor der Kreuzung gesehen und den Eindruck gehabt, dass die Lenkerin die Geschwindigkeit nicht verringert habe. Eine Videoaufnahme vom Gasthof existiert nicht. Die Ermittlungen dauern an; eine Anfrage an die Versicherung und an den Hersteller des Unfallfahrzeugs wegen der Auslesung der Airbag-Steuergeräte wurde gestellt. Die Ergebnisse werden in einem Nachtrag zu diesem Bericht festgehalten.
+Der Zeuge [[person|Pichler]] wurde am [[date|15.10.2022]] telefonisch ergänzend befragt. Er gab an, er habe den Pkw von [[person|Mildner]] bereits vor der Kreuzung gesehen und den Eindruck gehabt, dass die Lenkerin die Geschwindigkeit nicht verringert habe. Eine Videoaufnahme vom Gasthof existiert nicht. Die Ermittlungen dauern an; eine Anfrage an die Versicherung und an den Hersteller des Unfallfahrzeugs wegen der Auslesung der Airbag-Steuergeräte wurde gestellt. Die Ergebnisse werden in einem Nachtrag zu diesem Bericht festgehalten. Bis dahin gilt der Sachverhalt, wie er in diesem Bericht dargestellt ist, als vorläufig festgestellt. Die Straßenbreite an der Kreuzung beträgt sieben Meter, die Sichtweite nach links rund 60 Meter. Die Witterung war trocken, die Fahrbahn war ohne Schnee oder Glätte.
 
-Die Identität der Beteiligten wurde anhand der vorgelegten Dokumente geprüft. Die Nummer des Reisepasses von [[person|Mildner]] wurde mit [[id_document_number|S1937138]] festgestellt; [[person|Suljic]] legte den Personalausweis [[id_document_number|E6561133]] vor.
+Die Identität der Beteiligten wurde anhand der vorgelegten Dokumente geprüft. Die Angaben zur Versicherung wurden mit dem Versicherungsschein abgeglichen und stimmen mit der Schadenmeldung überein. Die Kennzeichen beider beteiligten Fahrzeuge wurden durch Abfrage im Zentralen Melderegister bestätigt; Halter ist jeweils die lenkende Person. Die Nummer des Reisepasses von [[person|Mildner]] wurde mit [[id_document_number|S1937138]] festgestellt; [[person|Suljic]] legte den Personalausweis [[id_document_number|E6561133]] vor.
 
 Die Anzeige umfasst zudem die Frage, ob die Sichtverhältnisse bei der Einfahrt in die Kreuzung durch den Bewuchs eingeschränkt waren. Die Straßenmeisterei wurde ersucht, den Bewuchs am Kreuzungsrand zu überprüfen; das Ergebnis wird nachgereicht.
 
 Anzeige
 
 Gegen den Lenker des Fahrzeugs von [[person|Mildner]] wird wegen des Verdachts der Verletzung des Vorrangs nach der [[legal_norm|StVO]] Anzeige erstattet. Gegen [[person|Miloš]] wird wegen einer möglichen Geschwindigkeitsüberschreitung ein Verfahren eingeleitet.
+
+Die Anzeige wird dem zuständigen Bezirksverwaltungsamt übermittelt, das über eine allfällige Verwaltungsübertretung entscheidet. Die Beteiligten wurden über die Möglichkeit der Akteneinsicht und über ihr Recht auf Äußerung belehrt; eine schriftliche Stellungnahme ist binnen zwei Wochen einzubringen.
 
 Ich erkläre, dass die Angaben nach bestem Wissen und Gewissen gemacht wurden.
 

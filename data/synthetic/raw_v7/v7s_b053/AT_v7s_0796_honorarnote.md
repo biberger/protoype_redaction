@@ -37,7 +37,7 @@ Datum | Leistung | Betrag EUR
 [[date|17.06.2026]] | Telefonat mit [[person|Kristin Paneth]] zur Akteneinsicht, Besprechungsnotiz | 145,00
 [[date|01.07.2026]] | Schriftsatz zur Zahlungsaufforderung, Abstimmung mit der Klientin | 390,00
 [[date|24.07.2026]] | Verhandlung vor dem [[court|BG Gmunden]], Teilnahme der Klientin | 1.150,00
-[[date|24.07.2026]] | Fahrtkosten Gmunden – [[location|St. Pölten]] und zurück (Kilometergeld) | 84,00
+[[date|24.07.2026]] | Fahrtkosten [[location|Gmunden]] – [[location|St. Pölten]] und zurück (Kilometergeld) | 84,00
 [[date|09.08.2026]] | Prüfung des Vergleichsentwurfs der Gegenseite, Rücksprache mit [[person|Kristin Paneth]] | 260,00
 
 Zwischensumme netto: 3.029,00

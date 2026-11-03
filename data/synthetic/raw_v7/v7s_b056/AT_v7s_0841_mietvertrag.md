@@ -56,6 +56,14 @@ V. Übergabe und Instandhaltung
 
 11. Kleinreparaturen bis zu einem Betrag von € 90,00 je Einzelfall trägt der Mieter. Größere Instandsetzungen zeigt der Mieter der Vermieterin unverzüglich an. Die Vermieterin hat die Schäden auf eigene Kosten zu beheben, soweit sie nicht vom Mieter verschuldet wurden.
 
+11a. Der Mieter darf die Wohnung nur zu Wohnzwecken verwenden. Eine Untervermietung, auch teilweise, ist nur mit schriftlicher Zustimmung der Vermieterin zulässig. Die Haltung von Kleintieren in der Wohnung ist gestattet, sofern dadurch keine Belästigung der übrigen Hausbewohner entsteht.
+
+11b. Der Mieter verpflichtet sich, das Stiegenhaus, den Waschraum und den Hofbereich sauber zu halten. Der Müll ist nach der Hausordnung zu trennen und an den vorgesehenen Stellen bereitzustellen. Den Stellplatz im Hof darf der Mieter nur für ein zugelassenes Fahrzeug nutzen. Das Kennzeichen des Fahrzeuges ist der Vermieterin bei Übergabe mitzuteilen.
+
+11c. Die Vermieterin ist berechtigt, die Wohnung nach vorheriger Ankündigung von mindestens drei Werktagen zu betreten, wenn dies zur Überprüfung der Heizungsanlage oder zur Ablesung der Zähler erforderlich ist. In Notfällen ist der Zutritt ohne Ankündigung zulässig.
+
+11d. Der Mieter hat die Mietzinse auch während allfälliger Umbauten im Haus weiter zu entrichten. Eine Minderung ist nur insoweit möglich, als die Gebrauchstauglichkeit der Wohnung tatsächlich eingeschränkt ist.
+
 VI. Vorvertrag und Schlussbestimmungen
 
 12. Das vorhergehende Mietverhältnis (Vertragsnummer [[other_identifier|LV-2016-3999]]) wird im Einvernehmen mit Wirkung zum Beginn dieses Vertrages aufgelöst. Der Mieter bestätigt, dass ihm aus dem früheren Mietverhältnis keine Ansprüche gegen [[organization|Schmirl Bau]] mehr zustehen.
@@ -80,3 +88,18 @@ Beilagen:
 ./A Grundbuchsauszug der Liegenschaft [[land_register_id|KG 30447 Asparn an der Zaya]], [[land_register_id|EZ 929]]
 ./B Energieausweis der Wohnung
 ./C Hausordnung
+
+Übergabeprotokoll vom [[date|1. April 2025]]
+
+Gegenstand              Zählerstand bei Übergabe     Bemerkung
+Stromzähler             41872                        neuer Zähler, geeicht
+Gaszähler               00318                        Gastherme überprüft
+Wasserzähler Küche      0213,4 m³                    tropfender Hahn behoben
+Wasserzähler Bad        0189,9 m³                    keine Mängel
+
+Schlüssel: 3 Wohnungsschlüssel, 1 Kellerschlüssel, 1 Postschlüssel, 1 Hoftor-Funkfernbedienung
+
+Die Wohnung wurde in ordnungsgemäßem Zustand übergeben. Der Mieter bestätigt den Erhalt der Schlüssel und der Unterlagen. Gegen die Übergabe erhebt der Mieter keine Einwendungen.
+
+Für die Vermieterin: [[person|Kircher]]
+Für den Mieter: [[person|Summereder]]

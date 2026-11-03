@@ -61,15 +61,15 @@ Die Verlassenschaft bleibt bis zur Einantwortung im Besitz der Liegenschaften. D
 
 Ergänzende Angaben
 
-Der Erblasser war zuletzt als Kraftfahrer beschäftigt. [[person|Ornsteins]] Dienstverhältnis endete mit dem Todestag. Die Hausverwaltung ist unter [[phone_number|0316/9185631-40]] erreichbar, sie hat die Abrechnung der Betriebskosten für das Jahr 2025 vorgelegt. Die Abfertigung ist an die Erben gemäß [[legal_norm|§ 23 AngG]] auszuzahlen.
+Der Erblasser war zuletzt als Kraftfahrer beschäftigt. [[person|Ornsteins]] Dienstverhältnis endete mit dem Todestag. Die Hausverwaltung ist unter Tel. [[phone_number|0316/9185631-40]] erreichbar, sie hat die Abrechnung der Betriebskosten für das Jahr 2025 vorgelegt. Die Abfertigung ist an die Erben gemäß [[legal_norm|§ 23 AngG]] auszuzahlen.
 
-Die Erben haben die Nachlassverbindlichkeiten anerkannt. Die Erbquoten sind im Inventar unter Berücksichtigung des Vermächtnisses festgesetzt, das vorab zu erfüllen ist, und werden nach [[legal_norm|§§ 143, 145 AußStrG]] zur Einantwortung vorgelegt.
+Die Erben haben die Nachlassverbindlichkeiten anerkannt. Die Anerkennung erfolgte schriftlich und ist dem Akt beigelegt. Einwendungen dagegen wurden bis zum Schluss der Verhandlung nicht erhoben. Die Erbquoten sind im Inventar unter Berücksichtigung des Vermächtnisses festgesetzt, das vorab zu erfüllen ist, und werden nach [[legal_norm|§§ 143, 145 AußStrG]] zur Einantwortung vorgelegt.
 
 Die Erbin [[person|Savarese]] hat angeregt, die Liegenschaft nach dem Verkehrswert zu veräußern, um die Hypothek zu tilgen. Die übrigen Erben haben zugestimmt.
 
 Der Kontostand per Stichtag wurde durch Auszug der Bank bestätigt. Die Erben haben den Auszug zur Akte gereicht.
 
-Die Erbin [[person|Savarese]] hat darauf hingewiesen, dass der Erblasser in den letzten zwei Jahren mehrere Überweisungen an einen Verein für Tierschutz getätigt hat. Die Summe der Zuwendungen beläuft sich auf 1.240 Euro. Die Erben sind sich einig, dass diese Zahlungen als Schenkungen auf den Todesfall nicht zu beanstanden sind, soweit sie den üblichen Rahmen nicht überschreiten. Eine Rückforderung wird nicht geltend gemacht.
+Die Erbin [[person|Savarese]] hat darauf hingewiesen, dass der Erblasser in den letzten zwei Jahren mehrere Überweisungen an einen Verein für Tierschutz getätigt hat. Die Summe der Zuwendungen beläuft sich auf 1.240 Euro. Die Erben sind sich einig, dass diese Zahlungen als Schenkungen auf den Todesfall nicht zu beanstanden sind, soweit sie den üblichen Rahmen nicht überschreiten. Eine Rückforderung wird nicht geltend gemacht. Die Zahlungen sind in den Kontoauszügen der Bank nachvollziehbar und wurden von den Erben ausdrücklich zur Kenntnis genommen. Die Erben haben dies einvernehmlich festgestellt. Eine Ergänzung wird nicht notwendig sein.
 
 Der Erblasser hat zudem einen Vorsorgeauftrag errichtet, der bei Gericht nicht hinterlegt war. Das Dokument wurde von den Erben vorgelegt und ist dem Inventar als Beilage angeschlossen.
 

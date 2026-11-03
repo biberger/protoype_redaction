@@ -68,7 +68,7 @@ Das [[court|BG Liezen]] hat den Akt am [[date|20. Juli 2026]] zur Ergänzung zur
 
 Die Erben [[person|Handel-Mazzetti]] und [[person|Vasilev]] haben gemeinsam beantragt, die Liegenschaft zu verwerten, um die Pfandschuld zu tilgen. Der Antrag wurde vom Gericht zur Kenntnis genommen, eine Entscheidung steht noch aus.
 
-Der Entwurf des Inventars liegt bei der Verlassenschaft auf. Einwendungen sind binnen 14 Tagen ab Zustellung schriftlich einzubringen.
+Der Entwurf des Inventars liegt bei der Verlassenschaft auf. Er enthält die Erbquoten, das Vermächtnis und den Hinweis auf die Erbschaftssteuer. Einwendungen sind binnen 14 Tagen ab Zustellung schriftlich einzubringen. Die Erben werden über den Termin der Einantwortung gesondert verständigt.
 
 [[location|Wartmannstetten]], am [[date|2. November 2026]]
 

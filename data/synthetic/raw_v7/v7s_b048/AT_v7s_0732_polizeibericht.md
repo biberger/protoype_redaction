@@ -38,7 +38,7 @@ Der Sachschaden wird auf insgesamt 38.500 Euro geschätzt. Die Fahrzeuge 1, 2 un
 
 Ergänzend wird festgehalten, dass die Ampelanlage im Bereich der Unfallstelle wegen Bauarbeiten außer Betrieb war. Die Baustelle wurde von der [[organization|Straßenmeisterei Lienz]] eingerichtet, die Zuständigkeit für die Absicherung lag bei der Baufirma. Ein Hinweis auf die Gefahrenstelle war nach Angaben der Lenkerin [[person|Krasteva]] nicht aufgestellt.
 
-Der Vorfall wird nach [[legal_norm|§ 88 StGB]] geprüft, soweit Personen verletzt wurden. Eine Anzeige nach [[legal_norm|§ 102 Abs 3 KFG]] wird gegen die Lenkerin des Fahrzeugs 1 erstattet, da die Verwendung eines Mobiltelefons während der Fahrt unzulässig war.
+Der Vorfall wird nach [[legal_norm|§ 88 StGB]] geprüft, soweit Personen verletzt wurden. Eine Anzeige nach [[legal_norm|§ 102 Abs 3 KFG]] wird gegen die Lenkerin des Fahrzeugs 1 erstattet, da die Verwendung eines Mobiltelefons während der Fahrt unzulässig war. Eine Ausfertigung der Anzeige geht auch an die [[organization|Bezirkshauptmannschaft Lienz]], die über das Lenkverbot zu entscheiden hat.
 
 Die Versicherung der Lenkerin [[person|Jusits]] wurde bisher nicht bekanntgegeben. Frau [[person|Pein]] hat die Schadennummer [[other_identifier|35/242928/20]] erhalten. Sie wurde angewiesen, sich mit ihrer Kfz-Versicherung in Verbindung zu setzen.
 
@@ -50,11 +50,11 @@ Die Beamtin BezInsp. [[person|Wallner]] hat die Fahrzeugpapiere aller Beteiligte
 
 Bei der Lenkerin des Fahrzeugs 4 wurde festgestellt, dass der Führerschein nur für Fahrzeuge bis 3,5 Tonnen gilt. Das Fahrzeug selbst war jedoch ein Pkw, sodass hier keine Beanstandung erfolgt. Der Führerschein wurde zur Überprüfung eingezogen und nach Abschluss der Kontrolle wieder ausgefolgt.
 
-Die Verletzungen der Beteiligten wurden im [[organization|Krankenhaus Lienz]] dokumentiert. Eine Weiterleitung der Befunde an die Polizei erfolgt nur mit ausdrücklicher Zustimmung der betroffenen Personen. Frau [[person|Starkl]] hat ihre Zustimmung bereits erteilt.
+Die Verletzungen der Beteiligten wurden im [[organization|Krankenhaus Lienz]] dokumentiert. Eine Weiterleitung der Befunde an die Polizei erfolgt nur mit ausdrücklicher Zustimmung der betroffenen Personen. Die Zustimmung der übrigen Verletzten steht noch aus. Die Beamten haben die Zustimmung für den Fall einer Befundanforderung bereits angekündigt. Frau [[person|Starkl]] hat ihre Zustimmung bereits erteilt.
 
 Die Anzeige wird an die Bezirkshauptmannschaft übermittelt, die über die verwaltungsrechtlichen Folgen entscheidet. Die Zeugen sind unter den im Akt vermerkten Anschriften erreichbar.
 
-Die Anzeigen gegen die Lenkerin Jusits sind auf zwei Delikte gerichtet: die Verwendung des Mobiltelefons während der Fahrt und das Nichteinhalten des Sicherheitsabstands. Die Lenkerin hat dazu angegeben, sie habe nur kurz auf eine Nachricht ihrer Tochter geschaut. Die Beamten haben das Gerät sichergestellt und die letzte Nutzung zeitlich dem Unfallgeschehen zugeordnet, sodass die Angabe nicht widerlegt werden kann, aber auch nicht bestätigt ist.
+Die Anzeigen gegen die Lenkerin [[person|Jusits]] sind auf zwei Delikte gerichtet: die Verwendung des Mobiltelefons während der Fahrt und das Nichteinhalten des Sicherheitsabstands. Die Lenkerin hat dazu angegeben, sie habe nur kurz auf eine Nachricht ihrer Tochter geschaut. Die Beamten haben das Gerät sichergestellt und die letzte Nutzung zeitlich dem Unfallgeschehen zugeordnet, sodass die Angabe nicht widerlegt werden kann, aber auch nicht bestätigt ist.
 
 Die Lenkerin des Fahrzeugs 4 hat den Gehsteig nicht befahren. Frau [[person|Krasteva]] hat den Grünstreifen genutzt, um dem Pkw auszuweichen, und dabei eine Begrenzungsleiste beschädigt. Der Schaden an der Leiste wurde von der Gemeinde mit 620 Euro beziffert und wird ihr gesondert in Rechnung gestellt.
 

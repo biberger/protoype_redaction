@@ -98,7 +98,7 @@ Die Kosten des Verfahrens werden mit 1.080 Euro bestimmt und sind binnen 14 Tage
 
 Rechtsmittelbelehrung
 
-Gegen dieses Erkenntnis ist die Berufung an die [[court|OBDK]] binnen vier Wochen nach Zustellung zulässig. Die Berufung ist beim Disziplinarrat einzubringen. Die Zustellung dieses Erkenntnisses erfolgt an den Beschuldigten persönlich sowie an die [[organization|ORAK]] und den Kammeranwalt. Der Klient [[person|Tesarek]] erhält eine Abschrift des Spruchs, soweit er die Rückzahlung betrifft. Eine Veröffentlichung im Mitteilungsblatt der Kammer unterbleibt, sofern nicht ein Rechtsmittel der Kammer dies erforderlich macht.
+Gegen dieses Erkenntnis ist die Berufung an die [[court|OBDK]] binnen vier Wochen nach Zustellung zulässig. Die Berufung ist beim Disziplinarrat einzubringen. Die Zustellung dieses Erkenntnisses erfolgt an den Beschuldigten persönlich sowie an die [[organization|ORAK]] und den Kammeranwalt. Der Klient [[person|Tesarek]] erhält eine Abschrift des Spruchs, soweit er die Rückzahlung betrifft. Eine Veröffentlichung im Mitteilungsblatt der Kammer unterbleibt, sofern nicht ein Rechtsmittel der Kammer dies erforderlich macht. Die Frist für die Berufung beginnt mit der Zustellung an den Beschuldigten zu laufen, nicht mit der Verkündung in der Verhandlung. Der Senat hat dies ausdrücklich festgehalten.
 
 Für den Disziplinarrat:
 

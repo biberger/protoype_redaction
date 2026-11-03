@@ -4,7 +4,7 @@ jurisdiction: AT
 lang: de
 ---
 Von: [[person|Kai Kahr]]
-Gesendet: Montag, 12. Jänner 2026 08:47
+Gesendet: Montag, [[date|12. Jänner 2026]] 08:47
 An: [[lawyer|Eusebius Sima]]
 Betreff: AW: Schaden-Nr. [[other_identifier|57/980343/21]] - Unfall vom [[date|28.12.2025]]
 
@@ -12,15 +12,15 @@ Sehr geehrter Herr [[lawyer|Sima]],
 
 danke für Ihre Nachricht. Ich bin mit dem Vorschlag einverstanden, die Reparaturrechnung vorerst nicht einzureichen. Ich habe die Fotos vom Heck meines Fahrzeugs an Frau [[lawyer|Küng]] weitergeleitet, damit ihre Mandantschaft den Schaden prüfen kann.
 
-Bitte bestätigen Sie mir, ob ich am [[date|20.01.2026]] beim Termin im Büro sein muss oder ob eine Telefonkonferenz reicht.
+Bitte bestätigen Sie mir, ob ich am [[date|20.01.2026]] beim Termin im Büro sein muss oder ob eine Telefonkonferenz reicht. Die Reparaturrechnung kann ich Ihnen bis Freitag übermitteln; ich habe den Betrag bereits bei meiner Versicherung angefragt.
 
 Mit freundlichen Grüßen
 
-Kai Kahr
+[[person|Kai Kahr]]
 
 -----Ursprüngliche Nachricht-----
 Von: [[lawyer|Eusebius Sima]]
-Gesendet: Freitag, 9. Jänner 2026 16:02
+Gesendet: Freitag, [[date|9. Jänner 2026]] 16:02
 An: [[person|Kai Kahr]]
 Betreff: WG: Schaden-Nr. [[other_identifier|57/980343/21]]
 
@@ -34,7 +34,7 @@ Unser Zeichen: [[other_identifier|WF/Sima/1396]]
 
 Mit freundlichen Grüßen
 
-Eusebius Sima
+[[lawyer|Eusebius Sima]]
 
 R e c h t s a n w a l t s   G m b H
 [[organization|Z E L G E R]]
@@ -47,7 +47,7 @@ ERV-Code: [[other_identifier|R459785]]
 
 -----Ursprüngliche Nachricht-----
 Von: [[lawyer|Gisela Küng]]
-Gesendet: Mittwoch, 17. Dezember 2025 11:30
+Gesendet: Mittwoch, [[date|17. Dezember 2025]] 11:30
 An: [[lawyer|Eusebius Sima]]
 Betreff: Schaden-Nr. [[other_identifier|57/980343/21]]
 
@@ -55,7 +55,7 @@ Sehr geehrter Herr Kollege [[lawyer|Sima]],
 
 ich vertrete die [[organization|Höck Handels GmbH]] ([[company_register_number|FN 111984h]], UID: [[tax_id|ATU07837242]]) in der Angelegenheit des Verkehrsunfalls. Mein Mandant [[person|Anastasius Wang]], Geschäftsführer der [[organization|Höck]], weist jede Haftung zurück. Das Fahrzeug der [[organization|Höck]] stand zum Unfallzeitpunkt nicht im Halteverbot; der Zeuge bestätigt dies.
 
-Ich bitte um Übersendung der Reparaturrechnung und der Fotos bis zum [[date|31.01.2026]].
+Ich bitte um Übersendung der Reparaturrechnung und der Fotos bis zum [[date|31.01.2026]]. Bitte informieren Sie außerdem Ihre Haftpflichtversicherung, damit deren Sachbearbeitung die Angelegenheit bis dahin prüfen kann.
 
 Mit freundlichen Grüßen
 

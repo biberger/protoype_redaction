@@ -23,7 +23,7 @@ abgeschlossen zwischen
 
 Präambel
 
-Die Verkäuferin ist Eigentümerin der Liegenschaft [[land_register_id|KG: Weppersdorf]] [[land_register_id|EZ 3468]], Grundstück Nr. [[land_register_id|1411]]. Die Liegenschaft ist mit einem Wohnhaus bebaut. Der an die Liegenschaft angrenzende Grundanteil wurde von [[person|Dario Miličević]], *[[date_of_birth|1957-12-07]], als Vorkaufsberechtigter geprüft. Herr [[person|Miličević]] hat mit Erklärung vom [[date|2. Mai 2026]] auf sein Vorkaufsrecht verzichtet.
+Die [[organization|Schachinger]] ist Eigentümerin der Liegenschaft [[land_register_id|KG: Weppersdorf]] [[land_register_id|EZ 3468]], Grundstück Nr. [[land_register_id|1411]]. Die Liegenschaft ist mit einem Wohnhaus bebaut. Der an die Liegenschaft angrenzende Grundanteil wurde von [[person|Dario Miličević]], *[[date_of_birth|1957-12-07]], als Vorkaufsberechtigter geprüft. Herr [[person|Miličević]] hat mit Erklärung vom [[date|2. Mai 2026]] auf sein Vorkaufsrecht verzichtet.
 
 I. Kaufgegenstand
 
@@ -53,6 +53,12 @@ VI. Aufsandungserklärung
 
 Die Verkäuferin erklärt die Einwilligung in die Einverleibung des Eigentumsrechts zugunsten der Käufer. Die Erklärung ist nach [[legal_norm|§ 32 GBG]] in der Form einer öffentlichen Urkunde abzugeben. Die Kanzlei ist ermächtigt, die Eintragung im Grundbuch zu beantragen. Eine Ausfertigung dieser Urkunde ist den Käufern auszuhändigen.
 
+VI a. Vollmacht und Auflagen des Grundbuchs
+
+Die Käufer erteilen der Kanzlei eine Vollmacht zur Einholung des Grundbuchsauszuges und zur Entgegennahme von Bescheiden. Die Verkäuferin verpflichtet sich, bis zur Auszahlung des Kaufpreises keine weiteren Belastungen der Liegenschaft zu bewilligen. Ein Pfandrecht der [[organization|Hypo Tirol Bank AG]] auf dem Grundstück ist vor Kaufpreiszahlung zu löschen; die Löschungsurkunde ist der Kanzlei zu übermitteln.
+
+Die Kosten der Lastenfreistellung und der Löschung betragen nach dem Angebot der Bank EUR 1.850,00 und werden von der Verkäuferin getragen. Die Grundbuchsgebühren sind von den Käufern zu tragen. Der Kaufpreis wird erst dann ausbezahlt, wenn die Eintragung der Eigentumsübertragung und die Löschung vorliegen.
+
 VII. Schlussbestimmungen
 
 Änderungen dieses Vertrages bedürfen der Schriftform. Sollte eine Bestimmung unwirksam sein, bleibt der Vertrag im Übrigen wirksam.
@@ -62,6 +68,8 @@ Die Vertragsparteien erklären, dass sie den Vertrag gelesen und verstanden habe
 Die Käufer haben die Gebühren der Kanzlei nach dem Tarif zu tragen.
 
 Unterschriften
+
+ANMERKUNG DER KANZLEI ZUR GEMEINSCHAFT: [[person|REUMANN Silvanus]] UND [[person|BERGHAMMER Albina]] ERWERBEN ZU IDEELLEN HÄLFTEN.
 
 Für die Verkäuferin:
 [[person|Huberta Wanner]]

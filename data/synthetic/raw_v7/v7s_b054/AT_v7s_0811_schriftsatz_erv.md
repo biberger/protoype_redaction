@@ -36,7 +36,7 @@ KLAGE
 
 3. Der Kläger stützt seinen Anspruch auf [[legal_norm|§ 1061 ABGB]] und auf [[legal_norm|§ 1152 ABGB]], weil die Bestellung im Interesse der Gesellschaft erfolgte. Die Beklagte haftet nach [[legal_norm|§ 1002 ABGB]] persönlich, da sie den Vertragsabschluss ohne Vertretungsmacht zugesagt hat. [[organization|Becker Handels]] hat den Kaufvertrag nach Auskunft der Beklagten nicht genehmigt.
 
-4. Die Nebenintervenientin [[person|Mareike Cech]] war bei den Verhandlungen im März 2025 anwesend und hat die Bestellliste mitgeführt. Sie bestätigte dem Kläger am [[date|02.05.2025]] telefonisch, dass der Betrag bei Lieferung beglichen werde. Auf diese Zusage hat der Kläger die Lieferung vorbehaltlos angenommen. [[person|Cech]] hat dies in ihrer Stellungnahme vom [[date|19.06.2025]] nicht bestritten.
+4. Die Nebenintervenientin [[person|Mareike Cech]] war bei den Verhandlungen im März 2025 anwesend und hat die Bestellliste mitgeführt. Sie bestätigte dem Kläger am [[date|02.05.2025]] telefonisch, dass der Betrag bei Lieferung beglichen werde. Auf diese Zusage hat der Kläger die Lieferung vorbehaltlos angenommen, obwohl die Ware erst nach dem vereinbarten Termin eingetroffen ist. [[person|Cech]] hat dies in ihrer Stellungnahme vom [[date|19.06.2025]] nicht bestritten.
 
 5. Beweis: Kaufvertrag vom [[date|14.03.2025]] (Beilage ./A); Lieferschein vom [[date|11.04.2025]] (Beilage ./B); Mahnschreiben vom [[date|12.05.2025]] und [[date|16.06.2025]] (Beilagen ./C und ./D); Einvernahme des Klägers und der Beklagten; Einvernahme des Zeugen [[person|Don Rathgeber]] *[[date_of_birth|1976-11-26]], StA: [[country|Ukraine]], der die Ware am [[date|11.04.2025]] übergeben hat.
 
@@ -57,7 +57,7 @@ Beilage | Datum | Inhalt
 ./D | [[date|16.06.2025]] | Mahnschreiben
 ./E | [[date|28.10.2026]] | Auszug aus dem Firmenbuch, Abfrage [[organization|BECKER HANDELS GMBH]], [[company_register_number|FN 303383b]]
 
-Weissenbach an der Triesting, am [[date|28.10.2026]]
+[[address|2564 Weissenbach an der Triesting]], am [[date|28.10.2026]]
 
 [[lawyer|Dr. Ferdinand Rodler]]
 Rechtsanwalt

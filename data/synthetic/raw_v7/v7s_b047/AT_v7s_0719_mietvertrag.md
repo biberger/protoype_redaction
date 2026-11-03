@@ -34,11 +34,11 @@ Vermietet werden die Geschäftsräume top 2 im Haus [[address|Marktplatz 11/Top 
 
 § 2 Mietdauer
 
-Das Mietverhältnis beginnt am [[date|01.09.2016]] und wird auf fünf Jahre fest abgeschlossen. Danach verlängert es sich auf unbestimmte Zeit, wenn es nicht drei Monate vor Ablauf gekündigt wird.
+Das Mietverhältnis beginnt am [[date|01.09.2016]] und wird auf fünf Jahre fest abgeschlossen. Danach verlängert es sich auf unbestimmte Zeit, wenn es nicht drei Monate vor Ablauf gekündigt wird. Die Kündigung bedarf der Schriftform und ist eingeschrieben zuzustellen. Im Falle des Todes des Mieters geht das Mietverhältnis auf die Erben über, sofern diese das Geschäft fortführen.
 
 § 3 Mietzins
 
-Der monatliche Mietzins beträgt 1.380 Euro netto zuzüglich Umsatzsteuer, Betriebskosten von 210 Euro und Heizkosten nach Verbrauch. Der Mietzins ist am Ersten eines jeden Monats im Voraus auf das Konto der Vermieterin, IBAN [[bank_account|AT50 0794 9591 6428 0232]], zu überweisen.
+Der monatliche Mietzins beträgt 1.380 Euro netto zuzüglich Umsatzsteuer, Betriebskosten von 210 Euro und Heizkosten nach Verbrauch. Der Mietzins ist am Ersten eines jeden Monats im Voraus auf das Konto der Vermieterin, IBAN [[bank_account|AT50 0794 9591 6428 0232]], zu überweisen. Zahlungen gelten als rechtzeitig, wenn der Betrag am Fälligkeitstag dem Konto der Vermieterin gutgeschrieben ist. Der Mieter hat die Kosten der Überweisung selbst zu tragen; Bankspesen sind nicht vom Mietzins umfasst.
 
 § 4 Kaution und Bürgschaft
 
@@ -50,7 +50,7 @@ Der Mieter verpflichtet sich, die Räume ausschließlich für den Betrieb eines 
 
 § 6 Kundenbetreuung und Kontakt
 
-Die Vermieterin ist über die Verwaltung unter Tel. [[phone_number|+43 1 819 52 22 DW 358]] erreichbar. Die Kundennummern der Vorvermietung lauteten [[other_identifier|Kd.-Nr. 450178]] und [[other_identifier|Kd.-Nr. 153994]]; sie sind für dieses Mietverhältnis nicht mehr relevant.
+Die Vermieterin ist über die Verwaltung unter Tel. [[phone_number|+43 1 819 52 22 DW 358]] erreichbar. Die Kundennummern der Vorvermietung lauteten Kd.-Nr. [[other_identifier|450178]] und Kd.-Nr. [[other_identifier|153994]]; sie sind für dieses Mietverhältnis nicht mehr relevant.
 
 § 6a Betriebspflicht und Öffnungszeiten
 
@@ -72,7 +72,7 @@ Der Mieter ist nur mit schriftlicher Zustimmung der Vermieterin berechtigt, das 
 
 Dieser Vertrag ersetzt alle früheren Vereinbarungen, insbesondere den Vertrag mit der Vertragsnummer [[other_identifier|V-2016-60162]]. Änderungen bedürfen der Schriftform. Erfüllungsort ist [[location|St. Johann im Pongau]], wo der Mietgegenstand im Sinne des Vertrags übergeben wird.
 
-Der Mieter bestätigt, dass ihm der Mietgegenstand besichtigt übergeben wurde. Ein Übergabeprotokoll wurde erstellt. Die Kaution ist bis zur Übergabe der Schlüssel fällig und wird vom Mieter auf das in § 3 genannte Konto der Vermieterin einbezahlt. Die Vermieterin stellt dem Mieter jährlich eine Abrechnung über die Betriebskosten aus; eine Nachzahlung ist binnen vier Wochen nach Zustellung fällig, ein Guthaben wird mit dem nächsten Mietzins verrechnet.
+Der Mieter bestätigt, dass ihm der Mietgegenstand besichtigt übergeben wurde. Ein Übergabeprotokoll wurde erstellt. Die Kaution ist bis zur Übergabe der Schlüssel fällig und wird vom Mieter auf das in § 3 genannte Konto der Vermieterin einbezahlt. Die Vermieterin stellt dem Mieter jährlich eine Abrechnung über die Betriebskosten aus; eine Nachzahlung ist binnen vier Wochen nach Zustellung fällig, ein Guthaben wird mit dem nächsten Mietzins verrechnet. Die Vermieterin hat dem Mieter die Betriebskostenabrechnung des Vorjahres als Muster übergeben; diese enthält die Positionen Wasser, Müll, Stiegenhausbeleuchtung und Versicherung. Die Kosten der Rauchfangkehrung sind darin nicht enthalten, weil sie direkt vom Mieter zu tragen sind.
 
 Die Kosten der Errichtung dieses Vertrags sowie allfällige Gebühren trägt der Mieter; die Vermieterin trägt die Kosten der Grundbuchsabfrage.
 

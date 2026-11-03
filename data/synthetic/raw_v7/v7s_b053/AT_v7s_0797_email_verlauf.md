@@ -7,7 +7,7 @@ Von: [[person|Floriana Weissenberger]] <[[email|f.weissenberger@spreitzer.at]]>
 Gesendet: Freitag, [[date|23. Oktober 2026]] 10:41
 An: [[person|Bertus Schuil]] <[[email|b.schuil@schuil-recht.at]]>
 Cc: [[person|Balthasar Losert]] <[[email|b.losert@gruenfeld-immobilien.at]]>
-Betreff: AW: Vergleichsentwurf Grünfeld ./. Reder
+Betreff: AW: Vergleichsentwurf Grünfeld ./. [[person|Reder]]
 
 Sehr geehrter Herr [[person|Schuil]],
 
@@ -36,7 +36,7 @@ ERV-Code: [[other_identifier|R866787]]
 > Von: [[person|Bertus Schuil]] <[[email|b.schuil@schuil-recht.at]]>
 > Gesendet: Donnerstag, [[date|22. Oktober 2026]] 16:02
 > An: [[person|Floriana Weissenberger]] <[[email|f.weissenberger@spreitzer.at]]>
-> Betreff: AW: Vergleichsentwurf Grünfeld ./. Reder
+> Betreff: AW: Vergleichsentwurf Grünfeld ./. [[person|Reder]]
 >
 > Sehr geehrte Frau Kollegin [[person|Weissenberger]],
 >
@@ -53,13 +53,13 @@ ERV-Code: [[other_identifier|R866787]]
 > > Von: [[person|Balthasar Losert]] <[[email|b.losert@gruenfeld-immobilien.at]]>
 > > Gesendet: Mittwoch, [[date|14. Oktober 2026]] 08:12
 > > An: [[person|Floriana Weissenberger]] <[[email|f.weissenberger@spreitzer.at]]>
-> > Betreff: Vergleich Grünfeld ./. Reder
+> > Betreff: Vergleich Grünfeld ./. [[person|Reder]]
 > >
 > > Sehr geehrte Frau [[person|Weissenberger]],
 > >
 > > die [[organization|Grünfeld Immobilien GmbH]] (im Folgenden „[[organization|GIM]]“) bestätigt, dass sie den Vergleichsvorschlag grundsätzlich prüft. Die Restkaufpreisrate ist aus Sicht der [[organization|GIM]] fristgerecht zu bezahlen, sofern die Gegenseite die Pläne für die Zufahrt vorlegt.
 > >
-> > Ich bitte um Rückmeldung bis Ende der Woche. Die Abnahme der Vermessungsurkunde ist für die GIM Voraussetzung für die Übergabe.
+> > Ich bitte um Rückmeldung bis Ende der Woche. Die Abnahme der Vermessungsurkunde ist für die [[organization|GIM]] Voraussetzung für die Übergabe.
 > >
 > > Mit freundlichen Grüßen
 > >

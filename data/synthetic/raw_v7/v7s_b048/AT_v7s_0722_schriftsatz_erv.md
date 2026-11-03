@@ -51,11 +51,11 @@ II. Rechtliche Beurteilung
 
 7. Das [[court|BG Innere Stadt Wien]] ist nach [[legal_norm|§ 49 JN]] sachlich zuständig. Die örtliche Zuständigkeit folgt aus [[legal_norm|§ 75 JN]], weil der Erfüllungsort in [[location|Wien]] liegt. Die Kosten des Rechtsstreits sind nach dem Obsiegen gemäß [[legal_norm|§ 41 ZPO]] zu ersetzen, die Verzeichnung der Kosten folgt als gesonderte Beilage.
 
-6b. Die Klage ist rechtzeitig eingebracht. Der Kläger hat den Motorschaden erst nach dem Gutachten vom [[date|12. Februar 2026]] erkannt, das die Ursache des Ausfalls im Kurbelgehäuse verortet. Die dreijährige Frist des [[legal_norm|§ 1489 ABGB]] ist daher gewahrt. Der Kläger hat außerdem die Kosten für die Abschleppung des Fahrzeugs am [[date|6. Mai 2024]] vorgestreckt, die ebenfalls Gegenstand des Begehrens sind.
+6b. Die Klage ist rechtzeitig eingebracht. Der Kläger hat den Motorschaden erst nach dem Gutachten vom [[date|12. Februar 2026]] erkannt, das die Ursache des Ausfalls im Kurbelgehäuse verortet. Die dreijährige Frist des [[legal_norm|§ 1489 ABGB]] ist daher gewahrt. Der Kläger hat außerdem die Kosten für die Abschleppung des Fahrzeugs am [[date|6. Mai 2024]] vorgestreckt, die ebenfalls Gegenstand des Begehrens sind. Die Zustellung der Klage an die Beklagten erfolgt im Wege des ERV, die Gebühren wurden bereits entrichtet.
 
 III. Beweis
 
-8. Zum Beweis werden die Zeugen [[person|Oswald von Trapp]] und [[person|Theophilus Newerkla]] sowie die Parteien einvernommen. Der Zustand des Fahrzeugs ist durch ein Sachverständigengutachten zu klären. Der Kläger beantragt die Einholung eines Gutachtens des allgemein beeideten Sachverständigen für Kraftfahrzeugtechnik, um den Zeitpunkt des Motorschadens festzustellen. Die Zeugen sind unter den Anschriften zu laden, die in der Klage angegeben sind.
+8. Zum Beweis werden die Zeugen [[person|Oswald von Trapp]] und [[person|Theophilus Newerkla]] sowie die Parteien einvernommen. Der Zustand des Fahrzeugs ist durch ein Sachverständigengutachten zu klären. Der Kläger beantragt die Einholung eines Gutachtens des allgemein beeideten Sachverständigen für Kraftfahrzeugtechnik, um den Zeitpunkt des Motorschadens festzustellen. Die Zeugen sind unter den Anschriften zu laden, die in der Klage angegeben sind. Die Parteien werden zur Vernehmung persönlich geladen.
 
 Beilagen:
 ./A Kaufvertrag vom [[date|12. März 2024]]

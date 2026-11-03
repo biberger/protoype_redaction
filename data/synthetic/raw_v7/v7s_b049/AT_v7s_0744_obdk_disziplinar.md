@@ -36,6 +36,16 @@ Der Kammeranwalt führte aus, dass die Beschuldigte den Betrag nicht zurückgeha
 
 Das Disziplinarverfahren wurde nach Vorlage des Berichts der [[organization|MRO]] durch den Kammeranwalt eingeleitet. Die [[organization|MRO]] hatte vorab eine interne Prüfung durchgeführt, deren Ergebnisse dem Verfahren vorgelegt wurden.
 
+Vorbringen der Beschuldigten
+
+Die Rechtsanwältin [[lawyer|Wurst]] hat in der Verhandlung vorgebracht, dass sie die Klientin [[person|Nikolić]] über die Auszahlung an die Gegenseite informiert habe. Eine Information in Schriftform liege jedoch nicht vor, da die Klientin telefonisch erreichbar gewesen sei und nur mündlich zugestimmt habe. Diese Zustimmung wurde von der Klientin bestritten.
+
+Weiters hat die Beschuldigte geltend gemacht, dass der Auszahlungsbetrag von EUR 9.500,00 zur Abdeckung einer Forderung der Gegenseite aus einem früheren Vergleich bestimmt gewesen sei. Eine Kopie dieses Vergleichs wurde nicht vorgelegt. Der Senat hat dazu festgestellt, dass ein solcher Vergleich in den Akten der Kanzlei nicht aufliegt.
+
+Der Kammeranwalt [[person|Watteck]] hat dem Vorbringen entgegengehalten, dass auch eine mündliche Zustimmung die Dokumentationspflicht nicht ersetzt. Die Treuhandgelder müssen nach den Vorgaben der Kanzlei jederzeit nachvollziehbar bleiben, was hier nicht der Fall war.
+
+Die Beschuldigte hat die Anschuldigung im Übrigen teilweise anerkannt, soweit es die Dauer der Verfügung über das Konto betrifft. Ein Geständnis im engeren Sinn liegt darin nicht.
+
 Rechtliche Beurteilung
 
 Gemäß [[legal_norm|§ 34 Abs 1 RAO]] hat der Rechtsanwalt seine Berufspflichten gewissenhaft zu erfüllen. Die Verwaltung anvertrauter Gelder ist eine der zentralen Pflichten, die sich aus dem Treuhandverhältnis ergeben. Ein Verstoß liegt bereits dann vor, wenn Treuhandgelder entgegen der Weisung des Klienten oder ohne Rechtsgrundlage auf ein anderes Konto transferiert werden.
@@ -49,6 +59,8 @@ Die Berufung an die [[court|OBDK]] ist zulässig. Eine Kostenentscheidung ergeht
 Spruch
 
 Die Beschuldigte wird schuldig erkannt, die Pflichten aus der Treuhandschaft [[other_identifier|2024/884]] verletzt zu haben. Über sie wird eine Geldbuße von EUR 4.000,00 verhängt.
+
+Der Beschuldigten wird weiters aufgetragen, den nicht belegten Betrag von EUR 2.500,00 innerhalb von vier Wochen nach Rechtskraft auf das Konto der Klientin [[person|Nikolić]] zurückzuzahlen und der Kammer den Nachweis zu erbringen. Die Kosten des Verfahrens trägt die Beschuldigte.
 
 Die Entscheidung wurde am [[date|9. Juli 2025]] verkündet und den Parteien zugestellt. Rückfragen zur Zustellung richten Sie an die Geschäftsstelle unter Tel. [[phone_number|02622 20645 DW 337]].
 

@@ -46,23 +46,23 @@ DATUM        VORGANG                        BETRAG IN EUR     MANDANT / VERWEIS
 
 Der Restbetrag von 3.200 Euro blieb auf dem Treuhandkonto, dessen IBAN [[bank_account|AT63 6498 5615 8473 0892]] lautet, bis zum [[date|18.12.2025]] stehen, bevor er an den Mandanten [[person|Banjac]] überwiesen wurde.
 
-Die Auszahlung vom [[date|6. Juni 2025]] an eine Dritte erfolgte ohne schriftliche Weisung des Mandanten [[person|Banjac]]. Die Beschuldigte [[lawyer|Friedle]] führte an, sie habe mit dem Mandanten [[person|Banjac]] telefonisch vereinbart, einen Teil des Betrags zur Begleichung einer Forderung des Subunternehmers zu verwenden. Der Mandant bestritt dies.
+Die Auszahlung vom [[date|6. Juni 2025]] an eine Dritte erfolgte ohne schriftliche Weisung des Mandanten [[person|Banjac]]. Die Dritte ist eine Subunternehmerin der [[organization|Geroldinger]] und stand zu dieser in keiner vertraglichen Beziehung zum Mandanten. Die Kanzlei hatte den Betrag daher ohne jede Grundlage weitergeleitet. Die Beschuldigte [[lawyer|Friedle]] führte an, sie habe mit dem Mandanten [[person|Banjac]] telefonisch vereinbart, einen Teil des Betrags zur Begleichung einer Forderung des Subunternehmers zu verwenden. Der Mandant bestritt dies.
 
 3. Beweiswürdigung
 
-Der Senat stützt sich auf die Kontoauszüge und die Angaben des Mandanten [[person|Banjac]]. Die Aussage der Beschuldigten [[lawyer|Friedle]] ist nicht überzeugend, weil keine Notiz über das angebliche Telefonat existiert. Die Angaben des Mandanten [[person|Banjac]] sind dagegen glaubwürdig, weil sie mit dem Schriftverkehr übereinstimmen.
+Der Senat stützt sich auf die Kontoauszüge und die Angaben des Mandanten [[person|Banjac]]. Die Aussage der Beschuldigten [[lawyer|Friedle]] ist nicht überzeugend, weil keine Notiz über das angebliche Telefonat existiert. Die Angaben des Mandanten [[person|Banjac]] sind dagegen glaubwürdig, weil sie mit dem Schriftverkehr übereinstimmen. Die [[organization|RAK Ktn]] hat die Kontoauszüge zusätzlich in Kopie vorgelegt.
 
 Die Angaben des Schriftführers [[person|Lammer]] zum Ablauf der Verhandlung sind in der Niederschrift festgehalten.
 
 4. Rechtliche Beurteilung
 
-Gemäß [[legal_norm|§ 43a Abs 3 RAO]] darf der Rechtsanwalt Mandantengelder nur nach Weisung auszahlen. Die Auszahlung an die Dritte ohne schriftliche Weisung stellt einen Verstoß gegen diese Pflicht dar. Die Kammeranwältin [[person|Jury]] hat diesen Vorwurf zutreffend dargestellt.
+Gemäß [[legal_norm|§ 43a Abs 3 RAO]] darf der Rechtsanwalt Mandantengelder nur nach Weisung auszahlen. Die Auszahlung an die Dritte ohne schriftliche Weisung stellt einen Verstoß gegen diese Pflicht dar. Die Kammeranwältin [[person|Jury]] hat diesen Vorwurf zutreffend dargestellt. Sie beantragte eine Geldbuße im oberen Bereich des Strafrahmens, weil der Mandant durch die Auszahlung einen nicht unerheblichen Schaden erlitten habe.
 
-Die Beisitzerin [[judge|Frauendorfer]] hielt fest, dass die Verwendung des Geldes zur Befriedigung eines Dritten den Mandanten schädigen kann, weil die Forderung nicht geprüft wurde. Die Beisitzerin [[judge|Schäffer]] schloss sich dem an.
+Die Beisitzerin [[judge|Frauendorfer]] hielt fest, dass die Verwendung des Geldes zur Befriedigung eines Dritten den Mandanten schädigen kann, weil die Forderung nicht geprüft wurde. Die Beisitzerin [[judge|Schäffer]] schloss sich dem an. Die Beschuldigte [[lawyer|Friedle]] hat in der Verhandlung vorgebracht, die Auszahlung sei durch eine Vereinbarung zwischen dem Mandanten [[person|Banjac]] und der Gesellschaft gedeckt gewesen. Eine solche Vereinbarung wurde weder vorgelegt noch von der [[organization|Geroldinger]] bestätigt, die vielmehr ausdrücklich erklärte, sie habe den Betrag nur zur Abgeltung des Werklohns überwiesen.
 
 5. Strafbemessung
 
-Mildernd wirkte die Rückzahlung des Restbetrags. Erschwerend war, dass der Mandant über die Auszahlung nicht unterrichtet wurde. Der Vorsitzende [[judge|Lăpușneanu]] hält eine Geldbuße von 2.200 Euro für angemessen.
+Mildernd wirkte die Rückzahlung des Restbetrags. Erschwerend war, dass der Mandant über die Auszahlung nicht unterrichtet wurde. Der Vorsitzende [[judge|Lăpușneanu]] hält eine Geldbuße von 2.200 Euro für angemessen. Die Kosten des Verfahrens werden auf 500 Euro festgesetzt.
 
 6. Rechtsmittel
 

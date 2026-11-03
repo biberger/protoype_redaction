@@ -54,7 +54,7 @@ Beweiswürdigung
 
 Der Senat hat den Auszug der [[organization|VVB]], die Stellungnahme der Beschuldigten vom [[date|14.11.2023]] und die Aussage des Beschwerdeführers gewürdigt. Die Aussagen des Beschwerdeführers wurden durch die Kontoauszüge gestützt. Die Beschuldigte bestritt in der Verhandlung nicht, dass die Zahlung vom [[date|21.06.2023]] ohne Zustimmung erfolgte; sie berief sich aber darauf, dass die Gegenseite dies verlangt habe.
 
-Die Schriftführerin hat die Aussage des Beschwerdeführers wörtlich protokolliert. Der Senat hat außerdem die Aussage der Kanzleiangestellten [[person|Patrizia Lorenz]] berücksichtigt, die bestätigte, dass die Überweisung vom [[date|21.06.2023]] auf ausdrückliche Anweisung der Beschuldigten erfolgte. Die Angestellte gab an, sie habe die Zustimmung des Beschwerdeführers nicht eingeholt, weil sie annahm, dass eine Vereinbarung bestehe. Der Beschwerdeführer hat einen Schaden von 7.800 Euro geltend gemacht, der mit der Rückzahlung der Beträge nicht vollständig abgegolten ist. Der Senat hält fest, dass [[person|Erlacher]] seine Angaben ruhig und präzise machte und keine Belastungstendenz erkennen ließ.
+Die Schriftführerin hat die Aussage des Beschwerdeführers wörtlich protokolliert. Der Senat hat außerdem die Aussage der Kanzleiangestellten [[person|Patrizia Lorenz]] berücksichtigt, die bestätigte, dass die Überweisung vom [[date|21.06.2023]] auf ausdrückliche Anweisung der Beschuldigten erfolgte. Die Angestellte gab an, sie habe die Zustimmung des Beschwerdeführers nicht eingeholt, weil sie annahm, dass eine Vereinbarung bestehe. Der Beschwerdeführer hat einen Schaden von 7.800 Euro geltend gemacht, der mit der Rückzahlung der Beträge nicht vollständig abgegolten ist. Eine Schadenersatzklage gegen die Beschuldigte ist beim Bezirksgericht anhängig; die Entscheidung darüber bleibt abzuwarten. Der Senat hält fest, dass [[person|Erlacher]] seine Angaben ruhig und präzise machte und keine Belastungstendenz erkennen ließ.
 
 Rechtliche Beurteilung
 
@@ -64,7 +64,7 @@ Die Verteidigung der Beschuldigten, sie habe nur eine Vereinbarung mit der Gegen
 
 Bei der Strafbemessung wertete der Senat als erschwerend, dass die Beschuldigte zwei verschiedene Verstöße gegen die Pflicht zur getrennten Verwahrung beging und dass die Gelder des Beschwerdeführers über mehrere Monate nicht zur Verfügung standen. Mildernd wirkten die bisherige disziplinäre Unbescholtenheit, die teilweise Rückzahlung von 1.200 Euro im Jahr 2023 und das Eingeständnis der Zahlung an die Gegenseite in der Verhandlung.
 
-Der Senat hat außerdem geprüft, ob eine Untersagung der Berufsausübung erforderlich ist. Dies wurde verneint, weil die Verstöße auf eine Fehlbeurteilung und nicht auf eine systematische Vermögensverwendung zurückzuführen sind.
+Der Senat hat außerdem geprüft, ob eine Untersagung der Berufsausübung erforderlich ist. Dies wurde verneint, weil die Verstöße auf eine Fehlbeurteilung und nicht auf eine systematische Vermögensverwendung zurückzuführen sind. Der Senat hat die Beschuldigte jedoch ausdrücklich darauf hingewiesen, dass eine erneute Verletzung der Verwahrungspflicht ein Berufsverbot nach sich ziehen kann.
 
 Der Beschuldigten wird aufgetragen, bis zum [[date|30.06.2025]] einen Prüfbericht eines Wirtschaftsprüfers über ihre Treuhandgebarung vorzulegen; dieser Bericht ist Voraussetzung dafür, dass die Berufsausübung ohne weitere Auflagen fortgesetzt werden kann.
 
@@ -76,7 +76,7 @@ Der Senat hat die Entscheidung einstimmig gefasst. Die Beisitzer [[judge|Klausbe
 
 Eine Ausfertigung dieses Erkenntnisses ergeht auch an die Kammer, die die Beschuldigte im Rahmen der Aufsicht über die Treuhandkonten überprüfen wird; die Kammeranwältin wird den Vollzug des Prüfberichts überwachen.
 
-Die Kosten des Verfahrens umfassen die Schreibgebühren, die Reisekosten des Zeugen und die Kosten für die Übersetzung der Kontoauszüge, die für die Beschuldigte erforderlich war.
+Die Kosten des Verfahrens umfassen die Schreibgebühren, die Reisekosten des Zeugen und die Kosten für die Übersetzung der Kontoauszüge, die für die Beschuldigte erforderlich war. Die Beschuldigte hat die Kosten nach ihrer Vermögenslage zu tragen; der Senat hat ihr eine Zahlungserleichterung in vier Monatsraten bewilligt, die mit dem Erkenntnis rechtskräftig wird. Eine Stundung der Geldbuße wurde nicht gewährt, weil die Beschuldigte keine Gründe dafür vorgebracht hat. Die Geldbuße ist binnen eines Monats nach Rechtskraft auf das Konto der Kammer einzuzahlen; bei Säumnis tritt die Ersatzfreiheitsstrafe nach dem Erkenntnis ein.
 
 Die Schriftführerin wird die Zustellung an alle Verfahrensbeteiligten veranlassen.
 

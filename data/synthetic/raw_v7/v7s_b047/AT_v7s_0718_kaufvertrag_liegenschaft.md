@@ -44,7 +44,7 @@ Die Verkäuferin ist grundbücherliche Eigentümerin der nachstehend beschrieben
 
 I. Kaufgegenstand
 
-Gegenstand des Kaufs ist die Liegenschaft, im Grundbuch eingetragen als Einlagezahl [[land_register_id|715]] [[land_register_id|K.G. 37298 Brunn am Gebirge]] samt dem darauf errichteten Wohnhaus, Grundstück Nr. [[land_register_id|1234/5]]. Die Liegenschaft ist im Grundbuch außerdem als [[land_register_id|KG 86462 Losenstein]]/[[land_register_id|EZ. 905]] ([[court|BG Hernals]]) verzeichnet. Die Verkäuferin hat die Eintragung als Eigentümerin durch einen aktuellen Grundbuchsauszug vom [[date|03.11.2025]] nachgewiesen. Die Liegenschaft umfasst eine Fläche von 1.240 m², wovon 310 m² auf die Hoffläche entfallen. Die Grenzen sind im Katasterplan festgelegt; eine Vermessung wurde nicht durchgeführt, die Käufer verzichten auf eine solche.
+Gegenstand des Kaufs ist die Liegenschaft, im Grundbuch eingetragen als Einlagezahl [[land_register_id|715]] [[land_register_id|K.G. 37298 Brunn am Gebirge]] samt dem darauf errichteten Wohnhaus, Grundstück Nr. [[land_register_id|1234/5]]. Die Liegenschaft ist im Grundbuch außerdem als [[land_register_id|KG 86462 Losenstein]]/[[land_register_id|EZ. 905]] ([[court|BG Hernals]]) verzeichnet. Die Verkäuferin hat die Eintragung als Eigentümerin durch einen aktuellen Grundbuchsauszug vom [[date|03.11.2025]] nachgewiesen. Ein Wegerecht über das Grundstück Nr. [[land_register_id|1236]] besteht zugunsten der Liegenschaft und ist im Grundbuch eingetragen. Die Liegenschaft umfasst eine Fläche von 1.240 m², wovon 310 m² auf die Hoffläche entfallen. Die Grenzen sind im Katasterplan festgelegt; eine Vermessung wurde nicht durchgeführt, die Käufer verzichten auf eine solche.
 
 II. Kaufpreis und Zahlung
 
@@ -60,7 +60,7 @@ IV. Übergabe und Nutzen
 
 Die Übergabe erfolgt mit dem Tag der Kaufpreiszahlung. Nutzen und Lasten gehen mit diesem Zeitpunkt auf die Käufer über. Bis dahin trägt die Verkäuferin die Kosten der Erhaltung und die Abgaben. Die Verkäuferin versichert, dass keine Mietverhältnisse bestehen, mit Ausnahme der Wohnung im Obergeschoss, die bis zum [[date|31.12.2026]] befristet vermietet ist. Das Mietverhältnis geht auf die Käufer über. Die Mietzinszahlungen für den laufenden Monat werden zwischen den Parteien anteilig nach Tagen abgerechnet; die Verkäuferin übergibt den Käufern die Mietkaution in Höhe von drei Monatsmieten samt Nachweis der Verzinsung. Die Betriebskostenabrechnung für das Jahr 2025 erstellt die Verkäuferin bis zum [[date|31.03.2026]], die Nachzahlungen oder Gutschriften werden anteilig verrechnet.
 
-Die Käufer übernehmen mit der Übergabe auch die bestehende Versicherung des Gebäudes, die bis zum Ende des laufenden Versicherungsjahres besteht. Die Verkäuferin verpflichtet sich, die Versicherungsprämie bis zu diesem Zeitpunkt zu bezahlen und den Käufern eine Kopie der Polizze auszuhändigen.
+Die Käufer übernehmen mit der Übergabe auch die bestehende Versicherung des Gebäudes, die bis zum Ende des laufenden Versicherungsjahres besteht. Die Verkäuferin verpflichtet sich, die Versicherungsprämie bis zu diesem Zeitpunkt zu bezahlen und den Käufern eine Kopie der Polizze auszuhändigen. Die Käufer haben die Gelegenheit gehabt, sich über den Zustand der Heizungsanlage und der Elektroinstallation zu informieren; ein Gutachten wurde nicht eingeholt. Schäden, die bis zur Übergabe eintreten, gehen zulasten der Verkäuferin, sofern sie nicht durch die Käufer verursacht wurden.
 
 V. Gewährleistung
 
@@ -68,7 +68,7 @@ Die Verkäuferin haftet für die Lastenfreiheit der Liegenschaft. Sie haftet nic
 
 Die Käufer bestätigen, dass ihnen die Bonitätsprüfung der finanzierenden Bank bekannt ist. Die Finanzierung erfolgt durch ein Darlehen über 190.000 Euro, dessen Zusage der Bank vom [[date|10.11.2025]] vorliegt. Die Zusage ist aufschiebende Bedingung für die Zahlung des Restkaufpreises; fällt sie weg, ist die Verkäuferin berechtigt, vom Vertrag zurückzutreten, nachdem die Käufer eine Nachfrist von vier Wochen ungenützt verstreichen ließen.
 
-Die Käufer erklären, das Gebäude besichtigt zu haben und den Zustand zu kennen. [[person|Aistleitner]] hat zusätzlich darauf hingewiesen, dass er die Heizung vor dem Kauf prüfen lassen wird. Die Verkäuferin hat dies zur Kenntnis genommen. Die Gewährleistung für die Sache wird gemäß [[legal_norm|§ 932 ABGB]] iVm [[legal_norm|§ 1053 ABGB]] ausgeschlossen, soweit der Käufer den Mangel kannte.
+Die Käufer erklären, das Gebäude besichtigt zu haben und den Zustand zu kennen. [[person|Aistleitner]] hat zusätzlich darauf hingewiesen, dass er die Heizung vor dem Kauf prüfen lassen wird. Die Verkäuferin hat dies zur Kenntnis genommen. Die Käufer verzichten ausdrücklich auf Ansprüche wegen Lärm- und Geruchsbelästigung aus dem Betrieb der benachbarten Liegenschaft, die der Verkäuferin bekannt waren und in der Kaufpreisbemessung berücksichtigt wurden. Die Gewährleistung für die Sache wird gemäß [[legal_norm|§ 932 ABGB]] iVm [[legal_norm|§ 1053 ABGB]] ausgeschlossen, soweit der Käufer den Mangel kannte.
 
 VI. Vollmacht und Vertretung
 

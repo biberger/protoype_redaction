@@ -28,7 +28,7 @@ Vermietet wird die Wohnung top 3 im Haus Bahnhofstraße 14, [[address|Bahnhofstr
 
 § 2 Mietdauer
 
-Das Mietverhältnis beginnt am [[date|01.03.2016]] und wird auf unbestimmte Zeit abgeschlossen. Ein beiderseitiger Kündigungsverzicht gilt für die ersten drei Jahre. Die Kündigung durch den Mieter ist unter Einhaltung einer Frist von drei Monaten zum Monatsletzten möglich.
+Das Mietverhältnis beginnt am [[date|01.03.2016]] und wird auf unbestimmte Zeit abgeschlossen. Ein beiderseitiger Kündigungsverzicht gilt für die ersten drei Jahre. Die Kündigung durch den Mieter ist unter Einhaltung einer Frist von drei Monaten zum Monatsletzten möglich. Eine Kündigung durch die Vermieterin richtet sich nach den Bestimmungen des [[legal_norm|MRG]] und ist nur aus den dort genannten Gründen zulässig.
 
 § 3 Mietzins
 
@@ -38,7 +38,7 @@ Die Vertragsparteien vereinbaren, dass der Mietzins ab dem [[date|01.04.2016]] w
 
 § 4 Kaution
 
-Der Mieter erlegt eine Kaution von drei Bruttomonatsmieten, somit 2.235 Euro. Die Kaution wird auf einem Sparbuch der Vermieterin verwahrt und nach Vertragsende mit den offenen Forderungen verrechnet. Die Verzinsung der Kaution richtet sich nach den gesetzlichen Bestimmungen des [[legal_norm|Mietrechtsgesetzes]]; die Vermieterin hat die Kaution nach Rückgabe der Schlüssel unverzüglich, spätestens binnen sechs Monaten, auszuzahlen, soweit keine Gegenforderungen bestehen. Eine Übertragung der Kaution auf einen neuen Vermieter bei einem Eigentumswechsel der Liegenschaft ist zulässig und wird den Mietern schriftlich mitgeteilt.
+Der Mieter erlegt eine Kaution von drei Bruttomonatsmieten, somit 2.235 Euro. Die Kaution wird auf einem Sparbuch der Vermieterin verwahrt und nach Vertragsende mit den offenen Forderungen verrechnet. Die Verzinsung der Kaution richtet sich nach den gesetzlichen Bestimmungen des [[legal_norm|Mietrechtsgesetzes]]; die Vermieterin hat die Kaution nach Rückgabe der Schlüssel unverzüglich, spätestens binnen sechs Monaten, auszuzahlen, soweit keine Gegenforderungen bestehen. Eine Übertragung der Kaution auf einen neuen Vermieter bei einem Eigentumswechsel der Liegenschaft ist zulässig und wird den Mietern schriftlich mitgeteilt. Die Mieter bestätigen den Erhalt dieser Mitteilung mit ihrer Unterschrift.
 
 § 5 Pflichten der Parteien
 
@@ -60,7 +60,7 @@ Mitteilungen der Vermieterin sind an die Geschäftsanschrift zu richten. Telefon
 
 § 7 Schlussbestimmungen
 
-Nebenabreden bestehen nicht. Änderungen dieses Vertrags bedürfen der Schriftform. Erfüllungsort ist [[location|St. Wolfgang im Salzkammergut]], wo sich der Sitz der Verwaltung befindet.
+Nebenabreden bestehen nicht. Änderungen dieses Vertrags bedürfen der Schriftform. Erfüllungsort ist [[location|St. Wolfgang im Salzkammergut]], wo sich der Sitz der Verwaltung befindet. Sollte eine Bestimmung dieses Vertrags unwirksam sein, bleibt der übrige Vertrag wirksam; die Parteien werden eine wirksame Regelung treffen, die dem Zweck am nächsten kommt.
 
 Dieser Vertrag ersetzt den Vorvertrag vom [[date|14.12.2015]], Vertragsnummer [[other_identifier|KV-2015-66595]]. Die Anmietung wurde auf Grundlage des Antrags vom [[date|11.01.2016]] unter der Vertragsnummer [[other_identifier|V-2016-74486]] angelegt.
 

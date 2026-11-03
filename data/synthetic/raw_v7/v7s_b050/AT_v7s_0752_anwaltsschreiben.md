@@ -34,6 +34,8 @@ Herr [[person|Del Pero]] hat den Schaden mit 14.800 Euro beziffert. Dieser Betra
 
 Sollte die [[organization|BKG]] bis zu diesem Zeitpunkt nicht zahlen, werden wir ohne weitere Ankündigung die gerichtliche Geltendmachung einleiten. Ferner ersuchen wir Sie, die Unterlagen über die Bauausführung bis spätestens [[date|31.03.2026]] vorzulegen. Andernfalls behalten wir uns vor, ein Beweissicherungsverfahren zu beantragen, dessen Kosten wir Ihrer Gesellschaft in Rechnung stellen werden.
 
+Wir ersuchen um Mitteilung, ob Ihre Haftpflichtversicherung bereits informiert wurde, damit die Angelegenheit ohne gerichtliche Schritte geklärt werden kann.
+
 Anlagen: Vollmacht; Gutachten vom [[date|20.01.2026]]
 
 Mit freundlichen Grüßen

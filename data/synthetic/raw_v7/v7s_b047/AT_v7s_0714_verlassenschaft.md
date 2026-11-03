@@ -40,7 +40,7 @@ Die Besichtigung der Liegenschaft fand am [[date|14.07.2022]] statt. Der Sachver
 
 Zum Grundstück gehören ein Garten im Ausmaß von etwa 640 Quadratmetern sowie ein Nebengebäude aus den Sechzigerjahren, das als Garage und Werkstatt genutzt wurde. Das Nebengebäude ist in einem schlechten Zustand und wurde vom Sachverständigen nur mit einem Restwert angesetzt. Die Zufahrt über den Nachbargrund ist durch ein Wegerecht gesichert, das im Grundbuch eingetragen ist. Die Erbin hat erklärt, das Nebengebäude nicht nutzen zu wollen, und ersucht um dessen Verkauf im Rahmen der Abhandlung.
 
-Der Erblasser war verwitwet; die Ehegattin ist bereits im Jahr 2011 verstorben. Eine Lebensgefährtin war nach den Angaben im Familienbuch nicht vorhanden, weshalb sich daraus keine weiteren Erbansprüche ergeben. Kinder hat der Erblasser nicht hinterlassen. Die Begräbniskosten wurden durch das Bestattungsunternehmen in [[location|Groß-Enzersdorf]] abgerechnet; die Rechnung ist beigelegt und mit 4.980 Euro im Passivum berücksichtigt.
+Der Erblasser war verwitwet; die Ehegattin ist bereits im Jahr 2011 verstorben. Eine Lebensgefährtin war nach den Angaben im Familienbuch nicht vorhanden, weshalb sich daraus keine weiteren Erbansprüche ergeben. Kinder hat der Erblasser nicht hinterlassen. Auch Enkelkinder sind nicht vorhanden. Die Verwandtschaft wurde durch das Familienbuch der Gemeinde nachgewiesen. Die Begräbniskosten wurden durch das Bestattungsunternehmen in [[location|Groß-Enzersdorf]] abgerechnet; die Rechnung ist beigelegt und mit 4.980 Euro im Passivum berücksichtigt.
 
 Erbin ist nach der gesetzlichen Erbfolge die Schwester des Erblassers. Im Melderegister ist sie als [[person|Steinitz Elvire]] geführt, die Schreibweise mit vorangestelltem Familiennamen stammt aus dem Familienbuch. Die Erbin
 [[person|Elvire
@@ -48,7 +48,7 @@ Steinitz]], geboren am [[date_of_birth|25.06.1945]], wohnhaft in [[address|Haupt
 
 Zusammenfassung
 
-Die Aktiva betragen 205.060,18 Euro. Abzüglich der Passiva von 3.420 Euro, der Begräbniskosten von 4.980 Euro und der Verfahrenskosten von 1.250 Euro verbleibt ein Reinnachlass von 195.410,18 Euro. Wir ersuchen das [[court|BG Güssing]], die Einantwortung nach den genannten Quoten zu beschließen. Die Erbenschaft ist ohne Vorbehalt angenommen.
+Die Aktiva betragen 205.060,18 Euro. Abzüglich der Passiva von 3.420 Euro, der Begräbniskosten von 4.980 Euro und der Verfahrenskosten von 1.250 Euro verbleibt ein Reinnachlass von 195.410,18 Euro. Wir ersuchen das [[court|BG Güssing]], die Einantwortung nach den genannten Quoten zu beschließen. Die Erbenschaft ist ohne Vorbehalt angenommen. Die Erbin hat die Erbantrittserklärung im Beisein des Notars unterzeichnet und eine Vollmacht für die Übernahme der Bankguthaben erteilt. Die Kosten des Notariats werden nach dem Tarif der Notariatsordnung gesondert verrechnet und sind nicht Teil des Nachlasses.
 
 Anlagen:
 ./1 Nachlassinventar mit Bewertungen

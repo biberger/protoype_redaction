@@ -36,7 +36,7 @@ Eigentümerin laut Grundbuch: [[person|kitten Lama]], geb. [[date_of_birth|1999-
 
 II. Kaufgegenstand
 
-Die Verkäuferin verkauft dem Käufer die im Eigentum der Verkäuferin stehende Liegenschaft samt dem darauf befindlichen Wohnhaus. Das Wohnhaus umfasst zwei Geschoße mit insgesamt 164 Quadratmetern Nutzfläche, der dazugehörige Garten ist 812 Quadratmeter groß. Die Verkäuferin hat die Liegenschaft im Jahr 2011 erworben, eine Mietpartei ist nicht vorhanden. Die Liegenschaft ist in der Katastralgemeinde [[land_register_id|34377 Alkoven]] gelegen und wird in der Einlage geführt unter [[land_register_id|EZ 244]].
+Die Verkäuferin verkauft dem Käufer die im Eigentum der Verkäuferin stehende Liegenschaft samt dem darauf befindlichen Wohnhaus. Das Wohnhaus umfasst zwei Geschoße mit insgesamt 164 Quadratmetern Nutzfläche, der dazugehörige Garten ist 812 Quadratmeter groß. Die Verkäuferin hat die Liegenschaft im Jahr 2011 erworben, eine Mietpartei ist nicht vorhanden. Das Grundstück grenzt im Norden an eine Gemeindestraße und im Osten an eine landwirtschaftlich genutzte Fläche. Eine Vermessungsurkunde aus dem Jahr 2009 ist dem Vertrag als Beilage ./C angeschlossen. Die Liegenschaft ist in der Katastralgemeinde [[land_register_id|34377 Alkoven]] gelegen und wird in der Einlage geführt unter [[land_register_id|EZ 244]].
 
 III. Kaufpreis
 
@@ -54,9 +54,9 @@ Für das Treuhandverhältnis gilt die Vereinbarung über den Treuhandverkehr, di
 
 V. Aufsandungserklärung
 
-Die Verkäuferin erteilt hiermit ihre ausdrückliche und unwiderrufliche Einwilligung, dass das Eigentumsrecht an der Liegenschaft für den Käufer [[person|Sedlmayr]] im Grundbuch einverleibt wird. Die Aufsandungserklärung wird von der Verkäuferin unterfertigt und dem Treuhänder übergeben.
+Die Verkäuferin erteilt hiermit ihre ausdrückliche und unwiderrufliche Einwilligung, dass das Eigentumsrecht an der Liegenschaft für den Käufer [[person|Sedlmayr]] im Grundbuch einverleibt wird. Die Aufsandungserklärung wird von der Verkäuferin unterfertigt und dem Treuhänder übergeben. Die Verkäuferin erklärt, dass sie nicht verheiratet ist und keine eingetragene Partnerschaft besteht, sodass keine Zustimmung eines Dritten erforderlich ist. Der Käufer erklärt, dass ihm keine Vorkaufsberechtigten bekannt sind, die Ansprüche an der Liegenschaft erheben könnten.
 
-Der Käufer erklärt, das Kaufobjekt in dem Zustand zu übernehmen, in dem es sich befindet. Die Gewährleistung für Mängel ist ausgeschlossen, soweit dies nach [[legal_norm|§ 932 Abs 4 ABGB]] zulässig ist.
+Der Käufer erklärt, das Kaufobjekt in dem Zustand zu übernehmen, in dem es sich befindet. Die Gewährleistung für Mängel ist ausgeschlossen, soweit dies nach [[legal_norm|§ 932 Abs 4 ABGB]] zulässig ist. Der Käufer hat die Liegenschaft am [[date|2. Juli 2026]] gemeinsam mit dem Treuhänder besichtigt und dabei einen feuchten Keller festgestellt. Die Parteien vereinbaren, dass dieser Mangel im Kaufpreis berücksichtigt ist und daraus keine weiteren Ansprüche abgeleitet werden.
 
 VI. Übergabe und Nutzen
 
@@ -74,9 +74,13 @@ VIII. Lastenfreiheit
 
 Die Verkäuferin sichert zu, dass die Liegenschaft frei von Pfandrechten, Bestandrechten und sonstigen Lasten ist, mit Ausnahme der im Grundbuch ersichtlichen Dienstbarkeit des Wegerechts zugunsten der Nachbarliegenschaft. Die Verkäuferin verpflichtet sich, bestehende Pfandrechte bis zur Übergabe auf eigene Kosten zu löschen. Die Löschungserklärungen des Kreditinstituts sind dem Treuhänder [[lawyer|Kickinger]] bis zum [[date|15.10.2026]] vorzulegen.
 
-IX. Schlussbestimmungen
+IX. Vollmachten
 
-Änderungen und Ergänzungen dieses Vertrages bedürfen zu ihrer Gültigkeit der Schriftform. Sollte eine Bestimmung dieses Vertrages unwirksam sein, bleibt der Vertrag im Übrigen wirksam.
+Die Verkäuferin erteilt dem Treuhänder [[lawyer|Kickinger]] Vollmacht, alle für die grundbücherliche Durchführung erforderlichen Anträge einzubringen, insbesondere den Antrag auf Einverleibung des Eigentumsrechts des Käufers, die Löschung der Pfandrechte und die Vorlage der Vermessungsurkunde. Die Vollmacht erlischt nicht durch den Tod oder die Insolvenz einer Partei.
+
+X. Schlussbestimmungen
+
+Änderungen und Ergänzungen dieses Vertrages bedürfen zu ihrer Gültigkeit der Schriftform. Mündliche Nebenabreden bestehen nicht. Die Parteien haben vor der Unterfertigung eine Ausfertigung des Vertragsentwurfs mindestens sieben Tage erhalten. Sollte eine Bestimmung dieses Vertrages unwirksam sein, bleibt der Vertrag im Übrigen wirksam.
 
 Die Verkäuferin: [[person|kitten]]
 
@@ -91,7 +95,7 @@ Beilagen:
 ./A Vereinbarung über den Treuhandverkehr
 ./B Lageplan und Grundbuchsauszug (Auszug vom [[date|08.07.2026]])
 
-Hinweis für die Verkäuferin: Die Firma [[organization|Heider Handels GmbH]] ([[company_register_number|FN 15513p]], UID: [[tax_id|ATU16826825]]) hat als Vermittlerin mitgewirkt. Die Vermittlungsprovision ist vom Käufer zu tragen.
+Hinweis für die Verkäuferin: Die Firma [[organization|Heider Handels GmbH]] ([[company_register_number|FN 15513p]], UID: [[tax_id|ATU16826825]]) hat als Vermittlerin mitgewirkt. Die Vermittlungsprovision ist vom Käufer zu tragen. Sie beträgt drei Prozent des Kaufpreises, somit 8.550 Euro, und ist am Tag der Unterfertigung dieses Vertrages fällig.
 
 Der Treuhandkonto-Auszug ist mit der TH-Nr. [[other_identifier|2024/277]] versehen.
 

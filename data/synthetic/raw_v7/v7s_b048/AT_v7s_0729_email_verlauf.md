@@ -13,9 +13,9 @@ Sehr geehrte Frau [[person|Rudigier]],
 
 wir nehmen Bezug auf Ihr Schreiben vom [[date|26. Oktober 2026]]. Unsere Mandantin, Frau [[person|Maissa Maalouf]], hält an ihrer Forderung von 2.340 Euro fest. Die Feuchtigkeitsschäden im Badezimmer sind laut Gutachten des Sachverständigen [[person|Ing. Tade Maric]] auf die Steigleitung der [[organization|Nigg Immobilien GmbH]] zurückzuführen.
 
-Den Einwand, es fehle eine Schadensmeldung, lassen wir nicht gelten. Die Meldung ist am [[date|2. Oktober 2026]] per E-Mail an die Hausverwaltung gegangen. Wir übermitteln Ihnen die Sendebestätigung gerne erneut. Der Kostenvoranschlag für die Sanierung des Bades beläuft sich auf 1.980 Euro netto, die Trocknung der Wand auf weitere 360 Euro. Die Kosten für das Gutachten von Herrn [[person|Maric]] hat unsere Mandantin bereits vorgestreckt.
+Den Einwand, es fehle eine Schadensmeldung, lassen wir nicht gelten. Die Meldung ist am [[date|2. Oktober 2026]] per E-Mail an die Hausverwaltung gegangen. Wir übermitteln Ihnen die Sendebestätigung gerne erneut. Die Meldung enthielt Fotos des Schadens. Der Kostenvoranschlag für die Sanierung des Bades beläuft sich auf 1.980 Euro netto, die Trocknung der Wand auf weitere 360 Euro. Die Kosten für das Gutachten von Herrn [[person|Maric]] hat unsere Mandantin bereits vorgestreckt.
 
-Sollten Sie weiterhin der Ansicht sein, dass die Leitung nicht ursächlich war, bitten wir um einen eigenen Befund Ihrer Haustechnik. Wir stellen Ihnen gerne einen Termin für die Besichtigung der Wand im Bad am [[date|3. November 2026]] zur Verfügung, damit der Befund gemeinsam erhoben werden kann.
+Sollten Sie weiterhin der Ansicht sein, dass die Leitung nicht ursächlich war, bitten wir um einen eigenen Befund Ihrer Haustechnik. Wir stellen Ihnen gerne einen Termin für die Besichtigung der Wand im Bad am [[date|3. November 2026]] zur Verfügung, damit der Befund gemeinsam erhoben werden kann. Bitte bestätigen Sie den Termin bis zum Ende der kommenden Woche, andernfalls setzen wir den Befund ohne Ihre Teilnahme auf. Für Rückfragen stehen wir jederzeit zur Verfügung.
 
 Wir ersuchen um Überweisung bis [[date|30. Oktober 2026]]. Andernfalls wird das [[court|Bezirksgericht Braunau am Inn]] angerufen. Das [[court|BG Braunau am Inn]] ist für Forderungen dieser Höhe zuständig.
 

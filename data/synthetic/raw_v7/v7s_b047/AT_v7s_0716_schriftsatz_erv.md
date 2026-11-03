@@ -43,7 +43,7 @@ I. Sachverhalt
 
 3. Ein Sachverständiger, [[person|Ing. Jenny Katzmayr]], stellte am [[date|18.11.2024]] fest, dass die Abdichtung nicht fachgerecht ausgeführt wurde. Die Mängelbehebung würde 8.450 Euro netto kosten. Die Klägerin hat die [[organization|THG]] mit Schreiben vom [[date|03.12.2024]] zur Mängelbehebung aufgefordert, eine Reaktion blieb aus.
 
-4. Die Klägerin hat nach dem Mangelbefund den Rücktritt vom Vertrag erklärt. Die Rücktrittserklärung vom [[date|07.01.2025]] wurde dem Beklagten per eingeschriebenem Brief zugestellt; der Brief wurde am [[date|09.01.2025]] behoben. Der Beklagte hat den Empfang nicht bestritten, aber auch nicht reagiert. Sie begehrt daher die Rückzahlung der Anzahlung und Schadenersatz für die Kosten der Ersatzvornahme.
+4. Die Klägerin hat nach dem Mangelbefund den Rücktritt vom Vertrag erklärt. Die Rücktrittserklärung vom [[date|07.01.2025]] wurde dem Beklagten per eingeschriebenem Brief zugestellt; der Brief wurde am [[date|09.01.2025]] behoben. Der Beklagte hat den Empfang nicht bestritten, aber auch nicht reagiert. Die Klägerin hat ihn zusätzlich telefonisch an die Rückzahlung erinnert; auch darauf erfolgte keine Reaktion. Der Beklagte hat die Arbeiten ohne Bauplan und ohne schriftliche Dokumentation der Abdichtungsschichten ausgeführt. Sie begehrt daher die Rückzahlung der Anzahlung und Schadenersatz für die Kosten der Ersatzvornahme.
 
 II. Rechtliche Ausführungen
 
@@ -72,7 +72,7 @@ V. Anträge
 
 Die Klägerin stellt daher die Anträge,
 
-1. der Beklagte ist schuldig, der Klägerin den Betrag von 8.450,00 EUR samt 4 % Zinsen seit Klagseinbringung binnen 14 Tagen zu bezahlen;
+1. der Beklagte ist schuldig, der Klägerin den Betrag von 8.450,00 EUR samt 4 % Zinsen seit Klagseinbringung binnen 14 Tagen auf das Konto der Klägerin, IBAN [[bank_account|AT32 2245 9541 7433 1775]], zu bezahlen;
 
 2. die Kosten des Verfahrens werden dem Beklagten auferlegt.
 

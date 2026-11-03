@@ -71,15 +71,15 @@ Beilagen:
 
 III a. Zum Vorbringen der Kläger ist ergänzend festzuhalten, dass die Angaben zum Schmerzengeld nicht belegt sind. Die vorgelegten ärztlichen Befunde stammen von [[date|9. Juli 2025]] bis [[date|14. August 2025]] und beschreiben eine Prellung, aber keine dauerhafte Funktionsbeeinträchtigung. Die Kläger haben weder einen Krankenstand noch einen Verdienstentgang im Umfang der Klage nachgewiesen.
 
-Der Kläger zu 4 hat den Unfall nach den Aufzeichnungen des Krankenhauses erst am [[date|11. Juli 2025]] gemeldet, obwohl er bereits am [[date|8. Juli 2025]] behandelt wurde. Die Verspätung ist nicht erklärt. Die Vorlage der Befunde in der Klage ist daher unvollständig.
+Der Kläger zu 4 hat den Unfall nach den Aufzeichnungen des Krankenhauses erst am [[date|11. Juli 2025]] gemeldet, obwohl er bereits am [[date|8. Juli 2025]] behandelt wurde. Die Verspätung ist nicht erklärt. Die Vorlage der Befunde in der Klage ist daher unvollständig. Eine Stellungnahme des Krankenversicherungsträgers ist beantragt, um die Höhe der Kosten zu klären.
 
-Die Zweitbeklagte bestreitet zudem die Höhe der geltend gemachten Heilungskosten. Die Rechnungen sind teilweise doppelt gelegt, weil dieselbe Untersuchung in zwei Monaten abgerechnet wurde. Eine Aufstellung der Zahlungen des Krankenversicherungsträgers fehlt vollständig.
+Die Zweitbeklagte bestreitet zudem die Höhe der geltend gemachten Heilungskosten. Die Rechnungen sind teilweise doppelt gelegt, weil dieselbe Untersuchung in zwei Monaten abgerechnet wurde. Eine Aufstellung der Zahlungen des Krankenversicherungsträgers fehlt vollständig. Die Zweitbeklagte verlangt daher den vollständigen Nachweis aller Zahlungen. Dieser Nachweis ist innerhalb der Klagebeantwortungsfrist zu erbringen.
 
 IV. Anträge
 
 8. Die Klagebeantwortung schließt mit dem Antrag, die Klage kostenpflichtig abzuweisen. Hilfsweise beantragt die [[organization|Lukas]] die Einholung eines verkehrstechnischen Sachverständigengutachtens.
 
-[[organization|Lukas Handels GmbH]] als erstbeklagte Partei wird durch die Kanzlei vertreten. Die Vollmacht wurde mit der Klagebeantwortung übermittelt.
+[[organization|Lukas Handels GmbH]] als erstbeklagte Partei wird durch die Kanzlei vertreten. Die Vollmacht wurde mit der Klagebeantwortung übermittelt. Eine Kopie des Haftpflichtversicherungsvertrags wird als Beilage ./D nachgereicht, sobald die Versicherung die Deckungszusage erteilt hat. Die Streitverkündung an die Versicherung ist bereits erfolgt.
 
 [[location|Velden am Wörther See]], am [[date|25. September 2026]]
 
