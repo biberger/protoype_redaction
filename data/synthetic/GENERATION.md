@@ -255,3 +255,27 @@ Applied to existing data by `legalner/relabel.py` when records are read; new doc
     "[[court|BG Innere Stadt Wien]]", "[[court|LG für ZRS Graz]]").
 38. Role labels: `judge` and `lawyer` may still be written, but they are no longer queried in training
     (`schema.QUERY_ROLES = False`); every judge, lawyer, expert, clerk and party is learned as `person`.
+39. Land register extracts (Grundbuchsauszug; reference: `data/test/regression/AT_reg_004_grundbuch_wko_muster.md`,
+    the public WKO specimen):
+    - Kopf: "KATASTRALGEMEINDE [[land_register_id|12345 Penzing]] EINLAGEZAHL [[land_register_id|123]]" and
+      "[[court|BEZIRKSGERICHT Fünfhaus]]". Spelled-out headings (KATASTRALGEMEINDE, EINLAGEZAHL, GST-NR) stay outside;
+      abbreviations in running text stay inside (decision 22): "[[land_register_id|EZ 1412]]",
+      "[[land_register_id|KG 01808 Siebenhirten]]", "[[land_register_id|Gst 1272]]", "[[land_register_id|Gst-Nr. 240/1]]".
+      A KG or an EZ written alone is tagged as well, in any order ("EZ 940 KG 01808 Siebenhirten" = two spans).
+    - A1 table: each plot number ("[[land_register_id|240/1]]") and each Grundstücksadresse ("[[address|
+      Unterparschenbrunn 6]]"); areas, land-use codes (Bauf.(10), Gärten(10)) and the legend stay untagged.
+    - Tagebuchzahlen are `case_number` wherever they stand ("Letzte TZ [[case_number|4589/2019]]", "a
+      [[case_number|4589/2019]] IM RANG [[case_number|3290/2019]] Kaufvertrag [[date|2019-05-11]]",
+      "14 a [[case_number|6115/1990]] [[case_number|1266/2014]]"); entry numbers and letters, "LNR", "B-LNR 14 15",
+      "C-LNr 6", shares (ANTEIL: 1750/45360), amounts and "Satzbuch C Fol 286" stay untagged.
+    - Condominium units are `land_register_id`: "Wohnungseigentum an [[land_register_id|W 6]]".
+    - B-Blatt: "[[person|Max Mustermann]]", "GEB: [[date_of_birth|1985-09-07]] ADR: [[address|Bahnhofstraße 12,
+      Musterdorf 1234]]"; C-Blatt: "für [[person|Toni Mustermann]] geb [[date_of_birth|1957-10-24]]", "für
+      [[organization|ING-DiBa AG]] ([[company_register_number|HRB 7727]] [[court|Amtsgericht Frankfurt am Main]])",
+      "für [[organization|Land Wien]]", "für [[land_register_id|EZ 1412]]" (a right for another property).
+40. Text-layer splits: PDF text layers and OCR break values and names across lines at any character, and put page
+    line numbers or column fragments between them. A split value stays one span including the line break:
+    "UID: [[tax_id|ATU⏎50221905]]", "T: [[phone_number|+43-1-5122865⏎0]]", "[[bank_account|AT57 1100 0085 2476⏎6600]]",
+    "[[organization|Erste Bank der österr.⏎Sparkassen AG]]", "[[person|Christine⏎Gauberger]]". Names listed in a
+    letterhead are tagged one by one, also when the line breaks inside the list ("[[person|Huppmann]],
+    [[person|Poindl]], [[person|Pfaffenberger]],⏎[[person|Nierlich]]"). (⏎ = a real line break in the file.)

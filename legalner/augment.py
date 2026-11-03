@@ -143,7 +143,39 @@ def ocr_swaps(rec, rng, p=0.006):
     return rebuild(rec, core=core)
 
 
-TRANSFORMS = (letter_spacing, page_break, line_wrap, broken_spacing, ocr_swaps)
+SPLIT_LABELS = {"person", "organization", "address", "bank_account", "phone_number", "tax_id", "email",
+                "company_register_number", "social_security_number", "other_identifier", "land_register_id",
+                "case_number", "id_document_number", "date_of_birth"}
+
+
+def text_layer_split(rec, rng):
+    """Break one to three values across lines at any character, as PDF text layers do ("ATU\n50221905",
+    "+43-1-5122865\n0", "Christine\nGauberger"); sometimes page line numbers end up between the lines."""
+    text = rec["text"]
+    cands = [s for s in rec["spans"] if s["label"] in SPLIT_LABELS and s["end"] - s["start"] >= 4
+             and "\n" not in s["text"]]
+    if not cands:
+        return rec
+    pre = {}
+    for s in rng.sample(cands, min(len(cands), rng.choice((1, 1, 2, 3)))):
+        at = rng.randint(s["start"] + 1, s["end"] - 1)
+        if text[at] == " ":
+            at += 1
+        if at < s["end"] and at not in pre:
+            pre[at] = "\n"
+            if text[at - 1] == " ":
+                pass  # "Erste Bank der österr. \nSparkassen" keeps the space before the break
+    if rng.random() < 0.15:  # a column of page line numbers lands in the text
+        lines = [m.end() for m in re.finditer(r"\n", text) if m.end() < len(text)]
+        if lines:
+            at = rng.choice(lines)
+            if at not in pre:
+                start = rng.randint(1, 30)
+                pre[at] = "".join(f"{n}\n" for n in range(start, start + rng.randint(3, 12)))
+    return rebuild(rec, pre=pre)
+
+
+TRANSFORMS = (letter_spacing, page_break, line_wrap, broken_spacing, ocr_swaps, text_layer_split)
 
 
 def layout_noise(rec, rng):
