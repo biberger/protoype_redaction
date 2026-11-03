@@ -54,7 +54,15 @@ Rechtliche Beurteilung
 
 Gemäß [[legal_norm|§ 43a Abs 3 RAO]] hat der Rechtsanwalt die ihm anvertrauten Gelder getrennt vom eigenen Vermögen zu verwahren und sie nur zu dem Zweck zu verwenden, zu dem sie übergeben wurden. Die Verwendung der Kaufpreisanzahlung für den Kanzleibetrieb verletzt diese Pflicht schwer. Dass die Rückzahlung erst nach der Anzeige erfolgte, ändert nichts am Tatbild; die Pflichtverletzung war mit der Überweisung vom [[date|02.04.2025]] vollendet.
 
+Die Rechtsprechung des [[court|OBDK]] sieht bei vergleichbaren Fällen, in denen Treuhandgelder ohne Auftrag verwendet wurden, Geldbußen zwischen 5.000 und 15.000 Euro vor. Ein Ausschluss kommt bei vollständiger Schadensgutmachung nur in Betracht, wenn weitere Verstöße hinzutreten. Der Senat bewertet die Verletzung als schwerwiegend, aber nicht so gravierend, dass die Ausschließung geboten wäre.
+
 Zur Strafbemessung ist festzuhalten, dass der Beschuldigte bisher disziplinär unbescholten ist und den Schaden später ersetzt hat. Erschwerend wirkt der lange Zeitraum, in dem die Klientin ohne Information blieb, und dass der Beschuldigte die Anfragen der Beschwerdeführerin nicht beantwortete. Nach [[legal_norm|§ 34 Abs 1 RAO]] ist eine Geldbuße in dieser Höhe angemessen; ein Ausschluss aus der Liste erscheint nicht erforderlich.
+
+Verfahrensgang
+
+Die Disziplinaranzeige wurde am [[date|18. Februar 2026]] von der Kammeranwältin erstattet, nachdem sich die Beschwerdeführerin an die Rechtsanwaltskammer gewandt hatte. Der Beschuldigte wurde am [[date|9. März 2026]] zur Stellungnahme aufgefordert. Er beantragte eine Verlängerung der Frist, die ihm gewährt wurde. Seine Stellungnahme vom [[date|21. April 2026]] enthält keine Belege für die behauptete Vorabvergütung. Am [[date|3. Juni 2026]] wurde die Beschwerdeführerin in der Verhandlung einvernommen. Die Kammeranwältin stellte den Antrag auf Verhängung einer Geldbuße von mindestens 6.000 Euro.
+
+Der Beschuldigte war zur Verhandlung erschienen und vertrat sich selbst. Die Kontobewegungen sind eindeutig; ein weiteres Beweisverfahren war daher nicht erforderlich.
 
 Rechtsbelehrung
 

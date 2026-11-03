@@ -40,6 +40,8 @@ Den Mandanten ist dadurch ein Schaden entstanden, der sich auf die Reparaturkost
 
 Wir fordern Sie auf, bis spätestens [[date|31.10.2026]] einen Betrag von 4.850 Euro an unsere Kanzlei zu überweisen. Andernfalls werden wir die Ansprüche gerichtlich geltend machen, ohne dass es einer weiteren Mahnung bedarf.
 
+Die Mängel sind durch das beigelegte Gutachten dokumentiert. Die Beweisfotos wurden von unseren Mandanten laufend angefertigt, die Korrespondenz der letzten zwölf Monate liegt bei. Wir weisen darauf hin, dass unsere Mandanten die Mietzinszahlungen seit dem [[date|01.07.2026]] unter Vorbehalt leisten und den Einbehalt bis zur Mängelbehebung aufrechterhalten. Eine Zahlung auf das Konto der Hausverwaltung erfolgt daher nur unter dem Vorbehalt der Rückforderung.
+
 Mit freundlichen Grüßen
 
 Rechtsanwälte OG

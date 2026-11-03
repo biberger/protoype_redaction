@@ -16,7 +16,7 @@ GZ: [[case_number|1 A 214/21 k]]
 
 Verlassenschaftsabhandlung nach [[person|Aloisia Flemming]], geb. [[date_of_birth|11. Mai 1952]], gestorben am [[date|22.09.2021]], zuletzt wohnhaft in [[address|7321 Raiding]]
 
-Das [[court|Bezirksgericht Baden]] hat mit Beschluss vom [[date|04.10.2021]] die Verlassenschaft nach der Verstorbenen [[person|Flemming]] dem öffentlichen Notar [[person|Ratz]] als Gerichtskommissär zur Abhandlung zugewiesen. Die Abhandlung wurde am [[date|12.10.2026]] in der Kanzlei fortgesetzt und in dieser Niederschrift festgehalten.
+Das [[court|Bezirksgericht Baden]] hat mit Beschluss vom [[date|04.10.2021]] die Verlassenschaft nach der Verstorbenen [[person|Flemming]] dem öffentlichen Notar [[person|Ratz]] als Gerichtskommissär zur Abhandlung zugewiesen. Die Abhandlung wurde am [[date|12.10.2026]] in der Kanzlei fortgesetzt und in dieser Niederschrift festgehalten. Die Gerichtsakten des [[court|BG Baden]] wurden dafür vorgelegt, und die Erbenvorladung erfolgte ordnungsgemäß.
 
 I. Erben und Legatare
 

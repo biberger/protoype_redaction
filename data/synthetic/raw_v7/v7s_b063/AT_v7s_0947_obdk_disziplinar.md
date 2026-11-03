@@ -74,6 +74,8 @@ Die [[court|OBDK]] hält unter Berücksichtigung dieser Umstände eine Geldstraf
 
 Die Kosten des Verfahrens trägt der Beschuldigte [[lawyer|Moravec]]. Die Verfahrenskosten werden in pauschalierter Form bestimmt.
 
+Die Kosten des Verfahrens werden nach dem Aufwand der Kammer bestimmt. Sie umfassen die Gebühren des Kammeranwalts, die Aufwendungen für die Sachverständige und die Protokollierung durch die Schriftführerin [[person|Matonohová]]. Eine Kostenersatzpflicht des Beschuldigten besteht unabhängig davon, ob die Entscheidung in der Berufung bestätigt wird.
+
 5. Rechtsmittelbelehrung
 
 Gegen diese Entscheidung ist ein Rechtsmittel an den [[court|Obersten Gerichtshof]] als Disziplinargericht innerhalb von vier Wochen ab Zustellung zulässig. Der Antrag auf Aufhebung ist beim Kammeranwalt [[person|Slavík]] einzubringen.

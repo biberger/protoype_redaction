@@ -39,15 +39,23 @@ Der Senat folgt den Feststellungen des Disziplinarrates in Bezug auf die Überwe
 
 Die Auszahlung vom [[date|08.09.2025]] bestreitet der Beschuldigte mit dem Hinweis auf eine mündliche Vereinbarung mit dem Beschwerdeführer. Der Beschwerdeführer hat diese Vereinbarung ausdrücklich in Abrede gestellt. Der Senat hält die Darstellung des Beschwerdeführers für glaubwürdig, weil sie durch die Abrechnung der Kanzlei selbst gestützt wird.
 
+In der Verhandlung hat die Kammeranwältin [[person|Barbeli Czernin]] ausgeführt, dass der Beschuldigte auch nach der Rückzahlung keine vollständige Abrechnung über die Mandatsgelder vorgelegt habe. Die Abrechnung, die der Beschuldigte am [[date|03.02.2026]] an die [[organization|RAK]] übermittelte, enthält für den Zeitraum vom [[date|02.05.2025]] bis zum [[date|17.11.2025]] lediglich zwei Positionen und weist keine Belege aus. Der Senat schließt sich dieser Würdigung an, weil die Kontenbewegungen insgesamt nicht nachvollziehbar sind.
+
+Der Beschwerdeführer [[person|Hannsjörg Ing. Erlach]] hat in seiner Einvernahme glaubhaft geschildert, dass er mehrfach, zuletzt am [[date|21.11.2025]], schriftlich um Auskunft ersucht habe. Eine Antwort des Beschuldigten erfolgte vor der Anzeige an die [[organization|RAK]] nicht.
+
 Rechtliche Beurteilung:
 
 Nach [[legal_norm|§ 16 Abs 1 RAO]] hat der Rechtsanwalt anvertraute Vermögenswerte getrennt von seinem eigenen Vermögen zu verwahren. Die Verwendung der Gelder für eigene Zwecke verletzt diese Pflicht schwer. Gemäß [[legal_norm|§ 34 Abs 1 RAO]] liegt damit ein Disziplinarvergehen vor.
 
 Die Berufung rügt zu Recht, dass der Disziplinarrat die Zahlung vom [[date|11.06.2025]] als Veruntreuung gewertet hat, obwohl sie auf einer Honorarvereinbarung beruhte. Insoweit war der Schuldspruch zu korrigieren. Die Umbuchung war dennoch ohne Honorarnote und damit nicht ordnungsgemäß.
 
+Die Pflicht zur Auskunft über Mandatsgelder ergibt sich aus [[legal_norm|§ 16 Abs 3 RAO]] und aus den Standesregeln der Rechtsanwaltschaft. Ein Verstoß gegen diese Auskunftspflicht ist für sich genommen zu würdigen, auch wenn der Schuldspruch bereits auf die Verwendung der Gelder gestützt wird.
+
 Bei der Strafbemessung waren als mildernd zu werten: die bisherige Unbescholtenheit, das Geständnis hinsichtlich der Umbuchung und die Rückzahlung des Fehlbetrages am [[date|17.11.2025]]. Erschwerend war die lange Dauer des Verstoßes.
 
 Die Herabsetzung der Geldbuße auf EUR 6.000,00 trägt diesen Umständen Rechnung. Die Kosten des Berufungsverfahrens trägt der Beschuldigte.
+
+Gegen dieses Erkenntnis ist ein weiteres Rechtsmittel nicht zulässig. Die Ausfertigung ergeht an den Beschuldigten, an den Beschwerdeführer, an die Kammeranwältin und an die [[organization|RAK]].
 
 Für die Richtigkeit der Ausfertigung:
 [[person|Ekin Ateşçi]]

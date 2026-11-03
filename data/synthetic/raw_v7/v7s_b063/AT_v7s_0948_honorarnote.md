@@ -46,6 +46,8 @@ Die Vereinbarung über das Honorar sieht einen Stundensatz von 180 Euro netto f�
 
 Auslagen (Barauslagen, Gerichtsgebühren) sind in dieser Note nicht enthalten und werden gesondert verrechnet. Die Gerichtsgebühren wurden von Ihnen direkt beglichen.
 
+Die Umsatzsteuer wird mit dem Normalsteuersatz von 20 % berechnet. Die Leistungen sind in der Akte chronologisch dokumentiert und können auf Wunsch in Kopie übermittelt werden. Der Vorschuss wurde vollständig gegen die erbrachten Leistungen aufgerechnet.
+
 Die Honorarnote ist gemäß [[legal_norm|§ 11 UStG]] als Rechnung ausgewiesen. Bei Zahlungsverzug werden Verzugszinsen nach den gesetzlichen Bestimmungen verrechnet. Wir ersuchen Sie, Einwendungen gegen diese Note innerhalb von 14 Tagen schriftlich zu erheben.
 
 Wir bitten um Überweisung des Gesamtbetrages bis spätestens [[date|14.11.2026]] auf unser Konto bei der [[organization|UniCredit Bank Austria AG]], IBAN [[bank_account|AT48 1367 1971 6464 0597]], BIC [[bank_account|SPIHAT22]], unter Angabe der Honorarnote Nr. 2026-0412.

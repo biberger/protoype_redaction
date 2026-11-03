@@ -53,9 +53,9 @@ II. Rechtliche Beurteilung
 
 6. Der Geschäftsführer [[person|Kallmus]] hat die Arbeiten persönlich überwacht und die Abdichtung abgenommen. Die Beklagte kann sich daher nicht darauf berufen, die Ausführung sei von einem Subunternehmer erbracht worden.
 
-7. Die Klägerin ist zuständig nach [[legal_norm|§ 49 Abs 1 JN]], weil der Erfüllungsort der Werkleistung in Wien liegt. Das [[court|Bezirksgericht Hernals]] ist daher sachlich und örtlich zuständig.
+7. Die Klägerin ist zuständig nach [[legal_norm|§ 49 Abs 1 JN]], weil der Erfüllungsort der Werkleistung in [[location|Wien]] liegt. Das [[court|Bezirksgericht Hernals]] ist daher sachlich und örtlich zuständig.
 
-8. Die Zuständigkeit des [[court|BG Hernals]] ergibt sich außerdem aus dem Ort der Liegenschaft. Die Klägerin ist seit dem Jahr 2020 in Wien wohnhaft und war zuvor in [[location|St. Margarethen im Burgenland]] gemeldet.
+8. Die Zuständigkeit des [[court|BG Hernals]] ergibt sich außerdem aus dem Ort der Liegenschaft. Die Klägerin ist seit dem Jahr 2020 in [[location|Wien]] wohnhaft und war zuvor in [[location|St. Margarethen im Burgenland]] gemeldet.
 
 9. Die Beklagte hat den Werklohn für die Badsanierung noch nicht bezahlt, sondern mit einer Gegenforderung in Höhe von EUR 2.100,00 aufgerechnet. Diese Gegenforderung betrifft nach der Rechnung der [[organization|Prutsch]] Materialkosten für eine zusätzliche Fliesenlieferung, die die Klägerin nie bestellt hat. Die Aufrechnung ist daher unzulässig, weil die Forderung nicht fällig und nicht anerkannt ist.
 

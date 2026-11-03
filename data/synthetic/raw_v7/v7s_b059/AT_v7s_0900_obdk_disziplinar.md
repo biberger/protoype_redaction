@@ -20,7 +20,7 @@ Beisitzerin: [[person|Dr. Mairi Pelekanos]]
 Kammeranwalt: [[person|Mag. Andras Brauner]]
 Schriftführerin: [[person|Rachil Nabl]], *[[date_of_birth|21. November 1981]]
 
-Die Verhandlung fand am [[date|17.08.2026]] statt. Die Kammerverwaltung ist unter Tel. [[phone_number|+43 1 789 32 21 DW 395]] erreichbar.
+Die Verhandlung fand am [[date|17.08.2026]] statt. Die Beschuldigte wurde im Beisein ihres Verteidigers [[person|Dr. Marko Oberhauser]] vernommen; der Kammeranwalt stellte den Antrag auf eine Geldbuße von EUR 5.000,-- und auf ein Berufsverbot für Treuhandmandate von einem Jahr. Die Kammerverwaltung ist unter Tel. [[phone_number|+43 1 789 32 21 DW 395]] erreichbar.
 
 Spruch
 
@@ -48,7 +48,7 @@ Beweiswürdigung
 
 5. Die Feststellungen beruhen auf den Kontoauszügen, den Eintragungen im Treuhandbuch und den Angaben des Klienten. Die [[organization|KRAK]] hat die Kontoauszüge unmittelbar bei der Bank angefordert. Der Klient hat zudem eine Kopie des Schreibens der Bauunternehmung übergeben, in dem diese den Eingang der Zahlung bestätigt, ohne den Auftrag des Klienten zu kennen. Der Klient hat ausgesagt, dass er die Bauunternehmung nicht beauftragt habe und von der Zahlung erst durch ein Schreiben der Kammer erfuhr.
 
-6. Die Beschuldigte bestritt eine Pflichtverletzung zunächst und bezeichnete die Zahlung als Vorschuss. Diese Verantwortung ist durch den Kaufvertrag vom [[date|30.12.2024]] widerlegt, der keinen Vorschuss an Dritte vorsieht.
+6. Die Beschuldigte bestritt eine Pflichtverletzung zunächst und bezeichnete die Zahlung als Vorschuss. Diese Verantwortung ist durch den Kaufvertrag vom [[date|30.12.2024]] widerlegt, der keinen Vorschuss an Dritte vorsieht. Der Kaufvertrag enthält zudem eine Klausel, wonach Zahlungen an den Verkäufer ausschließlich über das Treuhandkonto der Kanzlei zu leisten sind; eine Zahlung an einen Dritten ist darin nicht vorgesehen.
 
 Rechtliche Beurteilung
 
@@ -61,6 +61,10 @@ Rechtliche Beurteilung
 10. Die Beschuldigte hat die Verantwortung, es habe sich um einen Vorschuss gehandelt, in der mündlichen Verhandlung nicht aufrechterhalten. Sie hat eingeräumt, dass die Zahlung ohne Kenntnis des Klienten erfolgt ist. Der Disziplinarrat wertet dieses Zugeständnis als glaubwürdig, weil es mit den Auszügen übereinstimmt.
 
 11. Eine Untersagung der Berufsausübung war nicht zu verhängen, weil die Beschuldigte seit dem [[date|01.01.2026]] keine Treuhandschaften mehr übernommen hat. Die Kosten des Verfahrens, einschließlich der Zustellung, trägt die Beschuldigte.
+
+12. Die Beschuldigte hat zugesagt, sämtliche Treuhandkonten künftig durch einen externen Wirtschaftsprüfer prüfen zu lassen. Diese Zusage wurde bei der Entscheidung über die Höhe der Geldbuße berücksichtigt.
+
+13. Der Kammeranwalt hat auf die Verhängung einer höheren Geldbuße verzichtet, weil die Beschuldigte die Rückzahlung vor Einleitung des Verfahrens veranlasst hat.
 
 Die Schriftführerin hat die Entscheidung vollständig verlesen. Die Beschlussfassung erfolgte einstimmig.
 

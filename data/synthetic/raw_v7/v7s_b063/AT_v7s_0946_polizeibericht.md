@@ -61,6 +61,8 @@ Die Videoaufnahmen eines privaten Geschäftes am [[street|Hauptplatz]] wurden an
 
 Eine Anfrage an die Versicherung des Fahrzeugs 2 wurde gestellt. Die Antwort steht noch aus. Die Vollkaskodeckung beider Fahrzeuge ist nach den Angaben der Lenker vorhanden.
 
+Die Fahrzeuge wurden nach der Unfallaufnahme von einem Abschleppdienst geborgen und auf einen Verwahrplatz gebracht. Die Verwahrungskosten trägt zunächst der Halter des Fahrzeugs 1; die Frage der Überwälzung ist eine zivilrechtliche und nicht Gegenstand dieser Anzeige. Die [[organization|Freiwillige Feuerwehr St. Florian]] hatte Ölspuren auf der Fahrbahn zu binden; die Reinigung war um 08:30 Uhr abgeschlossen.
+
 6. Rechtliche Beurteilung
 
 Der Sachverhalt wird als Verwaltungsübertretung nach der [[legal_norm|Straßenverkehrsordnung]] zur Prüfung an die zuständige Bezirkshauptmannschaft übermittelt. Ob die Übertretung [[person|Hohn]] oder [[person|Heinrich]] zuzurechnen ist, wird erst nach Auswertung der Videoaufnahmen beurteilt. Die Anzeige ergeht an alle Beteiligten.

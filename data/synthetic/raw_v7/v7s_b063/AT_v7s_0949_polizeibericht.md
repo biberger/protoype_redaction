@@ -54,6 +54,8 @@ Der Sachschaden wird auf etwa 9.200 Euro geschätzt. Das Fahrzeug von [[person|W
 
 Der Sachverständige für Kraftfahrzeugtechnik wurde am [[date|22.09.2026]] mit der Begutachtung der Bremsanlage des Fahrzeugs der [[organization|Malle GmbH]] beauftragt. Die Verkehrsabteilung hat außerdem eine Stellungnahme zu den Sichtverhältnissen an der Abzweigung angefordert. Nach den Fotos war die Sicht in Richtung Westen durch eine Hecke eingeschränkt. Die Dienstgeberin der Lenkerin wurde über den Unfall verständigt; ein Vertreter der Gesellschaft gab telefonisch an, die Lenkerin habe das Firmenfahrzeug an diesem Tag für Kundenbesuche benützt.
 
+Die Lenkerin [[person|Schallert]] wies bei der Befragung darauf hin, dass sie seit dem Vorjahr nur selten Dienstfahrzeuge führe und mit dem Fahrzeug der Gesellschaft nicht vertraut gewesen sei. Die Gesellschaft bestätigte dies schriftlich; eine Einsichtnahme in das Fahrtenbuch wurde beantragt.
+
 Vorläufige Beurteilung: Die Angaben der Beteiligten sind in den wesentlichen Punkten widersprüchlich. Ob die Lenkerin [[person|Schallert]] den Vorrang verletzt hat, wird nach Vorliegen des Gutachtens und der Zeugenaussage von [[person|Flegel]] endgültig beurteilt. Die Sachverhaltsfeststellungen werden nach Vorliegen der ergänzenden Unterlagen ergänzt.
 
 5. Dokumentation
@@ -61,6 +63,8 @@ Vorläufige Beurteilung: Die Angaben der Beteiligten sind in den wesentlichen Pu
 Die Ausweise der Beteiligten wurden kopiert und zum Akt genommen. Die Kopien der Fahrzeugpapiere wurden ebenfalls angefordert. Die Ausweisnummern sind in der Tabelle oben angeführt und wurden mit den Angaben im Zentralen Melderegister abgeglichen.
 
 Die Fotodokumentation umfasst 22 Aufnahmen der Unfallstelle, der Fahrzeuge und der Spurenlage. Die Bremsspuren wurden vermessen. Eine Skizze im Maßstab 1:200 ist beigelegt.
+
+Die Unfallstelle wurde nach Abschluss der Vermessung um 16:40 Uhr freigegeben. Die Verkehrsregelung oblag bis dahin der Feuerwehr, die den Verkehr über die Umleitung führte. Eine Bergung der Fahrzeuge erfolgte durch einen privaten Abschleppdienst. Die Kosten für die Bergung werden von den jeweiligen Haltern getragen.
 
 6. Anzeige und weitere Veranlassung
 

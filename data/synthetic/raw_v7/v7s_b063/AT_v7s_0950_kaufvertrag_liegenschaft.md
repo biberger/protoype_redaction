@@ -59,6 +59,8 @@ Der Übergang von Besitz, Nutzen und Lasten erfolgt mit dem Tag der Unterfertigu
 
 Die Kosten der Errichtung des Vertrages und der Eintragung im Grundbuch trägt die Käuferin [[person|Łagowska]] zu einem Anteil von der Hälfte, die weitere Hälfte trägt [[person|Reinl]].
 
+Die Vertragsparteien erklären, über die Belastungen der Liegenschaften informiert zu sein. Eine Überprüfung der Flächenwidmung hat ergeben, dass die Grundstücke als Bauland-Wohngebiet ausgewiesen sind. Die Käufer bestätigen, den Zustand der Gebäude besichtigt zu haben, und übernehmen die Liegenschaften im gegenwärtigen Zustand ohne Gewährleistung für Mängel, die bei der Besichtigung erkennbar waren.
+
 VIII. Vorkaufsrecht und Nutzung
 
 Ein allfälliges Vorkaufsrecht der Gemeinde wurde mit Schreiben vom [[date|27.05.2026]] abgefragt; die Gemeinde hat auf die Ausübung verzichtet. Bis zur Übergabe bleibt die Liegenschaft im Besitz der [[organization|Senft]], die Nutzung durch Dritte ist nicht gestattet. Die Käufer haben das Recht, nach Eintragung ihres Eigentums die Liegenschaft zu betreten, um Begehungen für die Sanierung der Dachkonstruktion durchzuführen.

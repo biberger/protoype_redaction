@@ -7,7 +7,7 @@ GZ [[case_number|E 27/2025]]
 
 Im Namen der Republik!
 
-Die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] (im Folgenden: [[court|OBDK]]) hat durch den Senat in der nichtöffentlichen Sitzung vom [[date|14.05.2026]] in Wien über die Berufung des Rechtsanwalts [[lawyer|Arikan Batu]] gegen das Erkenntnis des [[court|Disziplinarrates der Rechtsanwaltskammer für Steiermark]] vom [[date|09.02.2026]] zu Recht erkannt:
+Die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] (im Folgenden: [[court|OBDK]]) hat durch den Senat in der nichtöffentlichen Sitzung vom [[date|14.05.2026]] in [[location|Wien]] über die Berufung des Rechtsanwalts [[lawyer|Arikan Batu]] gegen das Erkenntnis des [[court|Disziplinarrates der Rechtsanwaltskammer für Steiermark]] vom [[date|09.02.2026]] zu Recht erkannt:
 
 Senatsbesetzung
 
@@ -71,11 +71,11 @@ III. Rechtliche Beurteilung
 
 14. Die Berufung behauptet, der Disziplinarrat habe die Zahl der Buchungen falsch gezählt. Dieser Einwand ist unbegründet. Die Tabelle unter Punkt 4 enthält alle fünf Bewegungen, die im Protokoll des Disziplinarrates festgehalten sind, und keine weitere. Die Anzahl der betroffenen Klienten ist mit zwei zutreffend angegeben.
 
-15. Gegen diese Entscheidung steht den Parteien das Rechtsmittel an den [[court|OGH]] nach den Bestimmungen der RAO offen. Die Frist zur Erhebung beginnt mit der Zustellung dieser Ausfertigung.
+15. Gegen diese Entscheidung steht den Parteien das Rechtsmittel an den [[court|OGH]] nach den Bestimmungen der [[legal_norm|RAO]] offen. Die Frist zur Erhebung beginnt mit der Zustellung dieser Ausfertigung.
 
 16. Die Kammeranwältin [[person|Dr. Šimona Fischerová]] hat in ihrer Stellungnahme vom [[date|02.04.2026]] beantragt, die Geldbuße auf EUR 6.000,00 zu belassen und zusätzlich einen Hinweis auf die Pflicht zur Teilnahme an einer Fortbildung über Treuhandrecht auszusprechen. Der Senat folgt diesem Antrag nur insoweit, als er die Bemessung durch die Herabsetzung mildert; einen Fortbildungsauftrag hält er nicht für erforderlich, weil der Beschuldigte bereits an einer solchen Veranstaltung der [[organization|RAK]] teilgenommen hat.
 
-17. Die Kosten des Verfahrens vor dem Disziplinarrat und vor der OBDK sind nach dem Ausgang des Rechtsmittels aufzuteilen. Der Beschuldigte hat die Hälfte der Pauschalgebühr zu tragen, weil die Berufung nur in einem Teil der Vorwürfe erfolgreich war. Die Entscheidung über die Kosten beruht auf den angeführten Bestimmungen der RAO.
+17. Die Kosten des Verfahrens vor dem Disziplinarrat und vor der [[court|OBDK]] sind nach dem Ausgang des Rechtsmittels aufzuteilen. Der Beschuldigte hat die Hälfte der Pauschalgebühr zu tragen, weil die Berufung nur in einem Teil der Vorwürfe erfolgreich war. Die Entscheidung über die Kosten beruht auf den angeführten Bestimmungen der [[legal_norm|RAO]].
 
 18. Der Senat hat die Akten vollständig eingesehen und keinen Anlass gesehen, die Beweise durch weitere Zeugen zu ergänzen. Die Anträge auf Vernehmung der Mitarbeiterin der Kanzlei wurden abgewiesen, weil ihr Wissen bereits durch die Protokolle belegt ist und eine Vernehmung zu keiner weiteren Klärung der Buchungen führen würde.
 

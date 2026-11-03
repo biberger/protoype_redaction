@@ -12,7 +12,7 @@ Zl. [[case_number|DRK 11/2025]]
 
 PROTOKOLL der mündlichen Verhandlung und Erkenntnis
 
-Die Sitzung des Disziplinarrates fand am [[date|22. Mai 2026]] in Klagenfurt statt. Beginn: 10:00 Uhr.
+Die Sitzung des Disziplinarrates fand am [[date|22. Mai 2026]] in [[location|Klagenfurt]] statt. Beginn: 10:00 Uhr.
 
 Zusammensetzung des Senats:
 

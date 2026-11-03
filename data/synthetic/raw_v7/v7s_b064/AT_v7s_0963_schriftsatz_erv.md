@@ -23,7 +23,8 @@ der klagenden Partei [[person|MEINHARDT LIPUŠ]], [[address|Badgasse 9, 5020 Sal
 
 gegen
 
-1. [[person|Marinus⏎Kulka]], geb [[date_of_birth|1941-12-10]], [[address|Hauptstraße 14, 4840 Vöcklabruck]],
+1. [[person|Marinus
+Kulka]], geb [[date_of_birth|1941-12-10]], [[address|Hauptstraße 14, 4840 Vöcklabruck]],
 2. [[person|Sibilla Stigler]], GEB: [[date_of_birth|1943-02-11]], [[address|5550 Radstadt]],
 3. [[person|Gervasius Pálffy]], *[[date_of_birth|1964-11-13]], Staatsangehöriger von [[country|Deutschland]], wohnhaft in [[location|St. Martin im Mühlkreis]],
 4. [[organization|Rohrmoser Immobilien GmbH]], [[company_register_number|FN 547418b]], UID: [[tax_id|ATU77629719]], vertreten durch den Geschäftsführer [[person|Lüder Grosse]],
@@ -34,7 +35,7 @@ Streitwert: EUR 184.300,00
 
 I. Sachverhalt
 
-1. Der Kläger hat mit Kaufvertrag vom [[date|3. März 2019]] von der [[organization|Rohrmoser Immobilien GmbH]] ([[organization|RIG]]) ein Wohnungseigentumsobjekt in der Stadt Salzburg erworben. Die Übergabe erfolgte am [[date|1. Juli 2019]]. Die Kaufpreiszahlung von EUR 212.000,00 ist durch den Kaufvertrag belegt (Beilage ./A).
+1. Der Kläger hat mit Kaufvertrag vom [[date|3. März 2019]] von der [[organization|Rohrmoser Immobilien GmbH]] ([[organization|RIG]]) ein Wohnungseigentumsobjekt in der Stadt [[location|Salzburg]] erworben. Die Übergabe erfolgte am [[date|1. Juli 2019]]. Die Kaufpreiszahlung von EUR 212.000,00 ist durch den Kaufvertrag belegt (Beilage ./A).
 
 2. Die [[organization|RIG]] hat die Verkäuferpflichten zur Sanierung der Dachkonstruktion nicht erfüllt. Mit Schreiben vom [[date|18. November 2024]] hat der Kläger die Mängel gerügt. Die Geschäftsführung der [[organization|RIG]] hat darauf nicht reagiert. Auch die Hausverwaltung der [[organization|Rohrmoser]] hat die Angelegenheit an die Eigentümer weitergeleitet, ohne eine Frist zu nennen.
 
@@ -50,7 +51,7 @@ II. Rechtliche Beurteilung
 
 7. Die Wohnung unterliegt dem Anwendungsbereich des [[legal_norm|WEG 2002]], sodass auch die Verwaltungsbefugnisse des [[person|Kulka]] nach [[legal_norm|§ 19 WEG 2002]] zu beurteilen sind.
 
-8. Das [[court|Landesgericht Salzburg]] ist aufgrund des Streitwertes von EUR 184.300,00 sachlich zuständig. Die örtliche Zuständigkeit ergibt sich aus dem Ort der gelegenen Sache in Salzburg. Das [[court|LG Salzburg]] ist daher für die Entscheidung zuständig.
+8. Das [[court|Landesgericht Salzburg]] ist aufgrund des Streitwertes von EUR 184.300,00 sachlich zuständig. Die örtliche Zuständigkeit ergibt sich aus dem Ort der gelegenen Sache in [[location|Salzburg]]. Das [[court|LG Salzburg]] ist daher für die Entscheidung zuständig.
 
 9. Zum Beweis des Vorbringens beruft sich der Kläger auf die Urkunden Beilagen ./A bis ./D, auf die Einvernahme des Klägers und auf die Parteienvernehmung der Beklagten. Ein Sachverständigengutachten zur Schadenshöhe wird ausdrücklich vorbehalten.
 
@@ -82,7 +83,7 @@ Der Kläger stellt daher die Anträge,
 Beilagenverzeichnis
 
 BEILAGE | BEZEICHNUNG | DATUM
-./A | Kaufvertrag, Liegenschaft Salzburg | [[date|3. März 2019]]
+./A | Kaufvertrag, Liegenschaft [[location|Salzburg]] | [[date|3. März 2019]]
 ./B | Mängelrüge der Klagspartei | [[date|18. November 2024]]
 ./C | Polizze und Ablehnungsschreiben, Polizze [[other_identifier|70-3791030]] | [[date|11. Juni 2025]]
 ./D | Fotodokumentation Zufahrtsweg | [[date|2. Oktober 2025]]
@@ -92,7 +93,7 @@ Beilagen: ./A bis ./E in elektronischer Form, Gerichtsgebühren gemäß [[legal_
 
 Der Kläger erklärt, dass die Zahlungsaufforderung vom [[date|21. Juli 2026]] unbeantwortet geblieben ist. Die Bankverbindung für allfällige Zahlungen lautet IBAN [[bank_account|AT98 3524 8000 3154 6073]].
 
-Salzburg, am [[date|20.10.2026]]
+[[location|Salzburg]], am [[date|20.10.2026]]
 
 [[lawyer|Langthaler]] e.h.
 Rechtsanwalt für den Kläger
