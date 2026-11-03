@@ -1,0 +1,680 @@
+{
+ "model_seconds": 1153.7,
+ "model@0.4": {
+  "pii_char_recall": 0.9239,
+  "labels": {
+   "person": {
+    "p": 0.9915,
+    "r": 0.9391,
+    "f1": 0.9646,
+    "support": 4957
+   },
+   "*": {
+    "p": 0.8717,
+    "r": 0.8181,
+    "f1": 0.844,
+    "support": 17170
+   },
+   "organization": {
+    "p": 0.3412,
+    "r": 0.6586,
+    "f1": 0.4496,
+    "support": 873
+   },
+   "court": {
+    "p": 0.9734,
+    "r": 0.4393,
+    "f1": 0.6054,
+    "support": 1746
+   },
+   "address": {
+    "p": 0.8527,
+    "r": 0.869,
+    "f1": 0.8608,
+    "support": 313
+   },
+   "street": {
+    "p": 0.8448,
+    "r": 0.9423,
+    "f1": 0.8909,
+    "support": 52
+   },
+   "location": {
+    "p": 0.9776,
+    "r": 0.9954,
+    "f1": 0.9864,
+    "support": 875
+   },
+   "date": {
+    "p": 0.9973,
+    "r": 0.9924,
+    "f1": 0.9949,
+    "support": 2646
+   },
+   "case_number": {
+    "p": 0.841,
+    "r": 0.8747,
+    "f1": 0.8575,
+    "support": 798
+   },
+   "bank_account": {
+    "p": 0.9603,
+    "r": 0.9932,
+    "f1": 0.9764,
+    "support": 146
+   },
+   "social_security_number": {
+    "p": 0.8261,
+    "r": 0.9744,
+    "f1": 0.8941,
+    "support": 78
+   },
+   "tax_id": {
+    "p": 0.9844,
+    "r": 0.9844,
+    "f1": 0.9844,
+    "support": 64
+   },
+   "company_register_number": {
+    "p": 0.9877,
+    "r": 1.0,
+    "f1": 0.9938,
+    "support": 80
+   },
+   "license_plate": {
+    "p": 0.973,
+    "r": 0.973,
+    "f1": 0.973,
+    "support": 74
+   },
+   "land_register_id": {
+    "p": 0.956,
+    "r": 0.8736,
+    "f1": 0.9129,
+    "support": 174
+   },
+   "id_document_number": {
+    "p": 1.0,
+    "r": 1.0,
+    "f1": 1.0,
+    "support": 86
+   },
+   "other_identifier": {
+    "p": 1.0,
+    "r": 0.3269,
+    "f1": 0.4928,
+    "support": 208
+   },
+   "phone_number": {
+    "p": 0.2838,
+    "r": 0.2802,
+    "f1": 0.282,
+    "support": 232
+   },
+   "email": {
+    "p": 1.0,
+    "r": 1.0,
+    "f1": 1.0,
+    "support": 20
+   },
+   "legal_norm": {
+    "p": 0.9104,
+    "r": 0.8946,
+    "f1": 0.9024,
+    "support": 1101
+   },
+   "judge": {
+    "p": 0.7623,
+    "r": 0.8387,
+    "f1": 0.7987,
+    "support": 1147
+   },
+   "lawyer": {
+    "p": 0.8972,
+    "r": 0.506,
+    "f1": 0.6471,
+    "support": 1500
+   }
+  }
+ },
+ "model@0.5": {
+  "pii_char_recall": 0.9223,
+  "labels": {
+   "person": {
+    "p": 0.9923,
+    "r": 0.9383,
+    "f1": 0.9645,
+    "support": 4957
+   },
+   "*": {
+    "p": 0.8741,
+    "r": 0.8163,
+    "f1": 0.8442,
+    "support": 17170
+   },
+   "organization": {
+    "p": 0.3447,
+    "r": 0.6586,
+    "f1": 0.4526,
+    "support": 873
+   },
+   "court": {
+    "p": 0.9746,
+    "r": 0.4393,
+    "f1": 0.6056,
+    "support": 1746
+   },
+   "address": {
+    "p": 0.8553,
+    "r": 0.869,
+    "f1": 0.8621,
+    "support": 313
+   },
+   "street": {
+    "p": 0.8448,
+    "r": 0.9423,
+    "f1": 0.8909,
+    "support": 52
+   },
+   "location": {
+    "p": 0.9787,
+    "r": 0.9954,
+    "f1": 0.987,
+    "support": 875
+   },
+   "date": {
+    "p": 0.9973,
+    "r": 0.9924,
+    "f1": 0.9949,
+    "support": 2646
+   },
+   "case_number": {
+    "p": 0.8542,
+    "r": 0.8734,
+    "f1": 0.8637,
+    "support": 798
+   },
+   "bank_account": {
+    "p": 0.9603,
+    "r": 0.9932,
+    "f1": 0.9764,
+    "support": 146
+   },
+   "social_security_number": {
+    "p": 0.8261,
+    "r": 0.9744,
+    "f1": 0.8941,
+    "support": 78
+   },
+   "tax_id": {
+    "p": 0.9844,
+    "r": 0.9844,
+    "f1": 0.9844,
+    "support": 64
+   },
+   "company_register_number": {
+    "p": 0.9877,
+    "r": 1.0,
+    "f1": 0.9938,
+    "support": 80
+   },
+   "license_plate": {
+    "p": 0.973,
+    "r": 0.973,
+    "f1": 0.973,
+    "support": 74
+   },
+   "land_register_id": {
+    "p": 0.9548,
+    "r": 0.8506,
+    "f1": 0.8997,
+    "support": 174
+   },
+   "id_document_number": {
+    "p": 1.0,
+    "r": 1.0,
+    "f1": 1.0,
+    "support": 86
+   },
+   "other_identifier": {
+    "p": 1.0,
+    "r": 0.3221,
+    "f1": 0.4873,
+    "support": 208
+   },
+   "phone_number": {
+    "p": 0.2863,
+    "r": 0.2802,
+    "f1": 0.2832,
+    "support": 232
+   },
+   "email": {
+    "p": 1.0,
+    "r": 1.0,
+    "f1": 1.0,
+    "support": 20
+   },
+   "legal_norm": {
+    "p": 0.9102,
+    "r": 0.8928,
+    "f1": 0.9014,
+    "support": 1101
+   },
+   "judge": {
+    "p": 0.7632,
+    "r": 0.8344,
+    "f1": 0.7972,
+    "support": 1147
+   },
+   "lawyer": {
+    "p": 0.9031,
+    "r": 0.4973,
+    "f1": 0.6414,
+    "support": 1500
+   }
+  }
+ },
+ "app_seconds": 746.1,
+ "app_chars_per_second": 2022,
+ "app@0.4": {
+  "mask_char_recall": 0.9452,
+  "mask_char_precision": 0.7247,
+  "span_miss_rate": {
+   "address": "7/313",
+   "bank_account": "1/146",
+   "case_number": "16/798",
+   "company_register_number": "0/80",
+   "date_of_birth": "1/16",
+   "email": "0/20",
+   "id_document_number": "0/86",
+   "judge": "46/1147",
+   "land_register_id": "19/174",
+   "lawyer": "35/1500",
+   "license_plate": "3/74",
+   "location": "0/865",
+   "organization": "292/873",
+   "other_identifier": "99/208",
+   "person": "169/4957",
+   "phone_number": "169/232",
+   "social_security_number": "2/78",
+   "street": "2/52",
+   "tax_id": "1/64"
+  },
+  "over_masked_visible_spans": {
+   "organization": 781,
+   "person": 4,
+   "location": 12,
+   "case_number": 7
+  },
+  "missed_examples": {
+   "phone_number": [
+    "ngplatz 11, 1011 Wien\nTelefon [[0222/65 76 11 DW 312]]\n\nBkd 12/77\n\nE r k e",
+    "mstraße 12, 1070 Wien\nFernruf [[0222/93 41 67 DW 15]]\n\nBkd 8/77\n\nB e s c ",
+    "ngplatz 11, 1011 Wien\nTelefon [[0222/65 76 11 DW 311]]\n\nBkd 4/74\n\nE r k e ",
+    "ngplatz 11, 1011 Wien\nTelefon [[0222/65 76 11 DW 3l2]]\n\nBkd 11/73\n\n1\n\nE r ",
+    "rlingplatz ll, 1011 Wien\nTel. [[0222/65 76 11 DW 314]]\n\nBkd 3/78\n\nB e s c ",
+    "ngplatz 11, 1011 Wien\nTelefon [[0222/65 76 11 DW 3l2]]\n\nBkd 18/79\n\nE r k e",
+    "1, 1011 WIEN\n         TELEFON [[0222/63 75 61 DW 21]]\n\n         Bkd 6/73\n",
+    " 11, 1011 Wien\nTelefon (0222) [[63 75 11 DW 245]]\n\nBkv 4/77\n\nBESCHLUS",
+    "atz 11, 1011 Wien\nTel. (0222) [[63 75 11 DW 245]]\n\nBkd 7/76\n\nIm Namen",
+    "ngplatz 11, 1011 Wien\nTelefon [[63 75 11 DW 245]]\n\nBkd 15/76\n\nB E S C",
+    " 11, 1011 WIEN\nTELEFON (0222) [[63 75 11 DW 245]]\nGZ BKD 3/78\n\nIm Nam",
+    "ngplatz 11, 1011 Wien\nTelefon [[63 75 11 DW 245]]\n\nBkv 9/77\n\nB E S C ",
+    "atz 11, 1011 Wien\nTel. (0222) [[63 75 11 DW 245]]\n\nBkd 4/78\n\nB E S C ",
+    "aße 12, 1016 Wien\nTel. (0222) [[42 47 11 DW 331]]\n\nBkd 10/73\n\nE R K E",
+    " 11, 1011 Wien\nTelefon (0222) [[63 75 11 DW 245]]\n\nBkv 11/77\n\nB E S C"
+   ],
+   "organization": [
+    "nwesenheit des Vertreters der [[Generalprokuratur]] Generalanwalt Dr. F",
+    "esen war.\n\nDie Anzeige an den [[Ausschuß der Rechtsanwaltskammer Wien]] wurde am 27. April ",
+    "Mandantin erhalten hatte. Der [[Ausschuß der Rechtsanwaltskammer Wien]] forderte die Beschu",
+    "s nach der ersten Mahnung des [[Ausschusses der Rechtsanwaltskammer Wien]] vom 20. Februar 197",
+    "nwesenheit des Vertreters der [[Generalprokuratur]] Generalanwalt\nDr. O",
+    "brechnung samt Belegen an den\n[[Ausschuß der Rechtsanwaltskammer für Steiermark]] zu übermitteln.\nDer",
+    "30. Oktober 1977 Anzeige beim [[Ausschuß der Rechtsanwaltskammer für Niederösterreich]]. Er wurde dabei von",
+    "elegt. Auch der Briefkopf der [[Kanzlei Farahani & Pamperl]], den die Beschuldig",
+    "eantragte am 2. Mai 1975 beim [[Ausschuß der Rechtsanwaltskammer für Vorarlberg]] die Eintragung des ",
+    " Beschuldigten bedeutsam. Der [[Ausschuß der Rechtsanwaltskammer für Vorarlberg]] hat zudem die Reise",
+    "nwesenheit des Vertreters der [[Generalprokuratur]] Generalanwalt Dr. K",
+    " 11. Jänner 1973 Anzeige beim [[Ausschuß der Rechtsanwaltskammer für Niederösterreich]]. Er wurde dabei vom",
+    "nwesenheit des Vertreters der [[Generalprokuratur]] Generalanwalt\nDr. T",
+    "e daraufhin Mitteilung an den\n[[Ausschuß der Rechtsanwaltskammer Wien]], die zur Einleitung",
+    " Pfaffenbichler erklärte, die [[Generalprokuratur]] schließe sich dem\nA"
+   ],
+   "address": [
+    "f die Hausnummer der Kanzlei, [[Mariahilfer Straße 88/12, 1070 Wien]], und ein Feld für d",
+    "ner, der in seiner Kanzlei in\n[[5700 Zell am See, Brucker Bundesstraße 20]] bereit sei, ihn une",
+    " eine Rechtsanwaltskanzlei in [[Wels, Stadtplatz 14]], die er unter der B",
+    "LTE UND RECHTSANWALTSANWÄRTER\n[[Justizpalast, Schmerlingplatz 11, 1016 Wien]]\nFernruf 0222/63 55 ",
+    "LTE UND RECHTSANWALTSANWÄRTER\n[[Justizpalast, Schmerlingplatz 11, 1011 Wien]]\nTel. 01/52152 DW 36",
+    "LTE UND RECHTSANWALTSANWÄRTER\n[[Justizpalast, Schmerlingplatz 11, 1011 Wien]]\nTel. 01/52152 DW 35",
+    "LTE UND RECHTSANWALTSANWÄRTER\n[[1011 WIEN, SCHMERLINGPLATZ 11]]\nTEL. 01/52152 DW 37"
+   ],
+   "other_identifier": [
+    " Stück war die Klientennummer [[30894]] eingetragen, obwohl",
+    "g AG unter der Polizzennummer [[25-534779]] angefragt, die die ",
+    "im Treuhandbuch unter der Nr. [[742/77]], vorgenommen, um di",
+    " im Rahmen der Klientennummer [[29358]] stark belastet gewe",
+    " Frau Tehrani (Klientennummer\n[[75445]]), in der zweiten di",
+    "en unter der Treuhandbuch-Nr. [[248/73]] ausgewiesen sei. Di",
+    "trag mit der Treuhandbuch-Nr. [[701/77]] auf ein Konto überw",
+    "aden unter der\nPolizzennummer [[68-862428]] führte.\n\n2. Die Ver",
+    " Akt unter der Klientennummer [[97117]] geführt. Nach den\nE",
+    "uch der Kanzlei unter\nder Nr. [[318/76]] eingetragen; die Kl",
+    "urde unter\nder Klientennummer [[39620]] geführt. Die Käufer",
+    "e betreffend\nTreuhandbuch-Nr. [[318/76]] teile ich mit, daß ",
+    "alt, unter der Polizzennummer [[56-840551]] von dem\nVorfall in ",
+    "ellschaft, zur Polizzennummer [[70-922936]] abgegeben, wodurch ",
+    "en – sowie der Klientennummer [[56065]]\nverbucht. Die Anzei"
+   ],
+   "person": [
+    "in Graz; und den Fleischhauer [[Josef Brunnthaler]], wohnhaft in Baden.",
+    "rufsbild unvereinbar ist (vgl [[Kreutzmayr]], Standesrecht der R",
+    "g:\n\n1. Gegen die Beschuldigte [[Dr. Bondarenko]] ist beim Disziplina",
+    "warb dieser von dem\nVerkäufer [[Dr. N***** M*****]] die Liegenschaft EZ",
+    "sitzenden, die Anwaltsrichter [[Dr. Gottfried Gufler]] und\nDr. Anton Riede",
+    "at des Obersten Gerichtshofes [[Dr. Georg Pfanzelter]] als weitere Richter",
+    "er wird, soweit er sich gegen [[Dr. Oberascher]] richtet, abgewiesen",
+    "ag wird, soweit er sich gegen [[Dr. Emmerstorfer]] richtet, Folge gege",
+    "Beschuldigte, vertreten durch [[Dr. Theodoridis]], den nunmehr zu ent",
+    "brunner sei mit der Richterin [[Dr. Eschlböck]] verschwägert. Der B",
+    "fttum teilt diese Auffassung ([[Feil]], Anwaltsrecht Rz 12",
+    "at des Obersten Gerichtshofes [[Dr. Walter Gollob]] als weitere Richter",
+    "at des Obersten Gerichtshofes\n[[Dr. Viktor Strasser]] als weitere Richter",
+    "iste, über die Beschwerde des [[Dr. Podgornik]] gegen den Bescheid ",
+    "m Jänner 1977 kam hervor, daß [[Dr. Vlachos]] in der Kanzlei in d"
+   ],
+   "lawyer": [
+    "g:\n\n1. Gegen die Beschuldigte [[Dr. Bondarenko]] ist beim Disziplina",
+    "Beschuldigte, vertreten durch [[Dr. Theodoridis]], den nunmehr zu ent",
+    "iste, über die Beschwerde des [[Dr. Podgornik]] gegen den Bescheid ",
+    "m Jänner 1977 kam hervor, daß [[Dr. Vlachos]] in der Kanzlei in d",
+    "n Verweises. Der Kammeranwalt [[Dr. Tschida]] bekämpft die Strafe",
+    "n noch nicht entschieden sei. [[Dr. Hubers]]\nSchriftsatz vom l4.",
+    "rabzusetzen.\n\nDer Dienstgeber [[Dr. Lindorfer]] hat im Verfahren vo",
+    "inarverfahren ohne Bedeutung. [[Dr. Hubers]] Schriftsatz vom 30.",
+    " Erben vor. Die Verteidigerin\n[[Dr. Hofbauer]] beantragte, bei der",
+    "wohnhaft in Eisenstadt; sowie [[Dr. N***** M*****]], die als Rechtsanwä",
+    "1981 stellte sich heraus, daß [[Dr. Hlaváč]] tatsächlich nur die",
+    "r Kammeranwalt-Stellvertreter [[Dr. Otto Pühringer]]\nbeantragte in seine",
+    "chtsanwaltskammer für Kärnten [[Dr. Oberlerchner]] der\nDisziplinarverg",
+    "euhänder war der Beschuldigte [[Dr.\nR***** T*****]]. Bei der Unterferti",
+    "r Kammeranwalt-Stellvertreter [[Dr. Bertagnolli]] hielt eine empfindl"
+   ],
+   "judge": [
+    "sitzenden, die Anwaltsrichter [[Dr. Gottfried Gufler]] und\nDr. Anton Riede",
+    "at des Obersten Gerichtshofes [[Dr. Georg Pfanzelter]] als weitere Richter",
+    "er wird, soweit er sich gegen [[Dr. Oberascher]] richtet, abgewiesen",
+    "ag wird, soweit er sich gegen [[Dr. Emmerstorfer]] richtet, Folge gege",
+    "brunner sei mit der Richterin [[Dr. Eschlböck]] verschwägert. Der B",
+    "at des Obersten Gerichtshofes [[Dr. Walter Gollob]] als weitere Richter",
+    "at des Obersten Gerichtshofes\n[[Dr. Viktor Strasser]] als weitere Richter",
+    "chter\nDr. Bernhard Kofler und [[Dr. Emil Nagiller]] sowie den Hofrat de",
+    "sitzenden, die\nAnwaltsrichter [[Dr. Josef Wopfner]] und Dr. Franz Spiel",
+    "sitzenden, die Anwaltsrichter [[Dr. Oswald Brandstätter]] und\nDr. Karl Edling",
+    "sitzenden, die Anwaltsrichter [[Dr.\nGerhard Thaler]] und Dr. Franz Oberh",
+    "sitzenden, die Anwaltsrichter [[Dr. Ludwig Kerschbaumer]] und Dr. Brigitte Ne",
+    "richter\nDr. Albert Prantl und [[Dr. Gertrud\nSchwienbacher]] sowie den Hofrat de",
+    "chter Dr. Michael Daxböck\nund [[Dr. Hildegard Wondrak]] sowie den Hofrat de",
+    "er Dr. Roland Ebenbichler und [[Dr. Ingeborg Hasenöhrl]] sowie den Hofrat de"
+   ],
+   "license_plate": [
+    "aftwagens\nmit dem Kennzeichen [[AM 192.749]] in Salzburg in eine",
+    "d ein Pkw mit dem Kennzeichen [[P 723 H]], den Dr. Tomić verw",
+    "raftwagen mit dem Kennzeichen [[W 9206 I]], gelenkt von Herrn "
+   ],
+   "social_security_number": [
+    "Versicherung unter der Nummer [[2949 240739]]. Ihr Ehegatte F****",
+    "ung die Versiche-\nrungsnummer [[8670 020656]] an. Der Unfall\nhatt"
+   ],
+   "land_register_id": [
+    "1 der Liegenschaft EZ 417 der [[KG 92004 Rankweil]] ein Geh- und Fahrtr",
+    "7 Thalheim, bestehend aus dem [[Gst-Nr. 877/4]], um S 1,650.000,--.",
+    "ng in Wien,\neingetragen unter [[EZ 2216]] der KG 01212 Hietzi",
+    "Oberwart in der Einlagez-\nahl [[EZ 812]] der Katastralgemein",
+    "114 Wilten, bestehend aus dem [[Gst-Nr. 449/2]], ein\nPfandrecht ein",
+    " eines Grundbuchsgesuches zur [[EZ 412, KG 82105 Wörgl]] beschwert. Die Anfr",
+    "ft EZ 318, KG 73012 Seeboden, [[Gst-Nr. 1204/2]]. Der Beschuldigte v",
+    "mswohnung Top 12 in Salzburg, [[EZ\n2174]], KG 56503 Lehen, un",
+    "nd war ein Wegerecht über das [[Gst-Nr. 1288/4]] in EZ 77, KG 32105 ",
+    "ht über das Gst-Nr. 1288/4 in [[EZ 77]], KG 32105 Neusiedl ",
+    " das Gst-Nr. 1288/4 in EZ 77, [[KG 32105 Neusiedl am See]]. Die Klage wurde mi",
+    "steht im Zusammenhang mit dem [[Gst-Nr. 3317/2]]. Als Vertragsverfas",
+    "inantwortung der Liegenschaft [[EZ 1187]] der KG 16117 Mödlin",
+    "n der Liegenschaft EZ 312 der [[KG 63233 Gleisdorf]] unmittelbar an den ",
+    " der KG 63104 Andritz mit dem [[Gst-Nr. 288/4]] um 1,8 Millionen Sc"
+   ],
+   "case_number": [
+    "Bkd 14/69; OBDK\n22. Mai 1972, [[Bkd 5/72]]). Die Antwort des B",
+    "überzeugen (OBDK 7. 12. 1978,\n[[Bkd 22/78]]).\n\nDer Disziplinarr",
+    "t (OBDK 10. 11. 1980,\n\n- 6 -\n\n[[Bkd 19/80]]). Der Vorsatz des B",
+    "aßt\nwar ( OBDK 12. März 1979,\n[[Bkd 5/78]]; OBDK 9. Oktober 19",
+    "6/95; OBDK 25. November 1997, [[Bkd 21/97]]). Zutreffend ist, d",
+    "14/94; OBDK 20. Februar 1996, [[Bkd 2/96]]; AnwBl 1996, 410).\n",
+    "chtigt (OBDK 23.\nJänner 1989, [[Bkd 2/88]]). Bei bloßer Zahlun",
+    "bleibt (vgl OBDK 23. 5. 2000, [[Bkd 8/00]]). Auch ihre langjäh",
+    "fragen (vgl OBDK 9. 12. 1999, [[Bkd 21/99]]). Diese Anforderung",
+    "terreich vom 14. Jänner 2005, [[AZ 77/04]], betreffend die Ent",
+    "uldigten im Parallelverfahren [[7 Hv 22/05v]] mit Urteil vom 3. F",
+    "n nicht an (OBDK 25. 9. 2003, [[Bkd 6/03]]).\n\nAuch die Rüge, d",
+    "erreich vom 26. Februar 2000, [[AZ 41/99]], mit dem über ihn V",
+    "ammer Wien vom 27. Juni 2007, [[AZ 318/07]], mit dem sein Antra",
+    "IEN\nTELEFON 01/52152 DW 3780\n\n[[Bkd 2/00]]\n\nB E S C H L U S S\n"
+   ],
+   "date_of_birth": [
+    "e\nMahdavi-Pichler, geboren am [[13. März 1947]], beim Erwerb\neiner "
+   ],
+   "street": [
+    " Kanzlei\nbefindet sich in der [[Landstraße]] in L*****. Anläßlic",
+    "Dr. Pirker, dessen Kanzlei am\n[[Opernring]] liegt, reagierte si"
+   ],
+   "tax_id": [
+    "mit der Identifikationsnummer [[ATU63186180]] errichten lassen. M"
+   ],
+   "bank_account": [
+    "en von dem Konto von Georgiev [[AT66 5499 7932 7364 8892]] am 9. Oktober 2019 "
+   ]
+  }
+ },
+ "app@0.5": {
+  "mask_char_recall": 0.9438,
+  "mask_char_precision": 0.7258,
+  "span_miss_rate": {
+   "address": "7/313",
+   "bank_account": "1/146",
+   "case_number": "16/798",
+   "company_register_number": "0/80",
+   "date_of_birth": "1/16",
+   "email": "0/20",
+   "id_document_number": "0/86",
+   "judge": "46/1147",
+   "land_register_id": "22/174",
+   "lawyer": "35/1500",
+   "license_plate": "3/74",
+   "location": "0/865",
+   "organization": "293/873",
+   "other_identifier": "102/208",
+   "person": "174/4957",
+   "phone_number": "170/232",
+   "social_security_number": "2/78",
+   "street": "3/52",
+   "tax_id": "1/64"
+  },
+  "over_masked_visible_spans": {
+   "organization": 779,
+   "person": 4,
+   "location": 12,
+   "case_number": 5
+  },
+  "missed_examples": {
+   "phone_number": [
+    "ngplatz 11, 1011 Wien\nTelefon [[0222/65 76 11 DW 312]]\n\nBkd 12/77\n\nE r k e",
+    "mstraße 12, 1070 Wien\nFernruf [[0222/93 41 67 DW 15]]\n\nBkd 8/77\n\nB e s c ",
+    "ngplatz 11, 1011 Wien\nTelefon [[0222/65 76 11 DW 311]]\n\nBkd 4/74\n\nE r k e ",
+    "ngplatz 11, 1011 Wien\nTelefon [[0222/65 76 11 DW 3l2]]\n\nBkd 11/73\n\n1\n\nE r ",
+    "rlingplatz ll, 1011 Wien\nTel. [[0222/65 76 11 DW 314]]\n\nBkd 3/78\n\nB e s c ",
+    "ngplatz 11, 1011 Wien\nTelefon [[0222/65 76 11 DW 3l2]]\n\nBkd 18/79\n\nE r k e",
+    "1, 1011 WIEN\n         TELEFON [[0222/63 75 61 DW 21]]\n\n         Bkd 6/73\n",
+    " 11, 1011 Wien\nTelefon (0222) [[63 75 11 DW 245]]\n\nBkv 4/77\n\nBESCHLUS",
+    "atz 11, 1011 Wien\nTel. (0222) [[63 75 11 DW 245]]\n\nBkd 7/76\n\nIm Namen",
+    "ngplatz 11, 1011 Wien\nTelefon [[63 75 11 DW 245]]\n\nBkd 15/76\n\nB E S C",
+    " 11, 1011 WIEN\nTELEFON (0222) [[63 75 11 DW 245]]\nGZ BKD 3/78\n\nIm Nam",
+    "ngplatz 11, 1011 Wien\nTelefon [[63 75 11 DW 245]]\n\nBkv 9/77\n\nB E S C ",
+    "atz 11, 1011 Wien\nTel. (0222) [[63 75 11 DW 245]]\n\nBkd 4/78\n\nB E S C ",
+    "aße 12, 1016 Wien\nTel. (0222) [[42 47 11 DW 331]]\n\nBkd 10/73\n\nE R K E",
+    " 11, 1011 Wien\nTelefon (0222) [[63 75 11 DW 245]]\n\nBkv 11/77\n\nB E S C"
+   ],
+   "organization": [
+    "nwesenheit des Vertreters der [[Generalprokuratur]] Generalanwalt Dr. F",
+    "esen war.\n\nDie Anzeige an den [[Ausschuß der Rechtsanwaltskammer Wien]] wurde am 27. April ",
+    "Mandantin erhalten hatte. Der [[Ausschuß der Rechtsanwaltskammer Wien]] forderte die Beschu",
+    "s nach der ersten Mahnung des [[Ausschusses der Rechtsanwaltskammer Wien]] vom 20. Februar 197",
+    "nwesenheit des Vertreters der [[Generalprokuratur]] Generalanwalt\nDr. O",
+    "brechnung samt Belegen an den\n[[Ausschuß der Rechtsanwaltskammer für Steiermark]] zu übermitteln.\nDer",
+    "30. Oktober 1977 Anzeige beim [[Ausschuß der Rechtsanwaltskammer für Niederösterreich]]. Er wurde dabei von",
+    "elegt. Auch der Briefkopf der [[Kanzlei Farahani & Pamperl]], den die Beschuldig",
+    "eantragte am 2. Mai 1975 beim [[Ausschuß der Rechtsanwaltskammer für Vorarlberg]] die Eintragung des ",
+    " Beschuldigten bedeutsam. Der [[Ausschuß der Rechtsanwaltskammer für Vorarlberg]] hat zudem die Reise",
+    "nwesenheit des Vertreters der [[Generalprokuratur]] Generalanwalt Dr. K",
+    " 11. Jänner 1973 Anzeige beim [[Ausschuß der Rechtsanwaltskammer für Niederösterreich]]. Er wurde dabei vom",
+    "nwesenheit des Vertreters der [[Generalprokuratur]] Generalanwalt\nDr. T",
+    "e daraufhin Mitteilung an den\n[[Ausschuß der Rechtsanwaltskammer Wien]], die zur Einleitung",
+    " Pfaffenbichler erklärte, die [[Generalprokuratur]] schließe sich dem\nA"
+   ],
+   "address": [
+    "f die Hausnummer der Kanzlei, [[Mariahilfer Straße 88/12, 1070 Wien]], und ein Feld für d",
+    "ner, der in seiner Kanzlei in\n[[5700 Zell am See, Brucker Bundesstraße 20]] bereit sei, ihn une",
+    " eine Rechtsanwaltskanzlei in [[Wels, Stadtplatz 14]], die er unter der B",
+    "LTE UND RECHTSANWALTSANWÄRTER\n[[Justizpalast, Schmerlingplatz 11, 1016 Wien]]\nFernruf 0222/63 55 ",
+    "LTE UND RECHTSANWALTSANWÄRTER\n[[Justizpalast, Schmerlingplatz 11, 1011 Wien]]\nTel. 01/52152 DW 36",
+    "LTE UND RECHTSANWALTSANWÄRTER\n[[Justizpalast, Schmerlingplatz 11, 1011 Wien]]\nTel. 01/52152 DW 35",
+    "LTE UND RECHTSANWALTSANWÄRTER\n[[1011 WIEN, SCHMERLINGPLATZ 11]]\nTEL. 01/52152 DW 37"
+   ],
+   "other_identifier": [
+    " Stück war die Klientennummer [[30894]] eingetragen, obwohl",
+    "g AG unter der Polizzennummer [[25-534779]] angefragt, die die ",
+    "im Treuhandbuch unter der Nr. [[742/77]], vorgenommen, um di",
+    " im Rahmen der Klientennummer [[29358]] stark belastet gewe",
+    " Frau Tehrani (Klientennummer\n[[75445]]), in der zweiten di",
+    "en unter der Treuhandbuch-Nr. [[248/73]] ausgewiesen sei. Di",
+    "trag mit der Treuhandbuch-Nr. [[701/77]] auf ein Konto überw",
+    "aden unter der\nPolizzennummer [[68-862428]] führte.\n\n2. Die Ver",
+    " Akt unter der Klientennummer [[97117]] geführt. Nach den\nE",
+    "uch der Kanzlei unter\nder Nr. [[318/76]] eingetragen; die Kl",
+    "urde unter\nder Klientennummer [[39620]] geführt. Die Käufer",
+    "e betreffend\nTreuhandbuch-Nr. [[318/76]] teile ich mit, daß ",
+    "alt, unter der Polizzennummer [[56-840551]] von dem\nVorfall in ",
+    "ellschaft, zur Polizzennummer [[70-922936]] abgegeben, wodurch ",
+    "en – sowie der Klientennummer [[56065]]\nverbucht. Die Anzei"
+   ],
+   "person": [
+    "in Graz; und den Fleischhauer [[Josef Brunnthaler]], wohnhaft in Baden.",
+    "rufsbild unvereinbar ist (vgl [[Kreutzmayr]], Standesrecht der R",
+    "g:\n\n1. Gegen die Beschuldigte [[Dr. Bondarenko]] ist beim Disziplina",
+    "warb dieser von dem\nVerkäufer [[Dr. N***** M*****]] die Liegenschaft EZ",
+    "sitzenden, die Anwaltsrichter [[Dr. Gottfried Gufler]] und\nDr. Anton Riede",
+    "at des Obersten Gerichtshofes [[Dr. Georg Pfanzelter]] als weitere Richter",
+    "er wird, soweit er sich gegen [[Dr. Oberascher]] richtet, abgewiesen",
+    "ag wird, soweit er sich gegen [[Dr. Emmerstorfer]] richtet, Folge gege",
+    "Beschuldigte, vertreten durch [[Dr. Theodoridis]], den nunmehr zu ent",
+    "brunner sei mit der Richterin [[Dr. Eschlböck]] verschwägert. Der B",
+    "fttum teilt diese Auffassung ([[Feil]], Anwaltsrecht Rz 12",
+    "at des Obersten Gerichtshofes [[Dr. Walter Gollob]] als weitere Richter",
+    "at des Obersten Gerichtshofes\n[[Dr. Viktor Strasser]] als weitere Richter",
+    "iste, über die Beschwerde des [[Dr. Podgornik]] gegen den Bescheid ",
+    "m Jänner 1977 kam hervor, daß [[Dr. Vlachos]] in der Kanzlei in d"
+   ],
+   "lawyer": [
+    "g:\n\n1. Gegen die Beschuldigte [[Dr. Bondarenko]] ist beim Disziplina",
+    "Beschuldigte, vertreten durch [[Dr. Theodoridis]], den nunmehr zu ent",
+    "iste, über die Beschwerde des [[Dr. Podgornik]] gegen den Bescheid ",
+    "m Jänner 1977 kam hervor, daß [[Dr. Vlachos]] in der Kanzlei in d",
+    "n Verweises. Der Kammeranwalt [[Dr. Tschida]] bekämpft die Strafe",
+    "n noch nicht entschieden sei. [[Dr. Hubers]]\nSchriftsatz vom l4.",
+    "rabzusetzen.\n\nDer Dienstgeber [[Dr. Lindorfer]] hat im Verfahren vo",
+    "inarverfahren ohne Bedeutung. [[Dr. Hubers]] Schriftsatz vom 30.",
+    " Erben vor. Die Verteidigerin\n[[Dr. Hofbauer]] beantragte, bei der",
+    "wohnhaft in Eisenstadt; sowie [[Dr. N***** M*****]], die als Rechtsanwä",
+    "1981 stellte sich heraus, daß [[Dr. Hlaváč]] tatsächlich nur die",
+    "r Kammeranwalt-Stellvertreter [[Dr. Otto Pühringer]]\nbeantragte in seine",
+    "chtsanwaltskammer für Kärnten [[Dr. Oberlerchner]] der\nDisziplinarverg",
+    "euhänder war der Beschuldigte [[Dr.\nR***** T*****]]. Bei der Unterferti",
+    "r Kammeranwalt-Stellvertreter [[Dr. Bertagnolli]] hielt eine empfindl"
+   ],
+   "judge": [
+    "sitzenden, die Anwaltsrichter [[Dr. Gottfried Gufler]] und\nDr. Anton Riede",
+    "at des Obersten Gerichtshofes [[Dr. Georg Pfanzelter]] als weitere Richter",
+    "er wird, soweit er sich gegen [[Dr. Oberascher]] richtet, abgewiesen",
+    "ag wird, soweit er sich gegen [[Dr. Emmerstorfer]] richtet, Folge gege",
+    "brunner sei mit der Richterin [[Dr. Eschlböck]] verschwägert. Der B",
+    "at des Obersten Gerichtshofes [[Dr. Walter Gollob]] als weitere Richter",
+    "at des Obersten Gerichtshofes\n[[Dr. Viktor Strasser]] als weitere Richter",
+    "chter\nDr. Bernhard Kofler und [[Dr. Emil Nagiller]] sowie den Hofrat de",
+    "sitzenden, die\nAnwaltsrichter [[Dr. Josef Wopfner]] und Dr. Franz Spiel",
+    "sitzenden, die Anwaltsrichter [[Dr. Oswald Brandstätter]] und\nDr. Karl Edling",
+    "sitzenden, die Anwaltsrichter [[Dr.\nGerhard Thaler]] und Dr. Franz Oberh",
+    "sitzenden, die Anwaltsrichter [[Dr. Ludwig Kerschbaumer]] und Dr. Brigitte Ne",
+    "richter\nDr. Albert Prantl und [[Dr. Gertrud\nSchwienbacher]] sowie den Hofrat de",
+    "chter Dr. Michael Daxböck\nund [[Dr. Hildegard Wondrak]] sowie den Hofrat de",
+    "er Dr. Roland Ebenbichler und [[Dr. Ingeborg Hasenöhrl]] sowie den Hofrat de"
+   ],
+   "license_plate": [
+    "aftwagens\nmit dem Kennzeichen [[AM 192.749]] in Salzburg in eine",
+    "d ein Pkw mit dem Kennzeichen [[P 723 H]], den Dr. Tomić verw",
+    "raftwagen mit dem Kennzeichen [[W 9206 I]], gelenkt von Herrn "
+   ],
+   "social_security_number": [
+    "Versicherung unter der Nummer [[2949 240739]]. Ihr Ehegatte F****",
+    "ung die Versiche-\nrungsnummer [[8670 020656]] an. Der Unfall\nhatt"
+   ],
+   "land_register_id": [
+    "1 der Liegenschaft EZ 417 der [[KG 92004 Rankweil]] ein Geh- und Fahrtr",
+    "7 Thalheim, bestehend aus dem [[Gst-Nr. 877/4]], um S 1,650.000,--.",
+    "ng in Wien,\neingetragen unter [[EZ 2216]] der KG 01212 Hietzi",
+    "Oberwart in der Einlagez-\nahl [[EZ 812]] der Katastralgemein",
+    "114 Wilten, bestehend aus dem [[Gst-Nr. 449/2]], ein\nPfandrecht ein",
+    " eines Grundbuchsgesuches zur [[EZ 412, KG 82105 Wörgl]] beschwert. Die Anfr",
+    "ft EZ 318, KG 73012 Seeboden, [[Gst-Nr. 1204/2]]. Der Beschuldigte v",
+    "mswohnung Top 12 in Salzburg, [[EZ\n2174]], KG 56503 Lehen, un",
+    "nd war ein Wegerecht über das [[Gst-Nr. 1288/4]] in EZ 77, KG 32105 ",
+    "ht über das Gst-Nr. 1288/4 in [[EZ 77]], KG 32105 Neusiedl ",
+    " das Gst-Nr. 1288/4 in EZ 77, [[KG 32105 Neusiedl am See]]. Die Klage wurde mi",
+    "stehend unter anderem aus dem [[Gst-Nr. 44/2]], durch. Die Liegens",
+    "steht im Zusammenhang mit dem [[Gst-Nr. 3317/2]]. Als Vertragsverfas",
+    "5 Parndorf, bestehend aus dem [[Gst-Nr. 1204/3]] samt Wohnhaus in de",
+    "inantwortung der Liegenschaft [[EZ 1187]] der KG 16117 Mödlin"
+   ],
+   "case_number": [
+    "Bkd 14/69; OBDK\n22. Mai 1972, [[Bkd 5/72]]). Die Antwort des B",
+    "überzeugen (OBDK 7. 12. 1978,\n[[Bkd 22/78]]).\n\nDer Disziplinarr",
+    "t (OBDK 10. 11. 1980,\n\n- 6 -\n\n[[Bkd 19/80]]). Der Vorsatz des B",
+    "aßt\nwar ( OBDK 12. März 1979,\n[[Bkd 5/78]]; OBDK 9. Oktober 19",
+    "6/95; OBDK 25. November 1997, [[Bkd 21/97]]). Zutreffend ist, d",
+    "14/94; OBDK 20. Februar 1996, [[Bkd 2/96]]; AnwBl 1996, 410).\n",
+    "chtigt (OBDK 23.\nJänner 1989, [[Bkd 2/88]]). Bei bloßer Zahlun",
+    "bleibt (vgl OBDK 23. 5. 2000, [[Bkd 8/00]]). Auch ihre langjäh",
+    "fragen (vgl OBDK 9. 12. 1999, [[Bkd 21/99]]). Diese Anforderung",
+    "terreich vom 14. Jänner 2005, [[AZ 77/04]], betreffend die Ent",
+    "uldigten im Parallelverfahren [[7 Hv 22/05v]] mit Urteil vom 3. F",
+    "n nicht an (OBDK 25. 9. 2003, [[Bkd 6/03]]).\n\nAuch die Rüge, d",
+    "erreich vom 26. Februar 2000, [[AZ 41/99]], mit dem über ihn V",
+    "ammer Wien vom 27. Juni 2007, [[AZ 318/07]], mit dem sein Antra",
+    "IEN\nTELEFON 01/52152 DW 3780\n\n[[Bkd 2/00]]\n\nB E S C H L U S S\n"
+   ],
+   "street": [
+    "rstberatung in der Kanzlei am [[Taubenmarkt]]. Telefon 0732/27 31",
+    " Kanzlei\nbefindet sich in der [[Landstraße]] in L*****. Anläßlic",
+    "Dr. Pirker, dessen Kanzlei am\n[[Opernring]] liegt, reagierte si"
+   ],
+   "date_of_birth": [
+    "e\nMahdavi-Pichler, geboren am [[13. März 1947]], beim Erwerb\neiner "
+   ],
+   "tax_id": [
+    "mit der Identifikationsnummer [[ATU63186180]] errichten lassen. M"
+   ],
+   "bank_account": [
+    "en von dem Konto von Georgiev [[AT66 5499 7932 7364 8892]] am 9. Oktober 2019 "
+   ]
+  }
+ }
+}

@@ -1,0 +1,353 @@
+{
+ "checked": 5079,
+ "hits": [
+  {
+   "label": "address",
+   "text": "Radetzkystraße 8, 8010 Graz",
+   "docs": [
+    "obdk_b12_d09_erkenntnis_berufung_schuld_strafe"
+   ]
+  },
+  {
+   "label": "organization",
+   "text": "Allgemeinen Sparkasse Oberösterreich",
+   "docs": [
+    "obdk_b02_d10_erkenntnis_berufung_schuld_strafe",
+    "obdk_b06_d06_beschluss_kosten_verfahrenshilfe"
+   ]
+  },
+  {
+   "label": "organization",
+   "text": "Bank Austria",
+   "docs": [
+    "obdk_b13_d08_erkenntnis_wiederaufnahme"
+   ]
+  },
+  {
+   "label": "organization",
+   "text": "Creditanstalt-Bankverein",
+   "docs": [
+    "obdk_b04_d03_erkenntnis_berufung_schuld_strafe"
+   ]
+  },
+  {
+   "label": "organization",
+   "text": "Kärntner Sparkasse",
+   "docs": [
+    "obdk_b06_d05_erkenntnis_wiederaufnahme"
+   ]
+  },
+  {
+   "label": "organization",
+   "text": "Kärntner Sparkasse AG",
+   "docs": [
+    "obdk_b13_d07_erkenntnis_berufung_schuld_strafe"
+   ]
+  },
+  {
+   "label": "organization",
+   "text": "Pensionsversicherungsanstalt der Arbeiter",
+   "docs": [
+    "obdk_b06_d06_beschluss_kosten_verfahrenshilfe"
+   ]
+  },
+  {
+   "label": "organization",
+   "text": "Salzburger Sparkasse",
+   "docs": [
+    "obdk_b08_d08_erkenntnis_berufung_schuld_strafe"
+   ]
+  },
+  {
+   "label": "organization",
+   "text": "Sparkasse Bludenz",
+   "docs": [
+    "obdk_b13_d05_erkenntnis_wiederaufnahme"
+   ]
+  },
+  {
+   "label": "organization",
+   "text": "Sparkasse Oberösterreich",
+   "docs": [
+    "obdk_b14_d07_bescheid_beschwerde_ausschuss"
+   ]
+  },
+  {
+   "label": "organization",
+   "text": "Steiermärkischen Sparkasse",
+   "docs": [
+    "obdk_b07_d07_bescheid_beschwerde_ausschuss",
+    "obdk_b13_d08_erkenntnis_wiederaufnahme"
+   ]
+  },
+  {
+   "label": "organization",
+   "text": "Volksbank Salzburg",
+   "docs": [
+    "obdk_b03_d03_beschluss_einstweilige_massnahme"
+   ]
+  },
+  {
+   "label": "organization",
+   "text": "Wiener Städtische Versicherung",
+   "docs": [
+    "obdk_b07_d10_bescheid_beschwerde_ausschuss"
+   ]
+  },
+  {
+   "label": "organization",
+   "text": "Wiener Städtische Wechselseitige Versicherungsanstalt",
+   "docs": [
+    "obdk_b04_d02_bescheid_beschwerde_ausschuss",
+    "obdk_b04_d06_beschluss_beschwerde_einstellung"
+   ]
+  },
+  {
+   "label": "organization",
+   "text": "Wiener Städtischen Versicherung",
+   "docs": [
+    "obdk_b07_d03_erkenntnis_freispruch",
+    "obdk_b07_d10_bescheid_beschwerde_ausschuss"
+   ]
+  },
+  {
+   "label": "organization",
+   "text": "Zentralsparkasse der Gemeinde Wien",
+   "docs": [
+    "obdk_b04_d02_bescheid_beschwerde_ausschuss",
+    "obdk_b07_d09_erkenntnis_berufung_schuld_strafe"
+   ]
+  },
+  {
+   "label": "other_identifier",
+   "text": "255/84",
+   "docs": [
+    "obdk_b07_d06_beschluss_beschwerde_einstellung"
+   ]
+  },
+  {
+   "label": "other_identifier",
+   "text": "384/89",
+   "docs": [
+    "obdk_b05_d10_beschluss_beschwerde_einstellung"
+   ]
+  },
+  {
+   "label": "other_identifier",
+   "text": "688/82",
+   "docs": [
+    "obdk_b07_d10_bescheid_beschwerde_ausschuss"
+   ]
+  },
+  {
+   "label": "other_identifier",
+   "text": "747/83",
+   "docs": [
+    "obdk_b04_d05_erkenntnis_berufung_strafe"
+   ]
+  },
+  {
+   "label": "person",
+   "text": "G. Wien",
+   "docs": [
+    "obdk_b04_d06_beschluss_beschwerde_einstellung"
+   ]
+  },
+  {
+   "label": "phone_number",
+   "text": "01/52152 DW 3780",
+   "docs": [
+    "obdk_b12_d03_beschluss_einstweilige_massnahme",
+    "obdk_b12_d06_erkenntnis_berufung_strafe",
+    "obdk_b12_d09_erkenntnis_berufung_schuld_strafe",
+    "obdk_b13_d01_erkenntnis_berufung_strafe",
+    "obdk_b13_d02_beschluss_einstweilige_massnahme",
+    "obdk_b13_d03_erkenntnis_berufung_schuld_strafe",
+    "obdk_b13_d04_bescheid_beschwerde_ausschuss",
+    "obdk_b13_d05_erkenntnis_wiederaufnahme",
+    "obdk_b13_d06_erkenntnis_berufung_strafe",
+    "obdk_b13_d07_erkenntnis_berufung_schuld_strafe",
+    "obdk_b13_d08_erkenntnis_wiederaufnahme",
+    "obdk_b13_d09_erkenntnis_berufung_schuld_strafe",
+    "obdk_b13_d10_erkenntnis_berufung_schuld_strafe",
+    "obdk_b15_d01_beschluss_einstweilige_massnahme",
+    "obdk_b15_d03_beschluss_kosten_verfahrenshilfe",
+    "obdk_b15_d04_beschluss_beschwerde_einstellung",
+    "obdk_b15_d05_erkenntnis_berufung_schuld_strafe",
+    "obdk_b15_d06_beschluss_beschwerde_einstellung",
+    "obdk_b15_d07_erkenntnis_berufung_schuld_strafe",
+    "obdk_b15_d08_erkenntnis_berufung_strafe",
+    "obdk_b15_d09_erkenntnis_berufung_schuld_strafe",
+    "obdk_b15_d10_erkenntnis_berufung_strafe",
+    "obdk_b16_d01_erkenntnis_wiederaufnahme",
+    "obdk_b16_d02_erkenntnis_berufung_schuld_strafe",
+    "obdk_b16_d06_beschluss_ablehnung_befangenheit",
+    "obdk_b16_d08_erkenntnis_berufung_schuld_strafe",
+    "obdk_b16_d09_beschluss_kosten_verfahrenshilfe",
+    "obdk_b17_d01_erkenntnis_berufung_schuld_strafe",
+    "obdk_b18_d01_erkenntnis_berufung_schuld_strafe"
+   ]
+  },
+  {
+   "label": "phone_number",
+   "text": "52 1 52 DW 3780",
+   "docs": [
+    "obdk_b04_d02_bescheid_beschwerde_ausschuss",
+    "obdk_b04_d06_beschluss_beschwerde_einstellung",
+    "obdk_b04_d08_erkenntnis_freispruch"
+   ]
+  },
+  {
+   "label": "phone_number",
+   "text": "52152 DW 3780",
+   "docs": [
+    "obdk_b11_d01_erkenntnis_berufung_schuld_strafe",
+    "obdk_b11_d02_bescheid_beschwerde_ausschuss",
+    "obdk_b11_d06_erkenntnis_berufung_schuld_strafe",
+    "obdk_b11_d07_erkenntnis_berufung_schuld_strafe",
+    "obdk_b11_d08_bescheid_beschwerde_ausschuss",
+    "obdk_b11_d09_bescheid_beschwerde_ausschuss",
+    "obdk_b11_d10_erkenntnis_wiederaufnahme"
+   ]
+  },
+  {
+   "label": "street",
+   "text": "Aignerstraße",
+   "docs": [
+    "obdk_b03_d08_bescheid_beschwerde_ausschuss"
+   ]
+  },
+  {
+   "label": "street",
+   "text": "Anichstraße",
+   "docs": [
+    "obdk_b10_d10_erkenntnis_berufung_schuld_strafe"
+   ]
+  },
+  {
+   "label": "street",
+   "text": "Annenstraße",
+   "docs": [
+    "obdk_b10_d02_erkenntnis_wiederaufnahme",
+    "obdk_b11_d06_erkenntnis_berufung_schuld_strafe"
+   ]
+  },
+  {
+   "label": "street",
+   "text": "Bahnhofstraße",
+   "docs": [
+    "obdk_b04_d08_erkenntnis_freispruch"
+   ]
+  },
+  {
+   "label": "street",
+   "text": "Hauptplatz",
+   "docs": [
+    "obdk_b05_d03_erkenntnis_berufung_schuld_strafe",
+    "obdk_b11_d05_erkenntnis_berufung_schuld_strafe"
+   ]
+  },
+  {
+   "label": "street",
+   "text": "Hauptstraße",
+   "docs": [
+    "obdk_b20_d06_erkenntnis_berufung_schuld_strafe"
+   ]
+  },
+  {
+   "label": "street",
+   "text": "Herrengasse",
+   "docs": [
+    "obdk_b01_d03_beschluss_ablehnung_befangenheit",
+    "obdk_b04_d04_beschluss_beschwerde_einstellung",
+    "obdk_b07_d07_bescheid_beschwerde_ausschuss",
+    "obdk_b15_d02_beschluss_ablehnung_befangenheit"
+   ]
+  },
+  {
+   "label": "street",
+   "text": "Kremser Gasse",
+   "docs": [
+    "obdk_b07_d10_bescheid_beschwerde_ausschuss"
+   ]
+  },
+  {
+   "label": "street",
+   "text": "Landstraße",
+   "docs": [
+    "obdk_b07_d01_bescheid_beschwerde_ausschuss"
+   ]
+  },
+  {
+   "label": "street",
+   "text": "Pfarrgasse",
+   "docs": [
+    "obdk_b10_d06_beschluss_ablehnung_befangenheit"
+   ]
+  },
+  {
+   "label": "street",
+   "text": "Praterstraße",
+   "docs": [
+    "obdk_b06_d07_erkenntnis_wiederaufnahme"
+   ]
+  },
+  {
+   "label": "street",
+   "text": "Rathausgasse",
+   "docs": [
+    "obdk_b04_d09_erkenntnis_freispruch"
+   ]
+  },
+  {
+   "label": "street",
+   "text": "Rathausstraße",
+   "docs": [
+    "obdk_b03_d01_bescheid_beschwerde_ausschuss",
+    "obdk_b07_d08_erkenntnis_berufung_schuld_strafe"
+   ]
+  },
+  {
+   "label": "street",
+   "text": "Rheinstraße",
+   "docs": [
+    "obdk_b14_d10_erkenntnis_berufung_strafe"
+   ]
+  },
+  {
+   "label": "street",
+   "text": "Salzburger Straße",
+   "docs": [
+    "obdk_b10_d10_erkenntnis_berufung_schuld_strafe"
+   ]
+  },
+  {
+   "label": "street",
+   "text": "Schottenring",
+   "docs": [
+    "obdk_b12_d03_beschluss_einstweilige_massnahme"
+   ]
+  },
+  {
+   "label": "street",
+   "text": "Schulgasse",
+   "docs": [
+    "obdk_b08_d01_erkenntnis_berufung_schuld_strafe"
+   ]
+  },
+  {
+   "label": "street",
+   "text": "Stadtplatz",
+   "docs": [
+    "obdk_b20_d05_beschluss_beschwerde_einstellung"
+   ]
+  },
+  {
+   "label": "street",
+   "text": "Taubenmarkt",
+   "docs": [
+    "obdk_b03_d09_beschluss_kosten_verfahrenshilfe"
+   ]
+  }
+ ]
+}
