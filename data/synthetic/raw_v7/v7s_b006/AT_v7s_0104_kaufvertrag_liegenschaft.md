@@ -76,6 +76,20 @@ VII. Gewährleistung
 
 Die Verkäuferinnen haften für die Lastenfreiheit. Eine Haftung für Sachmängel wird ausgeschlossen, soweit die Mängel bei der Besichtigung erkennbar waren. Die Käuferin hat die Liegenschaften am [[date|2. Oktober 2026]] besichtigt.
 
+VIII. Vorkaufsrecht und Bauverpflichtung
+
+Ein Vorkaufsrecht zugunsten der Nachbarliegenschaft in [[location|Neunkirchen]] besteht nicht. Die Käuferin verpflichtet sich, die Liegenschaft gemäß lit. c) innerhalb von drei Jahren nach Übergabe nur mit Zustimmung der [[organization|Pannonia Wohnbau]] zu verändern, soweit diese noch Eigentümerin einer angrenzenden Liegenschaft ist.
+
+IX. Mietverhältnisse
+
+Auf der Liegenschaft gemäß lit. b) besteht ein Mietverhältnis über eine Wohnung im Obergeschoß mit einer Mietzinsbelastung von EUR 690,00 monatlich. Der Mietvertrag wird von der Käuferin mit allen Rechten und Pflichten übernommen. Die Kaution in Höhe von EUR 1.380,00 ist an die Käuferin zu übergeben, nicht an die Verkäuferin.
+
+Die Verkäuferin [[person|Huter]] erklärt, dass für die Liegenschaft gemäß lit. a) kein Mietverhältnis besteht; die Felder werden landwirtschaftlich von einem Pächter bewirtschaftet, dessen Pachtvertrag mit dem [[date|30. November 2026]] endet. Ein Pachtrecht im Sinne von Punkt V ist daher nicht eingetragen, wohl aber eine Vormerkung zugunsten des Pächters, die bei der Lastenfreistellung zu berücksichtigen ist.
+
+X. Gerichtliche Zuständigkeit
+
+Für Streitigkeiten aus diesem Vertrag ist das Gericht am Sitz der Liegenschaft zuständig. Die Vertragsparteien verzichten auf die Einrede der Unzuständigkeit, soweit das Gesetz dies zulässt.
+
 VIII. Schlussbestimmungen
 
 Die Kosten dieses Vertrags trägt die Käuferin. Die Grunderwerbsteuer wird von der Käuferin getragen. Nebenabreden bestehen nicht. Änderungen bedürfen der Schriftform.

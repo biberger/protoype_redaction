@@ -64,6 +64,26 @@ Die Berufung ist an die [[court|OBDK]] zu richten. Die [[court|Oberste Berufungs
 
 Die Kostenentscheidung beruht auf [[legal_norm|§ 52 RAO]]. Der Beschuldigte hat die Kosten des Verfahrens zu tragen.
 
+Vorbringen des Beschuldigten in der Verhandlung
+
+Der Beschuldigte [[lawyer|Fântânaru]] hat sich in der Verhandlung schuldig bekannt, soweit es die Überweisung vom [[date|14. März 2019]] betrifft. Er bestreitet jedoch, die Rückzahlung absichtlich verzögert zu haben. Er gibt an, der Klient habe nach einer telefonischen Absprache keinen Anspruch auf eine sofortige Auszahlung des Restbetrages gehabt, weil die Wohnung noch nicht übergeben worden sei.
+
+Der Senat hat dieses Vorbringen geprüft. Eine Vereinbarung über die Zurückbehaltung ist nicht schriftlich dokumentiert. Die Treuhandschaft verlangt jedoch nach den Richtlinien der Kammer eine schriftliche Weisung für jede Auszahlung, sodass die telefonische Absprache die Pflichtverletzung nicht beseitigt.
+
+Der Kammeranwalt [[person|Koppitz]] hat in seinem Vortrag ausgeführt, dass der Beschuldigte in den Jahren 2019 und 2020 zwei weitere Treuhandschaften nicht ordnungsgemäß geführt habe. Diese Vorwürfe sind nicht Gegenstand dieses Verfahrens und werden nicht berücksichtigt.
+
+[[judge|El Gendy]] hat die Verhandlung für eine kurze Pause unterbrochen. Nach der Wiederaufnahme hat der Senat die Frage der Strafbemessung erörtert. [[judge|Žunić]] hat darauf hingewiesen, dass der Beschuldigte bisher keine Einträge in der Kammerkartei hat.
+
+Beratung des Senates
+
+Der Senat hat sich zur Beratung zurückgezogen. Die Entscheidung wurde einstimmig getroffen. [[judge|Paška]] hat zusätzlich eine Erhöhung der Geldbuße angeregt, konnte sich damit aber nicht durchsetzen, weil der Beschuldigte die Teilrückzahlung von EUR 2.700,00 bereits geleistet hat.
+
+Der Beschuldigte hat in seinem letzten Wort um Nachsicht ersucht und auf seine familiären Verpflichtungen hingewiesen. Der Senat hat dies berücksichtigt, jedoch nicht als Milderungsgrund anerkannt, weil diese Umstände die Verletzung der Treuhandpflichten nicht rechtfertigen.
+
+Der Senat hat die Strafdauer und den Strafrahmen nach [[legal_norm|§ 45 RAO]] geprüft. Die Höchstgrenze der Geldbuße beträgt nach dem Gesetz EUR 20.000,00. Der Senat hat die Geldbuße daher im unteren Bereich des Strafrahmens festgelegt.
+
+Die Verhandlung war ursprünglich für den [[date|10. Juli 2026]] angesetzt und wurde auf Antrag des Beschuldigten vertagt. Der Senat hat die Akten der Kammer zur Treuhandkontrolle sowie den Bericht des Prüfers vom [[date|20. März 2026]] beigezogen. Der Prüfbericht bestätigt den Befund der Anzeige, weist aber keine weiteren Verstöße aus.
+
 IV. Anmerkung des Senates
 
 [[judge|Paška]] hat in seiner Stellungnahme angemerkt, dass die Verwendung der Treuhandgelder nicht durch einen Irrtum zu erklären sei. [[judge|Žunić]] und [[judge|Dr. Moncef El Gendy]] haben sich dieser Auffassung angeschlossen.

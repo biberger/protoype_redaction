@@ -52,6 +52,14 @@ Gegen die Lenkerin des Fahrzeugs Nr. 2 wird ein Verwaltungsstrafverfahren wegen 
 
 Die Beamten haben die Beteiligten darüber belehrt, dass sie den Unfall binnen einer Woche der Versicherung melden müssen. Eine Alkoholvortestung wurde bei allen Lenkern mit negativem Ergebnis durchgeführt.
 
+Zeugenangaben
+
+Die Zeugin [[person|Yvonne Strohmaier]], die an der Bushaltestelle gegenüber dem Kreisverkehr wartete, gab an, dass der Pkw des Herrn [[person|Metzler]] vor dem Anstoß kurz gebremst habe. Sie habe den Anstoß gehört, aber nicht gesehen, welches Fahrzeug zuerst den Blinker gesetzt hatte. Die Zeugin war nicht verletzt und hat ihre Personalien angegeben. Ihre Angaben wurden protokolliert; eine Ladung zur Einvernahme wird nicht für erforderlich gehalten.
+
+Ein weiterer Zeuge konnte nicht ermittelt werden. Die Videoaufzeichnung der Verkehrsüberwachung am Kreisverkehr war zum Zeitpunkt der Anfrage bereits überschrieben, weil die Speicherfrist abgelaufen war. Die Polizei hat die Anfrage dennoch dokumentiert, damit sie im weiteren Verfahren berücksichtigt werden kann.
+
+Herr [[person|Kállay]] gab an, er habe die Fahrzeuge kommen gesehen und sei auf dem Schutzweg stehen geblieben. Er bestätigte, dass er vom Fahrer des Pkw Nr. 1 nicht angesprochen worden sei und keine Verletzungen erlitten habe. Die Angaben sind mit der Position der Fahrzeuge auf der Skizze vereinbar.
+
 Herr [[person|Oberhofer]] hat die Unfallskizze angefertigt und die Protokolle am [[date|14. Oktober 2026]] um 19:30 Uhr in der Dienststelle aufgenommen. Die Anzeige wurde am [[date|15. Oktober 2026]] an die [[organization|Staatsanwaltschaft Klagenfurt]] übermittelt.
 
 [[location|Villach]], am [[date|15. Oktober 2026]]

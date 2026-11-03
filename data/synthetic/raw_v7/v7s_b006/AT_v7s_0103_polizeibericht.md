@@ -48,6 +48,24 @@ Die Beamten [[person|Pirkl]] und [[person|Trattner]] stellen fest, dass die Fahr
 
 Eine Anzeige nach [[legal_norm|§ 99 Abs 1 StVO]] wird gegen keinen der Beteiligten erstattet. Ein Verfahren nach [[legal_norm|§ 4 StVO]] ist erst zu prüfen, sofern die Begutachtung der Lichtbilder eine Verletzung der Sorgfaltspflicht ergibt.
 
+7. Lichtbilder und Spuren
+
+Am Unfallort wurden auf der Fahrbahn der [[street|Draustraße]] Glassplitter und Kunststoffteile gesichert. Die Bremsspuren des Fahrzeugs Nr. 2 sind über eine Länge von etwa 14 Meter erkennbar. Die Verkehrsinsel weist eine Eindrückung von ca. 30 Zentimeter auf. Die Lichtbilder wurden von [[person|Trattner]] angefertigt und sind dem Akt unter der Nummer 1 bis 24 angeschlossen.
+
+Die Spurensicherung hat ergeben, dass das Fahrzeug Nr. 1 bei der Kollision eine Geschwindigkeit von rund 45 km/h hatte. Die Berechnung stammt von einem Sachverständigen der [[organization|Landespolizeidirektion]], der die Daten am [[date|19. Oktober 2026]] übermittelte.
+
+8. Verständigungen
+
+Die Versicherung des Fahrzeugs Nr. 2 wurde am [[date|17. Oktober 2026]] durch die Polizei informiert. Die Halterin des Fahrzeugs Nr. 1 wurde gebeten, die Schadensmeldung innerhalb von acht Tagen einzubringen. [[person|Kernstock]] hat die Schadensmeldung bereits telefonisch angekündigt, eine schriftliche Meldung liegt noch nicht vor.
+
+Die Gemeinde [[organization|Stadt Villach]] wurde über die Beschädigung der Verkehrsinsel informiert. Der zuständige Mitarbeiter der Straßenmeisterei wurde am Unfallort von [[person|Pirkl]] angetroffen und hat die Reparatur für die folgende Woche zugesagt.
+
+9. Weitere Maßnahmen
+
+Die Beamten [[person|Pirkl]] und [[person|Trattner]] haben die Lenker darauf hingewiesen, dass die Fahrzeugpapiere binnen drei Werktagen vorzulegen sind, falls diese nicht mitgeführt wurden. [[person|Gindl]] hat den Zulassungsschein am selben Tag bei der Dienststelle vorgelegt.
+
+Der Akt wird nach Eingang der Gutachten und der Schadensmeldungen an die Bezirksverwaltungsbehörde weitergeleitet.
+
 Dieser Bericht wurde am [[date|17. Oktober 2026]] um 11:30 Uhr erstellt.
 
 [[location|Villach]], am [[date|17. Oktober 2026]]

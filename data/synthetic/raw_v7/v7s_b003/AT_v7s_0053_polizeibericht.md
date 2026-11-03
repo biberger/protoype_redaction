@@ -66,13 +66,23 @@ Die Versicherung der Lenkerin [[person|Glezos]] hat die Schadenregulierung bishe
 
 **Weitere Maßnahmen**
 
-Die Beamtin [[person|Preisinger]] hat die Unfallstelle nach der Aufnahme mit dem Verkehrsdienst der [[organization|Landespolizeidirektion Salzburg]] abgestimmt. Die Verkehrsregelung oblag bis zur Freigabe der Fahrbahn dem Beamten [[person|Ruhsam]]. Die Fahrbahn wurde um 18:55 Uhr wieder freigegeben. Es wurden keine Spuren außerhalb der Fahrbahn festgestellt.
+Die Beamtin [[person|Preisinger]] hat die Unfallstelle nach der Aufnahme mit dem Verkehrsdienst der [[organization|Landespolizeidirektion Salzburg]] abgestimmt. Die Verkehrsregelung oblag bis zur Freigabe der Fahrbahn dem Beamten [[person|Ruhsam]]. Die Fahrbahn wurde um 18:55 Uhr wieder freigegeben. Es wurden keine Spuren außerhalb der Fahrbahn festgestellt. Die Unfallstelle wurde um 19:10 Uhr vollständig geräumt.
 
 Ein Ersuchen um Herausgabe der Verkehrsüberwachungsaufnahmen der Kreuzung wurde an die zuständige Stelle gerichtet. Die Aufnahmen werden nach Eingang nachgereicht. Bis dahin bleibt der Hergang Gegenstand der Ermittlungen.
 
+**Unfallverlauf im Detail**
+
+Nach den übereinstimmenden Angaben beider Lenkerinnen befand sich das Fahrzeug der Lenkerin [[person|Glezos]] zum Zeitpunkt der Einfahrt der [[person|Pavlíková]] bereits im Kreuzungsbereich. Die Lenkerin [[person|Pavlíková]] gab an, sie habe nach dem Anhalten am Stoppschild die Fahrbahn zunächst geprüft und dann den Einbiegevorgang begonnen. Die Lenkerin [[person|Glezos]] erklärte, sie habe die Kollision nicht mehr verhindern können, weil das andere Fahrzeug unerwartet vor ihr einbog.
+
+Der Anstoß erfolgte an der linken vorderen Ecke des Pkw der [[person|Glezos]] und an der rechten Seite des Fahrzeugs der [[person|Pavlíková]]. Die Fahrzeuge kamen nach etwa acht Metern zum Stillstand. Auf der Fahrbahn wurden Glassplitter und Kunststoffteile festgestellt, die von den Beamten gesichert wurden. Eine Bremsspur des Fahrzeugs der [[person|Glezos]] war über eine Länge von etwa sechs Metern erkennbar.
+
+Die Beifahrerin [[person|Exler]] saß auf dem Beifahrersitz des Pkw der [[person|Glezos]] und wurde durch den Airbag leicht am Oberkörper getroffen. Sie konnte das Fahrzeug nach dem Unfall selbständig verlassen.
+
 **Beweismittel**
 
-Als Beweismittel liegen bei: die Fotodokumentation der Beamten, eine Skizze des Unfallortes im Maßstab 1:200, die Lichtbilder der beschädigten Fahrzeuge und die Protokolle der befragten Zeugen. Die Skizze wurde von der Beamtin [[person|Preisinger]] erstellt und vom Lenker nicht bestritten.
+Als Beweismittel liegen bei: die Fotodokumentation der Beamten, eine Skizze des Unfallortes im Maßstab 1:200, die Lichtbilder der beschädigten Fahrzeuge und die Protokolle der befragten Zeugen. Die Lichtbilder sind mit Datum und Uhrzeit versehen und stimmen mit den Angaben der Beamtin überein. Eine weitere Skizze der Zufahrt liegt nicht vor, da die Zufahrt nicht Teil des Unfallortes ist.
+
+Die Skizze wurde von der Beamtin [[person|Preisinger]] erstellt und vom Lenker nicht bestritten.
 
 **Unterschrift**
 

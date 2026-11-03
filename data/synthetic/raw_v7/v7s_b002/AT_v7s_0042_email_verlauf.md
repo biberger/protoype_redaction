@@ -23,7 +23,7 @@ Sehr geehrte Frau [[person|Schumacher]],
 
 ich bestätige den Eingang Ihrer Nachricht vom [[date|6. Februar 2026]]. Die [[organization|Drautaler Wohnbau GmbH]] ([[organization|DWG]]) hält an der Kündigung vom [[date|15. Dezember 2025]] fest. Der Rückstand beträgt laut Kontoauszug vom [[date|31. Jänner 2026]] EUR 2.460,00.
 
-Die DWG ist zu einer Ratenvereinbarung nur bereit, wenn Frau [[person|Witzmann]] bis zum [[date|20. Februar 2026]] eine erste Rate von EUR 800,00 leistet. Ich ersuche um kurze Rückmeldung.
+Die [[organization|DWG]] ist zu einer Ratenvereinbarung nur bereit, wenn Frau [[person|Witzmann]] bis zum [[date|20. Februar 2026]] eine erste Rate von EUR 800,00 leistet. Ich ersuche um kurze Rückmeldung.
 
 Mit freundlichen Grüßen
 
@@ -38,7 +38,7 @@ Tel. [[phone_number|+43-463-9140237-66]]
 >
 > Sehr geehrte Frau [[person|Ledebur]],
 >
-> die Hausverwaltung hat die DWG bereits am [[date|2. Februar 2026]] um Stellungnahme gebeten. Frau [[person|Witzmann]] behauptet, die Mietminderung wegen des Schimmels sei berechtigt gewesen. Ein Gutachten liegt noch nicht vor.
+> die Hausverwaltung hat die [[organization|DWG]] bereits am [[date|2. Februar 2026]] um Stellungnahme gebeten. Frau [[person|Witzmann]] behauptet, die Mietminderung wegen des Schimmels sei berechtigt gewesen. Ein Gutachten liegt noch nicht vor.
 >
 > Mit freundlichen Grüßen
 > [[person|Genoveva Schumacher]]

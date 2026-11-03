@@ -43,7 +43,7 @@ Der Disziplinarrat hat erwogen: Gelder, die ein Rechtsanwalt für Klienten über
 
 Die Beweiswürdigung stützt sich auf die Urkunden ./1 bis ./9, insbesondere auf die Kontoauszüge der Treuhandbuchhaltung, die Zahlungsbelege der Gegenseite und die Stellungnahmen der Parteien. Die Angaben des Anzeigers sind mit den Buchungsbelegen in Einklang zu bringen. Soweit er eine Vorauszahlung auf das Honorar behauptet, ist dies durch die Urkunden nicht gestützt.
 
-Die Verantwortung der Beschuldigten ist teilweise glaubwürdig. Der Anzeiger [[person|Rabenalt]] hat in der Verhandlung in [[location|St. Johann im Pongau]] bestätigt, dass er die Auszahlung an die Gegenseite erhalten hat. Die Höhe der Honorarentnahme ist jedoch nicht durch eine Vereinbarung gedeckt. [[lawyer|Hammer]] hat keine Honorarnote für den Zeitraum vorgelegt. Auch das Schreiben vom [[date|11. März 2025]] enthält keine Vereinbarung über ein Honorar, sondern nur die Bitte um Weiterleitung des Betrags an die Gegenseite.
+Die Verantwortung der Beschuldigten ist teilweise glaubwürdig. In der Verhandlung hat die Beschuldigte [[lawyer|Hammer]] ausgeführt, dass sie die Abrechnung wegen einer längeren Erkrankung ihrer Kanzleikraft verzögert habe. Die Kammeranwältin [[person|Lesky]] beantragte eine Geldbuße im oberen Bereich des Strafrahmens, sah jedoch von einem Antrag auf Ausschluss ab. Der Vorsitzende [[judge|Hart]] hielt fest, dass die Beschuldigte die Vorwürfe zur Honorarentnahme nicht bestritten hat und dass die Verzögerung der Auszahlung allein nicht zur Annahme einer Bereicherungsabsicht führt. Der Anzeiger [[person|Rabenalt]] hat in der Verhandlung in [[location|St. Johann im Pongau]] bestätigt, dass er die Auszahlung an die Gegenseite erhalten hat. Die Höhe der Honorarentnahme ist jedoch nicht durch eine Vereinbarung gedeckt. [[lawyer|Hammer]] hat keine Honorarnote für den Zeitraum vorgelegt. Auch das Schreiben vom [[date|11. März 2025]] enthält keine Vereinbarung über ein Honorar, sondern nur die Bitte um Weiterleitung des Betrags an die Gegenseite.
 
 Die Verfehlung ist nach [[legal_norm|§ 45 Abs 1 Z 3 RAO]] zu ahnden. Bei der Strafbemessung wurde berücksichtigt, dass die Beschuldigte bisher disziplinär unbescholten ist, den Betrag zwischenzeitlich ersetzt hat und sich einsichtig zeigt. Mildernd ist ferner zu werten, dass die Beschuldigte die Auszahlung an die Gegenseite fristgerecht veranlasst hat und die Verzögerung im Zusammenhang mit einer Erkrankung ihres Kanzleipersonals steht, wie sie glaubhaft dargelegt hat. Erschwerend wirkt die Dauer der Verzögerung von über drei Monaten bei der Abrechnung des zweiten Klienten.
 
@@ -55,7 +55,7 @@ Die Beschuldigte [[lawyer|Hammer]] wird für schuldig erkannt, die ihr obliegend
 
 Die Kosten des Verfahrens trägt die Beschuldigte im Ausmaß von EUR 1.180,00.
 
-Gegen diesen Beschluss kann binnen vier Wochen Beschwerde an den [[court|OGH]] erhoben werden. Die Berufung ist beim Disziplinarrat einzubringen; über sie entscheidet die [[court|OBDK]].
+Gegen diesen Beschluss kann binnen vier Wochen Beschwerde an den [[court|OGH]] erhoben werden. Der Beschluss wurde den Beteiligten in der Verhandlung mündlich verkündet und wird schriftlich ausgefertigt. Die Berufung ist beim Disziplinarrat einzubringen; über sie entscheidet die [[court|OBDK]].
 
 Hinweis: Die Beschuldigte wird darauf hingewiesen, dass die Abrechnung der Treuhandgelder künftig binnen acht Tagen nach Zahlungseingang zu erfolgen hat.
 

@@ -57,6 +57,20 @@ Die Erben erklären, dass das Inventar vollständig ist. Bewegliche Sachen im Wo
 
 Der Notar hat die Erben darauf hingewiesen, dass die Haftung auf den Nachlass beschränkt ist, sofern ein Inventar errichtet wird. Die Erben haben die Erbschaftssteuer nach den gesetzlichen Vorschriften zu tragen, soweit eine Befreiung nicht besteht.
 
+Pflichtteilsansprüche
+
+Die Erblasserin hatte einen Sohn, [[person|Florian Schreyer]], geboren am [[date_of_birth|12. März 1984]], der nach dem Testament nicht bedacht wurde. Herr [[person|Schreyer]] hat über seine Vertretung am [[date|21. Juli 2026]] einen Pflichtteilsanspruch angemeldet. Der Notar hat die Erben darauf hingewiesen, dass der Pflichtteilsanspruch mit dem Todestag entsteht und binnen drei Jahren ab Kenntnis gerichtlich geltend zu machen ist.
+
+Die Erbin [[person|Hayek]] hat erklärt, dass sie den Pflichtteil nach dem Wert des Nachlasses zum Todestag berechnen lassen wolle. Die Erben haben vereinbart, den Pflichtteilsanspruch zunächst nicht zu bestreiten, bis das Gutachten über den Verkehrswert der Liegenschaft vorliegt. Die Kosten des Gutachtens trägt der Nachlass.
+
+Gerichtsgebühren und Notarkosten
+
+Die Gerichtsgebühren für die Einantwortung sind aus dem Nachlass zu bezahlen. Die Notarkosten werden nach dem Notariatstarif berechnet und ebenfalls aus dem Nachlass beglichen, soweit die Erben nichts anderes vereinbaren. Der Notar hat die Erben über die Möglichkeit einer Ausfolgung des Nachlasses vor Einantwortung gegen Sicherheitsleistung belehrt; davon wird derzeit kein Gebrauch gemacht.
+
+Haftung und Inventar
+
+Die Erben haben zur Kenntnis genommen, dass die Haftung für Nachlassverbindlichkeiten auf den Nachlass beschränkt ist, wenn ein Inventar errichtet wird. Das Inventar wird vom Gericht bestellt und binnen der gesetzlichen Frist errichtet. Die Erben werden ersucht, Belege über Ausgaben im Zusammenhang mit dem Begräbnis und der Liegenschaft dem Notar vorzulegen. Der Erbin [[person|Boric]] wurde zugesichert, dass die Kosten für die Pflege der Erblasserin im letzten Lebensjahr im Rahmen der Abhandlung geprüft werden.
+
 Schlussbemerkung
 
 Die Erben haben die Abhandlung bestätigt. Die Erbantrittserklärungen werden dem Gericht übermittelt; die Einantwortung ist binnen sechs Monaten nach dem Todestag anzustreben. Das Protokoll wurde vorgelesen, von allen Erschienenen genehmigt und unterfertigt.

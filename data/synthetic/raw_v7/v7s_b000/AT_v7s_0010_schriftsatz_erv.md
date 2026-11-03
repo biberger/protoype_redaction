@@ -68,12 +68,20 @@ wegen EUR 23.450,00 sA
 | Zinsen und Verzugsschaden | 2.000,00 |
 | Gesamt | 23.450,00 |
 
+7. Die Klägerin hat die Heizungsanlage seit dem [[date|9. Juli 2024]] nicht mehr benutzt und den Warmwasserbedarf mit einem Elektroboiler gedeckt, dessen Stromkosten sie gesondert belegen kann. Die Mehrkosten sind in der Schadensaufstellung nicht enthalten und werden in einem Nachtrag geltend gemacht, sobald die Abrechnung vorliegt.
+
 **IV. Beweismittel**
 
 1. Urkunden: Werkvertrag vom [[date|4. Oktober 2023]], Rechnung vom [[date|20. November 2023]], Schadensmeldung, Ablehnungsschreiben der [[organization|WAA]] vom [[date|21. Jänner 2025]].
 2. Sachverständigengutachten zu den Ursachen der Undichtheit.
 3. Zeugnis des Sachverständigen [[person|Mag. Gerold Haslinger]] zur Verschraubung.
 4. Parteienvernehmung der Klägerin [[person|Kroemer]] und des Erstbeklagten [[person|Erler]].
+
+4. Die [[organization|WAA]] hat in ihrem Schreiben vom [[date|21. Jänner 2025]] unter anderem ausgeführt, die Schadenursache liege in der Verschraubung der Verbindungsstelle. Diese Feststellung beruht auf einer Besichtigung ohne Beteiligung der Klägerin. Die Klägerin hat der Besichtigung nicht zugestimmt und den Sachverständigen erst nachträglich kennengelernt.
+
+5. Die [[organization|Kremser Haustechnik Gesellschaft m.b.H.]] hat der Klägerin im Schreiben vom [[date|15. Juli 2024]] angeboten, die Leitung auf eigene Kosten zu ersetzen. Das Angebot war jedoch an die Bedingung geknüpft, dass die Klägerin auf weitere Ansprüche verzichtet. Die Klägerin hat dies abgelehnt, weil die Mängel damals noch nicht vollständig bekannt waren.
+
+6. Die Beklagten haben den Schaden nach Kenntnis der Undichtheit nicht weiter eingegrenzt. Die Klägerin musste den Keller daher selbst auf eigene Kosten trocknen lassen, um weitere Schimmelbildung zu verhindern.
 
 **V. Anträge**
 

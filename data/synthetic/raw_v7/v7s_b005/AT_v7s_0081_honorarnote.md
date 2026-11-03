@@ -37,7 +37,7 @@ GZ der Kanzlei: [[other_identifier|506/23 GLR]]
 
 Die Eingabe an das Grundbuchgericht wurde am [[date|22.09.2026]] elektronisch übermittelt. Der Grundbuchsauszug vom [[date|25.09.2026]] ist als Beilage angeschlossen. Der Rückstand aus der Lastenfreistellung wurde mit dem Notariat am [[date|19.10.2026]] abgestimmt; die Auslagen für Grundbuchsabfragen, Vollmacht und Beglaubigung in Höhe von EUR 42,00 sind umsatzsteuerfrei und in obiger Summe nicht enthalten.
 
-Die Leistungen wurden nach dem [[legal_norm|Rechtsanwaltstarifgesetz]] verrechnet.
+Die Leistungen wurden nach dem [[legal_norm|Rechtsanwaltstarifgesetz]] verrechnet. Die Zeitaufwände sind in den Positionen zusammengefasst; eine detaillierte Aufstellung kann auf Verlangen übermittelt werden. Der Betrag ist binnen 14 Tagen fällig.
 
 Zahlbar binnen 14 Tagen auf das oben angeführte Konto.
 

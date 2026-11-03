@@ -48,7 +48,7 @@ Die Zeugin [[person|Ilse Hartwig]] ist die Schwester des Klienten [[person|Grego
 
 3. Beweiswürdigung
 
-Der Senat hat die Aussagen des Klienten, den Prüfbericht und die Kontoauszüge gewürdigt. Der Senat hat die Kontoauszüge vollständig gesichtet und die Buchungen mit dem Treuhandbuch abgeglichen; dabei wurden keine weiteren Abweichungen festgestellt. Der Beschuldigte hat den Prüfbericht nicht substantiiert bestritten. Die Aussage des Klienten ist mit den Buchungsdaten vereinbar und wird daher als glaubwürdig beurteilt. Die Verantwortung des Beschuldigten, die Buchungen seien einer Kanzleikraft zuzurechnen, ist nicht geeignet, die Verantwortung für die Verwahrung der Gelder zu verringern.
+Der Senat hat die Aussagen des Klienten, den Prüfbericht und die Kontoauszüge gewürdigt. Der Senat hat die Kontoauszüge vollständig gesichtet und die Buchungen mit dem Treuhandbuch abgeglichen; dabei wurden keine weiteren Abweichungen festgestellt. Der Beschuldigte hat den Prüfbericht nicht substantiiert bestritten. Die Verbuchungen wurden zeitlich geordnet und mit den Eingangsbelegen verglichen. Dabei zeigte sich, dass zwei Eingangsbelege überhaupt nicht im Treuhandbuch erfasst waren. Der Senat hält die Feststellungen daher für hinreichend gesichert, um eine Entscheidung ohne weitere Beweisaufnahme zu treffen. Weitere Beweisanträge der Parteien wurden nicht gestellt. Die Verhandlung wurde nach Vernehmung der Zeugen für geschlossen erklärt. Der Beschluss wurde im Anschluss an die Beratung gefasst. Die Aussage des Klienten ist mit den Buchungsdaten vereinbar und wird daher als glaubwürdig beurteilt. Die Verantwortung des Beschuldigten, die Buchungen seien einer Kanzleikraft zuzurechnen, ist nicht geeignet, die Verantwortung für die Verwahrung der Gelder zu verringern.
 
 4. Rechtliche Beurteilung
 
@@ -61,6 +61,10 @@ Der Kammeranwalt [[person|Mag. Adtrid Mittendorfer]] hat in der Verhandlung bean
 Die Geldbuße wurde nach der Schwere der Verletzung und der wirtschaftlichen Lage des Beschuldigten bemessen. Mildernd wirkte die Korrektur der Buchungen vor Abschluss des Verfahrens. Erschwerend war die Dauer der Pflichtverletzung.
 
 Die Kostenentscheidung beruht auf [[legal_norm|§ 45 DSt]].
+
+Die Vorgänge betreffen zwei verschiedene Treuhandschaften, die jeweils unterschiedliche Klientinnen und Klienten betreffen. Im ersten Fall handelt es sich um einen Vergleichsbetrag aus einem Verkehrsunfall, im zweiten um einen Kaufpreis aus einer Liegenschaftstransaktion. In beiden Fällen war die Auszahlung nach den Vereinbarungen innerhalb von zehn Werktagen nach dem Eingang vorzunehmen. Dies ist nicht geschehen, und die Beschuldigte hat keine Gründe für die Verzögerung schriftlich dokumentiert.
+
+Die Beschuldigte hat im Verfahren außerdem vorgebracht, dass sie die Mandatsbedingungen mit den Klienten mündlich vereinbart habe. Eine solche mündliche Vereinbarung über eine Verzögerung der Auszahlung ist nach Auffassung des Senats unwirksam, weil sie die Interessen der Klientinnen und Klienten berührt und schriftlich festgehalten werden muss.
 
 Die Verwahrung von Treuhandgeldern in einem Anderkonto dient dem Schutz der Klientinnen und Klienten vor dem Zugriff Dritter, auch vor dem Zugriff des Rechtsanwalts selbst. Ein Rechtsanwalt, der Treuhandgelder verzögert auszahlt, verletzt diesen Schutz unabhängig davon, ob er den Betrag später vollständig ersetzt. Der spätere Ausgleich ist nur bei der Strafbemessung zu berücksichtigen und entlastet den Beschuldigten nicht.
 

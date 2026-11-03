@@ -42,8 +42,10 @@ Die Unfallstelle wurde von der Polizei gesichert und mit Fotos dokumentiert. Die
 
 Dem Lenker [[person|Praher]] wurde über die Möglichkeit der Schadensmeldung bei der Versicherung belehrt. Ihr wurde ein Formular zur Unfallmeldung ausgehändigt. Die Beteiligten haben die Anzeige unterschrieben bzw. den Empfang bestätigt. Die Verständigung des Schadenbüros der [[organization|Molnar GmbH]] erfolgte am selben Tag. Der Pkw wurde auf Wunsch des Lenkers nicht abgeschleppt, sondern von der Halterin des parkenden Fahrzeugs in die Garage verbracht.
 
-Die Zeugen wurden über die Folgen einer falschen Aussage belehrt. Alle Zeugen haben die Richtigkeit ihrer Angaben mit der Unterschrift bestätigt. Eine Verwaltungsübertretung nach [[legal_norm|§ 4 StVO]] wird geprüft; die Anzeige wird an die Bezirkshauptmannschaft weitergeleitet.
+Die Zeugen wurden über die Folgen einer falschen Aussage belehrt. Alle Zeugen haben die Richtigkeit ihrer Angaben mit der Unterschrift bestätigt. Die Zeugen haben die Angaben ohne Zögern wiedergegeben. Eine Verwaltungsübertretung nach [[legal_norm|§ 4 StVO]] wird geprüft; die Anzeige wird an die Bezirkshauptmannschaft weitergeleitet.
 
+
+Die Ermittlungen sind abgeschlossen. Eine Anzeige an die [[organization|Bezirkshauptmannschaft Mödling]] wird erstattet, sobald das Gutachten zur Fahrzeugtechnik vorliegt.
 
 [[location|Mödling]], am [[date|8. Oktober 2026]]
 

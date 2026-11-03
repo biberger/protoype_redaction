@@ -26,7 +26,7 @@ Kammeranwältin: [[person|Mag. Hyazintha Beer]], geboren am [[date_of_birth|27. 
 
 Beschuldigte: [[lawyer|Elizabeta Horvat]], Rechtsanwältin
 
-Zeuginnen: [[person|Emília [[person|Taberyová]]]], [[person|Helga [[person|Thanner]]]] (Klientinnen)
+Zeuginnen: [[person|Emília Taberyová]], [[person|Helga Thanner]] (Klientinnen)
 
 Der Vorsitzende [[judge|Kircher]] eröffnet die Verhandlung und stellt die ordnungsgemäße Ladung fest. Die Beschuldigte erklärt, auf die Verlesung der Anklageschrift zu verzichten, wenn die Anschuldigung im Wesentlichen bekannt ist. Die Kammeranwältin verliest die Anklage.
 
@@ -76,6 +76,8 @@ Der Senat hat dazu festgestellt, dass ein Anspruch der [[organization|Abeles]] a
 
 Die Kammeranwältin beantragt eine Geldbuße und einen Verweis. Die Beschuldigte [[lawyer|Horvat]] beantragt eine mildere Strafe und verweist auf ihre bisherige Unbescholtenheit.
 
+Die Beschuldigte hat ihre Angaben zur Kanzleiorganisation ergänzt: Eine Mitarbeiterin sei für die Buchhaltung der Treuhandkonten zuständig gewesen. Diese Mitarbeiterin sei seit März 2025 nicht mehr in der Kanzlei tätig. Der Senat hat dies zur Kenntnis genommen, aber nicht als Entschuldigung gewertet. Die Anwesenden wurden über das Recht auf Berufung belehrt. Die Beschuldigte hat auf eine Begründung des Urteils verzichtet, sodass die Entscheidung in dieser Form verkündet wird.
+
 Beratung und Urteil
 
 Der Senat zieht sich zur Beratung zurück. Nach Beratung verkündet der Vorsitzende [[judge|Kircher]] folgenden Spruch:
@@ -89,6 +91,14 @@ Der Senat hat die Aussagen der Zeuginnen gewürdigt. Die Beschuldigte hat die Zu
 Der Senat hält fest, dass die Beschuldigte den Betrag von EUR 9.500,00 bis heute nicht an die Klientin [[person|Taberyová]] ausgezahlt hat. Die Berufung wird als zulässig angesehen. Die Berufung ist an die [[court|OBDK]] zu richten.
 
 Die Kosten des Verfahrens trägt die Beschuldigte nach [[legal_norm|§ 52 RAO]]. Sie werden mit EUR 880,00 bestimmt.
+
+Die Beschuldigte [[lawyer|Horvat]] hat auf Befragen des Senates erklärt, sie habe die Klientin [[person|Thanner]] am [[date|3. Juni 2025]] zu einem Gespräch in die Kanzlei gebeten, um die Rückzahlung zu besprechen. Ein Protokoll dieses Gesprächs existiert nicht.
+
+Die Zeugin [[person|Taberyová]] hat auf Vorhalt bestätigt, dass sie im Frühjahr 2025 mit einem Kanzleimitarbeiter telefoniert habe. Der Mitarbeiter sei jedoch nicht befugt gewesen, Auskünfte über Treuhandkonten zu erteilen. Der Senat nimmt dies zur Kenntnis.
+
+Der Senat hat die Kammerkanzlei ersucht, die Akten der Treuhandschaft Nr. [[other_identifier|2023/894]] vollständig zu übermitteln. Die Akten wurden in der Verhandlung vorgelegt und vom Senat durchgesehen. Sie enthalten keine schriftliche Zustimmung der Klientinnen zur Überweisung.
+
+Die Kammeranwältin [[person|Beer]] hat den Antrag gestellt, die Geldbuße auf mindestens EUR 5.000,00 zu erhöhen. Der Senat hat diesen Antrag geprüft, aber nicht übernommen, weil die Beschuldigte bisher nicht disziplinär aufgefallen ist.
 
 Schluss der Verhandlung: [[date|15. Oktober 2026]], 13:10 Uhr
 

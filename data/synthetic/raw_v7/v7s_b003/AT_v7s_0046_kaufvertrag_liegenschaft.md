@@ -99,8 +99,12 @@ Für den Fall, dass eine Partei den Vertrag nicht erfüllt, gilt eine Vertragsst
 
 Sollte einer der Käufer vor der Eigentumsübertragung versterben, tritt die Käuferin in den Vertrag ein. Die Erben des Verstorbenen haben die Wahl, den Anteil zu übernehmen oder den darauf entfallenden Kaufpreisanteil zurückzuerhalten. Die Verkäuferin nimmt diese Regelung zur Kenntnis.
 
-Sollte eine Vertragspartei die Errichtung einer Urkunde im Ausland verlangen, sind die Kosten der Übersetzung vom Verlangenden zu tragen. Die Treuhänderin verständigt die Käufer über den Eingang der Löschungsurkunde unverzüglich. Die Auszahlung des Restkaufpreises an die Verkäuferin erfolgt erst nach Eintragung der Vormerkung zugunsten der Käufer im Grundbuch. Das Lastenblatt von [[land_register_id|EZ 2846]] weist zusätzlich eine Vormerkung zugunsten eines Mieters aus, die vor dem Vollzug zu löschen ist; die Verkäuferin verpflichtet sich zu dieser Löschung auf eigene Kosten.
+Sollte eine Vertragspartei die Errichtung einer Urkunde im Ausland verlangen, sind die Kosten der Übersetzung vom Verlangenden zu tragen. Die Verkäuferin übergibt die Schlüssel samt den Zählerständen bei Vertragsabschluss. Ein Übergabeprotokoll wird von den Parteien unterfertigt und dem Vertrag beigeschlossen.
+
+Die Treuhänderin verständigt die Käufer über den Eingang der Löschungsurkunde unverzüglich. Die Auszahlung des Restkaufpreises an die Verkäuferin erfolgt erst nach Eintragung der Vormerkung zugunsten der Käufer im Grundbuch. Das Lastenblatt von [[land_register_id|EZ 2846]] weist zusätzlich eine Vormerkung zugunsten eines Mieters aus, die vor dem Vollzug zu löschen ist; die Verkäuferin verpflichtet sich zu dieser Löschung auf eigene Kosten.
 
 Die Verkäuferin bestätigt, dass ihr keine Vorkaufsrechte Dritter bekannt sind.
+
+Die Kosten einer Vermessung zur Teilung der Liegenschaft [[land_register_id|Gst.Nr. 999]] trägt die Verkäuferin, sofern eine Teilung für die Eintragung erforderlich ist. Die Vertragsparteien haben die Liegenschaften besichtigt und die Flächenangaben aus dem Grundbuch übernommen. Für Abweichungen der tatsächlichen Flächen übernimmt die Verkäuferin keine Gewähr, soweit diese weniger als fünf Prozent betragen.
 
 Ein Exemplar dieses Vertrages erhält jede Vertragspartei. Ein weiteres Exemplar verbleibt bei der Treuhänderin.

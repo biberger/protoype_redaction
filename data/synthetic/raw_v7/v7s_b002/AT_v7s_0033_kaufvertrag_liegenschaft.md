@@ -116,6 +116,16 @@ b) der Restbetrag von EUR 256.500,00 binnen vier Wochen nach Vorliegen der Laste
 
 7.7 Ein gesetzliches oder vertragliches Vorkaufsrecht eines Miteigentümers besteht nach Auskunft der Verkäuferin nicht. Die Verkäuferin verpflichtet sich, bei einer Änderung dieser Auskunft die Käufer unverzüglich zu informieren.
 
+7.8 Die Verkäuferin erklärt, dass die Liegenschaften nicht Gegenstand eines Verlassenschafts- oder Scheidungsverfahrens sind und dass keine Ansprüche Dritter auf die Liegenschaften geltend gemacht werden.
+
+7.9 Die Käufer verpflichten sich, die Liegenschaften nach der Übergabe zu Wohnzwecken zu nutzen. Eine gewerbliche Nutzung oder eine Vermietung an Dritte bedarf der Zustimmung der Verkäuferin, solange der Kaufpreis nicht vollständig bezahlt ist.
+
+7.10 Für den Fall der Nichteinverleibung des Eigentumsrechts aus Gründen, die nicht in der Sphäre der Vertragsparteien liegen, vereinbaren die Parteien, den Vertrag innerhalb von drei Monaten einvernehmlich anzupassen.
+
+7.11 Die Verkäuferin verpflichtet sich, die Anzeige des Verkaufs an die zuständige Gemeinde fristgerecht vorzunehmen, sofern eine solche nach dem Landesrecht erforderlich ist. Die Käuferin wird die Verkäuferin bei dieser Anzeige unterstützen, soweit dies von ihr verlangt wird. Die Kosten einer etwaigen Genehmigung trägt die Käuferin.
+
+7.12 Vertragsänderungen, welche die Treuhänderin betreffen, sind nur mit deren schriftlicher Zustimmung wirksam.
+
 8. Kaufpreisaufteilung und Abrechnung
 
 8.1 Der Kaufpreis wird auf die Liegenschaften wie folgt aufgeteilt:
@@ -131,6 +141,16 @@ Liegenschaft | Grundstück | Anteil am Kaufpreis in EUR
 Beilage ./A: Grundbuchsauszug zu [[land_register_id|EZ 2225]], Stand [[date|1. September 2026]]
 Beilage ./B: Lageplan des Vermessungsamtes, GZ [[case_number|1623/88]]
 Beilage ./C: Vollmacht der Verkäuferin vom [[date|11. August 2026]]
+
+Zahlungsplan (Übersicht)
+
+Zahlung | Fälligkeit | Betrag in EUR | Zahlungsweg
+Kaution | Binnen 14 Tagen nach Vertragsunterfertigung | 28.500,00 | Treuhandkonto
+Restkaufpreis | Nach Lastenfreistellung, spätestens [[date|30. November 2026]] | 256.500,00 | Treuhandkonto
+Grunderwerbsteuer (hälftig) | Nach Vorschreibung durch das Finanzamt | nach Bescheid | Direktzahlung
+Eintragungsgebühr (hälftig) | Nach Vorschreibung durch das Grundbuchsgericht | nach Bescheid | Direktzahlung
+
+Die Vertragsparteien nehmen zur Kenntnis, dass die Grunderwerbsteuer nach dem Bescheid des Finanzamtes berechnet wird und die Beträge daher erst nach Zustellung fällig werden.
 
 Anlage A: Auszug aus dem Grundbuch (Auszug, nicht amtlich)
 

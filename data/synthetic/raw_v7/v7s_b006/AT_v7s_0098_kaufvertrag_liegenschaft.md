@@ -52,11 +52,11 @@ Die Verkäuferin erklärt die Aufsandung des Eigentumsrechts an die Käufer zu g
 
 Gewährleistung
 
-Der Verkauf erfolgt wie besichtigt. Die Käufer erklären, das Objekt am [[date|18. September 2026]] gemeinsam mit der Verkäuferin besichtigt zu haben. Die Verkäuferin haftet für die Lastenfreiheit, nicht aber für allfällige Mängel des Gebäudes, die bei der Besichtigung erkennbar waren. Ein Gutachten über den Zustand des Daches liegt den Käufern vor.
+Der Verkauf erfolgt wie besichtigt. Die Käufer erklären, das Objekt am [[date|18. September 2026]] gemeinsam mit der Verkäuferin besichtigt zu haben. Die Verkäuferin haftet für die Lastenfreiheit, nicht aber für allfällige Mängel des Gebäudes, die bei der Besichtigung erkennbar waren. Ein Gutachten über den Zustand des Daches liegt den Käufern vor. Der Gutachter hat die Dachdeckung als funktionsfähig, die Dachrinne als erneuerungsbedürftig eingestuft; die Kosten der Erneuerung sind im Kaufpreis berücksichtigt.
 
 Schlussbestimmungen
 
-Die Vertragsparteien bestätigen, dass sie den Vertrag gelesen und verstanden haben. Nebenabreden bestehen nicht. Änderungen bedürfen der Schriftform. Die Kosten der Vertragserrichtung trägt der Käufer.
+Die Vertragsparteien bestätigen, dass sie den Vertrag gelesen und verstanden haben. Nebenabreden bestehen nicht. Änderungen bedürfen der Schriftform. Die Kosten der Vertragserrichtung trägt der Käufer. Die Käufer erklären ausdrücklich, die Anzahlung von EUR 48.500,00 nicht aus Mitteln eines Kredits zu leisten, der auf die Liegenschaft grundbücherlich sichergestellt werden soll. Sollte eine Finanzierung erforderlich sein, ist dies der Treuhänderin vor der Auszahlung schriftlich mitzuteilen. Die Verkäuferin verpflichtet sich, bei der Finanzierung mitzuwirken und die erforderlichen Urkunden binnen zwei Wochen zu unterfertigen.
 
 Besondere Vereinbarungen
 

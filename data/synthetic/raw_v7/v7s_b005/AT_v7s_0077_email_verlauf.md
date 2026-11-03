@@ -85,4 +85,6 @@ Rechtsanwalt
 [[organization|Steidl & Legath]]
 Tel. [[phone_number|03172/107977 Kl. 14]]
 
+Bitte übermitteln Sie mir bis zum [[date|23. Oktober 2026]] auch die Korrespondenz mit der Speditionsfirma, damit wir die Frist der Mängelrüge prüfen können. Für Rückfragen bin ich unter der oben genannten Nummer erreichbar.
+
 [[address|4893 Zell am Moos]], am [[date|14. Oktober 2026]]

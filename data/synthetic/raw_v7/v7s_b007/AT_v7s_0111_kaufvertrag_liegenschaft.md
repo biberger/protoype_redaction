@@ -108,9 +108,11 @@ X. Vollmacht und Nebenabreden
 
 Die Vertragsteile erteilen der Kanzlei Vollmacht, alle Erklärungen gegenüber dem Grundbuchsgericht abzugeben und Urkunden in Empfang zu nehmen. Nebenabreden bestehen nicht. Die Kosten einer allfälligen Berichtigung des Grundbuchs trägt die Käuferin, die sie veranlasst. Die Vollmacht erlischt mit der Eintragung des Eigentumsrechts der Käuferinnen. Der Vertrag wird in dreifacher Ausfertigung errichtet, je eine für die Vertragsteile und eine für das Grundbuch.
 
+Die Vertragsteile bestätigen, dass sie die Urkunde gelesen und verstanden haben und dass die Kanzlei sie auf die Rechtsfolgen der Aufsandungserklärung hingewiesen hat. Eine Rechtsberatung durch eine unabhängige Stelle wurde angeboten, von den Vertragsteilen jedoch nicht in Anspruch genommen.
+
 XI. Schlussbestimmungen
 
-Änderungen dieses Vertrages bedürfen der Schriftform. Die Kosten der Vertragserrichtung trägt die Käuferin [[person|Trautlinde Buchner]] zur Hälfte, die übrigen Kosten teilen sich die Vertragsteile. Die Honorare für die Vertragserrichtung sind nach dem Rechtsanwaltstarifgesetz berechnet und betragen EUR 2.850,00 netto. Sollte eine Bestimmung unwirksam sein, bleibt der Vertrag im Übrigen wirksam.
+Änderungen dieses Vertrages bedürfen der Schriftform. Die Kosten der Vertragserrichtung trägt die Käuferin [[person|Trautlinde Buchner]] zur Hälfte, die übrigen Kosten teilen sich die Vertragsteile. Die Honorare für die Vertragserrichtung sind nach dem [[legal_norm|Rechtsanwaltstarifgesetz]] berechnet und betragen EUR 2.850,00 netto. Sollte eine Bestimmung unwirksam sein, bleibt der Vertrag im Übrigen wirksam.
 
 [[location|Neudorf im Weinviertel]], am [[date|21. September 2026]]
 

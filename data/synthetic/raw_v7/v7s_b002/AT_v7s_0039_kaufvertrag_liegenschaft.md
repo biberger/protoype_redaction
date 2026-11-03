@@ -124,6 +124,24 @@ Rechtsanwalt
 
 Beglaubigungsvermerk: Die Unterschriften der Vertragsteile wurden in unserer Gegenwart vollzogen. Die Identität wurde anhand der Ausweise festgestellt. Ausgefertigt am [[date|22. April 2026]].
 
+VIII. Erschließung und Bebauung
+
+14a. Die Verkäuferin erklärt, dass die Liegenschaft an die öffentliche Wasserversorgung und an das Kanalnetz angeschlossen ist. Die Hausanschlüsse wurden bei der Errichtung des Wohnhauses im Jahr 2011 hergestellt und sind funktionsfähig.
+
+14b. Die Verkäuferin erklärt, dass das Wohnhaus im Jahr 2011 nach einer Baubewilligung der Gemeinde errichtet wurde und die Benützungsbewilligung vorliegt. Eine Bauverhandlung ist nicht anhängig.
+
+14c. Die Käufer haben zur Kenntnis genommen, dass das Nebengebäude ohne Baubewilligung errichtet wurde und die Verkäuferin dafür keine Haftung übernimmt. Eine nachträgliche Bewilligung kann von den Käufern auf eigene Kosten beantragt werden.
+
+14d. Die Vertragsparteien vereinbaren, dass die Verkäuferin die Kosten einer etwaigen Vermessung bis zur Übergabe trägt, sofern das Vermessungsamt die Grenzen im Zuge der Einverleibung neu feststellt.
+
+14e. Die Käufer bestätigen, dass sie über die Lage der Liegenschaft im Gefahrenzonenplan der Wildbachverbauung informiert wurden. Die Verkäuferin übergibt hierzu einen Auszug der Gemeinde.
+
+IX. Abrechnung und Schlussübergabe
+
+15. Die Übergabe der Liegenschaft erfolgt am [[date|30. Oktober 2026]] durch Übergabe der Schlüssel und Verlesung des Übergabeprotokolls. Die Zählerstände werden gemeinsam festgehalten.
+
+16. Die Treuhandschaft ist mit der Eintragung im Grundbuch und der Auszahlung des Kaufpreises abgeschlossen. Der Treuhänder stellt den Parteien eine Schlussabrechnung zu.
+
 Anhang: Grundbuchsauszug (Auszug vom [[date|1. April 2026]])
 
 A1-Blatt: Grundstück [[land_register_id|895]], Bauf.(10), Gärten(10), Gesamtfläche 2.318 m²; Grundstücksadresse [[address|Dorfstraße 17, 5310 Innerschwand am Mondsee]]

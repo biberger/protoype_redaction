@@ -21,9 +21,11 @@ Tel. [[phone_number|0732/1949181-1]]
 
 Parteienblock der Klägerin:
 
-[[person|Gorani Vida]], geb [[date_of_birth|10. Juli 1984]]
-wohnhaft in
-[[address|9932 Innervillgraten]]
+[[person|Gorani
+Vida]], geb [[date_of_birth|10. Juli
+1984]], wohnhaft in
+[[address|9932
+Innervillgraten]]
 
 [[location|Wien]], am [[date|21. Oktober 2026]]
 
@@ -35,7 +37,7 @@ Wir ersuchen um Überprüfung der Ablehnung bis spätestens [[date|6. November 2
 
 Frau [[person|Anika Keplinger]], StA. [[country|Ukraine]], hat den Schaden am [[date|11. September 2026]] selbst gemeldet. Die Meldung ist im Anhang beigelegt. Die Schadensumme beträgt nach unserer Berechnung EUR 18.000,00 und entspricht der vereinbarten Versicherungssumme. Die Ablehnung durch die [[organization|Kloiber]] ist daher auch der Höhe nach nicht nachvollziehbar, weil die Gesellschaft bisher keinen Sachverständigen beauftragt hat.
 
-Wir weisen darauf hin, dass wir für den Fall einer weiteren Verzögerung die Einschaltung des zuständigen Gerichts prüfen werden. Eine Kopie dieses Schreibens geht an unsere Mandantin [[person|Gorani]] zur Kenntnis, die die Angelegenheit mit uns besprochen hat und die Schadensmeldung im Original aufbewahrt.
+Wir weisen darauf hin, dass wir für den Fall einer weiteren Verzögerung die Einschaltung des zuständigen Gerichts prüfen werden. Eine Kopie dieses Schreibens geht an unsere Mandantin [[person|Gorani]] zur Kenntnis, die die Angelegenheit mit uns besprochen hat und die Schadensmeldung im Original aufbewahrt. Wir bitten um schriftliche Rückmeldung unter Angabe der Geschäftszahl. Für Rückfragen stehen wir gerne zur Verfügung. Wir danken.
 
 Mit freundlichen Grüßen
 

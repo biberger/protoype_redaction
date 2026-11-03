@@ -60,11 +60,29 @@ Am Pkw der Lenkerin [[person|Vobornik]] wurden die Heckklappe, die Stoßstange u
 
 Der geschätzte Gesamtschaden von rund EUR 6.300,00 setzt sich aus den Reparaturkosten und einer Wertminderung zusammen. Die Werkstatt in [[location|St. Lorenzen]] hat einen Kostenvoranschlag zugesagt.
 
+**4c. Verkehrsrechtliche Einordnung**
+
+Der Lenker [[person|Zinner]] hat nach den Feststellungen der Beamten den Sicherheitsabstand im Sinne des [[legal_norm|§ 18 Abs 1 StVO]] nicht eingehalten. Die Lenkerin [[person|Vobornik]] hat ihr Fahrzeug nach den Feststellungen ordnungsgemäß angehalten; ein Verstoß gegen [[legal_norm|§ 11 StVO]] zu Lasten der Lenkerin ist nicht erkennbar. Der Unfall ereignete sich bei trockener Fahrbahn und guter Sicht; eine Überhöhung der Geschwindigkeit durch den Lenker [[person|Zinner]] konnte nicht festgestellt werden.
+
+Die Beamten haben bei der Einordnung berücksichtigt, dass der Lieferwagen die Sicht eingeschränkt hat. Ein Verstoß des Lieferwagenlenkers ist nach den bisherigen Ermittlungen nicht gegeben, da dieser ordnungsgemäß geparkt war.
+
+**4d. Verwaltungsrechtliche Hinweise**
+
+Die Anzeige wird an die zuständige Behörde weitergeleitet, die über die Verwaltungsübertretung zu entscheiden hat. Der Lenker [[person|Zinner]] wurde darauf hingewiesen, dass er sich zur Anzeige äußern kann und dass die Angaben vor der Behörde freiwillig sind. Die Lenkerin [[person|Vobornik]] wurde als Zeugin im Verwaltungsverfahren angeführt.
+
+Die Beteiligten wurden über die Möglichkeit informiert, bei der Versicherung einen Schaden zu melden. Die Meldung ist ohne Verzug an die Versicherung zu richten, damit die Regulierung der Schäden zügig erfolgen kann.
+
+**4e. Zusammenfassung der Angaben**
+
+Zusammenfassend ergibt sich aus den Angaben der Lenkerin [[person|Vobornik]], des Lenkers [[person|Zinner]], der Beifahrerin [[person|Gärtner]] und der Zeugin [[person|Neff]], dass der Pkw der Lenkerin [[person|Vobornik]] vor einer Ampel angehalten hat und das nachfolgende Fahrzeug auf diesen Pkw aufgefahren ist. Der Lenker [[person|Zinner]] hat den Umstand bestätigt, dass er den Bremsvorgang zu spät eingeleitet hat. Die Angaben der Beteiligten stimmen in diesem Punkt überein.
+
+Die Beamten [[person|Kaltenegger]] und [[person|Zauner]] haben die Angaben in der Unfallskizze und den Lichtbildern festgehalten. Die Unfallskizze wurde den Beteiligten zur Kenntnis gebracht; es wurden keine Einwendungen erhoben.
+
 **5. Anzeige**
 
 Gegen den Lenker [[person|Zinner]] wird wegen des Verdachts der Verletzung des Sicherheitsabstandes eine Anzeige erstattet. Die Anzeige wird an die Bezirkshauptmannschaft übermittelt. Die Beteiligten wurden auf die Frist zur Meldung an die Versicherung hingewiesen.
 
-Die Unfallstelle wurde nach der Aufnahme freigegeben. Die Fahrzeuge konnten aus eigener Kraft weggebracht werden.
+Die Unfallstelle wurde nach der Aufnahme freigegeben. Die Beteiligten bestätigten die Richtigkeit des Protokolls. Die Fahrzeuge konnten aus eigener Kraft weggebracht werden.
 
 Unterschrift: [[person|Florian Kaltenegger]], GrInsp.
 Dienstnummer [[other_identifier|K-2290]]

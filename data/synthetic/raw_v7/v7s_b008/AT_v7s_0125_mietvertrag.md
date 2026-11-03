@@ -28,7 +28,7 @@ I. Vertragsgegenstand
 
 2. Die Liegenschaft ist im Grundbuch des [[court|Bezirksgerichtes Donaustadt]] unter [[land_register_id|EZ1693]] [[land_register_id|GB Großebersdorf]] eingetragen. Die Vermieterin erklärt, Eigentümerin der Liegenschaft zu sein oder zur Vermietung berechtigt zu sein.
 
-3. Die Vermieterin ist in der Lage, das Bestandobjekt am [[date|1. Dezember 2026]] in ordnungsgemäßem Zustand zu übergeben.
+3. Die [[organization|Stapf]] ist in der Lage, das Bestandobjekt am [[date|1. Dezember 2026]] in ordnungsgemäßem Zustand zu übergeben.
 
 II. Mietdauer
 
@@ -58,7 +58,7 @@ V. Übergabe und Zustand
 
 2. Die Mieterin hat für die Dauer des Mietverhältnisses die Kosten für Kleinreparaturen im Sinne des [[legal_norm|§ 6 Abs 1 Z 4 MRG]] zu tragen, soweit diese EUR 90,00 im Einzelfall nicht übersteigen.
 
-3. Die Vermieterin stellt der Mieterin einen Schlüsselsatz von drei Schlüsseln, einen Briefkastenschlüssel und einen Schlüssel für den Kellerabstellraum zur Verfügung.
+3. Die Vermieterin stellt der Mieterin einen Schlüsselsatz von drei Schlüsseln, einen Briefkastenschlüssel und einen Schlüssel für den Kellerabstellraum zur Verfügung. Die Übergabe erfolgt gegen Quittung.
 
 4. Die Mieterin hat die Wohnung bei Beendigung des Mietverhältnisses in dem Zustand zurückzustellen, der dem üblichen Gebrauch entspricht. Schönheitsreparaturen, die nach Ablauf von fünf Jahren fällig werden, trägt die Vermieterin.
 

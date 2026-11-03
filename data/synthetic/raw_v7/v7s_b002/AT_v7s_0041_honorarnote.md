@@ -50,7 +50,13 @@ Zu zahlender Betrag: EUR 2.135,60
 
 Das Honorar wurde gemäß der Honorarvereinbarung vom [[date|3. März 2026]] berechnet. Barauslagen sind nach dem tatsächlichen Aufwand verrechnet und unterliegen nicht der Umsatzsteuer. Bei verspäteter Zahlung behalten wir uns Verzugszinsen nach [[legal_norm|§ 1333 ABGB]] vor. Die Honorarnote ist binnen 14 Tagen ab Rechnungsdatum auf das Konto der Kanzlei zu überweisen.
 
+Die Leistungen wurden nach dem tatsächlich angefallenen Zeitaufwand verrechnet. Der Stundensatz für Rechtsanwälte beträgt EUR 220,00 netto, für die Ausarbeitung von Schriftsätzen wurde ein Pauschalsatz vereinbart. Die Zeitaufzeichnungen liegen in der Kanzlei zur Einsicht auf.
+
+Die Leistung vom [[date|12. Mai 2026]] umfasst den Entwurf der Klage samt Beilagen. Die Schriftsätze wurden am [[date|15. Mai 2026]] über den ERV eingebracht. Die Vergleichsverhandlung vom [[date|15. Juni 2026]] blieb ohne Ergebnis, weshalb die Klage fortgesetzt wird.
+
 Auf die bereits geleisteten Vorschüsse von EUR 1.000,00 (Zahlung vom [[date|10. März 2026]]) wurde Rücksicht genommen; der Restbetrag ist somit EUR 2.135,60. Wir ersuchen, bei der Überweisung den Verwendungszweck anzugeben. Bei Rückfragen zur Abrechnung wenden Sie sich bitte an die Kanzlei unter der oben angeführten Telefonnummer.
+
+Sollte die Zahlung nicht fristgerecht eingehen, erlauben wir uns, eine Zahlungserinnerung zu übersenden. Für Zahlungen, die später als 30 Tage nach Rechnungsdatum eingehen, werden Mahnspesen von EUR 15,00 verrechnet. Wir danken für Ihr Vertrauen und stehen für weitere Fragen zur Verfügung.
 
 Zahlungsverbindung:
 IBAN [[bank_account|AT38 2291 4473 5422 0689]]

@@ -34,7 +34,9 @@ Die [[organization|MVAG]] hat bisher keine Zahlung geleistet. Wir fordern Sie da
 
 Sollte bis zum genannten Termin keine Zahlung eingehen, werden wir ohne weitere Ankündigung die Klage beim [[court|LG für ZRS Graz]] einbringen. Für diesen Fall behalten wir uns auch die Geltendmachung der Verzugszinsen vor.
 
-Die Kosten unserer Vertretung trägt Ihr Versicherungsnehmer, da der Unfall eindeutig auf dessen Verschulden beruht.
+Die Kosten unserer Vertretung trägt Ihr Versicherungsnehmer, da der Unfall eindeutig auf dessen Verschulden beruht. Unser Mandant hat den Pkw seit dem Unfall nicht benutzen können und musste einen Mietwagen für die Dauer von zehn Tagen anmieten. Die Mietkosten sind in der beiliegenden Aufstellung enthalten.
+
+Wir bitten um Mitteilung, ob die [[organization|MVAG]] den Schaden dem Grunde nach anerkennt. Sollte die [[organization|MVAG]] eine Haftung ablehnen, bitten wir um eine schriftliche Begründung, damit wir unsere Mandanten entsprechend beraten können. Eine Antwort bis zum genannten Termin wäre im Interesse aller Beteiligten.
 
 Mit freundlichen Grüßen
 

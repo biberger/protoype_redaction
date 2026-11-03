@@ -45,6 +45,8 @@ Gesamtbetrag brutto: EUR 3.738,48
 
 Die Leistungen betreffen den Pachtvertrag über die Liegenschaft [[land_register_id|KG: Weiten]], [[land_register_id|EZ. 436]], die im Grundbuch auf die Kreulitsch KG eingetragen ist. Die Pachtzahlungen für das Jahr 2026 sind zum Teil noch offen; die Rückstände sind in der Abrechnung nicht gesondert ausgewiesen, weil die Mieter ihre Zahlungen mündlich zugesagt haben.
 
+Bitte prüfen Sie die Positionen und teilen Sie uns Einwendungen binnen 14 Tagen mit, andernfalls gehen wir von der Richtigkeit der Abrechnung aus. Die Zeitangaben sind auf Zehntelstunden gerundet und die Umsatzsteuer ist gesondert ausgewiesen. Wir danken für Ihr Vertrauen.
+
 Zahlbar binnen 14 Tagen auf das Konto der Kanzlei, IBAN [[bank_account|AT95 3663 8618 4519 1436]]. Bitte geben Sie bei der Zahlung die Klientennummer [[other_identifier|38062]] an.
 
 Bei Rückfragen erreichen Sie uns unter Tel. [[phone_number|0316/8558900 DW 988]].

@@ -70,6 +70,8 @@ Die Entscheidung des Disziplinarrates, eine Geldbuße von EUR 5.000,00 zu verhä
 
 Der Senat nimmt Bezug auf die Entscheidung des [[court|OGH]] vom [[date|12.03.2024]], [[case_number|15 Ds 4/24]], wonach bei vergleichbaren Verstößen eine Geldbuße im Bereich von EUR 6.000,00 bis EUR 12.000,00 angemessen ist. Die Entziehung der Berufsberechtigung ist im vorliegenden Fall nicht geboten, da die Beschuldigte bisher keine Vermögensschäden verursacht hat. Der Senat berücksichtigt bei der Bemessung auch, dass die Beschuldigte die Abrechnung gegenüber der Mandantin [[person|Oberhofer]] nachträglich vorgelegt hat und dass die Mandantin den Restbetrag ohne Forderung akzeptiert hat. Eine Herabsetzung der Geldbuße unter EUR 9.000,00 kommt daher nicht in Betracht, weil die Verwahrung fremder Gelder einen besonders schweren Verstoß gegen die Berufspflichten darstellt.
 
+Der Senat hat weiter erwogen, dass die Beschuldigte den Mandanten [[person|Kranzl]] über die Verzögerung der Treuhandeintragung nicht informiert hat. Eine Information der Mandanten über den Stand der Treuhandschaft ist nach den Richtlinien geboten. Die Unterlassung dieser Information wiegt schwer, weil der Mandant dadurch keine Möglichkeit hatte, die Zahlung rechtzeitig zu kontrollieren. Der Senat berücksichtigt diesen Umstand bei der Strafbemessung im Rahmen der erschwerenden Umstände.
+
 Spruch
 
 Der Berufung der Kammeranwaltschaft wird Folge gegeben. Der Beschluss des Disziplinarrates wird dahin abgeändert, dass über die Beschuldigte [[person|Ferencne Babits]] eine Geldbuße von EUR 9.000,00 verhängt wird. Im Übrigen bleibt der Beschluss unverändert.

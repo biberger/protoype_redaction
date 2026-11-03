@@ -72,6 +72,10 @@ Bitte beachten Sie, dass die Eingabegebühr auch dann anfällt, wenn das Grundbu
 
 Die Gesellschaft [[organization|Hartwig]] wird um eine Bestätigung des Zahlungseingangs gebeten. Für Rückfragen steht Ihnen unser Büro gerne zur Verfügung.
 
+Für die rasche Begleichung danken wir Ihnen.
+
+Die Stundenaufzeichnungen liegen der Kanzlei vor und können auf Verlangen eingesehen werden.
+
 Auf Wunsch übermitteln wir Ihnen eine Aufschlüsselung der Stunden je Mitarbeiter.
 
 Mit freundlichen Grüßen

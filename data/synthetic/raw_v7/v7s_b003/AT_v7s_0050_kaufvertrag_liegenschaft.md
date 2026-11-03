@@ -69,6 +69,8 @@ Die Käuferin [[person|Telli Bumin]] erklärt, dass sie die Liegenschaft zur Eig
 
 Die Käuferin hat eine Finanzierungszusage einer Bank über EUR 250.000,00 vorgelegt; der Restbetrag wird aus Eigenmitteln gedeckt. Die Treuhänderin ist berechtigt, vor der Auszahlung den Nachweis der Finanzierung zu verlangen.
 
+Die Vertragsparteien bestätigen, dass sie die Liegenschaft gemeinsam besichtigt haben.
+
 Erklärungen und Zustellungen sind an die jeweils angegebene Adresse in [[location|Traun]] zu übermitteln. Eine Änderung der Zustelladresse ist der Treuhänderin unverzüglich schriftlich mitzuteilen. Die Treuhänderin haftet nicht für Zustellungen, die infolge einer unterlassenen Mitteilung fehlgehen.
 
 **V. Schlussbestimmungen**

@@ -74,7 +74,7 @@ Der Senat stellt fest, dass die Beschuldigte die Buchungen erst nach Kenntnis de
 
 **Rechtsmittelbelehrung**
 
-Gegen diesen Beschluss steht der Beschuldigten und der Kammeranwältin die Berufung an die [[court|OBDK]] offen. Die Berufung ist binnen vier Wochen ab Zustellung bei dem Disziplinarrat einzubringen.
+Gegen diesen Beschluss steht der Beschuldigten und der Kammeranwältin die Berufung an die [[court|OBDK]] offen. Die Berufung ist binnen vier Wochen ab Zustellung bei dem Disziplinarrat einzubringen. Die Kosten einer Berufung trägt, wer sie einbringt, sofern die Berufung nicht Erfolg hat.
 
 [[location|Innsbruck]], am [[date|9. Juli 2026]]
 

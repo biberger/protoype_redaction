@@ -102,6 +102,20 @@ Umsatzsteuer | 1.857,00
 
 Die Gesamtsumme beträgt EUR 11.142,00. Die Kosten sind mit dem Konto IBAN [[bank_account|AT49 3463 8131 1079 3325]] zu begleichen.
 
+Die Beklagte weist darauf hin, dass die Klägerin die Bauarbeiten während der Ferienzeit ohne Vorwarnung gerügt hat. Die Baustelle war zu diesem Zeitpunkt bereits seit drei Wochen abgeschlossen. Die Klägerin hat in der Klage keine Angaben zur Lage der Risse im Gebäude gemacht; diese Angaben wären jedoch für die Beurteilung der Kausalität erforderlich.
+
+VIII. Ergänzende Ausführungen zum Zeugen
+
+16. Der Zeuge [[person|Angrisano]] ist Nachbar der Klägerin. Er hat ein eigenes Interesse am Ausgang des Verfahrens, weil er selbst eine Schadensmeldung gegen das Land eingebracht hat. Seine Angaben sind daher mit Vorsicht zu würdigen.
+
+17. Die Sachverständige [[person|Fabjan Edythe]] hat die Schadenshöhe auf Grundlage eines Ortsaugenscheins ermittelt. Der Augenschein fand am [[date|28. Oktober 2026]] statt; die Klägerin war anwesend und hat die Risse selbst gezeigt.
+
+18. Die Klägerin hat die Gutachterkosten bis heute nicht bezahlt. Die Beklagte stellt daher den Antrag, die Klägerin zur Tragung der Kosten des Ortsaugenscheins zu verpflichten.
+
+19. Die Beklagte beantragt außerdem, die Klägerin zur Vorlage der Baustellenfotos vom Frühjahr 2025 zu verpflichten, weil diese den Zustand der Risse vor Beginn der Arbeiten dokumentieren.
+
+Die Beklagte behält sich vor, weitere Beweise anzubieten, sobald die Klägerin die vollständigen Unterlagen vorlegt. Die Beklagte ersucht um Anberaumung einer mündlichen Verhandlung nach Vorliegen der Ergänzungsgutachten. Dies gilt auch für die Frage, ob die Streitverkündete beizutreten hat.
+
 Beilagen:
 
 ./A Bauvertrag vom [[date|12. Mai 2025]]

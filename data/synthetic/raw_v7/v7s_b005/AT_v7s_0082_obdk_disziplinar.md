@@ -65,6 +65,26 @@ Die [[court|OBDK]] hat in seiner Rechtsprechung betont, dass die Verwahrung von 
 
 Der Beschuldigte hat den Rückzahlungsbetrag vollständig geleistet. Dies ist mildernd zu werten. Erschwerend wirkt, dass die Entnahmen ohne Wissen der Klienten erfolgten und dass der Beschuldigte die Abrechnungen erst nach Anzeige nachgeholt hat.
 
+Verfahrensgang
+
+Die Anzeige der Klienten ging am [[date|14. Februar 2025]] bei der [[organization|TRAK]] ein und wurde dem Disziplinarrat mit Bericht des Kammervorstands vom [[date|28. Februar 2025]] vorgelegt. Der Vorsitzende hat am [[date|10. März 2025]] die Einleitung eines Disziplinarverfahrens verfügt und den Kammeranwalt mit der Anklageschrift beauftragt. Die Anklageschrift wurde am [[date|22. April 2025]] eingebracht und dem Beschuldigten am [[date|29. April 2025]] zugestellt.
+
+Der Beschuldigte hat am [[date|20. Mai 2025]] eine schriftliche Rechtfertigung eingebracht. Darin erklärte er, dass die Honorarentnahmen auf Basis von Honorarvereinbarungen erfolgt seien, die mit den Klienten mündlich getroffen worden seien. Schriftliche Vereinbarungen lagen nicht vor. Der Beschuldigte bot an, die Abrechnungen nachträglich zu erstellen; diese wurden am [[date|3. November 2025]] übermittelt.
+
+Mit Beschluss vom [[date|12. Jänner 2026]] hat der Senat die Einvernahme der Klienten angeordnet. Die Einvernahmen fanden am [[date|12. Mai 2026]] statt.
+
+Beweiswürdigung
+
+Der Senat hat die Klienten [[person|Jodok Mikl]] und [[person|Grigor Colerus]] am [[date|12. Mai 2026]] als Zeugen einvernommen. Herr [[person|Mikl]] schilderte, dass er die Auszahlung vom [[date|4. Februar 2025]] nicht veranlasst habe und dass er vom Beschuldigten nie Rückfragen erhalten habe. Herr [[person|Colerus]] bestätigte die Angaben und ergänzte, dass er bei einer Besprechung am [[date|7. März 2025]] nach einem Abrechnungsentwurf gefragt, aber keinen erhalten habe.
+
+Die Aussagen der beiden Zeugen sind glaubwürdig, weil sie übereinstimmen und mit den Kontoauszügen im Einklang stehen. Der Senat hat keinen Anhaltspunkt dafür gefunden, dass die Zeugen einander abgesprochen haben. Dass beide Klienten die Honorarentnahmen nicht bemerkt haben, ist angesichts des Umstandes plausibel, dass die Kontoauszüge nur auf Anfrage übermittelt wurden.
+
+Die Verantwortung des Beschuldigten, mündliche Honorarvereinbarungen seien getroffen worden, konnte nicht bestätigt werden. Eine solche Vereinbarung hätte nach der Rechtsprechung des Disziplinarrats schriftlich festgehalten oder zumindest in einer Abrechnung dem Klienten mitgeteilt werden müssen. Der Beschuldigte hat weder eine Abrechnung noch eine Honorarnote vorgelegt, die den Entnahmen zuzuordnen gewesen wäre.
+
+Die Kanzleileiterin [[person|Brigitte Tschurtschenthaler]] hat als Zeugin ausgesagt, dass die Buchungen im Frühjahr 2025 von ihr nicht geprüft worden seien, weil der Beschuldigte die Freigabe selbst vorgenommen habe. Die Zeugin hat die Entnahmen nach Aufforderung des Beschuldigten in die Buchhaltung eingetragen, ohne die dazugehörigen Abrechnungen zu sehen.
+
+Der Antrag des Beschuldigten auf Vernehmung eines weiteren Zeugen aus dem Umfeld der Klienten wurde abgewiesen, weil nicht dargelegt wurde, welches Beweisthema damit belegt werden sollte. Der Senat hat die Verfahrensergebnisse insgesamt als ausreichend beurteilt.
+
 Strafbemessung
 
 Der Senat hat die Geldbuße nach [[legal_norm|§ 45 RAO]] unter Berücksichtigung der wirtschaftlichen Verhältnisse des Beschuldigten bemessen. Eine Verwarnung kommt nicht in Betracht, weil die Verletzungen zu wiederholten Pflichtverstößen führten.

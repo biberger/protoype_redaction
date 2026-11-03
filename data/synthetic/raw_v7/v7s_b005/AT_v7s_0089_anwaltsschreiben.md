@@ -40,6 +40,8 @@ Wir fordern Sie daher auf, bis spätestens [[date|20. November 2026]] die Mänge
 
 Sollte innerhalb dieser Frist keine Reaktion erfolgen, werden wir die Forderung ohne weitere Ankündigung gerichtlich beim [[court|Bezirksgericht Wels]] ([[court|BG Wels]]) einbringen. Die Verfahrenskosten werden in diesem Fall ebenfalls gefordert.
 
+Die Mängel betreffen insbesondere die Abdichtung des Flachdaches und die unfachgemäße Ausführung der Elektroinstallation im Obergeschoss. Eine Mängelbehebung durch Dritte wird von unserer Mandantin nur dann akzeptiert, wenn der Mangel innerhalb der genannten Frist beseitigt wird. Die Kosten einer Ersatzvornahme werden in diesem Fall ebenfalls geltend gemacht.
+
 Für Rückfragen steht Ihnen unser Büro unter Tel. [[phone_number|0316 422253 Kl. 89]] zur Verfügung.
 
 Mit freundlichen Grüßen

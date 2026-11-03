@@ -76,6 +76,16 @@ VI. Übergabe, Kosten und Schlussbestimmungen
 
 5. Dieser Vertrag wird in zwei gleichlautenden Ausfertigungen errichtet, wovon je eine den Vertragsteilen ausgehändigt wird.
 
+VII. Hinweise des Vertragsverfassers
+
+1. Der Verkäufer verpflichtet sich, bis zur Eintragung des Eigentumsrechts der Käuferin keine Verfügungen über die Liegenschaft zu treffen. Ein Vermerk über die Vertragsabsicht ist im Grundbuch nicht eingetragen und wird auch nicht beantragt.
+
+2. Die Käuferin bestätigt, dass ihr die Unterlagen über die Liegenschaft ausgehändigt wurden, insbesondere der Grundbuchsauszug, der Plan und die Betriebskostenaufstellung für das Vorjahr.
+
+3. Die Vertragsteile nehmen zur Kenntnis, dass die Vertragserrichtung keine steuerliche Beratung ersetzt. Eine Haftung für steuerliche Folgen wird nicht übernommen.
+
+4. Die Vertragsteile bestätigen, den Vertrag gelesen und verstanden zu haben. Änderungen der Angaben zu ihrer Person sind dem Vertragsverfasser unverzüglich bekanntzugeben.
+
 [[location|Techelsberg am Wörther See]], am [[date|14. Oktober 2026]]
 
 _______________________________

@@ -73,9 +73,13 @@ VIII. Rücktritt und Vertragsstrafe
 
 Für den Fall des Rücktritts durch die Käufer nach Ablauf der Frist behalten die Verkäufer die Anzahlung. Eine darüber hinausgehende Vertragsstrafe ist nicht vereinbart. Die Vertragsparteien verzichten auf die Geltendmachung eines Zurückbehaltungsrechts an der Anzahlung, solange die Lastenfreistellung nicht erfolgt ist.
 
-VIII. Schlussbestimmungen
+IX. Kosten und Abgaben
 
-Die Kosten dieses Vertrags trägt der Käufer. Die Grunderwerbsteuer wird vom Käufer getragen. Änderungen bedürfen der Schriftform. Die Vertragsparteien bestätigen, dass sie den Vertrag nach Belehrung über die Rechtsfolgen unterfertigen.
+Die Vertragserrichtungskosten, die Eintragungsgebühr und die Grunderwerbsteuer trägt der Käufer. Die Verkäufer tragen die Kosten der Löschung allfälliger Pfandrechte und die Kosten der Einholung der Lastenfreistellung. Die Vertragsparteien vereinbaren, dass die Kosten der Schätzung des Gebäudes von den Verkäufern getragen werden, sofern sie die Schätzung beauftragt haben.
+
+X. Schlussbestimmungen
+
+Die Kosten dieses Vertrags trägt der Käufer. Mündliche Nebenabreden bestehen nicht. Dieser Vertrag wird in vierfacher Ausfertigung errichtet; je eine Ausfertigung erhalten die Vertragsparteien, eine die Treuhänderin und eine das Grundbuchsgericht. Die Grunderwerbsteuer wird vom Käufer getragen. Änderungen bedürfen der Schriftform. Die Vertragsparteien bestätigen, dass sie den Vertrag nach Belehrung über die Rechtsfolgen unterfertigen.
 
 [[location|Sigleß]], am [[date|14. Oktober 2026]]
 

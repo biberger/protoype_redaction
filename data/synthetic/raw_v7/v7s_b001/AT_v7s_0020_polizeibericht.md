@@ -38,7 +38,7 @@ Die Lenkerin [[person|Paterno]] gab an, den Radfahrer erst im letzten Moment ges
 
 Feststellungen
 
-Die Fahrbahn war trocken. Die Sicht war gut. Der Pkw wies einen Schaden an der linken vorderen Stoßstange und am Kotflügel auf. Das Fahrrad wurde beschädigt. Die Bremsspuren ergaben eine Länge von 6,4 Meter.
+Die Fahrbahn war trocken. Die Sicht war gut. Die Ampelanlage an der Kreuzung war außer Betrieb und die Fahrbahnmarkierung war verblasst. Der Pkw wies einen Schaden an der linken vorderen Stoßstange und am Kotflügel auf. Das Fahrrad wurde beschädigt. Die Bremsspuren ergaben eine Länge von 6,4 Meter.
 
 Die Lenkerin wurde einer Atemalkoholkontrolle unterzogen. Das Ergebnis war negativ.
 
@@ -51,6 +51,8 @@ Der Sachverhalt erfüllt den Tatbestand der Übertretung nach [[legal_norm|§ 11
 Der Radfahrer ist gemäß [[legal_norm|§ 89 StVO]] auf dem Radweg zu fahren. Ob er den rechten Radweg benutzt hat, ist durch die Zeugen nicht abschließend geklärt.
 
 Die Anzeige wird am [[date|17. Oktober 2026]] an die Staatsanwaltschaft nicht übermittelt, da keine strafbare Handlung vorliegt.
+
+Die Lenkerin gab an, sie habe ihren Blinker gesetzt, dies sei jedoch wegen des Sonnenlichts nicht sichtbar gewesen. Dieses Vorbringen wurde protokolliert. Eine Entscheidung über die Frage des Vorrangs wird der Behörde vorbehalten.
 
 [[location|Ried im Innkreis]], am [[date|17. Oktober 2026]]
 

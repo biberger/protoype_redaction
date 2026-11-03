@@ -60,11 +60,17 @@ Die Erklärung des Beschuldigten zur Softwareumstellung wird nicht in Zweifel ge
 
 Die Verwahrung fremder Gelder ist eine Berufspflicht des Rechtsanwalts, die er nicht delegieren kann. Die Überweisung von Treuhandgeldern auf ein eigenes Konto ist unzulässig, auch wenn sie als Vorschuss bezeichnet wird. Die fehlende Eintragung im Treuhandbuch verletzt die Dokumentationspflicht.
 
+Die Anzeige umfasst zudem den Vorwurf, dass der Beschuldigte Honorarnoten nicht zeitgerecht erstellt hat. Dieser Vorwurf wurde im Verfahren nur teilweise bestätigt, weil die Honorarnote vom [[date|14. Januar 2026]] nach Abschluss des Vergleichs erstellt wurde und Leistungen aus dem Jahr 2024 betraf. Der Senat hat diesen Teil der Anzeige daher als Nebenpunkt gewertet, der die Strafe nicht erhöht.
+
+Die Zeugin, die in der Verhandlung als Klientin aussagte, hat zudem bestätigt, dass ihr der Beschuldigte die Angelegenheit mit dem Hinweis erklärt habe, die Auszahlung sei noch in Prüfung. Eine solche Auskunft ist nicht geeignet, die Verzögerung zu rechtfertigen.
+
 Die Kammer hat bei der Strafzumessung auch berücksichtigt, dass der Beschuldigte bisher keine Vorstrafen aufweist und über eine Kanzleiorganisation mit drei Angestellten verfügt. Die Pflichten zur Verwahrung fremder Gelder sind jedoch unabhängig von der Größe der Kanzlei einzuhalten. Die Verbuchungsfehler wären vermeidbar gewesen, wenn der Beschuldigte eine regelmäßige Kontrolle des Treuhandbuchs durchgeführt hätte.
 
 Die Geldbuße wurde nach dem Gewicht der Pflichtverletzung bemessen. Mildernd wirkte die Korrektur der Verbuchungen und die bisherige Unbescholtenheit. Erschwerend war die Zweckentfremdung von Treuhandgeld, die nicht bloß eine Verzögerung darstellt.
 
 Die Kosten des Verfahrens trägt der Beschuldigte gemäß [[legal_norm|§ 45 DSt]].
+
+Die Verfahrenskosten umfassen die Auslagen der Prüfung und die Kosten der Zeugenladungen. Eine Ersatzpflicht des Kammeranwalts besteht nicht, weil das Verfahren von der Kammer eingeleitet wurde und die Anzeige nicht mutwillig erstattet worden ist. Dies gilt auch für die Kostenentscheidung im Ganzen. Die Kammer weist darauf hin, dass die Zahlung der Geldbuße innerhalb von vier Wochen nach Rechtskraft zu erfolgen hat.
 
 Zustellung an den Beschuldigten und den Kammeranwalt. Gegen diesen Beschluss ist die Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] innerhalb von zwei Wochen zulässig.
 

@@ -56,6 +56,7 @@ Beweis:
 ./C Rechnung vom [[date|31. Juli 2023]]
 ./D Bürgschaftserklärung vom [[date|14. März 2023]]
 ./E Mahnschreiben vom [[date|4. Dezember 2025]] und [[date|8. Jänner 2026]]
+./F Niederschrift der Zeugin [[person|Lunzer]]
 Einvernahme der Zeugin [[person|Wilhelmine Lunzer]], die die Montage überwacht hat
 Parteienvernehmung der Zweitbeklagten
 
@@ -67,6 +68,12 @@ das [[court|Bezirksgericht Hollabrunn]] möge die Beklagten zur ungeteilten Hand
 
 Die Zuständigkeit des [[court|BG Hollabrunn]] ergibt sich aus [[legal_norm|§ 49 Abs 2 Z 5 JN]], weil die Erstbeklagte ihren Wohnsitz im Sprengel des Gerichtes hat. Die Zustellung der Klage an die Zweitbeklagte erfolgt nach [[legal_norm|§ 9 ZustG]] durch Übergabe an die Erstbeklagte.
 
+Die Erstbeklagte hat die Rechnung vom [[date|31. Juli 2023]] im August 2023 telefonisch bestätigt. Sie hat jedoch erklärt, die Restzahlung sei wegen eines Mangels an den Fenstern im Schlafzimmer zurückbehalten. Dieser Mangel wurde von der Klägerin am [[date|11. August 2023]] nachgebessert. Die Erstbeklagte hat die Nachbesserung in einem Schreiben vom [[date|18. August 2023]] ausdrücklich anerkannt, die Zahlung jedoch nicht aufgenommen.
+
+Die Zeugin [[person|Lunzer]] hat die Montage als Bauleiterin begleitet. Sie kann bestätigen, dass die Fenster ordnungsgemäß eingebaut wurden und die Erstbeklagte bei der Abnahme anwesend war. Die Zeugin [[person|Lunzer]] hat ihre Aussage vorab schriftlich festgehalten; die Niederschrift liegt als ./F bei.
+
+Die Zweitbeklagte [[person|Fischer]] hat in einem Gespräch mit der Klägerin am [[date|6. Februar 2026]] erklärt, sie sei zur Zahlung bereit, wenn ihr eine Ratenzahlung eingeräumt werde. Die Klägerin hat dem nicht zugestimmt, weil die Forderung bereits fällig war.
+
 Die Klägerin ist zur Vorlage eines Kostenverzeichnisses bereit. Die Pauschalgebühr wurde entrichtet.
 
 Rechtliche Ausführungen
@@ -76,6 +83,14 @@ Der Werkvertrag verpflichtet den Unternehmer zur mangelfreien Herstellung und de
 Die Bürgschaft der Zweitbeklagten ist schriftlich erklärt und damit wirksam. Die Zweitbeklagte haftet als Ausfallsbürgin, weil die Erstbeklagte zahlungsunfähig ist.
 
 Zur Mahnung: Die Schreiben vom [[date|4. Dezember 2025]] und [[date|8. Jänner 2026]] wurden per Post versandt. Der Zugang ist durch die Übernahme nachgewiesen.
+
+Die Klägerin hat die Pflichten aus dem Werkvertrag erfüllt. Sie hat das Werk mängelfrei übergeben, die Mängelrüge wurde fristgerecht behoben. Ein Zurückbehaltungsrecht besteht daher nicht. Die Erstbeklagte hat den Auftrag als Verbraucherin erteilt. Ein Verstoß gegen [[legal_norm|§ 6 KSchG]] liegt nicht vor, weil die Vertragsbestimmungen im Auftragsschreiben klar und verständlich formuliert waren.
+
+Die Klägerin hat die Forderung der Erstbeklagten mit Schreiben vom [[date|28. Jänner 2026]] bestätigt und einen Zahlungsplan angeboten. Der Plan sah vor, den Restbetrag in monatlichen Raten von EUR 500,00 zu begleichen. Die Erstbeklagte hat das Angebot nicht angenommen und keine Zahlung geleistet.
+
+Die Zweitbeklagte wurde die Klage ebenfalls zugestellt; sie hat bis zum Zeitpunkt dieses Schriftsatzes keine Einwendungen erhoben. Die Klägerin ersucht das Gericht, im Falle eines Anerkenntnisses der Erstbeklagten einen Zahlungsbefehl nach [[legal_norm|§ 448 ZPO]] zu erlassen.
+
+Die Erstbeklagte hat zudem in ihrem Schreiben vom [[date|3. Februar 2026]] behauptet, die Ware sei nicht vollständig geliefert worden. Die Klägerin bestreitet dies; der Lieferschein vom [[date|21. Juli 2023]] ist von der Erstbeklagten unterfertigt.
 
 Die Kostenentscheidung stützt sich auf [[legal_norm|§ 41 ZPO]] und [[legal_norm|§ 54 ZPO]].
 

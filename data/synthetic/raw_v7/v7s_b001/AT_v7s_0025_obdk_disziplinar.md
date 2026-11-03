@@ -85,17 +85,31 @@ Die Geldbuße ist unter Berücksichtigung der Vermögensverhältnisse des Beschu
 
 V. Strafbemessung
 
-Die Kammer hat die Geldbuße unter Berücksichtigung der Schwere des Vergehens und der finanziellen Verhältnisse des Beschuldigten bemessen. Die Geldbuße ist binnen vier Wochen ab Rechtskraft auf das Konto der Kammer zu zahlen.
+Die Kammer hat die Geldbuße unter Berücksichtigung der Schwere des Vergehens und der finanziellen Verhältnisse des Beschuldigten bemessen. Die Geldbuße ist binnen vier Wochen ab Rechtskraft auf das Konto der Kammer zu zahlen. Die Kammer hat die Vermögensverhältnisse des Beschuldigten nach den vorgelegten Steuerbescheiden für die Jahre 2024 und 2025 beurteilt. Das Einkommen aus der Kanzlei lag im Jahr 2025 bei rund EUR 64.000,00 brutto.
+
+Die Verteidigung hat beantragt, von einer Geldbuße abzusehen. Dieser Antrag wurde abgewiesen, weil die Treuhandpflichten nach [[legal_norm|§ 43a RAO]] nicht nur formale Bedeutung haben. Ein Verweis allein wäre nach Ansicht des Senates nicht ausreichend. Die Kosten des Verfahrens wurden in der Verhandlung bekannt gegeben; eine Aufstellung liegt dem Akt bei.
 
 VI. Kosten
 
 Die Kosten des Verfahrens sind dem Beschuldigten aufzuerlegen. Die Kosten umfassen die Pauschalgebühr und die Schreibauslagen. Sie werden mit EUR 1.240,00 bestimmt.
+
+VIII. Vorbringen des Klienten
+
+Der Klient [[person|Ferdinand Oberbauer]] hat in einer schriftlichen Äußerung vom [[date|6. Mai 2026]] angegeben, er habe den Beschuldigten im Frühjahr 2021 mit dem Kauf eines Hauses beauftragt. Das Haus sei bis heute nicht übergeben worden, und der Verkäufer habe den Kaufpreisanteil nie erhalten. Er habe mehrmals versucht, den Beschuldigten zu erreichen, jedoch ohne Erfolg. Der Klient verlangt die Rückzahlung des Restbetrages samt Zinsen. Diese Forderung ist nicht Gegenstand dieses Verfahrens; der Senat weist den Klienten auf den Zivilrechtsweg hin.
+
+Der Beschuldigte hat zu diesem Vorbringen keine Stellung genommen. Der Senat hält fest, dass die Verantwortung des Beschuldigten insoweit unvollständig geblieben ist. Die Angaben des Klienten wurden durch die vorgelegten Bankunterlagen bestätigt.
+
+Der Senat hat außerdem geprüft, ob eine Unterbrechung der Berufsausübung angeordnet werden muss. Dies wurde verneint, weil der Beschuldigte seine Kanzlei seit dem [[date|1. Juli 2026]] unter Aufsicht eines Substituten führt und keine weiteren Treuhandgelder entgegennimmt.
 
 VII. Rechtsmittel
 
 Gegen diese Entscheidung ist die Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] zulässig. Die Berufung ist binnen vier Wochen ab Zustellung schriftlich bei der [[organization|TRAK]] einzubringen. Die [[court|OBDK]] entscheidet über das Rechtsmittel.
 
 Die Kammeranwältin hat in der Verhandlung die Anklage vertreten. [[person|Hatz]] hat das Protokoll geführt. Die Bemerkungen des Senates zur Sorgfaltspflicht bei der Verwaltung von Treuhandgeldern sind den Vertretern der Rechtsanwaltskammern zur Kenntnis zu bringen.
+
+IX. Hinweise an die Kammer
+
+Die Kammer wird ersucht, die Treuhandkontrolle für die Kanzlei des Beschuldigten im Jahr 2027 zu verstärken. Der Senat empfiehlt, die Kontoauszüge monatlich vorzulegen. Eine Abschrift dieser Entscheidung ist der Kammeranwältin [[person|Konrath]] zu übermitteln. Der Senat bittet die Kammer außerdem um Mitteilung, ob der Klient Schadenersatz verlangt hat. Die Entscheidung ergeht einstimmig und wird den Parteien durch Übergabe zugestellt. Der Senat dankt der Kammerverwaltung für die rasche Bearbeitung der Anzeige und die Vorlage der Unterlagen.
 
 [[location|St. Valentin]], am [[date|24. September 2026]]
 

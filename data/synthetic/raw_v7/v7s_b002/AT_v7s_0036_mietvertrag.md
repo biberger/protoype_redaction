@@ -86,6 +86,16 @@ VI a. Nutzung und Hausordnung
 
 15e. Die Vermieterin übernimmt keine Haftung für Schäden, die durch Dritte oder durch höhere Gewalt verursacht werden, soweit dies gesetzlich zulässig ist.
 
+VI c. Zutritt, Lärm und Sicherheit
+
+12d. Die Vermieterin ist berechtigt, die Wohnung nach vorheriger Ankündigung zur Ablesung der Wärmemesser und zur Überprüfung der Rauchmelder zu betreten. Die Ankündigung hat mindestens drei Werktage vorher zu erfolgen.
+
+12e. Die Mieter haben dafür zu sorgen, dass von der Wohnung keine Lärmbelästigung für die übrigen Bewohner ausgeht. Musikinstrumente dürfen nur zu den in der Hausordnung genannten Zeiten gespielt werden.
+
+12f. Die Vermieterin stellt im Stiegenhaus Rauchmelder bereit, deren Wartung in den Verantwortungsbereich der Mieter fällt. Die Batterien sind jährlich zu wechseln.
+
+12g. Der Mieter haftet für Schäden, die durch Gäste oder Besucher in der Wohnung oder im Hausbereich verursacht werden, wie für eigene Schäden.
+
 VII. Schlussbestimmungen
 
 19. Änderungen und Ergänzungen dieses Vertrages bedürfen der Schriftform. Mündliche Nebenabreden bestehen nicht.

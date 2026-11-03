@@ -73,6 +73,16 @@ Die Erbinnen und Erben haben vereinbart, dass [[person|Dufek]] die Einrichtungsg
 
 Das Testament vom [[date|3. Mai 2019]] enthält zusätzlich eine Auflage, wonach die Grabpflege bis zum Ablauf von fünf Jahren durch [[person|Sarwari]] zu besorgen ist. Die Kosten dafür sind aus dem Nachlass zu bestreiten und in der Passivseite nicht gesondert ausgewiesen.
 
+**VI b. Anmerkungen zu den Gläubigerforderungen**
+
+Die Forderung der Gläubigerin [[person|Cecily DI Stauder]] wurde durch Vorlage des Darlehensvertrages vom [[date|12. Juni 2019]] belegt. Die Rückzahlungsraten wurden bis zum Todestag der Erblasserin regelmäßig geleistet; der offene Restbetrag ist im Passivstand ausgewiesen. Die Zinsen wurden nach dem vereinbarten Satz berechnet.
+
+Die Erbinnen und Erben haben die Liegenschaft nicht vor der Einantwortung veräußert. Eine Verwertung der Liegenschaft zur Befriedigung der Gläubigerin ist nur erforderlich, falls die Verlassenschaft mit den übrigen Aktiva nicht ausreicht. Nach dem derzeitigen Stand ist dies nicht der Fall.
+
+Die Lebensversicherung wurde von der Erbin [[person|Dufek]] am [[date|8. Jänner 2024]] der Versicherungsgesellschaft angezeigt. Die Auszahlung erfolgt unmittelbar an die Bezugsberechtigte und ist daher nicht Teil des Nachlassvermögens.
+
+Die Erbinnen und Erben wurden darauf hingewiesen, dass die Einantwortung erst nach Vorliegen der Steuerunbedenklichkeitsbescheinigung erfolgen kann.
+
 **VII. Schlussbemerkung**
 
 Der Notar hat die Erbinnen und Erben darüber belehrt, dass die Erbantrittserklärung nur nach vollständiger Inventarisierung abgegeben werden kann. Die Abhandlung wird nach Eintritt der Rechtskraft der Einantwortungsurkunde beendet.

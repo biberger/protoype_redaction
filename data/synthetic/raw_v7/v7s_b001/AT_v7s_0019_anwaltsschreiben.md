@@ -33,7 +33,7 @@ Das gegnerische Fahrzeug war auf die [[organization|Miksch e.U.]] (in der Folge 
 
 Als Zeuge hat sich [[person|Sacha Landgrebe]] gemeldet, der den Unfall vom Gehsteig aus beobachtet hat. Er hat dem Vertreter der Mandantin schriftlich bestätigt, dass [[person|Bonelli]] beim Zurücksetzen nicht geblinkt und den Gegenverkehr nicht beachtet hat.
 
-Die Schadensmeldung haben wir am [[date|4. September 2026]] an Ihre Schadenabteilung übermittelt. Die Mandantin hat dort ihr Fahrzeug und die Heckschäden an der Stoßstange, der Heckklappe und am Rücklicht gemeldet.
+Die Schadensmeldung haben wir am [[date|4. September 2026]] an Ihre Schadenabteilung übermittelt. Die Mandantin hat dort ihr Fahrzeug und die Heckschäden an der Stoßstange, der Heckklappe und am Rücklicht gemeldet. Die Mandantin ist über den bisherigen Verlauf der Schadensregulierung nicht zufrieden.
 
 Die bisherige Bearbeitung durch [[person|MMag. Betta Bormolini]] hat zu keinem Ergebnis geführt. Frau [[person|Bormolini]] hat mit Schreiben vom [[date|14. September 2026]] lediglich eine Teilzahlung angekündigt, die bis heute nicht erfolgt ist.
 
@@ -53,6 +53,8 @@ b) EUR 240,00 für den Nutzungsausfall über sechs Tage,
 c) EUR 85,00 als Pauschale für die vorprozessuale Vertretung.
 
 Sollte Ihr Versicherungsnehmer nicht innerhalb dieser Frist zahlen, werden wir ohne weitere Ankündigung die gerichtliche Geltendmachung einleiten. Wir verweisen auf die Haftung nach [[legal_norm|§ 1310 ABGB]] und auf die Verpflichtung des Halters nach [[legal_norm|§ 19 EKHG]].
+
+Wir behalten uns sämtliche weiteren Ansprüche, insbesondere auf Ersatz des immateriellen Schadens und der Anwaltskosten, ausdrücklich vor.
 
 Bitte richten Sie Ihre Antwort unter Angabe der Ihnen bekannten Zeichen an unsere Kanzlei.
 

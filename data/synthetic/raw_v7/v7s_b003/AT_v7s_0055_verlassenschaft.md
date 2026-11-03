@@ -91,6 +91,8 @@ Die Verlassenschaft wird nach Abschluss der Abhandlung geschlossen. Ein Abdruck 
 
 [[location|St. Michael im Lungau]], am [[date|17. Juni 2022]]
 
+Die Beteiligten haben nach Belehrung über die Rechtsmittelfrist auf Rechtsmittel verzichtet.
+
 Die Abhandlung schließt mit der Unterschrift des Gerichtskommissärs.
 
 ____________________________

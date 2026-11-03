@@ -76,7 +76,7 @@ Liebe Frau [[person|Pertl]],
 
 ich habe heute mit Herrn [[person|Dr. Karassyk]] telefoniert. Er hat mir bestätigt, dass die Fahrerin der [[organization|Schilcher GmbH]] die Vorfahrt nicht beachtet hat. Die Zahlung meines Selbstbehalts von EUR 500,00 habe ich am [[date|6. Juni 2025]] über die [[organization|Raiffeisenbank Empersdorf registrierte Genossenschaft mit beschränkter Haftung]] (kurz [[organization|RB Empersdorf]]) veranlasst. Die Bankverbindung der Kanzlei kennen Sie ja.
 
-Mein Auto steht noch in der Werkstatt in Stans. Die [[organization|Schilcher]] hat dazu bisher nichts gesagt.
+Mein Auto steht noch in der Werkstatt in [[location|Stans]]. Die [[organization|Schilcher]] hat dazu bisher nichts gesagt.
 
 Viele Grüße
 [[person|Madjid Daftari]]
@@ -104,3 +104,24 @@ Mit freundlichen Grüßen
 Rechtsanwältin
 [[lawyer|Nayla Mag. Dr. Fahim]]
 T: [[phone_number|+43 316 507 16 32 Durchwahl 75]]
+
+---
+
+**Nachricht 5 von 5**
+
+**Von:** [[person|Pascale Pertl]] <[[email|office@wolfsberger.at]]>
+**Gesendet:** Freitag, [[date|20. Juni 2025]] 11:48
+**An:** [[lawyer|Nayla Mag. Dr. Fahim]] <[[email|n.fahim@schilcher-recht.at]]>
+**Cc:** [[person|Madjid Daftari]]
+**Betreff:** AW: Schadennummer [[other_identifier|83/200880/25]]
+
+Sehr geehrte Frau [[lawyer|Fahim]],
+
+wir nehmen den Vergleichsvorschlag zur Kenntnis, können ihn aber nicht annehmen, solange die [[organization|Schilcher GmbH]] keine Auskunft über die Fahrerin erteilt. Mein Mandant ersucht um die Übermittlung des Unfallprotokolls der [[organization|Schilcher]] sowie der Werkstattrechnung für das Fahrzeug der Gegenseite.
+
+Die Zahlung des Selbstbehalts wurde inzwischen nachgereicht, der Verwendungszweck lautet nunmehr auf die Schadennummer. Eine Bestätigung der [[organization|RB Empersdorf]] liegt bei.
+
+Mit freundlichen Grüßen
+
+[[person|Pascale Pertl]], Rechtsanwaltsassistentin
+T: [[phone_number|+43 316 507 16 32 Durchwahl 75]]  F: [[phone_number|03842/8049137-85]]

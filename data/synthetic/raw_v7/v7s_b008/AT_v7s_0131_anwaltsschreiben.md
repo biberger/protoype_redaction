@@ -32,6 +32,8 @@ Die Liegenschaft, auf der sich der Betrieb befindet, ist im Grundbuch wie folgt 
 
 Wir beantragen daher, die Beklagte zur Zahlung der Abfertigung samt Zinsen zu verpflichten. Zudem beantragen wir, die Beklagte zur Vorlage der Lohnunterlagen aufzufordern und eine mündliche Verhandlung anzuberaumen. Eine Stellungnahme der Klägerin zu den Gegenvorbringen behalten wir uns vor.
 
+Die Klägerin ist bereit, an einer außergerichtlichen Einigung mitzuwirken, sofern die Beklagte die Abfertigung vollständig und fristgerecht bezahlt. Ein Vergleichsvorschlag wird nach Eingang Ihrer Stellungnahme übermittelt. Für Rückfragen steht Ihnen die zuständige Sachbearbeiterin unter der angegebenen Telefonnummer zur Verfügung.
+
 Mit vorzüglicher Hochachtung
 
 [[lawyer|Mag. Waldtraud Holländer]]

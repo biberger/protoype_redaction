@@ -66,7 +66,7 @@ Die Summe ergibt EUR 27.350,00.
 
 5. Die Zuständigkeit des [[court|BG Innere Stadt Wien]] ergibt sich aus [[legal_norm|§ 49 JN]], weil der Schaden in [[location|Wien]] eingetreten ist.
 
-**II a. Vorbringen zur Haftung der Republik Österreich**
+**II a. Vorbringen zur Haftung der [[country|Republik Österreich]]**
 
 Die [[country|Republik Österreich]] ist als Auftraggeberin der Sanierungsarbeiten mitverantwortlich, soweit sie die Aufsicht über die Baustelle nicht ordnungsgemäß geführt hat. Die zuständige Straßenmeisterei hat die Baustelle am [[date|3. Oktober 2024]] besichtigt und die fehlende Absperrung nicht beanstandet. Die Klägerin hat die Republik in der Schadensmeldung vom [[date|10. Oktober 2024]] ausdrücklich auf diesen Umstand hingewiesen. Die [[organization|Finanzprokuratur]] hat darauf mit Schreiben vom [[date|25. November 2024]] erwidert, dass die Haftung dem Grunde nach bestritten werde.
 
@@ -78,9 +78,19 @@ Die Beklagte [[person|Polášková]] hatte die Bauleitung in der Zeit vom [[date
 
 Die Klägerin wurde durch den Schaden in ihrem Wohnrecht an der Einfriedung beeinträchtigt. Das Wohnrecht an der Liegenschaft [[land_register_id|E.Z. 513]] ist im Grundbuch angemerkt und umfasst die ungestörte Nutzung der Einfriedung.
 
+Die Beklagte [[person|Polášková]] hat im Vorverfahren ihre Verantwortung auf Anweisungen der [[organization|SG]] gestützt. Eine schriftliche Weisung, die die Absperrung ausdrücklich ausgeschlossen hätte, liegt jedoch nicht vor. Das Bautagebuch ist unvollständig geführt; die Eintragungen für die Tage vom [[date|1. Oktober 2024]] bis zum [[date|3. Oktober 2024]] fehlen.
+
 **III. Beweise**
 
 Die Klägerin beantragt die Einvernahme der Beklagten [[person|Polášková]], die Beiziehung der Bauakten und die Einholung eines Sachverständigengutachtens aus dem Fachgebiet Straßenbau.
+
+**III a. Ergänzende Ausführungen zur Schadenshöhe**
+
+Der Sachverständige [[person|Reinhard Mayrhofer]] hat die Schadenshöhe in seinem Gutachten vom [[date|18. Februar 2025]] bestätigt. Die Wertminderung der Liegenschaft beruht auf der dauerhaften Beeinträchtigung der Einfriedung, die nach Auskunft des Gutachters nicht mehr vollständig hergestellt werden kann. Die Gutachterkosten sind durch die Rechnung vom [[date|10. Februar 2025]] belegt; die Rechnung wurde am selben Tag von der Klägerin beglichen. Die Wertminderung wurde im Ertragswertverfahren ermittelt und vom Gutachter ausführlich begründet.
+
+Die entgangene Nutzung des Weges wurde auf Grundlage der Verkehrszählung der zuständigen Gemeinde berechnet. Die Klägerin hat diese Zählung als Beilage ./E vorgelegt. Die Berechnung unterstellt eine Nutzungsdauer von sechs Monaten, in denen der Weg nur eingeschränkt befahrbar war.
+
+Der Beweisanbot umfasst im Übrigen die Vernehmung des Sachverständigen [[person|Mayrhofer]] zur Frage, ob die Einfriedung wiederhergestellt werden kann, und die Vorlage der Bauakten der [[organization|SG]] bei der zuständigen Behörde.
 
 **IV. Anträge**
 

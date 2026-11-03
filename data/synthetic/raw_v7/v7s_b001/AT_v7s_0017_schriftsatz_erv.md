@@ -72,6 +72,12 @@ Der Zweitbeklagte haftet nur dann, wenn er die Montage selbst vorgenommen hat. D
 
 Die Kosten dieses Verfahrens sind nach [[legal_norm|§ 41 ZPO]] zu ersetzen.
 
+Die Klägerin hat die Lagerhalle nach dem Schadensfall für die Dauer der Sanierung nicht nutzen können. Die Lagerware wurde in einer externen Halle untergebracht. Die Kosten dafür sind nicht Gegenstand dieser Klage; die Klägerin behält sich deren Geltendmachung vor. Die Rechnungen der Fremdlagerung werden auf Verlangen vorgelegt.
+
+Die Beklagten haben die Sanierung nicht selbst durchgeführt. Die Klägerin hat deshalb einen Fachbetrieb beauftragt, dessen Angebot vom [[date|4. August 2025]] stammt. Die Kosten des Fachbetriebs sind im Schadensbetrag von EUR 11.200,00 enthalten. Die Arbeiten wurden am [[date|30. Oktober 2025]] abgeschlossen. Die Abnahme erfolgte ohne Beanstandung und ohne Vorbehalt.
+
+Die Klägerin hat die Beklagten mit Schreiben vom [[date|11. Juli 2025]] zusätzlich um Übernahme der Kosten für die Gutachtenerstellung ersucht. Die Beklagten haben diese Kosten abgelehnt. Das Gutachten selbst wurde im Auftrag der Klägerin erstellt und ist dieser Klage als ./D beigelegt.
+
 Abschließend wird beantragt, die Beklagten zum Ersatz der Pauschalgebühren und Verfahrenskosten zu verpflichten.
 
 [[address|8225 Pöllau]], am [[date|14. Oktober 2026]]

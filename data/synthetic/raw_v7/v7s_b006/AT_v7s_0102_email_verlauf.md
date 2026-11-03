@@ -12,7 +12,7 @@ E: [[email|office@sachs.at]]  W: www.sachs.at
 [[organization|Erste Bank der oesterreichischen Sparkassen AG]] IBAN: [[bank_account|AT55 4465 3227 2543 1351]] BIC: [[bank_account|SPIHAT22]]
 ERV-Code: [[other_identifier|R590216]]
 
-Betreff: AW: Forderung Ybbstaler Holzhandel, UZ: [[other_identifier|539/25 WHK]]
+Betreff: AW: Forderung [[organization|Ybbstaler Holzhandel]], UZ: [[other_identifier|539/25 WHK]]
 
 Von: [[person|Ruth Ölsinger]] <[[email|r.oelsinger@aon.at]]>
 Gesendet: Montag, [[date|19. Oktober 2026]], 18:22
@@ -39,7 +39,7 @@ Sehr geehrte Frau [[person|Ölsinger]],
 
 wir haben Ihre Angaben geprüft. Die [[organization|YHG]] hat auf unser Mahnschreiben vom [[date|8. Oktober 2026]] bisher nicht reagiert. Die Lieferung wurde nach dem Vertrag vom [[date|12. Februar 2026]] am Hof übergeben, ein Lieferschein mit Unterschrift liegt vor.
 
-> Am 19.10.2026 um 18:22 schrieb Ruth Ölsinger:
+> Am [[date|19.10.2026]] um 18:22 schrieb [[person|Ruth Ölsinger]]:
 > Die Ware war feucht und nicht wie bestellt. Ich habe bereits am [[date|04.03.2026]] reklamiert.
 
 Wir schlagen vor, die Forderung zurückzuweisen und die Gegenseite zu einer Stellungnahme aufzufordern. Die Gegenseite hat die [[organization|Ybbstaler Holzhandel]] vertreten durch [[person|Clothilde Mag. Dr. Schiller]], die Prokuristin der Gesellschaft.

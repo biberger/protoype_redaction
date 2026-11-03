@@ -30,7 +30,7 @@ Die Klage gegen [[person|WILTRAUD KEIL]] wurde mit Schriftsatz vom [[date|9. Feb
 
 Im Termin vom [[date|26. März 2026]] hat das Gericht einen Vergleichsvorschlag unterbreitet, der am [[date|30. April 2026]] schriftlich angenommen wurde. Der Vergleichsbetrag wurde in Raten vereinbart, die erste Rate ist am [[date|15. Mai 2026]] fällig.
 
-Herr [[person|Jokubko Kiska]] war als Bauleiter für die Ausführung der Arbeiten verantwortlich und hat das Baustellenprotokoll geführt, das in der Verhandlung vorgelegt wurde. Seine Aussage hat den Werkvertrag und die Mängelrügen bestätigt.
+Herr [[person|Jokubko Kiska]] war als Bauleiter für die Ausführung der Arbeiten verantwortlich und hat das Baustellenprotokoll geführt, das in der Verhandlung vorgelegt wurde. Seine Aussage hat den Werkvertrag und die Mängelrügen bestätigt. Die Mängelrügen wurden innerhalb der gesetzlichen Frist erhoben, sodass der Anspruch auf Werklohn nach dem Vergleich vollständig besteht. Die Parteien haben die Kosten des Gutachtens je zur Hälfte getragen. Die Kanzlei hat die Mandantin auf die Kostenregelung im Vergleich ausdrücklich hingewiesen, was in der Honorarnote vermerkt ist. Die Zahlung ist fristgerecht zu leisten.
 
 Die Gebühren wurden nach dem Rechtsanwaltstarifgesetz berechnet. Der Streitwert im Verfahren betrug EUR 31.500,00. Die Besprechungen mit der Klientin fanden am Sitz der Kanzlei statt, die Anfahrt zu den Baustellen ist nicht verrechnet.
 
@@ -38,6 +38,8 @@ Barauslagen (Gerichtsgebühr, Gutachten): EUR 386,00
 Summe netto: EUR 4.046,00
 20 % USt: EUR 809,20
 Gesamtbetrag brutto: EUR 4.855,20
+
+Die Leistungen wurden nach Stunden erfasst, die im Zeitaufschreibungsprotokoll der Kanzlei festgehalten sind. Eine Kopie des Protokolls liegt bei. Die Positionen mit der Bezeichnung Telefonat umfassen jeweils die Dauer des Gesprächs sowie die anschließende Dokumentation im Akt. Die Besprechungen mit der Klientin wurden in den Räumen der Kanzlei in [[location|St. Valentin]] abgehalten. Bei Zahlung nach Ablauf der Frist werden Verzugszinsen nach [[legal_norm|§ 456 UGB]] verrechnet.
 
 Zahlbar binnen 14 Tagen auf das Konto IBAN [[bank_account|AT44 5207 7683 9654 6375]] unter Angabe der Klientennummer [[other_identifier|99108]].
 

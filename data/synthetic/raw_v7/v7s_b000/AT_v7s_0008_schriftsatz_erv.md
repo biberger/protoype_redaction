@@ -58,6 +58,10 @@ Die Liegenschaft, auf der sich die Leitung befindet, ist im Grundbuch wie folgt 
 
 Der Eigentümer der Liegenschaft ist nicht der Kläger, sondern dessen Schwiegersohn. Der Kläger hat die Liegenschaft lediglich gemietet.
 
+5. Die Behauptung des Klägers, die Leitung sei bereits im Jahr 2022 undicht gewesen, ist unrichtig. Die Hausverwaltung hat im Herbst 2022 keine Meldung erhalten, obwohl der Kläger dies in seinem Schreiben vom [[date|3. November 2022]] angekündigt hatte. Das Schreiben ist in den Unterlagen nicht auffindbar.
+
+6. Der Kläger hat die Schadenursache selbst nicht genau benannt. Die Beklagten weisen darauf hin, dass die Schadensmeldung vom [[date|7. März 2026]] keine Angaben zur Ursache enthält. Die Beklagten ersuchen daher um Vorlage der Fotodokumentation, die der Kläger nach eigenen Angaben am Schadenstag angefertigt hat.
+
 **V. Anträge**
 
 Die Beklagten stellen den Antrag,
@@ -66,6 +70,9 @@ Die Beklagten stellen den Antrag,
 2. dem Kläger die Kosten des Verfahrens aufzuerlegen.
 
 **VI. Beilagen**
+
+Die Beilagen werden in Kopie vorgelegt; die Originale befinden sich im Besitz der Beklagten und werden auf Verlangen vorgelegt.
+
 
 ./1 Abnahmeprotokoll vom [[date|11. Juni 2021]]
 ./2 Rechnung vom [[date|14. August 2021]]

@@ -67,13 +67,13 @@ Die Legatarin [[person|Helm]] hat erklärt, dass sie auf das Vermächtnis der Au
 
 Die Legatarin hat am [[date|3. August 2026]] die Übergabe des Hauses an sich selbst beantragt und darauf hingewiesen, dass die Heizungsanlage erneuert werden muss. Der Sachverständige hat die Kosten der Erneuerung mit EUR 9.400,00 bewertet. Diese Kosten sind bei der Schätzung der Liegenschaft nicht berücksichtigt, weil die Schätzung vor der Begehung erstellt wurde; der Notar hat die Erben darauf hingewiesen, dass die Bewertung nach der Begehung neu festzusetzen ist.
 
-Der Erbe [[person|Siman]] hat um Verlängerung der Frist zur Erbantrittserklärung ersucht. Die Verlängerung wurde bis zum [[date|31. Dezember 2026]] gewährt.
+Der Erbe [[person|Siman]] hat um Verlängerung der Frist zur Erbantrittserklärung ersucht. Die Verlängerung wurde bis zum [[date|31. Dezember 2026]] gewährt. Der Erbe [[person|Bleckmann]] hat sich zu seinem Anteil an der Liegenschaft bereit erklärt, auf die Auszahlung seines Erbteils in bar zu verzichten, sofern die Legatarin ihm ein Wohnrecht an der Garage einräumt. Diese Vereinbarung ist schriftlich festzuhalten und dem Protokoll anzuschließen.
 
 5. Ausblick
 
-Die Einantwortung soll nach Vorliegen der Unbedenklichkeitsbescheinigung für die Grunderwerbsteuer erfolgen. Die Forderung gegen die [[organization|Ringel Bau]] ist gesondert zu verfolgen; sollte die Gesellschaft nicht zahlen, wird der Notar die Erben über eine Klage beim [[court|BG Waidhofen an der Thaya]] unterrichten.
+Die Einantwortung soll nach Vorliegen der Unbedenklichkeitsbescheinigung für die Grunderwerbsteuer erfolgen. Die Forderung gegen die [[organization|Ringel Bau]] ist gesondert zu verfolgen; Die Gesellschaft hat auf das Mahnschreiben vom [[date|15. August 2026]] nicht reagiert, weshalb der Notar den Erben empfiehlt, die Forderung im Wege eines Zahlungsbefehls geltend zu machen. Die Kosten dafür sind aus dem Nachlass zu tragen und bereits in den Passiva berücksichtigt. sollte die Gesellschaft nicht zahlen, wird der Notar die Erben über eine Klage beim [[court|BG Waidhofen an der Thaya]] unterrichten.
 
-Die Erben wurden über ihre Haftung nach [[legal_norm|§ 802 ABGB]] belehrt. Gegen dieses Protokoll ist kein Rechtsmittel gegeben.
+Die Erben wurden über ihre Haftung nach [[legal_norm|§ 802 ABGB]] belehrt. Die Verlassenschaft umfasst außerdem einen Hausrat, der mit EUR 1.800,00 bewertet wurde und zwischen den Erben nach Übereinkunft aufgeteilt wird. Die Legatarin [[person|Helm]] übernimmt die Einrichtung der Küche, [[person|Zeman]] erhält die Bücher und Fotoalben des Erblassers, und [[person|Siman]] wählt den Schmuck aus, soweit er nicht zum Nachlass im engeren Sinn gehört. Die Schätzung des Hausrats wurde von einem beeideten Sachverständigen durchgeführt. Gegen dieses Protokoll ist kein Rechtsmittel gegeben.
 
 [[location|Retzbach]], am [[date|6. November 2026]]
 

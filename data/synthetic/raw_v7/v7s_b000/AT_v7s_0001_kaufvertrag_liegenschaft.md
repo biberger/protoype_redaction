@@ -52,6 +52,8 @@ Grundstücksadresse: [[address|Strassen 41, 3250 Wieselburg]]. Auf dem Grundstü
 
 Die Verkäufer erklären, dass die Liegenschaft lastenfrei übergeben wird, mit Ausnahme der im C-Blatt eingetragenen Dienstbarkeit des Wegerechts zugunsten des Nachbargrundstücks und der Pfandrechte, die im Zuge der Vertragsabwicklung gelöscht werden.
 
+Die Grenzen der Liegenschaft entsprechen dem Lageplan, der dem Vertrag als Beilage ./B angeschlossen ist. Eine Grenzverhandlung mit dem Nachbarn hat nicht stattgefunden; die Verkäufer erklären, dass keine Grenzstreitigkeiten bekannt sind. Die Einfriedung entlang der Südgrenze wurde im Jahr 2015 gemeinsam mit dem Nachbargrundstück errichtet.
+
 **III. Kaufpreis und Zahlung**
 
 1. Der Kaufpreis beträgt EUR 288.500,00 (in Worten: zweihundertachtundachtzigtausendfünfhundert Euro).

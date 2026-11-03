@@ -86,6 +86,16 @@ Die Kosten der Vertragserrichtung, der Grundbuchseintragung und die Eintragungsg
 
 Die Übergabe erfolgt mit dem Tag der Kaufpreiszahlung, frühestens jedoch am [[date|1. Dezember 2026]]. Nutzungen und Lasten gehen mit der Übergabe auf die Käuferin über. Der Verkäufer übergibt die Schlüssel zum Wirtschaftsgebäude und die Unterlagen zur Wasserleitung.
 
+§ 4d Rücktritt und Vertragsstrafe
+
+Tritt die Käuferin ohne wichtigen Grund vom Vertrag zurück, verfällt die von ihr bereits geleistete Anzahlung zugunsten des Verkäufers. Eine darüber hinausgehende Vertragsstrafe wird nicht vereinbart. Der Verkäufer ist im Falle eines Rücktritts berechtigt, die Liegenschaft anderweitig zu verkaufen, sofern die Käuferin die Zahlungsfrist um mehr als dreißig Tage überschreitet.
+
+§ 4e Veräußerungen während der Abwicklung
+
+Der Verkäufer verpflichtet sich, während der Abwicklung keine weitere Belastung oder Veräußerung der Liegenschaft vorzunehmen. Ein Verstoß gegen diese Verpflichtung berechtigt die Käuferin zum Rücktritt. Die Vertragsparteien vereinbaren, dass eine Vormerkung des Eigentumsrechts der Käuferin im Grundbuch erst nach Vorliegen der Kaufpreiszahlung beantragt wird.
+
+Die Nebenkosten des Vertrages, insbesondere für die Vermessung der Grenzen und für die Einholung der Bestätigung der Gemeinde über die Erschließung, trägt die Käuferin.
+
 § 8 Schlussbestimmungen
 
 Änderungen und Ergänzungen dieses Vertrages bedürfen der Schriftform. Sollte eine Bestimmung unwirksam sein, bleibt der Vertrag im Übrigen wirksam. Die Käuferin ist für Rückfragen zur Abwicklung unter folgender Nummer erreichbar: Tel. [[phone_number|+43-2742-9725902 Kl. 32]]. Die Parteien erklären, dass ihnen dieser Vertrag vor der Unterfertigung ausgehändigt wurde und dass sie ihn gelesen und verstanden haben.

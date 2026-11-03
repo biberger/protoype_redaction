@@ -45,6 +45,10 @@ Sollte keine Reaktion erfolgen, werden wir die Forderung ohne weitere Ankündigu
 
 Die Mandantin hat uns zudem mitgeteilt, dass die Mietvorauszahlung für das Atelier an die [[organization|Kretschmer GmbH]] unter der Kontonummer [[bank_account|AT41 5452 0558 0526 1325]] erfolgt ist. Der Mietvertrag trägt die Vertragsnummer [[other_identifier|V-2021-73846]]. Wir bitten um Bestätigung, dass diese Zahlung ordnungsgemäß verbucht wurde.
 
+Ergänzend weisen wir darauf hin, dass unsere Mandantin [[person|Schönborn]] die Geschäftsräume seit dem [[date|27. Jänner 2026]] nur eingeschränkt nutzen kann. Die Trocknung dauert nach Auskunft des Bautrockners noch mehrere Wochen. Die Mandantin hat deshalb für die Zeit der Sanierung einen Ausweichraum angemietet und die Mehrkosten gesondert belegt. Diese Belege liegen dem Schreiben bei.
+
+Die Zeugin [[person|Mašková]] hat sich bereit erklärt, eine schriftliche Erklärung abzugeben. Sie wohnt im selben Haus wie die Mandantin, weshalb sie den Wasseraustritt bereits am Morgen des [[date|27. Jänner 2026]] bemerkt hat. Ein Entwurf dieser Erklärung wird Ihnen auf Anfrage übermittelt.
+
 Mit freundlichen Grüßen
 
 [[person|Peters]]
@@ -55,4 +59,4 @@ Beilagen:
 - Fotodokumentation
 - Kostenaufstellung
 
-Telefonische Rückfragen unter Tel. [[phone_number|0512/6420760 Kl. 87]].
+Die Abrechnung der Mehrkosten wird nachgereicht. Telefonische Rückfragen unter Tel. [[phone_number|0512/6420760 Kl. 87]].

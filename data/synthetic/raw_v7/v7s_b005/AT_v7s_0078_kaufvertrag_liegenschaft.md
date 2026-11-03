@@ -78,6 +78,12 @@ Die Verkäuferinnen erteilen der Kanzlei [[organization|Lindenbauer, Perl]] die 
 
 Die Gewährleistung für Sachmängel wird ausgeschlossen. Die Verkäuferinnen haften für den Bestand des Eigentums. Die Kosten der Vertragserrichtung und der Grundbuchseintragung trägt die Käuferin. Die Grunderwerbsteuer trägt die Käuferin. Die Kosten der Lastenfreistellung trägt jede Verkäuferin zur Hälfte.
 
+§ 5a Nebenabreden
+
+Die Verkäuferinnen erklären, dass die Zufahrt über das Grundstück Nr. [[land_register_id|527]] ausschließlich über das bestehende Wegrecht erfolgt. Das Wegrecht ist im Grundbuch eingetragen und wird von der Käuferin übernommen. Der Pflanzenbestand auf dem Grundstück wurde am [[date|9. September 2026]] gemeinsam besichtigt und im Übergabeprotokoll festgehalten.
+
+Die Käuferin verpflichtet sich, den Stadel binnen zwei Jahren nach der Übergabe nicht abzureißen, sofern dieser als landwirtschaftliches Gebäude genutzt wird. Eine Abweichung bedarf der schriftlichen Zustimmung der Verkäuferinnen, die nicht unbillig verweigert werden darf.
+
 § 6 Übergabe
 
 Die Übergabe erfolgt mit dem Tag der vollständigen Zahlung. Die Schlüssel zum Stadel und die Unterlagen zur Wasserquelle werden bei der Übergabe ausgefolgt. Nutzungen und Lasten gehen mit dem Übergabetag auf die Käuferin über.

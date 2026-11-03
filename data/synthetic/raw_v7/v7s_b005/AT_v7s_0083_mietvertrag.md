@@ -82,6 +82,18 @@ Die Mieterin erhält zwei Wohnungsschlüssel, einen Briefkastenschlüssel und ei
 
 Die Vermieterin verarbeitet die Daten der Mieterin ausschließlich zur Vertragsabwicklung und zur Betriebskostenabrechnung. Die Mieterin stimmt zu, dass ihre Kontaktdaten der Hausverwaltung übermittelt werden. Die Mieterin kann die Berichtigung und Löschung ihrer Daten nach Beendigung des Mietverhältnisses verlangen, soweit keine gesetzlichen Aufbewahrungspflichten entgegenstehen.
 
+§ 7e Heizkosten und Frostschäden
+
+Die Heizkosten werden nach dem Verbrauch der Wärmemengenzähler und nach dem Verhältnis der Nutzfläche verteilt. Die Mieterin ist verpflichtet, die Heizkörper während der Heizperiode nicht abzudrehen, damit die Leitungen nicht einfrieren. Schäden infolge Frosts gehen zu Lasten der Mieterin, sofern sie die Heizung nicht ordnungsgemäß betrieben hat.
+
+§ 7f Besuch und Untermiete
+
+Die Mieterin darf Besuch empfangen, auch über Nacht, soweit dies die Hausordnung nicht verletzt. Eine Untermiete ist nur mit schriftlicher Zustimmung der Vermieterin zulässig; die Zustimmung darf nur aus wichtigem Grund verweigert werden. Die Vermieterin hat auf Verlangen der Mieterin die Zustimmung innerhalb von vier Wochen zu erklären.
+
+§ 7g Mängel und Schadensmeldung
+
+Mängel an der Wohnung sind der Vermieterin unverzüglich schriftlich anzuzeigen. Die Mieterin trägt den Schaden, der aus einer verspäteten Mängelanzeige entsteht. Die Vermieterin behebt Mängel binnen angemessener Frist. Bei Gefahr im Verzug darf die Mieterin die Reparatur selbst veranlassen; die Kosten sind der Vermieterin nach Vorlage der Belege zu ersetzen, soweit sie notwendig waren.
+
 § 8 Schlussbestimmungen
 
 Änderungen dieses Vertrages bedürfen der Schriftform. Mündliche Nebenabreden bestehen nicht. Rückfragen zur Hausverwaltung richten Sie bitte an folgende Nummer: Tel. [[phone_number|05572/2725397 Durchwahl 16]].

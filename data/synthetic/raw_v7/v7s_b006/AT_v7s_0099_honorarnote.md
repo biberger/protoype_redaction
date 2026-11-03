@@ -12,20 +12,20 @@ E: [[email|office@jacobsson.at]]  W: www.jacobsson.at
 [[organization|Erste Bank der oesterreichischen Sparkassen AG]] IBAN: [[bank_account|AT96 3940 5281 1388 9400]] BIC: [[bank_account|BKAUATWW]]
 ERV-Code: [[other_identifier|R647340]]
 
-Hertha Mattle
+[[person|Hertha Mattle]]
 [[address|7432 Oberschützen]]
 
 Klientennummer: [[other_identifier|32176]]
 Klienten-Nr. [[other_identifier|19306]]
 
 Honorarnote Nr. 2026/114
-Kobersdorf, am [[date|31. Oktober 2026]]
+[[location|Kobersdorf]], am [[date|31. Oktober 2026]]
 
 Betreff: Vertretung in Verlassenschaftsangelegenheiten, Kaufvertragsprüfung Liegenschaft in [[location|Oberschützen]]
 
 Sehr geehrte Frau [[person|Mattle]],
 
-wir erlauben uns, für unsere Tätigkeit im Zeitraum März bis Oktober 2026 folgende Honorarnote zu übermitteln. Die Leistungen wurden nach dem Tarifwerk der Rechtsanwälte und nach der getroffenen Honorarvereinbarung verrechnet.
+wir erlauben uns, für unsere Tätigkeit im Zeitraum März bis Oktober 2026 folgende Honorarnote zu übermitteln. Die Leistungen wurden nach dem Tarifwerk der Rechtsanwälte und nach der getroffenen Honorarvereinbarung verrechnet. Die Umsatzsteuer wird gesondert ausgewiesen; die Auslagen sind nach den tatsächlich angefallenen Beträgen belegt. Bei Fragen zu einzelnen Positionen wenden Sie sich bitte an unser Sekretariat, wir erläutern Ihnen die Aufstellung gerne im Detail.
 
 Leistungsaufstellung:
 
@@ -46,6 +46,13 @@ abzüglich Vorauszahlung vom [[date|10.03.2026]]: EUR 500,00
 Rechnungsbetrag netto: EUR 1.104,90
 zuzüglich 20 % USt: EUR 220,98
 Gesamtbetrag brutto: EUR 1.325,88
+
+Erläuterungen zur Honorarnote: Die Stundensätze entsprechen der mit Ihnen getroffenen Vereinbarung vom [[date|2. März 2026]]. Die Teilnahme an der Verhandlung in [[location|St. Johann im Pongau]] am [[date|14.10.2026]] war erforderlich, weil die Gegenseite die Vertagung beantragt hat. Die Wegzeit wurde nur einmal verrechnet. Die Grundbuchseinsicht vom [[date|12.05.2026]] wurde pauschal berechnet, die Kopien werden gesondert ausgewiesen.
+
+Zahlungsübersicht:
+Gesamtbetrag brutto: EUR 1.325,88
+bereits bezahlt am [[date|10.03.2026]]: EUR 500,00 (Vorauszahlung, in Abzug gebracht)
+offener Betrag: EUR 1.325,88
 
 Wir bitten um Überweisung des Gesamtbetrags bis zum [[date|30. November 2026]] auf das Konto IBAN [[bank_account|AT06 6460 6020 7618 5868]], Verwendungszweck: Klienten-Nr. [[other_identifier|19306]].
 

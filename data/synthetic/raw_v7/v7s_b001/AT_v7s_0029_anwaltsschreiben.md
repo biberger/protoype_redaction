@@ -52,6 +52,8 @@ Der Schaden an der Wohnung wird derzeit von einem Sachverständigen bewertet. Di
 
 Wir weisen darauf hin, dass ein Teil der Ansprüche gegen die [[organization|Pötsch Handels GmbH]] auch vom Gewährleistungsrecht umfasst ist. Die Ansprüche werden nach [[legal_norm|§ 932 ABGB]] geltend gemacht. Wir behalten uns vor, den Hersteller des Boilers in Anspruch zu nehmen.
 
+Für Rückfragen stehen wir unter der oben genannten Telefonnummer zur Verfügung. Wir bitten um eine schriftliche Stellungnahme binnen vier Wochen. Die Mandantschaft ist bereit, an einer einvernehmlichen Lösung mitzuwirken, sofern die Versicherung ihre Leistungspflicht dem Grunde nach anerkennt.
+
 Mit freundlichen Grüßen
 
 [[person|Hermine Kasztner]]

@@ -11,7 +11,7 @@ Tel. [[phone_number|0512/4944213 Durchwahl 44]]
 
 E N T S C H E I D U N G
 
-Der Disziplinarrat der Oberösterreichischen Rechtsanwaltskammer hat am [[date|16. Oktober 2026]] in [[location|St. Johann im Pongau]] über die Disziplinaranzeige gegen den Rechtsanwalt [[lawyer|Torben von Kleist]], GEB: [[date_of_birth|15. Februar 1972]], beraten und entschieden.
+Der [[court|Disziplinarrat der Oberösterreichischen Rechtsanwaltskammer]] hat am [[date|16. Oktober 2026]] in [[location|St. Johann im Pongau]] über die Disziplinaranzeige gegen den Rechtsanwalt [[lawyer|Torben von Kleist]], GEB: [[date_of_birth|15. Februar 1972]], beraten und entschieden.
 
 Zusammensetzung (Sitzungsprotokoll):
 Vorsitzende: [[judge|Daniella Bleibtreu]]
@@ -52,6 +52,12 @@ Rechtliche Beurteilung
 Gelder, die ein Rechtsanwalt für Klienten entgegennimmt, sind getrennt zu verwalten. Die Entnahme eines Honorars ohne vorherige Abrechnung verletzt die Pflichten nach [[legal_norm|§ 43a Abs 4 RAO]]. Die Verzögerung der Auszahlung an die Miterbin verletzt darüber hinaus die Pflicht zur ordnungsgemäßen Mandatsführung nach [[legal_norm|§ 9 RL-BA]].
 
 Der Senat hat bei der Strafbemessung berücksichtigt, dass der Beschuldigte bisher nicht disziplinär auffällig war, den Betrag vollständig zurückbezahlt hat und sich bei der Verhandlung einsichtig zeigte. Als erschwerend wurde gewertet, dass zwei Klienten betroffen sind.
+
+Stellungnahme der Anzeiger
+
+Die Anzeiger [[person|Pirker]] und [[person|Dipl.-Ing. Elberich Ledóchowska]] haben in der Verhandlung ausgeführt, dass sie bis zur Auszahlung mehrfach um Auskunft über den Stand der Treuhandgelder gebeten haben. Die Auskünfte seien nur zögerlich erteilt worden. [[person|Pirker]] hat zudem vorgebracht, dass sie die Verzögerung der Auszahlung als Druckmittel empfunden habe. Der Senat hat diese Angaben als glaubhaft, aber nur teilweise belegt gewürdigt.
+
+Der Kammeranwalt [[person|Celal]] hat in seinem Schlussvortrag dargelegt, dass die Vorwürfe zur Honorarentnahme eindeutig seien, die Verzögerung aber auf eine organisatorische Schwäche der Kanzlei zurückzuführen sei. Die Vorsitzende [[judge|Bleibtreu]] hat die Verhandlung nach Anhörung aller Beteiligten geschlossen.
 
 Spruch
 

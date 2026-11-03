@@ -44,11 +44,25 @@ Der Senat folgt dieser Argumentation nicht. Der Ausgleich erfolgte nur zeitlich 
 
 Die zweckwidrige Verwendung von Treuhandgeld ist nach [[legal_norm|§ 43 RAO]] unzulässig. Dass die Beträge später wieder ausgeglichen wurden, ändert nichts an der Pflichtverletzung. Die verspätete Verbuchung verstößt zudem gegen die Dokumentationspflichten.
 
-Mildernd war die bisherige Unbescholtenheit. Erschwerend war die Zahl der Entnahmen.
+Mildernd war die bisherige Unbescholtenheit und dass die Beträge später ausgeglichen wurden. Erschwerend war die Zahl der Entnahmen sowie der Umstand, dass der Beschuldigte als Treuhänder eine besondere Vertrauensstellung innehatte. Der Senat hält die verhängte Geldbuße für angemessen, aber nicht für zu hoch.
+
+**Stellungnahme des Kammeranwalts und Vernehmung des Beschuldigten**
+
+Der Kammeranwalt [[person|Dr. Cort Gächter]] beantragte, die Geldbuße im oberen Bereich des gesetzlichen Rahmens festzusetzen, weil die Entnahmen bei einem Mandat erfolgten, das mit einer Mietkaution eines Minderjährigen verbunden war. Der Senat hat diesen Gesichtspunkt geprüft, konnte aber nicht feststellen, dass die Entnahme zum Nachteil des Minderjährigen erfolgte, da die Kaution rechtzeitig überwiesen wurde.
+
+Der Beschuldigte [[lawyer|Leinfellner]] gab in der Verhandlung an, die Entnahme vom [[date|11. Februar 2025]] habe er für eine Honorarnote vorgenommen, die dem Mandanten vorab per E-Mail übermittelt worden sei. Eine solche E-Mail konnte er nicht vorlegen, weil seine Mailbox nach einem Gerätewechsel nicht mehr verfügbar sei.
+
+Der Senat hält die Angaben für nicht überzeugend. Ein Honorar ist auch bei behaupteter Vereinbarung nur dann zulässig, wenn es vor der Entnahme abgerechnet und dem Mandanten zur Kenntnis gebracht wurde. Die Mitteilung per E-Mail hätte zudem in der Kanzleiakte dokumentiert sein müssen, was nicht der Fall war.
+
+**Gesamtwürdigung**
+
+Im Rahmen der Gesamtwürdigung hat der Senat berücksichtigt, dass der Beschuldigte die Kaution rechtzeitig überwiesen hat und dass die Verbuchungen nachträglich erfolgten. Dies entlastet den Beschuldigten nur teilweise, weil die Verbuchungen erst nach Beginn der Kanzleiprüfung vorgenommen wurden.
+
+Die Geldbuße wurde daher in einer Höhe festgesetzt, die dem Gewicht der Verstöße entspricht, aber die bisherige Unbescholtenheit des Beschuldigten berücksichtigt.
 
 **Rechtsmittelbelehrung**
 
-Gegen diesen Beschluss steht dem Beschuldigten und dem Kammeranwalt die Berufung an die [[court|OBDK]] offen. Die Berufung ist binnen vier Wochen einzubringen.
+Gegen diesen Beschluss steht dem Beschuldigten und dem Kammeranwalt die Berufung an die [[court|OBDK]] offen. Die Berufung ist binnen vier Wochen einzubringen. Die Berufungsfrist beginnt mit der Zustellung dieses Beschlusses an den Beschuldigten.
 
 [[location|Innsbruck]], am [[date|27. Oktober 2025]]
 

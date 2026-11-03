@@ -74,6 +74,8 @@ VII. Schlussbestimmungen
 
 5. Für Streitigkeiten aus diesem Vertrag ist das für den Mietgegenstand zuständige Bezirksgericht zuständig. Sollte eine Bestimmung unwirksam sein, bleibt der übrige Vertrag wirksam.
 
+Dieser Vertrag wird in zwei Ausfertigungen errichtet.
+
 [[location|St. Georgen im Attergau]], am [[date|10. November 2026]]
 
 _______________________________

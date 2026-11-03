@@ -93,6 +93,12 @@ Auf Vorhalt der Zeugenaussage des [[person|Knopf]] erklärte [[person|Ederer]], 
 
 Der Sachverständige [[person|Ing. Gerhard Pühringer]] besichtigte die beiden Fahrzeuge am [[date|24.08.2026]]. Nach seiner Einschätzung stimmt das Schadensbild mit einer Kollision bei einer Geschwindigkeit von etwa 25 bis 35 km/h überein. Die Spuren auf der Fahrbahn bestätigen den Anprall im Kreuzungsbereich. Eine Bremsspur des Pkw [[license_plate|P 9 FD]] war nicht feststellbar.
 
+**Fahrzeugverwahrung und Abschleppung**
+
+Der Pkw [[license_plate|P 9 FD]] war nach dem Unfall nicht mehr fahrbereit und wurde auf Veranlassung der Polizei durch das Abschleppunternehmen [[organization|Wagner Abschleppdienst Steyr]] zum Verwahrungsplatz in der [[street|Tabor]] gebracht. Die Kosten der Abschleppung trägt vorläufig der Halter; sie werden im Verfahren nach der Schadensregulierung neu verteilt. Der Pkw der Frau [[person|Weiler]] war fahrbereit und wurde von ihrem Sohn abgeholt, der sich mit einem Ausweis legitimierte.
+
+Die Fahrzeugpapiere wurden beiden Lenkern abgenommen, kopiert und wieder ausgefolgt. Ein Fahrverbot wurde nicht verhängt.
+
 **Anlagen**
 
 - Lichtbilder Nr. 1 bis 14

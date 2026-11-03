@@ -11,7 +11,7 @@ Im Namen der Republik!
 
 ERKENNTNIS
 
-Der Disziplinarrat der Rechtsanwaltskammer Wien hat in der Sitzung vom [[date|9. Oktober 2026]] unter Mitwirkung folgender Mitglieder erkannt:
+Der [[court|Disziplinarrat der Rechtsanwaltskammer Wien]] hat in der Sitzung vom [[date|9. Oktober 2026]] unter Mitwirkung folgender Mitglieder erkannt:
 
 Vorsitz: [[judge|Dr. Intissar Tarazi]], Senatsvorsitzende
 Beisitzer: [[judge|Kasimir Prock]], *[[date_of_birth|25. Juni 2003]]; [[judge|MMag. Stephen Halder]]

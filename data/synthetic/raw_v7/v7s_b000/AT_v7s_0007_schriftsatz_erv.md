@@ -75,6 +75,9 @@ Die Zeugin [[person|Griseldis Marschik]], *[[date_of_birth|19. März 1974]], ist
 
 **V. Antrag**
 
+Die Klägerin ersucht außerdem, die Erstbeklagte zur Vorlage der Bauakten des Bauamts der [[organization|Gemeinde Predlitz]] aufzufordern, soweit diese nicht bereits im Akt liegen.
+
+
 Die Klägerin stellt daher den Antrag, das Gericht möge
 1. die Beklagten zur ungeteilten Hand schuldig erkennen, der Klägerin EUR 42.300,00 samt 4 % Zinsen seit der Klagezustellung zu bezahlen;
 2. die Kosten des Verfahrens den Beklagten auferlegen.

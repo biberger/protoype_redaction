@@ -61,6 +61,26 @@ Der Beschuldigte hat die Fremdgelder nicht getrennt vom eigenen Vermögen verwal
 
 Mildernd war die bisherige Unbescholtenheit des Beschuldigten und die Rückzahlung der Restbeträge im Laufe des Verfahrens. Erschwerend war die Mehrzahl der betroffenen Mandate.
 
+**Vernehmung der Mandantin**
+
+Die Mandantin [[person|Katrin Heinz]] schilderte in der Verhandlung, dass sie den Beschuldigten im Jahr 2022 wegen einer Grunderwerbsteuer für den Erwerb eines Grundstücks in [[location|St. Wolfgang im Salzkammergut]] beauftragt habe. Sie sei davon ausgegangen, dass der gesamte Betrag für die Steuer verwendet werde. Auf die Frage, ob sie einer Verwendung des Restbetrags zugestimmt habe, antwortete sie verneinend.
+
+Die Mandantin legte eine Kopie des Zahlungsbelegs vom [[date|3. August 2023]] vor, aus dem ersichtlich ist, dass nur ein Teilbetrag an das Finanzamt überwiesen wurde. Sie gab an, erst durch die Mitteilung des Finanzamts im Herbst 2023 von der Unterzahlung erfahren zu haben.
+
+Der Senat hält die Angaben für glaubwürdig, da sie mit den Belegen übereinstimmen. Die Mandantin war sichtlich um eine sachliche Schilderung bemüht und hat auch Umstände genannt, die für den Beschuldigten sprechen, etwa dass er ihr Honorar nicht erhöht hat.
+
+**Vernehmung des Beschuldigten**
+
+Der Beschuldigte [[lawyer|Bauch]] schilderte den Ablauf der Kanzlei im Jahr 2023. Er habe die Buchhaltung seit dem Ausscheiden der Mitarbeiterin selbst geführt und dabei die Trennung der Konten nicht immer eingehalten. Diese Organisation sei für eine Einzelkanzlei nicht ungewöhnlich, entspreche aber nicht den Anforderungen der Treuhandrichtlinie.
+
+Auf Vorhalt der Kontoauszüge räumte der Beschuldigte ein, dass der Restbetrag von EUR 1.500,00 über mehrere Monate auf dem Geschäftskonto geblieben ist. Er bedauere dies und habe den Betrag inzwischen an die Mandantin [[person|Heinz]] überwiesen, wie der Zahlungsbeleg vom [[date|10. November 2025]] zeigt, der dem Senat vorgelegt wurde.
+
+**Erwägungen zur Strafbemessung**
+
+Bei der Festsetzung der Geldbuße hat der Senat berücksichtigt, dass der Beschuldigte die Restzahlung nachgeholt hat und sich in der Verhandlung einsichtig gezeigt hat. Dagegen war zu werten, dass die Buchungen über einen längeren Zeitraum unvollständig geblieben sind und dass die Mandantin dadurch über den Stand ihrer Gelder im Unklaren gelassen wurde.
+
+Der Senat hat von der Verhängung einer höheren Geldbuße abgesehen, weil der Beschuldigte nach den vorgelegten Unterlagen keine weiteren Verstöße begangen hat. Eine Entziehung der Berechtigung zur Vertretung kam aufgrund der Schwere des Verstoßes nicht in Betracht.
+
 **Rechtsmittelbelehrung**
 
 Gegen dieses Erkenntnis steht dem Beschuldigten und dem Kammeranwalt die Berufung an die [[court|OBDK]] offen. Sie ist binnen vier Wochen ab Zustellung beim Disziplinarrat einzubringen.

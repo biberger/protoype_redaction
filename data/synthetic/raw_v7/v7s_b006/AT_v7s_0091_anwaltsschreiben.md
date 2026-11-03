@@ -34,7 +34,7 @@ Der Bauleiter [[person|Milan Stadlbauer]] hat die Abdichtung am [[date|17. Oktob
 
 Die Schäden zeigten sich erstmals im Februar 2026 an der Westseite der Dachschräge, wo nach den Feststellungen unseres Mandanten bereits bei der Abnahme Kondensat sichtbar war. Die Kosten der Sanierung belaufen sich nach dem vorliegenden Kostenvoranschlag auf netto € 18.300,00 zuzüglich Umsatzsteuer. Ansprüche auf Minderung und Ersatz des entgangenen Mietzinses behalten wir uns ausdrücklich vor, ebenso die Geltendmachung von Gewährleistungsansprüchen nach den [[legal_norm|§§ 922 ff ABGB]].
 
-Wir fordern Sie daher auf, bis spätestens [[date|30. November 2026]] die Mängel zu beheben. Sollte dies unterbleiben, werden wir die Klage beim [[court|Bezirksgericht Lilienfeld]] zu [[case_number|3 C 412/26y]] fortführen und die Verbesserungskosten einklagen. Die Vollmacht unseres Mandanten liegt bei; die bisherige Korrespondenz ist dem [[court|BG Lilienfeld]] bereits bekannt.
+Wir fordern Sie daher auf, bis spätestens [[date|30. November 2026]] die Mängel zu beheben. Sollte dies unterbleiben, werden wir die Klage beim [[court|Bezirksgericht Lilienfeld]] zu [[case_number|3 C 412/26y]] fortführen und die Verbesserungskosten einklagen. Die Vollmacht unseres Mandanten liegt bei; die bisherige Korrespondenz ist dem [[court|BG Lilienfeld]] bereits bekannt. Wir bitten um Bestätigung des Eingangs dieses Schreibens innerhalb von 14 Tagen.
 
 Mit freundlichen Grüßen
 

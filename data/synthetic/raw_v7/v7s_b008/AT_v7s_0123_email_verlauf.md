@@ -24,7 +24,7 @@ Betreff: Mietzinsrückstand
 
 Sehr geehrte Frau Doktor [[person|Peschka]],
 
-ich wende mich an Sie wegen der Forderung der Hausverwaltung. Die Abrechnung der Betriebskosten für das Jahr 2025 enthält Positionen, die ich nicht nachvollziehen kann. Außerdem behauptet die Gegenseite, ich hätte die Kaution nicht ordnungsgemäß zurückgefordert. Ich habe alle Belege aufbewahrt und kann sie Ihnen gerne übermitteln. Die Belege umfassen die Kontoauszüge für die Monate Oktober 2025 bis Dezember 2025 sowie die Zahlungsbestätigungen des Vermieters, soweit ich sie noch habe. Das Übergabeprotokoll habe ich selbst unterschrieben und einen Durchschlag aufbewahrt.
+ich wende mich an Sie wegen der Forderung der Hausverwaltung. Die Abrechnung der Betriebskosten für das Jahr 2025 enthält Positionen, die ich nicht nachvollziehen kann. Außerdem behauptet die Gegenseite, ich hätte die Kaution nicht ordnungsgemäß zurückgefordert. Ich habe die Kaution im Dezember 2025 schriftlich zurückverlangt, das Schreiben habe ich per Einschreiben gesendet. Ich habe alle Belege aufbewahrt und kann sie Ihnen gerne übermitteln. Die Belege umfassen die Kontoauszüge für die Monate Oktober 2025 bis Dezember 2025 sowie die Zahlungsbestätigungen des Vermieters, soweit ich sie noch habe. Das Übergabeprotokoll habe ich selbst unterschrieben und einen Durchschlag aufbewahrt.
 
 Die Wohnung liegt in [[location|St. Florian]], und ich habe das Mietverhältnis am [[date|31. Januar 2026]] ordnungsgemäß gekündigt.
 
@@ -98,9 +98,9 @@ Betreff: AW: Ihre Forderung / Kaution
 
 Sehr geehrte Kollegin [[person|Marasović]],
 
-die Forderung ist aus unserer Sicht nicht berechtigt. Die [[organization|Volksbank Apetlon]] ([[organization|VBA]]) hat die Zahlung der Kaution mit Schreiben vom [[date|12. Januar 2026]] bestätigt. Die [[organization|VBA]] führt das Treuhandkonto, auf das die Kaution eingezahlt wurde, und hat die Auszahlung an unsere Mandantin freigegeben. Eine Kopie des Bestätigungsschreibens liegt bei. Den Entwurf der Vereinbarung finden Sie in der Anlage. Bitte beachten Sie, dass die Frist für die Erklärung der Gegenseite am [[date|20. Februar 2026]] abläuft.
+die Forderung ist aus unserer Sicht nicht berechtigt. Die [[organization|Volksbank Apetlon]] ([[organization|VBA]]) hat die Zahlung der Kaution mit Schreiben vom [[date|12. Januar 2026]] bestätigt. Die [[organization|VBA]] führt das Treuhandkonto, auf das die Kaution eingezahlt wurde, und hat die Auszahlung an unsere Mandantin freigegeben. Eine Kopie des Bestätigungsschreibens liegt bei. Den Entwurf der Vereinbarung finden Sie in der Anlage. Bitte bestätigen Sie den Eingang. Bitte beachten Sie, dass die Frist für die Erklärung der Gegenseite am [[date|20. Februar 2026]] abläuft.
 
-Ich schlage vor, die Kaution zusammen mit den Betriebskosten gegen Übergabe der Wohnungsschlüssel abzurechnen. Den Vorschlag habe ich in der Anlage schriftlich formuliert. Bitte teilen Sie mir bis zum Ende der Woche mit, ob Ihre Mandantin damit einverstanden ist.
+Ich schlage vor, die Kaution zusammen mit den Betriebskosten gegen Übergabe der Wohnungsschlüssel abzurechnen. Diese Lösung entspricht auch dem Interesse Ihrer Mandantin, weil ein Gerichtsverfahren erhebliche Kosten verursachen würde. Den Vorschlag habe ich in der Anlage schriftlich formuliert. Bitte teilen Sie mir bis zum Ende der Woche mit, ob Ihre Mandantin damit einverstanden ist.
 
 Mit freundlichen Grüßen
 [[person|Peschka]]

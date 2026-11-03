@@ -59,6 +59,10 @@ Tel. [[phone_number|01 455560 Kl. 12]]
 
 Die Summe der Passiva beträgt EUR 28.844,30. Die Aktiva ergeben nach Abzug der Passiva einen Nettobetrag von rund EUR 285.000,00 im Verhältnis zur Liegenschaft, wobei der Kreditrest in dieser Rechnung bereits berücksichtigt ist.
 
+Der Sachverständige hat in seinem Gutachten vom [[date|12. Mai 2026]] darauf hingewiesen, dass der Dachstuhl sanierungsbedürftig ist und die Schätzung diesen Mangel nur teilweise berücksichtigt. Die Liegenschaft ist im Grundbuch seit dem Jahr 1994 auf die Erblasserin einverleibt; ein Vorkaufsrecht zugunsten der Gemeinde ist nicht eingetragen. Die Erben haben die Schätzung zur Kenntnis genommen und auf eine Nachschätzung verzichtet, soweit die Abweichung EUR 10.000,00 nicht übersteigt.
+
+Die Erbschaftsteuer entfällt nach geltender Rechtslage; Gerichtsgebühren für die Einantwortung werden nach dem Wert der Liegenschaft bemessen und sind von den Erben im Verhältnis ihrer Quoten zu tragen. [[person|Rudigier]] hat um Stundung der Gerichtsgebühr bis zur Veräußerung des Miteigentumsanteils ersucht.
+
 4. Verfahrensschritte
 
 Die Aufnahme des Vermögensverzeichnisses erfolgte am [[date|10. September 2025]] in Anwesenheit von [[person|Rudigier]] und [[person|Buchgraber]]. [[person|Steur]] hat vor ihrem Tod keine letztwillige Verfügung zugunsten Dritter errichtet, die über das Testament vom [[date|3. März 2011]] hinausgeht.
@@ -72,6 +76,8 @@ Der Erbe [[person|Hubert]] hat die Abtretung seines Anteils an [[person|Buchgrab
 Die Einantwortung kann nach Vorliegen der Unbedenklichkeitsbescheinigung für die Grunderwerbsteuer erfolgen. Der Notar wird die Gerichtskommission um die Ausfertigung der Einantwortungsurkunde ersuchen, sobald die Grunderwerbsteuer für den Erwerb der Liegenschaft beglichen ist. Die Haftung der Erben für Verlassenschaftsschulden ist nach [[legal_norm|§ 802 ABGB]] auf den Nachlass beschränkt, solange kein Vermögensverzeichnis fehlerhaft errichtet wurde; darüber wurden alle Erben belehrt. Für das Verfahren gilt im Übrigen das [[legal_norm|AußStrG]]. Die Frist für die Einbringung des Vermögensverzeichnisses läuft bis [[date|31. Dezember 2026]].
 
 Gegen dieses Protokoll ist kein Rechtsmittel gegeben. Die Anwesenden bestätigen die Richtigkeit der Angaben.
+
+Die Niederschrift wurde den Anwesenden vorgelesen und von ihnen genehmigt. Eine Abschrift erhält jeder Erbe; die Originalurkunde verbleibt im Verlassenschaftsakt des [[court|BG Meidling]].
 
 [[location|Sillian]], am [[date|20. Oktober 2026]]
 

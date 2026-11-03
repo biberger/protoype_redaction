@@ -68,6 +68,26 @@ Die Vermieterin trägt die Kosten für die Instandhaltung des Hauses und der all
 
 Die Betriebskosten werden jährlich abgerechnet. Die Abrechnung ist der Mieterin bis zum 30. Juni des Folgejahres zu übermitteln. Ein Guthaben wird binnen vier Wochen ausbezahlt, eine Nachzahlung ist binnen vier Wochen fällig.
 
+§ 7a Wartung und Haftung
+
+Die Vermieterin lässt die Heizungsanlage, den Lift im Haus und die Rauchwarnmelder jährlich warten. Die Kosten der Wartung sind Betriebskosten. Die Mieterin hat die Rauchwarnmelder in der Wohnung regelmäßig zu prüfen und bei Defekt unverzüglich der Vermieterin zu melden.
+
+§ 7b Heizung und Warmwasser
+
+Die Heizung wird über eine zentrale Anlage betrieben, deren Verbrauch über Wärmemengenzähler erfasst wird. Die Mieterin hat den Zähler zu den vorgeschriebenen Ablesezeiten zugänglich zu halten. Die Warmwasserbereitung erfolgt über den Boiler in der Wohnung; die Kosten werden nach dem tatsächlichen Verbrauch verrechnet.
+
+§ 7c Hausordnung
+
+Im Stiegenhaus und im Keller sind Gegenstände nur so abzustellen, dass Fluchtwege frei bleiben. Das Rauchen ist in allen Gemeinschaftsräumen untersagt. Die Mieterin hat dafür zu sorgen, dass Besucher die Hausordnung einhalten. Die Hausordnung ist Bestandteil dieses Vertrages und wurde der Mieterin vor Unterfertigung ausgehändigt.
+
+§ 7d Kündigung durch die Vermieterin
+
+Die Vermieterin kann das Mietverhältnis nur aus den im [[legal_norm|Mietrechtsgesetz]] genannten Gründen kündigen. Der Eigenbedarf einer nahen Angehörigen der Vermieterin berechtigt zur Kündigung nur, wenn die Voraussetzungen gesetzlich erfüllt sind. Die Mieterin ist über ihre Rechte nach der Kündigung belehrt worden.
+
+§ 7e Hausverwaltung
+
+Die Verwaltung des Hauses führt die Vermieterin selbst oder eine von ihr beauftragte Person; die Mieterin wird über einen Wechsel der Hausverwaltung schriftlich informiert. Die Kosten der Verwaltung sind in den Betriebskosten nicht enthalten, soweit sie gesondert ausgewiesen sind. Eine Auskunft über den Stand des Mietkontos erteilt die Verwaltung auf Verlangen binnen zwei Wochen.
+
 § 8 Schlussbestimmungen
 
 Änderungen dieses Vertrages bedürfen der Schriftform. Sollte eine Bestimmung unwirksam sein, bleibt der Vertrag im Übrigen gültig. Rückfragen zur Verwaltung richten Sie bitte an folgende Nummer: Tel. [[phone_number|07242/4828430 Kl. 16]].

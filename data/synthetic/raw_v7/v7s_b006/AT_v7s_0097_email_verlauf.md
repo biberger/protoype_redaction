@@ -42,7 +42,7 @@ Betreff: AW: Kaufpreisrest Lagerhalle [[location|St. Andrä]]
 
 Lieber Herr [[lawyer|Stelzel]],
 
-das Gesellschafterdarlehen ist im Umfang von EUR 31.000,00 noch vorhanden, die Auszahlung kann ich bis [[date|28. Oktober 2026]] veranlassen. Die Kontoauszüge für September schicke ich Ihnen heute noch nach. Ich bitte aber, die Frist mit der Gegenseite auszuhandeln, weil [[organization|Raus]] im Oktober eine Bestellung eines Großkunden abwickelt.
+das Gesellschafterdarlehen ist im Umfang von EUR 31.000,00 noch vorhanden, die Auszahlung kann ich bis [[date|28. Oktober 2026]] veranlassen. Die Kontoauszüge für September schicke ich Ihnen heute noch nach. Ich bitte aber, die Frist mit der Gegenseite auszuhandeln, weil [[organization|Raus]] im Oktober eine Bestellung eines Großkunden abwickelt. Die Lagerhalle wird derzeit nur noch zur Zwischenlagerung genutzt, eine Betriebsunterbrechung wäre daher kurzfristig nicht zu erwarten, wohl aber ein Verlust des Großauftrags, wenn die Ware nicht rechtzeitig ausgeliefert werden kann.
 
 > Am [[date|20.10.2026]] um 11:42 schrieb [[lawyer|Januarius Stelzel]]:
 > anbei erhalten Sie die Stellungnahme der Gegenseite zu dem offenen Kaufpreisrest.
@@ -69,7 +69,7 @@ ich vertrete die Verkäuferin, die [[organization|Kalkwerk Stubai Immobilien Gmb
 > Am [[date|20.10.2026]] um 15:08 schrieb [[person|Ilija Guberina]]:
 > das Gesellschafterdarlehen ist im Umfang von EUR 31.000,00 noch vorhanden.
 
-Die Summe des Kaufpreisrests beträgt EUR 38.500,00 zuzüglich Verzugszinsen. Herr [[person|Guberina]] hat bisher nur EUR 31.000,00 in Aussicht gestellt; der Differenzbetrag von EUR 7.500,00 ist nach unserer Auffassung zu bezahlen.
+Die Summe des Kaufpreisrests beträgt EUR 38.500,00 zuzüglich Verzugszinsen. Der Kaufvertrag enthält zudem eine Vertragsstrafe von EUR 1.000,00 für jeden angefangenen Monat des Verzugs, die wir allerdings nur für den Fall der Wandelung geltend machen würden. Herr [[person|Guberina]] hat bisher nur EUR 31.000,00 in Aussicht gestellt; der Differenzbetrag von EUR 7.500,00 ist nach unserer Auffassung zu bezahlen.
 
 Mit kollegialen Grüßen
 
@@ -99,3 +99,22 @@ Mit freundlichen Grüßen
 [[lawyer|Januarius Stelzel]]
 Rechtsanwalt
 Tel. [[phone_number|+43-5572-6664006 Kl. 25]]
+
+---
+
+Von: [[person|Ilija Guberina]] <[[email|guberina@rauskg.at]]>
+Gesendet: Montag, [[date|26. Oktober 2026]], 17:45
+An: [[lawyer|Januarius Stelzel]] <[[email|j.stelzel@kramer.at]]>
+Cc: [[lawyer|Mimi Fritsch]] <[[email|fritsch@fritsch-recht.at]]>
+Betreff: AW: AW: AW: Kaufpreisrest Lagerhalle [[location|St. Andrä]]
+
+Lieber Herr [[lawyer|Stelzel]],
+
+die Überweisung von EUR 31.000,00 ist heute um 16:20 Uhr vom Konto der [[organization|Raus KG]] abgegangen. Den Zahlungsbeleg habe ich dem Sekretariat übermittelt. Die Kontoauszüge für September liegen nun bei, ebenso die Abrechnung der Gesellschafterdarlehen.
+
+Ich bitte Sie, Frau [[lawyer|Fritsch]] mitzuteilen, dass der Restbetrag von EUR 7.500,00 erst nach der Prüfung der Verzugszinsen bezahlt wird. Die Zinsberechnung der Gegenseite können wir nicht nachvollziehen; wir gehen von einem Zinssatz von 4 % über dem Basiszinssatz aus.
+
+Mit besten Grüßen
+[[person|Ilija Guberina]]
+Geschäftsführer der [[organization|Raus KG]]
+Klientennummer: [[other_identifier|60238]]

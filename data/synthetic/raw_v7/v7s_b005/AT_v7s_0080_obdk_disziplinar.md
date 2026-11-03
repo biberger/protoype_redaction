@@ -62,6 +62,14 @@ Die Beschuldigte bestreitet in ihrer Stellungnahme die Vorwürfe zu den Zahlunge
 
 Die Anträge der Verteidigung auf Vertagung vom [[date|18. September 2024]] wurden abgewiesen, weil die Beschuldigte bereits zweimal um Verschiebung ersucht hatte und keine neuen Beweise angeboten wurden.
 
+Stellungnahme der Verteidigung
+
+Die Verteidigung hat in der Verhandlung vorgebracht, dass die Beschuldigte die Kanzlei im Frühjahr 2024 nach dem Tod ihres Kompagnons allein weitergeführt habe und dadurch überlastet gewesen sei. Sie habe in dieser Zeit mehr als dreißig Mandate übernommen. Die Verteidigung hat ferner eingewendet, dass die Beschwerde der Klientin verspätet erfolgt sei, weil die Klientin die Kontoauszüge erst im Mai 2024 erhalten habe.
+
+Der Senat hat dieses Vorbringen geprüft. Die Überlastung mag die Organisation der Kanzlei erschwert haben, sie entbindet die Beschuldigte aber nicht von ihren Pflichten. Ein Rechtsanwalt, der Treuhandgelder verwaltet, hat für ausreichende personelle Ressourcen zu sorgen oder die Übernahme weiterer Mandate abzulehnen. Die Frage der Verspätung ist unerheblich, weil die Pflicht zur Abrechnung unabhängig von einer Beschwerde besteht.
+
+Die Verteidigung hat zudem beantragt, das Verfahren einzustellen, soweit die Zahlung vom [[date|6. Mai 2024]] betroffen ist, da die Klientin eine Weisung erteilt habe. Auch dieser Antrag wurde abgewiesen, weil die Weisung nicht dokumentiert ist und die Klientin ihre Zustimmung ausdrücklich verweigert hat.
+
 Rechtliche Würdigung
 
 Der [[court|OBDK]] hat in ähnlich gelagerten Fällen wiederholt ausgesprochen, dass die wiederholte Verletzung der Abrechnungspflicht eine Geldbuße rechtfertigt. Ein Rückgriff auf die Verwarnung nach [[legal_norm|§ 45 Abs 1 Z 1 RAO]] scheidet daher aus. Der [[court|OGH]] als Disziplinargericht hat in seiner Entscheidung vom [[date|17. Juni 2024]], [[case_number|D 9/2024]], klargestellt, dass auch die Dauer der Pflichtverletzung zu berücksichtigen ist.

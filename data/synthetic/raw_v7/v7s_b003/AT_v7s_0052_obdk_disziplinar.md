@@ -79,6 +79,14 @@ Bei der Bemessung der Geldstrafe hat der Senat berücksichtigt, dass die Verzög
 
 Der Beisitzer [[judge|Dr. Eduard Margreiter]] hat in seiner abweichenden Auffassung die Ansicht vertreten, dass eine höhere Geldbuße angemessen gewesen wäre. Die Beisitzerin [[judge|Jelenka Mamić]] hat sich dieser Auffassung nicht angeschlossen. Die Entscheidung des Senates erfolgte mit Stimmenmehrheit.
 
+**IVd. Verfahrensdauer und Mitwirkung**
+
+Das Verfahren hat vom Antrag des Kammeranwalts bis zur Verhandlung rund zehn Monate gedauert. Die Verzögerung ist auf die Ladung der Zeugen und die Beiziehung der Buchungsunterlagen zurückzuführen, die die Beschuldigte selbst beantragt hat. Eine überlange Verfahrensdauer, die eine Milderung der Strafe begründen würde, liegt daher nicht vor. Der Senat hat jedoch gewürdigt, dass die Beschuldigte die vollständigen Kanzleiunterlagen vorgelegt und dadurch zur Aufklärung beigetragen hat.
+
+Die Beschuldigte hat während des Verfahrens an einer Fortbildungsveranstaltung der Rechtsanwaltskammer zum Thema Anderkontenführung teilgenommen. Dieser Umstand wurde als Zeichen der Einsicht gewertet und zugunsten der Beschuldigten berücksichtigt. Die Teilnahmebestätigung vom [[date|20. Mai 2025]] liegt dem Akt bei und wurde vom Senat ausdrücklich zur Kenntnis genommen, ohne dass daraus weitere Schlüsse für die Strafbemessung gezogen wurden.
+
+Die Beschuldigte hat in der Verhandlung ausdrücklich erklärt, dass sie die Verantwortung für die Verzögerung übernehme und die Organisation der Kanzlei geändert habe. Der Senat hat diese Erklärung als glaubhaft gewürdigt, weil die Kanzleiorganisation durch eine Bestätigung des Steuerberaters belegt wurde. Die Bestätigung datiert vom [[date|5. Juni 2025]]. Eine Wiederholung der Verstöße wäre disziplinarrechtlich schwerwiegend und würde eine deutlich höhere Strafe rechtfertigen.
+
 **IVc. Schlussbemerkung**
 
 Der Senat weist darauf hin, dass die ordnungsgemäße Abrechnung von Mandantengeldern zu den Grundpflichten eines Rechtsanwalts gehört und dass Verzögerungen dieser Art das Vertrauen in den Berufsstand gefährden. Die Beschuldigte wird aufgefordert, ihre Kanzleiorganisation so anzupassen, dass künftig jede Auszahlung innerhalb von zehn Werktagen nachvollziehbar dokumentiert ist.

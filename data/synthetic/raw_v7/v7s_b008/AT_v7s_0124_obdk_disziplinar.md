@@ -46,7 +46,7 @@ Eine weitere Treuhandschaft betraf die Klientin [[person|Nadia Ebner]], für die
 
 Der Senat hat die Aussagen des Beschuldigten, des Kammeranwalts [[person|Dr. Cornelis Immervoll]] und die vorgelegten Kontoauszüge gewürdigt. Der Beschuldigte erklärte, die Verzögerung sei auf eine Rückfrage seiner Kanzleikraft zurückzuführen. Eine solche Rückfrage ist durch keine Unterlage belegt.
 
-Die Stellungnahme der Kanzlei vom [[date|28. Mai 2026]], die unter GZ der Kanzlei: [[other_identifier|45/21 HLW]] eingebracht wurde, enthält keine Erklärung für die Verzögerung. Auf Rückfragen der Kammer war die Kanzlei nur telefonisch unter [[phone_number|+43-512-9086133 DW 477]] erreichbar, die Rückrufe erfolgten verspätet.
+Die Stellungnahme der Kanzlei vom [[date|28. Mai 2026]], die unter GZ der Kanzlei: [[other_identifier|45/21 HLW]] eingebracht wurde, enthält keine Erklärung für die Verzögerung. Auf Rückfragen der Kammer war die Kanzlei nur telefonisch unter Tel. [[phone_number|+43-512-9086133 DW 477]] erreichbar, die Rückrufe erfolgten verspätet.
 
 Der Beschuldigte hat in seiner schriftlichen Stellungnahme ausgeführt, dass die Gegenseite die Zahlung zunächst nur unter dem Vorbehalt einer Rückforderung leisten wollte und er die Auszahlung deshalb bis zur schriftlichen Bestätigung zurückgehalten habe. Eine solche Vorbehaltsklausel war in der Vereinbarung vom [[date|12. Jänner 2026]] nicht enthalten. Auch eine Mitteilung an die Klientin über die Zurückhaltung fehlt. Der Beschuldigte hat diese Unterlassung eingeräumt.
 
@@ -61,6 +61,8 @@ Der Senat hat berücksichtigt, dass der Beschuldigte den Betrag letztlich vollst
 Die Geldbuße wurde unter Berücksichtigung der bisherigen Unbescholtenheit des Beschuldigten bemessen. Erschwerend wirkte, dass der Beschuldigte die Kanzleiauslagen ohne Beleg verrechnet hat.
 
 Die Kosten des Verfahrens trägt der Beschuldigte.
+
+Die Entscheidung ist unanfechtbar, soweit sie die Schuldfrage betrifft, und kann im Übrigen mit Berufung angefochten werden.
 
 [[location|Linz]], am [[date|22. September 2026]]
 

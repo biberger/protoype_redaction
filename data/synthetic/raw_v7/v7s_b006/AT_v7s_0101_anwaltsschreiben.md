@@ -16,7 +16,7 @@ ERV-Code: [[other_identifier|P110739]]
 An die
 [[organization|Lavanter Hausverwaltung GmbH]] ([[organization|LHV]])
 z.H. Geschäftsführer [[person|Mito Milutinović]]
-Tegnergasse 60, 9906 Lavant
+[[address|Tegnergasse 60, 9906 Lavant]]
 
 Unser Zeichen: [[other_identifier|55/21 EFF]]
 GZ der Kanzlei: [[other_identifier|Lichtblau ./. Gomperz]]
@@ -25,15 +25,15 @@ Betreff: Wasserschaden Wohnung Top 4, Schadenersatz und Mietzinsminderung
 
 Sehr geehrter Herr [[person|Milutinović]],
 
-wir vertreten Herrn [[person|Oskar Lichtblau]] als Eigentümer der Wohnung im Haus Tegnergasse 52. Die Mieterin [[person|Burgstaller Patsy]] hat der [[organization|LHV]] den Wasserschaden in der Küche am [[date|3. August 2026]] gemeldet. Trotz zweifacher Urgenz wurde die Leitung bis heute nicht saniert.
+wir vertreten Herrn [[person|Oskar Lichtblau]] als Eigentümer der Wohnung im Haus [[address|Tegnergasse 52]]. Die Mieterin [[person|Burgstaller Patsy]] hat der [[organization|LHV]] den Wasserschaden in der Küche am [[date|3. August 2026]] gemeldet. Trotz zweifacher Urgenz wurde die Leitung bis heute nicht saniert.
 
 Die Mieterin [[person|Patsy Burgstaller]] wohnt seit dem Jahr 2019 in der Wohnung und hat die Miete bisher pünktlich bezahlt. Sie ist nicht bereit, den vollen Mietzins für die Monate August bis Oktober 2026 zu zahlen, solange die Küche nicht benutzbar ist. Herr [[person|Lichtblau]] unterstützt diese Haltung.
 
-Die Verwaltung wird aufgefordert, bis spätestens [[date|10. November 2026]] die Sanierung der Leitung zu beauftragen und den Schaden an Einrichtung und Boden zu regulieren. Der Schaden wird vorläufig mit EUR 4.120,00 beziffert.
+Die Verwaltung wird aufgefordert, bis spätestens [[date|10. November 2026]] die Sanierung der Leitung zu beauftragen und den Schaden an Einrichtung und Boden zu regulieren. Der Schaden wird vorläufig mit EUR 4.120,00 beziffert. Die Feuchtigkeit hat auch die Wand zum Stiegenhaus erreicht, wie die Lichtbilder vom [[date|5. August 2026]] zeigen. Ein Sachverständigengutachten zur Ermittlung des Schadenumfangs wurde von uns bereits angeregt; wir ersuchen um Zustimmung zur Begehung durch den Sachverständigen.
 
 Sollte die Frist ungenutzt verstreichen, werden wir die Ansprüche beim [[court|Bezirksgericht Innere Stadt Wien]] geltend machen. Die Akten des Verfahrens liegen beim [[court|BG Innere Stadt Wien]] bereits zur Einsicht auf.
 
-Der Mieter [[person|Milutinović]] hat in der Vergangenheit mehrfach angekündigt, dass die Verwaltung die Angelegenheit selbst regeln werde. Wir ersuchen um schriftliche Bestätigung des Sanierungsauftrags.
+Der Geschäftsführer [[person|Milutinović]] hat in der Vergangenheit mehrfach angekündigt, dass die Verwaltung die Angelegenheit selbst regeln werde. Wir ersuchen um schriftliche Bestätigung des Sanierungsauftrags.
 
 Mit freundlichen Grüßen
 

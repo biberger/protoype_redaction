@@ -79,6 +79,10 @@ Die Verletzung der Abrechnungspflicht ist für sich genommen ein Verstoß von mi
 
 Der Senat hat die Beschuldigte bisher disziplinär nicht auffällig erkannt. Dies sowie die teilweise Rückzahlung wirken mildernd. Erschwerend wirkt, dass die Beschuldigte die Abrechnung über einen Zeitraum von mehr als drei Jahren unterlassen hat und ihren Verpflichtungen trotz Mahnung nicht nachgekommen ist.
 
+Verfahrensrechtliche Hinweise
+
+Der Senat weist darauf hin, dass das Erkenntnis erst mit Rechtskraft vollstreckbar wird. Die Beschuldigte wurde über ihr Recht zur Stellung eines Antrages auf Aufschub der Geldbuße belehrt. Ein solcher Antrag ist bei der Kammer einzubringen und wird vom Senat binnen vier Wochen entschieden.
+
 V. Strafzumessung
 
 Unter Berücksichtigung dieser Umstände erscheint eine Geldbuße von EUR 4.800,00 tat- und schuldangemessen. Eine Streichung von der Liste kam mangels Wiederholungsgefahr nicht in Betracht, da die Beschuldigte ihre Kanzlei nach Angaben in der Verhandlung umstrukturiert hat und seit dem [[date|1. April 2025]] keine Treuhandgelder mehr annimmt. Der Senat hat auch geprüft, ob eine bedingte Nachsicht in Betracht kommt, diese jedoch im Hinblick auf den Umstand verworfen, dass der Restbetrag bis heute nicht vollständig ausgeglichen ist.
@@ -86,6 +90,15 @@ Unter Berücksichtigung dieser Umstände erscheint eine Geldbuße von EUR 4.800,
 Die Verhängung einer Geldbuße ist ausreichend, um die Beschuldigte und andere Rechtsanwälte von vergleichbaren Verstößen abzuhalten. Der Senat betont, dass die Pflicht zur getrennten Verwahrung von Klientengeldern zu den Kernpflichten des Anwaltsberufs zählt.
 
 Die Kostenentscheidung beruht auf [[legal_norm|§ 51 Abs 1 DSt]].
+
+Kostenverzeichnis
+
+Pauschalgebühr des Verfahrens | EUR 350,00
+Schriftliche Gutachten und Zeugenvergütungen | EUR 412,80
+Kosten der Verhandlung, Protokollabschrift | EUR 186,40
+Summe | EUR 949,20
+
+Die Beschuldigte hat die Kosten innerhalb von 14 Tagen nach Zustellung dieses Erkenntnisses an die Kammer zu überweisen.
 
 Gegen dieses Erkenntnis ist die Berufung binnen vier Wochen zulässig. Über sie entscheidet der [[court|Oberste Gerichtshof]] als Disziplinargericht in zweiter Instanz.
 

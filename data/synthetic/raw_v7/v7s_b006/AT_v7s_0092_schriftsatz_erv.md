@@ -58,7 +58,7 @@ Die Zuständigkeit des [[court|Bezirksgerichts Mödling]] ergibt sich aus [[lega
 
 3. Beweisanbote
 
-Zum Beweis dienen die Urkunden ./A bis ./H sowie die Einvernahme des Geschäftsführers der klagenden Partei. Die Erstbeklagte [[person|Franchy]] wird zur Vernehmung als Partei angeboten.
+Zum Beweis dienen die Urkunden ./A bis ./H sowie die Einvernahme des Geschäftsführers der klagenden Partei. Die Erstbeklagte [[person|Franchy]] wird zur Vernehmung als Partei angeboten. Die Zweitbeklagte [[person|Grassler]] wird ebenfalls zur Vernehmung als Partei angeboten, da sie die Lieferungen im Juli 2024 persönlich entgegengenommen hat; der Übernahmeschein Nr. 88 trägt ihre Unterschrift. Die Drittbeklagte [[person|Stainer]] hat die Teilzahlung vom [[date|2. August 2025]] selbst veranlasst und kann zu deren Umständen befragt werden.
 
 4. Anträge
 

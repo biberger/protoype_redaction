@@ -83,6 +83,22 @@ Die Berufung rügt zudem, der Disziplinarrat habe die Kanzleiprüfung nicht ausr
 
 Die Höhe der Geldbuße richtet sich nach dem Gewicht des Verstoßes und den persönlichen Verhältnissen der Beschuldigten. Der Senat hat berücksichtigt, dass die Beschuldigte seit dem Jahr 2024 keine Mandate mehr im Treuhandbereich übernommen hat, was als Umstand zu ihren Gunsten zu werten ist.
 
+**Honorarnote und Abrechnung**
+
+Die Beschuldigte legte im Verfahren eine Honorarnote vom [[date|30. November 2022]] vor, die über ein Pauschalhonorar von EUR 4.900,00 lautete. Die Note war nicht unterfertigt und trug kein Datum der Zustellung an die Mandantin. Nach dem Vorbringen der Beschuldigten sei die Note bereits im Oktober 2021 mündlich vereinbart worden, was [[person|Selimović]] bestritt.
+
+Der Senat hält fest, dass auch eine tatsächlich vereinbarte Honorarforderung nicht zur Entnahme ohne Abrechnung berechtigt. Die Beschuldigte hätte den Betrag nach der Abrechnung dem Mandanten vorlegen und erst danach entnehmen dürfen. Dass dies unterblieben ist, wiegt schwer.
+
+**Stellungnahme des Kammeranwalts**
+
+Der Kammeranwalt [[person|Mag. Randek Masařík]] hat in seiner Stellungnahme darauf hingewiesen, dass die Beschuldigte seit dem Jahr 2016 insgesamt vier Verfahren vor der Kammer geführt hat, von denen eines mit einer Ermahnung endete. Er regte an, die Geldbuße nicht herabzusetzen, weil die Beschuldigte die Verantwortung für die Buchungen nicht übernommen habe.
+
+Der Senat folgt dieser Anregung nur teilweise. Die Verantwortung der Beschuldigten ist zwar unzureichend, sie hat aber die Entnahmen von EUR 4.900,00 im Verfahren vollständig ausgeglichen und den Schaden der Mandantin beseitigt. Damit ist die Herabsetzung der Geldbuße gerechtfertigt.
+
+**Abschließende Bemerkungen zum Treuhandwesen**
+
+Der Senat betont, dass die Trennung von Fremd- und Eigengeld eine Grundpflicht des Rechtsanwalts ist, die auch dann gilt, wenn die Kanzlei wirtschaftlich unter Druck steht. Wer Fremdgeld verwaltet, muss das Konto so führen, dass jederzeit nachvollziehbar ist, wem welcher Betrag zusteht. Eine Verbuchung erst nach mehreren Monaten genügt diesem Anspruch nicht.
+
 **Rechtsmittelbelehrung**
 
 Gegen diese Entscheidung ist ein weiteres Rechtsmittel an den [[court|OGH]] nur zulässig, soweit eine Rechtsfrage von grundsätzlicher Bedeutung zu klären ist. Ein solcher Antrag ist binnen vier Wochen ab Zustellung einzubringen.

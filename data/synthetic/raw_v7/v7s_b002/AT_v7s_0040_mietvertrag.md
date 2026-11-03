@@ -89,6 +89,18 @@ VI a. Haustiere, Rauchen und Hausordnung
 
 12c. Der Mieter nimmt zur Kenntnis, dass der Abstellplatz im Hof nur für das angegebene Fahrzeug bestimmt ist. Eine Benützung durch Dritte ist unzulässig.
 
+VI b. Instandsetzung, Mängel und Schäden
+
+15f. Mängel, die die Benützbarkeit der Wohnung beeinträchtigen, hat der Mieter der Vermieterin unverzüglich schriftlich anzuzeigen. Unterlässt der Mieter diese Anzeige, haftet er für den daraus entstehenden Schaden.
+
+15g. Die Vermieterin verpflichtet sich, Mängel binnen angemessener Frist zu beheben. Während der Dauer einer Mängelbehebung, die die Wohnung nicht benützbar macht, ist der Mietzins anteilig zu mindern.
+
+15h. Der Mieter gestattet der Vermieterin nach vorheriger Ankündigung von mindestens acht Tagen den Zutritt zur Wohnung zur Prüfung von Heizung, Wasser und Elektroinstallation. Bei Gefahr im Verzug ist der Zutritt auch ohne Vorankündigung zulässig.
+
+15i. Änderungen an der Wohnung, insbesondere das Entfernen von Wänden oder der Einbau von Sanitäranlagen, bedürfen der schriftlichen Zustimmung der Vermieterin. Vom Mieter auf eigene Kosten eingebrachte Änderungen sind bei Vertragsende auf Verlangen zu entfernen.
+
+15j. Die Vermieterin übergibt dem Mieter eine Liste der Ansprechpartner der Hausverwaltung. Notfälle außerhalb der Geschäftszeiten sind an den Bereitschaftsdienst unter der Nummer [[phone_number|0662 855012 DW 769]] zu melden.
+
 VII. Schlussbestimmungen
 
 14. Änderungen dieses Vertrages bedürfen der Schriftform. Mündliche Nebenabreden bestehen nicht.

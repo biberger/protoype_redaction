@@ -69,6 +69,8 @@ III. Beweise
 
 12. Die Zeugin [[person|Kraxner]] war Angestellte der [[organization|Halper Gastronomie GmbH]] und hat die Lieferungen überwacht. Frau [[person|Kraxner]] ist unter der Adresse der Gesellschaft erreichbar und hat die Übergabe des Inventars bestätigt.
 
+Die Klägerin hat ihre Forderung zudem durch die Kontoauszüge der [[organization|Halper Gastronomie]] belegt, auf denen die Zahlungen des Beklagten vermerkt sind. Die Auszüge sind als Beilage ./B angeschlossen. Sie zeigen Zahlungseingänge im Jahr 2019 und 2020 in regelmäßiger Höhe von EUR 300,00 bis EUR 450,00. Die Klägerin behält sich vor, die Forderung nach Vorliegen einer Auskunft der Schuldnerdatenbank zu erweitern.
+
 IV. Anträge
 
 Die Klägerin stellt daher den Antrag,

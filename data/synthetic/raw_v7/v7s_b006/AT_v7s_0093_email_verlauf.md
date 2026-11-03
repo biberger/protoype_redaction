@@ -49,7 +49,7 @@ vielen Dank für Ihre Nachricht. Wir haben die Unterlagen gesichtet und stellen 
 > Die Klage ist beim [[court|Landesgericht Innsbruck]] zu [[case_number|5 Cg 88/26p]] eingebracht worden.
 > Klientennummer: [[other_identifier|60238]]
 
-Wir schlagen vor, dass wir die Gegenseite zunächst zu einem Vergleich einladen. Die Vermieterin hat bereits durch [[lawyer|Hansgeorg Hanisch]] Kontakt aufgenommen, siehe unten.
+Wir schlagen vor, dass wir die Gegenseite zunächst zu einem Vergleich einladen. Die Vermieterin hat bereits durch [[lawyer|Hansgeorg Hanisch]] Kontakt aufgenommen, siehe unten. Die Unterlagen zum Mietverhältnis, insbesondere den Zahlungsverlauf und die Übergabeprotokolle, übersenden Sie bitte bis Mittwoch an unser Sekretariat.
 
 Mit freundlichen Grüßen
 

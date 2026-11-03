@@ -40,6 +40,8 @@ Summe netto: EUR 1.940,00
 Umsatzsteuer 20 %: EUR 388,00
 Gesamtbetrag brutto: EUR 2.328,00
 
+Die Leistungen des genannten Zeitraums umfassen die Recherche zu den Mietzinsrückständen, die Abstimmung mit der Hausverwaltung und die Vorbereitung der Vollstreckbarkeitsbestätigung. Die Vergleichsverhandlung fand am [[date|09.06.2026]] in den Räumen der Kanzlei statt; [[person|Ishak]] war persönlich anwesend, [[person|Gerlach]] wurde durch seine Vertretung eingebunden.
+
 Der Vergleich sieht vor, dass [[person|Gerlach]] die Räumung bis zum [[date|31.08.2026]] vornimmt und die Verfahrenskosten zu zwei Dritteln trägt. Die Vergleichsgebühr wurde mit dem Gericht abgerechnet; die Gerichtsgebühren sind in obiger Summe nicht enthalten. Eine Einsicht in die Vergleichsurkunde ist in unserer Kanzlei jederzeit möglich.
 
 Zahlungen bitte auf das Konto IBAN [[bank_account|AT79 8038 5612 8575 6543]] unter Angabe der Kl.-Nr. [[other_identifier|74088]] überweisen.

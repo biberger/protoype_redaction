@@ -87,7 +87,19 @@ Der Senat hat die Aussage der Zeugin mit dem Schriftverkehr verglichen. Die Mahn
 
 Der Senat hat bei der Festsetzung der Geldbuße berücksichtigt, dass der Beschuldigte bislang nicht disziplinarrechtlich in Erscheinung getreten ist und dass er die Zinsen nach Kenntnis unverzüglich ausbezahlt hat. Erschwerend waren die Dauer der Verzögerung und die Tatsache, dass die Mandantin mehrfach um eine Abrechnung ersuchen musste. Die Geldbuße von EUR 3.800,00 liegt im unteren Bereich des gesetzlichen Rahmens und berücksichtigt die wirtschaftlichen Verhältnisse des Beschuldigten, die durch eine Bescheinigung der Steuerberatung belegt wurden.
 
-Die Kanzleikraft des Beschuldigten war im Tatzeitraum wegen einer Erkrankung nur eingeschränkt tätig. Dieser Umstand wurde zugunsten des Beschuldigten berücksichtigt, jedoch nicht als Rechtfertigung für die Verzögerung anerkannt, weil die Verantwortung für die Abrechnung beim Rechtsanwalt liegt. Der Spruch ist einstimmig gefasst; die Kammeranwältin hatte eine höhere Geldbuße beantragt, der Senat hat dem nicht entsprochen.
+Die Kanzleikraft des Beschuldigten war im Tatzeitraum wegen einer Erkrankung nur eingeschränkt tätig. Dieser Umstand wurde zugunsten des Beschuldigten berücksichtigt, jedoch nicht als Rechtfertigung für die Verzögerung anerkannt, weil die Verantwortung für die Abrechnung beim Rechtsanwalt liegt. Der Spruch ist mit Stimmenmehrheit gefasst; die Kammeranwältin hatte eine höhere Geldbuße beantragt, der Senat hat dem nicht entsprochen.
+
+**V d. Beweisanträge**
+
+Der Beschuldigte [[person|Saraj]] hat die Einvernahme einer weiteren Zeugin beantragt, die die Abwicklung der Anderkonten in der Kanzlei bezeugen sollte. Der Senat hat diesen Antrag abgelehnt, weil die Zeugin nicht im Zeitraum der Verzögerung tätig war. Ebenso wurde der Antrag auf Einholung eines Gutachtens zur Verzinsung abgelehnt, da die Höhe der Zinsen aus den Kontoauszügen eindeutig hervorgeht.
+
+Der Senat hat die vorgelegten Kontoauszüge des Anderkontos verlesen und die Zinsgutschriften mit den Auszahlungen an die Mandantin abgeglichen. Die Kammeranwältin [[person|Rucker]] hat erklärt, dass die Zinsen insgesamt EUR 1.140,00 betragen und erst mit einer Verzögerung von über einem Jahr ausbezahlt wurden. Der Beschuldigte [[person|Saraj]] hat dies nicht bestritten, aber auf die organisatorischen Umstände in seiner Kanzlei verwiesen. Die Verlesung wurde ohne Einwendung der Parteien durchgeführt; der Senat hat die Auszüge in der Folge seiner Beurteilung ausdrücklich zugrunde gelegt und den Zeitpunkt der Auszahlungen festgestellt.
+
+**V e. Beratung und Entscheidung**
+
+Der Senat hat nach Schluss der Verhandlung in nicht öffentlicher Sitzung beraten. Die Beisitzerin [[judge|Şevval Akpinar]] hat die Frage der Verzinsung zum Anlass genommen, eine geringere Geldbuße zu erwägen. Die Beisitzerin [[judge|Manila MMag. Berdini]] und die Vorsitzende [[judge|Stadler]] haben sich für die Geldbuße in der festgesetzten Höhe ausgesprochen. Der Senat hat sich daraufhin mit Stimmenmehrheit für den Spruch entschieden.
+
+Die Schriftführung [[person|Kraml]] hat das Protokoll der Beratung geführt. Das Protokoll wurde den Mitgliedern des Senates zur Unterfertigung vorgelegt und ist dem Akt beigeschlossen.
 
 **VI. Zustellung**
 

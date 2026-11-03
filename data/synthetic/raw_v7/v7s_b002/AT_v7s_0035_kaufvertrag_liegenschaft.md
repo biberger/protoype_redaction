@@ -117,6 +117,22 @@ VII. Schlussbestimmungen
 
 19. Die Käufer verpflichten sich, die Liegenschaften nach der Übergabe nicht ohne Zustimmung der Verkäuferin zu teilen, solange die Bauarbeiten am Wohnhaus nicht abgeschlossen sind.
 
+VIII. Bauverpflichtung und Nutzung
+
+20. Die Käufer verpflichten sich, auf dem Grundstück [[land_register_id|567/15]] innerhalb von 24 Monaten ab Eintragung mit der Errichtung des Wohnhauses zu beginnen. Die Baubewilligung wird von der [[organization|Rosenkranz Bau]] als Bauwerberin eingeholt, die Kosten des Verfahrens trägt die Käuferseite.
+
+21. Die Verkäuferin verpflichtet sich, für das Grundstück [[land_register_id|567/15]] keine weiteren Teilungen vorzunehmen und die Zufahrt zur Liegenschaft [[land_register_id|1740]] bis zur Übergabe offen zu halten.
+
+22. Die Käufer nehmen zur Kenntnis, dass das Nachbargrundstück im Eigentum eines Dritten steht und dass über die Grenze hinweg ein Leitungsrecht für Strom und Wasser besteht, das im Grundbuch eingetragen ist.
+
+IX. Kosten und Steuern
+
+23. Die Grunderwerbsteuer wird nach dem Wert der Gegenleistung ermittelt und von den Käufern getragen. Die Eintragungsgebühr trägt ebenfalls der Käufer. Die Kosten der Lastenfreistellung trägt die Verkäuferin.
+
+24. Die Verkäuferin hat die Abrechnung der Grundsteuer für das laufende Jahr bis zum Übergabetag zu begleichen. Die anteilige Verrechnung der Kanalgebühren erfolgt nach der Abrechnung der Gemeinde.
+
+25. Die Parteien vereinbaren, dass die Kosten der Errichtung dieses Vertrages zur Hälfte geteilt werden, sofern die Treuhandschaft nicht vor dem [[date|31. Dezember 2026]] abgeschlossen ist.
+
 Anhang A: Auszug aus dem Grundbuch (nicht amtlich)
 
 Einlagezahl [[land_register_id|1740]] [[land_register_id|KG 46750 Aggsbach]]

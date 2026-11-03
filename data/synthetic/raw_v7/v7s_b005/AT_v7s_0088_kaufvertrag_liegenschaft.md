@@ -76,7 +76,23 @@ V. Vermietung und Pachtverhältnisse
 
 Die Liegenschaft ist nicht vermietet. Ein Pachtverhältnis mit der [[organization|Meyer KG]] ist seit dem [[date|30. April 2025]] beendet. Die [[organization|Meyer]] hat die Liegenschaft am [[date|15. Juni 2025]] geräumt und die Schlüssel zurückgegeben.
 
-VI. Schlussbestimmungen
+VI. Belastungen und Grundbuchsstand
+
+Auf der Liegenschaft lasten keine Pfandrechte. Im B-Blatt ist eine Dienstbarkeit des Wegerechts zugunsten des Nachbargrundstücks eingetragen, die von den Käufern übernommen wird. Im C-Blatt sind keine Vormerkungen vermerkt. Die Verkäuferinnen erklären, dass ihnen keine Verwaltungsverfahren bekannt sind, die die Liegenschaft betreffen.
+
+VII. Baurecht und Flächenwidmung
+
+Die Liegenschaft ist im Flächenwidmungsplan der Gemeinde [[location|Pühret]] als Grünland ausgewiesen. Eine Bebauung ist nach dem derzeitigen Stand nicht zulässig. Die Käufer erklären, dass ihnen diese Einschränkung bekannt ist und dass sie den Erwerb unabhängig von einer künftigen Umwidmung vornehmen. Die Verkäuferinnen übernehmen keine Haftung für eine spätere Änderung der Widmung.
+
+VIII. Nutzungsrechte und Pacht
+
+Die Verkäuferinnen erklären, dass die Liegenschaft an keine dritte Person verpachtet ist und dass die [[organization|Meyer KG]] nach dem Ende ihres Pachtverhältnisses keine Ansprüche mehr erhebt. Die Käufer übernehmen die Pflicht, die Pflanzungen am Waldrand zu erhalten.
+
+IX. Übergabe
+
+Die Übergabe erfolgt mit der Einverleibung des Eigentumsrechts. Die Käufer werden ab diesem Zeitpunkt zur Nutzung der Liegenschaft berechtigt. Die Zählerstände werden bei der Übergabe festgehalten; die Verkäuferinnen übergeben die Schlüssel für das Gartentor.
+
+X. Schlussbestimmungen
 
 Die Kosten dieses Vertrages trägt jede Partei zur Hälfte. Die Grunderwerbsteuer tragen die Käufer. Änderungen dieses Vertrages bedürfen der Schriftform. Die Kanzlei ist für Rückfragen unter Tel. [[phone_number|+43 463 623 46 73 DW 192]] erreichbar.
 
