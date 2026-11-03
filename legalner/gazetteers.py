@@ -175,11 +175,18 @@ _CYR = dict(zip("абвгґдеєжзиіїйклмнопрстуфхцчшщь�
                  "p", "r", "s", "t", "u", "f", "ch", "z", "tsch", "sch", "schtsch", "", "ju", "ja", "y", "e", "jo", ""]))
 
 
+_GRK = dict(zip("αβγδεζηθικλμνξοπρσςτυφχψωάέήίόύώϊϋΐΰ",
+                ["a", "v", "g", "d", "e", "z", "i", "th", "i", "k", "l", "m", "n", "x", "o", "p", "r", "s", "s", "t", "y",
+                 "f", "ch", "ps", "o", "a", "e", "i", "i", "o", "y", "o", "i", "y", "i", "y"]))
+
+
 def transliterate(name):
-    """Cyrillic -> German-style Latin transliteration ("Олена" -> "Olena"), as Austrian documents write such names."""
+    """Cyrillic and Greek -> Latin transliteration ("Олена" -> "Olena", "Σωκρατης" -> "Sokratis"), as Austrian
+    documents write such names."""
+    name = name.replace("ου", "ou").replace("Ου", "Ou").replace("ΟΥ", "OU")
     out = []
     for c in name:
-        t = _CYR.get(c.lower())
+        t = _CYR.get(c.lower()) or _GRK.get(c.lower())
         out.append(c if t is None else (t.capitalize() if c.isupper() else t))
     return "".join(out)
 

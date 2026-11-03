@@ -18,7 +18,7 @@ brief's "file" field.
    - Every string in "verbatim" is copied EXACTLY somewhere natural in the text, tags included. Do not
      normalise their spelling or order: the odd forms are the point.
    - "notes" (when given) say how to place some verbatim strings; follow them, never copy them into the text.
-   - persons: use the name as given; when "date_of_birth" is given write birth_cue + date_of_birth and tag the date as
+   - persons: use the name as given and the "role" when given ("date_of_death" for a deceased is a [[date|…]]); when "date_of_birth" is given write birth_cue + date_of_birth and tag the date as
      [[date_of_birth|…]] (not date); when "degree_position" is "between", write the degree between given name and
      surname inside the one person span (given name, degree, surname); "nationality" is a [[country|…]].
    - court, company (name, FN as company_register_number, UID as tax_id), iban, svnr (of its "holder"), plate as far as the document

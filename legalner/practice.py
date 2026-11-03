@@ -266,7 +266,7 @@ PROFILE = {
     "verlassenschaft": dict(firm=1, notary=True, land=(1, 2), land_p=1, court=("bg", 1), persons=(3, 6), dob=0.9, nat=0.1,
                             oid=("vertrag", "polizze", "kunde"), company=0.15, iban=1, svnr=0.3, plate=0.1,
                             words=(450, 1100), hard=["deceased", "heirs_list", "wrap", "surname_first"]),
-    "obdk_disziplinar": dict(firm=0, land=(0, 1), land_p=0.1, court=("disciplinary", 1), persons=(3, 6), dob=0.2, nat=0.05,
+    "obdk_disziplinar": dict(firm=0, land=(0, 1), land_p=0.1, court=("disciplinary", 1), persons=(6, 8), dob=0.2, nat=0.05,
                              oid=("treuhand", "treuhand", "zeichen"), company=0.2, iban=0.3, svnr=0, plate=0,
                              words=(650, 1500), hard=["minutes", "trust", "abbr"]),
 }
@@ -280,6 +280,27 @@ def _svnr(rng, persons):
             d, mo, y = (m[1], m[2], m[3]) if m[1] else (m[6], m[5], m[4][2:])
             return {"holder": p["name"], "value": F.svnr(rng, dob=f"{d}{mo}{y}")}
     return None
+
+
+def _roles(rng, doc_type, persons):
+    """Fix who is who where the document type needs it (re-pilot: writers invented a deceased and a Kammeranwalt)."""
+    if doc_type == "verlassenschaft":
+        dec = persons[0]
+        dec["role"] = "deceased (Erblasser/in)"
+        y = int(re.search(r"(\d{4})", dec.get("date_of_birth", "1940"))[1])
+        dec["date_of_death"] = f"{rng.randint(1, 28):02d}.{rng.randint(1, 12):02d}.{rng.randint(min(max(y + 40, 2015), 2026), 2026)}"
+        for p in persons[1:]:
+            p["role"] = rng.choice(["heir", "heir", "heir", "legatee", "creditor of the estate"])
+    elif doc_type == "obdk_disziplinar":
+        roles = ["accused lawyer", "Kammeranwalt/Kammeranwältin", "chair of the senate", "senate member",
+                 "senate member", "recording clerk", "client / complainant", "client / complainant"]
+        for p, r in zip(persons, roles):
+            p["role"] = r
+            if r != "accused lawyer" and r.startswith(("chair", "senate", "Kammer")) and "degree" not in p and rng.random() < 0.7:
+                p["degree"], p["degree_position"] = rng.choice(["Dr.", "Mag.", "Dr.", "MMag."]), "before"
+    elif doc_type == "mietvertrag":
+        persons[0]["role"] = "landlord (or the landlord company's signatory)"
+        persons[1]["role"] = "tenant"
 
 
 def _court(rng, kind):
@@ -298,6 +319,7 @@ def brief(gaz, rng, doc_type, idx, wave):
     firm = law_firm(gaz, rng, notary=pr.get("notary", False)) if rng.random() < pr["firm"] else None
     persons = [person(gaz, rng, dob=rng.random() < pr["dob"], nationality_p=pr["nat"])
                for _ in range(rng.randint(*pr["persons"]))]
+    _roles(rng, doc_type, persons)
     verbatim, notes = [], []
     court_full = court_abbr = None
     kind, cp = pr["court"]

@@ -25,7 +25,7 @@ Betreff: Schadensfall vom [[date|3. Juli 2026]], Pkw [[license_plate|HO 8904 V]]
 
 Sehr geehrte Frau [[person|Linde]],
 
-wir bestätigen den Eingang Ihrer Schadensmeldung für Ihre Mandantin [[person|Ploumi Kambouroglou]] *[[date_of_birth|21.11.1967]] (Geburtsdatum laut Meldung). Die Schadennummer lautet [[other_identifier|11/948839/26]]. Die zuständige Sachbearbeiterin ist Staatsangehörige der [[country|Slowakei]] und wird für die interne Akteneinsicht einen Dolmetsch benötigen; bitte teilen Sie uns mit, ob Ihre Mandantin ebenfalls Dolmetschbedarf hat.
+wir bestätigen den Eingang Ihrer Schadensmeldung für Ihre Mandantin [[person|Ploumi Kambouroglou]] *[[date_of_birth|21.11.1967]] (Geburtsdatum laut Meldung). Die Schadennummer lautet [[other_identifier|11/948839/26]]. Ihr Zeichen: [[other_identifier|Kambouroglou ./. Wagnes]] haben wir übernommen. Die zuständige Sachbearbeiterin ist Staatsangehörige der [[country|Slowakei]] und wird für die interne Akteneinsicht einen Dolmetsch benötigen; bitte teilen Sie uns mit, ob Ihre Mandantin ebenfalls Dolmetschbedarf hat.
 
 Der Sachverständige hat den Schaden an der Heckklappe und am rechten Kotflügel besichtigt. Die Reparaturkosten werden derzeit auf EUR 3.870,00 geschätzt.
 

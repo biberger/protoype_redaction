@@ -63,7 +63,7 @@ Die Fahrnisse des Erblasserhaushalts werden einvernehmlich geteilt. Die Erben ha
 
 5. Zusammenfassung
 
-Der Nettonachlass beträgt nach Abzug der Passiva rund EUR 63.000,00. Bis zur Einantwortung verwaltet der Notar die Verlassenschaft; Einkünfte aus der Liegenschaft in Moosbrunn werden auf das Verlassenschaftskonto eingezahlt und dort verwahrt. Die Erben sind über das Ergebnis der Erhebungen schriftlich informiert worden. Die Erben werden zur Übernahme der Verlassenschaft nach Maßgabe der Erbquoten aufgefordert. Die Aufsandungserklärung für die Liegenschaft ist bis zum [[date|30.06.2026]] vorzulegen.
+Der Nettonachlass beträgt nach Abzug der Passiva rund EUR 63.000,00. Bis zur Einantwortung verwaltet der Notar die Verlassenschaft; Einkünfte aus der Liegenschaft in [[location|Moosbrunn]] werden auf das Verlassenschaftskonto eingezahlt und dort verwahrt. Die Erben sind über das Ergebnis der Erhebungen schriftlich informiert worden. Die Erben werden zur Übernahme der Verlassenschaft nach Maßgabe der Erbquoten aufgefordert. Die Aufsandungserklärung für die Liegenschaft ist bis zum [[date|30.06.2026]] vorzulegen.
 
 Das Notariat bittet die Erben um Vorlage der Geburtsurkunden und der Sterbeurkunde bis zum [[date|15. April 2026]].
 
@@ -74,5 +74,7 @@ Für die Richtigkeit der Ausfertigung:
 ____________________
 [[person|P O R S C H E]]
 Notar
+
+Tel. [[phone_number|+43 732 721 54 75 Durchwahl 98]]
 
 Beilagen: Sterbeurkunde, Auszug aus dem Grundbuch, Verzeichnis der Konten
