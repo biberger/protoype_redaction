@@ -7,7 +7,7 @@ lang: de
 
 abgeschlossen zwischen
 
-Vermieterin: [[organization|Wollner KG]], [[company_register_number|FN 453856k]], [[tax_id|UID ATU11113711]],
+Vermieterin: [[organization|Wollner KG]], [[company_register_number|FN 453856k]], UID [[tax_id|ATU11113711]],
 [[address|Mühlgasse 2, 6460 Imst]],
 vertreten durch den Geschäftsführer und Zeichnungsberechtigten [[person|Endre Benke]],
 

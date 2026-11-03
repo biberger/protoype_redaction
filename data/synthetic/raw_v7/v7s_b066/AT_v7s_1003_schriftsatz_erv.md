@@ -19,7 +19,7 @@ Geschäftszahl: [[case_number|5 Cg 117/26h]]
 
 Klage
 
-der klagenden Partei [[organization|Kim Handels GmbH]], [[company_register_number|FN 365208x]], [[tax_id|UID ATU40467240]], vertreten durch [[person|M U H R]], Rechtsanwältin in [[location|Frutten-Gießelsdorf]], gegen
+der klagenden Partei [[organization|Kim Handels GmbH]], [[company_register_number|FN 365208x]], UID [[tax_id|ATU40467240]], vertreten durch [[person|M U H R]], Rechtsanwältin in [[location|Frutten-Gießelsdorf]], gegen
 
 1. [[person|Rika Finger]], geb [[date_of_birth|23.03.1968]], [[address|8904 Ardning]],
 

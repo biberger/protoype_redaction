@@ -19,7 +19,7 @@ VERKÄUFER: [[person|EDELFRIED KLIER]], geb [[date_of_birth|01.02.1959]], und [[
 
 und
 
-KÄUFERIN: [[organization|Menschik KG]], [[company_register_number|FN 164636m]], [[tax_id|UID ATU28746248]], vertreten durch den Komplementär [[person|Parsifal Kantor]], geb. [[date_of_birth|03.08.2004]]
+KÄUFERIN: [[organization|Menschik KG]], [[company_register_number|FN 164636m]], UID [[tax_id|ATU28746248]], vertreten durch den Komplementär [[person|Parsifal Kantor]], geb. [[date_of_birth|03.08.2004]]
 
 Die Parteien schließen folgenden Kaufvertrag über die nachstehend beschriebene Liegenschaft:
 

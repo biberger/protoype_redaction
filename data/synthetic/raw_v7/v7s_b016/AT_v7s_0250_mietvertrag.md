@@ -14,7 +14,7 @@ ERV-Code: [[other_identifier|R544290]]
 
 **MIETVERTRAG (GESCHÄFTSRAUM UND WOHNUNG)**
 
-Vermieterin: [[organization|Stoll Handels GmbH]], [[company_register_number|FN 13630w]], [[tax_id|UID ATU92894379]],
+Vermieterin: [[organization|Stoll Handels GmbH]], [[company_register_number|FN 13630w]], UID [[tax_id|ATU92894379]],
 Verwaltungsadresse: [[address|Hauptplatz 4, 7522 Strem]],
 vertreten durch den Geschäftsführer [[person|Gawril Alexander]], Geburtsdatum: [[date_of_birth|23. April 1956]]
 

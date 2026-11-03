@@ -28,7 +28,7 @@ Abgeschlossen am [[date|12. März 2024]] zwischen
 
 **Käufer**
 
-[[organization|Fazekas Bau GmbH]], [[company_register_number|FN 464006m]], [[tax_id|UID ATU73567357]],
+[[organization|Fazekas Bau GmbH]], [[company_register_number|FN 464006m]], UID [[tax_id|ATU73567357]],
 vertreten durch die Geschäftsführerin [[person|Dr. Svetlanka Glosíková]],
 geb. [[date_of_birth|09.01.1981]],
 in der Folge „Käufer“.

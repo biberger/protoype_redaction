@@ -40,7 +40,7 @@ Die Erbquoten sind im Verlassenschaftsakt festgehalten. Die Erben haben sich üb
 
 2.2 Girokonto, IBAN [[bank_account|AT69 8168 3452 0491 1074]], Guthaben am Todestag: EUR 6.402,18
 
-2.3 Forderung gegen die [[organization|Ringel Bau GmbH]], [[company_register_number|FN 623157h]], [[tax_id|UID ATU17180495]], aus einem Werkvertrag über Dachsanierungsarbeiten vom [[date|3. März 2025]] in Höhe von EUR 8.750,00. Die Gesellschaft hat die Forderung bisher nicht anerkannt.
+2.3 Forderung gegen die [[organization|Ringel Bau GmbH]], [[company_register_number|FN 623157h]], UID [[tax_id|ATU17180495]], aus einem Werkvertrag über Dachsanierungsarbeiten vom [[date|3. März 2025]] in Höhe von EUR 8.750,00. Die Gesellschaft hat die Forderung bisher nicht anerkannt.
 
 2.5 Pkw Skoda Octavia, Baujahr 2014, bewertet mit EUR 3.150,00; das Fahrzeug ist auf den Erblasser zugelassen, die Zulassung wurde am [[date|20. Juli 2026]] abgemeldet.
 

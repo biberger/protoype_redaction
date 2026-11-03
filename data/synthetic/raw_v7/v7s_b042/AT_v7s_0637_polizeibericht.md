@@ -35,7 +35,7 @@ Der Pkw der [[person|Jundi]] wurde im Heckbereich beschädigt. [[person|Jundi]] 
 
 Der Zeuge [[person|Stawski]] beobachtete den Unfall vom gegenüberliegenden Parkplatz aus und bestätigte die Angaben der [[person|Pein]].
 
-Die Fahrzeughalterin [[person|Villinger]] ist zugleich Geschäftsführerin der [[organization|Benedikt e.U.]], [[company_register_number|FN 259418y]], [[tax_id|UID-Nr. ATU67134362]]. Die Firma war Halterin eines Transporters, der am Unfall nicht beteiligt war.
+Die Fahrzeughalterin [[person|Villinger]] ist zugleich Geschäftsführerin der [[organization|Benedikt e.U.]], [[company_register_number|FN 259418y]], UID [[tax_id|-Nr. ATU67134362]]. Die Firma war Halterin eines Transporters, der am Unfall nicht beteiligt war.
 
 Sachschaden: geschätzt EUR 11.500,00. Die Unfallstelle wurde fotografiert und vermessen. Die Verkehrsbehörde wurde über den Zustand der Fahrbahn informiert, da im Bereich der Kurve eine Verschmutzung durch Laub festgestellt wurde.
 

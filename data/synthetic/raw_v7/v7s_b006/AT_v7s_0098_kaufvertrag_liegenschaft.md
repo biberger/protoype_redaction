@@ -16,7 +16,7 @@ KAUFVERTRAG ÜBER EINE LIEGENSCHAFT
 
 abgeschlossen am [[date|9. Oktober 2026]] in [[location|St. Ruprecht an der Raab]] zwischen
 
-1. dem Verkäufer [[organization|Sagmeister e.U.]], [[company_register_number|FN 628393h]], [[tax_id|UID ATU98224929]], vertreten durch die Inhaberin [[person|Danita Kesar]], geb. [[date_of_birth|05.05.1949]], [[address|Hainburger Straße 31, 3400 Klosterneuburg]],
+1. dem Verkäufer [[organization|Sagmeister e.U.]], [[company_register_number|FN 628393h]], UID [[tax_id|ATU98224929]], vertreten durch die Inhaberin [[person|Danita Kesar]], geb. [[date_of_birth|05.05.1949]], [[address|Hainburger Straße 31, 3400 Klosterneuburg]],
 
 2. der Ehegattin des Verkäufers [[person|Liane Mag. Schönberger]], geb. [[date_of_birth|25. März 1935]], [[address|Bergstraße 4, 3390 Melk]], die dem Verkauf ausdrücklich zustimmt,
 

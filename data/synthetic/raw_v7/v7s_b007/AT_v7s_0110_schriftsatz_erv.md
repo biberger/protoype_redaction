@@ -20,7 +20,7 @@ Streitwert: EUR 18.400,00
 
 KLAGE
 
-der klagenden Partei [[organization|Pany Immobilien GmbH]], [[company_register_number|FN 100661g]], [[tax_id|UID ATU37970371]], vertreten durch die Geschäftsführung,
+der klagenden Partei [[organization|Pany Immobilien GmbH]], [[company_register_number|FN 100661g]], UID [[tax_id|ATU37970371]], vertreten durch die Geschäftsführung,
 
 gegen
 
