@@ -49,9 +49,9 @@ Betreff: AW: Klientennummer: [[other_identifier|43366]], Räumung Objekt Horn
 
 Sehr geehrte Frau [[person|Öttl]],
 
-vielen Dank für Ihre Nachricht vom [[date|20. Oktober 2026]]. Die [[organization|Charlemont Immobilien GmbH]] hält an der Kündigung vom [[date|1. September 2026]] fest. Wir sind der Auffassung, dass der Mietvertrag wegen des Eigenbedarfs der Gesellschafter aufgelöst werden kann.
+vielen Dank für Ihre Nachricht vom [[date|20. Oktober 2026]]. Die [[organization|Charlemont Immobilien GmbH]] (im Folgenden [[organization|CIG]]) hält an der Kündigung vom [[date|1. September 2026]] fest. Wir sind der Auffassung, dass der Mietvertrag wegen des Eigenbedarfs der Gesellschafter aufgelöst werden kann.
 
-Ihren Vorschlag, die Räumung auf den [[date|31. Dezember 2026]] zu verschieben, nehmen wir an, wenn die Mietzinsrückstände bis zum [[date|15. November 2026]] vollständig beglichen werden. Andernfalls werden wir beim [[court|BG Horn]] den Antrag auf Räumung stellen. Eine Verlängerung um mehr als drei Monate kommt für die [[organization|Charlemont Immobilien]] nicht in Betracht.
+Ihren Vorschlag, die Räumung auf den [[date|31. Dezember 2026]] zu verschieben, nehmen wir an, wenn die Mietzinsrückstände bis zum [[date|15. November 2026]] vollständig beglichen werden. Andernfalls werden wir beim [[court|BG Horn]] den Antrag auf Räumung stellen. Eine Verlängerung um mehr als drei Monate kommt für die [[organization|CIG]] nicht in Betracht.
 
 Wir bitten um Bestätigung bis Montag. Sollte bis dahin keine Rückmeldung erfolgen, werden wir die Unterlagen für die Klage vorbereiten und die Zustellung über die Hausverwaltung veranlassen.
 

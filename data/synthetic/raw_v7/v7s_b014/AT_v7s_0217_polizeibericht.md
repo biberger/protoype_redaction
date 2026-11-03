@@ -39,7 +39,7 @@ Die Zeugen [[person|Larry Satzinger]] und [[person|Kristina Sager]] wurden getre
 
 **Schäden und Versicherung**
 
-Die Schadennummer lautet [[other_identifier|26/291623/25]]. Der Pkw des Herrn [[person|Roessingh]] ist bei der Gesellschaft haftpflichtversichert, Vers.-Nr. [[other_identifier|25-8457121]]. Der Pkw des Herrn [[person|Roessingh]] wurde nach der Unfallaufnahme abgeschleppt.
+Zur Schadenregulierung wurde eine Schadennummer [[other_identifier|26/291623/25]] vergeben. Der Pkw des Herrn [[person|Roessingh]] ist bei der Gesellschaft haftpflichtversichert, Vers.-Nr. [[other_identifier|25-8457121]]. Der Pkw des Herrn [[person|Roessingh]] wurde nach der Unfallaufnahme abgeschleppt.
 
 **Zeugenaussagen**
 

@@ -68,7 +68,7 @@ Die Kammeranwaltschaft hat in der Verhandlung ergänzend vorgebracht, dass der B
 
 Der Senat hält fest, dass diese Verantwortung nicht glaubhaft ist, weil die Bestätigungen mit dem Briefkopf der Kanzlei versehen und mit dem Datum der angeblichen Auszahlung ausgestellt waren. Die Schreiben enthalten eine unrichtige Tatsachenbehauptung gegenüber Klienten und sind geeignet, deren Vertrauen in die Verwahrung ihrer Gelder zu erschüttern.
 
-Der Beschuldigte hat in der Verhandlung zugestanden, dass er die Kammerprüfung im Jahr 2025 zunächst nicht vollständig unterstützt hat. Er hat die fehlenden Unterlagen nach der Aufforderung des Kammeramts nachgereicht. Dieser Umstand wurde zu seinen Gunsten gewertet, weil er die Mitwirkung schließlich nicht verweigert hat. Der Beschuldigte hat außerdem die Kosten der Gutachtenerstellung zur Hälfte übernommen.
+Der Beschuldigte hat in der Verhandlung zugestanden, dass er die Kammerprüfung im Jahr 2025 zunächst nicht vollständig unterstützt hat. Er hat die fehlenden Unterlagen nach der Aufforderung des Kammeramts nachgereicht. Dieser Umstand wurde zu seinen Gunsten gewertet, weil er die Mitwirkung schließlich nicht verweigert hat. Der Beschuldigte hat außerdem die Kosten der Gutachtenerstellung zur Hälfte übernommen. Die Zahlung ist im Akt dokumentiert und wurde vor der Verhandlung nachgewiesen. Der Senat hat dies als Zeichen der Einsicht gewertet.
 
 **4. Rechtliche Beurteilung**
 

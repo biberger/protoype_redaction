@@ -27,9 +27,9 @@ Die Unfallstelle wurde durch die Beamten gesichert und fotografisch dokumentiert
 
 | Name | Geburtsdatum | Staatsangehörigkeit | Lichtbildausweis | Kennzeichen | Rolle |
 |---|---|---|---|---|---|
-| [[person|Soffie Linsinger]] | geboren am [[date_of_birth|18. Februar 1964]] | Österreich | FS [[id_document_number|04404136]] | [[license_plate|WN-4966 YJ]] | Lenkerin |
+| [[person|Soffie Linsinger]] | geboren am [[date_of_birth|18. Februar 1964]] | [[country|Österreich]] | FS [[id_document_number|04404136]] | [[license_plate|WN-4966 YJ]] | Lenkerin |
 | [[person|Jacquleine Max-Theurer]] | *[[date_of_birth|27.09.1958]] | StA: [[country|Syrien]] | Reisepass [[id_document_number|P3270712]] | – | Lenkerin |
-| [[person|Armine Roch]] | GEB: [[date_of_birth|22.12.1991]] | Österreich | Personalausweis [[id_document_number|C7964468]] | – | Beifahrerin |
+| [[person|Armine Roch]] | GEB: [[date_of_birth|22.12.1991]] | [[country|Österreich]] | Personalausweis [[id_document_number|C7964468]] | – | Beifahrerin |
 
 **3. Fahrzeuge und Versicherung**
 
@@ -47,11 +47,17 @@ Die Beamten [[person|Gerhard Pfeifer]] und [[person|Simone Rauscher]] haben den 
 
 Die Erhebungen werden an die Bezirkshauptmannschaft weitergeleitet. Die Beamten haben eine Anzeige nach der [[legal_norm|Straßenverkehrsordnung]] erstattet.
 
+**5a. Feststellungen am Fahrzeug**
+
+Das Fahrzeug der [[person|Soffie Linsinger]] wies im vorderen Bereich eine eingedrückte Stoßstange und einen beschädigten Scheinwerfer auf. Das Fahrzeug der [[person|Jacquleine Max-Theurer]] hatte am Heck einen Schaden über die gesamte Breite. Die Bremsspuren waren auf einer Länge von 14 Metern gesichert. Eine Alkoholvortest ergab bei keinem der Lenker einen auffälligen Wert. Die Beamten haben die Fahrzeugpapiere, die Versicherungsbestätigung und den Führerschein überprüft, die Angaben zu den Fahrzeugen stimmen mit den Unterlagen überein.
+
+Die Beifahrerin [[person|Armine Roch]] gab an, sie habe den Aufprall als sehr heftig empfunden, sei aber während der gesamten Zeit bei Bewusstsein gewesen. Ein Zeuge, der den Unfall vom Gehsteig aus beobachtet hatte, konnte keine Angaben zum Abstand machen, bestätigte aber das plötzliche Bremsen des vorderen Fahrzeugs.
+
 **6. Anzeige**
 
 Gegen [[person|Soffie Linsinger]] wird wegen des Verdachts der Übertretung nach [[legal_norm|§ 18 StVO]] Anzeige erstattet, die Anzeige erfolgt nach der [[legal_norm|Straßenverkehrsordnung]]. Die Lenkerin wird auf die Möglichkeit einer Stellungnahme binnen zwei Wochen hingewiesen.
 
-Piringsdorf, am [[date|14. Juni 2026]]
+[[location|Piringsdorf]], am [[date|14. Juni 2026]]
 
 [[person|Pfeifer]]
 Revierinspektor

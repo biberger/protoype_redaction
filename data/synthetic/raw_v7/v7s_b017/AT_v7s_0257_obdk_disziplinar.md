@@ -6,6 +6,8 @@ lang: de
 [[court|Disziplinarrat der Tiroler Rechtsanwaltskammer]]
 Unser Zeichen: [[other_identifier|P-PCirjakovic/Messner]]
 Unser Zeichen: [[other_identifier|Cirjakovic ./. Fritz]]
+Treuhandbuch-Nr. [[other_identifier|2021/594]]
+Tel. [[phone_number|+43 5572 219 75 28 Kl. 44]]
 
 GZ [[case_number|DSt 14/2026]]
 

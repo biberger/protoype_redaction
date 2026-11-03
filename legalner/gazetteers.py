@@ -186,7 +186,7 @@ def transliterate(name):
     name = name.replace("ου", "ou").replace("Ου", "Ou").replace("ΟΥ", "OU")
     out = []
     for c in name:
-        t = _CYR.get(c.lower()) or _GRK.get(c.lower())
+        t = _CYR.get(c.lower(), _GRK.get(c.lower()))
         out.append(c if t is None else (t.capitalize() if c.isupper() else t))
     return "".join(out)
 

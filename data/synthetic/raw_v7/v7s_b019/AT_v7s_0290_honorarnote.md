@@ -37,7 +37,7 @@ Barauslagen: Gerichtsgebühr 157,00 (ohne USt)
 Zahlbar binnen 14 Tagen auf das Konto der Kanzlei.
 Bankverbindung: [[organization|Raiffeisenbank Oberwaltersdorf registrierte Genossenschaft mit beschränkter Haftung]], IBAN [[bank_account|AT48 4665 8930 5403 2956]]
 
-Zahlung der [[organization|Haselbacher e.U.]] bitte mit dem Konto [[bank_account|AT18 7615 8712 8730 8708]] abgleichen. Bei Zahlungen von [[person|Daniella Zachár]] bitte die Klientennummer angeben, die Zahlungen werden sonst dem Konto der [[organization|Haselbacher e.U.]] zugeordnet. Für Rückfragen zur Honorarnote steht Ihnen die Kanzlei werktags zwischen 8 und 16 Uhr zur Verfügung.
+Zahlung der [[organization|Haselbacher e.U.]] bitte mit dem Konto [[bank_account|AT18 7615 8712 8730 8708]] abgleichen. Bei Zahlungen von [[person|Daniella Zachár]] bitte die Klientennummer angeben, die Zahlungen werden sonst dem Konto der [[organization|Haselbacher e.U.]] zugeordnet. Für Rückfragen zur Honorarnote steht Ihnen die Kanzlei werktags zwischen 8 und 16 Uhr zur Verfügung. Eine Mahnung wird erst nach Ablauf von 30 Tagen versandt, sofern bis dahin keine Zahlung eingeht. Frau [[person|Daniella Zachár]] hat die Verfahrenskosten zur Hälfte übernommen, die Aufteilung ist im Mandatsvertrag vom [[date|2. Februar 2026]] festgehalten.
 
 Tel. [[phone_number|02742/1539422-2]]
 

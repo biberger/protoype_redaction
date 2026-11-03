@@ -43,7 +43,7 @@ Die Kläger begehren, die Beklagten sind zur ungeteilten Hand schuldig, dem Klä
 
 1. Am [[date|11. November 2025]] ereignete sich um 14:20 Uhr auf der Bundesstraße in [[location|St. Margarethen im Burgenland]] ein Verkehrsunfall. Der Pkw mit dem Kennzeichen [[license_plate|AM-302 YD]] wurde von der Zweitbeklagten gelenkt. Der Kläger war Beifahrer und wurde im Fahrzeug verletzt.
 
-2. Die [[organization|Kolar]] ist Halterin des Fahrzeugs. Das Fahrzeug war bei der Versicherung unter der Schaden-Nr. [[other_identifier|62/104632/21]] registriert; die Schadensmeldung vom Folgetag ist als Beilage ./B angeschlossen.
+2. Die [[organization|Kolar KG]] ist Halterin des Fahrzeugs. Das Fahrzeug war bei der Versicherung unter der Schaden-Nr. [[other_identifier|62/104632/21]] registriert; die Schadensmeldung vom Folgetag ist als Beilage ./B angeschlossen.
 
 3. Die Drittbeklagte [[person|Lilibeth Drucker]] war als Zeugin am Unfallort und hat den Hergang gegenüber der Polizei bestätigt. Sie hat den Vorrang des Klägers ausdrücklich bezeugt.
 

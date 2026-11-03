@@ -7,7 +7,7 @@ MAGISTRATSABTEILUNG – MELDEWESEN, [[address|Stadtplatz 12, 4840 Vöcklabruck]]
 
 MELDEBESTÄTIGUNG (ZMR-Auszug)
 
-[[person|Δημητριος Yiannakis]] geb [[date_of_birth|06.01.1937]]
+[[person|Dimitrios Yiannakis]] geb [[date_of_birth|06.01.1937]]
 Anschrift: [[address|Lindenstraße 4, 4840 Vöcklabruck]]
 StA: [[country|Serbien]]
 

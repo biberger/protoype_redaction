@@ -31,7 +31,7 @@ Die Angeklagte wird gemäß [[legal_norm|§ 45 Abs 1 Z 2 RAO]] mit einer Geldbu�
 
 Sachverhalt
 
-Der Mandant [[person|Velin Ruskov]], geb. [[date_of_birth|19. November 1970]], hat der Angeklagten im Jahr 2023 einen Betrag zur Verwahrung übergeben. Die Angeklagte verbuchte die Bewegungen im Treuhandbuch wie folgt:
+Der Mandant [[person|Velin Ruskov]], geb. [[date_of_birth|19. November 1970]], hat der Angeklagten im Jahr 2023 einen Betrag zur Verwahrung übergeben. Das Treuhandkonto der Angeklagten lautet auf die IBAN [[bank_account|AT47 9219 4081 4754 9663]]. Die Angeklagte verbuchte die Bewegungen im Treuhandbuch wie folgt:
 
 Datum | Vorgang | Betrag (EUR) | Treuhandnummer
 [[date|14.02.2023]] | Einzahlung von [[person|Ruskov]] auf das Treuhandkonto | 26.000,00 | [[other_identifier|2018/318]]

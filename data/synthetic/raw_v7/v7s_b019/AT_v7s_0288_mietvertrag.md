@@ -34,7 +34,7 @@ Das Mietverhältnis beginnt am [[date|1. Oktober 2026]] und wird auf drei Jahre 
 
 **5. Mietzins**
 
-Der monatliche Hauptmietzins beträgt EUR 745,00 netto. Die Betriebskostenvorauszahlung beträgt EUR 180,00 monatlich, zuzüglich der Umsatzsteuer. Der Gesamtbetrag ist jeweils am dritten Werktag eines jeden Monats im Voraus auf das Konto der Vermieterin zu überweisen:
+Der monatliche Hauptmietzins beträgt EUR 745,00 netto. Die Betriebskostenvorauszahlung beträgt EUR 180,00 monatlich, zuzüglich der Umsatzsteuer. Der Hauptmietzins ist an den Verbraucherpreisindex gebunden und wird jeweils zum [[date|1. Oktober]] angepasst, sofern sich der Index verändert. Der Gesamtbetrag ist jeweils am dritten Werktag eines jeden Monats im Voraus auf das Konto der Vermieterin zu überweisen:
 
 IBAN: [[bank_account|AT12 1290 3557 9882 0194]]
 Verwendungszweck: Kd.-Nr. [[other_identifier|169208]], Mietzins und Betriebskosten
@@ -61,7 +61,7 @@ Die Haltung von Kleintieren ist mit Zustimmung der Vermieterin erlaubt. Eine Unt
 
 **11. Schlussbestimmungen**
 
-Änderungen dieses Vertrags bedürfen der Schriftform. Mündliche Nebenabreden bestehen nicht. Sollte eine Bestimmung unwirksam sein, bleibt der Vertrag im Übrigen wirksam. Die Parteien erhalten je eine Ausfertigung. Eine Abschrift des Energieausweises ist beigelegt.
+Änderungen dieses Vertrags bedürfen der Schriftform. Mündliche Nebenabreden bestehen nicht. Sollte eine Bestimmung unwirksam sein, bleibt der Vertrag im Übrigen wirksam. Die Parteien erhalten je eine Ausfertigung. Eine Abschrift des Energieausweises ist beigelegt. Die Vermieterin bestätigt, dass für das Objekt keine Förderung in Anspruch genommen wurde, die einer Befristung entgegensteht. Die Mieterin bestätigt mit ihrer Unterschrift, dass ihr der Zustand der Wohnung bekannt ist.
 
 Ort, Datum: [[address|6863 Egg]], am [[date|14. September 2026]]
 

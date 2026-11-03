@@ -13,6 +13,7 @@ UID: [[tax_id|ATU84682817]]
 ERV-Code: [[other_identifier|P152260]]
 
 [[organization|Becher Handels GmbH]]
+[[company_register_number|FN 625883t]], UID: [[tax_id|ATU45596644]]
 z.H. Frau [[person|Siegfriede Kast]]
 [[address|8151 Hitzendorf]]
 

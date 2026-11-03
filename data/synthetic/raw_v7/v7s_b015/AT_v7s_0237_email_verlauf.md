@@ -41,14 +41,16 @@ Betreff: AW: Ihr Zeichen: [[other_identifier|Koppensteiner ./. Nigg]]
 
 Sehr geehrte Frau [[person|Koppensteiner]],
 
-die [[organization|Wallner GmbH]], [[company_register_number|FN 497222i]], UID: [[tax_id|ATU16064960]], ist an einer außergerichtlichen Einigung interessiert. Der Gesellschafter [[person|Gerald Hiebeler]] hat seine Anteile bisher nicht übertragen; er wird das nur tun, wenn der Kaufpreis bis zum [[date|15. Dezember 2026]] bezahlt wird.
+die [[organization|Wallner GmbH]] ([[organization|WG]]), [[company_register_number|FN 497222i]], UID: [[tax_id|ATU16064960]], ist an einer außergerichtlichen Einigung interessiert. Der Gesellschafter [[person|Gerald Hiebeler]] hat seine Anteile bisher nicht übertragen; er wird das nur tun, wenn der Kaufpreis bis zum [[date|15. Dezember 2026]] bezahlt wird.
 
-Wir schlagen vor, die [[organization|Wallner]] bis zum Abschluss der Verhandlung zu vertreten, wenn Sie die Kosten der Bewertung übernehmen. Wir bitten um Rückmeldung bis zum [[date|30. Oktober 2026]]. Die Bewertung soll nach dem Ertragswertverfahren erfolgen; die Bilanzen der letzten drei Geschäftsjahre liegen uns bereits vor. Sollte keine Einigung zustande kommen, bleibt die Klage auf Auflösung der Gesellschaft vorbehalten, die wir dann beim zuständigen Gericht einbringen werden.
+Wir schlagen vor, die [[organization|WG]] bis zum Abschluss der Verhandlung zu vertreten, wenn Sie die Kosten der Bewertung übernehmen. Wir bitten um Rückmeldung bis zum [[date|30. Oktober 2026]]. Die Bewertung soll nach dem Ertragswertverfahren erfolgen; die Bilanzen der letzten drei Geschäftsjahre liegen uns bereits vor. Sollte keine Einigung zustande kommen, bleibt die Klage auf Auflösung der Gesellschaft vorbehalten, die wir dann beim zuständigen Gericht einbringen werden.
 
 Mit freundlichen Grüßen
 
 [[person|Withold Hohenwarter]]
 Geschäftsführer
+Tel. [[phone_number|0662/2015139-64 Kl. 12]]
+F: [[phone_number|0662/2015139-65 DW 13]]
 
 ---
 

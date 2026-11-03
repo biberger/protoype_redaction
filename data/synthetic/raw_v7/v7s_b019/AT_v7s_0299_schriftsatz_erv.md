@@ -36,7 +36,7 @@ Die Klägerin hat den Betrag bereits in Höhe von EUR 22.000,00 bezahlt. Die Bek
 
 Die Klägerin stützt ihren Anspruch auf [[legal_norm|§ 1167 ABGB]] und auf [[legal_norm|§ 1168 ABGB]]. Die Beklagte haftet für den Verzug nach [[legal_norm|§ 918 ABGB]].
 
-Die Republik Österreich hat der Klägerin eine Förderung zugesagt, die nach dem Förderbescheid nur bei vollständiger Fertigstellung ausbezahlt wird. Die [[organization|Land Niederösterreich]] hat die Förderung bereits zurückgefordert. Die [[country|Republik Österreich]] ist als Streitverkündete beizuziehen, weil ihr die Förderzusage nicht erfüllt werden kann.
+Die [[country|Republik Österreich]] hat der Klägerin eine Förderung zugesagt, die nach dem Förderbescheid nur bei vollständiger Fertigstellung ausbezahlt wird. Die [[organization|Land Niederösterreich]] hat die Förderung bereits zurückgefordert. Die [[country|Republik Österreich]] ist als Streitverkündete beizuziehen, weil ihr die Förderzusage nicht erfüllt werden kann.
 
 **3. Zuständigkeit**
 
@@ -64,5 +64,7 @@ Rechtsanwalt
 **Zustellung**
 
 Die Beklagte ist unter der Adresse [[address|Industriepark 3]] zu verständigen. Die Zeugin [[person|Granata]] ist in [[location|Ternitz]] wohnhaft. Eine Korrespondenz mit der Klägerin erfolgt ausschließlich über die Kanzlei.
+
+Die Klägerin hat die Beklagte außerdem mit anwaltlichem Schreiben vom [[date|20. Mai 2026]] zur Zahlung binnen 14 Tagen aufgefordert. Die Beklagte hat diese Aufforderung nicht beantwortet, sondern lediglich mitgeteilt, dass die Anlage nach ihrer Auffassung mangelfrei sei. Ein Vergleichsangebot der Klägerin, das eine Ratenzahlung über 24 Monate vorsah, blieb ebenso unbeantwortet.
 
 Die Klage wurde über den ERV-Zugang der Rechtsanwalts GmbH eingebracht. Die Kanzlei [[organization|Sausgruber]] bestätigt, dass die Klagsbeilagen vollständig übermittelt wurden. Tel. [[phone_number|+43 463 435 57 52 Durchwahl 59]] ist für Rückfragen der Gerichtsabteilung vorgesehen.

@@ -22,7 +22,7 @@ GZ [[case_number|5 Cg 67/26h]]
 
 Streitwert: EUR 48.200,00
 
-**KLAGENDE PARTEI: [[person|MIKE BRAUER]]**, [[address|Schießstattgasse 11/2, 8010 Graz]], vertreten durch [[lawyer|Dr. Harald Pfeifer]], Rechtsanwalt in [[location|Graz]]
+**KLAGENDE PARTEI: [[person|MIKE BRAUER]]**, geb [[date_of_birth|20. Februar 1942]], [[address|Schießstattgasse 11/2, 8010 Graz]], vertreten durch [[lawyer|Dr. Harald Pfeifer]], Rechtsanwalt in [[location|Graz]]
 
 **BEKLAGTE PARTEIEN:**
 
@@ -39,11 +39,11 @@ und beantragen, das Klagebegehren kostenpflichtig abzuweisen.
 
 **I. Sachverhalt**
 
-1. Der Kläger begehrt von den Beklagten die Zahlung von EUR 48.200,00 samt Zinsen aus dem Titel der Gewährleistung und des Schadenersatzes für den Kauf eines Mehrparteienhauses in [[location|St. Florian]]. Die Erstbeklagte hat die Liegenschaft im Jahr 2023 verkauft, die Zweitbeklagte war damals als Geschäftsführerin der Erstbeklagten tätig. Der Kaufvertrag trägt die Vertragsnummer [[other_identifier|LV-2023-83356]].
+1. Der Kläger [[person|Mike Brauer]] begehrt von den Beklagten die Zahlung von EUR 48.200,00 samt Zinsen aus dem Titel der Gewährleistung und des Schadenersatzes für den Kauf eines Mehrparteienhauses in [[location|St. Florian]]. Die Erstbeklagte hat die Liegenschaft im Jahr 2023 verkauft, die Zweitbeklagte war damals als Geschäftsführerin der Erstbeklagten tätig. Der Kaufvertrag trägt die Vertragsnummer [[other_identifier|LV-2023-83356]].
 
 2. Der Kläger behauptet, die Feuchtigkeitsschäden im Keller seien schon bei Übergabe vorhanden gewesen und seien von der Erstbeklagten verschwiegen worden. Die Beklagten bestreiten dies. Die [[court|LG für ZRS Graz]] ist für das Verfahren sachlich und örtlich zuständig; der Streitwert liegt über EUR 15.000,00.
 
-3. Die [[organization|Eichberger]] hat dem Kläger vor Abschluss des Vertrags den Energieausweis, die Bauakten und das Protokoll über die letzte Kellersanierung übergeben. Das Übergabeprotokoll vom Übergabetag ist als Beilage ./B vorgelegt. Der Kläger hat die Liegenschaft nach einer Besichtigung im Beisein seines Vaters, des Zeugen [[person|Ivo Kranjc]], Staatsangehöriger von [[country|Slowenien]], erworben. Der Zeuge hat den Zustand des Kellers als trocken beschrieben.
+3. Die [[organization|Eichberger Immobilien GmbH]] hat dem Kläger vor Abschluss des Vertrags den Energieausweis, die Bauakten und das Protokoll über die letzte Kellersanierung übergeben. Das Übergabeprotokoll vom Übergabetag ist als Beilage ./B vorgelegt. Der Kläger hat die Liegenschaft nach einer Besichtigung im Beisein seines Vaters, des Zeugen [[person|Ivo Kranjc]], Staatsangehöriger von [[country|Slowenien]], erworben. Der Zeuge hat den Zustand des Kellers als trocken beschrieben.
 
 4. Die Versicherung der Liegenschaft lief unter der Polizze [[other_identifier|57-8330031]] bis zum Übergabetag. Die Zahlungen auf die Versicherungsprämie sind im Übergabeprotokoll dokumentiert. Die Erstbeklagte hat den Schriftverkehr mit der Hausverwaltung unter dem Zeichen UZ: [[other_identifier|616/21 KG]] geführt; die Zahlungen sind im Büro der Hausverwaltung bestätigt worden (Tel. [[phone_number|0316 101656 DW 535]]).
 

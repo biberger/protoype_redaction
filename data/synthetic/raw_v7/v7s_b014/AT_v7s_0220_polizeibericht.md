@@ -32,7 +32,7 @@ Frau [[person|Payr]] fuhr mit dem Pkw auf der Ortsstraße in Richtung Ortsmitte,
 
 Herr [[person|Hamburger]], Staatsangehöriger von [[country|Italien]], war Beifahrer im Fahrzeug des Herrn [[person|Kazanasmaz]]. Er gab an, den Unfall nicht bemerkt zu haben, bis das Fahrzeug stand.
 
-Die Schadennummer lautet [[other_identifier|95/100871/22]]. Der Schaden am Heck des Fahrzeuges von Frau [[person|Payr]] ist erheblich, der Pkw des Herrn [[person|Kammerlander]] wies Beschädigungen an der Front auf.
+Zur Schadenregulierung wurde eine Schadennummer [[other_identifier|95/100871/22]] vergeben. Der Schaden am Heck des Fahrzeuges von Frau [[person|Payr]] ist erheblich, der Pkw des Herrn [[person|Kammerlander]] wies Beschädigungen an der Front auf.
 
 Der Zeuge [[person|Francis Hamburger]] schilderte, dass das Fahrzeug des Herrn [[person|Kazanasmaz]] bereits etwa eine Minute vor dem Zusammenstoß gestanden habe, bevor es rückwärts angefahren sei. Frau [[person|Payr]] gab an, sie habe den Blinker des Fahrzeugs nicht wahrgenommen, weil die Scheibe des Pkw durch den Nebel beschlagen war. Herr [[person|Kammerlander]] bestätigte, dass er einen Abstand von etwa zwanzig Metern zum vorausfahrenden Fahrzeug eingehalten habe, jedoch durch das plötzliche Bremsen nicht rechtzeitig reagieren konnte.
 

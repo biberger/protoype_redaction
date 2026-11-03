@@ -693,3 +693,9 @@ def test_register_generators_produce_valid_tagged_documents(tmp_path):
         assert {"person", "date_of_birth", "address"} <= labels
     assert _std("Hageng. 58, Wien 1160") == "Hageng. 58, 1160 Wien"
     assert _town_of("Ligist 33, 8563 Ligist") == "Ligist" and _town_of("Kathrein-Straße 3, 8312 Ottendorf") == "Ottendorf"
+
+
+def test_transliterate_cyrillic_and_greek():
+    from legalner.gazetteers import transliterate
+    assert transliterate("Кузьма") == "Kusma" and transliterate("Ольга") == "Olga"
+    assert transliterate("Σωκρατης") == "Sokratis" and transliterate("Müller") == "Müller"

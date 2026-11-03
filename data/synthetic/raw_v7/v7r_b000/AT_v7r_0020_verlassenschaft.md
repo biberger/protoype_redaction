@@ -31,7 +31,7 @@ II. Die Erben
 
 Als testamentarische Erben kommen folgende Personen in Betracht:
 
-1. [[person|Σωκρατης
+1. [[person|Sokratis
 Kyriakakis]], geb. [[date_of_birth|7. April 1981]],
 [[address|Hauptplatz 8, 1020 Wien]], Erbquote 1/3 (Kind des Erblassers);
 

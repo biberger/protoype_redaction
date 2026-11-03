@@ -34,7 +34,7 @@ Beteiligte laut Polizeibericht:
 [[person|Dietrich Helmke]] (Lenker des Versicherungsnehmers)
 
 Nach dem Polizeibericht hat der Lenker des bei Ihnen versicherten Fahrzeugs, Herr [[person|Helmke
-Dietrich]], [[country|Italien]] staatsangehörig, beim Einfahren in die Kreuzung das Vorrangzeichen missachtet. Unser Mandant war mit dem Fahrzeug der Firma [[organization|Rabenalt KG]] unterwegs. Die [[organization|Rabenalt]] hat den Wagen für den Betrieb angeschafft und ist Eigentümerin, die Firma [[company_register_number|FN 48672b]] hat ihren Sitz in [[address|3324 Euratsfeld]].
+Dietrich]], [[country|Italien]] staatsangehörig, beim Einfahren in die Kreuzung das Vorrangzeichen missachtet. Unser Mandant war mit dem Fahrzeug der Firma [[organization|Rabenalt KG]] unterwegs. Die [[organization|Rabenalt]] hat den Wagen für den Betrieb angeschafft und ist Eigentümerin, die Firma [[company_register_number|FN 48672b]], UID: [[tax_id|ATU19579640]], hat ihren Sitz in [[address|3324 Euratsfeld]].
 
 Die Haftung Ihres Versicherungsnehmers ergibt sich aus [[legal_norm|§ 1 EKHG]] und [[legal_norm|§ 3 EKHG]]. Ein Mitverschulden unseres Mandanten ist nicht ersichtlich; er hat die Geschwindigkeit eingehalten und die Vorfahrt nicht verletzt.
 

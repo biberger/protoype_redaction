@@ -105,7 +105,7 @@ Die Treuhandkonten wurden im Lauf des Verfahrens durch eine externe Buchprüfung
 
 Die Verteidigung hat die Prüfung als unvollständig kritisiert, weil die Prüfer die Belege des Jahres 2023 nicht vollständig eingesehen hätten. Der Senat hat den Einwand geprüft und festgestellt, dass die fehlenden Belege die Buchungen der Klientin [[person|Caraiani]] nicht betreffen. Der Senat stützt sich daher auf die vorliegenden Feststellungen.
 
-Die Klientin [[person|Caraiani]] hat im letzten Wort angegeben, dass sie die Abrechnung erst im Dezember 2024 erhalten habe. Der Klient [[person|Alivizatos]] hatte schon im Herbst 2023 Nachfragen gestellt, die unbeantwortet blieben. Sie umfassen die Kosten des Senats, die Reisekosten der Zeugen und die Kosten der Kammeranwaltschaft.
+Die Klientin [[person|Caraiani]] hat im letzten Wort angegeben, dass sie die Abrechnung erst im Dezember 2024 erhalten habe. Der Klient [[person|Alivizatos]] hatte schon im Herbst 2023 Nachfragen gestellt, die unbeantwortet blieben. Der Senat hat dies als Verletzung der Auskunftspflicht gewertet, die zusätzlich zur Auszahlungspflicht zu berücksichtigen ist. Die Beschuldigte hat zu diesem Vorwurf keine Stellung genommen, sondern sich auf die Krankheit berufen. Der Senat sieht keinen Anlass, die Auskunftspflicht gesondert zu bestrafen. Die Frage der Aufbewahrung der Kontoauszüge wurde in der Verhandlung nicht erörtert. Der Senat weist darauf hin, dass die Aufbewahrungspflicht für Treuhandunterlagen unabhängig davon gilt, ob der Beschuldigte die Treuhandschaft noch führt. Sie umfassen die Kosten des Senats, die Reisekosten der Zeugen und die Kosten der Kammeranwaltschaft.
 
 VI. Rechtsmittel
 

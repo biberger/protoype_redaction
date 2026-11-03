@@ -65,9 +65,17 @@ Summe                                      18.400,00
 
 Die Klagsforderung beträgt somit EUR 18.400,00 samt Zinsen. Die Klägerin behält sich die Ausdehnung der Klage vor, sobald die Betriebskostenabrechnung 2026 vorliegt.
 
+Die Beklagten haben mit Schreiben vom [[date|02.03.2026]] die Zahlung abgelehnt und vorgebracht, die Heizung sei seit dem Winter 2025 mangelhaft gewesen. Diese Behauptung ist durch keine Mängelrüge belegt. Die Klägerin hat die Mängel erst nach Eingang dieses Schreibens von [[person|Cezar Báča]] überprüfen lassen. Der Mangel war zu diesem Zeitpunkt bereits behoben, weil die Heizungsanlage am [[date|18.03.2026]] neu eingestellt wurde.
+
+Die Beklagten haben in der Folge keine Miete mehr überwiesen, obwohl sie laut Mietvertrag einen Monatsbetrag von EUR 680,00 zu entrichten hatten. Der Rückstand wächst daher monatlich weiter an.
+
 IV. Beweise
 
-Die Klägerin beantragt die Einvernahme des Zeugen [[person|Cezar Báča]] sowie die Vorlage der Akten der Hausverwaltung. Die Beklagte [[person|Pauline Mikoletzky]], Geburtsdatum: [[date_of_birth|07.03.1942]], wird als Auskunftsperson zu den Zahlungseingängen vernommen. Ihre Anschrift ist dem Gericht bekannt.
+Die Klägerin beantragt die Einvernahme des Zeugen [[person|Cezar Báča]] sowie die Vorlage der Akten der Hausverwaltung. Die Auskunftsperson [[person|Pauline Mikoletzky]], Geburtsdatum: [[date_of_birth|07.03.1942]], wird zu den Zahlungseingängen vernommen. Ihre Anschrift ist dem Gericht bekannt. Die Klägerin ersucht ferner um Vorlage des Wartungsprotokolls der Heizungsfirma aus dem Winter 2025/2026 und um Einholung eines Sachverständigengutachtens aus dem Fachgebiet Heizungstechnik zur Frage, ob der behauptete Mangel die Gebrauchstauglichkeit der gesamten Wohnung beeinträchtigte.
+
+Das [[court|BG Wels]] wird ersucht, die Verhandlung im Hinblick auf die Heizungsangelegenheit zeitnah anzuberaumen, weil die Beklagten die Reparatur bis heute nicht zugelassen haben.
+
+[[organization|SACHER KG]] - ERV-EINGANG [[date|29.10.2026]] - [[court|BEZIRKSGERICHT WELS]]
 
 V. Anträge
 
@@ -75,7 +83,9 @@ Die Klägerin stellt die Anträge,
 
 1. das Gericht möge die Beklagten zur ungeteilten Hand schuldig erkennen, der Klägerin EUR 18.400,00 samt 4 % Zinsen seit Klagseinbringung zu bezahlen;
 
-2. die Beklagten zum Ersatz der Prozesskosten zu verurteilen.
+2. die Beklagten zum Ersatz der Prozesskosten einschließlich der Pauschalgebühren und der Vertretungskosten zu verurteilen.
+
+Die Vertretungskosten sind nach den Tarifpostnummern des Rechtsanwaltstarifgesetzes zu bemessen, wobei der Streitwert von EUR 18.400,00 zugrunde zu legen ist.
 
 Beilagen:
 
@@ -88,5 +98,3 @@ Beilagen:
 
 [[lawyer|Wechner]]
 Rechtsanwalt
-
-ZUSTELLUNG der Beilagen an: [[person|Schroll]], [[person|Obersteiner]], [[person|Friedländer]]

@@ -14,7 +14,7 @@ ERV-Code: [[other_identifier|R214133]]
 
 [[organization|Gaisberg Versicherung AG]]
 z. H. Schadenabteilung
-Herrn [[person|Gergely Mitică]]
+Herrn [[person|Mitică Gergely]]
 Postfach 12, [[address|1010 Wien]]
 
 [[location|Kaisers]], am [[date|20. Oktober 2026]]

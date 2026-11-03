@@ -62,8 +62,9 @@ Mit besten Grüßen
 [[person|MMag. Kati Wedenig]]
 Syndikusrechtsanwältin
 [[organization|Böhler KG]]
+[[company_register_number|FN 15260t]], UID: [[tax_id|ATU05950693]]
 [[address|Wiedenstraße 14, 5020 Salzburg]]
-T: [[phone_number|+43-662-5519040 Durchwahl 62]]
+Tel. [[phone_number|+43-662-5519040 Durchwahl 62]]
 F: [[phone_number|+43 662 5519041 19]]
 M: [[phone_number|+43 676 882 310 55]]
 

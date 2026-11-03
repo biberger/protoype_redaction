@@ -19,7 +19,7 @@ Zeichen [[other_identifier|Purvanov ./. Derfler]]
 
 Die Erblasserin [[person|Karamfilka Purvanov]] hinterlässt die folgenden Erben:
 
-[[person|DI Ευριπιδης Poursanidis]], *[[date_of_birth|22. Juli 1995]]
+[[person|DI Evripidis Poursanidis]], *[[date_of_birth|22. Juli 1995]]
 
 [[person|Semen Kirillow]], geb [[date_of_birth|14.05.1952]]
 
@@ -40,7 +40,7 @@ Die Erbin [[person|Karamfilka Purvanov]] ist in [[address|5730 Mittersill]] geme
 
 Das Notariat ist unter Tel. [[phone_number|+43-2742-4321042-2]] erreichbar.
 
-Die Stadtgemeinde hat keine Ansprüche geltend gemacht. Der Gerichtskommissär vermerkt, dass der Erbe [[person|DI Ευριπιδης Poursanidis]] die [[location|St. Veit an der Glan]] als Wohnort angegeben hat.
+Die Stadtgemeinde hat keine Ansprüche geltend gemacht. Der Gerichtskommissär vermerkt, dass der Erbe [[person|DI Evripidis Poursanidis]] die [[location|St. Veit an der Glan]] als Wohnort angegeben hat.
 
 [[court|Bezirksgericht St. Pölten]] / [[court|BG St. Pölten]]
 

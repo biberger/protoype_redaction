@@ -42,7 +42,7 @@ Die Beklagte ist schuldig, der Klägerin EUR 4.860,00 samt 4 % Zinsen seit dem [
 
 1. Die Klägerin hat der Beklagten im Juli 2024 ein Darlehen von EUR 5.000,00 gewährt, das in monatlichen Raten von EUR 250,00 zurückzuzahlen war. Die Beklagte hat bis zum [[date|30. November 2025]] insgesamt EUR 140,00 bezahlt.
 
-2. Die Beklagte hat den Darlehensvertrag am [[date|2. Juli 2024]] unterfertigt. Eine Kopie des Vertrags ist als Beilage ./A angeschlossen.
+2. Die Beklagte [[person|Josetta Hofstätter]] hat den Darlehensvertrag am [[date|2. Juli 2024]] unterfertigt. Eine Kopie des Vertrags ist als Beilage ./A angeschlossen.
 
 3. Die Klägerin hat die Beklagte mit Schreiben vom [[date|10. Dezember 2025]] zur Zahlung aufgefordert. Die Beklagte hat nicht reagiert.
 

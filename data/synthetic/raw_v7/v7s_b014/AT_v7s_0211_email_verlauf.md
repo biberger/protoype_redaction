@@ -52,6 +52,7 @@ Mit freundlichen Grüßen
 [[person|Eva Sollinger]]
 Hausverwaltung
 [[organization|Kralik Immobilien GmbH]]
+[[company_register_number|FN 609074y]], UID: [[tax_id|ATU49322870]]
 Tel. [[phone_number|+43-316-471969 Durchwahl 42]]
 
 > Von: [[person|Paula Neufeld]] <[[email|p.neufeld@aon.at]]>
