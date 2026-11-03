@@ -29,7 +29,7 @@ Die Vermieterin ist Eigentümerin der Liegenschaft, eingetragen im Grundbuch [[l
 
 (1) Vermietet wird das Geschäftslokal Top 4 im Haus [[address|Marktplatz 7/Top 4, 5142 Feldkirchen bei Mattighofen]] im Erdgeschoß samt Lagerraum im Kellergeschoß, Nutzfläche insgesamt ca. 118 m².
 
-(2) Die Übergabe erfolgt am 1. April 2024 in dem Zustand, den der beiliegende Übergabeprotokoll-Entwurf festhält. Ein Grundrissplan bildet Bestandteil dieses Vertrages.
+(2) Die Übergabe erfolgt am [[date|1. April 2024]] in dem Zustand, den der beiliegende Übergabeprotokoll-Entwurf festhält. Ein Grundrissplan bildet Bestandteil dieses Vertrages.
 
 § 2 Mietzweck
 
@@ -37,9 +37,9 @@ Das Mietobjekt dient ausschließlich dem Betrieb eines Ingenieurbüros für Baup
 
 § 3 Mietdauer
 
-(1) Das Mietverhältnis beginnt am 1. April 2024 und wird auf unbestimmte Zeit abgeschlossen.
+(1) Das Mietverhältnis beginnt am [[date|1. April 2024]] und wird auf unbestimmte Zeit abgeschlossen.
 
-(2) Dieser Mietvertrag ersetzt den Vertrag Vertragsnummer [[other_identifier|LV-2017-68171]] vom [[date|15. März 2017]], der mit Ablauf des 31. März 2024 endet. Die Mieter haben das Mietobjekt in dieser Zeit bereits genutzt; Ansprüche aus dem Vorvertrag sind abgegolten.
+(2) Dieser Mietvertrag ersetzt den Vertrag Vertragsnummer [[other_identifier|LV-2017-68171]] vom [[date|15. März 2017]], der mit Ablauf des [[date|31. März 2024]] endet. Die Mieter haben das Mietobjekt in dieser Zeit bereits genutzt; Ansprüche aus dem Vorvertrag sind abgegolten.
 
 (3) Die ordentliche Kündigung ist für beide Vertragsteile unter Einhaltung einer Frist von drei Monaten zum Quartalsende möglich. Die Kündigung bedarf der Schriftform.
 
@@ -55,7 +55,7 @@ Gesamtbetrag brutto je Monat | 2.196,00
 
 (2) Der Mietzins ist jeweils bis zum Dritten eines Monats im Voraus auf das Konto [[bank_account|AT07 7181 0562 8322 5243]] der Vermieterin zu überweisen. Als Zahlungsreferenz ist die Vertragsnummer [[other_identifier|V-2024-86494]] anzugeben.
 
-(3) Die Wertsicherung richtet sich nach dem von [[organization|Statistik Austria]] verlautbarten Verbraucherpreisindex. Die erste Anpassung erfolgt frühestens zum 1. April 2025.
+(3) Die Wertsicherung richtet sich nach dem von [[organization|Statistik Austria]] verlautbarten Verbraucherpreisindex. Die erste Anpassung erfolgt frühestens zum [[date|1. April 2025]].
 
 § 5 Kaution
 
@@ -86,6 +86,12 @@ Die Mieter haben die Hausordnung der Liegenschaft einzuhalten. Die Anbringung vo
 (2) Die Vermieterin haftet für Schäden, die auf Mängel der Gebäudesubstanz zurückzuführen sind, nur bei Verschulden. Für Schäden an Einrichtungsgegenständen der Mieter haftet die Vermieterin nicht.
 
 (3) Die Mieter halten die Vermieterin schad- und klaglos für Schäden, die durch Kunden, Besucher oder Lieferanten im Mietobjekt entstehen.
+
+§ 8a Hausübergabe und Schlüssel
+
+(1) Die Vermieterin übergibt den Mietern zwei Schlüssel für den Haupteingang, zwei Schlüssel für das Geschäftslokal und einen Schlüssel für den Lagerraum. Weitere Schlüssel dürfen nur mit Zustimmung der Vermieterin nachgemacht werden.
+
+(2) Bei Verlust eines Schlüssels haben die Mieter die Kosten für den Austausch der Schließanlage zu tragen, soweit der Verlust von ihnen zu vertreten ist.
 
 § 9 Übergabe und Zustand
 

@@ -9,7 +9,7 @@ GZ [[case_number|DR-K 7/2025]]
 
 Erkenntnis
 
-Der Disziplinarrat der Rechtsanwaltskammer für Kärnten hat unter dem Vorsitz von [[judge|Mag. Battist Schipper]] sowie den Beisitzern [[judge|MMag. Radoslava Gregorová]] und [[judge|Dr. Heidelore Rossmann]] in Anwesenheit des Kammeranwalts [[person|Dr. Viktorian Krings]] und des Schriftführers [[person|Valerianus Stagl]] über die Disziplinaranzeige gegen den Rechtsanwalt [[lawyer|Fotios Kanaris]], geb. [[date_of_birth|05.03.1979]], StA. [[country|Tschechien]], nach öffentlicher mündlicher Verhandlung am [[date|18.09.2025]] zu Recht erkannt:
+Der [[court|Disziplinarrat der Rechtsanwaltskammer für Kärnten]] hat unter dem Vorsitz von [[judge|Mag. Battist Schipper]] sowie den Beisitzern [[judge|MMag. Radoslava Gregorová]] und [[judge|Dr. Heidelore Rossmann]] in Anwesenheit des Kammeranwalts [[person|Dr. Viktorian Krings]] und des Schriftführers [[person|Valerianus Stagl]] über die Disziplinaranzeige gegen den Rechtsanwalt [[lawyer|Fotios Kanaris]], geb. [[date_of_birth|05.03.1979]], StA. [[country|Tschechien]], nach öffentlicher mündlicher Verhandlung am [[date|18.09.2025]] zu Recht erkannt:
 
 Spruch
 
@@ -43,6 +43,20 @@ Der Mandant [[person|Dragoj Yoshev]] bestätigte, dass er den Restbetrag erst na
 
 Mildernd wurde berücksichtigt, dass [[lawyer|Kanaris]] die Restsumme nach Einleitung des Verfahrens vollständig an den Mandanten überwiesen hat. Bisher ist keine disziplinäre Vorstrafe aktenkundig. Erschwerend wurde gewertet, dass der Beschuldigte die Abrechnung über mehrere Monate verzögerte.
 
+Stellungnahme des Beschuldigten
+
+Der Beschuldigte [[lawyer|Fotios Kanaris]] äußerte sich in der Verhandlung ausführlich zu seiner Kanzleiorganisation. Er führte aus, dass die Kanzlei seit dem Jahr 2021 über keine eigene Buchhaltungskraft mehr verfüge und die Abrechnungen von einem externen Dienstleister erstellt würden. Diese Umstellung habe zu Verzögerungen geführt, die er bedauere. Er habe die Restzahlung nach eigener Darstellung auf einem gesonderten Konto vermerkt, bis die Frage der Honorarforderung geklärt sei.
+
+Der Disziplinarrat weist darauf hin, dass ein gesondertes Vermerken auf dem Anderkonto die Verpflichtung zur Weiterleitung nicht ersetzt. Eine Honorarforderung berechtigt einen Rechtsanwalt nicht, Gelder des Mandanten ohne dessen Zustimmung zurückzuhalten, solange der Mandant die Abrechnung nicht erhalten hat und die Höhe des Anspruchs unstreitig ist.
+
+Beweisergebnis
+
+Die Zeugen, insbesondere die Mitarbeiterin der Kanzlei, die die Buchungen im Anderkonto vorgenommen hat, bestätigten, dass die Zahlung am [[date|10.11.2022]] eingegangen ist. Die Zeugin gab an, dass sie den Eingang weitergemeldet habe und der Beschuldigte die Weiterleitung selbst angeordnet habe. Eine Anweisung an die Buchhaltung, den Betrag zurückzuhalten, sei nicht ergangen.
+
+Die Vertreterin der Kammer hat in der Verhandlung darauf hingewiesen, dass der Beschuldigte bereits im Jahr 2023 eine vergleichbare Verzögerung in einem anderen Verfahren eingeräumt hat. Das Verfahren wurde damals eingestellt, weil der Mandant die Forderung zurückgezogen hatte. Dieser Umstand wurde in die Beurteilung nicht als Vorstrafe einbezogen, jedoch als Hinweis auf eine organisatorische Schwäche gewertet.
+
+Der Disziplinarrat hat zudem geprüft, ob die Kanzlei ihre Treuhandbücher ordnungsgemäß führt. Die vorgelegten Auszüge sind lückenlos, enthalten aber keine Angaben zu den Verwendungszwecken der Zahlungen. Die Kammer hat die Kanzlei daher aufgefordert, die Zweckangaben künftig zu ergänzen.
+
 Rechtliche Beurteilung
 
 Nach [[legal_norm|§ 1 RAO]] hat der Rechtsanwalt seinen Beruf gewissenhaft auszuüben. Die Verwahrung und Weiterleitung von Mandantengeldern gehören zu den zentralen Berufspflichten. Die Frist für die Weiterleitung eingegangener Gelder ist grundsätzlich unverzüglich, im vorliegenden Fall ist die Verzögerung von mehr als vier Monaten nicht zu rechtfertigen.
@@ -53,7 +67,7 @@ Gegen dieses Erkenntnis ist die Berufung an die [[court|Oberste Berufungs- und D
 
 Kontaktdaten der Kanzlei für Zustellungen: Tel. [[phone_number|+43 1 768 74 95 DW 184]]
 
-Klagenfurt am Wörthersee, am [[date|18.09.2025]]
+[[location|Klagenfurt am Wörthersee]], am [[date|18.09.2025]]
 
 Für den Disziplinarrat:
 

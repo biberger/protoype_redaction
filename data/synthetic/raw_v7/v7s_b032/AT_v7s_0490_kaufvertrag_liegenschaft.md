@@ -37,7 +37,7 @@ Die Vertragsparteien vereinbaren folgenden Kaufvertrag:
 
 I. Kaufgegenstand
 
-Die [[organization|Kupelwieser]] hat die Liegenschaft im Jahr 2019 erworben und ist seither im Grundbuch als Eigentümerin eingetragen. Die Verkäuferin verkauft und übergibt den Käufern die Liegenschaft im Ausmaß von 1.240 m², bestehend aus dem Grundstück Nr. [[land_register_id|734/21]] samt dem darauf befindlichen Wohnhaus mit Nebengebäude. Die Liegenschaft liegt in der Gemeinde [[location|St. Margarethen im Burgenland]] und wird im Grundbuch wie oben angeführt geführt.
+Die [[organization|Kupelwieser]] hat die Liegenschaft im Jahr 2019 erworben und ist seither im Grundbuch als Eigentümerin eingetragen. Die Verkäuferin verkauft und übergibt den Käufern die Liegenschaft im Ausmaß von 1.240 m², bestehend aus dem Grundstück Nr. [[land_register_id|734/21]] samt dem darauf befindlichen Wohnhaus mit Nebengebäude. Die Liegenschaft liegt in der Gemeinde [[location|St. Margarethen im Burgenland]] und wird im Grundbuch wie oben angeführt geführt. Die Grenzen der Liegenschaft ergeben sich aus dem beiliegenden Plan, der Bestandteil dieses Vertrages ist. Eine Vermessung wurde nicht durchgeführt.
 
 II. Kaufpreis
 
@@ -59,7 +59,7 @@ Die Verkäuferin verpflichtet sich, sämtliche Pfandrechte und Dienstbarkeiten, 
 
 VI. Übergabe und Gefahrenübergang
 
-Der Übergabetermin wird mit [[date|1. Dezember 2025]] festgelegt. Mit der Übergabe gehen Nutzen und Gefahr auf die Käufer über. Die Verkäuferin übergibt alle Schlüssel und die Unterlagen zur Heizungsanlage.
+Der Übergabetermin wird mit [[date|1. Dezember 2025]] festgelegt. Mit der Übergabe gehen Nutzen und Gefahr auf die Käufer über. Sollte der Übergabetermin aus Gründen, die die Käufer zu vertreten haben, verschoben werden, trägt der Käufer die dadurch entstehenden Kosten der Verkäuferin, insbesondere die Kosten für die Zwischenlagerung des Mobiliars. Die Verkäuferin übergibt alle Schlüssel und die Unterlagen zur Heizungsanlage. Die Verkäuferin übergibt ferner den Energieausweis und die Bestätigung über die letzte Überprüfung des Kamins. Eine Übergabe ohne diese Unterlagen gilt als nicht erfolgt.
 
 VI a. Gewährleistung
 
@@ -67,7 +67,17 @@ Die Verkäuferin haftet für den rechtlichen Bestand der Liegenschaft. Für Män
 
 VII. Schlussbestimmungen
 
-Die Parteien erklären, dass keine mündlichen Nebenabreden bestehen. Änderungen bedürfen der Schriftform. Die Kosten des Vertrages und der Eintragung tragen die Käufer.
+Die Parteien erklären, dass keine mündlichen Nebenabreden bestehen. Die Käufer nehmen zur Kenntnis, dass die Verkäuferin keine Gewähr für die Richtigkeit der Flächenangabe im Grundbuch übernimmt, da diese aus dem Katasterplan übernommen wurde. Änderungen bedürfen der Schriftform. Die Kosten des Vertrages und der Eintragung tragen die Käufer. Die Grunderwerbsteuer wird nach dem Wert der Gegenleistung berechnet und ist vom Käufer binnen eines Monats nach Abgabe der Steuererklärung zu entrichten.
+
+VIII. Vollmacht und Belehrung
+
+Die Käufer wurden von der Kanzlei über die Bedeutung der Aufsandungserklärung und die Folgen der Eintragung belehrt. Sie bestätigen, dass sie über die Vor- und Nachteile des Erwerbs in Kenntnis gesetzt wurden. Die Kanzlei weist darauf hin, dass sie als Vertreterin der Verkäuferin tätig ist und die Käufer auf eine eigene anwaltliche Beratung verwiesen wurden. Die Kosten einer solchen Beratung tragen die Käufer selbst.
+
+Die Vertragsparteien erteilen der Kanzlei die Vollmacht, alle für die Eintragung erforderlichen Erklärungen abzugeben, sowie die Eintragungsgebühr und die Grunderwerbsteuer zu berechnen und abzuführen.
+
+IX. Gerichtsstand
+
+Für alle Streitigkeiten aus diesem Vertrag ist das Gericht am Ort der Liegenschaft zuständig. Die Parteien verzichten auf ein anderes Forum. Die Käufer nehmen zur Kenntnis, dass für Klagen gegen die Verkäuferin ein eigener Gerichtsstand nicht vereinbart wurde. Die Kosten einer Streitigkeit tragen die unterliegende Partei.
 
 Unterfertigung
 

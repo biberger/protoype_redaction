@@ -33,6 +33,8 @@ geb. [[date_of_birth|1960-09-18]]
 
 (3) Das Mietverhältnis unterliegt dem [[legal_norm|MRG]] im Vollanwendungsbereich, soweit nicht ausdrücklich abweichende Vereinbarungen getroffen werden.
 
+(4) Die Wohnung ist mit einer Einbauküche und einer Waschmaschine ausgestattet. Die Inventarliste ist Bestandteil dieses Vertrages und ist bei der Übergabe am [[date|1. Dezember 2026]] von beiden Parteien zu unterzeichnen.
+
 § 2 Mietzins
 
 (1) Der Hauptmietzins beträgt monatlich EUR 890,00, die Betriebskostenvorschreibung EUR 210,00, jeweils zuzüglich der gesetzlichen Umsatzsteuer.
@@ -40,6 +42,12 @@ geb. [[date_of_birth|1960-09-18]]
 (2) Der Mietzins ist im Voraus bis zum dritten Werktag eines jeden Monats auf das Konto [[bank_account|AT58 3411 4661 7946 9011]] der Vermieterin zu überweisen.
 
 (3) Die Wertsicherung richtet sich nach dem Verbraucherpreisindex; die Anpassung erfolgt jährlich.
+
+(4) Die Betriebskosten werden jährlich abgerechnet; ein Guthaben oder eine Nachzahlung ist binnen vier Wochen nach Zustellung der Abrechnung fällig.
+
+(5) Haustiere sind nur mit schriftlicher Zustimmung der Vermieterin gestattet.
+
+(6) Der Mieter verpflichtet sich, die Wohnung schonend zu behandeln; kleinere Instandhaltungen im Rahmen des [[legal_norm|§ 8 MRG]] trägt er selbst. Größere Schäden, die durch ihn oder seine Besucher verursacht werden, sind unverzüglich der Vermieterin zu melden.
 
 § 3 Kaution
 

@@ -15,9 +15,9 @@ Der [[court|Disziplinarrat der Rechtsanwaltskammer Wien]] hat am [[date|12. Mai 
 
 Spruch
 
-Der Beschuldigte [[lawyer|Kornelius Paalen]] ist schuldig, er hat als Rechtsanwalt in Wien im Zeitraum vom [[date|3. März bis 17. September 2025]] Gelder, die ihm seine Klientin Frau [[person|Carmen Reitmaier]] zur treuhändigen Verwahrung übergeben hatte, nicht auf dem dafür vorgesehenen Treuhandkonto belassen, sondern teilweise für eigene Zwecke verwendet und dadurch gegen seine Berufspflichten nach [[legal_norm|§ 14 RAO]] verstoßen.
+Der Beschuldigte [[lawyer|Kornelius Paalen]] ist schuldig, er hat als Rechtsanwalt in [[location|Wien]] im Zeitraum vom [[date|3. März bis 17. September 2025]] Gelder, die ihm seine Klientin Frau [[person|Carmen Reitmaier]] zur treuhändigen Verwahrung übergeben hatte, nicht auf dem dafür vorgesehenen Treuhandkonto belassen, sondern teilweise für eigene Zwecke verwendet und dadurch gegen seine Berufspflichten nach [[legal_norm|§ 14 RAO]] verstoßen.
 
-Gemäß [[legal_norm|§ 34 Abs 1 Z 3 RAO]] wird über ihn eine Geldbuße von 4.000 Euro verhängt. Die Kosten des Verfahrens hat der Beschuldigte zu tragen.
+Gemäß [[legal_norm|§ 34 Abs 1 Z 3 RAO]] wird über ihn eine Geldbuße von 4.000 Euro verhängt. Die Kosten des Verfahrens hat der Beschuldigte zu tragen. Die Auslagen für die Zeugin sind darin enthalten.
 
 Entscheidungsgründe
 
@@ -36,7 +36,7 @@ Die Klientin [[person|Carmen Reitmaier]] übergab dem Beschuldigten im Zusammenh
 Aus den vorgelegten Unterlagen ergibt sich folgende Entwicklung des Treuhandkontos:
 
 Datum            Vorgang                                        Betrag EUR    Saldo EUR
-[[date|14.03.2025]]      Zahlungseingang Klientin Reitmaier             4.800,00      4.800,00
+[[date|14.03.2025]]      Zahlungseingang Klientin [[person|Reitmaier]]             4.800,00      4.800,00
 [[date|21.03.2025]]      Auszahlung an Gläubiger, Beleg vorhanden       1.250,00      3.550,00
 [[date|02.04.2025]]      Barbehebung ohne Beleg                         2.000,00      1.550,00
 [[date|28.05.2025]]      Überweisung auf eine private Kreditkarte       1.500,00         50,00
@@ -54,7 +54,7 @@ Gemäß [[legal_norm|§ 14 RAO]] sind Fremdgelder getrennt von eigenen Mitteln z
 
 Die Strafbemessung richtet sich nach [[legal_norm|§ 34 Abs 1 Z 3 RAO]]. Mildernd war, dass der Beschuldigte bisher nicht disziplinarrechtlich aufgefallen ist und die Gelder schließlich zurückgezahlt hat. Erschwerend war die Dauer der Pflichtwidrigkeit und die wiederholte Verspätung bei der Abrechnung.
 
-Eine Verwarnung wäre unter diesen Umständen nicht ausreichend. Die verhängte Geldbuße entspricht dem Unrechtsgehalt und den persönlichen Verhältnissen des Beschuldigten, der nach eigenen Angaben über ein durchschnittliches Einkommen verfügt.
+Eine Verwarnung wäre unter diesen Umständen nicht ausreichend. Auch ein bloßer Verweis hätte den Umfang der Verfehlung nicht erfasst, weil die Gelder über mehrere Monate hinweg in Teilbeträgen bewegt wurden und die Klientin dadurch mehrfach benachteiligt war. Die verhängte Geldbuße entspricht dem Unrechtsgehalt und den persönlichen Verhältnissen des Beschuldigten, der nach eigenen Angaben über ein durchschnittliches Einkommen verfügt.
 
 Die Beisitzerin [[judge|MMag. Ramona Bachmann]] und der Beisitzer [[judge|DI Nikodemus Kluger]] haben dem Erkenntnis zugestimmt. Die Schriftführerin [[person|Aggripina Müller]] hat die Niederschrift geführt.
 
@@ -62,7 +62,7 @@ Rechtsmittelbelehrung
 
 Gegen diesen Beschluss steht dem Beschuldigten und dem Kammeranwalt das Rechtsmittel der Berufung offen. Die Berufung ist binnen vier Wochen ab Zustellung schriftlich einzubringen.
 
-Wien, am [[date|12. Mai 2026]]
+[[location|Wien]], am [[date|12. Mai 2026]]
 
 Für die Richtigkeit der Ausfertigung:
 [[person|Aggripina Müller]]

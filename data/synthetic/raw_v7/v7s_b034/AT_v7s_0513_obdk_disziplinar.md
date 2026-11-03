@@ -9,7 +9,7 @@ GZ [[case_number|DR-St 14/2023]]
 
 IM NAMEN DER REPUBLIK
 
-Der Disziplinarrat der Steiermärkischen Rechtsanwaltskammer hat durch den Vorsitzenden [[judge|MMag. Niklaus Falk]] sowie die Beisitzer [[judge|Edelhard Eckhart]] und [[judge|Gall Ing. Günther]] unter Mitwirkung der Kammeranwältin [[person|Ariadna MMag. Bedreag]] und der Schriftführerin [[person|Diána Semjén]] in der Disziplinarsache gegen die Rechtsanwältin [[lawyer|Cilli Muhr]] wegen des Verdachtes von Verstößen gegen Berufspflichten nach [[legal_norm|§ 1 RAO]] und [[legal_norm|§ 6 Abs 1 Z 3 RAO]] nach öffentlicher mündlicher Verhandlung zu Recht erkannt:
+Der [[court|Disziplinarrat der Steiermärkischen Rechtsanwaltskammer]] hat durch den Vorsitzenden [[judge|MMag. Niklaus Falk]] sowie die Beisitzer [[judge|Edelhard Eckhart]] und [[judge|Gall Ing. Günther]] unter Mitwirkung der Kammeranwältin [[person|Ariadna MMag. Bedreag]] und der Schriftführerin [[person|Diána Semjén]] in der Disziplinarsache gegen die Rechtsanwältin [[lawyer|Cilli Muhr]] wegen des Verdachtes von Verstößen gegen Berufspflichten nach [[legal_norm|§ 1 RAO]] und [[legal_norm|§ 6 Abs 1 Z 3 RAO]] nach öffentlicher mündlicher Verhandlung zu Recht erkannt:
 
 Spruch
 
@@ -43,6 +43,8 @@ Die Vorbringen der Verteidigung, wonach die Abrechnungen nachträglich erstellt 
 
 Die Beschwerdeführerin [[person|Aschauer]] gab in ihrer Einvernahme an, dass sie von der Auszahlung erst im Herbst 2022 erfuhr. Der Beschwerdeführer [[person|Lachs]] bestätigte die Angaben der Zeugin. Es gibt keine Anhaltspunkte, dass die Angaben der Beschwerdeführer unrichtig sind.
 
+Die Kammeranwältin [[person|Ariadna MMag. Bedreag]] verwies zudem darauf, dass die Treuhandkonten der [[organization|MPR]] im Prüfungszeitraum nicht getrennt geführt wurden. Die Kanzleileitung hat dies eingeräumt. Nach Einleitung des Verfahrens wurde ein neues Treuhandkonto eröffnet und die Belege wurden nachgereicht. Die Prüfung ergab, dass die übrigen Mandatsgelder vollständig vorhanden waren.
+
 Das Gremium berücksichtigt als mildernd, dass die Rechtsanwältin [[lawyer|Muhr]] bisher disziplinär unbescholten ist und die Gelder vollständig rückerstattet wurden. Als erschwerend wurde die Mehrzahl der Verstöße und deren Dauer gewertet.
 
 Rechtliche Beurteilung
@@ -55,7 +57,7 @@ Gegen dieses Erkenntnis ist die Berufung an die [[court|Oberste Berufungs- und D
 
 Ihr Zeichen: [[other_identifier|LLP-LLPMuhr/Eisner]]
 
-Steiermark, am [[date|14.11.2023]]
+[[location|Steiermark]], am [[date|14.11.2023]]
 
 Für den Disziplinarrat:
 

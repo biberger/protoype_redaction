@@ -30,7 +30,7 @@ Sehr geehrter Herr [[person|Nachbaur]],
 
 vielen Dank für Ihre Nachricht. Wir haben das Mandat übernommen und die Akten angelegt. Unser Zeichen lautet GZ der Kanzlei: [[other_identifier|727/21 NBC]]; bitte verwenden Sie dieses Zeichen in künftigen Schreiben.
 
-Die Gegnerin ist die [[organization|Mitter GmbH]], [[company_register_number|FN 130844v]], UID-Nr. [[tax_id|ATU98083233]]. Die Mitter GmbH wird durch [[person|Dorle David]] vertreten. Wir werden die Gegnerin zur Zahlung des Fahrzeugschadens auffordern.
+Die Gegnerin ist die [[organization|Mitter GmbH]], [[company_register_number|FN 130844v]], UID-Nr. [[tax_id|ATU98083233]]. Die [[organization|Mitter GmbH]] wird durch [[person|Dorle David]] vertreten. Wir werden die Gegnerin zur Zahlung des Fahrzeugschadens auffordern.
 
 Bitte senden Sie uns das Gutachten des Sachverständigen sowie die Fotos vom Unfallort. Mein Mandant bestätigt, dass der Lieferwagen ohne Anhalten aus der Einfahrt gefahren ist. Ein Zeuge, Herr [[person|Robert Hinteregger]], hat den Vorfall ebenfalls beobachtet; seine Kontaktdaten reichen wir nach. Ihr Stellplatz liegt auf dem Grundstück [[land_register_id|2304/Altenberg an der Rax]] ([[court|BG Deutschlandsberg]]); [[land_register_id|Gst.Nr. 534/21]], das wir für die Darstellung der Einfahrt benötigen. Die Vorlage des Kfz-Scheines wäre hilfreich, ebenso die Bestätigung des Mietwagenunternehmens über die Nutzungsausfallentschädigung. Ich ersuche um kurze Rückmeldung bis Ende der Woche, damit wir die Klagsvorbereitung rechtzeitig einleiten können.
 
@@ -48,6 +48,8 @@ Sehr geehrte Frau [[lawyer|Mag. Kräftner]],
 in der Sache Ihr Zeichen: [[other_identifier|RRB-RRBNachbaur/Jud]] nehme ich namens der [[organization|Mitter GmbH]] wie folgt Stellung. Die Haftung wird dem Grunde nach bestritten, da der Lieferwagen nach Angaben des Fahrers bereits angehalten hatte. Die Versicherung hat die Sachverständige [[person|Dipl.-Ing. Christine Schiffner]] beauftragt, deren Gutachten wir beilegen.
 
 Die Schadenhöhe ist aus Sicht der Gegnerin überhöht. Der Wiederbeschaffungswert laut Gutachten liegt nach unserer Einschätzung deutlich unter dem Betrag, den Sie fordern. Ein Restwert ist zu berücksichtigen. Wir bieten einen Vergleich über EUR 6.400,00 an. Die Zahlung soll auf das Konto [[bank_account|AT73 2969 5857 0808 8586]] erfolgen.
+
+Ergänzend weisen wir darauf hin, dass der Lieferwagen zum Unfallzeitpunkt einen defekten Fahrtrichtungsanzeiger aufwies, was die Sichtbarkeit der Einfahrt zusätzlich beeinträchtigt haben kann. Wir behalten uns vor, ein eigenes Gutachten einzuholen, sollte die Gegenseite auf dem Totalschadenswert bestehen.
 
 Mit freundlichen Grüßen
 [[person|Dorle David]]
@@ -75,6 +77,8 @@ Am [[date|12.03.2026]] um 14:03 schrieb [[lawyer|Mag. Kräftner]]:
 Sehr geehrte Frau [[person|David]],
 
 wir haben Ihr Schreiben vom [[date|11.03.2026]] geprüft. Ein Vergleich über EUR 6.400,00 ist für Herrn [[person|Nachbaur]] nicht annehmbar. Die Sachverständige bestätigt den Totalschaden, und die Wiederbeschaffung ist Teil des Schadenersatzes. Wir fordern die Zahlung von EUR 9.150,00 bis zum [[date|27. März 2026]] und behalten uns die Klage beim [[court|Bezirksgericht Deutschlandsberg]] vor.
+
+Zum Einwand des Blinkers halten wir fest, dass der Mandant den Vorfall schriftlich bestätigt hat und die Werkstattrechnung über die Reparatur des Blinkers im Anhang vorliegt. Die Mietwagenkosten für den Zeitraum bis zur Ersatzbeschaffung betragen laut Rechnung EUR 1.240,00 und sind in der Forderung nicht enthalten. Wir ersuchen um Zahlung bis zum genannten Termin, andernfalls wird ohne weitere Ankündigung Klage erhoben.
 
 Mit freundlichen Grüßen
 

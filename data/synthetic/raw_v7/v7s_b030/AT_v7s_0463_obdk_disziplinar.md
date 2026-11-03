@@ -33,7 +33,7 @@ I. Verfahrensgang
 
 Die Kammeranwältin hat die Anzeige am [[date|2. Juni 2026]] erstattet. Die Anzeige stützt sich auf die Beschwerden der Mandantinnen [[person|Adamantini Raptis]] und [[person|Ziska Kuster]]. Die Beschuldigte betreibt eine Kanzlei in [[location|Linz]], die im Verzeichnis der [[organization|Kanzlei Schoder & Partner]] ([[organization|KSP]]) geführt wird. Die Beschuldigte ist unter Tel. [[phone_number|07242/5861313 Durchwahl 97]] erreichbar.
 
-Die Beschuldigte ist tschechische Staatsangehörige von [[country|Tschechien]], hat ihre Ausbildung aber in Österreich abgeschlossen. Sie ist seit dem Jahr 2011 als Rechtsanwältin in der Oberösterreichischen Rechtsanwaltskammer eingetragen.
+Die Beschuldigte ist tschechische Staatsangehörige von [[country|Tschechien]], hat ihre Ausbildung aber in [[country|Österreich]] abgeschlossen. Sie ist seit dem Jahr 2011 als Rechtsanwältin in der Oberösterreichischen Rechtsanwaltskammer eingetragen.
 
 II. Sachverhalt
 
@@ -59,6 +59,10 @@ Die Mandantin [[person|Ziska Kuster]] hat angegeben, dass sie zu keinem Zeitpunk
 
 Der Schriftführer [[person|Efraim Bastel]] hat die Auszüge der Bank verlesen; die Eingänge stimmen mit den Angaben der Mandantinnen überein.
 
+Die Kammeranwältin hat in ihrer Stellungnahme vom [[date|20. Juli 2026]] ausgeführt, dass die Verzögerung im Verfahren Treuhandbuch-Nr. [[other_identifier|2023/285]] nicht isoliert betrachtet werden könne, weil die Beschuldigte bereits im Jahr 2023 eine vergleichbare Kontrollmitteilung der Kammer erhalten habe. Dieser Vorhalt ist unbestritten. Die damalige Mitteilung wurde jedoch ohne förmliches Verfahren erledigt und hat daher keine Bindungswirkung. Der Senat sieht darin keinen eigenständigen Tatvorwurf, berücksichtigt den Umstand aber bei der Strafbemessung.
+
+Die Mandantin [[person|Adamantini Raptis]] hat in ihrer Aussage geschildert, dass sie während der Verzögerung mehrfach bei der Kanzlei angerufen habe und stets auf den nächsten Werktag vertröstet worden sei. Die Schilderung deckt sich mit den Telefonnotizen, die die Kanzlei für den Zeitraum zwischen dem [[date|12. Juni 2025]] und dem [[date|18. Juli 2025]] führte.
+
 IV. Rechtliche Beurteilung
 
 Gemäß [[legal_norm|§ 1 Abs 1 RAO]] ist der Rechtsanwalt verpflichtet, Treuhandgelder zeitgerecht und vollständig weiterzuleiten und abzurechnen. Die verspätete Weiterleitung von EUR 6.000,00 ist eine Verletzung dieser Pflicht, auch wenn der Betrag letztlich vollständig ausbezahlt wurde.
@@ -67,7 +71,7 @@ Die Nichtabrechnung von EUR 3.100,00 im Verfahren TH-Nr. [[other_identifier|2025
 
 V. Strafbemessung und Kosten
 
-Der Senat hat berücksichtigt, dass die Beschuldigte bisher disziplinarrechtlich nicht in Erscheinung getreten ist. Erschwerend wirkt die Dauer der Verzögerung von mehr als sechs Wochen. Eine Geldbuße von EUR 2.500,00 erscheint angemessen.
+Der Senat hat berücksichtigt, dass die Beschuldigte bisher disziplinarrechtlich nicht in Erscheinung getreten ist. Erschwerend wirkt die Dauer der Verzögerung von mehr als sechs Wochen. Eine Geldbuße von EUR 2.500,00 erscheint angemessen. Zu Gunsten der Beschuldigten wirkt ihr Geständnis hinsichtlich der Verspätung und die Tatsache, dass sie die Mandantin nachträglich von sich aus über den Stand informiert hat. Die Verspätung betrug 36 Tage, der Zinsschaden ist gering. Eine bloße Verwarnung kam nicht in Betracht, weil die Verzögerung auch die Mandantin [[person|Raptis]] betraf, die auf die rechtzeitige Weiterleitung zur Begleichung einer Forderung angewiesen war.
 
 Die Kosten des Verfahrens von EUR 850,00 hat die Beschuldigte zu tragen. Die Kostenentscheidung beruht auf [[legal_norm|§ 52 RAO]]. Gegen diesen Bescheid steht der Beschuldigten die Berufung an die [[court|OBDK]] offen.
 

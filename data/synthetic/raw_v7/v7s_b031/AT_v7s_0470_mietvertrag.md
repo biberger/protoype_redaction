@@ -113,6 +113,14 @@ Die Summe der Positionen entspricht dem vereinbarten Betrag von EUR 132,50 nach 
 
 (4) Der Vermieter ist berechtigt, die Mieterin zur Einsichtnahme in die Hausordnung aufzufordern; diese liegt in der Hausverwaltung auf.
 
+**§ 12 Zustellung und Gerichtsstand**
+
+(1) Schriftliche Mitteilungen des Vermieters gelten als zugestellt, wenn sie an die Mietobjektadresse gerichtet werden, solange die Mieterin keine andere Anschrift bekanntgegeben hat.
+
+(2) Für Streitigkeiten aus diesem Vertrag ist das Gericht zuständig, in dessen Sprengel das Mietobjekt liegt. Die Vertragsparteien haben die Anwendung ausländischen Rechts ausgeschlossen.
+
+(3) Die Mieterin bestätigt, dass ihr vor Unterfertigung eine Abschrift des Vertrages übergeben wurde und sie Gelegenheit hatte, sich über die Bestimmungen zu informieren.
+
 Ausgefertigt in zwei Gleichschriften
 
 [[address|5090 Lofer]], am [[date|15. Jänner 2026]]

@@ -87,6 +87,35 @@ X. GEWÄHRLEISTUNG
 
 Die Grundstücke werden im gegenwärtigen Zustand übergeben. Für Altlasten, Bodenbelastungen und Kontaminationen aus früherer Nutzung der Lagerhalle übernehmen die Verkäufer keine Haftung, soweit ihnen diese nicht bekannt waren. Die Käuferin hat die Grundstücke besichtigt und den Bodengutachten vom [[date|14. Mai 2026]] zugestimmt.
 
+Die Verkäufer teilen mit, dass auf der Liegenschaft 3 ein Hochbehälter der Wasserversorgung steht, dessen Wartung durch die Gemeinde erfolgt. Die Käuferin nimmt zur Kenntnis, dass sie Zutritt zum Behälter zu dulden hat. Die Verkäufer haben der Käuferin ferner die Mängelliste zu den Fenstern des Lagergebäudes übergeben; diese Mängel sind im Kaufpreis berücksichtigt.
+
+Xa. BAURECHT UND FLÄCHENWIDMUNG
+
+1. Die Käuferin hat das Exposé vom [[date|12. Februar 2026]] sowie den Auszug aus dem Flächenwidmungsplan der [[organization|Marktgemeinde Niederndorf]] erhalten. Danach ist die Liegenschaft 2 als Bauland-Betriebsgebiet ausgewiesen. Die bestehende Lagerhalle genießt Bestandsschutz.
+2. Die Verkäufer erklären, dass für die Liegenschaft 2 derzeit keine Bauverhandlung anhängig ist und keine Verfahren nach dem Raumordnungsgesetz laufen. Sie haben der Käuferin die Bescheide über die Erteilung der Benützungsbewilligung übergeben.
+3. Die Käuferin wurde darüber aufgeklärt, dass die Erweiterung der Lagerhalle einer gesonderten Baubewilligung bedarf. Sie übernimmt das Risiko einer Versagung und ist nicht berechtigt, vom Vertrag zurückzutreten, falls die Baubewilligung nicht erteilt wird.
+4. Der Bürgermeister der [[organization|Marktgemeinde Niederndorf]] hat mit Schreiben vom [[date|7. Mai 2026]] bestätigt, dass gegen die Nutzung der Liegenschaft als Holzlager keine Bedenken bestehen. Eine Kopie dieses Schreibens ist der Urkunde als Beilage angeschlossen.
+
+Xb. VORKAUFSRECHT UND BESTEHENDE PACHT
+
+1. Die Verpachtung eines Teils der Lagerhalle an die [[organization|Kleinwald Holzbau GmbH]] erfolgte mit Pachtvertrag vom [[date|1. März 2022]] auf unbestimmte Zeit. Der Pachtvertrag kann unter Einhaltung einer Frist von sechs Monaten zum Monatsende aufgekündigt werden.
+2. Die Verkäufer verpflichten sich, die Kündigung des Pachtvertrages bis spätestens [[date|31. Juli 2026]] auszusprechen. Die Kosten der Kündigung trägt der Verkäufer [[person|Niederreiter]].
+3. Ein Vorkaufsrecht der Gemeinde nach dem Raumordnungsrecht besteht nicht. Ein vertragliches Vorkaufsrecht zugunsten des Pächters ist nicht eingetragen; die Verkäufer haben jedoch schriftlich erklärt, dass der Pächter das Recht hat, die Lagerhalle zu den gleichen Bedingungen zu erwerben.
+4. Sollte der Pächter sein Vorkaufsrecht ausüben, ist dieser Vertrag hinsichtlich der Liegenschaft 2 hinfällig. Die Käuferin erhält in diesem Fall den auf die Liegenschaft 2 entfallenden Teil des Kaufpreises ohne Zinsen zurück.
+
+Xc. KOSTEN UND ABGABEN
+
+1. Die Kosten der Vertragserrichtung, der Urkundenausfertigungen und der Verbücherung trägt die Käuferin allein. Die Kosten für die Lastenfreistellung und für die Löschung von Pfandrechten trägt der jeweilige Verkäufer.
+2. Die Grundbuchsabfrage vom [[date|25. Mai 2026]] sowie die Abfrage im Firmenbuch zu den Verkäufern sind der Urkunde als Beilage beigeschlossen. Die Kosten dieser Abfragen trägt die Käuferin.
+3. Die Verkäufer haben die Grundsteuer für das laufende Kalenderjahr bis zum Tag des Besitzübergangs zu tragen. Die Käuferin übernimmt die Grundsteuer ab diesem Tag anteilig.
+4. Sollte die Kanzlei von einer Partei eine Vorauszahlung für Abgaben verlangen, ist diese binnen 14 Tagen auf das Treuhandkonto zu leisten.
+
+Xd. ZUSTIMMUNG UND VERTRAGSÜBERNAHME
+
+1. Die Ehegatten der Verkäufer haben der Veräußerung ihrer Anteile schriftlich zugestimmt. Die Zustimmungserklärungen sind vor der Unterfertigung bei der Kanzlei hinterlegt worden.
+2. Die Käuferin kann ihre Rechte aus diesem Vertrag mit schriftlicher Zustimmung der Verkäufer auf eine Gesellschaft übertragen, an der sie mit mehr als 50 % beteiligt ist. Eine Übertragung an Dritte ist ausgeschlossen.
+3. Die Käuferin erklärt, dass sie die Liegenschaften nicht als Anlageobjekte für den Weiterverkauf innerhalb von zehn Jahren erwirbt. Sollte sie gegen diese Erklärung verstoßen, bleibt der Vertrag gleichwohl wirksam; die Verkäufer können jedoch Auskunft über die Verwendung verlangen.
+
 XI. SCHLUSSBESTIMMUNGEN
 
 1. Nebenabreden bestehen nicht. Änderungen bedürfen der Schriftform.

@@ -67,7 +67,7 @@ Bei der Strafbemessung hat der Senat berücksichtigt, dass die Beschuldigte bish
 
 Die Bemessung der Geldbuße berücksichtigt außerdem, dass die Beschuldigte die Kanzlei [[organization|SPR]] inzwischen organisatorisch umgestellt hat. Nach ihren Angaben werden Treuhandgelder nunmehr auf getrennten Konten je Mandant verwaltet und monatlich mit dem Treuhandbuch abgestimmt. Der Senat wertet dies als Einsicht, kann jedoch nicht darüber hinwegsehen, dass die Verstöße über einen längeren Zeitraum bestanden haben.
 
-Die Verfahrenskosten umfassen die Pauschalgebühr für das Verfahren vor dem Disziplinarrat in Höhe von EUR 1.240,00 sowie die Kosten der Zustellung und der Auszüge des Treuhandkontos. Die Beschuldigte hat diese Kosten binnen vier Wochen nach Rechtskraft zu bezahlen.
+Der Senat hat in diesem Zusammenhang auch die Stellungnahme der Kammer zur Organisation des Treuhandwesens berücksichtigt, wonach die Kanzlei [[organization|SPR]] bis zur Umstellung keine regelmäßigen Kontrollen vorsah. Die Verfahrenskosten umfassen die Pauschalgebühr für das Verfahren vor dem Disziplinarrat in Höhe von EUR 1.240,00 sowie die Kosten der Zustellung und der Auszüge des Treuhandkontos. Die Beschuldigte hat diese Kosten binnen vier Wochen nach Rechtskraft zu bezahlen.
 
 Die Kostenentscheidung beruht auf [[legal_norm|§ 52 RAO]]. Gegen diesen Bescheid steht der Beschuldigten die Berufung an die [[court|OBDK]] offen. Die Berufungsfrist beträgt vier Wochen ab Zustellung.
 

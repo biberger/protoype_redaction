@@ -62,9 +62,33 @@ Der Beschuldigte hat außerdem die Pflicht zur Sorgfalt nach [[legal_norm|§ 9 R
 
 Die Berufung auf eine mündliche Absprache mit der Klientin ist nicht glaubwürdig. Die Klientin hat den Beschuldigten am [[date|11. Februar 2025]] schriftlich aufgefordert, den Betrag zurückzuüberweisen. Der Beschuldigte hat dies erst nach einer Mahnung getan.
 
+III a. Stellungnahme der Klientin
+
+Die Klientin [[person|Beneš]] hat dem Senat schriftlich mitgeteilt, dass der Kaufpreis für die Wohnung in [[location|St. Michael im Lungau]] von ihr selbst aufgebracht worden sei und dass sie den Kauf nach dem Scheitern der Verhandlungen über die Mängelbehebung nicht weiterverfolgen wollte. Sie habe dem Beschuldigten nie erlaubt, den Betrag an die [[organization|Slawik Immobilien GmbH]] zu überweisen. Die Klientin hat zugleich angegeben, dass sie den Beschuldigten nach wie vor für einen fähigen Rechtsanwalt halte, jedoch die Verwahrung der Gelder für unzureichend organisiert ansehe.
+
+Die Klientin hat außerdem darauf hingewiesen, dass sie vom Verkäufer erst im März 2025 erfahren habe, dass die Zahlung nicht an ihn weitergeleitet wurde. Dies deckt sich mit dem Schreiben der [[organization|SIG]] vom [[date|24. März 2025]], in dem die Verkäuferin um Auskunft über den Zahlungseingang ersucht.
+
+Der Beschuldigte hat der Klientin mit Schreiben vom [[date|1. April 2025]] eine Rückzahlung von EUR 10.000,00 zugesagt. Die Zahlung ist nach der Aktenlage erst am [[date|29. April 2025]] eingegangen. Die restliche Summe von EUR 17.300,00 wurde bis zur Verhandlung nicht zurückgezahlt.
+
+III b. Mündliche Verhandlung
+
+In der Verhandlung hat die Kammeranwältin die Anträge gestellt, den Beschuldigten für schuldig zu erkennen und eine Geldbuße zu verhängen, die deutlich über der Mindeststrafe liegt. Der Beschuldigte hat die Abweisung des Vorwurfs der Vorsatztat beantragt, jedoch den Vorwurf einer Fahrlässigkeit eingeräumt.
+
+Der Senat hat den Beschuldigten persönlich angehört. Er hat erklärt, dass die Zahlung im Vertrauen auf eine Abwicklung über das Notariat veranlasst worden sei und dass er die Verantwortung für die Buchung trage. Diese Erklärung wurde vom Senat als glaubwürdig eingestuft, weil der Beschuldigte die Verantwortung ausdrücklich übernommen hat.
+
+III c. Organisation der Kanzlei
+
+Die Kanzlei des Beschuldigten beschäftigt neben dem Beschuldigten zwei Kanzleikräfte und eine Buchhalterin. Die Einrichtung eines Treuhandkontos erfolgte im Jahr 2019 auf Veranlassung des Beschuldigten. Eine Vollmacht für die Verfügung über das Konto hatte neben dem Beschuldigten auch die Kanzleimitarbeiterin [[person|Kunrath]], die jedoch nur auf Anweisung des Beschuldigten Zahlungen freigeben durfte.
+
+Der Senat stellt fest, dass es keine interne Kontrolle der Auszahlungen gab. Die Zahlungen wurden ohne Vier-Augen-Prinzip freigegeben, obwohl die Kammer eine solche Kontrolle seit Jahren empfiehlt. Diese Organisation hat die Verletzung der Pflichten nach den Bestimmungen der Richtlinie der Kammer nicht verhindert.
+
+Die Richtlinie der Kammer über die Führung von Treuhandkonten sieht vor, dass Auszahlungen über EUR 5.000,00 von einer zweiten Person zu genehmigen sind. Diese Vorgabe wurde im Verfahren nicht eingehalten. Der Beschuldigte hat dies bestätigt und erklärt, dass er die Richtlinie in der Hektik des Kanzleialltags übersehen habe.
+
+Die Zahlung an die [[organization|Slawik Immobilien GmbH]] vom [[date|5. Februar 2025]] überschreitet diese Schwelle deutlich. Eine Genehmigung durch eine zweite Person ist nicht dokumentiert.
+
 IV. Strafbemessung
 
-Mildernd wirkt, dass der Beschuldigte den Betrag inzwischen zurückgezahlt hat. Erschwerend wirkt die Höhe des Betrags und die Dauer des Zeitraumes, in dem die Klientin ohne Auskunft blieb.
+Mildernd wirkt, dass der Beschuldigte einen Teil des Betrags inzwischen zurückgezahlt hat. Erschwerend wirkt die Höhe des Betrags und die Dauer des Zeitraumes, in dem die Klientin ohne Auskunft blieb.
 
 Die Geldbuße von EUR 4.500,00 erscheint angemessen. Sie berücksichtigt die bisherige Unbescholtenheit und die wirtschaftliche Lage des Beschuldigten. Ein Ausspruch über die Streichung aus der Liste kommt nicht in Betracht.
 

@@ -102,6 +102,14 @@ Die Hausordnung regelt im Einzelnen:
 
 Die Mieter teilen dem Vermieter jede Änderung der Anschrift, des Familienstandes oder der Zahl der in der Wohnung lebenden Personen innerhalb von vier Wochen schriftlich mit. Eine Anmeldung von Nebenwohnsitzen ist ohne Zustimmung nicht zulässig.
 
+**15. Schlussbestimmungen**
+
+(1) Sollte eine Bestimmung dieses Vertrages unwirksam sein oder werden, bleibt der Vertrag im Übrigen wirksam. Die Parteien verpflichten sich, die unwirksame Bestimmung durch eine wirksame zu ersetzen, die dem wirtschaftlichen Zweck am nächsten kommt.
+
+(2) Für Streitigkeiten aus diesem Vertrag ist das Gericht am Ort der Liegenschaft zuständig. Mitteilungen gelten an der zuletzt bekanntgegebenen Anschrift als zugestellt.
+
+(3) Die Mieter bestätigen, dass sie den Vertrag gelesen und die Hausordnung erhalten haben. Eine Haftung des Vermieters für Einrichtungsgegenstände, die die Mieter eingebracht haben, besteht nicht.
+
 Ausgefertigt in drei Gleichschriften
 
 [[address|5061 Elsbethen]], am [[date|20. Mai 2024]]

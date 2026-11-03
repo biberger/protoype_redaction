@@ -12,9 +12,11 @@ Betreff: WG: Zurückbehaltung der Miete, Zeichen [[other_identifier|Trenker ./. 
 
 Sehr geehrter Herr [[person|Dr. Petrin]],
 
-seit dem Auszug von Frau [[person|Naeema Peterson]], geboren am [[date_of_birth|02.02.1990]], StA: [[country|Österreich]], aus der Wohnung im Hof des Hauses in Krems hat die Hausverwaltung die Heizkostenabrechnung nicht vorgelegt. Die Firma [[organization|Graff Immobilien GmbH]] (im Folgenden: [[organization|GIG]]) verlangt dennoch eine Nachzahlung von EUR 1.184,00.
+seit dem Auszug von Frau [[person|Naeema Peterson]], geboren am [[date_of_birth|02.02.1990]], StA: [[country|Österreich]], aus der Wohnung im Hof des Hauses in [[location|Krems]] hat die Hausverwaltung die Heizkostenabrechnung nicht vorgelegt. Die Firma [[organization|Graff Immobilien GmbH]] (im Folgenden: [[organization|GIG]]) verlangt dennoch eine Nachzahlung von EUR 1.184,00.
 
 Ich habe die Miete für den Monat April daher um diesen Betrag gekürzt. Die Unterlagen zu meinem Vertrag liegen im Anhang. Bitte prüfen Sie, ob ich die Zurückbehaltung auf diese Weise geltend machen darf.
+
+Zusätzlich möchte ich wissen, ob ich die Zahlung auf ein Treuhandkonto Ihrer Kanzlei leisten kann, bis die Abrechnung geprüft ist. Ich habe Sorge, dass sonst die Hausverwaltung die Mahnkosten weiter erhöht. Die Heizkostenabrechnung ist für das Jahr 2025 bereits am [[date|15.01.2026]] fällig gewesen, aber nie an mich übermittelt worden.
 
 Mit freundlichen Grüßen
 [[person|Norberta Trenker]]
@@ -23,7 +25,7 @@ Am [[date|17.04.2026]] um 09:02 schrieb [[person|Petrin]]:
 
 > Von: [[person|Norberta Trenker]] <[[email|n.trenker@trenker-online.at]]>
 > Betreff: WG: Zurückbehaltung der Miete, Zeichen [[other_identifier|Trenker ./. Kurth]]
-> Die Firma Graff Immobilien GmbH verlangt dennoch eine Nachzahlung von EUR 1.184,00.
+> Die Firma [[organization|Graff Immobilien GmbH]] verlangt dennoch eine Nachzahlung von EUR 1.184,00.
 
 Sehr geehrte Frau [[person|Trenker]],
 
@@ -44,7 +46,7 @@ Sehr geehrte Damen und Herren,
 
 die Abrechnung wurde bereits am [[date|30.03.2026]] versandt, eine Kopie liegt bei. Frau [[person|Trenker]] hat die Rechnung nicht bezahlt, obwohl eine Mahnung am [[date|20.04.2026]] zugestellt wurde.
 
-Ich bitte um Zahlung innerhalb von 14 Tagen. Andernfalls behält sich die [[organization|GIG]] die Klage beim [[court|BG Krems]] vor.
+Die Angaben zu den Vorauszahlungen finden Sie in der Anlage. Die Heizkostenabrechnung für das Jahr 2025 wurde auf Grundlage der Zählerstände vom [[date|31.12.2025]] erstellt. Eine Ablesung durch einen Dienstleister hat am [[date|08.01.2026]] stattgefunden, das Protokoll liegt bei. Ich bitte um Zahlung innerhalb von 14 Tagen. Andernfalls behält sich die [[organization|GIG]] die Klage beim [[court|BG Krems]] vor.
 
 Mit freundlichen Grüßen
 [[person|Gerolf Schreiber]]

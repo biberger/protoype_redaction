@@ -52,6 +52,14 @@ c) Lebensversicherung: Die Versicherungsgesellschaft hat mit Schreiben vom [[dat
 
 d) Hausrat, Schmuck und Einrichtung laut Inventar vom [[date|11.11.2019]], geschätzter Wert EUR 3.900,00.
 
+Zur Bewertung der Liegenschaft ist anzumerken, dass das Gutachten vom [[date|3. Februar 2020]] den Wert auf Basis der Vergleichspreise im Ortsteil ermittelt hat. Die Erben haben auf eine Neubewertung verzichtet, weil der Wert zuletzt im Jahr 2019 erhoben wurde und sich der Immobilienmarkt in der Gemeinde seither kaum verändert hat.
+
+Die Lebensversicherung ist im Verlassenschaftsverfahren als Aktivum zu behandeln, weil der Bezugsberechtigte nicht namentlich bestimmt war. Der Erlös fließt daher in die Verlassenschaft und wird nach der Erbquote verteilt.
+
+4a. Persönliche Gegenstände
+
+Die Erbin [[person|Prader]] hat den Schmuck der Erblasserin bereits im Dezember 2019 übernommen. Die Erbin [[person|Januszewska]] hat die Übernahme der persönlichen Papiere, insbesondere des Familienstammbuchs, beantragt. Diese Gegenstände sind im Inventar nicht bewertet und bleiben daher unberührt.
+
 5. Verbindlichkeiten
 
 Die Verbindlichkeiten einschließlich der Begräbniskosten, der Gebühren des Gerichtskommissärs und der Betriebskosten betragen zusammen EUR 6.735,80. Nach Abzug der Verbindlichkeiten vom Aktivvermögen verbleibt ein Reinnachlass von rund EUR 297.000,00.
@@ -59,6 +67,8 @@ Die Verbindlichkeiten einschließlich der Begräbniskosten, der Gebühren des Ge
 6. Verfahrensstand
 
 Die Abhandlung ist gemäß [[legal_norm|§ 143 AußStrG]] iVm [[legal_norm|§ 800 ABGB]] zu führen. Nach Begleichung der Verbindlichkeiten beantrage ich die Einantwortung an beide Erben zu je einer Hälfte.
+
+Die Gläubiger [[person|Palko]] und [[person|Groß]] wurden von der Tagsatzung vom [[date|26. Mai 2026]] verständigt. Herr [[person|Groß]] hat um Stundung seiner Forderung bis zur Klärung der Rechnung ersucht; ein entsprechender Antrag liegt dem Gericht bereits vor.
 
 Das [[court|BG Mistelbach]] wird um Mitteilung ersucht, ob gegen die Einantwortung Einwände bestehen. Die Abrechnung der Gerichtskommissärsgebühren ist beigelegt.
 

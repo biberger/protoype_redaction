@@ -35,7 +35,17 @@ Die [[organization|HB]] hat die Mängel trotz zweimaliger Aufforderung nicht beh
 
 Der Schaden beläuft sich nach dem Kostenvoranschlag auf EUR 11.640,00. Die Haftpflichtversicherung unserer Mandantin ist unter [[other_identifier|LV-2018-41060]] nicht betroffen; die Schadensmeldung wurde unter der Schaden-Nr. [[other_identifier|30/455695/24]] eingereicht.
 
-Die Zahlung ist auf das Konto unserer Mandantin IBAN [[bank_account|AT18 8381 6246 4423 4926]] zu leisten. Der Vorgang ist im Vorfeld bereits vor dem [[court|Handelsgericht Wien]] anhängig gemacht worden; die Klage wurde am [[date|20. Oktober 2026]] beim [[court|HG Wien]] eingebracht, jedoch bisher nicht zugestellt. Die Gerichtsgebühren wurden von unserer Mandantin vorgeschossen und sind in der Kostenaufstellung enthalten. Wir ersuchen um außergerichtliche Erledigung.
+Die Zahlung ist auf das Konto unserer Mandantin IBAN [[bank_account|AT18 8381 6246 4423 4926]] zu leisten. Der Vorgang ist im Vorfeld bereits vor dem [[court|Handelsgericht Wien]] anhängig gemacht worden; die Klage wurde am [[date|20. Oktober 2026]] beim [[court|HG Wien]] eingebracht, jedoch bisher nicht zugestellt. Die Gerichtsgebühren wurden von unserer Mandantin vorgeschossen und sind in der Kostenaufstellung enthalten. Wir ersuchen um außergerichtliche Erledigung. Sollte bis zum [[date|30. November 2026]] keine Antwort eingehen, werden wir die Klage im Verfahren fortführen und die Schadensbeträge gesondert geltend machen.
+
+Die Kostenaufstellung unserer Mandantin gliedert sich wie folgt:
+
+Dachdeckerarbeiten zur Nachbesserung EUR 6.900,00
+Gerüst und Abtransport EUR 1.240,00
+Sachverständigengutachten EUR 1.500,00
+Gerichtsgebühren EUR 2.000,00
+Summe EUR 11.640,00
+
+Die Rechnungen des Dachdeckers liegen im Original bei. Die Gewährleistungsfrist für die Dacharbeiten läuft bis zum [[date|1. Juli 2028]] und ist durch die Mängelrüge gewahrt. Wir behalten uns vor, den Schaden um weitere Aufwendungen zu erhöhen, sollten die Mängel auch nach einer Verbesserung weiterhin auftreten.
 
 Bei Rückfragen erreichen Sie uns unter Tel. [[phone_number|01/8797220 Kl. 65]].
 

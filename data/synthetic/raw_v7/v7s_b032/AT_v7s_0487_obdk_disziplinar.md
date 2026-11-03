@@ -41,7 +41,7 @@ Die [[organization|Tiroler Rechtsanwaltskammer]] (im Folgenden: [[organization|T
 
 Der Kammeranwalt [[person|MMag. Arend Tschulik]] stellte den Antrag, den Beschuldigten schuldig zu erkennen und eine Geldbuße zu verhängen. Die Anzeige bezieht sich auf die Treuhandschaft, die unter dem Aktenzeichen GZ der Kanzlei: [[other_identifier|Wagner ./. Salzmann]] geführt wurde. Der Beschuldigte hatte dieses Mandat im Zusammenhang mit einer Streitigkeit um einen Kaufvertrag übernommen.
 
-Die [[organization|TRAK]] übermittelte dem Disziplinarrat die Zuschrift vom [[date|16. Oktober 2025]] sowie die Kontenunterlagen. Der Beschuldigte rechtfertigte sich schriftlich und gab an, die Abrechnung sei wegen einer Erkrankung verzögert worden.
+Die [[organization|TRAK]] übermittelte dem Disziplinarrat die Zuschrift vom [[date|16. Oktober 2025]] sowie die Kontenunterlagen. Der Beschuldigte rechtfertigte sich schriftlich und gab an, die Abrechnung sei wegen einer Erkrankung verzögert worden. Die Erkrankung wurde durch ein ärztliches Attest belegt, das sich jedoch nur auf einen Zeitraum von zwei Wochen bezog.
 
 Der Beschuldigte wurde am [[date|27. Jänner 2026]] in der Verhandlung gehört. Er wurde von einem Verteidiger begleitet. Die Zeugin [[person|Herfriede Kahl]] wurde unter Wahrheitserinnerung vernommen. Sie schilderte die Abläufe ausführlich und blieb auch auf Nachfrage bei ihren Angaben.
 
@@ -54,7 +54,7 @@ Frau [[person|Herfriede Kahl]] hatte dem Beschuldigten im März 2024 einen Betra
 Die Bewegungen auf dem Treuhandkonto ergeben sich aus der folgenden Aufstellung, die der Beschuldigte in der Verhandlung bestätigt hat:
 
 Datum             Vorgang                                             Betrag EUR     Saldo EUR
-[[date|08.03.2024]]       Zahlungseingang Klientin Kahl                        9.400,00       9.400,00
+[[date|08.03.2024]]       Zahlungseingang Klientin [[person|Kahl]]                        9.400,00       9.400,00
 [[date|15.03.2024]]       Überweisung auf Geschäftskonto der Kanzlei           3.000,00       6.400,00
 [[date|02.05.2024]]       Zahlung an Sachverständigen                          1.800,00       4.600,00
 [[date|19.06.2024]]       Barbehebung, kein Beleg                              2.500,00       2.100,00
@@ -70,7 +70,7 @@ Im Schreiben vom [[date|12. August 2025]] teilte der Beschuldigte der Klientin m
 
 3. Beweiswürdigung
 
-Der Senat stützt die Feststellungen auf die Kontoauszüge, die Aussage der Klientin und die Schreiben des Beschuldigten. Der Beschuldigte hat sich in der Verhandlung teilweise widersprochen. Er gab zunächst an, die Gelder seien nur kurzfristig umgebucht worden, und räumte später ein, dass die Beträge für die Kanzleikosten verwendet wurden.
+Der Senat stützt die Feststellungen auf die Kontoauszüge, die Aussage der Klientin und die Schreiben des Beschuldigten. Die Schreiben wurden im Original vorgelegt und sind unverändert. Der Beschuldigte hat sich in der Verhandlung teilweise widersprochen. Er gab zunächst an, die Gelder seien nur kurzfristig umgebucht worden, und räumte später ein, dass die Beträge für die Kanzleikosten verwendet wurden.
 
 Die Angaben der Klientin sind widerspruchsfrei und durch die Unterlagen gestützt. Der Senat hält sie für glaubwürdig.
 
@@ -90,15 +90,25 @@ Die Pflicht zur Abrechnung ergibt sich aus [[legal_norm|§ 1 Abs 1 RAO]] iVm [[l
 
 Der Senat hat den Schutzbereich des [[legal_norm|Art. 6 EMRK]] nicht berührt gesehen, weil es sich um ein Verfahren vor der Standesbehörde handelt, in dem der Beschuldigte umfassend gehört wurde.
 
+Zur Verfahrensdauer ist festzuhalten, dass die Anzeige vom [[date|4. November 2025]] bis zur Verhandlung am [[date|27. Jänner 2026]] nicht ungebührlich lange geblieben ist. Die Zeit zwischen den einzelnen Verfahrensschritten wurde durch die Ergänzung der Akten und die Nachforderung der Kontounterlagen bestimmt. Eine Verzögerung, die dem Beschuldigten nicht zuzurechnen wäre, ist nicht erkennbar.
+
+Die Bezeichnung der Gelder als Treuhandschaft im Schreiben an die Klientin war unrichtig, weil die Gelder nicht in einer förmlich eröffneten Treuhandschaft lagen. Der Beschuldigte hat dies in der Verhandlung eingeräumt.
+
+Der Senat hat ferner geprüft, ob die Verwendung der Gelder für Kanzleikosten gerechtfertigt war. Eine solche Rechtfertigung hätte vorausgesetzt, dass die Klientin einer Verrechnung zugestimmt hätte. Eine solche Zustimmung liegt nicht vor; die Klientin hat die Verrechnung in der Verhandlung ausdrücklich abgelehnt. Der Beschuldigte hat sich daneben auf den Umstand berufen, dass er die Gelder mit Zinsen zurückgezahlt habe. Die Rückzahlung erfolgte jedoch erst nach der Anzeige, sodass sie zwar mildernd, aber nicht entlastend wirkt.
+
+Der Senat hat außerdem berücksichtigt, dass die Klientin durch die Verzögerung einen Zinsschaden erlitten hat, der sich nach den Angaben in der Verhandlung auf rund EUR 180,00 beläuft. Der Beschuldigte hat den Zinsschaden nicht ausgeglichen. Dieser Umstand wurde bei der Strafbemessung nicht gesondert gewertet, weil er bereits in der Dauer der Pflichtwidrigkeit enthalten ist.
+
+Im Übrigen bleibt festzuhalten, dass der Beschuldigte als Rechtsanwalt in besonderem Maß auf das Vertrauen der Rechtsuchenden angewiesen ist. Wer Gelder für Klienten verwahrt, übernimmt eine Verantwortung, die über die bloße Buchführung hinausgeht und auch die laufende Kontrolle der Bewegungen umfasst.
+
 5. Strafbemessung
 
 Die Strafe richtet sich nach [[legal_norm|§ 34 RAO]]. Als mildernd wurde berücksichtigt, dass der Beschuldigte bisher disziplinarrechtlich nicht aufgefallen ist und die Gelder nach der Anzeige zurückgezahlt hat. Als erschwerend wurden die Dauer der Pflichtwidrigkeit und die Unrichtigkeit der Auskunft gewertet.
 
-Eine Geldbuße von 6.000 Euro erscheint angemessen. Eine Verwarnung oder ein Verweis wäre dem Unrecht nicht gerecht geworden. Ein Ausschluss aus der Rechtsanwaltschaft wurde nicht beantragt und kam nach Abwägung nicht in Betracht.
+Eine Geldbuße von 6.000 Euro erscheint angemessen. Eine Verwarnung oder ein Verweis wäre dem Unrecht nicht gerecht geworden. Ein Ausschluss aus der Rechtsanwaltschaft wurde nicht beantragt und kam nach Abwägung nicht in Betracht. Die Kammer hat ferner berücksichtigt, dass der Beschuldigte seit seiner Zulassung keine weiteren Verfahren hatte; die Dauer seiner Tätigkeit als Rechtsanwalt beträgt mehr als fünfzehn Jahre.
 
 6. Kosten
 
-Die Kosten des Verfahrens sind dem Beschuldigten aufzuerlegen. Sie setzen sich aus den Gebühren der Zeugen und den Auslagen für die Verhandlung zusammen.
+Die Kosten des Verfahrens sind dem Beschuldigten aufzuerlegen. Sie setzen sich aus den Gebühren der Zeugen und den Auslagen für die Verhandlung zusammen. Die Kosten der Zeugin [[person|Herfriede Kahl]] für die Anreise nach [[location|Innsbruck]] sind darin ebenfalls enthalten.
 
 Rechtsmittelbelehrung
 

@@ -53,13 +53,17 @@ Die Unfallstelle wurde vermessen. Die Fahrbahn ist an dieser Stelle drei Meter b
 
 Die Polizeiinspektion hat die Fahrzeuge fotografiert und die Schäden dokumentiert. Die Lenkerin Fahrzeug 1 ist laut Auskunft des Versicherers bei der [[organization|Alpenvorland Versicherung AG]] versichert, Polizze [[other_identifier|42-7448018]]. Der Versicherer des Fahrzeugs 2 wurde noch nicht ermittelt.
 
+Die Beamten führten bei beiden Lenkern einen Alkotest durch, der jeweils ein negatives Ergebnis lieferte. Die Lenkerin Fahrzeug 1 gab an, sie sei mit etwa 15 km/h in den Einmündungsbereich eingefahren und habe das Fahrzeug von rechts zunächst nicht gesehen. Herr [[person|Cojan]] bestätigte, dass er mit etwa 40 km/h unterwegs gewesen sei, was der zulässigen Höchstgeschwindigkeit an der Stelle entspricht. Die Schäden am Fahrzeug 1 betreffen den vorderen linken Kotflügel und die Stoßstange, jene am Fahrzeug 2 die linke Vordertür und die Türverkleidung.
+
+Nach der Vernehmung haben die Beteiligten ihre Angaben schriftlich bestätigt. Die Protokolle wurden unterschrieben und dem Akt beigelegt. Eine Anzeige wegen Übertretung der Vorrangregelung ist vorgesehen, sofern die Lenkerin Fahrzeug 1 den Sachverhalt nicht im Rahmen eines Strafmandats anerkennt.
+
 Die Fahrzeuge waren nicht mehr fahrbereit und wurden auf Kosten der Eigentümer abgeschleppt. Der Abschleppdienst wurde durch den Notruf verständigt.
 
 Ergebnis der Erhebungen:
 
 Die Vorrangregelung war zum Unfallzeitpunkt durch das Gelände eingeschränkt. Nach Auffassung der Beamten hat die Lenkerin Fahrzeug 1 die Vorrangregelung nicht beachtet, da sie vor dem Abbiegen nicht ausreichend auf den Gegenverkehr achtete. Herr [[person|Cojan]] hätte die Geschwindigkeit wegen der Hecke ebenfalls anpassen können; ein Verschulden trifft ihn nach den Erhebungen jedoch nicht in relevantem Ausmaß.
 
-Die Anzeige wird gemäß [[legal_norm|§ 3 Abs 1 StVO]] an die Bezirkshauptmannschaft weitergeleitet. Die Beteiligten wurden aufgefordert, den Schaden über ihre Versicherer zu regulieren.
+Die Anzeige wird gemäß [[legal_norm|§ 3 Abs 1 StVO]] an die Bezirkshauptmannschaft weitergeleitet. Die Bezirkshauptmannschaft wird um Prüfung gebeten, ob die Lenkerin Fahrzeug 1 einer Nachschulung zu unterziehen ist, da sie nach den Vormerkungen bereits im Jahr 2023 wegen einer Vorrangverletzung aufgefallen ist. Die Fotodokumentation umfasst zwölf Aufnahmen und befindet sich im Akt. Die Beteiligten wurden darauf hingewiesen, dass sie im Falle einer Verletzung von Auskunftspflichten selbst für den Schaden aufzukommen haben. Sie bestätigten dies. Die Beteiligten wurden aufgefordert, den Schaden über ihre Versicherer zu regulieren.
 
 Telefonische Auskunft der Versicherungen: Die Versicherung der Lenkerin Fahrzeug 1 ist unter Tel. [[phone_number|+43-5572-1407016 Kl. 74]] erreichbar. Die Unfallanzeige trägt die Schaden-Nr. [[other_identifier|17/630027/24]].
 

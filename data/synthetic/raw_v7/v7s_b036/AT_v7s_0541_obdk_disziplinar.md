@@ -10,7 +10,7 @@ GZ [[case_number|D 14/2026]]
 
 BESCHLUSS
 
-Im Namen der Republik. Der Disziplinarrat der Rechtsanwaltskammer Wien hat in der Disziplinarsache gegen Rechtsanwältin [[lawyer|Marietta Fiedler]] wegen des Verdachts der Verletzung anwaltlicher Pflichten nach [[legal_norm|§ 9 RAO]] iVm [[legal_norm|§ 1 DSt]] nach der mündlichen Verhandlung vom [[date|18.06.2026]] in nichtöffentlicher Sitzung erkannt:
+Im Namen der Republik. Der [[court|Disziplinarrat der Rechtsanwaltskammer Wien]] hat in der Disziplinarsache gegen Rechtsanwältin [[lawyer|Marietta Fiedler]] wegen des Verdachts der Verletzung anwaltlicher Pflichten nach [[legal_norm|§ 9 RAO]] iVm [[legal_norm|§ 1 DSt]] nach der mündlichen Verhandlung vom [[date|18.06.2026]] in nichtöffentlicher Sitzung erkannt:
 
 Zusammensetzung (Protokollvermerk):
 
@@ -35,6 +35,16 @@ Begründung
 
 4. Die Beschuldigte war im Tatzeitraum als Einzelanwältin tätig, die Kanzlei befand sich bis zum Jahr 2025 in [[location|St. Andrä]]. Der Kammeranwalt [[person|Dr. Valtin Preisinger]] stellte den Antrag auf Verhängung einer Geldbuße. In der mündlichen Verhandlung blieb die Beschuldigte bei ihrer Darstellung, räumte jedoch ein, die Trennung der Gelder unterlassen zu haben.
 
+Beweiswürdigung
+
+Der Senat hat die vorgelegten Kontoauszüge des Treuhandkontos für den Zeitraum vom [[date|1. Februar 2024 bis 31. Oktober 2024]] geprüft. Aus den Auszügen ergibt sich, dass am [[date|11.04.2024]] der Betrag von EUR 18.500,00 des Mandanten [[person|Beranek]] eingegangen ist. Die Überweisung vom [[date|23.04.2024]] ist im Auszug lediglich als Vorauszahlung bezeichnet; ein Empfänger ist nicht angeführt. Die Beschuldigte konnte den Empfänger in der Verhandlung nicht eindeutig benennen.
+
+Die Zeugin [[person|Henrika Kelsen]] gab an, sie habe einer Einbehaltung ihres Anteils nie zugestimmt. Sie legte ein Schreiben vom [[date|04.10.2024]] vor, mit dem sie die Rückzahlung des Betrags eingefordert hatte. Die Beschuldigte antwortete darauf am [[date|07.10.2024]] mit einer kurzen Mitteilung, in der sie um Geduld bat und die Abrechnung für die folgende Woche ankündigte. Die Abrechnung wurde jedoch nicht übermittelt.
+
+Der Kammeranwalt [[person|Dr. Valtin Preisinger]] hat in seinem Schlussvortrag hervorgehoben, dass die Beschuldigte im Jahr 2025 an einer Fortbildung zum Treuhandrecht teilgenommen hat. Dies wertete der Senat als Hinweis auf eine ernsthafte Auseinandersetzung mit den Vorwürfen, änderte jedoch nichts an der Beurteilung der Vorfälle des Jahres 2024.
+
+Die Beschuldigte hat in der Verhandlung angegeben, die Kanzlei habe in dieser Zeit personelle Engpässe gehabt. Der Senat hat diesen Umstand berücksichtigt, jedoch festgehalten, dass die Verantwortung für die Verwaltung des Treuhandkontos bei der Rechtsanwältin selbst liegt und durch organisatorische Schwierigkeiten nicht entfällt.
+
 Rechtliche Beurteilung
 
 Der Senat hat erwogen: Die Verwaltung fremder Gelder gehört zu den zentralen Berufspflichten einer Rechtsanwältin. Anvertraute Beträge sind getrennt zu halten und nur auf Grund einer nachweisbaren Weisung des Mandanten oder einer rechtskräftigen Entscheidung auszuzahlen. Die Vorauszahlung auf eigene Honorarforderungen ist nicht belegt; sie hätte überdies nur mit Zustimmung des Mandanten vorgenommen werden dürfen.
@@ -42,6 +52,10 @@ Der Senat hat erwogen: Die Verwaltung fremder Gelder gehört zu den zentralen Be
 Der Senat hat die bisherige ordentliche Berufsausübung der Beschuldigten als mildernd gewertet. Erschwerend war die Mehrzahl der Vorfälle und der Umstand, dass Mandanten über längere Zeit ohne Auskunft blieben. Die verhängte Geldbuße entspricht dem Unrechtsgehalt und der persönlichen Lage der Beschuldigten.
 
 Der Vorsitz hat die Sache am [[date|18.06.2026]] beraten. Die Beschuldigte hat auf Rechtsmittel verzichtet; der Kammeranwalt hat die Entscheidung zur Kenntnis genommen.
+
+Die Beschuldigte ist seit dem Jahr 2008 in die Liste der Rechtsanwälte eingetragen. Eine frühere Disziplinarstrafe liegt nicht vor. Der Senat hat die Verfahrensdauer von rund sechzehn Monaten berücksichtigt; sie ist überwiegend auf die Ergänzung der Ermittlungen durch die Kammer zurückzuführen und wird der Beschuldigten daher nicht als Verzögerung angelastet.
+
+Die Kosten des Verfahrens werden mit EUR 890,00 bestimmt. Die Zahlung ist binnen vier Wochen nach Rechtskraft auf das Konto der Kammer zu leisten. Die Beschuldigte hat die Erstattung der Kosten zugesagt, sofern die Zahlungsfrist eingehalten wird.
 
 Zustellung
 

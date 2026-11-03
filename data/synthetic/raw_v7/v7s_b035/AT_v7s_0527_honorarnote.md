@@ -27,7 +27,7 @@ Klientennummer: [[other_identifier|50047]]
 
 Sehr geehrte Frau [[person|Dipl.-Ing. Schäffler]],
 
-gemäß Ihrem Auftrag vom [[date|28. August 2026]] erlaube ich mir, für die anwaltliche Vertretung in der Angelegenheit der Verlängerung des Bestandvertrages über das Ferienhaus in Hirschegg folgende Leistungen in Rechnung zu stellen. Die Honorierung erfolgt nach den Tarifposten 3 und 4 des [[legal_norm|RATG]]; die Barauslagen sind ohne Aufschlag weiterverrechnet.
+gemäß Ihrem Auftrag vom [[date|28. August 2026]] erlaube ich mir, für die anwaltliche Vertretung in der Angelegenheit der Verlängerung des Bestandvertrages über das Ferienhaus in [[location|Hirschegg]] folgende Leistungen in Rechnung zu stellen. Die Honorierung erfolgt nach den Tarifposten 3 und 4 des [[legal_norm|RATG]]; die Barauslagen sind ohne Aufschlag weiterverrechnet.
 
 Wie besprochen, haben Sie und Herr [[person|Barutçuoğlu]] die Verlängerung um drei Jahre gewünscht. Der Vermieter hat die Verlängerung mit einer geänderten Kautionsregelung angeboten, die ich in der Leistungsaufstellung unter den Positionen vom [[date|16.09.2026]] und vom [[date|07.10.2026]] berücksichtigt habe. Für die Bearbeitung der Betriebskostenabrechnung 2025 fällt ein gesonderter Stundensatz an, der nach Zeitaufwand verrechnet wurde.
 
@@ -53,7 +53,7 @@ Offener Betrag: EUR 1.464,88
 
 Die Zahlung ist binnen 14 Tagen ab Rechnungsdatum auf das Konto der Kanzlei mit der IBAN [[bank_account|AT73 8582 6875 0916 1369]] zu leisten. Bitte geben Sie bei der Überweisung die Honorarnote-Nummer und die Klientennummer [[other_identifier|67579]] an.
 
-Die Kanzlei ist gemäß [[legal_norm|§ 11 UStG]] zur Ausweisung der Umsatzsteuer berechtigt. Eine Zahlung des Restbetrages nach Ablauf der Zahlungsfrist führt zur Verzinsung nach den gesetzlichen Bestimmungen.
+Die Kanzlei ist gemäß [[legal_norm|§ 11 UStG]] zur Ausweisung der Umsatzsteuer berechtigt. Eine Zahlung des Restbetrages nach Ablauf der Zahlungsfrist führt zur Verzinsung nach den gesetzlichen Bestimmungen. Die Honorarnote wurde elektronisch erstellt und ist ohne Unterschrift gültig.
 
 Mit freundlichen Grüßen
 

@@ -51,6 +51,14 @@ Eine zweite Klientin, [[person|Friedolina Loitzl]], geb [[date_of_birth|14. Mai 
 
 Das Treuhandkonto ist bei der [[organization|Raiffeisenbank Wien]] unter der IBAN [[bank_account|AT25 5796 1829 7369 1071]] geführt. Die Kanzlei der Beschuldigten befindet sich in [[location|St. Wolfgang im Salzkammergut]].
 
+1a. Weitere Vorwürfe
+
+Der Vorwurf gegenüber [[person|Loitzl]] betrifft einen Vermögensverwaltungsauftrag, den die Klientin der Beschuldigten am [[date|3. Februar 2024]] erteilt hatte. Die Klientin übergab damals Wertpapiere im Nennwert von EUR 22.000,00 zur Verwahrung, die nach dem Auftrag bis zur Abwicklung eines Erbfalls unangetastet bleiben sollten. Die Beschuldigte hat die Wertpapiere zunächst im Treuhandbuch ausgewiesen und später dort nicht mehr geführt.
+
+Aus den Unterlagen ergibt sich, dass die Klientin im Oktober 2024 eine Auskunft über den Bestand verlangt hat. Die Beschuldigte hat darauf nicht reagiert. Erst nach der Befassung der Kammer übermittelte sie eine Aufstellung, die mit den Bankunterlagen nicht übereinstimmte. Die Differenz von EUR 1.700,00 wurde später ausgeglichen.
+
+Der Senat stellt fest, dass die Verspätung der Abrechnung und die unzureichende Auskunft zusammen eine eigenständige Verletzung der Pflicht zur ordnungsgemäßen Information darstellen. Diese Verletzung wird bei der Strafbemessung berücksichtigt, bildet aber keinen eigenständigen Schuldspruch.
+
 2. Rechtliche Beurteilung
 
 Nach den Bestimmungen der [[legal_norm|Rechtsanwaltsordnung]] hat der Rechtsanwalt fremde Gelder getrennt vom eigenen Vermögen zu verwahren und jede Auszahlung nur nach Weisung des Klienten oder nach Eintritt der vereinbarten Bedingung vorzunehmen. Die Auszahlung vom [[date|11. März 2025]] erfolgte ohne Weisung und ohne Eintritt einer Bedingung. Sie verletzt daher die Pflichten nach [[legal_norm|§ 10 RAO]] und die Berufspflicht zur Treue nach [[legal_norm|§ 9 RAO]].
@@ -74,6 +82,18 @@ Die Klientin [[person|Dvořák]] hat im Verfahren angegeben, dass sie der Rechts
 Mildernd wirkt die bisherige Unbescholtenheit der Beschuldigten und ihr Geständnis hinsichtlich der Verspätung. Erschwerend wirkt die Höhe der unberechtigt ausgezahlten Summe. Die Geldbuße trägt dem Umstand Rechnung, dass die Beschuldigte den Fehlbetrag inzwischen ausgeglichen hat.
 
 Die Vorsitzende [[judge|Hertzka]] hat der Berufung des Kammeranwalts insoweit Folge gegeben, als die Schuld nunmehr festgestellt wird. Die Mitglieder [[judge|Spiel]] und [[judge|Öztaner]] haben sich dem angeschlossen.
+
+5. Anhörung der Beschuldigten
+
+In der mündlichen Anhörung vom [[date|16. Juni 2026]] hat die Beschuldigte [[lawyer|Wöber]] erklärt, dass sie die Verantwortung für die Auszahlung übernehme, weil sie die Buchungen trotz Vertretung durch eine Substitutin nicht überwacht habe. Sie bedauere die Verspätung der Abrechnung gegenüber der Klientin [[person|Loitzl]] und habe seither ein neues System für das Treuhandbuch eingeführt, das jede Auszahlung von zwei Personen freigeben lässt.
+
+Die Beschuldigte hat außerdem vorgebracht, dass sie seit dem Jahr 2015 ohne disziplinäre Vorwürfe als Rechtsanwältin tätig sei und zahlreiche Treuhandschaften ordnungsgemäß abgewickelt habe. Der Senat hat dies zur Kenntnis genommen; die bisherige Unbescholtenheit wirkt sich bei der Strafbemessung mildernd aus.
+
+Der Kammeranwalt [[person|Tiwald]] hat im Anschluss an die Anhörung darauf hingewiesen, dass die Beschuldigte bisher keine Stellungnahme zur Frage der Verwendung der Gelder für Kanzleikosten abgegeben habe. Diese Frage ist nach der Beweislage jedoch nicht entscheidungserheblich.
+
+6. Berufsrechtliche Vorgaben
+
+Die Pflicht zur getrennten Verwahrung von Fremdgeldern dient dem Schutz der Klientinnen und dem Vertrauen in den Berufsstand. Der Rechtsanwalt darf Treuhandgelder weder als Sicherheit für eigene Forderungen verwenden noch in seinem Betrieb liquide halten. Diese Grundsätze sind seit Jahren in der Rechtsprechung der Kammer und des [[court|Obersten Gerichtshofs]] gefestigt.
 
 Rechtsmittelbelehrung: Gegen diesen Beschluss ist eine Revision an den [[court|Obersten Gerichtshof]] zulässig. Die Revisionsfrist beträgt vier Wochen ab Zustellung.
 

@@ -59,6 +59,10 @@ Die Klägerin hat den Schaden nicht selbst verschuldet. [[person|Erkek]] hat die
 
 Das [[court|LG Linz]] ist für die Klage sachlich zuständig, weil der Streitwert EUR 38.500,00 übersteigt. Die Mitwirkung des Landes als Nebenintervenient richtet sich nach [[legal_norm|§ 17 ZPO]].
 
+Die Beklagte hat den Unfall mit Schreiben vom [[date|20. Jänner 2025]] an ihre Versicherung gemeldet und dabei die Glätte der Zufahrt bestritten. Der Parkplatzbetreiber hat in seinem Schreiben vom [[date|16. Jänner 2025]] angegeben, dass die Räumung am [[date|13. Jänner 2025]] um 6.30 Uhr durchgeführt worden sei. Diese Angabe ist durch die Aussage der Zeugin [[person|Ulagay]] widerlegt, die den Räumdienst am Vortag geleitet hat und angibt, dass am Morgen des Unfalltages nicht geräumt wurde.
+
+Der Umstand, dass die Klägerin die Zufahrt bei Tageslicht benutzte, begründet kein Mitverschulden. Die Klägerin hatte keinen Anlass, mit einer Vereisung der Fahrbahn an dieser Stelle zu rechnen, weil die Zufahrt von der Beklagten als Parkplatzzufahrt betrieben wurde und Warnschilder fehlten.
+
 IV. Anträge
 
 Die Klägerin stellt daher die Anträge,

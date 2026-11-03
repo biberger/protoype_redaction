@@ -12,7 +12,7 @@ E: [[email|office@chvostek.at]]  W: www.chvostek.at
 ERV-Code: [[other_identifier|P503056]]
 
 Unser Zeichen: [[other_identifier|FS/Christou/5336]]
-Rohr im Gebirge, am [[date|18. Februar 2026]]
+[[location|Rohr im Gebirge]], am [[date|18. Februar 2026]]
 
 KAUFVERTRAG
 über eine Liegenschaft
@@ -94,7 +94,7 @@ VIII a. Aufstellung der Kosten (Stand Februar 2026)
 Position | Empfänger | Betrag in EUR
 Vertragserrichtung | Kanzlei | 3.150,00
 Grundbuchseingabe (Einverleibung) | Grundbuch | 417,00
-Löschung Pfandrecht, Treuhandbuch 2020/024 | Bausparkasse | 1.080,00
+Löschung Pfandrecht, Treuhandbuch [[other_identifier|2020/024]] | Bausparkasse | 1.080,00
 Vermessungsurkunde Teilung | Vermessungsamt | 640,00
 Energieausweis | Sachverständigenbüro | 210,00
 
@@ -114,7 +114,7 @@ VIII c. Finanzierung und Erklärungen der Käuferin
 
 2. Die Käuferin erklärt, dass sie weder über die Zahlungsunfähigkeit noch über ein laufendes Insolvenzverfahren informiert ist. Die Vertreter der Käuferin haben die Vollmacht des Geschäftsführers durch Vorlage des Firmenbuchauszuges nachgewiesen.
 
-3. Die Verkäuferin erklärt, dass sie den Kaufpreis nicht zur Abdeckung eigener Schulden verwenden wird, sondern die Auszahlung auf ein Konto der Verkäuferin in Österreich erwartet.
+3. Die Verkäuferin erklärt, dass sie den Kaufpreis nicht zur Abdeckung eigener Schulden verwenden wird, sondern die Auszahlung auf ein Konto der Verkäuferin in [[country|Österreich]] erwartet.
 
 4. Die Parteien nehmen zur Kenntnis, dass die Treuhänderin die Vertragsparteien über die Folgen einer Nichterfüllung belehrt hat. Insbesondere wurde darauf hingewiesen, dass bei Verzug der Käuferin mit der Kaufpreiszahlung um mehr als dreißig Tage ein Rücktrittsrecht der Verkäuferin entsteht, sofern die Frist schriftlich gesetzt wurde.
 

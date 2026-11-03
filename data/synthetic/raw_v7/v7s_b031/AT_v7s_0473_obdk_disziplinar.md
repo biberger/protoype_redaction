@@ -30,17 +30,19 @@ Der Kammeranwalt hat die Anzeige am [[date|11. März 2026]] eingebracht. Die Anz
 
 **2. Sachverhalt**
 
-Der Beschuldigte ist Rechtsanwalt in einer Kanzlei in Klagenfurt am Wörthersee. Er vertrat im Jahr 2023 die [[organization|Possanner von Ehrenthal GmbH]] (im Folgenden „[[organization|PVE]]“), [[company_register_number|FN 546192z]], UID: [[tax_id|ATU17744555]], in einem Verfahren wegen eines Gewerbemietvertrags.
+Der Beschuldigte ist Rechtsanwalt in einer Kanzlei in [[location|Klagenfurt am Wörthersee]]. Er vertrat im Jahr 2023 die [[organization|Possanner von Ehrenthal GmbH]] (im Folgenden „[[organization|PVE]]“), [[company_register_number|FN 546192z]], UID: [[tax_id|ATU17744555]], in einem Verfahren wegen eines Gewerbemietvertrags.
 
-Für die PVE wurde ein Betrag von EUR 7.350,00 auf das Treuhandkonto des Beschuldigten eingezahlt. Die Zahlung ist unter Treuhandschaft Nr. [[other_identifier|2020/816]] erfasst. Am [[date|2. August 2023]] wurde ein Teilbetrag von EUR 3.000,00 an die Kanzlei des Beschuldigten überwiesen, ohne dass eine Honorarnote vorlag. Die Honorarnote vom [[date|29. August 2023]] wurde erst im November 2023 erstellt.
+Für die [[organization|PVE]] wurde ein Betrag von EUR 7.350,00 auf das Treuhandkonto des Beschuldigten eingezahlt. Die Zahlung ist unter Treuhandschaft Nr. [[other_identifier|2020/816]] erfasst. Am [[date|2. August 2023]] wurde ein Teilbetrag von EUR 3.000,00 an die Kanzlei des Beschuldigten überwiesen, ohne dass eine Honorarnote vorlag. Die Honorarnote vom [[date|29. August 2023]] wurde erst im November 2023 erstellt.
 
 Im Verfahren zur Treuhandbuch-Nr. [[other_identifier|2019/723]] wurden Eingänge im Oktober 2024 erst im Jänner 2025 erfasst. Die Klienten [[person|Kornelia Zorzi]] und [[person|Ulrich Hartlieb]] wurden darüber nicht informiert.
 
 Die Schreiben der Kanzlei an die Kammer tragen den Vermerk Zeichen [[other_identifier|W-WObernosterer/Tockner]]. Der Beschuldigte hat die Eingänge der Jahre 2023 und 2024 nach eigener Darstellung in einer Excel-Liste geführt, die jedoch nicht mit dem Treuhandbuch abgeglichen war.
 
+Der Beschuldigte hat in der Verhandlung ausgeführt, die Erfassung der Eingänge sei an eine Software geknüpft gewesen, die im Frühjahr 2024 gewechselt wurde. Der Senat hält dies für keine Rechtfertigung, weil die Pflicht zur Führung des Treuhandbuches unabhängig von der verwendeten Software besteht und der Beschuldigte für die Buchführung allein verantwortlich ist.
+
 **3. Beweiswürdigung**
 
-Der Senat stützt die Feststellungen auf die Kontoauszüge, das Treuhandbuch und die Aussagen des Kammeranwalts [[person|Stiegler]]. Der Beschuldigte bestätigt die Überweisung vom [[date|2. August 2023]], meint aber, sie sei im Einverständnis mit der PVE erfolgt. Eine schriftliche Zustimmung der PVE liegt nicht vor; der Geschäftsführer der PVE hat in einer Zeugenaussage das Gegenteil erklärt.
+Der Senat stützt die Feststellungen auf die Kontoauszüge, das Treuhandbuch und die Aussagen des Kammeranwalts [[person|Stiegler]]. Der Beschuldigte bestätigt die Überweisung vom [[date|2. August 2023]], meint aber, sie sei im Einverständnis mit der [[organization|PVE]] erfolgt. Eine schriftliche Zustimmung der [[organization|PVE]] liegt nicht vor; der Geschäftsführer der [[organization|PVE]] hat in einer Zeugenaussage das Gegenteil erklärt.
 
 Die Zeugin [[person|Zorzi]] hat angegeben, sie habe von den Eingängen erst bei der Abrechnung Kenntnis erhalten. Die Angaben sind glaubhaft.
 
@@ -48,9 +50,13 @@ Die Zeugin [[person|Zorzi]] hat angegeben, sie habe von den Eingängen erst bei 
 
 Nach [[legal_norm|§ 43a Abs 3 RAO]] hat der Rechtsanwalt anvertraute Gelder getrennt zu verwahren. Die Entnahme ohne Abrechnung ist ein Verstoß, auch wenn der Betrag später mit dem Honorar verrechnet wurde. Die Verspätung der Eintragungen verletzt zudem die Pflicht zur ordnungsgemäßen Führung des Treuhandbuches.
 
+Der Senat berücksichtigt weiter, dass der Beschuldigte die Kammeranwaltschaft bei der Aufklärung unterstützt und die Unterlagen vollständig herausgegeben hat. Eine Verfahrensverzögerung ist nicht eingetreten; die Verhandlung wurde binnen der gesetzlichen Frist durchgeführt.
+
 **5. Strafbemessung**
 
 Mildernd wirkt, dass der Beschuldigte den Betrag am [[date|10. Dezember 2025]] vollständig zurückgezahlt hat. Er hat zudem eingeräumt, dass die Organisation seiner Kanzlei in den Jahren 2023 und 2024 unzureichend war, und Maßnahmen zur Verbesserung der Buchführung angekündigt. Erschwerend ist die wiederholte Verspätung. Die Geldstrafe ist vor dem Hintergrund des Strafrahmens angemessen.
+
+Der Senat hat die Strafe im Hinblick auf die Bezahlung der Rückstände als Akt der Wiedergutmachung gewertet, die bereits erfolgt ist. Eine höhere Geldstrafe hätte ein Zeichen gesetzt, erscheint aber angesichts der Gesamtumstände nicht geboten.
 
 **6. Kosten**
 

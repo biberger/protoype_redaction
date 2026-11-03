@@ -24,15 +24,20 @@ GZ der Kanzlei: [[other_identifier|Broda ./. Nagy]]
 
 BETREFF: HAFTPFLICHTSCHADEN VOM [[date|3. MÄRZ 2026]] – MANDANT [[person|KOLOMAN BRODA]] – [[organization|ZODL BAU GMBH]]
 
-Sehr geehrter Herr Lenz!
+Sehr geehrter Herr [[person|Lenz]]!
 
 Wir vertreten Herrn [[person|Koloman Broda]] in der Angelegenheit des oben genannten Schadensereignisses auf der Baustelle in [[location|St. Veit an der Glan]]. Gemäß Ihrer Schadensmeldung ist Ihr Versicherungsnehmer, die [[organization|Zodl Bau GmbH]] ([[company_register_number|FN 185404d]], UID [[tax_id|ATU40900441]]) ([[organization|ZB]]), mit der Haftpflichtpolizze gedeckt. Die Polizze führt die Nummer Polizzen-Nr. [[other_identifier|20-9731188]].
 
 Zum Sachverhalt: Am [[date|3. März 2026]] wurde unser Mandant auf der Baustelle durch einen herabfallenden Schalungsträger am linken Unterarm verletzt. Der Polier [[person|Marcus Gaál]], StA: [[country|Rumänien]], hatte den Träger am Gerüst unzureichend gesichert. Dies ergibt sich aus dem Bericht der Arbeitsinspektion und aus den Angaben der Zeugin:
 
-Zeugin: [[person|Cordula⏎Pöch]], *[[date_of_birth|18. Oktober⏎1961]], wohnhaft in [[address|Ulrichstraße 24/3, 3580⏎Horn]]
+Zeugin: [[person|Cordula
+Pöch]], *[[date_of_birth|18. Oktober
+1961]], wohnhaft in [[address|Ulrichstraße 24/3, 3580
+Horn]]
 
 Frau [[person|Pöch]] hat den Vorfall unmittelbar beobachtet und dies gegenüber der Arbeitsinspektion bestätigt. Die [[organization|ZB]] hat den Vorfall zunächst mit einem Bedienungsfehler des Mitarbeiters begründet; dies widerspricht den vorliegenden Beweisen.
+
+Unser Mandant war seit dem Unfall bis zum [[date|14. April 2026]] arbeitsunfähig. Der behandelnde Arzt hat eine Knochenfraktur mit Nachbehandlung bestätigt; eine Dauerfolge ist derzeit nicht auszuschließen. Wir behalten uns vor, die Ansprüche für künftige Schäden nachzufordern, sobald der Heilungsverlauf abgeschlossen ist.
 
 Die Schadenposition unseres Mandanten stellt sich wie folgt dar:
 

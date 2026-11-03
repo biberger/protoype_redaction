@@ -37,6 +37,8 @@ Herr [[person|Planer]] war als Beifahrer im Fahrzeug anwesend und hat den Schade
 
 Der Unfallbericht nennt als Lenker [[person|Frenzel Theobald]]; die Schadensliste führt ferner [[person|Resl Valeriana]] und [[person|Mirchev Chanko]] an. Die Schadenhöhe wird mit EUR 8.430,00 beziffert und durch Kostenvoranschläge belegt.
 
+Ferner ersuchen wir um Übermittlung sämtlicher Unterlagen, auf die sich Ihre Ablehnung stützt, insbesondere des Fotoprotokolls, der Schadensmeldung im Original und der Stellungnahme des Sachverständigen. Sollten Ihnen diese Unterlagen nicht vorliegen, bitten wir um Mitteilung, welche Unterlagen Sie zur Prüfung noch benötigen.
+
 Wir ersuchen Sie daher, die Deckung bis spätestens [[date|15.05.2026]] zu bestätigen. Andernfalls werden wir die Ansprüche gerichtlich geltend machen. Rückfragen richten Sie bitte an Tel. [[phone_number|07242 901706 Kl. 45]].
 
 Mit freundlichen Grüßen

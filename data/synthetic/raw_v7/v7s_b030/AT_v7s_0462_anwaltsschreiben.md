@@ -21,7 +21,7 @@ Vertragsnummer [[other_identifier|LV-2025-18044]]
 [[location|Arbing]], am [[date|27. Oktober 2026]]
 
 An die
-Oberösterreichische Wohnbaugenossenschaft Mitte
+[[organization|Oberösterreichische Wohnbaugenossenschaft Mitte]]
 z. H. Frau [[person|Annja Weigelt]]
 Linzer Straße 9
 [[address|4020 Linz]]
@@ -43,6 +43,8 @@ Die Liegenschaft wurde von [[person|Blanche Höfler]], StA. [[country|Tschechien
 Wir ersuchen um Mitteilung, ob der Antrag auf Einverleibung des Eigentumsrechts bereits gestellt wurde. Der Antrag ist innerhalb der Frist des [[legal_norm|§ 26 GBG]] zu stellen. Eine Verzögerung würde unseren Mandanten erheblich belasten.
 
 Unser Mandant ist bereit, den Anteil an der Erbschaft bis zum [[date|30. November 2026]] verbindlich zu erklären. Die Zahlung ist auf das Konto IBAN [[bank_account|AT50 3320 0121 0144 8179]] zu leisten.
+
+Als Beilagen übersenden wir den Grundbuchsauszug vom [[date|1. Oktober 2026]] sowie die Erbantrittserklärung des Mandanten. Die Angaben zum Erbanteil sind dort im Detail aufgeführt.
 
 Für Rückfragen steht Ihnen die Kanzlei unter Tel. [[phone_number|05572 296183-4]] zur Verfügung.
 

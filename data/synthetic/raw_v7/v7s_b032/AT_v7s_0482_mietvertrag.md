@@ -35,7 +35,7 @@ Kunden-Nr. [[other_identifier|396389]]
 
 (2) Der Mietgegenstand ist auf folgender Liegenschaft gelegen: [[land_register_id|KG 79069 Ternberg]] Einlagezahl [[land_register_id|2555]], Grundstück Nr. [[land_register_id|1044]]. Der Vermieterin steht an der Liegenschaft das Eigentum zu.
 
-(3) Ein Kellerabteil mit der Nummer 7 und ein Stellplatz im Hof sind Bestandteil des Mietvertrages.
+(3) Ein Kellerabteil mit der Nummer 7 und ein Stellplatz im Hof sind Bestandteil des Mietvertrages. Die Benützung des Gartenanteils ist den Mietern gestattet, sofern die übrigen Hausbewohner nicht beeinträchtigt werden. Gartenmöbel und Grillgeräte sind im Rahmen der Hausordnung zulässig.
 
 § 2 Mietdauer
 
@@ -49,11 +49,23 @@ Kunden-Nr. [[other_identifier|396389]]
 
 (2) Der Mietzins ist jeweils am Ersten eines Monats im Vorhinein auf das Konto der Vermieterin mit der IBAN [[bank_account|AT31 9130 5627 9292 6055]] zu überweisen.
 
-(3) Die Mieter haben eine Kaution in Höhe von drei Bruttomonatsmieten erlegt. Die Kaution wird auf einem gesonderten Sparbuch verwahrt.
+(3) Die Mieter haben eine Kaution in Höhe von drei Bruttomonatsmieten erlegt. Die Kaution wird auf einem gesonderten Sparbuch verwahrt. Die Kaution ist binnen eines Monats nach Übergabe der Schlüssel zurückzuzahlen, sofern keine Ansprüche der Vermieterin offen sind. Eine Verzinsung erfolgt nach den gesetzlichen Bestimmungen.
+
+§ 3a Betriebskostenabrechnung
+
+(1) Die Vermieterin rechnet die Betriebskosten jährlich bis zum 30. Juni des Folgejahres ab. Die Abrechnung für das Jahr 2025 wurde den Mietern am [[date|15. Mai 2026]] übermittelt. Ein allfälliges Guthaben wird mit dem nächsten Mietzins verrechnet.
+
+(2) Die Mieter sind berechtigt, in die Belege Einsicht zu nehmen. Die Einsicht ist binnen vier Wochen ab Zustellung der Abrechnung zu beantragen.
+
+§ 3b Wertsicherung
+
+(1) Der Mietzins wird jährlich mit dem von der [[organization|Statistik Austria]] veröffentlichten Verbraucherpreisindex angepasst. Eine Anpassung erfolgt nur, wenn sie den Mietern schriftlich mitgeteilt wurde.
+
+(2) Die erste Anpassung wird mit [[date|1. Jänner 2026]] wirksam. Die Mieter haben eine Anpassung innerhalb von drei Monaten ab Zugang der Mitteilung zu prüfen.
 
 § 4 Pflichten der Mieter
 
-Die Mieter verpflichten sich zur ordnungsgemäßen Benützung der Wohnung. Haustiere bedürfen der schriftlichen Zustimmung der Vermieterin. Bauliche Veränderungen sind nur nach vorheriger Zustimmung zulässig.
+Die Mieter verpflichten sich zur ordnungsgemäßen Benützung der Wohnung. Haustiere bedürfen der schriftlichen Zustimmung der Vermieterin. Bauliche Veränderungen sind nur nach vorheriger Zustimmung zulässig. Die Mieter sind verpflichtet, Schäden, die durch Feuchtigkeit oder Rohrbruch entstehen, unverzüglich der Vermieterin zu melden. Ein Verstoß gegen diese Anzeigepflicht begründet Schadenersatzansprüche.
 
 § 5 Schlussbestimmungen
 

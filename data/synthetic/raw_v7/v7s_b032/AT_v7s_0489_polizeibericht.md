@@ -76,13 +76,15 @@ Am PKW des Lenkers [[person|TIMO EGLE]] entstand Schaden an der linken vorderen 
 
 Die Beamtin RevInsp. [[person|Mirela Kohlbacher]] fertigte die Lichtbilder an. Der Beamte [[person|Hauser]] nahm die Angaben der Beteiligten auf und überprüfte die Fahrzeugpapiere des Lenkers [[person|TIMO EGLE]]. Die Papiere waren gültig.
 
-Die Alkoholvortestung bei beiden Lenkern verlief negativ. Ein Atemalkoholtest wurde nicht angeordnet.
+Die Alkoholvortestung bei beiden Lenkern verlief negativ. Ein Atemalkoholtest wurde nicht angeordnet. Die Lenker gaben an, zuletzt am Vortag Alkohol in geringer Menge konsumiert zu haben, was durch die Vortestung nicht bestätigt wurde.
 
 BEWEISERGEBNIS
 
-Nach den Angaben des Lenkers [[person|TIMO EGLE]] hatte der Transporter das Vorrecht zu beachten. Der Lenker [[person|Nicolaus Ing. Opitz]] gab an, er habe die Fahrbahn bereits frei gesehen. Der Sachverhalt konnte daher nicht abschließend geklärt werden. Die Zeugin [[person|Bernarde Hochsinger]] stützt die Darstellung, dass der Transporter zu früh losfuhr.
+Nach den Angaben des Lenkers [[person|TIMO EGLE]] hatte der Transporter das Vorrecht zu beachten. Der Lenker [[person|Nicolaus Ing. Opitz]] gab an, er habe die Fahrbahn bereits frei gesehen. Der Sachverhalt konnte daher nicht abschließend geklärt werden. Die Zeugin [[person|Bernarde Hochsinger]] stützt die Darstellung, dass der Transporter zu früh losfuhr. Ihre Angaben decken sich jedoch nicht mit der Aussage der Mitfahrerin [[person|Eleonora Tóthová]], die den Transporter nicht gesehen haben will. Der Lenker [[person|TIMO EGLE]] wurde deshalb nochmals befragt; er blieb bei seiner Darstellung.
 
-Die Versicherung wurde über die Polizze [[other_identifier|28-9900539]] informiert. Die Schadensmeldung unter [[other_identifier|37/209850/21]] wurde von [[person|TIMO EGLE]] am selben Tag aufgenommen.
+Beide Fahrzeuge wurden nach der Unfallaufnahme von einem Abschleppdienst vom Fahrbahnrand entfernt. Die Bergung des PKW des Lenkers [[person|TIMO EGLE]] erfolgte am [[date|14. Oktober 2025]] gegen 19:15 Uhr. Die Verkehrsbeeinträchtigung dauerte rund eine Stunde, eine Umleitung war nicht erforderlich.
+
+Die Versicherung wurde über die Polizze [[other_identifier|28-9900539]] informiert. Die Schadensmeldung unter [[other_identifier|37/209850/21]] wurde von [[person|TIMO EGLE]] am selben Tag aufgenommen. Der Lenker ist darüber belehrt worden, dass eine Verletzung der Auskunftspflicht gesondert zu ahnden ist. Die Lenkerin [[person|Dara Diken]] gab an, dass sie ihren Arbeitgeber vom Unfallort aus über die Verspätung informieren wolle. Die Mitfahrerin [[person|Eleonora Tóthová]] stimmte einer Weitergabe ihrer Kontaktdaten an die Versicherung zu.
 
 ANZEIGE
 
@@ -90,11 +92,13 @@ Gegen den Lenker [[person|Nicolaus Ing. Opitz]] wird wegen des Verdachts einer �
 
 Die Anzeige ergeht an die [[organization|Bezirkshauptmannschaft Perg]]. Ein Lenkerauskunftsersuchen wurde nicht gestellt, da alle Beteiligten vor Ort angegeben haben.
 
+Die Fotodokumentation der Einsatzbeamtin umfasst insgesamt zwölf Aufnahmen, die Brems- und Ausweichspuren sowie die Endlage der Fahrzeuge zeigen. Die Spuren wurden mit Maßband vermessen und in der Planskizze eingetragen. Die Skizze liegt dem Akt bei und ist Bestandteil dieser Anzeige. Eine Ausfertigung wird der Bezirkshauptmannschaft übersandt. Die Unterlagen sind vollständig.
+
 Die Verletzung der Vorrangregel wurde im Fall des Lenkers [[person|Nicolaus Ing. Opitz]] nach [[legal_norm|§ 19 Abs 3 StVO]] geprüft. Eine abschließende Bewertung war auf Grund der widersprüchlichen Aussagen nicht möglich. Die Anzeige wird daher vorläufig erstattet, und der Lenker wurde auf die Möglichkeit einer Stellungnahme binnen zwei Wochen hingewiesen.
 
-Die Lenkerin [[person|Dara Diken]] ersuchte um die Übermittlung des Unfallberichts an ihre Versicherung. Die Mitfahrerin [[person|Eleonora Tóthová]] wurde über die Möglichkeit informiert, ihre Verletzung ärztlich dokumentieren zu lassen. Die Zeugin [[person|Bernarde Hochsinger]] gab ihre Anschrift an und erklärte, für weitere Auskünfte zur Verfügung zu stehen.
+Die Lenkerin [[person|Dara Diken]] ersuchte um die Übermittlung des Unfallberichts an ihre Versicherung. Sie wies außerdem darauf hin, dass sie wegen der Verletzung ihrer Mitfahrerin keine Anzeige erstatten wolle, solange die ärztliche Untersuchung nicht abgeschlossen ist. Die Mitfahrerin [[person|Eleonora Tóthová]] wurde über die Möglichkeit informiert, ihre Verletzung ärztlich dokumentieren zu lassen. Die Zeugin [[person|Bernarde Hochsinger]] gab ihre Anschrift an und erklärte, für weitere Auskünfte zur Verfügung zu stehen.
 
-Waldneukirchen, am [[date|14. Oktober 2025]]
+[[location|Waldneukirchen]], am [[date|14. Oktober 2025]]
 
 Die Einsatzbeamtin:
 RevInsp. [[person|Mirela Kohlbacher]]

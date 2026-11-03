@@ -47,6 +47,8 @@ Vacková]], Geburtsdatum: [[date_of_birth|9. Oktober 1979]], wohnhaft in [[addre
 
 (3) Zahlungen erfolgen auf das Konto der Verkäuferin, IBAN [[bank_account|AT32 1482 5848 7170 1052]], Treuhandschaft Nr. [[other_identifier|2024/782]], sobald die Rangordnung im Grundbuch gesichert ist. Die Treuhandbuch-Nr. [[other_identifier|2023/643]] betrifft nur die Vorauszahlung und ist nicht Teil dieses Kaufs.
 
+(4) Die Verkäuferin erklärt, dass die Liegenschaften nicht an Dritte vermietet oder verpachtet sind und dass keine Bestandsrechte bestehen, die über den Übergabetag hinaus wirken. Den Lageplan, der diesem Vertrag beiliegt, haben die Käuferinnen übernommen.
+
 **4. Aufsandungserklärung**
 
 Die Verkäuferin erteilt hiermit die unwiderrufliche Aufsandungserklärung zugunsten der Käuferinnen je zu ½ Anteil und bewilligt die Einverleibung des Eigentumsrechtes. Die Käuferinnen nehmen diese Erklärung an. Die Kosten der Einverleibung tragen die Käuferinnen.

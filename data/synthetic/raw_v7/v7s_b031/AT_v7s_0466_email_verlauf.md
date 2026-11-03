@@ -24,7 +24,7 @@ Betreff: AW: Wasserschaden Ollersdorf, Zeichen [[other_identifier|174/20 MT]]
 
 Sehr geehrter Herr [[person|Kienesberger]]!
 
-Wir bestätigen den Eingang Ihres Schreibens vom [[date|2. September 2026]] betreffend den Wasserschaden in der Liegenschaft Ihres Mandanten in [[address|7533 Ollersdorf im Burgenland]]. Unsere Mandantin, die [[organization|Forsthuber Immobilien GmbH]] (im Folgenden „[[organization|FIG]]“), hat den Vorgang intern geprüft.
+Wir bestätigen den Eingang Ihres Schreibens vom [[date|2. September 2026]] betreffend den Wasserschaden in der Liegenschaft Ihres Mandanten in [[address|7533 Ollersdorf im Burgenland]]. Unsere Mandantin, die [[organization|Forsthuber Immobilien GmbH]], [[company_register_number|FN 581753w]], UID: [[tax_id|ATU56711311]] (im Folgenden „[[organization|FIG]]“), hat den Vorgang intern geprüft.
 
 Nach den vorliegenden Unterlagen wurde die Schadensursache nicht in der Sphäre der [[organization|FIG]] gesetzt. Die Leitung im Wirtschaftsgebäude der Nachbarliegenschaft war zum Zeitpunkt der Übergabe nach dem Protokoll vom [[date|14. Juni 2025]] in Ordnung. Wir lehnen daher eine Haftung der [[organization|FIG]] dem Grunde nach ab.
 
@@ -95,7 +95,7 @@ Sehr geehrter Herr [[person|Kienesberger]],
 
 die [[organization|FIG]] hat die gewünschten Wartungsprotokolle nicht vorliegen, weil das Wirtschaftsgebäude zwischen dem [[date|1. Juli 2025]] und dem [[date|31. Mai 2026]] an einen Dienstleister verpachtet war. Ein Wartungsvertrag wurde nicht abgeschlossen. Das Verschulden trifft die [[organization|Forsthuber]] daher nicht.
 
-Wir sind dennoch bereit, die Rechnung des Sachverständigen [[person|Rohrbacher]] zu prüfen, sofern sie im Original übermittelt wird. Eine Anerkennung über die Trocknungskosten behalten wir uns vor, bis die Muffe und das Schadensfoto vorliegen. Die Fotos aus dem Keller, die Sie angekündigt haben, erbitten wir mit dem jeweiligen Aufnahmedatum. Ein bloßer Ausdruck ohne Metadaten genügt uns nicht, wir benötigen die Originaldateien.
+Wir sind dennoch bereit, die Rechnung des Sachverständigen [[person|Rohrbacher]] zu prüfen, sofern sie im Original übermittelt wird. Sollte die Forderung anerkannt werden, ist die Zahlung auf das Konto IBAN [[bank_account|AT87 0823 7034 5923 5981]] der [[organization|FIG]] zu leisten. Für den Fall eines Rechtsstreits halten wir das [[court|BG Mödling]] nicht für zuständig, weil die Liegenschaft der FIG nicht in seinem Sprengel liegt. Eine Anerkennung über die Trocknungskosten behalten wir uns vor, bis die Muffe und das Schadensfoto vorliegen. Die Fotos aus dem Keller, die Sie angekündigt haben, erbitten wir mit dem jeweiligen Aufnahmedatum. Ein bloßer Ausdruck ohne Metadaten genügt uns nicht, wir benötigen die Originaldateien.
 
 Mit freundlichen Grüßen
 

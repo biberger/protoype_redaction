@@ -48,6 +48,16 @@ Der reine Nachlass beträgt nach Abzug der Passiva rund EUR 135.000,00. Davon en
 
 Der Verlassenschaftskommissär hat die Erbin [[person|Ghorbani]] darauf hingewiesen, dass Pflichtteilsberechtigte nach den Angaben des Erblassers nicht vorhanden sind. Die Erbin bestätigte diese Angaben. Die Vernehmung wurde mit [[person|Thurnher]] am [[date|16.04.2026]] fortgesetzt; er gab an, [[person|Rado]] habe ihm gegenüber mehrfach die Absicht geäußert, die Liegenschaft zu veräußern.
 
+Ergänzend ist festzuhalten, dass der Erblasser zu Lebzeiten eine Kfz-Haftpflicht- und Hausratversicherung unterhielt. Die Versicherungsgesellschaften wurden von der Verlassenschaft verständigt; Auszahlungen aus diesen Verträgen sind noch nicht erfolgt. Nach den Angaben von [[person|Thurnher]] hat der Erblasser auch ein Konto bei einer Bank in [[location|Krems]] besessen, dessen Saldo bis zur Abschlussrechnung zu erheben ist.
+
+Der Verlassenschaftskommissär hat ferner das Inventar der beweglichen Sachen aufgenommen. Hausrat, Werkzeug und ein Personenkraftwagen wurden geschätzt; der Gesamtwert des beweglichen Nachlasses wurde mit EUR 6.300,00 angegeben. Der Pkw wurde nach Einvernahme der Erben dem Vermächtnisnehmer [[person|Meran]] überlassen, der die Übernahme schriftlich bestätigt hat. Das Vermächtnis wird dadurch nicht erhöht, sondern lediglich in Sachwerten abgegolten.
+
+Die Erbantrittserklärung der Erbin [[person|Ghorbani]] enthält den Hinweis auf den Vorbehalt der Inventarerrichtung. Die Erbin hat die Frist zur bedingten Erbantrittserklärung eingehalten. [[person|Thurnher]] hat die unbedingte Erbantrittserklärung am [[date|08.04.2026]] abgegeben, nachdem die Schuldenlage geklärt war.
+
+Die Gerichtskosten für die Einantwortung sind nach dem Gebührengesetz zu berechnen; die Bemessungsgrundlage ist der reine Nachlass. Die Gebühr wird von der Verlassenschaft getragen und vorab aus dem Girokonto beglichen.
+
+Die Grunderwerbsteuer für den Übergang der Liegenschaft ist nach der Einantwortung durch die Erben zu entrichten. Die Steuererklärung ist binnen der gesetzlichen Frist beim Finanzamt einzureichen; die Erben wurden darauf hingewiesen, dass die Befreiung für Erwerbe von Todes wegen nur unter bestimmten Voraussetzungen gilt.
+
 VI. Hinweise
 
 Der Erbe und die Erbin wurden über die Möglichkeit der Erbantrittserklärung und die Frist zur Ausschlagung belehrt. Die Erbantrittserklärung [[person|Ghorbani]] vom [[date|27.03.2026]] ist wirksam. Rückfragen zum Abhandlungsverfahren richten Sie bitte an Tel. [[phone_number|05572/9471937 Kl. 27]].

@@ -54,6 +54,10 @@ Zeuge 3: [[person|Horatio Hertel]], Geburtsdatum: [[date_of_birth|12. Februar 19
 
 Der Zeuge [[person|Reinhardt]] hat die Arbeiten persönlich überwacht. [[person|Malakzay]] war Bauleiterin der [[organization|Klinger GmbH]] und kann zu den Abdichtungsarbeiten aussagen. [[person|Hertel]] hat die Feuchtigkeit am [[date|21. Mai 2025]] als Erster festgestellt.
 
+Die Sachverständige [[person|Ilse Hartl]] hat die Fassade am [[date|18. Juni 2025]] besichtigt und in ihrem Gutachten festgestellt, dass die Anschlüsse der Dachrinnen nicht dicht ausgeführt wurden. Die Gutachterkosten von EUR 1.850,00 hat der Kläger bereits bezahlt. Die Sachverständige hat die Feuchtemessungen an drei Stellen durchgeführt und die Ergebnisse mit Fotos dokumentiert.
+
+Die Beklagte hat im Gutachtensverfahren keine eigene Stellungnahme abgegeben. Sie hat lediglich vorgebracht, dass der Kläger die Fassade nach Abschluss der Arbeiten selbst bearbeitet habe. Diese Behauptung wird bestritten; der Kläger hat die Fassade seit der Übergabe nicht verändert.
+
 III. Rechtliche Beurteilung
 
 Die Beklagte haftet für die mangelhafte Erfüllung des Werkvertrages nach [[legal_norm|§ 1167 ABGB]] und nach [[legal_norm|§ 1168 ABGB]]. Die [[organization|Klinger GmbH]] hat den Mangel zu vertreten, weil die Abdichtung nicht dem Stand der Technik entspricht. Die Gewährleistungsfrist von drei Jahren ist gewahrt, weil der Mangel innerhalb der Frist gerügt wurde.

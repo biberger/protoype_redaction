@@ -32,6 +32,8 @@ Die Kammeranwältin hat die Anzeige am [[date|18. Oktober 2025]] eingebracht. De
 
 Die Kanzlei des Beschuldigten ist dem Vernehmen nach in [[location|St. Veit an der Glan]] angesiedelt. Die zuständige Kammer ist die [[organization|TRAK]], die die Anzeige an den Disziplinarrat weitergeleitet hat.
 
+Die Kammeranwältin hat in der Verhandlung darauf hingewiesen, dass die Kammer den Beschuldigten bereits im Jahr 2024 zu einer Belehrung über die Führung von Treuhandbüchern aufgefordert hatte. Das Schreiben der Kammer blieb nach Aktenlage unbeantwortet, bis die Anzeige erstattet wurde.
+
 **II. Feststellungen**
 
 1. Am [[date|3. März 2025]] wurde auf das Treuhandkonto ein Betrag von EUR 4.100,00 für die Klientin [[person|Ottilie Gruber]] eingezahlt. Die Zahlung ist unter TH-Nr. [[other_identifier|2024/790]] im Treuhandbuch erfasst.
@@ -53,6 +55,8 @@ Der Senat hat die Aussagen der Zeugen angehört und ist von deren Glaubwürdigke
 **IV. Rechtliche Beurteilung**
 
 Der Beschuldigte hat gegen die Pflicht zur getrennten Verwahrung von Treuhandgelden nach [[legal_norm|§ 43a Abs 3 RAO]] verstoßen. Die verspätete Abrechnung und das fehlende Treuhandbuch sind zusätzlich zu werten. Eine Einstellung nach [[legal_norm|§ 1 RAO]] kommt wegen der Schwere des Eingriffs nicht in Betracht.
+
+Der Senat hat ferner berücksichtigt, dass der Beschuldigte keine weiteren Klienten betroffen hat und die Zusammenarbeit mit der Kammer in der Verhandlung sachlich war.
 
 **V. Strafbemessung**
 

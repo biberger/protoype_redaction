@@ -35,16 +35,16 @@ Die [[organization|Rechtsanwaltskammer Wien]] (im Folgenden: [[organization|RAK 
 
 Der Beschuldigte hatte das Mandat im Zusammenhang mit einer Schadenersatzforderung übernommen. Die Treuhandschaft wurde unter Treuhandschaft Nr. [[other_identifier|2022/305]] geführt. Das Treuhandkonto lautete auf IBAN [[bank_account|AT13 4199 7192 6779 0565]].
 
-Die [[organization|RAK Wien]] ersuchte den Beschuldigten mehrfach um Stellungnahme. Erst nach einer weiteren Aufforderung der [[organization|RAK Wien]] legte der Beschuldigte eine Abrechnung vor, die jedoch Lücken aufwies.
+Die [[organization|RAK Wien]] ersuchte den Beschuldigten mehrfach um Stellungnahme. Die Schreiben der [[organization|RAK Wien]] wurden an die Kanzleiadresse gesandt und vom Beschuldigten persönlich entgegengenommen. Erst nach einer weiteren Aufforderung der [[organization|RAK Wien]] legte der Beschuldigte eine Abrechnung vor, die jedoch Lücken aufwies.
 
 II. Verhandlung
 
-Der Beschuldigte war in der Verhandlung anwesend und wurde von seinem Vertreter unterstützt. Er gab zu, die Abrechnung verspätet erstellt zu haben, bestritt aber, dass ihm die Gelder endgültig gefehlt hätten. Der Kammeranwalt [[person|MMag. Kornelek Harasimowicz]] legte die Kontoauszüge vor, aus denen die Bewegungen ersichtlich sind.
+Der Beschuldigte war in der Verhandlung anwesend und wurde von seinem Vertreter unterstützt. Er gab zu, die Abrechnung verspätet erstellt zu haben, bestritt aber, dass ihm die Gelder endgültig gefehlt hätten. Der Kammeranwalt [[person|MMag. Kornelek Harasimowicz]] legte die Kontoauszüge vor, aus denen die Bewegungen ersichtlich sind. Die Auszüge wurden vom Beschuldigten nicht bestritten, wohl aber die Deutung der Barbehebungen.
 
 Die Bewegungen auf dem Treuhandkonto stellen sich nach den vorgelegten Unterlagen wie folgt dar:
 
 Datum            Vorgang                                          Betrag EUR    Saldo EUR
-[[date|05.02.2025]]      Zahlungseingang Klient Pichler                   6.200,00      6.200,00
+[[date|05.02.2025]]      Zahlungseingang Klient [[person|Pichler]]                   6.200,00      6.200,00
 [[date|19.02.2025]]      Zahlung an Sachverständigen                      1.100,00      5.100,00
 [[date|04.04.2025]]      Überweisung auf Geschäftskonto der Kanzlei       2.500,00      2.600,00
 [[date|22.05.2025]]      Auszahlung in bar, kein Beleg                    1.000,00      1.600,00
@@ -52,9 +52,13 @@ Datum            Vorgang                                          Betrag EUR    
 
 Aus der Tabelle ergibt sich, dass der Saldo zeitweise unter den Betrag fiel, den der Beschuldigte für den Klienten hätte verwahren müssen. Der Senat hält die Angaben des Beschuldigten zu den Barbehebungen für nicht glaubhaft.
 
-Die zweite Treuhandschaft, Treuhandbuch-Nr. [[other_identifier|2022/834]], betraf eine andere Angelegenheit des Beschuldigten. Dazu wurde ein Auszug der Kanzleiunterlagen vorgelegt. Eine Verwendung von Geldern aus dieser Angelegenheit wurde dem Beschuldigten nicht vorgeworfen. Die Treuhandschaft Nr. [[other_identifier|2018/555]] war abgeschlossen und ist für das Verfahren ohne Bedeutung.
+Die zweite Treuhandschaft, Treuhandbuch-Nr. [[other_identifier|2022/834]], betraf eine andere Angelegenheit des Beschuldigten. Dazu wurde ein Auszug der Kanzleiunterlagen vorgelegt. Eine Verwendung von Geldern aus dieser Angelegenheit wurde dem Beschuldigten nicht vorgeworfen. Die Treuhandschaft Nr. [[other_identifier|2018/555]] war abgeschlossen und ist für das Verfahren ohne Bedeutung. Die Abrechnung dieser Treuhandschaft erfolgte im Jahr 2019 vollständig und ohne Beanstandung. Eine Haftung für diese Angelegenheit war nicht Gegenstand des Verfahrens.
 
-Die Klientin [[person|Ingeborg Lechner]] wurde in der Verhandlung als Auskunftsperson gehört, sie hatte mit dem Beschuldigten keine Treuhandschaft, war aber über die Kanzleiabläufe informiert.
+Die Klientin [[person|Ingeborg Lechner]] wurde in der Verhandlung als Auskunftsperson gehört, sie hatte mit dem Beschuldigten keine Treuhandschaft, war aber über die Kanzleiabläufe informiert. Ihre Angaben betrafen vor allem die Frage, wann der Beschuldigte erstmals auf die Anfragen der Klientschaft reagiert hat. Sie gab an, dass sie mehrere Telefonate mit der Kanzlei geführt habe, die jeweils mit dem Hinweis beendet worden seien, die Abrechnung werde in Kürze übersandt.
+
+Der Kammeranwalt legte zudem eine Aufstellung der Honorarnoten vor, aus der sich ergibt, dass der Beschuldigte für die Treuhandschaft ein Honorar von EUR 2.400,00 vereinnahmt hat, bevor die Abrechnung erstellt war. Der Beschuldigte bestritt dies nicht, meinte jedoch, das Honorar sei mit dem Klienten vereinbart gewesen. Eine schriftliche Honorarvereinbarung konnte er nicht vorlegen. Der Senat sieht darin einen weiteren Verstoß gegen die Pflicht, Fremdgelder nicht ohne Abrechnung für eigene Zwecke zu verwenden. Ob die Honorarforderung berechtigt war, war nicht Gegenstand der Anzeige, weil die [[organization|RAK Wien]] dies ausdrücklich ausgenommen hat.
+
+Der Beschuldigte äußerte in der Verhandlung Bedauern über die Verzögerung. Er verwies auf eine schwierige persönliche Situation im Frühjahr 2025 und auf den Umstand, dass er inzwischen eine Kanzleiorganisation mit einer zweiten Person aufgebaut habe, die für Abrechnungen zuständig sei. Der Senat hat diese Angaben zur Kenntnis genommen, sie aber nicht als Milderungsgrund von erheblichem Gewicht gewertet. Im Hinblick auf die Ersatzfreiheitsstrafe ist darauf hinzuweisen, dass der Beschuldigte die Geldbuße innerhalb der gesetzten Frist vollständig zu entrichten hat. Eine Ratenzahlung wurde nicht bewilligt, weil der Beschuldigte keine Einkommensnachweise vorgelegt hat. Die Vollstreckung richtet sich nach den allgemeinen Vorschriften.
 
 III. Rechtliche Beurteilung
 
@@ -64,13 +68,13 @@ Der Senat geht vom Vorsatz des Beschuldigten aus, weil er die Bewegungen nach se
 
 Die Strafbemessung richtet sich nach [[legal_norm|§ 34 Abs 1 Z 3 RAO]]. Der Beschuldigte ist bisher nicht disziplinarrechtlich aufgefallen; dies wurde mildernd berücksichtigt. Erschwerend wirkte die Dauer der Pflichtwidrigkeit.
 
-Der Senat hat die Entscheidung einstimmig getroffen. Die Beisitzer haben der Begründung zugestimmt.
+Der Senat hat die Entscheidung einstimmig getroffen. Die Beisitzer haben der Begründung zugestimmt. Die Stellungnahme des Kammeranwalts vom [[date|2. März 2026]] wurde im Rahmen der Beweiswürdigung berücksichtigt, soweit sie sich auf die Kontobewegungen bezog. Im Übrigen wird auf die Begründung verwiesen.
 
 Rechtsmittelbelehrung
 
 Gegen diesen Beschluss kann der Beschuldigte binnen vier Wochen nach Zustellung Berufung erheben.
 
-Wien, am [[date|18. Juni 2026]]
+[[location|Wien]], am [[date|18. Juni 2026]]
 
 Der Vorsitzende:
 [[judge|Gustl Diem]]

@@ -104,7 +104,8 @@ IX. BESICHTIGUNG UND ÜBERGABE
 
 1. Die Käufer haben die Liegenschaften am [[date|2. Mai 2026]] gemeinsam mit den Verkäufern besichtigt. Das Wohnhaus auf der Liegenschaft 1 wurde im Jahr 1978 errichtet und zuletzt im Jahr 2009 an die Heizungsanlage angeschlossen. Die Dachgeschoßausbauten sind nicht genehmigt, sie werden nicht als Vertragsbestandteil angesehen.
 2. Der Garten auf der Liegenschaft 3 ist mit einem Gerätehaus bebaut, dessen Baubewilligung die Verkäufer nicht vorlegen konnten. Die Käufer übernehmen das Gerätehaus in dem Zustand, in dem es sich befindet.
-3. Die Übergabe der Schlüssel erfolgt in der Kanzlei. Ein Übergabeprotokoll mit Zählerständen für Strom, Gas und Wasser wird von beiden Parteien unterfertigt.
+3a. Die Verkäufer haben den Käufern eine Aufstellung der Versorgungsverträge übergeben. Der Stromliefervertrag für die Liegenschaft 1 lautet auf den Verkäufer [[person|Kittinger]]; die Ummeldung auf die Käuferin ist binnen vier Wochen nach der Übergabe vorzunehmen. Die Wasserleitung der Liegenschaft 2 ist an die Ortswasserleitung angeschlossen, die Abwassergebühr wird jährlich vorgeschrieben.
+4. Die Übergabe der Schlüssel erfolgt in der Kanzlei. Ein Übergabeprotokoll mit Zählerständen für Strom, Gas und Wasser wird von beiden Parteien unterfertigt.
 
 
 X. LASTENFREISTELLUNG UND PFANDRECHTE
@@ -112,6 +113,14 @@ X. LASTENFREISTELLUNG UND PFANDRECHTE
 1. Die Verkäufer verpflichten sich, bestehende Pfandrechte auf den Liegenschaften bis zur Fälligkeit des Kaufpreises löschen zu lassen. Die Kanzlei holt hierzu die Löschungserklärungen der Pfandgläubiger ein.
 2. Die Liegenschaft 1 ist derzeit mit einem Pfandrecht zugunsten der [[organization|Raiffeisenbank Zwettl registrierte Genossenschaft mit beschränkter Haftung]] belastet. Die Löschung wird aus dem Kaufpreis bezahlt, sofern der Betrag nicht bereits auf dem Treuhandkonto erliegt.
 3. Ein Vorkaufsrecht zugunsten Dritter besteht nach dem Grundbuchstand nicht. Die Verkäufer erklären, dass keine Mietrechte Dritter eingetragen sind.
+
+XIa. ERKLÄRUNGEN DER VERTRAGSPARTEIEN
+
+1. Der Verkäufer [[person|Kittinger]] erklärt, dass er seit dem Erwerb der Liegenschaft 1 keine Umbauten an der Heizungsanlage vorgenommen hat, die einer Genehmigung bedurft hätten.
+2. Die Verkäuferin [[person|Gregor]] erklärt, dass die Liegenschaft 3 seit dem Jahr 2011 nicht vermietet war. Ein Bestandvertrag, aus dem Rechte Dritter abgeleitet werden könnten, besteht nicht.
+3. Die Käuferin [[person|Jukić]] erklärt, dass sie die Liegenschaften nach dem Erwerb als Hauptwohnsitz nutzen wird. Die Käuferin [[person|Sakan]] erklärt, dass sie bei der Eintragung als Miteigentümerin neben [[person|Jukić]] die gleichen Anteile erwirbt.
+4. Alle Vertragsparteien erklären, dass sie nicht unter Sachwalterschaft stehen und dass keine Insolvenzverfahren gegen sie anhängig sind. Die Kanzlei hat die Identität der Parteien anhand der Ausweise geprüft und Kopien zum Akt genommen.
+5. Die Vertragsparteien nehmen zur Kenntnis, dass Angaben über den Kaufpreis dem Finanzamt im Rahmen der Grunderwerbsteuererklärung zu übermitteln sind.
 
 XI. VOLLMACHT UND BELEHRUNG
 
