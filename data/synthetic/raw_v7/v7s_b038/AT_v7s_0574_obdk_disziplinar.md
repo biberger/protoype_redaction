@@ -10,7 +10,7 @@ Ihr Zeichen: [[other_identifier|PRB/Pembaur/3223]]
 
 IM NAMEN DER REPUBLIK
 
-Der Disziplinarrat der Rechtsanwaltskammer Wien hat durch seinen Vorsitzenden [[person|Dr. Adelheid Roszkowska]], *[[date_of_birth|5. Jänner 1983]], sowie die Mitglieder [[person|Henna Mauer]] und [[person|Dr. Justina Mikula]] in Anwesenheit des Kammeranwalts [[person|Dr. Leo Wührer]] und des Schriftführers [[person|Xaver Borchashvili]] über die Disziplinaranzeige gegen die Rechtsanwältin [[person|Neeske Pembaur]], StA. [[country|Bosnien und Herzegowina]], nach mündlicher Verhandlung am [[date|25. September 2026]] erkannt:
+Der [[court|Disziplinarrat der Rechtsanwaltskammer Wien]] hat durch seinen Vorsitzenden [[person|Dr. Adelheid Roszkowska]], *[[date_of_birth|5. Jänner 1983]], sowie die Mitglieder [[person|Henna Mauer]] und [[person|Dr. Justina Mikula]] in Anwesenheit des Kammeranwalts [[person|Dr. Leo Wührer]] und des Schriftführers [[person|Xaver Borchashvili]] über die Disziplinaranzeige gegen die Rechtsanwältin [[person|Neeske Pembaur]], StA. [[country|Bosnien und Herzegowina]], nach mündlicher Verhandlung am [[date|25. September 2026]] erkannt:
 
 Spruch
 

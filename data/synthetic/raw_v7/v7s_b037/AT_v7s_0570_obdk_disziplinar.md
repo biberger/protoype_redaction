@@ -49,7 +49,7 @@ Die Beschuldigte führte für ihre Kanzlei ein Treuhandkonto, das im Treuhandbuc
 [[date|19.03.2025]] Einzahlung [[organization|Nordbahn]], EUR 900,00, Treuhand-Nr. [[other_identifier|TB 24/0188]]
 [[date|27.08.2025]] Auszahlung an [[person|Pöltl]], EUR 4.000,00, Treuhand-Nr. [[other_identifier|TB 24/0031]]
 
-Die [[organization|Nordbahn Immobilien GmbH]] ist unter [[company_register_number|FN 402971m]] im Firmenbuch eingetragen. Die Gesellschaft hatte die Beschuldigte mit der Vertretung in einem Mietrechtsstreit beauftragt. Die Zahlung vom [[date|19.03.2025]] wurde der Gesellschaft nicht gutgeschrieben, obwohl sie im Treuhandbuch eingetragen war.
+Die [[organization|Nordbahn Immobilien GmbH]] ist unter [[company_register_number|FN 147280p]] im Firmenbuch eingetragen. Die Gesellschaft hatte die Beschuldigte mit der Vertretung in einem Mietrechtsstreit beauftragt. Die Zahlung vom [[date|19.03.2025]] wurde der Gesellschaft nicht gutgeschrieben, obwohl sie im Treuhandbuch eingetragen war.
 
 Der Disziplinarrat stellte fest, dass die Auszahlung vom [[date|02.12.2024]] keinem Klienten zugeordnet werden konnte. Die Beschuldigte erklärte, dass es sich um eine Gebührenvorauszahlung an ein Gericht gehandelt habe; eine Zahlungsbestätigung liegt nicht vor.
 

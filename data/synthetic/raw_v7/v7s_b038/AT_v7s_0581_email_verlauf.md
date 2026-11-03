@@ -6,18 +6,18 @@ lang: de
 Von: [[person|Leonard Toussaint]] <[[email|l.toussaint@raffeiner-handel.at]]>
 Gesendet: Montag, [[date|5. Oktober 2026]], 09:12
 An: [[person|Fester Baron]] <[[email|f.baron@bormann.at]]>
-Betreff: Bauer ./. Auner, Lieferung Kühlgeräte
+Betreff: [[other_identifier|Bauer ./. Auner]], Lieferung Kühlgeräte
 
 Sehr geehrter Herr [[person|Baron]],
 
-in der Angelegenheit der Lieferung vom [[date|3. August 2026]] ersuche ich um Rückmeldung zum Stand der Reklamation. Die Raffeiner Handels GmbH hat die Ware am [[date|6. August 2026]] an die Kundin übergeben, die Rechnung ist seit dem [[date|20. September 2026]] fällig. Die [[organization|Raffeiner Handels]] wartet nun auf die Zahlung der offenen Summe von EUR 8.640,00.
+in der Angelegenheit der Lieferung vom [[date|3. August 2026]] ersuche ich um Rückmeldung zum Stand der Reklamation. Die [[organization|Raffeiner Handels GmbH]] hat die Ware am [[date|6. August 2026]] an die Kundin übergeben, die Rechnung ist seit dem [[date|20. September 2026]] fällig. Die [[organization|Raffeiner Handels]] wartet nun auf die Zahlung der offenen Summe von EUR 8.640,00.
 
 Ich bitte Sie, die Anwältin der Gegenseite, Frau [[person|Feistritzer]], um eine Stellungnahme zu ersuchen. Der Lieferschein vom [[date|6. August 2026]] trägt die Unterschrift der Kundin, die Ware wurde also ohne sichtbare Beanstandung übernommen. Das Kühlaggregat war zu diesem Zeitpunkt nach unseren Unterlagen funktionsfähig.
 
 Mit freundlichen Grüßen
 
 [[person|Leonard Toussaint]]
-Geschäftsführer, Raffeiner Handels GmbH
+Geschäftsführer, [[organization|Raffeiner Handels GmbH]]
 
 ---
 

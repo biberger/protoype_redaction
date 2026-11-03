@@ -38,7 +38,7 @@ Zwischensumme netto: EUR 1.929,20
 USt 20 %: EUR 385,84
 Gesamtbetrag brutto: EUR 2.315,04
 
-Zahlbar binnen 14 Tagen ab Rechnungsdatum. Für eine allfällige Gutschrift nennen wir die Bankverbindung der Gesellschaft: IBAN [[bank_account|AT66 6718 9461 3499 5057]].
+Zahlbar binnen 14 Tagen ab Rechnungsdatum, ohne Abzug. Für eine allfällige Gutschrift nennen wir die Bankverbindung der Gesellschaft: IBAN [[bank_account|AT66 6718 9461 3499 5057]].
 
 Auslagen für Grundbuchsauszüge und Gerichtsgebühren sind in den Positionen nicht enthalten und werden gesondert nach Beleg weiterverrechnet. Für die Leistungen gilt der Tarif der Rechtsanwälte; eine Pauschalvereinbarung für die Liegenschaftsübertragung liegt nicht vor. [[person|Klostermann]] hat der Gesamtabrechnung am [[date|18.04.2026]] telefonisch zugestimmt, die Zustimmung wurde im Akt vermerkt.
 

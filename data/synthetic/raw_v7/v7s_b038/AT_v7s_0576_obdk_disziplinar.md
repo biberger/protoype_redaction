@@ -6,11 +6,11 @@ lang: de
 [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]]
 Zl. [[case_number|E 4/2026]]
 
-Zustellung an den Kammeranwalt, an den Beschuldigten und an den Disziplinarrat der Rechtsanwaltskammer Steiermark
+Zustellung an den Kammeranwalt, an den Beschuldigten und an den Disziplinarrat der [[organization|Rechtsanwaltskammer Steiermark]]
 
 IM NAMEN DER REPUBLIK
 
-Die Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter hat durch die Senatsvorsitzende [[person|Setareh Mourad]], die Mitglieder [[person|Mag. Rosana Kirschner]] und [[person|Dr. Cecylek Walendziak]] sowie in Anwesenheit des Kammeranwalts [[person|Ekkehard Staud]] und der Schriftführerin [[person|Josefa Kreuzer]], geb. [[date_of_birth|1942-06-02]], über die Berufung des Rechtsanwalts [[person|Fabrizio Marchesi]] gegen das Erkenntnis des Disziplinarrats vom [[date|15. Mai 2026]] nach mündlicher Verhandlung am [[date|27. Oktober 2026]] erkannt:
+Die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] hat durch die Senatsvorsitzende [[person|Setareh Mourad]], die Mitglieder [[person|Mag. Rosana Kirschner]] und [[person|Dr. Cecylek Walendziak]] sowie in Anwesenheit des Kammeranwalts [[person|Ekkehard Staud]] und der Schriftführerin [[person|Josefa Kreuzer]], geb. [[date_of_birth|1942-06-02]], über die Berufung des Rechtsanwalts [[person|Fabrizio Marchesi]] gegen das Erkenntnis des Disziplinarrats vom [[date|15. Mai 2026]] nach mündlicher Verhandlung am [[date|27. Oktober 2026]] erkannt:
 
 Spruch
 
@@ -45,12 +45,12 @@ Der Kammeranwalt legte eine Stellungnahme vor, die sich auf die Kontoauszüge st
 Der Senat hat die Buchungen des Treuhandbuchs für die Jahre 2024 und 2025 tabellarisch ausgewertet. Die Auswertung ergibt folgendes Bild (Beträge in EUR, Saldo jeweils nach der Buchung):
 
 Datum | Klient | Vorgang | Betrag | Saldo
-[[date|08.01.2024]] | Fasching | Einzahlung Vergleichsbetrag | 14.200,00 | 14.200,00
-[[date|19.02.2024]] | Fasching | Auszahlung an Klientin | 11.900,00 | 2.300,00
-[[date|04.03.2024]] | Dorfmeister | Auszahlung Sachverständiger | 2.250,00 | -1.350,00
-[[date|30.04.2024]] | Dorfmeister | Einzahlung des Klienten | 2.250,00 | 900,00
+[[date|08.01.2024]] | [[person|Fasching]] | Einzahlung Vergleichsbetrag | 14.200,00 | 14.200,00
+[[date|19.02.2024]] | [[person|Fasching]] | Auszahlung an Klientin | 11.900,00 | 2.300,00
+[[date|04.03.2024]] | [[person|Dorfmeister]] | Auszahlung Sachverständiger | 2.250,00 | -1.350,00
+[[date|30.04.2024]] | [[person|Dorfmeister]] | Einzahlung des Klienten | 2.250,00 | 900,00
 [[date|14.10.2025]] | Honorarkonto | Umbuchung vom Treuhandkonto | 5.000,00 | 0,00
-[[date|21.11.2025]] | Dorfmeister | Auszahlung ohne Deckung | 1.800,00 | -1.800,00
+[[date|21.11.2025]] | [[person|Dorfmeister]] | Auszahlung ohne Deckung | 1.800,00 | -1.800,00
 
 Ein drittes Mandat betraf die Klientin [[person|Walburga Hiebler]], für die am [[date|2. Juli 2024]] ein Betrag von EUR 3.000,00 eingegangen ist. Die Abrechnung wurde ihr erst am [[date|15. Jänner 2026]] übermittelt, nachdem die Klientin mehrfach um Auskunft ersucht hatte. Die Abrechnung wies einen Saldo aus, der mit den Bankbewegungen nicht übereinstimmte. Der Beschuldigte hat dazu erklärt, die Differenz beruhe auf einer Gebühr für die Kopien der Akten, für die aber keine Honorarnote vorlag.
 

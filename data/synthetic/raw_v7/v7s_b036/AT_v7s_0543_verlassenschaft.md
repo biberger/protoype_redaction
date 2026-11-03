@@ -60,7 +60,7 @@ Die Grunderwerbsteuer für den Übergang der Liegenschaft ist nach der Einantwor
 
 Zum Verfahrensablauf ist festzuhalten: Die Todesfallaufnahme erfolgte am [[date|09.02.2026]] durch das Gericht, die Vorlage des Testaments wurde am [[date|11.02.2026]] protokolliert. Die Verständigung der bekannten Gläubiger erfolgte mit Schreiben vom [[date|02.03.2026]]; die Frist zur Anmeldung von Forderungen lief bis [[date|30.03.2026]]. Innerhalb dieser Frist meldete nur [[person|Wiesenthal]] eine Forderung an. Weitere Gläubiger sind dem Verfahren nicht bekannt geworden.
 
-Die Erben wurden über die Möglichkeit informiert, den Nachlass durch ein Nachlassinventar abzugrenzen. Sie haben davon Gebrauch gemacht, sodass die Haftung auf den Nachlass beschränkt bleibt. Die Vernehmung der Erben fand jeweils getrennt statt; beide Erben haben die Angaben zu Vermögen und Verbindlichkeiten bestätigt.
+Die Erben wurden über die Möglichkeit informiert, den Nachlass durch ein Nachlassinventar abzugrenzen. Sie haben davon Gebrauch gemacht, sodass die Haftung auf den Nachlass beschränkt bleibt. Die Vernehmung der Erben fand jeweils getrennt statt; beide Erben haben die Angaben zu Vermögen und Verbindlichkeiten bestätigt. Die Urkunden des Erblassers, insbesondere der Mietvertrag für die Wohnung in [[location|Krieglach]] und die Versicherungsbedingungen, wurden in Abschrift zum Akt genommen und nach Abschluss des Verfahrens an die Erben zurückgestellt.
 
 VI. Hinweise
 

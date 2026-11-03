@@ -11,7 +11,7 @@ Tel. [[phone_number|+43-732-7827677-2]]
 
 IM NAMEN DER REPUBLIK
 
-Der Disziplinarrat der Rechtsanwaltskammer für Kärnten hat in der Besetzung:
+Der [[court|Disziplinarrat der Rechtsanwaltskammer für Kärnten]] hat in der Besetzung:
 
 Vorsitz: [[person|Dr. Alfredo Kogon]]
 Beisitzerinnen: [[person|Olympia Simítis]], [[person|MMag. Lucia Welte]] geb [[date_of_birth|1975-10-10]]

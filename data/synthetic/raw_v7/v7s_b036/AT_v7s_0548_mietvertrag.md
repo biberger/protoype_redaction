@@ -81,7 +81,7 @@ IX. Datenschutz und Vollmachten
 
 Die personenbezogenen Daten des Mieters werden von der [[organization|Lux]] ausschließlich zur Vertragsabwicklung und zur Erfüllung der gesetzlichen Pflichten verarbeitet. Der Mieter erteilt seine Zustimmung zur Übermittlung der Daten an die Hausverwaltung und an die Bank, soweit dies für die Zahlung der Miete erforderlich ist.
 
-Der Mieter bevollmächtigt die Vermieterin nicht, Erklärungen für ihn abzugeben. Vollmachten für die Hausverwaltung sind gesondert zu erteilen und jederzeit widerruflich.
+Der Mieter bevollmächtigt die Vermieterin nicht, Erklärungen für ihn abzugeben. Die Vermieterin ist verpflichtet, dem Mieter auf Verlangen die Namen und Anschriften der mit der Verwaltung betrauten Personen mitzuteilen. Die Vertretung der [[organization|Lux]] durch die Geschäftsführerin [[person|Natalie Stössel]] ist im Firmenbuch eingetragen. Vollmachten für die Hausverwaltung sind gesondert zu erteilen und jederzeit widerruflich.
 
 X. Schlussbestimmungen
 

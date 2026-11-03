@@ -52,7 +52,7 @@ Die Verkäufer bestätigen, dass die Liegenschaft nicht Gegenstand eines Verwalt
 
 V. Treuhandabwicklung und Lastenfreistellung
 
-1. Die Kanzlei übernimmt die Abwicklung des Kaufs als Treuhänderin beider Vertragsparteien. Sie ist verpflichtet, den Kaufpreis erst nach Vorliegen der Lastenfreistellung für die Liegenschaften an die Verkäufer auszuzahlen.
+1. Die Kanzlei übernimmt die Abwicklung des Kaufs als Treuhänderin beider Vertragsparteien. Sie hat die Parteien über die Folgen der Treuhandabwicklung belehrt und darauf hingewiesen, dass die Kanzlei keine Rechtsberatung zu steuerlichen Fragen der Verkäufer übernimmt. Sie ist verpflichtet, den Kaufpreis erst nach Vorliegen der Lastenfreistellung für die Liegenschaften an die Verkäufer auszuzahlen.
 
 2. Die Verkäufer verpflichten sich, bis zur Einzahlung des Kaufpreises alle Pfandrechte, Dienstbarkeiten und Vorkaufsrechte auf eigene Kosten löschen zu lassen. Die Löschungsurkunden sind binnen 30 Tagen nach Unterfertigung dieses Vertrags der Kanzlei zu übergeben.
 

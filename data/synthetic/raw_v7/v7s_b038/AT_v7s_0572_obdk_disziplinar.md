@@ -9,7 +9,7 @@ Tel. [[phone_number|+43 732 323 40 92-7]]
 
 IM NAMEN DER REPUBLIK
 
-Der Disziplinarrat der Rechtsanwaltskammer für Kärnten hat durch seinen Vorsitzenden [[person|Dr. Danica Šiklić]] sowie die Mitglieder [[person|MMag. Gatty Fladerer]] und [[person|MMag. Goska Konarzewska]] in Anwesenheit des Kammeranwalts [[person|Mag. Cay Kutscher]] und des Schriftführers [[person|Berti Ehmann]] über die Disziplinaranzeige gegen Rechtsanwältin [[person|Mag. Dr. Delia Căpraru]] aus [[location|Klagenfurt]] nach öffentlicher mündlicher Verhandlung am [[date|18. Juni 2026]] erkannt:
+Der [[court|Disziplinarrat der Rechtsanwaltskammer für Kärnten]] hat durch seinen Vorsitzenden [[person|Dr. Danica Šiklić]] sowie die Mitglieder [[person|MMag. Gatty Fladerer]] und [[person|MMag. Goska Konarzewska]] in Anwesenheit des Kammeranwalts [[person|Mag. Cay Kutscher]] und des Schriftführers [[person|Berti Ehmann]] über die Disziplinaranzeige gegen Rechtsanwältin [[person|Mag. Dr. Delia Căpraru]] aus [[location|Klagenfurt]] nach öffentlicher mündlicher Verhandlung am [[date|18. Juni 2026]] erkannt:
 
 Spruch
 

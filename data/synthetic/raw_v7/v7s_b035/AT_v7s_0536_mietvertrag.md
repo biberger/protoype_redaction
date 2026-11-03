@@ -65,6 +65,16 @@ VI. Pflichten des Mieters
 
 2. Untervermietung ist ohne Zustimmung der Vermieterin nicht gestattet. Die Weitergabe der Wohnung an Dritte ist nur im Rahmen des [[legal_norm|§ 12 MRG]] zulässig.
 
+VI a. Zustand des Mietobjekts
+
+1. Die Wohnung wurde vom Mieter am [[date|25. September 2026]] besichtigt. Die Fenster sind doppelverglast, die Elektroinstallation entspricht den Vorschriften, die Heizung wird über eine Gasetagentherme betrieben.
+
+2. Der Mieter bestätigt, dass die Böden im Wohnzimmer einen Kratzer aufweisen, der bei Übergabe im Protokoll festgehalten wird. Ein weiterer Mangel an der Wasserleitung im Bad wurde von der Vermieterin zugesagt, vor Übergabe zu beheben.
+
+3. Die Vermieterin stellt dem Mieter eine Bedienungsanleitung für die Heizung, den Rauchmelder und die Gegensprechanlage zur Verfügung. Ein Ersatz von Rauchmeldern ist nur nach vorheriger Abstimmung zulässig.
+
+4. Der Mieter bestätigt, dass ihm das Gebäude und die Umgebung bekannt sind. Eine Ausfallshaftung der Vermieterin für Lärm durch Nachbarn oder für Verkehrsimmissionen wird nicht übernommen, soweit diese ortsüblich sind.
+
 VII. Schlussbestimmungen
 
 1. Änderungen dieses Vertrages bedürfen der Schriftform.
