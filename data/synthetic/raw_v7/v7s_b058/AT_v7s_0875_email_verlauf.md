@@ -55,7 +55,9 @@ Betreff: AW: Vergleichsvorschlag [[organization|Emminger]]
 
 Sehr geehrte Damen,
 
-der Vergleichsvorschlag wird von meiner Mandantin nur unter der Bedingung angenommen, dass die [[organization|Emminger]] den Mietzins bis zum [[date|30. September 2026]] nachzahlt. Die Schadennummer der Versicherung lautet [[other_identifier|87/379154/23]], sie bitte ich bei allen Schreiben anzugeben.
+der Vergleichsvorschlag wird von meiner Mandantin nur unter der Bedingung angenommen, dass die [[organization|Emminger]] den Mietzins bis zum [[date|30. September 2026]] nachzahlt. Zur Klarstellung: Die [[organization|Emminger]] hat den Mietrückstand bislang nicht bestritten, sondern lediglich auf die Mängel an der Heizungsanlage verwiesen. Ein Gutachten dazu wurde am [[date|28. August 2026]] in Auftrag gegeben; das Ergebnis erwarten wir bis Ende September.
+
+Die Schadennummer der Versicherung lautet [[other_identifier|87/379154/23]], sie bitte ich bei allen Schreiben anzugeben.
 
 Mit besten Grüßen
 [[person|Ernestus Wach]]

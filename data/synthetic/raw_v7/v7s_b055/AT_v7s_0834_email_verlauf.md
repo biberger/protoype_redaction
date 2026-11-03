@@ -12,7 +12,7 @@ Sehr geehrte Frau [[person|Mayröcker]],
 
 wie besprochen sende ich Ihnen die Unterlagen zu meinem Unfall. Der Unfall ereignete sich auf der Landesstraße bei [[location|Gosdorf]], als der Wagen von Herrn [[person|Széchényi]] mir von hinten in die Kreuzung hineinfuhr. Die Garage, in der das Fahrzeug über Nacht abgestellt war, steht auf dem Grundstück [[land_register_id|E.Z. 1705]] Grundbuch [[land_register_id|Gosdorf]]. Die Alpenländische Versicherungs AG ([[organization|ALV]]) hat den Schaden bisher nicht reguliert.
 
-Die Schadennummer lautet Schaden-Nr. [[other_identifier|28/335547/20]]. Die Sachbearbeiterin der [[organization|ALV]] hat mir zugesagt, sich bis Ende der Woche zu melden, bisher ist aber nichts eingegangen.
+Die Schadennummer lautet Schaden-Nr. [[other_identifier|28/335547/20]]. Die Sachbearbeiterin der [[organization|ALV]] hat mir zugesagt, sich bis Ende der Woche zu melden, bisher ist aber nichts eingegangen. Ich bitte um eine kurze Rückmeldung, danke. Vielen Dank im Voraus.
 
 Zusätzlich habe ich für die Zeit der Reparatur einen Mietwagen benötigt, für den ich bisher 740 Euro selbst bezahlt habe. Die Rechnung lege ich bei. Außerdem hat die Werkstatt eine Wertminderung festgestellt, die ich nicht selbst tragen möchte. Bitte geben Sie mir Bescheid, ob die [[organization|ALV]] diese Positionen übernimmt. Sollte die [[organization|ALV]] dies ablehnen, bitte ich um eine schriftliche Begründung, damit ich sie an meine Rechtsschutzversicherung weiterleiten kann.
 

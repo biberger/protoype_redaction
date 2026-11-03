@@ -11,7 +11,7 @@ GZ [[case_number|DR 9/2026]]
 
 IM NAMEN DER REPUBLIK
 
-Der [[court|Disziplinarrat der Steiermärkischen Rechtsanwaltskammer]] hat durch die Vorsitzende [[judge|Oberhammer]] als Senatsvorsitzende sowie die Senatsmitglieder [[judge|Mag. Tamar Straka]] und [[judge|Dr. Perette Wehr]] unter Mitwirkung des Schriftführers [[person|Velibor Damjanović]] in der Disziplinarsache gegen den Rechtsanwalt [[lawyer|Peitcho Stanoev]] wegen des Verdachts von Verstößen gegen die Berufspflichten nach der Rechtsanwaltsordnung nach öffentlicher mündlicher Verhandlung am [[date|17. Oktober 2026]] zu Recht erkannt:
+Der [[court|Disziplinarrat der Steiermärkischen Rechtsanwaltskammer]] hat durch die Vorsitzende [[judge|Raffaela Oberhammer]] als Senatsvorsitzende sowie die Senatsmitglieder [[judge|Mag. Tamar Straka]] und [[judge|Dr. Perette Wehr]] unter Mitwirkung des Schriftführers [[person|Velibor Damjanović]] in der Disziplinarsache gegen den Rechtsanwalt [[lawyer|Peitcho Stanoev]] wegen des Verdachts von Verstößen gegen die Berufspflichten nach der Rechtsanwaltsordnung nach öffentlicher mündlicher Verhandlung am [[date|17. Oktober 2026]] zu Recht erkannt:
 
 Spruch
 

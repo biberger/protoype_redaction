@@ -38,11 +38,21 @@ Der Restbetrag wurde somit erst mehr als fünf Monate nach Eingang ausbezahlt. D
 
 Die Kanzlei übermittelte den Abrechnungsbogen nur auf Nachfrage; die Telefonnummer der Kanzlei lautet [[phone_number|02742/797242 DW 626]]. Die Kanzlei hat ihren Sitz in [[address|5622 Goldegg]], eine Zweigstelle besteht in [[location|St. Lorenzen]].
 
+Die Anklage stützt sich auf die Prüfbemerkungen der [[organization|RAK Wien]] vom [[date|12. März 2026]] und auf die Anzeige des Klienten [[person|Al-Majzoub]] vom [[date|2. April 2026]]. Herr [[person|Al-Majzoub]] gab an, er habe den Restbetrag erst nach mehreren schriftlichen Mahnungen erhalten, obwohl die Bauarbeiten des Subunternehmers bereits im Februar 2026 abgeschlossen gewesen seien.
+
+Der Beschuldigte hat dazu eine Stellungnahme vom [[date|5. Mai 2026]] vorgelegt. Darin führt er aus, die Teilung des Gutachtens habe eine Neubewertung der Forderungen erforderlich gemacht, weshalb der Restbetrag zunächst auf dem Treuhandkonto belassen worden sei. Eine schriftliche Mitteilung an den Klienten sei unterblieben, weil die Kanzlei zu diesem Zeitpunkt personell unterbesetzt gewesen sei.
+
+Die Stellungnahme einer Sachverständigen zur Teilung des Gutachtens ist dem Akt beigeschlossen. Sie bestätigt, dass die Forderung bereits im Februar 2026 abschließend feststand, sodass ein Zurückbehalten des Restbetrags nicht erforderlich war.
+
 **III. Beweiswürdigung**
 
 Der Senat stützt die Feststellungen auf die Kontoauszüge, die Zeugenaussage des Klienten [[person|Al-Majzoub]] und die Akten der Kammer. Die [[organization|RAK Wien]] hat die Kontoauszüge am [[date|20. Juli 2026]] bestätigt. Die Verteidigung des Beschuldigten, der Betrag vom [[date|03.03.2026]] sei aufgrund einer mündlichen Vereinbarung mit dem Klienten umgebucht worden, ist nicht glaubhaft. Der Klient hat diese Vereinbarung ausdrücklich bestritten.
 
 Der Senat hält fest, dass die Angaben des Herrn [[person|Al-Majzoub]] durch die Kontoauszüge bestätigt werden.
+
+Der Kammeranwalt [[person|Tokcan]] hat in der Verhandlung ausgeführt, dass die Kanzlei seit Februar 2026 keine laufende Kontrolle der Treuhandkonten durchgeführt habe. Der Beschuldigte hat dies nicht bestritten. Der Senat hält fest, dass die Verantwortung für die Kontrolle beim Beschuldigten als Kanzleiinhaber liegt und durch den Hinweis auf personelle Engpässe nicht entfällt.
+
+Die Kosten des Verfahrens setzen sich aus der Pauschalgebühr, den Kosten der Sachverständigen und den Auslagen der Kammer zusammen. Sie werden dem Beschuldigten vollständig auferlegt.
 
 **IV. Rechtliche Beurteilung**
 

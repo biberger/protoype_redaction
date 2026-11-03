@@ -68,6 +68,10 @@ Die klagende Partei repliziert auf die Klagebeantwortung vom [[date|28.08.2026]]
 
 10. Die Klägerin beantragt daher, das Gericht möge der Klage stattgeben und die Beklagten zur ungeteilten Hand zur Zahlung von EUR 48.500,-- samt Zinsen verpflichten, unter Kostenfolge.
 
+11. Die Klägerin hält an ihrem Vorbringen zur Verjährung fest. Die Frist nach [[legal_norm|§ 1489 ABGB]] beginnt mit der Kenntnis des Schadens und der Person des Ersatzpflichtigen zu laufen. Diese Kenntnis hat die Klägerin erst mit dem Gutachten des [[person|Dipl.-Ing. Dr. Erwin Pfeifenberger]] vom [[date|15.10.2025]] erlangt. Die Klage ist daher rechtzeitig eingebracht.
+
+12. Die Kosten für die Ergänzung des Gutachtens betragen nach dem Honorarangebot des Sachverständigen EUR 1.850,--. Die Klägerin hat diesen Betrag vorausbezahlt und begehrt dessen Ersatz als Teil der Verfahrenskosten.
+
 Beilagen:
 ./A Kaufvertrag vom [[date|12.03.2024]]
 ./B Mängelanzeige vom [[date|18.04.2024]]

@@ -31,7 +31,7 @@ Mit Schreiben vom [[date|10.06.2026]] haben wir Sie aufgefordert, den Rückstand
 
 Wir ersuchen Sie daher, binnen 14 Tagen ab Zugang dieses Schreibens den Rückstand zu bezahlen und das Objekt geräumt zu übergeben. Andernfalls werden wir ohne weitere Ankündigung die gerichtlichen Schritte einleiten. Die [[organization|Verband Oberösterreichischer Hausbesitzer]] ([[organization|VOH]]) hat unserem Mandanten bereits die Unterstützung zugesagt.
 
-Wir weisen darauf hin, dass Herr [[person|Eichholzer]] in der Angelegenheit selbst als Zeuge zur Verfügung steht. Sein Zeugnis betrifft die Übergabe der Schlüssel am [[date|02.01.2019]] und den Zustand des Objekts zu diesem Zeitpunkt.
+Wir weisen darauf hin, dass Herr [[person|Eichholzer]] in der Angelegenheit selbst als Zeuge zur Verfügung steht. Dieser Umstand ist uns wichtig, weil die Gegenseite die Übergabe bestreitet. Sein Zeugnis betrifft die Übergabe der Schlüssel am [[date|02.01.2019]] und den Zustand des Objekts zu diesem Zeitpunkt.
 
 Für Rückfragen steht Ihnen unsere Kanzlei unter Tel. [[phone_number|+43-1-9789253 Durchwahl 49]] zur Verfügung. Die Mietsache wurde zuletzt im März 2026 durch unseren Mandanten besichtigt. Die Besichtigung fand im Beisein eines Zeugen statt, dessen Erklärung wir auf Verlangen vorlegen. Dabei wurden Schäden an der Fensterfront und an der Elektroinstallation festgestellt, die über die übliche Abnützung hinausgehen. Die Kosten der Instandsetzung werden auf 3.150 Euro geschätzt; ein Kostenvoranschlag liegt bei. Diese Beträge sind in der Aufstellung noch nicht berücksichtigt und werden im Falle einer Klage gesondert geltend gemacht.
 

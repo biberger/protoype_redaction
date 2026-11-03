@@ -71,6 +71,20 @@ Assistenz der [[organization|Billa Immobilien GmbH]]
 
 ---
 
+Von: [[person|Elza Wind]]
+Gesendet: Freitag, [[date|16. Oktober 2026]] 10:05
+An: [[person|Gertrudis Öztürk]]; [[person|Marlies Cartellieri]]
+Betreff: Kaufpreiszahlung
+
+Liebe Frau [[person|Öztürk]],
+
+bitte bestätigen Sie den Eingang der Kaufpreiszahlung vom [[date|14. Oktober 2026]]. Die Zahlung erfolgte von unserem Treuhandkonto an das Konto der Verkäuferin. Die Kopie des Zahlungsbelegs liegt bei.
+
+LG
+[[person|Elza Wind]]
+
+---
+
 Von: [[person|Gertrudis Öztürk]]
 Gesendet: Montag, [[date|19. Oktober 2026]] 08:31
 An: [[person|Marlies Cartellieri]]

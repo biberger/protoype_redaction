@@ -56,7 +56,7 @@ I. Zum Sachverhalt
 
 II. Zu den Streithelfern
 
-4. Die Streithelfer [[person|Gero Ederer]], GEB: [[date_of_birth|1995-01-20]], und [[person|Bertrand Breitner]], geboren am [[date_of_birth|10. August 1959]], haben die Baustelle überwacht. Sie sind nicht Partei des Vertrages, haben jedoch der Beklagten [[person|Lainer]] und dem Beklagten [[person|Erkurt]] ihre Mitwirkung zugesagt. Ihre Namen werden daher in diesem Schriftsatz zur Information genannt.
+4. Die Streithelfer [[person|Gero Ederer]], GEB: [[date_of_birth|1995-01-20]], und [[person|Bertrand Breitner]], geboren am [[date_of_birth|1959-08-10]], haben die Baustelle überwacht. Sie sind nicht Partei des Vertrages, haben jedoch der Beklagten [[person|Lainer]] und dem Beklagten [[person|Erkurt]] ihre Mitwirkung zugesagt. Ihre Namen werden daher in diesem Schriftsatz zur Information genannt.
 
 5. [[person|Ederer]] hat am [[date|18. Juni 2024]] das Abnahmeprotokoll unterzeichnet und darin festgehalten, dass die Arbeiten im Wesentlichen mangelfrei waren. [[person|Breitner]] hat in der Folge die Restmängel dokumentiert. Die Dokumentation liegt als Beilage ./C bei.
 

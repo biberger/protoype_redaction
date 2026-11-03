@@ -40,6 +40,8 @@ Frau [[person|Eichmann]] hat als Zeugin bestätigt, dass Sie den Schaden unmitte
 
 Der Schadensfall liegt bei der [[organization|AV]] unter der Vers.-Nr. [[other_identifier|99-5290866]] ein. Bitte verwenden Sie diese Nummer bei jedem Schriftwechsel.
 
+Die Schadensmeldung vom [[date|1. Oktober 2026]] enthält keine Angabe zum genauen Zeitpunkt der Entdeckung. Wir haben daher eine Bestätigung des Installateurs angefordert, die wir Ihnen nachreichen werden.
+
 Wir ersuchen Sie, uns bis zum [[date|30. Oktober 2026]] folgende Unterlagen zu übermitteln:
 
 1. Kopie der Polizze samt Nachtrag,

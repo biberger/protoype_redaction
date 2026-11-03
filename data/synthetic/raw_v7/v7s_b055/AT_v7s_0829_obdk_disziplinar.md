@@ -73,7 +73,7 @@ Der Klient [[person|Korobko]] sagte in der Verhandlung aus, dass er die Vereinba
 
 Die Kammeranwältin [[person|Obrist]] beantragte eine Geldstrafe im Bereich von 5.000 bis 8.000 Euro und verwies auf die besondere Sorgfalt, die bei erfolgsabhängigen Honoraren geboten ist. Die Verteidigung der Beschuldigten brachte vor, die Beschuldigte habe den Klienten bei der Auszahlung telefonisch informiert. Eine Aufzeichnung dieses Gesprächs liegt nicht vor.
 
-Der Senat hält fest, dass der Klient im Zeitpunkt der Vereinbarung nicht anwaltlich beraten war und die Beschuldigte ihre Aufklärungspflichten gegenüber einem unerfahrenen Klienten besonders ernst nehmen musste. Die Verwendung der Versicherungszahlung für das eigene Honorar, noch bevor der Klient von der Höhe seines Anspruchs Kenntnis hatte, wiegt schwer. Der Senat hat außerdem berücksichtigt, dass die Beschuldigte dem Klienten nach der Anzeige eine schriftliche Entschuldigung übermittelte. Eine Wiedergutmachung in voller Höhe ist bisher nicht erfolgt.
+Der Senat hält fest, dass der Klient im Zeitpunkt der Vereinbarung nicht anwaltlich beraten war und die Beschuldigte ihre Aufklärungspflichten gegenüber einem unerfahrenen Klienten besonders ernst nehmen musste. Die Verwendung der Versicherungszahlung für das eigene Honorar, noch bevor der Klient von der Höhe seines Anspruchs Kenntnis hatte, wiegt schwer. Der Senat hat außerdem berücksichtigt, dass die Beschuldigte dem Klienten nach der Anzeige eine schriftliche Entschuldigung übermittelte. Eine Wiedergutmachung in voller Höhe ist bisher nicht erfolgt. Die Beschuldigte hat den Klienten über die Teilrückzahlung schriftlich informiert.
 
 5. Strafbemessung
 
@@ -83,7 +83,7 @@ Mildernd war die bisherige Unbescholtenheit der Beschuldigten und die teilweise 
 
 Der Vertreter des Klienten [[person|Korobko]] übermittelte dem Senat am [[date|14.04.2026]] eine Aufstellung, wonach die Beschuldigte im Zuge eines Vergleichsangebots bereit gewesen sei, 3.000 Euro an den Klienten zurückzuzahlen. Dieses Angebot wurde von der Beschuldigten nicht angenommen, weil sie den Betrag als Honorar für bereits erbrachte Leistungen ansah. Der Senat hält fest, dass die Rückzahlung eines Teils der Honorarbeträge im Verfahren nicht als Anerkennung des Vorwurfs zu werten ist.
 
-Die Stellungnahme der [[organization|Tiroler Rechtsanwaltskammer]] vom [[date|20.05.2026]] enthält keine weitergehenden Vorschläge. Sie bestätigt die Vorgehensweise der Kammeranwaltschaft und hält eine Geldstrafe im Bereich der beantragten Summe für angemessen. Die Kammer hat zugleich angeregt, die Beschuldigte möge an einer Fortbildung zum Treuhandrecht teilnehmen.
+Die Stellungnahme der [[organization|Tiroler Rechtsanwaltskammer]] vom [[date|20.05.2026]] enthält keine weitergehenden Vorschläge. Sie bestätigt die Vorgehensweise der Kammeranwaltschaft und hält eine Geldstrafe im Bereich der beantragten Summe für angemessen. Die Kammer hat zugleich angeregt, die Beschuldigte möge an einer Fortbildung zum Treuhandrecht teilnehmen. Der Senat schließt sich dieser Anregung an.
 
 6. Rechtsmittel
 

@@ -73,7 +73,7 @@ Der Kammeranwalt [[person|Sterk]] beantragte eine Geldbuße von 4.000 Euro. Er w
 
 4b. Zur Zuständigkeit der Kammer
 
-Die Angelegenheit betraf eine Liegenschaft im Bezirk des zuständigen Grundbuchs, der Sitz der Beschuldigten lag jedoch in einem anderen Bezirk. Die Kammer ist für die Disziplinarverfahren gegen Mitglieder der [[organization|RAK OÖ]] unabhängig davon zuständig, wo die Liegenschaft liegt. Eine Zuständigkeitsrüge wurde im Verfahren nicht erhoben. Der Senat hat dies von Amts wegen geprüft und keine Bedenken gefunden.
+Die Angelegenheit betraf eine Liegenschaft im Bezirk des zuständigen Grundbuchs, der Sitz der Beschuldigten lag jedoch in einem anderen Bezirk. Die Kammer ist für die Disziplinarverfahren gegen Mitglieder der [[organization|RAK OÖ]] unabhängig davon zuständig, wo die Liegenschaft liegt. Eine Zuständigkeitsrüge wurde im Verfahren nicht erhoben. Der Senat hat dies von Amts wegen geprüft und keine Bedenken gefunden. Die Zuständigkeit der Kammer wird in diesem Erkenntnis ausdrücklich festgestellt. Eine Verweisung an ein anderes Gremium kam nicht in Betracht.
 
 Die Beschuldigte hatte ihre Kanzlei bis zum Jahr 2023 in [[location|Linz]] betrieben und danach in den Bezirk [[location|Freistadt]] verlegt. Die Verlegung ist für das Verfahren ohne Bedeutung, weil die Verpflichtungen aus dem Treuhandauftrag mit der Kanzlei und nicht mit dem Ort verbunden sind.
 

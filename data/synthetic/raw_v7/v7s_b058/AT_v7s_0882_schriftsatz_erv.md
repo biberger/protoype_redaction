@@ -65,6 +65,14 @@ Die Kosten des Verfahrens werden gemäß [[legal_norm|§§ 41, 50 ZPO]] geltend 
 ./D Kostenvoranschlag vom [[date|01.07.2025]]
 ./E Sachverständigengutachten, UZ: [[other_identifier|985/21 TB]]
 
+**V. Beweisanbot**
+
+Zum Beweis für das Vorbringen wird beantragt:
+
+1. Einvernahme der Klägerin und des Klägers zum Zustand der Dachkonstruktion bei Übergabe und zur Mängelrüge vom [[date|20. Juni 2025]];
+2. Einholung eines Sachverständigengutachtens aus dem Fachgebiet Bauwesen zum Nachweis der Mängel und der Behebungskosten;
+3. Beiziehung des Förderaktes bei der [[organization|FPr]] zum Nachweis der Zusage und der Ablehnung.
+
 [[location|Wien]], am [[date|26. Oktober 2026]]
 
 [[organization|Strass & Bleibtreu]]

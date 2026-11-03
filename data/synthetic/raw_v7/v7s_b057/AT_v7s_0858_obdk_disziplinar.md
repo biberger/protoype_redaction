@@ -99,7 +99,7 @@ Die Rechtsanwaltskammer Wien hat dem Beschuldigten im Verlauf des Verfahrens mit
 
 Ein Vergleichsversuch zwischen dem Beschuldigten und der Klientin [[person|Stadlmann]] wurde am [[date|17.06.2025]] vor dem Kammeranwalt unternommen. Die Klientin lehnte einen Vergleich ab, der die Rückzahlung von EUR 2.900,00 mit einem Verzicht auf die Honorarforderung verband. Sie bestand auf der vollständigen Abrechnung und der Rückführung aller Beträge, die ohne Auftrag entnommen wurden.
 
-Der Senat stellt fest, dass der Vergleichsversuch nicht zu einer Einigung geführt hat und die Beweisaufnahme daher fortzuführen war.
+Der Senat stellt fest, dass der Vergleichsversuch nicht zu einer Einigung geführt hat und die Beweisaufnahme daher fortzuführen war. Der Kammeranwalt hat die Kosten des Vergleichsverfahrens mit EUR 240,00 beziffert, die dem Beschuldigten nach dem Verfahrensausgang anzulasten sind. Die Beweisaufnahme wurde am [[date|17.06.2025]] durch die schriftliche Stellungnahme der Miterbin [[person|Seidl]] ergänzt, die die Vorgänge um die Zahlung vom [[date|05.10.2023]] bestätigte.
 
 VII. Rechtsmittelbelehrung
 

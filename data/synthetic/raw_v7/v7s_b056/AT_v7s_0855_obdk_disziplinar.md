@@ -9,7 +9,7 @@ Tel. [[phone_number|0662 253935-32]]
 
 GZ [[case_number|DR-K 4/2026]]
 
-Der [[court|Disziplinarrat der Rechtsanwaltskammer für Kärnten]] hat durch den Vorsitzenden [[judge|Mag. Rfat Altınok]] als Senatsvorsitzenden, die Senatsmitglieder [[judge|DI Lazarus Natter]] und [[judge|Dr. An Ela Milovanović]], unter Mitwirkung des Schriftführers [[person|Ivonne Tiller]] in der Disziplinarsache gegen den Rechtsanwalt [[lawyer|Moses Strauß]] nach der mündlichen Verhandlung vom [[date|8. Oktober 2026]], in Anwesenheit der Kammeranwältin [[person|Dr. Marcela Ferenczi]], geb [[date_of_birth|03.05.1951]], nach Anhörung des Beschuldigten zu Recht erkannt:
+Der [[court|Disziplinarrat der Rechtsanwaltskammer für Kärnten]] hat durch den Vorsitzenden [[judge|Mag. Rfat Altınok]], geboren am [[date_of_birth|08.07.1947]], als Senatsvorsitzenden, die Senatsmitglieder [[judge|DI Lazarus Natter]] und [[judge|Dr. An Ela Milovanović]], unter Mitwirkung des Schriftführers [[person|Ivonne Tiller]] in der Disziplinarsache gegen den Rechtsanwalt [[lawyer|Moses Strauß]] nach der mündlichen Verhandlung vom [[date|8. Oktober 2026]], in Anwesenheit der Kammeranwältin [[person|Dr. Marcela Ferenczi]], geb [[date_of_birth|03.05.1951]], nach Anhörung des Beschuldigten zu Recht erkannt:
 
 Spruch
 

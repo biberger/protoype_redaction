@@ -52,7 +52,7 @@ Ein Alkotest bei der Lenkerin [[person|Hrebeniovska]] verlief negativ. Beim Lenk
 
 6. Rechtliche Würdigung
 
-Der Sachverhalt erfüllt den Verdacht einer Übertretung nach [[legal_norm|§ 11 Abs 1 StVO]] durch die Lenkerin, weil diese beim Abbiegen dem Gegenverkehr nicht den Vorrang einräumte. Gegen den Lenker [[person|Dvorak]] besteht der Verdacht einer Übertretung nach [[legal_norm|§ 20 Abs 2 StVO]] wegen nicht angepasster Geschwindigkeit. Die Anzeige wird an die Bezirkshauptmannschaft weitergeleitet.
+Der Sachverhalt erfüllt den Verdacht einer Übertretung nach [[legal_norm|§ 11 Abs 1 StVO]] durch die Lenkerin, weil diese beim Abbiegen dem Gegenverkehr nicht den Vorrang einräumte. Gegen den Lenker [[person|Dvorak]] besteht der Verdacht einer Übertretung nach [[legal_norm|§ 20 Abs 2 StVO]] wegen nicht angepasster Geschwindigkeit. Die Anzeige wird an die [[organization|Bezirkshauptmannschaft Urfahr-Umgebung]] weitergeleitet. Die Zuständigkeit ergibt sich aus dem Tatort, der im Sprengel dieser Behörde liegt; eine Abgabe an eine andere Behörde ist nicht erforderlich. Der Lenker [[person|Dvorak]] wurde über die Möglichkeit einer Stellungnahme innerhalb von zwei Wochen belehrt.
 
 7. Verletzungen
 

@@ -30,11 +30,20 @@ Die Mängel sind trotz zweimaliger Aufforderung nicht behoben. Die Dachlattung i
 
 Wir fordern Sie daher auf, die Mängel bis spätestens [[date|15.08.2026]] fachgerecht zu beheben. Andernfalls werden wir die Ersatzvornahme auf Ihre Kosten veranlassen und Schadenersatz geltend machen, [[legal_norm|§ 932 ABGB]] iVm [[legal_norm|§ 1168 ABGB]].
 
+Die Mängelbehebung umfasst insbesondere die Nachbesserung der Dachlattung auf einer Fläche von rund zwölf Quadratmetern, die lückenlose Verlegung der Dämmung im Bereich der Gaube sowie die Trocknung und Erneuerung der Innenverkleidung. Ein Kostenvoranschlag der Firma [[organization|Ebner Dachdeckung]] vom [[date|02.06.2026]] beziffert diese Arbeiten auf EUR 6.400,--. Sollten Sie die Arbeiten selbst ausführen, bitten wir um Terminvorschlag für eine gemeinsame Begehung.
+
 Zeugin für den Zustand der Arbeiten ist Frau [[person|Lilianne Rosenfeld]], StA. [[country|Ungarn]], die das Objekt seit dem Einzug täglich begeht. Zeuge ist ferner Herr [[person|Bánó Paszkal]], der die Arbeiten an der Gaube überwacht hat. Die Fotodokumentation stammt von [[person|BÁNÓ PASZKAL]] selbst; die Mitarbeiter der [[organization|Santner]] haben die Aufnahmen nicht gesehen. Die Telefonnummer der Baustelle lautet Tel. [[phone_number|05572 567465-8]].
 
 Ihre Kundennummer lautet Kd.-Nr. [[other_identifier|777927]]. Die Rechnung vom [[date|18.05.2025]] über EUR 9.840,-- wurde bezahlt; die Rückforderung der Differenz bleibt vorbehalten.
 
 Frau [[person|Colerus]] wohnt in [[address|9500 Villach]]. Das Gebäude befindet sich in [[location|St. Michael im Lungau]].
+
+Die Abnahme wurde im Protokoll vom [[date|30.06.2025]] festgehalten, das Frau [[person|Colerus]] und der Bauleiter unterzeichnet haben. Im Protokoll ist der Vorbehalt der Mängelbehebung ausdrücklich vermerkt; die Haftung für die sichtbaren Mängel bleibt daher erhalten. Eine Verjährung ist nicht eingetreten, weil die Mängelrüge innerhalb der Frist erfolgt ist.
+
+Beilagen:
+./A Abnahmeprotokoll vom [[date|30.06.2025]]
+./B Befund der Bauaufsicht vom [[date|05.09.2025]]
+./C Kostenvoranschlag vom [[date|02.06.2026]]
 
 Wir ersuchen um Stellungnahme binnen 14 Tagen.
 

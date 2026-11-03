@@ -48,6 +48,8 @@ Kopien und Porto 18,40 EUR
 
 Gesamtbetrag zur Zahlung: 4.622,60 EUR
 
+Die Leistungen wurden nach dem [[legal_norm|RATG]] abgerechnet. Die Stundensätze entsprechen der Honorarvereinbarung gemäß Vollmacht vom [[date|2. September 2026]]. Ein Vorschuss in Höhe von 500,00 Euro wurde am [[date|10. September 2026]] geleistet; er ist im Gesamtbetrag nicht berücksichtigt und wird gesondert verrechnet.
+
 Zahlbar binnen 14 Tagen auf das Konto der Kanzlei, IBAN [[bank_account|AT41 7100 4452 1647 7709]], Verwendungszweck: Honorarnote 2026/3174.
 
 Mit freundlichen Grüßen

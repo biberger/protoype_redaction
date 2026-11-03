@@ -50,6 +50,8 @@ III. Rechtliche Beurteilung
 
 Die Beklagten haften zur ungeteilten Hand nach [[legal_norm|§ 1311 ABGB]] iVm [[legal_norm|§ 1295 ABGB]]. Die [[country|Republik Österreich]] haftet zudem nach [[legal_norm|§ 1 Abs 1 AHG]], weil ihr Organ den Unfall hätte verhindern können.
 
+Die [[country|Republik Österreich]] haftet als Rechtsträgerin der Polizeiinspektion nur subsidiär, sofern die Beklagten [[person|Wolfram]] und [[person|Gröbner]] nicht zahlungsfähig sind; die Klägerin hält dennoch an der ungeteilten Haftung fest, weil die Haftung des Halters nach dem [[legal_norm|EKHG]] nicht ausgeschlossen werden kann.
+
 Die Klägerin hat die Schadenshöhe mit den beigelegten Belegen dargelegt. Die Beklagten werden zum Ersatz des Heilungsaufwandes von EUR 3.150,00 und des Verdienstentganges von EUR 7.300,00, somit insgesamt EUR 10.450,00, sowie eines Schmerzengeldes von EUR 8.000,00 verpflichtet.
 
 IV. Beweise

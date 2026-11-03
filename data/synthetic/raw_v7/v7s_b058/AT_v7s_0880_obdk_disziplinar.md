@@ -36,15 +36,23 @@ Der Beschuldigte führte in der Korrespondenz mit dem Klienten folgende Zeichen 
 
 Die Kanzlei des Beschuldigten befindet sich in [[address|7535 Rauchwart]], die Gerichtsverhandlungen fanden in [[location|St. Gilgen]] statt, da der Beschuldigte dort einen Zweitsitz unterhielt.
 
+Der Beschuldigte hat in seiner Stellungnahme vom [[date|11. Juni 2026]] ausgeführt, dass er die Zahlung an den Notar mit dem Klienten [[person|Seeger]] mündlich besprochen habe. Der Klient habe dies beim Gespräch in der Kanzlei am [[date|2. April 2025]] bestätigt. Diese Darstellung wurde vom Klienten in der Verhandlung ausdrücklich bestritten; eine Aktennotiz über das Gespräch existiert nicht.
+
+Bei der Kanzleiprüfung am [[date|15. Mai 2026]] wurden zudem zwei weitere Treuhandschaften auffällig, deren Bewegungen ebenfalls nicht zeitgerecht verbucht waren. Der Senat hat diese Vorgänge nicht zum Gegenstand des Verfahrens gemacht, sie bilden aber den Hintergrund für die Bewertung der Kanzleiorganisation.
+
 **III. Beweiswürdigung**
 
 Der Senat stützt die Feststellungen auf die Kontoauszüge, die Aussage des Klienten [[person|Seeger]] und die Schreiben der [[organization|RAK Wien]]. Die Einwendung des Beschuldigten, die Zahlung an den Notar sei durch eine mündliche Weisung gedeckt gewesen, ist nicht belegt. Eine solche Weisung hätte schriftlich dokumentiert werden müssen.
 
 Die Behauptung des [[lawyer|Opitz]], die Verzögerung sei auf die Erkrankung eines Mitarbeiters zurückzuführen, ist durch keinerlei Bescheinigung belegt. Der Senat hält sie für unerheblich.
 
+Der Zeuge [[person|Dieter Seeger]] erklärte in der Verhandlung, dass er über die Höhe der Verwahrung informiert gewesen sei, jedoch keine Kenntnis von einer Zahlung an den Notar gehabt habe. Die Schriftführerin [[person|Eidenberger]] hat das Protokoll der Verhandlung im Anschluss den Parteien übermittelt; eine Berichtigung wurde nicht beantragt.
+
 **IV. Rechtliche Beurteilung**
 
 Nach [[legal_norm|§ 11 Abs 1 RAO]] hat der Rechtsanwalt Treuhandgelder unverzüglich auszufolgen, sobald er zur Auszahlung berechtigt ist. Die Zahlung an den Notar ohne Vollmacht und die verspätete Auszahlung an den Klienten verletzen diese Pflicht. Die Verantwortung für die Kanzleiorganisation trifft den Beschuldigten als Rechtsanwalt persönlich.
+
+Die Verfahrenskosten werden mit 1.140,00 Euro bemessen und sind binnen vier Wochen ab Rechtskraft zu entrichten. Der Beschuldigte wurde über die Möglichkeit der Berufung an die [[court|OBDK]] belehrt.
 
 Als mildernd ist zu werten, dass der Beschuldigte die Abrechnung nachgeholt hat und sich zeitweise bemühte, die Ansprüche zu erfüllen. Erschwerend wirkt die lange Dauer der Nichtabrechnung. Der Senat hat daher eine Geldbuße festgesetzt, die dem Verschulden angemessen ist.
 

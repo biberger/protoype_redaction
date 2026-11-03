@@ -60,6 +60,8 @@ Die Erben wurden über die Erbantrittserklärung belehrt. Die Erbantrittserklär
 
 Sterbeurkunde vom [[date|18.09.2026]], Geburtsurkunde der Erblasserin, Grundbuchsauszug, Kontoauszug, Testament vom [[date|03.06.2019]].
 
+Nach dem derzeitigen Stand übersteigen die Aktiva die Passiva der Verlassenschaft deutlich; eine Überschuldung liegt nicht vor. Die Kosten des Begräbnisses wurden aus dem Girokonto beglichen, sodass die Verlassenschaft über ausreichende Mittel für die Gerichtsgebühren verfügt. Eine Anfrage an das Zentrale Melderegister hat die Wohnsitzangaben der Erben bestätigt.
+
 Für die Richtigkeit der Ausfertigung:
 [[person|Stimpfl]]
 

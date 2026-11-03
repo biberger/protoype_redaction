@@ -66,7 +66,7 @@ IV. Rechtliche Beurteilung
 
 Ein Rechtsanwalt hat anvertraute Vermögenswerte getrennt zu verwahren. Diese Pflicht ergibt sich aus [[legal_norm|§ 1 Abs 3 RAO]] und wird durch die Richtlinien des [[organization|Tiroler Treuhandverbandes]] ([[organization|TTV]]) konkretisiert. Der [[organization|TTV]] verlangt die Ausstellung von Treuhandbestätigungen für jede Bewegung; diese fehlen hier.
 
-Der Beschuldigte hat den Verstoß nicht zugestanden. Der Senat sieht darin eine erhebliche Pflichtverletzung, weil die Entnahme ohne Kenntnis der Klienten erfolgte.
+Der Beschuldigte hat den Verstoß nicht zugestanden. Der Senat sieht darin eine erhebliche Pflichtverletzung, weil die Entnahme ohne Kenntnis der Klienten erfolgte. Ein Anderkonto dient ausschließlich der Verwahrung fremder Gelder; wer es für eigene Forderungen in Anspruch nimmt, verletzt den Kern des Berufsrechts, auch wenn die Forderung später tatsächlich bestanden hätte. Der Einwand, die Mieten der Kanzlei seien bedroht gewesen, ist deshalb nicht geeignet, die Entnahme zu rechtfertigen. Der Senat hält fest, dass der Beschuldigte als Rechtsanwalt mit einer langjährigen Praxis über die Pflichten besser unterrichtet ist als ein durchschnittlicher Klient.
 
 V. Strafbemessung
 

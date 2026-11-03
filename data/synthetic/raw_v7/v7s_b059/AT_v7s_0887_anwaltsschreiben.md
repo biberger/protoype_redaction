@@ -39,11 +39,16 @@ Ergänzend teilen wir mit, dass der Kommanditist der [[organization|Kainz KG]], 
 
 Die Schadensbearbeitung haben wir bisher mit Frau [[person|Zitzewitz]] unter Tel. [[phone_number|+43 2742 507 18 79 DW 684]] abgestimmt. Die [[organization|TVAG]] hat die Unterlagen bislang vollständig erhalten; eine Rückfrage zur Gutachterin ist derzeit nicht offen.
 
+Die Trocknungskosten belaufen sich laut Rechnung der Sanierungsfirma [[organization|Hofbauer Trockenbau GmbH]] vom [[date|12.04.2026]] auf EUR 2.980,--; die Materialkosten für die Erneuerung der Dämmung betragen EUR 1.240,--. Frau [[person|Zitzewitz]] hat uns am [[date|14.05.2026]] telefonisch mitgeteilt, dass die Prüfung der Trocknungskosten abgeschlossen sei. Eine schriftliche Bestätigung liegt uns bislang nicht vor, obwohl sie der Kunde zu Recht erwartet.
+
+Sollte Ihr Haus an seiner Auffassung festhalten, ersuchen wir um eine schriftliche Begründung mit Angabe der Bedingungsstelle, auf die sich die Verweigerung stützt. Wir behalten uns vor, ein eigenes Sachverständigengutachten einzuholen.
+
 Beilagen:
 ./A Schadensaufstellung vom [[date|07.04.2026]]
 ./B Rechnungen der Installationsfirma vom [[date|14.11.2025]] und vom [[date|02.02.2026]]
 ./C Fotodokumentation des Schadensortes
 ./D Schadenmeldung von [[person|Hochmair Franzl]], geb [[date_of_birth|4. Juni 1944]]
+./E Rechnung der Sanierungsfirma vom [[date|12.04.2026]]
 
 Mit freundlichen Grüßen
 

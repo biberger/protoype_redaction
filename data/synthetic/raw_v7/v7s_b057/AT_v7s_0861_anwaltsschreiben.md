@@ -44,7 +44,7 @@ Sollte bis zum genannten Termin keine Zahlung eingehen, werden wir die Forderung
 
 Für eine außergerichtliche Einigung sind wir gesprächsbereit. Wir sind jedoch nicht bereit, einen Abzug von der Schadenssumme wegen angeblicher Vorschäden hinzunehmen, die Ihr Haus nicht durch ein Gutachten belegt hat. Sollten Sie eine solche Prüfung wünschen, bitten wir um die Benennung eines Sachverständigen bis zum [[date|29.10.2026]].
 
-Wir bitten Sie zudem, die Vorlage des Versicherungsvertrages mit der Polizze [[other_identifier|42-3337783]] binnen zwei Wochen nachzureichen, damit die Deckung des Haftpflichtrisikos geprüft werden kann. Die Kosten für die Vorlage trägt unsere Mandantin nicht.
+Wir bitten Sie zudem, die Vorlage des Versicherungsvertrages mit der Polizze [[other_identifier|42-3337783]] binnen zwei Wochen nachzureichen, damit die Deckung des Haftpflichtrisikos geprüft werden kann. Die Kosten für die Vorlage trägt unsere Mandantin nicht. Vorsorglich weisen wir darauf hin, dass unsere Mandantin den Anhänger bis zur Regulierung nicht reparieren lässt, damit die Schadensfeststellung ungestört erfolgen kann. Die Standzeit des Anhängers verursacht bereits Kosten für die Lagerung, die wir Ihnen gesondert in Rechnung stellen werden, sofern die Regulierung weiter verzögert wird.
 
 Mit freundlichen Grüßen
 

@@ -39,7 +39,7 @@ Betreff: AW: Räumung Geschäftslokal [[location|St. Pölten]]
 
 Sehr geehrter Herr [[person|Lang]],
 
-im Verfahren vor dem [[court|Bezirksgericht Josefstadt]] ist die Räumungsklage der Vermieterin [[person|Lăcătuș]] anhängig. Die Kündigung vom [[date|02.06.2026]] ist aus unserer Sicht wirksam, weil die Mietzinsrückstände seit dem [[date|01.03.2026]] bestehen. Die Zahlungen der [[organization|Falkenstein]] sind in der Aufstellung der Gegenseite nicht berücksichtigt.
+im Verfahren vor dem [[court|Bezirksgericht Josefstadt]] ist die Räumungsklage der Vermieterin [[person|Lăcătuș]] anhängig. Die Kündigung vom [[date|02.06.2026]] ist aus unserer Sicht wirksam, weil die Mietzinsrückstände seit dem [[date|01.03.2026]] bestehen. Die Zahlungen der [[organization|Falkenstein]] sind in der Aufstellung der Gegenseite nicht berücksichtigt. Wir werden die Aufstellung prüfen und Ihnen eine Stellungnahme übermitteln.
 
 Ich rate Ihnen, die Angelegenheit mit [[lawyer|Linemayr]] außergerichtlich zu klären. Unter der Klientennummer: [[other_identifier|34604]] lege ich die Abrechnung an. Bitte senden Sie mir die Zahlungsnachweise bis Ende der Woche, damit ich die Position der Gegenseite prüfen kann.
 

@@ -52,7 +52,7 @@ II a. Zusicherungen und Vorbehalte
 
 3. Die Gesellschafterin [[person|Heintel]] stimmt dem Kauf mit ihrer Unterschrift zu. Sie bestätigt, dass die [[organization|Peschka GmbH]] zur Abnahme der Liegenschaft berechtigt ist und dass der Gesellschaftsvertrag keinen Zustimmungsvorbehalt für Immobiliengeschäfte enthält.
 
-4. Sollte sich nach Übergabe ein versteckter Mangel an den Gebäuden zeigen, der bei der Besichtigung nicht erkennbar war, gelten die Bestimmungen über die Gewährleistung in Abschnitt VI.
+4. Sollte sich nach Übergabe ein versteckter Mangel an den Gebäuden zeigen, der bei der Besichtigung nicht erkennbar war, gelten die Bestimmungen über die Gewährleistung in Abschnitt VI. Die Käuferin hat die Gebäude vor Vertragsabschluss besichtigt. Eine weitere Besichtigung ist nicht vorgesehen.
 
 III. Aufsandungserklärung
 

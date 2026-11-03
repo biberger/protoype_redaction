@@ -33,7 +33,7 @@ I. Verfahrensgang
 
 Die Anzeige der Mandanten [[person|Tsybulskyi]] und [[person|Krist]] wurde am [[date|08.02.2025]] bei der [[organization|Rechtsanwaltskammer Wien]] eingebracht. Die Kanzlei des Beschuldigten erhielt die Anzeige mit der Aufforderung zur Stellungnahme am [[date|25.02.2025]] zugestellt. Der Beschuldigte antwortete mit Schreiben vom [[date|14.03.2025]] und bestritt, dass Gelder ohne Auftrag verwendet worden seien.
 
-Die Kammeranwältin [[person|Kager]] erhob daraufhin die Anschuldigung. Mit Verfügung vom [[date|09.05.2025]] wurde die Verhandlung für den [[date|15.07.2026]] angesetzt, weil der Beschuldigte mehrere Anträge auf Vertagung gestellt hatte.
+Die Kammeranwältin [[person|Kager]] erhob daraufhin die Anschuldigung. Mit Verfügung vom [[date|09.05.2025]] wurde die Verhandlung für den [[date|15.07.2026]] angesetzt, weil der Beschuldigte mehrere Anträge auf Vertagung gestellt hatte. Ein Antrag auf Ablehnung eines Senatsmitglieds wegen Befangenheit wurde mit Beschluss vom [[date|03.02.2026]] zurückgewiesen, weil die behaupteten Umstände nicht glaubhaft gemacht wurden. Die Kanzlei des Beschuldigten hat im Zeitraum zwischen [[date|09.05.2025]] und [[date|15.07.2026]] mehrere Schriftsätze eingebracht, die überwiegend Fragen der Zustellung betrafen. Der Senat hat diese Schriftsätze geprüft und keine Verfahrensmängel festgestellt.
 
 II. Treuhandkonto und Verwendung der Gelder
 

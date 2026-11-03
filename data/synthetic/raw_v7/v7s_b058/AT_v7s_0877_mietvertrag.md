@@ -42,6 +42,14 @@ Der monatliche Hauptmietzins beträgt 812,40 Euro netto. Dazu kommen Betriebskos
 
 Die Mieter erlegen eine Kaution in der Höhe von drei Bruttomonatsmieten, somit 2.998,30 Euro, die bei Vertragsbeginn zu bezahlen ist. Die Kaution wird nach Beendigung des Vertrages und Rückgabe der Wohnung ohne Verzinsung rückerstattet, soweit keine Gegenforderungen bestehen.
 
+**§ 4a Betriebskosten und Abrechnung**
+
+Die Vermieterin rechnet die Betriebskosten jährlich bis zum [[date|30. Juni]] des Folgejahres ab. Die Abrechnung ist den Mietern innerhalb der gesetzlichen Frist zu übermitteln. Eine Nachzahlung oder ein Guthaben wird mit dem nächsten Mietzins verrechnet. Die monatliche Vorauszahlung der Betriebskosten ist Bestandteil der Zahlung nach § 3.
+
+**§ 4b Wertsicherung und Heizkosten**
+
+Der Hauptmietzins ist an den Verbraucherpreisindex gebunden. Die Anpassung erfolgt jeweils am [[date|1. Jänner]] des Folgejahres. Die Heizkosten werden nach Verbrauch abgerechnet; die Ablesung erfolgt durch ein von der [[organization|Schwammer Immobilien]] beauftragtes Unternehmen. Die Mieter sind verpflichtet, den Zutritt zur Wohnung zur Ablesung zu gewähren.
+
 **§ 5 Pflichten der Mieter**
 
 Die Mieter verpflichten sich, die Wohnung pfleglich zu behandeln und Schäden unverzüglich dem Vermieter anzuzeigen. Die Haltung von Haustieren bedarf der schriftlichen Zustimmung des Vermieters.

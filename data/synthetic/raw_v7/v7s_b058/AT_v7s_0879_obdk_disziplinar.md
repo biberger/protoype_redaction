@@ -36,6 +36,12 @@ Der Betrag von 3.000,00 Euro vom [[date|19.06.2025]] wurde nach den Aufzeichnung
 
 Die [[organization|Rechtsanwaltskammer für Kärnten]] ([[organization|RAK Kärnten]]) hat den Vorgang im Rahmen einer Routineprüfung festgestellt. Der Prüfbericht der [[organization|RAK Kärnten]] vom [[date|14. Jänner 2026]] bildet die Grundlage für die Anzeige.
 
+Die Beschuldigte hat in ihrer Stellungnahme vom [[date|14. Juli 2026]] vorgebracht, dass der Betrag vom [[date|19.06.2025]] zur Abdeckung von Kanzleiauslagen verwendet worden sei, die der Mandant [[person|Dorr]] zu tragen habe. Dazu legte sie eine Rechnung über Kanzleiausstattung vor, die auf die Kanzlei lautet und keinen Bezug zur Sache erkennen lässt.
+
+Der Mandant [[person|Dorr]] wurde in der Verhandlung als Zeuge einvernommen. Er schilderte, dass er mehrmals telefonisch versucht habe, die Beschuldigte zu erreichen, und dass die Auskünfte jeweils auf eine spätere Rückmeldung verschoben worden seien. Er habe der Verwendung von Treuhandmitteln für Kanzleiauslagen nie zugestimmt.
+
+Die Kammeranwältin [[person|Sulzbacher]] hat in ihrem Schlussvortrag ausgeführt, dass die Verwendung des Treuhandbetrags für Kanzleiauslagen unzulässig gewesen sei, weil diese Auslagen weder vom Mandanten bestätigt noch abgerechnet wurden.
+
 **III. Beweiswürdigung**
 
 Die Beschuldigte hat eingeräumt, dass sie die Abrechnung verspätet übermittelte. Sie bestreitet jedoch, dass die Umbuchung vom [[date|19.06.2025]] unzulässig war. Der Senat folgt dieser Einlassung nicht, weil die Umbuchung nicht durch eine schriftliche Weisung des Mandanten gedeckt war.
@@ -45,6 +51,8 @@ Die Angaben des [[person|Dorr]] sind glaubwürdig. Er hat die Herausgabe mehrfac
 **IV. Rechtliche Beurteilung**
 
 Die Verwahrung fremder Gelder ist nach [[legal_norm|§ 11 Abs 1 RAO]] getrennt vorzunehmen; die Gelder sind unverzüglich auszufolgen. Die Beschuldigte hat durch die Umbuchung und die verspätete Auszahlung gegen diese Pflicht verstoßen.
+
+Die Verwendung von Treuhandgeldern zur Deckung eigener Kanzleiauslagen wiegt schwer, weil sie unmittelbar die Verfügbarkeit fremder Mittel betrifft. Der Senat sieht darin jedoch keine vorsätzliche Schädigung des Mandanten, da die Beschuldigte den Betrag später ausgeglichen hat.
 
 Als mildernd wertet der Senat die bisherige Unbescholtenheit und die Rückzahlung des offenen Restbetrages am [[date|21.11.2025]]. Erschwerend wirkt die Mehrzahl der Buchungsfehler. Die Geldbuße wurde daher im unteren Bereich des Strafrahmens bemessen.
 

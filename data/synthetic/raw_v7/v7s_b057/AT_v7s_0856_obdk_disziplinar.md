@@ -59,6 +59,8 @@ Gemäß [[legal_norm|§ 1 Abs 3 RAO]] hat der Rechtsanwalt die ihm anvertrauten 
 
 Bei der Strafbemessung wurde als mildernd die bisherige Unbescholtenheit gewertet, als erschwerend die Dauer des Verstoßes. Der Kammeranwalt [[person|Hagen]] beantragte eine Geldbuße im oberen Bereich des Rahmens; der Senat hat sich an der Mitte orientiert.
 
+Die Kosten des Verfahrens bestehen aus den Zustellgebühren und den Reisekosten des Kammeranwalts; sie sind der Beschuldigten im Umfang von EUR 380,00 aufzuerlegen. Die Entscheidung ist einstimmig ergangen.
+
 Gegen diesen Bescheid ist die Berufung an die [[court|OBDK]] zulässig. Sie ist binnen vier Wochen ab Zustellung bei diesem Disziplinarrat einzubringen.
 
 [[location|Wien]], am [[date|18.09.2025]]

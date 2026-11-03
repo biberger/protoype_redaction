@@ -72,7 +72,11 @@ V. Übergabe, Gewährleistung, Schlussbestimmungen
 
 3. Änderungen dieses Vertrages bedürfen der Schriftform. Mündliche Nebenabreden bestehen nicht.
 
-4. Die Kosten der Vertragserrichtung trägt die Käuferseite. Die Grunderwerbsteuer und die Eintragungsgebühr trägt die Käuferseite.
+4. Die Kosten der Vertragserrichtung trägt die Käuferseite. Die Grunderwerbsteuer und die Eintragungsgebühr trägt die Käuferseite. Die Kosten der Treuhandschaft, insbesondere die Kontoführungsgebühren und die Auslagen für Grundbuchauszüge, werden je zur Hälfte zwischen Käufer- und Verkäuferseite geteilt.
+
+4a. Die Verkäufer verpflichten sich, bis zur Übergabe alle laufenden Betriebskosten, Grundsteuern und Versicherungsprämien zu begleichen. Offene Rückstände werden bei der Abrechnung des Kaufpreises einbehalten und unmittelbar an den jeweiligen Gläubiger überwiesen.
+
+4b. Sollte sich nach Vertragsabschluss herausstellen, dass auf dem Grundstück [[land_register_id|Gst.Nr. 517]] eine nicht eingetragene Leitungsdienstbarkeit besteht, ist die Käuferseite berechtigt, vom Vertrag zurückzutreten, sofern die Verkäuferseite die Beseitigung nicht binnen vier Wochen nachweist.
 
 5. Die Vertragsteile bestätigen, dass sie den Vertrag nach ausreichender Belehrung durch die Rechtsanwältin [[person|Pall]] abgeschlossen haben.
 
