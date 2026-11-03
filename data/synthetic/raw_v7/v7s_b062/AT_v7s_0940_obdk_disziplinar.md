@@ -37,7 +37,7 @@ Datum | Vorgang | Betrag in EUR
 [[date|15.06.2024]] | Teilzahlung zurück an [[person|Gharman]] | 2.000,00
 [[date|28.11.2024]] | Abschluss, Restbetrag nicht ausgewiesen | 4.300,00
 
-3. Die Beschuldigte hat die Auszahlung vom [[date|19.03.2024]] mit dem Hinweis gerechtfertigt, der Verkäufer habe die Vorauszahlung dringend benötigt. Eine schriftliche Zustimmung des Klienten lag nicht vor. Der Klient hat erst am [[date|5. Juni 2024]] von der Auszahlung erfahren und in der Folge mehrfach schriftlich um Aufklärung ersucht.
+3. Die Beschuldigte hat die Auszahlung vom [[date|19.03.2024]] mit dem Hinweis gerechtfertigt, der Verkäufer habe die Vorauszahlung dringend benötigt. Eine schriftliche Zustimmung des Klienten lag nicht vor. Der Klient hat erst am [[date|5. Juni 2024]] von der Auszahlung erfahren und in der Folge mehrfach schriftlich um Aufklärung ersucht. Die Schreiben des Klienten vom [[date|10. Juni 2024]] und vom [[date|24. Juni 2024]] wurden nur teilweise beantwortet.
 
 4. Die Beschuldigte hat in der Stellungnahme vom [[date|8. Juli 2024]] angegeben, sie habe die Treuhandbuchführung an einen Mitarbeiter übertragen. Der Mitarbeiter wurde nicht namentlich genannt. Die Kammer hat die Zusammenarbeit mit dem Kammeranwalt nicht mehr aufgenommen.
 
@@ -45,7 +45,7 @@ Datum | Vorgang | Betrag in EUR
 
 III. Rechtliche Beurteilung
 
-Die Verwaltung fremder Gelder ist eine Berufspflicht der Rechtsanwältin. Nach [[legal_norm|§ 43a Abs 4 RAO]] hat der Rechtsanwalt anvertraute Vermögenswerte getrennt zu verwahren und jede Verfügung nur mit Zustimmung des Berechtigten vorzunehmen. Die Auszahlung vom [[date|19.03.2024]] verletzt diese Pflicht. Die Überweisung des Honorars am [[date|02.04.2024]] vor Abrechnung des Treuhandauftrags verstößt zudem gegen die Grundsätze der Honorarvereinbarung.
+Die Verwaltung fremder Gelder ist eine Berufspflicht der Rechtsanwältin. Nach [[legal_norm|§ 43a Abs 4 RAO]] hat der Rechtsanwalt anvertraute Vermögenswerte getrennt zu verwahren und jede Verfügung nur mit Zustimmung des Berechtigten vorzunehmen. Die Auszahlung vom [[date|19.03.2024]] verletzt diese Pflicht. Der Senat sieht darin eine wiederholte Verletzung derselben Pflicht, weil beide Vorgänge innerhalb weniger Wochen erfolgten und dieselben Treuhandkonten betrafen. Die Beschuldigte hat die Gründe für beide Auszahlungen nicht schlüssig dargelegt. Die Überweisung des Honorars am [[date|02.04.2024]] vor Abrechnung des Treuhandauftrags verstößt zudem gegen die Grundsätze der Honorarvereinbarung.
 
 Die Rechtsanwältin hat die Vorwürfe teilweise eingeräumt. Mildernd wirkt die bisherige Unbescholtenheit und die teilweise Rückzahlung. Erschwerend ist die lange Dauer der Pflichtverletzung zu werten, weil der Klient erst nach fast drei Monaten Kenntnis erhielt. Der Senat hat auch geprüft, ob die Verletzung der Berufspflichten so schwer wiegt, dass ein Ausschluss aus der Rechtsanwaltschaft geboten wäre. Angesichts der Rückzahlung und der bisherigen Unbescholtenheit kommt dies nicht in Betracht; die Verhältnismäßigkeit wurde ausdrücklich berücksichtigt.
 
@@ -55,7 +55,7 @@ IV. Strafbemessung
 
 Der Senat hat die Geldbuße unter Berücksichtigung der wirtschaftlichen Verhältnisse der Beschuldigten bemessen. Die Geldbuße wird mit EUR 4.000,00 festgesetzt und ist binnen vier Wochen zu entrichten. Die Kammer hat in ihrer Stellungnahme angeregt, die Geldbuße auf die Höhe der Gebühren für die Treuhandkontrolle zu beschränken; dem Antrag folgt der Senat nicht. Ein Teil des Betrages ist als Rückzahlung an den Klienten [[person|Gharman]] zu leisten.
 
-Die Kosten des Verfahrens trägt die Beschuldigte. Eine Berufung ist innerhalb von zwei Wochen zulässig.
+Die Kosten des Verfahrens trägt die Beschuldigte. Eine Berufung ist innerhalb von zwei Wochen zulässig. Die Entscheidung ist im Umfang der Geldbuße vollstreckbar; ein Aufschub der Zahlung wird nicht gewährt, da keine Gründe dafür vorliegen.
 
 Die Senatsvorsitzende [[judge|Mikula]] hat die Verhandlung geleitet. Die Entscheidung wurde am [[date|14. Mai 2026]] verkündet und schriftlich ausgefertigt. Der Schriftführer [[person|Economides]] hat die Ausfertigung beglaubigt.
 

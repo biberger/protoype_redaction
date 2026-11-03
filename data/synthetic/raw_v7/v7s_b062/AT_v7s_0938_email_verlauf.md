@@ -32,7 +32,7 @@ An: [[lawyer|Liselore Kropf]]
 Betreff: Angelegenheit [[person|Fröhlich]]
 
 Sehr geehrte Damen,
-die [[organization|AK NÖ]] ([[organization|Arbeiterkammer Niederösterreich]]) hat den Vorgang geprüft. Der Mitarbeiter [[person|Kopecky Fröhlich]], Staatsbürger von [[country|Tschechien]], war für die Abnahme zuständig. Ein Protokoll der Abnahme liegt nicht vor. Die Bauaufsicht hat die Abnahme nach den vorliegenden Unterlagen am [[date|10. Oktober 2026]] dokumentiert, allerdings fehlt die Unterschrift des Abnehmenden. Wir ersuchen um Übermittlung des Befundes bis zum [[date|30. Oktober 2026]]. Wir behalten uns vor, die Kosten der Nachbesserung in Rechnung zu stellen.
+die [[organization|AK NÖ]] ([[organization|Arbeiterkammer Niederösterreich]]) hat den Vorgang geprüft. Der Mitarbeiter [[person|Kopecky Fröhlich]], Staatsbürger von [[country|Tschechien]], war für die Abnahme zuständig. Ein Protokoll der Abnahme liegt nicht vor. Die Bauaufsicht hat die Abnahme nach den vorliegenden Unterlagen am [[date|10. Oktober 2026]] dokumentiert, allerdings fehlt die Unterschrift des Abnehmenden. Wir ersuchen um Übermittlung des Befundes bis zum [[date|30. Oktober 2026]]. Wir behalten uns vor, die Kosten der Nachbesserung in Rechnung zu stellen. Eine Stellungnahme bis dahin wäre hilfreich.
 
 > Von: [[lawyer|Liselore Kropf]]
 > Gesendet: [[date|9. Oktober 2026]] 14:15

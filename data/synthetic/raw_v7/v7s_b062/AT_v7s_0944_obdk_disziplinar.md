@@ -22,7 +22,7 @@ Kammeranwalt: [[person|Wieger van Walsem]]
 Schriftführer: [[person|Hasse Brix]]
 Beschuldigte Rechtsanwältin: [[lawyer|Pat Murer]]
 
-Der Vorsitz stellt fest, dass die Ladung ordnungsgemäß zugestellt wurde. Die Beschuldigte ist persönlich erschienen. Die Zeugen wurden vor der Verhandlung belehrt.
+Der Vorsitz stellt fest, dass die Ladung ordnungsgemäß zugestellt wurde. Die Beschuldigte ist persönlich erschienen. Die Zeugen wurden vor der Verhandlung belehrt. Die Vorbereitung der Verhandlung erfolgte anhand der Akten der Kammer, die dem Senat am [[date|5. Mai 2026]] übermittelt wurden.
 
 Spruch
 
@@ -34,7 +34,7 @@ I. Anzeige und Verfahren
 
 Der Kammeranwalt hat die Anzeige am [[date|11. Dezember 2025]] eingebracht. Die [[organization|Rechtsanwaltskammer für Kärnten]] ([[organization|RAK]]) hat die Anzeige nach Prüfung der Treuhandabrechnungen der Beschuldigten bestätigt. Die Beschuldigte bekennt sich zu einem Teil der Vorwürfe.
 
-Die Beschuldigte ist seit [[date|1. Juli 2014]] als Rechtsanwältin eingetragen und führt eine Kanzlei mit zwei Mitarbeitern. Eine frühere Disziplinarstrafe liegt nicht vor.
+Die Beschuldigte ist seit [[date|1. Juli 2014]] als Rechtsanwältin eingetragen und führt eine Kanzlei mit zwei Mitarbeitern. Eine frühere Disziplinarstrafe liegt nicht vor. Die Kanzlei befindet sich in [[location|Klagenfurt]], die Treuhandbuchhaltung wird seit dem Jahr 2024 extern geprüft.
 
 II. Sachverhalt
 
@@ -80,7 +80,7 @@ VI. Kosten
 
 Die Kosten des Verfahrens trägt die Beschuldigte. Eine Berufung ist binnen zwei Wochen zulässig. Die Verfahrenskosten umfassen die Auslagen für die Ladung der Klienten, die Schreibgebühren und die Entschädigung der Sachverständigen für die Prüfung der Treuhandbuchführung.
 
-Der Vorsitz verkündet den Spruch am Ende der Verhandlung. Die Beschuldigte erklärt, auf Rechtsmittel zu verzichten, behält sich jedoch vor, die Entscheidung zu prüfen.
+Der Vorsitz verkündet den Spruch am Ende der Verhandlung. Die Beschuldigte erklärt, auf Rechtsmittel zu verzichten, behält sich jedoch vor, die Entscheidung zu prüfen. Der Kammeranwalt [[person|van Walsem]] erklärt sein Einverständnis mit der Strafhöhe.
 
 Schluss der Sitzung: 13:45 Uhr.
 

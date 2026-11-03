@@ -55,7 +55,7 @@ Würdigung:
 
 Der Senat hält die Angaben des Zeugen [[person|Florian Prettner]] für glaubwürdig. Sie decken sich mit der Aktenlage, insbesondere mit den Auszügen des Anderkontos. Die Rechtfertigung des Beschuldigten, wonach eine Vereinbarung über ein Erfolgshonorar bestanden habe, ist durch keinen Beleg gestützt.
 
-Der Senat stellt fest, dass der Beschuldigte die Gelder im Umfang von EUR 11.000,00 ohne Berechtigung vom Anderkonto entnommen hat. Die Kammeranwältin [[person|Judith Rechberger]] hat zutreffend darauf hingewiesen, dass die Vereinbarung eines Erfolgshonorars zudem der Schriftform bedarf.
+Der Senat stellt fest, dass der Beschuldigte die Gelder im Umfang von EUR 12.000,00 ohne Berechtigung vom Anderkonto entnommen hat. Die Kammeranwältin [[person|Judith Rechberger]] hat zutreffend darauf hingewiesen, dass die Vereinbarung eines Erfolgshonorars zudem der Schriftform bedarf.
 
 Rechtliche Beurteilung:
 
@@ -67,7 +67,7 @@ Der Senat hat weiter erwogen, dass der Beschuldigte als langjähriger Rechtsanwa
 
 Spruch:
 
-Der Beschuldigte [[lawyer|Raja Lahham]] wird für schuldig erkannt, die Mandantengelder des [[person|Florian Prettner]] im Umfang von EUR 11.000,00 zweckwidrig verwendet zu haben. Über ihn wird eine Geldbuße von EUR 5.000,00 verhängt. Er hat die Kosten des Verfahrens zu tragen.
+Der Beschuldigte [[lawyer|Raja Lahham]] wird für schuldig erkannt, die Mandantengelder des [[person|Florian Prettner]] im Umfang von EUR 12.000,00 zweckwidrig verwendet zu haben. Über ihn wird eine Geldbuße von EUR 5.000,00 verhängt. Er hat die Kosten des Verfahrens zu tragen.
 
 Gegen diesen Spruch ist die Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] zulässig.
 

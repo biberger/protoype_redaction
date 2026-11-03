@@ -11,7 +11,7 @@ Betreff: Ihr Zeichen: [[other_identifier|L/Segal/8773]]
 
 Sehr geehrte Frau [[person|Segal]],
 
-wir haben das Schreiben der [[organization|Sima GmbH]] erhalten. Die [[organization|Sima]] verweist auf die Schaden-Nr. [[other_identifier|43/619006/23]] und möchte den Vorfall auf der Baustelle in [[location|St. Veit an der Glan]] nicht anerkennen. Bitte senden Sie uns bis zum [[date|5. November 2026]] die Fotos des Schadens. Die [[organization|ZTK]] hat ihr Gutachten noch nicht vorgelegt. Sollte die Gegenseite weiterhin bestreiten, werden wir einen Sachverständigen aus dem Bereich der Bauschäden beauftragen.
+wir haben das Schreiben der [[organization|Sima GmbH]] erhalten. Die [[organization|Sima]] verweist auf die Schaden-Nr. [[other_identifier|43/619006/23]] und möchte den Vorfall auf der Baustelle in [[location|St. Veit an der Glan]] nicht anerkennen. Bitte senden Sie uns bis zum [[date|5. November 2026]] die Fotos des Schadens. Die [[organization|ZTK]] hat ihr Gutachten noch nicht vorgelegt. Sollte die Gegenseite weiterhin bestreiten, werden wir einen Sachverständigen aus dem Bereich der Bauschäden beauftragen. Die Kosten dafür werden nach Auftragserteilung gesondert angekündigt. Wir bitten um Mitteilung, ob Ihre Mandantin einer Begehung zustimmt.
 
 Mit freundlichen Grüßen
 [[person|Hackl]]

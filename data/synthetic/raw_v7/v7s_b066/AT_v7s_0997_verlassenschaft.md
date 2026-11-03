@@ -19,7 +19,7 @@ Der unterfertigte öffentliche Notar [[person|Gasperschitz]] wurde mit Beschluss
 
 Die Erben wurden auf Grund des Testaments vom [[date|12. März 2014]] sowie der gesetzlichen Erbfolge ermittelt. Nach dem Ergebnis des Erbenverzeichnisses sind folgende Personen zur Erbschaft berufen:
 
-1. [[person|Wiesner Luciana]], Lebensgefährtin des Erblassers, Erbquote 1/3 auf Grund des Testaments, wohnhaft in [[address|Hauptstraße 17, 4063 Hörsching]].
+1. [[person|Wiesner Luciana]], Lebensgefährtin des Erblassers, Erbquote 1/2 auf Grund des Testaments, wohnhaft in [[address|Hauptstraße 17, 4063 Hörsching]].
 
 2. [[person|Ing. Alwera
 Kindl]], Geburtsdatum: [[date_of_birth|1965-05-02]], Erbquote 1/2 als Tochter des Erblassers, wohnhaft in [[address|4793 Sankt Roman]], Sozialversicherungsnummer SV-Nr. [[social_security_number|3902 020565]].
@@ -32,7 +32,7 @@ a) Liegenschaft, eingetragen im Grundbuch als [[land_register_id|E.Z. 1894]], [[
 
 b) Eine Eigentumswohnung, eingetragen als Grundbuch [[land_register_id|95334 Tyrnau]]/[[land_register_id|EZ: 3239]]. Die Wohnung ist vermietet, der Mietzins beträgt EUR 640,00 monatlich.
 
-c) Ein Kommanditanteil an der [[organization|Buchgraber KG]], [[company_register_number|FN 402756p]], [[tax_id|UID: ATU14754130]]. Der Anteil wurde mit dem Buchwert laut Jahresabschluss 2018 bewertet.
+c) Ein Kommanditanteil an der [[organization|Buchgraber KG]], [[company_register_number|FN 402756p]], UID [[tax_id|ATU14754130]]. Der Anteil wurde mit dem Buchwert laut Jahresabschluss 2018 bewertet.
 
 d) Guthaben auf dem Konto IBAN [[bank_account|AT24 8004 0760 0703 2255]] bei der [[organization|Inntaler Bank registrierte Genossenschaft mit beschränkter Haftung]] ([[organization|IBG]]) in Höhe von EUR 12.418,35 per Todestag.
 
@@ -42,7 +42,7 @@ Die Schulden des Erblassers belaufen sich auf EUR 4.230,00, davon entfallen EUR 
 
 Die Erbenliste ist für alle Beteiligten einsehbar. Einwendungen gegen die Erbquoten sind binnen vier Wochen ab Zustellung dieser Mitteilung schriftlich beim Notar einzubringen. Die Erbin [[person|Ing. Alwera Kindl]] hat bereits erklärt, dass sie die Wohnung behalten möchte und die Lebensversicherung der [[person|Wiesner]] überlassen wird, falls diese den Pflichtteil nicht verlangt.
 
-Die Erbantrittserklärung der [[person|Wiesner]] ist am [[date|14. Juli 2026]] beim Notar eingelangt, sie wurde mit dem Testament vom [[date|12. März 2014]] verglichen. Die Erbantrittserklärung der Tochter [[person|Kindl]] folgte am [[date|28. Juli 2026]].
+Die Erbantrittserklärung der [[person|Wiesner]] ist am [[date|14. Oktober 2019]] beim Notar eingelangt, sie wurde mit dem Testament vom [[date|12. März 2014]] verglichen. Die Erbantrittserklärung der Tochter [[person|Kindl]] folgte am [[date|28. Oktober 2019]].
 
 Rückfragen richten Sie bitte an die Kanzlei unter Tel. [[phone_number|+43 732 529 98 49-59]]. Die Mitteilung ergeht nach Ablauf der Einwendungsfrist in beglaubigter Form.
 

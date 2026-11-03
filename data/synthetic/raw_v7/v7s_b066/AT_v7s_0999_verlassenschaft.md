@@ -16,7 +16,7 @@ GZ: [[case_number|2 A 96/26m]]
 
 Verlassenschaft nach [[person|Marlise Wurz]]
 
-Der Erblasser, [[person|Marlise Wurz]], geboren *[[date_of_birth|10. Februar 1996]], ist am [[date|28.06.2026]] in [[location|Telfs]] verstorben. Der Notar [[person|Barton]] wurde vom [[court|BG Telfs]] als Gerichtskommissär bestellt und hat die Erbenermittlung durchgeführt.
+Der Erblasser, [[person|Marlise Wurz]], geboren *[[date_of_birth|10. Februar 1996]], ist am [[date|28.06.2026]] in [[location|Telfs]] verstorben. Die Erblasserin [[person|Wurz]] war ledig und kinderlos und hatte ihren Wohnsitz seit vielen Jahren in der Gemeinde. Der Notar [[person|Barton]] wurde vom [[court|BG Telfs]] als Gerichtskommissär bestellt und hat die Erbenermittlung durchgeführt.
 
 Der Erblasser hinterlässt ein Testament, das nicht aufgefunden wurde. Die gesetzlichen Erben sind daher nach der Verwandtschaft zu berufen. Folgende Personen haben sich gemeldet:
 

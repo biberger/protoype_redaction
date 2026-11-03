@@ -39,9 +39,15 @@ Zwischensumme netto: EUR 1.400,00
 Umsatzsteuer 20 %: EUR 280,00
 Gesamtbetrag: EUR 1.680,00
 
-Die Honorarnote ist binnen 14 Tagen zur Zahlung fällig. Bitte überweisen Sie den Betrag auf das Konto der Kanzlei oder auf das Konto [[bank_account|AT61 3539 6212 3136 7904]] mit dem Verwendungszweck "Schachner ./. Plischke".
+Bereits bezahlte Vorschüsse wurden in dieser Honorarnote nicht gegengerechnet, weil die Vorschusszahlung vom [[date|05.03.2026]] laut Vollmacht ausdrücklich als Kostenvorschuss für Gerichtsgebühren vereinbart war. Die Eingabegebühr für die Klage wurde unmittelbar von der Mandantin bezahlt und ist hier nicht enthalten.
 
-Die Gebühren wurden nach dem Tarif berechnet, der in der Vollmacht vom [[date|05.03.2026]] vereinbart war. Auslagen für Porto und Kopien sind in den Positionen enthalten.
+Die Honorarnote ist binnen 14 Tagen zur Zahlung fällig. Bitte überweisen Sie den Betrag auf das Konto der Kanzlei oder auf das Konto [[bank_account|AT61 3539 6212 3136 7904]] mit dem Verwendungszweck "[[other_identifier|Schachner ./. Plischke]]".
+
+Die Gebühren wurden nach dem Tarif berechnet, der in der Vollmacht vom [[date|05.03.2026]] vereinbart war. Auslagen für Porto und Kopien sind in den Positionen enthalten. Die Tätigkeit im Zusammenhang mit der Auseinandersetzung gegen [[person|Plischke]] umfasst die Vorbereitung der Klage, die Korrespondenz mit der Gegenseite und die Abstimmung der Beweisanträge mit dem Klienten [[person|Florenz Schachner]].
+
+Bei Rückfragen zu einzelnen Positionen bitten wir um kurze schriftliche Mitteilung, damit wir die betreffenden Leistungen mit den Unterlagen abgleichen können. Eine Änderung der Honorarnote ist nur bei nachweisbaren Rechenfehlern vorgesehen.
+
+Die Umsatzsteuer wurde nach dem Regelsteuersatz ausgewiesen, weil die Leistungen im Inland erbracht wurden und die Kanzlei zur Regelbesteuerung optiert hat.
 
 Mit freundlichen Grüßen
 

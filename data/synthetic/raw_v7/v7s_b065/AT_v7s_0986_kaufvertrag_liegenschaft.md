@@ -13,6 +13,8 @@ ERV-Code: [[other_identifier|P933430]]
 
 KAUFVERTRAG ÜBER EINE LIEGENSCHAFT
 
+zugunsten von [[person|KOVÁCS Ljiljan]] u. a.
+
 [[location|Hüttschlag]], am [[date|21.08.2026]]
 
 I. Vertragsparteien
@@ -32,13 +34,13 @@ Die Käuferinnen und Käufer erwerben die Liegenschaften je zu einem Anteil von 
 
 II. Vorbemerkungen
 
-Die Ehrenreich GmbH ist grundbücherliche Eigentümerin der nachstehend bezeichneten Liegenschaften:
+Die [[organization|Ehrenreich]] ist grundbücherliche Eigentümerin der nachstehend bezeichneten Liegenschaften:
 
 [[land_register_id|KG: 24399 Mieming]] / Einlagezahl [[land_register_id|565]]
 
 Einlagezahl [[land_register_id|247]] [[land_register_id|K.G. Völs]]; [[land_register_id|Parz. 977/28]]
 
-Der Grundbuchsstand wurde am [[date|10.08.2026]] abgefragt. Die Liegenschaften sind lastenfrei, mit Ausnahme der Dienstbarkeit zugunsten des Stromnetzbetreibers. Der Vorvertrag wurde am [[date|02.06.2026]] unterfertigt.
+Der Grundbuchsstand wurde am [[date|10.08.2026]] abgefragt. Die Liegenschaften sind lastenfrei, mit Ausnahme der Dienstbarkeit zugunsten des Stromnetzbetreibers. Der Vorvertrag wurde am [[date|02.06.2026]] unterfertigt. Für die Käufergemeinschaft hat [[person|Bednáriková Karolína]] den Vorvertrag als Vertreterin der übrigen Käuferinnen und Käufer unterzeichnet; die Vollmachten liegen der Kanzlei vor. Die Verkäuferin hat den Vorvertrag ohne Vorbehalt angenommen und auf eine Verlängerung der Frist verzichtet.
 
 Die Treuhandschaft für den Vorvertrag wurde unter Treuhandbuch-Nr. [[other_identifier|2022/867]] geführt. Für die Abwicklung des Kaufvertrags wird eine neue Treuhandschaft unter Treuhandbuch-Nr. [[other_identifier|2025/345]] eröffnet.
 
@@ -50,7 +52,13 @@ III. Kaufgegenstand und Kaufpreis
 
 3. Den Restkaufpreis von EUR 805.000,00 zahlen die Käuferinnen und Käufer binnen acht Wochen nach Vertragsunterfertigung auf das Treuhandkonto der Kanzlei. Die Zahlung ist erst mit Gutschrift erfolgt.
 
-4. Die Kaufpreisaufteilung auf die einzelnen Liegenschaften ergibt sich aus der beigefügten Aufstellung. Die Aufteilung dient ausschließlich der Berechnung der Grunderwerbsteuer.
+4. Die Kaufpreisaufteilung auf die einzelnen Liegenschaften ergibt sich aus der beigefügten Aufstellung. Die Aufteilung dient ausschließlich der Berechnung der Grunderwerbsteuer und stellt sich wie folgt dar:
+
+Liegenschaft Mieming (KG 24399, Einlagezahl 565) EUR 540.000,00
+Liegenschaft Völs (Einlagezahl 247, Parz. 977/28) EUR 355.000,00
+Summe EUR 895.000,00
+
+5. Die Käuferinnen und Käufer haben die Miteigentumsanteile je zu einem Viertel vereinbart. Ein Anspruch auf Aufhebung der Miteigentümergemeinschaft wird für die Dauer von zehn Jahren ausgeschlossen. Die Parteien halten fest, dass die Liegenschaft Mieming als Wohnhaus und die Liegenschaft Völs als Garten- und Stellplatzfläche genutzt werden sollen.
 
 IV. Aufsandung und Einverleibung
 

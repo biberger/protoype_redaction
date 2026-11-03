@@ -78,7 +78,9 @@ Betreff: AW: AW: Schaden-Nr. [[other_identifier|57/664896/22]]
 
 Sehr geehrter Herr [[person|Allmayer]],
 
-das Gutachten von Herrn [[person|Pesendorfer]] ist uns bis heute nicht zugegangen. Wir ersuchen um Übersendung bis Ende der Woche. Die [[organization|BHG]] behält sich vor, die Schadenssumme von EUR 14.200,00 gerichtlich geltend zu machen.
+wir bitten Sie zudem, uns die Fotodokumentation der Besichtigung zu übermitteln, die Herr [[person|Pesendorfer]] am [[date|29.05.2026]] angefertigt hat. Ein Ersatz der Lagerware kann erst nach Vorlage der Liste erfolgen, die wir Ihnen gesondert übermitteln werden.
+
+Das Gutachten von Herrn [[person|Pesendorfer]] ist uns bis heute nicht zugegangen. Wir ersuchen um Übersendung bis Ende der Woche. Die [[organization|BHG]] behält sich vor, die Schadenssumme von EUR 14.200,00 gerichtlich geltend zu machen.
 
 Mit freundlichen Grüßen
 

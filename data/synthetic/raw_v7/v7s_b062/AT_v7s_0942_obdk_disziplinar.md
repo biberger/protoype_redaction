@@ -51,7 +51,7 @@ II. Beweiswürdigung
 
 Der Senat stützt sich auf die Treuhandabrechnung, den Kontoauszug und die Aussage des Beschwerdeführers. Die Darstellung des Kammeranwalts [[person|Pancu]] wird durch die Unterlagen gestützt. Der Beschuldigte hat den Vorgang vom [[date|2. September 2024]] eingeräumt.
 
-Der Senat hält den Beschwerdeführer für glaubwürdig. Seine Angaben zu den Zahlungen decken sich mit den Kontoauszügen. Die Angaben des Beschuldigten zur Vorstreckung sind hingegen nicht belegt. Eine Rechnung über die Kanzleikosten wurde nicht vorgelegt. Die Angaben des Beschwerdeführers zur Höhe des Saldos wurden durch die Kammer überprüft. Die Kammer hat die Treuhandabrechnung für das Jahr 2025 mit den Kontoauszügen abgeglichen; die Differenz von EUR 3.200,00 bestand tatsächlich. Der Senat folgt dieser Feststellung.
+Der Senat hält den Beschwerdeführer für glaubwürdig. Widersprüche in seiner Darstellung konnte der Senat nicht feststellen. Seine Angaben zu den Zahlungen decken sich mit den Kontoauszügen. Die Angaben des Beschuldigten zur Vorstreckung sind hingegen nicht belegt. Der Beschuldigte selbst konnte keine Quittung über die Vorstreckung vorlegen. Eine Rechnung über die Kanzleikosten wurde nicht vorgelegt. Die Angaben des Beschwerdeführers zur Höhe des Saldos wurden durch die Kammer überprüft. Die Kammer hat die Treuhandabrechnung für das Jahr 2025 mit den Kontoauszügen abgeglichen; die Differenz von EUR 3.200,00 bestand tatsächlich. Der Senat folgt dieser Feststellung. Der Beschwerdeführer hat zudem eine Aufstellung seiner Zahlungen vorgelegt, die mit den Kontoauszügen übereinstimmt. Der Senat hat diese Aufstellung in die Akten aufgenommen und als Beweismittel gewürdigt.
 
 III. Rechtliche Beurteilung
 
@@ -63,15 +63,15 @@ Der Senat hat berücksichtigt, dass die [[organization|RAK Kärnten]] die Anzeig
 
 IV. Strafbemessung
 
-Mildernd sind das teilweise Geständnis, die Rückzahlung des Restbetrages am [[date|18.12.2024]] und die bisherige Unbescholtenheit. Erschwerend ist die lange Dauer der Verzögerung zu werten. Der Senat hält eine Geldbuße von EUR 3.000,00 für angemessen. Zusätzlich wird der Beschuldigte verpflichtet, den Saldo von EUR 3.200,00 binnen vier Wochen an den Beschwerdeführer zu überweisen. Die Geldbuße ist binnen vier Wochen nach Rechtskraft auf das Konto der Kammer zu überweisen. Eine Ratenzahlung wurde nicht bewilligt, weil der Beschuldigte keine ausreichenden Angaben zu seinen Einkünften gemacht hat.
+Mildernd sind das teilweise Geständnis, die Rückzahlung des Restbetrages am [[date|18.12.2024]] und die bisherige Unbescholtenheit. Erschwerend ist die lange Dauer der Verzögerung zu werten. Der Senat hält eine Geldbuße von EUR 3.000,00 für angemessen. Der Beschuldigte hat keine Vorstrafen, jedoch wurde die Pflichtverletzung über einen längeren Zeitraum wiederholt, was der Senat als erschwerend wertet. Zusätzlich wird der Beschuldigte verpflichtet, den Saldo von EUR 3.200,00 binnen vier Wochen an den Beschwerdeführer zu überweisen. Die Geldbuße ist binnen vier Wochen nach Rechtskraft auf das Konto der Kammer zu überweisen. Eine Ratenzahlung wurde nicht bewilligt, weil der Beschuldigte keine ausreichenden Angaben zu seinen Einkünften gemacht hat.
 
 V. Beschluss
 
 Der Beschuldigte [[lawyer|Ronald Marko]] ist schuldig, die Pflichten nach [[legal_norm|§ 43a Abs 4 RAO]] verletzt zu haben. Die Kosten des Verfahrens trägt der Beschuldigte. Die Kosten umfassen die Pauschalgebühr der Kammer und die Auslagen für die Zeugeneinvernahme des Beschwerdeführers.
 
-Die Verhandlung wurde um 13:10 Uhr geschlossen. Der Beschluss wurde den Parteien am Ende der Verhandlung mündlich verkündet und wird schriftlich ausgefertigt.
+Die Verhandlung wurde um 13:10 Uhr geschlossen. Der Vorsitz hat den Parteien eine Abschrift der Niederschrift angeboten; der Beschwerdeführer hat darauf verzichtet. Der Beschluss wurde den Parteien am Ende der Verhandlung mündlich verkündet und wird schriftlich ausgefertigt.
 
-Die Senatsvorsitzende [[judge|Schwarzinger]] verlas den Beschluss; der Schriftführer [[person|Hanus]] protokollierte die Verkündung. Der Kammeranwalt [[person|Pancu]] und der Beschwerdeführer [[person|Gharman]] haben die Verkündung zur Kenntnis genommen.
+Die Senatsvorsitzende [[judge|Schwarzinger]] verlas den Beschluss; der Schriftführer [[person|Hanus]] protokollierte die Verkündung. Die Protokollführung wurde nach den Richtlinien der Kammer vorgenommen. Der Kammeranwalt [[person|Pancu]] und der Beschwerdeführer [[person|Gharman]] haben die Verkündung zur Kenntnis genommen.
 
 Ausgefertigt am [[date|12. Mai 2026]]
 

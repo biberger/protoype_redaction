@@ -50,6 +50,22 @@ Die Rückbuchung von EUR 700,00 mindert den Unrechtsgehalt, beseitigt ihn aber n
 
 Die von der Kammeranwältin beantragte Geldbuße im oberen Bereich des Rahmens hält der Senat nicht für geboten. Er berücksichtigt die bisherige Unbescholtenheit der Beschuldigten und ihr Geständnis, verhängt jedoch eine Geldbuße, die den Unrechtsgehalt erkennbar macht.
 
+Der Beschuldigte hat in seiner Stellungnahme vom [[date|03.07.2025]] ausgeführt, die Überweisung vom [[date|08.04.2025]] sei auf Anweisung der Klientin erfolgt, die einen Teil der Schuld direkt begleichen wollte. Die Klientin [[person|Santis]] hat diese Darstellung in der Verhandlung ausdrücklich bestritten und darauf verwiesen, dass sie eine solche Anweisung weder erteilt noch unterschrieben hat. Im Akt befindet sich auch keine Weisung in Textform.
+
+Die Kanzleimitarbeiterin [[person|Gabriele Ruhnke]] wurde als Zeugin vernommen. Sie hat ausgesagt, dass sie die Überweisung auf Anweisung der Beschuldigten vorbereitet habe und die Verwendungszwecke nicht geprüft habe. Die Zeugin gab zudem an, dass sie zu diesem Zeitpunkt keine Vollmacht für das Treuhandkonto besessen habe. Der Senat hält diese Aussage für glaubwürdig, sie entlastet die Beschuldigte jedoch nicht, weil die Verantwortung für die Verwahrung bei der Rechtsanwältin liegt.
+
+Die Frage, ob die Honorarforderung im Zeitpunkt der Entnahme fällig war, hat der Senat geprüft. Eine Honorarvereinbarung wurde nach den Feststellungen erst im Mai 2025 getroffen, die Leistungen wurden überwiegend im Februar 2025 erbracht. Eine vor der Entnahme erstellte Honorarnote existiert nicht. Die Entnahme war daher auch unter dem Gesichtspunkt der Fälligkeit unzulässig.
+
+Die Beschuldigte hat außerdem geltend gemacht, die Kammer habe das Verfahren verzögert und die Beschwerde der Klientin sei verspätet eingebracht worden. Der Senat sieht darin keinen Verfahrensmangel, weil die Beschwerde innerhalb der Frist des Disziplinarstatuts eingebracht wurde und die Verzögerung nicht zu einer Verjährung führte.
+
+IV a. Rechtliche Würdigung im Einzelnen
+
+Die Pflicht zur getrennten Verwahrung gilt unabhängig davon, ob der Rechtsanwalt im Einzelfall einen Nachteil des Klienten befürchtet. Die Entnahme von Treuhandgeldern auf das Geschäftskonto ist eine Verfügung über fremdes Vermögen, die der Rechtsanwalt nur auf Grund einer ausdrücklichen Weisung vornehmen darf. Fehlt diese Weisung, ist die Verfügung unzulässig, und zwar auch dann, wenn der Rechtsanwalt später den Betrag zurückzahlt.
+
+Die Rückzahlung von EUR 700,00 am [[date|22.04.2025]] ist ein Umstand der Strafbemessung, nicht des Schuldspruchs. Die Rückzahlung des Restbetrages erst am [[date|19.06.2025]] zeigt zudem, dass die Beschuldigte die Verfügbarkeit der Gelder über einen längeren Zeitraum nicht gewährleistete.
+
+Die Kammeranwältin [[person|Scholten]] hat zutreffend darauf hingewiesen, dass das Vertrauen der rechtsuchenden Bevölkerung in die sichere Verwahrung fremder Gelder durch Rechtsanwälte den Kern der Berufsausübung betrifft. Der Senat teilt diese Auffassung.
+
 V. Kosten
 
 Die Kosten des Verfahrens setzen sich aus der Pauschale von EUR 400,00, den Kanzleiauslagen von EUR 150,00 und der Vergütung der Schriftführung von EUR 140,00 zusammen. Insgesamt betragen sie EUR 690,00.

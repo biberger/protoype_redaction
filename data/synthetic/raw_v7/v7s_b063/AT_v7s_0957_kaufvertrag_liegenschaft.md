@@ -82,6 +82,8 @@ X. Gewährleistung
 
 Die Verkäuferin leistet Gewähr für die Lastenfreiheit der Liegenschaft zum Zeitpunkt der Übergabe und für die Richtigkeit der Angaben zur Wohnnutzfläche. Eine Gewähr für den Zustand der Heizungs- und Elektroanlagen wird ausgeschlossen, soweit die Käufer diese bei der Besichtigung erkennen konnten.
 
+Die Verkäuferin bestätigt zudem, dass keine Vorkaufsrechte Dritter bestehen und dass keine Pachtverträge eingetragen sind.
+
 Die Käufer erklären, die Liegenschaft im gegenwärtigen Zustand zu übernehmen. Eine Haftung für die Bodenbeschaffenheit wird nicht übernommen. Eine Altlastenerkundung ist nicht durchgeführt worden.
 
 XII. Mietverhältnisse

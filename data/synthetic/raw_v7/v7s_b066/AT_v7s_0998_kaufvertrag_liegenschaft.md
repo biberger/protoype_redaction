@@ -35,7 +35,7 @@ II. Kaufpreis und Zahlung
 
 1. Der Kaufpreis beträgt EUR 412.000,00 (in Worten: vierhunderttausendzweihundert Euro) zuzüglich Grunderwerbsteuer und Eintragungsgebühr.
 
-2. Der Kaufpreis ist binnen vierzehn Tagen nach Unterfertigung dieses Vertrages auf das Treuhandkonto der einschreitenden Rechtsanwälte mit der IBAN [[bank_account|AT51 8397 2769 3044 0372]] zu erlegen. Die Verwahrung erfolgt im Treuhandbuch unter der Nummer [[other_identifier|TH-Nr. 2022/454]].
+2. Der Kaufpreis ist binnen vierzehn Tagen nach Unterfertigung dieses Vertrages auf das Treuhandkonto der einschreitenden Rechtsanwälte mit der IBAN [[bank_account|AT51 8397 2769 3044 0372]] zu erlegen. Die Verwahrung erfolgt im Treuhandbuch unter der TH-Nr. [[other_identifier|2022/454]].
 
 3. Die Auszahlung an die Verkäufer erfolgt erst nach Vorliegen der Lastenfreistellung, der Vorlage der Unbedenklichkeitsbescheinigung des Finanzamtes und der Eintragung des Eigentumsrechts zugunsten des Käufers im Grundbuch.
 
@@ -54,6 +54,22 @@ V. Gewährleistung und Haftung
 1. Die Verkäufer leisten Gewähr dafür, dass die Liegenschaft frei von bücherlichen Lasten übergeben wird, mit Ausnahme der im Grundbuch ersichtlichen Dienstbarkeiten.
 
 2. Für Mängel an Gebäuden wird keine Gewähr übernommen. Die Parteien haben die Bestimmungen des [[legal_norm|§ 932 ABGB]] ausdrücklich abbedungen.
+
+VI. Grunderwerbsteuer, Kosten und Abgaben
+
+1. Die Grunderwerbsteuer ist vom Käufer zu tragen und wird aus dem Kaufpreis nicht abgezogen. Die Anzeige an das Finanzamt erfolgt durch die einschreitenden Rechtsanwälte binnen der gesetzlichen Frist.
+
+2. Die Höhe der Eintragungsgebühr richtet sich nach dem Wert der Liegenschaft, der mit dem Kaufpreis übereinstimmt. Eine Wertsicherung ist nicht vereinbart.
+
+3. Die Verkäufer erklären, dass für die Liegenschaft keine Vorkaufsrechte bestehen und dass sie keine Abgabenrückstände gegenüber der Gemeinde haben. Sollte sich das Gegenteil herausstellen, ist der Rückstand aus dem Kaufpreis zu begleichen, bevor die Auszahlung erfolgt.
+
+4. Zur Bereinigung allfälliger Pfandrechte verpflichten sich die Verkäufer, Löschungserklärungen der finanzierenden Bank beizubringen. Der Betrag, der zur Ablöse eines Pfandrechts erforderlich ist, wird unmittelbar vom Treuhandkonto überwiesen.
+
+VII. Vollmacht
+
+1. Die Verkäufer erteilen den einschreitenden Rechtsanwälten Vollmacht zur Einbringung dieses Vertrages beim Grundbuchsgericht, zur Stellung aller hierfür erforderlichen Anträge und zur Entgegennahme von Bescheiden.
+
+2. Die Vollmacht erlischt nicht mit dem Tod eines Verkäufers. Die Käuferin erteilt den Rechtsanwälten dieselbe Vollmacht für ihren Bereich.
 
 VI. Schlussbestimmungen
 
