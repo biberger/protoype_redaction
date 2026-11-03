@@ -45,6 +45,10 @@ Datum | Vorgang | Betrag in EUR | Klient | Treuhandnummer
 [[date|19. Februar 2026]] | Zahlungseingang zweiter Kaufpreisteil | 60.000,00 | [[person|Crispinus Obermaier]] | TH-Nr. [[other_identifier|2020/241]]
 [[date|6. März 2026]] | Honorarzahlung an Beschuldigten | 14.500,00 | [[person|Crispinus Obermaier]] | TH-Nr. [[other_identifier|2020/241]]
 
+2a. Die Kaufvertragsurkunde vom [[date|9. Jänner 2026]] sieht vor, dass die Übertragung der Geschäftsanteile erst nach vollständiger Zahlung des Kaufpreises im Firmenbuch eingetragen wird. Die Kaufpreiszahlungen waren in zwei Teilbeträge gegliedert, wobei der zweite Teilbetrag erst nach Vorlage einer Bestätigung der Bank über die Lastenfreiheit der Anteile fällig werden sollte. Diese Bestätigung lag im Zeitpunkt der Auszahlung vom [[date|2. Februar 2026]] nicht vor.
+
+2b. Der Beschuldigte war im Kaufvertrag als Treuhänder bestellt und hatte nach den Vertragsbedingungen die Pflicht, die Gelder ausschließlich nach Maßgabe der vertraglich festgelegten Zahlungsbedingungen auszuzahlen. Eine Abweichung von diesen Bedingungen bedurfte der schriftlichen Zustimmung beider Parteien.
+
 3. Die Auszahlung vom [[date|2. Februar 2026]] erfolgte an den Verkäufer, bevor der Kaufvertrag vollständig erfüllt war und bevor die Zustimmung des Klienten [[person|Ruetz]] vorlag. Der Beschuldigte hat dies damit begründet, der Klient habe am Telefon eine Vorabzahlung genehmigt. Eine schriftliche Dokumentation dazu liegt nicht vor.
 
 4. Die [[organization|RAK Wien]] hat in ihrer Stellungnahme darauf hingewiesen, dass die Honorarzahlung vom [[date|6. März 2026]] an den Beschuldigten erfolgte aus dem Treuhandkonto, obwohl die Honorarnote erst am [[date|20. März 2026]] übermittelt wurde. Der Klient [[person|Obermaier]] hat die Honorarnote beanstandet, weil sie einen höheren Betrag auswies als vereinbart.
@@ -59,6 +63,10 @@ Datum | Vorgang | Betrag in EUR | Klient | Treuhandnummer
 
 Beweiswürdigung
 
+Die Zeugin [[person|Esther Lindinger]], die als Notariatskanzleikraft die Urkunde errichtet hatte, bestätigte, dass die Bedingungen für die Auszahlung ausdrücklich in der Urkunde festgehalten waren und dass sie den Beschuldigten vor dem Vertragsabschluss darauf hingewiesen habe. Ihre Aussage ist für den Disziplinarrat glaubwürdig, weil sie sich mit der Urkunde deckt.
+
+Der Disziplinarrat hat außerdem die Honorarnote vom [[date|20. März 2026]] geprüft. Sie weist eine Pauschale aus, die sich nicht auf einzelne Leistungen zurückführen lässt. Eine solche Pauschalabrechnung ist für Treuhandgelder nur zulässig, wenn der Klient vorab zugestimmt hat, was hier nicht belegt ist.
+
 Der Disziplinarrat stützt sich auf die Kontoauszüge, das Treuhandbuch und die Aussagen der Beschwerdeführer. Die Behauptung des Beschuldigten, eine Vorabzahlung sei mündlich vereinbart worden, ist nicht belegt. Der Disziplinarrat hält die Angaben der Beschwerdeführer für glaubwürdig, weil sie sich mit den Unterlagen decken.
 
 Die Angaben des Beschwerdeführers [[person|Ruetz]] zur Höhe der Zustimmung sind nicht durch ein schriftliches Dokument belegt. Gleichwohl zeigt die Kontenbewegung, dass die Auszahlung um mehr als das Doppelte über dem von ihm genannten Betrag lag. Der Disziplinarrat sieht darin einen wesentlichen Umstand, der das Verschulden erhöht.
@@ -72,6 +80,10 @@ Die Verwahrung von Treuhandgeldern unterliegt strengen Anforderungen. Nach [[leg
 Der Disziplinarrat berücksichtigt mildernd die vollständige Wiedereinzahlung des Fehlbetrages und die bisherige Unbescholtenheit des Beschuldigten. Erschwerend wirkt die Höhe der betroffenen Beträge.
 
 Die Verjährung nach [[legal_norm|§ 56 RAO]] ist nicht eingetreten. Die Entscheidung über die Kosten folgt aus den Bestimmungen der [[legal_norm|Rechtsanwaltsordnung]].
+
+Der Disziplinarrat weist darauf hin, dass die Kammeranwaltschaft in ihrem Antrag auf eine mögliche Verletzung der Aufklärungspflicht gegenüber den Klienten hingewiesen hat. Dieser Vorwurf war nicht Gegenstand der Anzeige und wird daher nicht gesondert geprüft. Der Disziplinarrat sieht jedoch in der fehlenden Information der Klienten über den Stand der Treuhandschaft einen Umstand, der bei der Bemessung der Geldbuße zu berücksichtigen ist.
+
+Die Beschuldigte hat im Verfahren keine Bereitschaft erkennen lassen, die Verfahrensführung durch eine externe Prüfung der Kanzleibuchhaltung zu unterstützen. Der Disziplinarrat wertet dies nicht als Erschwernis, weil eine solche Prüfung nicht ausdrücklich verlangt wurde.
 
 Der Disziplinarrat hat ferner geprüft, ob die Vorgänge eine Untersagung der Vertretung von Treugebern rechtfertigen. Dies ist nicht der Fall, weil der Beschuldigte die Wiedereinzahlung vollständig vorgenommen hat und seither keine weiteren Beanstandungen bekannt geworden sind. Die Kammeranwaltschaft hat in der Sitzung ausdrücklich darauf hingewiesen, dass die Organisation der Kanzlei verbessert werden muss.
 

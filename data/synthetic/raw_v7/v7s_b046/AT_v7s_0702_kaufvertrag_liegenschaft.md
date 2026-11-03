@@ -42,6 +42,12 @@ II. Kaufgegenstand
 
 Die Verkäuferin verkauft und übergibt den Käufern die Liegenschaft samt allen Bestandteilen und dem Zubehör. Ausgenommen ist die Dienstbarkeit des Geh- und Fahrrechtes, die zugunsten des Nachbargrundstückes eingetragen ist und von den Käufern übernommen wird.
 
+II a. Dienstbarkeiten und Nachbarschaft
+
+Die Verkäuferin hat mit dem Eigentümer des Nachbargrundstückes eine Vereinbarung über die gemeinsame Nutzung der Zufahrt getroffen. Diese Vereinbarung wird von den Käufern übernommen und ist im Grundbuch ersichtlich. Die Käufer verpflichten sich, die Zufahrt in einem Zustand zu halten, der den Anforderungen der Nachbarschaft entspricht; die Kosten der Schneeräumung werden von den Käufern im Verhältnis ihrer Anteile getragen.
+
+Ein Vorkaufsrecht zugunsten Dritter besteht nicht. Die Käufer haben von dem Umstand Kenntnis, dass auf dem Nachbargrundstück ein Leitungsrecht für eine Wasserleitung eingeräumt ist, das im Grundbuch eingetragen ist. Die Verkäuferin erklärt, dass ihr keine weiteren Dienstbarkeiten bekannt sind.
+
 III. Kaufpreis
 
 1. Der Kaufpreis beträgt EUR 289.500,00 und ist wie folgt zu entrichten:
@@ -54,6 +60,10 @@ nach Eintragung des Eigentumsrechtes | 81.500,00 | Anderkonto der Kanzlei
 2. Die Zahlungen sind auf das Treuhandkonto mit der IBAN [[bank_account|AT39 3683 3986 6718 2795]] zu leisten. Die Treuhandschaft wird unter der Nr. [[other_identifier|2018/114]] geführt.
 
 3. Die Käufer haften für den Kaufpreis zur ungeteilten Hand. Ein Zinsverzug tritt nach Ablauf von 14 Tagen nach Fälligkeit ein.
+
+4. Die Grunderwerbsteuer nach dem Grunderwerbsteuergesetz beträgt auf Grundlage des Kaufpreises EUR 14.475,00 und wird von den Käufern zu gleichen Teilen getragen. Die Eintragungsgebühr wird nach dem Wert der Liegenschaft berechnet, der dem Kaufpreis entspricht. Die Vorauszahlung dieser Abgaben erfolgt aus dem ersten Teilbetrag.
+
+5. Eine Wertsicherung des Kaufpreises ist nicht vereinbart. Die Parteien halten fest, dass der Kaufpreis auf Basis eines Verkehrswertgutachtens vom [[date|17.09.2026]] ermittelt wurde, das bei der Kanzlei einsehbar ist.
 
 IV. Aufsandung
 
@@ -75,11 +85,24 @@ Die Kanzlei ist mit der Abwicklung betraut. Die Parteien erteilen der Kanzlei Vo
 
 Die Käufer sind durch die Kanzlei darüber belehrt worden, dass der Vertrag nur bei Einhaltung der Schriftform wirksam ist.
 
-VIII. Schlussbestimmungen
+VIII. Rücktritt und Verzug
+
+1. Die Verkäuferin ist berechtigt, vom Vertrag zurückzutreten, wenn der erste Teilbetrag des Kaufpreises nicht binnen der vereinbarten Frist auf dem Anderkonto eingegangen ist. Die Rücktrittserklärung ist den Käufern über die Kanzlei zuzustellen.
+
+2. Im Fall des Verzuges mit einer Kaufpreisrate sind die Käufer verpflichtet, die Verzugszinsen nach [[legal_norm|§ 1333 ABGB]] zu entrichten. Die Verkäuferin kann nach erfolgloser Mahnung mit einer Nachfrist von vier Wochen vom Vertrag zurücktreten.
+
+3. Die Verkäuferin verpflichtet sich, bei einem Rücktritt die bereits geleisteten Zahlungen binnen 14 Tagen nach Abzug der angefallenen Kosten zurückzuzahlen.
+
+IX. Datenschutz
+
+Die Parteien stimmen der Verarbeitung ihrer personenbezogenen Daten für die Zwecke der Vertragsabwicklung zu. Die Kanzlei verarbeitet diese Daten im Einklang mit der [[legal_norm|Datenschutz-Grundverordnung]] und dem [[legal_norm|DSG]]. Die Daten werden nach Abschluss der Abwicklung gemäß den gesetzlichen Aufbewahrungsfristen gespeichert.
+
+X. Schlussbestimmungen
 
 1. Mündliche Nebenabreden bestehen nicht. Änderungen bedürfen der Schriftform.
 2. Die Kosten der Errichtung trägt der Käufer.
 3. Sollte eine Bestimmung unwirksam sein, bleibt der Vertrag im Übrigen wirksam.
+4. Die Vertragsparteien bestätigen, dass ihnen der Vertrag vor der Unterfertigung vollständig vorgelesen wurde und dass sie ihn verstanden haben. Ein Exemplar wird jeder Partei ausgehändigt.
 
 Für die Verkäuferin:
 Unterschrift

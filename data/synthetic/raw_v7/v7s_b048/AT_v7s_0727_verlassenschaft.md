@@ -11,7 +11,7 @@ E: [[email|office@buchner.at]]  W: www.buchner.at
 UID: [[tax_id|ATU07243286]]
 [[organization|HYPO NOE Landesbank für Niederösterreich und Wien AG]] IBAN: [[bank_account|AT90 9751 2050 1264 6714]] BIC: [[bank_account|SPIHAT22]]
 
-Verlassenschaftssache nach [[person|Vidal Ornstein]], GEB: [[date_of_birth|24.03.1964]], zuletzt wohnhaft in Kufstein, verstorben am [[date|19.05.2025]]
+Verlassenschaftssache nach [[person|Vidal Ornstein]], GEB: [[date_of_birth|24.03.1964]], zuletzt wohnhaft in [[location|Kufstein]], verstorben am [[date|19.05.2025]]
 
 Abhandlungsgericht: [[court|Bezirksgericht Kufstein]]
 
@@ -19,7 +19,7 @@ Gerichtsakt: [[case_number|2 A 214/25x]]
 
 Eröffnung der Verlassenschaft
 
-Das [[court|BG Kufstein]] hat mit Beschluss vom [[date|2. Juni 2025]] die Verlassenschaftsabhandlung nach dem Erblasser eröffnet und mich mit der Aufnahme des Nachlassinventars beauftragt. Der Erblasser war ein Staatsangehöriger von [[country|Afghanistan]] und hat seinen letzten gewöhnlichen Aufenthalt in Tirol gehabt.
+Das [[court|BG Kufstein]] hat mit Beschluss vom [[date|2. Juni 2025]] die Verlassenschaftsabhandlung nach dem Erblasser eröffnet und mich mit der Aufnahme des Nachlassinventars beauftragt. Der Erblasser war ein Staatsangehöriger von [[country|Afghanistan]] und hat seinen letzten gewöhnlichen Aufenthalt in [[location|Tirol]] gehabt.
 
 Das Testament vom [[date|11. Februar 2019]] enthält ein Vermächtnis zugunsten von [[person|Ing. Hansl Waldmann]], geb. [[date_of_birth|26. Dezember 1954]]. Der Vermächtnisnehmer hat das Vermächtnis über ein Wertpapierdepot angenommen. Die übrigen Erben sind gesetzliche Erben nach [[legal_norm|§ 730 ABGB]], weil das Testament nur hinsichtlich des Vermächtnisses wirksam ist.
 
@@ -28,8 +28,9 @@ Erbberechtigte
 Die Erbberechtigten sind wie folgt verzeichnet:
 
 1. [[person|Juliane Miesenböck]], Erbquote 1/4
-2. [[person|Melania Savarese]], geboren am [[date_of_birth|1947-01-07]], Erbquote 1/4
-3. [[person|Philomele Pototschnig]] *[[date_of_birth|17.06.1971]], Erbquote 1/6
+2. [[person|Melania Savarese]], geboren am [[date_of_birth|1947-01-07]], Erbquote 1/4, [[address|8342 Grabersdorf]]
+3. [[person|Philomele
+Pototschnig]] *[[date_of_birth|17.06.1971]], Erbquote 1/6
 4. [[person|Janet Afritsch]], GEB: [[date_of_birth|20. Mai 1957]], Erbquote 1/3
 
 Der Erblasser hat keine Kinder hinterlassen. Die Erbantrittserklärungen sind bei der Verlassenschaftsabhandlung abgegeben worden. Die Erben haben die Anschriften bekannt gegeben, die in der Erbenliste festgehalten sind.
@@ -40,7 +41,7 @@ Die Liegenschaften des Erblassers sind im Grundbuch wie folgt eingetragen:
 
 a) Einlagezahl [[land_register_id|3260]], [[land_register_id|GB 32213 Kennelbach]]; [[land_register_id|Gst 38/24]]
 b) [[land_register_id|433/Fresach]] ([[court|BG Kufstein]])
-c) Die Eigentumswohnung im Haus Hochstraße 12, deren Eintragung unter [[land_register_id|W 4]] erfolgt, ist mit einem Wohnrecht zugunsten der Erbin [[person|Afritsch]] belastet.
+c) Die Eigentumswohnung im Haus [[address|Hochstraße 12]], deren Eintragung unter [[land_register_id|W 4]] erfolgt, ist mit einem Wohnrecht zugunsten der Erbin [[person|Afritsch]] belastet.
 
 Der Verkehrswert der Liegenschaften wurde von einem beeideten Sachverständigen mit 412.000 Euro festgesetzt. Auf den Liegenschaften lastet eine Hypothek der [[organization|HYPO NOE Landesbank für Niederösterreich und Wien AG]] in Höhe von 96.000 Euro.
 
@@ -58,7 +59,7 @@ Die Verlassenschaft bleibt bis zur Einantwortung im Besitz der Liegenschaften. D
 
 Ergänzende Angaben
 
-Der Erblasser war zuletzt als Kraftfahrer beschäftigt. Sein Dienstverhältnis endete mit dem Todestag. Die Abfertigung ist an die Erben gemäß [[legal_norm|§ 23 AngG]] auszuzahlen.
+Der Erblasser war zuletzt als Kraftfahrer beschäftigt. [[person|Ornsteins]] Dienstverhältnis endete mit dem Todestag. Die Hausverwaltung ist unter [[phone_number|0316/9185631-40]] erreichbar, sie hat die Abrechnung der Betriebskosten für das Jahr 2025 vorgelegt. Die Abfertigung ist an die Erben gemäß [[legal_norm|§ 23 AngG]] auszuzahlen.
 
 Die Erben haben die Nachlassverbindlichkeiten anerkannt. Die Erbquoten sind im Inventar unter Berücksichtigung des Vermächtnisses festgesetzt, das vorab zu erfüllen ist, und werden nach [[legal_norm|§§ 143, 145 AußStrG]] zur Einantwortung vorgelegt.
 

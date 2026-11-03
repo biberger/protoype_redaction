@@ -84,7 +84,7 @@ Die Beschuldigte war in der Verhandlung durch den Rechtsanwalt [[lawyer|Dr. Gott
 
 Die Mandantin [[person|Acimovic]] wurde in der Verhandlung als Zeugin gehört. Sie bestätigte, dass sie der Beschuldigten nie eine Vollmacht zur Entnahme von Geldern erteilt habe und dass sie von der Auszahlung an die Gegenseite erst aus einem Schreiben der Gegenseite erfahren habe.
 
-Der Kammeranwalt [[person|Androschin]] hielt dem entgegen, dass die Beschuldigte selbst dann verpflichtet gewesen wäre, die Mandanten über den Stand der Auszahlungen zu informieren, wenn Fehler bei der Post auftreten. Dieser Auffassung schließt sich der Senat an.
+Die Kammeranwältin [[person|Androschin]] hielt dem entgegen, dass die Beschuldigte selbst dann verpflichtet gewesen wäre, die Mandanten über den Stand der Auszahlungen zu informieren, wenn Fehler bei der Post auftreten. Dieser Auffassung schließt sich der Senat an.
 
 4e. Wiedergutmachung
 

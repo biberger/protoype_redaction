@@ -66,6 +66,14 @@ Der Zeuge [[person|Schachner]] hat in seiner Aussage angegeben, er habe die Ausk
 
 Die Klägerin hat den Sachverständigenbeweis angeboten. Das Erstgericht hat dazu keine Feststellung getroffen.
 
+III a. Zum Vorbringen der Beklagten im Verfahren erster Instanz
+
+Die Beklagte hat im Verfahren erster Instanz vorgebracht, die Auskunft sei lediglich als vorläufige Information gedacht gewesen. Diese Behauptung findet im Schreiben vom [[date|3. März 2025]] keine Stütze. Das Schreiben enthält vielmehr die ausdrückliche Formulierung, dass die Auskunft verbindlich ist, und trägt den Stempel der zuständigen Dienststelle.
+
+Der Zeuge [[person|Einberger]] hätte zu diesem Punkt Angaben machen können, weil er die Auskunft im Auftrag der Behörde geprüft hat. Auch der zuständige Sachbearbeiter hat in seiner Aussage im Vorverfahren bestätigt, dass die Auskunft intern als verbindlich behandelt wurde. Diese Aussage hat das Erstgericht nicht verwertet, obwohl sie im Akt lag.
+
+Die Klägerin verweist ferner darauf, dass die [[organization|Finanzprokuratur]] in ihrem Schreiben vom [[date|20. Juni 2025]] die Haftung nicht mit dem Inhalt der Auskunft, sondern mit dem Einwand der Verjährung begründet hat. Diese Argumentation hat das Erstgericht nicht aufgegriffen. Eine Verjährung ist nach den Feststellungen nicht eingetreten, weil die Klage innerhalb von drei Jahren ab Kenntnis des Schadens eingebracht wurde.
+
 IV. Kosten
 
 Die Kostenentscheidung ist im Falle des Obsiegens nach [[legal_norm|§§ 41, 50 ZPO]] zu treffen.
