@@ -49,7 +49,7 @@ Die Fahrzeugpapiere wurden durch die Beamten eingesehen. Der Zulassungsschein de
 
 Eine Nachschau bei der Melderegisterabfrage ergab für [[person|Matijevic]] und [[person|Sluka]] keine Auffälligkeiten. Die Beamten haben die Sachverhaltsaufnahme um 09:15 Uhr abgeschlossen und die Fahrzeuge zur Bergung freigegeben. Die Verkehrsbehinderung dauerte bis 09:40 Uhr.
 
-Die Anzeige ergeht an die Bezirksverwaltungsbehörde wegen des Verdachts einer Verwaltungsübertretung nach der [[legal_norm|Straßenverkehrsordnung]]. Eine Ausfertigung erhält die Lenkerin [[person|Lukas]] zur Vorlage bei ihrer Versicherung.
+Die Anzeige ergeht an die Bezirksverwaltungsbehörde wegen des Verdachts einer Verwaltungsübertretung nach der [[legal_norm|Straßenverkehrsordnung]]. Eine Ausfertigung erhält die Lenkerin [[person|Lukas]] zur Vorlage bei ihrer Versicherung. Der Lenker [[person|Fernández]] wurde über die Möglichkeit einer Stellungnahme binnen zwei Wochen belehrt; eine schriftliche Rechtfertigung ist bei der Behörde einzubringen. Die Kopie der Anzeige an das Bezirksgericht wird der Akte beigelegt.
 
 Beamte am Unfallort:
 [[person|Kevin Ertl]] (Insp.) – Meldungsleger

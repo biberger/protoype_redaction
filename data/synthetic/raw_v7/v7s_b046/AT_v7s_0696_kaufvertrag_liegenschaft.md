@@ -53,6 +53,8 @@ Die Verkäuferin erteilt hiermit ihre unwiderrufliche Aufsandungserklärung zugu
 
 § 5 Zustandsbericht und Gewährleistung
 
+Die Verkäuferin übergibt die Energieausweise und die Bestandsunterlagen des Gebäudes, soweit diese vorhanden sind. Die Käufer nehmen zur Kenntnis, dass ein Energieausweis für das Nebengebäude nicht vorliegt und nachzureichen ist; die Kosten trägt die Verkäuferin bis zu einem Betrag von EUR 600,00.
+
 Die [[organization|Reisch]] erklärt, dass auf der Liegenschaft keine Baubewilligung für den Anbau besteht. Die Käufer haben den Zustand besichtigt und erklären, die Liegenschaft im gegenwärtigen Zustand zu übernehmen.
 
 § 6 Belehrung und Vollmacht

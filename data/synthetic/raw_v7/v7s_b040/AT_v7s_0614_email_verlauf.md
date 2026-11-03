@@ -56,7 +56,7 @@ ich bestätige den Eingang der Unterlagen. Die Gesellschafterin der [[organizati
 
 Ich ersuche Sie, die Vollmacht für die Anmeldung zum Firmenbuch beizulegen. Herr [[person|Guttmann]] wird die Anmeldung nach Vorliegen der Unterlagen selbst übermitteln.
 
-Zur Klarstellung: Die Änderung betrifft nur die Vertretungsregelung und die Zeichnungsberechtigung. Die Stammeinlagen bleiben unverändert, ebenso der Unternehmensgegenstand. Ich ersuche Sie außerdem, die Unterschriftenprobe der Geschäftsführer bis Ende der Woche nachzureichen, damit sie der Anmeldung beigelegt werden kann.
+Zur Klarstellung: Die Änderung betrifft nur die Vertretungsregelung und die Zeichnungsberechtigung. Die Stammeinlagen bleiben unverändert, ebenso der Unternehmensgegenstand. Ich ersuche Sie außerdem, die Unterschriftenprobe der Geschäftsführer bis Ende der Woche nachzureichen, damit sie der Anmeldung beigelegt werden kann. Die bisherigen Eintragungen im Firmenbuch enthalten noch die alte Vertretungsregelung; die Änderung wird daher erst mit der Eintragung wirksam, nicht schon mit dem Beschluss.
 
 Von: [[person|Bartolo Stiassny]]
 Gesendet: Freitag, [[date|23. Oktober 2026]] 08:20
@@ -103,4 +103,4 @@ Mit freundlichen Grüßen
 >
 > Lieber Herr [[person|Stiassny]],
 >
-> bitte prüfen Sie, ob die Vollmacht für die Anmeldung zum Firmenbuch bereits die neue Vertretungsregelung enthält. Eine Anmeldung ohne diese Regelung würde vom Firmenbuchgericht beanstandet werden. Die Gesellschafterin wartet auf Ihre Rückmeldung.
+> bitte prüfen Sie, ob die Vollmacht für die Anmeldung zum Firmenbuch bereits die neue Vertretungsregelung enthält. Eine Anmeldung ohne diese Regelung würde vom Firmenbuchgericht beanstandet werden. Die Gesellschafterin wartet auf Ihre Rückmeldung. Sollte die Vollmacht noch nicht vorliegen, bitte ich um kurze Nachricht, damit wir den Termin für die Anmeldung entsprechend verschieben können. Eine Verzögerung der Eintragung würde die geplante Übernahme eines Auftrages gefährden, den die Gesellschaft für das kommende Jahr bereits angenommen hat.

@@ -80,11 +80,13 @@ Beilagenverzeichnis:
 
 Die Schriftsatzbeilagen werden in elektronischer Form übermittelt.
 
-12. Die klagende Partei hat die Beklagten bereits mit Schreiben vom [[date|02.06.2026]] aufgefordert, die Forderung zu begleichen. Der Erstbeklagte [[person|Bietak]] hat in seiner Antwort vom [[date|09.06.2026]] lediglich eine Ratenzahlung von EUR 500,00 monatlich angeboten, was die klagende Partei abgelehnt hat. Die Zweitbeklagte [[person|Levy]] hat sich bis heute nicht gemeldet.
+12. Die klagende Partei hat die Kühlanlagen bei der Übergabe am [[date|14.03.2026]] nicht abgenommen, weil die Montage unvollständig war und ein Techniker der [[organization|BHG]] die Anschlüsse nicht fertig gestellt hat. Ein Übergabeprotokoll wurde daher nicht unterfertigt, die Anlage ist seither nicht in Betrieb. Die [[organization|BHG]] hat die Mängel mit Schreiben vom [[date|28.03.2026]] zwar anerkannt, aber keine Nachbesserung zugesagt.
 
-13. Die Bäckerei der [[organization|BHG]] in [[location|Scheibbs]] wurde im Herbst 2025 umgebaut; die gelieferten Kühlanlagen sollten die Produktion des Betriebes sichern. Der Ausfall der Anlagen führt zu einem Gewinnentgang von rund EUR 3.200,00 monatlich, den die klagende Partei als Schaden geltend macht, soweit er nicht Gegenstand des Klagebegehrens ist. Dieser Anspruch wird vorbehalten.
+13. Die klagende Partei hat die Beklagten bereits mit Schreiben vom [[date|02.06.2026]] aufgefordert, die Forderung zu begleichen. Der Erstbeklagte [[person|Bietak]] hat in seiner Antwort vom [[date|09.06.2026]] lediglich eine Ratenzahlung von EUR 500,00 monatlich angeboten, was die klagende Partei abgelehnt hat. Die Zweitbeklagte [[person|Levy]] hat sich bis heute nicht gemeldet.
 
-14. Die Klage richtet sich gegen beide Beklagten zur ungeteilten Hand, weil die Haftungserklärung der zweiten Beklagten den Kaufpreis ausdrücklich umfasst. Die Übernahme der Haftung für einen fremden Vertrag ist nach dem Wortlaut der Erklärung nicht auf einen Teilbetrag beschränkt.
+14. Die Bäckerei der [[organization|BHG]] in [[location|Scheibbs]] wurde im Herbst 2025 umgebaut; die gelieferten Kühlanlagen sollten die Produktion des Betriebes sichern. Der Ausfall der Anlagen führt zu einem Gewinnentgang von rund EUR 3.200,00 monatlich, den die klagende Partei als Schaden geltend macht, soweit er nicht Gegenstand des Klagebegehrens ist. Dieser Anspruch wird vorbehalten.
+
+15. Die Klage richtet sich gegen beide Beklagten zur ungeteilten Hand, weil die Haftungserklärung der zweiten Beklagten den Kaufpreis ausdrücklich umfasst. Die Übernahme der Haftung für einen fremden Vertrag ist nach dem Wortlaut der Erklärung nicht auf einen Teilbetrag beschränkt.
 
 Die Klage wird durch die [[organization|DVOŘÁK KREBS]] RECHTSANWÄLTE GMBH erhoben.
 

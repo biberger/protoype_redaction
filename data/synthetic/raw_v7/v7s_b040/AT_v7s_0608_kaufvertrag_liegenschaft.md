@@ -68,7 +68,7 @@ IV. Treuhandabwicklung
 
 4. Erfolgt die Zahlung nicht bis zum [[date|30. Juni 2026]], kann jeder Verkäufer vom Vertrag zurücktreten. Der Rücktritt ist schriftlich zu erklären.
 
-5. Die Verkäufer sind berechtigt, bereits vor der Übergabe Einsicht in das Treuhandkonto zu nehmen. Die Kanzlei übermittelt den Verkäufern binnen acht Tagen nach jedem Zahlungseingang eine Bestätigung über den eingegangenen Betrag.
+5. Die Verkäufer sind berechtigt, bereits vor der Übergabe Einsicht in das Treuhandkonto zu nehmen; die Kanzlei stellt hierfür einen Auszug auf Verlangen bereit, der auch die Gebühren des Kontos ausweist. Die Kanzlei übermittelt den Verkäufern binnen acht Tagen nach jedem Zahlungseingang eine Bestätigung über den eingegangenen Betrag.
 
 6. Wird der Kaufpreis nur teilweise erlegt, behält sich die Treuhänderin vor, die Auszahlung für den Teilbetrag zurückzuhalten, bis die Käuferin den Restbetrag nachgewiesen hat. Die Verkäufer stimmen dieser Vorgangsweise bereits jetzt zu.
 
@@ -124,7 +124,7 @@ Zustellungen an die Verkäufer erfolgen an die im Punkt I. angeführten Anschrif
 
 X. Schlussanmerkung der Kanzlei
 
-Die Kanzlei hat die Parteien darauf hingewiesen, dass die Echtheit der Unterschriften für die Verbücherung der Aufsandungserklärung zu bestätigen ist. Die Unterschriften wurden in Gegenwart der Kanzleimitarbeiterin geleistet, die Identität der Parteien wurde anhand amtlicher Lichtbildausweise überprüft. Die Vertragsteile erhalten je eine Ausfertigung.
+Die Kanzlei hat die Parteien darauf hingewiesen, dass die Echtheit der Unterschriften für die Verbücherung der Aufsandungserklärung zu bestätigen ist. Die Bestätigung wird durch die Kanzlei selbst ausgestellt, sobald alle Vertragsteile unterfertigt haben und die Unterlagen vollständig vorliegen. Die Unterschriften wurden in Gegenwart der Kanzleimitarbeiterin geleistet, die Identität der Parteien wurde anhand amtlicher Lichtbildausweise überprüft. Die Vertragsteile erhalten je eine Ausfertigung. Die Grundbuchsauszüge der Liegenschaften [[land_register_id|EZ 1330]] und [[land_register_id|EZ 667]] wurden am [[date|10. April 2026]] eingeholt; seither hat sich der Lastenstand nach Auskunft des Grundbuchs nicht verändert. Eine Aktualisierung vor der Unterfertigung ist vorgesehen.
 
 XI. Vollmachten und Zustimmungen
 

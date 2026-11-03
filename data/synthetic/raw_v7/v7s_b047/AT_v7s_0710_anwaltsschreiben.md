@@ -30,7 +30,7 @@ Die [[organization|Gamillscheg Bau]] hat den Unfall nach unserer Kenntnis mit ei
 
 [[person|Wirth]] erlitt eine Fraktur des linken Unterschenkels und war bis zum [[date|30.09.2025]] arbeitsunfähig. Die Heilbehandlungskosten, der Verdienstentgang von 6.840 Euro und das Schmerzengeld sind bisher nur zum Teil beziffert. Wir fordern Sie daher auf, bis zum [[date|31.10.2025]] Stellung zu nehmen und eine Abschlagszahlung von 4.000 Euro auf das Konto der Klientschaft, IBAN [[bank_account|AT80 2084 7455 4548 4654]], zu leisten.
 
-Die Forderung gegen die [[organization|ALV]] ist ausreichend belegt: Die Arztberichte, die Verdienstbescheinigung des Arbeitgebers und die Fotos der Unfallstelle liegen bei. Die [[organization|GBG]] hat zudem eingeräumt, dass die Baustellenzufahrt am Unfalltag nicht gesichert war.
+Die Forderung gegen die [[organization|ALV]] ist ausreichend belegt: Die Arztberichte, die Verdienstbescheinigung des Arbeitgebers und die Fotos der Unfallstelle liegen bei. Die [[organization|GBG]] hat zudem eingeräumt, dass die Baustellenzufahrt am Unfalltag nicht gesichert war. Sollte bis zu diesem Termin keine Stellungnahme eingehen, werden wir ohne weitere Ankündigung ein Gutachten eines unfallanalytischen Sachverständigen beauftragen; die Kosten dafür werden der Gegenseite in Rechnung gestellt.
 
 Bitte richten Sie Ihre Antwort an unsere Kanzlei unter Tel. [[phone_number|05572/615407 DW 843]], unter Angabe des Zeichens [[other_identifier|Wirth ./. Paumgartner]]. Eine Zahlung ohne Anerkennung der Haftung für künftige Ansprüche ist nicht ausgeschlossen, wir behalten uns jedoch die gerichtliche Geltendmachung vor.
 

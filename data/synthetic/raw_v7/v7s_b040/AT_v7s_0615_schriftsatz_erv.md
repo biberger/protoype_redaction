@@ -60,7 +60,7 @@ II. Unrichtige rechtliche Beurteilung
 
 4. Entgegen der Auffassung des Erstgerichts ist das Vertrauen der Klägerin nicht als grob fahrlässig zu werten. Die Klägerin hat die Auskunft vor Abschluss des Vertrages zweimal überprüft.
 
-5. Das Erstgericht hat ferner die Frist zur Vorlage der Urkunden verkürzt, ohne den Parteien vorher Gelegenheit zur Stellungnahme zu geben. Die Klägerin hat dagegen rechtzeitig Einwendungen erhoben, die im Protokoll der Verhandlung vom [[date|8. September 2026]] nicht festgehalten wurden.
+5. Das Erstgericht hat ferner die Frist zur Vorlage der Urkunden verkürzt, ohne den Parteien vorher Gelegenheit zur Stellungnahme zu geben. Die Klägerin hat dagegen rechtzeitig Einwendungen erhoben, die im Protokoll der Verhandlung vom [[date|8. September 2026]] nicht festgehalten wurden. Die Berichtigung des Protokolls wurde beantragt, vom Erstgericht jedoch abgelehnt, ohne dass eine Begründung für diese Entscheidung ersichtlich wäre.
 
 III. Zu den Beweisergebnissen
 
@@ -76,7 +76,7 @@ Der Zeuge [[person|Einberger]] hätte zu diesem Punkt Angaben machen können, we
 
 Die Klägerin verweist ferner darauf, dass die [[organization|Finanzprokuratur]] in ihrem Schreiben vom [[date|20. Juni 2025]] die Haftung nicht mit dem Inhalt der Auskunft, sondern mit dem Einwand der Verjährung begründet hat. Diese Argumentation hat das Erstgericht nicht aufgegriffen. Eine Verjährung ist nach den Feststellungen nicht eingetreten, weil die Klage innerhalb von drei Jahren ab Kenntnis des Schadens eingebracht wurde.
 
-III b. Zur Verjährung
+III b. Zur Verjährung und Zurechnung
 
 Die Verjährungsfrist nach [[legal_norm|§ 1489 ABGB]] beginnt mit der Kenntnis des Schadens und der Person des Ersatzpflichtigen zu laufen. Die Klägerin hat vom Schaden erst mit dem Bescheid vom [[date|2. Juni 2025]] Kenntnis erlangt, weil die Auskunft bis dahin als richtig galt. Die Klage ist daher rechtzeitig eingebracht worden.
 

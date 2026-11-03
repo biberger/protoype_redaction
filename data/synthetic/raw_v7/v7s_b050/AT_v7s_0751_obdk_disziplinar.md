@@ -29,23 +29,29 @@ Entscheidungsgründe
 
 1. Verfahrensgang
 
-Die [[organization|RAK OÖ]] erstattete am [[date|14.06.2024]] eine Disziplinaranzeige, nachdem der Mandant [[person|Mikołaj Florek]] sich über die Abwicklung einer Zahlung beschwert hatte. Die Kammeranwältin [[person|Mag. Hildegunde Höfner]] führte die Vorerhebungen durch und stellte den Antrag auf Verhängung einer Disziplinarstrafe. Die Beschuldigte [[lawyer|Krause]] bestritt die Vorwürfe nicht vollständig, machte jedoch geltend, die Auszahlungen seien mündlich vereinbart gewesen.
+Die [[organization|RAK OÖ]] erstattete am [[date|14.06.2024]] eine Disziplinaranzeige, nachdem der Mandant [[person|Mikołaj Florek]] sich über die Abwicklung einer Zahlung beschwert hatte. Die Kammeranwältin [[person|Mag. Hildegunde Höfner]] führte die Vorerhebungen durch und stellte den Antrag auf Verhängung einer Disziplinarstrafe. Die Beschuldigte [[lawyer|Krause]] bestritt die Vorwürfe nicht vollständig, machte jedoch geltend, die Auszahlungen seien mündlich vereinbart gewesen. Die Beschuldigte [[lawyer|Krause]] nahm am [[date|10.07.2024]] schriftlich Stellung und legte eine eidesstattliche Erklärung des Mandanten [[person|Florek]] vor, die allerdings erst am [[date|22.07.2024]] datiert war und damit nach den streitgegenständlichen Auszahlungen lag.
 
 2. Sachverhalt
 
-Die Beschuldigte [[lawyer|Krause]] betreibt eine Kanzlei in [[address|4084 Sankt Agatha]] und ist bei der [[organization|RAK OÖ]] eingetragen. Sie führt ein Treuhandbuch, das unter der Nummer [[other_identifier|2019/917]] geführt wird.
+Die Beschuldigte [[lawyer|Krause]] betreibt eine Kanzlei in [[address|4084 Sankt Agatha]] und ist bei der [[organization|RAK OÖ]] eingetragen. Sie führt ein Treuhandbuch, Treuhandbuch-Nr. [[other_identifier|2019/917]], in dem sämtliche Mandantengelder verwaltet werden. Auf dem einzigen Treuhandkonto der Kanzlei werden Gelder mehrerer Mandanten gesammelt, die Zuordnung erfolgt nach internen Aufzeichnungen.
 
 Am [[date|5. Mai 2024]] erhielt die Beschuldigte [[lawyer|Krause]] für den Mandanten [[person|Florek]] eine Zahlung über 12.500 Euro, die auf dem Treuhandkonto gutgeschrieben wurde. Mit der Zahlung war ein Auftrag verbunden, den Betrag nach Abschluss eines Vergleichs an den Mandanten weiterzuleiten. Der Vergleich kam nicht zustande. Am [[date|21. Mai 2024]] überwies die Beschuldigte [[lawyer|Krause]] dennoch 9.000 Euro an eine Bauunternehmung, ohne dass [[person|Florek]] dem zugestimmt hatte. Der Restbetrag von 3.500 Euro wurde erst am [[date|3. Juli 2024]] an den Mandanten ausbezahlt.
 
-Im Fall der Mandantin [[person|Annemarie Ginzel]] wurde am [[date|12.03.2024]] ein Betrag von 18.400 Euro für die Mandantin auf dem Treuhandkonto eingezahlt. Die Zahlung erfolgte unter der Treuhandnummer [[other_identifier|2020/009]]. Am [[date|2. April 2024]] wurden davon 9.200 Euro ohne schriftliche Weisung an eine dritte Person ausbezahlt. Die Beschuldigte [[lawyer|Krause]] erklärte in der Verhandlung, sie habe die Mandantin [[person|Ginzel]] telefonisch informiert. Die Mandantin [[person|Ginzel]] bestritt dies und legte einen Aktenvermerk vor, der keinen Hinweis auf eine Zustimmung enthält.
+Im Fall der Mandantin [[person|Annemarie Ginzel]] wurde am [[date|12.03.2024]] ein Betrag von 18.400 Euro für die Mandantin auf dem Treuhandkonto eingezahlt. Die Zahlung ist unter TH-Nr. [[other_identifier|2020/009]] verbucht. Am [[date|2. April 2024]] wurden davon 9.200 Euro ohne schriftliche Weisung an eine dritte Person ausbezahlt. Die Beschuldigte [[lawyer|Krause]] erklärte in der Verhandlung, sie habe die Mandantin [[person|Ginzel]] telefonisch informiert. Die Mandantin [[person|Ginzel]] bestritt dies und legte einen Aktenvermerk vor, der keinen Hinweis auf eine Zustimmung enthält.
 
 Die Kontobewegungen wurden von der [[organization|RAK OÖ]] anhand der Kontoauszüge geprüft. Dabei zeigte sich, dass auf dem Treuhandkonto zeitweise ein Stand unter der Summe der Treuhandgelder lag.
+
+Bereits bei einer Kanzleiprüfung am [[date|28.11.2023]] hatte die [[organization|RAK OÖ]] die Beschuldigte [[lawyer|Krause]] auf die fehlende Dokumentation der Weisungen hingewiesen. Die Beschuldigte [[lawyer|Krause]] sagte damals zu, die Weisungen künftig schriftlich festzuhalten. Dieser Zusage ist sie in den nachfolgenden Fällen nicht nachgekommen.
+
+Die Vorerhebungen erstreckten sich außerdem auf eine Zahlung vom [[date|9. Januar 2024]], die einen dritten Mandanten betraf. Diese Zahlung wurde vollständig ausbezahlt, allerdings erst nach einer Frist von vier Monaten. Die Beschuldigte [[lawyer|Krause]] führte dies auf organisatorische Gründe zurück.
 
 3. Beweiswürdigung
 
 Der Senat stützt seine Feststellungen auf die Kontoauszüge, den Aktenvermerk der Mandantin [[person|Ginzel]] und die Aussage des Mandanten [[person|Florek]]. Die Aussage der Beschuldigten [[lawyer|Krause]], wonach die Weisungen mündlich erteilt worden seien, ist nicht glaubhaft. Die Kammeranwältin [[person|Höfner]] hat in ihrem Antrag zutreffend darauf hingewiesen, dass die Weisungen in keinem der Fälle schriftlich dokumentiert sind.
 
 Die Schriftführerin [[person|Kitman]] hat das Protokoll der Verhandlung geführt. Die Angaben darin decken sich mit den Urkunden.
+
+Die eidesstattliche Erklärung des Mandanten [[person|Florek]] vermag an der Feststellung nichts zu ändern, weil sie zeitlich nach den Auszahlungen datiert ist und keine Angaben zu einem Zustimmungszeitpunkt enthält. Der Senat hält die Angaben des Mandanten [[person|Florek]] in der Verhandlung für glaubwürdig, da sie mit dem Schriftverkehr übereinstimmen.
 
 4. Rechtliche Beurteilung
 
@@ -55,7 +61,7 @@ Die Beisitzerin [[judge|Kögl]] hat in der Beratung darauf hingewiesen, dass die
 
 5. Strafbemessung
 
-Als mildernd wertete der Senat die bisherige Unbescholtenheit der Beschuldigten [[lawyer|Krause]] und die Rückzahlung des Restbetrags. Als erschwerend wurde die Mehrzahl der Fälle berücksichtigt. Unter Berücksichtigung dieser Umstände erscheint eine Geldbuße von 3.000 Euro tat- und schuldangemessen.
+Als mildernd wertete der Senat die bisherige Unbescholtenheit der Beschuldigten [[lawyer|Krause]] und die Rückzahlung des Restbetrags. Als erschwerend wurde die Mehrzahl der Fälle berücksichtigt. Erschwerend wertete der Senat zudem, dass die Beschuldigte [[lawyer|Krause]] die Zusage aus dem Kanzleiprüfungsverfahren nicht eingehalten hat, obwohl sie ausdrücklich auf die Pflichten hingewiesen worden war. Unter Berücksichtigung dieser Umstände erscheint eine Geldbuße von 3.000 Euro tat- und schuldangemessen. Die Kosten des Verfahrens umfassen die Gebühr für die mündliche Verhandlung in Höhe von 1.200 Euro sowie die Aufwendungen der [[organization|RAK OÖ]] für die Kanzleiprüfung.
 
 6. Rechtsmittelbelehrung
 

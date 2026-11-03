@@ -93,7 +93,7 @@ Eine Entziehung der Berufsberechtigung für eine bestimmte Dauer wäre hingegen 
 
 Die Anordnung einer Auflage, die Treuhandgebarung künftig durch einen externen Buchprüfer überwachen zu lassen, wurde erwogen. Der Disziplinarrat hat davon abgesehen, weil die Beschuldigte bereits angekündigt hat, dies von sich aus zu tun. Die Kammeranwaltschaft wird die Umsetzung überprüfen.
 
-Der Klient [[person|Scherrer]] hat eine eigene Zivilklage gegen die Beschuldigte angekündigt. Dieser Umstand ist im Disziplinarverfahren nicht zu berücksichtigen und lässt die Entscheidung unberührt.
+Der Klient [[person|Scherrer]] hat eine eigene Zivilklage gegen die Beschuldigte angekündigt. Dieser Umstand ist im Disziplinarverfahren nicht zu berücksichtigen und lässt die Entscheidung unberührt. Ob und in welcher Höhe ein Schadenersatzanspruch besteht, ist im Zivilverfahren zu klären; der Disziplinarrat äußert sich dazu nicht.
 
 6. Rechtsmittel
 

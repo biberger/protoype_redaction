@@ -47,9 +47,15 @@ Die Auszahlung vom [[date|28.11.2024]] umfasste nur einen Teil des Guthabens. De
 
 Der Beschuldigte erklärte, die Zahlungen an die [[organization|Kaur Consulting]] seien Honorare für Vorarbeiten gewesen, eine Honorarnote sei aber nicht erstellt worden. Die Barbehebung vom [[date|02.07.2024]] könne er nicht erklären; er vermute einen Irrtum seiner Kanzleikraft.
 
+Verfahrensgang
+
+Die Beschwerde der Klientin ging am [[date|06.01.2025]] bei der Kammer ein, nachdem die Erben die Abrechnung verlangt hatten. Der Beschuldigte wurde am [[date|08.01.2025]] zur Stellungnahme aufgefordert und gab sie am [[date|10.01.2025]] ab. Die Kammeranwältin erhob daraufhin die Anzeige, die am [[date|20.01.2025]] eingebracht wurde. Die Verhandlung fand am [[date|27.03.2025]] statt, nachdem der Beschuldigte um Aufschub zur Beibringung von Unterlagen ersucht hatte, die er schließlich nicht vorlegte.
+
 Beweiswürdigung
 
-Der Senat hat die Auszüge der [[organization|GSK]], die schriftliche Stellungnahme des Beschuldigten vom [[date|10.01.2025]] und die Angaben der Beschwerdeführerin gewürdigt. Die Beschwerdeführerin hat die Vorgänge genau und ohne erkennbare Übertreibung geschildert. Ihre Angabe, sie habe der Verwendung für die Honorare niemals zugestimmt, wird durch den Schriftverkehr bestätigt.
+Der Senat hat die Auszüge der [[organization|GSK]], die schriftliche Stellungnahme des Beschuldigten vom [[date|10.01.2025]] und die Angaben der Beschwerdeführerin gewürdigt. Die Beschwerdeführerin hat die Vorgänge genau und ohne erkennbare Übertreibung geschildert. Ihre Angabe, sie habe der Verwendung für die Honorare niemals zugestimmt, wird durch den Schriftverkehr bestätigt. Die Beschwerdeführerin hatte den Beschuldigten zuvor als zuverlässig erlebt und die Gelder ihm wegen einer Empfehlung anvertraut; sie gab an, dass sie sich in ihrem Vertrauen getäuscht fühle und die Verzögerung der Auszahlung als belastend empfinden.
+
+Der Beschuldigte berief sich darauf, dass er die Beträge zur Deckung von Kanzleikosten benötigt habe, die aus seinen eigenen Mitteln nicht mehr bezahlt werden konnten. Der Senat hat dieses Vorbringen geprüft; eine Aufstellung der Kanzleiausgaben wurde aber nicht vorgelegt, sodass die Behauptung nicht nachvollziehbar war.
 
 Die Kammeranwältin [[person|Wührer]] legte dar, dass die [[organization|Kaur Consulting]] in keinem Firmenbuch eingetragen ist und keine Umsatzsteuernummer besitzt. Die Gesellschaft gehört nach den Angaben des Beschuldigten seiner Lebensgefährtin, die aber nicht als Zeugin geladen werden konnte.
 
@@ -68,6 +74,8 @@ Der Beschuldigte ist bisher disziplinär nicht aufgefallen. Die Geldbuße wurde 
 Die Untersagung der Entgegennahme von Treuhandgeldern soll der Klientschaft künftig Sicherheit geben. Der Beschuldigte hat dies in der Verhandlung akzeptiert.
 
 Gegen dieses Erkenntnis steht dem Beschuldigten und der Kammeranwältin die Berufung an den [[court|OGH]] offen. Die Berufung ist binnen vier Wochen nach Zustellung schriftlich einzubringen.
+
+Der Beschuldigte hat während des Verfahrens Akteneinsicht genommen und in der Verhandlung die Vollständigkeit der Unterlagen gerügt. Der Senat hat die fehlende Abrechnung über die [[organization|Kaur Consulting]] zur Kenntnis genommen; sie wurde auch nach der Verhandlung nicht nachgereicht.
 
 Die Schriftführerin wird die Zustellung an die Beteiligten veranlassen, einschließlich der Erben der Beschwerdeführerin und der Kammer.
 

@@ -93,7 +93,7 @@ Der Beschuldigte [[lawyer|Suljičić]] wird für schuldig erkannt, die Pflichten
 
 V. Begründung der Kosten
 
-Die Kosten des Verfahrens trägt der Beschuldigte. Die Kammeranwältin [[lawyer|Arco]] hat die Anschuldigung am [[date|17.03.2024]] eingebracht; die Zustellung an den Beschuldigten erfolgte am [[date|09.04.2024]]. Die Mandantin [[person|D'Aquino]] hat keinen Kostenersatz beantragt.
+Die Kosten des Verfahrens trägt der Beschuldigte; er hat bereits einen Teil der Kosten für das Gutachten des Wirtschaftsprüfers vorgeschossen, der über die Treuhandbücher berichten soll. Die Kammeranwältin [[lawyer|Arco]] hat die Anschuldigung am [[date|17.03.2024]] eingebracht; die Zustellung an den Beschuldigten erfolgte am [[date|09.04.2024]]. Die Mandantin [[person|D'Aquino]] hat keinen Kostenersatz beantragt.
 
 [[location|Wien]], am [[date|21.10.2026]]
 

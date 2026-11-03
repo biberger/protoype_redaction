@@ -88,7 +88,7 @@ Die Verkäufer erklären, dass im Stadel keine asbesthaltigen Materialien verbau
 
 VI. Abgaben und Kosten
 
-Die Grunderwerbsteuer nach [[legal_norm|§ 4 GrEStG]] tragen die Käufer. Die Kosten der Vertragserrichtung und die Eintragungsgebühr nach [[legal_norm|GebG]] tragen die Käufer je zur Hälfte. Die Kosten für die Löschung der Pfandrechte trägt der Verkäufer Jordi van Heemstra.
+Die Grunderwerbsteuer nach [[legal_norm|§ 4 GrEStG]] tragen die Käufer. Die Kosten der Vertragserrichtung und die Eintragungsgebühr nach [[legal_norm|GebG]] tragen die Käufer je zur Hälfte. Die Kosten für die Löschung der Pfandrechte trägt der Verkäufer [[person|Jordi van Heemstra]].
 
 VII. Gewährleistung und Schlussbestimmungen
 

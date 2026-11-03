@@ -113,7 +113,7 @@ Diesem Ersuchen folgt der Senat im Spruch nicht ausdrücklich, weil die Zahlunge
 Verfahrens vor dem Zivilgericht sind.
 
 Die Beschuldigte hat die Kosten der Sachverständigen-Gebühr bereits teilweise geleistet. Der Restbetrag von
-EUR 640,00 ist binnen vier Wochen nach Zustellung dieser Entscheidung zu überweisen.
+EUR 640,00 ist binnen vier Wochen nach Zustellung dieser Entscheidung zu überweisen. Die Frist ist nicht erstreckbar.
 
 **VI. Kosten**
 

@@ -36,7 +36,7 @@ Die Lenkerin Jusits bestritt die Verwendung des Telefons. Ein Alkotest ergab 0,0
 
 Der Sachschaden wird auf insgesamt 38.500 Euro geschätzt. Die Fahrzeuge 1, 2 und 3 mussten abgeschleppt werden. Sie wurden vom Abschleppunternehmen [[organization|Mörtl Transporte]] abtransportiert, das sie bis zur Freigabe durch die Versicherungen verwahrt. Die Fahrzeuge 4 und 5 waren fahrbereit.
 
-Ergänzend wird festgehalten, dass die Ampelanlage im Bereich der Unfallstelle wegen Bauarbeiten außer Betrieb war. Die Baustelle wurde von der Straßenmeisterei eingerichtet. Ein Hinweis auf die Gefahrenstelle war nach Angaben der Lenkerin Krasteva nicht aufgestellt.
+Ergänzend wird festgehalten, dass die Ampelanlage im Bereich der Unfallstelle wegen Bauarbeiten außer Betrieb war. Die Baustelle wurde von der [[organization|Straßenmeisterei Lienz]] eingerichtet, die Zuständigkeit für die Absicherung lag bei der Baufirma. Ein Hinweis auf die Gefahrenstelle war nach Angaben der Lenkerin Krasteva nicht aufgestellt.
 
 Der Vorfall wird nach [[legal_norm|§ 88 StGB]] geprüft, soweit Personen verletzt wurden. Eine Anzeige nach [[legal_norm|§ 102 Abs 3 KFG]] wird gegen die Lenkerin des Fahrzeugs 1 erstattet, da die Verwendung eines Mobiltelefons während der Fahrt unzulässig war.
 

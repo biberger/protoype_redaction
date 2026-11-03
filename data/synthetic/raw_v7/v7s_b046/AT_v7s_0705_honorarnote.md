@@ -39,7 +39,7 @@ Die Honorarnote ist binnen 14 Tagen ab Erhalt auf das Konto mit der IBAN [[bank_
 
 Die Vereinbarung über die Kündigungsfristen wurde mit den Herren [[person|Rupprecht]] und [[person|Steininger]] am [[date|15.10.2026]] besprochen. Eine Abrechnung nach Stunden ist nicht erfolgt, es handelt sich um Pauschalbeträge je Leistung.
 
-Die Entwürfe wurden den Herren [[person|Rupprecht]] und [[person|Steininger]] getrennt übermittelt, weil beide Parteien unterschiedliche Vorstellungen über die Dauer des Pachtverhältnisses haben. Eine Einigung über die Kündigungsfrist ist bisher nicht erfolgt; wir werden die Gespräche am [[date|06.11.2026]] fortsetzen. Die Kosten dieser Abstimmung sind in der Pauschale vom [[date|23.10.2026]] enthalten und werden nicht gesondert verrechnet.
+Die Entwürfe wurden den Herren [[person|Rupprecht]] und [[person|Steininger]] getrennt übermittelt, weil beide Parteien unterschiedliche Vorstellungen über die Dauer des Pachtverhältnisses haben. Eine Einigung über die Kündigungsfrist ist bisher nicht erfolgt; beide Herren haben jedoch zugesichert, die Unterlagen zur Pachtfläche bis zum nächsten Termin vorzulegen; wir werden die Gespräche am [[date|06.11.2026]] fortsetzen. Die Kosten dieser Abstimmung sind in der Pauschale vom [[date|23.10.2026]] enthalten und werden nicht gesondert verrechnet.
 
 Für Rückfragen stehen wir unter Tel. [[phone_number|+43-5572-6325372-9]] zur Verfügung.
 

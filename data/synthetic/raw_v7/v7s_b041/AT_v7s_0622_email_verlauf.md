@@ -33,7 +33,7 @@ Sachverständigenbericht fehlt. Frau [[person|Gratzer]] hat uns am [[date|2. Okt
 des Fahrzeugs bereits erfolgt sei; eine Rechnung liegt uns aber noch nicht vor. UZ: [[other_identifier|274/25 A]]
 
 Wir haben den Vorgang intern geprüft. Die Fotos vom Unfallort zeigen nur die Endlage der Fahrzeuge, nicht den
-Anstoßpunkt. Die Zeugenaussage des Sohnes der Mandantin wird daher erst berücksichtigt, wenn die Personalien vorliegen. Die Versicherung erwartet außerdem, dass die Mandantin die Angaben zur Fahrtrichtung schriftlich bestätigt. Ein Gutachten zur Anstoßstelle ist ebenfalls in Auftrag gegeben. Die Kosten dafür trägt die Versicherung nach unserer Auffassung vollständig.
+Anstoßpunkt. Die Zeugenaussage des Sohnes der Mandantin wird daher erst berücksichtigt, wenn die Personalien vorliegen. Die Versicherung erwartet außerdem, dass die Mandantin die Angaben zur Fahrtrichtung schriftlich bestätigt. Ein Gutachten zur Anstoßstelle ist ebenfalls in Auftrag gegeben. Wir melden uns nach Vorliegen. Die Kosten dafür trägt die Versicherung nach unserer Auffassung vollständig.
 
 Die [[organization|WWV]] anerkennt die Haftung derzeit nur in Höhe von 50 Prozent, da nach den vorliegenden
 Unterlagen auch Ihre Mandantin den Abstand nicht eingehalten hat. Wir bitten um Vorlage der Lichtbilder und

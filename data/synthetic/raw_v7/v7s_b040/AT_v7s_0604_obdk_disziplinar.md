@@ -82,6 +82,8 @@ Der Disziplinarrat ist dem nicht gefolgt. Eine Teilzahlung, die vor Jahren erfol
 
 Die Verfahrensdauer ist durch die Zustellprobleme der Beschuldigten zu erklären. Die Anschuldigungsschrift wurde zweimal an eine frühere Kanzleiadresse übermittelt und erst im Oktober 2025 zugestellt. Dem Beschuldigten ist daher keine Verzögerung zur Last zu legen.
 
+Der Klient [[person|Schliefsteiner]] hat in der Verhandlung ergänzt, dass ihm die Beschuldigte nach der Umbuchung einen Teilbetrag von EUR 2.000,00 angeboten habe, sofern er auf weitere Schritte verzichte. Dieses Angebot wurde vom Klienten abgelehnt. Der Disziplinarrat wertet es nicht als Wiedergutmachung, sondern als Versuch, das Verfahren zu beeinflussen. Ein solches Verhalten gegenüber dem Klienten ist mit den Berufspflichten nicht vereinbar und ist bei der Strafbemessung erschwerend zu berücksichtigen.
+
 Die Aussage des Zeugen [[person|Siegward Springer]], der als Schriftführer den Aktenvermerk vom [[date|19. November 2019]] angefertigt hatte, ergab keine weiteren Erkenntnisse. Der Vermerk enthält lediglich den Hinweis, dass die Umbuchung "zur Abdeckung" erfolgt sei, ohne Angabe eines Auftrags.
 
 5. Rechtsmittel

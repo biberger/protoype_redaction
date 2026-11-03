@@ -30,7 +30,7 @@ Die [[organization|RAK OÖ]] hat ferner die Akten zur Einsicht übersandt. Die V
 
 II. Sachverhalt
 
-1. Die Beschuldigte betreibt eine Kanzlei in [[address|4521 Schiedlberg]] (Telefon [[phone_number|02742 596319-22]]) und führte im Jahr 2024 mehrere Treuhandschaften. Die Zahlungsbewegungen wurden im Treuhandbuch erfasst. Die für das Verfahren maßgeblichen Vorgänge sind in folgender Übersicht zusammengefasst:
+1. Die Beschuldigte betreibt eine Kanzlei in [[address|4521 Schiedlberg]] (Tel. [[phone_number|02742 596319-22]]) und führte im Jahr 2024 mehrere Treuhandschaften. Die Zahlungsbewegungen wurden im Treuhandbuch erfasst. Die für das Verfahren maßgeblichen Vorgänge sind in folgender Übersicht zusammengefasst:
 
 Datum | Vorgang | Betrag in EUR | Klient | Treuhandnummer
 [[date|2. Februar 2024]] | Zahlungseingang Kaufpreisanzahlung | 18.000,00 | [[person|Antek Trenkwalder]] | Treuhandschaft Nr. [[other_identifier|2021/718]]

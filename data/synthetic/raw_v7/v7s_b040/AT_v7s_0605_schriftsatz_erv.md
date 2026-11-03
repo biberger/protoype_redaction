@@ -79,7 +79,7 @@ IIIa. Streitwert und Gerichtsgebühren
 
 Der Streitwert setzt sich aus dem Rückforderungsbetrag von EUR 58.400,00 zusammen. Die Zinsen sind nach [[legal_norm|§ 56 JN]] nicht streitwerterhöhend zu berücksichtigen. Die Pauschalgebühr wurde über ERV entrichtet; der Zahlungsnachweis ist im System abrufbar.
 
-Die Gebühren für das Sachverständigengutachten werden vorerst vom Kläger getragen; eine Kostenentscheidung zu dessen Lasten ist beantragt. Ein Antrag auf Verfahrenshilfe ist nicht gestellt. Der Kläger ist in der Lage, die Gebühren aus eigenen Mitteln zu bestreiten, wie aus der beigelegten Vermögensaufstellung hervorgeht.
+Die Gebühren für das Sachverständigengutachten werden vorerst vom Kläger getragen; eine Kostenentscheidung zu dessen Lasten ist beantragt. Ein Antrag auf Verfahrenshilfe ist nicht gestellt. Der Kläger ersucht, die mündliche Verhandlung nach Vorliegen der Stellungnahme der Beklagten anzuberaumen; eine Vorbereitung durch Vergleichsgespräche wird angeregt, da beide Parteien an einer raschen Erledigung interessiert sind. Sollte die Beklagte die Klagsforderung dem Grunde nach anerkennen, wird um Ausstellung eines Anerkenntnisurteils ersucht. Der Kläger ist in der Lage, die Gebühren aus eigenen Mitteln zu bestreiten, wie aus der beigelegten Vermögensaufstellung hervorgeht.
 
 IV a. Schadensberechnung und Vergleichsangebot
 

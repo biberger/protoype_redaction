@@ -61,6 +61,10 @@ Begründung:
 
 12. Die beklagte Partei hält die Klage für überhöht, weil die Klägerin den Warenwert selbst mit EUR 14.900,00 angegeben hat, während der Vertrag einen Kaufpreis von EUR 18.640,00 vorsieht. Dieser Widerspruch ist von der Klägerin aufzuklären.
 
+13. Die Klägerin hat die Ware nach der Übernahme in ihrem Haushalt verwendet, wie aus den Fotos hervorgeht, die die Klägerin selbst auf ihrer Internetseite veröffentlicht hat. Eine Nutzung der Ware schließt nach ständiger Rechtsprechung eine spätere Rückabwicklung aus, soweit diese nicht innerhalb der Frist erfolgt ist.
+
+14. Die Zeugin [[person|Kovačević]] wird ersucht, zum Zeitpunkt der Übergabe Stellung zu nehmen. Sie wird im Verfahren mit ihrer Adresse in der Lagerhalle der [[organization|OHB]] geladen, weil sie dort tätig ist. Ihre Aussage wird die Angaben der Klägerin zur Beschaffenheit der Lieferung bestätigen.
+
 Beweis: Vertrag vom [[date|11.06.2024]] (./A); Quittung (./1); Telefonnotiz (./2); Einvernahme der Zeugin [[person|Kovačević]]; Parteienvernehmung.
 
 Beilagen:

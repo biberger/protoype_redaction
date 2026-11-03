@@ -108,7 +108,7 @@ Der Senat hat außerdem geprüft, ob die Kanzleiorganisation des Beschuldigten d
 Kanzlei verfügte über keine schriftliche Treuhandrichtlinie und über keine regelmäßige Kontrolle durch einen zweiten
 Berufsträger. Auch die Mitarbeiterin wurde vom Beschuldigten nicht eingeschult, wie er selbst eingeräumt hat. Diese
 organisatorischen Mängel sind dem Beschuldigten als Kanzleiinhaber zuzurechnen; sie entlasten ihn nicht, sondern
-begründen vielmehr den Vorwurf einer unzureichenden Überwachung.
+begründen vielmehr den Vorwurf einer unzureichenden Überwachung. Die Kanzleileitung trägt daher die Verantwortung für die Umsetzung.
 
 **IV. Rechtliche Beurteilung**
 

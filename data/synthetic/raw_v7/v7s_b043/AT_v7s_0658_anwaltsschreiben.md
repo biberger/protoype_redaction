@@ -12,7 +12,7 @@ E: [[email|office@grossmann.at]]  W: www.grossmann.at
 ERV-Code: [[other_identifier|R163236]]
 
 An das
-[[court|BG Braunau am Inn]]
+[[court|Bezirksgericht Braunau am Inn]]
 Grundbuchsabteilung
 
 Zeichen [[other_identifier|Newman ./. Hruska]]
@@ -35,7 +35,7 @@ Die Kaufpreisforderung unseres Mandanten [[person|Rubin Dirksen]], geboren am [[
 
 Die Voraussetzungen für die Einverleibung ergeben sich aus [[legal_norm|§ 364c ABGB]] und aus [[legal_norm|§ 9 GBG]]. Das Verbot ist im Hinblick auf die offene Kaufpreisforderung erforderlich, weil die Liegenschaft nach den bisherigen Feststellungen mit einem Wohnrecht zugunsten der Verkäuferin belastet werden soll. Die Anteile der [[organization|Dirmoser]] sind zudem an einen Dritten verpfändet, sodass ohne Verbot die Gefahr einer weiteren Verfügung besteht.
 
-Der Mandant ersucht ausdrücklich, dass die Einverleibung im Rang vor einer späteren Veräußerung erfolgt. Wir bitten daher um eine Eingangsbestätigung und um Mitteilung, falls zur Einverleibung weitere Unterlagen benötigt werden.
+Die Miteigentümerin [[person|Foroogh Al-Hasbani]] hat der Übertragung nicht zugestimmt und ist im Verfahren als Gegnerin zu behandeln. Der Mandant ersucht ausdrücklich, dass die Einverleibung im Rang vor einer späteren Veräußerung erfolgt. Wir bitten daher um eine Eingangsbestätigung und um Mitteilung, falls zur Einverleibung weitere Unterlagen benötigt werden.
 
 Die Einverleibung ist beim [[court|BG Braunau am Inn]] zu beantragen. Wir ersuchen um Mitteilung, sobald die Eintragung erfolgt ist. Die Gebühren wurden bereits entrichtet.
 

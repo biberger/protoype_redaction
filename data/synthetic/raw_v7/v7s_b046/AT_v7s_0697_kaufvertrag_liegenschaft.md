@@ -90,7 +90,7 @@ Mündliche Nebenabreden bestehen nicht. Die Käufer haben sich vor Vertragsabsch
 
 VI. Treuhandschaft und Vollmacht
 
-Die Kanzlei [[person|Seif]] ist mit der Abwicklung betraut. Die Kanzlei hat die Vertragsparteien darauf hingewiesen, dass die Abschlüsse nach dem [[legal_norm|Mietrechtsgesetz]] und dem [[legal_norm|Grundverkehrsgesetz]] der Zustimmung bedürfen, soweit diese im Einzelfall anwendbar sind. Eine Zustimmung nach dem [[legal_norm|Grundverkehrsgesetz]] wurde für den Erwerb durch [[person|Kubík]] vorab eingeholt und liegt dem Vertrag bei. Die Parteien erteilen der Kanzlei die Vollmacht, Erklärungen gegenüber dem Grundbuch und dem Finanzamt abzugeben. Die Kanzlei ist berechtigt, die Grunderwerbsteuer anzumelden und abzuführen.
+Die Kanzlei [[person|Seif]] ist mit der Abwicklung betraut. Die Kanzlei hat den Käufern außerdem mitgeteilt, dass die Vertragserrichtungskosten nach Abschluss des Verfahrens mit einer gesonderten Honorarnote abgerechnet werden, die binnen 14 Tagen fällig ist. Die Kanzlei hat die Vertragsparteien darauf hingewiesen, dass die Abschlüsse nach dem [[legal_norm|Mietrechtsgesetz]] und dem [[legal_norm|Grundverkehrsgesetz]] der Zustimmung bedürfen, soweit diese im Einzelfall anwendbar sind. Eine Zustimmung nach dem [[legal_norm|Grundverkehrsgesetz]] wurde für den Erwerb durch [[person|Kubík]] vorab eingeholt und liegt dem Vertrag bei. Die Parteien erteilen der Kanzlei die Vollmacht, Erklärungen gegenüber dem Grundbuch und dem Finanzamt abzugeben. Die Kanzlei ist berechtigt, die Grunderwerbsteuer anzumelden und abzuführen.
 
 VII. Abgaben und Gebühren
 

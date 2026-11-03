@@ -73,6 +73,10 @@ Der Senat hat bei der Bemessung der Geldbuße die wirtschaftlichen Verhältnisse
 
 Die Zustellung des Spruchs an die Kammer der Rechtsanwälte, die Beschwerdeführerin und den Beschuldigten wird von der Schriftführerin veranlasst.
 
+In seinem Schlussvortrag führte der Beschuldigte aus, er habe die Klientschaft nie schädigen wollen und die Zahlungen in der Annahme getätigt, dass die Honorare später abgerechnet würden. Er räumte ein, dass eine Abrechnung nicht erstellt wurde und dass er dies hätte tun müssen. Er bat den Senat um eine Geldbuße am unteren Rand des Rahmens, weil seine Kanzlei nach den Vorfällen Personal verloren habe und er einen Teil seiner Mandate aufgeben musste. Der Senat nimmt diese Angaben zur Kenntnis, sieht darin aber keinen Grund für eine mildere Beurteilung der Pflichtverletzungen.
+
+Die Verfolgung ist nicht verjährt, weil die letzte Zahlung aus dem Treuhandkonto innerhalb der Verjährungsfrist des Disziplinarrechts liegt und der Antrag der Kammeranwältin rechtzeitig eingebracht wurde.
+
 Gegen diesen Spruch steht dem Beschuldigten und der Kammeranwältin die Berufung an den [[court|OGH]] offen. Die Berufung ist binnen vier Wochen nach Zustellung des schriftlichen Erkenntnisses bei diesem Disziplinarrat einzubringen.
 
 Die Schriftführerin hat die Verhandlung protokolliert. Eine Abschrift dieses Erkenntnisses ergeht an die Beschwerdeführerin und an die Rechtsanwaltskammer.

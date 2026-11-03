@@ -132,7 +132,7 @@ VIII. Belehrung und Hinweise
 
 5. Die Verkäufer wurden darauf hingewiesen, dass sie für den Fall eines Rücktritts nach Punkt IV.3 keinen Anspruch auf Zinsen aus dem Treuhandkonto haben.
 
-6. Der Vertrag wurde den Vertragsteilen vollständig vorgelesen. Die Vertragsteile haben erklärt, den Inhalt verstanden zu haben, und haben die Urkunde auf jeder Seite paraphiert.
+6. Der Vertrag wurde den Vertragsteilen vollständig vorgelesen und von der Kanzleimitarbeiterin in Anwesenheit aller Beteiligten erläutert, wobei auch die Frage der Zahlungsfristen nochmals erörtert wurde. Die Vertragsteile haben erklärt, den Inhalt verstanden zu haben, und haben die Urkunde auf jeder Seite paraphiert.
 
 Beilagen:
 ./A Grundbuchsauszug [[land_register_id|EZ2057]] vom [[date|27. April 2026]]

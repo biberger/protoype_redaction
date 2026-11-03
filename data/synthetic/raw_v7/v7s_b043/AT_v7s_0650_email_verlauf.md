@@ -61,7 +61,7 @@ ERV-Code: [[other_identifier|R757493]]
 >
 > Die Hausverwaltung hat mir bestätigt, dass der Leitungsbruch im Jahr 2022 gemeldet wurde.
 >
-> Die Trockenlegung kann nach meiner Einschätzung frühestens im Frühjahr 2027 beginnen, weil der Keller vorher vollständig austrocknen muss. Ich empfehle außerdem, vor Beginn der Arbeiten einen Feuchtigkeitsmesser über mehrere Wochen im Keller aufzustellen und die Werte zu dokumentieren. Ich bitte, Frau [[person|Kmeťová]] darauf hinzuweisen, dass bis dahin keine Maßnahmen am Mauerwerk erfolgen sollten, und die Fotos vom [[date|5. September 2026]] im Original aufzubewahren.
+> Die Trockenlegung kann nach meiner Einschätzung frühestens im kommenden Frühjahr beginnen, weil der Keller vorher vollständig austrocknen muss. Ich empfehle außerdem, vor Beginn der Arbeiten einen Feuchtigkeitsmesser über mehrere Wochen im Keller aufzustellen und die Werte zu dokumentieren. Ich bitte, Frau [[person|Kmeťová]] darauf hinzuweisen, dass bis dahin keine Maßnahmen am Mauerwerk erfolgen sollten, und die Fotos vom [[date|5. September 2026]] im Original aufzubewahren.
 >
 > Mit freundlichen Grüßen
 > [[person|Nestor Hehenberger]]

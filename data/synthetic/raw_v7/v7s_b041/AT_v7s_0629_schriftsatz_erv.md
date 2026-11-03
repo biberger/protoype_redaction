@@ -98,7 +98,7 @@ Die Klägerin hat die Rückerstattung der Betriebskosten für den Zeitraum der U
 
 Die Klägerin musste während der Dauer der Mängel zudem ihre Arbeitszeit reduzieren. Die Dienstgeberin
 [[organization|Wirtschaftsschule Krispl GmbH]] bestätigte am [[date|14. März 2025]], dass ihr für 22 Arbeitstage ein
-Verdienstentgang von insgesamt EUR 1.380,00 entstanden ist. Die Bestätigung liegt als Beilage bei. Ergänzend ist
+Verdienstentgang von insgesamt EUR 1.380,00 entstanden ist. Die Bestätigung liegt als Beilage bei. Das Original wird umgehend nachgereicht. Ergänzend ist
 festzuhalten, dass die Wohnung im Februar 2025 durch den Schimmelbefall für Kleinkinder ungeeignet war; die Klägerin
 hat deshalb die Mietzinsminderung auf 100 Prozent begehrt.
 

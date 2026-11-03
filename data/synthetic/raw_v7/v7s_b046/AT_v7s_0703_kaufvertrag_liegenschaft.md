@@ -110,6 +110,18 @@ VII. Schlussbestimmungen
 2. Änderungen dieses Vertrages bedürfen der Schriftform.
 3. Die Vertragsparteien erklären, dass sie den Vertrag gelesen haben und ihm zustimmen.
 
+VIII. Ergänzende Erklärungen der Käufer
+
+1. Die Käuferinnen und Käufer erklären, dass sie die Liegenschaften zu Wohnzwecken erwerben und keine gewerbliche Nutzung beabsichtigen. Frau [[person|Dragoumis]] hat erklärt, dass sie das Wohnhaus gemeinsam mit ihrer Tochter bewohnen wird, während Herr [[person|Haderlap]] die Wiese als Gartenfläche nutzen möchte.
+
+2. Die Käuferinnen und Käufer haben die Hausordnung der Eigentümergemeinschaft im Nachbargebäude zur Kenntnis genommen. Eine Mitgliedschaft in einer Eigentümergemeinschaft besteht für die verkauften Liegenschaften nicht.
+
+3. Frau [[person|Falk]] bestätigt, dass sie die Liegenschaften bisher nicht betreten hat, sondern sich ausschließlich auf die Angaben der Verkäuferin und auf die Begehung durch [[person|Gebauer]] verlässt. Die Verkäuferin hat die Pläne des Erdgeschosses übergeben.
+
+4. Die Verkäuferin erklärt, dass der Strom- und Wasserzähler auf den Namen der Verkäuferin läuft und auf die Käufer umgemeldet werden muss. Die Umschreibung wird von den Käufern binnen vier Wochen nach dem Stichtag veranlasst.
+
+5. Die Kanzlei hat die Parteien darauf hingewiesen, dass eine Wohnsitzmeldung der Käufer am Ort der Liegenschaft für die Einreichung beim Finanzamt erforderlich sein kann. Die Käufer bestätigen die Meldung zum Stichtag.
+
 Der Vertrag wurde in einer Ausfertigung für jede Partei errichtet.
 
 [[location|Hartl]], am [[date|27.10.2026]]
