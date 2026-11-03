@@ -39,12 +39,26 @@ HfApi().upload_folder(folder_path="$LOG", path_in_repo="logs", repo_id=os.enviro
 PY
 }
 
+upload_best() {  # the trainer's best checkpoint, whenever it changed (also before a watchdog stop)
+  local best="$W/repo/${RUN:-out/v1}/best" mark="$W/.best_uploaded"
+  [ -d "$best" ] || return 0
+  [ -f "$mark" ] && [ -z "$(find "$best" -newer "$mark" -type f | head -1)" ] && return 0
+  touch "$mark.new"
+  python - "$best" <<'PY' && mv "$mark.new" "$mark"
+import os, sys
+from huggingface_hub import HfApi
+HfApi().upload_folder(folder_path=sys.argv[1], path_in_repo="best", repo_id=os.environ["HF_OUT"],
+                      repo_type="model", commit_message="best checkpoint (interim)")
+PY
+}
+
 descendants() { local c; for c in $(pgrep -P "$1"); do descendants "$c"; echo "$c"; done; }
 trap 'kill $(descendants $$) 2>/dev/null' EXIT
 # watchdog: hard wall-clock cap, independent of the main job
-( sleep "$(python3 -c "print(int(float('${MAX_HOURS:-7.5}')*3600))")"; note "WATCHDOG: MAX_HOURS reached"; stop_pod ) &
-# progress uploader every 15 min
-( sleep 120; while true; do upload_logs > /dev/null 2>&1 || true; sleep 900; done ) &
+( sleep "$(python3 -c "print(int(float('${MAX_HOURS:-7.5}')*3600))")"; note "WATCHDOG: MAX_HOURS reached";
+  upload_best || note "WARN best upload failed"; stop_pod ) &
+# progress uploader every 15 min; the best checkpoint too once the trainer has written one
+( sleep 120; while true; do upload_logs > /dev/null 2>&1 || true; upload_best > /dev/null 2>&1 || true; sleep 900; done ) &
 
 fail() { note "FAILED: $*"; stop_pod; exit 1; }
 
