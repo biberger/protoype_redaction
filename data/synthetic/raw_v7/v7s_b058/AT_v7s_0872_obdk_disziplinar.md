@@ -9,7 +9,7 @@ Zl. [[case_number|DRW 14/2026]]
 
 **ERKENNTNIS**
 
-Der Disziplinarrat der Rechtsanwaltskammer Wien hat durch den Senatspräsidenten [[judge|Dr. Titus Rampl]] als Vorsitzenden sowie durch die Senatsmitglieder [[judge|Sidonius Tichy]] und [[judge|Ascenza Zito]] sowie unter Mitwirkung der Schriftführerin [[person|Alfreda Hornung]] in der Disziplinarsache gegen die Rechtsanwältin [[lawyer|Margarita Murg]], kanzleiansässig in [[location|St. Ruprecht an der Raab]], wegen disziplinärer Verfehlungen nach [[legal_norm|§ 1 Abs 1 DSt]] iVm [[legal_norm|§ 34 Abs 1 RAO]] nach öffentlicher mündlicher Verhandlung am [[date|18. September 2026]] in Anwesenheit der Kammeranwältin [[person|Floortje Draaisma]] und der Beschuldigten zu Recht erkannt:
+Der [[court|Disziplinarrat der Rechtsanwaltskammer Wien]] hat durch den Senatspräsidenten [[judge|Dr. Titus Rampl]] als Vorsitzenden sowie durch die Senatsmitglieder [[judge|Sidonius Tichy]] und [[judge|Ascenza Zito]] sowie unter Mitwirkung der Schriftführerin [[person|Alfreda Hornung]] in der Disziplinarsache gegen die Rechtsanwältin [[lawyer|Margarita Murg]], kanzleiansässig in [[location|St. Ruprecht an der Raab]], wegen disziplinärer Verfehlungen nach [[legal_norm|§ 1 Abs 1 DSt]] iVm [[legal_norm|§ 34 Abs 1 RAO]] nach öffentlicher mündlicher Verhandlung am [[date|18. September 2026]] in Anwesenheit der Kammeranwältin [[person|Floortje Draaisma]] und der Beschuldigten zu Recht erkannt:
 
 Die Beschuldigte ist schuldig, es als Rechtsanwältin zu verantworten zu haben, dass sie Gelder, die ihr von Mandanten zur Verwahrung übergeben wurden, nicht unverzüglich auf das Treuhandkonto überwiesen und dadurch gegen [[legal_norm|§ 11 Abs 1 RAO]] iVm [[legal_norm|§ 3 Abs 2 DSt]] verstoßen hat.
 

@@ -52,7 +52,7 @@ IV. Kaution
 
 V. Übergabe und Instandhaltung
 
-10. Die Schlüsselübergabe erfolgt am [[date|1. April 2025]] in der Wohnung. Über die Übergabe wurde ein Protokoll aufgenommen, das die Zählerstände von Strom, Gas und Wasser enthält. Das Protokoll wurde von [[person|Kircher]] für die Vermieterin und von [[person|Summereder]] für den Mieter unterfertigt.
+10. Die Schlüsselübergabe erfolgt am [[date|1. April 2025]] in der Wohnung. Über die Übergabe wurde ein Protokoll aufgenommen, das die Zählerstände von Strom, Gas und Wasser enthält. Das Protokoll wurde von [[person|Kircher]] für die Vermieterin und von [[person|Summereder]] für den Mieter unterfertigt. Ein Ersatzschlüssel für die Wohnung ist beim Hausbetreuer hinterlegt; der Mieter wurde über die Hinterlegung und die Abholmöglichkeiten informiert.
 
 11. Kleinreparaturen bis zu einem Betrag von € 90,00 je Einzelfall trägt der Mieter. Größere Instandsetzungen zeigt der Mieter der Vermieterin unverzüglich an. Die Vermieterin hat die Schäden auf eigene Kosten zu beheben, soweit sie nicht vom Mieter verschuldet wurden.
 

@@ -38,7 +38,7 @@ Wir fordern Sie daher auf, die Mängel binnen 14 Tagen ab Zugang dieses Schreibe
 
 Wir ersuchen Sie zudem, uns bis zum genannten Termin den Namen Ihres Haftpflichtversicherers bekanntzugeben. Für Rückfragen steht Ihnen unser Büro unter Tel. [[phone_number|02742/781131-5]] zur Verfügung.
 
-Die Mandantin hat die betroffenen Fenster vorsorglich mit einer Plane abgedeckt, um weitere Schäden durch Regen zu vermeiden. Die Kosten dafür trägt sie vorläufig selbst und wird sie Ihnen gesondert in Rechnung stellen. Eine Haftung für Folgeschäden lehnen wir ausdrücklich ab, solange die Mängel nicht behoben sind. Unsere Mandantin ersucht zudem um Übermittlung der Montageprotokolle und der Prüfberichte, die Ihrem Betrieb vorliegen.
+Die Mandantin hat die betroffenen Fenster vorsorglich mit einer Plane abgedeckt, um weitere Schäden durch Regen zu vermeiden. Die Kosten dafür trägt sie vorläufig selbst und wird sie Ihnen gesondert in Rechnung stellen. Eine Haftung für Folgeschäden lehnen wir ausdrücklich ab, solange die Mängel nicht behoben sind. Die Verjährungsfristen bleiben dadurch unberührt. Wir behalten uns weitere Ansprüche ausdrücklich vor. Unsere Mandantin ersucht zudem um Übermittlung der Montageprotokolle und der Prüfberichte, die Ihrem Betrieb vorliegen.
 
 Als Zeugen der Montage sind laut Protokoll genannt:
 1. [[person|Pejaković Jure]]

@@ -55,7 +55,7 @@ Betreff: AW: AW: AW: Schadenfall [[organization|Hakl Handels]], Ihr Zeichen [[ot
 
 Sehr geehrter Herr [[person|Prohaska]],
 
-ich bestätige, dass [[person|Macek]] das Fahrzeug am Wochenende nicht verwenden durfte. Die Schlüssel lagen im Büro der [[organization|Hakl]]. Irmline [[person|Lauda]] wird dies gewiss prüfen; ich bitte um eine Kopie der Polizeianzeige.
+ich bestätige, dass [[person|Macek]] das Fahrzeug am Wochenende nicht verwenden durfte. Die Schlüssel lagen im Büro der [[organization|Hakl]]. Irmline [[person|Lauda]] wird dies gewiss prüfen; ich bitte um eine Kopie der Polizeianzeige. Das Aktenzeichen lautet Zl. [[case_number|P 2231/26]]; die Anzeige wurde bei der Polizeiinspektion in [[location|Lienz]] aufgenommen. Bitte teilen Sie mir mit, ob die Versicherung eine Ersatzzahlung für die Mietwagenkosten übernimmt, die seit dem Diebstahl entstanden sind.
 
 Die [[organization|Hakl Handels]] hat die Anzeige bei der Polizei am Montag selbst erstattet. Ich selbst bin unter folgender Nummer erreichbar:
 

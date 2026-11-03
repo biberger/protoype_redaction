@@ -58,7 +58,7 @@ Der Sachverhalt erfüllt den Verdacht einer Übertretung nach [[legal_norm|§ 11
 
 Die Mitfahrerin [[person|Kreibich]] wurde vom Rettungsdienst am Unfallort versorgt und nach Angaben des Rettungspersonals nicht stationär aufgenommen. Eine ärztliche Bestätigung über die Verletzung wurde am Abend des [[date|12.10.2026]] nachgereicht.
 
-Die Lenkerin [[person|Hrebeniovska]] gab an, Schmerzen im linken Handgelenk zu haben, lehnte jedoch eine Fahrt ins Krankenhaus ab.
+Die Lenkerin [[person|Hrebeniovska]] gab an, Schmerzen im linken Handgelenk zu haben, lehnte jedoch eine Fahrt ins Krankenhaus ab. Der Sanitäter vermerkte bei der Mitfahrerin [[person|Kreibich]] eine Schnittwunde an der Stirn, die vor Ort versorgt wurde. Eine Kopie des Rettungsprotokolls wird der Anzeige nachgereicht.
 
 7a. Vernehmung der Lenkerin
 

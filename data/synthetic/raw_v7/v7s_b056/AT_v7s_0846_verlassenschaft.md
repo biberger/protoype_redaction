@@ -87,6 +87,10 @@ Bei der ergänzenden Befragung am [[date|25. Mai 2021]] hat die Erbin [[person|K
 
 Die Erben haben zudem die Gewährleistungsansprüche aus dem Kauf des Kraftfahrzeuges geprüft. Das Fahrzeug wurde vom Erblasser im Jahr 2015 erworben; Gewährleistungsansprüche bestehen nach Ablauf der gesetzlichen Frist nicht mehr.
 
+Die Erbenbefragung hat ferner ergeben, dass der Erblasser seine Mietwohnung im Jahr 2019 aufgegeben hat und seither bei einer Pflegeeinrichtung in Wels wohnte. Die Kaution für die Mietwohnung in Höhe von € 1.600,00 wurde vom Vermieter an den Erblasser zurücküberwiesen; der Betrag ist im Bankguthaben enthalten. Ein Mietrückstand besteht nach der Abrechnung des Vermieters nicht.
+
+Die Erbin [[person|Kaltenbacher]] hat angegeben, dass sie die Pflegeheimrechnungen für das Jahr 2020 selbst bezahlt hat und dafür einen Ersatzanspruch gegen die Verlassenschaft geltend machen wird. Die Forderung ist im Passivum unter Punkt IV berücksichtigt und wird nach Vorlage der Belege anerkannt, soweit sie nachvollziehbar ist. Herr [[person|Sigmund]] hat dazu erklärt, dass er an dieser Forderung kein Interesse hat.
+
 VI. Rechtliche Belehrung
 
 Die Erben wurden darüber belehrt, dass die Erbschaft nach [[legal_norm|§ 802 ABGB]] mit der Einantwortung auf sie übergeht. Die Erbsantrittserklärung ist binnen der gesetzlichen Frist abzugeben, widrigenfalls die Erbschaft als unbedingt angenommen gilt. Die Belehrung wurde von den Erben zur Kenntnis genommen.

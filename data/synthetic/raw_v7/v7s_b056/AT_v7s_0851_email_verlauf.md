@@ -88,7 +88,7 @@ Sehr geehrte Frau [[person|Czarnecka]],
 
 die Zahlung vom [[date|2. Mai 2025]] trägt die Klientennummer: [[other_identifier|70763]] unserer Klientin und ist daher eindeutig zuzuordnen. Ich bitte um Berichtigung der Buchung bis [[date|25. Juli 2025]] und um Bestätigung per E-Mail. Die [[organization|Haiböck GmbH]] hat die Mahnung nach Eingang des Schreibens nicht aufrechterhalten dürfen. Ich habe Ihnen das Schreiben der Bank vom [[date|8. Mai 2025]] als Beilage übermittelt, in dem die Gutschrift mit der Klientennummer ausdrücklich bestätigt wird. Sollte die Bestätigung nicht bis zum Fristende vorliegen, behalte ich mir vor, die Kosten der Mahnung und die Anwaltskosten im Verfahren geltend zu machen.
 
-Für die Klärung der Teilzahlung vom Juni 2025 bitte ich um eine kurze Rückmeldung, ob die Buchung in Ihrer Buchhaltung tatsächlich einem anderen Mieter zugeordnet ist. Die Klientin ist grundsätzlich zu einer gütlichen Einigung bereit, erwartet aber, dass die Angelegenheit bis Ende Juli abgeschlossen wird.
+Für die Klärung der Teilzahlung vom Juni 2025 bitte ich um eine kurze Rückmeldung, ob die Buchung in Ihrer Buchhaltung tatsächlich einem anderen Mieter zugeordnet ist. Die Klientin ist grundsätzlich und ausdrücklich zu einer gütlichen Einigung bereit, erwartet aber, dass die Angelegenheit bis Ende Juli abgeschlossen wird.
 
 Mit freundlichen Grüßen
 

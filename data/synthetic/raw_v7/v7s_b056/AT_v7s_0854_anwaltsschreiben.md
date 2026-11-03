@@ -38,6 +38,8 @@ Das Fahrzeug mit der Fahrzeug-Identifizierungsnummer [[other_identifier|WDB90663
 
 Wir bitten um eine schriftliche Stellungnahme und um die Übermittlung eines vollständigen Kontoauszuges für die Zeit von [[date|1. Jänner 2025]] bis zum heutigen Tag. Die Angaben in Ihrem Schreiben sind in mehreren Punkten nicht nachvollziehbar, insbesondere die Berechnung der Verzugszinsen.
 
+Wir behalten uns alle weiteren Schritte ausdrücklich vor.
+
 Mit freundlichen Grüßen
 
 [[address|8800 Unzmarkt-Frauenburg]], am [[date|6. Mai 2026]]

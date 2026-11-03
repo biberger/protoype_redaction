@@ -39,7 +39,7 @@ Die Akteneinsicht vom [[date|20. Mai 2026]] erfolgte im Auftrag von Frau [[perso
 
 Das Telefonat vom [[date|25. Mai 2026]] betraf einen Vergleichsvorschlag der Gegenseite, der von Frau [[person|Schömer]] nach der Besprechung vom [[date|1. Juni 2026]] abgelehnt wurde. Die Besprechung dauerte länger, weil Herr [[person|Đurović]] zusätzliche Unterlagen über die Zahlungen der letzten drei Jahre vorlegte, die in die Klage aufgenommen werden mussten. Diese Mehrarbeit ist in der Position vom [[date|1. Juni 2026]] verrechnet.
 
-Für die Verhandlung vor dem [[court|Bezirksgericht Döbling]] wurde ein Termin für den Herbst 2026 vorgemerkt. Die Kosten dafür werden mit einer gesonderten Note abgerechnet, sobald die Ladung zugestellt ist.
+Für die Verhandlung vor dem [[court|Bezirksgericht Döbling]] wurde ein Termin für den Herbst 2026 vorgemerkt. Die Kosten dafür werden mit einer gesonderten Note abgerechnet, sobald die Ladung zugestellt ist. Bis dahin bitten wir um Verständnis, dass wir die Mandantschaft in der Zwischenzeit nicht weiter tätig werden lassen, sofern keine Weisung vorliegt.
 
 Zahlbar binnen 14 Tagen auf das Konto [[bank_account|AT48 4909 2138 9374 3776]]. Der Zeitaufwand wurde in Zehntelstunden erfasst. Sollten Sie Fragen zu einzelnen Positionen haben, bitten wir um Rückmeldung bis zum Fälligkeitstag, damit die Note gegebenenfalls berichtigt werden kann.
 

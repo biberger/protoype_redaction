@@ -42,7 +42,7 @@ Die Eigentümergemeinschaft behält sich vor, Mietausfälle und Ersatz der Gutac
 
 Für den Fall, dass Sie eine Regulierung ablehnen, werden wir die Klage beim zuständigen Gericht einbringen. Die Eigentümergemeinschaft bittet außerdem darum, dass Ihr Sachbearbeiter die Besichtigung mit der Hausverwaltung abstimmt, um Wartezeiten für die betroffenen Mieter zu vermeiden.
 
-Wir ersuchen um Bestätigung des Eingangs und um Rückmeldung bis zum [[date|24. August 2026]].
+Eine Abschrift dieses Schreibens geht an die Hausverwaltung zur Kenntnis. Wir ersuchen um Bestätigung des Eingangs und um Rückmeldung bis zum [[date|24. August 2026]].
 
 Mit freundlichen Grüßen
 

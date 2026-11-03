@@ -14,7 +14,7 @@ wie besprochen sende ich Ihnen die Unterlagen zu meinem Unfall. Der Unfall ereig
 
 Die Schadennummer lautet Schaden-Nr. [[other_identifier|28/335547/20]]. Die Sachbearbeiterin der [[organization|ALV]] hat mir zugesagt, sich bis Ende der Woche zu melden, bisher ist aber nichts eingegangen.
 
-Zusätzlich habe ich für die Zeit der Reparatur einen Mietwagen benötigt, für den ich bisher 740 Euro selbst bezahlt habe. Die Rechnung lege ich bei. Außerdem hat die Werkstatt eine Wertminderung festgestellt, die ich nicht selbst tragen möchte. Bitte geben Sie mir Bescheid, ob die ALV diese Positionen übernimmt.
+Zusätzlich habe ich für die Zeit der Reparatur einen Mietwagen benötigt, für den ich bisher 740 Euro selbst bezahlt habe. Die Rechnung lege ich bei. Außerdem hat die Werkstatt eine Wertminderung festgestellt, die ich nicht selbst tragen möchte. Bitte geben Sie mir Bescheid, ob die [[organization|ALV]] diese Positionen übernimmt.
 
 Mit freundlichen Grüßen
 [[person|Modeste Thomas]]
@@ -24,7 +24,7 @@ Gesendet: [[date|04. März 2026]] 09:47
 An: [[person|Mayröcker]] <[[email|kanzlei@mayroecker.at]]>
 Betreff: AW: Unfall vom [[date|19. Februar 2026]], Schaden an Fahrzeug
 
-Sehr geehrte Frau Mayröcker,
+Sehr geehrte Frau [[person|Mayröcker]],
 
 die [[organization|ALV]] hat den Unfall geprüft. Das Gutachten von Herrn [[person|Christof Wittgenstein]] vom [[date|27. Februar 2026]] stellt fest, dass die Schadenhöhe bei rund 4.100 Euro liegt. Die Haftungsfrage ist jedoch noch offen, weil die Gegenseite die Vorfahrt bestreitet.
 
@@ -49,9 +49,9 @@ Gesendet: [[date|06. März 2026]] 08:12
 An: [[person|Sofie MMag. Thury]] <[[email|s.thury@alv-versicherung.at]]>
 Betreff: AW: Unfall vom [[date|19. Februar 2026]], Schaden an Fahrzeug
 
-Sehr geehrte Frau Thury,
+Sehr geehrte Frau [[person|Thury]],
 
-vielen Dank für Ihre Rückmeldung. Die Frage der Vorfahrt wurde durch die Aussage der Beifahrerin des Herrn [[person|Széchényi]] klar beantwortet. Wir bitten um Zahlung des Schadens bis zum [[date|31. März 2026]] und um eine schriftliche Stellungnahme zum Gutachten des Herrn [[person|Wittgenstein]].
+vielen Dank für Ihre Rückmeldung. Die Frage der Vorfahrt wurde durch die Aussage der Beifahrerin des Herrn [[person|Széchényi]] klar beantwortet. Wir bitten um Zahlung des Schadens bis zum [[date|31. März 2026]] und um eine schriftliche Stellungnahme zum Gutachten des Herrn [[person|Wittgenstein]]. Sollte die Stellungnahme nicht bis dahin vorliegen, behalten wir uns die Einschaltung eines eigenen Sachverständigen vor, dessen Kosten wir der [[organization|ALV]] in Rechnung stellen werden.
 
 Frau [[person|Thomas]] ist wegen der Mietwagenkosten in Vorlage getreten. Die Rechnung zur Schaden-Nr. [[other_identifier|28/335547/20]] legen wir bei.
 

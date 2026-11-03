@@ -53,7 +53,7 @@ Kosten
 
 Die Kosten des Verfahrens setzen sich aus der Pauschalgebühr von € 320,00 und den Zustellgebühren zusammen. Sie sind vom Beschuldigten binnen vier Wochen ab Rechtskraft zu entrichten. Der Beschuldigte hat die Zustellgebühren der Kammer zu ersetzen, soweit sie auf seine Adressänderung zurückgehen.
 
-Gegen dieses Erkenntnis ist die Berufung an die [[court|OBDK]] zulässig. Die Frist beträgt vier Wochen ab Zustellung.
+Der Beschuldigte wurde über dieses Rechtsmittel belehrt. Gegen dieses Erkenntnis ist die Berufung an die [[court|OBDK]] zulässig. Die Frist beträgt vier Wochen ab Zustellung.
 
 Für den Disziplinarrat:
 

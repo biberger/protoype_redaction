@@ -62,6 +62,8 @@ Die Erbantrittserklärung von [[person|Helbich]] wurde am [[date|10. Mai 2022]] 
 
 Die Verlassenschaft wird nach Ablauf der Edikalfrist eingeantwortet, sofern keine weiteren Gläubiger auftreten. Die Kosten der Verlassenschaftsabhandlung werden aus dem Bankguthaben bestritten. Der Gerichtskommissär hat die Gebührenvorschreibung bereits übermittelt.
 
+Der Inventarwert der Liegenschaften wurde durch einen gerichtlich beeideten Sachverständigen ermittelt. Die Schätzungsgutachten sind dem Inventar angeschlossen und bilden die Grundlage für die Berechnung des Reinnachlasses.
+
 Errichtet am [[date|21. April 2022]].
 
 [[person|Schantl]]

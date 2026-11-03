@@ -85,7 +85,7 @@ Eine Streichung aus der Liste war nicht erforderlich, weil der Beschuldigte nach
 
 Kosten
 
-Die Kosten des Verfahrens, die den Pauschalsatz nicht übersteigen, trägt der Beschuldigte. Die Kammer hat die Gebühren für die Zustellung in Höhe von € 310,00 vorgelegt. Die Reisekosten der Zeugin [[person|Arnhild Wieland]] zur Verhandlung hat die Kammer nach dem Gebührenanspruch zu ersetzen; der Beschuldigte hat der Kammer diesen Betrag binnen vier Wochen zu erstatten. Ein Dolmetscher war nicht erforderlich, da alle Beteiligten der deutschen Sprache mächtig sind.
+Die Kosten des Verfahrens, die den Pauschalsatz nicht übersteigen, trägt der Beschuldigte. Die Kammer hat die Gebühren für die Zustellung in Höhe von € 310,00 vorgelegt. Die Reisekosten der Zeugin [[person|Arnhild Wieland]] zur Verhandlung hat die Kammer nach dem Gebührenanspruch zu ersetzen; der Beschuldigte hat der Kammer diesen Betrag binnen vier Wochen zu erstatten. Ein Dolmetscher war nicht erforderlich, da alle Beteiligten der deutschen Sprache mächtig sind. Das Protokoll wurde verlesen und genehmigt.
 
 Rechtsmittelbelehrung
 

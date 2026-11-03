@@ -69,6 +69,14 @@ Mit der Liegenschaft werden die fest eingebauten Küchenmöbel, die Einbauschrä
 
 Der Notar beziehungsweise die Kanzlei hat die Käuferinnen darauf hingewiesen, dass die Eintragung ihres Eigentumsrechts erst nach Vorliegen aller Unterlagen erfolgen kann und dass bis zu diesem Zeitpunkt keine Nutzungsrechte bestehen. Auf die Haftung der Käuferinnen für die Kosten der Grundbuchseintragung wurde ausdrücklich hingewiesen. Die Käuferinnen bestätigen, dass sie auf die Möglichkeit einer Beratung durch einen unabhängigen Sachverständigen hingewiesen wurden und diese Möglichkeit nicht genutzt haben.
 
+§ 7a Grundbuchsgesuch und Fristen
+
+Die Kanzlei wird das Grundbuchsgesuch unmittelbar nach Unterfertigung dieses Vertrages und nach Vorliegen der Unterlagen über die Zahlung der Grunderwerbsteuer beim zuständigen Grundbuchsgericht einbringen. Die Vertragsparteien verpflichten sich, alle für das Gesuch erforderlichen Erklärungen binnen 14 Tagen nach Aufforderung abzugeben. Kommt eine Partei dieser Verpflichtung nicht nach, ist die andere Partei berechtigt, die Kanzlei mit der Einholung der Erklärung zu beauftragen; die dadurch entstehenden Kosten trägt die säumige Partei.
+
+Die Parteien vereinbaren eine Frist für die Vorlage der Lastenfreistellungsurkunde bis zum Ende des Monats, der auf die Unterfertigung folgt. Wird diese Frist überschritten, kann jede Partei vom Vertrag zurücktreten, sofern dies nicht ausdrücklich ausgeschlossen wurde. Ein Rücktritt ist schriftlich zu erklären und der Kanzlei zuzustellen.
+
+Im Falle eines Rücktritts ist der Kaufpreis einschließlich der Anzahlung binnen 30 Tagen an die Käuferinnen zurückzuzahlen. Die Kosten der Urkundenerrichtung verbleiben in diesem Fall bei den Käuferinnen, soweit sie nicht von der Verkäuferin verschuldet wurden.
+
 § 9 Änderungen und Mehrausfertigungen
 
 Dieser Vertrag wird in vier Ausfertigungen errichtet, wovon je eine Ausfertigung den Käuferinnen, der Verkäuferin und dem Grundbuchsgericht zukommt; eine Ausfertigung verbleibt in der Kanzlei. Änderungen dieses Vertrages bedürfen der Schriftform und der Zustimmung aller Vertragsparteien. Mündliche Nebenabreden bestehen nicht. Die Käuferinnen erklären, dass sie die Urkunde vollständig gelesen haben und dass ihnen der Inhalt in einer Sprache erläutert wurde, die sie verstehen.
