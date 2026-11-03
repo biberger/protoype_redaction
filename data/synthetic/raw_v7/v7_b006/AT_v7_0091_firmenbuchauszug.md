@@ -4,7 +4,7 @@ jurisdiction: AT
 lang: de
 ---
 FIRMENBUCHAUSZUG
-[[court|Landesgericht Klagenfurt]] als Firmenbuchgericht
+Firmenbuchgericht: [[court|Landesgericht Klagenfurt]] / [[court|LG Klagenfurt]]
 Abfragestand: [[date|02.11.2026]]
 
 [[organization|KÄRNTNER BAUHOLZ GMBH]]

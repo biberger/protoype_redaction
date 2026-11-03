@@ -33,7 +33,7 @@ Angelegenheit: [[land_register_id|2953/Weitensfeld im Gurktal]] ([[court|BG Meid
 
 Die Gesellschaft [[organization|Pröll Bau GmbH]], [[company_register_number|FN 176184w]], UID [[tax_id|ATU24791688]], hat das Bauvorhaben in [[address|3435 Zwentendorf an der Donau]] ausgeführt. Die Auftraggeberin war mit der Abnahme nicht einverstanden. [[organization|Pröll]] hat die Mängel am [[date|14.04.2026]] anerkannt.
 
-Die Republik Österreich als Beklagte im Verfahren vor dem [[court|Bezirksgericht Liesing]] hat die Gutachterin [[person|Ilsemarie Scherb]] bestellt. Das Verfahren gegen die [[country|Republik Österreich]] als beklagte Partei wurde am [[date|29.05.2026]] eröffnet.
+Die [[country|Republik Österreich]] als Beklagte im Verfahren vor dem [[court|Bezirksgericht Liesing]] hat die Gutachterin [[person|Ilsemarie Scherb]] bestellt. Das Verfahren gegen die [[country|Republik Österreich]] als beklagte Partei wurde am [[date|29.05.2026]] beim [[court|BG Liesing]] eröffnet.
 
 Die Gegenseite [[person|Uta Markt]] hat die Mängelrüge am [[date|03.06.2026]] wiederholt.
 

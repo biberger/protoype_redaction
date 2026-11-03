@@ -22,7 +22,7 @@ Auftraggeber:
 [[person|Steffen
 Bachl]], Geburtsdatum:
 [[date_of_birth|02.07.1988]]
-[[person|Hoda Al-Nashwati]], geb.
+[[person|Hoda Al-Nashwati]], Geburtsdatum:
 [[date_of_birth|22.05.1990]]
 [[person|Friedrich
 Steckel]]
@@ -31,7 +31,7 @@ Die [[organization|Glas]] hat die Vertretung im Verfahren vor dem [[court|Bezirk
 
 [[land_register_id|2723/Altschwendt]], Grundstück Nr. [[land_register_id|1308/1]]
 
-Die Gegenseite [[person|Udo Perko]], geb. [[date_of_birth|1997-05-14]], StA: [[country|Serbien]], hat die Klage am [[date|22.03.2026]] zurückgezogen. Die Planerin [[person|Dipl.-Ing. Vukosava Rakočević]] hat das Gutachten am [[date|17.04.2026]] übergeben.
+Die Gegenseite [[person|Udo Perko]], Geburtsdatum: [[date_of_birth|1997-05-14]], StA: [[country|Serbien]], hat die Klage am [[date|22.03.2026]] zurückgezogen. Die Planerin [[person|Dipl.-Ing. Vukosava Rakočević]] hat das Gutachten am [[date|17.04.2026]] übergeben.
 
 Vertragsnummer [[other_identifier|LV-2016-23657]]
 
@@ -45,9 +45,9 @@ Summe netto | | 730,00
 20 % USt | | 146,00
 Summe brutto | | 876,00
 
-Die Zahlung erfolgt auf IBAN [[bank_account|AT56 6235 0830 1977 2668]]. Bei Rückfragen erreichen Sie uns unter [[phone_number|01 798857 Durchwahl 55]].
+Die Zahlung erfolgt auf IBAN [[bank_account|AT56 6235 0830 1977 2668]]. Bei Rückfragen erreichen Sie uns unter Tel. [[phone_number|01 798857 Durchwahl 55]].
 
-Die Abwicklung des [[organization|Glas]] erfolgt über die Kanzlei in [[address|8162 Passail]].
+Die Abwicklung des [[organization|Glas]] erfolgt über die Kanzlei in [[address|8162 Passail]]. Die Ladung des [[court|BG Döbling]] ist am [[date|29.06.2026]] vorgesehen.
 
 Mit freundlichen Grüßen
 [[person|Wassilko]]

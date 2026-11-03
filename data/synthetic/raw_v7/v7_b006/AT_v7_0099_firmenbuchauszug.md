@@ -51,6 +51,8 @@ E-Mail: [[email|office@tullner-logistik.at]]
 
 Die [[organization|Tullner]] ist im Firmenbuch ohne Eintragung von Liquidationsvermerken geführt.
 
-Zuständiges Grundbuchsgericht: [[court|Bezirksgericht Döbling]] ([[court|BG Döbling]]).
+Zuständiges Grundbuchsgericht: [[court|Bezirksgericht Döbling]] / [[court|BG Döbling]]
+
+Betriebsstandort: [[location|St. Wolfgang im Salzkammergut]]
 
 [[location|Waisenegg]], am [[date|02.11.2026]]

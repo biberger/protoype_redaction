@@ -15,7 +15,7 @@ HONORARNOTE NR. 2026/0558
 
 Datum: [[date|27.10.2026]]
 
-Auftraggeberin: [[person|Zefferina Dr. Rizza]], StA: [[country|Italien]]
+Auftraggeberin: [[person|Dr. Zefferina Rizza]], StA: [[country|Italien]]
 Mitbeteiligter: [[person|Engelbert Edelmann]], geb. [[date_of_birth|8. Jänner 2003]]
 Mitbeteiligter: [[person|Rudolf Hrdlicka]]
 Mitbeteiligte: [[person|Kathi März]], geb. [[date_of_birth|1. Jänner 1981]]
@@ -31,7 +31,7 @@ Die Gesellschaft [[organization|Wöhrer Handels GmbH]], [[company_register_numbe
 
 Schaden-Nr. [[other_identifier|70/317487/25]]
 
-Die Auftraggeberin [[person|Zefferina Dr. Rizza]] hat den Vergleich am [[date|09.09.2026]] abgelehnt. Die Gegenseite [[person|Rudolf Hrdlicka]] wurde mit Schreiben vom [[date|22.09.2026]] informiert. [[person|Hrdlicka]] hat die Forderung am [[date|05.10.2026]] anerkannt.
+Die Auftraggeberin [[person|Dr. Zefferina Rizza]] hat den Vergleich am [[date|09.09.2026]] abgelehnt. Die Gegenseite [[person|Rudolf Hrdlicka]] wurde mit Schreiben vom [[date|22.09.2026]] informiert. [[person|Hrdlicka]] hat die Forderung am [[date|05.10.2026]] anerkannt.
 
 Die Stellungnahme der Zeugin [[person|Eleonore Dr. Schneider]] wurde am [[date|13.07.2026]] eingeholt. Ihre Aussage bestätigt den Kaufpreis.
 

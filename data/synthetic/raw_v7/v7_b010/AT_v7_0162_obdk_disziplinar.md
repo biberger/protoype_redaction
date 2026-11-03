@@ -19,7 +19,7 @@ Die Angelegenheit betraf die Verwahrung von Geldern für die [[organization|Schw
 
 Die Einlagezahl [[land_register_id|1348]] / [[land_register_id|KG 73610 Bad Sauerbrunn]] ([[court|BG Perg]]) bildete den Hintergrund des Vorgangs. Die Vertragsnummer [[other_identifier|KV-2021-60893]] wurde bei allen Schreiben angegeben.
 
-Die Kanzlei des Beschuldigten war unter Tel. [[phone_number|02622/6801740 DW 876]] erreichbar. Die Zustellung erfolgte an [[address|4160 Schlägl]].
+Die Kanzlei des Beschuldigten war unter Tel. [[phone_number|02622/6801740 DW 876]] erreichbar. Die Zustellung erfolgte an [[address|4160 Schlägl]]. Das Verfahren vor dem [[court|Bezirksgericht Wiener Neustadt]] / later abbreviated [[court|BG Wiener Neustadt]] war zeitlich vorgelagert.
 
 Die Verwahrung erfolgte auf dem Konto [[bank_account|AT25 2831 7678 9455 9664]]. Am [[date|07.03.2024]] wurde ein Betrag von 9.000 Euro abgebucht, ohne dass ein Auftrag der [[organization|Schwaiger]] vorlag.
 
@@ -28,7 +28,7 @@ Datum | Vorgang | Betrag
 [[date|07.03.2024]] | Abbuchung ohne Auftrag | 9.000,00 EUR
 [[date|25.04.2024]] | Rückzahlung an [[person|Sorger]] | 2.000,00 EUR
 
-Die Zeugin [[person|Toebes Ant]] gab an, sie habe die Abbuchung nicht veranlasst. Der Zeuge [[person|Kovačević]] bestätigte, dass er am [[date|08.03.2024]] einen Betrag übergab, dessen Herkunft unklar blieb.
+Der Zeuge [[person|Toebes Ant]] gab an, er habe die Abbuchung nicht veranlasst. Der Zeuge [[person|Kovačević]] bestätigte, dass er am [[date|08.03.2024]] einen Betrag übergab, dessen Herkunft unklar blieb.
 
 **Rechtliche Beurteilung**
 

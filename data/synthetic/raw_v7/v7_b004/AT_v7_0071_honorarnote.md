@@ -18,16 +18,16 @@ Datum: [[date|19.10.2026]]
 Unser Zeichen: [[other_identifier|KLR-KLRGašparovič/Fröschl]]
 
 An
-[[person|Geno Mag. Dr. Gašparovič]]
+[[person|Mag. Dr. Geno Gašparovič]]
 GEB: [[date_of_birth|08.07.1943]]
 [[address|5561 Untertauern]]
 
 Betreff: Liegenschaft [[land_register_id|EZ: 664]] [[land_register_id|KG 71326 Feistritz bei Knittelfeld]] [[land_register_id|GSt-Nr. 998]]
 [[land_register_id|EZ 1780]] / [[land_register_id|GB 71668 Hohenweiler]]
 
-Die Kanzlei [[organization|Lussnigg]] vertritt den Auftraggeber in der Angelegenheit vor dem [[court|Landesgericht Salzburg]] (im Folgenden [[court|LG Salzburg]]). Die Gegenseite ist [[person|Riccardo Latzko]], geb. [[date_of_birth|1952-08-11]]. [[person|Latzko]] hat die Vollmacht am [[date|12.03.2026]] widerrufen.
+Die Kanzlei [[organization|Lussnigg]] vertritt den Auftraggeber in der Angelegenheit vor dem [[court|Landesgericht Salzburg]] (im Folgenden [[court|LG Salzburg]]); Verhandlungsort ist [[location|St. Veit an der Glan]]. Die Gegenseite ist [[person|Riccardo Latzko]], Geburtsdatum: [[date_of_birth|1952-08-11]]. [[person|Latzko]] hat die Vollmacht am [[date|12.03.2026]] widerrufen.
 
-Die Mandantin [[person|Viktoria Kirev]], geb. [[date_of_birth|1988-10-04]], StA: [[country|Kroatien]], hat das Schreiben vom [[date|30.04.2026]] erhalten. [[person|Nihād Maqdisi]], * [[date_of_birth|22. Oktober 1974]], war Zeugin der Übergabe. Die Zeugin [[person|Eleonore Dr. Schneider]] hat den Termin bestätigt.
+Die Mandantin [[person|Viktoria Kirev]], GEB: [[date_of_birth|1988-10-04]], StA: [[country|Kroatien]], hat das Schreiben vom [[date|30.04.2026]] erhalten. [[person|Nihād Maqdisi]], *[[date_of_birth|22. Oktober 1974]], war Zeugin der Übergabe. Die Zeugin [[person|Eleonore Dr. Schneider]] hat den Termin bestätigt.
 
 Vertragsnummer [[other_identifier|KV-2025-27072]]
 Polizzen-Nr. [[other_identifier|99-6729104]]
@@ -46,6 +46,6 @@ Die Gesamtsumme ist binnen 14 Tagen auf IBAN [[bank_account|AT74 4625 0524 7246 
 
 Tel. [[phone_number|+43-732-5647273 DW 153]]
 
-Der Vorstand der [[organization|Lussnigg]] bestätigt die Richtigkeit.
+Die Geschäftsführung der [[organization|Lussnigg]] bestätigt die Richtigkeit.
 Mit freundlichen Grüßen
-[[person|Lussnigg]]
+[[organization|Lussnigg]]

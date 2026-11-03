@@ -44,6 +44,8 @@ Kontakt:
 Tel. [[phone_number|0463/1673611 DW 86]]
 E-Mail: [[email|office@mitteregger.at]]
 
+Grundbuchsgericht: [[court|Bezirksgericht Ried im Innkreis]] / [[court|BG Ried im Innkreis]]
+
 Abfrage vom [[date|02.11.2026]] ohne Ergebnis.
 
 [[location|Güttenbach]], am [[date|02.11.2026]]
