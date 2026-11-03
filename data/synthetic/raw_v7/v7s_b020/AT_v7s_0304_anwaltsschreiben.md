@@ -34,11 +34,11 @@ Die Haftung des Herstellers des Akkus ergibt sich aus dem [[legal_norm|Produktha
 
 Der Geschäftsführer der [[organization|SHG]], Herr [[person|Hanspeter Kolisch]], StA. [[country|Italien]], hat die Gefahr des Brandes am Vortag selbst bemerkt. Herr [[person|Edoardo Kabas]], StA. [[country|Rumänien]], ist als Lagerleiter für den Staplereinsatz verantwortlich. Die beiden Zeugen stehen für eine Befragung zur Verfügung.
 
-Die Kundin [[organization|Schleinzer Handels GmbH]] hat über ihre Kunden-Nr. [[other_identifier|495540]] Lieferungen an mehrere Abnehmer getätigt. Diese Lieferungen wurden durch den Brand unterbrochen. Besonders betroffen sind Abnehmer in der Steiermark und in Kärnten, denen vertraglich Pönalen für verspätete Lieferungen drohen. Die daraus entstehenden Forderungen werden wir gesondert geltend machen, sofern sie nicht bereits im Schaden enthalten sind.
+Die Kundin [[organization|Schleinzer]] hat über ihre Kunden-Nr. [[other_identifier|495540]] Lieferungen an mehrere Abnehmer getätigt. Diese Lieferungen wurden durch den Brand unterbrochen. Besonders betroffen sind Abnehmer in der Steiermark und in Kärnten, denen vertraglich Pönalen für verspätete Lieferungen drohen. Die daraus entstehenden Forderungen werden wir gesondert geltend machen, sofern sie nicht bereits im Schaden enthalten sind.
 
 Eine Stellungnahme erwarten wir bis zum [[date|13.11.2026]]. Zur Abstimmung der Schadenshöhe steht Ihnen Frau [[person|Weichselbaumer]] in unserer Kanzlei zur Verfügung. Unsere Kollegin [[person|van Oosterhout]] übernimmt die Korrespondenz mit den Sachverständigen. Der Standort der Mandantin befindet sich in [[address|4421 Aschach an der Steyr]], wo die Begehung der Halle stattfinden kann.
 
-Für Rückfragen erreichen Sie Frau [[person|Weichselbaumer]] unter Tel. [[phone_number|+43-512-5859347 DW 533]].
+Für Rückfragen erreichen Sie Frau [[person|Weichselbaumer]] unter Tel. [[phone_number|+43-512-5859347 DW 533]]. Wir danken für Ihre Mühe.
 
 Mit freundlichen Grüßen
 

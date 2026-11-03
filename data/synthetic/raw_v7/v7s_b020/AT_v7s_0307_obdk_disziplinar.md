@@ -12,7 +12,7 @@ Im Namen der Republik
 
 BESCHLUSS UND ERKENNTNIS
 
-Der Disziplinarrat der Oberösterreichischen Rechtsanwaltskammer hat in der Disziplinarsache gegen den Rechtsanwalt [[lawyer|Danya Krupa]], geb. [[date_of_birth|07.03.1975]], Kanzlei in [[location|Linz]], durch den Senat in folgender Besetzung entschieden:
+Der [[court|Disziplinarrat der Oberösterreichischen Rechtsanwaltskammer]] hat in der Disziplinarsache gegen den Rechtsanwalt [[lawyer|Danya Krupa]], geb. [[date_of_birth|07.03.1975]], Kanzlei in [[location|Linz]], durch den Senat in folgender Besetzung entschieden:
 
 Vorsitz: Senatspräsident [[judge|Steffel Zanger]]
 Beisitzerin: [[judge|Mag. Hedi Strutz]]
@@ -78,11 +78,13 @@ Die Kosten des Verfahrens trägt der Beschuldigte. Sie setzen sich aus der Pausc
 
 Ein Antrag auf Aussetzung des Verfahrens bis zur Entscheidung im Zivilverfahren wurde vom Senat abgelehnt, da die disziplinäre Beurteilung von der zivilrechtlichen Frage der Schadenshöhe unabhängig ist.
 
+Der Senat hat bei der Entscheidung auch berücksichtigt, dass die Erwerber durch die Verzögerungen erhebliche Mehrkosten für Zwischenfinanzierungen tragen mussten. Diese Kosten sind jedoch nicht Gegenstand des disziplinären Verfahrens und wurden daher nur als Umstand der Tat gewertet.
+
 Rechtsmittelbelehrung
 
 Gegen diese Entscheidung steht den Parteien die Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] offen. Die Frist beträgt vier Wochen ab Zustellung.
 
-Linz, am [[date|21.10.2026]]
+[[location|Linz]], am [[date|21.10.2026]]
 
 Für die Richtigkeit der Ausfertigung:
 

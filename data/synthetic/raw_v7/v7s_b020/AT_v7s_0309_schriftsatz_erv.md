@@ -16,6 +16,8 @@ An das
 
 ERV-Eingabe
 
+EINGANGSSTEMPEL: [[court|BEZIRKSGERICHT KORNEUBURG]] [[date|28.10.2026]] - [[person|DENIZ SPERBER]]
+
 [[location|Oberweg]], am [[date|28.10.2026]]
 
 Geschäftszahl: [[case_number|3 C 97/26h]]
@@ -44,7 +46,7 @@ Die Schadenshöhe wird ausdrücklich bestritten. Die klagende Partei stützt ihr
 
 Die Pflanzen im Gartenbereich wurden über zwei Vegetationsperioden nicht gegossen, weshalb die Verluste nicht ausschließlich auf die Öffnung der Mauer zurückzuführen sind. Der Gartenpflegevertrag der klagenden Partei trägt die Vertragsnummer [[other_identifier|V-2022-21517]]; die Pflegeleistungen wurden darin ausdrücklich dem Eigentümer des Gartens übertragen.
 
-Die Schadensmeldung an die Haftpflichtversicherung der Beklagten trägt die Schaden-Nr. [[other_identifier|23/205530/25]]. Die Versicherung hat den Schaden bis heute nicht anerkannt, weil die Klägerin keine Kostennote vorgelegt hat. Die Polizze der Beklagten ist unter der Vers.-Nr. [[other_identifier|41-1472016]] geführt.
+Die Schadensmeldung an die Haftpflichtversicherung der Beklagten, die [[organization|Pannonia Haftpflicht AG]] ([[organization|PHAG]]), trägt die Schaden-Nr. [[other_identifier|23/205530/25]]. Die [[organization|PHAG]] hat den Schaden bis heute nicht anerkannt, weil die Klägerin keine Kostennote vorgelegt hat. Die Polizze der Beklagten ist unter der Vers.-Nr. [[other_identifier|41-1472016]] geführt.
 
 3. Zur Rechtslage
 
@@ -55,6 +57,8 @@ Die Mitbenützung der Mauer richtet sich nach [[legal_norm|§ 844 ABGB]]. Danach
 4. Zur Beweiswürdigung
 
 Die beklagte Partei beruft sich auf die Stellungnahme der klagenden Partei [[person|Sardar Besho]] vom [[date|03.10.2025]], in der diese eingeräumt hat, dass die Mauer schon vor Jahren Risse aufwies.
+
+Die beklagte Partei regt außerdem einen Augenschein an der Mauer an, um die Risse und die Öffnung im Mauerwerk unmittelbar beurteilen zu können. Ein solcher Augenschein wird die Frage klären, ob die Öffnung überhaupt eine Ursache für die behaupteten Gartenschäden sein kann.
 
 Die Beklagte Partei beantragt die Einvernahme der Hausverwalterin und die Vorlage der Protokolle der Eigentümerversammlung vom [[date|21.04.2024]]. Das [[court|BG Korneuburg]] wird ersucht, über diesen Antrag vor einer weiteren Beweisaufnahme zu entscheiden.
 
@@ -69,6 +73,12 @@ Der Schadensbetrag von EUR 9.850,00 beruht nach dem Vorbringen der klagenden Par
 Die beklagte Partei hat selbst ein Gegenangebot eingeholt, das sich auf den Wiederherstellungsaufwand für die Mauer bezieht. Die Kosten dieser Sanierung betragen nach dem Angebot des Maurermeisters EUR 1.640,00 netto. Diese Kosten wären auch bei ordnungsgemäßer Pflege des Gartens angefallen und können der beklagten Partei daher nicht als Schaden zugerechnet werden.
 
 Schließlich ist darauf hinzuweisen, dass die klagende Partei die Rechtsfolgen ihres eigenen Verhaltens nicht bedacht hat. Sie hat die Mauer selbst über Jahre hinweg unbeaufsichtigt gelassen und damit den Schaden mitverursacht. Ein Mitverschulden der klagenden Partei nach [[legal_norm|§ 1304 ABGB]] ist daher in jedem Fall zu berücksichtigen, auch wenn die Klage in der Hauptsache abzuweisen ist.
+
+6. Zu den Kosten
+
+Die Kosten der Vertretung sind nach den Tarifpostnummern des Rechtsanwaltstarifgesetzes zu bemessen. Die beklagte Partei hat nach ihrer Vorstellung durch die Vertreterin einen Anspruch auf Ersatz der Kosten der Klagebeantwortung, der Teilnahme an der ersten Tagsatzung und der Gebühr für die Einvernahme der Hausverwalterin. Der Streitwert ist mit EUR 9.850,00 anzusetzen. Sollte das Gericht einzelne Ansprüche als nicht gerechtfertigt erachten, ist der Kostenersatz nach dem Verhältnis des Obsiegens zu bemessen.
+
+Die beklagte Partei hat für diesen Schriftsatz eine Pauschalgebühr entrichtet, die mit dem elektronischen Zahlungsnachweis belegt wird. Eine detaillierte Kostennote wird nach Abschluss der Beweisaufnahme vorgelegt und der klagenden Partei zugestellt. Die Beklagte Partei behält sich vor, die Kosten des Augenscheins und des Gutachtens gesondert geltend zu machen, sofern die klagende Partei die Klage nicht zurücknimmt.
 
 5. Anträge
 

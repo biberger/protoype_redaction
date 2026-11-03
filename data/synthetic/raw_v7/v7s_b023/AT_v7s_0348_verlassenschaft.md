@@ -91,7 +91,7 @@ Die Verlassenschaft wird nach [[legal_norm|§ 143 AußStrG]] abgeschlossen, soba
 
 Das Vermögensverzeichnis wurde nach bestem Wissen und Gewissen erstellt. Die Angaben beruhen auf den vorgelegten Urkunden, den Auskünften der Banken und Versicherungen sowie den Angaben der Erbberechtigten.
 
-Schrattenbach, am [[date|14. Oktober 2026]]
+[[location|Schrattenbach]], am [[date|14. Oktober 2026]]
 
 [[person|Mag. Bernhard Kunert]]
 Gerichtskommissär

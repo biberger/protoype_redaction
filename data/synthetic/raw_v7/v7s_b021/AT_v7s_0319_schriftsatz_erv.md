@@ -53,6 +53,8 @@ I. Sachverhalt
 
 5. Mit anwaltlichem Schreiben vom [[date|21. November 2023]] wurde der Beklagte unter Fristsetzung bis [[date|15. Dezember 2023]] zur Zahlung des Restbetrages und zur Verbesserung aufgefordert. Auch darauf erfolgte keine Reaktion.
 
+5a. Die Klägerin hat den Beklagten am [[date|2. August 2023]] schriftlich aufgefordert, den Restbetrag von 4.760,00 Euro zu bezahlen und die Mängel zu beheben. Der Beklagte antwortete am [[date|10. August 2023]] per E-Mail, er habe die Terrasse nach den Regeln der Technik errichtet und sei für Setzungen des Untergrunds nicht verantwortlich. Er verwies auf ein Gutachten, das er jedoch nicht vorlegte.
+
 6. Die Klägerin ließ die Mängel durch einen Drittunternehmer beheben. Die Kosten dafür betrugen 9.800,00 Euro netto. Die Klägerin hat somit einen Anspruch auf Ersatz dieser Mehrkosten, soweit sie den Restwerklohn übersteigen.
 
 II. Rechtliche Ausführungen
@@ -65,18 +67,40 @@ II. Rechtliche Ausführungen
 
 10. Die Klage wird auf die Zahlung des Werklohns gerichtet und zugleich auf den Ersatz der Mehrkosten. Der Streitwert ergibt sich aus der Summe dieser Beträge.
 
+10a. Die Klage ist rechtzeitig eingebracht. Der Mangel wurde innerhalb von zwei Jahren nach der Übergabe gerügt, sodass die Vermutung des [[legal_norm|§ 933 Abs 1 ABGB]] greift und die Klägerin ihre Gewährleistungsrechte nicht verloren hat. Die gesetzlichen Zinsen sind nach [[legal_norm|§ 1333 ABGB]] ab dem Tag der Klagseinbringung zu zahlen.
+
+10b. Der Beklagte hat die Mängel trotz Aufforderung nicht beseitigt. Die Klägerin ist daher berechtigt, die Mängelbehebung selbst durchführen zu lassen und die Kosten zu verlangen. Die Kosten des Drittunternehmers sind angemessen, weil sie den ortsüblichen Preisen für vergleichbare Arbeiten entsprechen.
+
 III. Beweismittel
 
-Die Klägerin beantragt die Einvernahme der Zeugin [[person|Isolde Pabst]] zum Zustand der Terrasse und die Einholung eines Sachverständigengutachtens aus dem Fachgebiet Holzbau. Ferner werden folgende Urkunden vorgelegt:
+Die Klägerin beantragt die Einvernahme der Zeugin [[person|Isolde Pabst]] zum Zustand der Terrasse und die Einholung eines Sachverständigengutachtens aus dem Fachgebiet Holzbau. Die Zeugin wohnt im Nachbarhaus, hat die Arbeiten an der Terrasse beobachtet und kann daher zum Zustand bei Übergabe Angaben machen. Die Klägerin ersucht zudem um Einholung eines Lokalaugenscheins am Objekt, bei dem die Unterkonstruktion der Terrasse freigelegt und die Absenkung im linken Bereich gemessen wird. Ferner werden folgende Urkunden vorgelegt:
 
 Beilage ./A: Mangelprotokoll vom [[date|29. Juni 2023]]
 Beilage ./B: Zahlungsbelege vom [[date|3. Mai 2023]] und [[date|12. Juli 2023]]
 Beilage ./C: Schreiben vom [[date|21. November 2023]]
 Beilage ./D: Rechnung der Drittfirma vom [[date|8. Februar 2024]]
+Beilage ./E: Vollmacht vom [[date|2. Februar 2024]]
+Beilage ./F: E-Mail des Beklagten vom [[date|10. August 2023]]
+
+Die Klägerin hat die Terrasse nach der Übergabe mehrfach genutzt und dabei die Absenkung im linken Bereich beobachtet. Die Absenkung hat sich nach ihrer Wahrnehmung im Winter 2023 verstärkt, sodass die Platten an zwei Stellen nicht mehr plan aufliegen. Die Klägerin hat die Stolperstellen fotografiert; die Fotos sind der Beilage ./A angeschlossen und mit dem Datum der Aufnahme versehen.
+
+Der Beklagte wird aufgefordert, das Gutachten, auf das er sich in seinem E-Mail beruft, binnen 14 Tagen vorzulegen. Die Klägerin behält sich vor, die Einholung eines Gerichtssachverständigen aus dem Fachgebiet Holzbau zu beantragen.
 
 IV. Kosten
 
-Die Kosten sind nach [[legal_norm|§ 41 ZPO]] und [[legal_norm|§ 50 ZPO]] zuzusprechen.
+Die Kosten sind nach [[legal_norm|§ 41 ZPO]] und [[legal_norm|§ 50 ZPO]] zuzusprechen. Da der Beklagte den Anspruch trotz Aufforderung nicht anerkannt hat, liegt kein sofortiges Anerkenntnis im Sinne des [[legal_norm|§ 45 ZPO]] vor; die Kostenfolge ergibt sich daher aus dem Obsiegen der Klägerin. Die Verzeichnung der Kosten nach dem Rechtsanwaltstarif erfolgt gesondert.
+
+II b. Zur Streitwertberechnung
+
+Die Klägerin hat die Vertretungskosten für die vorprozessuale Korrespondenz bisher selbst getragen. Ein Anspruch auf Ersatz dieser Kosten als Verzugsschaden wird im Rahmen des Begehrens nicht geltend gemacht, bleibt aber vorbehalten. Die Korrespondenz umfasst drei Schreiben und zwei Telefonate; die Klägerin bietet an, die Verhandlung im Wege einer Videokonferenz durchzuführen.
+
+Der Streitwert des Begehrens von 14.760,00 Euro setzt sich aus dem offenen Werklohn von 4.760,00 Euro und dem über den Restwerklohn hinausgehenden Mängelbehebungsaufwand von 10.000,00 Euro zusammen. Die Zinsen bleiben nach [[legal_norm|§ 54 JN]] unberücksichtigt. Die Klägerin hat die Pauschalgebühr nach dem Tarif entrichtet. Die Vertretungskosten sind nach dem Streitwert zu bemessen.
+
+V. Schlussantrag
+
+Die Terrasse wurde nach der Mängelbehebung durch den Drittunternehmer mit einer neuen Unterkonstruktion versehen. Die Klägerin hat die Abnahme des Werkes durch den Drittunternehmer am [[date|18. Oktober 2023]] dokumentiert; das Abnahmeprotokoll liegt bei.
+
+Die Klägerin stellt daher den eingangs gestellten Antrag und behält sich das Recht vor, die Klage nach Vorliegen des Gutachtens auszudehnen.
 
 [[location|Wien]], am [[date|6. März 2024]]
 

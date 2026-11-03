@@ -43,6 +43,10 @@ II. Kaufgegenstand
 
 4. Auf der Liegenschaft befindet sich ein Wohnhaus mit Nebengebäude und Garten. Das Wohnhaus wurde im Jahr 1978 errichtet und zuletzt im Jahr 2011 umfassend saniert.
 
+4a. Die Liegenschaft ist an das öffentliche Wasser- und Kanalnetz angeschlossen. Die Wasserabgabe bis zum Übergabetag trägt die Verkäuferin. Der Anschlussbeitrag wurde im Jahr 2011 entrichtet; eine Nachzahlung ist den Parteien nicht bekannt.
+
+4b. Die Verkäuferin hat den Käufern den Energieausweis vom [[date|3. Februar 2026]] übergeben. Die Käufer bestätigen den Erhalt. Ein Lageplan, der die Grenzen der Grundstücke ausweist, ist diesem Vertrag als Anlage beigefügt.
+
 III. Kaufpreis
 
 5. Der Kaufpreis beträgt 486.000 Euro. Er ist wie folgt zu entrichten:
@@ -60,6 +64,8 @@ IV. Treuhandschaft und Lastenfreistellung
 
 8. Die Verkäuferin hat die Lastenfreistellung zu veranlassen. Die Treuhandschaft wird unter der Treuhandbuch-Nr. [[other_identifier|2024/812]] geführt.
 
+8a. Die Käufer erteilen der Treuhänderin die Vollmacht, den Kaufpreis gemäß Ziffer 5 auszuzahlen, sobald die Löschungserklärungen vorliegen. Die Vollmacht ist diesem Vertrag als Anlage beigefügt. Die Treuhänderin hat die Käufer darauf hingewiesen, dass Zahlungen an die Verkäuferin vor der Lastenfreistellung auf deren eigenes Risiko erfolgen.
+
 V. Aufsandung
 
 9. Die Verkäuferin erteilt den Käufern die Aufsandung der Liegenschaften zum Miteigentum zu je einer Hälfte. Die Käufer nehmen die Aufsandung an. Die Kanzlei wird ermächtigt, den Antrag auf Eigentumsübertragung nach Zahlung des vollen Kaufpreises einzubringen.
@@ -75,6 +81,12 @@ VII. Schlussbestimmungen
 12. Die Vertragserrichterin hat die Parteien über die Bedeutung des Vertrages belehrt. Die Parteien erklären, dass ihre Angaben zu Person und Liegenschaft vollständig sind.
 
 Die Gerichtsgebühren und die Eintragungsgebühr sind nach Abschluss des Verfahrens zu begleichen.
+
+Die Grunderwerbsteuer wird nach [[legal_norm|§ 7 Z 1 GrEStG]] aus der Gegenleistung von 486.000 Euro berechnet und von den Käufern zu gleichen Teilen getragen. Die Käufer haben die Kanzlei ermächtigt, die Beträge aus dem Treuhandkonto abzuführen, sobald der Kaufpreis vollständig eingelangt ist.
+
+Übergabeprotokoll: Die Übergabe der Liegenschaften ist für den [[date|1. September 2026]] vorgesehen. Die Parteien vereinbaren, bei der Übergabe ein gemeinsames Protokoll über den Zustand des Wohnhauses, des Nebengebäudes und des Gartens anzufertigen. Die Käufer haben das Recht, bei der Übergabe Mängel schriftlich festzuhalten. Die Verkäuferin übergibt die Zählerstände für Strom, Wasser und Gas am Übergabetag und bestätigt sie mit ihrer Unterschrift auf dem Protokoll.
+
+Ausfertigungen: Jede Partei erhält eine Ausfertigung dieses Vertrages; eine weitere geht an die Kanzlei zur Verwahrung, die diese zehn Jahre aufbewahrt; die Einsichtnahme durch die Parteien ist jederzeit möglich.
 
 [[location|Andlersdorf]], am [[date|18. Mai 2026]]
 

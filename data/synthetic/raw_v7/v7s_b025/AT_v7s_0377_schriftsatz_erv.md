@@ -73,6 +73,10 @@ III. Rechtliche Ausführungen
 
 11. Die Nebenintervenientin [[person|Gustine Offner]] hat dem Verfahren beigetreten, um die Klägerin in ihrer Auffassung über den Zustand der Steigleitung zu unterstützen. Ihre Zeugenaussage wird beantragt.
 
+Die Klägerin weist ergänzend darauf hin, dass die Erstbeklagte den Sanierungsvorschlag des Installateurs [[person|Erik Rudolph]] vom [[date|21.02.2025]] nicht an die Versicherung weitergeleitet hat. Dadurch wurde die Schadenregulierung um mehr als sechs Monate verzögert. In dieser Zeit hat sich die Feuchtigkeit im Estrich weiter ausgebreitet, sodass die Trockenlegung aufwendiger ist als ursprünglich angenommen.
+
+Der Zweitbeklagte [[person|Lucas Höfel]] hat am [[date|27.02.2025]] in einem Telefonat mit der Klägerin eingeräumt, dass der Strang seit dem Jahr 2019 nicht mehr geprüft worden sei. Die Klägerin hat das Gespräch in einer Notiz festgehalten, die als Beilage ./I vorgelegt wird. Die Sachverständigenkosten für die Feuchtemessung vom [[date|12.06.2025]] in der Höhe von EUR 480,00 hat die Klägerin selbst getragen; sie sind in der Position Trockenlegung enthalten.
+
 IV. Beweisanträge
 
 12. Die Klägerin beantragt die Einvernahme folgender Zeugen: [[person|Gustine Offner]], [[person|Erik Rudolph]] und des Zweitbeklagten [[person|Lucas Höfel]] als Partei.
@@ -83,7 +87,9 @@ V. Kosten und Zuständigkeit
 
 14. Die sachliche Zuständigkeit des [[court|BG Innere Stadt Wien]] ergibt sich aus dem Streitwert. Die örtliche Zuständigkeit folgt aus dem Ort des Schadens, dem Wohnsitz der Klägerin.
 
-15. Die Kostenentscheidung wird nach [[legal_norm|§ 41 ZPO]] und [[legal_norm|§ 50 ZPO]] beantragt.
+15. Die Kostenentscheidung wird nach [[legal_norm|§ 41 ZPO]] und [[legal_norm|§ 50 ZPO]] beantragt. Der Streitwert ergibt sich aus der Summe der Schadenspositionen nach [[legal_norm|§ 56 JN]]; die Klägerin bemisst ihn ohne Berücksichtigung der Zinsen.
+
+16. Die Klägerin ersucht um Anberaumung einer vorbereitenden Tagsatzung, in der die Zahlungsfähigkeit der Erstbeklagten und die Frage der Versicherungsdeckung des Zweitbeklagten erörtert werden können. Eine außergerichtliche Einigung ist an der Haltung der Erstbeklagten gescheitert.
 
 Beilagen
 
@@ -91,6 +97,7 @@ Beilagen
 ./B Polizze [[other_identifier|90-9668624]] samt Deckungsbestätigung der Versicherung
 ./C Schadensmeldung vom [[date|17.02.2025]]
 ./D Sanierungsvorschlag vom [[date|21.02.2025]]
+./I Gesprächsnotiz vom [[date|27.02.2025]]
 ./E Rechnung Parkettbau
 ./F Rechnung Trockenlegung
 ./G Rechnung Malerbetrieb
@@ -98,11 +105,11 @@ Beilagen
 
 VI. Vorprozessuale Korrespondenz
 
-16. Die Klägerin hat die Erstbeklagte mit Schreiben vom [[date|05.05.2025]] aufgefordert, den Schaden binnen 14 Tagen zu ersetzen. Die [[organization|Manner]] hat mit Schreiben vom [[date|19.05.2025]] jede Haftung bestritten und auf die Zuständigkeit der Versicherung des Zweitbeklagten verwiesen.
+17. Die Klägerin hat die Erstbeklagte mit Schreiben vom [[date|05.05.2025]] aufgefordert, den Schaden binnen 14 Tagen zu ersetzen. Die [[organization|Manner]] hat mit Schreiben vom [[date|19.05.2025]] jede Haftung bestritten und auf die Zuständigkeit der Versicherung des Zweitbeklagten verwiesen.
 
-17. Der Zweitbeklagte [[person|Lucas Höfel]] hat mit E-Mail vom [[date|26.05.2025]] mitgeteilt, er habe den Strang lediglich gespült und nicht ausgetauscht. Diese Darstellung steht im Widerspruch zum Sanierungsvorschlag des [[person|Erik Rudolph]] vom [[date|21.02.2025]] und zur Schadensmeldung.
+18. Der Zweitbeklagte [[person|Lucas Höfel]] hat mit E-Mail vom [[date|26.05.2025]] mitgeteilt, er habe den Strang lediglich gespült und nicht ausgetauscht. Diese Darstellung steht im Widerspruch zum Sanierungsvorschlag des [[person|Erik Rudolph]] vom [[date|21.02.2025]] und zur Schadensmeldung.
 
-18. Mit Schreiben vom [[date|11.07.2025]] hat die Klägerin die Zahlung des Schadens unter Fristsetzung bis zum [[date|31.07.2025]] neuerlich verlangt. Eine Reaktion ist nicht erfolgt, weshalb die Klage nunmehr eingebracht wird.
+19. Mit Schreiben vom [[date|11.07.2025]] hat die Klägerin die Zahlung des Schadens unter Fristsetzung bis zum [[date|31.07.2025]] neuerlich verlangt. Eine Reaktion ist nicht erfolgt, weshalb die Klage nunmehr eingebracht wird.
 
 [[location|Wien]], am [[date|30.10.2026]]
 

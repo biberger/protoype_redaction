@@ -12,7 +12,7 @@ Im Namen der Republik
 
 ERKENNTNIS
 
-Der Disziplinarrat der Oberösterreichischen Rechtsanwaltskammer hat über die Disziplinaranzeige gegen den Rechtsanwalt [[lawyer|Hellmuth Holaubek]], Kanzlei in [[location|Steyr]], durch folgende Senatsmitglieder entschieden:
+Der [[court|Disziplinarrat der Oberösterreichischen Rechtsanwaltskammer]] hat über die Disziplinaranzeige gegen den Rechtsanwalt [[lawyer|Hellmuth Holaubek]], Kanzlei in [[location|Steyr]], durch folgende Senatsmitglieder entschieden:
 
 Vorsitz: [[judge|MMag. Sophronia Šaulić]]
 Beisitzerin: [[judge|Dr. Arcadia Drudi]]
@@ -80,7 +80,7 @@ Der Mandant [[person|Dr. Ilkan Alan]] hat keinen Antrag auf Kostenersatz gestell
 
 Rechtsmittelbelehrung
 
-Gegen dieses Erkenntnis steht den Parteien die Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] offen. Die Berufung ist binnen vier Wochen schriftlich einzubringen.
+Gegen dieses Erkenntnis steht den Parteien die Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] offen. Die Berufung ist binnen vier Wochen schriftlich einzubringen. Die Frist ist gewahrt, wenn die Berufung rechtzeitig bei der Geschäftsstelle einlangt.
 
 [[location|Linz]], am [[date|08.10.2026]]
 

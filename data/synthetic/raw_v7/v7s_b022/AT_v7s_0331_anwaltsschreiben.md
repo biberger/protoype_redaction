@@ -56,4 +56,4 @@ Beilagen:
 ./. Vollmacht
 
 EINGELANGT [[date|19.01.2026]]
-TSV SCHADENABTEILUNG [[person|LORENC]]
+[[organization|TSV]] SCHADENABTEILUNG [[person|LORENC]]

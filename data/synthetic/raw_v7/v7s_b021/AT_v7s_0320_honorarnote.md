@@ -21,7 +21,7 @@ Tel. [[phone_number|+43-732-5485338-99]]
 
 Sehr geehrte Damen und Herren,
 
-wir erlauben uns, für die Vertretung in der Angelegenheit des Herrn [[person|Zacharie Sonnleitner]] folgende Leistungen in Rechnung zu stellen. Die Honorarnote bezieht sich auf den Zeitraum vom [[date|2. Juni 2025]] bis [[date|30. September 2025]].
+wir erlauben uns, für die Vertretung in der Angelegenheit des Herrn [[person|Zacharie Sonnleitner]] folgende Leistungen in Rechnung zu stellen. Die Honorarnote bezieht sich auf den Zeitraum vom [[date|2. Juni 2025]] bis [[date|31. Oktober 2025]].
 
 Leistungsverzeichnis:
 
@@ -36,16 +36,26 @@ Datum | Leistung | Betrag netto
 [[date|8. September 2025]] | Abfassung Klage (Entwurf), Rücksprache [[person|Zacharie Sonnleitner]] | 690,00
 [[date|30. September 2025]] | Zwischenbesprechung, Aktenvermerk | 210,00
 
-Zwischensumme netto: 3.220,00 Euro
+Zwischensumme netto: 3.860,00 Euro
 Barauslagen (Gerichtsgebühren, Porto, Kopien): 186,40 Euro
-Umsatzsteuer 20 % auf 3.220,00 Euro: 644,00 Euro
-Gesamtbetrag brutto: 4.050,40 Euro
+Umsatzsteuer 20 % auf 3.860,00 Euro: 772,00 Euro
+Gesamtbetrag brutto: 4.818,40 Euro
+
+Die Honorarnote entspricht den Tarifen des [[legal_norm|RATG]]. Sollten Sie Fragen zu einzelnen Positionen haben, bitten wir um Rückmeldung innerhalb von acht Tagen; danach gilt die Abrechnung als anerkannt. Für Rückfragen erreichen Sie uns unter Tel. [[phone_number|+43-732-5485338-99]].
+
+[[date|12. Oktober 2025]] | Recherche zur Verjährung, Entwurf Schriftsatz an das Gericht | 260,00
+[[date|20. Oktober 2025]] | Telefonat mit [[person|Săvan Dr. Stancu]], Terminvereinbarung | 150,00
+[[date|31. Oktober 2025]] | Durchsicht Gegenschrift, Rücksprache [[person|Zacharie Sonnleitner]] | 230,00
 
 Die Leistungen wurden zum Stundensatz der Kanzlei verrechnet. Die Barauslagen sind ohne Umsatzsteuer ausgewiesen, soweit sie durchlaufende Posten darstellen.
 
 Zahlungsziel: 14 Tage nach Rechnungsdatum.
 
-Bitte überweisen Sie den Betrag auf folgendes Konto:
+Die Leistungen sind auf Grundlage der Honorarvereinbarung vom [[date|2. Juni 2025]] abgerechnet. Besprechungen außerhalb der Kanzlei werden zuzüglich Fahrtkosten verrechnet; im Abrechnungszeitraum fielen keine solchen Fahrten an. Die Auslagen für Gerichtsgebühren wurden nach Vorlage der Belege weitergegeben; die Belege liegen als Kopie bei. Die Zahlung ist bis zum Ablauf des Zahlungsziels zu leisten, andernfalls werden Verzugszinsen nach [[legal_norm|§ 1333 Abs 2 ABGB]] berechnet. Wir danken für Ihr Vertrauen und stehen für weitere Rückfragen gern zur Verfügung.
+
+Ein Vorschuss von 1.500 Euro wurde am [[date|10. Juni 2025]] geleistet und ist bei der Gesamtabrechnung berücksichtigt. Der offene Restbetrag beläuft sich somit auf 3.318,40 Euro brutto.
+
+Bitte überweisen Sie den Restbetrag auf folgendes Konto:
 
 IBAN: [[bank_account|AT94 6574 7893 8436 9162]]
 Verwendungszweck: Kl.-Nr. [[other_identifier|61533]]
@@ -55,6 +65,6 @@ Mit freundlichen Grüßen
 [[person|Förster]]
 Rechtsanwältin
 
-[[location|St. Anton am Arlberg]], am [[date|6. Oktober 2025]]
+[[location|St. Anton am Arlberg]], am [[date|6. November 2025]]
 
 Kopie an: [[person|Zacharie Sonnleitner]] (zur Kenntnis)

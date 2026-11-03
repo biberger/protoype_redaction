@@ -47,6 +47,16 @@ I. Sachverhalt
 
 3. Mit Schreiben vom [[date|04.10.2023]] forderte der Kläger die beklagte Partei zur Zahlung von EUR 48.700,00 auf. Die beklagte Partei lehnte die Zahlung mit Schreiben vom [[date|27.10.2023]] ab und verwies auf eine angebliche Mitverantwortung des Klägers.
 
+Die Schadenspositionen stellen sich wie folgt dar:
+
+Sanierung Leitungssystem und Estrich          EUR 21.300,00
+Trocknung und Schimmelsanierung im Erdgeschoss    EUR 9.850,00
+Wiederherstellung Bodenbeläge und Malerarbeiten   EUR 7.420,00
+Sachverständigenkosten des Klägers                EUR 1.630,00
+Mietausfall für die Dauer von vier Monaten        EUR 8.500,00
+
+Die Summe der Positionen beträgt EUR 48.700,00. Die Sachverständige hat die Schadenshöhe in ihrem Gutachten vom [[date|16.09.2023]] im Wesentlichen bestätigt.
+
 4. Das Erstgericht gab der Klage mit Urteil vom [[date|14.04.2025]] im Umfang von EUR 41.200,00 statt. Es sah die Schadensverursachung durch die mangelhafte Instandhaltung als erwiesen an und ging von einer Mitverantwortung des Klägers von 15 % aus, weil er die Wasseruhr nicht regelmäßig kontrolliert habe.
 
 5. Das Berufungsgericht änderte dieses Urteil ab und wies das Klagebegehren im Übrigen ab. Es vertrat die Auffassung, der Kläger habe die Warnzeichen am Wasserzähler ab dem [[date|02.06.2023]] nicht beachtet, und ließ die ordentliche Revision nicht zu.
@@ -71,11 +81,21 @@ IV. Beweisanbot
 
 12. Zum Beweis für die Behauptungen wird die Einvernahme des Zeugen [[person|Albrecht Höllbacher]] beantragt. Dieser hat die Wasseruhr im Juni 2023 abgelesen und wird zum Zustand des Zählers und zu den Lichtbildern aussagen. Geburtsdatum: [[date_of_birth|1995-10-27]].
 
-Die Zustellung dieses Schriftsatzes an den Zeugen erfolgt nicht; er wird zur Verhandlung geladen.
+Die Zustellung dieses Schriftsatzes an den Zeugen erfolgt nicht; er wird zur Verhandlung geladen. Die Ladung ist vom Gericht zu veranlassen.
 
-V. Kosten
+V. Verfahrensrüge
 
-13. Der Kläger begehrt die Kosten des Revisionsverfahrens nach den Grundsätzen des Erfolgs. Die Kosten der Verfahrenshilfe sind gesondert zu verzeichnen.
+14. Das Berufungsgericht hat die Beweiswürdigung des Erstgerichts zum Zustand der Wasseruhr ohne nachvollziehbare Begründung verworfen. Die Aussage des Zeugen [[person|Höllbacher]] zur Ablesung im Juni 2023 wurde im Urteil nicht erwähnt, obwohl sie in der Verhandlung vom [[date|17.06.2025]] ausdrücklich zu Protokoll gegeben wurde.
+
+15. Der Kläger macht daher einen Mangel des Berufungsverfahrens geltend, weil das Berufungsgericht die Beweisergebnisse nicht vollständig gewürdigt hat. Dieser Mangel ist wesentlich, weil sich bei richtiger Würdigung die Mitverantwortung des Klägers nicht hätte begründen lassen.
+
+16. Ergänzend wird darauf hingewiesen, dass die beklagte Partei in ihrer Berufungsbeantwortung vom [[date|08.09.2025]] erstmals behauptet hat, der Schaden sei durch eine Frostperiode verursacht worden. Diese Behauptung blieb unbelegt; Wetterdaten für die relevanten Tage liegen nicht vor.
+
+17. Die beklagte Partei hat die behauptete Frostperiode nicht belegt. Ein Gutachten des Sachverständigen, das einen Frostschaden ausschließt, liegt vor und wurde bereits im Verfahren erster Instanz vorgelegt. Die Berufung stützt sich insoweit auf eine unzutreffende Tatsachengrundlage.
+
+VI. Kosten
+
+18. Der Kläger begehrt die Kosten des Revisionsverfahrens nach den Grundsätzen des Erfolgs. Die Kosten der Verfahrenshilfe sind gesondert zu verzeichnen.
 
 Beilagen:
 ./A   Urteil des Erstgerichts vom [[date|14.04.2025]] (Ausfertigung)

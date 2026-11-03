@@ -33,6 +33,10 @@ Wir ersuchen Sie daher, binnen 14 Tagen
 2. die Reparaturkosten laut beiliegendem Kostenvoranschlag von 3.870,00 Euro anzuerkennen und
 3. die Mietwagenkosten von 640,00 Euro zu ersetzen.
 
+Der Schaden ist Ihrem Versicherungsnehmer zuzurechnen, weil das Fahrzeug im Zeitpunkt des Vorfalls ohne Warnblinkanlage am Fahrbahnrand abgestellt war. Die Polizeiinspektion hat den Unfallbericht am Tag des Vorfalls aufgenommen; eine Kopie liegt bei. Wir bitten zudem um Mitteilung, ob die Schadenregulierung über einen Sachverständigen Ihres Hauses oder über einen externen Gutachter erfolgen wird, damit die Termine koordiniert werden können. Der Fahrer [[person|Sraar Poelman]] hat das Fahrzeug zuletzt um 16:30 Uhr geparkt.
+
+Das Mietfahrzeug wurde für die Dauer von zehn Tagen angemietet, weil das beschädigte Fahrzeug für die Geschäftstätigkeit der [[organization|Matt Handels GmbH]] unverzichtbar war.
+
 Die [[organization|Matt Handels GmbH]] behält sich alle weiteren Ansprüche vor. Sollten Sie die Ansprüche nicht innerhalb der Frist anerkennen, werden wir ohne weitere Ankündigung gerichtliche Schritte einleiten.
 
 Mit freundlichen Grüßen
@@ -41,3 +45,5 @@ Mit freundlichen Grüßen
 Rechtsanwalt
 
 [[address|9831 Flattach]]
+
+Beilagen: Kostenvoranschlag, Polizeibericht (Kopie)

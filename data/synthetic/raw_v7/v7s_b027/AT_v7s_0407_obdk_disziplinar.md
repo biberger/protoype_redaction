@@ -29,7 +29,7 @@ Zusätzlich wird dem Beschuldigten die Ausübung der Treuhandschaft für die Dau
 
 II. Sachverhalt
 
-1. Der Beschuldigte war seit dem Jahr 2016 Rechtsanwalt mit Kanzleisitz in [[location|St. Michael im Lungau]]. Er übernahm im Mai 2018 die Treuhandschaft Nr. [[other_identifier|2018/428]] für die Mandantin [[person|Gertraude Groag]], die aus dem Verkauf einer Eigentumswohnung Mittel von EUR 180.000,00 erwartete. Der Beschuldigte führte für die Mandanten ein gemeinsames Treuhandkonto bei einer Bank in Salzburg.
+1. Der Beschuldigte war seit dem Jahr 2016 Rechtsanwalt mit Kanzleisitz in [[location|St. Michael im Lungau]]. Er übernahm im Mai 2018 die Treuhandschaft Nr. [[other_identifier|2018/428]] für die Mandantin [[person|Gertraude Groag]], die aus dem Verkauf einer Eigentumswohnung Mittel von EUR 180.000,00 erwartete. Der Beschuldigte führte für die Mandanten ein gemeinsames Treuhandkonto bei einer Bank in [[location|Salzburg]]. Die Kontoführung oblag nach seinen Angaben einer Kanzleikraft, die jedoch keine Zeichnungsberechtigung für die Anderkonten hatte.
 
 2. Die Zahlungseingänge und Auszahlungen gestalteten sich wie folgt:
 
@@ -48,24 +48,32 @@ Datum        Vorgang                                    Betrag EUR    Treuhand-N
 
 III. Beweiswürdigung
 
-6. Der Senat stützt die Feststellungen auf die Kontoauszüge, die Angaben der Zeugin [[person|Gertraude Groag]] und die schriftliche Stellungnahme des Beschuldigten vom [[date|15.01.2025]]. Der Beschuldigte bestreitet die Auszahlung vom [[date|12.07.2019]] nicht, erklärt sie jedoch mit einem Darlehen an eine Kanzleimitarbeiterin.
+6. Der Senat stützt die Feststellungen auf die Kontoauszüge, die Angaben der Zeugin [[person|Gertraude Groag]] und die schriftliche Stellungnahme des Beschuldigten vom [[date|15.01.2025]]. Der Beschuldigte bestreitet die Auszahlung vom [[date|12.07.2019]] nicht, erklärt sie jedoch mit einem Darlehen an eine Kanzleimitarbeiterin, die in der Verhandlung nicht namentlich genannt wurde.
 
-7. Dieses Vorbringen ist nicht glaubhaft. Ein Darlehensvertrag liegt nicht vor, und die behauptete Empfängerin hat in der Verhandlung nicht ausgesagt. Auch die Zeugin [[person|Gertraude Groag]] hat die Zustimmung zu einer Auszahlung ausdrücklich verneint. Der Zeuge [[person|Neđo Ing. Bekir]] konnte zu den Buchungen keine Angaben machen.
+7. Dieses Vorbringen ist nicht glaubhaft. Ein Darlehensvertrag liegt nicht vor, und die behauptete Empfängerin hat in der Verhandlung nicht ausgesagt. Auch die Zeugin [[person|Gertraude Groag]] hat die Zustimmung zu einer Auszahlung ausdrücklich verneint.  Er gab an, den Vorschuss in bar übergeben zu haben, und legte dazu keine Quittung vor. Die Zeugin [[person|Gertraude Groag]] ergänzte, sie habe die Kanzlei im Herbst 2019 mehrmals telefonisch um Auskunft ersucht, ohne eine Antwort zu erhalten.
 
 IV. Rechtliche Beurteilung
 
-8. Die [[organization|RAK]] hat ihre Anzeige zu Recht auf die Verletzung der Pflichten bei der Verwaltung fremder Gelder gestützt. Der Beschuldigte hat gegen [[legal_norm|§ 23 RAO]] verstoßen, weil Treuhandgelder nur für den vereinbarten Zweck verwendet werden dürfen.
+8. Die [[organization|RAK]] hat ihre Anzeige zu Recht auf die Verletzung der Pflichten bei der Verwaltung fremder Gelder gestützt. Die Anzeige ist innerhalb der Frist erstattet worden, und die Ermittlungen der Kammer waren vollständig. Der Beschuldigte hat gegen [[legal_norm|§ 23 RAO]] verstoßen, weil Treuhandgelder nur für den vereinbarten Zweck verwendet werden dürfen.
 
 9. Der Senat wertet als erschwerend die wiederholte Verwendung von Mandantengeldern und den Umstand, dass die Auszahlung vom [[date|12.07.2019]] erst nach einer Mahnung der Mandantin zurückgeführt wurde. Als mildernd wird die bisherige Unbescholtenheit des Beschuldigten gewertet.
 
-10. Die Dauer des Verbots ergibt sich aus der Schwere der Pflichtverletzung. Ein gänzlicher Ausschluss aus der Rechtsanwaltschaft ist nicht geboten, weil die Mandanten nach dem Ergebnis der Verhandlung keine weiteren Schäden erlitten haben.
+10. Die Dauer des Verbots ergibt sich aus der Schwere der Pflichtverletzung. Ein gänzlicher Ausschluss aus der Rechtsanwaltschaft ist nicht geboten, weil die Mandanten nach dem Ergebnis der Verhandlung keine weiteren Schäden erlitten haben. Eine Verkürzung der Dauer des Verbots auf sechs Monate wurde geprüft, wegen der Wiederholung der Auszahlungen jedoch verworfen.
+
+11. Der Beschuldigte hat in seiner Stellungnahme vom [[date|15.01.2025]] vorgebracht, die Kanzlei habe im Jahr 2019 wirtschaftliche Schwierigkeiten gehabt. Der Senat hält dies nicht für eine Rechtfertigung. Die Verpflichtung zur getrennten Verwahrung fremder Gelder besteht unabhängig von der wirtschaftlichen Lage des Rechtsanwalts.
+
+12. Bei der Strafzumessung hat der Senat die wirtschaftliche Leistungsfähigkeit des Beschuldigten berücksichtigt. Er bezieht nach seinen Angaben Einkünfte aus der Kanzlei und ist für zwei Kinder unterhaltspflichtig. Die Geldbuße ist daher so bemessen, dass sie spürbar, aber nicht existenzgefährdend ist.
+
+13. Die Mandantin hat ausdrücklich verlangt, dass ihr Name in einer allfälligen Veröffentlichung nicht genannt wird. Der Senat hat diesem Wunsch Rechnung getragen; die Veröffentlichung erfolgt daher ohne Namensnennung der Mandanten. Die Veröffentlichung der Entscheidung in der Mitteilung der Kammer bleibt davon unberührt, weil das Erkenntnis nur den Beschuldigten namentlich betrifft.
+
+14. Gegen dieses Erkenntnis steht dem Beschuldigten die Berufung an den [[court|Obersten Gerichtshof]] offen. Die Berufungsfrist beginnt mit der Zustellung der Ausfertigung.
 
 V. Kosten
 
-11. Die Kosten des Verfahrens werden dem Beschuldigten auferlegt. Die Ausfertigung ergeht an den Kammeranwalt [[person|Mag. Tankred Pommer]] und an den Beschuldigten [[lawyer|Boleslav Sinzinger]].
+15. Die Kosten des Verfahrens werden dem Beschuldigten auferlegt. Die Ausfertigung ergeht an den Kammeranwalt [[person|Mag. Tankred Pommer]] und an den Beschuldigten [[lawyer|Boleslav Sinzinger]]. Die Kosten der Zeugen [[person|Gertraude Groag]] und [[person|Neđo Ing. Bekir]] für die Anreise zur Verhandlung werden dem Beschuldigten als Barauslagen zugerechnet, weil ihre Vorladung durch die Kammer veranlasst wurde.
 
 Die Entscheidung ist durch die Senatspräsidentin [[judge|Nastjenka Reichel]] unterzeichnet.
 
-Wien, am [[date|14.05.2025]]
+[[location|Wien]], am [[date|14.05.2025]]
 
 Für die Richtigkeit der Ausfertigung: Schriftführerin [[person|Leandra MMag. Neuwirth]]

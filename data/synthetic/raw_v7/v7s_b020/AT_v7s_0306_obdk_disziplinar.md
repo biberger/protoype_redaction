@@ -14,7 +14,7 @@ Im Namen der Republik
 
 ERKENNTNIS
 
-Der Disziplinarrat der Tiroler Rechtsanwaltskammer hat durch den Senat in folgender Zusammensetzung:
+Der [[court|Disziplinarrat der Tiroler Rechtsanwaltskammer]] hat durch den Senat in folgender Zusammensetzung:
 
 Vorsitz: [[judge|Mag. Ruthild Bräuer]]
 Beisitzer: [[judge|Mag. Gualtiero Mannlicher]], [[judge|MMag. Zorica Andrić]]
@@ -73,7 +73,7 @@ Die Beschuldigte hat die Gelder entgegen dieser Pflicht für eigene Zwecke verwe
 
 Die Verletzungen sind nach Ansicht des Senats nicht geringfügig. Die Beschuldigte hat über einen Zeitraum von mehr als drei Monaten Mandantengelder nicht zur Verfügung gestellt und so das Vertrauen in die Treuhandfunktion des Rechtsanwalts beeinträchtigt.
 
-Die Pflicht zur Führung eines Anderkontos ist in den Richtlinien über die Berufsausübung und in der ständigen Rechtsprechung des Obersten Gerichtshofs präzisiert. Danach sind Treuhandgelder unverzüglich nach Eintritt der Fälligkeit auszufolgen, und jede Verwendung für Zwecke der Kanzlei ist unzulässig. Ein Rechtsanwalt darf sich auch dann nicht auf eigene Forderungen berufen, wenn diese gegen den Mandanten bestehen, solange diese nicht unbestritten oder titulierten sind.
+Die Pflicht zur Führung eines Anderkontos ist in den Richtlinien über die Berufsausübung und in der ständigen Rechtsprechung des [[court|Obersten Gerichtshofs]] präzisiert. Danach sind Treuhandgelder unverzüglich nach Eintritt der Fälligkeit auszufolgen, und jede Verwendung für Zwecke der Kanzlei ist unzulässig. Ein Rechtsanwalt darf sich auch dann nicht auf eigene Forderungen berufen, wenn diese gegen den Mandanten bestehen, solange diese nicht unbestritten oder titulierten sind.
 
 Die Beschuldigte hat diese Grundsätze nach Ansicht des Senats nicht beachtet. Sie hat die Gelder der Mandanten als eine Art Betriebsmittel behandelt, was die Integrität des Treuhandwesens gefährdet. Gerade die Stellung eines Rechtsanwalts als Vertrauensperson verlangt jedoch eine strikte Trennung von Eigen- und Fremdgeldern, die hier nicht gewahrt wurde.
 
@@ -93,11 +93,13 @@ VI. Kosten
 
 Die Kostenentscheidung beruht auf den Bestimmungen des Disziplinarstatuts. Die Beschuldigte hat die Pauschalkosten zu tragen.
 
+Die Verhandlung wurde in Anwesenheit der Beschuldigten und des Kammeranwalts durchgeführt. Die Entscheidung wurde nach Beratung im Senat verkündet und schriftlich ausgefertigt und protokolliert.
+
 VII. Rechtsmittelbelehrung
 
 Gegen dieses Erkenntnis steht den Parteien die Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] offen. Die Berufung ist binnen vier Wochen ab Zustellung schriftlich beim Disziplinarrat einzubringen.
 
-Innsbruck, am [[date|09.09.2026]]
+[[location|Innsbruck]], am [[date|09.09.2026]]
 
 Für die Richtigkeit der Ausfertigung:
 

@@ -36,6 +36,12 @@ Datum | Vorgang | Betrag | Klient
 
 6. Die Beschuldigte bestätigt die Überweisungen. Sie habe die Beträge für eigene Forderungen aus einem anderen Mandat verrechnet. Eine Honorarnote, die diese Verrechnung belegt, liegt nicht vor.
 
+6a. Der Klient [[person|Koch]] legte eine Bestätigung des Vermittlungsbüros vor, wonach die Wohnung im Februar 2022 nicht zur Verfügung stand. Die Beschuldigte bestätigte, dass sie diese Bestätigung nicht kannte, als sie die Zahlung vom [[date|20. Juni 2023]] veranlasste.
+
+6b. Der Klient [[person|Aczél]] wurde in der Verhandlung durch seine Lebensgefährtin [[person|Greta Pallhuber]] begleitet, die angab, sie habe die Übergabe des Kaufpreisanteils im Mai 2022 selbst beobachtet. Die Angaben der Zeugin sind mit dem Kontoauszug vereinbar, nicht jedoch mit der Verrechnung der Beschuldigten.
+
+6c. Die Kammeranwältin [[person|Dr. Srecka Sušanj]] hat in der Verhandlung eine Abschrift des Treuhandbuchs vorgelegt, in der die Überweisung vom [[date|5. Juli 2023]] nicht enthalten ist. Die Beschuldigte hat die Richtigkeit dieser Abschrift nicht bestritten.
+
 Rechtliche Beurteilung
 
 7. Nach [[legal_norm|§ 43a Abs 5 RAO]] darf der Rechtsanwalt fremde Gelder nur für den Zweck verwenden, für den sie ihm übergeben wurden. Eine Verrechnung mit eigenen Honorarforderungen ist nur zulässig, wenn die Forderung fällig und unbestritten ist. Beides war hier nicht der Fall.
@@ -45,6 +51,12 @@ Rechtliche Beurteilung
 9. Als mildernd wertet der Senat, dass die Beschuldigte die Gelder vollständig zurückgezahlt hat und bisher keine Disziplinarverfahren gegen sie anhängig waren. Erschwerend wirkt die Verzögerung bei der Vorlage der Unterlagen gegenüber der [[organization|TRAK]].
 
 10. Die verhängte Geldbuße entspricht dem Unrechtsgehalt. Eine Untersagung der Berufsausübung ist nicht erforderlich. Die Kosten des Verfahrens trägt die Beschuldigte.
+
+11. Die Beschuldigte hat sich in der Verhandlung reumütig gezeigt und angekündigt, Treuhandbewegungen künftig nur noch über ein Kanzleikonto mit getrenntem Buchungsjournal vorzunehmen. Dieses Verhalten wird als Milderungsgrund gewertet, ändert aber nichts an der Verurteilung.
+
+12. Die Geldbuße wird binnen vier Wochen nach Rechtskraft zur Zahlung fällig. Gegen diesen Spruch kann die Beschuldigte innerhalb der gesetzlichen Frist Berufung erheben; die Kammer wird die Zahlung überwachen.
+
+13. Der Senat hat bei der Bemessung berücksichtigt, dass die Beschuldigte das Treuhandwesen bislang ohne Beanstandung geführt hat, bis die Routineprüfung der Kammer die Lücken aufdeckte. Die Höhe der Geldbuße liegt daher im unteren Bereich des gesetzlichen Rahmens, auch wenn die Zahl der Verstöße erheblich ist.
 
 [[location|Innsbruck]], am [[date|9. Dezember 2025]]
 

@@ -11,7 +11,7 @@ E: [[email|office@wolff.at]]  W: www.wolff.at
 [[organization|Raiffeisenbank Region Thurn eGen]] IBAN: [[bank_account|AT30 0822 4832 8267 2915]] BIC: [[bank_account|RLNWATWW]]
 ERV-Code: [[other_identifier|P716973]]
 
-Hohenstein Immobilien GmbH
+[[organization|Hohenstein Immobilien GmbH]]
 z.H. [[person|Dr. Zinoviy Sándor]]
 Geschäftsführung
 [[address|2491 Neufeld an der Leitha]]

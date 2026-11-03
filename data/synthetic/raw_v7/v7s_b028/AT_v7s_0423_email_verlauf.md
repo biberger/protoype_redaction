@@ -13,33 +13,17 @@ ERV-Code: [[other_identifier|P288707]]
 
 GZ der Kanzlei: [[other_identifier|SL/Willner/7113]]
 
-Von: [[person|Gregor Willner]] <[[email|g.willner@kowanz-handel.at]]>
-Gesendet: Montag, [[date|12. Oktober 2026]] 09:14
-An: [[lawyer|Berticek Vácha]] <[[email|b.vacha@vacha-anwalt.at]]>
+Von: [[lawyer|Dr. Berticek Vácha]] <[[email|b.vacha@vacha-anwalt.at]]>
+Gesendet: Dienstag, [[date|13. Oktober 2026]] 11:40
+An: [[person|Gregor Willner]] <[[email|g.willner@kowanz-handel.at]]>
 Cc: [[person|MMag. Gaby Truppe]] <[[email|g.truppe@andraschek.at]]>
-Betreff: Kaufpreisrückstand Lagerhalle, Zeichen [[other_identifier|692/24 SL]]
-
-Sehr geehrter Herr Rechtsanwalt [[lawyer|Vácha]],
-
-anbei übermittle ich Ihnen die Zahlungsbelege der [[organization|Kowanz Handels GmbH]] (im Folgenden [[organization|KHG]]). Die Gesellschaft hat den offenen Restbetrag bereits am [[date|8. Oktober 2026]] überwiesen. Der Beleg liegt bei.
-
-Ich bitte um Bestätigung des Zahlungseingangs und um Rücknahme der Klage vom [[date|1. September 2026]].
-
-Mit freundlichen Grüßen
-
-[[person|Gregor Willner]]
-Geschäftsführer
-[[organization|Kowanz Handels]]
-
------Ursprüngliche Nachricht-----
-Von: [[lawyer|Berticek Vácha]] <[[email|b.vacha@vacha-anwalt.at]]>
-Gesendet: Freitag, [[date|9. Oktober 2026]] 16:02
-An: [[person|Gregor Willner]]
-Betreff: AW: Kaufpreisrückstand Lagerhalle, Zeichen 692/24 SL
+Betreff: AW: Kaufpreisrückstand Lagerhalle, Zeichen [[other_identifier|692/24 SL]]
 
 Sehr geehrter Herr [[person|Willner]],
 
-die Zahlung ist bei uns nicht eingegangen. [[organization|KHG]] wird um Überweisung bis [[date|20. Oktober 2026]] ersucht, andernfalls führe ich das Verfahren fort.
+der Zahlungseingang der [[organization|Kowanz Handels GmbH]] ist heute bestätigt. Ich nehme die Klage vom [[date|1. September 2026]] daher zurück. Die Mahnspesen von EUR 84,40 sind bis [[date|27. Oktober 2026]] auf das Konto meiner Kanzlei zu überweisen.
+
+Den Zeugen [[person|Hildebrand Krasnohorský]] ersuche ich, für eine Stellungnahme zur Lieferung im Jahr 2025 zur Verfügung zu stehen. Die Kanzlei übernimmt die Kosten der Anreise.
 
 Mit freundlichen Grüßen
 
@@ -49,23 +33,50 @@ Rechtsanwalt
 Tel. [[phone_number|02742 278956-53]]
 Fax: [[phone_number|+43 2742 278956-99]]
 
-Die Kanzlei bestätigt den Eingang der Zahlung in der Nachricht vom [[date|13. Oktober 2026]] durch [[person|MMag. Gaby Truppe]]:
-
-> Sehr geehrte Damen und Herren,
-> die Überweisung der [[organization|Kowanz Handels GmbH]] ist am [[date|13. Oktober 2026]] eingegangen. Den Betrag hat [[person|Gregor Willner]] angewiesen.
+> Von: [[person|Gregor Willner]] <[[email|g.willner@kowanz-handel.at]]>
+> Gesendet: Montag, [[date|12. Oktober 2026]] 09:14
+> An: [[lawyer|Dr. Berticek Vácha]] <[[email|b.vacha@vacha-anwalt.at]]>
+> Cc: [[person|MMag. Gaby Truppe]] <[[email|g.truppe@andraschek.at]]>
+> Betreff: AW: Kaufpreisrückstand Lagerhalle, Zeichen [[other_identifier|692/24 SL]]
+>
+> Sehr geehrter Herr Rechtsanwalt [[lawyer|Vácha]],
+>
+> anbei übermittle ich Ihnen die Zahlungsbelege der [[organization|Kowanz Handels GmbH]] (im Folgenden [[organization|KHG]]). Die Gesellschaft hat den offenen Restbetrag bereits am [[date|8. Oktober 2026]] überwiesen. Der Beleg liegt bei.
+>
+> Ich bitte um Bestätigung des Zahlungseingangs und um Rücknahme der Klage vom [[date|1. September 2026]].
+>
 > Mit freundlichen Grüßen
-> [[person|MMag. Gaby Truppe]]
+> [[person|Gregor Willner]]
+> Geschäftsführer
+> [[organization|Kowanz Handels]]
+>
+>> Von: [[lawyer|Dr. Berticek Vácha]] <[[email|b.vacha@vacha-anwalt.at]]>
+>> Gesendet: Freitag, [[date|9. Oktober 2026]] 16:02
+>> An: [[person|Gregor Willner]]
+>> Betreff: AW: Kaufpreisrückstand Lagerhalle, Zeichen [[other_identifier|692/24 SL]]
+>>
+>> Sehr geehrter Herr [[person|Willner]],
+>>
+>> die Zahlung ist bei uns nicht eingegangen. Die [[organization|Kowanz Handels GmbH]] wird um Überweisung bis [[date|20. Oktober 2026]] ersucht, andernfalls führe ich das Verfahren fort.
+>>
+>> Mit freundlichen Grüßen
+>> [[lawyer|Dr. Berticek Vácha]]
+>> Rechtsanwalt
 
-Die Bestätigung wird in die Akten des Verfahrens aufgenommen. Zeugenschaftlich wird [[person|Hildebrand Krasnohorský]] benannt, der die Lieferungen der KHG im Jahr 2025 übernommen hat.
+Die Kanzlei bestätigt den Eingang der Zahlung in der Nachricht vom [[date|13. Oktober 2026]] und legt den Vorgang zur Akte. Die Bestätigung wird dem Gericht übermittelt, sobald die Klage zurückgenommen ist. Der Zahlungsbeleg vom [[date|8. Oktober 2026]] ist als Anhang beigefügt; die Buchung trägt den Verwendungszweck des Verfahrens. Sollte die Zahlung der Mahnspesen nicht fristgerecht eingehen, wird die Kanzlei ohne weitere Ankündigung die Vollstreckung einleiten.
 
 Mit freundlichen Grüßen
 [[person|MMag. Gaby Truppe]]
 Rechtsanwaltsanwärterin
-Andraschek, Diess, Rubin
+[[organization|Andraschek, Diess, Rubin]]
 Tel. [[phone_number|02622 593339 DW 115]]
 Fax: [[phone_number|02622 593339-60]]
 [[email|g.truppe@andraschek.at]]
 
-Kopie der Ausgangsrechnung an den Zeugen [[person|Christinus Sandbichler]] (Geburtsdatum: [[date_of_birth|19. Mai 1940]]), der die Lagerhalle [[location|St. Gilgen]] vermietet hat. Die Verhandlung findet in [[location|St. Gilgen]] statt.
+Kopie der Ausgangsrechnung an den Zeugen [[person|Christinus Sandbichler]] (Geburtsdatum: [[date_of_birth|19. Mai 1940]]), der die Lagerhalle in [[location|St. Gilgen]] vermietet hat. Die Verhandlung findet in [[location|St. Gilgen]] statt.
 
 Die Kanzlei wünscht schöne Grüße aus [[address|3335 Weyer]].
+
+Die Kanzlei hat den Zeugen [[person|Krasnohorský]] bereits telefonisch kontaktiert. Er wird voraussichtlich am [[date|5. November 2026]] zur Verfügung stehen. Ich bitte Sie, Herrn [[person|Willner]] über den Termin zu informieren.
+
+Diese E-Mail enthält vertrauliche Informationen und ist nur für den Adressaten bestimmt. Wenn Sie nicht der Adressat sind, informieren Sie bitte den Absender und löschen Sie die Nachricht.

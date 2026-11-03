@@ -30,7 +30,7 @@ Sehr geehrter Herr [[person|Michel]],
 
 wir zeigen an, dass uns Herr [[person|Placidus Gleirscher]], Geburtsdatum: [[date_of_birth|14.02.1957]], mit der Vertretung in der Angelegenheit der Wasserschäden in seiner Wohnung beauftragt hat. Die Wohnung befindet sich in [[address|4223 Katsdorf]], wo am [[date|23.09.2026]] eine defekte Waschmaschinenzuleitung zu einem Wasserschaden im Erdgeschoss führte.
 
-Die Leistungsentscheidung Ihres Hauses vom [[date|29.10.2026]] ist für unseren Mandanten nicht nachvollziehbar. Sie haben die Deckung mit dem Hinweis auf eine nicht rechtzeitig angezeigte Schadensmeldung abgelehnt. Die Schadensmeldung ging jedoch bereits am [[date|24.09.2026]] bei Ihrer Schadenshotline ein, wie die Gesprächsnotiz vom selben Tag belegt.
+Die Leistungsentscheidung der [[organization|Alpenland Versicherung AG]] (im Folgenden [[organization|AVAG]]) vom [[date|29.10.2026]] ist für unseren Mandanten nicht nachvollziehbar. Die [[organization|AVAG]] hat die Deckung mit dem Hinweis auf eine nicht rechtzeitig angezeigte Schadensmeldung abgelehnt. Die Schadensmeldung ging jedoch bereits am [[date|24.09.2026]] bei Ihrer Schadenshotline ein, wie die Gesprächsnotiz vom selben Tag belegt.
 
 Herr [[person|Florian Buchmayr]], geb [[date_of_birth|20.11.1943]], StA. [[country|Ungarn]], wohnt im Obergeschoss und war als Zeuge des Wasseraustritts anwesend. Er hat sich bereit erklärt, eine schriftliche Erklärung abzugeben. Diese liegt diesem Schreiben als Beilage bei. Herr [[person|Buchmayr]] ist seit über dreißig Jahren Mieter im Haus und kennt die Leitungen aus eigener Anschauung. Die Hausverwaltung hat den Schaden am Erdgeschoss schriftlich bestätigt.
 

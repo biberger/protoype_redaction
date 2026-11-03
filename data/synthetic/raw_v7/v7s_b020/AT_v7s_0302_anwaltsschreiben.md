@@ -21,6 +21,8 @@ An die
 Schadenabteilung Kraftfahrt
 z. H. Frau [[person|Antonella Gulda]]
 
+SCHADENSFALL [[person|NACHTMANN]] - [[other_identifier|OW/NACHTMANN/4417]]
+
 Betreff: Verkehrsunfall vom [[date|04.03.2026]]; Schadenersatzansprüche des Herrn [[person|Veit Nachtmann]]; Schaden-Nr. [[other_identifier|51/340473/24]]
 
 Sehr geehrte Frau [[person|Gulda]],
@@ -29,7 +31,7 @@ wir vertreten Herrn [[person|Veit Nachtmann]], geb. [[date_of_birth|18. Oktober 
 
 Das Fahrzeug stand im Eigentum der [[organization|Watzke Immobilien GmbH]] (im Folgenden [[organization|WIG]]), [[company_register_number|FN 126882t]], UID: [[tax_id|ATU94898601]], und wurde von deren Angestelltem, Herrn [[person|Gangolf Kornberger]], gelenkt. Die [[organization|Watzke Immobilien]] hat den Unfall gegenüber der Polizei nicht bestritten. Die [[organization|WIG]] ist daher für den Schaden nach dem Verschulden ihres Lenkers verantwortlich.
 
-Im Fahrzeug unseres Mandanten befand sich als Beifahrerin Frau [[person|Annmarie Breinbauer]], Staatsangehörige von [[country|Österreich]]. Sie erlitt eine Halswirbelsäulenzerrung, die ärztlich dokumentiert wurde. Herr [[person|Veit Nachtmann]] war mehrere Wochen arbeitsunfähig.
+Im Fahrzeug unseres Mandanten befand sich als Beifahrerin Frau [[person|Annmarie Breinbauer]], Staatsangehörige von [[country|Österreich]]. Sie erlitt eine Halswirbelsäulenzerrung, die ärztlich dokumentiert wurde. Frau [[person|Breinbauer]], die ursprünglich in [[location|St. Michael im Lungau]] gemeldet war, ist derzeit unter der Adresse [[address|8770 Sankt Michael in Obersteiermark]] erreichbar. Herr [[person|Veit Nachtmann]] war mehrere Wochen arbeitsunfähig.
 
 Die Haftung ergibt sich aus [[legal_norm|§ 7 Abs 1 EKHG]] iVm [[legal_norm|§ 1311 ABGB]] und dem Verschulden des Lenkers. Die Sachschäden am Fahrzeug unseres Mandanten belaufen sich laut Kostenvoranschlag auf 6.240 Euro netto. Der Wiederbeschaffungswert des Fahrzeugs wurde mit 9.800 Euro angesetzt.
 

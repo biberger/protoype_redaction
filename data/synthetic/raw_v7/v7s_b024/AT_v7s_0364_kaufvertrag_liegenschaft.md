@@ -71,7 +71,7 @@ der Vertragserrichterin beim Grundbuchsgericht eingebracht.
 
 **V. Verschiedenes**
 
-12. Die Käufer haben die Liegenschaften besichtigt und kennen deren Zustand. Gewährleistungsansprüche
+12. Die Käufer haben die Liegenschaften besichtigt und kennen deren Zustand. Die Besichtigung fand am [[date|25. September 2026]] statt. Gewährleistungsansprüche
 richten sich nach den Bestimmungen des [[legal_norm|ABGB]].
 
 13. Mündliche Nebenabreden bestehen nicht. Änderungen bedürfen der Schriftform.
@@ -112,7 +112,51 @@ Im Zuge der Vorbereitung wurde folgende Eintragung abgeglichen:
 
 Zusätzlich ist [[person|Riemer Jens]] mit dem Anteil 1/2 und der Anschrift [[address|Brucknerstraße 14/3, 4020 Linz]] einzutragen.
 
-**Unterschriften**
+**IX. Lastenfreistellung und Pfandrechte**
+
+16. Auf den Liegenschaften lasten nach dem Lastenblatt Pfandrechte zugunsten der [[organization|Hypo Tirol Bank AG]].
+Die Bank hat sich mit Schreiben vom [[date|2. Oktober 2026]] bereit erklärt, die Pfandrechte gegen Zahlung eines
+Teilbetrages aus dem Kaufpreis im Rang zurückzutreten und nach Zahlungseingang zu löschen. Die Verkäuferin
+verpflichtet sich, die Löschungserklärung der Bank unverzüglich dem Notar zu übergeben.
+
+17. Die Verkäuferin haftet für sämtliche Rückstände an Grundsteuern, Kanalgebühren und Wasserzinsen bis zum
+Übergabstichtag. Die Käufer übernehmen die laufenden Abgaben ab dem Übergabstichtag, die Abrechnung erfolgt
+durch die Vertragserrichterin.
+
+18. Die Käufer nehmen zur Kenntnis, dass die Grunderwerbsteuer nach dem Wert der Gegenleistung und dem
+Dreifachen des Einheitswertes zu berechnen ist. Die Selbstberechnung und Anmeldung beim Finanzamt obliegt den
+Käufern; die Vertragserrichterin wird auf Verlangen die erforderlichen Unterlagen bereitstellen.
+
+19. Sollte eine Bestimmung dieses Vertrages unwirksam sein oder werden, so bleibt der Vertrag im Übrigen
+wirksam. Die Parteien verpflichten sich, die unwirksame Bestimmung durch eine wirtschaftlich möglichst gleiche
+zu ersetzen. Die Kosten dieses Vertrages sowie seiner grundbücherlichen Durchführung tragen die Käufer.
+
+20. Die Käuferin [[person|Virgilia Ing. Onișor]] und der Käufer [[person|Jens Riemer]] erklären, dass sie den
+Vertrag persönlich und ohne Zwang abgeschlossen haben. Die Vertragsparteien bestätigen, dass ihnen der Inhalt
+des Vertrages vor der Unterfertigung vollständig erläutert wurde und dass sie keine weiteren Vereinbarungen
+getroffen haben.
+
+**X. Ausfertigungen**
+
+21. Dieser Vertrag wird in fünf gleichlautenden Ausfertigungen errichtet, wovon je eine Ausfertigung für die
+Verkäuferin, für die Käufer, für das Finanzamt und für das Grundbuchsgericht bestimmt ist. Die fünfte
+Ausfertigung verbleibt bei der Vertragserrichterin.
+
+Die Verkäuferin erklärt, dass die Liegenschaften seit dem Erwerb im Jahr 2011 nicht bebaut wurden und keine
+behördlichen Verfahren betreffend Umwidmung oder Bebauung anhängig sind. Bei Abweichungen vom tatsächlichen
+Zustand haftet die Verkäuferin nur, soweit die Abweichung der Käufer nicht bei Besichtigung erkennen konnte.
+
+**XI. Hinweise des Notars**
+
+22. Die Vertragserrichterin hat die Parteien darauf hingewiesen, dass die Eintragung des Eigentumsrechtes erst nach
+Vorliegen aller Voraussetzungen erfolgen kann. Die Dauer der Eintragung hängt vom Grundbuchsgericht ab und beträgt
+üblicherweise einige Wochen. Die Käufer erhalten nach der Eintragung einen Grundbuchsauszug.
+
+23. Auf die Strafbarkeit einer unrichtigen Angabe in der Vertragsurkunde wurde hingewiesen. Die Parteien
+bestätigen, dass die Kaufpreisangaben vollständig und richtig sind und keine Schwarzgeldzahlungen vereinbart
+wurden. Die Vertragserrichterin hat die Käufer aufgefordert, sämtliche Angaben über die Finanzierung offenzulegen.
+
+**Unterschriften****Unterschriften**
 
 Für die Verkäuferin:
 

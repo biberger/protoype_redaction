@@ -77,7 +77,7 @@ Tel. [[phone_number|+43 5522 77 04 12]]
 Von: [[person|Basia Guzowska]] <[[email|basia.guzowska@gmx.at]]>
 Gesendet: Montag, [[date|14. September 2026]] 09:12
 An: [[person|Laszlo Malik]] <[[email|l.malik@eisenberg.at]]>
-Betreff: Schreiben der SWG
+Betreff: Schreiben der [[organization|SWG]]
 
 Lieber Herr [[person|Malik]],
 

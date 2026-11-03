@@ -49,7 +49,7 @@ EUR 180,00 monatlich und die Umsatzsteuer in gesetzlicher Höhe. Die Betriebskos
 jährlich mit der Abrechnung der Vermieterin abgeglichen.
 
 4. Der Mietzins ist jeweils im Vorhinein bis zum Dritten eines jeden Monats auf das Konto
-IBAN [[bank_account|AT70 6882 5973 4128 8551]] der Kollmann GmbH zu überweisen. Der Verwendungszweck ist
+IBAN [[bank_account|AT70 6882 5973 4128 8551]] der [[organization|Kollmann GmbH]] zu überweisen. Der Verwendungszweck ist
 die Kunden-Nr. [[other_identifier|491476]] der Mieterin.
 
 5. Die Mieterin erlegt eine Kaution in der Höhe von drei Bruttomonatsmieten. Sie ist bis spätestens
@@ -95,6 +95,14 @@ erfolgt nach Maßgabe der Hausverwaltung. Müll ist in die dafür vorgesehenen B
 Haupteingang. Die Mieterin hat bei Beendigung des Mietverhältnisses sämtliche Schlüssel zurückzugeben.
 Nachschlüssel dürfen nur mit Zustimmung der Vermieterin angefertigt werden.
 
+**IV b. Übergabe der Zählerstände**
+
+Die Mieterin hat bei Übergabe die Zählerstände der Wasser- und Stromzähler gemeinsam mit der Hausverwaltung
+abzulesen. Die Protokollierung erfolgt auf dem Übergabeprotokoll, das beide Parteien unterfertigen.
+
+Die Wohnung wurde vor der Unterfertigung von der Mieterin besichtigt. Die Mieterin bestätigt, dass ihr der
+Zustand bekannt ist und dass sie die Wohnung in dem Zustand übernimmt, in dem sie sich befindet.
+
 **V. Schlussbestimmungen**
 
 11. Änderungen und Ergänzungen dieses Vertrages bedürfen der Schriftform. Mündliche Nebenabreden bestehen
@@ -109,7 +117,7 @@ Ausgefertigt in [[address|6382 Kirchdorf in Tirol]], am [[date|12. Mai 2026]].
 Für die Vermieterin:
 
 [[person|Arnfried Arslan]]
-Geschäftsführer der Kollmann GmbH
+Geschäftsführer der [[organization|Kollmann GmbH]]
 
 Die Mieterin:
 

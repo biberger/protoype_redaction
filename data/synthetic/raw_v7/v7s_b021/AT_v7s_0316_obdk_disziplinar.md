@@ -8,7 +8,7 @@ Geschäftszahl [[case_number|D 7/2025]]
 
 ERKENNTNIS
 
-Der Disziplinarrat der Rechtsanwaltskammer für Kärnten hat in der nichtöffentlichen Sitzung vom 18. November 2025 über die Disziplinaranzeige der [[organization|Rechtsanwaltskammer für Kärnten]] ([[organization|RAK]]) gegen die Rechtsanwältin [[lawyer|Krimhilde Helnwein]] nach Durchführung der mündlichen Verhandlung erkannt wie folgt:
+Der [[court|Disziplinarrat der Rechtsanwaltskammer für Kärnten]] hat in der nichtöffentlichen Sitzung vom [[date|18. November 2025]] über die Disziplinaranzeige der [[organization|Rechtsanwaltskammer für Kärnten]] ([[organization|RAK]]) gegen die Rechtsanwältin [[lawyer|Krimhilde Helnwein]] nach Durchführung der mündlichen Verhandlung erkannt wie folgt:
 
 Zusammensetzung des Senats (Protokoll):
 
@@ -42,29 +42,37 @@ Beweiswürdigung
 
 Der Senat stützt die Feststellungen auf die Treuhandkontoauszüge, auf das Treuhandbuch, auf die Mitteilung der [[organization|RAK]] und auf die Aussagen des Kammeranwalts [[person|Dr. Erk John]] sowie der Mandanten [[person|Dionys Stricker]] und [[person|DI Fanny Köhle]]. Die Beschuldigte bestreitet die Vorwürfe zu Punkt 3 nur teilweise. Die Angaben der Beschuldigten zu den Zahlungen sind nicht durch Belege gedeckt. Die Aussage des Mandanten [[person|Dionys Stricker]] war in den wesentlichen Punkten glaubwürdig und in sich schlüssig.
 
+Die Beschuldigte hat in der Verhandlung eingeräumt, dass das Treuhandbuch nicht täglich fortgeführt wurde. Sie legte einen Auszug aus ihrer Buchhaltungssoftware vor, der die Zahlung vom [[date|17. Mai 2023]] jedoch nicht enthält. Der Senat hält diesen Auszug daher für unvollständig und nicht geeignet, die Angaben der Beschuldigten zu belegen.
+
 Der Senat verkennt nicht, dass die Beschuldigte bisher disziplinär nicht in Erscheinung getreten ist und dass die Verhandlungsführung der Beschuldigten über weite Strecken sachlich war. Gleichwohl wiegt die Verletzung der Pflicht zur ordnungsgemäßen Verwahrung fremder Gelder schwer, weil sie das Vertrauen der Rechtsuchenden in die Verlässlichkeit des Berufsstandes unmittelbar berührt.
 
 Rechtliche Beurteilung
 
 Gemäß [[legal_norm|§ 1 RAO]] hat der Rechtsanwalt seinen Beruf gewissenhaft und mit der gebotenen Sorgfalt auszuüben. Die Pflicht zur Verwahrung anvertrauter Vermögenswerte ergibt sich aus [[legal_norm|§ 42 Abs 1 RAO]]. Ein Verstoß gegen diese Pflicht ist disziplinär zu ahnden, unabhängig davon, ob ein Schaden eingetreten ist.
 
-Die Abweichung des Treuhandkontos vom Buchsaldo ist ein objektiv gravierender Umstand. Die Beschuldigte hat die Zahlung vom 17. Mai 2023 ohne schriftliche Weisung vorgenommen. Der Senat wertet dies als Verstoß gegen die Pflicht zur Einhaltung der Weisungen des Mandanten. Die Zahlungen an [[person|DI Fanny Köhle]] wurden über ein Treuhandkonto verbucht, das einer anderen Klientin zugeordnet war; eine Vermischung fremder Gelder ist damit zu bejahen.
+Die Abweichung des Treuhandkontos vom Buchsaldo ist ein objektiv gravierender Umstand. Die Beschuldigte hat die Zahlung vom [[date|17. Mai 2023]] ohne schriftliche Weisung vorgenommen. Der Senat wertet dies als Verstoß gegen die Pflicht zur Einhaltung der Weisungen des Mandanten. Die Zahlungen an [[person|DI Fanny Köhle]] wurden über ein Treuhandkonto verbucht, das einer anderen Klientin zugeordnet war; eine Vermischung fremder Gelder ist damit zu bejahen.
 
 Die [[court|Oberste Berufungs- und Disziplinarkommission]] ([[court|OBDK]]) hat in ihrer Rechtsprechung betont, dass die Verwaltung von Treuhandgeldern strenge Anforderungen stellt. Die Beschuldigte hat diese Anforderungen nicht erfüllt. Der Senat sieht den Unrechtsgehalt als mittelschwer an.
+
+Die Verwahrung fremder Gelder ist ein Kernbereich der anwaltlichen Berufspflichten. Der Mandant vertraut darauf, dass ein Betrag, den er dem Rechtsanwalt übergibt, jederzeit und vollständig verfügbar bleibt. Wenn der Rechtsanwalt dieses Vertrauen enttäuscht, ist der Schaden für den Rechtsverkehr größer als die bloße Vermögenseinbuße des Mandanten. Der Disziplinarrat hat deshalb zu Recht darauf hingewiesen, dass auch die Rückzahlung des Differenzbetrages den Verstoß nicht ungeschehen macht.
+
+Zur Frage der Verhältnismäßigkeit ist festzuhalten, dass die Beschuldigte keine Vorstrafe in der Berufsgerichtsbarkeit aufweist und die Verhandlung ohne Verzögerung geführt wurde. Diese Umstände fließen in die Strafbemessung ein.
 
 Strafbemessung
 
 Als mildernd wertet der Senat die bisherige Unbescholtenheit, das Geständnis der Vorwürfe zu den Punkten 1 und 4 und die Rückzahlung des Differenzbetrages an die Mandantin [[person|DI Fanny Köhle]] am [[date|20. Februar 2025]]. Als erschwerend wertet der Senat die mehrfache Buchung ohne Weisung und die Dauer des Zeitraums von rund einem Jahr.
 
+Der Kammeranwalt [[person|Dr. Erk John]] hatte in seinem Antrag eine Geldbuße von 5.000 Euro beantragt. Der Senat hält diesen Antrag für überhöht, weil die Beschuldigte den Differenzbetrag von 2.260 Euro zurückgezahlt hat und die Mandantin [[person|DI Fanny Köhle]] die Angelegenheit später ohne Beschwerde abgeschlossen hat.
+
 Unter Abwägung dieser Umstände erscheint eine Geldbuße von 4.000 Euro tat- und schuldangemessen. Eine Aussetzung der Strafe kam nicht in Betracht, weil die Beschuldigte die Verwahrungspflicht über einen längeren Zeitraum nicht eingehalten hat.
 
 Rechtsmittelbelehrung
 
-Gegen dieses Erkenntnis kann innerhalb von vier Wochen ab Zustellung eine Berufung an die [[court|OBDK]] erhoben werden. Die Berufung ist beim Disziplinarrat einzubringen.
+Gegen dieses Erkenntnis kann innerhalb von vier Wochen ab Zustellung eine Berufung an die [[court|OBDK]] erhoben werden. Die Berufung ist beim Disziplinarrat einzubringen und hat die Gründe der Anfechtung zu nennen. Sie hemmt die Vollstreckung der Geldbuße, soweit der Disziplinarrat keine vorläufige Vollziehung angeordnet hat.
 
 Kosten
 
-Die Kosten des Verfahrens sind nach [[legal_norm|§ 52 RAO]] von der Beschuldigten zu tragen. Die Kosten der Schriftführung und der Zustellung sind darin enthalten.
+Die Kosten des Verfahrens sind nach [[legal_norm|§ 52 RAO]] von der Beschuldigten zu tragen. Die Kosten der Schriftführung und der Zustellung sind darin enthalten. Die Vergütung der Schriftführung beträgt 320 Euro. Die Kosten sind innerhalb von 14 Tagen nach Rechtskraft auf das Konto der [[organization|Rechtsanwaltskammer für Kärnten]] zu überweisen.
 
 [[court|Disziplinarrat der Rechtsanwaltskammer für Kärnten]]
 

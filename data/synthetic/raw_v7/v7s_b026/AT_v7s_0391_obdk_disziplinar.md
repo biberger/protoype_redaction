@@ -38,6 +38,14 @@ Datum | Vorgang | Betrag | Treuhandbuch
 
 5. Der Senat folgt der Aussage der [[person|Mark]], soweit sie mit den Kontoauszügen übereinstimmt. Die Einlassung des Beschuldigten zur Honorarvorauszahlung ist durch keine Urkunde gestützt. Die Abbuchung vom [[date|18. Mai 2021]] hat der Beschuldigte selbst nicht bestritten.
 
+5a. Die Buchhalterin der Kanzlei, [[person|Ingeborg Rakowitz]], sagte in der Verhandlung aus, dass sie die Einträge im Treuhandbuch bis zum Herbst 2022 nach den Weisungen des Beschuldigten geführt habe. Die Zahlung vom [[date|3. März 2021]] sei ihr als Honorarzahlung bezeichnet worden. Eine Rechnung, die diese Zahlung gedeckt hätte, habe sie nie gesehen. Der Beschuldigte habe die Kontoauszüge persönlich abgeholt und nicht an die Kanzlei weitergegeben. Die Zeugin [[person|Rakowitz]] gab außerdem an, der Beschuldigte habe Eintragungen zur Treuhandschaft der [[person|Mark]] mehrfach korrigiert, ohne die ursprünglichen Beträge kenntlich zu machen.
+
+5b. Die Barbehebung vom [[date|18. Mai 2021]] hat der Beschuldigte mit Kassenausgaben für Gerichtsgebühren erklärt. Belege dazu legte er nicht vor. Die Kammeranwältin [[person|Mag. Simonea Aistleitner]] hielt dem entgegen, dass Gerichtsgebühren über das Kanzleikonto zu bezahlen seien und nicht bar aus dem Treuhandbestand. Die Mandantin [[person|Mark]] erklärte in der Verhandlung, sie habe den Betrag von EUR 9.000,00 nie zur Verfügung gestellt.
+
+5c. Die Kammeranwältin beantragte in ihrem Schlussvortrag die Einholung eines Gutachtens eines Wirtschaftsprüfers über die Führung des Treuhandbuchs. Der Senat hielt das Gutachten für entbehrlich, weil die Kontoauszüge und das Treuhandbuch eine ausreichende Grundlage für die Beurteilung bieten. Die Einlassung des Beschuldigten, die Buchführung sei einer Hilfskraft überlassen worden, ändert nichts an seiner persönlichen Verantwortung als Rechtsanwalt, der die Treuhandschaft übernommen hat.
+
+5d. Der Beschuldigte war bei den Zahlungen vom [[date|3. März 2021]] und vom [[date|18. Mai 2021]] selbst zeichnungsberechtigt. Er hat diese Berechtigung nicht an die Buchhalterin übertragen. Die Verantwortung für die Verwahrung liegt daher bei ihm allein.
+
 Rechtliche Beurteilung
 
 6. Nach [[legal_norm|§ 43a Abs 5 RAO]] hat der Rechtsanwalt Gelder, die er für Klienten erhält, getrennt von seinem eigenen Vermögen zu verwahren und zweckgebunden zu verwenden. Die Verwendung der Treuhandgelder der [[person|Mark]] für Zahlungen, die keinem Mandatsverhältnis zuzuordnen sind, verletzt diese Pflicht schwer.
@@ -49,6 +57,12 @@ Rechtliche Beurteilung
 9. Der Senat hält eine Geldbuße für geboten, aber nicht in der vom Disziplinarrat verhängten Höhe. Der Entzug der Berufsberechtigung wäre angesichts der Rückzahlung unverhältnismäßig. Die Kosten des Verfahrens vor dem Disziplinarrat trägt der Beschuldigte zur Gänze, die Kosten der Berufung sind nach dem Ausgang des Verfahrens zu teilen.
 
 10. Der Beschuldigte hat in der Verhandlung angekündigt, sein Treuhandwesen künftig durch einen Bevollmächtigten prüfen zu lassen. Diese Ankündigung wird bei der Bemessung der Geldbuße berücksichtigt.
+
+11. Die Berufung des Beschuldigten richtete sich auch gegen die Höhe der Geldbuße. Der Senat hat die Geldbuße gegenüber dem Disziplinarrat herabgesetzt, weil die Mandantin [[person|Mark]] inzwischen vollständig ausbezahlt worden ist und der Beschuldigte an der Aufklärung der Buchungen mitgewirkt hat. Eine weitergehende Herabsetzung ist nicht vertretbar, weil die Pflichtverletzung über mehr als ein Jahr angedauert hat und die Einträge nachträglich erfolgt sind.
+
+12. Die Kosten des Berufungsverfahrens werden nach dem Ausgang des Verfahrens zwischen den Parteien geteilt. Der Kammeranwältin wird aufgetragen, die Mandantin [[person|Mark]] über die Entscheidung des Senats zu informieren.
+
+13. Die Verhandlung vom [[date|14. Oktober 2026]] verlief ohne weitere Beweisanträge. Der Vorsitz hat die Akten vollständig geprüft; sämtliche Kontoauszüge und das Treuhandbuch lagen dem Senat in Kopie vor. Der Senat hat die Entscheidung im Anschluss beraten und die schriftliche Ausfertigung am genannten Tag beschlossen.
 
 [[location|Wien]], am [[date|22. Oktober 2026]]
 

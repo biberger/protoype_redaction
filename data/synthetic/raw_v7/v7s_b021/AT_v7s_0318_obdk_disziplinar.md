@@ -8,7 +8,7 @@ Geschäftszahl [[case_number|D 19/2025]]
 
 ERKENNTNIS
 
-Der Disziplinarrat der Rechtsanwaltskammer Wien hat durch den Senat in der Sitzung vom 9. Oktober 2025 über die Anzeige gegen die Rechtsanwältin [[lawyer|Doris Wittgenstein]] erkannt:
+Der [[court|Disziplinarrat der Rechtsanwaltskammer Wien]] hat durch den Senat in der Sitzung vom [[date|9. Oktober 2025]] über die Anzeige gegen die Rechtsanwältin [[lawyer|Doris Wittgenstein]] erkannt:
 
 Senat und Teilnehmer (Protokoll):
 
@@ -39,9 +39,13 @@ Sachverhalt
 
 6. Die Kammeranwältin [[person|Dr. Ruwaydah Azab]] legte mit Schriftsatz eine Liste der Treuhandbewegungen vor, aus der sich ergibt, dass der Saldo des Treuhandkontos am [[date|31. Juli 2022]] um 1.150 Euro über dem der Mandantin zustehenden Betrag lag.
 
+7. Die Beschuldigte hat die Abrechnung gegenüber der Mandantin erst am [[date|2. Dezember 2022]] übermittelt, also nach der Auszahlung der Restsumme. Die Abrechnung enthielt keine Angabe über die Verwendung des Honorarvorschusses vom [[date|14. Juni 2022]].
+
+Die Beschuldigte hat sich im Verfahren vor dem Disziplinarrat dahin verantwortet, sie habe die Verzögerung der Auszahlung mit der Mandantin besprochen und diese habe einer Stundung zugestimmt. Eine Zustimmung der Mandantin ist in den Akten nicht dokumentiert. Die Beschuldigte hat auch nicht erklärt, warum die Mandantin die Auszahlung erst nach einer schriftlichen Mahnung erhalten hat. Die Mahnung der Mandantin vom [[date|8. August 2022]] ist aktenkundig; sie enthält den Hinweis, dass die Mandantin den Betrag ohne weitere Verzögerung erwartet und sonst die Kammer einschalten werde.
+
 Beweiswürdigung
 
-Der Senat stützt sich auf das Treuhandbuch, die Kontoauszüge, die Stellungnahme der Beschuldigten und die Aussage der Mandantin [[person|Ute Resch]]. Die [[organization|Rechtsanwaltskammer Wien]] ([[organization|RAK]]) hatte die Anzeige nach Eingang der Beschwerde an die Kammeranwältin weitergeleitet; die [[organization|RAK]] hat zudem die Kontoauszüge beigebracht. Die Angaben der Beschuldigten zur Rückfrage bei der Gegenseite sind durch keinen Schriftverkehr belegt. Die Mandantin hat glaubhaft geschildert, dass sie den Betrag erst nach mehrfacher Aufforderung erhalten hat.
+Der Senat stützt sich auf das Treuhandbuch, die Kontoauszüge, die Stellungnahme der Beschuldigten und die Aussage der Mandantin [[person|Ute Resch]]. Die [[organization|Rechtsanwaltskammer Wien]] ([[organization|RAK]]) hatte die Anzeige nach Eingang der Beschwerde an die Kammeranwältin weitergeleitet; die [[organization|RAK]] hat zudem die Kontoauszüge beigebracht. Die Angaben der Beschuldigten zur Rückfrage bei der Gegenseite sind durch keinen Schriftverkehr belegt. Die Mandantin hat glaubhaft geschildert, dass sie den Betrag erst nach mehrfacher Aufforderung erhalten hat. Sie hat ferner bestätigt, dass sie die Abrechnung erst nach der Anzeige an die Rechtsanwaltskammer erhalten hat.
 
 Die Kammeranwältin [[person|Dr. Ruwaydah Azab]] hat in der Verhandlung die Auszüge der Treuhandbewegungen erläutert. Der Senat folgt dieser Darstellung.
 
@@ -53,19 +57,21 @@ Die Führung des Treuhandbuchs ist ebenfalls zu beanstanden. Die Eintragung zur 
 
 Strafbemessung
 
-Mildernd wirkt die bisherige Unbescholtenheit der Beschuldigten und die Rückzahlung des Differenzbetrages am [[date|5. August 2025]]. Erschwerend wirkt der Zeitraum der Verzögerung und die Entnahme des Honorars ohne schriftliche Grundlage.
+Die verspätete Abrechnung ist ein eigenständiger Verstoß gegen die Pflicht zur Rechnungslegung. Der Senat sieht darin jedoch keine vorsätzliche Täuschung, weil die Beschuldigte die Abrechnung nach der Mahnung der Kammer vervollständigt hat. Eine Geldbuße in der Höhe von 2.500 Euro ist im Verhältnis zu den Verstößen angemessen; eine Verwarnung allein würde dem Umstand, dass fremde Gelder über Monate nicht ausgefolgt wurden, nicht gerecht.
+
+Mildernd wirkt die bisherige Unbescholtenheit der Beschuldigten und die Rückzahlung des Differenzbetrages am [[date|5. August 2025]]. Der Senat berücksichtigt ferner, dass die Beschuldigte ihre Kanzlei seit dem [[date|1. Jänner 2024]] nach einem neuen Buchhaltungssystem führt. Die Kammer hat die Umstellung in ihrer Stellungnahme bestätigt; ein Sachverständiger wurde deshalb nicht beigezogen. Erschwerend wirkt der Zeitraum der Verzögerung und die Entnahme des Honorars ohne schriftliche Grundlage.
 
 Die Geldbuße von 2.500 Euro erscheint tat- und schuldangemessen.
 
 Kosten
 
-Die Beschuldigte hat die Kosten des Verfahrens zu tragen.
+Die Beschuldigte hat die Kosten des Verfahrens zu tragen. Die Kosten umfassen die Pauschalgebühr der Kammer, die Kosten der Zeugenladung und die Aufwendungen für die Verhandlungsschrift. Die Beschuldigte hat die Kosten binnen vier Wochen nach Zustellung auf das Konto der [[organization|Rechtsanwaltskammer Wien]] zu überweisen.
 
 Rechtsmittelbelehrung
 
 Gegen dieses Erkenntnis steht der Beschuldigten die Berufung an die [[court|OBDK]] offen. Die Berufung ist binnen vier Wochen ab Zustellung beim Disziplinarrat einzubringen.
 
-Der Disziplinarrat der Rechtsanwaltskammer Wien
+[[court|Disziplinarrat der Rechtsanwaltskammer Wien]]
 
 [[location|Wien]], am [[date|17. November 2025]]
 

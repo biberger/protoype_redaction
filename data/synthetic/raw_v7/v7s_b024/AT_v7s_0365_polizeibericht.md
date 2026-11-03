@@ -12,7 +12,7 @@ GZ [[case_number|PI-2026/0412]]
 **VERKEHRSUNFALLBERICHT**
 
 Datum des Ereignisses: [[date|14. Juli 2026]], 16:35 Uhr
-Ort: [[street|Bundesstraße B 83]] bei [[location|St. Veit an der Glan]], Fahrtrichtung Klagenfurt
+Ort: [[street|Bundesstraße B 83]] bei [[location|St. Veit an der Glan]], Fahrtrichtung [[location|Klagenfurt]]
 
 **1. Sachverhalt**
 
@@ -48,8 +48,7 @@ Die Lenkerin des PKW wies sich mit einer Identitätskarte aus, die Nummer wurde 
 
 **4. Versicherung**
 
-Der Kombi ist bei der [[organization|Alpenland Versicherungs AG]] haftpflichtversichert. Die Polizzen-Nr. lautet
-[[other_identifier|13-2257710]]. Die Schaden-Nr. [[other_identifier|43/651730/22]] wurde vom Zeugen
+Der Kombi ist bei der [[organization|Alpenland Versicherungs AG]] haftpflichtversichert. Die Polizzen-Nr. [[other_identifier|13-2257710]] ist im Schadensfall anzugeben. Die Schaden-Nr. [[other_identifier|43/651730/22]] wurde vom Zeugen
 [[person|Kranebitter]] für den PKW-Lenker bereits angelegt.
 
 Die Versicherung ist unter [[phone_number|0662 234429-14]] erreichbar.
@@ -91,10 +90,10 @@ Firma wurde über die Zentrale angefordert, der PKW wurde um 18:10 Uhr vom Unfal
 
 **6c. Verständigungen**
 
-Der Lenker des PKW wurde über die Anzeigenerstattung informiert. Die Halterin des PKW, die Lenkerin selbst,
+Die Lenkerin des PKW wurde über die Anzeigenerstattung informiert. Die Halterin des PKW, die Lenkerin selbst,
 hat die Versicherung verständigt. Der Halter des Kombis ist laut Zulassungsschein eine Privatperson mit
-Wohnsitz in Wolfsberg; eine Verständigung erfolgte telefonisch über die Dienststelle. Eine Anzeige des
-Ereignisses bei der Bezirkshauptmannschaft wird nach Abschluss der Erhebungen geprüft.
+Wohnsitz in [[location|Wolfsberg]]; eine Verständigung erfolgte telefonisch über die Dienststelle. Eine Anzeige des
+Ereignisses bei der zuständigen Behörde wird nach Abschluss der Erhebungen geprüft.
 
 **7. Anzeige und Maßnahmen**
 
@@ -103,6 +102,24 @@ abgenommen. Die Fahrzeuge wurden nach Rücksprache mit den Beteiligten zur Weite
 PKW wurde jedoch abgeschleppt.
 
 Der Akt wird an die [[organization|Bezirkshauptmannschaft Sankt Veit an der Glan]] übermittelt.
+
+**7a. Ergänzende Erhebungen**
+
+Zur Feststellung des Haftpflichtversicherers wurde die Zulassungsbescheinigung des Kombis überprüft. Das
+Kennzeichen ist auf den Halter [[person|Adalbert Palme]] zugelassen, die Versicherung besteht seit dem Jahr 2024. Eine
+Abfrage im zentralen Melderegister ergab, dass der Lenker seit Februar 2026 mit einem Nebenwohnsitz in
+[[country|Österreich]] gemeldet ist. Die Ausweisdaten der Lenkerin des PKW wurden mit dem Zentralen Melderegister abgeglichen.
+
+Die Fahrzeugführer wurden darauf hingewiesen, dass sie die Unfallmeldung binnen einer Woche bei ihrer Versicherung
+einreichen müssen. Der Zeuge [[person|Kranebitter]] hat seine Personalien und die Erreichbarkeit telefonisch bestätigt.
+Die Zeugin [[person|Mulaosmanovic]] hat ihre Adresse nicht angegeben und ist im Anschluss an die Erhebung nicht mehr
+erreichbar gewesen; die Adresse wurde über die Meldebehörde ermittelt.
+
+Die Dienststelle hat eine Kopie des Berichts an die Versicherung übermittelt, sofern die Beteiligten dazu
+ihre Zustimmung erteilt haben. Der Lenker des Kombis hat die Zustimmung verweigert, sodass nur die Angaben
+zum Unfallhergang übermittelt wurden.
+
+Die Beteiligten wurden über ihre Rechte belehrt. Die Belehrung wurde protokolliert. Ein Strafantrag wurde von keinem der Beteiligten gestellt.
 
 **8. Unterschrift**
 

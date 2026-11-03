@@ -4,7 +4,7 @@ jurisdiction: AT
 lang: de
 ---
 [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]]
-Wien, am [[date|14. Oktober 2026]]
+[[location|Wien]], am [[date|14. Oktober 2026]]
 GZ [[case_number|D 1102/2025]]
 
 **IM NAMEN DER REPUBLIK**
@@ -140,6 +140,47 @@ dass die Verfehlung bei der Verwendung fremder Gelder zum eigenen Vorteil begang
 Die Verhängung einer Geldbuße erscheint angemessen. Eine Streichung aus der Liste wäre im Hinblick auf die
 Rückzahlung und die bisherige Unbescholtenheit nicht verhältnismäßig. Der Senat hat die Strafhöhe unter
 Berücksichtigung der Einkommensverhältnisse des Disziplinarbeschuldigten festgesetzt.
+
+**4a. Verjährung und Verfahrensdauer**
+
+Der Disziplinarbeschuldigte hat die Verjährung der Disziplinarvergehen eingewendet. Die Verfehlungen seien
+im Jahr 2023 abgeschlossen gewesen, die Anzeige sei jedoch erst im Jahr 2025 erstattet worden. Der Senat hat
+diesen Einwand verworfen. Die Verjährungsfrist beginnt nach dem Berufsrecht mit der Beendigung des pflichtwidrigen
+Verhaltens; die Verzögerung der Auszahlung des Betrages zum Nachteil des Anzeigers dauerte jedoch bis zum
+[[date|2. April 2024]] an, sodass das Verfahren rechtzeitig eingeleitet wurde.
+
+Die Dauer des Verfahrens ist im Hinblick auf die Erhebungen durch den Kammeranwalt nicht zu beanstanden. Der
+Disziplinarbeschuldigte hat durch zwei Vertagungsanträge selbst zur Verzögerung beigetragen. Die Verhandlung
+wurde daher erst im Jahr 2026 durchgeführt.
+
+**4b. Strafzumessung im Einzelnen**
+
+Die Geldbuße wurde innerhalb des gesetzlichen Rahmens bemessen. Der Senat berücksichtigte, dass der
+Disziplinarbeschuldigte die Verfehlungen teilweise eingestanden hat, soweit sie die Auszahlung der Gelder
+betreffen. Hingegen hat er die Verwendung eines Teilbetrages für eigene Zwecke bis zuletzt bestritten, was
+der Senat nicht als Milderungsgrund berücksichtigen konnte.
+
+Der Senat hat weiters geprüft, ob eine Ermahnung oder eine Verwarnung ausreichend wäre. Dagegen spricht die
+Dauer des Zeitraumes, in dem die Treuhandgelder nicht vorschriftsmäßig verwahrt waren, und die Höhe des
+betroffenen Betrages. Eine Ermahnung hätte den Schutzzweck der Treuhandpflichten nicht ausreichend
+berücksichtigt.
+
+**4c. Zusammenfassung der Verfehlungen**
+
+Zusammenfassend steht fest, dass der Disziplinarbeschuldigte die Treuhandgelder zweier Klienten über einen
+Zeitraum von mehreren Jahren unzureichend verwaltet hat. Die Verfehlungen betreffen beide Treuhandschaften,
+wobei die eine die Liegenschaftstransaktion des Jahres 2022 und die andere die Erbengemeinschaft betrifft.
+Eine Trennung der Vorgänge hat der Disziplinarbeschuldigte im Verfahren nicht vorgenommen.
+
+**4d. Vorläufige Maßnahmen**
+
+Der Kammeranwalt hat im Laufe des Verfahrens angeregt, dem Disziplinarbeschuldigten die Verwaltung von
+Treuhandgeldern vorläufig zu untersagen. Der Senat hat diesen Antrag nicht für erforderlich gehalten, weil der
+Disziplinarbeschuldigte erklärte, seit dem Frühjahr 2026 keine neuen Treuhandschaften mehr zu übernehmen. Eine
+Zusage in dieser Richtung wurde im Protokoll festgehalten und ist für den Senat verbindlich.
+
+Die Kanzlei wird dennoch ersucht, die Kanzleikontrolle durch die Rechtsanwaltskammer zu dulden. Die Kontrolle
+ist binnen eines Jahres nach Rechtskraft dieser Entscheidung durchzuführen.
 
 **5. Kosten**
 

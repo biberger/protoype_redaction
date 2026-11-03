@@ -18,7 +18,7 @@ Kammeranwalt: [[person|Vasili Awdjejenko]]
 Beschuldigter: [[lawyer|Laurenz Costa]], persönlich erschienen
 Schriftführerin: [[person|Fita Oppitz]]
 
-Der Disziplinarrat der Rechtsanwaltskammer Wien hat nach Anhörung des Kammeranwalts und des Beschuldigten in nichtöffentlicher Sitzung zu Recht erkannt:
+Der [[court|Disziplinarrat der Rechtsanwaltskammer Wien]] hat nach Anhörung des Kammeranwalts und des Beschuldigten in nichtöffentlicher Sitzung zu Recht erkannt:
 
 [[lawyer|Costa]] ist schuldig, die ihm als Treuhänder übertragenen Vermögenswerte in den Treuhandschaften TH-Nr. [[other_identifier|2023/850]] und TH-Nr. [[other_identifier|2023/406]] nicht vertragsgemäß verwaltet und dadurch die Berufspflichten nach [[legal_norm|§ 16 RAO]] verletzt zu haben.
 
@@ -99,6 +99,6 @@ Gegen diese Entscheidung ist die Berufung an die [[court|OBDK]] zulässig.
 Für die Richtigkeit der Protokollabschrift:
 [[person|Oppitz]]
 
-Wien, am [[date|29.09.2026]]
+[[location|Wien]], am [[date|29.09.2026]]
 
 Der Vorsitz: [[judge|Altenberger]]

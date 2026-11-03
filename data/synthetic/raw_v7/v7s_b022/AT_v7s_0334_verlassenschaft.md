@@ -19,7 +19,7 @@ Zuständiges Gericht: [[court|Bezirksgericht Kufstein]]
 An das
 [[court|BG Kufstein]]
 Abteilung Verlassenschaften
-Oskar-Hellmann-Straße 6, 6330 Kufstein
+[[address|Oskar-Hellmann-Straße 6, 6330 Kufstein]]
 Tel. [[phone_number|+43-2742-8642191 Kl. 43]]
 
 Sehr geehrte Damen und Herren,
@@ -50,13 +50,13 @@ Die Erbquoten ergeben sich wie folgt: [[person|Egerer]] erhält die Hälfte und 
 
 Die Erben haben die Erbantrittserklärungen am [[date|15.12.2026]] abgegeben. Die Schulden des Verstorbenen belaufen sich nach den Unterlagen auf EUR 31.560,00, wovon EUR 12.000,00 auf das Darlehen der Gläubigerin entfallen. Die restlichen Verbindlichkeiten sind Bankkredite, Versicherungsprämien und Betriebsschulden der [[organization|Gorbach e.U.]]
 
-Zu den einzelnen Positionen ist Folgendes anzumerken. Das Schätzgutachten des gerichtlich beeideten Sachverständigen [[person|Ing. Reinhard Obermayr]] vom [[date|09.12.2026]] nennt für die Liegenschaft in Schwertberg eine Nutzfläche von 182 m² sowie einen Garten. Die Ferienwohnung in Saalbach-Hinterglemm ist vermietet; die Mieteinnahmen von EUR 1.150,00 monatlich fließen nach Abzug der Betriebskosten auf das Girokonto des Verstorbenen. Die Mietverträge sind bis zur Einantwortung zu übernehmen.
+Zu den einzelnen Positionen ist Folgendes anzumerken. Das Schätzgutachten des gerichtlich beeideten Sachverständigen [[person|Ing. Reinhard Obermayr]] vom [[date|09.12.2026]] nennt für die Liegenschaft in [[location|Schwertberg]] eine Nutzfläche von 182 m² sowie einen Garten. Die Ferienwohnung in [[location|Saalbach-Hinterglemm]] ist vermietet; die Mieteinnahmen von EUR 1.150,00 monatlich fließen nach Abzug der Betriebskosten auf das Girokonto des Verstorbenen. Die Mietverträge sind bis zur Einantwortung zu übernehmen.
 
 Beim Girokonto ist der Stand am Todestag maßgeblich. Nach dem Tod des Erblassers wurden noch Abbuchungen von EUR 412,80 für Telekom- und Stromkosten vorgenommen, die dem Nachlass zuzurechnen sind. Die Anteile an der [[organization|Gorbach e.U.]] sind nach dem Bilanzwert bewertet; ein Firmenwert wurde nicht angesetzt, weil der Betrieb nur als Einzelunternehmen fortgeführt werden kann.
 
 Die Passiva setzen sich wie folgt zusammen:
 
-– Hypothekarkredit bei der [[organization|Sparkasse Staatz AG]], Restschuld EUR 14.200,00 (Stand 30.11.2026);
+– Hypothekarkredit bei der [[organization|Sparkasse Staatz AG]], Restschuld EUR 14.200,00 (Stand [[date|30.11.2026]]);
 – Darlehen der Gläubigerin [[person|Dăneț]], EUR 12.000,00 samt Zinsen;
 – Betriebsschulden der [[organization|Gorbach e.U.]], EUR 4.100,00 (Sozialversicherung, Umsatzsteuer);
 – Begräbniskosten, EUR 1.260,00, ausgelegt durch den Erben [[person|Kastner]].
@@ -78,12 +78,12 @@ Beilagen: Sterbeurkunde, Testament, Schätzgutachten, Kontoauszüge
 
 Das Testament vom [[date|19.03.2023]] enthält neben den Vermächtnissen keine Auflagen, die die Erbteilung beschränken. Es wurde vom Erblasser eigenhändig geschrieben und mit Ort und Datum versehen, sodass die Formvorschriften eingehalten sind. Ein früheres Testament aus dem Jahr 2019 wurde durch das Testament vom [[date|19.03.2023]] ausdrücklich widerrufen; eine Urkunde über den Widerruf liegt bei.
 
-Die Kosten der Verlassenschaft, einschließlich der Gerichtsgebühren und der Notarkosten, sind aus dem Nachlass zu bestreiten. Sie werden nach Abschluss der Abhandlung gesondert abgerechnet. Die Erben werden ersucht, bis zur Einantwortung keine Verfügungen über die Liegenschaften und das Girokonto zu treffen, ausgenommen die laufende Verwaltung.
+Die Kosten der Verlassenschaft, einschließlich der Gerichtsgebühren und der Notarkosten, sind aus dem Nachlass zu bestreiten. Eine Erbschaftssteuer wird seit dem Jahr 2008 nicht mehr erhoben. Die Erben wurden darauf hingewiesen, dass die Einantwortung erst nach Vorlage der Unbedenklichkeitsbescheinigung erfolgen kann, die für die Grundbuchseintragung erforderlich ist. Diese wurde beim [[organization|Finanzamt Kufstein Kitzbühel]] angefordert. Sie werden nach Abschluss der Abhandlung gesondert abgerechnet. Die Erben werden ersucht, bis zur Einantwortung keine Verfügungen über die Liegenschaften und das Girokonto zu treffen, ausgenommen die laufende Verwaltung.
 
 Vom Verstorbenen wurden keine Sachwalter bestellt. Die Verlassenschaftsabhandlung wurde im Verfahren mit der Vollmacht der Erben durchgeführt. Die [[court|Bezirksgericht Kufstein]] hat mit Beschluss vom [[date|22.12.2026]] die Einantwortung in Aussicht gestellt.
 
 Zur Dokumentation folgt eine Liste der Personen, die vom Gericht am [[date|11.12.2026]] in der Sitzung angehört wurden:
 
-Tschofenig Martel, [[date_of_birth|2001-07-18]]
-Egerer Wilm, [[date_of_birth|19.01.1970]]
-Kastner Hicko, [[date_of_birth|03.07.1991]]
+[[person|Tschofenig Martel]], [[date_of_birth|2001-07-18]]
+[[person|Egerer Wilm]], [[date_of_birth|19.01.1970]]
+[[person|Kastner Hicko]], [[date_of_birth|03.07.1991]]

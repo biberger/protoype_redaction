@@ -37,7 +37,7 @@ Der Senat hat außerdem geprüft, ob das Verfahren wegen geringen Verschuldens e
 
 2. Sachverhalt
 
-Mit Treuhandvertrag vom [[date|12.03.2022]] übernahm [[lawyer|Margulies]] die Abwicklung eines Liegenschaftskaufs für die [[organization|Frühbauer Bau GmbH]] ([[company_register_number|FN 407324g]], UID: [[tax_id|ATU11406067]]) (in der Folge [[organization|FBG]]). Gegenstand war die Liegenschaft [[land_register_id|Einlagezahl 1431]], [[land_register_id|KG 46445]], die die FBG von [[person|Anton Kriechbaum]] erwerben wollte. Die Käuferin war die FBG, deren Geschäftsführerin [[person|Sabine Pfeifhofer]] die Verhandlungen führte.
+Mit Treuhandvertrag vom [[date|12.03.2022]] übernahm [[lawyer|Margulies]] die Abwicklung eines Liegenschaftskaufs für die [[organization|Frühbauer Bau GmbH]] ([[company_register_number|FN 407324g]], UID: [[tax_id|ATU11406067]]) (in der Folge [[organization|FBG]]). Gegenstand war die Liegenschaft [[land_register_id|Einlagezahl 1431]], [[land_register_id|KG 46445]], die [[organization|FBG]] von [[person|Anton Kriechbaum]] erwerben wollte. Die Käuferin war die [[organization|FBG]], deren Geschäftsführerin [[person|Sabine Pfeifhofer]] die Verhandlungen führte.
 
 Der Kaufpreis wurde über das Treuhandkonto [[bank_account|AT58 2122 0634 3696 0622]] abgewickelt. Die Treuhandschaft wurde unter der Nummer TH-Nr. [[other_identifier|2022/514]] geführt. Die Bewegungen des Kontos sind wie folgt:
 
@@ -60,7 +60,7 @@ Die Kontobewegungen des Treuhandkontos in dieser Angelegenheit lauten im Einzeln
 
 3. Beweiswürdigung
 
-Der Senat stützt seine Feststellungen auf die Kontoauszüge, den Treuhandvertrag und die Aussage der Zeugin [[person|Pfeifhofer]]. Die Zeugin [[person|Rosenstingl]] hat glaubwürdig ausgesagt, dass sie der Auszahlung an die Werkunternehmerin nicht zugestimmt hat. Ihre Schreiben vom [[date|11.02.2026]] und vom [[date|27.02.2026]] an die Rechtsanwaltskammer sind in den Akten enthalten und stimmen mit ihrer Aussage überein. Die Angaben des Beschuldigten sind in den wesentlichen Punkten widersprüchlich. Zunächst gab er an, die Überweisung sei auf Wunsch der FBG erfolgt, später berief er sich auf die Zustimmung der Mandantin. Beides lässt sich mit den Urkunden nicht vereinbaren.
+Der Senat stützt seine Feststellungen auf die Kontoauszüge, den Treuhandvertrag und die Aussage der Zeugin [[person|Pfeifhofer]]. Die Zeugin [[person|Rosenstingl]] hat glaubwürdig ausgesagt, dass sie der Auszahlung an die Werkunternehmerin nicht zugestimmt hat. Ihre Schreiben vom [[date|11.02.2026]] und vom [[date|27.02.2026]] an die Rechtsanwaltskammer sind in den Akten enthalten und stimmen mit ihrer Aussage überein. Die Angaben des Beschuldigten sind in den wesentlichen Punkten widersprüchlich. Zunächst gab er an, die Überweisung sei auf Wunsch der [[organization|FBG]] erfolgt, später berief er sich auf die Zustimmung der Mandantin. Beides lässt sich mit den Urkunden nicht vereinbaren.
 
 Der Kammeranwalt [[person|Mag. Gratz]] hat in seiner Berufung zutreffend ausgeführt, dass die Verwahrung fremder Gelder ein Kernbestand der anwaltlichen Berufspflichten ist. Ein Rechtsanwalt hat Klientengelder getrennt vom eigenen Vermögen zu halten und sie nur auf Grund einer klaren Weisung zu bewegen. Diese Pflicht hat [[lawyer|Margulies]] verletzt.
 
@@ -68,7 +68,7 @@ Der Kammeranwalt [[person|Mag. Gratz]] hat in seiner Berufung zutreffend ausgef�
 
 Gemäß [[legal_norm|§ 16 RAO]] hat der Rechtsanwalt seinen Beruf gewissenhaft auszuüben. Die Verwaltung von Treuhandgeldern ist ein zentraler Teil dieser Pflicht. Die Rücküberweisung ohne Weisung stellt eine schwerwiegende Verletzung dar, auch wenn der Betrag nach kurzer Zeit wieder der Verfügung der Mandantin zur Verfügung stand.
 
-Die Auszahlung ohne Freigabe und die Barbehebung ohne Beleg verstoßen gegen die Pflicht zur Dokumentation von Treuhandbewegungen, die sich aus [[legal_norm|§ 43a RAO]] iVm den Richtlinien des Rechtsanwaltsstandes ergibt. Der Senat sieht darin einen eigenständigen Tatbestand, der neben die Rücküberweisung an die FBG tritt.
+Die Auszahlung ohne Freigabe und die Barbehebung ohne Beleg verstoßen gegen die Pflicht zur Dokumentation von Treuhandbewegungen, die sich aus [[legal_norm|§ 43a RAO]] iVm den Richtlinien des Rechtsanwaltsstandes ergibt. Der Senat sieht darin einen eigenständigen Tatbestand, der neben die Rücküberweisung an die [[organization|FBG]] tritt.
 
 Die Berufung des Beschuldigten gegen den Schuldspruch ist daher nicht berechtigt. Die Berufung des Kammeranwalts gegen den Freispruch hinsichtlich der Veruntreuung ist nicht begründet, weil sich der Vorwurf nicht hinreichend nachweisen lässt. Der Senat bewertet die Tat als minderschwer, weil der Beschuldigte bisher disziplinär unbescholten ist und den Betrag vor der Einleitung des Verfahrens ersetzt hat.
 
@@ -76,11 +76,11 @@ Bei der Strafbemessung war zu berücksichtigen, dass der Beschuldigte die Treuha
 
 5. Kosten
 
-Die Kostenentscheidung stützt sich auf [[legal_norm|§ 52 RAO]]. Der Beschuldigte trägt die Kosten des Verfahrens vor der [[court|OBDK]] in voller Höhe.
+Die Kostenentscheidung stützt sich auf [[legal_norm|§ 52 RAO]]. Der Beschuldigte trägt die Kosten des Verfahrens vor der [[court|OBDK]] in voller Höhe. Die Kosten der Zeugen werden dem Kammerbudget entnommen und dem Beschuldigten nicht gesondert verrechnet.
 
 Zustellung an den Beschuldigten erfolgt an seine Kanzlei. UZ: [[other_identifier|AWL-AWLMargulies/Schreiner]], Tel. [[phone_number|02622 180738 Durchwahl 70]].
 
-Die Entscheidung ist den Parteien zuzustellen. Eine Ausfertigung ergeht an den Kammeranwalt, an den Beschuldigten und zur Kenntnis an die Rechtsanwaltskammer Wien. Die Beschwerdefrist für eine Anrufung des [[court|OGH]] beträgt vier Wochen ab Zustellung, wobei die Zustellung an die Kanzlei des Beschuldigten erfolgt.
+Die Entscheidung ist den Parteien zuzustellen. Eine Ausfertigung ergeht an den Kammeranwalt, an den Beschuldigten und zur Kenntnis an die [[organization|Rechtsanwaltskammer Wien]]. Die Beschwerdefrist für eine Anrufung des [[court|OGH]] beträgt vier Wochen ab Zustellung, wobei die Zustellung an die Kanzlei des Beschuldigten erfolgt.
 
 Für die Richtigkeit der Ausfertigung:
 Schriftführerin: [[person|Penninger]]

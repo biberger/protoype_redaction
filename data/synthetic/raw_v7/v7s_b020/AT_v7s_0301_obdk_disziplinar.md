@@ -11,7 +11,7 @@ Im Namen der Republik
 
 ERKENNTNIS
 
-Der Disziplinarrat der Rechtsanwaltskammer Wien hat im Disziplinarverfahren gegen die Rechtsanwältin [[lawyer|Mulkiye Has]], Kanzlei in [[location|Wien]], wegen einer Verletzung von Berufspflichten nach [[legal_norm|§ 43 Abs 1 RAO]] iVm [[legal_norm|§ 1 DSt]] in nichtöffentlicher Sitzung nach der am [[date|14.10.2026]] durchgeführten mündlichen Verhandlung durch den Senat in folgender Zusammensetzung erkannt:
+Der [[court|Disziplinarrat der Rechtsanwaltskammer Wien]] hat im Disziplinarverfahren gegen die Rechtsanwältin [[lawyer|Mulkiye Has]], Kanzlei in [[location|Wien]], wegen einer Verletzung von Berufspflichten nach [[legal_norm|§ 43 Abs 1 RAO]] iVm [[legal_norm|§ 1 DSt]] in nichtöffentlicher Sitzung nach der am [[date|14.10.2026]] durchgeführten mündlichen Verhandlung durch den Senat in folgender Zusammensetzung erkannt:
 
 Vorsitz: Senatspräsident [[judge|Mag. Hannecke Albach]]
 Mitglieder: [[judge|MMag. Seppel Eibenschütz]], [[judge|Nyura Lemischka]]
@@ -66,11 +66,15 @@ Bei der Festsetzung der Ersatzfreiheitsstrafe berücksichtigte der Senat die Ver
 
 Die Kostenentscheidung stützt sich auf die einschlägigen Bestimmungen des Disziplinarstatuts. Die Beschuldigte hat die Pauschalkosten des Verfahrens zu tragen.
 
+Der Senat hat die Verteidigung der Beschuldigten im Verfahren gehört und die Ausführungen des Kammeranwalts [[person|Seraphinus Hattenberger]] zur Kenntnis genommen. Beide Seiten haben auf eine ergänzende Beweisaufnahme verzichtet, nachdem die Kontoauszüge vollständig vorlagen. Die Beschuldigte hat in ihrem Schlusswort erklärt, sie bedauere die Vorgänge und werde künftig jede Zahlung aus dem Anderkonto nur noch mit schriftlicher Weisung und Abrechnung vornehmen.
+
+Die Schriftführung hat die Verhandlung vollständig protokolliert, und das Protokoll wurde den Mitgliedern des Senats vor der Beratung vorgelegt. Die Beratung erfolgte ohne Anwesenheit der Parteien. Die Entscheidung wurde mit Stimmenmehrheit gefasst.
+
 Rechtsmittelbelehrung
 
 Gegen dieses Erkenntnis steht den Parteien die Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] offen. Die Berufung ist binnen vier Wochen ab Zustellung bei diesem Disziplinarrat einzubringen.
 
-Wien, am [[date|14.10.2026]]
+[[location|Wien]], am [[date|14.10.2026]]
 
 Für die Richtigkeit der Ausfertigung:
 

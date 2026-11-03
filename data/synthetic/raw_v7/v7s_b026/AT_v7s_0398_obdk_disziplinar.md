@@ -11,7 +11,7 @@ GZ [[case_number|2026/0142]]
 
 IM NAMEN DER REPUBLIK
 
-Die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] (in der Folge [[court|OBDK]]) hat durch den Senat mit dem Vorsitzenden [[judge|Fred DI Dubois]] und den Beisitzern [[judge|Dr. Fotis Ziakas]] und [[judge|Dr. Stathis Tsekouras]] sowie der Schriftführerin [[person|Julietta Bucurescu]] über die Berufung der Rechtsanwältin [[lawyer|Ermelinda Hiller]] gegen den Spruch des Disziplinarrats der Rechtsanwaltskammer Niederösterreich nach mündlicher Verhandlung am [[date|8. September 2026]] in Anwesenheit der Kammeranwältin [[person|Mira Baljić]] erkannt:
+Die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] (in der Folge [[court|OBDK]]) hat durch den Senat mit dem Vorsitzenden [[judge|Fred DI Dubois]] und den Beisitzern [[judge|Dr. Fotis Ziakas]] und [[judge|Dr. Stathis Tsekouras]] sowie der Schriftführerin [[person|Julietta Bucurescu]] über die Berufung der Rechtsanwältin [[lawyer|Ermelinda Hiller]] gegen den Spruch des [[court|Disziplinarrats der Rechtsanwaltskammer Niederösterreich]] nach mündlicher Verhandlung am [[date|8. September 2026]] in Anwesenheit der Kammeranwältin [[person|Mira Baljić]] erkannt:
 
 Spruch
 
@@ -41,6 +41,16 @@ Datum | Vorgang | Betrag | Verlassenschaft
 
 6. Der Disziplinarrat hatte die Beschuldigte für schuldig erkannt und den Entzug der Berufsberechtigung ausgesprochen. Die Beschuldigte hat dagegen Berufung erhoben und vorgebracht, die Strafe sei unverhältnismäßig, weil sie den Betrag vom [[date|12. Juli 2021]] vollständig zurückgezahlt habe.
 
+6a. Die Erbin [[person|Ilona Gründler]] hat in ihrer Einvernahme angegeben, sie habe die Zahlung vom [[date|12. Juli 2021]] nie als Darlehen verstanden. Die Verlassenschaft sei vielmehr davon ausgegangen, dass die Kanzlei das Geld für die Abwicklung der Liegenschaft verwahre. Ein Darlehen habe sie der Kanzlei zu keinem Zeitpunkt eingeräumt.
+
+6b. Der Käufer der Liegenschaft, [[person|Pascal Ruhdorfer]], hat den Restkaufpreis am [[date|6. Juli 2021]] vollständig auf das Treuhandkonto überwiesen. Er bestätigte, dass er keine weiteren Zahlungen an die Kanzlei geleistet habe. Die Auszahlung vom [[date|12. Juli 2021]] hat die Beschuldigte nicht in das Treuhandbuch eingetragen. Diese Eintragung wäre nach den Richtlinien der [[organization|RAK NÖ]] zeitnah vorzunehmen gewesen.
+
+6c. Die Kammeranwältin [[person|Mira Baljić]] legte dar, dass die Kanzlei nach der Überweisung vom [[date|12. Juli 2021]] bis zur Prüfung im Herbst 2023 keinen Gesamtstand des Treuhandkontos erstellt habe. Die Beschuldigte bestritt diesen Vorwurf nicht, verwies aber darauf, dass die Buchhaltung von einer externen Steuerberatungskanzlei geführt worden sei. Der Senat hält diesen Hinweis für unerheblich, weil die Verantwortung für das Treuhandbuch bei der Rechtsanwältin liegt.
+
+6d. Der Prüfbericht der [[organization|RAK NÖ]] vom [[date|3. Oktober 2023]] enthält eine Liste von vier weiteren Einträgen, die nach dem Prüfungstag nachgetragen wurden. Diese betrafen geringe Beträge aus Kanzleiauslagen und wurden vom Senat nicht als selbständige Vorwürfe gewertet.
+
+6e. In der Verhandlung am [[date|8. September 2026]] erklärte die Beschuldigte, sie sei seit dem Jahr 2024 nicht mehr für Verlassenschaften tätig. Diese Erklärung nimmt der Senat zur Kenntnis.
+
 Rechtliche Beurteilung
 
 7. Nach [[legal_norm|§ 43a Abs 5 RAO]] hat der Rechtsanwalt die ihm anvertrauten Gelder getrennt vom eigenen Vermögen zu halten. Die Überweisung vom [[date|12. Juli 2021]] auf ein Girokonto der Kanzlei verstößt gegen diese Pflicht, unabhängig davon, ob später eine Darlehensforderung bestanden hätte. Eine Darlehensforderung gegen die Verlassenschaft wäre nur über das Verlassenschaftsgericht geltend zu machen gewesen.
@@ -52,6 +62,14 @@ Rechtliche Beurteilung
 10. Der Entzug der Berufsberechtigung ist angesichts der Rückzahlung und der bisherigen Unbescholtenheit nicht geboten. Der Senat erachtet eine Geldbuße von EUR 6.000,00 sowie die Auflage, sich einer Schulung im Treuhandwesen zu unterziehen, als ausreichend.
 
 11. Die Beschuldigte hat die Kosten des Verfahrens vor dem Disziplinarrat zu tragen. Die Kosten des Berufungsverfahrens treffen die Beschuldigte im Umfang von einem Drittel, weil sie mit ihrer Berufung nur teilweise durchgedrungen ist.
+
+12. Die Berufung der Beschuldigten gegen die Verhältnismäßigkeit der Strafe ist teilweise begründet. Der Entzug der Berufsberechtigung ist nicht mehr verhältnismäßig, nachdem die Beschuldigte den Betrag von EUR 60.000,00 vollständig zurückgezahlt hat. Der Senat hat dabei berücksichtigt, dass die Verlassenschaft nach [[person|Heinrich Gründler]] durch die Zahlung nicht geschädigt wurde.
+
+13. Die Anordnung der Schulung im Treuhandwesen ist innerhalb von sechs Monaten nachzuweisen. Der Nachweis ist gegenüber der [[organization|RAK NÖ]] zu erbringen, die das Ergebnis dem Senat mitteilt.
+
+14. Die Beschuldigte hat in ihrem Schlusswort darauf hingewiesen, dass sie seit der Anzeige keine Treuhandschaften mehr übernommen habe. Der Senat hält diese Selbstbeschränkung für ein sinnvolles Mittel, das Vertrauen der Klienten wiederherzustellen, und hat sie bei der Bemessung der Geldbuße berücksichtigt.
+
+15. Gegen diesen Spruch ist kein weiteres Rechtsmittel vorgesehen. Die Zustellung erfolgt an die Parteien und an die [[organization|RAK NÖ]].
 
 [[location|Wien]], am [[date|29. September 2026]]
 
