@@ -10,7 +10,7 @@ GZ [[case_number|D 17/2026]]
 
 IM NAMEN DER REPUBLIK
 
-Der Disziplinarrat der Rechtsanwaltskammer Wien hat durch den Vorsitzenden [[judge|Dr. Hardi Vonbank]], die Beisitzer [[judge|Zweer Schlegel]] und [[judge|Fonzi Jakovljević]] sowie den Schriftführer [[person|Mag. Ezechiel Brunnthaler]] über die Disziplinaranzeige vom [[date|20.01.2026]] in der Disziplinarsache gegen die Rechtsanwältin [[person|Elfi Aberer]], Rechtsanwältin in [[location|Wien]], nach der mündlichen Verhandlung am [[date|16.06.2026]] in Anwesenheit der Kammeranwältin [[person|Dr. Snjezana Tauber]] und des Beschwerdeführers [[person|Jamschid Salmi]] zu Recht erkannt:
+Der [[court|Disziplinarrat der Rechtsanwaltskammer Wien]] hat durch den Vorsitzenden [[judge|Dr. Hardi Vonbank]], die Beisitzer [[judge|Zweer Schlegel]] und [[judge|Fonzi Jakovljević]] sowie den Schriftführer [[person|Mag. Ezechiel Brunnthaler]] über die Disziplinaranzeige vom [[date|20.01.2026]] in der Disziplinarsache gegen die Rechtsanwältin [[person|Elfi Aberer]], Rechtsanwältin in [[location|Wien]], nach der mündlichen Verhandlung am [[date|16.06.2026]] in Anwesenheit der Kammeranwältin [[person|Dr. Snjezana Tauber]] und des Beschwerdeführers [[person|Jamschid Salmi]] zu Recht erkannt:
 
 Anwesend bei der Verhandlung:
 
@@ -88,7 +88,7 @@ Belehrung: Gegen diesen Bescheid kann innerhalb von vier Wochen ab Zustellung Be
 
 [[location|St. Andrä]], am [[date|16.06.2026]]
 
-Für den Disziplinarrat der Rechtsanwaltskammer Wien
+Für den [[court|Disziplinarrat der Rechtsanwaltskammer Wien]]
 
 Der Vorsitzende:
 [[judge|Dr. Hardi Vonbank]]

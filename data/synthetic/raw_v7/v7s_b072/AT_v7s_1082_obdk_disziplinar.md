@@ -9,7 +9,7 @@ TH-Nr. [[other_identifier|2019/911]]
 
 GZ [[case_number|D 4/2026]]
 
-Der Disziplinarrat der Rechtsanwaltskammer für Kärnten hat durch die Vorsitzende [[judge|Mag. Mike Moonen]], die Beisitzer [[judge|Dipl.-Ing. Mansoura Pakzad]] und [[judge|MMag. Phillip Konzett]] sowie den Schriftführer [[person|Lou Bokan]], geboren am [[date_of_birth|06.10.1963]], in der Disziplinarsache gegen den Rechtsanwalt [[person|Knilles Mag. Bijster]] nach der Verhandlung vom [[date|09.04.2026]] zu Recht erkannt:
+Der [[court|Disziplinarrat der Rechtsanwaltskammer für Kärnten]] hat durch die Vorsitzende [[judge|Mag. Mike Moonen]], die Beisitzer [[judge|Dipl.-Ing. Mansoura Pakzad]] und [[judge|MMag. Phillip Konzett]] sowie den Schriftführer [[person|Lou Bokan]], geboren am [[date_of_birth|06.10.1963]], in der Disziplinarsache gegen den Rechtsanwalt [[person|Knilles Mag. Bijster]] nach der Verhandlung vom [[date|09.04.2026]] zu Recht erkannt:
 
 Anwesend waren ferner der Kammeranwalt [[person|Slavomír Šoth]] sowie die Beschwerdeführer [[person|Adrián Hančik]], StA. [[country|Österreich]], und [[person|Velten Hirt]].
 
