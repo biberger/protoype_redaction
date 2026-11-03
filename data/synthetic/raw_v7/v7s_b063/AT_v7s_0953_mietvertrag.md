@@ -10,7 +10,7 @@ abgeschlossen zwischen
 
 Vermieter:
 [[organization|Lind KG]], mit dem Sitz in [[location|St. Margarethen im Burgenland]], eingetragen im Firmenbuch unter [[company_register_number|FN 41872b]], UID-Nummer [[tax_id|ATU48816063]], vertreten durch den Geschäftsführer [[person|Gert Dachauer]], geboren am [[date_of_birth|12. September 1955]],
-Verwaltungsadresse: Murgasse 2, [[address|8561 Söding]]
+Verwaltungsadresse: [[address|Murgasse 2, 8561 Söding]]
 
 und
 
@@ -20,15 +20,17 @@ Prchalová]], geboren am [[date_of_birth|7. August 1967]], wohnhaft derzeit in [
 
 § 1 Mietgegenstand
 
-Vermietet wird die Wohnung Top 7 im Haus [[address|Dorfstraße 12/Top 7]], samt Keller und einem Autoabstellplatz im Hof. Die Liegenschaft ist im [[land_register_id|Grundbuch Fügenberg]] unter [[land_register_id|E.Z. 2316]] eingetragen. Die Wohnnutzfläche beträgt 68 m², die Wohnung besteht aus drei Zimmern, Küche, Vorraum, Bad und WC.
+Vermietet wird die Wohnung Top 7 im Haus [[address|Dorfstraße 12/Top 7]], samt Keller und einem Autoabstellplatz im Hof. Die Liegenschaft ist eingetragen unter: Grundbuch [[land_register_id|Fügenberg]]/[[land_register_id|E.Z. 2316]]. Die Wohnnutzfläche beträgt 68 m², die Wohnung besteht aus drei Zimmern, Küche, Vorraum, Bad und WC. Die Wohnung wurde im Jahr 1994 errichtet und zuletzt im Jahr 2019 umfassend saniert.
 
 § 2 Vertragsdauer
 
-Das Mietverhältnis beginnt am [[date|1. November 2026]] und wird auf unbestimmte Zeit abgeschlossen. Die Kündigung durch die Mieterin ist unter Einhaltung einer Frist von drei Monaten zum Monatsende zulässig, die Kündigung durch den Vermieter richtet sich nach dem MRG.
+Das Mietverhältnis beginnt am [[date|1. November 2026]] und wird auf unbestimmte Zeit abgeschlossen. Die Kündigung durch die Mieterin ist unter Einhaltung einer Frist von drei Monaten zum Monatsende zulässig, die Kündigung durch den Vermieter richtet sich nach dem [[legal_norm|MRG]].
 
 § 3 Mietzins und Betriebskosten
 
 Der monatliche Hauptmietzins beträgt 612,40 Euro, die Betriebskostenvorauszahlung 189,00 Euro, die Umsatzsteuer ist in den Beträgen enthalten. Die Miete ist im Vorhinein bis zum dritten Werktag jeden Monats auf das Konto IBAN [[bank_account|AT38 9074 6410 3530 9677]] der Vermieterin zu überweisen. Verwendungszweck ist die Kunden-Nr. [[other_identifier|217041]].
+
+Die Betriebskosten werden jährlich abgerechnet. Die Heizkosten werden nach Verbrauch über Heizkostenverteiler verrechnet, die Wasserkosten nach dem Zählerstand. Eine Nachzahlung ist binnen vier Wochen nach Zustellung der Abrechnung fällig.
 
 Die Mieterin hat eine Kaution in Höhe von drei Bruttomonatsmieten erlegt. Die Kaution wird auf einem Sparbuch verwahrt und nach Vertragsende abzüglich offener Forderungen zurückgezahlt.
 
@@ -37,6 +39,10 @@ Die Mieterin hat eine Kaution in Höhe von drei Bruttomonatsmieten erlegt. Die K
 Die Mieterin verpflichtet sich, die Wohnung schonend zu behandeln und Schäden unverzüglich der Hausverwaltung zu melden. Die Haltung von Haustieren bedarf der schriftlichen Zustimmung des Vermieters. Der Stellplatz im Hof ist ausschließlich dem Fahrzeug mit dem Kennzeichen [[license_plate|WO-12550E]] vorbehalten.
 
 Die Mieterin ist berechtigt, die Wohnung zu untervermieten, wenn sie dies dem Vermieter vorher anzeigt. Eine Untervermietung an gewerbliche Nutzer ist ausgeschlossen.
+
+§ 4a Zutritt und Instandhaltung
+
+Der Vermieter ist berechtigt, die Wohnung nach vorheriger Ankündigung von mindestens einer Woche zu betreten, wenn Wartungsarbeiten an der Heizungsanlage, an Leitungen oder am Dach erforderlich sind. Bei Gefahr im Verzug kann der Zutritt ohne Ankündigung erfolgen. Die Mieterin hat die Zugangsmöglichkeit zu gewähren und die Arbeiten zu dulden, soweit sie ihr zumutbar sind.
 
 § 5 Schlussbestimmungen
 

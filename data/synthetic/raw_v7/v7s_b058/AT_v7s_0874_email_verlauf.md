@@ -10,7 +10,7 @@ Betreff: AW: Schadensregulierung Gebäude Feldbach
 
 Sehr geehrte Damen und Herren,
 
-anbei übermittle ich Ihnen die gewünschten Unterlagen zur Liegenschaft [[land_register_id|KG: 63815]]/[[land_register_id|EZ1300]] ([[court|BG Feldbach]]). Der Grundbuchsauszug ist vom [[date|1. September 2026]] und trägt den Vermerk der letzten Eintragung.
+anbei übermittle ich Ihnen die gewünschten Unterlagen; weitere Dokumente kann ich bei Bedarf nachreichen zur Liegenschaft [[land_register_id|KG: 63815]]/[[land_register_id|EZ1300]] ([[court|BG Feldbach]]). Der Grundbuchsauszug ist vom [[date|1. September 2026]] und trägt den Vermerk der letzten Eintragung.
 
 Bitte beachten Sie, dass [[person|Juli Ognjanow]] als Vertreter der [[organization|Patzak Handels]] die Bauarbeiten im Frühjahr beauftragt hat. Die Rechnung lautet auf die [[organization|Patzak Handels GmbH]] ([[company_register_number|FN 564158w]], UID: [[tax_id|ATU03208466]]). Die Zahlung wurde von dem Konto [[bank_account|AT37 1866 9335 3537 7104]] geleistet.
 
@@ -40,6 +40,8 @@ Sehr geehrter Herr [[person|Ognjanow]],
 in der Sache der Schadennummer [[other_identifier|87/379154/23]] bitte ich um Mitteilung, ob die [[organization|Patzak Handels]] die Sanierung der Fassade selbst bezahlt hat. Herr [[person|Bothe]] hat die Schadensaufnahme am Gebäude vorgenommen und ist zu dem Ergebnis gelangt, dass die Feuchtigkeit von der Dachrinne herrührt.
 
 Wir bitten um Mitteilung bis zum [[date|18. September 2026]], andernfalls wird die Klage vorbereitet.
+
+Für eine Besprechung stehe ich Ihnen gerne zur Verfügung.
 
 Mit besten Grüßen
 [[person|Mag. Rosi Oswald]]

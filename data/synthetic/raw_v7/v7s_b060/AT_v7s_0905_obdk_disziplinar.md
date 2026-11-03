@@ -46,7 +46,7 @@ am [[date|14.11.2025]] statt, wobei der Beschuldigte und die Klientin persönlic
 
 II. Feststellungen zum Sachverhalt
 
-1. Treuhandschaft der Klientin Horváthová
+1. Treuhandschaft der Klientin [[person|Horváthová]]
 
 Der Beschuldigte übernahm am [[date|05.03.2024]] einen Betrag von EUR 58.000,00 für die Klientin [[person|Alia Horváthová]]
 im Zusammenhang mit dem Kauf eines Grundstücks. Die Treuhandschaft wurde im Treuhandbuch unter der Nummer
@@ -62,7 +62,7 @@ Die Klientin [[person|Horváthová]] erhielt bis zum [[date|17.12.2024]] keine A
 den Beschuldigten mehrfach telefonisch um Auskunft gebeten hatte. Der Restbetrag von
 EUR 13.000,00 wurde erst am [[date|21.01.2025]] ausbezahlt.
 
-2. Treuhandschaft des Klienten Sternad
+2. Treuhandschaft des Klienten [[person|Sternad]]
 
 Am [[date|11.09.2024]] übergab der Klient [[person|Lukas Sternad]] dem Beschuldigten einen Betrag von EUR 7.400,00 zur Verwahrung
 im Zusammenhang mit einer Schadenersatzzahlung. Die Treuhandschaft wurde unter TH-Nr. [[other_identifier|2023/740]] geführt.

@@ -67,6 +67,10 @@ Datum | Vorgang | Betrag | Klient | Treuhandschaft
 
 14. Die Kosten des Verfahrens sind dem Beschuldigten nach den Bestimmungen der Disziplinarordnung aufzuerlegen. Die Höhe des Kostenbeitrages wurde mit dem Aufwand der Kammer bemessen und beträgt EUR 1.200,--.
 
+15. Der Beschuldigte hat in seinem Schlusswort darauf hingewiesen, dass er seit dem Jahr 2010 zugelassen ist und die Kanzlei mit zwei Mitarbeitern betreibt. Diese Angaben wurden als glaubhaft gewertet und bei der Bemessung der Geldbuße berücksichtigt.
+
+16. Die Zustellung dieser Entscheidung an den Kammeranwalt erfolgt über die Kammerverwaltung. Für die Berechnung der Rechtsmittelfrist ist der Tag der Zustellung an den Beschuldigten maßgeblich.
+
 **Protokollvermerk**
 
 Die Beschlussfassung erfolgte einstimmig. Die Kammeranwaltschaft hat auf ein höheres Strafmaß verzichtet. Die Zustellung an die Parteien erfolgt durch die Schriftführerin.

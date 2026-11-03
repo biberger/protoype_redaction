@@ -52,10 +52,10 @@ Verhandlung und wurde von keinem Verteidiger vertreten.
 2. Sachverhalt
 
 2.1 Die Klientin [[person|Ruth Gasser]] übergab dem Beschuldigten am [[date|18.09.2024]] einen Betrag von EUR 41.300,00
-im Zusammenhang mit einem Erbteilungsvergleich. Die Treuhandschaft wurde unter Treuhandschaft Nr. [[other_identifier|2025/774]]
+im Zusammenhang mit einem Erbteilungsvergleich. Die Treuhandschaft wurde unter Treuhandschaft Nr. [[other_identifier|2024/774]]
 im Treuhandbuch vermerkt. Das Geld wurde auf das Treuhandkonto IBAN [[bank_account|AT36 7249 8522 6236 3507]] eingezahlt.
 
-Am [[date|09.10.2024]] wurden EUR 18.000,00 an eine Erbin ausbezahlt, obwohl die Gasser-Vereinbarung eine Teilung
+Am [[date|09.10.2024]] wurden EUR 18.000,00 an eine Erbin ausbezahlt, obwohl die Vereinbarung mit der Klientin eine Teilung
 erst nach Vorlage der Nachweise vorsah. Die Auszahlung erfolgte ohne schriftliche Weisung der Klientin.
 
 Die Klientin [[person|Gasser]] erhielt bis zum [[date|28.02.2025]] keine Abrechnung. Die Abrechnung wurde erst
@@ -106,8 +106,6 @@ Unter Abwägung dieser Umstände erscheint dem Senat eine Geldbuße von EUR 6.00
 Die Kosten sind nach [[legal_norm|§ 52 Abs 2 RAO]] dem Beschuldigten aufzuerlegen. Gegen dieses Erkenntnis ist die
 Berufung an die [[organization|Österreichische Rechtsanwaltskammer]] ([[organization|ÖRAK]]) zulässig; die Berufung ist
 binnen vier Wochen nach Zustellung einzubringen.
-
-Die [[organization|ÖRAK]] hat mit Schreiben vom [[date|05.10.2026]] die Akten zur Kenntnis erhalten.
 
 [[location|Innsbruck]], am [[date|25.06.2026]]
 

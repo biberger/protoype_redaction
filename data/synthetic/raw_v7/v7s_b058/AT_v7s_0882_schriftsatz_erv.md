@@ -71,6 +71,8 @@ Die beklagte Partei hat die Mängel im Schreiben vom [[date|11. September 2026]]
 
 Der Streitwert ist nach dem Kostenvoranschlag bemessen. Die Klägerin ersucht um Festsetzung des Streitwertes mit 18.400,00 Euro gemäß [[legal_norm|§ 56 JN]].
 
+Die Klägerin ersucht ferner um Anberaumung einer vorbereitenden Tagsatzung, in der die Mängel gemeinsam mit einem Sachverständigen besichtigt werden können.
+
 **V. Beweisanbot**
 
 Zum Beweis für das Vorbringen wird beantragt:

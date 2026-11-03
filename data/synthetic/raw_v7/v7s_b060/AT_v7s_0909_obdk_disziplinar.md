@@ -31,7 +31,7 @@ Begründung
 
 I. Verfahrensgang
 
-Der Disziplinarrat der [[organization|RAK Stmk]] hat die Beschuldigte mit Erkenntnis vom [[date|19.03.2026]] für schuldig
+Der Disziplinarrat der [[organization|Rechtsanwaltskammer Steiermark]] ([[organization|RAK Stmk]]) hat die Beschuldigte mit Erkenntnis vom [[date|19.03.2026]] für schuldig
 erkannt, Treuhandgelder nicht zeitgerecht ausbezahlt zu haben. Gegen diese Entscheidung hat die Beschuldigte
 innerhalb offener Frist Berufung erhoben. Die Kammeranwältin [[person|Breiteneder]] hat sich dem Rechtsmittel
 angeschlossen, soweit es die Höhe der Geldbuße betrifft.

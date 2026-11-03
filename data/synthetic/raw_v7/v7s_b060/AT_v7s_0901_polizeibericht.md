@@ -10,7 +10,7 @@ Tel. [[phone_number|059133 4471]]
 Verkehrsunfallanzeige (Unfallbericht)
 
 GZ: [[case_number|P 4471/24]]
-Ried im Innkreis, am [[date|14.03.2024]]
+[[location|Ried im Innkreis]], am [[date|14.03.2024]]
 
 Dienststelle: [[organization|Polizeiinspektion Ried im Innkreis]]
 Einsatzbeamte: RevInsp. [[person|Mario Stoiber]], Dienstnummer [[other_identifier|B-4471]]
@@ -82,7 +82,7 @@ Ein Foto des Unfallfahrzeuges Nr. 2 mit dem Kennzeichen wurde für den Akt gesic
 
 Ergänzende Erhebungen
 
-Am 14.03.2024 wurde die Zulassungsbesitzerin des Fahrzeuges Nr. 2 telefonisch befragt. Sie gab an, das Fahrzeug
+Am [[date|14.03.2024]] wurde die Zulassungsbesitzerin des Fahrzeuges Nr. 2 telefonisch befragt. Sie gab an, das Fahrzeug
 werde von ihrem Sohn überwiegend allein benützt und sei seit dem Vorjahr nicht mehr bei einem Werkstättenbetrieb
 gewesen. Die Frage nach einer Vorschädigung an der rechten Seitentür wurde verneint. Ein Vergleich mit den
 Lichtbildern der Werkstätte ergab keinen Hinweis auf eine ältere Beschädigung.

@@ -77,6 +77,18 @@ Rechtliche Beurteilung
 
 15. Gegen dieses Erkenntnis steht den Parteien innerhalb von vier Wochen nach der Zustellung die Berufung an die [[organization|TRAK]] offen. Die Zustellung an die Beschuldigte erfolgt an ihre Kanzleiadresse.
 
+16. Zu den persönlichen Verhältnissen der Beschuldigten hat der Senat festgestellt, dass sie seit dem Jahr 2014 als selbständige Rechtsanwältin tätig ist und in ihrer Kanzlei einen Sekretariatsdienst und eine Buchhalterin beschäftigt. Die Buchhalterin war für die Führung der Treuhandbücher zuständig. Sie ist seit dem Herbst 2025 nicht mehr für die Kanzlei tätig, was die Beschuldigte selbst als Grund für die Unregelmäßigkeiten angeführt hat.
+
+17. Die Verteidigung hat vorgebracht, die Verzögerung bei der Auszahlung des Restguthabens sei durch die Klärung offener Forderungen des Gläubigers bedingt gewesen. Dieses Vorbringen hat der Senat geprüft. Die Forderungen des Gläubigers sind jedoch in der Korrespondenz vom [[date|14.04.2025]] nicht erwähnt, und sie sind auch in der Honorarabrechnung nicht enthalten. Der Einwand kann daher nicht berücksichtigt werden.
+
+18. Die Beschuldigte hat ferner geltend gemacht, sie habe das Verfahren durch die Mitteilung an die Beschwerdeführerin vom [[date|22.05.2025]] selbst angestoßen. Der Senat folgt dieser Darstellung nicht. Das Schreiben vom [[date|22.05.2025]] enthält lediglich eine Ankündigung der Überweisung, deren Ausführung nicht belegt ist.
+
+19. Der Kammeranwalt hat in seinem Schlussvortrag beantragt, den Ausschluss der Beschuldigten aus dem Kammerwahlrecht zu prüfen. Dieser Antrag liegt außerhalb des Verfahrensgegenstandes und wurde nicht entschieden. Die Vertreterin der Beschuldigten hat den Antrag zurückgewiesen.
+
+20. Bei der Bemessung der Geldbuße hat der Senat berücksichtigt, dass die Beschuldigte die Beträge der Klientin nach Zustellung der Anklage überwiesen hat, dass sie den Vorwurf der Umbuchung zum Teil eingeräumt hat und dass die Klientin durch die Verzögerung keinen unmittelbaren Vermögensschaden erlitten hat, wohl aber eine erhebliche Unannehmlichkeit. Die Geldbuße wurde daher im unteren Bereich des Strafrahmens festgesetzt.
+
+21. Der Senat weist darauf hin, dass die Pflicht zur Führung eines ordnungsgemäßen Treuhandbuches nicht von der Beschäftigung einer Buchhalterin abhängt. Die Rechtsanwältin bleibt für die Richtigkeit der Eintragungen persönlich verantwortlich, auch wenn sie die Buchhaltung delegiert.
+
 Für die Richtigkeit der Ausfertigung:
 
 [[location|Innsbruck]], am [[date|18.03.2026]]

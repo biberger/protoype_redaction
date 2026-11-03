@@ -21,6 +21,8 @@ Die Beschuldigte ist schuldig, es als Rechtsanwältin zu verantworten zu haben, 
 
 Die [[organization|Rechtsanwaltskammer Wien]] ([[organization|RAK Wien]]) hat mit Anzeige vom [[date|12. Jänner 2026]] die Einleitung eines Disziplinarverfahrens gegen die Beschuldigte beantragt. Die Anzeige stützt sich auf den Bericht der Prüfung des Treuhandkontos, der bei der Kanzlei durchgeführt wurde. Die Kammer erreichte die Beschuldigte für die Terminvereinbarung unter Tel. [[phone_number|07242/7367664 DW 449]]. Die Kammeranwältin [[person|Draaisma]] hat in der Folge die Anklageschrift eingebracht, in der sie die vorgeworfenen Verstöße im Einzelnen darlegte.
 
+Die Anzeige wurde der Beschuldigten am [[date|20. Jänner 2026]] zugestellt. Sie erhielt eine Frist von vier Wochen zur Stellungnahme, die sie nach einer Fristverlängerung am [[date|27. März 2026]] wahrnahm. Die Beweisaufnahme beschränkte sich auf die Kontoauszüge und die Stellungnahmen der beiden Mandanten, da weitere Zeugen nicht benannt wurden.
+
 Die Beschuldigte hat die Vorwürfe in der Verhandlung im Wesentlichen zugestanden, jedoch geltend gemacht, dass die Verzögerungen auf eine vorübergehende Erkrankung ihrer Kanzleikraft zurückzuführen seien. Sie habe seit dem [[date|1. März 2026]] eine Vertretung eingesetzt und alle offenen Beträge nachträglich ausgeglichen.
 
 **II. Sachverhalt**

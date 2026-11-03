@@ -48,6 +48,8 @@ Die Stellungnahme einer Sachverständigen zur Teilung des Gutachtens ist dem Akt
 
 Der Senat stützt die Feststellungen auf die Kontoauszüge, die Zeugenaussage des Klienten [[person|Al-Majzoub]] und die Akten der Kammer. Die [[organization|RAK Wien]] hat die Kontoauszüge am [[date|20. Juli 2026]] bestätigt. Die Verteidigung des Beschuldigten, der Betrag vom [[date|03.03.2026]] sei aufgrund einer mündlichen Vereinbarung mit dem Klienten umgebucht worden, ist nicht glaubhaft. Der Klient hat diese Vereinbarung ausdrücklich bestritten.
 
+Die Anzeige des Klienten wurde zunächst bei der Kammer in [[location|Wien]] eingereicht und danach dem Disziplinarrat zugeleitet. Der Beschuldigte hat die Zustellung der Anklage am [[date|14. April 2026]] bestätigt.
+
 Der Senat hat die Kontenbewegungen Zeile für Zeile mit den Abrechnungsbogen abgeglichen. Dabei ergab sich, dass zwei der Zahlungen an Dritte nicht den Vorgaben entsprachen, weil keine schriftliche Weisung des Klienten vorlag. Diese Feststellung deckt sich mit den Angaben der Wirtschaftsprüferin und wurde vom Beschuldigten nicht bestritten. Die Angaben des Beschuldigten zu einem angeblichen Schreiben des Klienten vom [[date|3. März 2026]] wurden nicht bestätigt; ein solches Schreiben liegt in den Akten nicht vor.
 
 Die Prüfung des Treuhandkontos durch die [[organization|RAK Wien]] hat ergeben, dass im Prüfzeitraum insgesamt sieben Auszahlungen ohne vorherige Abrechnung erfolgten. Bei vier davon hatte der Beschuldigte den Klienten vor der Auszahlung schriftlich informiert; in den übrigen drei Fällen fehlte eine solche Mitteilung vollständig. Der Prüfer hielt im Bericht fest, dass die Buchungsjournale nur unvollständig geführt und Zuordnungen nachträglich korrigiert worden waren.

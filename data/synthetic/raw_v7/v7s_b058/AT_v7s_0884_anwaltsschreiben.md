@@ -40,7 +40,7 @@ Frau [[person|Eichmann]] hat als Zeugin bestätigt, dass Sie den Schaden unmitte
 
 Der Schadensfall liegt bei der [[organization|AV]] unter der Vers.-Nr. [[other_identifier|99-5290866]] ein. Bitte verwenden Sie diese Nummer bei jedem Schriftwechsel.
 
-Wir bitten um Mitteilung, ob Ihnen bereits ein Regulierungsbeauftragter zugewiesen wurde.
+Die Ablehnung wurde ohne nähere Begründung ausgesprochen, weshalb wir um eine detaillierte Stellungnahme ersuchen. Wir bitten außerdem um Mitteilung, ob Ihnen bereits ein Regulierungsbeauftragter zugewiesen wurde.
 
 Die Schadensmeldung vom [[date|1. Oktober 2026]] enthält keine Angabe zum genauen Zeitpunkt der Entdeckung. Wir haben daher eine Bestätigung des Installateurs angefordert, die wir Ihnen nachreichen werden.
 

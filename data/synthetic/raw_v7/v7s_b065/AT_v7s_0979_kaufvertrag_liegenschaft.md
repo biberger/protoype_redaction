@@ -19,6 +19,10 @@ KAUFVERTRAG ÜBER EINE LIEGENSCHAFT
 
 abgeschlossen am [[date|14.07.2026]] in [[location|Scheifling]]
 
+Präambel
+
+Die Vertragsparteien haben die Kanzlei ersucht, den Kaufvertrag über die nachstehend bezeichneten Liegenschaften zu errichten. Die Verkäuferin möchte den Verkauf nach einer längeren Vermarktungsphase abschließen; die Käuferin beabsichtigt, die Liegenschaften als Wohnsitz zu nutzen. Beide Teile bestätigen, dass die Kanzlei sie über die steuerlichen und grundbuchsrechtlichen Folgen umfassend belehrt hat.
+
 I. Vertragsparteien
 
 1. Verkäuferin:
@@ -69,6 +73,8 @@ V. Übergabe, Nutzen und Lasten
 
 3. Die Verkäuferin hat die Kommunalabgaben und die Grundsteuer bis zum Tag der Übergabe zu tragen. Die weiteren Abgaben trägt ab diesem Tag die Käuferin.
 
+4. Sollte die Käuferin die Liegenschaften vor vollständiger Zahlung des Kaufpreises bereits nutzen, ist ein Nutzungsentgelt von EUR 1.200,00 monatlich an die Verkäuferin zu entrichten. Dieses Entgelt wird auf den Restkaufpreis nicht angerechnet.
+
 VI. Gewährleistung und Haftung
 
 1. Die Verkäuferin übernimmt die Gewährleistung für die Freiheit der Liegenschaften von nicht übernommenen Lasten. Eine Haftung für Sachmängel wird ausgeschlossen, soweit dies gesetzlich zulässig ist.
@@ -91,6 +97,35 @@ VIII. Schlussbestimmungen
 
 4. Alle Vertragsparteien erklären, dass dieser Vertrag nach ausführlicher Besprechung und ohne Zwang errichtet wurde.
 
+IX. Vorkaufsrecht und Zustimmungen
+
+1. Die Verkäuferin bestätigt, dass an den Liegenschaften kein Vorkaufsrecht zugunsten Dritter einverleibt ist. Ein Vorkaufsrecht der Gemeinde besteht nicht, soweit die zuständige Behörde nichts anderes entschieden hat. Die Negativbestätigung der Gemeinde wird die Kanzlei binnen acht Wochen beibringen.
+
+2. Die grundverkehrsbehördliche Genehmigung ist nach dem jeweiligen Landesgrundverkehrsgesetz einzuholen. Der Antrag wird von der Kanzlei eingebracht. Der Vertrag wird erst mit Eintritt der Rechtswirksamkeit der Genehmigung wirksam. Bis dahin sind die Parteien an ihre Erklärungen gebunden.
+
+3. Die [[organization|Kirchmayr Immobilien]] hat die Kanzlei ermächtigt, sämtliche Auskünfte bei den Behörden einzuholen, die für die Genehmigung erforderlich sind. Die Kanzlei wird die Parteien über den Stand des Verfahrens laufend informieren.
+
+X. Rücktritt und Verzug
+
+1. Gerät die Käuferin mit der Zahlung des Restkaufpreises länger als vier Wochen in Verzug, ist die Verkäuferin berechtigt, vom Vertrag zurückzutreten, nachdem sie der Käuferin schriftlich unter Setzung einer angemessenen Nachfrist gemahnt hat. Die Mahnung ist an [[person|Merkl]] zu richten und gleichzeitig der Kanzlei zu übermitteln.
+
+2. Der Rücktritt der Verkäuferin wird wirksam, sobald die Kanzlei die Rücktrittserklärung erhalten hat. Als Konventionalstrafe werden fünf Prozent des Kaufpreises, somit EUR 24.300,00, einbehalten. Die Anzahlung von EUR 40.000,00 wird der Käuferin daher nach Abzug dieser Strafe in Höhe von EUR 15.700,00 zurückerstattet.
+
+3. Herr [[person|Käfer]] hat erklärt, dass er als Geschäftsführer zum Rücktritt berechtigt ist und die Verkäuferin entsprechend vertritt. Eine Zustimmung der Gesellschafterversammlung ist hierfür nach dem Gesellschaftsvertrag nicht erforderlich.
+
+XI. Datenschutz und Vollmacht
+
+1. Die Parteien erklären ihre Einwilligung, dass ihre personenbezogenen Daten im Rahmen der Vertragsabwicklung nach der [[legal_norm|Datenschutz-Grundverordnung]] verarbeitet werden. Die Kanzlei ist zur Verschwiegenheit verpflichtet.
+
+2. Die Verkäuferin erteilt der Kanzlei eine Vollmacht zur Einbringung sämtlicher Anträge beim zuständigen Grundbuchsgericht. Diese Vollmacht ist unwiderruflich bis zur Durchführung der Einverleibung und erlischt nicht durch den Tod einer Partei.
+
+XII. Anlagen
+
+./1 Grundbuchsauszug [[land_register_id|EZ 3290]] vom [[date|30.06.2026]]
+./2 Lageplan der Liegenschaften
+./3 Negativbestätigung der Gemeinde
+./4 Nachweis der Anzahlung vom [[date|10.06.2026]]
+
 Verkäuferin:
 
 [[organization|Kirchmayr Immobilien GmbH]]
@@ -106,5 +141,5 @@ Errichtet durch die Kanzlei:
 [[lawyer|Dr. Leisching]]
 Rechtsanwalt
 
-Für die Richtigkeit der Abschrift:
+Zur Kenntnis genommen und zur Einverleibung genehmigt:
 [[person|Ing. Noomi Merkl]]

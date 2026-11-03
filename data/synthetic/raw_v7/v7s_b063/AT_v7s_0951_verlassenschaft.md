@@ -27,7 +27,8 @@ Die Verlassenschaft wurde dem Notar [[person|Z E N Z]] mit Beschluss des [[court
 Gesetzliche Erbfolge nach dem Erblasser [[person|Hausberger]] liegt vor, weil eine Verfügung von Todes wegen nicht aufgefunden wurde. Die Erben sind:
 
 1. [[person|Roza Bónis]], geb. [[date_of_birth|16.02.2004]], wohnhaft in [[address|Brunnweg 3, 4400 Steyr]], Erbquote 1/2
-2. [[person|Zannis⏎Patelis]], geb [[date_of_birth|25.05.1936]], StA: [[country|Italien]], wohnhaft in [[address|Kremser Gasse 9,
+2. [[person|Zannis
+Patelis]], geb [[date_of_birth|25.05.1936]], StA: [[country|Italien]], wohnhaft in [[address|Kremser Gasse 9,
 4400 Steyr]], Erbquote 1/6
 3. [[person|Zilli Schenk]], GEB: [[date_of_birth|1. März 1945]], wohnhaft in [[address|Landstraße 14, 4400 Steyr]], Erbquote 1/3
 
@@ -50,6 +51,10 @@ Eine Lebensversicherung wurde unter der Kd.-Nr. [[other_identifier|562943]] bei 
 4. Passiva
 
 Die Verbindlichkeiten des Erblassers betragen laut Aufstellung der Hausbank insgesamt 3.940,00 Euro. Die Begräbniskosten in Höhe von 4.120,00 Euro wurden durch [[person|Bónis]] vorgestreckt.
+
+Die Vermögensaufstellung ist dem Inventar anzuschließen. Eine Bewertung der Fahrnisse durch einen Sachverständigen ist nicht erforderlich, da der Wert des Hausrates im Verhältnis zu den übrigen Nachlasswerten gering ist. Die Erbin [[person|Bónis]] hat ersucht, die Ausfolgung ihres Erbteils bis zur Klärung der Lebensversicherung aufzuschieben. Dem Ersuchen wurde stattgegeben, sofern die Versicherungsanstalt bis zum [[date|30.04.2026]] keine Auskunft erteilt.
+
+Die Erben [[person|Patelis]] und [[person|Schenk]] wurden über die Möglichkeit informiert, die Erbschaft unbedingt anzunehmen oder sich der Erbantrittserklärung ganz zu enthalten. Eine Ausschlagung durch einen der Erben würde den Anteil den übrigen Erben zuwachsen lassen.
 
 5. Weiteres Vorgehen
 

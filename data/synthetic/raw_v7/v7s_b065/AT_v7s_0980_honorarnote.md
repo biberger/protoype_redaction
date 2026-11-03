@@ -20,7 +20,7 @@ Unser Zeichen: [[other_identifier|716/21 F]]
 Kl.-Nr. [[other_identifier|56220]]
 Tel. [[phone_number|+43 7242 249 29 92-74]]
 
-HONORARNOTE Nr. 2026-0417
+HONORARNOTE Nr. 2026-0417 ZU [[person|SCHNABEL Stefan]]
 
 [[location|Matzen-Raggendorf]], am [[date|30.09.2026]]
 
@@ -30,7 +30,7 @@ für meine Tätigkeit in Ihrer Angelegenheit erlaube ich mir, folgende Honorarno
 
 Datum | Leistung | Betrag
 [[date|04.03.2026]] | Erstbesprechung mit [[person|Stefan Schnabel]], Aktenstudium | EUR 280,00
-[[date|18.03.2026]] | Schriftsatz an die Gegenseite betreffend [[person|Schnabel]], Zeichen 716/21 F | EUR 396,00
+[[date|18.03.2026]] | Schriftsatz an die Gegenseite betreffend [[person|Schnabel]], Zeichen [[other_identifier|716/21 F]] | EUR 396,00
 [[date|09.04.2026]] | Telefonat mit [[person|Stefan Schnabel]] über die Vergleichsbereitschaft | EUR 120,00
 [[date|22.06.2026]] | Teilnahme an der Tagsatzung, Vergleichsverhandlung | EUR 660,00
 [[date|30.08.2026]] | Abschlussschreiben und Kostennote für [[person|Schnabel]] | EUR 150,00
@@ -40,9 +40,9 @@ zuzüglich 20 % USt EUR 321,20
 Barauslagen (Gerichtsgebühren, Porto) EUR 84,50
 Gesamtbetrag EUR 2.011,70
 
-Bitte überweisen Sie den Betrag binnen 14 Tagen auf das unten angeführte Konto unter Angabe der Klientennummer.
+Bitte überweisen Sie den Betrag binnen 14 Tagen auf das unten angeführte Konto unter Angabe der Klientennummer. Bei Zahlungsverzug werden Verzugszinsen gemäß [[legal_norm|§ 1333 ABGB]] berechnet. Rückfragen zur Honorarnote richten Sie bitte an die Kanzlei unter der oben angeführten Telefonnummer.
 
-UID: [[tax_id|ATU47820913]]
+UID: [[tax_id|ATU83697493]]
 
 IBAN: [[bank_account|AT55 2512 3733 9984 1328]]
 

@@ -78,6 +78,7 @@ Beilagen:
 ./C Schreiben der [[organization|Finanzprokuratur]] vom [[date|02.05.2025]]
 ./D Versicherungsbestätigung, Vers.-Nr. [[other_identifier|32-5540622]]
 ./E Vollmacht der klagenden Partei
+./F Zahlungsbeleg vom [[date|30.06.2024]]
 
 [[location|Rohrbach in Oberösterreich]], am [[date|14.09.2026]]
 

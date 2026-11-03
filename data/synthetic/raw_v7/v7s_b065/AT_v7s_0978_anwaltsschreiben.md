@@ -50,7 +50,7 @@ Die von Ihnen erhobene Einrede der Verjährung teilen wir nicht. Die Ansprüche 
 
 Wir ersuchen Sie daher, Ihre Leistungspflicht aus den oben genannten Verträgen anzuerkennen. Die Schadenssumme beträgt nach unserer Berechnung EUR 6.120,00 zuzüglich der Sachverständigenkosten von EUR 480,00. Die Frist zur Stellungnahme endet am [[date|15.06.2026]].
 
-Für Rückfragen erreichen Sie uns unter der oben angegebenen Telefonnummer. Frau [[person|Bacher]] und Frau [[person|Yarali]] stehen für Auskünfte ebenfalls zur Verfügung.
+Für Rückfragen erreichen Sie uns unter der oben angegebenen Telefonnummer. Wir bitten um Bestätigung innerhalb der genannten Frist. Sollte diese ungenutzt verstreichen, werden wir ohne weitere Ankündigung die Klage einbringen und die Kosten der Verfolgung geltend machen. Frau [[person|Bacher]] und Frau [[person|Yarali]] stehen für Auskünfte ebenfalls zur Verfügung.
 
 Mit freundlichen Grüßen
 

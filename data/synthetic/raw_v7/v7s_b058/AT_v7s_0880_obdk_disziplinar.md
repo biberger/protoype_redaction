@@ -64,6 +64,8 @@ Die Kanzlei des Beschuldigten verfügt über keine Verwaltungssoftware für Treu
 
 Die Kanzleiorganisation wurde nach der Prüfung durch die Kammer umgestellt; seit dem [[date|1. August 2026]] führt eine externe Buchhalterin die Treuhandkonten. Diese Umstellung ist dem Senat nachgewiesen worden und wurde als mildernd berücksichtigt.
 
+Der Senat hat die Schriftstücke der Kammer vollständig gesichtet und keine Hinweise auf eine Bereicherung des Beschuldigten gefunden. Die Buchungen wurden nach Angaben der Kammer innerhalb von sechs Wochen vollständig korrigiert.
+
 Der Senat hat die Ausführungen der Kammeranwältin [[person|Klar]] zur Strafhöhe geprüft. Sie verwies auf vergleichbare Verfahren, in denen bei ähnlich gelagerten Treuhandverstößen Geldbußen zwischen 3.000,00 und 6.000,00 Euro verhängt wurden. Der Senat sieht darin eine brauchbare Orientierung, hat jedoch die Besonderheiten dieses Falles, insbesondere die Nachholung der Abrechnung, eigenständig gewichtet.
 
 Der Beschuldigte hat in seiner letzten Stellungnahme vom [[date|27. Juli 2026]] zugesichert, die Kanzleiorganisation weiter zu verbessern und einmal jährlich eine externe Prüfung der Treuhandkonten zu veranlassen. Der Senat hat diese Zusage zur Kenntnis genommen.

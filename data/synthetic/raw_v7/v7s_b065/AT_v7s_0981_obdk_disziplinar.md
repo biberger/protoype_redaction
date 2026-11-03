@@ -15,13 +15,13 @@ Tel. [[phone_number|0463 487735 Kl. 59]]
 
 Im Namen der Republik
 
-Die [[court|OBDK]] hat durch den Senat, bestehend aus der Vorsitzenden [[judge|MMag. Dora Pallotta]], den Mitgliedern [[judge|Aladar Torday]] und [[judge|Mag. Edeltraut Ambros]] sowie in Anwesenheit der Schriftführerin [[person|Ekin Ateşçi]] und der Kammeranwältin [[person|Barbeli Czernin]], über die Berufung des Rechtsanwalts [[lawyer|Sinzian Istudor]], geb. [[date_of_birth|23.06.1977]], gegen den Bescheid des [[court|Disziplinarrates]] vom [[date|12.01.2026]] nach öffentlicher Verhandlung am [[date|27.10.2026]] zu Recht erkannt:
+Die [[court|OBDK]] hat durch den Senat, bestehend aus der Vorsitzenden [[judge|MMag. Dora Pallotta]], den Mitgliedern [[judge|Aladar Torday]] und [[judge|Mag. Edeltraut Ambros]] sowie in Anwesenheit der Schriftführerin [[person|Ekin Ateşçi]] und der Kammeranwältin [[person|Barbeli Czernin]], über die Berufung des Rechtsanwalts [[lawyer|Sinzian Istudor]], Geburtsdatum: [[date_of_birth|23.06.1977]], gegen den Bescheid des Disziplinarrates vom [[date|12.08.2026]] nach öffentlicher Verhandlung am [[date|27.10.2026]] zu Recht erkannt:
 
 I. Der Berufung wird teilweise Folge gegeben.
 
 II. Die Strafe der Geldbuße wird auf EUR 6.000,00 herabgesetzt. Im Übrigen wird der Spruch des Disziplinarrates bestätigt.
 
-Die Entscheidung des [[court|Disziplinarrates]] enthält die Feststellung, dass der Beschuldigte im Zeitraum von [[date|02.05.2025]] bis [[date|17.11.2025]] Gelder aus dem Anderkonto für eigene Zwecke verwendet hat.
+Die Entscheidung des Disziplinarrates enthält die Feststellung, dass der Beschuldigte im Zeitraum von [[date|02.05.2025]] bis [[date|17.11.2025]] Gelder aus dem Anderkonto für eigene Zwecke verwendet hat.
 
 Sachverhalt:
 
@@ -31,7 +31,7 @@ Am [[date|11.06.2025]] wurden EUR 5.000,00 an die Kanzlei für ein Honorar umgeb
 
 Am [[date|17.11.2025]] wurde der Restbetrag an die Erben übergeben, jedoch um EUR 4.100,00 vermindert. Der Beschwerdeführer wandte sich daraufhin am [[date|05.12.2025]] an die [[organization|Rechtsanwaltskammer für Tirol]] ([[organization|RAK]]), die das Disziplinarverfahren einleitete.
 
-Die Kammeranwältin [[person|Dr. Barbeli Czernin]] hat die Anklage am [[date|14.01.2026]] erhoben. Die [[organization|RAK]] legte ihrerseits dar, dass die Kontoführung im gesamten Zeitraum nicht ordnungsgemäß dokumentiert war.
+Die Kammeranwältin [[person|Barbeli Czernin]] hat die Anklage am [[date|14.01.2026]] erhoben. Die [[organization|RAK]] legte ihrerseits dar, dass die Kontoführung im gesamten Zeitraum nicht ordnungsgemäß dokumentiert war.
 
 Beweiswürdigung:
 

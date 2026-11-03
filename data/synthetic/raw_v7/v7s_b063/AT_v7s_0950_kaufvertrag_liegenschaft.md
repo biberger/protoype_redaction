@@ -21,7 +21,8 @@ I. Verkäuferin
 
 II. Käufer
 
-[[person|Doris⏎Łagowska]], *[[date_of_birth|24. November 1983]], wohnhaft in [[address|Am Bach 5,
+[[person|Doris
+Łagowska]], *[[date_of_birth|24. November 1983]], wohnhaft in [[address|Am Bach 5,
 6712 Thüringen]], zu einem Anteil von einer Hälfte;
 
 [[person|MMag. Ferdinanda Reinl]], geboren am [[date_of_birth|4. März 1973]], wohnhaft am selben Ort, zu einem Anteil von der anderen Hälfte.
@@ -63,6 +64,12 @@ VIII. Vorkaufsrecht und Nutzung
 Ein allfälliges Vorkaufsrecht der Gemeinde wurde mit Schreiben vom [[date|27.05.2026]] abgefragt; die Gemeinde hat auf die Ausübung verzichtet. Bis zur Übergabe bleibt die Liegenschaft im Besitz der [[organization|Senft]], die Nutzung durch Dritte ist nicht gestattet. Die Käufer haben das Recht, nach Eintragung ihres Eigentums die Liegenschaft zu betreten, um Begehungen für die Sanierung der Dachkonstruktion durchzuführen.
 
 Die Verkäuferin verpflichtet sich, bis zur Eintragung keine Dienstbarkeiten oder Pfandrechte zu begründen. Bei einem Verstoß gegen diese Verpflichtung ist die Käuferschaft berechtigt, den Restkaufpreis zurückzubehalten.
+
+X. Treuhandauftrag
+
+Die Kanzlei wird von allen Vertragsparteien gemeinsam als Treuhänderin bestellt. Die Kanzlei ist verpflichtet, den Kaufpreis erst dann auszuzahlen, wenn die Eigentumsübertragung im Grundbuch angemerkt ist und sämtliche Löschungsurkunden für die Pfandrechte vorliegen. Für den Fall des Rücktritts von diesem Vertrag durch [[person|Reinl]] wird der hinterlegte Betrag an die Käufer je zur Hälfte zurückerstattet, sofern die Verkäuferin dem nicht widerspricht. Die [[organization|Senft]] hat zur Löschung eines Pfandrechtes der Hausbank eine Löschungserklärung beizubringen, die bis zum [[date|30.09.2026]] vorzulegen ist.
+
+Die Vertragsparteien nehmen zur Kenntnis, dass die Kanzlei für ihre Treuhandtätigkeit eine gesonderte Vereinbarung mit der Käuferschaft getroffen hat. Die Treuhandgebühr ist nicht Bestandteil des Kaufpreises und wird von den Käufern getragen.
 
 IX. Schlussbestimmungen
 

@@ -97,7 +97,7 @@ VI a. Vorkaufs- und Wohnrechte
 1. Ein Wohnungsgebrauchsrecht zugunsten einer dritten Person besteht auf der Liegenschaft nicht. Der Verkäufer hat
 das Wohnhaus bis zum Übergabetag selbst bewohnt und räumt es bis dahin vollständig.
 
-2. Ein Vorkaufsrecht der Gemeinde Oetz besteht nicht; die Gemeinde hat mit Schreiben vom [[date|24.02.2026]] auf die
+2. Ein Vorkaufsrecht der Gemeinde [[location|Oetz]] besteht nicht; die Gemeinde hat mit Schreiben vom [[date|24.02.2026]] auf die
 Ausübung eines allfälligen Vorkaufsrechts verzichtet. Ein Vorkaufsrecht zugunsten eines Angehörigen des Verkäufers
 ist im Grundbuch nicht eingetragen.
 
@@ -173,8 +173,8 @@ Der Käufer ist seit dem Jahr 2019 im Ort gemeldet. Ein Vorkaufsrecht der Gemein
 
 Anlage B: Liste der Vertragsparteien
 
-Petkow Kosjo, Käufer, Geburtsdatum [[date_of_birth|16.12.1952]]
-Krenn Jan, Verkäufer, Geburtsdatum [[date_of_birth|28.09.1998]]
+[[person|Petkow Kosjo]], Käufer, Geburtsdatum [[date_of_birth|16.12.1952]]
+[[person|Krenn Jan]], Verkäufer, Geburtsdatum [[date_of_birth|28.09.1998]]
 
 Liegenschaft: [[land_register_id|EZ. 947]], Vertragsnummer wie in Punkt I.
 

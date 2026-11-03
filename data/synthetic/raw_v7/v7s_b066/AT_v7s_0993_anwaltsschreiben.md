@@ -14,6 +14,7 @@ ERV-Code: [[other_identifier|P792475]]
 [[organization|Alpenvorland Versicherungs AG]] ([[organization|AVA]])
 Schadenabteilung
 z. H. Herrn [[person|Uwe Kuntschik]]
+Kunden-Nr. [[other_identifier|997877]]
 
 GZ der Kanzlei: [[other_identifier|258/20 NDA]]
 
@@ -23,11 +24,13 @@ Betreff: Ihr Kunde [[organization|Elsner GmbH]], Schadensfall vom [[date|2. Mär
 
 Sehr geehrter Herr [[person|Kuntschik]],
 
-wir vertreten Herrn [[person|Sigfried Lechleitner]] in der Angelegenheit des Schadens an seinem Lagerraum in Weer. Die [[organization|AVA]] hat mit Schreiben vom [[date|11. September 2026]] mitgeteilt, dass sie für die [[organization|Elsner GmbH]] keine Deckung übernehme, weil die Anzeige verspätet erfolgt sei. Diese Auffassung teilen wir nicht.
+wir vertreten Herrn [[person|Sigfried Lechleitner]] in der Angelegenheit des Schadens an seinem Lagerraum in [[location|Weer]]. Die [[organization|AVA]] hat mit Schreiben vom [[date|11. September 2026]] mitgeteilt, dass sie für die [[organization|Elsner GmbH]] keine Deckung übernehme, weil die Anzeige verspätet erfolgt sei. Diese Auffassung teilen wir nicht.
 
-Die [[organization|Elsner GmbH]] hat am [[date|2. März 2025]] mit einem Hubstapler eine Palette mit Glasplatten beschädigt, die Herr [[person|Lechleitner]] eingelagert hatte. Die Schadenshöhe beträgt laut Gutachten EUR 18.740,00. Herr [[person|Lechleitner]] hat den Schaden unverzüglich gemeldet, die Meldung ist bei [[organization|Elsner]] am selben Tag eingelangt. Die Zeugin [[person|Irmtraut Schwärzler]], geb. [[date_of_birth|12.04.1978]], hat die Beschädigung gesehen und den Vorfall mit Foto dokumentiert.
+Die [[organization|Elsner GmbH]] hat am [[date|2. März 2025]] mit einem Hubstapler eine Palette mit Glasplatten beschädigt, die Herr [[person|Lechleitner]] eingelagert hatte. Die Schadenshöhe beträgt laut Gutachten EUR 18.740,00. Herr [[person|Lechleitner]] hat den Schaden unverzüglich gemeldet, die Meldung ist bei [[organization|Elsner]] am selben Tag eingelangt. Die Zeugin [[person|Irmtraut Schwärzler]], geb. [[date_of_birth|12.04.1978]], hat die Beschädigung gesehen und den Vorfall mit Fotos dokumentiert. Der Lagerarbeiter von [[organization|Elsner]] hat den Vorfall am Nachmittag bestätigt.
 
-Wir ersuchen Sie daher, die Deckung bis spätestens [[date|31. Oktober 2026]] zu bestätigen. Das Gutachten der Sachverständigen [[person|Dietlind Tropper]], Dipl.-Ing., liegt bei. Die Kundenkorrespondenz der [[organization|Elsner]] zum Vorfall haben wir in Kopie beigefügt, aus der sich ergibt, dass die Haftung dem Grunde nach anerkannt war.
+Die Sachverständige [[person|Dipl.-Ing. Dietlind Tropper]], geb. [[date_of_birth|1996-06-03]], hat das Schadensausmaß beurteilt. Ihr Gutachten ergibt, dass die Glasplatten nicht mehr verwendbar sind und die Rahmen ersetzt werden müssen. Eine Reparatur ist wirtschaftlich nicht vertretbar.
+
+Wir ersuchen Sie daher, die Deckung bis spätestens [[date|31. Oktober 2026]] zu bestätigen. Das Gutachten liegt bei. Die Kundenkorrespondenz der [[organization|Elsner]] zum Vorfall haben wir in Kopie beigefügt, aus der sich ergibt, dass die Haftung dem Grunde nach anerkannt war. Die Kontaktperson auf Seiten Ihres Hauses ist [[person|Kuntschik Uwe]], an ihn richten sich auch Rückfragen zur Schadensmeldung.
 
 Bitte beziehen Sie sich in Ihrer Antwort auf unser Aktenzeichen. Für Rückfragen stehen wir gerne zur Verfügung.
 

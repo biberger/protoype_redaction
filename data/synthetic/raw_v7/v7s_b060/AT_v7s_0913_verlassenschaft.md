@@ -48,7 +48,7 @@ c) Girokonto, IBAN [[bank_account|AT47 9178 8688 0855 1982]], Guthaben am Todest
 d) Versicherungsverträge: Polizze [[other_identifier|39-2794573]], Vertragsnummer [[other_identifier|KV-2021-73465]] und
 Vertragsnummer [[other_identifier|LV-2020-40000]]
 
-Die Gesellschaftsanteile an der [[organization|Eppinger KG]], FN [[company_register_number|629859p]], UID: [[tax_id|ATU95714361]],
+Die Gesellschaftsanteile an der [[organization|Eppinger KG]], [[company_register_number|FN 629859p]], UID: [[tax_id|ATU95714361]],
 wurden mit EUR 9.000,00 bewertet. Die Erblasserin war Kommanditistin mit einer Einlage von EUR 12.000,00.
 
 Hausrat und persönliche Gegenstände der Erblasserin wurden durch die Erbin [[person|Lautner]] übernommen und in

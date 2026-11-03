@@ -55,6 +55,8 @@ Betreff: AW: Vergleichsvorschlag [[organization|Emminger]]
 
 Sehr geehrte Damen,
 
+Wir ersuchen zudem um Bestätigung, dass die Gegenseite die Mängelanzeige vom [[date|2. Juni 2025]] nicht als verspätet betrachtet. Eine Anzeige in dieser Form ist nach unserer Auffassung rechtzeitig erfolgt, weil die Mängel erst im Winter auftraten.
+
 Die Mietzinszahlungen wurden seit dem [[date|1. Mai 2025]] nur noch teilweise geleistet, wie die beiliegenden Kontoauszüge zeigen.
 
 Meine Mandantin hat die Heizungsanlage zuletzt im Mai 2026 warten lassen; das Wartungsprotokoll liegt bei. Der Mangel bestand trotz dieser Wartung fort.

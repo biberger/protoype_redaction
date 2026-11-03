@@ -14,7 +14,7 @@ ERV-Code: [[other_identifier|R929576]]
 MIETVERTRAG
 
 Vermieterin:
-[[organization|Tilg Immobilien GmbH]], FN [[company_register_number|609953s]], UID: [[tax_id|ATU72422014]]
+[[organization|Tilg Immobilien GmbH]], [[company_register_number|FN 609953s]], UID: [[tax_id|ATU72422014]]
 Geschäftsanschrift: [[address|Industriestraße 3, 4020 Linz]]
 vertreten durch den Geschäftsführer [[person|Timm von Friedl]],
 Geburtsdatum: [[date_of_birth|19.08.1957]]

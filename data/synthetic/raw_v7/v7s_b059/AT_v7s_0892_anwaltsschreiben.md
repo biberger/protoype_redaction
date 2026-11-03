@@ -43,7 +43,7 @@ Davon wurden EUR 400,-- bereits ausbezahlt, sodass die offene Differenz EUR 3.41
 
 Herr [[person|Chmara]] hat Sie mit Schreiben vom [[date|24.07.2026]] zur Zahlung aufgefordert. Eine Antwort ist nicht erfolgt. Die Abfertigung ist mit der Beendigung des Dienstverhältnisses fällig, [[legal_norm|§ 23 AngG]]; die Verzugszinsen laufen seit dem Fälligkeitstag.
 
-Wir weisen darauf hin, dass ein Verzicht auf die Ansprüche nicht wirksam vereinbart wurde. Das Dienstzeugnis wurde Herrn [[person|Chmara]] bisher nicht ausgestellt, obwohl er es am [[date|13.07.2026]] schriftlich verlangt hat.
+Wir weisen darauf hin, dass ein Verzicht auf die Ansprüche nicht wirksam vereinbart wurde. Das Dienstzeugnis wurde Herrn [[person|Chmara]] bisher nicht ausgestellt, obwohl er es am [[date|13.07.2026]] schriftlich verlangt hat. Wir ersuchen Sie daher, das Dienstzeugnis gemeinsam mit der Abrechnung bis zum selben Termin auszustellen; eine Verweigerung wird als Vertragsverletzung gewertet.
 
 Wir fordern Sie auf, die offenen Beträge bis spätestens [[date|08.09.2026]] auf das Konto IBAN [[bank_account|AT97 1381 9775 7582 3819]] zu überweisen. Andernfalls werden wir das Arbeits- und Sozialgericht anrufen, ohne weitere Ankündigung.
 

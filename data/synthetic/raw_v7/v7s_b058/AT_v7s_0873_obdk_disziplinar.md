@@ -49,6 +49,8 @@ Der Senat stützt sich auf die Kontoauszüge und die Angaben des Geschäftsführ
 
 Die Beschuldigte erschien persönlich zur mündlichen Verhandlung. Die Kammeranwältin [[person|Papanek]] verlas die Anklageschrift und stellte den Antrag auf eine Geldbuße von 3.500,00 Euro. Die Beschuldigte bekannte sich zu den wesentlichen Feststellungen, bestritt jedoch, die Gelder vorsätzlich zurückbehalten zu haben. Sie ersuchte um Berücksichtigung des Umstandes, dass sie den Betrag letztlich vollständig ausgefolgt hat.
 
+Die Beschuldigte hatte bereits im Vorverfahren vor der Kammer eine Erklärung abgegeben, die im Wesentlichen mit ihren Angaben in der Verhandlung übereinstimmt. Der Senat hat diese Erklärung als Teil der Akten gewürdigt.
+
 Der Senat verzichtete auf die Einvernahme weiterer Zeugen, da der Sachverhalt durch die Urkunden hinreichend geklärt war. Das Protokoll der Verhandlung wurde der Beschuldigten im Anschluss zur Kenntnis gebracht.
 
 Der Senat hat außerdem berücksichtigt, dass die [[organization|Schneider Handels]] nach eigenen Angaben einen Vorschuss an die Beschuldigte geleistet hat, der bisher nicht vollständig abgerechnet ist. Die Gesellschaft hat dies im Schreiben vom [[date|20. Jänner 2026]] ausdrücklich gerügt.

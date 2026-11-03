@@ -42,6 +42,8 @@ Gesamtbetrag brutto: 1.752,00
 
 Die Leistungen am [[date|19.03.2026]] umfassten die Prüfung der Entgeltansprüche für die Monate Jänner bis März 2026 sowie die Berechnung der Abfertigung. Am [[date|08.04.2026]] wurden die fehlenden Lohnzettel bei Ihrem früheren Dienstgeber angefordert. Die Verhandlung am [[date|17.06.2026]] dauerte rund drei Stunden; die Vorbereitung umfasste die Durchsicht der Arbeitszeitaufzeichnungen.
 
+Die Vereinbarung über das Honorar sieht einen Stundensatz von 180 Euro netto für Besprechungen und 140 Euro netto für Schriftsätze vor. Die Verhandlungsteilnahme wurde nach Aufwand verrechnet, weil die Verhandlung länger dauerte als ursprünglich veranschlagt. Die Leistungen am [[date|23.05.2026]] umfassten die Einbringung der Klage über das Elektronische Rechtsverkehr sowie die Verständigung des Gerichtes über die Rechtsvertretung.
+
 Auslagen (Barauslagen, Gerichtsgebühren) sind in dieser Note nicht enthalten und werden gesondert verrechnet. Die Gerichtsgebühren wurden von Ihnen direkt beglichen.
 
 Die Honorarnote ist gemäß [[legal_norm|§ 11 UStG]] als Rechnung ausgewiesen. Bei Zahlungsverzug werden Verzugszinsen nach den gesetzlichen Bestimmungen verrechnet. Wir ersuchen Sie, Einwendungen gegen diese Note innerhalb von 14 Tagen schriftlich zu erheben.
@@ -51,6 +53,8 @@ Wir bitten um Überweisung des Gesamtbetrages bis spätestens [[date|14.11.2026]
 Eine allfällige Überzahlung aus dem Vorschuss wird auf Ihr Konto IBAN [[bank_account|AT90 8664 1423 5760 3002]] rückerstattet, sofern Sie uns dies bekanntgeben.
 
 Für Rückfragen stehen wir Ihnen unter Tel. [[phone_number|+43 2742 265 69 43 DW 229]] zur Verfügung.
+
+Wir danken Ihnen für das entgegengebrachte Vertrauen und stehen für weitere Fragen gerne zur Verfügung. Die Kanzlei ist per E-Mail unter [[email|office@holl.at]] erreichbar. Bitte geben Sie bei Zahlung stets die Honorarnote und Ihre Klienten-Nr. an, damit die Zahlung korrekt zugeordnet werden kann.
 
 Mit freundlichen Grüßen
 

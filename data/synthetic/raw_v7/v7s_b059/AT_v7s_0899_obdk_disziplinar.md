@@ -49,7 +49,7 @@ Beweiswürdigung
 
 6. Die Feststellungen beruhen auf dem Treuhandkonto-Auszug, den Treuhandbuch-Eintragungen und der Aussage des Klienten. [[person|Buljubašić]] hat glaubhaft ausgesagt, dass er die Überweisung weder gewollt noch gekannt habe. Die Aussage des Beschuldigten, er habe den Klienten informiert, wird durch die Schreiben vom [[date|02.04.2025]] widerlegt, in denen keine Zustimmung enthalten ist.
 
-Der Beschuldigte hat in seiner Stellungnahme vom [[date|15.05.2025]] ausgeführt, er habe den Klienten telefonisch von der Zahlung unterrichtet. Eine Gesprächsnotiz existiert jedoch nicht, und [[person|Buljubašić]] hat den Anruf bestritten. Der Disziplinarrat sieht diese Behauptung als unbelegt an.
+Der Beschuldigte hat in seiner Stellungnahme vom [[date|15.05.2025]] ausgeführt, er habe den Klienten telefonisch von der Zahlung unterrichtet. Eine Gesprächsnotiz existiert jedoch nicht, und [[person|Buljubašić]] hat den Anruf bestritten. Der Disziplinarrat sieht diese Behauptung als unbelegt an. Die Forderung des Gläubigers, eines Bauunternehmers aus [[location|Zell am See]], wurde erst nach der Überweisung durch eine Mahnung vom [[date|03.06.2025]] belegt.
 
 7. Die Schriftführerin hat die Unterlagen verlesen. Die Kammerverwaltung ist unter Tel. [[phone_number|+43 1 22 14 75 88]] für Rückfragen erreichbar.
 
@@ -65,11 +65,15 @@ Rechtliche Beurteilung
 
 11. Gegen dieses Erkenntnis ist die Berufung an die [[court|OBDK]] innerhalb von vier Wochen zulässig.
 
+12. Die Geldbuße von EUR 4.500,-- liegt im unteren Drittel des möglichen Rahmens. Der Disziplinarrat hat berücksichtigt, dass der Beschuldigte seit der Anzeige keine weiteren Beanstandungen erhalten hat und die Kanzlei nach eigenen Angaben eine Buchhaltungssoftware mit Treuhandmodul eingeführt hat.
+
 13. Der Beschuldigte hat zudem gegen die Pflicht verstoßen, den Klienten über die Verwendung der Treuhandgelder zu informieren. Diese Verletzung wiegt schwer, weil der Klient die Überweisung erst aus einem Schreiben der Kammer erfahren hat.
 
 14. Ein Verfahren wegen Untreue nach dem [[legal_norm|StGB]] wurde nicht eingeleitet, weil der Betrag vollständig ersetzt wurde. Die disziplinarrechtliche Beurteilung bleibt davon unberührt.
 
 15. Die Kosten des Verfahrens sind dem Beschuldigten aufzuerlegen; sie betragen EUR 1.000,--.
+
+Der Beschuldigte hat bei der Verhandlung um Verständnis gebeten und sich für die Verfehlung entschuldigt. Die Kammeranwaltschaft hat die Entschuldigung zur Kenntnis genommen, ohne sie als Milderungsgrund anzuerkennen.
 
 Der Vorsitzende [[person|Hansjurgen Stürmer]] hat in der Verhandlung die Zeugen einvernommen, die Verhandlung wurde in deutscher Sprache geführt.
 

@@ -67,6 +67,12 @@ Die Bauleitung hat der Klägerin mit Schreiben vom [[date|22.07.2025]] die Ferti
 
 14. Die Klägerin hat den Kostenvoranschlag nicht bestritten, sondern lediglich die Erforderlichkeit angezweifelt. Die Erforderlichkeit ergibt sich aus dem Befund des Sachverständigen [[person|Heinrich Lazarus]] vom [[date|20.11.2025]], der Feuchtigkeit im Sparrenbereich festgestellt hat. Die beklagte Partei hat die Kosten daher zu Recht eingefordert, [[legal_norm|§ 1332 ABGB]].
 
+15. Die beklagte Partei ist zu einem Vergleich bereit, wenn die Klägerin die Gegenforderung in Höhe von EUR 4.150,-- anerkennt und die Kosten des Verfahrens gegeneinander aufgehoben werden. Ein entsprechendes Angebot wurde mit Schreiben vom [[date|18.05.2026]] unterbreitet; es blieb unbeantwortet.
+
+16. Die Beweisaufnahme über die Beschaffenheit der Dachdeckung ist durch den Befund des Sachverständigen [[person|Lazarus]] ausreichend geklärt. Die beklagte Partei sieht daher von der Einvernahme weiterer Zeugen ab, soweit nicht die Klägerin ausdrücklich eine solche beantragt.
+
+17. Die Kosten der Verbesserungsarbeiten sind der beklagten Partei zu ersetzen, weil die Klägerin deren Bezahlung trotz Aufforderung verweigert hat. Die beklagte Partei hat die Klägerin mit Schreiben vom [[date|15.10.2025]] zur Zahlung aufgefordert; eine Reaktion blieb aus.
+
 **V. Anträge**
 
 Die beklagte Partei stellt die Anträge,

@@ -54,6 +54,10 @@ Datum | Buchungstext | Betrag | Treuhandnummer
 
 Der Saldo des Treuhandkontos betrug zum Stichtag [[date|31. Dezember 2025]] 2.150,00 Euro und war damit um den Betrag der nicht zugeordneten Entnahmen zu niedrig. Die Sachverständige der Kammer hat die Rechnungslegung überprüft und bestätigt, dass die Entnahme des Honorars nicht abgerechnet war.
 
+Die Verteidigung brachte vor, der Beschuldigte habe die Auszahlung an die Gegenseite auf Weisung von [[person|Gavorník]] veranlasst, und die Verzögerung bei der Verbuchung sei auf eine Personalumstellung in der Kanzlei zurückzuführen. Der Senat hat diesen Einwand geprüft. Die Umstellung des Buchhaltungsprogrammes erfolgte jedoch erst nach dem [[date|12. November 2025]], sodass sie die früheren Buchungen nicht erklären kann. Auch die Angabe, [[person|Kulenović]] habe der Auszahlung in einem Telefonat zugestimmt, konnte nicht bestätigt werden, weil eine Gesprächsnotiz nicht existiert.
+
+Der Beschuldigte selbst räumte ein, dass die Verbuchung der Honorarentnahme im Jahr 2024 nicht zeitgerecht erfolgt sei. Er verwies auf die Erkrankung seiner Buchhalterin im Frühjahr 2024, die er jedoch nicht durch ärztliche Atteste belegen konnte. Die Kammer sieht darin keinen Umstand, der die Verantwortung des Beschuldigten als Rechtsanwalt mindert, weil die Pflicht zur Verbuchung persönlich trifft.
+
 3. Rechtliche Beurteilung
 
 Gemäß [[legal_norm|§ 43a Abs 5 RAO]] hat der Rechtsanwalt die ihm anvertrauten Gelder getrennt vom eigenen Vermögen zu verwalten und jederzeit nachweisbar zu verbuchen. Die Verletzung dieser Pflicht ist ein schwerwiegender Verstoß gegen die Berufspflichten. Die Entnahme des Honorars vor Fälligkeit und ohne Abrechnung ist ebenfalls unzulässig.

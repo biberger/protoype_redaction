@@ -51,6 +51,10 @@ Die Fahrzeugpapiere wurden überprüft. [[person|Hohn]] legte einen Zulassungssc
 
 Die Ampelanlage wurde nach dem Unfall von der Verkehrsabteilung überprüft. Ein Funktionsfehler wurde nicht festgestellt. Die Ampelschaltung wird in der Auswertung der Anlagendaten noch geprüft. Fotos von der Unfallstelle wurden in 14 Aufnahmen gesichert, ein Teil davon zeigt die Blutspuren am Gehsteig, die jedoch von einem Hund stammen dürften.
 
+Der Lenker [[person|Hohn]] gab weiters an, er habe vor der Fahrt die Scheibenwischer und die Beleuchtung überprüft, da es zum Unfallszeitpunkt noch dunkel gewesen sei. Der Lenker [[person|Heinrich]] legte eine Kopie der Reparaturrechnung des Vorjahres vor, aus der eine Beschädigung der hinteren Stoßstange hervorgeht. Diese betrifft nach seiner Darstellung nicht den aktuellen Schaden, er ersuchte jedoch, den Umstand in der Schadensregulierung zu berücksichtigen.
+
+Die Beamten stellten auf der Zufahrt zur Kreuzung einen Bremsspurenverlauf von etwa 14 Metern fest. Nach der Lage der Spuren stammt dieser von [[person|Heinrichs]] Fahrzeug, eine genaue Zuordnung ist jedoch erst nach der Vermessung möglich. Die Sichtverhältnisse für den Lenker [[person|Hohn]] waren nach den Fotos durch einen Lieferwagen am rechten Fahrbahnrand eingeschränkt.
+
 5. Weitere Erhebungen
 
 Die Videoaufnahmen eines privaten Geschäftes am [[street|Hauptplatz]] wurden angefordert. Der Betreiber hat zugesagt, die Aufnahmen bis zum [[date|20.10.2026]] zur Verfügung zu stellen. Die Zeugen [[person|Roch]] und [[person|Aulitzky]] wurden ersucht, für eine allfällige weitere Einvernahme erreichbar zu bleiben. [[person|Rosta]] gab an, am Unfalltag als Beifahrer nicht angeschnallt gewesen zu sein, was er bedauert.

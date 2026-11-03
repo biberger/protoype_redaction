@@ -36,6 +36,8 @@ Umsatzsteuer 20 % auf Honorar | EUR 312,00
 Barauslagen | EUR 240,00
 Gesamtbetrag | EUR 2.112,00
 
+Die Klage vom [[date|17.03.2026]] umfasste neben dem Hauptbegehren einen Eventualantrag zur Feststellung der Grenzlinie; die Ausarbeitung dieses Antrags beanspruchte den größeren Teil der Stunden. Die Tagsatzung vom [[date|22.04.2026]] wurde auf Antrag der Gegenseite zweimal verschoben. Die dafür angefallenen Kanzleiarbeiten sind im Honorar nicht gesondert verrechnet. Die Mandantin wurde über jede Verschiebung schriftlich informiert, zuletzt mit Schreiben vom [[date|10.04.2026]].
+
 Die Honorarnote enthält ausschließlich Leistungen, die im Auftrag der Mandantin erbracht wurden. Die Tagsatzung vom [[date|22.04.2026]] dauerte bis in den Nachmittag; die Zeitangaben richten sich nach dem Zeitaufschrieb. Für Rückfragen zu einzelnen Positionen steht die Kanzlei unter der oben angeführten Telefonnummer zur Verfügung.
 
 Die Barauslage für die Eingabengebühr wurde am [[date|22.04.2026]] entrichtet; der Zahlungsnachweis ist dieser Note in Kopie angeschlossen. Die Tagsatzungsniederschrift vom [[date|22.04.2026]] wurde der Mandantin übermittelt. Die Umsatzsteuer ist gesondert ausgewiesen, weil die Kanzlei zur Regelbesteuerung optiert hat. Für die Klage selbst wurden keine weiteren Auslagen verrechnet.

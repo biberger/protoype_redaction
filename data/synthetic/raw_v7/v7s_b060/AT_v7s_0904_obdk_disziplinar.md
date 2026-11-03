@@ -52,7 +52,7 @@ Anzeige in allen Punkten fest.
 
 III. Sachverhalt
 
-1. Treuhandschaft der Klientin Wegscheider
+1. Treuhandschaft der Klientin [[person|Wegscheider]]
 
 Die Beschuldigte übernahm am [[date|14.03.2024]] die Treuhandschaft für den Klienten [[person|Anton Wegscheider]]
 im Zusammenhang mit einer Kaufpreiszahlung. Die Treuhandschaft wurde unter Treuhandschaft Nr. [[other_identifier|2026/882]]
@@ -66,7 +66,7 @@ eine Weisung des Klienten vorlag. Der Betrag wurde am [[date|21.06.2024]] aus ei
 Der Klient [[person|Wegscheider]] wurde über diese Vorgänge nicht informiert. Er erfuhr davon erst im Zuge der
 Schlussabrechnung am [[date|03.09.2025]].
 
-2. Treuhandschaft der Klientin Hölzl
+2. Treuhandschaft der Klientin [[person|Hölzl]]
 
 Die Klientin [[person|Gudrun Hölzl]] übergab der Beschuldigten am [[date|11.02.2025]] einen Betrag von EUR 9.200,00
 zur Verwahrung im Zusammenhang mit einer Erbauseinandersetzung. Die Treuhandschaft wurde unter
@@ -77,7 +77,7 @@ Die Klientin [[person|Hölzl]] hat den Restbetrag am [[date|15.07.2025]] eingefo
 EUR 6.200,00 am [[date|18.07.2025]]. Die Auszahlung wurde im Treuhandbuch nur als Gesamtbetrag verbucht, die Teilzahlung
 vom [[date|28.02.2025]] fehlt in der Dokumentation.
 
-3. Treuhandschaft des Klienten Rachbauer
+3. Treuhandschaft des Klienten [[person|Rachbauer]]
 
 Der Klient [[person|Emil Rachbauer]] übergab der Beschuldigten am [[date|04.06.2025]] einen Betrag von EUR 21.750,00
 im Zusammenhang mit einer Mietzinsrückzahlung. Die Treuhandschaft wurde unter Treuhandschaft Nr. [[other_identifier|2025/611]]
@@ -85,7 +85,7 @@ angelegt. Die Beschuldigte bestätigte den Eingang schriftlich. Der Betrag wurde
 nicht vollständig ausbezahlt. Am [[date|30.10.2025]] lag ein Restbetrag von EUR 4.100,00 auf dem Konto, der
 zu diesem Zeitpunkt nicht mehr dem Klienten zuzuordnen war.
 
-4. Treuhandschaft der Klientin Tschabrun
+4. Treuhandschaft der Klientin [[person|Tschabrun]]
 
 Die Klientin [[person|Ilse Tschabrun]] hinterlegte am [[date|03.07.2024]] einen Betrag von EUR 2.300,00 aus einem
 Schadenersatzvergleich. Die Treuhandschaft wurde unter Treuhandschaft Nr. [[other_identifier|2024/205]] vermerkt. Die Auszahlung

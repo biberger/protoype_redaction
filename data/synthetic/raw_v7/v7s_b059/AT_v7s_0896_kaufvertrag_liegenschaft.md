@@ -83,7 +83,7 @@ b) auf die Liegenschaft b): EUR 135.000,--.
 
 **VI. Übergabe, Haftung und Nebenabreden**
 
-14. Die Übergabe erfolgt mit der Kaufpreiszahlung. Der Verkäufer haftet für Rechtsmängel. Für Sachmängel wird die Haftung ausgeschlossen, [[legal_norm|§ 932 ABGB]].
+14. Die Übergabe erfolgt mit der Kaufpreiszahlung. Der Verkäufer haftet für Rechtsmängel. Für Sachmängel wird die Haftung ausgeschlossen, [[legal_norm|§ 932 ABGB]]. Der Verkäufer erklärt jedoch, dass ihm keine verborgenen Mängel bekannt sind, insbesondere keine Altlasten, keine Kampfmittel und keine Schäden durch Hochwasser oder Hangrutschungen. Diese Erklärung ist für die Käufer maßgeblich, auch wenn die Gewährleistung ausgeschlossen ist.
 
 15. Der Verkäufer hat sein Recht zur Nutzung der Wiese bis zum Übergabetag behalten; danach übernimmt der Käufer die Pflege.
 
@@ -123,6 +123,14 @@ b) auf die Liegenschaft b): EUR 135.000,--.
 
 30. Die Kanzlei hat den Entwurf dieses Vertrages am [[date|20.08.2026]] an beide Käuferparteien übermittelt; die Einwendungen wurden eingearbeitet. Eine nachträgliche Änderung ist nur mit Zustimmung aller Parteien zulässig.
 
+**X. Ehegatten, Bewirtschaftung und Beglaubigung**
+
+31. Die Käufer erklären, dass sie die Liegenschaft b) im Rahmen ihrer ehelichen Gemeinschaft erwerben und dass eine Schenkung zwischen ihnen nicht beabsichtigt ist. Ein Nachweis über die Herkunft der Eigenmittel liegt diesem Vertrag bei.
+
+32. Der Verkäufer darf die Liegenschaft a) bis zur Übergabe nur ordnungsgemäß bewirtschaften. Er darf keine Bäume fällen, keine Gebäude errichten und keine Dienstbarkeiten bestellen, ohne die Zustimmung der Käufer einzuholen.
+
+33. Die Unterschriften der Parteien wurden am [[date|15.09.2026]] in den Räumen der Kanzlei beglaubigt. Die Beglaubigungsgebühr trägt der Käufer; die Parteien haben die Identität anhand amtlicher Lichtbildausweise nachgewiesen.
+
 **Beilagen:**
 
 ./A Grundbuchsauszug vom [[date|08.09.2026]]
@@ -132,6 +140,7 @@ b) auf die Liegenschaft b): EUR 135.000,--.
 ./C Vollmacht des Verkäufers vom [[date|01.09.2026]]
 ./D Darlehenszusage der [[organization|Raiffeisenbank Region Tannheim eGen]] vom [[date|28.08.2026]]
 ./E Vermessungsplan vom [[date|14.07.2026]]
+./F Nachweis über die Herkunft der Eigenmittel
 
 Unterschriften:
 

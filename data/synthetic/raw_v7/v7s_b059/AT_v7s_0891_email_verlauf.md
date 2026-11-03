@@ -13,7 +13,7 @@ Sehr geehrter Herr [[person|Thome]],
 
 wir vertreten Herrn [[person|Tonik Král]] in der Schadensangelegenheit vom [[date|14.05.2026]]. Die Schadennummer lautet [[other_identifier|24/287521/26]]. Die Haftung des Lenkers [[person|Wuchinger]] ist dem Grunde nach unbestritten, die Höhe des Schadens ist offen. Unser Mandant hat einen Schmerzengeldanspruch, der nach den Verletzungen und der Dauer der Heilbehandlung zu bemessen ist.
 
-Die Klage ist beim [[court|Landesgericht für Zivilrechtssachen Wien]] anhängig. GZ der Kanzlei: [[other_identifier|BSA-BSAKrál/Peter]]. Wir ersuchen um Bekanntgabe, ob die [[organization|Pielachtal Versicherung AG]] ([[organization|PVA]]) die Deckung übernimmt.
+Die Klage ist beim [[court|Landesgericht für Zivilrechtssachen Wien]] anhängig. GZ der Kanzlei: [[other_identifier|BSA-BSAKrál/Peter]]. Wir ersuchen um Bekanntgabe, ob die [[organization|Pielachtal Versicherung AG]] ([[organization|PVA]]) die Deckung übernimmt. Wir bitten zudem um Bekanntgabe, ob ein Sachverständiger für die Begutachtung des Fahrzeugs beauftragt wurde und wer die Kosten dieses Gutachtens trägt. Eine schriftliche Stellungnahme bis zum [[date|17.07.2026]] wäre hilfreich.
 
 Mit freundlichen Grüßen
 
@@ -93,5 +93,5 @@ Gesendet: Do, [[date|02.07.2026]] 08:12
 An: [[person|Edvige Pühringer]] <[[email|edvige.puehringer@eckel.at]]>
 Betreff: AW: Unfall
 
-danke. das protokoll kommt heute per post, die fotos schicke ich mit. herr [[person|wuchinger]] hat am unfallort gesagt, er habe das rote licht nicht gesehen. das kann frau [[person|Theodosiadis]] bestätigen.
+danke. das protokoll kommt heute per post, die fotos schicke ich mit. herr [[person|wuchinger]] hat am unfallort gesagt, er habe das rote licht nicht gesehen. das kann frau [[person|Theodosiadis]] bestätigen. außerdem habe ich einen befund vom krankenhaus, den schicke ich auch mit.
 lg tonik

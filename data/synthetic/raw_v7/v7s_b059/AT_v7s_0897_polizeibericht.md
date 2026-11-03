@@ -36,7 +36,7 @@ Der Halter des Fahrzeuges [[license_plate|GU-93 VW]] ist [[person|Arsen Rebhandl
 
 Nach den Angaben der [[person|Spitzmüller]] fuhr sie auf der Landesstraße in Richtung Osten und beabsichtigte, bei Grünlicht geradeaus weiterzufahren. Frau [[person|Stephan]] gab an, sie sei bei Gelblicht eingefahren und habe das Rotlicht nicht mehr rechtzeitig erkannt.
 
-Der Zeuge [[person|Andrić]] bestätigte, dass die Ampel für die Lenkerin des Fahrzeuges [[license_plate|GU-93 VW]] Grünlicht gezeigt habe. Die Aufnahmen der Verkehrsüberwachung wurden angefordert.
+Der Zeuge [[person|Andrić]] bestätigte, dass die Ampel für die Lenkerin des Fahrzeuges [[license_plate|GU-93 VW]] Grünlicht gezeigt habe. Die Aufnahmen der Verkehrsüberwachung wurden angefordert. Die Lenkerin [[person|Spitzmüller]] gab zudem an, sie habe vor der Kreuzung kurz verlangsamt, um die Fahrspur zu wechseln, und sei dann bei Grünlicht angefahren.
 
 Am Fahrzeug der [[person|Stephan]] entstand ein Schaden an der linken Fahrzeugseite und der Frontpartie. Das Fahrzeug der [[person|Spitzmüller]] wurde an der rechten hinteren Tür beschädigt. Der Sachschaden wird auf EUR 14.800,-- geschätzt.
 
@@ -44,7 +44,7 @@ Am Fahrzeug der [[person|Stephan]] entstand ein Schaden an der linken Fahrzeugse
 
 Die Beamten stellten fest, dass das Fahrzeug mit dem Kennzeichen [[license_plate|GU-93 VW]] zum Zeitpunkt des Unfalls im Eigentum des [[person|Rebhandl]] stand. [[person|Rebhandl]] hat der Lenkerin [[person|Spitzmüller]] das Fahrzeug mit Zustimmung überlassen.
 
-Die Atemalkoholkontrolle bei [[person|Spitzmüller]] und bei [[person|Stephan]] verlief negativ.
+Die Atemalkoholkontrolle bei [[person|Spitzmüller]] und bei [[person|Stephan]] verlief negativ. Am Unfallort wurden Bremsspuren von etwa elf Metern Länge sichergestellt, die dem Fahrzeug der [[person|Stephan]] zuzuordnen sind.
 
 Die Beifahrerin [[person|Kuchar]] wurde mit dem Notarzteinsatzwagen in das Krankenhaus [[location|Linz]] gebracht. Die Verletzungen werden von der Ärztin als leicht eingestuft.
 
@@ -79,6 +79,12 @@ Der Rettungsdienst hat die Beifahrerin [[person|Kuchar]] mit einer Verdachtsdiag
 **9. Anzeige**
 
 Gegen [[person|Stephan]] wird keine Anzeige erstattet, weil die Schaltung der Ampelanlage nach dem derzeitigen Ermittlungsstand nicht eindeutig nachvollziehbar ist.
+
+Die Verkehrsbehörde der Gemeinde wird ersucht, die Schaltzeiten der Ampelanlage zu überprüfen und das Ergebnis dem Akt beizufügen. Dieses Ergebnis ist für die Beurteilung des Unfallherganges maßgeblich.
+
+Eine Kopie des Berichts wird der Haftpflichtversicherung der [[person|Spitzmüller]] übermittelt, sobald diese die Polizze bestätigt hat. Die Angaben zu den Verletzungen der Beifahrerin sind ausschließlich für die Schadenregulierung bestimmt und dürfen nicht weitergegeben werden.
+
+Dieser Bericht wurde nach der Einvernahme der Beteiligten und der Sichtung der Lichtbilder abgeschlossen. Ergänzungen bleiben vorbehalten, sobald der Befund des Krankenhauses vorliegt.
 
 Die Lenkerin [[person|Spitzmüller]] wird verdächtigt, das Rotlicht nicht beachtet zu haben, [[legal_norm|§ 38 Abs 1 StVO]]. Die Anzeige ergeht an die [[organization|Bezirkshauptmannschaft Linz-Land]].
 

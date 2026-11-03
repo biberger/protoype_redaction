@@ -62,6 +62,8 @@ Der Beschuldigten wurde Gelegenheit gegeben, sich zu den Vorwürfen zu äußern.
 
 Die Verwahrung fremder Gelder ist nach [[legal_norm|§ 11 Abs 1 RAO]] getrennt vorzunehmen; die Gelder sind unverzüglich auszufolgen. Die Beschuldigte hat durch die Umbuchung und die verspätete Auszahlung gegen diese Pflicht verstoßen.
 
+Der Senat hat die Kammer ersucht, die Abrechnungen der übrigen Treuhandschaften des Jahres 2025 zu prüfen; die Ergebnisse sind diesem Verfahren nicht zugrunde gelegt. Die Kammeranwältin hat zusätzlich betont, dass die Beschuldigte ihre Pflicht zur laufenden Information des Klienten verletzt habe, da Herr [[person|Dorr]] von den Auszahlungen nicht unterrichtet worden sei.
+
 Die Beschuldigte hat in der Stellungnahme auch die Kanzleiorganisation erläutert. Die Abrechnung der Treuhandschaften erfolgt demnach händisch durch eine Mitarbeiterin, die nur an zwei Tagen pro Woche in der Kanzlei tätig ist. Der Senat hält diese Organisation für unzureichend, weil die Kontrolle durch die Beschuldigte selbst nicht sichergestellt war.
 
 Der Senat hat die vorgelegten Belege geprüft. Die Rechnung über Kanzleiausstattung ist auf den [[date|30. Juli 2025]] datiert, also nach der Umbuchung ausgestellt worden. Ein Zusammenhang mit der Auszahlung vom [[date|19.06.2025]] ist daher nicht nachvollziehbar. Auch auf Nachfrage konnte die Beschuldigte keine Vereinbarung mit dem Mandanten vorlegen, aus der hervorginge, dass die Auslagen zu seinen Lasten gehen sollten.

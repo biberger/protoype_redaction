@@ -32,7 +32,7 @@ Vermietet wird die Wohnung im Objekt in [[address|4062 Kirchberg-Thening]], best
 
 **§ 2 Mietdauer**
 
-Das Mietverhältnis beginnt am [[date|1. Dezember 2025]] und wird auf unbestimmte Zeit abgeschlossen. Eine ordentliche Kündigung ist für den Mieter unter Einhaltung einer Frist von drei Monaten zum Quartalsende möglich.
+Das Mietverhältnis beginnt am [[date|1. Dezember 2025]] und wird auf unbestimmte Zeit abgeschlossen. Eine ordentliche Kündigung ist für den Mieter unter Einhaltung einer Frist von drei Monaten zum Quartalsende möglich. Die Kündigung bedarf der Schriftform und ist eingeschrieben zu übermitteln. Die Wohnung ist mit einem Balkon ausgestattet.
 
 **§ 3 Mietzins und Betriebskosten**
 

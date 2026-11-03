@@ -50,6 +50,12 @@ Nach den Angaben von [[person|Wachstein]] fuhr er mit seinem Fahrzeug auf der Bu
 
 Der Sachschaden wird auf etwa 9.200 Euro geschätzt. Das Fahrzeug von [[person|Wachstein]] ist im Bereich der Beifahrertür eingedrückt, das Fahrzeug von [[person|Schallert]] weist eine beschädigte linke Front auf.
 
+[[person|Wachstein]] gab bei der Erstbefragung an, er leide an einer Vorerkrankung im Bereich der Wirbelsäule und habe am Unfalltag Schmerzmittel eingenommen. Eine ärztliche Bestätigung wurde für die Akten angefordert. [[person|Scheiber]] gab an, dass sie aufgrund der Schnittverletzung voraussichtlich zwei Wochen nicht arbeitsfähig sein werde. [[person|Flegel]] wurde ersucht, seine Beobachtungen am Unfallort schriftlich zu bestätigen, was er zusagte.
+
+Der Sachverständige für Kraftfahrzeugtechnik wurde am [[date|22.09.2026]] mit der Begutachtung der Bremsanlage des Fahrzeugs der [[organization|Malle GmbH]] beauftragt. Die Verkehrsabteilung hat außerdem eine Stellungnahme zu den Sichtverhältnissen an der Abzweigung angefordert. Nach den Fotos war die Sicht in Richtung Westen durch eine Hecke eingeschränkt. Die Dienstgeberin der Lenkerin wurde über den Unfall verständigt; ein Vertreter der Gesellschaft gab telefonisch an, die Lenkerin habe das Firmenfahrzeug an diesem Tag für Kundenbesuche benützt.
+
+Vorläufige Beurteilung: Die Angaben der Beteiligten sind in den wesentlichen Punkten widersprüchlich. Ob die Lenkerin [[person|Schallert]] den Vorrang verletzt hat, wird nach Vorliegen des Gutachtens und der Zeugenaussage von [[person|Flegel]] endgültig beurteilt. Die Sachverhaltsfeststellungen werden nach Vorliegen der ergänzenden Unterlagen ergänzt.
+
 5. Dokumentation
 
 Die Ausweise der Beteiligten wurden kopiert und zum Akt genommen. Die Kopien der Fahrzeugpapiere wurden ebenfalls angefordert. Die Ausweisnummern sind in der Tabelle oben angeführt und wurden mit den Angaben im Zentralen Melderegister abgeglichen.

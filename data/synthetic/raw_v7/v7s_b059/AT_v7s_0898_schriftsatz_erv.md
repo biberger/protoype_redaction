@@ -70,7 +70,7 @@ Wasserleitung, Reparatur und Erdarbeiten | EUR 4.200,--
 Ernteausfall 2025 | EUR 63.300,--
 Gesamtbetrag | EUR 86.450,--
 
-8. Der Ernteausfall wurde durch das Gutachten vom [[date|15.12.2025]] bestätigt. Die Fläche war bis zum Unfall ertragreich, die Bäume standen im vierten Standjahr.
+8. Der Ernteausfall wurde durch das Gutachten vom [[date|15.12.2025]] bestätigt. Die Fläche war bis zum Unfall ertragreich, die Bäume standen im vierten Standjahr. Die Berechnung stützt sich auf den durchschnittlichen Ertrag der Jahre 2021 bis 2024, vermindert um den tatsächlichen Erntegewinn im Jahr 2025, und berücksichtigt die Marktpreise für Tafeläpfel im Großhandel. Der Sachverständige hat außerdem die Ernte- und Lagerkosten abgezogen, die nicht angefallen sind.
 
 **III. Rechtliche Beurteilung**
 
@@ -92,6 +92,8 @@ Gesamtbetrag | EUR 86.450,--
 
 14. Die klagende Partei beantragt die Einvernahme des Sachverständigen für Landwirtschaft zur Ermittlung des Ernteausfalles.
 
+Die Klage ist innerhalb der Verjährungsfrist eingebracht. Die Zustellung an die Streitverkündeten ist mit Ausnahme des Landes bereits erfolgt; die Klägerin ersucht um Anberaumung einer vorbereitenden Tagsatzung, sofern der Beklagte den Anspruch dem Grunde nach bestreitet. Die Pauschalgebühr nach dem Gerichtsgebührengesetz ist entrichtet; der Zahlungsnachweis liegt als Beilage ./H bei.
+
 **V. Anträge**
 
 Die klagende Partei stellt die Anträge,
@@ -111,6 +113,7 @@ c) der Klägerin die Kosten des Verfahrens zuzusprechen.
 ./E Gutachten vom [[date|15.12.2025]]
 ./F Unfallbericht der [[organization|Freiwilligen Feuerwehr Sittersdorf]] vom [[date|02.11.2025]]
 ./G Bestätigung der [[organization|Landwirtschaftskammer Oberösterreich]] vom [[date|10.12.2025]]
+./H Zahlungsnachweis über die Pauschalgebühr
 
 Die Zustellung der Ausfertigungen an die Streitverkündeten erfolgt über das Gericht.
 

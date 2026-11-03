@@ -48,6 +48,8 @@ Die Einsatzkräfte halten fest, dass beide Lenker den Unfall nicht vorsätzlich 
 
 Der Alkotest, der um 17:40 Uhr durchgeführt wurde, verlief bei beiden Lenkern negativ. Die Lenker wurden über die Anzeigepflicht und die Verständigung des Versicherers belehrt. Der Abschleppdienst wurde durch die Einsatzzentrale verständigt; die Fahrzeuge wurden auf den Parkplatz der Dienststelle gebracht und dort am [[date|18. Oktober 2026]] wieder ausgefolgt.
 
+Die Anzeige wurde den Lenkern am Unfallort ausgefolgt; eine Kopie ging an die Versicherungen der Beteiligten.
+
 Die Unfallstelle wurde am folgenden Tag um 08:15 Uhr nochmals besichtigt; dabei wurden keine weiteren Spuren festgestellt. Die Einsatzkräfte fertigten eine Skizze des Unfallortes an, die dieser Anzeige angeschlossen ist. Die Fahrbahn war zum Zeitpunkt des Unfalls trocken, die Sicht durch die tiefstehende Sonne eingeschränkt.
 
 Der Zeuge [[person|Ruckendorfer]] gab zu Protokoll, dass er den Zusammenstoß von der Terrasse des Gasthauses aus wahrgenommen habe. Er bestätigte, dass das Fahrzeug des Herrn [[person|Boskovsky]] vor dem Einfahren kurz stillstand, jedoch ohne auf den Vorrang des fließenden Verkehrs zu achten weiterfuhr.

@@ -38,6 +38,8 @@ Herr [[person|Fenzl]] hat den Schaden unverzüglich nach Kenntnisnahme gemeldet.
 
 Wir haben weiters festgestellt, dass Ihre Mitarbeiterin in der Korrespondenz mit der Kunden-Nr. [[other_identifier|748552]] auf die Schadensmeldung des Herrn [[person|Fenzl]] verwiesen hat. Die Schriftstücke der Gegenseite sind unvollständig. Aus den von uns vorgelegten Unterlagen ergibt sich, dass [[person|Knaus Edvard]] die Ablehnung am [[date|2. April 2026]] unterzeichnet hat, obwohl er zu diesem Zeitpunkt nicht mehr Sachbearbeiter war.
 
+Wir verweisen auf die Obliegenheiten nach den Versicherungsbedingungen, deren Einhaltung Herr [[person|Fenzl]] nachweislich erfüllt hat; die Belege sind dem Gutachten beigelegt.
+
 Die Ablehnung stützt sich außerdem auf einen Bericht, der nach Auskunft der [[organization|Wertheimer]] von einer nicht namentlich genannten Person erstellt wurde. Diesen Bericht haben wir nie erhalten. Wir verlangen die Herausgabe sämtlicher Unterlagen, auf die sich die Ablehnung stützt, innerhalb von 14 Tagen, andernfalls wir die Einsicht gerichtlich durchsetzen werden.
 
 Die Mandantschaft wird Ihnen einen Vergleich vorschlagen. Die Auszahlung von 6.200,00 Euro hätte innerhalb von 14 Tagen zu erfolgen. Sollte keine Einigung zustande kommen, werden wir ohne weitere Verständigung Klage einbringen. Wir ersuchen Sie daher, uns bis zum [[date|13. Oktober 2026]] Ihre Stellungnahme zu übermitteln.

@@ -6,13 +6,13 @@ lang: de
 [[court|Disziplinarrat der Tiroler Rechtsanwaltskammer]]
 
 Geschäftszahl: [[case_number|DR-T 7/26]]
-Zl. D 7/2026
+Zl. [[case_number|D 7/2026]]
 
 Im Namen der Republik
 
 **ERKENNTNIS**
 
-Der [[court|Disziplinarrat der Tiroler Rechtsanwaltskammer]] hat durch den Senat, bestehend aus dem Senatsvorsitzenden [[judge|Renatus Mag. Dr. Gmeiner]], den Senatsmitgliedern [[judge|Mag. Senta Ziesel]] und [[judge|Tancred Paschkis]], in Anwesenheit des Kammeranwalts [[person|MMag. Marin Stampfer]], GEB: [[date_of_birth|4. Jänner 1957]] (Anm.: Geburtsdatum nur aus dem Akt), sowie des Schriftführers [[person|Bojan Đurković]] über die Disziplinaranzeige gegen die Rechtsanwältin [[lawyer|Almut Grössing]] nach öffentlicher mündlicher Verhandlung am [[date|9. Juni 2026]] zu Recht erkannt:
+Der [[court|Disziplinarrat der Tiroler Rechtsanwaltskammer]] hat durch den Senat, bestehend aus dem Senatsvorsitzenden [[judge|Renatus Mag. Dr. Gmeiner]], den Senatsmitgliedern [[judge|Mag. Senta Ziesel]] und [[judge|Tancred Paschkis]], in Anwesenheit des Kammeranwalts [[person|MMag. Marin Stampfer]] *[[date_of_birth|4. Jänner 1957]], sowie des Schriftführers [[person|Bojan Đurković]] über die Disziplinaranzeige gegen die Rechtsanwältin [[lawyer|Almut Grössing]] nach öffentlicher mündlicher Verhandlung am [[date|9. Juni 2026]] zu Recht erkannt:
 
 Die Rechtsanwältin [[lawyer|Almut Grössing]] ist schuldig, die Bestimmungen [[legal_norm|§ 43a Abs 4 RAO]] iVm [[legal_norm|§ 16 Abs 1 RAO]] verletzt zu haben. Sie wird mit einer Geldbuße von EUR 2.500,00 bestraft.
 
@@ -51,7 +51,7 @@ IV. Rechtliche Beurteilung
 
 Gemäß [[legal_norm|§ 43a Abs 4 RAO]] hat der Rechtsanwalt anvertraute Vermögenswerte getrennt zu verwahren und jede Verfügung nur mit Zustimmung des Berechtigten vorzunehmen. Die Auszahlung des Restbetrages am [[date|19.09.2025]] ohne Abrechnung verletzt diese Pflicht. Die verspätete Zahlung an den Klienten ist nach [[legal_norm|§ 16 Abs 1 RAO]] als Verletzung der Pflicht zur gewissenhaften Berufsausübung zu werten.
 
-Die Tiroler Rechtsanwaltskammer ([[organization|RAK Tirol]]) hat die Richtlinien der Abrechnung nicht beanstandet, die Vorwürfe betreffen jedoch den Umgang mit dem Klientengeld. Die [[organization|RAK Tirol]] hat die Fristen für die Anzeige eingehalten.
+Die [[organization|Tiroler Rechtsanwaltskammer]] ([[organization|RAK Tirol]]) hat die Richtlinien der Abrechnung nicht beanstandet, die Vorwürfe betreffen jedoch den Umgang mit dem Klientengeld. Die [[organization|RAK Tirol]] hat die Fristen für die Anzeige eingehalten.
 
 V. Strafbemessung
 
@@ -59,9 +59,9 @@ Mildernd wirken die bisherige Unbescholtenheit, das Geständnis hinsichtlich der
 
 Die Kosten des Verfahrens trägt die Beschuldigte. Gegen dieses Erkenntnis ist die Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] innerhalb von zwei Wochen zulässig.
 
-Die Zustellung an die Beschuldigte erfolgt an die Kanzleiadresse in [[address|5700 Zell am See]]; die Telefonnummer der Kanzlei lautet [[phone_number|+43-2742-5780601-66]].
+Die Zustellung an die Beschuldigte erfolgt an die Kanzleiadresse in [[address|5700 Zell am See]]; die Telefonnummer der Kanzlei lautet Tel. [[phone_number|+43-2742-5780601-66]].
 
-Zell am See, am [[date|9. Juni 2026]]
+[[location|Zell am See]], am [[date|9. Juni 2026]]
 
 [[judge|Renatus Mag. Dr. Gmeiner]]
 Senatsvorsitzender
