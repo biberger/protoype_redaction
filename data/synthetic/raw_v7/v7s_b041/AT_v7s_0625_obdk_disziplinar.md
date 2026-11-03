@@ -69,6 +69,10 @@ erschienen; ihre schriftliche Erklärung vom [[date|10. Juli 2026]] liegt dem Se
 Auszahlungen ohne Weisung entschieden zu haben. Der Senat hat die Erklärung gewürdigt, sie ändert jedoch nichts an der
 persönlichen Verantwortung des Beschuldigten für die ordnungsgemäße Führung des Treuhandkontos.
 
+Die Feststellungen zur Kontoführung beruhen zudem auf dem Protokoll der Bank vom [[date|12. Juni 2026]], das die
+Kontobewegungen des Treuhandkontos seit Jänner 2026 dokumentiert. Eine Abweichung zwischen diesem Protokoll und der
+Abrechnung des Beschuldigten besteht in sechs Buchungen, die der Beschuldigte nicht erklären konnte.
+
 **Beweiswürdigung**
 
 Der Senat stützt die Feststellungen auf die Kontoauszüge, die Abrechnungen und die Aussagen der beiden Klientinnen.

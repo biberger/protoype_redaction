@@ -89,6 +89,10 @@ um Auskunft ersucht, ohne eine Antwort zu erhalten. Die Kanzleiangestellte [[per
 erklärt, die Chefin sei auf Dienstreise. Diese Angaben konnten nicht überprüft werden, sie wurden jedoch
 in der Sitzung nicht bestritten.
 
+Die Kammeranwältin hat ergänzend darauf hingewiesen, dass die Klientin [[person|Zsigmondy]] erst nach einer Beschwerde
+bei der Kammer eine Abrechnung erhalten habe, die den Zeitraum seit November 2025 vollständig erfasst. Dies zeige, dass
+die Beschuldigte die Abrechnungspflicht nicht von sich aus erfüllt habe.
+
 **Schlussvorträge**
 
 Die Kammeranwältin hat in ihrem Schlussvortrag betont, dass der Schutz der Klientengelder den Kern des anwaltlichen

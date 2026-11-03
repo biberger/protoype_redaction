@@ -51,6 +51,10 @@ Der Beschuldigte bestritt in der Verhandlung nicht, die Beträge entnommen zu ha
 
 Die Kammeranwältin legte dar, dass der Beschuldigte gegenüber der [[organization|KSB]] zunächst angegeben hatte, das Treuhandkonto sei ausschließlich für Gerichtskosten bestimmt gewesen. Diese Angabe wurde durch die Kontoauszüge widerlegt. Der Beschuldigte räumte dies in der Verhandlung ein und entschuldigte sich bei der Beschwerdeführerin.
 
+Verfahrensgang
+
+Die Beschwerde der Klientin ging am [[date|16.09.2022]] beim Disziplinarrat ein. Die Kammeranwältin brachte daraufhin die Anzeige ein und beantragte die Einleitung eines Disziplinarverfahrens. Der Beschuldigte wurde am [[date|03.11.2022]] zur Stellungnahme aufgefordert, die er am [[date|10.11.2022]] abgab. Die Verhandlung wurde zweimal vertagt, zuletzt auf Antrag der Verteidigung, die Zeit zur Beibringung der Abrechnungen benötigte. Der Senat hat außerdem die Akten der [[organization|KSB]] über die Treuhandkonten angefordert, die am [[date|17.02.2025]] eingelangt sind. Die mündliche Verhandlung fand am [[date|11.06.2025]] statt.
+
 Beweiswürdigung
 
 Der Senat hat die Kontoauszüge, die Stellungnahme des Beschuldigten vom [[date|10.11.2022]] und die Aussage der Beschwerdeführerin [[person|Kowalska]] gewürdigt. Die Angaben der Beschwerdeführerin sind in sich schlüssig und stimmen mit den Buchungen überein. Die Darstellung des Beschuldigten, wonach es sich um Honorarvorschüsse gehandelt habe, war nicht glaubhaft, weil er die Abrechnungen erst nach der Beschwerde nachreichte und diese keine Leistungen in der angegebenen Höhe ausweisen.

@@ -48,7 +48,7 @@ Mit freundlichen Grüßen
 [[lawyer|Dr. Grossmann]]
 Rechtsanwalt
 
-Beilagen: Vereinbarung vom [[date|14. Juli 2026]], Vollmacht, Gebührennachweis
+Beilagen: Vereinbarung vom [[date|14. Juli 2026]], Vollmacht, Gebührennachweis, Grundbuchsauszug
 
 STEMPEL: [[organization|DIRMOSER IMMOBILIEN GMBH]], [[company_register_number|FN 73391D]]
 

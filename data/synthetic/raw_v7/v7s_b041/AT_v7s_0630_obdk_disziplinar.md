@@ -112,6 +112,9 @@ Der Klient [[person|Wildner]] hat zudem darum ersucht, die Rückzahlung innerhal
 Diesem Ersuchen folgt der Senat im Spruch nicht ausdrücklich, weil die Zahlungen Gegenstand eines gesonderten
 Verfahrens vor dem Zivilgericht sind.
 
+Die Beschuldigte hat die Kosten der Sachverständigen-Gebühr bereits teilweise geleistet. Der Restbetrag von
+EUR 640,00 ist binnen vier Wochen nach Zustellung dieser Entscheidung zu überweisen.
+
 **VI. Kosten**
 
 Die Kostenentscheidung beruht auf [[legal_norm|§ 52 Abs 1 RAO]]. Die Kosten umfassen die Gebühr des Sachverständigen für

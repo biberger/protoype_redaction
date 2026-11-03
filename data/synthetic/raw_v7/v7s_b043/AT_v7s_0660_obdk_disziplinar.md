@@ -99,7 +99,7 @@ Der Senat sieht darin eine Verletzung der Prüfpflicht. Die Vollmacht war dem Be
 
 6. Kosten
 
-4.8 Der Senat hat außerdem geprüft, ob die Vollmacht des Sohnes [[person|Ferdinand Hölzl]] vom [[date|3. Februar 2026]] eine Zahlung auf sein Konto gedeckt hätte. Die Vollmacht ist jedoch auf den Verkauf des Grundstücks beschränkt und enthält keine Ermächtigung zur Entgegennahme von Geldern. Der Beschuldigte konnte daher nicht darauf vertrauen, dass die Zahlung wirksam angewiesen war. Ein Irrtum über den Umfang der Vollmacht wäre dem Beschuldigten als Rechtsanwalt ohne Weiteres erkennbar gewesen, zumal er die Urkunde selbst geprüft und mit dem Verkäufer besprochen hatte.
+4.8 Der Senat hat außerdem geprüft, ob die Vollmacht des Sohnes [[person|Ferdinand Hölzl]] vom [[date|3. Februar 2026]] eine Zahlung auf sein Konto gedeckt hätte. Die Vollmacht ist jedoch auf den Verkauf des Grundstücks beschränkt und enthält keine Ermächtigung zur Entgegennahme von Geldern. Der Beschuldigte konnte daher nicht darauf vertrauen, dass die Zahlung wirksam angewiesen war. Ein Irrtum über den Umfang der Vollmacht wäre dem Beschuldigten als Rechtsanwalt ohne Weiteres erkennbar gewesen, zumal er die Urkunde selbst geprüft und mit dem Verkäufer besprochen hatte. Der Senat hält dies für erwiesen.
 
 Der Senat hat außerdem mit dem Vorbringen des Beschuldigten im Schlussvortrag auseinandergesetzt. Dieser hat ausgeführt, die Entnahme sei im Interesse des Verkäufers erfolgt, um laufende Verbindlichkeiten der Verkäuferfamilie zu decken. Der Senat sieht darin keine Rechtfertigung, weil der Beschuldigte weder eine Vollmacht noch eine Weisung des Treugebers vorgelegt hat, die eine solche Verwendung gedeckt hätte.
 

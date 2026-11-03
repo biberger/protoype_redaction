@@ -40,11 +40,15 @@ a) [[person|Guda Venema]], GEB: [[date_of_birth|10.12.1946]], wohnhaft in [[addr
 
 b) [[person|Wilo DI Härtel]], geboren am [[date_of_birth|1952-06-25]], wohnhaft in [[address|Gartenweg 7, 4551 Ternberg]], Erbe zu einem Anteil von 1/2.
 
+Die Erbserklärungen wurden in der Tagsatzung vom [[date|29.08.2022]] vor dem Gericht abgegeben. Beide Erben haben das Sterbebuch sowie die Geburtsurkunden vorgelegt, die die Verwandtschaft belegen. Ein Pflichtteilsverzicht liegt nicht vor; weitere Angehörige des Erblassers sind dem Gericht nicht bekannt, weshalb die Erbquoten der gesetzlichen Erbfolge entsprechen.
+
 [[person|Venema]] hat die unbedingte Erbserklärung abgegeben. [[person|Härtel]] hat die Erbantrittserklärung durch die Vorlage der Geburtsurkunde ergänzt, weil die Abstammung aus einer früheren Ehe nicht zweifelsfrei dokumentiert war.
 
 4. Ausgaben und Ergebnis
 
 Die Begräbniskosten, die Ausgaben der Verwaltung und die Gerichtskosten betragen zusammen 9.870 Euro. Nach Abzug aller Passiva verbleibt ein reines Nachlassvermögen von 198.731 Euro. [[person|Demuth]] und [[person|Šimková]] werden aus dem Nachlass befriedigt, bevor die Erbteile ausgefolgt werden.
+
+Die Mietzinseinnahmen aus der Liegenschaft betrugen im Jahr 2021 insgesamt 4.800 Euro, die Betriebskosten 1.260 Euro; die Grundsteuer und die Gebäudeversicherung wurden aus dem Nachlass bezahlt. Die Abrechnung der Hausverwaltung für das Jahr 2022 liegt bei, ebenso die Belege über die Instandhaltung des Dachs, die im Frühjahr 2022 erfolgte und mit 2.970 Euro zu Buche schlug. Die Kosten der Verwaltung bis zum Todestag wurden aus den laufenden Einnahmen gedeckt, sodass kein Vorschuss aus dem Nachlass erforderlich war. Für die Zeit nach dem Todestag hat die Verlassenschaft die Verwaltung übernommen; die Mieterin der Erdgeschosswohnung überweist die Miete seit dem [[date|01.04.2022]] unverändert an die Verlassenschaft.
 
 Ich ersuche das [[court|BG Kirchdorf an der Krems]], die Einantwortung an die beiden Erben zu den genannten Quoten zu beschließen. Die Liegenschaft ist im Grundbuch unbelastet, mit Ausnahme einer Vormerkung zugunsten der [[organization|Sparkasse]], die mit der Rückzahlung des Darlehens zu löschen ist. Die Erbenschaft ist im Übrigen ohne Vorbehalt angenommen; Pflichtteilsansprüche wurden nicht erhoben.
 

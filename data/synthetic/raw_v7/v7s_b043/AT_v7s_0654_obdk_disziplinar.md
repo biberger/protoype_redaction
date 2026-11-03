@@ -107,7 +107,7 @@ Auf die Frage, warum sie die Vorgänge nicht früher gemeldet habe, erklärte di
 
 5. Rechtsmittelbelehrung
 
-Gegen dieses Erkenntnis kann innerhalb von vier Wochen ab Zustellung Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] erhoben werden. Die Berufung hat aufschiebende Wirkung, soweit sie die Geldbuße betrifft. Eine Abschrift des Erkenntnisses wird der Kammeranwältin und den Beschwerdeführerinnen übermittelt, sobald es rechtskräftig geworden ist. Sie wird den Parteien schriftlich zugestellt. Ein Exemplar ist der Kammer zur Akte zu nehmen.
+Gegen dieses Erkenntnis kann innerhalb von vier Wochen ab Zustellung Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] erhoben werden. Die Berufung hat aufschiebende Wirkung, soweit sie die Geldbuße betrifft. Eine Abschrift des Erkenntnisses wird der Kammeranwältin und den Beschwerdeführerinnen übermittelt, sobald es rechtskräftig geworden ist. Sie wird den Parteien schriftlich zugestellt. Ein Exemplar ist der Kammer zur Akte zu nehmen. Die Kosten sind binnen vier Wochen zu bezahlen.
 
 Der Senat:
 

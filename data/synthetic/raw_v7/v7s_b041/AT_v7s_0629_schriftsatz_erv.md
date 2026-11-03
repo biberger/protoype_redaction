@@ -91,6 +91,9 @@ Der Ersatz des weiteren Schadens richtet sich nach [[legal_norm|§ 1295 ABGB]] i
 Das Schmerzengeld ist nach [[legal_norm|§ 1325 ABGB]] zu bemessen. Die psychische Belastung ist durch ein
 Attest des Hausarztes belegt.
 
+Die Klägerin hat die Rückerstattung der Betriebskosten für den Zeitraum der Unbewohnbarkeit bereits mit Schreiben vom
+[[date|4. März 2025]] verlangt. Die [[organization|LHG]] hat darauf nicht reagiert.
+
 **IV a. Weitere Ausführungen zum Schaden**
 
 Die Klägerin musste während der Dauer der Mängel zudem ihre Arbeitszeit reduzieren. Die Dienstgeberin
