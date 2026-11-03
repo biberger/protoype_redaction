@@ -38,6 +38,10 @@ Unsere Mandantschaft:
 
 Bitte geben Sie bei jedem Schriftverkehr die Schadennummer [[other_identifier|53/496078/24]] an. Sollten Sie den Anspruch dem Grunde nach bestreiten, ersuchen wir um eine schriftliche Begründung. Wir behalten uns vor, ohne weitere Ankündigung Klage beim zuständigen Gericht einzubringen.
 
+Für das Schmerzengeld ist maßgeblich, dass unser Mandant durch die Verletzung über mehrere Wochen in seiner Bewegungsfreiheit eingeschränkt war. Wir verweisen auf [[legal_norm|§ 1325 ABGB]], wonach die Schmerzen, die Verunstaltung und die Beeinträchtigung des Fortkommens zu ersetzen sind. Die Physiotherapie wurde bis zum [[date|15. September 2026]] fortgesetzt, die Rechnungen dazu sind bereits in Kopie beigelegt. Der Verdienstentgang für die Zeit der Arbeitsunfähigkeit ist vom Dienstgeber bestätigt und wird nachgereicht.
+
+Die Haftungsfrage stellt sich aus unserer Sicht nicht, da der Hergang durch die Angaben der Beifahrerin und das Polizeiprotokoll eindeutig dokumentiert ist. Ein Mitverschulden unseres Mandanten bestreiten wir ausdrücklich.
+
 Beilagen:
 ./1 Polizeibericht vom [[date|14. Juli 2026]]
 ./2 Ärztlicher Befund vom [[date|21. Juli 2026]]

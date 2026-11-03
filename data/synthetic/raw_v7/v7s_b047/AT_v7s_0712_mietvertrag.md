@@ -46,6 +46,14 @@ Die Mieter verpflichten sich, die Wohnung pfleglich zu behandeln und Schäden un
 
 Die Vermieterin hat die Erhaltungspflichten nach dem [[legal_norm|MRG]] zu erfüllen. Reparaturen, die durch Verschulden der Mieter notwendig werden, gehen zu deren Lasten.
 
+§ 5a Übergabe und Schlüssel
+
+Die Übergabe der Wohnung erfolgte am [[date|01.03.2016]]. Der Mieter erhält zwei Wohnungsschlüssel, einen Briefkastenschlüssel und eine Haustorkarte. Ein Übergabeprotokoll mit den Zählerständen für Strom, Wasser und Gas wurde gemeinsam aufgenommen und ist Vertragsbestandteil. Der Mieter ist verpflichtet, bei Auszug sämtliche Schlüssel zurückzugeben; für verlorene Schlüssel wird ein Betrag von 40 Euro je Stück in Rechnung gestellt.
+
+§ 5b Stellplatz und Gemeinschaftsflächen
+
+Der Mieter erhält einen Stellplatz im Hof, der durch Kennzeichnung mit der Nummer 7 zugewiesen ist. Die Gemeinschaftsflächen im Stiegenhaus dürfen nicht als Lagerfläche genutzt werden; Fahrräder sind im Kellerabteil abzustellen. Das Abstellen von Fahrzeugen im Bereich der Feuerwehrzufahrt ist untersagt, ebenso das Grillen auf dem Balkon.
+
 § 6 Schriftverkehr und Kontakt
 
 Mitteilungen der Vermieterin sind an die Geschäftsanschrift zu richten. Telefonisch ist die Hausverwaltung unter Tel. [[phone_number|+43-5572-6401665 Durchwahl 49]] erreichbar. Änderungen der Anschrift sind der Vermieterin binnen vier Wochen schriftlich mitzuteilen.
@@ -61,6 +69,8 @@ Dieser Vertrag ersetzt den Vorvertrag vom [[date|14.12.2015]], Vertragsnummer [[
 Die Betriebskosten werden nach den Abrechnungsschlüsseln des [[legal_norm|Mietrechtsgesetzes]] verteilt. Die Abrechnung erfolgt jährlich bis zum 30. Juni des Folgejahres. Der Mieter kann Belege in den Geschäftsräumen der Vermieterin einsehen. Die Hausordnung ist Vertragsbestandteil; insbesondere sind die Ruhezeiten von 22 bis 6 Uhr einzuhalten. Fahrzeuge dürfen nur auf den ausgewiesenen Stellplätzen abgestellt werden.
 
 Der Mieter ist verpflichtet, die Heizung in der Wohnung auch bei längerer Abwesenheit in einem Mindestausmaß einzuschalten, damit keine Frostschäden entstehen. Schäden an Wasserleitungen sind umgehend der Vermieterin zu melden.
+
+Die Mieter haften für sämtliche Verbindlichkeiten aus diesem Vertrag solidarisch; die Mitmieterin [[person|Thekla Mag. Thöny]] ist insoweit wie der Hauptmieter verpflichtet. Änderungen der Personen auf Mieterseite bedürfen der Zustimmung der Vermieterin.
 
 Die Mieter erklären, den Mietvertrag gelesen und verstanden zu haben. Eine Ausfertigung wurde jeder Partei ausgehändigt.
 

@@ -53,6 +53,8 @@ Abrechnung der Vergleichsverhandlung vom [[date|9. Juni 2025]]: Die Gegenseite h
 
 Nicht enthalten sind die Kosten des Gutachtens zum Bauschaden vom [[date|10. April 2025]], das die Mandantin direkt beim Sachverständigen beauftragt hat. Dieser Betrag ist nicht Teil unserer Honorarnote und wird von der Mandantin gesondert beglichen.
 
+Rückfragen zur Abrechnung richten Sie bitte schriftlich an die Kanzlei; telefonische Auskünfte erteilen wir nur nach vorheriger Vereinbarung.
+
 Zahlungsbedingungen: Zahlbar binnen 14 Tagen ab Rechnungsdatum auf das Konto der Kanzlei mit der IBAN [[bank_account|AT41 1153 3538 8450 9988]] und dem Verwendungszweck „Klientennummer [[other_identifier|77574]]“.
 
 Hinweis: Die Gegenseite [[organization|SCHEID BAU GMBH]] ([[company_register_number|FN 491752s]], UID: [[tax_id|ATU56076472]]) hat laut Gerichtsbeschluss die Kosten des Verfahrens zu ersetzen. Die Kostennote wird gesondert erstellt.

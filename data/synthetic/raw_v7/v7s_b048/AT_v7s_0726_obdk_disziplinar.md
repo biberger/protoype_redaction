@@ -50,6 +50,10 @@ Die rechtliche Beurteilung
 
 Nach [[legal_norm|§ 16 RAO]] hat der Rechtsanwalt Gelder seiner Klienten getrennt vom eigenen Vermögen zu halten. Die Verwendung von Treuhandgeldern zur Befriedigung eigener Forderungen ohne Zustimmung des Klienten verletzt diese Pflicht. Die Verletzung ist auch nach [[legal_norm|§ 43a Abs 1 RAO]] als Verstoß gegen die Pflicht zur gewissenhaften Berufsausübung zu werten.
 
+Der Senat hat ferner die Aussagen der Kanzleimitarbeiterin geprüft, die im Zeitraum der Entnahmen mit der Buchhaltung betraut war. Sie hat angegeben, dass sie die Entnahmen bei [[person|Stöckl]] auf ausdrückliche Anweisung des Beschuldigten verbucht habe, ohne die Rechnungen gesehen zu haben. Die Zeugin hat zudem bestätigt, dass ein Ordner mit Honorarnoten nie geführt wurde. Der Senat sieht darin einen wesentlichen Teil der Organisationsmängel, weil die Dokumentation ausschließlich vom Beschuldigten selbst abhing.
+
+Die Kanzlei hat nach der Anzeige begonnen, die Buchungsorganisation umzustellen. Der Beschuldigte hat dazu eine Liste der offenen Mandate vorgelegt, aus der hervorgeht, dass zu den betroffenen Klienten zwei weitere Entnahmen im Jahr 2024 gehören, die bisher nicht beanstandet wurden. Der Senat hat diese Entnahmen nicht zum Gegenstand des Verfahrens gemacht, weil die Anzeige sie nicht umfasst.
+
 Der Senat geht von einem Verschulden in Form der bewussten Fahrlässigkeit aus. Der Beschuldigte ist ein erfahrener Rechtsanwalt, der seit mehr als zwanzig Jahren in [[location|Innsbruck]] tätig ist, davon bis zum Jahr 2019 mit Kanzleisitz in [[location|St. Pölten]]. Der Umstand, dass er die Entnahme bei [[person|Stöckl]] nachträglich ausgeglichen hat, wirkt mildernd.
 
 Die Strafbemessung
@@ -59,6 +63,8 @@ Der Senat hat von einer Ausschließung aus der Rechtsanwaltschaft abgesehen, wei
 Ergänzend stellt der Senat fest, dass die Kanzlei des Beschuldigten seit dem Jahr 2021 ein elektronisches Treuhandbuch führt. Die Buchungen sind dort nicht zeitnah erfasst worden. Bei der Prüfung durch die [[organization|TRK]] fehlten für drei Entnahmen im Jahr 2024 die Zahlungsbelege, obwohl die Kanzlei nach den Richtlinien verpflichtet gewesen wäre, sie aufzubewahren. Diese organisatorischen Mängel sind dem Beschuldigten zuzurechnen, weil er als Kanzleiinhaber die Verantwortung für die Buchhaltung trägt.
 
 Die Kosten des Verfahrens werden mit 1.240 Euro bestimmt. Sie umfassen die Kosten der Verhandlung, die Schreibgebühren und den Aufwand für die Akteneinsicht. Die Zahlung ist binnen 14 Tagen nach Rechtskraft auf das Konto des Disziplinarrates zu leisten.
+
+Die Ausfertigung dieses Erkenntnisses ergeht an den Beschuldigten, den Kammeranwalt, die Klientin [[person|Berger]] und die [[organization|TRK]]. Die Klientin wurde ersucht, den noch offenen Restbetrag aus der Abrechnung vom [[date|15. Juli 2025]] binnen 30 Tagen durch einen unabhängigen Buchprüfer überprüfen zu lassen. Der Beschuldigte hat sich bereit erklärt, die Kosten dieser Prüfung zu tragen, soweit sie Fehlbeträge ergibt.
 
 Eine Berufung an die [[court|OBDK]] ist innerhalb von vier Wochen nach Zustellung zulässig. Die Rechtsmittelfrist beginnt mit der Zustellung dieses Erkenntnisses.
 

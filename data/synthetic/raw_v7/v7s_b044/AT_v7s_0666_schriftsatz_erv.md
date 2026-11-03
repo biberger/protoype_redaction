@@ -84,7 +84,7 @@ Beilagen:
 
 8. Die klagenden Parteien ersuchen um eine Tagsatzung zur mündlichen Verhandlung, in der die Mängel am Dach gemeinsam mit der Sachverständigen besichtigt werden können. Die Zeugin ist unter Tel. [[phone_number|+43 1 231 74 78-5]] erreichbar, für Rückfragen steht auch der Kanzleiapparat zur Verfügung.
 
-Die Klage wurde elektronisch über den Rechtsanwaltsdienst eingebracht. Die Vollmachten der beiden klagenden Parteien werden in elektronischer Form nachgereicht, eine Abschrift der Klage ist für die Beklagte beigelegt.
+Die Klage wurde elektronisch über den Rechtsanwaltsdienst eingebracht. Die Gerichtsgebühren wurden bereits überwiesen. Die Vollmachten der beiden klagenden Parteien werden in elektronischer Form nachgereicht, eine Abschrift der Klage ist für die Beklagte beigelegt.
 
 [[address|4533 Piberbach]], am [[date|17. Februar 2025]]
 

@@ -52,6 +52,18 @@ Der Mieter verpflichtet sich, die Räume ausschließlich für den Betrieb eines 
 
 Die Vermieterin ist über die Verwaltung unter Tel. [[phone_number|+43 1 819 52 22 DW 358]] erreichbar. Die Kundennummern der Vorvermietung lauteten [[other_identifier|Kd.-Nr. 450178]] und [[other_identifier|Kd.-Nr. 153994]]; sie sind für dieses Mietverhältnis nicht mehr relevant.
 
+§ 6a Betriebspflicht und Öffnungszeiten
+
+Der Mieter verpflichtet sich, das Geschäft während der ortsüblichen Geschäftszeiten zu betreiben und an Werktagen mindestens von 9 bis 18 Uhr geöffnet zu halten. Eine Unterbrechung des Betriebs von mehr als zwei Wochen bedarf der schriftlichen Zustimmung der Vermieterin. Schaufenster und Werbeanlagen sind nur nach Abstimmung mit der Vermieterin zu gestalten; eine Beschriftung über die gesamte Fassade ist untersagt.
+
+§ 6b Rückgabe und Versicherung
+
+Bei Vertragsende ist der Mietgegenstand besenrein und in dem Zustand zurückzugeben, der sich aus der gewöhnlichen Abnützung ergibt. Der Mieter hat eine Betriebshaftpflichtversicherung für die Dauer des Mietverhältnisses abzuschließen und der Vermieterin jährlich eine Bestätigung vorzulegen. Schäden, die durch Wasser oder Brand im Verantwortungsbereich des Mieters entstehen, sind von diesem zu ersetzen.
+
+§ 6c Konkurrenzschutz
+
+Die Vermieterin verpflichtet sich, im Gebäude keine weiteren Verkaufsräume für Gebrauchtwaren zu vermieten. Diese Verpflichtung gilt nicht für Flächen, die vor Vertragsabschluss bereits vermietet waren.
+
 § 7 Schlussbestimmungen
 
 Dieser Vertrag ersetzt alle früheren Vereinbarungen, insbesondere den Vertrag mit der Vertragsnummer [[other_identifier|V-2016-60162]]. Änderungen bedürfen der Schriftform. Erfüllungsort ist [[location|St. Johann im Pongau]], wo der Mietgegenstand im Sinne des Vertrags übergeben wird.

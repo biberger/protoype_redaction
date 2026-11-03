@@ -49,6 +49,8 @@ Sollte die Zahlung nicht fristgerecht erfolgen, werden wir ohne weitere Ankündi
 
 Wir bitten um Bestätigung des Eingangs und um Mitteilung der zuständigen Sachbearbeiterin. Eine Kopie unserer Vollmacht von [[person|Tomić Radoslav]] übermitteln wir auf Anfrage gerne nach.
 
+Die Schadenursache wurde im Übrigen auch durch den Installateur bestätigt, der die Leitung am [[date|12. Februar 2025]] provisorisch abgesperrt hat. Sein Bericht ist dem Gutachten angeschlossen und belegt, dass der Bruch nicht durch Frostschäden entstanden ist. Die Versicherung kann sich daher nicht auf eine Ausschlussklausel berufen, die für Frostschäden gilt.
+
 Beilagen:
 ./.1 Gutachten der Sachverständigen vom [[date|3. März 2025]]
 ./.2 Kostenvoranschlag mit Positionen Parkett, Küchenzeile und Elektrik

@@ -70,7 +70,7 @@ Die Kammeranwaltschaft hatte eine höhere Strafe beantragt. Der Disziplinarrat h
 
 IV a. Zur Anordnung weiterer Maßnahmen
 
-Der Disziplinarrat hat die Verfahrenskosten nach den Sätzen der Kostenordnung bemessen; die Kammeranwaltschaft hatte keine außergewöhnlichen Auslagen. Der Disziplinarrat sieht von der Anordnung einer Auflage nach den Richtlinien ab, weil die Beschuldigte im Verfahren erklärt hat, die Treuhandgebarung künftig durch einen externen Buchprüfer kontrollieren zu lassen. Die Zusage ist mit einer Nachweispflicht verbunden. Die Kammeranwaltschaft wird die Umsetzung innerhalb von sechs Monaten überprüfen.
+Der Disziplinarrat hat die Verfahrenskosten nach den Sätzen der Kostenordnung der Rechtsanwaltskammer bemessen; die Kammeranwaltschaft hatte keine außergewöhnlichen Auslagen. Der Disziplinarrat sieht von der Anordnung einer Auflage nach den Richtlinien ab, weil die Beschuldigte im Verfahren erklärt hat, die Treuhandgebarung künftig durch einen externen Buchprüfer kontrollieren zu lassen. Die Zusage ist mit einer Nachweispflicht verbunden. Die Kammeranwaltschaft wird die Umsetzung innerhalb von sechs Monaten überprüfen.
 
 Die Beschuldigte hat in ihrem letzten Wort um eine milde Beurteilung gebeten und auf ihre Familie verwiesen, die auf die Einkünfte aus der Kanzlei angewiesen sei. Der Disziplinarrat hat diesen Umstand nicht als Milderungsgrund gewertet, weil er die Verantwortung für die Verwaltung fremder Gelder nicht berührt.
 

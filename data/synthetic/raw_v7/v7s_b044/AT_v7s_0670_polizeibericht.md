@@ -57,7 +57,7 @@ Der Zeuge [[person|Gerold Hiebl]] hat ausgesagt, er habe den Unfall aus dem Fens
 
 Die Angaben der Beteiligten wurden von der Einsatzbeamtin oder dem Einsatzbeamten vor Ort aufgenommen. Die Aussagen wurden den Beteiligten vorgelesen und von ihnen bestätigt, soweit sie unterschreiben wollten. Frau [[person|Skoro]] hat die Unterschrift mit dem Hinweis verweigert, dass sie die deutsche Sprache nur eingeschränkt beherrsche; die Aussage wurde daher mit Hilfe eines Dolmetschers wiederholt.
 
-Die Spurensicherung hat die Lage der Fahrzeuge vermessen und die Bremsspuren mit Kreide markiert. Die Ergebnisse sind in der Planskizze festgehalten, die diesem Bericht als Beilage 2 angeschlossen ist. Die Planskizze wurde vom Einsatzbeamten vor Ort gefertigt und mit einem Maßstab von 1:200 gezeichnet. Eine Verkehrstafel im Bereich der Kreuzung war nach Angaben der Gemeinde seit dem Frühjahr beschädigt, was für den Vorfall aber nicht ursächlich war.
+Die Spurensicherung hat die Lage der Fahrzeuge vermessen und die Bremsspuren mit Kreide markiert. Die Ergebnisse sind in der Planskizze festgehalten, die diesem Bericht als Beilage 2 angeschlossen ist. Die Planskizze wurde vom Einsatzbeamten vor Ort gefertigt und von der Streife unterschrieben und mit einem Maßstab von 1:200 gezeichnet. Eine Verkehrstafel im Bereich der Kreuzung war nach Angaben der Gemeinde seit dem Frühjahr beschädigt, was für den Vorfall aber nicht ursächlich war.
 
 Die Unfallstelle wurde gegen 16:05 Uhr freigegeben. Der Verkehr wurde während der Aufnahme über die Umleitung geführt, die Ortsdurchfahrt war für etwa 50 Minuten gesperrt.
 

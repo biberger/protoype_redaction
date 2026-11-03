@@ -28,6 +28,8 @@ Sehr geehrte Frau [[person|Nagele]],
 
 die Kündigung der [[organization|DHV]] ist nach meiner Einschätzung nur wirksam, wenn der Rückstand mehr als zwei Monatsmieten beträgt und die Mahnung zugestellt wurde. Ich habe die Unterlagen eingesehen und werde Ihnen bis Montag eine Stellungnahme übermitteln.
 
+Eine Kopie der Mahnung vom [[date|25.09.2025]] liegt Ihnen bei; bitte senden Sie mir die Kontoauszüge für die Monate Juli bis September, bevor ich mich gegenüber der Hausverwaltung äußere.
+
 Die Akte ist beim [[court|Bezirksgericht Favoriten]] anhängig, Aktenzeichen Ihres Verfahrens: [[land_register_id|E.Z. 1717]], Grundbuch [[land_register_id|45163]]; [[land_register_id|Parz. 642/30]].
 
 Mit freundlichen Grüßen

@@ -89,6 +89,16 @@ Die Betriebskosten werden jährlich abgerechnet. Die Abrechnung wird der Mieteri
 
 (2) Bei Beendigung ist die Wohnung besenrein und in dem Zustand zurückzugeben, der dem vertragsgemäßen Gebrauch entspricht. Die Übergabe ist in einem gemeinsamen Protokoll festzuhalten.
 
+§ 8a Vorzeitige Auflösung
+
+(1) Die Vermieterin kann das Mietverhältnis aufkündigen, wenn der Mietzins für zwei aufeinanderfolgende Monate trotz schriftlicher Mahnung nicht bezahlt wird. Die Mahnung muss den Rückstand genau beziffern und auf die Folgen des Verzugs hinweisen.
+
+(2) Die Mieterin kann das Mietverhältnis aus wichtigem Grund vorzeitig beenden, insbesondere wenn die Wohnung durch einen Mangel unbenutzbar geworden ist und die Vermieterin den Mangel nicht innerhalb angemessener Frist behebt. Die Mietzinsminderung ist davon unberührt.
+
+(3) Die Vermieterin hat der Mieterin im Falle eines Todes der Mieterin die Fortsetzung des Mietverhältnisses durch eintrittsberechtigte Angehörige zu ermöglichen, sofern diese mit der Mieterin im gemeinsamen Haushalt gewohnt haben.
+
+(4) Der Bürge [[person|Welser]] wird über jede Kündigung und jeden Zahlungsrückstand von mehr als einem Monat unverzüglich verständigt. Seine Haftung endet mit der Rückgabe der Wohnung und der Abrechnung sämtlicher Forderungen.
+
 § 9 Schlussbestimmungen
 
 (1) Dieser Vertrag tritt mit Unterfertigung durch beide Vertragsteile in Kraft und ersetzt den Vorvertrag vom [[date|3. März 2015]] samt Nachtrag vom [[date|18. November 2019]].

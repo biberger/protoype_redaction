@@ -66,7 +66,7 @@ Die Vertreterin der Auftraggeberin [[organization|Kuhn Immobilien GmbH]] wurde g
 
 Gründe
 
-Der Disziplinarrat sieht die Verfehlung als erwiesen an. Die Angaben des Beschuldigten zur nachträglichen Vollmacht sind widersprüchlich, weil er zunächst eine mündliche Vereinbarung erwähnte. Der Disziplinarrat wertet dies als nachträgliche Rechtfertigung.
+Der Disziplinarrat sieht die Verfehlung als erwiesen an. Die Beweisaufnahme hat die Angaben der Kammeranwältin in allen wesentlichen Punkten bestätigt, und der Beschuldigte konnte seine Darstellung nicht durch Urkunden untermauern. Die Berufung an die [[court|OBDK]] bleibt davon unberührt. Die Angaben des Beschuldigten zur nachträglichen Vollmacht sind widersprüchlich, weil er zunächst eine mündliche Vereinbarung erwähnte. Der Disziplinarrat wertet dies als nachträgliche Rechtfertigung.
 
 Bei der Strafbemessung waren die Unbescholtenheit des Beschuldigten als mildernd, die Wiederholung als erschwerend zu werten. Die Geldbuße liegt im unteren Bereich des Strafrahmens.
 

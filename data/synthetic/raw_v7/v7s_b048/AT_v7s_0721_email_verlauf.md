@@ -13,6 +13,8 @@ Sehr geehrter Herr Kollege [[lawyer|Egino Schmit]],
 
 ich nehme zu Ihrer Nachricht vom [[date|14. September 2026]] wie folgt Stellung. Die Quotelung von einem Drittel zu Lasten meines Mandanten lehnen wir ab. Die Ampel stand für Herrn [[person|Elmar Rada]] auf Grün, das bestätigt auch Frau [[person|Daria Pavlova]], die im Fahrzeug saß. Ein Mitverschulden kann daher nicht angenommen werden, auch nicht nach [[legal_norm|§ 1304 ABGB]].
 
+Das Lichtbild der Kreuzung, das Frau [[person|Pavlova]] am Unfalltag mit ihrem Mobiltelefon aufgenommen hat, liegt diesem Schreiben bei. Auf dem Foto ist die Ampel für unsere Fahrtrichtung deutlich grün zu erkennen, der Kombi steht im Bild bereits quer zur Fahrbahn. Wir bitten, diesen Umstand in der Schadensprüfung zu berücksichtigen, zumal die Aufnahme mit Zeitstempel versehen ist. Eine Kopie der Aufnahme wird auf Wunsch zur Verfügung gestellt.
+
 Wir ersuchen die [[organization|Kamptal Assekuranz AG]] daher, die Zahlung von 4.180 Euro netto bis [[date|30. September 2026]] anzuweisen. Sollte die Frist ungenutzt verstreichen, werden wir die Klage beim zuständigen Gericht einbringen.
 
 Mit freundlichen Grüßen

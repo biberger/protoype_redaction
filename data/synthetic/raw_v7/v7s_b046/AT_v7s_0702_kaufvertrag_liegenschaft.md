@@ -99,7 +99,7 @@ VII. Treuhandschaft und Vollmacht
 
 Die Kanzlei ist mit der Abwicklung betraut. Die Parteien erteilen der Kanzlei Vollmacht zur Abgabe aller Erklärungen gegenüber dem Grundbuch und dem Finanzamt. Die Grunderwerbsteuer wird von der Kanzlei angemeldet und aus dem Kaufpreis abgeführt. Die Treuhandschaft endet mit der Auszahlung des letzten Betrages an die Verkäuferin.
 
-Die Käufer sind durch die Kanzlei darüber belehrt worden, dass der Vertrag nur bei Einhaltung der Schriftform wirksam ist. Die Käufer erklären, dass sie keine Vollmacht zur Vertretung eines anderen Käufers erteilt haben und dass jeder Käufer den Vertrag persönlich unterfertigt. Eine Stellvertretung bei der Unterfertigung ist ausgeschlossen, außer für die Kanzlei gemäß diesem Abschnitt.
+Die Käufer sind durch die Kanzlei darüber belehrt worden, dass der Vertrag nur bei Einhaltung der Schriftform wirksam ist. Die Käufer erklären, dass sie keine Vollmacht zur Vertretung eines anderen Käufers erteilt haben und dass jeder Käufer den Vertrag persönlich unterfertigt. Eine Stellvertretung bei der Unterfertigung ist ausgeschlossen, außer für die Kanzlei gemäß diesem Abschnitt. Die Kanzlei hat die Unterschriften der Käufer am Tag der Errichtung in Gegenwart der Vertragsparteien beglaubigt und die Ausweise geprüft. Die Vertragsparteien haben jeweils eine Ausfertigung samt Beilagen erhalten, die Kanzlei behält das Original im Treuhandakt, wo es bis zur Eintragung der Eigentumsrechte gesichert verwahrt wird.
 
 VIII. Rücktritt und Verzug
 

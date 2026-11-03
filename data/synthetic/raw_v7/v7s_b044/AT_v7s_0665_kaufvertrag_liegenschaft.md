@@ -49,11 +49,17 @@ Die Verkäuferin erklärt die Einwilligung in die Einverleibung des Eigentumsrec
 
 Frau [[person|Robinson]] stimmt dem Verkauf des Miteigentumsanteils zu und verzichtet auf ihr Vorkaufsrecht.
 
+IV/2. Sicherstellung der Zahlungen
+
+1. Die Käuferinnen verpflichten sich, den Kaufpreis fristgerecht auf das Treuhandkonto der Kanzlei zu leisten. Verzugszinsen werden nach [[legal_norm|§ 1333 ABGB]] berechnet. Im Fall des Verzugs ist die Verkäuferin berechtigt, vom Vertrag zurückzutreten, wenn die Zahlung nicht binnen vier Wochen nach schriftlicher Mahnung eingeht.
+
+2. Die Kosten der Treuhandschaft werden pauschal mit einem Prozent des Kaufpreises angesetzt und von der Käuferseite getragen. Die Kanzlei stellt dafür eine gesonderte Honorarnote aus, die mit der Auszahlung an die Verkäuferin verrechnet wird. Die Honorarnote ist binnen 14 Tagen zu begleichen.
+
 V. Gewährleistung und Übergabe
 
 1. Die Verkäuferin haftet dafür, dass die Liegenschaften zum Übergabezeitpunkt frei von Miet- und Pachtrechten sind. Ein Pachtvertrag über die Ackerflächen der Liegenschaft [[land_register_id|EZ 2894]] wurde mit Wirkung zum [[date|31. Dezember 2023]] aufgelöst; die Auflösungserklärung liegt dem Vertrag als Beilage ./2 bei.
 
-2. Die Übergabe erfolgt am Tag der Eintragung des Eigentumsrechts. Ab diesem Zeitpunkt trägt die Käuferseite Nutzen und Gefahr. Die Verkäuferin übergibt die Schlüssel und die Bestandsunterlagen der Hausverwaltung, soweit solche vorhanden sind.
+2. Die Übergabe erfolgt am Tag der Eintragung des Eigentumsrechts. Ab diesem Zeitpunkt trägt die Käuferseite Nutzen und Gefahr. Vorher bleibt die Verkäuferin für Schäden am Gebäude verantwortlich. Die Verkäuferin übergibt die Schlüssel und die Bestandsunterlagen der Hausverwaltung, soweit solche vorhanden sind.
 
 3. Die Verkäuferin erklärt, dass ihr keine verborgenen Mängel bekannt sind, die den Wert der Gebäude auf der Liegenschaft [[land_register_id|KG 65343]] / [[land_register_id|EZ404]] wesentlich mindern. Ausgenommen sind Feuchtigkeitsschäden im Keller, die im Übergabeprotokoll festgehalten werden.
 

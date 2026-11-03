@@ -14,7 +14,7 @@ ERV-Code: [[other_identifier|P105961]]
 
 Zeichen [[other_identifier|KP-KPDanler/Fischnaller]]
 
-EINGANG: [[date|13.10.2026]] – TREUHANDKONTO AT84 8442 8504 2452 9935 – [[organization|KUTTELWASCHER GMBH]] – VERKÄUFERIN BESTÄTIGT
+EINGANG: [[date|13.10.2026]] – TREUHANDKONTO [[bank_account|AT84 8442 8504 2452 9935]] – [[organization|KUTTELWASCHER GMBH]] – VERKÄUFERIN BESTÄTIGT
 
 KAUFVERTRAG
 

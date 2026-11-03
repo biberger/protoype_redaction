@@ -84,7 +84,7 @@ Die Beklagte hat im Vorbringen zur Verjährung auf den Zeitpunkt der Auskunft ab
 
 IV. Kosten
 
-Die Kostenentscheidung ist im Falle des Obsiegens nach [[legal_norm|§§ 41, 50 ZPO]] zu treffen.
+Die Kostenentscheidung ist im Falle des Obsiegens nach [[legal_norm|§§ 41, 50 ZPO]] zu treffen. Die Klägerin hat im Verfahren erster Instanz die vollen Kosten des Zeugen [[person|Schachner]] getragen, obwohl er als Nebenintervenient auftrat; diese Kosten sind der Beklagten zuzurechnen.
 
 Beilagen:
 ./A Urteil des [[court|LG für ZRS Graz]] vom [[date|14. Oktober 2026]]

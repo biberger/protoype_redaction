@@ -32,15 +32,15 @@ Frau [[person|Krasteva]] (Fahrzeug 4) versuchte auszuweichen und kam auf dem Gr�
 
 Zeuge [[person|Thibaud Bondy]] hat den Vorfall vom Gehsteig aus beobachtet. Er bestätigte die Darstellung der Frau [[person|Pein]] und beschrieb, dass der Lenker des Fahrzeugs 1 sein Telefon während der Fahrt verwendete. Eine Kopie der Aussage ist dem Akt beigelegt.
 
-Die Lenkerin Jusits bestritt die Verwendung des Telefons. Ein Alkotest ergab 0,0 mg/l, ein Drogenvortest verlief negativ. Die Beamten stellten jedoch fest, dass das Mobiltelefon in der Mittelkonsole eingeschaltet war.
+Die Lenkerin [[person|Jusits]] bestritt die Verwendung des Telefons. Ein Alkotest ergab 0,0 mg/l, ein Drogenvortest verlief negativ. Die Beamten stellten jedoch fest, dass das Mobiltelefon in der Mittelkonsole eingeschaltet war.
 
 Der Sachschaden wird auf insgesamt 38.500 Euro geschätzt. Die Fahrzeuge 1, 2 und 3 mussten abgeschleppt werden. Sie wurden vom Abschleppunternehmen [[organization|Mörtl Transporte]] abtransportiert, das sie bis zur Freigabe durch die Versicherungen verwahrt. Die Fahrzeuge 4 und 5 waren fahrbereit.
 
-Ergänzend wird festgehalten, dass die Ampelanlage im Bereich der Unfallstelle wegen Bauarbeiten außer Betrieb war. Die Baustelle wurde von der [[organization|Straßenmeisterei Lienz]] eingerichtet, die Zuständigkeit für die Absicherung lag bei der Baufirma. Ein Hinweis auf die Gefahrenstelle war nach Angaben der Lenkerin Krasteva nicht aufgestellt.
+Ergänzend wird festgehalten, dass die Ampelanlage im Bereich der Unfallstelle wegen Bauarbeiten außer Betrieb war. Die Baustelle wurde von der [[organization|Straßenmeisterei Lienz]] eingerichtet, die Zuständigkeit für die Absicherung lag bei der Baufirma. Ein Hinweis auf die Gefahrenstelle war nach Angaben der Lenkerin [[person|Krasteva]] nicht aufgestellt.
 
 Der Vorfall wird nach [[legal_norm|§ 88 StGB]] geprüft, soweit Personen verletzt wurden. Eine Anzeige nach [[legal_norm|§ 102 Abs 3 KFG]] wird gegen die Lenkerin des Fahrzeugs 1 erstattet, da die Verwendung eines Mobiltelefons während der Fahrt unzulässig war.
 
-Die Versicherung der Lenkerin Jusits wurde bisher nicht bekanntgegeben. Frau [[person|Pein]] hat die Schadennummer [[other_identifier|35/242928/20]] erhalten. Sie wurde angewiesen, sich mit ihrer Kfz-Versicherung in Verbindung zu setzen.
+Die Versicherung der Lenkerin [[person|Jusits]] wurde bisher nicht bekanntgegeben. Frau [[person|Pein]] hat die Schadennummer [[other_identifier|35/242928/20]] erhalten. Sie wurde angewiesen, sich mit ihrer Kfz-Versicherung in Verbindung zu setzen.
 
 Die Verkehrsteilnehmer wurden über die Gefahrenstelle an der Baustelle informiert. Die Straßenmeisterei hat die Warnschilder am selben Abend ergänzt.
 

@@ -70,6 +70,14 @@ Die [[organization|RBP]] hat dem Disziplinarrat mitgeteilt, dass sie bei der Ver
 
 Eine weitere Verfahrensaufnahme zu Treuhandnummer [[other_identifier|2023/758]] war nicht erforderlich, weil Herr [[person|Hribernig]] die Auszahlung bestätigt hat. Der Vorwurf einer Verletzung von Verschwiegenheitspflichten, den die Anzeige ebenfalls enthält, wurde nicht ausreichend belegt und ist daher nicht Gegenstand des Spruchs.
 
+II/2. Zur Person der Beschuldigten
+
+Die Beschuldigte ist seit dem Jahr 2008 in [[location|Klagenfurt]] als Rechtsanwältin eingetragen und führt eine Einzelkanzlei mit zwei Mitarbeiterinnen. Nach Auskunft der Rechtsanwaltskammer war sie bis zum Verfahren disziplinär nicht auffällig. Die Beschuldigte hat in ihrer Stellungnahme ausgeführt, dass sie die Verwaltung der Anderkonten im Jahr 2022 einer Mitarbeiterin übertragen habe, die jedoch im Herbst 2022 aus der Kanzlei ausgeschieden sei. Die Übertragung wurde nicht schriftlich dokumentiert.
+
+Der Disziplinarrat hat erwogen, ob die Übertragung der Kontoführung auf eine Mitarbeiterin die Verantwortung der Beschuldigten mindert. Dies ist nicht der Fall. Die Pflicht zur Verwahrung trifft den Rechtsanwalt persönlich und kann nicht delegiert werden, soweit er die Kontrolle nicht sicherstellt. Die Beschuldigte hat die Entnahme am [[date|5. Juli 2022]] selbst veranlasst, wie die Überweisungsbestätigung zeigt, die sie selbst unterschrieben hat.
+
+Die Beschuldigte hat in der Verhandlung außerdem vorgebracht, sie habe in den Jahren 2019 bis 2021 eine Vielzahl von Anderkonten verwaltet, ohne dass es zu Beanstandungen gekommen sei. Dieser Umstand ist für die Beurteilung des vorliegenden Falls nicht von Belang, weil jede Verwahrung gesondert zu beurteilen ist. Der Disziplinarrat hat diese Erklärung zur Kenntnis genommen, ihr aber keine entlastende Wirkung beigemessen.
+
 V. Ergänzende Erwägungen
 
 Die Beschuldigte hat in der Verhandlung ausgeführt, sie habe die Honorarentnahme für eine Zwischenabrechnung gehalten, die später ohnehin zu erfolgen gehabt hätte. Der Disziplinarrat folgt dieser Argumentation nicht. Eine Zwischenabrechnung setzt voraus, dass die Forderung bereits feststeht und dem Mandanten mitgeteilt wurde. Beides ist im vorliegenden Fall nicht geschehen. Die Abrechnung vom [[date|5. Juli 2022]] trägt weder die Unterschrift der Mandantin noch einen Hinweis auf eine Teilzahlung der Gegenseite.

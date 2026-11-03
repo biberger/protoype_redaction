@@ -9,7 +9,7 @@ An: [[person|Anneli Rudigier]] <[[email|a.rudigier@nigg-immobilien.at]]>
 Betreff: AW: Schaden-Nr. [[other_identifier|89/111863/25]]
 Unser Zeichen: [[other_identifier|FLW/Maalouf/5521]]
 
-Sehr geehrte Frau Rudigier,
+Sehr geehrte Frau [[person|Rudigier]],
 
 wir nehmen Bezug auf Ihr Schreiben vom [[date|26. Oktober 2026]]. Unsere Mandantin, Frau [[person|Maissa Maalouf]], hält an ihrer Forderung von 2.340 Euro fest. Die Feuchtigkeitsschäden im Badezimmer sind laut Gutachten des Sachverständigen [[person|Ing. Tade Maric]] auf die Steigleitung der [[organization|Nigg Immobilien GmbH]] zurückzuführen.
 
@@ -34,7 +34,7 @@ ERV-Code: [[other_identifier|P911197]]
 > die [[organization|Nigg]] verweist auf die fehlende Schadensmeldung. Eine Wasserschadensanzeige vom [[date|2. Oktober 2026]] ist uns nicht zugegangen. Wir bitten um eine Kopie der Meldung und um Mitteilung, welcher Betrag gefordert wird.
 >
 > Mit freundlichen Grüßen
-> Anneli Rudigier
+> [[person|Anneli Rudigier]]
 > Hausverwaltung, [[organization|Nigg Immobilien GmbH]]
 > Tel. [[phone_number|+43-2742-1766665 Durchwahl 66]]  E: [[email|a.rudigier@nigg-immobilien.at]]
 >

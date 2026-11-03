@@ -34,6 +34,10 @@ Der Erblasser [[person|Raab]] hinterlässt folgendes Vermögen:
 
 Die Schulden bestehen aus der Forderung der Gläubigerin [[person|Dipl.-Ing. Theres Prantl]], GEB: [[date_of_birth|11. April 1996]], die einen Werkvertrag über Dachdeckerarbeiten vom [[date|15.03.2022]] geltend macht. Die Forderung beträgt 3.420 Euro, die Gläubigerin hat die Rechnung vom [[date|30.04.2022]] vorgelegt. [[person|Prantl]] hat die Forderung im Verlassenschaftsverfahren angemeldet und erkennt an, dass der Erblasser die Arbeiten nicht vollständig bezahlt hat.
 
+Die Liegenschaft ist mit einem Pfandrecht zugunsten der [[organization|Waldviertler Volksbank]] belastet, das aus einem Wohnbaudarlehen aus dem Jahr 2009 stammt. Der Darlehensstand betrug zum Todestag 38.200 Euro und wird aus dem Nachlass nicht getilgt, weil die Verlassenschaft die Liegenschaft nach der Einantwortung übernimmt. Die Bank hat dem Notariat den aktuellen Stand mit Schreiben vom [[date|11.08.2022]] bestätigt.
+
+Der Erblasser war verwitwet; die Ehegattin ist bereits im Jahr 2011 verstorben. Eine Lebensgefährtin war nach den Angaben im Familienbuch nicht vorhanden, weshalb sich daraus keine weiteren Erbansprüche ergeben. Kinder hat der Erblasser nicht hinterlassen. Die Begräbniskosten wurden durch das Bestattungsunternehmen in [[location|Groß-Enzersdorf]] abgerechnet; die Rechnung ist beigelegt und mit 4.980 Euro im Passivum berücksichtigt.
+
 Erbin ist nach der gesetzlichen Erbfolge die Schwester des Erblassers. Im Melderegister ist sie als [[person|Steinitz Elvire]] geführt, die Schreibweise mit vorangestelltem Familiennamen stammt aus dem Familienbuch. Die Erbin
 [[person|Elvire
 Steinitz]], geboren am [[date_of_birth|25.06.1945]], wohnhaft in [[address|Hauptstraße 22, 7540 Güssing]], hat die Erbantrittserklärung unbedingt abgegeben. Sie erhält den gesamten Reinnachlass zur Quote von 1/1.

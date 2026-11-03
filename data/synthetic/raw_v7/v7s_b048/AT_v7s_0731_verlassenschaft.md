@@ -38,7 +38,7 @@ Der Verkehrswert der Liegenschaften wurde von einem gerichtlich beeideten Sachve
 
 Bankguthaben und Versicherungen
 
-Das Girokonto des Erblassers bei der Erste Bank der oesterreichischen Sparkassen AG mit der IBAN [[bank_account|AT33 4110 6477 3708 8341]] wies zum Todestag ein Guthaben von 3.205 Euro auf. Der Erblasser hatte außerdem eine Lebensversicherung, die unter der Polizzen-Nr. [[other_identifier|86-2554329]] geführt wurde.
+Das Girokonto des Erblassers bei der [[organization|Erste Bank der oesterreichischen Sparkassen AG]] mit der IBAN [[bank_account|AT33 4110 6477 3708 8341]] wies zum Todestag ein Guthaben von 3.205 Euro auf. Der Erblasser hatte außerdem eine Lebensversicherung, die unter der Polizzen-Nr. [[other_identifier|86-2554329]] geführt wurde.
 
 Die Versicherung hat die Auszahlung an die Verlassenschaft freigegeben, weil kein Bezugsberechtigter eingetragen war. Die Unfallversicherung unter der Vers.-Nr. [[other_identifier|27-7567758]] ist mit dem Todestag erloschen. Eine Anfrage bei der Versicherung unter Tel. [[phone_number|+43-5572-7795001 DW 742]] ergab keine weiteren Ansprüche.
 

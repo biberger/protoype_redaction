@@ -64,13 +64,25 @@ V. Gewährleistung
 
 Die Verkäuferin haftet für die Lastenfreiheit der Liegenschaft. Das Vorkaufsrecht der Gemeinde ist nicht vorhanden. Für sonstige Mängel des Gebäudes wird die Gewährleistung ausgeschlossen, soweit dies gesetzlich zulässig ist.
 
+Die Käufer bestätigen, dass ihnen die Bonitätsprüfung der finanzierenden Bank bekannt ist. Die Finanzierung erfolgt durch ein Darlehen über 190.000 Euro, dessen Zusage der Bank vom [[date|10.11.2025]] vorliegt. Die Zusage ist aufschiebende Bedingung für die Zahlung des Restkaufpreises; fällt sie weg, ist die Verkäuferin berechtigt, vom Vertrag zurückzutreten, nachdem die Käufer eine Nachfrist von vier Wochen ungenützt verstreichen ließen.
+
 Die Käufer erklären, das Gebäude besichtigt zu haben und den Zustand zu kennen. [[person|Aistleitner]] hat zusätzlich darauf hingewiesen, dass er die Heizung vor dem Kauf prüfen lassen wird. Die Verkäuferin hat dies zur Kenntnis genommen. Die Gewährleistung für die Sache wird gemäß [[legal_norm|§ 932 ABGB]] iVm [[legal_norm|§ 1053 ABGB]] ausgeschlossen, soweit der Käufer den Mangel kannte.
 
-VI. Schlussbestimmungen
+VI. Vollmacht und Vertretung
 
-Die Vertragskosten, die Grunderwerbsteuer und die Eintragungsgebühr trägt je zur Hälfte jede Vertragspartei, mit Ausnahme der Grunderwerbsteuer, die die Käufer allein zu tragen haben. Änderungen dieses Vertrags bedürfen der Schriftform. Die Vertragsparteien erklären, dass sie den Vertrag gelesen und verstanden haben.
+Der Komplementär ist laut Firmenbuch einzelvertretungsbefugt. Die Verkäuferin bevollmächtigt die Treuhänderin der Rechtsanwälte OG, sämtliche Urkunden für die grundbücherliche Durchführung zu unterfertigen und die Löschung des bestehenden Pfandrechts der Bank zu beantragen. Die Vollmacht erlischt mit der Einverleibung des Eigentumsrechts der Käufer.
+
+VII. Schlussbestimmungen
+
+Die Vertragskosten, die Grunderwerbsteuer und die Eintragungsgebühr trägt je zur Hälfte jede Vertragspartei, mit Ausnahme der Grunderwerbsteuer, die die Käufer allein zu tragen haben. Änderungen dieses Vertrags bedürfen der Schriftform. Die Vertragsparteien erklären, dass sie den Vertrag gelesen und verstanden haben. Nebenabreden bestehen nicht. Es gilt österreichisches Recht; für Streitigkeiten aus diesem Vertrag wird der Gerichtsstand des Ortes der Liegenschaft vereinbart. Der Vertrag wird in vier Ausfertigungen errichtet: eine erhält das Grundbuch, je eine die Verkäuferin und die Käufer, eine die Treuhandkanzlei.
 
 Die Verkäuferin erklärt, dass die [[organization|Roland]] keinen Insolvenzantrag gestellt hat. Die Firma ist im Firmenbuch unverändert eingetragen. Die Verkäuferin wird die Vertretungsbefugnis des Komplementärs durch einen Firmenbuchauszug nachweisen.
+
+Anlagen:
+./1 Grundbuchsauszug vom [[date|03.11.2025]]
+./2 Lageplan des Grundstücks
+./3 Zusage der Finanzierung vom [[date|10.11.2025]]
+./4 Firmenbuchauszug der Verkäuferin
 
 [[location|Frutten-Gießelsdorf]], am [[date|17.11.2025]]
 

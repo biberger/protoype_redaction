@@ -61,7 +61,7 @@ Die Kosten des Verfahrens werden mit 1.350 Euro bestimmt. Sie sind binnen 14 Tag
 
 Rechtsmittel
 
-Gegen diese Entscheidung ist ein Rechtsmittel an den Obersten Gerichtshof zulässig. Die Frist für die Berufung beträgt vier Wochen ab Zustellung.
+Gegen diese Entscheidung ist ein Rechtsmittel an den [[court|Obersten Gerichtshof]] zulässig. Die Frist für die Berufung beträgt vier Wochen ab Zustellung.
 
 Für die Kommission:
 

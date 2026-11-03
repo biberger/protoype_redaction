@@ -96,4 +96,20 @@ Der Mieter:
 
 (4) Der Mieter verpflichtet sich, die Wohnung nur zu Wohnzwecken zu nutzen. Eine Untervermietung an Dritte ist ohne schriftliche Zustimmung der Vermieterin unzulässig.
 
+§ 10 Rückgabe der Wohnung
+
+(1) Bei Beendigung des Mietverhältnisses hat der Mieter die Wohnung geräumt und gereinigt zurückzugeben. Die Vermieterin nimmt die Wohnung gemeinsam mit dem Mieter ab. Über die Abnahme wird ein Protokoll errichtet, in dem allfällige Schäden und die Zählerstände festgehalten werden.
+
+(2) Schönheitsreparaturen im Umfang von Malerarbeiten an Wänden und Decken hat der Mieter nur dann durchzuführen, wenn sie durch seinen Gebrauch über das übliche Maß hinaus erforderlich geworden sind. Die Kosten für den Austausch von Bodenbelägen, die der Mieter selbst eingebracht hat, trägt der Mieter.
+
+(3) Der Mieter hat sämtliche Schlüssel, Zugangskarten und Fernbedienungen zurückzugeben. Wird ein Schlüssel nicht zurückgegeben, ist die Vermieterin berechtigt, den Schließzylinder auf Kosten des Mieters auszutauschen.
+
+§ 11 Datenschutz
+
+Die Vermieterin verarbeitet die personenbezogenen Daten des Mieters ausschließlich zur Abwicklung dieses Mietvertrags und zur Betriebskostenabrechnung. Der Mieter stimmt der Verarbeitung seiner Daten im Rahmen der [[legal_norm|DSGVO]] und des [[legal_norm|DSG]] zu. Die Vermieterin übermittelt die Daten nur an Dienstleister, die für die Hausverwaltung eingesetzt werden, und an Behörden, soweit eine gesetzliche Verpflichtung besteht.
+
+§ 12 Zustellung
+
+Schriftliche Erklärungen gelten als zugegangen, wenn sie an die zuletzt bekanntgegebene Anschrift des Mieters gerichtet sind. Der Mieter hat Änderungen der Anschrift unverzüglich mitzuteilen. Zustellungen an die Anschrift der Mietwohnung gelten auch dann als wirksam, wenn der Mieter dort nicht mehr wohnt, solange keine neue Anschrift bekanntgegeben wurde.
+
 Anlage: Übergabeprotokoll vom [[date|1. Dezember 2020]], Hausordnung vom [[date|1. Oktober 2020]]

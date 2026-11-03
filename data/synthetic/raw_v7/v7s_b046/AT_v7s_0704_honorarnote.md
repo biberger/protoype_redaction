@@ -43,6 +43,8 @@ Die Leistungen wurden nach dem vereinbarten Honorar für Liegenschaftsangelegenh
 
 Die Honorarnote ist binnen 14 Tagen ab Erhalt auf das Konto mit der IBAN [[bank_account|AT37 1780 3339 4342 1731]] unter Angabe der Kl.-Nr. [[other_identifier|36736]] zu überweisen.
 
+Wir danken für Ihren Auftrag und stehen für weitere Fragen gerne zur Verfügung.
+
 Mit freundlichen Grüßen
 
 Rechtsanwälte GmbH

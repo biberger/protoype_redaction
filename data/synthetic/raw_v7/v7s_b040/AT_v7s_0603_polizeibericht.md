@@ -55,7 +55,7 @@ Die Lenkerin [[person|Neururer]] übergab den Polizeibeamten eine Kopie des Fahr
 
 Der Verkehrsunfall wird als Übertretung nach [[legal_norm|§ 19 Abs 1 StVO]] an die Bezirkshauptmannschaft zur weiteren Veranlassung übermittelt. Eine Strafverfügung ist beabsichtigt.
 
-Aufgenommen durch GrInsp. [[person|Sabine Oberrauner]] und Insp. [[person|Rudolf Haidinger]].
+Aufgenommen durch GrInsp. [[person|Sabine Oberrauner]] und Insp. [[person|Rudolf Haidinger]]. Die Fotodokumentation hat [[person|Oberrauner]] vorgenommen, die Zeugenvernehmung hat [[person|Haidinger]] geführt.
 
 Erhalten: [[person|HAIDINGER Rudolf]], Insp.
 Kopie an: [[person|NEURURER Erdmuthe]], [[person|TSVETKOVA ZINA]]

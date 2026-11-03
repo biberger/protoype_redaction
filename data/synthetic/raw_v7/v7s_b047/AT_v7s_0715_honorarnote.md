@@ -20,7 +20,7 @@ An
 Unser Zeichen: [[other_identifier|CH-CHBernfeld/Gmachl]]
 Tel. [[phone_number|0662/2040224-8]]
 
-[[location|Ybbs an der Donau]], am [[date|30.09.2025]]
+[[location|Ybbs an der Donau]], am [[date|17.10.2025]]
 
 Sehr geehrte Frau [[person|Bernfeld]],
 
@@ -33,12 +33,14 @@ Datum | Leistung | Betrag
 [[date|22.07.2025]] | Besprechung mit Mandantin [[person|BERNFELD ANTONINA]] | 180,00 EUR
 [[date|08.09.2025]] | Schlichtungsversuch, Teilnahme | 480,00 EUR
 [[date|29.09.2025]] | Aktenstudium und Schriftsatz an die Gegenseite | 360,00 EUR
+[[date|06.10.2025]] | Besprechung mit Mandantin [[person|Bernfeld]], Vergleichsvorschlag | 250,00 EUR
+[[date|13.10.2025]] | Telefonat mit Gegenseite, Rückruf, Aktennotiz | 90,00 EUR
 
 Auslagen (Porto, Kopien, Gerichtsgebühren): 96,40 EUR
 
-Zwischensumme netto: 1.791,40 EUR
-20 % USt: 358,28 EUR
-Gesamtbetrag brutto: 2.149,68 EUR
+Zwischensumme netto: 2.131,40 EUR
+20 % USt: 426,28 EUR
+Gesamtbetrag brutto: 2.557,68 EUR
 
 Der Betrag ist binnen 14 Tagen ab Rechnungsdatum auf das Konto der Kanzlei, IBAN [[bank_account|AT88 8623 4080 2259 7426]], zu überweisen. Bitte geben Sie bei der Überweisung das Zeichen [[other_identifier|CH-CHBernfeld/Gmachl]] an.
 

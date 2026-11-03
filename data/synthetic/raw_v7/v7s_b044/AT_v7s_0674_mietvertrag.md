@@ -81,7 +81,7 @@ Die Wohnung wird am Tag des Beginns in ordnungsgemäßem Zustand übergeben. Die
 
 9.3 Der Mieter bestätigt, dass er eine Ausfertigung dieses Vertrages erhalten hat.
 
-9.4 Der Mieter ist verpflichtet, jede Änderung seiner Anschrift und seiner Kontoverbindung der Verwaltung innerhalb von vier Wochen mitzuteilen. Schreiben, die an die zuletzt bekannt gegebene Anschrift gerichtet werden, gelten als zugegangen.
+9.4 Der Mieter ist verpflichtet, jede Änderung seiner Anschrift und seiner Kontoverbindung der Verwaltung innerhalb von vier Wochen mitzuteilen. Schreiben, die an die zuletzt bekannt gegebene Anschrift gerichtet werden, gelten als zugegangen. Dies gilt auch für Schreiben, die an die Wohnung gerichtet werden.
 
 9.5 Für Streitigkeiten aus diesem Vertrag ist das [[court|Bezirksgericht Amstetten]] zuständig, soweit nicht zwingende gesetzliche Bestimmungen etwas anderes vorsehen.
 

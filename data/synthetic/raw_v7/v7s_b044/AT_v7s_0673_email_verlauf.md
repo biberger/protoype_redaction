@@ -30,7 +30,7 @@ Betreff: AW: Verfahren vor dem [[court|LG Salzburg]]
 
 Sehr geehrte Damen und Herren,
 
-die Kontoauszüge sind beigefügt. Die Kaution in Höhe von 2.400 Euro wurde am [[date|1. Juli 2023]] auf das Treuhandkonto der Vermieterin überwiesen. Ich bitte Sie, die Einwendungen bis zum [[date|18. Jänner 2024]] vorzubereiten, damit wir rechtzeitig vor der Tagsatzung reagieren können. Die [[organization|Ronacher Immobilien GmbH]] (in der Folge „[[organization|RIG]]“) hat ihre Vertretung bereits angekündigt, und ich möchte nicht, dass die Einwendungen zu spät kommen.
+die Kontoauszüge sind beigefügt. Die Kaution in Höhe von 2.400 Euro wurde am [[date|1. Juli 2023]] auf das Treuhandkonto der Vermieterin überwiesen. Die Tagsatzung findet laut Ladung im Gerichtsgebäude statt; ich bitte Sie, mich vorab über den Ablauf zu informieren. Ich bitte Sie, die Einwendungen bis zum [[date|18. Jänner 2024]] vorzubereiten, damit wir rechtzeitig vor der Tagsatzung reagieren können. Die [[organization|Ronacher Immobilien GmbH]] (in der Folge „[[organization|RIG]]“) hat ihre Vertretung bereits angekündigt, und ich möchte nicht, dass die Einwendungen zu spät kommen.
 
 Mit freundlichen Grüßen
 
@@ -50,7 +50,7 @@ ich habe die Unterlagen geprüft und mit der Mitteilung der [[organization|RIG]]
 > Sehr geehrte Frau [[person|Marcus]],
 > Herr [[person|Ronacher]] hat mich gebeten, Ihnen mitzuteilen, dass die Kaution wegen der Schäden im Badezimmer nicht zurückgezahlt wird.
 
-Diese Begründung überzeugt mich nicht, weil das Übergabeprotokoll vom [[date|31. Oktober 2023]] die Schäden im Badezimmer nicht ausweist. Ich bitte die [[organization|RIG]] um die Fotos, die bei der Übergabe angefertigt wurden. Ohne diese Fotos können wir die Einwendungen nicht vollständig formulieren.
+Diese Begründung überzeugt mich nicht, zumal Herr [[person|Krsmanović]] keine Quelle für die behaupteten Schäden nennt und die Kaution nach den Angaben der Gegenseite nicht einmal fristgerecht abgerechnet wurde. Das Übergabeprotokoll vom [[date|31. Oktober 2023]] die Schäden im Badezimmer nicht ausweist. Ich bitte die [[organization|RIG]] um die Fotos, die bei der Übergabe angefertigt wurden. Ohne diese Fotos können wir die Einwendungen nicht vollständig formulieren. Eine Verzögerung der Tagsatzung wäre für Sie nicht vorteilhaft.
 
 Mit freundlichen Grüßen
 
@@ -71,7 +71,7 @@ Betreff: AW: Rückgabe der Wohnung
 
 Sehr geehrte Frau [[person|Marcus]],
 
-Herr [[person|Ronacher]] hat mich gebeten, Ihnen mitzuteilen, dass die Kaution wegen der Schäden im Badezimmer nicht zurückgezahlt wird. Die Schadensaufstellung liegt bei, die Fotos der Übergabe werden wir Ihnen nach Abstimmung mit der Verwaltung zur Verfügung stellen.
+Herr [[person|Ronacher]] hat mich gebeten, Ihnen mitzuteilen, dass die Kaution wegen der Schäden im Badezimmer nicht zurückgezahlt wird. Die Schadensaufstellung liegt bei, die Fotos der Übergabe werden wir Ihnen nach Abstimmung mit der Verwaltung zur Verfügung stellen. Die Schadensaufstellung nennt Kosten für die Reinigung des Badezimmers und für den Austausch einer Duschwand, die laut Verwaltung ohne Verschulden des Mieters nicht zu bezahlen sind, soweit sie die übliche Abnützung übersteigen.
 
 Mit freundlichen Grüßen
 
@@ -88,7 +88,9 @@ Guten Abend,
 
 ich habe heute die Ladung zur vorbereitenden Tagsatzung vor dem [[court|LG Salzburg]] erhalten. Die Gegenseite hat die Klage auf Rückzahlung der Mietkaution eingebracht. Herr [[person|Bendix Ronacher]] behauptet, ich hätte die Wohnung in [[location|St. Andrä]] in einem beschädigten Zustand zurückgegeben. Das stimmt nicht, denn die Übergabe wurde mit einem Protokoll dokumentiert, das bei Ihnen liegt.
 
-Bitte prüfen Sie, ob wir die Einwendungen rechtzeitig erheben können. Meine Adresse ist [[address|9571 Albeck]]. Erreichbar bin ich tagsüber unter Tel. [[phone_number|05572/3973898 Durchwahl 71]].
+Bitte prüfen Sie, ob wir die Einwendungen rechtzeitig erheben können. Die Gegenseite hat die Kaution ohne Begründung um die volle Summe gekürzt, obwohl wir Ihnen in der Vergangenheit stets alle Belege vorgelegt haben. Ich habe außerdem die Kontoauszüge von [[date|1. Juli 2023]] bis heute gesammelt, damit wir die Zahlungen lückenlos nachweisen können. Meine Adresse ist [[address|9571 Albeck]]. Erreichbar bin ich tagsüber unter Tel. [[phone_number|05572/3973898 Durchwahl 71]].
+
+Ich stehe für Rückfragen jederzeit zur Verfügung.
 
 Danke und viele Grüße
 

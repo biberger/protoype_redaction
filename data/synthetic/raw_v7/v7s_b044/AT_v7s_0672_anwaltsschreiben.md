@@ -46,6 +46,8 @@ Der Mietwagen war erforderlich, weil unser Mandant das Fahrzeug für seine beruf
 
 Wir ersuchen daher, die Schadenregulierung wieder aufzunehmen und den Betrag von 9.062,40 Euro bis zum [[date|25. März 2025]] anzuweisen. Frau [[person|Veronika Goldgruber]], die den Vorgang bei Ihnen bearbeitet, hat uns am [[date|7. März 2025]] telefonisch eine Prüfung zugesagt. Sie erreichen Frau [[person|Goldgruber]] unter Tel. [[phone_number|02622/2443126-1]].
 
+Für Rückfragen stehe ich Ihnen gerne zur Verfügung. Bitte geben Sie bei jeder Antwort unser Zeichen an, damit die Zuordnung rasch erfolgen kann.
+
 Sollte die Zahlung nicht fristgerecht erfolgen, werden wir die Klage einbringen. Die Kosten der Rechtsverfolgung werden wir in diesem Fall ebenfalls geltend machen. Ab dem Verzugseintritt fordern wir Zinsen in gesetzlicher Höhe, wobei wir uns vorbehalten, die Verzugszinsen nach [[legal_norm|§ 1334 ABGB]] und die Kosten der Rechtsverfolgung gesondert zu berechnen. Einer Ablehnung der Deckung widersprechen wir ausdrücklich; sollte es zu einer Klage kommen, werden wir Ihr Schreiben vom [[date|4. März 2025]] als Beweis vorlegen.
 
 Beilagen:

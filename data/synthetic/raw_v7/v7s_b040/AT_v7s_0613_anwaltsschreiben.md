@@ -24,7 +24,8 @@ Betreff: Grundbuch [[land_register_id|EZ 1838]] / [[land_register_id|GB 66992 Ba
 
 Sehr geehrte Damen und Herren,
 
-in der Angelegenheit des Herrn [[person|Ernest Grünfeld]], geb [[date_of_birth|9. Juli 1971]], zeigen wir die anwaltliche Vertretung an. Der Mandant hat uns mit der Durchsetzung seiner Ansprüche aus dem Kaufvertrag über die oben genannte Liegenschaft beauftragt.
+in der Angelegenheit des Herrn [[person|Ernest
+Grünfeld]], geb [[date_of_birth|9. Juli 1971]], zeigen wir die anwaltliche Vertretung an. Der Mandant hat uns mit der Durchsetzung seiner Ansprüche aus dem Kaufvertrag über die oben genannte Liegenschaft beauftragt.
 
 Die [[organization|Weiler KG]] (in der Folge [[organization|Weiler]], [[company_register_number|FN 599119h]], UID: [[tax_id|ATU33122402]]) ist im Grundbuch als Eigentümerin eingetragen. Unser Mandant hat der [[organization|Weiler]] im Jahr 2024 einen Teil des Kaufpreises bezahlt, die Übergabe der Liegenschaft ist jedoch bis heute nicht erfolgt.
 

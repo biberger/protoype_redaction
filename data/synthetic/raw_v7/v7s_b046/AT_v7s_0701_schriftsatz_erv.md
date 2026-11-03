@@ -55,7 +55,7 @@ Begründung:
 
 9. Die Zuständigkeit des [[court|BG Scheibbs]] wird nicht bestritten. Der Streitwert ist richtig bewertet.
 
-10. Die Klägerin hat in einem Telefonat mit dem Geschäftsführer [[person|Lampert]] am [[date|22.07.2024]] zugestanden, dass die Lieferung vollständig erfolgt ist. Diese Erklärung wird durch die Zeugin [[person|Kovačević]] gestützt, die bei dem Gespräch im Büro anwesend war. Die Klägerin hat erst nach Ablauf von vier Wochen behauptet, die Ware sei nicht vollständig gewesen.
+10. Die Klägerin hat in einem Telefonat mit dem Geschäftsführer [[person|Lampert]] am [[date|22.07.2024]] zugestanden, dass die Lieferung vollständig erfolgt ist. Diese Erklärung wird durch die Zeugin [[person|Kovačević]] gestützt, die bei dem Gespräch im Büro anwesend war. Die Klägerin hat erst nach Ablauf von vier Wochen behauptet, die Ware sei nicht vollständig gewesen. Diese spätere Behauptung ist mit ihrem eigenen Telefonvermerk nicht in Einklang zu bringen, weshalb die beklagte Partei sie ausdrücklich bestreitet.
 
 11. Die Kosten der Zustellung der Mahnung vom [[date|12.09.2024]] wurden von der Klägerin nicht bestritten. Die beklagte Partei hat die Mahnkosten daher im Rahmen ihrer Widerklage vorbehalten.
 
@@ -74,7 +74,7 @@ Beilagen:
 ./1 Übernahmequittung vom [[date|02.07.2024]]
 ./2 Telefonnotiz vom [[date|09.07.2024]]
 
-Die Beilagen werden in elektronischer Form über ERV übermittelt.
+Die Beilagen werden in elektronischer Form über ERV übermittelt; die Originalquittung wird auf Verlangen des Gerichts vorgelegt.
 
 Telefonische Rückfragen: Tel. [[phone_number|+43-316-1328194-66]]
 

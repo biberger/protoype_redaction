@@ -64,7 +64,7 @@ VI. Übergabe und Gewährleistung
 
 3. Die Verkäuferin übergibt die Liegenschaft frei von Mietern und Pächtern. Die Übergabe wird durch ein Protokoll dokumentiert, das von beiden Vertragsparteien und der Treuhänderin unterfertigt wird. Eine Besitzübergabe durch Schlüsselübergabe vor der Einverleibung ist nicht vorgesehen.
 
-4. Die Käuferin erklärt, dass sie die Liegenschaft vor Vertragsabschluss besichtigt hat und den Zustand kennt.
+4. Die Käuferin erklärt, dass sie die Liegenschaft vor Vertragsabschluss besichtigt hat und den Zustand kennt. Sie verzichtet auf Gewährleistungsansprüche wegen offensichtlicher Mängel. Die Verkäuferin übernimmt keine Haftung für Schäden, die nach der Besichtigung eintreten.
 
 VII. Schlussbestimmungen
 
@@ -74,7 +74,7 @@ VII. Schlussbestimmungen
 
 3. Die Vertragsparteien erklären, dass sie den Vertrag gelesen und verstanden haben. Die Verkäuferin bestätigt, dass sie über die Rechtsfolgen der Aufsandungserklärung belehrt wurde.
 
-4. Sollte eine Bestimmung unwirksam sein, bleibt der übrige Vertrag wirksam.
+4. Sollte eine Bestimmung unwirksam sein, bleibt der übrige Vertrag wirksam. Nebenabreden, die im Zuge der Vertragserrichtung getroffen wurden, sind in diesem Vertrag vollständig enthalten.
 
 VIII. Zustimmungen, Vollmachten und Erklärungen
 

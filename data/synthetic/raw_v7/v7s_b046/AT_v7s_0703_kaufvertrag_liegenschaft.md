@@ -122,6 +122,10 @@ VIII. Ergänzende Erklärungen der Käufer
 
 5. Die Kanzlei hat die Parteien darauf hingewiesen, dass eine Wohnsitzmeldung der Käufer am Ort der Liegenschaft für die Einreichung beim Finanzamt erforderlich sein kann. Die Käufer bestätigen die Meldung zum Stichtag.
 
+6. Die Verkäuferin verpflichtet sich, bis zur Übergabe alle offenen Rechnungen für Wasser, Strom und Müllabfuhr zu begleichen und die Belege den Käufern zu übergeben. Ein offener Betrag von EUR 386,20, den die Verkäuferin dem Versorgungsunternehmen schuldet, wird vom Kaufpreis einbehalten und an das Unternehmen überwiesen.
+
+7. Die Parteien vereinbaren, dass Erklärungen gegenüber den anderen Vertragsparteien über die Kanzlei abgegeben werden können. Die Zustellung an die Kanzlei gilt als Zustellung an alle Parteien; eine Adressänderung ist der Kanzlei unverzüglich mitzuteilen.
+
 Der Vertrag wurde in einer Ausfertigung für jede Partei errichtet.
 
 [[location|Hartl]], am [[date|27.10.2026]]

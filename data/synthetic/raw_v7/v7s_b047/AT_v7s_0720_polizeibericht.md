@@ -50,7 +50,15 @@ Fahrzeug und Identifikation
 
 Das Fahrzeug von [[person|Mildner]] trägt das Kennzeichen [[license_plate|MI-1280 I]], FIN [[other_identifier|8F5P6PP8GAZHX67ZM]] ist im Zulassungsschein eingetragen. Das Fahrzeug von [[person|Miloš]] war in [[location|Schwarzenau]] zugelassen und trägt das Kennzeichen [[license_plate|E 7595 GY]]. [[person|Suljic]] war als Fußgängerin am Fahrbahnrand unterwegs und wurde nicht verletzt.
 
+Die Unfallstelle wurde um 08:05 Uhr durch die Dienststelle gesichert und vermessen. Auf der Fahrbahn wurden Glassplitter, Kunststoffteile und Bremsspuren von etwa 14 Metern Länge festgestellt, die dem Pkw des Herrn [[person|Miloš]] zugeordnet wurden. Die Fotos der Unfallstelle wurden digital gesichert und liegen dem Bericht bei. Ein Alkomattest bei beiden Lenkern verlief negativ.
+
+Am Pkw von [[person|Mildner]] entstanden Schäden an der linken vorderen Tür, am Kotflügel und an der Windschutzscheibe; das Fahrzeug war nicht mehr fahrbereit und wurde abgeschleppt. Am Fahrzeug von [[person|Miloš]] wurde die rechte Front stark eingedrückt, der Beifahrerairbag hat ausgelöst. Beide Fahrzeuge wurden auf den Sammelplatz der [[organization|Feuerwehr Schwarzenau]] verbracht.
+
+Der Zeuge [[person|Pichler]] wurde am [[date|15.10.2022]] telefonisch ergänzend befragt. Er gab an, er habe den Pkw von [[person|Mildner]] bereits vor der Kreuzung gesehen und den Eindruck gehabt, dass die Lenkerin die Geschwindigkeit nicht verringert habe. Eine Videoaufnahme vom Gasthof existiert nicht.
+
 Die Identität der Beteiligten wurde anhand der vorgelegten Dokumente geprüft. Die Nummer des Reisepasses von [[person|Mildner]] wurde mit [[id_document_number|S1937138]] festgestellt; [[person|Suljic]] legte den Personalausweis [[id_document_number|E6561133]] vor.
+
+Die Anzeige umfasst zudem die Frage, ob die Sichtverhältnisse bei der Einfahrt in die Kreuzung durch den Bewuchs eingeschränkt waren. Die Straßenmeisterei wurde ersucht, den Bewuchs am Kreuzungsrand zu überprüfen; das Ergebnis wird nachgereicht.
 
 Anzeige
 
