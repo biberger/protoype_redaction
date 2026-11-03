@@ -49,7 +49,7 @@ II. Rechtliche Beurteilung
 
 6a. Der Kläger hat die Mängelrüge vorprozessual mehrfach wiederholt. Mit Schreiben vom [[date|4. November 2025]] hat [[person|Krakauer]] für die [[organization|Hubatschek]] jede Verantwortung zurückgewiesen, weil der Wagen „wie besichtigt“ übergeben worden sei. Ein Vergleichsangebot über 6.000 Euro hat der Kläger am [[date|20. November 2025]] abgelehnt, weil es den Motorschaden nicht abdeckte.
 
-7. Das [[court|BG Innere Stadt Wien]] ist nach [[legal_norm|§ 49 JN]] sachlich zuständig. Die örtliche Zuständigkeit folgt aus [[legal_norm|§ 75 JN]], weil der Erfüllungsort in [[location|Wien]] liegt.
+7. Das [[court|BG Innere Stadt Wien]] ist nach [[legal_norm|§ 49 JN]] sachlich zuständig. Die örtliche Zuständigkeit folgt aus [[legal_norm|§ 75 JN]], weil der Erfüllungsort in [[location|Wien]] liegt. Die Kosten des Rechtsstreits sind nach dem Obsiegen gemäß [[legal_norm|§ 41 ZPO]] zu ersetzen, die Verzeichnung der Kosten folgt als gesonderte Beilage.
 
 6b. Die Klage ist rechtzeitig eingebracht. Der Kläger hat den Motorschaden erst nach dem Gutachten vom [[date|12. Februar 2026]] erkannt, das die Ursache des Ausfalls im Kurbelgehäuse verortet. Die dreijährige Frist des [[legal_norm|§ 1489 ABGB]] ist daher gewahrt. Der Kläger hat außerdem die Kosten für die Abschleppung des Fahrzeugs am [[date|6. Mai 2024]] vorgestreckt, die ebenfalls Gegenstand des Begehrens sind.
 

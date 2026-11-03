@@ -57,7 +57,7 @@ Passiva
 
 Der Erblasser hat Verbindlichkeiten aus einem Kreditvertrag. Die Forderungen werden nach dem Inventar geordnet, die Begräbniskosten in Höhe von 4.800 Euro sind vorrangig zu berücksichtigen.
 
-Die Verlassenschaft bleibt bis zur Einantwortung im Besitz der Liegenschaften. Die Erbin [[person|Miesenböck]] hat die Verwaltung der Wohnung übernommen und ist dafür mit Zustimmung des Gerichts zur Entgegennahme der Mieten berechtigt.
+Die Verlassenschaft bleibt bis zur Einantwortung im Besitz der Liegenschaften. Die Erbin [[person|Miesenböck]] hat die Verwaltung der Wohnung übernommen und ist dafür mit Zustimmung des Gerichts zur Entgegennahme der Mieten berechtigt. Die Mieten sind auf ein eigenes Verlassenschaftskonto einzuzahlen, über das nur mit Zustimmung des Notars verfügt werden darf. Laufende Betriebskosten, Versicherungsprämien und die Grundsteuer sind aus diesem Konto zu bedienen, solange die Liegenschaften im Nachlass verbleiben. Die Verwaltungskosten werden gesondert verzeichnet und dem Inventar als Beilage angeschlossen.
 
 Ergänzende Angaben
 

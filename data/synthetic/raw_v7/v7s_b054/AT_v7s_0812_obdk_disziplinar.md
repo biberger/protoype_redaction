@@ -29,17 +29,17 @@ Begründung
 
 1. Sachverhalt
 
-Der Beschuldigte betrieb im Tatzeitraum eine Kanzlei und wohnte im Sprengel des Rechtsanwaltskammer in [[address|9622 Gitschtal]]. Er übernahm als Treuhänder mehrere Vermögenswerte von Klienten, die auf dem Treuhandkonto verwahrt werden sollten. Die Bewegungen auf diesem Konto sind aus den vorgelegten Kontoauszügen und den Treuhandbüchern nachvollziehbar.
+Der Beschuldigte betrieb im Tatzeitraum eine Kanzlei im Sprengel der Rechtsanwaltskammer für Kärnten und wohnte in [[address|9622 Gitschtal]]. Er übernahm als Treuhänder mehrere Vermögenswerte von Klienten, die auf dem Treuhandkonto verwahrt werden sollten. Die Bewegungen auf diesem Konto sind aus den vorgelegten Kontoauszügen und den Treuhandbüchern nachvollziehbar.
 
 Die Klientin [[person|Irina Schroth]] übergab dem Beschuldigten am [[date|04.05.2021]] einen Betrag von EUR 12.400,00 aus einem Vergleich. Der Beschuldigte bestätigte den Eingang schriftlich unter Treuhandschaft Nr. [[other_identifier|2021/084]]. Die Auszahlung an die Klientin unterblieb.
 
 Die Bewegungen auf dem Treuhandkonto stellen sich nach dem Akt wie folgt dar:
 
 Datum | Vorgang | Betrag EUR | Klientin
-[[date|04.05.2021]] | Einzahlung Vergleichsbetrag | 12.400,00 | Irina Schroth
-[[date|17.05.2021]] | Auszahlung an Gegenseite | 9.000,00 | Irina Schroth
-[[date|02.06.2021]] | Gebührennote, nicht genehmigt | 2.150,00 | Irina Schroth
-[[date|11.11.2022]] | Überweisung ohne Verwendungszweck | 1.250,00 | Pamina Gritsch
+[[date|04.05.2021]] | Einzahlung Vergleichsbetrag | 12.400,00 | [[person|Irina Schroth]]
+[[date|17.05.2021]] | Auszahlung an Gegenseite | 9.000,00 | [[person|Irina Schroth]]
+[[date|02.06.2021]] | Gebührennote, nicht genehmigt | 2.150,00 | [[person|Irina Schroth]]
+[[date|11.11.2022]] | Überweisung ohne Verwendungszweck | 1.250,00 | [[person|Pamina Gritsch]]
 
 Die Klientin [[person|Schroth]] hat am [[date|19.07.2023]] bei der Kammer Beschwerde erhoben. Der Beschuldigte rechtfertigte sich, dass er die Gebührennote mit der Klientin mündlich vereinbart habe. Eine schriftliche Vereinbarung liegt nicht vor.
 
@@ -51,7 +51,9 @@ Die Anzeige der Kammer trägt das Zeichen [[other_identifier|BCD-BCDMeder/Hertel
 
 Der Senat stützt sich auf die Kontoauszüge, auf die Aussagen der Klientinnen und auf die Stellungnahme des Beschuldigten. Die Aussage des Beschuldigten, die Gebührennote sei mündlich vereinbart worden, ist durch keinen Beleg gedeckt. Die Kammeranwältin [[person|Dr. Grit Jaksch]] hat in der Verhandlung ausgeführt, dass die Beträge nicht zeitgerecht ausgefolgt wurden.
 
-Die Glaubwürdigkeit der Klientin [[person|Schroth]] ist nach Ansicht des Senats nicht erschüttert. Die Angaben der Klientin [[person|Gritsch]] decken sich mit den Buchungen.
+Die Glaubwürdigkeit der Klientin [[person|Schroth]] ist nach Ansicht des Senats nicht erschüttert. Die Angaben der Klientin [[person|Gritsch]] decken sich mit den Buchungen. Sie hat dem Senat geschildert, dass sie den Betrag als Anzahlung für ein Verfahren übergeben hat, das nie eingeleitet wurde. Der Beschuldigte hat den Betrag nicht zurückgezahlt, bevor die Kammer ihn dazu aufforderte. Ein Schreiben vom [[date|03.12.2022]], mit dem [[person|Gritsch]] die Rückzahlung verlangte, blieb ohne Antwort.
+
+Die Kammeranwältin beantragte in der Verhandlung eine Geldbuße von EUR 5.000,00 sowie die Auflage, die Treuhandbücher für die Jahre 2021 und 2022 dem Ausschuss vorzulegen. Der Beschuldigte beantragte, von einer Strafe abzusehen, da die Gebühren nach seiner Ansicht zustanden und er den Fehler eingesehen habe. Der Senat folgt dem Antrag auf Abstandnahme nicht, weil die Verletzung nicht geringfügig ist.
 
 3. Rechtliche Beurteilung
 

@@ -35,7 +35,7 @@ Wir fordern Sie daher auf, bis [[date|2. November 2026]] die Mängel zu beheben 
 
 Die Monteure haben bei der Übergabe ein Protokoll unterzeichnet, in dem die Vorlauftemperatur mit 48 Grad angegeben ist. Die Anlage ist jedoch für 55 Grad ausgelegt, sodass der Wirkungsgrad deutlich unter dem vereinbarten Wert liegt. Unsere Mandantin hat den Stromverbrauch seit der Umstellung monatlich dokumentiert. Die Mehrkosten gegenüber dem Vorjahr betragen nach dieser Aufstellung rund 640 Euro je Monat in den Wintermonaten.
 
-Die Mitteilung von Herrn [[person|Stoynov]] vom [[date|18. September 2026]], wonach die Anlage nach einer Nachjustierung in Ordnung sei, hat unsere Mandantin nicht bestätigt. Eine Messung durch einen unabhängigen Installateur hat dies nicht bestätigt. Wir werden das Messprotokoll auf Wunsch zur Verfügung stellen.
+Die Mitteilung von Herrn [[person|Stoynov]] vom [[date|18. September 2026]], wonach die Anlage nach einer Nachjustierung in Ordnung sei, hat unsere Mandantin nicht bestätigt. Eine Messung durch einen unabhängigen Installateur hat dies nicht bestätigt. Wir werden das Messprotokoll auf Wunsch zur Verfügung stellen. Die Kosten dieser Messung trägt unsere Mandantin vorläufig, sie werden jedoch im Falle eines Obsiegens in die Klage aufgenommen. Eine Einigung über die Nachbesserung ohne Gerichtsverfahren halten wir weiterhin für möglich, sofern die Mängelbehebung innerhalb der genannten Frist erfolgt.
 
 Bitte richten Sie künftige Schreiben an unsere Kanzlei und geben Sie stets das Zeichen [[other_identifier|KZ/Gehrer/1182]] an.
 

@@ -61,6 +61,8 @@ Die Strafbemessung
 
 Die Geldbuße von 9.000 Euro berücksichtigt den Umfang der Verletzung und die Dauer von fünf Monaten. Erschwerend wirkt die Vermischung von Treuhandgeldern verschiedener Klienten. Mildernd wirkt, dass der Beschuldigte die Summe von 12.000 Euro bereits im Jahr 2022 an den Klienten zurückgezahlt hat.
 
+Bei der Bemessung hat der Senat auch berücksichtigt, dass der Beschuldigte die Treuhandschaft über mehrere Jahre hinweg ohne eigene Kontrolle der Buchungen geführt hat. Die Verantwortung für die Ordnung des Treuhandbuchs liegt jedoch unmittelbar bei ihm als Kanzleiinhaber, sodass dieser Umstand nicht entlastend wirkt.
+
 Der Senat hat von einer Ausschließung abgesehen. Eine Ausschließung wäre nach [[legal_norm|§ 45 Abs 1 RAO]] nur bei schwerwiegender und fortgesetzter Pflichtverletzung zu verhängen.
 
 Die Kosten
