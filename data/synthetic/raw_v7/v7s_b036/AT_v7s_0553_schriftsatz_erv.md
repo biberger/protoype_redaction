@@ -59,7 +59,7 @@ Die Einverleibung wird daher beantragt. Die Verkäuferin hat keine weiteren Rech
 
 Der Streitwert bemisst sich nach dem vereinbarten Kaufpreis, der auf den abzutrennenden Teil und auf die verbleibende Fläche aufgeteilt wurde. Die Gerichtsgebühr für den Antrag wurde entrichtet; der Zahlungsnachweis wird mit dem ERV-Schriftsatz übermittelt. Die Antragsgegnerin hat die Kosten der Eintragung zu tragen, soweit das Gericht dies nach dem Grundsatz des Erfolgs entscheidet.
 
-Die Abtrennung der Teilfläche entspricht dem Teilungsplan des Vermessungsamts, der dem Gericht bereits vorgelegt wurde. Die Teilfläche ist im Plan als eigenes Grundstück gekennzeichnet und wurde mit einer Fläche von rund 212 Quadratmetern vermessen.
+Die Antragsgegnerin hat zudem auf die Anfrage des Antragstellers vom [[date|12.01.2026]] nicht reagiert, sodass das Vorbringen zur Zustimmung als unbestritten zu werten ist. Die Abtrennung der Teilfläche entspricht dem Teilungsplan des Vermessungsamts, der dem Gericht bereits vorgelegt wurde. Die Teilfläche ist im Plan als eigenes Grundstück gekennzeichnet und wurde mit einer Fläche von rund 212 Quadratmetern vermessen.
 
 III. Ergänzendes zur Lastenlage
 

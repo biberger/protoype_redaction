@@ -1,0 +1,56 @@
+---
+doc_type: verlassenschaft
+jurisdiction: AT
+lang: de
+---
+Notariat
+[[person|Kulka]], [[person|Steinmann]]
+[[address|Karmelweg 58, 3372 Blindenmarkt]]
+T: [[phone_number|+43 2742 443 87 54]]  F: [[phone_number|07472/9750266-3]]
+E: [[email|office@kulka.at]]  W: www.kulka.at
+UID: [[tax_id|ATU23189127]]
+[[organization|Hypo Tirol Bank AG]] IBAN: [[bank_account|AT95 1873 0954 4551 3235]] BIC: [[bank_account|SPIHAT22]]
+
+GZ 2 A 417/26 y
+[[court|Bezirksgericht St. Pölten]]
+
+Einantwortungsurkunde und Verlassenschaftsabhandlung
+
+Verlassenschaftssache nach [[person|Reinmar Held]], GEB: [[date_of_birth|2001-02-22]], zuletzt wohnhaft in [[location|St. Pölten]], verstorben am [[date|21.08.2026]].
+
+Der Notar [[person|Kulka]] hat als Gerichtskommissär die Verlassenschaftsabhandlung am [[date|2. Oktober 2026]] durchgeführt. Die Erbserklärungen wurden abgegeben, die Gläubiger wurden aufgefordert, ihre Forderungen anzumelden. Die Abhandlung wurde im Protokoll wie folgt festgehalten:
+
+Erben nach dem Verstorbenen:
+1. [[person|Walfrieda Kaltenböck]], *[[date_of_birth|06.07.2002]], Erbquote 1/2 auf Grund letztwilliger Verfügung,
+2. [[person|Joris Gradwohl]], Geburtsdatum: [[date_of_birth|23.12.1968]], Erbquote 1/2 auf Grund gesetzlicher Erbfolge.
+
+Gläubiger der Verlassenschaft:
+- [[person|Agnello Garibaldi]], geb [[date_of_birth|27.07.1986]], Forderung aus einem Darlehen von EUR 4.800,00
+- [[person|Hela Dipl.-Ing. Dugandzic]], *[[date_of_birth|1971-07-12]], Forderung aus Werkleistungen von EUR 2.350,00
+- [[person|Roderich Sternberg]], geb. [[date_of_birth|6. Februar 1966]], Forderung aus einem Mietrückstand von EUR 1.120,00
+
+Verzeichnis des Nachlasses:
+
+Liegenschaft: Liegenschaftsanteil an der Liegenschaft, eingetragen im Grundbuch:
+[[land_register_id|KG 30262]], [[land_register_id|EZ 1808]], [[land_register_id|Parz. 639]]
+
+Einlagezahl [[land_register_id|1790]] [[land_register_id|KG 53565 Rossatz-Arnsdorf]] ([[court|BG St. Pölten]]); [[land_register_id|Gst-Nr. 1016]]
+
+Bankguthaben: Konto bei der Hypo Tirol Bank AG, IBAN [[bank_account|AT08 7782 3914 4900 0241]], Guthaben EUR 12.430,18.
+
+Versicherungen: Lebensversicherung, Polizzen-Nr. [[other_identifier|73-5968152]], Rückkaufswert EUR 6.900,00.
+
+Verträge: Mietvertrag, Vertragsnummer [[other_identifier|KV-2015-55342]], und Telekommunikationsvertrag, Vertragsnummer [[other_identifier|V-2025-80975]].
+
+Wohnsitz des Erben Gradwohl: [[address|3654 Raxendorf]]
+
+Ausgleichung und Nachlassreinerlös: Die Liegenschaft ist mit einem Verkehrswert von EUR 185.000,00 bewertet. Nach Abzug der Passiva von EUR 8.270,00 und der Bestattungskosten verbleibt ein Reinerlös, der den Erben im Verhältnis ihrer Quoten zukommt.
+
+Die Erbquote des Erben Gradwohl ist durch die Erbserklärung nicht eindeutig festgelegt. Der Notar hat daher das Verhältnis nach dem Testament ermittelt, das [[person|Held]] am [[date|3. März 2019]] errichtet hatte.
+
+Die Einantwortung erfolgt nach Ablauf der Frist zur Anmeldung der Forderungen. Die Gläubiger sind mit der Abhandlung einverstanden, soweit ihre Forderungen gedeckt sind.
+
+Ausgefertigt in [[location|St. Pölten]] am [[date|2. Oktober 2026]].
+
+[[person|Kulka]] e.h.
+Gerichtskommissär

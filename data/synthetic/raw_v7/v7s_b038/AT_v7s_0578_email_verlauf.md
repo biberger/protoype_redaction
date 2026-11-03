@@ -72,3 +72,23 @@ Mit freundlichen Grüßen
 
 [[person|Lidwina Berchtold]]
 Sekretariat [[organization|Krause, Graff, Çelik]] ([[organization|KGC]])
+
+---
+
+Von: [[person|Greta Eberharter]] <[[email|g.eberharter@mail.at]]>
+Gesendet: Freitag, [[date|11. September 2026]], 07:49
+An: [[person|Don Waldherr]] <[[email|d.waldherr@gmx.at]]>
+Cc: [[person|Lidwina Berchtold]] <[[email|l.berchtold@krause.at]]>
+Betreff: AW: AW: AW: Ihre Klientin, Schriftsatz [[court|Bezirksgericht Steyr]]
+
+Sehr geehrter Herr [[person|Waldherr]],
+
+vielen Dank für Ihre Rückmeldung und für die Angabe der Referenz. Ich habe die Akte entsprechend umbenannt und die Unterlagen an unsere Gutachterin weitergeleitet. Die Gutachterin hat bestätigt, dass die Besichtigung am [[date|21. September 2026]] stattfinden kann, sofern die Zufahrt zum Grundstück frei ist.
+
+Frau [[person|Feichtlbauer]] hat mir mitgeteilt, dass sie die Übergabe der Unterlagen persönlich vornehmen möchte. Ich schlage vor, dass wir einen gemeinsamen Termin in unserer Kanzlei am [[date|16. September 2026]] vereinbaren, damit die Vollständigkeit der Belege geprüft werden kann.
+
+Ich ersuche Sie außerdem, mir die Eingangsbestätigung des Gerichts in Kopie zu übermitteln, damit wir sie der Akte beilegen können.
+
+Mit freundlichen Grüßen
+
+[[person|Greta Eberharter]]

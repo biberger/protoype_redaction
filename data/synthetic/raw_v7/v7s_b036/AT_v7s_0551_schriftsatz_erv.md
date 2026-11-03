@@ -44,7 +44,7 @@ I. Vorbringen
 
 Zur Streitverkündung ist festzuhalten, dass die [[person|Aicher]] ihren Beitritt zum Verfahren bisher nicht erklärt hat. Die Beklagte hat sie daher förmlich aufgefordert, dem Verfahren beizutreten und sich zu den Behauptungen der Klägerin zu äußern. Die Frist dafür läuft nach der Zustellung dieses Schriftsatzes; ein Beitritt ist im Interesse der Beklagten, weil nur so die Feststellungen zur Planung im Verfahren verbindlich werden.
 
-Die Klägerin hat die Schadenhöhe zunächst mit einem Gutachten eines Bausachverständigen belegt, das jedoch nur die Sanierungskosten für das Dachgeschoss umfasst. Eine Aufstellung der Positionen für die Wohnung selbst fehlt; die Beklagte bestreitet deshalb die Höhe der geltend gemachten Positionen mit Nichtwissen.
+Die Klägerin hat die Schadenhöhe zunächst mit einem Gutachten, das am [[date|17.01.2025]] erstellt wurde, und einem weiteren Kostenvoranschlag belegt. Die Klägerin hat die Schadenhöhe zunächst mit einem Gutachten eines Bausachverständigen belegt, das jedoch nur die Sanierungskosten für das Dachgeschoss umfasst. Eine Aufstellung der Positionen für die Wohnung selbst fehlt; die Beklagte bestreitet deshalb die Höhe der geltend gemachten Positionen mit Nichtwissen.
 
 Die Klägerin hat außerdem in ihrer Klage eine Wertsicherung des Schadenersatzes verlangt, die nach dem Verbraucherpreisindex berechnet werden soll. Eine solche Wertsicherung ist im Schadenersatzrecht nur ausnahmsweise zu gewähren, wenn der Schaden über einen längeren Zeitraum hinweg zu erstatten ist. Dies ist hier nicht der Fall, weil die Sanierung bereits abgeschlossen ist.
 

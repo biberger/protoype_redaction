@@ -54,6 +54,8 @@ IBAN: [[bank_account|AT95 2257 7534 2507 3727]]
 
 3. Der Mietzins wird jährlich mit dem Verbraucherpreisindex 2020 wertgesichert. Die Anpassung erfolgt jeweils zum 1. Februar eines Jahres.
 
+4. Die Vertragsgebühr nach dem [[legal_norm|Gebührengesetz]] wird von den Parteien je zur Hälfte getragen. Die Stempelgebühr für die Vertragsausfertigung trägt die Mieterin allein. Die Vermieterin verpflichtet sich, die Gebühr fristgerecht abzuführen und der Mieterin eine Abschrift der Anzeige zu übermitteln.
+
 V. Kaution
 
 Die Mieterin hat eine Mietkaution in Höhe von EUR 3.720,00 erlegt. Die Kaution wird vom Vermieter treuhändig verwaltet und nach Ende des Mietverhältnisses unter Abzug allfälliger Forderungen rückerstattet.
@@ -71,6 +73,10 @@ VI a. Betriebskosten und Parkflächen
 2. Die Mieterin darf den Hof zum Be- und Entladen nutzen. Parkplätze sind nicht Bestandteil dieses Vertrags. Die Mieterin hat die Zufahrt zum Hof jederzeit frei zu halten, insbesondere für Feuerwehr und Rettung.
 
 3. Werbeanlagen an der Fassade bedürfen der Zustimmung der Vermieterin und der Bewilligung der Gemeinde. Die Kosten einer allfälligen Entfernung trägt die Mieterin.
+
+4. Müllbehälter werden von der Gemeinde gestellt. Die Mieterin hat Gewerbemüll getrennt zu entsorgen und die Entsorgungsnachweise auf Verlangen der Vermieterin vorzulegen. Sperrmüll und Altöle dürfen nicht in den Hausmüll gegeben werden.
+
+5. Die Mieterin ist berechtigt, im Schaufenster Werbung anzubringen, die dem Verwendungszweck entspricht. Die Vermieterin hat ihre Zustimmung zu erteilen, sofern die Werbung den Hausfrieden nicht stört.
 
 VII. Schlussbestimmungen
 

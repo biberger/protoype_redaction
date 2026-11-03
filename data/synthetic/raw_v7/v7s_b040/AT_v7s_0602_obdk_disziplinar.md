@@ -11,7 +11,7 @@ Zl. [[case_number|DSR 14/2025]]
 
 ERKENNTNIS
 
-Der Disziplinarrat der Steiermärkischen Rechtsanwaltskammer hat unter dem Vorsitz von [[judge|Mag. Antonius Pinter]] als Vorsitzendem sowie den Beisitzern [[judge|Aristide Sammartino]] und [[judge|MMag. Meinhart Haiböck]], geb [[date_of_birth|1954-06-07]], in Gegenwart der Kammeranwältin [[person|Estrelle Preiß]] und der Schriftführerin [[person|Britta Schermann]] in der Disziplinarsache gegen die Rechtsanwältin [[lawyer|Maja Koszutska]], [[location|Graz]], wegen des Verdachtes der Verletzung von Berufspflichten nach [[legal_norm|§ 1 Abs 1 RAO]] iVm [[legal_norm|§ 43a Abs 1 RAO]] nach öffentlicher mündlicher Verhandlung am [[date|17. März 2026]] in [[location|St. Martin im Mühlkreis]] zu Recht erkannt:
+Der [[court|Disziplinarrat der Steiermärkischen Rechtsanwaltskammer]] hat unter dem Vorsitz von [[judge|Mag. Antonius Pinter]] als Vorsitzendem sowie den Beisitzern [[judge|Aristide Sammartino]] und [[judge|MMag. Meinhart Haiböck]], geb [[date_of_birth|1954-06-07]], in Gegenwart der Kammeranwältin [[person|Estrelle Preiß]] und der Schriftführerin [[person|Britta Schermann]] in der Disziplinarsache gegen die Rechtsanwältin [[lawyer|Maja Koszutska]], [[location|Graz]], wegen des Verdachtes der Verletzung von Berufspflichten nach [[legal_norm|§ 1 Abs 1 RAO]] iVm [[legal_norm|§ 43a Abs 1 RAO]] nach öffentlicher mündlicher Verhandlung am [[date|17. März 2026]] in [[location|St. Martin im Mühlkreis]] zu Recht erkannt:
 
 Spruch
 
