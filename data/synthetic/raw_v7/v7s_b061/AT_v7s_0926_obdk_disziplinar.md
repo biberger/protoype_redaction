@@ -17,7 +17,7 @@ III. Die Beschuldigte hat die Kosten des Verfahrens im Ausmaß von EUR 690,00 zu
 
 I. Verfahrensgang
 
-Die [[organization|Rechtsanwaltskammer für Kärnten]] ([[organization|RAKK]]) hat auf Grund der Beschwerde der Klientin [[person|Santis]] vom [[date|17.06.2025]] die Disziplinaranzeige erstattet. Die Klientin hatte der Beschuldigten einen Betrag von EUR 15.000,00 zur Verwahrung übergeben, damit er zur Ablöse eines Darlehens verwendet werde.
+Die [[organization|Rechtsanwaltskammer für Kärnten]] ([[organization|RAKK]]) hat auf Grund der Beschwerde der Klientin [[person|Santis]] vom [[date|17.06.2025]] die Disziplinaranzeige erstattet. Die Klientin hatte der Beschuldigten einen Betrag von EUR 15.000,00 zur Verwahrung übergeben, damit dieser Betrag zur Ablöse eines Darlehens verwendet werde.
 
 Die Kanzlei der Beschuldigten ist laut Briefkopf unter Tel. [[phone_number|+43-2622-5069045-8]] erreichbar. Die [[organization|RAKK]] hat die Rückzahlung der Treuhandschaft nach der Beschwerde überwacht und die Unterlagen vollständig vorgelegt.
 

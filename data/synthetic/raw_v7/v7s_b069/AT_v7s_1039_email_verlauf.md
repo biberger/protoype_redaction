@@ -34,7 +34,6 @@ die Lastenfreistellung wurde mit Schreiben vom [[date|25.09.2026]] angekündigt.
 Mit freundlichen Grüßen
 
 [[lawyer|Sauter]]
-Rechtsanwältin
 
 Rechtsanwältin
 [[person|Sauter]]

@@ -16,9 +16,13 @@ KAUFVERTRAG
 
 abgeschlossen am [[date|14. September 2026]] zwischen
 
-1. Verkäuferin: [[person|Anja Zsigmondy]], GEB: [[date_of_birth|2. August 1987]], wohnhaft in [[address|4831 Obertraun]], und
+1. Verkäuferin: [[person|Anja Zsigmondy]],
+GEB: [[date_of_birth|2. August 1987]],
+wohnhaft in [[address|4831 Obertraun]], und
 
-2. Käufer: [[person|Ringer Packratz]], geb. [[date_of_birth|2000-07-01]], StA: [[country|Slowakei]], und [[person|Morko Kozma]], Geburtsdatum: [[date_of_birth|1996-09-06]], je zu ideellen Hälften.
+2. Käufer: [[person|Packratz Ringer]],
+geb. [[date_of_birth|2000-07-01]], StA: [[country|Slowakei]], und [[person|Morko Kozma]],
+Geburtsdatum: [[date_of_birth|1996-09-06]], je zu ideellen Hälften.
 
 Die [[organization|Griebler Immobilien GmbH]], [[company_register_number|FN 311084b]], UID: [[tax_id|ATU27995300]], ist als Vermittlerin beteiligt und erhält keine Vertragsrechte aus diesem Vertrag. Sie wird im Folgenden auch als [[organization|Griebler]] bezeichnet.
 
@@ -32,9 +36,14 @@ Einlagezahl [[land_register_id|2562]], Grundbuch [[land_register_id|Landl]]; Gru
 
 Die Liegenschaft ist im Grundbuch lastenfrei, mit Ausnahme der im Lastenblatt eingetragenen Dienstbarkeit des Wegerechts zugunsten des Nachbargrundstücks.
 
+Die künftigen Eigentümer sind im Erwerbsverzeichnis wie folgt erfasst:
+
+[[person|Ringer Packratz]], Anteil 1/2
+[[person|Kozma Morko]], Anteil 1/2
+
 II. Kaufpreis und Treuhandschaft
 
-Der Kaufpreis beträgt EUR 486.000,00. Die Käufer erlegen davon EUR 48.600,00 als Vorauszahlung binnen acht Tagen nach Vertragsunterfertigung auf das Treuhandkonto der Rechtsanwälte, IBAN [[bank_account|AT16 8658 6077 6248 4575]]. Die Treuhandschaft wird unter der Nummer [[other_identifier|2021/398]] geführt.
+Der Kaufpreis beträgt EUR 486.000,00. Die Käufer erlegen davon EUR 48.600,00 als Vorauszahlung binnen acht Tagen nach Vertragsunterfertigung auf das Treuhandkonto der Rechtsanwälte, IBAN [[bank_account|AT16 8658 6077 6248 4575]]. Die Treuhandschaft wird unter Treuhandschaft Nr. [[other_identifier|2021/398]] geführt.
 
 Der Restkaufpreis ist nach Übergabe der Urkunde zur Verbücherung fällig. Die Vertragsparteien beauftragen die Rechtsanwälte, die Ausfertigung des Kaufpreises nur nach Vorliegen der Einverleibungsbewilligung auszuzahlen.
 
@@ -58,7 +67,7 @@ Die Verkäuferin: ______________________
 [[person|Anja Zsigmondy]]
 
 Die Käufer: ______________________
-[[person|Ringer Packratz]]
+[[person|Packratz Ringer]]
 [[person|Morko Kozma]]
 
 [[location|St. Andrä]], am [[date|14. September 2026]]

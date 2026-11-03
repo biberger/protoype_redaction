@@ -54,11 +54,11 @@ III. Kaufgegenstand und Kaufpreis
 
 4. Die Kaufpreisaufteilung auf die einzelnen Liegenschaften ergibt sich aus der beigefügten Aufstellung. Die Aufteilung dient ausschließlich der Berechnung der Grunderwerbsteuer und stellt sich wie folgt dar:
 
-Liegenschaft Mieming (KG 24399, Einlagezahl 565) EUR 540.000,00
-Liegenschaft Völs (Einlagezahl 247, Parz. 977/28) EUR 355.000,00
+Liegenschaft [[location|Mieming]] ([[land_register_id|KG 24399]], Einlagezahl [[land_register_id|565]]) EUR 540.000,00
+Liegenschaft [[location|Völs]] (Einlagezahl [[land_register_id|247]], [[land_register_id|Parz. 977/28]]) EUR 355.000,00
 Summe EUR 895.000,00
 
-5. Die Käuferinnen und Käufer haben die Miteigentumsanteile je zu einem Viertel vereinbart. Ein Anspruch auf Aufhebung der Miteigentümergemeinschaft wird für die Dauer von zehn Jahren ausgeschlossen. Die Parteien halten fest, dass die Liegenschaft Mieming als Wohnhaus und die Liegenschaft Völs als Garten- und Stellplatzfläche genutzt werden sollen.
+5. Die Käuferinnen und Käufer haben die Miteigentumsanteile je zu einem Viertel vereinbart. Ein Anspruch auf Aufhebung der Miteigentümergemeinschaft wird für die Dauer von zehn Jahren ausgeschlossen. Die Parteien halten fest, dass die Liegenschaft in [[location|Mieming]] als Wohnhaus und die Liegenschaft in [[location|Völs]] als Garten- und Stellplatzfläche genutzt werden sollen.
 
 IV. Aufsandung und Einverleibung
 

@@ -33,11 +33,11 @@ Summe netto: 750,00
 zuzüglich 20 % USt: 150,00
 Gesamtbetrag: 900,00
 
-Die Abrechnung erfolgt nach Zeitaufwand, wobei Besprechungen mit beiden Klienten gemeinsam verrechnet wurden. Die Teilnahme an der Abschlussbesprechung am [[date|28.09.2026]] war für beide Klienten erforderlich, weil die Übernahme des Betriebes nur gemeinsam durchgeführt werden konnte. Eine Verrechnung von Reisezeiten erfolgte nicht. Für die Übernahme ist eine Rechtsgeschäftsgebühr nicht angefallen.
+Die Abrechnung erfolgt nach Zeitaufwand, wobei Besprechungen mit beiden Klienten gemeinsam verrechnet wurden. Die Teilnahme an der Abschlussbesprechung am [[date|28.09.2026]] war für beide Klienten erforderlich, weil die Übernahme des Betriebes nur gemeinsam durchgeführt werden konnte. Eine Verrechnung von Reisezeiten erfolgte daher nicht. Für die Übernahme ist eine Rechtsgeschäftsgebühr nicht angefallen.
 
 Bitte überweisen Sie den Betrag bis [[date|09.11.2026]] auf das Konto IBAN [[bank_account|AT05 0270 9617 8243 4630]] unter Angabe der Klientennummer. Zahlungen werden erst nach Eingang auf dem Konto verbucht; die Note ist ohne Unterschrift gültig.
 
-Die Leistungen betreffen die rechtliche Beratung bei der Vertragsgestaltung für die Übernahme eines Gewerbebetriebes. Die Stundensätze entsprechen der Vereinbarung vom [[date|12.05.2026]]. Auslagen für Registerabfragen in Höhe von 24,00 Euro sind im Betrag nicht enthalten und werden gesondert verrechnet. Die Klientennummern sind bei jeder Zahlung anzugeben, damit die Zahlungen den jeweiligen Klienten zugeordnet werden können. Bei Rückfragen erreichen Sie uns unter Tel. [[phone_number|04212/3640869]].
+Die Leistungen betreffen die rechtliche Beratung bei der Vertragsgestaltung für die Übernahme eines Gewerbebetriebes. Die Stundensätze entsprechen der Vereinbarung vom [[date|12.05.2026]]. Die Vereinbarung wurde von beiden Klienten unterfertigt und liegt in der Akte auf; ein Exemplar kann auf Wunsch gerne neuerlich übermittelt werden. Auslagen für Registerabfragen in Höhe von 24,00 Euro sind im Betrag nicht enthalten und werden gesondert verrechnet. Die Klientennummern sind bei jeder Zahlung anzugeben, damit die Zahlungen den jeweiligen Klienten zugeordnet werden können. Bei Rückfragen erreichen Sie uns unter Tel. [[phone_number|04212/3640869]].
 
 Mit freundlichen Grüßen
 
