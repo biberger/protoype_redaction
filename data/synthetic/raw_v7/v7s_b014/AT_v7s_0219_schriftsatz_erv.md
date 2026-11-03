@@ -81,7 +81,7 @@ Die Kläger begehren, die Beklagten sind zur ungeteilten Hand schuldig, dem Klä
 
 11. Ferner beantragen die Kläger die Einholung eines unfallanalytischen Sachverständigengutachtens zum Bremsweg, zur Sichtweite und zur Geschwindigkeit des Fahrzeugs mit dem Kennzeichen [[license_plate|AM-302 YD]] zum Unfallzeitpunkt. Die Kosten des Gutachtens werden vorläufig von den Klägern getragen. Das Gutachten ist binnen drei Wochen nach Einholung der Unterlagen vorzulegen.
 
-12. Die Kläger ersuchen, die Zeugin [[person|Ostermayer]] ergänzend zur Erstversorgung des Klägers zu vernehmen, da sie unmittelbar nach dem Unfall die Erste Hilfe geleistet hat. Die Zeugin ist nach den Angaben des Klägers in der Nachbarschaft wohnhaft, ihre Aussage ist daher leicht zu erlangen. Ihre Erreichbarkeit ist über die Gemeinde ohne Weiteres gegeben, und sie hat sich zur Mitwirkung bereit erklärt.
+12. Die Kläger ersuchen, die Zeugin [[person|Ostermayer]] ergänzend zur Erstversorgung des Klägers zu vernehmen, da sie unmittelbar nach dem Unfall die Erste Hilfe geleistet hat. Die Zeugin ist nach den Angaben des Klägers in der Nachbarschaft wohnhaft, ihre Aussage ist daher leicht zu erlangen. Ihre Erreichbarkeit ist über die Gemeinde ohne Weiteres gegeben, und sie hat sich zur Mitwirkung bereit erklärt. Eine Ladung über das Gemeindeamt ist möglich.
 
 13. Schließlich regen die Kläger die Beiziehung der Akten des [[court|Bezirksgericht Schärding]] in einem früheren Verfahren an, in dem die Erstbeklagte bereits als Partei aufgetreten ist. Diese Akten betreffen einen vergleichbaren Schadensfall und können für die Beurteilung der Haftung von Bedeutung sein.
 

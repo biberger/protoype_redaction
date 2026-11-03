@@ -101,7 +101,11 @@ Die Verteidigung hat in der Verhandlung beantragt, das Verfahren einzustellen, w
 
 Der Beschuldigte hat ferner vorgebracht, dass die Kanzlei nach der Erkrankung nur noch mit einem Teil der bisherigen Kapazität arbeite. Der Senat hat dies als Umstand gewürdigt, der die Schuld nicht ausschließt. Die Einzelheiten der Kanzleiorganisation sind für die Bemessung der Geldbuße nur am Rand von Bedeutung.
 
-Die Treuhandkonten wurden im Lauf des Verfahrens durch eine externe Buchprüfung untersucht. Das Ergebnis der Prüfung, datiert vom [[date|10.11.2025]], bestätigt die Unstimmigkeiten in den Jahren 2023 und 2024, enthält jedoch keine Hinweise auf weitere Fehlbuchungen. Sie umfassen die Kosten des Senats, die Reisekosten der Zeugen und die Kosten der Kammeranwaltschaft.
+Die Treuhandkonten wurden im Lauf des Verfahrens durch eine externe Buchprüfung untersucht. Das Ergebnis der Prüfung, datiert vom [[date|10.11.2025]], bestätigt die Unstimmigkeiten in den Jahren 2023 und 2024, enthält jedoch keine Hinweise auf weitere Fehlbuchungen.
+
+Die Verteidigung hat die Prüfung als unvollständig kritisiert, weil die Prüfer die Belege des Jahres 2023 nicht vollständig eingesehen hätten. Der Senat hat den Einwand geprüft und festgestellt, dass die fehlenden Belege die Buchungen der Klientin [[person|Caraiani]] nicht betreffen. Der Senat stützt sich daher auf die vorliegenden Feststellungen.
+
+Die Klientin [[person|Caraiani]] hat im letzten Wort angegeben, dass sie die Abrechnung erst im Dezember 2024 erhalten habe. Der Klient [[person|Alivizatos]] hatte schon im Herbst 2023 Nachfragen gestellt, die unbeantwortet blieben. Sie umfassen die Kosten des Senats, die Reisekosten der Zeugen und die Kosten der Kammeranwaltschaft.
 
 VI. Rechtsmittel
 

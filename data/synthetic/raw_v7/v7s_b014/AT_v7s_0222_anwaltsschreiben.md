@@ -49,9 +49,9 @@ Ferner ist die Wertminderung des Fahrzeugs zu ersetzen, weil es nach der Reparat
 
 Die Zahlung ist auf das Konto unseres Mandanten zu leisten. Die Kontoverbindung teilen wir auf Anfrage mit.
 
-Der Hergang ist durch die Schilderung unseres Mandanten eindeutig dokumentiert. Er fuhr auf der [[street|Hauptstraße]] in Richtung Ortsmitte, als das Fahrzeug der Frau [[person|Tianna Lohner]] vor ihm nach links abbog, ohne den Blinker zu setzen. Die Kollision erfolgte im Bereich der Einfahrt zum Gemeindeamt. Die Polizei hat am Unfallort Spuren gesichert und Fotos der Fahrzeuge angefertigt, die dem Akt beiliegen.
+Der Hergang ist durch die Schilderung unseres Mandanten eindeutig dokumentiert. Er fuhr auf der [[street|Hauptstraße]] in Richtung Ortsmitte, als das Fahrzeug der Frau [[person|Tianna Lohner]] vor ihm nach links abbog, ohne den Blinker zu setzen. Die Kollision erfolgte im Bereich der Einfahrt zum Gemeindeamt. Die Polizei hat am Unfallort Spuren gesichert und Fotos der Fahrzeuge angefertigt, die dem Akt beiliegen. Die Beamten haben die Angaben beider Lenker aufgenommen und ein Protokoll erstellt, das wir auf Wunsch übermitteln.
 
-Der Sachverständige hat den Wiederbeschaffungswert mit EUR 11.200,00 beziffert; die Reparatur ist mit EUR 6.430,00 wirtschaftlich vertretbar. Die Rechnung des Gutachters ist beigefügt. Die Kosten des Gutachtens hat unser Mandant bereits vorgestreckt.
+Der Sachverständige hat den Wiederbeschaffungswert mit EUR 11.200,00 beziffert; die Reparatur ist mit EUR 6.430,00 wirtschaftlich vertretbar. Die Rechnung des Gutachters ist beigefügt. Die Kosten des Gutachtens hat unser Mandant bereits vorgestreckt. Die Rechnung des Sachverständigen über EUR 480,00 ist ebenfalls beigelegt. Der Gutachter hat die Fahrzeugpapiere eingesehen und die Laufleistung des Fahrzeugs berücksichtigt.
 
 Die Lenkerin [[person|Tianna Lohner]] hat den Unfall gegenüber der Polizei als unvermeidbar bezeichnet. Diese Darstellung wird durch die Spuren nicht gedeckt. Frau [[person|Siegfriede Kast]] als Schadensbearbeiterin der [[organization|Becher Handels GmbH]] hat bisher keine Stellungnahme abgegeben.
 

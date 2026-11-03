@@ -52,5 +52,6 @@ Mit freundlichen Grüßen
 
 [[lawyer|Mag. Gamper]]
 Rechtsanwalt
+Tel. [[phone_number|0662/3171616-55]]
 
 [[location|St. Michael im Lungau]], am [[date|22.09.2026]]

@@ -52,6 +52,7 @@ Mit freundlichen Grüßen
 
 [[lawyer|Dr. Höglinger]]
 Rechtsanwalt
+Tel. [[phone_number|01 792215-70]]
 
 Beilagen: Lichtbilder des Schadens (3 Stück), Kostenvoranschlag, Vollmacht (Kopie)
 

@@ -95,7 +95,7 @@ VII. Schlussbemerkung
 
 17. Die Beklagte behält sich vor, weitere Beweismittel nach Vorlage der vollständigen Personalakten vorzulegen. Die Personalakten werden bei der Dienstgeberin verwahrt und sind bisher nicht vollständig übermittelt worden.
 
-18. Die Beklagte weist darauf hin, dass der Kläger seine Honorarnote vom [[date|31.07.2026]] selbst gestellt hat, was für ein freies Dienstverhältnis spricht. Die Honorarnote ist als Beilage ./D angeschlossen.
+18. Die Beklagte weist darauf hin, dass der Kläger seine Honorarnote vom [[date|31.07.2026]] selbst gestellt hat, was für ein freies Dienstverhältnis spricht. Der Kläger bestreitet dies und verweist auf die Lohnsteuerabrechnung, die die Dienstgeberin für ihn erstellt hat. Ob diese Abrechnung eine Anmeldung zur Sozialversicherung ersetzt, ist im Verfahren zu klären. Die Beklagte wird die Anmeldungen zur Sozialversicherung vorlegen, sobald diese bei der Trägerorganisation vorhanden sind. Die Honorarnote ist als Beilage ./D angeschlossen.
 
 Der Kläger hat in seiner Stellungnahme vom [[date|20.08.2026]] ausgeführt, dass die Honorarnote auf Anweisung der Dienstgeberin erstellt wurde. Er legt dazu eine E-Mail von [[person|Brix]] vor, in der dieser die Erstellung der Honorarnote anordnete. Die Beklagte bestreitet die Echtheit dieser E-Mail nicht, weist aber darauf hin, dass sie nur die Form der Abrechnung betrifft und nichts über die Weisungsgebundenheit aussagt.
 

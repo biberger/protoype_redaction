@@ -67,7 +67,7 @@ IBAN: [[bank_account|AT77 5013 1144 0828 8139]]
 
 18. Die Mieterin hat die Wohnung in dem Zustand übernommen, in dem sie sich am Übergabetag befindet. Mängel, die bei der Übergabe erkennbar waren, sind im Übergabeprotokoll festzuhalten. Spätere Mängel hat die Mieterin der Vermieterin unverzüglich schriftlich anzuzeigen; andernfalls kann sie daraus keine Ansprüche ableiten.
 
-19. Die Vermieterin verpflichtet sich, die Wohnung während der Mietdauer in einem brauchbaren Zustand zu erhalten. Bauliche Veränderungen durch die Mieterin, insbesondere das Versetzen von Wänden oder der Einbau einer Küche mit Wasseranschluss, bedürfen der Zustimmung der Vermieterin. Die Vermieterin hat die Mieterin auf die Notwendigkeit einer regelmäßigen Lüftung hingewiesen, um Schimmelbildung in den Wohnräumen zu vermeiden.
+19. Die Vermieterin verpflichtet sich, die Wohnung während der Mietdauer in einem brauchbaren Zustand zu erhalten. Bauliche Veränderungen durch die Mieterin, insbesondere das Versetzen von Wänden oder der Einbau einer Küche mit Wasseranschluss, bedürfen der Zustimmung der Vermieterin. Die Vermieterin hat die Mieterin auf die Notwendigkeit einer regelmäßigen Lüftung hingewiesen, um Schimmelbildung in den Wohnräumen zu vermeiden. Die Mieterin bestätigt den Empfang dieser Hinweise mit ihrer Unterschrift unter diesen Vertrag.
 
 20. Die Mieterin nimmt zur Kenntnis, dass die Vermieterin die Liegenschaft im Zuge einer Sanierung der Fassade einer umfassenden Erhaltungsarbeit unterziehen kann. Die Mieterin hat hierfür den Zugang zur Wohnung zu gewähren und die Minderung des Mietzinses nach den gesetzlichen Bestimmungen hinzunehmen.
 

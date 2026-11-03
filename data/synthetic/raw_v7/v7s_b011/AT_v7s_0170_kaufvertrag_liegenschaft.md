@@ -19,7 +19,7 @@ Geschäftszahl der Kanzlei: [[other_identifier|R395946/26]]
 Abgeschlossen am [[date|18. März 2026]] in [[location|Lassing]], zwischen folgenden Vertragsparteien:
 
 1. Verkäufer:
-[[person|Zwölfer Hansjorg]], GEB: [[date_of_birth|1938-11-25]], wohnhaft in [[address|8960 Niederöblarn]], im Folgenden kurz "Verkäufer"
+[[person|Zwölfer Hansjorg]], GEB: [[date_of_birth|1938-11-25]], wohnhaft in [[address|8960 Niederöblarn]], Tel. [[phone_number|+43 662 854 76 60 DW 564]], im Folgenden kurz "Verkäufer"
 
 2. Käufer:
 [[person|Robert
