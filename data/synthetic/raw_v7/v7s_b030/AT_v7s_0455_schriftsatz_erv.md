@@ -66,6 +66,8 @@ II. Rechtliche Beurteilung
 
 7. Zum Streitwert verweist die Klägerin auf [[legal_norm|§ 56 JN]].
 
+8. Die Verfahrensart ist das Verfahren über Streitigkeiten aus einem Werkvertrag. Die Schadenhöhe ist durch die beiliegende Rechnung des Fachbetriebs belegt und wird im Verfahren durch einen Sachverständigen überprüft werden.
+
 Beweis: Urkunden ./A bis ./C; Zeugenbeweis [[person|Floriano Pierangeli]]; Sachverständigenbeweis aus dem Fachgebiet Bauwesen.
 
 Beilagen:
@@ -73,9 +75,13 @@ Beilagen:
 ./B Mängelrüge vom [[date|25. Juni 2026]]
 ./C Rechnung des Fachbetriebs
 
+Die Klägerin ist bereit, einen Teil des Klagsbetrags im Rahmen eines Vergleichs zu verzichten, wenn die beklagte Partei den Mangel bis zum Ablauf der Klagebeantwortungsfrist beseitigt. Eine solche Vereinbarung wäre im Protokoll festzuhalten und nach Erfüllung als Vergleich zu bestätigen.
+
+Die Klägerin behält sich vor, die Klage nach Vorliegen des Sachverständigengutachtens zu ergänzen, insbesondere hinsichtlich eines Schmerzengeldes, das aus den Verletzungen durch die Undichtigkeit des Bades nicht hervorgeht, sondern aus dem fortdauernden Feuchtigkeitsschaden in der Wand folgt.
+
 Schließlich ersuchen wir um Terminsbestimmung.
 
 [[lawyer|Dr. Felder]]
 Rechtsanwalt
 
-Wien, am [[date|28. Oktober 2026]]
+[[location|Wien]], am [[date|28. Oktober 2026]]

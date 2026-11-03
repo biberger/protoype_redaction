@@ -95,7 +95,7 @@ Die Beschuldigte hat die Kosten des Disziplinarverfahrens zu tragen. Die Kosten 
 
 **Rechtsmittelbelehrung**
 
-Gegen diese Entscheidung ist ein Rechtsmittel an den Obersten Gerichtshof zulässig. Die Frist zur Erhebung beträgt vier Wochen ab Zustellung. Die Beschuldigte und die Kammeranwaltschaft sind zur Erhebung berechtigt. Die Entscheidung erwächst nach Ablauf der Frist in Rechtskraft; die Vollstreckung der Geldbuße ist erst nach Rechtskraft zulässig. Die Zustellung an die Kammeranwaltschaft erfolgte gesondert. Die Zustellung an die Beschuldigte erfolgte an die Kanzleiadresse. Sie wurde am gleichen Tag ausgefertigt.
+Gegen diese Entscheidung ist ein Rechtsmittel an den [[court|Obersten Gerichtshof]] zulässig. Die Frist zur Erhebung beträgt vier Wochen ab Zustellung. Die Beschuldigte und die Kammeranwaltschaft sind zur Erhebung berechtigt. Die Entscheidung erwächst nach Ablauf der Frist in Rechtskraft; die Vollstreckung der Geldbuße ist erst nach Rechtskraft zulässig. Die Zustellung an die Kammeranwaltschaft erfolgte gesondert. Die Zustellung an die Beschuldigte erfolgte an die Kanzleiadresse. Sie wurde am gleichen Tag ausgefertigt.
 
 [[location|Wien]], am [[date|18. September 2026]]
 

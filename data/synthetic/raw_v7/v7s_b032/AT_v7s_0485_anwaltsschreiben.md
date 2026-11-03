@@ -12,14 +12,15 @@ E: [[email|office@knauss.at]]  W: www.knauss.at
 ERV-Code: [[other_identifier|R889879]]
 
 An die
-[[organization|Stern Immobilien GmbH]]
+[[organization|Stern Immobilien GmbH]] (im Folgenden „[[organization|SI]]“)
 z.Hd. [[person|Serhij Melnik]]
 [[address|Hauptstraße 3, 2700 Wiener Neustadt]]
+Tel. [[phone_number|+43-316-5319821-2]]
 
 Schadennummer [[other_identifier|71/670875/25]]
 Zeichen [[other_identifier|Melnik ./. Széchényi]]
 
-2853 Bad Schönau, am [[date|9. März 2026]]
+[[address|4924 Waldzell]], am [[date|9. März 2026]]
 
 Sehr geehrter Herr Melnik!
 

@@ -54,6 +54,8 @@ Die Schätzung des Schadens durch die Beamten beträgt EUR 9.500,00 am PKW und E
 
 Die Halterin des Kombis, [[person|Gertraud Anderle]], ist die Ehefrau des Lenkers; das Fahrzeug ist auf sie zugelassen. Die Halterin wurde telefonisch von der Unfallaufnahme verständigt und hat angegeben, dass sie den Versicherungsschutz für das Fahrzeug selbst bestätigen werde. Die Verständigung der Versicherung erfolgt durch die Halterin.
 
+Die Beamten haben den Lenker des Kombis über die Verpflichtung zur Vorlage des Führerscheins und des Zulassungsscheins belehrt. Beide Urkunden wurden am Unfallort vorgelegt und zur Kopie sichergestellt. Der Lenker des PKW war zum Zeitpunkt des Unfalls im Besitz der Lenkberechtigung; eine Überprüfung im Zentralen Melderegister ergab keine Einträge. Die Gemeinde wurde um Auskunft über die Steuerung der Ampelanlage ersucht.
+
 Der Lenkerin [[person|Jerzabek]] wurde angeboten, sich im Rettungsfahrzeug untersuchen zu lassen. Sie hat dies abgelehnt und ist nach eigenen Angaben am Folgetag bei ihrer Hausärztin gewesen. Ein ärztlicher Befund liegt der Anzeige nicht bei.
 
 Am Unfallort befand sich eine Fahrbahnverschmutzung durch Splitt, die von den Beamten mit Besen entfernt wurde. Ein Kanaldeckel im Bereich der Haltelinie war nach den Feststellungen nicht Ursache des Unfalls.

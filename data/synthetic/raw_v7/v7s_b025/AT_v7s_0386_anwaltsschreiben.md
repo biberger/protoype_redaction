@@ -12,7 +12,8 @@ E: [[email|office@glas.at]]  W: www.glas.at
 ERV-Code: [[other_identifier|R353348]]
 
 [[organization|PFEIFFER KG]]
-z. Hd. Herrn [[person|Tomáš Zigo]]
+z. Hd. Herrn [[person|Tomáš
+Zigo]]
 [[address|4192 Schenkenfelden]]
 
 UZ: [[other_identifier|Zigo ./. Moschner]]

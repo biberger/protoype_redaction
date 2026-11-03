@@ -9,7 +9,7 @@ Unser Zeichen: [[other_identifier|406/24 NS]]
 Treuhandbuch-Nr. [[other_identifier|2023/331]]
 TH-Nr. [[other_identifier|2022/525]]
 
-Zustellung an die Rechtsanwaltskammer Wien ([[organization|RAK Wien]]), Tel. [[phone_number|+43 316 368 69 87-86]]
+Zustellung an die [[organization|Rechtsanwaltskammer Wien]] ([[organization|RAK Wien]]), Tel. [[phone_number|+43 316 368 69 87-86]]
 
 **PROTOKOLL UND BESCHLUSS**
 

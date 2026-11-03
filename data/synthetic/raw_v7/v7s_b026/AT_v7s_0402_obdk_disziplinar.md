@@ -51,6 +51,8 @@ Datum | Vorgang | Betrag | Klient
 
 6h. Der Kammeranwalt hat die Vorlage des Kanzleikontoauszugs für den Zeitraum vom [[date|1. August 2024 bis 31. August 2024]] verlangt. Der Auszug zeigt, dass die Überweisung vom [[date|28. August 2024]] auf das Kanzleikonto gebucht wurde, im Treuhandbuch jedoch erst am [[date|11. September 2024]] erschien.
 
+6i. Die Verhandlung hat ergeben, dass die Kanzleimitarbeiterin, deren Urlaub die Beschuldigte als Grund angibt, die Kanzleikonten im Zeitraum vom [[date|2. September 2024 bis 6. September 2024]] nicht betreut hat. Die Einträge im Treuhandbuch wären daher in dieser Zeit durch die Beschuldigte selbst vorzunehmen gewesen.
+
 Rechtliche Beurteilung
 
 7. Nach [[legal_norm|§ 43a Abs 5 RAO]] hat der Rechtsanwalt Treuhandgelder getrennt zu verwalten und zweckgebunden zu verwenden. Die Überweisung vom [[date|28. August 2024]] auf das Kanzleikonto verstößt dagegen, weil sie keiner fälligen und bestrittenen Forderung diente.
@@ -73,7 +75,9 @@ Rechtliche Beurteilung
 
 17. Die Beschuldigte hat in der Verhandlung ihre Einsicht erklärt und angekündigt, die Kanzleiorganisation umzustellen. Der Senat berücksichtigt dies mildernd, wertet die Verzögerung der Eintragung jedoch als erschwerend.
 
-18. Die Entscheidung über die Strafe ist einstimmig gefasst. Der Vorsitzende hat die Begründung im Anschluss an die Verhandlung verlesen und den Parteien ausgehändigt.
+18. Die Entscheidung über die Strafe ist einstimmig gefasst. Der Vorsitzende hat die Begründung im Anschluss an die Verhandlung verlesen und den Parteien ausgehändigt. Die Beisitzerinnen haben der Entscheidung ohne abweichende Meinung zugestimmt.
+
+19. Die Kammer wird die Umsetzung der Auflagen durch die Kanzlei in einem Jahr überprüfen.
 
 [[location|Wien]], am [[date|8. Juni 2026]]
 

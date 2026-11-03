@@ -73,6 +73,12 @@ Rechtliche Beurteilung
 
 17. Der Senat hat den Inhaber des [[organization|Einzinger e.U.]], [[person|Florian Einzinger]], ausdrücklich darauf hingewiesen, dass die Unterstützung einer Verschleierung im Treuhandbuch ein eigenständiger Disziplinartatbestand sein kann. Ein Verfahren gegen ihn ist derzeit nicht anhängig.
 
+18. Die Beschuldigte hat die Verantwortung für die Gestaltung der Rechnung vom [[date|20. Juli 2023]] einem Mitarbeiter zugeschrieben. Der Senat hält diese Einlassung für unglaubwürdig, weil der Mitarbeiter in der Verhandlung nicht genannt werden konnte.
+
+19. Die Zustellung dieses Spruchs erfolgt an die Beschuldigte, an die Kammeranwältin, an die Verkäuferin und an die Käuferin, soweit sie Parteistellung haben.
+
+20. Die Verfahrenskosten werden nach dem Umfang der Beweisaufnahme bemessen; die Beschuldigte hat den Betrag innerhalb von vier Wochen zu zahlen.
+
 [[location|Graz]], am [[date|2. Juli 2026]]
 
 Der Vorsitzende:

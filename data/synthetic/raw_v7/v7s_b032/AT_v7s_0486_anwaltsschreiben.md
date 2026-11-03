@@ -13,7 +13,7 @@ E: [[email|office@trauner.at]]  W: www.trauner.at
 ERV-Code: [[other_identifier|R556387]]
 
 Herrn
-[[person|Hannsjorg Grasl]]
+[[person|Hannsjorg Grasl]], StA. [[country|Deutschland]]
 [[address|8412 Allerheiligen bei Wildon]]
 
 Zeichen [[other_identifier|HDW-HDWNiedertscheider/Hoffmann]]
@@ -25,7 +25,7 @@ Betreff: Wohnrecht und Verkauf der Liegenschaft in [[location|St. Lorenzen]]
 
 Sehr geehrter Herr Grasl!
 
-Unsere Mandantin, Frau [[person|Niedertscheider Ludmilla, Mag.]], geb. [[date_of_birth|04.11.1942]], hat uns mit der Abwicklung des Verkaufs an die [[organization|Wipplinger Immobilien GmbH]] beauftragt. Die [[organization|Wipplinger Immobilien GmbH]] ist im Firmenbuch unter [[company_register_number|FN 317759v]] eingetragen. Ihre UID lautet [[tax_id|ATU51551333]].
+Unsere Mandantin, Frau [[person|Niedertscheider Ludmilla, Mag.]], geb. [[date_of_birth|1942-11-04]], hat uns mit der Abwicklung des Verkaufs an die [[organization|Wipplinger Immobilien GmbH]] beauftragt. Die [[organization|Wipplinger Immobilien GmbH]] ist im Firmenbuch unter [[company_register_number|FN 317759v]] eingetragen. Ihre UID lautet [[tax_id|ATU51551333]].
 
 Herr [[person|Grasl]] hat dem Vertragsentwurf vom [[date|3. September 2025]] zugestimmt, jedoch den Termin für die Übergabe nicht eingehalten. Die Übergabe war auf den [[date|30. September 2025]] festgesetzt.
 

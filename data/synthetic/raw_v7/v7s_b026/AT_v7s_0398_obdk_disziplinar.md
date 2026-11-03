@@ -55,6 +55,10 @@ Datum | Vorgang | Betrag | Verlassenschaft
 
 6g. Die Erben haben in der Berufungsverhandlung klargestellt, dass sie der Beschuldigten keine Vollmacht zur Verrechnung von Honoraren aus dem Treuhandkonto erteilt haben. Ein Vorschuss für das Honorar der Beschuldigten war nach diesen Angaben nie vereinbart.
 
+6i. Die Beschuldigte hat in der Verhandlung die Auffassung vertreten, die Kanzlei habe zur Zeit der Überweisung eine Forderung gegen die Verlassenschaft gehabt. Die Verlassenschaft hat diese Forderung jedoch mit Schreiben vom [[date|4. Februar 2022]] ausdrücklich bestritten. Der Senat folgt dieser Bestreitung.
+
+6j. Die Kammeranwältin [[person|Mira Baljić]] hat das Treuhandbuch für den Zeitraum bis Oktober 2023 vollständig durchgesehen. Sie stellte fest, dass Einträge zum Eingang vom [[date|6. Juli 2021]] und zur Überweisung vom [[date|12. Juli 2021]] erst nach der Prüfung nachgeholt wurden.
+
 Rechtliche Beurteilung
 
 7. Nach [[legal_norm|§ 43a Abs 5 RAO]] hat der Rechtsanwalt die ihm anvertrauten Gelder getrennt vom eigenen Vermögen zu halten. Die Überweisung vom [[date|12. Juli 2021]] auf ein Girokonto der Kanzlei verstößt gegen diese Pflicht, unabhängig davon, ob später eine Darlehensforderung bestanden hätte. Eine Darlehensforderung gegen die Verlassenschaft wäre nur über das Verlassenschaftsgericht geltend zu machen gewesen.

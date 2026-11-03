@@ -14,7 +14,7 @@ ERV-Code: [[other_identifier|P671318]]
 
 ---
 
-**Betreff: Grosz Bau GmbH – Werkvertrag Dachgeschoß**
+**Betreff: [[organization|Grosz Bau GmbH]] – Werkvertrag Dachgeschoß**
 **Zeichen [[other_identifier|Schlesinger ./. Grosz]]**
 
 **Nachricht 1 von 4**
@@ -31,7 +31,7 @@ ich wende mich an Sie wegen des Werkvertrages mit der [[organization|Grosz Bau G
 Frau [[person|Natálie Masaříková]], die Bauleiterin der Firma, hat mir zugesichert, dass die Mängel bis zum Monatsende behoben werden. Bisher ist nichts geschehen. Ich habe die Fotos der Schäden beigefügt. Der Werklohn von EUR 38.500,00 wurde bereits zur Hälfte bezahlt, die zweite Rate habe ich zurückgehalten. Die Schäden sind auch im Protokoll der Baubesprechung dokumentiert, das ich Ihnen zusende. Eine Mängelrüge habe ich bereits am [[date|4. September 2026]] schriftlich übermittelt.
 
 Mit freundlichen Grüßen
-Dorina Schlesinger
+[[person|Dorina Schlesinger]]
 
 ---
 
@@ -103,4 +103,4 @@ Rechtsanwalt
 
 ---
 
-Diese E-Mail ist vertraulich. Die Anwälte der Kanzlei [[organization|Thiel]] haften nicht für Übertragungsfehler.
+Diese E-Mail ist vertraulich. Die Anwälte der Kanzlei [[organization|Thiel]] haften nicht für Übertragungsfehler. Bitte prüfen Sie den Anhang vor dem Öffnen.

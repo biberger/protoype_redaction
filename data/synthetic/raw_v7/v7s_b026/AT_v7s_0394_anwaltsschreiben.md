@@ -39,7 +39,7 @@ Die [[organization|Korner Handels GmbH]] ([[company_register_number|FN 83900h]])
 
 Die Reparaturkosten laut Kostenvoranschlag belaufen sich auf EUR 6.420,00. Dazu kommen eine Nutzungsentschädigung für die Dauer der Reparatur von EUR 540,00 und eine Pauschale für Kosten der Abmeldung von EUR 95,00. Wir ersuchen um Überweisung des Gesamtbetrags von EUR 7.055,00 binnen 14 Tagen auf das Konto der Kanzlei.
 
-Das Fahrzeug kann zur Besichtigung in [[location|St. Wolfgang im Salzkammergut]] bereitgestellt werden, sofern ein Sachverständiger der [[organization|Traunkreis Versicherung AG]] dies wünscht. Sollten Sie noch Unterlagen benötigen, wenden Sie sich bitte an [[person|Siegrun Mag. Oberhofer]], die den Akt bearbeitet.
+Das Fahrzeug kann zur Besichtigung in [[location|St. Wolfgang im Salzkammergut]] bereitgestellt werden, sofern ein Sachverständiger der [[organization|Traunkreis Versicherung AG]] dies wünscht. Die Reparaturwerkstatt ist ein autorisierter Betrieb. Sollten Sie noch Unterlagen benötigen, wenden Sie sich bitte an [[person|Siegrun Mag. Oberhofer]], die den Akt bearbeitet.
 
 Die [[organization|Traunkreis Versicherung AG]] (in der Folge [[organization|TKV]]) hat bislang keine Stellungnahme zum Schaden abgegeben. Die Geschädigte ist durch den Unfall verletzt worden. Das ärztliche Attest des Facharztes [[person|Dr. Berthold Pirker]] dokumentiert eine Zerrung der Halswirbelsäule; die Mandantin war vom [[date|2. Mai 2026 bis 9. Mai 2026]] arbeitsunfähig. Die Heilbehandlungskosten belaufen sich bislang auf EUR 380,00 für Physiotherapie. Wir behalten uns vor, ein Schmerzengeld nach [[legal_norm|§ 1325 ABGB]] gesondert geltend zu machen, sofern die [[organization|TKV]] den Gesamtbetrag nicht anerkennt.
 
@@ -51,6 +51,6 @@ Mit freundlichen Grüßen
 Rechtsanwalt
 Für die Kanzlei: [[person|Xanthippi Papadiamantopoulos]], Kanzleileitung
 
-Wir ersuchen um Mitteilung, ob eine Teilzahlung in Höhe von EUR 6.420,00 für die Reparaturkosten bis zur Klärung der übrigen Positionen erfolgen kann. Die Schadensmeldung ist vollständig, die Unterlagen sind dieser Korrespondenz beigelegt. Eine Kopie des Polizeiberichts ist beigelegt; die Versicherungsnummer des Lenkers ist dem Berichtsblatt zu entnehmen.
+Wir ersuchen um Mitteilung, ob eine Teilzahlung in Höhe von EUR 6.420,00 für die Reparaturkosten bis zur Klärung der übrigen Positionen erfolgen kann. Eine Antwort bis zum [[date|28. Mai 2026]] wäre hilfreich. Die Schadensmeldung ist vollständig, die Unterlagen sind dieser Korrespondenz beigelegt. Eine Kopie des Polizeiberichts ist beigelegt; die Versicherungsnummer des Lenkers ist dem Berichtsblatt zu entnehmen.
 
 Kopie an die Mandantin [[person|Faschingbauer]] und an die Kanzleiakte.

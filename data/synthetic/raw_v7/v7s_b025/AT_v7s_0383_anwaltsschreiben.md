@@ -26,7 +26,7 @@ Sehr geehrte Frau [[person|Dudás]],
 
 wir zeigen an, dass uns Herr [[person|Ruben Sprung]], geb. [[date_of_birth|02.11.1963]], StA: [[country|Kroatien]], in der oben bezeichneten Angelegenheit vertritt. Eine Vollmacht liegt bei.
 
-Der Mandant hat am [[date|02.06.2026]] mit der [[organization|Helmer KG]] einen Werkvertrag über die Lieferung und Montage einer Lagerhalle abgeschlossen. Die [[organization|Helmer KG]], [[company_register_number|FN 494467h]], UID [[tax_id|ATU85986363]], hat die Halle nicht fristgerecht übergeben. Der Mandant hat deshalb einen Teil des Werklohns an die [[organization|Helmer]] nicht bezahlt.
+Der Mandant hat am [[date|02.06.2026]] mit der [[organization|Helmer KG]] einen Werkvertrag über die Lieferung und Montage einer Lagerhalle abgeschlossen. Die [[organization|Helmer KG]], [[company_register_number|FN 494467h]], UID [[tax_id|ATU85986363]] (im Folgenden: [[organization|HKG]]), hat die Halle nicht fristgerecht übergeben. Der Mandant hat deshalb einen Teil des Werklohns an die [[organization|Helmer]] nicht bezahlt.
 
 Die Mängel wurden durch den Bauleiter [[person|Serghei Aioanei]] am [[date|18.06.2026]] bestätigt. Herr [[person|Aioanei]] hat dazu ein Protokoll unterschrieben, das wir in Kopie beilegen. Die Geschäftsführerin [[person|Alexis Wanner]] der [[organization|Helmer]] hat mit Schreiben vom [[date|25.06.2026]] die Verantwortung für die Verzögerung zurückgewiesen.
 
@@ -36,7 +36,7 @@ Der Mandant hat die [[organization|Helmer]] mit Schreiben vom [[date|21.07.2026]
 
 Der Schaden ist dem Grunde nach durch den Verzug der [[organization|Helmer]] verursacht. Die Ansprüche des Mandanten beruhen auf [[legal_norm|§ 1168 ABGB]] und auf dem Verzug nach [[legal_norm|§ 1333 ABGB]]. Die Verjährungsfrist ist nicht abgelaufen. Zur Schadensberechnung legen wir die Aufstellung der Mehrkosten bei, die sich aus der Zwischenlagerung von 42 Paletten im Zeitraum von Juni bis August 2026 ergeben. Die Kosten des Gutachtens vom [[date|09.07.2026]] sind darin mit EUR 1.150,00 enthalten.
 
-Die [[organization|Helmer]] hat die Verzögerung in ihrem Schreiben vom [[date|25.06.2026]] auf Lieferprobleme beim Stahl zurückgeführt. Diese Begründung entlastet sie nicht, weil die Lieferprobleme nach dem eigenen Vorbringen erst ab Mai 2026 aufgetreten sind, der Werkvertrag jedoch einen Fertigstellungstermin bis Ende April 2026 vorsah.
+Die [[organization|HKG]] hat die Verzögerung in ihrem Schreiben vom [[date|25.06.2026]] auf Lieferprobleme beim Stahl zurückgeführt. Diese Begründung entlastet sie nicht, weil die Lieferprobleme nach dem eigenen Vorbringen erst ab Mai 2026 aufgetreten sind, der Werkvertrag jedoch einen Fertigstellungstermin bis Ende April 2026 vorsah.
 
 Wir weisen darauf hin, dass der Haftpflichtversicherer nach dem [[legal_norm|VersVG]] die Deckung innerhalb angemessener Frist zu prüfen hat. Eine Verzögerung der Entscheidung geht zu Lasten der Versicherung, die den Mandanten ohne Begründung im Unklaren lässt. Sollte die Prüfung länger als vier Wochen dauern, ersuchen wir um eine Zwischennachricht mit der Angabe der noch fehlenden Unterlagen.
 

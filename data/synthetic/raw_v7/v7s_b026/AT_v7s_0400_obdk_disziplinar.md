@@ -63,7 +63,9 @@ Rechtliche Beurteilung
 
 16. Die Beschuldigte hat die Auflage erhalten, die Führung der Treuhandbücher innerhalb von drei Monaten durch eine Wirtschaftsprüferin überprüfen zu lassen. Der Nachweis ist der [[organization|StRAK]] vorzulegen.
 
-17. Die Beschuldigte hat vorgebracht, die Buchhaltung sei zeitweise durch eine Hilfskraft geführt worden. Der Senat hält fest, dass dies die persönliche Verantwortung des Rechtsanwalts für die Treuhandgelder nicht ändert.
+17. Die Beschuldigte hat vorgebracht, die Buchhaltung sei zeitweise durch eine Hilfskraft geführt worden. Der Senat hält fest, dass dies die persönliche Verantwortung des Rechtsanwalts für die Treuhandgelder nicht ändert. Die Beschuldigte hat den Namen der Hilfskraft nicht genannt.
+
+18. Dieser Spruch ist den Parteien und der [[organization|StRAK]] zuzustellen. Eine Abschrift ergeht an die Kammeranwältin.
 
 [[location|Graz]], am [[date|17. Oktober 2026]]
 

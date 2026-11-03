@@ -43,6 +43,8 @@ Unser Mandant erlitt einen Bruch des linken Unterarms sowie eine Gehirnerschütt
 
 Rechtlich ergibt sich die Haftung der Gesellschaft aus [[legal_norm|§ 1295 Abs 1 ABGB]] iVm [[legal_norm|§ 1315 ABGB]], weil die Verankerung entgegen der einschlägigen Vorschriften nicht geprüft wurde. Wir verweisen dabei auf die Aussage des Polier und auf das Gutachten. Ein Mitverschulden unseres Mandanten ist nicht ersichtlich, da er zum Zeitpunkt des Unfalls an einer Stelle arbeitete, die ihm von der Bauleitung zugewiesen worden war.
 
+Unser Mandant war vor dem Unfall als Hilfsarbeiter beschäftigt und hat seither keine Einkünfte erzielt; sein Verdienst lag bei rund EUR 2.100,00 netto monatlich. Ein Antrag auf Leistungen aus der Arbeitslosenversicherung wurde gestellt, ist aber noch nicht entschieden. Wir bitten Sie, diesen Umstand bei der Bemessung des Verdienstentgangs zu berücksichtigen.
+
 Wir fordern Sie auf, bis spätestens [[date|30. November 2026]] schriftlich zu erklären, ob Sie die Haftung Ihres Versicherungsnehmers dem Grunde nach anerkennen. Unser Mandant ist grundsätzlich bereit, einen Teil der Ansprüche außergerichtlich zu vergleichen, wenn die Heilungskosten und der Verdienstentgang vollständig ersetzt werden. Sollte keine Erklärung eingehen, werden wir die Ansprüche ohne weitere Ankündigung gerichtlich geltend machen.
 
 Mit freundlichen Grüßen

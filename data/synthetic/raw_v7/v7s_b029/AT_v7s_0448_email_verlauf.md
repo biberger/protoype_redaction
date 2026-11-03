@@ -3,7 +3,7 @@ doc_type: email_verlauf
 jurisdiction: AT
 lang: de
 ---
-Rechtsanwälte GmbH
+Rechtsanwalts GmbH
 [[organization|Bogensberger]]
 [[address|Jesuitengasse 12, 4310 Mauthausen]]
 T: [[phone_number|0732/7367688 Durchwahl 62]]  F: [[phone_number|+43 732 161 31 83 Kl. 81]]
@@ -14,18 +14,18 @@ ERV-Code: [[other_identifier|R820582]]
 
 ---
 
-**Betreff: Spindelegger KG – Mietrückstand und Rückgabe Lagerhalle**
+**Betreff: [[organization|Spindelegger KG]] – Mietrückstand und Rückgabe Lagerhalle**
 
 **Nachricht 1 von 4**
 
 Von: [[lawyer|Martina Aleksić]] <[[email|m.aleksic@aleksic-recht.at]]>
 Gesendet: Montag, [[date|5. Oktober 2026]] 10:14
 An: [[lawyer|Dr. Bogensberger]] <[[email|office@bogensberger.at]]>
-Betreff: Spindelegger KG – Mietrückstand
+Betreff: [[organization|Spindelegger KG]] – Mietrückstand
 
 Sehr geehrter Herr Doktor [[lawyer|Bogensberger]],
 
-namens meines Mandanten [[person|Ernesto Leibetseder]] ersuche ich um Stellungnahme zum Mietrückstand der [[organization|Spindelegger KG]] ([[organization|SKG]]) aus dem Mietverhältnis über die Lagerhalle. Die Gesellschaft schuldet laut unseren Unterlagen Mietzins für die Monate Juni bis September 2026. Die Kaution in Höhe von drei Monatsmieten ist laut unseren Unterlagen noch nicht rückerstattet. Der Mandant wird die Rückerstattung der Kaution im Rahmen eines Gesamtvergleichs prüfen. Die monatliche Miete beträgt EUR 2.300,00 netto. Die Halle wurde dem Mandanten am [[date|1. Juni 2026]] zur Verfügung gestellt, ein Übergabeprotokoll liegt vor. Die Halle ist seit dem Übergabetermin unverändert, sodass keine Zusatzkosten angefallen sind.
+namens meines Mandanten [[person|Ernesto Leibetseder]] ersuche ich um Stellungnahme zum Mietrückstand der [[organization|Spindelegger KG]] ([[organization|SKG]]) aus dem Mietverhältnis über die Lagerhalle. Die Gesellschaft schuldet laut unseren Unterlagen Mietzins für die Monate Juni bis September 2026. Die Kaution in Höhe von drei Monatsmieten ist laut unseren Unterlagen noch nicht rückerstattet. Der Mandant wird die Rückerstattung der Kaution im Rahmen eines Gesamtvergleichs prüfen. Die monatliche Miete beträgt EUR 2.300,00 netto. Die Halle wurde dem Mandanten am [[date|1. Juni 2026]] zur Verfügung gestellt, ein Übergabeprotokoll liegt vor. Die Halle ist seit dem Übergabetermin unverändert, sodass keine Zusatzkosten angefallen sind. Der Schaden wurde unter Schaden-Nr. [[other_identifier|41/180198/24]] gemeldet.
 
 Die [[organization|Spindelegger]] hat den Zutritt zur Halle verweigert, weshalb mein Mandant die Übergabe nicht durchführen konnte. Frau [[person|Evangelia Ing. Angelakis]] hat als Prokuristin der Gesellschaft zugesagt, die Rückstände bis Monatsende zu begleichen.
 
@@ -40,7 +40,7 @@ Rechtsanwältin
 Von: [[lawyer|Dr. Bogensberger]] <[[email|office@bogensberger.at]]>
 Gesendet: Montag, [[date|5. Oktober 2026]] 16:40
 An: [[lawyer|Martina Aleksić]] <[[email|m.aleksic@aleksic-recht.at]]>
-Betreff: AW: Spindelegger KG – Mietrückstand
+Betreff: AW: [[organization|Spindelegger KG]] – Mietrückstand
 
 Sehr geehrte Frau Kollegin [[lawyer|Aleksić]],
 
@@ -49,7 +49,7 @@ ich bestätige den Eingang Ihres Schreibens. Die [[organization|SKG]] bestreitet
 Unser Zeichen: [[other_identifier|745/26 ND]]
 Ihr Zeichen: [[other_identifier|B/Leibetseder/7669]]
 
-Eine Zahlung ohne Anerkennung der Minderung können wir der [[organization|SKG]] nicht empfehlen. Die Minderung wurde bereits im Juli mit einem Schreiben angekündigt, das wir Ihnen gerne nochmals übermitteln. Der Vermieter hat den Reparaturauftrag am [[date|18. Juli 2026]] erteilt, die Reparatur war jedoch erst im Oktober abgeschlossen. Die Kosten des Auftrags trägt der Vermieter. Wir schlagen vor, die Übergabe der Halle gemeinsam zu besichtigen.
+Eine Zahlung ohne Anerkennung der Minderung können wir der [[organization|SKG]] nicht empfehlen. Die Minderung wurde bereits im Juli mit einem Schreiben angekündigt, das wir Ihnen gerne nochmals übermitteln. Der Vermieter hat den Reparaturauftrag am [[date|18. Juli 2026]] erteilt, die Reparatur war jedoch erst im Oktober abgeschlossen. Die Kosten des Auftrags trägt der Vermieter. Wir schlagen vor, die Übergabe der Halle gemeinsam zu besichtigen. Der unstrittige Betrag ist auf das Konto IBAN [[bank_account|AT26 0474 8891 4714 1102]] der Vermieterin zu überweisen.
 
 Mit freundlichen Grüßen
 
@@ -65,7 +65,7 @@ Mobil: [[phone_number|0676 5512084]]
 Von: [[lawyer|Martina Aleksić]] <[[email|m.aleksic@aleksic-recht.at]]>
 Gesendet: Dienstag, [[date|6. Oktober 2026]] 08:52
 An: [[lawyer|Dr. Bogensberger]] <[[email|office@bogensberger.at]]>
-Betreff: AW: AW: Spindelegger KG – Mietrückstand
+Betreff: AW: AW: [[organization|Spindelegger KG]] – Mietrückstand
 
 Sehr geehrter Herr Doktor [[lawyer|Bogensberger]],
 
@@ -91,7 +91,7 @@ Tel. [[phone_number|01/3334917 DW 462]]
 Von: [[lawyer|Dr. Bogensberger]] <[[email|office@bogensberger.at]]>
 Gesendet: Mittwoch, [[date|7. Oktober 2026]] 11:27
 An: [[lawyer|Martina Aleksić]] <[[email|m.aleksic@aleksic-recht.at]]>
-Betreff: AW: AW: AW: Spindelegger KG – Mietrückstand
+Betreff: AW: AW: AW: [[organization|Spindelegger KG]] – Mietrückstand
 
 Sehr geehrte Frau [[lawyer|Aleksić]],
 

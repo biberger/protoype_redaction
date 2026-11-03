@@ -19,7 +19,9 @@ Eingebracht im Wege des Elektronischen Rechtsverkehrs
 
 KLAGE
 
-der Klägerin [[person|VIRGINIA RAUCHBAUER]], geb [[date_of_birth|1. Jänner 1955]], [[address|Badgasse 4/12, 4020 Linz]], Tel. [[phone_number|+43-732-8796750-93]], vertreten durch [[person|Streicher]], Rechtsanwalt, [[address|Gunoldstraße 10, 8584 Hirschegg]]
+der Klägerin [[person|VIRGINIA
+RAUCHBAUER]], geb [[date_of_birth|1. Jänner 1955]], [[address|Badgasse 4/12,
+4020 Linz]], Tel. [[phone_number|+43-732-8796750-93]], vertreten durch [[person|Streicher]], Rechtsanwalt, [[address|Gunoldstraße 10, 8584 Hirschegg]]
 
 gegen
 

@@ -71,6 +71,10 @@ Rechtliche Beurteilung
 
 17. Der Beschuldigte hat seine Treuhänderrolle im Verfahren nicht bestritten. Er vertrat jedoch die Auffassung, eine nachträgliche Verrechnung sei einer Verrechnung im Zeitpunkt der Überweisung gleichzuhalten. Dieser Auffassung folgt der Senat nicht.
 
+18. Der Senat hat bei der Strafzumessung auch berücksichtigt, dass der Beschuldigte bislang nicht als Treuhänder anderer Klienten aufgefallen ist. Eine Wiederholungsgefahr sieht der Senat wegen der angekündigten Umstellung auf eine externe Buchhaltung nicht als gegeben an.
+
+19. Die Zustellung dieses Spruchs an den Klienten [[person|Zangerl]] erfolgt durch die Kammer, an die Klientin [[person|Hauser]] durch die Kammeranwältin.
+
 [[location|Innsbruck]], am [[date|11. Februar 2026]]
 
 Der Vorsitzende: [[judge|Dr. Wanja Mooslechner]]

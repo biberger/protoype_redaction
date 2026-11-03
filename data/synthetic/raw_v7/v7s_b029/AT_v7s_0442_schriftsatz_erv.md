@@ -30,7 +30,7 @@ Der Kläger erhebt gegen die Beklagten zu Handen des [[court|BG Hollabrunn]] fol
 
 1. Die Beklagte sei schuldig, in die Einverleibung des Eigentumsrechtes am Grundstück einzuwilligen, das im Grundbuch wie folgt eingetragen ist: [[land_register_id|EZ 3084]]/Katastralgemeinde [[land_register_id|07653 Hinterbrühl]] ([[court|BG Tulln]]) [[land_register_id|Gst.Nr. 1357]].
 
-2. Die Beklagte sei zur Zahlung von EUR 18.400,00 samt Zinsen zu verurteilen.
+2. Die Beklagte sei zur Zahlung von EUR 18.400,00 samt Zinsen zu verurteilen, zahlbar auf das Konto IBAN [[bank_account|AT44 8278 0670 1132 3264]].
 
 **I. Sachverhalt**
 
@@ -42,7 +42,7 @@ Der Kläger erhebt gegen die Beklagten zu Handen des [[court|BG Hollabrunn]] fol
 
 **II. Rechtliche Beurteilung**
 
-Die Beklagte ist nach [[legal_norm|§ 431 ABGB]] iVm [[legal_norm|§ 418 ABGB]] verpflichtet, die Einverleibung des Eigentumsrechtes zu bewilligen. Die Republik Österreich ist als beklagte Partei 2 beizuziehen, weil die Grunderwerbsteuer zu einem Teil offen ist.
+Die Beklagte ist nach [[legal_norm|§ 431 ABGB]] iVm [[legal_norm|§ 418 ABGB]] verpflichtet, die Einverleibung des Eigentumsrechtes zu bewilligen. Die [[country|Republik Österreich]] ist als beklagte Partei 2 beizuziehen, weil die Grunderwerbsteuer zu einem Teil offen ist.
 
 Die Zuständigkeit des [[court|BG Hollabrunn]] ergibt sich aus der Lage des Grundstücks. Der Streitwert wurde nach dem Kaufpreis bemessen.
 

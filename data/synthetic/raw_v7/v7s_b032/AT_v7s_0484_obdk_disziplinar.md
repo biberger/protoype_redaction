@@ -31,7 +31,7 @@ Begründung
 
 I. Vorgeschichte
 
-Die Rechtsanwaltskammer Wien (im Folgenden: [[organization|RAK Wien]]) hat am [[date|11. Dezember 2025]] die Anzeige an den Disziplinarrat weitergeleitet. Der Anzeige war eine Beschwerde des Klienten [[person|Rudolf Pichler]] vorangegangen, der seit dem [[date|3. März 2025]] vergeblich eine Abrechnung über einen von ihm übergebenen Betrag verlangt hatte.
+Die [[organization|Rechtsanwaltskammer Wien]] (im Folgenden: [[organization|RAK Wien]]) hat am [[date|11. Dezember 2025]] die Anzeige an den Disziplinarrat weitergeleitet. Der Anzeige war eine Beschwerde des Klienten [[person|Rudolf Pichler]] vorangegangen, der seit dem [[date|3. März 2025]] vergeblich eine Abrechnung über einen von ihm übergebenen Betrag verlangt hatte.
 
 Der Beschuldigte hatte das Mandat im Zusammenhang mit einer Schadenersatzforderung übernommen. Die Treuhandschaft wurde unter Treuhandschaft Nr. [[other_identifier|2022/305]] geführt. Das Treuhandkonto lautete auf IBAN [[bank_account|AT13 4199 7192 6779 0565]].
 

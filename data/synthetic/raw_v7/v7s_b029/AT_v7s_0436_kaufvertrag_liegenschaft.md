@@ -19,7 +19,7 @@ Abgeschlossen am [[date|14. Oktober 2026]] in [[address|6395 Hochfilzen]] zwisch
 
 **I. Vertragsparteien**
 
-1. Verkäuferin: [[organization|Geyer KG]], [[company_register_number|FN 96765b]], UID: [[tax_id|ATU87132647]], mit Sitz in [[location|Hochfilzen]], vertreten durch ihre persönlich haftende Gesellschafterin.
+1. Verkäuferin: [[organization|Geyer KG]], [[company_register_number|FN 96765b]], UID: [[tax_id|ATU87132647]], mit Sitz in [[location|Hochfilzen]], vertreten durch ihre persönlich haftende Gesellschafterin, die in [[location|St. Johann im Pongau]] wohnhaft ist.
 
 2. Käuferin zu einem Anteil von einem Halb: Frau [[person|Oswalda Viehauser]], geb. [[date_of_birth|13.10.1997]], wohnhaft in [[address|Am Anger 4, 6370 Kitzbühel]].
 
@@ -47,7 +47,7 @@ Die Vertragserrichtung erfolgte durch [[lawyer|Dr. Stürgkh]], Rechtsanwältin i
 
 2. [[organization|Geyer]] übernimmt die Verpflichtung, allfällige Rückstände aus Betriebskosten bis zum Übergabestichtag zu begleichen. Mit dem Übergabestichtag gehen Nutzen und Gefahr auf die Käuferinnen über.
 
-3. Die Käuferinnen haben die Eintragungsgebühr und die Grunderwerbsteuer zu tragen. Die Kosten der Vertragserrichtung trägt jede Partei zur Hälfte.
+3. Rückfragen zur Abwicklung richten Sie bitte an die Kanzlei unter Tel. [[phone_number|+43-512-1605008 Durchwahl 31]]. Die Käuferinnen haben die Eintragungsgebühr und die Grunderwerbsteuer zu tragen. Die Kosten der Vertragserrichtung trägt jede Partei zur Hälfte.
 
 **V. Aufsandungserklärung**
 

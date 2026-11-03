@@ -41,9 +41,21 @@ Der Schaden am Fahrzeug beläuft sich nach dem Kostenvoranschlag auf EUR 6.480,0
 
 Die Lenkerin des zweiten beteiligten Fahrzeugs ist Frau [[person|Ing. Ati Rafaela]] (*[[date_of_birth|28. November 1970]]), die als Zeugin den Hergang bestätigt hat. Sie hat ihre Angaben schriftlich festgehalten. Ihre Angaben decken sich mit den Lichtbildern, die wir beilegen. Herr [[person|Arkadius Mayr-Harting]] war als Beifahrer im Fahrzeug der Zeugin und bestätigt ebenfalls, dass der Lieferwagen rückwärts ausgeparkt hat.
 
-Die [[organization|Fürstenberg KG]] hat gegenüber unserer Klientin erklärt, die Haftung sei Sache des Versicherers. Wir sind dieser Ansicht nicht, weil der Fahrer bei der [[organization|FK]] angestellt war und die Schadenersatzpflicht daher bei der Gesellschaft liegt. Die Haftung ergibt sich aus [[legal_norm|§ 1315 ABGB]] iVm [[legal_norm|§ 1313a ABGB]].
+Die [[organization|Fürstenberg KG]] hat gegenüber unserer Klientin erklärt, die Haftung sei Sache des Versicherers. Wir sind dieser Ansicht nicht, weil der Fahrer bei der [[organization|FK]] angestellt war und die Schadenersatzpflicht daher bei der Gesellschaft liegt. Die Haftung ergibt sich aus [[legal_norm|§ 1315 ABGB]] iVm [[legal_norm|§ 1313a ABGB]]. Die Verletzung der Sorgfaltspflicht liegt darin, dass der Lieferwagen ohne Einweisung rückwärts ausparkte, obwohl der Parkplatz voll besetzt war. Die Zeugin [[person|Ing. Ati Rafaela]] hat dies unmittelbar gesehen, und [[person|Arkadius Mayr-Harting]] bestätigt den Vorgang ohne Abweichung. Ein Mitverschulden unserer Klientin, die im Fahrzeug nicht anwesend war, ist daher auszuschließen.
+
+Unsere Klientin hat den Schaden am [[date|9. September 2026]] nicht selbst verursacht und ist ihrer Pflicht zur Schadensminderung nachgekommen, indem sie das Fahrzeug unverzüglich in die Werkstatt verbracht hat. Die Werkstatt hat den Auftrag bisher nicht durchgeführt, weil die Freigabe der Versicherung aussteht.
 
 Wir ersuchen Sie daher, als Haftpflichtversicherer der [[organization|Fürstenberg]] den Schaden bis zum [[date|20. November 2026]] zu regulieren. Die Bankverbindung unserer Klientin lautet IBAN [[bank_account|AT72 6210 2385 7144 0728]]; die Zahlung ist auf dieses Konto zu leisten.
+
+Die Schadenaufstellung unserer Klientin stellt sich wie folgt dar:
+
+Reparaturkosten lt. Kostenvoranschlag EUR 6.480,00 netto
+Mietwagen 10 Tage à EUR 58,00 EUR 580,00
+Nutzungsausfall (Pauschale) EUR 420,00
+Gutachterkosten EUR 310,00
+Summe EUR 7.790,00
+
+Das Gutachten zur Schadenshöhe hat der beeidete Sachverständige [[person|Gerold Pichler]] am [[date|12. September 2026]] erstattet. Er hält die Reparatur für wirtschaftlich, weil der Wiederbeschaffungswert des Fahrzeugs deutlich über dem Reparaturaufwand liegt. Eine Verweisung auf eine günstigere Werkstatt kommt daher nicht in Betracht.
 
 Die Vertragsdaten der [[organization|FK]] liegen uns nicht vor. Wir bitten um Bekanntgabe der Polizzennummer des Haftpflichtvertrags sowie des zuständigen Sachbearbeiters. Eine Mitteilung ist bis zum genannten Datum erbeten.
 

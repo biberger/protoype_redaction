@@ -38,6 +38,8 @@ Zur Vertragsbeziehung ist festzuhalten, dass zwischen unserem Mandanten und der 
 
 Rechtlich stützen wir die Ansprüche auf [[legal_norm|§ 1315 ABGB]] und auf [[legal_norm|§ 1298 ABGB]], wobei die Beweislast für die Sorgfalt bei der Lagerung nach unserer Auffassung bei der [[organization|Böhmer KG]] liegt. Der Schaden beläuft sich derzeit auf EUR 7.820,00 an Heilungskosten und Verdienstentgang; das Schmerzengeld ist gesondert zu bemessen.
 
+Die Zeugenerklärung wurde am [[date|25. Juni 2026]] vor einem Notar unterfertigt und ist der Schadensmeldung beigelegt. Eine Kopie der Lagerordnung der [[organization|Böhmer KG]] haben wir angefordert; sie liegt uns bisher nicht vor.
+
 Wir ersuchen Sie, den Schaden bis zum [[date|31. Oktober 2026]] zu prüfen und uns mitzuteilen, ob Sie die Haftung der [[organization|Böhmer KG]] anerkennen. Eine Zahlung auf das Konto unseres Klienten wird erbeten, sobald die Anerkennung vorliegt.
 
 Mit freundlichen Grüßen

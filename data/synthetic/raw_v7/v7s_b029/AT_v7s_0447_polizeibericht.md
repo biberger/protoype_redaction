@@ -54,7 +54,7 @@ Die Verletzungen von [[person|Berner]] und [[person|Caba]] sind nach den Befunde
 
 Die Aussage von [[person|Huemer]] zum Ampelzustand wurde ausführlich protokolliert. Die Lenkerin erklärte, sie habe die Geschwindigkeit wegen eines vorausfahrenden Lastwagens nicht reduzieren können. Diese Angabe wird im Rahmen der Erhebungen überprüft. Die Zeugin wurde auf die Möglichkeit einer schriftlichen Ergänzung hingewiesen.
 
-Die Verständigung der Angehörigen der Verletzten erfolgte durch die Dienststelle um 14:10 Uhr. Die Lebensgefährtin von [[person|Berner]] wurde am Unfallort von [[person|Ilić]] betreut, bis sie von einem Angehörigen abgeholt werden konnte. Der Pkw der [[person|Urbach]] wurde vom Abschleppdienst übernommen und in eine Werkstatt nach Villach verbracht.
+Die Verständigung der Angehörigen der Verletzten erfolgte durch die Dienststelle um 14:10 Uhr. Die Lebensgefährtin von [[person|Berner]] wurde am Unfallort von [[person|Ilić]] betreut, bis sie von einem Angehörigen abgeholt werden konnte. Der Pkw der [[person|Urbach]] wurde vom Abschleppdienst übernommen und in eine Werkstatt nach [[location|Villach]] verbracht.
 
 Der Zeuge [[person|Gerhard Wiesflecker]], der mit seinem Fahrrad an der Kreuzung stand, gab an, die Ampel habe für die Fahrtrichtung der [[person|Huemer]] zuletzt Gelb gezeigt. Er konnte jedoch den Übergang von Grün auf Gelb nicht bestätigen. Seine Aussage wurde auf dem Formblatt festgehalten und unterschrieben.
 

@@ -14,7 +14,7 @@ Tel. [[phone_number|0316 920493-73]]
 
 **Zusammensetzung des Disziplinarrates**
 
-Der Disziplinarrat der Oberösterreichischen Rechtsanwaltskammer hat in der Disziplinarsache gegen Rechtsanwalt [[lawyer|Jad Mustafa]] in der Sitzung vom [[date|9. Juli 2026]] wie folgt entschieden:
+Der [[court|Disziplinarrat der Oberösterreichischen Rechtsanwaltskammer]] hat in der Disziplinarsache gegen Rechtsanwalt [[lawyer|Jad Mustafa]] in der Sitzung vom [[date|9. Juli 2026]] wie folgt entschieden:
 
 Vorsitzende: [[judge|Verona Brauner]]
 Beisitzer: [[judge|Milvio Marasco]]

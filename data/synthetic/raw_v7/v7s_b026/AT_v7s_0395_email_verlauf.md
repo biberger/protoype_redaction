@@ -24,7 +24,7 @@ Sehr geehrter Herr [[person|Plankensteiner]],
 
 die Mängelliste der [[organization|Friedel Bau]] ist eingelangt. Für die Dachflächen in [[location|St. Anton am Arlberg]] werden zwei offene Punkte gemeldet: eine fehlende Dampfbremse im Bereich der Gaube und eine unzureichende Verblechung am Kamin. Die Fristen für die Mängelbehebung laufen ab dem [[date|20. März 2026]].
 
-Ich bitte Sie, die Abnahmeprotokolle bis Ende der Woche zu übermitteln. Die Abschlagsrechnung vom [[date|3. März 2026]] bleibt bis zur Klärung der Mängel einbehalten; über den Restbetrag von EUR 4.200,00 entscheiden wir nach Eingang des Prüfberichts.
+Ich bitte Sie, die Abnahmeprotokolle bis Ende der Woche zu übermitteln. Die Abschlagsrechnung vom [[date|3. März 2026]] bleibt bis zur Klärung der Mängel einbehalten; über den Restbetrag von EUR 4.200,00 entscheiden wir nach Eingang des Prüfberichts. Eine Teilzahlung ist nach Rücksprache mit der Geschäftsleitung denkbar.
 
 Mit freundlichen Grüßen
 [[person|Isabell Torggler]]
@@ -76,7 +76,7 @@ Betreff: AW: Rechnung [[organization|Friedel Bau GmbH]]
 
 Lieber Herr [[person|Plankensteiner]],
 
-die [[organization|Friedel Bau]] ist mit einer Prüfung einverstanden. Bitte senden Sie die Mängelliste bis [[date|20. März 2026]], dann beginnt die Frist für die Mängelbehebung zu laufen. Frau [[person|Torggler]] bearbeitet den Vorgang und ist unter Tel. [[phone_number|0732/4943131-43]] erreichbar. Sollte die zweite Rate ausbleiben, behält sich die Bauunternehmung vor, die Arbeiten an den Dachflächen einzustellen. Wir bitten Sie, dies bei Ihrer Disposition zu berücksichtigen. Frau [[person|Torggler]] benötigt dafür bis zum [[date|18. März 2026]] die Fotodokumentation des Gerüsts.
+die [[organization|Friedel Bau]] ist mit einer Prüfung einverstanden. Bitte senden Sie die Mängelliste bis [[date|20. März 2026]], dann beginnt die Frist für die Mängelbehebung zu laufen. Frau [[person|Torggler]] bearbeitet den Vorgang und ist unter Tel. [[phone_number|0732/4943131-43]] erreichbar. Sollte die zweite Rate ausbleiben, behält sich die Bauunternehmung vor, die Arbeiten an den Dachflächen einzustellen. Wir bitten Sie, dies bei Ihrer Disposition zu berücksichtigen. Frau [[person|Torggler]] benötigt dafür bis zum [[date|18. März 2026]] die Fotodokumentation des Gerüsts. Die Mängelbehebung erfolgt nach unserer Vorgabe durch einen Fachbetrieb.
 
 > Von: [[person|Martin Plankensteiner]]
 > Gesendet: [[date|10. März 2026]]

@@ -76,13 +76,21 @@ IV. KAUFPREIS UND ZAHLUNG
 
 4. Die Kanzlei übernimmt die Abwicklung als Treuhänder. Die Treuhandgebühr beträgt 1,5 % des Kaufpreises zuzüglich Umsatzsteuer.
 
+IVa. TREUHANDVEREINBARUNG
+
+1. Die Kanzlei nimmt den Kaufpreis als Treuhänderin entgegen und verpflichtet sich, ihn nur nach Eintritt aller in dieser Urkunde genannten Voraussetzungen auszufolgen. Als Voraussetzungen gelten: der Eingang der Lastenfreistellungserklärungen, die Vorlage der Unbedenklichkeitsbescheinigung des Finanzamtes und die Eintragung des Rangvermerks zugunsten der Käufer.
+2. Die Käufer erklären, dass die Mittel aus eigenen Ersparnissen und aus einem Darlehen der [[organization|Raiffeisenbank Zwettl registrierte Genossenschaft mit beschränkter Haftung]] stammen. Die Darlehenszusage liegt der Kanzlei vor.
+3. Bei Rücktritt eines Vertragsteils vor der Eintragung ist der eingezahlte Betrag nach Abzug der angefallenen Gebühren und Auslagen an den Zahlenden zurückzuüberweisen. Die Treuhandgebühr nach Abschnitt IV Z 4 bleibt in diesem Fall zur Hälfte geschuldet.
+4. Die Kanzlei führt über alle Zahlungen ein Treuhandbuch. Die Buchungen werden den Vertragsparteien auf Verlangen mitgeteilt. Zinsen aus dem Treuhandkonto stehen den Käufern zu, soweit der Betrag länger als drei Monate verwahrt wird.
+5. Die Vertragsparteien nehmen zur Kenntnis, dass die Kanzlei gegenüber den Pfandgläubigern nur insoweit verpflichtet ist, als die Lastenfreistellung im Treuhandauftrag ausdrücklich genannt ist.
+
 V. AUFSANDUNGSERKLÄRUNG
 
 Die Verkäufer erteilen hiermit die Aufsandungserklärung gemäß [[legal_norm|§ 26 GBG]] und bewilligen die Einverleibung des Eigentumsrechtes für die Käufer je zur Hälfte. Die Käufer nehmen die Aufsandung an. Die Vertragsparteien beauftragen die Kanzlei, den Antrag auf Eintragung beim zuständigen Grundbuchsgericht einzubringen. Die Eintragung erfolgt nach [[legal_norm|§ 31 GBG]] iVm [[legal_norm|§ 26 GBG]].
 
 VI. GRUNDERWERBSTEUER UND KOSTEN
 
-Die Grunderwerbsteuer nach dem [[legal_norm|Grunderwerbsteuergesetz]] wird von den Käufern getragen und beträgt bei einem Bemessungsgrundlage von EUR 486.000,00 voraussichtlich EUR 17.010,00. Sie ist nach [[legal_norm|§ 4 GrEStG]] binnen eines Monats an das Finanzamt zu entrichten. Die Eintragungsgebühr sowie die Vertragserrichtungskosten trägt der Käufer.
+Die Grunderwerbsteuer nach dem [[legal_norm|Grunderwerbsteuergesetz]] wird von den Käufern getragen und beträgt bei einer Bemessungsgrundlage von EUR 486.000,00 voraussichtlich EUR 17.010,00. Sie ist nach [[legal_norm|§ 4 GrEStG]] binnen eines Monats an das Finanzamt zu entrichten. Die Eintragungsgebühr sowie die Vertragserrichtungskosten trägt der Käufer.
 
 VII. ÜBERGABE UND BESITZ
 
@@ -92,11 +100,12 @@ VIII. GEWÄHRLEISTUNG
 
 Die Liegenschaften werden im gegenwärtigen Zustand übergeben. Die Verkäufer haften für bestehende Mängel nur insoweit, als sie diese arglistig verschwiegen haben. Für den Zustand des Wohnhauses wird keine Haftung übernommen, soweit die Käufer die Besichtigung vor Vertragsabschluss durchgeführt haben.
 
-IX. SCHLUSSBESTIMMUNGEN
+IX. BESICHTIGUNG UND ÜBERGABE
 
-1. Änderungen und Ergänzungen dieses Vertrages bedürfen der Schriftform.
-2. Die Vertragsparteien bestätigen, dass sie vor der Unterfertigung eine Abschrift erhalten haben.
-3. Sollte eine Bestimmung unwirksam sein, bleibt der Vertrag im Übrigen wirksam.
+1. Die Käufer haben die Liegenschaften am [[date|2. Mai 2026]] gemeinsam mit den Verkäufern besichtigt. Das Wohnhaus auf der Liegenschaft 1 wurde im Jahr 1978 errichtet und zuletzt im Jahr 2009 an die Heizungsanlage angeschlossen. Die Dachgeschoßausbauten sind nicht genehmigt, sie werden nicht als Vertragsbestandteil angesehen.
+2. Der Garten auf der Liegenschaft 3 ist mit einem Gerätehaus bebaut, dessen Baubewilligung die Verkäufer nicht vorlegen konnten. Die Käufer übernehmen das Gerätehaus in dem Zustand, in dem es sich befindet.
+3. Die Übergabe der Schlüssel erfolgt in der Kanzlei. Ein Übergabeprotokoll mit Zählerständen für Strom, Gas und Wasser wird von beiden Parteien unterfertigt.
+
 
 X. LASTENFREISTELLUNG UND PFANDRECHTE
 
@@ -110,13 +119,20 @@ XI. VOLLMACHT UND BELEHRUNG
 2. Die Kanzlei hat die Vertragsparteien darauf hingewiesen, dass der Vertrag erst mit der Einverleibung des Eigentumsrechtes im Grundbuch wirksam wird und dass die Grunderwerbsteuer unabhängig von der Eintragung fällig ist.
 3. Die Kanzlei hat ferner darauf hingewiesen, dass sie nur die Interessen der Parteien gemeinsam vertritt und keine Beratung über steuerliche Folgen einer Eigennutzung übernimmt. Die Parteien wurden ersucht, sich hierzu einen Steuerberater zu wählen.
 
-XII. ANLAGEN
+XII. SCHLUSSBESTIMMUNGEN
+
+1. Änderungen und Ergänzungen dieses Vertrages bedürfen der Schriftform.
+2. Die Vertragsparteien bestätigen, dass sie vor der Unterfertigung eine Abschrift erhalten haben.
+3. Sollte eine Bestimmung unwirksam sein, bleibt der Vertrag im Übrigen wirksam.
+4. Gerichtsstand für Streitigkeiten aus diesem Vertrag ist das für die Lage der Liegenschaften zuständige Gericht.
+
+XIII. ANLAGEN
 
 Anlage ./A: Grundbuchsauszug der [[land_register_id|EZ 2666]] vom [[date|8. Mai 2026]]
 Anlage ./B: Grundbuchsauszug der [[land_register_id|EZ 2845]] vom [[date|8. Mai 2026]]
 Anlage ./C: Lageplan und Energieausweis
 
-Schweiggers, am [[date|12. Juni 2026]]
+[[location|Schweiggers]], am [[date|12. Juni 2026]]
 
 VERKÄUFER:
 
