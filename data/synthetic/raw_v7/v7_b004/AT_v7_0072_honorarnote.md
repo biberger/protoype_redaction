@@ -49,5 +49,11 @@ Die Zahlung erfolgt auf IBAN [[bank_account|AT56 6235 0830 1977 2668]]. Bei Rüc
 
 Die Abwicklung des [[organization|Glas]] erfolgt über die Kanzlei in [[address|8162 Passail]]. Die Ladung des [[court|BG Döbling]] ist am [[date|29.06.2026]] vorgesehen.
 
+Die Besprechung mit [[person|Steffen Bachl]] und [[person|Hoda Al-Nashwati]] fand am [[date|14.04.2026]] statt. [[person|Friedrich Steckel]] wurde am selben Tag über den Verfahrensstand informiert. Die Aufgaben der [[organization|Glas]] umfassten die Prüfung der Verträge und die Korrespondenz mit der Gegenseite.
+
+Die Planerin [[person|Dipl.-Ing. Vukosava Rakočević]] hat die Unterlagen am [[date|28.04.2026]] nachgereicht. Die Kanzlei hat die Ergänzung am [[date|04.05.2026]] geprüft.
+
+Auslagen für Porto und Kopien sind nicht enthalten.
+
 Mit freundlichen Grüßen
 [[person|Wassilko]]

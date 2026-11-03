@@ -30,7 +30,7 @@ Papp]], geb. [[date_of_birth|22. November 1994]], StA: [[country|Ungarn]]
 
 Sehr geehrte Damen und Herren,
 
-in der Angelegenheit der Kretz GmbH verkünden wir den Streit. Die [[organization|Kretz]] hat die Liegenschaft im Jahr 2024 erworben und die Pfandrechte nicht ordnungsgemäß gelöscht.
+in der Angelegenheit der [[organization|Kretz GmbH]] verkünden wir den Streit. Die [[organization|Kretz]] hat die Liegenschaft im Jahr 2024 erworben und die Pfandrechte nicht ordnungsgemäß gelöscht.
 
 Der Grundbuchsstand weist folgende Einträge aus:
 
@@ -55,7 +55,7 @@ Der Sitz der Verwaltung liegt in [[address|6858 Schwarzach]]. Die Parteien errei
 
 Die Akten liegen beim [[court|Bezirksgericht Innere Stadt Wien]] und beim [[court|BG Innere Stadt Wien]] zur Einsicht auf.
 
-Die Bank der Kretz GmbH hat den Kontoauszug mit dem Konto [[bank_account|AT15 8514 6710 9316 7598]] übermittelt. Die Belege liegen bei.
+Die Bank der [[organization|Kretz GmbH]] hat den Kontoauszug mit dem Konto [[bank_account|AT15 8514 6710 9316 7598]] übermittelt. Die Belege liegen bei.
 
 Mit freundlichen Grüßen
 

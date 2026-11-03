@@ -44,5 +44,11 @@ Die Zahlung ist auf IBAN [[bank_account|AT65 2650 9646 0838 7143]] zu leisten. R
 
 Die SV-Nr. [[social_security_number|5515 030922]] wurde für die Abrechnung angegeben. Die Liegenschaft liegt in [[address|9712 Fresach]] und ist auf der Gemarkung [[location|St. Anton am Arlberg]] nicht gelegen.
 
+Die Besprechung mit [[person|Mag. Dr. Fanny Mannlicher]] fand am [[date|11.03.2026]] in der Kanzlei in [[address|2301 Andlersdorf]] statt. Die Mandantin legte den Kaufvertrag vom [[date|27.02.2026]] vor, der die Grundstücke [[land_register_id|EZ: 1236]] betrifft. [[person|Jasminko Rajković]] wurde am [[date|18.03.2026]] schriftlich zur Stellungnahme aufgefordert.
+
+Die Frist zur Antwort lief bis zum [[date|02.04.2026]]. Die Antwort erfolgte fristgerecht. Die Kanzlei hat am [[date|15.04.2026]] eine Replik verfasst und das Schreiben an das [[court|Bezirksgericht Vöcklabruck]] übermittelt. Die Verhandlung wurde auf den [[date|20.05.2026]] anberaumt.
+
+Die Auslagen für Gerichtsgebühren und Grundbuchsabfragen sind im Honorar nicht enthalten. Sie werden gesondert nach Beleg verrechnet.
+
 Mit freundlichen Grüßen
 [[organization|Serov]]

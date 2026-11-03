@@ -46,6 +46,12 @@ Die Gesamtsumme ist binnen 14 Tagen auf IBAN [[bank_account|AT74 4625 0524 7246 
 
 Tel. [[phone_number|+43-732-5647273 DW 153]]
 
+Die Kanzlei hat den Auftrag am [[date|02.02.2026]] angenommen. In der Folge wurden die Grundbuchsauszüge zu [[land_register_id|EZ 1780]] und [[land_register_id|GB 71668 Hohenweiler]] eingeholt. Die Auswertung ergab, dass die Liegenschaft seit dem Jahr 2011 nicht mehr im Eigentum der Mandantin steht.
+
+[[person|Mag. Dr. Geno Gašparovič]] hat die Gegenseite mit Schreiben vom [[date|16.02.2026]] über die Rechtslage informiert. Die Antwort von [[person|Latzko]] ging am [[date|05.03.2026]] ein. Der Vergleichsvorschlag wurde am [[date|20.04.2026]] mit der Mandantin besprochen; sie hat ihn abgelehnt.
+
+Die Kanzlei hat im Anschluss die Klage vorbereitet. Die Auslagen für Gerichtsgebühren sind in der Honorarnote nicht enthalten und werden vom Gericht unmittelbar eingehoben. Die Schreibgebühr für Abschriften ist mit EUR 35,00 je Seite angesetzt und in der Position vom [[date|19.10.2026]] enthalten.
+
 Die Geschäftsführung der [[organization|Lussnigg]] bestätigt die Richtigkeit.
 Mit freundlichen Grüßen
 [[organization|Lussnigg]]

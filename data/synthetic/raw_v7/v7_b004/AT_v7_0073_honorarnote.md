@@ -53,5 +53,11 @@ Summe brutto | | 1.452,00
 
 Die Zahlung ist auf IBAN [[bank_account|AT62 3909 2262 7303 4016]] zu leisten. Telefonisch erreichen Sie uns unter Tel. [[phone_number|0662 843878-1]].
 
+Die Besprechung mit [[person|Anela Rocco]] und [[person|Nerthus Claus]] fand am [[date|18.05.2026]] in der Kanzlei statt. Dabei wurden die Angaben zur Bauausführung und zum Zeitplan der [[organization|Pröll]] erörtert. [[person|Clarelia Woschitz]] konnte an dem Termin nicht teilnehmen; sie ließ sich durch ihren Sohn vertreten, der keine Vollmacht vorlegte. Die Kanzlei hat daher auf schriftliche Zustimmung bestanden.
+
+Die Mängelrüge wurde am [[date|03.06.2026]] wiederholt; eine Antwort der [[organization|Pröll]] erfolgte am [[date|17.06.2026]]. [[person|Ilsemarie Scherb]] hat die Richtigkeit der Messungen bestätigt. [[person|Uta Markt]] hat die Angaben zur Zufahrt bestätigt; sie wohnt im selben Gebäude wie [[person|Arnd Haslinger]].
+
+Die Auslagen für das Gutachten in Höhe von EUR 640,00 sind in der Schlussrechnung nicht enthalten. Sie wurden unmittelbar an den Sachverständigen überwiesen. Die Kanzlei ersucht um Begleichung der Honorarnote innerhalb von vierzehn Tagen.
+
 Mit freundlichen Grüßen
 [[person|Goldberger]]

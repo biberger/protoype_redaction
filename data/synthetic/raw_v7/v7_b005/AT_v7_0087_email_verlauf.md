@@ -98,6 +98,23 @@ Mit freundlichen Grüßen
 [[person|Serbana Arsenescu]]
 
 -----Ursprüngliche Nachricht-----
+Von: [[person|Vilma Reiterer]] <[[email|v.reiterer@koppitz.at]]>
+Gesendet: Dienstag, [[date|28. Oktober 2025]] 14:03
+An: [[person|Tölk]]
+Cc: [[person|Iskender Din]]
+Betreff: Zustimmung Kaufpreis
+
+Sehr geehrter Herr [[person|Tölk]],
+
+als Geschäftsführerin der [[organization|Koppitz Immobilien GmbH]] stimme ich dem Kaufpreis von EUR 385.000,00 zu. Die Liegenschaften [[land_register_id|Gst 204]] und [[land_register_id|Gst 297/4]] sind lastenfrei. Die Mietverträge enden mit [[date|31. Dezember 2025]].
+
+Bitte senden Sie die Zahlungsaufforderung an die Adresse [[address|Gewerbepark 7, 9020 Klagenfurt am Wörthersee]].
+
+Mit freundlichen Grüßen
+[[person|Vilma Reiterer]]
+Tel. [[phone_number|+43 463 307 99 84-6 Kl. 12]]
+
+-----Ursprüngliche Nachricht-----
 Von: [[person|Tölk]] <[[email|toelk@mueckstein.at]]>
 Gesendet: Montag, [[date|27. Oktober 2025]] 10:22
 An: [[person|Serbana Arsenescu]]
@@ -125,13 +142,26 @@ Mit freundlichen Grüßen
 
 -----Ursprüngliche Nachricht-----
 Von: [[person|Tölk]] <[[email|toelk@mueckstein.at]]>
+Gesendet: Dienstag, [[date|21. Oktober 2025]] 11:40
+An: [[person|Iskender Din]]
+Betreff: Gutachten
+
+Sehr geehrter Herr [[person|Din]],
+
+das Schätzgutachten vom [[date|8. Oktober 2025]] liegt nun vor. Der Verkehrswert beträgt EUR 392.500,00. Wir bitten um Stellungnahme bis [[date|31. Oktober 2025]]. Eine Kopie des Gutachtens geht an [[person|Serbana Arsenescu]].
+
+Mit freundlichen Grüßen
+[[person|Tölk]]
+
+-----Ursprüngliche Nachricht-----
+Von: [[person|Tölk]] <[[email|toelk@mueckstein.at]]>
 Gesendet: Freitag, [[date|17. Oktober 2025]] 13:58
 An: [[person|Iskender Din]]
 Betreff: Pfandrechte
 
 Sehr geehrter Herr [[person|Din]],
 
-laut dem Grundbuchauszug [[land_register_id|EZ 3394]] besteht kein Pfandrecht. Die Grunderwerbsteuer wird von der Käuferin getragen. Die Verlassenschaft nach [[person|Ludwig Hornung]] ist davon nicht betroffen.
+laut dem Grundbuchauszug [[land_register_id|EZ 3394]] besteht kein Pfandrecht. Die Grunderwerbsteuer wird von der Käuferin getragen. Die Verlassenschaft nach [[person|Johann Gasser]] ist davon nicht betroffen.
 
 Mit freundlichen Grüßen
 [[person|Tölk]]

@@ -39,7 +39,7 @@ Miteigentümerin:
 SV-Nr. [[social_security_number|4454 191073]],
 wohnhaft in [[address|2084 Weitersfeld]]
 
-Jacquleine Schmitzer, Geburtsdatum: [[date_of_birth|24.01.1946]], wohnhaft in [[location|Eisenstadt]], tritt als Bevollmächtigte der Verkäuferin auf.
+[[person|Jacquleine Schmitzer]], Geburtsdatum: [[date_of_birth|24.01.1946]], wohnhaft in [[location|Eisenstadt]], tritt als Bevollmächtigte der Verkäuferin auf.
 
 I. Vorbemerkung
 

@@ -50,4 +50,18 @@ Tel. [[phone_number|07242 406092 Durchwahl 41]]
 Fax [[phone_number|07242 406093]]
 E-Mail: [[email|office@gerstl-haustechnik.at]]
 
+Standorte und Gesellschafterbeschlüsse:
+Die Gesellschaft unterhält einen Montagestützpunkt in [[location|Amstetten]]. Die Gesellschafterversammlung vom [[date|25.06.2019]] beschloss die Teilung des Geschäftsanteils der [[person|Heidemarie Grosz]].
+
+Datum | Eintragung | Bemerkung
+[[date|25.06.2019]] | Teilung eines Geschäftsanteils | übernommen durch [[person|Erwin Haslinger]]
+[[date|09.03.2021]] | Prokura [[person|Kaveh Rostami]] | Einzelprokura
+[[date|18.10.2023]] | Bestellung [[person|Ing. Georg Schnabl]] zum Geschäftsführer | gemeinsam mit [[person|Pierre Mag. Zedler]]
+
+Mit Beschluss vom [[date|07.12.2024]] genehmigte das Gericht die Änderung des Gesellschaftsvertrages. Die Vertretungsbefugnis des [[person|Kaveh Rostami]] ist auf den Standort Amstetten beschränkt.
+
+Der Gesellschafter [[person|Erwin Haslinger]] hat am [[date|14.01.2025]] Auskunft über die Gesellschaftsanteile verlangt. Die Auskunft wurde erteilt.
+
+Die Gesellschaft betreibt die Haustechnik für Wohnanlagen in [[location|Waidhofen]] und [[location|Neuhofen an der Ybbs]].
+
 [[location|St. Ruprecht an der Raab]], am [[date|02.11.2026]]

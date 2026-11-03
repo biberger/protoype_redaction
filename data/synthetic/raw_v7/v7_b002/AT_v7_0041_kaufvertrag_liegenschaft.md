@@ -37,7 +37,7 @@ Vertreterin:
 
 I. Vorbemerkung
 
-Die [[organization|Keck]] verkauft die Liegenschaften an die Käuferinnen. Die Liegenschaften sind im Grundbuch des [[court|Bezirksgericht Favoriten]] erfasst.
+Die [[organization|Keck]] verkauft die Liegenschaften an die Käuferinnen; ihr Sitz ist [[address|8093 Bierbaum am Auersbach]]. Die Liegenschaften sind im Grundbuch des [[court|Bezirksgericht Favoriten]] erfasst. Für künftige Eintragungen ist das [[court|BG Favoriten]] zuständig.
 
 II. Kaufpreis
 
@@ -51,7 +51,7 @@ Die Zahlung erfolgt auf das Treuhandkonto IBAN [[bank_account|AT67 4527 8087 118
 
 III. Aufsandung und Kosten
 
-Die [[organization|Keck]] erklärt die Aufsandung des Eigentums zugunsten der Käuferinnen. Die Klientennummer [[other_identifier|28708]] bezieht sich auf die Abwicklung in der Kanzlei. Die Kl.-Nr. [[other_identifier|23438]] betrifft den Verkäufer. Das Fahrzeug mit der [[other_identifier|FIN 6ZHXLUL8H9469CP9L]] ist nicht Teil des Kaufs.
+Die [[organization|Keck]] erklärt die Aufsandung des Eigentums zugunsten der Käuferinnen. Klientennummer: [[other_identifier|28708]] bezieht sich auf die Abwicklung in der Kanzlei. Die Kl.-Nr. [[other_identifier|23438]] betrifft den Verkäufer. Das Fahrzeug mit der FIN [[other_identifier|6ZHXLUL8H9469CP9L]] ist nicht Teil des Kaufs.
 
 IV. Schlussbestimmungen
 

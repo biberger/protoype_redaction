@@ -37,11 +37,11 @@ Die Zahlung erfolgt auf das Treuhandkonto IBAN [[bank_account|AT71 7641 9809 552
 
 II. Aufsandung
 
-Die Verkäuferin erklärt die Aufsandung des Eigentums zugunsten des Käufers. Der Antrag ist beim [[court|Bezirksgericht Liesing]] als Grundbuchsgericht einzubringen. Die Kosten des Treuhandbuchs trägt der Käufer; die Kundennummer lautet [[other_identifier|Kd.-Nr. 584394]].
+Die Verkäuferin erklärt die Aufsandung des Eigentums zugunsten des Käufers. Der Antrag ist beim [[court|Bezirksgericht Liesing]] als Grundbuchsgericht einzubringen. Die Kosten des Treuhandbuchs trägt der Käufer; die Kundennummer lautet Kd.-Nr. [[other_identifier|584394]].
 
 III. Schaden und Fahrzeug
 
-Die Liegenschaft war vom Schaden [[other_identifier|Schaden-Nr. 83/774647/23]] betroffen. Der Schaden ist behoben. Auf dem Grundstück steht ein Fahrzeug mit der [[other_identifier|FIN FB82EHSD7DN2R3DKX]]; es wird mit der Übergabe entfernt.
+Die Liegenschaft war von einem Schaden betroffen, Schaden-Nr. [[other_identifier|83/774647/23]]. Der Schaden ist behoben. Auf dem Grundstück steht ein Fahrzeug mit der FIN [[other_identifier|FB82EHSD7DN2R3DKX]]; es wird mit der Übergabe entfernt.
 
 IV. Schlussbestimmungen
 

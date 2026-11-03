@@ -49,5 +49,17 @@ Summe brutto | | 1.920,00
 
 Bitte überweisen Sie den Betrag auf IBAN [[bank_account|AT54 9842 6039 0573 5246]] binnen 14 Tagen. Für Rückfragen: Tel. [[phone_number|+43 463 195 94 23 DW 376]].
 
+Die Kanzlei [[organization|Sohm]] wurde am [[date|14.01.2026]] mit der Prüfung des Kaufvertrages über das Haus in [[address|7302 Nikitsch]] beauftragt. Die Vorbesprechung mit [[person|Engelbert Edelmann]] und [[person|Rudolf Hrdlicka]] fand am [[date|20.01.2026]] statt. Dabei wurde festgehalten, dass die Parteien über die Lastenfreistellung noch keine Einigung erzielt haben.
+
+Die Grundbuchsabfrage zu [[land_register_id|KG Leutschach]]/[[land_register_id|E.Z. 2289]] ergab eine Pfandrechtseintragung zugunsten der [[organization|Wöhrer Handels GmbH]]. Eine Löschungserklärung ist bis zum [[date|30.01.2026]] nicht eingelangt.
+
+Am [[date|10.02.2026]] wurde der Entwurf des Vertrages an alle Beteiligten übermittelt. [[person|Sanam Ahmady]] hat den Vertragsentwurf am [[date|24.02.2026]] unterfertigt, [[person|Kathi März]] hat die Zustimmung am [[date|27.02.2026]] erteilt.
+
+Die Auseinandersetzung über den Kaufpreis wurde im Verfahren vor dem [[court|Bezirksgericht Floridsdorf]] anhängig. Die Kanzlei hat in diesem Verfahren zwei vorbereitende Schriftsätze verfasst, die am [[date|12.06.2026]] und am [[date|08.07.2026]] eingebracht wurden. Die Gegenseite hat die Forderung am [[date|22.07.2026]] teilweise anerkannt.
+
+[[person|Alwinus Reindl]] hat die Abtretung der Ansprüche am [[date|03.08.2026]] abgelehnt. Die Kanzlei hat in der Folge die Haftung des Verkäufers geprüft und das Ergebnis am [[date|17.08.2026]] in einem Aktenvermerk festgehalten.
+
+Die Honorarnote umfasst die Leistungen bis zum [[date|27.10.2026]]. Weitere Leistungen nach diesem Datum werden gesondert verrechnet. Die Kanzlei bittet, die Zahlung nach Möglichkeit innerhalb der Zahlungsfrist vorzunehmen.
+
 Mit freundlichen Grüßen
 [[organization|Sohm]]
