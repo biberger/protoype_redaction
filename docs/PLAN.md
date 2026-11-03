@@ -362,6 +362,33 @@ Next: human review of the gold set and a gold slice by origin (RIS vs synthetic)
 places; EUR-Lex; the held-out zero-shot label check (medication, vehicle model). `scripts/pod_run.sh` now waits after
 smoke for `control/go` in the output repo (`control/abort` or a 60 min timeout stops the pod).
 
+## Production feedback and the 2026-11 plan
+
+v2 runs in the hub2 anonymisation service (one `extract_entities_long` call per page, 96-word chunks, all labels in
+one call, roles off; courts, dates, norms and countries stay visible). Its agent reported PII char recall 98.55 % /
+precision 97.96 % on gold_at (with its regexes) and these gaps: letter-spaced letterheads ("R e c h t s a n w ä l t e"),
+party file references ("Zeichen V-PPPahl/Grazer"), land register extracts (TZ numbers, "EZ⏎105"), dates of birth
+(zero-shot only), countries, courts winning over places, postcode + place, long windows. A second agent built the
+synthetic OBDK benchmark (`data/test/obdk_synth`, 200 lawyer-disciplinary decisions, evaluation only): v2 F1 0.84,
+PII char recall 92.2 %; disciplinary bodies tagged organization (court recall 0.44), phone extensions cut off (F1
+0.28), other identifiers missed (recall 0.32).
+
+Done (steps 2, 4, 5 of the plan; step 3 = synthetic v7 and step 6 = training run v3 need separate approval):
+- Decisions 31-38 (`GENERATION.md`): `country` and `date_of_birth` labels, postcode + place as `address`, phone
+  extensions inside the span, disciplinary bodies as `court`, `other_identifier` kinds, "St." places, roles no longer
+  queried (every judge/lawyer span is also `person`; `schema.QUERY_ROLES = False`). `legalner/relabel.py` applies them
+  to every source when records are read: 1,878 dates of birth, ≈ 2,980 countries, 46 postcode lines, 1 court.
+- `legalner/augment.py` with build flags: layout noise (`--layout-frac`; letter-spacing, page breaks, hard wraps with
+  hyphenation, broken spacing, OCR swaps), name swap from gazetteer decks (`--name-swap-copies`; weighted by list size
+  so all names are covered), re-windowing of synthetic and EUR-Lex documents to 50-700 words (`--windows`). Trial build:
+  72,541 training records (16.5k name-swapped copies, 13k with layout noise), all valid.
+- Gazetteers: 18 more European countries; WGND 2.0 first names up to 8,000 per European country (57k -> 121k);
+  surnames up to 4,000 per European country from Wikidata; names drawn from shuffled decks without replacement.
+- `legalner/prodeval.py`: production-mode evaluation (the service's query, chunk sizes, post-processing): char recall,
+  leaked mentions, precision on fully annotated sets, visible text masked. `data/test/regression`: the reported
+  production misses as permanent cases (v1 leaks 8 of 11 mentions there). The GPU eval step now also runs the OBDK set
+  and the production-mode eval.
+
 ## Open questions
 
 - Which labels does the redaction policy actually mask? Likely all `pii` group labels plus every `person` that is
