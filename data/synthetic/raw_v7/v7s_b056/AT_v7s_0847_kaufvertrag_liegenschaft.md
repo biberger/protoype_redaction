@@ -73,7 +73,7 @@ Der Notar beziehungsweise die Kanzlei hat die Käuferinnen darauf hingewiesen, d
 
 Die Kanzlei wird das Grundbuchsgesuch unmittelbar nach Unterfertigung dieses Vertrages und nach Vorliegen der Unterlagen über die Zahlung der Grunderwerbsteuer beim zuständigen Grundbuchsgericht einbringen. Die Vertragsparteien verpflichten sich, alle für das Gesuch erforderlichen Erklärungen binnen 14 Tagen nach Aufforderung abzugeben. Kommt eine Partei dieser Verpflichtung nicht nach, ist die andere Partei berechtigt, die Kanzlei mit der Einholung der Erklärung zu beauftragen; die dadurch entstehenden Kosten trägt die säumige Partei.
 
-Die Parteien vereinbaren eine Frist für die Vorlage der Lastenfreistellungsurkunde bis zum Ende des Monats, der auf die Unterfertigung folgt. Wird diese Frist überschritten, kann jede Partei vom Vertrag zurücktreten, sofern dies nicht ausdrücklich ausgeschlossen wurde. Ein Rücktritt ist schriftlich zu erklären und der Kanzlei zuzustellen.
+Ein Exemplar des Vertrages wird in der Kanzlei verwahrt. Die Kanzlei bestätigt den Eingang der Anzahlung und führt den Treuhandakt fortlaufend. Die Parteien vereinbaren eine Frist für die Vorlage der Lastenfreistellungsurkunde bis zum Ende des Monats, der auf die Unterfertigung folgt. Wird diese Frist überschritten, kann jede Partei vom Vertrag zurücktreten, sofern dies nicht ausdrücklich ausgeschlossen wurde. Ein Rücktritt ist schriftlich zu erklären und der Kanzlei zuzustellen.
 
 Im Falle eines Rücktritts ist der Kaufpreis einschließlich der Anzahlung binnen 30 Tagen an die Käuferinnen zurückzuzahlen. Die Kosten der Urkundenerrichtung verbleiben in diesem Fall bei den Käuferinnen, soweit sie nicht von der Verkäuferin verschuldet wurden.
 

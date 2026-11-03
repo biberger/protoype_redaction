@@ -35,6 +35,14 @@ Die Verkäufer sind je zur Hälfte grundbücherliche Eigentümer der Liegenschaf
 
 Auf dem Grundstück steht ein Wohnhaus mit zwei Wohnungen und einer Garage. Die Liegenschaft wird zum Hauptwohnsitz des Käufers bestimmt.
 
+II a. Baubeschreibung
+
+Das Wohnhaus wurde im Jahr 1974 errichtet und zuletzt im Jahr 2011 umfassend saniert. Die Außenfassade besteht aus Ziegelmauerwerk mit einer Wärmedämmung aus dem Jahr 2011. Das Dach ist mit Schiefer eingedeckt; die Dachrinnen wurden im Jahr 2024 erneuert. Die Fenster sind Kunststoff-Isolierglas, die Eingangstür wurde 2019 ersetzt.
+
+Im Erdgeschoss befinden sich eine Küche, ein Wohnraum mit offener Feuerstelle und ein Badezimmer. Im Obergeschoss liegen zwei Schlafräume und ein weiteres Bad. Die Wohnung im Dachgeschoss ist vermietet; das Mietverhältnis wird mit der Übergabe beendet, sofern der Mieter nicht ausdrücklich ein neues Mietverhältnis mit dem Käufer eingeht.
+
+Die Heizung erfolgt über eine Wärmepumpe, die im Jahr 2018 installiert wurde. Die Verkäufer haben die Wartung der Anlage bis zum Jahr 2025 nachgewiesen. Der Wasseranschluss und die Kanalisation sind an das öffentliche Netz angeschlossen; eine Kopie der Anschlussbestätigung liegt bei.
+
 III. Kaufgegenstand
 
 Die Verkäufer verkaufen dem Käufer die vorgenannte Liegenschaft samt dem Haus, den Einrichtungsgegenständen, die im Anhang aufgelistet sind, und allen Rechten und Pflichten, die mit der Liegenschaft verbunden sind.
@@ -82,7 +90,7 @@ VIII. Schlussbestimmungen
 
 Änderungen dieses Vertrages bedürfen der Schriftform. Mündliche Nebenabreden bestehen nicht. Die Parteien erklären, den Vertrag nach ausführlicher Belehrung durch die Kanzlei zu verstehen und zu unterfertigen.
 
-Der Käufer bestätigt, dass er die Wohnung und das Haus besichtigt hat. Die Verkäufer erklären, dass keine Mietverträge bestehen.
+Der Käufer bestätigt, dass er die Wohnung und das Haus besichtigt hat. Die Verkäufer erklären, dass mit Ausnahme des Dachgeschosses keine Mietverträge bestehen.
 
 IX. Finanzierung
 

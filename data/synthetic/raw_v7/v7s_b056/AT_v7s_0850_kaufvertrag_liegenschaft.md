@@ -80,7 +80,9 @@ VI. Schlussbestimmungen
 
 14. Der Verkäufer hat den Käufern die Bauunterlagen des Wohnhauses in [[land_register_id|KG Nenzing]] übergeben. Die Baubewilligung vom Jahr 1994 sowie der Energieausweis liegen dem Vertrag bei. Nachträgliche Umbauten sind nach den Angaben des Verkäufers nicht genehmigungspflichtig gewesen; eine Gewähr dafür übernimmt der Verkäufer nicht.
 
-Die Käufer haben den Vertrag vor der Unterfertigung mit der Kanzlei in allen Punkten besprochen. Errichtet in [[location|Pernegg an der Mur]] am [[date|22. Jänner 2026]].
+Die Käufer haben den Vertrag vor der Unterfertigung mit der Kanzlei in allen Punkten besprochen. Die Käufer haben den Vertrag vor der Unterfertigung mit der Kanzlei in allen Punkten besprochen. Alle Beilagen sind den Käufern ausgehändigt worden.
+
+Errichtet in [[location|Pernegg an der Mur]] am [[date|22. Jänner 2026]].
 
 Der Verkäufer:
 

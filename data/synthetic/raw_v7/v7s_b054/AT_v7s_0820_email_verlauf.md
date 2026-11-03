@@ -87,7 +87,7 @@ Zur Schimmelsanierung: Die [[organization|GHG]] hat die Kosten bisher nicht übe
 
 Die Rechnung der Sanierungsfirma über EUR 3.870,00 liegt bei. Die Firma hat den Auftrag am [[date|12.09.2026]] erhalten und die Arbeiten am [[date|28.09.2026]] abgeschlossen.
 
-Ich ersuche Sie, Ihre Mandantin zu einer außergerichtlichen Einigung zu bewegen, bevor die Kosten der Tagsatzung entstehen. Die Verhandlung ist wegen der Entfernung der Parteien zu [[location|Hietzing]] nicht in Präsenz zu führen, eine Videokonferenz wäre aber möglich. Frau [[person|Steinacker]] hat dies bisher abgelehnt, die Entscheidung über den Ort der Verhandlung trifft jedoch das Gericht, nicht die Hausverwaltung. Wir bitten daher um Ihre Stellungnahme bis spätestens zum [[date|27.10.2026]].
+Ich ersuche Sie, Ihre Mandantin zu einer außergerichtlichen Einigung zu bewegen, bevor die Kosten der Tagsatzung entstehen. Die Verhandlung ist wegen der Entfernung der Parteien zu [[location|Hietzing]] nicht in Präsenz zu führen, eine Videokonferenz wäre aber möglich. Frau [[person|Steinacker]] hat dies bisher abgelehnt, die Entscheidung über den Ort der Verhandlung trifft jedoch das Gericht, nicht die Hausverwaltung. Wir bitten daher um Ihre Stellungnahme bis spätestens zum [[date|27.10.2026]], damit wir den Antrag rechtzeitig vorbereiten können.
 
 Die Verwaltung hat die Kosten der Gutachten bislang nicht übernommen. Wir bitten daher um eine verbindliche Zusage bis zum [[date|28.10.2026]], ansonsten werden wir den Antrag auf Kostenersatz in der Tagsatzung stellen. Bitte leiten Sie diese Nachricht auch an die Eigentümer weiter, damit die Entscheidung rechtzeitig vorbereitet werden kann.
 

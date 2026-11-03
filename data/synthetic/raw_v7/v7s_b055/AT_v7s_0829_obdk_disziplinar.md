@@ -61,7 +61,7 @@ Die Aussage der Zeugin [[person|Hofbauer]] war in den wesentlichen Punkten gleic
 
 4. Rechtliche Beurteilung
 
-Nach [[legal_norm|§ 43a Abs 4 RAO]] ist eine Vereinbarung, wonach der Rechtsanwalt am Ergebnis der Sache beteiligt wird, unzulässig. Eine erfolgsabhängige Honorarvereinbarung ist nur nach den Vorgaben der [[legal_norm|§ 1 Abs 1 RL-BA 2015]] zulässig und bedarf der Schriftform. Die fehlende Schriftform ist daher bereits für sich eine Pflichtverletzung.
+Nach [[legal_norm|§ 43a Abs 4 RAO]] ist eine Vereinbarung, wonach der Rechtsanwalt am Ergebnis der Sache beteiligt wird, unzulässig. Eine erfolgsabhängige Honorarvereinbarung ist nur nach den Vorgaben der [[legal_norm|§ 1 Abs 1 RL-BA 2015]] zulässig und bedarf der Schriftform. Die fehlende Schriftform ist daher bereits für sich eine Pflichtverletzung. Der Hinweis auf die Erfolgsaussichten der Angelegenheit ändert daran nichts.
 
 Die Entnahme von Honorar aus dem Treuhandkonto vor Erstellung einer Note verletzt zudem die Verwahrungspflicht nach [[legal_norm|§ 16 Abs 1 RAO]]. Der Senat sieht die Vorwürfe daher als erwiesen an.
 
@@ -83,7 +83,7 @@ Mildernd war die bisherige Unbescholtenheit der Beschuldigten und die teilweise 
 
 Der Vertreter des Klienten [[person|Korobko]] übermittelte dem Senat am [[date|14.04.2026]] eine Aufstellung, wonach die Beschuldigte im Zuge eines Vergleichsangebots bereit gewesen sei, 3.000 Euro an den Klienten zurückzuzahlen. Dieses Angebot wurde von der Beschuldigten nicht angenommen, weil sie den Betrag als Honorar für bereits erbrachte Leistungen ansah. Der Senat hält fest, dass die Rückzahlung eines Teils der Honorarbeträge im Verfahren nicht als Anerkennung des Vorwurfs zu werten ist.
 
-Die Stellungnahme der [[organization|Tiroler Rechtsanwaltskammer]] vom [[date|20.05.2026]] enthält keine weitergehenden Vorschläge. Sie bestätigt die Vorgehensweise der Kammeranwaltschaft und hält eine Geldstrafe im Bereich der beantragten Summe für angemessen.
+Die Stellungnahme der [[organization|Tiroler Rechtsanwaltskammer]] vom [[date|20.05.2026]] enthält keine weitergehenden Vorschläge. Sie bestätigt die Vorgehensweise der Kammeranwaltschaft und hält eine Geldstrafe im Bereich der beantragten Summe für angemessen. Die Kammer hat zugleich angeregt, die Beschuldigte möge an einer Fortbildung zum Treuhandrecht teilnehmen.
 
 6. Rechtsmittel
 

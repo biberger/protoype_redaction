@@ -41,6 +41,12 @@ e) Haftpflichtversicherung zur Polizzen-Nr. [[other_identifier|48-4846635]]
 
 Die Liegenschaften wurden durch einen gerichtlich beeideten Sachverständigen bewertet. Die Bewertung der Liegenschaft unter [[land_register_id|EZ. 635]] beträgt EUR 318.000,00, jene der Liegenschaft unter [[land_register_id|EZ 221]] EUR 96.500,00. Eine Belastung des Hauses mit einem Pfandrecht besteht nicht.
 
+3a. Fahrnisse
+
+Der bewegliche Nachlass umfasst den Hausrat in der Wohnung, eine Kücheneinrichtung, einen Fernseher und Schmuck im Wert von etwa EUR 2.300,00. Die Fahrnisse wurden durch den Notar in einem Inventar erfasst; Kopien des Inventars liegen beiden Erben vor. Ein Gegenstand, ein Familienring, wurde von [[person|Hefel]] in Verwahrung genommen und ist im Inventar als gesondert vermerkt.
+
+Eine Abschätzung der Fahrnisse durch einen Auktionator ist für den Zeitraum nach der Abhandlungstagsatzung vorgesehen. Die Erben haben bereits zugestimmt, dass Gegenstände von geringem Wert ohne Versteigerung an die Erbin übergeben werden, sofern der Schätzwert EUR 200,00 nicht übersteigt.
+
 4. Versicherungen und Zahlungen
 
 Die Versicherung zur Vers.-Nr. [[other_identifier|55-1343258]] hat die Auszahlung der Leistung im Todesfall von EUR 21.700,00 veranlasst. Die Auszahlung erfolgte auf das Verlassenschaftskonto. Für die Verlassenschaft wurde ein Konto eröffnet, über das die Begräbniskosten in Höhe von EUR 5.120,00 beglichen wurden.

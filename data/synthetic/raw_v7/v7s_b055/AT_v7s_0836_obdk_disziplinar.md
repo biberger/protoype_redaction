@@ -73,7 +73,7 @@ Der Kammeranwalt [[person|Sterk]] beantragte eine Geldbuße von 4.000 Euro. Er w
 
 4b. Zur Zuständigkeit der Kammer
 
-Die Angelegenheit betraf eine Liegenschaft im Bezirk des zuständigen Grundbuchs, der Sitz der Beschuldigten lag jedoch in einem anderen Bezirk. Die Kammer ist für die Disziplinarverfahren gegen Mitglieder der [[organization|RAK OÖ]] unabhängig davon zuständig, wo die Liegenschaft liegt. Eine Zuständigkeitsrüge wurde im Verfahren nicht erhoben.
+Die Angelegenheit betraf eine Liegenschaft im Bezirk des zuständigen Grundbuchs, der Sitz der Beschuldigten lag jedoch in einem anderen Bezirk. Die Kammer ist für die Disziplinarverfahren gegen Mitglieder der [[organization|RAK OÖ]] unabhängig davon zuständig, wo die Liegenschaft liegt. Eine Zuständigkeitsrüge wurde im Verfahren nicht erhoben. Der Senat hat dies von Amts wegen geprüft und keine Bedenken gefunden.
 
 Die Beschuldigte hatte ihre Kanzlei bis zum Jahr 2023 in [[location|Linz]] betrieben und danach in den Bezirk [[location|Freistadt]] verlegt. Die Verlegung ist für das Verfahren ohne Bedeutung, weil die Verpflichtungen aus dem Treuhandauftrag mit der Kanzlei und nicht mit dem Ort verbunden sind.
 
@@ -81,11 +81,11 @@ Die Beschuldigte hatte ihre Kanzlei bis zum Jahr 2023 in [[location|Linz]] betri
 
 Der Senat hat die Bedeutung des Treuhandkontos für das Vertrauen der Rechtsuchenden berücksichtigt. Die Verwahrung von Fremdgeldern ist eine der zentralen Pflichten des Rechtsanwalts, weil Klienten darauf vertrauen müssen, dass ihr Geld bei Abschluss der Angelegenheit vollständig und nachvollziehbar abgerechnet wird. Eine Verletzung dieser Pflicht gefährdet das Vertrauen in den gesamten Berufsstand.
 
-Die Schwere der Verletzung ergibt sich daraus, dass die Entnahme nicht nur vorgezogen, sondern in der Höhe nicht belegt war. Der Senat hat dies als gewichtigen Umstand gewertet, auch wenn die Beschuldigte bisher nicht disziplinär auffällig war.
+Die Schwere der Verletzung ergibt sich daraus, dass die Entnahme nicht nur vorgezogen, sondern in der Höhe nicht belegt war. Der Senat hat dies als gewichtigen Umstand gewertet, auch wenn die Beschuldigte bisher nicht disziplinär auffällig war. Dem steht die vollständige Nachzahlung des Ausgleichsbetrags nicht entgegen, weil sie erst nach der Anzeige erfolgte.
 
 4d. Zu den Zeugenaussagen
 
-Der Senat hat die Aussagen der Anzeigerin, der Schriftführerin und des Kammeranwalts gegeneinander abgewogen. Die Anzeigerin war in ihren Angaben zu Einzelheiten zurückhaltend, blieb aber in der Hauptsache konsistent: Sie habe der Beschuldigten einen Betrag für den Ausgleich überwiesen, aber keine Abrechnung über die Verwendung erhalten. Die Schriftführerin konnte sich an den genauen Ablauf der Buchungen im Herbst 2019 nicht mehr erinnern, bestätigte jedoch, dass sämtliche Buchungen über das Büro der Beschuldigten erfolgten und von dieser freigegeben wurden. Diese Angaben sind mit dem Treuhandbuch vereinbar.
+Der Senat hat die Aussagen der Anzeigerin, der Schriftführerin und des Kammeranwalts gegeneinander abgewogen. Die Anzeigerin war in ihren Angaben zu Einzelheiten zurückhaltend, blieb aber in der Hauptsache konsistent: Sie habe der Beschuldigten einen Betrag für den Ausgleich überwiesen, aber keine Abrechnung über die Verwendung erhalten. Die Schriftführerin konnte sich an den genauen Ablauf der Buchungen im Herbst 2019 nicht mehr erinnern, bestätigte jedoch, dass sämtliche Buchungen über das Büro der Beschuldigten erfolgten und von dieser freigegeben wurden. Diese Angaben sind mit dem Treuhandbuch vereinbar. Der Senat hat die Glaubwürdigkeit der Zeugin nicht in Frage gestellt.
 
 Die Beschuldigte selbst hat ihre Angaben im Verlauf der Verhandlung geändert. Zunächst gab sie an, die Honorarnote sei am [[date|29.11.2019]] versandt worden; später erklärte sie, sie sei erst im Frühjahr 2020 erstellt worden. Der Senat sieht darin ein Indiz dafür, dass die Abrechnung nicht zeitgerecht erfolgte. Auf die Frage, weshalb die Note nicht im Treuhandbuch vermerkt ist, konnte sie keine Antwort geben.
 

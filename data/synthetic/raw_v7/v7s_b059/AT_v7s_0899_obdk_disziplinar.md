@@ -38,10 +38,10 @@ Entscheidungsgründe
 Treuhandbewegungen laut Auszug:
 
 Datum | Vorgang | Betrag | Klient | Trenn-Nr.
-[[date|11.03.2024]] | Einzahlung Verlassenschaftsvorschuss | EUR 22.000,-- | [[person|Dzavid Buljubašić]] | [[other_identifier|Treuhandbuch-Nr. 2024/953]]
-[[date|08.04.2025]] | Überweisung an Gläubiger | EUR 18.000,-- | [[person|Buljubašić]] | [[other_identifier|Treuhandbuch-Nr. 2024/953]]
-[[date|19.05.2025]] | Einzahlung zweite Treuhandschaft | EUR 9.600,-- | [[person|Buljubašić]] | [[other_identifier|Treuhandbuch-Nr. 2025/570]]
-[[date|30.09.2025]] | Rückzahlung auf das Treuhandkonto | EUR 18.000,-- | [[person|Buljubašić]] | [[other_identifier|Treuhandbuch-Nr. 2024/953]]
+[[date|11.03.2024]] | Einzahlung Verlassenschaftsvorschuss | EUR 22.000,-- | [[person|Dzavid Buljubašić]] | Treuhandbuch-Nr. [[other_identifier|2024/953]]
+[[date|08.04.2025]] | Überweisung an Gläubiger | EUR 18.000,-- | [[person|Buljubašić]] | Treuhandbuch-Nr. [[other_identifier|2024/953]]
+[[date|19.05.2025]] | Einzahlung zweite Treuhandschaft | EUR 9.600,-- | [[person|Buljubašić]] | Treuhandbuch-Nr. [[other_identifier|2025/570]]
+[[date|30.09.2025]] | Rückzahlung auf das Treuhandkonto | EUR 18.000,-- | [[person|Buljubašić]] | Treuhandbuch-Nr. [[other_identifier|2024/953]]
 
 5. Der Beschuldigte hat den Sachverhalt im Wesentlichen zugestanden. Er gibt an, die Zahlung an den Gläubiger sei eine vermeintlich dringliche Forderung gewesen, die er irrtümlich für unbedenklich gehalten habe.
 

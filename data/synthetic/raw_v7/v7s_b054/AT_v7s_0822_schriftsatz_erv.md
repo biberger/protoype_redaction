@@ -84,6 +84,8 @@ V/2. Streitgenossenschaft
 
 Die Beklagten sind als Gesellschafter der Gesellschaft bürgerlichen Rechts notwendige Streitgenossen im Sinne des [[legal_norm|§ 14 ZPO]]. Die Klägerin hat die Klage gegen alle Gesellschafter gerichtet, weil nach dem Mietvertrag jeder von ihnen den Mietzins in voller Höhe schuldet. Die Beklagte [[person|Kurz]] ist im Mietvertrag als Vertreterin der Gesellschaft genannt; die übrigen Beklagten haben die Vertragsurkunde ebenfalls unterschrieben.
 
+Die Hausverwaltung Gruber & Söhne Immobilien (im Folgenden „[[organization|HVG]]“) hat die Schlüssel verwahrt und die Räumung protokolliert. Die [[organization|HVG]] hat den Zustand der Räume in einem Übergabeprotokoll festgehalten, das als Beilage ./E vorgelegt wird.
+
 Die Klägerin behält sich vor, die Kosten der Räumung und der Entsorgung der zurückgelassenen Gegenstände im Wege einer Erweiterung des Klagebegehrens geltend zu machen, sobald diese beziffert sind. Die Klägerin weist darauf hin, dass die Räumung ohne Mitwirkung der Beklagten erfolgte, weil diese auf die Aufforderung zur Rückgabe der Schlüssel nicht reagiert haben.
 
 VI. Zur Beweiswürdigung
@@ -99,6 +101,7 @@ Beilagen
 ./B Kündigungsschreiben vom [[date|30.09.2025]]
 ./C Fotos der Räumung vom [[date|17.10.2025]]
 ./D Firmenbuchauszug der [[organization|AUSTERLITZ HANDELS GMBH]], [[company_register_number|FN 88620z]]
+./E Übergabeprotokoll der [[organization|HVG]] vom [[date|17.10.2025]]
 
 [[location|Oftering]], am [[date|30.10.2026]]
 

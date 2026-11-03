@@ -87,6 +87,10 @@ Die Kammeranwältin [[person|Kager]] hat in ihrem Antrag ausgeführt, dass der B
 
 Eine Berufsverbotsentscheidung nach [[legal_norm|§ 34 RAO]] wurde nicht beantragt. Der Senat sieht von der Verhängung einer Untersagung ab, weil der Beschuldigte die Abwicklung der Mandate bereits umgestellt hat.
 
+Bei der Festsetzung der Geldbuße hat der Senat die wirtschaftlichen Verhältnisse des Beschuldigten berücksichtigt. Dieser gab an, dass er nach Abzug der Kanzleimiete ein monatliches Einkommen von rund EUR 3.100,00 erziele und für zwei minderjährige Kinder unterhaltspflichtig sei. Die Geldbuße wurde daher im unteren Drittel des Rahmens festgesetzt; zugleich wurde klargestellt, dass die Verletzung der Pflichten auch bei geringerem Einkommen nicht bagatellisiert werden kann.
+
+Die Höhe der Zahlungen an die Mandanten war im Verfahren teilweise streitig; insoweit wurde dem Vorbringen der Mandanten gefolgt. Die Verfahrenskosten werden dem Beschuldigten zur Zahlung innerhalb von vier Wochen nach Rechtskraft auferlegt.
+
 VI. Rechtsmittelbelehrung
 
 Gegen diesen Bescheid kann binnen vier Wochen ab Zustellung Berufung an die [[court|OBDK]] erhoben werden. Die Berufung ist beim Disziplinarrat einzubringen.

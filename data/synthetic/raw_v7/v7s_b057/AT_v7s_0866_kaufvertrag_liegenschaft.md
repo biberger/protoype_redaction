@@ -42,6 +42,12 @@ III. Kaufpreis
 3. Der Restbetrag von EUR 237.600,00 ist binnen vier Wochen nach Vorliegen der Lastenfreistellung auf das Treuhandkonto zu überweisen.
 4. Die Zahlungen erfolgen auf das Konto mit der IBAN [[bank_account|AT07 6445 6698 6787 6012]].
 
+III a. Schätzung und Bemessung
+
+Der Kaufpreis entspricht einem Schätzwert, den ein beeideter Sachverständiger am [[date|25.08.2026]] für das Wohngebäude und das Grundstück ermittelt hat. Das Gutachten weist einen Verkehrswert von EUR 271.500,00 aus. Die Parteien haben den Kaufpreis mit Rücksicht auf das Dachgeschoss und den Zustand der Heizungsanlage unter dem Schätzwert vereinbart.
+
+Die Gebühren für das Gutachten trägt die Käuferin. Eine Kopie des Gutachtens wird den Parteien übergeben und ist in der Kanzleiakte verwahrt.
+
 IV. Treuhandabwicklung
 
 Die Kanzlei übernimmt die Treuhandschaft für beide Parteien. Die Kaufpreiszahlung wird erst nach Eingang der Lastenfreistellung an den Verkäufer weitergeleitet. Die Treuhandschaft endet mit der Eintragung des Eigentumsrechts im Grundbuch.
@@ -89,6 +95,14 @@ Dieser Vertrag bedarf zu seiner Gültigkeit der Schriftform. Nebenabreden besteh
 Der Verkäufer erklärt, dass über die Liegenschaft keine Rechtsstreitigkeiten anhängig sind. Die Käuferin bestätigt, dass ihr die Lage der Liegenschaft in einem Gebiet bekannt ist, in dem ein Hochwasserrisiko besteht.
 
 Die Unterschriften der Parteien wurden in Anwesenheit der Vertragsverfasser geleistet. Eine Ausfertigung wird jedem Vertragsteil übergeben.
+
+VIII. Vollmacht und Ausfertigungen
+
+Die Käuferin erteilt der Kanzlei Vollmacht, sie in allen Angelegenheiten des Grundbuchs und des Finanzamtes zu vertreten, die mit dem Erwerb der Liegenschaft zusammenhängen. Die Vollmacht erlischt mit der Eintragung des Eigentumsrechts. Der Verkäufer erteilt der Kanzlei eine gleichlautende Vollmacht für die Löschung des Pfandrechts zugunsten der [[organization|Raiffeisenbank Marchtrenk]].
+
+Von diesem Vertrag werden drei Ausfertigungen errichtet: je eine für die Parteien und eine für das Grundbuch. Die Ausfertigung für das Grundbuch enthält die Aufsandungserklärung im Original. Jede Partei bestätigt mit ihrer Unterschrift den Empfang der jeweiligen Ausfertigung.
+
+Der Verkäufer hat die Vorlage seines Reisepasses bei der Unterfertigung nachgewiesen; die Nummer des Dokuments ist in der Kanzleiakte vermerkt. Die Käuferin hat ihre Identität durch einen gültigen Lichtbildausweis nachgewiesen.
 
 Für den Verkäufer:
 [[person|Tjalke Nijhoff]]

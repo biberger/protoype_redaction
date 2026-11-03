@@ -55,13 +55,31 @@ IV. Rechtliche Beurteilung
 
 Ein Rechtsanwalt hat fremde Gelder, die ihm anvertraut werden, gesondert und ordnungsgemäß zu verwalten. Eine Auszahlung ohne Weisung des Mandanten verletzt diese Pflicht unabhängig davon, ob der Rechtsanwalt später den Betrag zurückzahlt. Die Rückzahlung der [[person|Pollak]] zugeflossenen Gelder im Juni 2024 mindert das Unrecht, hebt es aber nicht auf.
 
-Der Senat wertet als erschwerend, dass der Beschuldigte die Entnahme als Honorar selbst vorgenommen hat und dass ein erheblicher Teil der Gelder bis heute nicht nachgewiesen ist. Als mildernd wertet er die bisherige ordentliche Berufsausübung ohne disziplinäre Vorbelastung und die Rückzahlung eines Teilbetrages.
+Der Senat wertet als erschwerend, dass der Beschuldigte die Entnahme als Honorar selbst vorgenommen hat und dass ein erheblicher Teil der Gelder bis heute nicht nachgewiesen ist. Ebenfalls erschwerend wirkt die lange Dauer, in der die Mandantin ohne verlässliche Auskunft blieb, und die Tatsache, dass der Beschuldigte die Kammer erst nach zweimaliger Aufforderung mit einer unvollständigen Abrechnung bediente.
 
-Die verhängte Geldbuße liegt im unteren Bereich des Strafrahmens. Der Senat hält sie für erforderlich, um den Beschuldigten zur strikten Einhaltung der Treuhandpflichten anzuhalten.
+Als mildernd wertet der Senat die bisherige ordentliche Berufsausübung ohne disziplinäre Vorbelastung, die Rückzahlung eines Teilbetrages und die Tatsache, dass die Mandantin nach den Feststellungen keinen unmittelbar drohenden Vermögensschaden erlitt, weil die Liegenschaft über einen Notar nachträglich erworben werden konnte. Dass der Beschuldigte sich im Verfahren schuldeinsichtig gezeigt hat, konnte der Senat nicht feststellen, weil seine Angaben zu den Auszahlungen wechselnd ausfielen.
+
+Die verhängte Geldbuße liegt im unteren Bereich des Strafrahmens. Der Senat hält sie für erforderlich, um den Beschuldigten zur strikten Einhaltung der Treuhandpflichten anzuhalten. Eine bedingte Nachsicht kam nicht in Betracht, weil die Verletzung der Treuhandpflichten den Kernbereich des anwaltlichen Berufsbildes betrifft und das Vertrauen der rechtsuchenden Bevölkerung in die sichere Verwahrung fremder Gelder in besonderem Maße schützt.
+
+Der Senat hat weiters berücksichtigt, dass der Beschuldigte als Rechtsanwalt im Umgang mit Treuhandgeldern über Jahre hinweg zur Vorsicht verpflichtet war und dass es sich nicht um eine einmalige Unachtsamkeit, sondern um eine mehrfache Entnahme handelte.
+
+Die Kammeranwältin [[person|Dr. Bujak]] hat in ihrem Schlussvortrag beantragt, den Beschuldigten mit einer Geldbuße im mittleren Bereich zu belegen und zusätzlich die Veröffentlichung des Spruches anzuordnen. Der Senat folgt diesem Antrag hinsichtlich der Geldbuße nicht vollständig, weil die Rückzahlung der [[person|Pollak]] zugeflossenen Gelder zugunsten des Beschuldigten zu berücksichtigen ist. Eine Veröffentlichung wurde nicht angeordnet, weil der Senat in der Person des Beschuldigten keine Wiederholungsgefahr erkennt, die eine solche Maßnahme erfordern würde.
+
+Der Beschuldigte hat in seinem Schlusswort erklärt, er bedauere die Verzögerungen bei der Rückzahlung. Er werde seine Kanzleiorganisation umstellen und künftig nur noch Zahlungen aus dem Treuhandkonto leisten, für die eine schriftliche Weisung des Mandanten vorliegt. Diese Zusage hat der Senat zur Kenntnis genommen, sie vermag aber am Schuldspruch nichts zu ändern.
 
 V. Kosten
 
 Die Kostenentscheidung stützt sich auf die gesetzlichen Bestimmungen. Der Beschuldigte hat die Kosten des Verfahrens zu tragen, weil er mit seinem Vorbringen im Wesentlichen unterlegen ist.
+
+Die Kosten setzen sich wie folgt zusammen:
+
+Pauschalgebühr des Disziplinarrates: EUR 400,00
+Schreibgebühren und Kanzleiauslagen: EUR 150,00
+Entschädigung der Zeugin [[person|Pollak]] für Reisekosten: EUR 200,00
+Kosten der Kammeranwältin, anteilig: EUR 400,00
+Gesamt: EUR 1.150,00
+
+Die Mandantin [[person|Gerda Pollak]] hat keinen Kostenersatz zu leisten; ihre Aussagen waren für die Entscheidung maßgeblich, ihre Kosten sind im Betrag der Kammer enthalten.
 
 **Rechtsmittelbelehrung**
 

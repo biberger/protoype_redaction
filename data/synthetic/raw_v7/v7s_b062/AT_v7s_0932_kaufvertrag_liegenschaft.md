@@ -12,7 +12,7 @@ E: [[email|office@goetzinger.at]]  W: www.goetzinger.at
 ERV-Code: [[other_identifier|P736227]]
 
 Ihr Zeichen: [[other_identifier|K/Behr/9892]]
-Schröcken, am [[date|12. September 2026]]
+[[location|Schröcken]], am [[date|12. September 2026]]
 
 **KAUFVERTRAG ÜBER EINE LIEGENSCHAFT**
 
@@ -52,9 +52,9 @@ Der Verkäufer verkauft und übergibt den Käufern die unter I. und II. genannte
 
 (1) Der Kaufpreis beträgt EUR 385.000,00 (in Worten: dreihundertfünfundachtzigtausend Euro) und ist binnen 14 Tagen nach Unterfertigung auf das Treuhandkonto der Kanzlei zu erlegen.
 
-(2) Die Kanzlei [[person|Götzinger]] übernimmt die Treuhandschaft und verwahrt den Kaufpreis unter [[other_identifier|Treuhandbuch-Nr. 2022/771]]. Die Auszahlung an den Verkäufer erfolgt erst nach Eingang der Rangordnung im Grundbuch. Die Abwicklung erfolgt über das Kaufpreiskonto IBAN [[bank_account|AT56 6566 7647 2146 6563]] der [[organization|Raiffeisenbank Schröcken]].
+(2) Die Kanzlei [[person|Götzinger]] übernimmt die Treuhandschaft und verwahrt den Kaufpreis unter Treuhandbuch-Nr. [[other_identifier|2022/771]]. Die Auszahlung an den Verkäufer erfolgt erst nach Eingang der Rangordnung im Grundbuch. Die Abwicklung erfolgt über das Kaufpreiskonto IBAN [[bank_account|AT56 6566 7647 2146 6563]] der [[organization|Raiffeisenbank Schröcken]].
 
-(3) Die Käufer leisten zusätzlich eine Vorauszahlung auf die Grunderwerbsteuer und die Eintragungsgebühr. Die Abwicklung der [[organization|Kovacs Handels]] über das Treuhandbuch erfolgt unter [[other_identifier|TH-Nr. 2020/553]].
+(3) Die Käufer leisten zusätzlich eine Vorauszahlung auf die Grunderwerbsteuer und die Eintragungsgebühr. Die Abwicklung der [[organization|Kovacs Handels]] über das Treuhandbuch erfolgt unter TH-Nr. [[other_identifier|2020/553]].
 
 § 3 Aufsandungserklärung
 
@@ -72,15 +72,25 @@ Der Verkäufer haftet nach [[legal_norm|§§ 922 ff ABGB]] für die Freiheit der
 
 Die Grunderwerbsteuer nach dem [[legal_norm|GrEStG 1987]] trägt der Käufer. Die Vertragsparteien beantragen die Ausstellung der Steuerunbedenklichkeitsbescheinigung.
 
-§ 6 Schlussbestimmungen
+§ 6 Vollmacht und Vertretung
 
-Änderungen und Ergänzungen dieses Vertrages bedürfen der Schriftform. Sollten einzelne Bestimmungen unwirksam sein, bleibt der Vertrag im Übrigen wirksam. Die Kosten der Vertragserrichtung trägt der Käufer. Gerichtsstand ist das Bezirksgericht am Ort der Liegenschaft; die Kanzlei hat ihren Sitz in [[location|Schröcken]] und ihre Zweigstelle in [[location|St. Michael im Lungau]].
+(1) Die Käufer erteilen der Kanzlei [[person|Götzinger]] und der Kanzlei [[person|Bruckner]] die Vollmacht, alle für die grundbücherliche Durchführung erforderlichen Anträge und Erklärungen abzugeben, Eingaben zu verbessern und Rangordnungsanträge zurückzuziehen. Die Vollmacht erlischt mit der vollständigen Durchführung des Vertrages.
+
+(2) Der Verkäufer nimmt zur Kenntnis, dass die Kanzlei die Interessen beider Käufer vertritt und im Verhältnis zum Verkäufer nur als Treuhänder tätig wird.
+
+§ 7 Datenschutz
+
+Die Parteien stimmen der Verarbeitung ihrer personenbezogenen Daten für Zwecke der Vertragsabwicklung und der Grundbuchsanmeldung nach der [[legal_norm|Datenschutz-Grundverordnung]] und dem [[legal_norm|DSG]] zu. Die Daten werden nach Abschluss der Vertragsabwicklung entsprechend den gesetzlichen Aufbewahrungsfristen gespeichert.
+
+§ 8 Schlussbestimmungen
+
+Änderungen und Ergänzungen dieses Vertrages bedürfen der Schriftform. Sollten einzelne Bestimmungen unwirksam sein, bleibt der Vertrag im Übrigen wirksam. Die Kosten der Vertragserrichtung trägt der Käufer. Gerichtsstand ist das Bezirksgericht am Ort der Liegenschaft; die Kanzlei hat ihren Sitz in [[location|Schröcken]] und ihre Zweigstelle in [[location|St. Michael im Lungau]]. Der Verkäufer erklärt, dass die Liegenschaften nicht zum Betriebsvermögen eines land- oder forstwirtschaftlichen Betriebes gehören und keine Vorkaufsrechte Dritter bestehen.
 
 Hinweis: Die Parteien wurden über die Bedeutung der Eintragung im Grundbuch, die Wirkung der Aufsandungserklärung und die Folgen einer Vorleistung belehrt. Die Vertragserrichtung erfolgte nach den Angaben der Parteien, eine Prüfung der Vollständigkeit des Grundbuchsstandes durch die Kanzlei erfolgte auf Grundlage eines Grundbuchsauszuges vom [[date|8. September 2026]].
 
 Die Käufer haben den Vertragsentwurf vor der Unterfertigung erhalten. Die beiden Käufer unterfertigen gesondert.
 
-Schröcken, am [[date|12. September 2026]]
+[[location|Schröcken]], am [[date|12. September 2026]]
 
 ________________________
 VERKÄUFER

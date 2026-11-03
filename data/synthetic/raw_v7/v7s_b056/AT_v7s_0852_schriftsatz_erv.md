@@ -14,14 +14,14 @@ ERV-Code: [[other_identifier|R528164]]
 
 An das
 [[court|Oberlandesgericht Wien]]
-Schmerlingplatz 11, 1010 Wien
+[[address|Schmerlingplatz 11, 1010 Wien]]
 
 GZ [[case_number|16 R 201/26h]]
 Zeichen [[other_identifier|NS-NSKraml/Kerschbaum]]
 
 In der Rechtssache des Klägers [[person|Wilfrid Puchberger]], geboren am [[date_of_birth|1983-07-12]], staatsangehörig [[country|Bosnien und Herzegowina]], wohnhaft in [[address|8563 Grabenwarth]], Tel. [[phone_number|+43 5572 443 53 76 Kl. 21]],
 
-vertreten durch die Rechtsanwälte GmbH Baar & Weiler,
+vertreten durch die Rechtsanwälte GmbH [[organization|Baar & Weiler]],
 
 wider
 
@@ -69,7 +69,7 @@ IV. Anträge
 
 Der Kläger stellt daher den Antrag,
 
-das Oberlandesgericht Wien möge das angefochtene Urteil aufheben und dem Erstgericht die neuerliche Verhandlung auftragen, in eventu das Urteil dahin abändern, dass der Klage zur Gänze stattgegeben wird.
+das [[court|Oberlandesgericht Wien]] möge das angefochtene Urteil aufheben und dem Erstgericht die neuerliche Verhandlung auftragen, in eventu das Urteil dahin abändern, dass der Klage zur Gänze stattgegeben wird.
 
 IV a. Zur Unzuständigkeit des Erstgerichts
 

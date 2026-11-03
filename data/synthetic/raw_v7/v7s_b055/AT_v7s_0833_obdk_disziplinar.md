@@ -91,6 +91,12 @@ Der Anzeiger [[person|Penninger]] hat den Sachverhalt in der Verhandlung sachlic
 
 Die Kammeranwaltschaft wies darauf hin, dass der Anzeiger in den letzten Jahren keine weiteren Verfahren gegen Rechtsanwälte geführt hat. Der Senat hat diesen Umstand nicht zum Nachteil des Beschuldigten gewertet.
 
+5d. Zur Frage der Pflichtverletzung durch Unterlassen
+
+Der Beschuldigte hat nicht nur Gelder zurückbehalten, sondern auch die Pflicht zur laufenden Information der Beteiligten verletzt. Nach den Feststellungen erhielt der Anzeiger zwischen März und Mai 2026 keine Auskunft über den Stand des Treuhandkontos, obwohl er ausdrücklich darum gebeten hatte. Der Beschuldigte verwies in seinen Antworten auf die laufende Gewährleistungsprüfung, ohne die Gründe für die Zurückbehaltung zu benennen. Der Senat sieht darin eine eigenständige Verletzung der Informationspflichten, die bei der Strafbemessung als erschwerend zu berücksichtigen ist.
+
+Die Vorwürfe betreffen einen Gesamtbetrag von 15.600 Euro, der über einen Zeitraum von knapp drei Monaten nicht ausbezahlt wurde. Der Senat hält fest, dass der Schaden für den Anzeiger nicht nur im Vorenthalten des Betrages bestand, sondern auch in der Ungewissheit über dessen Verbleib.
+
 6. Kosten
 
 Die Kostenentscheidung beruht auf [[legal_norm|§ 47 RAO]]. Die Kosten des Verfahrens trägt der Beschuldigte.

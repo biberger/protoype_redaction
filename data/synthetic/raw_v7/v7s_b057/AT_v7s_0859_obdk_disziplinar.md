@@ -72,6 +72,10 @@ V. Strafbemessung
 
 Mildernd war die bisherige Unbescholtenheit. Erschwerend wirkte sich aus, dass die Entnahme ohne Zustimmung der Klienten geschah und die Kanzlei die Abrechnung über mehrere Monate verzögerte. Der Kammeranwalt beantragte eine Geldbuße im mittleren Bereich.
 
+Der Senat hat berücksichtigt, dass der Beschuldigte die Restzahlung von EUR 2.000,00 an die Klienten nach der Mahnung vom [[date|11.04.2025]] freiwillig geleistet hat, wenn auch ohne Abrechnung. Diese teilweise Wiedergutmachung wurde mildernd gewertet. Der Umstand, dass die Entnahme vom [[date|25.02.2025]] bis zum Ende des Verfahrens nicht ausgeglichen wurde, wirkte sich hingegen erschwerend aus.
+
+Die Kosten des Verfahrens werden dem Beschuldigten auferlegt. Eine Verfahrenseinstellung nach dem Ergebnis der Beweisaufnahme kam nicht in Betracht.
+
 VI. Rechtsmittelbelehrung
 
 Gegen diesen Bescheid kann binnen vier Wochen Berufung an die [[court|OBDK]] erhoben werden.

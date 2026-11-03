@@ -64,6 +64,12 @@ VII. Schlussbestimmungen
 
 Die Vertragsparteien erklären, den Vertrag gelesen und verstanden zu haben. Die Parteien unterfertigen den Vertrag nach ausführlicher Belehrung durch die Vertragsverfasser.
 
+VIII. Vollmacht und Ausfertigung
+
+Die Verkäuferin bevollmächtigt die Kanzlei, alle Erklärungen gegenüber dem Grundbuch und dem Finanzamt abzugeben, die für die Durchführung dieses Vertrages erforderlich sind. Die Vollmacht gilt auch für die Löschung des Pfandrechts der [[organization|Erste Bank der oesterreichischen Sparkassen AG]], sofern eine solche Eintragung bestehen sollte.
+
+Die Käufer erklären, dass sie den Vertrag in drei Ausfertigungen erhalten haben. Eine Ausfertigung wird dem Grundbuch vorgelegt, eine bleibt in der Kanzlei verwahrt und eine den Käufern ausgehändigt.
+
 Unterschriften:
 
 Für die Verkäuferin:

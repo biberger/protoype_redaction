@@ -64,6 +64,10 @@ Die Verlassenschaft wird nach Ablauf der Edikalfrist eingeantwortet, sofern kein
 
 Der Inventarwert der Liegenschaften wurde durch einen gerichtlich beeideten Sachverständigen ermittelt. Die Schätzungsgutachten sind dem Inventar angeschlossen und bilden die Grundlage für die Berechnung des Reinnachlasses.
 
+Die Verlassenschaft ist nach Ansicht des Gerichtskommissärs damit vollständig erfasst; weitere Vermögenswerte sind dem Gericht nicht bekannt geworden. Die Erben wurden zur Ergänzung innerhalb von vier Wochen aufgefordert.
+
+Der Inventarwert der Liegenschaften wurde durch einen gerichtlich beeideten Sachverständigen ermittelt. Die Schätzungsgutachten sind dem Inventar angeschlossen und bilden die Grundlage für die Berechnung des Reinnachlasses.
+
 Errichtet am [[date|21. April 2022]].
 
 [[person|Schantl]]

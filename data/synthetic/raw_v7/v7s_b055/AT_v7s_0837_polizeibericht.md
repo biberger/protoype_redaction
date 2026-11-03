@@ -40,7 +40,7 @@ Die Fahrzeuge waren zum Zeitpunkt des Unfalls ordnungsgemäß zugelassen. Der Le
 
 Die Unfallstelle war zum Zeitpunkt der Aufnahme durch eine Baustelle teilweise eingeschränkt, eine Verkehrsregelung durch die Polizei war nicht erforderlich.
 
-Die Anzeige wird an die Bezirkshauptmannschaft übermittelt. Eine Mitteilung an die Versicherungen erfolgt durch die Beteiligten selbst.
+Die Anzeige wird an die Bezirkshauptmannschaft übermittelt. Eine Mitteilung an die Versicherungen erfolgt durch die Beteiligten selbst. Die Kennzeichen der Fahrzeuge wurden am Unfallort überprüft und stimmen mit den Zulassungsdaten überein.
 
 [[location|St. Ruprecht an der Raab]], am [[date|18. September 2026]]
 

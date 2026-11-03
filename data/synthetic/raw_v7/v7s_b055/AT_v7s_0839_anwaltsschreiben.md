@@ -33,11 +33,11 @@ Wir ersuchen Sie daher, binnen 14 Tagen ab Zugang dieses Schreibens den Rücksta
 
 Wir weisen darauf hin, dass Herr [[person|Eichholzer]] in der Angelegenheit selbst als Zeuge zur Verfügung steht. Sein Zeugnis betrifft die Übergabe der Schlüssel am [[date|02.01.2019]] und den Zustand des Objekts zu diesem Zeitpunkt.
 
-Für Rückfragen steht Ihnen unsere Kanzlei unter Tel. [[phone_number|+43-1-9789253 Durchwahl 49]] zur Verfügung. Die Mietsache wurde zuletzt im März 2026 durch unseren Mandanten besichtigt. Dabei wurden Schäden an der Fensterfront und an der Elektroinstallation festgestellt, die über die übliche Abnützung hinausgehen. Die Kosten der Instandsetzung werden auf 3.150 Euro geschätzt; ein Kostenvoranschlag liegt bei. Diese Beträge sind in der Aufstellung noch nicht berücksichtigt und werden im Falle einer Klage gesondert geltend gemacht.
+Für Rückfragen steht Ihnen unsere Kanzlei unter Tel. [[phone_number|+43-1-9789253 Durchwahl 49]] zur Verfügung. Die Mietsache wurde zuletzt im März 2026 durch unseren Mandanten besichtigt. Die Besichtigung fand im Beisein eines Zeugen statt, dessen Erklärung wir auf Verlangen vorlegen. Dabei wurden Schäden an der Fensterfront und an der Elektroinstallation festgestellt, die über die übliche Abnützung hinausgehen. Die Kosten der Instandsetzung werden auf 3.150 Euro geschätzt; ein Kostenvoranschlag liegt bei. Diese Beträge sind in der Aufstellung noch nicht berücksichtigt und werden im Falle einer Klage gesondert geltend gemacht.
 
 Die Heizkostenabrechnung für das Jahr 2025 wurde Ihnen am [[date|15.02.2026]] übermittelt. Eine Reaktion ist bis heute ausgeblieben. Wir gehen davon aus, dass die Abrechnung anerkannt ist, sofern nicht binnen der oben genannten Frist ein Einwand erhoben wird.
 
-Ein Vergleichsvorschlag liegt derzeit nicht vor. Wir sind jedoch bereit, bei fristgerechter Zahlung der Rückstände auf die Geltendmachung der Verzugszinsen zu verzichten, sofern die Räumung bis zum [[date|31.12.2026]] erfolgt.
+Eine Zustellung dieses Schreibens an die Gesellschaft allein genügt uns; eine gesonderte Zustellung an den Geschäftsführer ist nicht erforderlich, da dieser die Gesellschaft in allen Angelegenheiten vertritt. Ein Vergleichsvorschlag liegt derzeit nicht vor. Wir sind jedoch bereit, bei fristgerechter Zahlung der Rückstände auf die Geltendmachung der Verzugszinsen zu verzichten, sofern die Räumung bis zum [[date|31.12.2026]] erfolgt.
 
 Bitte berufen Sie sich bei Ihrer Antwort auf unser Zeichen.
 

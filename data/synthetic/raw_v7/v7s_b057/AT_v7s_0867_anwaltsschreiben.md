@@ -32,6 +32,8 @@ Die Vertragsnummer [[other_identifier|KV-2024-21904]] ist in allen Schreiben anz
 
 Die [[organization|Kratochwil]] hat in früheren Schreiben vorgebracht, die Verzögerung sei durch eine Zollkontrolle verursacht worden. Eine Bestätigung der Zollbehörde liegt uns nicht vor. Wir bitten um Vorlage der Unterlagen bis zum genannten Termin. Frau [[person|Tandler]] wird gebeten, die Unterlagen direkt an unsere Kanzlei zu übermitteln.
 
+Die Ware war nach dem Vertrag in zwei Teillieferungen zu übernehmen. Die erste Teillieferung vom [[date|14.08.2026]] ist ordnungsgemäß eingegangen und wurde von unserer Mandantin abgenommen; die zweite Teillieferung ist bis heute ausständig. Die Abnahmeprotokolle liegen bei.
+
 Gemäß Punkt 9 des Speditionsvertrages ist für jeden Tag des Lieferverzuges eine Vertragsstrafe von EUR 350,00 vereinbart, höchstens jedoch 10 % des Auftragswertes. Die Vertragsstrafe wird im Falle einer Einigung auf die Schadenersatzforderung angerechnet. Unsere Mandantin verzichtet bis zum genannten Termin auf die Geltendmachung, sofern die Ware fristgerecht übergeben wird.
 
 Ergänzend weisen wir darauf hin, dass die Lagerkosten für die reservierte Fläche seit dem [[date|01.07.2026]] unverändert fortlaufen. Die Kosten belaufen sich auf EUR 2.100,00 je Monat und sind der [[organization|Kratochwil]] nach dem Vertrag weiterzuverrechnen.

@@ -9,7 +9,7 @@ Tel. [[phone_number|0662 253935-32]]
 
 GZ [[case_number|DR-K 4/2026]]
 
-Der Disziplinarrat der Rechtsanwaltskammer für Kärnten hat durch den Vorsitzenden [[judge|Mag. Rfat Altınok]] als Senatsvorsitzenden, die Senatsmitglieder [[judge|DI Lazarus Natter]] und [[judge|Dr. An Ela Milovanović]], unter Mitwirkung des Schriftführers [[person|Ivonne Tiller]] in der Disziplinarsache gegen den Rechtsanwalt [[lawyer|Moses Strauß]] nach der mündlichen Verhandlung vom [[date|8. Oktober 2026]], in Anwesenheit der Kammeranwältin [[person|Dr. Marcela Ferenczi]], geb [[date_of_birth|03.05.1951]], nach Anhörung des Beschuldigten zu Recht erkannt:
+Der [[court|Disziplinarrat der Rechtsanwaltskammer für Kärnten]] hat durch den Vorsitzenden [[judge|Mag. Rfat Altınok]] als Senatsvorsitzenden, die Senatsmitglieder [[judge|DI Lazarus Natter]] und [[judge|Dr. An Ela Milovanović]], unter Mitwirkung des Schriftführers [[person|Ivonne Tiller]] in der Disziplinarsache gegen den Rechtsanwalt [[lawyer|Moses Strauß]] nach der mündlichen Verhandlung vom [[date|8. Oktober 2026]], in Anwesenheit der Kammeranwältin [[person|Dr. Marcela Ferenczi]], geb [[date_of_birth|03.05.1951]], nach Anhörung des Beschuldigten zu Recht erkannt:
 
 Spruch
 
@@ -39,7 +39,7 @@ Die Gelder wurden auf dem Anderkonto des Beschuldigten verwahrt. Die Kontenbeweg
 
 4. Am [[date|8. August 2024]] wurde der Restbetrag von € 1.100,00 an die Klientin ausbezahlt. Der Beschuldigte hat dazu erklärt, dass der Betrag vergessen worden sei.
 
-Das Anderkonto wurde unter der IBAN [[bank_account|AT75 4434 8974 4989 9429]] bei einer Sparkasse im Bereich Klagenfurt geführt. Die Kontoauszüge für den gesamten Zeitraum liegen dem Senat vor. Sie zeigen, dass auf dem Konto neben dem Mandat der Klientin [[person|Arnhild Wieland]] keine weiteren Treuhandgelder verwahrt wurden. Der Beschuldigte hat die Führung des Anderkontos im Verfahren als seine alleinige Angelegenheit bezeichnet, da seine Kanzleikraft nur mit der Eingangspost betraut war.
+Das Anderkonto wurde unter der IBAN [[bank_account|AT75 4434 8974 4989 9429]] bei einer Sparkasse im Bereich [[location|Klagenfurt]] geführt. Die Kontoauszüge für den gesamten Zeitraum liegen dem Senat vor. Sie zeigen, dass auf dem Konto neben dem Mandat der Klientin [[person|Arnhild Wieland]] keine weiteren Treuhandgelder verwahrt wurden. Der Beschuldigte hat die Führung des Anderkontos im Verfahren als seine alleinige Angelegenheit bezeichnet, da seine Kanzleikraft nur mit der Eingangspost betraut war.
 
 Die Kanzleikraft wurde im Verfahren nicht einvernommen, weil sie zum Zeitpunkt der Verhandlung nicht mehr im Dienst des Beschuldigten stand. Der Senat hat die Aussage des Beschuldigten insoweit gewürdigt, als er die Verantwortung für die Buchungen übernommen hat. Eine Entlastung ergibt sich daraus nicht.
 
@@ -49,7 +49,7 @@ Die Summe der nicht ordnungsgemäß verwendeten Gelder beträgt somit € 7.000,
 
 Zur Person des Beschuldigten
 
-[[lawyer|Strauß]] ist seit dem Jahr 2009 in die Liste der Rechtsanwälte der Kammer eingetragen und führt eine Einzelkanzlei in Klagenfurt. Er ist nach den Angaben der Kammer nicht verheiratet und hat keine Sorgepflichten. Sein Einkommen wurde vom Beschuldigten mit monatlich rund € 3.800,00 netto angegeben. Eine Vermögensaufstellung hat er nicht vorgelegt, sodass der Senat die Geldbuße nach dem Umfang des Verstoßes bemessen hat.
+[[lawyer|Strauß]] ist seit dem Jahr 2009 in die Liste der Rechtsanwälte der Kammer eingetragen und führt eine Einzelkanzlei in [[location|Klagenfurt]]. Er ist nach den Angaben der Kammer nicht verheiratet und hat keine Sorgepflichten. Sein Einkommen wurde vom Beschuldigten mit monatlich rund € 3.800,00 netto angegeben. Eine Vermögensaufstellung hat er nicht vorgelegt, sodass der Senat die Geldbuße nach dem Umfang des Verstoßes bemessen hat.
 
 Die Zeugin [[person|Arnhild Wieland]] hat in ihrer Aussage geschildert, dass sie den Beschuldigten im Jahr 2022 über eine Bekannte kennengelernt habe. Sie habe ihm vertraut, weil er ihr zugesichert habe, dass sämtliche Zahlungen über das Anderkonto laufen würden. Erst als im Jahr 2025 eine Nachfrage bei der Versicherung ergab, dass die Auszahlung bereits erfolgt war, sei ihr der Umfang der Abzüge bewusst geworden. Die Zeugin hat mehrfach betont, dass sie nie einer Verrechnung zugestimmt habe.
 
@@ -85,7 +85,7 @@ Eine Streichung aus der Liste war nicht erforderlich, weil der Beschuldigte nach
 
 Kosten
 
-Die Kosten des Verfahrens, die den Pauschalsatz nicht übersteigen, trägt der Beschuldigte. Die Kammer hat die Gebühren für die Zustellung in Höhe von € 310,00 vorgelegt. Die Reisekosten der Zeugin [[person|Arnhild Wieland]] zur Verhandlung hat die Kammer nach dem Gebührenanspruch zu ersetzen; der Beschuldigte hat der Kammer diesen Betrag binnen vier Wochen zu erstatten. Ein Dolmetscher war nicht erforderlich, da alle Beteiligten der deutschen Sprache mächtig sind. Das Protokoll wurde verlesen und genehmigt.
+Die Kosten des Verfahrens, die den Pauschalsatz nicht übersteigen, trägt der Beschuldigte. Die Kammer hat die Gebühren für die Zustellung in Höhe von € 310,00 vorgelegt. Die Reisekosten der Zeugin [[person|Arnhild Wieland]] zur Verhandlung hat die Kammer nach dem Gebührenanspruch zu ersetzen; der Beschuldigte hat der Kammer diesen Betrag binnen vier Wochen zu erstatten. Ein Dolmetscher war nicht erforderlich, da alle Beteiligten der deutschen Sprache mächtig sind. Das Protokoll wurde verlesen und genehmigt. Das Protokoll wurde verlesen und genehmigt.
 
 Rechtsmittelbelehrung
 

@@ -11,7 +11,7 @@ GZ [[case_number|DR 9/2026]]
 
 IM NAMEN DER REPUBLIK
 
-Der Disziplinarrat der Steiermärkischen Rechtsanwaltskammer hat durch die Vorsitzende [[judge|Oberhammer]] als Senatsvorsitzende sowie die Senatsmitglieder [[judge|Mag. Tamar Straka]] und [[judge|Dr. Perette Wehr]] unter Mitwirkung des Schriftführers [[person|Velibor Damjanović]] in der Disziplinarsache gegen den Rechtsanwalt [[lawyer|Peitcho Stanoev]] wegen des Verdachts von Verstößen gegen die Berufspflichten nach der Rechtsanwaltsordnung nach öffentlicher mündlicher Verhandlung am [[date|17. Oktober 2026]] zu Recht erkannt:
+Der [[court|Disziplinarrat der Steiermärkischen Rechtsanwaltskammer]] hat durch die Vorsitzende [[judge|Oberhammer]] als Senatsvorsitzende sowie die Senatsmitglieder [[judge|Mag. Tamar Straka]] und [[judge|Dr. Perette Wehr]] unter Mitwirkung des Schriftführers [[person|Velibor Damjanović]] in der Disziplinarsache gegen den Rechtsanwalt [[lawyer|Peitcho Stanoev]] wegen des Verdachts von Verstößen gegen die Berufspflichten nach der Rechtsanwaltsordnung nach öffentlicher mündlicher Verhandlung am [[date|17. Oktober 2026]] zu Recht erkannt:
 
 Spruch
 
@@ -21,9 +21,9 @@ Die Kosten des Verfahrens trägt [[lawyer|Stanoev]].
 
 Begründung
 
-Die Kammeranwältin [[person|Mag. Lamprini Stathatos]] hat die Anklage am [[date|12. Mai 2026]] eingebracht. Der Beschuldigte ist seit dem Jahr 2011 als Rechtsanwalt in Graz zugelassen und bislang nicht disziplinär auffällig gewesen. Er führte im Tatzeitraum ein Anderkonto, auf dem die Gelder von Klienten verwahrt wurden.
+Die Kammeranwältin [[person|Mag. Lamprini Stathatos]] hat die Anklage am [[date|12. Mai 2026]] eingebracht. Der Beschuldigte ist seit dem Jahr 2011 als Rechtsanwalt in [[location|Graz]] zugelassen und bislang nicht disziplinär auffällig gewesen. Er führte im Tatzeitraum ein Anderkonto, auf dem die Gelder von Klienten verwahrt wurden.
 
-Der Beschuldigte hat am [[date|3. März 2024]] einen Betrag von € 12.300,00 aus einem Vergleich zugunsten des Klienten [[person|Friedl Alber]] auf das eigene Girokonto überwiesen, obwohl Friedl Alber die Zahlung erst am [[date|20. März 2024]] erwartete. Der Betrag wurde erst am [[date|14. Mai 2024]] auf das Anderkonto zurückgebucht. Die Buchung trägt die TH-Nr. [[other_identifier|2022/348]], die dem Verfahren vorgelegt wurde.
+Der Beschuldigte hat am [[date|3. März 2024]] einen Betrag von € 12.300,00 aus einem Vergleich zugunsten des Klienten [[person|Friedl Alber]] auf das eigene Girokonto überwiesen, obwohl [[person|Friedl Alber]] die Zahlung erst am [[date|20. März 2024]] erwartete. Der Betrag wurde erst am [[date|14. Mai 2024]] auf das Anderkonto zurückgebucht. Die Buchung trägt die TH-Nr. [[other_identifier|2022/348]], die dem Verfahren vorgelegt wurde.
 
 Weiters hat der Beschuldigte am [[date|9. September 2025]] Gelder aus einem anderen Mandat, bei dem [[person|Friedl Alber]] als Zeuge genannt war, ohne Zustimmung der Mandantin verwendet. Der Betrag von € 3.150,00 wurde nicht vollständig zurückgebucht. Die Buchungsunterlagen tragen die TH-Nr. [[other_identifier|2025/500]].
 
@@ -53,7 +53,7 @@ Kosten
 
 Die Kosten des Verfahrens setzen sich aus der Pauschalgebühr von € 320,00 und den Zustellgebühren zusammen. Sie sind vom Beschuldigten binnen vier Wochen ab Rechtskraft zu entrichten. Der Beschuldigte hat die Zustellgebühren der Kammer zu ersetzen, soweit sie auf seine Adressänderung zurückgehen.
 
-Der Beschuldigte wurde über dieses Rechtsmittel belehrt. Gegen dieses Erkenntnis ist die Berufung an die [[court|OBDK]] zulässig. Die Frist beträgt vier Wochen ab Zustellung.
+Der Beschuldigte wurde über dieses Rechtsmittel belehrt. Der Beschuldigte wurde über dieses Rechtsmittel belehrt. Gegen dieses Erkenntnis ist die Berufung an die [[court|OBDK]] zulässig. Die Frist beträgt vier Wochen ab Zustellung.
 
 Für den Disziplinarrat:
 

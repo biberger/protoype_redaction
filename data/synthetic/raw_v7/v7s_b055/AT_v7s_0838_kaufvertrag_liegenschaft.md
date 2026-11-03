@@ -60,7 +60,7 @@ IV a. Bestandsverhältnisse
 
 V. Übergabe, Nutzen und Lasten
 
-Die Übergabe erfolgt mit der Zahlung der dritten Kaufpreisrate. Nutzen und Lasten gehen mit dem Übergabetag auf die Käuferin über. Die Verkäufer übergeben die Schlüssel, die Zählerstände und die Unterlagen über die Heizungsanlage.
+Die Übergabe erfolgt mit der Zahlung der dritten Kaufpreisrate. Der Übergabetermin wird zwischen den Parteien einvernehmlich festgelegt und schriftlich bestätigt. Nutzen und Lasten gehen mit dem Übergabetag auf die Käuferin über. Die Verkäufer übergeben die Schlüssel, die Zählerstände und die Unterlagen über die Heizungsanlage. Die Wartungsnachweise für die Heizungsanlage sind beizulegen.
 
 VI. Gewährleistung
 
@@ -68,7 +68,7 @@ Die Verkäufer haften für die Richtigkeit der Angaben über die Liegenschaft na
 
 VI a. Vorkaufsrechte
 
-Die Verkäufer erklären, dass an der Liegenschaft kein vertragliches Vorkaufsrecht eingetragen ist. Eine Vorkaufsberechtigung der Gemeinde [[location|Weerberg]] nach dem Ortsrecht wurde mit Schreiben vom [[date|12.05.2026]] verneint. Die Vertragsverfasserin hat das Schreiben eingeholt und dem Vertrag beigefügt.
+Die Verkäufer erklären, dass an der Liegenschaft kein vertragliches Vorkaufsrecht eingetragen ist. Eine Vorkaufsberechtigung der Gemeinde [[location|Weerberg]] nach dem Ortsrecht wurde mit Schreiben vom [[date|12.05.2026]] verneint. Die Vertragsverfasserin hat das Schreiben eingeholt und dem Vertrag beigefügt. Die Verkäufer verpflichten sich, eine Kopie des Antwortschreibens der Gemeinde bei der Unterfertigung vorzulegen.
 
 Sollte ein Vorkaufsrecht dennoch geltend gemacht werden, verpflichtet sich die Käuferin, den Vertrag mit dem Vorkaufsberechtigten zu denselben Bedingungen abzuschließen. Die Kosten des Vorkaufsfalls trägt die Käuferin.
 

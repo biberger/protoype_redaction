@@ -68,7 +68,7 @@ Der Beschuldigte rügt außerdem, die Geldstrafe sei ohne Berücksichtigung sein
 
 5. Strafbemessung
 
-Der Senat hält die vom Disziplinarrat verhängte Strafe für zu hoch, weil die Entnahme vom [[date|09.02.2024]] durch die nachträgliche Abrechnung teilweise ausgeglichen wurde und der Beschuldigte bisher nicht einschlägig in Erscheinung getreten ist. Die Geldstrafe wird daher auf 4.500 Euro herabgesetzt.
+Der Senat hält die vom Disziplinarrat verhängte Strafe für zu hoch, weil die Entnahme vom [[date|09.02.2024]] durch die nachträgliche Abrechnung teilweise ausgeglichen wurde und der Beschuldigte bisher nicht einschlägig in Erscheinung getreten ist. Die Geldstrafe wird daher auf 4.500 Euro herabgesetzt. Die Herabsetzung berücksichtigt auch, dass der Beschuldigte die Anzeigerin inzwischen um Entschuldigung gebeten hat.
 
 6. Kosten
 

@@ -33,7 +33,7 @@ Wir fordern die [[organization|GBV]] auf, bis zum [[date|30. September 2026]] zu
 
 Die Brandmeldeanlage hat am Abend des [[date|03.08.2026]] um 22:14 Uhr Alarm ausgelöst; die Feuerwehr war um 22:31 Uhr vor Ort. Die Schadenhöhe setzt sich aus Gebäudeschaden in Höhe von 128.000 Euro, Lagerware in Höhe von 41.000 Euro und Betriebsunterbrechung in Höhe von 17.000 Euro zusammen. Die Belege zu diesen Positionen werden auf Verlangen vorgelegt.
 
-Die Ansprüche unseres Mandanten gegen die [[organization|GBV]] stützen sich auf den Versicherungsvertrag und die Bestimmungen über die Gebäudeversicherung. Eine Obliegenheitsverletzung der Versicherungsnehmerin ist nach unserer Kenntnis nicht gegeben.
+Die Ansprüche unseres Mandanten gegen die [[organization|GBV]] stützen sich auf den Versicherungsvertrag und die Bestimmungen über die Gebäudeversicherung. Eine Obliegenheitsverletzung der Versicherungsnehmerin ist nach unserer Kenntnis nicht gegeben. Die Schadensanzeige wurde binnen der vertraglich vorgesehenen Frist erstattet.
 
 Wir weisen darauf hin, dass unser Mandant gegenüber der Versicherungsnehmerin eine Frist bis zum [[date|15.10.2026]] gesetzt hat. Nach fruchtlosem Ablauf dieser Frist wird die Klage ohne weitere Ankündigung eingebracht. Ein Nachweis über die bestehende Gebäudeversicherung ist diesem Schreiben in Kopie beigelegt.
 

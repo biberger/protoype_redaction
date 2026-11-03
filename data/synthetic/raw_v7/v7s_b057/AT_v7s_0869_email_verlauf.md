@@ -71,3 +71,17 @@ Tel. [[phone_number|0662/70065 Kl. 12]]
 
 Mit freundlichen Grüßen
 [[person|Ing. Chaloupek]]
+
+Von: [[person|Irmline Lauda]] <[[email|i.lauda@alpenland-agv.at]]>
+Gesendet: Freitag, [[date|16. Oktober 2026]] 11:27
+An: [[person|Prohaska]] <[[email|office@prohaska.at]]>, [[person|Chaloupek]] <[[email|t.chaloupek@hakl-handels.at]]>
+Betreff: AW: AW: AW: AW: Schadenfall [[organization|Hakl Handels]], Ihr Zeichen [[other_identifier|69953]]
+
+Sehr geehrter Herr [[person|Prohaska]], sehr geehrte Frau [[person|Chaloupek]],
+
+die [[organization|AGV]] hat die Polizeianzeige erhalten. Nach einer ersten Prüfung ist die Entwendung bei verschlossenem Fahrzeug nicht ausgeschlossen, jedoch wurde die Schlüsselverwahrung im Betrieb nicht dokumentiert. Die [[organization|AGV]] ersucht deshalb um eine schriftliche Erklärung über die Schlüsselaufbewahrung und um die Übersendung des Fahrtenbuchs bis zum [[date|30.10.2026]].
+
+Mietwagenkosten werden nach Vorlage der Rechnungen geprüft; ein Vorschuss kann nicht zugesagt werden.
+
+Mit freundlichen Grüßen
+[[person|Irmline Lauda]]

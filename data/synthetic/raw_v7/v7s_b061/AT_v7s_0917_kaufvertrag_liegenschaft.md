@@ -1,0 +1,102 @@
+---
+doc_type: kaufvertrag_liegenschaft
+jurisdiction: AT
+lang: de
+---
+Rechtsanwältin
+[[person|Pall]]
+[[address|Augustinergasse 39, 8171 Sankt Kathrein am Offenegg]]
+T: [[phone_number|+43-3172-8773409]]  F: [[phone_number|03842 897943-4]]
+E: [[email|office@pall.at]]  W: www.pall.at
+[[organization|Raiffeisenbank Region Sankt Kathrein am Offenegg eGen]] IBAN: [[bank_account|AT75 1676 7408 4041 5384]] BIC: [[bank_account|OBKLAT2L]]
+ERV-Code: [[other_identifier|P116114]]
+
+Unser Zeichen: [[other_identifier|HNA-HNAPretorian/Fenichel]]
+Treuhandbuch-Nr. [[other_identifier|2026/752]]
+
+KAUFVERTRAG ÜBER EINE LIEGENSCHAFT
+
+Abgeschlossen zwischen
+
+1. [[person|PRETORIAN FROSICA]], geb [[date_of_birth|16.08.1972]], wohnhaft in [[address|Rebhuhnweg 23, 4533 Piberbach]], als Verkäuferin,
+
+2. [[person|Benjamin Fiegl]], *[[date_of_birth|1953-02-12]], als Verkäufer,
+
+3. [[person|Aloisa Payer]], geb. [[date_of_birth|17. Dezember 1977]], als Verkäuferin,
+
+4. [[person|Schoonderbeek Barbera]], GEB: [[date_of_birth|3. April 1998]], als Käuferin,
+
+5. [[organization|Papp Handels GmbH]], [[company_register_number|FN 373644b]], UID: [[tax_id|ATU29554103]], als weitere Käuferin.
+
+Alle Vertragsparteien sind im Folgenden gemeinsam als "Vertragsteile" bezeichnet.
+
+I. Vertragsgegenstand
+
+Die Verkäufer sind je zur Hälfte bücherliche Eigentümer der nachstehend bezeichneten Liegenschaft, eingetragen im Grundbuch:
+
+[[land_register_id|EZ. 1158]] [[land_register_id|GB 13780 Pennewang]], [[land_register_id|Gst.Nr. 517]]
+
+[[land_register_id|KG: 64812 Gmunden]] [[land_register_id|EZ 2006]]
+
+[[land_register_id|1901/Sachsenburg]] Grundstück [[land_register_id|1464]]
+
+Die Liegenschaften werden gemeinsam als "Kaufgegenstand" bezeichnet. Die Verkäuferin [[person|PRETORIAN FROSICA]] hat die Erklärung abgegeben, dass ihr Anteil an der Liegenschaft [[land_register_id|EZ 2006]] unbelastet ist, mit Ausnahme der im Grundbuch ersichtlichen Dienstbarkeit des Wegerechtes zugunsten des Nachbargrundstückes.
+
+II. Kaufpreis
+
+Der Kaufpreis beträgt insgesamt EUR 486.000,00 (in Worten: vierhundertsechsundachtzigtausend Euro). Die Käuferin [[person|Schoonderbeek Barbera]] und die [[organization|Papp Handels]] haben den Kaufpreis wie folgt zu entrichten:
+
+a) EUR 50.000,00 als Anzahlung bei Vertragsunterfertigung auf das Treuhandkonto der [[person|Pall]], IBAN [[bank_account|AT48 6764 2819 0010 0863]];
+
+b) den Restbetrag von EUR 436.000,00 binnen vier Wochen nach Vorliegen der grundbücherlichen Eintragungsbewilligung auf das gleiche Konto.
+
+Die Parteien vereinbaren, dass die Treuhandschaft bei der Rechtsanwältin [[person|Pall]] geführt wird. Die Treuhandschaft wurde unter der Nummer [[other_identifier|2018/101]] eröffnet und gilt auch für diesen Vertrag.
+
+III. Treuhandschaft
+
+Die Rechtsanwältin [[person|Pall]] übernimmt die Abwicklung des Kaufvertrages als Treuhänderin aller Vertragsteile. Sie ist berechtigt und verpflichtet, den Kaufpreis erst nach Eintragung des Eigentumsrechts der Käuferin im Grundbuch auszuzahlen. Die Verkäufer erteilen ihr die Weisung, den Kaufpreis an die Verkäufer selbst nur gegen Vorlage der Löschungsquittung für die bestehenden Pfandrechte auszuzahlen, während die [[organization|Papp Handels]] die Restzahlung nur nach Vorlage der Eintragungsbestätigung leistet.
+
+Sollte eine Eintragung nicht binnen sechs Monaten erfolgen, ist die Treuhänderin berechtigt, die Gelder an die Käuferin zurückzuüberweisen, soweit die Verkäufer nicht widersprechen.
+
+IV. Aufsandungserklärung
+
+Die Verkäufer erklären ihre Einwilligung in die Einverleibung des Eigentumsrechts zugunsten der [[organization|Papp Handels GmbH]] und erteilen hierzu die Aufsandungserklärung. Die Einverleibung ist auf Grund dieses Vertrages zu bewilligen. Der Antrag auf Eintragung wird durch die Rechtsanwältin [[person|Pall]] eingebracht.
+
+Die Verkäuferin [[person|Payer]] erklärt zusätzlich, dass die Liegenschaft nicht als Ehewohnung dient und dass ihr Ehegatte der Veräußerung zugestimmt hat.
+
+V. Übergabe, Gewährleistung, Schlussbestimmungen
+
+1. Die Übergabe des Kaufgegenstandes erfolgt mit Kaufpreiszahlung. Nutzen und Lasten gehen mit dem Tag der Übergabe auf die Käufer über.
+
+2. Die Verkäufer haften für die Lastenfreiheit, nicht jedoch für eine bestimmte Beschaffenheit des Gebäudes. Die Käuferin [[person|Schoonderbeek Barbera]] hat den Kaufgegenstand besichtigt.
+
+3. Änderungen dieses Vertrages bedürfen der Schriftform. Mündliche Nebenabreden bestehen nicht.
+
+4. Die Kosten der Vertragserrichtung trägt die Käuferseite. Die Grunderwerbsteuer und die Eintragungsgebühr trägt die Käuferseite.
+
+5. Die Vertragsteile bestätigen, dass sie den Vertrag nach ausreichender Belehrung durch die Rechtsanwältin [[person|Pall]] abgeschlossen haben.
+
+Die Verkäuferin [[person|Pretorian]] wurde auf die Möglichkeit eines Notariatsaktes hingewiesen und hat darauf verzichtet.
+
+Telefonische Rückfragen unter [[phone_number|02622/7841293-4]] richten Sie bitte an das Sekretariat der Kanzlei.
+
+[[location|Gmunden]], am [[date|15.09.2026]]
+
+Unterschriften:
+
+[[person|Frosica Pretorian]] ..........................................
+
+[[person|PRETORIAN FROSICA]] (Stempel)
+
+[[person|Benjamin Fiegl]] ..........................................
+
+[[person|Aloisa Payer]] ..........................................
+
+[[person|Barbera Schoonderbeek]] ..........................................
+
+Für die [[organization|Papp Handels GmbH]]: ..........................................
+
+Für die Richtigkeit der Ausfertigung:
+
+[[person|Pall]]
+Rechtsanwältin

@@ -40,6 +40,8 @@ Wir bitten um eine schriftliche Stellungnahme und um die Übermittlung eines vol
 
 Wir behalten uns alle weiteren Schritte ausdrücklich vor.
 
+Wir behalten uns alle weiteren Schritte ausdrücklich vor.
+
 Mit freundlichen Grüßen
 
 [[address|8800 Unzmarkt-Frauenburg]], am [[date|6. Mai 2026]]

@@ -32,7 +32,7 @@ sowie der Liegenschaft
 
 [[land_register_id|K.G. 23887]]/[[land_register_id|E.Z. 70]]
 
-2. Die Liegenschaften werden mit allen Bestandteilen und dem gesamten Zubehör verkauft. Die Käuferin nimmt den Kauf an.
+2. Die Liegenschaften werden mit allen Bestandteilen und dem gesamten Zubehör verkauft. Die Verkäuferin übergibt zusammen mit der Liegenschaft die Pläne der Bauten, soweit sie vorhanden sind. Die Käuferin nimmt den Kauf an.
 
 3. Die Verkäuferin erklärt, dass die Liegenschaften frei von Pfandrechten und sonstigen Lasten übergeben werden. Die im Grundbuch eingetragenen Dienstbarkeiten zugunsten der Nachbargrundstücke bleiben aufrecht.
 
@@ -78,7 +78,7 @@ VI. Schlussbestimmungen
 
 1. Änderungen dieses Vertrages bedürfen der Schriftform.
 
-2. Die Parteien erklären, dass sie den Vertrag gelesen haben und ihm zustimmen. Die Vertragsverfasserin hat sie über die Bedeutung der Eintragung belehrt.
+2. Die Parteien erklären, dass sie den Vertrag gelesen haben und ihm zustimmen. Die Vertragsverfasserin hat sie über die Bedeutung der Eintragung belehrt. Die Belehrung erfolgte in Anwesenheit beider Verkäufer und der Gesellschafterin.
 
 Unser Zeichen: [[other_identifier|W/Fehringer/0614]]
 UZ: [[other_identifier|546/23 P]]
