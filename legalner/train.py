@@ -22,6 +22,7 @@ def main(argv=None):
     ap.add_argument("--encoder-lr", type=float, default=1e-5)
     ap.add_argument("--task-lr", type=float, default=5e-4)
     ap.add_argument("--eval-steps", type=int, default=500)
+    ap.add_argument("--patience", type=int, default=5, help="early stopping: evaluations without improvement")
     ap.add_argument("--lora", action="store_true", help="train LoRA adapters instead of full weights")
     ap.add_argument("--wandb", default=None, help="W&B project name (enables W&B logging)")
     ap.add_argument("--precision", choices=["auto", "fp32", "bf16", "fp16"], default="auto",
@@ -46,7 +47,7 @@ def main(argv=None):
         eval_steps=args.eval_steps,
         save_best=True,
         early_stopping=True,
-        early_stopping_patience=5,
+        early_stopping_patience=args.patience,
         use_lora=args.lora,
         report_to_wandb=bool(args.wandb),
         wandb_project=args.wandb,

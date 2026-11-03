@@ -3,7 +3,7 @@
 #
 #   bash scripts/gpu_run.sh setup     # venv with CUDA torch + gliner2 (once)
 #   bash scripts/gpu_run.sh data      # regenerate data/canonical (RIS fetch ~25 min, HF downloads)
-#   bash scripts/gpu_run.sh build     # data/build/v1 (mix 40/30/15/15, gold excluded, validated)
+#   bash scripts/gpu_run.sh build     # data/build/v3: every record once, synthetic x2 (no source mix), gold excluded, validated
 #   bash scripts/gpu_run.sh smoke     # 20 steps, checks memory and speed
 #   bash scripts/gpu_run.sh train     # full run -> out/v1
 #   bash scripts/gpu_run.sh eval      # fine-tuned model and baselines on gold / test sets
@@ -62,8 +62,8 @@ build)
     data/canonical/ris.jsonl data/canonical/replay.jsonl \
     data/canonical/ler/*.jsonl data/canonical/mapa/*.jsonl data/canonical/mapa_v2.jsonl data/canonical/gold_at.jsonl \
     --exclude-docs data/gold/at/doc_ids.txt \
-    --max-per-doc ris=20 --cap ris:Bundesverwaltungsgericht=800 --source-copies synthetic_eu=3 \
-    --mix ler=0.39,synthetic=0.3,ris=0.145,replay=0.145,eurlex=0.02 \
+    --max-per-doc ris=20 --cap ris:Bundesverwaltungsgericht=300 --source-copies synthetic_eu=3 \
+    --source-copies synthetic=2 \
     --windows --layout-frac ${LAYOUT_FRAC:-0.2} --name-swap-copies ${NAME_SWAP_COPIES:-1} \
     --validate -o "$BUILD" > /dev/null
   $PY -c "import json; m = json.load(open('$BUILD/manifest.json')); \
@@ -74,7 +74,7 @@ smoke)
   ;;
 train)
   $PY -m legalner.train "$BUILD" -o "$RUN" --epochs ${EPOCHS:-3} --batch-size 8 --grad-accum 4 \
-    --encoder-lr 1e-5 --task-lr 5e-4 --eval-steps 500 --precision bf16 ${WANDB:+--wandb "$WANDB"}
+    --encoder-lr 1e-5 --task-lr 5e-4 --eval-steps ${EVAL_STEPS:-1000} --patience ${PATIENCE:-3} --precision bf16 ${WANDB:+--wandb "$WANDB"}
   ;;
 eval)
   mkdir -p out/eval
