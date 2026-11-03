@@ -4,9 +4,9 @@ jurisdiction: AT
 lang: de
 ---
 Von: [[person|Ueli Waldstein]]
-Gesendet: Montag, 12. Oktober 2026 08:41
+Gesendet: Montag, [[date|12. Oktober 2026]] 08:41
 An: [[person|DI Felizia Hubatschek]]
-Cc: [[person|Szabolcs Vukovich]]; office@kolbe.at
+Cc: [[person|Szabolcs Vukovich]]; [[email|office@kolbe.at]]
 Betreff: Räumungsvergleich, Klienten-Nr. [[other_identifier|61838]]
 
 Sehr geehrte Frau [[person|DI Hubatschek]],
@@ -29,7 +29,7 @@ E: [[email|office@kolbe.at]]  W: www.kolbe.at
 ERV-Code: [[other_identifier|R792211]]
 
 > Von: [[person|DI Felizia Hubatschek]]
-> Gesendet: Freitag, 9. Oktober 2026 16:02
+> Gesendet: Freitag, [[date|9. Oktober 2026]] 16:02
 > An: [[person|Ueli Waldstein]]
 > Betreff: AW: Räumungsvergleich, Klienten-Nr. [[other_identifier|61838]]
 >
@@ -43,7 +43,7 @@ ERV-Code: [[other_identifier|R792211]]
 > Tel. [[phone_number|02622 637607-11]]
 
 Von: [[person|DI Felizia Hubatschek]]
-Gesendet: Donnerstag, 8. Oktober 2026 11:17
+Gesendet: Donnerstag, [[date|8. Oktober 2026]] 11:17
 An: [[person|Ueli Waldstein]]
 Cc: [[person|Szabolcs Vukovich]]
 Betreff: Räumungsvergleich, Klienten-Nr. [[other_identifier|61838]]
@@ -53,7 +53,7 @@ Lieber Herr [[person|Waldstein]],
 Herr [[person|Vukovich]] hat den Vorschlag geprüft. Eine Frist bis Ende November ist für uns nicht akzeptabel. Bitte teilen Sie uns mit, ob die [[organization|Weller Immobilien GmbH]] den Vergleich in dieser Form annimmt.
 
 > Von: [[person|Szabolcs Vukovich]]
-> Gesendet: Mittwoch, 7. Oktober 2026 14:55
+> Gesendet: Mittwoch, [[date|7. Oktober 2026]] 14:55
 > An: [[person|Ueli Waldstein]]
 > Betreff: Räumungsvergleich
 >

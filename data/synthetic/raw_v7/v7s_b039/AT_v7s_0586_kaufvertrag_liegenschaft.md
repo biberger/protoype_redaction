@@ -51,6 +51,10 @@ Die Liegenschaften werden samt allem rechtlichen und tatsächlichen Zubehör, in
 
 2. Die Parteien stellen übereinstimmend fest, dass im Zuge der Vorbesprechung vom [[date|3. Februar 2025]] ein Lageplan übergeben wurde. Die Flächen der Teilstücke entsprechen diesem Plan, Abweichungen sind unerheblich.
 
+3. Die Käufer haben die Liegenschaften am [[date|20. Februar 2025]] gemeinsam besichtigt. Dabei wurde festgestellt, dass der Schuppen auf dem Grundstück [[land_register_id|Gst.Nr. 51/7]] nicht im Plan eingezeichnet ist. Der Verkäufer hat zugesagt, die Lage des Schuppens bis zur Übergabe nachzutragen; die Käufer verzichten für diesen Umstand auf jede Gewährleistung, sofern der Schuppen in der Größe des Bestandes bleibt.
+
+4. Die Verkäufer haben den Käufern die Abgabenbescheide über die laufende Grundsteuer übergeben. Rückstände aus den Vorjahren hat der Verkäufer zu tragen; sie sind aus dem Kaufpreis zu begleichen, bevor dieser an den Verkäufer ausgezahlt wird.
+
 III. KAUFPREIS UND TREUHANDABWICKLUNG
 
 1. Der Kaufpreis beträgt EUR 385.000,00 (in Worten: dreihundertfünfundachtzigtausend Euro). Er ist von den Käufern im Verhältnis ihrer Anteile zu erlegen.
@@ -58,6 +62,8 @@ III. KAUFPREIS UND TREUHANDABWICKLUNG
 2. Die Käufer erlegen den Kaufpreis binnen 14 Tagen nach Unterfertigung dieses Vertrages auf das Treuhandkonto der Kanzlei, IBAN [[bank_account|AT04 0661 8834 0429 8461]], Verwendungszweck „Kaufpreis Weitensfeld“. Die Kanzlei ist ermächtigt, den Kaufpreis nach Eintragung des Eigentumsrechtes und nach Vorliegen der lastenfreien Abschreibungserklärung der finanzierenden Bank an den Verkäufer auszuzahlen.
 
 3. Die Treuhandschaft endet mit der Auszahlung des Kaufpreises. Bis dahin verwaltet die Kanzlei die Gelder getrennt vom eigenen Vermögen. Die Kosten der Treuhandschaft trägt jeder Käufer zur Hälfte.
+
+4. Sollte der Kaufpreis nicht fristgerecht erlegt werden, ist der Verkäufer nach fruchtloser Mahnung und Setzung einer Nachfrist von vierzehn Tagen berechtigt, vom Vertrag zurückzutreten. Die Kosten der Mahnung trägt der säumige Käufer. Eine Anzahlung verfällt in diesem Fall zugunsten des Verkäufers, soweit sie zehn Prozent des Kaufpreises nicht übersteigt.
 
 IV. AUFSANDUNGSERKLÄRUNG
 
@@ -76,6 +82,8 @@ V. ÜBERGABE, GEWÄHRLEISTUNG UND NEBENKOSTEN
 3. Die Grunderwerbsteuer und die Eintragungsgebühr werden von den Käufern getragen. Die Kosten der Vertragserrichtung trägt ebenfalls jeder Käufer zur Hälfte.
 
 4. Der Verkäufer erklärt, dass für die Liegenschaften keine Vorkaufs- oder Wiederkaufsrechte bestehen und dass keine Pfandrechte einverleibt sind, die nicht mit der Löschung beim Kaufpreis gedeckt werden.
+
+5. Sollte die Aufsandungserklärung aus formellen Gründen vom Grundbuchsgericht nicht angenommen werden, verpflichtet sich der Verkäufer, binnen vier Wochen eine neue, inhaltlich gleiche Erklärung in der vom Gericht verlangten Form zu unterfertigen. Die Kanzlei ist berechtigt, die Erklärung in die Form zu bringen, die das Gericht verlangt, ohne dass dadurch der Inhalt verändert wird.
 
 VI. BEILAGEN UND SCHLUSSBESTIMMUNGEN
 

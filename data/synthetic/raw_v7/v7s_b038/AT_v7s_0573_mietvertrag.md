@@ -70,7 +70,7 @@ Die Mieterin erhält bei Übergabe zwei Wohnungsschlüssel, einen Briefkastensch
 
 9. Schlussbestimmungen
 
-Änderungen und Ergänzungen dieses Vertrags bedürfen der Schriftform. Sollte eine Bestimmung unwirksam sein, bleibt der übrige Vertrag wirksam. Dieser Vertrag wird in zwei Ausfertigungen errichtet, wovon jede Partei eine erhält.
+Änderungen und Ergänzungen dieses Vertrags bedürfen der Schriftform. Die Vertragsparteien bestätigen, dass sämtliche Angaben in diesem Vertrag vollständig und richtig sind und dass sie den Vertrag gelesen und verstanden haben. Sollte eine Bestimmung unwirksam sein, bleibt der übrige Vertrag wirksam. Dieser Vertrag wird in zwei Ausfertigungen errichtet, wovon jede Partei eine erhält.
 
 10. Anlagen
 

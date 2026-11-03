@@ -9,7 +9,7 @@ GZ DSR 14/2026
 
 Im Namen der Republik
 
-Der Disziplinarrat der Tiroler Rechtsanwaltskammer hat durch seinen Senat in der Disziplinarsache gegen den Rechtsanwalt [[lawyer|Ile Šutalo]], wohnhaft in [[location|Kufstein]], wegen des Verdachts von Verstößen gegen die Berufspflichten nach der [[legal_norm|RAO]] nach der öffentlichen mündlichen Verhandlung vom [[date|14. Mai 2026]] folgendes erkannt:
+Der [[court|Disziplinarrat der Tiroler Rechtsanwaltskammer]] hat durch seinen Senat in der Disziplinarsache gegen den Rechtsanwalt [[lawyer|Ile Šutalo]], wohnhaft in [[location|Kufstein]], wegen des Verdachts von Verstößen gegen die Berufspflichten nach der [[legal_norm|RAO]] nach der öffentlichen mündlichen Verhandlung vom [[date|14. Mai 2026]] folgendes erkannt:
 
 Besetzung:
 Vorsitz: [[judge|Philine Rabitsch]]
@@ -39,12 +39,12 @@ Der Beschuldigte war bis zum [[date|30. September 2025]] als Rechtsanwalt in [[l
 
 Die Kontobewegungen des Treuhandkontos ergeben folgendes Bild:
 
-12.03.2024 Zahlungseingang [[person|Ahrer]], TH-Nr. [[other_identifier|2018/731]], EUR 8.400,00
-02.05.2024 Auszahlung an [[person|Anselm Pirchmoser]], TH-Nr. [[other_identifier|2023/112]], EUR 1.250,00
-21.05.2024 Umbuchung auf das Geschäftskonto, Honorar lt. Rechnung, EUR 3.900,00
-30.06.2024 Zahlungseingang [[person|Esma Hodžić]], TH-Nr. [[other_identifier|2024/019]], EUR 2.100,00
-09.08.2024 Umbuchung auf das Geschäftskonto ohne Rechnung, EUR 2.500,00
-30.09.2024 Auszahlung an [[person|Ahrer]], TH-Nr. [[other_identifier|2018/731]], EUR 2.700,00
+[[date|12.03.2024]] Zahlungseingang [[person|Ahrer]], TH-Nr. [[other_identifier|2018/731]], EUR 8.400,00
+[[date|02.05.2024]] Auszahlung an [[person|Anselm Pirchmoser]], TH-Nr. [[other_identifier|2023/112]], EUR 1.250,00
+[[date|21.05.2024]] Umbuchung auf das Geschäftskonto, Honorar lt. Rechnung, EUR 3.900,00
+[[date|30.06.2024]] Zahlungseingang [[person|Esma Hodžić]], TH-Nr. [[other_identifier|2024/019]], EUR 2.100,00
+[[date|09.08.2024]] Umbuchung auf das Geschäftskonto ohne Rechnung, EUR 2.500,00
+[[date|30.09.2024]] Auszahlung an [[person|Ahrer]], TH-Nr. [[other_identifier|2018/731]], EUR 2.700,00
 
 Aus diesem Kontenverlauf ergibt sich, dass von dem Betrag der [[person|Ahrer]] vom [[date|09.08.2024]] ein Teilbetrag von EUR 2.500,00 auf das Geschäftskonto des Beschuldigten übertragen wurde, obwohl zu diesem Zeitpunkt keine fällige Honorarnote vorlag. Die Mandantin [[person|Hodžić]] wurde über die Verwendung ihres Geldes nicht informiert. Der Beschuldigte erklärte in der Verhandlung, er habe die Summe als Vorschuss betrachtet, eine schriftliche Vereinbarung dazu gebe es nicht.
 
@@ -63,6 +63,28 @@ Nach [[legal_norm|§ 10 Abs 1 RAO]] hat der Rechtsanwalt fremde Vermögenswerte,
 Der Beschuldigte hat den Betrag von EUR 2.500,00 zwar inzwischen zurückgezahlt, doch ändert dies nichts am Vorliegen des Verstoßes. Als mildernd wertet der Senat die bisherige Unbescholtenheit, die frühzeitige Rückzahlung und das Geständnis. Als erschwerend ist die Dauer der Pflichtverletzung über mehrere Monate zu werten, ebenso die Tatsache, dass die Mandantin [[person|Ahrer]] einen erheblichen Teil des Betrags dringend benötigte.
 
 Die verhängte Geldbuße liegt im unteren Bereich des gesetzlichen Rahmens. Der Senat hält sie für tat- und schuldangemessen, um den Beschuldigten künftig zur strikten Trennung der Konten anzuhalten.
+
+Bei der Bemessung hat der Senat auch die wirtschaftlichen Verhältnisse des Beschuldigten berücksichtigt, die er in der Verhandlung offengelegt hat. Der Beschuldigte betreibt seit dem Ende seiner Kanzlei im [[location|Kufstein]] Herbst 2025 eine Tätigkeit im Angestelltenverhältnis und hat zwei unterhaltspflichtige Kinder. Die Geldbuße soll ihn spürbar treffen, ohne seine Existenz zu gefährden.
+
+Der Senat hat außerdem erwogen, ob eine Ermahnung ausreicht. Er hat dies verworfen, weil der Verstoß über mehrere Monate andauerte und die Mandantin [[person|Ahrer]] erst nach einer Beschwerde zu ihrem Geld gelangte.
+
+3a. Weitere Ermittlungen
+
+Der Senat hat den Schriftverkehr zwischen dem Beschuldigten und der Mandantin [[person|Ahrer]] aus dem Frühjahr 2024 eingesehen. Darin bestätigt der Beschuldigte am [[date|19.03.2024]] den Eingang der Summe, nennt jedoch keine Honorarvereinbarung. Ein Schreiben der Mandantin vom [[date|11.06.2024]] enthält die Aufforderung, das Treuhandgeld bis zum Abschluss des Vergleichs unangetastet zu lassen. Der Beschuldigte antwortete darauf nicht.
+
+Die Mandantin [[person|Hodžić]] hat in einer schriftlichen Erklärung vom [[date|15.10.2024]] angegeben, sie habe von der Umbuchung erst durch die Kontoauszüge erfahren, die ihr die Gegenseite übermittelte. Eine Information durch den Beschuldigten sei nicht erfolgt. Sie habe ihn mehrfach telefonisch zu einer Auskunft aufgefordert, jedoch keine Rückmeldung erhalten.
+
+Der Zeuge [[person|Pirchmoser]] bestätigte in seiner Einvernahme, dass die Auszahlung vom [[date|02.05.2024]] ordnungsgemäß erfolgt sei und ihm der Betrag vollständig zugekommen sei. Er habe keinerlei Beanstandungen gegenüber dem Beschuldigten.
+
+Die Kammer hat ferner überprüft, ob der Beschuldigte ab dem [[date|1. Oktober 2024]] weitere Treuhandkonten führte. Dies konnte nicht festgestellt werden. Der Beschuldigte hat nach eigenen Angaben seine Kanzlei am [[date|30. September 2025]] aufgelöst.
+
+3b. Vorschuss und Honorarforderung
+
+Der Beschuldigte machte geltend, der Betrag von EUR 2.500,00 sei ein Vorschuss auf künftige Leistungen gewesen, die er für die Mandantin erbringen sollte. Eine Honorarnote über diesen Betrag lag jedoch nicht vor. Auch ein Leistungsverzeichnis, aus dem sich der Umfang der Tätigkeit ergibt, wurde nicht vorgelegt. Der Senat hält die Behauptung daher für nicht ausreichend belegt.
+
+Ein Vorschuss darf nur mit Zustimmung des Mandanten vom Treuhandkonto entnommen werden. Eine solche Zustimmung wurde weder mündlich noch schriftlich dokumentiert. Die Mandantin hat in ihrer Aussage ausdrücklich erklärt, sie habe einer Entnahme nicht zugestimmt.
+
+Dies gilt umso mehr, als die Mandantin zu diesem Zeitpunkt auf den Betrag angewiesen war, weil die Zahlung der Versicherung ausblieb. Das Interesse der Mandantin an der sofortigen Verfügbarkeit des Geldes war daher erheblich. Der Senat sieht darin einen wesentlichen Umstand für die Bewertung des Verstoßes.
 
 5. Kosten
 

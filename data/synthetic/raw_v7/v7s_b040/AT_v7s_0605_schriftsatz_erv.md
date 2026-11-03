@@ -57,7 +57,7 @@ I. Sachverhalt
 II. Beweis
 
 Der Kläger beantragt die Einvernahme folgender Zeugen:
-a) [[person|Hardo Dr. Nobis]], geboren am [[date_of_birth|1996-06-23]], wohnhaft in Wien, zum Inhalt des Telefonats mit der Behörde am [[date|10. März 2025]];
+a) [[person|Hardo Dr. Nobis]], geboren am [[date_of_birth|1996-06-23]], wohnhaft in [[location|Wien]], zum Inhalt des Telefonats mit der Behörde am [[date|10. März 2025]];
 b) [[person|Davis Pauritsch]], *[[date_of_birth|14. Oktober 1943]], zu den Vorgängen bei der Ausstellung des Schreibens vom [[date|11. März 2025]];
 c) die Zeugin [[person|Buck]] zu ihrer Kenntnis über die Rechtslage.
 
@@ -71,9 +71,19 @@ Die Amtshaftung der Republik ergibt sich aus [[legal_norm|§ 1 Abs 1 AHG]] iVm [
 
 IV. Vorverfahren
 
-Der Kläger hat die Republik mit Schreiben vom [[date|2. Juni 2025]] zur Zahlung aufgefordert. Die Finanzprokuratur hat mit Schreiben vom [[date|20. Juni 2025]] die Haftung abgelehnt. Eine Einigung kam nicht zustande.
+Der Kläger hat die Republik mit Schreiben vom [[date|2. Juni 2025]] zur Zahlung aufgefordert. Die [[organization|Finanzprokuratur]] hat mit Schreiben vom [[date|20. Juni 2025]] die Haftung abgelehnt. Eine Einigung kam nicht zustande.
 
 Die Beklagte wird aufgefordert, sich zu den Vorbringen binnen vier Wochen zu äußern. Das Verfahren ist nach [[legal_norm|§ 226 ZPO]] durch Vorbereitung eines Vergleichs zu fördern.
+
+IV a. Schadensberechnung und Vergleichsangebot
+
+1. Der Schaden des Klägers setzt sich wie folgt zusammen: Die Rückforderung der Behörde im Betrag von EUR 58.400,00 wurde mit Zahlung vom [[date|18. Juni 2025]] beglichen. Hinzu kommen Verzugszinsen nach [[legal_norm|§ 1333 ABGB]] ab dem [[date|1. Juli 2025]] sowie Kosten des Rechtsbeistandes in Höhe von EUR 3.200,00.
+
+2. Der Kläger hat die Zahlung unter ausdrücklichem Vorbehalt geleistet, wie aus dem Zahlungsbeleg ersichtlich ist. Der Vorbehalt wurde gegenüber der Behörde am [[date|19. Juni 2025]] schriftlich erklärt.
+
+3. Die Beklagte hat im Vorverfahren die Angaben der Sachbearbeiterin [[person|Buck]] nicht bestritten. Sie hat lediglich eingewendet, der Kläger hätte die Auskunft überprüfen können. Dieser Einwand geht ins Leere, weil die Auskunft ausdrücklich als verbindlich bezeichnet war und der Kläger keine Veranlassung hatte, an ihrer Richtigkeit zu zweifeln.
+
+4. Der Kläger ist bereit, die Klage auf Basis eines Vergleichs über EUR 52.000,00 zurückzuziehen, wenn die Beklagte binnen 14 Tagen eine Zahlung leistet. Dieses Angebot ist nicht als Anerkenntnis zu werten und unterliegt nicht dem Vergleichsgeheimnis des Verfahrens.
 
 V. Beilagen
 
@@ -83,7 +93,7 @@ V. Beilagen
 ./D Schreiben der [[organization|Finanzprokuratur]] vom [[date|20. Juni 2025]]
 ./E Vollmacht
 
-Wien, am [[date|28. Oktober 2026]]
+[[location|Wien]], am [[date|28. Oktober 2026]]
 
 [[organization|Serov, Böhler, Theyer, Pircher]]
 Rechtsanwälte OG, elektronisch signiert

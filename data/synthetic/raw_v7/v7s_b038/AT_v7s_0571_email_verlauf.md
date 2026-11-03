@@ -14,7 +14,7 @@ in der Angelegenheit des Mietrückstands im Objekt Top 4 teile ich Ihnen den akt
 
 Die [[organization|Strigl Immobilien GmbH]] ([[organization|SIG]]) als Vermieterin hat damit Anspruch auf Zahlung des Rückstands und auf Räumung, sofern die Zahlung nicht erfolgt. Ich ersuche Sie um Übermittlung der Kontoauszüge für die Monate März bis August 2026 sowie um die Vorlage des Mietvertrags in zweifacher Ausfertigung.
 
-Die Kosten für eine Klage beim zuständigen Bezirksgericht schätze ich auf rund EUR 1.150,00. Für den Fall, dass Herr [[person|Vuica]] bis [[date|30. September 2026]] nicht zahlt, halte ich eine Klage für unausweichlich. Bitte teilen Sie mir bis [[date|18. September 2026]] mit, ob Sie dem Vorgehen zustimmen.
+Die Kosten für eine Klage beim zuständigen Bezirksgericht schätze ich auf rund EUR 1.150,00. Die Kaution von drei Monatsmieten ist laut Ihrer Aufstellung bei der Bank hinterlegt und kann mit der Forderung verrechnet werden, sofern dies im Mietvertrag so vorgesehen ist. Für den Fall, dass Herr [[person|Vuica]] bis [[date|30. September 2026]] nicht zahlt, halte ich eine Klage für unausweichlich. Bitte teilen Sie mir bis [[date|18. September 2026]] mit, ob Sie dem Vorgehen zustimmen.
 
 Mit freundlichen Grüßen
 
@@ -40,7 +40,7 @@ Sehr geehrter Herr [[person|Pirquet]],
 
 ich vertrete Herrn [[person|Vuica]] in dieser Angelegenheit und bestätige den Eingang Ihres Schreibens vom [[date|10. September 2026]]. Der Mieter hat die Zahlungen für Juni bis August 2026 an die [[organization|Strigl Immobilien]] geleistet, die Überweisungsbelege liegen bei. Die Differenz ergibt sich aus einer Schadensmeldung, die bei der Versicherung unter der Schaden-Nr. [[other_identifier|90/126825/25]] geführt wird.
 
-Die Schadensmeldung betrifft den Wasserschaden im Badezimmer, den die [[organization|SIG]] nach dem Vorfall vom [[date|2. Juli 2026]] nicht behoben hat. Solange die Mängel bestehen, ist eine Minderung des Mietzinses gerechtfertigt. Herr [[person|Vuica]] ist daher nicht bereit, den Gesamtbetrag zu überweisen, bevor die Reparatur erfolgt ist.
+Ich ersuche Sie, die Schadensmeldung dem Versicherer weiterzuleiten, sobald Sie diese erhalten haben. Die Schadensmeldung betrifft den Wasserschaden im Badezimmer, den die [[organization|SIG]] nach dem Vorfall vom [[date|2. Juli 2026]] nicht behoben hat. Solange die Mängel bestehen, ist eine Minderung des Mietzinses gerechtfertigt. Herr [[person|Vuica]] ist daher nicht bereit, den Gesamtbetrag zu überweisen, bevor die Reparatur erfolgt ist.
 
 Ich schlage vor, dass wir uns am [[date|22. September 2026]] zu einem Gespräch treffen. Die [[organization|Strigl Immobilien]] hat mir gegenüber bereits zugesagt, den Handwerker bis dahin zu beauftragen.
 

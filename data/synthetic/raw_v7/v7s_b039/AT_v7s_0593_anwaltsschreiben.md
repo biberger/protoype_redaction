@@ -40,7 +40,11 @@ Malerarbeiten | 1.460,00
 Mietausfall | 2.000,00
 Summe | 12.430,00
 
-Die Gutachterkosten sind in den vorgerichtlichen Kosten enthalten. Unsere Mandantin fordert Sie daher auf, bis spätestens [[date|31. März 2026]]
+Die Gutachterkosten sind in den vorgerichtlichen Kosten enthalten.
+
+Zur Vorgeschichte: Die erste Mängelrüge unserer Mandantin datiert vom [[date|9. Jänner 2025]] und wurde an die Geschäftsanschrift Ihrer Gesellschaft gesandt. Eine Eingangsbestätigung ist nicht erfolgt. Bei einem Telefonat am [[date|21. Jänner 2025]] hat Ihr Bauleiter die Ursache der Feuchtigkeit auf eine nachträgliche Veränderung durch den Vormieter zurückgeführt. Diese Erklärung wurde durch das Gutachten vom [[date|17. Mai 2025]] eindeutig widerlegt, weil die Abdichtung bereits bei der Übergabe fehlerhaft war.
+
+Unsere Mandantin hat zudem im Frühjahr 2025 einen Teil der Schäden auf eigene Kosten trocknen lassen, um weitere Folgeschäden zu verhindern. Die Rechnung des Trocknungsunternehmens ist in der Schadensaufstellung berücksichtigt. Sie hat dadurch die Schadensminderungspflicht erfüllt, obwohl ihr dies nicht zumutbar gewesen wäre, wenn die Gesellschaft ihre Verpflichtungen erfüllt hätte. Unsere Mandantin fordert Sie daher auf, bis spätestens [[date|31. März 2026]]
 
 1. die Mängel fachgerecht zu beheben,
 2. den Schaden von EUR 12.430,00 zu ersetzen, und

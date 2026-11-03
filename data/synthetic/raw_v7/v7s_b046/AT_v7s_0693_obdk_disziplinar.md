@@ -39,6 +39,8 @@ Die [[organization|Rechtsanwaltskammer Oberösterreich]] (im Folgenden: [[organi
 
 2.4. Die Einvernahme des Zeugen ergab, dass die Kanzleiangestellte auf Weisung des Beschuldigten die Buchungen erst am [[date|11.11.2024]] nachgetragen hat. Die Aufzeichnungen über die Treuhandschaft [[other_identifier|2024/143]] sind daher unvollständig.
 
+2.5. Der Beschuldigte hat am [[date|19.06.2024]] der Kammer eine Aufstellung über seine offenen Treuhandschaften übermittelt, die mehrere Abweichungen zu den Kontoauszügen aufweist. Diese Aufstellung wurde nachträglich erstellt und konnte daher nur eingeschränkt als Beweismittel dienen.
+
 3. Beweiswürdigung
 
 Der Senat stützt sich auf die Urkunden, insbesondere auf die Kontoauszüge, die Mitteilung der Bank und die Treuhandbücher. Der Beschuldigte [[lawyer|Sátori]] hat in der Verhandlung eingeräumt, dass die Überweisung vom [[date|12.03.2024]] ohne schriftliche Vollmacht erfolgte. Die Zeugin [[person|D'Aquino]] hat glaubhaft angegeben, dass sie den Restbetrag nie erhalten hat.
@@ -52,6 +54,12 @@ Die Darstellung des Beschuldigten, wonach die Zahlung an die [[organization|Neub
 4.2. Die Verletzung der Pflichten der Treuhandschaft ist nach § 1 Abs 2 Z 3 der Disziplinarordnung zu ahnden. Bei der Strafbemessung waren als mildernd zu werten, dass der Beschuldigte bisher disziplinär unbescholten ist und den Restbetrag an [[person|D'Aquino]] inzwischen nachbezahlt hat. Erschwerend war, dass die Buchungen nachträglich geändert wurden, um den Zugriff auf das Anderkonto zu verschleiern.
 
 4.3. Der Senat sieht in der Verhängung einer Geldbuße das gelindeste Mittel, um den Beschuldigten zur ordnungsgemäßen Führung der Treuhandschaft anzuhalten. Ein Ausschluss von der Rechtsanwaltschaft kam nicht in Betracht, weil die Verfehlung keinen Vermögensschaden der Mandanten in dauerhafter Höhe nach sich gezogen hat.
+
+4.4. Der Senat hat ferner geprüft, ob die Verfehlung eine Verletzung der Verschwiegenheitspflicht darstellt. Dies ist nicht der Fall, weil die Mitteilungen an die Kammeranwältin durch den Mandanten selbst erfolgten. Die Beschwerde des [[person|Hotak]] enthielt jedoch den Vorwurf, der Beschuldigte habe die Treuhandgelder in den Büroräumen zwischengelagert, was sich nicht bestätigte.
+
+4.5. Der Umstand, dass der Beschuldigte [[lawyer|Sátori]] die Treuhandbuchungen für die Treuhandschaft [[other_identifier|2024/143]] erst nach Zustellung der Ladung nachgetragen hat, ist nach Auffassung des Senates als erschwerend zu berücksichtigen. Die Tatsache, dass die Mandantin [[person|D'Aquino]] die Restzahlung erst nach zwei Mahnungen erhalten hat, unterstreicht die Notwendigkeit einer strengen Sanktion.
+
+4.6. Die Senatsvorsitzende [[judge|Dr. Oswina Langer]] hat in der Beratung darauf hingewiesen, dass die Fristen der Treuhandbuchführung nach der Richtlinie der Rechtsanwaltskammer einzuhalten sind. Der Beisitzer [[judge|Dr. Gervais Scheffknecht]] hat sich der Strafbemessung angeschlossen; der Beisitzer [[judge|Durmuş Sakal]] hat eine höhere Geldbuße vorgeschlagen, die jedoch nicht die Mehrheit fand.
 
 5. Kosten
 

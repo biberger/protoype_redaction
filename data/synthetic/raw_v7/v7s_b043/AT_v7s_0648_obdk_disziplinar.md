@@ -11,7 +11,7 @@ Zl. [[case_number|D 14/2025]]
 
 IM NAMEN DER REPUBLIK
 
-Der Disziplinarrat der Steiermärkischen Rechtsanwaltskammer hat durch die Senatsvorsitzende [[judge|Dr. Barbarina Herzog]] als Vorsitzende sowie durch die Mitglieder [[judge|MMag. Agnese Marchisio]], [[judge|Hermi Walzl]], geboren am [[date_of_birth|28. September 1962]], und [[judge|Lesya Kozlova]], geboren am [[date_of_birth|20.06.1962]], in Gegenwart des Schriftführers [[person|Dorthe Pezzei]], geboren am [[date_of_birth|19.10.1956]], in der Disziplinarsache gegen die Rechtsanwältin [[lawyer|Dorothea Niederhauser]] wegen des Verdachts der Verletzung von Berufspflichten nach [[legal_norm|§ 1 RAO]] nach öffentlicher mündlicher Verhandlung in Anwesenheit der Kammeranwältin [[person|Delfinka Brzezińska]], geb. [[date_of_birth|26. Mai 1967]], sowie der Beschuldigten selbst, zu Recht erkannt:
+Der [[court|Disziplinarrat der Steiermärkischen Rechtsanwaltskammer]] hat durch die Senatsvorsitzende [[judge|Dr. Barbarina Herzog]] als Vorsitzende sowie durch die Mitglieder [[judge|MMag. Agnese Marchisio]], [[judge|Hermi Walzl]], geboren am [[date_of_birth|28. September 1962]], und [[judge|Lesya Kozlova]], geboren am [[date_of_birth|20.06.1962]], in Gegenwart des Schriftführers [[person|Dorthe Pezzei]], geboren am [[date_of_birth|19.10.1956]], in der Disziplinarsache gegen die Rechtsanwältin [[lawyer|Dorothea Niederhauser]] wegen des Verdachts der Verletzung von Berufspflichten nach [[legal_norm|§ 1 RAO]] nach öffentlicher mündlicher Verhandlung in Anwesenheit der Kammeranwältin [[person|Delfinka Brzezińska]], geb. [[date_of_birth|26. Mai 1967]], sowie der Beschuldigten selbst, zu Recht erkannt:
 
 Spruch
 
@@ -31,7 +31,7 @@ Die [[person|Dipl.-Ing. Fabio Peter]], geb. [[date_of_birth|1937-11-12]], hat al
 
 2. Sachverhalt
 
-2.1 Die Beschuldigte betrieb eine Einzelkanzlei in Graz und führte für ihre Klienten mehrere Treuhandschaften. Über das Treuhandbuch wurden die Zahlungsbewegungen dokumentiert. Die folgende Übersicht gibt die für das Verfahren maßgeblichen Vorgänge wieder:
+2.1 Die Beschuldigte betrieb eine Einzelkanzlei in [[location|Graz]] und führte für ihre Klienten mehrere Treuhandschaften. Über das Treuhandbuch wurden die Zahlungsbewegungen dokumentiert. Die folgende Übersicht gibt die für das Verfahren maßgeblichen Vorgänge wieder:
 
 Datum | Vorgang | Betrag in EUR | Klient | Treuhandnummer
 [[date|3. Jänner 2024]] | Zahlungseingang Kaufpreisanzahlung | 12.500,00 | [[person|Fabio Peter]] | Treuhandbuch-Nr. [[other_identifier|2023/088]]
@@ -58,7 +58,7 @@ Der Disziplinarrat stützt seine Feststellungen auf das Treuhandbuch, die Kontoa
 
 Die Beschuldigte hat die Zeugin [[person|Verena Schinnerl]] als Kanzleikraft bezeichnet. [[person|Schinnerl]] gab an, dass die Beschuldigte die Auszahlung selbst angeordnet habe. Der Disziplinarrat hält diese Aussage für glaubwürdig.
 
-Der Zeuge [[person|Andreas Kollmann]] ist Bankberater bei jenem Kreditinstitut in Graz, bei dem das Treuhandkonto geführt wird. Er bestätigte, dass die Überweisung vom [[date|18. Jänner 2024]] über das Online-Banking der Beschuldigten ausgelöst und mit einer Transaktionsnummer freigegeben worden sei. Die Beschuldigte habe bei einem Gespräch am [[date|27. Jänner 2024]] erklärt, die Zahlung sei auf Wunsch des Klienten erfolgt. Dieser Hinweis wurde später nicht mehr aufgegriffen, und der Zeuge hat die Angaben der Beschuldigten nicht selbst überprüfen können.
+Der Zeuge [[person|Andreas Kollmann]] ist Bankberater bei jenem Kreditinstitut in [[location|Graz]], bei dem das Treuhandkonto geführt wird. Er bestätigte, dass die Überweisung vom [[date|18. Jänner 2024]] über das Online-Banking der Beschuldigten ausgelöst und mit einer Transaktionsnummer freigegeben worden sei. Die Beschuldigte habe bei einem Gespräch am [[date|27. Jänner 2024]] erklärt, die Zahlung sei auf Wunsch des Klienten erfolgt. Dieser Hinweis wurde später nicht mehr aufgegriffen, und der Zeuge hat die Angaben der Beschuldigten nicht selbst überprüfen können. Er bestätigte zudem, dass die Kanzlei die Zahlungsaufträge regelmäßig per Telefax erteilte und dass ein Original der Weisung nicht aufbewahrt wurde.
 
 Der Disziplinarrat sieht es als erwiesen an, dass die Beschuldigte bis zum [[date|20. Juni 2024]] keine Abrechnung über die Verwendung der Gelder an die Beschwerdeführer übermittelt hat, obwohl diese mit Schreiben vom [[date|3. April 2024]] und vom [[date|8. Mai 2024]] ausdrücklich darum ersucht hatten.
 

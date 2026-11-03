@@ -117,7 +117,7 @@ ab Zustellung. Die Beschuldigte und die Kammeranwältin nahmen die Belehrung zur
 
 Schluss der Sitzung: 12.05 Uhr.
 
-Wien, am [[date|14. Mai 2026]]
+[[location|Wien]], am [[date|14. Mai 2026]]
 
 Die Schriftführerin: [[person|Ingrid Karner]]
 

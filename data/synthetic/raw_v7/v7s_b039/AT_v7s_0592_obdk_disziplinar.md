@@ -9,7 +9,7 @@ GZ: [[case_number|DR 7/2026]]
 
 Im Namen der Republik!
 
-Der [[court|Disziplinarrat der Steiermärkischen Rechtsanwaltskammer]] hat durch Senatspräsident [[judge|Ferenc Şimşek]] als Vorsitzenden, die Beisitzerin [[judge|Dr. Mina Stemberger]] und die Beisitzerin [[judge|Mag. Kreszenz Ehrenzweig]], StA. [[country|Kroatien]], in Gegenwart der Schriftführerin [[person|Gudrun Wirl]] und der Kammeranwältin [[person|Szonja Oberfrank]] über die Disziplinaranzeige gegen Rechtsanwalt [[lawyer|Caeser Waldner]], Geburtsdatum: [[date_of_birth|1955-10-01]], wohnhaft in Graz, am [[date|18. September 2026]] nach mündlicher Verhandlung in nichtöffentlicher Sitzung erkannt:
+Der [[court|Disziplinarrat der Steiermärkischen Rechtsanwaltskammer]] hat durch Senatspräsident [[judge|Ferenc Şimşek]] als Vorsitzenden, die Beisitzerin [[judge|Dr. Mina Stemberger]] und die Beisitzerin [[judge|Mag. Kreszenz Ehrenzweig]], StA. [[country|Kroatien]], in Gegenwart der Schriftführerin [[person|Gudrun Wirl]] und der Kammeranwältin [[person|Szonja Oberfrank]] über die Disziplinaranzeige gegen Rechtsanwalt [[lawyer|Caeser Waldner]], Geburtsdatum: [[date_of_birth|1955-10-01]], wohnhaft in [[location|Graz]], am [[date|18. September 2026]] nach mündlicher Verhandlung in nichtöffentlicher Sitzung erkannt:
 
 Spruch
 
@@ -35,23 +35,23 @@ Der Beschuldigte bestritt die Vorwürfe zunächst im Wesentlichen. Er brachte vo
 
 II. Sachverhalt
 
-1. Treuhandschaft Fridrichová
+1. Treuhandschaft [[person|Fridrichová]]
 
 Die Klientin [[person|Melinda Fridrichová]] übergab dem Beschuldigten im Zuge einer Liegenschaftsabwicklung einen Betrag, der auf dem Anderkonto der Kanzlei verwahrt werden sollte. Auf dem Anderkonto mit der IBAN [[bank_account|AT73 7255 1466 7368 4490]] wurden folgende Bewegungen festgestellt:
 
 Datum | Vorgang | Betrag in EUR | Treuhand-Nr.
-[[date|3. März 2025]] | Zahlungseingang Klientin Fridrichová | 42.300,00 | TH-Nr. [[other_identifier|2021/801]]
+[[date|3. März 2025]] | Zahlungseingang Klientin [[person|Fridrichová]] | 42.300,00 | TH-Nr. [[other_identifier|2021/801]]
 [[date|11. März 2025]] | Teilzahlung an Dritten | 8.000,00 | TH-Nr. [[other_identifier|2021/801]]
 [[date|29. Juli 2025]] | Auszahlung an die Klientin | 34.300,00 | TH-Nr. [[other_identifier|2021/801]]
 
 Die Klientin [[person|Fridrichová]] hat den Restbetrag erst nach mehreren Urgenzen und nach Einschaltung der Kammer erhalten. Die Liegenschaft der Klientin liegt in [[location|St. Florian]] und war Gegenstand des Kaufes.
 
-2. Treuhandschaft Pawlicka
+2. Treuhandschaft [[person|Pawlicka]]
 
 Die Klientin [[person|Emma Ing. Pawlicka]], GEB: [[date_of_birth|27. April 2000]], übergab dem Beschuldigten einen Betrag für die Abwicklung einer Wohnungsübergabe. Die Treuhandnummer lautete TH-Nr. [[other_identifier|2026/969]]. Ein Treuhandbuch wurde nicht laufend geführt; die Eintragungen wurden erst nach Aufforderung der Kammer nachgeholt. Die Buchungen sind unvollständig, die Beträge decken sich aber mit den Kontoauszügen.
 
 Datum | Vorgang | Betrag in EUR
-[[date|12. Mai 2026]] | Zahlungseingang Klientin Pawlicka | 18.750,00
+[[date|12. Mai 2026]] | Zahlungseingang Klientin [[person|Pawlicka]] | 18.750,00
 [[date|2. Juni 2026]] | Keine Buchung | 0,00
 [[date|20. Juni 2026]] | Auszahlung an Verkäufer | 15.400,00
 
@@ -61,9 +61,17 @@ Die Verspätung bei der Auszahlung an den Verkäufer betrug mehr als zwei Wochen
 
 Die [[organization|RAK]] forderte den Beschuldigten am [[date|1. August 2025]] zur Stellungnahme auf. Die Auskunft vom [[date|22. August 2025]] enthielt weder den Stand des Anderkontos noch die Treuhandbuchauszüge. Erst nach einer zweiten Aufforderung vom [[date|10. September 2025]] wurden die Unterlagen übermittelt.
 
+Die nachgereichten Unterlagen waren ihrerseits unvollständig. Es fehlten die Belege über die Auszahlung der Teilzahlung vom [[date|11. März 2025]] an den Dritten und die Vereinbarung über die Verwendung des Restbetrages. Die Kammer hat deshalb eine dritte Aufforderung zur Ergänzung angeordnet, der der Beschuldigte erst im Verfahren vor dem Disziplinarrat nachgekommen ist. Die Belege wurden daraufhin vorgelegt, sie betreffen aber nur einen Teil der Bewegungen auf dem Anderkonto.
+
+Der Beschuldigte hat in der Verhandlung angegeben, dass er die Aufforderungen der Kammer nicht als dringend empfunden habe, weil er die Klientin [[person|Fridrichová]] laufend über den Stand der Liegenschaftsabwicklung informiert habe. Diese Behauptung wurde von der Klientin ausdrücklich bestritten. Sie habe in dem fraglichen Zeitraum nur zwei Mitteilungen erhalten, die keine Auskunft über den Verbleib des Geldes enthielten.
+
 III. Beweiswürdigung
 
 Das Gericht stützt die Feststellungen auf die Kontoauszüge, die Stellungnahme der [[organization|RAK]] und die Aussagen der Klientin [[person|Fridrichová]], die glaubwürdig und in sich schlüssig waren. Die Angaben des Beschuldigten zur angeblichen Rückforderung sind widersprüchlich. Er konnte weder eine Klage noch einen Zahlungsbefehl vorlegen.
+
+Ergänzend hat die Kammer eine Aufstellung der Kontobewegungen vorgelegt, die von einem beeideten Buchprüfer erstellt wurde. Die Aufstellung bestätigt die Beträge der Zahlungseingänge und Auszahlungen. Der Buchprüfer hat darauf hingewiesen, dass das Anderkonto im Zeitraum von März bis Juli 2025 keine Zinserträge auswies, obwohl eine verzinste Veranlagung möglich gewesen wäre. Das Gericht sieht darin keinen Hinweis auf eine Bereicherung des Beschuldigten, wohl aber auf eine fehlende Sorgfalt bei der Verwaltung fremder Gelder.
+
+Die Angaben der Klientin [[person|Fridrichová]] zu den Urgenzen sind durch die Korrespondenz belegt. Die Schreiben vom [[date|15. April 2025]] und vom [[date|5. Mai 2025]] wurden vom Beschuldigten nicht oder erst verspätet beantwortet. Die Kammer hat die Schreiben im Original vorgelegt; sie tragen den Eingangsstempel der Kanzlei.
 
 Die Schriftführerin [[person|Gudrun Wirl]] hat das Protokoll der Vernehmung geführt. Die Aussage der Klientin [[person|Pawlicka]] wurde in Gegenwart der Kammeranwältin [[person|Szonja Oberfrank]] aufgenommen. Die Zeugin hat den Zeitablauf der Ereignisse übereinstimmend geschildert.
 
@@ -95,11 +103,13 @@ V. Zur Strafzumessung im Einzelnen
 
 6. Der Disziplinarrat hat die Kammeranwältin [[person|Oberfrank]] angehört, die einen Verweis mit Bedingung angeregt hat. Diesem Antrag konnte nicht gefolgt werden, weil die Treuhandschaft nicht zeitnah bereinigt wurde.
 
+7. Die Frage, ob die Verletzung der Treuhandpflichten Vorsatz voraussetzt, konnte offenbleiben. Der Beschuldigte hat die Gelder zumindest bewusst länger zurückgehalten, als es die Rücksprache mit den Klientinnen erlaubt hätte. Ein Irrtum über die Rechtslage ist ihm nicht zugutezuhalten, weil die Pflicht zur unverzüglichen Weiterleitung von Treuhandgeldern zu den Grundpflichten jedes Rechtsanwalts gehört.
+
 VI. Rechtsmittelbelehrung
 
 Gegen dieses Erkenntnis steht dem Beschuldigten und der Kammeranwältin die Berufung an die [[court|OBDK]] offen. Die Berufung ist binnen vier Wochen nach Zustellung schriftlich beim Disziplinarrat einzubringen.
 
-Für den Disziplinarrat der Steiermärkischen Rechtsanwaltskammer:
+Für den [[court|Disziplinarrat der Steiermärkischen Rechtsanwaltskammer]]:
 
 Senatspräsident [[judge|Ferenc Şimşek]]
 Vorsitzender

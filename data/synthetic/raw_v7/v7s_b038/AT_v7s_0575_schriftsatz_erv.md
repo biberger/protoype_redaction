@@ -33,17 +33,17 @@ Streitwert: EUR 14.300,00
 
 I. Sachverhalt
 
-1. Der Kläger ist Eigentümer der Liegenschaft, auf der die Beklagte eine Werkstätte betreibt. Die Beklagte hat den Miet- und Nutzungsvertrag vom [[date|1. März 2024]] mit der Vertragsnummer [[other_identifier|LV-2024-38861]] abgeschlossen. Die Beklagte hat die Schlüssel zum Objekt am [[date|1. Februar 2025]] übernommen. Die Polizze [[other_identifier|73-1705620]] deckt das Mietobjekt gegen Feuer und Wasser.
+1. Der Kläger [[person|Berno Fürst]] ist Eigentümer der Liegenschaft, auf der die Beklagte eine Werkstätte betreibt. Die Beklagte hat den Miet- und Nutzungsvertrag vom [[date|1. März 2024]] mit der Vertragsnummer [[other_identifier|LV-2024-38861]] abgeschlossen. Die Beklagte hat die Schlüssel zum Objekt am [[date|1. Februar 2025]] übernommen. Die Polizze [[other_identifier|73-1705620]] deckt das Mietobjekt gegen Feuer und Wasser.
 
-2. Mit Schreiben vom [[date|12. Juni 2025]] wurde die Beklagte zur Zahlung der rückständigen Mietzinse aufgefordert. Eine Zahlung erfolgte nicht.
+2. Die monatliche Miete beträgt EUR 2.860,00 netto. Mit Schreiben vom [[date|12. Juni 2025]] wurde die Beklagte zur Zahlung der rückständigen Mietzinse aufgefordert. Eine Zahlung erfolgte nicht.
 
-3. Die [[organization|ALEXANDRI KG]] ([[organization|AKG]]) hat den Schaden am Dach mit EUR 4.100,00 bewertet. Die [[organization|AKG]] hat dazu am [[date|3. Dezember 2025]] ein Gutachten erstellt, in dem [[person|MMag. Neisa Horner]] als Sachverständige genannt ist.
+3. Die [[organization|Alexandri KG]] ([[organization|AKG]]) hat den Schaden am Dach mit EUR 4.100,00 bewertet. Die [[organization|AKG]] hat dazu am [[date|3. Dezember 2025]] ein Gutachten erstellt, in dem [[person|MMag. Neisa Horner]] als Sachverständige genannt ist.
 
 4. Die Zeugin [[person|Natalia Terzakis]], GEB: [[date_of_birth|25.08.1967]], hat die Übergabe des Objekts am [[date|1. Februar 2025]] bestätigt.
 
 5. Die Beklagte hat im Vorverfahren vor der Schlichtungsstelle keine Einigung erzielt. Der Vergleichsvorschlag vom [[date|15. April 2026]] wurde von ihr nicht angenommen, obwohl sie die Miete für die Monate Jänner bis Mai 2025 nach eigener Aussage bereits überwiesen habe. Ein Zahlungsnachweis wurde trotz Aufforderung nicht vorgelegt.
 
-6. Die Beweise für diese Behauptungen ergeben sich aus den Urkunden und aus der Einvernahme der Zeugin [[person|Natalia Terzakis]], die bei der Übergabe anwesend war. Die Beklagte selbst kann zu den Übergabemodalitäten vernommen werden.
+6. Die Beweise für diese Behauptungen ergeben sich aus den Urkunden und aus der Einvernahme der Zeugin [[person|Natalia Terzakis]], die bei der Übergabe anwesend war. Die Beklagte selbst kann zu den Übergabemodalitäten vernommen werden. Die Klagsvertretung ersucht um Zustellung sämtlicher Erledigungen über ERV.
 
 II. Rechtliche Beurteilung
 
@@ -70,4 +70,4 @@ Rechtsanwalt
 Für den Kläger, ERV-Code [[other_identifier|P664237]]
 Tel. [[phone_number|0463/4094590-2]]
 
-Die Klagsvertretung übermittelt außerdem eine Abschrift der Polizze an das [[court|BG Mistelbach]], die Kosten sind nach [[legal_norm|TP 3A RATG]] verzeichnet. Die Gesellschaftsdaten der [[organization|ALEXANDRI KG]] lauten [[company_register_number|FN 539949v]], UID [[tax_id|ATU12276455]].
+Die Klagsvertretung übermittelt außerdem eine Abschrift der Polizze an das [[court|BG Mistelbach]], die Kosten sind nach [[legal_norm|TP 3A RATG]] verzeichnet. Die Gesellschaftsdaten der [[organization|Alexandri KG]] lauten [[company_register_number|FN 539949v]], UID [[tax_id|ATU12276455]].

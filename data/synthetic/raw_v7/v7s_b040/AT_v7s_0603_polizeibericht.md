@@ -51,6 +51,8 @@ Bei der Erstbefragung gab die Lenkerin [[person|Tsvetkova]] an, auf der Rückban
 
 Am Unfallort wurden vierzehn Lichtbilder angefertigt. Die Verkehrsfläche wurde vermessen; die Spuren der Fahrzeuge sind auf den Lichtbildern Nr. 3 bis 7 dokumentiert. Die Zeugin [[person|İnci]] wurde gebeten, ihre Angaben schriftlich zu bestätigen. Sie hat dies am Nachmittag in der Dienststelle getan.
 
+Die Lenkerin [[person|Neururer]] übergab den Polizeibeamten eine Kopie des Fahrzeugscheins und Fotos der Schäden, die sie unmittelbar nach dem Unfall aufgenommen hatte. Sie gab an, dass eine Reparatur voraussichtlich bis zum [[date|20.10.2026]] möglich sei. Die Angaben zur Schadenshöhe der [[person|Tsvetkova]] wurden von den Beamten als vorläufig festgehalten.
+
 Der Verkehrsunfall wird als Übertretung nach [[legal_norm|§ 19 Abs 1 StVO]] an die Bezirkshauptmannschaft zur weiteren Veranlassung übermittelt. Eine Strafverfügung ist beabsichtigt.
 
 Aufgenommen durch GrInsp. [[person|Sabine Oberrauner]] und Insp. [[person|Rudolf Haidinger]].

@@ -53,6 +53,10 @@ HINWEISE
 
 Die Honorarnote enthält sämtliche Leistungen bis einschließlich [[date|19.03.2025]]. Die Stundensätze entsprechen der Honorarvereinbarung vom [[date|3. Jänner 2025]], die [[person|Aloys Wenzel]] für die [[organization|Fröhlich GmbH]] unterfertigt hat. Der Stundensatz von EUR 320,00 gilt auch für Telefonate und Korrespondenz, die im Zusammenhang mit dem Verfahren stehen. Auf Wunsch übermitteln wir die Einzelnachweise der Leistungen, insbesondere die Aufzeichnungen zu den Besprechungen mit [[person|Lisanne Fessler]] und die Notizen zum Telefonat mit [[person|Aloys Wenzel]].
 
+Die Leistung vom [[date|10.02.2025]] umfasst die Urgenz an die Gegenseite, die ohne Erfolg blieb, sowie die Vorbereitung eines Schriftsatzes, der im Entwurf beigelegt ist. Der Entwurf wurde nicht eingebracht, weil die Gegenseite die Verträge am [[date|27.02.2025]] doch noch übermittelt hat. Die Aufwendungen für die Prüfung der Verträge sind daher nur teilweise dem Verfahren zuzurechnen; die Kanzlei hat sich bei der Berechnung auf die tatsächlich angefallene Zeit beschränkt.
+
+Die Einsicht in den Grundbuchsauszug vom [[date|24.02.2025]] erfolgte elektronisch. Die Kosten der Abfrage in Höhe von EUR 14,00 sind in den Barauslagen enthalten. Eine Fristverlängerung für die Zahlung kann nur auf schriftliche Anfrage gewährt werden. Wir bitten um Verständnis, dass Zahlungserinnerungen nach Ablauf der Frist kostenpflichtig sind.
+
 Die Umsatzsteuer wurde gesondert ausgewiesen. Die UID-Nummer [[tax_id|ATU77083807]] des Rechnungsempfängers ist in der Anschrift angeführt.
 
 [[location|Nüziders]], am [[date|31. März 2025]]

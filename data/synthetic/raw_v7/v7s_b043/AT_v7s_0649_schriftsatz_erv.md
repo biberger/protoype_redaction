@@ -103,12 +103,12 @@ c) allen Parteien die Kosten des Verfahrens auferlegen.
 
 7. Kosten
 
-Die Klägerin hat die Kosten des Verfahrens nach [[legal_norm|§ 41 ZPO]] zu erwarten, soweit sie obsiegt. Die Kosten der Sachverständigen werden vorläufig von der Klägerin getragen und sind im Streitwert nicht enthalten, weil es sich um Barauslagen handelt, die im Falle des Obsiegens von den beklagten Parteien zu ersetzen sind. Die Klägerin behält sich vor, die Kosten nach Vorlage der Rechnungen zu beziffern.
+Die Klägerin hat die Kosten des Verfahrens nach [[legal_norm|§ 41 ZPO]] zu erwarten, soweit sie obsiegt. Die Kosten der Sachverständigen werden vorläufig von der Klägerin getragen und sind im Streitwert nicht enthalten, weil es sich um Barauslagen handelt, die im Falle des Obsiegens von den beklagten Parteien zu ersetzen sind. Die Klägerin behält sich vor, die Kosten nach Vorlage der Rechnungen zu beziffern und einen entsprechenden Antrag nachzutragen.
 
 Beilagen
 
 ./A Kaufvertrag vom [[date|17.03.2011]]
-./B Gutachten Kulak vom [[date|18. August 2025]]
+./B Gutachten [[person|Kulak]] vom [[date|18. August 2025]]
 ./C Schreiben an die erstbeklagte Partei vom [[date|4. Mai 2025]]
 ./D Mietvertrag der Streitgenossin vom [[date|1. Juni 2017]]
 ./E Fotodokumentation

@@ -22,7 +22,7 @@ Begründung
 
 I. Verfahrensgang
 
-Der Disziplinarrat der [[organization|Rechtsanwaltskammer Steiermark]] ([[organization|RAK]]) hat den Beschuldigten mit Erkenntnis vom [[date|15. Mai 2026]] zu einer Geldbuße von EUR 8.500,00 verurteilt. Gegen dieses Erkenntnis hat der Beschuldigte rechtzeitig Berufung erhoben. Der Kammeranwalt hat die Abweisung der Berufung beantragt. Die [[organization|RAK]] hat die Akten am [[date|2. Juni 2026]] vorgelegt.
+Der Disziplinarrat der [[organization|Rechtsanwaltskammer Steiermark]] ([[organization|RAK]]) hat den Beschuldigten mit Erkenntnis vom [[date|15. Mai 2026]] zu einer Geldbuße von EUR 8.500,00 verurteilt. Gegen dieses Erkenntnis hat der Beschuldigte rechtzeitig Berufung erhoben. Der Kammeranwalt hat die Abweisung der Berufung beantragt. Die [[organization|RAK]] hat die Akten am [[date|2. Juni 2026]] vorgelegt. Die Berichterstattung über die Berufung hat [[person|Mag. Rosana Kirschner]] übernommen. In der Berufungsbegründung rügt der Beschuldigte zudem die Höhe der Geldbuße und verweist auf seine wirtschaftliche Lage; die dazu vorgelegten Unterlagen sind unvollständig. Die mündliche Verhandlung wurde zweimal vertagt, weil der Beschuldigte um Fristerstreckung ersucht hatte. Die Ladungen erfolgten jeweils rechtzeitig. Der Senat hält fest, dass der Beschuldigte die Bücher der Kanzlei seit dem Jahr 2024 nicht durch eine Buchhalterin prüfen ließ, obwohl dies bei einer Einzelkanzlei mit Treuhandkonto naheliegend gewesen wäre. Die Kosten der Zeugin [[person|Ruth Pichler]] für ihre Anreise zur Verhandlung werden dem Beschuldigten auferlegt.
 
 II. Sachverhalt
 

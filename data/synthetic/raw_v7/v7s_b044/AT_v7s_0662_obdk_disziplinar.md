@@ -70,6 +70,18 @@ Die [[organization|RBP]] hat dem Disziplinarrat mitgeteilt, dass sie bei der Ver
 
 Eine weitere Verfahrensaufnahme zu Treuhandnummer [[other_identifier|2023/758]] war nicht erforderlich, weil Herr [[person|Hribernig]] die Auszahlung bestätigt hat. Der Vorwurf einer Verletzung von Verschwiegenheitspflichten, den die Anzeige ebenfalls enthält, wurde nicht ausreichend belegt und ist daher nicht Gegenstand des Spruchs.
 
+V. Ergänzende Erwägungen
+
+Die Beschuldigte hat in der Verhandlung ausgeführt, sie habe die Honorarentnahme für eine Zwischenabrechnung gehalten, die später ohnehin zu erfolgen gehabt hätte. Der Disziplinarrat folgt dieser Argumentation nicht. Eine Zwischenabrechnung setzt voraus, dass die Forderung bereits feststeht und dem Mandanten mitgeteilt wurde. Beides ist im vorliegenden Fall nicht geschehen. Die Abrechnung vom [[date|5. Juli 2022]] trägt weder die Unterschrift der Mandantin noch einen Hinweis auf eine Teilzahlung der Gegenseite.
+
+Die Beschuldigte hat weiters vorgebracht, die Kammeranwältin habe die Anzeige verspätet erstattet. Auch dieses Vorbringen geht ins Leere. Die Anzeige ist innerhalb der gesetzlichen Frist eingebracht worden, und die Verjährung des Vorwurfs ist nicht eingetreten. Der Zeitraum zwischen der Entnahme und der Anzeige ist der Umstand, der den Verstoß erst bekannt gemacht hat.
+
+Der Disziplinarrat hat ferner erwogen, ob der Vorwurf der Verschwiegenheitspflicht im Zusammenhang mit der Zeugin [[person|Fleck]] zu einer höheren Strafe führen müsste. Die Anzeige stützt sich dafür auf ein Gespräch der Beschuldigten mit einer Bekannten der Mandantin. Der Inhalt dieses Gesprächs ist nicht festgestellt. Ein Verstoß gegen die Verschwiegenheit ist daher nicht erwiesen.
+
+Die Verwahrung von Fremdgeld dient nicht nur dem Schutz des einzelnen Mandanten, sondern auch dem Vertrauen in den Stand der Rechtsanwälte insgesamt. Die Kammeranwältin hat dies in ihrem Antrag zutreffend hervorgehoben. Bei einer Geldbuße, die sich am unteren Rand des Strafrahmens bewegt, würde dieses Vertrauen nicht ausreichend geschützt.
+
+Der Disziplinarrat hat zur Kenntnis genommen, dass die Beschuldigte die Honorarentnahme selbst und ohne Aufforderung in das Verfahren eingebracht hätte, wenn sie den Vorgang richtig dokumentiert hätte. Dieser Umstand wurde zugunsten der Beschuldigten gewertet, weil sie die Anzeige nicht bestritten hat und die Zahlungsbewegungen im Wesentlichen eingeräumt hat.
+
 Der Disziplinarrat weist darauf hin, dass die Beschuldigte bei künftigen Anderkonten die Aufzeichnungen nach [[legal_norm|§ 11 Abs 3 RAO]] zu führen hat. Die Kosten des Verfahrens setzen sich aus der Gebühr des Disziplinarrates und den Barauslagen für die Zeugenladung zusammen und sind der Beschuldigten aufzuerlegen.
 
 Die Vorsitzende

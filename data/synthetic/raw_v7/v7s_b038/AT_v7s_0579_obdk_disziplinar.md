@@ -29,7 +29,7 @@ Die Beschuldigte [[person|Mag. Alison Windbrechtinger]] ist schuldig, im Zeitrau
 
 Begründung
 
-Die [[organization|Rechtsanwaltskammer Kärnten]] ([[organization|RAK]]) hat die Anzeige der Klientin [[person|Zara Mateschitz]], geb [[date_of_birth|18. Oktober 1971]], am [[date|6. Oktober 2025]] erstattet. Die Klientin hatte der Beschuldigten einen Betrag von EUR 6.300,00 zur Verwahrung für die Abwicklung einer Erbschaft übergeben. Eine Abrechnung erhielt sie bis zur Anzeige nicht.
+Die [[organization|Rechtsanwaltskammer Kärnten]] ([[organization|RAK]]) hat die Anzeige der Klientin [[person|Zara Mateschitz]], geb [[date_of_birth|18. Oktober 1971]], am [[date|6. Oktober 2025]] erstattet. Die Klientin hatte der Beschuldigten einen Betrag von EUR 6.300,00 zur Verwahrung für die Abwicklung einer Erbschaft übergeben. Eine Abrechnung erhielt sie bis zur Anzeige nicht. Die Klientin wurde zur Verhandlung geladen und hat diese in Begleitung ihrer Tochter besucht. Sie hat dem Senat geschildert, dass sie die Beschuldigte im Frühjahr 2025 mehrfach telefonisch um Auskunft über den Stand des Kontos gebeten habe, ohne eine Antwort zu erhalten.
 
 Aus dem Treuhandbuch ergibt sich unter der Treuhandbuch-Nr. [[other_identifier|2021/962]] folgende Entwicklung: Am [[date|14. März 2025]] wurde der Betrag auf ein Konto der Kanzlei mit der IBAN [[bank_account|AT05 4653 6292 9732 9297]] eingezahlt. Am [[date|2. Mai 2025]] wurden EUR 1.800,00 für eine Kanzleirechnung ausbezahlt, die nicht die Klientin betraf. Am [[date|29. August 2025]] verblieben nur noch EUR 2.100,00 auf dem Konto der Klientin.
 

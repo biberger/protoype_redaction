@@ -14,7 +14,7 @@ Der [[court|Disziplinarrat der Rechtsanwaltskammer Wien]] hat durch seinen Vorsi
 
 Spruch
 
-Die Rechtsanwältin [[person|Neeske Pembaur]] hat dadurch, dass sie im Zeitraum vom [[date|12. Februar 2025]] bis zum [[date|30. Juni 2025]] Klientengelder aus der Abwicklung von drei Mandaten nicht unverzüglich abgeliefert und auf dem Treuhandkonto Auszahlungen ohne ausreichende Deckung veranlasst hat, gegen [[legal_norm|§ 43 Abs 1 RAO]] iVm [[legal_norm|§ 1 Abs 1 Z 4 RL-BA]] verstoßen.
+Die Rechtsanwältin [[person|Neeske Pembaur]] hat dadurch, dass sie im Zeitraum vom [[date|12. Februar 2025]] bis zum [[date|30. Juni 2025]] Klientengelder aus der Abwicklung von zwei Mandaten nicht unverzüglich abgeliefert und auf dem Treuhandkonto Auszahlungen ohne ausreichende Deckung veranlasst hat, gegen [[legal_norm|§ 43 Abs 1 RAO]] iVm [[legal_norm|§ 1 Abs 1 Z 4 RL-BA]] verstoßen.
 
 Über sie wird gemäß [[legal_norm|§ 34 Abs 1 Z 2 RAO]] eine Geldbuße von EUR 3.000,00 verhängt. Ferner hat sie die Kosten des Verfahrens zu tragen.
 
@@ -26,7 +26,7 @@ Die Anzeige ging am [[date|14. Juli 2025]] bei der [[organization|Rechtsanwaltsk
 
 II. Sachverhalt
 
-Die Beschuldigte vertrat Frau [[person|Schörghofer]] in einem Verfahren wegen eines Verkehrsunfalls. Der Schadenersatz der Versicherung in Höhe von EUR 9.850,00 wurde am [[date|12. Februar 2025]] auf das Treuhandkonto überwiesen. Nach Abzug des Honorars hätte der Betrag am [[date|20. Februar 2025]] an die Klientin ausbezahlt werden müssen. Tatsächlich erfolgte die Auszahlung erst am [[date|11. April 2025]], und zwar in Höhe von EUR 7.200,00.
+Die Beschuldigte vertrat Frau [[person|Schörghofer]] in einem Verfahren wegen eines Verkehrsunfalls. Der Schadenersatz der Versicherung in Höhe von EUR 9.850,00 wurde am [[date|12. Februar 2025]] auf das Treuhandkonto überwiesen. Nach Abzug des Honorars hätte der Betrag am [[date|20. Februar 2025]] an die Klientin ausbezahlt werden müssen. Ein schriftlicher Honorarvertrag bestand nur für das Mandat [[person|Schörghofer]], für das Mandat [[person|Tomić]] existiert lediglich eine mündliche Abrede, die die Klienten bestreiten. Der Kammeranwalt hat die Kontoauszüge für den Zeitraum Jänner bis Juli 2025 angefordert und vollständig erhalten. Tatsächlich erfolgte die Auszahlung erst am [[date|11. April 2025]], und zwar in Höhe von EUR 7.200,00.
 
 Im Treuhandbuch der Beschuldigten finden sich weitere Bewegungen, die den Senat beschäftigt haben. Am [[date|3. März 2025]] wurden EUR 2.300,00 für den Klienten [[person|Radoslav Tomić]] an eine Gutachterin überwiesen, obwohl für diesen Klienten zu diesem Zeitpunkt kein Guthaben ausgewiesen war. Die Ausgabe ist im Treuhandbuch unter der Nummer [[other_identifier|2024/318]] verzeichnet, jedoch ohne Nennung des Verwendungszwecks.
 
@@ -34,7 +34,7 @@ Am [[date|30. Juni 2025]] schließlich buchte die Beschuldigte einen Restbetrag 
 
 Die [[organization|Rechtsanwaltskammer Wien]] hat die Vorerhebungen auch auf die Mandatsakten von [[person|Tomić]] erstreckt. Dort fehlen die Honorarvereinbarungen. Der Klient [[person|Tomić]] hat auf schriftliche Anfrage des Senats mitgeteilt, dass er die Überweisung an die Gutachterin nicht veranlasst habe und die Beschuldigte um eine Zwischenabrechnung gebeten habe, die jedoch nie übermittelt wurde.
 
-Die Auswertung des Treuhandbuchs für die drei Mandate ergibt folgende Bewegungen (Beträge in EUR):
+Die Auswertung des Treuhandbuchs für die beiden Mandate ergibt folgende Bewegungen (Beträge in EUR):
 
 Datum | Klient | Vorgang | Betrag | Saldo
 [[date|12.02.2025]] | [[person|Schörghofer]] | Einzahlung Schadenersatz | 9.850,00 | 9.850,00
@@ -53,13 +53,13 @@ Die Klientin [[person|Schörghofer]] hat in der Verhandlung glaubwürdig dargele
 
 IV. Rechtliche Beurteilung
 
-Nach [[legal_norm|§ 43 Abs 1 RAO]] hat der Rechtsanwalt bei der Ausübung seines Berufs die Interessen seiner Mandanten gewissenhaft zu vertreten. Die Pflicht zur getrennten Verwahrung und unverzüglichen Ablieferung von Fremdgeldern ergibt sich aus [[legal_norm|§ 1 Abs 1 Z 4 RL-BA]]. Die Beschuldigte hat diese Pflichten bei drei Mandaten verletzt.
+Nach [[legal_norm|§ 43 Abs 1 RAO]] hat der Rechtsanwalt bei der Ausübung seines Berufs die Interessen seiner Mandanten gewissenhaft zu vertreten. Die Pflicht zur getrennten Verwahrung und unverzüglichen Ablieferung von Fremdgeldern ergibt sich aus [[legal_norm|§ 1 Abs 1 Z 4 RL-BA]]. Die Beschuldigte hat diese Pflichten bei zwei Mandaten verletzt.
 
 Der Umstand, dass die Beschuldigte zur Zeit der Tat Mutter eines Kleinkindes war und einen Umzug zu bewältigen hatte, ist nicht als Entschuldigung anzusehen. Die Pflicht zur ordnungsgemäßen Fremdgeldverwaltung trifft jeden Rechtsanwalt unabhängig von seinen persönlichen Verhältnissen.
 
 Als mildernd berücksichtigt der Senat das Geständnis hinsichtlich der verspäteten Auszahlung und die Schadensgutmachung vor der Verhandlung. Ein Teil der Schadensgutmachung erfolgte erst nach der Anzeige, weshalb der Senat diesem Umstand nur eingeschränkt Gewicht beimisst. Die Beschuldigte hat die Beträge aus eigenen Mitteln ausgeglichen, was der Senat anerkennend berücksichtigt. Erschwerend ist die Mehrzahl der betroffenen Mandate. Die Geldbuße wurde unter Berücksichtigung der Einkommensverhältnisse festgesetzt.
 
-Die Abrechnungspflicht gegenüber dem Klienten ergibt sich aus dem Auftragsverhältnis. Eine verspätete Abrechnung verletzt die Pflicht zur gewissenhaften Vertretung nach [[legal_norm|§ 43 Abs 1 RAO]] auch dann, wenn kein Geld verloren geht. Im vorliegenden Fall hat die Beschuldigte die Abrechnung bei der Klientin erst nach zwei Aufforderungen eingereicht, was den Vorwurf des Senats verstärkt.
+Die Abrechnungspflicht gegenüber dem Klienten ergibt sich aus dem Auftragsverhältnis und gilt auch für Teilabrechnungen. Eine verspätete Abrechnung verletzt die Pflicht zur gewissenhaften Vertretung nach [[legal_norm|§ 43 Abs 1 RAO]] auch dann, wenn kein Geld verloren geht. Im vorliegenden Fall hat die Beschuldigte die Abrechnung bei der Klientin erst nach zwei Aufforderungen eingereicht, was den Vorwurf des Senats verstärkt.
 
 Die Beschuldigte kann gegen dieses Erkenntnis binnen vier Wochen Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] erheben. Die [[court|OBDK]] entscheidet über die Berufung.
 

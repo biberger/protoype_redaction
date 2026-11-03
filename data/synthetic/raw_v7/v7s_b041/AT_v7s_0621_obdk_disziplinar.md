@@ -21,7 +21,7 @@ Verhandlung am [[date|27. Jänner 2026]] zu Recht erkannt:
 **Spruch**
 
 1. Der Beschuldigte ist schuldig, in der Zeit von März 2024 bis Oktober 2025 die ihm
-   anvertrauten Gelder der Klienten nicht getrennt von seinem Vermögen verwahrt zu haben (§ 1 Abs 1 Z 1 RAO).
+   anvertrauten Gelder der Klienten nicht getrennt von seinem Vermögen verwahrt zu haben ([[legal_norm|§ 1 Abs 1 Z 1 RAO]]).
 2. Über ihn wird eine Geldbuße von EUR 2.500,00 verhängt.
 3. Die Kosten des Verfahrens trägt der Beschuldigte.
 

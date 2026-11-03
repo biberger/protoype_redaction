@@ -36,20 +36,26 @@ Liegenschaft: Liegenschaftsanteil an der Liegenschaft, eingetragen im Grundbuch:
 
 Einlagezahl [[land_register_id|1790]] [[land_register_id|KG 53565 Rossatz-Arnsdorf]] ([[court|BG St. Pölten]]); [[land_register_id|Gst-Nr. 1016]]
 
-Bankguthaben: Konto bei der Hypo Tirol Bank AG, IBAN [[bank_account|AT08 7782 3914 4900 0241]], Guthaben EUR 12.430,18.
+Bankguthaben: Konto bei der [[organization|Hypo Tirol Bank AG]], IBAN [[bank_account|AT08 7782 3914 4900 0241]], Guthaben EUR 12.430,18.
 
 Versicherungen: Lebensversicherung, Polizzen-Nr. [[other_identifier|73-5968152]], Rückkaufswert EUR 6.900,00.
 
 Verträge: Mietvertrag, Vertragsnummer [[other_identifier|KV-2015-55342]], und Telekommunikationsvertrag, Vertragsnummer [[other_identifier|V-2025-80975]].
 
-Wohnsitz des Erben Gradwohl: [[address|3654 Raxendorf]]
+Wohnsitz des Erben [[person|Gradwohl]]: [[address|3654 Raxendorf]]
 
 Ausgleichung und Nachlassreinerlös: Die Liegenschaft ist mit einem Verkehrswert von EUR 185.000,00 bewertet. Nach Abzug der Passiva von EUR 8.270,00 und der Bestattungskosten verbleibt ein Reinerlös, der den Erben im Verhältnis ihrer Quoten zukommt.
 
-Die Erbquote des Erben Gradwohl ist durch die Erbserklärung nicht eindeutig festgelegt. Der Notar hat daher das Verhältnis nach dem Testament ermittelt, das [[person|Held]] am [[date|3. März 2019]] errichtet hatte.
+Die Erbquote des Erben [[person|Gradwohl]] ist durch die Erbserklärung nicht eindeutig festgelegt. Der Notar hat daher das Verhältnis nach dem Testament ermittelt, das [[person|Held]] am [[date|3. März 2019]] errichtet hatte.
 
 Der Gläubiger [[person|Agnello
 Garibaldi]] hat die Forderung schriftlich angemeldet. Ein Verzeichnis der Beteiligten führt die Namen wie folgt: [[person|Kaltenböck Walfrieda]], [[person|Gradwohl Joris]], [[person|Held Reinmar]].
+
+Die Liegenschaft wurde durch den gerichtlich beeideten Sachverständigen [[person|Dipl.-Ing. Hansjörg Pölzl]] am [[date|14. Mai 2026]] besichtigt. Der Sachverständige bewertete das Wohnhaus mit Nebengebäude mit EUR 185.000,00 und veranschlagte den Sanierungsbedarf im Dachgeschoss mit rund EUR 19.000,00. Der Erblasser hatte die Liegenschaft zuletzt nicht mehr bewohnt; sie war seit dem Jahr 2023 vermietet, der Mietzins wurde bis zum Todestag am [[date|21.08.2026]] an die Verlassenschaft abgeführt.
+
+Der Gläubiger [[person|Garibaldi]] hat die Forderung bestritten, soweit sie Zinsen für die Zeit nach dem Tod des Erblassers umfasst. Der Notar hat die Parteien darauf hingewiesen, dass Zinsen nur bis zum Todestag in die Passiva aufzunehmen sind, sofern nicht vertraglich etwas anderes bestimmt ist. Die Gläubigerin [[person|Dugandzic]] hat ihre Forderung durch eine Rechnung vom [[date|30. April 2026]] belegt, die Forderung des Gläubigers [[person|Sternberg]] ist durch einen Mietrückstand dokumentiert.
+
+Die Kosten der Verlassenschaft (Gerichtsgebühren, Notariatskosten und Sachverständigenhonorar) belaufen sich auf EUR 2.960,00 und sind aus dem Nachlass zu berichtigen. Eine Abschrift des Sachverständigengutachtens wurde den Erben übermittelt.
 
 Die Einantwortung erfolgt nach Ablauf der Frist zur Anmeldung der Forderungen. Die Gläubiger sind mit der Abhandlung einverstanden, soweit ihre Forderungen gedeckt sind.
 

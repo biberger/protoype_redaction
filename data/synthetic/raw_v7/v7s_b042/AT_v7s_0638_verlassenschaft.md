@@ -44,7 +44,15 @@ Versicherungen: Vertragsnummer [[other_identifier|LV-2017-15904]] (Lebensversich
 
 Die Verlassenschaft wurde mit einem Reinnachlass von EUR 41.200,00 bewertet. Der Notar hat den Erben die Verlassenschaftsaufstellung übermittelt; eine Rückfrage kann unter Tel. [[phone_number|0316 209657-83]] gestellt werden.
 
-Die Einantwortung erfolgt zu gleichen Teilen nach Bezahlung der Verbindlichkeiten. Der Erblasser hatte kein Testament hinterlassen, die gesetzliche Erbfolge ist daher anzuwenden.
+Die Einantwortung erfolgt zu gleichen Teilen nach Bezahlung der Verbindlichkeiten. Die Gläubigerin [[person|Ratković]] hat ihre Forderung teilweise zurückgenommen, nachdem der Erbe [[person|Defant]] ihr einen Teilbetrag von EUR 1.200,00 aus eigenen Mitteln überwiesen hatte. Die verbleibende Forderung von EUR 2.000,00 wird im Verzeichnis der Passiva geführt. Der Erbe [[person|Defant]] hat die Zahlung unter Vorbehalt geleistet und die Erbschaft nicht ausgeschlagen.
+
+Der Erblasser hatte kein Testament hinterlassen, die gesetzliche Erbfolge ist daher anzuwenden.
+
+Die Erbin [[person|Uberti]] lebt in [[location|Innsbruck]] und hat um die Übersendung der Urkunde per Post ersucht. Der Erbe [[person|Defant]] hat die Anerkennung der Forderung des Gläubigers [[person|Kickinger]] abgelehnt, weil die Arbeiten nach seinem Vorbringen im Herbst 2025 ohne Abnahme ausgeführt worden seien. Der Gläubiger [[person|Kickinger]] legte dagegen eine Abnahmebestätigung vor, die mit dem Datum des [[date|12. November 2025]] versehen ist.
+
+Die Verlassenschaft übernimmt die Forderungen der Gläubiger nur im Rahmen des Nachlasses. Die Erben haften nach der Einantwortung nicht über den Wert des übernommenen Vermögens hinaus. Die Erbin [[person|Uberti]] hat dies ausdrücklich zur Kenntnis genommen.
+
+Der Notar hat die Erben darauf aufmerksam gemacht, dass die Bankverbindung des Erblassers vor der Einantwortung aufzulösen ist und der Restbetrag über das Verlassenschaftskonto an die Berechtigten auszuzahlen ist.
 
 Ausgefertigt am [[date|2. Juli 2026]] in [[location|Ober-Grafendorf]].
 

@@ -56,7 +56,7 @@ LFD. NR. | PARTEI | ANTEIL | STATUS
 
 I. Vorbemerkungen
 
-Die Verkäuferinnen sind je zur Hälfte Miteigentümerinnen der Liegenschaft [[land_register_id|EZ 679]] [[land_register_id|GB 98098]]; Grundstück [[land_register_id|907/27]], sowie der Liegenschaft [[land_register_id|GB 40570 Hackerberg]]/[[land_register_id|EZ. 1405]]; Grundstück Nr. [[land_register_id|1169/30]], beide in der Gemeinde Kaumberg. Die Liegenschaften werden im Folgenden gemeinsam als Vertragsgegenstand bezeichnet. Die Verkäuferinnen erklären, dass sie allein über den Vertragsgegenstand verfügungsberechtigt sind und dass keine weiteren Eigentümer existieren.
+Die Verkäuferinnen sind je zur Hälfte Miteigentümerinnen der Liegenschaft [[land_register_id|EZ 679]] [[land_register_id|GB 98098]]; Grundstück [[land_register_id|907/27]], sowie der Liegenschaft [[land_register_id|GB 40570 Hackerberg]]/[[land_register_id|EZ. 1405]]; Grundstück Nr. [[land_register_id|1169/30]], beide in der Gemeinde [[location|Kaumberg]]. Die Liegenschaften werden im Folgenden gemeinsam als Vertragsgegenstand bezeichnet. Die Verkäuferinnen erklären, dass sie allein über den Vertragsgegenstand verfügungsberechtigt sind und dass keine weiteren Eigentümer existieren.
 
 Die Käuferin hat den Vertragsgegenstand besichtigt und ist mit dessen Beschaffenheit vertraut. Der Vertragsgegenstand umfasst ein landwirtschaftlich genutztes Wiesengrundstück, einen Waldstreifen und einen Stadel aus dem Jahr 1961, der im Bestand vorhanden ist.
 
@@ -139,4 +139,4 @@ Errichtet von:
 [[person|Wünsch]], Rechtsanwalt
 [[organization|W Ü N S C H ,   R E X]]
 
-Abschrift an: [[organization|Müllner]] und die Verkäuferinnen
+Abschrift an: [[organization|Müllner]] und die Verkäuferinnen, jeweils mit den Anlagen

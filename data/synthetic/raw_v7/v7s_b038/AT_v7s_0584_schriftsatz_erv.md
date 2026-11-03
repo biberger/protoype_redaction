@@ -41,13 +41,15 @@ I. Sachverhalt
 
 3. Die [[organization|Basch Handels GmbH]] betreibt auf dem Grundstück einen Lagerbetrieb, dessen Abwasser in die Entwässerung eingeleitet wird. Die Gesellschaft hat die Einleitung nicht angezeigt.
 
-4. Der Gutachter [[person|Mag. Dr. Burgfried Brückler]], GEB: [[date_of_birth|26. Mai 1935]], hat den Schaden am [[date|17. April 2025]] besichtigt und mit EUR 27.400,00 bewertet.
+4. Der Gutachter [[person|Mag. Dr. Burgfried Brückler]], GEB: [[date_of_birth|26. Mai 1935]], hat den Schaden am [[date|17. April 2025]] besichtigt und mit EUR 27.400,00 bewertet. Bei der Begehung waren die Mitbesitzerin [[person|Nabihah Elias]], GEB: [[date_of_birth|02.09.1984]], und der Mitgesellschafter [[person|Aron Kandl]], geb. [[date_of_birth|1976-12-08]], anwesend.
 
 5. Der Kläger hat die Schadenersatzansprüche mit Schreiben vom [[date|2. Juni 2025]] angemeldet. Eine Zahlung ist bis heute nicht erfolgt.
 
 6. Die Überflutung hat auch das Nachbargrundstück erfasst, dessen Eigentümerin die Schadenersatzansprüche vor dem [[court|Landesgericht Innsbruck]] zu einem späteren Zeitpunkt geltend machen möchte. Der Kläger hat von dieser Absicht durch Mitteilung des Gemeindeamts erfahren, die Mitteilung liegt als Beilage bei.
 
 7. Die Versicherung des Klägers hat die Zahlung von EUR 9.100,00 zugesagt. Der Restschaden von EUR 18.300,00 ist daher Gegenstand dieses Verfahrens.
+
+8. Die Kosten der Besichtigung durch den Sachverständigen in Höhe von EUR 640,00 hat der Kläger vorgestreckt. Sie sind im Klagsbetrag nicht enthalten und werden gesondert geltend gemacht.
 
 II. Rechtliche Beurteilung
 

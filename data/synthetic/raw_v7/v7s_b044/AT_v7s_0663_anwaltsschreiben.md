@@ -39,6 +39,8 @@ Die TI hat den Vorfall gegenüber ihrer Haftpflichtversicherung unter der Schade
 
 Unser Mandant fordert die TI auf, bis [[date|15. Februar 2025]] die Mängel fachgerecht beseitigen zu lassen oder einen Preisnachlass von 6.800 Euro zu bezahlen. Sollte die TI bis zu diesem Datum keine Stellungnahme abgeben, werden wir die Klage vor dem zuständigen Gericht einbringen. Die Kosten des Verfahrens und unsere Honorarnote werden wir in diesem Fall der TI als Schaden geltend machen.
 
+Die bisherige Korrespondenz mit der TI ist dürftig. Die Schreiben vom [[date|9. Oktober 2024]] und vom [[date|14. November 2024]] blieben unbeantwortet, und die Verkäuferin hat die Beseitigung der Mängel auch nach dem Hinweis auf die Gewährleistungsfrist nicht eingeleitet. Nach [[legal_norm|§ 932 ABGB]] hat unser Mandant die Wahl zwischen Verbesserung, Preisminderung und Wandlung. Er hat sich für die Preisminderung entschieden, weil er die Wohnung nicht mehr zurückgeben möchte.
+
 Vertragsparteien laut Kaufvertrag:
 Verkäuferin: [[organization|Türk Immobilien GmbH]]
 Käufer: [[person|Marović Dragutin]]

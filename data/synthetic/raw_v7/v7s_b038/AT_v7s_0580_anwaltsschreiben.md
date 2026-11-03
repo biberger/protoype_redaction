@@ -31,11 +31,13 @@ Der Bauleiter der [[organization|Smekal Bau]], Herr [[person|Thaddäus Kern]], h
 
 Unsere Mandantin hat den Schadensbericht am [[date|20. August 2026]] an Ihre Abteilung übermittelt. Eine Bestätigung über den Eingang liegt uns nicht vor. Frau [[person|Renner]] hat daher telefonisch nachgefragt, ohne eine Auskunft zu erhalten. Wir ersuchen Sie, den Schaden binnen zwei Wochen zu prüfen und einen Sachverständigen zu beauftragen.
 
-Das Schadensgutachten des Sachverständigen [[person|Schlegel, Folker]], geboren am [[date_of_birth|04.01.1969]], wurde am [[date|1. Oktober 2026]] erstellt. Der Sachverständige schätzt den Schaden auf EUR 48.300,00 netto. Die Reparaturkosten sind durch die Rechnungen des Handwerkers belegt.
+Das Schadensgutachten des Sachverständigen [[person|Schlegel, Folker]], geboren am [[date_of_birth|04.01.1969]], wurde am [[date|1. Oktober 2026]] erstellt. Die Begehung hatte [[person|Folker Schlegel]] bereits am [[date|20. September 2026]] durchgeführt. Der Sachverständige schätzt den Schaden auf EUR 48.300,00 netto. Die Reparaturkosten sind durch die Rechnungen des Handwerkers belegt.
 
 Wir weisen darauf hin, dass die [[organization|Smekal Bau]] ([[organization|SB]]) die Vorgaben der Polizze eingehalten hat, insbesondere die Meldefrist. Die [[organization|SB]] behält sich vor, Verzugszinsen geltend zu machen, falls die Zahlung nicht bis zum [[date|30. Oktober 2026]] erfolgt.
 
 Der Versicherungsfall ist durch das Sturmereignis vom [[date|14. August 2026]] eingetreten, das durch die Messdaten der [[organization|Zentralanstalt für Meteorologie und Geodynamik]] belegt ist. Die Windgeschwindigkeit im betroffenen Gebiet lag an diesem Tag deutlich über dem Schwellenwert, den Ihre Bedingungen für Sturmschäden vorsehen.
+
+Zur Klarstellung weisen wir darauf hin, dass die Gesellschaft die Obliegenheiten aus den Bedingungen für die Sachversicherung eingehalten hat, insbesondere die Schadenminderungspflicht durch die Abdeckung des Daches am Tag nach dem Sturm. Die Kosten dieser Notmaßnahme sind in der Rechnung des Handwerkers enthalten. Wir ersuchen um Zahlung auf das Konto der Gesellschaft. Bitte bestätigen Sie den Eingang dieses Schreibens.
 
 Nach [[legal_norm|§ 11 VersVG]] hat der Versicherer die Leistung innerhalb angemessener Frist nach Anzeige des Versicherungsfalls zu erbringen. Die Frist von zwei Wochen, die wir setzen, ist angemessen, weil die Schadenhöhe durch das Gutachten vollständig festgestellt ist und keine weiteren Erhebungen erforderlich sind.
 

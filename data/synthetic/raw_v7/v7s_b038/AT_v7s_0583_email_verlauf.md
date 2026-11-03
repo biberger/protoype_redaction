@@ -10,7 +10,7 @@ Betreff: Schaden Wasserrohrbruch, Objekt [[location|Melk]]
 
 Sehr geehrte Frau [[person|Zichy]],
 
-ich bestätige den Erhalt Ihres Schreibens vom [[date|5. Oktober 2026]] und werde die Unterlagen an die [[organization|Prinz Bau GmbH]] ([[organization|PB]]) weiterleiten. Die Versicherung hat den Schaden unter der Schaden-Nr. [[other_identifier|64/986051/22]] registriert, die Abwicklung erfolgt über das Büro in [[location|Melk]]. Die Akte liegt derzeit beim [[court|Bezirksgericht Melk]], weil eine Klage vorbereitet wird. Die Wasserschäden im Keller betreffen insgesamt sechs Räume, die Trocknung dauerte bis Ende September 2026 an. Die Kosten für die Trocknungsgeräte betragen EUR 780,00 und sind in der Rechnung enthalten. Die Versicherungssumme beträgt laut Polizze EUR 25.000,00, der Selbstbehalt EUR 300,00.
+ich bestätige den Erhalt Ihres Schreibens vom [[date|5. Oktober 2026]] und werde die Unterlagen an die [[organization|Prinz Bau GmbH]] ([[organization|PB]]) weiterleiten. Die Versicherung hat den Schaden unter der Schaden-Nr. [[other_identifier|64/986051/22]] registriert, die Abwicklung erfolgt über das Büro in [[location|Melk]]. Die Akte liegt derzeit beim [[court|Bezirksgericht Melk]], weil eine Klage vorbereitet wird. Die Wasserschäden im Keller betreffen insgesamt sechs Räume, die Trocknung dauerte bis Anfang Oktober 2026 an. Die Kosten für die Trocknungsgeräte betragen EUR 780,00 und sind in der Rechnung enthalten. Die Trocknung wurde von der Firma am [[date|4. Oktober 2026]] abgeschlossen, das Protokoll liegt bei. Die Versicherungssumme beträgt laut Polizze EUR 25.000,00, der Selbstbehalt EUR 300,00.
 
 Zeichen [[other_identifier|AHC-AHCKitt/Kinzl]]
 
@@ -57,7 +57,7 @@ Sehr geehrte Frau [[person|Zichy]],
 
 ich bin der Eigentümer der Liegenschaft im Grundbuch unter [[land_register_id|KG Pollham]] / [[land_register_id|EZ 269]] ([[court|BG Bruck an der Leitha]]) [[land_register_id|Gst.Nr. 747]]. Die Fotos des Kellers habe ich bereits hochgeladen. Ich habe außerdem die Feuchtigkeitsmessungen vom [[date|2. Oktober 2026]] beigelegt, die die Trocknung belegen. Die Schadensnummer [[other_identifier|64/986051/22]] ist aus dem Jahr 2022 und betrifft einen anderen Vorfall.
 
-Ich habe außerdem den Hausmeister [[person|Gerhard Lukesch]] als Zeugen benannt, der den Rohrbruch am [[date|28. September 2026]] gemeldet hat. Sie erwähnen die Versicherung, die die [[organization|Prinz Bau]] beauftragt hat. Die [[organization|PB]] hat die Arbeiten am Rohrsystem nach meinen Unterlagen am [[date|8. Oktober 2026]] abgenommen. Ich bitte Sie, mir mitzuteilen, wer die Rechnung übernimmt.
+Ich habe außerdem den Hausmeister [[person|Gerhard Lukesch]] als Zeugen benannt, der den Rohrbruch am [[date|28. September 2026]] gemeldet hat. Ich bin außerdem mit einer Teilzahlung einverstanden, sofern die Rechnung in Raten beglichen werden kann. Sie erwähnen die Versicherung, die die [[organization|Prinz Bau]] beauftragt hat. Die [[organization|PB]] hat die Arbeiten am Rohrsystem nach meinen Unterlagen am [[date|8. Oktober 2026]] abgenommen. Ich bitte Sie, mir mitzuteilen, wer die Rechnung übernimmt.
 
 Mit freundlichen Grüßen
 
@@ -72,7 +72,7 @@ Betreff: AW: AW: AW: Schaden Wasserrohrbruch, Objekt [[location|Melk]]
 
 Sehr geehrter Herr [[person|Erlacher]],
 
-vielen Dank für den Hinweis. Die Rechnung ist durch die Versicherung gedeckt, sofern die Schadensnummer korrekt zugeordnet ist. Ich habe die Zuordnung mit meiner Kanzlei abgestimmt und vertrete Sie in der Angelegenheit weiter. Ich werde die Stellungnahme bis zum [[date|23. Oktober 2026]] an Sie übermitteln.
+vielen Dank für den Hinweis. Die Rechnung ist durch die Versicherung gedeckt, sofern die Schadensnummer korrekt zugeordnet ist. Ich habe die Zuordnung mit meiner Kanzlei abgestimmt und vertrete Sie in der Angelegenheit weiter. Die Versicherung hat bereits einen Vorschuss von EUR 2.000,00 angewiesen, der für die Trocknung und die Vorarbeiten verwendet werden darf. Ich werde die Stellungnahme bis zum [[date|23. Oktober 2026]] an Sie übermitteln. Bitte bestätigen Sie den Eingang.
 
 Bei Rückfragen erreichen Sie mich unter folgender Nummer:
 

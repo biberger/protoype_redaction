@@ -59,7 +59,7 @@ III. KAUFGEGENSTAND UND KAUFPREIS
 
 3. Die Käuferin ist verpflichtet, den Kaufpreis auf das Treuhandkonto der Kanzlei, IBAN [[bank_account|AT54 7530 2464 9203 3339]], zu überweisen. Ein Zahlungsverzug von mehr als vier Wochen berechtigt die Verkäufer zum Rücktritt.
 
-4. Die Verkäufer teilen den Kaufpreis im Verhältnis 1/2 zu 1/2 untereinander auf. Die [[organization|Elbogen Immobilien]] erhält ihren Anteil auf das Konto der Gesellschaft, Frau [[person|Schneeberger]] auf ein eigenes Konto nach Weisung.
+4. Der Kaufpreis wird an die Verkäufer im Verhältnis 1/2 zu 1/2 ausgezahlt. Die Verkäufer teilen den Kaufpreis im Verhältnis 1/2 zu 1/2 untereinander auf. Die [[organization|Elbogen Immobilien]] erhält ihren Anteil auf das Konto der Gesellschaft, Frau [[person|Schneeberger]] auf ein eigenes Konto nach Weisung.
 
 IV. TREUHANDSCHAFT
 
@@ -84,6 +84,12 @@ VI. ÜBERGABE UND GEWÄHRLEISTUNG
 2. Die Gewährleistung wird ausgeschlossen. Die Verkäufer erklären jedoch, dass ihnen keine verborgenen Mängel bekannt sind, die den Gebrauch des Objektes wesentlich beeinträchtigen.
 
 3. Die Kosten der Errichtung und die Grunderwerbsteuer trägt die Käuferin.
+
+4. Der Verkäufer übergibt der Käuferin alle vorhandenen Pläne, Baubescheide und Bestandsunterlagen des Gebäudes. Fehlende Unterlagen sind vom Verkäufer binnen vier Wochen nach Übergabe nachzureichen. Die Käuferin erklärt, dass ihr bekannt ist, dass der Dachboden nicht für Wohnzwecke ausgebaut ist.
+
+5. Die Verkäuferin [[organization|Elbogen Immobilien]] hat die Heizungsanlage zuletzt im Jahr 2023 überprüfen lassen. Die Prüfbestätigung wird der Käuferin übergeben. Eine darüber hinausgehende Haftung für den Zustand der Anlage wird ausgeschlossen.
+
+6. Die Vertragsparteien vereinbaren, dass die Übergabe der Schlüssel in der Kanzlei in [[location|Zillingdorf]] erfolgt, sobald der Kaufpreis gutgeschrieben ist. Über die Übergabe wird ein Protokoll erstellt, das beide Parteien unterfertigen.
 
 VII. LASTEN UND DIENSTBARKEITEN
 

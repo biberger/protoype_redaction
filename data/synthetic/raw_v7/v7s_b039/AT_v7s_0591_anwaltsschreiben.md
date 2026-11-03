@@ -32,7 +32,7 @@ wir vertreten die [[organization|Gredler GmbH]], [[company_register_number|FN 64
 
 Der Unfallhergang ist nach den Angaben unseres Mandanten eindeutig. Herr [[person|Mühlberger]] befuhr die Straße mit angemessener Geschwindigkeit, als das Fahrzeug der Frau [[person|Iervolino]] unvermittelt aus einer Ausfahrt einbog. Ein Verschulden unseres Mandanten ist daher nicht gegeben.
 
-Die [[organization|Gredler]] hat den Schaden am Fahrzeug, der sich auf EUR 6.820,00 beläuft, bereits dokumentiert. Die Reparaturrechnung und die Lichtbilder der Unfallstelle legen wir bei. Ein Mietwagen musste für acht Tage angemietet werden, die Kosten von EUR 1.104,00 sind ebenfalls zu ersetzen.
+Die [[organization|Gredler]] hat den Schaden am Fahrzeug, der sich auf EUR 6.820,00 beläuft, bereits dokumentiert. Die Reparaturrechnung und die Lichtbilder der Unfallstelle legen wir bei. Die Werkstatt hat das Fahrzeug am [[date|20. Jänner 2026]] übernommen und am [[date|30. Jänner 2026]] wieder ausgeliefert. Die Wertminderung wird gesondert berechnet, sobald der Sachverständige sein Gutachten übermittelt hat. Ein Mietwagen musste für acht Tage angemietet werden, die Kosten von EUR 1.104,00 sind ebenfalls zu ersetzen.
 
 Wir ersuchen Sie daher, binnen zwei Wochen
 

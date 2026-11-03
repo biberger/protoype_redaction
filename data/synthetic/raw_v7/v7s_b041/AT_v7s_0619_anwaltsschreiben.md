@@ -25,20 +25,21 @@ BETREFF: SCHADENSFALL Schaden-Nr. [[other_identifier|58/811049/26]] – MANDANTI
 Sehr geehrte Frau [[person|Mühlmann]],
 
 wir vertreten Frau
-[[person|Kathleen⏎Christ]], geb.
-[[date_of_birth|1937-03-19]],⏎
+[[person|Kathleen
+Christ]], geb.
+[[date_of_birth|1937-03-19]],
 wohnhaft [[address|Peuerbachstraße 22/3, 4822 Bad Goisern]],
 in der oben bezeichneten Schadensangelegenheit.
 
-Frau [[person|Christ]] wurde am [[date|18. September 2026]] auf dem Gehsteig vor dem Gebäude in Berndorf von einem
+Frau [[person|Christ]] wurde am [[date|18. September 2026]] auf dem Gehsteig vor dem Gebäude in [[location|Berndorf]] von einem
 Lieferwagen der [[organization|Kautz e.U.]], [[company_register_number|FN 335896s]], UID [[tax_id|ATU27592735]],
 angefahren. Der Lenker
 des Fahrzeugs, der Inhaber [[person|Baldovino Siri]], hat den Vorfall gegenüber der Polizei eingeräumt. Die
 Haftpflichtversicherung für den Lieferwagen besteht bei Ihrem Haus unter der
 Vertragsnummer [[other_identifier|LV-2022-99410]].
 
-Die Verletzungen unserer Mandantin erfordern eine längere Rehabilitation. Der Befund des Ing.
-[[person|Annelies Botstiber]], die als Sachverständige die Arbeitsfähigkeit beurteilt hat, liegt bei.
+Die Verletzungen unserer Mandantin erfordern eine längere Rehabilitation. Der Befund des
+[[person|Ing. Annelies Botstiber]], die als Sachverständige die Arbeitsfähigkeit beurteilt hat, liegt bei.
 Die Sachverständige hat dabei auch eine Minderung der Erwerbsfähigkeit beschrieben. Die Kosten der
 Heilbehandlung belaufen sich nach den bisher vorliegenden Rechnungen auf EUR 1.240,00.
 

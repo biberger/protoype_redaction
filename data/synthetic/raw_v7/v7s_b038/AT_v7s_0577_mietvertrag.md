@@ -60,7 +60,7 @@ IBAN: [[bank_account|AT95 2257 7534 2507 3727]]
 
 V. Kaution
 
-Die Mieterin hat eine Mietkaution in Höhe von EUR 3.720,00 erlegt. Die Kaution wird vom Vermieter treuhändig verwaltet und nach Ende des Mietverhältnisses unter Abzug allfälliger Forderungen rückerstattet.
+Die Mieterin hat eine Mietkaution in Höhe von EUR 3.720,00 erlegt. Die Kaution wird vom Vermieter treuhändig verwaltet und nach Ende des Mietverhältnisses unter Abzug allfälliger Forderungen rückerstattet. Die Kaution ist verzinst, die Zinsen werden jährlich gutgeschrieben.
 
 VI. Erhaltung und Umbauten
 
@@ -89,6 +89,10 @@ VII. Schlussbestimmungen
 2. Die Vertragsparteien unterwerfen sich für Streitigkeiten aus diesem Vertrag dem sachlich zuständigen Gericht im Sprengel des [[court|Bezirksgericht Zwettl]].
 
 3. Dieser Vertrag wird in zwei gleichlautenden Ausfertigungen errichtet.
+
+4. Die Mieterin bestätigt, eine Ausfertigung dieses Vertrags und das Übergabeprotokoll erhalten zu haben. Die Übergabe des Geschäftslokals erfolgte am [[date|1. Februar 2025]]. Die Schlüssel wurden in der Anzahl von vier Stück übergeben.
+
+5. Sollte die Vermieterin die Räume vor Beginn des Mietverhältnisses nicht rechtzeitig übergeben können, verschiebt sich der Mietbeginn entsprechend. Eine Mietzinspflicht entsteht erst mit der tatsächlichen Übergabe. Die Vertragsparteien vereinbaren dafür keine Vertragsstrafe.
 
 [[address|2120 Wolkersdorf im Weinviertel]], am [[date|14. Jänner 2025]]
 

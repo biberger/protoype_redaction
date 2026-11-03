@@ -38,7 +38,7 @@ ERV-Code: [[other_identifier|R647754]]
 > An: [[person|Ditka Popluhárová]]
 > Betreff: AW: Schaden-Nr. [[other_identifier|30/637792/25]]
 >
-> sehr geehrte Frau Popluhárová,
+> sehr geehrte Frau [[person|Popluhárová]],
 >
 > wir benötigen zur Bearbeitung die Bestätigung der Klientin [[person|Robina Hunger]] und das Gutachten des
 > Sachverständigen [[person|Gerome Gschwandtner]]. Die Schadensache der Klientin ist im Schadenregister unter
@@ -62,7 +62,7 @@ zum [[date|20. Oktober 2026]]. Ohne vollständige Unterlagen kann die [[organiza
 
 Mit freundlichen Grüßen
 
-Ing. [[person|Gerome Gschwandtner]]
+[[person|Ing. Gerome Gschwandtner]]
 [[organization|Steckel KG]]
 [[address|6235 Reith im Alpbachtal]]
 Tel. [[phone_number|02622/5333546-59]]

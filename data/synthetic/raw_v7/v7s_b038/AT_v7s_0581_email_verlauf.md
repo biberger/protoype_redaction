@@ -10,9 +10,9 @@ Betreff: [[other_identifier|Bauer ./. Auner]], Lieferung Kühlgeräte
 
 Sehr geehrter Herr [[person|Baron]],
 
-in der Angelegenheit der Lieferung vom [[date|3. August 2026]] ersuche ich um Rückmeldung zum Stand der Reklamation. Die [[organization|Raffeiner Handels GmbH]] hat die Ware am [[date|6. August 2026]] an die Kundin übergeben, die Rechnung ist seit dem [[date|20. September 2026]] fällig. Die [[organization|Raffeiner Handels]] wartet nun auf die Zahlung der offenen Summe von EUR 8.640,00.
+in der Angelegenheit der Lieferung vom [[date|3. August 2026]] ersuche ich um Rückmeldung zum Stand der Reklamation. Die [[organization|Raffeiner Handels GmbH]] hat die Ware am [[date|6. August 2026]] an die Kundin übergeben, die Rechnung ist seit dem [[date|20. September 2026]] fällig. Die [[organization|Raffeiner Handels]] wartet nun auf die Zahlung der offenen Summe von EUR 8.640,00 auf das Konto IBAN [[bank_account|AT28 8912 4186 3032 7904]].
 
-Ich bitte Sie, die Anwältin der Gegenseite, Frau [[person|Feistritzer]], um eine Stellungnahme zu ersuchen. Der Lieferschein vom [[date|6. August 2026]] trägt die Unterschrift der Kundin, die Ware wurde also ohne sichtbare Beanstandung übernommen. Das Kühlaggregat war zu diesem Zeitpunkt nach unseren Unterlagen funktionsfähig.
+Die Lieferung umfasste drei Kühlgeräte, zwei davon wurden bereits bezahlt. Ich bitte Sie, die Anwältin der Gegenseite, Frau [[person|Feistritzer]], um eine Stellungnahme zu ersuchen. Der Lieferschein vom [[date|6. August 2026]] trägt die Unterschrift der Kundin, die Ware wurde also ohne sichtbare Beanstandung übernommen. Das Kühlaggregat war zu diesem Zeitpunkt nach unseren Unterlagen funktionsfähig.
 
 Mit freundlichen Grüßen
 
@@ -65,7 +65,7 @@ Sehr geehrter Herr [[person|Baron]],
 
 namens des Käufers [[person|Adalberta Bauer]] weise ich darauf hin, dass die Mängelrüge rechtzeitig erfolgt ist. Den Mangel an der Kompressorleitung hat die Kundin am [[date|9. August 2026]] festgestellt. Der Lieferant hat den Mangel am [[date|11. August 2026]] bestätigt, das Schreiben liegt bei.
 
-Ich ersuche Sie, die Zahlung der Rechnung bis zur Klärung auszusetzen. Eine Klage würde ich nur nach Ablauf der Frist einbringen.
+Ich ersuche Sie, die Zahlung der Rechnung bis zur Klärung auszusetzen. Bitte übermitteln Sie mir außerdem die Lieferbedingungen in Kopie, damit ich sie mit der Kundin besprechen kann. Eine Klage würde ich nur nach Ablauf der Frist einbringen.
 
 Mit freundlichen Grüßen
 
@@ -82,14 +82,14 @@ An: [[person|Adela Feistritzer]] <[[email|a.feistritzer@mail.at]]>
 Cc: [[person|Fester Baron]] <[[email|f.baron@bormann.at]]>
 Betreff: AW: AW: AW: [[other_identifier|Bauer ./. Auner]], Lieferung Kühlgeräte
 
-> Sehr geehrte Frau Feistritzer,
+> Sehr geehrte Frau [[person|Feistritzer]],
 > die Mängelrüge sei rechtzeitig erfolgt und der Lieferant habe den Mangel am [[date|11. August 2026]] bestätigt.
 
 Sehr geehrte Frau [[person|Feistritzer]],
 
 der Lieferant hat den Mangel an der Kompressorleitung nur anerkannt, weil die Kundin das Gerät bereits in Betrieb genommen hatte. Die Reparatur wurde am [[date|17. August 2026]] durchgeführt und von der Kundin ohne Beanstandung abgenommen. Ein Zusammenhang mit der Rechnung besteht daher nicht mehr.
 
-Die [[organization|Raffeiner Handels GmbH]] ist bereit, die Angelegenheit außergerichtlich zu erledigen, wenn die Kundin den offenen Betrag bis zum [[date|31. Oktober 2026]] überweist. Andernfalls wird die Forderung gerichtlich geltend gemacht.
+Die [[organization|Raffeiner Handels GmbH]] ist bereit, die Angelegenheit außergerichtlich zu erledigen, wenn die Kundin den offenen Betrag bis zum [[date|31. Oktober 2026]] überweist. Andernfalls wird die Forderung gerichtlich geltend gemacht. Für Rückfragen stehe ich zur Verfügung. Ich bitte um kurze Rückmeldung.
 
 Mit freundlichen Grüßen
 

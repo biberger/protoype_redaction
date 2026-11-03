@@ -37,11 +37,11 @@ Die Beschuldigte betreute für die Gesellschaft [[organization|Dick Handels GmbH
 
 Die Kontobewegungen der Treuhandschaft sind wie folgt dokumentiert:
 
-04.03.2025 Eingang, EUR 27.400,00
-19.03.2025 Auszahlung an den Verkäufer, Treuhandbuch-Nr. [[other_identifier|2026/713]], EUR 21.000,00
-02.04.2025 Umbuchung auf das Geschäftskonto, EUR 4.100,00
-15.05.2025 Auszahlung an [[person|Johannes Grasmugg]], EUR 1.600,00
-30.06.2025 Umbuchung auf das Geschäftskonto, Honorar lt. Note vom [[date|30.06.2025]], EUR 700,00
+[[date|04.03.2025]] Eingang, EUR 27.400,00
+[[date|19.03.2025]] Auszahlung an den Verkäufer, Treuhandbuch-Nr. [[other_identifier|2026/713]], EUR 21.000,00
+[[date|02.04.2025]] Umbuchung auf das Geschäftskonto, EUR 4.100,00
+[[date|15.05.2025]] Auszahlung an [[person|Johannes Grasmugg]], EUR 1.600,00
+[[date|30.06.2025]] Umbuchung auf das Geschäftskonto, Honorar lt. Note vom [[date|30.06.2025]], EUR 700,00
 
 Die Honorarnote wurde der Gesellschaft nie übermittelt. Der Restbetrag war zum Zeitpunkt der Umbuchung nicht ausreichend, um die Honorarforderung zu decken, weil die Auszahlung an den Verkäufer bereits erfolgt war.
 
@@ -56,6 +56,34 @@ Die Behandlung von Treuhandgeldern richtet sich nach [[legal_norm|§ 10 Abs 1 RA
 Hinsichtlich der Umbuchung vom [[date|30.06.2025]] liegt jedoch eine nachvollziehbare Honorarforderung vor, sodass insoweit kein Verstoß anzunehmen ist. Die Strafzumessung war daher zu korrigieren, weil die Beschuldigte nur in einem geringeren Umfang gegen die Pflicht verstoßen hat.
 
 Als mildernd ist zu werten, dass die Beschuldigte den Betrag von EUR 4.100,00 am [[date|10.07.2025]] zurücküberwiesen hat. Erschwerend wirkt die fehlende Information der Gesellschaft.
+
+4a. Zur Beweiswürdigung im Berufungsverfahren
+
+Die Beschuldigte rügte in ihrer Berufung, der Disziplinarrat habe die Angaben des Zeugen [[person|Grasmugg]] ohne Prüfung der Vorschussvereinbarung übernommen. Der Senat hat die Vorschussvereinbarung nachträglich eingesehen. Sie stammt vom [[date|27.02.2025]], ist aber nicht unterfertigt, sondern nur als Entwurf vorhanden. Der Zeuge bestätigte, dass er den Entwurf erhalten, aber nicht unterschrieben habe.
+
+Die Beschuldigte hat den Entwurf nicht als verbindliche Vereinbarung über einen Vorschuss gewertet, sondern als Grundlage für die spätere Abrechnung. Das Schreiben des Zeugen vom [[date|3. Juni 2026]] weist diese Auffassung zurück. Der Senat schließt sich dieser Würdigung an.
+
+4b. Die Rolle des Verkäufers
+
+Der Verkäufer der Liegenschaft, [[person|Florian Hirtler]], bestätigte, dass der Kaufpreis von EUR 21.000,00 am [[date|19.03.2025]] auf seinem Konto eingegangen sei. Der Kaufvertrag sah vor, dass der Kaufpreis nach Eintragung der Rangordnung im Grundbuch ausbezahlt wird. Die Rangordnung wurde am [[date|12.03.2025]] eingetragen, die Auszahlung war daher fristgerecht erfolgt. Der Verkäufer hat die Beschuldigte für ihre Abwicklung des Vertrags gelobt.
+
+Der Verkäufer ist somit kein Zeuge für die Umbuchungen auf das Geschäftskonto. Diese betreffen ausschließlich die Gelder der Gesellschaft, die nicht an den Verkäufer weitergeleitet wurden.
+
+4c. Dauer und Umfang der Pflichtverletzung
+
+Die Pflichtverletzung erstreckte sich vom [[date|02.04.2025]] bis zur Rückzahlung am [[date|10.07.2025]], somit über rund drei Monate. Während dieses Zeitraums blieb der Betrag von EUR 4.100,00 dem Zugriff des Mandanten entzogen, ohne dass eine fällige Forderung bestand. Die Gesellschaft wurde über die Umbuchung weder vorab noch zeitnah informiert. Die Beschuldigte hat den Betrag erst nach der Aufforderung durch den Geschäftsführer der [[organization|Dick Handels GmbH]] zurückgezahlt.
+
+4d. Strafzumessung im Berufungsverfahren
+
+Der Senat berücksichtigt, dass die Beschuldigte den Betrag rechtzeitig zurückgezahlt hat und bisher nicht disziplinarisch in Erscheinung getreten ist. Zu ihren Lasten wirkt, dass sie die Umbuchung nicht dokumentierte und damit die Kontrolle durch die Kammer erschwerte. Die Herabsetzung der Geldbuße auf EUR 2.000,00 trägt dem Umstand Rechnung, dass der Vorwurf der eigenmächtigen Entnahme auf den Betrag von EUR 4.100,00 beschränkt ist.
+
+4e. Verfolgungsverjährung
+
+Die Kammer hat im Juli 2025 Kenntnis von den Umbuchungen erlangt. Die Verfolgungsverjährung nach [[legal_norm|§ 60 DSt]] ist daher nicht eingetreten; die letzte Umbuchung vom [[date|30.06.2025]] liegt innerhalb der Frist. Der Einwand der Beschuldigten, das Verfahren sei zu spät eingeleitet worden, geht daher fehl.
+
+4f. Zusammenfassung
+
+Zusammenfassend bestätigt der Senat den Schuldspruch hinsichtlich der Umbuchung vom [[date|02.04.2025]] und hebt den Schuldspruch hinsichtlich der Umbuchung vom [[date|30.06.2025]] auf. Die Geldbuße wird entsprechend herabgesetzt. Die Beschuldigte hat den Betrag von EUR 4.100,00 zurückgezahlt, der Restbetrag von EUR 700,00 aus der Honorarnote ist durch die Umbuchung gedeckt und war nicht zu beanstanden.
 
 5. Kosten
 

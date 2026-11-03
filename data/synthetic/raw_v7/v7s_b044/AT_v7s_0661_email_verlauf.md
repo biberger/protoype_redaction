@@ -86,3 +86,23 @@ Mit kollegialen Grüßen
 
 Rechtsanwalt
 [[lawyer|Wolter Blaschke]]
+
+-----Ursprüngliche Nachricht-----
+Von: [[person|Pachner]] <[[email|office@pachner.at]]>
+Gesendet: Donnerstag, [[date|2. November 2023]] 10:12
+An: [[lawyer|Wolter Blaschke]] <[[email|w.blaschke@blaschke-recht.at]]>
+Cc: [[person|Gundhilde Gasselich]] <[[email|g.gasselich@jenisch.at]]>
+Betreff: AW: Schadennummern [[other_identifier|59/351673/22]] und [[other_identifier|61/284490/23]]
+
+Sehr geehrter Herr Kollege [[lawyer|Blaschke]],
+
+ich danke Ihnen für Ihr Schreiben vom [[date|26. Oktober 2023]]. Die Zusammenführung der beiden Vorgänge nehme ich an, sofern die [[organization|JG]] die Haftungsquote von 50 Prozent schriftlich bestätigt. Eine bloße mündliche Zusage von Herrn [[person|Kost]] genügt uns nicht, weil wir in der Vergangenheit bereits zweimal Zusagen erhalten haben, die nicht eingehalten wurden.
+
+Herr [[person|Gams]] wird seine Angaben zu den Verletzungen und zu den Behandlungen im Krankenhaus bis zum [[date|20. November 2023]] ergänzen. Die Befunde der Ambulanz in [[location|St. Valentin]] liegen mir bereits vor und werden beigelegt. Für die Frage des Schmerzengeldes erwarte ich von der [[organization|JG]] einen eigenen Vorschlag, den ich dann mit meinem Mandanten besprechen werde.
+
+Ich ersuche Sie, die Zahlung der bisher nicht geleisteten Beträge auf das Anderkonto meiner Kanzlei zu überweisen und den Verwendungszweck mit dem Zeichen [[other_identifier|MFT-MFTGams/Mittler]] zu versehen.
+
+Mit freundlichen Grüßen
+
+Rechtsanwalt
+[[person|Pachner]]

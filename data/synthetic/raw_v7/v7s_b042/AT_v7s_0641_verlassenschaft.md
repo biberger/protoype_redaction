@@ -44,6 +44,10 @@ Der Verkehrswert der Liegenschaften wurde durch den Sachverständigen mit EUR 21
 
 Für Rückfragen zum Verfahren steht die Kanzlei unter Tel. [[phone_number|+43 732 671 74 59-28]] zur Verfügung.
 
+Zwischen den Erben [[person|Okur]] und [[person|Lindinger]] besteht Streit über die Bewertung der Liegenschaft. Frau [[person|Okur]] verlangt eine Bewertung nach dem Verkehrswert im Jahr 2015, Herr [[person|Lindinger]] nach dem aktuellen Wert, der durch einen Sachverständigen mit EUR 212.000,00 geschätzt wurde. Der Notar hat beide Bewertungen dem Gutachter zur Stellungnahme übermittelt; eine Entscheidung darüber steht noch aus.
+
+Die Erbin [[person|Beck]] hat auf die Erbschaft gegen Abfindung in Höhe von EUR 3.000,00 verzichtet, die Erklärung wurde am [[date|9. Oktober 2026]] vor dem Notar abgegeben. Die Abfindung wird aus dem Nachlass beglichen, bevor die übrigen Erben ihre Quoten erhalten.
+
 Die Einantwortung wird nach Erledigung der Gläubigerangelegenheiten erfolgen. Die Erben sind mit der Teilung im Verhältnis ihrer Quoten einverstanden.
 
 Ausgefertigt in [[location|Feldkirchen bei Graz]] am [[date|20. Oktober 2026]].

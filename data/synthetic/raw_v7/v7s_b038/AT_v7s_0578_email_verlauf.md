@@ -13,7 +13,7 @@ Sehr geehrter Herr [[person|Waldherr]],
 
 ich melde mich im Auftrag von Frau [[person|Feichtlbauer]] und ersuche um Mitteilung, ob der Schriftsatz vom [[date|1. September 2026]] inzwischen beim [[court|BG Steyr]] eingelangt ist. Wir haben bisher keine Bestätigung erhalten. Die Kanzlei [[organization|Krause, Graff, Çelik]] ([[organization|KGC]]) hat uns die Übernahme des Mandats bereits bestätigt. Die Frist für die Stellungnahme läuft am [[date|25. September 2026]] ab.
 
-Frau [[person|Feichtlbauer]] wohnt derzeit in [[address|6424 Silz]] und ist für Ihre Kanzlei telefonisch nur eingeschränkt erreichbar. Sie hat mir mitgeteilt, dass sie die Unterlagen für die Gutachten bis Ende der Woche übermitteln möchte. Bitte geben Sie mir Bescheid, ob diese Vorgehensweise für Sie in Ordnung ist.
+Frau [[person|Feichtlbauer]] wohnt derzeit in [[address|6424 Silz]] und ist für Ihre Kanzlei telefonisch nur eingeschränkt erreichbar. Sie hat mir mitgeteilt, dass sie die Unterlagen für die Gutachten bis Ende der Woche übermitteln möchte. Bitte geben Sie mir Bescheid, ob diese Vorgehensweise für Sie in Ordnung ist. Wir ersuchen zudem um Rückmeldung, ob Ihre Kanzlei bereits Kontakt zum Bausachverständigen aufgenommen hat, damit keine Doppelbeauftragung erfolgt.
 
 Die Gutachten betreffen die Bausubstanz des Hauses und die Frage, ob die Sanierung im Jahr 2025 fachgerecht durchgeführt wurde. Ich ersuche Sie, die Gutachterin bis zum [[date|18. September 2026]] zu beauftragen, damit der Termin eingehalten werden kann.
 
@@ -38,7 +38,7 @@ der Schriftsatz wurde am [[date|2. September 2026]] über ERV eingebracht, die E
 
 Frau [[person|Feichtlbauer]] kann die Unterlagen gern bis Freitag übermitteln. Die Klienten-Nr. [[other_identifier|76726]] wurde im Schriftsatz bereits genannt, damit das Gericht die Zuordnung treffen kann. Die [[organization|KGC]] übernimmt die Kosten für die Gutachterin nur, wenn der Auftrag vorher schriftlich bestätigt wird.
 
-Die Gutachterin wird ihren Bericht voraussichtlich bis zum [[date|30. September 2026]] vorlegen. Ein früherer Termin ist nicht realistisch, weil die Besichtigung erst am [[date|21. September 2026]] stattfinden kann.
+Den Akt habe ich außerdem an die Kollegin weitergeleitet, die für Gutachten in Bausachen zuständig ist. Die Gutachterin wird ihren Bericht voraussichtlich bis zum [[date|30. September 2026]] vorlegen. Ein früherer Termin ist nicht realistisch, weil die Besichtigung erst am [[date|21. September 2026]] stattfinden kann.
 
 Mit freundlichen Grüßen
 
@@ -87,7 +87,7 @@ vielen Dank für Ihre Rückmeldung und für die Angabe der Referenz. Ich habe di
 
 Frau [[person|Feichtlbauer]] hat mir mitgeteilt, dass sie die Übergabe der Unterlagen persönlich vornehmen möchte. Ich schlage vor, dass wir einen gemeinsamen Termin in unserer Kanzlei am [[date|16. September 2026]] vereinbaren, damit die Vollständigkeit der Belege geprüft werden kann.
 
-Ich ersuche Sie außerdem, mir die Eingangsbestätigung des Gerichts in Kopie zu übermitteln, damit wir sie der Akte beilegen können.
+Ich ersuche Sie außerdem, mir die Eingangsbestätigung des Gerichts in Kopie zu übermitteln, damit wir sie der Akte beilegen können. Für Rückfragen stehe ich Ihnen telefonisch zur Verfügung. Vielen Dank im Voraus. Ein kurzes Feedback genügt, danke.
 
 Mit freundlichen Grüßen
 

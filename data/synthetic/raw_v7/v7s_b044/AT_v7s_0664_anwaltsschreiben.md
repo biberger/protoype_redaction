@@ -1,3 +1,8 @@
+---
+doc_type: anwaltsschreiben
+jurisdiction: AT
+lang: de
+---
 Rechtsanwalt
 [[person|Hummel]]
 [[address|Lerchengasse 54, 4931 Mettmach]]
@@ -33,6 +38,8 @@ Am [[date|11. Februar 2025]] ist im Badezimmer des Obergeschoßes ein Rohrbruch 
 Die Schadenbehebung wurde durch die Sachverständige [[person|Mag. Dr. Meike Nemec]] am [[date|24. Februar 2025]] vor Ort begutachtet. Frau [[person|Nemec]] hat festgestellt, dass der Rohrbruch auf eine Materialermüdung zurückzuführen ist und daher nicht dem Verschleiß zuzuordnen ist. Ihr Gutachten vom [[date|3. März 2025]] liegt bei. Die Miteigentümerin des Hauses, Frau [[person|Ingelore Dr. Sutter]], hat die Zustimmung zur Reparatur erteilt und bestätigt den Schadenshergang schriftlich.
 
 Die [[organization|AVAG]] hat mit Schreiben vom [[date|10. März 2025]] die Deckung mit dem Hinweis abgelehnt, dass ein Leitungsschaden nach den Versicherungsbedingungen nur dann ersetzt werde, wenn die Leitung nicht älter als dreißig Jahre ist. Diese Auffassung teilen wir nicht. Die Leitung wurde im Zuge der Sanierung im Jahr 2004 erneuert, wie aus dem Gutachten hervorgeht. Die [[organization|AVAG]] hat den Sachverhalt daher nicht vollständig geprüft.
+
+Die Sachverständige hat zudem festgestellt, dass die Trocknung der Außenwand bereits eingeleitet wurde und dass die Schimmelbildung im Dämmbereich durch die rasche Anzeige verhindert werden konnte. Eine Verzögerung der Sanierung ginge daher zulasten der Versicherung, nicht des Mandanten, der die Schäden unverzüglich gemeldet und die Wasserzufuhr sofort abgesperrt hat. Herr [[person|Tomić]] hat zudem die Hausverwaltung über den Rohrbruch informiert, und auch diese Mitteilung liegt im Akt.
 
 Gemäß den Versicherungsbedingungen ist der Schaden innerhalb von sechs Monaten nach dem Ereignis anzuzeigen. Diese Frist wurde eingehalten, weil die Schadenanzeige bereits am [[date|13. Februar 2025]] bei der [[organization|AVAG]] eingelangt ist. Die Ablehnung ist daher auch aus formalen Gründen nicht berechtigt.
 

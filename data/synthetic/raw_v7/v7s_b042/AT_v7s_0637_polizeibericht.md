@@ -41,6 +41,8 @@ Sachschaden: geschätzt EUR 11.500,00. Die Unfallstelle wurde fotografiert und v
 
 Rückfragen: [[person|Gasteiger]], Tel. [[phone_number|0463/1702468 DW 572]].
 
+Die Lenkerin [[person|Pein]] legte ihren Führerschein zur Einsicht vor; ein Alkotest verlief negativ. Der Lenker [[person|Jánoš]] stand unter Schock und konnte zunächst nicht befragt werden. Die Lenkerin [[person|Jundi]] gab jedoch an, die Fahrbahn sei an der Stelle wegen einer Baustelle verengt gewesen. Die Verengung war durch Warnbaken ausgewiesen, die nach dem Unfall teilweise umgefallen aufgefunden wurden.
+
 Die Anzeige wird wegen des Verdachts einer Übertretung nach [[legal_norm|§ 7 Abs 1 StVO]] an die Bezirkshauptmannschaft übermittelt.
 
 [[location|Ratsch an der Weinstraße]], am [[date|24. Juli 2025]]

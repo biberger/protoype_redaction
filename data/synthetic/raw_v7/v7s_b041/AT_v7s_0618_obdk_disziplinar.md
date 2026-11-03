@@ -127,7 +127,7 @@ die Verhandlung nicht über den notwendigen Umfang hinausgegangen ist.
 Gegen diesen Bescheid ist eine Revision an den [[court|OGH]] unzulässig, weil die Voraussetzungen des [[legal_norm|Art 133 Abs 4 B-VG]]
 nicht vorliegen. Eine außerordentliche Revision bleibt davon unberührt.
 
-Wien, am [[date|18. November 2025]]
+[[location|Wien]], am [[date|18. November 2025]]
 
 Für den Senat:
 

@@ -44,7 +44,7 @@ Die Zeugin [[person|BIRCHALL Basima]] hat die Mängel am [[date|1. Oktober 2024]
 
 In der Entscheidung des [[court|Obersten Gerichtshofes]] vom [[date|12. Februar 2025]], [[case_number|2 Ob 34/25x]], bereits klargestellt, dass ein Werkunternehmer bei verspäteter Fertigstellung für den daraus entstehenden Schaden einzustehen hat. Wir gehen davon aus, dass der [[court|OGH]] die Rechtslage in gleicher Weise beurteilen würde.
 
-Die Ausführungen der Gegenseite zu den Fristen sind unzutreffend. Die Fertigstellung war bis zum genannten Datum vertraglich fest vereinbart; eine Verlängerung wurde nie schriftlich vereinbart. Die Zahlungen von insgesamt EUR 42.000,00 wurden fristgerecht geleistet, wie die beigelegten Zahlungsbestätigungen zeigen. Wir erwarten daher eine Stellungnahme binnen der gesetzten Frist.
+Die Ausführungen der Gegenseite zu den Fristen sind unzutreffend. Die Fertigstellung war bis zum genannten Datum vertraglich fest vereinbart; eine Verlängerung wurde nie schriftlich vereinbart. Die Zahlungen von insgesamt EUR 42.000,00 wurden in drei Teilbeträgen fristgerecht geleistet, jeweils am [[date|15. Juni 2024]], am [[date|30. August 2024]] und am [[date|5. September 2024]],, wie die beigelegten Zahlungsbestätigungen zeigen. Wir erwarten daher eine Stellungnahme binnen der gesetzten Frist.
 
 Bitte richten Sie Ihre Antwort direkt an unsere Kanzlei. Eine Kontaktaufnahme mit unserer Mandantin ersuchen wir zu unterlassen.
 
@@ -65,3 +65,5 @@ Beilagen Mandantenakt:
 [[organization|Spitz Bau GmbH]], Auftragnehmerin, [[company_register_number|FN 268980i]], UID [[tax_id|ATU41858316]]
 
 Vorab per Fax ist dieses Schreiben nicht zugestellt worden. Die Zustellung erfolgt nur per E-Mail und eingeschrieben an die oben genannte Anschrift.
+
+Sollte die Versicherung der Frau [[person|Revelli]] die Regulierung von Teilbeträgen anbieten, bitten wir um vorherige Rücksprache. Eine Teilzahlung ohne Anerkennung der Gesamtforderung wird von unserer Mandantin nur unter dem Vorbehalt angenommen, dass die weitergehenden Ansprüche unberührt bleiben.

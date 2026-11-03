@@ -69,6 +69,12 @@ IV. Treuhandabwicklung
 
 3. Erfolgt die Zahlung nicht fristgerecht, ist die Treuhänderin berechtigt, den Vertrag durch schriftliche Erklärung aufzulösen. Dies gilt auch dann, wenn [[organization|Muzik]] die Zahlung nur teilweise erbringt.
 
+4. Die Zinsen aus dem Treuhandkonto stehen den Verkäufern zu, sobald der Kaufpreis ausgezahlt wird. Bis dahin verbleiben sie auf dem Treuhandkonto und werden zusammen mit dem Kaufpreis ausgefolgt. Die Kanzlei führt über alle Bewegungen ein Kontoblatt, das den Vertragsteilen auf Verlangen zur Verfügung gestellt wird.
+
+5. Der Anteil der Verkäuferin [[person|Jaksch]] aus dem Verkauf der Liegenschaft [[land_register_id|EZ 2187]] wird gesondert verwaltet. Eine Verrechnung mit dem Anteil der Verkäufer [[person|Markovic]] und [[person|Knezevic]] ist ausgeschlossen. Die Treuhänderin hat jeden Betrag einzeln zu verbuchen.
+
+6. Sollte die Käuferin die Kaufpreisraten nicht fristgerecht erlegen, wird die Kanzlei die Verkäufer schriftlich benachrichtigen. Die Benachrichtigung erfolgt an die im Punkt I. genannten Anschriften, bei Änderung der Anschrift an die zuletzt bekanntgegebene.
+
 V. Aufsandungserklärung
 
 1. Die Verkäufer [[person|Markovic]] und [[person|Knezevic]] erteilen hiermit der Käuferin die Aufsandungserklärung nach [[legal_norm|§ 26 GBG]] zur Einverleibung des Eigentumsrechtes an der Liegenschaft [[land_register_id|KG 32429 Deutschfeistritz]]/[[land_register_id|EZ2057]]. Die Verkäuferin [[person|Jaksch]] erteilt die Aufsandungserklärung für die Liegenschaft [[land_register_id|EZ 2187]] in gleicher Weise.
@@ -94,8 +100,8 @@ VI. Übergabe, Nutzen und Lasten
 7. Kostenaufstellung (Beträge in EUR, ohne Umsatzsteuer):
 
 Position | Bemessungsgrundlage | Betrag
-Grunderwerbsteuer 3,5 % EZ2057 | 376.000,00 | 13.160,00
-Grunderwerbsteuer 3,5 % EZ 2187 | 36.000,00 | 1.260,00
+Grunderwerbsteuer 3,5 % [[land_register_id|EZ2057]] | 376.000,00 | 13.160,00
+Grunderwerbsteuer 3,5 % [[land_register_id|EZ 2187]] | 36.000,00 | 1.260,00
 Eintragungsgebühr 1,1 % | 412.000,00 | 4.532,00
 Vertragserrichtungshonorar | - | 3.200,00
 Treuhandgebühr | 412.000,00 | 1.030,00
@@ -111,6 +117,20 @@ VII. Schlussbestimmungen
 3. Die Vertragsteile bestätigen, dass sie den Vertrag gelesen haben, dass er ihrem wirklichen Willen entspricht und dass sie über die Folgen einer Vertragsabwicklung über ein Treuhandkonto belehrt wurden.
 
 4. Dieser Vertrag wurde in drei Ausfertigungen errichtet, je eine für die Verkäufer, die Käuferin und die Kanzlei.
+
+VIII. Belehrung und Hinweise
+
+1. Die Kanzlei hat die Vertragsteile darüber belehrt, dass ein Vertrag über eine Liegenschaft nur schriftlich und mit gleichzeitiger Anwesenheit aller Beteiligten wirksam errichtet werden kann. Nach [[legal_norm|§ 883 ABGB]] ist die Form zwingend; mündliche Nebenabreden sind unwirksam.
+
+2. Die Parteien wurden über die Möglichkeit einer Pfandfreistellung belehrt. Ist für eine der Liegenschaften ein Pfandrecht zugunsten einer Bank eingetragen, so ist die Löschungserklärung vor der Auszahlung des Kaufpreises beizubringen. Eine solche Erklärung liegt für die Liegenschaft [[land_register_id|EZ2057]] derzeit nicht vor und ist bis zum [[date|15. Juni 2026]] nachzureichen.
+
+3. Die Verkäuferin [[person|Markovic]] wurde darauf hingewiesen, dass die Veräußerung eines Grundstücks Auswirkungen auf die steuerliche Behandlung ihrer übrigen Einkünfte haben kann. Sie hat erklärt, sich vor Unterfertigung bei ihrem Steuerberater zu erkundigen.
+
+4. Die Käuferin [[organization|Muzik]] wurde belehrt, dass eine Weiterveräußerung der Liegenschaften innerhalb von fünf Jahren eine erneute Grunderwerbsteuerpflicht auslösen kann. Eine Änderung der Gesellschafter ist dem Firmenbuch anzuzeigen, sobald sie eintritt.
+
+5. Die Verkäufer wurden darauf hingewiesen, dass sie für den Fall eines Rücktritts nach Punkt IV.3 keinen Anspruch auf Zinsen aus dem Treuhandkonto haben.
+
+6. Der Vertrag wurde den Vertragsteilen vollständig vorgelesen. Die Vertragsteile haben erklärt, den Inhalt verstanden zu haben, und haben die Urkunde auf jeder Seite paraphiert.
 
 Beilagen:
 ./A Grundbuchsauszug [[land_register_id|EZ2057]] vom [[date|27. April 2026]]

@@ -37,7 +37,7 @@ Verlassenschaftsgericht hinterlegt und ist Teil des Aktes.
 
 Den Erblasser selbst hat der Notar bei der Todesfallaufnahme nicht persönlich gekannt. Die Angaben über die
 Familienverhältnisse stammen aus dem Zentralen Personenstandsregister und aus den Angaben der Nachbarin. Nach diesen
-Angaben hat der Erblasser die letzten zwölf Jahre allein gelebt. Zu Greiter bestand nach den Feststellungen
+Angaben hat der Erblasser die letzten zwölf Jahre allein gelebt. Zu [[person|Greiter]] bestand nach den Feststellungen
 regelmäßiger Kontakt nur zu den unten genannten Verwandten der Seitenlinie.
 
 **2. Erbberechtigte und Vermächtnisnehmer**

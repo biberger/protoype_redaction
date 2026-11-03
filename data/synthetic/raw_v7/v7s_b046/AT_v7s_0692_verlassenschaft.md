@@ -20,7 +20,7 @@ PROTOKOLL ÜBER DIE VERLASSENSCHAFTSABHANDLUNG
 
 Verlassenschaft nach [[person|Charles Stecher]], geb [[date_of_birth|23.04.1944]], verstorben am [[date|06.06.2023]].
 
-Mit Beschluss des [[court|Bezirksgericht Perg]] vom [[date|14.09.2023]] wurden die unterfertigten Gerichtskommissäre [[person|Wassermann]] und [[person|Meisinger]] mit der Abhandlung der Verlassenschaft betraut. Die Erbserklärungen wurden fristgerecht eingebracht. Der Erblasser hat kein Testament hinterlassen, jedoch ein Legat zugunsten eines Freundes errichtet, das in einer notariellen Urkunde vom [[date|11.03.2019]] festgehalten ist.
+Mit Beschluss des [[court|Bezirksgericht Perg]] vom [[date|14.09.2023]] wurden die unterfertigten Gerichtskommissäre [[person|Wassermann]] und [[person|Meisinger]] mit der Abhandlung der Verlassenschaft betraut. Die Erbserklärungen wurden fristgerecht eingebracht. Der Erblasser hat ein Testament vom [[date|11.03.2019]] hinterlassen, das in einer notariellen Urkunde errichtet wurde und ein Legat zugunsten eines Freundes enthält.
 
 1. Erben
 

@@ -12,6 +12,8 @@ Sehr geehrter Herr [[lawyer|Dr. Taaffe]],
 
 ich melde mich wegen der Angelegenheit mit dem Nachbarn. Herr [[person|Hieronymus Walker]] hat mir vor einigen Tagen eine Zahlungsaufforderung geschickt, die ich nicht verstehe. Ich habe den Brief angehängt. Bitte sagen Sie mir, ob ich darauf antworten muss oder ob Sie das übernehmen.
 
+Außerdem möchte ich wissen, ob der Betrag für die Nachbesprechung auch fällig ist, wenn das Gutachten nicht vollständig übergeben wurde. Mein Mann, [[person|Ferdinand Köck]], hat bei der Übergabe am [[date|28. Februar 2025]] das Protokoll nicht unterschrieben, weil er die Ergebnisse für unvollständig hielt. Ich habe das damals nicht weiter verfolgt, weil ich krank war. Bitte rufen Sie mich an, bevor Sie der Gegenseite antworten.
+
 Meine Klienten-Nr. [[other_identifier|56652]] bei Ihnen steht auf allen Unterlagen, falls Sie die Akte suchen müssen.
 
 Mit freundlichen Grüßen

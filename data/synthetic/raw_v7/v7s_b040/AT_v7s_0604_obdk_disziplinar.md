@@ -54,6 +54,14 @@ Der Disziplinarrat hat ferner die Bestätigung der Bank über den Kontostand am 
 
 3.4. Der Beschuldigte hat die Verwahrung unzureichend dokumentiert. Die Kanzleiaufzeichnungen enthalten keinen Eintrag über die Ablehnung der Auszahlung an den Klienten. Die Vorlage ergänzender Unterlagen erfolgte erst nach Ablauf der Frist.
 
+3.5. Der Einwand der Verjährung wurde ausführlich geprüft. Die Verfehlungen betreffen zwei Treuhandkonten und mehrere Buchungen. Die letzte Buchung ist eine Einzahlung vom [[date|8. Jänner 2020]]; die Umbuchung vom [[date|19. November 2019]] steht in unmittelbarem Zusammenhang mit der fortdauernden Verweigerung der Auszahlung. Die Tat ist daher als fortgesetzte Verfehlung zu werten, deren Verjährung nicht eingetreten ist.
+
+3.6. Die Verpflichtung zur Auskunft gegenüber dem Klienten ergibt sich aus den Berufspflichten des Rechtsanwalts. Der Beschuldigte hat den Klienten [[person|Schliefsteiner]] auf dessen Schreiben vom [[date|3. Februar 2020]] nicht beantwortet. Ein Verstoß gegen diese Pflicht ist als eigenständige Verfehlung zu werten, auch wenn sie im Anschuldigungsbeschluss nur am Rande erwähnt wurde.
+
+3.7. Der Disziplinarrat weist darauf hin, dass ein Rechtsanwalt bei jeder Umbuchung aus einem Treuhandkonto die Herkunft und den Zweck der Mittel nachweisen muss. Diese Pflicht hat der Beschuldigte nicht erfüllt, weil die Umbuchung ohne Verwendungszweck erfolgte.
+
+3.8. Die Berufung des Beschuldigten auf eine spätere Vereinbarung mit der Auftraggeberin, die erst im Verfahren vorgelegt wurde, überzeugt nicht. Eine Vereinbarung, die nach der Umbuchung geschlossen wird, kann die frühere Verfügung nicht rechtfertigen.
+
 4. Strafbemessung
 
 Mildernd war die bisherige Unbescholtenheit des Beschuldigten seit dem Jahr 2005. Erschwerend wirkt die Wiederholung ähnlicher Verfehlungen und die lange Dauer der nicht ausgeglichenen Forderung. Der Disziplinarrat hat bei der Bemessung berücksichtigt, dass der Beschuldigte die Summe von EUR 14.250,00 erst nach Eröffnung des Verfahrens an den Klienten gezahlt hat.

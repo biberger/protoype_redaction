@@ -13,13 +13,15 @@ Sehr geehrte Frau [[person|Eckerstorfer]],
 
 anbei übersende ich Ihnen die Unterlagen zur Wasserschadensache im Haus in [[address|6184 Sankt Sigmund im Sellrain]]. Die Mieterin [[person|Evelina Schuch]], geb [[date_of_birth|21. November 1955]], hat seit der Überflutung im August nicht mehr in der Wohnung gewohnt. Sie war zuvor in [[location|St. Michael im Lungau]] gemeldet.
 
-Die [[organization|Koenig Immobilien GmbH]] hat die Sanierung bereits beauftragt. Bitte teilen Sie mir mit, ob wir die Klage beim [[court|Bezirksgericht Braunau am Inn]] einbringen sollen. Die Akten sind unter Unser Zeichen [[other_identifier|Hermann ./. Brandstätter]] abgelegt.
+Die [[organization|Koenig Immobilien GmbH]] hat die Sanierung bereits beauftragt. Bitte teilen Sie mir mit, ob wir die Klage beim [[court|Bezirksgericht Braunau am Inn]] einbringen sollen. Die Akten sind abgelegt.
+
+Unser Zeichen: [[other_identifier|Hermann ./. Brandstätter]]
 
 Mit freundlichen Grüßen
 [[person|Walther Hermann]]
 
 > Am [[date|1. September 2026]] um 10:41 schrieb [[person|Robertina Landau]]:
-> Sehr geehrter Herr Hermann,
+> Sehr geehrter Herr [[person|Hermann]],
 > wir bestätigen den Eingang Ihrer Schadenmeldung. Die Schadennummer lautet [[other_identifier|52/886373/25]], bitte geben Sie diese bei allen Rückfragen an.
 > Die [[organization|Alpenvorland Versicherungs AG]] ([[organization|AVAG]]) prüft den Anspruch.
 > Mit freundlichen Grüßen
@@ -30,7 +32,7 @@ Gesendet: Freitag, [[date|4. September 2026]] 08:25
 An: [[person|Walther Hermann]] <[[email|w.hermann@example.org]]>
 Betreff: AW: Schadennummer [[other_identifier|52/886373/25]]
 
-Sehr geehrter Herr Hermann,
+Sehr geehrter Herr [[person|Hermann]],
 
 danke für die Unterlagen. Die [[organization|AVAG]] hat den Anspruch bisher nicht anerkannt. Die Klage ist vorzubereiten, sobald die Schadensfeststellung des Sachverständigen vorliegt. Die [[organization|Koenig Immobilien]] sollte die Rechnungen des Sanierungsbetriebs sammeln, damit der Schaden nachgewiesen werden kann. Die Klage wird beim [[court|BG Braunau am Inn]] eingebracht, sobald die Unterlagen vollständig sind.
 

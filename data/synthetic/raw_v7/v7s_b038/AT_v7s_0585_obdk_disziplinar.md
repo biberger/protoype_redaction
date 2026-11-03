@@ -11,7 +11,7 @@ TH-Nr. [[other_identifier|2024/067]]
 
 IM NAMEN DER REPUBLIK
 
-Der Disziplinarrat der Rechtsanwaltskammer für Kärnten hat in der Besetzung:
+Der [[court|Disziplinarrat der Rechtsanwaltskammer für Kärnten]] hat in der Besetzung:
 
 Vorsitz: [[person|Mag. Hyacinthus Fischbacher]], Geburtsdatum: [[date_of_birth|1962-10-05]], StA. [[country|Bosnien und Herzegowina]]
 Beisitzerinnen: [[person|Dr. Dicle Tolunay]], [[person|Nebahat Kayabas]]
@@ -33,7 +33,7 @@ I. Verfahrensgang
 
 Die [[organization|Rechtsanwaltskammer Kärnten]] ([[organization|RAK]]) erhielt am [[date|7. Jänner 2026]] Hinweise der Klienten [[person|Pia Haidegger]] und [[person|Sascha Oberländer]] auf unregelmäßige Auszahlungen. Die [[organization|RAK]] leitete die Hinweise nach einer Prüfung der Treuhandbücher am [[date|23. Jänner 2026]] an die Kammeranwaltschaft weiter. Der Kammeranwalt erhob am [[date|17. März 2026]] die Anklage.
 
-Die Verhandlung vor dem Disziplinarrat fand am [[date|16. Juni 2026]] statt. Der Beschuldigte war anwesend und wurde von einem Vertreter begleitet. Die Verlesung der Anklageschrift und der Treuhandbücher erfolgte in öffentlicher Sitzung.
+Die Verhandlung vor dem Disziplinarrat fand am [[date|16. Juni 2026]] statt. Der Beschuldigte hat sich zu den Einzelvorwürfen nur zögerlich geäußert, was der Senat nicht als Geständnis wertet. Die Klienten wurden von der Kammer über den Verfahrensstand laufend informiert. Der Beschuldigte war anwesend und wurde von einem Vertreter begleitet. Die Verlesung der Anklageschrift und der Treuhandbücher erfolgte in öffentlicher Sitzung.
 
 II. Sachverhalt
 
@@ -54,7 +54,7 @@ Datum | Mandant | Vorgang | Betrag | Bemerkung
 [[date|14.02.2025]] | [[person|Haidegger]] | Auszahlung an Makler | 12.500,00 | ohne schriftliche Weisung
 [[date|11.06.2025]] | [[person|Oberländer]] | Einzahlung | 6.000,00 | Vorschuss laut Auftrag
 [[date|27.06.2025]] | [[person|Oberländer]] | Überweisung Bauunternehmen | 4.800,00 | Rechnung erst am [[date|01.07.2025]] gelegt
-[[date|18.12.2025]] | Mandat 2024/067 | Auszahlung ohne Beleg | 3.240,00 | Belege fehlen
+[[date|18.12.2025]] | TH-Nr. [[other_identifier|2024/067]] | Auszahlung ohne Beleg | 3.240,00 | Belege fehlen
 
 Die Summe der beanstandeten Auszahlungen beträgt damit EUR 20.540,00. Davon wurde ein Betrag von EUR 1.200,00 erst nach der Anzeige zurückgeführt.
 
@@ -68,13 +68,13 @@ Diese Darstellung ist nicht glaubhaft. Der Makler war nach dem Vertragsentwurf n
 
 Zu den Abrechnungen erklärte der Beschuldigte, die Differenzen seien auf Schreibfehler der Mitarbeiterin zurückzuführen. Der Senat hält dies für unwahrscheinlich, weil die Abrechnungen vom Beschuldigten unterfertigt waren und die Differenzen über mehrere Monate hinweg bestanden.
 
-Die Klienten [[person|Oberländer]] und [[person|Haidegger]] haben die Vorwürfe glaubwürdig und widerspruchsfrei dargelegt. Der Senat folgt ihren Angaben.
+Die Klienten [[person|Oberländer]] und [[person|Haidegger]] haben die Vorwürfe glaubwürdig und widerspruchsfrei dargelegt. Der Senat folgt ihren Angaben. Der Klient [[person|Oberländer]] hat außerdem die Abrechnungen vorgelegt, die er von der Kanzlei erhalten hat. Diese Abrechnungen enthalten keinen Hinweis auf die Überweisung an das Bauunternehmen, sodass der Klient von dieser Zahlung erst durch eigene Nachfrage Kenntnis erlangte.
 
 IV. Rechtliche Beurteilung
 
 Nach [[legal_norm|§ 1 Abs 1 Z 3 RL-BA]] hat der Rechtsanwalt Fremdgelder getrennt zu verwalten und unverzüglich an den Berechtigten abzuliefern. Auszahlungen ohne Deckung oder ohne Weisung des Klienten verletzen diese Pflicht.
 
-Nach [[legal_norm|§ 1 Abs 2 RL-BA]] ist der Rechtsanwalt verpflichtet, über die Treuhandgelder ordnungsgemäß Rechnung zu legen. Unrichtige Abrechnungen sind daher ein eigenständiges Disziplinarvergehen.
+Nach [[legal_norm|§ 1 Abs 2 RL-BA]] ist der Rechtsanwalt verpflichtet, über die Treuhandgelder ordnungsgemäß Rechnung zu legen. Unrichtige Abrechnungen sind daher ein eigenständiges Disziplinarvergehen. Die Verletzung der Abrechnungspflicht ist auch dann selbständig vorwerfbar, wenn kein Geld fehlt. Im vorliegenden Fall liegen beide Verstöße gemeinsam vor, sodass der Senat sie als Einheit beurteilt und die Strafe einheitlich bemisst.
 
 Die Verwahrung von Klientengeldern dient dem Schutz des Klienten vor dem Zugriff auf sein Vermögen während eines laufenden Geschäfts. Ein Rechtsanwalt, der Gelder aus dem Treuhandkonto ohne Weisung auszahlt, verlässt den Bereich der bloß fahrlässigen Pflichtverletzung, weil er die Verfügungsgewalt über fremde Vermögenswerte in Anspruch nimmt. Der Senat sieht darin eine erhebliche Gefährdung des Vertrauens in den Berufsstand.
 
@@ -84,13 +84,13 @@ V. Strafzumessung
 
 Als mildernd wertet der Senat die bisherige Unbescholtenheit des Beschuldigten und die Rückzahlung der Differenz von EUR 1.200,00 im Mandat [[person|Oberländer]] vor der Verhandlung. Erschwerend wirkt die Vielzahl der Verstöße und die Tatsache, dass der Beschuldigte die Abrechnungen selbst unterfertigt hat.
 
-Die Geldbuße von EUR 5.500,00 entspricht dem Unrechtsgehalt der Taten und der wirtschaftlichen Leistungsfähigkeit des Beschuldigten. Ein Ausschluss aus der Rechtsanwaltschaft kommt nicht in Betracht, weil die Verstöße keine Unredlichkeit im engeren Sinn zeigen. Der Senat hat die Einkommensverhältnisse des Beschuldigten berücksichtigt, die aus den vorgelegten Steuerbescheiden hervorgehen. Eine höhere Geldbuße würde die wirtschaftliche Existenz der Kanzlei gefährden, was im Hinblick auf die Klienten der Kanzlei nicht im Interesse der Rechtspflege läge.
+Die Geldbuße von EUR 5.500,00 entspricht dem Unrechtsgehalt der Taten und der wirtschaftlichen Leistungsfähigkeit des Beschuldigten. Ein Ausschluss aus der Rechtsanwaltschaft kommt nicht in Betracht, weil die Verstöße keine Unredlichkeit im engeren Sinn zeigen. Der Senat hat die Gesamtdauer des Verfahrens von der Anzeige bis zur Verhandlung berücksichtigt. Eine überlange Verfahrensdauer ist nicht eingetreten, sodass daraus keine Milderung abzuleiten ist. Die Kammeranwaltschaft hat die Verfahrensschritte zügig betrieben. Der Senat hat die Einkommensverhältnisse des Beschuldigten berücksichtigt, die aus den vorgelegten Steuerbescheiden hervorgehen. Eine höhere Geldbuße würde die wirtschaftliche Existenz der Kanzlei gefährden, was im Hinblick auf die Klienten der Kanzlei nicht im Interesse der Rechtspflege läge.
 
 Der Beschuldigte hat in seiner letzten Äußerung angegeben, die Kanzlei werde künftig die Treuhandbuchführung durch eine externe Buchhalterin besorgen lassen. Der Senat nimmt dies zur Kenntnis, misst ihm aber für die Strafzumessung keine Bedeutung bei, weil die Verantwortung für die Verwahrung beim Rechtsanwalt bleibt.
 
 VI. Persönliche Verhältnisse und Schlussantrag
 
-Der Beschuldigte ist seit dem [[date|1. September 2009]] in die Liste der Rechtsanwälte eingetragen. Er ist verheiratet und hat zwei minderjährige Kinder. Er betreibt die Kanzlei gemeinsam mit einer Rechtsanwaltsanwärterin, die seit dem [[date|1. März 2024]] angestellt ist. Die Kanzleiräume befinden sich in einem Bürogebäude in Villach, das der Beschuldigte gemietet hat. Der Beschuldigte war bisher disziplinarrechtlich nicht in Erscheinung getreten.
+Der Beschuldigte ist seit dem [[date|1. September 2009]] in die Liste der Rechtsanwälte eingetragen. Er ist verheiratet und hat zwei minderjährige Kinder im Alter von fünf und acht Jahren. Er betreibt die Kanzlei gemeinsam mit einer Rechtsanwaltsanwärterin, die seit dem [[date|1. März 2024]] angestellt ist. Die Kanzleiräume befinden sich in einem Bürogebäude in [[location|Villach]], das der Beschuldigte gemietet hat. Der Beschuldigte war bisher disziplinarrechtlich nicht in Erscheinung getreten.
 
 Im Vorfeld der Verhandlung hat der Beschuldigte eine Stellungnahme vom [[date|2. Februar 2026]] vorgelegt, in der er die Vorwürfe teilweise bestreitet. Die Stellungnahme ist im Akt enthalten und wurde vom Senat berücksichtigt.
 
@@ -98,7 +98,7 @@ Der Kammeranwalt [[person|Dr. Riyaad Wazir]] hat in seinem Schlussantrag auf die
 
 VII. Kosten
 
-Die Kosten des Verfahrens sind dem Beschuldigten aufzuerlegen. Die Kosten setzen sich aus der Verhandlungsgebühr und den Auslagen für die Zeugen [[person|Gerold Pfleger]] und [[person|Kiara Hollerer]] zusammen. Die Kosten des Kammeranwalts sind von der Rechtsanwaltskammer zu tragen und dem Beschuldigten nicht aufzuerlegen.
+Die Kosten des Verfahrens sind dem Beschuldigten aufzuerlegen. Die Kosten setzen sich aus der Verhandlungsgebühr und den Auslagen für die Zeugen [[person|Gerold Pfleger]] und [[person|Kiara Hollerer]] zusammen. Die Kosten des Kammeranwalts sind von der Rechtsanwaltskammer zu tragen und dem Beschuldigten nicht aufzuerlegen. Die Zeugen wurden für ihre Anreise entschädigt; die Höhe der Entschädigung ergibt sich aus den vorgelegten Fahrtkostennachweisen und ist im Kostenverzeichnis ausgewiesen.
 
 Der Beschuldigte kann gegen dieses Erkenntnis binnen zwei Wochen Berufung an die [[court|OBDK]] erheben.
 

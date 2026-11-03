@@ -67,6 +67,14 @@ Das Fahrzeug war bei der [[organization|Pannonia Versicherungs AG]] ([[organizat
 
 Die Schadenabteilung ist unter der Telefonnummer [[phone_number|+43 662 781 70 85 Durchwahl 44]] erreichbar. Eine außergerichtliche Einigung scheiterte an dieser Haltung.
 
+3a. Gutachten zur Schadensfeststellung
+
+Der Sachverständige [[person|Dipl.-Ing. Maximilian Wanko]] hat den Unfallhergang am [[date|21. Mai 2026]] an der Unfallstelle besichtigt und die Sichtverhältnisse in der Kurve vermessen. Nach seinem Gutachten war die Sicht des Erstbeklagten auf den Radweg durch eine Hecke eingeschränkt. Der Sachverständige stellte ferner fest, dass die Schadstelle im Asphalt eine Tiefe von rund vier Zentimetern aufwies und damit die Anforderungen an die Verkehrssicherheit nicht erfüllte.
+
+Die Schadenshöhe stellt sich nach dem Gutachten wie folgt dar: Heilbehandlung und Fahrtkosten EUR 1.800,00, Verdienstentgang EUR 6.250,00, Fahrradreparatur EUR 1.150,00 und Schmerzengeld EUR 9.200,00. Die Summe der Einzelposten ergibt den Klagsbetrag von EUR 18.400,00, wobei das Schmerzengeld in der Klage aus Vorsichtsgründen höher angesetzt wird.
+
+Die klagende Partei hat die beklagten Parteien mit Schreiben vom [[date|12. Mai 2026]] zur Zahlung aufgefordert. Die Erstbeklagte hat auf dieses Schreiben nicht reagiert, die dritte beklagte Partei hat zunächst auf die Zuständigkeit der Landesbehörde verwiesen.
+
 4. Zuständigkeit
 
 Die Zuständigkeit des [[court|BG Baden]] ergibt sich aus dem Ort des Unfalls und aus [[legal_norm|§ 85 JN]]. Der Streitwert liegt im Bereich der Zuständigkeit des Bezirksgerichts nach [[legal_norm|§ 49 Abs 2 Z 5 JN]].
