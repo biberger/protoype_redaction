@@ -45,9 +45,9 @@ GESAMTBETRAG                                                               € 2
 
 Die Barauslagen wurden von [[person|Schumann]] im Namen der Mandantin an das Gericht bezahlt, siehe Zahlungsbeleg vom [[date|10. Februar 2026]].
 
-Die Gegenseite hat am [[date|6. Februar 2026]] schriftlich angeboten, einen Teil der Forderung anzuerkennen. Frau [[person|Janda]] hat dieses Angebot am [[date|9. Februar 2026]] telefonisch abgelehnt. Die Besprechung vom [[date|12. Januar 2026]] betraf die Frage, ob die Klage gegen [[organization|Veit Handels GmbH]] als Gesellschaft oder gegen die Geschäftsführung zu richten ist.
+Die Gegenseite hat am [[date|6. Februar 2026]] schriftlich angeboten, einen Teil der Forderung anzuerkennen. Frau [[person|Janda]] hat dieses Angebot am [[date|9. Februar 2026]] telefonisch abgelehnt. Die Besprechung vom [[date|12. Januar 2026]] betraf die Frage, ob die Klage gegen die beklagte Gesellschaft oder gegen deren Geschäftsführung zu richten ist. Wir haben uns für die Gesellschaft entschieden, weil die Lieferungen von dieser abgerechnet wurden. Dies ist in der Klage ausführlich begründet.
 
-Der Gesamtbetrag ist binnen 14 Tagen ab Erhalt dieser Note auf das Konto [[bank_account|AT11 7952 5414 8950 8337]] zu überweisen. Bitte geben Sie bei der Zahlung die Honorarnote Nr. 2026/0117 an.
+Der Gesamtbetrag ist binnen 14 Tagen ab Erhalt dieser Note auf das Konto [[bank_account|AT11 7952 5414 8950 8337]] zu überweisen. Bitte geben Sie bei der Zahlung die Honorarnote Nr. 2026/0117 an. Für die Kostenersatzpflicht der Gegenseite im Falle eines Obsiegens verweisen wir auf die Kostennote, die dem Schriftsatz vom [[date|19. Januar 2026]] beiliegt. Die verzeichneten Stunden sind in dieser Note bereits nach den Tarifpositionen des RATG berechnet.
 
 Mit freundlichen Grüßen
 
@@ -61,4 +61,4 @@ Beilage: Zahlungsbeleg Bezirksgericht Schärding
 Aufschlüsselung der Barauslagen
 
 Datum        Empfänger                          Verwendungszweck                        Betrag
-10.02.2026   Bezirksgericht Schärding           Pauschalgebühr Klage, GZ [[case_number|2 C 118/25t]]   € 186,00
+10.02.2026   [[court|Bezirksgericht Schärding]]      Pauschalgebühr Klage, GZ [[case_number|2 C 118/25t]]   € 186,00

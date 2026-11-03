@@ -29,6 +29,10 @@ I. Kaufgegenstand
 
 Die Verkäuferin verkauft und übergibt den Käufern die Liegenschaft samt allen wesentlichen Bestandteilen und dem Zubehör. Die Käufer erwerben die Liegenschaft zu ideellen Hälften.
 
+Das Grundstück hat eine Fläche von 1.240 m² und liegt in einer Wohngegend am Ortsrand der Gemeinde [[location|Weppersdorf]]. Das Wohnhaus wurde im Jahr 1978 errichtet und zuletzt im Jahr 2011 umfassend saniert. Die Heizung ist eine Gasbrennwerttherme aus dem Jahr 2016. Die Dachflächen wurden im Jahr 2019 neu gedeckt. Ein Nebengebäude mit einer Garage ist vorhanden; dessen Nutzung ist nicht Gegenstand dieses Vertrages.
+
+Die Verkäuferin hat die Liegenschaft seit dem Jahr 2009 im eigenen Besitz gehabt und selbst bewohnt. Eine Vermietung oder ein sonstiges Nutzungsrecht Dritter besteht nicht, mit Ausnahme der im Grundbuch eingetragenen Dienstbarkeit des Wegerechts zugunsten des Nachbargrundstücks.
+
 II. Kaufpreis
 
 Der Kaufpreis beträgt EUR 485.000,00 und ist binnen vier Wochen nach Unterfertigung auf das Treuhandkonto IBAN [[bank_account|AT52 7742 1332 5868 7200]] zu zahlen. Das Treuhandkonto wird für die Abwicklung unter der Treuhandschaft Nr. [[other_identifier|2023/281]] geführt. Die Kaufpreisschuld ist nicht verzinst.

@@ -36,7 +36,9 @@ Gläubigerin ist [[person|Antónia Šimková]], *[[date_of_birth|01.09.1992]], d
 
 Erben sind nach dem Gesetz die beiden Kinder des Erblassers, die im Nachlassverfahren wie folgt auftreten:
 
-a) [[person|Guda Venema]], GEB: [[date_of_birth|10.12.1946]], wohnhaft in [[address|Schmiedgasse 5, 4553 Schlierbach]], Erbin zu einem Anteil von 1/2;
+a) [[person|Guda
+Venema]], GEB: [[date_of_birth|10.12.1946]], wohnhaft in [[address|Schmiedgasse 5,
+4553 Schlierbach]], Erbin zu einem Anteil von 1/2;
 
 b) [[person|Wilo DI Härtel]], geboren am [[date_of_birth|1952-06-25]], wohnhaft in [[address|Gartenweg 7, 4551 Ternberg]], Erbe zu einem Anteil von 1/2.
 

@@ -67,7 +67,25 @@ Die Mieterin erlegt eine Kaution in Höhe von drei Monatsmieten, somit EUR 1.837
 
 Die Mieterin hat die Wohnung in ordnungsgemäßem Zustand zu erhalten. Kleinreparaturen im Sinne der gesetzlichen Bestimmungen gehen zu Lasten der Mieterin. Größere Schäden sind der Vermieterin unverzüglich anzuzeigen.
 
-§ 7 Schlussbestimmungen
+§ 7 Übergabe und Zustand der Wohnung
+
+1. Die Wohnung wird der Mieterin in dem im Übergabeprotokoll beschriebenen Zustand übergeben. Die Zählerstände für Strom, Gas und Wasser sind im Protokoll festgehalten.
+
+2. Die Vermieterin übergibt der Mieterin zwei Schlüssel für die Wohnungseingangstür, einen Schlüssel für die Haustür und einen Schlüssel für den Kellerabstellraum. Der Verlust eines Schlüssels ist unverzüglich zu melden.
+
+3. Die Mieterin bestätigt, dass ihr die Hausordnung übergeben wurde und dass sie diese einhält.
+
+§ 8 Haustiere, Untervermietung und Benützung
+
+1. Die Haltung von Kleintieren, die in der Wohnung gehalten werden und die anderen Mietern nicht stören, ist gestattet. Die Haltung größerer Tiere bedarf der schriftlichen Zustimmung der Vermieterin.
+
+2. Die Mieterin darf die Wohnung nur mit Zustimmung der Vermieterin ganz oder teilweise einem Dritten überlassen. Die Zustimmung darf nur aus wichtigen Gründen verweigert werden.
+
+3. Gemeinschaftliche Einrichtungen wie der Waschraum, der Trockenraum und der Hof sind von allen Mietern schonend zu benützen. Das Abstellen von Fahrzeugen im Hof ist nur auf den dafür vorgesehenen Flächen gestattet.
+
+4. Die Vermieterin ist berechtigt, die Wohnung nach vorheriger Ankündigung von mindestens acht Werktagen zu besichtigen, wenn dies für Erhaltungsarbeiten erforderlich ist.
+
+§ 9 Schlussbestimmungen
 
 1. Änderungen dieses Vertrags bedürfen der Schriftform.
 

@@ -80,6 +80,11 @@ Mildernd war die bisherige Unbescholtenheit und die Abrechnung im Verfahren. Ers
 
 Gegen dieses Erkenntnis steht den Parteien die Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] offen. Die Berufung ist binnen vier Wochen ab Zustellung bei dem [[court|Disziplinarrat der Tiroler Rechtsanwaltskammer]] einzubringen.
 
+Zustellanschrift der Beschuldigten:
+[[address|8973 Pichl-Preunegg]]
+
+Kammeranwaltschaft, Tel. [[phone_number|+43-2622-2477740 DW 450]]
+
 [[location|St. Ruprecht an der Raab]], am [[date|28.05.2026]]
 
 Für die Richtigkeit der Ausfertigung:
