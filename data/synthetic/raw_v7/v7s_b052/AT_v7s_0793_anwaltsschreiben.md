@@ -17,7 +17,7 @@ An
 c/o [[organization|Schmelzer Immobilien GmbH]], [[company_register_number|FN 325433d]]
 UID [[tax_id|ATU73957612]]
 
-Unser Zeichen: [[other_identifier|Vers.-Nr. 65-8660157]]
+Unser Zeichen: Vers.-Nr. [[other_identifier|65-8660157]]
 
 Betreff: Verkehrsunfall vom [[date|11.03.2026]] in [[location|St. Veit an der Glan]], Fahrzeug [[license_plate|HO-34 TC]]
 
@@ -31,7 +31,9 @@ Die [[organization|Schmelzer Immobilien GmbH]] (in der Folge [[organization|SIG]
 mit Schreiben vom [[date|20.03.2026]] anerkannt. Die Höhe des Schadens ist jedoch strittig, weil die SIG
 die Reparaturkosten nur teilweise übernehmen will.
 
-Die Mitfahrerin [[person|Tiblad Hass]], [[nationality]] Afghanistan, hat ebenfalls Verletzungen erlitten. Herr
+Der Mitfahrer [[person|Tiblad Hass]], StA: [[country|Afghanistan]], hat ebenfalls Verletzungen erlitten und
+befindet sich seit dem Unfall in ärztlicher Behandlung. Der Lenker des Fahrzeugs der [[organization|Schmelzer]]
+hat nach dem Unfall keine Unfallmeldung an die Polizei erstattet, sondern den Vorfall nur der SIG gemeldet. Herr
 [[person|Abdul-Halim Farid]], geboren am [[date_of_birth|1967-06-26]], ist Zeuge des Unfalls und hat die
 Position der Fahrzeuge fotografiert.
 

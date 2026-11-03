@@ -53,9 +53,9 @@ Herr [[person|Tomaschek]] hat als Sachverständiger den Verkehrswert der Liegens
 
 Die Notarin [[lawyer|Dr. Ilse Stadlbauer]] hat die Lastenfreistellung bereits geprüft. Ich ersuche Sie, die Kaufvertragsentwürfe bis zum Ende der Woche durchzusehen und mir die Anmerkungen zu Gewährleistung und Übergabe zu übermitteln.
 
-Frau [[person|Christine Hölzl]] aus meinem Büro hat die Unterlagen zur Liegenschaft bereits in die Akte aufgenommen und die Fristen im Kalender eingetragen. Die Frist für die Anfechtung läuft am [[date|25. September 2026]] ab. Bitte teilen Sie mir mit, ob die Magnus Handels GmbH die Vertragsänderung unterschreiben möchte oder ob wir die Klage vorbereiten sollen.
+Frau [[person|Christine Hölzl]] aus meinem Büro hat die Unterlagen zur Liegenschaft bereits in die Akte aufgenommen und die Fristen im Kalender eingetragen. Die Frist für die Anfechtung läuft am [[date|25. September 2026]] ab. Bitte teilen Sie mir mit, ob die [[organization|Magnus Handels GmbH]] die Vertragsänderung unterschreiben möchte oder ob wir die Klage vorbereiten sollen.
 
-Die Schreiben von [[lawyer|Rastl]] sind aus meiner Sicht unbegründet. Ein Teil der Kaufpreisforderung betrifft das Fahrzeug, das Teil des Kaufvertrages war, nicht aber der Liegenschaftskauf. Die Magnus Handels GmbH sollte daher auf eine getrennte Abrechnung bestehen.
+Die Schreiben von [[lawyer|Rastl]] sind aus meiner Sicht unbegründet. Ein Teil der Kaufpreisforderung betrifft das Fahrzeug, das Teil des Kaufvertrages war, nicht aber der Liegenschaftskauf. Die [[organization|Magnus Handels GmbH]] sollte daher auf eine getrennte Abrechnung bestehen.
 
 Mit freundlichen Grüßen
 

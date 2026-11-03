@@ -41,7 +41,7 @@ Die Verhandlung vom [[date|09.07.2025]] dauerte rund vier Stunden. Der Beschuldi
 
 II. Sachverhalt
 
-Der Beschuldigte vertrat die Klientin [[person|Stadlmann]] ab dem Jahr 2022 in einer Erbsache. Zur Abwicklung der Zahlungen führte er ein Anderkonto. Die Klientin wohnt in [[address|4642 Sattledt]]. Ihre Erreichbarkeit ist im Verfahren mit der Telefonnummer Tel. [[phone_number|+43-2742-8600638-72]] dokumentiert. Die Kanzlei führte die Akten unter der GZ der Kanzlei: [[other_identifier|M/Österreicher/470]].
+Der Beschuldigte vertrat die Klientin [[person|Stadlmann]] ab dem Jahr 2022 in einer Erbsache. Zur Abwicklung der Zahlungen führte er ein Anderkonto. Die Klientin wohnt in [[address|4642 Sattledt]]. Ihre Erreichbarkeit ist im Verfahren unter Tel. [[phone_number|+43-2742-8600638-72]] dokumentiert. Die Kanzlei führte die Akten unter der GZ der Kanzlei: [[other_identifier|M/Österreicher/470]].
 
 Die Kontobewegungen im Zusammenhang mit der Erbsache stellen sich wie folgt dar:
 
@@ -71,7 +71,11 @@ V. Strafbemessung
 
 Mildernd wurde die Schadensgutmachung im Umfang von EUR 2.900,00 berücksichtigt, die der Beschuldigte nach der Zustellung der Anzeige geleistet hat. Erschwerend war die Dauer der Abrechnungsverzögerung und die Zahl der Buchungen ohne Auftrag. Eine frühere Disziplinarverurteilung liegt nicht vor.
 
-Die Geldbuße erscheint im Hinblick auf die Einkommensverhältnisse des [[lawyer|Österreicher]] angemessen. Die Kosten wurden entsprechend dem Ausgang des Verfahrens verteilt.
+Die Geldbuße erscheint im Hinblick auf die Einkommensverhältnisse des [[lawyer|Österreicher]] angemessen. Er gab in der Verhandlung an, seine Kanzlei habe im Jahr 2023 einen Umsatzrückgang von etwa einem Drittel verzeichnet und zwei Mitarbeiterinnen seien weggefallen. Der Senat hat dies berücksichtigt, jedoch nicht als Entschuldigung für die Buchungen ohne Auftrag gewertet.
+
+Die Kosten wurden entsprechend dem Ausgang des Verfahrens verteilt. Die von der [[organization|RAK Wien]] vorgelegte Kostenaufstellung umfasst die Gebühren für die Zustellung, die Dolmetscherkosten für die schriftliche Befragung der Miterbin und die Reisekosten des Kammeranwalts. Die Kostenaufstellung wurde vom Senat in dieser Höhe anerkannt.
+
+Der Senat weist darauf hin, dass ein Anderkonto ausschließlich für Gelder bestimmt ist, die im Rahmen einer Rechtsvertretung anvertraut werden. Eine Verwendung für eigene Zwecke, auch in der Form einer vorläufigen Honorarentnahme, ist unzulässig.
 
 VI. Rechtsmittelbelehrung
 
