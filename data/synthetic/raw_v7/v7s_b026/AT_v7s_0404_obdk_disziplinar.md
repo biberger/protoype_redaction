@@ -70,6 +70,10 @@ Datum | Vorgang | Betrag | Treuhandschaft
 
 6p. Die Beschuldigte hat in der Verhandlung eine Bestätigung ihres Steuerberaters vorgelegt, wonach die Umbuchung vom [[date|2. März 2026]] der Abgrenzung von Vorauszahlungen diente. Der Senat wertet diese Bestätigung als nicht ausreichend, weil sie keine Buchungsbelege enthält.
 
+6q. Die Kammer hat die Kanzlei nach der Prüfung zur Vorlage sämtlicher Überweisungen seit Jänner 2026 aufgefordert. Die Beschuldigte hat die Unterlagen erst nach einer Mahnung vorgelegt.
+
+6r. Die Beschuldigte hat im Verfahren erklärt, sie habe das Treuhandkonto nach der Anzeige geschlossen. Die Kammer hat die Schließung bestätigt; ein neues Konto wurde nicht eröffnet.
+
 Rechtliche Beurteilung
 
 7. Nach [[legal_norm|§ 43a Abs 5 RAO]] sind Treuhandgelder getrennt vom eigenen Vermögen zu verwahren. Die Umbuchung der Zahlung vom [[date|2. März 2026]] vom Kanzleikonto auf das Treuhandkonto ist eine Vermischung, auch wenn sie nach Darstellung der Beschuldigten versehentlich erfolgte.
@@ -88,7 +92,9 @@ Rechtliche Beurteilung
 
 14. Die Zustellung dieses Beschlusses an die Treuhandgeberin [[person|Dolores Trattnig]] erfolgt durch die Kammer.
 
-15. Die Beschuldigte wird aufgefordert, die Treuhandbuchführung für die Dauer von sechs Monaten durch die Kammer überprüfen zu lassen.
+15. Die Beschuldigte wird aufgefordert, die Treuhandbuchführung für die Dauer von sechs Monaten durch die Kammer überprüfen zu lassen. Die Kosten dieser Überprüfung trägt die Beschuldigte.
+
+16. Der Beschluss wird mit Rechtskraft in die Liste der Disziplinarentscheidungen aufgenommen, soweit dies die Verschwiegenheitspflicht zulässt.
 
 [[location|Klagenfurt am Wörthersee]], am [[date|21. April 2026]]
 

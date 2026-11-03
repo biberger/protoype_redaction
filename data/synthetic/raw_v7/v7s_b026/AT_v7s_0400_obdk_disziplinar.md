@@ -65,7 +65,7 @@ Rechtliche Beurteilung
 
 17. Die Beschuldigte hat vorgebracht, die Buchhaltung sei zeitweise durch eine Hilfskraft geführt worden. Der Senat hält fest, dass dies die persönliche Verantwortung des Rechtsanwalts für die Treuhandgelder nicht ändert. Die Beschuldigte hat den Namen der Hilfskraft nicht genannt.
 
-18. Dieser Spruch ist den Parteien und der [[organization|StRAK]] zuzustellen. Eine Abschrift ergeht an die Kammeranwältin.
+18. Dieser Spruch ist den Parteien und der [[organization|StRAK]] zuzustellen. Eine Abschrift ergeht an die Kammeranwältin. Die Frist für eine allfällige Berufung beginnt mit der Zustellung.
 
 [[location|Graz]], am [[date|17. Oktober 2026]]
 

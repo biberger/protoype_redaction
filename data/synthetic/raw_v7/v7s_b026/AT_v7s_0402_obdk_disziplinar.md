@@ -77,7 +77,7 @@ Rechtliche Beurteilung
 
 18. Die Entscheidung über die Strafe ist einstimmig gefasst. Der Vorsitzende hat die Begründung im Anschluss an die Verhandlung verlesen und den Parteien ausgehändigt. Die Beisitzerinnen haben der Entscheidung ohne abweichende Meinung zugestimmt.
 
-19. Die Kammer wird die Umsetzung der Auflagen durch die Kanzlei in einem Jahr überprüfen.
+19. Die Kammer wird die Umsetzung der Auflagen durch die Kanzlei in einem Jahr überprüfen. Die Kanzlei hat bis dahin einen Bericht vorzulegen.
 
 [[location|Wien]], am [[date|8. Juni 2026]]
 

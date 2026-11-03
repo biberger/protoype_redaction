@@ -35,6 +35,10 @@ Der Kammeranwalt [[person|Dr. Viktorian Krings]] stellte den Antrag auf Verhäng
 
 Der Disziplinarrat sieht diese Behauptung als nicht erwiesen an. Der Vorbehalt wurde weder schriftlich festgehalten noch dem Mandanten mitgeteilt. Die Zeugin hat hierzu angegeben, dass die Zahlung ohne Bemerkung erfolgte.
 
+Der Disziplinarrat hat die Angaben des Beschuldigten zur angeblichen Zahlungsvereinbarung eingehend geprüft. Die vorgelegten Schreiben der Gegenseite enthalten keinen Hinweis auf einen Vorbehalt oder eine Zurückbehaltung. Auch die Kontoauszüge des Anderkontos zeigen, dass die Zahlung vom [[date|10.11.2022]] ohne Einschränkung gutgeschrieben wurde. Eine Verwendung des Betrages für eigene Zwecke ist in den Unterlagen nicht dokumentiert, der Beschuldigte hat solche Zwecke auch nicht behauptet.
+
+Die Abrechnung, die der Beschuldigte im Verfahren vorgelegt hat, datiert vom [[date|12.05.2025]] und ist damit mehr als zwei Jahre nach dem Zahlungseingang erstellt worden. Sie enthält keine Belege über Leistungen, die nach der Zahlung erbracht worden wären. Der Disziplinarrat hält fest, dass die nachträgliche Abrechnung die Verzögerung nicht rechtfertigt.
+
 Der Mandant [[person|Dragoj Yoshev]] bestätigte, dass er den Restbetrag erst nach Einschaltung der Kammer erhalten habe. Er gab an, dass [[lawyer|Kanaris]] ihm gegenüber mehrfach auf die bevorstehende Auszahlung verwiesen habe, ohne dass eine solche erfolgt sei.
 
 Mildernd wurde berücksichtigt, dass [[lawyer|Kanaris]] die Restsumme nach Einleitung des Verfahrens vollständig an den Mandanten überwiesen hat. Bisher ist keine disziplinäre Vorstrafe aktenkundig. Erschwerend wurde gewertet, dass der Beschuldigte die Abrechnung über mehrere Monate verzögerte.

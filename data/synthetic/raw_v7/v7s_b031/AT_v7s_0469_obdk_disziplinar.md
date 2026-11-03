@@ -92,7 +92,7 @@ Die Kosten des Verfahrens trägt der Beschuldigte gemäß [[legal_norm|§ 52 Abs
 
 **Rechtsmittelbelehrung**
 
-Gegen dieses Erkenntnis ist eine Revision an den Obersten Gerichtshof zulässig. Sie ist binnen vier Wochen ab Zustellung bei der [[court|OBDK]] einzubringen.
+Gegen dieses Erkenntnis ist eine Revision an den [[court|Obersten Gerichtshof]] zulässig. Sie ist binnen vier Wochen ab Zustellung bei der [[court|OBDK]] einzubringen.
 
 Für Rückfragen ist die Kammeranwaltschaft unter Tel. [[phone_number|02622/9897897-0]] erreichbar.
 

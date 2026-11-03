@@ -52,9 +52,9 @@ Ein Verwertungsverbot der Angaben ist nicht gegeben, da die Befragung ordnungsge
 
 Die Schätzung des Schadens durch die Beamten beträgt EUR 9.500,00 am PKW und EUR 4.200,00 am Kombi. Diese Schätzung ist nicht verbindlich und ersetzt kein Sachverständigengutachten. Die Beteiligten wurden auf den Zivilrechtsweg verwiesen.
 
-Die Halterin des Kombis, [[person|Gertraud Anderle]], ist die Ehefrau des Lenkers; das Fahrzeug ist auf sie zugelassen. Die Halterin wurde telefonisch von der Unfallaufnahme verständigt und hat angegeben, dass sie den Versicherungsschutz für das Fahrzeug selbst bestätigen werde. Die Verständigung der Versicherung erfolgt durch die Halterin.
+Die Halterin des Kombis, [[person|Gertraud Anderle]], ist die Ehefrau des Lenkers; das Fahrzeug ist auf sie zugelassen. Die Halterin wurde telefonisch von der Unfallaufnahme verständigt und hat angegeben, dass sie den Versicherungsschutz für das Fahrzeug selbst bestätigen werde. Die Verständigung der Versicherung erfolgt durch die Halterin. Die Polizei wird der Versicherung eine Abschrift übersenden.
 
-Die Beamten haben den Lenker des Kombis über die Verpflichtung zur Vorlage des Führerscheins und des Zulassungsscheins belehrt. Beide Urkunden wurden am Unfallort vorgelegt und zur Kopie sichergestellt. Der Lenker des PKW war zum Zeitpunkt des Unfalls im Besitz der Lenkberechtigung; eine Überprüfung im Zentralen Melderegister ergab keine Einträge. Die Gemeinde wurde um Auskunft über die Steuerung der Ampelanlage ersucht.
+Die Beamten haben den Lenker des Kombis über die Verpflichtung zur Vorlage des Führerscheins und des Zulassungsscheins belehrt. Beide Urkunden wurden am Unfallort vorgelegt und zur Kopie sichergestellt. Der Lenker des PKW war zum Zeitpunkt des Unfalls im Besitz der Lenkberechtigung; eine Überprüfung im Zentralen Melderegister ergab keine Einträge. Die Gemeinde wurde um Auskunft über die Steuerung der Ampelanlage ersucht. Die Antwort wird nachgereicht.
 
 Der Lenkerin [[person|Jerzabek]] wurde angeboten, sich im Rettungsfahrzeug untersuchen zu lassen. Sie hat dies abgelehnt und ist nach eigenen Angaben am Folgetag bei ihrer Hausärztin gewesen. Ein ärztlicher Befund liegt der Anzeige nicht bei.
 

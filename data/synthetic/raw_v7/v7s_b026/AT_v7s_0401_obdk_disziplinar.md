@@ -77,7 +77,7 @@ Rechtliche Beurteilung
 
 19. Die Zustellung dieses Spruchs erfolgt an die Beschuldigte, an die Kammeranwältin, an die Verkäuferin und an die Käuferin, soweit sie Parteistellung haben.
 
-20. Die Verfahrenskosten werden nach dem Umfang der Beweisaufnahme bemessen; die Beschuldigte hat den Betrag innerhalb von vier Wochen zu zahlen.
+20. Die Verfahrenskosten werden nach dem Umfang der Beweisaufnahme bemessen; die Beschuldigte hat den Betrag innerhalb von vier Wochen zu zahlen. Die Zahlung ist auf das Konto der Kammer zu leisten.
 
 [[location|Graz]], am [[date|2. Juli 2026]]
 

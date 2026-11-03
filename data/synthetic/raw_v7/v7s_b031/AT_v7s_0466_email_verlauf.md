@@ -22,13 +22,13 @@ Gesendet: Montag, [[date|14. September 2026]], 09:12
 An: [[person|Florentin Kienesberger]] <[[email|f.kienesberger@frankenstein.at]]>
 Betreff: AW: Wasserschaden Ollersdorf, Zeichen [[other_identifier|174/20 MT]]
 
-Sehr geehrter Herr Kienesberger!
+Sehr geehrter Herr [[person|Kienesberger]]!
 
 Wir bestätigen den Eingang Ihres Schreibens vom [[date|2. September 2026]] betreffend den Wasserschaden in der Liegenschaft Ihres Mandanten in [[address|7533 Ollersdorf im Burgenland]]. Unsere Mandantin, die [[organization|Forsthuber Immobilien GmbH]] (im Folgenden „[[organization|FIG]]“), hat den Vorgang intern geprüft.
 
-Nach den vorliegenden Unterlagen wurde die Schadensursache nicht in der Sphäre der FIG gesetzt. Die Leitung im Wirtschaftsgebäude der Nachbarliegenschaft war zum Zeitpunkt der Übergabe nach dem Protokoll vom [[date|14. Juni 2025]] in Ordnung. Wir lehnen daher eine Haftung der FIG dem Grunde nach ab.
+Nach den vorliegenden Unterlagen wurde die Schadensursache nicht in der Sphäre der [[organization|FIG]] gesetzt. Die Leitung im Wirtschaftsgebäude der Nachbarliegenschaft war zum Zeitpunkt der Übergabe nach dem Protokoll vom [[date|14. Juni 2025]] in Ordnung. Wir lehnen daher eine Haftung der [[organization|FIG]] dem Grunde nach ab.
 
-Der Sitz der FIG befindet sich in [[location|St. Pölten]]; die Hausverwaltung wird von dort aus geführt. Die Schadensmeldung haben wir an unsere Haftpflichtversicherung weitergeleitet, bei der wir die Angelegenheit nach Eingang Ihrer Forderung ebenfalls angezeigt haben, die Schadennummer [[other_identifier|67/162691/21]] wurde dort vergeben. Ihre Schadensberechnung vom [[date|28. August 2026]] haben wir zur Kenntnis genommen, eine Anerkennung kann jedoch nicht erfolgen. Auch die Positionen für die Trocknung und die Ersatzbeschaffung der Bodenbeläge sind aus unserer Sicht nicht nachvollziehbar, weil keine Belege beiliegen.
+Der Sitz der [[organization|FIG]] befindet sich in [[location|St. Pölten]]; die Hausverwaltung wird von dort aus geführt. Die Schadensmeldung haben wir an unsere Haftpflichtversicherung weitergeleitet, bei der wir die Angelegenheit nach Eingang Ihrer Forderung ebenfalls angezeigt haben, die Schadennummer [[other_identifier|67/162691/21]] wurde dort vergeben. Ihre Schadensberechnung vom [[date|28. August 2026]] haben wir zur Kenntnis genommen, eine Anerkennung kann jedoch nicht erfolgen. Auch die Positionen für die Trocknung und die Ersatzbeschaffung der Bodenbeläge sind aus unserer Sicht nicht nachvollziehbar, weil keine Belege beiliegen.
 
 Mit freundlichen Grüßen
 
@@ -45,15 +45,15 @@ Gesendet: Donnerstag, [[date|17. September 2026]], 18:40
 An: [[person|Florentin Kienesberger]] <[[email|f.kienesberger@frankenstein.at]]>
 Betreff: AW: Wasserschaden Ollersdorf
 
-Lieber Herr Kienesberger,
+Lieber Herr [[person|Kienesberger]],
 
 ich habe den Brief der Gegenseite gelesen und kann das nicht so stehen lassen. Die Feuchtigkeit ist im Keller schon seit dem Frühjahr sichtbar. Ich habe die Stelle fotografiert, die Bilder hänge ich an.
 
-> Am [[date|14.09.2026]] schrieb Alkistis Mag. Dr. Mitrou:
-> Wir lehnen daher eine Haftung der FIG dem Grunde nach ab.
-> Die Schadennummer 67/162691/21 wurde dort vergeben.
+> Am [[date|14.09.2026]] schrieb [[person|Alkistis Mag. Dr. Mitrou]]:
+> Wir lehnen daher eine Haftung der [[organization|FIG]] dem Grunde nach ab.
+> Die Schadennummer [[other_identifier|67/162691/21]] wurde dort vergeben.
 
-Die [[person|Mitrou]] schreibt, dass die Leitung in Ordnung war. Das stimmt nicht. Der Installateur war im März bei uns und hat die Muffe getauscht, der Sachverständige Dominik Rohrbacher hat das in seiner Rechnung vom [[date|03.03.2026]] bestätigt. Die Rechnung hänge ich an, bitte sagen Sie mir, ob das reicht. Die Trocknung im Keller hat im Frühjahr zwei Wochen gedauert. Die Firma [[organization|Trockenbau Hauer]] hat die Platten im Keller danach abgeschlagen und neu verputzt, die Rechnung dafür kommt noch. Außerdem habe ich mit meiner Frau besprochen, dass wir den Keller nicht mehr vermieten wollen, bis die Sache geklärt ist.
+Die [[person|Mitrou]] schreibt, dass die Leitung in Ordnung war. Das stimmt nicht. Der Installateur war im März bei uns und hat die Muffe getauscht, der Sachverständige [[person|Dominik Rohrbacher]] hat das in seiner Rechnung vom [[date|03.03.2026]] bestätigt. Die Rechnung hänge ich an, bitte sagen Sie mir, ob das reicht. Die Trocknung im Keller hat im Frühjahr zwei Wochen gedauert. Die Firma [[organization|Trockenbau Hauer]] hat die Platten im Keller danach abgeschlagen und neu verputzt, die Rechnung dafür kommt noch. Außerdem habe ich mit meiner Frau besprochen, dass wir den Keller nicht mehr vermieten wollen, bis die Sache geklärt ist.
 
 Mit lieben Grüßen
 [[person|Salomo Schönauer]]
@@ -72,7 +72,7 @@ Sehr geehrte Frau [[person|Mag. Dr. Mitrou]],
 
 wir danken für Ihr Schreiben vom [[date|14. September 2026]]. Unser Mandant bestreitet die Sachverhaltsdarstellung Ihrer Mandantin nachdrücklich. Die Feuchtigkeit ist nach seinen Angaben seit dem Frühjahr 2026 sichtbar; die Muffe der Leitung wurde laut Rechnung des Sachverständigen [[person|Dominik Rohrbacher]] am [[date|3. März 2026]] getauscht.
 
-Wir ersuchen die FIG, bis [[date|6. Oktober 2026]] die Wartungsprotokolle des Wirtschaftsgebäudes vorzulegen. Andernfalls wird die Klage beim [[court|Bezirksgericht Mödling]] eingebracht. Die Klage bezieht sich auf die Schadenssumme laut Beilage 3 und wird zusätzlich die Kosten der Trocknung umfassen, die [[person|Rohrbacher]] mit rund 2.400 Euro netto beziffert hat.
+Wir ersuchen die [[organization|FIG]], bis [[date|6. Oktober 2026]] die Wartungsprotokolle des Wirtschaftsgebäudes vorzulegen. Andernfalls wird die Klage beim [[court|Bezirksgericht Mödling]] eingebracht. Die Klage bezieht sich auf die Schadenssumme laut Beilage 3 und wird zusätzlich die Kosten der Trocknung umfassen, die [[person|Rohrbacher]] mit rund 2.400 Euro netto beziffert hat.
 
 Mit freundlichen Grüßen
 
@@ -91,7 +91,7 @@ Gesendet: Mittwoch, [[date|30. September 2026]], 14:21
 An: [[person|Florentin Kienesberger]] <[[email|f.kienesberger@frankenstein.at]]>
 Betreff: AW: Wasserschaden Ollersdorf, Zeichen [[other_identifier|174/20 MT]]
 
-Sehr geehrter Herr Kienesberger,
+Sehr geehrter Herr [[person|Kienesberger]],
 
 die [[organization|FIG]] hat die gewünschten Wartungsprotokolle nicht vorliegen, weil das Wirtschaftsgebäude zwischen dem [[date|1. Juli 2025]] und dem [[date|31. Mai 2026]] an einen Dienstleister verpachtet war. Ein Wartungsvertrag wurde nicht abgeschlossen. Das Verschulden trifft die [[organization|Forsthuber]] daher nicht.
 
