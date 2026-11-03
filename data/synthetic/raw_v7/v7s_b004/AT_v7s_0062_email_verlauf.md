@@ -25,7 +25,7 @@ Sehr geehrter Herr Kollege [[lawyer|Hinterleitner]],
 
 in der Streitsache vor dem [[court|Bezirksgericht Melk]] übermittle ich die Ergänzung meiner Mandantschaft zur Klagsbeantwortung. Die Liegenschaft [[land_register_id|KG: 57055 Schoppernau]] / Einlagezahl [[land_register_id|3287]], Grundstück [[land_register_id|1197]] wurde im Jahr 2019 vom Vater meines Mandanten übertragen, weshalb die Verjährung aus Sicht der Gegenseite nicht eingetreten ist.
 
-Ich bitte um Stellungnahme bis zum [[date|20. November 2025]]. Für Rückfragen erreichen Sie mich unter der Nummer [[phone_number|01/7516367 DW 711]].
+Ich bitte um Stellungnahme bis zum [[date|20. November 2025]]. Für Rückfragen erreichen Sie mich unter Tel. [[phone_number|01/7516367 DW 711]].
 
 Ergänzend weise ich darauf hin, dass die Grundsteuervorschreibungen der Gemeinde für die Jahre 2019 bis 2022 auf den Namen des Vaters meines Mandanten lauten. Eine Zahlung durch Frau [[person|Stockinger]] ist daher bisher nicht nachgewiesen. Sollte Ihre Mandantin anderes behaupten, ersuche ich um Vorlage der Zahlungsbelege bis zur Tagsatzung.
 

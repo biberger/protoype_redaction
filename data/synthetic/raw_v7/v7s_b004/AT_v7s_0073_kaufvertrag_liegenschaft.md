@@ -55,7 +55,7 @@ Die Verkäuferin erteilt der Käuferin die Einwilligung in die Einverleibung des
 
 **V. Übergabe, Gewährleistung und Nebenabreden**
 
-Die Übergabe erfolgt mit Zahlungseingang. Die Verkäuferin haftet für die Lastenfreiheit der Liegenschaft. Die Käufer erklären, die Liegenschaft besichtigt zu haben und ihren Zustand zu kennen. Der Übergabetermin wird zwischen den Parteien einvernehmlich festgelegt und schriftlich bestätigt. Mit der Übergabe gehen Nutzen und Gefahr auf die Käufer über.
+Die Übergabe erfolgt mit Zahlungseingang. Die Verkäuferin haftet für die Lastenfreiheit der Liegenschaft. Für Mängel der Bausubstanz wird keine Haftung übernommen; die Käufer haben das Gebäude mit einem Sachverständigen besichtigt, dessen Bericht dem Vertrag nicht beigelegt ist. Die Käufer erklären, die Liegenschaft besichtigt zu haben und ihren Zustand zu kennen. Der Übergabetermin wird zwischen den Parteien einvernehmlich festgelegt und schriftlich bestätigt. Mit der Übergabe gehen Nutzen und Gefahr auf die Käufer über.
 
 Die Verkäuferin erklärt, dass auf der Liegenschaft keine Mietverhältnisse bestehen. Ein Wegerecht zugunsten der Nachbarparzelle besteht nicht. Die Verkäuferin übergibt die Unterlagen über die Wasser- und Stromanschlüsse; die Käufer bestätigen den Erhalt.
 
@@ -63,7 +63,7 @@ Die [[organization|Gemeinde Galtür]] hat mit Schreiben vom [[date|12. September
 
 **VI. Schlussbestimmungen**
 
-Änderungen dieses Vertrages bedürfen der Schriftform. Es gilt österreichisches Recht, insbesondere das [[legal_norm|ABGB]] und das [[legal_norm|Grundbuchsgesetz]]. Sollten einzelne Bestimmungen unwirksam sein, bleibt der Vertrag im Übrigen wirksam.
+Änderungen dieses Vertrages bedürfen der Schriftform. Nebenabreden bestehen nicht. Die Vertragsparteien bestätigen, dass die Vertragsurkunde in zwei Ausfertigungen erstellt wurde, von denen je eine den Parteien übergeben wird. Es gilt österreichisches Recht, insbesondere das [[legal_norm|ABGB]] und das [[legal_norm|Grundbuchsgesetz]]. Sollten einzelne Bestimmungen unwirksam sein, bleibt der Vertrag im Übrigen wirksam.
 
 **VII. Kosten und Gebühren**
 
@@ -119,19 +119,20 @@ Rechtsanwalt
 
 [[person|ROSBAUD ARND]] – [[person|CHODAKOWSKA ROZYCZKA]] – Treuhandbuch-Nr. [[other_identifier|2022/172]]
 
-Die Eintragungsgebühr wurde am [[date|2. Oktober 2025]] entrichtet. Der Treuhandbetrag wurde auf dem Konto der [[organization|Raiffeisenbank Friedberg]] verwahrt, bis die Lastenfreistellung erfolgt war.
+Die Eintragungsgebühr wurde am [[date|2. Oktober 2025]] entrichtet. Die Grunderwerbsteuer wurde über das Abgabenkonto der Käufer abgewickelt. Die Abrechnung wird dem Treuhänder zur Kenntnis gebracht. Der Treuhandbetrag wurde auf dem Konto der [[organization|Raiffeisenbank Friedberg]] verwahrt, bis die Lastenfreistellung erfolgt war.
 
 **IX. Anlagen**
 
 ./1 Grundbuchsauszug zu [[land_register_id|EZ2471]] vom [[date|8. September 2025]]
 ./2 Vollmacht der Verkäuferin vom [[date|2. September 2025]]
 ./3 Energieausweis des Wohnhauses
+./4 Bestätigung der Hausverwaltung vom [[date|10. September 2025]]
 
 **X. Begleitschreiben**
 
 Sehr geehrte Frau [[person|Decker]], sehr geehrte Frau [[person|Chodakowska]], sehr geehrter Herr [[person|Rosbaud]],
 
-beiliegend übermitteln wir Ihnen je ein Exemplar des unterfertigten Kaufvertrages. Für Rückfragen stehen wir unter Tel. [[phone_number|02742 579546-6]] zur Verfügung. Unser Zeichen: [[other_identifier|TA/Decker/4032]]. Bitte senden Sie uns die Originale der Ausweisdokumente zur Kopie zurück, sofern Sie diese nicht bereits übermittelt haben. Der Kaufpreis ist bis zum Ablauf der Frist auf das oben genannte Konto zu überweisen; eine Zahlung an Dritte entfaltet keine befreiende Wirkung.
+beiliegend übermitteln wir Ihnen je ein Exemplar des unterfertigten Kaufvertrages. Für Rückfragen stehen wir unter Tel. [[phone_number|02742 579546-6]] zur Verfügung. Die Vertragsexemplare werden auf Wunsch auch elektronisch übermittelt; eine Unterschrift auf den elektronischen Ausfertigungen ist jedoch nicht erforderlich. Die Käufer bestätigen den Erhalt des Begleitschreibens mit ihrer Unterschrift auf der Kopie. Unser Zeichen: [[other_identifier|TA/Decker/4032]]. Bitte senden Sie uns die Originale der Ausweisdokumente zur Kopie zurück, sofern Sie diese nicht bereits übermittelt haben. Der Kaufpreis ist bis zum Ablauf der Frist auf das oben genannte Konto zu überweisen; eine Zahlung an Dritte entfaltet keine befreiende Wirkung.
 
 Mit freundlichen Grüßen
 

@@ -34,7 +34,7 @@ Heintel]], geboren am [[date_of_birth|07.10.2000]]
 
 vertreten. Mein Mandant wurde am [[date|8. Juli 2025]] beim Einfahren in den Kreisverkehr von Ihrem Mandanten [[person|DI Zenek Podgórski]] gestreift. Der Unfall ereignete sich in [[location|St. Florian]], als Ihr Mandant den Vorrang meines Mandanten missachtete.
 
-Der Schaden am Fahrzeug meines Mandanten beläuft sich nach dem Kostenvoranschlag der Werkstatt auf EUR 3.980,00. Darüber hinaus wurde ein Zaun auf der Liegenschaft [[land_register_id|2826/Unterstinkenbrunn]], [[land_register_id|GSt-Nr. 1309/2]] beschädigt, dessen Wiederherstellung EUR 1.240,00 kostet. Die Reparatur des Fahrzeugs wurde bereits durchgeführt, die Rechnung der Werkstatt liegt bei. Die Werkstatt hat für die Dauer von zwölf Tagen einen Mietwagen bereitgestellt; die Mietkosten belaufen sich auf EUR 1.460,00.
+Der Schaden am Fahrzeug meines Mandanten beläuft sich nach dem Kostenvoranschlag der Werkstatt auf EUR 3.980,00. Darüber hinaus wurde ein Zaun auf der Liegenschaft [[land_register_id|2826/Unterstinkenbrunn]], [[land_register_id|GSt-Nr. 1309/2]] beschädigt, dessen Wiederherstellung EUR 1.240,00 kostet. Die Reparatur des Fahrzeugs wurde bereits durchgeführt, die Rechnung der Werkstatt liegt bei. Die Werkstatt hat für die Dauer von zwölf Tagen einen Mietwagen bereitgestellt; die Mietkosten belaufen sich auf EUR 1.460,00. Die Schadensminderungspflicht meines Mandanten wurde dadurch eingehalten, dass er die Reparatur ohne Verzögerung veranlasst hat.
 
 Mein Mandant hat den Pkw im Wege eines Kredits bei der [[organization|Sparkasse Sankt Florian am Inn AG]] (kurz [[organization|SSF]]) finanziert. Die [[organization|SSF]] hat dem Mandanten eine Mietwagenkostenabrechnung für die Dauer der Reparatur übermittelt. Diese Kosten sind ebenfalls Teil des geltend gemachten Schadens.
 
@@ -43,6 +43,8 @@ Ihr Mandant hat den Unfall mit einer Erklärung bei der Polizei nicht bestritten
 Die Haftung Ihres Mandanten ergibt sich aus [[legal_norm|§ 1295 ABGB]] und aus [[legal_norm|§ 7 EKHG]] als Halter des Fahrzeugs. Wie die Zeugin [[person|Verena Hackl]] angegeben hat, war mein Mandant mit rund 20 km/h unterwegs und hat den Kreisverkehr ordnungsgemäß befahren. Die Zeugin hat den Unfall von der Bushaltestelle aus beobachtet. Ein Mitverschulden meines Mandanten besteht daher nicht. Wir ersuchen zudem um Bekanntgabe der Versicherungsgesellschaft Ihres Mandanten und der Polizzennummer.
 
 Herr [[person|DI Podgórski]] erreichen Sie für Rückfragen an seinem Arbeitsplatz unter Tel. [[phone_number|0732 592262 Kl. 73]].
+
+Für den Fall, dass Sie den Anspruch dem Grunde nach anerkennen, sind wir bereit, die Schadenshöhe im Wege eines Vergleichs festzulegen. Ein Vergleich über EUR 4.000,00 wäre aus Sicht meines Mandanten akzeptabel, wenn die Zahlung binnen 14 Tagen erfolgt. Ein darüber hinausgehender Betrag wird nicht akzeptiert, weil die Mietwagenkosten bereits in der Kalkulation enthalten sind. Die Zahlungsfrist läuft ab Zugang dieses Schreibens. Die Angaben der Zeugin [[person|Verena Hackl]] wurden bereits im Rahmen der Anzeige aufgenommen und sind dem Akt beigeschlossen. Mein Mandant hat sich am Unfallort ordnungsgemäß verhalten und die Polizei verständigt.
 
 Wir bitten um schriftliche Bestätigung des Eingangs dieses Schreibens.
 

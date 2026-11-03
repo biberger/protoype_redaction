@@ -16,6 +16,11 @@ An das
 
 Klage
 
+Zeichen [[other_identifier|110/20 LE]]
+Vertragsnummer [[other_identifier|V-2022-42030]]
+Schadennummer [[other_identifier|12/631365/20]]
+Tel. [[phone_number|07242/2438378 Durchwahl 15]]
+
 Klägerin: [[person|Cäzilie Hönig]], GEB: [[date_of_birth|1994-12-19]],
 wohnhaft in [[address|Bergstraße 14, 3950 Gmünd]],
 vertreten durch [[lawyer|Hasenhüttl]], Rechtsanwalt, ERV-Code [[other_identifier|P298859]]
@@ -23,7 +28,7 @@ vertreten durch [[lawyer|Hasenhüttl]], Rechtsanwalt, ERV-Code [[other_identifie
 Beklagte Partei 1: [[organization|Eichler Immobilien GmbH]], [[company_register_number|FN 421812m]], UID: [[tax_id|ATU44227840]],
 mit Sitz in [[location|Gmünd]], vertreten durch ihren Geschäftsführer
 
-Beklagter Partei 2: [[person|Amer Ing. Šajnović]], geb [[date_of_birth|1947-12-18]],
+Beklagter 2: [[person|Amer Ing. Šajnović]], geb [[date_of_birth|1947-12-18]],
 StA. [[country|Bosnien und Herzegowina]], wohnhaft in [[address|Waldweg 3, 3950 Gmünd]]
 
 Streitverkündete: die [[country|Republik Österreich]] als Eigentümerin des Gehsteigs und [[organization|Land Niederösterreich]] als Erhalterin der Landesstraße
@@ -32,7 +37,7 @@ wegen EUR 12.450,00 sA
 
 Streitwert: EUR 12.450,00
 
-Die Klägerin erhebt gegen die Beklagten zum [[court|Bezirksgericht Gmünd]] Klage und stellt folgende
+Die Klägerin erhebt gegen die Beklagten zum [[court|BG Gmünd]] Klage und stellt folgende
 
 Anträge:
 
@@ -48,21 +53,29 @@ I. Sachverhalt
 
 3. Die [[organization|Eichler Immobilien GmbH]] ist Eigentümerin des angrenzenden Gebäudes und hat die Verkehrssicherungspflicht für den Gehsteig übernommen. [[organization|Eichler]] hat nach dem Unfall die Platte erneuert, ohne den Unfall zu melden.
 
-4. Die Klägerin erlitt eine Fraktur des Handgelenks und eine Prellung des rechten Knies. Sie war vom [[date|10. Juli 2025]] bis zum [[date|15. August 2025]] arbeitsunfähig.
+4. Die Klägerin erlitt eine Fraktur des Handgelenks und eine Prellung des rechten Knies. Sie war vom [[date|10. Juli 2025]] bis zum [[date|15. August 2025]] arbeitsunfähig und musste sich einer Operation am Handgelenk unterziehen.
+
+5. Die Zeugin [[person|Gerda Plasser]] hat den Sturz beobachtet und die Klägerin sofort aufgehoben. Sie hat den Unfall am selben Tag bei der Polizeiinspektion angezeigt.
 
 II. Rechtliche Beurteilung
 
-5. Die Beklagte Partei 1 haftet nach [[legal_norm|§ 1319 ABGB]] iVm [[legal_norm|§ 1320 ABGB]] für die mangelhafte Erhaltung des Gehsteigs. Die Verkehrssicherungspflicht ist eine Pflicht zur regelmäßigen Kontrolle, die die Beklagte Partei 1 verletzt hat.
+6. Die Beklagte Partei 1 haftet nach [[legal_norm|§ 1319 ABGB]] iVm [[legal_norm|§ 1320 ABGB]] für die mangelhafte Erhaltung des Gehsteigs. Die Verkehrssicherungspflicht ist eine Pflicht zur regelmäßigen Kontrolle, die die Beklagte Partei 1 verletzt hat.
 
-6. Der Beklagte Partei 2 trifft ein Verschulden am Ausparken. Die Haftung des Halters ergibt sich aus [[legal_norm|§ 7 EKHG]] iVm [[legal_norm|§ 9 EKHG]].
+7. Der Beklagte 2 trifft ein Verschulden am Ausparken. Die Haftung des Halters ergibt sich aus [[legal_norm|§ 7 EKHG]] iVm [[legal_norm|§ 9 EKHG]].
 
-7. Die [[country|Republik Österreich]] und das [[organization|Land Niederösterreich]] sind zur Streitverkündung beizuziehen, weil sie als Eigentümerin und Erhalterin des Gehsteigs bzw. der Straße für Ansprüche aus der Erhaltung haften können. Die Streitverkündung erfolgt nach [[legal_norm|§ 21 ZPO]].
+8. Die [[country|Republik Österreich]] und das [[organization|Land Niederösterreich]] sind zur Streitverkündung beizuziehen, weil sie als Eigentümerin des Gehsteigs bzw. der Straße für Ansprüche aus der Erhaltung haften können. Die Streitverkündung erfolgt nach [[legal_norm|§ 21 ZPO]].
 
-III. Beweise
+III. Schaden
 
-Die Klägerin beantragt die Einvernahme der Zeugin [[person|Gerda Plasser]] und der Parteien, die Einholung eines unfallchirurgischen Gutachtens sowie die Vorlage der Unfallfotos.
+9. Die Heilungskosten betragen EUR 1.850,00, der Verdienstentgang für die Zeit der Arbeitsunfähigkeit EUR 6.100,00. Ein Schmerzensgeld von EUR 3.200,00 ist angemessen. Die Klägerin hat einen Eigenanteil von EUR 300,00 für Heilbehelfe getragen.
 
-IV. Kosten
+10. Der Anspruch der Klägerin ist nicht verjährt, weil die Klage innerhalb von drei Jahren ab Kenntnis des Schadens und der Person des Schädigers eingebracht wird.
+
+IV. Beweise
+
+Die Klägerin beantragt die Einvernahme der Zeugin [[person|Plasser]] und der Parteien, die Einholung eines unfallchirurgischen Gutachtens sowie die Vorlage der Unfallfotos.
+
+V. Beilagen
 
 Die Klage wird unter Vorlage folgender Beilagen erhoben:
 

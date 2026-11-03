@@ -26,9 +26,9 @@ Zeitpunkt: [[date|12. Mai 2025]], 07:40 Uhr
 
 **Sachverhalt**
 
-Am [[date|12. Mai 2025]] gegen 07:40 Uhr befuhr Frau [[person|Kirchmann]] mit ihrem Pkw die Gemeindestraße in [[address|3141 Kapelln]]. An der Kreuzung mit der Landesstraße kam es zur Kollision mit dem Fahrzeug des Herrn [[person|Dragosits]], Kennzeichen [[license_plate|E 6825 K]].
+Am [[date|12. Mai 2025]] gegen 07:40 Uhr befuhr Frau [[person|Klarina Kirchmann]], Geburtsdatum: [[date_of_birth|17.05.1941]], mit ihrem Pkw die Gemeindestraße in [[address|3141 Kapelln]]. An der Kreuzung mit der Landesstraße kam es zur Kollision mit dem Fahrzeug des Herrn [[person|Dragosits]], Kennzeichen [[license_plate|E 6825 K]].
 
-Die Beifahrerin [[person|Vasold]] gab an, dass das Fahrzeug der Frau [[person|Kirchmann]] ohne Halt in die Kreuzung eingefahren sei. Die Lenkerin des dritten Fahrzeugs, Frau [[person|Alić]], hat den Vorfall vom Parkplatz aus beobachtet.
+Die Beifahrerin [[person|Wera Vasold]] gab an, dass das Fahrzeug der Frau [[person|Kirchmann]] ohne Halt in die Kreuzung eingefahren sei. Die Lenkerin des dritten Fahrzeugs, Frau [[person|Alić]], hat den Vorfall vom Parkplatz aus beobachtet.
 
 Herr [[person|Dragosits]] bestätigte bei der Einvernahme, dass er die Vorrangstraße befuhr. Er wurde von Herrn [[person|Trajkow]] begleitet, der als Mitfahrer keine Angaben machen konnte.
 

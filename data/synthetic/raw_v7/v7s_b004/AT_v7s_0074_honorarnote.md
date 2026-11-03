@@ -49,7 +49,7 @@ Die Honorarnote ist binnen 14 Tagen auf das Konto IBAN [[bank_account|AT59 9249 
 
 [[person|ŠVARC CEDO]] – [[person|HALPERN MICHAELE]]
 
-Die Leistungen wurden nach dem tatsächlichen Zeitaufwand erbracht. Bei Fragen zu einzelnen Positionen bitten wir um Mitteilung innerhalb von sieben Tagen. Die Erstbesprechung vom [[date|03.06.2025]] fand in den Räumen der Kanzlei statt. Die Verhandlung vom [[date|15.07.2025]] dauerte drei Stunden. Der Stundensatz für Verhandlungen beträgt EUR 180,00 zuzüglich Umsatzsteuer; die Schriftsätze wurden nach Aufwand verrechnet. Die Kanzlei hat für die Zustellung des Urteilsentwurfs an [[person|Halpern]] keine gesonderte Gebühr angesetzt.
+Die Leistungen wurden nach dem tatsächlichen Zeitaufwand erbracht. Bei Fragen zu einzelnen Positionen bitten wir um Mitteilung innerhalb von sieben Tagen. Die Erstbesprechung vom [[date|03.06.2025]] fand in den Räumen der Kanzlei statt. Die Verhandlung vom [[date|15.07.2025]] dauerte drei Stunden. Der Stundensatz für Verhandlungen beträgt EUR 180,00 zuzüglich Umsatzsteuer; die Schriftsätze wurden nach Aufwand verrechnet. Die Kanzlei hat für die Zustellung des Urteilsentwurfs an [[person|Halpern]] keine gesonderte Gebühr angesetzt. Die Besprechung vom [[date|17.06.2025]] war telefonisch und wurde als Kurzbesprechung abgerechnet. Die Verjährung der Mietzinsforderung wurde am [[date|01.07.2025]] geprüft und als nicht gefährdet bewertet. Die Zeitaufzeichnungen liegen der Kanzlei vor und werden auf Verlangen übermittelt. Die Nachberechnung von Nebenkosten ist nicht Gegenstand dieser Honorarnote. Für Rückfragen steht Herr [[person|Horwath]] zur Verfügung. Die Vertretung erfolgte durch die Kanzlei an allen Verhandlungstagen.
 
 [[address|2095 Drosendorf-Zissersdorf]], am [[date|22.09.2025]]
 

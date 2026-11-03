@@ -74,7 +74,7 @@ T: [[phone_number|+43 316 507 16 32 Durchwahl 75]]  F: [[phone_number|03842/8049
 
 Liebe Frau [[person|Pertl]],
 
-ich habe heute mit Herrn [[person|Dr. Karassyk]] telefoniert. Er hat mir bestätigt, dass die Fahrerin der [[organization|Schilcher GmbH]] die Vorfahrt nicht beachtet hat. Die Zahlung meines Selbstbehalts von EUR 500,00 habe ich am [[date|6. Juni 2025]] über die [[organization|Raiffeisenbank Empersdorf registrierte Genossenschaft mit beschränkter Haftung]] (kurz [[organization|RB Empersdorf]]) veranlasst. Die Bankverbindung der Kanzlei kennen Sie ja.
+ich habe heute mit Herrn [[person|Dr. Karassyk]] telefoniert. Er hat mir bestätigt, dass die Fahrerin der [[organization|Schilcher GmbH]] die Vorfahrt nicht beachtet hat. Die Zahlung meines Selbstbehalts von EUR 500,00 habe ich am [[date|6. Juni 2025]] über die [[organization|Raiffeisenbank Empersdorf registrierte Genossenschaft mit beschränkter Haftung]] (kurz [[organization|RB Empersdorf]]) veranlasst. Die Bankverbindung der Kanzlei kennen Sie ja. Die [[organization|Schilcher GmbH]] hat mir für die Erstattung die Kontoverbindung [[bank_account|AT58 8870 0541 0903 8717]] mitgeteilt.
 
 Mein Auto steht noch in der Werkstatt in [[location|Stans]]. Die [[organization|Schilcher]] hat dazu bisher nichts gesagt.
 

@@ -11,7 +11,7 @@ Tel. [[phone_number|01/3433941 Kl. 34]]
 
 GZ [[case_number|D 41/2025]]
 
-Die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] hat in der Sitzung vom [[date|8. Juli 2026]] unter dem Vorsitz von [[judge|Dr. Bruno Mužinić]] sowie in Gegenwart der Beisitzer [[judge|Dr. Ubaldo Anzalone]] und [[judge|Dr. Evelin Lichtenberger]] über die Berufung des [[lawyer|Alan Klebelsberg]] gegen den Spruch des Disziplinarrats der [[organization|Rechtsanwaltskammer Wien]] ([[organization|RAK Wien]]) entschieden. Als Kammeranwalt wirkte [[person|Mag. Dan Ilsanker]], als Schriftführerin [[person|Leopoldine Millonig]].
+Die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] hat in der Sitzung vom [[date|8. Juli 2026]] unter dem Vorsitz von [[judge|Dr. Bruno Mužinić]] sowie in Gegenwart der Beisitzer [[judge|Dr. Ubaldo Anzalone]] und [[judge|Dr. Evelin Lichtenberger]] über die Berufung des [[lawyer|Alan Klebelsberg]] gegen den Spruch des [[court|Disziplinarrats der Rechtsanwaltskammer Wien]] entschieden. Die [[organization|Rechtsanwaltskammer Wien]] ([[organization|RAK Wien]]) hatte den Antrag gestellt. Als Kammeranwalt wirkte [[person|Mag. Dan Ilsanker]], als Schriftführerin [[person|Leopoldine Millonig]].
 
 Spruch
 
@@ -31,6 +31,8 @@ Die Treuhandschaft wurde unter der Nummer [[other_identifier|2024/511]] geführt
 
 Die Klientin forderte die Rückzahlung am [[date|10.02.2025]] schriftlich. Der Beschuldigte antwortete erst am [[date|30.04.2025]] und teilte mit, dass ein Betrag von EUR 4.300,00 noch vorhanden sei. Dieser wurde am [[date|12.05.2025]] an die Klientin ausgezahlt.
 
+Die Klientin wohnt in [[location|Wien]] und war vom Verfahren, das zur Schadenersatzzahlung geführt hatte, nicht persönlich betroffen. Sie hat die Beschwerde am [[date|3.06.2025]] bei der Kammer eingebracht, nachdem sie einen Kontoauszug ihres Vermögensberaters erhalten hatte.
+
 II. Rechtliche Beurteilung
 
 Gemäß [[legal_norm|§ 1 RAO]] hat der Rechtsanwalt seinen Beruf gewissenhaft auszuüben. Die Verwahrung von Klientengeld ist eine der wichtigsten Berufspflichten. Die Beweiswürdigung des Disziplinarrats bleibt unangetastet, weil sie auf den Kontoauszügen beruht und keine Widersprüche aufweist.
@@ -39,7 +41,7 @@ Der Beschuldigte bringt vor, dass er die Auszahlungen im Interesse der Klientin 
 
 Der Senat teilt jedoch die Auffassung des Disziplinarrats, dass die Geldbuße zu hoch war. Der Beschuldigte hat den Betrag in der Zwischenzeit vollständig ausgeglichen und ist bisher nicht disziplinär aufgefallen. Die Herabsetzung entspricht der Schwere des Vergehens und berücksichtigt die Milderungsgründe nach [[legal_norm|§ 46 RAO]].
 
-Die Rüge der Verletzung des Rechts auf ein faires Verfahren nach [[legal_norm|Art. 6 EMRK]] wurde geprüft und verworfen. Der Beschuldigte konnte sich durch seinen Verteidiger äußern und Beweisanträge stellen.
+Die Rüge der Verletzung des Rechts auf ein faires Verfahren nach [[legal_norm|Art. 6 EMRK]] wurde geprüft und verworfen. Der Beschuldigte konnte sich durch seinen Verteidiger äußern und Beweisanträge stellen. Die Verwertung der Kontoauszüge ist zulässig, weil sie vom Treuhandkonto stammen, das der Beschuldigte selbst führte.
 
 III. Kosten
 

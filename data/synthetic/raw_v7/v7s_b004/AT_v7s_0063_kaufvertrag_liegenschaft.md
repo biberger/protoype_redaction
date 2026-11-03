@@ -30,27 +30,27 @@ Die Vertragsparteien schließen folgenden Kaufvertrag:
 
 Die Verkäufer sind je zur Hälfte bücherliche Eigentümer der Liegenschaft [[land_register_id|KG 35025 Frankenau-Unterpullendorf]] (Katastralgemeinde) und [[land_register_id|EZ 428]] (Einlagezahl) im Grundbuch des [[court|Bezirksgerichtes Oberpullendorf]]. Die Liegenschaft wird im Folgenden als Vertragsgegenstand bezeichnet.
 
-Die Käuferin erklärt, die Liegenschaft zur Errichtung eines Betriebsgebäudes erwerben zu wollen. Die Verkäufer erklären, dass keine Pfandrechte oder Dienstbarkeiten bestehen, die nicht im Grundbuch ersichtlich sind. Die Verkäufer erklären zudem, dass sie seit dem Abschluss des Kaufanbots keine weiteren Verfügungen über die Liegenschaft getroffen haben.
+Die Käuferin erklärt, die Liegenschaft zur Errichtung eines Betriebsgebäudes erwerben zu wollen. Die Käuferin hat die Finanzierung des Kaufpreises durch eine Bankzusage nachgewiesen. Die Verkäufer erklären, dass keine Pfandrechte oder Dienstbarkeiten bestehen, die nicht im Grundbuch ersichtlich sind. Die Verkäufer erklären zudem, dass sie seit dem Abschluss des Kaufanbots keine weiteren Verfügungen über die Liegenschaft getroffen haben. Sie verpflichten sich, bis zur Zahlung des Kaufpreises keine Belastungen vorzunehmen.
 
 **II. Kaufgegenstand**
 
-Verkauft wird das Grundstück Nr. [[land_register_id|812/3]] samt allen wesentlichen Bestandteilen im Ausmaß von 1.240 m². Die Verkäufer verkaufen den Vertragsgegenstand mit allen Rechten und Pflichten, insbesondere mit dem Recht auf Zufahrt über die Parzelle. Die Verkäufer haben der Käuferin eine Abschrift des Teilungsplanes übergeben, der die Grenzen des Vertragsgegenstandes ausweist. Eine Vermessung ist nicht erforderlich, weil der Teilungsplan vom Vermessungsamt bestätigt wurde.
+Verkauft wird das Grundstück Nr. [[land_register_id|812/3]] samt allen wesentlichen Bestandteilen im Ausmaß von 1.240 m². Die Verkäufer verkaufen den Vertragsgegenstand mit allen Rechten und Pflichten, insbesondere mit dem Recht auf Zufahrt über die Parzelle. Die Verkäufer haben der Käuferin eine Abschrift des Teilungsplanes übergeben, der die Grenzen des Vertragsgegenstandes ausweist. Eine Vermessung ist nicht erforderlich, weil der Teilungsplan vom Vermessungsamt bestätigt wurde. Die Anlage ./2 enthält diesen Plan.
 
 **III. Kaufpreis und Treuhandabwicklung**
 
 1. Der Kaufpreis beträgt EUR 186.000,00 (in Worten: einhundertsechsundachtzigtausend Euro) und ist binnen 14 Tagen nach Unterfertigung dieses Vertrages auf das Treuhandkonto der Vertragserrichter bei der [[organization|Oberbank AG]] zu überweisen. Die Käuferin hat die Zahlung auf das Konto [[bank_account|AT62 1135 9101 8462 9006]] zu leisten.
 
-2. Die Abwicklung erfolgt über das Treuhandbuch. Die Vertragsparteien beauftragen die Kanzlei mit der Abwicklung unter der Treuhandbuch-Nr. [[other_identifier|2024/885]]. Die Verkäufer verpflichten sich, die Aufsandungserklärung erst nach Zahlungseingang beim Treuhänder abzugeben.
+2. Die Abwicklung erfolgt über das Treuhandbuch. Die Kosten der Treuhandabwicklung sind im Honorar der Vertragserrichter enthalten. Die Vertragsparteien beauftragen die Kanzlei mit der Abwicklung unter der Treuhandbuch-Nr. [[other_identifier|2024/885]]. Die Verkäufer verpflichten sich, die Aufsandungserklärung erst nach Zahlungseingang beim Treuhänder abzugeben.
 
-3. Grunderwerbsteuer und Eintragungsgebühren trägt die Käuferin. Die Verkäufer tragen die Kosten der Lastenfreistellung.
+3. Grunderwerbsteuer und Eintragungsgebühren trägt die Käuferin. Die Verkäufer tragen die Kosten für die Beschaffung der Lastenfreistellungsurkunden. Die Verkäufer tragen die Kosten der Lastenfreistellung.
 
 **IV. Aufsandungserklärung**
 
-Die Verkäufer erteilen hiermit der Käuferin die Einwilligung in die Einverleibung des Eigentumsrechtes an der Liegenschaft [[land_register_id|KG 35025 Frankenau-Unterpullendorf]]/[[land_register_id|EZ 428]] und ersuchen das [[court|Bezirksgericht Oberpullendorf]] um Vollzug. Die Aufsandungserklärung ist grundbuchsfähig errichtet und wird für die Käuferin treuhändig verwahrt.
+Die Verkäufer erteilen hiermit der Käuferin die Einwilligung in die Einverleibung des Eigentumsrechtes an der Liegenschaft Katastralgemeinde [[land_register_id|35025 Frankenau-Unterpullendorf]]/[[land_register_id|EZ 428]] und ersuchen das [[court|Bezirksgericht Oberpullendorf]] um Vollzug. Die Aufsandungserklärung ist grundbuchsfähig errichtet und wird für die Käuferin treuhändig verwahrt.
 
 **V. Übergabe und Gewährleistung**
 
-Die Übergabe erfolgt mit Zahlungseingang. Die Verkäufer haften für die Lastenfreiheit, nicht aber für die Beschaffenheit des Bodens. Die Käuferin erklärt, die Liegenschaft besichtigt zu haben. Die Verkäufer erklären, dass auf der Liegenschaft keine Mietverhältnisse bestehen. Ein Wegerecht zugunsten der Nachbarparzelle besteht nicht. Die Verkäufer übergeben die Unterlagen über die Wasser- und Stromanschlüsse; die Käuferin bestätigt den Erhalt. Die [[organization|Gemeinde Frankenau]] hat mit Schreiben vom [[date|12. September 2025]] auf ein Vorkaufsrecht verzichtet. Sollte sich nach der Übergabe herausstellen, dass Altlasten vorhanden sind, werden diese von den Verkäufern nach Maßgabe des Gesetzes übernommen, soweit sie ihnen bekannt waren.
+Die Übergabe erfolgt mit Zahlungseingang. Ab diesem Zeitpunkt trägt die Käuferin die Gefahr und die Verkehrssicherungspflicht. Die Verkäufer haften für die Lastenfreiheit, nicht aber für die Beschaffenheit des Bodens. Die Käuferin erklärt, die Liegenschaft besichtigt zu haben. Die Verkäufer erklären, dass auf der Liegenschaft keine Mietverhältnisse bestehen. Ein Wegerecht zugunsten der Nachbarparzelle besteht nicht. Die Verkäufer übergeben die Unterlagen über die Wasser- und Stromanschlüsse; die Käuferin bestätigt den Erhalt. Die [[organization|Gemeinde Frankenau]] hat mit Schreiben vom [[date|12. September 2025]] auf ein Vorkaufsrecht verzichtet. Sollte sich nach der Übergabe herausstellen, dass Altlasten vorhanden sind, werden diese von den Verkäufern nach Maßgabe des Gesetzes übernommen, soweit sie ihnen bekannt waren.
 
 **VI. Schlussbestimmungen**
 
@@ -96,12 +96,12 @@ Rechtsanwalt
 
 Die Eintragungsgebühr wurde am [[date|21. Oktober 2025]] entrichtet.
 
-Für Rückfragen zu diesem Vertrag wenden Sie sich bitte an die Kanzlei unter der Nummer [[phone_number|+43-7242-7781767-14]]. Unser Zeichen bitte stets angeben: [[other_identifier|895/20 LN]].
+Für Rückfragen zu diesem Vertrag wenden Sie sich bitte an die Kanzlei unter Tel. [[phone_number|+43-7242-7781767-14]]. Unser Zeichen bitte stets angeben: [[other_identifier|895/20 LN]].
 
 Unser Zeichen: [[other_identifier|895/20 LN]]
 Unser Zeichen: [[other_identifier|B/Gligić/7509]]
 
-Die Geschäftsführerin der Käuferin, [[person|Gligić]], hat den Vertrag bei der Kanzlei am [[date|14. Oktober 2025]] unterfertigt. Die Verkäuferin [[person|Kral]] hat die Vollmacht ihres Ehegatten am selben Tag vorgelegt. Die Verkäufer wurden über die Folgen einer verspäteten Zahlung belehrt.
+Die Geschäftsführerin der Käuferin, [[person|Gligić]], hat den Vertrag bei der Kanzlei am [[date|14. Oktober 2025]] unterfertigt. Die Verkäuferin [[person|Kral]] hat die Vollmacht ihres Ehegatten am selben Tag vorgelegt. Die Verkäufer wurden über die Folgen einer verspäteten Zahlung belehrt. Die Belehrung wurde von allen Verkäufern schriftlich bestätigt.
 
 **VII. Lastenfreistellung und Nebenabreden**
 

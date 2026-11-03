@@ -42,6 +42,8 @@ Die Tagsatzung vom [[date|30.09.2026]] wurde auf Ersuchen von [[person|Demuth]] 
 
 Auslagen für Porto und Kopien sind im Honorar enthalten und werden nicht gesondert verrechnet. Die Umsatzsteuer ist in der Position Summe brutto ausgewiesen.
 
+Die Honorarnote betrifft ausschließlich das Verfahren, das in der Kopfzeile angeführt ist. Für die Angelegenheit, die unter der zweiten GZ der Kanzlei geführt wird, erfolgt eine gesonderte Abrechnung. Die Zeitaufwände der Besprechungen wurden nach Viertelstunden erfasst; die Besprechung vom [[date|02.09.2026]] dauerte zwei Stunden, die Besprechung vom [[date|21.09.2026]] eine halbe Stunde. Bei Rückfragen zur Verrechnung wenden Sie sich bitte an unser Sekretariat unter der Telefonnummer der Kanzlei.
+
 Der Betrag von EUR 1.560,00 ist binnen 14 Tagen auf das Konto IBAN [[bank_account|AT05 3550 4290 5000 8267]] zu überweisen.
 
 Mit freundlichen Grüßen

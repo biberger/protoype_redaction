@@ -40,7 +40,7 @@ a) [[land_register_id|EZ. 2292]], [[land_register_id|KG 33617 Krumbach]]
 b) [[land_register_id|EZ: 61]] Grundbuch [[land_register_id|Parbasdorf]]; [[land_register_id|Gst.Nr. 1333/25]]
 c) [[land_register_id|EZ 2084]] / [[land_register_id|K.G. 70479 Mehrnbach]]
 
-Die Berghold verfügt über keine weiteren Liegenschaften, die Gegenstand dieses Vertrags wären. Die Käufer haben den Grundbuchsstand zur Kenntnis genommen und erklären, dass ihnen die Liegenschaften in Augenschein bekannt sind.
+Die [[organization|Berghold]] verfügt über keine weiteren Liegenschaften, die Gegenstand dieses Vertrags wären. Die Käufer haben den Grundbuchsstand zur Kenntnis genommen und erklären, dass ihnen die Liegenschaften bekannt sind. Die Gemeinde hat mit Schreiben vom [[date|9. Jänner 2026]] erklärt, dass ein gemeindliches Vorkaufsrecht nicht besteht.
 
 I. Kaufgegenstand
 
@@ -48,7 +48,7 @@ I. Kaufgegenstand
 
 (2) Der Verkauf erfolgt lastenfrei, mit Ausnahme der im Grundbuch ersichtlichen Dienstbarkeiten und Wegerechte, die von den Käufern übernommen werden. Pfandrechte und sonstige Belastungen, die nicht im Grundbuch ersichtlich sind, hat die Verkäuferin auf eigene Kosten zu beseitigen.
 
-(3) Die Verkäuferin haftet dafür, dass die Liegenschaften nicht mit Miet- oder Pachtrechten Dritter belastet sind, ausgenommen jene Rechte, die im Grundbuch angemerkt sind.
+(3) Die Verkäuferin haftet dafür, dass die Liegenschaften nicht mit Miet- oder Pachtrechten Dritter belastet sind, ausgenommen jene Rechte, die im Grundbuch angemerkt sind. Die Verkäuferin legt eine Aufstellung der Pachtverträge bei, die zum Stichtag bestehen.
 
 II. Kaufpreis
 
@@ -60,13 +60,17 @@ II. Kaufpreis
 
 (4) Die Käufer haben die Grunderwerbsteuer und die Eintragungsgebühr zu tragen. Die Kosten der Urkunde und die Vertragserrichtung tragen die Vertragsparteien je zur Hälfte.
 
+(5) Verzugszinsen im gesetzlichen Ausmaß fallen an, wenn der Restkaufpreis nicht binnen der vereinbarten Frist bei den Treuhändern einlangt. Eine Mahnung ist nicht erforderlich.
+
 III. Treuhand
 
 (1) Die Abwicklung dieses Vertrags erfolgt über die Treuhandschaft der Kanzlei [[lawyer|Frieser]] und [[lawyer|Nitsch]] unter der TH-Nr. [[other_identifier|2026/878]]. Die Treuhänder sind verpflichtet, den Kaufpreis erst nach Vorliegen der Lastenfreistellung und der Eintragung der Rangordnung für die Veräußerung auszuzahlen.
 
 (2) Die Treuhänder verwahren die Urkunden bis zur grundbücherlichen Durchführung. Sie sind berechtigt, die Vertragsteile über den Fortgang des Verfahrens zu informieren, nicht aber über die Vermögensverhältnisse der Gegenseite.
 
-(3) Sollte die Berghold die Lastenfreistellung nicht binnen acht Wochen herbeiführen, so ist der Treuhänder berechtigt, den Vadium an die Käufer zurückzuzahlen, ohne dass daraus Ansprüche gegen die Treuhänder entstehen.
+(3) Sollte die [[organization|Berghold]] die Lastenfreistellung nicht binnen acht Wochen herbeiführen, so ist der Treuhänder berechtigt, den Vadium an die Käufer zurückzuzahlen, ohne dass daraus Ansprüche gegen die Treuhänder entstehen.
+
+(4) Die Treuhänder bestätigen den Eingang des Kaufpreises auf dem Treuhandkonto schriftlich. Die Bestätigung ist den Vertragsparteien binnen drei Werktagen zu übermitteln.
 
 IV. Aufsandungserklärung
 
@@ -74,15 +78,17 @@ IV. Aufsandungserklärung
 
 (2) Die Vertragsteile beantragen die grundbücherliche Durchführung gemäß [[legal_norm|§ 26 GBG]] iVm [[legal_norm|§ 33 GBG]]. Die Grunderwerbsteuer ist nach [[legal_norm|§ 9 GrEStG]] angezeigt.
 
-(3) Die Berghold erklärt, dass die Gesellschaft die Verfügungsbefugnis über die Liegenschaften besitzt und dass kein Insolvenzverfahren anhängig ist. Die Käufer nehmen dies zur Kenntnis.
+(3) Die [[organization|Berghold]] erklärt, dass die Gesellschaft die Verfügungsbefugnis über die Liegenschaften besitzt und dass kein Insolvenzverfahren anhängig ist. Die Käufer nehmen dies zur Kenntnis. Die Gesellschafterversammlung hat dem Verkauf mit Beschluss vom [[date|5. März 2026]] zugestimmt.
 
 V. Übergabe, Gewährleistung und Nutzen
 
-(1) Der Besitz, Nutzen und die Gefahr gehen mit [[date|1. Juni 2026]] auf die Käufer über. Bis dahin trägt die Berghold die Lasten und den Aufwand der Liegenschaften.
+(1) Der Besitz, Nutzen und die Gefahr gehen mit [[date|1. Juni 2026]] auf die Käufer über. Bis dahin trägt die [[organization|Berghold]] die Lasten und den Aufwand der Liegenschaften.
 
 (2) Die Verkäuferin leistet Gewähr dafür, dass die Liegenschaften frei von unbekannten Mängeln sind, die den bestimmungsgemäßen Gebrauch wesentlich beeinträchtigen. Eine darüber hinausgehende Gewährleistung für Sachmängel wird ausdrücklich ausgeschlossen, soweit das Gesetz dies zulässt. Die Käufer bestätigen, dass sie die Liegenschaften besichtigt haben.
 
-(3) Die Berghold verpflichtet sich, bis zur Übergabe keine Bauvorhaben zu beginnen und keine Verträge mit Dritten abzuschließen, die die Liegenschaften länger als ein Jahr binden.
+(3) Die [[organization|Berghold]] verpflichtet sich, bis zur Übergabe keine Bauvorhaben zu beginnen und keine Verträge mit Dritten abzuschließen, die die Liegenschaften länger als ein Jahr binden.
+
+(4) Ein Rücktritt vom Vertrag ist nur zulässig, wenn die Lastenfreistellung bis zum [[date|30. April 2026]] nicht erfolgt ist. Im Falle des Rücktritts ist das Vadium zurückzuzahlen, wobei die Kosten der Urkunde von der Verkäuferin zu tragen sind.
 
 VI. Schlussbestimmungen
 
@@ -91,6 +97,8 @@ VI. Schlussbestimmungen
 (2) Sollte eine Bestimmung dieses Vertrags unwirksam sein, so bleibt der Vertrag im Übrigen wirksam. Die Vertragsteile verpflichten sich, die unwirksame Bestimmung durch eine wirksame zu ersetzen, die dem wirtschaftlichen Zweck möglichst nahekommt.
 
 (3) Jeder Vertragsteil erhält eine Ausfertigung. Eine Ausfertigung erhält zusätzlich das Grundbuchsgericht und die Treuhänderkanzlei. Die Käufer bestätigen, dass sie den Vertrag in deutscher Sprache verstanden haben und dass sie vor der Unterfertigung ausreichend Gelegenheit hatten, Fragen zu stellen.
+
+(4) Die Kosten einer allfälligen Vertragsänderung trägt jene Vertragspartei, die sie veranlasst hat.
 
 Wildschönau, am [[date|14. März 2026]]
 

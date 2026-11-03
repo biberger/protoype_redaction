@@ -23,7 +23,7 @@ I. Verfahrensgang
 
 Die [[organization|Rechtsanwaltskammer für Oberösterreich]] ([[organization|RAK]]) hat auf Antrag der Kammeranwältin das Disziplinarverfahren eingeleitet, nachdem die Beschwerde der Mandantin [[person|Willempje Neuhuys]] eingelangt war. Die Mandantin hatte der Beschuldigten im Jahr 2024 Gelder zur Verwahrung übergeben und vermisste nach Abschluss der Angelegenheit einen Teil des Betrags.
 
-Die Beschuldigte bestreitet den Vorwurf der Untreue nicht, macht jedoch geltend, dass die Auszahlungen mit Zustimmung der Mandantin erfolgt seien. Die Mandantin hat dies in der Verhandlung bestritten. Der Senat hat die Akten des Treuhandkontos der [[organization|RAK]] beigezogen und daraus die folgenden Feststellungen getroffen.
+Die Beschuldigte bestreitet den Vorwurf der Untreue nicht, macht jedoch geltend, dass die Auszahlungen mit Zustimmung der Mandantin erfolgt seien. Die Mandantin hat dies in der Verhandlung bestritten. Der Senat hat die Akten des Treuhandkontos der Beschuldigten beigezogen und daraus die folgenden Feststellungen getroffen.
 
 II. Feststellungen
 
@@ -31,17 +31,21 @@ II. Feststellungen
 
 2. Am [[date|21.05.2024]] wurde vom Treuhandkonto ein Betrag von EUR 6.200,00 an die [[organization|Helmer GmbH]] überwiesen. Die [[organization|Helmer GmbH]], [[company_register_number|FN 200022a]], UID: [[tax_id|ATU59513262]], stand in keiner Verbindung zur Mandantin. Die Zahlung wurde mit dem Vermerk „Honorar Vorschuss“ ausgewiesen.
 
-3. Am [[date|4.09.2024]] folgte eine weitere Auszahlung von EUR 7.100,00 an die Mandantin selbst. Der Restbetrag von EUR 5.200,00 stand zum Zeitpunkt der Beendigung des Mandats am [[date|30.11.2024]] nicht mehr zur Verfügung.
+3. Am [[date|04.09.2024]] folgte eine weitere Auszahlung von EUR 7.100,00 an die Mandantin selbst. Der Restbetrag von EUR 5.200,00 stand zum Zeitpunkt der Beendigung des Mandats am [[date|30.11.2024]] nicht mehr zur Verfügung.
 
 4. Die Treuhandbuch-Eintragung für die Angelegenheit trägt die Nr. [[other_identifier|2026/376]]; die Eintragungen wurden von der Beschuldigten erst nach dem Hinweis der Kammer nachgetragen.
 
 5. Die Beschuldigte hat die Mandantin über die Auszahlung vom [[date|21.05.2024]] nicht informiert. Eine schriftliche Zustimmung der Mandantin liegt nicht vor.
 
+6. Die Beschuldigte betreibt ihre Kanzlei in [[location|Linz]] mit zwei Mitarbeiterinnen. Das Treuhandkonto wird seit dem Jahr 2019 geführt und war bis zum Jahr 2024 nicht Gegenstand einer Prüfung durch die Kammer.
+
 III. Beweiswürdigung
 
 Der Senat stützt sich auf die Kontoauszüge, auf das Treuhandbuch und auf die Aussage der Mandantin. Die Aussage der Mandantin ist glaubwürdig, weil sie mit den Kontoauszügen übereinstimmt und keine Belastungstendenz erkennen lässt. Die Verantwortung der Beschuldigten erscheint dagegen widersprüchlich, da sie zunächst eine Zustimmung behauptete und später von einem Missverständnis sprach.
 
-Die Vernehmung der Zeugin [[person|Mag. Ulla Ruetz]], Kanzleikraft der Beschuldigten, hat ergeben, dass die Belege nachträglich erstellt wurden. Die Zeugin hat dies in der Verhandlung eingeräumt.
+Die Vernehmung der Zeugin [[person|Mag. Ulla Ruetz]], Kanzleikraft der Beschuldigten, hat ergeben, dass die Belege nachträglich erstellt wurden. Die Zeugin hat dies in der Verhandlung eingeräumt. Sie gab an, die Beschuldigte habe die Auszahlung vom [[date|04.09.2024]] persönlich angewiesen und die Buchung erst am [[date|10.09.2024]] erfasst.
+
+Die Beschuldigte hat in der Verhandlung am [[date|14. April 2026]] angegeben, sie habe die Helmer GmbH mit einer Recherche beauftragt. Ein schriftlicher Auftrag oder eine Rechnung der Helmer GmbH liegt nicht vor.
 
 IV. Rechtliche Beurteilung
 
@@ -53,11 +57,13 @@ Bei der Strafbemessung war zu berücksichtigen, dass die Beschuldigte bisher dis
 
 Die Verfahrensrüge auf Verletzung des [[legal_norm|Art. 6 EMRK]] wurde geprüft. Ein faires Verfahren war gewährleistet, weil die Beschuldigte Akteneinsicht erhielt und sich in der Verhandlung durch einen Vertreter verteidigen ließ.
 
-Kosten
+V. Kosten
 
 Die Kostenentscheidung beruht auf [[legal_norm|§ 52 RAO]]. Die Beschuldigte hat die Kosten des Verfahrens zu tragen.
 
 Verhandlungsort: [[address|8471 Spielfeld]], Sitzung am [[date|14. April 2026]]
+
+Telefonische Auskünfte der Geschäftsstelle erteilt die Kammer unter Tel. [[phone_number|0316/5324125 DW 91]]. Die Mandantin [[person|Neuhuys]] wohnt in [[location|St. Anton am Arlberg]] und wurde zur Verhandlung ordnungsgemäß geladen.
 
 Der Senat
 

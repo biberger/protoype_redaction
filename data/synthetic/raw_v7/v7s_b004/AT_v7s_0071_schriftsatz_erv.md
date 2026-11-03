@@ -23,7 +23,7 @@ Eingebracht über ERV
 
 **KLAGEBEANTWORTUNG**
 
-in der Rechtssache der klagenden Partei [[person|Ljerka Rubić]], geb [[date_of_birth|07.05.1956]], [[address|Hauptplatz 9, 2700 Wiener Neustadt]], vertreten durch die Rechtsanwälte [[person|Fabian]], [[person|Grünewald]] und [[person|Vogler]], gegen die beklagte Partei [[person|Massimo Dipl.-Ing. Romanelli]], GEB: [[date_of_birth|19.12.1952]], [[address|Industriestraße 21, 2700 Wiener Neustadt]], vertreten durch ihre Rechtsanwälte, wegen EUR 9.840,00 sA
+in der Rechtssache der klagenden Partei [[person|Ljerka Rubić]], geb [[date_of_birth|07.05.1956]], [[address|Hauptplatz 9, 2700 Wiener Neustadt]], vertreten durch die Rechtsanwälte [[person|Fabian]], [[person|Grünewald]] und [[person|Vogler]], gegen die beklagte Partei [[person|Massimo Dipl.-Ing. Romanelli]], GEB: [[date_of_birth|19.12.1952]], SV-Nr. [[social_security_number|5867 191252]], [[address|Industriestraße 21, 2700 Wiener Neustadt]], vertreten durch ihre Rechtsanwälte, wegen EUR 9.840,00 sA
 
 Streitwert: EUR 9.840,00
 
@@ -45,7 +45,7 @@ Der Beklagte erstattet die folgende
 
 6. Die Klägerin hat den Pkw im Jahr 2023 von einem dritten Verkäufer erworben und nicht vom Beklagten. Die Vereinbarung vom [[date|3. Oktober 2024]] über die Vermittlung weist den Beklagten nur als Vermittler aus, nicht als Verkäufer. Die Vermittlungsprovision wurde von der Klägerin direkt bezahlt.
 
-7. Die Klägerin hat die Unterlagen der Versicherung erst am [[date|20. Jänner 2025]] übermittelt, also acht Tage nach dem behaupteten Schadenseintritt. Die Verspätung ist durch nichts gerechtfertigt.
+7. Die Klägerin hat die Unterlagen der Versicherung erst am [[date|20. Jänner 2025]] übermittelt, also acht Tage nach dem behaupteten Schadenseintritt. Die Verspätung ist durch nichts gerechtfertigt. Die Klägerin hat auch nicht dargelegt, warum sie die Werkstatt erst nach drei Wochen aufsuchte.
 
 **II. Rechtliche Beurteilung**
 
@@ -63,7 +63,7 @@ Der Beklagte erstattet die folgende
 
 **III. Beweisanbote**
 
-Der Beklagte beantragt die Einvernahme des Zeugen [[person|Mag. Spirache Gherghel]] sowie die Beiziehung der Akten der Versicherung. Weiters beantragt der Beklagte die Einvernahme der Klägerin zu den Umständen der Schadensmeldung. Der Beklagte beantragt ferner die Vorlage des Kaufvertrages vom [[date|3. Oktober 2024]] und die Einvernahme des Mitarbeiters des Autohauses [[person|Mićović]] als Zeugen.
+Der Beklagte beantragt die Einvernahme des Zeugen [[person|Mag. Spirache Gherghel]] sowie die Beiziehung der Akten der Versicherung. Weiters beantragt der Beklagte die Einvernahme der Klägerin zu den Umständen der Schadensmeldung. Der Beklagte beantragt ferner die Vorlage des Kaufvertrages vom [[date|3. Oktober 2024]] und die Einvernahme des Mitarbeiters des Autohauses [[person|Mićović]] als Zeugen. Hilfsweise wird die Einholung eines Sachverständigengutachtens zur Schadensentstehung beantragt, wobei die Kosten der Klägerin aufzuerlegen wären.
 
 **IV. Anträge**
 
@@ -85,11 +85,11 @@ Der Beklagte beantragt,
 
 Die Vollmacht wird der Klagebeantwortung beigelegt. Sie wurde am [[date|30. Jänner 2025]] vom Beklagten unterfertigt und ist unbeschränkt erteilt. Der Beklagte wird in dieser Angelegenheit durch die Rechtsanwälte [[person|Fabian]], [[person|Grünewald]] und [[person|Vogler]] vertreten.
 
-Dem Beklagten wurde Gelegenheit zur Einsicht in den Akt gegeben. Der Beklagte stimmt einer Verhandlung im schriftlichen Verfahren nicht zu.
+Dem Beklagten wurde Gelegenheit zur Einsicht in den Akt gegeben. Der Beklagte hat den Akt am [[date|6. Februar 2025]] im Büro der Kanzlei eingesehen. Der Beklagte stimmt einer Verhandlung im schriftlichen Verfahren nicht zu.
 
 **VII. Hinweis auf Finanzierung und Schadensmeldung**
 
-Die Schadensmeldung der Versicherung trägt die Nummer [[other_identifier|93/400117/25]]. Die Versicherung hat die Deckung bisher nicht geprüft. Die Versicherung hat dem Beklagten mit Schreiben vom [[date|4. Februar 2025]] mitgeteilt, dass die Deckung für Schäden am Fahrzeug der Klägerin nicht bestehe, weil dieses Fahrzeug nicht auf den Beklagten zugelassen war. Der Beklagte bestreitet diese Darstellung, weil die Klägerin das Fahrzeug im Einverständnis mit ihm zugelassen hatte. Der Beklagte hat den Kredit für das Fahrzeug bei der [[organization|HYPO NOE Landesbank für Niederösterreich und Wien AG]] (kurz [[organization|HYPO NOE]]) aufgenommen. Die [[organization|HYPO NOE]] hat mit Schreiben vom [[date|3. Februar 2025]] angezeigt, dass sie die Kreditrate nicht bezahlt bekommt.
+Die Schadensmeldung der Versicherung trägt die Nummer [[other_identifier|93/400117/25]]. Die Klägerin wurde von der Versicherung über den Stand der Regulierung nicht informiert. Der Beklagte behält sich weitere Ausführungen nach Vorlage der Unterlagen vor. Der Beklagte hält an seinem gesamten Vorbringen fest. Dies gilt auch für die Zeugenangaben. Die Versicherung hat die Deckung bisher nicht geprüft. Die Versicherung hat dem Beklagten mit Schreiben vom [[date|4. Februar 2025]] mitgeteilt, dass die Deckung für Schäden am Fahrzeug der Klägerin nicht bestehe, weil dieses Fahrzeug nicht auf den Beklagten zugelassen war. Der Beklagte bestreitet diese Darstellung, weil die Klägerin das Fahrzeug im Einverständnis mit ihm zugelassen hatte. Der Beklagte hat den Kredit für das Fahrzeug bei der [[organization|HYPO NOE Landesbank für Niederösterreich und Wien AG]] (kurz [[organization|HYPO NOE]]) aufgenommen. Die [[organization|HYPO NOE]] hat mit Schreiben vom [[date|3. Februar 2025]] angezeigt, dass sie die Kreditrate nicht bezahlt bekommt.
 
 Der Schriftverkehr wird daher auch an [[organization|HYPO NOE]] übermittelt.
 
@@ -97,7 +97,7 @@ Tel. [[phone_number|07242 514842 Durchwahl 45]]
 
 **VIII. Kostenvorbehalt**
 
-Der Beklagte behält sich vor, im Falle der Klagsabweisung die Kosten nach dem Ergebnis des Verfahrens geltend zu machen. Die Kosten der Schadensbegutachtung sind von der Klägerin zu tragen, weil der Schaden nicht nachgewiesen wurde. Ein Vergleichsvorschlag des Gerichts wird im Hinblick auf die Vorfrage der Deckung begrüßt.
+Der Beklagte behält sich vor, im Falle der Klagsabweisung die Kosten nach dem Ergebnis des Verfahrens geltend zu machen. Die Kosten der Schadensbegutachtung sind von der Klägerin zu tragen, weil der Schaden nicht nachgewiesen wurde. Ein Vergleichsvorschlag des Gerichts wird im Hinblick auf die Vorfrage der Deckung begrüßt. Der Beklagte stimmt einem Vergleich nur zu, wenn die Klägerin auf Zinsen verzichtet.
 
 **Stempel:** EINGELANGT: [[person|ROMANELLI MASSIMO]] – [[person|RUBIĆ LJERKA]] – [[court|BG WIENER NEUSTADT]]
 

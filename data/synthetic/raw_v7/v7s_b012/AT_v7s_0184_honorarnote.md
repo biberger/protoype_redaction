@@ -11,10 +11,11 @@ E: [[email|office@faulhammer.at]]  W: www.faulhammer.at
 UID: [[tax_id|ATU54467660]]
 [[organization|Raiffeisenbank Eisbach registrierte Genossenschaft mit beschränkter Haftung]] IBAN: [[bank_account|AT46 8327 2732 4275 7811]] BIC: [[bank_account|BKAUATWW]]
 ERV-Code: [[other_identifier|P114669]]
+Tel. [[phone_number|+43 316 941 41 17-3]]
 
 HONORARNOTE NR. 2026-117
 
-Empfänger: [[person|Ingbert Wiedenhofer]]
+EMPFÄNGER: [[person|WIEDENHOFER Ingbert]]
 Klientennummer: [[other_identifier|87025]]
 Gericht: [[court|Bezirksgericht Liesing]]
 
@@ -26,7 +27,7 @@ Datum | Leistung | Betrag
 [[date|12.01.2026]] | Erstbesprechung [[person|Wiedenhofer]], Aktenstudium | EUR 290,00
 [[date|19.01.2026]] | Klage und Beilagen für [[person|Ingbert Wiedenhofer]] verfasst | EUR 640,00
 [[date|02.02.2026]] | Telefonat mit [[person|Crescentia Schütz]] | EUR 120,00
-[[date|16.02.2026]] | Schriftsatz vom Gegner, Stellungnahme zur Klagebeantwortung | EUR 480,00
+[[date|16.02.2026]] | Schriftsatz der Gegenseite, Stellungnahme zur Klagebeantwortung | EUR 480,00
 [[date|03.03.2026]] | Verhandlung [[court|BG Liesing]], Vertretung von [[person|I. Wiedenhofer]] | EUR 760,00
 
 Zwischensumme netto: EUR 2.290,00
@@ -39,4 +40,4 @@ Mit freundlichen Grüßen
 
 [[lawyer|Faulhammer]]
 
-Ihr Zeichen: [[person|Crescentia Schütz]] · Akt Wiedenhofer/Schütz
+Ihr Zeichen: [[other_identifier|Schütz/Wiedenhofer]]
