@@ -74,6 +74,11 @@ Die Mieter haften für sämtliche Verbindlichkeiten aus diesem Vertrag solidaris
 
 Die Mieter erklären, den Mietvertrag gelesen und verstanden zu haben. Eine Ausfertigung wurde jeder Partei ausgehändigt.
 
+Anlagen:
+./1 Übergabeprotokoll vom [[date|01.03.2016]]
+./2 Hausordnung in der Fassung vom [[date|01.02.2016]]
+./3 Plan der Wohnung und des Kellerabteils
+
 [[location|Semmering]], am [[date|26.02.2016]]
 
 Für die Vermieterin:

@@ -1,0 +1,102 @@
+---
+doc_type: obdk_disziplinar
+jurisdiction: AT
+lang: de
+---
+[[court|Disziplinarrat der Oberösterreichischen Rechtsanwaltskammer]]
+
+GZ [[case_number|D 4/2026]]
+
+Im Namen der Republik
+
+Entscheidung
+
+Der Disziplinarrat hat in der Sitzung vom [[date|30.10.2026]] in [[location|Linz]] über die Disziplinaranzeige des
+Kammeranwalts gegen die Rechtsanwältin [[person|Genia Helmberger]] entschieden. Die Anzeige stützt sich auf eine
+Beschwerde, die bei der [[organization|Oberösterreichischen Rechtsanwaltskammer]] ([[organization|RAK OÖ]]) eingegangen ist.
+
+Anwesende:
+Vorsitzende: [[person|Dr. Griet Steen]]
+Beisitzer: [[person|Dr. Arnt Huppert]], [[person|Mag. Ferdinand Resetar]], GEB: [[date_of_birth|1966-07-20]]
+Kammeranwalt: [[person|Hatto Puchner]]
+Schriftführerin: [[person|Antonette Kornberger]]
+Beschuldigte: [[person|Genia Helmberger]], Rechtsanwältin in [[location|Linz]]
+
+Ihr Zeichen: [[other_identifier|F/Helmberger/2610]]
+Tel. [[phone_number|02622/920229-4]]
+
+I. Spruch
+
+Die Beschuldigte [[person|Genia Helmberger]] hat als Treuhänderin fremde Gelder nicht in dem nach den
+Standesregeln gebotenen Umfang verwaltet, Treuhandbewegungen verspätet und ungenau verbucht und eine
+Auszahlung ohne schriftliche Weisung des Mandanten vorgenommen. Sie hat dadurch die Pflichten nach
+[[legal_norm|§ 1 RAO]] und die Richtlinien für die Ausübung des Rechtsanwaltsberufes verletzt.
+
+Sie wird gemäß [[legal_norm|§ 45 Abs 1 Z 3 RAO]] mit einer Geldbuße von EUR 5.500,00 bestraft. Ferner wird ihr
+ein Verweis erteilt. Die Kosten des Verfahrens von EUR 1.420,00 hat die Beschuldigte zu tragen.
+
+II. Sachverhalt
+
+[[person|Genia Helmberger]] betreibt seit dem Jahr 2011 eine Kanzlei in [[location|Linz]] und ist als Treuhänderin
+für mehrere Mandanten tätig. Im Jahr 2024 übernahm sie die Abwicklung eines Liegenschaftskaufs für
+[[person|Ivo Lamprecht]] und nahm in diesem Zusammenhang Zahlungen auf ihr Treuhandkonto entgegen.
+
+Die Beschwerde wurde von [[person|Ruth Ascher]] erhoben, die behauptete, ein ihr zustehender Betrag
+sei nicht ordnungsgemäß abgerechnet worden. Der Kammeranwalt [[person|Hatto Puchner]] forderte
+daraufhin die Treuhandbücher für die Jahre 2024 und 2025 an. Aus diesen ergibt sich folgender Verlauf:
+
+Datum | Vorgang | Betrag | Mandant | Verbuchung
+[[date|12.04.2024]] | Zahlungseingang | EUR 42.000,00 | [[person|Ivo Lamprecht]] | Eintrag am [[date|03.05.2024]]
+[[date|20.05.2024]] | Auszahlung an Verkäufer | EUR 38.750,00 | [[person|Ivo Lamprecht]] | Eintrag am [[date|20.05.2024]]
+[[date|07.11.2024]] | Zahlungseingang | EUR 4.800,00 | [[person|Ruth Ascher]] | nicht verbucht
+[[date|15.01.2025]] | Auszahlung an [[person|Ruth Ascher]] | EUR 2.900,00 | [[person|Ruth Ascher]] | Eintrag am [[date|02.06.2025]]
+
+Die Auszahlung vom [[date|15.01.2025]] erfolgte ohne schriftliche Weisung. Die Beschuldigte gab an, die
+Mandantin habe am Telefon eingewilligt. Eine Aktennotiz über das Gespräch fehlt. Der Zahlungseingang vom
+[[date|07.11.2024]] wurde nicht in das Treuhandbuch übertragen, sondern erst im Zuge der Prüfung nachgetragen.
+
+Die [[organization|RAK OÖ]] ersuchte die Beschuldigte am [[date|10.06.2025]] um eine Stellungnahme. Die
+Beschuldigte antwortete am [[date|25.06.2025]] und führte aus, die Buchhaltung sei während einer Erkrankung
+ihrer Kanzleimitarbeiterin nicht laufend geführt worden. Die Mitarbeiterin wurde nicht als Zeugin benannt.
+
+Beweiswürdigung
+
+Der Senat hat die Treuhandbücher, die Korrespondenz mit [[person|Ruth Ascher]] und das Protokoll der
+Einvernahme der Beschuldigten gewürdigt. Die Zeugin [[person|Ascher]] hat die Abrechnung anhand der
+Kontoauszüge nachvollziehbar dargelegt. Die Angaben der Beschuldigten zur telefonischen Weisung sind
+nicht glaubhaft, weil sie in keiner der Akten einen Anhaltspunkt findet.
+
+Die Schriftführerin hat das Protokoll der Sitzung aufgenommen. Der Beisitzer [[person|Mag. Ferdinand Resetar]]
+hat sich während der Beratung wegen einer Verhinderung entschuldigt und die Entscheidung nicht mitgetragen.
+Die Entscheidung ist daher mit der nach § 53 Abs 2 RAO erforderlichen Mehrheit gefasst.
+
+III. Rechtliche Beurteilung
+
+Die Verwaltung fremder Gelder gehört zu den zentralen Berufspflichten einer Rechtsanwältin. Die Verbuchung
+muss zeitnah erfolgen, damit jederzeit nachvollziehbar ist, welche Beträge für welchen Mandanten vorhanden sind.
+Die verspätete Verbuchung vom [[date|03.05.2024]] und die fehlende Verbuchung des Zahlungseingangs
+vom [[date|07.11.2024]] verletzen diese Pflicht.
+
+Die Auszahlung vom [[date|15.01.2025]] ohne schriftliche Weisung ist ein schwerwiegender Verstoß. Der
+Disziplinarrat sieht den Umstand, dass die Auszahlung nicht zurückgefordert wurde, als mildernd an. Dies
+ändert jedoch nichts an der Pflichtverletzung.
+
+Die Pflichtverletzungen sind nicht als vorsätzlich zu werten, weil die Beschuldigte ihre Organisation offenbar
+nicht ausreichend kontrolliert hat. Der Senat hält eine Geldbuße für erforderlich, um die Bedeutung der
+Treuhandpflichten zu verdeutlichen.
+
+Strafbemessung
+
+Mildernd wirken die bisherige Unbescholtenheit, das Geständnis hinsichtlich der Verspätung und die
+Rückzahlung der Gebühren an [[person|Ruth Ascher]]. Erschwerend wirkt die Dauer der Verzögerung von fast
+sieben Monaten. Die Geldbuße berücksichtigt die wirtschaftlichen Verhältnisse der Beschuldigten.
+
+Gegen diese Entscheidung ist die Berufung an die [[court|OBDK]] zulässig. Die Berufung ist binnen zwei Wochen
+nach Zustellung beim Disziplinarrat einzubringen.
+
+Für den Disziplinarrat:
+
+[[person|Dr. Griet Steen]]
+Vorsitzende
+
+[[location|Linz]], am [[date|30.10.2026]]

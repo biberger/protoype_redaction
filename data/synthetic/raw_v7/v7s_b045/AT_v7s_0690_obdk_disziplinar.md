@@ -54,7 +54,7 @@ Der Beschuldigte bestreitet, die Gelder für eigene Zwecke verwendet zu haben. E
 
 Die Kammeranwältin hat in der Verhandlung angeregt, eine Untersagung der Vertretung in Treuhandangelegenheiten zu prüfen. Der Senat hat davon abgesehen, weil der Beschuldigte ein Konzept zur künftigen Verwahrung vorgelegt hat, das eine Trennung der Gelder und eine monatliche Abstimmung vorsieht.
 
-VI. Vorbringen des Beschuldigten
+IV. Vorbringen des Beschuldigten
 
 Der Beschuldigte hat im schriftlichen Verfahren vorgebracht, dass die Anzeigerin ihm die Abwicklung des Verkaufs nur mündlich übertragen habe und dass eine schriftliche Vollmacht nie unterzeichnet worden sei. Er habe die Gelder daher als Vorschuss betrachtet, den er zur Deckung von Kosten verwenden durfte. Die Zahlung an den Gutachter sei im Einvernehmen mit der Anzeigerin erfolgt, die ihm telefonisch die Zustimmung erteilt habe.
 
@@ -62,29 +62,31 @@ Der Senat hat diese Darstellung geprüft. Eine schriftliche Vollmacht liegt nich
 
 Der Beschuldigte hat außerdem vorgebracht, dass seine Kanzlei im Jahr 2023 durch den Ausfall einer Mitarbeiterin stark belastet war. Dieser Umstand wird vom Senat als nachvollziehbar anerkannt, rechtfertigt die Verwendung fremder Gelder aber nicht.
 
-VII. Zeugenaussagen
+V. Zeugenaussagen
 
 Die Anzeigerin [[person|Akkad]] wurde in der Verhandlung vom [[date|22. Juli 2026]] als Zeugin gehört. Sie schilderte, dass sie den Beschuldigten als Vertreter des Verkaufs ausgewählt hatte, weil er ihr von einem Kollegen empfohlen worden sei. Die Gelder habe sie stets in dem Glauben überwiesen, dass sie auf einem getrennten Konto verwahrt würden.
 
 Der Gutachter, dessen Honorar angeblich aus dem Treuhandkonto bezahlt wurde, konnte nicht geladen werden, weil er zwischenzeitlich verzogen ist. Der Senat hat die Vorlage der Gutachterrechnung verlangt; eine solche ist bis zur Entscheidung nicht eingelangt.
 
-VIII. Anträge der Parteien
+VI. Anträge der Parteien
 
 Die Kammeranwältin [[person|Sieghart]] beantragt die Verhängung einer Geldbuße im oberen Bereich des Strafrahmens sowie die Untersagung der Vertretung in Treuhandangelegenheiten für die Dauer von zwei Jahren. Der Beschuldigte beantragt die Einstellung des Verfahrens, hilfsweise die Verhängung einer Ermahnung.
 
 Der Senat hat die Anträge geprüft und entschieden, dass eine Ermahnung der Schwere des Verstoßes nicht gerecht würde. Die Einstellung kommt wegen des Umfangs der Verwendung ebenfalls nicht in Betracht.
 
-IV. Rechtliche Beurteilung
+VII. Rechtliche Beurteilung
 
 Die Verwahrung von Treuhandgeldern ist eine zentrale Berufspflicht eines Rechtsanwalts. Die Gelder sind getrennt von eigenen Mitteln und von den Mitteln anderer Klienten zu verwahren. Eine Verwendung für fremde Zwecke ohne schriftliche Weisung ist auch dann pflichtwidrig, wenn der Betrag später zurückbezahlt wird.
 
 Der Senat hat den Tatbestand der Verletzung der Berufspflichten als erwiesen angesehen. Die Auszahlung vom [[date|14.11.2023]] ist durch keinen Beleg gedeckt und stellt eine Verfügung über fremde Gelder dar, die nicht durch den Auftrag gedeckt war. Die [[legal_norm|RAO]] verlangt, dass der Rechtsanwalt die Treuhandgelder ordnungsgemäß und nachvollziehbar verwaltet.
 
-Ein Vermögensschaden ist nicht eingetreten, weil die Gelder vollständig zurückgezahlt wurden. Dieser Umstand ist bei der Strafbemessung zu berücksichtigen, rechtfertigt aber keine Einstellung des Verfahrens.
+Ein Vermögensschaden ist nicht eingetreten, weil die Gelder vollständig zurückgezahlt wurden. Dieser Umstand ist bei der Strafbemessung zu berücksichtigen, rechtfertigt aber keine Einstellung des Verfahrens. Der Senat verkennt nicht, dass die Anzeigerin über einen längeren Zeitraum im Ungewissen war, und sieht darin eine Verletzung der Informationspflichten gegenüber dem Klienten. Die Pflicht zur Auskunft über den Stand der Gelder ist eine eigenständige Berufspflicht, die der Beschuldigte nicht erfüllt hat.
 
-V. Strafbemessung
+Die Richtlinien für den Berufsstand verlangen zudem, dass Zahlungen aus einem Treuhandkonto zeitnah dokumentiert werden. Die Dokumentation fehlte im vorliegenden Fall für den Zeitraum von mehr als sechs Monaten, was den Vorwurf der Pflichtverletzung weiter verstärkt.
 
-Mildernd wirkt die vollständige Rückzahlung, die bisherige Unbescholtenheit und die Einsicht des Beschuldigten im Verfahren. Erschwerend wirkt die Dauer der zeitweisen Verwendung der Gelder, die über ein Jahr betrug. Die Geldbuße von EUR 5.000,00 entspricht nach Auffassung des Senates der Schwere der Verfehlung.
+VIII. Strafbemessung
+
+Mildernd wirkt die vollständige Rückzahlung, die bisherige Unbescholtenheit und die Einsicht des Beschuldigten im Verfahren. Erschwerend wirkt die Dauer der zeitweisen Verwendung der Gelder, die über ein Jahr betrug. Die Geldbuße von EUR 5.000,00 entspricht nach Auffassung des Senates der Schwere der Verfehlung. Bei der Bemessung hat der Senat auch berücksichtigt, dass der Beschuldigte als Einzelanwalt tätig ist und keine Mitarbeiter beschäftigt, die Verwahrungsaufgaben übernehmen könnten. Die wirtschaftlichen Verhältnisse des Beschuldigten erlauben die Zahlung der Geldbuße innerhalb der gesetzlichen Frist. Eine Ratenzahlung wurde nicht beantragt und ist daher nicht zu gewähren.
 
 Die Kosten des Verfahrens trägt der Beschuldigte gemäß [[legal_norm|§ 52 RAO]]. Die Entscheidung ist mit einer Berufung an die [[court|OBDK]] anfechtbar. Die Berufungsfrist beträgt vier Wochen ab Zustellung dieses Beschlusses.
 

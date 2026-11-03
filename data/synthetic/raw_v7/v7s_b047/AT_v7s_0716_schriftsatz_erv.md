@@ -43,7 +43,7 @@ I. Sachverhalt
 
 3. Ein Sachverständiger, [[person|Ing. Jenny Katzmayr]], stellte am [[date|18.11.2024]] fest, dass die Abdichtung nicht fachgerecht ausgeführt wurde. Die Mängelbehebung würde 8.450 Euro netto kosten. Die Klägerin hat die [[organization|THG]] mit Schreiben vom [[date|03.12.2024]] zur Mängelbehebung aufgefordert, eine Reaktion blieb aus.
 
-4. Die Klägerin hat nach dem Mangelbefund den Rücktritt vom Vertrag erklärt. Sie begehrt daher die Rückzahlung der Anzahlung und Schadenersatz für die Kosten der Ersatzvornahme.
+4. Die Klägerin hat nach dem Mangelbefund den Rücktritt vom Vertrag erklärt. Die Rücktrittserklärung vom [[date|07.01.2025]] wurde dem Beklagten per eingeschriebenem Brief zugestellt; der Brief wurde am [[date|09.01.2025]] behoben. Der Beklagte hat den Empfang nicht bestritten, aber auch nicht reagiert. Sie begehrt daher die Rückzahlung der Anzahlung und Schadenersatz für die Kosten der Ersatzvornahme.
 
 II. Rechtliche Ausführungen
 

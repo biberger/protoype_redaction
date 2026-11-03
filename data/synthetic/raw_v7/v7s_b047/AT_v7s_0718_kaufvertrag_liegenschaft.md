@@ -44,7 +44,7 @@ Die Verkäuferin ist grundbücherliche Eigentümerin der nachstehend beschrieben
 
 I. Kaufgegenstand
 
-Gegenstand des Kaufs ist die Liegenschaft, im Grundbuch eingetragen als Einlagezahl [[land_register_id|715]] [[land_register_id|K.G. 37298 Brunn am Gebirge]] samt dem darauf errichteten Wohnhaus, Grundstück Nr. [[land_register_id|1234/5]]. Die Liegenschaft ist im Grundbuch außerdem als [[land_register_id|KG 86462 Losenstein]]/[[land_register_id|EZ. 905]] ([[court|BG Hernals]]) verzeichnet. Die Verkäuferin hat die Eintragung als Eigentümerin durch einen aktuellen Grundbuchsauszug vom [[date|03.11.2025]] nachgewiesen.
+Gegenstand des Kaufs ist die Liegenschaft, im Grundbuch eingetragen als Einlagezahl [[land_register_id|715]] [[land_register_id|K.G. 37298 Brunn am Gebirge]] samt dem darauf errichteten Wohnhaus, Grundstück Nr. [[land_register_id|1234/5]]. Die Liegenschaft ist im Grundbuch außerdem als [[land_register_id|KG 86462 Losenstein]]/[[land_register_id|EZ. 905]] ([[court|BG Hernals]]) verzeichnet. Die Verkäuferin hat die Eintragung als Eigentümerin durch einen aktuellen Grundbuchsauszug vom [[date|03.11.2025]] nachgewiesen. Die Liegenschaft umfasst eine Fläche von 1.240 m², wovon 310 m² auf die Hoffläche entfallen. Die Grenzen sind im Katasterplan festgelegt; eine Vermessung wurde nicht durchgeführt, die Käufer verzichten auf eine solche.
 
 II. Kaufpreis und Zahlung
 
@@ -62,7 +62,7 @@ Die Übergabe erfolgt mit dem Tag der Kaufpreiszahlung. Nutzen und Lasten gehen 
 
 V. Gewährleistung
 
-Die Verkäuferin haftet für die Lastenfreiheit der Liegenschaft. Das Vorkaufsrecht der Gemeinde ist nicht vorhanden. Für sonstige Mängel des Gebäudes wird die Gewährleistung ausgeschlossen, soweit dies gesetzlich zulässig ist.
+Die Verkäuferin haftet für die Lastenfreiheit der Liegenschaft. Sie haftet nicht für Schäden durch Wasser, die vor dem Stichtag der Übergabe entstanden sind, sofern diese bei der Besichtigung erkennbar waren; für verborgene Mängel an der Dachkonstruktion übernimmt sie jedoch die Gewähr im Umfang von zwölf Monaten ab Übergabe. Das Vorkaufsrecht der Gemeinde ist nicht vorhanden. Für sonstige Mängel des Gebäudes wird die Gewährleistung ausgeschlossen, soweit dies gesetzlich zulässig ist.
 
 Die Käufer bestätigen, dass ihnen die Bonitätsprüfung der finanzierenden Bank bekannt ist. Die Finanzierung erfolgt durch ein Darlehen über 190.000 Euro, dessen Zusage der Bank vom [[date|10.11.2025]] vorliegt. Die Zusage ist aufschiebende Bedingung für die Zahlung des Restkaufpreises; fällt sie weg, ist die Verkäuferin berechtigt, vom Vertrag zurückzutreten, nachdem die Käufer eine Nachfrist von vier Wochen ungenützt verstreichen ließen.
 

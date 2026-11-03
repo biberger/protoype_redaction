@@ -58,6 +58,10 @@ Der Erbe [[person|Vasilev]] hat die Frage aufgeworfen, ob die Mietkaution der Ve
 
 Der Erblasser hat die Mietwohnung nach Auskunft der Hausverwaltung ordnungsgemäß übergeben. Ein Schaden an der Einrichtung wurde nicht festgestellt.
 
+Die Erben haben die Sterbeurkunde und die Geburtsurkunden der Erben vorgelegt. Die Geburtsurkunde des Erben [[person|Vasilev]] weist eine abweichende Schreibweise des Geburtsortes aus, die durch eine Berichtigung des Standesamtes am [[date|27. Juli 2026]] bestätigt wurde. Die Erbquote des Erben ist davon nicht berührt.
+
+Der Erblasser war nicht verheiratet und hat keine eingetragene Partnerschaft begründet. Eine Lebensgefährtin, die Ansprüche erheben könnte, ist nach Auskunft der Erben nicht vorhanden. Das Gericht hat diesen Umstand im Beschluss vom [[date|2. August 2026]] berücksichtigt.
+
 Die Kosten der Verlassenschaft werden nach dem Notariatstarif berechnet. Die Gerichtsgebühren sind vorab zu entrichten.
 
 Das [[court|BG Liezen]] hat den Akt am [[date|20. Juli 2026]] zur Ergänzung zurückgestellt, weil die Kaufpreisforderung aus dem Verkauf eines Fahrzeugs im Inventar fehlte. Die Forderung wurde am [[date|4. August 2026]] nachgereicht und mit dem Erlös aus dem Verkauf vom [[date|30. Juli 2026]] belegt. Der Erlös von 2.100 Euro ist dem Konto der Verlassenschaft gutgeschrieben worden.
