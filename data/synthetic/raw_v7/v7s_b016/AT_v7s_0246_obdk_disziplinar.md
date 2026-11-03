@@ -46,7 +46,7 @@ Die Berufung rügt weiters, der Disziplinarrat habe die Strafe ohne Berücksicht
 
 Die Kammeranwältin [[person|Mag. Fridoline Weiland]] hat zur Berufung Stellung genommen und ausgeführt, eine telefonische Weisung genüge nach den Treuhandbedingungen nicht. Die schriftliche Freigabe sei ausdrücklich vorgesehen gewesen. Die Berufung sei daher unbegründet, soweit sie die Schuldfrage betreffe.
 
-**Zur Klientin Ilse Pachernegg**
+**Zur Klientin [[person|Ilse Pachernegg]]**
 
 Die Klientin [[person|Ilse Pachernegg]] hat in einer Eingabe vom [[date|20. März 2023]] mitgeteilt, sie habe keine Weisung erteilt. Den Betrag habe sie für den Erwerb einer Wohnung in [[location|Maria Saal]] benötigt, der Kaufvertrag sei jedoch nicht zustande gekommen. Die Eingabe liegt dem Senat in Kopie vor.
 

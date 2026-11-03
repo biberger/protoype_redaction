@@ -11,7 +11,7 @@ E: [[email|office@faerber.at]]  W: www.faerber.at
 [[organization|Oberbank AG]] IBAN: [[bank_account|AT67 3675 5783 5838 4249]] BIC: [[bank_account|SPIHAT22]]
 ERV-Code: [[other_identifier|P843342]]
 
-+++ EINGANG [[date|29.10.2026]] +++ [[person|SAKELLAROPOULOS GLYKERIA]] +++ PAUL KG +++
++++ EINGANG [[date|29.10.2026]] +++ [[person|SAKELLAROPOULOS GLYKERIA]] +++ [[organization|PAUL KG]] +++
 
 KAUFVERTRAG
 
@@ -66,11 +66,21 @@ Der Verkäufer erteilt der Käuferin die Aufsandungserklärung zur Einverleibung
 
 VI. Treuhandabwicklung
 
-1. Die Kanzlei verwahrt den Kaufpreis auf dem Treuhandkonto. Die Auszahlung erfolgt nach Eingang der Bestätigung über die Lastenfreistellung. Die Kanzlei führt über alle Zahlungen ein Kontenbuch, das den Vertragsteilen auf Verlangen zur Einsicht offensteht.
+1. Die Kanzlei verwahrt den Kaufpreis auf dem Treuhandkonto. Die Verzinsung des Treuhandkontos fällt den Vertragsteilen im Verhältnis des Kaufpreises zu; eine Zinsschwelle wird nicht vereinbart. Die Auszahlung erfolgt nach Eingang der Bestätigung über die Lastenfreistellung. Die Kanzlei führt über alle Zahlungen ein Kontenbuch, das den Vertragsteilen auf Verlangen zur Einsicht offensteht.
 
 2. Die Kanzlei ist ermächtigt, die Grunderwerbsteueranzeige im Namen der Vertragsteile zu erstatten.
 
 3. Die Treuhandnummer der Kanzlei wird den Vertragsteilen gesondert mitgeteilt.
+
+VI a. Grundverkehr und Genehmigungen
+
+1. Der Erwerb der Liegenschaften bedarf nach den Vorschriften des Grundverkehrsrechts der Genehmigung der zuständigen Behörde. Die Vertragsteile verpflichten sich, den erforderlichen Antrag innerhalb von vierzehn Tagen nach Unterfertigung dieses Vertrages einzubringen.
+
+2. Der Vertrag steht unter der aufschiebenden Bedingung der Genehmigung. Wird die Genehmigung versagt, ist der Vertrag als nicht geschlossen anzusehen, und der Kaufpreis wird ohne Abzug an die Käuferin zurückbezahlt.
+
+3. Die Käuferin erklärt, dass sie die Voraussetzungen für den Erwerb eines landwirtschaftlichen Betriebes erfüllt, insbesondere die Hofübernahme nach dem Landwirtschaftsgesetz beabsichtigt.
+
+4. Der Verkäufer erteilt seine Zustimmung, dass die Förderungsstelle des Landes die Angaben aus diesem Vertrag für die Prüfung einer Förderung verwenden darf.
 
 VII. Übergabe und Gewährleistung
 

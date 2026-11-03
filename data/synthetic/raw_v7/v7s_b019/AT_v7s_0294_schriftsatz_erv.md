@@ -19,6 +19,8 @@ elektronisch über den ERV
 
 **STREITWERT: EUR 6.850,00**
 
+PARTEIEN: KLÄGERIN [[person|NICOLETTE KASERER]], BEKLAGTE [[person|TATIANA KOLLÁTOS]]
+
 Gegenstand: Schadenersatz aus einem Auffahrunfall, Rückforderung von Mietzins und Kaution
 
 **ZUR SACHE**
@@ -61,6 +63,7 @@ Ort, Datum: [[address|7551 Stegersbach]], am [[date|1. Juni 2026]]
 
 [[person|Ertl]]
 Rechtsanwalt
+Tel. [[phone_number|+43-1-9183817 Durchwahl 73]]
 
 **Zustellung**
 

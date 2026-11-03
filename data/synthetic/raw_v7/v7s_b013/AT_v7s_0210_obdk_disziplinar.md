@@ -10,7 +10,7 @@ Tel. [[phone_number|+43 5572 650 44 44-5]]
 
 [[address|7222 Rohrbach bei Mattersburg]]
 
-Wien, am [[date|29.10.2026]]
+[[location|Wien]], am [[date|29.10.2026]]
 
 **BESCHLUSS**
 
@@ -35,7 +35,7 @@ Der Kammeranwalt [[person|Dr. Longin Oleksiak]] hat die Abweisung der Berufung b
 
 **II. Feststellungen**
 
-1. [[person|Alois Rill]] betreibt seit dem Jahr 2008 eine Einzelkanzlei in Rohrbach bei Mattersburg. Er verwaltete im Jahr 2024 mehrere Treuhandschaften für Liegenschaftskäufe, bei denen die Käufer Teile des Kaufpreises auf ein Anderkonto zahlten.
+1. [[person|Alois Rill]] betreibt seit dem Jahr 2008 eine Einzelkanzlei in [[location|Rohrbach bei Mattersburg]]. Er verwaltete im Jahr 2024 mehrere Treuhandschaften für Liegenschaftskäufe, bei denen die Käufer Teile des Kaufpreises auf ein Anderkonto zahlten.
 
 2. Im Fall der Treuhandschaft für [[person|Ilse Waldbauer]] wurde ein Betrag von 58.000,00 Euro am [[date|12.03.2024]] auf das Treuhandkonto eingezahlt. Am [[date|20.03.2024]] wurden 40.000,00 Euro an den Verkäufer [[person|Zoran Pavlović]] ausbezahlt. Der Rest von 18.000,00 Euro blieb ohne Weisung auf dem Konto.
 
@@ -44,6 +44,24 @@ Der Kammeranwalt [[person|Dr. Longin Oleksiak]] hat die Abweisung der Berufung b
 4. Im Fall der Treuhandschaft für [[person|Zoran Pavlović]] wurde der Treuhandauftrag am [[date|02.05.2024]] widerrufen. Die Rückzahlung an den Käufer erfolgte jedoch erst am [[date|09.09.2024]] nach mehrfacher Aufforderung.
 
 5. Die Treuhandbücher wurden für die Monate März bis September 2024 nicht fortlaufend geführt. Die Einträge zu den Zahlungen vom [[date|12.03.2024]] und [[date|06.08.2024]] fehlen vollständig.
+
+**II/1. Vorbringen des Berufungswerbers**
+
+Der Berufungswerber hat ausgeführt, dass die Verspätung der Auszahlung auf eine technische Störung des Online-Bankings zurückzuführen sei. Die Freigabe der Zahlung sei am [[date|06.08.2024]] an einem Feiertag erfolgt, weshalb die Buchung erst am folgenden Werktag im Treuhandbuch hätte eingetragen werden können.
+
+Weiters hat der Berufungswerber vorgebracht, dass er sich in der Zeit von März bis September 2024 wegen einer schweren Erkrankung seiner Ehefrau nur eingeschränkt um die Kanzlei kümmern konnte. Eine Vertretung habe er nicht bestellt, da er davon ausgegangen sei, die Angelegenheiten seien überschaubar.
+
+**II/2. Weitere Feststellungen**
+
+6. Im Zuge der Prüfung durch die [[organization|RAKB]] wurden weitere Zahlungen festgestellt, die nicht im Treuhandbuch verzeichnet sind. Dabei handelt es sich um eine Einzahlung von 9.500,00 Euro durch den Käufer [[person|Mehmet Aydoğan]] am [[date|21.06.2024]] sowie eine Auszahlung von 9.000,00 Euro an die Verkäuferin [[person|Gudrun Paulitsch]] am [[date|27.06.2024]].
+
+7. Die Differenz von 500,00 Euro wurde am [[date|28.06.2024]] auf das Kanzleikonto des Berufungswerbers überwiesen. Eine Honorarnote über diesen Betrag liegt nicht vor. Der Berufungswerber hat den Betrag später mit Schreiben vom [[date|15.07.2024]] als Honorar für die Vertragserrichtung bezeichnet.
+
+8. Die Verkäuferin [[person|Gudrun Paulitsch]] hat in ihrer schriftlichen Stellungnahme angegeben, dass der Kaufpreis vollständig vereinbart war und sie keinen Abzug akzeptiert hat. Der Käufer [[person|Mehmet Aydoğan]] hat die Einzahlung in voller Höhe bestätigt.
+
+**II/3. Zum Verfahrensgang vor dem Disziplinarrat**
+
+Der Disziplinarrat der [[organization|RAKB]] hat die Verhandlung am [[date|10.04.2026]] durchgeführt und den Berufungswerber persönlich gehört. Der Berufungswerber war nicht anwaltlich vertreten. Die Vernehmung der Zeugin [[person|Gudrun Paulitsch]] wurde nicht beantragt. Die Entscheidung wurde am [[date|17.04.2026]] verkündet und dem Berufungswerber am selben Tag zugestellt.
 
 **III. Beweiswürdigung**
 
@@ -77,4 +95,4 @@ Vorsitzende
 [[person|Dunja Shams]]
 Schriftführerin
 
-Wien, am [[date|29.10.2026]]
+[[location|Wien]], am [[date|29.10.2026]]
