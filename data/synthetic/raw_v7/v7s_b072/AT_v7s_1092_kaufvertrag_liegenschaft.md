@@ -38,7 +38,7 @@ Der Kaufpreis beträgt EUR 312.000,00. Er ist wie folgt zu entrichten:
 
 Die Anzahlung von EUR 31.200,00 wurde bei Vertragsunterfertigung auf das Treuhandkonto IBAN [[bank_account|AT59 3925 3836 1513 2673]] bezahlt. Der Restkaufpreis von EUR 280.800,00 ist binnen 30 Tagen nach Vorliegen der grundbücherlichen Voraussetzungen zu überweisen.
 
-Die Kanzlei [[person|Teissl]] wurde als Treuhänderin bestellt. Die Treuhandbuch-Nr. [[other_identifier|2022/285]] ist dem Vertrag beigeschlossen. Der Erwerb durch die [[organization|Lantschner]] wurde im Vorfeld geprüft und ist nicht Gegenstand dieses Vertrages.
+Die Kanzlei [[person|Teissl]] wurde als Treuhänderin bestellt. Die Treuhandbuch-Nr. [[other_identifier|2022/285]] ist dem Vertrag beigeschlossen. Der Erwerb durch die [[organization|Lantschner GmbH]] ([[company_register_number|FN 380061p]], UID: [[tax_id|ATU12817843]]) wurde im Vorfeld geprüft und ist nicht Gegenstand dieses Vertrages. Die [[organization|Lantschner]] hat auf die Rückzahlung eines Darlehens verzichtet, sofern der Kaufpreis fristgerecht bezahlt wird.
 
 IV. Aufsandungserklärung
 
@@ -49,6 +49,10 @@ Die Verkäufer bestätigen, dass im Grundbuch keine Pfandrechte zugunsten Dritte
 V. Gewährleistung und Übergabe
 
 Die Übergabe erfolgt mit dem Tag der vollständigen Kaufpreiszahlung. Die Verkäufer haften für die Lastenfreiheit der Liegenschaft. Eine Haftung für Mängel des Gebäudes wird ausgeschlossen, soweit diese dem Käufer bekannt waren.
+
+Der Käufer [[person|Boeken]] erklärt, die Liegenschaft für den Betrieb eines Lebensmittelgeschäftes im Erdgeschoß zu erwerben. Die Verkäufer [[person|Wandruszka]] und [[person|Bohatsch]] bestätigen, dass die Räume im Erdgeschoß seit dem Jahr 2015 nicht vermietet sind und keine Mietverträge bestehen. Die Gemeinde hat die Nutzungsänderung mit Bescheid vom [[date|12.03.2026]] vorläufig genehmigt.
+
+Die Verkäufer haben dem Käufer die letzte Betriebskostenabrechnung für das Jahr 2025 übergeben. Offene Forderungen der Hausverwaltung wurden vor Vertragsabschluss ausgeglichen. Der Käufer übernimmt das Inventar im Hof, soweit es nicht ausdrücklich ausgenommen wurde.
 
 VI. Kosten und Steuern
 

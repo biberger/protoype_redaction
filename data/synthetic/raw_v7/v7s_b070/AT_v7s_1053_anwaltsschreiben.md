@@ -40,6 +40,8 @@ Wir weisen darauf hin, dass der Mandant bereits mit Schreiben vom [[date|24.02.2
 
 Der Mandant hat durch den Unfall eine Woche Arbeitsverhinderung erlitten; die Verdienstentgangsansprüche sind in der Schadenspauschale berücksichtigt. Eine Bestätigung des Arbeitgebers liegt bei.
 
+Die Schadenspauschale ist nach den Richtlinien der Kammer für Kraftfahrzeugschäden berechnet und wird auf die Position Nutzungsentschädigung nicht angerechnet.
+
 Beilagen:
 ./A Vollmacht vom [[date|20.02.2025]]
 ./B Lichtbilder der Unfallstelle

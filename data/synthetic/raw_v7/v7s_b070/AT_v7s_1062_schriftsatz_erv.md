@@ -57,6 +57,8 @@ Die Klägerin hat vorprozessual die Zahlung des Betrages unter Setzung einer Fri
 
 Die Klägerin beantragt die Vernehmung der Zeugin [[person|Liebl]] sowie die Einholung eines Gutachtens zum Wasserschaden.
 
+Die Beklagte hat im Verfahren ferner vorgebracht, die Räume seien nicht vollständig übergeben worden. Diesem Vorbringen steht das vom [[date|1. Juli 2019]] datierte Übergabeprotokoll entgegen, das die Schlüsselübergabe bestätigt.
+
 Beilagen:
 ./A Mietvertrag vom [[date|1. Juli 2019]]
 ./B Kündigungsschreiben vom [[date|3. Februar 2025]]

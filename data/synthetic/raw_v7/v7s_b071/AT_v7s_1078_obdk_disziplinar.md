@@ -71,7 +71,7 @@ Die Geldbuße von EUR 1.200,00 entspricht dem Verschulden. Mildernd ist, dass de
 
 Der Senat hat außerdem berücksichtigt, dass der Beschuldigte die Kanzleiorganisation inzwischen überarbeitet und eine externe Buchhaltung beauftragt hat. Die Kammer wird die Umsetzung im Rahmen der nächsten Kanzleiprüfung überprüfen. Auf den Umstand, dass die Klientin keinen dauerhaften Schaden erlitten hat, wurde ebenfalls abgestellt.
 
-Die Entscheidung ist den Parteien zuzustellen. Eine Ausfertigung erhält zudem die Kammeranwältin zur Kenntnis.
+Der Senat hat die Beweisanträge des Beschuldigten auf Vernehmung eines Steuerberaters abgelehnt, weil dessen Aussage nach Ansicht des Senates keinen Beitrag zur Klärung der Buchungsvorgänge leisten konnte. Die Kammeranwältin hat in ihrem Schlussvortrag darauf hingewiesen, dass die Verbuchungspflicht seit der Novelle der Richtlinien für die Buchführung verschärft wurde. Die Akten wurden dem Senat vollständig vorgelegt. Die Stellungnahme der Klientin wurde dem Beschuldigten zur Kenntnis gebracht. Die Entscheidung ist den Parteien zuzustellen. Eine Ausfertigung erhält zudem die Kammeranwältin zur Kenntnis.
 
 [[location|Wien]], am [[date|10. Februar 2026]]
 

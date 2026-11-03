@@ -16,7 +16,7 @@ HONORARNOTE Nr. 2026/1187
 Klientennummer: [[other_identifier|72903]]
 Empfänger: [[person|Vera Bachmann]], [[address|7422 Riedlingsdorf]]
 
-Leistungen von [[person|Dr. Marcella Fladerer]] für das Mandat [[person|Bachmann]] (Wohnrecht, Grundbuch Riedlingsdorf):
+Leistungen von [[person|Dr. Marcella Fladerer]] für das Mandat [[person|Bachmann]] (Wohnrecht, Grundbuch [[land_register_id|Riedlingsdorf]]):
 
 | DATUM | LEISTUNG (MANDANT: [[person|BACHMANN VERA]]) | BETRAG EUR |
 |---|---|---|

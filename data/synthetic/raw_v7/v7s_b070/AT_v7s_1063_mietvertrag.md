@@ -56,6 +56,12 @@ Tel. [[phone_number|0463 978864 Kl. 97]]
 
 Der Mieter hat eine Kaution in der Höhe von EUR 2.550,00 bei Vertragsabschluss zu bezahlen. Die Kaution wird nach Beendigung des Mietverhältnisses binnen vier Wochen rückgezahlt, sofern keine offenen Forderungen bestehen.
 
+§ 4a Zahlungsverzug
+
+1. Gerät der Mieter mit dem Mietzins länger als acht Tage in Verzug, so ist die Vermieterin berechtigt, Verzugszinsen in gesetzlicher Höhe zu verlangen. Die Mahnkosten trägt der Mieter.
+
+2. Die Vermieterin ist berechtigt, bei wiederholtem Verzug das Mietverhältnis nach den Bestimmungen des [[legal_norm|MRG]] aufzukündigen.
+
 § 5 Pflichten
 
 1. Der Mieter verpflichtet sich, die Wohnung schonend zu behandeln, den Garten zu pflegen und Schäden der [[organization|Rausch Handels GmbH]] unverzüglich zu melden.

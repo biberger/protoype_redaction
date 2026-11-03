@@ -104,7 +104,7 @@ Die Kammeranwältin hat in ihrem Schlussvortrag darauf hingewiesen, dass die wie
 
 Die Parteien haben in der Verhandlung keine weiteren Beweisanträge gestellt, sodass der Senat das Verfahren für entscheidungsreif erachtet hat. Der Senat hat zudem festgestellt, dass die Akten dem Beschuldigten vollständig zur Verfügung standen und dass er von der Möglichkeit der Akteneinsicht vor der Verhandlung mehrfach Gebrauch gemacht hat. Die Vertretung der Kammeranwältin in der Verhandlung oblag der Kammeranwältin persönlich; ein Vertreter nach der Geschäftsordnung wurde nicht bestellt. Die Verhandlung wurde ordnungsgemäß protokolliert und vom Schriftführer unterfertigt.
 
-Die Entscheidung ist den Parteien zuzustellen. Gegen diese Entscheidung ist eine Revision an den Obersten Gerichtshof nach den Bestimmungen der Rechtsanwaltsordnung zulässig, sofern eine erhebliche Rechtsfrage zu lösen ist.
+Die Verhandlung dauerte insgesamt drei Stunden. Die Kosten der Verhandlung wurden mit EUR 1.184,20 bestimmt. Die Entscheidung ist den Parteien zuzustellen. Gegen diese Entscheidung ist eine Revision an den [[court|Obersten Gerichtshof]] nach den Bestimmungen der Rechtsanwaltsordnung zulässig, sofern eine erhebliche Rechtsfrage zu lösen ist.
 
 [[location|Wien]], am [[date|19. März 2026]]
 

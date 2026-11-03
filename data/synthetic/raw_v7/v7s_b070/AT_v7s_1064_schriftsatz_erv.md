@@ -54,6 +54,12 @@ Die Klägerin war zum Unfallzeitpunkt berufstätig und hat im Ausmaß von rund v
 
 Das Schmerzengeld wird unter Berücksichtigung der Dauer der Beschwerden, der Heilungsdauer von etwa acht Wochen und der verbleibenden Bewegungseinschränkung der Halswirbelsäule bemessen.
 
+Die Klägerin war zum Unfallzeitpunkt im Rahmen eines geringfügigen Dienstverhältnisses tätig; die Arbeitgeberin hat den Ausfall der Entlohnung für die Dauer der Arbeitsunfähigkeit bestätigt. Die Klägerin hat die Entgeltfortzahlung nicht in Anspruch genommen, sodass der Verdienstentgang vollständig zu ersetzen ist.
+
+Die Klägerin hat eine Schmerzengeldberechnung vorgelegt, die sich an den Richtlinien für die Bemessung des Schmerzengeldes orientiert. Die Einordnung als mittelschwere Verletzung ergibt sich aus dem ärztlichen Befund vom [[date|10. September 2024]] sowie dem Entlassungsbrief des Krankenhauses vom [[date|13. September 2024]]. Die Heilung ist nach dem Befund des Sachverständigen noch nicht abgeschlossen; eine Nachuntersuchung ist für das Frühjahr 2025 vorgesehen.
+
+Die Klägerin behält sich vor, die Forderung nach Abschluss der Heilbehandlung zu erweitern. Dies ist im vorliegenden Streitwert noch nicht berücksichtigt.
+
 III. Beweise
 
 Die Klägerin beantragt die Einvernahme der Zeugen [[person|Birngruber]] und [[person|Bickel]] sowie die Einholung eines unfallanalytischen Gutachtens.

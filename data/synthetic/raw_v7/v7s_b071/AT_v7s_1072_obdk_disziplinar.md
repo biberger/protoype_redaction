@@ -56,7 +56,7 @@ Nach [[legal_norm|§ 1 Abs 1 RAO]] hat der Rechtsanwalt Fremdgelder getrennt zu 
 
 Bei der Bemessung der Geldbuße hat der Senat auch die wirtschaftlichen Verhältnisse des Beschuldigten berücksichtigt. Er betreibt eine Einzelkanzlei mit geringem Umsatz, sodass eine höhere Strafe die Existenz der Kanzlei gefährden würde. Der Senat hält dennoch eine spürbare Sanktion für geboten, um der Allgemeinheit die Bedeutung der Treuhandpflichten vor Augen zu führen.
 
-Die Kammer weist darauf hin, dass die Treuhandbuchführung in der Kanzlei künftig monatlich abzuschließen und der [[organization|RAK]] auf Verlangen vorzulegen ist. Die Entscheidung kann binnen vier Wochen mit Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] angefochten werden.
+Die Schriftführerin hat die Anwesenheit der Senatsmitglieder bestätigt. Der Beschuldigte hat die Kammer über die Maßnahmen informiert. Die Kammer weist darauf hin, dass die Treuhandbuchführung in der Kanzlei künftig monatlich abzuschließen und der [[organization|RAK]] auf Verlangen vorzulegen ist. Die Entscheidung kann binnen vier Wochen mit Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] angefochten werden.
 
 [[location|Wien]], am [[date|8. Juni 2026]]
 

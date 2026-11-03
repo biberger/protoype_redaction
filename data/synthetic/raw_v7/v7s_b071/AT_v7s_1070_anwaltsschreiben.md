@@ -25,19 +25,19 @@ BETRIFFT: SCHADENERSATZFORDERUNG DER [[organization|DECHANT HANDELS GMBH]], [[co
 
 Sehr geehrte Frau [[person|Dolezal]]!
 
-Wir vertreten die [[organization|Dechant Handels GmbH]] (in der Folge [[organization|DHG]]) sowie deren Geschäftsführerin [[person|Mirvat Hallak]] in der Schadensangelegenheit vom [[date|14. Juli 2025]]. Die Mandantin hat am genannten Tag einen Lagerschaden erlitten, der nach Ansicht der DHG von Ihrem Versicherungsnehmer verursacht wurde.
+Wir vertreten die [[organization|Dechant Handels GmbH]] (in der Folge [[organization|DHG]]) sowie deren Geschäftsführerin [[person|Mirvat Hallak]] in der Schadensangelegenheit vom [[date|14. Juli 2025]]. Die Mandantin hat am genannten Tag einen Lagerschaden erlitten, der nach Ansicht der [[organization|DHG]] von Ihrem Versicherungsnehmer verursacht wurde.
 
-Die Schadensmeldung vom [[date|18. Juli 2025]] wurde von der Versicherungsnehmerin [[person|Hoogmoed Annegreet]], GEB: [[date_of_birth|1988-07-16]], abgegeben. Wir ersuchen Sie, die Schadensmeldung nochmals zu prüfen, da die dort angegebene Schadenshöhe nicht mit den Rechnungen der DHG übereinstimmt.
+Die Schadensmeldung vom [[date|18. Juli 2025]] wurde von der Versicherungsnehmerin [[person|Hoogmoed Annegreet]], GEB: [[date_of_birth|1988-07-16]], abgegeben. Wir ersuchen Sie, die Schadensmeldung nochmals zu prüfen, da die dort angegebene Schadenshöhe nicht mit den Rechnungen der [[organization|DHG]] übereinstimmt.
 
 [[organization|Dechant]] hat uns mit Schreiben vom [[date|21. Juli 2025]] mitgeteilt, dass die Ware im Wert von EUR 38.700,00 unbrauchbar ist. Die Belege liegen bei. Die [[organization|DHG]] fordert daher eine Zahlung in dieser Höhe zuzüglich Zinsen.
 
 Die Geschäftsführerin [[person|Hallak]] hat uns zudem bestätigt, dass die Ware vor dem Schadensereignis ordnungsgemäß gelagert und die Kühlkette bis zum Abend des [[date|13. Juli 2025]] eingehalten wurde. Eine Kopie des Temperaturprotokolls übermitteln wir auf Wunsch gerne.
 
-Wir weisen darauf hin, dass die Schadenursache nach dem Gutachten des Sachverständigen [[person|Ernst Pichler]] auf einen Ausfall der Kühlanlage am [[date|12. Juli 2025]] zurückzuführen ist. Die Anlage gehört zum Versicherungsgegenstand, dessen Wartung der Versicherungsnehmer übernommen hatte. Ein Verschulden der DHG besteht nach unserer Auffassung nicht.
+Wir weisen darauf hin, dass die Schadenursache nach dem Gutachten des Sachverständigen [[person|Ernst Pichler]] auf einen Ausfall der Kühlanlage am [[date|12. Juli 2025]] zurückzuführen ist. Die Anlage gehört zum Versicherungsgegenstand, dessen Wartung der Versicherungsnehmer übernommen hatte. Ein Verschulden der [[organization|DHG]] besteht nach unserer Auffassung nicht.
 
 Wir ersuchen Sie, binnen vier Wochen ab Erhalt dieses Schreibens zu bestätigen, ob die Forderung anerkannt wird. Sollte keine Reaktion erfolgen, werden wir ohne weitere Ankündigung die Klage einbringen.
 
-Die Verjährungsfrist für Ansprüche aus dem Versicherungsvertrag ist durch unser Schreiben gehemmt. Wir behalten uns vor, die Ansprüche gegen den Versicherungsnehmer und, soweit erforderlich, gegen weitere Beteiligte gerichtlich geltend zu machen. Ein Vergleich ist unter den Bedingungen denkbar, die wir mit der DHG abgestimmt haben; ein Angebot Ihrer Gesellschaft erwarten wir bis zum genannten Termin.
+Die Verjährungsfrist für Ansprüche aus dem Versicherungsvertrag ist durch unser Schreiben gehemmt. Wir behalten uns vor, die Ansprüche gegen den Versicherungsnehmer und, soweit erforderlich, gegen weitere Beteiligte gerichtlich geltend zu machen. Ein Vergleich ist unter den Bedingungen denkbar, die wir mit der [[organization|DHG]] abgestimmt haben; ein Angebot Ihrer Gesellschaft erwarten wir bis zum genannten Termin.
 
 Eine Kopie dieses Schreibens geht zur Kenntnis an unsere Mandantschaft. Für Ihre Rückmeldung danken wir im Voraus und stehen für ein persönliches Gespräch jederzeit zur Verfügung.
 

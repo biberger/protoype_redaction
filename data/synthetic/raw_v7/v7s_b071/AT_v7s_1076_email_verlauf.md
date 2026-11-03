@@ -4,7 +4,7 @@ jurisdiction: AT
 lang: de
 ---
 Von: [[person|Julie Schmidlechner]] <[[email|j.schmidlechner@gmx.at]]>
-Gesendet: Donnerstag, 22. Oktober 2026 14:05
+Gesendet: Donnerstag, [[date|22. Oktober 2026]] 14:05
 An: [[person|Kutschera]] <[[email|office@kutschera.at]]>
 Betreff: Schadennummer [[other_identifier|41/812109/23]]
 
@@ -23,7 +23,7 @@ Liebe Grüße
 > Bitte übermitteln Sie mir die Unterlagen zur Schadennummer [[other_identifier|41/812109/23]] bis Ende der Woche.
 
 Von: [[person|Kutschera]] <[[email|office@kutschera.at]]>
-Gesendet: Freitag, 23. Oktober 2026 09:11
+Gesendet: Freitag, [[date|23. Oktober 2026]] 09:11
 An: [[person|Julie Schmidlechner]] <[[email|j.schmidlechner@gmx.at]]>
 Betreff: AW: Schadennummer [[other_identifier|41/812109/23]]
 

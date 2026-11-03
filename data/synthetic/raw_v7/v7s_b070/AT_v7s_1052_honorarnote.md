@@ -38,6 +38,8 @@ Zwischensumme netto: EUR 1.190,00
 Umsatzsteuer 20 %: EUR 238,00
 Gesamtbetrag: EUR 1.428,00
 
+Die Stundensätze entsprechen dem Tarif für Verfahren vor den Bezirksgerichten; ein Aufschlag für Eilverfahren wurde nicht verrechnet.
+
 Die Tagsatzung vom [[date|14.04.2025]] dauerte rund neunzig Minuten. Die Gegenseite hat in der Tagsatzung einen Vergleichsvorschlag unterbreitet, den Frau [[person|Scheuer]] nach Rücksprache mit uns abgelehnt hat. Die Leistungen für die Vorbereitung dieser Tagsatzung sind in der Position vom [[date|11.03.2025]] enthalten.
 
 Die Mitarbeit von [[person|Gapp]] umfasste die Recherche der Gewährleistungsfristen sowie die Erstellung der Korrespondenz mit der Werkstätte. Zeitaufwand und Stundensatz entsprechen der Vereinbarung vom [[date|03.03.2025]].

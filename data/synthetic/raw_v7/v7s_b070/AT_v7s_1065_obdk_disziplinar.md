@@ -62,6 +62,10 @@ Der Senat hat weiters berücksichtigt, dass die Klientin [[person|Jürgens]] dur
 
 Die Schriftführerin [[person|Karplus]] hat das Protokoll der Verhandlung vom [[date|14. Mai 2025]] verfasst und dem Beschuldigten zur Kenntnis gebracht. Ein Einwand gegen das Protokoll wurde nicht erhoben.
 
+Der Kammeranwalt [[person|Medgyessy]] hat in der Verhandlung ausdrücklich klargestellt, dass er keinen Vorwurf wegen einer Untreue erhebe, sondern nur die Verzögerung und die fehlende Abrechnung zum Gegenstand habe. Der Senat schließt sich dieser Abgrenzung an und legt seiner Entscheidung ausschließlich den Verstoß gegen die Verpflichtung zur zeitgerechten Auszahlung zugrunde.
+
+Der Beschuldigte hat in der Verhandlung eine Bestätigung seines Steuerberaters vorgelegt, wonach die Kanzlei im Jahr 2023 einen Verlust erwirtschaftet hat. Der Senat berücksichtigt diese Umstände bei der Bemessung der Geldbuße, jedoch nicht als Rechtfertigung für die Verzögerung.
+
 Rechtsmittelbelehrung
 
 Gegen diesen Beschluss steht dem Beschuldigten die Berufung an die [[court|OBDK]] offen. Die Berufung ist binnen vier Wochen ab Zustellung beim Disziplinarrat einzubringen.

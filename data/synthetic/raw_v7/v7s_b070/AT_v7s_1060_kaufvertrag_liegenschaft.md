@@ -67,6 +67,30 @@ V. Übergabe und Gewährleistung
 
 2. Die Verkäufer erklären, dass keine Pachtverhältnisse bestehen. Die Gewährleistung richtet sich nach [[legal_norm|§ 1053 ABGB]] und [[legal_norm|§ 932 ABGB]].
 
+VI a. Besitzübergang und Nutzungen
+
+1. Der Besitz geht mit dem Tag der grundbücherlichen Eintragung der Käuferin über. Bis dahin ist die Liegenschaft von den Verkäufern unverändert zu erhalten und zu verwalten.
+
+2. Nutzungen und Lasten, insbesondere Grundsteuer und Abgaben, die auf die Zeit vor dem Übergabetag entfallen, trägt der Verkäufer. Die Abrechnung erfolgt bei der Kaufpreisauszahlung im Treuhandbuch.
+
+3. Die Verkäufer räumen der Käuferin das Recht ein, die Liegenschaft ab dem [[date|1. Mai 2025]] zu Vorbereitungszwecken für ein Bauvorhaben zu betreten, sofern dies die bestehende Nutzung nicht wesentlich beeinträchtigt.
+
+VI b. Baubehördliche Verhältnisse
+
+1. Die Verkäufer erklären, dass für die Liegenschaften keine bauliche Anlage besteht, die nicht im Grundbuch oder im Bauakt ersichtlich ist.
+
+2. Die Käuferin nimmt zur Kenntnis, dass für das geplante Betriebsgebäude eine Baubewilligung und eine Widmungsbewilligung erforderlich sind. Die Erteilung dieser Bewilligungen ist keine Bedingung des Kaufvertrages; eine Rückabwicklung ist nur nach Maßgabe des Punktes VII vorgesehen.
+
+3. Die Verkäufer unterstützen den Abgleich mit dem Flächenwidmungsplan und legen die erforderlichen Unterlagen binnen 14 Tagen nach Aufforderung bei.
+
+VI c. Vorkaufsrecht und Vorverkauf
+
+Ein Vorkaufsrecht zugunsten Dritter besteht nach Angaben der Verkäufer nicht. Die Verkäufer verpflichten sich, die Liegenschaft während der Schwebezeit weder zu veräußern noch zu belasten. Eine Verletzung dieser Verpflichtung berechtigt die Käuferin zur Rückforderung der erlegten Beträge samt Zinsen.
+
+VI d. Kosten und Abgaben
+
+Die Kosten der Vertragserrichtung und der Grundbuchseintragung trägt die Käuferin, soweit sie nicht ausdrücklich den Verkäufern zugewiesen sind. Die Kosten der Lastenfreistellung trägt der jeweilige Verkäufer.
+
 VI. Schlussbestimmungen
 
 1. Mündliche Nebenabreden bestehen nicht. Änderungen bedürfen der Schriftform.

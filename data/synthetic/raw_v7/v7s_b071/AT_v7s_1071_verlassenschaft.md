@@ -49,7 +49,7 @@ Die Sozialversicherungsnummer des Erblassers lautet SV-Nr. [[social_security_num
 
 Der Erbe [[person|Fares]] hat erklärt, dass er die Wohnung des Erblassers nicht übernehmen will, und dass er auf die Pension des Erblassers keinen Anspruch erhebt, weil er selbst Pensionsbezieher ist.
 
-Die Pensionsversicherungsanstalt hat den Sterbemonat bereits berechnet, und der Betrag wird auf das Verlassenschaftskonto überwiesen, sobald die Bankverbindung nachgewiesen ist. Die Erbin [[person|Gregušová]] wurde gebeten, eine Kopie der Sterbeurkunde und die Geburtsurkunde des Erblassers beizubringen. Der Erbe [[person|Fares]] hat zugesagt, die Unterlagen zur Wohnung innerhalb von zwei Wochen zu übermitteln.
+Die Erbin [[person|Gregušová]] hat zugesagt, die Unterlagen zur Liegenschaft zu übermitteln. Die Erben wurden darüber belehrt, dass Schenkungen des Erblassers im letzten Lebensjahr auf die Erbquote angerechnet werden können. Die Pensionsversicherungsanstalt hat den Sterbemonat bereits berechnet, und der Betrag wird auf das Verlassenschaftskonto überwiesen, sobald die Bankverbindung nachgewiesen ist. Die Erbin [[person|Gregušová]] wurde gebeten, eine Kopie der Sterbeurkunde und die Geburtsurkunde des Erblassers beizubringen. Der Erbe [[person|Fares]] hat zugesagt, die Unterlagen zur Wohnung innerhalb von zwei Wochen zu übermitteln.
 
 IV. Verfahren
 

@@ -4,9 +4,9 @@ jurisdiction: AT
 lang: de
 ---
 Von: [[person|Meinhard Ritschel]] <[[email|m.ritschel@bachbau.at]]>
-Gesendet: Montag, 28. September 2026 16:42
+Gesendet: Montag, [[date|28. September 2026]] 16:42
 An: [[person|Johann Matzka]] <[[email|matzka@doralt.at]]>
-Betreff: Bach Bau GmbH ./. Zerner – Zahlungsstreit
+Betreff: [[organization|Bach Bau GmbH]] ./. [[person|Zerner]] – Zahlungsstreit
 
 Sehr geehrter Herr [[person|Dr. Matzka]],
 
@@ -25,10 +25,10 @@ Tel. [[phone_number|0463/6968450 Kl. 11]]
 > Wir haben die Unterlagen erhalten. Bitte senden Sie uns noch den Bautagebuch-Auszug für den [[date|14. Juli 2026]].
 
 Von: [[person|Johann Matzka]] <[[email|matzka@doralt.at]]>
-Gesendet: Dienstag, 29. September 2026 08:57
+Gesendet: Dienstag, [[date|29. September 2026]] 08:57
 An: [[person|Meinhard Ritschel]] <[[email|m.ritschel@bachbau.at]]>
 Cc: [[person|Hartwig Holaubek]] <[[email|holaubek@doralt.at]]>
-Betreff: AW: Bach Bau GmbH ./. Zerner – Zahlungsstreit
+Betreff: AW: [[organization|Bach Bau GmbH]] ./. [[person|Zerner]] – Zahlungsstreit
 
 Sehr geehrter Herr [[person|Ritschel]],
 
@@ -38,7 +38,7 @@ Das [[court|Bezirksgericht Mödling]] ist nach unserer Einschätzung zuständig,
 
 Ihr Kollege [[person|Holaubek]] wird die Korrespondenz mit der Gegenseite übernehmen. Er hat die Akte bereits unter Kl.-Nr. [[other_identifier|23308]] angelegt.
 
-Ich bitte um kurze Rückmeldung zu den offenen Punkten, damit wir die Klage bei Bedarf vorbereiten können. Der Termin für die Besprechung in unseren Räumen in Brixlegg wird noch mitgeteilt.
+ Die Frist ist aus meiner Sicht angemessen. Ich erwarte Ihre Antwort bis Ende der Woche, damit ich die Geschäftsführung der Bach Bau GmbH unterrichten kann.Bitte bestätigen Sie den Eingang dieser Nachricht. Ich bitte um kurze Rückmeldung zu den offenen Punkten, damit wir die Klage bei Bedarf vorbereiten können. Der Termin für die Besprechung in unseren Räumen in [[location|Brixlegg]] wird noch mitgeteilt.
 
 Mit freundlichen Grüßen
 
@@ -59,9 +59,9 @@ ERV-Code: [[other_identifier|P831000]]
 > Die Forderung beträgt EUR 84.300,00. Klientennummer: [[other_identifier|88140]]
 
 Von: [[person|Hartwig Holaubek]] <[[email|holaubek@doralt.at]]>
-Gesendet: Dienstag, 29. September 2026 11:20
+Gesendet: Dienstag, [[date|29. September 2026]] 11:20
 An: [[person|Johann Matzka]] <[[email|matzka@doralt.at]]>; [[person|Meinhard Ritschel]] <[[email|m.ritschel@bachbau.at]]>
-Betreff: AW: AW: Bach Bau GmbH ./. Zerner – Zahlungsstreit
+Betreff: AW: AW: [[organization|Bach Bau GmbH]] ./. [[person|Zerner]] – Zahlungsstreit
 
 Lieber [[person|Johann]],
 
@@ -86,10 +86,10 @@ T: [[phone_number|+43 5522 485 64 46]]  F: [[phone_number|+43-5572-4959534-1]]
 E: [[email|office@doralt.at]]  W: www.doralt.at
 
 Von: [[person|Johann Matzka]] <[[email|matzka@doralt.at]]>
-Gesendet: Mittwoch, 30. September 2026 10:02
+Gesendet: Mittwoch, [[date|30. September 2026]] 10:02
 An: [[person|Meinhard Ritschel]] <[[email|m.ritschel@bachbau.at]]>
 Cc: [[person|Hartwig Holaubek]] <[[email|holaubek@doralt.at]]>
-Betreff: AW: AW: Bach Bau GmbH ./. Zerner – Zahlungsstreit
+Betreff: AW: AW: [[organization|Bach Bau GmbH]] ./. [[person|Zerner]] – Zahlungsstreit
 
 Sehr geehrter Herr [[person|Ritschel]],
 
@@ -101,10 +101,10 @@ Mit freundlichen Grüßen
 Rechtsanwalt
 
 Von: [[person|Meinhard Ritschel]] <[[email|m.ritschel@bachbau.at]]>
-Gesendet: Mittwoch, 30. September 2026 07:45
+Gesendet: Mittwoch, [[date|30. September 2026]] 07:45
 An: [[person|Hartwig Holaubek]] <[[email|holaubek@doralt.at]]>
 Cc: [[person|Johann Matzka]] <[[email|matzka@doralt.at]]>
-Betreff: AW: AW: AW: Bach Bau GmbH ./. Zerner – Zahlungsstreit
+Betreff: AW: AW: AW: [[organization|Bach Bau GmbH]] ./. [[person|Zerner]] – Zahlungsstreit
 
 Sehr geehrter Herr [[person|Holaubek]],
 
@@ -119,7 +119,7 @@ Geschäftsführer
 [[organization|Bach Bau GmbH]]
 Tel. [[phone_number|0463/6968450 Kl. 11]]
 
-> Von: [[person|Meinhard Ritschel]]
-> Gesendet: Montag, 28. September 2026 16:42
-> Betreff: Bach Bau GmbH ./. Zerner – Zahlungsstreit
+Die Zahlungserinnerung vom [[date|1. Oktober 2026]] ist ohne Antwort geblieben. > Von: [[person|Meinhard Ritschel]]
+> Gesendet: Montag, [[date|28. September 2026]] 16:42
+> Betreff: [[organization|Bach Bau GmbH]] ./. [[person|Zerner]] – Zahlungsstreit
 > Sehr geehrter Herr [[person|Dr. Matzka]], ich wende mich an Sie, weil die Gegenseite die Schlussrechnung für die Baustelle in [[location|Mödling]] nicht anerkennen will.

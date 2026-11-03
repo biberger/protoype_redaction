@@ -59,6 +59,10 @@ Die Zeugin [[person|Kindermann]] wurde zu den Zahlungen vom [[date|9. März 2023
 
 Die Verteidigung der Beschuldigten brachte in den Schlussausführungen vor, die Geldbuße sei unter Berücksichtigung der wirtschaftlichen Lage der Kanzlei zu bemessen. Der Kammeranwalt widersprach dem nicht, beantragte jedoch die Veröffentlichung im Mitteilungsblatt der Kammer.
 
+Der Vorsitzende hielt fest, dass die Behauptung, die Treuhandnummern seien doppelt vergeben gewesen, durch die Kontoauszüge widerlegt ist. Jede Auszahlung ist einer eindeutigen Nummer zugeordnet. Die Beisitzerin [[judge|Rosbaud]] wies darauf hin, dass auch die Sorgfaltspflicht des Rechtsanwalts bei der Auswahl und Überwachung von Hilfskräften gilt.
+
+Die Beisitzerin [[judge|Sauberer]] stellte die Frage, ob die Beschuldigte seit der Anzeige eine Kontrolle der Treuhandbücher durch einen externen Prüfer veranlasst habe. Die Beschuldigte bejahte dies und legte eine entsprechende Vereinbarung vom [[date|1. Februar 2025]] vor.
+
 Schluss der Verhandlung um 12.10 Uhr.
 
 [[location|Graz]], am [[date|27. März 2025]]

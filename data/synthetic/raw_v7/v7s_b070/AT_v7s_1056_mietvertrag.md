@@ -75,6 +75,18 @@ VI. Schlussbestimmungen
 
 4. Die [[organization|Lichtenegger]] wird von der Vermieterin vertreten durch [[person|MMag. Konstantin Tockner]]. Die Vollmacht des Prokuristen wurde bei Vertragsabschluss vorgelegt und in Kopie zum Vertrag genommen.
 
+§ 6a Zutritt und Reparaturen
+
+1. Die Vermieterin oder ein von ihr beauftragter Handwerker darf die Wohnung zur Durchführung notwendiger Reparaturen nach vorheriger Verständigung betreten. Im Notfall, insbesondere bei Wasserschäden, ist der Zutritt ohne vorherige Ankündigung zulässig.
+
+2. Die Mieter haben Mängel an der Wohnung, insbesondere an der Heizung und an den Sanitäreinrichtungen, unverzüglich schriftlich zu melden. Unterlassene Meldungen gehen zu Lasten des Mieters, soweit dadurch ein Schaden entsteht.
+
+§ 6b Mitmiete
+
+1. Die Mitmieterin [[person|Kuntner]] ist berechtigt, die Wohnung gemeinsam mit dem Mieter [[person|Werthner]] zu bewohnen. Ein Wechsel oder eine Auflösung der Mitmiete bedarf der schriftlichen Zustimmung der Vermieterin.
+
+2. Im Falle der Trennung der Mitmieter bleibt die Haftung nach Abschnitt VI Ziffer 3 unberührt.
+
 § 7 Betriebskostenabrechnung
 
 1. Die Abrechnung der Betriebskosten erfolgt jährlich, erstmals für das Jahr 2023. Die Belege werden auf Verlangen zur Einsichtnahme bereitgehalten.

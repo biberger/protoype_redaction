@@ -17,7 +17,7 @@ Tel. [[phone_number|+43-1-166578-1]]
 [[address|6179 Ranggen]]
 
 Unser Zeichen: [[other_identifier|LFK/Buchinger/1671]]
-Ihr Zeichen: [[other_identifier|991/25 PW]]
+Ihr Zeichen [[other_identifier|991/25 PW]]
 
 BETREFF: Grundstreit zwischen [[person|ANDY HOREJS]] und [[organization|KOLLER GMBH]], [[land_register_id|GB 44679]]/[[land_register_id|EZ: 26]] Grundstück [[land_register_id|273/19]]
 
@@ -34,6 +34,10 @@ Wir ersuchen Sie daher, binnen 14 Tagen eine Erklärung abzugeben, ob die [[orga
 Die Zuständigkeit des [[court|LG St. Pölten]] ergibt sich aus dem Streitwert von EUR 38.000,00 und dem Ort der gelegenen Sache. Die Klage wird auf die Verletzung der Dienstbarkeit gestützt. Der Anspruch ergibt sich aus [[legal_norm|§ 472 ABGB]] iVm [[legal_norm|§ 523 ABGB]]. Der Mandant ist nach [[legal_norm|§ 1 Abs 1 Z 3 LiegTeilG]] berechtigt, die Ausübung seines Rechts gerichtlich zu verfolgen.
 
 Eine Kopie des Schreibens der [[organization|RVG]] vom [[date|20. Februar 2025]] legen wir bei. Die Teilnahme an einem außergerichtlichen Vergleichsgespräch ist unserem Mandanten nicht unwillkommen; wir bitten jedoch um eine Antwort bis zum [[date|18. März 2025]].
+
+Wir bitten um Bestätigung, dass die Gegenseite die Verstellung der Zufahrt bis zum Ablauf der Frist nicht fortsetzt. Eine einstweilige Verfügung zur Sicherung des Zufahrtsrechtes behalten wir uns vor.
+
+Die bisherige Korrespondenz zwischen den Parteien ist in der beiliegenden Mappe chronologisch zusammengefasst. Eine Kopie der Mahnung vom [[date|12. Juni 2024]] ist enthalten.
 
 Die Angaben zu den Eigentumsverhältnissen beruhen auf dem Grundbuchsauszug, den wir als Beilage übermitteln. Die Liegenschaft der Gegenseite steht seit dem [[date|1. Oktober 2009]] in deren Eigentum; eine Dienstbarkeit des Geh- und Fahrrechts zugunsten der Liegenschaft meines Mandanten ist im Lastenblatt eingetragen.
 

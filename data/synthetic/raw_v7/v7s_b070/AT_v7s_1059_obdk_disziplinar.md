@@ -52,6 +52,12 @@ Die Senatsvorsitzende hat in der Verhandlung darauf hingewiesen, dass die Berufu
 
 Die Schriftführerin [[person|Smal]] hat das Protokoll der Verhandlung geführt; die Anwesenheit des Kammeranwalts [[person|Reisner]] ist im Protokoll festgehalten. Ein Ablehnungsantrag gegen ein Mitglied des Senats wurde nicht gestellt.
 
+Der Senat hat sich mit dem Vorbringen auseinandergesetzt, wonach die Auszahlung vom [[date|3. April 2019]] an die [[organization|Schuschnigg]] nicht den Vorgaben des Erbrechts entspreche. Diesen Einwand hat die Berufungswerberin nicht näher belegt, sodass der Senat ihm nicht folgt. Nach den vorliegenden Unterlagen war die Gesellschaft tatsächlich Gläubigerin eines Betrags gegen den Nachlass.
+
+Das Senatsmitglied [[judge|Demel]] hat in der Beratung darauf hingewiesen, dass die Verwaltung eines Treuhandkontos eine laufende Kontrolle erfordert. Der Senat schließt sich dieser Auffassung an.
+
+Die Berufungswerberin hat in ihrer letzten Stellungnahme vom [[date|2. Februar 2025]] angegeben, die Kanzleiorganisation sei inzwischen umgestellt worden. Eine Bestätigung dafür liegt nicht vor; der Senat berücksichtigt die Umstellung deshalb nur insoweit, als sie künftige Verstöße erschwert.
+
 Die Kosten des Berufungsverfahrens trägt die Beschuldigte im Ausmaß eines Viertels.
 
 [[location|Wien]], am [[date|16. Mai 2025]]
