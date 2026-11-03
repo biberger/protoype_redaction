@@ -12,7 +12,7 @@ Sehr geehrter Herr [[lawyer|Mag. Baharov]],
 
 ich habe das Schreiben der Gegenseite vom [[date|10. Juli]] erhalten. Die Vermieterin [[person|Todosia Dipl.-Ing. Lăcătuș]] verlangt die Räumung des Geschäftslokals in [[location|St. Pölten]] bis [[date|31. August]]. Ich verstehe nicht, warum wir auf einmal so kurzfristig räumen sollen, zumal die Miete immer pünktlich bezahlt wurde. Ich habe die Überweisungen der letzten zwei Jahre sortiert; die letzte Mietzahlung ist am [[date|02.07.2026]] eingegangen, die Juni-Miete war also rechtzeitig beglichen. Die Betriebskostenabrechnung 2025 habe ich nie erhalten, weder per Post noch per E-Mail. Falls die Vermieterin sie an das Lokal geschickt hat, müsste ich dort nachsehen, ob sie angekommen ist.
 
-Die Überweisungen laufen seit Jahren über das Konto [[bank_account|AT28 8063 7827 6346 8847]] der [[organization|Falkenstein e.U.]]. Wenn Sie die Zahlungsnachweise brauchen, kann ich sie Ihnen bis Freitag schicken. Ich bin auch bereit, mit der Vermieterin persönlich zu sprechen, wenn das hilft. Die Kontoauszüge der letzten zwei Jahre habe ich bereits zusammengestellt.
+Die Überweisungen laufen seit Jahren über das Konto [[bank_account|AT28 8063 7827 6346 8847]] der [[organization|Falkenstein e.U.]]. Wenn Sie die Zahlungsnachweise brauchen, kann ich sie Ihnen bis Freitag schicken. Ich bin auch bereit, mit der Vermieterin persönlich zu sprechen, wenn das hilft. Die Kontoauszüge der letzten zwei Jahre habe ich bereits zusammengestellt. Sie betreffen ausschließlich das Konto der Firma.
 
 Mit freundlichen Grüßen
 

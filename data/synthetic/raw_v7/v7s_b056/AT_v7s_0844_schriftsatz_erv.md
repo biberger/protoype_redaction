@@ -48,7 +48,7 @@ und beantragen, die Klage kostenpflichtig abzuweisen.
 
 I. Zum Sachverhalt
 
-1. Die Klägerin behauptet, die beklagten Parteien hätten am [[date|14. Mai 2024]] einen Werkvertrag über die Sanierung des Lagerhauses in [[location|Reith bei Kitzbühel]] geschlossen. Die Klägerin tritt unter dem Namen [[organization|Silberer KG]] auf und verwendet im Verkehr die Kurzbezeichnung [[organization|Silberer]]. Die Gesellschafter der Klägerin sind den beklagten Parteien nicht bekannt.
+1. Die Klägerin behauptet, die beklagten Parteien hätten am [[date|14. Mai 2024]] einen Werkvertrag über die Sanierung des Lagerhauses in [[location|Reith bei Kitzbühel]] geschlossen. Die Klägerin tritt unter dem Namen [[organization|Silberer KG]] auf und verwendet im Verkehr die Kurzbezeichnung [[organization|Silberer]]. Die Gesellschafter der Klägerin sind den beklagten Parteien nicht bekannt. Die Klägerin hat für die Zahlung des Werklohns das Konto [[bank_account|AT22 2825 7359 5408 8357]] angegeben.
 
 2. Richtig ist, dass die Parteien eine Vereinbarung getroffen haben. Die Klägerin hat jedoch die Frist zur Fertigstellung nicht eingehalten. Der Auftrag wurde am [[date|3. Juni 2024]] mündlich geändert; die Änderung wurde von [[person|Erkurt]] schriftlich bestätigt. Die Vertragsnummer [[other_identifier|V-2018-14873]] betrifft einen älteren Rahmenvertrag, der mit dem Vorhaben nichts zu tun hat.
 

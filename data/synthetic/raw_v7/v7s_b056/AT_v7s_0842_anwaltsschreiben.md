@@ -20,7 +20,7 @@ Tel. [[phone_number|+43 2742 335 38 10 Kl. 36]]
 
 Unser Zeichen: [[other_identifier|SCH/Bock/2026-14]]
 
-BETREFF: SCHADENFALL [[other_identifier|98/299055/26]] [[person|BOCK]] ./. [[organization|SMRECKER BAU GMBH]]
+BETREFF: SCHADENFALL, Schaden-Nr. [[other_identifier|98/299055/26]] [[person|BOCK]] ./. [[organization|SMRECKER BAU GMBH]]
 
 Sehr geehrte Damen und Herren,
 

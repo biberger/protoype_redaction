@@ -45,13 +45,17 @@ Der Senat stützt seine Feststellungen auf die vorgelegten Kontoauszüge, die St
 
 Die [[organization|RAK Wien]] hat in ihrer Stellungnahme zutreffend darauf hingewiesen, dass die Verwahrung fremder Gelder einer besonders strengen Sorgfaltspflicht unterliegt. Der Senat folgt dieser Auffassung. Die Beschuldigte hat die Treuhandgelder nicht als solche behandelt, sondern über längere Zeit unbeschränkt verfügbar gehalten.
 
+Der Senat hat die Zeugin [[person|Rosmarie Kralik]] in der Verhandlung ergänzend vernommen. Frau [[person|Kralik]] schilderte, dass sie nach der Übergabe des Betrags zunächst keine Information über den Stand der Verwahrung erhalten habe. Erst nach dem dritten Schreiben sei eine Abrechnung eingetroffen, die jedoch die Position von 2.400,00 Euro nicht auswies. Die Zeugin bestätigte zudem, dass sie der Beschuldigten nie eine Weisung zur Umbuchung erteilt habe.
+
+Die Kammeranwältin [[person|Draaisma]] beantragte in ihrem Schlussvortrag eine Geldbuße im Ausmaß von 6.000,00 Euro. Die Beschuldigte beantragte die Anwendung des Milderungsgrundes der bisherigen Unbescholtenheit und den Verzicht auf die Verfahrenskosten.
+
 **IV. Rechtliche Beurteilung**
 
 Gemäß [[legal_norm|§ 11 Abs 1 RAO]] hat der Rechtsanwalt Gelder, die er für Klienten verwahrt, getrennt von eigenen Mitteln auf einem Treuhandkonto zu verwalten und unverzüglich dem Berechtigten auszufolgen, sobald dieser dazu berechtigt ist. Die Beschuldigte hat diese Pflicht verletzt, indem sie den Vergleichsbetrag des Mandanten [[person|Pelzmann]] nicht zeitgerecht ausfolgte und Gelder ohne Weisung an Dritte überwies.
 
 Dass die Beschuldigte die Mängel nachträglich behoben hat, ist als mildernd zu werten. Erschwerend ist hingegen die Mehrzahl der Vorfälle und der Umstand, dass die Verzögerung bei der Mandantin [[person|Kralik]] über mehrere Monate andauerte. Der Senat hat daher eine Geldbuße im unteren Bereich des Strafrahmens verhängt, die dem Verschulden der Beschuldigten angemessen ist.
 
-Die Kostenentscheidung beruht auf [[legal_norm|§ 52 Abs 1 DSt]].
+Die Kostenentscheidung beruht auf [[legal_norm|§ 52 Abs 1 DSt]]. Die Beschuldigte kann binnen zwei Wochen ab Zustellung dieses Erkenntnisses Berufung an die [[court|OBDK]] erheben; eine Rechtsmittelbelehrung ist dieser Ausfertigung angeschlossen.
 
 [[location|Wien]], am [[date|18.09.2026]]
 

@@ -93,7 +93,15 @@ Die Kammeranwältin [[person|Akrami]] hat in ihrem Schlussantrag darauf verwiese
 
 Der Senat weist darauf hin, dass ein Anderkonto ausschließlich für Gelder bestimmt ist, die im Rahmen einer Rechtsvertretung anvertraut werden. Eine Verwendung für eigene Zwecke, auch in der Form einer vorläufigen Honorarentnahme, ist unzulässig.
 
-VI. Rechtsmittelbelehrung
+VI. Vorläufige Maßnahmen und Vergleichsversuch
+
+Die Rechtsanwaltskammer Wien hat dem Beschuldigten im Verlauf des Verfahrens mit Schreiben vom [[date|19.03.2024]] nahegelegt, die Abrechnung der Erbsache innerhalb von vier Wochen vorzulegen und einen Ausgleich des Anderkontos herbeizuführen. Der Beschuldigte kam dieser Aufforderung nur teilweise nach. Am [[date|08.05.2024]] übermittelte er einen Kontoauszug, der eine Zahlung von EUR 2.900,00 an die Miterbin ausweist, die jedoch nicht aus den Mitteln des Anderkontos stammte.
+
+Ein Vergleichsversuch zwischen dem Beschuldigten und der Klientin [[person|Stadlmann]] wurde am [[date|17.06.2025]] vor dem Kammeranwalt unternommen. Die Klientin lehnte einen Vergleich ab, der die Rückzahlung von EUR 2.900,00 mit einem Verzicht auf die Honorarforderung verband. Sie bestand auf der vollständigen Abrechnung und der Rückführung aller Beträge, die ohne Auftrag entnommen wurden.
+
+Der Senat stellt fest, dass der Vergleichsversuch nicht zu einer Einigung geführt hat und die Beweisaufnahme daher fortzuführen war.
+
+VII. Rechtsmittelbelehrung
 
 Gegen diesen Bescheid kann binnen vier Wochen ab Zustellung Berufung an die [[court|OBDK]] erhoben werden. Die Berufung ist beim Disziplinarrat einzubringen.
 

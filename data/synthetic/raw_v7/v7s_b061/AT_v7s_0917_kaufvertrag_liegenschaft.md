@@ -40,7 +40,7 @@ Die Verkäufer sind je zur Hälfte bücherliche Eigentümer der nachstehend beze
 
 [[land_register_id|1901/Sachsenburg]] Grundstück [[land_register_id|1464]]
 
-Die Liegenschaften werden gemeinsam als "Kaufgegenstand" bezeichnet. Die Verkäuferin [[person|PRETORIAN FROSICA]] hat die Erklärung abgegeben, dass ihr Anteil an der Liegenschaft [[land_register_id|EZ 2006]] unbelastet ist, mit Ausnahme der im Grundbuch ersichtlichen Dienstbarkeit des Wegerechtes zugunsten des Nachbargrundstückes.
+Die Liegenschaften werden gemeinsam als "Kaufgegenstand" bezeichnet. Auf dem Grundstück [[land_register_id|Gst.Nr. 517]] befindet sich ein zweigeschoßiges Wohnhaus mit ausgebautem Dachgeschoß, auf dem Grundstück [[land_register_id|1464]] ein Nebengebäude mit einer Garage und einem Lagerraum. Die Flächen sind in der Vermessungsurkunde ausgewiesen, die den Vertragsteilen vorliegt und diesem Vertrag als Beilage ./A angeschlossen ist. Die Verkäufer bestätigen, dass die Angaben zur Fläche mit der Vermessung übereinstimmen. Die Verkäuferin [[person|PRETORIAN FROSICA]] hat die Erklärung abgegeben, dass ihr Anteil an der Liegenschaft [[land_register_id|EZ 2006]] unbelastet ist, mit Ausnahme der im Grundbuch ersichtlichen Dienstbarkeit des Wegerechtes zugunsten des Nachbargrundstückes.
 
 II. Kaufpreis
 
@@ -75,6 +75,18 @@ V. Übergabe, Gewährleistung, Schlussbestimmungen
 4. Die Kosten der Vertragserrichtung trägt die Käuferseite. Die Grunderwerbsteuer und die Eintragungsgebühr trägt die Käuferseite.
 
 5. Die Vertragsteile bestätigen, dass sie den Vertrag nach ausreichender Belehrung durch die Rechtsanwältin [[person|Pall]] abgeschlossen haben.
+
+VI. Vollmacht und Zustellung
+
+1. Die Verkäuferin [[person|Pretorian]] erteilt der Rechtsanwältin [[person|Pall]] Vollmacht zur Einbringung sämtlicher Urkunden beim Grundbuch, zur Entgegennahme von Bescheiden und zur Vornahme aller Erklärungen, die zur Durchführung dieses Vertrages erforderlich sind. Die Vollmacht erlischt mit der vollständigen Abwicklung.
+
+2. Zustellungen an die Käuferin [[person|Schoonderbeek Barbera]] erfolgen an die im Kopf dieses Vertrages angeführte Adresse oder an die Kanzlei der [[person|Pall]]. Zustellungen an die [[organization|Papp Handels GmbH]] gelten als bewirkt, wenn sie an deren Geschäftsanschrift ergehen.
+
+3. Die Verkäuferin [[person|Payer]] und der Verkäufer [[person|Fiegl]] bestätigen, dass ihnen die Vollmacht in der Fassung dieses Vertrages zur Kenntnis gebracht wurde.
+
+VII. Hinweise der Rechtsanwältin
+
+Die Rechtsanwältin [[person|Pall]] hat die Vertragsteile darüber belehrt, dass ein Kaufvertrag über eine Liegenschaft zu seiner Wirksamkeit der Schriftform und der Eintragung im Grundbuch bedarf. Ohne Eintragung erwirbt die Käuferin kein Eigentum, auch wenn der Kaufpreis bereits bezahlt ist. Die Vertragsteile wurden ferner darauf hingewiesen, dass die Grunderwerbsteuer nach dem Wert der Gegenleistung bemessen wird und innerhalb von 30 Tagen nach Abschluss des Vertrages anzuzeigen ist.
 
 Die Verkäuferin [[person|Pretorian]] wurde auf die Möglichkeit eines Notariatsaktes hingewiesen und hat darauf verzichtet.
 

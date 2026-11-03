@@ -32,7 +32,7 @@ im Folgenden kurz "Miteigentümer" genannt;
 
 3. Käufer:
 
-[[organization|Möller Handels GmbH]], FN [[company_register_number|FN 200139y]], UID: [[tax_id|ATU16243189]],
+[[organization|Möller Handels GmbH]], [[company_register_number|FN 200139y]], UID: [[tax_id|ATU16243189]],
 vertreten durch die Geschäftsführerin [[person|Jella Anderson]], geb. [[date_of_birth|1982-12-17]],
 im Folgenden kurz "Käufer" genannt.
 

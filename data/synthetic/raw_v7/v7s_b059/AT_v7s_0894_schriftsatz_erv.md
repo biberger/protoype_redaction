@@ -23,7 +23,7 @@ Ihr Zeichen: [[other_identifier|114/22 L]]
 
 KLÄGERIN: [[person|BOŽA BILAN]], Geburtsdatum: [[date_of_birth|4. Juli 1992]], [[address|4715 Taufkirchen an der Trattnach]]
 
-BEKLAGTE: [[organization|DAVID KG]], FN [[company_register_number|FN 436544b]], UID: [[tax_id|ATU86248882]]
+BEKLAGTE: [[organization|DAVID KG]], [[company_register_number|FN 436544b]], UID: [[tax_id|ATU86248882]]
 
 vertreten durch [[person|Wastl]], Rechtsanwältin, über ERV
 

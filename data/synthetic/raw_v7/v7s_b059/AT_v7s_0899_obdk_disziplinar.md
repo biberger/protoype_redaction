@@ -31,7 +31,7 @@ Entscheidungsgründe
 
 2. Die Treuhandgelder wurden zunächst auf das Konto der [[organization|KSP]] bei der [[organization|Sparkasse Pinzgau]] eingezahlt, IBAN [[bank_account|AT36 0381 5916 2972 0907]]. Eine getrennte Verwahrung erfolgte nicht.
 
-3. Am [[date|08.04.2025]] überwies der Beschuldigte EUR 18.000,-- aus der Treuhandschaft 2024/953 an einen Gläubiger des Klienten, ohne dass ein Auftrag des Klienten vorlag. [[person|Buljubašić]] hat den Auftrag nie erteilt.
+3. Am [[date|08.04.2025]] überwies der Beschuldigte EUR 18.000,-- aus der Treuhandschaft Nr. [[other_identifier|2024/953]] an einen Gläubiger des Klienten, ohne dass ein Auftrag des Klienten vorlag. [[person|Buljubašić]] hat den Auftrag nie erteilt.
 
 4. Die Kammeranwaltschaft hat die Angelegenheit am [[date|12.06.2025]] angezeigt. Der Beschuldigte hat den Betrag am [[date|30.09.2025]] wieder eingezahlt.
 

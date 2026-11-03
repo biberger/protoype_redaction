@@ -81,9 +81,9 @@ Der Senat hat geprüft, ob die Auszahlung an den Anzeiger als Verwendung für ei
 
 Der Senat hat weiters berücksichtigt, dass der Beschuldigte gegenüber der Käuferin am [[date|17.02.2026]] erklärte, er werde den Restbetrag in den nächsten Tagen auszahlen, und dies nicht tat. Diese Zusage hat die Käuferin im Vertrauen auf die Abrechnung nicht weiterverfolgt, was den Schaden auf Seiten des Anzeigers vergrößert hat.
 
-Nach Abschluss der Beweisaufnahme hat der Beschuldigte einen Vergleichsvorschlag unterbreitet, wonach er den Restbetrag von 15.600 Euro bis zum Ende des Jahres 2026 in Raten zurückzahlen wolle. Der Anzeiger hat diesen Vorschlag abgelehnt, weil er die sofortige Auszahlung verlangte. Der Senat hat den Vorschlag bei der Strafbemessung nicht berücksichtigt, weil er nach der Anzeige erfolgte und keine verbindliche Zahlungsvereinbarung enthielt.
+Nach Abschluss der Beweisaufnahme hat der Beschuldigte einen Vergleichsvorschlag unterbreitet, wonach er den Restbetrag von 15.600 Euro bis zum Ende des Jahres 2026 in Raten zurückzahlen wolle. Der Anzeiger hat diesen Vorschlag abgelehnt, weil er die sofortige Auszahlung verlangte. Der Senat hat den Vorschlag bei der Strafbemessung nicht berücksichtigt, weil er nach der Anzeige erfolgte und keine verbindliche Zahlungsvereinbarung enthielt. Der Beschuldigte hat den Vorschlag in der Verhandlung wiederholt, ohne ihn zu konkretisieren.
 
-Eine Kanzleiprüfung wäre nach Auffassung des Senats wegen des Umfangs der Angelegenheit angezeigt gewesen; die Kammeranwaltschaft hat jedoch keinen entsprechenden Antrag gestellt.
+Eine Kanzleiprüfung wäre nach Auffassung des Senats wegen des Umfangs der Angelegenheit angezeigt gewesen; die Kammeranwaltschaft hat jedoch keinen entsprechenden Antrag gestellt. Der Senat regt an, die Kammer möge bei künftigen Anzeigen dieser Art von Amts wegen eine Prüfung veranlassen.
 
 5c. Zur Glaubwürdigkeit des Anzeigers
 

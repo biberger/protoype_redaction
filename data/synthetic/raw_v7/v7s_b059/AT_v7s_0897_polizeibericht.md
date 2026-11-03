@@ -46,7 +46,7 @@ Die Beamten stellten fest, dass das Fahrzeug mit dem Kennzeichen [[license_plate
 
 Die Atemalkoholkontrolle bei [[person|Spitzmüller]] und bei [[person|Stephan]] verlief negativ.
 
-Die Beifahrerin [[person|Kuchar]] wurde mit dem Notarzteinsatzwagen in das Krankenhaus Linz gebracht. Die Verletzungen werden von der Ärztin als leicht eingestuft.
+Die Beifahrerin [[person|Kuchar]] wurde mit dem Notarzteinsatzwagen in das Krankenhaus [[location|Linz]] gebracht. Die Verletzungen werden von der Ärztin als leicht eingestuft.
 
 Für die Sicherung des Unfallortes sorgte GrInsp. [[person|Haslinger]]; die Fahrbahn wurde um 08:55 Uhr wieder freigegeben.
 
@@ -70,7 +70,7 @@ Die Lenkerin [[person|Spitzmüller]] wird verdächtigt, das Rotlicht nicht beach
 
 Die Beamtin [[person|Pfeiffer]] hat die Verständigung der Angehörigen der Beifahrerin übernommen.
 
-Pasching, am [[date|19.06.2026]]
+[[location|Pasching]], am [[date|19.06.2026]]
 
 GrInsp. [[person|Bernhard Haslinger]]
 Insp. [[person|Ramona Pfeiffer]]

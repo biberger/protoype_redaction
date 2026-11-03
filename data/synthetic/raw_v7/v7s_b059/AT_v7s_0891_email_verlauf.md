@@ -9,7 +9,7 @@ An: [[person|Emmo Thome]] <[[email|e.thome@thome-recht.at]]>
 Cc: [[person|Saziment Cengiz]] <[[email|s.cengiz@pielachtal-versicherung.at]]>
 Betreff: [[other_identifier|Král ./. Wuchinger]]; Schadennummer [[other_identifier|24/287521/26]]
 
-Sehr geehrter Herr Thome,
+Sehr geehrter Herr [[person|Thome]],
 
 wir vertreten Herrn [[person|Tonik Král]] in der Schadensangelegenheit vom [[date|14.05.2026]]. Die Schadennummer lautet [[other_identifier|24/287521/26]]. Die Haftung des Lenkers [[person|Wuchinger]] ist dem Grunde nach unbestritten, die Höhe des Schadens ist offen. Unser Mandant hat einen Schmerzengeldanspruch, der nach den Verletzungen und der Dauer der Heilbehandlung zu bemessen ist.
 
@@ -32,14 +32,14 @@ ERV-Code: [[other_identifier|R126028]]
 > An: [[person|Edvige Pühringer]] <[[email|edvige.puehringer@eckel.at]]>
 > Betreff: AW: [[other_identifier|Král ./. Wuchinger]]; Schadennummer [[other_identifier|24/287521/26]]
 >
-> Sehr geehrte Frau Pühringer, die [[organization|PVA]] hat die Schadennummer [[other_identifier|24/287521/26]] bislang nicht bestätigt. Herr [[person|Wuchinger]] bestreitet das Mitverschulden nicht.
+> Sehr geehrte Frau [[person|Pühringer]], die [[organization|PVA]] hat die Schadennummer [[other_identifier|24/287521/26]] bislang nicht bestätigt. Herr [[person|Wuchinger]] bestreitet das Mitverschulden nicht.
 
 Von: [[person|Emmo Thome]] <[[email|e.thome@thome-recht.at]]>
 Gesendet: Do, [[date|02.07.2026]] 11:30
 An: [[person|Edvige Pühringer]] <[[email|edvige.puehringer@eckel.at]]>
 Betreff: [[other_identifier|Král ./. Wuchinger]]
 
-Sehr geehrte Frau Pühringer,
+Sehr geehrte Frau [[person|Pühringer]],
 
 unsere Mandantin, die [[organization|PVA]], hat die Schadennummer [[other_identifier|24/287521/26]] zur Bearbeitung an Frau [[person|Saziment Cengiz]] übergeben. Eine Deckungszusage kann erst nach Vorlage des Unfallprotokolls erfolgen. Die Klage liegt beim [[court|LG für ZRS Wien]] auf. Unser Zeichen: [[other_identifier|Král ./. Wuchinger]].
 
@@ -54,7 +54,7 @@ Gesendet: Mi, [[date|01.07.2026]] 08:05
 An: [[person|Emmo Thome]] <[[email|e.thome@thome-recht.at]]>
 Betreff: Schadennummer [[other_identifier|24/287521/26]]
 
-Sehr geehrter Herr Thome,
+Sehr geehrter Herr [[person|Thome]],
 
 die Schadenabteilung der [[organization|PVA]] bestätigt den Eingang. Die Zuständigkeit liegt bei mir; eine Rückfrage bei Herrn [[person|Wuchinger]] ist erforderlich.
 

@@ -45,11 +45,23 @@ Der verbleibende Betrag von 5.250,00 Euro wurde bis zur Prüfung durch die Kamme
 
 Der Senat stützt sich auf die Kontoauszüge und die Angaben des Geschäftsführers der [[organization|Schneider Handels]]. Die Beschuldigte hat eingeräumt, dass die Verbuchung nicht zeitgerecht erfolgte. Die Stellungnahme der [[organization|StRAK]] vom [[date|14. April 2026]], Tel. [[phone_number|0463/3677294 Durchwahl 51]], enthält die Ergebnisse der Kontrolle; die Sitzung der Kammer fand in [[location|St. Andrä]] statt. Ihre Behauptung, eine Vereinbarung über die Rückzahlung bestehe mündlich, konnte nicht bewiesen werden.
 
+**3a. Ergänzende Feststellungen**
+
+Der Senat hat weiters festgestellt, dass die Beschuldigte am [[date|12. Februar 2026]] in einer Besprechung mit der Kammeranwältin [[person|Papanek]] einräumte, die Treuhandschaften nicht laufend überwacht zu haben. Sie bestätigte, dass die Kanzlei zu diesem Zeitpunkt keine Kontrollliste für offene Treuhandschaften führte. Eine solche Liste wurde erst nach der Prüfung durch die [[organization|Steiermärkische Rechtsanwaltskammer]] eingeführt.
+
+Die Abrechnung an die [[organization|Schneider Handels]] wurde am [[date|9. Januar 2026]] übermittelt. Sie enthielt jedoch keine Aufstellung der Kontoführungsentgelte, die der Beschuldigten in Rechnung gestellt wurden und die aus dem Treuhandkonto beglichen worden waren.
+
+Der Geschäftsführer der [[organization|Schneider Handels]] wurde am [[date|3. März 2026]] als Zeuge vernommen. Er bestätigte den Erhalt der Restzahlung und gab an, dass eine mündliche Vereinbarung über die Rückzahlung nicht bestanden habe, sondern lediglich eine Verständigung über die Reihenfolge der Zahlungen.
+
 **4. Rechtliche Beurteilung**
 
 Nach [[legal_norm|§ 11 Abs 1 RAO]] ist der Rechtsanwalt verpflichtet, Treuhandgelder getrennt von eigenen Mitteln zu verwalten und sie nach Erledigung des Auftrags unverzüglich auszufolgen. Die Beschuldigte hat die Gelder der [[organization|Schneider Handels]] über einen Zeitraum von mehr als zwei Monaten nach Erfüllung der Zahlungsverpflichtung einbehalten.
 
 Als mildernd wertet der Senat die bisherige Unbescholtenheit und das Geständnis. Erschwerend wirkt, dass die Beschuldigte die Verbuchung erst nach Aufforderung durch die Kammer korrigierte.
+
+Bei der Strafbemessung berücksichtigt der Senat, dass die Beschuldigte seit über einem Jahrzehnt ohne disziplinäre Vormerkung als Rechtsanwältin tätig ist und dass der verzögerte Betrag im Verhältnis zu den verwalteten Gesamtmitteln gering war. Eine Geldbuße von 3.000,00 Euro erscheint daher angemessen, ohne die wirtschaftliche Existenz der Beschuldigten zu gefährden. Ein bloßer Verweis kam nicht in Betracht, weil der Verstoß über mehrere Monate andauerte.
+
+Gegen diese Entscheidung steht der Beschuldigten und der Kammeranwältin die Berufung an die [[court|OBDK]] offen, die binnen zwei Wochen ab Zustellung einzubringen ist.
 
 [[location|Graz]], am [[date|22.07.2026]]
 

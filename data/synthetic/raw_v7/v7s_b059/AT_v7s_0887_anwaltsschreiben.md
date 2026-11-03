@@ -25,7 +25,7 @@ Betreff: Schadenfall vom [[date|23.03.2026]]; Ihr Versicherungsnehmer [[organiza
 
 Sehr geehrte Frau [[person|Dr. Feistritzer]],
 
-wir zeigen an, dass uns die [[organization|Kainz KG]], FN [[company_register_number|FN 604563p]], UID: [[tax_id|ATU26797357]], mit der Wahrnehmung ihrer Interessen beauftragt hat. Die [[organization|Kainz KG]] ist Eigentümerin der Liegenschaft [[land_register_id|K.G. 14934 Raach am Hochgebirge]]/[[land_register_id|EZ 2932]]. Ihre Referenz lautet Kunden-Nr. [[other_identifier|811207]].
+wir zeigen an, dass uns die [[organization|Kainz KG]], [[company_register_number|FN 604563p]], UID: [[tax_id|ATU26797357]], mit der Wahrnehmung ihrer Interessen beauftragt hat. Die [[organization|Kainz KG]] ist Eigentümerin der Liegenschaft [[land_register_id|K.G. 14934 Raach am Hochgebirge]]/[[land_register_id|EZ 2932]]. Ihre Referenz lautet Kunden-Nr. [[other_identifier|811207]].
 
 Am [[date|23.03.2026]] kam es in [[location|St. Ruprecht an der Raab]] zu einem Wasserschaden in dem Objekt, nachdem im Obergeschoss eine Zuleitung geborsten war. Der Schaden wurde von der Sachbearbeiterin [[person|Fia Zitzewitz]] am selben Tag telefonisch aufgenommen. Die [[organization|Kainz]] hat den Schaden sofort angezeigt, ihre Mitarbeiter haben die Feuchtigkeit getrocknet und die Gutachterin beigezogen.
 
@@ -35,7 +35,7 @@ Eine Obliegenheitsverletzung liegt nicht vor. Der Versicherungsnehmer hat die An
 
 Wir ersuchen Sie daher, die Deckung auch für die Trocknungskosten bis spätestens [[date|23.10.2026]] schriftlich zuzusagen. Eine Zahlung ist auf das Konto der [[organization|Kainz]] bei IBAN [[bank_account|AT05 1423 6373 9471 1103]] zu leisten. Für den Fall der Untätigkeit werden wir ohne weitere Ankündigung Klage beim zuständigen Gericht einbringen, [[legal_norm|§ 1332 ABGB]] iVm [[legal_norm|§ 6 VersVG]].
 
-Ergänzend teilen wir mit, dass der Kommanditist der Kainz KG, [[person|Franzl Hochmair]], geboren am [[date_of_birth|4. Juni 1944]], Ihnen bereits eine Schadensmeldung für das Nebengebäude übermittelt hat. Herr [[person|Hochmair]] ist bei Ihnen unter Kd.-Nr. [[other_identifier|141428]] geführt; seine Anschrift lautet [[address|5541 Altenmarkt im Pongau]]. Wir bitten um Bearbeitung unter einer gemeinsamen Schadensnummer.
+Ergänzend teilen wir mit, dass der Kommanditist der [[organization|Kainz KG]], [[person|Franzl Hochmair]], geboren am [[date_of_birth|4. Juni 1944]], Ihnen bereits eine Schadensmeldung für das Nebengebäude übermittelt hat. Herr [[person|Hochmair]] ist bei Ihnen unter Kd.-Nr. [[other_identifier|141428]] geführt; seine Anschrift lautet [[address|5541 Altenmarkt im Pongau]]. Wir bitten um Bearbeitung unter einer gemeinsamen Schadensnummer.
 
 Die Schadensbearbeitung haben wir bisher mit Frau [[person|Zitzewitz]] unter Tel. [[phone_number|+43 2742 507 18 79 DW 684]] abgestimmt. Die [[organization|TVAG]] hat die Unterlagen bislang vollständig erhalten; eine Rückfrage zur Gutachterin ist derzeit nicht offen.
 

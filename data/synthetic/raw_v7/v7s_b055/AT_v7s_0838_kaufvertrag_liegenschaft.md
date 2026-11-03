@@ -64,7 +64,7 @@ Die Übergabe erfolgt mit der Zahlung der dritten Kaufpreisrate. Der Übergabete
 
 VI. Gewährleistung
 
-Die Verkäufer haften für die Richtigkeit der Angaben über die Liegenschaft nach [[legal_norm|§ 1053 ABGB]]. Die Haftung umfasst insbesondere die Angaben zur Größe der Fläche, zur Bebauung und zu den Dienstbarkeiten, die im Grundbuch ersichtlich sind. Ein darüber hinausgehender Gewährleistungsausschluss gilt nur für bekannte und offen erkennbare Mängel.
+Die Verkäufer haften für die Richtigkeit der Angaben über die Liegenschaft nach [[legal_norm|§ 1053 ABGB]]. Die Haftung umfasst insbesondere die Angaben zur Größe der Fläche, zur Bebauung und zu den Dienstbarkeiten, die im Grundbuch ersichtlich sind. Ein darüber hinausgehender Gewährleistungsausschluss gilt nur für bekannte und offen erkennbare Mängel. Eine Haftung für Mängel, die erst nach der Übergabe durch Witterungseinflüsse entstehen, trifft die Verkäufer nicht. Dies gilt auch für die Heizungsanlage.
 
 VI a. Vorkaufsrechte
 

@@ -34,6 +34,20 @@ Tel. [[phone_number|0662 245025 Durchwahl 56]]
 
 ---
 
+Von: [[person|Marika Landesmann]]
+Gesendet: Freitag, [[date|4. September 2026]] 15:52
+An: [[person|Giannoula Veis]]
+Betreff: Klagebeantwortung, Fristverlängerung
+
+Sehr geehrte Frau Kollegin [[person|Veis]],
+
+wir ersuchen um Verlängerung der Frist zur Klagebeantwortung um zwei Wochen, da unsere Mandantin die Unterlagen zur Heizungsanlage erst am [[date|1. September 2026]] erhalten hat. Eine Verlängerung bis [[date|25. September 2026]] wäre für uns ausreichend.
+
+Mit freundlichen Grüßen
+[[person|Marika Landesmann]]
+
+---
+
 Von: [[person|Ernestus Wach]]
 Gesendet: Donnerstag, [[date|10. September 2026]] 13:05
 An: [[person|Marika Landesmann]]; [[person|Giannoula Veis]]

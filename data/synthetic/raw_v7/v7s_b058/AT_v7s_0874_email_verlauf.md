@@ -52,6 +52,20 @@ Tel. [[phone_number|02622/6202934-67]]
 
 ---
 
+Von: [[person|Juli Ognjanow]]
+Gesendet: Samstag, [[date|5. September 2026]] 18:20
+An: [[person|Mag. Rosi Oswald]]
+Betreff: AW: Schadennummer [[other_identifier|87/379154/23]]
+
+Sehr geehrte Frau [[person|Oswald]],
+
+ich bestätige, dass die Sanierung der Fassade noch nicht bezahlt ist. Die Rechnung vom [[date|28. Mai 2026]] liegt bei. Die [[organization|Patzak Handels]] ist bereit, den Betrag in zwei Teilzahlungen zu leisten, sobald Herr [[person|Bothe]] die Schadensursache schriftlich bestätigt hat.
+
+Mit freundlichen Grüßen
+[[person|Juli Ognjanow]]
+
+---
+
 Von: [[person|Wieland Ritter]]
 Gesendet: Montag, [[date|31. August 2026]] 14:55
 An: [[person|Mag. Rosi Oswald]]

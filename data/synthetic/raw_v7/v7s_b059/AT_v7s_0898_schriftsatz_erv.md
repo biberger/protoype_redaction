@@ -27,7 +27,7 @@ In der Rechtssache der klagenden Partei
 
 KLÄGERIN: [[person|JULI BERNÁT]], *[[date_of_birth|27. März 1941]], StA: [[country|Türkei]], Tel. [[phone_number|+43 316 458 10 42-66]], wohnhaft in [[address|4640 Sattledt]],
 
-vertreten durch [[organization|Danninger & Wegerer]] Rechtsanwälte GmbH, Fliederweg 8, 7350 Oberpullendorf,
+vertreten durch [[organization|Danninger & Wegerer]] Rechtsanwälte GmbH, [[address|Fliederweg 8, 7350 Oberpullendorf]],
 
 gegen
 

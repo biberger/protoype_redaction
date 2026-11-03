@@ -75,7 +75,7 @@ Gegen dieses Erkenntnis steht die Berufung an die [[court|Oberste Berufungs- und
 
 [[location|St. Lorenzen]], am [[date|15.09.2026]]
 
-Die Kammeranwaltschaft ist unter der Telefonnummer [[phone_number|02622/7735587 DW 90]] erreichbar.
+Die Kammeranwaltschaft ist unter Tel. [[phone_number|02622/7735587 DW 90]] erreichbar.
 
 Für die Richtigkeit der Ausfertigung:
 [[person|May]]
