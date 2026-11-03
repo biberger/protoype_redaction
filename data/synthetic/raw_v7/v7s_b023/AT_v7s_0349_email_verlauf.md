@@ -24,7 +24,7 @@ Sehr geehrte Frau [[person|Mag. Zelenka]],
 
 vielen Dank für Ihre Nachricht. Wir bestätigen den Eingang des Schreibens der [[organization|Satteins Wohnbau GmbH]] ([[organization|SWG]]) vom [[date|10.09.2026]]. Die Forderung der [[organization|SWG]] auf Rückzahlung der Abstandszahlung in Höhe von EUR 18.500,00 wird von unserer Mandantin bestritten.
 
-Frau [[person|Guzowska]] hat die Liegenschaft nicht zurückgegeben, sondern lediglich die Frist zur Übergabe um drei Wochen verlängert. Die Verlängerung wurde von Herrn [[person|Ralph Wedl]] für die [[organization|SWG]] schriftlich bestätigt. Eine Kopie seiner E-Mail liegt bei.
+Frau [[person|Guzowska]] hat die Liegenschaft nicht zurückgegeben, sondern lediglich die Frist zur Übergabe um drei Wochen verlängert. Die Verlängerung wurde von Herrn [[person|Ralph Wedl]] für die [[organization|SWG]] schriftlich bestätigt. Eine Kopie seiner E-Mail liegt bei. Unsere Mandantin ist bereit, die Liegenschaft bis zum Monatsende zu übergeben, sofern die Verlängerung auch für die Schlüsselübergabe und die Zählerstände gilt. Die Zählerstände wurden bereits fotografiert und werden gerne übermittelt.
 
 Wir ersuchen um Bekanntgabe, ob die [[organization|SWG]] zu einer außergerichtlichen Einigung bereit ist.
 
@@ -62,13 +62,12 @@ Die Rückzahlung der Abstandszahlung erfolgt nach Maßgabe des Vorvertrages vom 
 
 Mit kollegialen Grüßen
 
-[[person|Astrid Zelenka]]
-Mag.
-Zelenka Advokatur
-Tel. +43 5522 77 04 12
+[[person|Mag. Astrid Zelenka]]
+[[organization|Zelenka Advokatur]]
+Tel. [[phone_number|+43 5522 77 04 12]]
 
 >> Am [[date|14.09.2026]] schrieb [[person|Basia Guzowska]]:
->> Lieber Herr [[person|Malik]], ich habe Herrn [[person|Wedl]] angerufen. Er sagt, die Frist sei nur bis zum [[date|21.09.2026]] gültig. Die Klientennummer ist [[other_identifier|42674]]. Bitte prüfen Sie, ob wir noch ein Gespräch führen können.
+>> Lieber Herr [[person|Malik]], ich habe Herrn [[person|Wedl]] angerufen. Er sagt, die Frist sei nur bis zum [[date|21.09.2026]] gültig. Klientennummer: [[other_identifier|42674]] Bitte prüfen Sie, ob wir noch ein Gespräch führen können.
 >>
 >> Freundliche Grüße
 >> [[person|Basia Guzowska]]

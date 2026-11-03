@@ -68,6 +68,34 @@ Die Zeugin [[person|Mulaosmanovic]] schilderte, sie habe den Anprall gehört und
 beschleunigen gesehen. Der Zeuge [[person|Toni Kranebitter]] gab an, den Vorfall aus dem Fenster seines
 Wohnhauses gesehen zu haben.
 
+**6a. Alkotest und Fahrtüchtigkeit**
+
+Der Lenker des Kombis wurde um 16:52 Uhr einem Alkotest unterzogen. Das Messergebnis betrug 0,00 mg/l AAF,
+der Lenker erschien nach Angaben der einschreitenden Beamten nüchtern und ansprechbar. Eine
+Verletzung der Beteiligten wurde nicht festgestellt; die Lenkerin des PKW klagte über leichte Nackenschmerzen
+und lehnte eine Verständigung des Rettungsdienstes ab. Die Rettung der Lenkerin wurde dennoch angefordert und
+um 17:08 Uhr vor Ort durch eine Sanitätskraft untersucht.
+
+Der Mitfahrer [[person|Thury]] gab an, er sei im Fahrzeug angeschnallt gewesen und habe keine Beschwerden. Er
+wurde ebenfalls durch die Rettung kontrolliert, eine Behandlung war nicht erforderlich.
+
+**6b. Unfallskizze und Spurenlage**
+
+Auf der Unfallskizze ist die Position der Fahrzeuge nach dem Anprall eingetragen. Der Kombi stand quer zur
+Fahrbahn am rechten Fahrbahnrand, der PKW etwa acht Meter vor dem Kombi auf dem Gehsteig. Schleifspuren auf dem
+Asphalt wurden keine festgestellt. Die Bremsspuren des Kombis waren über eine Länge von rund 14 Metern
+erkennbar, was mit der Schilderung des Lenkers übereinstimmt.
+
+Die Fotos des Unfallortes wurden um 17:30 Uhr angefertigt und dem Akt angeschlossen. Ein Abschleppwagen der
+Firma wurde über die Zentrale angefordert, der PKW wurde um 18:10 Uhr vom Unfallort entfernt.
+
+**6c. Verständigungen**
+
+Der Lenker des PKW wurde über die Anzeigenerstattung informiert. Die Halterin des PKW, die Lenkerin selbst,
+hat die Versicherung verständigt. Der Halter des Kombis ist laut Zulassungsschein eine Privatperson mit
+Wohnsitz in Wolfsberg; eine Verständigung erfolgte telefonisch über die Dienststelle. Eine Anzeige des
+Ereignisses bei der Bezirkshauptmannschaft wird nach Abschluss der Erhebungen geprüft.
+
 **7. Anzeige und Maßnahmen**
 
 Gegen den Lenker wird Anzeige nach [[legal_norm|§ 7 Abs 1 StVO]] erstattet. Der Führerschein wurde nicht

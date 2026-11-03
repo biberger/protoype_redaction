@@ -40,7 +40,7 @@ Die Beklagte Partei hat die Öffnung in der Mauer ausschließlich zur Sicherung 
 
 2. Zur Schadenshöhe
 
-Die Schadenshöhe wird ausdrücklich bestritten. Die von der klagenden Partei vorgelegte Schätzung beruht auf einem Angebot vom [[date|02.09.2025]], das nicht ausgeführt wurde. Ein Sachverständiger hat den Zustand des Gartens am [[date|10.09.2025]] besichtigt und festgestellt, dass ein Teil der Schäden auf fehlende Pflege zurückzuführen ist.
+Die Schadenshöhe wird ausdrücklich bestritten. Die klagende Partei stützt ihre Forderung auf ein Schreiben der Hausverwaltung vom [[date|12.06.2025]], das jedoch keine Begutachtung der einzelnen Schadensposten enthält. Nach der Mitteilung der Hausverwaltung war die Mauer schon damals instandsetzungsbedürftig, was die klagende Partei unberücksichtigt lässt. Die von der klagenden Partei vorgelegte Schätzung beruht auf einem Angebot vom [[date|02.09.2025]], das nicht ausgeführt wurde. Ein Sachverständiger hat den Zustand des Gartens am [[date|10.09.2025]] besichtigt und festgestellt, dass ein Teil der Schäden auf fehlende Pflege zurückzuführen ist.
 
 Die Pflanzen im Gartenbereich wurden über zwei Vegetationsperioden nicht gegossen, weshalb die Verluste nicht ausschließlich auf die Öffnung der Mauer zurückzuführen sind. Der Gartenpflegevertrag der klagenden Partei trägt die Vertragsnummer [[other_identifier|V-2022-21517]]; die Pflegeleistungen wurden darin ausdrücklich dem Eigentümer des Gartens übertragen.
 
@@ -57,6 +57,18 @@ Die Mitbenützung der Mauer richtet sich nach [[legal_norm|§ 844 ABGB]]. Danach
 Die beklagte Partei beruft sich auf die Stellungnahme der klagenden Partei [[person|Sardar Besho]] vom [[date|03.10.2025]], in der diese eingeräumt hat, dass die Mauer schon vor Jahren Risse aufwies.
 
 Die Beklagte Partei beantragt die Einvernahme der Hausverwalterin und die Vorlage der Protokolle der Eigentümerversammlung vom [[date|21.04.2024]]. Das [[court|BG Korneuburg]] wird ersucht, über diesen Antrag vor einer weiteren Beweisaufnahme zu entscheiden.
+
+Ergänzend bestreitet die beklagte Partei das Vorbringen der klagenden Partei zur Verjährung nicht, weist aber darauf hin, dass ein Anspruch wegen des Setzungsrisses aus dem Jahr 2019 nach [[legal_norm|§ 1489 ABGB]] jedenfalls verjährt ist, weil die klagende Partei den Schaden seit dem Frühjahr 2019 kannte. Die Klage ist daher auch aus diesem Grund abzuweisen.
+
+Die klagende Partei hat in ihrer Klage zudem einen Zinsanspruch von 4 % seit dem [[date|01.01.2024]] geltend gemacht. Ein solcher Anspruch besteht nicht, weil die Klägerin den Verzug nicht durch eine Mahnung begründet hat. Die Zinsen aus [[legal_norm|§ 1333 ABGB]] setzen eine fällige Forderung voraus, an der es hier fehlt.
+
+Die beklagte Partei weist auch darauf hin, dass die Klägerin in der Klage einen Garten mit einer Fläche von 180 m² beschreibt, obwohl die Vermessung der Liegenschaft nur 142 m² ergibt. Diese Abweichung zeigt, dass die Schadensberechnung auf ungenauen Grundlagen beruht.
+
+Der Schadensbetrag von EUR 9.850,00 beruht nach dem Vorbringen der klagenden Partei auf einer Schätzung von Pflanzen, Bodenarbeiten und Material. Eine Aufschlüsselung der einzelnen Positionen fehlt. Die klagende Partei hat weder Rechnungen noch Lieferscheine vorgelegt, sodass die Schadenshöhe weder nachvollzogen noch geprüft werden kann.
+
+Die beklagte Partei hat selbst ein Gegenangebot eingeholt, das sich auf den Wiederherstellungsaufwand für die Mauer bezieht. Die Kosten dieser Sanierung betragen nach dem Angebot des Maurermeisters EUR 1.640,00 netto. Diese Kosten wären auch bei ordnungsgemäßer Pflege des Gartens angefallen und können der beklagten Partei daher nicht als Schaden zugerechnet werden.
+
+Schließlich ist darauf hinzuweisen, dass die klagende Partei die Rechtsfolgen ihres eigenen Verhaltens nicht bedacht hat. Sie hat die Mauer selbst über Jahre hinweg unbeaufsichtigt gelassen und damit den Schaden mitverursacht. Ein Mitverschulden der klagenden Partei nach [[legal_norm|§ 1304 ABGB]] ist daher in jedem Fall zu berücksichtigen, auch wenn die Klage in der Hauptsache abzuweisen ist.
 
 5. Anträge
 
