@@ -38,6 +38,14 @@ Im Verfahren, in dem die [[country|Republik Österreich]] als Beklagte auftrat, 
 
 Die Gutachterin [[person|Oberhumer]] hält die Abrechnung für unvollständig. Dies stützt den Vorwurf.
 
+**Beweiswürdigung**
+
+Der Senat folgt der Aussage des Zeugen [[person|Toebes Ant]], der die Abbuchung bestritt. Die Aussage wird durch den Kontoauszug vom [[date|07.03.2024]] gestützt, der keinen Auftrag der [[organization|Schwaiger]] ausweist.
+
+Der Beschuldigte [[person|Klaus]] hat erklärt, die [[organization|Schwaiger]] habe ihn mündlich zur Abbuchung ermächtigt. Die [[organization|Schwaiger]] hat dies schriftlich verneint. Eine Vollmacht liegt nicht vor.
+
+Der Mitbeteiligte [[person|Sorger]] hat den Erhalt der Rückzahlung vom [[date|25.04.2024]] bestätigt. Er hat angegeben, dass er keine weiteren Forderungen gegen den Beschuldigten erhebe. Dies mildert den Vorwurf nicht, weil die Pflichtverletzung bereits mit der Abbuchung eintrat.
+
 **Spruch**
 
 Der Beschuldigte wird schuldig erkannt. Er wird mit einer Geldbuße belegt. Die Kosten des Verfahrens trägt der Beschuldigte.

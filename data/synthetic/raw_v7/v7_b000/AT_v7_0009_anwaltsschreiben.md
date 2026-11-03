@@ -37,6 +37,10 @@ Die Gutachterin hat festgestellt, dass die Schadenshöhe EUR 3.180,00 beträgt. 
 
 Frau [[person|Juříčková]] wohnt in [[address|6154 Schmirn]]. Die Mandanten wurden am [[date|09.01.2026]] schriftlich informiert.
 
+Der Schaden trat am [[date|12.12.2025]] auf einem Grundstück in [[address|3300 Amstetten]] auf. Die Schadensmeldung wurde am [[date|15.12.2025]] erstattet, die Nachmeldung am [[date|22.12.2025]]. Die Versicherung verlangt eine Stellungnahme zu [[legal_norm|§ 1311 ABGB]] und zu [[legal_norm|§ 1319 ABGB]].
+
+Die Zeugin [[person|Ilse Brandner]] hat den Vorfall beobachtet und die Fotos der Unfallstelle übermittelt. Ihre Aussage bestätigt die Angaben der Mandanten.
+
 Die Zahlungen sind auf das Konto [[bank_account|AT14 6136 4942 4388 0087]] zu leisten. Die Versicherung wurde am [[date|02.02.2026]] an das [[court|Bezirksgericht Horn]] verwiesen, das [[court|BG Horn]] führt das Mahnverfahren.
 
 Die Kanzlei ist unter folgender Nummer erreichbar: Tel. [[phone_number|+43 5572 139 61 60 Kl. 85]].

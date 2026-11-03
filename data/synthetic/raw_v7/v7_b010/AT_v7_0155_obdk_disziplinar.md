@@ -55,6 +55,14 @@ Die Mandantschaft ist über den Verfahrensstand zu informieren. Die unterblieben
 
 Der Beschluss beruht auf einer Abwägung. Die Anträge der Beschwerdeführerin sind teilweise berechtigt. Die Behauptung, [[person|Szedenik]] sei nicht geladen worden, ist unbelegt.
 
+**Begründung**
+
+Der Beschluss stützt sich auf die Aussagen der Zeugin [[person|Bernauer]] und die Stellungnahme der [[organization|RAK Kärnten]]. Die Zeugin hat die Besprechungen am [[date|08.03.2024]] und am [[date|22.03.2024]] bestätigt, konnte sich aber an den Inhalt der Mitteilung an [[person|Szedenik]] nicht erinnern.
+
+Der Beschuldigte [[person|Pinter]] hat die Vorwürfe teilweise eingeräumt. Er bestreitet jedoch, dass die Mandantin [[person|Taubes]] ungenügend informiert wurde. Die Mitteilung vom [[date|05.04.2024]] enthält den Stand der Forderung der [[organization|Porsch]] vollständig.
+
+Die Beschwerdeführerin [[person|Dib]] hat ergänzend vorgebracht, dass die Forderung der [[organization|Porsch]] unbegründet sei. Dieses Vorbringen ist nicht Gegenstand des Disziplinarverfahrens, sondern des Zivilverfahrens vor dem [[court|LG Klagenfurt]].
+
 **Spruch**
 
 Die Beschwerde wird teilweise Folge gegeben. Der Beschuldigte wird ermahnt.

@@ -9,7 +9,7 @@ GZ [[case_number|D 27/2025]]
 
 **VERFAHREN GEGEN ANTRAG DES KAMMERANWALTS**
 
-Der [[court|Disziplinarrat der Rechtsanwaltskammer für Kärnten]] hat über die Anzeige der [[person|Amalia Pál]], geboren am [[date_of_birth|17. Juni 1972]], entschieden.
+Der [[court|Disziplinarrat der Rechtsanwaltskammer für Kärnten]] hat über die Anzeige gegen [[person|Amalia Pál]], geboren am [[date_of_birth|17. Juni 1972]], entschieden.
 
 Mitbeteiligt ist [[person|Ellen Klich]], geb [[date_of_birth|1976-11-18]].
 
@@ -44,6 +44,14 @@ Die Anschrift der Kanzlei lautet [[address|7000 Eisenstadt]]. Die [[organization
 Die Verwaltung fremder Gelder ist getrennt zu führen. Die Auszahlung ohne Freigabe durch [[person|Klich]] verletzt diese Pflicht. [[organization|Arvay]] ist nicht als Beschuldigte zu behandeln.
 
 Die [[organization|RAK Bgld]] hat eine Stellungnahme abgegeben. Der Senat schließt sich dieser Stellungnahme an.
+
+**Begründung**
+
+Die Anzeige stützt sich auf die Kontoauszüge der [[organization|Arvay]] und das Protokoll der Bauverhandlung vom [[date|14.03.2022]]. Die Mitbeteiligte [[person|Klich]] hat die Zahlung vom [[date|02.05.2022]] bestätigt. Der Beschuldigten [[person|Pál]] wurde die Stellungnahme der [[organization|RAK Bgld]] am [[date|05.08.2022]] zur Kenntnis gebracht.
+
+Die Beschuldigte [[person|Pál]] hat erklärt, dass die Auszahlung vom [[date|28.02.2022]] durch eine Weisung der [[organization|Arvay]] gedeckt war. Eine schriftliche Weisung wurde nicht vorgelegt. Der Senat hält die Angabe daher für nicht hinreichend belegt.
+
+Das Zivilverfahren vor dem [[court|BG Krems]] ist noch nicht abgeschlossen. Der Disziplinarrat hat die Entscheidung daher nicht von dessen Ausgang abhängig gemacht.
 
 **Spruch**
 

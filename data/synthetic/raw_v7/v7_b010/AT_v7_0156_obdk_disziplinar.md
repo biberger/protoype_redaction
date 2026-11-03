@@ -54,6 +54,16 @@ Die [[organization|VdT]] hat den Antrag auf Verhängung einer Geldbuße gestellt
 
 Im Verfahren, in dem die [[country|Republik Österreich]] als Beklagte auftrat, hatte [[person|Wurst]] bereits am [[date|21.06.2024]] einen Vergleich vorgeschlagen. Dieser Umstand ist nicht maßgeblich.
 
+**Beweiswürdigung**
+
+Der Senat hat die Aussage von [[person|Swarovski]] als glaubhaft gewertet. Sie schilderte den Vorgang am [[date|03.03.2023]] übereinstimmend mit den Grundbuchauszügen. [[person|Uher]] hat die Rückzahlung vom [[date|27.11.2023]] bestätigt, bemängelte aber, dass die Abrechnung nicht vollständig übermittelt wurde.
+
+Der Zeuge [[person|Bill]] hatte die Unterlagen im Auftrag der [[organization|Wurst]] vorbereitet. Er gab an, er habe die Zustimmung der Mandantin nicht gesehen. Der Zeuge [[person|Matzka]] räumte ein, dass er keine Kenntnis von den Verhandlungen zwischen [[person|Wurst]] und [[person|Mostafavi]] hatte.
+
+Die [[organization|VdT]] hat die Stellungnahme vom [[date|14.07.2024]] vorgelegt. Darin wird die Auffassung vertreten, dass die Belastung der Liegenschaft ohne Zustimmung der Mandantin zu einer Haftung führen kann. Der Senat schließt sich dieser Beurteilung an, ohne eine zivilrechtliche Haftung festzustellen. Die disziplinarrechtliche Verantwortung ist davon unabhängig.
+
+Der Beschuldigte hat in der mündlichen Verhandlung am [[date|10.12.2025]] erklärt, er habe die Angelegenheit intern prüfen lassen. Eine Prüfung ist nicht dokumentiert.
+
 **Spruch**
 
 Der Beschuldigte wird schuldig erkannt. Er wird mit einer Geldbuße belegt. Die Kosten des Verfahrens trägt der Beschuldigte.

@@ -52,6 +52,16 @@ Der Senat stützt sich auf die Aussage der Klientin [[person|Vajda]] und die Aus
 
 Im Verfahren, in dem die [[country|Republik Österreich]] als Beklagte auftrat, wurde dieselbe Verrechnung vorgelegt. Dieser Umstand hat keine Bedeutung für den Schuldspruch.
 
+**Beweiswürdigung**
+
+Der Senat hat die Aussagen der Klientin [[person|Vajda]] und des Klienten [[person|Buchgraber]] getrennt gewürdigt. [[person|Buchgraber]] gab an, er habe den Vorschuss vom [[date|11.01.2024]] vollständig bezahlt. Die Klientin [[person|Vajda]] bestätigte den Eingang dieses Vorschusses, bestritt jedoch die Zahlung vom [[date|08.02.2024]].
+
+Der Zeuge [[person|Ilić]] ist ein Bekannter des Klienten und hat die Übergabe in [[location|St. Margarethen im Burgenland]] beschrieben. Seine Schilderung enthält Widersprüche zur Abrechnung, die [[person|Rapp]] am [[date|29.02.2024]] vorgelegt hat.
+
+Der Beschuldigte [[person|Rapp]] hat in der Verhandlung am [[date|12.05.2025]] erklärt, er habe die Zahlung an [[person|Vajda]] nicht verbucht, weil das Konto gesperrt war. Diese Angabe ist mit dem Kontoauszug nicht vereinbar, der keine Sperre ausweist.
+
+Der Senat hält die Zeugenaussage von [[person|Ilić]] für nicht vollständig verwertbar, stützt die Feststellungen aber auf die Abrechnung und den Kontoauszug.
+
 **Spruch**
 
 Der Beschuldigte wird schuldig erkannt. Er wird mit einer Geldbuße belegt. Die Kosten des Verfahrens trägt der Beschuldigte.

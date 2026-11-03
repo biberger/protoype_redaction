@@ -57,7 +57,7 @@ Die Zuständigkeit des [[court|BG Döbling]] ergibt sich aus dem Wohnsitz des Er
 
 **IV. Anträge**
 
-Die klagende Partei stellt den Antrag, die Beklagten seien zur ungeteilten Hand schuldig, der [[organization|WHG]] EUR 9.415,20 samt 4 % Zinsen seit [[date|08.09.2025]] binnen 14 Tagen zu bezahlen.
+Die klagende Partei stellt den Antrag, die Beklagten seien zur ungeteilten Hand schuldig, der [[organization|WHG]] EUR 9.415,20 samt 4 % Zinsen seit [[date|08.09.2025]] binnen 14 Tagen zu bezahlen. Zahlungen sind auf das Konto IBAN [[bank_account|AT62 7019 7218 7824 1790]] der [[organization|WHG]] zu leisten.
 
 **V. Beilagen**
 

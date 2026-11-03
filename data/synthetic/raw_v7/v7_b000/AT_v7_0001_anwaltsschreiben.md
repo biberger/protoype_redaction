@@ -25,7 +25,7 @@ Sehr geehrte Damen und Herren,
 
 wir vertreten Frau [[person|Mag. Dr. Liesel Kraus]] in der oben angeführten Angelegenheit. Frau [[person|Kraus]] hat am [[date|03.09.2025]] mit Ihrer Gesellschaft einen Kaufvertrag über eine Druckmaschine geschlossen. Mit Schreiben vom [[date|18.11.2025]] hat die [[organization|King KG]] die Zahlung der letzten Kaufpreisrate verweigert und sich auf [[legal_norm|§ 1052 ABGB]] berufen. Dieser Einwand ist unbegründet, wie die Belege zeigen.
 
-Die Zahlungen wurden auf das Konto [[bank_account|AT53 2468 6272 7655 5494]] geleistet. Die Kontoauszüge der [[organization|Oberbank]] belegen die Überweisungen vom [[date|05.09.2025]] und vom [[date|02.10.2025]].
+Die Zahlungen wurden auf das Konto [[bank_account|AT53 2468 6272 7655 5494]] geleistet. Die [[organization|King KG]] ist unter [[company_register_number|FN 286465y]] im Firmenbuch eingetragen, UID: [[tax_id|ATU52403750]]. Die Sachbearbeitung lag bei Frau [[person|Lea Klimpl]], die sämtliche Unterlagen geprüft hat. Die Kontoauszüge der [[organization|Oberbank]] belegen die Überweisungen vom [[date|05.09.2025]] und vom [[date|02.10.2025]].
 
 Die Übergabe am [[date|12.09.2025]] bestätigte Herr [[person|Nepomuk Mally]], geb. [[date_of_birth|1958-04-22]], der bei der Lieferung anwesend war. Die Inbetriebnahme bezeugte außerdem Frau [[person|Gloria Trenkwitz]] (geb. [[date_of_birth|1986-11-14]]). Die technische Prüfung führte [[person|Eleonore Dr. Schneider]] durch. Die Druckmaschine ist unter Vers.-Nr. [[other_identifier|54-6912877]] versichert, Kl.-Nr. [[other_identifier|41251]] und Polizzen-Nr. [[other_identifier|40-8974296]] sind den Unterlagen beigelegt.
 

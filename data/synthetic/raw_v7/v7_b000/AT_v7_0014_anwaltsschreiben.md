@@ -45,6 +45,10 @@ Die Gegenseite hat das Schreiben vom [[date|05.01.2026]] nicht beantwortet. Die 
 
 Wir setzen eine letzte Frist bis [[date|16.03.2026]]. Nach fruchtlosem Ablauf wird das [[court|Bezirksgericht Steyr]] angerufen. Für Rückfragen erreichen Sie uns unter Tel. [[phone_number|0662/4458666 DW 173]].
 
+Der Bauleiter [[person|Lukas Dorfner]] hat die Lieferung am [[date|03.10.2025]] bestätigt. Die Übernahme erfolgte ohne Beanstandung; die Mängel an einzelnen Brettern wurden erst am [[date|21.10.2025]] gemeldet. Die Meldung trägt die Unterschrift von [[person|Christoffer Grohmann]].
+
+Die Mängelrüge der Mandantschaft wurde von der [[organization|Mariapfarr Holz]] mit Schreiben vom [[date|28.10.2025]] zurückgewiesen. Eine Frist zur Nachbesserung wurde nicht gesetzt. Nach [[legal_norm|§ 932 ABGB]] stehen dem Käufer bei Mängeln Verbesserung oder Preisminderung zu; wir machen beide Ansprüche geltend.
+
 Die Lieferanschrift lautet [[address|8723 Kobenz]]. Die Ware ist in [[location|St. Andrä]] zwischengelagert worden.
 
 Mit freundlichen Grüßen

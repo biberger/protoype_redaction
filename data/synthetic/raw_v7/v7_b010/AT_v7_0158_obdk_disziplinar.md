@@ -69,6 +69,16 @@ Der Disziplinarrat hat die Anzeige der [[person|Hack Letizia]] am [[date|17.02.2
 
 Der Berufungswerber rügt, der Disziplinarrat habe die Aussagen von [[person|Stelzel]] nicht vollständig gewürdigt. Diese Rüge ist teilweise berechtigt, weil der Disziplinarrat die Abrechnung vom [[date|30.11.2023]] nicht näher geprüft hat. Im Übrigen bleibt die Feststellung des Disziplinarrats bestehen.
 
+**Beweiswürdigung**
+
+Der Senat hat die Aussagen der Zeugin [[person|Hack Letizia]] und des Klienten [[person|Stelzel]] gegenübergestellt. [[person|Stelzel]] gab an, er habe die Auszahlung vom [[date|19.06.2023]] am Bankschalter abgeholt; dies wird jedoch durch die Buchungsbestätigung nicht belegt. [[person|Hack Letizia]] bestätigte dagegen die Übergabe der Abrechnung am [[date|14.12.2023]], konnte jedoch kein Schriftstück vorlegen.
+
+Der Klient [[person|Triendl]] hat die Vollmacht vom [[date|11.03.2023]] bestritten. Der Senat hält diese Behauptung für unerheblich, weil die Vollmacht für die Liegenschaft [[land_register_id|EZ 405]] unstrittig ist.
+
+Der Beschuldigte hat in seiner Stellungnahme vom [[date|02.07.2024]] erklärt, die Auszahlung an [[person|Stelzel]] sei auf Weisung der [[organization|Liska]] erfolgt. Die [[organization|Liska]] hat dies in einer Erklärung vom [[date|18.07.2024]] bestritten. Die Weisung ist damit nicht belegt.
+
+Ob der Beschuldigte die [[organization|Liska]] über die Zahlungen informiert hat, wurde im Verfahren nicht abschließend geklärt. Der Senat geht zugunsten des Beschuldigten davon aus, dass eine mündliche Information erfolgte. Dies ändert nichts am Vorwurf der fehlenden Abrechnung.
+
 **Spruch**
 
 Der Berufung wird teilweise Folge gegeben. Die Geldbuße wird auf 4.000 Euro herabgesetzt. Im Übrigen wird die Berufung abgewiesen.

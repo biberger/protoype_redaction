@@ -39,6 +39,12 @@ Die Weiterleitung von Klientengeldern ohne Abrechnung verletzt die Berufspflicht
 
 Im Vergleichsverfahren, in dem die [[country|Republik Österreich]] als Beklagte auftrat, hatte der Beschuldigte bereits eine ähnliche Abrechnung vorgelegt. Die Berufung ist insoweit nicht berechtigt.
 
+**Begründung**
+
+Der Senat hat die Berufungsausführungen des [[person|Petz]] geprüft. Der Beschuldigte bestreitet die Weiterleitung und behauptet, die Zahlung sei auf Anordnung des Mitbeteiligten [[person|Kirschner]] erfolgt. [[person|Kirschner]] hat dies in seiner Erklärung vom [[date|06.05.2024]] zurückgewiesen. Die Erklärung ist mit der Abrechnung der [[organization|Haspel]] vom [[date|14.05.2024]] nicht vereinbar.
+
+Der Mitbeteiligte [[person|Zdanowski]] hat die Zahlung nicht veranlasst. Seine Angaben stimmen mit dem Kontoauszug überein. Die Berufung ist daher unbegründet. Dass die Zeugin [[person|Kohistani Reem]] den Betrag nicht unmittelbar erhalten hat, ändert daran nichts.
+
 **Spruch**
 
 Der Berufung wird nicht Folge gegeben. Der Spruch des Disziplinarrats bleibt aufrecht.

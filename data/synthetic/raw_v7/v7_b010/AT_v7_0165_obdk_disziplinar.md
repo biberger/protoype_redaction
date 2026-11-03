@@ -48,6 +48,16 @@ Die Auszahlung ohne Freigabe verletzt die Pflicht zur getrennten Verwahrung. Die
 
 Im Verfahren, in dem die [[country|Republik Österreich]] als Beklagte auftrat, verwendete die Beschuldigte dieselbe Abrechnung. Dies ist nicht entscheidungserheblich.
 
+**Beweiswürdigung**
+
+Der Senat hat die Angaben der Anzeigerin [[person|Jank]] und der Beschuldigten [[person|Çelik]] verglichen. [[person|Jank]] schilderte die Auszahlung am [[date|21.12.2020]] als eigenmächtig veranlasst. [[person|Çelik]] behauptete, die Auszahlung sei mit einer Vollmacht der Anzeigerin gedeckt gewesen. Eine solche Vollmacht liegt nicht vor.
+
+Die Zeugin [[person|Aberer]] bestätigte, dass sie den Überweisungsauftrag am [[date|21.12.2020]] an die [[organization|Öztürk]] weitergeleitet habe. Sie hat jedoch eingeräumt, die Freigabe nicht geprüft zu haben. Der Mitbeteiligte [[person|Kohlmeier]] gab an, er habe von der Auszahlung erst im Frühjahr 2021 erfahren.
+
+Der Kammeranwalt [[person|Schulhof]] hat die Anzeige unterstützt. Er verwies auf die Unterlagen, die er am [[date|09.09.2021]] eingesehen hatte, und auf die fehlende Dokumentation der Honorarabrechnung vom [[date|15.03.2021]].
+
+Der Senat hält fest, dass die Beschuldigte die Verwahrung nicht getrennt gehalten hat. Die Auszahlung war nicht durch eine Freigabe gedeckt. Die Verantwortung der Beschuldigten ist daher nicht glaubhaft.
+
 **Spruch**
 
 Die Anzeige wird berechtigt erkannt. Die Beschuldigte wird mit einer Geldbuße belegt. Die Kosten trägt die Beschuldigte.

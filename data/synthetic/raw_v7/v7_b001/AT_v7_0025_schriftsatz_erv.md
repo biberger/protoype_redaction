@@ -26,7 +26,7 @@ Beklagte: [[person|Lilliane Haberlandt]], StA: [[country|Serbien]], und [[organi
 
 Die [[country|Republik Österreich]] als Beklagte im Parallelverfahren hat den Unfallbericht bestätigt. Die Erstbeklagte [[person|Haberlandt]] bestreitet ihr Verschulden am Unfall vom [[date|19.08.2025]] mit dem Fahrzeug, Kennzeichen [[license_plate|BL-3656 M]], FIN [[other_identifier|PR9JTMM0E1LNTTPH9]].
 
-Das Fahrzeug war auf der Liegenschaft [[land_register_id|E.Z. 368]], [[land_register_id|GB 61183 Horitschon]] ([[court|BG Schärding]]), [[land_register_id|Gst-Nr. 574/26]] abgestellt. Der Halter ist die [[organization|Höfel]], die Versicherung wurde mit Schreiben vom [[date|02.09.2025]] informiert.
+Das Fahrzeug war auf der Liegenschaft [[land_register_id|E.Z. 368]], [[land_register_id|GB 61183 Horitschon]] ([[court|BG Schärding]]), [[land_register_id|Gst-Nr. 574/26]] abgestellt. Der Halter ist die [[organization|Höfel]], die Versicherung wurde mit Schreiben vom [[date|02.09.2025]] informiert. Allfällige Zahlungen sind auf das Konto IBAN [[bank_account|AT03 3869 7274 4001 4759]] der [[organization|Höfel]] zu leisten.
 
 Zeuge ist [[person|Holger Ginzel]], geboren am [[date_of_birth|26. Februar 1969]], der den Unfall beobachtet hat. [[person|Arkadius Stauber]], GEB: [[date_of_birth|16. Juni 1966]], hat die Schadensmeldung aufgenommen.
 
@@ -36,7 +36,7 @@ Die Beklagten beantragen, das Klagebegehren abzuweisen. Die Kosten sind dem Klä
 
 **III. Kontakt**
 
-Rückfragen unter Tel. [[phone_number|0732 417338-3]]; Wohnsitz der Erstbeklagten: [[address|7212 Forchtenstein]].
+Das Verfahren ist beim [[court|BG Neunkirchen]] anhängig. Rückfragen unter Tel. [[phone_number|0732 417338-3]]; Wohnsitz der Erstbeklagten: [[address|7212 Forchtenstein]].
 
 [[location|Neunkirchen]], am [[date|05.10.2026]]
 

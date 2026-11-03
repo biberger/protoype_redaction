@@ -36,6 +36,8 @@ Der Sachverständige hat die Mängel am [[date|08.09.2025]] festgestellt. Die [[
 
 Der Schaden wurde unter Schaden-Nr. [[other_identifier|54/271861/26]] gemeldet. Die Bank hat die Finanzierung nicht eingestellt; die Zahlungen laufen weiter. Die Kontoverbindung lautet IBAN [[bank_account|AT34 2765 9136 5449 7582]].
 
+Die Mängel betreffen insbesondere die Verbindungselemente, die bei der Montage bereits gebrochen waren. Der Sachverständige [[person|Anton Holzinger]] hat die Schäden dokumentiert; sein Gutachten vom [[date|10.10.2025]] liegt bei. Die Mandantin hat eine Teilzahlung von EUR 2.500,00 am [[date|28.07.2025]] geleistet, um die Lieferung nicht zu gefährden. Diese Zahlung ist in der Forderung berücksichtigt.
+
 Die Kosten der Nachbesserung schätzt der Sachverständige auf EUR 11.300,00. Wir fordern eine Minderung des Kaufpreises um EUR 4.200,00 sowie den Ersatz der Gutachterkosten von EUR 1.150,00.
 
 Die Klage ist beim [[court|Bezirksgericht Neunkirchen]] unter [[case_number|2 C 141/26a]] anhängig. Die Verhandlung findet am [[date|17.03.2026]] statt.

@@ -41,7 +41,7 @@ Der Vorgang betrifft außerdem [[court|Bezirksgericht Floridsdorf]]; die Akten s
 
 Die Ansprüche bestehen auf Grundlage von [[legal_norm|§ 1295 ABGB]] iVm [[legal_norm|§ 1311 ABGB]]. Wir ersuchen um Zahlung bis [[date|10.03.2026]].
 
-Die [[organization|Bertolini e.U.]] ist im Firmenbuch unter der Firmenbuchnummer [[company_register_number|FN 320191w]] eingetragen. Die [[organization|Bertolini]] hat einen Vertreter in [[address|3463 Stetteldorf am Wagram]] benannt.
+Die [[organization|Bertolini e.U.]] ist im Firmenbuch unter der Firmenbuchnummer [[company_register_number|FN 320191w]] eingetragen, UID: [[tax_id|ATU15801390]]. Die [[organization|Bertolini]] hat einen Vertreter in [[address|3463 Stetteldorf am Wagram]] benannt.
 
 Telefonische Rückfragen unter Tel. [[phone_number|+43-7242-945108-34]].
 

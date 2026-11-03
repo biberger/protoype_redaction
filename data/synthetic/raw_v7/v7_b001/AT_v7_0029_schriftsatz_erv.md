@@ -42,7 +42,7 @@ Die Ware wurde an das Objekt auf [[land_register_id|KG 42663 Reith bei Seefeld]]
 
 Der Zeuge [[person|Jan Ciuca]], *[[date_of_birth|24.06.1967]], hat die Übergabe bestätigt. Die Zeugin [[person|Bernardina Čutura]], *[[date_of_birth|27.08.1997]], StA: [[country|Kroatien]], war bei der Übergabe anwesend. Die Zeugin [[person|Viktoria Spreitzer]], Geburtsdatum: [[date_of_birth|04.06.1997]], hat die Bestellung aufgenommen.
 
-Die Zustellung an [[person|Ciuca]] ist zu wiederholen; das Verfahren ist beim [[court|BG Mödling]] anhängig. Der Zeuge ist unter Tel. [[phone_number|0662 901693-9]] erreichbar.
+Die Zustellung an [[person|Ciuca]] ist zu wiederholen; das Verfahren ist beim [[court|BG Mödling]] anhängig. Der Zeuge ist unter Tel. [[phone_number|0662 901693-9]] erreichbar. Ein allfälliger Betrag ist auf das Konto IBAN [[bank_account|AT56 8822 4405 0402 7549]] der [[organization|UHG]] zu überweisen.
 
 **4. Anträge**
 

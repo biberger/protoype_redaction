@@ -53,6 +53,8 @@ Herr [[person|Botho Korner]] hat die Übergabe der Schlüssel protokolliert. Fra
 
 Der Sitz der Verwaltung liegt in [[address|6858 Schwarzach]]. Die Parteien erreichen wir unter Tel. [[phone_number|+43-316-4523177 DW 988]].
 
+Die Verkäuferin [[person|Ing. Timna Papp]] hat den Kaufvertrag am [[date|12.06.2024]] unterfertigt. Der Vertrag enthält eine Klausel über die Lastenfreistellung, die bis heute nicht umgesetzt wurde. Die Gegenseite beruft sich auf [[legal_norm|§ 1053 ABGB]] und verweigert die Löschung.
+
 Die Akten liegen beim [[court|Bezirksgericht Innere Stadt Wien]] und beim [[court|BG Innere Stadt Wien]] zur Einsicht auf.
 
 Die Bank der [[organization|Kretz GmbH]] hat den Kontoauszug mit dem Konto [[bank_account|AT15 8514 6710 9316 7598]] übermittelt. Die Belege liegen bei.

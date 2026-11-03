@@ -40,6 +40,14 @@ Die [[organization|GVW]] hat den Antrag auf Verhängung einer Geldbuße gestellt
 
 Im Verfahren, in dem die [[country|Republik Österreich]] als Beklagte auftrat, verwendete der Beschuldigte dieselbe Abrechnung. Diese Verwendung ist nicht Gegenstand des Verfahrens.
 
+**Beweiswürdigung**
+
+Der Senat hat die Angaben der Zeugin [[person|Tagliabue]] als Sachverständige gewürdigt. Ihr Gutachten vom [[date|22.07.2024]] kommt zu dem Ergebnis, dass die Abrechnung nur die Hälfte der Zahlungen ausweist. Die Verteidigung hat dagegen eingewandt, das Gutachten berücksichtige nicht die Gegenforderung der [[organization|Gastrowelt]].
+
+[[person|Eppel]] hat die Gegenforderung in seiner Stellungnahme vom [[date|09.08.2024]] anerkannt, jedoch betragsmäßig nicht belegt. Der Senat sieht darin keinen Widerspruch zu den Feststellungen.
+
+Die [[organization|GVW]] hat die Zuständigkeit des [[court|BG Hollabrunn]] nicht bestritten. Die Klage ist beim Gericht anhängig geblieben, bis die Anzeige beim Disziplinarrat eingegangen ist.
+
 **Spruch**
 
 Der Beschuldigte wird schuldig erkannt. Er wird mit einer Geldbuße belegt. Die Kosten des Verfahrens trägt der Beschuldigte.

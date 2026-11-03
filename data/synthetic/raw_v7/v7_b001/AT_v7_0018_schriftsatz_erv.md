@@ -32,7 +32,7 @@ Datum | Leistung | Betrag
 
 Die Liegenschaften [[land_register_id|E.Z. 2859]] / [[land_register_id|KG 94130]] ([[court|BG Lienz]]) Grundstück Nr. [[land_register_id|944/29]] und [[land_register_id|EZ 1233]]/Grundbuch [[land_register_id|71275 Loretto]] sind als Pfandgegenstand angeführt. Weiters ist [[land_register_id|EZ 1321]] [[land_register_id|KG 64387 Kaumberg]] ([[court|BG Perg]]) Grundstück Nr. [[land_register_id|784]] belastet. Den Vertrag hat [[person|Mario Dr. Petrin]], geb. [[date_of_birth|1951-03-25]], für die Verpflichteten unterzeichnet.
 
-Weitere Verpflichtete sind [[person|Bärbel Litschauer]], StA: [[country|Slowakei]], sowie [[person|Jolan Gálffy]], geboren am [[date_of_birth|15. März 1987]], StA: [[country|Ukraine]]. Die Zustellung an [[person|Hannelore Jud]], geb [[date_of_birth|27.05.1989]], StA: [[country|Bosnien und Herzegowina]], [[address|3281 Oberndorf an der Melk]], ist noch offen. Das Verfahren ist beim [[court|BG Braunau am Inn]] anhängig.
+Weitere Verpflichtete sind [[person|Bärbel Litschauer]], StA: [[country|Slowakei]], sowie [[person|Jolan Gálffy]], geboren am [[date_of_birth|15. März 1987]], StA: [[country|Ukraine]]. Die Zustellung an [[person|Hannelore Jud]], geb [[date_of_birth|27.05.1989]], StA: [[country|Bosnien und Herzegowina]], [[address|3281 Oberndorf an der Melk]], ist noch offen. Das Verfahren ist beim [[court|BG Braunau am Inn]] anhängig. Zahlungen sind auf das Konto IBAN [[bank_account|AT75 0494 5315 8233 7139]] der Gläubigerin zu leisten. Der Verpflichtete [[person|Mewes]] hat die SV-Nr. [[social_security_number|5743 141026]].
 
 Beilagen: ./A Versicherungsschein Polizzen-Nr. [[other_identifier|87-8224860]]; ./B Schadenmeldung Schadennummer [[other_identifier|82/862883/21]]
 

@@ -38,6 +38,10 @@ Die Frau [[person|Starkl]] hat am [[date|07.01.2026]] den Mietvertrag gekündigt
 
 Die Schadensmeldung trägt die Schaden-Nr. [[other_identifier|16/812862/20]]. Die Gutachterin hat die Mängel am [[date|12.11.2025]] festgestellt.
 
+Die Mieterin [[person|Tijana Pender]] hat mit der Vermieterin am [[date|01.04.2019]] einen Mietvertrag geschlossen. Der Mietzins betrug EUR 540,00 zuzüglich Betriebskosten. Mit Schreiben vom [[date|09.12.2025]] kündigte die Klägerin das Mietverhältnis zum [[date|31.03.2026]] auf.
+
+Die Vermieterin stützt die Kündigung auf den Eigenbedarf ihres Sohnes [[person|Lorenz Hopfgartner]], der die Wohnung beziehen möchte. Der Sohn ist derzeit in [[location|Lilienfeld]] wohnhaft. Der Eigenbedarf ist nach [[legal_norm|§ 30 Abs 2 MRG]] nicht ausreichend belegt, da der Sohn bereits eine eigene Wohnung besitzt. Die Mieterinnen bestreiten dies.
+
 Die Mietzinsüberweisungen erfolgten auf das Konto [[bank_account|AT82 4441 2514 2888 8989]]. Die Zahlungen von [[date|01.10.2025]] bis [[date|01.02.2026]] sind belegt.
 
 Die Dienststelle der Stadt [[location|St. Pölten]] hat die Anfrage beantwortet. Die Mieterinnen erreichen wir über Tel. [[phone_number|+43 316 806 39 36-36]].

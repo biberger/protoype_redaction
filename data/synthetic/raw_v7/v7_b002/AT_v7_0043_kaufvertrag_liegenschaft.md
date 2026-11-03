@@ -42,7 +42,7 @@ Die Zahlung erfolgt auf das Treuhandkonto IBAN [[bank_account|AT28 9023 3327 100
 
 II. Vertragsbestandteile
 
-Die Vertragsnummer lautet [[other_identifier|KV-2016-60647]]; die Kunden- und Kl.-Nr. [[other_identifier|54442]] betreffen die Hausbank. Die Liegenschaft ist mit einem Wohnhaus bebaut.
+Vertragsnummer [[other_identifier|KV-2016-60647]]; die Kl.-Nr. [[other_identifier|54442]] betrifft die Hausbank. Die Liegenschaft ist mit einem Wohnhaus bebaut.
 
 Die Republik Österreich ist nicht Partei dieses Vertrages.
 
@@ -65,4 +65,4 @@ Verkäuferin: [[person|Hieke Tol]]
 
 Käufer: [[person|Joshua Löwit]]
 
-Käuferin: [[person|Becky Mag. Köllerer]]
+Käuferin: [[person|Mag. Becky Köllerer]]

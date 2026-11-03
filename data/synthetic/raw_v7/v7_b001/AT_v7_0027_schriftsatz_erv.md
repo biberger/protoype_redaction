@@ -43,7 +43,7 @@ Die Antragsgegner beantragen,
 
 **IV. Kontakt**
 
-Rückfragen unter Tel. [[phone_number|0662 652963 Durchwahl 63]]. Die Antragsgegnerin wohnt in [[address|9843 Großkirchheim]]. Die Ware wurde nach [[location|St. Gilgen]] geliefert.
+Rückfragen unter Tel. [[phone_number|0662 652963 Durchwahl 63]]. Die Antragsgegnerin wohnt in [[address|9843 Großkirchheim]]. Die Ware wurde nach [[location|St. Gilgen]] geliefert. Die Rückzahlung einer allfälligen Zahlung ist auf das Konto IBAN [[bank_account|AT42 4768 5420 4776 1911]] der Antragsgegnerin zu leisten.
 
 **V. Beilagen**
 

@@ -44,6 +44,10 @@ Die Mieterinnen erreichen wir unter Tel. [[phone_number|02622 564289 Durchwahl 6
 
 Wir setzen eine Frist bis [[date|20.02.2026]]. Nach fruchtlosem Ablauf werden wir das [[court|Bezirksgericht Döbling]] anrufen; das [[court|BG Döbling]] ist für die Mietsache zuständig.
 
+Die Mieterin [[person|Margot Jost]] hat die Heizkostenabrechnung am [[date|08.01.2026]] beanstandet. Die Abrechnung legt einen Verbrauch zugrunde, der die Wohnfläche nicht berücksichtigt. Wir verlangen eine Neuberechnung nach [[legal_norm|§ 17 MRG]].
+
+Frau [[person|Luma Abdali]] ergänzt, dass die Hausverwaltung die Kaution erst am [[date|15.01.2026]] zurückgezahlt hat, obwohl das Mietverhältnis bereits am [[date|31.12.2025]] geendet hatte.
+
 Die Bank [[organization|UniCredit Bank Austria AG]] hat die Zahlungen bestätigt. Eine Kopie der Bestätigung liegt bei.
 
 Mit freundlichen Grüßen

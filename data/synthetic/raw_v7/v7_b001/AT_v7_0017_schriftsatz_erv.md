@@ -35,7 +35,7 @@ Die [[organization|MUE]] hat das Angebot mit Schreiben vom [[date|11.03.2025]] �
 
 **2. Schadenersatz und Gegenforderung**
 
-Die Beklagte [[person|Hager]] wendet als Gegenforderung einen Schaden in Höhe von EUR 1.120,00 ein. Dieser Schaden entstand durch eine Leitungsbeschädigung am [[date|18.07.2025]] und wurde unter der Schaden-Nr. [[other_identifier|80/628657/24]] bei der Versicherung gemeldet. Die FIN [[other_identifier|EG1FWLU4HUZ8YYJ79]] betrifft das beschädigte Fahrzeug, das auf dem Gelände abgestellt war.
+Die Beklagte [[person|Hager]] wendet als Gegenforderung einen Schaden in Höhe von EUR 1.120,00 ein. Zahlungen sind auf das Konto IBAN [[bank_account|AT12 3979 7927 4713 6532]] der [[organization|MUE]] zu leisten. Dieser Schaden entstand durch eine Leitungsbeschädigung am [[date|18.07.2025]] und wurde unter der Schaden-Nr. [[other_identifier|80/628657/24]] bei der Versicherung gemeldet. Die FIN [[other_identifier|EG1FWLU4HUZ8YYJ79]] betrifft das beschädigte Fahrzeug, das auf dem Gelände abgestellt war.
 
 Die Versicherung hat die Regulierung mit Schreiben vom [[date|18.07.2025]] abgelehnt; der Kunden-Nr. [[other_identifier|115728]] wurde keine Deckung zuerkannt.
 

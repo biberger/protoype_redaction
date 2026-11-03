@@ -34,6 +34,10 @@ Parteien:
 [[person|Perette
 Rainer]], [[person|Friedoline Wilczek]] Die Zeugen [[person|Widrich Rufus]] und [[person|Zenker Ronny]] (geb. [[date_of_birth|1983-06-17]]) waren bei der Übergabe anwesend. Herr [[person|Hölzl Zenz]] (geb. [[date_of_birth|27. November 1945]]) hat die Abnahme protokolliert.
 
+Die Vollmacht der Mandantschaft datiert vom [[date|02.02.2026]]. Frau [[person|Friedoline Wilczek]] hat die Kopien der Rechnungen am [[date|05.02.2026]] übermittelt. Die Rechnungen sind mit den Daten [[date|30.09.2025]] und [[date|14.10.2025]] ausgestellt.
+
+Ergänzend verweisen wir auf den Lieferschein vom [[date|12.09.2025]], der die Übergabe bestätigt. Herr [[person|Zenker]] hat den Schein unterzeichnet, Herr [[person|Widrich]] hat ihn gegengezeichnet.
+
 Die Kundin ist unter Kunden-Nr. [[other_identifier|214346]] geführt. Die Zahlung war über das Konto [[bank_account|AT54 0615 3970 7705 1383]] vorgesehen.
 
 Der Wohnsitz der Mandantin ist [[address|5310 Sankt Lorenz]]. Wir ersuchen um Zahlung von EUR 4.760,00 bis [[date|10.03.2026]].

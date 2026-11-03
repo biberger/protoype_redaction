@@ -67,4 +67,4 @@ Die Verfahrensbeteiligten werden auf den Verzicht vom [[date|14.01.2026]] hingew
 [[lawyer|Hesse]]
 Rechtsanwalt
 
-E-Mail-Signatur: [[lawyer|Hesse]] | T: [[phone_number|07242/4332678 Durchwahl 30]] | F: [[phone_number|+43 732 525 88 22-10]] | [[email|hesse@hesse.at]]
+E-Mail-Signatur: [[lawyer|Hesse]] | Tel. [[phone_number|07242/4332678 Durchwahl 30]] | F: [[phone_number|+43 732 525 88 22-10]] | [[email|hesse@hesse.at]]

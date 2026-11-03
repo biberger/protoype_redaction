@@ -59,7 +59,7 @@ Die Beklagte [[person|Schönauer]] bestreitet die Abnahme. Der Beklagte [[person
 
 **IV. Anträge**
 
-Die klagende Partei beantragt, die Beklagten seien zur ungeteilten Hand schuldig, der [[organization|ZEU]] EUR 5.640,00 samt Zinsen binnen 14 Tagen zu bezahlen.
+Die klagende Partei beantragt, die Beklagten seien zur ungeteilten Hand schuldig, der [[organization|ZEU]] EUR 5.640,00 samt Zinsen binnen 14 Tagen zu bezahlen. Zahlungen sind auf das Konto IBAN [[bank_account|AT61 2410 8749 5873 2519]] der [[organization|ZEU]] zu leisten.
 
 **V. Beilagen**
 

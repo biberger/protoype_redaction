@@ -70,6 +70,20 @@ Im Verfahren, in dem die [[country|Republik Österreich]] als Beklagte auftrat, 
 
 Die Berufung hat teilweise Erfolg. Der Vorwurf der Vertretung beider Parteien ist nur insoweit berechtigt, als der Beschuldigte die Vorverträge nicht offengelegt hat.
 
+**Beweiswürdigung**
+
+Der Senat hat die Zeugin [[person|Sittler]] mehrfach gehört. Ihre Aussage zur Übergabe der Anzahlung am [[date|14.04.2023]] ist in den Grundzügen glaubhaft, weil sie den Ort der Übergabe, die Kanzlei in [[location|St. Johann im Pongau]], genau beschrieben hat. Der Beschuldigte bestreitet den Erhalt und verweist darauf, dass die Quittung nicht auf seinen Namen ausgestellt sei.
+
+Der Mandant [[person|Troger]] hat die Vorverträge mit der [[organization|Turracher Holzbau]] erst im Berufungsverfahren vorgelegt. Die Vorlage erfolgte am [[date|06.02.2025]], also nach Abschluss der Ermittlungen. Der Senat wertet dies als Versäumnis beider Seiten.
+
+Die Mandantin [[person|Piëch]] hat in ihrer Erklärung vom [[date|18.11.2024]] angegeben, sie habe der Vertretung durch den Beschuldigten nicht zugestimmt. Diese Angabe wird durch das Schreiben vom [[date|25.09.2024]] gestützt, das keine Zustimmung enthält.
+
+**Zur Berufung**
+
+Die Berufung rügt die Höhe der Geldbuße und die Annahme einer Vertretung beider Parteien. Der Senat hält die Höhe für überhöht, weil die Gesamtumstände, insbesondere die Rückzahlung vom [[date|03.12.2024]], nicht hinreichend gewürdigt wurden. Der Vorwurf der Vertretung beider Parteien ist dagegen nur teilweise erwiesen, weil der Beschuldigte die Vorverträge tatsächlich nicht offengelegt hat.
+
+Die Kosten des Verfahrens sind nach dem Ergebnis der Berufung zu verteilen. Die Anteile des Beschuldigten an den Verfahrenskosten werden daher auf die Hälfte festgesetzt.
+
 **Spruch**
 
 Der Berufung wird teilweise Folge gegeben. Die Geldbuße wird herabgesetzt. Im Übrigen wird die Berufung abgewiesen.

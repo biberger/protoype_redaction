@@ -26,6 +26,13 @@ wir vertreten Frau [[person|Mag. Dr. Mina Ehn]] (*[[date_of_birth|10. November 1
 
 Der Schaden betrifft das Grundbuch [[land_register_id|44734]], [[land_register_id|E.Z. 3250]] ([[court|BG Hollabrunn]]) [[land_register_id|Gst-Nr. 897/16]]. Die Sachverständige hat die Schadenshöhe mit EUR 6.420,00 festgestellt.
 
+Weiters betroffen sind:
+
+Einlagezahl [[land_register_id|2068]], [[land_register_id|GB 96574 Ober-Grafendorf]] ([[court|BG Bludenz]]) Grundstück Nr. [[land_register_id|618]]
+[[land_register_id|EZ 594]]/[[land_register_id|K.G. 33283 Langenzersdorf]] ([[court|BG Dornbirn]]), [[land_register_id|GSt-Nr. 1178]]
+
+Die Zahlung ist auf das Konto [[bank_account|AT87 7235 8813 8767 0492]] zu leisten.
+
 Beteiligt waren außerdem [[person|Eppinger Filippino]], geb [[date_of_birth|1981-07-04]], sowie [[person|Rafael Haupt]], StA. [[country|Tschechien]]. Die Zeugin [[person|Undine Hirschbichler]] (*[[date_of_birth|20.10.1959]]) und [[person|Catherina Tandler]] haben den Vorfall beobachtet. Frau [[person|Mallinger]] (*[[date_of_birth|1990-08-20]], StA. [[country|Österreich]]) hat die Fotos übermittelt.
 
 Die Akten der Versicherung führen die Treuhandbuch-Nr. [[other_identifier|2024/155]]; wir bitten um Korrektur, da die Schadensmeldung eine andere Nummer trägt. Die Mandantin wohnt in [[address|5323 Ebenau]].

@@ -29,7 +29,7 @@ Streitwert: EUR 18.400,00
 
 **II. Sachverhalt**
 
-Der Kläger erwarb mit Kaufvertrag vom [[date|12.03.2024]] die Liegenschaft [[land_register_id|1252/Taufkirchen an der Trattnach]] [[land_register_id|Parz. 796]] sowie die Liegenschaft [[land_register_id|EZ. 720]] [[land_register_id|KG 73778 Weiz]]; [[land_register_id|GSt-Nr. 610]] zum Kaufpreis von EUR 14.200,00. Die Vertragsabwicklung erfolgte über das Treuhandkonto (Treuhandbuch-Nr. [[other_identifier|2018/384]]).
+Der Kläger erwarb mit Kaufvertrag vom [[date|12.03.2024]] die Liegenschaft [[land_register_id|1252/Taufkirchen an der Trattnach]] [[land_register_id|Parz. 796]] sowie die Liegenschaft [[land_register_id|EZ. 720]] [[land_register_id|KG 73778 Weiz]]; [[land_register_id|GSt-Nr. 610]] zum Kaufpreis von EUR 14.200,00. Die Vertragsabwicklung erfolgte über das Treuhandkonto (Treuhandbuch-Nr. [[other_identifier|2018/384]]). Die Kaufpreisrückzahlung ist auf das Konto IBAN [[bank_account|AT28 5828 2487 6200 6886]] zu leisten.
 
 Der Beklagte übernahm als Bauleiter die Sanierung des Dachstuhls auf der Liegenschaft. Die Mitbeklagte [[organization|TMB]] führte die Arbeiten aus, der Beklagte stellte die Abnahme am [[date|30.09.2024]] schriftlich in Aussicht. Mit Schreiben vom [[date|02.09.2025]] rügte der Kläger eine Feuchtigkeitsschädigung im Dachgeschoss. Die [[organization|TMB]] lehnte jede Haftung ab.
 

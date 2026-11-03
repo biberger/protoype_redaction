@@ -25,7 +25,7 @@ Verkäuferin:
 wohnhaft in [[address|6165 Telfes im Stubai]]
 
 Käufer:
-[[person|Adi Mag. Winkler]], geb. [[date_of_birth|25.10.1962]],
+[[person|Mag. Adi Winkler]], geb. [[date_of_birth|25.10.1962]],
 [[person|DI Aggie Friedl]], Mitgliedsnummer [[other_identifier|7636875]],
 Kunden-Nr. [[other_identifier|303268]]
 
@@ -40,7 +40,7 @@ Datum | Beschreibung | Betrag
 [[date|20. März 2026]] | Anzahlung | EUR 29.800,00
 [[date|15. Juni 2026]] | Restzahlung | EUR 268.200,00
 
-Die [[organization|HYPO NOE]] (im Folgenden „[[organization|HYPO NOE]]“) bestätigt den Zahlungseingang. Die Verwahrung erfolgt im Treuhandbuch.
+Die [[organization|HYPO NOE Landesbank für Niederösterreich und Wien AG]] (im Folgenden „[[organization|HYPO NOE]]“) bestätigt den Zahlungseingang. Die Verwahrung erfolgt im Treuhandbuch.
 
 II. Kraftfahrzeug
 
@@ -52,7 +52,7 @@ Die Verkäuferin erklärt die Aufsandung des Eigentums zugunsten der Käufer. De
 
 IV. Schlussbestimmungen
 
-Die Parteien erhalten je eine Ausfertigung. Änderungen bedürfen der Schriftform. Mündliche Nebenabreden bestehen nicht.
+Die Parteien erhalten je eine Ausfertigung; ein Exemplar wird der Gemeinde in [[location|St. Wolfgang im Salzkammergut]] übermittelt. Änderungen bedürfen der Schriftform. Mündliche Nebenabreden bestehen nicht.
 
 Für Rückfragen steht die Kanzlei unter Tel. [[phone_number|02742/1849520-53]] zur Verfügung.
 
@@ -60,7 +60,7 @@ Ausgefertigt in [[location|Kundl]], am [[date|2. April 2026]].
 
 Verkäuferin: [[person|Hildburg Matzke]]
 
-Käufer: [[person|Adi Mag. Winkler]]
+Käufer: [[person|Mag. Adi Winkler]]
 
 Käuferin: [[person|DI Aggie Friedl]]
 

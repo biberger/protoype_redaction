@@ -49,6 +49,12 @@ Der Vermieter, die [[country|Republik Österreich]] als Beklagte im Parallelverf
 
 Die Ansprüche werden deshalb als unbegründet bestritten. Wir ersuchen um Abweisung der Klage und um Akteneinsicht in die Zahlungsnachweise der Klägerin.
 
+Der Mietvertrag wurde am [[date|01.09.2019]] abgeschlossen und sieht einen Mietzins von EUR 890,00 monatlich vor. Die Wohnung umfasst drei Zimmer, Küche und Bad. Eine Indexanpassung ist nach [[legal_norm|§ 46 MRG]] nur mit schriftlicher Mitteilung zulässig; eine solche liegt nicht vor. Die Erhöhung auf EUR 932,00 ab [[date|01.01.2026]] ist daher unwirksam.
+
+Die Beklagten haben außerdem die Betriebskostenabrechnung für das Jahr 2024 erst am [[date|30.11.2025]] erhalten. Die Abrechnung ist damit verspätet geltend gemacht und nach [[legal_norm|§ 21 MRG]] nicht fällig.
+
+Wir beantragen die Vernehmung von Herrn [[person|Michael Back]] und Frau [[person|Ḥanān Muhammad]]. Beide können bestätigen, dass die Zahlungen stets pünktlich erfolgten. Die Zeugin [[person|Ḥanān Muhammad]] hat die Überweisungen selbst durchgeführt.
+
 Für Rückfragen steht Ihnen Frau [[person|Ahmadzai]] unter Tel. [[phone_number|+43-2622-3443967 Kl. 52]] zur Verfügung.
 
 Mit freundlichen Grüßen

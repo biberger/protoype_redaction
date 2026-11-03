@@ -36,7 +36,7 @@ Die Vers.-Nr. [[other_identifier|28-7548874]] der Haftpflichtversicherung der [[
 
 **III. Anträge**
 
-Die Klägerin beantragt die Verurteilung der Beklagten zur ungeteilten Hand zur Zahlung von EUR 3.790,00 samt Zinsen. Die Zuständigkeit des [[court|BG Innere Stadt Wien]] ergibt sich aus [[legal_norm|§ 49 JN]].
+Die Klägerin beantragt die Verurteilung der Beklagten zur ungeteilten Hand zur Zahlung von EUR 3.790,00 samt Zinsen. Die Zuständigkeit des [[court|BG Innere Stadt Wien]] ergibt sich aus [[legal_norm|§ 49 JN]]. Zahlungen sind auf das Konto IBAN [[bank_account|AT46 7717 8039 2455 9720]] der Klägerin zu leisten. Die SV-Nr. [[social_security_number|5783 100675]] der Zweitbeklagten [[person|Neumüller]] ist aktenkundig.
 
 Beilagen: ./A Werkvertrag vom [[date|18.11.2024]]; ./B Schlussrechnung vom [[date|14.03.2025]]
 
