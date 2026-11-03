@@ -71,6 +71,10 @@ Haftung und Inventar
 
 Die Erben haben zur Kenntnis genommen, dass die Haftung für Nachlassverbindlichkeiten auf den Nachlass beschränkt ist, wenn ein Inventar errichtet wird. Das Inventar wird vom Gericht bestellt und binnen der gesetzlichen Frist errichtet. Die Erben werden ersucht, Belege über Ausgaben im Zusammenhang mit dem Begräbnis und der Liegenschaft dem Notar vorzulegen. Der Erbin [[person|Boric]] wurde zugesichert, dass die Kosten für die Pflege der Erblasserin im letzten Lebensjahr im Rahmen der Abhandlung geprüft werden.
 
+Die Erblasserin hinterließ außerdem einen Hund, dessen Versorgung die Erbin [[person|Radin]] übernommen hat. Die Erben haben sich darauf geeinigt, dass die Kosten der Versorgung aus dem Nachlass bestritten werden, bis das Inventar vorliegt. Eine Vereinbarung über die weitere Haltung des Tieres ist noch nicht getroffen.
+
+Die Erbin [[person|Boric]] hat ihre Erbantrittserklärung am [[date|28. Juli 2026]] unterschrieben.
+
 Ausstehende Unterlagen
 
 Für die Vollständigkeit des Abhandlungsprotokolls fehlen noch der Nachweis über das Sparbuch der Erblasserin, die Sterbeurkunde in beglaubigter Abschrift und die Bestätigung der Versicherung über den Rückkaufswert. Der Notar hat die Erben aufgefordert, diese Unterlagen bis zum [[date|31. Juli 2026]] nachzureichen. Sollte dies nicht fristgerecht geschehen, wird das Gericht von Amts wegen die Unterlagen anfordern.

@@ -76,17 +76,17 @@ II. Rechtliche Ausführungen
 
 7. Die Zweitklägerin ist zudem nicht Vertragspartnerin. Eine Vertretungsbefugnis wurde nicht nachgewiesen, obwohl die Beklagte diese bereits mit Schriftsatz vom [[date|16. April 2026]] ausdrücklich bestritten hat. Ein Vertrag, der von einem vollmachtlosen Vertreter geschlossen wurde, bindet den Vertretenen nur bei nachträglicher Genehmigung gemäß [[legal_norm|§ 1016 ABGB]]. Eine solche Genehmigung liegt nicht vor.
 
-8. Die Klage ist daher abzuweisen. Hilfsweise wird eingewendet, dass die Forderung durch die von der Erstklägerin gesondert geltend gemachte Gewährleistung vermindert ist. Die Beklagte erklärt die Aufrechnung mit ihrer Gegenforderung aus der Widerklage.
+8. Die Klage ist daher abzuweisen. Hilfsweise wird eingewendet, dass die Forderung durch die von der Erstklägerin gesondert geltend gemachte Gewährleistung vermindert ist. Die Beklagte erklärt die Aufrechnung mit ihrer Gegenforderung aus der Widerklage. Die Aufrechnung ist zulässig, weil die Gegenforderung fällig ist und die Klagsforderung mit ihr gleichartig ist. Die Beklagte verweist darüber hinaus darauf, dass die Erstklägerin die Ware am [[date|19. März 2026]] ohne Vorbehalt übernommen hat. Gewährleistungsansprüche wegen offensichtlicher Mängel wären nach [[legal_norm|§ 377 UGB]] daher verfristet, sofern die Ware entgegen dem Vorbringen mangelfrei war.
 
 III. Widerklage
 
 9. Die Beklagte begehrt von der Erstklägerin und der Zweitklägerin zur ungeteilten Hand die Zahlung von EUR 3.870,00 samt 4 % Zinsen seit dem [[date|25. April 2026]] für die Kosten der Entsorgung des beschädigten Kühlaggregats und für die Stornogebühr nach Punkt 5 der Allgemeinen Geschäftsbedingungen.
 
-10. Die Zuständigkeit ergibt sich aus [[legal_norm|§ 88 JN]], weil die Erstklägerin im Sprengel des [[court|Bezirksgerichtes Scheibbs]] wohnt. Die Widerklage ist mit der Klage in tatsächlichem und rechtlichem Zusammenhang, sodass eine gemeinsame Verhandlung zweckmäßig ist.
+10. Die Zuständigkeit ergibt sich aus [[legal_norm|§ 88 JN]], weil die Erstklägerin im Sprengel des [[court|Bezirksgerichtes Scheibbs]] wohnt. Die Widerklage ist mit der Klage in tatsächlichem und rechtlichem Zusammenhang, sodass eine gemeinsame Verhandlung zweckmäßig ist. Die Beklagte ist überdies bereit, die Widerklage im Falle einer fristgerechten Zahlung durch die Klägerinnen binnen vierzehn Tagen zurückzunehmen. Einen entsprechenden Vergleichsvorschlag hat die Beklagte den klagenden Parteien bereits mit Schreiben vom [[date|7. Mai 2026]] übermittelt; dieser blieb unbeantwortet.
 
 IV. Beweisanbote
 
-11. Zum Beweis wird aufgenommen: Vernehmung der Parteien; Vernehmung des Zeugen [[person|Aristides Ehrenstein]] zum Lieferungsvorgang; Einholung eines Sachverständigengutachtens aus dem Fachgebiet Kältetechnik zum Zustand des Kompressors.
+11. Zum Beweis wird aufgenommen: Vernehmung der Parteien; Vernehmung des Zeugen [[person|Aristides Ehrenstein]] zum Lieferungsvorgang; Einholung eines Sachverständigengutachtens aus dem Fachgebiet Kältetechnik zum Zustand des Kompressors. Ferner wird die Einvernahme der Mitarbeiterin der Beklagten [[person|Marlene Schöffmann]] zur Abwicklung der Bestellung und zur telefonischen Vereinbarung vom [[date|12. März 2026]] beantragt.
 
 12. Die Beklagte legt folgende Urkunden vor:
 

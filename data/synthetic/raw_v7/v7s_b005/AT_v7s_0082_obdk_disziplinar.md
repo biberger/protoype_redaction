@@ -107,6 +107,10 @@ Der Senat hat die Geldbuße nach [[legal_norm|§ 45 RAO]] unter Berücksichtigun
 
 Die Kosten des Verfahrens trägt der Beschuldigte. Gegen dieses Erkenntnis ist die Berufung an die [[court|OBDK]] zulässig. Die Berufung ist binnen zwei Wochen ab Zustellung beim Disziplinarrat einzubringen.
 
+Der Senat hat über die Kosten in diesem Erkenntnis entschieden.
+
+Die Kosten des Verfahrens wurden nach den gesetzlichen Vorschriften bemessen; sie umfassen die Kosten der Zeugeneinvernahmen, der Verhandlung und der Ausfertigung. Der Beschuldigte hat den Kostenersatz binnen vier Wochen nach Rechtskraft zu leisten. Die Verpflichtung zum Ersatz besteht unabhängig von einer allfälligen Berufung.
+
 Verkündet am [[date|23. Juli 2026]]
 
 Für den Senat:

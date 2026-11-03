@@ -48,6 +48,8 @@ Die Leistungen sind umsatzsteuerpflichtig; die Umsatzsteuer wird gesondert ausge
 
 Die Zahlung ist binnen 14 Tagen ab Rechnungsdatum auf das Konto IBAN [[bank_account|AT32 4611 7055 2327 3725]] zu leisten. Bei Zahlungsverzug werden Verzugszinsen verrechnet.
 
+Wir danken Ihnen für Ihren Auftrag und stehen für Rückfragen zu dieser Honorarnote jederzeit zur Verfügung. Die Zahlungsfrist gilt auch dann, wenn Einwendungen erhoben werden, soweit diese nicht den unstrittigen Teil betreffen.
+
 Mit freundlichen Grüßen
 
 [[lawyer|MMag. Ursula Dankl]]

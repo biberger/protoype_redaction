@@ -45,6 +45,8 @@ Die Leistungen wurden nach dem [[legal_norm|Rechtsanwaltstarifgesetz]] verrechne
 
 Zahlbar binnen 14 Tagen auf das oben angeführte Konto.
 
+Für weitere Fragen zur Abrechnung stehen wir gerne zur Verfügung. Bitte geben Sie bei Zahlungen stets die Rechnungsnummer an, damit die Zuordnung rasch erfolgen kann.
+
 Mit freundlichen Grüßen
 
 [[lawyer|MMag. Jefrem Kastner]]

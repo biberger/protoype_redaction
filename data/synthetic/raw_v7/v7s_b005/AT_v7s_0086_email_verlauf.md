@@ -79,6 +79,8 @@ Mit freundlichen Grüßen
 [[person|Piroschka Hell]]
 Tel. [[phone_number|0316 422253 Kl. 9]]
 
+Bitte bestätigen Sie mir zudem, dass die Besprechung am [[date|29. Oktober 2026]] in Ihren Räumen stattfinden kann. Ich nehme an, dass Frau [[person|Üstünel]] persönlich erscheinen wird.
+
 Zu den einzelnen Positionen der Berechnung: Die Zahlung vom [[date|1. März 2026]] ist laut unserer Aufzeichnung erst am [[date|9. März 2026]] eingegangen; die Zahlung vom [[date|15. Juni 2026]] wurde ohne Zahlungsreferenz überwiesen und daher nicht zugeordnet.
 
 Ergänzend bitte ich, die Unterlagen zur Schulbildung der Kinder beizulegen, da die Berechnung sonst nicht geprüft werden kann. Die Kanzlei [[organization|ZK]] wird die Unterlagen nach Eingang sichten und mit der Gegenseite abstimmen.

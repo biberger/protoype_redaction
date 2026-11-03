@@ -62,6 +62,8 @@ Rolle | Name | Geburtsdatum | Staatsangehörigkeit
 VERKÄUFER | [[person|TRAUGOTT SCHWÄRZLER]] | [[date_of_birth|24. JULI 1954]] | [[country|SERBIEN]]
 KÄUFERIN | [[person|NICOLLE PANGERL]] | [[date_of_birth|27.01.1980]] | [[country|AFGHANISTAN]]
 
+Die Vertragsparteien halten fest, dass die Liegenschaft zum Zeitpunkt der Vertragserrichtung nicht als landwirtschaftlicher Betrieb im Sinne des Grundverkehrsrechts zu qualifizieren ist; eine Genehmigung ist daher nicht erforderlich.
+
 § 4a Grunderwerbsteuer und Unbedenklichkeitsbescheinigung
 
 Die Vertragsparteien vereinbaren, dass die Grunderwerbsteuer nach dem Wert der Gegenleistung zu bemessen ist. Die Anzeige an das Finanzamt wird binnen der gesetzlichen Frist von der Kanzlei erstattet. Die Käuferin erteilt der Kanzlei die Vollmacht, die Erklärung gemäß [[legal_norm|Grunderwerbsteuergesetz]] abzugeben und die Unbedenklichkeitsbescheinigung einzuholen. Die Käuferin nimmt zur Kenntnis, dass eine Verzögerung der Anzeige die Verbücherung verzögern kann.

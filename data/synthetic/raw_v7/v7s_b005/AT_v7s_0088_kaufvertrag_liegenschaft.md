@@ -92,6 +92,10 @@ IX. Übergabe
 
 Die Übergabe erfolgt mit der Einverleibung des Eigentumsrechts. Die Käufer werden ab diesem Zeitpunkt zur Nutzung der Liegenschaft berechtigt. Die Zählerstände werden bei der Übergabe festgehalten; die Verkäuferinnen übergeben die Schlüssel für das Gartentor.
 
+Die Vertragsparteien vereinbaren, dass der Kaufpreis in gleichen Teilen an die Verkäuferinnen überwiesen wird, sobald die Treuhänderin die Löschungsbestätigung erhalten hat. Jede Verkäuferin gibt dazu ihre Kontoverbindung bei der Treuhänderin schriftlich bekannt. Eine Zahlung an eine Verkäuferin allein befreit die Käufer nicht von der Pflicht zur Zahlung an die andere. Ergänzend wird festgehalten, dass die Gebühren der Verbücherung je zur Hälfte von den Käufern getragen werden.
+
+Die Vertragsparteien bestätigen den Stand der Abrechnung vom [[date|30. Oktober 2026]].
+
 Kaufpreisfälligkeit und Verzug
 
 Die Käufer sind verpflichtet, den Kaufpreis fristgerecht nach Verbücherungsreife zu bezahlen. Bei Verzug über mehr als vierzehn Tage können die Verkäuferinnen Verzugszinsen verlangen oder vom Vertrag zurücktreten. Die Kosten einer erneuten Verbücherungsanfrage trägt die säumige Partei.

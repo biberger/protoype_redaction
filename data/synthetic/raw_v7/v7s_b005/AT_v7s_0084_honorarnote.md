@@ -48,6 +48,8 @@ Die Kanzlei hat die Honorare für die Vertretung im Verfahren nach dem [[legal_n
 
 Der Vergleich sieht vor, dass [[person|Gerlach]] die Räumung bis zum [[date|31.08.2026]] vornimmt und die Verfahrenskosten zu zwei Dritteln trägt. Die Vergleichsgebühr wurde mit dem Gericht abgerechnet; die Gerichtsgebühren sind in obiger Summe nicht enthalten. Eine Einsicht in die Vergleichsurkunde ist in unserer Kanzlei jederzeit möglich.
 
+Die Honorare der Kanzlei sind nicht umsatzsteuerbefreit; die Umsatzsteuer ist in der Gesamtsumme enthalten. Eine Gegenüberstellung der Positionen mit den Terminen des Gerichts ist auf Anfrage erhältlich. Die Kanzlei behält sich vor, bei Zahlungsverzug die Vollstreckung der Forderung zu betreiben.
+
 Zahlungen bitte auf das Konto IBAN [[bank_account|AT79 8038 5612 8575 6543]] unter Angabe der Kl.-Nr. [[other_identifier|74088]] überweisen.
 
 Mit freundlichen Grüßen

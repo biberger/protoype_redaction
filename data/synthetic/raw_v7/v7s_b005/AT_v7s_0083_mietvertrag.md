@@ -98,6 +98,10 @@ Die Mieterin darf Besuch empfangen, auch über Nacht, soweit dies die Hausordnun
 
 Mängel an der Wohnung sind der Vermieterin unverzüglich schriftlich anzuzeigen. Die Mieterin trägt den Schaden, der aus einer verspäteten Mängelanzeige entsteht. Die Vermieterin behebt Mängel binnen angemessener Frist. Bei Gefahr im Verzug darf die Mieterin die Reparatur selbst veranlassen; die Kosten sind der Vermieterin nach Vorlage der Belege zu ersetzen, soweit sie notwendig waren.
 
+§ 7i Übergabeprotokoll
+
+Bei Rückgabe der Wohnung ist ein gemeinsames Protokoll zu erstellen. Abweichungen vom Übergabeprotokoll gelten als vereinbart, soweit sie nicht innerhalb von zwei Wochen schriftlich angezeigt werden.
+
 § 8 Schlussbestimmungen
 
 Änderungen dieses Vertrages bedürfen der Schriftform. Mündliche Nebenabreden bestehen nicht. Rückfragen zur Hausverwaltung richten Sie bitte an folgende Nummer: Tel. [[phone_number|05572/2725397 Durchwahl 16]].

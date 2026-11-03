@@ -30,11 +30,11 @@ Die Vertragsparteien schließen folgenden Kaufvertrag:
 
 Die Verkäufer sind je zur Hälfte bücherliche Eigentümer der Liegenschaft [[land_register_id|KG 35025 Frankenau-Unterpullendorf]] (Katastralgemeinde) und [[land_register_id|EZ 428]] (Einlagezahl) im Grundbuch des [[court|Bezirksgerichtes Oberpullendorf]]. Die Liegenschaft wird im Folgenden als Vertragsgegenstand bezeichnet.
 
-Die Käuferin erklärt, die Liegenschaft zur Errichtung eines Betriebsgebäudes erwerben zu wollen. Die Verkäufer erklären, dass keine Pfandrechte oder Dienstbarkeiten bestehen, die nicht im Grundbuch ersichtlich sind.
+Die Käuferin erklärt, die Liegenschaft zur Errichtung eines Betriebsgebäudes erwerben zu wollen. Die Verkäufer erklären, dass keine Pfandrechte oder Dienstbarkeiten bestehen, die nicht im Grundbuch ersichtlich sind. Die Verkäufer erklären zudem, dass sie seit dem Abschluss des Kaufanbots keine weiteren Verfügungen über die Liegenschaft getroffen haben.
 
 **II. Kaufgegenstand**
 
-Verkauft wird das Grundstück Nr. [[land_register_id|812/3]] samt allen wesentlichen Bestandteilen im Ausmaß von 1.240 m². Die Verkäufer verkaufen den Vertragsgegenstand mit allen Rechten und Pflichten, insbesondere mit dem Recht auf Zufahrt über die Parzelle.
+Verkauft wird das Grundstück Nr. [[land_register_id|812/3]] samt allen wesentlichen Bestandteilen im Ausmaß von 1.240 m². Die Verkäufer verkaufen den Vertragsgegenstand mit allen Rechten und Pflichten, insbesondere mit dem Recht auf Zufahrt über die Parzelle. Die Verkäufer haben der Käuferin eine Abschrift des Teilungsplanes übergeben, der die Grenzen des Vertragsgegenstandes ausweist. Eine Vermessung ist nicht erforderlich, weil der Teilungsplan vom Vermessungsamt bestätigt wurde.
 
 **III. Kaufpreis und Treuhandabwicklung**
 
@@ -54,7 +54,7 @@ Die Übergabe erfolgt mit Zahlungseingang. Die Verkäufer haften für die Lasten
 
 **VI. Schlussbestimmungen**
 
-Änderungen und Ergänzungen dieses Vertrages bedürfen der Schriftform. Sollten einzelne Bestimmungen unwirksam sein, bleibt der Vertrag im Übrigen wirksam. Es gilt österreichisches Recht, insbesondere das [[legal_norm|ABGB]] und das [[legal_norm|Grundbuchsgesetz]].
+Änderungen und Ergänzungen dieses Vertrages bedürfen der Schriftform. Sollten einzelne Bestimmungen unwirksam sein, bleibt der Vertrag im Übrigen wirksam. Die Vertragsparteien verzichten auf die Anfechtung wegen Verkürzung über die Hälfte, soweit das Gesetz dies zulässt. Die Käuferin nimmt zur Kenntnis, dass die Verkäufer keine Gewähr für die Bebaubarkeit des Grundstücks übernehmen, weil die Flächenwidmung in der Verantwortung der Gemeinde liegt. Es gilt österreichisches Recht, insbesondere das [[legal_norm|ABGB]] und das [[legal_norm|Grundbuchsgesetz]].
 
 Die Vertragsparteien bestätigen, dass sie den Vertrag gelesen und verstanden haben.
 

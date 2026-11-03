@@ -31,7 +31,7 @@ Entscheidungsgründe
 
 4. Der Kammeranwalt [[person|Pirchegger]] legte der Disziplinarbehörde das Ergebnis einer Revision der [[organization|Tiroler Rechtsanwaltskammer]] (in der Folge [[organization|TRAK]]) vor, die im Zuge der Prüfung der Treuhandbuchführung erfolgt ist. Die [[organization|TRAK]] hatte die Beschuldigte bereits mit Schreiben vom [[date|9. Mai 2025]] zur Stellungnahme aufgefordert.
 
-5. Die Beschuldigte rechtfertigte sich damit, dass die Gelder kurzfristig für einen Honorarvorschuss benötigt worden seien. Dieses Vorbringen ist durch die Aktenlage nicht gedeckt. Ein schriftlicher Auftrag der Klientin zur Verwendung der Gelder für Honorarzwecke existiert nicht.
+5. Die Beschuldigte rechtfertigte sich damit, dass die Gelder kurzfristig für einen Honorarvorschuss benötigt worden seien. Dieses Vorbringen ist durch die Aktenlage nicht gedeckt. Ein schriftlicher Auftrag der Klientin zur Verwendung der Gelder für Honorarzwecke existiert nicht. Die Beschuldigte konnte auch nicht erklären, warum die Abrechnung über den Vorschuss erst im Juli 2025 erstellt wurde; eine Honorarnote vom [[date|28. März 2025]] liegt nicht vor. Die Beschuldigte erklärte in der Verhandlung, sie habe die Gelder als vorübergehende Liquiditätshilfe betrachtet und jederzeit zurückzahlen wollen.
 
 6. Die Klientin [[person|Oesterle]] wurde in der Verhandlung als Zeugin vernommen und bestätigte die Hingabe der Gelder. Ein weiterer Vorwurf betrifft die Treuhandschaft (Treuhandbuch-Nr. [[other_identifier|2026/332]]), die sich auf eine Wohnungsübergabe am [[date|30. Juni 2025]] bezieht.
 
@@ -39,7 +39,7 @@ Entscheidungsgründe
 
 Rechtliche Beurteilung
 
-8. Nach [[legal_norm|§ 43 RAO]] hat der Rechtsanwalt die Pflicht, anvertraute Gelder getrennt vom eigenen Vermögen zu verwahren. Die Verletzung dieser Pflicht wiegt schwer, weil die Klienten auf die ordnungsgemäße Verwahrung vertrauen dürfen.
+8. Nach [[legal_norm|§ 43 RAO]] hat der Rechtsanwalt die Pflicht, anvertraute Gelder getrennt vom eigenen Vermögen zu verwahren. Die Verletzung dieser Pflicht wiegt schwer, weil die Klienten auf die ordnungsgemäße Verwahrung vertrauen dürfen. Die Einzahlung auf das Geschäftskonto der Kanzlei stellt eine Vermengung dar, die auch dann unzulässig ist, wenn der Betrag später zurückbezahlt wird. Der Senat verkennt nicht, dass Treuhandgelder in kleinen Kanzleien oft aus praktischen Gründen zunächst auf dem Kanzleikonto landen; im vorliegenden Fall wurde der Betrag jedoch über mehrere Wochen dort belassen und für Kanzleizwecke verwendet.
 
 9. Bei der Strafbemessung war zu berücksichtigen, dass die Beschuldigte bisher disziplinär nicht in Erscheinung getreten ist und die Beträge in der Zwischenzeit vollständig zurückbezahlt wurden. Erschwerend war hingegen die wiederholte Verwendung der Treuhandgelder für Kanzleizwecke.
 

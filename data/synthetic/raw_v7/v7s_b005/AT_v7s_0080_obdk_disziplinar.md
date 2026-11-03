@@ -88,6 +88,8 @@ Mildernd wirkt, dass die Beschuldigte seit dem [[date|1. Jänner 2009]] ohne dis
 
 Die Kosten des Verfahrens trägt die Beschuldigte. Gegen dieses Erkenntnis ist die Berufung an die [[court|OBDK]] zulässig. Die Berufung ist binnen zwei Wochen ab Zustellung bei dem Disziplinarrat einzubringen.
 
+Der Senat hat über den Antrag der Verteidigung auf Entfall der Kosten entschieden; dieser wurde abgewiesen, weil das Verfahren durch das Verhalten der Beschuldigten veranlasst wurde. Eine Ausfertigung dieses Erkenntnisses ergeht an die Kammer, den Kammeranwalt und die Beschuldigte.
+
 Verkündet am [[date|2. Oktober 2024]]
 
 Für den Senat:

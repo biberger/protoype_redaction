@@ -54,6 +54,8 @@ Die Fahrbahn war an der Unfallstelle durch eine Baustelle verengt, die Hinweissc
 
 Die Lenker wurden darüber belehrt, dass sie bei einem Unfall mit Sachschaden die Unfallmeldung nach [[legal_norm|§ 4 StVO]] zu erstatten haben. Der Schaden am Pkw des Herrn [[person|Metzler]] wurde von diesem bereits fotografisch dokumentiert; die Fotos wurden der Anzeige als Beilage ./2 angeschlossen.
 
+Die Polizei hat am Unfallort die Verkehrssituation geregelt, bis die Fahrzeuge aus dem Kreisverkehr entfernt werden konnten. Der Verkehr wurde über die Ausweichstrecke geleitet; eine Behinderung des öffentlichen Verkehrs ist nicht dokumentiert. Die Straßenmeisterei wurde über die verschmutzte Fahrbahn verständigt und hat die Reinigung um 19:10 Uhr veranlasst. Der Pkw des Herrn [[person|Metzler]] war fahrbereit und wurde auf eigene Veranlassung weggebracht.
+
 Die Beamten haben die Beteiligten darüber belehrt, dass sie den Unfall binnen einer Woche der Versicherung melden müssen. Eine Alkoholvortestung wurde bei allen Lenkern mit negativem Ergebnis durchgeführt.
 
 Zeugenangaben

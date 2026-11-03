@@ -41,7 +41,7 @@ Die Kosten des Verfahrens trägt die Beschuldigte.
 
 **I. Verfahrensgang**
 
-Die Kammeranwältin [[person|MMag. Nana Ivanova]] erhob am [[date|14. Mai 2024]] die Disziplinaranzeige gegen [[lawyer|Mag. Dr. Thery Hoselitz]]. Der Disziplinarrat der Rechtsanwaltskammer hat die Anzeige mit Erkenntnis vom [[date|12. Juli 2024]] nur teilweise bestätigt. Gegen diese Entscheidung haben sowohl die Beschuldigte als auch die Kammeranwältin Berufung erhoben. Die [[court|OBDK]] hat die Berufungen im Verfahren [[case_number|E 14/2025]] zu gemeinsamer Verhandlung verbunden. Der Klient [[person|MMag. Alec Klima]] hat in einer schriftlichen Erklärung Schadenersatz begehrt, der jedoch nicht Gegenstand dieses Verfahrens ist. Die Kammeranwältin [[person|Ivanova]] hat den Antrag auf Verhängung einer Geldbuße von mindestens EUR 10.000,00 gestellt. Die Beschuldigte hat in der Verhandlung erklärt, sie halte die Anzeige für unbegründet, weil die Verkäuferin den Kaufvertrag nur mit einer Frist von drei Tagen aufrechterhalten habe.
+Die Kammeranwältin [[person|MMag. Nana Ivanova]] erhob am [[date|14. Mai 2024]] die Disziplinaranzeige gegen [[lawyer|Mag. Dr. Thery Hoselitz]]. Der Disziplinarrat der Rechtsanwaltskammer hat die Anzeige mit Erkenntnis vom [[date|12. Juli 2024]] nur teilweise bestätigt. Gegen diese Entscheidung haben sowohl die Beschuldigte als auch die Kammeranwältin Berufung erhoben. Die [[court|OBDK]] hat die Berufungen im Verfahren [[case_number|E 14/2025]] zu gemeinsamer Verhandlung verbunden. Der Klient [[person|MMag. Alec Klima]] hat in einer schriftlichen Erklärung Schadenersatz begehrt, der jedoch nicht Gegenstand dieses Verfahrens ist. Die Kammeranwältin [[person|Ivanova]] hat den Antrag auf Verhängung einer Geldbuße von mindestens EUR 10.000,00 gestellt. Die Verhandlung wurde am [[date|18. März 2025]] eröffnet. Die Kammeranwältin legte eine Aufstellung über sämtliche Buchungen des Treuhandkontos für den Zeitraum von Jänner 2023 bis Mai 2024 vor. Daraus ergibt sich, dass zwischen dem Eingang des Klientengeldes und der Auszahlung an die [[organization|Ebner GmbH]] keine weiteren Vorgänge verbucht wurden. Der Beschuldigte hat die Richtigkeit der Aufstellung bestätigt, jedoch erklärt, der Betrag sei zwischenzeitlich auf einem anderen Konto zwischengelagert gewesen. Die Beschuldigte hat vor dem Senat auf die Vernehmung eines Sachverständigen für Treuhandbuchhaltung verzichtet. Die Beschuldigte hat in der Verhandlung erklärt, sie halte die Anzeige für unbegründet, weil die Verkäuferin den Kaufvertrag nur mit einer Frist von drei Tagen aufrechterhalten habe.
 
 **II. Sachverhalt**
 
@@ -65,7 +65,7 @@ Die Verpflichtung zur getrennten Verwahrung und zur ordnungsgemäßen Verwaltung
 
 Der Einwand der Beschuldigten, sie habe zur Sicherung des Kaufs gehandelt, ist nicht geeignet, die Verletzung der Pflichten nach der [[legal_norm|RAO]] zu rechtfertigen. Ein Rechtsanwalt hat seine Pflichten auch bei Zeitdruck einzuhalten. Die Verwahrung von Klientengeldern verlangt eine klare Trennung von Eigen- und Fremdgeldern. Jede Auszahlung ist mit einem Beleg zu hinterlegen, der den Empfänger, den Zweck und den Klienten nennt. Wer ein Treuhandkonto führt, muss jede Auszahlung mit einer schriftlichen Anordnung belegen können. Dass die Verkäuferin Druck ausgeübt hat, ändert an dieser Verpflichtung nichts.
 
-Der Disziplinarrat hat die Pflichtverletzung zutreffend als schwer beurteilt. Die [[court|OBDK]] hält jedoch den Strafrahmen für zu hoch, weil die Beschuldigte bisher disziplinär unbescholten ist und den Betrag vollständig rückerstattet hat.
+Der Disziplinarrat hat die Pflichtverletzung zutreffend als schwer beurteilt. Die [[court|OBDK]] hält jedoch den Strafrahmen für zu hoch, weil die Beschuldigte bisher disziplinär unbescholten ist und den Betrag vollständig rückerstattet hat. Der Senat sieht auch den Umstand, dass die Verkäuferin den Vertrag ohne Rückfrage bei der Beschuldigten ausgerichtet hat, nicht als Entlastung, sondern als Hinweis darauf, dass die Beschuldigte die Abwicklung nicht eigenständig kontrolliert hat. Die Beschuldigte hätte sich vor jeder Zahlung die Freigabe der Klientin schriftlich bestätigen lassen müssen.
 
 **IV. Strafbemessung**
 
@@ -97,7 +97,7 @@ Die [[organization|Ebner GmbH]] hat mit Schreiben vom [[date|18. März 2024]] de
 
 **VI. Kosten**
 
-Die Kosten des Verfahrens werden der Beschuldigten auferlegt. Die Pauschalgebühr beträgt EUR 1.200,00.
+Die Kosten des Verfahrens werden der Beschuldigten auferlegt. Die Pauschalgebühr beträgt EUR 1.200,00. Der Beschuldigte hat die Gebühr innerhalb von vier Wochen nach Zustellung der Ausfertigung an die Kammer zu überweisen.
 
 **VII. Rechtsmittelbelehrung**
 

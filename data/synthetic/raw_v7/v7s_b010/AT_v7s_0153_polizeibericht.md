@@ -40,7 +40,11 @@ Die Fahrzeuge wurden durch ein Abschleppunternehmen von der Fahrbahn entfernt. D
 FIN [[other_identifier|H6EZLEH60P7VWLM4T]]
 FIN [[other_identifier|L8ZCFYVP2CE9DKUH3]]
 
-Die Ermittlungen zur Unfallursache werden fortgesetzt. [[person|Dr. Riehl]] ersuchte um Übermittlung des Berichts an die Adresse [[address|Weinzierl 12, 3970 Weitra]]. Die Zeugin [[person|Treichl]] gab an, dass der Lenker des Kleinbusses langsam gefahren sei.
+Die Ermittlungen zur Unfallursache werden fortgesetzt. [[person|Dr. Riehl]] ersuchte um Übermittlung des Berichts an die Adresse [[address|Weinzierl 12, 3970 Weitra]]. Die Zeugin [[person|Treichl]] gab an, dass die Lenkerin des Kleinbusses langsam gefahren sei.
+
+Bei [[person|Häusler]] wurde ein Alkotest durchgeführt, der mit 0,00 mg/l Atemluftalkohol negativ verlief. Die Lenkerin des Kleinbusses, [[person|Trattner]], gab an, im Bereich der Kreuzung kurz abgelenkt gewesen zu sein, weil ihr Kind im Fond das Telefon verloren hatte. Die Zeugin [[person|Treichl]] bestätigte diese Angaben im Wesentlichen. Die Stoppstelle war durch ein Verkehrszeichen gekennzeichnet, das zum Unfallzeitpunkt sichtbar war; Sichtbehinderungen durch Bewuchs wurden nicht festgestellt.
+
+Die Fotodokumentation umfasst zwölf Aufnahmen der Unfallstelle, der Fahrzeugschäden und der Vorfahrtsbeschilderung. Eine Verkehrszählung durch die Straßenmeisterei ergab, dass die Landesstraße an diesem Vormittag mit rund 340 Fahrzeugen pro Stunde befahren wurde.
 
 Die Unfallaufnahme wurde um 08:15 Uhr abgeschlossen. Das Protokoll wurde von [[person|Mauracher]] und [[person|Wagentristl]] unterfertigt.
 

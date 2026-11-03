@@ -35,6 +35,10 @@ Eine frühere Schadennummer [[other_identifier|35/114980/20]] betrifft einen Vor
 
 Die [[organization|Thalberg]] (in der Folge [[organization|TVAG]]) hat bei einem Telefonat vom [[date|8. Oktober 2026]] eine Zusage zur Vorprüfung angekündigt. Die [[organization|TVAG]] ist in dieser Sache bisher nicht schriftlich tätig geworden. Wir ersuchen um schriftliche Bestätigung dieser Zusage, da unsere Mandantin auf den Mietwagen angewiesen ist.
 
+Der Sachverständige hat den Wiederbeschaffungswert des Fahrzeuges mit EUR 9.700,00 angegeben, der Restwert mit EUR 1.270,00. Die Differenz ist für die Abrechnung nach der Totalschadenregelung maßgeblich. Wir bitten um Mitteilung, ob die [[organization|TVAG]] den Sachverständigen anerkennt oder eine eigene Begutachtung veranlassen wird. Eine Begutachtung durch einen Sachverständigen Ihres Hauses steht noch aus.
+
+Die Ansprüche unserer Mandantin sind dem Grunde nach unbestritten, soweit die Schadensursache feststeht. Wir behalten uns ausdrücklich vor, Verzugszinsen sowie die Kosten dieses Schreibens geltend zu machen.
+
 Mit freundlichen Grüßen
 
 [[person|Dr. Schiestl]]

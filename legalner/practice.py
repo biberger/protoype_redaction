@@ -294,6 +294,9 @@ def _roles(rng, doc_type, persons):
     if doc_type == "verlassenschaft":
         dec = persons[0]
         dec["role"] = "deceased (Erblasser/in)"
+        if "date_of_birth" not in dec:
+            dec["date_of_birth"] = f"{rng.randint(1, 28):02d}.{rng.randint(1, 12):02d}.{rng.randint(1925, 1975)}"
+            dec["birth_cue"] = rng.choice(["geb. ", "geboren am ", "*"])
         y = int(re.search(r"(\d{4})", dec.get("date_of_birth", "1940"))[1])
         dec["date_of_death"] = f"{rng.randint(1, 28):02d}.{rng.randint(1, 12):02d}.{rng.randint(min(max(y + 40, 2015), 2026), 2026)}"
         for p in persons[1:]:
