@@ -73,9 +73,9 @@ Rechtliche Beurteilung
 
 16. Die Beschuldigte hat die Kosten innerhalb von vier Wochen nach Zustellung dieses Spruchs zu bezahlen. Der Spruch ist dem Kammeranwalt, der Beschuldigten und der Klägerin zuzustellen.
 
-17. Die Beschuldigte hat in der Verhandlung ihre Einsicht erklärt und angekündigt, die Kanzleiorganisation umzustellen. Der Senat berücksichtigt dies mildernd, wertet die Verzögerung der Eintragung jedoch als erschwerend.
+17. Die Beschuldigte hat in der Verhandlung ihre Einsicht erklärt und angekündigt, die Kanzleiorganisation umzustellen. Der Senat berücksichtigt dies mildernd, wertet die Verzögerung der Eintragung jedoch als erschwerend. Sie hat sich bei der Klägerin entschuldigt.
 
-18. Die Entscheidung über die Strafe ist einstimmig gefasst. Der Vorsitzende hat die Begründung im Anschluss an die Verhandlung verlesen und den Parteien ausgehändigt. Die Beisitzerinnen haben der Entscheidung ohne abweichende Meinung zugestimmt.
+18. Die Entscheidung über die Strafe ist einstimmig gefasst. Der Vorsitzende hat die Begründung im Anschluss an die Verhandlung verlesen und den Parteien ausgehändigt. Die Beisitzerinnen haben der Entscheidung ohne abweichende Meinung zugestimmt. Die Begründung wurde schriftlich ausgefertigt.
 
 19. Die Kammer wird die Umsetzung der Auflagen durch die Kanzlei in einem Jahr überprüfen. Die Kanzlei hat bis dahin einen Bericht vorzulegen.
 

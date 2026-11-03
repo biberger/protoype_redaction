@@ -6,9 +6,9 @@ lang: de
 Von: Christianna Steinegger <[[email|c.steinegger@bitter-kg.at]]>
 Gesendet: Dienstag, [[date|3. Februar 2026]] 16:42
 An: [[lawyer|Walli Perger]] <[[email|perger@kleiber.at]]>
-Betreff: AW: Unser Zeichen [[other_identifier|Perger ./. Kropf]]
+Betreff: AW: Unser Zeichen: [[other_identifier|Perger ./. Kropf]]
 
-Sehr geehrte Frau Mag. Perger,
+Sehr geehrte Frau Perger,
 
 vielen Dank für Ihre Nachricht. Ich habe die Unterlagen mit unserem Geschäftsführer besprochen. Wir sind bereit, den Vergleich in der vorgeschlagenen Form anzunehmen, möchten aber die Frist bis zum [[date|28. Februar 2026]] verlängert haben.
 
@@ -35,7 +35,7 @@ Von: [[lawyer|Walli Perger]] <[[email|perger@kleiber.at]]>
 Gesendet: Mittwoch, [[date|4. Februar 2026]] 09:17
 An: Christianna Steinegger <[[email|c.steinegger@bitter-kg.at]]>; Sim Slama <[[email|s.slama@bitter-kg.at]]>
 Cc: Arsen Holubets <[[email|a.holubets@holubets-consult.at]]>
-Betreff: AW: AW: Unser Zeichen [[other_identifier|Perger ./. Kropf]]
+Betreff: AW: AW: Unser Zeichen: [[other_identifier|Perger ./. Kropf]]
 
 Sehr geehrte Frau Steinegger, sehr geehrter Herr Slama,
 
@@ -63,7 +63,7 @@ Von: Sim Slama <[[email|s.slama@bitter-kg.at]]>
 Gesendet: Donnerstag, [[date|5. Februar 2026]] 08:02
 An: [[lawyer|Walli Perger]] <[[email|perger@kleiber.at]]>
 Cc: Christianna Steinegger <[[email|c.steinegger@bitter-kg.at]]>; Arsen Holubets <[[email|a.holubets@holubets-consult.at]]>
-Betreff: AW: AW: AW: Unser Zeichen [[other_identifier|Perger ./. Kropf]]
+Betreff: AW: AW: AW: Unser Zeichen: [[other_identifier|Perger ./. Kropf]]
 
 Sehr geehrte Frau Perger,
 
@@ -90,7 +90,7 @@ Gesendet: Freitag, [[date|6. Februar 2026]] 14:30
 An: [[lawyer|Walli Perger]] <[[email|perger@kleiber.at]]>
 Betreff: Belege zum Vergleich
 
-Sehr geehrte Frau Mag. Perger,
+Sehr geehrte Frau Perger,
 
 anbei die Kontoauszüge vom [[date|1. Jänner bis 31. Jänner 2026]] und die Rechnung der Werkstatt vom [[date|19. Dezember 2025]]. [[organization|Bitter]] hat die Forderung teilweise bereits anerkannt, nachdem die Schadensmeldung eingegangen ist.
 
@@ -101,5 +101,23 @@ Arsen Holubets
 Unternehmensberater
 
 Tel. [[phone_number|+43 316 490 76 40 Kl. 18]]
-Unser Zeichen: [[other_identifier|CD-CDPerger/Stiasny]]
+UZ: [[other_identifier|CD-CDPerger/Stiasny]]
 Anschrift: [[address|8295 Sankt Johann in der Haide]]
+
+---
+
+Von: [[lawyer|Walli Perger]] <[[email|perger@kleiber.at]]>
+Gesendet: Montag, [[date|9. Februar 2026]] 08:40
+An: Christianna Steinegger <[[email|c.steinegger@bitter-kg.at]]>
+Cc: Sim Slama <[[email|s.slama@bitter-kg.at]]>
+Betreff: Vergleich Perger ./. Kropf, Bestätigung
+
+Sehr geehrte Frau Steinegger,
+
+ich bestätige den Eingang der Teilzahlung vom [[date|12. Februar 2026]] nach Prüfung der Unterlagen noch nicht. Die Belege von Herrn Holubets sind eingegangen, sie decken jedoch nur einen Teil der Zahlung ab. Ich ersuche daher um die Vorlage der Überweisungsbestätigung bis zum [[date|13. Februar 2026]].
+
+Frau [[person|Dr. Helga Kropf]] ist mit der Verlängerung bis zum [[date|28. Februar 2026]] einverstanden, besteht aber auf den Raten.
+
+Mit freundlichen Grüßen
+[[lawyer|Walli Perger]]
+Rechtsanwältin

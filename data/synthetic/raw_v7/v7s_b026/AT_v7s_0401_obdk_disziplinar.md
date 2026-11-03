@@ -10,7 +10,7 @@ Spruch
 
 Der [[court|Disziplinarrat der Steiermärkischen Rechtsanwaltskammer]] hat durch den Senat in der Besetzung Vorsitz [[judge|Rıza Bekiroğlu]], Beisitzerin [[judge|Hanna Kremer]], Beisitzer [[judge|Pius Knoll]], Schriftführer [[person|Peregrin Federn]], in der Disziplinarsache gegen die Rechtsanwältin [[lawyer|Uschi Schein]] über die Anzeige der Kammeranwältin [[person|Dr. Gitta Obermayer]] nach mündlicher Verhandlung am [[date|18. Juni 2026]] erkannt:
 
-Die Beschuldigte ist schuldig, im Zeitraum von März 2023 bis August 2024 die Pflicht zur getrennten Verwahrung von Treuhandgeldern verletzt zu haben, indem sie Zahlungen aus einer Treuhandschaft über den [[organization|Einzinger e.U.]] abwickelte. Sie wird zu einer Geldbuße von EUR 2.500,00 verurteilt.
+Die Beschuldigte ist schuldig, im Zeitraum von März 2023 bis August 2024 die Pflicht zur getrennten Verwahrung von Treuhandgeldern verletzt zu haben, indem sie Zahlungen aus einer Treuhandschaft über den [[organization|Einzinger e.U.]] ([[company_register_number|FN 643520d]], UID: [[tax_id|ATU98291080]]) abwickelte. Sie wird zu einer Geldbuße von EUR 2.500,00 verurteilt.
 
 Begründung
 
@@ -63,7 +63,7 @@ Rechtliche Beurteilung
 
 12. Die Beschuldigte hat in der Verhandlung ihr Bedauern ausgedrückt und erklärt, die Verkäuferin persönlich um Entschuldigung zu bitten. Dieses Bedauern wird als mildernd berücksichtigt, ändert aber nichts an der Höhe der Geldbuße. Die Kosten des Verfahrens trägt die Beschuldigte im vollen Umfang, weil ihr Antrag auf Abweisung der Anzeige in allen Punkten erfolglos blieb.
 
-13. Der Senat berücksichtigt die Verfahrensdauer von rund einem Jahr, die im Wesentlichen auf die Beschaffung der Kontoauszüge zurückzuführen ist. Eine Verzögerung auf Seiten der Kammer ist nicht festzustellen.
+13. Der Senat berücksichtigt die Verfahrensdauer von rund einem Jahr, die im Wesentlichen auf die Beschaffung der Kontoauszüge zurückzuführen ist. Der Senat hat die Verhandlung in zwei Terminen durchgeführt. Eine Verzögerung auf Seiten der Kammer ist nicht festzustellen.
 
 14. Die Beschuldigte hat die Frage nach der Nachvollziehbarkeit der Rechnung vom [[date|20. Juli 2023]] in der Verhandlung nicht beantwortet. Der Senat zieht daraus keine weiteren Schlüsse, berücksichtigt jedoch, dass die Beschuldigte ihre Aussage in diesem Punkt verweigert hat.
 

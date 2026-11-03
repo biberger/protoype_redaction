@@ -14,7 +14,7 @@ ERV-Code: [[other_identifier|R231861]]
 
 [[location|Reith im Alpbachtal]], am [[date|3. Juni 2026]]
 
-[[organization|Krenek KG]]
+[[organization|Krenek KG]], [[company_register_number|FN 157480p]], UID: [[tax_id|ATU79394059]]
 z.H. Geschäftsführung
 [[address|Grazer Straße 14, 8010 Graz]]
 
@@ -35,15 +35,15 @@ Gemäß [[legal_norm|§ 1096 ABGB]] hat der Vermieter den Gebrauch der Sache zu 
 
 Die [[organization|Hypo Tirol Bank AG]] hat die Zahlungen bestätigt. Für Rückfragen steht Ihnen Herr [[person|Berthold Barta]] unter Tel. [[phone_number|02742 388335 Durchwahl 44]] zur Verfügung.
 
-Die Mandantin hat den Mietvertrag am [[date|1. März 2019]] abgeschlossen und den Mietzins seither stets pünktlich bezahlt. Die Kündigung wurde ohne vorherige schriftliche Mahnung ausgesprochen. Die Kaution in Höhe von EUR 3.000,00 ist trotz Beendigung des Vertrags noch nicht zurückgezahlt; die [[organization|KRK]] hat dazu bisher nicht Stellung genommen. Die Forderungen der [[organization|Krenek]] sind damit nicht gerechtfertigt.
+Die Mandantin hat den Mietvertrag am [[date|1. März 2019]] abgeschlossen und den Mietzins seither stets pünktlich bezahlt. Sie betreibt das Geschäft seit dieser Zeit ohne Beanstandung. Die Kündigung wurde ohne vorherige schriftliche Mahnung ausgesprochen. Die Kaution in Höhe von EUR 3.000,00 ist trotz Beendigung des Vertrags noch nicht zurückgezahlt; die [[organization|KRK]] hat dazu bisher nicht Stellung genommen. Die Forderungen der [[organization|Krenek]] sind damit nicht gerechtfertigt.
 
-Wir ersuchen zudem, sämtliche Schreiben künftig an die Kanzlei zu richten und nicht an die Mandantin direkt. Eine Vereinbarung über die Räumung kommt nur über die Kanzlei zustande. Wir behalten uns vor, eine Feststellungsklage einzubringen, falls die Kündigung aufrechterhalten wird.
+Wir ersuchen zudem, sämtliche Schreiben künftig an die Kanzlei zu richten und nicht an die Mandantin direkt. Dies gilt auch für Mahnungen. Eine Vereinbarung über die Räumung kommt nur über die Kanzlei zustande. Wir behalten uns vor, eine Feststellungsklage einzubringen, falls die Kündigung aufrechterhalten wird.
 
 Zur Vorgeschichte ist festzuhalten, dass die Mandantin im Jahr 2023 einer Mietzinsanpassung nach dem Verbraucherpreisindex zugestimmt hat, obwohl diese nach unserer Auffassung nicht ordnungsgemäß angekündigt war. Die [[organization|KRK]] hat zu diesem Punkt eine Gegenüberstellung der Zahlungen vorgelegt, die wir nicht bestätigen können, weil sie die Überweisung vom [[date|15. April 2026]] nicht enthält. Wir ersuchen um Übermittlung der vollständigen Kontoauszüge der [[organization|KRK]] bis zum [[date|10. Juni 2026]].
 
 Für die Mandantin ist das Geschäftslokal wirtschaftlich von erheblicher Bedeutung, da sie dort seit neun Jahren einen Handel mit Heimtextilien betreibt. Eine Räumung würde zu einem Verlust von Kundenbeziehungen und Arbeitsplätzen führen.
 
-Die Mandantin wohnt in [[address|6321 Angath]]. Wir ersuchen um Stellungnahme bis zum [[date|17. Juni 2026]]. Sollte bis dahin keine Stellungnahme eingehen, werden wir ohne weitere Ankündigung die notwendigen Schritte einleiten. Die Kosten der anwaltlichen Vertretung werden der [[organization|KRK]] als Verursacherin des Verfahrens in Rechnung gestellt. Eine außergerichtliche Einigung ist bis dahin jederzeit möglich.
+Die Mandantin wohnt in [[address|6321 Angath]]. Wir ersuchen um Stellungnahme bis zum [[date|17. Juni 2026]]. Sollte bis dahin keine Stellungnahme eingehen, werden wir ohne weitere Ankündigung die notwendigen Schritte einleiten. Die Kosten der anwaltlichen Vertretung werden der [[organization|KRK]] als Verursacherin des Verfahrens in Rechnung gestellt. Die Kanzlei behält sich weitere Schritte vor. Eine außergerichtliche Einigung ist bis dahin jederzeit möglich.
 
 Wir weisen darauf hin, dass die Mandantin bereit ist, den Mietzins für den Monat Juni 2026 unter Vorbehalt auf das Konto der [[organization|KRK]] zu überweisen, sofern die Räumungsforderung zurückgenommen wird.
 

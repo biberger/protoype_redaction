@@ -25,7 +25,7 @@ PERSON | GEBURTSDATUM | STAATSBÜRGERSCHAFT | DOKUMENT | KENNZEICHEN
 [[person|ANDERLE Elija]] | [[date_of_birth|13.09.1952]] | | Lichtbildausweis Nr. [[id_document_number|A8984056]] | [[license_plate|I-231 P]]
 [[person|TINTOR Adrijan]] | [[date_of_birth|05.05.1942]] | | Führerschein Nr. [[id_document_number|82067686]] | –
 
-[[person|Hermana Jerzabek]], geb. [[date_of_birth|19. Juli 1997]], wohnhaft in [[address|Dorfstraße 4, 5600 Bischofshofen]], lenkte den PKW mit dem Kennzeichen [[license_plate|GF-5 AP]] in Fahrtrichtung Westen. Sie gab an, sie habe das Lichtzeichen der Ampel an der Kreuzung für Grün gehalten. Sie legte den Reisepass Nr. [[id_document_number|P8988541]] vor. Die Lenkerin war nach eigenen Angaben nicht verletzt, verspürte jedoch Schmerzen im Nacken. Ein Alkotest verlief negativ.
+[[person|Hermana Jerzabek]], geb. [[date_of_birth|19. Juli 1997]], wohnhaft in [[address|Dorfstraße 4, 5600 Bischofshofen]], lenkte den PKW mit dem Kennzeichen [[license_plate|GF-5 AP]] in Fahrtrichtung Westen. Sie gab an, sie habe das Lichtzeichen der Ampel an der Kreuzung für Grün gehalten. Sie legte den Reisepass Nr. [[id_document_number|P8988541]] vor. Die Lenkerin war nach eigenen Angaben nicht verletzt, verspürte jedoch Schmerzen im Nacken. Ein Alkotest verlief negativ. Ein Drogentest wurde nicht durchgeführt.
 
 [[person|Elija Anderle]], geb [[date_of_birth|13.09.1952]], lenkte den Kombi mit dem Kennzeichen [[license_plate|I-231 P]] von Norden kommend. Er legte den Lichtbildausweis Nr. [[id_document_number|A8984056]] vor und gab an, er sei mit ungefähr 40 km/h unterwegs gewesen. Die Gegenseite habe das Stopp-Zeichen nicht beachtet. Herr [[person|Anderle]] war bei der Unfallaufnahme ansprechbar und wollte keine Behandlung in Anspruch nehmen.
 
@@ -44,7 +44,7 @@ Die Unfallstelle wurde um 07:30 Uhr von den Beamten gesichert. Die Verkehrsregel
 
 Zeugin [[person|Ulrike Pfeifer]], die im Haus gegenüber der Kreuzung wohnt, gab an, sie habe den Zusammenstoß gehört und die beiden Fahrzeuge kurz danach am Fahrbahnrand gesehen. Sie habe den Kombi zuvor an der Kreuzung ohne anzuhalten einbiegen gesehen, konnte aber die Ampelphase nicht bestimmen. Die Zeugin hat sich bereit erklärt, eine schriftliche Aussage zu unterzeichnen.
 
-Die Verkehrssicherung erfolgte durch die Beamten mit Warndreieck und Absperrband. Die Fahrbahn war während der Aufnahme zeitweise einspurig befahrbar. Die Beamten fertigten eine Unfallskizze mit Maßangaben an, die dieser Anzeige als Beilage angeschlossen ist. Die Lichtbilder der Schäden wurden mit der Dienstkamera dokumentiert.
+Die Verkehrssicherung erfolgte durch die Beamten mit Warndreieck und Absperrband. Die Fahrbahn war während der Aufnahme zeitweise einspurig befahrbar. Die Beamten fertigten eine Unfallskizze mit Maßangaben an, die dieser Anzeige als Beilage angeschlossen ist. Die Lichtbilder der Schäden wurden mit der Dienstkamera dokumentiert. Die Bilder sind dieser Anzeige angeschlossen.
 
 Die Lenkerin [[person|Jerzabek]] hat den Unfallhergang bei der Aufnahme zunächst unterschiedlich geschildert. Sie gab zuerst an, der Kombi sei ihr vor das Fahrzeug gefahren, korrigierte diese Aussage jedoch später dahin, dass sie den Kombi erst im letzten Moment bemerkt habe. Die Beamten haben diese Abweichung protokolliert. Herr [[person|Anderle]] bestritt, dass er das Stopp-Zeichen übersehen habe; er gab an, er sei langsam gefahren, um die Kreuzung zu queren.
 

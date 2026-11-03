@@ -19,7 +19,7 @@ Beisitz: [[judge|MMag. Valente Feldmann]]
 Kammeranwalt: [[person|MMag. Arend Tschulik]]
 Schriftführer: [[person|Eustachius Stross]]
 
-in der Disziplinarsache gegen den Rechtsanwalt [[lawyer|Ludwig Wagner]], Kufstein, nach der am [[date|27. Jänner 2026]] in Innsbruck durchgeführten öffentlichen mündlichen Verhandlung zu Recht erkannt:
+in der Disziplinarsache gegen den Rechtsanwalt [[lawyer|Ludwig Wagner]], [[location|Kufstein]], nach der am [[date|27. Jänner 2026]] in [[location|Innsbruck]] durchgeführten öffentlichen mündlichen Verhandlung zu Recht erkannt:
 
 I. Der Beschuldigte [[lawyer|Ludwig Wagner]] ist schuldig, er hat
 
@@ -45,7 +45,7 @@ Die [[organization|TRAK]] übermittelte dem Disziplinarrat die Zuschrift vom [[d
 
 Der Beschuldigte wurde am [[date|27. Jänner 2026]] in der Verhandlung gehört. Er wurde von einem Verteidiger begleitet. Die Zeugin [[person|Herfriede Kahl]] wurde unter Wahrheitserinnerung vernommen. Sie schilderte die Abläufe ausführlich und blieb auch auf Nachfrage bei ihren Angaben.
 
-Die Schriftführerin hat das Protokoll geführt. Die Sitzung war öffentlich, wobei Zuhörer nicht erschienen.
+Der Schriftführer [[person|Eustachius Stross]] hat das Protokoll geführt. Die Sitzung war öffentlich, wobei Zuhörer nicht erschienen.
 
 2. Feststellungen zur Treuhandschaft
 
@@ -76,6 +76,12 @@ Die Angaben der Klientin sind widerspruchsfrei und durch die Unterlagen gestütz
 
 Die Verantwortung des Beschuldigten, er habe wegen einer Erkrankung keine Zeit für die Abrechnung gehabt, ist nicht geeignet, die Pflichtverletzung zu rechtfertigen. Eine Erkrankung hätte die Pflicht zur ordnungsgemäßen Verwahrung nicht beseitigt.
 
+Der Beschuldigte legte zusätzlich eine ärztliche Bestätigung des Hausarztes [[person|Dr. Gisela Thaler]] vom [[date|12. Juni 2025]] vor. Diese bescheinigt eine Arbeitsunfähigkeit von zwei Wochen im Juni 2025. Der Senat hat dies berücksichtigt, jedoch festgestellt, dass die Abrechnung über einen Zeitraum von fast einem Jahr offen blieb und die Arbeitsunfähigkeit diesen Zeitraum nicht erklärt. Die Bestätigung betrifft zudem nur einen Teil der Monate, in denen die Abrechnung ausstand.
+
+Die Klientin [[person|Herfriede Kahl]] schilderte in der Verhandlung, dass sie den Beschuldigten zweimal persönlich in seiner Kanzlei in [[location|Kufstein]] aufgesucht habe. Dabei sei ihr jeweils erklärt worden, die Abrechnung sei in Vorbereitung. Konkrete Unterlagen habe sie bei diesen Terminen nicht erhalten. Der Beschuldigte bestritt nicht, dass die Termine stattgefunden haben, widersprach aber der Darstellung, ihm sei die Abrechnung verwehrt worden.
+
+Auch der Hinweis des Beschuldigten, er habe die Kanzleiorganisation an einen externen Dienstleister ausgelagert, ist nicht geeignet, die eigene Verantwortung für die Treuhandschaft zu beseitigen. Der Beschuldigte bleibt als Rechtsanwalt persönlich verpflichtet.
+
 4. Rechtliche Beurteilung
 
 Gemäß [[legal_norm|§ 14 RAO]] hat der Rechtsanwalt Klientengelder getrennt von seinem eigenen Vermögen zu verwahren. Der Verstoß gegen diese Pflicht ist ein schwerwiegendes Fehlverhalten, weil das Vertrauen der Rechtsuchenden in die Verlässlichkeit des Berufsstandes unmittelbar betroffen ist.
@@ -98,7 +104,7 @@ Rechtsmittelbelehrung
 
 Gegen dieses Erkenntnis steht dem Beschuldigten und dem Kammeranwalt das Rechtsmittel der Berufung offen. Die Berufung ist binnen vier Wochen ab Zustellung einzubringen.
 
-Innsbruck, am [[date|27. Jänner 2026]]
+[[location|Innsbruck]], am [[date|27. Jänner 2026]]
 
 Der Vorsitzende:
 [[judge|Dr. Izampo Aspiotis]]

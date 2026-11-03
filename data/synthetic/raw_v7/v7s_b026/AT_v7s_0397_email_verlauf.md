@@ -44,7 +44,7 @@ Betreff: Unser Zeichen: [[other_identifier|745/22 NN]]
 
 Sehr geehrter Herr [[person|Puchinger]],
 
-wir bestätigen den Eingang Ihrer Unterlagen. Die Gegenseite, die [[organization|Landauer e.U.]] (in der Folge [[organization|LE]]), hat den Schaden mit Schreiben vom [[date|12. September 2025]] dem Grunde nach anerkannt. Die Höhe ist noch strittig. Die [[organization|LE]] verlangt eine Begutachtung durch einen unabhängigen Sachverständigen. Sie hat zudem angekündigt, die Mietwagenkosten nur für sieben Tage anzuerkennen. Die Werkstatt hat die Reparaturkosten mit EUR 3.850,00 netto beziffert; wir halten einen Ersatz für zehn Tage für angemessen. Die Mietwagenkosten betragen EUR 69,00 pro Tag.
+wir bestätigen den Eingang Ihrer Unterlagen. Die Gegenseite, die [[organization|Landauer e.U.]] (in der Folge [[organization|LE]], [[company_register_number|FN 292099h]], UID: [[tax_id|ATU16176322]]), hat den Schaden mit Schreiben vom [[date|12. September 2025]] dem Grunde nach anerkannt. Die Höhe ist noch strittig. Wir bitten um Verständnis für die Verzögerung. Die [[organization|LE]] verlangt eine Begutachtung durch einen unabhängigen Sachverständigen. Sie hat zudem angekündigt, die Mietwagenkosten nur für sieben Tage anzuerkennen. Die Werkstatt hat die Reparaturkosten mit EUR 3.850,00 netto beziffert; wir halten einen Ersatz für zehn Tage für angemessen. Die Mietwagenkosten betragen EUR 69,00 pro Tag.
 
 > Von: [[person|Ortwin Puchinger]]
 > Gesendet: [[date|8. September 2025]]

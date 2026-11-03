@@ -23,7 +23,7 @@ Betreff: AW: Klienten-Nr. [[other_identifier|9172]], Grundbuch
 
 Sehr geehrter Herr [[person|Mag. Koppler]],
 
-hiermit übermittle ich Ihnen die gewünschte Kopie des Grundbuchsauszugs zur Liegenschaft [[land_register_id|317/Haibach im Mühlkreis]] ([[court|BG St. Pölten]]), [[land_register_id|Gst 467]]. Die Auszüge stammen vom [[date|27. Oktober 2025]]. Herr [[person|Peichl]] bittet um Rückmeldung bis Freitag, damit die [[organization|Riahi Immobilien]] den Termin mit dem Notar planen kann. Herr [[person|Larsen]] hat die Besichtigung der Wohnung in [[location|St. Gilgen]] bereits zugesagt. Frau [[person|Bieńkowska]] möchte die Schlüssel am Tag der Übergabe persönlich entgegennehmen; bitte teilen Sie der Kanzlei mit, ob das möglich ist. Die Hausverwaltung dokumentiert den Zählerstand am selben Tag und sendet das Protokoll an die Kanzlei.
+hiermit übermittle ich Ihnen die gewünschte Kopie des Grundbuchsauszugs zur Liegenschaft [[land_register_id|317/Haibach im Mühlkreis]] ([[court|BG St. Pölten]]), [[land_register_id|Gst 467]]. Die Auszüge stammen vom [[date|27. Oktober 2025]]. Eine Kopie der Vollmacht ist beigefügt. Herr [[person|Peichl]] bittet um Rückmeldung bis Freitag, damit die [[organization|Riahi Immobilien]] den Termin mit dem Notar planen kann. Herr [[person|Larsen]] hat die Besichtigung der Wohnung in [[location|St. Gilgen]] bereits zugesagt. Frau [[person|Bieńkowska]] möchte die Schlüssel am Tag der Übergabe persönlich entgegennehmen; bitte teilen Sie der Kanzlei mit, ob das möglich ist. Die Hausverwaltung dokumentiert den Zählerstand am selben Tag und sendet das Protokoll an die Kanzlei.
 
 Mit freundlichen Grüßen
 [[person|Lena Panagoulis]]
@@ -95,7 +95,7 @@ Betreff: AW: Übergabe und Treuhandkonto
 
 Sehr geehrter Herr [[person|Peichl]],
 
-ich bestätige Ihnen, dass die Zahlung des Restkaufpreises über das Treuhandkonto der Kanzlei abgewickelt wird und die Übergabe am [[date|31. Oktober 2025]] stattfinden kann. Der Notar wurde informiert. Bitte senden Sie mir noch die Freigabeerklärung der [[organization|RIG]] bis morgen, damit wir die Auszahlung an die Verkäuferseite vorbereiten können.
+ich bestätige Ihnen, dass die Zahlung des Restkaufpreises über das Treuhandkonto der Kanzlei abgewickelt wird und die Übergabe am [[date|31. Oktober 2025]] stattfinden kann. Der Notar wurde informiert. Der Termin ist mit allen Beteiligten abgestimmt. Bitte senden Sie mir noch die Freigabeerklärung der [[organization|RIG]] bis morgen, damit wir die Auszahlung an die Verkäuferseite vorbereiten können.
 
 Die Kanzlei behält sich vor, die Auszahlung bei fehlender Freigabe zu verweigern. Die Verwahrung der Gelder erfolgt gemäß unserer Treuhandvereinbarung vom [[date|1. Oktober 2025]], die Sie unterfertigt haben. Die Freigabeerklärung muss von einer vertretungsbefugten Person der [[organization|RIG]] unterschrieben sein; eine Kopie per E-Mail genügt uns für die vorläufige Bearbeitung, das Original erbitten wir bis zur Übergabe. Die Kosten der Eintragung trägt nach der Vereinbarung die Käuferseite.
 

@@ -56,7 +56,7 @@ Datum | Vorgang | Betrag | Treuhandschaft
 
 6i. Der Senat hat den Antrag der Kammeranwältin auf persönliche Einvernahme der Treuhandgeberin [[person|Dolores Trattnig]] verworfen, weil deren schriftliche Aussage vom [[date|2. Februar 2026]] ausreichend ist. Die Treuhandgeberin hat ihre Angaben in der Verhandlung nicht wiederholt, sondern auf die schriftliche Erklärung verwiesen.
 
-6j. Die Verfahrensdauer wurde durch die Anforderung der Unterlagen bei dem Notariat verlängert, das die Kaufvertragsurkunde verwahrt. Die Verzögerung ist der Beschuldigten nicht zuzurechnen.
+6j. Die Verfahrensdauer wurde durch die Anforderung der Unterlagen bei dem Notariat verlängert, das die Kaufvertragsurkunde verwahrt. Die Verzögerung ist der Beschuldigten nicht zuzurechnen. Der Senat hat die Verfahrensdauer insoweit nicht als Milderungsgrund gewertet. Die Verzögerung wird damit neutral behandelt. Dies gilt auch für die Dauer der Zustellung.
 
 6k. Die Kaufvertragsurkunde über den Gewerbebetrieb wurde am [[date|27. Jänner 2026]] vor dem Notar [[lawyer|Dr. Wolfram Pichler]] errichtet. Der Notar bestätigte, dass die Kaufpreisanzahlung nicht auf seinem Anderkonto eingegangen ist; die Zahlung erfolgte ausschließlich über das Treuhandkonto der Beschuldigten.
 
@@ -66,13 +66,13 @@ Datum | Vorgang | Betrag | Treuhandschaft
 
 6n. Der Senat hat zudem die Frage geprüft, ob die Zahlung der Treuhandgeberin [[person|Dolores Trattnig]] als Vorschuss zu werten ist. Die Treuhandgeberin hat dargelegt, dass sie die Summe nicht als Vorschuss, sondern als Verwahrung einer Kaution übergeben habe. Die Kanzlei hat diese Unterscheidung in den Treuhandbuchauszügen nicht vermerkt, sodass der Senat von einer Verwahrung ausgeht. Eine Verrechnung mit Honorarforderungen war daher unzulässig.
 
-6o. Die Gewerbeberechtigung des Käufers wurde im Verfahren nicht bestritten. Der Käufer hat angegeben, er habe für die Übernahme des Betriebs eine Beratung durch die Beschuldigte in Anspruch genommen. Diese Beratung wurde jedoch gesondert abgerechnet und ist für das Treuhandkonto ohne Bedeutung. Ein Zusammenhang mit der Zahlung vom [[date|3. Dezember 2025]] besteht nicht.
+6o. Die Gewerbeberechtigung des Käufers wurde im Verfahren nicht bestritten. Der Käufer hat angegeben, er habe für die Übernahme des Betriebs eine Beratung durch die Beschuldigte in Anspruch genommen. Diese Beratung wurde jedoch gesondert abgerechnet und ist für das Treuhandkonto ohne Bedeutung. Ein Zusammenhang mit der Zahlung vom [[date|3. Dezember 2025]] besteht nicht. Der Käufer hat dazu eine schriftliche Erklärung vorgelegt.
 
 6p. Die Beschuldigte hat in der Verhandlung eine Bestätigung ihres Steuerberaters vorgelegt, wonach die Umbuchung vom [[date|2. März 2026]] der Abgrenzung von Vorauszahlungen diente. Der Senat wertet diese Bestätigung als nicht ausreichend, weil sie keine Buchungsbelege enthält.
 
 6q. Die Kammer hat die Kanzlei nach der Prüfung zur Vorlage sämtlicher Überweisungen seit Jänner 2026 aufgefordert. Die Beschuldigte hat die Unterlagen erst nach einer Mahnung vorgelegt.
 
-6r. Die Beschuldigte hat im Verfahren erklärt, sie habe das Treuhandkonto nach der Anzeige geschlossen. Die Kammer hat die Schließung bestätigt; ein neues Konto wurde nicht eröffnet.
+6r. Die Beschuldigte hat im Verfahren erklärt, sie habe das Treuhandkonto nach der Anzeige geschlossen. Die Kammer hat die Schließung bestätigt; ein neues Konto wurde nicht eröffnet. Die Kammer hat dies in ihrer Prüfung dokumentiert. Eine Kopie der Schließungsbestätigung liegt den Akten bei.
 
 Rechtliche Beurteilung
 

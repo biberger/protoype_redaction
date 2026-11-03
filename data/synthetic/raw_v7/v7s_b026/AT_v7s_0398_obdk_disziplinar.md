@@ -55,7 +55,7 @@ Datum | Vorgang | Betrag | Verlassenschaft
 
 6g. Die Erben haben in der Berufungsverhandlung klargestellt, dass sie der Beschuldigten keine Vollmacht zur Verrechnung von Honoraren aus dem Treuhandkonto erteilt haben. Ein Vorschuss für das Honorar der Beschuldigten war nach diesen Angaben nie vereinbart.
 
-6i. Die Beschuldigte hat in der Verhandlung die Auffassung vertreten, die Kanzlei habe zur Zeit der Überweisung eine Forderung gegen die Verlassenschaft gehabt. Die Verlassenschaft hat diese Forderung jedoch mit Schreiben vom [[date|4. Februar 2022]] ausdrücklich bestritten. Der Senat folgt dieser Bestreitung.
+6i. Die Beschuldigte hat in der Verhandlung die Auffassung vertreten, die Kanzlei habe zur Zeit der Überweisung eine Forderung gegen die Verlassenschaft gehabt. Die Verlassenschaft hat diese Forderung jedoch mit Schreiben vom [[date|4. Februar 2022]] ausdrücklich bestritten. Der Senat folgt dieser Bestreitung. Die Forderung war damit nicht fällig.
 
 6j. Die Kammeranwältin [[person|Mira Baljić]] hat das Treuhandbuch für den Zeitraum bis Oktober 2023 vollständig durchgesehen. Sie stellte fest, dass Einträge zum Eingang vom [[date|6. Juli 2021]] und zur Überweisung vom [[date|12. Juli 2021]] erst nach der Prüfung nachgeholt wurden.
 
@@ -65,7 +65,7 @@ Rechtliche Beurteilung
 
 8. Die fehlende Eintragung im Treuhandbuch ist ein eigenständiger Verstoß. Die [[organization|RAK NÖ]] kann nur dann wirksam kontrollieren, wenn alle Bewegungen zeitnah verzeichnet sind. Die Berufung der Beschuldigten zeigt keine Einsicht in diese Pflicht.
 
-9. Der Senat berücksichtigt, dass die Beschuldigte den Betrag von EUR 60.000,00 am [[date|1. Oktober 2023]] vollständig an die Verlassenschaft zurückgezahlt hat. Dies mildert die Schuld erheblich. Die Pflichtverletzung ist jedoch über mehr als zwei Jahre erfolgt und mehrfach dokumentiert.
+9. Der Senat berücksichtigt, dass die Beschuldigte den Betrag von EUR 60.000,00 am [[date|1. Oktober 2023]] vollständig an die Verlassenschaft zurückgezahlt hat. Die Rückzahlung erfolgte ohne Anerkennung einer Pflichtverletzung. Dies mildert die Schuld erheblich. Die Pflichtverletzung ist jedoch über mehr als zwei Jahre erfolgt und mehrfach dokumentiert.
 
 10. Der Entzug der Berufsberechtigung ist angesichts der Rückzahlung und der bisherigen Unbescholtenheit nicht geboten. Der Senat erachtet eine Geldbuße von EUR 6.000,00 sowie die Auflage, sich einer Schulung im Treuhandwesen zu unterziehen, als ausreichend.
 

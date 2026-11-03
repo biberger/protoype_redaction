@@ -16,7 +16,7 @@ Begründung
 
 1. Die Rechtsanwältin [[lawyer|Frass]] vertrat die Klientin [[person|Kriens]] in einer Auseinandersetzung mit [[person|Basti Pernkopf]] GEB: [[date_of_birth|27. Juli 1938]] über die Verwertung eines Kommanditanteils, der nach einem Vergleich zu zahlen war. Die Gelder wurden auf ein Treuhandkonto eingezahlt, das auf den Namen der [[lawyer|Frass]] lautete.
 
-2. Die Kammeranwältin [[person|Gattringer]] legte den Kontoauszug vom [[date|14. März 2022]] vor, aus dem folgende Bewegungen hervorgehen:
+2. Die Kammeranwältin [[person|Gattringer]] legte den Kontoauszug des Treuhandkontos mit der IBAN [[bank_account|AT49 7548 0822 5214 4010]] vom [[date|14. März 2022]] vor, aus dem folgende Bewegungen hervorgehen:
 
 Datum | Vorgang | Betrag | Bezug
 [[date|14. März 2022]] | Eingang Vorschuss der Klientin | EUR 31.000,00 | [[person|Kriens]]
@@ -65,7 +65,7 @@ Rechtliche Beurteilung
 
 17. Die Beschuldigte hat vorgebracht, die Buchhaltung sei zeitweise durch eine Hilfskraft geführt worden. Der Senat hält fest, dass dies die persönliche Verantwortung des Rechtsanwalts für die Treuhandgelder nicht ändert. Die Beschuldigte hat den Namen der Hilfskraft nicht genannt.
 
-18. Dieser Spruch ist den Parteien und der [[organization|StRAK]] zuzustellen. Eine Abschrift ergeht an die Kammeranwältin. Die Frist für eine allfällige Berufung beginnt mit der Zustellung.
+18. Dieser Spruch ist den Parteien und der [[organization|StRAK]] zuzustellen. Eine Abschrift ergeht an die Kammeranwältin. Die Frist für eine allfällige Berufung beginnt mit der Zustellung. Die Kosten der Zustellung trägt die Beschuldigte.
 
 [[location|Graz]], am [[date|17. Oktober 2026]]
 

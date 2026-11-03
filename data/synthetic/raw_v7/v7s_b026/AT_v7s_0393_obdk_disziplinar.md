@@ -58,7 +58,7 @@ Rechtliche Beurteilung
 
 12. Die Geldbuße wird binnen vier Wochen nach Rechtskraft zur Zahlung fällig. Gegen diesen Spruch kann die Beschuldigte innerhalb der gesetzlichen Frist Berufung erheben; die Kammer wird die Zahlung überwachen.
 
-13. Der Senat hat bei der Bemessung berücksichtigt, dass die Beschuldigte das Treuhandwesen bislang ohne Beanstandung geführt hat, bis die Routineprüfung der Kammer die Lücken aufdeckte. Die Höhe der Geldbuße liegt daher im unteren Bereich des gesetzlichen Rahmens, auch wenn die Zahl der Verstöße erheblich ist.
+13. Der Senat hat bei der Bemessung berücksichtigt, dass die Beschuldigte das Treuhandwesen bislang ohne Beanstandung geführt hat, bis die Routineprüfung der Kammer die Lücken aufdeckte. Die Höhe der Geldbuße liegt daher im unteren Bereich des gesetzlichen Rahmens, auch wenn die Zahl der Verstöße erheblich ist. Der Senat hält eine Geldbuße für ausreichend, um die Bedeutung der Verpflichtung zu unterstreichen.
 
 14. Die Kammeranwältin [[person|Dr. Srecka Sušanj]] hat beantragt, die Beschuldigte zusätzlich zur Teilnahme an einem Seminar zur Berufsethik zu verpflichten. Der Senat sieht darin keine Notwendigkeit, weil die Beschuldigte die Pflichten im Treuhandwesen bereits in einer Fortbildung im Jahr 2023 behandelt hat.
 

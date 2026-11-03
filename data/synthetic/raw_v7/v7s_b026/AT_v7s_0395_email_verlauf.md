@@ -53,7 +53,7 @@ Betreff: AW: Rechnung [[organization|Friedel Bau GmbH]]
 
 Lieber Herr [[person|Pálffy]],
 
-danke für die rasche Antwort. Ich bestätige, dass die Abschlagszahlung vom [[date|3. März 2026]] bei der [[organization|Friedel Bau]] angekommen ist. Die Rechnung über die Dachsanierung in [[location|St. Anton am Arlberg]] möchte ich aber erst prüfen, bevor ich sie freigebe. Außerdem bitte ich um eine Aufstellung der Arbeitsstunden, weil die Position Gerüstbau ungewöhnlich hoch angesetzt ist. Die Position „Dachstuhl Verstärkung“ scheint mir im Angebot nicht enthalten zu sein.
+danke für die rasche Antwort. Ich bestätige, dass die Abschlagszahlung vom [[date|3. März 2026]] bei der [[organization|Friedel Bau]] angekommen ist. Die Rechnung über die Dachsanierung in [[location|St. Anton am Arlberg]] möchte ich aber erst prüfen, bevor ich sie freigebe. Außerdem bitte ich um eine Aufstellung der Arbeitsstunden, weil die Position Gerüstbau ungewöhnlich hoch angesetzt ist. Die Position „Dachstuhl Verstärkung“ scheint mir im Angebot nicht enthalten zu sein. Ich ersuche um Klarstellung, bevor ich weitere Zahlungen veranlasse.
 
 > Von: [[person|Kayetan Pálffy]] <[[email|k.palffy@schwarzkopf.at]]>
 > Gesendet: Montag, [[date|9. März 2026]] 09:14
@@ -76,7 +76,7 @@ Betreff: AW: Rechnung [[organization|Friedel Bau GmbH]]
 
 Lieber Herr [[person|Plankensteiner]],
 
-die [[organization|Friedel Bau]] ist mit einer Prüfung einverstanden. Bitte senden Sie die Mängelliste bis [[date|20. März 2026]], dann beginnt die Frist für die Mängelbehebung zu laufen. Frau [[person|Torggler]] bearbeitet den Vorgang und ist unter Tel. [[phone_number|0732/4943131-43]] erreichbar. Sollte die zweite Rate ausbleiben, behält sich die Bauunternehmung vor, die Arbeiten an den Dachflächen einzustellen. Wir bitten Sie, dies bei Ihrer Disposition zu berücksichtigen. Frau [[person|Torggler]] benötigt dafür bis zum [[date|18. März 2026]] die Fotodokumentation des Gerüsts. Die Mängelbehebung erfolgt nach unserer Vorgabe durch einen Fachbetrieb.
+die [[organization|Friedel Bau]] ist mit einer Prüfung einverstanden. Bitte senden Sie die Mängelliste bis [[date|20. März 2026]], dann beginnt die Frist für die Mängelbehebung zu laufen. Frau [[person|Torggler]] bearbeitet den Vorgang und ist unter Tel. [[phone_number|0732/4943131-43]] erreichbar. Sollte die zweite Rate ausbleiben, behält sich die Bauunternehmung vor, die Arbeiten an den Dachflächen einzustellen. Wir bitten Sie, dies bei Ihrer Disposition zu berücksichtigen. Frau [[person|Torggler]] benötigt dafür bis zum [[date|18. März 2026]] die Fotodokumentation des Gerüsts. Die Mängelbehebung erfolgt nach unserer Vorgabe durch einen Fachbetrieb. Die Kosten dafür trägt der Bauunternehmer.
 
 > Von: [[person|Martin Plankensteiner]]
 > Gesendet: [[date|10. März 2026]]
@@ -97,7 +97,7 @@ Betreff: Abnahme Dachstuhl
 
 Sehr geehrter Herr [[person|Plankensteiner]],
 
-am [[date|6. März 2026]] nehme ich die Dachsanierung ab, sofern die Schneelast bis dahin zurückgegangen ist. Bei Regen wird der Termin verschoben. Für die [[organization|Friedel Bau]] ist die Zahlung der zweiten Rate Voraussetzung für die Auslieferung der Gewährleistungsunterlagen. Die Gewährleistungsfrist beträgt nach meinem Verständnis drei Jahre ab der Übergabe. Die Abnahme umfasst die Dachflächen, die Gaube und den Kamin; über Vorbehalte werden Sie im Protokoll informiert.
+am [[date|6. März 2026]] nehme ich die Dachsanierung ab, sofern die Schneelast bis dahin zurückgegangen ist. Bei Regen wird der Termin verschoben. Für die [[organization|Friedel Bau]] ist die Zahlung der zweiten Rate Voraussetzung für die Auslieferung der Gewährleistungsunterlagen. Die Gewährleistungsfrist beträgt nach meinem Verständnis drei Jahre ab der Übergabe. Die Abnahme umfasst die Dachflächen, die Gaube und den Kamin; über Vorbehalte werden Sie im Protokoll informiert. Ein Protokollentwurf folgt.
 
 Mit freundlichen Grüßen
 [[person|Ruedi Isser]]
@@ -111,7 +111,7 @@ Betreff: Termin Abnahme
 
 Sehr geehrter Herr [[person|Isser]],
 
-die Abschlagszahlung ist heute überwiesen worden. Bitte bestätigen Sie mir den Termin für die Abnahme der Dachsanierung. Ich selbst bin ab Donnerstag für zwei Wochen auf Dienstreise, meine Vertretung ist Herr [[person|Pálffy]]. Die Schlüssel für den Dachboden hinterlege ich beim Hausmeister. Bei Fragen erreichen Sie mich bis Donnerstag noch telefonisch.
+die Abschlagszahlung ist heute überwiesen worden. Bitte bestätigen Sie mir den Termin für die Abnahme der Dachsanierung. Ich selbst bin ab Donnerstag für zwei Wochen auf Dienstreise, meine Vertretung ist Herr [[person|Pálffy]]. Er kennt die Angelegenheit. Die Schlüssel für den Dachboden hinterlege ich beim Hausmeister. Bei Fragen erreichen Sie mich bis Donnerstag noch telefonisch.
 
 Mit freundlichen Grüßen
 [[person|Martin Plankensteiner]]
