@@ -225,3 +225,33 @@ Settled with the project lead after the agent review of the Austrian gold set; t
   [[case_number|C-213/89]]` ("e.a."/"u. a." inside the party span as written).
 - Persons, companies, national authorities and facts are invented; real EU institutions, member states, national
   courts and EU legislation are fine. Do not reproduce real cases or real members of the courts.
+
+### Production conventions (2026-11-03, project lead; from the hub2 production feedback and the OBDK test set)
+
+Applied to existing data by `legalner/relabel.py` when records are read; new documents are written this way directly.
+
+31. Disciplinary bodies of the professional chambers that decide cases are `court`: "[[court|Oberste Berufungs- und
+    Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]]", "[[court|OBDK]]", "[[court|Disziplinarrat
+    der Rechtsanwaltskammer für Steiermark]]", "Disziplinarsenat". Courts and these bodies stay visible in production.
+32. Countries are `country`, whether territory or party (replaces the party case of decision 25): "in
+    [[country|Österreich]]", "[[country|Republik Österreich]] als beklagte Partei", "Staatsangehöriger von
+    [[country|Syrien]]", "Wałęsa c. [[country|Pologne]]". Governments stay `organization` ("die [[organization|
+    österreichische Regierung]]"). Luxembourg/Luxemburg alone is the city (`location`); the state is
+    "[[country|Großherzogtum Luxemburg]]".
+33. A date of birth is `date_of_birth`, not `date`: "geb. [[date_of_birth|14.07.1983]]", "geboren am
+    [[date_of_birth|5. Mai 1993]]", "Geburtsdatum: [[date_of_birth|03.05.1958]]", "[[date_of_birth|*1970]]",
+    "né le [[date_of_birth|18 avril 1988]]". A year of birth alone is also `date_of_birth`. All other dates stay `date`.
+34. Postcode and place without a street are one `address` span: "[[address|1010 Wien]]", "[[address|A-4020 Linz]]",
+    "Postfach 412, [[address|3001 Bern]]". With a street the whole line stays one address as before.
+35. Phone numbers include their extension: "[[phone_number|0222/52152 DW 3780]]", "[[phone_number|+43 1 534 30-45]]",
+    "[[phone_number|0316 8064 Kl. 12]]".
+36. `other_identifier` covers a party's or a law firm's own references and account numbers: client/Klienten- and
+    customer numbers, insurance policy (Polizzen-) numbers, Treuhandbuch numbers, member numbers, contract numbers,
+    "Zeichen", "Unser Zeichen", "Ihr Zeichen" references (also when they contain initials or names:
+    "Zeichen [[other_identifier|V-PPPahl/Grazer]]"), vehicle identification numbers. Prefixes such as "Kd.-Nr." stay
+    outside the span.
+37. Places named "St. …" are `location` and never `person` ("[[location|St. Pölten]]", "[[location|St. Johann im
+    Pongau]]"); inside a court name they are part of the court span ("[[court|Landesgericht St. Pölten]]",
+    "[[court|BG Innere Stadt Wien]]", "[[court|LG für ZRS Graz]]").
+38. Role labels: `judge` and `lawyer` may still be written, but they are no longer queried in training
+    (`schema.QUERY_ROLES = False`); every judge, lawyer, expert, clerk and party is learned as `person`.

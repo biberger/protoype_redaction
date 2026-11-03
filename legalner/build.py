@@ -20,7 +20,8 @@ import json
 import pathlib
 import random
 
-from legalner.schema import LABELS, SOURCES
+from legalner.relabel import relabel
+from legalner.schema import DERIVED, LABELS, QUERY_ROLES, ROLE_LABELS, SOURCES
 
 SPLIT_NAMES = {"train": "train", "validation": "dev", "dev": "dev", "test": "test"}
 
@@ -50,6 +51,9 @@ def query_labels(rec):
     for outer, inner in src.nested_conflicts.items():
         if outer in present:
             labels -= set(inner)
+    labels |= {d for d, base in DERIVED.items() if base in labels}
+    if not QUERY_ROLES:
+        labels -= ROLE_LABELS
     return labels
 
 
@@ -186,12 +190,14 @@ def too_dense(rec, labels):
     return any(n > MAX_GOLD_PER_LABEL for n in per.values())
 
 
-def read_records(paths):
+def read_records(paths, relabelled=True):
+    """Canonical records from JSONL files, relabelled to the current conventions (legalner.relabel)."""
     for path in paths:
         with open(path, encoding="utf-8") as fh:
             for line in fh:
                 if line.strip():
-                    yield json.loads(line)
+                    rec = json.loads(line)
+                    yield relabel(rec) if relabelled else rec
 
 
 def _per_key(values, cast=int):

@@ -546,3 +546,31 @@ def test_pretag_inline_resolves_overlaps():
     pred = {"person": {(8, 17)}, "judge": {(8, 17)}, "organization": {(26, 40)}, "location": {(32, 40), (44, 48)}}
     assert inline(text, pred) == ("Richter [[judge|Max Huber]] und die [[organization|Huber Bau GmbH]] in "
                                   "[[location|Wien]].")
+
+
+def test_relabel_production_conventions():
+    from legalner.relabel import relabel
+    t = ("Dr. Max Huber, geb. 14.07.1983, wohnhaft\n1010 Wien, Tel. 0222/52152 DW 3780, vor dem Disziplinarrat der "
+         "Rechtsanwaltskammer Wien; Österreich hat vorgetragen. Fait à Luxembourg. the 2015 Alabama")
+
+    def sp(lab, s):
+        i = t.index(s)
+        return {"label": lab, "start": i, "end": i + len(s), "text": s}
+    rec = {"text": t, "lang": "de", "spans": [
+        sp("date", "14.07.1983"), sp("location", "Wien"), sp("phone_number", "0222/52152"),
+        sp("organization", "Disziplinarrat der Rechtsanwaltskammer Wien"), sp("organization", "Österreich"),
+        sp("location", "Luxembourg"), sp("location", "Alabama"), sp("person", "Dr. Max Huber")]}
+    got = {s["text"]: s["label"] for s in relabel(rec)["spans"]}
+    assert got == {"14.07.1983": "date_of_birth", "1010 Wien": "address", "0222/52152 DW 3780": "phone_number",
+                   "Disziplinarrat der Rechtsanwaltskammer Wien": "court", "Österreich": "country",
+                   "Luxembourg": "location", "Alabama": "location", "Dr. Max Huber": "person"}
+    assert all(s["text"] == t[s["start"]:s["end"]] for s in relabel(rec)["spans"])
+
+
+def test_roles_not_queried_and_derived_labels_follow_coverage():
+    from legalner.build import query_labels
+    labels = query_labels({"source": "synthetic", "text": "", "spans": [], "meta": {}})
+    assert "judge" not in labels and "lawyer" not in labels and "person" in labels
+    assert {"date_of_birth", "country"} <= labels
+    ler = query_labels({"source": "ler", "text": "", "spans": [], "meta": {}})
+    assert "date_of_birth" not in ler and "country" in ler  # LER covers location but not date

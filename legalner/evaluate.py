@@ -74,8 +74,8 @@ def score(records, predictions):
 COARSE = {
     "person": ("person", "judge", "lawyer"),
     "organization": ("organization", "court"),
-    "place": ("address", "street", "location"),
-    "date": ("date",),
+    "place": ("address", "street", "location", "country"),
+    "date": ("date", "date_of_birth"),
     "identifier": ("case_number", "bank_account", "social_security_number", "tax_id", "company_register_number",
                    "license_plate", "land_register_id", "id_document_number", "other_identifier", "phone_number",
                    "email"),

@@ -278,7 +278,7 @@ def lint(text, spans, fname):
             covered[i] = True
     needles = set(GAZETTEER)
     for label, _, _, surface in spans:
-        if label in ("date", "legal_norm"):
+        if label in ("date", "date_of_birth", "legal_norm", "country"):
             continue  # short forms legitimately repeat untagged
         needles.add(surface)
         town = re.search(r"\b\d{4,5}\s([A-ZÄÖÜ][\w.\-]+(?:\s(?:an\sder|am|im|bei|ob\sder)?\s?[A-ZÄÖÜ][\w.\-]+){0,3})$",
