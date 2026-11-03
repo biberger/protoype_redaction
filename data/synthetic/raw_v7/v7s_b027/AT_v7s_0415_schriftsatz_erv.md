@@ -38,11 +38,11 @@ II. Sachverhalt
 
 3. Der Kläger behauptet, er habe am [[date|14.03.2025]] einen Kaufvertrag über das Fahrzeug abgeschlossen und den Kaufpreis von EUR 9.350,00 bezahlt. Diese Behauptung ist unrichtig. Ein Vertragsentwurf wurde dem Kläger zwar übermittelt, jedoch nicht vom Kläger retourniert.
 
-4. Der Geschäftsführer der beklagten Partei hat dem Kläger am [[date|21.03.2025]] mitgeteilt, dass das Fahrzeug nur gegen Vorlage eines unterschriebenen Vertrages und einer Anzahlung reserviert werde. Eine Anzahlung ist nicht eingegangen.
+4. Der Geschäftsführer der beklagten Partei hat dem Kläger am [[date|21.03.2025]] mitgeteilt, dass das Fahrzeug nur gegen Vorlage eines unterschriebenen Vertrages und einer Anzahlung reserviert werde. Eine Anzahlung ist nicht eingegangen. Der Geschäftsführer hat dabei ausdrücklich darauf hingewiesen, dass das Fahrzeug sonst anderweitig verkauft werden kann.
 
-5. Der Kläger hat am [[date|02.04.2025]] eine Zahlung von EUR 1.200,00 geleistet. Diese Zahlung wurde von der beklagten Partei am [[date|10.04.2025]] an den Kläger zurücküberwiesen, weil ein Vertrag nicht zustande gekommen war.
+5. Der Kläger hat am [[date|02.04.2025]] eine Zahlung von EUR 1.200,00 geleistet. Diese Zahlung wurde von der beklagten Partei am [[date|10.04.2025]] an den Kläger zurücküberwiesen, weil ein Vertrag nicht zustande gekommen war. Die Rücküberweisung erfolgte auf das Konto, von dem die Zahlung stammte, und wurde vom Kläger nicht beanstandet.
 
-6. Die Behauptung des Klägers, die Rückzahlung sei eine Anerkennung des Vertrages gewesen, trifft nicht zu. Die Überweisung erfolgte ausdrücklich unter dem Vorbehalt, dass kein Vertrag bestehe.
+6. Die Behauptung des Klägers, die Rückzahlung sei eine Anerkennung des Vertrages gewesen, trifft nicht zu. Die Überweisung erfolgte ausdrücklich unter dem Vorbehalt, dass kein Vertrag bestehe. Der Kläger hat die Rücküberweisung bis zur Klageeinbringung nicht bestritten und keinen Vertragsabschluss reklamiert.
 
 III. Rechtliche Beurteilung
 

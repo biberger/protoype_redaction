@@ -81,6 +81,8 @@ Die Kostenentscheidung beruht auf den einschlägigen Bestimmungen des Rechtsanwa
 
 Gegen diesen Beschluss ist die Revision an den [[court|OGH]] zulässig, sofern die gesetzlichen Voraussetzungen erfüllt sind.
 
+Die Kosten des Verfahrens wurden im Beschluss festgesetzt und sind binnen vier Wochen nach Zustellung auf das Konto der Kammer zu überweisen. Die Beschuldigte wird darauf hingewiesen, dass bei Nichtzahlung die Eintreibung nach den Bestimmungen über die Vollstreckung von Verwaltungsabgaben erfolgt.
+
 Der Vorsitz: [[judge|Vasicek]]
 
 Ausgefertigt für die Kammeranwaltschaft, Tel. [[phone_number|+43 512 669 70 85 DW 916]]

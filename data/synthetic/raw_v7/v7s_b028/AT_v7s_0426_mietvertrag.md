@@ -45,6 +45,8 @@ II. Mietzins und Kaution
 
 3. Der Mieter erlegt eine Kaution in Höhe von drei Bruttomonatsmieten, somit EUR 2.395,20, die auf einem Sparbuch oder auf einem gesonderten Konto anzulegen ist.
 
+Die Miete ist ab dem zweiten Mietjahr entsprechend dem Verbraucherpreisindex wertgesichert. Die Anpassung erfolgt jeweils zum [[date|1. Dezember]] und wird dem Mieter schriftlich mitgeteilt. Eine Anpassung nach unten findet nicht statt.
+
 III. Pflichten der Parteien
 
 1. Der Mieter hält die Wohnung in ordnungsgemäßem Zustand und meldet Schäden unverzüglich der Hausverwaltung.

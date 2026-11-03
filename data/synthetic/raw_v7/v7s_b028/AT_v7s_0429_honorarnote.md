@@ -36,6 +36,6 @@ Summe netto: EUR 580,00, zuzüglich USt EUR 116,00, Gesamt EUR 696,00.
 
 Die Kosten der Außenstelle in [[location|Sattledt]] wurden nicht gesondert verrechnet. Die Rückstände betreffen die Monate April bis Juni 2026 und wurden in der Zwischenzeit teilweise durch den Mieter beglichen; der offene Restbetrag ist im Betrag oben enthalten. Der Betrag beinhaltet keine Gerichtsgebühren; diese werden direkt bei [[organization|Komarek & Bodlak]] beglichen, sobald die Rechnung der Gerichtskasse vorliegt.
 
-Zahlbar binnen 14 Tagen auf das Konto IBAN [[bank_account|AT61 4953 0487 2726 3912]].
+Wir bitten, bei der Überweisung die Kundennummer anzugeben und den Verwendungszweck mit dem Namen des Mandanten zu versehen. Teilzahlungen werden zunächst auf die älteste offene Position angerechnet, sofern nichts anderes vereinbart ist. Die Kanzlei ist unter der Telefonnummer der Kanzlei während der Bürozeiten erreichbar. Zahlbar binnen 14 Tagen auf das Konto IBAN [[bank_account|AT61 4953 0487 2726 3912]].
 
 [[address|9762 Weißensee]], am [[date|1. Oktober 2026]]

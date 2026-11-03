@@ -42,13 +42,13 @@ BEGRÜNDUNG
 
 I. Sachverhalt
 
-1. Der Kläger hat mit der [[organization|Ratzenberger Immobilien GmbH]], [[company_register_number|FN 54776d]], UID [[tax_id|ATU93175787]], im Jahr 2017 einen Vertrag über eine Gebäudeversicherung abgeschlossen. Der Vertrag trägt die Vertragsnummer [[other_identifier|LV-2017-47861]].
+1. Der Kläger hat mit der [[organization|Ratzenberger Immobilien GmbH]], [[company_register_number|FN 54776d]], UID [[tax_id|ATU93175787]], im Jahr 2017 einen Vertrag über eine Gebäudeversicherung abgeschlossen. Der Vertrag trägt die Vertragsnummer [[other_identifier|LV-2017-47861]] und sieht eine Deckung für Wasserschäden ausdrücklich vor.
 
 2. Am [[date|14.11.2024]] kam es zu einem Wasserschaden im Gebäude. Der Schaden wurde unter der Schaden-Nr. [[other_identifier|84/690624/26]] gemeldet.
 
 3. Ein weiterer Schaden vom [[date|02.03.2021]] ist unter der Schaden-Nr. [[other_identifier|34/412580/21]] dokumentiert und wurde seinerzeit vom [[organization|Land Niederösterreich]] nur teilweise reguliert.
 
-4. Die Beklagten haben die Herstellung der beschädigten Bauteile verweigert und die Zahlung eines Vorschusses von EUR 27.450,00 abgelehnt. Mit Schreiben vom [[date|08.12.2025]] wurde die Zahlung eingemahnt; eine Reaktion erfolgte nicht.
+4. Die Beklagten haben die Herstellung der beschädigten Bauteile verweigert und die Zahlung eines Vorschusses von EUR 27.450,00 abgelehnt. Mit Schreiben vom [[date|08.12.2025]] wurde die Zahlung eingemahnt; eine Reaktion erfolgte nicht. Eine weitere Mahnung vom [[date|19.01.2026]] blieb ebenfalls unbeantwortet, sodass die Klage nunmehr eingebracht wird.
 
 II. Rechtliche Beurteilung
 

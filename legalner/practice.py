@@ -298,7 +298,8 @@ def _roles(rng, doc_type, persons):
             dec["date_of_birth"] = f"{rng.randint(1, 28):02d}.{rng.randint(1, 12):02d}.{rng.randint(1925, 1975)}"
             dec["birth_cue"] = rng.choice(["geb. ", "geboren am ", "*"])
         y = int(re.search(r"(\d{4})", dec.get("date_of_birth", "1940"))[1])
-        dec["date_of_death"] = f"{rng.randint(1, 28):02d}.{rng.randint(1, 12):02d}.{rng.randint(min(max(y + 40, 2015), 2026), 2026)}"
+        dy = rng.randint(min(max(y + 40, 2015), 2026), 2026)
+        dec["date_of_death"] = f"{rng.randint(1, 28):02d}.{rng.randint(1, 9 if dy == 2026 else 12):02d}.{dy}"  # before 'today
         for p in persons[1:]:
             p["role"] = rng.choice(["heir", "heir", "heir", "legatee", "creditor of the estate"])
     elif doc_type == "obdk_disziplinar":

@@ -108,7 +108,7 @@ Beilage ./E: Erklärung von [[person|Dr. Iwus Spychała]] vom [[date|15.07.2025]
 
 Der Kostenvoranschlag wurde von [[person|Dr. Simon Schaffgotsch]] im Auftrag der [[organization|Augustin KG]] eingeholt.
 
-Die Vollmacht der Kanzlei liegt bei und wird im ERV hinterlegt.
+Die Vollmacht der Kanzlei liegt bei und wird im ERV hinterlegt. Die beklagte Partei ersucht höflich um Mitteilung, falls der Kläger zur Unfallzeit eine weitere Versicherung für das Fahrzeug unterhalten hat.
 
 [[location|Lauterach]], am [[date|27. Oktober 2026]]
 

@@ -36,6 +36,10 @@ Wir ersuchen Sie, den Zaun bis zum [[date|15. Dezember 2026]] zu versetzen. Herr
 
 Die [[organization|Ahrens]] (im Folgenden [[organization|AHR]]) hat bereits in der Vergangenheit zugesagt, die Grenze zu respektieren. Ein schriftlicher Nachweis liegt uns jedoch nicht vor.
 
+Die Mandantin ist bereit, die Versetzung des Zauns im Bereich der Hecke gemeinsam mit Ihnen zu besprechen. Ein gemeinsamer Ortstermin könnte den Streit rasch beilegen, wenn Sie uns einen Termin bis zum [[date|30. November 2026]] mitteilen.
+
+Sollte die Versetzung innerhalb der genannten Frist nicht erfolgen, werden wir zusätzlich die Eintragung einer Anmerkung der Grenzberichtigung beim Grundbuchgericht anregen. Dies würde die Veräußerung der Liegenschaft für beide Seiten erschweren und sollte daher vermieden werden.
+
 Die Vermessungsurkunde ist dieser Eingabe als Beilage angeschlossen. Wir bitten um Bestätigung des Eingangs und um Mitteilung, ob Sie dem Versetzen des Zauns zustimmen. Eine Einigung über die Kostentragung halten wir für möglich, sofern die Frist eingehalten wird.
 
 Die Mandantin hat die Kosten für die Vermessung in Höhe von EUR 690,00 bereits vorgeschossen und wird diesen Betrag im Falle einer Einigung von Ihnen fordern.

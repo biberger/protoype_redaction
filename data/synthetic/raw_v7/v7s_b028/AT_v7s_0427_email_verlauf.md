@@ -71,4 +71,6 @@ Mit freundlichen Grüßen
 Rechtsanwalt
 Tel. [[phone_number|+43 512 495 15 15 DW 636]]
 
+Ich bitte um kurze Rückmeldung, ob die Kosten des Gutachters, der die Wohnung im Frühjahr 2026 besichtigt hat, von der [[organization|Arnold KG]] übernommen werden. Sollte dies nicht der Fall sein, behalte ich mir vor, die Kosten im Rahmen des Verfahrens geltend zu machen.
+
 Diese Nachricht ist vertraulich. Bitte leiten Sie sie nicht weiter.

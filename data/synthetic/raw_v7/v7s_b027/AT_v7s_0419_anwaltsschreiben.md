@@ -43,6 +43,8 @@ Wir weisen darauf hin, dass der Mandant die Verzugszinsen nach [[legal_norm|§ 4
 
 Die Verantwortung der [[organization|Wander Bau]] für den Schaden ergibt sich aus [[legal_norm|§ 1311 ABGB]], weil die Leitung ohne ausreichende Absicherung zurückgelassen wurde; eine Haftung nach [[legal_norm|§ 1315 ABGB]] ist nach dem Ergebnis der Begutachtung nicht auszuschließen.
 
+Der Mandant hat die Rechnung der Sanierungsfirma vorab bezahlt und verlangt nun Ersatz. Ein Eigenanteil des Mandanten besteht nicht; eine Mitverschuldung ist nach den bisherigen Feststellungen nicht erkennbar, da die Leitung für den Mandanten nicht zugänglich war.
+
 Für allfällige Rückfragen stehen wir gerne zur Verfügung. Wir ersuchen um Bestätigung des Eingangs dieses Schreibens.
 
 Mit freundlichen Grüßen

@@ -52,6 +52,8 @@ Die Ihnen bereits übermittelten Teilbeträge in Höhe von EUR 1.200,00 sind in 
 
 Wir ersuchen um Überweisung des offenen Betrages auf das Konto IBAN [[bank_account|AT56 3947 7627 1029 7663]] innerhalb von 14 Tagen.
 
+Die Leistungen wurden nach bestem Wissen erbracht und sind im Verfahrensakt dokumentiert. Einwendungen gegen die Honorarnote bitten wir binnen 14 Tagen schriftlich zu erheben. Bei Zahlungsverzug nach Ablauf des genannten Zahlungsziels werden Verzugszinsen in gesetzlicher Höhe verrechnet. Für Rückfragen zu einzelnen Positionen steht Ihnen unsere Kanzleiassistenz unter der Telefonnummer der Kanzlei zur Verfügung.
+
 Mit freundlichen Grüßen
 
 [[organization|Hellmann, Kager]]

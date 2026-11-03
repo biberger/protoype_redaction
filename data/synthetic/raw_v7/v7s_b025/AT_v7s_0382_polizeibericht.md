@@ -45,7 +45,7 @@ Die Fahrbahn war trocken, die Sichtverhältnisse waren gut. An der Kreuzung befi
 
 Die Schäden an den Fahrzeugen wurden fotografiert. Die Fahrzeuge wurden nicht abgeschleppt, sondern von den Lenkern selbst weggefahren.
 
-Die Ampel an der Kreuzung ist nicht in Betrieb; die Vorrangregelung wird durch ein Vorrangzeichen angezeigt, das laut Angaben der Gemeinde Gallneukirchen im Frühjahr 2026 versetzt wurde. Eine Sichtbehinderung durch einen Bauzaun am Hauptplatz wurde am Unfallort festgestellt und fotografisch dokumentiert. Der Bauzaun gehört zu einer Baustelle, die am [[date|10.08.2026]] eingerichtet worden war.
+Die Ampel an der Kreuzung ist nicht in Betrieb; die Vorrangregelung wird durch ein Vorrangzeichen angezeigt, das laut Angaben der [[organization|Gemeinde Gallneukirchen]] im Frühjahr 2026 versetzt wurde. Eine Sichtbehinderung durch einen Bauzaun am [[street|Hauptplatz]] wurde am Unfallort festgestellt und fotografisch dokumentiert. Der Bauzaun gehört zu einer Baustelle, die am [[date|10.08.2026]] eingerichtet worden war.
 
 Der Lenker [[person|Bajić]] gab bei der Erstbefragung an, er habe das Vorrangzeichen nicht gesehen, weil es von einem Lkw verdeckt gewesen sei. Der Lenker [[person|Feierle]] bestätigte, dass er die Kreuzung ohne anzuhalten befahren habe, da er den Vorrang gehabt habe.
 
@@ -53,7 +53,9 @@ Der Lenker [[person|Bajić]] gab bei der Erstbefragung an, er habe das Vorrangze
 
 Der Lenker [[person|Bajić]] hat nach den Feststellungen den Vorrang des Lenkers [[person|Feierle]] nicht beachtet. Dies stellt eine Übertretung nach [[legal_norm|§ 19 Abs 3 StVO]] dar. Gegen den Lenker [[person|Feierle]] wird wegen der Geschwindigkeit eine Anzeige nach [[legal_norm|§ 20 Abs 2 StVO]] erstattet. Die Anzeigen werden der zuständigen Bezirkshauptmannschaft übermittelt.
 
-Die Haftpflichtversicherungen wurden durch die Lenker verständigt. Die Schadennummer ist [[other_identifier|89/873191/24]].
+Die Haftpflichtversicherungen wurden durch die Lenker verständigt. Die Schadennummer ist [[other_identifier|89/873191/24]]. Der Lenker [[person|Feierle]] hat eine Kopie seiner Grünen Karte vorgelegt, der Lenker [[person|Bajić]] den Versicherungsschein. Beide Versicherungen wurden am Unfallort telefonisch erreicht und haben die Schadenmeldung entgegengenommen. Die Zulassungsscheine beider Fahrzeuge wurden überprüft und ohne Beanstandung zurückgegeben.
+
+Der Lenker [[person|Bajić]] hat die Alkoholkontrolle am Unfallort freiwillig durchführen lassen. Das Ergebnis war negativ. Der Lenker [[person|Feierle]] wurde ebenfalls kontrolliert, auch bei ihm war das Ergebnis negativ. Eine Suchtmittelbeeinträchtigung wurde bei keinem der Beteiligten festgestellt.
 
 5. Weitere Maßnahmen
 

@@ -51,6 +51,8 @@ Die Honorare wurden nach dem [[legal_norm|RATG]] ermittelt. Die Auslagen sind in
 
 Bitte überweisen Sie den Betrag binnen 14 Tagen auf das Konto IBAN [[bank_account|AT26 0735 7968 8166 8952]] unter Angabe der Klienten-Nr. [[other_identifier|33753]].
 
+Die Honorare für die Vertretung der [[organization|Marte e.U.]] wurden mit dem Geschäftsführer [[person|Englbert Fall]] vereinbart; die Vollmacht vom [[date|04.12.2025]] liegt in den Akten. Ein Vorschuss ist nicht geleistet worden, die Zahlung erfolgt daher nach Rechnungslegung.
+
 Bei Fragen zu dieser Honorarnote wenden Sie sich bitte direkt an unsere Kanzlei. Eine Ratenzahlung kann nach vorheriger Vereinbarung eingeräumt werden.
 
 Mit freundlichen Grüßen

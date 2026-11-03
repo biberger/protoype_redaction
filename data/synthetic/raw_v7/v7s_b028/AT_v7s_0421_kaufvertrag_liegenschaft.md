@@ -109,3 +109,5 @@ Die Verkäuferin:                    Die Käuferinnen:
                                     [[person|Ing. Inesa Dytschka]]
 
 Errichtet von Rechtsanwalt [[lawyer|Trojan]]
+
+Die Vertragsparteien haben den Vertrag vor Unterfertigung gemeinsam durchgesehen. Jede Partei erhält eine beglaubigte Abschrift, das Original verbleibt bei der Kanzlei bis zur Eintragung im Grundbuch.

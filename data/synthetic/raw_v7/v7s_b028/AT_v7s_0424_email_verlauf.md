@@ -76,4 +76,6 @@ Die Sachverständige weist darauf hin, dass ein Gutachten über den Zustand der 
 Mit freundlichen Grüßen
 [[person|Gallus Polsterer]]
 
+Für Rückfragen stehe ich telefonisch zur Verfügung. Bitte achten Sie darauf, dass die Korrespondenz mit [[person|Baranga]] ausschließlich über die Kanzlei erfolgt.
+
 Diese Nachricht ist nur für den Adressaten bestimmt. Eine Weitergabe an Dritte ist nicht gestattet.

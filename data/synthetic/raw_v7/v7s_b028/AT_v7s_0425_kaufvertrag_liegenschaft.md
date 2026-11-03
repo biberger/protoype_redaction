@@ -48,7 +48,7 @@ Gegenstand des Kaufes sind die folgenden Liegenschaften samt allen wesentlichen 
 
 3. Katastralgemeinde [[land_register_id|16949 Villach]] [[land_register_id|EZ1311]]; [[land_register_id|Gst.Nr. 168]], Lagerhalle mit Freiflächen
 
-Die Verkäuferin ist grundbücherliche Eigentümerin der Liegenschaften. Auf den Liegenschaften lastet nach dem Grundbuchsstand vom [[date|2. September 2026]] ein Pfandrecht zugunsten einer Bank, das bei Übergabe gelöscht wird.
+Die Verkäuferin ist grundbücherliche Eigentümerin der Liegenschaften. Die Flächenangaben beruhen auf dem Grundbuch und auf den Angaben der Verkäuferin; eine Vermessung wurde nicht durchgeführt, die Käufer verzichten insoweit auf Gewährleistung. Auf den Liegenschaften lastet nach dem Grundbuchsstand vom [[date|2. September 2026]] ein Pfandrecht zugunsten einer Bank, das bei Übergabe gelöscht wird.
 
 IV. Kaufpreis
 

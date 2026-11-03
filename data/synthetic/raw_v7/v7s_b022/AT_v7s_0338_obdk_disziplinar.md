@@ -78,7 +78,7 @@ Die Geldbuße wurde daher in einem Betrag festgesetzt, der die Wiederholung verh
 
 Kosten
 
-Die Kostenentscheidung beruht auf [[legal_norm|§ 52 RAO]]. Die Beschuldigte hat die Kosten des Verfahrens zu tragen. Das Kostenverzeichnis umfasst die Kosten der Verhandlung, die Reisekosten des Kammerrevisors und die Kosten der Zustellung. Die Kosten des Zeugen [[person|Jauk]] für die Anreise zur Verhandlung sind der Beschuldigten nicht aufzuerlegen, weil er nur auf Ladung erschienen ist. Die Beschuldigte hat den Betrag innerhalb von vier Wochen nach Rechtskraft auf das Konto der Kammer zu überweisen. Eine Ratenzahlung ist nur mit Zustimmung des Kammervorstandes zulässig.
+Die Kostenentscheidung beruht auf [[legal_norm|§ 52 RAO]]. Die Beschuldigte hat die Kosten des Verfahrens zu tragen. Das Kostenverzeichnis umfasst die Kosten der Verhandlung, die Reisekosten des Kammerrevisors und die Kosten der Zustellung. Die Kosten des Zeugen [[person|Jauk]] für die Anreise zur Verhandlung sind der Beschuldigten nicht aufzuerlegen, weil er nur auf Ladung erschienen ist. Die Beschuldigte hat den Betrag innerhalb von vier Wochen nach Rechtskraft auf das Konto der Kammer zu überweisen. Eine Ratenzahlung ist nur zulässig und nur dann, wenn der Kammervorstand dies ausdrücklich bewilligt.
 
 Schluss
 

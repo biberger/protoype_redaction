@@ -86,6 +86,14 @@ VII. Ergänzende Bestimmungen
 
 20. Die Käufer erklären, dass sie den Vertrag nach ausreichender Bedenkzeit unterzeichnet haben. Nebenabreden bestehen nicht; der Vertrag entspricht dem Willen aller Parteien.
 
+21. Die Übergabe der Liegenschaft erfolgt durch die Verkäuferin im Beisein der Käufer und der Kanzlei. Über den Zustand bei Übergabe wird ein Protokoll mit Fotos errichtet, das von beiden Parteien unterfertigt wird.
+
+22. Die Verkäuferin verpflichtet sich, alle Versorgungsverträge für Strom, Wasser und Heizung bis zum Übergabetag zu kündigen oder auf die Käufer umzuschreiben. Die Zählerstände werden im Übergabeprotokoll festgehalten.
+
+23. Die Käufer übernehmen die Verpflichtungen aus dem bestehenden Mietvertrag über die Garage, sofern ein solcher besteht. Die Verkäuferin hat den Mieter über den Eigentumswechsel schriftlich zu informieren.
+
+24. Für den Fall, dass die Eintragung des Eigentumsrechts aus Gründen scheitert, die nicht in der Sphäre der Käufer liegen, ist die Verkäuferin verpflichtet, den bereits bezahlten Kaufpreis samt Zinsen zurückzuzahlen. Die Rückzahlung erfolgt über die Kanzlei.
+
 [[location|Bartholomäberg]], am [[date|10.02.2026]]
 
 Verkäuferin:

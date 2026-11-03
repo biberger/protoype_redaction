@@ -63,7 +63,7 @@ Fax: [[phone_number|+43 2742 278956-99]]
 >> [[lawyer|Dr. Berticek Vácha]]
 >> Rechtsanwalt
 
-Die Kanzlei bestätigt den Eingang der Zahlung in der Nachricht vom [[date|13. Oktober 2026]] und legt den Vorgang zur Akte. Die Bestätigung wird dem Gericht übermittelt, sobald die Klage zurückgenommen ist. Der Zahlungsbeleg vom [[date|8. Oktober 2026]] ist als Anhang beigefügt; die Buchung trägt den Verwendungszweck des Verfahrens. Sollte die Zahlung der Mahnspesen nicht fristgerecht eingehen, wird die Kanzlei ohne weitere Ankündigung die Vollstreckung einleiten.
+Die Kanzlei bestätigt den Eingang der Zahlung in der Nachricht vom [[date|13. Oktober 2026]] und legt den Vorgang zur Akte. Der Mandant wird über den Stand der Angelegenheit in der kommenden Woche gesondert informiert. Die Bestätigung wird dem Gericht übermittelt, sobald die Klage zurückgenommen ist. Der Zahlungsbeleg vom [[date|8. Oktober 2026]] ist als Anhang beigefügt; die Buchung trägt den Verwendungszweck des Verfahrens. Sollte die Zahlung der Mahnspesen nicht fristgerecht eingehen, wird die Kanzlei ohne weitere Ankündigung die Vollstreckung einleiten.
 
 Mit freundlichen Grüßen
 [[person|MMag. Gaby Truppe]]

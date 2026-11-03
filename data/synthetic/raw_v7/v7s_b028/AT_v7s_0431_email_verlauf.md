@@ -59,10 +59,12 @@ Fax: [[phone_number|+43 3172 9217980 DW 14]]
 
 Die [[organization|Szabo]] legt Wert auf die Feststellung, dass [[person|Ing. Marlon Rosenfeld]] als Bauleiter die Schäden an der Fassade dokumentiert hat. Die Dokumentation liegt der Gegenseite vor und wird am Verhandlungstag vorgelegt. Herr [[person|Rosenfeld]] hat die Begehung am [[date|22. Oktober 2026]] vorgenommen.
 
-Die Gegenseite hat außerdem zugesagt, die Zahlung der ersten Rate bereits bis zum [[date|30. November 2026]] zu leisten. Der Vorschlag sieht vor, dass die Restraten jeweils am Monatsletzten fällig werden. Ich empfehle, die Vereinbarung schriftlich festzuhalten und eine Vertragsstrafe von EUR 300,00 für jede versäumte Rate vorzusehen.
+Nach dem Vorschlag soll die erste Rate bereits bis zum [[date|30. November 2026]] zu leisten. Der Vorschlag sieht vor, dass die Restraten jeweils am Monatsletzten fällig werden. Ich empfehle, die Vereinbarung schriftlich festzuhalten und eine Vertragsstrafe von EUR 300,00 für jede versäumte Rate vorzusehen.
 
 Die Gegenseite hat außerdem zugesagt, die Kosten des Sachverständigen für die Fassade zur Hälfte zu übernehmen, sofern die Zahlung der Raten pünktlich erfolgt. Ich halte dies für einen akzeptablen Verhandlungsspielraum, würde aber die Kaution nicht zur Verrechnung mit Mietrückständen stellen.
 
 Die Kaution beläuft sich auf EUR 1.200,00 und ist seit dem [[date|1. Juli 2025]] auf einem Sparbuch hinterlegt. Die Vermieterin hat die Auszahlung bisher unter Hinweis auf die Schadensbehebung verweigert; die Schadensbehebung wurde bis heute nicht durchgeführt.
+
+Die Verhandlung wird voraussichtlich etwa eine Stunde dauern. Der Richter hat angekündigt, zunächst die Zuständigkeit für die Fassadenschäden zu klären, weil die Gegenseite die Miete des Lagerraums einbezogen wissen möchte. Wir werden diesen Punkt vorab mit der Gegenseite abstimmen. Frau [[person|Grigorova]] wird persönlich anwesend sein, Frau [[person|Puntigam]] erscheint nur, wenn der Richter die Buchhaltung vorgelegt haben möchte. Bitte bringen Sie alle Zahlungsbelege der letzten zwölf Monate mit, insbesondere jene über die Miete im Frühjahr 2026 und die Rechnungen des Malers.
 
 Bitte bestätigen Sie den Termin. Ihre Klienten-Nr. [[other_identifier|87362]] wird für die Korrespondenz benötigt, der Vorgang ist in unserem System unter dieser Nummer abgelegt.

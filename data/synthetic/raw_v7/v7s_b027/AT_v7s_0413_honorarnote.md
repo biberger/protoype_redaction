@@ -31,18 +31,21 @@ Datum        Leistung                                              Betrag EUR
 [[date|28.01.2026]]  Schreiben an [[person|Danusa Slezáková]]                 190,00
 [[date|05.02.2026]]  Besprechung mit [[person|Danusa Slezáková]], Telefonat   260,00
 [[date|17.02.2026]]  Entwurf Übergabeprotokoll, [[other_identifier|R-RSummereder/Schima]]   410,00
+[[date|24.02.2026]]  Besprechung mit [[person|Janika Summereder]] über Ablöse und Kaution   210,00
 
 Auslagen (ohne USt):
 
 [[date|19.01.2026]]  Grundbuchsabfrage, Liegenschaft des Geschäftslokals          18,20
 [[date|03.02.2026]]  Porto und Kopien, Schreiben an [[person|Danusa Slezáková]]     9,60
 
-Summe Honorar netto                                                        1.480,00
+Summe Honorar netto                                                        1.690,00
 Summe Auslagen                                                                27,80
-20 % USt auf Honorar                                                         296,00
-Gesamtbetrag                                                               1.803,80
+20 % USt auf Honorar                                                         338,00
+Gesamtbetrag                                                               2.055,80
 
-Die Honorare wurden nach dem [[legal_norm|RATG]] ermittelt. Die Auslagen sind in der tatsächlich angefallenen Höhe angesetzt.
+Die Honorare wurden nach dem [[legal_norm|RATG]] ermittelt. Die Auslagen sind in der tatsächlich angefallenen Höhe angesetzt. Die Umsatzsteuer ist gesondert ausgewiesen und entspricht dem Steuersatz von zwanzig Prozent für Rechtsberatung.
+
+Die Vertretung in der Angelegenheit ist mit der Übergabe des Geschäftslokals an [[person|Danusa Slezáková]] abgeschlossen. Eine weitere Verrechnung erfolgt nur nach gesonderter Beauftragung.
 
 Die Zahlung ist binnen 14 Tagen auf das Konto IBAN [[bank_account|AT49 6594 3911 3662 5298]] zu leisten. Bei Zahlungsverzug werden Verzugszinsen nach [[legal_norm|§ 1333 ABGB]] berechnet. Bitte geben Sie bei der Überweisung die GZ [[other_identifier|R-RSummereder/Schima]] an.
 

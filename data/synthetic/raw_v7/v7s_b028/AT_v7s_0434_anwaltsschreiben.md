@@ -47,6 +47,8 @@ Wir weisen darauf hin, dass unser Mandant während der Reparaturzeit auf einen M
 
 Die Zahlung ist nach unserer Kenntnis durch Ihre Versicherung noch nicht angewiesen. Wir ersuchen Sie daher, die Regulierung unverzüglich einzuleiten. Die Kosten des Mietwagens waren notwendig, weil unser Mandant auf das Fahrzeug für seine Arbeit angewiesen war.
 
+Die Gesellschaft hat den Unfall in ihrer Schadenmeldung vom [[date|18. August 2026]] selbst als unfallbedingt bezeichnet, was den Vorwurf des Mitverschuldens unseres Mandanten entkräftet. Wir ersuchen zudem um Mitteilung, ob Ihre Gesellschaft den Anspruch dem Grunde nach anerkennt. Eine Anerkennung würde die Abwicklung erheblich beschleunigen, weil die Höhe des Mietwagenaufwandes ohnehin durch die Rechnung des Vermieters belegt ist.
+
 Beilagen:
 ./1 Schadensaufstellung
 ./2 Kostenvoranschlag der Werkstatt

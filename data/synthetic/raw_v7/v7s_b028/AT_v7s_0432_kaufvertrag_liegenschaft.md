@@ -134,4 +134,10 @@ IX b. Schlussbemerkung zur Abwicklung
 
 Errichtet von der Kanzlei [[organization|Bettelheim]], [[location|St. Martin im Mühlkreis]].
 
+Die Kanzlei weist darauf hin, dass die Vertragsparteien bei Unklarheiten über die Grunderwerbsteuer die Auskunft des zuständigen Finanzamtes einholen sollten. Eine Haftung der Kanzlei für steuerliche Folgen des Kaufes wird nicht übernommen, soweit die Parteien eigene steuerliche Beratung in Anspruch nehmen können.
+
+Die Käufer bestätigen, dass ihnen die Grundbuchsauszüge und die Lagepläne vor Unterfertigung zur Verfügung gestanden sind. Sie haben insbesondere die Einträge im Lastenblatt zur Kenntnis genommen und wurden darauf hingewiesen, dass die Dienstbarkeiten auch gegenüber einem späteren Eigentümer wirken.
+
+Die Verkäuferin bestätigt, dass sie über die Pflicht zur Meldung des Veräußerungsvorgangs an das Finanzamt belehrt wurde und dass ihr keine Ansprüche Dritter auf die Liegenschaften bekannt sind.
+
 Kontakt für Rückfragen: Tel. [[phone_number|01 50045-97]]

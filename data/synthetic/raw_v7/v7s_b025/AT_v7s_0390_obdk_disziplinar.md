@@ -55,13 +55,13 @@ Datum | Vorgang | Betrag (EUR) | Treuhandnummer
 
 Die Auszahlung vom [[date|30.11.2024]] an die Mandantin erfolgte erst nach der Beschwerde der Mandantin bei der [[organization|KRAK]]. Die Zahlung der Ablöse an den Kreditgeber wurde nicht dokumentiert. Eine Zahlungsbestätigung der Bank oder des Kreditgebers liegt nicht vor, obwohl der Beschuldigte im Verfahren zur Vorlage aufgefordert wurde.
 
-Die [[organization|Dirnhofer]] hat im Verfahren eine Erklärung vorgelegt, wonach sie von einer Ablöse nichts wisse und keine Zahlung aus dem Treuhandkonto erhalten habe. Die Gesellschaft hat den Betrag von EUR 9.000,00 erst nach der Beschwerde der Mandantin erhalten, was die Buchung vom [[date|30.11.2024]] bestätigt.
+Die [[organization|Dirnhofer]] hat im Verfahren eine Erklärung vorgelegt, wonach sie von einer Ablöse nichts wisse. Den Betrag von EUR 9.000,00 habe sie erst nach der Beschwerde der Mandantin erhalten, was die Buchung vom [[date|30.11.2024]] bestätigt.
 
 III. Beweiswürdigung
 
 Der Senat hat die Mandantin [[person|Vreni Nestler]] einvernommen. Sie gab an, sie habe den Betrag erst nach ihrer Beschwerde vollständig erhalten. Die Buchungsübersicht bestätigt diese Angaben.
 
-Die Angaben der Mandantin werden durch den Schriftverkehr mit der Bank gestützt, der zeigt, dass die Ablöse nie beantragt wurde. Der Senat hat die Wirtschaftsprüferin der Kammer ergänzend gehört, die bestätigte, dass auf dem Treuhandkonto im Zeitraum von April 2019 bis Dezember 2024 kein Betrag zur Ablöse eines Kredits verbucht ist.
+Die Angaben der Mandantin werden durch den Schriftverkehr mit der Bank gestützt, der zeigt, dass die Ablöse nie beantragt wurde. Der Senat hat die Wirtschaftsprüferin der Kammer ergänzend gehört, die bestätigte, dass der Betrag von EUR 9.800,00 vom [[date|08.04.2019]] nicht an einen Kreditgeber, sondern auf ein Konto einer dritten Person überwiesen wurde.
 
 Der Beschuldigte hat vorgebracht, die Ablöse sei mit der Mandantin besprochen gewesen. Diese Behauptung ist widerlegt, weil die Mandantin an der Besprechung nicht teilgenommen hat und die Ablöse nicht schriftlich vereinbart war.
 

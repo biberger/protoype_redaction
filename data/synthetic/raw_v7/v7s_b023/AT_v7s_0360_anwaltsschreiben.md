@@ -55,7 +55,7 @@ Der Hergang wurde zudem am Unfallort fotografisch festgehalten, die Aufnahmen we
 
 Ergänzend weisen wir darauf hin, dass die Prämie Ihrer Haftpflichtversicherung nicht Gegenstand dieses Schreibens ist. Wir ersuchen jedoch um Weiterleitung an Ihren Versicherer.
 
-Wir bitten um Bestätigung des Eingangs und um eine Stellungnahme bis zum angeführten Datum.
+Für Rückfragen stehen wir gerne zur Verfügung. Wir bitten um Bestätigung des Eingangs und um eine Stellungnahme bis zum angeführten Datum.
 
 Mit freundlichen Grüßen
 
