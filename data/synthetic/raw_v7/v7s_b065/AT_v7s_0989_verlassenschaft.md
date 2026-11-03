@@ -37,6 +37,8 @@ Die Erbberechtigten sind wie folgt berufen:
 
 Die Quoten ergeben zusammen die Gesamtheit des Nachlasses. Die Erbberechtigten haben erklärt, die Erbschaft ohne Vorbehalt anzunehmen.
 
+Die Erblasserin war bis zu ihrem Ruhestand im Jahr 2011 als Buchhalterin in [[location|Wien]] tätig; sie hinterließ kein Vermögen außerhalb des oben angeführten Nachlasses. Die Erbberechtigten haben eine Erbserklärung abgegeben, die dem Protokoll angeschlossen ist. Die Frist zur Erbantrittserklärung wurde mehrfach verlängert, zuletzt bis zum [[date|30.09.2026]].
+
 II. Gläubiger
 
 1. [[person|Mila Holt]], Geburtsdatum: [[date_of_birth|25. September 1944]], Staatsangehörige von [[country|Deutschland]], Forderung aus einem Darlehen, EUR 4.820,00;
@@ -69,6 +71,8 @@ Der Gerichtskommissär hält fest, dass das Testament der Erblasserin vom [[date
 Der Vertrag über die Lebensversicherung wurde mit dem Versicherungsnehmer abgerechnet; der Rückkaufswert fließt in den Nachlass. Herr [[person|Magg]] hat die Liegenschaft besichtigt und die Betriebskosten bis zur Übergabe an die Erbengemeinschaft vorgeschossen.
 
 Frau [[person|Aboud]] hat angezeigt, dass sie auf ihren Anteil an der Liegenschaft zugunsten von Herrn [[person|Alge]] verzichten möchte. Dieser Verzicht bedarf noch der Zustimmung der übrigen Erben. Der Gerichtskommissär wird die Zustimmung in einer gesonderten Verhandlung einholen.
+
+Die Erbberechtigten haben am [[date|11.09.2026]] eine Vereinbarung über die gemeinsame Verwaltung der Liegenschaft unterzeichnet. Die Vereinbarung sieht vor, dass die Liegenschaft nicht verkauft, sondern bis zum Ablauf des Jahres 2027 gemeinsam verwaltet wird. Die Mieterlöse einer künftigen Vermietung sind nach dem Verhältnis der Quoten aufzuteilen; Instandhaltungskosten über EUR 1.500,00 bedürfen der Zustimmung aller Erbberechtigten.
 
 Die Kosten der Verlassenschaftsabhandlung trägt der Nachlass. Eine Einantwortung kann nach Vorliegen der Zustimmung erfolgen.
 

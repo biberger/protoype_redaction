@@ -25,7 +25,7 @@ Protokollführerin: [[person|Katy Helbok]]
 
 Beschuldigter: [[lawyer|Flaminio Giudici]], Rechtsanwalt mit Kanzlei in [[location|St. Martin im Mühlkreis]]
 
-Die Protokollführerin hat die Anwesenheit der Mitglieder festgehalten. Die Senatsmitglieder erklärten, dass keine Ausschließungsgründe vorliegen. Die Vorsitzende stellte fest, dass die Anschuldigungsschrift den Beschuldigten rechtzeitig zugestellt wurde. Die Verhandlung wurde auf Antrag der Kammeranwältin öffentlich geführt.
+Die Protokollführerin hat die Anwesenheit der Mitglieder festgehalten. Die Senatsmitglieder erklärten, dass keine Ausschließungsgründe vorliegen. Der Vorsitzende [[judge|MMag. Arrie Hagleitner]] stellte fest, dass die Anschuldigungsschrift den Beschuldigten rechtzeitig zugestellt wurde. Die Verhandlung wurde auf Antrag der Kammeranwältin öffentlich geführt.
 
 Die Beisitzerin [[judge|Dr. Gretel Mayer]] besitzt die Staatsangehörigkeit [[country|Ukraine]] und hat dem Senat ihre Ernennungsurkunde vorgelegt. Der Senat hat dazu keine Bedenken geäußert, da die Mitglieder nach dem Gesetz nicht aus einem bestimmten Land stammen müssen und die Ernennung vom Präsidenten der Kammer bestätigt ist.
 
@@ -50,6 +50,12 @@ Beweiswürdigung
 Der Senat stützt seine Feststellungen auf die Kontoauszüge, das Treuhandbuch der Kanzlei und die Angaben der Zeugen. Der Beschuldigte [[lawyer|Giudici]] hat die verspätete Auszahlung eingeräumt, nicht aber den Vorwurf, die Mittel vorsätzlich zurückgehalten zu haben.
 
 Die Kammeranwältin [[lawyer|Sinagra]] hat in der Verhandlung darauf hingewiesen, dass der Beschuldigte die Buchungen erst nach der Kanzleiprüfung korrigiert hat. Der Senat hat diesen Umstand bei der Strafzumessung berücksichtigt.
+
+Der Beschuldigte hat in der Berufungsverhandlung ausführlich dargelegt, dass er die Treuhandschaft übernommen habe, nachdem der bisherige Vertreter der Verkäuferin verstorben sei. Die Verkäuferin habe ihn gebeten, die Abwicklung fortzuführen, und der Notar habe die Übergabe der Urkunden an die Kanzlei bestätigt. Der Senat hält diesen Hintergrund für glaubhaft, sieht darin jedoch keine Rechtfertigung für die Auszahlung ohne Anweisung des Klienten.
+
+Die Klientin [[person|Laleh Faruqi]] hat in der Verhandlung ergänzt, dass sie erst durch ein Schreiben der Kammer von der offenen Restforderung erfahren habe. Ihre Angaben decken sich mit dem Schriftverkehr, der dem Senat vorgelegt wurde. Die Verzögerung bei der Rückzahlung betraf einen Betrag von EUR 2.600,00 und wurde im Berufungsverfahren nicht bestritten.
+
+Der Senat hat zudem geprüft, ob die Kanzleiprüfung ordnungsgemäß durchgeführt wurde. Die Prüfer haben die Kontoauszüge für den gesamten Zeitraum angefordert und die Buchungen mit den Klientenakten abgeglichen. Verfahrensrügen wurden in der Berufung nicht erhoben.
 
 Rechtliche Beurteilung
 

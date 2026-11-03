@@ -16,7 +16,6 @@ Der [[court|Disziplinarrat der Rechtsanwaltskammer Wien]] hat durch den Senat in
 Vorsitz: Senatspräsident [[judge|Pirmin Reitmaier]], geb [[date_of_birth|21.03.1936]]
 Beisitzer: [[judge|Mag. Jacob Heiß]]
 Beisitzer: [[judge|MMag. Marco Grab]], StA: [[country|Afghanistan]]
-Beisitzerin: [[judge|Dipl.-Ing. Heriberta Prodinger]]
 Kammeranwältin: [[person|DI Ulli Amonn]]
 Schriftführerin: [[person|Heriberta Prodinger]]
 
@@ -48,7 +47,7 @@ Die Beschuldigte erklärte, die Überweisung sei zur Deckung einer offenen Honor
 
 Auf dem Anderkonto befanden sich zum Zeitpunkt der Überweisung weitere Treuhandschaften mit den Nummern [[other_identifier|2022/091]] und [[other_identifier|2023/012]]. Diese waren nicht betroffen.
 
-Die Kontoführung der Kanzlei wurde im Rahmen einer Prüfung der [[organization|RAK]] am [[date|02.06.2025]] überprüft. Die Prüferin [[person|Heriberta Prodinger]] hielt fest, dass das Anderkonto nicht vollständig dokumentiert war.
+Die Kontoführung der Kanzlei wurde im Rahmen einer Prüfung der [[organization|RAK]] am [[date|02.06.2025]] überprüft. Die Prüferin [[person|Gisela Wurzinger]] hielt fest, dass das Anderkonto nicht vollständig dokumentiert war.
 
 III. Beweiswürdigung
 
