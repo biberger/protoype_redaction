@@ -41,7 +41,7 @@ Datum | Beschreibung | Betrag
 [[date|5. Mai 2026]] | Anzahlung | EUR 40.000,00
 [[date|1. August 2026]] | Restkaufpreis gegen Übergabe | EUR 160.000,00
 
-Die Zahlung erfolgt auf das Treuhandkonto IBAN [[bank_account|AT28 9023 3327 1003 6774]]. Die Abwicklung erfolgt über das Treuhandbuch, Treuhandbuch-Nr. [[other_identifier|2022/540]].
+Die Zahlung erfolgt auf das Treuhandkonto IBAN [[bank_account|AT81 0917 8416 0451 9796]]. Die Abwicklung erfolgt über das Treuhandbuch, Treuhandbuch-Nr. [[other_identifier|2022/540]].
 
 III. Lastenfreistellung
 
@@ -58,6 +58,10 @@ Die Verkäuferinnen erklären die Aufsandung des Eigentums zugunsten der Käufer
 VI. Schlussbestimmungen
 
 Änderungen dieses Vertrages bedürfen der Schriftform. Mündliche Nebenabreden bestehen nicht. Die Parteien erhalten je eine Ausfertigung.
+
+Die Verkäuferinnen leisten Gewähr für die Richtigkeit der Angaben zur Fläche und zur Bebauung. Ein Ausschluss der Gewährleistung für verdeckte Mängel gilt nur, soweit er gesetzlich zulässig ist.
+
+Die Übergabe erfolgt mit der Zahlung des Restkaufpreises. Nutzen und Lasten gehen mit dem Übergabestichtag auf die Käuferin über. Die Verkäuferinnen übergeben die Liegenschaften geräumt, soweit nicht anders vereinbart.
 
 Ausgefertigt in [[location|Arriach]], am [[date|10. März 2026]].
 

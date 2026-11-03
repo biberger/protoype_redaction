@@ -64,6 +64,14 @@ Ein Teil des Vorwurfs bezieht sich auf die Zeit vor dem [[date|31.12.2024]]. Die
 
 Im Verfahren, in dem die [[country|Republik Österreich]] als Beklagte auftrat, hatte die [[organization|Almtal]] denselben Vertrag vorgelegt. Die Vorlage hat keinen Einfluss auf die Entscheidung.
 
+**Rechtliche Würdigung**
+
+Die Verwaltungstätigkeit der Beschuldigten war über weite Strecken ordnungsgemäß. Die Verantwortung der Beschuldigten, sie habe die Gutschrift wegen einer Systemumstellung verschoben, ist jedoch durch die Protokolle nicht gestützt. Die Systemumstellung der [[organization|Almtal]] wurde erst im September 2025 durchgeführt, also nach dem Zeitraum der Verzögerung.
+
+Der Senat hat die Schwere der Pflichtverletzung nach der Dauer und der wirtschaftlichen Auswirkung auf die Anzeigerin bemessen. [[person|Knozer]] hatte in der Zeit der Verzögerung keine Möglichkeit, die Gelder anderweitig zu nutzen; der Schaden war gering, aber nicht unerheblich.
+
+Die Stellung der Beschuldigten als Gesellschafterin ist ein Umstand, der nach der Übertragung der Anteile am [[date|31.12.2024]] nicht mehr zu ihren Lasten berücksichtigt wird. Die [[organization|HVO]] hat dies in ihrer Stellungnahme ausdrücklich klargestellt.
+
 **Spruch**
 
 Die Beschuldigte wird schuldig erkannt, die Gutschrift an die Anzeigerin pflichtwidrig verzögert zu haben. Sie wird mit einer Geldbuße belegt. Die Kosten des Verfahrens trägt die Beschuldigte.

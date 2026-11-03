@@ -68,6 +68,16 @@ V. Schlussbestimmungen
 
 Die Kosten der Urkunde trägt der Käufer. Änderungen bedürfen der Schriftform. Mündliche Nebenabreden bestehen nicht.
 
+Die Vertragsteile nehmen zur Kenntnis, dass für den Erwerb der Liegenschaft Grunderwerbsteuer nach dem [[legal_norm|Grunderwerbsteuergesetz]] anfällt. Die Steuer wird aus dem Kaufpreis entrichtet; die Anzeige erfolgt durch die Vertragsverfasserin.
+
+Die Verkäuferinnen leisten Gewähr für die Richtigkeit der Angaben zur Fläche und zur Bebauung. Ein Ausschluss der Gewährleistung für verdeckte Mängel gilt nur, soweit er gesetzlich zulässig ist.
+
+Die Vertragsparteien erteilen der Vertragsverfasserin Vollmacht, alle für die Durchführung des Vertrages erforderlichen Erklärungen abzugeben und Eintragungen zu beantragen.
+
+Die Parteien stimmen zu, dass ihre personenbezogenen Daten für die Abwicklung dieses Vertrages verarbeitet werden, soweit dies zur Erfüllung der gesetzlichen Pflichten der Vertragsverfasserin erforderlich ist.
+
+Die Kosten der Errichtung des Vertrages tragen Käufer und Verkäuferinnen je zur Hälfte, sofern nicht anders vereinbart. Für Rückfragen zur Abwicklung ist die Kanzlei unter Tel. [[phone_number|0512/5621409 Kl. 35]] erreichbar.
+
 Ausgefertigt in [[location|Altaussee]], am [[date|8. April 2026]].
 
 Verkäuferin: [[person|Antje Wunsch]]

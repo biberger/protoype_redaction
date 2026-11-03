@@ -14,6 +14,21 @@ ERV-Code: [[other_identifier|R612531]]
 
 Betreff: Miteigentum, Einlagezahl [[land_register_id|1120]] / Katastralgemeinde [[land_register_id|61267 Parndorf]]; [[land_register_id|KG 87575 Feldkirchen an der Donau]], [[land_register_id|EZ 2386]]
 
+Von: [[person|Dr. German Nabl]] <[[email|g.nabl@nabl-mail.at]]>
+Gesendet: Mittwoch, [[date|19. Februar 2025]] 08:10
+An: [[person|Horvat]]
+Betreff: AW: AW: Teilungsvereinbarung
+
+Sehr geehrte Frau [[person|Dr. Horvat]],
+
+ich habe die Abrechnung der [[organization|Zeman KG]] geprüft. Die Pacht für das Jahr 2024 wurde nicht vollständig berechnet; ich verlange eine Korrektur bis [[date|3. März 2025]]. Die Berechnungsgrundlage ist die Liegenschaft [[land_register_id|EZ 2386]], auf die sich die Pacht bezieht.
+
+Ich bin mit der Teilung in der vorliegenden Form nicht einverstanden. Ich ersuche um eine Besprechung in Ihrer Kanzlei. Meine Telefonnummer ist [[phone_number|0463 2145 33]].
+
+Mit freundlichen Grüßen
+[[person|Dr. German Nabl]]
+
+-----Ursprüngliche Nachricht-----
 Von: [[person|Horvat]] <[[email|horvat@schulz.at]]>
 Gesendet: Montag, [[date|17. Februar 2025]] 09:58
 An: [[person|Dr. German Nabl]] <[[email|g.nabl@nabl-mail.at]]>
@@ -48,6 +63,25 @@ ich bin Miteigentümer der Liegenschaft und bitte um Prüfung der Teilung. Mein 
 
 Mit freundlichen Grüßen
 [[person|Dr. German Nabl]]
+
+-----Ursprüngliche Nachricht-----
+Von: [[person|Horvat]] <[[email|horvat@schulz.at]]>
+Gesendet: Dienstag, [[date|11. Februar 2025]] 14:02
+An: [[person|Dr. German Nabl]]
+Betreff: Pachtabrechnung
+
+Sehr geehrter Herr [[person|Dr. Nabl]],
+
+die Pacht wurde nach dem Pachtvertrag vom [[date|1. Juni 2016]] berechnet. Die Zahlung für das Jahr 2024 ist in der Abrechnung nicht enthalten. Wir ersuchen um Stellungnahme. Gemäß [[legal_norm|§ 1091 ABGB]] iVm [[legal_norm|§ 1098 ABGB]] ist der Pachtzins zu entrichten, sofern keine Stundung vereinbart wurde.
+
+Datum | Leistung | Betrag
+[[date|1. Jänner 2024]] | Pachtzins Quartal I | EUR 1.150,00
+[[date|1. April 2024]] | Pachtzins Quartal II | EUR 1.150,00
+[[date|1. Juli 2024]] | Pachtzins Quartal III | EUR 1.150,00
+[[date|1. Oktober 2024]] | Pachtzins Quartal IV | EUR 1.150,00
+
+Mit freundlichen Grüßen
+[[person|Horvat]]
 
 -----Ursprüngliche Nachricht-----
 Von: [[person|Stergianoula Passalis]] <[[email|s.passalis@passalis-post.at]]>
@@ -135,3 +169,17 @@ anbei die Unterlagen. Geburtsdatum: [[date_of_birth|23.03.1995]]. Die Anschrift 
 
 Mit freundlichen Grüßen
 [[person|Brunhild Burgstaller]]
+
+
+-----Ursprüngliche Nachricht-----
+Von: [[person|Rupp]] <[[email|rupp@schulz.at]]>
+Gesendet: Dienstag, [[date|21. Januar 2025]] 10:33
+An: [[person|Brunhild Burgstaller]]
+Betreff: Grundbuchauszug
+
+Sehr geehrte Frau [[person|Burgstaller]],
+
+anbei übermittle ich den aktuellen Grundbuchauszug. Die Eintragung des Miteigentums erfolgte am [[date|12. Dezember 2018]]. Die Einlagezahl und die Katastralgemeinde sind dem Auszug zu entnehmen.
+
+Mit freundlichen Grüßen
+[[person|Rupp]]

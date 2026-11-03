@@ -85,6 +85,18 @@ Kanzlei Zingerle
 Tel.: [[phone_number|+43-316-2226915 Kl. 67]]  Fax: [[phone_number|+43 463 124 95 31 Durchwahl 94]]
 E-Mail: [[email|office@zingerle.at]]
 
+Die Übergabe erfolgt mit der Zahlung des Restkaufpreises. Nutzen und Lasten gehen mit dem Übergabestichtag auf den Käufer über. Die Verkäufer übergeben die Liegenschaft geräumt, soweit nicht anders vereinbart.
+
+Die Verkäufer verpflichten sich, alle nicht übernommenen Pfandrechte und Dienstbarkeiten bis zur Übergabe löschen zu lassen. Soweit Belastungen nicht rechtzeitig gelöscht werden können, ist der entsprechende Betrag vom Kaufpreis einzubehalten und auf dem Treuhandkonto zu verwahren, bis die Löschung vorliegt.
+
+Die Verkäufer leisten Gewähr für die Richtigkeit der Angaben zur Fläche und zur Bebauung. Ein Ausschluss der Gewährleistung für verdeckte Mängel gilt nur, soweit er gesetzlich zulässig ist.
+
+Salvatorische Klausel: Sollte eine Bestimmung dieses Vertrages unwirksam sein, berührt dies die übrigen Bestimmungen nicht. Die Parteien ersetzen die unwirksame Bestimmung durch eine wirksame, die dem wirtschaftlichen Zweck am nächsten kommt.
+
+Die Kosten der Errichtung des Vertrages tragen Käufer und Verkäufer je zur Hälfte, sofern nicht anders vereinbart. Die Kosten der Löschung von Pfandrechten trägt der Verkäufer.
+
+Auf diesen Vertrag ist österreichisches Recht anzuwenden. Für Streitigkeiten aus diesem Vertrag ist das sachlich und örtlich zuständige Gericht am Sitz der Liegenschaft zuständig, soweit kein zwingender Gerichtsstand entgegensteht.
+
 Ausgefertigt in [[location|Frauenkirchen]], am [[date|18. März 2026]].
 
 Verkäufer: [[person|Mansur Umran]]

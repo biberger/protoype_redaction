@@ -79,6 +79,14 @@ Der Beschuldigte hat in seiner Stellungnahme vom [[date|02.07.2024]] erklärt, d
 
 Ob der Beschuldigte die [[organization|Liska]] über die Zahlungen informiert hat, wurde im Verfahren nicht abschließend geklärt. Der Senat geht zugunsten des Beschuldigten davon aus, dass eine mündliche Information erfolgte. Dies ändert nichts am Vorwurf der fehlenden Abrechnung.
 
+**Rechtliche Würdigung der Zahlungen**
+
+Die Zahlungen vom [[date|04.02.2023]] und vom [[date|23.09.2023]] wurden von der [[organization|Liska]] unterschiedlich verbucht. Die Verbuchung als Honorar war nicht vom Auftrag gedeckt, weil ein Honorar nach dem Vertrag erst nach Abschluss des Teilvergleichs fällig war. Der Senat hat daher die Honorarentnahme vom [[date|23.09.2023]] als unzulässig gewertet.
+
+Die Rückzahlung an [[person|Hack]] vom [[date|14.01.2024]] erfolgte verspätet und nur in Teilbeträgen. Der Beschuldigte hat die verspätete Rückzahlung eingeräumt. Die Verzögerung wurde im Strafmaß berücksichtigt.
+
+Die Vorwürfe betreffend die Liegenschaft [[land_register_id|2085/Mühlbachl]] wurden nicht weiter verfolgt, weil die Zuständigkeit des [[court|BG Hietzing]] nicht geklärt war. Insoweit wird das Verfahren eingestellt.
+
 **Spruch**
 
 Der Berufung wird teilweise Folge gegeben. Die Geldbuße wird auf 4.000 Euro herabgesetzt. Im Übrigen wird die Berufung abgewiesen.

@@ -78,6 +78,16 @@ Kontakt der Kanzlei: Tel. [[phone_number|+43-662-2725933 Kl. 59]]. Schadensmeldu
 
 Die Vertragsparteien bestätigen die Richtigkeit der Angaben und erhalten je eine Ausfertigung.
 
+Die Vertragsteile nehmen zur Kenntnis, dass für den Erwerb der Liegenschaften Grunderwerbsteuer nach dem [[legal_norm|Grunderwerbsteuergesetz]] anfällt. Die Steuer wird aus dem Kaufpreis entrichtet; die Anzeige erfolgt durch die Vertragsverfasserin.
+
+Die Verkäufer verpflichten sich, alle nicht übernommenen Pfandrechte und Dienstbarkeiten bis zur Übergabe löschen zu lassen. Soweit Belastungen nicht rechtzeitig gelöscht werden können, ist der entsprechende Betrag vom Kaufpreis einzubehalten und auf dem Treuhandkonto zu verwahren.
+
+Die Vertragsparteien erteilen der Vertragsverfasserin Vollmacht, alle für die Durchführung des Vertrages erforderlichen Erklärungen abzugeben und Eintragungen zu beantragen. Die Vollmacht erlischt mit der Durchführung der Eintragungen.
+
+Sollte eine Bestimmung dieses Vertrages unwirksam sein, berührt dies die übrigen Bestimmungen nicht. Die Parteien ersetzen die unwirksame Bestimmung durch eine wirksame, die dem wirtschaftlichen Zweck am nächsten kommt.
+
+Die Kosten der Errichtung des Vertrages tragen Käufer und Verkäufer je zur Hälfte. Die Kosten der Löschung von Pfandrechten trägt die Verkäuferseite.
+
 Ausgefertigt in [[location|Salla]], am [[date|5. Februar 2026]].
 
 Verkäufer: [[person|Mayer Wollner]]

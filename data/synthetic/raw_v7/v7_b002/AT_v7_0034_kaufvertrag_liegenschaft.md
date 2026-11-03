@@ -65,6 +65,20 @@ VI. Schlussbestimmungen
 
 Änderungen dieses Vertrages bedürfen der Schriftform. Die Vertragsparteien erhalten je eine Ausfertigung.
 
+Die Vertragsteile nehmen zur Kenntnis, dass für den Erwerb der Liegenschaft Grunderwerbsteuer nach dem [[legal_norm|Grunderwerbsteuergesetz]] anfällt. Die Steuer wird aus dem Kaufpreis entrichtet; die Anzeige an das Finanzamt erfolgt durch die Vertragsverfasserin. Die Kosten der Eintragung im Grundbuch trägt die Käuferin.
+
+Die Verkäufer verpflichten sich, alle nicht übernommenen Pfandrechte und Dienstbarkeiten bis zur Übergabe löschen zu lassen. Soweit Belastungen nicht rechtzeitig gelöscht werden können, ist der entsprechende Betrag vom Kaufpreis einzubehalten und auf dem Treuhandkonto zu verwahren, bis die Löschung vorliegt.
+
+Die Übergabe erfolgt mit der Zahlung des Restkaufpreises. Nutzen und Lasten gehen mit dem Übergabestichtag auf die Käuferin über. Die Verkäufer übergeben die Liegenschaft geräumt, soweit nicht anders vereinbart.
+
+Die Verkäufer leisten Gewähr für die Richtigkeit der Angaben zur Fläche und zur Bebauung. Ein Ausschluss der Gewährleistung für verdeckte Mängel gilt nur, soweit er gesetzlich zulässig ist. Eine Haftung für Schäden aus Umständen, die die Käuferin bei der Besichtigung kannte, ist ausgeschlossen.
+
+Die Vertragsparteien erteilen der Vertragsverfasserin Vollmacht, alle für die Durchführung des Vertrages erforderlichen Erklärungen abzugeben und Eintragungen zu beantragen. Die Vollmacht erlischt mit der Durchführung der Eintragung im Grundbuch.
+
+Auf diesen Vertrag ist österreichisches Recht anzuwenden. Für Streitigkeiten aus diesem Vertrag ist das sachlich und örtlich zuständige Gericht am Sitz der Liegenschaft zuständig, soweit kein zwingender Gerichtsstand entgegensteht.
+
+Die Parteien stimmen zu, dass ihre personenbezogenen Daten für die Abwicklung dieses Vertrages verarbeitet werden, soweit dies zur Erfüllung der gesetzlichen Pflichten der Vertragsverfasserin erforderlich ist.
+
 Ausgefertigt in [[location|Abfaltersbach]], am [[date|12. März 2026]].
 
 Verkäufer: [[person|Karlmann Puntigam]]
