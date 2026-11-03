@@ -19,7 +19,7 @@ Die Angelegenheit betraf die Verwahrung von Geldern für die [[organization|Schw
 
 Die Einlagezahl [[land_register_id|1348]] / [[land_register_id|KG 73610 Bad Sauerbrunn]] ([[court|BG Perg]]) bildete den Hintergrund des Vorgangs. Die Vertragsnummer [[other_identifier|KV-2021-60893]] wurde bei allen Schreiben angegeben.
 
-Die Kanzlei des Beschuldigten war unter Tel. [[phone_number|02622/6801740 DW 876]] erreichbar. Die Zustellung erfolgte an [[address|4160 Schlägl]]. Das Verfahren vor dem [[court|Bezirksgericht Wiener Neustadt]] / later abbreviated [[court|BG Wiener Neustadt]] war zeitlich vorgelagert.
+Die Kanzlei des Beschuldigten war unter Tel. [[phone_number|02622/6801740 DW 876]] erreichbar. Die Zustellung erfolgte an [[address|4160 Schlägl]]. Das Verfahren vor dem [[court|Bezirksgericht Wiener Neustadt]] / [[court|BG Wiener Neustadt]] war zeitlich vorgelagert.
 
 Die Verwahrung erfolgte auf dem Konto [[bank_account|AT25 2831 7678 9455 9664]]. Am [[date|07.03.2024]] wurde ein Betrag von 9.000 Euro abgebucht, ohne dass ein Auftrag der [[organization|Schwaiger]] vorlag.
 

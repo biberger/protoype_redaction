@@ -38,7 +38,7 @@ Datum | Vorgang | Betrag
 
 Die Gelder wurden über das Konto [[bank_account|AT29 5236 5796 5205 0009]] geführt. Der Beschuldigte bestritt, die Honorarzahlung vom [[date|06.05.2024]] gebucht zu haben. Die Buchungsbestätigung stammt jedoch von seinem Konto.
 
-Das Verfahren vor dem [[court|Bezirksgericht Lilienfeld]] / later abbreviated [[court|BG Lilienfeld]] betraf eine Räumungsklage. Die Katastralgemeinde [[land_register_id|99150]] / [[land_register_id|EZ 368]] Grundstück [[land_register_id|328/12]] war Gegenstand des Vergleichs.
+Das Verfahren vor dem [[court|Bezirksgericht Lilienfeld]] / [[court|BG Lilienfeld]] betraf eine Räumungsklage. Die Katastralgemeinde [[land_register_id|99150]] / [[land_register_id|EZ 368]] Grundstück [[land_register_id|328/12]] war Gegenstand des Vergleichs.
 
 Die Anzeigerin war unter Tel. [[phone_number|05572 76945 Kl. 26]] erreichbar. Sie gab an, dass [[person|Rodler]] ihr am [[date|23.05.2024]] telefonisch zusicherte, die Auszahlung sei vorgemerkt.
 

@@ -30,7 +30,7 @@ Datum | Vorgang | Betrag
 
 Die Zeugin [[person|Tagliabue]] stellte fest, dass die Abrechnung unvollständig ist. Der Beschuldigte [[person|Haqqani]] bestritt dies. [[person|Eppel]] gab an, er habe die Zahlung am [[date|02.05.2024]] nicht erhalten.
 
-Der Vorgang spielte im Verfahren vor dem [[court|Bezirksgericht Hollabrunn]] / later abbreviated [[court|BG Hollabrunn]] eine Rolle. Die Akten wurden am [[date|11.09.2024]] übermittelt.
+Der Vorgang spielte im Verfahren vor dem [[court|Bezirksgericht Hollabrunn]] / [[court|BG Hollabrunn]] eine Rolle. Die Akten wurden am [[date|11.09.2024]] übermittelt.
 
 **Rechtliche Beurteilung**
 

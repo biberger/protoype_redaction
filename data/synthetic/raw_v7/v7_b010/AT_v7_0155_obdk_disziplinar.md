@@ -25,7 +25,7 @@ Mandantin: [[person|Renata Taubes]], geb. [[date_of_birth|10. Oktober 1972]]
 
 **Sachverhalt**
 
-Die Beschwerdeführerin rügt, dass [[person|Pinter]] im Verfahren vor dem [[court|Landesgericht Klagenfurt]] / later abbreviated [[court|LG Klagenfurt]] die Mandantschaft nicht ordnungsgemäß informiert hat. Gegenstand war die Liegenschaft [[land_register_id|495/Leobersdorf]] und das Grundstück [[land_register_id|K.G. 24895 Stolzalpe]]/Einlagezahl [[land_register_id|2948]] ([[court|BG Deutschlandsberg]]).
+Die Beschwerdeführerin rügt, dass [[person|Pinter]] im Verfahren vor dem [[court|Landesgericht Klagenfurt]] / [[court|LG Klagenfurt]] die Mandantschaft nicht ordnungsgemäß informiert hat. Gegenstand war die Liegenschaft [[land_register_id|495/Leobersdorf]] und das Grundstück [[land_register_id|K.G. 24895 Stolzalpe]]/Einlagezahl [[land_register_id|2948]] ([[court|BG Deutschlandsberg]]).
 
 Die [[organization|Porsch Bau GmbH]], [[company_register_number|FN 388916k]], UID: [[tax_id|ATU18494939]], war Auftraggeberin. Die [[organization|Porsch]] bestritt die Forderung vollständig. Die Forderung betrug nach Angaben der [[organization|Porsch]] rund 84.000 Euro.
 

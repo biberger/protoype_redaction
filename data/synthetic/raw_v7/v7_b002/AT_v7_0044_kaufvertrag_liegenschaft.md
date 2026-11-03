@@ -64,6 +64,8 @@ Auf diesen Vertrag ist österreichisches Recht anzuwenden. Für Streitigkeiten a
 
 Die Kosten der Errichtung des Vertrages tragen Käufer und Verkäuferin je zur Hälfte, sofern nicht anders vereinbart. Die Kosten der Löschung von Pfandrechten trägt die Verkäuferin.
 
+Die Käuferinnen und der Käufer bestätigen, dass ihnen der Bebauungsplan der Gemeinde bekannt ist. Die Kosten für Vermessung und Teilung des Grundstücks trägt die Verkäuferin, soweit eine Teilung erforderlich wird. Eine Nachzahlung wegen Änderung der Flächenangaben ist ausgeschlossen, sofern die Abweichung unter drei Prozent bleibt.
+
 Ausgefertigt in [[location|Kundl]], am [[date|2. April 2026]].
 
 Verkäuferin: [[person|Hildburg Matzke]]

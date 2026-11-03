@@ -42,5 +42,5 @@ Beilagen: ./A Werkvertrag vom [[date|18.11.2024]]; ./B Schlussrechnung vom [[dat
 
 [[location|Wien]], am [[date|02.06.2026]]
 
-[[person|Neurath]]
+[[lawyer|Neurath]]
 Rechtsanwalt

@@ -40,6 +40,8 @@ Die Liegenschaft liegt in der Gemeinde [[location|St. Anton am Arlberg]]. Für R
 
 Der Verkäufer und die Käufer bestätigen die Richtigkeit dieser Angaben.
 
+Die Käufer erklären, dass keine Ansprüche aus früheren Verträgen über dieselben Liegenschaften bestehen. Die Verkäufer bestätigen, dass die Grundstücke frei von Vorkaufsrechten Dritter sind. Die Kosten der Vertragserrichtung tragen die Parteien zu gleichen Teilen.
+
 Ausgefertigt in [[location|Feldkirchen an der Donau]], am [[date|25. Jänner 2026]].
 
 Verkäufer: [[person|Gundolf Foidl]]

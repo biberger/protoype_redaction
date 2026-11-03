@@ -51,6 +51,8 @@ Die Verkäuferin verpflichtet sich, alle nicht übernommenen Pfandrechte und Die
 
 Sollte eine Bestimmung dieses Vertrages unwirksam sein, berührt dies die übrigen Bestimmungen nicht. Die Parteien ersetzen die unwirksame Bestimmung durch eine wirksame, die dem wirtschaftlichen Zweck am nächsten kommt.
 
+Die Käuferin und der Käufer bestätigen, dass sie die Liegenschaft besichtigt haben. Die Verkäuferin übernimmt die Kosten der Entsorgung von Bauschutt, der sich auf dem Grundstück befindet. Der Käufer verzichtet auf Ansprüche wegen sichtbarer Mängel, die bei der Besichtigung festgestellt wurden. Die Kanzlei führt das Treuhandbuch bis zur Grundbuchseintragung.
+
 Ausgefertigt in [[location|Mooskirchen]], am [[date|10. März 2026]].
 
 Verkäuferin: [[person|Bronislawa Schlegel]]

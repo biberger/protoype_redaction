@@ -21,7 +21,7 @@ Anzeigerin: [[person|Clodia Knozer]], *[[date_of_birth|13. September 1985]], SVN
 
 **Sachverhalt**
 
-Die Beschuldigte war als Verwalterin für die [[organization|Almtal Hausverwaltung GmbH]] tätig. Die Verwaltungsakten lagen beim [[court|Bezirksgericht Vöcklabruck]] / later abbreviated [[court|BG Vöcklabruck]]. Die [[organization|Almtal]] verwaltete mehrere Wohnanlagen. Die Anzeigerin war Mieterin in einer dieser Anlagen.
+Die Beschuldigte war als Verwalterin für die [[organization|Almtal Hausverwaltung GmbH]] tätig. Die Verwaltungsakten lagen beim [[court|Bezirksgericht Vöcklabruck]] / [[court|BG Vöcklabruck]]. Die [[organization|Almtal]] verwaltete mehrere Wohnanlagen. Die Anzeigerin war Mieterin in einer dieser Anlagen.
 
 Die Liegenschaft [[land_register_id|KG 24374]]/[[land_register_id|EZ2630]] Grundstück [[land_register_id|575]] war Gegenstand des Verwaltungsvertrags. Ein weiteres Objekt lag in [[land_register_id|EZ 58]], [[land_register_id|KG 80708 Langenzersdorf]] ([[court|BG Feldkirchen]]) Grundstück Nr. [[land_register_id|550/16]].
 

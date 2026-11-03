@@ -47,6 +47,6 @@ Fax [[phone_number|+43-7242-1020519]]
 
 [[address|6222 Gallzein]]
 
-Die Entscheidung wird [[person|Pedrazzi]] und [[person|Weinberger]] zugestellt. Zuständig bleibt das [[court|Bezirksgericht Favoriten]] / later abbreviated [[court|BG Favoriten]] für die Vollstreckung.
+Die Entscheidung wird [[person|Pedrazzi]] und [[person|Weinberger]] zugestellt. Zuständig bleibt das [[court|Bezirksgericht Favoriten]] / [[court|BG Favoriten]] für die Vollstreckung.
 
 Grundbuch-Auszüge aus dem Verfahren: [[land_register_id|EZ 70]] [[land_register_id|KG: 69134 Fußach]] ([[court|BG Salzburg]]); [[land_register_id|Gst.Nr. 1006]]. Ergänzend: [[land_register_id|EZ 734]], Grundbuch [[land_register_id|87129 Sankt Corona am Wechsel]]; Grundstück Nr. [[land_register_id|720]].

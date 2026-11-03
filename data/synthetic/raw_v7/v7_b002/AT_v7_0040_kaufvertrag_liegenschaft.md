@@ -78,6 +78,8 @@ Die Parteien stimmen zu, dass ihre personenbezogenen Daten für die Abwicklung d
 
 Die Kosten der Errichtung des Vertrages tragen Käufer und Verkäuferinnen je zur Hälfte, sofern nicht anders vereinbart. Für Rückfragen zur Abwicklung ist die Kanzlei unter Tel. [[phone_number|0512/5621409 Kl. 35]] erreichbar.
 
+Der Käufer erklärt, dass er die Liegenschaft nicht als Kapitalanlage erwirbt, sondern zur eigenen Nutzung. Die Verkäuferinnen bestätigen, dass die Gebäude der Baubehörde entsprechen und kein Abbruchauftrag besteht. Das Inventar wird nicht mitverkauft; die Verkäuferinnen entfernen persönliche Gegenstände bis zum Übergabestichtag. Gewerbliche Mietverhältnisse bestehen nicht.
+
 Ausgefertigt in [[location|Altaussee]], am [[date|8. April 2026]].
 
 Verkäuferin: [[person|Antje Wunsch]]

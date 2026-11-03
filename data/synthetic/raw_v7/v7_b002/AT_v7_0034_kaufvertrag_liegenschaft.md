@@ -79,6 +79,16 @@ Auf diesen Vertrag ist österreichisches Recht anzuwenden. Für Streitigkeiten a
 
 Die Parteien stimmen zu, dass ihre personenbezogenen Daten für die Abwicklung dieses Vertrages verarbeitet werden, soweit dies zur Erfüllung der gesetzlichen Pflichten der Vertragsverfasserin erforderlich ist.
 
+Die Käuferinnen erklären, dass sie die Liegenschaft zu Wohnzwecken erwerben und die Finanzierung des Kaufpreises durch Eigenmittel und ein Darlehen sichergestellt ist. Die Zusage des Darlehensgebers ist den Unterlagen beigelegt. Sollte die Finanzierung nicht zustande kommen, tritt der Vertrag nach Maßgabe der nachfolgenden Bestimmungen außer Kraft.
+
+Die Verkäufer räumen den Käuferinnen ein Wegerecht über den bestehenden Zufahrtsweg ein. Das Wegerecht ist im Grundbuch einzutragen und mit der Liegenschaft verbunden. Die Kosten der Dienstbarkeitseintragung trägt die Käuferin.
+
+Die Parteien vereinbaren, dass die Übergabe der Schlüssel und der Zählerstände am Übergabestichtag im Beisein beider Teile erfolgt. Ein Übergabeprotokoll wird errichtet und den Vertragsteilen ausgehändigt.
+
+Die Verkäufer bestätigen, dass keine Mietverhältnisse bestehen und dass keine Baubehördenverfahren anhängig sind. Sollte sich das Gegenteil herausstellen, haften die Verkäufer für den daraus entstehenden Schaden in dem gesetzlich vorgesehenen Umfang.
+
+Die Kosten der Kanzlei für die Errichtung der Urkunde und die Treuhandabwicklung sind nach dem Tarif zu entrichten. Eine Vorauszahlung ist nicht erforderlich.
+
 Ausgefertigt in [[location|Abfaltersbach]], am [[date|12. März 2026]].
 
 Verkäufer: [[person|Karlmann Puntigam]]

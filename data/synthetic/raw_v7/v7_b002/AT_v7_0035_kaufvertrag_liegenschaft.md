@@ -97,6 +97,12 @@ Die Kosten der Errichtung des Vertrages tragen Käufer und Verkäufer je zur Hä
 
 Auf diesen Vertrag ist österreichisches Recht anzuwenden. Für Streitigkeiten aus diesem Vertrag ist das sachlich und örtlich zuständige Gericht am Sitz der Liegenschaft zuständig, soweit kein zwingender Gerichtsstand entgegensteht.
 
+Die Verkäufer bestätigen, dass sämtliche Mietzinse bis zum Übergabestichtag abgerechnet sind. Mietzinsvorauszahlungen werden zwischen den Vertragsteilen zeitanteilig aufgeteilt. Eine Kaution ist vom Verkäufer an den Käufer zu übergeben, sofern sie nicht bereits übertragen wurde.
+
+Die Betriebskostenabrechnung für das laufende Jahr wird vom Verkäufer erstellt und dem Käufer binnen drei Monaten nach Übergabe übermittelt. Nachzahlungen und Guthaben werden anteilig ausgeglichen.
+
+Die Parteien vereinbaren ausdrücklich, dass der Käufer in alle Rechte und Pflichten aus den bestehenden Mietverträgen eintritt. Ein Vorkaufsrecht der Mieter besteht nach dem Verkaufsfall gemäß den gesetzlichen Vorgaben. Der Verkäufer hat die Mieter über den Verkauf schriftlich zu informieren.
+
 Ausgefertigt in [[location|Frauenkirchen]], am [[date|18. März 2026]].
 
 Verkäufer: [[person|Mansur Umran]]

@@ -47,7 +47,7 @@ Die Zeugin [[person|Hack Letizia]] gab an, sie habe im Herbst 2023 keine Abrechn
 
 Der Klient [[person|Triendl]] wurde zuletzt am [[date|08.05.2024]] schriftlich informiert. Zu diesem Zeitpunkt war die Auszahlung an [[person|Stelzel]] bereits erfolgt.
 
-Die Liegenschaft [[land_register_id|2085/Mühlbachl]] ([[court|BG Hietzing]]) wurde ebenfalls beschrieben. Die Zuständigkeit des [[court|Bezirksgericht Amstetten]] / later abbreviated [[court|BG Amstetten]] war strittig, weil der Beschuldigte dort keine Kanzlei unterhielt.
+Die Liegenschaft [[land_register_id|2085/Mühlbachl]] ([[court|BG Hietzing]]) wurde ebenfalls beschrieben. Die Zuständigkeit des [[court|Bezirksgericht Amstetten]] / [[court|BG Amstetten]] war strittig, weil der Beschuldigte dort keine Kanzlei unterhielt.
 
 Der Beschuldigte berief sich auf eine mündliche Vereinbarung mit [[organization|Liska]]. Eine Dokumentation fehlt. Die [[organization|Liska]] bestätigte zwar eine Beauftragung, nicht aber die Konditionen.
 

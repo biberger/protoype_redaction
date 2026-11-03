@@ -24,7 +24,7 @@ Datum | Beschreibung | Betrag
 
 Die Zeugin [[person|Lautner]] bestätigte am [[date|09.10.2023]] die Auszahlung. Die Polizze [[other_identifier|30-7664201]] und die Vers.-Nr. [[other_identifier|53-8084872]] betrafen dieselbe Schadensangelegenheit.
 
-Das Verfahren vor dem [[court|Bezirksgericht Josefstadt]] / later abbreviated [[court|BG Josefstadt]] betraf die Liegenschaft [[land_register_id|K.G. 48510 Riedlingsdorf]] [[land_register_id|EZ3330]] ([[court|BG Lienz]]). Der Beschuldigte war erreichbar unter Tel. [[phone_number|01/633352-9]] und hatte seinen Sitz in [[address|2733 Schrattenbach]].
+Das Verfahren vor dem [[court|Bezirksgericht Josefstadt]] / [[court|BG Josefstadt]] betraf die Liegenschaft [[land_register_id|K.G. 48510 Riedlingsdorf]] [[land_register_id|EZ3330]] ([[court|BG Lienz]]). Der Beschuldigte war erreichbar unter Tel. [[phone_number|01/633352-9]] und hatte seinen Sitz in [[address|2733 Schrattenbach]].
 
 **Rechtliche Beurteilung**
 

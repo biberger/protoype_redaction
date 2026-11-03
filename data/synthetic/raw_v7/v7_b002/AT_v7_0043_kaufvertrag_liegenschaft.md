@@ -44,7 +44,7 @@ II. Vertragsbestandteile
 
 Vertragsnummer [[other_identifier|KV-2016-60647]]; die Kl.-Nr. [[other_identifier|54442]] betrifft die Hausbank. Die Liegenschaft ist mit einem Wohnhaus bebaut.
 
-Die Republik Österreich ist nicht Partei dieses Vertrages.
+Die [[country|Republik Österreich]] ist nicht Partei dieses Vertrages.
 
 III. Aufsandung und Grundbuch
 
@@ -59,6 +59,8 @@ Die Vertragsteile nehmen zur Kenntnis, dass für den Erwerb der Liegenschaft Gru
 Die Verkäuferin leistet Gewähr für die Richtigkeit der Angaben zur Fläche und zur Bebauung. Ein Ausschluss der Gewährleistung für verdeckte Mängel gilt nur, soweit er gesetzlich zulässig ist.
 
 Sollte eine Bestimmung dieses Vertrages unwirksam sein, berührt dies die übrigen Bestimmungen nicht. Die Parteien ersetzen die unwirksame Bestimmung durch eine wirksame, die dem wirtschaftlichen Zweck am nächsten kommt.
+
+Die Käufer bestätigen, dass sie die Liegenschaft besichtigt haben und den baulichen Zustand kennen. Die Nutzung als Wohnhaus ist mit der örtlichen Raumplanung vereinbar. Die Verkäuferin übermittelt auf Verlangen die Baubeschreibung und die Unterlagen für den Energieausweis.
 
 Ausgefertigt in [[location|Trieben]], am [[date|27. März 2026]].
 

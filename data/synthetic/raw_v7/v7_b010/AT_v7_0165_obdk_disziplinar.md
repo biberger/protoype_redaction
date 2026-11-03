@@ -38,7 +38,7 @@ Datum | Beschreibung | Betrag
 
 Die Zeugin [[person|Aberer]] gab an, dass [[person|Çelik]] die Auszahlung nicht angekündigt hatte. Der Mitbeteiligte [[person|Kohlmeier]] bestätigte die Übergabe der Unterlagen in [[location|St. Gilgen]].
 
-Das Verfahren vor dem [[court|Bezirksgericht Baden]] / later abbreviated [[court|BG Baden]] war am [[date|05.06.2021]] anhängig. Die Beschuldigte vertrat die [[organization|Öztürk]] dort ohne Vollmacht der Anzeigerin.
+Das Verfahren vor dem [[court|Bezirksgericht Baden]] / [[court|BG Baden]] war am [[date|05.06.2021]] anhängig. Die Beschuldigte vertrat die [[organization|Öztürk]] dort ohne Vollmacht der Anzeigerin.
 
 Der Senat stellte fest, dass [[person|Schulhof]] die Akten am [[date|09.09.2021]] einsah. Die Beschuldigte hat den Vorgang nicht vollständig dokumentiert.
 

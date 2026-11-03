@@ -23,7 +23,7 @@ Mitbeteiligter: [[person|Nelles Kirschner]], geb [[date_of_birth|4. September 19
 
 Der Beschuldigte vertrat die [[organization|Haspel GmbH]], [[company_register_number|FN 646769g]], UID: [[tax_id|ATU64796420]], in einer Forderungssache. Die [[organization|Haspel]] führte Gelder auf dem Konto [[bank_account|AT53 9962 7004 6832 9492]].
 
-Die Sozialversicherungsnummer des Mitbeteiligten [[person|Zdanowski]] lautet [[social_security_number|8095 080272]]. Das Fahrzeug des Mitbeteiligten [[person|Kirschner]] war auf [[license_plate|HO-2UZ]] zugelassen. Das [[court|Oberlandesgericht Wien]] / later abbreviated [[court|OLG Wien]] hatte die Vorinstanz nicht beigezogen.
+Die Sozialversicherungsnummer des Mitbeteiligten [[person|Zdanowski]] lautet [[social_security_number|8095 080272]]. Das Fahrzeug des Mitbeteiligten [[person|Kirschner]] war auf [[license_plate|HO-2UZ]] zugelassen. Das [[court|Oberlandesgericht Wien]] / [[court|OLG Wien]] hatte die Vorinstanz nicht beigezogen.
 
 Die Liegenschaft [[land_register_id|K.G. Stambach]] / [[land_register_id|EZ. 3098]] und das Grundstück [[land_register_id|120/Langenlois]] waren Gegenstand der Forderung. Die Akte trägt das Zeichen Ihr Zeichen: [[other_identifier|CRL/Petz/3228]].
 

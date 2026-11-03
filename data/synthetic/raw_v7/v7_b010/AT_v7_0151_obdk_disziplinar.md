@@ -26,7 +26,7 @@ Weitere Klienten: [[person|Beato Biancardi]], *[[date_of_birth|05.01.2000]]; [[p
 
 **Sachverhalt**
 
-Der Beschuldigte vertrat die Klientin in einem Verfahren vor dem [[court|Bezirksgericht Vöcklabruck]] / later abbreviated [[court|BG Vöcklabruck]]. Gegenstand war die Liegenschaft: Einlagezahl [[land_register_id|1476]] / [[land_register_id|KG 04294]] ([[court|BG Telfs]]). Im Grundbuch stand: Grundbuch [[land_register_id|Piberbach]] [[land_register_id|EZ 513]], [[land_register_id|Gst 1005]]. Ein Nachbargrundstück lag in [[land_register_id|KG 92784 Grabenwarth]] / [[land_register_id|EZ: 1231]] [[land_register_id|Gst.Nr. 1037]].
+Der Beschuldigte vertrat die Klientin in einem Verfahren vor dem [[court|Bezirksgericht Vöcklabruck]] / [[court|BG Vöcklabruck]]. Gegenstand war die Liegenschaft: Einlagezahl [[land_register_id|1476]] / [[land_register_id|KG 04294]] ([[court|BG Telfs]]). Im Grundbuch stand: Grundbuch [[land_register_id|Piberbach]] [[land_register_id|EZ 513]], [[land_register_id|Gst 1005]]. Ein Nachbargrundstück lag in [[land_register_id|KG 92784 Grabenwarth]] / [[land_register_id|EZ: 1231]] [[land_register_id|Gst.Nr. 1037]].
 
 Die Klientin ist unter Klienten-Nr. [[other_identifier|20910]] geführt, [[person|Biancardi]] unter Klienten-Nr. [[other_identifier|18402]]. Die Kanzlei war unter Tel. [[phone_number|+43 316 505 93 26 Durchwahl 51]] erreichbar. Die Zustellung an die Klientin erfolgte nach [[address|4160 Aigen im Mühlkreis]].
 

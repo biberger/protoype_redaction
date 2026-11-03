@@ -56,6 +56,8 @@ Die Verkäuferinnen leisten Gewähr für die Richtigkeit der Angaben zur Fläche
 
 Die Kosten der Errichtung des Vertrages tragen Käuferinnen und Verkäuferinnen je zur Hälfte, sofern nicht anders vereinbart.
 
+Die Verkäuferinnen bestätigen, dass die Liegenschaft seit dem Erwerb ausschließlich zu Wohnzwecken genutzt wurde. Die Käuferinnen erklären, die Gebäudeversicherung ab dem Übergabestichtag selbst zu übernehmen. Die Kosten einer Energieausweiserstellung trägt die Verkäuferin.
+
 Ausgefertigt in [[location|Biberwier]], am [[date|16. März 2026]].
 
 Verkäuferin: [[person|Mita Tuba]]

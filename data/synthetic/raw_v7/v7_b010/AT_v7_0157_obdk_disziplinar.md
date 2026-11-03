@@ -30,7 +30,7 @@ Datum | Beschreibung | Betrag
 
 Die Klientin [[person|Vajda]] erklärte, sie habe den Betrag von [[date|08.02.2024]] nie erhalten. Der Zeuge [[person|Ilić]] bestätigte die Übergabe in [[location|St. Margarethen im Burgenland]], lediglich ein Teil der Summe sei übergeben worden.
 
-Das Verfahren vor dem [[court|Bezirksgericht Amstetten]] / later abbreviated [[court|BG Amstetten]] war am [[date|15.04.2024]] anhängig. Der Beschuldigte vertrat [[person|Buchgraber]] dort nicht persönlich.
+Das Verfahren vor dem [[court|Bezirksgericht Amstetten]] / [[court|BG Amstetten]] war am [[date|15.04.2024]] anhängig. Der Beschuldigte vertrat [[person|Buchgraber]] dort nicht persönlich.
 
 **E-Mail vom [[date|18.03.2024]]:**
 

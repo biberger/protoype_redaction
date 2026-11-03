@@ -44,7 +44,7 @@ Datum | Vorgang | Betrag
 
 Der Zeuge [[person|Bill]] bestätigte am [[date|14.02.2024]] die Abläufe. Der Zeuge [[person|Matzka]] gab an, [[person|Wurst]] habe die Angelegenheit im Herbst 2023 zunächst verschwiegen.
 
-Im Zivilverfahren vor dem [[court|Bezirksgericht Favoriten]] / later abbreviated [[court|BG Favoriten]] wurde [[person|Mostafavi]] als Gegner der [[organization|Wurst]] geführt. Die [[organization|VdT]] hatte die Eingabe am [[date|09.04.2024]] an die Kammer übermittelt.
+Im Zivilverfahren vor dem [[court|Bezirksgericht Favoriten]] / [[court|BG Favoriten]] wurde [[person|Mostafavi]] als Gegner der [[organization|Wurst]] geführt. Die [[organization|VdT]] hatte die Eingabe am [[date|09.04.2024]] an die Kammer übermittelt.
 
 **Rechtliche Beurteilung**
 

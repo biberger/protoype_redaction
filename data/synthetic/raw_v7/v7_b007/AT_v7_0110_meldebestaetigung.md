@@ -45,7 +45,7 @@ Grundbuchsangaben: [[land_register_id|EZ 1031]] wie oben; keine weiteren Eintrag
 
 Ausgestellt am [[date|26.10.2026]] in [[location|Wien]].
 
-Eingangsstempel: [[court|Bezirksgericht Döbling]] / later abbreviated [[court|BG Döbling]]
+Eingangsstempel: [[court|Bezirksgericht Döbling]] / [[court|BG Döbling]]
 
 Die Meldebehörde bestätigt die Richtigkeit der Angaben nach dem Melderegister.
 [[person|Lysanne Diendorfer]], Sachbearbeiterin

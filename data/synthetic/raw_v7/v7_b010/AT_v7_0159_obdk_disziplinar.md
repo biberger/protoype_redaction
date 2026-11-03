@@ -15,7 +15,7 @@ Mitbeteiligt ist [[person|Ellen Klich]], geb [[date_of_birth|1976-11-18]].
 
 **Sachverhalt**
 
-Die Anzeige betrifft die Treuhandabwicklung eines Bauvorhabens. Das Zivilverfahren war beim [[court|Bezirksgericht Krems]] / later abbreviated [[court|BG Krems]] anhängig. Die [[organization|Arvay Bau GmbH]], [[company_register_number|FN 259159t]], UID: [[tax_id|ATU35123870]], hatte die Mittel auf das Konto [[bank_account|AT02 6179 2252 8591 0221]] eingezahlt. Die [[organization|Arvay]] war durch [[person|Pál]] vertreten.
+Die Anzeige betrifft die Treuhandabwicklung eines Bauvorhabens. Das Zivilverfahren war beim [[court|Bezirksgericht Krems]] / [[court|BG Krems]] anhängig. Die [[organization|Arvay Bau GmbH]], [[company_register_number|FN 259159t]], UID: [[tax_id|ATU35123870]], hatte die Mittel auf das Konto [[bank_account|AT02 6179 2252 8591 0221]] eingezahlt. Die [[organization|Arvay]] war durch [[person|Pál]] vertreten.
 
 Die Liegenschaft [[land_register_id|EZ193]], [[land_register_id|K.G. 85527 Mattersburg]] Grundstück [[land_register_id|1403]] war Gegenstand des Bauvorhabens. Das zweite Grundstück lag in [[land_register_id|EZ. 2100]], Katastralgemeinde [[land_register_id|06466 Karlstein an der Thaya]], [[land_register_id|Gst.Nr. 791]].
 

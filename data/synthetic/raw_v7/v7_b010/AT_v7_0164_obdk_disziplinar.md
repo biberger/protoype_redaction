@@ -48,7 +48,7 @@ Die Zeugin [[person|Sittler]] gab an, sie habe die Anzahlung am [[date|14.04.202
 
 Die [[organization|Landesverband der Holzbauunternehmen]] ([[organization|LVH]]) übermittelte am [[date|19.02.2024]] eine Stellungnahme. Die [[organization|LVH]] bestätigte, dass die Gewährleistungsfrist für die [[organization|Turracher Holzbau]] noch lief.
 
-Das Verfahren vor dem [[court|Bezirksgericht St. Johann im Pongau]] / later abbreviated [[court|BG St. Johann im Pongau]] betraf eine Klage des [[person|Troger]]. Die Klage wurde am [[date|12.07.2024]] eingebracht.
+Das Verfahren vor dem [[court|Bezirksgericht St. Johann im Pongau]] / [[court|BG St. Johann im Pongau]] betraf eine Klage des [[person|Troger]]. Die Klage wurde am [[date|12.07.2024]] eingebracht.
 
 Der Beschuldigte hat den Mandanten [[person|Troger]] über die Lage am [[date|25.09.2024]] schriftlich informiert. Das Schreiben enthielt keine Angaben zu den Zahlungen.
 
