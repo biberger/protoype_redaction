@@ -70,6 +70,8 @@ I. Sachverhalt
 
 5. Die Reklamation betrifft nach dem klägerischen Vorbringen einen Kompressor, der angeblich bei Übergabe beschädigt war. Ein Übergabeprotokoll existiert nicht; die Beklagte verweist auf die Unterschrift des Zeugen [[person|Ehrenstein]] auf dem Lieferschein, aus der ein unbeschädigter Zustand hervorgeht.
 
+Ergänzend ist festzuhalten, dass die Beklagte die Allgemeinen Geschäftsbedingungen den klagenden Parteien bei Vertragsabschluss übermittelt hat. Diese enthalten in Punkt 5 eine Stornogebühr von 25 % des Auftragswertes sowie eine Zahlungsfrist von vierzehn Tagen ab Rechnungsdatum. Die Bestellung wurde über das Kontaktformular der Beklagten aufgegeben; das Bestellformular enthielt die Zustimmung zu den Geschäftsbedingungen bereits als Vorausfüllung, was die Erstklägerin in ihrer Stellungnahme vom [[date|20. April 2026]] nicht bestritten hat.
+
 II. Rechtliche Ausführungen
 
 6. Die Klagsforderung ist dem Grunde und der Höhe nach unschlüssig. Die klagenden Parteien stützen ihren Anspruch auf [[legal_norm|§ 1152 ABGB]] sowie auf [[legal_norm|§ 3 KSchG]], ohne die Voraussetzungen eines Verbrauchergeschäftes darzulegen. Gemäß [[legal_norm|§ 1 KSchG]] ist ein Verbrauchergeschäft nur dann gegeben, wenn der Vertrag nicht dem Betrieb zuzurechnen ist. Die Bestellung der Erstklägerin erfolgte jedoch nach den Angaben des Lieferscheins im Rahmen einer gewerblichen Tätigkeit.
@@ -82,7 +84,7 @@ III. Widerklage
 
 9. Die Beklagte begehrt von der Erstklägerin und der Zweitklägerin zur ungeteilten Hand die Zahlung von EUR 3.870,00 samt 4 % Zinsen seit dem [[date|25. April 2026]] für die Kosten der Entsorgung des beschädigten Kühlaggregats und für die Stornogebühr nach Punkt 5 der Allgemeinen Geschäftsbedingungen.
 
-10. Die Zuständigkeit ergibt sich aus [[legal_norm|§ 88 JN]], weil die Erstklägerin im Sprengel des [[court|Bezirksgerichtes Scheibbs]] wohnt. Die Widerklage ist mit der Klage in tatsächlichem und rechtlichem Zusammenhang, sodass eine gemeinsame Verhandlung zweckmäßig ist. Die Beklagte ist überdies bereit, die Widerklage im Falle einer fristgerechten Zahlung durch die Klägerinnen binnen vierzehn Tagen zurückzunehmen. Einen entsprechenden Vergleichsvorschlag hat die Beklagte den klagenden Parteien bereits mit Schreiben vom [[date|7. Mai 2026]] übermittelt; dieser blieb unbeantwortet.
+10. Die Zuständigkeit ergibt sich aus [[legal_norm|§ 88 JN]], weil die Erstklägerin im Sprengel des [[court|Bezirksgerichtes Scheibbs]] wohnt. Die Widerklage ist mit der Klage in tatsächlichem und rechtlichem Zusammenhang, sodass eine gemeinsame Verhandlung zweckmäßig ist. Der Streitwert der Widerklage beträgt EUR 3.870,00 und ist zum Streitwert der Klage von EUR 14.600,00 hinzuzurechnen, sodass insgesamt ein Streitwert von EUR 18.470,00 zu berücksichtigen ist. Die Pauschalgebühr für die Widerklage wird entsprechend nachentrichtet. Die Beklagte ist überdies bereit, die Widerklage im Falle einer fristgerechten Zahlung durch die Klägerinnen binnen vierzehn Tagen zurückzunehmen. Einen entsprechenden Vergleichsvorschlag hat die Beklagte den klagenden Parteien bereits mit Schreiben vom [[date|7. Mai 2026]] übermittelt; dieser blieb unbeantwortet.
 
 IV. Beweisanbote
 

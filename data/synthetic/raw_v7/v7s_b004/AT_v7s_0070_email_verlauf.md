@@ -119,7 +119,7 @@ Sehr geehrte Frau [[lawyer|Fahim]],
 
 wir nehmen den Vergleichsvorschlag zur Kenntnis, können ihn aber nicht annehmen, solange die [[organization|Schilcher GmbH]] keine Auskunft über die Fahrerin erteilt. Mein Mandant ersucht um die Übermittlung des Unfallprotokolls der [[organization|Schilcher]] sowie der Werkstattrechnung für das Fahrzeug der Gegenseite.
 
-Die Zahlung des Selbstbehalts wurde inzwischen nachgereicht, der Verwendungszweck lautet nunmehr auf die Schadennummer. Eine Bestätigung der [[organization|RB Empersdorf]] liegt bei.
+Die Zahlung des Selbstbehalts wurde inzwischen nachgereicht, der Verwendungszweck lautet nunmehr auf die Schadennummer. Eine Bestätigung der [[organization|RB Empersdorf]] liegt bei. Wir bitten um Bestätigung bis Ende der Woche.
 
 Mit freundlichen Grüßen
 

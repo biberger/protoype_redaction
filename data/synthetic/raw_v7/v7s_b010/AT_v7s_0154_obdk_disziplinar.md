@@ -47,6 +47,8 @@ Rechtliche Beurteilung
 
 11. Die Feststellungen beruhen auf den Akten, dem Prüfbericht der Kammer und der Aussage der Zeugin. Die Verlesung des Prüfberichts erfolgte mit Zustimmung beider Parteien. Ein Sachverständigengutachten war nicht erforderlich, da die Buchungsvorgänge eindeutig sind.
 
+12. Die Beschuldigte hat während des gesamten Verfahrens an den Ladungen teilgenommen und die Akteneinsicht genutzt. Sie hat zudem zugesagt, die Buchhaltung ihrer Kanzlei künftig durch eine externe Buchhalterin prüfen zu lassen. Diese Zusage wurde vom Senat berücksichtigt, ohne dass daraus eine Milderung über das übliche Maß hinaus abgeleitet werden konnte.
+
 Die Entscheidung ist mit Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] anfechtbar.
 
 [[location|Innsbruck]], am [[date|14. Oktober 2026]]

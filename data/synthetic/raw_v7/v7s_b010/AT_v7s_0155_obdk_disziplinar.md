@@ -72,9 +72,11 @@ Kosten
 
 17. Der Rechtsanwalt hat die Kosten des Verfahrens zu tragen. Die Kosten des Revisionsverfahrens werden der [[organization|TRAK]] nicht auferlegt, da die Revision im Rahmen ihrer Aufsichtsaufgabe erfolgte.
 
+18. Der Nachweis der Teilnahme an der Schulung ist dem Kammeranwalt [[person|Soukup]] binnen sechs Monaten vorzulegen. Die Geldbuße ist binnen vier Wochen nach Zustellung der Ausfertigung auf das Konto der Kammer einzuzahlen. Bei Nichtzahlung ist die Einbringung nach den einschlägigen Bestimmungen einzuleiten. Die Zahlung der Kosten erfolgt gleichzeitig mit der Geldbuße.
+
 Rechtsmittelbelehrung
 
-Gegen diese Entscheidung steht den Parteien innerhalb von vier Wochen die Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] offen. Die Berufung ist beim Disziplinarrat einzubringen.
+Gegen diese Entscheidung steht den Parteien innerhalb von vier Wochen die Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] offen. Die Berufung ist beim Disziplinarrat einzubringen. Sie hat aufschiebende Wirkung, soweit sie sich gegen den Spruch richtet, nicht jedoch hinsichtlich der Auflage zur Schulung, die sofort wirksam ist. Der Senat weist darauf hin, dass die Frist zur Berufung mit der Zustellung dieser Ausfertigung an den Rechtsanwalt zu laufen beginnt.
 
 [[location|Innsbruck]], am [[date|21. Oktober 2026]]
 

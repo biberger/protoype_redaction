@@ -70,7 +70,8 @@ Der Beklagte beantragt die Einvernahme des Zeugen [[person|Mag. Spirache Gherghe
 Der Beklagte beantragt,
 
 1. die Klage abzuweisen,
-2. der Klägerin die Kosten des Verfahrens aufzuerlegen.
+2. der Klägerin die Kosten des Verfahrens aufzuerlegen,
+3. hilfsweise, den Anspruch auf den nachgewiesenen Betrag zu beschränken.
 
 **V. Beilagen**
 
@@ -82,7 +83,7 @@ Der Beklagte beantragt,
 
 **VI. Vollmacht**
 
-Die Vollmacht wird der Klagebeantwortung beigelegt. Der Beklagte wird in dieser Angelegenheit durch die Rechtsanwälte [[person|Fabian]], [[person|Grünewald]] und [[person|Vogler]] vertreten.
+Die Vollmacht wird der Klagebeantwortung beigelegt. Sie wurde am [[date|30. Jänner 2025]] vom Beklagten unterfertigt und ist unbeschränkt erteilt. Der Beklagte wird in dieser Angelegenheit durch die Rechtsanwälte [[person|Fabian]], [[person|Grünewald]] und [[person|Vogler]] vertreten.
 
 Dem Beklagten wurde Gelegenheit zur Einsicht in den Akt gegeben. Der Beklagte stimmt einer Verhandlung im schriftlichen Verfahren nicht zu.
 
