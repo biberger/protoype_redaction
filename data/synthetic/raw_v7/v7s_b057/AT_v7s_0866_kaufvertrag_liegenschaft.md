@@ -62,7 +62,9 @@ V. Aufsandungserklärung
 
 Der Verkäufer erklärt, dass er seine Liegenschaft der Käuferin aufsandet. Die Käuferin nimmt diese Erklärung an und beantragt die Einverleibung des Eigentumsrechts im Grundbuch. Die Aufsandungserklärung wird erst mit vollständiger Zahlung des Kaufpreises beim Grundbuch vorgelegt.
 
-Die Vertragsparteien erteilen der Kanzlei die Vollmacht, die erforderlichen Eingaben beim Grundbuch zu machen.
+Die Vertragsparteien erteilen der Kanzlei die Vollmacht, die erforderlichen Eingaben beim Grundbuch zu machen. Der Verkäufer verpflichtet sich, die Liegenschaft bis zur Übergabe in dem Zustand zu erhalten, in dem sie sich bei Vertragsabschluss befindet. Schäden, die durch Naturereignisse vor der Übergabe entstehen, gehen zulasten des Verkäufers, sofern sie nicht durch die Versicherung gedeckt sind. Die Käuferin ist berechtigt, die Liegenschaft nach vorheriger Abstimmung mit dem Verkäufer zu besichtigen, und zwar höchstens zweimal vor der Übergabe.
+
+Die Kanzlei weist die Parteien darauf hin, dass die Eintragung des Eigentumsrechts erst nach Eingang der Grunderwerbsteuer-Unbedenklichkeitsbescheinigung beim Grundbuch erfolgen kann; die Wartezeit kann mehrere Wochen betragen.
 
 VI. Grunderwerbsteuer und Gebühren
 

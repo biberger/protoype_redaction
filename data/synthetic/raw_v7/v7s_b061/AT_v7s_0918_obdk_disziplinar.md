@@ -25,7 +25,7 @@ I. Verfahrensgang
 
 Der Disziplinarrat hatte die Beschuldigte mit Spruch vom [[date|12.06.2026]] einer Verletzung der Treuhandpflichten für schuldig erkannt und eine Geldbuße von EUR 4.500,00 verhängt. Gegen diesen Spruch richtet sich die Berufung der Beschuldigten, mit der sie Freispruch, hilfsweise eine mildere Strafe begehrt. Der Kammeranwalt [[person|Dr. Bachner]] hat die Abweisung der Berufung beantragt.
 
-Die Beschuldigte betreibt eine Kanzlei in [[location|St. Margarethen im Burgenland]]. Sie vertrat den Klienten [[person|Wendelin Grün]] in einer Auseinandersetzung mit der [[organization|Pannonia Bau GmbH]] über Werklohnforderungen aus einem Umbauvorhaben. Die Auseinandersetzung ist in der Akte unter dem Zeichen "Beemsterboer ./. Grün" geführt.
+Die Beschuldigte betreibt eine Kanzlei in [[location|St. Margarethen im Burgenland]]. Sie vertrat den Klienten [[person|Wendelin Grün]] in einer Auseinandersetzung mit der [[organization|Pannonia Bau GmbH]] über Werklohnforderungen aus einem Umbauvorhaben. Die Auseinandersetzung ist in der Akte unter dem Zeichen "[[other_identifier|Beemsterboer ./. Grün]]" geführt.
 
 II. Feststellungen
 

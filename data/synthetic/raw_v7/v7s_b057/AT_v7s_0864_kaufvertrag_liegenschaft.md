@@ -52,7 +52,7 @@ V. Grunderwerbsteuer und Kosten
 
 Die Grunderwerbsteuer nach [[legal_norm|§ 4 Abs 1 GrEStG]] trägt der Käufer. Die Vertragserrichtungskosten und die Eintragungsgebühren trägt ebenfalls der Käufer, sofern nicht im Einzelfall anders vereinbart. Die Kanzlei [[organization|E C K   &   S O H M]] wird für die Verkäuferin und die Käufer gemeinsam tätig, soweit keine Interessen widerstreiten.
 
-Die Vertragsparteien nehmen zur Kenntnis, dass die Eintragung der Eigentumsübertragung erst nach Vorliegen der grunderwerbsteuerlichen Unbedenklichkeitsbescheinigung erfolgen kann. Die Käufer verpflichten sich, die Anzeige nach § 30 GrEStG innerhalb der gesetzlichen Frist selbst zu erstatten, sofern die Kanzlei dies nicht übernimmt. Der Verkäuferin ist bekannt, dass eine unrichtige Angabe des Kaufpreises strafbar sein kann.
+Die Vertragsparteien nehmen zur Kenntnis, dass die Eintragung der Eigentumsübertragung erst nach Vorliegen der grunderwerbsteuerlichen Unbedenklichkeitsbescheinigung erfolgen kann. Die Käufer verpflichten sich, die Anzeige nach [[legal_norm|§ 30 GrEStG]] innerhalb der gesetzlichen Frist selbst zu erstatten, sofern die Kanzlei dies nicht übernimmt. Der Verkäuferin ist bekannt, dass eine unrichtige Angabe des Kaufpreises strafbar sein kann.
 
 VI. Gewährleistung und Übergabe
 

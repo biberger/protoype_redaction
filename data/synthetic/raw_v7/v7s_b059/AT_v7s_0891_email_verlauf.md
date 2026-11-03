@@ -56,7 +56,7 @@ Betreff: Schadennummer [[other_identifier|24/287521/26]]
 
 Sehr geehrter Herr [[person|Thome]],
 
-die Schadenabteilung der [[organization|PVA]] bestätigt den Eingang. Die Zuständigkeit liegt bei mir; eine Rückfrage bei Herrn [[person|Wuchinger]] ist erforderlich.
+die Schadenabteilung der [[organization|PVA]] bestätigt den Eingang. Die Zuständigkeit liegt bei mir; eine Rückfrage bei Herrn [[person|Wuchinger]] ist erforderlich. Die Reparaturkosten am Fahrzeug von Herrn [[person|Král]] wurden vorläufig auf EUR 7.980,-- geschätzt; die Besichtigung durch unseren Sachverständigen ist für den [[date|10.07.2026]] vorgesehen. Bitte senden Sie uns bis dahin das Unfallprotokoll, sonst kann die Deckung nicht zugesagt werden.
 
 [[person|Saziment Cengiz]]
 Schadenreferentin
@@ -87,3 +87,11 @@ Mit freundlichen Grüßen
 
 [[person|Edvige Pühringer]]
 Rechtsanwälte GmbH
+
+Von: [[person|Tonik Král]] <[[email|tonik.kral@kral-mail.at]]>
+Gesendet: Do, [[date|02.07.2026]] 08:12
+An: [[person|Edvige Pühringer]] <[[email|edvige.puehringer@eckel.at]]>
+Betreff: AW: Unfall
+
+danke. das protokoll kommt heute per post, die fotos schicke ich mit. herr [[person|wuchinger]] hat am unfallort gesagt, er habe das rote licht nicht gesehen. das kann frau [[person|Theodosiadis]] bestätigen.
+lg tonik

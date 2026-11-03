@@ -40,7 +40,11 @@ Nettobetrag: 1.460,00
 zuzüglich 20 % USt: 292,00
 Gesamtbetrag brutto: 1.752,00
 
+Die Leistungen am [[date|19.03.2026]] umfassten die Prüfung der Entgeltansprüche für die Monate Jänner bis März 2026 sowie die Berechnung der Abfertigung. Am [[date|08.04.2026]] wurden die fehlenden Lohnzettel bei Ihrem früheren Dienstgeber angefordert. Die Verhandlung am [[date|17.06.2026]] dauerte rund drei Stunden; die Vorbereitung umfasste die Durchsicht der Arbeitszeitaufzeichnungen.
+
 Auslagen (Barauslagen, Gerichtsgebühren) sind in dieser Note nicht enthalten und werden gesondert verrechnet. Die Gerichtsgebühren wurden von Ihnen direkt beglichen.
+
+Die Honorarnote ist gemäß [[legal_norm|§ 11 UStG]] als Rechnung ausgewiesen. Bei Zahlungsverzug werden Verzugszinsen nach den gesetzlichen Bestimmungen verrechnet. Wir ersuchen Sie, Einwendungen gegen diese Note innerhalb von 14 Tagen schriftlich zu erheben.
 
 Wir bitten um Überweisung des Gesamtbetrages bis spätestens [[date|14.11.2026]] auf unser Konto bei der UniCredit Bank Austria AG, IBAN [[bank_account|AT48 1367 1971 6464 0597]], BIC [[bank_account|SPIHAT22]], unter Angabe der Honorarnote Nr. 2026-0412.
 
@@ -52,3 +56,5 @@ Mit freundlichen Grüßen
 
 [[person|H O L L]]
 Rechtsanwältin
+
+KANZLEIVERMERK: [[person|FARAḤ ASIL]] / ZAHLUNG OFFEN / WV [[date|14.11.2026]]

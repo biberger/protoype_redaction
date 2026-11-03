@@ -67,7 +67,7 @@ Der Erbe [[person|Gutmann]] hat zu dem Anspruch noch nicht Stellung genommen. Di
 
 6. Verfahren
 
-Die Erben wurden darauf hingewiesen, dass die Erbantrittserklärung binnen der gesetzlichen Frist beim [[court|BG Villach]] einzubringen ist. Das Verlassenschaftsgericht hat die Abhandlungstagsatzung auf [[date|02.11.2026]] anberaumt.
+Die Erben wurden darauf hingewiesen, dass die Erbantrittserklärung binnen der gesetzlichen Frist beim [[court|BG Villach]] einzubringen ist. Das Verlassenschaftsgericht hat die Abhandlungstagsatzung auf [[date|02.11.2026]] anberaumt. Die Erben werden ersucht, Urkunden über das Verwandtschaftsverhältnis zur Erblasserin, insbesondere die Geburtsurkunde des vorverstorbenen Bruders, bis zu diesem Termin vorzulegen. Ein Erbschaftsteuerverfahren ist nach den derzeitigen Vorschriften nicht mehr anhängig, sodass eine gesonderte Anzeige nicht erforderlich ist.
 
 Der Notar hat die Erben über die Möglichkeit der bedingten Erbantrittserklärung belehrt. Die Zustellung an den Erben [[person|Gutmann]] erfolgt über die Anschrift in [[country|Deutschland]].
 
