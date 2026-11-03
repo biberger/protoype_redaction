@@ -44,6 +44,18 @@ Datum | Vorgang | Betrag | Treuhandschaft
 
 5. Der Beschuldigte bestreitet den Vorwurf der Verwendung fremder Gelder nicht. Er verweist auf eine finanzielle Notlage seiner Kanzlei und auf die Betreuung eines kranken Familienmitglieds. Der Senat hält fest, dass diese Umstände die Pflichtverletzung nicht rechtfertigen.
 
+5a. Die Zeugin [[person|Watzl]] schilderte in der Verhandlung, dass sie den Beschuldigten mehrfach telefonisch um Auskunft über den Stand des Treuhandkontos ersucht habe. Am [[date|9. Juli 2019]] übersandte sie eine schriftliche Mahnung, auf die keine Antwort erfolgte. Ein Schreiben der Kanzlei vom [[date|22. Juli 2019]] enthielt lediglich den Hinweis, das Konto sei in Ordnung.
+
+5b. Der Mandant [[person|Irenaus Meinl]] gab an, die Rückzahlung vom [[date|14. Oktober 2019]] nie veranlasst zu haben. Er sei davon ausgegangen, dass der Betrag bei der Kanzlei verbleibe. Eine Abrechnung habe er zu keinem Zeitpunkt erhalten; [[person|Meinl]] habe den Betrag erst im Zuge der Anzeige erfahren.
+
+5c. Die Kammeranwältin [[person|MMag. Alessia Boschi]] führte in der Verhandlung aus, der Beschuldigte sei im Verfahren nicht kooperativ gewesen. Eine Stellungnahme vom [[date|2. April 2026]] sei erst nach zweimaliger Erinnerung eingelangt. [[person|Boschi]] stellte klar, dass die Anzeige nicht auf einer persönlichen Motivation beruhe.
+
+5d. Der Beschuldigte [[lawyer|Haselwanter]] führte aus, die Vorgänge seien durch die Erkrankung seiner Sekretärin im Frühjahr 2019 verursacht worden. Die Vorwürfe seien teilweise berechtigt; er übernehme die Verantwortung für die Abrechnungsfehler, bestreite jedoch eine Absicht, sich fremde Gelder anzueignen.
+
+5e. Die Zuständigkeit der [[court|OBDK]] ergibt sich aus der Berufung gegen den Bescheid der [[court|Disziplinarrat der Rechtsanwaltskammer Oberösterreich]] vom [[date|12. Dezember 2025]]. Die Berufung wurde rechtzeitig eingebracht; der Senat hat die Sache daher neu zu beurteilen.
+
+5f. Für die Bemessung der Geldbuße wurden die Einkommensverhältnisse des Beschuldigten berücksichtigt. Nach seinen Angaben beträgt sein monatliches Nettoeinkommen rund EUR 3.200,00; Vermögen ist nicht in nennenswertem Umfang vorhanden.
+
 Rechtliche Beurteilung
 
 6. Der Rechtsanwalt hat fremde Gelder, die ihm anvertraut werden, gesondert und ordnungsgemäß zu verwahren. Die Verwendung der Treuhandgelder für eigene Zwecke verletzt die Berufspflichten schwer. Die Mandanten hatten ein berechtigtes Vertrauen in die sichere Verwahrung.

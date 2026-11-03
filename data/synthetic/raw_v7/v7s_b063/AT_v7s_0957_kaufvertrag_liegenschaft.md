@@ -52,7 +52,7 @@ V. Kaufpreis
 
 Der Kaufpreis beträgt 286.500 Euro. Davon wurde die Anzahlung von 28.650 Euro bereits geleistet. Der Restkaufpreis von 257.850 Euro ist binnen 14 Tagen nach Vorliegen der Lastenfreistellung auf das Treuhandkonto IBAN [[bank_account|AT71 5722 7802 5181 7556]] zu erlegen.
 
-Die Kanzlei verwahrt den Kaufpreis im Treuhandbuch. Die Auszahlung an die Verkäuferin erfolgt erst, wenn die Eintragung der Käufer im Grundbuch angemerkt ist und die Pfandrechtslöschungen vorliegen. Die Treuhandgebühr wird von den Käufern getragen.
+Die Kanzlei verwahrt den Kaufpreis im Treuhandbuch. Die Auszahlung an die Verkäuferin erfolgt erst, wenn die Eintragung der Käufer im Grundbuch angemerkt ist und die Pfandrechtslöschungen vorliegen. Die Treuhandgebühr wird von den Käufern getragen. Der Kaufpreis ist ohne Abzug zu bezahlen; Skonti oder Zurückbehaltungsrechte wegen Mängeln, die im Zustandsbericht angeführt sind, bestehen nicht.
 
 VI. Lastenfreistellung
 
@@ -70,7 +70,7 @@ VIII. Übergabe und Gefahrenübergang
 
 Der Besitz, der Nutzen und die Gefahr gehen mit dem [[date|01.11.2026]] auf die Käufer über. Bis dahin verbleibt die Liegenschaft im Besitz der [[organization|Thumb Handels]], die sie in ordnungsgemäßem Zustand zu erhalten hat. Die Verkäuferin haftet für Schäden, die bis zur Übergabe entstehen, soweit sie auf mangelnde Instandhaltung zurückzuführen sind.
 
-Die bestehenden Mietverhältnisse der Wohneinheiten sind im Vertrag gesondert angeführt. Die Mietzinse für den Monat der Übergabe gebühren der Verkäuferin, die Käufer treten mit dem Übergabetag in die Rechte und Pflichten der Vermieterin ein.
+Die bestehenden Mietverhältnisse der Wohneinheiten sind in Abschnitt XII gesondert angeführt; Mietzinsrückstände aus der Zeit vor der Übergabe verbleiben bei der Verkäuferin, Mietzinse ab der Übergabe gebühren den Käufern. Die Mietzinse für den Monat der Übergabe gebühren der Verkäuferin, die Käufer treten mit dem Übergabetag in die Rechte und Pflichten der Vermieterin ein.
 
 IX. Steuern und Gebühren
 
@@ -92,7 +92,7 @@ Wohneinheit | Mieter | Mietzins netto (EUR) | Kaution (EUR)
 Top 1 | [[person|Edin Hadžić]] | 540,00 | 1.620,00
 Top 2 | [[person|Gülcan Aydoğan]] | 512,00 | 1.536,00
 
-Die Mietverträge wurden vor dem [[date|01.04.2019]] abgeschlossen und unterliegen dem Mietrechtsgesetz. Die Käufer treten in die Mietverträge ein, die Mieter sind von der Eigentumsübertragung schriftlich zu verständigen. Die Mieter haben den Mietzins bisher stets pünktlich entrichtet, Mietrückstände bestehen nach Angabe der Verkäuferin nicht.
+Die Mietverträge wurden vor dem [[date|01.04.2019]] abgeschlossen und unterliegen dem [[legal_norm|Mietrechtsgesetz]]. Die Käufer treten in die Mietverträge ein, die Mieter sind von der Eigentumsübertragung schriftlich zu verständigen. Die Mieter haben den Mietzins bisher stets pünktlich entrichtet, Mietrückstände bestehen nach Angabe der Verkäuferin nicht.
 
 XIII. Lastenblatt
 
@@ -108,9 +108,19 @@ XIV. Belehrungen
 
 Die Kanzlei hat die Parteien darüber belehrt, dass die Eintragung im Grundbuch erst nach Vorlage aller erforderlichen Urkunden erfolgen kann. Die Käufer wurden auf die Bedeutung der Aufsandungserklärung und auf die Möglichkeit eines Rücktritts bis zur Fälligkeit des Kaufpreises hingewiesen.
 
-Die Kanzlei hat ferner darauf hingewiesen, dass die Käufer für die Bezahlung der Grunderwerbsteuer und der Eintragungsgebühr innerhalb der gesetzlichen Fristen selbst verantwortlich sind. Eine Haftung der Kanzlei für die rechtzeitige Abgabe von Steuererklärungen ist ausgeschlossen, soweit die Parteien diese selbst vornehmen.
+Die Kanzlei hat ferner darauf hingewiesen, dass die Käufer für die Bezahlung der Grunderwerbsteuer und der Eintragungsgebühr innerhalb der gesetzlichen Fristen selbst verantwortlich sind. Eine Haftung der Kanzlei für die rechtzeitige Abgabe von Steuererklärungen ist ausgeschlossen, soweit die Parteien diese selbst vornehmen. Die Parteien wurden darauf hingewiesen, dass die Aufteilung des Kaufpreises auf die Miteigentümer für Zwecke der Grunderwerbsteuer nach den Anteilen erfolgt und dass eine abweichende Vereinbarung der Zustimmung der Finanzbehörde bedarf. Die Käufer bestätigen, dass sie die Anteile im Verhältnis ihrer Zahlungen erworben haben. Ein Übergabeprotokoll wird bei der Übergabe am [[date|01.11.2026]] errichtet und den Parteien zur Kenntnis gebracht.
 
-XI. Schlussbestimmungen
+XV. Zustandsbericht der Gebäude
+
+Der Zustand des Wohnhauses wurde am [[date|05.08.2026]] durch einen gerichtlich beeideten Sachverständigen für das Bauwesen besichtigt. Das Dach ist in gutem Zustand, die Fassade weist Feuchtigkeitsschäden im Sockelbereich auf. Die Elektroinstallation entspricht nicht mehr den aktuellen Vorschriften, eine Erneuerung wird empfohlen. Die Heizungsanlage stammt aus dem Jahr 2004 und ist funktionsfähig. Die Kosten für die Sanierung des Sockels wurden auf rund 18.000 Euro geschätzt. Dieser Betrag ist im Kaufpreis nicht berücksichtigt; die Käufer übernehmen die Sanierung im Rahmen ihrer Eigentümerpflichten.
+
+XVI. Vollmachten und Treuhandauftrag
+
+Die Käufer erteilen der Kanzlei die Vollmacht, alle für die Durchführung dieses Vertrages erforderlichen Erklärungen gegenüber dem Grundbuch, dem Finanzamt und der Gemeinde abzugeben. Die Verkäuferin erteilt die Vollmacht zur Einholung der Lastenfreistellung und zur Entgegennahme von Zahlungen aus dem Treuhandkonto. Die Kanzlei ist nicht berechtigt, Erklärungen abzugeben, die über den Rahmen dieses Vertrages hinausgehen. Der Treuhandauftrag endet mit der Eintragung der Eigentumsrechte und der Auszahlung des Kaufpreises.
+
+Die Vollmacht erlischt nicht durch den Tod einer Partei, sofern die Erben den Vertrag übernehmen. Der Treuhandauftrag kann von jeder Partei nur aus wichtigem Grund widerrufen werden.
+
+XVII. Schlussbestimmungen
 
 Änderungen und Ergänzungen dieses Vertrages bedürfen der Schriftform. Mündliche Nebenabreden bestehen nicht. Sollte eine Bestimmung unwirksam sein, bleibt der Vertrag im Übrigen wirksam. Der Vertrag wird in fünf Ausfertigungen errichtet.
 

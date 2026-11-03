@@ -73,6 +73,7 @@ Wohnung wird in renoviertem Zustand übergeben. Mängel sind innerhalb von 14 Ta
 rügen. Die Reinigung des Stiegenhauses erfolgt wöchentlich durch die Hausbetreuung.
 
 Vertragsänderungen, die nicht schriftlich festgehalten werden, sind unwirksam. Nebenabreden zur Miethöhe bestehen nicht.
+Der Mieter bestätigt den Erhalt dieses Vertragsexemplars.
 
 7. Schlussbestimmungen
 

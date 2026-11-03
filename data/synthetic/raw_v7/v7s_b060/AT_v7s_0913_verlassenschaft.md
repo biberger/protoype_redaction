@@ -66,7 +66,7 @@ Stellungnahme ging am [[date|02.05.2020]] ein und ist im Akt erliegend.
 Der Erbin [[person|Platzer]] wurde die Schuldenhaftung nur bis zum Wert des Nachlasses zugewiesen.
 
 Die Kosten der Bestattung wurden von der Erbin [[person|Platzer]] vorgestreckt und im Verzeichnis der Passiva
-berücksichtigt. Die Erbin [[person|Lautner]] hat sich mit der Verteilung des Hausrats einverstanden erklärt. Eine
+berücksichtigt. Die Erbin [[person|Lautner]] hat sich mit der Verteilung des Hausrats einverstanden erklärt. Die Abhandlung wird mit der Einantwortung abgeschlossen. Eine
 Nachtragsabhandlung ist nach derzeitigem Stand nicht erforderlich, sofern keine weiteren Vermögenswerte bekannt werden.
 
 Ich ersuche um Einantwortung des Nachlasses an die Erben und den Legatar.

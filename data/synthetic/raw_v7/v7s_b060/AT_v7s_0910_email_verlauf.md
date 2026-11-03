@@ -24,7 +24,7 @@ Abweichungen betreffen nach Auskunft der Mandantin nur die Verpackung, nicht die
 Kaufpreises ist daher nicht gerechtfertigt. Wir bitten um eine Stellungnahme bis zum Ablauf der genannten Frist.
 
 Wir ersuchen um Zahlung binnen 14 Tagen auf das Konto der [[organization|Schäffer]]. Für den Fall, dass Ihre Mandantin die Zahlung ablehnt, werden wir die gerichtliche Durchsetzung ohne weitere Ankündigung
-veranlassen. Wir bitten um Bestätigung des Erhalts dieser E-Mail.
+veranlassen. Wir bitten um Bestätigung des Erhalts dieser E-Mail. Eine telefonische Rücksprache ist unter der oben angeführten Nummer jederzeit möglich.
 
 Mit freundlichen Grüßen
 

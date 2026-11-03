@@ -70,7 +70,7 @@ Gesendet: [[date|12.10.2026]] 11:03
 An: [[lawyer|Lukas Schröcker]] <[[email|schroecker@christian.at]]>
 Betreff: Vergleich [[person|Schönfeld]]
 
-Sehr geehrter Herr Dr. [[lawyer|Schröcker]],
+Sehr geehrter Herr [[lawyer|Dr. Schröcker]],
 
 als Geschäftsführer der [[organization|Kleiner Handels GmbH]], [[company_register_number|FN 156013g]], UID [[tax_id|ATU02339610]], bestätige ich, dass die Gesellschaft einen Teilbetrag von € 2.400,00 nachlässt, sofern Herr [[person|Schönfeld]] die Klage bis zum [[date|30.10.2026]] zurückzieht. Die Zustellung der Klage an [[organization|Kleiner Handels]] erfolgte am [[date|08.09.2026]]. Die Kosten der bisherigen Verfahrenshandlungen tragen die Parteien jeweils selbst.
 
@@ -91,7 +91,7 @@ Gesendet: [[date|20.10.2026]] 08:27
 An: [[lawyer|Lukas Schröcker]]
 Betreff: AW: Vergleich [[person|Schönfeld]]
 
-Lieber Herr Dr. [[lawyer|Schröcker]],
+Lieber Herr [[lawyer|Dr. Schröcker]],
 
 ich bin mit dem Vergleich einverstanden, wenn die [[organization|Kleiner Handels]] den Betrag bis zum [[date|30.10.2026]] überweist. Meine Klientennummer lautet [[other_identifier|5839]]. Frau [[person|Stupka]] kann die Mängelnotiz bestätigen, sie war am Telefon dabei.
 
@@ -107,7 +107,7 @@ Gesendet: [[date|27.10.2026]] 10:19
 An: [[lawyer|Lukas Schröcker]] <[[email|schroecker@christian.at]]>
 Betreff: Vergleichsentwurf
 
-Sehr geehrter Herr Kollege Dr. [[lawyer|Schröcker]],
+Sehr geehrter Herr Kollege [[lawyer|Dr. Schröcker]],
 
 anbei der Vergleichsentwurf für Herrn [[person|Schönfeld]]. Die [[organization|Kleiner Handels GmbH]] hält den Nachlass von € 2.400,00 aufrecht, verlangt jedoch den Verzicht auf die Verzugszinsen. Bitte bestätigen Sie den Eingang bis zum [[date|30.10.2026]].
 

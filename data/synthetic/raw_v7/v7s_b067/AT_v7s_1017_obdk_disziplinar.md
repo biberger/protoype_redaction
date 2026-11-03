@@ -27,7 +27,7 @@ II. Die Beschuldigte hat die Kosten des Verfahrens zu tragen.
 
 Sachverhalt
 
-1. Die Beschuldigte vertrat den Klienten [[person|Goran Steinmetz]] im Verfahren über die Übertragung eines Geschäftslokals in Leoben. Im Rahmen dieses Vertrags übernahm sie die Verwahrung von EUR 31.000,00 auf einem Treuhandkonto, IBAN [[bank_account|AT89 4848 6489 1674 2414]].
+1. Die Beschuldigte vertrat den Klienten [[person|Goran Steinmetz]] im Verfahren über die Übertragung eines Geschäftslokals in [[location|Leoben]]. Im Rahmen dieses Vertrags übernahm sie die Verwahrung von EUR 31.000,00 auf einem Treuhandkonto, IBAN [[bank_account|AT89 4848 6489 1674 2414]].
 
 Die Verkäuferin, die [[organization|Ennstal Wohnbau GmbH]] ([[organization|EWG]]), verlangte die Kaufpreisanzahlung, sobald der Vertrag unterzeichnet war. Die [[organization|EWG]] hat den Betrag am [[date|8. April 2025]] erhalten, nachdem [[person|Goran Steinmetz]] die Freigabe erteilt hatte.
 
