@@ -195,11 +195,13 @@ class NameSwapper:
         for (country, g), names in gaz.first.items():
             for n in names:
                 self.gender.setdefault(n, g)
-        self._turn = 0
 
     def _country(self):
-        self._turn += 1
-        return self.countries[self._turn % len(self.countries)]
+        # weighted by list size, so every name of every country is drawn about equally often
+        if not hasattr(self, "_weights"):
+            self._weights = [len(self.gaz.last[c]) + sum(len(self.gaz.first[(c, g)]) for g in "MF")
+                             for c in self.countries]
+        return self.rng.choices(self.countries, weights=self._weights)[0]
 
     def swap(self, rec):
         text = rec["text"]

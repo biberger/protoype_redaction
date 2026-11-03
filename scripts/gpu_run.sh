@@ -58,6 +58,7 @@ build)
     --exclude-docs data/gold/at/doc_ids.txt \
     --max-per-doc ris=20 --cap ris:Bundesverwaltungsgericht=800 --source-copies synthetic_eu=3 \
     --mix ler=0.39,synthetic=0.3,ris=0.145,replay=0.145,eurlex=0.02 \
+    --windows --layout-frac ${LAYOUT_FRAC:-0.2} --name-swap-copies ${NAME_SWAP_COPIES:-1} \
     --validate -o "$BUILD" > /dev/null
   $PY -c "import json; m = json.load(open('$BUILD/manifest.json')); \
           print({k: m[k] for k in ('train', 'dev', 'test', 'train_share', 'validate')})"
