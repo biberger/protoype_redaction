@@ -23,7 +23,7 @@ abgeschlossen zwischen
 Vermieterin:
 [[organization|Feil Bau GmbH]]
 [[company_register_number|FN 121485f]], UID: [[tax_id|ATU75923440]]
-Verwaltung: Hochstraße 4, 5121 Ostermiething
+Verwaltung: [[address|Hochstraße 4, 5121 Ostermiething]]
 vertreten durch den Prokuristen [[person|Theopist Erler]]
 GEB: [[date_of_birth|06.08.2003]]
 

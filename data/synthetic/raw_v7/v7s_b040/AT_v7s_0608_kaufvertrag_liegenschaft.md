@@ -100,6 +100,26 @@ Treuhandgebühr | 215.000,00 | 645,00
 
 6. Die Vertragsteile bestätigen, dass sie den Vertrag gelesen haben und dass er ihrem Willen entspricht.
 
+VIII. Lastenfreiheit, Vorkaufsrechte und Zusatzvereinbarungen
+
+1. Für die Liegenschaft [[land_register_id|EZ 1330]] ist im Grundbuch ein Pfandrecht zugunsten der [[organization|Hypo Tirol Bank AG]] eingetragen. Die Verkäufer verpflichten sich, die Löschung dieses Pfandrechts aus dem Kaufpreis zu veranlassen. Die Löschungserklärung wird von der Treuhänderin eingeholt und bis zur Auszahlung verwahrt.
+
+2. Das Vorkaufsrecht der [[organization|Marktgemeinde Gnas]] nach dem [[legal_norm|Steiermärkischen Grundverkehrsgesetz]] wurde mit Bescheid vom [[date|9. Februar 2026]] nicht ausgeübt. Eine Ausfertigung dieses Bescheides liegt diesem Vertrag bei und ist Bestandteil der Urkunde.
+
+3. Die Verkäufer erklären, dass auf den Liegenschaften keine Mietverhältnisse bestehen. Das Lagergebäude auf dem Grundstück [[land_register_id|873/9]] wurde zuletzt im Jahr 2024 durch die Käuferin als Lagerfläche genutzt. Eine schriftliche Vereinbarung über diese Nutzung besteht nicht und wird mit der Übergabe beendet.
+
+4. Die Käuferin übernimmt die Verpflichtung, binnen eines Jahres nach Übergabe ein Baugutachten für das Lagergebäude einzuholen. Die Kosten trägt die Käuferin allein. Ein Ergebnis des Gutachtens berührt den Kaufpreis nicht.
+
+5. Die Verkäufer erklären, dass ihnen keine Anträge auf Einleitung eines Verfahrens nach dem Abfallwirtschaftsgesetz bekannt sind. Für den Fall, dass sich nach Übergabe Altlasten zeigen, haften die Verkäufer nur, soweit ihnen Arglist nachzuweisen ist.
+
+IX. Zustellungen
+
+Zustellungen an die Verkäufer erfolgen an die im Punkt I. angeführten Anschriften. Die Käuferin nimmt Zustellungen an ihren Geschäftssitz bei der [[organization|Fürth Bau GmbH]] an. Änderungen der Anschrift sind der Kanzlei unverzüglich mitzuteilen; andernfalls gelten Zustellungen als wirksam erfolgt.
+
+X. Schlussanmerkung der Kanzlei
+
+Die Kanzlei hat die Parteien darauf hingewiesen, dass die Echtheit der Unterschriften für die Verbücherung der Aufsandungserklärung zu bestätigen ist. Die Unterschriften wurden in Gegenwart der Kanzleimitarbeiterin geleistet, die Identität der Parteien wurde anhand amtlicher Lichtbildausweise überprüft. Die Vertragsteile erhalten je eine Ausfertigung.
+
 Errichtet am [[date|18. März 2026]] in [[address|8274 Buch-Geiseldorf]].
 
 Unterschriften:

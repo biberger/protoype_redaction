@@ -9,7 +9,7 @@ An: [[lawyer|Egino Schmit]] <[[email|egino.schmit@kamptal-assekuranz.at]]>
 Cc: [[person|Ingrun Stauder]] <[[email|i.stauder@kamptal-assekuranz.at]]>; [[person|Daria Pavlova]] <[[email|d.pavlova@gmx-mail.at]]>
 Betreff: AW: Schadennummer [[other_identifier|40/420735/22]], Unfall vom [[date|2. September 2026]]
 
-Sehr geehrter Herr Kollege Schmit,
+Sehr geehrter Herr Kollege [[lawyer|Egino Schmit]],
 
 ich nehme zu Ihrer Nachricht vom [[date|14. September 2026]] wie folgt Stellung. Die Quotelung von einem Drittel zu Lasten meines Mandanten lehnen wir ab. Die Ampel stand für Herrn [[person|Elmar Rada]] auf Grün, das bestätigt auch Frau [[person|Daria Pavlova]], die im Fahrzeug saß. Ein Mitverschulden kann daher nicht angenommen werden, auch nicht nach [[legal_norm|§ 1304 ABGB]].
 
@@ -26,11 +26,11 @@ E: [[email|office@fessler.at]]  W: www.fessler.at
 ERV-Code: [[other_identifier|P230111]]
 
 > Am [[date|14. September 2026]], 08:47, schrieb [[lawyer|Egino Schmit]]:
-> Sehr geehrte Frau Kollegin Fessler,
+> Sehr geehrte Frau Kollegin [[person|Fessler]],
 >
 > danke für Ihre Nachricht vom [[date|11. September 2026]]. Die [[organization|Kamptal Assekuranz AG]] („[[organization|KA]]“) hat den Schaden vom [[date|2. September 2026]] in [[address|8903 Lassing]] geprüft. Nach dem Polizeiprotokoll ist Ihr Mandant bei Gelb in den Kreuzungsbereich eingefahren. Die [[organization|KA]] ist daher nur zu einem Drittel leistungspflichtig.
 >
-> Unser Sachverständiger Dipl.-Ing. [[person|Harun Oczko]] hat das Fahrzeug am [[date|8. September 2026]] besichtigt und einen Reparaturaufwand von 4.180 Euro netto festgestellt. Die [[organization|KA]] leistet darauf 1.393 Euro. Die Restforderung stellen wir gerne zur Prüfung zur Verfügung, sobald Sie uns die Werkstattrechnung der Firma [[organization|Ruckendorfer]] vorlegen.
+> Unser Sachverständiger [[person|Dipl.-Ing. Harun Oczko]] hat das Fahrzeug am [[date|8. September 2026]] besichtigt und einen Reparaturaufwand von 4.180 Euro netto festgestellt. Die [[organization|KA]] leistet darauf 1.393 Euro. Die Restforderung stellen wir gerne zur Prüfung zur Verfügung, sobald Sie uns die Werkstattrechnung der Firma [[organization|Ruckendorfer]] vorlegen.
 >
 > Mit freundlichen Grüßen
 > [[lawyer|Egino Schmit]]

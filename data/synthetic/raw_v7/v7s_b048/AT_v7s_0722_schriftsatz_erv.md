@@ -49,7 +49,7 @@ II. Rechtliche Beurteilung
 
 6a. Der Kläger hat die Mängelrüge vorprozessual mehrfach wiederholt. Mit Schreiben vom [[date|4. November 2025]] hat [[person|Krakauer]] für die [[organization|Hubatschek]] jede Verantwortung zurückgewiesen, weil der Wagen „wie besichtigt“ übergeben worden sei. Ein Vergleichsangebot über 6.000 Euro hat der Kläger am [[date|20. November 2025]] abgelehnt, weil es den Motorschaden nicht abdeckte.
 
-7. Das [[court|BG Innere Stadt Wien]] ist nach [[legal_norm|§ 49 JN]] sachlich zuständig. Die örtliche Zuständigkeit folgt aus [[legal_norm|§ 75 JN]], weil der Erfüllungsort in Wien liegt.
+7. Das [[court|BG Innere Stadt Wien]] ist nach [[legal_norm|§ 49 JN]] sachlich zuständig. Die örtliche Zuständigkeit folgt aus [[legal_norm|§ 75 JN]], weil der Erfüllungsort in [[location|Wien]] liegt.
 
 III. Beweis
 

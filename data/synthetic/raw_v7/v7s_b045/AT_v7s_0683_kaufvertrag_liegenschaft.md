@@ -25,7 +25,7 @@ Kaufvertrag über eine Liegenschaft
 
 abgeschlossen am [[date|22. September 2026]] zwischen
 
-I. der Verkäuferin [[organization|Redtenbacher Bau GmbH]], [[company_register_number|FN 517550d]], UID: [[tax_id|ATU90665664]], vertreten durch den Geschäftsführer [[person|Nelles Pfeifer]], geboren am [[date_of_birth|16. April 1974]], Staatsangehöriger von [[country|Afghanistan]],
+I. der Verkäuferin [[organization|Redtenbacher Bau GmbH]], [[company_register_number|FN 517550d]], UID: [[tax_id|ATU90665664]], vertreten durch den Geschäftsführer [[person|Nelles Pfeifer]], GEB: [[date_of_birth|16. April 1974]], Staatsangehöriger von [[country|Afghanistan]],
 
 und
 
@@ -43,6 +43,8 @@ Die Verkäuferin ist grundbücherliche Eigentümerin folgender Liegenschaften:
 Einlagezahl [[land_register_id|507]], [[land_register_id|KG: 92447 Eibiswald]] ([[court|BG Donaustadt]]), Grundstück Nr. [[land_register_id|1175/24]]
 
 Die Liegenschaften liegen in der Gemeinde [[location|St. Martin im Mühlkreis]]. Die Vertragsparteien halten fest, dass der Grundbuchsstand bei Vertragsabschluss dem Grundbuchsauszug entspricht, der dem Vertrag angeschlossen ist.
+
+Laut Firmenbuchauszug vom [[date|28. August 2026]] ist als alleinvertretungsbefugter Geschäftsführer der Verkäuferin eingetragen: [[person|Pfeifer Nelles]]. Die Vertretungsbefugnis wurde vom Treuhänder überprüft.
 
 Die Liegenschaft besteht aus einem Bauplatz mit einer Fläche von 1.240 m² und einem darauf errichteten Einfamilienhaus, das im Jahr 2019 fertiggestellt wurde. Die Verkäuferin verkauft die Liegenschaft samt allen wesentlichen Bestandteilen. Die Käuferinnen erwerben die Liegenschaft je zur Hälfte.
 

@@ -13,12 +13,11 @@ E: [[email|office@wickenburg.at]]  W: www.wickenburg.at
 ERV-Code: [[other_identifier|R871759]]
 
 An die
-[[organization|Wiener Städtische Versicherung AG]]
+[[organization|Alpenland Versicherung AG]]
 Schadenabteilung Kraftfahrt
-Mariahilfer Straße 2-6
-1060 Wien
+[[address|Mariahilfer Straße 2-6, 1060 Wien]]
 
-Ihr Zeichen: [[other_identifier|Vers.-Nr. 97-4513048]]
+Ihr Zeichen: Vers.-Nr. [[other_identifier|97-4513048]]
 
 Betrifft: Schadenfall vom [[date|7. Juli 2026]] auf der Liegenschaft [[land_register_id|EZ. 2603]] [[land_register_id|KG Schwarzach]], [[location|St. Johann im Pongau]]
 
@@ -28,7 +27,7 @@ wir vertreten [[person|Hedda Königsberger]] in der oben genannten Schadensangel
 
 Der Schaden wurde von [[person|Antonio Aanei]] als Lenker des Fahrzeugs verursacht. Das Fahrzeug war auf einer Zufahrt abgestellt und stieß beim Rückwärtsfahren gegen das Tor. Eine Schadensmeldung haben Sie unter Ihrer Nummer erhalten, die Sie oben ersehen.
 
-Die Reparatur des Tores und der Einfriedung wurde von der [[company|Grubhofer Bau GmbH]] angeboten. Die Rechnung vom [[date|18. August 2026]] beläuft sich auf EUR 6.480,00 zuzüglich Umsatzsteuer. Ein Kostenvoranschlag der Grubhofer Bau GmbH liegt bei.
+Die Reparatur des Tores und der Einfriedung wurde von der [[organization|Grubhofer Bau GmbH]], [[company_register_number|FN 231312s]], UID: [[tax_id|ATU51070781]], angeboten. Die Rechnung der [[organization|Grubhofer]] vom [[date|18. August 2026]] beläuft sich auf EUR 6.480,00 zuzüglich Umsatzsteuer. Ein Kostenvoranschlag der [[organization|Grubhofer]] liegt bei.
 
 Wir ersuchen Sie daher, den Betrag bis zum [[date|30. September 2026]] auf das Treuhandkonto unserer Kanzlei zu überweisen. Die Zahlung ist unter Angabe der Schadennummer zu leisten. Sollte die Zahlung nicht fristgerecht eingehen, werden wir die Forderung gerichtlich geltend machen.
 
@@ -36,9 +35,11 @@ Ein Zeuge, [[person|Franco Lobe]], hat den Anstoß am [[date|7. Juli 2026]] gese
 
 Mit freundlichen Grüßen
 
-[[person|Dr. Schäfer]]
+[[lawyer|Dr. Schäfer]]
 Rechtsanwalt
 
 Anlagen: Kostenvoranschlag, Lichtbilder, Schadenprotokoll
+
+STEMPEL: [[organization|GRUBHOFER BAU GMBH]]
 
 [[address|3350 Haag]], am [[date|2. Oktober 2026]]

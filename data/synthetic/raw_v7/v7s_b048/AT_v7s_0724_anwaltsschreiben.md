@@ -11,7 +11,7 @@ E: [[email|office@rank.at]]  W: www.rank.at
 [[organization|UniCredit Bank Austria AG]] IBAN: [[bank_account|AT50 2592 7105 3942 7390]] BIC: [[bank_account|OBKLAT2L]]
 ERV-Code: [[other_identifier|R426838]]
 
-Becker GmbH
+[[organization|Becker GmbH]]
 z.H. Schadenabteilung
 [[address|Gewerbestraße 6, 8850 Murau]]
 

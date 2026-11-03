@@ -47,6 +47,20 @@ Die Lenkerin Frau [[person|Schimek]] hat nach den Feststellungen die Vorschrift 
 
 Hinweis an die Versicherungen: Die Schadennummer [[other_identifier|83/928646/24]] ist bei allen Schreiben anzuführen. Die Polizeiinspektion hat die Anzeige an die zuständige Bezirkshauptmannschaft übermittelt.
 
+Vernehmung der Beteiligten:
+
+Frau [[person|Schimek]] gab zu Protokoll, sie habe die Ampel für sich auf Grün geschaltet gesehen und sei daher nach links eingebogen. Sie habe das entgegenkommende Fahrzeug erst gesehen, als es bereits in unmittelbarer Nähe war. Sie bedauere den Vorfall und habe nach dem Aufprall sofort angehalten. Die Verletzungen habe sie zunächst nicht bemerkt. Sie hat sich zu weiteren Angaben bereit erklärt, sofern ihre Rechtsvertretung anwesend sein kann.
+
+Frau [[person|Skoro]] gab an, sie sei mit etwa 40 km/h in die Kreuzung eingefahren und habe das Fahrzeug von Frau [[person|Schimek]] erst kurz vor dem Zusammenstoß bemerkt. Sie habe versucht zu bremsen, was jedoch wegen des Laubs im Bereich der Querfuge nicht vollständig gelungen sei. Die Angaben stimmen mit den Spuren überein.
+
+Der Zeuge [[person|Gerold Hiebl]] hat ausgesagt, er habe den Unfall aus dem Fenster seines Geschäfts beobachtet. Die Ampel habe für den Verkehr in Fahrtrichtung der Frau [[person|Skoro]] Grün gezeigt. Er sei sich sicher, dass Frau [[person|Schimek]] erst nach dem Umschalten der Gegenrichtung abgebogen ist.
+
+Die Angaben der Beteiligten wurden von der Einsatzbeamtin oder dem Einsatzbeamten vor Ort aufgenommen. Die Aussagen wurden den Beteiligten vorgelesen und von ihnen bestätigt, soweit sie unterschreiben wollten. Frau [[person|Skoro]] hat die Unterschrift mit dem Hinweis verweigert, dass sie die deutsche Sprache nur eingeschränkt beherrsche; die Aussage wurde daher mit Hilfe eines Dolmetschers wiederholt.
+
+Die Spurensicherung hat die Lage der Fahrzeuge vermessen und die Bremsspuren mit Kreide markiert. Die Ergebnisse sind in der Planskizze festgehalten, die diesem Bericht als Beilage 2 angeschlossen ist. Eine Verkehrstafel im Bereich der Kreuzung war nach Angaben der Gemeinde seit dem Frühjahr beschädigt, was für den Vorfall aber nicht ursächlich war.
+
+Die Unfallstelle wurde gegen 16:05 Uhr freigegeben. Der Verkehr wurde während der Aufnahme über die Umleitung geführt, die Ortsdurchfahrt war für etwa 50 Minuten gesperrt.
+
 Hinweis zum Dokument: Die Ausweisnummer der Frau [[person|Skoro]] wurde an Hand des Reisepasses übernommen; die Ausweisnummer von Frau [[person|Schimek]] wurde vom Personalausweis abgelesen. Das Kennzeichen des Fahrzeugs wurde am Fahrzeug selbst überprüft.
 
 Unterschrift des Einsatzbeamten:

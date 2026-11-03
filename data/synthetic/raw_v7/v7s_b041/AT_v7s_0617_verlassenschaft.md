@@ -84,7 +84,7 @@ sich aus einer offenen Kreditkartenabrechnung, den Kosten der Bestattung und ein
 zusammen. Die Bestattungskosten in Höhe von EUR 3.150,00 wurden bereits von [[person|Marijana Stanišić]] aus eigenen
 Mitteln vorgeschossen; die Vorschussberechtigung wurde im Verfahren anerkannt.
 
-Der Pkw wird von [[person|Ferdel Pfleger]] übernommen, der den Erbanteil am Fahrzeug nach Abzug der Verwertungskosten
+Auf ihren Anteil am Hausrat verzichtet [[person|Roma Marchioro]] zugunsten der übrigen Erben. Der Pkw wird von [[person|Ferdel Pfleger]] übernommen, der den Erbanteil am Fahrzeug nach Abzug der Verwertungskosten
 ausgleichen wird. Die Erben haben sich über die Teilung des Hausrates einvernehmlich geeinigt; eine Liste liegt bei.
 
 **5. Verfahrensstand**
@@ -96,7 +96,7 @@ Einverleibung des Eigentumsrechts zugunsten der Erben wird nach der Einantwortun
 Die [[organization|Raiffeisenbank Meidling]] hat zur Löschung des Pfandrechts eine Quittung in Aussicht gestellt.
 
 Die Erbinnen und Erben werden gebeten, die Kontaktaufnahme über den Notar zu halten. Auskünfte erteilt die
-Kanzlei unter der Telefonnummer [[phone_number|+43 463 266 17 18 Durchwahl 64]] während der Kanzleistunden.
+Kanzlei unter Tel. [[phone_number|+43 463 266 17 18 Durchwahl 64]] während der Kanzleistunden.
 
 Zum Vermächtnis der [[person|Güvenir]] ist anzumerken, dass das Wohnungsrecht im Grundbuch der Liegenschaft
 anzumerken ist. Die Vermächtnisnehmerin hat dem Notar gegenüber erklärt, die Wohnung bis zur Übergabe an die Erben

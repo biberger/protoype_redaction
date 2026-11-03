@@ -56,7 +56,7 @@ Die Verbindlichkeiten betragen EUR 1.875,50 und betreffen die Begräbniskosten s
 Erbschaftssteuer ist nach der geltenden Rechtslage nicht zu entrichten, die Anzeige nach dem [[legal_norm|Grundbuchsgesetz]]
 bleibt jedoch zu erstatten.
 
-Die Erbin [[person|Stanišić]] hat die Erbschaft unbedingt angenommen. Die Legatare haben die Vermächtnisse
+Die Erbin [[person|Marijana Stanišić]] hat die Erbschaft unbedingt angenommen. Die Legatare haben die Vermächtnisse
 angenommen. Der Legatar [[person|Goebl]] hat für die Erblasserin Auskünfte über die Kfz-Zulassung erteilt; dies
 ist im Akt vermerkt.
 

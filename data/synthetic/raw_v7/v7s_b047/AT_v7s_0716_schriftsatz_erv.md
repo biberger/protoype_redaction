@@ -49,7 +49,7 @@ II. Rechtliche Ausführungen
 
 5. Die Klägerin stützt ihren Anspruch auf [[legal_norm|§ 932 ABGB]] und [[legal_norm|§ 1168 ABGB]]. Der Beklagte haftet als Vertragspartner, nicht bloß als Organ der THG, weil er den Auftrag persönlich angenommen hat.
 
-6. Der Streitwert ergibt sich aus [[legal_norm|§§ 41, 50 ZPO]]. Die Klage ist beim sachlich und örtlich zuständigen Gericht einzubringen, weil der Erfüllungsort in [[location|Thal]] liegt.
+6. Der Streitwert ergibt sich aus [[legal_norm|§§ 41, 50 ZPO]]. Die Klage ist beim [[court|BG Braunau am Inn]] einzubringen, weil die Klägerin im Sprengel dieses Gerichts wohnt und der Gerichtsstand des Erfüllungsorts nach dem Vertrag vereinbart ist.
 
 III. Beweismittel
 
@@ -68,7 +68,7 @@ Die Klägerin stellt daher die Anträge,
 
 2. die Kosten des Verfahrens werden dem Beklagten auferlegt.
 
-Handenberg, am [[date|14.01.2025]]
+[[location|Handenberg]], am [[date|14.01.2025]]
 
 [[person|Chloris Luković]]
 Klägerin

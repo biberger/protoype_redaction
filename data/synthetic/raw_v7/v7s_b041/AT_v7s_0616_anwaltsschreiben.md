@@ -35,8 +35,8 @@ wohnhaft [[address|Hagenberggasse 4/2, 1130 Wien]], an. Die Vollmacht legen wir 
 Am [[date|3. August 2026]] kam es in [[location|Linz]] auf der Kreuzung Landstraße und Hauptplatz zu einem Zusammenstoß
 zwischen dem von unserer Mandantin gelenkten Pkw und einem Kleintransporter, den Herr [[person|Nael Singh]]
 für die [[organization|Schmirl KG]], [[company_register_number|FN 413370y]], lenkte. Die [[organization|Schmirl KG]] ist
-Halterin des Fahrzeugs; die Haftpflichtversicherung ist bei Ihrem Haus unter der oben angeführten Polizzen-Nr.
-[[other_identifier|65-4695587]] abgeschlossen.
+Halterin des Fahrzeugs; die Haftpflichtversicherung ist bei Ihrem Haus unter der oben angeführten Polizzen-Nr. [[other_identifier|65-4695587]] abgeschlossen. Zahlungen können auch auf das
+Konto der [[organization|Schmirl KG]], IBAN [[bank_account|AT80 2903 6933 9023 2086]], erfolgen.
 
 Der Unfallhergang ist durch die Angaben beider Lenker und die Aussage der Beifahrerin nachvollziehbar. Die
 Beifahrerin [[person|Peekje Christian]], Staatsangehörige von [[country|Syrien]], hat bei der [[organization|Polizeiinspektion Linz Mitte]] angegeben, dass der Kleintransporter ohne Blinkzeichen aus der Nebenfahrbahn in die Kreuzung eingefahren

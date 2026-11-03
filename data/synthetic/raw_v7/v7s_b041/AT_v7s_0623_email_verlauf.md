@@ -40,7 +40,7 @@ ERV-Code: [[other_identifier|R647754]]
 >
 > sehr geehrte Frau [[person|Popluhárová]],
 >
-> wir benötigen zur Bearbeitung die Bestätigung der Klientin [[person|Robina Hunger]] und das Gutachten des
+> wir benötigen zur Bearbeitung die Bestätigung der Klientin [[person|Robina Hunger]] (Klientennummer: [[other_identifier|74360]]) und das Gutachten des
 > Sachverständigen [[person|Gerome Gschwandtner]]. Die Schadensache der Klientin ist im Schadenregister unter
 > der Schaden-Nr. [[other_identifier|30/637792/25]] geführt. Bitte prüfen Sie die Schadennummer, da wir eine
 > Schadennummer [[other_identifier|10/666667/20]] nicht zuordnen können.
