@@ -49,7 +49,7 @@ Einlagezahl [[land_register_id|1458]] / Grundbuch [[land_register_id|07870]]; [[
 Fahrzeug: FIN [[other_identifier|CN35P11W405PB7T8J]] (Dienstwagen der [[organization|MKG]])
 Ersatzfahrzeug: FIN [[other_identifier|8FUYCRYWBJ5FX7W86]]
 
-Hinweis: Die Stadtgemeinde Mistelbach ist keine Partei des Verfahrens; die Bestätigung erfolgt ohne Gewähr für die Richtigkeit der Angaben der Meldepflichtigen.
+Hinweis: Die [[organization|Stadtgemeinde Mistelbach]] ist keine Partei des Verfahrens; die Bestätigung erfolgt ohne Gewähr für die Richtigkeit der Angaben der Meldepflichtigen.
 
 Für Rückfragen steht [[person|Eleonore Dr. Schneider]] unter Tel. [[phone_number|0662/1483553-30]] zur Verfügung. Die Meldebestätigung wurde in [[location|Mistelbach]] am [[date|01.10.2026]] elektronisch ausgestellt.
 

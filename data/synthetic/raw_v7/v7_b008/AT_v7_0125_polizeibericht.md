@@ -11,7 +11,7 @@ ERHEBUNGSBERICHT ZU EINEM SACHSCHADEN
 
 [[location|Wien]], am [[date|27.10.2026]]
 
-Am [[date|25.10.2026]] wurde der [[organization|PI]] ein Schaden an einem Lieferwagen gemeldet. Der Lieferwagen mit dem Kennzeichen [[license_plate|P-9WO]] gehört der [[organization|Stachl Bau GmbH]], FN [[company_register_number|FN 250003b]], UID [[tax_id|ATU31612403]]. Der Lieferwagen war am Vortag in [[location|St. Florian]] abgestellt und wurde beim Ausparken beschädigt.
+Am [[date|25.10.2026]] wurde der [[organization|PI]] ein Schaden an einem Lieferwagen gemeldet. Der Lieferwagen mit dem Kennzeichen [[license_plate|P-9WO]] gehört der [[organization|Stachl Bau GmbH]], [[company_register_number|FN 250003b]], UID [[tax_id|ATU31612403]]. Der Lieferwagen war am Vortag in [[location|St. Florian]] abgestellt und wurde beim Ausparken beschädigt.
 
 Beteiligte Personen laut Anzeige:
 

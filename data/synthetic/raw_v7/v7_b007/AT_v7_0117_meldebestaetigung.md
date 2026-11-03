@@ -5,7 +5,7 @@ lang: de
 ---
 [[organization|Rinderer Bau GmbH]], [[company_register_number|FN 4419z]]
 UID: [[tax_id|ATU15911681]]
-Bauleitung Wien, Tel. [[phone_number|+43-512-3466767-1]]
+Bauleitung, Tel. [[phone_number|+43-512-3466767-1]]
 
 Betreff: Meldebestätigungen für das Verfahren vor dem [[court|Bezirksgericht Leopoldstadt]]
 Unser Zeichen: RB-2026-0447
@@ -45,7 +45,7 @@ Verlauf der Meldungen, Stand [[date|26.10.2026]]:
 Datum | Vorgang | Anschrift
 [[date|03.08.2016]] | Anmeldung Hauptwohnsitz | [[address|Taborstraße 38/5, 1020 Wien]]
 [[date|15.06.2018]] | Zuzug aus [[location|Brünn]] | [[address|Obere Donaustraße 17/2, 1020 Wien]]
-[[date|28.02.2023]] | Ummeldung innerhalb Wien | [[address|Große Sperlgasse 14/1, 1020 Wien]]
+[[date|28.02.2023]] | Ummeldung innerhalb [[location|Wien]] | [[address|Große Sperlgasse 14/1, 1020 Wien]]
 [[date|19.05.2019]] | Anmeldung Hauptwohnsitz | [[address|Handelskai 94/7, 1020 Wien]]
 
 Verlauf für [[person|Schliefsteiner Bertram]], geb. [[date_of_birth|1987-12-22]]:
@@ -80,3 +80,23 @@ Bauleiterin
 [[location|St. Wolfgang im Salzkammergut]] ist nicht Teil des Bauvorhabens; die Angabe betrifft nur das Melderegister eines früheren Mitarbeiters, der nicht mehr im Verfahren ist.
 
 Die Bestätigung wurde am [[date|27.10.2026]] in [[location|Wien]] erstellt.
+
+Anlage 2: Zusammenstellung der Meldedaten für die Bauakte
+
+Die folgende Aufstellung übernimmt die Angaben aus den Meldebestätigungen oben. Die Bauleitung hat sie nicht gesondert geprüft; maßgeblich ist das Zentrale Melderegister.
+
+Nr. | Person | Meldung seit | Anschrift
+1 | [[person|Dr. Fee Dreier]] | [[date|11.02.2021]] | [[address|Praterstraße 52/9, 1020 Wien]]
+2 | [[person|Mihai Serafin]] | [[date|03.08.2016]] | [[address|Taborstraße 38/5, 1020 Wien]]
+3 | [[person|Gitka Valík]] | [[date|15.06.2018]] | [[address|Obere Donaustraße 17/2, 1020 Wien]]
+4 | [[person|Liebgard Feldmann]] | [[date|19.05.2019]] | [[address|Handelskai 94/7, 1020 Wien]]
+5 | [[person|Bertram Schliefsteiner]] | [[date|05.01.2012]] | [[address|Rembrandtstraße 6, 1020 Wien]]
+6 | [[person|Adla Tintěra]] | [[date|28.02.2023]] | [[address|Große Sperlgasse 14/1, 1020 Wien]]
+
+Zur Chronologie der Bauarbeiten: Die erste Begehung fand am [[date|08.01.2025]] statt, die Pläne wurden am [[date|21.02.2025]] von der [[organization|Rinderer Bau]] vorgelegt. Die Behörde hat am [[date|10.04.2025]] die Genehmigung erteilt. Die Baustelle wurde am [[date|01.06.2025]] eingerichtet; die Rohbauarbeiten endeten am [[date|18.07.2025]].
+
+Die Frau [[person|Tintěra]] hat am [[date|06.08.2025]] schriftlich darauf hingewiesen, dass die Zufahrt zur Liegenschaft in [[address|3862 Eisgarn]] während der Arbeiten nicht frei war. Die [[organization|Rinderer]] hat dies am [[date|09.08.2025]] bestätigt und die Zufahrt bis [[date|12.08.2025]] geöffnet. Der Vorgang ist im Bauprotokoll unter der Nummer [[other_identifier|RB-2025-0212]] abgelegt.
+
+Die Kosten der Meldebestätigungen (je 14,30 EUR) wurden am [[date|23.10.2026]] vollständig bezahlt. Die Zahlungsbestätigung der [[organization|Rinderer Bau GmbH]] liegt bei. Rückfragen zu dieser Zusammenstellung richten Sie bitte an [[person|Liebgard Feldmann]], Tel. [[phone_number|+43-512-3466767-1]], oder an die Adresse der Bauleitung in [[location|Wien]].
+
+Anlage 2 endet hier. Die Zusammenstellung ersetzt keine amtliche Auskunft.

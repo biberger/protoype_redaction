@@ -11,7 +11,7 @@ BETRIFFT: VERKEHRSUNFALL MIT SACHSCHADEN, LIEFERWAGEN [[organization|STELZER IMM
 
 [[location|Wien]], am [[date|02.11.2026]]
 
-Am [[date|31.10.2026]] gegen 13:20 Uhr kam es auf der [[street|Laxenburger Straße]] beim Rückwärtsfahren eines Lieferwagens zu einer Kollision mit einem geparkten Pkw. Der Lieferwagen mit dem Kennzeichen [[license_plate|LA 400 BJ]] gehört der [[organization|Stelzer Immobilien GmbH]], FN [[company_register_number|FN 496743f]], UID [[tax_id|ATU41553662]]. Die [[organization|Stelzer]] hat den Schaden angezeigt.
+Am [[date|31.10.2026]] gegen 13:20 Uhr kam es auf der [[street|Laxenburger Straße]] beim Rückwärtsfahren eines Lieferwagens zu einer Kollision mit einem geparkten Pkw. Der Lieferwagen mit dem Kennzeichen [[license_plate|LA 400 BJ]] gehört der [[organization|Stelzer Immobilien GmbH]], [[company_register_number|FN 496743f]], UID [[tax_id|ATU41553662]]. Die [[organization|Stelzer]] hat den Schaden angezeigt.
 
 Beteiligte Personen laut Aufnahme:
 
@@ -27,7 +27,7 @@ Zeuge: [[person|Yasin Ghasimy]], Geburtsdatum: [[date_of_birth|18.12.1970]], StA
 
 Zeugin: [[person|Heidi Dr. Krainz]], die den Vorgang vom Gehsteig aus beobachtete.
 
-Die Angaben des Lenkers zum Ablauf waren widersprüchlich. Er gab an, er habe den Rückwärtsgang eingelegt, ohne die Lichtzeichen des [[organization|SI]]-Parkplatzes zu beachten. Der Vorgang wurde mit der [[organization|Stelzer]] Immobilien GmbH, vertreten durch die Geschäftsführung, besprochen.
+Die Angaben des Lenkers zum Ablauf waren widersprüchlich. Er gab an, er habe den Rückwärtsgang eingelegt, ohne den Parkplatz der [[organization|Stelzer Immobilien GmbH]] zu beachten. Der Vorgang wurde mit der [[organization|Stelzer Immobilien GmbH]], vertreten durch die Geschäftsführung, besprochen.
 
 Vermerk der Schadensmeldung:
 

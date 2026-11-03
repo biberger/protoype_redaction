@@ -46,5 +46,7 @@ Die Zahlung ist auf IBAN [[bank_account|AT46 3280 9020 1542 9685]] zu leisten. D
 Tel. [[phone_number|02622 122511 DW 551]]
 [[address|6067 Absam]]
 
+Die Abrechnung erfolgt nach Stunden zu den vereinbarten Sätzen. Die Vollmacht vom [[date|10.07.2026]] liegt im Akt. [[person|Cazilia Hochenegg]] hat die Honorarnote am [[date|31.08.2026]] bestätigt.
+
 Mit freundlichen Grüßen
 [[person|Pfeiler]]

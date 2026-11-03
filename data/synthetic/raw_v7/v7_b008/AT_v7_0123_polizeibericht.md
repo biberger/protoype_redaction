@@ -11,7 +11,7 @@ BERICHT ÜBER EINEN VERKEHRSUNFALL MIT PERSONENSCHADEN
 
 [[location|Wien]], am [[date|21.10.2026]]
 
-Am [[date|19.10.2026]] gegen 14:05 Uhr kam es auf der Kreuzung der [[street|Gumpendorfer Straße]] mit der [[street|Mariahilfer Straße]] zu einem Zusammenstoß zwischen einem Kleinbus und einem Fahrrad. Der Kleinbus, Kennzeichen [[license_plate|WL-582ZC]], gehört der [[organization|Tichy KG]], FN [[company_register_number|FN 251788b]], UID [[tax_id|ATU10564646]]. Der Fahrer, [[person|Gregor Spitz]], hatte die Vorrangregel nicht beachtet.
+Am [[date|19.10.2026]] gegen 14:05 Uhr kam es auf der Kreuzung der [[street|Gumpendorfer Straße]] mit der [[street|Mariahilfer Straße]] zu einem Zusammenstoß zwischen einem Kleinbus und einem Fahrrad. Der Kleinbus, Kennzeichen [[license_plate|WL-582ZC]], gehört der [[organization|Tichy KG]], [[company_register_number|FN 251788b]], UID [[tax_id|ATU10564646]]. Der Fahrer, [[person|Gregor Spitz]], hatte die Vorrangregel nicht beachtet.
 
 Die Fahrradlenkerin, [[person|Dore Edlinger]], geb. [[date_of_birth|26.05.1979]], StA: [[country|Slowakei]], erlitt eine Schulterverletzung und wurde ins Krankenhaus gebracht.
 

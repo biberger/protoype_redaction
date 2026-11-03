@@ -31,7 +31,7 @@ Verlauf der Meldungen für [[person|Baur Tilmann]]:
 
 Datum | Vorgang | Anschrift
 [[date|01.10.2014]] | Zuzug aus [[location|Salzburg]] | [[address|Stadlerstraße 14, 4020 Linz]]
-[[date|20.05.2021]] | Ummeldung innerhalb Linz | [[address|Stadlerstraße 14, 4020 Linz]]
+[[date|20.05.2021]] | Ummeldung innerhalb [[location|Linz]] | [[address|Stadlerstraße 14, 4020 Linz]]
 [[date|07.07.2026]] | Anmeldung Nebenwohnsitz | [[address|4085 Waldkirchen am Wesen]]
 
 Die [[organization|von Starhemberg KG]] ist Eigentümerin der Liegenschaft und hat folgende Angaben übermittelt:
@@ -43,7 +43,7 @@ Vertragsnummer der KG: [[other_identifier|KV-2020-8079]]
 
 Das Fahrzeug [[license_plate|WU-93087 D]] ist auf die [[organization|von Starhemberg KG]] ([[organization|VSK]]) zugelassen.
 
-Die Gebühr für diese Bestätigung von 14,30 EUR wurde auf das Konto [[bank_account|AT62 1137 7688 0824 6540]] überwiesen. Empfänger: [[organization|von Starhemberg KG]], FN [[company_register_number|FN 379281t]].
+Die Gebühr für diese Bestätigung von 14,30 EUR wurde auf das Konto [[bank_account|AT62 1137 7688 0824 6540]] überwiesen. Empfänger: [[organization|von Starhemberg KG]], [[company_register_number|FN 379281t]].
 
 Die UID der KG lautet [[tax_id|ATU60175580]].
 

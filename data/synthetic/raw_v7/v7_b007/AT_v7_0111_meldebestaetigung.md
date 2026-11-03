@@ -6,7 +6,7 @@ lang: de
 [[organization|STARZACHER GMBH]], [[company_register_number|FN 44134d]], UID [[tax_id|ATU79983163]]
 Kundenbetreuung: [[person|Elberich Hugelmann]]
 
-STAMPIGLIE: [[person|KRYVONIS RUSLANA]] – MELDEAMT HORN – EINGEGANGEN
+STAMPIGLIE: [[person|KRYVONIS RUSLANA]] – MELDEAMT [[location|HORN]] – EINGEGANGEN
 
 Zl. [[case_number|MA-HO-2026/0931]]
 
@@ -45,7 +45,7 @@ Die [[country|Republik Österreich]] als Beklagte hat im Verfahren darauf hingew
 
 Rückfragen an die Kundenbetreuung unter Tel. [[phone_number|02742/919932 Durchwahl 21]].
 
-Ausgestellt am [[date|27.10.2026]] in [[location|Horn]].
+Ausgestellt am [[date|27.10.2026]] in [[location|Horn]] für die Vorlage beim [[court|Bezirksgericht Horn]].
 
 Die Bestätigung ist nur in Verbindung mit dem Zentralen Melderegister gültig. Ein Abdruck der Angaben aus dem ZMR wird in keiner Weise gespeichert.
 

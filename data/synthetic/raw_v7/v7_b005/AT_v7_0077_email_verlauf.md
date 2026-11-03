@@ -51,7 +51,11 @@ Betreff: Mietrückstand
 
 Sehr geehrter Herr [[person|Kraft]],
 
-wir fordern Sie auf, den offenen Betrag bis [[date|31. März 2025]] zu überweisen. Mitmieterin ist [[person|Wenzl Ingeborg]], geb. [[date_of_birth|12.03.1960]]; sie wird ebenfalls angeschrieben. Andernfalls wird die [[organization|HYPO NOE]] als Gläubigerin der Forderung ein Mahnverfahren beim [[court|Bezirksgericht Meidling]] einleiten, später beim [[court|BG Meidling]].
+wir fordern Sie auf, den offenen Betrag bis [[date|31. März 2025]] zu überweisen. Mitmieterin ist [[person|Wenzl Ingeborg]], geb. [[date_of_birth|12.03.1960]]; sie wird ebenfalls angeschrieben.
+
+Parteien:
+[[person|MMag. Harribert⏎Kraft]], geb. [[date_of_birth|1972-07-10]],
+[[address|Am Hang 4,⏎8160 Krottendorf]] Andernfalls wird die [[organization|HYPO NOE]] als Gläubigerin der Forderung ein Mahnverfahren beim [[court|Bezirksgericht Meidling]] einleiten, später beim [[court|BG Meidling]].
 
 Die folgende Aufstellung zeigt die offenen Posten:
 

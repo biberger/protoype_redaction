@@ -21,7 +21,9 @@ Betreff: Bauvertrag [[organization|Kristofics-Binder]]
 
 Sehr geehrter Herr [[person|Kienast]],
 
-ich bestätige den Auftrag an die [[organization|Kristofics-Binder Bau GmbH]] ([[company_register_number|FN 423195x]], UID: [[tax_id|ATU19029487]]). Die Arbeiten der [[organization|Kristofics-Binder]] beginnen im März. Die Zahlung erfolgt auf IBAN [[bank_account|AT74 9786 8076 7775 2717]].
+ich bestätige den Auftrag an die [[organization|Kristofics-Binder Bau GmbH]] ([[company_register_number|FN 423195x]], UID: [[tax_id|ATU19029487]]). Die Arbeiten der [[organization|Kristofics-Binder]] beginnen im März.
+
+Parteien: [[person|Dorit⏎Török]], [[person|Mara⏎Bogavac]] Die Zahlung erfolgt auf IBAN [[bank_account|AT74 9786 8076 7775 2717]].
 
 TH-Nr. [[other_identifier|2023/850]]
 Treuhandschaft Nr. [[other_identifier|2026/946]]

@@ -43,4 +43,14 @@ Kd.-Nr. [[other_identifier|503946]]
 Tel. [[phone_number|+43-5572-4506462 Kl. 28]]
 Bankverbindung: [[bank_account|AT10 5876 3612 5160 3167]]
 
+Weitere Eintragungen:
+
+Datum | Eintragung | Bemerkung
+[[date|01.07.2019]] | Anteilsübertragung von [[person|Galip Gök]] an [[person|Dagmar Sedlmayr]] | Haftsumme EUR 10.000,00 unverändert
+[[date|18.02.2022]] | Änderung der Geschäftsanschrift | [[address|9844 Heiligenblut]]
+
+Gegenstand der Gesellschaft ist der Betrieb eines Hotels und die Vermietung von Ferienwohnungen in [[location|Heiligenblut]]. Zustellungsbevollmächtigte Person ist [[person|Mag. Elfriede Pichler]], Rechtsberaterin der Gesellschaft; sie ist nicht Rechtsanwältin.
+
+Die Gesellschafterversammlung hat am [[date|22.11.2023]] eine Gewinnverwendung beschlossen. Auszahlungen an die Kommanditisten erfolgen nach Maßgabe der Haftsummen. Die Bilanz für das Geschäftsjahr 2022 wurde am [[date|30.06.2023]] hinterlegt.
+
 [[location|Heiligenblut]], am [[date|02.11.2026]]

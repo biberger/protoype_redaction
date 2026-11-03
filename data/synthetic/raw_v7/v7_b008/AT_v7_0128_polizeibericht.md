@@ -19,8 +19,8 @@ Die Zeugin [[person|Gerda Dr. Hölzl]] gab an, sie habe den Zusammenstoß von de
 
 Beteiligte Halter und Versicherte:
 
-Klienten-Nr. [[other_identifier|78473]] (Herr Czerny)
-Kunden-Nr. [[other_identifier|969705]] (Herr Kos)
+Klienten-Nr. [[other_identifier|78473]] (Herr [[person|Czerny]])
+Kunden-Nr. [[other_identifier|969705]] (Herr [[person|Kos]])
 
 Liegenschaftsvermerke der Halter:
 
@@ -28,9 +28,9 @@ Liegenschaftsvermerke der Halter:
 [[land_register_id|GB 34857]]/Einlagezahl [[land_register_id|382]]
 [[land_register_id|KG Altenmarkt an der Triesting]] / Einlagezahl [[land_register_id|3373]]
 
-Die Halterin des Gegenfahrzeuges wohnt in [[address|2572 Kaumberg]]. Der Zeuge Kos gibt als Wohnort [[location|St. Lorenzen]] an.
+Die Halterin des Gegenfahrzeuges wohnt in [[address|2572 Kaumberg]]. Der Zeuge [[person|Kos]] gibt als Wohnort [[location|St. Lorenzen]] an.
 
-Kontakt der Zeugin Dr. Hölzl laut Vermerk:
+Kontakt der Zeugin [[person|Dr. Hölzl]] laut Vermerk:
 
 Tel. [[phone_number|0662 209889 Kl. 50]]
 Fax [[phone_number|0662 209889 Kl. 51]]

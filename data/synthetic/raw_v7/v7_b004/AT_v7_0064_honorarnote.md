@@ -46,5 +46,15 @@ Die Kosten sind binnen 14 Tagen zu bezahlen. Zahlungen erbitten wir auf IBAN [[b
 
 Tel. [[phone_number|+43-316-2404212 Durchwahl 72]]
 
+Die Kanzlei hat die Angelegenheit seit der ersten Besprechung am [[date|12.03.2026]] begleitet. Im Zuge der Vorbereitung wurden die Mitteilungen der [[organization|Wutte]] gesichtet und mit den Unterlagen der Auftraggeber abgeglichen. Dabei zeigte sich, dass die Angaben zur Liegenschaft [[land_register_id|2608/Neuhofen an der Ybbs]] in mehreren Urkunden voneinander abweichen. Die Kanzlei hat daraufhin eine Abfrage beim Grundbuch veranlasst.
+
+Die Stellungnahme der Gegenseite vom [[date|29.04.2026]] enthielt keine neuen Tatsachen, weshalb eine Replik erforderlich wurde. Diese wurde am [[date|13.05.2026]] eingebracht. Der Vergleichsvorschlag des Gerichts vom [[date|16.06.2026]] wurde den Auftraggebern in einer Besprechung erläutert.
+
+Ergänzend sei darauf hingewiesen, dass die Auftraggeberin [[person|Reineke Michielsen]] an einzelnen Verhandlungsterminen nicht teilnehmen konnte und sich durch die Kanzlei vertreten ließ. Die Teilnahme des Auftraggebers [[person|Hansjörg Neumayer]] erfolgte an allen Terminen. Die Zahlungen auf das Klientenkonto sind bis zum [[date|30.09.2026]] eingegangen.
+
+Die Auslagen für Gerichtsgebühren, Beglaubigungen und Porto sind in den angeführten Beträgen nicht enthalten. Sie werden gesondert nach Beleg verrechnet.
+
+Hinweis: Diese Note ist binnen vierzehn Tagen zu begleichen. Bei Zahlungsverzug behält sich die Kanzlei die Geltendmachung von Verzugszinsen vor.
+
 Mit freundlichen Grüßen
 [[person|Wicher]]

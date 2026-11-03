@@ -36,13 +36,13 @@ Die Liegenschaft ist im Grundbuch [[land_register_id|83110 Laßnitzthal]] / [[la
 
 Die Frau [[person|Starkl]] hat am [[date|07.01.2026]] den Mietvertrag gekündigt, die Kündigung wurde jedoch bestritten. Die Mieterin [[person|Antunovic]] verweist auf [[legal_norm|§ 30 MRG]].
 
-Die Schadensmeldung trägt die Nummer Schaden-Nr. [[other_identifier|16/812862/20]]. Die Gutachterin hat die Mängel am [[date|12.11.2025]] festgestellt.
+Die Schadensmeldung trägt die Schaden-Nr. [[other_identifier|16/812862/20]]. Die Gutachterin hat die Mängel am [[date|12.11.2025]] festgestellt.
 
 Die Mietzinsüberweisungen erfolgten auf das Konto [[bank_account|AT82 4441 2514 2888 8989]]. Die Zahlungen von [[date|01.10.2025]] bis [[date|01.02.2026]] sind belegt.
 
 Die Dienststelle der Stadt [[location|St. Pölten]] hat die Anfrage beantwortet. Die Mieterinnen erreichen wir über Tel. [[phone_number|+43 316 806 39 36-36]].
 
-Die Zeugin [[person|Eleonore Dr. Schneider]] hat die Begehung am [[date|05.12.2025]] begleitet.
+Die Zeugin [[person|Eleonore Dr. Schneider]] hat die Begehung am [[date|05.12.2025]] begleitet. Im Parallelverfahren ist die [[country|Republik Österreich]] als Beklagte geführt, der Ausgang ist offen.
 
 Wir beantragen die Abweisung der Klage und ersuchen um Zustellung der Akten. Das [[court|Bezirksgericht Waidhofen an der Thaya]] wird um Terminsetzung ersucht; das [[court|BG Waidhofen an der Thaya]] hat die Unterlagen erhalten.
 

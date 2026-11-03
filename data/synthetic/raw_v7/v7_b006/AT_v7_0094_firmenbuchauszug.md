@@ -53,4 +53,20 @@ E-Mail: [[email|buero@hainfelder-fenster.at]]
 
 [[organization|HAINFELDER FENSTER GMBH]], STEMPEL GEPRÜFT: [[person|MAG. DR. SUSANN LACINA]]
 
+Zweigniederlassung und Gegenstand:
+Die Gesellschaft betreibt eine Montagehalle in [[location|Neusiedl am See]] und vertreibt Kunststofffenster im Bezirk [[location|Bruck an der Leitha]]. Der Firmenwortlaut [[organization|Hainfelder Fenster]] ist unverändert geblieben.
+
+Geschäftsführung und Vertretung:
+Die Geschäftsführung obliegt seit [[date|17.11.2018]] der [[person|Mag. Dr. Susann Lacina]]. Die Prokura hält [[person|Lenz Brandstetter]] seit [[date|01.04.2021]]. In Vertretung der Gesellschaft zeichnet zusätzlich [[person|Ibrahim Ceylan]].
+
+Eintragungen (Fortsetzung):
+Datum | Eintragung | Bemerkung
+[[date|01.04.2021]] | Prokura [[person|Lenz Brandstetter]] | Einzelprokura
+[[date|10.12.2024]] | Erhöhung des Stammkapitals | EUR 2.000,00
+[[date|09.06.2023]] | Gesellschafterbeschluss über den Jahresabschluss | Geschäftsjahr 2022
+
+Die Gesellschafterversammlung vom [[date|09.06.2023]] beschloss zudem die Änderung des Unternehmensgegenstands um den Vertrieb von Sonnenschutzsystemen. Die Eintragung erfolgte im Firmenbuch ohne Beanstandung.
+
+Anmerkung: Eine Löschung der Prokura des [[person|Ibrahim Ceylan]] ist nicht vorgesehen.
+
 [[location|Altenmarkt bei Sankt Gallen]], am [[date|02.11.2026]]

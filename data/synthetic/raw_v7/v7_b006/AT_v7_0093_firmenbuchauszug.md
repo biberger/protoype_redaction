@@ -51,4 +51,20 @@ E-Mail: [[email|office@seidmann-gmbh.at]]
 
 Die [[organization|Seidmann]] hat sämtliche Eintragungen im Berichtszeitraum vollständig gemeldet.
 
+Firmenwortlaut und Gegenstand:
+Die Gesellschaft betreibt den Handel mit Haushaltsgeräten und Elektroinstallationen sowie einen Reparaturdienst. Die Zweigniederlassung in [[location|Mattersburg]] wurde am [[date|05.04.2018]] eingetragen.
+
+Eintragungen (Fortsetzung):
+Datum | Eintragung | Bemerkung
+[[date|28.02.2012]] | Abberufung des Geschäftsführers [[person|Ahmet Yıldırım]] | einvernehmlich
+[[date|12.09.2013]] | Prokura [[person|Dipl.-Ing. Katarina Vrbová]] | Einzelprokura
+[[date|30.11.2016]] | Änderung des Gesellschaftsvertrages | Sitzverlegung innerhalb des Bezirks
+[[date|08.07.2019]] | Bestellung Geschäftsführer [[person|Wolfgang Hradil]] | gemeinsam mit [[person|Rahman Abdelhamid]]
+
+Die Gesellschafterversammlung vom [[date|14.03.2022]] beschloss die Teilung des Geschäftsanteils von [[person|Aurelia Zöttl]]. Die übrigen Gesellschafter stimmten zu.
+
+Gerichtsbeschlüsse: Mit Beschluss vom [[date|03.10.2023]] wurde der Antrag auf Eintragung einer weiteren Änderung abgewiesen. Der Rekurs dagegen ist erledigt.
+
+Vertretungsregelung: Die Gesellschaft wird durch zwei Geschäftsführer gemeinsam vertreten, sofern im Gesellschaftsvertrag nichts anderes bestimmt ist. [[person|Dr. Silvie Höslinger]] zeichnet im Rahmen der Prokura für den Bereich Buchhaltung.
+
 [[location|Schattendorf]], am [[date|02.11.2026]]

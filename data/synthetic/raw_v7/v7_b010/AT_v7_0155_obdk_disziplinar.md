@@ -33,7 +33,7 @@ Die Liegenschaft liegt in [[land_register_id|GB 54099 Sankt Veit an der Glan]] [
 
 Die Zeugin [[person|Bernauer]] gab an, dass [[person|Pinter]] am [[date|08.03.2024]] und am [[date|22.03.2024]] Besprechungen in [[location|St. Pölten]] abhielt. Die Unterlagen wurden an die Adresse [[address|3753 Pernegg]] versandt.
 
-Die Kanzlei ist unter Tel. [[phone_number|+43 316 323 15 85 Kl. 24]] erreichbar.
+Die Kanzlei ist unter Tel. [[phone_number|+43 316 323 15 85 Kl. 24]] erreichbar. Das Treuhandkonto der [[organization|Porsch]] lautete auf [[bank_account|AT28 2287 3823 9439 9321]].
 
 Der Beschuldigte hat [[person|Taubes]] am [[date|05.04.2024]] schriftlich über den Stand informiert. Ein weiteres Schreiben vom [[date|19.09.2024]] enthielt keine Angaben zur Kostenlage.
 

@@ -35,7 +35,7 @@ Die Verkäufer sind je zur Hälfte grundbücherliche Eigentümer der Liegenschaf
 
 II. Kaufgegenstand
 
-Der Kaufgegenstand umfasst die Grundstücke laut Kopf dieses Vertrages. Die Liegenschaften liegen im Gebiet der Gemeinde [[location|Maishofen]]. Das Grundstück [[land_register_id|Gst 485/2]] ist bebaut.
+Der Kaufgegenstand umfasst die Grundstücke laut Kopf dieses Vertrages. Die Liegenschaften liegen im Gebiet der Gemeinde [[location|Maishofen]]. Das Grundstück [[land_register_id|Gst 485/2]] ist bebaut. Der Käufer [[person|Efraim Frischmuth]] wohnt in [[location|St. Michael im Lungau]] und wird das Objekt selbst nutzen.
 
 Mitverkauft wird der Personenkraftwagen mit dem Kennzeichen [[license_plate|HO-2195 HR]], FIN [[other_identifier|WBNDKGCWR2ZW8DBE1]]; er ist auf dem Grundstück abgestellt.
 

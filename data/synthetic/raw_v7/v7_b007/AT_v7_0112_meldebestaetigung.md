@@ -5,7 +5,7 @@ lang: de
 ---
 [[organization|IMMERVOLL BAU GMBH]], [[company_register_number|FN 256638i]], UID [[tax_id|ATU00258014]]
 
-MELDEBESTÄTIGUNG – BEZIRKSGERICHT FÜNFHAUS
+MELDEBESTÄTIGUNG – [[court|BEZIRKSGERICHT FÜNFHAUS]]
 
 Die Meldebehörde bestätigt für die folgenden Personen die Meldung:
 
@@ -34,6 +34,8 @@ Treuhandbuch-Nr. [[other_identifier|2021/296]]
 Tel. [[phone_number|02742 455659-25]]
 [[address|5143 Feldkirchen bei Mattighofen]]
 [[location|St. Ruprecht an der Raab]]
+
+Gebührenkonto: [[bank_account|AT94 2598 6582 6973 9063]]
 
 Ausgestellt am [[date|27.10.2026]] für die Vorlage beim [[court|Bezirksgericht Fünfhaus]].
 

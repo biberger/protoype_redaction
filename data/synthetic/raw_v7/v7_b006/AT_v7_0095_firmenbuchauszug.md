@@ -46,4 +46,13 @@ Zuständiges Gericht für Anträge: [[court|Landesgericht für Zivilrechtssachen
 
 Die [[organization|LI]] wurde im Berichtszeitraum nicht gelöscht.
 
+Geschäftszweig und Nachtrag:
+Die Gesellschaft verwaltet Wohnhäuser und Geschäftsräume in [[location|Niklasdorf]] und [[location|Lieboch]].
+
+Datum | Eintragung | Bemerkung
+[[date|22.03.2024]] | Änderung der Geschäftsanschrift | [[address|8073 Feldkirchen bei Graz]]
+[[date|07.11.2025]] | Eintritt Gesellschafter [[person|Kasimir Ostrowski]] | Stammeinlage EUR 6.000,00
+
+Anmerkung: Der Antrag der Gesellschaft auf Eintragung des Prokuristen [[person|Franz-Josef Kollmann]] ist vorgemerkt.
+
 [[location|Niklasdorf]], am [[date|02.11.2026]]

@@ -27,7 +27,7 @@ Datum | Eintragung | Bemerkung
 [[date|11.12.2018]] | Bestellung [[person|Virgil Frieser]] | selbständig vertretungsbefugt
 [[date|02.04.2024]] | Prokura [[person|Frances Nitsche]] | Gesamtprokura
 
-Der Geschäftsbetrieb der [[organization|Tullner]] umfasst den Transport und die Lagerung von Baustoffen.
+Der Geschäftsbetrieb der [[organization|TL]] umfasst den Transport und die Lagerung von Baustoffen.
 
 Grundbuch und Liegenschaften:
 [[land_register_id|KG 23870 Brunn an der Wild]] / [[land_register_id|E.Z. 580]] ([[court|BG St. Johann im Pongau]]); [[land_register_id|Gst 507]]
@@ -54,5 +54,19 @@ Die [[organization|Tullner]] ist im Firmenbuch ohne Eintragung von Liquidationsv
 Zuständiges Grundbuchsgericht: [[court|Bezirksgericht Döbling]] / [[court|BG Döbling]]
 
 Betriebsstandort: [[location|St. Wolfgang im Salzkammergut]]
+
+Zweigniederlassungen:
+Die [[organization|TL]] unterhält Lagerstandorte in [[location|Gänserndorf]] und [[location|Ybbs an der Donau]]. Die Standortleitung in Gänserndorf hat [[person|Bettina Hauer]] inne, die Leitung in Ybbs [[person|Rudolf Grabner]].
+
+Eintragungen (Fortsetzung):
+Datum | Eintragung | Bemerkung
+[[date|14.02.2015]] | Eintritt Gesellschafter [[person|Ahmad Nasser]] | Stammeinlage EUR 9.000,00
+[[date|06.10.2017]] | Prokura [[person|Ioana Popescu]] | Einzelprokura
+[[date|21.05.2020]] | Abberufung des Geschäftsführers [[person|Lukas Pöll]] | einvernehmlich
+[[date|01.09.2023]] | Bestellung Geschäftsführerin [[person|Bettina Hauer]] | selbständig vertretungsbefugt
+
+Die Gesellschafterversammlung vom [[date|18.06.2024]] beschloss die Verlängerung des Mietvertrages für das Lager in Ybbs. Ein Gesellschafterwechsel fand im Berichtszeitraum nicht statt.
+
+Anmerkung: Die Prokura der [[person|Ioana Popescu]] ist seit [[date|30.11.2025]] auf den Standort Gänserndorf beschränkt. Der Firmenwortlaut der [[organization|TL]] ist unverändert.
 
 [[location|Waisenegg]], am [[date|02.11.2026]]

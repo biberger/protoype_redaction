@@ -17,7 +17,7 @@ Hauptwohnsitz: [[address|Neunkirchner Straße 9/2, 2700 Wiener Neustadt]]
 [[person|Korinna Löwenstein]] Geburtsdatum: [[date_of_birth|24. November 1965]], StA: [[country|Serbien]]
 Hauptwohnsitz: [[address|Ungargasse 4, 2700 Wiener Neustadt]]
 
-Die [[organization|Eibinger]] hat die Bestätigung für das Verfahren beantragt.
+Die [[organization|Eibinger]] hat die Bestätigung für das Verfahren vor dem [[court|Bezirksgericht Wiener Neustadt]] beantragt.
 
 [[land_register_id|KG 39032 Sollenau]] / Einlagezahl [[land_register_id|3467]] ([[court|BG Meidling]])
 [[land_register_id|953/Forstau]]

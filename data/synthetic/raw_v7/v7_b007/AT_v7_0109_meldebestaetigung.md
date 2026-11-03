@@ -49,6 +49,8 @@ Mitgliedsnummer [[other_identifier|6308521]]
 Tel. [[phone_number|+43 662 402 51 84 DW 10]]
 [[address|7020 Loipersbach im Burgenland]]
 
+Verwendung: Vorlage beim [[court|Bezirksgericht Döbling]].
+
 Die Richtigkeit wird vom Meldeamt nach dem ZMR bestätigt. Die Auskunft wurde ohne Ansehen der Person zur Vorlage erteilt.
 
 Ausgestellt am [[date|27.10.2026]]

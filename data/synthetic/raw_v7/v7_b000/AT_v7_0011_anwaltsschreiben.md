@@ -29,15 +29,19 @@ Sehr geehrte Damen und Herren,
 
 der Notar [[lawyer|Schiestl]] übermittelt im Auftrag des Herrn [[person|Jonathan Schumacher]] (*[[date_of_birth|04.03.1973]]) die beigefügten Unterlagen. Die [[organization|Bertolini]] hat den Schaden am Fahrzeug nicht anerkannt, obwohl die Schadensmeldung vom [[date|03.11.2025]] vollständig war.
 
-Die Kanzlei hält die Verweigerung für unbegründet. Herr [[person|Fabius Hagg]] hat den Unfall am [[date|29.10.2025]] bezeugt. Herr [[person|Larry Öhlberger]] (geb. [[date_of_birth|8. Februar 1976]]) hat die Reparatur veranlasst.
+Die Kanzlei hält die Verweigerung für unbegründet. Herr [[person|Fabius Hagg]], StA: [[country|Serbien]], hat den Unfall am [[date|29.10.2025]] bezeugt. In einem Parallelverfahren ist die [[country|Republik Österreich]] als Beklagte geführt. Herr [[person|Larry Öhlberger]] (geb. [[date_of_birth|8. Februar 1976]]) hat die Reparatur veranlasst.
 
-Die Rechnung im Umfang von EUR 4.380,00 wurde am [[date|10.12.2025]] bezahlt. Die Zahlung erfolgte über das Konto [[bank_account|AT70 6003 0378 3616 0278]].
+Die Rechnung im Umfang von EUR 4.380,00 wurde am [[date|10.12.2025]] bezahlt. Die Zahlung erfolgte über das Konto [[bank_account|AT70 6003 0378 3616 0278]]. Die Einzelbeträge:
+
+Datum | Beschreibung | Betrag
+[[date|29.10.2025]] | Schadensgutachten | 320,00
+[[date|10.12.2025]] | Reparatur | 4.060,00
 
 Der Vorgang betrifft außerdem [[court|Bezirksgericht Floridsdorf]]; die Akten sind unter [[case_number|4 C 519/25h]] geführt. Das [[court|BG Floridsdorf]] hat die Verhandlung für den [[date|16.04.2026]] angesetzt.
 
 Die Ansprüche bestehen auf Grundlage von [[legal_norm|§ 1295 ABGB]] iVm [[legal_norm|§ 1311 ABGB]]. Wir ersuchen um Zahlung bis [[date|10.03.2026]].
 
-Die Bertolini e.U. ist im Firmenbuch unter der Firmenbuchnummer [[company_register_number|FN 320191w]] eingetragen. Die [[organization|Bertolini]] hat einen Vertreter in [[address|3463 Stetteldorf am Wagram]] benannt.
+Die [[organization|Bertolini e.U.]] ist im Firmenbuch unter der Firmenbuchnummer [[company_register_number|FN 320191w]] eingetragen. Die [[organization|Bertolini]] hat einen Vertreter in [[address|3463 Stetteldorf am Wagram]] benannt.
 
 Telefonische Rückfragen unter Tel. [[phone_number|+43-7242-945108-34]].
 

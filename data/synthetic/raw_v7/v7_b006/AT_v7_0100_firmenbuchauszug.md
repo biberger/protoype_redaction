@@ -44,4 +44,13 @@ E-Mail: [[email|kanzlei@miesenboeck-kg.at]]
 
 Die [[organization|Miesenböck]] ist für das Geschäftsjahr 2024 ohne Beanstandung geprüft.
 
+Bürostandort und Gesellschafterwechsel:
+Die [[organization|Miesenböck]] unterhält einen Bürostandort in [[location|Mürzzuschlag]]. Der Kommanditist [[person|Johanna Lechner]] ist seit [[date|01.07.2019]] eingetragen; ihre Haftsumme beträgt EUR 10.000,00.
+
+Datum | Eintragung | Bemerkung
+[[date|01.07.2019]] | Eintritt Kommanditistin [[person|Johanna Lechner]] | Haftsumme EUR 10.000,00
+[[date|28.12.2022]] | Änderung der Geschäftsanschrift | [[address|8243 Pinggau]]
+
+Anmerkung: Die Gesellschafterversammlung vom [[date|16.04.2025]] hat den Jahresabschluss 2024 genehmigt.
+
 [[location|St. Valentin]], am [[date|02.11.2026]]

@@ -14,8 +14,9 @@ ERV-Code: [[other_identifier|R504832]]
 HONORARNOTE
 
 Datum: [[date|22.09.2026]]
+EINGANGSSTEMPEL: [[person|FANNY MANNLICHER]]
 
-Auftraggeberin: [[person|Fanny Mag. Dr. Mannlicher]]
+Auftraggeberin: [[person|Mag. Dr. Fanny Mannlicher]]
 GEB: [[date_of_birth|1945-06-06]]
 
 Mitbeteiligter: [[person|Jasminko Rajković]], *[[date_of_birth|28.11.1981]]
@@ -44,4 +45,4 @@ Die Zahlung ist auf IBAN [[bank_account|AT65 2650 9646 0838 7143]] zu leisten. R
 Die SV-Nr. [[social_security_number|5515 030922]] wurde für die Abrechnung angegeben. Die Liegenschaft liegt in [[address|9712 Fresach]] und ist auf der Gemarkung [[location|St. Anton am Arlberg]] nicht gelegen.
 
 Mit freundlichen Grüßen
-[[person|Serov]]
+[[organization|Serov]]

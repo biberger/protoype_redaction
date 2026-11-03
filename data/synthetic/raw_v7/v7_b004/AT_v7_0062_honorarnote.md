@@ -42,5 +42,9 @@ Summe brutto | | 1.248,00
 
 Mit [[person|Schmidinger]] wurde vereinbart, dass [[person|Willy Wiener]] die Kosten trägt. Die Zahlung ist auf IBAN [[bank_account|AT52 8429 4113 0652 1143]] zu leisten.
 
+Die Kanzlei hat den Sachverhalt mit den Auftraggebern am [[date|05.05.2026]] eingehend erörtert. Dabei wurden die Grundbuchauszüge zu [[land_register_id|1304/Mühlen]] und die Pläne der Liegenschaft geprüft. Für die Gegenseite wurde ein Vergleichsvorschlag ausgearbeitet, der am [[date|10.07.2026]] übermittelt wurde. Eine Rückmeldung ist bis zum Abschluss dieser Note nicht eingelangt.
+
+Die Auslagen für Gerichtsgebühren, Grundbuchsgebühren und Porti sind in den obigen Beträgen nicht enthalten und werden gesondert nach Beleg verrechnet. Der Stundensatz der Kanzlei beträgt für die Bearbeitung EUR 180,00 zuzüglich Umsatzsteuer. Wir ersuchen um Überweisung innerhalb von vierzehn Tagen nach Erhalt dieser Note.
+
 [[person|WILLY WIENER]], [[organization|SPITZNER HANDELS GMBH]]
 [[address|DRAHTGASSE 36, 2372 GIESSHÜBL]]

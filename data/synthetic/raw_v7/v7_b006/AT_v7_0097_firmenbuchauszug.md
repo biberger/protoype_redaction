@@ -49,4 +49,15 @@ Bankverbindung der Gesellschaft: [[bank_account|AT26 3560 0076 5883 1179]]
 
 Hinweis: Die Gesellschaft hält zusätzlich Anteile an einer Liegenschaft in [[location|St. Margarethen im Burgenland]].
 
+Gegenstand und Gesellschafterliste:
+Gegenstand der [[organization|HI]] ist die Vermittlung, der Ankauf und die Verwaltung von Liegenschaften im Bezirk [[location|Horn]]. Gesellschafter sind [[person|Maximilian Stöckl]] und [[person|Ludmila Hrdličková]].
+
+Eintragungen (Fortsetzung):
+Datum | Eintragung | Bemerkung
+[[date|11.09.2011]] | Erhöhung des Stammkapitals | EUR 10.000,00
+[[date|20.02.2019]] | Anteilsübertragung von [[person|Maximilian Stöckl]] an [[person|Ludmila Hrdličková]] | Zustimmung aller Gesellschafter
+[[date|04.06.2024]] | Löschung der Prokura von [[person|Dr. Kurt Ebner]] | auf eigenen Antrag
+
+Anmerkung: Die Gesellschaft ist Mieterin eines Büros in [[location|Waidhofen an der Thaya]]. Ein Insolvenzverfahren ist nicht anhängig.
+
 [[location|Horn]], am [[date|02.11.2026]]

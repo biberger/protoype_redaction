@@ -42,7 +42,7 @@ Zum Unfallort wurden im Grundbuch folgende Liegenschaften ermittelt:
 
 Die Straße selbst ist nicht im Grundbuch erfasst.
 
-Die Versicherung des Lenkers ist unter folgender Nummer geführt: Vers.-Nr. [[other_identifier|51-8733937]]. Für die Schadensabwicklung wird die Kontoverbindung [[bank_account|AT61 8396 6826 9438 2370]] angegeben. Die Sozialversicherungsnummer des Zeugen Erharter lautet [[social_security_number|1768 081041]].
+Die Versicherung des Lenkers ist unter folgender Nummer geführt: Vers.-Nr. [[other_identifier|51-8733937]]. Für die Schadensabwicklung wird die Kontoverbindung [[bank_account|AT61 8396 6826 9438 2370]] angegeben. Die Sozialversicherungsnummer des Zeugen [[person|Erharter]] lautet [[social_security_number|1768 081041]].
 
 Die Anzeige wird an das [[court|Bezirksgericht Hollabrunn]] weitergeleitet.
 

@@ -38,5 +38,11 @@ Summe brutto | | 996,00
 
 Die Honorarforderung von EUR 996,00 ist binnen 14 Tagen auf IBAN [[bank_account|AT66 9735 1466 8354 4729]] zu überweisen. Bei Rückfragen erreichen Sie uns unter Tel. [[phone_number|0732/607685-41]]. Die Zeugin [[person|Eleonore Dr. Schneider]] hat die Übergabe der Unterlagen bestätigt.
 
+Die Besprechung mit [[person|Klaudia Lévai]] fand am [[date|14.06.2026]] in den Räumen der Kanzlei statt. Dabei wurden die Ansprüche gegenüber [[person|Sirio Casillo]] und die Ansprüche aus dem Kaufvertrag erörtert. Die Frage der Verjährung wurde geprüft; nach Ansicht der Kanzlei ist eine Hemmung eingetreten.
+
+Die Korrespondenz mit dem [[court|Bezirksgericht Döbling]] erfolgte in mehreren Schriftsätzen. Die Frist zur Stellungnahme lief bis zum [[date|28.07.2026]]. Die Eingabe wurde fristgerecht eingebracht.
+
+Auslagen für Kopien, Porto und Gerichtsgebühren sind in den obigen Positionen nicht enthalten und werden nach tatsächlichem Aufwand gesondert verrechnet. Bei Zahlungsverzug werden Verzugszinsen in gesetzlicher Höhe verrechnet.
+
 Mit freundlichen Grüßen
 [[person|Zips]]

@@ -48,5 +48,11 @@ Die Honorarforderung ist binnen 14 Tagen auf IBAN [[bank_account|AT55 8307 4894 
 Tel. [[phone_number|0732/7949750 Kl. 61]]
 [[address|7111 Parndorf]]
 
+Die Besprechung mit [[person|Charlie Dipl.-Ing. Tscherne]] fand am [[date|12.08.2026]] statt. Dabei wurden die Pläne zur Bebauung der Liegenschaft durchgesehen. [[person|Petronika Kainz]] nahm an der Besprechung teil und bestätigte die Angaben im Grundbuchauszug.
+
+Der Sachverständige [[person|MMag. Emerigo Gigler]] hat seine Ergänzung am [[date|02.10.2026]] eingereicht. Die Kanzlei hat dazu am [[date|09.10.2026]] Stellung genommen.
+
+Die Auslagen für Gutachten und Gerichtsgebühren sind in den angeführten Beträgen nicht enthalten.
+
 Mit freundlichen Grüßen
 [[person|Almer]]

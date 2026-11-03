@@ -45,5 +45,9 @@ Tel. [[phone_number|02622/5794763 Kl. 27]]
 Die Zeugin [[person|Artemiza Samungi]], Geburtsdatum: [[date_of_birth|27.06.1980]], erhielt das Schreiben am [[date|05.09.2026]]. Ferner [[person|Huber Maria]], geb. [[date_of_birth|12.03.1960]], wurde nicht benachrichtigt.
 Der Mandant [[person|Louis Aalst]], geb [[date_of_birth|6. Februar 1996]], StA: [[country|Türkei]], wurde über die Teilung informiert.
 
+Die Besprechung mit [[person|Marzell Springer]] fand am [[date|03.07.2026]] in der Kanzlei statt. Die Vollmachtsurkunde wurde am [[date|07.07.2026]] übergeben. [[person|Wolfdieter Schnegg]] hat die Kosten zur Hälfte übernommen; die übrigen Kosten trägt [[person|Louis Aalst]] nach der getroffenen Vereinbarung.
+
+Die Gutachterin [[person|DI Veruschka Bogensberger]] hat ihre Aufstellung am [[date|14.09.2026]] übermittelt. Eine Kopie ging an [[person|Zulehner]].
+
 Mit freundlichen Grüßen
 [[person|Weinstabl]]

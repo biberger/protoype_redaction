@@ -51,4 +51,16 @@ E-Mail: [[email|office@mitterhofer-eu.at]]
 
 Vorstandsbestätigung, STEMPEL: [[person|IWAN TUMPEL]]
 
+Inhaber des Einzelunternehmens ist [[person|Anton Mitterhofer]], geboren am [[date_of_birth|03.02.1968]]. Das Unternehmen wurde am [[date|01.02.2010]] von [[person|Josef Wallner]] übernommen; der Vorgänger ist seither ohne Funktion.
+
+Weitere Eintragungen:
+Datum | Eintragung | Bemerkung
+[[date|16.05.2016]] | Erweiterung des Unternehmensgegenstands | Handel mit Ersatzteilen
+[[date|02.03.2018]] | Prokura [[person|Oskar Nemeth]] | Einzelprokura
+[[date|19.10.2021]] | Änderung der Firmenbezeichnung | vormals [[organization|Mitterhofer Landtechnik e.U.]]
+
+Der Betrieb hat im Berichtszeitraum eine Außenstelle in [[location|Hartberg]] eröffnet. Die Außenstelle wird von [[person|Petra Lindinger]] geleitet. Die Verkaufsleitung obliegt weiterhin [[person|Oskar Nemeth]].
+
+Die Gesellschaft hat am [[date|30.04.2024]] den Jahresabschluss hinterlegt. Ein Verfahren nach dem Insolvenzrecht ist nicht anhängig. Die Geschäftsanschrift in [[location|Gradenberg]] bleibt unverändert.
+
 [[location|St. Gilgen]], am [[date|02.11.2026]]

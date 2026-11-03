@@ -47,6 +47,7 @@ Die [[organization|VFB]] hat den Vertrag mit [[person|Werndl]] unter folgender N
 Vertragsnummer [[other_identifier|KV-2020-8079]]
 
 Gebührenkonto: [[bank_account|AT36 3809 6667 6767 1756]]
+Auftraggeberin: [[organization|von Ferstel Bau GmbH]]
 
 Die Bestätigung dient der Vorlage beim [[court|Bezirksgericht Melk]]. Eine Kopie der Meldedaten wird der [[organization|VFB]] übermittelt.
 

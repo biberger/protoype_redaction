@@ -20,7 +20,7 @@ An das
 
 Kläger: [[person|Reuben Scheidl]], geb [[date_of_birth|28. Jänner 1950]]
 
-Beklagte: [[person|Lilliane Haberlandt]], StA: [[country|Serbien]], und [[organization|Höfel Handels GmbH]], FN [[company_register_number|106188i]], UID: [[tax_id|ATU22969553]]
+Beklagte: [[person|Lilliane Haberlandt]], StA: [[country|Serbien]], und [[organization|Höfel Handels GmbH]], [[company_register_number|FN 106188i]], UID: [[tax_id|ATU22969553]]
 
 **I. Vorbringen**
 

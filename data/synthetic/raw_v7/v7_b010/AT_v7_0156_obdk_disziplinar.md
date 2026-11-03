@@ -33,7 +33,7 @@ Die Grundbuch [[land_register_id|07821 Dürnstein in der Steiermark]], [[land_re
 
 Kd.-Nr. [[other_identifier|757045]] war die Kundennummer der [[person|Swarovski]]. Die Treuhandbuch-Nr. [[other_identifier|2025/508]] wurde für das Verfahren vergeben. Die Unterlagen tragen das Zeichen UZ: [[other_identifier|NMA-NMAUher/Wurst]].
 
-Der Beschuldigte war erreichbar unter Tel. [[phone_number|02622/5715679-0]]. Eine Faxnummer war nicht angegeben.
+Der Beschuldigte war erreichbar unter Tel. [[phone_number|02622/5715679-0]]. Eine Faxnummer war nicht angegeben. Das Treuhandkonto lautete auf [[bank_account|AT77 5013 1144 0828 8139]].
 
 Die Zahlungen verliefen wie folgt:
 

@@ -11,7 +11,7 @@ ANZEIGE: VERKEHRSUNFALL MIT ZWEI BETEILIGTEN FAHRZEUGEN
 
 [[location|Wien]], am [[date|31.10.2026]]
 
-Am [[date|29.10.2026]] gegen 07:35 Uhr ereignete sich in der [[street|Ausstellungsstraße]] ein Verkehrsunfall. Beteiligt war ein Lieferwagen der [[organization|Michel KG]], FN [[company_register_number|FN 60702v]], UID [[tax_id|ATU36908290]], mit dem Kennzeichen [[license_plate|BL 43 MF]]. Die [[organization|Michel]] ist Eigentümerin des Fahrzeugs; der Lenker war Angestellter.
+Am [[date|29.10.2026]] gegen 07:35 Uhr ereignete sich in der [[street|Ausstellungsstraße]] ein Verkehrsunfall. Beteiligt war ein Lieferwagen der [[organization|Michel KG]], [[company_register_number|FN 60702v]], UID [[tax_id|ATU36908290]], mit dem Kennzeichen [[license_plate|BL 43 MF]]. Die [[organization|Michel]] ist Eigentümerin des Fahrzeugs; der Lenker war Angestellter.
 
 Beteiligte Personen:
 
@@ -42,7 +42,7 @@ Kontakt der Halterin:
 Tel. [[phone_number|0512/7986157 Kl. 96]]
 [[address|7141 Podersdorf am See]]
 
-Die Wohnung des Zeugen Grabher liegt in [[location|St. Valentin]]. Der Zeuge Toman hat seinen Wohnsitz in der Nähe der Unfallstelle.
+Die Wohnung des Zeugen [[person|Grabher]] liegt in [[location|St. Valentin]]. Der Zeuge [[person|Toman]] hat seinen Wohnsitz in der Nähe der Unfallstelle.
 
 Vermerk zu den Kosten:
 
@@ -51,7 +51,7 @@ Datum | Vorgang | Betrag
 [[date|30.10.2026]] | Schätzung Lieferwagen | 3.120,00 EUR
 [[date|31.10.2026]] | Mitteilung an die Versicherung | 0,00 EUR
 
-Die Kontoverbindung der [[organization|Michel]] lautet [[bank_account|AT39 6926 0970 5975 4522]]. Die Sozialversicherungsnummer der Zeugin Wiegele ist [[social_security_number|9442 230488]].
+Die Kontoverbindung der [[organization|Michel]] lautet [[bank_account|AT39 6926 0970 5975 4522]]. Die Sozialversicherungsnummer der Zeugin [[person|Wiegele]] ist [[social_security_number|9442 230488]].
 
 Die Akte wird an das [[court|Bezirksgericht Leopoldstadt]] / [[court|BG Leopoldstadt]] übermittelt.
 

@@ -41,4 +41,10 @@ Summe brutto | | 1.368,00
 
 Bitte überweisen Sie den Betrag auf IBAN [[bank_account|AT45 1002 3218 8929 8908]].
 
+Die Kanzlei hat die Mandanten am [[date|25.05.2026]] über die Aussichten des Verfahrens informiert. [[person|Sonnhild Ehrenstein]] hat die Vollmacht am selben Tag unterzeichnet. Die Vertretung der [[person|Anna Vučković]] wurde am [[date|01.06.2026]] übernommen; die Mitbeteiligte hat die Abrechnung der Kosten mit der Kanzlei vereinbart.
+
+Die Ansprüche gegen die [[organization|HYPO]] wurden zunächst außergerichtlich geltend gemacht. Ein Antwortschreiben ging am [[date|22.06.2026]] ein. Die Kanzlei hat die Gegenseite daraufhin zur Klarstellung aufgefordert.
+
+Die Gebühren nach dem [[legal_norm|RATG]] wurden unter Berücksichtigung des Streitwertes berechnet. Die Umsatzsteuer ist gesondert ausgewiesen.
+
 [[person|Galasso]] bestätigt den Erhalt dieser Note. Die Unterlagen wurden von [[person|Eleonore Dr. Schneider]] am [[date|03.06.2026]] übernommen.

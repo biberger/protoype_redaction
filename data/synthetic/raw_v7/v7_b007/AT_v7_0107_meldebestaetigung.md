@@ -25,7 +25,7 @@ Einlagezahl [[land_register_id|679]] [[land_register_id|KG: Sittersdorf]] ([[cou
 Verlauf der Meldungen:
 
 Datum | Vorgang | Anschrift
-[[date|03.04.2008]] | Zuzug aus Linz | [[address|Lindenstraße 4, 4840 Vöcklabruck]]
+[[date|03.04.2008]] | Zuzug aus [[location|Linz]] | [[address|Lindenstraße 4, 4840 Vöcklabruck]]
 [[date|17.09.2015]] | Ummeldung | [[address|Lindenstraße 4, 4840 Vöcklabruck]]
 [[date|11.05.2022]] | Zuzug | [[address|Am Anger 9/1, 4840 Vöcklabruck]]
 
@@ -40,7 +40,7 @@ wir ersuchen um Bestätigung der Meldung von [[person|Yiannakis]] für das Verfa
 Schadennummer [[other_identifier|57/152379/21]] / TH-Nr. [[other_identifier|2021/314]]
 Mitgliedsnummer [[other_identifier|3370911]]
 
-Bitte um Rückruf unter [[phone_number|+43-5572-7623980 Kl. 37]].
+Bitte um Rückruf unter Tel. [[phone_number|+43-5572-7623980 Kl. 37]].
 
 Mit freundlichen Grüßen
 [[person|Gotelinde Heinzl]]

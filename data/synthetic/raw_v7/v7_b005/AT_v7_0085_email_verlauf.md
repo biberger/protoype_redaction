@@ -30,6 +30,7 @@ Treuhandschaft Nr. [[other_identifier|2019/815]]
 Mit freundlichen Grüßen
 [[person|Keckeis]]
 Tel. [[phone_number|0316 158839-11]]
+F: [[phone_number|0463/2654235 DW 77]]
 
 -----Ursprüngliche Nachricht-----
 Von: [[person|Gerta Stanko]] <[[email|g.stanko@stanko-mail.at]]>
@@ -39,13 +40,13 @@ Betreff: Kaufvertrag
 
 Guten Abend,
 
-ich, geboren am [[date_of_birth|21. August 1959]], bitte um die Abwicklung. Die Kohlhofer Immobilien GmbH hat die Vollmacht unterschrieben. Ein Termin am [[date|15. Oktober 2025]] wäre günstig.
+ich, geboren am [[date_of_birth|21. August 1959]], bitte um die Abwicklung. Die [[organization|Kohlhofer Immobilien GmbH]] hat die Vollmacht unterschrieben. Ein Termin am [[date|15. Oktober 2025]] wäre günstig.
 
 Mit freundlichen Grüßen
 [[person|Gerta Stanko]]
 
 -----Ursprüngliche Nachricht-----
-Von: [[person|Baptist Mag. Dr. Thumb]] <[[email|b.thumb@thumb-post.at]]>
+Von: [[person|Mag. Dr. Baptist Thumb]] <[[email|b.thumb@thumb-post.at]]>
 Gesendet: Montag, [[date|6. Oktober 2025]] 09:15
 An: [[person|Keckeis]]
 Betreff: Unterlagen
@@ -60,7 +61,7 @@ Datum | Leistung | Betrag
 [[date|6. Oktober 2025]] | Kanzleigebühr | EUR 95,00
 
 Mit freundlichen Grüßen
-[[person|Baptist Mag. Dr. Thumb]]
+[[person|Mag. Dr. Baptist Thumb]]
 
 -----Ursprüngliche Nachricht-----
 Von: [[person|Lucian Gruber]] <[[email|l.gruber@gruber-mail.at]]>

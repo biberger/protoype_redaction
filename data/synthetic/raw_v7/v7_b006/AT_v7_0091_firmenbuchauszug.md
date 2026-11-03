@@ -50,4 +50,19 @@ Vermerk: Die Gesellschaft wird im Firmenbuch als aktiv geführt. Ein Insolvenzve
 
 ABSCHRIFT BESTÄTIGT, STEMPEL: [[person|WILHELM HABERLER]], GESELLSCHAFTER
 
+Weitere Eintragungen (Auszug):
+
+Datum | Eintragung | Bemerkung
+[[date|11.01.2021]] | Sitzverlegung von [[location|Klagenfurt]] nach [[location|Rettenegg]] | Firmenwortlaut unverändert
+[[date|03.08.2020]] | Erhöhung des Stammkapitals um EUR 5.000,00 | übernommen durch [[person|Wilhelm Haberler]]
+[[date|14.10.2022]] | Prokura erteilt an [[person|Dr. Florian Kadletz]] | Einzelprokura
+
+Die Gesellschafterversammlung vom [[date|17.06.2020]] hat die Erhöhung des Stammkapitals beschlossen. Die Erhöhung wurde am [[date|03.08.2020]] im Firmenbuch eingetragen.
+
+Abschlussprüfung: Bestellt wurde [[person|Mag. Ilse Pirker]], Wirtschaftsprüferin, für das Geschäftsjahr 2025. Der Bestellungsbeschluss stammt vom [[date|29.09.2025]].
+
+Aktenzeichen des Firmenbuchverfahrens zur Sitzverlegung: [[case_number|6 Fr 1287/25w]].
+
+Die Gesellschaft ist nicht Mitglied einer Unternehmensgruppe. Die Prokura des [[person|Dr. Florian Kadletz]] ist im Firmenbuch gesondert eingetragen.
+
 [[location|Klagenfurt]], am [[date|02.11.2026]]

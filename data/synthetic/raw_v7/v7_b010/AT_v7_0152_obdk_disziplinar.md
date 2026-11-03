@@ -25,7 +25,7 @@ Grundbuch [[land_register_id|64286]] [[land_register_id|EZ. 556]], [[land_regist
 
 [[land_register_id|EZ 734]], Grundbuch [[land_register_id|87129 Sankt Corona am Wechsel]]; Grundstück Nr. [[land_register_id|720]]
 
-Der Beschuldigte verwies auf die Polizze [[other_identifier|28-1177631]] der Klientin. Die Zahlung erfolgte laut Zahlungsbeleg am [[date|04.11.2023]].
+Der Beschuldigte verwies auf die Polizze [[other_identifier|28-1177631]] der Klientin. Die Zahlung erfolgte laut Zahlungsbeleg am [[date|04.11.2023]] auf das Honorarkonto [[bank_account|AT18 3261 8818 9119 1018]].
 
 **Rechtliche Beurteilung**
 

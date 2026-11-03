@@ -28,9 +28,9 @@ Die [[organization|Exner]] hat den Kaufvertrag über die Liegenschaft am [[date|
 
 Die Liegenschaft ist im Grundbuch als [[land_register_id|EZ 1639]], [[land_register_id|K.G. 07545 Sankt Stefan ob Leoben]]; Grundstück [[land_register_id|99/14]] eingetragen.
 
-Die Zeugen [[person|Helgi Öhlinger]] (*[[date_of_birth|1977-10-25]]) und [[person|Ute Günther]] haben die Unterschrift bestätigt. Herr [[person|Januarius Anders]], StA. [[country|Italien]], hat als Vermittler gehandelt. Frau [[person|Ursulina Bahr]], StA. [[country|Polen]], hat die Übersetzung übernommen.
+Die Zeugen [[person|Helgi Öhlinger]] (*[[date_of_birth|1977-10-25]]) und [[person|Ute Günther]] haben die Unterschrift bestätigt. Die Begehung führte [[person|Eleonore Dr. Schneider]] durch. Herr [[person|Januarius Anders]], StA. [[country|Italien]], hat als Vermittler gehandelt. Frau [[person|Ursulina Bahr]], StA. [[country|Polen]], hat die Übersetzung übernommen.
 
-Der Vertrag trägt die Nummer [[other_identifier|V-2019-80239]]. Die Zahlung wurde über das Konto [[bank_account|AT70 2172 1245 3879 7199]] abgewickelt.
+Der Vertrag trägt die Vertragsnummer [[other_identifier|V-2019-80239]]. Die Zahlung wurde über das Konto [[bank_account|AT70 2172 1245 3879 7199]] abgewickelt.
 
 Die Zahlungsübersicht lautet wie folgt:
 
@@ -41,11 +41,11 @@ Datum | Beschreibung | Betrag
 
 Der Restbetrag von EUR 0,00 ist somit beglichen. Die Verkäuferin verlangt dennoch die Zahlung von Zinsen.
 
-Die Republik [[country|Österreich]] als Beklagte hat die Grunderwerbsteuer festgesetzt, der Bescheid liegt bei. Der Notar [[lawyer|Fester Burger]] ist nicht zuständig; die Zuständigkeit liegt bei [[court|Bezirksgericht Innere Stadt Wien]].
+Den Bescheid über die Grunderwerbsteuer hat das Finanzamt gegenüber der Verkäuferin erlassen; die Kopie liegt bei. Im Vorverfahren war die Klage gegen die [[country|Republik Österreich]] als Beklagte gerichtet; zuständig bleibt das [[court|Bezirksgericht Innere Stadt Wien]].
 
 Unsere Mandanten erreichen Sie unter Tel. [[phone_number|+43-732-5179109 Kl. 50]]. Für weitere Auskünfte steht auch [[person|Dr. Scharfetter]] zur Verfügung.
 
-Wildon ist der Sitz der Verwaltung: [[address|8410 Wildon]]. Die Liegenschaft wird in [[location|St. Wolfgang im Salzkammergut]] gehalten.
+Die Verwaltung sitzt in [[address|8410 Wildon]]. Die Liegenschaft wird in [[location|St. Wolfgang im Salzkammergut]] gehalten.
 
 Mit freundlichen Grüßen
 

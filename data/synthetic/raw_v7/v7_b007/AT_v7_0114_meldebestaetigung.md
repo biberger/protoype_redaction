@@ -7,7 +7,7 @@ lang: de
 UID: [[tax_id|ATU55083634]]
 Geschäftsführung: [[person|Ing. Oktavian Angermayer]]
 
-[[court|HANDELSGERICHT WIEN]] – EINGANG 27.10.2026
+[[court|HANDELSGERICHT WIEN]] – EINGANG [[date|27.10.2026]]
 
 BESTÄTIGUNG DER MELDUNG
 
@@ -42,7 +42,7 @@ Fahrzeug der [[organization|PBG]]: [[license_plate|GF 67749 W]]
 Klientennummer: [[other_identifier|92908]]
 Kd.-Nr. [[other_identifier|685905]]
 
-Das Konto für die Gebühr lautet [[bank_account|AT10 3012 1384 3288 6220]] (Empfänger: [[organization|Pick Bau GmbH]]).
+Vorlage beim [[court|Handelsgericht Wien]]. Das Konto für die Gebühr lautet [[bank_account|AT10 3012 1384 3288 6220]] (Empfänger: [[organization|Pick Bau GmbH]]).
 
 Rückfragen an [[person|Ing. Oktavian Angermayer]], Tel. [[phone_number|02742/848542 DW 918]].
 

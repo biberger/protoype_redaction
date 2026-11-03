@@ -47,6 +47,20 @@ Die Rechnung ist zahlbar auf IBAN [[bank_account|AT21 7119 7683 3641 1778]] binn
 
 Tel. [[phone_number|01/7323448-0]]
 
+Die Kanzlei [[organization|KS]] wurde am [[date|11.03.2026]] mit der Errichtung der Treuhandschaft beauftragt. Die Auftraggeber sind in der Vergangenheit mehrfach mit unterschiedlichen Vorstellungen an die Kanzlei herangetreten. Eine einheitliche Linie ergab sich erst nach der Besprechung vom [[date|02.04.2026]].
+
+Die Kanzlei hat die Erklärung des Mitgesellschafters [[person|Bertold Bondy]] am [[date|15.04.2026]] geprüft. [[person|Bondy]] hat im Schreiben vom [[date|21.04.2026]] ausgeführt, dass die Treuhandschaft nicht im Einklang mit dem Gesellschaftsvertrag stehe. Die Kanzlei hat dieser Auffassung nicht zugestimmt und in einer Stellungnahme vom [[date|28.04.2026]] widersprochen.
+
+Die Zeugin [[person|Eleonore Dr. Schneider]] hat am [[date|05.05.2026]] eine schriftliche Erklärung abgegeben, wonach die Übergabe der Schlüssel bereits im Jahr 2019 erfolgt sei. Diese Erklärung ist für das Verfahren von erheblicher Bedeutung und wurde dem Gericht übermittelt.
+
+Ergänzend ist festzuhalten, dass die Kanzlei für die Teilnahme an der Verhandlung vom [[date|25.09.2026]] eine Vorbereitungszeit von vier Stunden aufgewendet hat. Die Reisekosten zum [[court|Bezirksgericht Krems]] sind in der Position vom [[date|25.09.2026]] enthalten.
+
+Die Auslagen für Gerichtsgebühren in Höhe von EUR 210,00 sowie für Grundbuchsabfragen in Höhe von EUR 42,50 sind im Honorar nicht enthalten. Sie werden vom Gericht bzw. vom Grundbuch unmittelbar eingehoben oder der Kanzlei zum Ersatz vorgelegt und nach Beleg weiterverrechnet.
+
+Das Honorar wurde nach dem [[legal_norm|RATG]] berechnet; der Streitwert ist in der Eingabe vom [[date|18.06.2026]] mit EUR 14.800,00 angegeben. Die Umsatzsteuer wurde mit 20 Prozent angesetzt.
+
+Eine Zahlungserinnerung wird im Falle des Ausbleibens nicht gesondert übermittelt. Die Kanzlei bittet um Überweisung auf das Treuhandkonto und um Angabe der Treuhandschaft Nr. [[other_identifier|2026/241]] im Verwendungszweck.
+
 Mit freundlichen Grüßen
 [[person|Kronsteiner]]
 [[person|Sulzbacher]]

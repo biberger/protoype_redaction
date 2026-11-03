@@ -37,8 +37,8 @@ Grundbuchsangaben (Liegenschaft der [[organization|Dopsch]]):
 Meldeverlauf der Person [[person|Stapf Gundelinde]], geb. [[date_of_birth|8. März 1961]]:
 
 Datum | Vorgang | Anschrift
-[[date|12.01.2009]] | Zuzug aus Graz | [[address|Auhofstraße 31/7, 1130 Wien]]
-[[date|30.11.2016]] | Ummeldung innerhalb Wien | [[address|Auhofstraße 31/7, 1130 Wien]]
+[[date|12.01.2009]] | Zuzug aus [[location|Graz]] | [[address|Auhofstraße 31/7, 1130 Wien]]
+[[date|30.11.2016]] | Ummeldung innerhalb [[location|Wien]] | [[address|Auhofstraße 31/7, 1130 Wien]]
 [[date|04.07.2024]] | Abmeldung Nebenwohnsitz | [[address|3671 Marbach an der Donau]]
 
 Die Gebühr für diese Bestätigung (14,30 EUR) ist auf das Konto [[bank_account|AT33 9143 1759 7110 2016]] der [[organization|Dopsch]] zu überweisen.

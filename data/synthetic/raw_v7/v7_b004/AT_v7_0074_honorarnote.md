@@ -14,6 +14,7 @@ ERV-Code: [[other_identifier|P197193]]
 HONORARNOTE NR. 2026/0558
 
 Datum: [[date|27.10.2026]]
+EINGANG: [[person|KATHI MÄRZ]], [[address|PAULUSTORGASSE 48, 6281 GERLOS]]
 
 Auftraggeberin: [[person|Dr. Zefferina Rizza]], StA: [[country|Italien]]
 Mitbeteiligter: [[person|Engelbert Edelmann]], geb. [[date_of_birth|8. Jänner 2003]]
@@ -49,4 +50,4 @@ Summe brutto | | 1.920,00
 Bitte überweisen Sie den Betrag auf IBAN [[bank_account|AT54 9842 6039 0573 5246]] binnen 14 Tagen. Für Rückfragen: Tel. [[phone_number|+43 463 195 94 23 DW 376]].
 
 Mit freundlichen Grüßen
-[[person|Sohm]]
+[[organization|Sohm]]

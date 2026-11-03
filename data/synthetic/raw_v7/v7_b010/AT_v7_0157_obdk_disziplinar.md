@@ -21,7 +21,7 @@ Zeuge: [[person|Dragan Ilić]], StA: [[country|Serbien]]
 
 Der Beschuldigte vertrat [[person|Buchgraber]] in einer Liegenschaftsangelegenheit. Der Gegenstand war das Grundstück [[land_register_id|KG 93448]]/[[land_register_id|E.Z. 2544]], [[land_register_id|Gst 1234/1]], das in [[address|5165 Berndorf bei Salzburg]] liegt. Die Kundennummer war Kd.-Nr. [[other_identifier|464182]].
 
-Die Zahlungen wurden wie folgt verbucht:
+Die Gelder liefen über das Konto [[bank_account|AT11 7548 9673 2566 6697]]. Die Zahlungen wurden wie folgt verbucht:
 
 Datum | Beschreibung | Betrag
 [[date|11.01.2024]] | Vorschuss von [[person|Buchgraber]] | 3.000,00 EUR
@@ -30,7 +30,7 @@ Datum | Beschreibung | Betrag
 
 Die Klientin [[person|Vajda]] erklärte, sie habe den Betrag von [[date|08.02.2024]] nie erhalten. Der Zeuge [[person|Ilić]] bestätigte die Übergabe in [[location|St. Margarethen im Burgenland]], lediglich ein Teil der Summe sei übergeben worden.
 
-Das Verfahren vor dem [[court|Bezirksgericht Amstetten]] / later abbreviated [[court|BG Amstetten]] war am [[date|15.04.2024]] anhängig. Der Beschuldigte vertrat Buchgraber dort nicht persönlich.
+Das Verfahren vor dem [[court|Bezirksgericht Amstetten]] / later abbreviated [[court|BG Amstetten]] war am [[date|15.04.2024]] anhängig. Der Beschuldigte vertrat [[person|Buchgraber]] dort nicht persönlich.
 
 **E-Mail vom [[date|18.03.2024]]:**
 

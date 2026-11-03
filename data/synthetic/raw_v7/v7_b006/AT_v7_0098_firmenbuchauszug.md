@@ -47,4 +47,18 @@ E-Mail: [[email|buero@kurth-bau.at]]
 
 Die [[organization|Kurth]] meldet keine offenen Rückstände.
 
+Zweigniederlassungen und Prokuren:
+Die [[organization|Kurth]] unterhält eine Zweigniederlassung in [[location|Scheibbs]]. Die Leitung dieser Niederlassung obliegt dem Prokuristen [[person|Ing. Stefan Rührig]], der seit [[date|03.05.2021]] eingetragen ist.
+
+Datum | Eintragung | Bemerkung
+[[date|03.05.2021]] | Prokura [[person|Ing. Stefan Rührig]] | Einzelprokura
+[[date|31.03.2022]] | Löschung der Prokura von [[person|Cem Aydoğdu]] | Austritt aus dem Unternehmen
+[[date|17.01.2025]] | Eintritt Gesellschafterin [[person|Mag. Helene Zauner]] | Stammeinlage EUR 8.000,00
+
+Die Gesellschafterversammlung vom [[date|12.11.2024]] genehmigte den Jahresabschluss. Die Gesellschaft hat Aufträge in [[location|Bad Waltersdorf]] und in [[location|Breitenbrunn am Neusiedler See]] abgewickelt.
+
+Anmerkung: Im Verfahren des [[person|Andrej Mohorović]] gegen die [[organization|Kurth]] ist ein Vergleich am [[date|08.09.2025]] geschlossen worden. Die Eintragung dazu wurde am [[date|15.09.2025]] vorgenommen.
+
+Vertretungsregelung: Die Geschäftsführer [[person|Roch Karrer]] und [[person|Dr. Panuta Gavriliu]] vertreten die Gesellschaft gemeinsam.
+
 [[location|Grabern]], am [[date|02.11.2026]]

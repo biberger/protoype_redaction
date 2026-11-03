@@ -29,7 +29,7 @@ Vermerk zu den Beweismitteln:
 
 Zeitpunkt | Beweismittel | Anmerkung
 [[date|01.10.2026]] | Lichtbilder vom Unfallort | 14 Stück
-[[date|02.10.2026]] | Einvernahme Zeuge Baudisch | Niederschrift angeschlossen
+[[date|02.10.2026]] | Einvernahme Zeuge [[person|Baudisch]] | Niederschrift angeschlossen
 
 Die Ausforschung der Halterin gelang über das [[court|Bezirksgericht St. Johann im Pongau]], das die Anschrift bestätigte: [[address|6391 Fieberbrunn]]. Die Halterin ist laut Zulassungsschein nicht identisch mit der Lenkerin.
 

@@ -5,7 +5,7 @@ lang: de
 ---
 [[court|BEZIRKSGERICHT INNERE STADT WIEN]]
 
-STEMPEL: [[person|VILKO KARIĆ]] – MELDEAMT WIEN 1 – [[date|27.10.2026]]
+STEMPEL: [[person|VILKO KARIĆ]] – MELDEAMT [[location|WIEN]] 1 – [[date|27.10.2026]]
 
 MELDEBESTÄTIGUNG
 
@@ -42,7 +42,7 @@ TH-Nr. [[other_identifier|2025/713]]
 Tel. [[phone_number|+43-1-628809 Kl. 71]]
 [[address|5580 Tamsweg]]
 
-Die Gebühr in Höhe von 14,30 EUR ist auf das Konto [[bank_account|AT23 4846 3035 6456 4534]] zu entrichten.
+Vorlage beim [[court|Bezirksgericht Innere Stadt Wien]]. Die Gebühr in Höhe von 14,30 EUR ist auf das Konto [[bank_account|AT23 4846 3035 6456 4534]] zu entrichten.
 
 Ausgestellt am [[date|27.10.2026]] in [[location|Wien]].
 

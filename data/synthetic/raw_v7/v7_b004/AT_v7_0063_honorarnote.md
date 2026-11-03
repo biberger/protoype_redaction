@@ -41,6 +41,12 @@ Summe brutto | | 798,00
 
 Bitte überweisen Sie den Betrag von EUR 798,00 auf IBAN [[bank_account|AT71 0190 2770 5966 1609]].
 
+Die Prüfung umfasste die Einsicht in das Grundbuch am zuständigen Bezirksgericht und die Auswertung der Urkunden, die [[person|Tanno Hamming]] am [[date|02.08.2026]] vorgelegt hat. Die Angaben zur Person des Auftraggebers [[person|Onesin Wagner]] wurden anhand der Ausweise geprüft; eine Wohnsitzbestätigung wurde angefordert und liegt bei.
+
+Der Gesellschafter [[person|Jaroslaw Ogbevoen]] hat die Abtretung am [[date|19.08.2026]] unterzeichnet. Eine weitere Abstimmung mit der [[organization|Patzelt]] fand am [[date|21.08.2026]] telefonisch statt. Die Gesprächsnotiz wurde dem Akt beigefügt.
+
+Für die Eintragung im Grundbuch sind Gebühren zu entrichten; diese sind nicht Gegenstand dieser Note und werden vom Gericht unmittelbar eingehoben.
+
 Mit freundlichen Grüßen
 
 [[person|Seidler]]
