@@ -60,12 +60,26 @@ Die Erbin [[person|Marijana Stanišić]] hat die Erbschaft unbedingt angenommen.
 angenommen. Der Legatar [[person|Goebl]] hat für die Erblasserin Auskünfte über die Kfz-Zulassung erteilt; dies
 ist im Akt vermerkt.
 
+Die Legatarin [[person|Hartwiga Dr. Portisch]] hat den Wunsch geäußert, das Wohnungsrecht bereits vor der
+Einantwortung auszuüben. Dem steht rechtlich nichts entgegen, sofern die Erbin zustimmt. Die Erbin
+[[person|Marijana Stanišić]] hat sich mit dieser Regelung einverstanden erklärt und dies am [[date|9. Oktober 2026]]
+schriftlich bestätigt. Ein entsprechender Vermerk ist im Akt eingetragen.
+
 Der Notar ersucht um Rückfragen unter der Tel. [[phone_number|0463/4292692 Kl. 76]] oder über die
 Kanzleiadresse.
+
+Die Verlassenschaft hat ferner die Kosten der Todesfallaufnahme mit EUR 480,00 bezahlt; diese Auslage wird vom Nachlass
+ersetzt, sobald die Einantwortung erfolgt ist. Eine Abrechnung darüber liegt dem Akt bei.
+
+Die Verlassenschaft hat die Bankverbindung der Erblasserin bei der [[organization|HYPO NOE Landesbank für Niederösterreich und Wien AG]]
+bereits geschlossen. Die Restguthaben werden auf das Verlassenschaftskonto überwiesen, sobald die Einantwortung
+rechtskräftig ist.
 
 Mit vorzüglicher Hochachtung
 
 [[person|Hopfgartner]]
 Öffentlicher Notar
+
+Der Notar bestätigt, dass die Erbantrittserklärungen vollständig und rechtzeitig eingebracht wurden.
 
 Beilagen: Sterbeurkunde, Testament, Verzeichnis der Aktiva, Bankbestätigung

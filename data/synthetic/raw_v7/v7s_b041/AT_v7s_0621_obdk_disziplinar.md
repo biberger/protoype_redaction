@@ -56,6 +56,15 @@ Der Beschuldigte war bis zu diesem Verfahren disziplinär unbescholten. Eine Vor
 Der Klient hat nach seiner Aussage die Zusammenarbeit mit dem Beschuldigten inzwischen beendet und die Kanzlei
 gewechselt; die Treuhandschaft wird von einem anderen Rechtsanwalt weitergeführt.
 
+**Stellungnahme des Beschuldigten**
+
+Der Beschuldigte hat in der mündlichen Verhandlung ausgeführt, die Zahlung an die Baufirma sei aufgrund eines mündlich
+vereinbarten Zusatzauftrags erfolgt, den der Klient [[person|Jiszda]] selbst veranlasst habe. Die Überweisung über
+EUR 6.750,00 an eine Privatperson betreffe eine Reinigung der Liegenschaft sowie die Begutachtung durch einen
+Sachverständigen. Als Beleg legte er eine Rechnung vor, die auf den [[date|2. Mai 2024]] datiert ist, jedoch erst im
+Jahr 2025 erstellt wurde. Der Senat hat dies als nachträglich erstellten Beleg gewertet, zumal das Datum der Rechnung
+mit dem Ausstellungsdatum des Dokuments nicht übereinstimmt.
+
 **III. Beweiswürdigung**
 
 Der Senat stützt die Feststellungen auf die Buchungsauszüge, die Abrechnung vom [[date|30. Oktober 2025]] und die
@@ -78,6 +87,13 @@ Die Auszahlungen ohne Weisung des Klienten verletzen zudem die Pflicht zur gewis
 Klienten eine Leistung schuldig zu sein. Es ist jedem Rechtsanwalt zumutbar, eine Auszahlung vor deren Durchführung
 mit dem Klienten abzustimmen.
 
+**Zeugen und Sachverständige**
+
+Der Sachverständige für Buchhaltung, [[person|Dipl.-Ing. Otto Kranzl]], hat das Sammelkonto untersucht. Nach seinem
+Gutachten vom [[date|15. Juni 2026]] wurde keine Trennung der Gelder vorgenommen; die Kontobewegungen sind lückenlos
+nachvollziehbar. Die Zeugin [[person|Sabine Aigner]], Kanzleikraft des Beschuldigten, bestätigte, dass die
+Überweisungen über das Sammelkonto auf Anordnung des Beschuldigten erfolgten.
+
 **V. Strafbemessung**
 
 Bei der Strafbemessung war zu berücksichtigen, dass der Beschuldigte das Fehlende nach Abschluss des Verfahrens in
@@ -85,8 +101,27 @@ Teilbeträgen zurückgezahlt hat. Erschwerend ist die Dauer des Verstoßes von �
 betroffenen Beträge. Die verhängte Geldbuße von EUR 2.500,00 entspricht nach Ansicht des Senats dem Unrechtsgehalt
 und den persönlichen Verhältnissen des Beschuldigten.
 
+Mildernd wirkt zudem, dass der Beschuldigte die Vorwürfe in Teilen eingeräumt hat, insbesondere die fehlende Trennung
+der Konten. Der Senat berücksichtigt auch, dass der Beschuldigte die Kanzlei inzwischen an einen Nachfolger übergeben
+hat und künftig nicht mehr als Treuhänder tätig sein wird.
+
 Die Kostenentscheidung gründet sich auf [[legal_norm|§ 52 Abs 1 RAO]]. Die Kosten der Verhandlung umfassen die
 Reisekosten der Zeugen und die Gebühren des Sachverständigen für die Buchhaltung.
+
+Der Beschuldigte hat in seinem Schlusswort die Verletzung seiner Pflichten nicht bestritten, aber um eine Geldbuße am
+unteren Rand des Strafrahmens ersucht. Der Senat hat dies geprüft, jedoch nicht als ausreichend erachtet, weil die Gelder
+über einen längeren Zeitraum nicht getrennt verwahrt wurden. Die Kammeranwältin hat in der Verhandlung ausdrücklich
+darauf hingewiesen, dass die Belege der Baufirma erst nach Ablauf der Frist vorgelegt wurden.
+
+**Ergänzende Feststellungen**
+
+Der Senat stellt ergänzend fest, dass der Beschuldigte die Klienten nicht über die Verwendung des Sammelkontos
+unterrichtet hat. Der Klient [[person|Jiszda]] hatte dem Beschuldigten im Jahr 2024 eine Vollmacht für die Verwaltung der
+Gelder erteilt; eine Information über die Kontobewegungen erfolgte jedoch nicht. Die betroffenen Beträge belaufen sich
+nach den Feststellungen auf insgesamt EUR 38.000,00 und damit auf den gesamten Betrag, der dem Beschuldigten anvertraut
+war. Diese Feststellung ist erwiesen, weil die Kontenübersicht die Eingänge lückenlos ausweist.
+
+Der Beschuldigte hat die Möglichkeit gehabt, ergänzende Belege vorzulegen. Solche Belege wurden nicht vorgelegt, auch nicht nach der ausdrücklichen Aufforderung durch den Senatsvorsitzenden. Solche Belege wurden nicht vorgelegt.
 
 **VI. Rechtsmittelbelehrung**
 

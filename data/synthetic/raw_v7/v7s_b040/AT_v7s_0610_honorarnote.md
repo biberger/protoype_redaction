@@ -38,7 +38,7 @@ Gesamtbetrag (brutto): 3.750,00
 
 ZAHLUNGSPFLICHTIGER: [[person|KANTOR CRISPIN]], GESCHÄFTSZAHL DES VERFAHRENS: [[case_number|14 Cg 58/26w]]
 
-Die Honorarnote bezieht sich auf die Vertretung im Verfahren über den Ersatz des Schadens aus dem Kaufvertrag mit [[person|Henrietta Schwarzinger]]. Die Stunden für Besprechungen sind mit dem Stundensatz von EUR 170,00 netto verrechnet; Schreiben und Telefonate werden pauschal abgerechnet.
+Die Honorarnote bezieht sich auf die Vertretung im Verfahren über den Ersatz des Schadens aus dem Kaufvertrag mit [[person|Henrietta Schwarzinger]]. Die Stunden für Besprechungen sind mit dem Stundensatz von EUR 170,00 netto verrechnet; Schreiben und Telefonate werden pauschal abgerechnet. Die Kosten der Reisen zum Gericht sind in den Positionen enthalten und werden nicht gesondert ausgewiesen.
 
 Die Honorarnote ist binnen 14 Tagen zur Zahlung fällig. Bitte überweisen Sie den Betrag auf das Konto der Kanzlei unter Angabe der Honorarnote.
 

@@ -61,11 +61,17 @@ V. Gewährleistung
 
 Die Verkäuferin haftet für den Bestand der Liegenschaften und die Richtigkeit der Angaben im Grundbuch. Für Mängel des Gebäudes wird die Gewährleistung ausgeschlossen, soweit das Gesetz dies zulässt. Die Käufer erklären, das Gebäude besichtigt zu haben.
 
+Die Verkäuferin übergibt den Bauakt der Gemeinde, die Benützungsbewilligung für die Lagerhalle und die Bescheide über den Wasseranschluss. Aus dem Bauakt ergibt sich, dass der Anbau des Büros im Jahr 2009 ohne gesonderte Bewilligung errichtet wurde; die Verkäuferin hat dies offengelegt, und die Käufer übernehmen das Risiko eines nachträglichen Bauverfahrens. Ein Anspruch auf Preisminderung besteht daher nicht.
+
+Die Käufer haben sich das Grundbuch der Liegenschaften am Tag der Unterfertigung ausdrucken lassen. Der Ausdruck wurde zum Vertrag genommen und stimmt mit den in Abschnitt I genannten Einlagezahlen überein. Änderungen zwischen dem Grundbuchsstand und der Vertragsunterfertigung sind nicht eingetreten.
+
+Das Wegerecht zugunsten des Nachbargrundstücks bleibt aufrecht. Die Käufer übernehmen die jährlichen Erhaltungskosten des Weges im Verhältnis ihrer Anteile; die Verkäuferin hat den Betrag für das laufende Jahr bereits bezahlt.
+
 V a. Bestehende Mietverhältnisse
 
 Auf dem Grundstück [[land_register_id|772]] befindet sich eine Lagerhalle mit angebautem Büro, das seit dem [[date|01.03.2019]] an die Mieterin [[person|Nadiya Hrytsenko]] vermietet ist. Der Mietvertrag wird von den Käufern übernommen; die monatliche Miete beträgt EUR 1.640,00 netto zuzüglich Betriebskosten. Die Kaution von EUR 3.280,00 wird von der Verkäuferin an die Käufer übergeben.
 
-Frau [[person|Hrytsenko]] hat auf das Vorkaufsrecht nach dem Mietrechtsgesetz verzichtet. Die Verkäuferin übergibt die Mieterabrechnung für das Jahr 2025 mit einem Saldo zugunsten der Mieterin von EUR 212,40, den die Käufer übernehmen.
+Frau [[person|Hrytsenko]] hat auf das Vorkaufsrecht nach dem [[legal_norm|Mietrechtsgesetz]] verzichtet. Die Verkäuferin übergibt die Mieterabrechnung für das Jahr 2025 mit einem Saldo zugunsten der Mieterin von EUR 212,40, den die Käufer übernehmen.
 
 V b. Aufteilung des Kaufpreises
 

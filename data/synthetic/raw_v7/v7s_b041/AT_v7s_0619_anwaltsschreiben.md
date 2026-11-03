@@ -62,6 +62,10 @@ mit unserer Kanzlei am [[date|2. Oktober 2026]] zwar erklärt, für den Schaden 
 danach nicht mehr gemeldet. Eine Kopie des Polizeiprotokolls vom [[date|18. September 2026]] fügen wir bei.
 Die Mandantin ist derzeit noch arbeitsunfähig; die Kosten der Haushaltshilfe werden gesondert nachgereicht.
 
+Die Schmerzengeldberechnung wird nach Abschluss der Heilbehandlung vorgenommen. Eine Teilforderung halten wir aber
+bereits jetzt für gerechtfertigt, weil die Verletzungen unstreitig sind und durch den Befund belegt werden. Wir bitten
+um Mitteilung Ihrer Entscheidung bis zum [[date|30. Oktober 2026]].
+
 Für Rückfragen steht Ihnen unter der oben angeführten Durchwahl zur Verfügung.
 
 Mit freundlichen Grüßen

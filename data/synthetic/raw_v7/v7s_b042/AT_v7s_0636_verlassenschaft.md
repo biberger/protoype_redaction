@@ -63,7 +63,7 @@ Der Erbe [[person|Gradwohl]] ist mit dem Ausgleich der Liegenschaft nicht einver
 
 Die Gläubigerin [[person|Dugandzic]] hat nach Vorlage der Rechnung eine Ratenzahlung von EUR 150,00 monatlich vereinbart, die im Protokoll festgehalten wurde. Der Gläubiger [[person|Garibaldi]] hat dagegen die volle Befriedigung verlangt. Der Notar hat ihm erklärt, dass die Verlassenschaft nur im Rahmen des Nachlasses leistet und eine vorrangige Befriedigung nicht möglich ist.
 
-Die Verbindlichkeiten der Verlassenschaft übersteigen den Nachlass nach derzeitigem Stand nicht. Die Erben haften nur im Umfang des übernommenen Vermögens; dies wurde ihnen ausdrücklich erklärt.
+Die Verbindlichkeiten der Verlassenschaft übersteigen den Nachlass nach derzeitigem Stand nicht. Die Erben haften nur im Umfang des übernommenen Vermögens; dies wurde ihnen ausdrücklich erklärt. Eine Ausschlagung durch einen der Erben ist bisher nicht erfolgt; die Ausschlagungsfrist läuft für beide Erben noch. Bis dahin bleibt die Verlassenschaft unverändert. Die Gerichtsgebühren sind vorerst gestundet. Dies wurde im Protokoll festgehalten.
 
 Die Einantwortung erfolgt nach Ablauf der Frist zur Anmeldung der Forderungen. Die Gläubiger sind mit der Abhandlung einverstanden, soweit ihre Forderungen gedeckt sind.
 

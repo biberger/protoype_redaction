@@ -3,7 +3,7 @@ doc_type: polizeibericht
 jurisdiction: AT
 lang: de
 ---
-LANDESPOLIZEIDIREKTION WIEN
+[[organization|LANDESPOLIZEIDIREKTION WIEN]]
 [[organization|Polizeiinspektion Stubenring]]
 [[address|Stubenring 6, 1010 Wien]]
 Tel. [[phone_number|01 31310 DW 44120]]
@@ -41,9 +41,15 @@ Die Anzeige wird dem [[court|Bezirksgericht Innere Stadt Wien]] übermittelt. De
 
 Die Versicherung des Fahrzeuges [[license_plate|MD-923 L]] ist laut Angabe der Lenkerin bei der Versicherungsanstalt Polizzen-Nr. [[other_identifier|50-118204]] geführt.
 
+Die Unfallstelle wurde fotografisch dokumentiert. Die Lichtbilder zeigen die Spuren auf der Fahrbahn, die Endlage beider Fahrzeuge und die Beschädigungen am Heck des abgestellten Pkw. Die Spurenlage deckt sich weitgehend mit den Angaben des Lenkers [[person|Fernández]], während die Darstellung der Lenkerin [[person|Lukas]] zum Abbiegevorgang davon abweicht. Eine Verkehrsdatenerhebung der [[organization|Stadt Wien]] wurde angefordert, ist aber noch nicht eingelangt.
+
+Der Lenker [[person|Fernández]] führte an, dass er zum Unfallzeitpunkt wegen eines Anrufes kurz abgelenkt war. Ein Mobiltelefon wurde nicht sichergestellt, weil der Lenker es freiwillig vorgezeigt hat und keine Nutzung feststellbar war. Der Beifahrer [[person|Sluka]] befand sich zum Unfallzeitpunkt auf dem Gehsteig und hat den Anstoß nicht beobachtet.
+
 Die Fahrzeugpapiere wurden durch die Beamten eingesehen. Der Zulassungsschein des Fahrzeuges mit dem Kennzeichen [[license_plate|BZ-753 XD]] war auf den Halter [[person|Fernández]] ausgestellt, die Begutachtungsplakette war gültig. Die Lenkerin [[person|Lukas]] legte eine Kopie der Zulassung vor, da das Original nach Angaben der Lenkerin im Büro verblieben sei. Die Kopie wurde zur Akte genommen.
 
 Eine Nachschau bei der Melderegisterabfrage ergab für [[person|Matijevic]] und [[person|Sluka]] keine Auffälligkeiten. Die Beamten haben die Sachverhaltsaufnahme um 09:15 Uhr abgeschlossen und die Fahrzeuge zur Bergung freigegeben. Die Verkehrsbehinderung dauerte bis 09:40 Uhr.
+
+Die Anzeige ergeht an die Bezirksverwaltungsbehörde wegen des Verdachts einer Verwaltungsübertretung nach der [[legal_norm|Straßenverkehrsordnung]]. Eine Ausfertigung erhält die Lenkerin [[person|Lukas]] zur Vorlage bei ihrer Versicherung.
 
 Beamte am Unfallort:
 [[person|Kevin Ertl]] (Insp.) – Meldungsleger

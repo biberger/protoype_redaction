@@ -10,7 +10,7 @@ Tel. [[phone_number|0732/8414398 Kl. 24]]
 
 ERKENNTNIS
 
-Der Disziplinarrat der Tiroler Rechtsanwaltskammer hat in der Disziplinarsache gegen die Rechtsanwältin [[lawyer|Gerrianne Eldering]] nach Beratung in nichtöffentlicher Sitzung am [[date|29. Juni 2026]] erkannt:
+Der [[court|Disziplinarrat der Tiroler Rechtsanwaltskammer]] hat in der Disziplinarsache gegen die Rechtsanwältin [[lawyer|Gerrianne Eldering]] nach Beratung in nichtöffentlicher Sitzung am [[date|29. Juni 2026]] erkannt:
 
 Die Beschuldigte ist schuldig, Gelder aus einer Treuhandschaft entgegen den Vorschriften des [[legal_norm|§ 16 RAO]] verwendet zu haben. Über sie wird eine Geldbuße von EUR 1.500,00 verhängt.
 
@@ -53,7 +53,7 @@ Beweiswürdigung
 
 Der Senat stützt sich auf die Kontoauszüge, das Treuhandbuch und das Schreiben vom [[date|15. August 2025]]. Die Aussage des Verkäufers [[person|Stranzinger]] ist glaubhaft, weil sie mit den Unterlagen übereinstimmt. Die Beschuldigte konnte für die Honorarforderung über EUR 12.000,00 keine Abrechnung vorlegen, die diesen Betrag belegt.
 
-Der Senat hat die Angaben der Beschuldigten zur Erkrankung berücksichtigt. Die ärztliche Bestätigung belegt jedoch nur den Zeitraum der Arbeitsunfähigkeit und nicht die Verwendung der Gelder. Dass die Honorarzahlung in dieser Zeit erfolgte, spricht vielmehr dafür, dass die Auszahlung bewusst veranlasst wurde.
+Der Senat hat die Angaben der Beschuldigten zur Erkrankung berücksichtigt. Die Beschuldigte hat außerdem ihre Zusage erfüllt, die Treuhandbuchung bis zur Sitzung vollständig nachzuvollziehen, und den Senat am vorangegangenen Arbeitstag schriftlich darüber informiert. Die ärztliche Bestätigung belegt jedoch nur den Zeitraum der Arbeitsunfähigkeit und nicht die Verwendung der Gelder. Dass die Honorarzahlung in dieser Zeit erfolgte, spricht vielmehr dafür, dass die Auszahlung bewusst veranlasst wurde.
 
 Rechtliche Beurteilung
 
@@ -65,7 +65,7 @@ Die Verhängung einer Geldbuße von EUR 1.500,00 erscheint angemessen. Die Koste
 
 Belehrung
 
-Gegen dieses Erkenntnis kann innerhalb von vier Wochen Berufung erhoben werden. Die Berufung ist beim Disziplinarrat einzubringen.
+Gegen dieses Erkenntnis kann innerhalb von vier Wochen Berufung erhoben werden. Die Berufung ist beim Disziplinarrat einzubringen. Die Berufungsfrist beginnt mit der Zustellung zu laufen.
 
 Ausgefertigt in [[address|3943 Schrems]], am [[date|29. Juni 2026]]
 

@@ -13,6 +13,8 @@ Sehr geehrte Frau [[person|DI Hubatschek]],
 
 anbei die Zahlungsbestätigung für den Mietrückstand. Die [[organization|Weller Immobilien GmbH]] (in der Folge [[organization|WIG]]) ist mit dem Vergleichsvorschlag einverstanden, wenn der Auszug aus dem Objekt in [[location|St. Michael im Lungau]] bis Ende November erfolgt.
 
+Die Zahlungsbestätigung der [[organization|WIG]] vom [[date|11. Oktober 2026]] ist beigefügt; der Betrag ist auf dem Konto der Kanzlei eingegangen. Die Restforderung aus den Betriebskosten wird bis zum Auszug gesondert abgerechnet, sofern keine Einwendungen erhoben werden. Bitte geben Sie uns bis dahin auch an, an welche Adresse die Schlüssel zu übermitteln sind.
+
 Bitte bestätigen Sie den Termin für die Schlüsselübergabe.
 
 Mit freundlichen Grüßen

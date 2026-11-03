@@ -69,6 +69,10 @@ Der Kontostand per Stichtag wurde durch Auszug der Bank bestätigt. Die Erben ha
 
 Die Verlassenschaftsabhandlung wird nach Fertigstellung des Inventars und der Erbschaftssteuerabrechnung an das [[court|Bezirksgericht Kufstein]] zurückgeleitet.
 
+Das Vermächtnis an [[person|Waldmann]] umfasst ein Wertpapierdepot, dessen Bestand zum Todestag einen Wert von 23.700 Euro hatte. Die Depotbank hat den Bestand am [[date|30. Juni 2025]] übertragen. Der Vermächtnisnehmer hat die anfallende Kapitalertragsteuer aus eigenen Mitteln beglichen, weil sie nach dem Testament nicht zu Lasten der Erbschaft geht.
+
+Die Erbin [[person|Pototschnig]] hat mitgeteilt, dass sie sich bei der Abhandlung durch einen Verwandten vertreten lassen möchte. Eine Vollmacht wurde vorgelegt. Die Erbin [[person|Miesenböck]] hat die Auszahlung ihres Anteils an das Konto der Verlassenschaft gewünscht, weil sie ihren Wohnsitz im Ausland hat.
+
 Die Notariatsgebühren sind nach dem Tarif zu verrechnen. Die Verlassenschaft trägt die Kosten, soweit sie ausreichen.
 
 Die Erbin [[person|Afritsch]] hat ergänzend bekannt gegeben, dass sie Unterlagen zur Liegenschaft im Gemeindeamt angefordert hat. Die Gemeinde hat die Ausstellung eines Auszugs für den [[date|14. Oktober 2025]] zugesagt.

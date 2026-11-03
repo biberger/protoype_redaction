@@ -28,7 +28,7 @@ Lindinger]], geb. [[date_of_birth|21. Oktober 1985]], StA. [[country|Polen]], [[
 
 Die Erbin [[person|Galanopoulos]] wurde im Verzeichnis als Erbin nach der Erblasserin aufgenommen. [[person|Evterpi Galanopoulos]] hat eine Erbserklärung auf Grund des Testaments vom [[date|12. März 2008]] abgegeben, das die Erblasserin nach Auffassung des Notars nicht widerrufen hat.
 
-Die Erbin [[person|Galanopoulos]] lebt im Ausland und hat den Notar ersucht, die Zustellungen an eine Vertrauensperson in [[location|Steyr]] zu richten. Diesem Ersuchen wurde entsprochen; die Vollmacht liegt bei den Akten.
+Der Notar hat die Erbquoten nach dem Vorbringen der Beteiligten neu berechnet; die Rechenbasis ist im Protokoll dargestellt. Die Erbin [[person|Galanopoulos]] lebt im Ausland und hat den Notar ersucht, die Zustellungen an eine Vertrauensperson in [[location|Steyr]] zu richten. Diesem Ersuchen wurde entsprochen; die Vollmacht liegt bei den Akten.
 
 Der Notar [[person|Jensen]] hat die Erben darauf hingewiesen, dass die Quoten der Erben nach Abzug der Erbschaftsteuer festgelegt werden.
 
@@ -50,7 +50,7 @@ Zwischen den Erben [[person|Okur]] und [[person|Lindinger]] besteht Streit über
 
 Die Erbin [[person|Beck]] hat auf die Erbschaft gegen Abfindung in Höhe von EUR 3.000,00 verzichtet, die Erklärung wurde am [[date|9. Oktober 2026]] vor dem Notar abgegeben. Die Abfindung wird aus dem Nachlass beglichen, bevor die übrigen Erben ihre Quoten erhalten.
 
-Die Einantwortung wird nach Erledigung der Gläubigerangelegenheiten erfolgen. Die Erben sind mit der Teilung im Verhältnis ihrer Quoten einverstanden.
+Die Einantwortung wird nach Erledigung der Gläubigerangelegenheiten erfolgen. Die Erbquoten werden erst nach Rechtskraft des Beschlusses im Einantwortungsverfahren eingetragen. Die Kosten des Gutachtens werden anteilig getragen. Ein Termin dazu steht noch aus. Die Erben sind mit der Teilung im Verhältnis ihrer Quoten einverstanden.
 
 Ausgefertigt in [[location|Feldkirchen bei Graz]] am [[date|20. Oktober 2026]].
 

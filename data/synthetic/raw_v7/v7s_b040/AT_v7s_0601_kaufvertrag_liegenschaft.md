@@ -51,6 +51,8 @@ B. Die Verkäuferin [[person|Jaksch]] ist alleinige Eigentümerin der Liegenscha
 
 C. Die Vertragsteile haben die Liegenschaften zu einem einheitlichen Kaufgegenstand zusammengefasst, weil die Käuferin die Gesamtliegenschaft für einen gemeinsamen Betriebsstandort benötigt.
 
+D. Die Vertragsteile halten fest, dass die Verkäuferin [[person|Markovic]] und der Verkäufer [[person|Knezevic]] den Kaufgegenstand in dem Zustand verkaufen, in dem er sich am Tag der Unterfertigung befindet. Ein Lageplan, der die Abgrenzung der beiden Grundstücke zueinander zeigt, ist diesem Vertrag als Beilage angeschlossen und Bestandteil dieser Urkunde.
+
 III. Kaufgegenstand und Kaufpreis
 
 1. Die Verkäufer verkaufen und übergeben die in Punkt II. genannten Liegenschaften samt allem rechtlichen und tatsächlichen Zubehör an die Käuferin, die diese Liegenschaften kauft und übernimmt.

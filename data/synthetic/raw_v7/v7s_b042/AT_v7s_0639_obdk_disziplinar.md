@@ -88,7 +88,7 @@ Die Kammeranwältin [[person|Androschin]] hielt dem entgegen, dass die Beschuldi
 
 4e. Wiedergutmachung
 
-Die Beschuldigte hat die Mandantin [[person|Acimovic]] am [[date|27.06.2025]] vollständig entschädigt, indem sie den offenen Betrag von EUR 1.000,00 zuzüglich Zinsen überwies. Die Mandantin [[person|Wild]] erhielt den Restbetrag von EUR 700,00 erst am [[date|14.11.2025]]; eine Zinszahlung wurde nicht geleistet. Der Senat wertet die Entschädigung der Mandantin [[person|Acimovic]] als Milderungsgrund, nicht jedoch die verspätete Zahlung an die Mandantin [[person|Wild]].
+Die Beschuldigte hat die Mandantin [[person|Acimovic]] am [[date|27.06.2025]] vollständig entschädigt, indem sie den offenen Betrag von EUR 1.000,00 zuzüglich Zinsen überwies. Die Mandantin [[person|Wild]] erhielt den Restbetrag von EUR 700,00 erst am [[date|14.11.2025]]; eine Zinszahlung wurde nicht geleistet. Der Senat wertet die Entschädigung der Mandantin [[person|Acimovic]] als Milderungsgrund, nicht jedoch die verspätete Zahlung an die Mandantin [[person|Wild]]. Die Beschuldigte hat sich bei beiden Mandantinnen schriftlich entschuldigt; das Entschuldigungsschreiben vom [[date|20. November 2025]] liegt dem Akt bei und wurde vom Senat berücksichtigt. Eine Rücknahme der Beschwerden durch die Mandantinnen ist nicht erfolgt. Die Kammer hat die Mandantinnen über den Ausgang des Verfahrens informiert.
 
 5. Kosten
 

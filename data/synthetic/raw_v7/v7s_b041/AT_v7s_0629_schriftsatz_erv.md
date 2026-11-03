@@ -73,6 +73,15 @@ die Schaden-Nr. [[other_identifier|48/698111/21]] und wurde am [[date|3. Februar
 [[date|17. März 2025]] blieb ebenfalls unbeantwortet. Ein Schlichtungsversuch wurde am [[date|9. April 2025]]
 durch die Schlichtungsstelle abgebrochen.
 
+Die Klägerin hat sämtliche Schadensminderungsmaßnahmen unverzüglich ergriffen. Sie hat die Heizung in der Wohnung
+überprüfen lassen; das Befundprotokoll des Installateurs vom [[date|27. Februar 2025]] liegt bei. Eine Mitverantwortung
+der Klägerin ist damit ausgeschlossen. Die Wohnung war bis zum [[date|20. Februar 2025]] nicht bewohnbar, sodass sich der
+Mietzinsanspruch ab diesem Tag wieder auf den vollen Betrag richtet.
+
+Die Klägerin hat den Anspruch auf Schmerzengeld mit einem ärztlichen Attest begründet, das eine Anpassungsstörung mit
+depressiver Reaktion feststellt. Die Behandlung erfolgt seit dem [[date|1. März 2025]] durch den Hausarzt, die Kosten
+der Psychotherapie werden gesondert geltend gemacht.
+
 **IV. Rechtliche Ausführungen**
 
 Die [[organization|LHG]] ist gemäß [[legal_norm|§ 1096 ABGB]] verpflichtet, die Wohnung in brauchbarem Zustand zu erhalten. Die
@@ -82,11 +91,27 @@ Der Ersatz des weiteren Schadens richtet sich nach [[legal_norm|§ 1295 ABGB]] i
 Das Schmerzengeld ist nach [[legal_norm|§ 1325 ABGB]] zu bemessen. Die psychische Belastung ist durch ein
 Attest des Hausarztes belegt.
 
+**IV a. Weitere Ausführungen zum Schaden**
+
+Die Klägerin musste während der Dauer der Mängel zudem ihre Arbeitszeit reduzieren. Die Dienstgeberin
+[[organization|Wirtschaftsschule Krispl GmbH]] bestätigte am [[date|14. März 2025]], dass ihr für 22 Arbeitstage ein
+Verdienstentgang von insgesamt EUR 1.380,00 entstanden ist. Die Bestätigung liegt als Beilage bei. Ergänzend ist
+festzuhalten, dass die Wohnung im Februar 2025 durch den Schimmelbefall für Kleinkinder ungeeignet war; die Klägerin
+hat deshalb die Mietzinsminderung auf 100 Prozent begehrt.
+
+Die [[organization|LHG]] hat zudem im Verfahren vor der Schlichtungsstelle geltend gemacht, dass die Klägerin den
+Schaden durch unsachgemäße Heizung mitverursacht habe. Dieses Vorbringen wird bestritten. Ein Heizungsprotokoll ist
+nicht vorhanden; der Sachverständige wird zu dieser Frage Stellung nehmen.
+
 **V. Beweise**
 
 Die Klägerin beantragt die Einvernahme der Zeugin [[person|Basch]] sowie die Einholung eines Sachverständigengutachtens
 aus dem Fachgebiet Bauschäden. Ferner wird die Vorlage der Schadensmeldung und der Zahlungsaufforderung durch die
 [[organization|LHG]] beantragt.
+
+Die Klägerin hat die Zeugin [[person|Basch]] bereits für die Verhandlung benannt; die Zeugin wurde mit Schreiben vom
+[[date|16. Oktober 2026]] über den Termin informiert. Ferner beantragt die Klägerin die Einvernahme der
+Hausverwalterin [[person|Roswitha Kammerlander]] als Zeugin zu den Vorgängen der Schadensmeldung.
 
 **VI. Anträge**
 
@@ -96,6 +121,10 @@ Das [[court|BG Linz]] möge der Beklagten die Zahlung von EUR 18.400,00 samt Zin
 in eventu die Klage nach Verhandlung stattgeben.
 
 Die Kosten des Verfahrens sind der Beklagten aufzuerlegen.
+
+Die Klägerin begehrt den Ersatz der Kosten nach [[legal_norm|§ 41 ZPO]] in voller Höhe, weil sie mit ihrem
+Begehren vollständig obsiegen wird. 
+Die Kosten der Schlichtung sind dabei gesondert auszuweisen.
 
 **VII. Beilagen**
 

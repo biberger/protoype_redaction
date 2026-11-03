@@ -53,6 +53,8 @@ Die Darstellung des Beschuldigten, wonach die Zahlung an die [[organization|Neub
 
 4.2. Die Verletzung der Pflichten der Treuhandschaft ist nach § 1 Abs 2 Z 3 der Disziplinarordnung zu ahnden. Bei der Strafbemessung waren als mildernd zu werten, dass der Beschuldigte bisher disziplinär unbescholten ist und den Restbetrag an [[person|D'Aquino]] inzwischen nachbezahlt hat. Erschwerend war, dass die Buchungen nachträglich geändert wurden, um den Zugriff auf das Anderkonto zu verschleiern.
 
+4.2a. Die Anzahl der Verstöße und die Dauer des Zeitraumes sind für den Senat ausschlaggebend. Die Vorsitzende [[judge|Dr. Oswina Langer]] hat darauf hingewiesen, dass die Mandantin [[person|Hotak]] durch die verspätete Rechnungslegung zusätzlich belastet wurde.
+
 4.3. Der Senat sieht in der Verhängung einer Geldbuße das gelindeste Mittel, um den Beschuldigten zur ordnungsgemäßen Führung der Treuhandschaft anzuhalten. Ein Ausschluss von der Rechtsanwaltschaft kam nicht in Betracht, weil die Verfehlung keinen Vermögensschaden der Mandanten in dauerhafter Höhe nach sich gezogen hat.
 
 4.4. Der Senat hat ferner geprüft, ob die Verfehlung eine Verletzung der Verschwiegenheitspflicht darstellt. Dies ist nicht der Fall, weil die Mitteilungen an die Kammeranwältin durch den Mandanten selbst erfolgten. Die Beschwerde des [[person|Hotak]] enthielt jedoch den Vorwurf, der Beschuldigte habe die Treuhandgelder in den Büroräumen zwischengelagert, was sich nicht bestätigte.

@@ -41,6 +41,12 @@ Die Liegenschaften werden gemeinsam als „Kaufgegenstand“ verkauft. Die Verk�
 Kaufgegenstand lastenfrei in das Eigentum der Käuferinnen zu übertragen. Ausgenommen sind die Grunddienstbarkeit
 des Wegerechts zugunsten der Nachbarliegenschaft und das bestehende Pfandrecht, das bei Fälligkeit gelöscht wird.
 
+Die Vertragsparteien haben den Entwurf dieses Vertrages am [[date|1. September 2026]] gemeinsam besprochen. Die
+Verkäuferin wurde durch ihren Geschäftsführer [[person|Gerhard Tomaschek]] vertreten, die Käuferinnen waren persönlich
+anwesend. Die Kanzlei hat die Käuferinnen über die Risiken einer Vorfinanzierung der Anzahlung belehrt. Ein Entwurf des
+Grundbuchsauszugs wurde den Parteien vorab übermittelt, sodass alle Angaben zu den Liegenschaften vor der
+Unterfertigung geprüft werden konnten.
+
 **II. Kaufpreis und Zahlung**
 
 Der Kaufpreis beträgt EUR 385.000,00 und ist durch die Käuferinnen zu zahlen. Die Käuferinnen zahlen den
@@ -52,6 +58,10 @@ Die Kanzlei verwahrt den Kaufpreis als Treuhänderin. Die Abwicklung erfolgt üb
 Treuhandbuch-Nr. [[other_identifier|2024/337]]. Die Treuhandschaft endet mit der Auszahlung an die Verkäuferin
 nach Vorliegen aller Voraussetzungen.
 
+Die Verkäuferin verpflichtet sich, bis zur Übergabe sämtliche Versicherungsverträge für die Gebäude aufrecht zu erhalten
+und die Prämien bezahlt zu halten. Die Käuferinnen lassen die Polizze auf ihren Namen übertragen, sobald der Kaufpreis
+vollständig bezahlt ist. Die Versicherungsbestätigung wird der Kanzlei übermittelt.
+
 **III. Aufsandungserklärung**
 
 Die Verkäuferin erteilt hiermit die Aufsandungserklärung zugunsten der Käuferinnen zu gleichen Anteilen. Die
@@ -61,6 +71,9 @@ Eigentumsrechts beim zuständigen Grundbuchsgericht.
 Zur Anmerkung der Rangordnung ist die Vertragsurkunde in der Form des Gesetzes zu errichten. Die Käuferinnen
 haben die Grunderwerbsteuer vollständig selbst zu tragen.
 
+Die Verkäuferin verpflichtet sich ferner, Mängel an der Dachkonstruktion bis zur Übergabe fachgerecht beheben zu
+lassen, soweit diese im Rahmen einer Besichtigung erkennbar sind.
+
 **IV. Gewährleistung und Übergabe**
 
 Die Übergabe erfolgt am [[date|31. Oktober 2026]]. Ab diesem Zeitpunkt trägt die Käuferin die Gefahr und die Lasten.
@@ -69,12 +82,22 @@ Die Verkäuferin haftet für die Einhaltung der Baubewilligung bis zum Stichtag 
 Die Käuferinnen erklären, die Liegenschaften besichtigt zu haben. Eine Gewährleistung für die Beschaffenheit
 des Gebäudes wird ausgeschlossen, soweit gesetzlich zulässig.
 
+Die Käuferinnen erklären ferner, dass ihnen die Pläne für die Erschließung des Gartengrundstücks bekannt sind. Die
+Verkäuferin übergibt hierzu die Bauakten, soweit sie vorhanden sind. Fehlende Unterlagen gehen zulasten der
+Verkäuferin, sofern sie diese nicht bis zur Übergabe beibringt. Die Vertragsparteien verzichten auf die Anfechtung
+wegen Irrtums über das Flächenausmaß, sofern die Abweichung nicht mehr als fünf Prozent beträgt.
+
 **V. Schlussbestimmungen**
 
 Mündliche Nebenabreden bestehen nicht. Änderungen bedürfen der Schriftform. Die Kosten der Urkunde trägt die
 Käuferseite. Die Vertragsparteien erklären, den Vertrag nach Belehrung über die Rechtsfolgen abgeschlossen zu haben.
 
 Rückfragen richten Sie bitte an die Kanzlei unter [[phone_number|0512 977028 DW 959]].
+
+Die Verkäuferin hat die Käuferinnen darauf hingewiesen, dass auf der Liegenschaft [[land_register_id|EZ 1023]] eine
+ältere Hypothek der [[organization|Raiffeisenbank Wilhering]] noch zu löschen ist. Die Löschungserklärung wird am Tag
+der Kaufpreiszahlung treuhändig eingeholt. Sollte die Bank die Löschung verweigern, ist der Kaufpreis nicht zur
+Auszahlung zu bringen.
 
 **VI. Vorkaufsrecht und Nebenbestimmungen**
 
@@ -93,6 +116,10 @@ nicht erhalten; in diesem Fall ist der Kaufvertrag aufgelöst.
 
 Die Kanzlei hat die Vertragsparteien darauf hingewiesen, dass die Eintragung im Grundbuch erst nach Zahlung der
 Grunderwerbsteuer und der Eintragungsgebühr erfolgen kann.
+
+Die Vertragsparteien bestätigen, dass ihnen eine Ausfertigung dieser Urkunde in gedruckter Form übergeben wurde und
+dass sie den Inhalt verstanden haben. Die Kanzlei hat die Käuferinnen zudem darauf hingewiesen, dass die Abgabe einer
+Erklärung zur Vertragsurkunde gemäß [[legal_norm|§ 1 Abs 1 Z 3 GrEStG]] steuerlich relevant sein kann.
 
 **Unterschriften**
 

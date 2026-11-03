@@ -11,7 +11,7 @@ Betreff: Zeichen [[other_identifier|Balić ./. Perutz]], Mängel an der Fassade
 
 Sehr geehrter Herr [[person|Haller]],
 
-wir nehmen Bezug auf die Besprechung vom [[date|27. Februar 2025]] auf der Baustelle in Wildon. Unser Mandant [[person|Dr. Marinko Balić]] hat die Fassadenarbeiten durch die [[organization|Preiss Bau GmbH]] ([[company_register_number|FN 103624p]], UID: [[tax_id|ATU71247126]]) bis zum [[date|15. Februar 2025]] abnehmen lassen. Die Mängel an den Anschlüssen der Fenster sind seither nicht beseitigt.
+wir nehmen Bezug auf die Besprechung vom [[date|27. Februar 2025]] auf der Baustelle in [[location|Wildon]]. Unser Mandant [[person|Dr. Marinko Balić]] hat die Fassadenarbeiten durch die [[organization|Preiss Bau GmbH]] ([[company_register_number|FN 103624p]], UID: [[tax_id|ATU71247126]]) bis zum [[date|15. Februar 2025]] abnehmen lassen. Die Mängel an den Anschlüssen der Fenster sind seither nicht beseitigt.
 
 Wir ersuchen die [[organization|Preiss Bau]], die Nachbesserung bis zum [[date|17. März 2025]] durchzuführen. Herr [[person|Failla]] hat die Arbeiten am Sockel ausgeführt; wir bitten um Klärung, ob er für die Mängel verantwortlich ist.
 

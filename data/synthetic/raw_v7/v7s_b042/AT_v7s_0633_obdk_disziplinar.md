@@ -77,6 +77,10 @@ Die Pflichtverletzung erstreckte sich vom [[date|02.04.2025]] bis zur Rückzahlu
 
 Der Senat berücksichtigt, dass die Beschuldigte den Betrag rechtzeitig zurückgezahlt hat und bisher nicht disziplinarisch in Erscheinung getreten ist. Zu ihren Lasten wirkt, dass sie die Umbuchung nicht dokumentierte und damit die Kontrolle durch die Kammer erschwerte. Die Herabsetzung der Geldbuße auf EUR 2.000,00 trägt dem Umstand Rechnung, dass der Vorwurf der eigenmächtigen Entnahme auf den Betrag von EUR 4.100,00 beschränkt ist.
 
+4d-1. Zur Person des Zeugen
+
+Der Zeuge [[person|Grasmugg]] ist Architekt und Gesellschafter einer Planungsgesellschaft. Er stand zu der Beschuldigten im Verhältnis eines Auftraggebers, der die Vertragsprüfung vorab bezahlte. Der Senat hält seine Aussage für glaubwürdig, weil sie mit den Kontobewegungen übereinstimmt und er keinen eigenen Vorteil aus dem Ausgang des Verfahrens hat.
+
 4d-2. Stellungnahme der Gesellschaft
 
 Die Gesellschaft [[organization|Dick Handels GmbH]] hat im Berufungsverfahren durch ihre steuerliche Vertreterin [[person|Mag. Eleonora Kreutzer]] eine Stellungnahme vom [[date|17. April 2026]] übermittelt. Darin wird bestätigt, dass die Gesellschaft mit der Beschuldigten nie eine Abrechnung vereinbart habe, die eine Entnahme vor Fälligkeit gestattet hätte. Die Gesellschaft verlangt keinen Schadenersatz, weil der Betrag zurückgezahlt wurde, behält sich jedoch vor, die Kosten ihrer Vertretung geltend zu machen.
@@ -89,7 +93,7 @@ Die Kammer hat im Juli 2025 Kenntnis von den Umbuchungen erlangt. Die Verfolgung
 
 4f. Zusammenfassung
 
-Zusammenfassend bestätigt der Senat den Schuldspruch hinsichtlich der Umbuchung vom [[date|02.04.2025]] und hebt den Schuldspruch hinsichtlich der Umbuchung vom [[date|30.06.2025]] auf. Die Geldbuße wird entsprechend herabgesetzt. Die Beschuldigte hat den Betrag von EUR 4.100,00 zurückgezahlt, der Restbetrag von EUR 700,00 aus der Honorarnote ist durch die Umbuchung gedeckt und war nicht zu beanstanden.
+Zusammenfassend bestätigt der Senat den Schuldspruch hinsichtlich der Umbuchung vom [[date|02.04.2025]] und hebt den Schuldspruch hinsichtlich der Umbuchung vom [[date|30.06.2025]] auf. Die Geldbuße wird entsprechend herabgesetzt. Die Beschuldigte hat den Betrag von EUR 4.100,00 zurückgezahlt, der Restbetrag von EUR 700,00 aus der Honorarnote ist durch die Umbuchung gedeckt und war nicht zu beanstanden. Der Senat sieht darin keinen Anlass für eine weitere Ermittlung. Die Kostenentscheidung folgt dem Ausgang des Verfahrens im Umfang des Unterliegens.
 
 5. Kosten
 

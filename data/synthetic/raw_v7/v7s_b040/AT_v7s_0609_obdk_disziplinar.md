@@ -68,6 +68,14 @@ Mildernd war die bisherige Unbescholtenheit und die Rückzahlung. Erschwerend wi
 
 Die Kammeranwaltschaft hatte eine höhere Strafe beantragt. Der Disziplinarrat hat dieses Begehren nicht übernommen, weil die Verfehlung nicht vorsätzlich begangen wurde.
 
+IV a. Zur Anordnung weiterer Maßnahmen
+
+Der Disziplinarrat sieht von der Anordnung einer Auflage nach den Richtlinien ab, weil die Beschuldigte im Verfahren erklärt hat, die Treuhandgebarung künftig durch einen externen Buchprüfer kontrollieren zu lassen. Die Zusage ist mit einer Nachweispflicht verbunden. Die Kammeranwaltschaft wird die Umsetzung innerhalb von sechs Monaten überprüfen.
+
+Die Beschuldigte hat in ihrem letzten Wort um eine milde Beurteilung gebeten und auf ihre Familie verwiesen, die auf die Einkünfte aus der Kanzlei angewiesen sei. Der Disziplinarrat hat diesen Umstand nicht als Milderungsgrund gewertet, weil er die Verantwortung für die Verwaltung fremder Gelder nicht berührt.
+
+Die Klientin [[person|Rohr]] hat ausdrücklich darauf hingewiesen, dass sie den Ausgang des Verfahrens für wichtig halte. Der Disziplinarrat hat dies zur Kenntnis genommen, ohne daraus eine besondere Strafschärfung abzuleiten.
+
 V. Kosten und Rechtsmittel
 
 Die Kosten des Verfahrens setzen sich aus den Aufwendungen des Disziplinarrates, den Zeugengebühren und der Schriftsatzgebühr der [[organization|RAK]] zusammen. Gegen dieses Erkenntnis ist die Berufung an die [[court|OBDK]] zulässig.

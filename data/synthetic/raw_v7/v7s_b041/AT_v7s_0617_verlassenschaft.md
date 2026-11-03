@@ -106,6 +106,12 @@ Die Schlüssel wurden am [[date|30.06.2025]] bei der Hausverwaltung hinterlegt u
 Der Gerichtskommissär bittet um die Einantwortung des Nachlasses nach Ablauf der Frist und um Überweisung der
 Verwahrungsgelder auf das Konto der Verlassenschaft.
 
+Die Erbschaftsabhandlung wurde durch die Nachlassverwalterin [[person|Brigitte Oberhumer]] unterstützt, die die
+Liegenschaft am [[date|10. September 2025]] besichtigt hat. Ihr Bericht vom [[date|18. September 2025]] liegt dem
+Gericht vor. Er bestätigt den Zustand des Gebäudes, enthält aber einen Hinweis auf einen Feuchtigkeitsschaden im
+Keller, der bei der Schätzung berücksichtigt wurde. Eine Abschlagszahlung an die Verlassenschaft ist daher nicht
+vorgesehen. Die Erben wurden über das Ergebnis am [[date|2. Oktober 2025]] schriftlich informiert.
+
 Mit vorzüglicher Hochachtung
 
 [[person|Passini]]

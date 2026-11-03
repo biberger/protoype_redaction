@@ -85,7 +85,7 @@ Die Kosten des Verfahrens sind der Beschuldigten aufzuerlegen. Sie umfassen die 
 
 Belehrung
 
-Gegen diesen Bescheid kann innerhalb von vier Wochen ab Zustellung Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] erhoben werden. Die Berufung ist beim Disziplinarrat einzubringen, der sie samt Akt weiterleitet.
+Gegen diesen Bescheid kann innerhalb von vier Wochen ab Zustellung Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] erhoben werden. Die Berufung ist beim Disziplinarrat einzubringen, der sie samt Akt unverzüglich weiterleitet.
 
 Für den Disziplinarrat:
 

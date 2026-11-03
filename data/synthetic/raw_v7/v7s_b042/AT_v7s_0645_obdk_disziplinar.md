@@ -101,11 +101,17 @@ Die Beschuldigte hatte zunächst beantragt, das Verfahren wegen Verjährung einz
 
 Der Kammeranwalt führte in seinem Schlussvortrag aus, dass die Beschuldigte im Verfahren kein vollständiges Bild der Kanzleiorganisation gegeben habe. Insbesondere habe sie die Existenz eines dritten Kontos erst auf Nachfrage bestätigt. Der Senat schließt sich dieser Würdigung an, hält sie aber für nicht entscheidend, weil die Umbuchungen auf dem Hauptkonto erfolgten.
 
+4d-3a. Zu den Angaben der Mandantin [[person|Ostrowska]]
+
+Die Mandantin [[person|Ostrowska]] legte dem Senat eine Liste ihrer Zahlungseingänge aus dem Jahr 2025 vor. Daraus ergibt sich, dass sie insgesamt EUR 4.600,00 über die Kanzlei erhalten hat, davon EUR 2.100,00 am [[date|30.04.2025]] und den Rest in zwei Teilbeträgen im Juni 2025. Die Mandantin erklärte, der Betrag vom [[date|16.06.2025]] sei ihr nie als Auszahlung angekündigt worden, sie habe die Summe erst bei der Kontrolle ihres Kontoauszugs bemerkt.
+
+Die Liste stimmt mit den Angaben der Kanzlei nicht überein. Der Senat hält die Angaben der Mandantin für glaubhaft, weil sie durch den Kontoauszug belegt sind. Die Beschuldigte konnte keinen Beleg vorlegen, dass sie die Mandantin über die Umbuchung unterrichtet hatte.
+
 4d-4. Zur Besetzung des Senats
 
 Der Beisitzer [[judge|Dr. Asio Mirri]] wies bei der Beratung darauf hin, dass er die Mandantin [[person|Ostrowska]] aus einer früheren beruflichen Begegnung kenne, die jedoch mit dem vorliegenden Verfahren in keinem Zusammenhang stehe. Der Senat hat die Frage erörtert und festgestellt, dass keine Befangenheit vorliegt. Der Beisitzer hat an der Entscheidung mitgewirkt.
 
-Die Kammeranwältin [[person|Öztürk]] regte in ihrem Schlussvortrag an, die Geldbuße wegen der Dauer des Verfahrens zu erhöhen. Der Senat folgt dieser Anregung nicht, weil die Verfahrensdauer nicht der Beschuldigten zuzurechnen ist.
+Die Kammeranwältin [[person|Öztürk]] regte in ihrem Schlussvortrag an, die Geldbuße wegen der Dauer des Verfahrens zu erhöhen. Der Senat folgt dieser Anregung nicht, weil die Verfahrensdauer nicht der Beschuldigten zuzurechnen ist. Die Entscheidung ist einstimmig ergangen. Die Begründung wurde den Parteien zugestellt. Eine Revision ist nicht vorgesehen. Dies wurde in der Verhandlung protokolliert.
 
 4e. Ergebnis
 

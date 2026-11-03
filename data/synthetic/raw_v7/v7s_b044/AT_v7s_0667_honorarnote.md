@@ -55,7 +55,7 @@ Nicht enthalten sind die Kosten des Gutachtens zum Bauschaden vom [[date|10. Apr
 
 Zahlungsbedingungen: Zahlbar binnen 14 Tagen ab Rechnungsdatum auf das Konto der Kanzlei mit der IBAN [[bank_account|AT41 1153 3538 8450 9988]] und dem Verwendungszweck „Klientennummer [[other_identifier|77574]]“.
 
-Hinweis: Die Gegenseite [[organization|SCHEID BAU GMBH]] (FN [[company_register_number|FN 491752s]], UID: [[tax_id|ATU56076472]]) hat laut Gerichtsbeschluss die Kosten des Verfahrens zu ersetzen. Die Kostennote wird gesondert erstellt.
+Hinweis: Die Gegenseite [[organization|SCHEID BAU GMBH]] ([[company_register_number|FN 491752s]], UID: [[tax_id|ATU56076472]]) hat laut Gerichtsbeschluss die Kosten des Verfahrens zu ersetzen. Die Kostennote wird gesondert erstellt.
 
 Hinweis zur Bankverbindung der [[organization|Scheid Bau GmbH]]: Eine Zahlung der Gegenseite auf das Konto [[bank_account|AT21 8966 8588 7640 9652]] ist uns bislang nicht bestätigt.
 

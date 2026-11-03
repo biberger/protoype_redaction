@@ -9,7 +9,7 @@ GZ [[case_number|DR-K 7/2025]]
 
 Spruch
 
-Der Disziplinarrat der Rechtsanwaltskammer für Kärnten hat durch seinen Senat in der Disziplinarsache gegen den Rechtsanwalt [[person|Witold Engl]], [[location|Klagenfurt am Wörthersee]], wegen des Verdachts der Verletzung von Berufspflichten nach [[legal_norm|§ 10 Abs 1 RAO]] iVm [[legal_norm|§ 1 RAO]] nach öffentlicher mündlicher Verhandlung am [[date|11.06.2025]] in Anwesenheit des Beschuldigten und der Kammeranwältin folgenden Spruch gefällt:
+Der [[court|Disziplinarrat der Rechtsanwaltskammer für Kärnten]] hat durch seinen Senat in der Disziplinarsache gegen den Rechtsanwalt [[person|Witold Engl]], [[location|Klagenfurt am Wörthersee]], wegen des Verdachts der Verletzung von Berufspflichten nach [[legal_norm|§ 10 Abs 1 RAO]] iVm [[legal_norm|§ 1 RAO]] nach öffentlicher mündlicher Verhandlung am [[date|11.06.2025]] in Anwesenheit des Beschuldigten und der Kammeranwältin folgenden Spruch gefällt:
 
 Senat:
 Vorsitz: Senatspräsident [[judge|Innozenz Suitner]]

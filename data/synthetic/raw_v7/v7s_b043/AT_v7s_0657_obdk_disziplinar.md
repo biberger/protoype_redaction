@@ -51,7 +51,9 @@ Datum | Vorgang | Betrag in EUR | Klient | Treuhandnummer
 
 3. Die Auszahlung vom [[date|2. Februar 2026]] erfolgte an den Verkäufer, bevor der Kaufvertrag vollständig erfüllt war und bevor die Zustimmung des Klienten [[person|Ruetz]] vorlag. Der Beschuldigte hat dies damit begründet, der Klient habe am Telefon eine Vorabzahlung genehmigt. Eine schriftliche Dokumentation dazu liegt nicht vor.
 
-4. Die [[organization|RAK Wien]] hat in ihrer Stellungnahme darauf hingewiesen, dass die Honorarzahlung vom [[date|6. März 2026]] an den Beschuldigten erfolgte aus dem Treuhandkonto, obwohl die Honorarnote erst am [[date|20. März 2026]] übermittelt wurde. Der Klient [[person|Obermaier]] hat die Honorarnote beanstandet, weil sie einen höheren Betrag auswies als vereinbart.
+4. Die [[organization|RAK Wien]] hat in ihrer Stellungnahme darauf hingewiesen, dass die Honorarzahlung vom [[date|6. März 2026]] aus dem Treuhandkonto an den Beschuldigten erfolgte, obwohl die Honorarnote erst am [[date|20. März 2026]] übermittelt wurde. Der Klient [[person|Obermaier]] hat die Honorarnote beanstandet, weil sie einen höheren Betrag auswies als vereinbart.
+
+Die Beanstandung erfolgte mit Schreiben vom [[date|27. März 2026]], das der Beschuldigte bis zum [[date|10. April 2026]] nicht beantwortete. Erst nach einer Erinnerung der Kammer übermittelte er eine überarbeitete Honorarnote, die den Betrag um EUR 2.300,00 reduzierte. Die Differenz wurde dem Klienten gutgeschrieben, jedoch nicht als Zahlung auf das Treuhandkonto zurückgeführt.
 
 5. Der Beschuldigte hat den Fehlbetrag von EUR 45.000,00 am [[date|4. Mai 2026]] wieder auf das Treuhandkonto eingezahlt.
 
@@ -67,7 +69,7 @@ Die Zeugin [[person|Esther Lindinger]], die als Notariatskanzleikraft die Urkund
 
 Der Disziplinarrat hat außerdem die Honorarnote vom [[date|20. März 2026]] geprüft. Sie weist eine Pauschale aus, die sich nicht auf einzelne Leistungen zurückführen lässt. Eine solche Pauschalabrechnung ist für Treuhandgelder nur zulässig, wenn der Klient vorab zugestimmt hat, was hier nicht belegt ist.
 
-Der Disziplinarrat stützt sich auf die Kontoauszüge, das Treuhandbuch und die Aussagen der Beschwerdeführer. Die Behauptung des Beschuldigten, eine Vorabzahlung sei mündlich vereinbart worden, ist nicht belegt. Der Disziplinarrat hält die Angaben der Beschwerdeführer für glaubwürdig, weil sie sich mit den Unterlagen decken.
+Der Disziplinarrat stützt sich auf die Kontoauszüge, das Treuhandbuch und die Aussagen der Beschwerdeführer. Der Senat hält die Angaben der Zeugin ausführlich und ohne erkennbares Eigeninteresse für glaubwürdig, weil sie mit den Aufzeichnungen der Kanzlei übereinstimmen und die Zeugin keinen Vorteil aus einer Belastung des Beschuldigten ziehen konnte. Die Behauptung des Beschuldigten, eine Vorabzahlung sei mündlich vereinbart worden, ist nicht belegt. Der Disziplinarrat hält die Angaben der Beschwerdeführer für glaubwürdig, weil sie sich mit den Unterlagen decken.
 
 Die Angaben des Beschwerdeführers [[person|Ruetz]] zur Höhe der Zustimmung sind nicht durch ein schriftliches Dokument belegt. Gleichwohl zeigt die Kontenbewegung, dass die Auszahlung um mehr als das Doppelte über dem von ihm genannten Betrag lag. Der Disziplinarrat sieht darin einen wesentlichen Umstand, der das Verschulden erhöht.
 
@@ -80,6 +82,8 @@ Die Verwahrung von Treuhandgeldern unterliegt strengen Anforderungen. Nach [[leg
 Der Disziplinarrat berücksichtigt mildernd die vollständige Wiedereinzahlung des Fehlbetrages und die bisherige Unbescholtenheit des Beschuldigten. Erschwerend wirkt die Höhe der betroffenen Beträge.
 
 Die Verjährung nach [[legal_norm|§ 56 RAO]] ist nicht eingetreten. Die Entscheidung über die Kosten folgt aus den Bestimmungen der [[legal_norm|Rechtsanwaltsordnung]].
+
+9. Die Zeugin [[person|Lioba Reichl]], die bis zum Frühjahr 2026 als Kanzleikraft tätig war, bestätigte in ihrer Aussage vom [[date|17. Juni 2026]], dass sie die Freigabe der Auszahlung vom [[date|2. Februar 2026]] nie unterzeichnet habe. Sie habe dem Beschuldigten mehrfach geraten, die Zahlung nicht ohne schriftliche Zustimmung vorzunehmen. Der Beschuldigte habe erklärt, er übernehme die Verantwortung selbst.
 
 Der Disziplinarrat weist darauf hin, dass die Kammeranwaltschaft in ihrem Antrag auf eine mögliche Verletzung der Aufklärungspflicht gegenüber den Klienten hingewiesen hat. Dieser Vorwurf war nicht Gegenstand der Anzeige und wird daher nicht gesondert geprüft. Der Disziplinarrat sieht jedoch in der fehlenden Information der Klienten über den Stand der Treuhandschaft einen Umstand, der bei der Bemessung der Geldbuße zu berücksichtigen ist.
 

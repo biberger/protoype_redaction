@@ -58,6 +58,12 @@ Die Kammeranwältin [[person|Caroline Fröschl]] verwies auf die Auszüge der Ba
 
 Die Beweisaufnahme ergibt somit folgendes Bild: Die Überweisung war nicht gedeckt, nicht dokumentiert und nicht weisungsgemäß. Die Vollmacht vom [[date|20. Mai 2025]] kann daher nur nachträglich eine Genehmigung darstellen, die die Verfehlung nicht beseitigt.
 
+Schlussvorträge
+
+Die Kammeranwältin [[person|Caroline Fröschl]] beantragte, die Geldbuße im oberen Bereich des Strafrahmens festzusetzen, weil der Beschuldigte die Vorwürfe bis zuletzt bestritten habe. Der Beschuldigte [[lawyer|Mitterhofer]] beantragte, das Verfahren einzustellen oder die Geldbuße auf eine Ermahnung zu beschränken. Er verwies auf seine langjährige Tätigkeit und auf die Tatsache, dass die Auftraggeberin den Betrag letztlich nicht verloren habe.
+
+Die Vertreterin der Auftraggeberin [[organization|Kuhn Immobilien GmbH]] wurde gehört und bestätigte, dass die Gesellschaft den Verlust bis zur Hälfte des überwiesenen Betrages ersetzt bekommen habe, weil die Versicherung der Kanzlei zahlte. Der Beschuldigte erklärte in seinem letzten Wort, er bedauere, dass die Kontrolle der Zahlungen nicht engmaschiger erfolgt sei. Eine Zurechnung dieses Bedauerns zu einem Schuldeingeständnis sei jedoch nicht beabsichtigt gewesen.
+
 Gründe
 
 Der Disziplinarrat sieht die Verfehlung als erwiesen an. Die Angaben des Beschuldigten zur nachträglichen Vollmacht sind widersprüchlich, weil er zunächst eine mündliche Vereinbarung erwähnte. Der Disziplinarrat wertet dies als nachträgliche Rechtfertigung.

@@ -13,7 +13,7 @@ Sehr geehrter Herr [[person|Wander]],
 wir nehmen Bezug auf Ihre Stellungnahme. Unsere Mandantin [[person|Violanta Nutz]] verlangt die Rückzahlung der Kaution
 bis Ende Oktober. Die [[organization|Rada e.U.]] hat bisher keine Stellung genommen. Die Ostbahn Verkehrsbetriebe GmbH
 (im Folgenden: [[organization|OVB]]) hat als Untermieterin des Lokals ein Interesse an einer Fortsetzung. Bitte
-berücksichtigen Sie dies bei Ihrer Antwort.
+berücksichtigen Sie dies bei Ihrer Antwort. Die Kaution beträgt laut Mietvertrag EUR 9.600,00 und ist binnen vier Wochen nach Übergabe auszuzahlen. Ein Rückbehalt für Schäden am Inventar ist nur nach einer gemeinsamen Begehung zulässig, die wir mit Herrn [[person|Wander]] vereinbaren möchten. Wir schlagen als Termin den [[date|29. Oktober 2026]] vor. Bitte bestätigen Sie den Termin bis Mittwoch. Die Schlüsselübergabe bleibt davon unberührt, sofern Sie das Lokal bereits vorher räumen.
 
 Mit freundlichen Grüßen
 

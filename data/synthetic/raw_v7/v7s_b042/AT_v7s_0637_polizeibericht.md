@@ -39,6 +39,8 @@ Die Fahrzeughalterin [[person|Villinger]] ist zugleich Geschäftsführerin der [
 
 Sachschaden: geschätzt EUR 11.500,00. Die Unfallstelle wurde fotografiert und vermessen. Die Verkehrsbehörde wurde über den Zustand der Fahrbahn informiert, da im Bereich der Kurve eine Verschmutzung durch Laub festgestellt wurde.
 
+Die Beifahrerin [[person|Frei]] wurde im Nachgang telefonisch befragt. Sie bestätigte, dass sie im Unfallzeitpunkt angeschnallt war und keine Verletzungen außer einer leichten Prellung des Brustbeins erlitt. Der Verletzungsbefund des Arztes liegt dem Bericht bei. Die Kosten der Behandlung trägt die Versicherung der Beifahrerin. Sie ist bereits informiert.
+
 Die Sachschäden wurden durch die Versicherungen der Beteiligten gemeldet. Die Halterin [[person|Villinger]] hat für den Transporter der Firma eine Schadensmeldung eingebracht, die jedoch mit dem Unfall nichts zu tun hat, weil dieser zum Unfallzeitpunkt in der Werkstatt stand.
 
 Rückfragen: [[person|Gasteiger]], Tel. [[phone_number|0463/1702468 DW 572]].

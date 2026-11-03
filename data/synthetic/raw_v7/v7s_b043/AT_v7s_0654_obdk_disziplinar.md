@@ -67,6 +67,8 @@ Datum | Vorgang | Betrag in EUR | Klientin | Treuhandnummer
 
 2.7 Die Zahlung vom [[date|12. Juni 2025]] an die Klientin [[person|Anda]] betraf einen Erbteil aus einer anderen Verlassenschaft. Der Beschuldigte hat diese Summe zunächst mit dem Erbanteil der Klientin [[person|Bárczy]] vermischt, was die Zuordnung der Ausgänge erschwert hat.
 
+2.9 Die Beschwerdeführerin [[person|Bárczy]] hat ergänzend vorgebracht, sie habe den Beschuldigten im Frühjahr 2025 ausdrücklich ersucht, die Erbauseinandersetzung über den Notar [[lawyer|Dr. Helmut Zeiler]] abzuwickeln. Der Beschuldigte habe dies abgelehnt und die Gelder selbst verwahrt. Eine Abschrift dieses Schreibens liegt dem Senat vor. Der Beschuldigte hat den Vorwurf in der Verhandlung nicht bestritten.
+
 2.8 Die Beschwerdeführerin [[person|Anda]] hat dem Senat geschildert, dass sie wegen der fehlenden Abrechnung mehrere Termine bei einer anderen Rechtsanwältin wahrnehmen musste, um den Stand ihrer Erbschaft zu erfahren. Diese Mehrkosten hat sie mit EUR 1.450,00 beziffert. Der Beschuldigte hat diesen Betrag nicht ersetzt und sich auf die Verfahrenskosten berufen.
 
 3. Beweiswürdigung
@@ -105,7 +107,7 @@ Auf die Frage, warum sie die Vorgänge nicht früher gemeldet habe, erklärte di
 
 5. Rechtsmittelbelehrung
 
-Gegen dieses Erkenntnis kann innerhalb von vier Wochen ab Zustellung Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] erhoben werden. Die Berufung hat aufschiebende Wirkung, soweit sie die Geldbuße betrifft. Eine Abschrift des Erkenntnisses wird der Kammeranwältin und den Beschwerdeführerinnen übermittelt, sobald es rechtskräftig geworden ist.
+Gegen dieses Erkenntnis kann innerhalb von vier Wochen ab Zustellung Berufung an die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] erhoben werden. Die Berufung hat aufschiebende Wirkung, soweit sie die Geldbuße betrifft. Eine Abschrift des Erkenntnisses wird der Kammeranwältin und den Beschwerdeführerinnen übermittelt, sobald es rechtskräftig geworden ist. Sie wird den Parteien schriftlich zugestellt. Ein Exemplar ist der Kammer zur Akte zu nehmen.
 
 Der Senat:
 

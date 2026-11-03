@@ -51,7 +51,7 @@ Wir fordern Sie daher auf, binnen vier Wochen ab Erhalt dieses Schreibens den Be
 
 Sollte keine Zahlung erfolgen, werden wir die Klage beim [[court|Bezirksgericht Melk]] einbringen. Die Klage wäre beim [[court|BG Melk]] nach den allgemeinen Grundsätzen einzubringen, weil der Unfallort im Sprengel liegt. Die Kosten einer Klage würden wir Ihrem Haus zur Last legen.
 
-Wir ersuchen um Mitteilung, ob Ihr Haus den Schaden anerkennt, und bitten um Übermittlung der Schadensakten.
+Wir ersuchen um Mitteilung, ob Ihr Haus den Schaden anerkennt, und bitten um Übermittlung der Schadensakten. Sollten Sie Rückfragen zur Schadenshöhe haben, wenden Sie sich bitte direkt an unsere Kanzlei; eine Kopie des Gutachtens kann jederzeit nachgereicht werden. Wir weisen darauf hin, dass unser Mandant an einer raschen Erledigung interessiert ist, weil das Fahrzeug für seine berufliche Tätigkeit dringend benötigt wird und die Kosten der Ersatzbeschaffung weiter anfallen.
 
 Mit freundlichen Grüßen
 

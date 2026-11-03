@@ -60,6 +60,15 @@ Die Klientin [[person|Starzacher]] hat eine Zahlung von EUR 1.800,00, die für G
 erhalten. Der Beschuldigte hat den Betrag nach Angaben des Kammeranwalts am [[date|30. Juni 2026]] ausbezahlt, aber
 an eine andere Person.
 
+**Stellungnahme des Beschuldigten**
+
+Der Beschuldigte hat in der Verhandlung ausgeführt, die Buchhaltung sei ab dem [[date|1. April 2026]] von einer externen
+Buchhalterin geführt worden, die über die Auszahlungen eigenständig entschieden habe. Er habe die Kontoauszüge nur
+stichprobenartig geprüft. Die Buchhalterin [[person|Bettina Krainz]] wurde als Zeugin geladen, ist aber zum Termin nicht
+erschienen; ihre schriftliche Erklärung vom [[date|10. Juli 2026]] liegt dem Senat vor. Darin bestreitet sie, über
+Auszahlungen ohne Weisung entschieden zu haben. Der Senat hat die Erklärung gewürdigt, sie ändert jedoch nichts an der
+persönlichen Verantwortung des Beschuldigten für die ordnungsgemäße Führung des Treuhandkontos.
+
 **Beweiswürdigung**
 
 Der Senat stützt die Feststellungen auf die Kontoauszüge, die Abrechnungen und die Aussagen der beiden Klientinnen.
@@ -74,6 +83,17 @@ gewissenhaften Berufsausübung nach [[legal_norm|§ 9 Abs 1 RAO]]. Die verspäte
 
 Nach [[legal_norm|§ 1 Abs 3 RAO]] iVm [[legal_norm|§ 16 Abs 1 RAO]] ist die Verhängung einer Disziplinarstrafe zulässig.
 
+Der Senat hat die Aussagen der Klientinnen in einer gemeinsamen Verhandlung gehört. Die Angaben decken sich mit den
+Kontoauszügen und den Schriftstücken; Widersprüche sind nicht erkennbar.
+
+**Zeugenaussagen der Klientinnen**
+
+Die Klientin [[person|Adisa Cigan]] hat in der Verhandlung geschildert, dass sie dem Beschuldigten vertraut und die
+Auszahlung für eine Honorarnote gehalten habe, die ihr nie übermittelt wurde. Sie habe mehrfach erfolglos um Auskunft
+ersucht. Die Klientin [[person|Starzacher]] hat ergänzt, dass sie die Abrechnung erst nach einem Schreiben der
+Kammeranwaltschaft erhalten habe. Beide Zeuginnen haben ihre Aussagen unter Wahrheitspflicht getätigt und die Angaben
+in den Schriftstücken bestätigt.
+
 **Strafbemessung**
 
 Bei der Bemessung der Strafe hat der Senat berücksichtigt, dass der Beschuldigte bisher disziplinarrechtlich nicht
@@ -82,9 +102,20 @@ wirkt die Dauer des Verstoßes über sechs Monate und die Tatsache, dass die Kli
 Auskünfte über den Stand ihrer Gelder in die Irre geführt wurden. Die Auskunft vom [[date|29. Mai 2026]] war
 nach den Feststellungen des Senats nicht bloß verspätet, sondern in wesentlichen Punkten unrichtig.
 
+Dass der Beschuldigte die Vorwürfe teilweise eingeräumt hat, wirkt mildernd, ebenso dass er die Rückzahlung der
+Beträge zugesichert hat. Dennoch ist die Verletzung der Treuhandpflichten schwer, weil die Klientinnen über den Stand
+ihrer Gelder getäuscht wurden.
+
 Der Senat hat die finanzielle Lage des Beschuldigten berücksichtigt, die nach seinen Angaben angespannt ist.
 Eine höhere Geldbuße erschien dem Senat daher nicht angemessen, zumal der Beschuldigte die Rückzahlung der
 Beträge zugesichert hat.
+
+Der Senat hat über die Frage der Verjährung beraten und festgestellt, dass die Verstöße innerhalb der Verfolgungsfrist
+nach der [[legal_norm|Rechtsanwaltsordnung]] angezeigt wurden. Die Anzeige vom [[date|14. August 2026]] erfolgte
+innerhalb weniger Wochen nach der Kenntnis der Klientinnen. Eine Verjährung ist daher nicht eingetreten. Der
+Beschuldigte hat in seinem Schlusswort erklärt, die Kanzlei zu verkleinern und die Treuhandverwaltung künftig einem
+Kollegen zu übertragen. Der Senat nimmt diese Erklärung zur Kenntnis, sie ist jedoch bei der Strafbemessung nicht
+mildernd zu berücksichtigen.
 
 **Spruch**
 

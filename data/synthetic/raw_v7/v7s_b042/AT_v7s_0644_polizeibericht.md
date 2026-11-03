@@ -49,6 +49,8 @@ Der Beifahrer [[person|Krones]] bestätigte die Angaben des Lenkers, konnte jedo
 
 Der Zeuge [[person|Klement]] stellte seinen Pkw ordnungsgemäß am Straßenrand ab und hatte den Unfall aus etwa dreißig Metern Entfernung beobachtet. Er hatte den Eindruck, dass der Radfahrer auf dem Radweg fuhr, als der Pkw abbog.
 
+Die Beamten haben die Unfallstelle am folgenden Tag erneut besichtigt. Dabei wurden Glassplitter und ein Teil der Lenkerverkleidung des Pkw gefunden, die im Bereich der Haltelinie lagen. Die Teile wurden sichergestellt und fotografiert. Die Fotodokumentation umfasst insgesamt zwanzig Aufnahmen. Ein Abschlussbericht folgt. Die Verkehrsbehörde wurde darüber informiert. Die Zeugen wurden über ihre Aussagepflicht belehrt.
+
 Der Radfahrer [[person|Felzmann]] hat am [[date|1. September 2026]] telefonisch Angaben zu seinen Verletzungen gemacht und angegeben, dass er einen Helm getragen habe, der beim Sturz beschädigt wurde. Der Helm wurde sichergestellt.
 
 Die Fahrbahnmarkierung im Kreuzungsbereich wurde am Unfalltag durch die Straßenmeisterei geprüft. Die Prüfung ergab, dass die Haltelinie auf einer Länge von etwa sechs Metern kaum mehr sichtbar war. Der Zustand wurde fotografisch dokumentiert und der Straßenmeisterei übermittelt.

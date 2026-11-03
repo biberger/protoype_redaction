@@ -60,6 +60,15 @@ Der Klient [[person|Braunsteiner]] hat ferner am [[date|15. April 2026]] die Aus
 Diese Auszahlung ist bis zum Zeitpunkt der Sitzung nicht erfolgt. Die Beschuldigte hat den Restbetrag nach eigenen
 Angaben auf ein Konto der Kanzlei übertragen, um die offenen Honorarforderungen zu decken.
 
+**Stellungnahme der Beschuldigten**
+
+Die Beschuldigte hat in ihrer schriftlichen Stellungnahme vom [[date|2. Mai 2026]] ausgeführt, sie habe die Auszahlung
+vom [[date|20. Februar 2026]] mit dem Klienten [[person|Braunsteiner]] mündlich vereinbart. Der Klient hat dies
+gegenüber der Kammeranwältin bestritten. Eine schriftliche Weisung oder eine Notiz in der Akte gibt es nicht. Die
+Beschuldigte hat außerdem vorgebracht, sie sei seit dem Frühjahr 2026 wegen einer schweren Erkrankung nur eingeschränkt
+arbeitsfähig gewesen. Ein ärztliches Attest hat sie erst zur mündlichen Verhandlung vorgelegt; es bestätigt eine
+Behandlung, lässt jedoch keine Rückschlüsse auf die Tatzeit zu.
+
 **Weitere Vorgänge**
 
 Die Kammeranwältin hat im Verlauf der Verhandlung eine Aufstellung der Bewegungen auf den Treuhandkonten vorgelegt.
@@ -80,6 +89,14 @@ um Auskunft ersucht, ohne eine Antwort zu erhalten. Die Kanzleiangestellte [[per
 erklärt, die Chefin sei auf Dienstreise. Diese Angaben konnten nicht überprüft werden, sie wurden jedoch
 in der Sitzung nicht bestritten.
 
+**Schlussvorträge**
+
+Die Kammeranwältin hat in ihrem Schlussvortrag betont, dass der Schutz der Klientengelder den Kern des anwaltlichen
+Berufsrechts bildet. Ein Rechtsanwalt, der Gelder der Klienten für eigene Zwecke verwendet, verletzt das Vertrauen, auf
+dem die Rechtspflege beruht. Die Beschuldigte hat in ihrem Schlusswort erklärt, sie bedauere die Verzögerungen und habe
+die Abrechnung zur TH-Nr. [[other_identifier|2026/818]] inzwischen vollständig nachgeholt. Die Vorsitzende hat die
+Schlussvorträge entgegengenommen und den Parteien Gelegenheit zu ergänzenden Anmerkungen gegeben.
+
 **Beratung und Beschluss**
 
 Der Disziplinarrat zog sich um 11.10 Uhr zur Beratung zurück. Nach Wiedereröffnung der Sitzung verkündete die
@@ -89,6 +106,30 @@ Die Auszahlung ohne Zustimmung des Klienten wird ebenfalls als erwiesen angesehe
 Die Beschuldigte hat bei ihrer Einvernahme erklärt, die Honorarforderung sei fällig gewesen. Dieses Vorbringen
 wurde nicht als Rechtfertigung anerkannt, weil ein Honoraranspruch nicht zur eigenmächtigen Verrechnung mit
 Klientengeldern berechtigt.
+
+Der Senat hat den Antrag der Beschuldigten auf Vernehmung einer Steuerberaterin, die die Buchhaltung im Jahr 2025
+geprüft hat, abgelehnt. Die Prüfung bezog sich nach den vorgelegten Unterlagen ausschließlich auf steuerliche Fragen
+und nicht auf die Führung der Treuhandkonten; eine Befragung zur Sache wäre daher nicht erheblich gewesen.
+
+**Zeugenaussagen**
+
+Die Zeugin [[person|Ines Hoffmann]], Kanzleiangestellte der Beschuldigten bis zum [[date|31. Mai 2026]], hat vor dem
+Senat ausgesagt, sie habe die Abrechnungen vorbereitet, deren Freigabe aber stets der Beschuldigten vorbehalten
+gewesen sei. Sie habe mehrfach auf die offenen Abrechnungen hingewiesen; die Beschuldigte habe dies mit dem Hinweis
+auf andere Prioritäten zurückgestellt. Diese Aussage deckt sich mit den Protokollen des Kanzleisystems und wurde vom
+Senat als glaubwürdig gewertet.
+
+Der Zeuge [[person|Florin Haberl]], der den Umzug der Kanzlei im Frühjahr 2026 begleitete, konnte keine Angaben zu den
+Treuhandkonten machen.
+
+**Anträge der Parteien**
+
+Die Kammeranwältin hat beantragt, die Beschuldigte zur Rückzahlung der offenen Beträge samt Zinsen zu verpflichten
+und eine Geldbuße zu verhängen, die dem Unrechtsgehalt der Verstöße entspricht. Die Beschuldigte hat die Abweisung
+des Antrages begehrt, hilfsweise die Verhängung einer Verwarnung. Der Vertreter der Klientin [[person|Zsigmondy]] hat
+sich dem Antrag der Kammeranwältin angeschlossen und zusätzlich die Vorlage der Kanzleibuchhaltung für die Jahre 2025
+und 2026 verlangt. Der Senat hat dem Antrag auf Vorlage insoweit stattgegeben, als er die Buchungen der
+Treuhandkonten betrifft.
 
 **Rechtliche Würdigung**
 
@@ -103,6 +144,10 @@ ist. Erschwerend war hingegen, dass zwei Klienten betroffen sind und die Auszahl
 erfolgt sind. Zudem hat die Beschuldigte die Kontrolle der Treuhandkonten nicht durch geeignete Maßnahmen
 sichergestellt.
 
+Der Disziplinarrat hat die Schwere der Verstöße gegenüber der Klientin [[person|Zsigmondy]] gesondert gewürdigt. Die
+verspätete Abrechnung hat dazu geführt, dass die Klientin über einen erheblichen Zeitraum keine Kenntnis über den Stand
+ihrer Gelder hatte. Dieser Umstand ist bei der Höhe der Geldbuße berücksichtigt.
+
 **Spruch**
 
 Der Disziplinarrat verhängt über die Beschuldigte eine Geldbuße von EUR 3.000,00. Die Beschuldigte hat die
@@ -114,6 +159,9 @@ Die Zustellung an die Beschuldigte erfolgt an ihren Wohnsitz [[address|6751 Inne
 
 Die Vorsitzende belehrte die Beschuldigte über das Rechtsmittel der Berufung an die [[court|OBDK]] binnen vier Wochen
 ab Zustellung. Die Beschuldigte und die Kammeranwältin nahmen die Belehrung zur Kenntnis.
+
+Die Beschuldigte hat die Protokollierung ihrer Erklärungen beantragt; dem Antrag wurde stattgegeben. Die
+Kammeranwältin hat das Protokoll ohne Einwendungen gegengezeichnet.
 
 Schluss der Sitzung: 12.05 Uhr.
 

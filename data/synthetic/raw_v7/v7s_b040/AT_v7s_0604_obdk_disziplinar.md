@@ -68,6 +68,12 @@ Mildernd war die bisherige Unbescholtenheit des Beschuldigten seit dem Jahr 2005
 
 Eine Entziehung der Berufsberechtigung wurde nicht verhängt. Der Disziplinarrat hält es jedoch für geboten, dem Beschuldigten die Pflicht zur ordnungsgemäßen Verwahrung nachdrücklich vor Augen zu führen.
 
+3.9. Der Disziplinarrat hat geprüft, ob die Beschuldigte die Verwahrung der Gelder aus dem Treuhandkonto mit der gebotenen Sorgfalt betreut hat. Dazu gehört auch die Frage, ob sie die Auszahlung an den Klienten rechtzeitig vorbereitet hat. Die Beschuldigte hat weder eine Auszahlungsanweisung vorbereitet noch den Klienten über die Gründe für die Verzögerung informiert. Dies stellt eine Verletzung der Informationspflicht dar.
+
+3.9a. Die Verhängung einer Geldbuße ist auch im Hinblick auf die Generalprävention geboten. Rechtsanwälte, die fremde Gelder verwalten, müssen darauf vertrauen können, dass die Kammer ihre Pflichten konsequent durchsetzt. Ein Verweis allein würde diesem Anliegen nicht gerecht.
+
+3.10. Die Beschuldigte hat eingewendet, die Klientin habe einen Teil der Gelder bereits bei einer früheren Gelegenheit entgegengenommen. Dieser Einwand findet im Kontoblatt keine Stütze, weil dort nur die beiden Treuhandbuchnummern geführt werden und jede Auszahlung einzeln verbucht ist.
+
 4a. Anträge und Beweiswürdigung
 
 Die Kammeranwältin [[person|Dr. Lydia Flamm]] beantragte in der Verhandlung eine Geldbuße von mindestens EUR 6.000,00 sowie die Veröffentlichung des Erkenntnisses im Mitteilungsblatt der [[organization|RAK]]. Der Beschuldigte [[lawyer|Kroll]] beantragte die Einstellung des Verfahrens und verwies auf die lange Dauer des Verfahrens sowie auf den Umstand, dass der Klient [[person|Schliefsteiner]] einen Teil des Betrages schon vor Jahren erhalten habe.

@@ -58,7 +58,7 @@ Betreff: Schadennummer [[other_identifier|52/886373/25]] – Rückfrage
 
 Sehr geehrte Frau Rechtsanwältin,
 
-ich bearbeite den Schadenfall für die [[organization|AVAG]] weiter. Bitte senden Sie uns die Kostennote des Sanierungsbetriebs. Tel. [[phone_number|0512/5417889 Durchwahl 10]]
+ich bearbeite den Schadenfall für die [[organization|AVAG]] weiter. Bitte senden Sie uns die Kostennote des Sanierungsbetriebs. Bitte nennen Sie uns bis Ende Oktober einen Termin für die Besichtigung des Schadensortes. Tel. [[phone_number|0512/5417889 Durchwahl 10]]
 
 Mit freundlichen Grüßen
 [[person|Berndien Krijgsman]]

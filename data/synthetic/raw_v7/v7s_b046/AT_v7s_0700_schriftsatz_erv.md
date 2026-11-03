@@ -23,7 +23,7 @@ KLAGE
 der klagenden Partei [[person|Justin Petritsch]], geb. [[date_of_birth|1980-02-12]],
 wohnhaft in [[address|Amstetter Straße 17/4,
 3250 Wieselburg]],
-vertreten durch [[person|Dvořák]], Rechtsanwalt, Andorf, ERV-Code [[other_identifier|R522471]],
+vertreten durch [[person|Dvořák]], Rechtsanwalt, [[location|Andorf]], ERV-Code [[other_identifier|R522471]],
 
 gegen
 
@@ -59,7 +59,7 @@ Begründung:
 
 7. Die Nebenintervenientin [[organization|Land Niederösterreich]] hat die Fördermittel für die Anlage zur Verfügung gestellt. Sie hat sich im Verfahren nicht geäußert, eine Stellungnahme wird aber für den Fall des Eintritts in das Verfahren erwartet. Die Fördermittel wurden unter der Projektnummer des Landes ausbezahlt.
 
-8. Die Zuständigkeit des [[court|Bezirksgericht Scheibbs]] ergibt sich aus dem Wohnsitz des Erstbeklagten in Pöchlarn sowie aus dem Erfüllungsort in Scheibbs; das [[court|BG Scheibbs]] ist daher auch für die Haftung des Bürgen zuständig. Die Streitwertberechnung folgt aus der offenen Kaufpreisforderung.
+8. Die Zuständigkeit des [[court|Bezirksgericht Scheibbs]] ergibt sich aus dem Wohnsitz des Erstbeklagten in [[location|Pöchlarn]] sowie aus dem Erfüllungsort in [[location|Scheibbs]]; das [[court|BG Scheibbs]] ist daher auch für die Haftung des Bürgen zuständig. Die Streitwertberechnung folgt aus der offenen Kaufpreisforderung.
 
 9. Der Kläger hat die Liegenschaft [[land_register_id|EZ. 2455]] besichtigt und dabei festgestellt, dass die Anlage nicht betriebsbereit ist. Ein Lichtbild der Anlage liegt als Beilage ./C bei.
 
@@ -80,12 +80,18 @@ Beilagenverzeichnis:
 
 Die Schriftsatzbeilagen werden in elektronischer Form übermittelt.
 
+12. Die klagende Partei hat die Beklagten bereits mit Schreiben vom [[date|02.06.2026]] aufgefordert, die Forderung zu begleichen. Der Erstbeklagte [[person|Bietak]] hat in seiner Antwort vom [[date|09.06.2026]] lediglich eine Ratenzahlung von EUR 500,00 monatlich angeboten, was die klagende Partei abgelehnt hat. Die Zweitbeklagte [[person|Levy]] hat sich bis heute nicht gemeldet.
+
+13. Die Bäckerei der [[organization|BHG]] in Scheibbs wurde im Herbst 2025 umgebaut; die gelieferten Kühlanlagen sollten die Produktion des Betriebes sichern. Der Ausfall der Anlagen führt zu einem Gewinnentgang von rund EUR 3.200,00 monatlich, den die klagende Partei als Schaden geltend macht, soweit er nicht Gegenstand des Klagebegehrens ist. Dieser Anspruch wird vorbehalten.
+
+14. Die Klage richtet sich gegen beide Beklagten zur ungeteilten Hand, weil die Haftungserklärung der zweiten Beklagten den Kaufpreis ausdrücklich umfasst. Die Übernahme der Haftung für einen fremden Vertrag ist nach dem Wortlaut der Erklärung nicht auf einen Teilbetrag beschränkt.
+
 Die Klage wird durch die [[organization|DVOŘÁK KREBS]] RECHTSANWÄLTE GMBH erhoben.
 
 UZ: [[other_identifier|635/22 B]]
 Telefonische Auskünfte: Tel. [[phone_number|0512/3777562 DW 35]]
 
-Andorf, am [[date|30.10.2026]]
+[[location|Andorf]], am [[date|30.10.2026]]
 
 [[person|Krebs]]
 Rechtsanwalt

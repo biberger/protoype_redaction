@@ -57,6 +57,14 @@ eine Rechnung vorgelegt werden konnte.
 Die Verteidigung hat die Vernehmung eines Zeugen aus der Buchhaltung beantragt. Der Senat hat diesen Antrag
 abgelehnt, weil die Bedeutung des Zeugen für die Feststellungen nicht dargetan ist.
 
+**Zeugenaussage des Klienten**
+
+Der Klient [[person|Duša Dubský]] hat in der Verhandlung bestätigt, dass er der Beschuldigten einen Betrag von
+EUR 4.800,00 ohne schriftliche Vereinbarung übergeben habe. Er habe ausdrücklich verlangt, dass das Geld auf dem
+Treuhandkonto verbleibe und nicht für andere Zwecke verwendet werde. Dass die Überweisung an die
+[[organization|Brandl e.U.]] erfolgte, habe er erst aus der Abrechnung erfahren. Die Zeugin [[person|Marie Eschner]] hat
+ergänzt, dass sie die Rückzahlung einer Teilsumme im Mai 2026 erst nach einem Mahnschreiben erhalten habe.
+
 **Rechtliche Beurteilung**
 
 Nach [[legal_norm|§ 43a Abs 1 RAO]] hat der Rechtsanwalt die ihm anvertrauten Gelder getrennt von seinem Vermögen zu
@@ -67,6 +75,10 @@ seinen Beruf gewissenhaft auszuüben.
 Die Verletzung dieser Pflichten ist nach [[legal_norm|§ 1 Abs 3 RAO]] disziplinär zu ahnden. Eine Verjährung ist
 nach den Vorschriften der [[legal_norm|Rechtsanwaltsordnung]] nicht eingetreten.
 
+Der Senat hat die bisherige berufliche Laufbahn der Beschuldigten berücksichtigt, die seit dem Jahr 2008 ohne
+disziplinäre Vorfälle verlaufen ist. Dies rechtfertigt jedoch keine wesentliche Milderung, weil die Verstöße die
+Klientinnen unmittelbar betroffen haben.
+
 **Strafbemessung**
 
 Der Senat hat die Beschuldigte nicht disziplinarrechtlich vorbelastet gefunden. Milderungsgründe sind die
@@ -76,6 +88,15 @@ eine Geldbuße von EUR 2.000,00 verhängt; der Senat hält diese Strafe für zu 
 
 Die Verhängung einer höheren Geldbuße ist daher geboten. Der Senat erachtet eine Geldbuße von EUR 5.000,00 als
 angemessen, zumal die Beschuldigte die Rückzahlung der offenen Beträge gegenüber den Klienten zugesichert hat.
+
+Der Senat hat zudem berücksichtigt, dass die Beschuldigte die Kanzlei im Frühjahr 2026 umgestellt hat und seither eine
+Kanzleikraft mit der Buchhaltung betraut ist. Diese organisatorische Maßnahme ist jedoch erst nach den Verstößen
+erfolgt und wirkt daher nicht mildernd, sondern allenfalls als Hinweis auf die Einsicht in die Notwendigkeit der
+Kontrolle.
+
+Die Vorsitzende hat die Beschuldigte darauf hingewiesen, dass die Bemessung der Geldbuße nicht von der
+Schadenswiedergutmachung abhängig ist. Die Rückzahlung der Beträge wird jedoch als Milderungsgrund anerkannt, sofern sie
+innerhalb der gesetzten Frist erfolgt.
 
 **Spruch**
 

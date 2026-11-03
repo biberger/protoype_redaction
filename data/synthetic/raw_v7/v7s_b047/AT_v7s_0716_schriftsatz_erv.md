@@ -47,7 +47,7 @@ I. Sachverhalt
 
 II. Rechtliche Ausführungen
 
-5. Die Klägerin stützt ihren Anspruch auf [[legal_norm|§ 932 ABGB]] und [[legal_norm|§ 1168 ABGB]]. Der Beklagte haftet als Vertragspartner, nicht bloß als Organ der THG, weil er den Auftrag persönlich angenommen hat.
+5. Die Klägerin stützt ihren Anspruch auf [[legal_norm|§ 932 ABGB]] und [[legal_norm|§ 1168 ABGB]]. Der Beklagte haftet als Vertragspartner, nicht bloß als Organ der [[organization|THG]], weil er den Auftrag persönlich angenommen hat.
 
 6. Der Streitwert ergibt sich aus [[legal_norm|§§ 41, 50 ZPO]]. Die Klage ist beim [[court|BG Braunau am Inn]] einzubringen, weil die Klägerin im Sprengel dieses Gerichts wohnt und der Gerichtsstand des Erfüllungsorts nach dem Vertrag vereinbart ist.
 

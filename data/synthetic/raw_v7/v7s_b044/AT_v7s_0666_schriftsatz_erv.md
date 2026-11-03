@@ -26,7 +26,7 @@ der klagenden Parteien
 *[[date_of_birth|1974-01-03]], wohnhaft in
 [[address|Gartengasse 21/3, 2500 Baden]]
 
-beide vertreten durch die Rechtsanwälte OG [[organization|Machlup, Wenger, Körner]], diese vertreten durch Dr. [[lawyer|Wenger]], Rechtsanwalt, [[address|Untere Hafnerzeile 12, 7410 Loipersdorf-Kitzladen]], ERV-Code [[other_identifier|R638830]],
+beide vertreten durch die Rechtsanwälte OG [[organization|Machlup, Wenger, Körner]], diese vertreten durch [[lawyer|Dr. Wenger]], Rechtsanwalt, [[address|Untere Hafnerzeile 12, 7410 Loipersdorf-Kitzladen]], ERV-Code [[other_identifier|R638830]],
 
 gegen
 

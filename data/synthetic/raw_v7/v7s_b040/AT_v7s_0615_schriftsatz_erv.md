@@ -60,6 +60,8 @@ II. Unrichtige rechtliche Beurteilung
 
 4. Entgegen der Auffassung des Erstgerichts ist das Vertrauen der Klägerin nicht als grob fahrlässig zu werten. Die Klägerin hat die Auskunft vor Abschluss des Vertrages zweimal überprüft.
 
+5. Das Erstgericht hat ferner die Frist zur Vorlage der Urkunden verkürzt, ohne den Parteien vorher Gelegenheit zur Stellungnahme zu geben. Die Klägerin hat dagegen rechtzeitig Einwendungen erhoben, die im Protokoll der Verhandlung vom [[date|8. September 2026]] nicht festgehalten wurden.
+
 III. Zu den Beweisergebnissen
 
 Der Zeuge [[person|Schachner]] hat in seiner Aussage angegeben, er habe die Auskunft selbst gelesen und für richtig gehalten. Diese Aussage stützt die Klägerin. Das Erstgericht hat diese Aussage nicht gewürdigt. Der Zeuge [[person|Schachner]] ist Gesellschafter der [[organization|Kanduth Handels GmbH]] und hatte daher ein eigenes Interesse am Abschluss.
@@ -73,6 +75,12 @@ Die Beklagte hat im Verfahren erster Instanz vorgebracht, die Auskunft sei ledig
 Der Zeuge [[person|Einberger]] hätte zu diesem Punkt Angaben machen können, weil er die Auskunft im Auftrag der Behörde geprüft hat. Auch der zuständige Sachbearbeiter hat in seiner Aussage im Vorverfahren bestätigt, dass die Auskunft intern als verbindlich behandelt wurde. Diese Aussage hat das Erstgericht nicht verwertet, obwohl sie im Akt lag.
 
 Die Klägerin verweist ferner darauf, dass die [[organization|Finanzprokuratur]] in ihrem Schreiben vom [[date|20. Juni 2025]] die Haftung nicht mit dem Inhalt der Auskunft, sondern mit dem Einwand der Verjährung begründet hat. Diese Argumentation hat das Erstgericht nicht aufgegriffen. Eine Verjährung ist nach den Feststellungen nicht eingetreten, weil die Klage innerhalb von drei Jahren ab Kenntnis des Schadens eingebracht wurde.
+
+III b. Zur Verjährung
+
+Die Verjährungsfrist nach [[legal_norm|§ 1489 ABGB]] beginnt mit der Kenntnis des Schadens und der Person des Ersatzpflichtigen zu laufen. Die Klägerin hat vom Schaden erst mit dem Bescheid vom [[date|2. Juni 2025]] Kenntnis erlangt, weil die Auskunft bis dahin als richtig galt. Die Klage ist daher rechtzeitig eingebracht worden.
+
+Die Beklagte hat im Vorbringen zur Verjährung auf den Zeitpunkt der Auskunft abgestellt. Diese Betrachtung verkennt, dass ein Schaden erst entsteht, wenn die Forderung tatsächlich geltend gemacht und bezahlt wird. Der Kläger hat die Zahlung am [[date|18. Juni 2025]] vorgenommen, die Klage datiert vom [[date|14. November 2025]] und ist somit innerhalb der dreijährigen Frist eingebracht.
 
 IV. Kosten
 

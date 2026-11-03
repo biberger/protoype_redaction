@@ -34,7 +34,7 @@ Der Unfall ereignete sich, als das Fahrzeug der [[organization|Leiter KG]] (in d
 
 Wir haben ein Gutachten eingeholt, das einen Reparaturaufwand von 7.840 Euro netto ausweist. Der Wiederbeschaffungswert des Fahrzeugs liegt bei 11.200 Euro, ein Totalschaden liegt somit nicht vor. Das Gutachten liegt dieser Zuschrift bei.
 
-Die [[organization|LK]] wird von ihrer Haftpflichtversicherung ebenfalls geprüft. Die Schadenhöhe setzt sich wie folgt zusammen:
+Die [[organization|LK]] wird von ihrer Haftpflichtversicherung ebenfalls geprüft. Die Schadenhöhe setzt sich wie folgt zusammen. Die Positionen sind im Gutachten einzeln nachvollziehbar dargestellt:
 
 Reparaturkosten netto laut Gutachten: 7.840,00 Euro
 Mietwagen für 14 Tage zu je 58,00 Euro netto: 812,00 Euro
@@ -42,7 +42,7 @@ Pauschale für Nutzungsausfall über 9 Werktage: 390,00 Euro
 Unkostenpauschale: 20,40 Euro
 Summe: 9.062,40 Euro
 
-Der Mietwagen war erforderlich, weil unser Mandant das Fahrzeug für seine berufliche Tätigkeit als Monteur benötigt. Eine Verweisung auf öffentliche Verkehrsmittel war ihm nicht zumutbar, da die Arbeitsstelle in [[location|Lienz]] ohne Pkw nicht erreichbar ist. Die Reparatur wurde erst nach der Zusage der Regulierung durch Ihr Haus beauftragt, um die Wartezeit möglichst gering zu halten.
+Der Mietwagen war erforderlich, weil unser Mandant das Fahrzeug für seine berufliche Tätigkeit als Monteur benötigt. Eine Verweisung auf öffentliche Verkehrsmittel war ihm nicht zumutbar, da die Arbeitsstelle in [[location|Lienz]] ohne Pkw nicht erreichbar ist. Die Reparatur wurde erst nach der Zusage der Regulierung durch Ihr Haus beauftragt, um die Wartezeit möglichst gering zu halten. Die Rechnung der Mietwagenfirma und die Reparaturrechnung liegen dieser Zuschrift in Kopie bei.
 
 Wir ersuchen daher, die Schadenregulierung wieder aufzunehmen und den Betrag von 9.062,40 Euro bis zum [[date|25. März 2025]] anzuweisen. Frau [[person|Veronika Goldgruber]], die den Vorgang bei Ihnen bearbeitet, hat uns am [[date|7. März 2025]] telefonisch eine Prüfung zugesagt. Sie erreichen Frau [[person|Goldgruber]] unter Tel. [[phone_number|02622/2443126-1]].
 

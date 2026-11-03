@@ -4,68 +4,36 @@ jurisdiction: AT
 lang: de
 ---
 Von: [[person|Lilliane Marcus]] <[[email|l.marcus@posteo.at]]>
-Gesendet: Mittwoch, [[date|10. Jänner 2024]] 18:12
-An: [[email|office@kauer.at]]
-Betreff: Verfahren vor dem [[court|LG Salzburg]], GZ der Kanzlei: [[other_identifier|DME-DMEMarcus/Kristan]]
+Gesendet: Donnerstag, [[date|11. Jänner 2024]] 08:30
+An: [[organization|Kauer & Karagiannis]] <[[email|office@kauer.at]]>
+Cc: [[person|Cezmi Coşkan]] <[[email|c.coskan@kauer.at]]>
+Betreff: AW: Verfahren vor dem [[court|LG Salzburg]]
 
-Guten Abend,
+> Ich habe die Kontoauszüge beigefügt.
 
-ich habe heute die Ladung zur vorbereitenden Tagsatzung vor dem [[court|Landesgericht Salzburg]] erhalten. Die Gegenseite hat die Klage auf Rückzahlung der Mietkaution eingebracht. Herr [[person|Bendix Ronacher]] behauptet, ich hätte die Wohnung in [[location|St. Andrä]] in einem beschädigten Zustand zurückgegeben. Das stimmt nicht, denn die Übergabe wurde mit einem Protokoll dokumentiert, das bei Ihnen liegt.
+Sehr geehrte Damen und Herren,
 
-Bitte prüfen Sie, ob wir die Einwendungen rechtzeitig erheben können. Meine Adresse ist [[address|9571 Albeck]], meine Telefonnummer lautet [[phone_number|05572/3973898 Durchwahl 71]].
+die Kontoauszüge sind beigefügt. Die Kaution in Höhe von 2.400 Euro wurde am [[date|1. Juli 2023]] auf das Treuhandkonto der Vermieterin überwiesen. Ich bitte Sie, die Einwendungen bis zum [[date|18. Jänner 2024]] vorzubereiten, damit wir rechtzeitig vor der Tagsatzung reagieren können. Die [[organization|Ronacher Immobilien GmbH]] (in der Folge „[[organization|RIG]]“) hat ihre Vertretung bereits angekündigt, und ich möchte nicht, dass die Einwendungen zu spät kommen.
 
-Danke und viele Grüße
+Mit freundlichen Grüßen
 
-Lilliane Marcus
+[[person|Lilliane Marcus]]
 
 -----Ursprüngliche Nachricht-----
-Von: [[person|Carol Krsmanović]] <[[email|c.krsmanovic@ronacher-immo.at]]>
-Gesendet: Dienstag, [[date|9. Jänner 2024]] 15:40
+Von: [[lawyer|Rosamunda Pöttler]] <[[email|r.poettler@kauer.at]]>
+Gesendet: Mittwoch, [[date|10. Jänner 2024]] 16:20
 An: [[person|Lilliane Marcus]] <[[email|l.marcus@posteo.at]]>
-Betreff: AW: Rückgabe der Wohnung
+Cc: [[person|Cezmi Coşkan]]
+Betreff: AW: Wohnung in [[location|St. Andrä]], Übergabe
 
 Sehr geehrte Frau [[person|Marcus]],
 
-Herr [[person|Ronacher]] hat mich gebeten, Ihnen mitzuteilen, dass die Kaution wegen der Schäden im Badezimmer nicht zurückgezahlt wird.
+ich habe die Unterlagen geprüft und mit der Mitteilung der [[organization|RIG]] verglichen. In der Antwort von Herrn [[person|Krsmanović]] heißt es:
 
-Mit freundlichen Grüßen
+> Sehr geehrte Frau [[person|Marcus]],
+> Herr [[person|Ronacher]] hat mich gebeten, Ihnen mitzuteilen, dass die Kaution wegen der Schäden im Badezimmer nicht zurückgezahlt wird.
 
-[[person|Carol Krsmanović]]
-Hausverwaltung
-
------Ursprüngliche Nachricht-----
-Von: [[person|Rosamunda Pöttler]] <[[email|r.poettler@kauer.at]]>
-Gesendet: Montag, [[date|8. Jänner 2024]] 10:05
-An: [[person|Carol Krsmanović]] <[[email|c.krsmanovic@ronacher-immo.at]]>
-Betreff: Wohnung in [[location|St. Andrä]], Übergabe
-
-> Sehr geehrter Herr [[person|Krsmanović]],
-> die Kaution wurde nach dem Übergabeprotokoll vom [[date|31. Oktober 2023]] zu bezahlen sein.
-> Mit freundlichen Grüßen
-
-Sehr geehrter Herr [[person|Krsmanović]],
-
-ich habe die Unterlagen geprüft. Das Übergabeprotokoll vom [[date|31. Oktober 2023]] führt Schäden am Badezimmer an, die Frau [[person|Marcus]] nach eigenen Angaben nicht verursacht hat. Ich bitte um die Fotos, die Sie bei der Übergabe angefertigt haben. Die [[organization|Ronacher Immobilien]] hat die Fotos bisher nicht vorgelegt.
-
-Mit freundlichen Grüßen
-
-[[person|Rosamunda Pöttler]]
-Rechtsanwältin
-
------Ursprüngliche Nachricht-----
-Von: [[person|Cezmi Coşkan]] <[[email|c.coskan@kauer.at]]>
-Gesendet: Freitag, [[date|5. Jänner 2024]] 09:14
-An: [[person|Lilliane Marcus]]
-Betreff: Zeichen [[other_identifier|DME-DMEMarcus/Kristan]]
-
-Guten Morgen Frau [[person|Marcus]],
-
-wir haben die Unterlagen erhalten und prüfen die Klage. Für die Tagsatzung benötigen wir Ihre Kontoauszüge der Kaution.
-
-Mit freundlichen Grüßen
-
-[[person|Cezmi Coşkan]]
-Kanzleiassistent
+Diese Begründung überzeugt mich nicht, weil das Übergabeprotokoll vom [[date|31. Oktober 2023]] die Schäden im Badezimmer nicht ausweist. Ich bitte die [[organization|RIG]] um die Fotos, die bei der Übergabe angefertigt wurden. Ohne diese Fotos können wir die Einwendungen nicht vollständig formulieren.
 
 Mit freundlichen Grüßen
 
@@ -79,18 +47,32 @@ UID: [[tax_id|ATU80898780]]
 ERV-Code: [[other_identifier|R494605]]
 
 -----Ursprüngliche Nachricht-----
-Von: [[person|Lilliane Marcus]] <[[email|l.marcus@posteo.at]]>
-Gesendet: Donnerstag, [[date|11. Jänner 2024]] 08:30
-An: [[organization|Kauer & Karagiannis]] <[[email|office@kauer.at]]>
-Cc: [[person|Cezmi Coşkan]]
-Betreff: AW: Verfahren vor dem [[court|LG Salzburg]]
+Von: [[person|Carol Krsmanović]] <[[email|c.krsmanovic@ronacher-immo.at]]>
+Gesendet: Dienstag, [[date|9. Jänner 2024]] 15:40
+An: [[person|Lilliane Marcus]] <[[email|l.marcus@posteo.at]]>
+Betreff: AW: Rückgabe der Wohnung
 
-> Ich habe die Kontoauszüge beigefügt.
+Sehr geehrte Frau [[person|Marcus]],
 
-Sehr geehrte Damen und Herren,
-
-die Kontoauszüge sind beigefügt. Die Kaution in Höhe von 2.400 Euro wurde am [[date|1. Juli 2023]] auf das Treuhandkonto der Vermieterin überwiesen. Ich bitte Sie, die Einwendungen bis zum [[date|18. Jänner 2024]] vorzubereiten, damit wir rechtzeitig vor der Tagsatzung reagieren können. Die [[organization|Kauer]] ist für mich die richtige Ansprechstelle, denn die Gegenseite hat ihre Vertretung ebenfalls angekündigt.
+Herr [[person|Ronacher]] hat mich gebeten, Ihnen mitzuteilen, dass die Kaution wegen der Schäden im Badezimmer nicht zurückgezahlt wird. Die Schadensaufstellung liegt bei, die Fotos der Übergabe werden wir Ihnen nach Abstimmung mit der Verwaltung zur Verfügung stellen.
 
 Mit freundlichen Grüßen
 
-Lilliane Marcus
+[[person|Carol Krsmanović]]
+Hausverwaltung
+
+-----Ursprüngliche Nachricht-----
+Von: [[person|Lilliane Marcus]] <[[email|l.marcus@posteo.at]]>
+Gesendet: Montag, [[date|8. Jänner 2024]] 18:12
+An: [[email|office@kauer.at]]
+Betreff: Verfahren vor dem [[court|Landesgericht Salzburg]], GZ der Kanzlei: [[other_identifier|DME-DMEMarcus/Kristan]]
+
+Guten Abend,
+
+ich habe heute die Ladung zur vorbereitenden Tagsatzung vor dem [[court|LG Salzburg]] erhalten. Die Gegenseite hat die Klage auf Rückzahlung der Mietkaution eingebracht. Herr [[person|Bendix Ronacher]] behauptet, ich hätte die Wohnung in [[location|St. Andrä]] in einem beschädigten Zustand zurückgegeben. Das stimmt nicht, denn die Übergabe wurde mit einem Protokoll dokumentiert, das bei Ihnen liegt.
+
+Bitte prüfen Sie, ob wir die Einwendungen rechtzeitig erheben können. Meine Adresse ist [[address|9571 Albeck]]. Erreichbar bin ich tagsüber unter Tel. [[phone_number|05572/3973898 Durchwahl 71]].
+
+Danke und viele Grüße
+
+[[person|Lilliane Marcus]]

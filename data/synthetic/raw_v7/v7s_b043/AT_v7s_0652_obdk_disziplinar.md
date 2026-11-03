@@ -72,7 +72,7 @@ Die Beschuldigte beantragt, das Erkenntnis aufzuheben oder die Strafe zu mildern
 
 5. Kosten
 
-Die Kosten des Berufungsverfahrens trägt die Beschuldigte im Umfang ihres Unterliegens. Ein Anteil von einem Viertel ist ihr nicht zuzurechnen, weil die Herabsetzung der Geldbuße auf die Vorlage ihrer Rückzahlungsbelege zurückgeht.
+Die Kosten des Berufungsverfahrens trägt die Beschuldigte im Umfang ihres Unterliegens und zwar ohne Ersatz der Zustellkosten. Ein Anteil von einem Viertel ist ihr nicht zuzurechnen, weil die Herabsetzung der Geldbuße auf die Vorlage ihrer Rückzahlungsbelege zurückgeht.
 
 Belehrung
 

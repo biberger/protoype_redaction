@@ -15,14 +15,14 @@ An das
 [[court|Bezirksgericht Kirchdorf an der Krems]]
 [[address|4560 Kirchdorf an der Krems]]
 
-Pfunds, am [[date|14.09.2022]]
+[[location|Pfunds]], am [[date|14.09.2022]]
 
 Betreff: Verlassenschaft nach [[person|Kevin Flatscher]], geb. [[date_of_birth|07.12.1927]], verstorben am [[date|04.03.2022]]
 Gerichtliches Aktenzeichen: [[case_number|2 A 45/22y]]
 
 Sehr geehrte Damen und Herren,
 
-in der Verlassenschaftssache nach dem am [[date|04.03.2022]] verstorbenen [[person|Kevin Flatscher]] übersende ich das Nachlassinventar samt dem Entwurf der Einantwortung. Der Erblasser stammte aus [[location|St. Valentin]], zuletzt war er in Kirchdorf an der Krems wohnhaft. Eine letztwillige Verfügung wurde weder im Österreichischen Zentralen Testamentsregister noch bei einer Gerichtskommission gefunden; die gesetzliche Erbfolge tritt daher ein.
+in der Verlassenschaftssache nach dem am [[date|04.03.2022]] verstorbenen [[person|Kevin Flatscher]] übersende ich das Nachlassinventar samt dem Entwurf der Einantwortung. Der Erblasser stammte aus [[location|St. Valentin]], zuletzt war er in [[location|Kirchdorf an der Krems]] wohnhaft. Eine letztwillige Verfügung wurde weder im Österreichischen Zentralen Testamentsregister noch bei einer Gerichtskommission gefunden; die gesetzliche Erbfolge tritt daher ein.
 
 1. Aktiva
 

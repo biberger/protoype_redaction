@@ -59,6 +59,10 @@ Die [[organization|Reisch]] erklärt, dass auf der Liegenschaft keine Baubewilli
 
 Die Kanzlei hat die Vertragsparteien darüber belehrt, dass die Vertragserrichtung keine Prüfung der Bebaubarkeit und keine Prüfung der Flächenwidmung umfasst. Die Käufer wurden ausdrücklich darauf hingewiesen, dass eine Rückfrage bei der [[organization|Gemeinde St. Martin im Mühlkreis]] über allfällige Vorschreibungen zu erfolgen hat. Der Vertrag wurde den Parteien vor der Unterfertigung vollständig vorgelesen. Die Käufer erteilen der Kanzlei die Vollmacht, für sie alle Erklärungen gegenüber dem Grundbuch abzugeben und die Eintragungsgesuche zu unterfertigen. Die Verkäuferin wurde auf die Bestimmungen des [[legal_norm|Grundverkehrsgesetzes]] hingewiesen; eine Genehmigung der Grundverkehrsbehörde ist für diesen Erwerb nicht erforderlich, da [[person|Koppler]] seinen Wohnsitz seit mehr als fünf Jahren in [[country|Österreich]] hat und die Nachweise dem Vertrag beiliegen.
 
+§ 6a Kosten und Abgaben
+
+Die Kosten der Vertragserrichtung betragen EUR 2.480,00 netto zuzüglich Umsatzsteuer. Die Grunderwerbsteuer ist vom Käufer zu tragen und wird aus dem Kaufpreis an das Finanzamt abgeführt. Die Eintragungsgebühr für die Einverleibung des Eigentumsrechtes trägt ebenfalls der Käufer. Die Verkäuferin trägt die Kosten der Löschung allfälliger Pfandrechte.
+
 § 7 Schlussbestimmungen
 
 Änderungen dieses Vertrages bedürfen der Schriftform. Die Kosten der Urkunde, der Grunderwerbsteuer und der Eintragungsgebühr trägt der Käufer. Sollte eine Bestimmung unwirksam sein, bleibt der übrige Vertrag wirksam.

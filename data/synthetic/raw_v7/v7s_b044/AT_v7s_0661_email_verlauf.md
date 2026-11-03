@@ -17,11 +17,11 @@ Die Gegenseite schreibt in ihrem Brief an mich, dass für den Vorfall eine eigen
 Geburtsdatum: [[date_of_birth|10. Februar 1982]]
 Wohnadresse: [[address|8661 Wartberg im Mürztal]]
 
-Bei dem Unfall bin ich in [[location|St. Valentin]] von einem Lieferwagen der Firma Jenisch GmbH gestreift worden, als ich vom Parkplatz ausfahren wollte. Der Lenker hat sich damals als Angestellter ausgewiesen, den Namen habe ich aber nicht notiert. Ich habe ein Foto von der Unfallstelle und das Protokoll der Polizei, beides schicke ich mit.
+Bei dem Unfall bin ich in [[location|St. Valentin]] von einem Lieferwagen der Firma [[organization|Jenisch GmbH]] gestreift worden, als ich vom Parkplatz ausfahren wollte. Der Lenker hat sich damals als Angestellter ausgewiesen, den Namen habe ich aber nicht notiert. Ich habe ein Foto von der Unfallstelle und das Protokoll der Polizei, beides schicke ich mit.
 
 Mit freundlichen Grüßen
 
-Wladislaw Gams
+[[person|Wladislaw Gams]]
 Tel. [[phone_number|02742 819381 Kl. 77]]
 [[address|8661 Wartberg im Mürztal]]
 
@@ -50,7 +50,7 @@ Betreff: Schadennummern [[other_identifier|59/351673/22]] und [[other_identifier
 
 Sehr geehrter Herr Kollege [[lawyer|Blaschke]],
 
-in der Angelegenheit meines Mandanten Wladislaw Gams nehme ich Bezug auf Ihr Schreiben vom [[date|9. Oktober 2023]]. Die Jenisch GmbH ([[company_register_number|FN 60176w]], UID: [[tax_id|ATU65189164]]; in der Folge „[[organization|JG]]“) hat für den Vorfall eine eigene Schadennummer [[other_identifier|61/284490/23]] vergeben, während bei meinem Mandanten die Schadennummer [[other_identifier|59/351673/22]] aufrecht ist. Ich ersuche, beide Vorgänge zusammenzuführen, damit nur ein Ansprechpartner für die Regulierung besteht.
+in der Angelegenheit meines Mandanten [[person|Wladislaw Gams]] nehme ich Bezug auf Ihr Schreiben vom [[date|9. Oktober 2023]]. Die [[organization|Jenisch GmbH]] ([[company_register_number|FN 60176w]], UID: [[tax_id|ATU65189164]]; in der Folge „[[organization|JG]]“) hat für den Vorfall eine eigene Schadennummer [[other_identifier|61/284490/23]] vergeben, während bei meinem Mandanten die Schadennummer [[other_identifier|59/351673/22]] aufrecht ist. Ich ersuche, beide Vorgänge zusammenzuführen, damit nur ein Ansprechpartner für die Regulierung besteht.
 
 Herr [[person|Gams]] ist am [[date|14. März 2022]] in [[location|St. Valentin]] verletzt worden. Die Haftung des Lenkers ist nach meiner Einschätzung dem Grunde nach nicht strittig, weil der Lieferwagen aus dem Parkplatz ohne Rückschau ausgefahren ist. Die [[organization|JG]] hat bisher einen Vorschuss von 2.400 Euro geleistet; die Schmerzengeldfrage ist offen.
 

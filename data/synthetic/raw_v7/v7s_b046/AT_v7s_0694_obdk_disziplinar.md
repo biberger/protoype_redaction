@@ -75,6 +75,18 @@ III. Rechtliche Beurteilung
 
 4. Die Behauptung des Beschuldigten, er habe Frau [[person|Scharinger]] lediglich einen Vorschuss für Gutachterkosten geleistet, ist durch keine Rechnung belegt. Der Senat hat daher die Angaben als unglaubwürdig verworfen.
 
+III a. Stellungnahmen
+
+1. Die Kammeranwältin [[lawyer|Arco]] hat in ihrem Schlussvortrag betont, dass die Verschleierung durch nachträgliche Buchungen das schwerste Gewicht habe. Die Verwendung von Fremdgeld für eigene Zwecke sei durch die Kontoauszüge eindeutig belegt, und die Verantwortung des Beschuldigten für die Kanzleiorganisation könne nicht delegiert werden.
+
+2. Der Beschuldigte [[lawyer|Suljičić]] hat in seiner Stellungnahme vorgebracht, er habe sich nach der ersten Beschwerde um eine vollständige Rückzahlung bemüht. Er habe zwei Mitarbeiterinnen mit der Nachbearbeitung der Treuhandbücher beauftragt, die aber im Jahr 2023 die Kanzlei verlassen hätten. Diese Angaben sind durch Dienstzeugnisse belegt, jedoch nicht durch Buchungsbelege.
+
+3. Die Mandantin [[person|D'Aquino]] hat in ihrer schriftlichen Erklärung darauf hingewiesen, dass sie den Beschuldigten während des Verfahrens nicht mehr persönlich kontaktiert habe und dass die Zahlung an sie in zwei Raten erfolgt sei. Der Zeuge [[person|Scharinger]] wurde nicht geladen, da seine Anschrift nicht ermittelt werden konnte.
+
+4. Die Verteidigung hat die Aussetzung des Verfahrens bis zur Entscheidung über das Strafverfahren beantragt. Der Senat hat diesen Antrag abgelehnt, weil ein Strafverfahren wegen derselben Vorgänge nicht anhängig ist und die disziplinarrechtliche Verantwortung von der strafrechtlichen unabhängig zu beurteilen ist.
+
+5. Die Beisitzerin [[judge|Mag. Valentina Mitrengová]] hat in der Beratung angeregt, eine Auflage zur Fortbildung im Bereich des Treuhandrechts zu verhängen. Der Senat hat diese Anregung geprüft und als sinnvoll erachtet, jedoch nicht in den Spruch aufgenommen, weil die Auflage der Prüfung nach Ziffer IV bereits genügt.
+
 IV. Spruch
 
 Der Beschuldigte [[lawyer|Suljičić]] wird für schuldig erkannt, die Pflichten zur ordnungsgemäßen Führung der Treuhandschaft verletzt zu haben. Über ihn wird eine Geldbuße von EUR 8.000,00 verhängt. Ferner wird ihm die Verpflichtung auferlegt, die Treuhandbücher für die Jahre 2020 und 2021 binnen drei Monaten durch einen unabhängigen Wirtschaftsprüfer prüfen zu lassen.

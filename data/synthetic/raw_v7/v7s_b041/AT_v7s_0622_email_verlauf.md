@@ -3,6 +3,22 @@ doc_type: email_verlauf
 jurisdiction: AT
 lang: de
 ---
+Von: [[person|Maren Lammerhuber]] <[[email|m.lammerhuber@lammerhuber-mail.at]]>
+Gesendet: Montag, [[date|12. Oktober 2026]] 18:20
+An: [[person|Helbling]] <[[email|office@helbling.at]]>
+Betreff: AW: Schaden-Nr. [[other_identifier|89/702620/26]]
+
+Lieber Herr [[person|Helbling]],
+
+die Werkstatt hat mir eine Rechnung über EUR 2.480,00 ausgestellt, die ich Ihnen anbei übermittle. Frau
+[[person|Gratzer]] hat mir gegenüber nie eingeräumt, dass sie den Schaden verursacht hat. Ich bitte Sie daher, das der
+Versicherung mitzuteilen. Die Zeugenaussage meines Sohnes liegt bei. Er ist unter der Adresse [[address|8265 Großsteinbach]] gemeldet und kann jederzeit vorgeladen werden.
+
+Danke und liebe Grüße
+
+[[person|Maren Lammerhuber]]
+
+-----Ursprüngliche Nachricht-----
 Von: [[person|Magdaléna Kerti]] <[[email|m.kerti@wwv-waldviertel.at]]>
 Gesendet: Donnerstag, [[date|8. Oktober 2026]] 09:12
 An: [[person|Helbling]] <[[email|office@helbling.at]]>
@@ -16,9 +32,12 @@ wir danken für Ihr Schreiben vom [[date|6. Oktober 2026]]. Die [[organization|W
 Sachverständigenbericht fehlt. Frau [[person|Gratzer]] hat uns am [[date|2. Oktober 2026]] mitgeteilt, dass die Reparatur
 des Fahrzeugs bereits erfolgt sei; eine Rechnung liegt uns aber noch nicht vor. UZ: [[other_identifier|274/25 A]]
 
+Wir haben den Vorgang intern geprüft. Die Fotos vom Unfallort zeigen nur die Endlage der Fahrzeuge, nicht den
+Anstoßpunkt. Die Zeugenaussage des Sohnes der Mandantin wird daher erst berücksichtigt, wenn die Personalien vorliegen. Die Versicherung erwartet außerdem, dass die Mandantin die Angaben zur Fahrtrichtung schriftlich bestätigt. Ein Gutachten zur Anstoßstelle ist ebenfalls in Auftrag gegeben.
+
 Die [[organization|WWV]] anerkennt die Haftung derzeit nur in Höhe von 50 Prozent, da nach den vorliegenden
 Unterlagen auch Ihre Mandantin den Abstand nicht eingehalten hat. Wir bitten um Vorlage der Lichtbilder und
-der Werkstattrechnung.
+der Werkstattrechnung. Eine Zahlung ist erst nach Prüfung der Unterlagen möglich; die Reserve bleibt bis dahin bestehen.
 
 Mit freundlichen Grüßen
 
@@ -77,7 +96,7 @@ Sehr geehrte Frau [[person|Lammerhuber]],
 
 bitte senden Sie uns die Fotos und die Angaben zur Gegnerin möglichst bald. Die Zeugenaussage Ihres Sohnes
 ist für die Durchsetzung wichtig. Wir werden die [[organization|WWV]] schriftlich zur Stellungnahme auffordern,
-sobald die Unterlagen vollständig sind. Frau [[person|Jobst]] übermittelt Ihnen gerne die Vollmacht zur Unterschrift.
+sobald die Unterlagen vollständig sind. Frau [[person|Jobst]] übermittelt Ihnen gerne die Vollmacht zur Unterschrift. Bitte haben Sie Verständnis, dass wir ohne vollständige Vollmacht keine Schreiben an die Versicherung richten können. Die Frist für die Stellungnahme endet nach unserer Berechnung am [[date|30. Oktober 2026]].
 
 Mit freundlichen Grüßen
 

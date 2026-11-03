@@ -46,6 +46,8 @@ II. Vorbemerkungen
 
 3. Die Vertragsteile wollen die Liegenschaften gemeinsam an die Käuferin übertragen, weil die Käuferin beide Grundstücke für ein Vorhaben im Rahmen eines Bauprojektes benötigt.
 
+4. Die Verkäufer erklären, dass nach dem Flächenwidmungsplan der Gemeinde für die Liegenschaft [[land_register_id|EZ 667]] eine Nutzung als Bauland nicht vorgesehen ist. Die Käuferin hat sich vor Abschluss des Vertrages über die raumordnungsrechtlichen Voraussetzungen informiert und erklärt, dass sie das Risiko einer abweichenden Widmung allein trägt. Ein Rücktrittsrecht wegen einer späteren Umwidmung ist nicht vereinbart.
+
 III. Kaufgegenstand und Kaufpreis
 
 1. Die Verkäufer verkaufen und übergeben die in Punkt II. genannten Liegenschaften samt allen wesentlichen Bestandteilen an die Käuferin. Die Käuferin nimmt den Kauf an.
@@ -65,6 +67,10 @@ IV. Treuhandabwicklung
 3. Gebühren des Treuhandkontos werden von der Käuferin getragen. Die Zinsen des Treuhandkontos stehen der Käuferin zu, weil sie den Kaufpreis erlegt hat.
 
 4. Erfolgt die Zahlung nicht bis zum [[date|30. Juni 2026]], kann jeder Verkäufer vom Vertrag zurücktreten. Der Rücktritt ist schriftlich zu erklären.
+
+5. Die Verkäufer sind berechtigt, bereits vor der Übergabe Einsicht in das Treuhandkonto zu nehmen. Die Kanzlei übermittelt den Verkäufern binnen acht Tagen nach jedem Zahlungseingang eine Bestätigung über den eingegangenen Betrag.
+
+6. Wird der Kaufpreis nur teilweise erlegt, behält sich die Treuhänderin vor, die Auszahlung für den Teilbetrag zurückzuhalten, bis die Käuferin den Restbetrag nachgewiesen hat. Die Verkäufer stimmen dieser Vorgangsweise bereits jetzt zu.
 
 V. Aufsandungserklärung
 
@@ -119,6 +125,20 @@ Zustellungen an die Verkäufer erfolgen an die im Punkt I. angeführten Anschrif
 X. Schlussanmerkung der Kanzlei
 
 Die Kanzlei hat die Parteien darauf hingewiesen, dass die Echtheit der Unterschriften für die Verbücherung der Aufsandungserklärung zu bestätigen ist. Die Unterschriften wurden in Gegenwart der Kanzleimitarbeiterin geleistet, die Identität der Parteien wurde anhand amtlicher Lichtbildausweise überprüft. Die Vertragsteile erhalten je eine Ausfertigung.
+
+XI. Vollmachten und Zustimmungen
+
+1. Die Vollmacht des Verkäufers [[person|Saiko]] für die Vertretung bei der Verbücherung wurde am [[date|9. März 2026]] unterfertigt und ist dieser Urkunde als Beilage ./B angeschlossen.
+
+2. Die Zustimmung der Ehegattin des Verkäufers [[person|Jakubik]] zum Verkauf der Liegenschaft [[land_register_id|EZ 1330]] liegt in schriftlicher Form vor. Sie verzichtet auf jeden Anspruch auf die Liegenschaft.
+
+3. Die Vertragsteile erklären, dass sämtliche Unterschriften auf diesem Vertrag persönlich geleistet wurden. Vollmachten über den Vertragsgegenstand hinaus bestehen nicht.
+
+Beilagen:
+./A Grundbuchsauszug [[land_register_id|EZ 1330]]
+./B Vollmacht vom [[date|9. März 2026]]
+./C Grundbuchsauszug [[land_register_id|EZ 667]]
+./D Firmenbuchauszug der [[organization|Fürth Bau GmbH]]
 
 Errichtet am [[date|18. März 2026]] in [[address|8274 Buch-Geiseldorf]].
 

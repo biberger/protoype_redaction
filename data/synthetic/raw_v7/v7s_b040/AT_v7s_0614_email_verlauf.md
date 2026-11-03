@@ -11,7 +11,7 @@ Betreff: AW: Gesellschafterbeschluss [[organization|Strigl Transport]], Ihr Zeic
 
 Sehr geehrte Frau [[person|Azak]],
 
-die [[organization|Strigl Transport GmbH]] (im Folgenden [[organization|STG]]) hat den Entwurf des Gesellschafterbeschlusses geprüft. Herr [[person|Strigl]], geboren am [[date_of_birth|18.01.2003]], ist als Geschäftsführer nur gemeinsam mit einem weiteren Geschäftsführer vertretungsbefugt. Diese Regelung fehlt im Entwurf.
+die [[organization|Strigl Transport GmbH]] (im Folgenden [[organization|STG]]) hat den Entwurf des Gesellschafterbeschlusses geprüft. Herr [[person|Strigl]], geboren am [[date_of_birth|18.01.2003]], ist als Geschäftsführer nur gemeinsam mit einem weiteren Geschäftsführer vertretungsbefugt. Diese Regelung fehlt im Entwurf. Zusätzlich sollte geprüft werden, ob der Gesellschaftsvertrag für Änderungen der Vertretungsbefugnis eine qualifizierte Mehrheit verlangt. Die Satzung der [[organization|STG]] ist uns bisher nicht im aktuellen Stand übermittelt worden; bitte legen Sie sie bei.
 
 Bitte ergänzen Sie den Beschluss und übermitteln Sie uns die aktualisierte Fassung bis Ende der Woche. Die [[organization|STG]] kann den Beschluss erst unterzeichnen, wenn die Vertretungsregelung enthalten ist.
 
@@ -56,6 +56,8 @@ ich bestätige den Eingang der Unterlagen. Die Gesellschafterin der [[organizati
 
 Ich ersuche Sie, die Vollmacht für die Anmeldung zum Firmenbuch beizulegen. Herr [[person|Guttmann]] wird die Anmeldung nach Vorliegen der Unterlagen selbst übermitteln.
 
+Zur Klarstellung: Die Änderung betrifft nur die Vertretungsregelung und die Zeichnungsberechtigung. Die Stammeinlagen bleiben unverändert, ebenso der Unternehmensgegenstand. Ich ersuche Sie außerdem, die Unterschriftenprobe der Geschäftsführer bis Ende der Woche nachzureichen, damit sie der Anmeldung beigelegt werden kann.
+
 Von: [[person|Bartolo Stiassny]]
 Gesendet: Freitag, [[date|23. Oktober 2026]] 08:20
 An: [[person|Jeronimus Guttmann]]
@@ -70,6 +72,21 @@ Die überarbeitete Fassung finden Sie im Anhang. Bitte prüfen Sie insbesondere 
 Mit freundlichen Grüßen
 [[person|Stiassny]]
 
+Von: [[person|Rüya Azak]]
+Gesendet: Montag, [[date|26. Oktober 2026]] 09:02
+An: [[person|Bartolo Stiassny]]
+Cc: [[person|Jeronimus Guttmann]]
+Betreff: AW: Gesellschafterbeschluss [[organization|Strigl Transport]]
+
+Sehr geehrter Herr [[person|Stiassny]],
+
+vielen Dank für die Überarbeitung. Die Gesellschafterversammlung wurde auf den [[date|28. Oktober 2026]] verschoben, weil Herr [[person|Strigl]] am ursprünglichen Termin auf Dienstreise ist. Das Protokoll wird von der Geschäftsführung am selben Tag unterzeichnet und anschließend an Ihre Kanzlei übermittelt.
+
+Die Firmenbuchgebühr überweist die [[organization|STG]] direkt; bitte senden Sie uns die Zahlungsdaten. Eine Kopie der Gesellschafterliste ist beigefügt und enthält die aktuellen Anteilsverhältnisse. Die Anteile der beiden Gesellschafter bleiben unverändert.
+
+Mit freundlichen Grüßen
+[[person|Rüya Azak]]
+
 > Von: [[person|Antoine Strigl]]
 > Gesendet: Montag, [[date|12. Oktober 2026]] 18:30
 > An: [[person|Jeronimus Guttmann]]
@@ -78,3 +95,12 @@ Mit freundlichen Grüßen
 > Herr [[person|Guttmann]], anbei die Unterlagen zur [[organization|STG]]. Ich bitte um Rückmeldung bis Freitag.
 >
 > [[person|Antoine Strigl]]
+
+> Von: [[person|Jeronimus Guttmann]]
+> Gesendet: Dienstag, [[date|13. Oktober 2026]] 16:40
+> An: [[person|Bartolo Stiassny]]
+> Betreff: AW: Gesellschafterbeschluss
+>
+> Lieber Herr [[person|Stiassny]],
+>
+> bitte prüfen Sie, ob die Vollmacht für die Anmeldung zum Firmenbuch bereits die neue Vertretungsregelung enthält. Eine Anmeldung ohne diese Regelung würde vom Firmenbuchgericht beanstandet werden. Die Gesellschafterin wartet auf Ihre Rückmeldung.

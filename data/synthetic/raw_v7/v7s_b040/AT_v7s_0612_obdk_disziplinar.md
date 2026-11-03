@@ -45,6 +45,8 @@ Die Zeugen [[person|Scherrer]] und [[person|Stolz]] bestätigten übereinstimmen
 
 Die Beschuldigte [[lawyer|Haaser]] hat die Auszahlung vom [[date|29.11.2023]] als Begleichung einer Schuld des Klienten [[person|Scherrer]] dargestellt. Diese Darstellung ist durch keinen Beleg gestützt. Die Schuldanerkennung, auf die sie sich bezog, trägt das Datum [[date|28. November 2023]], also einen Tag vor der Auszahlung, enthält aber keine Unterschrift des Zeugen.
 
+Die Verlesung der Kontoauszüge erfolgte in der Verhandlung mit Zustimmung beider Seiten. Die Beschuldigte bestätigte die Richtigkeit der Beträge und die Daten der Einzahlungen, bestritt aber die Angabe, dass die Freigabe der Auszahlung fehle. Sie legte hierzu eine Notiz vor, die weder Datum noch Unterschrift eines Klienten trägt.
+
 3. Beweiswürdigung
 
 Der Disziplinarrat hält die Aussagen der Zeugen für glaubwürdig. Sie sind widerspruchsfrei und stimmen mit den Kontoauszügen überein. Die Darstellung der Beschuldigten ist hingegen nicht stimmig, weil sie in der Stellungnahme eine Verrechnung nannte, in der Verhandlung aber von einer Schuldanerkennung sprach.
@@ -69,11 +71,29 @@ Der Disziplinarrat hat das Vorbringen der Beschuldigten zur Kanzleiorganisation 
 
 4.3. Die Beschuldigte hat den Betrag von EUR 12.000,00 nicht zurückerstattet. Dies ist erschwerend zu werten, zumal sie erst nach Erhebung der Anschuldigung Teilbeträge zahlte.
 
+4.4. Die Pflicht zur ordnungsgemäßen Führung eines Treuhandbuches ist eine Dokumentationspflicht, die unabhängig vom materiellen Ergebnis besteht. Dass die Auszahlung vom [[date|29.11.2023]] im Treuhandbuch nicht eingetragen wurde, begründet eine eigenständige Verfehlung neben der unberechtigten Verfügung.
+
+4.5. Die Kammeranwaltschaft hat zu Recht darauf hingewiesen, dass die Zeugen ihre Gelder einem Rechtsanwalt im Vertrauen auf dessen Verschwiegenheit und Sorgfalt übergeben haben. Gerade bei Wohnungskäufen, bei denen es um hohe Beträge geht, ist die Kanzlei zu erhöhter Sorgfalt verpflichtet.
+
+4.6. Der Einwand der Beschuldigten, der Vorgang sei durch eine Mitarbeiterin verursacht worden, entlastet sie nicht. Die Aufsichtspflicht über Kanzleikräfte trifft den Rechtsanwalt persönlich, und zwar auch dann, wenn er Buchungen nicht selbst vornimmt.
+
+4.7. Für die Beurteilung der Schwere ist ferner maßgeblich, dass die Beträge über einen Zeitraum von mehr als vierzehn Monaten nicht vollständig zurückgeführt wurden. Die Beschuldigte hat erst nach Eröffnung des Verfahrens Teilbeträge bezahlt, und zwar ohne die Zinsen, die den Klienten zustehen.
+
 5. Strafbemessung
 
 Mildernd war das offene Eingeständnis, dass die Umbuchung vom [[date|15.01.2024]] ohne Rechnung erfolgte. Erschwerend war die Vorbelehrung aus dem Jahr 2022 und die Höhe der betroffenen Beträge.
 
 Der Disziplinarrat hält eine Geldbuße von EUR 3.500,00 für angemessen. Eine Entziehung der Berufsberechtigung wurde nicht beantragt und ist nicht geboten, weil die Beschuldigte seit dem Jahr 2024 keine weiteren Beanstandungen hatte.
+
+5a. Zur Verhältnismäßigkeit der Sanktion
+
+Der Disziplinarrat hat geprüft, ob eine mildere Maßnahme, etwa eine Ermahnung oder ein Verweis, ausreichend wäre. Dagegen spricht, dass die Beschuldigte bereits im Jahr 2022 belehrt wurde und dass die Auszahlung an einen Dritten trotz dieser Belehrung erfolgte. Eine Ermahnung würde daher den Zweck der Disziplinarordnung nicht erfüllen.
+
+Eine Entziehung der Berufsberechtigung für eine bestimmte Dauer wäre hingegen unverhältnismäßig, weil die Beschuldigte sich um die Rückführung der Beträge bemüht hat und die Kanzlei seit Jahren ohne weitere Beanstandung geführt wird. Der Disziplinarrat hält die gewählte Geldbuße für angemessen und ausreichend.
+
+Die Anordnung einer Auflage, die Treuhandgebarung künftig durch einen externen Buchprüfer überwachen zu lassen, wurde erwogen. Der Disziplinarrat hat davon abgesehen, weil die Beschuldigte bereits angekündigt hat, dies von sich aus zu tun. Die Kammeranwaltschaft wird die Umsetzung überprüfen.
+
+Der Klient [[person|Scherrer]] hat eine eigene Zivilklage gegen die Beschuldigte angekündigt. Dieser Umstand ist im Disziplinarverfahren nicht zu berücksichtigen und lässt die Entscheidung unberührt.
 
 6. Rechtsmittel
 

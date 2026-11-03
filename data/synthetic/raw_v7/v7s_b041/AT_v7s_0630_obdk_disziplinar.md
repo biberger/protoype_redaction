@@ -71,6 +71,12 @@ Der Beschuldigte hat in der mündlichen Verhandlung eingeräumt, die Abrechnung 
 Die Behauptung, die Auszahlungen seien mit den Klienten abgestimmt gewesen, wurde durch die Aussagen nicht
 bestätigt. Die Zeugin [[person|Nadjeschda Baier]], die die Protokolle führte, hat keine Wahrnehmungen zur Sache.
 
+Der Senat hat ergänzend geprüft, ob die Auszahlungen an die Beschuldigte selbst als Honorarvorschuss zulässig waren.
+Nach [[legal_norm|§ 9 Abs 1 RAO]] iVm [[legal_norm|§ 43a Abs 1 RAO]] darf der Rechtsanwalt Gelder der Klienten nur für
+Zwecke verwenden, zu denen diese ausdrücklich zugestimmt haben. Eine nachträgliche Genehmigung der Klientin ist nicht
+erfolgt. Die Auszahlung erfolgte daher ohne rechtliche Grundlage und verletzt die Verwahrungspflicht unabhängig von der
+Höhe des Betrages. Der Umstand, dass der Betrag später in die Kanzleikasse zurückgeflossen ist, ändert daran nichts.
+
 **IV. Rechtliche Beurteilung**
 
 Gemäß [[legal_norm|§ 43a Abs 1 RAO]] hat der Rechtsanwalt Gelder der Partei getrennt von seinem Vermögen zu verwahren.
@@ -81,6 +87,14 @@ Berufsausübung nach [[legal_norm|§ 1 Abs 1 RAO]].
 Die Verhängung einer Disziplinarstrafe richtet sich nach [[legal_norm|§ 34 Abs 1 RAO]] iVm [[legal_norm|§ 1 Abs 3 RAO]].
 Ein Verschulden des Beschuldigten liegt vor, weil er die Verantwortung für das Treuhandkonto nicht delegieren kann.
 
+**Stellungnahme des Beschuldigten**
+
+Der Beschuldigte hat in der Verhandlung eingeräumt, die Abrechnung nicht fristgerecht erstellt zu haben. Er machte
+geltend, er habe sich in einer persönlich schwierigen Lage befunden, die er inzwischen überwunden habe. Eine ärztliche
+Bestätigung über diese Belastung wurde nicht vorgelegt. Der Senat hat die Angaben als glaubhaft, jedoch nicht als
+rechtfertigend gewertet, da die Pflicht zur Abrechnung auch in Krisenzeiten besteht. Er hat ferner anerkannt, dass er
+die Vorschüsse an sich selbst ohne Zustimmung der Klientin [[person|Würzl]] entnommen hat.
+
 **V. Strafbemessung**
 
 Der Senat hat berücksichtigt, dass der Beschuldigte bisher nicht disziplinarrechtlich verurteilt wurde und die
@@ -89,10 +103,22 @@ betroffen sind und die Auszahlungen nicht sogleich aufgeklärt wurden.
 
 Die verhängte Geldbuße von EUR 3.500,00 entspricht dem Unrechtsgehalt. Eine Ausschließung kommt nicht in Betracht.
 
+Die Kammeranwältin hat in ihrem Schlussvortrag darauf hingewiesen, dass der Beschuldigte bereits im Jahr 2025
+Gegenstand eines Verfahrens wegen einer verspäteten Abrechnung war. Dieses Verfahren wurde jedoch eingestellt, weil
+der Beschuldigte die Abrechnung nachträglich vorlegte. Der Senat berücksichtigt dies nicht als Vorstrafe, wohl aber als
+Hinweis auf wiederholte Nachlässigkeit bei der Führung der Treuhandkonten.
+
+Der Klient [[person|Wildner]] hat zudem darum ersucht, die Rückzahlung innerhalb von vier Wochen sicherzustellen.
+Diesem Ersuchen folgt der Senat im Spruch nicht ausdrücklich, weil die Zahlungen Gegenstand eines gesonderten
+Verfahrens vor dem Zivilgericht sind.
+
 **VI. Kosten**
 
 Die Kostenentscheidung beruht auf [[legal_norm|§ 52 Abs 1 RAO]]. Die Kosten umfassen die Gebühr des Sachverständigen für
 die Buchprüfung und die Reisekosten der Zeugen.
+
+Die Zustellung der Entscheidung erfolgt an die Beschuldigte persönlich. Eine Ausfertigung ergeht zudem an die
+Kammeranwältin und an die Klienten, soweit diese am Verfahren beteiligt sind.
 
 **VII. Rechtsmittelbelehrung**
 

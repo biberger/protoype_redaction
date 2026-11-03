@@ -11,7 +11,7 @@ GZ [[case_number|DR-K 12/2024]]
 
 Protokoll und Erkenntnis
 
-Der Disziplinarrat der Rechtsanwaltskammer für Kärnten hat in der Disziplinarsache gegen die Rechtsanwältin [[person|Marcyna Jurkowska]], [[location|Villach]], wegen des Verdachts der Verletzung der Pflichten nach [[legal_norm|§ 9 Abs 1 RAO]] und [[legal_norm|§ 10 Abs 1 RAO]] in der Sitzung vom [[date|18.09.2024]] unter dem Vorsitz von [[judge|Dr. Rafaela Diess]] folgendes Erkenntnis verkündet:
+Der [[court|Disziplinarrat der Rechtsanwaltskammer für Kärnten]] hat in der Disziplinarsache gegen die Rechtsanwältin [[person|Marcyna Jurkowska]], [[location|Villach]], wegen des Verdachts der Verletzung der Pflichten nach [[legal_norm|§ 9 Abs 1 RAO]] und [[legal_norm|§ 10 Abs 1 RAO]] in der Sitzung vom [[date|18.09.2024]] unter dem Vorsitz von [[judge|Dr. Rafaela Diess]] folgendes Erkenntnis verkündet:
 
 Anwesende:
 Vorsitzende: [[judge|Dr. Rafaela Diess]]

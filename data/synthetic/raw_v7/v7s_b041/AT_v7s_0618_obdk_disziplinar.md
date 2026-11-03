@@ -47,6 +47,11 @@ Die [[court|OBDK]] hat in der mündlichen Verhandlung die Akten des Disziplinarr
 Treuhandkontos und die Kontoauszüge beigezogen. Der Kammeranwalt [[lawyer|Wang]] hat ausgeführt, dass die
 Vorwürfe durch die vorgelegten Belege belegt seien.
 
+Der Beschuldigte hat in seiner Stellungnahme vom [[date|2. Oktober 2025]] zudem ausgeführt, er habe die Klientin
+[[person|Rathgeb]] mehrfach telefonisch über die Überweisung informiert. Diese Behauptung ist durch keinen Vermerk
+belegt. Der Senat hat die Telefonlisten der Kanzlei eingesehen; darin findet sich lediglich ein Anruf der Klientin am
+[[date|8. April 2025]], bei dem der Beschuldigte nach den Notizen der Mitarbeiterin nicht erreichbar war.
+
 **II. Sachverhalt**
 
 Der Beschuldigte ist seit dem Jahr 2009 als Rechtsanwalt tätig und betreibt eine Einzelkanzlei. Er übernahm am
@@ -99,6 +104,12 @@ Klienten rasch und ohne Umstände hätten informiert werden müssen. Die Klienti
 Anzeige nicht gewusst, dass ihr Geld überhaupt zur Bauunternehmung geflossen sei. Die Abrechnung über die
 Treuhandschaft Nr. [[other_identifier|2025/819]] liege bis heute nicht vollständig vor.
 
+Der Senat hat außerdem geprüft, ob die Kanzleiorganisation des Beschuldigten die Verletzung der Pflichten erklärt. Die
+Kanzlei verfügte über keine schriftliche Treuhandrichtlinie und über keine regelmäßige Kontrolle durch einen zweiten
+Berufsträger. Auch die Mitarbeiterin wurde vom Beschuldigten nicht eingeschult, wie er selbst eingeräumt hat. Diese
+organisatorischen Mängel sind dem Beschuldigten als Kanzleiinhaber zuzurechnen; sie entlasten ihn nicht, sondern
+begründen vielmehr den Vorwurf einer unzureichenden Überwachung.
+
 **IV. Rechtliche Beurteilung**
 
 Gemäß [[legal_norm|§ 9 Abs 1 RAO]] hat der Rechtsanwalt die ihm anvertrauten Gelder getrennt von eigenen Mitteln
@@ -111,6 +122,16 @@ Bei der Strafbemessung war zu berücksichtigen, dass der Beschuldigte bisher dis
 Gelder zwischenzeitlich vollständig zurückgezahlt hat. Erschwerend ist hingegen die mehrfache Verletzung der
 Pflichten, insbesondere die Auszahlung ohne Weisung und die verspätete Abrechnung.
 
+Der Senat hat außerdem geprüft, ob die Verantwortung des Beschuldigten durch Fehler der Buchhaltung gemindert ist.
+Dies ist nicht der Fall. Die Mitarbeiterin war weder bevollmächtigt, Zahlungen freizugeben, noch hatte sie Zugriff
+auf die Zeichnungsberechtigung des Treuhandkontos. Die Überweisung vom [[date|12. März 2025]] wurde mit der
+Signatur des Beschuldigten im Online-Banking freigegeben, wie das Protokoll der Bank ausweist. Die Verantwortung
+liegt daher eindeutig beim Beschuldigten.
+
+Hinsichtlich der verspäteten Abrechnung an die Klientin [[person|Tratter]] hat der Beschuldigte geltend gemacht, die
+Abrechnung sei mit der Post versendet worden. Ein Rückschein liegt nicht vor. Der Senat hält diese Behauptung nicht
+für erwiesen, zumal die Klientin auch telefonisch mehrfach vergeblich um Auskunft ersucht hat.
+
 **V. Strafbemessung**
 
 Der Senat hat in Abwägung dieser Umstände eine Geldbuße von EUR 6.000,00 als angemessen erachtet. Die Milderung
@@ -121,6 +142,12 @@ Gesamtheit in Frage stellen.
 
 Die Kostenentscheidung beruht auf [[legal_norm|§ 52 Abs 1 RAO]]. Der Senat hat bei der Bemessung der Kosten berücksichtigt, dass
 die Verhandlung nicht über den notwendigen Umfang hinausgegangen ist.
+
+Ergänzend hat der Senat berücksichtigt, dass der Beschuldigte bei der Aufklärung nur eingeschränkt mitgewirkt hat.
+Er hat die vollständigen Kontoauszüge bis zur mündlichen Verhandlung nicht vorgelegt und erst nach Aufforderung durch
+den Senatsvorsitzenden am [[date|4. November 2025]] eine Aufstellung nachgereicht. Diese Aufstellung enthielt die
+Transaktion vom [[date|1. September 2025]] nicht. Eine solche Verweigerung ist bei der Strafbemessung nicht als
+Milderungsgrund zu werten.
 
 **VI. Rechtsmittelbelehrung**
 

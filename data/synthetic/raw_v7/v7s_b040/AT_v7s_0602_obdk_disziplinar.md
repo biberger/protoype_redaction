@@ -83,9 +83,13 @@ Bei der Bemessung der Geldbuße wurde weiters berücksichtigt, dass die Beschuld
 
 Die Beschuldigte hat angekündigt, künftig einen Buchhalter mit der Führung des Treuhandkontos zu beauftragen. Dieses Vorbringen wurde zur Kenntnis genommen, kann die Verhängung der Geldbuße aber nicht ausschließen, weil es sich um eine nachträgliche Maßnahme handelt.
 
+Die Klientin [[person|Wilczek]] hat zudem vorgebracht, sie habe durch die Verzögerung einen Zinsnachteil erlitten. Dieser Schaden ist nicht Gegenstand des Disziplinarverfahrens, sondern im Zivilweg geltend zu machen. Der Disziplinarrat hat diesen Punkt daher nicht zu beurteilen. Die Klientin wurde in der Verhandlung über diese Möglichkeit belehrt.
+
 Zur Zuständigkeit: Der Disziplinarrat ist zur Entscheidung über das Verhalten der Rechtsanwälte in seinem Kammerbereich berufen. Die Beschuldigte ist in der Liste der [[organization|RAK]] eingetragen und war zum Tatzeitpunkt in [[location|Graz]] tätig. Die Zuständigkeit ist daher gegeben.
 
 Zur Glaubwürdigkeit der Klientin: Die Klientin [[person|Wilczek]] hat ihre Aussage ohne Beistand gemacht. Sie hat die Umstände der Auszahlung widerspruchsfrei geschildert und die Kontoauszüge bestätigt. Der Disziplinarrat sieht keinen Anlass, an ihren Angaben zu zweifeln.
+
+Die Kammeranwältin [[person|Estrelle Preiß]] hat in ihrem Schlussvortrag ausgeführt, dass die Gelder über einen längeren Zeitraum gebunden waren, obwohl die Klientin wiederholt um Auszahlung ersucht habe. Dies entspricht dem Akteninhalt. Der Disziplinarrat folgt dieser Darstellung.
 
 Der Disziplinarrat verkennt nicht, dass die Beschuldigte in den Jahren vor dem Vorfall die Kanzlei mit wenigen Mitarbeitern führte und ein erhöhtes Arbeitsaufkommen hatte. Dies entbindet sie jedoch nicht von der Pflicht zur ordnungsgemäßen Kontoführung. Die Überweisung hätte ohne ausdrückliche Weisung nicht veranlasst werden dürfen.
 

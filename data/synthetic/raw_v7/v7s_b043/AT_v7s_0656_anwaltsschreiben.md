@@ -37,7 +37,7 @@ Wir haben die Schadensmeldung am [[date|8. Juli 2026]] an Ihre Schadenabteilung 
 Die Reparatur des Tores und der Einfriedung wurde von der [[organization|Grubhofer Bau GmbH]], [[company_register_number|FN 231312s]], UID: [[tax_id|ATU51070781]], angeboten. Die Rechnung der [[organization|Grubhofer]] vom [[date|18. August 2026]] beläuft sich auf EUR 6.480,00 zuzüglich Umsatzsteuer. Ein Kostenvoranschlag der [[organization|Grubhofer]] liegt bei.
 
 Wir ersuchen Sie daher, den Betrag bis zum [[date|30. September 2026]] auf das Treuhandkonto unserer Kanzlei zu überweisen. Die Zahlung ist unter Angabe der Schadennummer zu leisten. Sollte die Zahlung nicht fristgerecht eingehen, werden wir die Forderung gerichtlich geltend machen.
-Wir bitten zudem um schriftliche Bestätigung der Deckung innerhalb von vierzehn Tagen ab Erhalt dieses Schreibens, damit die Reparatur ohne weitere Verzögerung beauftragt werden kann.
+Wir bitten um Verständnis, dass wir in diesem Fall keine Ratenzahlung akzeptieren können. Wir bitten zudem um schriftliche Bestätigung der Deckung innerhalb von vierzehn Tagen ab Erhalt dieses Schreibens, damit die Reparatur ohne weitere Verzögerung beauftragt werden kann.
 
 Ein Zeuge, [[person|Franco Lobe]], hat den Anstoß am [[date|7. Juli 2026]] gesehen und ist bereit, dies zu bestätigen.
 

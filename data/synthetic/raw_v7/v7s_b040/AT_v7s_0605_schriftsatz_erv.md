@@ -75,6 +75,12 @@ Der Kläger hat die Republik mit Schreiben vom [[date|2. Juni 2025]] zur Zahlung
 
 Die Beklagte wird aufgefordert, sich zu den Vorbringen binnen vier Wochen zu äußern. Das Verfahren ist nach [[legal_norm|§ 226 ZPO]] durch Vorbereitung eines Vergleichs zu fördern.
 
+IIIa. Streitwert und Gerichtsgebühren
+
+Der Streitwert setzt sich aus dem Rückforderungsbetrag von EUR 58.400,00 zusammen. Die Zinsen sind nach [[legal_norm|§ 56 JN]] nicht streitwerterhöhend zu berücksichtigen. Die Pauschalgebühr wurde über ERV entrichtet; der Zahlungsnachweis ist im System abrufbar.
+
+Die Gebühren für das Sachverständigengutachten werden vorerst vom Kläger getragen; eine Kostenentscheidung zu dessen Lasten ist beantragt. Ein Antrag auf Verfahrenshilfe ist nicht gestellt. Der Kläger ist in der Lage, die Gebühren aus eigenen Mitteln zu bestreiten, wie aus der beigelegten Vermögensaufstellung hervorgeht.
+
 IV a. Schadensberechnung und Vergleichsangebot
 
 1. Der Schaden des Klägers setzt sich wie folgt zusammen: Die Rückforderung der Behörde im Betrag von EUR 58.400,00 wurde mit Zahlung vom [[date|18. Juni 2025]] beglichen. Hinzu kommen Verzugszinsen nach [[legal_norm|§ 1333 ABGB]] ab dem [[date|1. Juli 2025]] sowie Kosten des Rechtsbeistandes in Höhe von EUR 3.200,00.

@@ -58,13 +58,13 @@ Dieser Vertrag ersetzt den Vorvertrag vom [[date|14.12.2015]], Vertragsnummer [[
 
 § 8 Hausordnung und Betriebskosten
 
-Die Betriebskosten werden nach den Abrechnungsschlüsseln des Mietrechtsgesetzes verteilt. Die Abrechnung erfolgt jährlich bis zum 30. Juni des Folgejahres. Der Mieter kann Belege in den Geschäftsräumen der Vermieterin einsehen. Die Hausordnung ist Vertragsbestandteil; insbesondere sind die Ruhezeiten von 22 bis 6 Uhr einzuhalten. Fahrzeuge dürfen nur auf den ausgewiesenen Stellplätzen abgestellt werden.
+Die Betriebskosten werden nach den Abrechnungsschlüsseln des [[legal_norm|Mietrechtsgesetzes]] verteilt. Die Abrechnung erfolgt jährlich bis zum 30. Juni des Folgejahres. Der Mieter kann Belege in den Geschäftsräumen der Vermieterin einsehen. Die Hausordnung ist Vertragsbestandteil; insbesondere sind die Ruhezeiten von 22 bis 6 Uhr einzuhalten. Fahrzeuge dürfen nur auf den ausgewiesenen Stellplätzen abgestellt werden.
 
 Der Mieter ist verpflichtet, die Heizung in der Wohnung auch bei längerer Abwesenheit in einem Mindestausmaß einzuschalten, damit keine Frostschäden entstehen. Schäden an Wasserleitungen sind umgehend der Vermieterin zu melden.
 
 Die Mieter erklären, den Mietvertrag gelesen und verstanden zu haben. Eine Ausfertigung wurde jeder Partei ausgehändigt.
 
-Semmering, am [[date|26.02.2016]]
+[[location|Semmering]], am [[date|26.02.2016]]
 
 Für die Vermieterin:
 

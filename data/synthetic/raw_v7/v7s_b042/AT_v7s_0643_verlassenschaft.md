@@ -61,7 +61,13 @@ Schätzung der Wohnung: Die Wohnung wurde durch den Sachverständigen [[person|I
 
 Die Erbin [[person|Evin]] verlangt die Ausgleichszahlung für die Einrichtung in Höhe von EUR 2.400,00, die sie aus eigenen Mitteln beschafft habe. Der Notar hat die Forderung als Passivum anerkannt, sofern die Rechnungen vorgelegt werden. Die Rechnungen wurden am [[date|1. Juli 2026]] übergeben und sind im Verzeichnis berücksichtigt.
 
-Die Erben erhielten am [[date|17. Juli 2026]] eine Abschrift des Protokolls. Der Notar hat die Erben über die Frist zur Abgabe der Erbantrittserklärung belehrt.
+Der Notar hat zudem geprüft, ob die Erbin [[person|Ersek]] Anspruch auf die Kanzleiunterlagen des Erblassers hat, die dieser bei einem früheren Rechtsbeistand hinterlegt hatte. Dies ist nicht der Fall, weil die Unterlagen nicht zum Nachlass gehören. Sie wurden dem früheren Rechtsbeistand zurückgegeben.
+
+Die Legatarin [[person|Nagler]] hat den Notar gebeten, den Verwahrer des strittigen Gemäldes zu ermitteln. Der Verwahrer [[person|Sebastian Oberhumer]] bestätigte die Verwahrung schriftlich am [[date|14. Juli 2026]] und erklärte, er werde das Gemälde nur gegen Vorlage der Einantwortungsurkunde herausgeben.
+
+Die Gesamtkosten der Abhandlung betragen EUR 3.640,00, einschließlich Gerichtskommissionsgebühren, Sachverständigenkosten und Notariatsentgelt. Sie werden aus dem Nachlass berichtigt, bevor die Einantwortung erfolgt. Die Erbin [[person|Evin]] hat um Ratenzahlung ihres Anteils ersucht, dem der Notar in drei Teilbeträgen zu je EUR 1.200,00 zugestimmt hat.
+
+Die Erben erhielten am [[date|17. Juli 2026]] eine Abschrift des Protokolls. Die Abschrift wurde den Erben persönlich übergeben. Die Erbin [[person|Ersek]] hat den Erhalt bestätigt, die übrigen Erben haben ihn schriftlich angezeigt. Weitere Einwendungen wurden nicht erhoben. Der Notar hat die Erben über die Frist zur Abgabe der Erbantrittserklärung belehrt.
 
 [[location|Ladis]], am [[date|17. Juli 2026]]
 

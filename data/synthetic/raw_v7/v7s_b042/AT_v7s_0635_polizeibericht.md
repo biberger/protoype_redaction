@@ -35,13 +35,13 @@ Die Lenkerin des Lkw, [[person|Ermacora]], hat auf Befragen angegeben, der Abbie
 
 Versicherung: Der Pkw des [[person|Watzinger]] ist bei der [[organization|Austria Assekuranz AG]] haftpflichtversichert, Vers.-Nr. [[other_identifier|68-6871685]].
 
-Schaden: Pkw Frontschaden, Lkw Auflieger, Sachschaden geschätzt EUR 9.000,00.
+Schaden: Pkw Frontschaden, Lkw Auflieger, Sachschaden geschätzt EUR 9.000,00. Die Reparaturkosten des Pkw wurden von der Werkstatt auf EUR 5.200,00 geschätzt. Der Lkw blieb fahrbereit.
 
 Die Lenkerin [[person|Ermacora]] wies die Verletzung des Vorrangs zurück. Sie hielt fest, dass der Pkw des [[person|Watzinger]] vor der Einfahrt zum Parkplatz bereits mehrere Meter in der Kreuzungsfläche gestanden habe. Die Ermittlungen zu dieser Behauptung sind noch nicht abgeschlossen. Der Halter [[person|Allmayer]] gab an, sein Fahrzeug sei am Unfall nicht beteiligt gewesen, er habe jedoch am Ende der Kreuzung ein Hupen gehört.
 
 Die Lichtbildmappe umfasst zwölf Aufnahmen der Unfallstelle, des Frontschadens am Pkw und des Aufliegers des Lkw. Eine Spurensicherung war nicht erforderlich, weil die Fahrzeuge bereits vor Eintreffen der Beamten verbracht worden waren.
 
-Eine Alkoholisierung wurde bei den Lenkern nicht festgestellt. Die Anzeige wird wegen des Verdachts der Verletzung der Vorrangregel gemäß [[legal_norm|§ 19 Abs 3 StVO]] an die Bezirksverwaltungsbehörde übermittelt.
+Eine Alkoholisierung wurde bei den Lenkern nicht festgestellt. Die Lenker wurden darauf hingewiesen, dass die Anzeige nach Abschluss der Erhebungen an die Behörde weitergeleitet wird und dass ihnen Gelegenheit zur schriftlichen Stellungnahme gegeben wird. [[person|Watzinger]] hat die Entgegennahme der Belehrung durch Unterschrift bestätigt. Die Anzeige wird wegen des Verdachts der Verletzung der Vorrangregel gemäß [[legal_norm|§ 19 Abs 3 StVO]] an die Bezirksverwaltungsbehörde übermittelt.
 
 [[person|Obereder]] e.h.
 [[person|Kollmitzer]] e.h.

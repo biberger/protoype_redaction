@@ -39,7 +39,7 @@ Begründung:
 
 2. Dieses Vorbringen ist unrichtig. Die [[organization|OHB]] hat die bestellten Waren am [[date|02.07.2024]] vollständig geliefert, die Übernahme wurde von der Klägerin persönlich quittiert. Die Quittung trägt die Angabe Vertragsnummer [[other_identifier|KV-2019-53428]] des Kaufvertrages über das Zubehör und ist als Beilage ./1 vorgelegt.
 
-3. Die Klägerin hat sich nach der Lieferung bei der [[organization|OHB]] telefonisch gemeldet und mitgeteilt, dass die Lieferung im Wesentlichen zufriedenstellend sei. Eine Mängelrüge im Sinne des § 377 UGB ist nicht erfolgt. Die Telefonnotiz vom [[date|09.07.2024]] liegt bei.
+3. Die Klägerin hat sich nach der Lieferung bei der [[organization|OHB]] telefonisch gemeldet und mitgeteilt, dass die Lieferung im Wesentlichen zufriedenstellend sei. Eine Mängelrüge im Sinne des [[legal_norm|§ 377 UGB]] ist nicht erfolgt. Die Telefonnotiz vom [[date|09.07.2024]] liegt bei.
 
 4. Der Geschäftsführer [[person|Lampert]] hat mit der Klägerin am [[date|15.07.2024]] persönlich telefoniert. Im Gespräch hat die Klägerin erklärt, sie wolle die Ware behalten, weil sie für ihren Enkel bestimmt sei. Eine Rückabwicklung wurde nicht verlangt.
 
@@ -51,9 +51,15 @@ Begründung:
 
 8. Rechtlich folgt aus dem Vorbringen, dass die Klägerin mit der Annahme der Lieferung die Verpflichtung aus dem Vertrag im Wesentlichen erfüllt hat. Die Klägerin hat sich außerdem durch die Aufforderung zur Zahlung der Restsumme am [[date|15.08.2024]] nicht auf einen Mangel berufen, sodass die Einrede der Nichterfüllung nicht mehr zur Verfügung steht. Vielmehr ist die Anzahlung als Teilerfüllung zu werten.
 
-8a. Rechtlich folgt weiter, dass dass die Klägerin den Vertrag durch Annahme der Ware erfüllt hat. Ein Rücktrittsrecht wegen Mangels besteht nicht, weil die Klägerin keine rechtzeitige Mängelrüge erstattet hat. Die Gewährleistungsfrist nach § 933 ABGB ist abgelaufen, soweit sie nicht ohnedies gewahrt ist.
+8a. Rechtlich folgt weiter, dass dass die Klägerin den Vertrag durch Annahme der Ware erfüllt hat. Ein Rücktrittsrecht wegen Mangels besteht nicht, weil die Klägerin keine rechtzeitige Mängelrüge erstattet hat. Die Gewährleistungsfrist nach [[legal_norm|§ 933 ABGB]] ist abgelaufen, soweit sie nicht ohnedies gewahrt ist.
 
 9. Die Zuständigkeit des [[court|BG Scheibbs]] wird nicht bestritten. Der Streitwert ist richtig bewertet.
+
+10. Die Klägerin hat in einem Telefonat mit dem Geschäftsführer [[person|Lampert]] am [[date|22.07.2024]] zugestanden, dass die Lieferung vollständig erfolgt ist. Diese Erklärung wird durch die Zeugin [[person|Kovačević]] gestützt, die bei dem Gespräch im Büro anwesend war. Die Klägerin hat erst nach Ablauf von vier Wochen behauptet, die Ware sei nicht vollständig gewesen.
+
+11. Die Kosten der Zustellung der Mahnung vom [[date|12.09.2024]] wurden von der Klägerin nicht bestritten. Die beklagte Partei hat die Mahnkosten daher im Rahmen ihrer Widerklage vorbehalten.
+
+12. Die beklagte Partei hält die Klage für überhöht, weil die Klägerin den Warenwert selbst mit EUR 14.900,00 angegeben hat, während der Vertrag einen Kaufpreis von EUR 18.640,00 vorsieht. Dieser Widerspruch ist von der Klägerin aufzuklären.
 
 Beweis: Vertrag vom [[date|11.06.2024]] (./A); Quittung (./1); Telefonnotiz (./2); Einvernahme der Zeugin [[person|Kovačević]]; Parteienvernehmung.
 
@@ -66,7 +72,7 @@ Die Beilagen werden in elektronischer Form über ERV übermittelt.
 
 Telefonische Rückfragen: Tel. [[phone_number|+43-316-1328194-66]]
 
-Lavant, am [[date|29.10.2026]]
+[[location|Lavant]], am [[date|29.10.2026]]
 
 Rechtsanwalt
 [[person|Malaniuk]]

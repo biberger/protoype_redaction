@@ -65,7 +65,7 @@ Die Kostennote der Werkstatt ist als Beilage ./C angeschlossen. Die Heilbehandlu
 
 Das Fahrzeug war bei der [[organization|Pannonia Versicherungs AG]] ([[organization|PVAG]]) haftpflichtversichert. Die Schadensmeldung wurde unter der Schaden-Nr. [[other_identifier|54/626652/25]] erfasst. Die Vers.-Nr. [[other_identifier|93-4131968]] betrifft das Fahrzeug der zweitbeklagten Partei. Die [[organization|PVAG]] lehnte mit Schreiben vom [[date|02.06.2026]] eine Regulierung ab, weil der Versicherungsnehmer den Unfallhergang bestreite.
 
-Die Schadenabteilung ist unter der Telefonnummer [[phone_number|+43 662 781 70 85 Durchwahl 44]] erreichbar. Eine außergerichtliche Einigung scheiterte an dieser Haltung.
+Die Schadenabteilung ist unter Tel. [[phone_number|+43 662 781 70 85 Durchwahl 44]] erreichbar. Eine außergerichtliche Einigung scheiterte an dieser Haltung.
 
 3a. Gutachten zur Schadensfeststellung
 
@@ -86,6 +86,8 @@ Der Erstbeklagte haftet nach [[legal_norm|§ 1310 ABGB]] für das Verschulden, w
 Beweis: Einvernahme der klagenden Partei, Einholung eines Sachverständigengutachtens aus dem Gebiet des Straßenbaus, Beiziehung des Polizeiberichts.
 
 Zur Klagsberechtigung: Die klagende Partei ist seit dem [[date|1. Februar 2024]] Eigentümerin des Fahrrads und hat dieses bei der Anschaffung vollständig bezahlt. Die Rechnung dazu liegt als Beilage ./E bei. Die Ansprüche auf Verdienstentgang und Schmerzengeld stehen ausschließlich der klagenden Partei zu; ein Forderungsübergang auf einen Dritten hat nicht stattgefunden.
+
+Die Verjährungsfrist ist gewahrt; der Unfall ereignete sich am [[date|14. März 2026]], die Klage wird vor Ablauf von drei Jahren eingebracht. Die Kosten des Sachverständigen werden vorläufig von der klagenden Partei getragen. Die Klagsbeantwortung der dritten beklagten Partei wird nach Zustellung abgewartet, ein Termin zur vorbereitenden Tagsatzung wird beantragt. Die Akten werden elektronisch übermittelt. Eine Kopie dieses Schriftsatzes ergeht an die Mandantin.
 
 Beilagen:
 ./A Kopie des Polizeiberichts vom [[date|14.03.2026]]

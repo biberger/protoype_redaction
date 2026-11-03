@@ -6,21 +6,21 @@ lang: de
 Von: [[person|Ariane Weis]] <[[email|a.weis@gmx.at]]>
 Gesendet: Montag, [[date|13. Oktober 2025]], 08:42
 An: [[email|office@ruzicka.at]]
-Betreff: Unfall in St. Lorenzen, Schadennummer [[other_identifier|41/222492/20]]
+Betreff: Unfall in [[location|St. Lorenzen]], Schadennummer [[other_identifier|41/222492/20]]
 
 Sehr geehrte Damen und Herren,
 
 am [[date|11. Oktober 2025]] wurde ich in [[location|St. Lorenzen]] von einem Fahrzeug der Firma [[organization|Karner GmbH]] gestreift, als ich vom Parkplatz des Gasthofs ausfuhr. Mitfahrer war mein Sohn [[person|Amadeus Bichler]], geb [[date_of_birth|6. November 2003]]. Der Lenker des anderen Fahrzeugs hat den Unfall bisher nicht anerkannt. Ich bitte um Prüfung, ob Ansprüche gegen die Versicherung bestehen.
 
 Mit freundlichen Grüßen
-Ariane Weis
+[[person|Ariane Weis]]
 [[address|5081 Anif]]
 
 -----Ursprüngliche Nachricht-----
 Von: [[organization|Ruzicka, Lischka]] Büro
 Gesendet: Montag, [[date|13. Oktober 2025]], 10:15
 An: [[person|Ariane Weis]]
-Betreff: AW: Unfall in St. Lorenzen
+Betreff: AW: Unfall in [[location|St. Lorenzen]]
 
 > Sehr geehrte Frau [[person|Weis]],
 >
@@ -33,7 +33,7 @@ Von: [[person|Werther Tomassi]] <[[email|w.tomassi@alpenland.at]]>
 Gesendet: Dienstag, [[date|21. Oktober 2025]], 14:03
 An: [[email|office@ruzicka.at]]
 Cc: [[person|Ariane Weis]]
-Betreff: AW: Unfall in St. Lorenzen, UZ: [[other_identifier|Weis ./. Fitz]]
+Betreff: AW: Unfall in [[location|St. Lorenzen]], UZ: [[other_identifier|Weis ./. Fitz]]
 
 Sehr geehrte Damen und Herren,
 
@@ -41,20 +41,20 @@ die [[organization|ALV]] hat die Schadenmeldung der [[organization|Karner GmbH]]
 
 Für Rückfragen erreichen Sie mich unter:
 
-Werther Tomassi
+[[person|Werther Tomassi]]
 Sachbearbeiter Kraftfahrt
 [[organization|Alpenland Versicherung AG]]
 T: [[phone_number|+43 5572 221 90 Kl. 14]]  F: [[phone_number|05572/221 91]]
 E: [[email|w.tomassi@alpenland.at]]
 
-> Am [[date|13.10.2025]] schrieb Ariane Weis:
+> Am [[date|13.10.2025]] schrieb [[person|Ariane Weis]]:
 > Mitfahrer war mein Sohn [[person|Amadeus Bichler]], geb [[date_of_birth|6. November 2003]].
 > Die Schadennummer lautet [[other_identifier|41/222492/20]].
 
 Von: [[person|Kriemhild Ehmann]] <[[email|k.ehmann@karner.at]]>
 Gesendet: Mittwoch, [[date|22. Oktober 2025]], 09:27
 An: [[email|office@ruzicka.at]]
-Betreff: AW: AW: Unfall in St. Lorenzen
+Betreff: AW: AW: Unfall in [[location|St. Lorenzen]]
 
 Ich bin Geschäftsführerin der [[organization|Karner GmbH]] ([[company_register_number|FN 206650y]], UID: [[tax_id|ATU31794573]]). Unser Fahrer war zum Zeitpunkt des Unfalls ordnungsgemäß unterwegs, er wurde von Frau [[person|Weis]] nicht gesehen. Wir bestätigen die Schilderung von [[person|Tomassi]] nicht. Ein Zeuge, [[person|Bichler]], wird bestätigen, dass Frau [[person|Weis]] das Fahrzeug unvermittelt angefahren hat.
 
@@ -66,7 +66,7 @@ Mit freundlichen Grüßen
 Von: [[organization|Ruzicka, Lischka]]
 Gesendet: Dienstag, [[date|21. Oktober 2025]], 16:40
 An: [[person|Kriemhild Ehmann]]
-Betreff: Unfall in St. Lorenzen
+Betreff: Unfall in [[location|St. Lorenzen]]
 
 > Die Versicherung hat eine Teilzahlung angeboten. Bitte bestätigen Sie, ob Ihr Fahrer den Rückwärtsgang eingelegt hatte.
 > Schadennummer [[other_identifier|41/222492/20]]
@@ -74,7 +74,7 @@ Betreff: Unfall in St. Lorenzen
 Von: [[organization|Ruzicka, Lischka]] Büro
 Gesendet: Donnerstag, [[date|23. Oktober 2025]], 11:12
 An: [[person|Ariane Weis]]; [[person|Kriemhild Ehmann]]
-Betreff: Unfall in St. Lorenzen, unser Zeichen
+Betreff: Unfall in [[location|St. Lorenzen]], unser Zeichen
 
 Sehr geehrte Damen und Herren,
 

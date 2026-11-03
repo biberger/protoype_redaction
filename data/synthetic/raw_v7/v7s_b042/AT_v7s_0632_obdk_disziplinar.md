@@ -38,7 +38,7 @@ Der Kammeranwalt [[person|Meister]] stellte daraufhin den Antrag auf Einleitung 
 
 Die Beschuldigte betrieb eine Einzelkanzlei in [[location|Linz]] und verwaltete für ihre Mandantschaft mehrere Treuhandkonten. Für die Gesellschaft [[organization|Dick Handels]] wurde unter der Treuhandschaft Nr. [[other_identifier|2022/077]] ein Betrag von EUR 42.000,00 verwahrt. Der Treuhandbuch-Nr. [[other_identifier|2026/713]] ist die Bewegung des Kontos zuzuordnen.
 
-Die Bewegungen auf dem Treuhandkonto ergeben folgendes Bild:
+Die Bewegungen auf dem Treuhandkonto mit der IBAN [[bank_account|AT07 7455 8044 1344 6247]] ergeben folgendes Bild:
 
 [[date|03.02.2025]] Zahlungseingang [[organization|Dick Handels GmbH]], Treuhandschaft Nr. [[other_identifier|2022/077]], EUR 42.000,00
 [[date|11.02.2025]] Auszahlung an den Verkäufer [[person|Ulrich Pachler]], EUR 18.500,00
@@ -49,6 +49,12 @@ Die Bewegungen auf dem Treuhandkonto ergeben folgendes Bild:
 Der Restbetrag von EUR 3.600,00 wurde am [[date|22.08.2025]] an die Gesellschaft zurücküberwiesen, nachdem die Beschwerde bei der Kammer eingegangen war. Die Beschuldigte begründete die Umbuchungen mit offenen Kanzleiauslagen, belegte diese jedoch nicht.
 
 Der Mandant [[person|Bolkovac]] war nicht in den Vorgang eingebunden. Er wurde über die Auszahlung erst im Nachhinein informiert.
+
+1a. Zur Person der Beschuldigten
+
+Die Beschuldigte ist seit dem [[date|1. März 2009]] in die Liste der Rechtsanwälte eingetragen. Sie war bisher disziplinarrechtlich nicht in Erscheinung getreten. Nach ihren Angaben hat sie nach der Geburt ihres Sohnes im Jahr 2016 ihre Kanzlei verkleinert und einen Teil ihrer Mandate abgegeben. Die wirtschaftlichen Folgen dieser Entscheidung hätten zu finanziellen Engpässen geführt, die sie in der Verhandlung als Hintergrund der Umbuchungen darstellte.
+
+Die Kammer hat die Angaben zur Kanzleigröße überprüft. Sie stimmen insoweit überein, als die Beschuldigte die Kanzlei tatsächlich mit einer Angestellten in Teilzeit führte. Eine Verpflichtung, die Umbuchungen vom Zeitpunkt der Entscheidung an zu melden, bestand nicht.
 
 2a. Kanzleiorganisation und Buchhaltung
 

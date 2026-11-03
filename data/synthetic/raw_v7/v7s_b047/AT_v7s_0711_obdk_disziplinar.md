@@ -13,7 +13,7 @@ GZ [[case_number|DR-K 4/2025]]
 
 Protokoll und Erkenntnis
 
-Der Disziplinarrat der Rechtsanwaltskammer für Kärnten hat in der Disziplinarsache gegen den Rechtsanwalt [[person|Nazim Kaur]], StA. [[country|Kroatien]], wegen des Verdachts der Verletzung der Berufspflichten nach [[legal_norm|§ 9 RAO]] und [[legal_norm|§ 10 Abs 1 RAO]] am [[date|27.03.2025]] in nichtöffentlicher Sitzung folgendes Erkenntnis gefällt:
+Der [[court|Disziplinarrat der Rechtsanwaltskammer für Kärnten]] hat in der Disziplinarsache gegen den Rechtsanwalt [[person|Nazim Kaur]], StA. [[country|Kroatien]], wegen des Verdachts der Verletzung der Berufspflichten nach [[legal_norm|§ 9 RAO]] und [[legal_norm|§ 10 Abs 1 RAO]] am [[date|27.03.2025]] in nichtöffentlicher Sitzung folgendes Erkenntnis gefällt:
 
 Senat:
 Vorsitzende: [[judge|Salomea MMag. Habsburg]]

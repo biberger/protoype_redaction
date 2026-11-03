@@ -63,7 +63,7 @@ Der Verkäufer erteilt seine ausdrückliche Einwilligung in die Einverleibung de
 
 5.3 Die Käuferin hat die Liegenschaft vor Vertragsunterfertigung besichtigt und erklärt, mit deren Zustand einverstanden zu sein. Der Verkäufer hat der Käuferin die Pachtverträge für die angrenzenden Ackerflächen übergeben, die bis zum Ende des laufenden Wirtschaftsjahres laufen und von der Käuferin übernommen werden, soweit sie nicht gekündigt werden.
 
-5.4 Sollte die Eintragung im Grundbuch aus Gründen scheitern, die nicht von den Parteien zu vertreten sind, bleibt der Vertrag unter Vorbehalt der Rückabwicklung bestehen. Die Kanzlei zahlt den Kaufpreis in diesem Fall nach Abzug der Kosten an die Käuferin zurück.
+5.4 Sollte die Eintragung im Grundbuch aus Gründen scheitern, die nicht von den Parteien zu vertreten sind, bleibt der Vertrag unter Vorbehalt der Rückabwicklung bestehen. Die Kanzlei zahlt den Kaufpreis in diesem Fall nach Abzug der Kosten an die Käuferin zurück. Die Kanzlei behält sich in diesem Fall ein Entgelt von EUR 150,00 vor.
 
 
 6. Übergabe und Gewährleistung

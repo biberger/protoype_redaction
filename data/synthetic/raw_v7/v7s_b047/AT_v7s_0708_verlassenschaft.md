@@ -14,14 +14,14 @@ An das
 [[court|Bezirksgericht Wolfsberg]]
 Verlassenschaftsabteilung
 
-Deutschlandsberg, am [[date|21.04.2020]]
+[[location|Deutschlandsberg]], am [[date|21.04.2020]]
 
 Betreff: Verlassenschaft nach [[person|Muhammed Azizi]], verstorben am [[date|06.02.2020]]
 Aktenzeichen des Gerichts: [[case_number|1 A 118/20h]]
 
 Sehr geehrte Damen und Herren,
 
-in der Verlassenschaftssache nach dem am [[date|06.02.2020]] verstorbenen [[person|Muhammed Azizi]], *[[date_of_birth|1979-02-24]], übermittle ich das Nachlassinventar und den Entwurf des Einantwortungsbeschlusses. Der Erblasser war zuletzt in Wolfsberg wohnhaft; [[person|Azizi]] führte dort bis zuletzt einen Kleinbetrieb für Fliesenarbeiten. Ein Testament wurde im Österreichischen Zentralen Testamentsregister nicht gefunden, jedoch liegt ein Legat zugunsten der Lebensgefährtin vor, das in einer notariellen Urkunde niedergelegt ist.
+in der Verlassenschaftssache nach dem am [[date|06.02.2020]] verstorbenen [[person|Muhammed Azizi]], *[[date_of_birth|1979-02-24]], übermittle ich das Nachlassinventar und den Entwurf des Einantwortungsbeschlusses. Der Erblasser war zuletzt in [[location|Wolfsberg]] wohnhaft; [[person|Azizi]] führte dort bis zuletzt einen Kleinbetrieb für Fliesenarbeiten. Ein Testament wurde im Österreichischen Zentralen Testamentsregister nicht gefunden, jedoch liegt ein Legat zugunsten der Lebensgefährtin vor, das in einer notariellen Urkunde niedergelegt ist.
 
 Zur Person des Erblassers ist für die Register Folgendes festzuhalten. Im Melderegister ist der Erblasser als [[person|Azizi Muhammed]] geführt, *[[date_of_birth|24.02.1979]]. Die Schreibweise mit vorangestelltem Familiennamen stammt aus der Eintragung im Grundbuch und ist mit der Geburtsurkunde abgeglichen. Es handelt sich um dieselbe Person; ein Zweifel an der Identität besteht nicht.
 
@@ -29,7 +29,7 @@ Zur Person des Erblassers ist für die Register Folgendes festzuhalten. Im Melde
 
 Der Erblasser hielt einen Geschäftsanteil an der [[organization|Spiess Bau GmbH]], [[company_register_number|FN 73154f]], UID: [[tax_id|ATU04418781]]. Der Anteil wurde mit dem Buchwert von 41.200 Euro bewertet. Die Gesellschaft hat die Wertermittlung durch einen Steuerberater bestätigt. Daneben gehörte dem Erblasser die Liegenschaft [[land_register_id|2313/Kemeten]], deren Verkehrswert nach dem Gutachten vom [[date|03.03.2020]] mit 96.000 Euro angesetzt wurde.
 
-Bei der Raiffeisenbank Deutschlandsberg bestand ein Girokonto mit einem Guthaben von 5.912,30 Euro zum Todestag, lautend auf die IBAN [[bank_account|AT64 1260 3582 3461 4627]]. Der Erblasser war außerdem Versicherungsnehmer eines Sparvertrags, Kunden-Nr. [[other_identifier|524024]], der nach dem Tod ausbezahlt wird. Die Versicherungsgesellschaft ist unter Tel. [[phone_number|+43 1 783 60 49 Kl. 41]] erreichbar; der Vertrag trägt die Vertragsnummer [[other_identifier|V-2020-12125]]. Ein weiterer Vertrag, eine Kfz-Versicherung, lief unter der Vertragsnummer [[other_identifier|V-2023-60433]] und wurde mit dem Tod beendet.
+Bei der [[organization|Raiffeisenbank Deutschlandsberg]] bestand ein Girokonto mit einem Guthaben von 5.912,30 Euro zum Todestag, lautend auf die IBAN [[bank_account|AT64 1260 3582 3461 4627]]. Der Erblasser war außerdem Versicherungsnehmer eines Sparvertrags, Kunden-Nr. [[other_identifier|524024]], der nach dem Tod ausbezahlt wird. Die Versicherungsgesellschaft ist unter Tel. [[phone_number|+43 1 783 60 49 Kl. 41]] erreichbar; der Vertrag trägt die Vertragsnummer [[other_identifier|V-2020-12125]]. Ein weiterer Vertrag, eine Kfz-Versicherung, lief unter der Vertragsnummer [[other_identifier|V-2023-60433]] und wurde mit dem Tod beendet.
 
 2. Passiva
 
@@ -70,4 +70,4 @@ Mit freundlichen Grüßen
 [[person|Sika]]
 Notar
 
-Deutschlandsberg, am [[date|21.04.2020]]
+[[location|Deutschlandsberg]], am [[date|21.04.2020]]

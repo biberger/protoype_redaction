@@ -13,7 +13,7 @@ Schadennummer [[other_identifier|83/928646/24]]
 
 [[location|St. Wolfgang im Salzkammergut]], am [[date|12. August 2024]], 14:20 Uhr
 
-Dienststelle: Polizeiinspektion Bürmoos
+Dienststelle: [[organization|Polizeiinspektion Bürmoos]]
 Einsatzbeamter: Insp. [[person|Mario Spitzy]], DNr. [[other_identifier|2231]]
 Meldung: Verkehrsunfall mit Sachschaden, zwei beteiligte Fahrzeuge, eine verletzte Person
 
@@ -65,4 +65,4 @@ Hinweis zum Dokument: Die Ausweisnummer der Frau [[person|Skoro]] wurde an Hand 
 
 Unterschrift des Einsatzbeamten:
 Insp. [[person|Mario Spitzy]]
-Polizeiinspektion Bürmoos, Tel. [[phone_number|+43 2742 505 37 34 Durchwahl 32]]
+[[organization|Polizeiinspektion Bürmoos]], Tel. [[phone_number|+43 2742 505 37 34 Durchwahl 32]]

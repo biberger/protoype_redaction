@@ -58,7 +58,7 @@ III. Rechtliche Beurteilung
 
 Rechtsanwälte haben Fremdgelder getrennt von ihrem Eigenvermögen zu verwahren. Diese Pflicht ergibt sich aus [[legal_norm|§ 14 RAO]] und dem [[legal_norm|Disziplinarstatut]] der Rechtsanwälte. Ein Verstoß liegt vor, wenn Fremdgeld vor der vollständigen Abrechnung für eigene Zwecke verwendet wird. Dies hat die Beschuldigte getan.
 
-Der Oberste Gerichtshof hat als Disziplinargericht in ständiger Rechtsprechung ausgesprochen, dass schon eine kurzfristige Entnahme einen Verstoß gegen die Pflicht zur getrennten Verwahrung bildet, auch wenn der Betrag später ausgeglichen wird. Der [[court|OGH]] hat dazu in der Entscheidung [[court|OGH]] [[date|12. März 2024]], [[case_number|Ds 4/24h]] ausgeführt, dass das Vertrauen der Rechtsuchenden in die Verwahrung durch den Rechtsanwalt geschützt werden müsse. Diese Grundsätze sind auf den vorliegenden Fall übertragbar.
+Der [[court|Oberste Gerichtshof]] hat als Disziplinargericht in ständiger Rechtsprechung ausgesprochen, dass schon eine kurzfristige Entnahme einen Verstoß gegen die Pflicht zur getrennten Verwahrung bildet, auch wenn der Betrag später ausgeglichen wird. Der [[court|OGH]] hat dazu in der Entscheidung [[court|OGH]] [[date|12. März 2024]], [[case_number|Ds 4/24h]] ausgeführt, dass das Vertrauen der Rechtsuchenden in die Verwahrung durch den Rechtsanwalt geschützt werden müsse. Diese Grundsätze sind auf den vorliegenden Fall übertragbar.
 
 Die Beschuldigte hat die Honorarentnahme nicht bestritten. Sie hat lediglich die Motivation angeführt. Der Disziplinarrat sieht darin keinen Rechtfertigungsgrund, weil ein Rechtsanwalt die Kenntnis einer möglichen Teilzahlung nicht durch eigene Entnahme vorwegnehmen darf.
 

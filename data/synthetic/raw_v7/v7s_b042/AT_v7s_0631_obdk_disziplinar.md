@@ -66,6 +66,8 @@ Die verhängte Geldbuße liegt im unteren Bereich des gesetzlichen Rahmens. Der 
 
 Bei der Bemessung hat der Senat auch die wirtschaftlichen Verhältnisse des Beschuldigten berücksichtigt, die er in der Verhandlung offengelegt hat. Der Beschuldigte betreibt seit dem Ende seiner Kanzlei im [[location|Kufstein]] Herbst 2025 eine Tätigkeit im Angestelltenverhältnis und hat zwei unterhaltspflichtige Kinder. Die Geldbuße soll ihn spürbar treffen, ohne seine Existenz zu gefährden.
 
+Die Beschuldigte hat in der Verhandlung eingeräumt, dass ihr die Trennung der Konten bekannt war. Sie habe sich jedoch auf die Buchhaltung ihrer damaligen Assistenz verlassen, die die Umbuchungen nicht ausreichend geprüft habe. Dieser Einwand entlastet die Beschuldigte nicht, weil die Verantwortung für die Kontoführung beim Rechtsanwalt verbleibt.
+
 Der Senat hat außerdem erwogen, ob eine Ermahnung ausreicht. Er hat dies verworfen, weil der Verstoß über mehrere Monate andauerte und die Mandantin [[person|Ahrer]] erst nach einer Beschwerde zu ihrem Geld gelangte.
 
 3a. Weitere Ermittlungen

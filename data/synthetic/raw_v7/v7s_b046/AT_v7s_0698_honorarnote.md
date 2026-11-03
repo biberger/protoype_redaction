@@ -55,6 +55,8 @@ Die Gesellschaft ist unter [[company_register_number|FN 604645i]] eingetragen, U
 
 Die Honorarnote enthält keine Barauslagen. Gerichtsgebühren, die im Verfahren zu entrichten sind, werden gesondert vorgeschrieben.
 
+Die Kanzlei weist darauf hin, dass die Leistungen für [[person|Ungersböck]] auf Basis der Vollmacht vom [[date|12.03.2026]] erbracht wurden. Die Vollmacht liegt im Akt und kann auf Wunsch kopiert werden. Eine Änderung der Anschrift der Gesellschaft ist uns bisher nicht mitgeteilt worden; wir bitten um Mitteilung, falls sich etwas ändert.
+
 Mit freundlichen Grüßen
 
 Rechtsanwälte OG

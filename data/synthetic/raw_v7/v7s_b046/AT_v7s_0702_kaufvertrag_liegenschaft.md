@@ -61,7 +61,7 @@ nach Eintragung des Eigentumsrechtes | 81.500,00 | Anderkonto der Kanzlei
 
 3. Die Käufer haften für den Kaufpreis zur ungeteilten Hand. Ein Zinsverzug tritt nach Ablauf von 14 Tagen nach Fälligkeit ein.
 
-4. Die Grunderwerbsteuer nach dem Grunderwerbsteuergesetz beträgt auf Grundlage des Kaufpreises EUR 14.475,00 und wird von den Käufern zu gleichen Teilen getragen. Die Eintragungsgebühr wird nach dem Wert der Liegenschaft berechnet, der dem Kaufpreis entspricht. Die Vorauszahlung dieser Abgaben erfolgt aus dem ersten Teilbetrag.
+4. Die Grunderwerbsteuer nach dem [[legal_norm|Grunderwerbsteuergesetz]] beträgt auf Grundlage des Kaufpreises EUR 10.132,50 und wird von den Käufern zu gleichen Teilen getragen. Die Eintragungsgebühr wird nach dem Wert der Liegenschaft berechnet, der dem Kaufpreis entspricht. Die Vorauszahlung dieser Abgaben erfolgt aus dem ersten Teilbetrag.
 
 5. Eine Wertsicherung des Kaufpreises ist nicht vereinbart. Die Parteien halten fest, dass der Kaufpreis auf Basis eines Verkehrswertgutachtens vom [[date|17.09.2026]] ermittelt wurde, das bei der Kanzlei einsehbar ist.
 
@@ -78,6 +78,22 @@ VI. Gewährleistung und Haftung
 1. [[organization|Möstl Bau]] haftet für den rechtlichen Bestand des Eigentums und für die Richtigkeit der Angaben im Grundbuch. Für die Beschaffenheit des Gebäudes wird die Haftung ausgeschlossen. Die Käufer erklären, dass sie die Liegenschaft besichtigt haben.
 
 2. Die Verkäuferin erklärt, dass keine Altlasten bekannt sind und keine behördlichen Verfahren anhängig sind. Sollte sich nachträglich ein Mangel des Rechtsbestandes herausstellen, verpflichtet sich die Verkäuferin zur Rückzahlung des Kaufpreises samt Zinsen.
+
+VI a. Ergänzende Vereinbarungen zur Zahlung
+
+1. Die Käufer haben die erste Rate von EUR 58.000,00 am Tag der Unterfertigung auf das Anderkonto überwiesen. Die Kanzlei bestätigt den Eingang mit gesonderter Quittung, die der Verkäuferin übermittelt wird.
+
+2. Sollte die Finanzierung eines Käufers nicht zustande kommen, ist dieser verpflichtet, die Kanzlei binnen 30 Tagen nach Unterfertigung darüber zu informieren. Die Verkäuferin kann in diesem Fall vom Vertrag zurücktreten, wenn die Finanzierung bis zum Ablauf dieser Frist nicht nachgewiesen ist.
+
+3. Die Käufer erklären, dass sie die Mittel aus eigenen Ersparnissen und aus einem Darlehen der [[organization|Raiffeisenbank Sankt Jakob im Walde]] aufbringen. Die Darlehensbestätigung wurde der Kanzlei vorgelegt und liegt dem Akt bei.
+
+4. Die Verkäuferin verzichtet auf die Anforderung weiterer Sicherheiten, sofern die Pfandrechtsfreistellung nach Abschnitt III erfolgt ist.
+
+VI b. Bestätigung der Besichtigung
+
+Die Käufer bestätigen, dass sie die Liegenschaften gemeinsam mit der Verkäuferin am [[date|09.10.2026]] besichtigt haben. Bei dieser Besichtigung wurde das Gebäude vollständig begangen, die Keller- und Dachräume eingesehen und die Anschlüsse für Strom, Wasser und Kanal überprüft. Die Käufer haben dabei keine Mängel gerügt, die nicht im Vertrag ausdrücklich erwähnt sind.
+
+Die Verkäuferin hat die Käufer darauf hingewiesen, dass der Garten im Sommer gepflegt wurde und die Zufahrt nach dem letzten Schneefall geräumt ist. Die Käufer haben diese Angaben als richtig zur Kenntnis genommen.
 
 VII. Treuhandschaft und Vollmacht
 
