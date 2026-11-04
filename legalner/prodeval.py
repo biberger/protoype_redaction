@@ -67,8 +67,8 @@ def score(records, masks):
     for rec, spans in zip(records, masks):
         cov = covered(rec)
         masked = set()
-        for s, e, _ in spans:
-            masked.update(range(s, e))
+        for s, e, _ in spans:  # clamp: a model can return offsets past the end of a chunk's text
+            masked.update(range(max(0, s), min(e, len(rec["text"]))))
         gold = [g for g in rec["spans"] if g["label"] in PII and g["label"] in cov]
         gold_chars = {i for g in gold for i in range(g["start"], g["end"]) if not rec["text"][i].isspace()}
         vis_chars = {i for g in rec["spans"] if g["label"] in VISIBLE and g["label"] in cov

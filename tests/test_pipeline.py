@@ -699,3 +699,11 @@ def test_transliterate_cyrillic_and_greek():
     from legalner.gazetteers import transliterate
     assert transliterate("Кузьма") == "Kusma" and transliterate("Ольга") == "Olha"
     assert transliterate("Σωκρατης") == "Sokratis" and transliterate("Müller") == "Müller"
+
+
+def test_prodeval_tolerates_offsets_past_text_end():
+    from legalner.prodeval import score
+    rec = {"text": "Max Huber", "source": "synthetic", "lang": "de", "meta": {},
+           "spans": [{"start": 0, "end": 9, "label": "person", "text": "Max Huber"}]}
+    res = score([rec], [[(0, 15, "person")]])  # a prediction running past the end of the text
+    assert res

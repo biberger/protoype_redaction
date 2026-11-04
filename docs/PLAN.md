@@ -406,7 +406,32 @@ Step 3 (synthetic v7, approved 2026-11-03) is done:
   land_register_id 6.7k, other_identifier 5.1k, date_of_birth 4.5k, address 4.3k, court 3.6k, phone 2.8k).
   `scripts/gpu_run.sh` picks up `raw_v7`, `raw_v7_grundbuch` and `raw_v7_registers`.
 
-Step 6 (training run v3) needs approval and new RunPod/HF tokens.
+Step 6, training run v3 = **Isel v3** (`sb-aiss/isel-v3`, private), 2026-11-03/04:
+- Build `data/build/v3`: no source mix (every record once), synthetic ×2, BVwG ≤ 300 windows; 153,473 training records
+  (LER 46 %, synthetic 35 %, RIS 12 %, replay 7 %, EUR-Lex 0.2 %). Clean dataset `sb-aiss/legalner-at-data`.
+- A100 SXM (community, $1.39/h), 5 epochs = 23,980 steps at 2.15 s/step, 14 h 20 min; dev loss 286 → 43 (still falling
+  until the LR reached zero; part of that is LER's sentence-level split). A first attempt was stopped after 1 h 40 min
+  ($2.49) because the 11 h watchdog would have cut training before the checkpoint upload; `pod_run.sh` now uploads the
+  best checkpoint whenever it changes and before a watchdog stop. Total ≈ $23 incl. the aborted attempt.
+- The eval step crashed in `prodeval` on the base model (prediction offsets past the text end; fixed), so the PII model
+  was not evaluated this time; Isel v3, v2 and the base model are complete.
+
+  | Set | Isel v3 | v2 | gliner2.5-multi |
+  |---|---:|---:|---:|
+  | gold_at micro F1 | **0.977** | 0.967 | 0.527 |
+  | MAPA_v2 micro F1 | 0.836 | **0.860** | 0.423 |
+  | test v3 (2k/source) | **0.909** | 0.880 | 0.507 |
+  | OBDK synthetic | **0.950** | 0.866 | 0.527 |
+  | prod 96 words: PII char recall / precision | 0.955 / **0.978** | 0.954 / 0.795 | 0.845 / 0.590 |
+  | prod 96: leaked mentions gold / OBDK / regression | **2.2 % / 5.6 % / 2.2 %** | 2.4 % / 7.6 % / 28.8 % | 23.6 % / 23.8 % / 69.1 % |
+  | prod 96: visible text masked (courts, dates, norms) | **0.5 %** | 24.7 % | 30.4 % |
+
+  Per label (gold / OBDK): land register 0.889 / 0.983 (v2 0.738 / 0.906), country 0.966 / 0.800 (0.718 / 0.270),
+  phone 1.000 / 0.950 (1.000 / 0.288), other identifiers 0.909 / 0.973 (0.824 / 0.578), disciplinary courts on OBDK
+  0.892 (0.608); weak: OBDK organization 0.659, gold licence plate 0.667 (n=13).
+  Regression: MAPA_v2 (EU) case numbers 0.725 (v2 0.929), dates 0.965 (0.990), organization 0.778 (0.797); likely
+  cause: without the mix EUR-Lex fell from 2 % to 0.2 % of training. 384-word chunks are worse than 96 (recall
+  0.871 vs 0.955); keep 96 in production.
 
 ## Open questions
 
