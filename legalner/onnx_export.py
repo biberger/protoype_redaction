@@ -105,8 +105,11 @@ def quantize(src, out, mode="weights"):
     if mode.startswith("nbits8"):  # weight-only int8 (MatMulNBits); "nbits8-fast": int8 compute (accuracy_level 4)
         from onnxruntime.quantization.matmul_nbits_quantizer import (DefaultWeightOnlyQuantConfig,
                                                                       MatMulNBitsQuantizer)
+        emb = mode.endswith("-emb")  # also the embedding table (Gather), weight-only int8
         cfg = DefaultWeightOnlyQuantConfig(block_size=32, is_symmetric=True, bits=8,
-                                           accuracy_level=4 if mode == "nbits8-fast" else None)
+                                           accuracy_level=4 if mode.startswith("nbits8-fast") else None,
+                                           op_types_to_quantize=("MatMul", "Gather") if emb else None,
+                                           quant_axes=(("MatMul", 0), ("Gather", 1)) if emb else None)
         q = MatMulNBitsQuantizer(onnx.load(str(src)), algo_config=cfg)
         q.process()
         q.model.save_model_to_file(str(out), use_external_data_format=False)
@@ -154,7 +157,7 @@ def main(argv=None):
     q = sub.add_parser("quantize")
     q.add_argument("src")
     q.add_argument("-o", "--out", required=True)
-    q.add_argument("--mode", choices=["all", "weights", "ffn", "nbits8", "nbits8-fast"], default="weights")
+    q.add_argument("--mode", choices=["all", "weights", "ffn", "nbits8", "nbits8-fast", "nbits8-fast-emb"], default="weights")
     p = sub.add_parser("parity")
     p.add_argument("model")
     p.add_argument("onnx")
