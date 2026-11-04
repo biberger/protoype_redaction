@@ -62,10 +62,15 @@ def load_with_onnx(model_dir, onnx_path, id_map_path=None, threads=0):
 
 
 def export(model_dir, out, opset=17):
-    import torch
     from gliner2 import AutoExtractor
     model = AutoExtractor.from_pretrained(str(model_dir), map_location="cpu")
     model.eval()
+    return export_model(model, out, opset=opset)
+
+
+def export_model(model, out, opset=17, vocab=None):
+    """Export model.encoder (input_ids, attention_mask -> last_hidden_state) with dynamic batch and length."""
+    import torch
     enc = model.encoder
 
     class Wrap(torch.nn.Module):
@@ -78,7 +83,7 @@ def export(model_dir, out, opset=17):
 
     out = pathlib.Path(out)
     out.parent.mkdir(parents=True, exist_ok=True)
-    ids = torch.randint(5, 1000, (2, 64), dtype=torch.long)
+    ids = torch.randint(5, min(1000, vocab or 1000), (2, 64), dtype=torch.long)
     mask = torch.ones_like(ids)
     with torch.no_grad():
         torch.onnx.export(Wrap(enc), (ids, mask), str(out), input_names=["input_ids", "attention_mask"],
@@ -97,6 +102,15 @@ def quantize(src, out, mode="weights"):
     from onnxruntime.quantization import QuantType, quantize_dynamic
     out = pathlib.Path(out)
     out.parent.mkdir(parents=True, exist_ok=True)
+    if mode.startswith("nbits8"):  # weight-only int8 (MatMulNBits); "nbits8-fast": int8 compute (accuracy_level 4)
+        from onnxruntime.quantization.matmul_nbits_quantizer import (DefaultWeightOnlyQuantConfig,
+                                                                      MatMulNBitsQuantizer)
+        cfg = DefaultWeightOnlyQuantConfig(block_size=32, is_symmetric=True, bits=8,
+                                           accuracy_level=4 if mode == "nbits8-fast" else None)
+        q = MatMulNBitsQuantizer(onnx.load(str(src)), algo_config=cfg)
+        q.process()
+        q.model.save_model_to_file(str(out), use_external_data_format=False)
+        return out
     nodes = None
     if mode != "all":
         g = onnx.load(str(src), load_external_data=False).graph
@@ -140,7 +154,7 @@ def main(argv=None):
     q = sub.add_parser("quantize")
     q.add_argument("src")
     q.add_argument("-o", "--out", required=True)
-    q.add_argument("--mode", choices=["all", "weights", "ffn"], default="weights")
+    q.add_argument("--mode", choices=["all", "weights", "ffn", "nbits8", "nbits8-fast"], default="weights")
     p = sub.add_parser("parity")
     p.add_argument("model")
     p.add_argument("onnx")
