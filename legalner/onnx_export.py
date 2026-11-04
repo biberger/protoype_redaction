@@ -108,11 +108,20 @@ def quantize(src, out, mode="weights"):
         emb = mode.endswith("-emb")  # also the embedding table (Gather), weight-only int8
         cfg = DefaultWeightOnlyQuantConfig(block_size=32, is_symmetric=True, bits=8,
                                            accuracy_level=4 if mode.startswith("nbits8-fast") else None,
-                                           op_types_to_quantize=("MatMul", "Gather") if emb else None,
-                                           quant_axes=(("MatMul", 0), ("Gather", 1)) if emb else None)
+                                           )
         q = MatMulNBitsQuantizer(onnx.load(str(src)), algo_config=cfg)
         q.process()
-        q.model.save_model_to_file(str(out), use_external_data_format=False)
+        if not emb:
+            q.model.save_model_to_file(str(out), use_external_data_format=False)
+            return out
+        # MatMulNBits leaves the embedding table in fp32: quantize that one Gather in a second, dynamic pass
+        tmp = out.with_suffix(".nbits.onnx")
+        q.model.save_model_to_file(str(tmp), use_external_data_format=False)
+        g = onnx.load(str(tmp), load_external_data=False).graph
+        gathers = [n.name for n in g.node if n.op_type == "Gather" and any("word_embeddings" in x for x in n.input)]
+        quantize_dynamic(str(tmp), str(out), weight_type=QuantType.QUInt8, op_types_to_quantize=["Gather"],
+                         nodes_to_quantize=gathers)
+        tmp.unlink()
         return out
     nodes = None
     if mode != "all":
