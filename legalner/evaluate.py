@@ -160,14 +160,20 @@ def main(argv=None):
     ap.add_argument("--save-preds", help="write per-record predictions (JSONL: id, {label: [[start, end]]}) here")
     ap.add_argument("--max-per-source", type=int, default=0, help="random sample per source (0 = all)")
     ap.add_argument("--seed", type=int, default=13)
+    ap.add_argument("--onnx", help="run the encoder from this ONNX file (legalner.onnx_export)")
+    ap.add_argument("--id-map", help="token id map of a vocabulary-pruned ONNX encoder (.npy)")
     args = ap.parse_args(argv)
 
     from gliner2 import AutoExtractor
     if args.device is None:
         import torch
         args.device = "cuda" if torch.cuda.is_available() else "cpu"
-    model = AutoExtractor.from_pretrained(args.model, map_location=args.device)
-    model.eval()
+    if args.onnx:  # encoder in ONNX Runtime, heads and decoding unchanged (legalner.onnx_export)
+        from legalner.onnx_export import load_with_onnx
+        model = load_with_onnx(args.model, args.onnx, args.id_map)
+    else:
+        model = AutoExtractor.from_pretrained(args.model, map_location=args.device)
+        model.eval()
     records = list(read_records(args.data))
     if args.max_per_source:
         import random

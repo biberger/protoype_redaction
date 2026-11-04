@@ -146,13 +146,19 @@ def main(argv=None):
     ap.add_argument("--thresholds", help="JSON {label: threshold} (legalner.thresholds); scored as an extra variant")
     ap.add_argument("--propagate", action="store_true", help="also score with document-level name propagation")
     ap.add_argument("--cands-cache", help="directory for the model's candidates per chunk size (reused if present)")
+    ap.add_argument("--onnx", help="run the encoder from this ONNX file (legalner.onnx_export)")
+    ap.add_argument("--id-map", help="token id map of a vocabulary-pruned ONNX encoder (.npy)")
     args = ap.parse_args(argv)
 
     import torch
     from gliner2 import AutoExtractor
     device = args.device or ("cuda" if torch.cuda.is_available() else "cpu")
-    model = AutoExtractor.from_pretrained(args.model, map_location=device)
-    model.eval()
+    if args.onnx:  # encoder in ONNX Runtime, heads and decoding unchanged (legalner.onnx_export)
+        from legalner.onnx_export import load_with_onnx
+        model = load_with_onnx(args.model, args.onnx, args.id_map)
+    else:
+        model = AutoExtractor.from_pretrained(args.model, map_location=device)
+        model.eval()
     records = []
     for path in args.data:
         recs = list(read_records([path]))
