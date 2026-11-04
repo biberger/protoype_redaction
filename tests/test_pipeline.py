@@ -719,3 +719,16 @@ def test_threshold_tuning_lowers_cutoff_for_a_low_confidence_hit():
     chosen, _ = tune([rec], conf, min_support=1)
     assert chosen["person"] == 0.4
     assert apply_thresholds(conf, chosen)[0]["person"] == {(0, 9)}
+
+
+def test_propagate_masks_later_mentions_but_not_common_words():
+    from legalner.postprocess import propagate
+    t1 = "Klägerin: Mag. Maria Huber, vertreten durch Huber Bau GmbH (HBG)."
+    t2 = "Die Klägerin HUBER verweist auf Hubers Schreiben. Die HBG und Huber Bau zahlten. Der Richter Wien."
+    a, b = t1.index("Mag. Maria Huber"), t1.index("Huber Bau GmbH")
+    m1 = [(a, a + len("Mag. Maria Huber"), "person"), (b, b + len("Huber Bau GmbH"), "organization")]
+    out = propagate([t1, t2], [m1, []])
+    got = {t2[s:e] for s, e, _ in out[1]}
+    assert {"HUBER", "Hubers", "HBG", "Huber Bau"} <= got
+    assert "Richter" not in got and "Wien" not in got
+    assert {t1[s:e] for s, e, _ in out[0]} == {"Mag. Maria Huber", "Huber Bau GmbH", "HBG"}

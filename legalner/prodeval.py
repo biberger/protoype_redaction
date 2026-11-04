@@ -16,6 +16,7 @@ Scored on characters and mentions, which is what matters for pseudonymisation:
 import argparse
 import collections
 import json
+import pathlib
 import time
 
 from legalner.build import read_records
@@ -39,8 +40,8 @@ def covered(rec):
     return labels - set(rec.get("meta", {}).get("uncovered", ()))
 
 
-def predict_masks(model, text, chunk_size, threshold=0.5, query=PROD_QUERY):
-    """Masked spans as the service computes them: [(start, end, label)]."""
+def predict_cands(model, text, chunk_size, threshold=0.5, query=PROD_QUERY):
+    """Candidate spans [(start, end, label, confidence)] of one service call, before thresholds and nesting."""
     res = model.extract_entities_long(text, query, threshold=threshold, chunk_size=chunk_size,
                                       chunk_overlap=max(8, chunk_size // 4), include_spans=True,
                                       include_confidence=True)
@@ -48,18 +49,43 @@ def predict_masks(model, text, chunk_size, threshold=0.5, query=PROD_QUERY):
     for name, mentions in res.get("entities", res).items():
         lab = name.replace(" ", "_")
         for m in mentions:
-            if m.get("confidence", 1.0) < threshold or lab in VISIBLE:
+            if lab in VISIBLE:
                 continue
             if lab in ("location", "organization") and _norm(text[m["start"]:m["end"]]) in COUNTRIES:
                 continue
             if m["end"] - m["start"] > 1:
-                cands.append((m["start"], m["end"], lab, m.get("confidence", 1.0)))
+                cands.append((m["start"], m["end"], lab, float(m.get("confidence", 1.0))))
+    return cands
+
+
+def select(cands, thresholds=None, default=0.5):
+    """The service's post-processing on candidates: per-label threshold, then the longest of nested spans wins."""
+    thresholds = thresholds or {}
+    cands = [c for c in cands if c[3] >= thresholds.get(c[2], default)]
     cands.sort(key=lambda c: (-(c[1] - c[0]), -c[3]))
     kept = []
     for c in cands:  # longest span wins over spans inside it
         if not any(k[0] <= c[0] and c[1] <= k[1] for k in kept):
             kept.append(c)
     return [(s, e, lab) for s, e, lab, _ in kept]
+
+
+def predict_masks(model, text, chunk_size, threshold=0.5, query=PROD_QUERY):
+    """Masked spans as the service computes them: [(start, end, label)]."""
+    return select(predict_cands(model, text, chunk_size, threshold, query), default=threshold)
+
+
+def propagate_docs(records, masks):
+    """Name propagation (legalner.postprocess) over the records of each document."""
+    from legalner.postprocess import propagate
+    by_doc = collections.defaultdict(list)
+    for i, rec in enumerate(records):
+        by_doc[rec.get("doc_id", rec["id"])].append(i)
+    out = list(masks)
+    for idxs in by_doc.values():
+        for i, m in zip(idxs, propagate([records[i]["text"] for i in idxs], [masks[i] for i in idxs])):
+            out[i] = m
+    return out
 
 
 def score(records, masks):
@@ -112,6 +138,9 @@ def main(argv=None):
     ap.add_argument("--device", default=None)
     ap.add_argument("--max-records", type=int, default=0, help="first N records per file (0 = all)")
     ap.add_argument("--out")
+    ap.add_argument("--thresholds", help="JSON {label: threshold} (legalner.thresholds); scored as an extra variant")
+    ap.add_argument("--propagate", action="store_true", help="also score with document-level name propagation")
+    ap.add_argument("--cands-cache", help="directory for the model's candidates per chunk size (reused if present)")
     args = ap.parse_args(argv)
 
     import torch
@@ -125,21 +154,42 @@ def main(argv=None):
         records += recs[:args.max_records] if args.max_records else recs
     report = {"model": args.model, "threshold": args.threshold, "n_records": len(records), "data": args.data,
               "query": PROD_QUERY, "by_chunk_size": {}}
+    per_label = json.load(open(args.thresholds)) if args.thresholds else None
+    query = min([args.threshold, *(per_label or {}).values()])
     for size in (int(x) for x in args.chunk_sizes.split(",")):
+        cache = pathlib.Path(args.cands_cache, f"cands_{size}.jsonl") if args.cands_cache else None
         t = time.time()
-        with torch.inference_mode():
-            masks = [predict_masks(model, r["text"], size, args.threshold) for r in records]
+        if cache and cache.exists():
+            got = {d["id"]: [tuple(c) for c in d["cands"]] for d in map(json.loads, cache.open())}
+            cands = [got[r["id"]] for r in records]
+        else:
+            with torch.inference_mode():
+                cands = [predict_cands(model, r["text"], size, query) for r in records]
+            if cache:
+                cache.parent.mkdir(parents=True, exist_ok=True)
+                with cache.open("w") as fh:
+                    for r, c in zip(records, cands):
+                        fh.write(json.dumps({"id": r["id"], "cands": c}) + "\n")
         dt = time.time() - t
-        res = score(records, masks)
-        res["chars_per_second"] = sum(len(r["text"]) for r in records) / dt
-        report["by_chunk_size"][size] = res
-        print(f"chunk {size}: {res['chars_per_second']:.0f} chars/s")
-        for key, v in res.items():
-            if key.startswith(("all", "source=")):
-                fmt = lambda x: "  –  " if x is None else f"{x:.4f}"  # noqa: E731
-                print(f"  {key:28s} recall {fmt(v['char_recall'])}  leaked {fmt(v['leaked_mentions'])}  "
-                      f"precision {fmt(v['char_precision'])}  visible-masked {fmt(v['visible_masked'])}  "
-                      f"n={v['mentions']}")
+        variants = {"base": [select(c, default=args.threshold) for c in cands]}
+        if per_label:
+            variants["thresholds"] = [select(c, per_label, args.threshold) for c in cands]
+        if args.propagate:
+            variants["propagate"] = propagate_docs(records, variants["base"])
+            if per_label:
+                variants["thresholds+propagate"] = propagate_docs(records, variants["thresholds"])
+        report["by_chunk_size"][size] = {}
+        print(f"chunk {size}: {sum(len(r['text']) for r in records) / dt:.0f} chars/s")
+        for name, masks in variants.items():
+            res = score(records, masks)
+            report["by_chunk_size"][size][name] = res
+            print(f" [{name}]")
+            for key, v in res.items():
+                if key.startswith(("all", "source=")):
+                    fmt = lambda x: "  –  " if x is None else f"{x:.4f}"  # noqa: E731
+                    print(f"  {key:28s} recall {fmt(v['char_recall'])}  leaked {fmt(v['leaked_mentions'])}  "
+                          f"precision {fmt(v['char_precision'])}  visible-masked {fmt(v['visible_masked'])}  "
+                          f"n={v['mentions']}")
     if args.out:
         with open(args.out, "w") as fh:
             json.dump(report, fh, indent=2)
