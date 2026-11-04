@@ -76,8 +76,12 @@ def seeds(text, masks):
     return out
 
 
-def propagate(texts, masks_list):
-    """texts and masks of the records of one document -> masks with further occurrences added."""
+def propagate(texts, masks_list, protected_list=None):
+    """texts and masks of the records of one document -> masks with further occurrences added.
+
+    protected_list: per text, (start, end) regions the model labelled as visible (court, date, legal norm,
+    country); no occurrence inside or across them is masked ("Rechtsanwaltskammer Wien" inside the court name
+    "Disziplinarrat der Rechtsanwaltskammer Wien", "EWG" inside a directive's title)."""
     all_seeds, rank = {}, {}
     for text, masks in zip(texts, masks_list):
         for pat, lab, r in seeds(text, masks):
@@ -89,9 +93,10 @@ def propagate(texts, masks_list):
     pats = sorted(all_seeds, key=lambda p: rank[p])
     rx = re.compile(rf"(?<!{WORD})(?:" + "|".join(f"(?P<p{i}>{p})" for i, p in enumerate(pats)) + rf")(?!{WORD})")
     out = []
-    for text, masks in zip(texts, masks_list):
+    protected_list = protected_list or [[] for _ in texts]
+    for text, masks, prot in zip(texts, masks_list, protected_list):
         new = list(masks)
-        taken = sorted((s, e) for s, e, _ in masks)
+        taken = sorted((s, e) for s, e, _ in masks) + [tuple(p) for p in prot]
         for m in rx.finditer(text):
             s, e = m.span()
             if any(a < e and s < b for a, b in taken):

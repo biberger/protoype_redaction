@@ -48,9 +48,7 @@ def predict_cands(model, text, chunk_size, threshold=0.5, query=PROD_QUERY):
     cands = []
     for name, mentions in res.get("entities", res).items():
         lab = name.replace(" ", "_")
-        for m in mentions:
-            if lab in VISIBLE:
-                continue
+        for m in mentions:  # visible labels are kept as candidates: they protect text from name propagation
             if lab in ("location", "organization") and _norm(text[m["start"]:m["end"]]) in COUNTRIES:
                 continue
             if m["end"] - m["start"] > 1:
@@ -61,7 +59,7 @@ def predict_cands(model, text, chunk_size, threshold=0.5, query=PROD_QUERY):
 def select(cands, thresholds=None, default=0.5):
     """The service's post-processing on candidates: per-label threshold, then the longest of nested spans wins."""
     thresholds = thresholds or {}
-    cands = [c for c in cands if c[3] >= thresholds.get(c[2], default)]
+    cands = [c for c in cands if c[3] >= thresholds.get(c[2], default) and c[2] not in VISIBLE]
     cands.sort(key=lambda c: (-(c[1] - c[0]), -c[3]))
     kept = []
     for c in cands:  # longest span wins over spans inside it
@@ -75,7 +73,13 @@ def predict_masks(model, text, chunk_size, threshold=0.5, query=PROD_QUERY):
     return select(predict_cands(model, text, chunk_size, threshold, query), default=threshold)
 
 
-def propagate_docs(records, masks):
+def protected(cands, thresholds=None, default=0.5):
+    """Spans the model labelled as visible (court, date, legal norm, country): no propagation into them."""
+    thresholds = thresholds or {}
+    return [(s, e) for s, e, lab, c in cands if lab in VISIBLE and c >= thresholds.get(lab, default)]
+
+
+def propagate_docs(records, masks, protect=None):
     """Name propagation (legalner.postprocess) over the records of each document."""
     from legalner.postprocess import propagate
     by_doc = collections.defaultdict(list)
@@ -83,7 +87,8 @@ def propagate_docs(records, masks):
         by_doc[rec.get("doc_id", rec["id"])].append(i)
     out = list(masks)
     for idxs in by_doc.values():
-        for i, m in zip(idxs, propagate([records[i]["text"] for i in idxs], [masks[i] for i in idxs])):
+        prot = [protect[i] for i in idxs] if protect else None
+        for i, m in zip(idxs, propagate([records[i]["text"] for i in idxs], [masks[i] for i in idxs], prot)):
             out[i] = m
     return out
 
@@ -175,9 +180,11 @@ def main(argv=None):
         if per_label:
             variants["thresholds"] = [select(c, per_label, args.threshold) for c in cands]
         if args.propagate:
-            variants["propagate"] = propagate_docs(records, variants["base"])
+            variants["propagate"] = propagate_docs(records, variants["base"],
+                                                   [protected(c, default=args.threshold) for c in cands])
             if per_label:
-                variants["thresholds+propagate"] = propagate_docs(records, variants["thresholds"])
+                variants["thresholds+propagate"] = propagate_docs(
+                    records, variants["thresholds"], [protected(c, per_label, args.threshold) for c in cands])
         report["by_chunk_size"][size] = {}
         print(f"chunk {size}: {sum(len(r['text']) for r in records) / dt:.0f} chars/s")
         for name, masks in variants.items():

@@ -732,3 +732,13 @@ def test_propagate_masks_later_mentions_but_not_common_words():
     assert {"HUBER", "Hubers", "HBG", "Huber Bau"} <= got
     assert "Richter" not in got and "Wien" not in got
     assert {t1[s:e] for s, e, _ in out[0]} == {"Mag. Maria Huber", "Huber Bau GmbH", "HBG"}
+
+
+def test_propagate_respects_protected_visible_spans():
+    from legalner.postprocess import propagate
+    t = "Die Rechtsanwaltskammer Wien zeigte an. Der Disziplinarrat der Rechtsanwaltskammer Wien entschied."
+    org = (t.index("Rechtsanwaltskammer Wien"), t.index("Rechtsanwaltskammer Wien") + 24, "organization")
+    court_start = t.index("Disziplinarrat")
+    court = (court_start, court_start + len("Disziplinarrat der Rechtsanwaltskammer Wien"))
+    assert len(propagate([t], [[org]])[0]) == 2  # without protection the court name gets masked
+    assert propagate([t], [[org]], [[court]])[0] == [org]
