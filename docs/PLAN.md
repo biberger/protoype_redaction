@@ -443,6 +443,23 @@ mode, all sets: leaked mentions 5.7 % → 4.2 %, PII char recall 0.954 → 0.968
 masked 0.5 % → 1.1 %; MAPA_v2 leaks 20.9 % → 8.5 %. A first propagation version masked chamber names inside court
 names (visible masked 4.5 %) and was fixed by protecting visible predictions. Integration: `docs/ISEL_SERVICE_INTEGRATION.md`.
 
+ONNX, vocabulary pruning, int8 (2026-11-04, CPU; `legalner/onnx_export.py`, `legalner/vocab_prune.py`,
+`legalner/bench.py`). Only the encoder (97 % of the parameters) is exported; GLiNER2's heads and decoding stay in
+PyTorch (a torch-free runtime would mean reimplementing ~8,500 lines of decoding).
+- ONNX fp32 (`sb-aiss/isel-v3-onnx`): encoder states max |Δ| 1.8e-4; gold F1 0.9775 = PyTorch; 1,281 vs 1,162 chars/s.
+- int8 variants on gold (PyTorch 0.9775): dynamic, all MatMuls 0.967 (337 MB, fastest); dynamic, weight MatMuls only
+  0.967; FFN only 0.965 (the loss comes from dynamically quantized activations, not from attention); weight-only int8
+  (MatMulNBits) 0.977-0.978.
+- Vocabulary pruning: keep Latin/Cyrillic/Greek script + every training token = 169,251 of 250,112 rows, 0 OOV on
+  657k held-out tokens (corpus-only: 79k rows but 470 OOV, rejected). Tokenizer unchanged, `id_map.npy`.
+- Final `sb-aiss/isel-v3-int8`: pruned + weight-only int8 + uint8 embeddings, **285 MB** (from 1.1 GB); gold F1 0.9769;
+  production mode with thresholds + propagation: leaked 4.15 % (PyTorch 4.24 %), recall 0.969, precision 0.965,
+  visible masked 1.3 %. CPU speed ≈ PyTorch (1,151 chars/s): the gain is size and memory, not speed; the GLiNER2
+  pre-/post-processing around 96-word chunks is probably a large share of the time (not profiled yet).
+- Flair re-measured in a separate venv gave 165 chars/s unbatched per paragraph, not comparable with the earlier
+  1,292 chars/s (different method); by the earlier figure Isel v3 in PyTorch is now about as fast as Flair (roles are
+  no longer queried in a second pass).
+
 ## Open questions
 
 - Which labels does the redaction policy actually mask? Likely all `pii` group labels plus every `person` that is
