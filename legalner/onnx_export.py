@@ -88,11 +88,24 @@ def export(model_dir, out, opset=17):
     return out
 
 
-def quantize(src, out):
+def quantize(src, out, mode="weights"):
+    """Dynamic int8 quantization.
+
+    mode "all": every MatMul (also activation x activation, e.g. attention scores: loses about 1 F1 point on gold);
+    "weights": only MatMuls with a weight matrix (Q/K/V, attention output, feed-forward); "ffn": feed-forward only."""
+    import onnx
     from onnxruntime.quantization import QuantType, quantize_dynamic
     out = pathlib.Path(out)
     out.parent.mkdir(parents=True, exist_ok=True)
-    quantize_dynamic(str(src), str(out), weight_type=QuantType.QInt8, per_channel=True)
+    nodes = None
+    if mode != "all":
+        g = onnx.load(str(src), load_external_data=False).graph
+        inits = {i.name for i in g.initializer}
+        nodes = [n.name for n in g.node if n.op_type == "MatMul" and any(x in inits for x in n.input)
+                 and (mode == "weights" or "/intermediate/" in n.name or "/output/dense" in n.name
+                      and "/attention/" not in n.name)]
+    quantize_dynamic(str(src), str(out), weight_type=QuantType.QInt8, per_channel=True,
+                     nodes_to_quantize=nodes, op_types_to_quantize=["MatMul"] if nodes else None)
     return out
 
 
@@ -127,6 +140,7 @@ def main(argv=None):
     q = sub.add_parser("quantize")
     q.add_argument("src")
     q.add_argument("-o", "--out", required=True)
+    q.add_argument("--mode", choices=["all", "weights", "ffn"], default="weights")
     p = sub.add_parser("parity")
     p.add_argument("model")
     p.add_argument("onnx")
@@ -137,7 +151,7 @@ def main(argv=None):
     if args.cmd == "export":
         print(export(args.model, args.out))
     elif args.cmd == "quantize":
-        print(quantize(args.src, args.out))
+        print(quantize(args.src, args.out, args.mode))
     else:
         print(json.dumps(parity(args.model, args.onnx, args.data, args.n, args.id_map), indent=1))
 
