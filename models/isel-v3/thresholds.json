@@ -1,0 +1,23 @@
+{
+  "address": 0.85,
+  "bank_account": 0.5,
+  "case_number": 0.15,
+  "company_register_number": 0.5,
+  "country": 0.95,
+  "court": 0.45,
+  "date": 0.95,
+  "date_of_birth": 0.5,
+  "email": 0.95,
+  "id_document_number": 0.5,
+  "land_register_id": 0.1,
+  "legal_norm": 0.3,
+  "license_plate": 0.5,
+  "location": 0.1,
+  "organization": 0.1,
+  "other_identifier": 0.3,
+  "person": 0.1,
+  "phone_number": 0.5,
+  "social_security_number": 0.5,
+  "street": 0.9,
+  "tax_id": 0.5
+}

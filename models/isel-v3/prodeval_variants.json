@@ -1,0 +1,662 @@
+{
+  "model": "out/isel-v3/best",
+  "threshold": 0.5,
+  "n_records": 1041,
+  "data": [
+    "data/canonical/gold_at.jsonl",
+    "data/canonical/mapa_v2.jsonl",
+    "data/test/obdk_synth/obdk_synth_test.docs.jsonl",
+    "data/test/regression/regression.jsonl"
+  ],
+  "query": [
+    "person",
+    "organization",
+    "address",
+    "street",
+    "location",
+    "case number",
+    "bank account",
+    "social security number",
+    "tax id",
+    "company register number",
+    "license plate",
+    "land register id",
+    "id document number",
+    "other identifier",
+    "phone number",
+    "email",
+    "date of birth",
+    "court",
+    "date",
+    "legal norm",
+    "country"
+  ],
+  "by_chunk_size": {
+    "96": {
+      "base": {
+        "all": {
+          "char_recall": 0.9542937159759589,
+          "leaked_mentions": 0.05692264177626927,
+          "char_precision": 0.9780638572350032,
+          "visible_masked": 0.004948841352518342,
+          "mentions": 14142
+        },
+        "label=address": {
+          "char_recall": null,
+          "leaked_mentions": 0.032758620689655175,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 1160
+        },
+        "label=bank_account": {
+          "char_recall": null,
+          "leaked_mentions": 0.0,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 454
+        },
+        "label=case_number": {
+          "char_recall": null,
+          "leaked_mentions": 0.09324522760646109,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 2724
+        },
+        "label=company_register_number": {
+          "char_recall": null,
+          "leaked_mentions": 0.0,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 544
+        },
+        "label=date_of_birth": {
+          "char_recall": null,
+          "leaked_mentions": 0.0,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 120
+        },
+        "label=email": {
+          "char_recall": null,
+          "leaked_mentions": 0.0,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 70
+        },
+        "label=id_document_number": {
+          "char_recall": null,
+          "leaked_mentions": 0.0,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 176
+        },
+        "label=land_register_id": {
+          "char_recall": null,
+          "leaked_mentions": 0.033707865168539325,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 534
+        },
+        "label=license_plate": {
+          "char_recall": null,
+          "leaked_mentions": 0.022988505747126436,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 174
+        },
+        "label=location": {
+          "char_recall": null,
+          "leaked_mentions": 0.009228187919463088,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 2384
+        },
+        "label=organization": {
+          "char_recall": null,
+          "leaked_mentions": 0.21588207322872088,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 4206
+        },
+        "label=other_identifier": {
+          "char_recall": null,
+          "leaked_mentions": 0.008771929824561403,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 456
+        },
+        "label=person": {
+          "char_recall": null,
+          "leaked_mentions": 0.025367541078120497,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 13876
+        },
+        "label=phone_number": {
+          "char_recall": null,
+          "leaked_mentions": 0.008130081300813009,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 492
+        },
+        "label=social_security_number": {
+          "char_recall": null,
+          "leaked_mentions": 0.00641025641025641,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 312
+        },
+        "label=street": {
+          "char_recall": null,
+          "leaked_mentions": 0.034482758620689655,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 116
+        },
+        "label=tax_id": {
+          "char_recall": null,
+          "leaked_mentions": 0.0,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 486
+        },
+        "source=gold_at": {
+          "char_recall": 0.9854570129107981,
+          "leaked_mentions": 0.021711688967432467,
+          "char_precision": 0.9895219505008839,
+          "visible_masked": 0.000821739253634071,
+          "mentions": 3961
+        },
+        "source=mapa_v2": {
+          "char_recall": 0.8107928679817906,
+          "leaked_mentions": 0.20874751491053678,
+          "char_precision": 0.9085981507067701,
+          "visible_masked": 0.0021782178217821784,
+          "mentions": 1006
+        },
+        "source=regression": {
+          "char_recall": 0.9764089121887287,
+          "leaked_mentions": 0.02158273381294964,
+          "char_precision": 0.9906914893617021,
+          "visible_masked": 0.0,
+          "mentions": 139
+        },
+        "source=synthetic_obdk": {
+          "char_recall": 0.9525210354943744,
+          "leaked_mentions": 0.055998229305002215,
+          "char_precision": 0.9781664087135727,
+          "visible_masked": 0.0068784120045793,
+          "mentions": 9036
+        }
+      },
+      "thresholds": {
+        "all": {
+          "char_recall": 0.964095786525693,
+          "leaked_mentions": 0.047093763258379294,
+          "char_precision": 0.9716221715989154,
+          "visible_masked": 0.008870798124389127,
+          "mentions": 14142
+        },
+        "label=address": {
+          "char_recall": null,
+          "leaked_mentions": 0.032758620689655175,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 1160
+        },
+        "label=bank_account": {
+          "char_recall": null,
+          "leaked_mentions": 0.0,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 454
+        },
+        "label=case_number": {
+          "char_recall": null,
+          "leaked_mentions": 0.055800293685756244,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 2724
+        },
+        "label=company_register_number": {
+          "char_recall": null,
+          "leaked_mentions": 0.0,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 544
+        },
+        "label=date_of_birth": {
+          "char_recall": null,
+          "leaked_mentions": 0.0,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 120
+        },
+        "label=email": {
+          "char_recall": null,
+          "leaked_mentions": 0.0,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 70
+        },
+        "label=id_document_number": {
+          "char_recall": null,
+          "leaked_mentions": 0.0,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 176
+        },
+        "label=land_register_id": {
+          "char_recall": null,
+          "leaked_mentions": 0.018726591760299626,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 534
+        },
+        "label=license_plate": {
+          "char_recall": null,
+          "leaked_mentions": 0.022988505747126436,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 174
+        },
+        "label=location": {
+          "char_recall": null,
+          "leaked_mentions": 0.006711409395973154,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 2384
+        },
+        "label=organization": {
+          "char_recall": null,
+          "leaked_mentions": 0.18544935805991442,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 4206
+        },
+        "label=other_identifier": {
+          "char_recall": null,
+          "leaked_mentions": 0.008771929824561403,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 456
+        },
+        "label=person": {
+          "char_recall": null,
+          "leaked_mentions": 0.022917267223983857,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 13876
+        },
+        "label=phone_number": {
+          "char_recall": null,
+          "leaked_mentions": 0.008130081300813009,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 492
+        },
+        "label=social_security_number": {
+          "char_recall": null,
+          "leaked_mentions": 0.00641025641025641,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 312
+        },
+        "label=street": {
+          "char_recall": null,
+          "leaked_mentions": 0.034482758620689655,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 116
+        },
+        "label=tax_id": {
+          "char_recall": null,
+          "leaked_mentions": 0.0,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 486
+        },
+        "source=gold_at": {
+          "char_recall": 0.9887397300469484,
+          "leaked_mentions": 0.018682150971976775,
+          "char_precision": 0.9858109343572865,
+          "visible_masked": 0.0009067467626306991,
+          "mentions": 3961
+        },
+        "source=mapa_v2": {
+          "char_recall": 0.8844840667678301,
+          "leaked_mentions": 0.13618290258449303,
+          "char_precision": 0.8846518687156137,
+          "visible_masked": 0.004702970297029703,
+          "mentions": 1006
+        },
+        "source=regression": {
+          "char_recall": 0.9764089121887287,
+          "leaked_mentions": 0.02158273381294964,
+          "char_precision": 0.9906914893617021,
+          "visible_masked": 0.0,
+          "mentions": 139
+        },
+        "source=synthetic_obdk": {
+          "char_recall": 0.9598794287372255,
+          "leaked_mentions": 0.05002213368747233,
+          "char_precision": 0.9725381958337757,
+          "visible_masked": 0.012366003425013955,
+          "mentions": 9036
+        }
+      },
+      "propagate": {
+        "all": {
+          "char_recall": 0.9600050347713899,
+          "leaked_mentions": 0.05027577428935087,
+          "char_precision": 0.9719947749068085,
+          "visible_masked": 0.009180100708921524,
+          "mentions": 14142
+        },
+        "label=address": {
+          "char_recall": null,
+          "leaked_mentions": 0.032758620689655175,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 1160
+        },
+        "label=bank_account": {
+          "char_recall": null,
+          "leaked_mentions": 0.0,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 454
+        },
+        "label=case_number": {
+          "char_recall": null,
+          "leaked_mentions": 0.08663729809104258,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 2724
+        },
+        "label=company_register_number": {
+          "char_recall": null,
+          "leaked_mentions": 0.0,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 544
+        },
+        "label=date_of_birth": {
+          "char_recall": null,
+          "leaked_mentions": 0.0,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 120
+        },
+        "label=email": {
+          "char_recall": null,
+          "leaked_mentions": 0.0,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 70
+        },
+        "label=id_document_number": {
+          "char_recall": null,
+          "leaked_mentions": 0.0,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 176
+        },
+        "label=land_register_id": {
+          "char_recall": null,
+          "leaked_mentions": 0.033707865168539325,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 534
+        },
+        "label=license_plate": {
+          "char_recall": null,
+          "leaked_mentions": 0.022988505747126436,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 174
+        },
+        "label=location": {
+          "char_recall": null,
+          "leaked_mentions": 0.009228187919463088,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 2384
+        },
+        "label=organization": {
+          "char_recall": null,
+          "leaked_mentions": 0.1797432239657632,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 4206
+        },
+        "label=other_identifier": {
+          "char_recall": null,
+          "leaked_mentions": 0.008771929824561403,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 456
+        },
+        "label=person": {
+          "char_recall": null,
+          "leaked_mentions": 0.024070337272989333,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 13876
+        },
+        "label=phone_number": {
+          "char_recall": null,
+          "leaked_mentions": 0.008130081300813009,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 492
+        },
+        "label=social_security_number": {
+          "char_recall": null,
+          "leaked_mentions": 0.00641025641025641,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 312
+        },
+        "label=street": {
+          "char_recall": null,
+          "leaked_mentions": 0.034482758620689655,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 116
+        },
+        "label=tax_id": {
+          "char_recall": null,
+          "leaked_mentions": 0.0,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 486
+        },
+        "source=gold_at": {
+          "char_recall": 0.9863006161971831,
+          "leaked_mentions": 0.02095430446856854,
+          "char_precision": 0.9890576725025747,
+          "visible_masked": 0.000821739253634071,
+          "mentions": 3961
+        },
+        "source=mapa_v2": {
+          "char_recall": 0.8820182094081942,
+          "leaked_mentions": 0.13320079522862824,
+          "char_precision": 0.8853769992383854,
+          "visible_masked": 0.006683168316831683,
+          "mentions": 1006
+        },
+        "source=regression": {
+          "char_recall": 0.9829619921363041,
+          "leaked_mentions": 0.014388489208633094,
+          "char_precision": 0.9881422924901185,
+          "visible_masked": 0.0,
+          "mentions": 139
+        },
+        "source=synthetic_obdk": {
+          "char_recall": 0.9547938360359779,
+          "leaked_mentions": 0.05444887118193891,
+          "char_precision": 0.9716462714477871,
+          "visible_masked": 0.012489001163747836,
+          "mentions": 9036
+        }
+      },
+      "thresholds+propagate": {
+        "all": {
+          "char_recall": 0.9676358601592246,
+          "leaked_mentions": 0.04242681374628765,
+          "char_precision": 0.9671438531013624,
+          "visible_masked": 0.010646194959605082,
+          "mentions": 14142
+        },
+        "label=address": {
+          "char_recall": null,
+          "leaked_mentions": 0.032758620689655175,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 1160
+        },
+        "label=bank_account": {
+          "char_recall": null,
+          "leaked_mentions": 0.0,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 454
+        },
+        "label=case_number": {
+          "char_recall": null,
+          "leaked_mentions": 0.05433186490455213,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 2724
+        },
+        "label=company_register_number": {
+          "char_recall": null,
+          "leaked_mentions": 0.0,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 544
+        },
+        "label=date_of_birth": {
+          "char_recall": null,
+          "leaked_mentions": 0.0,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 120
+        },
+        "label=email": {
+          "char_recall": null,
+          "leaked_mentions": 0.0,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 70
+        },
+        "label=id_document_number": {
+          "char_recall": null,
+          "leaked_mentions": 0.0,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 176
+        },
+        "label=land_register_id": {
+          "char_recall": null,
+          "leaked_mentions": 0.018726591760299626,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 534
+        },
+        "label=license_plate": {
+          "char_recall": null,
+          "leaked_mentions": 0.022988505747126436,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 174
+        },
+        "label=location": {
+          "char_recall": null,
+          "leaked_mentions": 0.006711409395973154,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 2384
+        },
+        "label=organization": {
+          "char_recall": null,
+          "leaked_mentions": 0.15691868758915833,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 4206
+        },
+        "label=other_identifier": {
+          "char_recall": null,
+          "leaked_mentions": 0.008771929824561403,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 456
+        },
+        "label=person": {
+          "char_recall": null,
+          "leaked_mentions": 0.022340732199481118,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 13876
+        },
+        "label=phone_number": {
+          "char_recall": null,
+          "leaked_mentions": 0.008130081300813009,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 492
+        },
+        "label=social_security_number": {
+          "char_recall": null,
+          "leaked_mentions": 0.00641025641025641,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 312
+        },
+        "label=street": {
+          "char_recall": null,
+          "leaked_mentions": 0.034482758620689655,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 116
+        },
+        "label=tax_id": {
+          "char_recall": null,
+          "leaked_mentions": 0.0,
+          "char_precision": null,
+          "visible_masked": null,
+          "mentions": 486
+        },
+        "source=gold_at": {
+          "char_recall": 0.9890148180751174,
+          "leaked_mentions": 0.018177227972734158,
+          "char_precision": 0.9850585420205673,
+          "visible_masked": 0.0009067467626306991,
+          "mentions": 3961
+        },
+        "source=mapa_v2": {
+          "char_recall": 0.9294385432473444,
+          "leaked_mentions": 0.08449304174950298,
+          "char_precision": 0.8619931392382796,
+          "visible_masked": 0.006485148514851485,
+          "mentions": 1006
+        },
+        "source=regression": {
+          "char_recall": 0.9829619921363041,
+          "leaked_mentions": 0.014388489208633094,
+          "char_precision": 0.9881422924901185,
+          "visible_masked": 0.0,
+          "mentions": 139
+        },
+        "source=synthetic_obdk": {
+          "char_recall": 0.9612979141816306,
+          "leaked_mentions": 0.04880478087649402,
+          "char_precision": 0.9686284382435824,
+          "visible_masked": 0.014740805919029643,
+          "mentions": 9036
+        }
+      }
+    }
+  }
+}

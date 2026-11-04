@@ -436,6 +436,13 @@ Step 6, training run v3 = **Isel v3** (`sb-aiss/isel-v3`, private), 2026-11-03/0
 Follow-up (EU weighting, bare "Kommission", OBDK convention alignment) and lessons learned for the next run:
 `docs/LESSONS_LEARNED.md`.
 
+Post-processing for Isel v3 (2026-11-04, CPU): per-label thresholds tuned on a dev sample (2,443 records without LER
+and replay; F2 with precision ≥ 0.85 for PII labels, F1 for visible labels; `models/isel-v3/thresholds.json`) and
+document-level name propagation (`legalner/postprocess.py`; never into text the model labelled visible). Production
+mode, all sets: leaked mentions 5.7 % → 4.2 %, PII char recall 0.954 → 0.968, precision 0.978 → 0.967, visible text
+masked 0.5 % → 1.1 %; MAPA_v2 leaks 20.9 % → 8.5 %. A first propagation version masked chamber names inside court
+names (visible masked 4.5 %) and was fixed by protecting visible predictions. Integration: `docs/ISEL_SERVICE_INTEGRATION.md`.
+
 ## Open questions
 
 - Which labels does the redaction policy actually mask? Likely all `pii` group labels plus every `person` that is
