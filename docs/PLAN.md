@@ -433,6 +433,9 @@ Step 6, training run v3 = **Isel v3** (`sb-aiss/isel-v3`, private), 2026-11-03/0
   cause: without the mix EUR-Lex fell from 2 % to 0.2 % of training. 384-word chunks are worse than 96 (recall
   0.871 vs 0.955); keep 96 in production.
 
+Follow-up (EU weighting, bare "Kommission", OBDK convention alignment) and lessons learned for the next run:
+`docs/LESSONS_LEARNED.md`.
+
 ## Open questions
 
 - Which labels does the redaction policy actually mask? Likely all `pii` group labels plus every `person` that is
