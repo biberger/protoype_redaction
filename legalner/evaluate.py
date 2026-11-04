@@ -104,8 +104,10 @@ def to_coarse(records, predictions):
     return recs, preds
 
 
-def predict(model, records, threshold, batch_size):
-    """Run the model on each record with exactly the record's covered labels."""
+def predict(model, records, threshold, batch_size, with_conf=False):
+    """Run the model on each record with exactly the record's covered labels.
+
+    with_conf: values are {(start, end): confidence} instead of sets of (start, end)."""
     preds = []
     for i in range(0, len(records), batch_size):
         batch = records[i:i + batch_size]
@@ -125,13 +127,24 @@ def predict(model, records, threshold, batch_size):
                 names = {surface(lab): lab for lab in part}
                 results = model.batch_extract_entities(
                     [batch[j]["text"] for j in idxs], list(names), threshold=threshold,
-                    include_spans=True, batch_size=batch_size)
+                    include_spans=True, include_confidence=with_conf, batch_size=batch_size)
                 for j, res in zip(idxs, results):
                     ents = res.get("entities", res)
-                    out[j].update({names[name]: {(m["start"], m["end"]) for m in mentions}
-                                   for name, mentions in ents.items() if name in names})
+                    if with_conf:
+                        out[j].update({names[name]: {(m["start"], m["end"]): float(m.get("confidence", 1.0))
+                                                     for m in mentions}
+                                       for name, mentions in ents.items() if name in names})
+                    else:
+                        out[j].update({names[name]: {(m["start"], m["end"]) for m in mentions}
+                                       for name, mentions in ents.items() if name in names})
         preds.extend(out)
     return preds
+
+
+def apply_thresholds(preds, thresholds, default=0.5):
+    """{label: {(start, end): conf}} -> {label: {(start, end)}} keeping spans at or above the label's threshold."""
+    return [{lab: {k for k, c in spans.items() if c >= thresholds.get(lab, default)} for lab, spans in p.items()}
+            for p in preds]
 
 
 def main(argv=None):
@@ -139,6 +152,8 @@ def main(argv=None):
     ap.add_argument("model", help="checkpoint dir or Hub id")
     ap.add_argument("data", nargs="+", help="canonical JSONL files")
     ap.add_argument("--threshold", type=float, default=0.5)
+    ap.add_argument("--thresholds", help="JSON {label: threshold}; labels not listed use --threshold")
+    ap.add_argument("--with-conf", action="store_true", help="save confidences with --save-preds ([start, end, conf])")
     ap.add_argument("--batch-size", type=int, default=8)
     ap.add_argument("--device", default=None, help="default: cuda if available, else cpu")
     ap.add_argument("--out", help="write full JSON report here")
@@ -161,14 +176,21 @@ def main(argv=None):
             by[r["source"]].append(r)
         rng = random.Random(args.seed)
         records = [r for recs in by.values() for r in rng.sample(recs, min(len(recs), args.max_per_source))]
-    preds = predict(model, records, args.threshold, args.batch_size)
+    per_label = json.load(open(args.thresholds)) if args.thresholds else {}
+    query = min([args.threshold, *per_label.values()])
+    conf = predict(model, records, query, args.batch_size, with_conf=True)
+    preds = apply_thresholds(conf, per_label, args.threshold)
     report = score(records, preds)
     report["coarse"] = score(*to_coarse(records, preds))["scores"]
     if args.save_preds:
         with open(args.save_preds, "w") as fh:
-            for rec, p in zip(records, preds):
-                fh.write(json.dumps({"id": rec["id"], "pred": {k: sorted(v) for k, v in p.items()}}) + "\n")
-    report.update(model=args.model, threshold=args.threshold, n_records=len(records),
+            for rec, p, cp in zip(records, preds, conf):
+                if args.with_conf:
+                    pred = {k: sorted([s, e, round(c, 4)] for (s, e), c in v.items()) for k, v in cp.items()}
+                else:
+                    pred = {k: sorted(v) for k, v in p.items()}
+                fh.write(json.dumps({"id": rec["id"], "pred": pred}) + "\n")
+    report.update(model=args.model, threshold=args.threshold, thresholds=per_label, n_records=len(records),
                   data=args.data, max_per_source=args.max_per_source, seed=args.seed)
     if args.out:
         with open(args.out, "w") as fh:

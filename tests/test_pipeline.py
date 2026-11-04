@@ -707,3 +707,15 @@ def test_prodeval_tolerates_offsets_past_text_end():
            "spans": [{"start": 0, "end": 9, "label": "person", "text": "Max Huber"}]}
     res = score([rec], [[(0, 15, "person")]])  # a prediction running past the end of the text
     assert res
+
+
+def test_threshold_tuning_lowers_cutoff_for_a_low_confidence_hit():
+    from legalner.thresholds import tune
+    from legalner.evaluate import apply_thresholds
+    rec = {"id": "synthetic/d#0", "source": "synthetic", "doc_id": "d", "lang": "de", "jurisdiction": "AT", "meta": {},
+           "text": "Max Huber wohnt in Wien.",
+           "spans": [{"start": 0, "end": 9, "label": "person", "text": "Max Huber"}]}
+    conf = [{"person": {(0, 9): 0.4, (19, 23): 0.2}}]
+    chosen, _ = tune([rec], conf, min_support=1)
+    assert chosen["person"] == 0.4
+    assert apply_thresholds(conf, chosen)[0]["person"] == {(0, 9)}
