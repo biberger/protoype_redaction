@@ -1,0 +1,103 @@
+---
+doc_type: kaufvertrag_liegenschaft
+jurisdiction: AT
+lang: de
+---
+Rechtsanwälte GmbH
+[[organization|Bergmair & Grünfeld]]
+[[address|Leopold-Werndl-Straße 12, 4573 Hinterstoder]]
+T: [[phone_number|+43 7242 676 14 79-85]]  F: [[phone_number|0732/7981779-32]]
+E: [[email|office@bergmair.at]]  W: www.bergmair.at
+[[company_register_number|FN 503025v]], [[court|HG Wien]], UID: [[tax_id|ATU86032196]]
+[[organization|Volksbank Hinterstoder registrierte Genossenschaft mit beschränkter Haftung]] IBAN: [[bank_account|AT42 7259 5222 6513 3963]] BIC: [[bank_account|GIBAATWW]]
+ERV-Code: [[other_identifier|P134230]]
+
+[[land_register_id|K.G. 15271 Berndorf]], [[land_register_id|E.Z. 473]]; [[land_register_id|Gst.Nr. 772]]
+
+Zeichen [[other_identifier|Rohracher ./. Capra]]
+Unser Zeichen: [[other_identifier|LPD/Rohracher/7684]]
+Tel. [[phone_number|+43 5572 279 63 57-9]]
+
+KAUFVERTRAG
+
+abgeschlossen zwischen
+
+1. der Verkäuferin [[organization|NEMEC HANDELS GMBH]], [[company_register_number|FN 287290k]], UID: [[tax_id|ATU93341599]], vertreten durch den Geschäftsführer [[person|Raimund Brunmair]], Geburtsdatum: [[date_of_birth|04.06.1979]], und
+
+2. den Käuferinnen
+a) [[person|Adriane Rohracher]], *[[date_of_birth|1985-03-25]], und
+b) [[person|Domenica Schenk von Stauffenberg]], Geburtsdatum: [[date_of_birth|04.07.1977]],
+beide zu je einem Hälfteanteil.
+
+Präambel
+
+Die [[organization|Nemec Handels GmbH]] ist grundbücherliche Eigentümerin der oben bezeichneten Liegenschaft. [[organization|Nemec]] verkauft diese an die Käuferinnen, die den Kaufpreis gemeinsam zu tragen haben. Der Vertrag wurde in unserer Kanzlei errichtet, die Parteien wurden über die Rechtsfolgen belehrt.
+
+§ 1 Kaufgegenstand
+
+Gegenstand des Kaufes ist die Liegenschaft [[land_register_id|K.G. 15271 Berndorf]], [[land_register_id|E.Z. 473]]; [[land_register_id|Gst.Nr. 772]] mit einer Fläche von 1.184 m², samt dem darauf befindlichen Wohnhaus und den Nebengebäuden. Die Verkäuferin verpflichtet sich, das Eigentum frei von Pfandrechten und Dienstbarkeiten zu übertragen, soweit diese nicht im Grundbuch ersichtlich sind.
+
+§ 2 Kaufpreis
+
+Der Kaufpreis beträgt € 385.000,00. Er ist wie folgt zu entrichten: eine Anzahlung von € 38.500,00 binnen 14 Tagen nach Unterfertigung auf das Treuhandkonto [[bank_account|AT11 0543 6953 2486 5202]] bei der Kanzlei, der Restbetrag nach Eintragung des Eigentumsrechts der Käuferinnen im Grundbuch.
+
+Die Käuferinnen tragen die Grunderwerbsteuer nach [[legal_norm|§ 4 GrEStG]] von 3,5 % des Kaufpreises, somit € 13.475,00, und die Eintragungsgebühr nach [[legal_norm|§ 26 GBG]] samt den Kosten des Vertrages.
+
+§ 3 Treuhandabwicklung
+
+Die Abwicklung erfolgt über unser Treuhandbuch, Treuhandbuch-Nr. [[other_identifier|TH-26-0891]]. Der Kaufpreis wird vom Treuhänder erst nach Vorliegen der Lastenfreistellung ausbezahlt. Die Auszahlung an die Verkäuferin erfolgt auf das Konto der [[organization|Nemec Handels GmbH]] bei der Bank, dessen Daten dem Treuhänder schriftlich bekanntgegeben wurden. Die Zeichnungsberechtigung des Geschäftsführers [[person|Brunmair Raimund]] wurde durch einen aktuellen Firmenbuchauszug nachgewiesen, der dem Treuhandakt beiliegt.
+
+Die Lastenfreistellung der Liegenschaft wird vom Treuhänder beantragt. Die Verkäuferin verpflichtet sich, bestehende Pfandrechte bis zur Auszahlung des Kaufpreises auf eigene Kosten löschen zu lassen. Ein Pfandrecht zugunsten einer Bank ist im Lastenblatt derzeit noch eingetragen und wird aus dem Kaufpreis abgelöst. Die Löschungsurkunde ist dem Treuhänder vorzulegen, bevor der Restbetrag überwiesen wird.
+
+§ 4 Aufsandungserklärung
+
+Die Verkäuferin erteilt hiermit die Aufsandungserklärung zugunsten der Käuferinnen. Die Käuferinnen nehmen diese Erklärung an. Der Vertrag wird dem Grundbuchsgericht zur Einverleibung des Eigentumsrechts vorgelegt. Der Antrag wurde auf Grundlage des [[legal_norm|§ 31 GBG]] vorbereitet.
+
+§ 5 Übergabe und Gewährleistung
+
+Die Übergabe der Liegenschaft erfolgt mit dem Tag der Kaufpreiszahlung. Die Verkäuferin haftet für Mängel nach [[legal_norm|§ 922 ABGB]] nur, soweit sie diese arglistig verschwiegen hat. Die Käuferinnen haben die Liegenschaft besichtigt.
+
+§ 6 Schlussbestimmungen
+
+Die Vertragsparteien erklären, dass keine mündlichen Nebenabreden bestehen. Die Kosten der Urkundenerrichtung tragen die Käuferinnen zu je einem Hälfteanteil. Gerichtsstand ist das für die Liegenschaft zuständige Gericht.
+
+§ 7 Mitverkauf und Zubehör
+
+Mit der Liegenschaft werden die fest eingebauten Küchenmöbel, die Einbauschränke im Obergeschoss, die Heizungsanlage samt Öltank und die Gartenhütte mitverkauft. Nicht mitverkauft werden die bewegliche Einrichtung, der Gartenschlauch und das Brennholz im Schuppen, die der Verkäuferin verbleiben. Die Käufer haben die Anlagen bei der Besichtigung geprüft; ein Rechtsanspruch auf Funktionsfähigkeit des Öltanks besteht nicht, soweit dieser nicht ausdrücklich zugesichert wird.
+
+§ 8 Hinweise und Belehrung
+
+Der Notar beziehungsweise die Kanzlei hat die Käuferinnen darauf hingewiesen, dass die Eintragung ihres Eigentumsrechts erst nach Vorliegen aller Unterlagen erfolgen kann und dass bis zu diesem Zeitpunkt keine Nutzungsrechte bestehen. Auf die Haftung der Käuferinnen für die Kosten der Grundbuchseintragung wurde ausdrücklich hingewiesen. Die Käuferinnen bestätigen, dass sie auf die Möglichkeit einer Beratung durch einen unabhängigen Sachverständigen hingewiesen wurden und diese Möglichkeit nicht genutzt haben.
+
+§ 7a Grundbuchsgesuch und Fristen
+
+Die Kanzlei wird das Grundbuchsgesuch unmittelbar nach Unterfertigung dieses Vertrages und nach Vorliegen der Unterlagen über die Zahlung der Grunderwerbsteuer beim zuständigen Grundbuchsgericht einbringen. Die Vertragsparteien verpflichten sich, alle für das Gesuch erforderlichen Erklärungen binnen 14 Tagen nach Aufforderung abzugeben. Kommt eine Partei dieser Verpflichtung nicht nach, ist die andere Partei berechtigt, die Kanzlei mit der Einholung der Erklärung zu beauftragen; die dadurch entstehenden Kosten trägt die säumige Partei.
+
+Ein Exemplar des Vertrages wird in der Kanzlei verwahrt. Die Kanzlei bestätigt den Eingang der Anzahlung und führt den Treuhandakt fortlaufend. Die Parteien vereinbaren eine Frist für die Vorlage der Lastenfreistellungsurkunde bis zum Ende des Monats, der auf die Unterfertigung folgt. Wird diese Frist überschritten, kann jede Partei vom Vertrag zurücktreten, sofern dies nicht ausdrücklich ausgeschlossen wurde. Ein Rücktritt ist schriftlich zu erklären und der Kanzlei zuzustellen.
+
+Im Falle eines Rücktritts ist der Kaufpreis einschließlich der Anzahlung binnen 30 Tagen an die Käuferinnen zurückzuzahlen. Die Kosten der Urkundenerrichtung verbleiben in diesem Fall bei den Käuferinnen, soweit sie nicht von der Verkäuferin verschuldet wurden.
+
+§ 9 Änderungen und Mehrausfertigungen
+
+Dieser Vertrag wird in vier Ausfertigungen errichtet, wovon je eine Ausfertigung den Käuferinnen, der Verkäuferin und dem Grundbuchsgericht zukommt; eine Ausfertigung verbleibt in der Kanzlei. Änderungen dieses Vertrages bedürfen der Schriftform und der Zustimmung aller Vertragsparteien. Mündliche Nebenabreden bestehen nicht. Die Käuferinnen erklären, dass sie die Urkunde vollständig gelesen haben und dass ihnen der Inhalt in einer Sprache erläutert wurde, die sie verstehen.
+
+Die Käuferin [[person|Rohracher]] und die Käuferin [[person|Schenk von Stauffenberg]] haben die Urkunde mit der Verkäuferin gelesen und unterfertigen sie eigenhändig.
+
+Errichtet in [[address|8832 Oberwölz Umgebung]] am [[date|14. September 2026]].
+
+Für die Verkäuferin:
+
+[[organization|Nemec Handels GmbH]]
+[[person|Raimund Brunmair]]
+Geschäftsführer
+
+Die Käuferinnen:
+
+[[person|Adriane Rohracher]]
+
+[[person|Domenica Schenk von Stauffenberg]]
+
+Verfasst durch:
+
+[[person|Bergmair]]
+Rechtsanwalt

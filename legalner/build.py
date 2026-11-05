@@ -20,7 +20,9 @@ import json
 import pathlib
 import random
 
-from legalner.schema import LABELS, SOURCES
+from legalner.augment import NameSwapper, layout_noise, rewindow
+from legalner.relabel import relabel
+from legalner.schema import DERIVED, LABELS, QUERY_ROLES, ROLE_LABELS, SOURCES
 
 SPLIT_NAMES = {"train": "train", "validation": "dev", "dev": "dev", "test": "test"}
 
@@ -50,6 +52,9 @@ def query_labels(rec):
     for outer, inner in src.nested_conflicts.items():
         if outer in present:
             labels -= set(inner)
+    labels |= {d for d, base in DERIVED.items() if base in labels}
+    if not QUERY_ROLES:
+        labels -= ROLE_LABELS
     return labels
 
 
@@ -121,12 +126,79 @@ def case_augment(rec, rng):
     return dict(rec, text=text, spans=spans, meta=dict(rec.get("meta", {}), case_aug=mode))
 
 
-def read_records(paths):
+ABBR_LABELS = ("organization", "court")
+
+
+def abbreviations(records):
+    """doc_id -> {full name: abbreviation} from "Full Name (ABBR)": an organization or court span directly
+    followed by a parenthesised, shorter span of the same label (decision 5)."""
+    out = collections.defaultdict(dict)
+    for rec in records:
+        text = rec["text"]
+        at = {(s["start"], s["label"]): s for s in rec["spans"]}
+        for s in rec["spans"]:
+            if s["label"] not in ABBR_LABELS or text[s["end"]:s["end"] + 2] != " (":
+                continue
+            a = at.get((s["end"] + 2, s["label"]))
+            if a and text[a["end"]:a["end"] + 1] == ")" and len(a["text"]) < len(s["text"]):
+                out[rec["doc_id"]][s["text"]] = a["text"]
+    return out
+
+
+def abbreviation_augment(rec, abbr, rng, p=0.5):
+    """Copy of `rec` where later full-name mentions of an organisation or court are replaced by the abbreviation
+    the document defines ("Workplace Relations Commission (WRC)" ... "die WRC"), so the model sees organisations
+    referred to by acronym alone (decision 28). The defining mention is kept; offsets are shifted."""
+    text = rec["text"]
+    keys = {(s["start"], s["end"]) for s in rec["spans"]}
+    chosen = {}
+    for s in rec["spans"]:
+        short = abbr.get(s["text"]) if s["label"] in ABBR_LABELS else None
+        if not short or text[s["end"]:s["end"] + len(short) + 3] == f" ({short})" or rng.random() >= p:
+            continue
+        others = [o for o in rec["spans"] if (o["start"], o["end"]) != (s["start"], s["end"])
+                  and o["start"] < s["end"] and s["start"] < o["end"]]
+        if not others:
+            chosen[(s["start"], s["end"])] = short
+    if not chosen:
+        return rec
+    new_text, shift, pos, moved = [], 0, 0, {}
+    for (start, end), short in sorted(chosen.items()):
+        new_text.append(text[pos:start] + short)
+        moved[(start, end)] = (start + shift, start + shift + len(short))
+        shift += len(short) - (end - start)
+        pos = end
+    new_text.append(text[pos:])
+    new_text = "".join(new_text)
+
+    def move(i):  # offset after the replacements that end at or before i
+        return i + sum(len(chosen[k]) - (k[1] - k[0]) for k in chosen if k[1] <= i)
+    spans = []
+    for s in rec["spans"]:
+        start, end = moved.get((s["start"], s["end"]), (move(s["start"]), move(s["end"])))
+        spans.append(dict(s, start=start, end=end, text=new_text[start:end]))
+    assert keys and all(sp["text"] == new_text[sp["start"]:sp["end"]] for sp in spans)
+    return dict(rec, text=new_text, spans=spans, meta=dict(rec.get("meta", {}), abbr_aug=len(chosen)))
+
+
+# boundary_head.max_gold_per_query of gliner2.5-multi-v1 is 64: a batch with more gold spans for one label aborts
+# training (TargetCapacityError), so such records are left out of train and dev
+MAX_GOLD_PER_LABEL = 60
+
+
+def too_dense(rec, labels):
+    per = collections.Counter(s["label"] for s in rec["spans"] if s["label"] in labels)
+    return any(n > MAX_GOLD_PER_LABEL for n in per.values())
+
+
+def read_records(paths, relabelled=True):
+    """Canonical records from JSONL files, relabelled to the current conventions (legalner.relabel)."""
     for path in paths:
         with open(path, encoding="utf-8") as fh:
             for line in fh:
                 if line.strip():
-                    yield json.loads(line)
+                    rec = json.loads(line)
+                    yield relabel(rec) if relabelled else rec
 
 
 def _per_key(values, cast=int):
@@ -212,6 +284,17 @@ def main(argv=None):
     ap.add_argument("--exclude-docs", help="file with doc_ids to drop entirely (e.g. data/gold/at/doc_ids.txt)")
     ap.add_argument("--case-frac", type=float, default=0.1,
                     help="share of training examples whose text or single spans are upper/lower-cased")
+    ap.add_argument("--abbr-frac", type=float, default=0.5,
+                    help="share of training records whose later organisation/court mentions are replaced by the "
+                         "abbreviation their document defines")
+    ap.add_argument("--windows", action="store_true",
+                    help="re-cut synthetic and EUR-Lex training documents into windows of 50-700 words")
+    ap.add_argument("--layout-frac", type=float, default=0.0,
+                    help="share of de/fr training records with layout noise (letter-spacing, page breaks, wraps, OCR)")
+    ap.add_argument("--name-swap-copies", type=int, default=0,
+                    help="extra copies of person-bearing records with names swapped from the gazetteer decks")
+    ap.add_argument("--swap-sources", default="synthetic,synthetic_eu,synthetic_v1,eurlex,ris",
+                    help="sources whose records get name-swapped copies")
     ap.add_argument("--validate", action="store_true", help="check every split with gliner2 TrainingDataset.validate()")
     ap.add_argument("--seed", type=int, default=13)
     args = ap.parse_args(argv)
@@ -231,19 +314,45 @@ def main(argv=None):
         by_split[doc_split(rec, args.dev_frac, args.test_frac)].append(rec)
 
     stats = {}
+    if args.windows:  # production feeds ~100-word windows; synthetic/EUR-Lex documents are re-cut to 50-700 words
+        is_doc = lambda r: source_group(r["source"]) == "synthetic" or r["source"] == "eurlex"  # noqa: E731
+        docs = [r for r in by_split["train"] if is_doc(r)]
+        by_split["train"] = [r for r in by_split["train"] if not is_doc(r)] + rewindow(docs, rng)
+        stats["windows"] = {"chunks": len(docs), "windows": sum(1 for r in by_split["train"] if is_doc(r))}
     train = balance(by_split["train"], rng, args.max_per_source, _per_key(args.cap), _per_key(args.max_per_doc),
                     _per_key(args.source_copies))
     if args.mix:
         train = mix(train, rng, _per_key(args.mix.split(","), float))
+    abbr = abbreviations(by_split["train"])
+    swapper, swap_sources = None, set(args.swap_sources.split(","))
+    if args.name_swap_copies:
+        from legalner.gazetteers import Gazetteer
+        swapper = NameSwapper(Gazetteer(rng=random.Random(args.seed)), rng)
+    count = collections.Counter()
     with (out / "train.jsonl").open("w", encoding="utf-8") as fh:
         n = 0
         for _ in range(args.copies):
-            for rec in train:
-                labels = query_labels(rec)
-                if rng.random() < args.case_frac:
-                    rec = case_augment(rec, rng)
-                fh.write(json.dumps(augment(rec, labels, rng), ensure_ascii=False) + "\n")
-                n += 1
+            for base in train:
+                variants = [base]
+                if swapper and base["source"] in swap_sources and any(s["label"] == "person" for s in base["spans"]):
+                    variants += [swapper.swap(base) for _ in range(args.name_swap_copies)]
+                    count["name_swap_copies"] += args.name_swap_copies
+                for rec in variants:
+                    labels = query_labels(rec)
+                    if abbr.get(rec["doc_id"]) and rng.random() < args.abbr_frac:
+                        rec = abbreviation_augment(rec, abbr[rec["doc_id"]], rng)
+                        count["abbr_augmented"] += rec.get("meta", {}).get("abbr_aug", 0) > 0
+                    if rec.get("lang") in ("de", "fr") and rng.random() < args.layout_frac:
+                        rec = layout_noise(rec, rng)
+                        count["layout_noise"] += 1
+                    if rng.random() < args.case_frac:
+                        rec = case_augment(rec, rng)
+                    if too_dense(rec, labels):
+                        count["too_dense_skipped"] += 1
+                        continue
+                    fh.write(json.dumps(augment(rec, labels, rng), ensure_ascii=False) + "\n")
+                    n += 1
+    stats.update(count)
     stats["train"] = n
     stats["train_per_source"] = dict(collections.Counter(r["source"] for r in train for _ in range(args.copies)))
     stats["train_share"] = {g: round(n / max(1, len(train)), 3) for g, n in
@@ -255,6 +364,8 @@ def main(argv=None):
             recs = [r for r in recs if (per.update([r["source"]]) or per[r["source"]]) <= args.max_eval_per_source]
         with (out / f"{split}.jsonl").open("w", encoding="utf-8") as fh:
             for rec in recs:
+                if split == "dev" and too_dense(rec, query_labels(rec)):  # dev loss uses the training collator
+                    continue
                 fh.write(json.dumps(to_example(rec, query_labels(rec)), ensure_ascii=False) + "\n")
         # canonical copy keeps source/jurisdiction for sliced evaluation
         with (out / f"{split}.canonical.jsonl").open("w", encoding="utf-8") as fh:

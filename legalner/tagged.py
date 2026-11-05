@@ -278,8 +278,10 @@ def lint(text, spans, fname):
             covered[i] = True
     needles = set(GAZETTEER)
     for label, _, _, surface in spans:
-        if label in ("date", "legal_norm"):
+        if label in ("date", "date_of_birth", "legal_norm", "country"):
             continue  # short forms legitimately repeat untagged
+        if re.fullmatch(r"\d{1,3}", surface):
+            continue  # plot or entry numbers like "53": every other "53" (shares, areas) is not an entity
         needles.add(surface)
         town = re.search(r"\b\d{4,5}\s([A-ZÄÖÜ][\w.\-]+(?:\s(?:an\sder|am|im|bei|ob\sder)?\s?[A-ZÄÖÜ][\w.\-]+){0,3})$",
                          surface) if label == "address" else None
@@ -299,6 +301,8 @@ def lint(text, spans, fname):
             if not any(covered[m.start():m.end()]) and not UNIT_BEFORE.search(text, 0, m.start()):
                 line = text.count("\n", 0, m.start()) + 1
                 warnings.append(f"{fname}:{line}: untagged occurrence of {n!r}")
+    for m in re.finditer("\u23ce", text):  # the documentation's line-break symbol, written literally
+        warnings.append(f"{fname}:{text.count(chr(10), 0, m.start()) + 1}: literal line-break symbol (write a real line break)")
     for m in IBAN_TEXT.finditer(text):
         if not any(covered[m.start():m.end()]) and m.group()[:2] in ("AT", "DE", "CH", "LI", "FR", "BE", "LU", "IT", "NL"):
             line = text.count("\n", 0, m.start()) + 1

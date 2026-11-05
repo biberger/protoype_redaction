@@ -1,0 +1,102 @@
+---
+doc_type: kaufvertrag_liegenschaft
+jurisdiction: AT
+lang: de
+---
+Rechtsanwälte GmbH
+[[organization|von Frisch, Jacobsson]]
+[[address|Pelzweg 27, 6230 Brixlegg]]
+T: [[phone_number|05572/2791963]]  F: [[phone_number|05572/7886987 DW 262]]
+E: [[email|office@vonfrisch.at]]  W: www.vonfrisch.at
+[[company_register_number|FN 316743z]], [[court|LG für ZRS Graz]], UID: [[tax_id|ATU37874127]]
+[[organization|Hypo Tirol Bank AG]] IBAN: [[bank_account|AT19 3668 6529 3255 5532]] BIC: [[bank_account|GIBAATWW]]
+ERV-Code: [[other_identifier|R257811]]
+
+KAUFVERTRAG ÜBER EINE LIEGENSCHAFT
+
+abgeschlossen zwischen
+
+1. der [[organization|Schachinger Immobilien GmbH]], [[company_register_number|FN 152546h]], UID [[tax_id|ATU39980623]], vertreten durch ihre Prokuristin [[person|Huberta Wanner]], im Folgenden Verkäuferin,
+
+2. [[person|Silvanus Reumann]], Geburtsdatum: [[date_of_birth|7. Juli 1994]], und
+[[person|MMag. Albina Berghammer]], geb [[date_of_birth|1965-03-17]], StA. [[country|Bosnien und Herzegowina]], beide wohnhaft in [[address|Hauptstraße 22, 6200 Jenbach]], im Folgenden Käufer.
+
+Präambel
+
+Die [[organization|Schachinger]] ist Eigentümerin der Liegenschaft [[land_register_id|KG: Weppersdorf]] [[land_register_id|EZ 3468]], Grundstück Nr. [[land_register_id|1411]]. Die Liegenschaft ist mit einem Wohnhaus bebaut. Der an die Liegenschaft angrenzende Grundanteil wurde von [[person|Dario Miličević]], *[[date_of_birth|1957-12-07]], als Vorkaufsberechtigter geprüft. Herr [[person|Miličević]] hat mit Erklärung vom [[date|2. Mai 2026]] auf sein Vorkaufsrecht verzichtet.
+
+I. Kaufgegenstand
+
+Die Verkäuferin verkauft und übergibt den Käufern die Liegenschaft samt allen wesentlichen Bestandteilen und dem Zubehör. Die Käufer erwerben die Liegenschaft zu ideellen Hälften.
+
+Das Grundstück hat eine Fläche von 1.240 m² und liegt in einer Wohngegend am Ortsrand der Gemeinde [[location|Weppersdorf]]. Das Wohnhaus wurde im Jahr 1978 errichtet und zuletzt im Jahr 2011 umfassend saniert. Die Heizung ist eine Gasbrennwerttherme aus dem Jahr 2016. Die Dachflächen wurden im Jahr 2019 neu gedeckt. Ein Nebengebäude mit einer Garage ist vorhanden; dessen Nutzung ist nicht Gegenstand dieses Vertrages.
+
+Die Verkäuferin hat die Liegenschaft seit dem Jahr 2009 im eigenen Besitz gehabt und selbst bewohnt. Eine Vermietung oder ein sonstiges Nutzungsrecht Dritter besteht nicht, mit Ausnahme der im Grundbuch eingetragenen Dienstbarkeit des Wegerechts zugunsten des Nachbargrundstücks.
+
+II. Kaufpreis
+
+Der Kaufpreis beträgt EUR 485.000,00 und ist binnen vier Wochen nach Unterfertigung auf das Treuhandkonto IBAN [[bank_account|AT52 7742 1332 5868 7200]] zu zahlen. Das Treuhandkonto wird für die Abwicklung unter der Treuhandschaft Nr. [[other_identifier|2023/281]] geführt. Die Kaufpreisschuld ist nicht verzinst.
+
+Die Käufer sind verpflichtet, die Grunderwerbsteuer nach [[legal_norm|§ 4 Abs 1 GrEStG]] iVm [[legal_norm|§ 1 Abs 1 Z 1 GrEStG]] zu tragen. Die Verkäuferin trägt die Kosten der Lastenfreistellung.
+
+III. Treuhandabwicklung
+
+Die Vertragsparteien beauftragen die Kanzlei [[organization|von Frisch, Jacobsson]] mit der treuhändigen Abwicklung. Die Kanzlei wird die Eintragung des Eigentumsrechts beantragen, sobald die Grunderwerbsteuer angezeigt ist und der Kaufpreis eingegangen ist. Die Treuhänder dürfen den Kaufpreis erst nach Vorliegen der Lastenfreistellungserklärung auszahlen.
+
+Die Käufer haben die Kosten des Treuhandbetriebs anteilig zu tragen. Für Rückfragen zum Treuhandbetrieb steht die Kanzlei unter Tel. [[phone_number|+43-512-852548 DW 782]] zur Verfügung.
+
+IV. Übergabe
+
+Die Übergabe der Liegenschaft erfolgt am [[date|30. Juni 2026]] an den Käufer. Mit der Übergabe gehen Nutzen und Lasten auf die Käufer über. Die Verkäuferin übergibt alle Schlüssel, die Baupläne und die Unterlagen zur Heizungsanlage.
+
+IV a. Zusicherungen der Verkäuferin
+
+Die Verkäuferin versichert, dass die Liegenschaft nicht von einem Vorkaufsrecht Dritter belastet ist, mit Ausnahme der Erklärung des Herrn [[person|Miličević]]. Die Verkäuferin hat keine Kenntnis von Bauverfahren, Verwaltungsstrafen oder Altlasten im Zusammenhang mit der Liegenschaft. Sie versichert weiters, dass die Wasserversorgung und die Kanalanschlüsse ordnungsgemäß hergestellt und bezahlt sind.
+
+Die Käufer erklären, dass sie die Liegenschaft besichtigt haben und den Zustand kennen. Sie verzichten daher auf Ansprüche wegen offensichtlicher Mängel, die bei der Besichtigung erkennbar waren. Die Käuferin [[person|Berghammer]] hat zudem darauf hingewiesen, dass sie einen Teil des Kaufpreises aus einem Bankkredit der [[organization|Hypo Tirol Bank AG]] finanzieren wird, weshalb die Bank eine Pfandbestellung nach Eintragung verlangen wird.
+
+Die Parteien vereinbaren, dass Erklärungen gegenüber der Kanzlei als Erklärungen gegenüber allen Vertragsteilen gelten. Änderungen von Anschriften oder Bankverbindungen sind der Kanzlei unverzüglich schriftlich mitzuteilen.
+
+V. Gewährleistung
+
+Die Verkäuferin haftet dafür, dass die Liegenschaft frei von Bestandrechten, Pfandrechten und sonstigen Lasten übergeben wird. Eine Haftung für sichtbare Mängel wird ausgeschlossen. Die Gewährleistung nach [[legal_norm|§ 1053 ABGB]] bleibt im Übrigen unberührt.
+
+VI. Aufsandungserklärung
+
+Die Verkäuferin erklärt die Einwilligung in die Einverleibung des Eigentumsrechts zugunsten der Käufer. Die Erklärung ist nach [[legal_norm|§ 32 GBG]] in der Form einer öffentlichen Urkunde abzugeben. Die Kanzlei ist ermächtigt, die Eintragung im Grundbuch zu beantragen. Eine Ausfertigung dieser Urkunde ist den Käufern auszuhändigen.
+
+VI a. Vollmacht und Auflagen des Grundbuchs
+
+Die Käufer erteilen der Kanzlei eine Vollmacht zur Einholung des Grundbuchsauszuges und zur Entgegennahme von Bescheiden. Die Verkäuferin verpflichtet sich, bis zur Auszahlung des Kaufpreises keine weiteren Belastungen der Liegenschaft zu bewilligen. Ein Pfandrecht der [[organization|Hypo Tirol Bank AG]] auf dem Grundstück ist vor Kaufpreiszahlung zu löschen; die Löschungsurkunde ist der Kanzlei zu übermitteln.
+
+Die Kosten der Lastenfreistellung und der Löschung betragen nach dem Angebot der Bank EUR 1.850,00 und werden von der Verkäuferin getragen. Die Grundbuchsgebühren sind von den Käufern zu tragen. Der Kaufpreis wird erst dann ausbezahlt, wenn die Eintragung der Eigentumsübertragung und die Löschung vorliegen. Sollte die Löschung des Pfandrechts der [[organization|Hypo Tirol Bank AG]] nicht bis zum [[date|30. Juli 2026]] vorliegen, bleibt der Kaufpreis auf dem Treuhandkonto verwahrt. Die Vertragsparteien vereinbaren in diesem Fall eine Verlängerung der Frist um höchstens vier Wochen. Ein Rücktritt vom Vertrag ist erst nach Ablauf dieser Frist zulässig; die Kosten der Verzögerung trägt jene Partei, die den Verzug zu vertreten hat.
+
+Die Käufer haben die Verkäuferin außerdem darauf hingewiesen, dass die Erschließungskosten für die Wasserleitung noch nicht abgerechnet sind. Die Verkäuferin übernimmt diese Kosten bis zum Stichtag der Übergabe; danach gehen sie auf die Käufer über. Die Kosten der Vertragserrichtung und der Beglaubigung der Unterschriften trägt jede Partei zur Hälfte, die Kosten der Treuhandschaft trägt der Käufer. Die Verkäuferin hat die Vollmacht für die Löschung der Hypothek bereits am [[date|1. Juni 2026]] unterfertigt, und die Kanzlei verwahrt diese Urkunde.
+
+VII. Schlussbestimmungen
+
+Änderungen dieses Vertrages bedürfen der Schriftform. Sollte eine Bestimmung unwirksam sein, bleibt der Vertrag im Übrigen wirksam.
+
+Die Vertragsparteien erklären, dass sie den Vertrag gelesen und verstanden haben. Der Vertrag wurde von der Kanzlei entworfen und mit den Parteien eingehend besprochen.
+
+Die Käufer haben die Gebühren der Kanzlei nach dem Tarif zu tragen.
+
+Unterschriften
+
+ANMERKUNG DER KANZLEI ZUR GEMEINSCHAFT: [[person|REUMANN Silvanus]] UND [[person|BERGHAMMER Albina]] ERWERBEN ZU IDEELLEN HÄLFTEN.
+
+Für die Verkäuferin:
+[[person|Huberta Wanner]]
+Prokuristin, [[organization|Schachinger Immobilien GmbH]]
+
+Die Käufer:
+[[person|Reumann Silvanus]]
+[[person|Berghammer Albina]]
+
+Vorkaufsberechtigter, Kenntnisnahme:
+[[person|Dario Miličević]]
+
+Errichtet in [[location|St. Pölten]], am [[date|15. Mai 2026]]
+
+Vertragsverfasser:
+[[lawyer|Dr. Teodor Ebenbichler]], Rechtsanwalt

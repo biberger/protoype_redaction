@@ -8,7 +8,7 @@ Sources (all CC0):
 - places: Wikidata municipalities with postal code, and streets, for AT/DE/CH
 
     python -m legalner.gazetteers first-names data/gazetteers/raw/wgnd_2_0_name-gender-code.csv
-    python -m legalner.gazetteers surnames
+    python -m legalner.gazetteers surnames [--codes europe]
     python -m legalner.gazetteers places
 
 Countries cover the target jurisdictions plus the origins of the largest immigrant
@@ -34,9 +34,26 @@ COUNTRIES = {
     "IT": "Q38", "TR": "Q43", "RS": "Q403", "BA": "Q225", "HR": "Q224", "PL": "Q36", "CZ": "Q213",
     "SK": "Q214", "HU": "Q28", "RO": "Q218", "UA": "Q212", "SY": "Q858", "IR": "Q794", "AF": "Q889",
     "NG": "Q1033", "SN": "Q1041", "MA": "Q1028", "DZ": "Q262", "PT": "Q45", "ES": "Q29",
+    # 2026-11: the rest of Europe, so name coverage is not limited to the target jurisdictions
+    "NL": "Q29999", "IE": "Q27", "GB": "Q145", "DK": "Q756617", "SE": "Q34", "NO": "Q20", "FI": "Q33", "EE": "Q191",
+    "LV": "Q211", "LT": "Q37", "SI": "Q215", "BG": "Q219", "GR": "Q41", "ME": "Q236", "MK": "Q221", "AL": "Q222",
+    "MT": "Q233", "CY": "Q229",
 }
+EUROPE = {"AT", "DE", "CH", "FR", "BE", "LU", "LI", "IT", "RS", "BA", "HR", "PL", "CZ", "SK", "HU", "RO", "UA", "PT",
+          "ES", "NL", "IE", "GB", "DK", "SE", "NO", "FI", "EE", "LV", "LT", "SI", "BG", "GR", "ME", "MK", "AL", "MT",
+          "CY", "TR"}
+# distinctive surnames of prominent Austrian/German politicians: a fictitious "Vester Van der Bellen" reads as the
+# federal president, so generated persons never get them (common surnames like Kurz or Huber stay)
+PROMINENT = frozenset({"Van der Bellen", "Nehammer", "Kickl", "Strache", "Gusenbauer", "Faymann", "Mikl-Leitner",
+                       "Babler", "Schallenberg", "Klestil", "Waldheim", "Kreisky", "Vranitzky", "Schüssel", "Haider",
+                       "Fischer-Kreisky", "Edtstadler", "Gewessler", "Kogler", "Doskozil", "Merkel", "Scholz",
+                       "Steinmeier", "Söder", "Habeck", "Lindner-Merz", "Merz", "Schwarzenegger", "Mateschitz",
+                       "Klimt", "Lauda", "Hundertwasser", "Kafka"})
 MAX_FIRST = 3000
 MAX_SURNAMES = 2000
+# European countries get larger lists: name-swap augmentation (build.py) cycles through all of them
+MAX_FIRST_EUROPE = 8000
+MAX_SURNAMES_EUROPE = 4000
 
 
 def _title(name):
@@ -58,8 +75,9 @@ def build_first_names(wgnd_csv, out=OUT / "first_names.tsv", seed=13):
         fh.write("country\tname\tgender\n")
         for code in COUNTRIES:
             names = sorted(by[code])
-            if len(names) > MAX_FIRST:
-                names = sorted(rng.sample(names, MAX_FIRST))
+            cap = MAX_FIRST_EUROPE if code in EUROPE else MAX_FIRST
+            if len(names) > cap:
+                names = sorted(rng.sample(names, cap))
             for name, g in names:
                 fh.write(f"{code}\t{name}\t{g}\n")
             print(f"{code}: {len(names)} first names")
@@ -97,13 +115,20 @@ def labels(qids, langs=("mul", "de", "fr", "en")):
     return out
 
 
-def build_surnames(out=OUT / "surnames.tsv"):
+def build_surnames(out=OUT / "surnames.tsv", codes=None):
+    """Surnames per country; with `codes`, only those countries are (re)built and the others kept from `out`."""
+    keep = []
+    if codes and out.exists():
+        keep = [ln for ln in out.read_text(encoding="utf-8").splitlines()[1:] if ln.split("\t")[0] not in codes]
     with out.open("w", encoding="utf-8") as fh:
         fh.write("country\tname\tcount\n")
+        fh.writelines(ln + "\n" for ln in keep)
         for code, q in COUNTRIES.items():
+            if codes and code not in codes:
+                continue
             rows = sparql(f"SELECT ?fn WHERE {{ ?p wdt:P27 wd:{q}; wdt:P734 ?fn . }} LIMIT 300000")
             counts = collections.Counter(r["fn"].rsplit("/", 1)[1] for r in rows)
-            top = [qid for qid, _ in counts.most_common(MAX_SURNAMES)]
+            top = [qid for qid, _ in counts.most_common(MAX_SURNAMES_EUROPE if code in EUROPE else MAX_SURNAMES)]
             names = labels(top)
             n = 0
             for qid in top:
@@ -151,20 +176,31 @@ _CYR = dict(zip("абвгґдеєжзиіїйклмнопрстуфхцчшщь�
                  "p", "r", "s", "t", "u", "f", "ch", "z", "tsch", "sch", "schtsch", "", "ju", "ja", "y", "e", "jo", ""]))
 
 
+_GRK = dict(zip("αβγδεζηθικλμνξοπρσςτυφχψωάέήίόύώϊϋΐΰ",
+                ["a", "v", "g", "d", "e", "z", "i", "th", "i", "k", "l", "m", "n", "x", "o", "p", "r", "s", "s", "t", "y",
+                 "f", "ch", "ps", "o", "a", "e", "i", "i", "o", "y", "o", "i", "y", "i", "y"]))
+
+
 def transliterate(name):
-    """Cyrillic -> German-style Latin transliteration ("Олена" -> "Olena"), as Austrian documents write such names."""
+    """Cyrillic and Greek -> Latin transliteration ("Олена" -> "Olena", "Σωκρατης" -> "Sokratis"), as Austrian
+    documents write such names."""
+    name = name.replace("ου", "ou").replace("Ου", "Ou").replace("ΟΥ", "OU")
     out = []
     for c in name:
-        t = _CYR.get(c.lower())
+        t = _CYR.get(c.lower(), _GRK.get(c.lower()))
         out.append(c if t is None else (t.capitalize() if c.isupper() else t))
     return "".join(out)
 
 
 class Gazetteer:
-    """Random draws from the TSVs: names by country/gender, municipalities, streets."""
+    """Draws from the TSVs: names by country/gender, municipalities, streets.
+
+    Names come from shuffled decks (without replacement until a list is used up), so a wave of generated
+    documents or a name-swap pass covers every name of a country before any repeats."""
 
     def __init__(self, root=OUT, rng=None):
         self.rng = rng or random.Random()
+        self._decks = {}
         self.first = collections.defaultdict(list)
         self.last = collections.defaultdict(list)
         self.towns = collections.defaultdict(list)
@@ -176,6 +212,8 @@ class Gazetteer:
         for row in self._rows(root / "surnames.tsv"):
             # names borne by a single person in Wikidata are often noise (foreign spouses, typos)
             (self.last if int(row["count"]) >= 2 else rare)[row["country"]].append(row["name"])
+        for c in list(self.last):  # distinctive surnames of prominent public figures are not used for fake persons
+            self.last[c] = [n for n in self.last[c] if n not in PROMINENT]
         for c, names in rare.items():
             if len(self.last[c]) < 300:
                 self.last[c] += names
@@ -198,15 +236,28 @@ class Gazetteer:
         others = [c for c in COUNTRIES if c != home and self.last[c]]
         return home if self.rng.random() < 0.7 or not others else self.rng.choice(others)
 
+    def _draw(self, key, pool):
+        deck = self._decks.get(key)
+        if not deck:
+            deck = self._decks[key] = list(pool)
+            self.rng.shuffle(deck)
+        return deck.pop()
+
+    def first_name(self, country, gender):
+        key = (country, gender) if self.first[(country, gender)] else ("AT", gender)
+        return self._draw(("first",) + key, self.first[key])
+
+    def last_name(self, country):
+        key = country if self.last[country] else "AT"
+        return self._draw(("last", key), self.last[key])
+
     def person(self, home="AT", gender=None):
         c = self.origin(home)
         gender = gender or self.rng.choice("MF")
-        first = self.first[(c, gender)] or self.first[(home, gender)]
-        last = self.last[c] or self.last[home]
-        return transliterate(f"{self.rng.choice(first)} {self.rng.choice(last)}")
+        return transliterate(f"{self.first_name(c, gender)} {self.last_name(c)}")
 
     def surname(self, home="AT"):
-        return transliterate(self.rng.choice(self.last[self.origin(home)] or self.last[home]))
+        return transliterate(self.last_name(self.origin(home)))
 
     def town(self, country="AT"):
         return self.rng.choice(self.towns[country])
@@ -223,12 +274,16 @@ def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("what", choices=["first-names", "surnames", "places"])
     ap.add_argument("wgnd", nargs="?", help="WGND name-gender-code CSV (first-names only)")
+    ap.add_argument("--codes", help="surnames: comma-separated countries to rebuild (others kept), 'europe' for EUROPE")
     args = ap.parse_args(argv)
     OUT.mkdir(parents=True, exist_ok=True)
     if args.what == "first-names":
         build_first_names(args.wgnd)
     elif args.what == "surnames":
-        build_surnames()
+        codes = None
+        if args.codes:
+            codes = EUROPE if args.codes == "europe" else set(args.codes.split(","))
+        build_surnames(codes=codes)
     else:
         build_places()
 

@@ -207,12 +207,258 @@ Done on branch `ccr-e3b45fa1-pbfzdy` (continues `ccr-45f5c65f-g4rgnu`; earlier h
 
    Result: 55,473 training records (ler 22,189, replay 8,321, ris 8,321, synthetic 16,546, synthetic_v1 96; shares {'ler': 0.4, 'replay': 0.15, 'ris': 0.15, 'synthetic': 0.3}), dev 12,833, test 16,866 (incl. gold 550, MAPA, LER test); validate(): 0 invalid. 10 % of training records case-augmented.
 
-Next: **first GPU run** (`scripts/gpu_run.sh setup|data|build|smoke|train|eval`). A single GPU with bf16 and ≥ 24 GB
-(L4, A100, H100, RTX 4090). `data` regenerates `data/canonical/` (RIS fetch ≈ 25 min) or copy it (129 MB).
-`train`: 3 epochs, batch 8 × grad-accum 4, encoder LR 1e-5, task LR 5e-4, bf16, early stopping on dev loss.
-`eval`: fine-tuned model and both baselines on the gold set and the test split (per source/jurisdiction/label,
-PII character recall). Check the 20-step smoke run's loss before the full run (the 2-step CPU run went 0.60 -> 46 at
-batch size 2). Afterwards: human review of the gold set, teacher pseudo-labels for RIS organisations/places, EUR-Lex.
+6. **First GPU run (v1)**, 2026-10-30: RunPod, 1× A100-SXM4 80 GB (secure cloud, runpod/pytorch CUDA 12.4 image, torch 2.6,
+   gliner2 2.1.0, transformers 5.22.0), driven by `scripts/pod_run.sh` (data and code from the private HF dataset
+   `sb-aiss/legalner-build-v1`; checkpoint, eval JSONs and logs in the private HF model repo `sb-aiss/legalner-v1`).
+   Total cost $3.17, including a first attempt that failed at import time (the image's torchvision did not match torch 2.6).
+   - Smoke (20 steps): 48 GB peak, ≈2 s/step at batch 8 × accum 4. Training: 3 epochs, 5,195 steps, 88 min,
+     31.4 samples/s, 80 GB peak (bf16). Eval of all three models on both sets: 11 min.
+   - The large loss values are not divergence: the checkpoint's boundary head uses `loss_reduction="sum"`, so the loss
+     is summed over all query × position and candidate elements (the logged train loss also over the 4 accumulation
+     micro-batches). Dev loss (8-record batches): 274.0 after 10 smoke steps (≈ base model) → 162.3 (step 1,000) →
+     139.3 (3,000) → 126.7 (5,000, best). It fell at every evaluation, so early stopping never triggered and more
+     epochs may help.
+   - Results (exact-match F1, threshold 0.5; FT = `out/v1/best`, base = `fastino/gliner2.5-multi-v1`,
+     PII = `fastino/gliner2-privacy-filter-PII-multi`; gold = `gold_at`, 550 paragraphs; test = `test.canonical.jsonl`
+     with at most 2,000 records per source, 9,566 records; each record is queried with its covered labels only):
+
+     | Label | n gold | FT gold | base gold | PII gold | n test | FT test | base test | PII test |
+     |---|---:|---:|---:|---:|---:|---:|---:|---:|
+     | **all (micro)** | 6955 | 0.966 | 0.604 | 0.615 | 52569 | 0.901 | 0.502 | 0.546 |
+     | person | 1834 | 0.972 | 0.643 | 0.642 | 11906 | 0.934 | 0.537 | 0.518 |
+     | judge | 192 | 0.957 | 0.259 | 0.459 | 1046 | 0.947 | 0.167 | 0.315 |
+     | lawyer | 130 | 0.828 | 0.147 | 0.177 | 811 | 0.904 | 0.135 | 0.160 |
+     | organization | 663 | 0.943 | 0.598 | 0.632 | 4385 | 0.844 | 0.253 | 0.504 |
+     | court | 324 | 0.986 | 0.689 | 0.665 | 2639 | 0.959 | 0.546 | 0.526 |
+     | address | 259 | 0.986 | 0.894 | 0.701 | 1809 | 0.961 | 0.172 | 0.694 |
+     | street | 6 | 0.857 | 0.091 | 0.043 | 268 | 0.884 | 0.232 | 0.238 |
+     | location | 347 | 0.973 | 0.385 | 0.504 | 2891 | 0.883 | 0.565 | 0.540 |
+     | date | 1284 | 0.993 | 0.892 | 0.892 | 9352 | 0.981 | 0.823 | 0.838 |
+     | case_number | 201 | 0.931 | 0.370 | 0.444 | 1403 | 0.920 | 0.314 | 0.366 |
+     | bank_account | 77 | 1.000 | 0.662 | 0.896 | 425 | 0.982 | 0.515 | 0.837 |
+     | social_security_number | 78 | 0.987 | 0.485 | 0.677 | 412 | 0.987 | 0.460 | 0.623 |
+     | tax_id | 178 | 1.000 | 0.041 | 0.024 | 825 | 0.985 | 0.002 | 0.345 |
+     | company_register_number | 186 | 1.000 | 0.000 | 0.153 | 1012 | 0.915 | 0.310 | 0.258 |
+     | license_plate | 13 | 0.800 | 0.522 | 0.643 | 259 | 0.953 | 0.423 | 0.684 |
+     | land_register_id | 71 | 0.748 | 0.156 | 0.187 | 139 | 0.749 | 0.148 | 0.223 |
+     | id_document_number | 2 | 0.800 | 0.000 | 0.030 | 184 | 0.975 | 0.031 | 0.224 |
+     | other_identifier | 18 | 0.824 | 0.105 | 0.069 | 118 | 0.773 | 0.044 | 0.044 |
+     | phone_number | 12 | 0.960 | 1.000 | 0.960 | 141 | 0.983 | 0.647 | 0.847 |
+     | email | 14 | 0.933 | 0.824 | 0.778 | 331 | 0.988 | 0.876 | 0.923 |
+     | legal_norm | 1066 | 0.953 | 0.767 | 0.769 | 4379 | 0.962 | 0.654 | 0.637 |
+     | case_citation | 0 | – | – | – | 366 | 0.936 | 0.031 | 0.054 |
+     | contract | 0 | – | – | – | 108 | 0.796 | 0.056 | 0.055 |
+     | literature | 0 | – | – | – | 103 | 0.867 | 0.017 | 0.013 |
+     | brand | 0 | – | – | – | 8 | 0.400 | 0.128 | 0.070 |
+     | PII character recall | | 0.978 | 0.817 | 0.910 | | 0.966 | 0.773 | 0.907 |
+
+     | Test slice (micro F1) | n | FT | base | PII |
+     |---|---:|---:|---:|---:|
+     | jur=AT | 24812 | 0.961 | 0.489 | 0.538 |
+     | jur=BE | 866 | 0.965 | 0.545 | 0.660 |
+     | jur=CH | 3876 | 0.960 | 0.579 | 0.674 |
+     | jur=DE | 6617 | 0.956 | 0.405 | 0.442 |
+     | jur=EU | 1370 | 0.658 | 0.386 | 0.337 |
+     | jur=FR | 3539 | 0.941 | 0.445 | 0.587 |
+     | jur=LI | 306 | 0.979 | 0.626 | 0.669 |
+     | jur=LU | 614 | 0.966 | 0.494 | 0.614 |
+     | jur=XX | 10569 | 0.703 | 0.628 | 0.631 |
+     | source=gold_at | 6955 | 0.964 | 0.558 | 0.614 |
+     | source=ler | 1577 | 0.882 | 0.174 | 0.147 |
+     | source=mapa | 1370 | 0.658 | 0.386 | 0.337 |
+     | source=replay | 10569 | 0.703 | 0.628 | 0.631 |
+     | source=ris | 6441 | 0.936 | 0.380 | 0.397 |
+     | source=synthetic | 25504 | 0.968 | 0.544 | 0.633 |
+     | source=synthetic_v1 | 153 | 0.967 | 0.676 | 0.736 |
+
+   - Reading: the fine-tuned model is far ahead on every canonical label (gold micro F1 0.966 vs 0.604/0.615; PII
+     character recall 0.978 vs 0.817/0.910). The largest gains are on labels the baselines lack or confuse: role labels
+     (judge 0.957, lawyer 0.828 on gold), tax ID, company register number, case number, case citation. Weakest:
+     land register ID (0.75), lawyer precision (0.75 on gold), contract, literature, other_identifier, brand (n=8).
+     MAPA (EU, never trained on) went 0.386 → 0.658 and replay (open label set, zero-shot proxy) 0.628 → 0.703, so no
+     sign of forgetting on the replay distribution.
+   - Caveats: 400 of the 550 gold paragraphs are synthetic from the same generators as the training data, and the gold
+     set is only agent-reviewed, so 0.966 is optimistic. RIS test labels are rule-based pseudo-labels (audited 2–8 %
+     misses). The held-out signal is MAPA (0.658). The report does not yet split gold into its RIS and synthetic parts.
+   - **Flair `flair/ner-german-legal`** (LSTM-CRF trained on LER, 19 classes mapped to 12 canonical labels with
+     `legalner.sources.ler.LABEL_MAP`; run on CPU on the same sampled records, replay excluded; micro F1 over the labels
+     Flair can produce):
+
+     | Set | n | FT | base | PII | Flair |
+     |---|---:|---:|---:|---:|---:|
+     | gold_at | 4,562 | **0.959** | 0.560 | 0.585 | 0.650 |
+     | test (all sources but replay) | 26,185 | **0.920** | 0.439 | 0.477 | 0.555 |
+     | test: synthetic | 16,292 | **0.964** | 0.501 | 0.583 | 0.559 |
+     | test: RIS | 2,679 | **0.911** | 0.268 | 0.266 | 0.390 |
+     | test: LER (Flair's own corpus, likely seen in its training) | 1,577 | **0.882** | 0.174 | 0.156 | 0.583 |
+     | test: MAPA | 973 | **0.546** | 0.294 | 0.259 | 0.368 |
+
+     Per label (test): person 0.934 / Flair 0.600, judge 0.947 / 0.160, lawyer 0.904 / 0.116, organization 0.844 /
+     0.605, court 0.959 / 0.605, legal_norm 0.962 / 0.630, location 0.883 / 0.566. Flair is better only on brand (n=8).
+     Flair's role labels (RR, AN) rarely fire on Austrian text; its LER conventions match ours for norms (we adopted
+     them), so the gap there is domain, not convention.
+   - **CPU speed** (same 150 gold paragraphs, 193k characters, 4 threads, idle machine, after warm-up): Flair
+     1,292 chars/s (1.0 paragraphs/s); fine-tuned GLiNER2.5 838 chars/s with all 20 labels, 896 chars/s with Flair's
+     8 labels. Flair is ≈ 1.5× faster. The fine-tuned model runs unoptimised (fp32, two encoder passes per text because
+     role labels are queried separately); merging the passes and int8 quantisation are the obvious levers (not done yet).
+   - **MAPA organisation (F1 0.383) analysed** (2,000 sampled MAPA records, 360 gold org spans; FT model on CPU;
+     MAPA's ORGANISATION is scored against our organization ∪ court):
+     - Precision is mostly an annotation artefact: 276 of 342 false positives hit no MAPA span at all, and they are
+       courts and EU bodies MAPA leaves unannotated ("Gerichtshof" ×82, "High Court" ×35, "Supreme Court",
+       "Verwaltungsgerichtshof", "Europäisches Parlament", "gouvernement autrichien"). Another 28 are court names
+       whose seat MAPA tags as a location ("Tribunale di Teramo"). Counting only predictions that overlap some
+       MAPA span, precision is 0.81, not 0.33. MAPA's organisation annotation is partial, so its precision is not a
+       usable metric; recall is.
+     - Recall 0.46 is a real gap. Misses by type: single-token company or case names ("Simmenthal", "Alpenrind",
+       "Unibet", "Martin-Meat") recall 0.18, often predicted as person; EU institutions and governments
+       ("die Kommission", "Rat", "österreichischen Regierung") 0.39; acronyms and CJEU party initials ("IR", "WRC",
+       "CRP", "CIF") 0.62; multi-token names 0.50; a state as party ("Österreich") 0.00, predicted as location.
+       Some of this is convention (MAPA tags anaphoric "die Stiftung"/"la Fondation", which decision 6 leaves untagged;
+       case short names like "Urteil Simmenthal" have no settled convention), but most contradicts our own rules
+       (decision 5: bare abbreviations are organizations; decision 6: unique bodies are tagged; decision 16: public
+       bodies acting as a party are organizations).
+     - Lowering the threshold does not help (recall 0.456 at 0.5, 0.486 at 0.2): the misses are confident, so the fix
+       is data, not calibration. Training data has almost no EU-court text: no CJEU judgments or AG opinions, few
+       EU institutions, few organisations referred to only by acronym or by a name without legal form.
+     - Fixes, in order of expected effect: (1) synthetic EU documents in de/fr (CJEU judgments, AG opinions,
+       preliminary references) with EU institutions, governments and member states as parties, CJEU-style party initials
+       and acronyms, companies named without legal form; (2) a build-time augmentation that replaces later mentions of
+       an organisation with its parenthesised abbreviation; (3) EUR-Lex text pseudo-labelled by this model (already
+       planned); (4) settle conventions for a state as party ("Österreich" → organization, by analogy to decision 16),
+       bare EU institutions (→ organization) and case short names; (5) score MAPA organisation as recall only, plus a
+       hand-checked precision sample.
+
+7. **Second GPU run (v2)**, 2026-10-30: same pod setup with the smoke gate (`control/go`), build `data/build/v2` (63,401
+   training records: + synthetic v6 EU 240 docs ×3, + EUR-Lex 95 real CJEU/GC/AG documents corrected by agents, mix
+   ler .39 / synthetic .30 / ris .145 / replay .145 / eurlex .02; decisions 25-30; one record with 66 person spans
+   skipped, gliner2.5 allows 64 gold spans per label), 4 epochs, 7,924 steps, 146 min, dev loss 280 → 117 (still
+   falling). Checkpoint, eval JSONs and per-record predictions in the private HF repo `sb-aiss/legalner-v2`. Cost of
+   both v2 attempts ≈ $5.30 (the first stopped itself after 1 min on the 66-span record). v1 was evaluated alongside on
+   the same records.
+
+   | Set (micro F1) | v2 | v1 | gliner2.5-multi | PII-multi |
+   |---|---:|---:|---:|---:|
+   | **MAPA_v2** (3 held-out CJEU documents de+fr, our scheme, 2,186 spans) | **0.871** | 0.691 | 0.379 | 0.433 |
+   | MAPA_v2 organization (561) | **0.813** | 0.556 | 0.490 | 0.557 |
+   | MAPA_v2 court / case_number / judge | **0.959 / 0.923 / 0.780** | 0.748 / 0.286 / 0.333 | | |
+   | MAPA_v2 PII character recall | **0.912** | 0.763 | 0.599 | 0.926 |
+   | MAPA original, partial org scoring (1,318) | **0.734** | 0.717 | 0.520 | 0.476 |
+   | MAPA original organization | **0.625** | 0.553 | 0.655 | 0.653 |
+   | EUR-Lex test documents (515) | **0.859** | 0.742 | 0.471 | 0.556 |
+   | gold_at (6,955) | 0.965 | 0.965 | 0.583 | 0.616 |
+   | test overall (10,004 records, 56,939 spans) | **0.906** | 0.891 | 0.510 | 0.554 |
+   | test: LER / RIS / replay | 0.911 / 0.939 / 0.708 | 0.881 / 0.933 / 0.703 | | |
+
+   The EU gap is mostly closed without loss on Austrian text (gold unchanged) or on replay (no forgetting). Caveats:
+   MAPA_v2 was pre-annotated by v1 and corrected by agents (Sonnet), which if anything anchors it towards v1; it has
+   only three underlying documents. On the original MAPA, organization stays at 0.63 because MAPA's convention differs
+   (no courts or EU bodies, anaphoric "Stiftung" tagged); the baselines' 0.65 there comes from tagging everything.
+   Remaining weak spot: person on MAPA_v2 (0.614, v1 0.626). The errors are case short names ("Urteil Simmenthal",
+   "CIF", "Costanzo", "Levy", "von Colson"): decision 27 labels them by the party, which needs world knowledge the text
+   does not give. Proposed: label case short names consistently (e.g. as part of `case_citation`, or always
+   `organization`) instead of by party type.
+Next: human review of the gold set and a gold slice by origin (RIS vs synthetic); a per-label threshold sweep
+(0.3–0.7); a longer run (dev loss was still falling after 3 epochs); teacher pseudo-labels for RIS organisations and
+places; EUR-Lex; the held-out zero-shot label check (medication, vehicle model). `scripts/pod_run.sh` now waits after
+smoke for `control/go` in the output repo (`control/abort` or a 60 min timeout stops the pod).
+
+## Production feedback and the 2026-11 plan
+
+v2 runs in the hub2 anonymisation service (one `extract_entities_long` call per page, 96-word chunks, all labels in
+one call, roles off; courts, dates, norms and countries stay visible). Its agent reported PII char recall 98.55 % /
+precision 97.96 % on gold_at (with its regexes) and these gaps: letter-spaced letterheads ("R e c h t s a n w ä l t e"),
+party file references ("Zeichen V-PPPahl/Grazer"), land register extracts (TZ numbers, "EZ⏎105"), dates of birth
+(zero-shot only), countries, courts winning over places, postcode + place, long windows. A second agent built the
+synthetic OBDK benchmark (`data/test/obdk_synth`, 200 lawyer-disciplinary decisions, evaluation only): v2 F1 0.84,
+PII char recall 92.2 %; disciplinary bodies tagged organization (court recall 0.44), phone extensions cut off (F1
+0.28), other identifiers missed (recall 0.32).
+
+Done (steps 2, 4, 5 of the plan; step 3 = synthetic v7 and step 6 = training run v3 need separate approval):
+- Decisions 31-38 (`GENERATION.md`): `country` and `date_of_birth` labels, postcode + place as `address`, phone
+  extensions inside the span, disciplinary bodies as `court`, `other_identifier` kinds, "St." places, roles no longer
+  queried (every judge/lawyer span is also `person`; `schema.QUERY_ROLES = False`). `legalner/relabel.py` applies them
+  to every source when records are read: 1,878 dates of birth, ≈ 2,980 countries, 46 postcode lines, 1 court.
+- `legalner/augment.py` with build flags: layout noise (`--layout-frac`; letter-spacing, page breaks, hard wraps with
+  hyphenation, broken spacing, OCR swaps), name swap from gazetteer decks (`--name-swap-copies`; weighted by list size
+  so all names are covered), re-windowing of synthetic and EUR-Lex documents to 50-700 words (`--windows`). Trial build:
+  72,541 training records (16.5k name-swapped copies, 13k with layout noise), all valid.
+- Gazetteers: 18 more European countries; WGND 2.0 first names up to 8,000 per European country (57k -> 121k);
+  surnames up to 4,000 per European country from Wikidata; names drawn from shuffled decks without replacement.
+- `legalner/prodeval.py`: production-mode evaluation (the service's query, chunk sizes, post-processing): char recall,
+  leaked mentions, precision on fully annotated sets, visible text masked. `data/test/regression`: the reported
+  production misses as permanent cases (v1 leaks 8 of 11 mentions there). The GPU eval step now also runs the OBDK set
+  and the production-mode eval.
+
+Step 3 (synthetic v7, approved 2026-11-03) is done:
+- `legalner/practice.py` writes briefs for 11 practice document types with per-type profiles (fields, court kind,
+  identifier kinds, hard cases, length ranges, roles such as deceased/heirs or senate/Kammeranwalt/accused), verbatim
+  strings for the error-prone spans (informal land register references, phone extensions, file references,
+  letterheads incl. letter-spaced ones, dates of birth with cues) and gender-correct Slavic surnames.
+- Pilot (165 docs) and re-pilot (8 docs): audit 1.2 % span errors (`docs/audits/synthetic_v7_pilot.md`); the brief
+  generator was fixed from the audit and from writer reports during the run (identifier clutter, copied example
+  names, lengths, roles, dates after today, future deaths, junk WGND surnames, famous surnames, literal ⏎ symbols).
+- Full run `v7s`: 1,100 LLM-written documents in 74 batches (305 disciplinary decisions, 171 letters, 136 e-mail
+  threads, 121 purchase contracts, 120 ERV briefs, 74 fee notes, 65 police reports, 57 probate documents, 51 leases),
+  every batch strict-clean and audit-clean; lengths mostly 80-100 % of the brief targets (b069 ≈ 60 %).
+- By program: 300 land register extracts (`legalner.sources.grundbuch`) and 150 company register extracts + 150 ZMR
+  documents (`legalner.sources.registers`), ≈ 20 % of each in scan mode with OCR noise.
+- Total v7: 1,873 documents, ≈ 1.02 M words, 97,852 spans (person 22.8k, date 17.9k, organization 8.4k,
+  land_register_id 6.7k, other_identifier 5.1k, date_of_birth 4.5k, address 4.3k, court 3.6k, phone 2.8k).
+  `scripts/gpu_run.sh` picks up `raw_v7`, `raw_v7_grundbuch` and `raw_v7_registers`.
+
+Step 6, training run v3 = **Isel v3** (`sb-aiss/isel-v3`, private), 2026-11-03/04:
+- Build `data/build/v3`: no source mix (every record once), synthetic ×2, BVwG ≤ 300 windows; 153,473 training records
+  (LER 46 %, synthetic 35 %, RIS 12 %, replay 7 %, EUR-Lex 0.2 %). Clean dataset `sb-aiss/legalner-at-data`.
+- A100 SXM (community, $1.39/h), 5 epochs = 23,980 steps at 2.15 s/step, 14 h 20 min; dev loss 286 → 43 (still falling
+  until the LR reached zero; part of that is LER's sentence-level split). A first attempt was stopped after 1 h 40 min
+  ($2.49) because the 11 h watchdog would have cut training before the checkpoint upload; `pod_run.sh` now uploads the
+  best checkpoint whenever it changes and before a watchdog stop. Total ≈ $23 incl. the aborted attempt.
+- The eval step crashed in `prodeval` on the base model (prediction offsets past the text end; fixed), so the PII model
+  was not evaluated this time; Isel v3, v2 and the base model are complete.
+
+  | Set | Isel v3 | v2 | gliner2.5-multi |
+  |---|---:|---:|---:|
+  | gold_at micro F1 | **0.977** | 0.967 | 0.527 |
+  | MAPA_v2 micro F1 | 0.836 | **0.860** | 0.423 |
+  | test v3 (2k/source) | **0.909** | 0.880 | 0.507 |
+  | OBDK synthetic | **0.950** | 0.866 | 0.527 |
+  | prod 96 words: PII char recall / precision | 0.955 / **0.978** | 0.954 / 0.795 | 0.845 / 0.590 |
+  | prod 96: leaked mentions gold / OBDK / regression | **2.2 % / 5.6 % / 2.2 %** | 2.4 % / 7.6 % / 28.8 % | 23.6 % / 23.8 % / 69.1 % |
+  | prod 96: visible text masked (courts, dates, norms) | **0.5 %** | 24.7 % | 30.4 % |
+
+  Per label (gold / OBDK): land register 0.889 / 0.983 (v2 0.738 / 0.906), country 0.966 / 0.800 (0.718 / 0.270),
+  phone 1.000 / 0.950 (1.000 / 0.288), other identifiers 0.909 / 0.973 (0.824 / 0.578), disciplinary courts on OBDK
+  0.892 (0.608); weak: OBDK organization 0.659, gold licence plate 0.667 (n=13).
+  Regression: MAPA_v2 (EU) case numbers 0.725 (v2 0.929), dates 0.965 (0.990), organization 0.778 (0.797); likely
+  cause: without the mix EUR-Lex fell from 2 % to 0.2 % of training. 384-word chunks are worse than 96 (recall
+  0.871 vs 0.955); keep 96 in production.
+
+Follow-up (EU weighting, bare "Kommission", OBDK convention alignment) and lessons learned for the next run:
+`docs/LESSONS_LEARNED.md`.
+
+Post-processing for Isel v3 (2026-11-04, CPU): per-label thresholds tuned on a dev sample (2,443 records without LER
+and replay; F2 with precision ≥ 0.85 for PII labels, F1 for visible labels; `models/isel-v3/thresholds.json`) and
+document-level name propagation (`legalner/postprocess.py`; never into text the model labelled visible). Production
+mode, all sets: leaked mentions 5.7 % → 4.2 %, PII char recall 0.954 → 0.968, precision 0.978 → 0.967, visible text
+masked 0.5 % → 1.1 %; MAPA_v2 leaks 20.9 % → 8.5 %. A first propagation version masked chamber names inside court
+names (visible masked 4.5 %) and was fixed by protecting visible predictions. Integration: `docs/ISEL_SERVICE_INTEGRATION.md`.
+
+ONNX, vocabulary pruning, int8 (2026-11-04, CPU; `legalner/onnx_export.py`, `legalner/vocab_prune.py`,
+`legalner/bench.py`). Only the encoder (97 % of the parameters) is exported; GLiNER2's heads and decoding stay in
+PyTorch (a torch-free runtime would mean reimplementing ~8,500 lines of decoding).
+- ONNX fp32 (`sb-aiss/isel-v3-onnx`): encoder states max |Δ| 1.8e-4; gold F1 0.9775 = PyTorch; 1,281 vs 1,162 chars/s.
+- int8 variants on gold (PyTorch 0.9775): dynamic, all MatMuls 0.967 (337 MB, fastest); dynamic, weight MatMuls only
+  0.967; FFN only 0.965 (the loss comes from dynamically quantized activations, not from attention); weight-only int8
+  (MatMulNBits) 0.977-0.978.
+- Vocabulary pruning: keep Latin/Cyrillic/Greek script + every training token = 169,251 of 250,112 rows, 0 OOV on
+  657k held-out tokens (corpus-only: 79k rows but 470 OOV, rejected). Tokenizer unchanged, `id_map.npy`.
+- Final `sb-aiss/isel-v3-int8`: pruned + weight-only int8 + uint8 embeddings, **285 MB** (from 1.1 GB); gold F1 0.9769;
+  production mode with thresholds + propagation: leaked 4.15 % (PyTorch 4.24 %), recall 0.969, precision 0.965,
+  visible masked 1.3 %. CPU speed ≈ PyTorch (1,151 chars/s): the gain is size and memory, not speed; the GLiNER2
+  pre-/post-processing around 96-word chunks is probably a large share of the time (not profiled yet).
+- Flair re-measured in a separate venv gave 165 chars/s unbatched per paragraph, not comparable with the earlier
+  1,292 chars/s (different method); by the earlier figure Isel v3 in PyTorch is now about as fast as Flair (roles are
+  no longer queried in a second pass).
 
 ## Open questions
 

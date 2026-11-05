@@ -70,7 +70,25 @@ def convert_row(row, split, idx):
 def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("-o", "--out", default="data/canonical/mapa")
+    ap.add_argument("--chunks", metavar="CANONICAL_JSONL",
+                    help="instead of downloading: write the documents of this converted split as unlabelled chunks "
+                         "(sentences joined per document, <= 1200 chars) to -o, for re-annotation (mapa_v2)")
     args = ap.parse_args(argv)
+    if args.chunks:
+        from legalner.sources.eurlex import chunk
+        docs = {}
+        for line in open(args.chunks, encoding="utf-8"):
+            r = json.loads(line)
+            docs.setdefault(r["doc_id"], (r["lang"], []))[1].append((r["meta"]["sentence"], r["text"]))
+        n = 0
+        with open(args.out, "w", encoding="utf-8") as fh:
+            for doc_id, (lang, sents) in docs.items():
+                for i, text in enumerate(chunk([t for _, t in sorted(sents)])):
+                    fh.write(json.dumps({"id": f"{doc_id}/{i}", "doc_id": doc_id, "lang": lang, "type": "cjeu",
+                                         "chunk": i, "text": text}, ensure_ascii=False) + "\n")
+                    n += 1
+        print(f"{n} chunks from {len(docs)} documents -> {args.out}")
+        return
     from huggingface_hub import hf_hub_download
     out = pathlib.Path(args.out)
     out.mkdir(parents=True, exist_ok=True)

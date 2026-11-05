@@ -1,0 +1,55 @@
+---
+doc_type: bescheid_beschwerde_ausschuss
+jurisdiction: AT
+lang: de
+year: 2010
+---
+[[court|OBERSTE BERUFUNGS- UND DISZIPLINARKOMMISSION FÜR RECHTSANWÄLTE UND RECHTSANWALTSANWÄRTER]]
+Justizpalast, [[address|Schmerlingplatz 11, 1011 Wien]]
+Tel. [[phone_number|01/52152 DW 3783]]
+
+[[case_number|Bkd 13/10]]
+
+BESCHLUSS
+
+Die [[court|Oberste Berufungs- und Disziplinarkommission für Rechtsanwälte und Rechtsanwaltsanwärter]] hat am [[date|13. Dezember 2010]] durch den Senatspräsidenten des [[court|Obersten Gerichtshofes]] [[judge|Dr. Roland Fladischer]] als Vorsitzenden, die Anwaltsrichterin [[judge|Dr. Heidemarie Sattler]] und den Anwaltsrichter [[judge|Dr. Peter Hubmann]] sowie den Hofrat des [[court|Obersten Gerichtshofes]] [[judge|Dr. Ewald Rieder]] als weitere Richter, in Gegenwart der Schriftführerin [[person|Mag. Carina Stiegler]], in der Verwaltungssache des Rechtsanwalts [[lawyer|Dr. Christoph Rinner]], [[address|Herrengasse 12, 8010 Graz]], über dessen Beschwerde gegen den Bescheid des Ausschusses der [[organization|Rechtsanwaltskammer für Steiermark]] vom [[date|14.3.2010]], Zl. [[case_number|A 52/10]], nach Anhörung des Vertreters der [[organization|Generalprokuratur]] in nichtöffentlicher Sitzung beschlossen:
+
+Der Beschwerde wird teilweise Folge gegeben. Der angefochtene Bescheid wird in seinem Punkt 3 aufgehoben. Im Übrigen wird die Beschwerde abgewiesen.
+
+Begründung:
+
+Mit dem angefochtenen Bescheid trug der Ausschuss der [[organization|Rechtsanwaltskammer für Steiermark]] dem Beschwerdeführer, der in der [[organization|Kanzlei Dr. Rinner & Partner Rechtsanwälte GmbH]] mit der Identifikationsnummer [[tax_id|ATU35216351]] in [[location|Graz]] tätig ist, nach einer Aufsichtsprüfung folgende Maßnahmen auf:
+
+1. Der Beschwerdeführer habe die Übermittlung personenbezogener Mandantendaten per E-Mail an Dritte, insbesondere an Versicherungen, Sachverständige und Steuerberater, künftig nur mehr verschlüsselt vorzunehmen.
+
+2. Er habe die in der Kanzlei beschäftigten Personen über die Verschwiegenheitspflicht nach [[legal_norm|§ 9 Abs 2 RAO]] nachweislich zu belehren.
+
+3. Er habe die von der Kammer festgesetzte Kammerumlage für das Jahr 2009 binnen vier Wochen nachzuzahlen.
+
+Der Bescheid beruht auf folgendem Sachverhalt:
+
+Am [[date|2. Februar 2010]] fand in der Kanzlei des Beschwerdeführers eine Prüfung durch einen Beauftragten des Ausschusses statt. Anlass war die Anzeige des früheren Mandanten [[person|Tomasz Kaczmarek]], der angab, sein Rechtsanwalt habe ohne seine Einwilligung Daten aus seinem Verfahren an eine Versicherung und an den Sachverständigen übermittelt. Im Zuge der Prüfung kam hervor, dass die Kanzleimitarbeiterin [[person|Oksana Bondarenko]] in der Zeit vom [[date|1.]] bis [[date|15. Juni 2009]] mehrere E-Mails mit Unterlagen aus dem Akt des Mandanten an die [[organization|Steirische Allgemeine Versicherungs AG]] gesandt hatte, darunter eine Nachricht vom [[date|9. 6. 2009]], in der auch die Sozialversicherungsnummer des Mandanten, nämlich SV-Nr. [[social_security_number|4394 180961]], in der Betreffzeile stand. Die Nachricht war an die Adresse [[email|schaden@steirische-allgemeine.at]] gerichtet; die Antwort der Versicherung langte unter [[email|office@rinner-recht.at]] ein.
+
+Bei der Prüfung stellte der Beauftragte außerdem fest, dass die Kanzlei die Wartung ihrer EDV an die [[organization|TKA IT-Services GmbH]], UID [[tax_id|ATU57618224]], ausgelagert hatte, deren Techniker [[person|Mykola Tkachenko]] über den Zugang [[email|support@tka-it.at]] Fernzugriff auf die Kanzleidaten besaß. Eine schriftliche Verpflichtung zur Verschwiegenheit lag nicht vor. Im Zuge der Prüfung wurde ein weiterer Vorfall bekannt. Die Mandantin [[person|Iryna Melnyk]], wohnhaft in [[location|Leibnitz]], war vom Beschwerdeführer in einer Pensionsangelegenheit vertreten worden. Am [[date|17. Juli 2009]] leitete der Beschwerdeführer eine E-Mail der Mandantin, in der ihre Sozialversicherungsnummer [[social_security_number|5221 240975]] und ihre Bankverbindung genannt waren, an die Steuerberaterin [[person|Mag. Barbara Eder]] in [[location|Leibnitz]] weiter, ohne die Mandantin zuvor zu fragen. Die Steuerberaterin hatte mit der Angelegenheit nichts zu tun und gab an, die Nachricht irrtümlich erhalten zu haben. Auf Vorhalt erklärte der Beschwerdeführer, er habe die Weiterleitung für eine Rückfrage zur steuerlichen Behandlung der Pensionsnachzahlung vorgenommen. Der Beauftragte des Ausschusses hielt dazu in seinem Bericht fest, dass sich diese Auskunft mit den Akten nicht deckte, weil eine solche Rückfrage in den Unterlagen nicht dokumentiert war.
+
+Der Ausschuss sah darin eine Verletzung der Verschwiegenheitspflicht und erteilte die oben genannten Aufträge. Er begründete seinen Bescheid damit, dass die Weitergabe von Mandantendaten ohne ausdrückliche Zustimmung und über ungesicherte Kanäle eine Gefahr für das Vertrauensverhältnis zwischen Rechtsanwalt und Partei darstelle. Da der Beschwerdeführer bereits im Jahr 2007 vom Ausschuss auf die Einhaltung der Verschwiegenheit hingewiesen worden war, sei ein bloßer Hinweis nicht ausreichend, sondern ein Auftrag mit Frist erforderlich gewesen.
+
+In seiner Gegenschrift vom [[date|3. 5. 2010]] hat der Ausschuss der [[organization|Rechtsanwaltskammer für Steiermark]] die Abweisung der Beschwerde beantragt. Er hält an seiner Auffassung fest, dass die Weitergabe der Daten der Mandantin [[person|Melnyk]] an die Steuerberaterin eine eigenständige Verletzung der Verschwiegenheit bildete, die der Beschwerdeführer in seiner Beschwerde gar nicht bestritten habe. Die [[organization|Generalprokuratur]] hat in ihrer Stellungnahme vom [[date|20. September 2010]] die Auffassung vertreten, die Aufträge in den Punkten 1 und 2 seien rechtmäßig, hinsichtlich des Punktes 3 sei die Beschwerde hingegen berechtigt.
+
+Der Beschwerdeführer macht in seiner Beschwerde im Wesentlichen geltend, die Versicherung sei vom Mandanten selbst als Haftpflichtversicherer benannt worden, sodass die Datenweitergabe von der Vollmacht gedeckt gewesen sei. Die Verwendung der Sozialversicherungsnummer sei bei der Schadensabwicklung üblich. Zur Verschwiegenheit habe er die Mitarbeiter bereits früher belehrt, sodass der Auftrag zu Punkt 2 überflüssig sei. Zum Auftrag in Punkt 3 bringt er vor, die Kammerumlage für 2009 sei am [[date|28. Februar 2010]] bezahlt worden, was der Ausschuss übersehen habe; er legt dazu eine Überweisungsbestätigung der Kammer vor. [[lawyer|Dr. Rinners]] Beschwerdeschrift vom [[date|12. April 2010]] enthält auch einen Antrag auf Anberaumung einer mündlichen Verhandlung.
+
+Die Beschwerde ist teilweise berechtigt.
+
+Zu den Punkten 1 und 2: Nach [[legal_norm|§ 9 Abs 2 RAO]] ist der Rechtsanwalt zur Verschwiegenheit über die ihm anvertrauten Angelegenheiten und über alle Tatsachen verpflichtet, deren Geheimhaltung im Interesse seiner Partei gelegen ist. Diese Pflicht erfasst auch personenbezogene Daten, die der Anwalt zum Zweck der Prozessführung benötigt. Sie ist nicht schon dadurch erfüllt, dass sich der Anwalt auf eine Vollmacht beruft. Maßgeblich ist, ob die Weitergabe zur Wahrung der Interessen des Mandanten erforderlich ist. Das ist bei einem Versicherer, der um Deckung angeht, grundsätzlich der Fall. Die Übermittlung der Sozialversicherungsnummer in der Betreffzeile einer unverschlüsselten Nachricht war nicht erforderlich, weil die Versicherung die Schadensnummer verwenden konnte. Diese Information über einen offenen Kommunikationsweg zu schicken, entspricht nicht dem Gebot der besonderen Sorgfalt bei sensiblen Daten. Der Ausschuss hat daher zu Recht verlangt, dass die Kanzlei künftig Maßnahmen zur Verschlüsselung trifft. Dass der Beschwerdeführer die Mitarbeiter bereits früher belehrt habe, hat er nicht nachgewiesen; der Auftrag in Punkt 2 zielt nur darauf ab, die Belehrung zu dokumentieren und ist daher nicht überflüssig. Ob die Weitergabe der Sozialversicherungsnummer des Mandanten gegen das [[legal_norm|DSG 2000]] verstieß, braucht nicht beurteilt zu werden, weil die Kammer insoweit nicht zuständig ist.
+
+Besonders ins Gewicht fällt, dass der Beschwerdeführer die Nachricht der Mandantin [[person|Melnyk]] an die Steuerberaterin [[person|Eder]] ohne Anlass weiterleitete. Die Frage, ob eine Pensionsnachzahlung steuerlich relevant ist, hätte sich auch ohne Offenlegung der Sozialversicherungsnummer und der Bankverbindung klären lassen. Der Rechtsanwalt hat bei der Weitergabe von Daten jeweils zu prüfen, ob sie für den Auftrag erforderlich ist und mit welchen Mitteln er die Vertraulichkeit sicherstellt. Die bloße Möglichkeit, dass die Information nützlich sein könnte, genügt nicht. Der Beschwerdeführer kann sich daher nicht mit Erfolg darauf berufen, die Weiterleitung sei im Interesse der Mandantin erfolgt, solange er sie über die Weiterleitung nicht unterrichtete.
+
+Hinsichtlich der Wartungsfirma ist ergänzend zu bemerken, dass die Auslagerung der EDV nicht schlechthin unzulässig ist, die Kanzlei aber durch eine schriftliche Vereinbarung sicherstellen muss, dass die [[organization|TKA IT-Services GmbH]] und ihre Techniker zur Verschwiegenheit verpflichtet sind. Dem hat der Beschwerdeführer, wie er in der Beschwerde einräumt, erst im Mai 2010 entsprochen. Diese nachträgliche Sanierung ändert zwar nichts daran, dass der Ausschuss den Missstand zum Zeitpunkt seiner Entscheidung zu Recht aufgegriffen hat, sie wirkt sich aber auf den Auftrag in Punkt 2 aus: Der Beschwerdeführer hat die Belehrung seiner Mitarbeiter, darunter [[person|Bondarenko]], zwischenzeitlich durchgeführt und mit unterfertigten Verpflichtungserklärungen belegt. Es ist ihm daher aufzutragen, diese Erklärungen aufzubewahren und dem Ausschuss auf Verlangen vorzulegen. Weitergehende Maßnahmen sind nicht erforderlich, weil bisher kein Fall bekannt geworden ist, in dem Daten durch Mitarbeiter der Wartungsfirma tatsächlich offengelegt wurden. Der Ausschuss wird allerdings zu beobachten haben, ob die vom Beschwerdeführer angekündigte Verschlüsselung der E-Mails tatsächlich eingeführt wird.
+
+Zu Punkt 3: Der Beschwerdeführer hat durch die vorgelegte Überweisungsbestätigung glaubhaft gemacht, dass er die Kammerumlage für das Jahr 2009 am [[date|28. Februar 2010]] entrichtet hat. Der Ausschuss hat in seiner Gegenschrift vom [[date|3. 5. 2010]] diesen Umstand nicht in Abrede gestellt, sondern nur darauf verwiesen, dass die Zahlung bei der Kammer erst am [[date|3. März 2010]] verbucht wurde. Für die Beurteilung der Rechtzeitigkeit kommt es aber auf den Zeitpunkt der Überweisung an. Der Auftrag zu Punkt 3 hatte daher zu entfallen.
+
+Der Antrag auf Durchführung einer mündlichen Verhandlung war abzuweisen, weil der Sachverhalt feststeht und nur Rechtsfragen zu beurteilen waren; dem Beschwerdeführer ist dadurch kein Nachteil entstanden, weil er Gelegenheit hatte, sich in einer ausführlichen Beschwerde und einer Replik zu äußern. Ein Verstoß gegen [[legal_norm|Art 6 EMRK]] liegt darin nicht, weil es sich nicht um ein Verfahren über eine strafrechtliche Anklage handelt.
+
+Die Entscheidung war daher spruchgemäß zu treffen.
+
+[[location|Wien]], am [[date|13. Dezember 2010]]

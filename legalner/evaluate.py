@@ -36,16 +36,21 @@ def score(records, predictions):
     counts = collections.defaultdict(lambda: [0, 0, 0])  # key -> tp, fp, fn
     pii_gold = pii_hit = 0
     for rec, pred in zip(records, predictions):
-        labels = query_labels(rec)
-        merge = SOURCES[rec["source"]].eval_merge
+        coarse = rec.get("meta", {}).get("coarse_labels")
+        labels = coarse or query_labels(rec)
+        merge = {} if coarse else SOURCES[rec["source"]].eval_merge
         scored = {lab: set().union(*(pred.get(m, set()) for m in merge.get(lab, (lab,)))) for lab in labels}
         gold = collections.defaultdict(set)
         for s in rec["spans"]:
             if s["label"] in labels:
                 gold[s["label"]].add((s["start"], s["end"]))
         slices = ("all", f"source={rec['source']}", f"jur={rec['jurisdiction']}")
+        all_gold = [(s["start"], s["end"]) for s in rec["spans"]]
+        partial = SOURCES[rec["source"]].eval_partial
         for lab in labels:
             g, p = gold.get(lab, set()), scored[lab]
+            if lab in partial:  # unannotated regions: only predictions touching some gold span can be wrong
+                p = {q for q in p if q in g or any(q[0] < e and s < q[1] for s, e in all_gold)}
             tp, fp, fn = len(g & p), len(p - g), len(g - p)
             for sl in slices:
                 for key in ((sl, lab), (sl, "*")):
@@ -63,8 +68,46 @@ def score(records, predictions):
     return {"pii_char_recall": pii_hit / pii_gold if pii_gold else None, "scores": table}
 
 
-def predict(model, records, threshold, batch_size):
-    """Run the model on each record with exactly the record's covered labels."""
+# Coarse groups for comparing models with other label inventories (Flair/LER, MAPA, other GLiNER label
+# names): role labels fold into person, courts into organization, all places, identifiers and legal references
+# into one group each. A group member is scored only where the source covers it.
+COARSE = {
+    "person": ("person", "judge", "lawyer"),
+    "organization": ("organization", "court"),
+    "place": ("address", "street", "location", "country"),
+    "date": ("date", "date_of_birth"),
+    "identifier": ("case_number", "bank_account", "social_security_number", "tax_id", "company_register_number",
+                   "license_plate", "land_register_id", "id_document_number", "other_identifier", "phone_number",
+                   "email"),
+    "legal_reference": ("legal_norm", "case_citation", "contract", "literature"),
+}
+
+
+def to_coarse(records, predictions):
+    """Records and predictions mapped onto COARSE groups (same offsets); feed the result to score()."""
+    recs, preds = [], []
+    for rec, pred in zip(records, predictions):
+        labels = query_labels(rec)
+        merge = SOURCES[rec["source"]].eval_merge
+        groups = {g: [m for m in members if m in labels] for g, members in COARSE.items()}
+        groups = {g: ms for g, ms in groups.items() if ms}
+        spans, seen = [], set()
+        for s in rec["spans"]:
+            for g, ms in groups.items():
+                if s["label"] in ms and (g, s["start"], s["end"]) not in seen:
+                    seen.add((g, s["start"], s["end"]))
+                    spans.append(dict(s, label=g))
+        # gold uses the covered members only; predictions count from any member (judge for a MAPA person is a hit)
+        pr = {g: set().union(*(pred.get(x, set()) for m in COARSE[g] for x in merge.get(m, (m,)))) for g in groups}
+        recs.append(dict(rec, spans=spans, meta=dict(rec.get("meta", {}), coarse_labels=sorted(groups))))
+        preds.append(pr)
+    return recs, preds
+
+
+def predict(model, records, threshold, batch_size, with_conf=False):
+    """Run the model on each record with exactly the record's covered labels.
+
+    with_conf: values are {(start, end): confidence} instead of sets of (start, end)."""
     preds = []
     for i in range(0, len(records), batch_size):
         batch = records[i:i + batch_size]
@@ -84,13 +127,24 @@ def predict(model, records, threshold, batch_size):
                 names = {surface(lab): lab for lab in part}
                 results = model.batch_extract_entities(
                     [batch[j]["text"] for j in idxs], list(names), threshold=threshold,
-                    include_spans=True, batch_size=batch_size)
+                    include_spans=True, include_confidence=with_conf, batch_size=batch_size)
                 for j, res in zip(idxs, results):
                     ents = res.get("entities", res)
-                    out[j].update({names[name]: {(m["start"], m["end"]) for m in mentions}
-                                   for name, mentions in ents.items() if name in names})
+                    if with_conf:
+                        out[j].update({names[name]: {(m["start"], m["end"]): float(m.get("confidence", 1.0))
+                                                     for m in mentions}
+                                       for name, mentions in ents.items() if name in names})
+                    else:
+                        out[j].update({names[name]: {(m["start"], m["end"]) for m in mentions}
+                                       for name, mentions in ents.items() if name in names})
         preds.extend(out)
     return preds
+
+
+def apply_thresholds(preds, thresholds, default=0.5):
+    """{label: {(start, end): conf}} -> {label: {(start, end)}} keeping spans at or above the label's threshold."""
+    return [{lab: {k for k, c in spans.items() if c >= thresholds.get(lab, default)} for lab, spans in p.items()}
+            for p in preds]
 
 
 def main(argv=None):
@@ -98,16 +152,28 @@ def main(argv=None):
     ap.add_argument("model", help="checkpoint dir or Hub id")
     ap.add_argument("data", nargs="+", help="canonical JSONL files")
     ap.add_argument("--threshold", type=float, default=0.5)
+    ap.add_argument("--thresholds", help="JSON {label: threshold}; labels not listed use --threshold")
+    ap.add_argument("--with-conf", action="store_true", help="save confidences with --save-preds ([start, end, conf])")
     ap.add_argument("--batch-size", type=int, default=8)
-    ap.add_argument("--device", default=None)
+    ap.add_argument("--device", default=None, help="default: cuda if available, else cpu")
     ap.add_argument("--out", help="write full JSON report here")
+    ap.add_argument("--save-preds", help="write per-record predictions (JSONL: id, {label: [[start, end]]}) here")
     ap.add_argument("--max-per-source", type=int, default=0, help="random sample per source (0 = all)")
     ap.add_argument("--seed", type=int, default=13)
+    ap.add_argument("--onnx", help="run the encoder from this ONNX file (legalner.onnx_export)")
+    ap.add_argument("--id-map", help="token id map of a vocabulary-pruned ONNX encoder (.npy)")
     args = ap.parse_args(argv)
 
     from gliner2 import AutoExtractor
-    kwargs = {"map_location": args.device} if args.device else {}
-    model = AutoExtractor.from_pretrained(args.model, **kwargs)
+    if args.device is None:
+        import torch
+        args.device = "cuda" if torch.cuda.is_available() else "cpu"
+    if args.onnx:  # encoder in ONNX Runtime, heads and decoding unchanged (legalner.onnx_export)
+        from legalner.onnx_export import load_with_onnx
+        model = load_with_onnx(args.model, args.onnx, args.id_map)
+    else:
+        model = AutoExtractor.from_pretrained(args.model, map_location=args.device)
+        model.eval()
     records = list(read_records(args.data))
     if args.max_per_source:
         import random
@@ -116,8 +182,21 @@ def main(argv=None):
             by[r["source"]].append(r)
         rng = random.Random(args.seed)
         records = [r for recs in by.values() for r in rng.sample(recs, min(len(recs), args.max_per_source))]
-    report = score(records, predict(model, records, args.threshold, args.batch_size))
-    report.update(model=args.model, threshold=args.threshold, n_records=len(records),
+    per_label = json.load(open(args.thresholds)) if args.thresholds else {}
+    query = min([args.threshold, *per_label.values()])
+    conf = predict(model, records, query, args.batch_size, with_conf=True)
+    preds = apply_thresholds(conf, per_label, args.threshold)
+    report = score(records, preds)
+    report["coarse"] = score(*to_coarse(records, preds))["scores"]
+    if args.save_preds:
+        with open(args.save_preds, "w") as fh:
+            for rec, p, cp in zip(records, preds, conf):
+                if args.with_conf:
+                    pred = {k: sorted([s, e, round(c, 4)] for (s, e), c in v.items()) for k, v in cp.items()}
+                else:
+                    pred = {k: sorted(v) for k, v in p.items()}
+                fh.write(json.dumps({"id": rec["id"], "pred": pred}) + "\n")
+    report.update(model=args.model, threshold=args.threshold, thresholds=per_label, n_records=len(records),
                   data=args.data, max_per_source=args.max_per_source, seed=args.seed)
     if args.out:
         with open(args.out, "w") as fh:

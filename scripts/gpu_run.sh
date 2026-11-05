@@ -3,7 +3,7 @@
 #
 #   bash scripts/gpu_run.sh setup     # venv with CUDA torch + gliner2 (once)
 #   bash scripts/gpu_run.sh data      # regenerate data/canonical (RIS fetch ~25 min, HF downloads)
-#   bash scripts/gpu_run.sh build     # data/build/v1 (mix 40/30/15/15, gold excluded, validated)
+#   bash scripts/gpu_run.sh build     # data/build/v3: every record once, synthetic x2 (no source mix), gold excluded, validated
 #   bash scripts/gpu_run.sh smoke     # 20 steps, checks memory and speed
 #   bash scripts/gpu_run.sh train     # full run -> out/v1
 #   bash scripts/gpu_run.sh eval      # fine-tuned model and baselines on gold / test sets
@@ -14,8 +14,8 @@
 set -euo pipefail
 cd "$(dirname "$0")/.."
 PY=.venv/bin/python
-BUILD=data/build/v1
-RUN=out/v1
+BUILD=${BUILD:-data/build/v1}
+RUN=${RUN:-out/v1}
 CUDA=${CUDA:-cu124}
 
 case "${1:-}" in
@@ -36,9 +36,20 @@ data)
   if [ -d data/synthetic/raw_v5 ]; then
     $PY -m legalner.tagged data/synthetic/raw_v5 -o data/canonical/synthetic_v5.jsonl --source synthetic
   fi
+  $PY -m legalner.tagged data/synthetic/raw_v6 -o data/canonical/synthetic_v6.jsonl --source synthetic_eu
+  # v7: practice documents (LLM-written from legalner.practice briefs) and programmatic register documents
+  for d in raw_v7 raw_v7_grundbuch raw_v7_registers; do
+    if [ -d data/synthetic/$d ]; then
+      $PY -m legalner.tagged data/synthetic/$d -o data/canonical/synthetic_${d#raw_}.jsonl --source synthetic
+    fi
+  done
+  $PY -m legalner.tagged data/eurlex/corrected -o data/canonical/eurlex.jsonl --source eurlex
+  $PY -m legalner.tagged data/mapa_v2/corrected -o data/canonical/mapa_v2.jsonl --source mapa_v2
   $PY -m legalner.sources.ler -o data/canonical/ler
   $PY -m legalner.sources.replay -o data/canonical/replay.jsonl --max-per-set 5000
   $PY -m legalner.sources.mapa -o data/canonical/mapa
+  # the RIS cache of the first run is committed (10 MB); fetch only downloads what is missing from it
+  [ -d data/ris/raw ] || tar -C data/ris -xJf data/ris/raw.tar.xz
   $PY -m legalner.sources.ris fetch data/ris/index.jsonl --cache data/ris/raw --delay 0.3
   $PY -m legalner.sources.ris convert data/ris/index.jsonl --cache data/ris/raw -o data/canonical/ris.jsonl
   $PY -m legalner.goldset export
@@ -47,11 +58,13 @@ build)
   $PY -m legalner.build \
     data/canonical/synthetic_v1.jsonl data/canonical/synthetic.jsonl data/canonical/synthetic_v3.jsonl \
     data/canonical/synthetic_v4.jsonl $(ls data/canonical/synthetic_v5.jsonl 2>/dev/null) \
+    data/canonical/synthetic_v6.jsonl $(ls data/canonical/synthetic_v7*.jsonl 2>/dev/null) data/canonical/eurlex.jsonl \
     data/canonical/ris.jsonl data/canonical/replay.jsonl \
-    data/canonical/ler/*.jsonl data/canonical/mapa/*.jsonl data/canonical/gold_at.jsonl \
+    data/canonical/ler/*.jsonl data/canonical/mapa/*.jsonl data/canonical/mapa_v2.jsonl data/canonical/gold_at.jsonl \
     --exclude-docs data/gold/at/doc_ids.txt \
-    --max-per-doc ris=20 --cap ris:Bundesverwaltungsgericht=800 \
-    --mix ler=0.4,synthetic=0.3,ris=0.15,replay=0.15 \
+    --max-per-doc ris=20 --cap ris:Bundesverwaltungsgericht=300 --source-copies synthetic_eu=3 \
+    --source-copies synthetic=2 \
+    --windows --layout-frac ${LAYOUT_FRAC:-0.2} --name-swap-copies ${NAME_SWAP_COPIES:-1} \
     --validate -o "$BUILD" > /dev/null
   $PY -c "import json; m = json.load(open('$BUILD/manifest.json')); \
           print({k: m[k] for k in ('train', 'dev', 'test', 'train_share', 'validate')})"
@@ -60,16 +73,27 @@ smoke)
   $PY -m legalner.train "$BUILD" -o out/smoke --max-steps 20 --eval-steps 10 --precision bf16
   ;;
 train)
-  $PY -m legalner.train "$BUILD" -o "$RUN" --epochs 3 --batch-size 8 --grad-accum 4 \
-    --encoder-lr 1e-5 --task-lr 5e-4 --eval-steps 500 --precision bf16 ${WANDB:+--wandb "$WANDB"}
+  $PY -m legalner.train "$BUILD" -o "$RUN" --epochs ${EPOCHS:-3} --max-steps ${MAX_STEPS:--1} --batch-size 8 --grad-accum 4 \
+    --encoder-lr 1e-5 --task-lr 5e-4 --eval-steps ${EVAL_STEPS:-1000} --patience ${PATIENCE:-3} --precision bf16 ${WANDB:+--wandb "$WANDB"}
   ;;
 eval)
   mkdir -p out/eval
-  for model in "$RUN/best" fastino/gliner2.5-multi-v1 fastino/gliner2-privacy-filter-PII-multi; do
+  # EXTRA_MODELS: further checkpoints to compare, e.g. a previous run's best/
+  for model in "$RUN/best" ${EXTRA_MODELS:-} fastino/gliner2.5-multi-v1 fastino/gliner2-privacy-filter-PII-multi; do
     name=$(basename "$model")
-    $PY -m legalner.evaluate "$model" data/canonical/gold_at.jsonl --out "out/eval/gold_$name.json"
+    [ "$name" = best ] && name=$(basename "$(dirname "$model")")  # out/v2/best -> v2
+    $PY -m legalner.evaluate "$model" data/canonical/gold_at.jsonl --out "out/eval/gold_$name.json" \
+      --save-preds "out/eval/preds_gold_$name.jsonl"
+    $PY -m legalner.evaluate "$model" data/canonical/mapa_v2.jsonl --out "out/eval/mapa2_$name.json" \
+      --save-preds "out/eval/preds_mapa2_$name.jsonl"
     $PY -m legalner.evaluate "$model" "$BUILD/test.canonical.jsonl" --max-per-source 2000 \
-      --out "out/eval/test_$name.json"
+      --out "out/eval/test_$name.json" --save-preds "out/eval/preds_test_$name.jsonl"
+    $PY -m legalner.evaluate "$model" data/test/obdk_synth/obdk_synth_test.jsonl --out "out/eval/obdk_$name.json" \
+      --save-preds "out/eval/preds_obdk_$name.jsonl"
+    # production mode: the hub2 service's single call, label list, word chunks and post-processing
+    $PY -m legalner.prodeval "$model" data/canonical/gold_at.jsonl data/canonical/mapa_v2.jsonl \
+      data/test/obdk_synth/obdk_synth_test.docs.jsonl data/test/regression/regression.jsonl \
+      --chunk-sizes 96,384 --out "out/eval/prod_$name.json"
   done
   ;;
 *)

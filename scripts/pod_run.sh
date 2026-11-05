@@ -1,0 +1,173 @@
+#!/usr/bin/env bash
+# RunPod start script: data + code from a private HF dataset repo, smoke, train, eval,
+# results to a private HF model repo, then the pod stops itself.
+#
+# Env: HF_TOKEN, HF_REPO (dataset repo with build/ and code.tar.gz), HF_OUT (model repo),
+#      optional STEPS="smoke train eval", MAX_HOURS (self-stop watchdog, default 7.5);
+#      SMOKE_GATE (default 1): after smoke, wait for control/go or control/abort in HF_OUT
+#      (GATE_MINUTES, default 60, then stop); for local tests: CHECK_CUDA=0, STOP_SLEEP=0.
+#   release the gate:  touch go && hf upload <HF_OUT> go control/go   (or abort -> control/abort)
+# Start command on the pod:
+#   bash -c 'curl -fsSL -H "Authorization: Bearer $HF_TOKEN" \
+#     https://huggingface.co/datasets/$HF_REPO/resolve/main/pod_run.sh -o /pod_run.sh && bash /pod_run.sh'
+set -uo pipefail
+W=${WORKDIR:-/workspace/run}
+LOG=$W/logs
+STEPS=${STEPS-"smoke train eval"}
+mkdir -p "$LOG"
+exec > >(tee -a "$LOG/pod.log") 2>&1
+export HF_HUB_ENABLE_HF_TRANSFER=0 PYTHONUNBUFFERED=1 TOKENIZERS_PARALLELISM=false
+stamp() { date -u +%FT%TZ; }
+note() { echo "[$(stamp)] $*" | tee -a "$LOG/progress.log"; }
+
+stop_pod() {
+  note "stopping pod ${RUNPOD_POD_ID:-?}"
+  upload_logs || true
+  if [ -n "${RUNPOD_POD_ID:-}" ]; then
+    runpodctl stop pod "$RUNPOD_POD_ID" || runpodctl remove pod "$RUNPOD_POD_ID" || true
+  fi
+  sleep "${STOP_SLEEP:-600}"   # never fall through to a restart loop
+}
+
+upload_logs() {
+  nvidia-smi --query-gpu=utilization.gpu,memory.used,memory.total --format=csv,noheader >> "$LOG/gpu.log" 2>/dev/null
+  python - <<PY
+from huggingface_hub import HfApi
+import os
+HfApi().upload_folder(folder_path="$LOG", path_in_repo="logs", repo_id=os.environ["HF_OUT"],
+                      repo_type="model", commit_message="progress")
+PY
+}
+
+upload_best() {  # the trainer's best checkpoint, whenever it changed (also before a watchdog stop)
+  local best="$W/repo/${RUN:-out/v1}/best" mark="$W/.best_uploaded"
+  [ -d "$best" ] || return 0
+  [ -f "$mark" ] && [ -z "$(find "$best" -newer "$mark" -type f | head -1)" ] && return 0
+  touch "$mark.new"
+  python - "$best" <<'PY' && mv "$mark.new" "$mark"
+import os, sys
+from huggingface_hub import HfApi
+HfApi().upload_folder(folder_path=sys.argv[1], path_in_repo="best", repo_id=os.environ["HF_OUT"],
+                      repo_type="model", commit_message="best checkpoint (interim)")
+PY
+}
+
+descendants() { local c; for c in $(pgrep -P "$1"); do descendants "$c"; echo "$c"; done; }
+trap 'kill $(descendants $$) 2>/dev/null' EXIT
+# watchdog: hard wall-clock cap, independent of the main job
+( sleep "$(python3 -c "print(int(float('${MAX_HOURS:-7.5}')*3600))")"; note "WATCHDOG: MAX_HOURS reached";
+  upload_best || note "WARN best upload failed"; stop_pod ) &
+# progress uploader every 15 min; the best checkpoint too once the trainer has written one
+( sleep 120; while true; do upload_logs > /dev/null 2>&1 || true; upload_best > /dev/null 2>&1 || true; sleep 900; done ) &
+
+fail() { note "FAILED: $*"; stop_pod; exit 1; }
+
+control() {  # clear | wait: poll HF_OUT for control/go or control/abort
+  python - "$1" <<'PY'
+import os, sys, time
+from huggingface_hub import HfApi
+api, repo = HfApi(), os.environ["HF_OUT"]
+def present():
+    try:
+        return {f.split("/")[1] for f in api.list_repo_files(repo) if f.startswith("control/")}
+    except Exception:
+        return set()
+if sys.argv[1] == "clear":
+    if present():
+        api.delete_folder("control", repo_id=repo, commit_message="clear gate")
+    sys.exit(0)
+deadline = time.time() + 60 * float(os.environ.get("GATE_MINUTES", "60"))
+while time.time() < deadline:
+    found = present()
+    if "abort" in found:
+        sys.exit(1)
+    if "go" in found:
+        sys.exit(0)
+    time.sleep(60)
+sys.exit(2)
+PY
+}
+
+note "start; steps=$STEPS; gpu=$(nvidia-smi --query-gpu=name,memory.total --format=csv,noheader)"
+python -m pip install -q "torch==2.6.0" --index-url https://download.pytorch.org/whl/cu124 || fail "torch install"
+python -m pip install -q "gliner2==2.1.0" "transformers==5.22.0" sentencepiece "huggingface_hub>=1.0" pyarrow numpy \
+  safetensors protobuf || fail "pip install"
+# the image's torchvision/torchaudio are built for its own torch and break transformers' imports
+python -m pip uninstall -y -q torchvision torchaudio
+python -c "from gliner2 import AutoExtractor; from gliner2.training import ExtractorTrainer" || fail "import gliner2"
+[ "${CHECK_CUDA:-1}" = 0 ] || python -c "import torch; assert torch.cuda.is_available() and torch.cuda.is_bf16_supported(); print(torch.__version__, torch.cuda.get_device_name(0))" \
+  || fail "no cuda/bf16"
+
+[ "${SMOKE_GATE:-1}" = 0 ] || control clear || fail "clear gate"
+cd "$W"
+python - <<PY || fail "download"
+from huggingface_hub import snapshot_download
+import os
+snapshot_download(os.environ["HF_REPO"], repo_type="dataset", local_dir="dl")
+PY
+mkdir -p repo && tar -xzf dl/code.tar.gz -C repo && mkdir -p repo/data/build repo/data/canonical \
+  && cp -r dl/build/* repo/data/build/ && cp dl/canonical/*.jsonl repo/data/canonical/ || fail "unpack"
+export BUILD=${BUILD:-data/build/v1} RUN=${RUN:-out/v1}
+cd repo
+if [ -n "${PREV_MODEL_REPO:-}" ]; then  # previous run's checkpoint, evaluated alongside (EXTRA_MODELS)
+  python -c "
+from huggingface_hub import snapshot_download; import os
+snapshot_download(os.environ['PREV_MODEL_REPO'], allow_patterns=['best/*'], local_dir='out/prev')" || fail "download previous model"
+  mv out/prev "out/${PREV_NAME:-prev}" && export EXTRA_MODELS="out/${PREV_NAME:-prev}/best"
+fi
+# gpu_run.sh expects .venv/bin/python; point it at the system interpreter
+mkdir -p .venv/bin && ln -sf "$(command -v python)" .venv/bin/python
+note "data ready: $(wc -l < "$BUILD/train.jsonl") train records in $BUILD"
+
+run_step() {  # name
+  note "step $1 begin"
+  local t0=$(date +%s)
+  ( while sleep 60; do nvidia-smi --query-gpu=utilization.gpu,memory.used --format=csv,noheader | sed "s/^/$(date -u +%T) /"; done ) \
+    >> "$LOG/gpu_$1.log" 2>&1 &
+  local mon=$!
+  bash scripts/gpu_run.sh "$1" > "$LOG/$1.log" 2>&1
+  local rc=$?
+  kill $mon 2>/dev/null
+  note "step $1 end rc=$rc in $(( ($(date +%s)-t0)/60 )) min; peak mem $(sort -t, -k2 -n "$LOG/gpu_$1.log" | tail -1)"
+  grep -E "'loss'|train_loss|eval_loss|samples/s|it/s" "$LOG/$1.log" | tail -5 >> "$LOG/progress.log"
+  return $rc
+}
+
+for s in $STEPS; do
+  run_step "$s" || fail "step $s"
+  if [ "$s" = smoke ]; then
+    python - "$LOG/smoke.log" <<'PY' | tee -a "$LOG/progress.log"
+import re, sys
+txt = open(sys.argv[1]).read()
+ls = [float(x) for x in re.findall(r"loss[\"']?\s*[:=]\s*([0-9.]+)", txt)]
+print("smoke losses:", ls[:40])
+PY
+    upload_logs || true
+    if [ "${SMOKE_GATE:-1}" != 0 ]; then
+      note "smoke done; waiting up to ${GATE_MINUTES:-60} min for control/go or control/abort in $HF_OUT"
+      upload_logs || true
+      control wait; rc=$?
+      [ $rc = 0 ] || fail "gate: $([ $rc = 1 ] && echo aborted || echo 'no go within timeout')"
+      note "gate: go"
+    fi
+  fi
+  if [ "$s" = train ]; then
+    python - <<PY || note "WARN upload of model failed"
+from huggingface_hub import HfApi
+import os
+api = HfApi()
+run = os.environ["RUN"]
+api.upload_folder(folder_path=f"{run}/best", path_in_repo="best", repo_id=os.environ["HF_OUT"], commit_message="best checkpoint")
+if os.path.exists(f"{run}/train_result.json"):
+    api.upload_file(path_or_fileobj=f"{run}/train_result.json", path_in_repo="train_result.json", repo_id=os.environ["HF_OUT"])
+PY
+  fi
+  if [ "$s" = eval ]; then
+    python -c "
+from huggingface_hub import HfApi; import os
+HfApi().upload_folder(folder_path='out/eval', path_in_repo='eval', repo_id=os.environ['HF_OUT'], commit_message='eval')" \
+      || note "WARN eval upload failed"
+  fi
+done
+note "ALL DONE"
+stop_pod

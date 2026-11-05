@@ -1,0 +1,67 @@
+---
+doc_type: honorarnote
+jurisdiction: AT
+lang: de
+---
+Rechtsanwälte
+[[person|Falkner]], [[person|Purkarthofer]]
+[[address|Eckpergasse 3, 4180 Sonnberg im Mühlkreis]]
+T: [[phone_number|+43-7242-8633208 Kl. 85]]  F: [[phone_number|0732 886917-95]]
+E: [[email|office@falkner.at]]  W: www.falkner.at
+UID: [[tax_id|ATU39541466]]
+[[organization|UniCredit Bank Austria AG]] IBAN: [[bank_account|AT60 8317 4483 2532 9664]] BIC: [[bank_account|GIBAATWW]]
+ERV-Code: [[other_identifier|R350276]]
+
+HONORARNOTE
+
+Rechnungsnummer 2026/1187
+Rechnungsdatum: [[date|29.10.2026]]
+
+Unser Zeichen: [[other_identifier|Schachner ./. Plischke]]
+Klientennummer: [[other_identifier|73839]]
+
+An
+[[person|Florenz Schachner]]
+Kl.-Nr. [[other_identifier|55459]]
+[[address|7361 Lutzmannsburg]]
+
+Sehr geehrter Herr [[person|Schachner]],
+
+wir erlauben uns, für unsere Tätigkeit in der Angelegenheit gegen [[person|Ottokar Plischke]] folgende Honorarnote zu legen:
+
+DATUM | LEISTUNG | BETRAG
+[[date|12.03.2026]] | Besprechung mit [[person|Florenz Schachner]], Erstberatung und Prüfung der Unterlagen | EUR 280,00
+[[date|19.03.2026]] | Verfassen des Schriftsatzes für [[person|Florenz Schachner]], 3,5 Stunden | EUR 630,00
+[[date|02.04.2026]] | Telefonat mit [[person|Petronilla Jonas]] wegen der Kl.-Nr. und der Vollmacht, 1,2 Stunden | EUR 210,00
+[[date|22.04.2026]] | Einsicht in den Akt, Kopien und Aktennotiz für [[person|Florenz Schachner]] | EUR 280,00
+
+Zwischensumme netto: EUR 1.400,00
+Umsatzsteuer 20 %: EUR 280,00
+Gesamtbetrag (brutto, zahlbar in Euro): EUR 1.680,00
+
+Bereits bezahlte Vorschüsse wurden in dieser Honorarnote nicht gegengerechnet, weil die Vorschusszahlung vom [[date|05.03.2026]] laut Vollmacht ausdrücklich als Kostenvorschuss für Gerichtsgebühren vereinbart war. Die Eingabegebühr für die Klage wurde unmittelbar von der Mandantin bezahlt und ist hier nicht enthalten.
+
+Die Honorarnote ist binnen 14 Tagen zur Zahlung fällig. Bitte überweisen Sie den Betrag auf das Konto der Kanzlei oder auf das Konto [[bank_account|AT61 3539 6212 3136 7904]] mit dem Verwendungszweck "[[other_identifier|Schachner ./. Plischke]]".
+
+Die Gebühren wurden nach dem Tarif berechnet, der in der Vollmacht vom [[date|05.03.2026]] vereinbart war. Auslagen für Porto und Kopien sind in den Positionen enthalten. Die Tätigkeit im Zusammenhang mit der Auseinandersetzung gegen [[person|Plischke]] umfasst die Vorbereitung der Klage, die Korrespondenz mit der Gegenseite und die Abstimmung der Beweisanträge mit dem Klienten [[person|Florenz Schachner]].
+
+Bei Rückfragen zu einzelnen Positionen bitten wir um kurze schriftliche Mitteilung, damit wir die betreffenden Leistungen mit den Unterlagen abgleichen können. Die Zeitangaben beruhen auf unseren internen Aufzeichnungen, die auf Wunsch eingesehen werden können. Eine Änderung der Honorarnote ist nur bei nachweisbaren Rechenfehlern vorgesehen, und auch dann nur nach schriftlicher Mitteilung an die Kanzlei.
+
+Die Umsatzsteuer wurde nach dem Regelsteuersatz ausgewiesen, weil die Leistungen im Inland erbracht wurden und die Kanzlei zur Regelbesteuerung optiert hat. Die Kanzlei ist unter der oben angeführten UID umsatzsteuerlich erfasst.
+
+Wir danken für Ihr Vertrauen und stehen für die weitere Vertretung im Verfahren gerne zur Verfügung. Die nächsten Schritte, insbesondere die Vorbereitung der Tagsatzung und die Abstimmung mit dem Sachverständigen, werden wir Ihnen rechtzeitig mitteilen.
+
+Mit freundlichen Grüßen
+
+[[person|Falkner]]
+Rechtsanwalt
+
+Für Rückfragen zu dieser Honorarnote erreichen Sie uns unter Tel. [[phone_number|+43-463-4845431 Kl. 28]].
+
+Hinweis: Die Honorarnote wurde elektronisch erstellt und ist ohne Unterschrift gültig.
+
+Die Honorarnote für [[person|Petronilla Jonas]] wird gesondert erstellt. Gerichtsgebühren sind in keiner der beiden Noten enthalten.
+
+Ausgestellt in [[location|St. Johann im Pongau]], [[date|29.10.2026]]
+
+EINGANG KANZLEI: [[person|FLORENZ SCHACHNER]] KL.-NR. [[other_identifier|73839]] ZEICHEN [[other_identifier|SCHACHNER ./. PLISCHKE]]

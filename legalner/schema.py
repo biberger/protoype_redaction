@@ -6,7 +6,9 @@ that build.py can swap in during training (keeps the model robust to label
 wording and preserves zero-shot behaviour).
 
 Role labels (judge, lawyer) are *additional* labels on spans that are also
-`person`; `person` is always the superset of every named natural person.
+`person`; `person` is always the superset of every named natural person. Since 2026-11 the roles are kept in
+the data but not queried (QUERY_ROLES): production masks every name as person, so training matches that.
+`country` and `date_of_birth` are derived from location/organization and date spans by legalner.relabel.
 """
 from dataclasses import dataclass, field
 
@@ -36,11 +38,12 @@ LABELS = {
     # --- organisations ---------------------------------------------------
     "organization": Label(
         "Company, association, political party, authority, ministry, public body "
-        "or law firm; not courts.",
+        "or law firm; not courts, not disciplinary bodies that decide cases, not countries.",
         de=("Organisation", "Unternehmen oder Behörde", "Firma"),
         fr=("organisation", "entreprise ou administration")),
     "court": Label(
-        "Court or tribunal, including abbreviations such as OGH, BGH, VwGH, LG Wien.",
+        "Court or tribunal, including abbreviations such as OGH, BGH, VwGH, LG Wien, and disciplinary bodies "
+        "that decide cases (OBDK, Disziplinarrat der Rechtsanwaltskammer).",
         de=("Gericht",), fr=("tribunal", "juridiction", "cour"), group="legal"),
     # --- places ----------------------------------------------------------
     "address": Label(
@@ -51,12 +54,18 @@ LABELS = {
         "Name of a street or square without a house number.",
         de=("Straße", "Straßenname"), fr=("rue", "nom de rue")),
     "location": Label(
-        "City, municipality, region, landscape or country that is not part of an address.",
-        de=("Ort", "Ortsname", "Land oder Stadt"), fr=("lieu", "ville ou pays")),
+        "City, municipality, region or landscape that is not part of an address; not a country.",
+        de=("Ort", "Ortsname", "Stadt oder Region"), fr=("lieu", "ville ou région")),
+    "country": Label(
+        "Name of a country or state, as territory or as a party (Österreich, Republik Österreich, la France).",
+        de=("Land", "Staat", "Staatsname"), fr=("pays", "État"), group="other"),
     # --- time --------------------------------------------------------------
     "date": Label(
-        "Day-precise calendar date in any spelling.",
+        "Day-precise calendar date in any spelling, other than a date of birth.",
         de=("Datum",), fr=("date",)),
+    "date_of_birth": Label(
+        "Date of birth of a person, e.g. after 'geb.', 'geboren am', 'Geburtsdatum', '*' or 'né le'.",
+        de=("Geburtsdatum",), fr=("date de naissance",)),
     # --- identifiers -----------------------------------------------------
     "case_number": Label(
         "Case reference number of a court or authority (Geschäftszahl, Aktenzeichen).",
@@ -85,10 +94,12 @@ LABELS = {
         "Number of a passport, identity card or driving licence.",
         de=("Ausweisnummer", "Reisepassnummer"), fr=("numéro de pièce d'identité",)),
     "other_identifier": Label(
-        "Other personal identifier such as customer, policy, file or social-media account ID.",
-        de=("Kennnummer", "Kundennummer"), fr=("identifiant",)),
+        "Other personal identifier: client, customer, member, insurance policy, trust account (Treuhandbuch) "
+        "or contract number, a party's own file reference (Zeichen, Unser Zeichen), vehicle VIN, social-media "
+        "account.",
+        de=("Kennnummer", "Kundennummer", "Aktenzeichen der Partei"), fr=("identifiant", "numéro de client")),
     "phone_number": Label(
-        "Telephone or fax number.",
+        "Telephone or fax number including its extension (DW, Kl., Durchwahl).",
         de=("Telefonnummer",), fr=("numéro de téléphone",)),
     "email": Label(
         "E-mail address.", de=("E-Mail-Adresse",), fr=("adresse e-mail", "courriel")),
@@ -125,14 +136,24 @@ class Source:
     lists its own query labels in meta["query_labels"]. `eval_merge` maps a
     gold label to the predicted labels that count for it (MAPA's ORGANISATION
     includes courts, so organization is scored against organization ∪ court).
+    `eval_partial` lists labels the source annotates only partly (MAPA leaves most courts and EU bodies
+    unannotated): a prediction of such a label counts as a false positive only if it overlaps some gold span
+    of the record, so precision is measured on annotated regions and recall stays exact.
     """
     name: str
     coverage: frozenset
     nested_conflicts: dict = field(default_factory=dict)
     open_labels: bool = False
     eval_merge: dict = field(default_factory=dict)
+    eval_partial: frozenset = frozenset()
     eval_only: bool = False  # every record goes to the test split
 
+
+# judge/lawyer stay annotated but are not queried (build.query_labels); production masks every name as person
+QUERY_ROLES = False
+ROLE_LABELS = frozenset({"judge", "lawyer"})
+# derived labels follow the coverage of the label they are split from (legalner.relabel)
+DERIVED = {"date_of_birth": "date", "country": "location"}
 
 _ALL = frozenset(LABELS)
 
@@ -152,8 +173,23 @@ SOURCES = {
     "replay": Source("replay", frozenset(), open_labels=True),
     # MAPA (EUR-Lex, de/fr), evaluation only
     "mapa": Source("mapa", frozenset({"person", "organization", "location", "address", "date"}),
-                   eval_merge={"organization": ("organization", "court")}, eval_only=True),
+                   eval_merge={"organization": ("organization", "court")}, eval_partial=frozenset({"organization"}),
+                   eval_only=True),
     # hand-checked Austrian gold set (legalner.goldset), never trained on
+    # synthetic v6 EU documents (CJEU, GC, AG, Commission, EUIPO, ECtHR); own name so build can oversample it
+    # legal_norm is not queried: the v6 audit found 17 of 32 span errors to be missed EU norm citations
+    # (docs/audits/synthetic_v6.md), which would train as negatives; norms come from LER, synthetic, EUR-Lex
+    "synthetic_eu": Source("synthetic_eu", _ALL - {"case_citation", "contract", "literature", "brand", "legal_norm"}),
+    # real EU court texts (CELLAR), model-pre-annotated and agent-corrected to GENERATION.md (legalner.sources.eurlex)
+    "eurlex": Source("eurlex", _ALL - {"case_citation", "contract", "literature", "brand"}),
+    # MAPA's test documents re-annotated to GENERATION.md the same way; evaluation only
+    "mapa_v2": Source("mapa_v2", _ALL - {"case_citation", "contract", "literature", "brand"}, eval_only=True),
+    # synthetic OBDK lawyer-disciplinary decisions (data/test/obdk_synth): a benchmark for the real decisions,
+    # which may not be used; kept evaluation-only so it stays an unbiased yardstick
+    "synthetic_obdk": Source("synthetic_obdk", _ALL - {"case_citation", "contract", "literature", "brand"},
+                             eval_only=True),
+    # production misses reported from the hub2 service (data/test/regression), kept as permanent test cases
+    "regression": Source("regression", _ALL - {"case_citation", "contract", "literature", "brand"}, eval_only=True),
     "gold_at": Source("gold_at", _ALL - {"case_citation", "contract", "literature", "brand"}, eval_only=True),
     # RIS decisions: pseudonymised placeholders filled from gazetteers; only the
     # filled labels plus the deterministic ones (dates, case numbers, courts) are covered

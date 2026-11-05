@@ -503,3 +503,242 @@ def test_lint_flags_register_prefix_outside_span(tmp_path):
     _, warnings = parse_file(write_doc(tmp_path, "[[organization|Huber GmbH]], FN [[company_register_number|531927x]]"),
                              "synthetic")
     assert any("register prefix outside span" in w for w in warnings)
+
+
+def test_abbreviation_augment_replaces_later_mentions():
+    from legalner.build import abbreviation_augment, abbreviations
+    from legalner.tagged import strip_tags
+    tagged = ("Die [[organization|Workplace Relations Commission]] ([[organization|WRC]]) entschied am "
+              "[[date|3. Mai 2024]]. Die [[organization|Workplace Relations Commission]] wies "
+              "[[person|IR]] ab; die [[organization|Workplace Relations Commission]] blieb dabei.")
+    text, spans = strip_tags(tagged, "t.md")
+    rec = {"id": "x", "doc_id": "d", "source": "synthetic", "text": text,
+           "spans": [{"label": lab, "start": a, "end": b, "text": text[a:b]} for lab, a, b, _ in spans]}
+    abbr = abbreviations([rec])
+    assert abbr == {"d": {"Workplace Relations Commission": "WRC"}}
+    out = abbreviation_augment(rec, abbr["d"], random.Random(0), p=1.0)
+    assert out["text"].startswith("Die Workplace Relations Commission (WRC) entschied")
+    assert out["text"].count("Workplace Relations Commission") == 1 and "Die WRC wies IR ab; die WRC blieb" in out["text"]
+    assert all(s["text"] == out["text"][s["start"]:s["end"]] for s in out["spans"])
+    assert [s["text"] for s in out["spans"]] == ["Workplace Relations Commission", "WRC", "3. Mai 2024", "WRC", "IR", "WRC"]
+
+
+def test_partial_labels_and_coarse_view():
+    from legalner.evaluate import to_coarse
+    text = "Der Gerichtshof und die Kommission hörten IR am 3. Mai 2024."
+    rec = {"id": "m", "doc_id": "m", "source": "mapa", "jurisdiction": "EU", "text": text,
+           "spans": [{"label": "organization", "start": 24, "end": 34, "text": "Kommission"},
+                     {"label": "person", "start": 41, "end": 43, "text": "IR"},
+                     {"label": "date", "start": 47, "end": 58, "text": "3. Mai 2024"}]}
+    pred = {"court": {(4, 15)}, "organization": {(24, 34)}, "judge": {(41, 43)}, "date": {(47, 58)}}
+    rep = score([rec], [pred])["scores"]
+    # the unannotated court "Gerichtshof" is not a false positive for MAPA's partial organization annotation
+    assert rep["all|organization"]["p"] == 1.0 and rep["all|organization"]["r"] == 1.0
+    assert rep["all|person"]["r"] == 0.0  # predicted only as judge
+    coarse = score(*to_coarse([rec], [pred]))["scores"]
+    assert coarse["all|person"]["f1"] == 1.0 and coarse["all|organization"]["f1"] == 1.0
+    assert coarse["all|*"]["f1"] == 1.0
+
+
+def test_pretag_inline_resolves_overlaps():
+    from legalner.pretag import inline
+    text = "Richter Max Huber und die Huber Bau GmbH in Wien."
+    pred = {"person": {(8, 17)}, "judge": {(8, 17)}, "organization": {(26, 40)}, "location": {(32, 40), (44, 48)}}
+    assert inline(text, pred) == ("Richter [[judge|Max Huber]] und die [[organization|Huber Bau GmbH]] in "
+                                  "[[location|Wien]].")
+
+
+def test_relabel_production_conventions():
+    from legalner.relabel import relabel
+    t = ("Dr. Max Huber, geb. 14.07.1983, wohnhaft\n1010 Wien, Tel. 0222/52152 DW 3780, vor dem Disziplinarrat der "
+         "Rechtsanwaltskammer Wien; Österreich hat vorgetragen. Fait à Luxembourg. the 2015 Alabama")
+
+    def sp(lab, s):
+        i = t.index(s)
+        return {"label": lab, "start": i, "end": i + len(s), "text": s}
+    rec = {"text": t, "lang": "de", "spans": [
+        sp("date", "14.07.1983"), sp("location", "Wien"), sp("phone_number", "0222/52152"),
+        sp("organization", "Disziplinarrat der Rechtsanwaltskammer Wien"), sp("organization", "Österreich"),
+        sp("location", "Luxembourg"), sp("location", "Alabama"), sp("person", "Dr. Max Huber")]}
+    got = {s["text"]: s["label"] for s in relabel(rec)["spans"]}
+    assert got == {"14.07.1983": "date_of_birth", "1010 Wien": "address", "0222/52152 DW 3780": "phone_number",
+                   "Disziplinarrat der Rechtsanwaltskammer Wien": "court", "Österreich": "country",
+                   "Luxembourg": "location", "Alabama": "location", "Dr. Max Huber": "person"}
+    assert all(s["text"] == t[s["start"]:s["end"]] for s in relabel(rec)["spans"])
+    t2 = "Anna Berger, *1970, und Max Berger, * 03.05.1958"
+    rec2 = {"text": t2, "lang": "de", "spans": [{"label": "date_of_birth", "start": t2.index("*1970"), "end": t2.index("*1970") + 5,
+            "text": "*1970"}, {"label": "date", "start": t2.index("* 03"), "end": len(t2), "text": "* 03.05.1958"}]}
+    out = relabel(rec2)["spans"]
+    assert [s["text"] for s in out] == ["1970", "03.05.1958"] and all(s["label"] == "date_of_birth" for s in out)
+    assert all(s["text"] == t2[s["start"]:s["end"]] for s in out)
+
+
+def test_roles_not_queried_and_derived_labels_follow_coverage():
+    from legalner.build import query_labels
+    labels = query_labels({"source": "synthetic", "text": "", "spans": [], "meta": {}})
+    assert "judge" not in labels and "lawyer" not in labels and "person" in labels
+    assert {"date_of_birth", "country"} <= labels
+    ler = query_labels({"source": "ler", "text": "", "spans": [], "meta": {}})
+    assert "date_of_birth" not in ler and "country" in ler  # LER covers location but not date
+
+
+def _rec(tagged, source="synthetic", doc_id="d", rid="synthetic/d#0"):
+    from legalner.tagged import strip_tags
+    text, spans = strip_tags(tagged, "t.md")
+    return {"id": rid, "doc_id": doc_id, "source": source, "lang": "de", "jurisdiction": "AT", "text": text,
+            "spans": [{"label": lab, "start": a, "end": b, "text": text[a:b]} for lab, a, b, _ in spans], "meta": {}}
+
+
+def test_layout_transforms_keep_spans_exact():
+    from legalner import augment as A
+    rec = _rec("[[organization|GERNGROSS KÖCK]] Rechtsanwälte\nZeichen [[other_identifier|V-PPPahl/Grazer]]\n\n"
+               "Die Übertragung der vorangehenden Eintragung an [[person|Dr. Maria Huber]] erfolgte am "
+               "[[date|3. Mai 2024]] in [[location|Wien]] (Bezirk [[location|Innere Stadt]]) ohne Einwände der "
+               "Gegenseite, die ihre Stellungnahme fristgerecht beim Grundbuchsgericht eingebracht hatte.\n" * 3)
+    rng = random.Random(1)
+    for fn in A.TRANSFORMS:
+        for _ in range(20):
+            out = fn(rec, rng)
+            assert len(out["spans"]) == len(rec["spans"])
+            assert all(out["text"][s["start"]:s["end"]] == s["text"] for s in out["spans"])
+    spaced = A.rebuild(_rec("[[organization|GERN KÖCK]]"), post={i: " " for i in (0, 1, 2, 3, 5, 6, 7)})
+    assert spaced["text"] == "G E R N  K Ö C K" and spaced["spans"][0]["text"] == "G E R N  K Ö C K"
+
+
+def test_name_swap_is_consistent_and_keeps_degrees():
+    from legalner.augment import NameSwapper
+    from legalner.gazetteers import Gazetteer
+    gaz = Gazetteer(rng=random.Random(2))
+    if not gaz.last.get("AT"):
+        pytest.skip("gazetteer TSVs not available")
+    rec = _rec("Frau [[person|Dr. Maria Huber]] und [[judge|Mag. Peter Gruber]]; [[person|Hubers]] Antrag, "
+               "[[person|A*****]] und [[person|Huber]].")
+    out = NameSwapper(gaz, random.Random(2)).swap(rec)
+    by = {(s["label"], s["text"]) for s in out["spans"]}
+    texts = [s["text"] for s in out["spans"] if s["label"] == "person"]
+    assert all(out["text"][s["start"]:s["end"]] == s["text"] for s in out["spans"])
+    assert texts[0].startswith("Dr. ") and "Huber" not in texts[0] and "A*****" in texts
+    surname = texts[0].split()[-1]
+    assert f"{surname}s" in texts and surname in texts  # genitive and bare surname follow the full name
+    assert any(lab == "judge" and t.startswith("Mag. ") for lab, t in by)
+
+
+def test_rewindow_never_splits_spans():
+    from legalner.augment import rewindow
+    chunks = [_rec(("Der Beschwerdeführer [[person|Max Mustermann]] wohnt in [[address|Hauptstraße 4, 1010 Wien]]. "
+                    * 30).strip(), rid=f"synthetic/d#{i}") for i in range(3)]
+    wins = rewindow(chunks, random.Random(3))
+    assert len(wins) >= 3
+    total = sum(len(c["spans"]) for c in chunks)
+    assert sum(len(w["spans"]) for w in wins) == total
+    for w in wins:
+        assert all(w["text"][s["start"]:s["end"]] == s["text"] for s in w["spans"])
+
+
+def test_prodeval_scores_chars_mentions_and_visible_spans():
+    from legalner.prodeval import score
+    text = "Herr Max Huber vor dem LG Wien am 3. Mai 2024, GZ 4 Cg 1/24k."
+    rec = _rec("Herr [[person|Max Huber]] vor dem [[court|LG Wien]] am [[date|3. Mai 2024]], GZ "
+               "[[case_number|4 Cg 1/24k]].", source="gold_at")
+    assert rec["text"] == text
+    i = text.index
+    masks = [(i("Max"), i("Max") + 3, "person"), (i("LG"), i("LG") + 7, "organization"),
+             (i("4 Cg"), i("4 Cg") + 10, "case_number")]
+    r = score([rec], [masks])["all"]
+    assert r["leaked_mentions"] == 0.5          # "Huber" stays visible
+    assert abs(r["char_recall"] - 11 / 16) < 1e-9  # 16 non-space PII chars ("MaxHuber", "4Cg1/24k"), 11 masked
+    assert r["visible_masked"] > 0              # the court was masked
+
+
+def test_grundbuch_generator_produces_valid_tagged_extracts(tmp_path):
+    from legalner.gazetteers import Gazetteer
+    from legalner.sources.grundbuch import extract, land_ref, ocr
+    from legalner.tagged import parse_file
+    gaz = Gazetteer(rng=random.Random(4))
+    if not gaz.last.get("AT") or not gaz.towns.get("AT"):
+        pytest.skip("gazetteer TSVs not available")
+    rng = random.Random(4)
+    for i in range(15):
+        doc = extract(gaz, rng, i)
+        if i % 3 == 0:
+            doc = ocr(doc, rng)
+        path = tmp_path / f"AT_gb_{i:04d}_grundbuchsauszug.md"
+        path.write_text(f"---\ndoc_type: grundbuchsauszug\njurisdiction: AT\nlang: de\n---\n{doc.render()}")
+        recs, _ = parse_file(path, "synthetic")
+        labels = {s["label"] for r in recs for s in r["spans"]}
+        assert {"land_register_id", "case_number"} <= labels
+    refs = {land_ref(rng, "01005", "Josefstadt", "427", gst="115/35").render() for _ in range(50)}
+    assert len(refs) > 20 and all("[[land_register_id|" in r for r in refs)
+
+
+def test_register_generators_produce_valid_tagged_documents(tmp_path):
+    from legalner.gazetteers import Gazetteer
+    from legalner.sources.grundbuch import ocr
+    from legalner.sources.registers import KINDS, _std, _town_of
+    from legalner.tagged import parse_file
+    gaz = Gazetteer(rng=random.Random(5))
+    if not gaz.last.get("AT") or not gaz.towns.get("AT"):
+        pytest.skip("gazetteer TSVs not available")
+    rng = random.Random(5)
+    for kind, make in KINDS.items():
+        labels = set()
+        for i in range(12):
+            doc = make(gaz, rng, i)
+            if i % 4 == 0:
+                doc = ocr(doc, rng)
+            path = tmp_path / f"AT_{kind[:2]}_{i:04d}_{kind}.md"
+            path.write_text(f"---\ndoc_type: {kind}\njurisdiction: AT\nlang: de\n---\n{doc.render()}")
+            recs, _ = parse_file(path, "synthetic")
+            labels |= {s["label"] for r in recs for s in r["spans"]}
+        assert {"person", "date_of_birth", "address"} <= labels
+    assert _std("Hageng. 58, Wien 1160") == "Hageng. 58, 1160 Wien"
+    assert _town_of("Ligist 33, 8563 Ligist") == "Ligist" and _town_of("Kathrein-Straße 3, 8312 Ottendorf") == "Ottendorf"
+
+
+def test_transliterate_cyrillic_and_greek():
+    from legalner.gazetteers import transliterate
+    assert transliterate("Кузьма") == "Kusma" and transliterate("Ольга") == "Olha"
+    assert transliterate("Σωκρατης") == "Sokratis" and transliterate("Müller") == "Müller"
+
+
+def test_prodeval_tolerates_offsets_past_text_end():
+    from legalner.prodeval import score
+    rec = {"text": "Max Huber", "source": "synthetic", "lang": "de", "meta": {},
+           "spans": [{"start": 0, "end": 9, "label": "person", "text": "Max Huber"}]}
+    res = score([rec], [[(0, 15, "person")]])  # a prediction running past the end of the text
+    assert res
+
+
+def test_threshold_tuning_lowers_cutoff_for_a_low_confidence_hit():
+    from legalner.thresholds import tune
+    from legalner.evaluate import apply_thresholds
+    rec = {"id": "synthetic/d#0", "source": "synthetic", "doc_id": "d", "lang": "de", "jurisdiction": "AT", "meta": {},
+           "text": "Max Huber wohnt in Wien.",
+           "spans": [{"start": 0, "end": 9, "label": "person", "text": "Max Huber"}]}
+    conf = [{"person": {(0, 9): 0.4, (19, 23): 0.2}}]
+    chosen, _ = tune([rec], conf, min_support=1)
+    assert chosen["person"] == 0.4
+    assert apply_thresholds(conf, chosen)[0]["person"] == {(0, 9)}
+
+
+def test_propagate_masks_later_mentions_but_not_common_words():
+    from legalner.postprocess import propagate
+    t1 = "Klägerin: Mag. Maria Huber, vertreten durch Huber Bau GmbH (HBG)."
+    t2 = "Die Klägerin HUBER verweist auf Hubers Schreiben. Die HBG und Huber Bau zahlten. Der Richter Wien."
+    a, b = t1.index("Mag. Maria Huber"), t1.index("Huber Bau GmbH")
+    m1 = [(a, a + len("Mag. Maria Huber"), "person"), (b, b + len("Huber Bau GmbH"), "organization")]
+    out = propagate([t1, t2], [m1, []])
+    got = {t2[s:e] for s, e, _ in out[1]}
+    assert {"HUBER", "Hubers", "HBG", "Huber Bau"} <= got
+    assert "Richter" not in got and "Wien" not in got
+    assert {t1[s:e] for s, e, _ in out[0]} == {"Mag. Maria Huber", "Huber Bau GmbH", "HBG"}
+
+
+def test_propagate_respects_protected_visible_spans():
+    from legalner.postprocess import propagate
+    t = "Die Rechtsanwaltskammer Wien zeigte an. Der Disziplinarrat der Rechtsanwaltskammer Wien entschied."
+    org = (t.index("Rechtsanwaltskammer Wien"), t.index("Rechtsanwaltskammer Wien") + 24, "organization")
+    court_start = t.index("Disziplinarrat")
+    court = (court_start, court_start + len("Disziplinarrat der Rechtsanwaltskammer Wien"))
+    assert len(propagate([t], [[org]])[0]) == 2  # without protection the court name gets masked
+    assert propagate([t], [[org]], [[court]])[0] == [org]
